@@ -58,6 +58,9 @@ collections:
         source's reading attributed and unmerged; conflicts/ records where
         sources disagree; questions/ parks what nothing read can answer;
         compare/ holds one reconciliation record per source document.
+        chapters/ holds one page per chapter of the planned novel, collecting
+        what every read source says about it; overview/ lays chapters and the
+        plot's structure side by side.
       "/candidates": >
         One page per term. Where sources disagree the page says so and stops —
         which reading is right is the author's call, never the page's.

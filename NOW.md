@@ -124,13 +124,16 @@ before this list.
   it — or is the ambiguity the point? **The Plot-Konkretisierung proposes the second**:
   the Kap-22 find shows the component's serial is his dwelling's — „Er wohnt in der
   Akte seiner eigenen Quarantäne.“ (its L88), marked `[V]`.
-- **Kap 40 — 39 chapters or 41 movements?** The Plot-Konkretisierung runs Kap 0 to a
-  Kap 40 coda, „41 Bewegungen“, the coda a single click „ohne Ozon“ (its L159, L229),
-  marked `[V]`. Every other read source ends at Kap 39. Unread, landed: a
-  „Kap0-Kap40-Doppelklammer“ and a „Kap40 und Kap0 Fassung“ (both 2026-05-08, 58 and
-  3 lines with `Kap 40`), and „Three-Mode Architecture: 39 Chapters“ (`grep -c`,
-  orientation only). Not a conflict yet; one source proposing a chapter is not two
-  sources disagreeing.
+- **Kap 40 — 39 chapters or 41 movements? Mostly answered by the sources, and this
+  line was wrong.** It said every read source but the Plot-Konkretisierung ends at
+  Kap 39. Reading the chapter outlines onto chapter pages (decision 013) showed
+  otherwise: seven of the eight read documents that go chapter by chapter count
+  „41 Bewegungen" — Kap 0, Kap 1–39, Kap 40 — and give Kap 40 its own entry, the
+  konsolidiertes Konzept first (its L2). Only the 2025 AEGIS subplots count „39
+  Kapitel" with no frame. `Wiki/overview/plot.md` has the positions. What is still
+  open is the coda's content, not its existence: the Plot-Konkretisierung's single
+  click „ohne Ozon" is `[V]`. Unread, landed: a „Kap0-Kap40-Doppelklammer" and a
+  „Kap40 und Kap0 Fassung" (both 2026-05-08).
 - **C13 — Köln 2026 beyond the simulation?** Two sources place the `Basisrealität`
   beyond it, while four describe the `Externe Ebene` as not outside it. J54
   equates those names by their shared attributes, so the author's decision is
@@ -200,10 +203,16 @@ before this list.
   90 seconds split four ways in parallel. No corpus text leaves: the model is
   Claude. Their output stays a model's reading (below, *The new tools as second
   readers*).
-- **A chapter table from code.** For a document whose chapters share a template, a
-  parser reads every chapter's POV, cast, sensory motif and tonal axis with its
-  line in milliseconds. Is the chapter the unit to start keeping (decision 001's
-  own condition, `GOAL.md`'s *Kapitel*)? Nothing is built beyond the one-off.
+- **Chapter-level differences as conflict records?** The chapter pages
+  (decision 013) state where the sources part per chapter — titles, worlds, what
+  happens — under `## Where the sources differ`, and `Wiki/overview/plot.md` does
+  the same for the book's shape: the storyform turn at 34/35 or 35/36, Akt III
+  from Kap 27 or Kap 29, where Kishōtenketsu's Ten begins. None became a conflict
+  record; the fifteen records stay about substance. Which of these, if any, should
+  be one is yours to say.
+- **Chapters in the graph and the app.** `graph.py` and `ui.py` do not know the
+  chapter pages yet; adding `chapter:` nodes changes the graph's self-check and the
+  retrieval bench. Wanted, and when?
 - **When the project app is rebuilt** — after every reading, as part of phase
   4's re-measure, or only on request. `scripts/ui.py` builds it; a Claude session
   publishes it to the canvas (`CLAUDE.md`, *The project app*).
@@ -376,6 +385,47 @@ written:
   exist on any page here; the wiki's pages carry readings attributed by source
   and date. Whether they are added, and how they map, is a schema decision (P4:
   no field without instances).
+
+## Chapters and plot — started 2026-09-25 (decision 013)
+
+**Built:** a page per chapter, Kap 0–40, with every chapter-by-chapter source's
+reading of it, and `## Where the sources differ` on 40 of the 41 (Kap 23 has none).
+`Wiki/overview/chapters.md` puts every title side by side; `Wiki/overview/plot.md`
+the book's shape. `scripts/chapters.py` checks them and counts what is missing.
+
+**The differences that matter most for the plot**, each on its chapter page with
+both sides quoted — noted for the author, none settled:
+
+- **The book's shape** (`plot.md`): the storyform turn at 34/35 or 35/36; Akt III
+  from Kap 27 or, in Kernwelten vollständig, Kap 29; Ten from Kap 27 or from Vortex 1.
+- **Kap 1**: what `734` numbers — Kael's designation, or his unit in Sektor 04.
+- **Kap 3**: Juna's first trace as a hologram Kael sees (Konzept-Iteration Genesis)
+  or as warmth (storyform outline) — C7 already holds the first.
+- **Kap 5 and 10**: KW1, the KW1→KW2 edge, or the McLaughlin world.
+- **Kap 6 and 36**: Landauer warmth or cold ozone, chapter by chapter (C11).
+- **Kap 13**: KW1 in transition with inner practice, or KW3's Evaluierungseinheit
+  „wo Personae kollabieren" (Kernwelten vollständig).
+- **Kap 18 and 20**: where the Genesis flashbacks begin, and which beat Kap 18
+  carries (C12).
+- **Kap 22**: does Kael recognise himself as Komp 734, or only read a number — a
+  flashback with its own voice, or a scene with a file?
+- **Kap 28**: Purge and Juna in danger together, or one of them, OQ-B-dependent.
+- **Kap 31–32 and 36**: the Guardians dissolved in Kap 31, sub-antagonists in Kap 32,
+  or Mnemosyne the first Guardian affected in Kap 36.
+- **Kap 35/36**: Vortex 1 split 1–3 / 4–5 or 1–2 / 3–5 — the Silence beat changes
+  chapter; and what Beat 2 and Beat 3 are.
+- **Kap 36 or 39**: when AEGIS-monolithisch goes out.
+- **Kap 40**: „Wir tragen die Welt" or „Wir tragen die Scherben".
+
+**Titles.** Most chapters carry two to four titles. Every Kapitel-Kompendium title
+in Akt I but Kap 4 and 5 is the strukturierter Outline's HR-Stufe name, and the
+Konzept-Iteration Genesis names Kap 2–5 differently from all the rest.
+
+**Next, in order:** the 91 <!--state:chapters.missing--> chapter mentions no page
+holds yet (`chapters.py missing` — the character bible's Kap-33 scene, the drafting
+manual's reveal timeline, the Alter profiles' debuts); then the unread
+Kap-0/Kap-40 documents of 2026-05-08; then chapters in `graph.py` and `ui.py` if
+the author wants them (*Questions for the author*).
 
 ## Handover — the next session starts here
 

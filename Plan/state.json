@@ -2,6 +2,14 @@
   "generated": "2026-09-25",
   "by": "scripts/state.py",
   "measurements": {
+    "chapters.missing": {
+      "value": 91,
+      "how": "a read document naming `Kap N` singly with no reading on that chapter's page, scripts/chapters.py"
+    },
+    "chapters.readings": {
+      "value": 315,
+      "how": "`## Reading` sections across the chapter pages, one per document per chapter"
+    },
     "documents.reconciled": {
       "value": 19,
       "how": "run directories holding a reconcile.json"
@@ -99,7 +107,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 3795,
+      "value": 6874,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -189,6 +197,10 @@
     "trainset.surface_pairs": {
       "value": 74,
       "how": "labelled one-term/two-terms examples in the ledger"
+    },
+    "wiki.chapters": {
+      "value": 41,
+      "how": "chapter pages in Wiki/chapters/, one per chapter of the planned novel"
     },
     "wiki.conflicts": {
       "value": 15,

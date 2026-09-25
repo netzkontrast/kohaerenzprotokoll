@@ -1,0 +1,111 @@
+---
+chapter: 7
+status: candidate
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+records: ["C14"]
+gathered: "2026-09-25"
+---
+
+# Kap 7
+
+[← Kap 6](kap-06.md) · [all chapters](../overview/chapters.md) · [Kap 8 →](kap-08.md)
+
+Every read source's statements about this chapter — one reading per document, in
+the order the documents are dated, attributed and unmerged. Which reading the
+novel follows is the author's call. All chapters side by side:
+[overview](../overview/chapters.md).
+
+## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
+
+Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
+
+- AEGIS focus: „Manifestation eines "Risses" als lokaler System-Kontrollverlust.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L99]
+- Analysis: „Eine signifikante Eskalation gegenüber Kapitel 6.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L100]
+- Subplot idea: „Die sich auflösende Naht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L106]
+- Story: „Kael begegnet einem 'Riss' oder wird darin gefangen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „die Realität selbst scheint auszufransen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
+- Story: „Kael könnte kurzzeitig etwas 'außerhalb' oder 'unterhalb' der Simulation wahrnehmen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „AEGIS/Guardians könnten aktiv versuchen, den Riss einzudämmen oder zu reparieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
+- Discussion: „liefert Kael unbestreitbare Beweise dafür, dass seine Welt konstruiert und fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L108]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Die Stimme im Rauschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L530]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 7: Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L530]
+- Story: „K-J-Verbindung wird stärker. Kael spürt Juna ohne sie zu sehen — Telefon-Stille als Anker.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532]
+- Storyform: „A: RS-Physics, Moonshine-Bewusstwerdung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532]
+- Sensorik: „die Stille als Klang, warme Resonanz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532]
+- Genesis echo: „Junas Resonanz, jetzt nicht als Angriff, sondern als Sehnsucht erfahrbar“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532] · „erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was das ist“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L343]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Die Stimme im Rauschen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L973]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „HR-Stufe 7: Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L973]
+
+- Story: „K-J-Verbindung wird stärker; Telefon-Stille als Anker.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L974]
+- Stage: „Unterstützung — Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L825]
+- Storyform: „A: RS-Physics, Moonshine-Bewusstwerdung. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L974]
+- Sensorik: „Sensorik: warme Resonanz, Stille als Klang.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L974]
+- Genesis echo: „Genesis-Echo: Junas Resonanz als Sehnsucht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L974] · „das ist Junas Resonanz, jetzt nicht mehr als Angriff, sondern als Sehnsucht spürbar“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L839]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Die Stimme im Rauschen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L391]
+Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L191]
+
+- Stage: „HR-Stufe 7: Unterstützung — Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L393]
+- POV: „Kael (emotional, lyrisch)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L393]
+- Storyform: „RS-Physics — K-J-Verbindung wird stärker (Moonshine-Bewusstwerdung)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L397]
+- Plot beats: „K-J-Verbindung wird intuitiv spürbar. Telefon-Stille als erster expliziter Anker.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L401]
+- Juna: „Junas Existenz bleibt nicht-beschrieben — nur die Telefon-Stille, nur die Phantom-Resonanz.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L401]
+- Sensorik: „warmer Windstoß in eisiger Welt, Melodie, Telefon-Stille“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L409]
+- Open question: „Kap 7, 24, 30 betroffen — Telefon-Stille gesetzt, weitere Modi offen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1370]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Unterstützung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- Stage: „Unterstützung (Sehnsucht nach dem Weiblichen) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)
+- Storyform: „A:RS-S1 (Learning — Junas Präsenz spüren)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)
+- Story: „die K-J-Verbindung wird stärker; erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was es ist“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`) · „Moonshine als Verlernen der Trennung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196]
+- Genesis echo: „Junas Resonanz — jetzt nicht Angriff, sondern Sehnsucht“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)
+- Characters (Juna rule): „nie Subjekt, nur Wirkung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 (Telefon-Stille-Lokus)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
+- Sub-location: „erste explizite Resonanz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
+- Note: „K-J-Telefon-Stille-Anker etabliert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
+- Transition: „Aktiviert ab Kap 7 (erste explizite Resonanz-Manifestation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L714] (Modus C, marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Die Stimme im Rauschen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(Sehnsucht nach dem Weiblichen)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Storyform: „A:RS-S1 (Learning — Junas Präsenz spüren; Moonshine-Bewusstwerdung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Story: „K-J-Verbindung wird stärker; erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was es ist; Telefon-Stille als Anker“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Genesis echo: „Junas Resonanz — jetzt nicht Angriff, sondern Sehnsucht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Characters: „Juna-Regel: nie Subjekt, nur Wirkung.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Leitmotiv: „warme Resonanz (Juna-Polarität), Stille als Klang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L166] · „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L167]
+
+- Thread: „Faden ruht. (Die Leitung, Idee 4 — eine Szene, ein Konzept.)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „ist eine bewusste Setzung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L225]
+- Idea 4: „In Kap 7 spricht er zum ersten Mal hinein.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]
+- Idea 2: „7 (Pause)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L56]
+- Hard-B: „Hard-B-Kapitel (Position in 5–8, Pinnung beim Weaving“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+
+## Where the sources differ
+
+- **The warm gust.** „warmer Windstoß in eisiger Welt, Melodie, Telefon-Stille“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L409] (strukturierter Outline, Kap 7) · „warmer Windstoß in eisiger Welt, fremde Melodie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis, its Kap 3) — the same image in Kap 7 or in Kap 3.
+- **Title.** „Unterstützung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (Kapitel-Kompendium) · „Die Stimme im Rauschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L530] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 7: Unterstützung — Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L393].

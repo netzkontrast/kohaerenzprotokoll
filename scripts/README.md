@@ -84,6 +84,7 @@ encodings of one rule drift apart on the first edit (P6).
 |---|---|---|
 | `relations.py` | The page graph from `[[links]]`: broken links, orphans, open statements, and `--unmarked` mentions the markup does not mark. | — |
 | `link.py` | Marks the links the prose already makes, and never inside a quotation, heading, blockquote or citation line. Dry run by default. | `--apply`: pages in `Wiki/candidates/` |
+| `chapters.py` | The chapter pages in `Wiki/chapters/` (decision 013): checks each against its frontmatter, the read documents and its links; `overview` derives `Wiki/overview/chapters.md` from them; `missing` names every read document that writes `Kap N` with no reading on that chapter's page; `index N` lists the lines. | `overview`: `Wiki/overview/chapters.md` |
 | `graph.py` | The typed knowledge graph — terms, documents, conflicts, questions — each edge carrying the file line that states it. Exports JSON, GraphML, triples or Mermaid. | — |
 | `graphrag.py` | `ask`: a question in, verified quotations out, ranked by personalized PageRank over `graph.py`'s graph — never prose. `bench` scores retrieval against the wiki's own labels. `--answer` needs `.venv-dspy` and the author's approval. | `bench --record`: `Plan/runs/baselines.jsonl` |
 

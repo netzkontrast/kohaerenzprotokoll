@@ -15,6 +15,8 @@ source says what, and when.
 | `candidates/` | one page per term, gathered from the notes, not yet reviewed | a person, one commit per page naming its source document |
 | `conflicts/` | one record per disagreement, append-only | a person |
 | `questions/` | one page per question more than one term page raises; its README says when a question earns a page | a person |
+| `chapters/` | one page per chapter of the planned novel, collecting what every read source says about it (decision 013) | a person, one commit per source document |
+| `overview/` | pages that place rather than define: every chapter's titles side by side (derived by `scripts/chapters.py`), and the plot's shape per source | the chapter table by code, the plot page by a person |
 | `compare/` | the reconciliation record of each document against the pages as they stood | a person, from `scripts/reconcile.py`'s lookup |
 | `index.json` | every page's surfaces and frontmatter, so reconciling never reads the wiki | `scripts/wiki_index.py` |
 | `terms/` | promoted pages — **does not exist yet** | a person |

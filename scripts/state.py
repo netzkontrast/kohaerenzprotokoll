@@ -207,6 +207,25 @@ def _wiki_zero_readings() -> int:
                if frontmatter(p.read_text(encoding="utf-8")).get("readings") == "0")
 
 
+@measure("wiki.chapters", "chapter pages in Wiki/chapters/, one per chapter of the planned novel")
+def _wiki_chapters() -> int:
+    from chapters import pages
+    return len(pages())
+
+
+@measure("chapters.readings", "`## Reading` sections across the chapter pages, one per document per chapter")
+def _chapter_readings() -> int:
+    from chapters import pages
+    return sum(len(p["readings"]) for p in pages().values())
+
+
+@measure("chapters.missing",
+         "a read document naming `Kap N` singly with no reading on that chapter's page, scripts/chapters.py")
+def _chapters_missing() -> int:
+    from chapters import missing
+    return len(missing())
+
+
 @measure("wiki.relations", "a page naming another page as `slug`, scripts/relations.py")
 def _wiki_relations() -> int:
     from relations import graph
