@@ -13,7 +13,7 @@ and neither is reading speed:
   Q3, `nexus`) and a person turns that into a qmd query. qmd ranks; it does not
   enumerate, and it misses — the line defining `KW1` is not in its top forty.
 - **Knowing what is missing.** P10's fourth bucket, `MISSING`, is "the one that
-  matters" and the one no check computes. The wiki has 93 <!--state:wiki.pages--> pages; nothing says
+  matters" and the one no check computes. The wiki has 94 <!--state:wiki.pages--> pages; nothing says
   which terms 40 documents use that none of them cover.
 
 A corpus-wide list of entities addresses both — **if** it is a list of what the

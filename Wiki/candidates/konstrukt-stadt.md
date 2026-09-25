@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -138,3 +138,12 @@ The Konstrukt-Stadt *is* KW1 here, as the author decided for C9.
 „Computational Class P. Sterile Geometrie. Atemzählung als Somatik." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213]
 „Metaphernverbot. Dominanz von Kael-Host und Lex." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] Its style level, Akt I, Kap 1–13:
 „Kalt, steril, geometrisch." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L181]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„\*\*KW1 — Konstrukt-Stadt\*\* | Akt I (Kap 1–13) | P (Polynomialzeit)" ^[kohaerenz-protokoll-konzept-master-md.md:L658], „Klassisch (LEM, ECQ)" ^[kohaerenz-protokoll-konzept-master-md.md:L658], somatics `Atem`, atmosphere „Steril, geometrisch, kalt; Kantsche Phänomena; Metaphernverbot, assertorische Sätze" ^[kohaerenz-protokoll-konzept-master-md.md:L658].
+The premise's city: „Ein Mann erwacht in einer sterilen Stadt und kann sich an nichts erinnern. Die Stadt ist perfekt. Die Temperatur beträgt immer einundzwanzig Grad." ^[kohaerenz-protokoll-konzept-master-md.md:L51]
+Its language: „prägt den Stil von KW1 (Konstatierungs-Sprache: kurze, atomare, assertorische Sätze)." ^[kohaerenz-protokoll-konzept-master-md.md:L295]
+„KW1 ist die Domäne der Phänomena: das, was AEGIS' "kognitiver Apparat" durchlässt." ^[kohaerenz-protokoll-konzept-master-md.md:L690]
+„**Ebene 1 (KW1):** kalt, steril, assertorisch, Metaphernverbot." ^[kohaerenz-protokoll-konzept-master-md.md:L1038]
+KW1 is the whole Akt I here (C9).

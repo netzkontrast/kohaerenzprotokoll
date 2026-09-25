@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -68,3 +68,9 @@ Anchor: „Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-pr
 „Alex (ANP / Protektor)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L83]. „Hypervigilanz, physischer Schutz, Bedrohungs-Assessment." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L85]
 „Alex spricht nie über Gefühle in der 1. Person." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L85] Dominant with [[nyx|Nyx]] in KW3:
 „Nyx und Alex dominieren in EP-Modus." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L221] Nothing on when he arose (C12).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„ANP | Alex (Beschützer) | Asymptotische Freiheit | Hypertonus, Bruxismus | → Wachstum" ^[kohaerenz-protokoll-konzept-master-md.md:L390]
+One of the ANPs that „kämpfen darum, eine widerspruchsfreie Alltagserzählung aufrechtzuerhalten" ^[kohaerenz-protokoll-konzept-master-md.md:L274]. In the consistency matrix with Rhys and Selene: „K₁-Buffer (somatisch/relational)" ^[kohaerenz-protokoll-konzept-master-md.md:L954], across „KW1–KW2" ^[kohaerenz-protokoll-konzept-master-md.md:L954].
+Nothing here says when or how Alex arises.

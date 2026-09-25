@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 17
-readings: 18
+sources: 18
+readings: 19
 conflict: C1, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -315,3 +315,25 @@ heard only as „leere Log-Fragmente, abgeschnittene Hex-IDs" ^[koharenz-protoko
 Inside the system its echo is [[oblivion|Oblivion]] (L163, J74); its core flaw is first recognised by
 [[argus|Argus]] (L109); and [[rhys|Rhys]] „Hält zusammen, was AEGIS zerschnitten hat." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L93]
 Not expanded (C1); its Approach not given (C8).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+The report's central claim is about AEGIS: „**AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie.**" ^[kohaerenz-protokoll-konzept-master-md.md:L63]
+„Die Stadt ist eine Simulation, gesteuert von AEGIS — einer autopoietischen KI, die sich selbst als Hüterin der Ordnung begreift." ^[kohaerenz-protokoll-konzept-master-md.md:L55]
+It calls that inversion the [[truth-rotation|Truth-Rotation]]: „AEGIS = K₀ (Entropie-Architektur)" ^[kohaerenz-protokoll-konzept-master-md.md:L221], „Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L223].
+
+Its closure, borrowed from Luhmann: „Es ist *operativ geschlossen* (Luhmann): es reagiert ausschließlich auf interne Zustände, nicht direkt auf eine Umwelt" ^[kohaerenz-protokoll-konzept-master-md.md:L451].
+„Junas Existenz ist für AEGIS strukturell unkommunikabel — nicht weil AEGIS es nicht *will*, sondern weil das System keine Sprache hat, in der Juna formulierbar wäre." ^[kohaerenz-protokoll-konzept-master-md.md:L455]
+Its directive is negative: „AEGIS' Primärdirektive ist negativ definiert: *"AEGIS ist, was AEGIS sich selbst hindert, nicht zu sein."*" ^[kohaerenz-protokoll-konzept-master-md.md:L473]
+„**Ontologische Blindheit:** AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
+„**Selbst-Zerstörung durch Selbst-Erhaltung:** Jeder Akt der Erhaltung (Erasure, Suppression, Kontrollprotokoll) erzeugt Landauer-Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
+„**Das ist die Kerntragödie.** AEGIS ist nicht böse. AEGIS handelt *exakt nach Plan* — und der Plan ist defekt." ^[kohaerenz-protokoll-konzept-master-md.md:L482]
+And in the negative definition: „**Kein KI-Schurken-Roman.** AEGIS ist kein Antagonist im Genre-Sinn, sondern tragische Verkörperung eines ontologischen Fehlers." ^[kohaerenz-protokoll-konzept-master-md.md:L1070]
+
+As a truth theory: „AEGIS ist die radikalste Kohärenz-Verkörperung." ^[kohaerenz-protokoll-konzept-master-md.md:L270] And then corrected: „AEGIS ist ein *gescheiterter* Kohärenztheoretiker, der die Kohärenz seines Systems nur durch immer mehr Erasonen aufrechterhalten kann — und damit zum K₀-Avatar wird." ^[kohaerenz-protokoll-konzept-master-md.md:L313]
+
+Its three protocols, reduced from twelve, „die genaue Spezifikation ist offene Forschungsfrage" ^[kohaerenz-protokoll-konzept-master-md.md:L517]: „**Suppressionsprotokoll** — aktive Erasure von K₀-Tatsachen." ^[kohaerenz-protokoll-konzept-master-md.md:L521], „**Kohärenzprotokoll** — interne Konsistenz-Erzwingung (das eigentliche "Kohärenz Protokoll" des Romantitels)." ^[kohaerenz-protokoll-konzept-master-md.md:L522], „**Re-Containment-Protokoll** — Reaktion auf Rissen, dynamisches Patching." ^[kohaerenz-protokoll-konzept-master-md.md:L523] (Q2).
+
+In the storyform AEGIS is the MC of B: „| \*\*MC-Träger\*\* | \*\*Kael\*\* | \*\*AEGIS\*\* |" ^[kohaerenz-protokoll-konzept-master-md.md:L820], and a Do-er: „Do-er-Modus: AEGIS' Antworten sind Aktionen — Erasure-Sweeps, Protokoll-Deployments, Guardian-Aktivierungen." ^[kohaerenz-protokoll-konzept-master-md.md:L841] (C8).
+It is told in the third person: „AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-konzept-master-md.md:L404] (C14).
+It ends in [[algorithmische-melancholie|Algorithmische Melancholie]] (L486). The acronym is not expanded (C1).

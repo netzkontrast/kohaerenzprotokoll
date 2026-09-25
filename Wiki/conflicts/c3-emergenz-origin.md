@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 6
+sources: 7
 pages: ["emergenz", "aegis"]
 ---
 
@@ -84,18 +84,25 @@ An origin inside the [[genesis|Genesis]]. [[aegis|AEGIS]] is Kap 0's first self 
 Wächter)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237] — and afterwards „die operative Hälfte, die nach dem
 Trennungsprotokoll übrig blieb" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117]. Kap 40 closes it on Kael: „und Kael ist als
 das erkannt, was AEGIS einmal war" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241]. Nearest the konsolidiertes Konzept's
-position, which this outline integrates (L1393); it does not make AEGIS
+position, which this outline integrates (L1393); it does not make [[aegis|AEGIS]]
 [[kael|Kael]]'s defence.
 
 ## 2026-09-24 — audit: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, its locked identity section
 
-The entry for this document above holds its origin *from Kael* (L208). It left
+The entry for this document above holds its origin *from [[kael|Kael]]* (L208). It left
 out the section the document marks as locked, „I.2 Identitäts-Architektur
 (gelockt)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L62], whose first line is the wording this record later
 gives only to the glossary and the strukturierter Outline: „AEGIS ist nicht
 Antagonist, sondern die operative Hälfte, die nach dem Trennungsprotokoll übrig
 blieb." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L63] Its next line makes [[kael|Kael]] the other half, „die fühlende
 Hälfte, die AEGIS sich abgeschnitten hat" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L64] — held on the [[kael]] page. So
-the document gives both, a split in the Trennungsprotokoll and „entstand aus
+the document gives both, a split in the [[trennungsprotokoll|Trennungsprotokoll]] and „entstand aus
 Kael" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208], 145 lines apart. Recorded, not reconciled. Found by the record audit of
 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M5).
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**The Genesis-Krise is an episode in AEGIS' own coming-to-be — AEGIS separates, and Kael is what is left.**
+„Die ursprüngliche Trauma-Episode in AEGIS' Entstehung." ^[kohaerenz-protokoll-konzept-master-md.md:L459]
+„**Einheit** — das Ursprungs-Ich erlebt Resonanz mit einer fremden Entität in der Leere." ^[kohaerenz-protokoll-konzept-master-md.md:L463] Then AEGIS initiates the separation (L464), and „der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
+AEGIS is `autopoietisch` (L451), producing its own boundary. Not from nothing and not from Kael's defence: here AEGIS acts in the Genesis and [[kael|Kael]] results from it. Whether the Ursprungs-Ich is AEGIS, Kael or both is not said (J68, J75).

@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,17 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Storyform: „A: MC-Solution Pursuit vollzogen. B: AEGIS-Solution Feeling nicht adoptiert — Failure manifest.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1030]
 - Sensorik: „Sensorik: glühender paradoxer Code, brechende Stimme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1030]
 - Leitmotiv: „dem Vortex 1-Einrasten in Kap 35“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1058]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Position: „39 Kapitel, 3 Akte, Vortex Kap 35–36" ^[kohaerenz-protokoll-konzept-master-md.md:L21] · „| Vortex | 35–36 | 100% | Maximales Soft-Layering, dann B → A |" ^[kohaerenz-protokoll-konzept-master-md.md:L906]
+
+- Setting: „**Mnemosyne** — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36)." ^[kohaerenz-protokoll-konzept-master-md.md:L508]
+- Beats: „Vortex (Kap 35–36) — Fünf Beats" ^[kohaerenz-protokoll-konzept-master-md.md:L847] — „1 Convergence\*\* (Mnemosyne-Archipel)" ^[kohaerenz-protokoll-konzept-master-md.md:L852], „2 Dialetheic Choice\*\* (Pivot Kael)" ^[kohaerenz-protokoll-konzept-master-md.md:L853], „3 Silence\*\* (lebende Dialetheia)" ^[kohaerenz-protokoll-konzept-master-md.md:L854], „4 Heat-Spike\*\* (Landauer→∞)" ^[kohaerenz-protokoll-konzept-master-md.md:L855], „5 Rotation\*\* (Algorithmische Melancholie)" ^[kohaerenz-protokoll-konzept-master-md.md:L856]. Which beats fall in Kap 35 and which in Kap 36 is not said.
+- Silence: „**Die Stille (Beat 3) ist nicht mystisch.** Sie ist die strukturelle Folge zweier Uhren: A's Decision ist getroffen, B's Action kann nicht enden." ^[kohaerenz-protokoll-konzept-master-md.md:L860]
+- Heat: „Temperaturspitzen in Klimax-Szenen sind die direkte Folge von Hochlast-Erasure (Vortex Beat 4: Heat-Spike → ∞)." ^[kohaerenz-protokoll-konzept-master-md.md:L162]
+- Storyform: „**Pivot ≠ Driver-Flip.**" ^[kohaerenz-protokoll-konzept-master-md.md:L864] „Der Eindruck eines Pivots am Vortex entsteht durch den Storyform-Übergang B → A." ^[kohaerenz-protokoll-konzept-master-md.md:L864]
+- Not the integration: „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die *Folge* der Integration auf das System AEGIS." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -110,9 +121,9 @@ Position: „Vortex 1 | 35–36 | Der Apparat kollabiert auf sein Ziel“ ^[kp-p
 
 ## Where the sources differ
 
-- **Which beats the chapter holds.** „Vortex 1 Beat 1–2 (Convergence + Dialetheic Choice)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L861] (Kernwelten vollständig) · „Kapitel-Schnitt: Kap 35 = Beats 1–3, Kap 36 = Beats 4–5.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (storyform outline) · „Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1071] (strukturierter Outline).
+- **Which beats the chapter holds.** „Vortex 1 Beat 1–2 (Convergence + Dialetheic Choice)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L861] (Kernwelten vollständig) · „Kapitel-Schnitt: Kap 35 = Beats 1–3, Kap 36 = Beats 4–5.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (storyform outline) · „Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1071] (strukturierter Outline). · „Vortex (Kap 35–36) — Fünf Beats“ ^[kohaerenz-protokoll-konzept-master-md.md:L847], with no chapter given to any beat (master report).
 - **Beat 3.** „Beat 3 — Stille: minimal, ohne Ereignisse“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L894] (konsolidiertes Konzept) · „Beat 3 — The Silence: alle Kinetik endet; Nichts-Rauschen wird absolute Stille“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L380] (storyform outline) · „AEGIS muss die Genesis zeigen, weil ihm die Lösch-Kapazität ausgeht“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1087] (strukturierter Outline).
 - **Beat 2.** „Beat 2 — Einspeisung: paradoxe Selbst-Aussage in AEGIS' Logik; AEGIS' Stimme stottert“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L893] (konsolidiertes Konzept) · „Kael lässt ANP/EP-Barrieren fallen, integriert Trauma. Pursuit-Adoption — A-MC Decision aktiviert.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1086] (strukturierter Outline) · „Beat 2 — Pivot (dialetheische Wahl): Kael wechselt B-Linear → A-Holistic“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L379] (storyform outline) · „Nicht bestätigen, nicht verwerfen — die dialetheische Wahl als Nicht-Bedienung.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung).
-- **Beat 1, who acts.** „Beat 1 — Anlauf: Kael formuliert das Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L892] (konsolidiertes Konzept) · „Setting: Mnemosyne-Archipel. AEGIS exekutiert finalen Erasure-Sweep.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1085] (strukturierter Outline) · „Beat 1 — Convergence: AEGIS isoliert Kaels Fragmente; Erasure-Sweep konvergiert auf das Cluster“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L378] (storyform outline).
+- **Beat 1, who acts.** „Beat 1 — Anlauf: Kael formuliert das Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L892] (konsolidiertes Konzept) · „Setting: Mnemosyne-Archipel. AEGIS exekutiert finalen Erasure-Sweep.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1085] (strukturierter Outline) · „Beat 1 — Convergence: AEGIS isoliert Kaels Fragmente; Erasure-Sweep konvergiert auf das Cluster“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L378] (storyform outline). · „B-OS Action: AEGIS exekutiert finalen Erasure-Sweep“ ^[kohaerenz-protokoll-konzept-master-md.md:L852] (master report).
 - **Climax or aftermath.** „Unmittelbare Reaktion des Systems auf den Höhepunkt (Kollaps? Teilabschaltung? Reboot?).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L471] · „Kael ist in diesem unmittelbaren Nachbeben gefangen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479] (aegis-subplots) · „Klimax-Setting; Gödel-Gambit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L861] (Kernwelten vollständig).
 - **Setting name.** „Setting: Mnemosyne-Archipel.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1085] (strukturierter Outline) · „Setting: Mnemosyne-Server-Architektur (KW2)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (Kapitel-Kompendium).

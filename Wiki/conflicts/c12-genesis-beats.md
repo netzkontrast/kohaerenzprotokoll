@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 12
+sources: 13
 pages: ["trennungsprotokoll"]
 ---
 
@@ -157,3 +157,11 @@ Alex „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteil
 Kap 0: „Komponente 734 wird konsolidiert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164]. The three flashbacks as chapter beats: „Genesis-Flashback Cluster-Bildung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 18,
 „Genesis-Flashback Trennungsprotokoll" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 21, and in Kap 22 „Genesis-Flashback Komp 734" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] — the narrative order in which 734 comes last.
 It counts no beats. Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], the numbering the drafting manual uses for a movement of Kap 0; this document uses the same word for its 41 chapter units (^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L159]) and lists no movements.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Three beats, locked, 734 the result of the separation.**
+„Die Genesis-Krise (3-Beat, kanonisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L457]: `Einheit`, `Trennungsprotokoll`, `Kael = Komponente 734` (L463–L465).
+„(Offene Frage Reset-Doc Appendix C: Braucht es einen 4. Beat? Aktuell Lock-In: nein, drei Beats reichen.)" ^[kohaerenz-protokoll-konzept-master-md.md:L469]
+Restated: „Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[kohaerenz-protokoll-konzept-master-md.md:L998] „Aber: Verifikation gegen Encoding-Praxis steht aus." ^[kohaerenz-protokoll-konzept-master-md.md:L998]
+The character bible's count and order, on the same date as the konsolidiertes Konzept's four beats with 734 before the separation. The document names the fourth beat as the open question and answers it no.

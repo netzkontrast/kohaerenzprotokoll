@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -67,3 +67,10 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 „Systemkritik, Beobachtung der Beobachtung. Erster Erkenner von AEGIS' Kernfehler." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L109] What the flaw is,
 the document does not say (C4). The first person, distanced like a third (L109).
 „Argus hat keinen Witz, sondern Schärfe." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L109] „Wenn er emotional wird, kollabiert seine Funktion." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L109]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Special | Argus (Meta-Kognition) | Fraktale | offen | → konstruktive Kritik" ^[kohaerenz-protokoll-konzept-master-md.md:L398]
+„\*\*Argus (Meta-Kognitor)\*\* | Wahrheits-Kommentar | Beobachtet beide Theorien und macht ihre Unvereinbarkeit explizit" ^[kohaerenz-protokoll-konzept-master-md.md:L309].
+„Argus | Meta-Beobachter | Fraktale Selbstreferenz" ^[kohaerenz-protokoll-konzept-master-md.md:L437]. In the routing table: „Argus | A mit Kommentar-Überlagerung" ^[kohaerenz-protokoll-konzept-master-md.md:L878].
+The somatic filter is open (L1006).

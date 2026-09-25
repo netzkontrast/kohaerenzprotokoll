@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-konzept-master-md
+  lines                1124  (frontmatter ends at 9)
+  body words           7232
+  headings             65   bold-only lines 11
+  table rows           126   code fences 0
+  question marks       13
+  backslash escapes    345
+  typographic marks    139   ascii quotes 57
+  invisible characters none
+  math symbol lines    25
+  glued ref numbers    22
+  repeated labels      Im Roman x5, Konsequenz x3
+  longest line         484 chars
+

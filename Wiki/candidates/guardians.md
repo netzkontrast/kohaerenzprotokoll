@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-16"
 ---
 
@@ -340,3 +340,15 @@ Two figures carry the label: „Mnemosyne (Guardian / Erinnerungs-Wächterin)" ^
 Mnemosyne „operiert in AEGIS' Architektur, weil sie keine andere Sprache hat" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45] (Q1).
 [[logos|LogOS]] and [[cerberus|Cerberus]] stand only in world names (L213, L221, J49); [[kairos|Kairos]] and [[sophia|Sophia]]
 do not occur. The author's five stand.
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Two, and the five named as the past: „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[kohaerenz-protokoll-konzept-master-md.md:L504]
+„**Mnemosyne** — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36)." ^[kohaerenz-protokoll-konzept-master-md.md:L508]
+„**Ein Erasure-Pol** — Funktion klar (Löschungs-Exekutive), Name offen." ^[kohaerenz-protokoll-konzept-master-md.md:L509]
+Why: „Begründung der Reduktion: 5 Guardians lasten den 39-Kapitel-Plan zu sehr; 2 Guardians + Spiegel-Alters (Silas, Oblivion) tragen die Funktion eleganter." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+„Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+They are not tied to worlds: „**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
+In the consistency matrix both are `K₀-Sub-Operator`, „Kohärenz-Exekutiv" ^[kohaerenz-protokoll-konzept-master-md.md:L961], in Storyform B's OS (L961–L962). Told in the third person (L404).
+One open point asks how the two relate: „**Wächter-Zwiespalt-Soziopolitik.** Slot 16 Punkt: Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[kohaerenz-protokoll-konzept-master-md.md:L1002]
+The author's decision for five (C6) stands; this is one more source for two.

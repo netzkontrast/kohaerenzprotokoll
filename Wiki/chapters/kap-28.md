@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -44,6 +44,12 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Story: „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1016]
 - Storyform: „A: MC-Issue. B: OS-Physics, Erasure-Drohung explizit.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1016]
 - Sensorik: „Sensorik: drohende Spannung, Countdown-Marker.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1016]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Position: „| \*\*KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 27–34, Vorbereitung Vortex)" ^[kohaerenz-protokoll-konzept-master-md.md:L661]
+
+- Bridge scenes: „Vortex-Vorläufer ab \~Kap 28." ^[kohaerenz-protokoll-konzept-master-md.md:L890] — the chapter hedged by a tilde.
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

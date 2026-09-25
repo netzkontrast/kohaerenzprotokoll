@@ -805,3 +805,28 @@ the document's world stands inside a voice's `Vokabular` or `Mikro` — Nyx's
 wiki records such a sentence where it bears on a record (C10, C11), and declines a
 page reading where the word is only listed (`risse`, `erason`), as it declines a
 term that stands only inside a question.
+
+## Document 20 — `kohaerenz-protokoll-konzept-master-md`, 2026-09-25
+
+A theory report: sixteen chapters, 126 table rows, 480 candidates in 1123 lines, a
+third of them borrowed concepts listed under `## lens`. Two findings no briefing
+question anticipated, one about the tool, one about a gathered page.
+
+- **A table can assign what the roster never gives, and say so.** The roster of
+  thirteen gives the EPs Fight, Freeze, Ambivalent, Sexualisiert and Collapse
+  (L393–L397); the riss table then writes „Flight (implizit Lia/Isabelle)“ (L1049).
+  The count and the lookup treat the joined form as a surface near `Isabelle`; it
+  is the riss type, with an inferred claim about bearers in its parenthesis (J89).
+  The word `implizit` was the reading — without it, C15's row 8 would look like
+  the konsolidiertes Konzept's row 2 repeated.
+- **A status date is not the document's date.** The manifest dates it 2026-05-08;
+  the document dates its status `Canon-Sync 2026-05-07` and names what that sync
+  settled — the Approach correction C8 turns on (L21). Recorded as its claim.
+- **`quotes.py` caught a case error before commit**: „eine fremde Entität in der
+  Leere“ against the line's „einer fremden Entität“ (L463), typed in the census from
+  the reading and not asked of `read.py --find`. The census is where it happened —
+  the note, written with `--find` beside it, had none.
+- **Gathering a new page from earlier sources is a commit per source.** The first
+  pass applied seven sources' readings to `truth-rotation` in one working-tree
+  change; it was reset and re-applied one source per commit, so `git log` on the
+  page names each. Doing it in that order from the start costs nothing.

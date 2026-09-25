@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-17"
 ---
 
@@ -124,3 +124,9 @@ Absorbed: „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert."
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 
 Only in KW3's name, „KW3 — Cerberus-Labyrinth. NP-Hard." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L221] (J49); no Cerberus as a figure (Q5).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Named among the five of earlier drafts: „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[kohaerenz-protokoll-konzept-master-md.md:L504]
+„Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+The name stays on the third world: „\*\*KW3 — Cerberus-Labyrinth\*\* | Akt II (Kap" ^[kohaerenz-protokoll-konzept-master-md.md:L660] — „Bedrohungs-fokussiert, heuristisch" ^[kohaerenz-protokoll-konzept-master-md.md:L660] (J49).

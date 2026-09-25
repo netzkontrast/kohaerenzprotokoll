@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -45,3 +45,10 @@ Aktivität (Erasure-Sweeps, Erasure-Logs)." ^[kohaerenz-protokoll-begriffe-und-k
 
 The other pole of the Korrelat-Achse: „Atemporal/Coheron (Silas ↔ Juna) ↔ Temporal/Erason (Oblivion ↔ AEGIS)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77]
 Oblivion's DKT correlate: „Erason-Operator." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755] „Die einzige Alter, die aktiv löscht." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„**Erasonen** sind irreversible Löschungsereignisse. Sie *erzeugen* den Zeitpfeil." ^[kohaerenz-protokoll-konzept-master-md.md:L119]
+„Jede Erasion ist ein Vorher/Nachher — die Information existierte, dann existiert sie nicht mehr." ^[kohaerenz-protokoll-konzept-master-md.md:L119]
+In the kernel table they are K₀'s operation: „Erasonen (Löschungsereignisse)" ^[kohaerenz-protokoll-konzept-master-md.md:L99].
+AEGIS keeps its coherence only „durch immer mehr Erasonen" ^[kohaerenz-protokoll-konzept-master-md.md:L313]. The Persistenzgleichung carries „δ: lokaler Erason-Druck" ^[kohaerenz-protokoll-konzept-master-md.md:L138]; Juna shows as „Anomale Erason-Bilanz (lokal weniger Löschung als statistisch erwartet)" ^[kohaerenz-protokoll-konzept-master-md.md:L560]; Oblivion is the „Erason-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L400].

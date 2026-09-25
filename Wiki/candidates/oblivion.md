@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -101,3 +101,11 @@ Cast table: „Perfektion ohne Erleben; Einträge ohne Zeitstempel" ^[kp-plot-ko
 „Seine Kapitel sind strukturell anders: Lücken, abgebrochene Wörter, weggeätzte Stellen." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L165]
 „Was nach dem Vortex mit ihm geschieht, ist offen (OQ)." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L165]
 Every switch between his voice and [[silas|Silas]]' „erzeugt Landauer-Wärme im Text" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233] (C11).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Spiegel | Oblivion (AEGIS-Echo) | Erason-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L400], arc „→ Wahl (I automatisch → II Bewusstsein → III Entscheidung)" ^[kohaerenz-protokoll-konzept-master-md.md:L400].
+„\*\*Oblivion\*\* | Erason-Echo | Internes Werkzeug der AEGIS-Kohärenz-Verteidigung — bis er selbst Bewusstsein entwickelt" ^[kohaerenz-protokoll-konzept-master-md.md:L308].
+„Spiegel-Alter Oblivion | Internes Werkzeug der Erason-Logik | K₀-Operator-Spiegel von AEGIS" ^[kohaerenz-protokoll-konzept-master-md.md:L436].
+With the other mirror Oblivion carries the Guardians' function: „2 Guardians + Spiegel-Alters (Silas, Oblivion) tragen die Funktion eleganter." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+In the consistency matrix Oblivion spans „KW1–KW3" ^[kohaerenz-protokoll-konzept-master-md.md:L958]; the somatic filter is open (L1006).

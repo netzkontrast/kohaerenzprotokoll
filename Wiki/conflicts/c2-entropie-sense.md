@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 7
+sources: 8
 pages: ["entropie"]
 ---
 
@@ -104,3 +104,11 @@ project's own sense flatly, in a table*: the bible, of the same date, has
 nearly the same table, and it was read first. Found by the record audit of
 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 8-M2); the conflict stays
 open.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**AEGIS is the entropy, and K₀ is what makes a universe habitable — two senses, related by the inversion.**
+„**AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie.**" ^[kohaerenz-protokoll-konzept-master-md.md:L63]
+In the kernel table Entropie is K₀'s principle: „| \*\*K₀ (Kollaps-Kernel)\*\* | Irreversibilität, Entropie |" ^[kohaerenz-protokoll-konzept-master-md.md:L99]; and „K₀ ist die Bedingung für Ereignisse überhaupt." ^[kohaerenz-protokoll-konzept-master-md.md:L107] „K₀ ist das, was ein Universum bewohnbar macht." ^[kohaerenz-protokoll-konzept-master-md.md:L107]
+And what AEGIS produces by fighting it: „Das System produziert die Entropie, die zu bekämpfen es behauptet." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
+The same side as the konsolidiertes Konzept (AEGIS *is* the entropy it fights), with the glossary's fourth sense (the condition of events) beside it, and the document relates the two as the [[truth-rotation|Truth-Rotation]] (L212–L226).

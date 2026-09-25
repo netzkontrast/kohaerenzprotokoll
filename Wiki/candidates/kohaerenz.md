@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-17"
 ---
 
@@ -81,7 +81,7 @@ aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv defin
 
 What [[aegis|AEGIS]]' regulation of entropy is for. Its core function is the
 regulation of the passage from order to disorder, „um die Kohärenz und strukturelle Integrität des Gesamtsystems" ^[entropie-aegis.md:L21]
-… zu wahren. Kohärenz is what AEGIS keeps, entropy what threatens it. Not yet a
+… zu wahren. Kohärenz is what [[aegis|AEGIS]] keeps, entropy what threatens it. Not yet a
 definition — that is the reading above from `kohaerenzprotokoll-aegis-und-systementropie` —
 but the earliest source to set the two against each other. Found by the sweep
 (decision 012).
@@ -100,3 +100,11 @@ of the flow and integrity of memories, „innerhalb des Kohärenz-Programms und 
 The 2025 readings above give coherence to [[aegis|AEGIS]] and make it logical or
 structural; here it is emotional and one [[guardians|Guardian]]'s domain. Attributed, not merged.
 Found by the sweep (decision 012).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Here Kohärenz is first a truth theory: „**Die Wahrheitstheorien** (Korrespondenz, Kohärenz, Dialetheismus/Parakonsistenz) als operative, in den Figuren verkörperte Logiksysteme." ^[kohaerenz-protokoll-konzept-master-md.md:L38]
+„**Definition:** Wahrheit ist die widerspruchsfreie Eingliederung einer Aussage in ein konsistentes System anderer Aussagen." ^[kohaerenz-protokoll-konzept-master-md.md:L262]
+AEGIS embodies it: „**Im Roman:** AEGIS ist die radikalste Kohärenz-Verkörperung. AEGIS' Wahrheit ist: was ins System passt, ist wahr." ^[kohaerenz-protokoll-konzept-master-md.md:L270] So do the ANPs (L274).
+And AEGIS only believes itself coherence: „**AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie.**" ^[kohaerenz-protokoll-konzept-master-md.md:L63]
+„Die echte Kohärenz-Arbeit leistet Kael, indem er seine Alters in Funktionale Multiplizität führt" ^[kohaerenz-protokoll-konzept-master-md.md:L230] — the [[truth-rotation|Truth-Rotation]].

@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-17"
 ---
 
@@ -103,3 +103,8 @@ went: latent, here.
 
 The document's one mention retires her world: „KW1=LogOS, KW4=Kairos/Sophia" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] —
 „Beides ist dekanonisiert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42].
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Named once, among the five of earlier drafts: „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[kohaerenz-protokoll-konzept-master-md.md:L504]
+And absorbed: „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513] The document does not say which into which (Q5).
