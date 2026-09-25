@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -55,3 +55,17 @@ ISH-Funktion auf — vermittelt, ohne zu kämpfen." ^[koharenz-protokoll-struktu
 Vor-Trennungs-Substanz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L433]. Kap 17 again: „Selene (Wächterin-Funktion klar)"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L649]. Q4 — here `Wächterin` names Selene's function, and `Guardian` a stage of
 her arc.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Einzige Alter, die den Bauplan der Zeit vor beiden Trauma-Schichten trägt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L322] Across both layers (L87).
+
+**Where she waits**: „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
+„Selene drängt nie. Wenn sie auftaucht, ist es spät." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365]
+
+**Not [[juna|Juna]]**: „Selene ist auch nicht Juna, obwohl beide einen ruhigen, präsenten Ton haben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365]
+„Selene ist im System, Juna ist außerhalb." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365] Alone among the ANPs her voice carries
+„eine Vorahnung des Akt-III-Tons (Junas Stilebene 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L353].
+
+„Selene ist die größte Bedrohung für AEGIS" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L357]; the only one who bears [[moros|Moros]] without
+fighting (L357). Arc as in the character bible: „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361] (Q4)
