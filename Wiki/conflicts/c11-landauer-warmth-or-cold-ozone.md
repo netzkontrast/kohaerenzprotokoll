@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 14
+sources: 15
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -196,3 +196,12 @@ in this record, found by a second reading of the Anteile-Profile).
 „**Somatischer Filter:** Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[kohaerenz-protokoll-konzept-master-md.md:L1024]
 Akt II's style level: „**Ebene 2 (KW2–KW3):** heiß, fragmentiert, Trigger kollidieren." ^[kohaerenz-protokoll-konzept-master-md.md:L1039]
 Warmth is AEGIS' here, not Juna's: no heat is given to [[juna|Juna]] or [[silas|Silas]], and Kap 6 is not named. Beside the konsolidiertes Konzept's warmth of the same date, it makes ozone and heat one signature — three weeks before the lock of 2026-05-30.
+
+## 2026-09-25 — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+**Warmth as Juna's trace in Kap 0, cold as AEGIS' manner — no ozone and no Landauer.**
+The Funken-Ich feels [[juna|Juna]]'s resonance as warmth before AEGIS' filter cuts it: „Im Funken-Ich gibt es einen Augenblick — *vor* dem Riss, *vor* AEGIS' Filterung —, in dem es Wärme spürt, Wiedererkennen, Heim." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315]
+And Kap 40 must echo the same words: „Wenn in Kap 0 "Wärme, die es nicht geben kann" steht, dann muss in Kap 40 "die Wärme, die nicht hätte sein können" als Echo erscheinen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L319]
+It is a proposal, Setzung 2, whose origin the document names as a chat turn (L315, L554–L564). Cold is AEGIS' filter, not a sensation: „Diese Asymmetrie — AEGIS als kalte Filterung, Funken-Ich als für einen Moment offenes Erleben — ist die Konfliktsituation der Krise-Sequenz." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L442]
+No ozone and no Landauer stand in it, and Kap 6 and Kap 36 are not named (`Plan/runs/kap0-kap40-doppelklammer-abhandlung-2026-05-08-md/05-verify.txt`).
+On the date the konsolidiertes Konzept gives Landauer warmth to Kap 6 and Kap 36 and the master report makes heat and ozone one signature of AEGIS, this gives warmth to Juna alone — the warm half of the lock of 2026-05-30, three weeks before it, in the Genesis.
