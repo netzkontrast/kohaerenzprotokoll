@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -161,3 +161,17 @@ entered in the Überwelt's `Wächter-Registry` ^[kohaerenz-protokoll-welt-sensor
 „Mnemosyne ist nicht bösartig, sondern überfordert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696] „Sie ist die einzige Stimme im AEGIS-System, die mehr Wahrheit kennt als AEGIS — und schweigt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]
 She is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L704] in which Stilebene 2 shows, and
 „Sie darf metaphorisch sprechen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L704]. Setting: „Kanonisch gespiegelt in Kap 10" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L700].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„3. Person personal, flüssig-poetisch (eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996]
+„Verwaltet die Datenströme der Erinnerung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] „Setting des Klimax: der Mnemosyne-Archipel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000]
+
+**Her tragedy is a lack.** „Sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
+„Sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
+„Erste Guardian, die im Vortex 1 Beat 4 betroffen ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
+
+„Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1012] — an instance in
+the AEGIS system (Q1). With [[oblivion|Oblivion]]: „Mnemosyne verwaltet, Oblivion löscht — funktionell verwandt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1008]
+Her offer to erase [[kael|Kael]]'s pain, which the drafting manual makes her centre, does not occur here;
+nor does the word antagonist.
