@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -76,3 +76,10 @@ What AEGIS believes itself to be: „AEGIS *glaubt* K₁ (Kohärenz) zu sein" ^[
 Kap 34, titled „Zwei Arten der Kohärenz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1047]: „Zwei Arten der Kohärenz prallen
 aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte
 (bezeugende)." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057]
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**A percentage in [[aegis|AEGIS]]' log, and what erasing keeps.** The binding log format measures [[kael|Kael]]'s system
+in a line that begins `SYSTEM_KAEL: ALTER={aktiv} | KOHÄRENZ={%}` (L968). [[oblivion|Oblivion]]'s choice in Akt III:
+„Weiterlöschen (Kohärenz bewahren) oder Stehenlassen (Wahrheit zulassen)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L788] — coherence on the side of
+erasure, truth on the other. The title's `Kohärenz Protokoll` stays its own term (J57).
