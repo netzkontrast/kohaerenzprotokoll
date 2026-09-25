@@ -333,8 +333,8 @@ sample are escaped (L37), and the list writes the escape as the file does. The
 profile finds 24 glued reference numbers; they are chapter and level numbers
 after a word, and none sits inside a listed term. The quotation check drops such
 a number on both sides, so a quotation that *starts* with one fails against its
-own line: „3. Person AEGIS-Beschreibung" does not resolve at L29, and quoting
-from the word before it does.
+own line: `3. Person AEGIS-Beschreibung`, quoted, does not resolve at L29, and
+quoting from the word before it does.
 
 **Counted twice.** The first `--count` read the first line of a wrapped prose
 bullet as a term — that line carried neither a comma nor a period followed by a
