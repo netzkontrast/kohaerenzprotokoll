@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -158,3 +158,11 @@ Reached before its act, as a practice: Kap 13 „Möglichkeits-Garten (KW4-Vorgr
 als innere Praxis" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L545], „der Garten als Vorform der Möglichkeits-Welt"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L553]; Kap 20 „Lyons-Welt, KW4-Vorgriff" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717]. C5: one name, the world's; the
 document has no `Garten der Möglichkeiten`.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+Both scales in one document. The world's heading gives it as a name of KW4 —
+„KW4 — Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L225] — and KW4's
+sub-location table lists a `Möglichkeits-Garten` inside it:
+„überwucherter Ruinengarten; Setting der inneren Praxis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L272]. The world is
+„Der überwucherte Ruinengarten der Möglichkeit." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] (C5, J61).
