@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -70,3 +70,15 @@ Kap 31: „Silas tritt als POV-Träger auf" ^[koharenz-protokoll-strukturierter-
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - mirror alter called a Coheron echo, with details open: „Silas (Coheron-Echo)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L798]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+As a riss trigger: „Silas (Coheron-Echo)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409], relational and warm — „Oberflächen werden unerwartet weich und warm" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409].
+
+**His half sentence is Kap 1's lock**: „Etwas in der Frequenz der Lüftung schien zu—" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L496]
+„(Abbruch vor dem Verb, kein Subjekt, Schicht-2-gekoppelt)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L496]. In Akt II:
+„wachsendes Bewusstsein; Echo-Prosa wird hörbar." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L497] In Akt III:
+„Silas wird zum aktiven Transmitter" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L498], from about Kap 31/32 — his
+exact chapters are open, OQ-E (L1428). He is one of [[juna|Juna]]'s two anchors in the
+resolution of OQ-B: „gestaffelte Grammatik; Abwesenheits-Phase Akt I → Präsenz-Phase Akt II+; zwei Anker (Telefon-Stille, Silas)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1195].
+The chapter template's third example conflict pair is his with [[oblivion|Oblivion]] (L951).
