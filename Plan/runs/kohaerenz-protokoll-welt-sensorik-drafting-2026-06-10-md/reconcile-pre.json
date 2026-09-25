@@ -27,218 +27,244 @@
   "decided_mechanically": 346,
   "needs_judgement": 249,
   "buckets": {
-    "already_there": [],
-    "new_reading": [
+    "already_there": [
       {
         "candidate": "Überwelt",
         "page": "ueberwelt",
-        "readings": 10
+        "readings": 11
       },
       {
         "candidate": "Externe Ebene",
         "page": "externe-ebene",
-        "readings": 9
+        "readings": 10
       },
       {
         "candidate": "Risse",
         "page": "risse",
-        "readings": 11
+        "readings": 13
       },
       {
         "candidate": "Realitätsebenen",
         "page": "realitaetsebenen",
-        "readings": 3
+        "readings": 4
       },
       {
         "candidate": "Konstrukt-Stadt",
         "page": "konstrukt-stadt",
-        "readings": 8
+        "readings": 9
       },
       {
         "candidate": "AEGIS",
         "page": "aegis",
-        "readings": 14
+        "readings": 15
       },
       {
         "candidate": "Landauer-Signatur",
         "page": "landauer-signatur",
-        "readings": 7
+        "readings": 8
       },
       {
         "candidate": "Lex",
         "page": "lex",
-        "readings": 7
+        "readings": 8
       },
       {
         "candidate": "Sektor 04",
         "page": "sektor-04",
-        "readings": 1
+        "readings": 2
       },
       {
         "candidate": "Resonanzlandschaft",
         "page": "resonanz-landschaft",
-        "readings": 2
+        "readings": 3
       },
       {
         "candidate": "Kiko",
         "page": "kiko",
-        "readings": 6
+        "readings": 7
       },
       {
         "candidate": "Lia",
         "page": "lia",
-        "readings": 6
+        "readings": 7
       },
       {
         "candidate": "Isabelle",
         "page": "isabelle",
-        "readings": 6
+        "readings": 7
       },
       {
         "candidate": "Archiv der Grenzen",
         "page": "archiv-der-grenzen",
-        "readings": 1
+        "readings": 2
       },
       {
         "candidate": "Mnemosyne-Server-Architektur",
         "page": "mnemosyne-server-architektur",
-        "readings": 2
+        "readings": 3
       },
       {
         "candidate": "Mnemosyne",
         "page": "mnemosyne",
-        "readings": 9
+        "readings": 10
       },
       {
         "candidate": "Grenzfeste",
         "page": "grenzfeste",
-        "readings": 2
+        "readings": 3
       },
       {
         "candidate": "Evaluierungseinheit",
         "page": "evaluierungseinheit",
-        "readings": 1
+        "readings": 2
       },
       {
         "candidate": "Möglichkeits-Garten",
         "page": "moeglichkeits-garten",
-        "readings": 9
+        "readings": 10
       },
       {
         "candidate": "Emergenz",
         "page": "emergenz",
-        "readings": 4
+        "readings": 8
       },
       {
         "candidate": "Funktionale Multiplizität",
         "page": "multiplizitaet",
-        "readings": 9
+        "readings": 11
       },
       {
         "candidate": "Nexus",
         "page": "nexus",
-        "readings": 6
+        "readings": 7
       },
       {
         "candidate": "Mosaik-Herz",
         "page": "mosaik-herz",
-        "readings": 6
+        "readings": 7
       },
       {
         "candidate": "Guardians",
         "page": "guardians",
-        "readings": 12
+        "readings": 14
       },
       {
         "candidate": "Verschränkungs-Insel",
         "page": "verschraenkungs-insel",
-        "readings": 2
+        "readings": 3
       },
       {
         "candidate": "Junas Ankerpunkt",
         "page": "junas-ankerpunkt",
-        "readings": 3
+        "readings": 4
       },
       {
         "candidate": "Juna",
         "page": "juna",
-        "readings": 11
+        "readings": 12
       },
       {
         "candidate": "Garten der stillen Präsenz",
         "page": "garten-der-stillen-praesenz",
-        "readings": 4
+        "readings": 5
       },
       {
         "candidate": "Hitze-Polaritätsregel",
         "page": "hitze-polaritaetsregel",
-        "readings": 3
+        "readings": 4
       },
       {
         "candidate": "Telefon-Stille",
         "page": "telefon-stille",
-        "readings": 8
+        "readings": 9
       },
       {
         "candidate": "Nyx",
         "page": "nyx",
-        "readings": 7
+        "readings": 8
       },
       {
         "candidate": "Moros",
         "page": "moros",
-        "readings": 6
+        "readings": 7
       },
       {
         "candidate": "Silas",
         "page": "silas",
-        "readings": 9
+        "readings": 10
       },
       {
         "candidate": "Oblivion",
         "page": "oblivion",
-        "readings": 9
+        "readings": 10
       },
       {
         "candidate": "DID",
         "page": "did",
-        "readings": 5
+        "readings": 6
       },
       {
         "candidate": "Nichts-Rauschen",
         "page": "nichts-rauschen",
-        "readings": 7
+        "readings": 8
       },
       {
         "candidate": "K₁-Reinform",
         "page": "nichts-rauschen",
-        "readings": 7
+        "readings": 8
       },
       {
         "candidate": "Coheron",
         "page": "coheron",
-        "readings": 8
+        "readings": 9
       },
       {
         "candidate": "Trennungsprotokoll",
         "page": "trennungsprotokoll",
-        "readings": 8
+        "readings": 9
       },
       {
         "candidate": "Multiplizität",
         "page": "multiplizitaet",
-        "readings": 9
+        "readings": 11
       },
       {
         "candidate": "Genesis",
         "page": "genesis",
-        "readings": 7
+        "readings": 8
       },
       {
         "candidate": "algorithmische Melancholie",
         "page": "algorithmische-melancholie",
-        "readings": 8
+        "readings": 9
       },
+      {
+        "candidate": "Drei ontologische Schichten",
+        "page": "drei-ontologische-schichten",
+        "readings": 2
+      },
+      {
+        "candidate": "K₀-Existenz",
+        "page": "k0-existenz",
+        "readings": 2
+      },
+      {
+        "candidate": "Michael",
+        "page": "kael",
+        "readings": 12
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 12
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 7
+      }
+    ],
+    "new_reading": [
       {
         "candidate": "Rhys",
         "page": "rhys",
@@ -250,34 +276,9 @@
         "readings": 6
       },
       {
-        "candidate": "Drei ontologische Schichten",
-        "page": "drei-ontologische-schichten",
-        "readings": 1
-      },
-      {
-        "candidate": "K₀-Existenz",
-        "page": "k0-existenz",
-        "readings": 1
-      },
-      {
         "candidate": "Kohärenz",
         "page": "kohaerenz",
-        "readings": 6
-      },
-      {
-        "candidate": "Michael",
-        "page": "kael",
-        "readings": 11
-      },
-      {
-        "candidate": "Kael",
-        "page": "kael",
-        "readings": 11
-      },
-      {
-        "candidate": "Alex",
-        "page": "alex",
-        "readings": 6
+        "readings": 9
       }
     ],
     "new_term": [
@@ -2808,6 +2809,26 @@
       }
     ]
   },
+  "in_document_not_in_census": [
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 42,
+      "already_read": true
+    },
+    {
+      "page": "logos",
+      "surface": "LogOS",
+      "line": 42,
+      "already_read": true
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 42,
+      "already_read": true
+    }
+  ],
   "index_gaps_may_hide_matches": true,
   "not_decidable_here": [
     "whether a new reading conflicts with one already on the page",
