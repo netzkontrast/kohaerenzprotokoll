@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-16"
 ---
 
@@ -267,3 +267,13 @@ Kap 33 is not named (C7).
 
 [[selene|Selene]] is not her: „Selene ist im System, Juna ist außerhalb." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L101] [[silas|Silas]] carries
 „einen Splitter von Juna in Kael" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L157]. In KW4, „Junas Atmosphäre kommt hier durch." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Juna ist nicht primär Charakter, sondern strukturelle Position." ^[kohaerenz-protokoll-konzept-master-md.md:L533]
+„Eine lebende Gödel-Aussage: innerhalb des AEGIS-Systems wahr, aber nicht beweisbar." ^[kohaerenz-protokoll-konzept-master-md.md:L537]
+„Juna existiert in Storyform A als IC (Universe / Past = Genesis-Krise)." ^[kohaerenz-protokoll-konzept-master-md.md:L543] „In Storyform B existiert sie nicht direkt als IC" ^[kohaerenz-protokoll-konzept-master-md.md:L543].
+„Niemals physisch beschrieben." ^[kohaerenz-protokoll-konzept-master-md.md:L556] „Niemals Deus ex Machina." ^[kohaerenz-protokoll-konzept-master-md.md:L567]
+**When**: „Revelation-Timing: KW2/KW3 (Akt II), nicht früher." ^[kohaerenz-protokoll-konzept-master-md.md:L571] Her other modes are open —
+„Andere Modi (Erscheinungen in der Stadt, im Traum, im Spiegel) müssen festgelegt werden" ^[kohaerenz-protokoll-konzept-master-md.md:L994]. No chapter (C7).
+Her point of view: „Junas POV ist offen (Reset-Doc Appendix C)." ^[kohaerenz-protokoll-konzept-master-md.md:L404] — and a rare „Juna-POV (selten)" ^[kohaerenz-protokoll-konzept-master-md.md:L879].
