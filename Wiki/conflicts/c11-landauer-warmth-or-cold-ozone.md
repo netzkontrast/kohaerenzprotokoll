@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -106,3 +106,19 @@ and Kap 36 „Landauer-Wärme als Schluss-Markierung“
 „Ozon, weißes Licht, Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508],
 without equating that ozone with the warm Landauer effect. This is another
 source for the warm position in Kap 6 and 36, not a resolution of C11.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Cold ozone as the signature, heat as the strand — a fourth arrangement, of
+document 7's date.** The rule: cold ozone, „AEGIS-Unterdrückung / Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346],
+„Überall, von Kap 1 an." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346]; warmth [[juna|Juna]]'s from Kap 3; „Nach Kap 1 die beiden Hitzen nie wieder vermischen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]
+„Einzige kanonische Ausnahme: Vortex 1 Beat 4" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351] Its source, in the
+lock index: the log of 2026-05-30 (L1195–L1196).
+
+But its first foreshadowing strand, „1. Landauer" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445], is
+„Hitze als Symptom der Wahrheitsvertuschung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445], accumulating in
+„Kap 6 (Cache-Konflikt), Kap 19 (AEGIS-Eskalation)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445]; and the world riss
+of the transition out of KW1 is thermal, „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418].
+What Kap 6 smells or feels like it does not say. So one document holds the lock
+and a heat strand through Kap 6 — the arrangement neither of the lock's source
+nor of the konsolidiertes Konzept.
