@@ -12,8 +12,8 @@
 - „Juna existiert außerhalb von AEGIS' axiomatischer Basis. Sie ist nicht „verborgen" oder „verschlüsselt", sondern strukturell unsichtbar" ^[L257] — entropy is the condition AEGIS cannot compute; Juna is entropy in structural form.
 
 ### C8 — AEGIS' Approach in Storyform B (Be-er or Do-er)
-- „AEGIS' Position. AEGIS ist reiner Funktionalismus — alles, was er tut, ist funktional beschreibbar." ^[L372] — the document frames AEGIS as pure functionalist (operational/Do-er stance), and states this as his ontological blindness.
-- „Die Anteile sind nicht nur Funktionen, sie sind verkörperte Qualia-Träger." ^[L400] — the resolution lies in embodied qualia, which AEGIS cannot access, marking the Do-er's limitation.
+- „AEGIS ist ein perfekter Funktionalist — alles, was er tut, ist funktional beschreibbar" ^[L372] — the document frames AEGIS as pure functionalist (operational/Do-er stance), and states this as his ontological blindness.
+- „die Anteile sind nicht nur Funktionen, sie sind verkörperte Qualia-Träger" ^[L400] — the document says embodied qualia exist, which AEGIS cannot access, marking the Do-er's limitation.
 
 ### Q1 — Are the Guardians components inside AEGIS
 - No direct statement. The document maps characters to philosophical schools (§14.1) and to Kern-Welten (§14.2), and treats Guardians implicitly as philosophical principles rather than addressable entities. One character (Silas) is mapped as „Atemporalität (PAL), Coheron-Echo, Resonanz ohne Substrat" ^[L653], but the Guardian concept itself is not named or discussed.
@@ -26,25 +26,25 @@
 
 ## New to the wiki
 
-1. „Transzendentaler Idealismus inszeniert" as a drafting mode: Kant's distinction between phenomena and noumena operationalized as Kael seeing the „Drähte" of the simulation in Kap 17. ^[L121]
+1. „Das ist transzendentaler Idealismus inszeniert" ^[L121] — Kant's distinction between phenomena and noumena operationalized as Kael seeing the simulation in Kap 17.
 
-2. Isa Metzinger's PSM (Phenomenal Self Model) as the operative framework for functional multiplicity—not a unity-dissolution but the recognition that there was never a substrate to begin with. ^[L207-210]
+2. „Es existiert kein substanzielles Selbst" ^[L207] — Metzinger's PSM as the operative framework for functional multiplicity: the recognition that there was never a substrate to begin with.
 
-3. Strange-Attractor-Selbst as the alternative to substance-identity: healing as movement that never fixes to a point, rather than fusion or integration. ^[L755]
+3. „Von Substanz-Selbst zu Strange-Attractor-Selbst" ^[L755] — healing as movement that never fixes to a point, rather than fusion or integration.
 
-4. Chaitin's Ω-constant as the theoretical model for Juna: undeniable but algorithmically incompressible, therefore irreducible to any AEGIS model. ^[L320-324]
+4. „Juna funktioniert wie Ω. Sie ist undeniable (wohldefiniert), aber nicht modellierbar (algorithmisch irreduzibel)" ^[L324] — the theoretical model for Juna: algorithmically irreducible to any AEGIS model.
 
-5. PAL-Konstruktion (Page-Wootters / Aharonov-Lebowitz) as the mechanism of atemporality: time as emergent from entanglement, not fundamental. Coheronen operationalize this in the novel. ^[L501-508]
+5. „Zeit ist nicht fundamental, sondern emergent" ^[L502] — PAL-Konstruktion as the mechanism of atemporality; Coheronen operationalize this in the novel.
 
-6. Kishōtenketsu-Struktur: the resolution structure of the Vortex, explicitly non-Hegelian (not thesis-antithesis-synthesis but a fourth movement that leaves the binary unresolved). ^[L598]
+6. „sie ist Kishōtenketsu-Synthese, nicht Hegel-Synthese" ^[L598] — the Vortex's end-structure explicitly non-Hegelian, with a fourth movement that leaves the binary unresolved.
 
-7. Bodhicitta as the philosophical model for Wir-AEGIS-plural: not self-liberation but postponed liberation pending all beings' freedom. ^[L452-457]
+7. „Nach der Verwandlung leistet das Wir-Geflecht Bewahrung für das Universum" ^[L456] — Bodhicitta as the model for Wir-AEGIS-plural: compassionate preservation for all beings.
 
-8. Husserlian Spectator (Epoché / bracketing natural attitude) as the theoretical home of Juna's witness function and Vortex 1 Beat 3's silence. ^[L153-157]
+8. „Junas Beobachtung ist husserlianisch: sie konstituiert nichts, sie bezeugt" ^[L157] — the theoretical home of Juna's witness function and Vortex 1 Beat 3's silence.
 
-9. Methodological coherentism + ontological realism as the novel's synthesis: truth is correspondence (ontologically), but truth is known through coherence (methodologically). ^[L60-70]
+9. „Wahrheit ist Korrespondenz (Definition, ontologisch realistisch), aber Wahrheit wird erkannt durch Kohärenz (Kriterium, methodologisch kohärentistisch)" ^[L61] — the novel's synthesis: truth is correspondence ontologically, but known through coherence methodologically.
 
-10. Wu Wei (Daoism) as Juna's operational mode: non-coercive presence, non-solving, non-grasping. Explicitly contrasts with AEGIS' active constitution through every observational act. ^[L438-451]
+10. „Anwesenheit ohne Eingriff" ^[L442] — Wu Wei as Juna's operational mode: non-coercive presence, non-solving, non-grasping.
 
 ## Chapters
 
@@ -55,7 +55,7 @@
 - Kap 11 ^[L188], ^[L713] — Jaspers' Grenzsituationen (limit-situations); acceptance of complexity / Mosaic self
 - Kap 14 ff. ^[L349] — KW2-Logik; parakonsistent operations begin
 - Kap 15 ^[L310], ^[L319], ^[L701] — Turing's halting problem as explicit anchor; city as universal Turing machine with non-terminating repair algorithms; Akt-II escalation
-- Kap 16 ^[L335], ^[L704] — Bekenstein bound; „Diktatur der physikalischen Zeit"; resolution loss through computational capacity constraints
+- Kap 16 ^[L704], ^[L705] — Bekenstein bound; „Diktatur der physikalischen Zeit" ^[L705]; resolution loss through computational capacity constraints
 - Kap 17 ^[L121], ^[L124], ^[L180], ^[L707] — Kant Phenomena vs. Noumena; Kael sees the „wires" of the simulation; Aletheia moment; perceptual form recognized as form
 - Kap 18 ^[L369], ^[L378], ^[L710] — Chalmers' hard problem; Qualia-information paradox; sub-alters have qualia, AEGIS cannot apprehend them
 - Kap 18–22 ^[L59] — Genesis-Flashbacks; EP domains; memory as setting (KW2)

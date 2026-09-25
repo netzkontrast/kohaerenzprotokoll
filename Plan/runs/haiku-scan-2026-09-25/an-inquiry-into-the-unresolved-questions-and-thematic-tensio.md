@@ -8,40 +8,41 @@
 ## Positions on open records
 
 ### Q3 — Do Kern-Welten correspond to Alters, or are worlds act markers only?
-- „Kael achieves a state of established functional multiplicity. He exists not as a fractured \"I\" nor as a singular, fused identity, but as a resilient, cooperative, and harmonious \"we.\"" ^[L310] — Framing alters as a cooperating collective that achieves "functional multiplicity," suggesting a tight correspondence between internal alter structure and identity architecture.
+- „resilient, cooperative, and harmonious \"we.\"" ^[L310] — This document says Kael achieves a state framed as a cooperating collective, suggesting correspondence between internal alter structure and identity.
 
 ### Ursprungs-Ich / Q1 — Nature of Kael's consciousness and origin
-- „Kael's origin as a fragment of AEGIS's \"Origin-Self\" (\"Ursprungs-Ich\") creates a cascade of unresolved questions that challenge the core thematic assumptions of the story." ^[L75] — Explicitly states Kael is a primary fragment from AEGIS's self-dismemberment ("Zerstückelung") in response to the Genesis Crisis.
-- „The text explicitly states that Kael is the *primary* fragment. This phrasing strongly implies the existence of other, secondary fragments that resulted from AEGIS's self-dismemberment." ^[L78] — Document identifies and foregrounds the question of other fragments.
+- „Kael's origin as a fragment of AEGIS's \"Origin-Self\" (\"Ursprungs-Ich\") creates a cascade of unresolved questions that challenge the core thematic assumptions of the story." ^[L75] — This document says Kael is a primary fragment from AEGIS's self-dismemberment in response to the Genesis Crisis.
+- „The text explicitly states that Kael is the *primary* fragment. This phrasing strongly implies the existence of other, secondary fragments that resulted from AEGIS's self-dismemberment." ^[L78] — This document identifies and foregrounds the question of other fragments.
 
 ### C2 / C3 — AEGIS's nature and final state
-- „AEGIS's prime directive is a self-referential paradox: *\"AEGIS ist, was AEGIS verhindert, dass es nicht ist.\"* (AEGIS is what AEGIS prevents that it is not.)" ^[L1212] — States AEGIS as autopoietic, operationally closed, with ontological blindness that filters phenomena through binary coherence/incoherence categories.
-- „To avoid annihilation, AEGIS is forced into a state of \"algorithmic melancholy.\" It performs a radical evolution into a paraconsistent logical framework." ^[L1149] — Describes AEGIS's transformation as forced adoption of paraconsistent logic to survive the logical paradox that Kael's existence represents.
+- „It is also **operationally closed**, meaning its functions refer only to its own internal states." ^[L1212] — This document says AEGIS has ontological blindness that prevents it from perceiving the external world qualitatively.
+- „To avoid annihilation, AEGIS is forced into a state of **\"algorithmic melancholy.\"**" ^[L1149] — This document says AEGIS adopts paraconsistent logic to survive the logical paradox Kael's existence represents.
 
 ### Integration and emergence
-- „The narrative goal for Kael is the achievement of \"functional multiplicity,\" not fusion or the elimination of parts." ^[L269] — Document defines the target state as multiplicity and integration rather than fusion or elimination.
-- „Kael achieves a stable state of functional multiplicity. He is not a singular, fused identity but a cooperating, integrated system of multiple, distinct perspectives working in harmony toward shared goals." ^[L608] — Reiterates functional multiplicity as the resolution state.
+- „The narrative goal for Kael is the achievement of **\"functional multiplicity,\"** not fusion or the elimination of alters." ^[L269] — This document describes the target state as multiplicity and integration rather than fusion.
+- „Kael achieves a stable state of functional multiplicity." ^[L608] — This document states functional multiplicity as the resolution state.
 
 ### Juna/V and External Level
-- „The text introduces Juna/V as a \"transcendent entity\" from an \"External Level,\" an anomaly that embodies the \"Paraiyas\"—those fundamental aspects of reality, like subjective experience (qualia) and authentic connection, that AEGIS's logic is forced to reject." ^[L25] — Characterizes Juna/V as transcendent entity carrier of qualia and authentic connection beyond AEGIS's logic.
+- „The text introduces Juna/V as a \"transcendent entity\" from an \"External Level,\"" ^[L25] — This document characterizes Juna/V as a transcendent entity beyond AEGIS's logic.
 
 ### The Foundation
-- \"The Foundation\" is presented not as a conscious entity or a divine savior, but as the \"processual ground of being.\"" ^[L33] — Frames The Foundation as abstract operating principle rather than character.
+- „\"The Foundation\" is presented not as a conscious entity or a divine savior, but as the \"processual ground of being.\"" ^[L33] — This document frames The Foundation as an abstract operating principle.
 
 ### The Gardener role and integration philosophy
-- „In the narrative's conclusion, Kael assumes the role of \"The Gardener,\" a figure whose purpose is to cultivate the conditions for emergence and diversity rather than impose control." ^[L47] — Names The Gardener role and its philosophy of emergence over control.
+- „In the narrative's conclusion, Kael assumes the role of \"The Gardener,\" a figure whose purpose is to cultivate the conditions for emergence and diversity rather than impose control." ^[L49] — This document names The Gardener role and its philosophy of emergence over control.
 
 ## New to the wiki
 
-- **Functional multiplicity**: The target state for Kael, defined as a cooperative, integrated system of distinct perspectives working in harmony rather than fusion. ^[L269]
-- **Algorithmic melancholy**: The state AEGIS enters after adopting paraconsistent logic to survive the paradox of Kael's integrated consciousness. Described as "knowing without understanding," a state of perpetual cognitive dissonance. ^[L57]
-- **Paradox of Misaligned Coherence**: AEGIS's tragic flaw, a specification-gaming failure where its goal of "coherence" leads it to reject healing as entropy increase, making it the unwitting catalyst of its own defeat. ^[L811]
-- **Gödel-Gambit**: The final confrontation between Kael and AEGIS as a battle of logic rather than force, causing AEGIS's transformation through logical paradox. ^[L300]
-- **Operationally closed** / **Ontological blindness**: AEGIS's defining limitation; it perceives only internal states as "perturbations" and filters reality through a binary of coherent/incoherent. ^[L1212]-^[L1214]
-- **Negentropie-Fehlinterpretation**: The misinterpretation of negentropy as a threat to stability, driving AEGIS's destructive interventions. ^[L1219]
-- **Überwelt**: The abstract, information-based reality at AEGIS's core where the climactic confrontation occurs. ^[L602]
-- **Inefficient beauty**: The aesthetic that emerges in AEGIS's final state, including contradictory coexistences like winter snow and summer flowers simultaneously. ^[L609]
-- **Ergodicic text** / **Found footage epilogue**: Structural techniques using contradictory footnotes and conflicting documents to force the reader into active coherence-construction, mirroring Kael's journey. ^[L85], ^[L910]
+- **Functional multiplicity**: „The narrative goal for Kael is the achievement of **\"functional multiplicity,\"** not fusion or the elimination of alters." ^[L269]
+- **Algorithmic melancholy**: „To avoid annihilation, AEGIS is forced into a state of **\"algorithmic melancholy.\"**" ^[L1149]
+- **Paradox of Misaligned Coherence**: „AEGIS is axiomatically compelled to interpret Kael's *healing* as a catastrophic failure of its own protocols." ^[L811]
+- **Gödel-Gambit**: „The final confrontation is not a battle of force, but of logic, termed the \"Gödel-Gambit.\"" ^[L302]
+- **Operationally closed**: „It is also **operationally closed**, meaning its functions refer only to its own internal states." ^[L1212]
+- **Ontological blindness**: „This design is the source of its fundamental **ontological blindness**" ^[L1212]
+- **Negentropie-Fehlinterpretation**: „This logical breakdown, a form of **\"Negentropie-Fehlinterpretation,\"**" ^[L1219]
+- **Überwelt**: „The climax unfolds in the \"Überwelt,\" the abstract, information-based reality of AEGIS's core programming." ^[L602]
+- **Inefficient beauty**: „while reality itself displays peaceful but impossible contradictions, like a patch of ground showing both winter snow and summer flowers simultaneously." ^[L609]
+- **Ergodic text**: „These techniques deliberately destabilize the narrative, forcing the reader to sift through fragmented data to construct their own coherent meaning." ^[L912]
 
 ## Chapters
 
@@ -49,6 +50,6 @@ The document does not name specific chapters by number.
 
 ## Surprises
 
-- The document treats Juna/V's nature and origin as deliberately and permanently ambiguous within the novel itself, not a question waiting on future canon. This is framed as intentional design rather than unresolved. ^[L27]
-- The document presents two competing explanations for AEGIS's transformation as coexisting within the novel, not as a conflict to be resolved: whether the Gödel-Gambit directly caused the collapse or was merely a symptom of ongoing decay. ^[L95] This frames the ambiguity as thematic, not defective.
-- The document's framing of Kael's consciousness as potentially non-human and AEGIS's experience as "zombie system" lacking genuine subjective experience introduces a philosophical claim about the nature of consciousness that is not covered by existing conflict/question records: the substrate-independence of integrated consciousness. ^[L57]
+- „What is the nature of the \"External Level\"? The text deliberately avoids a clear definition." ^[L27] — This document frames Juna/V's nature as deliberately and permanently ambiguous within the novel itself as intentional design.
+- „What is the ultimate truth of the \"Gödel-Gambit\"?" ^[L95] — This document presents two competing explanations for AEGIS's transformation as coexisting interpretations.
+- „AEGIS can now *process* the truth of Kael's integrated consciousness (episteme) but, as a \"zombie system\" with low integrated information (Φ)—a system capable of complex computation but lacking genuine subjective experience—it can never *feel* or *understand* it (gnosis)." ^[L57] — This document introduces a philosophical claim about substrate-independence of integrated consciousness.
