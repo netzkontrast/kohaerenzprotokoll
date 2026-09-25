@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 10
+sources: 11
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -148,3 +148,8 @@ does not write `Garten der Möglichkeiten`.
 **KW4 is named for the garden.** „KW4 — Möglichkeits-Garten. Generativ." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225] The name of
 the Kern-Welt, and no place inside it; the style level of Akt III is „Kernwelt 4 + Juna" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L189].
 Nearest to the first position.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**KW4 is the garden.** „KW4 — Möglichkeits-Garten" ^[kohaerenz-protokoll-konzept-master-md.md:L661], Akt III, Kap 27–34, one of four worlds that are
+„nicht Orte, sondern logische Regime" ^[kohaerenz-protokoll-konzept-master-md.md:L651]. No place inside it is named. Nearest to the first position.
