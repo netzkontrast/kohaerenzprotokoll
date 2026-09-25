@@ -77,7 +77,8 @@ lock of 2026-05-30; placed here by what it states (J62). C11.
 
 ## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — warmth as the substance of Juna's resonance
 
-No rule is stated, and nothing is cold: no ozone and no Landauer stand in the document. Warmth is what the Funken-Ich feels of [[juna|Juna]]'s resonance before AEGIS' filter cuts it:
+No rule is stated, and no ozone and no Landauer stand in the document. Cold is AEGIS' manner, not a sensation: „Diese Asymmetrie — AEGIS als kalte Filterung, Funken-Ich als für einen Moment offenes Erleben — ist die Konfliktsituation der Krise-Sequenz." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L442]
+Warmth is what the Funken-Ich feels of [[juna|Juna]]'s resonance before AEGIS' filter cuts it:
 „Im Funken-Ich gibt es einen Augenblick — *vor* dem Riss, *vor* AEGIS' Filterung —, in dem es Wärme spürt, Wiedererkennen, Heim." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315]
 „Wenn in Kap 0 "Wärme, die es nicht geben kann" steht, dann muss in Kap 40 "die Wärme, die nicht hätte sein können" als Echo erscheinen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L319]
 Its origin is named as a chat turn: „Das ist die Wärme-Spur, die in der Probe vom letzten Turn vorgeschlagen wurde." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315] It is Setzung 2, to be confirmed (L554–L564).
