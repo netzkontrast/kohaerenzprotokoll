@@ -180,3 +180,23 @@ the judgement (P1, `CLAUDE.md` *Conflict detection is never mechanised*): list,
 per page, the readings no conflict record cites, so a person reads them against
 each other. Not built.
 
+**Measured again on document 17: two more.** Adding its readings found C14 —
+AEGIS' first-person chapter, whose first-person view and whose contrary rule
+both stood on `aegis` — and C15 — who carries Flight, five rows on four pages. So three
+conflicts in two documents surfaced this way, each with most of its rows already
+on pages. The list that would make them visible without a new reading is still
+not built.
+
+## Two sessions appending to one record — the merge of 2026-09-25
+
+This branch read documents 16 and 17 while another session's sweep and record
+audit (decision 012) landed on main. They met in 22 files. In the ten wiki
+pages and records every conflict had one shape: both sides appended a section
+and bumped a counter in the frontmatter. The other twelve were numbers under
+state markers and two derived files, re-derived rather than resolved. **The ten
+were resolved by rule, not by reading**: sections kept whole, main's
+first; `sources:` and `readings:` as HEAD + main − base; `ingested:` and
+`documents:` as main's list plus this branch's additions; conflict ids as the
+union. Prose numbers were re-derived by `state.py` after the last reading, and
+the sweep was then run on both documents — it found one reading in document 16
+that the lookup had missed.

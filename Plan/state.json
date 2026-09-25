@@ -3,7 +3,7 @@
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
-      "value": 16,
+      "value": 17,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
@@ -31,15 +31,15 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 1639,
+      "value": 1641,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 2032,
+      "value": 2033,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 2032,
+      "value": 2033,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
@@ -71,7 +71,7 @@
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
-      "value": false,
+      "value": true,
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
     },
     "pairs.fold_correct": {
@@ -99,7 +99,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 3950,
+      "value": 3959,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -167,15 +167,15 @@
       "how": "landed files that do not open with the eight lines of provenance"
     },
     "sweep.decided": {
-      "value": 24,
+      "value": 25,
       "how": "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence"
     },
     "sweep.open": {
-      "value": 1,
+      "value": 0,
       "how": "sweep hits in read documents that no reading and no ledger row settles \u2014 decision 012"
     },
     "sweep.readings": {
-      "value": 10,
+      "value": 11,
       "how": "of those, readings the lookup had missed, now on their pages"
     },
     "trainset.fold_baseline_pct": {

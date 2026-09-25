@@ -699,3 +699,38 @@ document.
   word numbering several series (`Ebene` for levels, style levels and the three
   levels of show-don't-tell). Added to `Plan/briefings/extract.md` (version 6).
 
+## Document 17 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-09-25
+
+A catalogue of 1130 lines: thirteen profiles on one template, then tables.
+**863 candidates written while reading, 851 counted** — `capture.py` read twelve
+as prose, each holding `, ` or `. ` — about 77 per 100 body lines. `gold.py`
+rules it gold; 96.2 % of its terms occur in the document. It was read before
+decision 012's selection rule reached this branch, so the list is exhaustive in
+the old sense, and the sweep found one surface it lacked, on a page it already
+reads.
+
+- **The count found 32 zeros and none was an absence.** Eleven are the reader's
+  nominative for a declined form (`frühe Vernachlässigung` for „der frühen
+  Vernachlässigung"), one is capitalised in the text. Eight are escaped — two
+  file names, three labels (`\[K\]`), and the log format's field names
+  (`JUNA\_VEKTOR`). Six are the reader's expansions of a **suspended compound**:
+  „Funktions-, Phobie-, DKT-, Somatik-, Sprach- und Beziehungs-Profil" writes
+  only the last whole, and `Schicht-1- oder Schicht-2-Material` only the second.
+  Three stand only with emphasis inside them — `*funktional* wütend`,
+  `Kontrolle *über* Intimität`, `die Amnesie *von innen*` — because
+  `capture.py --count` reads the marked line where `quotes.py` and the sweep
+  read it unmarked. And `Kap 10` stands only as the 10 of „(Kap 2, 10, 25)".
+  Thirteen more stand only inside compounds or inflected — `Cerberus`,
+  `LogOS` and `Kairos` only in „Cerberus-/LogOS-/Kairos-Funktionen".
+- **A document that names its quarry is reconciled as a difference.** It says
+  its source is the character bible, „gefiltert auf" the 2026-05-30 iterations,
+  and most of its profiles repeat the bible's words. The findings were where it
+  departs: it keeps the bible's Flight pair against three sources of its own date
+  (C15), gives AEGIS the third person against the lock it says it is filtered on
+  (C14), writes the lock into the bible's knuckles (C10), and takes the
+  konsolidiertes Konzept's absorption of LogOS rather than the bible's (Q5). The
+  census stays blind to the bible; the comparison belongs to reconciliation,
+  where it was made.
+- **Two questions the briefing did not carry** — suspended compounds, and
+  emphasis inside a phrase. Added to `Plan/briefings/extract.md` (version 8).
+

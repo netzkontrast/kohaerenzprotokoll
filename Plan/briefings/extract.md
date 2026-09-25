@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 7
-covers_documents: 5
-new_findings_last_document: 3
+version: 8
+covers_documents: 6
+new_findings_last_document: 2
 ---
 
 # Briefing — before extracting a document
@@ -87,6 +87,9 @@ has a page for it, and nothing the wiki knows depends on this list.
 - Does a summary table, abstract or heading abbreviate a term the body spells out?
 - Does the document switch to a short form partway through?
 - Is there a term whose *idea* recurs where the *word* does not?
+- Does the document write a suspended compound — „Funktions-, Phobie- … und
+  Beziehungs-Profil"? Only the last member is written whole; list what is
+  written, and expect an expanded member to count zero.
 
 **Boundaries — is one name wearing several things?**
 
@@ -128,6 +131,8 @@ has a page for it, and nothing the wiki knows depends on this list.
 - Reference numbers glued to the words they annotate, from dropped superscripts?
 - Backslash escaping inside terms and quotation marks?
 - Typographic and ASCII quote glyphs mixed in one file?
+- Emphasis inside a phrase — `*funktional* wütend`? The count reads the marked
+  line, so the phrase counts zero; the quotation check reads it unmarked.
 - A template or a file tree embedded as text? Its headings and list markers
   arrive escaped, and the structural profile does not count them.
 
