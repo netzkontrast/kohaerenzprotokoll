@@ -5,6 +5,7 @@ sources: 2
 readings: 2
 conflict: none
 ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+aliases: ["Kohärenz-Kernel"]
 gathered: "2026-09-24"
 ---
 

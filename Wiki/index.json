@@ -787,6 +787,7 @@
     "kohaerenz-kernel": {
       "title": "Kohärenz-Kernel (K₁)",
       "surfaces": [
+        "Kohärenz-Kernel",
         "Kohärenz-Kernel (K₁)",
         "kohaerenz-kernel"
       ],
@@ -1691,6 +1692,7 @@
     "kernwelt": "kern-welten",
     "kernwelten": "kern-welten",
     "kiko": "kiko",
+    "koharenzkernel": "kohaerenz-kernel",
     "koharenzkernelk1": "kohaerenz-kernel",
     "kohaerenzkernel": "kohaerenz-kernel",
     "koharenzprogramm": "kohaerenz-programm",
