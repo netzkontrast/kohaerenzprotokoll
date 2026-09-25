@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-16"
 ---
 
@@ -101,3 +101,8 @@ Found by the sweep (decision 012).
 A different sense from the page's first readings: here emergence is what KW4 alone
 allows. „Einzige Zone, in der" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] „neue Coheronen entstehen können — Emergenz statt
 Erhaltung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227].
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the word for the stranger
+
+Found by the sweep; the census did not list it. The word stands once, for the perturbation, not for AEGIS: „Kein Objekt, das sich durch den Raum bewegte, sondern eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[kap0-v1-annotiert-md.md:L581]
+The annotation reads that perturbation as [[juna|Juna]]'s resonance (L613). AEGIS itself arises, without the word, from fragments clustering in the void: „Ein kleines Cluster entsteht, ein winziger Verbund im Meer der Leere" ^[kap0-v1-annotiert-md.md:L241], until the Klick (L373).
