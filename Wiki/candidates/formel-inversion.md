@@ -1,10 +1,10 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -64,3 +64,11 @@ And in the entry `Plurale Apotheose`, of Vortex 2: „Formel-Inversion vollzogen
 „Kap 0: *„AEGIS ist, was AEGIS verhindert, dass es nicht ist."* (negativ definiertes Sein)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L33]
 „Kap 39 → 40: *„Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."* (positiv definiertes Sein) Strukturell dieselbe Funktion (Bewahrung), kippende Polarität." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L34]
 In Vortex 2, Kap 38–39, marked `[K]` (L388): „**Formel-Inversion vollzogen.**" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L390]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — mirrored in Kael's work
+
+Everything here is the document's `[V]` unless it cites `[K]`. It chose its plot thread partly because it „die Formel-Inversion des Romans im Kleinen spiegelt" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L108].
+„**Mikro-Inversion (Spiegel der Formel-Inversion** **\[K\]****).**" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L120]
+„Kap 1: Kael *bestätigt*, dass die Welt stimmt. (Glätten als Dienst — negativ definierte Arbeit: verhindern, dass Abweichung ist.)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L124]
+„Kap 39: Kael *bezeugt*, dass die Welt ist. (Halten als Dienst — positiv definierte Arbeit: bewahren, dass es ist.) Dieselbe Geste (der Bericht), kippende Polarität." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L125]
+The sentences are not written; [[kael|Kael]]'s report carries their shape, from Kap 1 to Kap 39.
