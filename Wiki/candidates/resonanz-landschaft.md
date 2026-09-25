@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -61,3 +61,9 @@ A second name for KW2: „VI.3 KW2 — Mnemosyne-Archipel (Resonanzlandschaft, K
 
 The name is KW2's second: „KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L111].
 „Erinnerung als Schauplatz, nicht als Inhalt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L113] Its logic is „Assoziativ, emotional." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L136]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„KW2 (Resonanz-Landschaft) ist ontologisch parakonsistent — Widersprüche koexistieren, ohne dass die Welt in Unsinn zerfällt." ^[kohaerenz-protokoll-konzept-master-md.md:L331]
+In the world table, „KW2 — Resonanz-Landschaft" ^[kohaerenz-protokoll-konzept-master-md.md:L659]: Akt II, paraconsistent logic, the belly's somatics (L659).
+Not named for a Guardian: the worlds are act markers (L665).
