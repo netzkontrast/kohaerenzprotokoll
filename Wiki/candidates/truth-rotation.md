@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -67,3 +67,9 @@ Once, in the Vortex chapters' cast: „Oblivion (Innen-Spiegelung der Truth-Rota
 
 The inversion under its own name: „**Die große Inversion (Skelett der zwei Storyforms).** AEGIS *glaubt* K₁ (Kohärenz) zu sein, *ist* aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25] — „Diese Verwechslung ist die mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)." ^[kapitel-kompendium-gather-2026-05-31-md.md:L25]
 The rotation is the turn: „**Truth-Rotation:** AEGIS = K₀ / Kael = K₁ wird sichtbar; die Phänomenologie der Risse bleibt, die *Lesart* kippt." ^[kapitel-kompendium-gather-2026-05-31-md.md:L232]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+„**Die große Inversion (Skelett der zwei Storyforms).** AEGIS *glaubt* K₁ (Kohärenz) zu sein, *ist* aber K₀ (Entropie)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25], and it is „die mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
+The turn: „**Truth-Rotation:** AEGIS = K₀ / Kael = K₁ wird sichtbar; die Phänomenologie der Risse bleibt, die *Lesart* kippt." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] At Beat 5: „Truth-Rotation komplett." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L382]
+In Kap 40 the flip reads two ways: „Kap 40 lässt beide Lesarten zu — Konflikt-Leser sehen im Flip (Truth-Rotation) einen Reset" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L68].
