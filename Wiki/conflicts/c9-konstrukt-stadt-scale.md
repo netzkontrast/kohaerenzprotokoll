@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 7
+sources: 8
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -89,3 +89,7 @@ KW1 „Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-begriffe-und-konzept
 
 Consistent with the decision: Kap 1 is „Erwachen in der Konstrukt-Stadt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L247],
 and its first beat „Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257].
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+Consistent with the decision: „KW1 — Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L44].
