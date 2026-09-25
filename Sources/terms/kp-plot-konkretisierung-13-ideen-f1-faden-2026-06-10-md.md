@@ -763,7 +763,9 @@ characters. Every citation into the chapter plan names that line, and a citation
 there says less about *where* than anywhere else in the file.
 
 The document numbers its chapters 0 to 40 (L223) and calls them „41 Bewegungen"
-(L159); Kap 40 is a Coda (L174).
+(L159); Kap 40 is a Coda (L174). **One word numbers two series**: Kap 40 echoes
+the Trennungsprotokoll as „Bewegung 4" (L229), which cannot be the fifth chapter
+unit, and no list of those movements appears in the document.
 
 What the extraction ran into:
 
