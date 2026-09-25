@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -52,3 +52,10 @@ The first of the report's three axes: „**Die Dual-Kernel-Theorie (DKT)** als l
 „Die Realität entsteht aus der Spannung zweier rechnerischer Kernels:" ^[kohaerenz-protokoll-konzept-master-md.md:L91] — [[kohaerenz-kernel|K₁]] and [[kollaps-kernel|K₀]] (L95–L99).
 It is shown, never named, early on: „**Erste 50 Seiten: Null DKT-Terminologie.**" ^[kohaerenz-protokoll-konzept-master-md.md:L1025]
 Every scene carries it as its fourth level: „**DKT-Ebene** — der Coheron/Erason-Status, die η-Bewegung, die Hitze-Bilanz." ^[kohaerenz-protokoll-konzept-master-md.md:L974]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — kept out of the first pages
+
+A drafting rule, not a statement of the physics: „**R-6 — Erste 50 Seiten null DKT-Terminologie.**" ^[kap0-v1-annotiert-md.md:L63]
+„Keine Coheronen, keine Erasonen, kein η, kein Landauer. Nur Phänomenologie." ^[kap0-v1-annotiert-md.md:L63]
+„(Für Kap 0: AEGIS-System-Vokabular wie Persistenz-Score, Paradox-Index, Sweep ist erlaubt — DKT-Begriffe nicht.)" ^[kap0-v1-annotiert-md.md:L63]
+The writer checks one word against it: „Der Begriff *Information* ist semi-technisch — könnte dem User später als zu nah an DKT-Terminologie auffallen." ^[kap0-v1-annotiert-md.md:L173]
