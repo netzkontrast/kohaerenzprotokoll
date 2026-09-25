@@ -756,11 +756,11 @@ points (§14).
 It labels passages itself — `[K]`, `[V]`, `[S]`, `[L]` (L13) — and the labels
 are dense on section heads and sparse inside tables, where `[V]` and `[L]` mark
 single cells. §12 does not define; it restates locks and names where each was
-set. §13 is marked „Vorschlag, kein Lock. User-Entscheidung" (L1245).
+set. §13 is marked „Vorschlag, kein Lock. User-Entscheidung" ^[L1245].
 
 The document states one tension of its own: §2.1 files `Landauer-Signatur`
 under cold ozone (L346), while the first foreshadowing strand, `Landauer`, has
-the theme „Hitze als Symptom der Wahrheitsvertuschung" (L445). And one conflict
+the theme „Hitze als Symptom der Wahrheitsvertuschung" ^[L445]. And one conflict
 it names as open: whether Alex arose in the separation or before it (L1456–L1466).
 
 Export damage: 1172 backslash escapes, most of them `\*\*` inside table cells
@@ -769,7 +769,7 @@ escaped markdown with blank lines between rows. Three candidates were first
 written as the document does not write them (`Gravitationale`, `Kinetische`,
 and an unescaped file name) and were corrected after the count. `Storyform A`,
 `Storyform B` and `Moonshine-Link` were removed: the document never writes them
-(it writes `A‖B`, `MC (A: Kael / B: AEGIS)` and „den Link").
+(it writes `A‖B`, `MC (A: Kael / B: AEGIS)` and „den Link" ^[L1429]).
 
 The list is the reading as written, 542 candidates; most are the document's
 drafting vocabulary (checks, locks, templates) rather than its world.
