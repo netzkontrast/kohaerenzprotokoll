@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,14 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Storyform: „A: MC-Concern. B: OS-Physics, AEGIS bereitet Phase-2-Stress-Tests vor.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L986]
 - Sensorik: „Sensorik: Garten, Pflege, lebendige Ordnung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L986]
 - Genesis echo: „Kap 13: die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L842]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Position: „| \*\*KW1 — Konstrukt-Stadt\*\* | Akt I (Kap 1–13) | P (Polynomialzeit)" ^[kohaerenz-protokoll-konzept-master-md.md:L658] — the last chapter of Akt I.
+
+- Risse: „Diese strukturelle Unvorhersagbarkeit ist die Quelle der KW2-Risse (Kap 4 / Kap 13 entsprechend)." ^[kohaerenz-protokoll-konzept-master-md.md:L714]
+- Kael: „**Kael als Brücke:** sein Beobachten kollabiert die Simulation in spezifische Realitäten (Kap 4, 13 — Gödel-Knoten als Mess-Problem-Avatare)." ^[kohaerenz-protokoll-konzept-master-md.md:L788]
+- Multiplicity: „Multiplizitäts-Schleier hält bis Kap 13" ^[kohaerenz-protokoll-konzept-master-md.md:L903]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -109,6 +117,6 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 
 ## Where the sources differ
 
-- **World.** „Tanz im Garten (neue innere Welt) · KW1→Übergang“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (Kapitel-Kompendium) · „KW1→Übergang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „KW3 Evaluierungseinheit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] (Kernwelten vollständig).
+- **World.** „Tanz im Garten (neue innere Welt) · KW1→Übergang“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (Kapitel-Kompendium) · „KW1→Übergang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „KW3 Evaluierungseinheit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] (Kernwelten vollständig). · „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-konzept-master-md.md:L658], KW1 to its end (master report).
 - **What happens.** „Innere Praxis etabliert; Teil-1-Abschluss.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „Möglichkeits-Garten (KW4-Vorgriff) als innere Praxis.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L545] (strukturierter Outline) · „Messer im Bewusstsein / Schleier-Fall“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] · „wo Personae kollabieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] (Kernwelten vollständig).
 - **Genesis echo.** The echo two documents set on Kap 13 carries the name each gives Kap 12's stage: „Kap 13: die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L842] · „Stille der Mitte — Jetzt-Raum (innere Stabilität gefunden)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L830] (konsolidiertes Konzept); „die Stille der Mitte = Echo der Vor-Trennungs-Stille der Reinform“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] · „Stille der Mitte (Jetzt-Raum) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (Kapitel-Kompendium).
