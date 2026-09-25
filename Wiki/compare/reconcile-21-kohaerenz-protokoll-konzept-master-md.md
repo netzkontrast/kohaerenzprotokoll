@@ -30,7 +30,7 @@ It is dated 2026-05-08, like the character bible, the konsolidiertes Konzept and
 Genesis iteration. Where those disagree it does not side with one of them as a block:
 the character bible's three Genesis beats (C12), the other two's Do-er for AEGIS (C8),
 the konsolidiertes Konzept's Lia and Isabelle for Flight, marked implicit (C15), and
-for Juna neither chapter — a revelation in Akt II (C7). **No date orders four sources
+for Juna neither Kap 33 nor Kap 38 — a revelation in Akt II (C7). **No date orders four sources
 of one day**, and none of the four says which of the others it follows.
 
 ## One new page, by the document's own rule
