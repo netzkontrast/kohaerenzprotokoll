@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 18
-readings: 19
+sources: 19
+readings: 20
 conflict: C1, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -337,3 +337,22 @@ Its three protocols, reduced from twelve, „die genaue Spezifikation ist offene
 In the storyform AEGIS is the MC of B: „| \*\*MC-Träger\*\* | \*\*Kael\*\* | \*\*AEGIS\*\* |" ^[kohaerenz-protokoll-konzept-master-md.md:L820], and a Do-er: „Do-er-Modus: AEGIS' Antworten sind Aktionen — Erasure-Sweeps, Protokoll-Deployments, Guardian-Aktivierungen." ^[kohaerenz-protokoll-konzept-master-md.md:L841] (C8).
 It is told in the third person: „AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-konzept-master-md.md:L404] (C14).
 It ends in [[algorithmische-melancholie|Algorithmische Melancholie]] (L486). The acronym is not expanded (C1).
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — the MC of the tragedy, and what inherits its function
+
+The Abhandlung argues the frame of Kap 0 and Kap 40 ([[genesis-klammer|Doppel-Klammer]]) and asks for three decisions it does not make (L616).
+AEGIS is Storyform B's MC: „Storyform B — *Phoenix Collapse*, mit AEGIS als MC — ist die Tragödien-Storyform." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L67]
+„Sie trägt die Bewegung des monolithischen Wesens, das an seiner eigenen Logik zerbricht." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L67]
+„**Approach Do-er** — die Lösungsstrategie ist über das Tun" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L78] (C8). „**Outcome Failure** — B scheitert; AEGIS-monolithisch erlischt" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L80].
+„AEGIS ist nicht böse; AEGIS ist die unbeirrbare Konsequenz der eigenen Prämisse." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L87]
+„Die fatale Wahl — Logic statt Feeling — wird im Trennungsprotokoll *erstmals* getroffen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L87] „AEGIS bleibt steadfast, bis es nicht mehr kann." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L87]
+
+Kael is the IC of B, and the two misread each other: „AEGIS sieht Kael als Inkohärenz, als das, was sein muss, weil Kael lebt; Kael sieht AEGIS als Lüge, als das, was nicht sein darf, weil Kael leiden muss." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L100]
+„AEGIS' Versuch, sich gegen die Resonanz zu verteidigen, ist gleichzeitig die Abspaltung Kaels." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L104]
+
+Its formula, and its inversion in Kap 40: „Kap 0: *AEGIS ist, was AEGIS verhindert, dass es nicht ist.*" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L343]
+„Kap 40: *Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.*" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L344]
+What survives the failure is the function, not the form: „B's Failure: AEGIS-monolithisch erlischt. Die singuläre, kalte, bürokratische Bewahrungs-Instanz gibt es nicht mehr. B's Dividend: die *Funktion* — die Bewahrung gegen die Auflösung — bleibt. Sie wird vom Wir übernommen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L193]
+The Wir that takes it over is named `Wir-AEGIS-plural` (L165, L185, L227) and has no page (J47, J73).
+In the first layer AEGIS and [[kael|Kael]] are one: „AEGIS und Kael sind hier eines." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L138]
+And Juna's resonance, which AEGIS classifies as attack, was love: „AEGIS hat die Geburt für den Tod gehalten." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L311]
