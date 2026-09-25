@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -48,3 +48,9 @@ whose riss is „fehlende Zeit, abrupte Schnitte, Dinge fallen nach oben" ^[koha
 [[aegis|AEGIS]]' activity is `Erasure` throughout — Sweeps in the [[ueberwelt|Überwelt]], a wave and a
 second phase in Kap 14, balances it knows (L282, L574, L586) — and the document
 does not tie that word to this one.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+The temporal pole of the Korrelat-Achse, with [[oblivion|Oblivion]] and [[aegis|AEGIS]] (L77).
+[[oblivion|Oblivion]]'s correlate: „Erason-Operator. Die einzige Alter, die aktiv löscht." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755]
+His riss is the „Spiegel-Erason" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L882]: „fehlende Zeit, abrupte Schnitte, Dinge fallen nach oben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L882].
