@@ -1,10 +1,10 @@
 ---
 term: Persistenzgleichung
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -43,3 +43,12 @@ The Überwelt's logic: „Visualisierung der Persistenzgleichung in Echtzeit." ^
 
 „AEGIS' tragischer Lesefehler: liest hohes η als Stabilität; tatsächlich misst η
 den Effizienzgrad der Verdrängung." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L55]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„η = α · MI(S) · e^(−δ/β)" ^[kohaerenz-protokoll-konzept-master-md.md:L127]
+„AEGIS berechnet diese Gleichung buchstäblich, um die Stabilität des Systems zu messen." ^[kohaerenz-protokoll-konzept-master-md.md:L131]
+Its variables: „η: gemessene "Kohärenz-Effizienz"" ^[kohaerenz-protokoll-konzept-master-md.md:L135], „α: Suppressions-Konstante (System-spezifisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L136], „MI(S): Mutual Information des betrachteten Subsystems" ^[kohaerenz-protokoll-konzept-master-md.md:L137], „δ: lokaler Erason-Druck" ^[kohaerenz-protokoll-konzept-master-md.md:L138], „β: Suppressions-Bandbreite" ^[kohaerenz-protokoll-konzept-master-md.md:L139].
+What AEGIS misreads: „**Was AEGIS nicht begreift:** Die Gleichung misst nicht Kohärenz, sondern den Grad der *Verdrängung*." ^[kohaerenz-protokoll-konzept-master-md.md:L143]
+„Wenn η sinkt, heißt das nicht Systemversagen — es heißt, die Wahrheit kommt durch." ^[kohaerenz-protokoll-konzept-master-md.md:L143]
+„Diese Fehlinterpretation ist das messbare Symptom der Truth-Rotation." ^[kohaerenz-protokoll-konzept-master-md.md:L147]
