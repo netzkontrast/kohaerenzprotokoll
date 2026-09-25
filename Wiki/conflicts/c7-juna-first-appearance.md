@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["juna"]
 ---
 
@@ -117,3 +117,9 @@ the reveal timeline has Kap 38 as „Juna erscheint direkt" ^[kohaerenz-protokol
 explicit manifestation is Kap 7, „Die Stimme im Rauschen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L474]. Her modes,
 as the resolution of OQ-B in the log of 2026-05-30: „gestaffelte Grammatik; Abwesenheits-Phase Akt I → Präsenz-Phase Akt II+; zwei Anker (Telefon-Stille, Silas)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1195].
 Whether Kap 33 is an appearance or an effect stays the author's question.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**Kap 38, as the third of her modes, locked 2026-05-30.**
+„Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]
+Nothing on Kap 33. Its rule for every scene of hers: „Grammatik-Regel: nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024]
