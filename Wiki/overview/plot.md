@@ -1,7 +1,7 @@
 ---
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-25"
 ---
 
@@ -71,6 +71,15 @@ several of these documents call themselves canon, and none retires another
 - Bridge share per act: „Reine Storyform-Etablierung; Multiplizitäts-Schleier hält bis Kap 13“ ^[kohaerenz-protokoll-konzept-master-md.md:L903] · „Erste Kollisionen, Genesis-Flashbacks“ ^[kohaerenz-protokoll-konzept-master-md.md:L904] · „Vortex-Vorläufer eskalieren“ ^[kohaerenz-protokoll-konzept-master-md.md:L905] · „Maximales Soft-Layering, dann B → A“ ^[kohaerenz-protokoll-konzept-master-md.md:L906]
 - Integration before the Vortex: „Funktionale Multiplizität wird **Kapitel 33** erreicht (Outline-Rev 2026-05-01).“ ^[kohaerenz-protokoll-konzept-master-md.md:L426]
 - Standing: „Frühere Dokumente (PDFs der Drive-Bibliothek) sind als Steinbruch zu lesen, dieser Report als Fundament.“ ^[kohaerenz-protokoll-konzept-master-md.md:L29] Recorded, not applied (decision 006).
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+- Count: „Kap 0 ist die einzige Bewegung in der gesamten 41-Kapitel-Architektur" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L124] · „Dazwischen liegen 39 Kapitel" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L29]
+- Frame: „Kapitel 0 und Kapitel 40 sind nicht zwei Kapitel, die zufällig eine Klammer bilden, sondern *ein einziger Atem in zwei Richtungen*." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L25] — to be skeletoned and written together, move by move (L496–L508).
+- Genesis across the book: „Beats 2 und 3 sind Kap 0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169] · „Beat 4 ist Kap 39." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173] · Beat 1 told nowhere (L165).
+- Storyforms: „Storyform A — *Heuristics of Integration*, mit Kael als MC — ist die Heilungs-Storyform." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L43] · „Storyform B — *Phoenix Collapse*, mit AEGIS als MC — ist die Tragödien-Storyform." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L67] · „**K0** ist der Konfliktraum beider Storyforms. Hier spielen sich die 39 Kapitel ab." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L149]
+- The voice between the frames: „In Kapitel-Anfängen, in Übergängen zwischen Akten, in besonderen Reflexionsmomenten." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L263]
+- No act, mode, block or Vortex is named; the only chapter between the frames it names is Kap 39.
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
