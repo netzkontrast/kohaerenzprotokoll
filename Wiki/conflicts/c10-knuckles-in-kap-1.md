@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 7
+sources: 8
 pages: ["kael"]
 ---
 
@@ -79,3 +79,14 @@ ohne dass er weiß warum" ^[koharenz-protokoll-strukturierter-outline-2026-05-18
 knuckles, neither Kap 0 (L211–L241) nor Kap 1, whose sensory line is „sterile Leere,
 Ozon, weißes Licht, 21°C" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265]. So neither the character bible's Kap 1 nor the
 Kapitel-Kompendium's Kap-0 lock; the image belongs to [[kael|Kael]], not to a chapter.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Kap 0 alone, stated four times, and dated to the Kompendium.** KW1's Risse:
+„Blutende Knöchel ohne Erinnerung an die Verletzung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L90], annotated
+„Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos. Wiederkehr am Ende offen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L90]
+The Landauer strand repeats it, „Knöchel-Blutung *in Kap 0*, in Kap 1 spurlos" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445]; the
+inversion table, „Kap 0 allein; Kap 1 spurlos" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L678]; and the lock index, under
+„2026-05-31-Locks (Kompendium)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1205]: „lebt in Kap 0 allein; Kap 1 bleibt spurlos; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1210].
+The return is open as „Wiederkehr-Form offen (OQ-Knöchel)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L678]. The same side as the
+storyform document and the glossary, with the same named source.
