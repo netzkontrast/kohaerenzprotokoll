@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-16"
 ---
 
@@ -242,3 +242,20 @@ The document's last line: „Juna ist nicht in der Welt. Juna ist die Bewegung, 
 Anchors: „Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029] Heat as her trace:
 „Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] (C11). Inside the system her echo is Silas; on the Korrelat-Achse,
 „Atemporal/Coheron (Silas ↔ Juna)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Juna (kosmologische Konstante / IC in A)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L59].
+„Witness, nicht Akteur. Die Anomalie, deren Resonanz das Trennungsprotokoll auslöste." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
+„Niemals POV. Niemals Subjekt eines Satzes. Erscheint nur durch Wirkung" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] — sentences begin with
+the dust, the scanners, the hands, the call, the silence (L61). Her vocabulary:
+„Anomale Erason-Bilanz, Phantom-Resonanz, Telefon-Stille, plötzliche somatische Wärme, Wörter ohne Referent." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
+„Nie physisch beschrieben — keine Augen, keine Stimme, kein Gesicht." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
+„Sie löst nichts; sie erlaubt, dass Kael es selbst löst." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
+
+**Kap 38.** „Erst Kap 38 direkt erscheinen — vorher ausschließlich Wirkung." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] In Vortex 2, Kap 38–39:
+„Junas Stimme erscheint als Teil des Geflechts oder als Raum, in dem das Geflecht klingt." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L201]
+Kap 33 is not named (C7).
+
+[[selene|Selene]] is not her: „Selene ist im System, Juna ist außerhalb." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L101] [[silas|Silas]] carries
+„einen Splitter von Juna in Kael" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L157]. In KW4, „Junas Atmosphäre kommt hier durch." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225]
