@@ -25,8 +25,19 @@ What this deliberately does NOT do is decide a conflict. Two readings of one ter
 can only be compared by reading them, and a program that guessed would produce
 exactly the false conflicts a shared-string detector produces.
 
+**And it sweeps the document for what the wiki already knows** (decision 012).
+A census is selective, by the rule in the briefing, and a lookup can only match
+what the census listed. So every surface of every page is also searched for in
+the document itself, standing alone, and each page the text names but no
+candidate matches is listed as `in_document_not_in_census`. Whether such an
+occurrence is a reading, or a title, a reference or a word in its ordinary sense,
+is the reconciler's call. It is recorded in `Plan/runs/sweep.jsonl`, and a
+sweep hit with no reading and no row there is `open`.
+
 Usage:
     python3 scripts/reconcile.py <slug>
+    python3 scripts/reconcile.py --sweep-open      # every read document's undecided hits
+    python3 scripts/reconcile.py --selftest
 """
 
 from __future__ import annotations
@@ -39,10 +50,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 INDEX = ROOT / "Wiki" / "index.json"
 RUNS = ROOT / "Plan" / "runs"
+SWEEP_LEDGER = RUNS / "sweep.jsonl"
 
 sys.path.insert(0, str(ROOT / "scripts"))
 import subject  # noqa: E402
-from wiki_index import fold  # noqa: E402
+from wiki_index import fold, mention  # noqa: E402
 
 
 def candidates_of(slug: str) -> list[str]:
@@ -135,10 +147,85 @@ def same_surface_groups(terms: list[str]) -> dict[str, list[str]]:
     return {k: v for k, v in groups.items() if len(v) > 1}
 
 
+SHORTEST_SWEPT = 2
+
+
+def sweep(slug: str, index: dict, candidates: list[str]) -> list[dict]:
+    """Every page the document names by one of its surfaces, standing alone,
+    that no candidate matches — with the first line it stands on.
+
+    A page counts as listed when any candidate folds to any of its surfaces, so
+    a census that wrote `Guardians` is not asked about `Guardian`'s other forms.
+    The text is searched the way `quotes.py` reads a line (escapes and emphasis
+    undone), with the pattern every counting script uses, `mention()`: no
+    letter, digit or hyphen on either side.
+
+    Measured 2026-09-25 over the fifteen read documents: 24 hits a page held no
+    reading for. Read one by one, 12 were readings the lookup had missed —
+    `Guardian` listed where the page's surface is `Guardians`, `Emergenz` on a
+    world rather than on AEGIS, a chapter title — and 12 were not: the novel's
+    title, a book title in a reference, a word in another sense, a term the
+    document's own rule kept out (`Plan/runs/sweep.jsonl` has each).
+
+    What it does not see: an inflected form the page does not carry as a
+    surface, a surface inside a compound (`Guardian-Prinzipien`), and a name
+    split across a line. A surface of one letter would stand alone in every
+    `[V]` label, so none is swept; none exists today.
+    """
+    doc = subject.document(slug)
+    import quotes
+    text = "\n".join(quotes.unmarked(line) for line in doc.lines())
+    listed = {fold(c) for c in candidates}
+    rows = []
+    for page, entry in sorted(index["terms"].items()):
+        surfaces = [s for s in entry["surfaces"] if s != page and len(s) >= SHORTEST_SWEPT]
+        if any(fold(s) in listed for s in surfaces):
+            continue
+        first = None
+        for surface in surfaces:
+            hit = mention(surface).search(text)
+            if hit and (first is None or hit.start() < first[1]):
+                first = (surface, hit.start())
+        if first:
+            rows.append({"page": page, "surface": first[0],
+                         "line": text.count("\n", 0, first[1]) + doc.offset,
+                         "already_read": slug in entry["ingested"]})
+    return rows
+
+
+def sweep_ledger() -> dict[tuple[str, str], dict]:
+    """(document, page) → the recorded decision on a sweep hit."""
+    if not SWEEP_LEDGER.exists():
+        return {}
+    rows = [json.loads(line) for line in SWEEP_LEDGER.read_text(encoding="utf-8").splitlines() if line.strip()]
+    return {(r["document"], r["page"]): r for r in rows}
+
+
+def sweep_open(index: dict | None = None) -> list[dict]:
+    """Sweep hits in every reconciled document that no reading and no ledger row settles.
+
+    Done is a measurement (P24): a hit is settled when the page carries a
+    reading from the document, or `Plan/runs/sweep.jsonl` says why it is not one.
+    """
+    if index is None:
+        index = json.loads(INDEX.read_text(encoding="utf-8"))
+    ledger = sweep_ledger()
+    open_rows = []
+    for run in sorted(RUNS.glob("*/reconcile.json")):
+        slug = run.parent.name
+        if not (run.parent / "03-candidates.md").exists():
+            continue
+        for row in sweep(slug, index, candidates_of(slug)):
+            if not row["already_read"] and (slug, row["page"]) not in ledger:
+                open_rows.append({"document": slug, **row})
+    return open_rows
+
+
 def classify(slug: str, index: dict) -> dict:
     surfaces = index["surface_to_page"]
     buckets: dict[str, list] = {"already_there": [], "new_reading": [], "new_term": [], "needs_judgement": []}
     candidates = candidates_of(slug)
+    swept = sweep(slug, index, candidates)
 
     # Surfaces of one term, settled by fold(): keep the first, carry the rest as
     # aliases. Done before classification so one term cannot become two pages.
@@ -196,6 +283,7 @@ def classify(slug: str, index: dict) -> dict:
         "decided_mechanically": decided,
         "needs_judgement": len(buckets["needs_judgement"]),
         "buckets": buckets,
+        "in_document_not_in_census": swept,
         "index_gaps_may_hide_matches": True,
         "not_decidable_here": [
             "whether a new reading conflicts with one already on the page",
@@ -235,14 +323,67 @@ def render(result: dict) -> str:
             else:
                 out.append(f"  {row['candidate']:36} {row.get('page', '')}")
         out.append("")
+    swept = result.get("in_document_not_in_census", [])
+    out.append(f"## in_document_not_in_census ({len(swept)}) — a page's surface stands alone "
+               "in the text and no candidate matches it: a reading, or an occurrence? "
+               "Record the call in Plan/runs/sweep.jsonl")
+    for row in swept:
+        mark = "  (page already reads this document)" if row["already_read"] else ""
+        out.append(f"  {row['surface']:36} {row['page']:28} L{row['line']}{mark}")
+    out.append("")
     return "\n".join(out)
+
+
+def selftest() -> int:
+    """Each case carries the exact outcome the sweep must produce.
+
+    A real document, so the whole path runs — body offset, unmarking, the
+    standing-alone pattern — against an index built here, so no page on disk
+    can move the needles.
+    """
+    slug = "aegis-subplots-kapitelweise-system-exploration-docx"
+    index = {"terms": {
+        "aegis": {"surfaces": ["AEGIS", "aegis"], "ingested": []},
+        "kael": {"surfaces": ["Kael"], "ingested": [slug]},
+        "guardian-x": {"surfaces": ["Guardian"], "ingested": []},
+        "riss-x": {"surfaces": ["Riss"], "ingested": []},
+        "absent-x": {"surfaces": ["Quasikristallgitter"], "ingested": []},
+        "simulation": {"surfaces": ["simulation"], "ingested": []},
+    }}
+    rows = {r["page"]: r for r in sweep(slug, index, ["Die Kontrolle", "kael"])}
+    cases = [
+        ("a surface no candidate lists is found at its first line", rows.get("aegis", {}).get("line"), 11),
+        ("a candidate that folds to a surface lists the page", "kael" in rows, False),
+        ("the first line standing alone, not the first substring (Guardians at L47)",
+         rows.get("guardian-x", {}).get("line"), 48),
+        ("a plural is not the word standing alone (Risse at L93)", rows.get("riss-x", {}).get("line"), 94),
+        ("a surface the text never writes is not a hit", "absent-x" in rows, False),
+        ("a page's own slug is not swept, though it stands alone at L612", "simulation" in rows, False),
+    ]
+    read = sweep(slug, {"terms": {"aegis": {"surfaces": ["AEGIS"], "ingested": [slug]}}}, [])
+    cases.append(("a page that already reads the document says so", read[0]["already_read"] if read else None, True))
+    bad = 0
+    for name, got, want in cases:
+        ok = got == want
+        bad += not ok
+        print(f"  {'ok ' if ok else 'BAD'} {name}" + ("" if ok else f": got {got!r}, want {want!r}"))
+    print(f"reconcile sweep: {len(cases) - bad} of {len(cases)} cases hold")
+    return 1 if bad else 0
 
 
 def main(argv: list[str]) -> int:
     if not argv:
         sys.exit(__doc__)
+    if argv[0] == "--selftest":
+        return selftest()
     if not INDEX.exists():
         sys.exit("no Wiki/index.json -- run scripts/wiki_index.py first")
+    if argv[0] == "--sweep-open":
+        rows = sweep_open()
+        for row in rows:
+            print(f"  {row['document'][:48]:48} {row['page']:28} {row['surface']!r} L{row['line']}")
+        print(f"{len(rows)} sweep hits with no reading and no row in Plan/runs/sweep.jsonl")
+        return 1 if rows else 0
     slug = argv[0]
     result = classify(slug, json.loads(INDEX.read_text(encoding="utf-8")))
     (RUNS / slug / "reconcile-pre.json").write_text(
