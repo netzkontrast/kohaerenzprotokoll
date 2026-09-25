@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -177,3 +177,10 @@ Where Selene waits: „Selene wartet im Möglichkeits-Garten (KW4), bis das Syst
 „Poetisch, zeitlos. Junas Atmosphäre kommt hier durch." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225] Selene dominates it, and the Wir-Stimme
 is first whole there (L225). The whole Kern-Welt; no place inside it is named (C5). Its style level,
 Akt III, is „Kernwelt 4 + Juna" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L189], Kap 27–39.
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+The whole fourth world: „\*\*KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 27–34, Vorbereitung Vortex)" ^[kohaerenz-protokoll-konzept-master-md.md:L661], „Generativ | Hegel-inspiriert, synthetisch | Hände | Dynamisch, explorativ, kreativ; experimentelle Regeln" ^[kohaerenz-protokoll-konzept-master-md.md:L661].
+„Im Roman: KW4 (Möglichkeits-Garten) und der Vortex selbst operieren auf aletheia-Ebene." ^[kohaerenz-protokoll-konzept-master-md.md:L722]
+„KW4: der Leser muss generativ mitarbeiten — Bedeutung wird nicht gefunden, sondern erzeugt." ^[kohaerenz-protokoll-konzept-master-md.md:L672]
+No place inside it is named (C5).
