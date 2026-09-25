@@ -163,3 +163,35 @@ scored on before anything else.
   surface candidates for it and must never settle them.
 - **Whether a term deserves to exist as a concept at all**, or is just a phrase
   the author used twice.
+
+## Adding a reading is a moment to compare — documents 16 and 17, 2026-09-25
+
+`externe-ebene` held five readings from five documents, each attributed, two
+saying Köln 2026 lies „jenseits der Simulation" and three „Kein „außerhalb der
+Simulation"". No conflict record held it. It surfaced only because a reading of
+document 16 was being added and its words were read against the page's earlier
+ones — now C13. A reading of document 17 did the same twice: C14, whose
+third-person side stood on `aegis`, and C15, six rows on four pages.
+
+**Reconciliation walks from a census to pages; nothing walks a page against
+itself.** A disagreement between readings that arrived months apart on one page
+is invisible to every check here, and the step that adds a reading is the only
+one that reads the others. And it reads them only as far as its reader looks:
+the other readings of the same two documents placed the same rows and recorded
+none of the three. What would make it visible without mechanising the judgement
+(P1, `CLAUDE.md` *Conflict detection is never mechanised*): list, per page, the
+readings no conflict record cites, so a person reads them against each other.
+Not built.
+
+## Two sessions reading the same documents — 2026-09-25
+
+This session and another read documents 16 and 17 in the same order, the same
+day. Main took the other's readings (pull requests #85 and #87) and this
+session's C13 (pull request #86). **The rule applied twice: main's merged
+reading is the wiki's.** Every page, record, run artifact and judgement of the
+document came from main; this session's list stayed as a blind re-reading; what
+main lacked — C14, C15 and the character bible's entry in C11 — went on top.
+Both handovers had named the same next document, so the collision was
+predictable from `NOW.md`. Choosing the next document is where two sessions
+would have to divide the work, and nothing here does that yet.
+

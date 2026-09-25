@@ -717,3 +717,31 @@ lines, against 542 in 1503 for document 16 read without it.
   `Syntax` ×11, `Vokabular` ×11, `Energie` ×8: the fields of one template, filled
   once per Alter. The list keeps the ten profile fields once each, as the
   document's own terms, and of the sub-labels only `Energie`.
+
+## Documents 16 and 17, each read twice — 2026-09-25
+
+Two sessions read documents 16 and 17 on the same day, neither knowing of the
+other. Main took one session's readings; the other's candidate lists, written
+while reading and before any count, are kept as `03-candidates-blind-1.md` in each
+run directory. `python3 scripts/agree.py`:
+
+| document | lists | F1 | the longer list holds of the committed | the committed holds of the longer |
+|---|---|--:|--:|--:|
+| 16, the drafting manual | 1072 against 539 | 0.63 | 94 % | 47 % |
+| 17, the Anteile-Profile | 847 against 334 | 0.52 | 92 % | 36 % |
+
+The shape of the blind re-readings of 2026-09-24, at full scale and without a
+workflow: two readers see nearly the same things and differ in how much they
+write down — the longer lists were exhaustive in the pre-decision-012 sense.
+**What the second readings added was not in the lists but in reconciliation**:
+three conflicts the first readings had not recorded (C13 from document 16, C14 and
+C15 from document 17), and a record gap — C11 held no entry for the character
+bible, whose Landauer heat document 17 repeats. So a second reading is worth more
+in its reconciliation than in its census.
+
+Four procedural questions came out of the second readings, now in
+`Plan/briefings/extract.md` (version 7): suspended compounds and emphasis inside
+a phrase (document 17's count had six zeros from the one and three from the
+other), a conflict a document reports among its own sources, and one word
+numbering several series.
+

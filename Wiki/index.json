@@ -2,7 +2,7 @@
   "built": "2026-09-25",
   "by": "scripts/wiki_index.py",
   "pages": 93,
-  "conflicts": 13,
+  "conflicts": 15,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -1896,6 +1896,23 @@
       "subject": "the Externe Ebene — beyond the simulation, or not outside it",
       "pages": [
         "externe-ebene"
+      ],
+      "status": "open"
+    },
+    "C14": {
+      "subject": "AEGIS' voice — one chapter in the first person, or never an inside",
+      "pages": [
+        "aegis"
+      ],
+      "status": "open"
+    },
+    "C15": {
+      "subject": "the Flight riss — Lia with Isabelle, or with Kiko",
+      "pages": [
+        "risse",
+        "kiko",
+        "lia",
+        "isabelle"
       ],
       "status": "open"
     },

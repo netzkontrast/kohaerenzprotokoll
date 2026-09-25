@@ -120,7 +120,7 @@ four `worldbuilding`, one `aegis`, two `storyform`, two `charaktere`, two
 from the canon era.
 
 `Wiki/candidates/` holds **93 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
-holds **13 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
+holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
 **5 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
@@ -252,7 +252,12 @@ inside the system, under the same 2026-05-30 lock that gives it to Juna. It also
 makes Landauer heat the mark of the Silas–Oblivion conflict, and keeps heat as
 Juna's trace in its foreshadowing list. All three go into C11. It is the first
 document read under decision 012's list rule, and the sweep found one reading
-the list had missed. **No pages, readings on 38.**
+the list had missed. **No pages, readings on 38.** A second, independent reading of it the same
+day (pull request #88) found two conflicts this reading's pages held and no record
+did: whether AEGIS gets a first-person chapter — a lock of 2026-05-30 says one, in
+Kap 5–8, and this document gives AEGIS the third person and never prose (C14) — and
+who carries Flight, Kiko and Lia or Lia and Isabelle (C15). It also gave C11 the
+character bible's entry, which the record had never held.
 
 `Plan/runs/judgements.jsonl` holds **86 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
@@ -475,8 +480,8 @@ in a commit that names its source.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **128 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1536 <!--state:graph.edges--> edges** (`links`,
+citations and builds **130 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **1541 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
@@ -502,14 +507,15 @@ python3 scripts/graphrag.py ask "Wie hängen die Guardians mit AEGIS zusammen?"
 python3 scripts/graphrag.py bench              # recall against the wiki's own labels
 ```
 
-`bench` scores retrieval on the 18 <!--state:graphrag.cases--> cases the wiki
+`bench` scores retrieval on the 20 <!--state:graphrag.cases--> cases the wiki
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
-**45 <!--state:graphrag.recall_seeds-->% from the seeds alone and
-65 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
-step, on seventeen cases whose labels were written by the same hand as the
-pages. Documents 7–9 added seven of them (C6–C12) and the author's C6
-decision an eighth (Q5); on the original nine the numbers were 40 and 58.
+**48 <!--state:graphrag.recall_seeds-->% from the seeds alone and
+67 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+step, on twenty cases whose labels were written by the same hand as the
+pages. Documents 7–9 added seven of them (C6–C12), the author's C6
+decision an eighth (Q5), document 16 a ninth (C13) and document 17 two
+more (C14, C15); on the original nine the numbers were 40 and 58.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`

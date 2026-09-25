@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 10
+sources: 11
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -145,7 +145,7 @@ again by one document of itself.
 1. The foreshadowing layer: „Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] — the cold-ozone
    lock's own division.
 2. Silas: „Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike. Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
-   The same lock and the same Kap-3 debut, with the warmth given to [[juna|Juna]]'s echo inside the system rather than to Juna.
+   The same lock and the same Kap-3 debut, with the warmth given to [[juna|Juna]]'s echo inside the system rather than to [[juna|Juna]].
 3. The Silas–Oblivion conflict: „jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
    „Diese Hitze ist der somatische Fingerabdruck ihres Kampfes" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] — *Landauer heat*, the word the lock files under
    cold ozone, read as the sign of „Wahrheitsvertuschung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837], the theme the drafting manual gives its
@@ -153,3 +153,13 @@ again by one document of itself.
 
 And Nyx's chest heat is excluded by name: „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395]. Like the drafting manual, it holds the lock and a
 Landauer heat side by side; this one adds an origin for the heat inside the system.
+
+## 2026-09-25 — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 — found by a second reading of `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`
+
+**The warm side has a source of 2026-05-08 this record did not hold.** The
+character bible's Landauer strand is heat: „Landauer-Strang: Hitze als Symptom der Wahrheitsvertuschung. Erste Spur Kap 1 (Knöchel bluten ohne Grund)." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1112]
+And its Silas–Oblivion conflict makes the heat Landauer's: „Jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L753]
+— the sentence the Anteile-Profile repeats, in the entry above. The first line is
+C10's row 1 and the second a reading on [[silas]] since document 8; this record
+held neither. Three weeks before the 2026-05-30 lock, like the konsolidiertes
+Konzept of the same day.
