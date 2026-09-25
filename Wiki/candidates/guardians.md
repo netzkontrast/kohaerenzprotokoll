@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -295,3 +295,15 @@ Erasure-Pol — while the world table gives „(LogOS, in Mnemosyne absorbiert)"
 Sub-Antagonisten (Mnemosyne, Erasure-Pol)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005]. The word also names a stage
 of [[selene|Selene]]'s arc, „Guardian → Mediator" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L136]. C6 (decided: five), Q1,
 Q5.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Two, as a reset lock with no source named**: „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183].
+Where they are: „Hier residieren die zwei Guardians als abstrakte Entitäten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282]
+— in the [[ueberwelt|Überwelt]], whose Wächter-Registry is „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298] (Q4).
+Not tied to worlds: „KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
+
+[[mnemosyne|Mnemosyne]] is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L704]; the
+Erasure-Pol has no name, no voice and no passage beyond a logic that dominates
+KW3 (L171). Another 2026 source for two; the author's C6 decision, five, stands
+(C6, Q1, Q5).
