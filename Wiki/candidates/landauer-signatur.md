@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -102,3 +102,11 @@ heat:** „Hitze als Symptom der Wahrheitsvertuschung" ^[kohaerenz-protokoll-wel
 „Kap 6 (Cache-Konflikt), Kap 19 (AEGIS-Eskalation)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445] and harvested at Vortex 1 Beat 4.
 The document does not remark on the difference. The strand and the signature are two
 terms (J81); the strand's theme is recorded in C11.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+Three placements of heat in one document. In the foreshadowing layer, ozone is the signature:
+„Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042]. In the Silas–Oblivion conflict, heat is:
+„jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
+„Diese Hitze ist der somatische Fingerabdruck ihres Kampfes" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]. And Silas' warmth is
+„die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]. The document does not relate them (C11).
