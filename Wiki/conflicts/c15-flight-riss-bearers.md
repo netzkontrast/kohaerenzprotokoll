@@ -4,7 +4,7 @@ subject: the Flight riss — Lia with Isabelle, or with Kiko
 kind: one row of the riss table, two pairs of bearers in canon-era sources, two of them of one date and five of another
 status: open
 first_seen: "2026-09-25"
-sources: 7
+sources: 8
 pages: ["risse", "kiko", "lia", "isabelle"]
 ---
 
@@ -18,9 +18,10 @@ pages: ["risse", "kiko", "lia", "isabelle"]
 | 2 | Lia and [[isabelle|Isabelle]] | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 560 |
 | 3 | Lia and [[isabelle|Isabelle]] | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 239 |
 | 4 | Lia and [[isabelle|Isabelle]], as KW2's spatial [[risse|Risse]] | `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10 | 236 |
-| 5 | Lia and Isabelle, citing document 7's table | `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10 | 422 |
+| 5 | Lia and [[isabelle|Isabelle]], citing document 7's table | `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10 | 422 |
 | 6 | [[kiko|Kiko]] and Lia in its trigger table; Lia and Isabelle in KW2 | `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10 | 406, 148 |
 | 7 | [[kiko|Kiko]], as her second function, and Lia | `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10 | 441, 878 |
+| 8 | Lia and [[isabelle|Isabelle]], as an inference (`implizit`); no alter in the roster is Flight | `kohaerenz-protokoll-konzept-master-md`, 2026-05-08 | 1049 |
 
 > „Kiko (zweite Funktion), Lia" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1006]
 
@@ -40,7 +41,7 @@ names row 1 as its authority (its L13) and follows it; row 5 cites row 3's table
 and follows that; row 6 holds both pairs, in two tables, and does not relate them.
 
 **It reaches past the one row.** Where Isabelle carries Flight she has two riss
-types, spatial and sensory (rows 2 and 3); where Kiko does, Kiko has two, temporal
+types, spatial and sensory (rows 2 and 3); where [[kiko|Kiko]] does, Kiko has two, temporal
 and spatial (rows 1 and 7). And in the two sources that profile Lia, her own riss
 is neither: „Relational-Drift — Beziehungen verschieben sich, ohne dass jemand sich bewegt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L492]
 — in the character bible's words (its L622).
@@ -56,3 +57,10 @@ Decision 006 (2026-09-24) applies to this record as to C1–C14: no position abo
 is retired by its date or by a source's claim to be canon. It is an **item for
 discussion** with the author, and closes when the author decides it.
 [Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Row 8: Lia and Isabelle, marked as inferred — and no alter in its roster carries Flight.**
+„Die fünf Riss-Typen (Fight/Freeze/Flight/Collapse/Sex = kinetisch/temporal/spatial/gravitational/sensorisch) bleiben als interne Reaktionsmuster aktiv" ^[kohaerenz-protokoll-konzept-master-md.md:L422]
+The roster's EP labels are Fight, Freeze, Ambivalent, Sexualisiert and Collapse (L393–L397). The riss table then assigns Flight by inference: „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049], and gives [[isabelle|Isabelle]] Sex as well: „Sex (Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1051]. [[kiko|Kiko]] is Freeze only (L394, L1048).
+The konsolidiertes Konzept's pair, on its date, with the word `implizit` the other sources do not write (J89).
