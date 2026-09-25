@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -148,3 +148,14 @@ removes is the pairing — the domains are „entkoppelt von 1:1-Guardian-Zuweis
 ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] — not the presence. Q5 already holds this qualifier; this record now
 does too. Found by the record audit of 2026-09-24
 (`Plan/runs/record-audit-2026-09-24/`, 9-A22).
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Two, and the five named as retired.** „Hier residieren die zwei Guardians als abstrakte Entitäten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282],
+and among the reset locks: „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183].
+The pairing goes with them: the old drafts' „KW1=LogOS, KW4=Kairos/Sophia" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] —
+„Beides ist dekanonisiert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] — and „KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42].
+
+A source of 2026-06-10 for the two-Guardian side. The author decided the count for
+five on 2026-09-24 (decision 006 puts every draft back in question); this entry records
+what the document says and changes neither the decision nor the status.
