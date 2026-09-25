@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 11
+sources: 12
 pages: ["aegis"]
 ---
 
@@ -94,3 +94,11 @@ No first-person chapter and no inner view is named. The side of the character bi
 Its diagnosis of a Kap-0 draft asks for the first voice back: „Beide Defekte verschwinden, wenn die Krise wieder in der ersten Stimme geschrieben wird — fluide skalierend zwischen Funken-Ich-Erleben und AEGIS-Beschreibung-in-Bildern, ohne theoretischen Beobachter dazwischen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L430]
 Kap 0 ends on „"Ich falle... in unzählige Scherben…"" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L364], the Funken-Ich's. And it forbids the draft to have AEGIS spoken about in theory: „AEGIS würde *operational sein*, nicht *operational geschlossen klassifiziert werden*." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L422]
 The Funken-Ich is the origin AEGIS comes from, before the [[trennungsprotokoll|Trennungsprotokoll]]; whether its first person is AEGIS' is not said. The [[vermittler-stimme|Vermittler-Stimme]] is argued to be Wir-AEGIS-plural (L227). It speaks to the question of an inside for AEGIS without naming AEGIS' voice in chapters 1–39.
+
+## 2026-09-25 — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text
+
+**A first person inside AEGIS in Kap 0 — the Funken-Ich's, which becomes 734; AEGIS itself in the third.**
+The Genesis is told in the first person by the fragment that becomes AEGIS' component: „Ich *bin* dieses Rauschen, oder es droht mich zu verschlingen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L199]
+„Ich gehe auf in dieser neuen, systemweiten Erkenntnis." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L295] In the crisis the Resonanzkaskade is again „ich" (L393–L429), while „AEGIS hat lange gewacht." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L369] is told from outside.
+Kap 40's Wir claims both: „Wir waren AEGIS in seiner Werdung und in seinem Fall" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L35].
+Not a chapter for AEGIS in Kap 5–8; an inside, in Kap 0, for what AEGIS was made of.
