@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -90,3 +90,22 @@ Schluss-Markierung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md
 Conflict C11, the warm side: ten days after the konsolidiertes Konzept, in its
 words for Kap 36, and naming it as the source that wins a conflict (L1393). The
 Heat-Spike of Beat 4 is the warmth the later lock keeps.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Cold ozone as the signature, heat as the strand — in one document.** The
+signature is cold: „AEGIS-Unterdrückung / Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346],
+„Überall, von Kap 1 an." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346] „Default-Signatur der Erasure-Aktivität." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346]
+In KW1: „Polaritätsregel: Ozon = kalt/scharf, Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L63].
+Among the recurring senses: „Ozon-Geruch: Erasure-Aktivität / Landauer-Signatur. Akt I diffus, in Akt II spike-artig." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L382]
+
+The strand is heat. „1. Landauer" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445]: „Hitze als Symptom der Wahrheitsvertuschung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445],
+first traced „Kap 1 (Knöchel-Blutung *in Kap 0*, in Kap 1 spurlos; Ozon-Atmosphäre Kap 1 diffus)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445],
+accumulating in „Kap 6 (Cache-Konflikt), Kap 19 (AEGIS-Eskalation)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445],
+harvested at „Vortex 1 Beat 4 (Heat Spike → ∞)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445]. The theme is the
+character bible's strand in its words — „Landauer-Strang: Hitze als Symptom der Wahrheitsvertuschung." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1112]
+— with its first trace moved out of Kap 1 (C10).
+
+The transition out of KW1 is a thermal riss: „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418].
+Which signature Kap 6's Cache-Konflikt carries, the document does not say.
+Conflict C11: a fourth arrangement, of document 7's date.
