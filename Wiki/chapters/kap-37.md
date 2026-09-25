@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,18 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „überlebende Guardians, lokale 'Ordnungsinseln' zu schaffen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „vielleicht eine rudimentäre Form von AEGIS, die versucht, aus den Trümmern wiederaufzubauen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „Kael muss entscheiden, ob diese Neuorganisation eine Bedrohung oder eine Chance darstellt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Der Gärtner“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L650]
+Position: „Phase C (Kap 37) — Trügerischer Sieg“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L421]
+
+- Story: „Kael (Wir) etabliert sich als Gärtner. Kristallisierte Ruhe mit feinem Unterton; das Rauschen kündigt sich an.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L652]
+- Storyform: „A: MC-Concern, neue Rolle als Hüter — aber: der Hüter hütet, was schon zerfällt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L652] · „B: scheinbar nicht aktiv, aber feine Echos des Rauschens“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L652]
+- Bridge: „nur A scheinbar, mit feinen B-Echos als Rauschen-Vorzeichen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L284]
+- Sensorik: „kristallisiertes Gewebe, neue Architektur — mit feinen Sprüngen am Rand der Wahrnehmung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L652]
+- Genesis echo: „diesmal nicht von außen kommend, sondern von innen, weil das Universum ohne AEGIS ungeschützt ist“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L652]
+- Tonality: „trügerisch ruhig“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L701]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

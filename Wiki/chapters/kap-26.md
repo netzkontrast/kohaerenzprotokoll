@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,6 +24,16 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der präventive Gegenschlag“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L357]
 - Story: „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358]
 - Story: „Kael erkennt, dass AEGIS nicht nur reagiert hat; es hat seine Absicht vorhergesagt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Schritt ins Ungewisse“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L606]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Wendepunkt — Entscheidung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L606] · „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364]
+- Story: „Kael beschließt Konfrontation.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L608]
+- Storyform: „A: MC-Concern, Schritt ins Ungewisse als Entschluss“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L608] · „B: OS-Physics, Erasure-Vorbereitung eskaliert“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L608]
+- Sensorik: „aufkommende Bewegung, Vorwärts-Spannung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L608]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

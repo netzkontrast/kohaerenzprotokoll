@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht eine geringfügige Abweichung von seiner Routine oder äußert einen leicht unkonventionellen Gedanken/Wunsch.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29]
 - Story: „Es erfolgt keine direkte Bestrafung, aber subtile Umgebungshinweise“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29] · „führen Kael sanft zur 'Norm' zurück. Kael könnte diese Ereignisse als bloße Seltsamkeiten abtun.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29]
 - Discussion: „Dieser Subplot führt AEGIS' Kontrolle subtil ein, ohne das System direkt zu offenbaren.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L30]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Instrumente der Ordnung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L506]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 1: Illusion der perfekten Welt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L506] · „Kael lebt in der manipulierten Kernwelt 1, fragmentiert ohne Erinnerung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L337]
+- Story: „Kael (Host) erwacht in Kernwelt 1 ohne Erinnerung. Stadt-Konstrukt, sterile Ordnung. Erste Anomalie (Zeit-Glitch).“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508]
+- Storyform: „A: MC-Concern Memory als Erinnerungslosigkeit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508] · „B: OS-Physics als AEGIS-Architektur, Umgebungs-Log“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508]
+- Sensorik: „Sensorik: Ozon, weißes Licht, Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508]
+- Genesis echo: „die sterile Ordnung der Stadt ist die Innere Weite/Überwelt aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508] · „das sterile Setting der Kernwelt 1 ist die Innere Weite (Überwelt) aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L357]
+- Method: „Empfehlung: Kap 1 als Pilot“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L822]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

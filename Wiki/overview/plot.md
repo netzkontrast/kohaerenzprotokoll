@@ -1,7 +1,7 @@
 ---
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-25"
 ---
 
@@ -30,6 +30,21 @@ several of these documents call themselves canon, and none retires another
 - Kapitel 13: „Dies markiert einen Wendepunkt in der Kael-AEGIS-Dynamik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186]
 - Kapitel 35: „Unmittelbare Reaktion des Systems auf den Höhepunkt (Kollaps? Teilabschaltung? Reboot?).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L471]
 - Standing: „Die vorgeschlagenen Subplots sollen als Sprungbrett für die kreative Entwicklung dienen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L536]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- Count: „Der Roman hat 41 Bewegungen — Kap 0, Kap 1–39, Kap 40 — die in fünf strukturelle Blöcke gegliedert sind“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L257]
+- Parts: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315] · „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362] · „Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L395]
+- Frame: „Kap 0 (Genesis) zeigt die Trennung als Tragödie aus AEGIS' Sicht“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L92] · „Kap 40 (geheilte Genesis) zeigt dieselben Ereignisse“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L94]
+- Teil 3 phases: „Akt III äußere Konfrontation (27–34), Vortex 1 (35–36), trügerischer Sieg (37), Vortex 2 (38–39 = plurale Apotheose)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L267]
+- Acts: „Akt I (1–13)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L280] · „Akt II (14–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L281] · „Akt III Phase A (27–34)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L282]
+- Narrative modes: „linear-introspektiv, fragmentiert“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L265] · „rekursiv, polyrhythmisch“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L266] · „linear-aufsteigend mit Wendung zu schmerzhaft-liebevoller Auflösung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L267] · „rückblickend, ruhig, akzeptierend“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L268]
+- Heroine's journey: „Kael durchläuft 13 Stufen einer adaptierten Heldinnenreise nach Murdock/Schmidt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L317]
+- Cycles: „Drei Zyklen à drei Stufen (Destabilisierung → Reaktion → Korrektur)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364] · „Z1 (Kap 15–17)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L383] · „Z2 (Kap 18–20)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L384] · „Z3 (Kap 21–23)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L385]
+- Genesis cluster: „Genesis-Flashback-Cluster in der Mitte (typisch Kap 18–22)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L368]
+- Storyforms A and B: „Die zwei Storyforms (A‖B) laufen orthogonal über alle 41 Bewegungen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L272] · „A dominant, B latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L280] · „A‖B in echter Polyphonie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L281] · „Vortex-Vorläufer eskalieren“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L282]
+- Vortex placements: „beides simultan, dann B beginnt zu erlöschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L283] · „Synthese (c) entsteht, A und B als integrierte Vorstufen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L285]
+- Chapter count: „Der Leser liest die 39 Kapitel mit doppeltem Bewusstsein“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L311] · „Das Spec-Dokument vom 2026-05-08 (drei Modi, 39 Kapitel) muss um Kap 0 und Kap 40 erweitert werden“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L818]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

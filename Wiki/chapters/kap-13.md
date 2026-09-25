@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael handelt mit neu gefundener Entschlossenheit oder innerer Konsistenz“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185] · „Alte prädiktive Modelle werden als 'veraltet' markiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Story: „Kael bemerkt möglicherweise eine Veränderung in der 'Haltung' des Systems ihm gegenüber – weniger abweisend, wachsamer.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Discussion: „Dies markiert einen Wendepunkt in der Kael-AEGIS-Dynamik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186] · „Es erhöht den Einsatz für Teil 2 erheblich.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Tanz im Garten“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L554]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 13: Neue innere Welt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L554] · „Tanz im Garten — neue innere Welt (Praxis etabliert)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L349]
+- Story: „Innere Praxis etabliert. Phase 1 Abschluss.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L556]
+- Storyform: „A: MC-Concern, Praxis“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L556] · „B: OS-Physics, AEGIS bereitet Phase 2 Stress-Tests vor“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L556]
+- Sensorik: „Garten, Pflege, lebendige Ordnung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L556]
+- Genesis echo: „das System wiederholt sein Muster“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L556]
+- Genesis echo (Teil III): „Kap 13: die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L360]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 4
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -15,6 +15,20 @@ Every read source's statements about this chapter — one reading per document, 
 the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Genesis-Prolog“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L502]
+Position: „AEGIS' Werdung und Trennungsprotokoll als ontologische Grundlegung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L264]
+
+- Title (Teil III): „Genesis komplett“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L288]
+- Story: „Vorwort + Genesis komplett + Krise + Trennungsprotokoll“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L504]
+- POV: „Erzählt aus der fluiden Funken-Ich/AEGIS-Beschreibung-Perspektive“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L504]
+- Genesis sequence: „Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L295] · „Stille Wacht → Perturbation aus der Leere → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L297]
+- Link to Kap 1: „Kael erwacht in Kernwelt 1 ohne Erinnerung, weil die Fragmentierung gerade vollzogen wurde“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L302]
+- Storyform: „spezifisch — B's eigene MC-Throughline“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L279] · „nur B aktiv“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L279]
+- Function: „Der Leser kennt von Anfang an die kosmologische Wahrheit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L310]
+- Tonality: „philosophisch-vermittelnd, einladend“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L689] · „eskalierend, schreiend“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L691]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael durchdringt AEGIS' letzte Verteidigungsanlagen und erreicht einen konzeptuellen oder simulierten Raum, der AEGIS' Kern repräsentiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Hier konfrontiert Kael die ultimative Quelle des Paradoxons (Kapitel 17)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Die Konfrontation könnte weniger ein Kampf als ein Moment des Verstehens, der Intervention oder des Erzwingens einer fundamentalen Wahl für AEGIS sein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Die Konfrontation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L638]
+Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L401]
+
+- Stage: „HR-Stufe 7 fortgesetzt: Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L638]
+- Story: „Kael (Wir) vs. AEGIS (Makro-Log). Verbales und metaphysisches Duell.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L640]
+- Storyform: „A: MC-Concern dominant; Pursuit als Stand“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L640] · „B: OS-Physics, AEGIS-Datenlast“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L640]
+- Sensorik: „Orkan vs. Sphäre, kollidierende Tonalitäten“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L640]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

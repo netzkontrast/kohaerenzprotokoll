@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,17 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „trifft eine Wahl in einem simulierten Café“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81] · „Lichter passen sich zu perfekt an Kaels Blick an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Story: „Kael könnte ein vages Gefühl haben, antizipiert oder verwaltet zu werden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Discussion: „Die Umgebung selbst wird Teil des Kontroll- und Überwachungsapparates“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L82]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Der Glanz der Oberfläche“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L522]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 5: Auge des Sturms“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L522] · „falscher Erfolg (trügerische Stabilität)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L341]
+- Story: „Kael/Lex erzielen analytischen Erfolg in McLaughlin-Welt. Trügerische Stabilität.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524]
+- Storyform: „A: MC-Concern Memory, scheinbarer Fortschritt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524]
+- Sensorik: „spiegelglatter Erfolg, sensorisch flach“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524]
+- Genesis echo: „als Bestätigung der Isolationsstrategie — derselbe Algorithmus wie damals beim großen Wandel“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

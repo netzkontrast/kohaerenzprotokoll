@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,17 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „bemerkt Kael subtile Anzeichen von Systeminstabilität um sich herum“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68] · „Vielleicht geringfügige visuelle Störungen, Audiostörungen oder temporäre Fehlfunktionen nahegelegener automatisierter Systeme.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Story: „Diagnose- oder niedrigstufige Eindämmungsprotokolle“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Discussion: „sein innerer Zustand destabilisiert nun aktiv das System“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L69]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Die unentscheidbare Zone“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L518]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 4: Pforten der Verurteilung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L518]
+- Story: „Kael/Lex entdecken Aufzeichnungen des System-Architekten (Dr. Jian Li) mit Hinweisen auf Widersprüche im Kohärenz-Protokoll“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L520]
+- Storyform: „A: MC-Issue, Scham/Zweifel/logische Grenzen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L520] · „B: IC-Mind/Conscious latent — erste Bug-Spur in Kael“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L520]
+- Sensorik: „korrumpierte Textdateien, veraltete Interfaces“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L520]
+- Genesis echo: „Kael findet seine eigenen ursprünglichen Entstehungsdokumente“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L520]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

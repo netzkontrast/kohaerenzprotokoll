@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael schafft absichtlich eine Situation, die AEGIS (oder einen bestimmten Guardian) zwingt, sich dem in Kapitel 17 identifizierten Kernparadoxon zu stellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 - Story: „Verwirrung, Lähmung oder erratischen Verhaltens“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 - Story: „Kael nutzt dieses Fenster der Störung, um ein spezifisches Ziel zu erreichen (Flucht, Informationszugriff usw.).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „AEGIS' Dilemma“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Z3-Reaktion, Genesis-Cluster Ende“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590] · „AEGIS' unvorhersehbare Systemänderung als Rückschlag“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L385]
+- Story: „AEGIS reagiert mit unvorhersehbaren Systemänderungen. Letzter Genesis-Flashback: Komp 734-Bewusstwerdung.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592]
+- Storyform: „A: MC-Issue, Berechenbarkeitsgrenzen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592] · „B: OS-Physics, AEGIS' Dilemma sichtbar (Erasure-Kosten)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592]
+- Sensorik: „unvorhersehbare Systemverwerfungen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592]
+- Genesis echo: „Kael erkennt einen Moment lang: ich war Komp 734; verliert das Wissen aber sofort wieder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592]
+- Open question: „mit präzisen Beats in 18 (Cluster), 21 (Trennungsprotokoll), 22 (Komp 734). Aber das sind Vorschläge.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

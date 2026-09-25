@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,16 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael führt absichtlich Aktionen durch, von denen er weiß, dass AEGIS sie überwacht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Story: „Er beginnt, eine mentale (oder tatsächliche) Karte des Überwachungsnetzes zu erstellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Discussion: „Dieser Subplot macht Kael zu einem aktiven Ermittler des Systems.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L216]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Schattenwurf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L562]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Z1-Destabilisierung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L562] · „Trigger reaktiviert Trauma-Angst“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L383]
+- Story: „Trigger in Kernwelt reaktiviert Trauma-Angst und unintegrierten Anteil.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L564]
+- Storyform: „A: MC-Problem Avoidance reaktiviert“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L564] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L564]
+- Sensorik: „Schattenwurf, Babymonster-Welt-Resonanz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L564]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

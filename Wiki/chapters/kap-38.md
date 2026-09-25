@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,6 +24,20 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Subplot idea: „Das kreative Chaos“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L517]
 - Story: „In der instabilen Umgebung nach AEGIS' Fall (oder Schwächung)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] · „neue, seltsame 'Lebensformen' oder Strukturen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
 - Story: „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Die Resonanz, die ankommt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L654]
+Position: „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L425]
+
+- Stage: „Vortex 2 Kap 1, HR-Stufe 10: Road Back“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L654]
+- Story: „Das Rauschen kommt von allen Seiten. Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656] · „Entscheidung zum Ouroboros“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656]
+- Juna: „Stille-Beat, Junas erste direkte Erscheinung — sie ist einfach da, ohne Worte, ohne Anweisung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L435]
+- Beat 4 (Teil III): „Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L436]
+- Storyform: „A: RS-Physics maximal, Junas direkte Anwesenheit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656] · „B: das Universum, das B halten sollte, kollabiert sichtbar“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656]
+- Sensorik: „Stille mit anwachsendem Druck, dann Junas Stimme als Raum statt als Klang“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656]
+- Genesis echo: „diesmal nicht abgewehrt, sondern empfangen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656]
+- Encoding discipline: „In Kap 38 dann: einfach da. Ohne Vorwarnung.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L752]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

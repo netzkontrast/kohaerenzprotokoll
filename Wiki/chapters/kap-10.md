@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht den Ort des vorherigen 'Risses' (aus Kapitel 7) erneut.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „Die Realität scheint zusammengeflickt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Story: „seltsame Restartefakte oder 'Narbengewebe' im Gewebe der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „spezialisierte 'Wartungsdrohnen' oder Guardian-Subroutinen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Discussion: „AEGIS' Reparaturen möglicherweise nicht perfekt sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L147]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Die erste Brücke“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L542]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Erweiterung 1“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L542]
+- Story: „Kael löst Problem in McL-Welt durch Kombination von Analyse und K-J-Verbindung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L544]
+- Storyform: „A: RS-Physics, Moonshine als Werkzeug; Quanten-Nichtlokalität“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L544] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L544]
+- Sensorik: „Netzwerke, Graphen, Resonanz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L544]
+- Genesis echo: „der Cluster-Bildung kannte — jetzt zwischen-personell statt intra-system“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L544]
+- Reader: „Die Multiplizität wird im Roman nicht ausgesprochen bis \~Kap 10“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L329]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

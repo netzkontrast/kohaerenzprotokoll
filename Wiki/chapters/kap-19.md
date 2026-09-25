@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,6 +24,17 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Patch-Bereitstellung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L266]
 - Story: „Kael versucht, ein in Kapitel 18 entdecktes Schlupfloch oder Exploit erneut zu verwenden, nur um festzustellen, dass es nicht mehr funktioniert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
 - Story: „Kael könnte sogar Zeuge werden, wie AEGIS eine Schwachstelle in Echtzeit 'patcht'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „KI-Ethik“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L578]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Z2-Reaktion + AEGIS-Intervention“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L578] · „AEGIS-Intervention (gezielte Störung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L384]
+- Story: „AEGIS wird direkter, neue Regeln.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L580]
+- Storyform: „A: MC-Issue, Systemlüge wird klarer benannt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L580] · „B: OS-Physics, AEGIS' Erasure-Logik tritt offen auf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L580]
+- Sensorik: „kalte Stimme, KI-Ethik-Kalkül“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L580]
+- Genesis echo: „AEGIS' offene Logik ist die Algorithmische Schrecken-Phase aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L580]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

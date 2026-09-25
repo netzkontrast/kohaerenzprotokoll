@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,17 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael wird in KW1 mit einem Problem oder einer Aufgabe konfrontiert, die eine Lösung erfordert, die auf Empathie, Intuition oder Kontextverständnis basiert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „was zu absurden, falschen oder endlos schleifenden Ergebnissen führt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „Kael findet möglicherweise eine Lösung, indem er einen 'nicht-logischen' (aus KW1s Perspektive) Ansatz anwendet“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Mosaik des Selbst“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L546]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Erweiterung 2: Akzeptanz der Komplexität“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L546]
+- Story: „Kael akzeptiert Vielfalt als Stärke.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L548]
+- Storyform: „A: MC-Concern, Vielfalt als Schöpfung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L548] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L548]
+- Sensorik: „Mosaik, Scherben als Muster“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L548]
+- Genesis echo: „das Mosaik ist Vorgriff auf die plurale Bewahrung in Kap 39“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L548]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

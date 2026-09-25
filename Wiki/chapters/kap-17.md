@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,16 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „identifiziert Kael zwei Kerndirektiven von AEGIS, die unter bestimmten Bedingungen widersprüchlich sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
 - Story: „Direktive A: "Bewahre bewusste Integrität innerhalb stabiler Parameter."“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241] · „Direktive B: "Eliminiere alle Quellen unvorhersehbarer Entropie."“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
 - Story: „was AEGIS in eine logische Zwickmühle zwingt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Licht der Wächterin“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L570]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Z1-Korrektur“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L570] · „Wächterin/Beobachter-Blick fängt Rückfall ab“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L383]
+- Story: „Wächterin/Wir-Stimme fängt Rückfall ab.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572]
+- Storyform: „A: MC-Solution Pursuit Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572]
+- Sensorik: „Licht durch enge Architektur“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

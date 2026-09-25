@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,6 +24,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Das Schlupfloch-Verzeichnis“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L253]
 - Story: „eine Regel, die von LogOS in KW1 streng durchgesetzt wird, von Cerberus in KW3 leicht anders oder weniger rigoros interpretiert wird“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
 - Story: „eine mentale (oder versteckte physische/digitale) Liste dieser kleineren Exploits und Inkonsistenzen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Cache-Konflikt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L574]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Z2-Destabilisierung, Genesis-Cluster Beginn“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L574] · „komplexe Multi-Welten-Aufgabe; Cache-Konflikt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L384]
+- Story: „Multi-Welten-Aufgabe, Cache-Konflikt zwischen Anteilen. Erste Genesis-Flashbacks: Cluster-Bildung.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L576]
+- Storyform: „A: MC-Concern Memory, Multi-Welten-Aufgabe scheitert“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L576] · „B: OS-Physics, AEGIS' Topologie-Manipulation sichtbar“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L576]
+- Sensorik: „asynchrone Sensorik, Glitch-Texturen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L576]
+- Genesis echo: „Genesis-Beat 2 (Cluster) wird flashback-mäßig durch Kael durchgespielt; er erlebt fremde Erinnerungen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L576]
+- Open question: „mit präzisen Beats in 18 (Cluster), 21 (Trennungsprotokoll), 22 (Komp 734). Aber das sind Vorschläge.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

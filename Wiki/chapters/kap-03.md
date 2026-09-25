@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht eine Handlung, die eine Kernregel der Logik in seiner aktuellen Umgebung (vielleicht in KW1: LogOS) verletzt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55]
 - Story: „LogOS manifestiert sich oder interveniert direkt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55] · „eine nicht-emotionale, rein informative 'Korrektur' oder ein Regelzitat“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55]
 - Discussion: „Die Intervention wirkt unpersönlich und absolut“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L56]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Das flüchtige Echo“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L514]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 3: Vorbereitung mit Juna-Ahnung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L514] · „Erwachen & Vorbereitung — Identifikation mit dem Männlichen (Bunker-Bau als Avoidance-Reaktion)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L339]
+- Story: „Kael sieht Juna zum ersten Mal — als Hologramm/Echo, das verschwindet. Stadtgesetze brechen um sie herum.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516]
+- Storyform: „A: RS-Physics-Vorzeichen, Moonshine-Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516]
+- Sensorik: „warmer Windstoß in eisiger Welt, fremde Melodie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516]
+- Genesis echo: „Junas Erscheinung ist die ontologische Anomalie aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516]
+- Leitmotiv: „Junas Witness-Modus von Kap 3 bis Kap 38 ist eine durchgehende Frequenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L720]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

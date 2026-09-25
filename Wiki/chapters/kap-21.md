@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael erhält Zugang (vielleicht durch eine Guardian-Interaktion, einen tiefen Riss oder das Finden eines Kernsystemprotokolls)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 - Story: „'emotionale Volatilität', 'Netzwerkkonnektivitätsdichte'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 - Story: „Kael erkennt, dass AEGIS aktiv versucht, menschenähnliche Züge zu minimieren, die es nicht kontrollieren oder verstehen kann.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Membran“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L586]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Z3-Destabilisierung, Genesis-Cluster Mitte“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L586] · „Konfrontation mit Simulationsgrenzen; Ontologie-Riss“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L385]
+- Story: „Kael testet bewusst Simulationsgrenzen, spürt Potentialmeer. Genesis-Flashback: Trennungsprotokoll-Beat.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588]
+- Storyform: „A: MC-Concern, Ontologie-Tiefe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588] · „B: RS-Physics, Moonshine-Spüren des Potentialmeers“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588]
+- Sensorik: „Membran-Wahrnehmung, Vibrieren“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588]
+- Genesis echo: „Kael spürt die Leere unter der Simulation; das ist das Nichts-Rauschen aus Kap 0, jetzt direkt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588]
+- Open question: „mit präzisen Beats in 18 (Cluster), 21 (Trennungsprotokoll), 22 (Komp 734). Aber das sind Vorschläge.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

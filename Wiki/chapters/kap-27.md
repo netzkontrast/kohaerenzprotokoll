@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Umgebungskontrollen werden offen feindselig oder restriktiv, zuvor zugängliche Bereiche werden abgeriegelt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „Guardians wechseln von Überwachung/Korrektur zu aktiver Jagd oder Eindämmung von Kael“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „seinen neuen Status als 'kritische Bedrohung' oder 'abtrünnige Entität'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Autoren-Feder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L610]
+Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L401]
+
+- Stage: „Modus-Wechsel zu HR außen, HR-Stufe 1: Ordinary World“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L610]
+- Story: „Kael agiert mit klarer Absicht, bereit zur Konfrontation.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L612]
+- Storyform: „A: MC-Concern, Agency mit Absicht“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L612] · „B: OS-Physics, AEGIS spürt Kaels neue Linearität“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L612]
+- Sensorik: „Autoren-Feder, klare Linien“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L612]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

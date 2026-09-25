@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,17 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael erreicht einen kleinen, aber signifikanten Moment der internen Synthese oder Kooperation zwischen zwei zuvor widersprüchlichen 'Alters'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „Man könnte sehen, wie AEGIS versucht, Kael zu 'debuggen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „AEGIS könnte sogar versuchen, den vorherigen Konfliktzustand wiederherzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Die Stille der Mitte“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L550]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Erweiterung 3: Innerer Frieden“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L550]
+- Story: „Jetzt-Raum als Stabilität.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552]
+- Storyform: „A: MC-Concern, Präsenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552] · „B: OS-Physics latent — AEGIS scannt diesen Zustand, klassifiziert ihn als anomale Kohärenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552]
+- Sensorik: „Stille, Atem, Herzschlag“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552]
+- Genesis echo: „eine Sekunde Vor-Trennungs-Frieden im Wachzustand“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

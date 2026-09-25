@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,6 +24,16 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Reaktionsschwelle sondieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L227]
 - Story: „Kael testet systematisch AEGIS' Reaktionen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228] · „geringfügige Regelverstöße, Ausdruck spezifischer Emotionen, Versuch verbotener Verbindungen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
 - Story: „Er könnte entdecken, dass einige Aktionen unverhältnismäßig große Reaktionen hervorrufen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Bunker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L566]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Z1-Reaktion“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L566] · „Bunker reaktiv, Dissoziation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L383]
+- Story: „Kael flieht reflexhaft in alte Bewältigung — Dissoziation, Rückzug.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L568]
+- Storyform: „A: MC-Problem, Flucht in Betäubung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L568] · „B: OS, AEGIS registriert Rückfall als "Stabilisierung" (tragische Ironie)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L568]
+- Sensorik: „enge Räume, taube Sensorik“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L568]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

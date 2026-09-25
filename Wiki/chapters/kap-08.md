@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,17 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht, auf eine spezifische traumatische Erinnerung zuzugreifen oder sie abzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „nicht vergessen, aber vielleicht 'verschwommen', 'korrumpiert' oder emotional 'gedämpft'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „vielleicht interveniert ein Guardian wie Mnemosyne subtil, um Kaels Gedanken umzulenken“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120] · „Kael könnte 'Lücken' oder Inkonsistenzen in seiner eigenen Erzählung finden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Die Wächterin“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L534]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 8: Wiedergeburt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L534] · „Heilung des Männlichen im Inneren (Mitgefühl mit logischen Anteilen)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L344]
+- Story: „Kael beginnt, logische Anteile mit Mitgefühl zu sehen. Erste Wir-Stimme-Andeutung.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L536]
+- Storyform: „A: MC-Issue, Mitgefühl mit Schutz-Funktionen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L536] · „B: RS-Psychology beginnt sichtbar zu werden“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L536]
+- Sensorik: „Licht, das durch Architektur fällt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L536]
+- Genesis echo: „Echos der ursprünglichen Vorhersagealgorithmen, die in Kap 0 entstanden — jetzt mit Mitgefühl betrachtet“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L536]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

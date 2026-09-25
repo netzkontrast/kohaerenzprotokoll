@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,17 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael begegnet einem 'Riss' oder wird darin gefangen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „die Realität selbst scheint auszufransen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Story: „Kael könnte kurzzeitig etwas 'außerhalb' oder 'unterhalb' der Simulation wahrnehmen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „AEGIS/Guardians könnten aktiv versuchen, den Riss einzudämmen oder zu reparieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Discussion: „liefert Kael unbestreitbare Beweise dafür, dass seine Welt konstruiert und fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L108]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Die Stimme im Rauschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L530]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 7: Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L530]
+- Story: „K-J-Verbindung wird stärker. Kael spürt Juna ohne sie zu sehen — Telefon-Stille als Anker.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532]
+- Storyform: „A: RS-Physics, Moonshine-Bewusstwerdung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532]
+- Sensorik: „die Stille als Klang, warme Resonanz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532]
+- Genesis echo: „Junas Resonanz, jetzt nicht als Angriff, sondern als Sehnsucht erfahrbar“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532] · „erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was das ist“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L343]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

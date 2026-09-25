@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,17 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht ein Gebiet, das für seine perfekte Ordnung und Vorhersagbarkeit bekannt ist (vielleicht innerhalb von KW1 oder einer stark regulierten Zone).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94] · „Der Vorfall wird schnell von AEGIS/Guardians eingedämmt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Echos im Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L526]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 6: Tod einer Einstellung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L526]
+- Story: „Cache-Konflikt; einseitiger Ansatz scheitert. Erste polyphonen Einbrüche.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528]
+- Storyform: „A: MC-Solution Pursuit erste Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528] · „B: OS-Physics — AEGIS' Logik zeigt Schwächen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528]
+- Sensorik: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528]
+- Genesis echo: „der Cache-Konflikt ist das Echo der ursprünglichen Resonanz-Kaskade“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528] · „AEGIS' Logik zeigt dieselben Schwächen wie damals“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L358]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

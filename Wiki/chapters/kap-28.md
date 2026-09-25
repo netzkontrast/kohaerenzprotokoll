@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „um Bedingungen nachzubilden, die mit vergangenen Traumata verbunden sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Alternativ könnte AEGIS einen Guardian wie Mnemosyne verwenden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388] · „(Umkehrung der Effekte aus Kapitel 8)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Kael kämpft darum, seinen integrierten Zustand gegen diesen Ansturm aufrechtzuerhalten.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „AEGIS' Eskalation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614]
+Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L401]
+
+- Stage: „HR-Stufe 2: Call to Adventure“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614]
+- Story: „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616]
+- Storyform: „A: MC-Issue, Notwendigkeit zu handeln“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616] · „B: OS-Physics, Erasure-Drohung explizit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616]
+- Sensorik: „drohende Spannung, Countdown-Marker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

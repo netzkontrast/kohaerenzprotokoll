@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Punkte verbinden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L201]
 - Story: „Ausgelöst durch die Ereignisse von Teil 1“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
 - Story: „Etwas betreibt diesen Ort. Etwas Intelligentes.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202] · „Er gibt ihm einen Namen (oder erfährt seinen Namen): AEGIS.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Der Bruch des Gleichgewichts“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L558]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Modus-Wechsel zu Zyklus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L558] · „eingerahmt von Bruch (Kap 14)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364]
+- Story: „Bruch der inneren Balance durch externes Ereignis oder gezielte AEGIS-Aktion“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L560]
+- Storyform: „A: MC-Issue, alte Wunden reißen auf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L560] · „B: OS-Physics, erste Erasure-Welle gegen Kaels Stabilität“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L560]
+- Sensorik: „zerbrochene Fassade, Sprünge im Raum“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L560]
+- Genesis echo: „AEGIS' Erasure-Welle ist exakt das Verfahren des Trennungsprotokolls aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L560]
+- Method: „oder Kap 14 (Akt-II-Eröffnung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L822]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

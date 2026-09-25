@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,17 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kaels Umgebung wird zu einer sich ständig verändernden Alptraumlandschaft (Architekten aus Kapitel 30).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453]
 - Story: „Traumatische Erinnerungen werden unerbittlich ausgelöst (Kapitel 28).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453]
 - Story: „Kaels Bewusstsein direkt wieder zu 'fragmentieren'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453] · „Kael wird an seine absolute Grenze getrieben“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Das Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634]
+Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L401]
+
+- Stage: „HR-Stufe 7: Approach Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634]
+- Story: „Kael berührt die nicht-algorithmische Unterstruktur — die K1-Reinform.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L636]
+- Storyform: „A: MC-Concern, nahe an der Quelle“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L636] · „B: OS-Physics, parakonsistente Logik / Gödel-Sätze als Architektur“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L636]
+- Sensorik: „dunkle Tiefe, Vibrieren des Fundaments“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L636]
+- Genesis echo: „Kael berührt direkt, was AEGIS damals als Bedrohung erlebte“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L636]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

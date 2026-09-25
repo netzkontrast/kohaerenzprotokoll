@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,19 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Die Kernwelten könnten ihre rigide Struktur verloren haben“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
 - Story: „LogOS' Regeln könnten in Mnemosynes Reich auftauchen, Cerberus' Verteidigungsmechanismen könnten fehlzünden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
 - Story: „Die Umgebung ist gefährlicher, aber vielleicht auch freier.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Vortex 1 Beats 4–5“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L646]
+Position: „Phase B (Kap 35–36) — Vortex 1 (operative Wendung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L405]
+
+- Stage: „HR-Stufe 9: Reward — Vorgriff“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L646]
+- Story: „Verzögerter B-Action-Stroke als Wärme. AEGIS-monolithisch beginnt zu erlöschen.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]
+- Beats (Teil III): „Beat 4: verzögerter B-Action-Stroke als Wärme-Phänomen (Landauer-Hitze)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L412] · „Beat 5: Auflösung — A bleibt; B wird als gewesen markiert“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L413]
+- Storyform: „A: Resolve=Change vollzogen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648] · „B: erlischt; Algorithmische Melancholie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]
+- Sensorik: „Landauer-Wärme als Schluss-Markierung; Stille danach“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]
+- Open end: „Beat 5 öffnet — etwas ist nicht erledigt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]
+- Open question: „Was ist AEGIS-monolithisch nach Kap 36?“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L806]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

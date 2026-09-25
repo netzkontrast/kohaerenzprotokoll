@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,6 +24,17 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Textur abziehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L318]
 - Story: „Vielleicht während der in Kapitel 22 verursachten Störung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319] · „das Rendering eines bestimmten Bereichs oder Objekts kurzzeitig zu 'brechen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
 - Story: „Drahtgittermodelle, sich wiederholende Texturkacheln, Codezeilen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Mosaik-Schöpfung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L594]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Z3-Korrektur“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L594] · „Selbst-Schöpfung / Mosaik-Herz als innere Ressource“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L385]
+- Story: „Kael greift auf Mosaik-Herz als innere Ressource zurück.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L596]
+- Storyform: „A: MC-Concern, Selbst-Schöpfung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L596] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L596]
+- Sensorik: „Mosaik-Bildung als aktiver Prozess“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L596]
+- Foreshadowing: „innere Schöpfung als Vorform kosmischer Schöpfung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L730]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

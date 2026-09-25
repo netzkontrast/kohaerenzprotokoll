@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael inszeniert eine Situation über mehrere Standorte hinweg oder unter Einbeziehung mehrerer Guardians gleichzeitig“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „koordinierte Aktionen mit Juna/V“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „ein teilweises Einfrieren der Logik innerhalb von AEGIS' zentraler Verarbeitung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Logische Labyrinthe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L630]
+Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L401]
+
+- Stage: „HR-Stufe 6 fortgesetzt: Tests“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L630]
+- Story: „Polyphoner Kael, Spiegel-Alter aktiv. AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L632]
+- Storyform: „A: MC-Issue, Wahrheits-Test gegen logische Fallen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L632] · „B: OS-Physics, kybernetische Manöver“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L632]
+- Sensorik: „logische Labyrinthe, Echo-Räume“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L632]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

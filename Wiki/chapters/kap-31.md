@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,17 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Juna/V schafft es, eine stabile Verbindung oder einen Eintrittspunkt in AEGIS' simulierte Realität herzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „AEGIS reagiert mit Verwirrung und Alarm“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „wodurch unbeabsichtigt eine sichere Zone für Kael und Juna/V zur Kommunikation oder Koordination entsteht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Auflösung der Guardians“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L626]
+Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L401]
+
+- Stage: „HR-Stufe 5: Crossing First Threshold + Stufe 6: Tests, Allies, Enemies“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L626]
+- Story: „Kael absorbiert Guardian-Prinzipien gesund: Logik ohne Kälte, Schutz ohne Paranoia.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
+- Storyform: „A: MC-Concern Memory als Waffe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628] · „B: OS-Physics, Guardians als Sub-Antagonisten“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
+- Sensorik: „Wächter, die in Lichtstaub aufgehen und in Kael fließen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
+- Genesis echo: „Kael nimmt schon AEGIS-Funktionen pluralisiert an — proleptische Vorform der Wir-AEGIS-plural“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

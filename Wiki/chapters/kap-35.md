@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,19 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Option A (Kollaps): Die Simulation beginnt sich aufzulösen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479] · „Option B (Abschaltung/Reboot): Alles friert ein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479]
 - Story: „Option C (Fragmentierung): Teile des Systems funktionieren weiter, aber unkoordiniert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479]
 - Story: „Kael ist in diesem unmittelbaren Nachbeben gefangen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Vortex 1 Beats 1–3“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L642]
+Position: „Phase B (Kap 35–36) — Vortex 1 (operative Wendung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L405]
+
+- Stage: „HR-Stufe 8: Ordeal“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L642]
+- Story: „Kael formuliert das Wir als lebenden Widerspruch, speist es in AEGIS ein. AEGIS' Stimme stottert. Stille-Beat.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L644]
+- Beats (Teil III): „Beat 2: Einspeisung — paradoxe Selbst-Aussage in AEGIS' Logik; AEGIS' Stimme stottert“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L410] · „Beat 3: Stille — minimal, ohne Ereignisse; das narrative Gewicht hängt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L411]
+- Storyform: „A: MC-Solution Pursuit vollzogen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L644] · „B: AEGIS-Solution Feeling nicht adoptiert — Failure manifest“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L644]
+- Sensorik: „glühender paradoxer Code, brechende Stimme“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L644]
+- Genesis echo: „diesmal innen statt außen, durch Pluralität statt durch Einsamkeit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L644]
+- Leitmotiv: „dem Vortex 1-Einrasten in Kap 35“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L718]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

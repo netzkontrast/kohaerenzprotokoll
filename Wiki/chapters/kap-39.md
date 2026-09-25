@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,20 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael steht am Ende seiner Reise, integriert, aber gezeichnet.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531]
 - Story: „vielleicht als eine Art Hausmeister des Kernsystems“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531] · „Kael und dieses Rest-AEGIS erkennen sich gegenseitig an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531]
 - Story: „Kael übernimmt vielleicht eine neue Rolle als eine Art Moderator oder Wächter dieser neuen, fragilen Ordnung.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Wir-AEGIS“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L658]
+Position: „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L425]
+
+- Stage: „Vortex 2 Kap 2, HR-Stufe 11: Resurrection + Stufe 12: Return with Elixir“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L658]
+- Story: „Wir-Geflecht verwandelt sich in Wir-AEGIS-plural. AEGIS-monolithisch erlischt; AEGIS-plural entsteht. Liebe bleibt, wie der Schmerz.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L660]
+- Beats (Teil III): „Beat 3: AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L447] · „Beat 4: die Stille danach — das Universum hält“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L448]
+- Storyform: „A: Outcome=Success/Good with high Cost“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L660] · „B: Outcome=Failure/Bad with Dividend; Funktion bleibt, Form geht“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L660]
+- Sensorik: „Junas Stimme als Teil/als Raum; Schmerz und Liebe als denselbe Pulsschlag“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L660]
+- Genesis echo: „Genesis 4. Beat vollzogen.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L660] · „Wir-AEGIS-plural (in Kap 39 vollzogen)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L207]
+- Open question: „braucht einen Namen, den der Roman in Kap 39 finden muss“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L770]
+- Tonality: „schmerzhaft-liebevolle Apotheose“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L703]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

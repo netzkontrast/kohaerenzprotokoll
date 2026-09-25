@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „(vielleicht Cerberus, fokussiert auf 'Sicherheit')“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L133]
 - Story: „wenn Kael eine zaghafte Verbindung zu einer externen Anomalie (Vorläufer von Juna/V) herstellt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L133]
 - Discussion: „Kaels Heilungsprozess wird vom System aktiv bekämpft“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L134]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Kap 9 — Wir“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L538]
+Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L315]
+
+- Stage: „HR-Stufe 9: Integration beginnt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L538]
+- Story: „Innere Kommunikation zwischen Anteilen verbessert sich. Wir-Geflecht im frühen Aufbau.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L540]
+- Storyform: „A: MC-Concern, Logik und Intuition verbinden sich“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L540] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L540]
+- Sensorik: „inneres Geflecht, Wir-Stimme“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L540]
+- Genesis echo: „die Wir-Bildung ist die strukturelle Wieder-Annäherung an die K1-Reinform-Erinnerung über plurale Form“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L540]
+- Leitmotiv: „mechanisch ähnlich dem Moment der Wir-Bildung in Kap 9“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L718] · „Ab Kap 9 ist die Wir-Bildung sichtbar.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L748]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

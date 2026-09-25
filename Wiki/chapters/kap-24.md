@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,6 +24,17 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der Empathie-Test“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L331]
 - Story: „Kael versucht, eine genuinely empathische oder subjektive Reaktion von AEGIS oder einem hochrangigen Guardian hervorzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
 - Story: „Kael kommt zu dem Schluss, dass AEGIS simuliert, aber nicht fühlt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Telefon-Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Wiederkehrendes K-J-Thema“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598] · „wiederkehrendem K-J-Thema (Kap 24)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364]
+- Story: „K-J-Verbindung wird zyklisch von AEGIS gestört, Kael lernt sie aktiv zu suchen.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L600]
+- Storyform: „A: RS-Physics dominant, Verbindung trotz Störung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L600] · „B: OS-Psychology, Host-System-Verstrickung wird komplex“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L600]
+- Sensorik: „Telefon-Stille als Anker, Witness-Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L600]
+- Genesis echo: „Junas Witness-Modus ist die ursprüngliche Form ihrer Anwesenheit aus Kap 0 — sie greift nicht ein, sie ist da“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L600]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

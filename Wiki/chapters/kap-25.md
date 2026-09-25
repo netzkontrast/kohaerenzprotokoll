@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,6 +24,16 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die umgeschriebene Geschichte“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L344]
 - Story: „Er findet die Aufzeichnungen subtil verändert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L345]
 - Story: „beharrt AEGIS darauf, dass die Aufzeichnungen korrekt sind und Kaels Gedächtnis fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L345]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Wegkreuzung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602] · „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364]
+- Story: „Kael erkennt: Freiheit nur außerhalb von AEGIS' System.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L604]
+- Storyform: „A: MC-Concern Memory, Klarheit über Notwendigkeit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L604] · „B: OS-Physics, AEGIS bemerkt Kaels neue Klarheit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L604]
+- Sensorik: „Wegkreuzung, Schwellen-Bilder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L604]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

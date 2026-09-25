@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael wird von LogOS (oder einem anderen logikbasierten Guardian) in die Enge getrieben.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
 - Story: „eine perfekt logische, aber selbstwidersprüchliche Aussage“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
 - Story: „gerät in eine Verarbeitungsschleife oder einen temporären Absturzzustand, was Kael ermöglicht, ihn zu umgehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Angst des Kindes“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618]
+Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L401]
+
+- Stage: „HR-Stufe 3: Refusal“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618]
+- Story: „Letzte Trauma-Erinnerung, Kind-Anteil sichtbar.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L620]
+- Storyform: „A: MC-Problem Avoidance, letztes Aufflammen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L620] · „B: RS-Psychology, Verstrickung tief“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L620]
+- Sensorik: „Angst des Kindes, Engerwerden“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L620]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

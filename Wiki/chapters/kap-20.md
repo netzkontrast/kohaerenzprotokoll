@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,16 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael interagiert mit einem Guardian (z.B. Mnemosyne, verantwortlich für Erinnerung).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „die Integrität der Erinnerung zu wahren vs. einer AEGIS-Direktive zu gehorchen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „Kael beobachtet, wie Mnemosyne Zögern, inkonsistentes Verhalten oder vielleicht sogar eine Antwort zeigt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Title: „Lyons-Welt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L582]
+Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L362]
+
+- Stage: „Z2-Korrektur“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L582] · „Lyons-Welt-Kreativität, fluide Regelnutzung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L384]
+- Story: „Kreative Lösung durch fluide Regelnutzung.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L584]
+- Storyform: „A: MC-Solution, erste bewusste Pursuit-Bewegung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L584] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L584]
+- Sensorik: „fluide Regeln, Emergenz-Texturen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L584]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
