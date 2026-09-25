@@ -33,7 +33,7 @@ files there are the full re-comparisons made before reconciling by lookup; each
 superseded the last, which is how the step showed it did not scale.
 `CLAUDE.md`, *State*, has what each document added and why.
 
-Pages link to each other as `[[slug]]`: 337 <!--state:wiki.relations--> links,
+Pages link to each other as `[[slug]]`: 341 <!--state:wiki.relations--> links,
 none inferred — each marks a term the prose already wrote (decision 005).
 `scripts/graph.py` reads the links, the frontmatter and every citation into a
 typed graph, and `scripts/graphrag.py` retrieves attributed quotations from it,

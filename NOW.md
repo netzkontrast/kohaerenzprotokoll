@@ -96,27 +96,6 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
-- **Read one document yourself, blind?** Every reading behind every score here
-  is Claude's: the gold lists, the 0.66 of P27, and the eight blind re-readings
-  of 2026-09-24. Those agree with each other at F1 0.82–0.93, and each holds
-  97–100 % of the committed list, so the *seeing* reproduces. Whether a Claude
-  reader *selects* what you would has never been measured. Documents 5, 6, 7
-  and 10 now have three Claude lists each. One of them read by you, blind, and
-  compared with `python3 scripts/agree.py <slug>`, is the first human anchor
-  (`Plan/learnings/extract-terms.md`, *Blind re-readings*).
-- **How exhaustive is a census?** `CLAUDE.md` says every candidate,
-  exhaustively. Told exactly that, blind readers list 90–235 candidates per 100
-  lines. The committed lists hold a share of that: 7 % and 18 % on documents 5
-  and 6, 34 % and 40 % on 7 and 10. The selection is where readers differ.
-  Should it be written down, or should the census really be exhaustive?
-- **What must a conflict record hold?** The record audit found C2, C4 and C7
-  holding nothing from a document that takes a position on their question;
-  those entries are now written. Far more often, a passage the auditors called
-  missing sat on a page the record links. Is a record complete when every
-  document with a position has an entry, or when record and pages hold it
-  together? The audit wrote only the first kind
-  (`Plan/runs/record-audit-2026-09-24/`).
-
 - **Decision 011 — confirm or narrow.** On „Use dspy Optimierung on the
   Scripts" and „Add openrouter free Models in the mix" the session let DSPy
   runs use Claude through `claude -p` — treated as first party, the precedent of
@@ -379,6 +358,14 @@ In order, and none of it needs a model:
    that verify as readings feed `graph.proposals()`, and only one unread
    document has one. The full entity run (above, *Half-done*) is what makes
    `graphrag.py`'s unread-document routes worth having.
+7. **The record audit for the documents it has not covered** (decision 012, rule
+   3). It ran on documents 7–13. Documents 1–6 were reconciled before ingest
+   step 6, and 14–15 after it; `.claude/workflows/record-audit.js` takes them as
+   args. The rule for what enters a record is in
+   `Plan/runs/record-audit-2026-09-24/README.md`.
+8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
+   nothing** (decision 012, rule 2). The fifteen read documents are settled:
+   24 hits, 10 readings, 14 occurrences, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
 
