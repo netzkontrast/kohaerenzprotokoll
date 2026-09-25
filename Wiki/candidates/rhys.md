@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -53,3 +53,8 @@ Selene: „Zentraler ANP-ANP-Konflikt des Buchs." ^[kohaerenz-protokoll-anteile-
 „Rhys (ANP / Caregiver)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L91]. „Bindung, Fürsorge, Harmonie-Versuch. Hält zusammen, was AEGIS zerschnitten hat." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L93]
 „Rhys' Stimme bleibt warm auch unter Druck." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L93] With [[isabelle|Isabelle]] he collides
 „am Punkt authentischer Bindung" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233].
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Rhys (Caregiver)" ^[kohaerenz-protokoll-konzept-master-md.md:L391]: correlate „Maxwells Dämon" ^[kohaerenz-protokoll-konzept-master-md.md:L391], somatics „Schweiß, fiebrige Hände" ^[kohaerenz-protokoll-konzept-master-md.md:L391],
+arc „Akzeptanz (Akt-II-Anker → Kudzu)" ^[kohaerenz-protokoll-konzept-master-md.md:L391].
