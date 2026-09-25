@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-25"
 ---
 
@@ -51,3 +51,10 @@ it.
 
 Here the name is for what the storyforms' inversion will ground. „Die **Klein-c-Inversion** zwischen A und B (MC↔IC-Klassen tauschen, OS↔RS-Klassen tauschen) ist strukturell sauber" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L71] — „Diese Inversion ist die mechanische Grundlage der späteren Truth-Rotation." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L71]
 „Diese Klein-c-Symmetrie ist die formale Basis der Truth-Rotation: Beide Lesarten *desselben Plot-Substrats* sind strukturell legal — der Roman entscheidet erst am Vortex, welche die operative Wahrheit ist." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L260]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+The inversion and the rotation are two things, one the source of the other: „Diese Inversion ist die mechanische Quelle der Truth-Rotation am Vortex (Kap. 35–36)." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L138]
+„Bis dahin liest der Roman in B-Logik (AEGIS = Ordnung, Kael = Chaos). Nach dem Pivot rotiert das Vorzeichen: AEGIS = K₀ wird sichtbar, Kael = K₁-Substrat wird sichtbar." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L138]
+„Die Phänomenologie der Risse ändert sich nicht; die Lesart ändert sich." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L138]
+At the Vortex: „Hier schließt sich die Truth-Rotation: AEGIS = K₀ wird sichtbar, Kael = K₁ wird sichtbar." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1321] In Beat 5: „Truth-Rotation komplett." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1336]
