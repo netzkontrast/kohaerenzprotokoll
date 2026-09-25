@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 11
+sources: 12
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -220,3 +220,10 @@ The two Guardians offer gifts in good faith (^[kp-plot-konkretisierung-13-ideen-
 What the flaw is, the document does not say. [[mnemosyne|Mnemosyne]] works in AEGIS' architecture
 „weil sie keine andere Sprache hat" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45] — a lack, not called a blind spot. Nearest to the
 first position, as far as it goes.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**AEGIS' blindness, named ontological; none for a Guardian.**
+„Ontologische Blindheit: AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
+In time: „AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[kohaerenz-protokoll-konzept-master-md.md:L206] The two Guardians are
+„K₀-Sub-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L961] of the system, with no blind spot of their own. The first position's side.
