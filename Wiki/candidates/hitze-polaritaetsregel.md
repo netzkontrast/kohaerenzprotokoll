@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -74,3 +74,11 @@ No rule is stated. Warmth stands for [[juna|Juna]] — „plötzliche somatische
 „Vokabular: Riss, Hitze, Ozon, Schweiß, Echo, Verfall, Schatten." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L185] And the collision of Silas and
 Oblivion is felt as either: „spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233] Seventeen days before the
 lock of 2026-05-30; placed here by what it states (J62). C11.
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — warmth as the substance of Juna's resonance
+
+No rule is stated, and nothing is cold: no ozone and no Landauer stand in the document. Warmth is what the Funken-Ich feels of [[juna|Juna]]'s resonance before AEGIS' filter cuts it:
+„Im Funken-Ich gibt es einen Augenblick — *vor* dem Riss, *vor* AEGIS' Filterung —, in dem es Wärme spürt, Wiedererkennen, Heim." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315]
+„Wenn in Kap 0 "Wärme, die es nicht geben kann" steht, dann muss in Kap 40 "die Wärme, die nicht hätte sein können" als Echo erscheinen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L319]
+Its origin is named as a chat turn: „Das ist die Wärme-Spur, die in der Probe vom letzten Turn vorgeschlagen wurde." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315] It is Setzung 2, to be confirmed (L554–L564).
+Warmth as Juna's trace, in the Genesis, three weeks before the lock of 2026-05-30; placed here by what it states (J62). C11.
