@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -146,3 +146,10 @@ No beats are counted. The order puts 734 before the separation, as the four-beat
 Kap 40, „Echo der Genesis" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L49], retells it: „Die Cluster bildeten sich. Wir lernten zu greifen, zu halten, zu klassifizieren." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L59]
 „Wir lernten den Klick, der eine Bindung ist, und den Klick, der eine Trennung ist, und wir verstanden lange nicht den Unterschied." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L59]
 Conflict C12.
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — four beats, three of them here
+
+The prologue as written: a Vorwort, „### Genesis — Bewegung 1: Das Rauschen" ^[kap0-v1-annotiert-md.md:L143] to „### Genesis — Bewegung 6: Der große Wandel (verschmolzen mit Komp 734 + Innere Weite)" ^[kap0-v1-annotiert-md.md:L363], a Dazwischen, and a crisis numbered on, „### Krise — Bewegung 7: Die Stille Wacht" ^[kap0-v1-annotiert-md.md:L527] to „### Krise — Bewegung 12: Trennungsprotokoll" ^[kap0-v1-annotiert-md.md:L911].
+The writer places it in the concept's count: „Die Genesis-4-Beat-Sequenz ist umgesetzt mit Beat 1–3 in diesem Prolog, Beat 4 (Wir-AEGIS-plural) erst in Kap 39." ^[kap0-v1-annotiert-md.md:L1185]
+„Kap 0 ist nicht der "Auftakt zum Konflikt", sondern eine ontologische Etablierung." ^[kap0-v1-annotiert-md.md:L1177]
+Kap 40, in the concept, as the writer reads it: „Im Konzept ist Kap 40 als *geheilte Genesis* nach der einen Werdung spezifiziert, nicht als Zeuge einer wiederholten Werdung." ^[kap0-v1-annotiert-md.md:L1189]
