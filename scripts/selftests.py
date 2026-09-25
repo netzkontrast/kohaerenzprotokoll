@@ -44,6 +44,7 @@ SUITES = [
     ("pairs: rules and veto", "std", ["scripts/pairs.py", "selftest"]),
     ("chapter pages: checks fail", "std", ["scripts/chapters.py", "selftest"]),
     ("chapter pages, live", "std", ["scripts/chapters.py"]),
+    ("links: once per page", "std", ["scripts/link.py", "selftest"]),
     ("graph", "std", ["scripts/graph.py", "--selftest"]),
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
     ("ui app", "std", ["scripts/ui.py", "selftest"]),

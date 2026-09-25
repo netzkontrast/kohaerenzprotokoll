@@ -68,7 +68,7 @@ newest row on the same trainset; when there is none it answers `warn` —
 so re-scoring could never clear that warning (`optimizers.md`, *What
 `baseline.py compare` says*). `--floor` names a
 different candidate. The first floor is `fold()` itself, scored through
-`score_rule("fold")`: **77 <!--state:pairs.labelled--> labelled pairs; `fold()`
+`score_rule("fold")`: **79 <!--state:pairs.labelled--> labelled pairs; `fold()`
 decides 46 <!--state:pairs.fold_correct--> of them (60%).** `trainset.py`'s own
 output: "Anything that does not beat this is not worth an LM call."
 (`scripts/trainset.py`). A model run after the plural rule answers to a higher
@@ -293,7 +293,7 @@ pattern — not before."
 (`dspy-agent-skills:skills/dspy-book-eight-steps/SKILL.md:76-84`,
 `reference.md:80-90`). This repository already has its own instance of exactly
 this rule, built before the recipe was read: `fold()` decides
-46 <!--state:pairs.fold_correct--> of 77
+46 <!--state:pairs.fold_correct--> of 79
 <!--state:pairs.labelled--> pairs for free, the plural rule of decision 010
 decides 54 <!--state:pairs.plural_correct-->, and `pairs.py` sends a model only
 the residual the rule named by `--rule` calls two-terms (P1).
@@ -426,7 +426,7 @@ table, one row per repository with the line."
   in temperature (`dspy-agent-skills`, plugin plan D3) — "a weak independence"
   by the plan's own standard. Nothing here has a reviewer role yet.
 - **A judge for job 1 or job 2** — waits on 20–50 hand-labelled cases per the
-  calibration protocol's own floor. Job 1's 77 <!--state:pairs.labelled-->
+  calibration protocol's own floor. Job 1's 79 <!--state:pairs.labelled-->
   judgement records already carry a stated rule each and are close to that
   floor; job 2's 395 <!--state:entities.rows_verified--> entity rows are
   proposals a model wrote, never judgement labels a person made, and do not

@@ -1277,3 +1277,31 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** The glossary gives the two separate entries (kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L82, L85); it, the konsolidiertes Konzept (L138), the Kapitel-Kompendium (L25) and the storyform outline (L25) call the inversion „die mechanische Quelle der Truth-Rotation“, which is the moment the reading turns. The master report heads the inversion itself with `Truth-Rotation` (L212–L226)
 
 **Result.** two terms in the four sources that use both — one names the source of the other. No alias; the page records that the master report uses the one name for both
+
+## J92 — Komp 734 / Komponente 734
+
+**one-term** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a clipped word (Komp for Komponente, Op for Operator) that names what the full form names in the same document is one term with it; the referent decides, not the letters (J83 for a compound's head used alone)
+- **mechanised by:** `nothing`
+- **features:** clipped-word, second-reading
+
+**Question.** one term or two?
+
+**What was done.** L465 names Kael „Komponente 734“ as the Genesis' third beat; L998 restates the same three beats as „Einheit → Trennungsprotokoll → Kael=Komp 734“. Recorded by a second, independent reading of the document (pull request #94); the wiki's reading lists both surfaces and made no judgement on the pair
+
+**Result.** one term — the clipped word names the same designation in a restatement of the same sequence
+
+## J93 — Erason-Op / Erason-Operator
+
+**one-term** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** the rule of J92: a clipped word naming what the full form names in the same document is one term with it
+- **mechanised by:** `nothing`
+- **features:** clipped-word, diagram-label, second-reading
+
+**Question.** one term or two?
+
+**What was done.** the diagram at L182–L186 labels Oblivion „(Erason-Op/Spiegel)“ under its name; the Alter table (L400) and the consistency matrix (L958) give Oblivion the function `Erason-Operator`. Recorded by a second, independent reading (pull request #94)
+
+**Result.** one term — Oblivion's role, clipped in a diagram label; a reading on oblivion, not on erason (J32)

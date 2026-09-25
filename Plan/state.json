@@ -3,7 +3,7 @@
   "by": "scripts/state.py",
   "measurements": {
     "chapters.missing": {
-      "value": 92,
+      "value": 91,
       "how": "a read document naming `Kap N` singly with no reading on that chapter's page, scripts/chapters.py"
     },
     "chapters.readings": {
@@ -75,7 +75,7 @@
       "how": "judgements a rule now claims and still agrees with"
     },
     "judgements.total": {
-      "value": 91,
+      "value": 93,
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
@@ -87,7 +87,7 @@
       "how": "of those, decided correctly by fold() \u2014 the floor"
     },
     "pairs.labelled": {
-      "value": 77,
+      "value": 79,
       "how": "labelled one-term-or-two pairs derived from the judgement ledger"
     },
     "pairs.plural_correct": {
@@ -187,7 +187,7 @@
       "how": "of those, readings the lookup had missed, now on their pages"
     },
     "trainset.fold_baseline_pct": {
-      "value": 60,
+      "value": 58,
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
@@ -195,7 +195,7 @@
       "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {
-      "value": 77,
+      "value": 79,
       "how": "labelled one-term/two-terms examples in the ledger"
     },
     "wiki.chapters": {

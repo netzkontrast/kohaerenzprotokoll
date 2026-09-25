@@ -830,3 +830,33 @@ question anticipated, one about the tool, one about a gathered page.
   pass applied seven sources' readings to `truth-rotation` in one working-tree
   change; it was reset and re-applied one source per commit, so `git log` on the
   page names each. Doing it in that order from the start costs nothing.
+
+### Document 20, read a second time — pull request #94
+
+A second session read the report in full the same day, blind to the reading above,
+under the same list rule. Main took the other reading; this one's list is
+`03-candidates-blind-1.md`. `agree.py`: 477 and 470 candidates, F1 **0.76**, 361
+shared, each list holding 76–77 % of the other. Two readers with one rule and one
+document agree less than the blind re-readings of documents 5, 6, 7 and 10 did
+(0.82–0.93) and more than the pre-rule second readings of documents 16 and 17
+(0.63, 0.52). What each alone listed is a choice, not a miss: the parenthesised
+role forms (`Collapse (Moros)`), the storyform table's values (`Steadfast`,
+`Timelock`) and the philosophers on one side; the physics interpretations
+(`Kopenhagen`, `GRW`), the Dramatica codes (`A:MC`, `B:OS`) and the somatics
+(`Bruxismus`, `Katatonie`) on the other.
+
+Two findings the first reading did not have, both procedural:
+
+- **A grep for a stem finds longer words.** The first verification of the heat
+  vocabulary counted `heiß` on 4 lines; three of them were `heißt` (L55, L143,
+  L833). With a word boundary it is 1 (L1039). A re-count with the wrong pattern
+  repeats the error with a command beside it.
+- **A clipped word is a surface the list must hold as written.** A diagram labels
+  Oblivion `Erason-Op/Spiegel` (L186) where two tables write `Erason-Operator`
+  (L400, L958); an open point writes `Komp 734` (L998) for `Komponente 734` (L465).
+  Both readings listed both; the ledger now says they are one term each (J92, J93).
+
+The two readings made one opposite call: the second read the report onto
+`hitze-polaritaetsregel` by J62, the first declined it because no polarity rule is
+stated. The first stands; the disagreement is the kind a person decides.
+

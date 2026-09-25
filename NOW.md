@@ -110,6 +110,14 @@ before this list.
   so the gap is that outline's, not every plan's. So does the Sprach-DNA
   (2026-05-13): Kernwelten 2–3 are Akt II, Kap 14–26 (L185). And the konzept
   master report (2026-05-08): KW3, Akt II, Kap ~20–26 (L660).
+- **KW2 — Resonanz-Landschaft or Mnemosyne-Archipel?** The konzept master
+  report (2026-05-08) names KW2 `Resonanz-Landschaft` (its L331, L659) and gives
+  the `Mnemosyne-Archipel` to the Vortex, Kap 35–36 (L508). Every other read
+  canon-era source that names KW2 calls it the Archipel; the konsolidiertes
+  Konzept and the drafting manual give both — „KW2 — Mnemosyne-Archipel
+  (Resonanzlandschaft, Klimax-Setting)". One world with two names, or a world and
+  the Vortex's setting inside it? No source denies another, so no record. Found
+  by the second reading of the report (pull request #94).
 - **`kael-julia-bindung` (J13).** One document says `Kael-Julia-Bindung`, nine say
   `Kael-Juna-Verbindung`. The Kapitel-Kompendium now states „Julia→Juna" as a rename
   it applied to its quarry (L13). Should the page be renamed, and is the older
@@ -164,7 +172,13 @@ before this list.
   one's handover did not name: the Sprach-DNA of 2026-05-13 (document 19), while
   that session read `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`
   (document 18). The readings did not overlap; they met on 24 pages and seven
-  records, and the merge appended one after the other.
+  records, and the merge appended one after the other. **It happened again with
+  document 20**: both sessions followed the Sprach-DNA's handover to the konzept
+  master report and read it in full, independently (pull requests #94 and #95).
+  Main took #95's reading; #94's list is a blind re-reading (F1 0.76), and what it
+  added that main's did not hold — J92, J93, the KW2 question, two tool fixes —
+  went in with the merge. A handover that names one next document sends every
+  session there.
 
 - **Decision 011 — confirm or narrow.** On „Use dspy Optimierung on the
   Scripts" and „Add openrouter free Models in the mix" the session let DSPy
@@ -321,7 +335,7 @@ the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
 author's delegation, set the reach of a rule that also passes a plural ending:
 `pairs.RULES["plural"]` decides 54 <!--state:pairs.plural_correct--> of
-77 <!--state:pairs.labelled--> pairs where `fold()` decides
+79 <!--state:pairs.labelled--> pairs where `fold()` decides
 46 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
 pages joined and 28 new merges across all 14 candidate lists, each a singular and
 its plural. It is a ledger row and the rule a model run asks first;
@@ -433,7 +447,7 @@ both sides quoted — noted for the author, none settled:
 in Akt I but Kap 4 and 5 is the strukturierter Outline's HR-Stufe name, and the
 Konzept-Iteration Genesis names Kap 2–5 differently from all the rest.
 
-**Next, in order:** the 92 <!--state:chapters.missing--> chapter mentions no page
+**Next, in order:** the 91 <!--state:chapters.missing--> chapter mentions no page
 holds yet (`chapters.py missing` — the character bible's Kap-33 scene, the drafting
 manual's reveal timeline, the Alter profiles' debuts); then the unread
 Kap-0/Kap-40 documents of 2026-05-08; then chapters in `graph.py` and `ui.py` if
@@ -705,6 +719,7 @@ high tier into it is the next step, and it is a person's.
 - **C15**: Flight to Lia and Isabelle „implizit“ (L1049), and no alter in the roster carries Flight (J89). **C12**: three beats, locked. **C8**: Do-er, the 2026-05-07 correction named. **C11**: heat and ozone as one signature of AEGIS' erasure. **C7**: a revelation in Akt II, no chapter.
 - **Truth-Rotation**: the sources agree AEGIS = K₀ and part on what the name points at — the inversion (this document) or the moment in the Vortex the reading turns (four later sources, which call the inversion the `Große Inversion`; J91). Recorded on the page, no conflict record. Whether it should be one is yours to say.
 - **`quotes.py` stopped a case error before commit**: a nominative typed for the line's dative (`Wiki/compare/`, the record's last section).
+- **Read twice.** A second, independent reading (pull request #94) is kept as `03-candidates-blind-1.md`: `agree.py` F1 0.76, 361 terms shared, each list holding 76–77 % of the other. It added J92 and J93 (clipped words: `Komp 734`, `Erason-Op`), the KW2 question above, two briefing questions, and two tool fixes: `chapters.py` read `Kap 14–\\\~20` as a single Kap 14, and `link.py` marked a term its page already linked again on every run (24 such links pending on this day's pages). It made the opposite call on one page: it read the report onto `hitze-polaritaetsregel` by J62, where main's reading declines it (no polarity rule is stated) — main's call stands.
 
 Next, by the open records: `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` (616 lines; `Kap 40` 78 times, `grep -c`, orientation only), which the Plot-Konkretisierung's handover named as well, for the Kap 0/Kap 40 frame now that two plans of 2026-05-08 disagree on it. Then `three-mode-architecture-39-chapters-md` (646 lines, 2026-05-08), which may be the 39-chapter spec the Konzept-Iteration Genesis says must be extended (its L818).
 

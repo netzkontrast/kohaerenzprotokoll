@@ -302,9 +302,16 @@ its page**, gathered from all eight read sources that name it: they agree AEGIS 
 part on whether the name means the inversion or the moment the reading turns (J91).
 **And it made two lines of `Wiki/overview/plot.md` false**: not every 2026 plan counts
 41 movements, and not every one has two Vortices — this one, dated the same day as the
-konsolidiertes Konzept, has neither.
+konsolidiertes Konzept, has neither. **It was read twice**, by two sessions following the
+same handover (pull requests #94 and #95); the reading merged first is the wiki's, and the
+other is a blind list, `03-candidates-blind-1.md`. `agree.py` measures the two at F1 0.76,
+each holding 76–77 % of the other, both under decision 012's rule. The second reading
+added two judgements on clipped words (J92, J93), a question on KW2's two names, and two
+tool fixes — `chapters.py` read the escaped approximate range `Kap 14–\\\~20` as a single
+Kap 14, and `link.py` marked another occurrence of an already-linked term on every run —
+each with self-test cases the old code fails.
 
-`Plan/runs/judgements.jsonl` holds **91 <!--state:judgements.total--> judgements**
+`Plan/runs/judgements.jsonl` holds **93 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -514,12 +521,13 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 227 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
-occurrence sits inside a quotation, a citation line or a heading — places the
-pass may not touch, so that part is a measurement and not a backlog. The rest,
-`link.py` would mark on pages no reading has touched since the page was last
-linked; they wait for the next reading on that page, because a page changes only
-in a commit that names its source.
+The 227 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+mention sits inside a quotation, a citation line or a heading — places the pass
+may not touch, so they are a measurement and not a backlog: `link.py` proposes
+none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
+marked the next free occurrence of each term, linked or not — on the pages as
+they stood that day, 24 links to terms their pages already linked; it now skips
+a term the page links (`python3 scripts/link.py selftest`).
 
 ### Chapters and the plot
 
@@ -544,10 +552,12 @@ python3 scripts/chapters.py overview   # re-derive Wiki/overview/chapters.md
 python3 scripts/chapters.py missing    # read documents naming `Kap N` with no reading on its page
 ```
 
-**92 <!--state:chapters.missing--> chapter mentions** in read documents have no
+**91 <!--state:chapters.missing--> chapter mentions** in read documents have no
 reading on their chapter's page yet — the character bible's Kap-33 scene among
 them. The count sees `Kap N` written singly; a range and a numbered list without
-`Kap` are invisible to it, so it under-counts. Reading a new document now ends,
+`Kap` are invisible to it, so it under-counts. A range with an approximate bound,
+`Kap 14–\\\~20` as the export escapes it, was read as a single Kap 14 until
+2026-09-25. Reading a new document now ends,
 where it names chapters, with its readings on those pages.
 
 **Reading the chapter outlines side by side corrected a claim.** `NOW.md` said
@@ -1095,7 +1105,7 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
-**77 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+**79 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
 46 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
 decides 54 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
 `fold()`, so reconciliation is unchanged. Every optimizer on the ladder —
