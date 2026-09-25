@@ -31,7 +31,10 @@ runs outside it — it rewrites a cross-reference and never the words of a
 quotation — with one guard kept: it will not fire inside „…" either.
 
 One link per page per target, at the first unmasked occurrence — a wiki links a
-term once, not every time it appears.
+term once, not every time it appears. A target the page already links is skipped:
+until 2026-09-25 each run marked the next occurrence of every target, linked or
+not, so a page read four times carried four links to `aegis` from this pass alone
+(`python3 scripts/link.py selftest`).
 
 ## The one exception to the inline-code mask
 
@@ -50,6 +53,7 @@ and after.
 Usage:
     python3 scripts/link.py             # dry run: what would be marked, where
     python3 scripts/link.py --apply     # mark them
+    python3 scripts/link.py selftest    # a linked target is not marked again
 """
 
 from __future__ import annotations
@@ -74,6 +78,7 @@ INLINE = re.compile(r"`[^`\n]*`")
 # at 600 characters and requiring a closer, so an unpaired „ cannot swallow a file.
 QUOTED = re.compile(r"„[^„“]{0,600}[“\"]|\"[^\"\n]{0,400}\"")
 WIKILINK = re.compile(r"\[\[[^\]]*\]\]")
+LINKED = re.compile(r"\[\[([^\]|#]+)(?:[|#][^\]]*)?\]\]")
 MDLINK = re.compile(r"\[[^\]]*\]\([^)]*\)")
 LINE_OUT = re.compile(r"^(?:\s*(?:#{1,6}|>).*|.*\^\[.*)$", re.M)
 MASKS = (FRONTMATTER, FENCE, INLINE, QUOTED, WIKILINK, MDLINK, LINE_OUT)
@@ -128,8 +133,9 @@ def proposals(path: Path, targets: dict[str, str]) -> list[tuple[int, str, str]]
     """(position, slug, surface) for each link this page should gain, first-first."""
     text = path.read_text(encoding="utf-8")
     block = masked(text)
-    found = ticked_slugs(text, set(targets), path.stem)
-    already = {slug for _, slug, _ in found}
+    linked = {m.group(1).strip() for m in LINKED.finditer(text)}
+    found = [f for f in ticked_slugs(text, set(targets), path.stem) if f[1] not in linked]
+    already = {slug for _, slug, _ in found} | linked
     for slug, term in targets.items():
         if slug in already:
             continue
@@ -170,7 +176,33 @@ def restore_surface(text: str, terms: dict[str, str]) -> str:
     return BARE.sub(swap, text)
 
 
+def selftest() -> int:
+    """Each case the defect it exists to name: a second link, a link in a quotation."""
+    import tempfile
+    targets = {"aegis": "AEGIS", "juna": "Juna"}
+    cases = {
+        "unlinked: the first free occurrence": ("AEGIS ist hier. Juna auch. AEGIS dort.\n", {"aegis", "juna"}),
+        "linked already: not again": ("[[aegis|AEGIS]] ist hier. AEGIS dort. Juna.\n", {"juna"}),
+        "a citation line is evidence": ("„AEGIS ist die Entropie.“ ^[x.md:L1]\n", set()),
+        "a bare [[slug]] counts as linked": ("[[juna]] und Juna, AEGIS.\n", {"aegis"}),
+    }
+    failures = []
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "page.md"
+        for name, (text, want) in cases.items():
+            path.write_text("---\nterm: page\n---\n\n" + text, encoding="utf-8")
+            got = {slug for _, slug, _ in proposals(path, targets)}
+            if got != want:
+                failures.append(f"{name}: proposed {sorted(got)}, want {sorted(want)}")
+    for failure in failures:
+        print("FAIL", failure)
+    print(f"link selftest: {len(cases)} cases, {'held' if not failures else f'{len(failures)} FAILED'}")
+    return 1 if failures else 0
+
+
 def main() -> int:
+    if sys.argv[1:] == ["selftest"]:
+        return selftest()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--apply", action="store_true")
     parser.add_argument("--restore-surfaces", action="store_true",
