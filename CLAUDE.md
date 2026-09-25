@@ -126,6 +126,12 @@ holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
 has been promoted.
 
+**Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
+**41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
+**315 <!--state:chapters.readings--> readings** from the eight read documents
+that go chapter by chapter; `Wiki/overview/` lays the chapters and the plot's
+shape side by side. See *Chapters and the plot*, below.
+
 | document | new terms | new readings | new conflicts |
 |---|--:|--:|--:|
 | `entropie-aegis` | 14 | — | 0 |
@@ -486,6 +492,38 @@ pass may not touch, so that part is a measurement and not a backlog. The rest,
 `link.py` would mark on pages no reading has touched since the page was last
 linked; they wait for the next reading on that page, because a page changes only
 in a commit that names its source.
+
+### Chapters and the plot
+
+On 2026-09-25 the author asked to „start to Focus on Plot and the Chapters a Bit
+more" — decision 001's own condition for revising its unit. So the chapter is a
+unit beside the term (decision 013), and the term pages stay as they are.
+
+`Wiki/chapters/kap-NN.md` collects what every read source says about one chapter:
+one `## Reading` per document, in date order, quoted and cited, attributed and
+unmerged. Where the sources part — a title, a world, what happens — the page says
+so under `## Where the sources differ` and stops. `records:` names the conflict
+and question records about the chapter. `Wiki/chapters/README.md` has the format.
+
+`Wiki/overview/` holds pages that place rather than define: `chapters.md`, every
+source's title for every chapter, **derived** from the chapter pages; and
+`plot.md`, each source's macro structure — chapter count, acts and blocks,
+modes, the Vortex — with where they agree and differ.
+
+```bash
+python3 scripts/chapters.py            # check the pages; fails on any defect or a stale overview
+python3 scripts/chapters.py overview   # re-derive Wiki/overview/chapters.md
+python3 scripts/chapters.py missing    # read documents naming `Kap N` with no reading on its page
+```
+
+**84 <!--state:chapters.missing--> chapter mentions** in read documents have no
+reading on their chapter's page yet — the character bible's Kap-33 scene among
+them. The count sees `Kap N` written singly; a range and a numbered list without
+`Kap` are invisible to it, so it under-counts. Reading a new document now ends,
+where it names chapters, with its readings on those pages.
+
+**Reading the chapter outlines side by side corrected a claim.** `NOW.md` said
+every read source but one ended at Kap 39; seven of the eight count a Kap 40.
 
 ### The knowledge graph, and retrieval over it
 

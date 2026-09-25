@@ -119,13 +119,16 @@ before this list.
   it — or is the ambiguity the point? **The Plot-Konkretisierung proposes the second**:
   the Kap-22 find shows the component's serial is his dwelling's — „Er wohnt in der
   Akte seiner eigenen Quarantäne.“ (its L88), marked `[V]`.
-- **Kap 40 — 39 chapters or 41 movements?** The Plot-Konkretisierung runs Kap 0 to a
-  Kap 40 coda, „41 Bewegungen“, the coda a single click „ohne Ozon“ (its L159, L229),
-  marked `[V]`. Every other read source ends at Kap 39. Unread, landed: a
-  „Kap0-Kap40-Doppelklammer“ and a „Kap40 und Kap0 Fassung“ (both 2026-05-08, 58 and
-  3 lines with `Kap 40`), and „Three-Mode Architecture: 39 Chapters“ (`grep -c`,
-  orientation only). Not a conflict yet; one source proposing a chapter is not two
-  sources disagreeing.
+- **Kap 40 — 39 chapters or 41 movements? Mostly answered by the sources, and this
+  line was wrong.** It said every read source but the Plot-Konkretisierung ends at
+  Kap 39. Reading the chapter outlines onto chapter pages (decision 013) showed
+  otherwise: seven of the eight read documents that go chapter by chapter count
+  „41 Bewegungen" — Kap 0, Kap 1–39, Kap 40 — and give Kap 40 its own entry, the
+  konsolidiertes Konzept first (its L2). Only the 2025 AEGIS subplots count „39
+  Kapitel" with no frame. `Wiki/overview/plot.md` has the positions. What is still
+  open is the coda's content, not its existence: the Plot-Konkretisierung's single
+  click „ohne Ozon" is `[V]`. Unread, landed: a „Kap0-Kap40-Doppelklammer" and a
+  „Kap40 und Kap0 Fassung" (both 2026-05-08).
 - **C13 — Köln 2026 beyond the simulation?** Two sources place the `Basisrealität`
   beyond it, while four describe the `Externe Ebene` as not outside it. J54
   equates those names by their shared attributes, so the author's decision is
@@ -191,10 +194,16 @@ before this list.
   90 seconds split four ways in parallel. No corpus text leaves: the model is
   Claude. Their output stays a model's reading (below, *The new tools as second
   readers*).
-- **A chapter table from code.** For a document whose chapters share a template, a
-  parser reads every chapter's POV, cast, sensory motif and tonal axis with its
-  line in milliseconds. Is the chapter the unit to start keeping (decision 001's
-  own condition, `GOAL.md`'s *Kapitel*)? Nothing is built beyond the one-off.
+- **Chapter-level differences as conflict records?** The chapter pages
+  (decision 013) state where the sources part per chapter — titles, worlds, what
+  happens — under `## Where the sources differ`, and `Wiki/overview/plot.md` does
+  the same for the book's shape: the storyform turn at 34/35 or 35/36, Akt III
+  from Kap 27 or Kap 29, where Kishōtenketsu's Ten begins. None became a conflict
+  record; the fifteen records stay about substance. Which of these, if any, should
+  be one is yours to say.
+- **Chapters in the graph and the app.** `graph.py` and `ui.py` do not know the
+  chapter pages yet; adding `chapter:` nodes changes the graph's self-check and the
+  retrieval bench. Wanted, and when?
 - **When the project app is rebuilt** — after every reading, as part of phase
   4's re-measure, or only on request. `scripts/ui.py` builds it; a Claude session
   publishes it to the canvas (`CLAUDE.md`, *The project app*).

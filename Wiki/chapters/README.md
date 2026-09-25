@@ -53,7 +53,7 @@ quotation against its line, as on every other page.
 
 `python3 scripts/chapters.py missing` names what is not here yet: every read
 document that writes `Kap N` with no reading on that chapter's page —
-386 <!--state:chapters.missing--> such mentions now. It does not count a range
+84 <!--state:chapters.missing--> such mentions now. It does not count a range
 (`Kap 14–26`) as naming each chapter in it, and it cannot see a numbered list
 without `Kap`, so it under-counts.
 

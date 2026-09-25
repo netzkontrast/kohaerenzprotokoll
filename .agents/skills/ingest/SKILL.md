@@ -214,6 +214,16 @@ first pass reached none of them; collecting the author's questions found all six
 The list is short — `ls Wiki/conflicts Wiki/questions` — and each record's
 subject line is enough to ask whether the document speaks to it.
 
+**Then the chapters it names** (decision 013). Once the document is reconciled,
+`python3 scripts/chapters.py missing <slug>` lists every chapter it writes as
+`Kap N` with no reading from it on that chapter's page. Where it says something
+about the chapter itself — what happens there, where, whose view — its reading
+goes on `Wiki/chapters/kap-NN.md` in the format `Wiki/chapters/README.md` gives,
+and a passage that only mentions the chapter in passing stays off. A range and a
+numbered list without `Kap` are invisible to the count, so read the document's
+own outline too. Then `python3 scripts/chapters.py overview` and
+`python3 scripts/chapters.py`, which must print 0 defects.
+
 Write `Plan/runs/<slug>/reconcile.json` with `state_before` and `state_after`, and
 `Wiki/compare/reconcile-NN-<slug>.md` as the prose record. `references/artifacts.md`
 has the exact fields. Then:
