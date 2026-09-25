@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-17"
 ---
 
@@ -184,3 +184,11 @@ in long flowing sentences, with water, current and sediment for vocabulary (L45)
 (Q1.) Her temptation, to erase the pain, „klingt sanft und ist die perfideste Falle" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45].
 Her world: „KW2 — Mnemosyne-Archipel. Parakonsistent." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] „Mnemosyne dominiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] (J49, Q5.)
 Her counter-pole is the Erasure-Pol, „Kalter Gegen-Pol zu Mnemosyne." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L53]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„**Mnemosyne** — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36)." ^[kohaerenz-protokoll-konzept-master-md.md:L508]
+With the Erasure-Pol, Mnemosyne absorbs the others: „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+In the consistency matrix: „\*\*Mnemosyne\*\* | K₀-Sub-Operator | Kohärenz-Exekutiv | — | B:OS | Klassisch | Physics/Erinnerung" ^[kohaerenz-protokoll-konzept-master-md.md:L961].
+The Vortex's first beat is set there: „| \*\*1 Convergence\*\* (Mnemosyne-Archipel) |" ^[kohaerenz-protokoll-konzept-master-md.md:L852].
+And an open point: „Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[kohaerenz-protokoll-konzept-master-md.md:L1002]
