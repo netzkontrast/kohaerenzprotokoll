@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -190,3 +190,23 @@ trigger.
 Kap 2, „Der erste Riss" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L271]: „Glitches reaktivieren Echos." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] „Zeitverlust,
 ein Blackout, eine Erinnerung, die nicht zu seinem Selbst passt." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] Its
 sensory line: „flackernde Geometrien, Kanten die unscharf werden" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L289].
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+„Risse sind die diegetisch sichtbare Manifestation der Inversion." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L397]
+„*Für AEGIS:* Symptom (Suppression-Versagen). *Für den Roman:* das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L397]
+
+**Two typologies.** By the Alter who triggers them (§3.1): [[nyx|Nyx]] kinetic,
+[[kiko|Kiko]] temporal, Kiko and [[lia|Lia]] spatial, [[moros|Moros]] gravitational,
+[[isabelle|Isabelle]] sensory, [[silas|Silas]] relational and warm, [[oblivion|Oblivion]]
+temporal and gravitational (L404–L410). By world (§3.2): KW1 logical, the
+transition out of KW1 thermal, KW2 watery and mnemonic, KW3 paranoid, KW4
+generative (L417–L421) — „Generative Risse — Stille, die anders klingt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L261]
+§1's per-world lists mix the two (L83–L90, L148, L205).
+
+The rules for writing one: „Ein Riss-Typ pro Szene." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L425]
+„Sensorische Verzerrung folgt dem Trigger." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L426] „Wer den Riss treibt, bestimmt die Phänomenologie." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L426]
+„Der Leser bekommt nie eine technische Erklärung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L427] „Risse erscheinen als Erfahrung — die Theorie liegt darunter." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L427]
+„AEGIS interpretiert jeden Riss als Suppression-Versagen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L428]
+Its warning sign: „21°C-Schwelle: Stabilität vs. thermisches Versagen. Jede Abweichung ist Riss-Vorzeichen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L383]
+And the page's alias, in Akt II's reading experience: „Glitches und Verzerrungen werden somatisch" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L603].
