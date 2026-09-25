@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -55,3 +55,8 @@ In the glossary's Alter table: role „Fight" ^[kohaerenz-protokoll-begriffe-und
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Function „Kampf, Aggression, Verteidigung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L143], correlate „CPT-Verletzung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L143], arc „aggressive Reaktivität → konstruktive Schutzhaltung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L143]. Language „Stakkato, Imperativ, keine Konnektoren" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L143]. Kap 15: „Nyx wird erstmals deutlich sichtbar" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L597].
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+As a riss trigger, Fight: kinetic — „Tempo, Stoß, Beschleunigung, Splitter, Vibration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L404].
+The chapter template names a conflict pair with [[lex|Lex]] as its first example: „(Lex↔Nyx? Rhys↔Selene? Silas↔Oblivion?)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L951]
