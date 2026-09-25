@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 16
+sources: 17
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -213,3 +213,12 @@ On the date the konsolidiertes Konzept gives Landauer warmth to Kap 6 and Kap 36
 „Die Kälte einer Trennung, die war, lange bevor *ich* war." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L425]
 Kap 0's last lines give the Konstrukt-Stadt its ozone, as something nobody can explain: „wo die Temperatur immer einundzwanzig Grad ist und manchmal die Luft nach Ozon riecht, ohne dass jemand weiß warum" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501]
 No Landauer and no heat stand in it (`Plan/runs/kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md/05-verify.txt`). The warm half the Doppel-Klammer Abhandlung of its date proposes, written; and ozone before Kap 1, three weeks before the lock of 2026-05-30.
+
+## 2026-09-25 — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+**Before the lock: warmth as Juna's hint, heat with the knuckles, cold as the system's logic, no ozone.**
+„Es ist warm. Es ist anders warm als alles, was vorher warm war, denn vorher war nichts warm." ^[kap0-v1-annotiert-md.md:L209] — annotated „Die Wärme ist erste subtile Andeutung der Juna- Resonanz-Qualität (Doppel-Lesart)." ^[kap0-v1-annotiert-md.md:L213]
+Heat stands twice, neither of them hers: „Die internen Analyseprozesse liefen heiß." ^[kap0-v1-annotiert-md.md:L713] and, in [[nyx|Nyx]]'s voice with the bleeding knuckles, „Die Luft ist heiß." ^[kap0-v1-annotiert-md.md:L977]
+Cold is the logic that cuts: „Die Kälte der Logik ist die Klinge, die mich zerteilt." ^[kap0-v1-annotiert-md.md:L985] [[silas|Silas]] says both and takes both back (L705, L829).
+No ozone stands in it, and `Landauer` only in the rule that keeps the word out of the first fifty pages: „Keine Coheronen, keine Erasonen, kein η, kein Landauer." ^[kap0-v1-annotiert-md.md:L63] (`Plan/runs/kap0-v1-annotiert-md/05-verify.txt`).
+Warmth as Juna's is the lock's side, thirteen days early; heat beside the knuckles is the pairing C10's row 1 calls the Landauer strand.
