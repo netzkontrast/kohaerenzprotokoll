@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-25"
 ---
 
@@ -46,3 +46,8 @@ it.
 - Whether the name means the inversion (this reading) or the moment the reading
   turns to it, and whether that difference is only one of naming.
 - `Große Inversion` — a surface some sources give the inversion beside this name.
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+Here the name is for what the storyforms' inversion will ground. „Die **Klein-c-Inversion** zwischen A und B (MC↔IC-Klassen tauschen, OS↔RS-Klassen tauschen) ist strukturell sauber" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L71] — „Diese Inversion ist die mechanische Grundlage der späteren Truth-Rotation." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L71]
+„Diese Klein-c-Symmetrie ist die formale Basis der Truth-Rotation: Beide Lesarten *desselben Plot-Substrats* sind strukturell legal — der Roman entscheidet erst am Vortex, welche die operative Wahrheit ist." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L260]
