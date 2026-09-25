@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -83,3 +83,9 @@ it is „gewartet" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:
 In [[juna|Juna]]'s vocabulary, which is how she appears — only through effect:
 „Anomale Erason-Bilanz, Phantom-Resonanz, Telefon-Stille, plötzliche somatische Wärme, Wörter ohne Referent." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
 Her sample: „Der Anruf klingelte nicht. Die Hand am Hörer wartete trotzdem." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Telefon-Stille als Anker — die Wahrnehmung einer Verbindung, die nicht nicht-existiert" ^[kohaerenz-protokoll-konzept-master-md.md:L562].
+„Vor zwanzig Jahren ein Telefonat. Beide wussten, dass sie zusammen sein könnten. Keiner sprach es aus. Nichts ging verloren." ^[kohaerenz-protokoll-konzept-master-md.md:L607]
+„Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle." ^[kohaerenz-protokoll-konzept-master-md.md:L623] Open: „Telefon-Stille ist ein Anker." ^[kohaerenz-protokoll-konzept-master-md.md:L994] — other modes of [[juna|Juna]] are to be set.
