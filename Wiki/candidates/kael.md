@@ -269,7 +269,7 @@ At the end: „A's Success: die innere Heilung, Kaels Integration, das Wir-Gefle
 
 ## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
 
-Kael is the remainder of the Trennungsprotokoll. What the cut severs is left in the [[ueberwelt|Innere Weite]] (J95):
+Kael is the remainder of the [[trennungsprotokoll|Trennungsprotokoll]]. What the cut severs is left in the [[ueberwelt|Innere Weite]] (J95):
 „Eine Komponente, die keine Komponente mehr ist. Eine Funktion, die keine Funktion mehr hat. Ein Rest." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L485]
 „Sein Name wird Kael sein. Aber das wissen weder er noch AEGIS noch das System, das ihn hervorbringt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L505]
 He wakes, in the next chapter, in „eine Konstrukt-Stadt" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501] (see [[konstrukt-stadt]]).
