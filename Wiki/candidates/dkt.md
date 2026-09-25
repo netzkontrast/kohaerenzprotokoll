@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -44,3 +44,13 @@ A hard rule for the prose: „Erste 50 Seiten: null DKT-Terminologie — nur Ph�
 In [[kael|Kael]]'s Akt I, no DKT terms (L69). [[mnemosyne|Mnemosyne]] may use its status lines:
 „DKT-Statuszeilen erlaubt, aber sparsam und in poetischer Einbettung." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45]
 The theory itself is not spelled out; `DKT` stands only in compounds.
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Die Dual-Kernel-Theorie (DKT) als literales Naturgesetz der Romanwelt — keine Metapher." ^[kohaerenz-protokoll-konzept-master-md.md:L37]
+„Die DKT ist im Roman keine Theorie über die Welt, sondern das, was die Welt ist." ^[kohaerenz-protokoll-konzept-master-md.md:L87]
+„Jedes narrative Ereignis muss mit ihr konsistent sein." ^[kohaerenz-protokoll-konzept-master-md.md:L87] Its section defines the two kernels,
+[[coheron|Coheronen]] and [[erason|Erasonen]], the [[persistenzgleichung|Persistenzgleichung]], Landauer as a
+law of the narration, the atemporal axis and the [[truth-rotation|Truth-Rotation]] (§II). Every Alter has a
+DKT correlate (L387–L400), and „Eine Szene encoded gleichzeitig die TSDP-Funktion und das DKT-Korrelat" ^[kohaerenz-protokoll-konzept-master-md.md:L441].
+For the prose: „Erste 50 Seiten: Null DKT-Terminologie." ^[kohaerenz-protokoll-konzept-master-md.md:L1025]
