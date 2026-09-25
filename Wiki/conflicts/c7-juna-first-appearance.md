@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 17
+sources: 18
 pages: ["juna"]
 ---
 
@@ -180,3 +180,9 @@ No chapter between the frames is named for her. Read and unchanged: neither Kap 
 „**R-8 — Juna nie als Subjekt eines Satzes, nie physisch beschrieben.** Sie erscheint nur durch Wirkung." ^[kap0-v1-annotiert-md.md:L71]
 Her effect is warmth at the first contact (L209, annotated at L213) and, from AEGIS' side, the perturbation: „Junas Resonanz erscheint als ontologische Anomalie aus AEGIS- Sicht (User-Entscheidung: Doppel-Lesart)." ^[kap0-v1-annotiert-md.md:L613]
 The rule is stated for Kap 0 and says nothing of a later scene.
+
+## 2026-09-25 — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+**No appearance placed; a witness, an echo, in danger.**
+Kap 21 „Kael (grenzbewusst), Juna-Echo" ^[three-mode-architecture-39-chapters-md.md:L265]; Kap 24 „Kael, Juna-Witness" ^[three-mode-architecture-39-chapters-md.md:L268]; Kap 28 „Call to Adventure — AEGIS' Eskalation / Juna in Gefahr" ^[three-mode-architecture-39-chapters-md.md:L333]; Kap 30 a witness again (L335).
+Her nature is left open on purpose: „Junas Natur nicht aufgelöst (Echo? Erinnerung? externe Präsenz?)" ^[three-mode-architecture-39-chapters-md.md:L494] Neither Kap 33 nor Kap 38 names her.
