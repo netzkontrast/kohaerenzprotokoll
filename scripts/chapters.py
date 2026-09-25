@@ -23,7 +23,8 @@ three things about them that are decidable:
 
 What `missing` can see is a pattern, and it says what the pattern misses. It
 finds `Kap 7`, `Kapitel 7`, `Kap. 7`, `Kap-7-Lock`, `Kap0`, lists (`Kap 18/21/22`,
-`Kap 2, 10, 25`, `Kap 0↔40`) and ranges (`Kap 1–13`). **A range is not counted
+`Kap 2, 10, 25`, `Kap 0↔40`) and ranges (`Kap 1–13`, and `Kap 14–~20` with the
+approximate bound escaped as the export writes it). **A range is not counted
 as naming each chapter in it** — `Kap 14–26` is an act, not thirteen statements.
 **A numbered list under an act heading is invisible to it**: the storyform
 outline's Akt I is `7.  **Die Stimme im Rauschen**`, with no `Kap`. So `missing`
@@ -57,11 +58,12 @@ LAST = 40                                    # Kap 0 … Kap 40: the highest any
 
 # `Kap` or `Kapitel`, then a number, then any further numbers joined by a list or
 # range mark. Not preceded by a letter, so `Unterkapitel 3` is not Kap 3; the
-# number may not run on into a decimal or a longer number.
+# number may not run on into a decimal or a longer number. A number may carry an
+# approximate `~`, which the export escapes as `\\\~`: `Kap 14–\\\~20` is a range.
 MENTION = re.compile(
-    r"(?<![A-Za-zÄÖÜäöüß])Kap(?:itels?)?(?:\\?\.|\s|-)*(\d{1,2})(?![\d,.]\d)"
-    r"((?:\s*(?:[–—-]|/|,|↔|\+|&|und|bis)\s*\d{1,2}(?![\d.]\d))*)")
-JOIN = re.compile(r"\s*([–—-]|bis|/|,|↔|\+|&|und)\s*(\d{1,2})")
+    r"(?<![A-Za-zÄÖÜäöüß])Kap(?:itels?)?(?:\\?\.|\s|-)*(?:\\*~)?(\d{1,2})(?![\d,.]\d)"
+    r"((?:\s*(?:[–—-]|/|,|↔|\+|&|und|bis)\s*(?:\\*~)?\d{1,2}(?![\d.]\d))*)")
+JOIN = re.compile(r"\s*([–—-]|bis|/|,|↔|\+|&|und)\s*(?:\\*~)?(\d{1,2})")
 READING = re.compile(r"^## Reading — `([^`]+)`", re.M)
 SECTION = re.compile(r"^## ", re.M)
 CITE = re.compile(r"\^\[([^\]]+?)\.md:L\d+(?:[–-]L?\d+)?\]")
@@ -292,6 +294,9 @@ def selftest() -> int:
         "Unterkapitel 3": (set(), set()),
         "\\*\\*Kap 33\\*\\* | Überwelt": ({33}, set()),
         "Kap 734": (set(), set()),
+        "Akt II (Kap 14–\\\\\\~20)": (set(), set(range(14, 21))),
+        "Akt II (Kap \\\\\\~20–26)": (set(), set(range(20, 27))),
+        "Vortex-Vorläufer ab \\~Kap 28.": ({28}, set()),
     }
     for line, want in mentions.items():
         if named(line) != want:
