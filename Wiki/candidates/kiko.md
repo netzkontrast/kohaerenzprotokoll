@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -91,3 +91,7 @@ Kap 40's voice lets each be heard without a label: „ein Atemzug klingt nach Le
 „Es ist kalt. Ich will nicht. Wo ist — nichts da. Wo ist — nichts. Ich. Bin. Klein." ^[kap0-v1-annotiert-md.md:L181]
 „Kiko-Vorform-Einbruch (User-Choreographie: *leiser Kiko-Einbruch der kindlichen Sensorik des Druck-Spürens*)." ^[kap0-v1-annotiert-md.md:L185] „Syntax-Signatur: kindlich- einfache Wörter, kurze Sätze, Wiederholung, Ellipsen" ^[kap0-v1-annotiert-md.md:L185]
 In the Resonanzkaskade: „Es ist kalt. Es ist wieder kalt. Wo ist — wo war es — wo war ich. Wo war wer. Wo." ^[kap0-v1-annotiert-md.md:L781] — „Kiko-Vorform wieder (Wiedererkennen der Stimme aus Herz der Leere)." ^[kap0-v1-annotiert-md.md:L785]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — one line
+
+In the roster by storyform, as an EP: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Nothing else in the document names Kiko.
