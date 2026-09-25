@@ -128,4 +128,4 @@ and the glossary. The plot overview has the mapping per source.
 - Whether the reset is one of the ending's own readings or only a projection onto
   it, and whether that difference matters once the text decides neither.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-v1-annotiert-md`, reconciled on 2026-09-25 (`Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`).
