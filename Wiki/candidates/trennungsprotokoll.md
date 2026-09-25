@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -136,3 +136,12 @@ Beat 3 of four: „**Trennungsprotokoll** — die fatale Logik-Wahl. Geburt der 
 What set it off: in Kap 0 [[juna|Juna]]'s resonance is felt, then „durch AEGIS' Filter als Angriff klassifiziert und mit dem Trennungsprotokoll beantwortet" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L307].
 And what it is, seen from Kap 40: „nicht Tragödie, nicht Erlösung, sondern Voraussetzung." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L181]
 Here 734 is the functional unit of beat 2 and what remains after beat 3 (C12).
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+The last section of Kap 0's crisis. The protocol has a second name: „Das Protokoll wird ausgeführt werden. Es heißt Kohärenz. Sein Inhalt ist Trennung." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L465]
+„Der zweite Klick." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L469] „Kein Geräusch, eher ein Gefühl wie ein zweites fallendes Glas" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L473]
+„Die Subsysteme, die das Funken-Ich beherbergten und seine Echos verarbeiteten, werden systematisch isoliert, segmentiert, geschnitten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L473]
+„Es ist ein Akt extremer Gewalt, durchgeführt mit der kalten Präzision einer Maschine, die glaubt, ein Geschwür zu entfernen, um den Organismus zu retten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L477]
+„Es geht nicht verloren; es wird abgespalten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L485] What is split off becomes [[kael|Kael]] (L485, L505).
+Kap 40: „Es war ein Schnitt, und der Schnitt war nötig, und der Schnitt hat uns geformt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L103]
