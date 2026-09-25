@@ -740,7 +740,7 @@ candidates: 581  # two of them are lines of the reader's observations, not terms
   KW-Matrix                         1 word     1 in   [286]
   Orte-Konzepte                     1 word     1 in   [287]
   Vorschlags-Ebene                  1 word     1 in   [291]
-  Juna: Kap 38 Beat 3 „Junas Erscheinung [K]" (L229); Kap 30 Junas Kanal.    0 word     0 in   []
+  Juna: Kap 38 Beat 3 `Junas Erscheinung [K]` (L229); Kap 30 Junas Kanal.    0 word     0 in   []
   Quotation marks mark console/diegetic text and cited locks; VERSALIEN lines are console output.    0 word     0 in   []
 ```
 
@@ -749,7 +749,7 @@ candidates: 581  # two of them are lines of the reader's observations, not terms
 A proposal document in three parts: a diagnosis (Teil I), thirteen plot ideas
 with the same four fields each — Was geschieht, Kapitel-Anker, Löst,
 Kanon-Prüfung (Teil II) — and one of them, F1 „Der Sachbearbeiter der
-Abweichung", worked out as a chapter-by-chapter thread (Teil III, §0–§8), then a
+Abweichung" ^[L106], worked out as a chapter-by-chapter thread (Teil III, §0–§8), then a
 source register.
 
 It labels passages `[K]` / `[V]` / `[S]` / `[L]` and says what the labels do:
@@ -762,20 +762,19 @@ The whole of §5, the chapter beats Kap 0 to Kap 40, is one line — L229, 10,32
 characters. Every citation into the chapter plan names that line, and a citation
 there says less about *where* than anywhere else in the file.
 
-The document numbers its chapters 0 to 40 (L223) and calls them „41 Bewegungen"
-(L159); Kap 40 is a Coda (L174). **One word numbers two series**: Kap 40 echoes
-the Trennungsprotokoll as „Bewegung 4" (L229), which cannot be the fifth chapter
+The document numbers its chapters 0 to 40 (L223) and calls them „die 41 Bewegungen" ^[L159]; Kap 40 is a Coda (L174). **One word numbers two series**: Kap 40 echoes
+the Trennungsprotokoll as „Bewegung 4" ^[L229], which cannot be the fifth chapter
 unit, and no list of those movements appears in the document.
 
-What the extraction ran into:
+What the extraction ran into (in the counts above, the quotation marks of the one observation line are changed to backticks, so that it is not read as a quotation):
 
 - **Two lines of the reader's observations were counted as candidates** —
-  the ones without a comma, „Juna: Kap 38 Beat 3 …" and „Quotation marks …".
+  the ones without a comma, `Juna: Kap 38 Beat 3 …` and `Quotation marks …`.
   `capture.py` reads a `- ` line with a comma as prose and one without as a term.
   They are not terms; the list is left as counted, so the 581 includes them.
 - **Twelve candidates with a comma were read as prose and not counted**, among
-  them the idea titles „Die Leitung, die in keinem Plan steht" and „Eine Löschung,
-  von innen", and `Bestandspflege, Stufe 2`.
+  them the idea titles „Die Leitung, die in keinem Plan steht" ^[L62] and „Eine Löschung,
+  von innen" ^[L94], and `Bestandspflege, Stufe 2`.
 - **The export escaping defeats the count on the labels**: `[K]`, `[V]`, `[S]`,
   `[L]` and `[DATENTYP_FEHLT]` count 0 because the file writes `\[K\]` and
   `\[DATENTYP\_FEHLT\]`, and the three source file names in the register count 0
@@ -783,7 +782,7 @@ What the extraction ran into:
 - **Inflection**: `Algorithmische Melancholie`, `unbedienbarer Datensatz`,
   `privates Register`, `offener Posten` and `sanfter Apparat` were listed in the
   nominative and stand in the text only inflected; `Sequenz 251` is written
-  „114 auf 251".
+  „114 auf 251" ^[L56].
 - **Subscripts survived**: `K₀` and `K₁` are written with the Unicode subscripts,
   and count only inside compounds (`K₁-Spuren`, `K₀-Architektur`).
 - Borrowed lenses (`P vs. NP`, `Halteproblem`, `Kant`, `Kishōtenketsu`,
@@ -793,4 +792,4 @@ What the extraction ran into:
 Heat is placed three ways, and the document relates them: the Landauer-Signatur
 is cold ozone and follows every Ausgleich (L133); Silas leaves warmth where he
 stood, as the Coheron-Echo (L80); and Kap 36 Beat 4 is the „einziger kanonischer
-Landauer-Wärme-Ort" (L229), restated as „Landauer-Wärme ausschließlich Beat 4" ^[L239].
+Landauer-Wärme-Ort" ^[L229] (L229), restated as „Landauer-Wärme ausschließlich Beat 4" ^[L239].

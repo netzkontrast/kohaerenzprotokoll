@@ -45,7 +45,7 @@ The lock table restates it: „Landauer-Wärme ausschließlich Beat 4" ^[L239].
 Kap 0: „Komponente 734 wird konsolidiert" ^[L164].
 The flashbacks come in three chapters, in this order: „Genesis-Flashback Cluster-Bildung" ^[L229] in Kap 18,
 „Genesis-Flashback Trennungsprotokoll" ^[L229] in Kap 21, and in Kap 22 the 734 find (L88, L229).
-Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^[L229]. The document lists no other movement, and it uses the same word for its 41 chapter units (L159), so „Bewegung 4" numbers a second series that the document does not lay out.
+Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^[L229]. The document lists no other movement, and it uses the same word for its 41 chapter units (L159), so „Bewegung 4" ^[L229] numbers a second series that the document does not lay out.
 
 `Einheit 734` is the dwelling and the component at once. The Kap-22 find: „Die Kennung ist die seiner Wohneinheit" ^[L88].
 „Er wohnt in der Akte seiner eigenen Quarantäne." ^[L88]
