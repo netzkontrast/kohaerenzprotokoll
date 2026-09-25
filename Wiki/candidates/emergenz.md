@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept"]
 gathered: "2026-09-16"
 ---
 
@@ -75,3 +75,12 @@ neue Coheronen entstehen können" ^[kohaerenz-protokoll-kernwelten-vollstaendig-
 Kap 20: „Emergenz als Mechanik." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] „Kreatives Wir-Handeln statt reflexhaftes
 Reagieren." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] Its sensory line: „fluide Regeln, Emergenz-Texturen, eine
 Kernwelt die mit-denkt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L725].
+
+## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
+
+**Emergence in a Guardian's domain, not in AEGIS' origin.** [[kairos|Kairos]]' domain is
+„Potenzial, Kreativität, Transformation, Emergenz, das Unvorhersehbare" ^[guardians-und-kern-welten-konzept.md:L100], and his
+mandate the „Förderung des kreativen Potenzials, der transformativen Möglichkeiten und emergenter Phänomene innerhalb des Systems" ^[guardians-und-kern-welten-konzept.md:L101].
+Emergence as something inside the system to be fostered, the sense the 2026
+sources above give KW4, a year before them. Not conflict `C3`'s question, which is
+where [[aegis|AEGIS]] comes from. Found by the sweep (decision 012).
