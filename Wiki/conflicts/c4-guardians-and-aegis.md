@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 7
+sources: 8
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -184,3 +184,10 @@ nicht erfassen kann" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.m
 
 **AEGIS' side, named three ways.** What AEGIS is blind to: „Juna strukturell (atemporal, nicht messbar), K₁-Reinform (klassifiziert als „uncorrelated noise"), die eigene Genesis (verdrängt)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
 In Kap 38 it stays „strukturell blind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]. The Guardians get no blind spot.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**[[aegis|AEGIS]] blind inward, and a Guardian lacking — neither called a blind spot.**
+[[silas|Silas]]: „AEGIS kann ihn strukturell nicht erfassen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] [[oblivion|Oblivion]]: „Aber: AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]
+[[mnemosyne|Mnemosyne]]: „Sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
+Both of the record's bearers in one document, and a limit for each.
