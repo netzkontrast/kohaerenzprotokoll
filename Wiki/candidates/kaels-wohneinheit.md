@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -96,3 +96,10 @@ Its chapter anchor carries the Kap-1 console line — „Kap 1 (einmal als Konso
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
 As „Wohneinheit 734-K" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105] (J58), with two more numbers in one line: „Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — Wohneinheit 734, and its number
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„In Wohneinheit 734 existiert ein Anschluss, den kein Bauplan führt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64] The Kap-22 find makes the number the component's:
+„Die Kennung ist die seiner Wohneinheit" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]; „Er wohnt in der Akte seiner eigenen Quarantäne." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (J80)
