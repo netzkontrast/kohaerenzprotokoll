@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-16"
 ---
 
@@ -277,3 +277,13 @@ Kap 40's Wir says it the other way round: „Kael war das Cluster, das aus Kompo
 „Er war die Hälfte, die fühlte, weil die andere Hälfte das Fühlen nicht halten konnte und es deshalb auslagerte." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63]
 His way through the book, as the Wir counts it: „durch dreizehn Stufen folgten und durch dreizehn Zyklen und durch dreizehn Verwandlungen" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63]
 No knuckles stand in the draft (C10).
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the component in the middle of the row
+
+In Kap 0 he is not named in the prose. The component the Funken-Ich becomes is: „Die Funktionseinheit trägt eine Nummer, die in der Bilanzführung des Systems referenziert wird; sie liegt in der Mitte einer langen Reihe und ist nicht besonders." ^[kap0-v1-annotiert-md.md:L429]
+The annotation: „gerade diese Komponente wird Kael." ^[kap0-v1-annotiert-md.md:L433]
+The bleeding knuckles, in the Nyx voice as the separation runs: „Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten. Sie bluten trotzdem." ^[kap0-v1-annotiert-md.md:L977]
+annotated „Die Knöchel-Referenz ist ein direktes Foreshadow des Kael-Akt-I-Anfangs aus dem Konzept-Dokument" ^[kap0-v1-annotiert-md.md:L981].
+After „Ich falle… in unzählige Scherben…" ^[kap0-v1-annotiert-md.md:L1009] Kap 0 ends in his voice: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[kap0-v1-annotiert-md.md:L1021] „Ich bin pünktlich." ^[kap0-v1-annotiert-md.md:L1025]
+„*Ich bin pünktlich* als Schlussbild — die Funktionsfähigkeit ist hergestellt; was verloren ging, wird nicht bemerkt." ^[kap0-v1-annotiert-md.md:L1029]
+His own lines carry no knuckles; the Nyx line before them does (C10). He is the component, not a remainder of it (C12).
