@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -117,3 +117,8 @@ In the crisis: „Es war kalt. — Es war nicht kalt. Es war anders. Etwas in mi
 „Silas-Vorform-Echo (User-Choreographie). Syntax-Signatur: Echo-Prosa, selbstkorrigierende Sätze, Wiederholung mit Verschiebung." ^[kap0-v1-annotiert-md.md:L709]
 In the Resonanzkaskade: „— Es war warm gewesen, einmal. — Nein, es war nicht warm. Es war anders. Es war nicht da. Es war." ^[kap0-v1-annotiert-md.md:L829] — „Silas-Vorform-Echo wieder." ^[kap0-v1-annotiert-md.md:L833]
 The writer names his prose as one carrier of the Doppel-Lesart: „durch Silas' Echo- Prosa kurz danach" ^[kap0-v1-annotiert-md.md:L641].
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+„Spiegel-Alters (Silas = Coheron-Echo, Oblivion = Erason-Operator) → Bridge-natürlich, beide Storyforms simultan" ^[three-mode-architecture-39-chapters-md.md:L137]
+In Part 3 his scenes are bridge candidates: „Spiegel-Alter-Szenen (Silas in Kap 31 oder 32, Oblivion in Kap 32 oder 33)" ^[three-mode-architecture-39-chapters-md.md:L372].
