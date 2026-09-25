@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["kael"]
 ---
 
@@ -90,3 +90,10 @@ And the Landauer strand — the character bible's in its words, row 1 above — 
 Kap 1 as its first trace and moves the knuckles out of it: „Kap 1 (Knöchel-Blutung *in Kap 0*, in Kap 1 spurlos; Ozon-Atmosphäre Kap 1 diffus)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445].
 The return is open, OQ-Knöchel: „Form der Wiederkehr (oder Verzicht)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1439].
 Row 2's side.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**The character bible's trait, with the lock written into it.** In the Host's somatics:
+„Knöchel, die manchmal bluten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125] — „Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125].
+The trait is row 1's source's and the strukturierter Outline's; the chapter is row 2's.
+The knuckles are not among its foreshadowing anchors (L1042–L1063).
