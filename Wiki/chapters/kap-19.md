@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,15 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Storyform: „A: MC-Issue, Systemlüge wird klarer benannt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L580] · „B: OS-Physics, AEGIS' Erasure-Logik tritt offen auf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L580]
 - Sensorik: „kalte Stimme, KI-Ethik-Kalkül“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L580]
 - Genesis echo: „AEGIS' offene Logik ist die Algorithmische Schrecken-Phase aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L580]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Z2-AEGIS-Intervention“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L997]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Z2 (Kap 18–20)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L866]
+
+- Story: „Systemlüge wird klarer.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L998]
+- Storyform: „A: MC-Issue. B: OS-Physics, Erasure-Logik tritt offen auf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L998]
+- Sensorik: „Sensorik: kalte Stimme, Ethik-Kalkül.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L998]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

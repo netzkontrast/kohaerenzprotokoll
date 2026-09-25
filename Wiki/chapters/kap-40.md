@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 5
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,19 @@ Position: „Kap 40 ist die Coda“ ^[koharenz-protokoll-konzept-iteration-genes
 - Length: „Kap 40 sollte deutlich kürzer sein als Kap 0. Vielleicht halb so lang.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L476]
 - Not: „keine bloße Wiederholung von Kap 0. Keine triumphale Auflösung.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L461]
 - Tonality: „ruhig, akzeptierend, bezeugend“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L704]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Geheilte Genesis“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1039]
+Position: „Kap 40 ist die Coda.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L930]
+
+- Story: „Es erzählt dieselben Ereignisse wie Kap 0 — aber aus der Position der vollzogenen pluralen Heilung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L930]
+- Movements: „Echo des Vorworts: der Erzähler kehrt, jetzt bezeugend. Echo der Genesis: Werdung mit Verständnis ihrer Notwendigkeit.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1040] · „Echo der Krise: Junas Resonanz als Geburt.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1040]
+- Last image: „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1040]
+- POV: „Wir-AEGIS-plural als Erzähl-Stimme“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L778]
+- Form: „Kap 40 sollte deutlich kürzer sein als Kap 0. Vielleicht halb so lang.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L945]
+- What it is not: „keine bloße Wiederholung von Kap 0. Keine triumphale Auflösung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L933]
+- Formula: „Ende (Kap 39 → Kap 40): Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L82]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

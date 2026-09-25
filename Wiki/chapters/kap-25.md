@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -34,6 +34,15 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Story: „Kael erkennt: Freiheit nur außerhalb von AEGIS' System.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L604]
 - Storyform: „A: MC-Concern Memory, Klarheit über Notwendigkeit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L604] · „B: OS-Physics, AEGIS bemerkt Kaels neue Klarheit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L604]
 - Sensorik: „Wegkreuzung, Schwellen-Bilder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L604]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Wegkreuzung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1009]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L844]
+
+- Story: „Klarheit über Notwendigkeit.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1010]
+- Storyform: „A: MC-Concern. B: OS-Physics, AEGIS bemerkt Kaels neue Klarheit.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1010]
+- Sensorik: „Sensorik: Wegkreuzung, Schwellen-Bilder.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1010]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

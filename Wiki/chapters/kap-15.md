@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,15 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Story: „Trigger in Kernwelt reaktiviert Trauma-Angst und unintegrierten Anteil.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L564]
 - Storyform: „A: MC-Problem Avoidance reaktiviert“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L564] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L564]
 - Sensorik: „Schattenwurf, Babymonster-Welt-Resonanz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L564]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Z1-Trigger“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L989]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Z1 (Kap 15–17)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L861]
+
+- Story: „Trigger reaktiviert Trauma-Angst.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990]
+- Storyform: „A: MC-Problem Avoidance reaktiviert. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990]
+- Sensorik: „Sensorik: Schattenwurf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

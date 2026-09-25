@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,15 @@ Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[kohar
 - Story: „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616]
 - Storyform: „A: MC-Issue, Notwendigkeit zu handeln“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616] · „B: OS-Physics, Erasure-Drohung explizit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616]
 - Sensorik: „drohende Spannung, Countdown-Marker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „AEGIS' Eskalation“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1015]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] · „HR-Stufe 2: Call to Adventure“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1015]
+
+- Story: „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1016]
+- Storyform: „A: MC-Issue. B: OS-Physics, Erasure-Drohung explizit.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1016]
+- Sensorik: „Sensorik: drohende Spannung, Countdown-Marker.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1016]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

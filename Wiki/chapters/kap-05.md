@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -36,6 +36,16 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Storyform: „A: MC-Concern Memory, scheinbarer Fortschritt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524]
 - Sensorik: „spiegelglatter Erfolg, sensorisch flach“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524]
 - Genesis echo: „als Bestätigung der Isolationsstrategie — derselbe Algorithmus wie damals beim großen Wandel“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Auge des Sturms“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L969]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „HR-Stufe 5: falscher Erfolg“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L969]
+
+- Story: „Trügerische Stabilität.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L970]
+- Stage: „Auge des Sturms — falscher Erfolg (trügerische Stabilität)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L823]
+- Storyform: „A: MC-Concern Memory. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L970]
+- Sensorik: „Sensorik: spiegelglatter Erfolg, sensorisch flach.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L970]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

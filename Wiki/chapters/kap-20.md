@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,15 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Story: „Kreative Lösung durch fluide Regelnutzung.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L584]
 - Storyform: „A: MC-Solution, erste bewusste Pursuit-Bewegung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L584] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L584]
 - Sensorik: „fluide Regeln, Emergenz-Texturen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L584]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Z2-Lyons-Kreativität“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L999]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Z2 (Kap 18–20)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L866]
+
+- Story: „Erste bewusste Pursuit-Bewegung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1000]
+- Storyform: „A: MC-Solution. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1000]
+- Sensorik: „Sensorik: fluide Regeln, Emergenz.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1000]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

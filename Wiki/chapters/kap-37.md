@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,17 @@ Position: „Phase C (Kap 37) — Trügerischer Sieg“ ^[koharenz-protokoll-kon
 - Sensorik: „kristallisiertes Gewebe, neue Architektur — mit feinen Sprüngen am Rand der Wahrnehmung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L652]
 - Genesis echo: „diesmal nicht von außen kommend, sondern von innen, weil das Universum ohne AEGIS ungeschützt ist“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L652]
 - Tonality: „trügerisch ruhig“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L701]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Der Gärtner / Trügerischer Sieg“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1033]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase C (Kap 37) — Trügerischer Sieg.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L902]
+
+- Story: „Klassischer Reward-Beat als falscher Frieden.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L902] · „Am Rand der Wahrnehmung beginnt etwas zu zerfasern.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L902]
+- Tone: „Kristallisierte Ruhe mit feinem Unterton.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034]
+- Storyform: „A: MC-Concern, neue Rolle als Hüter. B: scheinbar nicht aktiv, aber feine Echos des Rauschens.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034] · „nur A scheinbar, mit feinen B-Echos als Rauschen-Vorzeichen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L772]
+- Sensorik: „Sensorik: kristallisiertes Gewebe, feine Sprünge am Rand.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034]
+- Genesis echo: „Genesis-Echo: das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

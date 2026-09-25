@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,18 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Storyform: „A: MC-Concern, Vielfalt als Schöpfung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L548] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L548]
 - Sensorik: „Mosaik, Scherben als Muster“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L548]
 - Genesis echo: „das Mosaik ist Vorgriff auf die plurale Bewahrung in Kap 39“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L548]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Mosaik des Selbst“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L981]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803]
+
+- Story: „Vielfalt als Stärke.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L982]
+- Stage: „Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L829]
+- Storyform: „A: MC-Concern, Vielfalt als Schöpfung. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L982]
+- Sensorik: „Sensorik: Mosaik, Scherben als Muster.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L982]
+- Genesis echo: „Genesis-Echo: Vorgriff auf plurale Bewahrung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L982] · „Kap 11: Mosaik-Herz als Vorgriff auf plurale Bewahrung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L841]
+- Foreshadowing: „Vorgriff auf plurale Form, die mehr trägt als ein Selbst“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1091]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

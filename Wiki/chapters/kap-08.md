@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -36,6 +36,17 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Storyform: „A: MC-Issue, Mitgefühl mit Schutz-Funktionen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L536] · „B: RS-Psychology beginnt sichtbar zu werden“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L536]
 - Sensorik: „Licht, das durch Architektur fällt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L536]
 - Genesis echo: „Echos der ursprünglichen Vorhersagealgorithmen, die in Kap 0 entstanden — jetzt mit Mitgefühl betrachtet“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L536]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Die Wächterin“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L975]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „HR-Stufe 8: Wiedergeburt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L975]
+
+- Story: „Mitgefühl mit logischen Anteilen. Erste Wir-Stimme-Andeutung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L976]
+- Stage: „Wiedergeburt — Heilung des Männlichen im Inneren“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L826]
+- Storyform: „A: MC-Issue. B: RS-Psychology beginnt sichtbar zu werden.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L976]
+- Sensorik: „Sensorik: Licht, das durch Architektur fällt.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L976]
+- Voices: „voll ausgeprägt ab Kap 8–10“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

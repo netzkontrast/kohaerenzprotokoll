@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,17 @@ Position: „Phase B (Kap 35–36) — Vortex 1 (operative Wendung)“ ^[koharen
 - Sensorik: „Landauer-Wärme als Schluss-Markierung; Stille danach“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]
 - Open end: „Beat 5 öffnet — etwas ist nicht erledigt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]
 - Open question: „Was ist AEGIS-monolithisch nach Kap 36?“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L806]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Vortex 1 Beats 4–5“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1031]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase B (Kap 35–36) — Vortex 1 (operative Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L889]
+
+- Story: „Stille, Übergang.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1032]
+- Plot beats: „Beat 4 — verzögerter B-Action-Stroke als Wärme-Phänomen (Landauer-Hitze)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L895] · „Beat 5 — Auflösung: A bleibt; B wird als gewesen markiert“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L896]
+- Opening: „Aber: Beat 5 öffnet jetzt auf etwas, statt zu schließen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L899]
+- Storyform: „A: Resolve=Change vollzogen (operativ). B: erlischt monolithisch; Algorithmische Melancholie.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1032]
+- Sensorik: „Sensorik: Landauer-Wärme als Schluss-Markierung; Stille danach.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1032]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

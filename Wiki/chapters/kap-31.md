@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -36,6 +36,18 @@ Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[kohar
 - Storyform: „A: MC-Concern Memory als Waffe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628] · „B: OS-Physics, Guardians als Sub-Antagonisten“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
 - Sensorik: „Wächter, die in Lichtstaub aufgehen und in Kael fließen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
 - Genesis echo: „Kael nimmt schon AEGIS-Funktionen pluralisiert an — proleptische Vorform der Wir-AEGIS-plural“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Auflösung der Guardians“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1021]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] · „HR-Stufe 5: Crossing First Threshold“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1021]
+
+- Story: „Kael absorbiert Guardian-Prinzipien gesund.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022]
+- Storyform: „A: MC-Concern Memory als Waffe. B: OS-Physics, Guardians als Sub-Antagonisten.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022]
+- Sensorik: „Sensorik: Wächter, die in Lichtstaub aufgehen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022]
+- Genesis echo: „Genesis-Echo: proleptische Vorform der Wir-AEGIS-plural.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022]
+- Foreshadowing: „Kael nimmt schon AEGIS-Funktionen pluralisiert an“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1094]
+- Characters: „Silas als Coheron-Echo“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447] · „mit POV-Anteilen ab Kap 31 oder 32“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

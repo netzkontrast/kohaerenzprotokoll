@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -36,6 +36,16 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Sensorik: „asynchrone Sensorik, Glitch-Texturen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L576]
 - Genesis echo: „Genesis-Beat 2 (Cluster) wird flashback-mäßig durch Kael durchgespielt; er erlebt fremde Erinnerungen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L576]
 - Open question: „mit präzisen Beats in 18 (Cluster), 21 (Trennungsprotokoll), 22 (Komp 734). Aber das sind Vorschläge.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Z2-Cache-Konflikt + Genesis-Cluster“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L995]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Z2 (Kap 18–20)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L866]
+
+- Story: „Multi-Welten-Aufgabe scheitert.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L996]
+- Genesis flashback: „Genesis-Flashback: Cluster-Bildung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L996]
+- Storyform: „A: MC-Concern Memory. B: OS-Physics, AEGIS' Topologie-Manipulation sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L996]
+- Sensorik: „Sensorik: asynchrone Sensorik, Glitch-Texturen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L996]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,18 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Sensorik: „warmer Windstoß in eisiger Welt, fremde Melodie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516]
 - Genesis echo: „Junas Erscheinung ist die ontologische Anomalie aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516]
 - Leitmotiv: „Junas Witness-Modus von Kap 3 bis Kap 38 ist eine durchgehende Frequenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L720]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Bunker-Bau“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L965]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „HR-Stufe 3: Erwachen & Vorbereitung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L965]
+
+- Story: „Kael (Lex-dominant) baut mentale Festung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L966]
+- Stage: „Erwachen & Vorbereitung — Identifikation mit dem Männlichen (Bunker-Bau als Avoidance-Reaktion)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L821]
+- Storyform: „A: MC-Problem Avoidance als ANP-Funktion. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L966]
+- Sensorik: „Sensorik: Glas, Stahl, Festungs-Architektur.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L966]
+- Voices: „mit ersten Stilcode-Einbrüchen anderer Alters ab Kap 2–3“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810]
+- Juna: „Junas Witness-Modus von Kap 3 bis Kap 38 ist eine durchgehende Frequenz“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1060]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

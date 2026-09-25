@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,17 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Sensorik: „Garten, Pflege, lebendige Ordnung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L556]
 - Genesis echo: „das System wiederholt sein Muster“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L556]
 - Genesis echo (Teil III): „Kap 13: die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L360]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Tanz im Garten“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L985]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803]
+
+- Story: „Innere Praxis etabliert.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L986]
+- Stage: „Tanz im Garten — neue innere Welt (Praxis etabliert)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L831]
+- Storyform: „A: MC-Concern. B: OS-Physics, AEGIS bereitet Phase-2-Stress-Tests vor.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L986]
+- Sensorik: „Sensorik: Garten, Pflege, lebendige Ordnung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L986]
+- Genesis echo: „Kap 13: die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L842]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

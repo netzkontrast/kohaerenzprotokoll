@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,16 @@ Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[kohar
 - Story: „Polyphoner Kael, Spiegel-Alter aktiv. AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L632]
 - Storyform: „A: MC-Issue, Wahrheits-Test gegen logische Fallen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L632] · „B: OS-Physics, kybernetische Manöver“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L632]
 - Sensorik: „logische Labyrinthe, Echo-Räume“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L632]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Logische Labyrinthe“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1023]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] · „HR-Stufe 6: Tests“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1023]
+
+- Story: „Polyphoner Kael, Spiegel-Alter aktiv (Silas, Oblivion).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1024]
+- Storyform: „A: MC-Issue, Wahrheits-Test. B: OS-Physics, kybernetische Manöver.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1024]
+- Sensorik: „Sensorik: logische Labyrinthe, Echo-Räume.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1024]
+- Characters: „mit POV-Anteilen ab Kap 31 oder 32“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447] · „Oblivion als Erason-Operator“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448] · „mit POV-Anteilen ab Kap 32 oder 33“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,15 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Sensorik: „unvorhersehbare Systemverwerfungen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592]
 - Genesis echo: „Kael erkennt einen Moment lang: ich war Komp 734; verliert das Wissen aber sofort wieder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592]
 - Open question: „mit präzisen Beats in 18 (Cluster), 21 (Trennungsprotokoll), 22 (Komp 734). Aber das sind Vorschläge.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Z3-AEGIS-Eskalation + Genesis-Flashback“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1003]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Z3 (Kap 21–23)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L871]
+
+- Genesis flashback: „Genesis-Flashback: Komp 734. Berechenbarkeitsgrenzen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1004]
+- Storyform: „A: MC-Issue. B: OS-Physics, Erasure-Kosten sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1004]
+- Sensorik: „Sensorik: unvorhersehbare Systemverwerfungen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1004]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

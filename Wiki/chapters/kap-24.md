@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,16 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Storyform: „A: RS-Physics dominant, Verbindung trotz Störung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L600] · „B: OS-Psychology, Host-System-Verstrickung wird komplex“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L600]
 - Sensorik: „Telefon-Stille als Anker, Witness-Modus“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L600]
 - Genesis echo: „Junas Witness-Modus ist die ursprüngliche Form ihrer Anwesenheit aus Kap 0 — sie greift nicht ein, sie ist da“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L600]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Telefon-Stille“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1007]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „wiederkehrendem K-J-Thema (Kap 24)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L844]
+
+- Story: „K-J-Verbindung wird zyklisch von AEGIS gestört.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1008]
+- Storyform: „A: RS-Physics dominant. B: OS-Psychology, Host-System-Verstrickung wird komplex.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1008]
+- Sensorik: „Sensorik: Telefon-Stille als Anker, Witness-Modus.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1008]
+- Genesis echo: „Genesis-Echo: Junas Witness-Modus = ursprüngliche Form ihrer Anwesenheit.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1008]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

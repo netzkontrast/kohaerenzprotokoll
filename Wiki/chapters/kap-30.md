@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,17 @@ Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[kohar
 - Sensorik: „klingender Kanal, Resonanz-Maximum“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L624]
 - Genesis echo: „Junas Kanal ist der Ur-Resonanz-Modus aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L624]
 - Throughline: „Kulmination in Kap 30 (Mentor-Begegnung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L243]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Junas Kanal“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1019]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] · „HR-Stufe 4: Meeting Mentor“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1019]
+
+- Story: „K-J-Verbindung wird stabiler bewusster Kanal.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1020]
+- Storyform: „A: RS-Physics, Moonshine als bewusster Kanal. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1020]
+- Sensorik: „Sensorik: klingender Kanal, Resonanz-Maximum.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1020]
+- Genesis echo: „Genesis-Echo: Junas Kanal = Ur-Resonanz-Modus, jetzt angenommen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1020]
+- Throughline: „Kulmination in Kap 30 (Mentor-Begegnung)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L698]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

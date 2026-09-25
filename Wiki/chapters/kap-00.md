@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 5
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,20 @@ Position: „AEGIS' Werdung und Trennungsprotokoll als ontologische Grundlegung�
 - Storyform: „spezifisch — B's eigene MC-Throughline“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L279] · „nur B aktiv“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L279]
 - Function: „Der Leser kennt von Anfang an die kosmologische Wahrheit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L310]
 - Tonality: „philosophisch-vermittelnd, einladend“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L689] · „eskalierend, schreiend“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L691]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Genesis-Prolog“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L959]
+Position: „VIII.3 Kap 0 — Genesis komplett“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L782]
+
+- Story: „Vorwort + Genesis komplett + Krise + Trennungsprotokoll.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L960]
+- POV: „Erzählt aus der fluiden Funken-Ich/AEGIS-Beschreibung-Perspektive.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L960]
+- Genesis: „Genesis-Sequenz in voller Form: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L787]
+- Crisis: „Die Krise in voller Form: Stille Wacht → Perturbation aus der Leere → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L789]
+- Ending: „Ich falle... in unzählige Scherben…“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L790]
+- Link to Kap 1: „Dieser Schluss schließt nahtlos an Kap 1 an — Kael erwacht in Kernwelt 1 ohne Erinnerung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L793]
+- Storyform: „spezifisch — B's eigene MC-Throughline“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L756] · „nur B aktiv“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L757]
+- Formula: „Anfang (Kap 0): AEGIS ist, was AEGIS verhindert, dass es nicht ist.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L79]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

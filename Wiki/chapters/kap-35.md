@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,17 @@ Position: „Phase B (Kap 35–36) — Vortex 1 (operative Wendung)“ ^[koharen
 - Sensorik: „glühender paradoxer Code, brechende Stimme“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L644]
 - Genesis echo: „diesmal innen statt außen, durch Pluralität statt durch Einsamkeit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L644]
 - Leitmotiv: „dem Vortex 1-Einrasten in Kap 35“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L718]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Vortex 1 Beats 1–3“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1029]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase B (Kap 35–36) — Vortex 1 (operative Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L889] · „HR-Stufe 9: Ordeal“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1029]
+
+- Story: „Einspeisung des paradoxen Selbst. AEGIS bricht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1030]
+- Plot beats: „Beat 1 — Anlauf: Kael formuliert das Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L892] · „Beat 2 — Einspeisung: paradoxe Selbst-Aussage in AEGIS' Logik; AEGIS' Stimme stottert“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L893] · „Beat 3 — Stille: minimal, ohne Ereignisse“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L894]
+- Storyform: „A: MC-Solution Pursuit vollzogen. B: AEGIS-Solution Feeling nicht adoptiert — Failure manifest.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1030]
+- Sensorik: „Sensorik: glühender paradoxer Code, brechende Stimme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1030]
+- Leitmotiv: „dem Vortex 1-Einrasten in Kap 35“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1058]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

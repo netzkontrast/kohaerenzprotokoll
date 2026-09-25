@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,16 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Sensorik: „zerbrochene Fassade, Sprünge im Raum“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L560]
 - Genesis echo: „AEGIS' Erasure-Welle ist exakt das Verfahren des Trennungsprotokolls aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L560]
 - Method: „oder Kap 14 (Akt-II-Eröffnung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L822]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Bruch des Gleichgewichts“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L987]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Modus-Wechsel zu zyklisch“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L987]
+
+- Story: „Alte Wunden reißen auf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L988]
+- Storyform: „A: MC-Issue. B: OS-Physics, erste Erasure-Welle.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L988]
+- Sensorik: „Sensorik: zerbrochene Fassade, Sprünge im Raum.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L988]
+- Frame: „eingerahmt von Bruch (Kap 14)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L844]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

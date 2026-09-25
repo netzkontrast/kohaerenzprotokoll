@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,16 @@ Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[kohar
 - Story: „Kael (Wir) vs. AEGIS (Makro-Log). Verbales und metaphysisches Duell.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L640]
 - Storyform: „A: MC-Concern dominant; Pursuit als Stand“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L640] · „B: OS-Physics, AEGIS-Datenlast“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L640]
 - Sensorik: „Orkan vs. Sphäre, kollidierende Tonalitäten“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L640]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Konfrontation: Zwei Arten der Kohärenz“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1027]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] · „HR-Stufe 8“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1027]
+
+- Story: „Kael (Wir) vs. AEGIS (Makro-Log).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1028]
+- Storyform: „A: MC-Concern dominant; Pursuit als Stand. B: OS-Physics, AEGIS-Datenlast.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1028]
+- Sensorik: „Sensorik: Orkan vs. Sphäre.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1028]
+- Tone: „Orkan-energetisch (33–34)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L928]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

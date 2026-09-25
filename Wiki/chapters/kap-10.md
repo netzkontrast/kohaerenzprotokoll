@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,18 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Sensorik: „Netzwerke, Graphen, Resonanz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L544]
 - Genesis echo: „der Cluster-Bildung kannte — jetzt zwischen-personell statt intra-system“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L544]
 - Reader: „Die Multiplizität wird im Roman nicht ausgesprochen bis \~Kap 10“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L329]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Die erste Brücke“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L979]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803]
+
+- Story: „K-J-Verbindung als Werkzeug; Quanten-Nichtlokalität.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980]
+- Stage: „Erste Anwendung der Integration (K-J als Werkzeug, Quanten-Nichtlokalität)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L828]
+- Storyform: „A: RS-Physics, Moonshine als Werkzeug. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980]
+- Sensorik: „Sensorik: Netzwerke, Resonanz.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980]
+- Genesis echo: „Genesis-Echo: Moonshine als Echo der Cluster-Bildung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980]
+- Reader: „Multiplizität wird im Roman nicht ausgesprochen bis ~Kap 10.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L813]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,7 +1,7 @@
 ---
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-25"
 ---
 
@@ -45,6 +45,21 @@ several of these documents call themselves canon, and none retires another
 - Storyforms A and B: „Die zwei Storyforms (A‖B) laufen orthogonal über alle 41 Bewegungen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L272] · „A dominant, B latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L280] · „A‖B in echter Polyphonie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L281] · „Vortex-Vorläufer eskalieren“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L282]
 - Vortex placements: „beides simultan, dann B beginnt zu erlöschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L283] · „Synthese (c) entsteht, A und B als integrierte Vorstufen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L285]
 - Chapter count: „Der Leser liest die 39 Kapitel mit doppeltem Bewusstsein“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L311] · „Das Spec-Dokument vom 2026-05-08 (drei Modi, 39 Kapitel) muss um Kap 0 und Kap 40 erweitert werden“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L818]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+- Count: „Umfang: 41 Bewegungen — Kap 0 (Genesis-Prolog), Kap 1–39 (Hauptroman), Kap 40 (geheilte Genesis als Coda)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L2]
+- Blocks: „Der Roman hat 41 Bewegungen — Kap 0, Kap 1–39, Kap 40 — die in fünf strukturelle Blöcke gegliedert sind“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L721]
+- Teil 1: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „Kael durchläuft 13 Stufen einer adaptierten Heldinnenreise nach Murdock/Schmidt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L804]
+- Teil 2: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Drei Zyklen à drei Stufen (Destabilisierung → Reaktion → Korrektur)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L844]
+- Cycles: „Z1 (Kap 15–17)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L861] · „Z2 (Kap 18–20)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L866] · „Z3 (Kap 21–23)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L871] · „Genesis-Flashback-Cluster in der Mitte (Kap 18–22)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L847]
+- Teil 3: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Akt III äußere Konfrontation (27–34), Vortex 1 (35–36), trügerischer Sieg (37), Vortex 2 (38–39 = plurale Apotheose)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L742]
+- Vortex: „Phase B (Kap 35–36) — Vortex 1 (operative Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L889] · „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L905] · „Eigene 5-Beat-Architektur.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L905]
+- Modes vs storyform: „die Modus-Grenzen sind keine Storyform-Grenzen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L781] · „Die echte Storyform-Wendung — der Übergang von B nach A — liegt bei Kapitel 35–36“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L781]
+- Storyforms: „A: Heuristics of Integration / Kael-MC; B: Phoenix Collapse / AEGIS-MC“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L44] · „Die zwei Storyforms (A‖B) laufen orthogonal über alle 41 Bewegungen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L749]
+- Storyform per block: „A dominant, B latent“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L760] · „A‖B in echter Polyphonie; Genesis-Flashback-Cluster in der Mitte“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L763] · „Synthese (c) entsteht, A und B als integrierte Vorstufen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L775]
+- Resolve: „Resolve=Change vollzieht sich nicht in Teil 1, nicht in Teil 2 als Vollzug, sondern im Vortex 1 (Kap 35–36) und in Vortex 2 (Kap 38–39).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L680]
+- Genesis frame: „was in Kap 0 als Trennungsprotokoll erscheint, wird über 39 Kapitel re-integriert und in Kap 40 als das verstanden, was es immer war“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L41]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

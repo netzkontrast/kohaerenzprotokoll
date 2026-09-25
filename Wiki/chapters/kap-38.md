@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,18 @@ Position: „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung)“ ^[koha
 - Sensorik: „Stille mit anwachsendem Druck, dann Junas Stimme als Raum statt als Klang“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656]
 - Genesis echo: „diesmal nicht abgewehrt, sondern empfangen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656]
 - Encoding discipline: „In Kap 38 dann: einfach da. Ohne Vorwarnung.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L752]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Die Resonanz, die ankommt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1035]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L905] · „Vortex 2 Kap 1, HR-Stufe 10: Road Back“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1035]
+
+- Story: „Das Rauschen kommt von allen Seiten.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036] · „Entscheidung zum Ouroboros.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036]
+- Plot beats: „Beat 3: Stille-Beat, Junas erste direkte Erscheinung — sie ist einfach da, ohne Worte, ohne Anweisung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L913] · „Beat 5: die Entscheidung — das Wir entscheidet, ins Ouroboros zu gehen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L915]
+- Juna: „Ihre erste direkte Erscheinung in Kap 38 ist die Klimax dieser Modi, nicht ein neuer Modus.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L327]
+- Storyform: „A: RS-Physics maximal, Junas direkte Anwesenheit. B: das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036]
+- Sensorik: „Sensorik: Stille mit anwachsendem Druck, dann Junas Stimme als Raum statt als Klang.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036]
+- Genesis echo: „Genesis-Echo: Junas Erscheinung = Ankommen der ursprünglichen Resonanz, diesmal nicht abgewehrt.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

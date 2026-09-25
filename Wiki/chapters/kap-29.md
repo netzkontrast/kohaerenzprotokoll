@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,15 @@ Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[kohar
 - Story: „Letzte Trauma-Erinnerung, Kind-Anteil sichtbar.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L620]
 - Storyform: „A: MC-Problem Avoidance, letztes Aufflammen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L620] · „B: RS-Psychology, Verstrickung tief“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L620]
 - Sensorik: „Angst des Kindes, Engerwerden“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L620]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Angst des Kindes“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1017]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] · „HR-Stufe 3: Refusal“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1017]
+
+- Story: „Kind-Anteil sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1018]
+- Storyform: „A: MC-Problem Avoidance, letztes Aufflammen. B: RS-Psychology, Verstrickung tief.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1018]
+- Sensorik: „Sensorik: Angst des Kindes, Engerwerden.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1018]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

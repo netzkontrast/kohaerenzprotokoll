@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,19 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Sensorik: „inneres Geflecht, Wir-Stimme“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L540]
 - Genesis echo: „die Wir-Bildung ist die strukturelle Wieder-Annäherung an die K1-Reinform-Erinnerung über plurale Form“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L540]
 - Leitmotiv: „mechanisch ähnlich dem Moment der Wir-Bildung in Kap 9“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L718] · „Ab Kap 9 ist die Wir-Bildung sichtbar.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L748]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Wir“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L977]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „HR-Stufe 9: Integration beginnt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L977]
+
+- Story: „Innere Kommunikation verbessert sich. Wir-Geflecht im frühen Aufbau — Foreshadowing-Programm aktiviert.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L978]
+- Stage: „Rückkehr mit neuer Sichtweise — Integration beginnt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L827]
+- Storyform: „A: MC-Concern, Logik und Intuition verbinden sich. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L978]
+- Sensorik: „Sensorik: inneres Geflecht, Wir-Stimme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L978]
+- Genesis echo: „Genesis-Echo: Wir-Bildung = strukturelle Annäherung an K1-Reinform.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L978]
+- Leitmotiv: „dem Moment der Wir-Bildung in Kap 9“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1058]
+- Lock: „Keine Wir-Geflecht-Etablierung vor Kap 9.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1276]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 5
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 6
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,15 @@ Position: „Phase A (Kap 27–34) — Akt III äußere Konfrontation“ ^[kohar
 - Story: „Kael agiert mit klarer Absicht, bereit zur Konfrontation.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L612]
 - Storyform: „A: MC-Concern, Agency mit Absicht“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L612] · „B: OS-Physics, AEGIS spürt Kaels neue Linearität“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L612]
 - Sensorik: „Autoren-Feder, klare Linien“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L612]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Autoren-Feder“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1013]
+Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vortex“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L882] · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] · „Modus-Wechsel zu HR außen, HR-Stufe 1: Ordinary World“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1013]
+
+- Story: „Klare Absicht, bereit zur Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1014]
+- Storyform: „A: MC-Concern, Agency mit Absicht. B: OS-Physics, AEGIS spürt neue Linearität.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1014]
+- Sensorik: „Sensorik: Autoren-Feder, klare Linien.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1014]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -36,6 +36,17 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Storyform: „A: MC-Solution Pursuit erste Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528] · „B: OS-Physics — AEGIS' Logik zeigt Schwächen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528]
 - Sensorik: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528]
 - Genesis echo: „der Cache-Konflikt ist das Echo der ursprünglichen Resonanz-Kaskade“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528] · „AEGIS' Logik zeigt dieselben Schwächen wie damals“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L358]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Echos im Fundament“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L971]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „HR-Stufe 6: Tod einer Einstellung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L971]
+
+- Story: „Cache-Konflikt; einseitiger Ansatz scheitert. Erste polyphonen Einbrüche.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972]
+- Stage: „Tod einer Einstellung — Cache-Konflikt (einseitige Logik scheitert)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L824]
+- Storyform: „A: MC-Solution Pursuit erste Andeutung. B: OS-Physics, AEGIS' Logik zeigt Schwächen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972]
+- Sensorik: „Sensorik: Hitzeschlieren, Landauer-Wärme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972]
+- Genesis echo: „Genesis-Echo: Cache-Konflikt = Echo der ursprünglichen Resonanz-Kaskade.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

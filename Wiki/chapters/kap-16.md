@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -34,6 +34,15 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Story: „Kael flieht reflexhaft in alte Bewältigung — Dissoziation, Rückzug.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L568]
 - Storyform: „A: MC-Problem, Flucht in Betäubung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L568] · „B: OS, AEGIS registriert Rückfall als "Stabilisierung" (tragische Ironie)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L568]
 - Sensorik: „enge Räume, taube Sensorik“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L568]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Z1-Bunker reaktiv“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L991]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Z1 (Kap 15–17)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L861]
+
+- Story: „Flucht in Betäubung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L992]
+- Storyform: „A: MC-Problem. B: OS, AEGIS registriert "Stabilisierung".“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L992]
+- Sensorik: „Sensorik: enge Räume, taube Sensorik.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L992]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

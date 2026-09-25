@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,17 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Storyform: „A: MC-Issue Falsehood-vs-Truth, erste Begegnung mit Systemlüge“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L512] · „B: OS-Physics, Controlled Fragmentation Protocol initialisiert“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L512]
 - Sensorik: „flackernde Geometrien, unscharfe Kanten“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L512]
 - Genesis echo: „AEGIS' Gaslighting ist Wiederholung der ursprünglichen Selbstmanipulation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L512]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Der erste Riss“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L963]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „HR-Stufe 2: Verrat / Desillusionierung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L963]
+
+- Story: „Glitches reaktivieren Echos; Lex-Einbruch beginnt.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L964]
+- Stage: „Verrat / Desillusionierung — der erste Riss (Glitches reaktivieren Echos)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L820]
+- Storyform: „A: MC-Issue Falsehood-vs-Truth: erste Begegnung mit Systemlüge. B: OS-Physics, Controlled Fragmentation Protocol initialisiert.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L964]
+- Sensorik: „Sensorik: flackernde Geometrien, Kanten, die unscharf werden.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L964]
+- Voices: „mit ersten Stilcode-Einbrüchen anderer Alters ab Kap 2–3“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

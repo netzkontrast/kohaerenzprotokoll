@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,18 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Sensorik: „Sensorik: Ozon, weißes Licht, Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508]
 - Genesis echo: „die sterile Ordnung der Stadt ist die Innere Weite/Überwelt aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508] · „das sterile Setting der Kernwelt 1 ist die Innere Weite (Überwelt) aus Kap 0“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L357]
 - Method: „Empfehlung: Kap 1 als Pilot“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L822]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Erwachen in der Konstrukt-Stadt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L961]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „HR-Stufe 1: Illusion der perfekten Welt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L961]
+
+- Story: „Kael erwacht in Kernwelt 1, fragmentiert ohne Erinnerung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962]
+- Stage: „Illusion der perfekten Welt — Ordnung als Käfig“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L819]
+- Storyform: „A: MC-Concern Memory: Erinnerungslosigkeit als Etablierungs-Status. B latent: OS-Physics, AEGIS-Architektur als Umgebungs-Log.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962]
+- Sensorik: „Sensorik: sterile Leere, Ozon, weißes Licht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962]
+- Genesis echo: „Genesis-Echo: das sterile Setting ist die Innere Weite (Überwelt) aus Kap 0.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962]
+- Status: „Pilot-Encoding Kap 1 als Methoden-Kalibrierung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1252]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,17 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Storyform: „A: MC-Concern, Selbst-Schöpfung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L596] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L596]
 - Sensorik: „Mosaik-Bildung als aktiver Prozess“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L596]
 - Foreshadowing: „innere Schöpfung als Vorform kosmischer Schöpfung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L730]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Z3-Mosaik als Schöpfung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1005]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Z3 (Kap 21–23)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L871]
+
+- Story: „Selbst-Schöpfung als innere Ressource.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1006]
+- Storyform: „A: MC-Concern. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1006]
+- Sensorik: „Sensorik: Mosaik-Bildung als aktiver Prozess.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1006]
+- Genesis echo: „Genesis-Echo: innere Schöpfung als Vorform kosmischer Schöpfung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1006]
+- Title elsewhere: „Kap 23 (Mosaik-Schöpfung)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1093]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

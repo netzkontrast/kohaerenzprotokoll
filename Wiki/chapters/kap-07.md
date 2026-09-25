@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,17 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Storyform: „A: RS-Physics, Moonshine-Bewusstwerdung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532]
 - Sensorik: „die Stille als Klang, warme Resonanz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532]
 - Genesis echo: „Junas Resonanz, jetzt nicht als Angriff, sondern als Sehnsucht erfahrbar“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L532] · „erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was das ist“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L343]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Die Stimme im Rauschen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L973]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803] · „HR-Stufe 7: Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L973]
+
+- Story: „K-J-Verbindung wird stärker; Telefon-Stille als Anker.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L974]
+- Stage: „Unterstützung — Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L825]
+- Storyform: „A: RS-Physics, Moonshine-Bewusstwerdung. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L974]
+- Sensorik: „Sensorik: warme Resonanz, Stille als Klang.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L974]
+- Genesis echo: „Genesis-Echo: Junas Resonanz als Sehnsucht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L974] · „das ist Junas Resonanz, jetzt nicht mehr als Angriff, sondern als Sehnsucht spürbar“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L839]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

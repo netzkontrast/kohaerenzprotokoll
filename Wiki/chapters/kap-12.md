@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -36,6 +36,17 @@ Position: „Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokol
 - Storyform: „A: MC-Concern, Präsenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552] · „B: OS-Physics latent — AEGIS scannt diesen Zustand, klassifiziert ihn als anomale Kohärenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552]
 - Sensorik: „Stille, Atem, Herzschlag“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552]
 - Genesis echo: „eine Sekunde Vor-Trennungs-Frieden im Wachzustand“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Stille der Mitte“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L983]
+Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L803]
+
+- Story: „Innere Stabilität als Präsenz.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L984]
+- Stage: „Stille der Mitte — Jetzt-Raum (innere Stabilität gefunden)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L830]
+- Storyform: „A: MC-Concern. B: OS-Physics latent, AEGIS scannt diesen Zustand.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L984]
+- Sensorik: „Sensorik: Stille, Atem, Herzschlag.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L984]
+- Genesis echo: „Genesis-Echo: kleine Wieder-Berührung der K1-Reinform.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L984]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

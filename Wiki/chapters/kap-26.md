@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -34,6 +34,15 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Story: „Kael beschließt Konfrontation.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L608]
 - Storyform: „A: MC-Concern, Schritt ins Ungewisse als Entschluss“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L608] · „B: OS-Physics, Erasure-Vorbereitung eskaliert“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L608]
 - Sensorik: „aufkommende Bewegung, Vorwärts-Spannung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L608]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Schritt ins Ungewisse“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1011]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L844]
+
+- Story: „Entscheidung zur Befreiung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1012]
+- Storyform: „A: MC-Concern. B: OS-Physics, Erasure-Vorbereitung eskaliert.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1012]
+- Sensorik: „Sensorik: aufkommende Bewegung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1012]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

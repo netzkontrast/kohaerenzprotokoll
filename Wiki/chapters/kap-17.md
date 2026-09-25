@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -35,6 +35,15 @@ Position: „Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-k
 - Story: „Wächterin/Wir-Stimme fängt Rückfall ab.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572]
 - Storyform: „A: MC-Solution Pursuit Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572] · „B: latent“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572]
 - Sensorik: „Licht durch enge Architektur“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Title: „Z1-Wächterin“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L993]
+Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L843] · „Z1 (Kap 15–17)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L861]
+
+- Story: „Aktiv anschauen statt fliehen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L994]
+- Storyform: „A: MC-Solution Pursuit Andeutung. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L994]
+- Sensorik: „Sensorik: Licht durch enge Architektur.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L994]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
