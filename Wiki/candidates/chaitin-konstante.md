@@ -45,6 +45,9 @@ The fourth, which the character bible and the master report do not list, is the 
 The konsolidiertes Konzept's two sentences, in the same words. In Juna's ontology:
 „eine **Chaitin-Konstante Ω** — algorithmisch nicht komprimierbar; kein endliches Programm kann sie generieren" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L286].
 Among the mathematical foundations: „**Chaitin-Konstante Ω** — Junas Algorithmus-Irreduzibilität." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L746]
+It stands under „Juna ist kein Charakter im konventionellen Sinn, sondern eine strukturelle Position." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L281], one of three things she is at once, with a living Gödel statement and a Witness-Funktion (L285, L287) — the character bible's three, not the konsolidiertes Konzept's four: no kosmologische Konstante (`kosmologische` 0, `05-verify-readers.txt`).
+Why AEGIS cannot model her is said once more, of her superposition: „Junas Doppelnatur als Narbe und Reparatur ist für AEGIS unmodellierbar." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L300] The constant is Juna's alone here; [[kiko|Kiko]] is never tied to it (`Chaitin` on L286 and L746 only, `05-verify-readers.txt`).
+Checked against the full document on 2026-09-26; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
@@ -85,4 +88,4 @@ and the philosophy say she works *like* Ω, and the glossary's Juna entry calls 
 - No source places the concept in a chapter for Juna. The chapter plan of
   2026-02-26 puts it in its chapter 19, for Kiko.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `worldbuilding-konzept-kohaerenzprotokoll-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`).
