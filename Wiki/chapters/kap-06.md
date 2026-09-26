@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -120,6 +120,13 @@ Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkret
 - Sensorik: „Sensorik kalt/Ozon (Polaritäts-Filter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, §7-Konflikt 1 des Source-of-Truth]`)
 - Characters: „der erste nicht ausgeführte Ausgleich (Kap 6): die Hand stoppt vor dem Klick — ungewollte Handlung, schleier-konform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216] (marked `[K]`)
 - Hard-B: „Hard-B-Kapitel (Position in 5–8, Pinnung beim Weaving“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the Semantische Firewall, from the Steinbruch
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Theory anchor: „(Steinbruch) Wittgenstein (Sprache als Grenze), Cache-Konflikt“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L699] · function „Semantische Firewall“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L700] (§14.3; the cell marks itself Steinbruch)
+- Where it places Wittgenstein: „Kap 6 (Semantische Firewall — kanonisch in Steinbruch-Outline), AEGIS-Logs durchgängig.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L141] (§2.2 Wittgenstein, marked `[K]`) — its claim about another document, a `Steinbruch-Outline` it does not name further.
 
 ## Where the sources differ
 
