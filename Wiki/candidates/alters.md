@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 18
-readings: 17
+sources: 19
+readings: 18
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -231,3 +231,15 @@ Each Riss type has its alter: „Jeder Riss-Typ hat einen EP-Trigger:" ^[worldbu
 Their voices carry no labels: „Stimmen werden *nie* durch Header markiert. Der Leser erkennt sie durch Syntax, nicht durch Etikett." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L771] Nor are they symbols: „Keine DID-Allegorie. Die Alters sind diagnostisch konkret, nicht symbolisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L874]
 Five have no somatic filter yet, by its own open points: „Lia, Isabelle, Argus, Silas, Oblivion — Filter offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L895]
 The Vortex leaves one question to them: „Letzter Satz des Klimax-Kapitels: *welcher Alter spricht?*" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Anteile with a school each, sixteen rows and no Flight
+
+Its word is `Anteil`; `Alter` stands once, among the Iser devices, „Unzuverlässige, sich widersprechende Erzähler (verschiedene Alter)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L528], and it states no count (`05-verify-readers.txt`).
+Each has a body: „Wenn ein Anteil aktiv ist, ist sein Körper aktiv." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202] „Lex' Hypoventilation, Kikos zitternde Kinnlade, Nyx' geballte Fäuste, Rhys' fiebrige Hände, Alex' Bruxismus — das ist Merleau-Ponty pro Anteil." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202] (§3.4, `[V]`). And qualia: „jeder Anteil hat ein eigenes Qualia-Profil" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L378]; „die Anteile sind nicht nur Funktionen, sie sind verkörperte Qualia-Träger" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L400].
+The EPs speak for the facts: „Nyx' Stakkato, Kikos kindliche Sätze, Moros' Implosion sind alles korrespondenz-theoretische Sprechakte" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L56].
+
+**A roster with schools.** „§14.1 Charakter ↔ Philosophie" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L615] has three columns, figure, primary school and DKT correlate, and sixteen rows: [[kael|Kael]] (Host), [[lex|Lex]], [[alex|Alex]], [[rhys|Rhys]], [[selene|Selene]], [[nyx|Nyx]], [[kiko|Kiko]], [[lia|Lia]], [[isabelle|Isabelle]], [[moros|Moros]], [[argus|Argus]], [[silas|Silas]] and [[oblivion|Oblivion]] — the thirteen of the system — then [[aegis|AEGIS]], [[mnemosyne|Mnemosyne]] and [[juna|Juna]] (L619–L666). It sorts none of them into ANP, EP, Sonder or Spiegel (`ANP` never in the table; `05-verify-readers.txt`).
+It writes no `Flight` and no `Fight`: Lia's school is „parakonsistente Existenz (Dialetheismus körperlich), Superposition" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L641], Isabelle's „Macht-Topologie, Kontroll-Phänomenologie" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L644] (C15).
+Its use, among the drafting tools: „Wer welche Philosophie ist, trägt sie durch Stimme und Somatik — siehe §14.1." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L779]
+
+The end is not fusion (§12.2, `[K]`): „Kein Anteil wird eliminiert. Kein Anteil wird zu einem Ich. Sie werden ein Wir." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L576] And, among its binding prohibitions (§16): „Wenn Anteile streiten, streiten sie um konkrete Dinge (Risiko, Schutz, Liebe), nie um Theorie." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L775]
