@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -189,3 +189,10 @@ Among the six movements: „KW1 als Phaenomena-Reich wird in KW4 zur Bühne des 
 
 A log of one drafting run on a manuscript's Kap 25; what it says the canon assigns is its claim about other documents — recorded, not applied. Its largest open question, OQ-25-F: „Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60]; but „die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734)" ^[2026-09-14-kap25-vertiefung-md.md:L60]. Kap 25 now redeems KW3 by the senses alone: „Kap 25 löst KW3 jetzt **sensorisch** ein (Treppenkopf, Wartungsebene), ohne den Ort zu wechseln" ^[2026-09-14-kap25-vertiefung-md.md:L60]. It asks: „Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden?" ^[2026-09-14-kap25-vertiefung-md.md:L60] — „**Das ist die größte offene Frage des Laufs.**" ^[2026-09-14-kap25-vertiefung-md.md:L60]
 It never writes `KW1` (0, `05-verify-readers.txt`), so it does not say which world the Konstrukt-Stadt is; that it sets the city against the canon's KW2 and KW3 for Act II is consistent with the author's decision for C9 (KW1). The first of its two readings would keep Act II in the city while the world changes as a filter — a question it puts to the author, not a position on C9.
+
+## Reading — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file — a city it does not name
+
+A chapter file of Kap 25 — research, not text for the novel — whose prose is a first person it never names. **It does not name the city**: `Konstrukt-Stadt` stands 0 times in the file, apparatus included (`05-verify.txt`), and `Stadt` twice, both in the Ich: „ist die Reihe das Einzige in dieser Stadt, an dem ich etwas offen lassen kann" ^[kp-kap25-2026-09-14-md.md:L125]; „für die Erklärung gibt es in dieser Stadt keine Form" ^[kp-kap25-2026-09-14-md.md:L197].
+What it names is a working topology. A node of stations, „der Knoten ist am Nordende immer kühler" ^[kp-kap25-2026-09-14-md.md:L85] (a node, not [[datenverarbeitungsknoten-7g]], by J53); a corridor with a name, „weil man in Delta-Sieben in seinem Abstand geht" ^[kp-kap25-2026-09-14-md.md:L229]; and a level below it, „am Ende ist die Treppe zur Wartungsebene" ^[kp-kap25-2026-09-14-md.md:L237] — „Ich könnte nachsehen, was unter Delta-Sieben liegt." ^[kp-kap25-2026-09-14-md.md:L257]
+The apparatus places that stair in a world, not a city: „KW3-Materialisierung über Treppenkopf/Wartungsebene" ^[kp-kap25-2026-09-14-md.md:L48], its claim about „Canon-Kernwelten §12" ^[kp-kap25-2026-09-14-md.md:L48] (see [[kern-welten]]). `KW1` stands 0 times.
+So whether the city of L125 and L197 is the Konstrukt-Stadt the text does not say, and it does not speak to C9, which the author decided for KW1. As the session log reports, the drafted Act II plays in the city's administrative topology while the canon it cites gives Kap 23–28 to KW3; this file is that draft — the prose stays in its unnamed city, the hidden note says KW3.
