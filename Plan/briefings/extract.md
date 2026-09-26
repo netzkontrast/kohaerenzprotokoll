@@ -1,7 +1,7 @@
 ---
 step: extract
-version: 14
-covers_documents: 8
+version: 15
+covers_documents: 9
 new_findings_last_document: 1
 ---
 
@@ -107,7 +107,8 @@ wraps is judged by its first line alone.
   the next list had five such zeros. So before a phrase of two or more words goes on
   the list, ask `python3 scripts/read.py <slug> --find "<the phrase>"`: it answers
   with the line or refuses. That finds a line, it counts nothing, and the phrase goes
-  on the list in the form that line has.
+  on the list in the form that line has. A short phrase whose rest is a number, `Kap 17`, is refused
+  because numbers are compared on their own; the count finds it.
 - Does the document write a suspended compound — „Funktions-, Phobie- … und
   Beziehungs-Profil"? Only the last member is written whole; list what is
   written, and expect an expanded member to count zero.
@@ -179,6 +180,9 @@ wraps is judged by its first line alone.
   (`ABC\_DEF`) counts zero when the list writes it plain.
 - A hyphenated word split by a space where the source wrapped a line — `Wort- Grenze`? List it as written; the whole form counts zero.
 - Typographic and ASCII quote glyphs mixed in one file?
+- A table flattened to one cell per line, tab-indented, with no pipes? Then a row is
+  several lines, the same cell text may stand in two rows, and a quotation of one cell
+  may match twice — quote a cell that is unique in its row, or two cells together.
 - Emphasis inside a phrase — `*funktional* wütend`? The count reads the marked
   line, so the phrase counts zero; the quotation check reads it unmarked.
 

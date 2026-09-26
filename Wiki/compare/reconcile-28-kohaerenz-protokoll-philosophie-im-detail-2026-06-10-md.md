@@ -7,7 +7,7 @@ decisions: 438
 by_lookup: 276
 judgements: 162
 new_pages: 0
-new_readings: 40
+new_readings: 59
 ---
 
 # Reconciliation 28 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md` against the wiki

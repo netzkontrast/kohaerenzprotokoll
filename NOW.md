@@ -28,6 +28,16 @@ And the two read ones with them: „Yes, 22 and 23 are research too" (2026-09-26
 them the novel's text, and were corrected; the readings quote what they say and stand.
 A document may still call itself a draft, and a reading may quote that.
 
+**New from the philosophy catalogue (2026-09-26):**
+- **Three differences its readers found, none yet a record.** Where Funktionale
+  Multiplizität is reached: only Kap 39 here („Plurale Apotheose“, L735), Kap 33 in the
+  master report and the worldbuilding concept. When the Wir decides to stay: Kap 39 in its
+  text (L459), Kap 38 in its own table (L733), Kap 38 Beat 5 elsewhere. The Cache-Konflikt:
+  Kap 6's in its table (L699), in Kap 18's title in the Konzept-Iteration Genesis and the
+  konsolidiertes Konzept. Should any become a conflict record?
+- The Witness-Funktion and the Suppressionsprotokoll, under the question below, are now
+  named by one more read document each.
+
 **New from the worldbuilding concept (2026-09-26):**
 - **Pages for terms every reading has left unpaged?** The Erasure-Pol is named in 14
   read documents, the Witness-Funktion in 8, the Fragmentierungsnacht and the
@@ -525,7 +535,7 @@ both sides quoted — noted for the author, none settled:
 in Akt I but Kap 4 and 5 is the strukturierter Outline's HR-Stufe name, and the
 Konzept-Iteration Genesis names Kap 2–5 differently from all the rest.
 
-**Next, in order:** the 91 <!--state:chapters.missing--> chapter mentions no page
+**Next, in order:** the 92 <!--state:chapters.missing--> chapter mentions no page
 holds yet (`chapters.py missing` — the character bible's Kap-33 scene, the drafting
 manual's reveal timeline, the Alter profiles' debuts); the Abhandlung and both
 drafts of Kap 0 are read; then chapters in `graph.py` and `ui.py` if
@@ -546,7 +556,7 @@ never a reading or a number.
 1. ~~`koharenz-protokoll-kapitel-0-v2-md`~~ — read 2026-09-26, document 25 (*Next
    document*, below). No Kap 0 question had returned it: the method's limit, measured.
 2. ~~`worldbuilding-konzept-kohaerenzprotokoll-md`~~ — read 2026-09-26, document 26.
-3. **`kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`** — Kap 11, 12, 15,
+3. ~~`kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`~~ — read 2026-09-26, document 27; it names Kap 11, 12, 15,
    24, 25 and every chapter from Vortex 1 to the end, 35–40.
 4. **`2026-09-14-kap25-vertiefung-md`** and **`kp-kap25-2026-09-14-md`** — the newest
    documents in the corpus, in eleven and four chapters' tables.
@@ -628,7 +638,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   45 <!--state:sweep.decided--> hits, 26 <!--state:sweep.readings--> of them
+   48 <!--state:sweep.decided--> hits, 28 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -704,7 +714,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 22 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 23 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -843,7 +853,20 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the worldbuilding concept reconciled
+## Next document — the philosophy catalogue reconciled
+
+**The twenty-seventh document is done: `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-09-26.** 403 candidates, **no page**, readings on 39 pages, `plot.md` and nineteen chapters (Kap 0, 1, 3, 6, 8, 11, 15–18, 22, 27, 30, 33, 35, 36, 38–40), entries in nine conflicts (C4–C7, C9, C11–C14) and four questions (Q1–Q3, Q5), no new judgement, three sweep hits (two readings, one title). The seven scan readings of it held against the full document. `Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md` has the record. Chosen as next on *Reading suggestion*.
+
+- **A catalogue of schools whose vocabulary the prose may never use** — „Kein philosophischer Begriff erscheint im Prosatext." (L773). Section labels `[K]`/`[V]`/`[S]`/`[L]`, recorded, not applied. Nearly all its unmatched candidates are lens.
+- **`plot.md` moved**: 39 fragmented chapters inside a Kap 0/Kap 40 frame, two Vortices, no Kap 37.
+- **It places five things twice and flags none** (Gödel-Gambit Kap 30/35, ANP/EP barriers Kap 35/Beat 2, Kap 16's two titles, the Wir's decision Kap 38/39, 39 chapters and a frame); every page concerned gives both.
+- **Retrieval fell**: PageRank recall@8 0.659 → 0.643, C11 and Q3, displaced by the hub pages this document read onto. Recorded in `baselines.jsonl`.
+- **A defect in my brief**: it cited J32 for world names carrying a Guardian's name; the rule is J49. A reader noticed; `mnemosyne` was corrected in its own commit.
+- **Noticed, not fixed**: `read.py --find` refuses a short phrase with a number („Kap 17") — the count still finds it; `alters`' *Open* is still stale.
+
+Next, by *Reading suggestion — next*: `2026-09-14-kap25-vertiefung-md` and `kp-kap25-2026-09-14-md`. The chapter tables still list the three documents read today until `chapter_sources.py run` is rerun.
+
+### Previous document — the worldbuilding concept reconciled
 
 **The twenty-sixth document is done: `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-09-26.** 418 candidates, **no page**, readings on 56 pages, `plot.md` and nine chapters (Kap 1, 11, 13, 14, 33–36, 39), entries in fourteen conflicts and all five questions (C8 unchanged), no new judgement, four sweep hits (all readings). The six scan readings of it were checked against the full document. `Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md` has the record. Chosen as next on *Reading suggestion*.
 
@@ -878,7 +901,7 @@ Next, by *Reading suggestion — next*: `kohaerenz-protokoll-philosophie-im-deta
 - **Chapter readings from table rows.** The rows are numbered without `Kap`, so `chapters.py missing` cannot see them; all 39 were read from the tables.
 - **The five scan readings of it stand** (`vortex`, `kishotenketsu`, `goedel-gambit`, `residual-echos`, `komponente-734`).
 
-Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 91 <!--state:chapters.missing--> single-`Kap` mentions.
+Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 92 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the annotated Kap 0 reconciled
 
