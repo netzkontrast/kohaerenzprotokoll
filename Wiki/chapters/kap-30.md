@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -112,6 +112,14 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 - Plot beats: „Junas Kanal“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „außerhalb des Apparats etabliert; der Faden notiert nur: Der Kanal hat keine Kennung, der Apparat kann ihn nicht zuweisen, also existiert er für ihn nicht.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Lock: „Nie Subjekt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Idea 9: „30 (der Kanal folgt der Karte)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the Gödel-Gambit begins; the K-J-Kanal stable
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Gödel-Gambit: „Kap 30 (Gödel-Gambit beginnt), Vortex 1 (Höhepunkt).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L302] (§6.1 Gödel, marked `[K]`) — its table puts the Gambit in the row for Kap 35, „Gödel-Gambit (Vortex Beat 2)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L723], and it does not relate the two.
+- Juna: „Kael-Juna-Verbindung durchgängig, Kap 30 (K-J-Kanal stabil), Akt II/III in der Lernkurve.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L420] · „Juna vermittelt nicht durch Lehre, sondern durch Anwesenheit.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L414] (§8.1 Polanyi, marked `[K]`)
+- Theory anchor: „Polanyi — Tacit Knowledge“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L717] · function „K-J-Kanal stabil; Junas implizite Vermittlung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L718] (§14.3) — the table gives the chapter Polanyi, not Gödel.
 
 ## Where the sources differ
 
