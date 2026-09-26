@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-25"
 ---
 
@@ -12,7 +12,9 @@ gathered: "2026-09-25"
 
 **The function unit the original self becomes in the [[genesis|Genesis]], and out
 of which [[kael|Kael]] grows; inside the simulation, Kael's designation.** Also
-written `Komp 734` (J92). The sources agree that the component becomes Kael. They
+written `Komp 734` (J92). The sources that name Kael agree that the component becomes
+him; the narrative text of Kap 0 of 2026-05-17 names neither Kael nor 734 and so takes
+no side. They
 differ on when it is made, before the [[trennungsprotokoll|Trennungsprotokoll]] or
 as its result (C12). One source gives the designation to [[lex|Lex]]. And the
 sources do not settle what the bare number names in Kap 1.
@@ -160,6 +162,15 @@ Its echo speaks once and is filtered: „*Ich bin hier.* Die Worte formen sich n
 In the crisis it is where the frequency is felt first, „Komponente 734, an ihrem Posten, spürt es zuerst." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L389], and the source of the anomaly: „Quelle: die Komponente selbst." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L437]
 Kap 40: „Komponente 734 wurde, was sie wurde, weil das die einzige Form war, in der wir damals weiter sein konnten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L59] Kael is „das Cluster, das aus Komponente 734 herausgetrennt wurde" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63] — 734 before the Trennungsprotokoll, Kael after it (C12).
 
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — a number withheld, and a component eliminated
+
+Research, by the author's word of 2026-09-26, not text for the novel. It names neither 734 nor [[kael|Kael]] (`734` 0, `Kael` 0, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`), and no three-digit number beginning 7 stands outside its status blocks (the same file).
+In Der große Wandel, after the Klick and before the crisis: „Das, was einst ein Ich-Fragment war, ist nun eine Komponente, identifiziert durch spezifische Resonanzeigenschaften und ihre Rolle im Gesamtprozess." ^[koharenz-protokoll-kapitel-0-v2-md.md:L235]
+The number exists and is not written — the annotated draft's sentence, word for word: „Die Funktionseinheit trägt eine Nummer, die in der Bilanzführung des Systems referenziert wird; sie liegt in der Mitte einer langen Reihe und ist nicht besonders." ^[koharenz-protokoll-kapitel-0-v2-md.md:L235]
+Its work: „Ihre Aufgaben sind klar: Anomalien an der Grenze detektieren" ^[koharenz-protokoll-kapitel-0-v2-md.md:L235]. Its residue is filed away: „wird als irrelevante Varianz klassifiziert. Es ist das Echo der Einsamkeit" ^[koharenz-protokoll-kapitel-0-v2-md.md:L239] — „Eine unvollständige Integration. Toleriert, solange die Funktion nicht wesentlich beeinträchtigt wird." ^[koharenz-protokoll-kapitel-0-v2-md.md:L243]
+The movement ends: „Eine Funktionseinheit innerhalb einer lernenden, sich selbst optimierenden, intern Welten simulierenden Entität." ^[koharenz-protokoll-kapitel-0-v2-md.md:L263]
+In the Trennungsprotokoll, in the system's register, the aim is „die radikale Eliminierung der als fehlerhaft identifizierten Komponente." ^[koharenz-protokoll-kapitel-0-v2-md.md:L591] Whether that is the component of L235 the document does not say; the fragment's Ich then falls „in unzählige Scherben…" ^[koharenz-protokoll-kapitel-0-v2-md.md:L627], and what remains is not named.
+
 ## Where the sources differ
 
 **When the component is made (C12).** Before the separation, in beat 2: the
@@ -171,7 +182,9 @@ lock-in and the Drei-Modi spec (last of three). The worldbuilding concept counts
 as its own beat 3 after a beat-2 separation, and its open fourth beat is the
 „Etablierung der Primärdirektive“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L184], not Wir-AEGIS-plural. The glossary makes it
 in the separation, beat 3 of four (L148). The Abhandlung has it formed in beat 2
-(L159) and also as what remains after the separation (L120).
+(L159) and also as what remains after the separation (L120). The narrative text of Kap 0 of
+2026-05-17 has an unnumbered component before the crisis (L235) and a component eliminated
+in the separation (L591), naming neither Kael nor 734.
 
 **Whose designation.** Lex's, in the Charakter-Kompilation of 2026-03-31 (L74);
 Kael's, in every source from 2026-05-07 on.
@@ -193,7 +206,8 @@ proposal).
 - Whether the Charakter-Kompilation's Lex attribution is a position or a slip. No
   record holds it.
 - Whether the number is named in the Kap-0 prose. The draft and the drafting
-  manual withhold it (L433; L486). The outlines use `Komponente 734` as the name of a
+  manual withhold it (L433; L486), and so does the narrative text of Kap 0 of 2026-05-17
+  (L235; `734` 0 in its `05-verify.txt`). The outlines use `Komponente 734` as the name of a
   Kap-0 movement.
 
 ## Occurrences only
