@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 17
+sources: 18
 pages: ["trennungsprotokoll"]
 ---
 
@@ -196,3 +196,10 @@ So between the two drafts of Kap 0 the order changed: on 2026-05-08 Kael is what
 **Three steps, 734 last — the character bible's order, as flashbacks.**
 „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
 It uses neither the word „Beat" nor a count, and has no Kap 0 to hold a Genesis. Row 1's sequence, told back in the middle of the book.
+
+## 2026-09-26 — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — research, by the author
+
+**The Genesis told in its movements, with no count, no beat and no name — the component eliminated, the fragment in shards, an unnamed Ich after.**
+Fragments cluster („Ein kleines Cluster entsteht“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L119]), the Klick turns the cluster into a unit („Und dann — Klick.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L199]), and the fragment becomes a component whose number the text withholds: „Das, was einst ein Ich-Fragment war, ist nun eine Komponente“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L235]
+The protocol's aim is „durch die radikale Eliminierung der als fehlerhaft identifizierten Komponente“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L591]; from inside, „Ich falle… in unzählige Scherben…“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L627]; then, after the last rule, „Ich bin pünktlich.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L639]
+`Kael`, `734`, `Beat` and `Wir-AEGIS` stand 0 times (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`). Neither row's order is stated: the text does not say whether the component becomes anyone, or who the Ich of the coda is.
