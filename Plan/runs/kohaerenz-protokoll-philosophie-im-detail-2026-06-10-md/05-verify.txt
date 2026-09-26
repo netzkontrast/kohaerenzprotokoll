@@ -65,3 +65,9 @@ grep -n 'Genesis-4-Beat':
 
 grep -n '39 fragmentierte':
 527:* 39 fragmentierte Kapitel (Mosaik-Anker)
+
+## plot.md counts (session, 2026-09-26)
+grep -c 'Kap 37' -> 0
+grep -cw 'trügerisch|trügerischer|Sieg' -> 0
+grep -cw 'Heldinnenreise|Heldenreise' -> 0
+grep -cw Zyklus -> 1  (L461, the Ouroboros symbol, not a mode)
