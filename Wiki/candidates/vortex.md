@@ -1,10 +1,10 @@
 ---
 term: Vortex
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C7, C11, C14
-ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
 gathered: "2026-09-25"
 ---
 
@@ -230,6 +230,12 @@ The [[goedel-gambit|Gödel-Gambit]] is Vortex 1's key mechanism, „Schlüssel-M
 Vortex 2 goes beyond Kant: „die K₁-Reinform kann erreicht werden (in Vortex 2)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L127] — and „die Synthese in Vortex 2 ist plural, nicht unio mystica.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L246] It names no beats of Vortex 2; its table's Kap 38 is „Mahayana-Mitgefühl (Bodhicitta)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L732], „Wir-Geflecht entscheidet zur pluralen Bewahrung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L733].
 „Der Vortex ist nicht hegelianisch.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L598]
 Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (reconcile-28).
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — the missing click, before its place
+
+Once (`grep -cw Vortex` 1), in its open decision „OQ-25-C — Klick-Motiv-Budget." ^[2026-09-14-kap25-vertiefung-md.md:L57] It says what canon places in Beat 3: „Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist" ^[2026-09-14-kap25-vertiefung-md.md:L57] „das Fehlen des Klicks" ^[2026-09-14-kap25-vertiefung-md.md:L57], globally — the log's claim, and the anchor the Plot-Konkretisierung's Beat 3 states (above).
+The revised Kap 25 already uses it: „Kap 25 verwendet die Abwesenheit des Klicks lokal (eine Station, ein Tag)." ^[2026-09-14-kap25-vertiefung-md.md:L57] The click is heard as absence, „sechsmal vor dem siebten Bestand, danach nicht mehr" ^[2026-09-14-kap25-vertiefung-md.md:L25]. Its question for the author: „Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?" ^[2026-09-14-kap25-vertiefung-md.md:L57]
+It writes `Vortex 1` and names no other beat and no Vortex 2.
 
 ## Where the sources differ
 
