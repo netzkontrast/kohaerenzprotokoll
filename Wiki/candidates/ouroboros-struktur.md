@@ -57,8 +57,12 @@ And in Kap 38 Beat 5: „das Wir entscheidet, ins Ouroboros zu gehen" ^[koharenz
 The konsolidiertes Konzept's text, as a chapter of its own, „XI. Ouroboros-Struktur" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L845]:
 „Das letzte Bild von Ch39 ist identisch mit dem ersten Bild von Ch1 — mit *einer einzigen Inversionsoperation*: was am Anfang Trennung bedeutete, bedeutet am Ende Verbindung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L847]
 „Konkret: ein Telefon klingelt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851]
-„Ouroboros (zyklischer Rollentausch)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L859]
-It also derives it from the inversion (L37).
+„Was am Anfang Schmerz war, ist am Ende immer noch Schmerz. Die Bedeutungs-Inversion ändert die Phänomenologie nicht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L847]
+„Konkret: ein Telefon klingelt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851] „Beide wissen, dass sie zusammen sein könnten. Keiner spricht es aus. Aber jetzt — bei der Wiederholung — wissen wir, dass die Stille bereits alles war." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851] The image is the [[telefon-stille|Telefon-Stille]].
+Its „Resolution-Doppelpfad:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L855] „Ouroboros (zyklischer Rollentausch)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L859] „Trennung-war-nie-real (das emotionale Prinzip)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L860] „Beides kombinieren: Der Kreis schließt sich, und trotzdem heilt der Schmerz nicht durch Verstehen allein." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L861]
+It derives it from the inversion: „die Ouroboros-Struktur (das Ende kehrt den Anfang um, ohne den Schmerz aufzulösen)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L37] And the ending it closes is none of healing: „Keine Erlösungsgeschichte. Funktionale Multiplizität ist kein Heilwerden. Kael bleibt am Ende dreizehn." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L877]
+Only Kap 1 ↔ Kap 39: it has no Kap 0 and no Kap 40, no Genesis-Klammer, and no Ouroboros the Wir decides to go into (`Kap 0` 0, `Kap 40` 0, `Genesis-Klammer` 0 in `05-verify.txt`; `ins Ouroboros` 0 and `Ouroboros` on L37, L845, L859 only in `05-verify-readers.txt`).
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17
 
@@ -175,4 +179,4 @@ writes it last (L127).
 - How the Kap-39 writing is staged — the storyform outline leaves it to encoding
   (L491); the Plot-Konkretisierung proposes a history for it (L100).
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `worldbuilding-konzept-kohaerenzprotokoll-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`).
