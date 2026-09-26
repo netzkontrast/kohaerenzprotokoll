@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -119,9 +119,15 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - Silas: „das Wärme-Debüt bleibt unangetastet bei Kap 3“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80] (marked `[K]`)
 - Characters: „erster Lex-Einbruch“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, ab Kap 2–3]`)
 
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Anti-Phaenomena, warmth, the first Juna-Andeutung
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Theory anchor: „Anti-Phaenomena (Bruch des Filters, Wärme als Substrat-Spur)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L696] · function „Erste Juna-Andeutung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L697] (§14.3)
+
 ## Where the sources differ
 
-- **Juna's first trace.** „Kael sieht Juna zum ersten Mal — als Hologramm/Echo, das verschwindet. Stadtgesetze brechen um sie herum.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis) · „Wärme-Debüt (Polaritäts-Lock): Junas Coheron-Spur erscheint hier zum ersten Mal als Wärme; selten, wächst.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308] (storyform outline) — seen as an image, or first felt as warmth. (C7)
+- **Juna's first trace.** „Kael sieht Juna zum ersten Mal — als Hologramm/Echo, das verschwindet. Stadtgesetze brechen um sie herum.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis) · „Wärme-Debüt (Polaritäts-Lock): Junas Coheron-Spur erscheint hier zum ersten Mal als Wärme; selten, wächst.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308] (storyform outline) — seen as an image, or first felt as warmth. (C7) · „Erste Juna-Andeutung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L697] with „Wärme als Substrat-Spur“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L696] (the philosophy catalogue) — a hint, and warmth.
 - **Where the warmth debuts.** „KW1 verlassener Randbezirk“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829] with „erste Wärme-Spur (Junas Coheron-Debüt)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829] (Kernwelten vollständig) · „geschieht außerhalb des Knotens, auf dem Heimweg im Transitkorridor; der Arbeitsplatz bleibt kalt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung).
 - **Storyform A.** „A: RS-Physics-Vorzeichen, Moonshine-Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis) · „A: MC-Problem Avoidance als ANP-Funktion. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L966] (konsolidiertes Konzept).
 - **Title.** „Das flüchtige Echo“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L514] (Konzept-Iteration Genesis) · „Bunker-Bau“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L965] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Erwachen & Vorbereitung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L192] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 3: Erwachen & Vorbereitung — Identifikation mit dem Männlichen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L297].
