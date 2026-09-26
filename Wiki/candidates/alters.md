@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 17
-readings: 16
+sources: 18
+readings: 17
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-16"
 ---
 
@@ -219,3 +219,15 @@ The writer doubts one: „Charakter-Bibel sagt, Alex *entstand in der Sekunde de
 
 Sorted by the storyform each carries: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135], „Spiegel-Alters (Silas = Coheron-Echo, Oblivion = Erason-Operator) → Bridge-natürlich, beide Storyforms simultan" ^[three-mode-architecture-39-chapters-md.md:L137], „Argus (Meta-Kognition) → A, mit Kommentar-Überlagerung" ^[three-mode-architecture-39-chapters-md.md:L138]. Thirteen with Kael.
 The word waits: „aber das Wort "Alters" oder "DID" fällt nicht." ^[three-mode-architecture-39-chapters-md.md:L171] An anti-pattern: „Kap 4 oder 5 benennt schon klar, dass Kael "Alters" hat, oder verwendet das Wort DID." ^[three-mode-architecture-39-chapters-md.md:L590]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — thirteen, `kanonisch`, in two layers
+
+The konsolidiertes Konzept's roster, in the same words: „Die 13 Alter (kanonisch)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L394], a table of `Kategorie`, `Alter`, `DKT-Korrelat`, `Somatik` and `Arc` (L398) — five ANPs, five EPs, Argus as `Sonder` and Silas and Oblivion as `Spiegel` (L399–L411).
+„Alle 13 Alter sprechen in 1. Person." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L415] The end is not fusion: „Kein Alter wird eliminiert. Kein Alter wird zu einem Ich. Sie werden ein *Wir*" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L419] (see [[multiplizitaet|Multiplizität]]).
+Fifteen names are excluded: „Dekanonisiert (NIE als aktive Charaktere): Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L423]
+It sorts them by the trauma that made them. „Das wahre Trauma hat *zwei Schichten*. Der Leser erfährt nur die erste in Akt I; die zweite enthüllt sich erst in KW2/KW3 (Akt II)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L427]
+„Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431] „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion. Schicht-übergreifend: Selene." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]
+Each Riss type has its alter: „Jeder Riss-Typ hat einen EP-Trigger:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L673] — one EP per row, but the spatial row, „(Flight, Lia/Isabelle)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L682] (C15).
+Their voices carry no labels: „Stimmen werden *nie* durch Header markiert. Der Leser erkennt sie durch Syntax, nicht durch Etikett." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L771] Nor are they symbols: „Keine DID-Allegorie. Die Alters sind diagnostisch konkret, nicht symbolisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L874]
+Five have no somatic filter yet, by its own open points: „Lia, Isabelle, Argus, Silas, Oblivion — Filter offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L895]
+The Vortex leaves one question to them: „Letzter Satz des Klimax-Kapitels: *welcher Alter spricht?*" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821]
