@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -110,9 +110,17 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Plot beats: „Z1-Trigger“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „die Angst, die das auslöst, ist älter als der Tag.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 6: „Kap 15–17 werden Lektüre-Kapitel mit Risiko statt Essay-Kapitel“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]
 
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Turing-Mechanik, the city as a universal Turing machine
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Theory anchor: „Kap 15 — Turing-Mechanik. Kanonischer Theorie-Anker.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] (§6.2 Turing, marked `[K]`) · „Kap 15 explizit, AEGIS-Logs durchgängig, Vortex 1 Beat 5.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L319]
+- Plot beats: „Kael versteht: die Stadt ist eine universelle Turingmaschine, deren Reparaturalgorithmen prinzipiell nicht terminieren.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] · „Akt-II-Eskalation als Technothriller-Kippe.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310]
+- Theory anchor: „Turing — Halteproblem“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L702] · function „Stadt als universelle Turingmaschine“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L703] (§14.3)
+
 ## Where the sources differ
 
-- **Title.** „Schattenwurf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L562] (Konzept-Iteration Genesis) · „Z1-Destabilisierung: Trigger“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L587] (strukturierter Outline; „Z1-Trigger“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L989] in the konsolidiertes Konzept) · „Turing-Mechanik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211] (Kapitel-Kompendium; so too storyform outline). The first is the others' sensory note, „Sensorik: Schattenwurf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990] (konsolidiertes Konzept); the storyform outline keeps the second as „(Zyklus-Funktion: Z1-Trigger)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340] (storyform outline).
+- **Title.** „Schattenwurf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L562] (Konzept-Iteration Genesis) · „Z1-Destabilisierung: Trigger“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L587] (strukturierter Outline; „Z1-Trigger“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L989] in the konsolidiertes Konzept) · „Turing-Mechanik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211] (Kapitel-Kompendium; so too storyform outline). The first is the others' sensory note, „Sensorik: Schattenwurf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990] (konsolidiertes Konzept); the storyform outline keeps the second as „(Zyklus-Funktion: Z1-Trigger)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340] (storyform outline). · „Kap 15 — Turing-Mechanik.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] (the philosophy catalogue, as its theory anchor).
 
 ## Questions for this chapter
 
