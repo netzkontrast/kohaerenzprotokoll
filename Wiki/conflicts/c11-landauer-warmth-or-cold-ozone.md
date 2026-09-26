@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 21
+sources: 22
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -253,3 +253,11 @@ Its rule, §0: „Landauer wird zu Hitze und Ozon, nie zu Gleichungen." ^[kohaer
 Warmth is [[juna|Juna]]'s: „Junas Wärme, Telefon-Stille als MI ohne Daten, Silas' Echo-Prosa: alles Qualia-Träger." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L375]; her effect is „Wärme, die plötzlich da ist" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L445]. And Kap 3, the chapter of her first hint: „Anti-Phaenomena (Bruch des Filters, Wärme als Substrat-Spur)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L696].
 Kap 6 is „Semantische Firewall" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L700] and Kap 36 Beat 5 „Algorithmische Melancholie (Lem)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L729], neither with heat; Beat 4 is not named. `kalt`, `kalte`, `Kälte` and `warm` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/05-verify.txt`).
 The master report's heat and ozone beside the lock's warmth as Juna's, in one document dated after the lock of 2026-05-30, without saying the ozone is cold or whose the heat is. Row 1's Kap-6 and Kap-36 warmth are neither held nor denied; the conflict stays open.
+
+## 2026-09-26 — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log
+
+**Cold ozone in one scene of Kap 25, warmth kept out of it and present only as a back-reference — and `Hitze-Polarität` as what its canon requires of the chapter.**
+From the canon it ranks „Repo (normativ/" ^[2026-09-14-kap25-vertiefung-md.md:L31] `[K]`, its claim about the storyform outline: „Kap 25: Schwelle, nicht Konfrontation; Schleier offen benannt; Hitze-Polarität; R-Regeln" ^[2026-09-14-kap25-vertiefung-md.md:L31].
+Its self-review against the drafting rules it attributes to the drafting manual: „R-5 kaltes Ozon nur in der Abmeldeszene, Wärme dort nicht; Wärmespur nur als Rückverweis" ^[2026-09-14-kap25-vertiefung-md.md:L47] — „die vier Abende" ^[2026-09-14-kap25-vertiefung-md.md:L47] — „in einer ozonfreien Szene" ^[2026-09-14-kap25-vertiefung-md.md:L47].
+Whose warmth it does not say: `Juna` stands once, in „R-10 Juna nie Subjekt, nie Name, nie Körper, nie Stimme" ^[2026-09-14-kap25-vertiefung-md.md:L47]. `Landauer`, `warm`, `Kap 6` and `Kap 36` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`).
+Row 2's rendering applied to a chapter of a manuscript: cold ozone and warmth never in one scene. It names no Landauer trace, so row 1's warmth in Kap 6 and Kap 36 is neither held nor denied; the conflict stays open.
