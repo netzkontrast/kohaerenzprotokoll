@@ -1,10 +1,10 @@
 ---
 term: TSDP
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none yet
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
 gathered: "2026-09-25"
 ---
 
@@ -122,6 +122,11 @@ The EPs as correspondence: the first axis is „Epistemologische Achse: Wahrheit
 The split as a wound of embodiment (§3.4, `[V]`): „Die ANP-EP-Spaltung bei Kael ist Anti-Merleau-Ponty: das Trauma trennt Geist und Körper." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L199] „Heilung = Wiedergewinnung der verkörperten Präsenz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L199]
 **The barriers fall in the [[vortex|Vortex]], placed twice without comment.** In Kap 35 (§3.5, `[K]`): „Erklärt die Auflösung des Subjekt-Objekt-Spalts in Kap 35 (Vortex 1)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L210] — „Wenn Kael die ANP/EP-Barrieren fallen lässt" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L210], it „geschieht das nicht als Wieder-Vereinigung einer ursprünglichen Substanz, sondern als Erkennen, dass es nie eine Substanz war." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L210] And in Beat 2 (§12.3, `[K]`): „die Auflösung der ANP/EP-Barrieren in Vortex 1 Beat 2 ist Anatta-Moment" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L581].
 IFS stands beside it as the clinical model of the resolution, „IFS (Internal Family Systems) als klinisches Modell" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L572], and in [[selene|Selene]]'s row, „IFS-Mediator, Polanyi (tacit knowledge), Vor-Trennungs-Substrat (Śūnyatā-nah)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L632].
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — an older TSDP analysis, used for structure only
+
+`TSDP` stands only in the title of a Drive document the log lists as a secondary source, „TSDP-Analyse: Kaels innere Welt" ^[2026-09-14-kap25-vertiefung-md.md:L40], and a title is not the term (J9). What the row says it took from that document is the model's own structure, which places the reading here (J62): „Schutz-Anteil als Aktionssystem (Verteidigung) gegen ANP-Alltagssystem" ^[2026-09-14-kap25-vertiefung-md.md:L40], and „inneres Tauziehen" ^[2026-09-14-kap25-vertiefung-md.md:L40] „als Körperbild für die gegenläufige Spannung im Unterarm" ^[2026-09-14-kap25-vertiefung-md.md:L40] — in its account of the revised chapter, the hand that moves by itself „wird von einer zweiten Spannung im selben Unterarm gestoppt" ^[2026-09-14-kap25-vertiefung-md.md:L21].
+Its status in the row, labelled `[S]`: „älteres Roster (Kai), nur strukturell genutzt" ^[2026-09-14-kap25-vertiefung-md.md:L40]; and for all four such sources, „Kein Material aus [S]-Quellen wurde als Kanon behandelt" ^[2026-09-14-kap25-vertiefung-md.md:L43]. That is the log's claim about the other document, which is landed as `tsdp-analyse-kaels-innere-welt` and has no census. The log names no alter category, no phobia and no count of parts.
 
 ## Occurrences only
 
