@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 10
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+sources: 11
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -136,6 +136,15 @@ Position: „Coda | 40 | Bezeugung statt Buchung“ ^[kp-plot-konkretisierung-13
 - Lock: „Kein Satz adjudiziert; doppellesbar bleibt gewahrt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Leitmotiv: „in Kap 40 erscheint er genau einmal wieder — ohne Ozon“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129]
 - Lock conformity: „Kap-40-Klick ohne Ozon ist sensorisch, nicht erklärend; keine Reset-Bestätigung, keine Transfigurations-Erklärung.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L246]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the Coda: Habermas' two layers, the Genesis-Klammer
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Coda: „Wo im Roman. Schluss-Klang Kap 39, Coda Kap 40.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L88] · „In Kap 40 (und Kap 39 Schluss-Klang) müssen beide Schichten spürbar getrennt bleiben.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L85] · „Wahrheit-Schicht und Richtigkeit-Schicht sind verschiedene Ordnungen.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L85] (§1.4 Habermas, marked `[K]`)
+- The two closing sentences, one layer each: „„Die Trennung war nie real" (Wahrheit, konstatierend, ontologisch)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L78] · „„Aber das ändert nichts am Schmerz" (Richtigkeit, regulativ, ethisch-erfahrungsbezogen)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L79] (§1.4)
+- Frame: „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464] · „Kap 0↔40 (Genesis-Klammer).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470] (§9.4 Ouroboros, marked `[K]`)
+- Theory anchor: „Habermas (Wahrheit vs. Richtigkeit) + Ouroboros“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L738] · function „Doppellesbarkeit ohne Adjudikation“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L739] (§14.3)
 
 ## Where the sources differ
 
