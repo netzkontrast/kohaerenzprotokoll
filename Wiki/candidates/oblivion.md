@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -127,3 +127,9 @@ On the axis of the DKT's „Charakter-Inkarnationen" ^[worldbuilding-konzept-koh
 „Diese Achse ist die *vertikale* Symmetrieebene des Romans. Sie kreuzt sich orthogonal mit der ANP/EP-Achse (horizontale Trauma-Spaltung) — und im Klimax bricht beides gleichzeitig zusammen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L156]
 The konsolidiertes Konzept's row, in the same words: „Spiegel | Oblivion (AEGIS-Echo) | Erason-Operator | offen | Automat (I) → Bewusstsein (II) → Entscheidung (III)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L411]. From the second trauma layer (L435). His somatic filter is open: „Lia, Isabelle, Argus, Silas, Oblivion — Filter offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L895]
 No line that names Oblivion names warmth, heat or Landauer (C11). The document has no section on the two mirror alters, where the konsolidiertes Konzept has its V.4 (`grep -c Spiegel-Alter`: 0).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Erason-Operator, and OQ-G kept open
+
+In the figure table §14.1, which carries no label: „Erason-Operator, autopoietische Vollstreckung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L656], DKT correlate „Erason-Operator" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L657].
+What becomes of him is open, in §17: „Was geschieht mit Oblivion nach Vortex 1? (OQ-G)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L796] — „offen — Vorschlag: bewusste Wahl statt automatische Löschung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L797]. The Alter profiles of the same date make the same proposal under OQ-G (above), where he takes over AEGIS' function by choice; this document names only the choice.
+Nothing else in the document names Oblivion (`grep -cw Oblivion`: 2), and no line naming him names warmth, heat or Landauer (C11).
