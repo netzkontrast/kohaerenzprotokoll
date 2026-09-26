@@ -73,5 +73,49 @@
    "question": "Wenn Mnemosyne in Kapitel 36 die erste betroffene Guardian ist, wie die Storyform-Outline sagt, was kippt dann für Kapitel 31, in dem dieselbe Quelle die Auflösung der Guardians erzählt?",
    "draws_on": "kap-31 Where the sources differ: Guardians after Kap 31; GOAL §4.5 #8"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn die Erasure im Heat Spike sein integriertes, MI-dichtes Selbst trifft und der Apparat sich laut der Plot-Konkretisierung an dem erhitzt, was er nicht glätten kann, und was steht ihm noch entgegen, wenn AEGIS' operative Closure bricht und AEGIS verstummt?",
+   "draws_on": "storyform outline Beat 4 and 5; Plot-Konkretisierung Heat Spike; POV line AEGIS verstummend"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn AEGIS-monolithisch laut Kapitel-Kompendium und Storyform-Outline hier erlischt, laut der strukturierten Outline aber nicht zerstört ist: was verliert Kael mit AEGIS' Zentrum, und was, wenn Oblivion AEGIS' Funktion in seinem Innensystem als entscheidende Wachheit übernimmt?",
+   "draws_on": "Where the sources differ: when AEGIS-monolithisch goes out; structured outline characters"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist nach der Rotation anders, wenn die Truth-Rotation komplett ist, Algorithmische Melancholie einsetzt, B als gewesen markiert wird und der Klick verstummt, und welcher Wert kippt, wenn laut der Plot-Konkretisierung die Ausnahme sich als die einzige Buchung erweist, die hält?",
+   "draws_on": "storyform outline Beat 5; konsolidiertes Konzept Beat 5; Plot-Konkretisierung Rotation"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird das Verstummen erzählt, aus Kael oder einem verstummenden AEGIS, und welcher Alter spricht den letzten Satz des Klimax-Kapitels, den Storyform-Outline und Plot-Konkretisierung als offene Frage stellen?",
+   "draws_on": "POV line Kael, AEGIS verstummend; storyform outline and Plot-Konkretisierung open point"
+  },
+  {
+   "id": "B5",
+   "question": "Wo endet der Vortex, in der Mnemosyne-Server-Architektur von KW2, und wie spürt Kael die Landauer-Wärme, als unmöglichen Spike allein im Heat Spike, wie die Storyform-Outline sagt, oder auch als Schluss-Markierung mit Stille danach, und was sieht er, wenn die Externe Ebene durchblitzt?",
+   "draws_on": "Where the sources differ: Landauer warmth (C11); Kernwelten vollständig Externe Ebene"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt das Kapitel nach der Stille des Pivots ein, und welches offene Ende trägt den Leser in den trügerischen Sieg des Gärtners, wenn laut der Konzept-Iteration die Auflösung auf etwas öffnet, statt zu schließen, und sie fragt, was AEGIS-monolithisch danach ist?",
+   "draws_on": "neighbour kap-35 (Silence); Konzept-Iteration open end and open question; neighbour kap-37"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat das Kapitel zwischen Ordeal und vorgegriffenem Reward, vor der Konsolidierung auf A allein, wenn die Storyform-Outline AEGIS-monolithisch hier und noch einmal im Wir-AEGIS-plural erlöschen lässt, und was fehlte dem Roman, wenn die operative Wendung nicht als Übergang gebaut wäre?",
+   "draws_on": "Where the sources differ: stage, when AEGIS-monolithisch goes out; Kapitel-Kompendium transition; structured outline: die operative Wendung ist nicht das Ende"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn es laut der strukturierten Outline keinen Triumph gibt, nur Landauer-Wärme und Stille, und AEGIS in Algorithmischer Melancholie verstummt, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "structured outline Sensorik; storyform B in the plans"
+  }
+ ],
+ "about": "Das Kapitel schließt den Vortex der operativen Wendung mit Heat Spike und Rotation, Kernwelten vollständig gibt ihm auch die Stille; in der äußeren Heldenreise ist es laut der Konzept-Iteration ein vorgegriffener Reward, laut der strukturierten Outline der im Vortex gespiegelte Reward, laut der Storyform-Outline noch das Ordeal, und laut der strukturierten Outline der erste Höhepunkt des Ten; an seinem Ende liegt laut Kapitel-Kompendium die Storyform-Konsolidierung, nach der nur noch A aktiv ist, mit Resolve Change vollzogen in A und in B dem manifesten Failure, der Algorithmischen Melancholie und dem Erlöschen von AEGIS-monolithisch als Cost. Im Heat Spike trifft die Erasure laut der Storyform-Outline das integrierte, MI-dichte Ziel, Mnemosyne ist die erste betroffene Guardian, und die Landauer-Wärme ist laut Storyform-Outline und Plot-Konkretisierung allein diesem Spike vorbehalten, laut Konzept-Iteration, Spec und strukturierter Outline auch Schluss-Markierung mit Stille danach. In der Rotation bricht AEGIS' operative Closure und die Truth-Rotation wird komplett; laut Kapitel-Kompendium und Storyform-Outline erlischt AEGIS-monolithisch hier, laut der strukturierten Outline als operative Form, aber nicht zerstört, und Oblivion übernimmt AEGIS' Funktion in Kaels Innensystem als Wachheit. Kernwelten vollständig setzt das Kapitel in die Mnemosyne-Server-Architektur von KW2 und lässt die Externe Ebene durchblitzen, die Plot-Konkretisierung lässt den Klick verstummen, laut der Konzept-Iteration öffnet die Auflösung auf etwas, statt zu schließen, und die AEGIS-Subplots schlugen entfesselte Welten vor, gefährlicher und vielleicht freier.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, master report, 39-chapter spec, structured outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline, Plot-Konkretisierung, aegis-subplots; Where the sources differ: beats, AEGIS-monolithisch, Landauer warmth; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
 }

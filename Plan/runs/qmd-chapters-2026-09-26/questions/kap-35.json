@@ -73,5 +73,49 @@
    "question": "Welche Spur Junas steht in Kapitel 35 – laut Plot-Konkretisierung ist ihr Datensatz der letzte verbleibende Eintrag in der Schlange –, und wie bleibt sie dabei reine Wirkung, nie Subjekt?",
    "draws_on": "Plot-Konkretisierung Juna trace; GOAL §5.4 Juna-Grammatik"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael im Vortex, wenn AEGIS laut strukturierter Outline und Storyform-Outline den finalen Erasure-Sweep auf Kaels Fragmente konvergieren lässt, und handelt er dagegen, indem er das Wir als lebenden Widerspruch in AEGIS einspeist, oder laut der Plot-Konkretisierung, indem er die Hand von der Konsole nimmt?",
+   "draws_on": "Where the sources differ: Beat 1, who acts; Beat 2; Plot-Konkretisierung pivot marker"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn der Erasure-Sweep auf Kaels Cluster konvergiert und laut der Plot-Konkretisierung die letzte Zuweisung der Antrag auf das Ganze ist: was verliert Kael, wenn er bestätigt oder verwirft, und was, wenn er die dialetheische Wahl als Nicht-Bedienung trifft?",
+   "draws_on": "storyform outline Beat 1; Plot-Konkretisierung Beat 2"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist nach der Pursuit-Adoption anders, wenn Kael laut der strukturierten Outline die ANP/EP-Barrieren fallen lässt und Trauma integriert, laut der Storyform-Outline von linear zu holistisch wechselt: welcher Wert kippt, wenn Handeln zur Nicht-Bedienung wird und AEGIS' Stimme stottert?",
+   "draws_on": "Where the sources differ: Beat 2; Kapitel-Kompendium Resolve=Change"
+  },
+  {
+   "id": "B4",
+   "question": "Wird die Einspeisung des paradoxen Selbst aus dem Wir erzählt, dessen Blick auf ein brechendes AEGIS übergeht, und was bedeutet es für die Stimme, wenn laut der Storyform-Outline die Zeugen-Schicht des husserlschen Spectators aktiv ist?",
+   "draws_on": "POV line Kael (Wir) → AEGIS bricht; storyform outline witness layer"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt der Vortex, im Mnemosyne-Archipel oder laut dem Kapitel-Kompendium in der Mnemosyne-Server-Architektur von KW2, und wie verankern Ozon-Spike, Temperatur-Anomalie, glühender paradoxer Code, eine einzige körperliche Geste und das Fehlen des Klicks die Szene im Körper?",
+   "draws_on": "Where the sources differ: setting name; storyform outline atmosphere; Plot-Konkretisierung sensory anchor"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt der Vortex nach dem Duell von Wir und Makro-Log ein, mit Kaels Anlauf oder mit AEGIS' Erasure-Sweep, und endet das Kapitel in der Stille, in der alle Kinetik endet, oder laut der strukturierten Outline damit, dass AEGIS die Genesis zeigen muss, bevor der Heat Spike folgt?",
+   "draws_on": "neighbour kap-34; Where the sources differ: Beat 1, Beat 3, which beats; neighbour kap-36"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat das Ordeal in der ersten Hälfte des Vortex, auf der echten Storyform-Wendung von B zu A, wenn laut Konzept-Master-Report hier nicht der Integrationsmoment liegt, sondern seine Folge auf AEGIS, und was fehlte dem Roman, wenn man Anlauf, Pivot und Stille striche?",
+   "draws_on": "stage Ordeal; Kapitel-Kompendium transition; master report: not the integration, Pivot ≠ Driver-Flip"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser in der Stille fühlen, die laut Konzept-Master-Report nicht mystisch ist, sondern die Folge zweier Uhren, und in der laut der Plot-Konkretisierung Junas Spur der letzte verbleibende Eintrag ist, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "master report Silence; Plot-Konkretisierung Juna trace"
+  }
+ ],
+ "about": "Das Kapitel öffnet den Vortex der operativen Wendung und damit die Vortex-Klammer, in der äußeren Heldenreise das Ordeal, laut der strukturierten Outline den ersten Höhepunkt des Ten; hier vollzieht sich der Storyform-Übergang von B zu A, laut Kapitel-Kompendium die echte Storyform-Wendung, an der B zu erlöschen beginnt, in A mit vollzogener Pursuit und Resolve Change, in B mit der nie adoptierten Solution Feeling als manifestem Failure. Welche Beats es trägt, sagen die Pläne verschieden, Kernwelten vollständig nur Convergence und Dialetheic Choice, Storyform-Outline und strukturierte Outline auch die Stille, der Konzept-Master-Report keinem Kapitel einen Beat; laut dem konsolidierten Konzept formuliert Kael das Wir als lebenden Widerspruch und speist es in AEGIS' Logik ein, bis AEGIS' Stimme stottert, laut strukturierter Outline und Storyform-Outline lässt AEGIS den finalen Erasure-Sweep auf Kaels Fragmente konvergieren. Die Wahl ist laut der strukturierten Outline das Fallenlassen der ANP/EP-Barrieren, laut der Storyform-Outline ein Wechsel von linear zu holistisch mit einer einzigen Geste, laut der Plot-Konkretisierung die Nicht-Bedienung, wenn Kael die Hand von der Konsole nimmt. Es spielt im Mnemosyne-Archipel (strukturierte Outline, Konzept-Master-Report) oder in der Mnemosyne-Server-Architektur von KW2 (Kapitel-Kompendium, Storyform-Outline), unter Ozon-Spike und glühendem paradoxem Code. Die Stille ist laut Storyform-Outline und Konzept-Master-Report strukturell und nicht mit Inhalt zu füllen, laut der strukturierten Outline der Moment, in dem AEGIS die Genesis zeigen muss; die AEGIS-Subplots lasen die Stelle als Nachbeben, Kollaps, Abschaltung oder Fragmentierung.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, master report, 39-chapter spec, structured outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline, Plot-Konkretisierung, aegis-subplots; every point under Where the sources differ; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
 }

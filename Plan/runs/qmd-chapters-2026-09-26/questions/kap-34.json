@@ -67,5 +67,49 @@
    "question": "Wenn der Autor Kapitel 34 zur Ordeal-Stufe macht statt zur Inmost Cave, was verschiebt sich in der Heldenreise-Zählung von Kapitel 35 bis 39, insbesondere bei der Frage, ob Kapitel 36 oder 37 die Reward-Stufe trägt?",
    "draws_on": "Where the sources differ: Stage (here and kap-36); GOAL §4.5 #8"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael als Wir, wenn er AEGIS' Makro-Log direkt konfrontiert, und was stellt sich ihm entgegen: AEGIS' negativ definierte, verhindernde Kohärenz gegen Kaels positiv definierte, bezeugende, oder laut der Plot-Konkretisierung ein Log, das Kael als offenen Posten führt?",
+   "draws_on": "structured outline plot beats; Plot-Konkretisierung Konfrontation"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht im verbalen und metaphysischen Duell von Orkan gegen Sphäre auf dem Spiel: was verliert das Wir, wenn es AEGIS im Log-Format antwortet, und was, wenn es laut der Plot-Konkretisierung gar nicht im Log-Format antwortet und AEGIS' Bilanz nicht schließt?",
+   "draws_on": "Konzept-Iteration story; Plot-Konkretisierung plot beats and Datenlast"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist nach der Konfrontation anders, wenn Kael laut Kernwelten vollständig im Mosaik-Herz Juna als Teil seiner selbst akzeptiert und AEGIS ihn danach ins Substrat treibt: welcher Wert kippt, wenn das Fremde in Kael zum Eigenen wird?",
+   "draws_on": "Kernwelten vollständig note, place and transition"
+  },
+  {
+   "id": "B4",
+   "question": "Wird die Konfrontation aus dem Wir erzählt, das AEGIS' Makro-Log gegenübersteht, und wie teilen sich Kaels Stimme und AEGIS' Log-Stimme das Kapitel, wenn die strukturierte Outline sagt, dass auch AEGIS leidet, ohne es zu wissen?",
+   "draws_on": "POV lines Kael (Wir) vs. AEGIS (Makro-Log); structured outline tonale Achse"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt das Duell, im Mosaik-Herz von KW4 vor dem Vortex, und welche Sinneseindrücke tragen Orkan gegen Sphäre, kollidierende Tonalitäten und AEGIS' Datenlast in Kaels Körper, wenn Mnemosyne laut der strukturierten Outline am Setting ist?",
+   "draws_on": "Kernwelten vollständig world; leitmotif in the plans; structured outline characters"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Konfrontation ein, nachdem Kael am Fundament die nicht-algorithmische Unterstruktur berührt hat, und welches Ereignis trägt den Leser in den Erasure-Sweep des Vortex, laut Kernwelten vollständig AEGIS, der Kael ins Substrat treibt, ohne ihm eine Wahl zu lassen?",
+   "draws_on": "neighbour kap-33 (Fundament); Kernwelten vollständig transition; neighbour kap-35 (Erasure-Sweep)"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Konfrontation als letzte Station vor der echten Storyform-Wendung, wenn die Pläne sie als fortgesetzte Inmost Cave, als Ordeal-Vorbereitung oder als Ordeal-Annäherung zählen und A und B hier in maximaler Vor-Vortex-Spannung stehen, und was fehlte dem Vortex ohne sie?",
+   "draws_on": "Where the sources differ: stage; structured outline storyform; Kapitel-Kompendium transition on kap-35"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn zwei Arten der Kohärenz aufeinandertreffen und AEGIS leidet, ohne es zu wissen, während Kael Juna als Teil seiner selbst annimmt, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "structured outline tonale Achse; Kernwelten vollständig note"
+  }
+ ],
+ "about": "In der äußeren Heldenreise ist das laut der Konzept-Iteration die fortgesetzte Inmost Cave, laut der strukturierten Outline die Ordeal-Vorbereitung, laut der Storyform-Outline die Ordeal-Annäherung, im dritten Akt der äußeren Konfrontation und laut der strukturierten Outline im beginnenden Ten; in Storyform A ist das MC-Concern dominant mit Pursuit als Stand, in B lastet AEGIS' Datenlast, beide laut der strukturierten Outline in maximaler Spannung vor dem Vortex, und an seinem Ende liegt laut Kapitel-Kompendium die echte Storyform-Wendung, an der B zu erlöschen beginnt. Kael als Wir konfrontiert AEGIS' Makro-Log direkt, in einem verbalen und metaphysischen Duell zweier Arten der Kohärenz, AEGIS' negativ definierter, verhindernder und Kaels positiv definierter, bezeugender, im Bild von Orkan gegen Sphäre; laut der strukturierten Outline ist Mnemosyne am Setting, und auch AEGIS leidet, ohne es zu wissen. Kernwelten vollständig setzt das Kapitel ins Mosaik-Herz von KW4, wo Kael Juna als Teil seiner selbst akzeptiert, bevor AEGIS ihn ohne Wahl ins Substrat treibt. Laut der Plot-Konkretisierung führt das Makro-Log Kael als offenen Posten, das Wir antwortet nicht im Log-Format, und AEGIS' Datenlast ist eine Bilanz, die nicht schließt; die AEGIS-Subplots schlugen einen Raum vor, der AEGIS' Kern repräsentiert, und eher einen Moment des Verstehens als einen Kampf.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, structured outline, Kernwelten vollständig, storyform outline, Plot-Konkretisierung, aegis-subplots; Where the sources differ: stage; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
 }

@@ -67,5 +67,49 @@
    "question": "Ist das Rauschen in Kapitel 38 der sichtbare Kollaps des Universums (Outline vom 2026-05-18, Storyform-Outline) oder, wie die AEGIS-Subplots von 2025 vorschlagen, kreatives Chaos, in dem die gefürchtete Entropie Neues hervorbringt?",
    "draws_on": "Where the sources differ: What the chaos is"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will das Wir-Geflecht, wenn das Rauschen von allen Seiten kommt und laut der Plot-Konkretisierung als unendliche Zuweisung alles zugleich seine Bewahrung beantragt, und was stellt sich ihm entgegen, wenn es erkennt, dass kein Apparat und nichts Gewonnenes reicht?",
+   "draws_on": "storyform outline plot beats; Plot-Konkretisierung Beat 2"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn das Universum sichtbar kollabiert und das Wir entscheidet, ins Ouroboros zu gehen: was verliert Kael, wenn er die plurale Bewahrung nicht wagt, und was, wenn er sie wagt?",
+   "draws_on": "structured outline Beats 1 and 4–5; konsolidiertes Konzept Beat 5"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist anders, wenn Juna erscheint, einfach da, ohne Worte, ohne Anweisung, und Kael sie wiedererkennt, weil die Echos das Vor-Trennungs-Sein tragen: welcher Wert kippt, wenn die ursprüngliche Resonanz diesmal nicht abgewehrt, sondern empfangen wird?",
+   "draws_on": "Juna beat in every 2026 plan; Konzept-Iteration Beat 4 and Genesis echo"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die ankommende Resonanz erzählt, aus dem Wir-Geflecht, aus einem Wir-erleuchteten Kael laut der Spec, oder mit Juna in der POV-Zeile der strukturierten Outline, und wie klingt Junas Stimme als Raum statt als Klang, wenn sie keine Worte hat?",
+   "draws_on": "POV lines of the spec and structured outline; Sensorik line"
+  },
+  {
+   "id": "B5",
+   "question": "Wo erscheint Juna, wenn Kernwelten vollständig die Externe Ebene und KW4 simultan setzt und Junas Ankerpunkt an einem Ort in Köln noch offen lässt, und wie verankern Stille mit anwachsendem Druck und eine Warteschlange ohne Zahl die Szene im Körper?",
+   "draws_on": "Kernwelten vollständig world and place; leitmotif; Plot-Konkretisierung world"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die ontologische Wendung ein, wenn der trügerische Sieg als trügerisch erkannt wird und das Rauschen von allen Seiten kommt, und wie trägt die Entscheidung des Wir, ins Ouroboros zu gehen, den Leser in die Verwandlung zum Wir-AEGIS-plural?",
+   "draws_on": "neighbour kap-37; structured outline Beats 1–2 and 4–5; neighbour kap-39"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat Junas erste direkte Erscheinung auf der Road Back, die die Spec Resurrection nennt, wenn das konsolidierte Konzept sie als Klimax ihrer bisherigen Modi liest und Kael laut Kernwelten vollständig hier die Position des Lesers erreicht, und was fehlte dem Ende ohne sie?",
+   "draws_on": "stage lines; konsolidiertes Konzept Juna; Kernwelten vollständig reader; record C7"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael Juna erreicht und damit seine eigene Position, und das Chaos laut den AEGIS-Subplots nicht nur Kollaps, sondern Quelle für Neues ist, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Kernwelten vollständig reader; Where the sources differ: what the chaos is"
+  }
+ ],
+ "about": "Das Kapitel öffnet den Vortex der ontologischen Wendung, der die Vortex-Klammer schließt; in der äußeren Heldenreise ist es laut Konzept-Iteration, konsolidiertem Konzept, strukturierter Outline und Storyform-Outline die Road Back, laut der Spec die Resurrection, in Kishōtenketsu laut der strukturierten Outline der Übergang von Ten zu Ketsu, und in Storyform A trägt es die RS-Physics maximal mit Junas direkter Anwesenheit, laut der Spec das MC-Concern der gesicherten Funktionalen Multiplizität, in B das sichtbar kollabierende Universum. Das Rauschen kommt sensorisch und ontologisch von allen Seiten, und das Wir-Geflecht erkennt, dass das Gewonnene nicht reicht und der Sieg trügerisch war. In einem Stille-Beat erscheint Juna zum ersten Mal direkt, einfach da, ohne Worte, ohne Anweisung, ihre Stimme als Raum statt als Klang; Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen, und als Genesis-Echo wird die ursprüngliche Resonanz diesmal empfangen statt abgewehrt. Mit pluraler Bewahrung als Lösung entscheidet das Wir, ins Ouroboros zu gehen. Kernwelten vollständig setzt die Externe Ebene und KW4 simultan, mit Junas noch offenem Ankerpunkt in Köln, und sagt, dass Kael hier die Position des Lesers erreicht, laut der Plot-Konkretisierung beantragt alles zugleich seine Bewahrung und ab Junas Erscheinung ruht der Faden, und die AEGIS-Subplots lasen das Chaos nach AEGIS' Fall als Quelle für Neues und Unerwartetes.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, structured outline, Kernwelten vollständig, storyform outline, Plot-Konkretisierung, aegis-subplots; Where the sources differ: what the chaos is; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
 }

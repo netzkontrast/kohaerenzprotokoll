@@ -73,5 +73,49 @@
    "question": "Übt in Kapitel 37 Oblivion die Funktion aus, die es laut Outline vom 2026-05-18 in Kapitel 36 von AEGIS übernimmt, als Wachheit, die entscheidet statt löscht, und welcher Alter bemerkt als erster die feinen Sprünge am Rand?",
    "draws_on": "kap-36 strukturierter Outline characters line; Sensorik lines here"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael als Gärtner, wenn er laut der Plot-Konkretisierung einen sanften Apparat baut, in dem Zuweisungen beantwortet statt bestätigt werden, und was stellt sich ihm entgegen, wenn am Rand der Wahrnehmung etwas zu zerfasern beginnt und laut den AEGIS-Subplots Reste von AEGIS Ordnungsinseln bilden?",
+   "draws_on": "Plot-Konkretisierung plot beats; konsolidiertes Konzept story; aegis-subplots"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht im trügerischen Sieg auf dem Spiel, wenn der Hüter laut der Konzept-Iteration hütet, was schon zerfällt, und das Universum ohne AEGIS ungeschützt ist: was verliert Kael, wenn er den Frieden für echt hält, und was, wenn er ihn aufgibt?",
+   "draws_on": "Konzept-Iteration storyform A and Genesis echo"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende des falschen Friedens anders als an seinem Anfang, wenn sich laut der Plot-Konkretisierung die Schlange mit Einträgen füllt, deren Absender das Rauschen ist, und welcher Wert kippt, wenn Ruhe zum Vorzeichen wird und keine Resolution-Glättung erlaubt ist?",
+   "draws_on": "Plot-Konkretisierung; Kapitel-Kompendium and storyform outline hard constraint"
+  },
+  {
+   "id": "B4",
+   "question": "Wie klingt die Stimme eines etablierten Wir, wenn nur A scheinbar aktiv ist und feine B-Echos mitlaufen, und wie bleibt der Gärtner ruhig erzählt, während der Leser zugleich das Zerfasern hören muss?",
+   "draws_on": "POV line Kael (Wir, etabliert); storyform bridge line"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt der trügerische Sieg, in der trügerischen Pastorale von KW4 oder, laut derselben Quelle an anderer Stelle, anders verortet, bei einem Welt-Wechsel ohne Bewegung, und wie verankern kristallisiertes Gewebe, neue Architektur und feine Sprünge am Rand der Wahrnehmung die Szene im Körper?",
+   "draws_on": "Where the sources differ: world within Kernwelten vollständig; leitmotif in the plans"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt der Reward-Beat ein, nachdem AEGIS-monolithisch verstummt ist, und wie trägt das beginnende Rauschen, laut mehreren Plänen das Nichts-Rauschen der Genesis, den Leser zum Substrat-Bruch, in dem das Rauschen von allen Seiten kommt?",
+   "draws_on": "neighbour kap-36; Genesis echo in konsolidiertes Konzept, structured outline, storyform outline; Kernwelten vollständig transition; neighbour kap-38"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat der falsche Frieden als Reward der äußeren Heldenreise und als Pause im Ten zwischen der operativen und der ontologischen Wendung, und was fehlte dem Vortex danach, wenn man den Gärtner striche, dessen Sieg dort als trügerisch erkannt wird?",
+   "draws_on": "stage lines; structured outline position Ten (Pause); neighbour kap-38 Beat 2"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser in der kristallisierten Ruhe mit feinem Unterton fühlen, die trügerisch ruhig ist und keine Glättung erlaubt, und wie berührt das Hüten von etwas, das schon zerfällt, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Konzept-Iteration tonality and storyform A"
+  }
+ ],
+ "about": "In der äußeren Heldenreise ist das der Reward, laut Spec und strukturierter Outline Reward und Phasenübergang, laut der Storyform-Outline der Reward als trügerischer Sieg, laut der strukturierten Outline die Pause im Ten, eine eigene Phase des trügerischen Siegs zwischen der operativen und der ontologischen Wendung; es steht nach der Konsolidierung, nach der laut Kapitel-Kompendium nur noch A aktiv ist, in A mit dem MC-Concern der neuen Rolle als Hüter, in B laut Konzept-Iteration und Kapitel-Kompendium scheinbar nicht aktiv, mit feinen Echos als Vorzeichen des Rauschens, laut der Spec nicht mehr aktiv. Kael etabliert sich als Wir in der Rolle des Gärtners: ein klassischer Reward-Beat als falscher Frieden, kristallisierte Ruhe mit feinem Unterton. Am Rand der Wahrnehmung beginnt etwas zu zerfasern; mehrere Pläne nennen dieses Rauschen das Nichts-Rauschen der Genesis, und laut der Konzept-Iteration hütet der Hüter, was schon zerfällt, weil das Universum ohne AEGIS ungeschützt ist. Kapitel-Kompendium und Storyform-Outline verbieten jede Resolution-Glättung, und laut der Plot-Konkretisierung baut Kael einen sanften Apparat, der Zuweisungen beantwortet statt bestätigt, während sich die Schlange mit Einträgen füllt, deren Absender das Rauschen ist. Kernwelten vollständig setzt die trügerische Pastorale in KW4 und nennt sie an anderer Stelle anders verortet; die AEGIS-Subplots schlugen Ordnungsinseln überlebender Guardians und eines rudimentären AEGIS vor, über die Kael entscheiden muss.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, structured outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline, Plot-Konkretisierung, aegis-subplots; Where the sources differ: world; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
 }
