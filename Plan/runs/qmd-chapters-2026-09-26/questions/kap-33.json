@@ -1,0 +1,71 @@
+{
+ "chapter": 33,
+ "questions": [
+  {
+   "id": "K33-01",
+   "tag": "Konkretheit",
+   "question": "Was tut Kael in Kapitel 33, wenn er am Kern von AEGIS die K₁-Reinform berührt – welche Handlung, welches Objekt (die Plot-Konkretisierung nennt ein Original-Dokument, die erste Zuweisung), welcher Ort –, und was riskiert er dabei?",
+   "draws_on": "Genesis-echo lines; Plot-Konkretisierung Idea 10; GOAL §4.5 #3"
+  },
+  {
+   "id": "K33-02",
+   "tag": "Kausalität",
+   "question": "Welches Ereignis aus dem Wahrheits-Test von Kapitel 32 öffnet Kael den Weg zu AEGIS' Kern in Kapitel 33, und womit endet Kapitel 33, sodass die direkte Konfrontation Wir gegen Makro-Log in Kapitel 34 unausweichlich wird?",
+   "draws_on": "neighbour pages kap-32 and kap-34; GOAL §4.5 #4"
+  },
+  {
+   "id": "K33-03",
+   "tag": "Leser-Wissen",
+   "question": "Was begreift der Leser in Kapitel 33, wenn Kael berührt, was AEGIS in der Genesis als Bedrohung erlebte, was Kael davon nicht einordnen kann, und welche falsche Deutung der Berührung bleibt bis zur Truth-Rotation im Vortex stehen?",
+   "draws_on": "Konzept-Iteration Genesis echo; GOAL §4.5 #5, §5.3 Truth-Rotation"
+  },
+  {
+   "id": "K33-04",
+   "tag": "Storyform",
+   "question": "Laut Konzept-Master-Report erreicht Kael in Kapitel 33 Funktionale Multiplizität, nicht Final Fusion; welcher Storypoint in A (MC-Concern nahe an der Quelle) zeigt das, und was trägt B mit parakonsistenter Logik und Gödel-Sätzen?",
+   "draws_on": "master report reading; storyform lines of three plans"
+  },
+  {
+   "id": "K33-05",
+   "tag": "Struktur",
+   "question": "Wie bereitet Kapitel 33 als Heldenreise-Stufe Approach the Inmost Cave den Vortex vor, ohne den Integrationsmoment vorwegzunehmen, wenn der Master-Report den Vortex nur als Folge der Integration auf AEGIS liest?",
+   "draws_on": "master report: Vortex nicht der Integrationsmoment; stage lines; GOAL §5.1"
+  },
+  {
+   "id": "K33-06",
+   "tag": "Konflikt",
+   "question": "Erscheint Juna in Kapitel 33 im Garten der stillen Präsenz als spürbare Präsenz, wie die Charakter-Bibel vom 2026-05-08 sagt, oder nur als Wirkung, damit ihre erste direkte Erscheinung in Kapitel 38 nicht vorweggenommen wird?",
+   "draws_on": "record C7; Kernwelten vollständig: Setting der Juna-Wirkung"
+  },
+  {
+   "id": "K33-07",
+   "tag": "Setup/Payoff",
+   "question": "Der Datensatz ohne Datentyp liegt laut Plot-Konkretisierung in Kapitel 33 unangetastet seit Kapitel 18 neben dem Original; wie wird er hier gezeigt, und in welchem späteren Kapitel wird er eingelöst?",
+   "draws_on": "Plot-Konkretisierung Juna trace; GOAL §4.5 #6"
+  },
+  {
+   "id": "K33-08",
+   "tag": "Welt/Sensorik",
+   "question": "Braucht Kapitel 33 zwei Orte, die Verschränkungs-Insel der Überwelt und den Garten der stillen Präsenz, und wie hält es dabei eine Kernwelt pro Beat und eine Schicht pro Szene bei dunkler Tiefe und Vibrieren des Fundaments ein?",
+   "draws_on": "Kernwelten vollständig world line; Sensorik lines; GOAL §5.4, §5.5"
+  },
+  {
+   "id": "K33-09",
+   "tag": "Lücke",
+   "question": "Welche sichtbare Form hat die K₁-Reinform in Kapitel 33 – Kernwelten vollständig fragt selbst, ob sie eine Visualisierung der Persistenzgleichung ist –, und wie erscheint sie als Bild statt als Theorie?",
+   "draws_on": "Kernwelten vollständig open point (marked [L]); GOAL §4.5 #1"
+  },
+  {
+   "id": "K33-10",
+   "tag": "Figur",
+   "question": "Wie arbeiten in Kapitel 33 alle dreizehn Alters kooperativ, wie der Outline vom 2026-05-18 sagt, ohne dass Stimmen gelabelt werden oder die Szene zur Aufzählung wird, und welcher Alter trägt die Berührung?",
+   "draws_on": "strukturierter Outline characters line; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K33-11",
+   "tag": "Steinbruch",
+   "question": "Könnte die Realitätsbelagerung der AEGIS-Subplots von 2025 – eine wechselnde Alptraumlandschaft, ausgelöste Traumata, drohende erneute Fragmentierung – Kapitel 33 eine Gegenkraft geben, ohne der erreichten Funktionalen Multiplizität zu widersprechen?",
+   "draws_on": "aegis-subplots reading (2025); GOAL §4.5 #9"
+  }
+ ]
+}

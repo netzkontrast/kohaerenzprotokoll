@@ -1,0 +1,77 @@
+{
+ "chapter": 24,
+ "questions": [
+  {
+   "id": "K24-01",
+   "tag": "Konkretheit",
+   "question": "Mit welcher wiederholbaren Handlung und an welchem Objekt sucht Kael in Kapitel 24 die Verbindung zu Juna aktiv, wenn AEGIS die Telefon-Stille zyklisch stört, und wie wird diese Handlung von Störung zu Störung geschickter?",
+   "draws_on": "strukturierter Outline plot beat (Kael learns to seek the connection); GOAL §4.5 #3"
+  },
+  {
+   "id": "K24-02",
+   "tag": "Kausalität",
+   "question": "Wie führt die Selbst-Schöpfung aus Kapitel 23, Mosaik-Herz und eigener Bestand, in Kapitel 24 zur Telefon-Stille, und welches beobachtbare Ereignis am Ende von Kapitel 24 stellt Kael an die Wegkreuzung von Kapitel 25?",
+   "draws_on": "neighbour kap-23 (Mosaik als Schöpfung) and kap-25 (Wegkreuzung); GOAL §4.5 #4"
+  },
+  {
+   "id": "K24-03",
+   "tag": "Kausalität",
+   "question": "Welche zwei genuinen Zukunftsverluste stehen in Kapitel 24 vor Kael, wenn AEGIS laut der Outline vom 2026-05-18 den Kanal zu Juna als feindlich erkennt, und was davon ist nach dem Kapitel nicht mehr umkehrbar?",
+   "draws_on": "strukturierter Outline storyform line (AEGIS erkennt den Kanal als feindlich); GOAL §4.5 #4"
+  },
+  {
+   "id": "K24-04",
+   "tag": "Leser-Wissen",
+   "question": "Was wissen Leser, Kael und AEGIS am Ende von Kapitel 24 über die Telefon-Stille und Juna, was glaubt jeder fälschlich, und welche falsche, plausible Deutung des Witness-Modus bleibt für den Leser stehen?",
+   "draws_on": "Witness-Modus in four readings; GOAL §4.5 #5, Readiness Gate 7"
+  },
+  {
+   "id": "K24-05",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 24 in Storyform A, wo mehrere Outlines RS-Physics dominant setzen, und in B mit OS-Psychology und komplexer Host-System-Verstrickung, und ist das Kapitel nach Slot 16 Hard-A, Hard-B oder Bridge?",
+   "draws_on": "Storyform lines of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec; GOAL §5.2"
+  },
+  {
+   "id": "K24-06",
+   "tag": "Struktur",
+   "question": "Wo steht Kapitel 24 im zyklischen Modus, wenn das konsolidierte Konzept Z3 auf Kapitel 21 bis 23 legt: ist das wiederkehrende K-J-Thema ein weiterer Zyklus, eine Coda der Spirale oder Vorbereitung des Wendepunkts 25–26?",
+   "draws_on": "kap-23 reading Z3 (Kap 21–23); GOAL §5.1 K-J-Thema in Kap 24"
+  },
+  {
+   "id": "K24-07",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird die Telefon-Stille in Kapitel 24 als hörbare Substanz in KW3, laut Kernwelten vollständig den Gängen der Paranoia, sinnlich gebaut, und trägt sie Wärme als Junas Spur oder kaltes Ozon als AEGIS-Störung?",
+   "draws_on": "Kernwelten vollständig (Gänge der Paranoia); strukturierter Outline Sensorik; GOAL §5.4 heat polarity"
+  },
+  {
+   "id": "K24-08",
+   "tag": "Figur",
+   "question": "Wie erscheint Juna in Kapitel 24 im Witness-Modus, ohne grammatisches Subjekt oder physisch beschrieben zu sein, und welche Rolle spielt Silas als Resonanzkörper, den die Outline vom 2026-05-18 dort nennt?",
+   "draws_on": "strukturierter Outline characters line; GOAL §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K24-09",
+   "tag": "Setup/Payoff",
+   "question": "Wo wird das Gegenregister gepflanzt, das Kael laut Plot-Konkretisierung vom 2026-06-10 in Kapitel 24 auf die inneren Stimmen verteilt, und wo zahlt sich diese erste plurale Bewahrung bis zur Wir-AEGIS-plural aus?",
+   "draws_on": "Plot-Konkretisierung reading (Idea 2, plurale Bewahrung); GOAL §4.5 #6"
+  },
+  {
+   "id": "K24-10",
+   "tag": "Lücke",
+   "question": "Was genau soll in Kapitel 24 verdichtet werden, wenn die Storyform-Outline vom 2026-06-10 das Kapitel als zu verdichten nennt, und welche konkrete Handlung fehlt dem K-J-Thema neben dem Leitmotiv Telefon-Stille?",
+   "draws_on": "storyform outline open point (verdichten Kap 24); GOAL §4.5 #1"
+  },
+  {
+   "id": "K24-11",
+   "tag": "Steinbruch",
+   "question": "Kann der Empathie-Test aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in dem Kael eine subjektive Reaktion von AEGIS zu provozieren versucht, Kapitel 24 füllen, ohne AEGIS moralisches Vokabular oder Bedrohlichkeit zu geben?",
+   "draws_on": "aegis-subplots reading (Der Empathie-Test); GOAL §4.5 #9, §5.4 AEGIS rule"
+  },
+  {
+   "id": "K24-12",
+   "tag": "Impact",
+   "question": "Wenn der Autor die Verbindung zu Juna schon in Kapitel 24 als aktiv nutzbaren Kanal etabliert, was kippt in Kapitel 30, das mehrere Outlines als Kulmination des stabilen, bewussten Kanals setzen?",
+   "draws_on": "strukturierter Outline (aktiv suchen und nutzen) vs kap-30 readings; GOAL §4.5 #8"
+  }
+ ]
+}

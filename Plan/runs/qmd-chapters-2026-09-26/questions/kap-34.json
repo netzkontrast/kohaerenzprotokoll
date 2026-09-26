@@ -1,0 +1,71 @@
+{
+ "chapter": 34,
+ "questions": [
+  {
+   "id": "K34-01",
+   "tag": "Konkretheit",
+   "question": "Was tut Kael in der Konfrontation von Kapitel 34, wenn AEGIS' Makro-Log ihn laut Plot-Konkretisierung als offenen Posten führt – in welcher Form antwortet das Wir, wenn nicht im Log-Format, und was kostet es ihn?",
+   "draws_on": "Plot-Konkretisierung reading; GOAL §4.5 #3"
+  },
+  {
+   "id": "K34-02",
+   "tag": "Kausalität",
+   "question": "Welches beobachtbare Ereignis am Ende von Kapitel 34 treibt Kael, wie Kernwelten vollständig sagt, ohne Wahl ins K₁-Substrat und nach KW2, und macht so den Übergang 34/35 zur echten Storyform-Wendung, bei der B zu erlöschen beginnt?",
+   "draws_on": "Kernwelten vollständig transition; GOAL §5.1 transitions"
+  },
+  {
+   "id": "K34-03",
+   "tag": "Kausalität",
+   "question": "Welche zwei genuinen Zukunftsverluste stehen in Kapitel 34 im Duell zwischen AEGIS' verhindernder und Kaels bezeugender Kohärenz gegeneinander, statt richtig gegen falsch?",
+   "draws_on": "strukturierter Outline: negativ und positiv definierte Kohärenz; GOAL §4.5 #4"
+  },
+  {
+   "id": "K34-04",
+   "tag": "Leser-Wissen",
+   "question": "Was soll der Leser am Ende von Kapitel 34 über AEGIS glauben, bevor die Truth-Rotation im Vortex die Lesart kippt, und wie wird spürbar, dass auch AEGIS leidet, ohne es zu wissen?",
+   "draws_on": "strukturierter Outline Tonale Achse; GOAL §4.5 #5, §5.3"
+  },
+  {
+   "id": "K34-05",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 34 in A (MC-Concern dominant, Pursuit als Stand) und in B (OS-Physics, AEGIS-Datenlast) bei maximaler Vor-Vortex-Spannung, und wie hoch ist die Bridge-Quote am Ende von Akt III-A?",
+   "draws_on": "storyform lines of four plans; GOAL §5.2"
+  },
+  {
+   "id": "K34-06",
+   "tag": "Struktur",
+   "question": "Ist Kapitel 34 die fortgesetzte Heldenreise-Stufe Inmost Cave (Konzept-Iteration Genesis) oder die Ordeal-Vorbereitung (Outline vom 2026-05-18, Storyform-Outline), und wie baut es als letztes Kapitel von Ten beginnt die Schwelle zum Vortex?",
+   "draws_on": "Where the sources differ: Stage; GOAL §5.1"
+  },
+  {
+   "id": "K34-07",
+   "tag": "Konflikt",
+   "question": "Spricht AEGIS in der Konfrontation von Kapitel 34 nur als Makro-Log in der dritten Person, oder hat es eine Innensicht, und wie verträgt sich das Duell mit dem einen Hard-B-Kapitel in Kap 5–8 nach dem Lock vom 2026-05-30?",
+   "draws_on": "record C14; POV line Kael (Wir) vs. AEGIS (Makro-Log)"
+  },
+  {
+   "id": "K34-08",
+   "tag": "Figur",
+   "question": "Wie akzeptiert Kael in Kapitel 34 am Mosaik-Herz Juna als Teil seiner selbst, wie Kernwelten vollständig sagt, ohne dass Juna grammatisches Subjekt wird oder vor Kapitel 38 direkt erscheint?",
+   "draws_on": "Kernwelten vollständig note; GOAL §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K34-09",
+   "tag": "Figur",
+   "question": "Welche Rolle hat Mnemosyne in Kapitel 34, wo der Outline vom 2026-05-18 sie am Setting führt – Zeugin, Gegenkraft mit eigenem berechtigtem Ziel oder nur Ort –, und wie spricht sie dort?",
+   "draws_on": "strukturierter Outline characters line; GOAL §5.5 Readiness Gate 5"
+  },
+  {
+   "id": "K34-10",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird Orkan gegen Sphäre in Kapitel 34 zum sinnlichen Bild, und bleibt AEGIS' Seite beim kalten Ozon, ohne die Landauer-Wärme vorwegzunehmen, die Vortex 1 Beat 4 vorbehalten sein soll?",
+   "draws_on": "Sensorik lines Orkan vs. Sphäre; GOAL §5.4 Hitze-Polarität"
+  },
+  {
+   "id": "K34-11",
+   "tag": "Impact",
+   "question": "Wenn der Autor Kapitel 34 zur Ordeal-Stufe macht statt zur Inmost Cave, was verschiebt sich in der Heldenreise-Zählung von Kapitel 35 bis 39, insbesondere bei der Frage, ob Kapitel 36 oder 37 die Reward-Stufe trägt?",
+   "draws_on": "Where the sources differ: Stage (here and kap-36); GOAL §4.5 #8"
+  }
+ ]
+}

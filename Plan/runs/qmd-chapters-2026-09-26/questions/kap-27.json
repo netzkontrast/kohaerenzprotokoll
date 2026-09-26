@@ -1,0 +1,65 @@
+{
+ "chapter": 27,
+ "questions": [
+  {
+   "id": "K27-01",
+   "tag": "Konkretheit",
+   "question": "Was schreibt Kael in Kapitel 27, wenn er laut Plot-Konkretisierung seinen ersten Bericht verfasst, den niemand angefordert hat: an wen, in welcher Form, und was riskiert er an diesem Tag damit?",
+   "draws_on": "Plot-Konkretisierung reading (Idea 13, das Delikt wird Absicht); GOAL §4.5 #3"
+  },
+  {
+   "id": "K27-02",
+   "tag": "Lücke",
+   "question": "Was ist die Autoren-Feder in Kapitel 27 konkret: ein Objekt, eine Schreibhandlung oder ein Prosa-Modus, und wie wird aus dem Leitmotiv eine wiederholbare Handlung Kaels statt eines Bildes?",
+   "draws_on": "title and Leitmotiv Autoren-Feder in five readings, no concrete action; GOAL §4.5 #1"
+  },
+  {
+   "id": "K27-03",
+   "tag": "Kausalität",
+   "question": "Wie greift Kapitel 27 Kaels Schritt über die Schwelle aus Kapitel 26 auf, und welches Ereignis am Ende von Kapitel 27 löst die Eskalation und Purge-Drohung von Kapitel 28 aus?",
+   "draws_on": "neighbours kap-26 and kap-28; GOAL §4.5 #4"
+  },
+  {
+   "id": "K27-04",
+   "tag": "Leser-Wissen",
+   "question": "Was bemerkt AEGIS in Kapitel 27, wenn es laut mehreren Outlines Kaels neue Linearität spürt, laut Plot-Konkretisierung als Format-Anomalie, und was weiß der Leser darüber, das Kael nicht weiß?",
+   "draws_on": "AEGIS spürt Linearität in five readings; GOAL §4.5 #5"
+  },
+  {
+   "id": "K27-05",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 27 in A, MC-Concern und Agency mit Absicht, und in B, wo AEGIS die Linearität spürt und die Architektur laut der Outline vom 2026-05-18 sichtbar degradiert, und welche Bridge-Quote gilt am Beginn von Akt III-A?",
+   "draws_on": "Storyform lines; strukturierter Outline (OS-S3 (B) Progress); GOAL §5.2 bridge frequency"
+  },
+  {
+   "id": "K27-06",
+   "tag": "Struktur",
+   "question": "Wie funktioniert Kapitel 27 als Ordinary World, Stufe 1 der Heldenreise außen, wenn Kaels gewohnte Welt nach 26 Kapiteln schon zerbrochen ist: was ist seine neue gewöhnliche Welt, und wie macht der Modus-Wechsel 26/27 sie lesbar?",
+   "draws_on": "stage line (HR-Stufe 1: Ordinary World) in four readings; GOAL §5.1 mode transition 26/27"
+  },
+  {
+   "id": "K27-07",
+   "tag": "Konflikt",
+   "question": "Gehört Kapitel 27 noch zum Ende von Akt II, wie Kernwelten vollständig es einordnet, oder eröffnet es Akt III Phase A, wie die übrigen Outlines sagen, und was ändert das an Tempo und Bridge-Quote?",
+   "draws_on": "Where the sources differ: Act; GOAL §4.5 #2"
+  },
+  {
+   "id": "K27-08",
+   "tag": "Welt/Sensorik",
+   "question": "In welcher Kernwelt spielt Kapitel 27, laut Kernwelten vollständig an der Schwelle von KW3 zu KW4 mit dem Dasein-Strang, und wie werden die klaren Linien sinnlich gegen kaltes Ozon als Zeichen von AEGIS gesetzt?",
+   "draws_on": "Kernwelten vollständig reading; Leitmotiv klare Linien; GOAL §5.4 heat polarity"
+  },
+  {
+   "id": "K27-09",
+   "tag": "Figur",
+   "question": "Wie erscheint das Wir-Geflecht in Kapitel 27, laut der Outline vom 2026-05-18 alle Alters in funktionaler Multiplizität, ohne dass Stimmen gelabelt werden oder ein Crew-Menü entsteht, und wie klingt AEGIS countdown-bewusst?",
+   "draws_on": "strukturierter Outline characters line; GOAL §5.4 Schleier, AEGIS rule"
+  },
+  {
+   "id": "K27-10",
+   "tag": "Steinbruch",
+   "question": "Kann der Rote Alarm aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in dem Umgebungskontrollen feindselig werden und Guardians Kael aktiv jagen, Kapitel 27 füllen, obwohl AEGIS nach GOAL §5.4 verwaltet statt bedroht?",
+   "draws_on": "aegis-subplots reading (Der Rote Alarm); GOAL §4.5 #9, §5.4 AEGIS rule"
+  }
+ ]
+}

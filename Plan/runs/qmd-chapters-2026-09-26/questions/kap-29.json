@@ -1,0 +1,65 @@
+{
+ "chapter": 29,
+ "questions": [
+  {
+   "id": "K29-01",
+   "tag": "Konkretheit",
+   "question": "Welche konkrete letzte Trauma-Erinnerung taucht in Kapitel 29 auf, gehört sie Kiko oder Kael, und an welchem Objekt oder Ort der Vergangenheit hängt sie, sodass sie im Kapitel wiederkehren kann?",
+   "draws_on": "Konzept-Iteration Genesis (letzte Trauma-Erinnerung); GOAL §4.5 #3"
+  },
+  {
+   "id": "K29-02",
+   "tag": "Kausalität",
+   "question": "Wie wächst das Refusal in Kapitel 29 aus der Purge-Drohung von Kapitel 28, und was muss Kael bis zum Ende integrieren, damit Kapitel 30 die Begegnung mit Junas Kanal werden kann?",
+   "draws_on": "strukturierter Outline (Anteile integrieren, um voranzuschreiten); neighbours kap-28, kap-30; GOAL §4.5 #4"
+  },
+  {
+   "id": "K29-03",
+   "tag": "Kausalität",
+   "question": "Worin besteht die Weigerung in Kapitel 29 als echte Wahl mit Preis: welche zwei genuinen Zukunftsverluste stehen vor Kael, und was ist nach dem Kapitel nicht mehr umkehrbar?",
+   "draws_on": "stage line HR-Stufe 3: Refusal; GOAL §4.5 #4, enrichment packet"
+  },
+  {
+   "id": "K29-04",
+   "tag": "Leser-Wissen",
+   "question": "Was versteht der Leser in Kapitel 29 über Kiko und die kindliche Angst, was Kael nicht versteht, und welche falsche, plausible Deutung des Rückfalls bleibt am Ende stehen?",
+   "draws_on": "strukturierter Outline characters (Kiko deutlich sichtbar); GOAL §4.5 #5"
+  },
+  {
+   "id": "K29-05",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 29 in A, MC-Problem Avoidance als letztes Aufflammen, und in B, RS-Psychology mit tiefer Verstrickung und Host-System-Symbiose, und wessen Throughline führt das Kapitel?",
+   "draws_on": "Storyform lines of five readings; GOAL §5.2"
+  },
+  {
+   "id": "K29-06",
+   "tag": "Struktur",
+   "question": "Wie wird Kapitel 29 als Refusal der Heldenreise außen gebaut, wenn Kael seit Kapitel 26 entschlossen handelt: ist die Weigerung ein Rückfall, eine Probe der Integration oder ein Echo der Heldinnenreise aus Kapitel 1 bis 13?",
+   "draws_on": "stage line Refusal after Wendepunkt 25–26; GOAL §5.1 three modes"
+  },
+  {
+   "id": "K29-07",
+   "tag": "Figur",
+   "question": "Wie erscheinen Kiko und Moros in Kapitel 29, laut der Outline vom 2026-05-18 Kiko deutlich sichtbar und Moros im Hintergrund, ohne Stimmen zu labeln, und trägt Kiko hier die Flight-Funktion, die C15 offen lässt?",
+   "draws_on": "strukturierter Outline characters line; conflict C15 (Flight: Kiko or Isabelle); GOAL §5.4"
+  },
+  {
+   "id": "K29-08",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird der Eintritt in KW4, den Möglichkeits-Garten, in Kapitel 29 als Phase-Shift statt als Ortswechsel gebaut, und wie verträgt sich das Engerwerden der Angst mit der Stilebene 3, die Kernwelten vollständig hier erstmals voll ansetzt?",
+   "draws_on": "Kernwelten vollständig reading (KW4 Eintritt, Stilebene 3); Leitmotiv Engerwerden; GOAL §5.4"
+  },
+  {
+   "id": "K29-09",
+   "tag": "Lücke",
+   "question": "Was trägt Kapitel 29 an Handlung, wenn die Plot-Konkretisierung den Apparat-Faden F1 hier bewusst ruhen lässt: welches lokale Ziel und welche Gegenkraft hat das Kapitel ohne diesen Faden?",
+   "draws_on": "Plot-Konkretisierung (Faden ruht); GOAL §4.5 #1, §5.5 enrichment packet"
+  },
+  {
+   "id": "K29-10",
+   "tag": "Steinbruch",
+   "question": "Kann LogOS austricksen aus der AEGIS-Subplot-Sammlung vom 2025-08-05, eine selbstwidersprüchliche Aussage, die einen logikbasierten Guardian in eine Schleife zwingt, in Kapitel 29 Platz finden, nachdem der Autor fünf Guardians samt LogOS entschieden hat?",
+   "draws_on": "aegis-subplots reading (LogOS austricksen); C6 author decision for five; GOAL §4.5 #9"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "chapter": 4,
+ "questions": [
+  {
+   "id": "K04-01",
+   "tag": "Konkretheit",
+   "question": "Was geschieht in Kapitel 4 bei der Prüfung konkret – ein Audit von Kaels Bestätigungslatenz mit Prüf-Dialog per Direktive, logische Fallen in KW1 oder der Fund von Aufzeichnungen des System-Architekten Dr. Jian Li?",
+   "draws_on": "readings of Plot-Konkretisierung, strukturierter Outline, Konzept-Iteration; GOAL §4.5 #3"
+  },
+  {
+   "id": "K04-02",
+   "tag": "Kausalität",
+   "question": "Wird aus dem Audit in Kapitel 4 die Beförderung zur Bestandspflege Stufe 2 in Kap 5 – besteht Kael die Prüfung gerade, weil er nicht hinsieht –, und was vom Gegenregister aus Kap 3 übersteht das Audit?",
+   "draws_on": "Kap 3 and Kap 5 pages; GOAL §4.5 #4"
+  },
+  {
+   "id": "K04-03",
+   "tag": "Kausalität",
+   "question": "Was wird in Kapitel 4 für Kael irreversibel, wenn das System seine gestiegene Latenz protokolliert, und welche zwei Zukünfte verliert er, wenn er wieder schneller klickt oder weiter zögert?",
+   "draws_on": "Plot-Konkretisierung audit; GOAL §4.5 #4"
+  },
+  {
+   "id": "K04-04",
+   "tag": "Leser-Wissen",
+   "question": "Was weiß AEGIS am Ende von Kapitel 4 über Kael – eine Anomalie, die es nicht klassifizieren kann –, was glaubt Kael über die Prüfung, und welche falsche, plausible Deutung des Audits bleibt beim Leser stehen?",
+   "draws_on": "strukturierter Outline foreshadowing (Kael as bug); GOAL §4.5 #5"
+  },
+  {
+   "id": "K04-05",
+   "tag": "Storyform",
+   "question": "Wie trägt Kapitel 4 in A das MC-Issue mit Scham, Zweifel und logischen Grenzen und in B die latente IC-Spur Kael als Bug in Mind/Conscious – und ist diese Bug-Spur neu oder seit Kap 1 als IC-Signpost gesetzt?",
+   "draws_on": "Where the sources differ: Kael's first bug trace"
+  },
+  {
+   "id": "K04-06",
+   "tag": "Struktur",
+   "question": "Wie setzt Kapitel 4 die Murdock-Stufe 4, Pforten der Verurteilung und Prüfungen, um, und welche Pforte muss Kael tatsächlich passieren, damit die Stufe mehr ist als eine innere Stimmung?",
+   "draws_on": "stage readings; Where the sources differ: title; GOAL §5.1"
+  },
+  {
+   "id": "K04-07",
+   "tag": "Lücke",
+   "question": "Welche Handlung fehlt Kapitel 4 noch, das die Storyform-Outline vom 2026-06-10 ausdrücklich zu verdichten nennt – welche Szene mit Gegenfigur und eigener Absicht macht aus Scham, Zweifel und logischen Grenzen ein Ereignis?",
+   "draws_on": "storyform outline open point (verdichten Kap 4); GOAL §5.5 Readiness Gate"
+  },
+  {
+   "id": "K04-08",
+   "tag": "Welt/Sensorik",
+   "question": "Spielt Kapitel 4 in einem versteckten Archiv in KW1 oder schon an einem Riss zu KW2, den der Konzept-Master-Bericht Kap 4 zuordnet – und wie tragen korrumpierte Textdateien und veraltete Interfaces den Ort?",
+   "draws_on": "Kernwelten (hidden archive) vs. konzept-master (KW2 risse Kap 4)"
+  },
+  {
+   "id": "K04-09",
+   "tag": "Figur",
+   "question": "Wer spricht im Audit von Kapitel 4 – ein Regel-Exekutor als Stimme der Konsole, nicht als Person, in Direktiven-Sprache –, und wie verträgt sich das mit AEGIS als ferner Umgebungsbedingung ohne eigene Stimme in Akt I?",
+   "draws_on": "Plot-Konkretisierung cast (Regel-Exekutor); Kernwelten Kap 1 note; C14"
+  },
+  {
+   "id": "K04-10",
+   "tag": "Setup/Payoff",
+   "question": "Wie echot das Klick-Motiv aus Kap 0 in Kapitel 4 als kalter Logik-Klick von AEGIS' System, und wie erscheint der Gödel-Vorschein, die Grenze des Regelsystems, als Bild statt als Begriff?",
+   "draws_on": "strukturierter Outline Genesis echo; Kompendium philosophy; GOAL §5.4"
+  },
+  {
+   "id": "K04-11",
+   "tag": "Steinbruch",
+   "question": "Kann der Fund der Aufzeichnungen von Dr. Jian Li, laut Konzept-Iteration Genesis Kaels eigene Entstehungsdokumente, in Kapitel 4 als Steinbruch-Material eine Lücke füllen, ohne den Schleier und das Verbot jeder Klartext-Diagnose vor Kap 13 zu brechen?",
+   "draws_on": "Konzept-Iteration Genesis reading; GOAL §4.5 #9, §5.4 Schleier"
+  }
+ ]
+}

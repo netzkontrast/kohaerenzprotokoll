@@ -1,0 +1,71 @@
+{
+ "chapter": 28,
+ "questions": [
+  {
+   "id": "K28-01",
+   "tag": "Konkretheit",
+   "question": "Welches konkrete Ereignis zwingt Kael in Kapitel 28 zum sofortigen Handeln, wenn die Outline vom 2026-05-18 nur von einem Ereignis spricht: eine Meldung, ein Objekt, ein Ort des Apparats, an dem der Countdown sichtbar beginnt?",
+   "draws_on": "strukturierter Outline plot beats (ein Ereignis zwingt Kael); GOAL §4.5 #3"
+  },
+  {
+   "id": "K28-02",
+   "tag": "Konflikt",
+   "question": "Ist der Auslöser in Kapitel 28 Purge-Drohung und Juna in Gefahr zugleich, wie Konzept-Iteration Genesis und Storyform-Outline sagen, oder nur eines davon, abhängig von OQ-B wie in der Outline vom 2026-05-18, und was entscheidet OQ-B?",
+   "draws_on": "Where the sources differ: the trigger; GOAL §4.5 #2"
+  },
+  {
+   "id": "K28-03",
+   "tag": "Kausalität",
+   "question": "Wie führt Kaels erster ungefragter Bericht aus Kapitel 27 zur Purge-Drohung in Kapitel 28, und welche Folge exportiert Kapitel 28 in das Refusal und die Angst des Kindes in Kapitel 29?",
+   "draws_on": "neighbours kap-27 (Idea 13) and kap-29 (Refusal); GOAL §4.5 #4"
+  },
+  {
+   "id": "K28-04",
+   "tag": "Leser-Wissen",
+   "question": "Wie kann Juna in Kapitel 28 in Gefahr sein, wenn sie nie beschrieben und nie Subjekt ist: was weiß der Leser über die Bedrohung, und was glaubt Kael über Junas Ort womöglich fälschlich?",
+   "draws_on": "Juna in Gefahr in three readings; GOAL §4.5 #5, §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K28-05",
+   "tag": "Storyform",
+   "question": "Wie trägt Kapitel 28 die akute A-Consequence, ewige Fragmentierung, laut Kapitel-Kompendium akut ab Kap 28, neben dem sichtbaren Timelock-Countdown von B, und ist das Kapitel nach Slot 16 Hard-A, Hard-B oder Bridge?",
+   "draws_on": "Kapitel-Kompendium consequence line; strukturierter Outline (Timelock-Countdown sichtbar); GOAL §5.2"
+  },
+  {
+   "id": "K28-06",
+   "tag": "Struktur",
+   "question": "Wie funktioniert Kapitel 28 als Call to Adventure, Stufe 2 der Heldenreise außen, und beginnen dort laut dem Konzept-Master-Bericht die Vortex-Vorläufer als Bridge-Szenen, obwohl er das Kapitel nur ungefähr angibt?",
+   "draws_on": "konzept-master reading (Vortex-Vorläufer ab ~Kap 28); GOAL §5.1"
+  },
+  {
+   "id": "K28-07",
+   "tag": "Setup/Payoff",
+   "question": "Welche Bilder aus Akt I und II muss ein Vortex-Vorläufer in Kapitel 28 aufnehmen, damit Vortex 1 in Kapitel 35–36 nur bereits gepflanzte Bilder rotiert, und in welchen Kapiteln wurden sie gepflanzt?",
+   "draws_on": "konzept-master bridge scenes; GOAL §4.5 #6 Rotations-Inventar"
+  },
+  {
+   "id": "K28-08",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird in Kapitel 28 der Phase-Shift von KW3 zu KW4 gebaut, den Kernwelten vollständig zwischen Kapitel 28 und 29 legt, mit unbewachten Toren als Übergang, und wie nimmt Kael KW3 sinnlich mit, statt sie zu verlassen?",
+   "draws_on": "Kernwelten vollständig transition lines; GOAL §5.4 one Kernwelt per beat"
+  },
+  {
+   "id": "K28-09",
+   "tag": "Figur",
+   "question": "Wie spricht AEGIS in Kapitel 28 die Purge-Drohung aus: direkt drohend, wie die Outline vom 2026-05-18 sagt, oder als Verwaltungsvorgang Voll-Konsolidierung Stadtgebiet, wie die Plot-Konkretisierung vorschlägt, und immer ohne moralisches Vokabular?",
+   "draws_on": "strukturierter Outline characters (AEGIS drohend, direkt) vs Plot-Konkretisierung; GOAL §5.4 AEGIS rule"
+  },
+  {
+   "id": "K28-10",
+   "tag": "Lücke",
+   "question": "Was tut Mnemosyne in Kapitel 28, wenn nur die Outline vom 2026-05-18 sie unter den Figuren nennt und keine Quelle ihre Handlung beschreibt, und welche Funktion hat sie in AEGIS' Eskalation?",
+   "draws_on": "strukturierter Outline characters line, no beat for Mnemosyne; GOAL §4.5 #1"
+  },
+  {
+   "id": "K28-11",
+   "tag": "Steinbruch",
+   "question": "Kann die Erinnerungswaffe aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in der ein Guardian wie Mnemosyne alte Traumata reaktiviert, Kapitel 28 verdichten, das die Storyform-Outline vom 2026-06-10 als zu verdichten nennt?",
+   "draws_on": "aegis-subplots reading (Die Erinnerungswaffe); storyform outline open point; GOAL §4.5 #9"
+  }
+ ]
+}

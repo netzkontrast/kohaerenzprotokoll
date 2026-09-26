@@ -1,0 +1,77 @@
+{
+ "chapter": 32,
+ "questions": [
+  {
+   "id": "K32-01",
+   "tag": "Konkretheit",
+   "question": "Was tut Kael in Kapitel 32, dem Wahrheits-Test gegen AEGIS' logische Verteidigungen, konkret mit Händen und Körper, an welchem Ort, und was verliert oder riskiert er dabei?",
+   "draws_on": "strukturierter Outline plot beat (logische Verteidigungen, Simulationstricks); GOAL §4.5 #3"
+  },
+  {
+   "id": "K32-02",
+   "tag": "Setup/Payoff",
+   "question": "Laut Plot-Konkretisierung vom 2026-06-10 erkennt Kael in Kapitel 32 seine echten Bestände an ihren Fehlern, gegen Oblivions perfekte Kopien; welcher in Akt I–II gepflanzte Fehler oder Tick dient als Erkennungszeichen?",
+   "draws_on": "Plot-Konkretisierung reading: Fälschungen seiner Fälschungen; GOAL §4.5 #6"
+  },
+  {
+   "id": "K32-03",
+   "tag": "Kausalität",
+   "question": "Welches Ereignis aus Kapitel 31 (Auflösung der Guardians oder Angriff auf AEGIS' Kernsystem) löst Kapitel 32 aus, und welches beobachtbare Ereignis am Ende von Kapitel 32 zwingt Kael zum Vordringen an AEGIS' Kern in Kapitel 33?",
+   "draws_on": "neighbour pages kap-31 and kap-33; GOAL §4.5 #4"
+  },
+  {
+   "id": "K32-04",
+   "tag": "Kausalität",
+   "question": "Vor welcher Wahl zwischen zwei genuinen Zukunftsverlusten steht Kael im Wahrheits-Test von Kapitel 32, statt vor richtig oder falsch, und was ist danach nicht mehr umkehrbar?",
+   "draws_on": "no reading names a choice or a price; GOAL §4.5 #4, §5.5 Readiness Gate 6"
+  },
+  {
+   "id": "K32-05",
+   "tag": "Leser-Wissen",
+   "question": "Was weiß der Leser am Ende von Kapitel 32 über Oblivion als Erason-Operator, was Kael noch nicht weiß, und welche falsche, plausible Deutung von Oblivions Rolle bleibt bis zum Vortex stehen?",
+   "draws_on": "konsolidiertes Konzept: Oblivion als Erason-Operator; GOAL §4.5 #5"
+  },
+  {
+   "id": "K32-06",
+   "tag": "Storyform",
+   "question": "Kapitel 32 trägt laut den Plänen vom 2026-05-08 in A das MC-Issue als Wahrheits-Test und in B OS-Physics mit kybernetischen Manövern; wie teilen sich A und B das Kapitel, und hält es die Bridge-Quote von etwa 40 % für Akt III-A?",
+   "draws_on": "Storyform lines of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec; GOAL §5.2 bridge frequency"
+  },
+  {
+   "id": "K32-07",
+   "tag": "Storyform",
+   "question": "Wird Kapitel 32 mit einer ersten längeren Oblivion-POV-Szene nach dem Slot-16-Entscheidungsbaum als Spiegel-Alter-Szene bridge-natürlich geroutet, und ist Kapitel 32 oder 33 der Einsatzpunkt, den OQ-E vor dem Akt-III-Encoding klären soll?",
+   "draws_on": "strukturierter Outline POV and open question; storyform outline Richtwerte; GOAL §5.2 Slot 16"
+  },
+  {
+   "id": "K32-08",
+   "tag": "Struktur",
+   "question": "Wie besetzt Kapitel 32 die Heldenreise-Stufe Tests, Allies, Enemies innerhalb von Ten beginnt (Kap 27–34), und wie unterscheidet es sich im Tempo von der Schwelle in Kapitel 31 und der Inmost Cave in Kapitel 33?",
+   "draws_on": "stage lines of all 2026 readings; GOAL §5.1"
+  },
+  {
+   "id": "K32-09",
+   "tag": "Konflikt",
+   "question": "Treten in Kapitel 32 Mnemosyne und der Erasure-Pol noch als Sub-Antagonisten auf, wie der Outline vom 2026-05-18 sagt, obwohl mehrere Pläne ihre Auflösung in Kapitel 31 erzählen, und handeln sie dabei als Komponenten von AEGIS oder als eigene Gegner?",
+   "draws_on": "Where the sources differ: Guardians; record Q1"
+  },
+  {
+   "id": "K32-10",
+   "tag": "Figur",
+   "question": "Wie klingt Oblivion als POV-Träger in Kapitel 32, mit Lösch-Prosa und sich selbst auslöschenden Sätzen, ohne dass die Stimme gelabelt wird oder die Dissoziation als Crew-Menü erscheint?",
+   "draws_on": "strukturierter Outline: Oblivion tritt als POV-Träger auf; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K32-11",
+   "tag": "Welt/Sensorik",
+   "question": "In welcher Kernwelt spielt Kapitel 32, KW4 oder das Forum des Dialogs laut Kernwelten vollständig, und wie werden logische Labyrinthe, Echo-Räume und eine Stimme, die Kaels Stimme imitiert, als Raum statt als nackte Theorie sichtbar?",
+   "draws_on": "Kernwelten vollständig world line; Sensorik lines; GOAL §5.4 Theorie nie nackt"
+  },
+  {
+   "id": "K32-12",
+   "tag": "Steinbruch",
+   "question": "Könnte der systemische Widerspruch der AEGIS-Subplots von 2025, ein teilweises Einfrieren von AEGIS' Logik durch gleichzeitige Aktionen an mehreren Standorten, Kapitel 32 eine konkrete Handlung geben, ohne Juna/V gegen die Juna-Grammatik handeln zu lassen?",
+   "draws_on": "aegis-subplots reading (2025); GOAL §4.5 #9"
+  }
+ ]
+}

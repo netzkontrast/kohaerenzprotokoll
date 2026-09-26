@@ -1,0 +1,71 @@
+{
+ "chapter": 3,
+ "questions": [
+  {
+   "id": "K03-01",
+   "tag": "Konkretheit",
+   "question": "Was baut Kael in Kapitel 3 beim Bunker-Bau konkret – ein Gegenregister als Lex-dominante Doppel-Buchführung aus Orten, Zahlen und Differenzen, wie die Plot-Konkretisierung vorschlägt –, und welche Routine wiederholt er dafür?",
+   "draws_on": "Plot-Konkretisierung idea 2; GOAL §4.5 #3"
+  },
+  {
+   "id": "K03-02",
+   "tag": "Kausalität",
+   "question": "Wie folgt der Bunker-Bau in Kapitel 3 aus dem ersten Riss in Kap 2, und welches Ereignis am Kapitelende führt in die Prüfungen von Kap 4 – etwa die messbar steigende Bestätigungslatenz, die das Audit auslöst?",
+   "draws_on": "Kap 4 page (audit of latency since the register); GOAL §4.5 #4"
+  },
+  {
+   "id": "K03-03",
+   "tag": "Kausalität",
+   "question": "Was verliert Kael in Kapitel 3 durch den Bunker-Bau unwiderruflich, und welche zwei Zukünfte schließt die Entscheidung, Kontrolle und Ordnung zu verdoppeln, gegeneinander aus?",
+   "draws_on": "Kompendium: Kael doubles control; GOAL §4.5 #4"
+  },
+  {
+   "id": "K03-04",
+   "tag": "Leser-Wissen",
+   "question": "Was erkennt der Leser in Kapitel 3 im Bunker als Spiegel von AEGIS' Trennungsprotokoll aus Kap 0, was Kael nicht erkennt, und hält Kael die Wärme auf dem Heimweg für Störung, Einbildung oder Signal?",
+   "draws_on": "strukturierter Outline Genesis echo; GOAL §4.5 #5"
+  },
+  {
+   "id": "K03-05",
+   "tag": "Storyform",
+   "question": "Trägt Kapitel 3 in Storyform A das MC-Problem Avoidance als ANP-Funktion oder ein RS-Physics-Vorzeichen mit Moonshine-Andeutung, und ist Storyform B dort wirklich latent?",
+   "draws_on": "Where the sources differ: Storyform A"
+  },
+  {
+   "id": "K03-06",
+   "tag": "Struktur",
+   "question": "Wie setzt Kapitel 3 die Murdock-Stufe 3, Erwachen und Vorbereitung als Identifikation mit dem Männlichen, um – und passt eine Juna-Ahnung, wie die Konzept-Iteration Genesis die Stufe nennt, in dieselbe Stufe?",
+   "draws_on": "Where the sources differ: stage name; GOAL §5.1"
+  },
+  {
+   "id": "K03-07",
+   "tag": "Konflikt",
+   "question": "Sieht Kael Juna in Kapitel 3 als verschwindendes Hologramm oder Echo, um das Stadtgesetze brechen, oder spürt er nur eine erste Wärme – und wie verträgt sich jede Variante mit ihrer ersten direkten Erscheinung erst in Kap 38?",
+   "draws_on": "C7; Where the sources differ: Juna's first trace"
+  },
+  {
+   "id": "K03-08",
+   "tag": "Welt/Sensorik",
+   "question": "Wo debütiert Junas Wärme in Kapitel 3 – im verlassenen Randbezirk von KW1 oder auf dem Heimweg im Transitkorridor –, und wie bleibt sie nach dem Polaritäts-Lock vom kalten Ozon des Arbeitsplatzes getrennt?",
+   "draws_on": "Where the sources differ: where the warmth debuts; C11"
+  },
+  {
+   "id": "K03-09",
+   "tag": "Figur",
+   "question": "Gehört die erste Wärme in Kapitel 3 Juna selbst oder Silas als ihrem Echo im System, dessen Wärme laut Anteile-Profilen ebenfalls in Kap 3 debütiert – und wie wird sie geschrieben, ohne dass Juna Subjekt eines Satzes wird?",
+   "draws_on": "C11 Anteile-Profile entry; Plot-Konkretisierung Silas; GOAL §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K03-10",
+   "tag": "Setup/Payoff",
+   "question": "Wie pflanzt Kapitel 3 die Wärme-Spur so, dass sie selten bleibt und wächst – über die Telefon-Stille in Kap 7 bis zum Heat-Spike in Vortex 1 Beat 4 –, und wann darf sie nach dem Debüt wiederkehren?",
+   "draws_on": "storyform outline lock (rare, grows); GOAL §4.5 #6"
+  },
+  {
+   "id": "K03-11",
+   "tag": "Welt/Sensorik",
+   "question": "Wie erscheint Autopoiesis als Selbst-Abschottung in Kapitel 3 als Bild – Glas, Stahl, Festungs-Architektur –, ohne Systemtheorie- oder DKT-Begriffe in den ersten fünfzig Seiten?",
+   "draws_on": "Kompendium and storyform outline theory; GOAL §5.4 theory never naked"
+  }
+ ]
+}

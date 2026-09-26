@@ -1,0 +1,71 @@
+{
+ "chapter": 6,
+ "questions": [
+  {
+   "id": "K06-01",
+   "tag": "Konkretheit",
+   "question": "Was ist der Cache-Konflikt in Kapitel 6 als konkrete Handlung – zwei widersprüchliche Zuweisungen, die beide ausgeführt werden sollen, und Kaels Hand, die vor dem Klick stoppt – oder ein anderes Problem, an dem die einseitige Logik scheitert?",
+   "draws_on": "Plot-Konkretisierung double request; strukturierter Outline; GOAL §4.5 #3"
+  },
+  {
+   "id": "K06-02",
+   "tag": "Kausalität",
+   "question": "Was ist am ersten nicht ausgeführten Ausgleich in Kapitel 6 irreversibel – für Kael und für das System, das beide Ausführungen verlangt –, und welche zwei Zukünfte gehen dabei verloren?",
+   "draws_on": "Plot-Konkretisierung (first Ausgleich not executed); GOAL §4.5 #4"
+  },
+  {
+   "id": "K06-03",
+   "tag": "Kausalität",
+   "question": "Wie führt die gestoppte Hand am Ende von Kapitel 6 in die Telefon-Stille von Kap 7, in der der Gegenregister-Faden pausiert – folgt die Resonanz aus dem ausgebliebenen Klick oder steht sie unverbunden daneben?",
+   "draws_on": "Plot-Konkretisierung (hand stops; thread pauses in Kap 7); GOAL §4.5 #4"
+  },
+  {
+   "id": "K06-04",
+   "tag": "Leser-Wissen",
+   "question": "Was hält Kael in Kapitel 6 für den Grund, dass seine Hand stoppt, was erkennt der Leser als Nyx' ungewollte Handlung, und registriert AEGIS den ausbleibenden Klick als Fehler, Anomalie oder gar nicht?",
+   "draws_on": "Plot-Konkretisierung (Nyx, unintended); GOAL §4.5 #5"
+  },
+  {
+   "id": "K06-05",
+   "tag": "Storyform",
+   "question": "Wie zeigt Kapitel 6 in A die erste Andeutung der MC-Solution Pursuit und in B, dass AEGIS' Logik Schwächen zeigt – und ist es eine erste polyphone Bridge innerhalb des Hard-A-Rahmens von Akt I?",
+   "draws_on": "storyform readings; Kernwelten (first polyphonic bridge); GOAL §5.2"
+  },
+  {
+   "id": "K06-06",
+   "tag": "Struktur",
+   "question": "Wie setzt Kapitel 6 die Murdock-Stufe 6, Tod einer Einstellung, als Wendepunkt der Heldinnenreise innen um, und kommt es als Position des Hard-B-Kapitels in Kap 5–8 in Frage?",
+   "draws_on": "stage readings; Plot-Konkretisierung Hard-B position; GOAL §5.1"
+  },
+  {
+   "id": "K06-07",
+   "tag": "Konflikt",
+   "question": "Ist die Landauer-Sensorik in Kapitel 6 Hitzeschlieren und Landauer-Wärme, wie Konzept und Outlines vom Mai schreiben, oder kaltes Ozon nach dem Polaritäts-Lock vom 2026-05-30 – und was verliert das Kapitel mit jeder Wahl?",
+   "draws_on": "C11; Where the sources differ: Landauer sensorics"
+  },
+  {
+   "id": "K06-08",
+   "tag": "Konflikt",
+   "question": "Werden die Stilcodes anderer Alters in Kapitel 6 voll sichtbar – Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato –, oder erst ab Kap 8–10 oder erst in Akt II, und wie viel Polyphonie verträgt der Schleier hier?",
+   "draws_on": "Where the sources differ: when style codes are full"
+  },
+  {
+   "id": "K06-09",
+   "tag": "Setup/Payoff",
+   "question": "Wie echot der Cache-Konflikt in Kapitel 6 die Resonanzkaskade aus Kap 0, ohne sie zu zitieren, und wie verhält er sich zum Landauer-Foreshadowing-Strang, der in Kap 6 und Kap 19 akkumuliert?",
+   "draws_on": "Genesis echo readings; C11 drafting-manual entry; GOAL §4.5 #6"
+  },
+  {
+   "id": "K06-10",
+   "tag": "Welt/Sensorik",
+   "question": "Wie erscheint parakonsistente Logik in Kapitel 6 in der Cache-Konflikt-Zone von KW1 mit KW2-Vorschein als Bild, Raum oder Verhalten statt als Begriff?",
+   "draws_on": "Kompendium theory and world; Kernwelten sub-location; GOAL §5.4"
+  },
+  {
+   "id": "K06-11",
+   "tag": "Impact",
+   "question": "Wenn der Autor Kapitel 6 kalt statt warm schreibt, was kippt mit – Kap 36 als Landauer-Wärme-Ort, der thermische Übergang von KW1 zu KW2 bei Kap 13/14 und der Landauer-Strang über Kap 19?",
+   "draws_on": "C11 (Kernwelten transition warmth, drafting-manual strand); GOAL §4.5 #8"
+  }
+ ]
+}
