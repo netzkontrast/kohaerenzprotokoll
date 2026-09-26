@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -73,3 +73,9 @@ In the roster by storyform, as an ANP: „ANP-K1-Träger (Kael, Lex, Alex, Rhys,
 
 The konsolidiertes Konzept's row, in the same words: „ANP | Rhys (Caregiver) | Maxwellscher Dämon | Schweiß, fiebrige Hände | → Akzeptanz (Anker Akt I → Kudzu Akt II)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L402] — the anchor in Akt I, where the master report of the same date writes „Akt-II-Anker" ^[kohaerenz-protokoll-konzept-master-md.md:L391]. `Kudzu` is named and not explained.
 From the second trauma layer: „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex, Alex, Nyx, Rhys" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]. Nothing else in the document names Rhys (`grep -cw Rhys`: 2).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Empathie-Ethik, and the feverish hands
+
+The body, under §3.4, labelled [V] („§3.4 Merleau-Ponty — Verkörperung, gelebter Körper [V]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L192]): „Rhys' fiebrige Hände" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202] — „das ist Merleau-Ponty pro Anteil." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202]
+In the figure table §14.1, which carries no label: „Empathie-Ethik, Levinas-Resonanz [V], Bindungstheorie" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L629] — the one cell of the table with a label of its own, on Levinas — and DKT correlate „Maxwellscher Dämon" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L630].
+Nothing else in the document names Rhys (`grep -cw Rhys`: 2).
