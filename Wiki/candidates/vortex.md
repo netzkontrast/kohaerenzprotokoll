@@ -108,6 +108,16 @@ It leaves the narration of Beat 1 open: „POV-Frage: ist Beat 1 dritte Person A
 Without a number: „Im Vortex (Kap. 35–36) wird es gezwungen, eine Wahrheit zu akzeptieren“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263].
 The witness layers join in the last beat: „Im Vortex-Beat 5 schließen sich die drei Layer zu einer einzigen Funktion zusammen.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L350]
 And its source is the [[telefon-stille|Telefon-Stille]]: „Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L370]
+What turns there: „Hier schließt sich die Truth-Rotation: AEGIS = K₀ wird sichtbar, Kael = K₁ wird sichtbar.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L801] Its mechanical source is the inversion: „Diese Inversion ist die mechanische Quelle der Truth-Rotation am Vortex (Kap. 35–36).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L86] Its preparation is the IC asymmetry: „Diese Asymmetrie ist die mechanische Vorbereitung der Vortex-Inversion.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L312]
+The other four beats: „Beat 2 — Pivot (Dialetheic Choice). Kael wechselt von B-Linear zu A-Holistic.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L809] „Eine einzige körperliche Geste markiert die Wahl (eine, nicht zehn).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L809]
+„Beat 3 — The Silence. Alle kinetische Aktion endet. Nichts-Rauschen wird absolute Stille.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L813]
+„Beat 4 — Heat Spike. AEGIS' Erasure-Protokoll trifft auf integriertes, MI-dichtes Ziel. Landauer-Wärme spiked unmöglich.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L817]
+„Beat 5 — Rotation. AEGIS' operative Closure bricht. Algorithmische Melancholie setzt ein. Truth-Rotation komplett.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821] „Letzter Satz des Klimax-Kapitels: welcher Alter spricht?“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821]
+The witness layers, three ways in one document: „Im Klimax operieren alle drei Layer simultan:“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L340]; one per beat — „Witness-Function-Layer 3 (Husserlian Spectator) ist hier aktiv.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L813] in Beat 3, „Witness-Function-Layer 1 (Quanten-Verschränkungs-Witness) aktiv.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L817] in Beat 4, „Witness-Function-Layer 2 (Cryptographic ZK-Verifier) abgeschlossen.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821] in Beat 5; and joined in Beat 5 (L350, above).
+The setting is open: „Die Mnemosyne-Server-Architektur — der eigentliche Klimax-Ort.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L535] „Mnemosyne-Archipel als Setting: offen ist das primäre Bild — Inselgruppe, Server-Halle, Memorialarchitektur, Zirbeldrüse.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L825]
+The driver: „Nicht Driver-Flip innerhalb B (das wäre dramaturgisch illegal), sondern Storyform-Übergang B (Action-Driver) → A (Decision-Driver).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L829] The two clocks: „Beide laufen parallel. Alter sehen beide. Leser sieht beide. AEGIS sieht nur Timelock.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L839]
+It does not divide the beats between Kap 35 and Kap 36, but gives each chapter one thing of its own: Metzinger's self-model „erklärt die Auflösung des Subjekt-Objekt-Spalts in Ch35“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L727], and the [[externe-ebene|Externe Ebene]] is „Der Substrat-Durchbruch (Ch36).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650] It has no Vortex 2, no Kap 37 and no Kap 38 (`Vortex 2` 0, `Ch37` 0, `Ch38` 0, `05-verify-readers.txt`); after the Vortex, KW4 carries Akt III's „Ch29–34, 37–39“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L624].
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 
@@ -295,7 +305,8 @@ person or an alter's first (L805). That touches **C14**.
   Beats 1 and 2, so the difference may be more than one of naming.
 - Whether the witness layers act together in the Vortex. The character bible has all three
   active in it (L1170). The konsolidiertes Konzept and the glossary give each its own
-  beat, 3, 4 and 5. The Worldbuilding-Konzept joins them in Beat 5 (L350).
+  beat, 3, 4 and 5. The Worldbuilding-Konzept holds all three answers: simultaneous in the
+  climax (L340), one per beat (L813, L817, L821), and joined in Beat 5 (L350).
 - The setting's name. Sources say Mnemosyne-Archipel, Mnemosyne-Archipel-Server-Architektur
   and Mnemosyne-Server-Architektur, and the setting's image is still open in several of
   them. [[mnemosyne-server-architektur|Mnemosyne-Server-Architektur]] has a page of its own.
@@ -304,4 +315,4 @@ person or an alter's first (L805). That touches **C14**.
 - The [[goedel-gambit|Gödel-Gambit]]: the glossary calls it the Vortex 1 mechanism, and the
   philosophy document places it in Beat 2 (its L723).
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `worldbuilding-konzept-kohaerenzprotokoll-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`).
