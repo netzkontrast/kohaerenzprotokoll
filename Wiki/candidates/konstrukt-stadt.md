@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -177,3 +177,10 @@ The premise's city has no name: „Ein Mann erwacht in einer sterilen Stadt. Die
 On the page's Guardian: the worlds are „Akt-Marker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453], and „der Erasure-Pol durchwirkt KW1 und KW3." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] Of the older
 drafts it claims „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] The Konstrukt-Stadt is
 KW1 here, as the author decided for C9.
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — KW1 as the realm of phenomena, a closed control city, a Turing machine
+
+**KW1**, as the author decided for C9, with `Logos-Prime` as a second name (J49), in its Kant section (`[K]`): „KW1 (Konstrukt-Stadt / Logos-Prime) ist das Phaenomena-Reich." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118] „Welt der gefilterten Erscheinungen, durch AEGIS' kognitiven Apparat normalisiert." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118] „Wer in KW1 lebt, lebt im Filter, nicht in der Welt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118]
+The world table gives it a logic class and schools: „KW1 Konstrukt-Stadt" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L672], „P (Polynomial)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L673], „Kants Phaenomena, Wittgensteins Tractatus, Luhmanns operative Geschlossenheit, Kohärenztheorie als Architektur" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L674], its mode of knowing „gefilterte Erscheinung; Wahrheit als Konsistenz" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L675]. The coherence theory is built into it — „KW1 als Architektur, AEGIS-Logs als Stimme, das gesamte Suppressionsprotokoll als Praxis." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L45] — and so is Luhmann's closure: „KW1 als luhmannianische Architektur (operativ geschlossene Kontroll-Stadt)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L274].
+Two chapters see through it. Kap 15, under Turing (`[K]`): „Kap 15 — Turing-Mechanik. Kanonischer Theorie-Anker." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] „Kael versteht: die Stadt ist eine universelle Turingmaschine, deren Reparaturalgorithmen prinzipiell nicht terminieren." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] Kap 17, under Kant: „Kant erscheint als Sensorik des Filter-Bruchs — Kael sieht plötzlich „durch" die Stadt, sieht den Prozess hinter der Erscheinung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L124] It does not say which world Kael is in then; the same Turing section makes the halting problem the source of KW2's Risse (L307).
+Among the six movements: „KW1 als Phaenomena-Reich wird in KW4 zur Bühne des Sich-Zeigens." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L752] No Guardian stands in the document (`Guardian` 0, `05-verify.txt`), and it gives KW1 no act.
