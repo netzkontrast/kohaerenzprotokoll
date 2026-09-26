@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 18
+sources: 19
 pages: ["juna"]
 ---
 
@@ -186,3 +186,9 @@ The rule is stated for Kap 0 and says nothing of a later scene.
 **No appearance placed; a witness, an echo, in danger.**
 Kap 21 „Kael (grenzbewusst), Juna-Echo" ^[three-mode-architecture-39-chapters-md.md:L265]; Kap 24 „Kael, Juna-Witness" ^[three-mode-architecture-39-chapters-md.md:L268]; Kap 28 „Call to Adventure — AEGIS' Eskalation / Juna in Gefahr" ^[three-mode-architecture-39-chapters-md.md:L333]; Kap 30 a witness again (L335).
 Her nature is left open on purpose: „Junas Natur nicht aufgelöst (Echo? Erinnerung? externe Präsenz?)" ^[three-mode-architecture-39-chapters-md.md:L494] Neither Kap 33 nor Kap 38 names her.
+
+## 2026-09-26 — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — research, by the author
+
+**An Entität arrives in Kap 0, unnamed.**
+„Die Entität strahlte etwas aus“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L371] — and the fragment feels it as „die fremd ist und doch nicht fremd“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L503].
+The text names no figure (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`): it does not say who the Entität is, and places no appearance of anyone by name.
