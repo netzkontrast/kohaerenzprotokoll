@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -99,6 +99,13 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 - Plot beats: „Die Autoren-Feder“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „das Delikt wird Absicht: Kael schreibt seinen ersten Bericht, den niemand angefordert hat (Idee 13).“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - AEGIS: „AEGIS spürt die neue Linearität“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Format-Anomalie“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 13: „27 (Autoren-Feder“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L100] (marked `[K]`) · „der Moment, in dem das Delikt Absicht wird“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L100]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the Dasein-Strang harvested
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its `[K]` is its claim, recorded and not applied.
+
+- Foreshadowing: „Dasein-Strang als Foreshadowing. Existentielle Unverankerung; Kaels Reflexionen Akt I tragen Sartre/Heidegger-Spuren.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L171] · „Erntung Kap 27 (klare Absicht, bereit zur Konfrontation).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L171] (§3.2 Heidegger, marked `[K]`)
+- Where Heidegger stands: „Kap 17, Kap 27, Kap 33, Vortex 2.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L183] (§3.2)
 
 ## Where the sources differ
 
