@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -17,6 +17,8 @@ Guardian and filled out across the same eight fields.
 Until this document, `Kern-Welten` was a term two sources used and neither
 defined — once inside a parenthesis, as already understood. This one names four
 of them and gives each its own physics.
+
+**That pairing is the 2025 document's.** Later sources decouple the worlds from the Guardians: the worldbuilding concept calls the four Kernwelten „Akt-Marker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453], „nicht je ein Guardian-Reich" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453].
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -152,3 +154,26 @@ KW1 is the whole Akt I here (C9).
 
 Where Kael wakes, named in Kap 0's last lines as what comes next: „der sich gleich in eine Konstrukt-Stadt erwachen wird, wo die Temperatur immer einundzwanzig Grad ist und manchmal die Luft nach Ozon riecht, ohne dass jemand weiß warum" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501]
 It is not called a Kern-Welt here; the Kernwelten are named eight lines before, as future work (L493). C11 for the ozone.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — KW1 in full, and its four sub-locations
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+**KW1**, „KW1 — Die Konstrukt-Stadt (Logos-Prime)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L455] — consistent with the author's decision on C9;
+`Logos-Prime` again as a second name (J49). „Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L457]
+„Domäne der ANP-Vermeidung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L457] „Steril, geometrisch, minimalistisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L461] „Architektur als Kontrolle" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L461].
+Its senses: „Geruch von Ozon und Desinfektionsmittel." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L465] „Temperatur: konstant 21°C — bis sie es nicht mehr ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L465]
+„Computational Class P." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L469] Its style level: „Ebene 1 — kalt, steril, assertorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L477] „Metaphernverbot." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L477]
+
+Its Risse: „Die Risse hier sind die schmerzhaftesten, weil sie in eine Umgebung einbrechen, die für Risse keine Sprache hat." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L481]
+— among them „blutende Knöchel ohne Erinnerung an die Verletzung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L481] Four sub-locations (L489–L492): [[kaels-wohneinheit|Kaels Wohneinheit 734]],
+[[datenverarbeitungsknoten-7g|Datenverarbeitungsknoten Epsilon]], Transitkorridor Delta-7 and [[sektor-04|Sektor 04]]. „KW1 dominiert Akt I (Ch1–13)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496]
+
+The premise's city has no name: „Ein Mann erwacht in einer sterilen Stadt. Die Temperatur ist immer einundzwanzig Grad." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29]
+„Manchmal riecht die Luft nach Ozon, dann ist der Geruch wieder weg, und er weiß nicht, warum seine Knöchel bluten." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29]
+„Die Stadt ist eine Simulation." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29] The same signs are the heat of AEGIS' erasures: the Landauer waste heat
+„manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L82] (C11)
+
+On the page's Guardian: the worlds are „Akt-Marker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453], and „der Erasure-Pol durchwirkt KW1 und KW3." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] Of the older
+drafts it claims „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] The Konstrukt-Stadt is
+KW1 here, as the author decided for C9.
