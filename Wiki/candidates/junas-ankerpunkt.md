@@ -1,10 +1,10 @@
 ---
 term: Junas Ankerpunkt
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -70,3 +70,10 @@ Telefonzelle?)." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:
 
 An Externe-Ebene sub-location marked `[L]`: „Ort, an dem Juna in Köln verortet ist (Naming/Lock offen)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L326].
 Listed again as open: „Junas Erscheinungsmodus in der externen Ebene (Köln 2026):" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1441] „Ankerpunkt-Lock" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1441].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — where the Telefon-Stille is anchored, twenty years ago
+
+The first sub-location of „Die Externe Ebene — Köln 2026" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L648]:
+„Junas Ankerpunkt — Ort, an dem die Telefon-Stille verankert ist. Vor zwanzig Jahren." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L666]
+So it is tied to the [[telefon-stille|Telefon-Stille]] and dated by it. Of the readings above, only Kernwelten vollständig brings a telephone near it, as one guess at its concrete place (its L939), and none dates it. The level it stands on is „die andere Seite des Spiegels. Der Substrat-Durchbruch (Ch36)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650]
+It names the Ankerpunkt once, with no chapter of its own, no concrete place and no Riss (`Ankerpunkt` 1, `Ch38` 0, `05-verify-readers.txt`).
