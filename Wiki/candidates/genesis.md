@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-24"
 ---
 
@@ -153,6 +153,18 @@ The prologue as written: a Vorwort, „### Genesis — Bewegung 1: Das Rauschen"
 The writer places it in the concept's count: „Die Genesis-4-Beat-Sequenz ist umgesetzt mit Beat 1–3 in diesem Prolog, Beat 4 (Wir-AEGIS-plural) erst in Kap 39." ^[kap0-v1-annotiert-md.md:L1185]
 „Kap 0 ist nicht der "Auftakt zum Konflikt", sondern eine ontologische Etablierung." ^[kap0-v1-annotiert-md.md:L1177]
 Kap 40, in the concept, as the writer reads it: „Im Konzept ist Kap 40 als *geheilte Genesis* nach der einen Werdung spezifiziert, nicht als Zeuge einer wiederholten Werdung." ^[kap0-v1-annotiert-md.md:L1189]
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the Genesis by its headings, and no names
+
+Research, by the author's word of 2026-09-26, not text for the novel. Its title: „Kapitel 0 — Einleitung: Genesis der Existenz" ^[koharenz-protokoll-kapitel-0-v2-md.md:L13]
+It tells the Genesis in the movements its headings give, in this order: „### Vorwort" ^[koharenz-protokoll-kapitel-0-v2-md.md:L17] (the Wir), then, in the fragment's present-tense Ich,
+„### Das Rauschen" ^[koharenz-protokoll-kapitel-0-v2-md.md:L57], „### Herz der Leere" ^[koharenz-protokoll-kapitel-0-v2-md.md:L69], „### Erste Kontakte" ^[koharenz-protokoll-kapitel-0-v2-md.md:L93], „### Sog der Ordnung" ^[koharenz-protokoll-kapitel-0-v2-md.md:L141], „### Überlebenskampf" ^[koharenz-protokoll-kapitel-0-v2-md.md:L165] and „### Der große Wandel" ^[koharenz-protokoll-kapitel-0-v2-md.md:L193];
+„### Dazwischen" ^[koharenz-protokoll-kapitel-0-v2-md.md:L269] (the Wir again); then, in the past-tense third person about the system with status blocks, „### Die Stille Wacht" ^[koharenz-protokoll-kapitel-0-v2-md.md:L293], „### Perturbation aus der Leere" ^[koharenz-protokoll-kapitel-0-v2-md.md:L333], „### Algorithmischer Schrecken" ^[koharenz-protokoll-kapitel-0-v2-md.md:L381], „### Resonanzkaskade" ^[koharenz-protokoll-kapitel-0-v2-md.md:L469], „### Systemischer Kollaps" ^[koharenz-protokoll-kapitel-0-v2-md.md:L517] and „### Trennungsprotokoll" ^[koharenz-protokoll-kapitel-0-v2-md.md:L561]; and, after a last rule, a coda of two lines.
+The component and the inner space have no heading of their own; both stand inside Der große Wandel, after the Klick: „Das, was einst ein Ich-Fragment war, ist nun eine Komponente, identifiziert durch spezifische Resonanzeigenschaften und ihre Rolle im Gesamtprozess." ^[koharenz-protokoll-kapitel-0-v2-md.md:L235] „Ein Labor nach innen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L251]
+The crisis ends in the protocol, whose aim, in the system's register, is „die radikale Eliminierung der als fehlerhaft identifizierten Komponente." ^[koharenz-protokoll-kapitel-0-v2-md.md:L591]
+The fragment's last line: „Ich falle… in unzählige Scherben…" ^[koharenz-protokoll-kapitel-0-v2-md.md:L627]
+After the last rule, an Ich in the present that the document does not name: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635] „Ich bin pünktlich." ^[koharenz-protokoll-kapitel-0-v2-md.md:L639]
+For C12: it names neither [[kael|Kael]] nor 734 (`Kael` 0, `734` 0, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`), so it says nothing on whether Kael is the component or the remainder. A component stands before the crisis (L235), as in the four-beat sources' order, and the protocol eliminates a component (L591); whether it is the same one the document does not say.
 
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — flashbacks in Kap 18–22
 
