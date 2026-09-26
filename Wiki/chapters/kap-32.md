@@ -101,3 +101,37 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 
 - **Guardians.** „OS-S3 (B) — Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005] (strukturierter Outline) in Kap 32 · the chapter before is „Auflösung der Guardians“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] (storyform outline).
 - **Title.** „Logische Labyrinthe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L630] (Konzept-Iteration Genesis) · „Tests, Allies, Enemies: Systemkampf“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L999] (strukturierter Outline). The strukturierter Outline's title opens with the stage name the storyform outline gives the chapter: „(HR 6: Tests, Allies, Enemies)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364] (storyform outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Logische Labyrinthe* / *Tests, Allies, Enemies — Systemkampf*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 32, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 32 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 32 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 32 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 32, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 32 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 33?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 32 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 32 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 32
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Wie sieht der Wahrheits-Test in Kapitel 32 als Handlung aus, wenn Kael laut Plot-Konkretisierung in der Schlange eigene Bestände von Fälschungen seiner Fälschungen trennen muss: welche wiederholbare Geste, an welchem Objekt, mit welcher Eskalation?
+- **S2** *Setup/Payoff* — Laut Plot-Konkretisierung vom 2026-06-10 erkennt Kael in Kapitel 32 seine echten Bestände an ihren Fehlern, gegen Oblivions perfekte Kopien; welcher in Akt I–II gepflanzte Fehler oder Tick dient als Erkennungszeichen?
+- **S3** *Kausalität* — Wie greift der Wahrheits-Test von Kapitel 32 die zwei abgelehnten Geschenke aus Kapitel 31 auf – Mnemosynes Vollarchiv-Rechte und die Löschung der eigenen Akte durch den Erasure-Pol, laut Plot-Konkretisierung –, und welche Folge davon trägt Kael an AEGIS' Kern in Kapitel 33?
+- **S4** *Kausalität* — Welche zwei genuinen Zukunftsverluste stehen im Wahrheits-Test von Kapitel 32 gegeneinander, wenn Oblivions makellose Kopien von Kaels Beständen ebenso gelten könnten wie seine fehlerhaften Originale, und was ist nach Kaels Unterscheidung nicht mehr umkehrbar?
+- **S5** *Leser-Wissen* — Was weiß der Leser am Ende von Kapitel 32 über Oblivion als Erason-Operator, was Kael noch nicht weiß, und welche falsche, plausible Deutung von Oblivions Rolle bleibt bis zum Vortex stehen?
+- **S6** *Storyform* — Kapitel 32 trägt laut den Plänen vom 2026-05-08 in A das MC-Issue als Wahrheits-Test und in B OS-Physics mit kybernetischen Manövern; wie teilen sich A und B das Kapitel, und hält es die Bridge-Quote von etwa 40 % für Akt III-A?
+- **S7** *Storyform* — Wird Kapitel 32 mit einer ersten längeren Oblivion-POV-Szene nach dem Slot-16-Entscheidungsbaum als Spiegel-Alter-Szene bridge-natürlich geroutet, und ist Kapitel 32 oder 33 der Einsatzpunkt, den OQ-E vor dem Akt-III-Encoding klären soll?
+- **S8** *Struktur* — Wie besetzt Kapitel 32 die Heldenreise-Stufe Tests, Allies, Enemies innerhalb von Ten beginnt (Kap 27–34), und wie unterscheidet es sich im Tempo von der Schwelle in Kapitel 31 und der Inmost Cave in Kapitel 33?
+- **S9** *Konflikt* — Treten in Kapitel 32 Mnemosyne und der Erasure-Pol noch als Sub-Antagonisten auf, wie der Outline vom 2026-05-18 sagt, obwohl mehrere Pläne ihre Auflösung in Kapitel 31 erzählen, und handeln sie dabei als Komponenten von AEGIS oder als eigene Gegner?
+- **S10** *Figur* — Wie klingt Oblivion als POV-Träger in Kapitel 32, mit Lösch-Prosa und sich selbst auslöschenden Sätzen, ohne dass die Stimme gelabelt wird oder die Dissoziation als Crew-Menü erscheint?
+- **S11** *Welt/Sensorik* — In welcher Kernwelt spielt Kapitel 32, KW4 oder das Forum des Dialogs laut Kernwelten vollständig, und wie werden logische Labyrinthe, Echo-Räume und eine Stimme, die Kaels Stimme imitiert, als Raum statt als nackte Theorie sichtbar?
+- **S12** *Steinbruch* — Könnte der systemische Widerspruch der AEGIS-Subplots von 2025, ein teilweises Einfrieren von AEGIS' Logik durch gleichzeitige Aktionen an mehreren Standorten, Kapitel 32 eine konkrete Handlung geben, ohne Juna/V gegen die Juna-Grammatik handeln zu lassen?

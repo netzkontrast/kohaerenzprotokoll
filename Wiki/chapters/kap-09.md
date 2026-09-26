@@ -121,3 +121,36 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 - **Is the Wir conscious.** „Kael spürt sich erstmals als mehrere, ohne dass das Wort Alters fällt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L449] and „Erste explizite Wir-Stimme-Szene“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L449] (strukturierter Outline) · „Erste bewusste innere Kooperation“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314] (storyform outline) · „für Kael fühlt es sich an wie ein guter Tag, nicht wie ein Wir“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] and „Kap 9 = Arbeitsteilung ohne Benennung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L243] (Plot-Konkretisierung) — he feels himself as several, or it does not feel like a Wir.
 - **Storyform A.** „A: MC-Concern, Logik und Intuition verbinden sich. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L978] (konsolidiertes Konzept) · „A-Requirement: Wir-Bildung beginnt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (Kapitel-Kompendium).
 - **Title.** „Rückkehr mit neuer Sichtweise“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (Kapitel-Kompendium) · „Kap 9 — Wir“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L439] (strukturierter Outline; also Konzept-Iteration Genesis, and konsolidiertes Konzept and storyform outline without the number) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 9: Rückkehr mit neuer Sichtweise — Integration beginnt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L441].
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Kap 9 — Wir* / *Rückkehr mit neuer Sichtweise — Integration beginnt*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 9, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 9 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 9 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 9 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 9, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 9 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 10?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 9 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 9 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 9
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tun Kaels Anteile in Kapitel 9 konkret an der Konsole, wenn laut Plot-Konkretisierung einer sortiert, einer innehält und einer liest – welcher Arbeitsvorgang zeigt die Arbeitsteilung, ohne sie zu benennen?
+- **S2** *Konflikt* — Ist das Wir in Kapitel 9 bewusst: spürt Kael sich erstmals als mehrere, ist es erste bewusste innere Kooperation, oder fühlt es sich für ihn nur wie ein guter Tag an und nicht wie ein Wir?
+- **S3** *Storyform* — Welchen Storypoint trägt Kapitel 9 in Storyform A – MC-Concern, Logik und Intuition verbinden sich, oder das A-Requirement Wir-Bildung beginnt – und bleibt Storyform B in Kapitel 9 ganz latent?
+- **S4** *Struktur* — Wie trägt Kapitel 9 als Murdock-Stufe Rückkehr mit neuer Sichtweise, Integration beginnt, zugleich die Ki-Vertiefung und den Start des Foreshadowing-Programms plurale Bewahrung, das auf Kapitel 39 zielt?
+- **S5** *Setup/Payoff* — Welches konkrete Detail der ersten Wir-Stimme-Szene in Kapitel 9 muss in der pluralen Bewahrung von Kapitel 39 wiederkehren, damit die Wir-Bildung als Echo der K1-Reinform lesbar wird?
+- **S6** *Leser-Wissen* — Was wissen Leser, Kael und AEGIS am Ende von Kapitel 9 über Kaels innere Vielheit, wenn vor Kapitel 13 keine Klartext-Diagnose erlaubt ist und Stimmen nie gelabelt werden?
+- **S7** *Kausalität* — Wie reagiert AEGIS in Kapitel 9 auf die erste innere Verbindung zwischen Kaels Anteilen – nach dem AEGIS-Subplot-Dokument fast sofort – und welche Folge exportiert das nach Kapitel 10?
+- **S8** *Kausalität* — Ist die Arbeitsteilung an der Konsole in Kapitel 9 die Folge von Kaels Mitgefühl mit seinen logischen Anteilen oder mit dem Apparat aus Kapitel 8, und was ist nach Kapitel 9 nicht mehr umkehrbar?
+- **S9** *Figur* — Wie klingen Lex, Rhys, Selene und Alex in der inner-dialogischen Polyphonie von Kapitel 9, ohne dass eine Stimme gelabelt oder als Crew-Menü vorgeführt wird?
+- **S10** *Welt/Sensorik* — Wie wird das innere Geflecht der Wir-Stimme in Kapitel 9 in KW1 sinnlich, als Bild oder Verhalten, unter dem Metaphernverbot von KW1 und ohne DKT-Terminologie?
+- **S11** *Lücke* — Wo bleibt Junas Spur in Kapitel 9, wenn nach der ersten Resonanz in Kapitel 7 keine Lesart von Kapitel 9 Juna, Wärme oder die Telefon-Stille nennt – pausiert der Juna-Faden während der ersten Wir-Bildung?

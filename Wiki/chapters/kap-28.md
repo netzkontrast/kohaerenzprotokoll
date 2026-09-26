@@ -118,3 +118,36 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 - **The trigger: Purge and Juna, or one of them.** „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616] (Konzept-Iteration Genesis) · „Purge-Drohung, Juna in Gefahr; A-Consequence akut (ewige Fragmentierung droht)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L360] (storyform outline) · „Ein Ereignis (AEGIS droht mit Purge, oder Juna ist bedroht — OQ-B-abhängig) zwingt Kael zum sofortigen Handeln.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L913] (strukturierter Outline).
 - **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] with „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung).
 - **Title.** „AEGIS' Eskalation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis) · „Call to Adventure: AEGIS' Eskalation / Juna in Gefahr“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L903] (strukturierter Outline) · „Consequence akut“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L226] (Kapitel-Kompendium); the second opens with the Genesis document's stage name, „HR-Stufe 2: Call to Adventure“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Call to Adventure — AEGIS' Eskalation / Juna in Gefahr* / *Call to Adventure: AEGIS' Eskalation / Juna in Gefahr*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 28, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 28 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 28 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 28 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 28, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 28 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 29?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 28 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 28 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 28
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Welches konkrete Ereignis zwingt Kael in Kapitel 28 zum sofortigen Handeln, wenn die Outline vom 2026-05-18 nur von einem Ereignis spricht: eine Meldung, ein Objekt, ein Ort des Apparats, an dem der Countdown sichtbar beginnt?
+- **S2** *Konflikt* — Ist der Auslöser in Kapitel 28 Purge-Drohung und Juna in Gefahr zugleich, wie Konzept-Iteration Genesis und Storyform-Outline sagen, oder nur eines davon, abhängig von OQ-B wie in der Outline vom 2026-05-18, und was entscheidet OQ-B?
+- **S3** *Kausalität* — Wie führt Kaels erster ungefragter Bericht aus Kapitel 27 zur Purge-Drohung in Kapitel 28, und welche Folge exportiert Kapitel 28 in das Refusal und die Angst des Kindes in Kapitel 29?
+- **S4** *Leser-Wissen* — Wie kann Juna in Kapitel 28 in Gefahr sein, wenn sie nie beschrieben und nie Subjekt ist: was weiß der Leser über die Bedrohung, und was glaubt Kael über Junas Ort womöglich fälschlich?
+- **S5** *Storyform* — Wie trägt Kapitel 28 die akute A-Consequence, ewige Fragmentierung, laut Kapitel-Kompendium akut ab Kap 28, neben dem sichtbaren Timelock-Countdown von B, und ist das Kapitel nach Slot 16 Hard-A, Hard-B oder Bridge?
+- **S6** *Struktur* — Wie funktioniert Kapitel 28 als Call to Adventure, Stufe 2 der Heldenreise außen, und beginnen dort laut dem Konzept-Master-Bericht die Vortex-Vorläufer als Bridge-Szenen, obwohl er das Kapitel nur ungefähr angibt?
+- **S7** *Setup/Payoff* — Welche Bilder aus Akt I und II muss ein Vortex-Vorläufer in Kapitel 28 aufnehmen, damit Vortex 1 in Kapitel 35–36 nur bereits gepflanzte Bilder rotiert, und in welchen Kapiteln wurden sie gepflanzt?
+- **S8** *Welt/Sensorik* — Wie wird in Kapitel 28 der Phase-Shift von KW3 zu KW4 gebaut, den Kernwelten vollständig zwischen Kapitel 28 und 29 legt, mit unbewachten Toren als Übergang, und wie nimmt Kael KW3 sinnlich mit, statt sie zu verlassen?
+- **S9** *Figur* — Wie spricht AEGIS in Kapitel 28 die Purge-Drohung aus: direkt drohend, wie die Outline vom 2026-05-18 sagt, oder als Verwaltungsvorgang Voll-Konsolidierung Stadtgebiet, wie die Plot-Konkretisierung vorschlägt, und immer ohne moralisches Vokabular?
+- **S10** *Lücke* — Was tut Mnemosyne in Kapitel 28, wenn nur die Outline vom 2026-05-18 sie unter den Figuren nennt und keine Quelle ihre Handlung beschreibt, und welche Funktion hat sie in AEGIS' Eskalation?
+- **S11** *Steinbruch* — Kann die Erinnerungswaffe aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in der ein Guardian wie Mnemosyne alte Traumata reaktiviert, Kapitel 28 verdichten, das die Storyform-Outline vom 2026-06-10 als zu verdichten nennt?

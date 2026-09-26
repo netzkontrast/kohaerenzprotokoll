@@ -106,3 +106,36 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - **What Kael takes from Komp 734.** „Kael erkennt einen Moment lang: ich war Komp 734; verliert das Wissen aber sofort wieder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592] (Konzept-Iteration Genesis) · „Kael liest nur eine Nummer, legt das Dossier zurück und kann nicht mehr schlafen; der Leser trägt die volle Last.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (Plot-Konkretisierung).
 - **Form of the Komp 734 beat.** „Dritter Genesis-Flashback (Bridge): Komp 734 / Funktionalisierung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765] with „Kael, AEGIS dominant, Genesis-Flashback-Stimme“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L757] (strukturierter Outline) · „den Genesis-Flashback Kap 22 als Szene mit Handlung (finden, lesen, zurücklegen) statt als Vision“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (Plot-Konkretisierung).
 - **Title.** „AEGIS' Dilemma“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590] (Konzept-Iteration Genesis) · „Z3-AEGIS-Eskalation + Genesis-Flashback“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1003] (konsolidiertes Konzept) · „Z3-Reaktion + Genesis-Flashback (Komp 734)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L755] (strukturierter Outline); the last opens with the Genesis document's stage name, „Z3-Reaktion, Genesis-Cluster Ende“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590] (Konzept-Iteration Genesis).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *AEGIS' Dilemma* / *Z3-AEGIS-Eskalation + Genesis-Flashback*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 22, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 22 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 22 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 22 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 22, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 22 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 23?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 22 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 22 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 22
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Laut Plot-Konkretisierung findet Kael in Kapitel 22 im Theta-9 ein Dossier mit der Seriennummer 734, liest nur die Nummer, legt es zurück und kann nicht schlafen: wie kommt er an die Akte, und was riskiert er dabei?
+- **S2** *Konflikt* — Was nimmt Kael in Kapitel 22 aus dem Komp-734-Beat mit: erkennt er einen Moment lang, dass er Komp 734 war, und verliert das Wissen sofort, oder liest er nur eine Nummer, während der Leser die volle Last trägt?
+- **S3** *Konflikt* — Ist der Komp-734-Beat in Kapitel 22 ein Bridge-Flashback mit Genesis-Flashback-Stimme, wie die Outline vom 2026-05-18 sagt, oder eine Szene mit Handlung, finden, lesen, zurücklegen, statt einer Vision?
+- **S4** *Leser-Wissen* — Was darf der Leser nach Kapitel 22 über Kael und Komponente 734 wissen, ist Kael die Komponente selbst oder der Rest, den das Trennungsprotokoll aus ihr schneidet, und welche Lesart bleibt bis Vortex 1 plausibel?
+- **S5** *Kausalität* — Welche Grenzüberschreitung aus Kapitel 21 beantwortet AEGIS in Kapitel 22 mit unvorhersehbaren Systemänderungen, und welcher Rückschlag zwingt Kael in Kapitel 23 zur Selbst-Schöpfung statt Reparatur?
+- **S6** *Storyform* — Welche Storypoints trägt Kapitel 22 in A (MC-Issue, Berechenbarkeitsgrenzen) und in B (OS-Physics, AEGIS' Dilemma, Erasure-Kosten sichtbar), und was bedeutet A‖B mit B sichtbar erschöpft für die Bridge-Quote im Akt-II-Band?
+- **S7** *Figur* — Die 39-Kapitel-Spezifikation nennt für Kapitel 22 Kael und AEGIS dominant: in welcher Person und Form erscheint AEGIS dort, als Log, Protokoll oder operative Innensicht, solange offen ist, ob AEGIS je ein Innen bekommt?
+- **S8** *Struktur* — Kapitel 22 liegt auf dem Übergang von KW2 nach KW3 und schließt den Genesis-Flashback-Cluster: ist das ein Weltübergang innerhalb des zyklischen Modus, und wie hält er sich von den Modus-Wechseln 13/14 und 26/27 getrennt?
+- **S9** *Welt/Sensorik* — Die Outline vom 2026-05-18 nennt für Kapitel 22 Wärme-Schlieren und eine zu lange Pause: ist diese Wärme Junas Spur oder AEGIS' Erasure-Kosten, und wie verträgt sie sich mit der Hitze-Polarität, die Wärme und kaltes Ozon nie mischt?
+- **S10** *Setup/Payoff* — Wo wird die erste Spur des Bekenstein-Strangs eingelöst, die Kernwelten vollständig in Kapitel 22 setzt, als die Welt zu pixelieren beginnt, und welche Bilder aus Kapitel 22 darf Vortex 1 zitieren?
+- **S11** *Steinbruch* — Kann die ältere Paradox-Falle, in der Kael AEGIS mit dem Kernparadoxon aus Kapitel 17 lähmt und das Fenster nutzt, die Ursache der Systemverwerfungen in Kapitel 22 liefern, ohne AEGIS zum bedrohenden Gegner zu machen?

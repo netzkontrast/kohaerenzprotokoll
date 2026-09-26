@@ -109,3 +109,36 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 
 - **What meets Kael as he steps out.** „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] (aegis-subplots) · „Kap 26 nicht Kampfbeginn — Schwellen-Tritt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L873] (strukturierter Outline) · „Kael verlässt den Knoten; die Tür registriert ihn nicht mehr.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung).
 - **Title.** „Schritt ins Ungewisse“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L606] (Konzept-Iteration Genesis) · „Wendepunkt: Entscheidung zur Befreiung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L851] (strukturierter Outline) · „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium), one title for Kap 25 and Kap 26.
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Schritt ins Ungewisse* / *Wendepunkt — Entscheidung zur Befreiung*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 26, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 26 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 26 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 26 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 26, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 26 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 27?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 26 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 26 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 26
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Welche konkrete Handlung ist in Kapitel 26 der Tritt über die Schwelle, laut Plot-Konkretisierung das Verlassen des Knotens durch eine Tür, die ihn nicht mehr registriert, und was bedeutet es für Kael, vom Apparat nicht mehr erfasst zu werden?
+- **S2** *Konflikt* — Was tritt Kael in Kapitel 26 beim Hinausgehen entgegen: ein präventiver Gegenschlag von AEGIS mit einem Guardian wie in der Subplot-Sammlung von 2025, ein Schwellen-Tritt ohne Kampf wie in der Outline vom 2026-05-18, oder nur Nicht-Registrierung?
+- **S3** *Kausalität* — Wie wird Kaels Entscheidung zur Befreiung in Kapitel 26 aus der Klarheit von Kapitel 25 geboren, und welches beobachtbare Ereignis am Ende exportiert sie in die Ordinary World von Kapitel 27?
+- **S4** *Kausalität* — Was ist nach Kapitel 26 irreversibel, wenn der Apparat laut Plot-Konkretisierung Einheit 734 als ausgefallen reklassifiziert und die Direkt-Konsolidierung vorbereitet: gibt es für Kael einen Weg zurück in den Zyklus?
+- **S5** *Leser-Wissen* — Was weiß AEGIS am Ende von Kapitel 26 über Kaels Absicht, wenn es laut der Outline vom 2026-05-18 die Linearisierung antizipiert, und was glaubt Kael fälschlich über sein unbemerktes Gehen?
+- **S6** *Storyform* — Welche Storypoints trägt Kapitel 26 in A, Schritt ins Ungewisse als Entschluss, und in B, eskalierende Erasure-Vorbereitung, und wie wird der Driver Decision von A als Szene sichtbar, ohne B vorzeitig erlöschen zu lassen?
+- **S7** *Struktur* — Wie markiert Kapitel 26 den Modus-Wechsel 26/27 vom zyklischen zum linear aufsteigenden Modus, ohne ihn mit der Storyform-Wendung 34/35 zu verwechseln, und woran erkennt der Leser, dass der Zyklus durchbrochen ist?
+- **S8** *Setup/Payoff* — Wie wird in Kapitel 26 das Genesis-Echo gebaut, dass Kaels Entscheidung laut der Outline vom 2026-05-18 einrastet wie das Trennungsprotokoll, aber in umgekehrter Richtung, und wie muss das Einrasten in Kapitel 0 gepflanzt sein?
+- **S9** *Welt/Sensorik* — Wie wird die KW3-Zitadelle in Kapitel 26 sinnlich gebaut, laut Kernwelten vollständig der gefährlichste Ort, weil dort am wenigsten Bedrohung erwartet wird, und wie trägt sie aufkommende Bewegung und Vorwärts-Spannung?
+- **S10** *Figur* — Darf Kael in Kapitel 26, das die Outlines als Wir-entschlossen führen, nach der offenen Benennung des Schleiers erstmals bewusst Wir sagen, und wie verträgt sich das mit der Regel, Stimmen nie zu labeln und kein Crew-Menü zu zeigen?
+- **S11** *Impact* — Wenn der Autor in Kapitel 26 den präventiven Guardian-Angriff aus der Subplot-Sammlung wählt statt eines kampflosen Schwellen-Tritts, was kippt am Call to Adventure in Kapitel 28 und an Kapitel 26 als Ende von Akt II?

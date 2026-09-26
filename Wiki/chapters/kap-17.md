@@ -111,3 +111,36 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - **First conscious Pursuit.** „A: MC-Solution Pursuit Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572] (Konzept-Iteration Genesis) · „A:MC-Solution Pursuit-Andeutung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342] (storyform outline) · „Erste bewusste Pursuit-Bewegung. Driver-Anker A: Decision, aktiv hinschauen statt wegsehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline), which says the same of Kap 20: „MC-Solution Pursuit — erste bewusste Bewegung, aktiv neue Wege suchen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L713] (strukturierter Outline).
 - **Who catches the relapse.** „Wächterin/Wir-Stimme fängt Rückfall ab.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572] (Konzept-Iteration Genesis) · „Das integrierte Selbst (Selene als Wächterin-Funktion) oder die K-J-Verbindung hilft Kael, den Rückfall zu erkennen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline). (Q4)
 - **Title.** „Licht der Wächterin“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L570] (Konzept-Iteration Genesis) · „Z1-Korrektur: Wächterin“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L635] (strukturierter Outline; „Z1-Wächterin“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L993] konsolidiertes Konzept) · „Phaenomena vs. Noumena“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L213] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the second as „(Zyklus-Funktion: Z1-Wächterin)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342] (storyform outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Licht der Wächterin* / *Z1-Wächterin*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 17, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 17 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 17 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 17 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 17, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 17 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 18?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 17 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 17 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 17
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Laut Plot-Konkretisierung steht in Kapitel 17 im Pflichtbericht versehentlich zum ersten Mal ein erzählter Satz: wie lautet der Bericht konkret, was riskiert Kael, und warum lässt der Validator ihn knapp passieren?
+- **S2** *Konkretheit* — Was sieht Kael in Kapitel 17 konkret, wenn er die Drähte der Simulation, Rendering-Ebene gegen Prozess-Kern, erkennt und erfährt, dass Bestätigtes nicht verschwindet, sondern nach unten geht, an welchem Ort und durch welches Objekt?
+- **S3** *Kausalität* — Welche beobachtbare Handlung in Kapitel 17 fängt den Rückfall in den Bunker aus Kapitel 16 ab, und welches Ereignis am Ende von Kapitel 17 führt in den Cache-Konflikt und ersten Genesis-Flashback von Kapitel 18?
+- **S4** *Konflikt* — Wer fängt in Kapitel 17 Kaels Rückfall ab: Selene in der Wächterin-Funktion, die Wir-Stimme oder die K-J-Verbindung zu Juna, und was würde die Wahl zwischen diesen Trägern entscheiden?
+- **S5** *Storyform* — Liegt die erste bewusste Pursuit-Bewegung von Storyform A in Kapitel 17 (Driver-Anker Decision, hinschauen statt wegsehen) oder erst in Kapitel 20, und was unterscheidet eine Pursuit-Andeutung von einer bewussten Bewegung?
+- **S6** *Leser-Wissen* — Was weiß der Leser am Ende von Kapitel 17 über Rendering und Prozess-Kern der Stadt, was Kael noch nicht deutet und AEGIS nicht bemerkt, und welche falsche, plausible Deutung der Drähte bleibt stehen?
+- **S7** *Struktur* — Kapitel 17 schließt Zyklus Z1 als Korrektur: wie weit darf sie gelingen, damit Z2 in Kapitel 18 eskalierend destabilisiert, und spiegelt Kapitel 17 die Wächterin-Stufe von Kapitel 8 in der Heldinnenreise?
+- **S8** *Welt/Sensorik* — Die Outline vom 2026-05-18 nennt für Kapitel 17 Licht durch enge Architektur und Wärme durch Betäubung: wessen Spur ist diese Wärme, und wie verträgt sie sich mit der Hitze-Polarität von kaltem Ozon und Junas Wärme?
+- **S9** *Figur* — Wie spricht die Wächterin in Kapitel 17, als Selene, als Beobachter-Blick oder als beginnendes Wir-Geflecht, ohne dass die Stimme gelabelt wird und ohne dass Dissoziation zum Crew-Menü wird?
+- **S10** *Setup/Payoff* — Der erste erzählte Satz im Bericht in Kapitel 17 gehört zur Idee Der korrupte Bericht: wo wird dieser Strang eingelöst, und was muss Kapitel 17 pflanzen, damit die Einlösung trägt?
+- **S11** *Steinbruch* — Kann die ältere Idee zweier widersprüchlicher AEGIS-Direktiven (bewusste Integrität bewahren gegen unvorhersehbare Entropie eliminieren) in Kapitel 17 ein Fund aus Kaels Lektüre werden, ohne die Paradox-Falle von Kapitel 22 vorwegzunehmen?

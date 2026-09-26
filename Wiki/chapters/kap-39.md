@@ -139,3 +139,37 @@ Position: „Vortex 2 | 38–39 | Die Übernahme der Funktion“ ^[kp-plot-konkr
 - **What becomes of AEGIS.** „Kael und dieses Rest-AEGIS erkennen sich gegenseitig an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531] · „vielleicht als eine Art Hausmeister des Kernsystems“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531] (aegis-subplots) · „Beat 3: AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L923] (konsolidiertes Konzept).
 - **The last chapter, or not.** Here the book ends: „Return with Elixir / Kishōtenketsu Ten→Ketsu“ ^[three-mode-architecture-39-chapters-md.md:L344], after one Vortex and with B silent since Kap 36 (the 39-chapter spec); most plans read here follow it with a Kap 40 (`Wiki/overview/plot.md`).
 - **Beat numbering.** „Wir-AEGIS-plural (Vortex 2 Beat 6–10)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1190] (strukturierter Outline) · „Beat 3: AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L447] · „Beat 4: die Stille danach — das Universum hält“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L448] (Konzept-Iteration Genesis).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Return with Elixir / Kishōtenketsu Ten→Ketsu* / *Wir-AEGIS-plural (Vortex 2 Beat 6–10)*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 39, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 39 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 39 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 39 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 39, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 39 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 40?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 39 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 39 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 39
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Wie wird der Schreib-Moment in Kapitel 39 inszeniert, wenn Kael von Hand, gegen AEGIS' Log-Format, den letzten Bericht schreibt, der das Buch ist – womit, wo, und was gibt er mit dem Schreiben auf?
+- **S2** *Struktur* — Wie schließt Kapitel 39 die innere Ouroboros-Klammer zu Kapitel 1, wenn Kaels letzter geschriebener Satz der gelockte Erstsatz *Das Licht ist schon da, als ich erwache* ist, und wie trägt das Wort *da* beide Lesarten?
+- **S3** *Kausalität* — Wie folgt die Verwandlung des Wir-Geflechts in Wir-AEGIS-plural in Kapitel 39 aus der Entscheidung zum Ouroboros am Ende von Kapitel 38, und was daran ist irreversibel?
+- **S4** *Storyform* — Wie werden in Kapitel 39 A-Cost, der Verlust der Privatheit des Wir, und B-Dividend, Funktion bleibt durch plurale Übernahme, als konkrete Ereignisse manifest statt nur behauptet?
+- **S5** *Konflikt* — Wird in Kapitel 39 ein vierter Genesis-Beat, Wir gleich AEGIS-plural, vollzogen, wie konsolidiertes Konzept und Doppel-Klammer Abhandlung sagen, oder hat die Genesis nach Charakter-Bibel und Master-Report nur drei Beats, und was trägt Kapitel 39 dann?
+- **S6** *Konflikt* — Erlischt AEGIS-monolithisch erst in Kapitel 39, wo AEGIS-plural entsteht, oder schon in Kapitel 36, sodass Kapitel 39 nur noch das Entstehen der pluralen Form zeigt?
+- **S7** *Leser-Wissen* — Was erkennt der Leser in Kapitel 39, wenn klar wird, dass Kael und AEGIS ontologisch dasselbe sind, und wie bleibt das Ende ambivalent, ohne Erzähler-Kommentar, der die Auflösung vorgibt?
+- **S8** *Setup/Payoff* — Wie wird in Kapitel 39 der Telefon-Stille-Anker eingelöst, wo wurde er gepflanzt (die Plot-Konkretisierung nennt Kapitel 7 und 24), und was sagt die Einlösung über Juna, ohne sie zum Subjekt zu machen?
+- **S9** *Lücke* — Welchen Namen findet der Roman in Kapitel 39 für die finale Form, die Konzept-Iteration Genesis und Outline vom 2026-05-18 nur als Arbeitsbegriff Wir-AEGIS-plural führen?
+- **S10** *Welt/Sensorik* — Wie zeigt Kapitel 39 alle Welten gleichzeitig, wie Kernwelten vollständig sagt, ohne die Regel eine Kernwelt pro Beat zu brechen, und wie klingen Schmerz und Liebe als derselbe Pulsschlag?
+- **S11** *Impact* — Wenn Kapitel 39 das letzte Kapitel ist, wie in der 39-Kapitel-Spec ohne Kapitel 40, was muss Kapitel 39 an Ketsu, Formel-Inversion und Zyklus-Andeutung selbst tragen, das sonst die Coda trägt?
+- **S12** *Steinbruch* — Könnte das Bild der AEGIS-Subplots von 2025, in dem Kael und ein Rest-AEGIS sich gegenseitig anerkennen und Kael Wächter am Tor wird, Kapitel 39 eine konkrete Geste geben, ohne der Verwandlung in Wir-AEGIS-plural zu widersprechen?

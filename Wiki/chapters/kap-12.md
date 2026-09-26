@@ -111,3 +111,36 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 
 - **AEGIS' scan.** „B: OS-Physics latent — AEGIS scannt diesen Zustand, klassifiziert ihn als anomale Kohärenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552] (Konzept-Iteration Genesis) · „OS-Physics latent — AEGIS scannt diesen Zustand und kann ihn nicht klassifizieren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L517] (strukturierter Outline).
 - **What the chapter is.** „Riss-Eskalation“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838] · „thermische Risse häufen sich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838] (Kernwelten vollständig) · „Kael erreicht einen Zustand innerer Balance. Stille als positive Substanz, nicht als Leere.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L521] (strukturierter Outline) · „innere Stabilität gefunden; ein gehaltener Moment“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (Kapitel-Kompendium).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die Stille der Mitte* / *Stille der Mitte — Jetzt-Raum*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 12, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 12 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 12 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 12 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 12, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 12 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 13?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 12 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 12 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 12
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tut Kael in Kapitel 12 an einem Tag ohne Zuweisung, wenn laut Plot-Konkretisierung die Warteschlange auf null bleibt und er am leeren Arbeitsplatz atmet – was verliert oder riskiert er dabei?
+- **S2** *Konflikt* — Ist Kapitel 12 ein gehaltener Moment innerer Balance, Stille als Substanz, oder eine Riss-Eskalation, in der sich thermische Risse häufen, wie Kernwelten vollständig sagt?
+- **S3** *Konflikt* — Klassifiziert AEGIS Kaels Zustand in Kapitel 12 als anomale Kohärenz, wie die Konzept-Iteration Genesis sagt, oder scheitert es an der Klassifikation, wie der strukturierte Outline sagt?
+- **S4** *Leser-Wissen* — Woran spürt der Leser in Kapitel 12, dass AEGIS ein Problem hat, wenn die einzige Spur laut Plot-Konkretisierung die Direktive Verweilen zulässig ist – und was weiß Kael davon nicht?
+- **S5** *Storyform* — Wie zeigt Kapitel 12 in Storyform B OS-Physics latent, AEGIS scannt, ohne AEGIS-Innensicht, und wie trägt es in Storyform A den MC-Concern Präsenz als Stabilität?
+- **S6** *Struktur* — Ist Kapitel 12, HR-Erweiterung 3, Innerer Frieden, Jetzt-Raum, eine echte Ruhe oder ein falscher Frieden vor dem Teil-1-Abschluss in Kapitel 13 und dem Bruch in Kapitel 14?
+- **S7** *Welt/Sensorik* — Wie wird die Stille der Mitte in Kapitel 12 durch Atem und Herzschlag als positive Substanz statt als Leere erzählt, unter dem Metaphernverbot von KW1?
+- **S8** *Setup/Payoff* — Welches Genesis-Echo trägt Kapitel 12 – eine Sekunde Vor-Trennungs-Frieden im Wachzustand – und wie verhält es sich zum Echo der Vor-Trennungs-Stille, das zwei Quellen auf Kapitel 13 legen?
+- **S9** *Kausalität* — Ist AEGIS' gescheiterter Scan von Kaels Stille in Kapitel 12 der Anlass, aus dem AEGIS in Kapitel 13 die Phase-2-Stress-Tests vorbereitet?
+- **S10** *Steinbruch* — Kann der Synthesefehler, in dem AEGIS Kael zu debuggen und den alten Konfliktzustand wiederherzustellen versucht, Kapitel 12 eine Gegenkraft geben, ohne die Stille der Mitte zu brechen?
+- **S11** *Impact* — Wenn Kapitel 12 Riss-Eskalation wird statt innerer Balance, was kippt dann in Kapitel 13 und im Bruch des Gleichgewichts in Kapitel 14?

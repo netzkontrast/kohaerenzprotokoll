@@ -139,3 +139,36 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - **What Kael does.** „Kael versucht eine geringfügige Abweichung von seiner Routine oder äußert einen leicht unkonventionellen Gedanken/Wunsch.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29] (aegis-subplots) · „Kap 1: Kael bestätigt, dass die Welt stimmt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L124] (Plot-Konkretisierung) — he deviates, or he confirms.
 - **Storyform B.** „B: OS-Physics als AEGIS-Architektur, Umgebungs-Log“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508] (Konzept-Iteration Genesis) · „A dominant, B latent als Umgebung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L249] (strukturierter Outline) · „KW1 · A:MC-S1 (Memory latent), B:IC-S1 (Kael = unfixbarer Bug)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium) — B as OS environment, latent, or as the IC signpost.
 - **Title.** „Instrumente der Ordnung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L506] (Konzept-Iteration Genesis) · „Erwachen in der Konstrukt-Stadt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L961] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Illusion der perfekten Welt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 1: Illusion der perfekten Welt — Ordnung als Käfig“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L249].
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Instrumente der Ordnung* / *Erwachen in der Konstrukt-Stadt*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 1, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 1 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 1 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 1 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 1, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 1 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 2?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 1 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 1 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 1
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tut Kael in Kapitel 1 an seinem ersten Tag in KW1 konkret – bestätigt er Sequenzen und damit, dass die Welt stimmt, oder versucht er eine kleine Abweichung von seiner Routine –, und was verliert er dabei?
+- **S2** *Konkretheit* — Welche eine konkrete Falschheit trägt Kapitel 1 nach der Prosa-Regel Akt I vom 2026-05-31 – etwa die Abweichung 114 und der Sprung auf 251 –, und an welchem Objekt oder Ort zwischen Wohneinheit und Datenknoten wird sie sichtbar?
+- **S3** *Kausalität* — Wie schließt Kapitel 1 an die Scherben von Kap 0 an, ohne dass die Amnesie je erwähnt wird, und welches beobachtbare Ereignis am Ende von Kapitel 1 kehrt in Kap 2 als erster Riss wieder?
+- **S4** *Leser-Wissen* — Was erkennt der Leser in Kapitel 1 wieder – die sterile Stadt als Innere Weite aus Kap 0, die Nummer 734 –, was Kael nicht erkennt, und welche plausible falsche Deutung von Kaels Alltag bleibt am Kapitelende stehen?
+- **S5** *Storyform* — Welche Storypoints trägt Kapitel 1 in Storyform B – OS-Physics als AEGIS-Architektur und Umgebungs-Log, B latent als Umgebung oder IC-Signpost 1 mit Kael als unfixbarem Bug – und wie zeigt sich B ohne AEGIS-Stimme?
+- **S6** *Struktur* — Wie erfüllt Kapitel 1 die Murdock-Stufe 1, Illusion der perfekten Welt, und zugleich die Ouroboros-Klammer Kap 1 ↔ Kap 39 – was muss der gelockte Erstsatz leisten, damit er in Kap 39 als letzter Satz, den Kael schreibt, doppelt lesbar wird?
+- **S7** *Konflikt* — Wo lebt Kael in Kapitel 1 – als Komp 734 in Wohneinheit 14 in Sektor 7 laut Outline vom 2026-05-18, oder in Wohneinheit 734 in Sektor 04 laut Kompendium –, und trägt die Zahl 734 damit schon hier Bedeutung?
+- **S8** *Konflikt* — Bleibt Kapitel 1 somatisch spurlos, wie der Kap-0-Lock sagt, oder bluten Kaels Knöchel beim Erwachen ohne Grund, wie Charakter-Bibel und Konzept-Synopse das Eröffnungsbild zeichnen – und was verliert der Leser mit jeder Wahl?
+- **S9** *Welt/Sensorik* — Wie wird das kalte, scharfe, elektrische Ozon in Kapitel 1 dosiert – nur in Szene 3 als Schicht-2-Beat beim 80/20-Anteil –, und wie bleiben quellenloses Licht, einundzwanzig Grad und Atem Bild statt Landauer-Theorie?
+- **S10** *Setup/Payoff* — Welche Saaten pflanzt Kapitel 1 unbetont – den abgebrochenen Silas-Halbsatz im Lüftungsrauschen, das Wort Juna ohne Referent, die Konsolen-Zeile zur Einheit 734 –, und in welchen Kapiteln werden sie eingelöst?
+- **S11** *Impact* — Wenn der Autor die Locks von Kapitel 1 vom 2026-05-30 ändert – Erstsatz, 80/20, keine AEGIS-Stimme, kaltes Ozon –, welche späteren Kapitel kippen, insbesondere Kap 39 als Echo des Erstsatzes und das Hard-B-Kapitel in Kap 5–8?

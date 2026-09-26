@@ -119,3 +119,36 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - **The number 734.** „Die Zahl 734 taucht erstmals als Foreshadowing auf.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] (strukturierter Outline, Kap 2) · „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline, its Kap 1) · „Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium, its Kap 1) — first here, or already named in Kap 1; the strukturierter Outline says both.
 - **First style shift.** „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium, Kap 2) · „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834] (Kernwelten vollständig, its Kap 8).
 - **Title.** „Geometrie der Isolation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L510] (Konzept-Iteration Genesis) · „Der erste Riss“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L963] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Verrat / Desillusionierung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 2: Verrat / Desillusionierung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L273].
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Geometrie der Isolation* / *Verrat / Desillusionierung — der erste Riss*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 2, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 2 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 2 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 2 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 2, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 2 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 3?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 2 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 2 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 2
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Welches konkrete Ereignis ist der erste Riss in Kapitel 2 – Zeitverlust, Blackout, eine fremde Erinnerung, eine geometrische Inkonsistenz im Sektor 04 oder die zurückkehrende Abweichung hinter dem Komma –, und was tut Kael daraufhin?
+- **S2** *Kausalität* — Welcher Faden aus Kapitel 1 kehrt in Kapitel 2 zurück, und welches beobachtbare Ereignis am Ende von Kapitel 2 – etwa der Wert im Entwurfsordner in fremder Syntax – treibt Kael in den Bunker-Bau von Kap 3?
+- **S3** *Kausalität* — Was ist nach dem ersten Riss in Kapitel 2 irreversibel, und vor welchen zwei schlechten Optionen steht Kael, wenn er die zweite Markierung der Abweichung melden oder verschweigen kann?
+- **S4** *Leser-Wissen* — Was glaubt Kael am Ende von Kapitel 2 über den Glitch und die fremde Syntax in seinen Notizen, was weiß der Leser aus Kap 0, und verbucht AEGIS die Abweichung nur als nicht-kritisches Rauschen, Syntax ohne Semantik?
+- **S5** *Storyform* — Wie trägt Kapitel 2 in A das MC-Issue Falsehood vs. Truth als erste Begegnung mit der Systemlüge und in B das initialisierte Controlled Fragmentation Protocol als OS-Physics – in einer Szene oder getrennt, bei etwa 10 % Bridge in Akt I?
+- **S6** *Struktur* — Wie setzt Kapitel 2 die Murdock-Stufe 2, Verrat und Desillusionierung, als ersten Riss in KW1 um, und wie unterscheidet sich sein Tempo von der Illusion in Kap 1 und dem Bunker-Bau in Kap 3?
+- **S7** *Konflikt* — Wird der erste Riss in Kapitel 2 als Landauer-Hitze mit Ozon geschrieben, wie das Kapitel-Kompendium sagt, oder als kaltes Ozon, wie die Storyform-Outline vom 2026-06-10 – und wie bleibt dabei die Theorie Bild statt Begriff?
+- **S8** *Figur* — Wie bricht Lex in Kapitel 2 zum ersten Mal in Kaels Stimme ein – andere Syntax, andere Logik –, ohne dass die Stimme gelabelt wird oder der Multiplizitäts-Schleier vor Kap 13 reißt?
+- **S9** *Setup/Payoff* — Erscheint die Zahl 734 in Kapitel 2 zum ersten Mal als Foreshadowing, oder ist sie schon in Kap 1 als Wohneinheit oder Kennung benannt – und welche Funktion hat sie dann in Kapitel 2?
+- **S10** *Konflikt* — Setzt die erste leise Stilcode-Verschiebung anderer Alters in Kapitel 2 ein, wie das Kapitel-Kompendium sagt, oder erst in Kap 8, wie Kernwelten vollständig – und was bedeutet das für die Dosierung bis Kap 6?
+- **S11** *Steinbruch* — Kann das ältere Subplot-Motiv *Das Diagnoseprotokoll* aus den AEGIS-Subplots von 2025 in Kapitel 2 eine Lücke füllen, ohne den Hard-A-Lock für Akt I und die Regel keiner AEGIS-Innensicht außerhalb des Hard-B-Kapitels zu brechen?

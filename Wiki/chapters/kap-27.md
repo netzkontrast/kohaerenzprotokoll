@@ -98,3 +98,35 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 
 - **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung).
 - **Title.** „Autoren-Feder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L610] (Konzept-Iteration Genesis) · „Ordinary World: Entschlossenheit“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L879] (strukturierter Outline); the second opens with the Genesis document's stage name, „Modus-Wechsel zu HR außen, HR-Stufe 1: Ordinary World“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L610] (Konzept-Iteration Genesis).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Autoren-Feder* / *Ordinary World — Entschlossenheit*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 27, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 27 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 27 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 27 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 27, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 27 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 28?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 27 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 27 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 27
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was schreibt Kael in Kapitel 27, wenn er laut Plot-Konkretisierung seinen ersten Bericht verfasst, den niemand angefordert hat: an wen, in welcher Form, und was riskiert er an diesem Tag damit?
+- **S2** *Lücke* — Was ist die Autoren-Feder in Kapitel 27 konkret: ein Objekt, eine Schreibhandlung oder ein Prosa-Modus, und wie wird aus dem Leitmotiv eine wiederholbare Handlung Kaels statt eines Bildes?
+- **S3** *Kausalität* — Wie greift Kapitel 27 Kaels Schritt über die Schwelle aus Kapitel 26 auf, und welches Ereignis am Ende von Kapitel 27 löst die Eskalation und Purge-Drohung von Kapitel 28 aus?
+- **S4** *Leser-Wissen* — Was bemerkt AEGIS in Kapitel 27, wenn es laut mehreren Outlines Kaels neue Linearität spürt, laut Plot-Konkretisierung als Format-Anomalie, und was weiß der Leser darüber, das Kael nicht weiß?
+- **S5** *Storyform* — Welche Storypoints trägt Kapitel 27 in A, MC-Concern und Agency mit Absicht, und in B, wo AEGIS die Linearität spürt und die Architektur laut der Outline vom 2026-05-18 sichtbar degradiert, und welche Bridge-Quote gilt am Beginn von Akt III-A?
+- **S6** *Struktur* — Wie funktioniert Kapitel 27 als Ordinary World, Stufe 1 der Heldenreise außen, wenn Kaels gewohnte Welt nach 26 Kapiteln schon zerbrochen ist: was ist seine neue gewöhnliche Welt, und wie macht der Modus-Wechsel 26/27 sie lesbar?
+- **S7** *Konflikt* — Gehört Kapitel 27 noch zum Ende von Akt II, wie Kernwelten vollständig es einordnet, oder eröffnet es Akt III Phase A, wie die übrigen Outlines sagen, und was ändert das an Tempo und Bridge-Quote?
+- **S8** *Welt/Sensorik* — In welcher Kernwelt spielt Kapitel 27, laut Kernwelten vollständig an der Schwelle von KW3 zu KW4 mit dem Dasein-Strang, und wie werden die klaren Linien sinnlich gegen kaltes Ozon als Zeichen von AEGIS gesetzt?
+- **S9** *Figur* — Wie erscheint das Wir-Geflecht in Kapitel 27, laut der Outline vom 2026-05-18 alle Alters in funktionaler Multiplizität, ohne dass Stimmen gelabelt werden oder ein Crew-Menü entsteht, und wie klingt AEGIS countdown-bewusst?
+- **S10** *Steinbruch* — Kann der Rote Alarm aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in dem Umgebungskontrollen feindselig werden und Guardians Kael aktiv jagen, Kapitel 27 füllen, obwohl AEGIS nach GOAL §5.4 verwaltet statt bedroht?

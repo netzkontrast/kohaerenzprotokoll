@@ -134,3 +134,37 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 - **World.** „Tanz im Garten (neue innere Welt) · KW1→Übergang“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (Kapitel-Kompendium) · „KW1→Übergang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „KW3 Evaluierungseinheit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] (Kernwelten vollständig). · „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-konzept-master-md.md:L658], KW1 to its end (master report).
 - **What happens.** „Innere Praxis etabliert; Teil-1-Abschluss.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „Möglichkeits-Garten (KW4-Vorgriff) als innere Praxis.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L545] (strukturierter Outline) · „Messer im Bewusstsein / Schleier-Fall“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] · „wo Personae kollabieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] (Kernwelten vollständig).
 - **Genesis echo.** The echo two documents set on Kap 13 carries the name each gives Kap 12's stage: „Kap 13: die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L842] · „Stille der Mitte — Jetzt-Raum (innere Stabilität gefunden)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L830] (konsolidiertes Konzept); „die Stille der Mitte = Echo der Vor-Trennungs-Stille der Reinform“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] · „Stille der Mitte (Jetzt-Raum) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (Kapitel-Kompendium).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Tanz im Garten — neue innere Welt*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 13, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 13 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 13 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 13 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 13, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 13 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 14?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 13 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 13 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 13
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was ist die kleinste mögliche Schöpfung in Kapitel 13 – laut Plot-Konkretisierung dreht Kael die Konsole um drei Grad und die Welt lässt es zu – und was riskiert er damit?
+- **S2** *Konflikt* — Wo spielt Kapitel 13: in KW1 bis zum Ende von Akt I, im Übergang aus KW1, oder in der Evaluierungseinheit der KW3, wo Personae kollabieren?
+- **S3** *Konflikt* — Was geschieht in Kapitel 13: Tanz im Garten und etablierte innere Praxis, der Möglichkeits-Garten als KW4-Vorgriff, oder ein Messer im Bewusstsein und der Schleier-Fall?
+- **S4** *Leser-Wissen* — Fällt der Multiplizitäts-Schleier in Kapitel 13 intern, sodass Kael das System sieht, und was darf ab hier offen benannt werden, das Wort Alters, eine Diagnose, und was bleibt dem Leser verborgen?
+- **S5** *Struktur* — Wie schließt Kapitel 13 als Murdock-Stufe 13, Neue innere Welt, Teil 1 ab und bereitet den Moduswechsel linear zu zyklisch 13/14 vor, ohne einen Storyform-Wechsel zu behaupten?
+- **S6** *Storyform* — Welcher Storypoint in Storyform B wird in Kapitel 13 aktiviert – OS-Physics, AEGIS bereitet Phase-2-Stress-Tests vor, Forewarning B – und welchen trägt Storyform A mit MC-Concern Praxis?
+- **S7** *Kausalität* — Welcher Hook-out aus Kapitel 13 führt zum Stress-Test Delta-7 und zur ersten Erasure-Welle in Kapitel 14, und was ist am Ende von Teil 1 irreversibel?
+- **S8** *Setup/Payoff* — Wie setzt Kapitel 13 das Genesis-Echo der Vor-Trennungs-Stille der Reinform, wenn der Name Stille der Mitte, den zwei Quellen dafür nennen, bei ihnen der Titel von Kapitel 12 ist?
+- **S9** *Setup/Payoff* — Kehrt in Kapitel 13 der Riss aus Kapitel 4 wieder, wenn der Konzept-Master Kaels Beobachten in Kap 4 und 13 die Simulation kollabieren lässt, mit Gödel-Knoten als Avataren des Mess-Problems?
+- **S10** *Welt/Sensorik* — Wie werden Garten, Pflege, lebendige Ordnung in Kapitel 13 sinnlich, ohne den Möglichkeits-Garten von KW4 vorwegzunehmen, und welche Temperatur hat dieser Ort nach der Hitze-Polarität?
+- **S11** *Steinbruch* — Kann das ältere Motiv, dass Kael in Kapitel 13 eine wachsamere Haltung des Systems bemerkt, weil AEGIS alte prädiktive Modelle als veraltet markiert, den Wendepunkt tragen, ohne AEGIS-Innensicht zu brauchen?
+- **S12** *Impact* — Wenn die Grenze für DKT-Terminologie bei Kapitel 13 statt bei den ersten 50 Seiten liegt, was ändert das für Kapitel 13 und die Kapitel davor?

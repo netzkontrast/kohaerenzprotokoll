@@ -117,3 +117,36 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Title.** „Das Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis) · „Approach Inmost Cave“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1025] (konsolidiertes Konzept) · „Approach Inmost Cave: Vordringen zu AEGIS' Kern“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1023] (strukturierter Outline). The konsolidiertes Konzept's title is the stage the Konzept-Iteration Genesis names for the chapter, „HR-Stufe 7: Approach Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis), and the konsolidiertes Konzept also writes „Kap 33 (Das Fundament) — direkte Berührung der K1-Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1095] (konsolidiertes Konzept).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Das Fundament* / *Approach Inmost Cave — Vordringen zu AEGIS' Kern*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 33, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 33 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 33 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 33 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 33, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 33 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 34?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 33 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 33 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 33
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was ist das Original-Dokument, die erste Zuweisung des Universums, das Kael laut Plot-Konkretisierung in Kapitel 33 an der Wurzel der Schlange findet, und was tut er damit: lesen, berühren, bearbeiten oder liegen lassen?
+- **S2** *Kausalität* — Wie führt das Erkennen der eigenen Fehler im Wahrheits-Test von Kapitel 32 Kael zur K₁-Reinform in Kapitel 33, und was von dieser Berührung nimmt er als Waffe oder Last in das Duell Wir gegen Makro-Log in Kapitel 34 mit?
+- **S3** *Leser-Wissen* — Was begreift der Leser in Kapitel 33, wenn Kael berührt, was AEGIS in der Genesis als Bedrohung erlebte, was Kael davon nicht einordnen kann, und welche falsche Deutung der Berührung bleibt bis zur Truth-Rotation im Vortex stehen?
+- **S4** *Storyform* — Laut Konzept-Master-Report erreicht Kael in Kapitel 33 Funktionale Multiplizität, nicht Final Fusion; welcher Storypoint in A (MC-Concern nahe an der Quelle) zeigt das, und was trägt B mit parakonsistenter Logik und Gödel-Sätzen?
+- **S5** *Struktur* — Wie bereitet Kapitel 33 als Heldenreise-Stufe Approach the Inmost Cave den Vortex vor, ohne den Integrationsmoment vorwegzunehmen, wenn der Master-Report den Vortex nur als Folge der Integration auf AEGIS liest?
+- **S6** *Konflikt* — Erscheint Juna in Kapitel 33 im Garten der stillen Präsenz als spürbare Präsenz, wie die Charakter-Bibel vom 2026-05-08 sagt, oder nur als Wirkung, damit ihre erste direkte Erscheinung in Kapitel 38 nicht vorweggenommen wird?
+- **S7** *Setup/Payoff* — Der Datensatz ohne Datentyp liegt laut Plot-Konkretisierung in Kapitel 33 unangetastet seit Kapitel 18 neben dem Original; wie wird er hier gezeigt, und in welchem späteren Kapitel wird er eingelöst?
+- **S8** *Welt/Sensorik* — Braucht Kapitel 33 zwei Orte, die Verschränkungs-Insel der Überwelt und den Garten der stillen Präsenz, und wie hält es dabei eine Kernwelt pro Beat und eine Schicht pro Szene bei dunkler Tiefe und Vibrieren des Fundaments ein?
+- **S9** *Lücke* — Welche sichtbare Form hat die K₁-Reinform in Kapitel 33 – Kernwelten vollständig fragt selbst, ob sie eine Visualisierung der Persistenzgleichung ist –, und wie erscheint sie als Bild statt als Theorie?
+- **S10** *Figur* — Wie arbeiten in Kapitel 33 alle dreizehn Alters kooperativ, wie der Outline vom 2026-05-18 sagt, ohne dass Stimmen gelabelt werden oder die Szene zur Aufzählung wird, und welcher Alter trägt die Berührung?
+- **S11** *Steinbruch* — Könnte die Realitätsbelagerung der AEGIS-Subplots von 2025 – eine wechselnde Alptraumlandschaft, ausgelöste Traumata, drohende erneute Fragmentierung – Kapitel 33 eine Gegenkraft geben, ohne der erreichten Funktionalen Multiplizität zu widersprechen?

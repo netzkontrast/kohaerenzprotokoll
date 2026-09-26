@@ -110,3 +110,37 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Title.** „Telefon-Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598] (Konzept-Iteration Genesis) · „wiederkehrendes K-J-Thema“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L217] (Kapitel-Kompendium); the Kompendium's title is the Genesis document's stage name, „Wiederkehrendes K-J-Thema“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598] (Konzept-Iteration Genesis), and the strukturierter Outline joins the two: „Telefon-Stille (K-J-Thema wiederkehrend)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L803] (strukturierter Outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Wiederkehrendes K-J-Thema* / *Telefon-Stille (K-J-Thema wiederkehrend)*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 24, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 24 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 24 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 24 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 24, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 24 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 25?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 24 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 24 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 24
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Mit welcher wiederholbaren Handlung und an welchem Objekt sucht Kael in Kapitel 24 die Verbindung zu Juna aktiv, wenn AEGIS die Telefon-Stille zyklisch stört, und wie wird diese Handlung von Störung zu Störung geschickter?
+- **S2** *Kausalität* — Wie führt die Selbst-Schöpfung aus Kapitel 23, Mosaik-Herz und eigener Bestand, in Kapitel 24 zur Telefon-Stille, und welches beobachtbare Ereignis am Ende von Kapitel 24 stellt Kael an die Wegkreuzung von Kapitel 25?
+- **S3** *Kausalität* — Welche zwei genuinen Zukunftsverluste stehen in Kapitel 24 vor Kael, wenn AEGIS laut der Outline vom 2026-05-18 den Kanal zu Juna als feindlich erkennt, und was davon ist nach dem Kapitel nicht mehr umkehrbar?
+- **S4** *Leser-Wissen* — Was wissen Leser, Kael und AEGIS am Ende von Kapitel 24 über die Telefon-Stille und Juna, was glaubt jeder fälschlich, und welche falsche, plausible Deutung des Witness-Modus bleibt für den Leser stehen?
+- **S5** *Storyform* — Welche Storypoints trägt Kapitel 24 in Storyform A, wo mehrere Outlines RS-Physics dominant setzen, und in B mit OS-Psychology und komplexer Host-System-Verstrickung, und ist das Kapitel nach Slot 16 Hard-A, Hard-B oder Bridge?
+- **S6** *Struktur* — Wo steht Kapitel 24 im zyklischen Modus, wenn das konsolidierte Konzept Z3 auf Kapitel 21 bis 23 legt: ist das wiederkehrende K-J-Thema ein weiterer Zyklus, eine Coda der Spirale oder Vorbereitung des Wendepunkts 25–26?
+- **S7** *Welt/Sensorik* — Wie wird die Telefon-Stille in Kapitel 24 als hörbare Substanz in KW3, laut Kernwelten vollständig den Gängen der Paranoia, sinnlich gebaut, und trägt sie Wärme als Junas Spur oder kaltes Ozon als AEGIS-Störung?
+- **S8** *Figur* — Wie erscheint Juna in Kapitel 24 im Witness-Modus, ohne grammatisches Subjekt oder physisch beschrieben zu sein, und welche Rolle spielt Silas als Resonanzkörper, den die Outline vom 2026-05-18 dort nennt?
+- **S9** *Setup/Payoff* — Wo wird das Gegenregister gepflanzt, das Kael laut Plot-Konkretisierung vom 2026-06-10 in Kapitel 24 auf die inneren Stimmen verteilt, und wo zahlt sich diese erste plurale Bewahrung bis zur Wir-AEGIS-plural aus?
+- **S10** *Lücke* — Was genau soll in Kapitel 24 verdichtet werden, wenn die Storyform-Outline vom 2026-06-10 das Kapitel als zu verdichten nennt, und welche konkrete Handlung fehlt dem K-J-Thema neben dem Leitmotiv Telefon-Stille?
+- **S11** *Steinbruch* — Kann der Empathie-Test aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in dem Kael eine subjektive Reaktion von AEGIS zu provozieren versucht, Kapitel 24 füllen, ohne AEGIS moralisches Vokabular oder Bedrohlichkeit zu geben?
+- **S12** *Impact* — Wenn der Autor die Verbindung zu Juna schon in Kapitel 24 als aktiv nutzbaren Kanal etabliert, was kippt in Kapitel 30, das mehrere Outlines als Kulmination des stabilen, bewussten Kanals setzen?

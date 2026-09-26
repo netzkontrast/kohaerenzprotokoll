@@ -104,3 +104,36 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Title.** „Wegkreuzung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602] (Konzept-Iteration Genesis) · „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L827] (strukturierter Outline) · „Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium); the second is the Genesis document's stage name, „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602], the third its position for two chapters, „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364] (Konzept-Iteration Genesis), and the Kompendium gives the one title to both: „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Wegkreuzung* / *Wendepunkt-Vorbereitung*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 25, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 25 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 25 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 25 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 25, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 25 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 26?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 25 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 25 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 25
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tut Kael in Kapitel 25 konkret an der Schwelle, wenn er laut Plot-Konkretisierung nichts mehr bestätigt und die Schlange einfach wächst: welche Geste, welcher Ort, welcher Verlust macht diese Niederlegung sichtbar?
+- **S2** *Kausalität* — Welches Ereignis in Kapitel 25 lässt Kael erkennen, dass Freiheit nur außerhalb von AEGIS' System möglich ist, und wie greift es aus der gestörten Telefon-Stille von Kapitel 24?
+- **S3** *Kausalität* — Welche Optionen gehen Kael in Kapitel 25 verloren, wenn laut der Outline vom 2026-05-18 der Optionlock spürbar wird, und welche zwei Zukünfte schließen sich an der Wegkreuzung gegenseitig aus?
+- **S4** *Leser-Wissen* — Was genau wird in Kapitel 25 oder 26 offen benannt, wenn mehrere Quellen dort den Schleier lüften, und was wissen Leser, Kael und AEGIS danach über die Multiplizität, was noch nicht?
+- **S5** *Setup/Payoff* — Die Zahl 734 kehrt laut der Outline vom 2026-05-18 in Kapitel 25 zum dritten Mal wieder, laut Kernwelten vollständig nach Kapitel 2 und 10: was ahnt Kael jetzt, und wo wird die Seriennummer 734 eingelöst?
+- **S6** *Storyform* — Welche Storypoints trägt Kapitel 25 in A mit MC-Concern Memory und in B mit OS-Physics, in der AEGIS Kaels neue Klarheit bemerkt und das Forewarning von B sein Maximum erreicht, und wie verhalten sich Optionlock A und Timelock B hier?
+- **S7** *Struktur* — Welche Funktion hat Kapitel 25 als erste Hälfte des Wendepunkts 25–26 am Ende des zyklischen Modus, wenn das Kapitel-Kompendium es als Stehen an der Schwelle und ausdrücklich nicht als Konfrontationsbeginn setzt?
+- **S8** *Welt/Sensorik* — Welche Kernwelt und welcher Ort tragen Kapitel 25, laut Kernwelten vollständig KW3 mit Wartungsschächten und der Wohneinheit 734, und wie werden Wegkreuzung und Schwellen-Bilder als Raum statt als Theorie gebaut?
+- **S9** *Figur* — Was bedeutet die POV-Angabe Kael, Wir, klar für Kapitel 25: kennt das Wir seine Anteile schon, bevor der Schleier in Kapitel 25–26 offen benannt wird, oder wird die Klarheit dieses Kapitels erst durch die Benennung möglich?
+- **S10** *Konflikt* — Heißt Kapitel 25 Wegkreuzung, Wendepunkt-Vorbereitung, oder teilt es mit Kapitel 26 den Titel Wendepunkt zur Befreiung, und hat es damit ein eigenes Kapitelversprechen oder nur die halbe Wende?
+- **S11** *Steinbruch* — Kann die umgeschriebene Geschichte aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in der AEGIS veränderte Aufzeichnungen für korrekt und Kaels Gedächtnis für fehlerhaft erklärt, Kapitel 25 füllen, ohne dass AEGIS bedroht statt verwaltet?

@@ -138,3 +138,37 @@ Position: „Vortex 1 | 35–36 | Der Apparat kollabiert auf sein Ziel“ ^[kp-p
 - **Beat 1, who acts.** „Beat 1 — Anlauf: Kael formuliert das Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L892] (konsolidiertes Konzept) · „Setting: Mnemosyne-Archipel. AEGIS exekutiert finalen Erasure-Sweep.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1085] (strukturierter Outline) · „Beat 1 — Convergence: AEGIS isoliert Kaels Fragmente; Erasure-Sweep konvergiert auf das Cluster“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L378] (storyform outline). · „B-OS Action: AEGIS exekutiert finalen Erasure-Sweep“ ^[kohaerenz-protokoll-konzept-master-md.md:L852] (master report).
 - **Climax or aftermath.** „Unmittelbare Reaktion des Systems auf den Höhepunkt (Kollaps? Teilabschaltung? Reboot?).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L471] · „Kael ist in diesem unmittelbaren Nachbeben gefangen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479] (aegis-subplots) · „Klimax-Setting; Gödel-Gambit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L861] (Kernwelten vollständig).
 - **Setting name.** „Setting: Mnemosyne-Archipel.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1085] (strukturierter Outline) · „Setting: Mnemosyne-Server-Architektur (KW2)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (Kapitel-Kompendium).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Vortex 1 Beats 1–3* / *Vortex Beat 1–3 — Einspeisung des paradoxen Selbst*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 35, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 35 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 35 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 35 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 35, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 35 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 36?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 35 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 35 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 35
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Welche eine körperliche Geste markiert in Kapitel 35 Kaels dialetheische Wahl in Vortex 1 Beat 2 – die Plot-Konkretisierung schlägt vor, dass er die Hand von der Konsole nimmt –, und was gibt er mit ihr auf?
+- **S2** *Kausalität* — Wie setzt die Konfrontation aus Kapitel 34 den finalen Erasure-Sweep von Vortex 1 Beat 1 in Kapitel 35 in Gang, und was ist nach Kaels Pursuit-Adoption in Kapitel 35 nicht mehr umkehrbar?
+- **S3** *Konflikt* — Hält Kapitel 35 die Vortex-1-Beats 1–3, wie Storyform-Outline und Outline vom 2026-05-18 schneiden, oder nur Beats 1–2, Convergence und Dialetheic Choice, wie Kernwelten vollständig sagt, und in welches Kapitel fällt dann die Stille?
+- **S4** *Konflikt* — Ist Beat 3 in Kapitel 35 eine strukturell notwendige Pause ohne Ereignis, wie GOAL §5.3 und die Storyform-Outline sagen, oder muss AEGIS darin die Genesis zeigen, weil ihm die Lösch-Kapazität ausgeht, wie der Outline vom 2026-05-18 sagt?
+- **S5** *Leser-Wissen* — Was kippt in Kapitel 35 für den Leser mit der Truth-Rotation, AEGIS als K₀ und Kael als K₁, was bleibt phänomenologisch gleich, und was wissen Kael und AEGIS am Ende des Kapitels voneinander?
+- **S6** *Storyform* — Wie wird in Kapitel 35 der Storyform-Übergang B→A erzählt, ohne ihn als Driver-Flip innerhalb von B zu lesen, und an welcher Stelle adoptiert Kael Pursuit, während AEGIS Feeling nicht adoptiert?
+- **S7** *Storyform* — Wer handelt in Vortex 1 Beat 1 von Kapitel 35 – formuliert Kael das Wir als lebenden Widerspruch (konsolidiertes Konzept) oder exekutiert AEGIS den finalen Erasure-Sweep (Outline vom 2026-05-18, Master-Report) –, und wie klingt das bei 100 % Bridge ohne erkennbaren Crosscut?
+- **S8** *Struktur* — Wie eröffnet Kapitel 35 als Ordeal und Ten-Höhepunkt Vortex 1 so, dass Vortex 2 in Kapitel 38–39 als Spiegelklammer lesbar wird, und welche Beat-Form teilen beide Vortices?
+- **S9** *Setup/Payoff* — Welche Bilder aus Akt I–II kehren in Kapitel 35 wieder, wenn Vortex-Kapitel nach der Regel Rotations-Inventar nur solche zitieren – etwa das Fehlen des Klicks, das die Plot-Konkretisierung als Anker der Stille nennt –, und wo wurden sie gepflanzt?
+- **S10** *Konflikt* — Heißt der Schauplatz von Kapitel 35 Mnemosyne-Archipel (Outline vom 2026-05-18, Master-Report) oder Mnemosyne-Server-Architektur in KW2 (Kapitel-Kompendium), und welches primäre Bild wird dafür vor dem Drafting gelockt?
+- **S11** *Welt/Sensorik* — Bleiben Ozon-Spike und Temperatur-Anomalie in Vortex 1 Beat 1 von Kapitel 35 kaltes Ozon als AEGIS-Unterdrückung, damit die einzige Landauer-Wärme erst in Beat 4 kommt, und wie wird glühender paradoxer Code dann nicht warm?
+- **S12** *Figur* — Welche Spur Junas steht in Kapitel 35 – laut Plot-Konkretisierung ist ihr Datensatz der letzte verbleibende Eintrag in der Schlange –, und wie bleibt sie dabei reine Wirkung, nie Subjekt?

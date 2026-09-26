@@ -101,3 +101,37 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - **Genesis flashback.** „KW2 / Genesis-Flashback“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Flashbacks beginnen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] (Kernwelten vollständig) · „Kap 18, 21, 22 als Flashback-Träger gesetzt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371] (strukturierter Outline) · „Beginn Genesis-Flashback-Cluster (Kap 18–22)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343] (storyform outline). (C12)
 - **First conscious Pursuit.** „Erste bewusste Pursuit-Bewegung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1000] (konsolidiertes Konzept) · „MC-Solution Pursuit — erste bewusste Bewegung, aktiv neue Wege suchen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L713] (strukturierter Outline), which says the same of Kap 17: „Erste bewusste Pursuit-Bewegung. Driver-Anker A: Decision, aktiv hinschauen statt wegsehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline).
 - **Title.** „Lyons-Welt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L582] (Konzept-Iteration Genesis) · „Z2-Korrektur: Lyons-Kreativität“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L707] (strukturierter Outline; „Z2-Lyons-Kreativität“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L999] konsolidiertes Konzept, so too storyform outline). The first is a place in the strukturierter Outline: „Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff) um AEGIS' Interventionen kreativ zu umgehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] (strukturierter Outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Lyons-Welt* / *Z2-Lyons-Kreativität*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 20, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 20 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 20 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 20 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 20, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 20 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 21?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 20 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 20 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 20
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Laut Plot-Konkretisierung begeht Kael in Kapitel 20 die erste Fälschung, er kopiert einen Selbst-Bestand, bevor er ihn bestätigt: was genau kopiert er, wohin, und was riskiert er bei Entdeckung?
+- **S2** *Konkretheit* — Welche Regel der Lyons-Welt biegt Kael in Kapitel 20, um AEGIS' neue Regeln aus Kapitel 19 zu umgehen, und wie sieht fluide Regelnutzung als Handlung an seinem Arbeitsplatz aus?
+- **S3** *Kausalität* — Was wird in Kapitel 20 irreversibel, wenn der Klick zum ersten Mal anders klingt, und welches Ereignis am Kapitelende öffnet Zyklus Z3 mit der Probe der Simulationsgrenzen in Kapitel 21?
+- **S4** *Leser-Wissen* — Was weiß AEGIS am Ende von Kapitel 20 von Kaels erster Fälschung, was glaubt Kael fälschlich über ihre Unsichtbarkeit, und welche falsche, plausible Deutung behält der Leser?
+- **S5** *Storyform* — Ist Kapitel 20 in Storyform A der Ort der ersten bewussten Pursuit-Bewegung oder ihre Wiederholung nach Kapitel 17, und warum bleibt Storyform B hier latent, obwohl AEGIS gerade interveniert hat?
+- **S6** *Struktur* — Kapitel 20 schließt Zyklus Z2 als Korrektur: wie fällt sie stärker aus als die Wächterin-Korrektur in Kapitel 17 und schwächer als die Mosaik-Schöpfung in Kapitel 23, damit die Spirale eskaliert?
+- **S7** *Konflikt* — Beginnen die Genesis-Flashbacks in Kapitel 20 als Genesis-Bridge in KW2, wie Kernwelten vollständig sagt, oder trägt Kapitel 20 keinen Flashback, weil die Outline vom 2026-05-18 nur Kap 18, 21 und 22 setzt?
+- **S8** *Welt/Sensorik* — Die Outline vom 2026-05-18 nennt die Lyons-Welt in Kapitel 20 einen KW4-Vorgriff und eine Kernwelt, die mitdenkt: wie wird KW4 angedeutet, ohne die Regel eine Kernwelt pro Beat zu brechen?
+- **S9** *Setup/Payoff* — Nach GOAL §5.5, nur aus Memory, wird das Echo-Lexem tragen in Kapitel 20 als Randnotiz gepflanzt und in Kapitel 40 eingelöst: steht eine solche Randnotiz für Kapitel 20 in einer Quelle, und wie trägt sie beide Lesarten?
+- **S10** *Setup/Payoff* — Die Outline vom 2026-05-18 nennt die Lyons-Welt in Kapitel 20 ein Echo der Schöpferkraft vor der Trennung: worauf in Kapitel 0 verweist das, und wo zahlt es sich in Kapitel 23 oder Kapitel 39 aus?
+- **S11** *Impact* — Wenn der Autor die erste bewusste Pursuit-Bewegung nach Kapitel 17 legt, was kippt dann für Kapitel 20 als Z2-Korrektur und für den Driver-Anker Decision in Storyform A?
+- **S12** *Steinbruch* — Kann die ältere Idee vom Dilemma des Wächters, in der Mnemosyne zwischen Erinnerungsintegrität und AEGIS-Direktive zögert, in Kapitel 20 eine Gegenkraft mit eigenem berechtigtem Ziel liefern, ohne die Guardian-Locks zu brechen?

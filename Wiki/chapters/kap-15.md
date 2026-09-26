@@ -107,3 +107,35 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 ## Where the sources differ
 
 - **Title.** „Schattenwurf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L562] (Konzept-Iteration Genesis) · „Z1-Destabilisierung: Trigger“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L587] (strukturierter Outline; „Z1-Trigger“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L989] in the konsolidiertes Konzept) · „Turing-Mechanik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211] (Kapitel-Kompendium; so too storyform outline). The first is the others' sensory note, „Sensorik: Schattenwurf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990] (konsolidiertes Konzept); the storyform outline keeps the second as „(Zyklus-Funktion: Z1-Trigger)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340] (storyform outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Schattenwurf* / *Z1-Trigger*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 15, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 15 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 15 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 15 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 15, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 15 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 16?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 15 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 15 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 15
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tut Kael in Kapitel 15 konkret, wenn er das Halteproblem-Dossier als Betriebsanleitung seiner Welt liest – wo, mit welchem Objekt, und welches Risiko macht es zum Lektüre-Kapitel statt Essay-Kapitel?
+- **S2** *Konflikt* — Ist Kapitel 15 die Turing-Mechanik, die Stadt als universelle Turingmaschine, oder der Z1-Trigger Schattenwurf, der Trauma-Angst reaktiviert – und wie tragen beide ein Konzept pro Szene?
+- **S3** *Struktur* — Wie eröffnet Kapitel 15 den Zyklus Z1 in Kap 15 bis 17 als Destabilisierung, und wie eskaliert es gegenüber dem Bruch in Kapitel 14?
+- **S4** *Storyform* — Wie zeigt Kapitel 15 in Storyform A das MC-Problem Avoidance reaktiviert, und bleibt Storyform B nach der ersten Erasure-Welle in Kapitel 14 wirklich latent?
+- **S5** *Kausalität* — Welcher Hook führt aus der Theta-9-Lektüre und der Erasure-Welle von Kapitel 14 zum Trigger in Kapitel 15, und welche Folge exportiert Kapitel 15 in die Bunker-Reaktion von Kapitel 16?
+- **S6** *Leser-Wissen* — Was versteht Kael in Kapitel 15 vom Halteproblem, dass das System sich selbst nicht vorhersagen kann, und welche falsche, plausible Deutung über AEGIS bleibt für den Leser stehen?
+- **S7** *Figur* — Wie wird Nyx in Kapitel 15 erstmals deutlich sichtbar, und wie ist Kiko als kindliche Angst-Reaktion im Hintergrund zu hören, ohne dass eine Stimme gelabelt wird?
+- **S8** *Welt/Sensorik* — Wo in KW2 liegt der Trigger in Kapitel 15, am KW2-Rand oder in den inneren Welten, und wie werden Schattenwurf und Babymonster-Welt-Resonanz als Bild statt als Theorie sinnlich?
+- **S9** *Lücke* — Was genau ist der Trigger in Kapitel 15 – ein Objekt, ein Satz, ein Ort –, der Kaels Trauma-Angst reaktiviert, und warum ist die Angst älter als der Tag?
+- **S10** *Steinbruch* — Kann das ältere Motiv, dass Kael in Kapitel 15 absichtlich überwachte Aktionen durchführt und eine Karte des Überwachungsnetzes von AEGIS erstellt, aktive Handlung geben, ohne die Z1-Destabilisierung zu brechen?

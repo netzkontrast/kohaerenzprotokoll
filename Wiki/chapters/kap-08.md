@@ -118,3 +118,37 @@ Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkret
 - **First Pursuit.** „Erste Pursuit-Vorform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung, Kap 8) · „A: MC-Solution Pursuit erste Andeutung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] (konsolidiertes Konzept, its Kap 6).
 - **First style shift.** „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834] (Kernwelten vollständig, Kap 8) · „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium, its Kap 2).
 - **Title.** „Wiedergeburt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L197] (Kapitel-Kompendium) · „Die Wächterin“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L534] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the others' stage „HR-Stufe 8: Wiedergeburt — Heilung des Männlichen im Inneren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L417].
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die Wächterin* / *Wiedergeburt — Heilung des Männlichen im Inneren*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 8, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 8 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 8 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 8 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 8, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 8 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 9?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 8 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 8 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 8
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tut Kael in Kapitel 8 konkret, wenn er laut Plot-Konkretisierung nach Dienstschluss bleibt und ausgeglichene Bestände liest, nicht um zu retten – an welchem Ort, mit welchem Objekt, und was riskiert er dabei?
+- **S2** *Konkretheit* — Welche traumatische Erinnerung versucht Kael in Kapitel 8 abzurufen, und woran merkt er, dass sie verschwommen, korrumpiert oder emotional gedämpft ist statt vergessen?
+- **S3** *Konflikt* — Womit hat Kael in Kapitel 8 zum ersten Mal Mitgefühl: mit seinen logisch-kontrollierenden Anteilen Lex und Alex, wie der strukturierte Outline sagt, oder mit dem Apparat und der Konsole, wie die Plot-Konkretisierung vorschlägt?
+- **S4** *Konflikt* — Ist die Wächterin in Kapitel 8 eine Funktion, die Selene als ISH-Funktion trägt und die vermittelt, ohne zu kämpfen, oder eine Stufe in Kaels Bogen ohne Trägerin?
+- **S5** *Storyform* — Ist Kapitel 8 das eine Hard-B-Kapitel mit AEGIS-Innensicht, das der Lock vom 2026-05-30 in Kap 5–8 vorsieht, und wenn ja, in erster Person oder in dritter Person ohne Ich?
+- **S6** *Storyform* — Welchen Storypoint trägt Kapitel 8 in Storyform A (MC-Issue, Mitgefühl mit Schutz-Funktionen) und was zeigt die Szene davon, dass RS-Psychology in Storyform B sichtbar zu werden beginnt, bei etwa 10 Prozent Bridge in Akt I?
+- **S7** *Struktur* — Wie unterscheidet sich Kapitel 8 als Murdock-Stufe Wiedergeburt, Heilung des Männlichen im Inneren, im Handeln von Kapitel 7, Sehnsucht nach dem Weiblichen, innerhalb der Heldinnenreise innen?
+- **S8** *Kausalität* — Wie wird die Telefon-Stille aus Kapitel 7 in Kapitel 8 abgelöst, wenn Kaels Sehnsucht nach Juna in Mitgefühl nach innen umschlägt – bleibt die Resonanz als Faden liegen, und wo wird sie wieder aufgenommen?
+- **S9** *Leser-Wissen* — Was weiß der Leser am Ende von Kapitel 8 über Kaels Anteile, wenn die Wir-Stimme nur angedeutet wird, das Wort Alters nicht fällt und kein bewusstes Wir vor Kapitel 9 erlaubt ist – welche falsche, plausible Deutung bleibt stehen?
+- **S10** *Konflikt* — Wo liegt die erste Pursuit-Vorform der MC-Solution in Storyform A: in Kapitel 8, als Kaels Lesen ohne Auftrag, wie die Plot-Konkretisierung sagt, oder schon in Kapitel 6, wie das konsolidierte Konzept sagt?
+- **S11** *Welt/Sensorik* — Wie erscheint in Kapitel 8 das Leitmotiv Licht, das durch Architektur fällt, in den anti-mimetischen Räumen von KW1, und fällt hier die erste Stilcode-Verschiebung oder schon in Kapitel 2?
+- **S12** *Setup/Payoff* — Welches Genesis-Echo aus Kapitel 0 – die ursprünglichen Vorhersagealgorithmen – betrachtet Kael in Kapitel 8 mit Mitgefühl, und wo wird dieses Echo später eingelöst?

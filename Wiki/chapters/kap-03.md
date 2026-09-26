@@ -120,3 +120,36 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - **Storyform A.** „A: RS-Physics-Vorzeichen, Moonshine-Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis) · „A: MC-Problem Avoidance als ANP-Funktion. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L966] (konsolidiertes Konzept).
 - **Title.** „Das flüchtige Echo“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L514] (Konzept-Iteration Genesis) · „Bunker-Bau“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L965] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Erwachen & Vorbereitung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L192] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 3: Erwachen & Vorbereitung — Identifikation mit dem Männlichen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L297].
 - **Stage name.** „HR-Stufe 3: Vorbereitung mit Juna-Ahnung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L514] (Konzept-Iteration Genesis) · „HR-Stufe 3: Erwachen & Vorbereitung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L965] (konsolidiertes Konzept).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Das flüchtige Echo* / *Bunker-Bau*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 3, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 3 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 3 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 3 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 3, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 3 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 4?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 3 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 3 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 3
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was baut Kael in Kapitel 3 beim Bunker-Bau konkret – ein Gegenregister als Lex-dominante Doppel-Buchführung aus Orten, Zahlen und Differenzen, wie die Plot-Konkretisierung vorschlägt –, und welche Routine wiederholt er dafür?
+- **S2** *Kausalität* — Wie folgt der Bunker-Bau in Kapitel 3 aus dem ersten Riss in Kap 2, und welches Ereignis am Kapitelende führt in die Prüfungen von Kap 4 – etwa die messbar steigende Bestätigungslatenz, die das Audit auslöst?
+- **S3** *Kausalität* — Was verliert Kael in Kapitel 3 durch den Bunker-Bau unwiderruflich, und welche zwei Zukünfte schließt die Entscheidung, Kontrolle und Ordnung zu verdoppeln, gegeneinander aus?
+- **S4** *Leser-Wissen* — Was erkennt der Leser in Kapitel 3 im Bunker als Spiegel von AEGIS' Trennungsprotokoll aus Kap 0, was Kael nicht erkennt, und hält Kael die Wärme auf dem Heimweg für Störung, Einbildung oder Signal?
+- **S5** *Storyform* — Trägt Kapitel 3 in Storyform A das MC-Problem Avoidance als ANP-Funktion oder ein RS-Physics-Vorzeichen mit Moonshine-Andeutung, und ist Storyform B dort wirklich latent?
+- **S6** *Struktur* — Wie setzt Kapitel 3 die Murdock-Stufe 3, Erwachen und Vorbereitung als Identifikation mit dem Männlichen, um – und passt eine Juna-Ahnung, wie die Konzept-Iteration Genesis die Stufe nennt, in dieselbe Stufe?
+- **S7** *Konflikt* — Sieht Kael Juna in Kapitel 3 als verschwindendes Hologramm oder Echo, um das Stadtgesetze brechen, oder spürt er nur eine erste Wärme – und wie verträgt sich jede Variante mit ihrer ersten direkten Erscheinung erst in Kap 38?
+- **S8** *Welt/Sensorik* — Wo debütiert Junas Wärme in Kapitel 3 – im verlassenen Randbezirk von KW1 oder auf dem Heimweg im Transitkorridor –, und wie bleibt sie nach dem Polaritäts-Lock vom kalten Ozon des Arbeitsplatzes getrennt?
+- **S9** *Figur* — Gehört die erste Wärme in Kapitel 3 Juna selbst oder Silas als ihrem Echo im System, dessen Wärme laut Anteile-Profilen ebenfalls in Kap 3 debütiert – und wie wird sie geschrieben, ohne dass Juna Subjekt eines Satzes wird?
+- **S10** *Setup/Payoff* — Wie pflanzt Kapitel 3 die Wärme-Spur so, dass sie selten bleibt und wächst – über die Telefon-Stille in Kap 7 bis zum Heat-Spike in Vortex 1 Beat 4 –, und wann darf sie nach dem Debüt wiederkehren?
+- **S11** *Welt/Sensorik* — Wie erscheint Autopoiesis als Selbst-Abschottung in Kapitel 3 als Bild – Glas, Stahl, Festungs-Architektur –, ohne Systemtheorie- oder DKT-Begriffe in den ersten fünfzig Seiten?

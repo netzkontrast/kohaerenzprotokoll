@@ -107,3 +107,37 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 ## Where the sources differ
 
 - **Title.** „Z1-Reaktion: Bunker reaktiv“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L611] (strukturierter Outline; „Z1-Bunker reaktiv“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L991] konsolidiertes Konzept, „Bunker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L566] Konzept-Iteration Genesis) · „Die Diktatur der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (Kapitel-Kompendium; so too storyform outline, and cited by the Plot-Konkretisierung). The storyform outline keeps the first as „(Zyklus-Funktion: Z1-Bunker reaktiv)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341] (storyform outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Z1-Bunker reaktiv* / *Z1-Reaktion — Bunker reaktiv*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 16, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 16 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 16 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 16 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 16, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 16 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 17?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 16 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 16 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 16
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Welche wiederholbare Handlung aus Kaels Arbeitsalltag wird in Kapitel 16 zur Betäubung, wenn er nach dem Trigger von Kapitel 15 reflexhaft in Dissoziation und den Bunker flieht, und welches Objekt hält diese Flucht fest?
+- **S2** *Konkretheit* — Laut Plot-Konkretisierung findet Kael in Kapitel 16 die Posten-Liste des Komplexitäts-Budgets: welches Detail der Stadt wird geopfert, und was riskiert er, wenn er seine Abteilung als Budget-Instrument erkennt?
+- **S3** *Kausalität* — Wie führt der Trigger aus Kapitel 15 (Trauma-Angst am KW2-Rand, Nyx sichtbar) in Kapitel 16 in den Rückzug in den Bunker, und welches beobachtbare Ereignis am Ende von Kapitel 16 erzwingt die Korrektur in Kapitel 17?
+- **S4** *Kausalität* — Welche zwei schlechten Optionen hat Kael in Kapitel 16 zwischen Betäubung und Hinschauen, und was wird irreversibel, wenn Oblivion laut Plot-Konkretisierung in dieser Nacht drei Berichte einreicht, die Kael nie geschrieben hat?
+- **S5** *Leser-Wissen* — AEGIS registriert Kaels Rückfall in Kapitel 16 als Stabilisierung: wie weiß der Leser mehr als AEGIS und Kael, ohne dass die tragische Ironie ausgesprochen wird, und welche falsche, plausible Deutung bleibt stehen?
+- **S6** *Storyform* — Welche Storypoints trägt Kapitel 16 in Storyform A (MC-Problem Avoidance, Flucht in Betäubung) und in Storyform B (OS, AEGIS misst Stabilisierung), und trägt das die Bridge-Quote von etwa 25 Prozent im Akt-II-Band?
+- **S7** *Storyform* — Wie wird Slot 16 in Kapitel 16 geroutet: hard-a mit Kael unter Lex- und Selene-Dominanz oder bridge über AEGIS' Registrierung des Rückfalls, und mit welchen höchstens drei Mikrocues?
+- **S8** *Struktur* — Wie unterscheidet sich Kapitel 16 als Reaktionsstufe des Zyklus Z1 von den Reaktionsstufen in Kapitel 19 (Z2) und Kapitel 22 (Z3), damit die Spirale Destabilisierung, Reaktion, Korrektur eskaliert statt sich zu wiederholen?
+- **S9** *Konflikt* — Wie verbinden sich in Kapitel 16 die Zyklus-Funktion Bunker reaktiv und das Kompendium-Thema Diktatur der Komplexität (P vs. NP, AEGIS opfert Realitäts-Detail) zu einem dominanten Eindruck, statt zwei Konzepte in einer Szene zu stapeln?
+- **S10** *Welt/Sensorik* — Wie erscheint die Diktatur der physikalischen Zeit in KW2 in Kapitel 16 als Bild (enge Räume, taube Sensorik, Auflösungsverlust), ohne Komplexitätstheorie nackt zu nennen, und steht dort kaltes Ozon als AEGIS-Signatur?
+- **S11** *Figur* — Wie wirkt Moros' Schwere in Kapitel 16 im Hintergrund, und wie erscheinen Lex und Selene als dominante Anteile, ohne dass Stimmen gelabelt werden und ohne Crew-Menü?
+- **S12** *Steinbruch* — Kann die ältere Subplot-Idee, Kael sondiere in Kapitel 16 systematisch AEGIS' Reaktionsschwelle durch kleine Regelverstöße und verbotene Verbindungen, eine Handlungslücke füllen, ohne der Bunker-Reaktion zu widersprechen?

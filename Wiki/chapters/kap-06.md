@@ -120,3 +120,36 @@ Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkret
 - **Landauer sensorics.** „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528] (Konzept-Iteration Genesis; also strukturierter Outline and the 39-chapter spec) · „Sensorik: Hitzeschlieren, Landauer-Wärme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] (konsolidiertes Konzept) · „Sensorik der Landauer-Signatur nach Polaritäts-Lock: kalt/Ozon“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311] (storyform outline) · „Sensorik kalt/Ozon (Polaritäts-Filter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung). (C11)
 - **When the other Alters' style codes are full.** „Erste polyphonen Einbrüche — Stilcodes anderer Alters werden voll sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L377] (strukturierter Outline, Kap 6) · „voll ausgeprägt ab Kap 8–10“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810] (konsolidiertes Konzept) · „voll-polyphon erst Akt II“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L927] (Kernwelten vollständig).
 - **Title.** „Tod einer Einstellung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (Kapitel-Kompendium) · „Echos im Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L526] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the others' stage „HR-Stufe 6: Tod einer Einstellung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L369].
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Echos im Fundament* / *Tod einer Einstellung — Cache-Konflikt*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 6, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 6 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 6 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 6 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 6, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 6 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 7?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 6 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 6 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 6
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was ist der Cache-Konflikt in Kapitel 6 als konkrete Handlung – zwei widersprüchliche Zuweisungen, die beide ausgeführt werden sollen, und Kaels Hand, die vor dem Klick stoppt – oder ein anderes Problem, an dem die einseitige Logik scheitert?
+- **S2** *Kausalität* — Was ist am ersten nicht ausgeführten Ausgleich in Kapitel 6 irreversibel – für Kael und für das System, das beide Ausführungen verlangt –, und welche zwei Zukünfte gehen dabei verloren?
+- **S3** *Kausalität* — Wie führt die gestoppte Hand am Ende von Kapitel 6 in die Telefon-Stille von Kap 7, in der der Gegenregister-Faden pausiert – folgt die Resonanz aus dem ausgebliebenen Klick oder steht sie unverbunden daneben?
+- **S4** *Leser-Wissen* — Was hält Kael in Kapitel 6 für den Grund, dass seine Hand stoppt, was erkennt der Leser als Nyx' ungewollte Handlung, und registriert AEGIS den ausbleibenden Klick als Fehler, Anomalie oder gar nicht?
+- **S5** *Storyform* — Wie zeigt Kapitel 6 in A die erste Andeutung der MC-Solution Pursuit und in B, dass AEGIS' Logik Schwächen zeigt – und ist es eine erste polyphone Bridge innerhalb des Hard-A-Rahmens von Akt I?
+- **S6** *Struktur* — Wie setzt Kapitel 6 die Murdock-Stufe 6, Tod einer Einstellung, als Wendepunkt der Heldinnenreise innen um, und kommt es als Position des Hard-B-Kapitels in Kap 5–8 in Frage?
+- **S7** *Konflikt* — Ist die Landauer-Sensorik in Kapitel 6 Hitzeschlieren und Landauer-Wärme, wie Konzept und Outlines vom Mai schreiben, oder kaltes Ozon nach dem Polaritäts-Lock vom 2026-05-30 – und was verliert das Kapitel mit jeder Wahl?
+- **S8** *Konflikt* — Werden die Stilcodes anderer Alters in Kapitel 6 voll sichtbar – Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato –, oder erst ab Kap 8–10 oder erst in Akt II, und wie viel Polyphonie verträgt der Schleier hier?
+- **S9** *Setup/Payoff* — Wie echot der Cache-Konflikt in Kapitel 6 die Resonanzkaskade aus Kap 0, ohne sie zu zitieren, und wie verhält er sich zum Landauer-Foreshadowing-Strang, der in Kap 6 und Kap 19 akkumuliert?
+- **S10** *Welt/Sensorik* — Wie erscheint parakonsistente Logik in Kapitel 6 in der Cache-Konflikt-Zone von KW1 mit KW2-Vorschein als Bild, Raum oder Verhalten statt als Begriff?
+- **S11** *Impact* — Wenn der Autor Kapitel 6 kalt statt warm schreibt, was kippt mit – Kap 36 als Landauer-Wärme-Ort, der thermische Übergang von KW1 zu KW2 bei Kap 13/14 und der Landauer-Strang über Kap 19?

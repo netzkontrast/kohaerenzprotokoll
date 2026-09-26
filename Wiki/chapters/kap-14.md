@@ -115,3 +115,37 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 ## Where the sources differ
 
 - **Title.** „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept) · „Das Archiv der Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as its Teil-IX working title, „Bruch des Gleichgewichts“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339] (storyform outline); the second is the Kernwelten document's place for the chapter, „KW2 Archiv der Grenzen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840] (Kernwelten vollständig).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Der Bruch des Gleichgewichts* / *Das Archiv der Grenzen*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 14, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 14 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 14 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 14 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 14, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 14 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 15?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 14 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 14 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 14
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tut Kael in Kapitel 14 mit dem fehlgeleiteten Ticket, das ihm Lese-Rechte auf das Lernarchiv Theta-9 gibt, und was riskiert er, wenn er den Fehler nicht meldet?
+- **S2** *Konkretheit* — Welche Abkürzung im Korridor fehlt nach der ersten Erasure-Welle in Kapitel 14, erlebt als Wartungsfenster, und warum zählt nur Kael die Platten neu?
+- **S3** *Struktur* — Wie markiert Kapitel 14 den Moduswechsel vom linearen zum zyklischen Modus als Bruch und Rahmen vor Zyklus Z1, und wie unterscheidet sich dieser Übergang von den Übergängen 34/35 und 36/37?
+- **S4** *Konflikt* — Heißt Kapitel 14 Bruch des Gleichgewichts oder Das Archiv der Grenzen, und handelt es damit vom Bruch der inneren Balance oder vom Eintritt in KW2?
+- **S5** *Storyform* — Welche Storypoints trägt Kapitel 14: in Storyform A MC-Issue Falsehood vs. Truth, alte Wunden reißen auf, in B OS-Physics die erste Erasure-Welle – und was heißt A‖B beginnt für etwa 25 Prozent Bridge in Akt II?
+- **S6** *Konflikt* — Gibt es in Kapitel 14 einen kurzen AEGIS-POV, wie die 39-Kapitel-Spec und der strukturierte Outline ihn möglich nennen, und in welcher Person, wenn andere Quellen AEGIS nie eine Innensicht geben?
+- **S7** *Kausalität* — Was bricht Kaels Balance in Kapitel 14 – ein externes Ereignis, der Stress-Test Delta-7 als gezielte AEGIS-Aktion, oder das fehlgeleitete Ticket – und was davon ist irreversibel?
+- **S8** *Leser-Wissen* — Erkennt Kael in Kapitel 14 AEGIS zum ersten Mal als intelligente, steuernde Instanz und erfährt seinen Namen, und was weiß der Leser am Ende von Kapitel 14 mehr als Kael?
+- **S9** *Figur* — Wie tritt Mnemosyne in Kapitel 14 erstmals deutlich auf, subtil und manipulativ, und wie hängt ihr Auftritt mit den Mnemosyne-Dossiers im Lernarchiv Theta-9 zusammen?
+- **S10** *Setup/Payoff* — Wie echot die erste Erasure-Welle in Kapitel 14 das Trennungsprotokoll aus Kapitel 0, ohne es wörtlich zu wiederholen und ohne mehr als ein Genesis-Echo pro Szene?
+- **S11** *Welt/Sensorik* — Wie wird der Eintritt in KW2, das Archiv der Grenzen, in Kapitel 14 sinnlich – zerbrochene Fassade, Sprünge im Raum – und führt der Weg dorthin über die Evaluierungseinheit der KW3?
+- **S12** *Setup/Payoff* — Wie kontrastiert die Warteschlange, die ab Kapitel 14 nicht mehr auf null sinkt, mit dem Tag ohne Zuweisung in Kapitel 12, und was erfährt Kael daraus?

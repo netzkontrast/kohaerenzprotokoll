@@ -117,3 +117,37 @@ Position: „Kap 37 | 37 | Der Gärtner als Sachbearbeiter“ ^[kp-plot-konkreti
 ## Where the sources differ
 
 - **World, within one document.** „KW4 (trügerische Pastorale)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L863] · „der trügerischen Pastorale Kap 37, die anders verortet ist“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L408] (both Kernwelten vollständig; the second in its KW4 section).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Der Gärtner / Trügerischer Sieg* / *Reward / Phasenübergang — Der Gärtner*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 37, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 37 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 37 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 37 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 37, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 37 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 38?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 37 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 37 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 37
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tut Kael als Gärtner in Kapitel 37 an einem konkreten Tag – laut Plot-Konkretisierung beantwortet er Zuweisungen, statt sie zu bestätigen –, mit welcher wiederholbaren Handlung, welchem Objekt, an welchem Ort?
+- **S2** *Kausalität* — Wie baut Kael in Kapitel 37 aus dem, was nach dem Heat Spike und dem verstummten Klick von Kapitel 36 übrig ist, den sanften Apparat, und woran zerfasert er, sodass das Rauschen in Kapitel 38 als unendliche Zuweisung ankommen kann?
+- **S3** *Leser-Wissen* — Wie früh soll der Leser in Kapitel 37 merken, dass der Sieg trügerisch ist, während Kael ihn noch für echt hält, und welche plausible Deutung des Rauschens als harmloses Nachbeben bleibt stehen?
+- **S4** *Storyform* — Wie realisiert Kapitel 37 nur A, das MC-Concern als neue Rolle des Hüters, bei etwa 15 % Bridge mit feinen B-Echos als Rauschen-Vorzeichen, und wie verhält sich das zur 39-Kapitel-Spec, nach der B hier gar nicht mehr aktiv ist?
+- **S5** *Struktur* — Wie trägt Kapitel 37 die Konsolidierung 36/37 und die Pause in Ten als Reward-Stufe, und wie hält es das Tempo zwischen zwei Vortex-Kapitelpaaren mit 100 % Bridge?
+- **S6** *Struktur* — Darf Kapitel 37 in Stille enden, wie die Hamilton-Ausnahmeliste für Kapitel 0, 37, 39 und 40 behauptet, oder braucht der trügerische Sieg einen beobachtbaren Hook-out ins Rauschen von Kapitel 38?
+- **S7** *Setup/Payoff* — Das Rauschen, das in Kapitel 37 beginnt, soll das Nichts-Rauschen aus Kapitel 0 sein; an welchem sinnlichen Detail aus der Genesis erkennt der Leser es wieder, ohne dass es erklärt wird?
+- **S8** *Konflikt* — Spielt Kapitel 37 in KW4 als trügerische Pastorale oder, wie dieselbe Kernwelten-Quelle an anderer Stelle sagt, anders verortet, und was heißt ein Welt-Wechsel ohne Bewegung für den Schauplatz?
+- **S9** *Welt/Sensorik* — Wie zeigt Kapitel 37 kristallisiertes Gewebe und feine Sprünge am Rand der Wahrnehmung, und welche Temperatur hat die Pastorale nach der Hitze-Polarität – kaltes Ozon, Wärme oder keines von beiden?
+- **S10** *Lücke* — Welche Gegenkraft mit eigenem berechtigtem Ziel hat Kapitel 37, wenn AEGIS-monolithisch erloschen ist, und wie verhindert sie die verbotene Resolution-Glättung?
+- **S11** *Steinbruch* — Könnten die neuen Protokolle der AEGIS-Subplots von 2025 – überlebende Guardians als Ordnungsinseln, ein rudimentäres AEGIS, das aus Trümmern wiederaufbaut – Kapitel 37 die fehlende Gegenkraft geben, ohne einen späteren Lock zu brechen?
+- **S12** *Figur* — Übt in Kapitel 37 Oblivion die Funktion aus, die es laut Outline vom 2026-05-18 in Kapitel 36 von AEGIS übernimmt, als Wachheit, die entscheidet statt löscht, und welcher Alter bemerkt als erster die feinen Sprünge am Rand?

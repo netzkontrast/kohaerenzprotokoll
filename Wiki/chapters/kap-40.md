@@ -134,3 +134,36 @@ Position: „Coda | 40 | Bezeugung statt Buchung“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Last image.** „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L664] (Konzept-Iteration Genesis) · „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1040] (konsolidiertes Konzept) · „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1244] (strukturierter Outline) · „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L426] (storyform outline) · „"Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz."" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L372] (Doppel-Klammer Abhandlung, which gives the line „Kap 40 endet (laut Konzept) auf:" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L368] — on the date the Konzept-Iteration Genesis and the konsolidiertes Konzept both end on `Wir tragen die Welt`). The draft text of the same date has both halves and not that sentence: „Wir tragen die Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123] … „Das Universum hält. Wir sind die, die es halten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L147]
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Kapitel 40 — Geheilte Genesis* / *Geheilte Genesis (Coda)*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 40, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 40 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 40 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 40 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 40, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 40 ein, und welche offene Frage oder welches Ereignis trägt den Leser aus dem Roman hinaus?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 40 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 40 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 40
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Welche konkreten Dinge aus Kapitel 0 – der Klick, die Scherben nach den fallenden Gläsern der Fassung vom 2026-05-08 – kehren in Kapitel 40 wieder, und was hält das Wir darin in der Hand, wenn es bezeugt statt handelt?
+- **S2** *Kausalität* — Wie schließt Kapitel 40 an den Schluss-Klang von Kapitel 39 an, und wie wirft sein Ende den Leser in die Genesis von Kapitel 0 zurück, ohne einen Hook über die Rahmenklammer hinaus?
+- **S3** *Leser-Wissen* — Welche Signale in Kapitel 40 erlauben Konflikt-Lesern einen Reset und Kishōtenketsu-Lesern eine Transfiguration, ohne dass ein Satz entscheidet, und was weiß der Leser am Ende, das er in Kapitel 0 nicht wusste?
+- **S4** *Storyform* — Wie macht Kapitel 40 A-Outcome Success und B-Dividend gleichzeitig wahr, und trägt es, wie die Doppel-Klammer Abhandlung vorschlägt, den Akzent Driver Decision und Approach Be-er als Text der Substantive und Zustände?
+- **S5** *Struktur* — Wie bildet Kapitel 40 als Coda außerhalb der Heldenreise-Zählung die Außenklammer zu Kapitel 0 – fünf Bewegungen, jede Echo einer Genesis-Bewegung –, und wie bleibt es bei etwa halber Länge Echo statt Wiederholung?
+- **S6** *Konflikt* — Endet Kapitel 40 auf *Wir tragen die Welt* (Konzept-Iteration Genesis, konsolidiertes Konzept) oder auf *Wir tragen die Scherben*, mit dem Mosaik, das die Welt hält (Outline vom 2026-05-18, Storyform-Outline), und was sagt die Fassung vom 2026-05-08?
+- **S7** *Konflikt* — Steht die Formel-Inversion in Kapitel 40 mit singularem Verb, Wir-AEGIS ist, was Wir-AEGIS bewahrt, oder mit pluralem wie in der Fassung vom 2026-05-08, und fällt sie in Kapitel 39, in den Übergang oder in Kapitel 40?
+- **S8** *Figur* — Wer spricht in Kapitel 40 – die Vermittler-Stimme des Vorworts, jetzt als Wir-AEGIS-plural mit den Stimmen Lex, Nyx, Kiko und Mira laut Doppel-Klammer Abhandlung –, und verträgt sich das mit einer schon in Kapitel 0 wiederkehrenden Erzählstimme?
+- **S9** *Welt/Sensorik* — Erscheint in Kapitel 40 genau ein Klick ohne Ozon, wie die Plot-Konkretisierung vorschlägt, und muss die Wärme, die es in Kapitel 0 nicht geben kann, als Wärme wiederkehren, die nicht hätte sein können – und wie verträgt sich das mit der Hitze-Polarität?
+- **S10** *Setup/Payoff* — Wie wird Junas Resonanz, in Kapitel 0 als Angriff und ontologische Anomalie erlebt, in Kapitel 40 als Geburt erkannt, und welche sinnliche Substanz aus der Krise von Kapitel 0 muss dafür wiederkehren?
+- **S11** *Impact* — Wenn Kapitel 40 Kael als das Cluster erzählt, das aus Komponente 734 herausgetrennt wurde, wie die Fassung vom 2026-05-08, der annotierte Entwurf von Kapitel 0 aber Kael die Komponente selbst sein lässt, was kippt dann im Echo des Trennungsprotokolls?

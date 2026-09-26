@@ -100,3 +100,36 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Stage.** „HR-Stufe 7 fortgesetzt: Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L638] (Konzept-Iteration Genesis) · „HR-außen Stufe 8: Ordeal-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1049] (strukturierter Outline) · „(HR 8: Ordeal-Annäherung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L366] (storyform outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die Konfrontation* / *Konfrontation: Zwei Arten der Kohärenz*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 34, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 34 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 34 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 34 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 34, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 34 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 35?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 34 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 34 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 34
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tut Kael in der Konfrontation von Kapitel 34, wenn AEGIS' Makro-Log ihn laut Plot-Konkretisierung als offenen Posten führt – in welcher Form antwortet das Wir, wenn nicht im Log-Format, und was kostet es ihn?
+- **S2** *Kausalität* — Welches beobachtbare Ereignis am Ende von Kapitel 34 treibt Kael, wie Kernwelten vollständig sagt, ohne Wahl ins K₁-Substrat und nach KW2, und macht so den Übergang 34/35 zur echten Storyform-Wendung, bei der B zu erlöschen beginnt?
+- **S3** *Kausalität* — Welche zwei genuinen Zukunftsverluste stehen in Kapitel 34 im Duell zwischen AEGIS' verhindernder und Kaels bezeugender Kohärenz gegeneinander, statt richtig gegen falsch?
+- **S4** *Leser-Wissen* — Was soll der Leser am Ende von Kapitel 34 über AEGIS glauben, bevor die Truth-Rotation im Vortex die Lesart kippt, und wie wird spürbar, dass auch AEGIS leidet, ohne es zu wissen?
+- **S5** *Storyform* — Welche Storypoints trägt Kapitel 34 in A (MC-Concern dominant, Pursuit als Stand) und in B (OS-Physics, AEGIS-Datenlast) bei maximaler Vor-Vortex-Spannung, und wie hoch ist die Bridge-Quote am Ende von Akt III-A?
+- **S6** *Struktur* — Ist Kapitel 34 die fortgesetzte Heldenreise-Stufe Inmost Cave (Konzept-Iteration Genesis) oder die Ordeal-Vorbereitung (Outline vom 2026-05-18, Storyform-Outline), und wie baut es als letztes Kapitel von Ten beginnt die Schwelle zum Vortex?
+- **S7** *Konflikt* — Spricht AEGIS in der Konfrontation von Kapitel 34 nur als Makro-Log in der dritten Person, oder hat es eine Innensicht, und wie verträgt sich das Duell mit dem einen Hard-B-Kapitel in Kap 5–8 nach dem Lock vom 2026-05-30?
+- **S8** *Figur* — Wie akzeptiert Kael in Kapitel 34 am Mosaik-Herz Juna als Teil seiner selbst, wie Kernwelten vollständig sagt, ohne dass Juna grammatisches Subjekt wird oder vor Kapitel 38 direkt erscheint?
+- **S9** *Figur* — Welche Rolle hat Mnemosyne in Kapitel 34, wo der Outline vom 2026-05-18 sie am Setting führt – Zeugin, Gegenkraft mit eigenem berechtigtem Ziel oder nur Ort –, und wie spricht sie dort?
+- **S10** *Welt/Sensorik* — Wie wird Orkan gegen Sphäre in Kapitel 34 zum sinnlichen Bild, und bleibt AEGIS' Seite beim kalten Ozon, ohne die Landauer-Wärme vorwegzunehmen, die Vortex 1 Beat 4 vorbehalten sein soll?
+- **S11** *Impact* — Wenn der Autor Kapitel 34 zur Ordeal-Stufe macht statt zur Inmost Cave, was verschiebt sich in der Heldenreise-Zählung von Kapitel 35 bis 39, insbesondere bei der Frage, ob Kapitel 36 oder 37 die Reward-Stufe trägt?

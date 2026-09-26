@@ -115,3 +115,36 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 ## Where the sources differ
 
 - **Title.** „Mosaik des Selbst“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L487] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept, storyform outline) · „Akzeptanz der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (Kapitel-Kompendium). The Kompendium's title is the strukturierter Outline's stage name: „HR-Erweiterung 2: Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489] (strukturierter Outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Mosaik des Selbst* / *Akzeptanz der Komplexität — Mosaik-Herz*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 11, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 11 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 11 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 11 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 11, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 11 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 12?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 11 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 11 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 11
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was tut Kael in Kapitel 11 konkret, wenn Mosaik-Bildung eine bewusste Tätigkeit ist – laut Plot-Konkretisierung ordnet er die Kiste seiner gelesenen Bestände als Muster statt chronologisch neu?
+- **S2** *Storyform* — Trägt Kapitel 11 in Storyform A den MC-Concern, Vielfalt als Schöpfung, oder das A-Requirement Mosaik-Akzeptanz, und warum bleibt Storyform B in Kapitel 11 latent?
+- **S3** *Struktur* — Welche Funktion hat Kapitel 11, HR-Erweiterung 2, Akzeptanz der Komplexität, zwei Kapitel vor dem Moduswechsel 13/14 in der Ki-Vertiefung der Heldinnenreise innen?
+- **S4** *Welt/Sensorik* — Spielt Kapitel 11 in KW1 oder an einer Übergangs-Schwelle KW1/KW3, und wie bereitet es den Übergang von KW1 nach KW2 oder KW3 vor?
+- **S5** *Welt/Sensorik* — Wie erscheint Jaspers' Grenzsituation in Kapitel 11 als Bild, Raum oder Verhalten und nie als nackte Theorie?
+- **S6** *Setup/Payoff* — Wie wird das Leitmotiv Mosaik, Scherben als Muster, in Kapitel 11 gepflanzt, damit es auf die plurale Bewahrung in Kapitel 39 und auf die Scherben von Kap 0 und Kap 40 vorgreift?
+- **S7** *Leser-Wissen* — Was glaubt Kael am Ende von Kapitel 11 über seine innere Vielfalt, wenn er sie als Stärke akzeptiert, das Wort aber nicht fällt – und was weiß der Leser bereits mehr als er?
+- **S8** *Figur* — Wie erscheinen in Kapitel 11 die ANPs Lex, Alex, Rhys und Selene, und wie leise darf die erste Spur von Kiko als EP sein, ohne gelabelt zu werden?
+- **S9** *Kausalität* — Führt Kaels Neuordnung der Kiste in Kapitel 11 zum Tag ohne Zuweisung in Kapitel 12, an dem die Warteschlange auf null bleibt – ist die leere Schlange eine Antwort des Apparats auf das Mosaik?
+- **S10** *Lücke* — Registriert AEGIS Kaels Mosaik-Akzeptanz in Kapitel 11 überhaupt, wenn keine Lesart von 2026 dort eine Reaktion nennt, während AEGIS Kaels Zustand in Kapitel 12 scannt?
+- **S11** *Steinbruch* — Kann die unlösbare Gleichung nach KW1-Logik, die Kael in Kapitel 11 mit einem nicht-logischen Ansatz löst, Handlungssubstanz geben, ohne die Mosaik-Akzeptanz zu brechen?

@@ -113,3 +113,36 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - **World.** „Kael/Lex erzielen analytischen Erfolg in McLaughlin-Welt. Trügerische Stabilität.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524] (Konzept-Iteration Genesis) · „Kael erzielt einen Erfolg in einer anderen Kernwelt (Übergang KW1 → KW2-Rand).“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L353] (strukturierter Outline) · „Auge des Sturms (falscher Erfolg) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L194] (Kapitel-Kompendium) · „KW1 (justierte Pseudo-Stabilität)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831] (Kernwelten vollständig).
 - **Hard-B.** „A: MC-Concern Memory. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L970] (konsolidiertes Konzept) · „A dominant, B latent; Slot-16-Kandidat für Hard-B-Kapitel“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831] (Kernwelten vollständig) — B latent, or a candidate for the Hard-B chapter; the Kernwelten line says both. (C14)
 - **Title.** „Der Glanz der Oberfläche“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L522] (Konzept-Iteration Genesis) · „Auge des Sturms“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L969] (konsolidiertes Konzept; also strukturierter Outline, Kapitel-Kompendium, storyform outline) — the Konzept-Iteration gives it as the stage „HR-Stufe 5: Auge des Sturms“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L522].
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Der Glanz der Oberfläche* / *Auge des Sturms — falscher Erfolg*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 5, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 5 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 5 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 5 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 5, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 5 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 6?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 5 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 5 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 5
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Worin besteht Kaels falscher Erfolg in Kapitel 5 konkret – eine Beförderung zur Bestandspflege Stufe 2, ein analytischer Erfolg oder ein Erfolg am KW2-Rand –, und welches Gewicht eines Datensatzes spürt er zum ersten Mal vor dem Klick?
+- **S2** *Konflikt* — Spielt Kapitel 5 in KW1 in justierter Pseudo-Stabilität, im Übergang zum KW2-Rand oder in der McLaughlin-Welt – und welche Wahl verträgt sich mit KW1 als Welt von Akt I und dem Moduswechsel erst bei 13/14?
+- **S3** *Kausalität* — Bereitet die erste Stufe-2-Zuweisung in Kapitel 5, ein Bestand mit Kontext, den Doppel-Antrag von Kap 6 vor, bei dem zwei Zuweisungen sich widersprechen – und wie wird die Beförderung selbst zur Ursache des Arbeitsunfalls?
+- **S4** *Leser-Wissen* — Was weiß der Leser am Ende von Kapitel 5, das Kael nicht weiß – dass die Beförderung gefährlichere Arbeit ist, als Auszeichnung verpackt –, und welche falsche Deutung der trügerischen Stabilität teilt der Leser mit Kael?
+- **S5** *Storyform* — Ist Kapitel 5 das Hard-B-Kapitel mit AEGIS-Innensicht, das der Lock vom 2026-05-30 in Kap 5–8 setzt und Kernwelten vollständig hier als Kandidaten nennt, oder bleibt Storyform B dort latent – und was entscheidet die Pinnung?
+- **S6** *Figur* — Wenn das Hard-B-Kapitel auf Kapitel 5 fällt: spricht AEGIS dort in der ersten Person in Protokollform, in dritter Person mit operativer Interiorität oder nur als Log – und wie bleibt es verwaltend statt bedrohlich, ohne moralisches Vokabular?
+- **S7** *Struktur* — Wie setzt Kapitel 5 die Murdock-Stufe 5, Auge des Sturms als falscher Erfolg, um, und wiederholt der Scheinerfolg den Algorithmus des großen Wandels aus Kap 0, wie die Konzept-Iteration Genesis vorschlägt?
+- **S8** *Figur* — Wie erscheinen in Kapitel 5 die ersten Schatten von Rhys als Wärme, die Kael nicht versteht, wenn der Polaritäts-Lock vom 2026-05-30 jede Wärme Junas Spur zuweist?
+- **S9** *Welt/Sensorik* — Wie wird spiegelglatter, sensorisch flacher Erfolg in Kapitel 5 geschrieben, ohne dass die Prosa selbst flach wird – welche eine konkrete Falschheit durchbricht die Glätte?
+- **S10** *Lücke* — Welche Gegenfigur mit eigener Absicht steht Kael in Kapitel 5 gegenüber, das die Storyform-Outline vom 2026-06-10 ausdrücklich zu verdichten nennt, und welche Szene verändert beim Scheinerfolg tatsächlich etwas?
+- **S11** *Impact* — Wenn der Autor das Hard-B-Kapitel auf Kapitel 5 pinnt, was kippt in Kap 6–8 und in der Bridge-Quote von Akt I, und muss die Spiegelszene zur Stufe-2-Arbeit dann im selben Kapitel stehen?

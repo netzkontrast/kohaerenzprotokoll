@@ -112,3 +112,36 @@ Position: „Vortex 2 | 38–39 | Die Übernahme der Funktion“ ^[kp-plot-konkr
 ## Where the sources differ
 
 - **What the chaos is.** „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] (aegis-subplots) · „Beat 1 — Das Rauschen kommt: sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1172] (strukturierter Outline) · „das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L399] (storyform outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Resurrection — finale Wendung* / *Die Resonanz, die ankommt (Vortex 2 Beat 1–5)*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 38, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 38 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 38 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 38 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 38, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 38 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 39?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 38 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 38 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 38
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Wie sieht das Rauschen in Kapitel 38 als unendliche Zuweisung aus, in der laut Plot-Konkretisierung alles zugleich seine Bewahrung beantragt, und was tut Kael mit der Warteschlange, die hier ohne Zahl ist?
+- **S2** *Kausalität* — Wodurch wird der Sieg aus Kapitel 37 in Kapitel 38 als trügerisch erkannt, und warum ist die Entscheidung des Wir, ins Ouroboros zu gehen, am Ende von Kapitel 38 nicht mehr umkehrbar?
+- **S3** *Konflikt* — Ist der Stille-Beat in Kapitel 38 Junas erste direkte Erscheinung überhaupt, oder hatte sie laut Charakter-Bibel schon um Kapitel 33 im Garten der stillen Präsenz eine spürbare Präsenz, und was muss Kapitel 38 dann anders machen?
+- **S4** *Figur* — Wie erscheint Juna in Kapitel 38 direkt – einfach da, ohne Worte, ohne Anweisung, ihre Stimme als Raum statt als Klang – und bleibt dabei nie grammatisches Subjekt, nie physisch beschrieben, nie Deus ex machina?
+- **S5** *Leser-Wissen* — Wenn Kael in Kapitel 38 Juna erreicht und damit laut Kernwelten vollständig die Position des Lesers einnimmt, was erfährt Kael hier, was der Leser schon weiß, und was bleibt über Junas Natur offen?
+- **S6** *Storyform* — Welche Storypoints trägt Kapitel 38 in A (RS-Physics maximal, Junas direkte Anwesenheit) und in B (das Universum kollabiert sichtbar), wenn B seit Kapitel 36 erloschen sein soll, und was heißt 100 % Bridge in neuer Form?
+- **S7** *Struktur* — Welche Beats von Vortex 2 fallen in Kapitel 38 – der Outline vom 2026-05-18 legt alle fünf hierher –, und trägt es die Heldenreise-Stufe Road Back oder, nach der 39-Kapitel-Spec, die Resurrection?
+- **S8** *Setup/Payoff* — Kael erkennt Juna in Kapitel 38 wieder, weil die Echos das Vor-Trennungs-Sein tragen; welche Echos der Resonanz aus Kapitel 0 sind dafür gepflanzt, und wo in Akt I–II werden sie erneuert?
+- **S9** *Welt/Sensorik* — Wie werden Externe Ebene und KW4 in Kapitel 38 gleichzeitig dargestellt, und welcher Ort in Köln ist Junas Ankerpunkt, dessen Detail laut Kernwelten vollständig vor dem Drafting von Kapitel 38 zu locken ist?
+- **S10** *Welt/Sensorik* — Welche Temperatur hat Junas direkte Erscheinung in Kapitel 38, wenn Wärme nach der Hitze-Polarität Junas Spur ist, und wie bleibt sie vom Landauer-Wärme-Spike in Vortex 1 Beat 4 unterscheidbar?
+- **S11** *Konflikt* — Ist das Rauschen in Kapitel 38 der sichtbare Kollaps des Universums (Outline vom 2026-05-18, Storyform-Outline) oder, wie die AEGIS-Subplots von 2025 vorschlagen, kreatives Chaos, in dem die gefürchtete Entropie Neues hervorbringt?

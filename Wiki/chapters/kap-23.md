@@ -106,3 +106,36 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Plot beats: „Der eigene Bestand — Kael legt den ersten Datensatz an, den die Welt nicht zugewiesen hat (Mosaik als Schöpfung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Plot beats: „das Gegenregister, übertragen in die Form des Systems, unter eigener Kennung. Schöpfung in der Sprache des Apparats.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Storyform: „dann den eigenen Bestand anlegen (Kap 23)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L182]
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Mosaik-Schöpfung* / *Z3-Mosaik als Schöpfung*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 23, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 23 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 23 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 23 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 23, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 23 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 24?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 23 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 23 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 23
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Laut Plot-Konkretisierung legt Kael in Kapitel 23 den ersten Datensatz an, den die Welt nicht zugewiesen hat, das Gegenregister unter eigener Kennung: was steht darin, wo legt er ihn an, und was riskiert er?
+- **S2** *Lücke* — Das Szenen-Detail von Kapitel 23 ist als Lücke markiert: welche konkrete Krise meistert Kael in Kapitel 23 mit seiner inneren Vielfalt, und welche Szene macht Selbst-Schöpfung statt Reparatur sichtbar?
+- **S3** *Kausalität* — Wie antwortet die Mosaik-Schöpfung in Kapitel 23 auf die Systemverwerfungen und den Komp-734-Fund aus Kapitel 22, und welches Ereignis leitet in Kapitel 24 über, wo AEGIS die K-J-Verbindung zyklisch stört?
+- **S4** *Leser-Wissen* — Was glaubt Kael am Ende von Kapitel 23 über seine innere Vielfalt, was ahnt der Leser über die Vorform kosmischer Schöpfung, und hat AEGIS den eigenen Bestand bemerkt?
+- **S5** *Storyform* — Das Kapitel-Kompendium nennt Mosaik als Schöpfung in Kapitel 23 ein A-Requirement: welche weiteren Storypoints trägt Kapitel 23 in Storyform A (MC-Concern), und warum ist Storyform B hier latent?
+- **S6** *Struktur* — Kapitel 23 schließt Zyklus Z3 und laut Plot-Konkretisierung den Block Der Innentäter (Kap 14 bis 23): wie endet die dritte Korrektur so, dass das K-J-Thema in Kapitel 24 und der Wendepunkt in Kap 25 bis 26 noch Druck haben?
+- **S7** *Welt/Sensorik* — Kernwelten vollständig setzt Kapitel 23 an den Eintritt in KW3 mit Schleusen, Wachtürmen und Protektoren-Dominanz: wie verbinden sich diese Grenzarchitektur und Scherben, die sich ohne Plan finden, zu einem dominanten Eindruck?
+- **S8** *Figur* — Welche ANPs und EPs kooperieren in Kapitel 23 beginnend, wie wird das stabil-resiliente Wir hörbar, ohne Stimmen zu labeln, und wie stellen sich die Protektoren von KW3 dazu?
+- **S9** *Setup/Payoff* — Die Outline vom 2026-05-18 nennt die innere Schöpfung in Kapitel 23 eine Vorform der kosmischen Schöpfung von Kapitel 39: welches Bild pflanzt Kapitel 23 dafür, und wie wird es in Kapitel 39 geechot, nie wörtlich wiederholt?
+- **S10** *Impact* — Die Storyform-Outline vom 2026-06-10 will Kapitel 23 verdichten: wenn es gekürzt oder mit Kapitel 24 zusammengelegt wird, was kippt für den Abschluss von Z3 und für das A-Requirement Mosaik als Schöpfung?
+- **S11** *Steinbruch* — Kann die ältere Idee, Kael breche in Kapitel 23 kurz das Rendering auf Drahtgitter und sich wiederholende Texturkacheln, das Mosaik konkret machen, ohne die Regel Theorie nie nackt zu verletzen?

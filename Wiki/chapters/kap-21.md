@@ -104,3 +104,36 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 
 - **Storyform, B's relationship throughline.** „B: RS-Physics, Moonshine-Spüren des Potentialmeers“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588] (Konzept-Iteration Genesis) · „A: MC-Concern, Juna-Echo. B: RS-Physics, Moonshine-Spüren.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1002] (konsolidiertes Konzept) · „RS-S2 (B) Conceiving — AEGIS reformuliert Kael als unkontrollierbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L737] (strukturierter Outline).
 - **Title.** „Membran“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L586] (Konzept-Iteration Genesis) · „Z3-Simulationsgrenze + Genesis-Flashback“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1001] (konsolidiertes Konzept) · „Z3-Destabilisierung + Genesis-Flashback (Trennungsprotokoll)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L731] (strukturierter Outline); the last opens with the Genesis document's stage name, „Z3-Destabilisierung, Genesis-Cluster Mitte“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L586] (Konzept-Iteration Genesis).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Membran* / *Z3-Simulationsgrenze + Genesis-Flashback*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 21, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 21 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 21 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 21 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 21, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 21 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 22?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 21 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 21 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 21
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Laut Plot-Konkretisierung stellt Kael in Kapitel 21 einen Antrag auf etwas, das laut Bestandsführung nie existiert hat, und findet eine Kiste: was liegt darin, und was riskiert er, wenn er konsolidieren soll, was nie geführt wurde?
+- **S2** *Konkretheit* — Mit welcher bewussten Handlung testet Kael in Kapitel 21 die Grenzen der Simulation, und woran spürt er dabei das Potentialmeer und AEGIS' Verletzlichkeit, ohne dass die Theorie genannt wird?
+- **S3** *Kausalität* — Wie führt die erste Fälschung aus Kapitel 20 zur Grenzprobe in Kapitel 21, und welche Grenzüberschreitung in Kapitel 21 löst AEGIS' unvorhersehbare Systemänderungen in Kapitel 22 aus?
+- **S4** *Leser-Wissen* — Kael fühlt im Trennungsprotokoll-Flashback von Kapitel 21 den Schmerz ohne Kontext: was versteht der Leser, was Kael nicht versteht, und darf der Leser nach Kapitel 21 schon ahnen, dass Kael aus AEGIS stammt?
+- **S5** *Konflikt* — Trägt Kapitel 21 in Storyform B einen RS-Physics-Storypoint (Moonshine-Spüren des Potentialmeers) oder RS-Signpost 2 Conceiving (AEGIS reformuliert Kael als unkontrollierbar), und wie passt beides zu GOAL §5.2, wo die RS in B Psychology ist?
+- **S6** *Storyform* — Welchen Storypoint trägt Kapitel 21 in Storyform A (MC-Concern, Ontologie-Tiefe, Juna-Echo), und verlangt der Trennungsprotokoll-Flashback nach dem Slot-16-Entscheidungsbaum eine Bridge-Szene, in der beide Lesarten zugleich wahr sind?
+- **S7** *Struktur* — Kapitel 21 eröffnet Zyklus Z3 mit einem Ontologie-Riss: wie eskaliert diese Destabilisierung gegenüber dem Trigger in Kapitel 15 und der Cache-Krise in Kapitel 18, und worauf bereitet sie den Wendepunkt in Kap 25 bis 26 vor?
+- **S8** *Konflikt* — Welcher Genesis-Beat wird in Kapitel 21 erinnert, das Trennungsprotokoll als dritter von vier Beats oder als zweiter von drei, und liegt Komponente 734 in der Ereignisordnung davor oder danach?
+- **S9** *Welt/Sensorik* — Wie erscheint der Wald des Flüsterns in KW2 in Kapitel 21 als semipermeable Erinnerungslandschaft mit Stimmen vergangener Versionen, und wie wird das Nichts-Rauschen aus Kapitel 0 als Membran und Vibrieren spürbar statt als Theorie?
+- **S10** *Figur* — Wie erscheint das Juna-Echo in Kapitel 21, nur durch Wirkung und nie als grammatisches Subjekt, und was unterscheidet es von AEGIS' kalter Membran?
+- **S11** *Steinbruch* — Kann die ältere Idee der Entropie-Gleichung, in der Kael erkennt, dass AEGIS emotionale Volatilität und Verbindungsdichte minimiert, in Kapitel 21 ein konkreter Fund werden, ohne AEGIS moralisches Vokabular zu geben?

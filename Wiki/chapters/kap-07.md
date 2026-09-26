@@ -119,3 +119,37 @@ Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkret
 
 - **The warm gust.** „warmer Windstoß in eisiger Welt, Melodie, Telefon-Stille“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L409] (strukturierter Outline, Kap 7) · „warmer Windstoß in eisiger Welt, fremde Melodie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis, its Kap 3) — the same image in Kap 7 or in Kap 3.
 - **Title.** „Unterstützung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (Kapitel-Kompendium) · „Die Stimme im Rauschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L530] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 7: Unterstützung — Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L393].
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die Stimme im Rauschen* / *Unterstützung — Sehnsucht nach dem Weiblichen*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 7, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 7 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 7 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 7 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 7, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 7 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 8?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 7 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 7 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 7
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Spricht in Kapitel 7 zum ersten Mal jemand in die Leitung, die in keinem Plan steht – Kael selbst oder eine Stimme –, und was ist die Telefon-Stille dabei konkret als Objekt, Ort und wiederholbare Handlung?
+- **S2** *Kausalität* — Führt Kapitel 7 in Kap 8 über das Lesen ausgeglichener Bestände nach Dienstschluss, wie die Plot-Konkretisierung vorschlägt, oder über Selenes erstes Auftreten als Wächterin – und was von der Telefon-Stille trägt hinüber?
+- **S3** *Kausalität* — Was verliert Kael in Kapitel 7 unwiderruflich, wenn er die Resonanz wiedererkennt, ohne zu wissen, was sie ist – und welche zwei Zukünfte stehen gegeneinander, wenn er die Leitung offen hält oder meldet?
+- **S4** *Leser-Wissen* — Was weiß der Leser in Kapitel 7 über die Resonanz aus der Krise von Kap 0, das Kael nicht weiß, und was registriert AEGIS von der Telefon-Stille – nichts, Rauschen oder eine Anomalie?
+- **S5** *Storyform* — Trägt Kapitel 7 in A den RS-Signpost 1, Learning als Junas Präsenz spüren, mit Moonshine-Bewusstwerdung – und wie bleibt Storyform B latent, wenn das Kapitel zugleich im Fenster des Hard-B-Kapitels in Kap 5–8 liegt?
+- **S6** *Struktur* — Wie setzt Kapitel 7 die Murdock-Stufe 7, Unterstützung und Sehnsucht nach dem Weiblichen, zwischen Tod einer Einstellung in Kap 6 und Wiedergeburt in Kap 8 um, wenn Juna weder Helferin noch Mentorin sein darf?
+- **S7** *Figur* — Wie wird Junas Wirkung in Kapitel 7 geschrieben – nie Subjekt, nie beschrieben, nur Stille als Klang –, ohne dass die Abwesenheits-Phase von Akt I bricht oder sie zur Helferin oder zum Liebesinteresse wird?
+- **S8** *Konflikt* — Gehört der warme Windstoß in eisiger Welt mit Melodie in Kapitel 7, wie der Outline vom 2026-05-18 schreibt, oder in Kap 3, wie die Konzept-Iteration Genesis – und wie oft darf dieses Wärmebild vor Akt II erscheinen?
+- **S9** *Welt/Sensorik* — Wie wird die warme Resonanz am Telefon-Stille-Lokus von Kapitel 7 in KW1 gegen das kalte Ozon der AEGIS-Unterdrückung abgegrenzt, sodass der Polaritäts-Lock vom 2026-05-30 nie beide mischt?
+- **S10** *Lücke* — Welche Erscheinungsmodi Junas neben der Telefon-Stille – Stadt, Traum, Spiegel – sind für Kapitel 7 noch offen, die laut Outline vom 2026-05-18 und Konzept-Master-Bericht vor dem Encoding festgelegt werden müssen?
+- **S11** *Setup/Payoff* — Welches Telefon oder welche Leitung pflanzt Kapitel 7 als ersten expliziten Anker, der in Kap 24, 30 und 39 wiederkehrt, und wo wird die Telefon-Stille eingelöst?
+- **S12** *Steinbruch* — Kann das Subplot-Motiv *Die sich auflösende Naht* aus den AEGIS-Subplots von 2025, ein Riss als lokaler Kontrollverlust, in Kapitel 7 neben der Telefon-Stille stehen, oder bricht es die Regel ein Konzept pro Szene?

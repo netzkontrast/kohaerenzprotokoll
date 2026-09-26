@@ -135,3 +135,37 @@ Position: „Vortex 1 | 35–36 | Der Apparat kollabiert auf sein Ziel“ ^[kp-p
 - **When AEGIS-monolithisch goes out.** Here: „AEGIS-monolithisch erlischt (Kap 36)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (Kapitel-Kompendium) · „B-Cost: AEGIS-monolithisch erlischt (Kap 36)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (storyform outline) · „AEGIS-monolithisch erlischt — als operative Form. Aber: nicht zerstört.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1116] (strukturierter Outline). In Kap 39: „Beat 3: AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L923] (konsolidiertes Konzept) · „AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L412] (storyform outline).
 - **Landauer warmth.** „Landauer-Wärme als Schluss-Markierung; Stille danach“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648] (Konzept-Iteration Genesis; also the 39-chapter spec) · „Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1128] (strukturierter Outline) · „Der Landauer-Wärme-Spike bleibt kanonisch allein für Vortex-1-Beat-4“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458] (storyform outline) · „Landauer-Wärme ausschließlich Beat 4“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239] (Plot-Konkretisierung). (C11)
 - **Stage.** „HR-Stufe 9: Reward — Vorgriff“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L646] (Konzept-Iteration Genesis) · „HR-außen Stufe 10: Reward (in Vortex-Mechanik gespiegelt)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1103] (strukturierter Outline) · „Vortex 1 (Kap 35–36) — Operative Wendung (HR 9: Ordeal)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L368] (storyform outline), which puts Reward in the next chapter: „37 Reward (= trügerischer Sieg)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L438] (storyform outline).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Vortex 1 Beats 4–5* / *Vortex Beat 4–5 — Stille, Übergang*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 36, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 36 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 36 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 36 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 36, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 36 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 37?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 36 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 36 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 36
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Was macht der Heat Spike von Vortex 1 Beat 4 in Kapitel 36 mit Kaels Körper, wenn die Erasure das integrierte, MI-dichte Ziel trifft, und ist Kael in diesem Beat Handelnder, Ziel oder nur Ort des Geschehens?
+- **S2** *Konflikt* — Erscheint Landauer-Wärme in Kapitel 36 nur als Spike in Vortex 1 Beat 4, wie der Polaritäts-Lock vom 2026-05-30 sagt, oder auch als Schluss-Markierung am Kapitelende, wie konsolidiertes Konzept und Outline vom 2026-05-18 sagen?
+- **S3** *Konflikt* — Erlischt AEGIS-monolithisch in Kapitel 36 als B-Cost (Kapitel-Kompendium, Storyform-Outline) oder erst in Kapitel 39 beim Entstehen von AEGIS-plural, und was ist AEGIS-monolithisch zwischen Kapitel 36 und 39?
+- **S4** *Kausalität* — Worauf öffnet Beat 5 in Kapitel 36, wenn laut konsolidiertem Konzept etwas nicht erledigt ist, und welches beobachtbare Ereignis exportiert Kapitel 36 in den trügerischen Sieg von Kapitel 37?
+- **S5** *Leser-Wissen* — Was glaubt der Leser am Ende von Kapitel 36, nachdem die Truth-Rotation komplett ist, über Sieg und Niederlage, und welche falsche, plausible Deutung soll bis zum Rauschen in Kapitel 38 stehen bleiben?
+- **S6** *Storyform* — Wie werden in Kapitel 36 B-Outcome Failure und B-Cost manifest, während A Resolve Change vollzogen ist, und wie erscheint AEGIS' Algorithmische Melancholie ohne moralisches Vokabular?
+- **S7** *Struktur* — Welche Heldenreise-Stufe trägt Kapitel 36 – Ordeal (Storyform-Outline), Reward-Vorgriff (Konzept-Iteration Genesis) oder Reward in Vortex-Mechanik (Outline vom 2026-05-18) –, und wie wird der Übergang 36/37 als Konsolidierung auf nur noch A erkennbar?
+- **S8** *Figur* — Welcher Alter spricht den letzten Satz von Kapitel 36, dem Klimax-Kapitel von Vortex 1, eine Frage, die Storyform-Outline und Plot-Konkretisierung beide offen lassen, und was exportiert diese Stimme in Kapitel 37?
+- **S9** *Figur* — Übernimmt Oblivion in Kapitel 36 AEGIS' Funktion in Kaels Innensystem, als Wachheit, die entscheidet statt automatisch löscht, wie der Outline vom 2026-05-18 sagt, und wie wird das gezeigt, ohne die Stimme zu labeln?
+- **S10** *Lücke* — Wie bricht in Kapitel 36 bei der Substrat-Berührung von Beat 4 die Externe Ebene durch, und was sieht, hört oder spürt Kael dabei – eine Frage, die Kernwelten vollständig als offen markiert?
+- **S11** *Setup/Payoff* — Der Klick verstummt laut Plot-Konkretisierung in Kapitel 36 Beat 5; wo wurde der Klick als Motiv gepflanzt, und wie verhält sich sein Verstummen zum einmaligen Klick ohne Ozon in Kapitel 40?
+- **S12** *Impact* — Wenn Mnemosyne in Kapitel 36 die erste betroffene Guardian ist, wie die Storyform-Outline sagt, was kippt dann für Kapitel 31, in dem dieselbe Quelle die Auflösung der Guardians erzählt?

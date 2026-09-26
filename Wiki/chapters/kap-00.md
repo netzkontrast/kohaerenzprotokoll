@@ -154,3 +154,37 @@ Position: „Genesis-Prolog | 0 | Latenz“ ^[kp-plot-konkretisierung-13-ideen-f
 - **Storyform A.** „nur B aktiv, A als Phantom-Latenz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L213] (strukturierter Outline) · „nur B (MC-S1 Past); A als Phantomgefühl“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] (Kapitel-Kompendium) — A named a latency or a phantom feeling. The Doppel-Klammer Abhandlung, citing a `Storyweaving-Dokument` for the phantom reading, says B is not active either until the Klick: „Das ist nicht falsch, aber es verdeckt eine subtilere Wahrheit: Vor Kap 0 gibt es noch *keine* B-Storyform im aktiven Sinn." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L112]
 - **The knuckles.** The thread „lebt in Kap 0 allein (Knöchel-Eruption, Nyx)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459] (storyform outline); the draft text of Kap 0, three weeks and more earlier, has neither knuckles nor Nyx, and ends on „In unzählige Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513]; the annotated draft nine days later has them, in Nyx's voice as the separation runs — „Knöchel — gibt es keine. Aber sie bluten." ^[kap0-v1-annotiert-md.md:L977] (C10)
 - **Kael and the component.** In the draft text Kael is what the protocol cuts away: „Sein Name wird Kael sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L505] In the annotated draft he is the component itself, before the crisis: „gerade diese Komponente wird Kael." ^[kap0-v1-annotiert-md.md:L433] (C12)
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Genesis-Prolog* / *Kapitel 0 — Genesis*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 0, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 0 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 0 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 0 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 0, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 0 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 1?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 0 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 0 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 0
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Welche wiederholbare Handlung des Funken-Ichs – Clustern, Einrasten im Klick, Filtern – ersetzt in Kapitel 0 den fehlenden Menschen, Ort und Alltag, und welches Objekt macht die Werdung von AEGIS konkret statt kosmologisch?
+- **S2** *Kausalität* — Wie greift der Schluss von Kapitel 0, der Fall in unzählige Scherben, als harter Schnitt in den gelockten Erstsatz von Kapitel 1 – und darf dazwischen ein Kael-Schnipsel wie Kacheln und einundzwanzig Grad stehen?
+- **S3** *Kausalität* — Ist das Trennungsprotokoll in Kapitel 0 als Wahl zwischen zwei genuinen Zukunftsverlusten geschrieben – Fühlen auslagern, Denken retten –, statt als Fehler, und was davon bleibt bis Kap 39 irreversibel?
+- **S4** *Leser-Wissen* — Was weiß der Leser am Ende von Kapitel 0 über AEGIS, Komponente 734 und die unbenannte Resonanz, das Kael in Kapitel 1 nicht weiß, und welche falsche, plausible Deutung des Genesis-Prologs bleibt bis zum Vortex stehen?
+- **S5** *Storyform* — Ist in Kapitel 0 nur Storyform B aktiv, mit MC-Signpost Past und A als Phantomgefühl, oder entsteht nach der Doppel-Klammer Abhandlung auch B erst mit dem Klick – und welche Storypoints von B trägt der Prolog dann?
+- **S6** *Struktur* — Wie wird Kapitel 0 als Ki der Kishōtenketsu und als Genesis-Hälfte der Klammer Kap 0 ↔ Kap 40 gebaut, damit Kap 40 Vorwort, Genesis, Krise und Trennungsprotokoll halb so lang echoen kann, ohne zu wiederholen?
+- **S7** *Konflikt* — Wie viele Genesis-Beats erzählt Kapitel 0 – fünf oder sechs Stationen, zwei von vier Beats oder drei von vier – und steht Komponente 734 vor dem Trennungsprotokoll oder ist sie sein Ergebnis?
+- **S8** *Konflikt* — Ist Kael in Kapitel 0 der Rest, den das Trennungsprotokoll aus Komponente 734 herausschneidet, wie der Entwurf vom 2026-05-08 schreibt, oder die Komponente selbst, wie der annotierte Entwurf vom 2026-05-17 – und was folgt daraus für Kap 40?
+- **S9** *Setup/Payoff* — Gehört die Knöchel-Eruption in Nyx' Vorform-Stimme ins Trennungsprotokoll von Kapitel 0, und wo wird dieser Schmerz-bleibt-Faden eingelöst, wenn Kapitel 1 spurlos bleiben soll und die Wiederkehr am Ende offen ist?
+- **S10** *Welt/Sensorik* — Welche Temperatur hat Junas Resonanz in der Resonanzkaskade von Kapitel 0 – eine Wärme, die es nicht geben kann –, und wie verhält sie sich zur Hitze der Analyseprozesse und zum Polaritäts-Lock vom 2026-05-30?
+- **S11** *Figur* — Dürfen in Kapitel 0 elf Vor-Stimmen späterer Alters von Moros bis Oblivion klingen, obwohl der Multiplizitäts-Schleier bis Kap 13 hält – und darf Alex vor dem Trennungsprotokoll klingen, wenn er erst in der Fragmentierung entsteht?
+- **S12** *Setup/Payoff* — In welcher Person steht die Formel in Kapitel 0 – *AEGIS ist, was AEGIS verhindert, dass es nicht ist* oder in der ersten Person des Funken-Ichs –, und wie muss Kap 39/40 sie strukturell spiegeln, ohne sie wörtlich zu wiederholen?

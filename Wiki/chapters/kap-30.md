@@ -110,3 +110,36 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Title.** „Junas Kanal“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L622] (Konzept-Iteration Genesis) · „Meeting Mentor: K-J Verbindung Kulmination“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L951] (strukturierter Outline) · „K-J-Verbindung als bewusster Kanal“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L227] (Kapitel-Kompendium); the second opens with the Genesis document's stage name, „HR-Stufe 4: Meeting Mentor“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L622] (Konzept-Iteration Genesis).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Junas Kanal* / *Meeting Mentor — K-J Verbindung Kulmination*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 30, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 30 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 30 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 30 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 30, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 30 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 31?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 30 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 30 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 30
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Mit welcher wiederholbaren Handlung macht Kael in Kapitel 30 die Verbindung zu Juna zum stabilen, bewussten Kanal, und wie unterscheidet sie sich von seinem Suchen des Kanals während der Störungen in Kapitel 24?
+- **S2** *Kausalität* — Wie führt die Integration des Kind-Anteils in Kapitel 29 zur Stabilisierung des Kanals in Kapitel 30, und welches Ereignis am Ende von Kapitel 30 leitet zur ersten Schwelle und zu den Guardians in Kapitel 31?
+- **S3** *Leser-Wissen* — Was wissen Leser, Kael und AEGIS am Ende von Kapitel 30 über Juna, wenn der Kanal laut Plot-Konkretisierung keine Kennung hat und für den Apparat deshalb nicht existiert?
+- **S4** *Figur* — Wie kann Juna in Kapitel 30 als Mentor der Heldenreise außen wirken, wenn sie nie Subjekt, nie beschrieben und nie Deus ex machina ist, und laut der Outline vom 2026-05-18 nur die Telefon-Stille klingt?
+- **S5** *Storyform* — Welche Storypoints trägt Kapitel 30 in A, RS-Physics mit Moonshine als bewusstem Kanal und RS-Maximum, und ist B hier wirklich latent, sodass das Kapitel Hard-A wird, und wie passt das zur steigenden Bridge-Quote in Akt III-A?
+- **S6** *Struktur* — Wie funktioniert Kapitel 30 als Meeting the Mentor, Stufe 4 der Heldenreise außen, und zugleich als Resonanz-Maximum vor dem Vortex: welchen Abstand braucht es bis Vortex 1 in Kapitel 35–36?
+- **S7** *Setup/Payoff* — Wo wird die Verbindung von Kael und Juna gepflanzt, die in Kapitel 30 als bewusster Kanal kulminiert, etwa in der Telefon-Stille von Kapitel 24, und wo zahlt sie sich in Junas direkter Erscheinung aus, die Quellen in Kapitel 33 oder 38 setzen?
+- **S8** *Setup/Payoff* — Wie echot Kapitel 30 den Ur-Resonanz-Modus aus Kapitel 0, den mehrere Outlines hier als jetzt angenommen bezeichnen, mit höchstens einem Genesis-Echo pro Szene?
+- **S9** *Welt/Sensorik* — Trägt der klingende Kanal in Kapitel 30 Wärme als Junas Spur, und wie wird das Resonanz-Maximum sinnlich gebaut, ohne kaltes Ozon und Wärme zu mischen und ohne Moonshine als Theorie auszusprechen?
+- **S10** *Lücke* — Was geschieht in Kapitel 30 mit dem Beginn des Gödel-Gambits und dem Echo der Externen Ebene, die nur Kernwelten vollständig hier verortet, und wie werden sie ohne DKT-Vokabular sichtbar?
+- **S11** *Impact* — Wenn in Kapitel 30 laut Plot-Konkretisierung der Kanal der Karte aus der Wärme-Kartographie folgt, was kippt an diesem Kapitel, falls der Autor Wärme nicht als Junas Spur festlegt?

@@ -96,3 +96,35 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Title.** „Angst des Kindes“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis) · „Refusal: Letzte Zweifel, Trauma-Echo“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L927] (strukturierter Outline); the second opens with the Genesis document's stage name, „HR-Stufe 3: Refusal“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis).
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Angst des Kindes* / *Refusal — letzte Zweifel, Trauma-Echo*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 29, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 29 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 29 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 29 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 29, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 29 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 30?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 29 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 29 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 29
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Welche konkrete letzte Trauma-Erinnerung taucht in Kapitel 29 auf, gehört sie Kiko oder Kael, und an welchem Objekt oder Ort der Vergangenheit hängt sie, sodass sie im Kapitel wiederkehren kann?
+- **S2** *Kausalität* — Wie wächst das Refusal in Kapitel 29 aus der Purge-Drohung von Kapitel 28, und was muss Kael bis zum Ende integrieren, damit Kapitel 30 die Begegnung mit Junas Kanal werden kann?
+- **S3** *Kausalität* — Worin besteht die Weigerung in Kapitel 29 als echte Wahl mit Preis: welche zwei genuinen Zukunftsverluste stehen vor Kael, und was ist nach dem Kapitel nicht mehr umkehrbar?
+- **S4** *Leser-Wissen* — Was versteht der Leser in Kapitel 29 über Kiko und die kindliche Angst, was Kael nicht versteht, und welche falsche, plausible Deutung des Rückfalls bleibt am Ende stehen?
+- **S5** *Storyform* — Welche Storypoints trägt Kapitel 29 in A, MC-Problem Avoidance als letztes Aufflammen, und in B, RS-Psychology mit tiefer Verstrickung und Host-System-Symbiose, und wessen Throughline führt das Kapitel?
+- **S6** *Struktur* — Wie wird Kapitel 29 als Refusal der Heldenreise außen gebaut, wenn Kael seit Kapitel 26 entschlossen handelt: ist die Weigerung ein Rückfall, eine Probe der Integration oder ein Echo der Heldinnenreise aus Kapitel 1 bis 13?
+- **S7** *Figur* — Wie erscheinen Kiko und Moros in Kapitel 29, laut der Outline vom 2026-05-18 Kiko deutlich sichtbar und Moros im Hintergrund, ohne Stimmen zu labeln, und trägt Kiko hier die Flight-Funktion, die C15 offen lässt?
+- **S8** *Welt/Sensorik* — Wie wird der Eintritt in KW4, den Möglichkeits-Garten, in Kapitel 29 als Phase-Shift statt als Ortswechsel gebaut, und wie verträgt sich das Engerwerden der Angst mit der Stilebene 3, die Kernwelten vollständig hier erstmals voll ansetzt?
+- **S9** *Lücke* — Was trägt Kapitel 29 an Handlung, wenn die Plot-Konkretisierung den Apparat-Faden F1 hier bewusst ruhen lässt: welches lokale Ziel und welche Gegenkraft hat das Kapitel ohne diesen Faden?
+- **S10** *Steinbruch* — Kann LogOS austricksen aus der AEGIS-Subplot-Sammlung vom 2025-08-05, eine selbstwidersprüchliche Aussage, die einen logikbasierten Guardian in eine Schleife zwingt, in Kapitel 29 Platz finden, nachdem der Autor fünf Guardians samt LogOS entschieden hat?

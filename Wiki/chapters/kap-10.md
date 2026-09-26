@@ -122,3 +122,37 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 - **Storyform B.** „A: RS-Physics, Moonshine als Werkzeug. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980] (konsolidiertes Konzept) · „MC-S2 (B) Present beginnt einzusetzen — Erasure-Sweeps werden hörbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L469] (strukturierter Outline).
 - **The number 734.** „Die Zahl 734 taucht zum zweiten Mal auf — somatisch verankert, ohne erklärt zu werden.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L473] (strukturierter Outline, Kap 10) · „Die Zahl 734 taucht erstmals als Foreshadowing auf.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] (strukturierter Outline, its Kap 2) · „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline, its Kap 1) — counted second, after a first in Kap 2, in a document that names it in Kap 1.
 - **Title.** „Erste Anwendung der Integration“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (Kapitel-Kompendium) · „Die erste Brücke“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L542] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the strukturierter Outline's stage „HR-Erweiterung 1: Erste Anwendung der Integration“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L465].
+
+## Questions for this chapter
+
+What a reader of this chapter's sources should be looking for, asked before any search. Questions, not readings: none is answered here.
+
+### Basic — what every author asks of a chapter
+
+The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die erste Brücke* / *Erste Anwendung der Integration*.
+
+- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 10, und wer oder was stellt sich ihr dabei in den Weg?
+- **B2** *Einsatz* — Was steht in Kapitel 10 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
+- **B3** *Veränderung* — Was ist am Ende von Kapitel 10 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 10 erzählt, und warum gerade aus dieser?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 10, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 10 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 11?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 10 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 10 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+
+### Specific to Kap 10
+
+Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, Dramatica and craft, going beyond the basic eight (`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).
+
+- **S1** *Konkretheit* — Welches Problem löst Kael in Kapitel 10 konkret durch Lex-Analyse und intuitive K-J-Verbindung – laut Plot-Konkretisierung hält er einen Datensatz, ohne zu klicken – und was riskiert er damit?
+- **S2** *Konflikt* — In welcher Welt spielt Kapitel 10: in KW1, in einem McL- oder Moonshine-Vorschein innerhalb von KW1, oder in der McL-Welt, wie die Konzept-Iteration Genesis sagt?
+- **S3** *Storyform* — Setzt in Kapitel 10 in Storyform B MC-S2 Present mit hörbaren Erasure-Sweeps ein, wie der strukturierte Outline sagt, oder bleibt Storyform B latent – und was hieße das für die Bridge-Quote in Akt I?
+- **S4** *Storyform* — Wie wird in Kapitel 10 der Storypoint RS-Physics in Storyform A, Moonshine als Werkzeug oder A-Requirement Moonshine-Bewusstsein, als Handlung zwischen Kael und Juna sichtbar?
+- **S5** *Setup/Payoff* — Wo taucht die Zahl 734 in Kapitel 10 somatisch auf, und ist es ihr zweites Erscheinen nach Kapitel 2, wenn Kael schon in Kapitel 1 als Komp 734 in Wohneinheit 14 lebt?
+- **S6** *Welt/Sensorik* — Wie wird die Wärmestelle in der Stadt, die Kael ab Kapitel 10 kartiert, beschrieben – als Junas Spur, ohne Landauer als Gleichung und ohne sie mit kaltem Ozon zu mischen?
+- **S7** *Leser-Wissen* — Wenn Multiplizität bis etwa Kapitel 10 nicht ausgesprochen wird, was darf der Leser am Ende von Kapitel 10 über Kaels Vielheit wissen, was Kael selbst, und was AEGIS?
+- **S8** *Struktur* — Warum zählen die Quellen Kapitel 10 bis 12 als HR-Erweiterungen statt als Murdock-Stufen 10 bis 12, und welche Stufen der dreizehnstufigen Heldinnenreise fehlen damit in Kapitel 10?
+- **S9** *Kausalität* — Welche Zukunft verliert Kael, wenn er die K-J-Verbindung in Kapitel 10 erstmals als Werkzeug benutzt statt sie nur zu spüren – wird sie dadurch für AEGIS messbar, und ist das umkehrbar?
+- **S10** *Figur* — Wie wirkt Juna in Kapitel 10 nur durch Wirkung und nie als Subjekt, und wie erscheint Silas dort als latente Resonanz?
+- **S11** *Figur* — Was bedeutet in Kapitel 10 die Wohneinheit 734 mit Mnemosynes Versuchung, gespiegelt, und Mnemosyne als Echo, wenn Mnemosyne erst in Kapitel 14 deutlich auftritt?
+- **S12** *Steinbruch* — Kann das ältere Motiv, dass Kael in Kapitel 10 den Ort des Risses aus Kapitel 7 wieder besucht und Narbengewebe einer Flickwerk-Realität findet, eine Lücke füllen, ohne einen Lock zu verletzen?
