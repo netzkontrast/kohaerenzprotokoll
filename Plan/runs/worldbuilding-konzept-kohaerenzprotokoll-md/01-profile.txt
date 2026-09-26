@@ -1,0 +1,14 @@
+# worldbuilding-konzept-kohaerenzprotokoll-md
+  lines                969  (frontmatter ends at 9)
+  body words           6057
+  headings             53   bold-only lines 13
+  table rows           32   code fences 0
+  question marks       15
+  backslash escapes    134
+  typographic marks    178   ascii quotes 21
+  invisible characters none
+  math symbol lines    23
+  glued ref numbers    41
+  repeated labels      Konzept x6, Logik x6, Wichtige Sub-Lokalitäten x6, Ästhetik x6, Risse x4, Sensorik x4, Stilebene x4, Somatik x3
+  longest line         503 chars
+
