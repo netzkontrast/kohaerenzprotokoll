@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 19
+sources: 20
 pages: ["juna"]
 ---
 
@@ -192,3 +192,11 @@ Her nature is left open on purpose: „Junas Natur nicht aufgelöst (Echo? Erinn
 **An Entität arrives in Kap 0, unnamed.**
 „Die Entität strahlte etwas aus“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L371] — and the fragment feels it as „die fremd ist und doch nicht fremd“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L503].
 The text names no figure (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`): it does not say who the Entität is, and places no appearance of anyone by name.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**No appearance placed — a revelation in Akt II, a nameless seed from Ch1, and Kael's acceptance of her in Ch34.**
+„Revelation-Timing: KW2/KW3 (Akt II), nicht früher." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378] „Juna-Seed seit Ch1, aber namenlos." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378]
+„Niemals physisch beschrieben." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L374] Her modes are an open point: „Junas Erscheinungsmodi. Telefon-Stille als Anker steht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L892] „Andere Modi (Erscheinung in Stadt, Traum, Spiegel) müssen konsistent sein." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L892] And her point of view: „Junas POV: offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L415]
+One chapter is placed for her, as a place in KW4: „Das Mosaik-Herz — der Ort, an dem Kael Juna als Teil seiner selbst akzeptiert (Ch34, vor Vortex)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L620] — an acceptance, not called an appearance. The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]] stands in the [[externe-ebene|Externe Ebene]] with no chapter and no scene (L667). `Ch38` and `Kap 38` stand 0 times; `Ch33` three times, none of them hers (L646, L739, L954).
+The master report's position, on its date: a revelation in Akt II, neither Kap 33 nor Kap 38 — with a Ch34 scene this record has not held.
