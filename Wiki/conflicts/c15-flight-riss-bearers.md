@@ -4,7 +4,7 @@ subject: the Flight riss — Lia with Isabelle, or with Kiko
 kind: one row of the riss table, two pairs of bearers in canon-era sources, two of them of one date and five of another
 status: open
 first_seen: "2026-09-25"
-sources: 8
+sources: 9
 pages: ["risse", "kiko", "lia", "isabelle"]
 ---
 
@@ -64,3 +64,10 @@ discussion** with the author, and closes when the author decides it.
 „Die fünf Riss-Typen (Fight/Freeze/Flight/Collapse/Sex = kinetisch/temporal/spatial/gravitational/sensorisch) bleiben als interne Reaktionsmuster aktiv" ^[kohaerenz-protokoll-konzept-master-md.md:L422]
 The roster's EP labels are Fight, Freeze, Ambivalent, Sexualisiert and Collapse (L393–L397). The riss table then assigns Flight by inference: „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049], and gives [[isabelle|Isabelle]] Sex as well: „Sex (Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1051]. [[kiko|Kiko]] is Freeze only (L394, L1048).
 The konsolidiertes Konzept's pair, on its date, with the word `implizit` the other sources do not write (J89).
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Lia and Isabelle, in the riss table — and no alter in its roster labelled Flight.**
+„(Flight, Lia/Isabelle)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L682], the spatial row; [[isabelle|Isabelle]] carries the sensory row too, „Isabelle (Sex)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L684]; [[kiko|Kiko]] is Freeze only, „Kiko (Freeze)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L681]. KW2's Risse repeat the pair: „spatiale Risse (Lia/Isabelle-Trigger)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L524].
+The roster's EP labels are Fight, Freeze, Ambivalent, Sexualisiert and Kollaps (L404–L408); `Flight` stands once, in the table's parenthesis, and `implizit` 0 times.
+Row 2's pair, in row 2's words, on its date — the table the master report (row 8) marks `implizit`, here unmarked.
