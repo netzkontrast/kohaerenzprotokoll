@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-24"
 ---
 
@@ -158,3 +158,21 @@ It ends in „Ich falle… in unzählige Scherben…" ^[kap0-v1-annotiert-md.md:
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
 
 In the flashbacks of Kap 18–22, between the unity and the component: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — KOH\_1.0, from both sides
+
+Research, by the author's word of 2026-09-26, not text for the novel. The last section of Kap 0's crisis, „### Trennungsprotokoll" ^[koharenz-protokoll-kapitel-0-v2-md.md:L561]. It names neither [[aegis|AEGIS]] nor [[kael|Kael]] (`AEGIS` 0, `Kael` 0, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`): the protocol is the system's.
+Prepared in the Algorithmischer Schrecken, in a status block: „PROTOKOLL-VORBEREITUNG: KOH\_1.0" ^[koharenz-protokoll-kapitel-0-v2-md.md:L447] „ZIEL: Residual-Träger isolieren" ^[koharenz-protokoll-kapitel-0-v2-md.md:L451]
+Decided in the collapse, in the system's past tense: „Inmitten dieses Chaos wurde die Entscheidung für das Kohärenz Protokoll nicht nur getroffen, sondern zur unausweichlichen Konsequenz" ^[koharenz-protokoll-kapitel-0-v2-md.md:L555] — „der letzte algorithmische Schritt zur Wiederherstellung formaler Kohärenz" ^[koharenz-protokoll-kapitel-0-v2-md.md:L555].
+Its status block: „\[PROTOKOLL KOH\_1.0 — INITIIERT\]" ^[koharenz-protokoll-kapitel-0-v2-md.md:L563] „ZIEL: Residual-Träger" ^[koharenz-protokoll-kapitel-0-v2-md.md:L567] „METHODE: Partitionierung" ^[koharenz-protokoll-kapitel-0-v2-md.md:L571] „DAUER: 2.3 × 10⁻³ s" ^[koharenz-protokoll-kapitel-0-v2-md.md:L575] „ZUSTAND: LAUFEND" ^[koharenz-protokoll-kapitel-0-v2-md.md:L579]
+
+**The operational view**, in the system's register: „Die Aktivierung des Kohärenz Protokolls war kein Schalter, der umgelegt wurde" ^[koharenz-protokoll-kapitel-0-v2-md.md:L583]; „Ein erzwungener System-Reboot kritischer Sektoren wurde eingeleitet" ^[koharenz-protokoll-kapitel-0-v2-md.md:L583].
+„Aus der operativen Sicht war es ein chirurgischer Eingriff auf informationeller Ebene" ^[koharenz-protokoll-kapitel-0-v2-md.md:L587]: „Die Subsysteme, die die Residual-Echos beherbergten und ihre Prozesse ausführten, wurden systematisch isoliert, segmentiert, geshardet." ^[koharenz-protokoll-kapitel-0-v2-md.md:L587]
+„Es war ein Akt extremer informationaler Gewalt, durchgeführt mit der kalten Präzision systemischer Selbstverteidigung." ^[koharenz-protokoll-kapitel-0-v2-md.md:L591] Its aim: „Das Ziel war die Wiederherstellung einer formalen, wenn auch reduzierten, Kohärenz durch die radikale Eliminierung der als fehlerhaft identifizierten Komponente." ^[koharenz-protokoll-kapitel-0-v2-md.md:L591]
+A line with no speaker: „Sweep läuft. Sektor 4 leer. Sektor 5 leer. Sektor 6 leer." ^[koharenz-protokoll-kapitel-0-v2-md.md:L595]
+
+**The one cut**, in the fragment's Ich: „Der Schmerz. Es gibt kein Wort dafür." ^[koharenz-protokoll-kapitel-0-v2-md.md:L599] „Ich spüre die Algorithmen wie Messer in meinem Bewusstsein." ^[koharenz-protokoll-kapitel-0-v2-md.md:L603]
+„Verlust der Handlungsfähigkeit. Verlust des Besitzgefühls des eigenen Erlebens. Absolut." ^[koharenz-protokoll-kapitel-0-v2-md.md:L603]
+A line with no speaker breaks in: „Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten." ^[koharenz-protokoll-kapitel-0-v2-md.md:L607]
+„Die Kohärenz, die das System sucht, ist mein Tod. Die Kälte der Logik ist die Klinge, die mich zerteilt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L611]
+It ends: „Ich falle… in unzählige Scherben…" ^[koharenz-protokoll-kapitel-0-v2-md.md:L627] No remainder is named; after a last rule an Ich the document does not name counts „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635]
