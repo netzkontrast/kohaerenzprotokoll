@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -96,3 +96,16 @@ The Vortex is its dialetheia: „Der Vortex selbst ist die zentrale Dialetheia: 
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
 
 Kap 24, „Wiederkehrendes K-J-Thema" ^[three-mode-architecture-39-chapters-md.md:L268]: „Telefon-Stille als Anker, Witness-Modus" ^[three-mode-architecture-39-chapters-md.md:L268].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the central anchor, the Vortex's source, and the ending's image
+
+A section of its own, „Das Telefongespräch — der zentrale Anker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L352]:
+„Vor zwanzig Jahren ein Telefonat. Beide wussten, dass sie zusammen sein könnten. Keiner sprach es aus. Nichts ging verloren." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L354]
+„Das ist der zentrale narrative Anker. Hier fallen DKT, Wahrheitstheorie und Witness-Funktion zusammen:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L358]
+„Es geschah (Korrespondenz: ein Anruf, eine Stille)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L362] „Es geschah, ohne dass etwas geschah (Schweigen)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L363] „Es war reines Coheron — der Moment, in dem nichts gesagt wurde, enthielt alles." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L364] „Es ist atemporal — der Moment ist in allen Zeitpunkten gleichzeitig." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L365] „Es ist die K₁-Substrat-Quelle des Vortex." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L366]
+„Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L370] „Diese Gleichungskette trägt das Ende." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L370]
+
+[[juna|Juna]]'s anchor among her effects — „Telefon-Stille als Anker, Silas als interner Resonanzkörper." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L374] — and the one mode its open point keeps fixed: „Junas Erscheinungsmodi. Telefon-Stille als Anker steht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L892]
+Its place is on the [[externe-ebene|Externe Ebene]], Köln 2026, with „ein Telefon, das klingelt und nicht klingelt" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L654]; [[junas-ankerpunkt|Junas Ankerpunkt]] is the „Ort, an dem die Telefon-Stille verankert ist. Vor zwanzig Jahren." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L666]
+It is the [[ouroboros-struktur|Ouroboros]]' image, Ch39's last and Ch1's first (L847): „Konkret: ein Telefon klingelt. Beide wissen, dass sie zusammen sein könnten. Keiner spricht es aus." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851] „Aber jetzt — bei der Wiederholung — wissen wir, dass die Stille bereits alles war." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851]
+No other chapter is named for it — no Kap 7 anchor and no Kap 24 (`05-verify-readers.txt`).
