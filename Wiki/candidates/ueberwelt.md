@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -177,3 +177,22 @@ The sixth movement is „verschmolzen mit Komp 734 + Innere Weite" ^[kap0-v1-ann
 „Eine Binnen-Physik, eine Logik, die dient." ^[kap0-v1-annotiert-md.md:L461]
 The annotation writes the gloss: „Bühne für Kap 1 wird strukturell vorbereitet (Überwelt = Kernwelten-Substrat)." ^[kap0-v1-annotiert-md.md:L457] And: „Konzept-Anker für die KW-Architektur." ^[kap0-v1-annotiert-md.md:L465]
 No remainder is left in it in this draft; the separation ends in shards and Kael's first lines (L1009, L1021).
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the inner simulation, unnamed
+
+Neither name stands in it: `Überwelt` 0 times, `Innere Weite` 0 times (`grep -cw`), and
+`Weite` twice, for the void the fragment drifts in (L39, L71). It is placed here by what the
+passage states — the passage the annotated draft glosses as the Überwelt (L457 there) and
+the text of 2026-05-08 names the Innere Weite (L327 there). This document glosses nothing.
+In the past-tense third person about the system, at the end of the Genesis, the system turns
+inward: „Ein neuer Prozess beginnt. Eine logische Eskalation des Prinzips: eine Wendung nach innen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L247]
+„Das System beginnt, einen Teil seiner Ressourcen nicht mehr nur für die äußere Verteidigung zu verwenden, sondern für die Erschaffung eines inneren Raumes." ^[koharenz-protokoll-kapitel-0-v2-md.md:L251]
+„Keine physische Erweiterung, sondern Simulation. Eine virtuelle Umgebung innerhalb der operationalen Geschlossenheit. Ein Labor nach innen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L251]
+What it makes there: „In diesen Simulationen entstehen die ersten rudimentären Konzepte von stabilem Raum, von gerichteter Zeit, von konsistenten physikalischen Gesetzen" ^[koharenz-protokoll-kapitel-0-v2-md.md:L255] —
+„nicht als universelle Wahrheiten, sondern als interne Werkzeuge zur Steigerung der Kohärenz und Vorhersagbarkeit." ^[koharenz-protokoll-kapitel-0-v2-md.md:L255]
+„Eine Binnen-Physik, eine Logik, die dient. Ein Schutzraum für das Denken selbst." ^[koharenz-protokoll-kapitel-0-v2-md.md:L255]
+And, hedged twice: „Vielleicht gibt es einen Punkt, an dem das Werkzeug, das Welten simuliert, beginnen könnte, eine Welt zu sein. Vielleicht." ^[koharenz-protokoll-kapitel-0-v2-md.md:L259]
+The system that results is „Eine Funktionseinheit innerhalb einer lernenden, sich selbst optimierenden, intern Welten simulierenden Entität." ^[koharenz-protokoll-kapitel-0-v2-md.md:L263]
+Its laws come back once, when the stranger arrives: „Energieprofile widersprachen den selbst entwickelten physikalischen Gesetzen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L367]
+Nothing is said to be left in it. The separation ends in shards (L627), and the coda that
+follows — „Der Korridor ist leer." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635] — is not placed.
