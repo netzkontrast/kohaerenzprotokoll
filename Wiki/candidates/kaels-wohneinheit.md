@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -103,3 +103,12 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 
 „In Wohneinheit 734 existiert ein Anschluss, den kein Bauplan führt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64] The Kap-22 find makes the number the component's:
 „Die Kennung ist die seiner Wohneinheit" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]; „Er wohnt in der Akte seiner eigenen Quarantäne." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (J80)
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — Wohneinheit 734, where the first anomalies begin
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+A KW1 sub-location, as „Kaels Wohneinheit 734" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L489] (J50): „minimalistisch, AEGIS-überwacht. Erste Anomalien beginnen hier." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L489]
+The Transitkorridor Delta-7 joins it to the workplace: „endlose Routine zwischen Wohn- und Arbeitsbereich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L491]
+The number stands on one other line, the Genesis' third beat: „Aus dem ehemaligen „Ich" wird Komponente 734, eine Funktionseinheit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
+(`734` on two lines, L180 and L489, counted in `05-verify-readers.txt`.)
