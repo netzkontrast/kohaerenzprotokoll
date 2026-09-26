@@ -1,0 +1,252 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "drive_id": "16fH9lfMMZR-S67EgR3aJiKGc-h5Ws2MeJu61xcVCq-4",
+  "step": "reconcile",
+  "at": "2026-09-26",
+  "by": "hand, after scripts/reconcile.py pre-classification; readings, record entries and chapter readings written by three Claude readers in the container from Plan/runs/2026-09-14-kap25-vertiefung-md/readings-brief.md, each file reviewed, checked and committed on its own by the session; plot.md by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 153,
+    "decisions": 146,
+    "decided_by_lookup": 111,
+    "needs_judgement": 35
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A session log of one drafting run: every candidate that matched no page is the run's vocabulary for a chapter it revised (Schwellensequenz, Nicht-Handlung, Optionlock, Restzahl, Header-Szenenplan …), a rule it checked against (R-1…R-10, Ein-Falschheits-Regel, Schleier-Disziplin, Benennungslock), a place in the chapter named once (Platte 204, Treppenschacht, Wartungsebene, Delta-Sieben, Station 7), or a name it quotes in order to drop it (Nox, Limina, Kai, the Co₁/McL/B/Ly taxonomy). Nothing is defined; a page from it would be a page from an occurrence.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        47,
+        55
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "a deviation registered without a measure; unnamed in drafted Akt II (OQ-25-A)"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        31,
+        47
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "a signature the run says it used"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        39
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "dekanonisiert in a filter note; lead count eleven to twelve"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        39
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "dekanonisierte in a filter note; the grouping the log's own"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        31,
+        47
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "the rule applied to one chapter in a self-review; a contested line"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        47
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "never subject, never name; warmth only as a back-reference"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        22,
+        23,
+        47,
+        56
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "the decision given a bearer, the veil named, three steps down and back"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        56,
+        60
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "Wohneinheit 734 in Akt II, a quieter place for the veil (J50)"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        23,
+        31,
+        39,
+        41,
+        43,
+        60
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "KW3 redeemed by the senses; the Akt II mapping put to the author; two older world documents [S]"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        22,
+        23,
+        60
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "the anchor's third return; EINHEIT 734 with a processing profile (J80 left open)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        60
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "Akt II drafted in its administrative topology; Filterregime statt Ortswechsel"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        31,
+        47
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "a signature the run says it used"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        47
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "the anchor kept"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        21,
+        40,
+        43
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "an older TSDP analysis used for structure only (J62; the title is J9)"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        25,
+        57
+      ],
+      "attribution": "Kap-25 session log",
+      "note": "Vortex 1 Beat 3's missing click, and a local pre-form in Kap 25"
+    }
+  ],
+  "plot_overview": {
+    "page": "Wiki/overview/plot.md",
+    "note": "a reading, and lines under How many chapters and Where Akt III begins: a manuscript of 41 chapter files with Kap 0 among them; its canon's KW2 14–22 and KW3 23–28; Kap 27/28 in Akt III"
+  },
+  "scan_readings_checked": {},
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C9",
+    "C11",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "`Expansion`, `expandiert` 0",
+    "C2": "`Entropie` 0",
+    "C3": "`Emergenz` 0",
+    "C4": "`Guardians` once, only the L39 filter list; nothing relates Guardians to AEGIS",
+    "C5": "`Garten` 0",
+    "C7": "`Juna` once, R-10 (L47), a rule for the chapter's prose; no appearance placed",
+    "C8": "`Approach` once, in the unchanged slot list of L51, no value; `Do-er`, `Be-er` 0",
+    "C10": "`Knöchel` 0",
+    "C12": "`Genesis` only in „Genesis-Echo“ (R-7, J77)",
+    "C13": "`Externe` 0",
+    "C15": "`Flight`, `Lia`, `Kiko`, `Isabelle` 0",
+    "Q1": "`Guardians` once (L39), nothing about AEGIS",
+    "Q2": "ANI, ARS, ECR, Nullpunkt-Protokoll, PMS, RSA, SNK 0",
+    "Q3": "`Alters`, `Alter` 0; names KW2 and KW3 only, counts no worlds",
+    "Q4": "`Wächter` 0"
+  },
+  "judgements": [],
+  "decided_by_existing_rules": "compounds placed by what they name (J8, J28): Telefon-Stille-Anker, AEGIS-Benennung, Vortex 1 Beat 3, Kernwelt-Mapping, Verwaltungstopologie der Konstrukt-Stadt; Hitze-Polarität a short form of the rule's name (J83 by analogy); Genesis-Echo not the Genesis (J77); Echo, a dropped name, not Residual-Echos (J53); Wohneinheit 734 Kael's dwelling (J50); EINHEIT 734 left to its passage (J80); the TSDP row placed by what it states (J62), its document title not the term (J9); Kohärenz in a cited title an occurrence (J9)",
+  "not_read_although_looked_up": {
+    "alters": "no alter named but Alex and Lex in a suspended compound; the veil's „Vielheit“ is placed on kael and kap-25",
+    "multiplizitaet": "`Multiplizität` 0",
+    "did": "no clinical vocabulary, by its own rule R-3",
+    "genesis": "only „Genesis-Echo“ (J77)",
+    "landauer-signatur": "`Landauer` 0; R-5's cold ozone and warmth stand on hitze-polaritaetsregel",
+    "residual-echos": "`Echo` is a dropped name (J53)",
+    "kohaerenz": "only in a cited title (J9)"
+  },
+  "not_promoted": [
+    "the run's method — self-review R-1…R-10, NCP drift check, header scene plan, word counts",
+    "places named once in a chapter it reports — Platte 204, Treppenschacht, Wartungsebene, Treppenkopf, Station 7, Station 11/12, Delta-Sieben",
+    "names quoted to be dropped — Nox, Echo, Limina, Kai, Co₁/McL/B/Ly-Taxonomie",
+    "the six open decisions OQ-25-A…F, quoted on the pages they concern and in NOW.md"
+  ],
+  "sweep": {
+    "hits": 2,
+    "readings": 1,
+    "occurrences": 1,
+    "note": "Vortex L57 a reading; Kohärenz L39 a cited title (J9)"
+  },
+  "internal_tension": "None within itself. It relates its sources and differs from them: it calls Cerberus, Nox, Echo and Limina „dekanonisierte Guardians“ (L39), where read sources have Nox, Echo and Limina as Alters and the author's five include Cerberus; and it says the Sprach-DNA provides AEGIS' log format „ab Akt II“ (L55), which a reader did not find in either landed Sprach-DNA document.",
+  "readers_noticed": "The Plot-Konkretisierung's L229 does read „Kap 25: Die Niederlegung“, as the log says; the log's „ab Akt II“ for the log format was not found in the landed Sprach-DNA documents; kern-welten's frontmatter carried one more ingested entry than sources before this reading; possible author questions: when AEGIS is named to the reader after Kap 1–13, where the veil is named (Kap 25 or 26) — no record created",
+  "chapters": {
+    "readings_on": [
+      24,
+      25,
+      26
+    ],
+    "left_off": {
+      "0": "only as excluded from the word count, „eigene Rahmenpoetik“ (L17)",
+      "30": "only a word count (L17)",
+      "27-28": "only in OQ-25-E's question (L59)"
+    }
+  },
+  "baseline_moved": {
+    "ppr_recall_at_8": [
+      0.643,
+      0.637
+    ],
+    "seeds_recall_at_8": [
+      0.466,
+      0.466
+    ],
+    "cases_moved": {
+      "conflict:C4": [
+        0.556,
+        0.444
+      ]
+    },
+    "why": "cerberus left C4's top eight and alters entered it: the new readings on cerberus, guardians and kern-welten each link [[alters]], and the hub rose again. Recorded with bench --record."
+  }
+}
