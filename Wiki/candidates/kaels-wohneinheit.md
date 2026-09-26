@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -112,3 +112,8 @@ A KW1 sub-location, as „Kaels Wohneinheit 734" ^[worldbuilding-konzept-kohaere
 The Transitkorridor Delta-7 joins it to the workplace: „endlose Routine zwischen Wohn- und Arbeitsbereich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L491]
 The number stands on one other line, the Genesis' third beat: „Aus dem ehemaligen „Ich" wird Komponente 734, eine Funktionseinheit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
 (`734` on two lines, L180 and L489, counted in `05-verify-readers.txt`.)
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — Wohneinheit 734 in Act II, and a quieter place for the veil
+
+A log of one drafting run on a manuscript's Kap 25. In its open question OQ-25-F it names the dwelling among the places of the Konstrukt-Stadt's administrative topology where the drafted chapters 14–26 all play: „(Datenknoten, Delta-Sieben, Wohneinheit 734)" ^[2026-09-14-kap25-vertiefung-md.md:L60] (J50) — against a canon it says assigns 14–22 to KW2 and 23–28 to KW3.
+In OQ-25-B, „Schleier-Benennung: Wortlaut und Ort." ^[2026-09-14-kap25-vertiefung-md.md:L56], a dwelling, written without its number, is the alternative place for the veil sentence set in the hand scene: „Alternativen wären eine spätere Setzung (Wohneinheit, ruhiger) oder die Verlagerung nach Kap 26." ^[2026-09-14-kap25-vertiefung-md.md:L56] — „Autorentscheid nötig." ^[2026-09-14-kap25-vertiefung-md.md:L56]
