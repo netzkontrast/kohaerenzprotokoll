@@ -511,6 +511,8 @@ the author wants them (*Questions for the author*).
 
 ## Handover — the next session starts here
 
+**A qmd search over all 347 unread landed documents ran on 2026-09-26** (`Plan/runs/qmd-scan-2026-09-26/`): one to four short queries per open record, hits only, no reading. It placed all fifteen unread canon-era documents and found two the earlier scan had not: a second Kap 0 draft and a philosophischer Bericht. It also showed the stemmer turning „Mira“ into „miracle“ — six hits, none of them the name.
+
 **Ten documents have a triage scan, and three of them are now read** (`Plan/runs/haiku-scan-2026-09-25/`,
 chosen by qmd searches over the open records). A scan is not a reading. Its
 verdict column says nothing either, since nine of ten said READ NEXT. Each scan
@@ -791,7 +793,7 @@ high tier into it is the next step, and it is a person's.
 - **Chapter readings from table rows.** The rows are numbered without `Kap`, so `chapters.py missing` cannot see them; all 39 were read from the tables.
 - **The five scan readings of it stand** (`vortex`, `kishotenketsu`, `goedel-gambit`, `residual-echos`, `komponente-734`).
 
-Next, by the open records: the `Ursprungs-Ich` question above, for the reading that defines it; and the seven unread scanned documents, of which `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md` (canon era) and `worldbuilding-konzept-kohaerenzprotokoll-md` (the one-Vortex plan) speak to open records. `chapters.py missing` still lists 91 <!--state:chapters.missing--> single-`Kap` mentions.
+Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 91 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the annotated Kap 0 reconciled
 
