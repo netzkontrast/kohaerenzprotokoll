@@ -391,8 +391,8 @@ German compounds that nothing has tested. The fixture is nearly free: every
 the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
 author's delegation, set the reach of a rule that also passes a plural ending:
-`pairs.RULES["plural"]` decides 55 <!--state:pairs.plural_correct--> of
-82 <!--state:pairs.labelled--> pairs where `fold()` decides
+`pairs.RULES["plural"]` decides 56 <!--state:pairs.plural_correct--> of
+83 <!--state:pairs.labelled--> pairs where `fold()` decides
 47 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
 pages joined and 28 new merges across all 14 candidate lists, each a singular and
 its plural. It is a ledger row and the rule a model run asks first;
@@ -528,12 +528,8 @@ never a reading or a number.
 
 **Read next, in this order:**
 
-1. **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17) — still first, by the grep
-   of the morning scan (*Next document*, below). The vector tables do not find it:
-   no Kap 0 question returns it, because a question is written about a chapter and
-   this is narrative text about it. That is the method's limit, measured. By the
-   author, 2026-09-26, such narrative texts are research, not text for the novel
-   (`Plan/runs/prose-and-records-2026-09-26/README.md`).
+1. ~~`koharenz-protokoll-kapitel-0-v2-md`~~ — read 2026-09-26, document 25 (*Next
+   document*, below). No Kap 0 question had returned it: the method's limit, measured.
 2. **`worldbuilding-konzept-kohaerenzprotokoll-md`** (2026-05-08) — in 25 chapters'
    tables, Kap 31–40 all among them, and one of the ten scanned.
 3. **`kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`** — Kap 11, 12, 15,
@@ -618,7 +614,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   40 <!--state:sweep.decided--> hits, 21 <!--state:sweep.readings--> of them
+   41 <!--state:sweep.decided--> hits, 22 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -694,7 +690,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 20 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 21 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -833,7 +829,20 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the 39-chapter spec reconciled
+## Next document — the second narrative text of Kap 0 reconciled
+
+**The twenty-fifth document is done: `koharenz-protokoll-kapitel-0-v2-md`, 2026-09-26.** 153 candidates, **no page**, readings on 15 pages and on Kap 0, six conflicts moved (C3, C7, C10, C11, C12, C14), J97, one sweep hit (a reading). `Wiki/compare/reconcile-26-koharenz-protokoll-kapitel-0-v2-md.md` has the record. Chosen as first of *Reading suggestion — next*, by the morning scan's grep. Research, by the author (2026-09-26), like documents 22 and 23.
+
+- **The annotated text's prose without its apparatus.** 58 of its 102 long lines stand in `kap0-v1-annotiert-md` unchanged, 36 more revised (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/06-against-v1.txt`). No rules, no annotation, no movement numbers, no „Übergang zu Kap 1" heading.
+- **No figure is named — and never was in the prose.** `AEGIS`, `Kael`, `Juna`, `734` and every alter stand 0 times; in the annotated text too every name was in its annotations and rules. So the handover's questions have their answer: the Alex Vorform, Nyx's knuckles, „gerade diese Komponente wird Kael" and warmth as Juna's were all the annotation's claims about the prose, not the prose. Readings here name the register and never the speaker.
+- **C10**: the knuckles in Kap 0, in a line with no speaker (L607). **C11**: warmth at the first contact (L99), heat in the analysis and the air of the separation, no ozone, no Landauer. **C12**: a component with its number withheld (L235), a component eliminated (L591), shards, then an unnamed Ich counting tiles (L635–639).
+- **The formula in a third form**, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) — `formel-inversion`'s lead extended. `residual-echos`' lead said only one text uses the name; two do, of one date. `komponente-734`'s „the sources agree it becomes Kael" narrowed to the sources that name Kael.
+- **J97**: a German case ending is not a term boundary. **Briefing v14** asks about a text whose grammar is its only label. One zero, `innerer Raum`: the `read.py --find` step skipped once.
+- **Noticed, not fixed**: `residual-echos`' *Open* says no Kap-40 draft is among the read documents, which the page's own reading of document 22 contradicts; no document of this run caused it.
+
+Next, by *Reading suggestion — next*: `worldbuilding-konzept-kohaerenzprotokoll-md` (2026-05-08, 968 lines), in 25 chapters' tables. The chapter tables still list this document for six chapters until `chapter_sources.py run` is rerun.
+
+### Previous document — the 39-chapter spec reconciled
 
 **The twenty-fourth document is done: `three-mode-architecture-39-chapters-md`, 2026-09-25.** 338 candidates, **no page**, readings on 29 pages and on every chapter from Kap 1 to Kap 39, four conflicts and three questions moved (C7, C11, C12, C14, Q1, Q3, Q4), no new judgement, three sweep hits (one reading). `Wiki/compare/reconcile-25-three-mode-architecture-39-chapters-md.md` has the record. Chosen because the annotated Kap 0's handover named it.
 

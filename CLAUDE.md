@@ -81,8 +81,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, eighteen of them
-read (documents 7 to 24).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, nineteen of them
+read (documents 7 to 25).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -112,11 +112,11 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**24 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **24
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **24
+**25 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **25
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **25
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
 four `worldbuilding`, one `aegis`, two `storyform`, three `charaktere`, three
-`kernkonzept`, seven `plot-outline` and one `theorie-psychologie` — the last eighteen
+`kernkonzept`, eight `plot-outline` and one `theorie-psychologie` — the last nineteen
 from the canon era.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
@@ -128,8 +128,8 @@ has been promoted.
 
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
-**370 <!--state:chapters.readings--> readings** from the nine read documents
-that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, and an annotated narrative text of Kap 0 that names five; `Wiki/overview/` lays the chapters and the plot's
+**371 <!--state:chapters.readings--> readings** from the nine read documents
+that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, and that text's prose without its annotation; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
 | document | new terms | new readings | new conflicts |
@@ -158,6 +158,7 @@ shape side by side. See *Chapters and the plot*, below.
 | `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md` | 0 | 17 | 0 |
 | `kap0-v1-annotiert-md` | 0 | 29 | 0 |
 | `three-mode-architecture-39-chapters-md` | 0 | 29 | 0 |
+| `koharenz-protokoll-kapitel-0-v2-md` | 0 | 16 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -377,7 +378,23 @@ character bible's three steps in flashbacks in Kap 18–22 (C12), and names the 
 once, as sub-antagonists (Q1). **No pages, readings on 29 and on every chapter from 1 to
 39**, built from its table rows, which `chapters.py missing` cannot see.
 
-`Plan/runs/judgements.jsonl` holds **96 <!--state:judgements.total--> judgements**
+**The twenty-fifth is a second narrative text of Kap 0, of the same date as the
+twenty-third, and it is that text's prose without its apparatus.** No rule, no annotation,
+no movement number: 58 of its 102 long lines stand in the annotated text unchanged and 36
+more are its lines revised (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/06-against-v1.txt`).
+Research, by the author, like the two before it. **It names no figure** — no AEGIS, Kael,
+Juna, 734 or alter stands in it, and the annotated text's prose had none either: every name
+there was in its apparatus. So a reading from it says what the text renders and in which
+register — the Wir to the reader, the fragment's Ich, the system in the third person with
+status blocks, lines with no speaker — and never who. It puts the knuckles in Kap 0 in a line
+with no speaker (C10), warmth at the first contact without saying whose (C11), and a component
+with its number withheld that the protocol eliminates, then an unnamed Ich counting tiles
+(C12). The formula is in the third person neuter, „Es ist" — a third form. **No pages,
+readings on 15 pages and Kap 0.** Its one zero was a phrase written in the dictionary form,
+the step briefing v12 asks for skipped once; J97 makes a German case ending no term boundary,
+and briefing v14 asks about a text whose grammar is its only label.
+
+`Plan/runs/judgements.jsonl` holds **97 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -515,8 +532,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 40 <!--state:sweep.decided--> so far,
-21 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 41 <!--state:sweep.decided--> so far,
+22 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -604,7 +621,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 300 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 303 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -662,14 +679,14 @@ so `plot.md`'s „every plan but one" became „every plan but two".
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **156 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **2358 <!--state:graph.edges--> edges** (`links`,
+citations and builds **157 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **2388 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 3532 <!--state:graph.evidence-->
-of them, **3532 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 3732 <!--state:graph.evidence-->
+of them, **3732 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -1206,9 +1223,9 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
-**82 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+**83 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
 47 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
-decides 55 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
+decides 56 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
 `fold()`, so reconciliation is unchanged. Every optimizer on the ladder —
 `labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
 `--dry-run`. **On 2026-09-25 it ran on real models for the first time**, under
