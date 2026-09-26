@@ -79,7 +79,13 @@ The flashbacks in the middle third, ending in the component: „Etwa Kap 18–22
 „Beat 2 — Trennungsprotokoll.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179] and
 „Beat 3 — Komponente 734.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180] The component is
 „eine Funktionseinheit. Aus Komponente 734 wächst über eine lange Latenzphase die spätere Kael-Struktur.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
+What beat 2 splits is the feeling self: „Das fühlende Ich wird gespalten.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179] And in beat 3 AEGIS takes a second role:
+„AEGIS hat dabei nicht nur das Ursprungs-Ich gespalten — es hat sich gleichzeitig selbst als Wächter über den eigenen abgespaltenen Teil etabliert.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
 The open fourth beat is something else here: „Ein viertes Beat — die Etablierung der Primärdirektive — ist offen.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L184]
+„Vorgeschlagen: nicht nötig, drei Beats genügen. Lock-In steht aus.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L184]
+In Kael's double trauma the Trennungsprotokoll splits off „das Ursprungs-Ich (Juna)“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] and Kael arises from that layer; the document does not say how that Ursprungs-Ich relates to the one that becomes the component (L178, L180; J68).
+The number stands a second time, on the dwelling in KW1: „Kaels Wohneinheit 734 — minimalistisch, AEGIS-überwacht. Erste Anomalien beginnen hier.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L489] It does not relate the two, and names no Kap-1 console line (`734` on L180 and L489 only, `05-verify-readers.txt`).
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17
 
@@ -199,7 +205,9 @@ proposal).
 
 - **`Einheit 734` in Kap 1 (J80).** The console line is placed in the dwelling's row
   (drafting manual L101; Kernwelten vollständig L152) and under the
-  Komponente-734-Anker (drafting manual L487, L661). The strukturierter Outline has
+  Komponente-734-Anker (drafting manual L487, L661). The worldbuilding concept numbers
+  the dwelling itself, [[kaels-wohneinheit|Kaels Wohneinheit]] 734 (its L489), beside the
+  component (L180), and names no console line. The strukturierter Outline has
   Kael suspect in Kap 25 that the number is „eine Adresse oder ein Name“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L837]. The
   Plot-Konkretisierung proposes that the two coincide, marked `[V]` (L88). Which one
   the line names, or whether the ambiguity is intended, is not decided here.
@@ -215,4 +223,4 @@ proposal).
 - `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15: „734-K-1123“ ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1565], the case number of an assessment of System Kael — the number, not the component.
 - `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28: „vor dem Kern-Trauma (T-734)“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L82] and „Genesis-Krise (Das T-734 Trauma).“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L235] — the number as a trauma label, not the component.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `worldbuilding-konzept-kohaerenzprotokoll-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`).
