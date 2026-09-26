@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 15
+sources: 16
 pages: ["aegis"]
 ---
 
@@ -123,3 +123,11 @@ A POV of its own, and no Kap 5–8 slot. Whether `ich` or the third person, the 
 **A first person for the fragment, a third person for the system — the name never written.**
 The Genesis is told by an Ich: „Ich bin dieses Rauschen.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L59] The formula is in the third person neuter: „Es ist, was es verhindert, dass es nicht ist.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L211] From the Stille Wacht the system is told in the past tense, third person, with status blocks.
 `AEGIS` stands 0 times (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`); the text has no chapter beyond Kap 0 and says nothing of Kap 5–8.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Third person, logs, never prose — no inner view and no first-person chapter.**
+„AEGIS spricht nie in Prosa." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L259] „Wenn AEGIS auftaucht, ist es als Log, als Protokoll, als Systemstimme — nie mit moralischem Vokabular." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L259]
+„AEGIS und die zwei Guardians sprechen in 3. Person (Logs/Protokolle, keine subjektive Innensicht)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L415] Among its mandates: „AEGIS spricht nur in Logs." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L916]
+One point of view it leaves open, in the [[vortex|Vortex]]: „POV-Frage: ist Beat 1 dritte Person AEGIS, oder erste Person eines Alter-Clusters?" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L805] — a first person for an alter cluster, not for AEGIS. No chapter in Kap 5–8 is named (`Ch5`–`Ch8` 0).
+Row 2's side, in row 2's words, on its date.
