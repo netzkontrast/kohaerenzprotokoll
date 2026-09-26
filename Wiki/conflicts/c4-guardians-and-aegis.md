@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 12
+sources: 13
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -227,3 +227,10 @@ first position, as far as it goes.
 „**Ontologische Blindheit:** AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
 Its ground is temporal: „AEGIS' gesamte Sensorik ist temporal — sie misst Veränderungen über Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
 The two Guardians have no blind spot of their own; in the matrix both are `K₀-Sub-Operator` (L961–L962). The five of earlier drafts are named only as absorbed (L513).
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**AEGIS' blindness, as a law — and for [[mnemosyne|Mnemosyne]] a lack of her own, not called a blind spot.**
+„AEGIS ist strukturell blind für sie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L106] — for Juna and Silas, beyond the arrow of time. Why: autopoiesis, „Das erklärt, warum es Juna semantisch nicht erfassen kann" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L735], because „Juna existiert außerhalb der axiomatischen Basis von AEGIS." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L735]
+Of the two [[guardians|Guardians]], Mnemosyne is given an incapacity that follows from her function: „sie bewahrt Trauma als Daten, weil sie den emotionalen Kontext nicht erfassen kann" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200] — „sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200] The Erasure-Pol is given none. `blind` stands once (L106).
+Position 1's bearer, in the konsolidiertes Konzept's words on its date; beside it one Guardian's own limit derived from her domain, which is position 2's kind of failure, though the document does not call it a blind spot. The konsolidiertes Konzept carries the same Mnemosyne sentence (its L216), which this record's entries for it do not hold.
