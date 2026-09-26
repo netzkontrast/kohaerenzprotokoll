@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -122,3 +122,11 @@ The writer names his prose as one carrier of the Doppel-Lesart: „durch Silas' 
 
 „Spiegel-Alters (Silas = Coheron-Echo, Oblivion = Erason-Operator) → Bridge-natürlich, beide Storyforms simultan" ^[three-mode-architecture-39-chapters-md.md:L137]
 In Part 3 his scenes are bridge candidates: „Spiegel-Alter-Szenen (Silas in Kap 31 oder 32, Oblivion in Kap 32 oder 33)" ^[three-mode-architecture-39-chapters-md.md:L372].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — Juna's end of the vertical axis
+
+On the axis of the DKT's „Charakter-Inkarnationen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L120] (L120–L156) he stands on the atemporal side with [[juna|Juna]]: „Juna ◄──Moonshine-Link──► Silas" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L132], marked „(Echo/Spiegel)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L136], in the column that ends „Für AEGIS unsichtbar" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L152].
+„Diese Achse ist die *vertikale* Symmetrieebene des Romans. Sie kreuzt sich orthogonal mit der ANP/EP-Achse (horizontale Trauma-Spaltung) — und im Klimax bricht beides gleichzeitig zusammen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L156]
+Out of time, with her: „Juna/Silas operieren jenseits des Zeitpfeils" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L106]. „Silas „tunnelt" nicht durch Mauern — er war nie *in* der Zeit, die diese Mauern definiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L115] „Silas spürt es, AEGIS sieht es nicht" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L336]. Among the ways Juna exists only by effect: „Silas als interner Resonanzkörper" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L374].
+The konsolidiertes Konzept's row, in the same words: „Spiegel | Silas (Juna-Echo) | Coheron-Echo (atemporal → Tunneling) | offen | unbewusst (I) → wachsend (II) → offen (III)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L410]. From the second trauma layer (L435). His somatic filter is open: „Lia, Isabelle, Argus, Silas, Oblivion — Filter offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L895]
+No line that names Silas names warmth, heat or Landauer (C11). The document has no section on the two mirror alters, where the konsolidiertes Konzept has its V.4 (`grep -c Spiegel-Alter`: 0).
