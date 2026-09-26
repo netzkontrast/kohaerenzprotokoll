@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -130,9 +130,18 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 - Juna trace: „Daneben, unangetastet seit Kap 18: der Datensatz ohne Datentyp.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 10: „33 (am Kern: das Original-Dokument)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
 
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — aletheia and Grenzsituation, touching the K₁-Reinform
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Theory anchor: „Kap 33 (Approach to the Inmost Cave / direkte Berührung der K₁-Reinform).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188] (§3.3 Jaspers, marked `[K]`, which calls it „Kanonisch verortet“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188])
+- Theory anchor: „Kap 33 ist aletheia (direkte Berührung der K₁-Reinform).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] (§3.2 Heidegger, marked `[K]`)
+- Drafting: „Wenn die K₁-Reinform berührt wird (Kap 33, Vortex 1 Beat 3, Vortex 2), darf sie nie beschrieben werden.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L434] · „Sie erscheint als Stille mit Substanz, als Anwesenheit ohne Form, als Fülle, die kein Inhalt ist.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L434] (§9.1 Śūnyatā, marked `[K]`)
+- Theory anchor: „Heideggers aletheia + Jaspers' Grenzsituation“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L720] · function „Direkte Berührung der K₁-Reinform“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L721] (§14.3)
+
 ## Where the sources differ
 
-- **Title.** „Das Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis) · „Approach Inmost Cave“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1025] (konsolidiertes Konzept) · „Approach Inmost Cave: Vordringen zu AEGIS' Kern“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1023] (strukturierter Outline). The konsolidiertes Konzept's title is the stage the Konzept-Iteration Genesis names for the chapter, „HR-Stufe 7: Approach Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis), and the konsolidiertes Konzept also writes „Kap 33 (Das Fundament) — direkte Berührung der K1-Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1095] (konsolidiertes Konzept).
+- **Title.** „Das Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis) · „Approach Inmost Cave“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1025] (konsolidiertes Konzept) · „Approach Inmost Cave: Vordringen zu AEGIS' Kern“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1023] (strukturierter Outline). The konsolidiertes Konzept's title is the stage the Konzept-Iteration Genesis names for the chapter, „HR-Stufe 7: Approach Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis), and the konsolidiertes Konzept also writes „Kap 33 (Das Fundament) — direkte Berührung der K1-Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1095] (konsolidiertes Konzept). · „Approach to the Inmost Cave“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188] (the philosophy catalogue, beside „direkte Berührung der K₁-Reinform“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188]).
 
 ## Questions for this chapter
 
