@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 13
-covers_documents: 7
-new_findings_last_document: 0
+version: 14
+covers_documents: 8
+new_findings_last_document: 1
 ---
 
 # Briefing — before extracting a document
@@ -133,6 +133,10 @@ wraps is judged by its first line alone.
   passage is for and which rule it breaks? Then each passage has two voices, the
   text and the note about it, and a reading names which one it quotes. A field
   label that repeats under every note is the template, not a term.
+- Does the text change voice with no label — a person, a tense, a register — and name no
+  speaker at all? Then the grammar is the only label. Say which register a candidate stands
+  in, and never supply the speaker's name from memory: a name the text does not write is
+  not on the list, and a reading says the text does not name it.
 - Does it date its status apart from itself — a sync, a lock-in — and name
   what that status settled? That is a second date, and it is the document's
   claim about what came before it.
