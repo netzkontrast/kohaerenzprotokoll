@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -130,3 +130,10 @@ On the axis of the DKT's „Charakter-Inkarnationen" ^[worldbuilding-konzept-koh
 Out of time, with her: „Juna/Silas operieren jenseits des Zeitpfeils" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L106]. „Silas „tunnelt" nicht durch Mauern — er war nie *in* der Zeit, die diese Mauern definiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L115] „Silas spürt es, AEGIS sieht es nicht" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L336]. Among the ways Juna exists only by effect: „Silas als interner Resonanzkörper" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L374].
 The konsolidiertes Konzept's row, in the same words: „Spiegel | Silas (Juna-Echo) | Coheron-Echo (atemporal → Tunneling) | offen | unbewusst (I) → wachsend (II) → offen (III)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L410]. From the second trauma layer (L435). His somatic filter is open: „Lia, Isabelle, Argus, Silas, Oblivion — Filter offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L895]
 No line that names Silas names warmth, heat or Landauer (C11). The document has no section on the two mirror alters, where the konsolidiertes Konzept has its V.4 (`grep -c Spiegel-Alter`: 0).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Echo-Prosa and tunneling, out of time
+
+Under §7.1, labelled [K] („§7.1 Chalmers — Hartes Problem [K]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L365]), his prose carries qualia: „Junas Wärme, Telefon-Stille als MI ohne Daten, Silas' Echo-Prosa: alles Qualia-Träger." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L375] The warmth in that line is Juna's; it is the one line naming Silas that names warmth, heat or Landauer (C11).
+Under §10.3, labelled [K] („§10.3 PAL-Konstruktion (Page-Wootters / Aharonov-Lebowitz) [K]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L501]): „Coheronen existieren atemporal — das ist nicht Metapher, sondern PAL-Konstruktion in Roman-Form." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L505] „Juna und Silas operieren jenseits des Zeitpfeils." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L505] „Strukturelle Voraussetzung für Junas Wirkung und für Silas' „Tunneling"." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L508]
+In the figure table §14.1, which carries no label: „Atemporalität (PAL), Coheron-Echo, Resonanz ohne Substrat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L653], DKT correlate „Coheron-Echo" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L654].
+The document calls no figure a mirror alter (`grep -c Spiegel`: 0).
