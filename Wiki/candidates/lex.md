@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -109,3 +109,11 @@ The konsolidiertes Konzept's row, in the same words: „ANP | Lex (Rationalist) 
 From the second trauma layer, the Fragmentierungsnacht: „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435].
 His somatics are the reader's in KW1: „Lex' Hypoventilation als Default-Modus. Brust eng, Schultern hoch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L473]
 His voice in Akt I: „Lex hypotaktisch, Nyx stakkato, Kiko kindlich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L765]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the inner incarnation of Gödel
+
+Under §6.1, labelled [K] („§6.1 Gödel — Unvollständigkeitssatz [K]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L286]): „Lex ist die innere Inkarnation von Gödel: Logik, die sich selbst widerlegt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L296] „Lex' Riss ist eine fraktale Selbst-Widerlegung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L296] „Sein Arc: Logik-Festung → Intuition heißt: er muss erkennen, dass das Halteproblem ihn betrifft (nicht jede Frage ist entscheidbar)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L296]
+In the drafting: „Lex' Sätze, die sich selbst zerstören." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L299] Where in the novel: „Lex' Sprache durchgängig (Hypotaxe + Bedingungsgefüge)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L302], beside Kap 30, where the Gödel-Gambit begins, and Vortex 1 (the same line). Under §6.2 Turing, [K]: „Lex (gemeinsam mit Gödel) — Halteproblem-Riss = Endlosschleifen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L313]
+The rule of §0, which carries no label: „Gödel wird zu einer Endlosschleife in Lex' Hypotaxe, nie zu einem zitierten Satz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9]
+His body, under §3.4, labelled [V] („§3.4 Merleau-Ponty — Verkörperung, gelebter Körper [V]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L192]): „Lex' Hypoventilation" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202] — „das ist Merleau-Ponty pro Anteil." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202]
+In the figure table §14.1, which carries no label: schools „Gödel + Halteproblem + früher Wittgenstein (Tractatus)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L623], DKT correlate „Gödel + Halteproblem" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L624].
