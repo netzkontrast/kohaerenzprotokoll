@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -93,3 +93,8 @@ The writer's doubt: „Beurteilung: Grenzfall — Selenes Stimme ist erlaubt zu 
 
 An ANP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Her style code „Selene kühl-präzise" ^[three-mode-architecture-39-chapters-md.md:L198]; with Lex she carries the „kontemplativer Präzision (Lex, Selene)" ^[three-mode-architecture-39-chapters-md.md:L230] of Part 2, and Kap 16 is „Kael (Lex+Selene-Dominanz)" ^[three-mode-architecture-39-chapters-md.md:L260].
 A Wächterin stands in Kap 8, „Kael, Wächterin" ^[three-mode-architecture-39-chapters-md.md:L185], and in Kap 17, „Z1-Korrektur — Wächterin" ^[three-mode-architecture-39-chapters-md.md:L261] — unnamed here (Q4).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — ANP, and the one alter across both layers
+
+The konsolidiertes Konzept's row, in the same words: „ANP | Selene (ISH) | Wormholes, Entanglement Islands | Hände entspannen | → Mediatorin" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L403].
+She belongs to neither trauma layer alone: „Schicht-übergreifend: Selene." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] — the only alter so placed; Schicht 1 has four and Schicht 2 eight (L431, L435). Nothing else in the document names Selene (`grep -cw Selene`: 2).
