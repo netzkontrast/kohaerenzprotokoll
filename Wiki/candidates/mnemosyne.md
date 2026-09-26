@@ -1,17 +1,17 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-17"
 ---
 
 # Mnemosyne
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Nothing else read so far names Mnemosyne at all.
+the same nine fields. Fourteen other read documents name Mnemosyne — the readings below, the worldbuilding concept's the latest. (Until that reading this lead said nothing else read named Mnemosyne at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -192,3 +192,17 @@ With the Erasure-Pol, Mnemosyne absorbs the others: „Die alten Guardians sind 
 In the consistency matrix: „\*\*Mnemosyne\*\* | K₀-Sub-Operator | Kohärenz-Exekutiv | — | B:OS | Klassisch | Physics/Erinnerung" ^[kohaerenz-protokoll-konzept-master-md.md:L961].
 The Vortex's first beat is set there: „| \*\*1 Convergence\*\* (Mnemosyne-Archipel) |" ^[kohaerenz-protokoll-konzept-master-md.md:L852].
 And an open point: „Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[kohaerenz-protokoll-konzept-master-md.md:L1002]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — one of two, and the climax set in her archipelago
+
+„Mnemosyne — Erinnerungs-Hüterin." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200] „Verwaltet die Datenströme der Erinnerung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200] One of the document's „Zwei Guardians:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L196] (C6).
+„Setting des Klimax: der Mnemosyne-Archipel ist der einzige Ort, an dem Erasure nicht greifen kann, weil Erinnerung dort Schauplatz statt Inhalt ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200]
+„Mnemosynes Tragik: sie bewahrt Trauma als Daten, weil sie den emotionalen Kontext nicht erfassen kann — sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200]
+
+Her world: „Mnemosyne dominiert klar in KW2; der Erasure-Pol durchwirkt KW1 und KW3." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] KW2 carries her name, „KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L498] (J49).
+Its climax place: „Die Mnemosyne-Server-Architektur — der eigentliche Klimax-Ort." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L535] „Im Vortex (Ch35–36) konvergiert AEGIS' Erasure-Sweep hier auf Kaels Fragment-Cluster." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L535] Its image is open, „Geographie noch festzulegen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L535], and again in the Vortex part: „Mnemosyne-Archipel als Setting: offen ist das primäre Bild — Inselgruppe, Server-Halle, Memorialarchitektur, Zirbeldrüse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L825]
+
+In the [[vortex|Vortex]]'s five beats: Beat 1, „AEGIS isoliert Kaels Fragmente innerhalb der Mnemosyne-Archipel-Server-Architektur." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L805]; Beat 4, „Mnemosyne ist die erste Guardian, die betroffen ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L817]
+In Storyform A's overall story: „Psychology in A (Manipulation der Simulation, Mnemosynes Datenströme)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L951].
+Her tension with the other pole is left open: „Spannung zwischen Mnemosyne und Erasure-Pol — vollständige Algorithmen oder interne Spaltung?" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L894]
+The author decided C6 for five on 2026-09-24; recorded, not applied.
