@@ -1,0 +1,42 @@
+# 05-verify — koharenz-protokoll-kapitel-0-v2-md, 2026-09-26
+
+## the one zero
+The list wrote the dictionary form of a phrase the document only inflects:
+$ grep -nw 'innerer Raum': 0
+$ grep -nw 'inneren Raumes': 251 
+Briefing v12's step (ask read.py --find before listing a phrase) was skipped for this one.
+The inflected form is on the list too and counts 1.
+
+## absences claimed in the note and the reconciliation (grep -cw, word boundary)
+$ grep -cw AEGIS: 0  lines: 
+$ grep -cw Kael: 0  lines: 
+$ grep -cw Juna: 0  lines: 
+$ grep -cw 734: 0  lines: 
+$ grep -cw Nyx: 0  lines: 
+$ grep -cw Alex: 0  lines: 
+$ grep -cw Silas: 0  lines: 
+$ grep -cw Oblivion: 0  lines: 
+$ grep -cw Sophia: 0  lines: 
+$ grep -cw Mira: 0  lines: 
+$ grep -cw Wir-AEGIS: 0  lines: 
+$ grep -cw Landauer: 0  lines: 
+$ grep -cw Ozon: 0  lines: 
+$ grep -cw Hitze: 0  lines: 
+$ grep -cw Kap: 0  lines: 
+$ grep -cw Klammer: 0  lines: 
+$ grep -cw Scherben: 1  lines: 627 
+$ grep -cw Knöchel: 1  lines: 607 
+
+## heat and cold (grep -nwi)
+$ grep -cwi warm: 2  lines: 99 507 
+$ grep -cwi wärme: 0  lines: 
+$ grep -cwi heiß: 2  lines: 435 607 
+$ grep -cwi heisse: 0  lines: 
+$ grep -cwi kalt: 4  lines: 83 135 431 483 
+$ grep -cwi kalte: 4  lines: 183 239 375 439 
+$ grep -cwi kalten: 3  lines: 263 551 591 
+$ grep -cwi kälte: 2  lines: 479 611 
+
+## the component's number
+$ grep -nE '[0-9]{3}' outside the status blocks: the component's number is not written
+(no three-digit number beginning 7)
