@@ -1,10 +1,10 @@
 ---
 term: TSDP
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none yet
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -114,6 +114,14 @@ And AEGIS feeds it: „AEGIS' Kontrollmechanismen verstärken diese Phobien syst
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
 A rule for the word, marked `[K]`: „Begriffe *Alter, Fragment, ANP, EP, TSDP, DID* fallen nicht in Akt I." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1059]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the ANP/EP split as a split of mind and body, dissolved in the Vortex
+
+It never names the model: no `TSDP`, no `Phobie`, no `tertiär` (`05-verify-readers.txt`). It uses its two categories, and reads them through its schools.
+The EPs as correspondence: the first axis is „Epistemologische Achse: Wahrheitstheorien-Krieg (AEGIS vs. Kael-EPs)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L18], and under „§1.2 Korrespondenztheorie (System Kael, insb. EPs)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L46] (in the `[K]` §1): „Trauma als Korrespondenz: was geschah, geschah." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L50] „Die EPs erleben die Tatsachen, können sie aber nicht artikulieren." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L53] „EP-Stimmen sprechen aus dem Körper, nicht aus dem System." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L56]
+The split as a wound of embodiment (§3.4, `[V]`): „Die ANP-EP-Spaltung bei Kael ist Anti-Merleau-Ponty: das Trauma trennt Geist und Körper." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L199] „Heilung = Wiedergewinnung der verkörperten Präsenz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L199]
+**The barriers fall in the [[vortex|Vortex]], placed twice without comment.** In Kap 35 (§3.5, `[K]`): „Erklärt die Auflösung des Subjekt-Objekt-Spalts in Kap 35 (Vortex 1)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L210] — „Wenn Kael die ANP/EP-Barrieren fallen lässt" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L210], it „geschieht das nicht als Wieder-Vereinigung einer ursprünglichen Substanz, sondern als Erkennen, dass es nie eine Substanz war." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L210] And in Beat 2 (§12.3, `[K]`): „die Auflösung der ANP/EP-Barrieren in Vortex 1 Beat 2 ist Anatta-Moment" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L581].
+IFS stands beside it as the clinical model of the resolution, „IFS (Internal Family Systems) als klinisches Modell" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L572], and in [[selene|Selene]]'s row, „IFS-Mediator, Polanyi (tacit knowledge), Vor-Trennungs-Substrat (Śūnyatā-nah)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L632].
 
 ## Occurrences only
 
