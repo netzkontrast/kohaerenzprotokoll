@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -204,3 +204,10 @@ Mosaik-Herz (L619–L620). `Resonanz-Kontinuum` does not occur (0, counted in `0
 
 On the page's Guardians, its claim about the older drafts: „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
 A reading for C5 on both sides at once.
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — KW4's name, a generative world of aletheia
+
+**The whole fourth world**, and no place inside it: the name stands twice (`05-verify-readers.txt`), both times for KW4. In the world table: „KW4 Möglichkeits-Garten" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L684], „Generativ" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L685], „Heideggers aletheia, Bohmsche Implizite Ordnung [V], Mahayana-Mitgefühl, Wu Wei" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L686], „Wahrheit als Unverborgenheit" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L687]. And under Wu Wei (`[K]`), [[juna|Juna]]'s mode, where it stands: „Junas Erscheinungsmodi durchgängig" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L451], „KW4-Logik (Möglichkeits-Garten als emergenter Raum)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L451].
+Its truth is Heidegger's (`[K]`): „Aletheia als Wahrheits-Modell für KW4 und den Vortex selbst." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L174] „Die Wahrheit wird nicht durch AEGIS' Verifikation gefunden — sie geschieht, wenn Kael aufhört zu vermeiden und das Unverborgene sich zeigt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L174] Its moments are „KW4-Tonalität." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] — „Aletheia-Momente sind die stillen Wendepunkte: Kael sieht etwas, das schon immer da war, aber nicht sichtbar." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] — among them Kap 17, Kap 33 and Vortex 2 (L180).
+Among the six movements, KW1 turns into it: „KW1 als Phaenomena-Reich wird in KW4 zur Bühne des Sich-Zeigens." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L752] „Kael lernt, nicht zu verifizieren, sondern wahrzunehmen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L752]
+It gives the world no act and no chapters, and names no Guardian for it (`Kairos`, `Sophia`, `Guardian` 0, `05-verify.txt`). C5: the world's scale only.
