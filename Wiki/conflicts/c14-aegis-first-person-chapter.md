@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 14
+sources: 15
 pages: ["aegis"]
 ---
 
@@ -117,3 +117,9 @@ Like the draft of 2026-05-08: an inside in Kap 0 for what AEGIS is made of, no c
 **AEGIS-POV scenes from Kap 14 on — the person not stated.**
 „Keine eigene POV-Szene aus AEGIS-Sicht in Teil 1." ^[three-mode-architecture-39-chapters-md.md:L202] Then Kap 14 „Kael, kurzer AEGIS-POV möglich" ^[three-mode-architecture-39-chapters-md.md:L258], Kap 22 „Kael, AEGIS dominant" ^[three-mode-architecture-39-chapters-md.md:L266], and Kap 34 „Kael (Wir) vs. AEGIS (Makro-Log)" ^[three-mode-architecture-39-chapters-md.md:L339].
 A POV of its own, and no Kap 5–8 slot. Whether `ich` or the third person, the spec does not say.
+
+## 2026-09-26 — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — research, by the author
+
+**A first person for the fragment, a third person for the system — the name never written.**
+The Genesis is told by an Ich: „Ich bin dieses Rauschen.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L59] The formula is in the third person neuter: „Es ist, was es verhindert, dass es nicht ist.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L211] From the Stille Wacht the system is told in the past tense, third person, with status blocks.
+`AEGIS` stands 0 times (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`); the text has no chapter beyond Kap 0 and says nothing of Kap 5–8.
