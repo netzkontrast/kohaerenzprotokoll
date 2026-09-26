@@ -1,9 +1,9 @@
 ---
 chapter: 25
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
-records: []
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md"]
+records: ["C9", "C11", "C14"]
 gathered: "2026-09-25"
 ---
 
@@ -107,9 +107,38 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 - Plot beats: „Die Niederlegung — Kael bestätigt nichts mehr. Kein Wort, keine Geste; die Schlange wächst einfach.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Plot beats: „Schwelle, nicht Konfrontation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — what a drafting run says the revised chapter does, and what it says its canon requires
+
+The log of one unattended drafting run that revised the manuscript's Kap 25; it does not contain the chapter. Each bullet is what the log reports about the chapter or what it says another document requires — its claim about that document, recorded and not applied. It ranks its canon „Repo (normativ/" ^[2026-09-14-kap25-vertiefung-md.md:L31] `[K]` and four older Drive documents `[S]`.
+
+Title: „Wegkreuzung" ^[2026-09-14-kap25-vertiefung-md.md:L11]
+Position: „Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz" ^[2026-09-14-kap25-vertiefung-md.md:L17]
+
+- Required (its canon, the storyform outline §0/§1/§5): „Kap 25: Schwelle, nicht Konfrontation; Schleier offen benannt; Hitze-Polarität; R-Regeln" ^[2026-09-14-kap25-vertiefung-md.md:L31]
+- Required (the masterplan line): „zwei genuine Zukunftsverluste" ^[2026-09-14-kap25-vertiefung-md.md:L17] · „physische Verzweigung" ^[2026-09-14-kap25-vertiefung-md.md:L17] · „wählt den Weg mit weniger Wissen" ^[2026-09-14-kap25-vertiefung-md.md:L23]
+- Its claim about the Plot-Konkretisierung: „Die Niederlegung" ^[2026-09-14-kap25-vertiefung-md.md:L31] · „Warteschlange als einziges bewegtes Element; Datensatz ohne Datentyp; Stufen-Modell" ^[2026-09-14-kap25-vertiefung-md.md:L31]
+- Plot beats: „Jetzt bewegt sich um 10:58 die Hand von selbst auf das Bestätigungsfeld" ^[2026-09-14-kap25-vertiefung-md.md:L21] · „und wird von einer zweiten Spannung im selben Unterarm gestoppt" ^[2026-09-14-kap25-vertiefung-md.md:L21] · „Damit ist die Nicht-Handlung als Entscheidung lesbar statt als Freeze" ^[2026-09-14-kap25-vertiefung-md.md:L21]
+- Veil: „Anschließend fällt der Schleier leserseitig" ^[2026-09-14-kap25-vertiefung-md.md:L21] · „Hier sitzt mehr als einer." ^[2026-09-14-kap25-vertiefung-md.md:L21] · „Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26" ^[2026-09-14-kap25-vertiefung-md.md:L21] · „R-3 — Vielheit wird benannt, kanonisch gefordert für 25–26" ^[2026-09-14-kap25-vertiefung-md.md:L47]
+- Cost: „Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um" ^[2026-09-14-kap25-vertiefung-md.md:L22] · „Kaels Verweigerung hat einen bezifferten Preis bei einem Dritten" ^[2026-09-14-kap25-vertiefung-md.md:L22]
+- AEGIS: „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[2026-09-14-kap25-vertiefung-md.md:L22] · what it says its canon §5 requires: „AEGIS bemerkt Kaels neue Klarheit" ^[2026-09-14-kap25-vertiefung-md.md:L22]
+- Place: „Abzweigung bei Platte 204, Schild mit elf vorgesehenen Kennungen (seine fehlt)" ^[2026-09-14-kap25-vertiefung-md.md:L23] · „kühlere Luft aus dem Treppenschacht" ^[2026-09-14-kap25-vertiefung-md.md:L23] · „Kael geht drei Stufen hinunter" ^[2026-09-14-kap25-vertiefung-md.md:L23] · „sieht nicht in der allgemeinen Ebene nach, was unter Delta-Sieben liegt, und kehrt um" ^[2026-09-14-kap25-vertiefung-md.md:L23]
+- World: „Das löst den Canon-Weltanker für Kap 25 ein (KW3, Wartungsschächte, Anker 734 dritte Wiederkehr)" ^[2026-09-14-kap25-vertiefung-md.md:L23] · „Kap 25 löst KW3 jetzt sensorisch ein (Treppenkopf, Wartungsebene), ohne den Ort zu wechseln." ^[2026-09-14-kap25-vertiefung-md.md:L60] · KW3's sub-places from an older concept, `[S]`: „KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum" ^[2026-09-14-kap25-vertiefung-md.md:L39]
+- Threshold: „Stehen an der Schwelle" ^[2026-09-14-kap25-vertiefung-md.md:L23] against Kap 26's „der Tritt darüber" ^[2026-09-14-kap25-vertiefung-md.md:L23]
+- Motif, from an older analysis, `[S]`: „interner Wahlpunkt" ^[2026-09-14-kap25-vertiefung-md.md:L38] · „Wer trifft die Wahl, wer wagt den Bruch" ^[2026-09-14-kap25-vertiefung-md.md:L38]
+- Hooks: „Hook-in aus Kap 24 explizit (die einrastende Verkleidung)" ^[2026-09-14-kap25-vertiefung-md.md:L25] · „die Restzahl steht nach Schichtende bei 34 statt 31" ^[2026-09-14-kap25-vertiefung-md.md:L25] · „trägt direkt in Kap 26" ^[2026-09-14-kap25-vertiefung-md.md:L25]
+- Sensorik: „der Klick wird als Abwesenheit hörbar (sechsmal vor dem siebten Bestand, danach nicht mehr)" ^[2026-09-14-kap25-vertiefung-md.md:L25] · „R-5 kaltes Ozon nur in der Abmeldeszene, Wärme dort nicht; Wärmespur nur als Rückverweis" ^[2026-09-14-kap25-vertiefung-md.md:L47]
+- Juna: „R-10 Juna nie Subjekt, nie Name, nie Körper, nie Stimme" ^[2026-09-14-kap25-vertiefung-md.md:L47]
+- Storyform: „Kapitel 25 ist in keiner der beiden Dateien encodiert" ^[2026-09-14-kap25-vertiefung-md.md:L51]
+- Open (OQ-25-A): „Kap 25 folgt der Praxis der Nachbarkapitel (nur VERSALIEN-Direktiven)." ^[2026-09-14-kap25-vertiefung-md.md:L55]
+- Open (OQ-25-B): „Gesetzt ist der Satz" ^[2026-09-14-kap25-vertiefung-md.md:L56] · „Alternativen wären eine spätere Setzung (Wohneinheit, ruhiger) oder die Verlagerung nach Kap 26. Autorentscheid nötig." ^[2026-09-14-kap25-vertiefung-md.md:L56]
+- Open (OQ-25-C): „Kap 25 verwendet die Abwesenheit des Klicks lokal (eine Station, ein Tag)." ^[2026-09-14-kap25-vertiefung-md.md:L57] · „Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?" ^[2026-09-14-kap25-vertiefung-md.md:L57]
+- Open (OQ-25-D): „Der Template-Kopf führt weiterhin drei Szenen, die Prosa hat sieben." ^[2026-09-14-kap25-vertiefung-md.md:L58]
+- Open (OQ-25-E): „Sie ist jetzt eine Figur mit eigenem Ziel, bleibt aber namenlos" ^[2026-09-14-kap25-vertiefung-md.md:L59]
+- Open (OQ-25-F): „Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden?" ^[2026-09-14-kap25-vertiefung-md.md:L60] · „Das ist die größte offene Frage des Laufs." ^[2026-09-14-kap25-vertiefung-md.md:L60]
+
 ## Where the sources differ
 
-- **Title.** „Wegkreuzung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602] (Konzept-Iteration Genesis) · „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L827] (strukturierter Outline) · „Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium); the second is the Genesis document's stage name, „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602], the third its position for two chapters, „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364] (Konzept-Iteration Genesis), and the Kompendium gives the one title to both: „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium).
+- **Title.** „Wegkreuzung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602] (Konzept-Iteration Genesis) · „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L827] (strukturierter Outline) · „Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium); the second is the Genesis document's stage name, „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602], the third its position for two chapters, „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364] (Konzept-Iteration Genesis), and the Kompendium gives the one title to both: „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium). The Kap-25 session log gives the manuscript's chapter the first: „Wegkreuzung" ^[2026-09-14-kap25-vertiefung-md.md:L11] (Kap-25 session log), and says the Plot-Konkretisierung names Kap 25 „Die Niederlegung" ^[2026-09-14-kap25-vertiefung-md.md:L31] (Kap-25 session log).
 
 ## Questions for this chapter
 
