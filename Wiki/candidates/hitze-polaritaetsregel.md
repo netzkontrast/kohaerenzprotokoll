@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -32,7 +32,9 @@ Beat 4 (L429).
 
 The konsolidiertes Konzept and the Kapitel-Kompendium give Landauer *heat* before
 and after the lock; „Kernwelten vollständig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L11] applies the rule in KW1 and keeps
-Landauer warmth for the transition out of it. [[landauer-signatur]] has each
+Landauer warmth for the transition out of it. The worldbuilding concept, of the
+konsolidiertes Konzept's date, states no rule and gives heat and ozone as one
+Landauer trace of AEGIS' erasure (its L82, L759). [[landauer-signatur]] has each
 reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
@@ -121,3 +123,10 @@ And it is the blade that cuts: „Die Kälte der Logik ist die Klinge, die mich 
 The coda gives a temperature and no quality: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635]
 The annotated draft of the same date writes the same warmth and reads it, in an annotation,
 as Juna's resonance (above); this document has no annotation. Placed here by what it states (J62). C11.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — no rule — heat and ozone as one signature
+
+No rule is stated: `Polarität` stands 0 times, no line joins ozone to cold, and no line gives [[juna|Juna]] warmth (`Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify-readers.txt`). Heat and ozone are one rendering of AEGIS' erasure: „und diese Abwärme manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L82] „Somatischer Filter: Landauer wird zu Hitze und Ozon, nie zu Gleichungen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L759] Warmth is displacement: „Verdrängung erzeugt Wärme. Wärme manifestiert sich als Risse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41] — see [[landauer-signatur]].
+`Wärme` stands on three lines (L41, L813, L817). Beside the physics answer, one is a possible anchor for Kael in the Vortex's silence — „Ein einziger sensorischer Anker bleibt (Hand-Wärme oder Lichtpunkt oder Geschmack der eigenen Tränen — einer)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L813] — and one is Beat 4's: „Landauer-Wärme spiked unmöglich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L817]
+Cold and warmth are the worlds' registers, not signatures: KW1 has „Kühle Farben (Blau, Grau, Weiß)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L461] and „Ebene 1 — kalt, steril, assertorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L477]; KW2 „Ebene 2 — heiß, fragmentiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L520]; KW4 „Warmes, dynamisches Licht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L590]
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by what it states (J62). C11.
