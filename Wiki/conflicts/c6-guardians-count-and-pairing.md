@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 16
+sources: 17
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -204,3 +204,10 @@ The konsolidiertes Konzept's account in its words, on its date: row 3's side, tw
 `Guardian`, `LogOS`, `Kairos` and `Sophia` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/05-verify.txt`). Mnemosyne is a row of the figure table, between [[aegis|AEGIS]] and [[juna|Juna]]: „Erinnerungs-Bewahrer; Rorty-Versuchung (Wahrheit als Anpassung); Tragik des unverstandenen Trägers" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L662]; her temptation is referred to another document, „Mnemosynes Versuchung (siehe Welt-Doku §8)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L104] — the document's claim about it.
 The worlds: „KW1 (Konstrukt-Stadt / Logos-Prime) ist das Phaenomena-Reich." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118]; „KW2 Mnemosyne-Archipel" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L676]; „KW3 Cerberus-Labyrinth" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L680]; „KW4 Möglichkeits-Garten" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L684]. `Cerberus` stands only in that compound, `Logos` only in `Logos-Prime`; each world is mapped to schools of philosophy, none to a bearer.
 Row 3's world names, and neither row's count. The author's decision for five (2026-09-24) stands; this changes nothing in it.
+
+## 2026-09-26 — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log
+
+**No count and no pairing — four names it groups as decanonised Guardians of an older locations concept, [[cerberus|Cerberus]] among them, filtered out.**
+Of that concept, ranked `[S]`, it took only „KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum" ^[2026-09-14-kap25-vertiefung-md.md:L39], and: „gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) nicht übernommen" ^[2026-09-14-kap25-vertiefung-md.md:L39]. The grouping is the log's: in read sources Nox, Echo and Limina are Alters — „Assoziiert mit Alters wie Limina." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172], „Assoziiert mit Alters wie Echo und NPCs wie dem Archivar." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L173], „Assoziiert mit Alters wie Nox und NPCs wie dem Regel-Exekutor." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L174] — and the storyform outline decanonises them as characters, not as Guardians: „Dekanonisiert (NIE als aktive Charaktere):“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L278]. Only Cerberus of the four is a Guardian, on rows 1 and 2.
+`Guardian`, `Mnemosyne`, `LogOS`, `Kairos` and `Sophia` stand 0 times, `Guardians` and `Cerberus` once each, both in that line (`Plan/runs/2026-09-14-kap25-vertiefung-md/05-verify.txt`, `05-verify-readers.txt`).
+On no row: it gives no count and no pairing. It calls Cerberus, one of the five the author decided on 2026-09-24, decanonised; that is its claim about an older document, recorded and not applied. The author's decision for five stands.
