@@ -33,7 +33,7 @@ Position: „Heldinnenreise innen“ ^[koharenz-protokoll-strukturierter-outline
 
 ## Navigation, around the readings
 
-Three sections are navigation, and none is a reading. Above the readings:
+Four sections are navigation, and none is a reading. Above the readings:
 
 - `## What this chapter is about` — three to five German sentences summarising
   what the readings below say, naming each source where they differ and
@@ -48,8 +48,14 @@ After `## Where the sources differ`:
   census that a vector search for those questions returned, and which
   questions returned each. A place to look, never a claim or a number.
 
-`scripts/chapter_sources.py write` replaces all three whole. They carry no quotation
-and no citation, so `chapters.py` and `quotes.py` see nothing in them.
+- `## Raw qmd answers` — every question as it was sent, with the first hits the
+  search returned for it, read documents included, each snippet in a ```` ```qmd ````
+  fence with its file line numbers. Raw search output copied by code from the
+  source files: no hit is a reading or a quotation.
+
+`scripts/chapter_sources.py write` replaces all four whole. They carry no
+citation, and `quotes.py` skips a ```` ```qmd ```` fence — only that one — so
+neither it nor `chapters.py` sees anything in them.
 
 ## Frontmatter
 

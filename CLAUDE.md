@@ -1343,10 +1343,12 @@ changes no reading, and says so. It is rare and it is recognisable: if the diff
 touches a claim rather than a number, it is not this.
 
 **A second: navigation on the chapter pages.** `## What this chapter is about`,
-`## Questions for this chapter` and `## Candidate sources` are written by
-`scripts/chapter_sources.py` from a run in `Plan/runs/qmd-chapters-2026-09-26/`,
-carry no quotation, citation or reading, and are replaced whole on every run.
-Their commit names the run, and changes nothing outside those three sections.
+`## Questions for this chapter`, `## Candidate sources` and `## Raw qmd answers`
+are written by `scripts/chapter_sources.py` from a run in
+`Plan/runs/qmd-chapters-2026-09-26/`, carry no citation or reading, and are
+replaced whole on every run. Their commit names the run, and changes nothing
+outside those four sections. The raw answers are source text copied by code into
+```` ```qmd ```` fences, which `quotes.py` skips — that info string and no other.
 
 ## Every step keeps its artifact
 

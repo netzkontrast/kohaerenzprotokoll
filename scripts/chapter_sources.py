@@ -53,6 +53,10 @@ TERM_HITS = RUN / "terms.jsonl"
 ABOUT = "## What this chapter is about — a summary of the readings below"
 ASKED = "## Questions for this chapter"
 HEADING = "## Candidate sources — unread, ranked by qmd"
+RAW_HEADING = "## Raw qmd answers"
+RAW = RUN / "raw"
+RAW_SHOWN = 5         # hits per query shown raw on the page; the run keeps all it was given
+SNIPPET_HEAD = re.compile(r"^@@ -(?P<start>\d+),\d+ @@.*$", re.M)
 PER_QUESTION = 40     # hits asked for per question, before the read documents are dropped
 FUSION_K = 10         # reciprocal-rank fusion: 1 / (K + rank among a question's unread documents)
 TITLE = re.compile(r"^Title: „([^“\"]+)[“\"]", re.M)
@@ -195,10 +199,17 @@ def run(keep: int, only: set[int] | None) -> int:
             continue
         started, per_question = time.time(), {}
         about = load_about(number)
-        if about:
-            per_question[f"K{number}-A"] = unread(ask(f"hyde: {one_line(about)}", PER_QUESTION), read)
-        for q in questions:
-            per_question[q["id"]] = unread(ask(f"vec: {one_line(q['question'])}", PER_QUESTION), read)
+        asked = ([(f"K{number}-A", f"hyde: {one_line(about)}")] if about else []) + \
+                [(q["id"], f"vec: {one_line(q['question'])}") for q in questions]
+        raw = []
+        for qid, document in asked:
+            rows = ask(document, PER_QUESTION)
+            raw.append({"id": qid, "query": document,
+                        "hits": [{k: row.get(k) for k in ("file", "line", "score", "snippet")} for row in rows]})
+            per_question[qid] = unread(rows, read)
+        RAW.mkdir(parents=True, exist_ok=True)
+        (RAW / f"kap-{number:02d}.json").write_text(json.dumps(raw, ensure_ascii=False, indent=1) + "\n",
+                                                   encoding="utf-8")
         ranked = fuse(per_question)
         old[number] = {"chapter": number, "seconds": round(time.time() - started, 1),
                        "per_question": per_question, "ranked": ranked[:max(keep, 10)]}
@@ -254,6 +265,45 @@ def sources_section(ranked: list[dict], questions: list[dict], rows: dict[str, d
     return "\n".join(lines) + "\n"
 
 
+def numbered(snippet: str) -> list[str]:
+    """qmd's snippet as file lines, each with its number, as `read.py` prints them.
+
+    The number keeps any source line from starting a page section („## …") and
+    says exactly where to look; a fence inside the source is broken up.
+    """
+    head = SNIPPET_HEAD.search(snippet or "")
+    start = int(head.group("start")) if head else 0
+    body = (snippet or "")[head.end() + 1:] if head else (snippet or "")
+    lines = body.split("\n")
+    while lines and not lines[-1].strip():
+        lines.pop()
+    return [f"L{start + i:<5} {line.replace('```', '` ` `')}".rstrip() for i, line in enumerate(lines)]
+
+
+def raw_section(raw: list[dict], questions: list[dict], read: set[str]) -> str:
+    """Every question with the first hits qmd returned for it, unfiltered, as qmd wrote them."""
+    shown = {q["id"]: (q["label"], q["question"]) for q in questions}
+    lines = [RAW_HEADING, "",
+             f"Every question above as it was sent, with the first {RAW_SHOWN} hits qmd's vector search "
+             "returned for it, read documents included, as qmd returned them: the document, the line its "
+             "snippet starts at, qmd's score, and the snippet with each file line numbered. Raw search "
+             "output, copied by code from the source files: no hit is a reading, a quotation or a claim, "
+             "and a score is no measure. All hits are in "
+             "`Plan/runs/qmd-chapters-2026-09-26/raw/`.", ""]
+    for entry in raw:
+        label, question = shown.get(entry["id"], ("A", "What this chapter is about, sent as a passage."))
+        summary = question.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        lines += ["<details>", f"<summary><b>{label}</b> — {summary}</summary>", ""]
+        for i, hit in enumerate(entry["hits"][:RAW_SHOWN], 1):
+            match = SOURCE_REF.match(hit.get("file") or "")
+            slug = Path(match.group("path")).stem if match else hit.get("file")
+            state = "read" if slug in read else "unread"
+            lines += [f"{i}. `{slug}` · L{hit.get('line')} · score {float(hit.get('score') or 0):.2f} · {state}",
+                      "", "```qmd", *numbered(hit.get("snippet") or ""), "```", ""]
+        lines += ["</details>", ""]
+    return "\n".join(lines)
+
+
 def with_section(text: str, heading: str, block: str) -> str:
     """The page with the section under `heading` replaced, or appended at the end."""
     start = text.find(heading)
@@ -266,7 +316,7 @@ def with_section(text: str, heading: str, block: str) -> str:
 
 
 def write() -> int:
-    rows = manifest()
+    rows, read = manifest(), read_slugs()
     by_chapter = {}
     if HITS.exists():
         by_chapter = {r["chapter"]: r for r in map(json.loads, HITS.read_text(encoding="utf-8").splitlines())}
@@ -283,6 +333,10 @@ def write() -> int:
             new = with_about(new, about_section(about))
         if number in by_chapter:
             new = with_section(new, HEADING, sources_section(by_chapter[number]["ranked"], questions, rows))
+        raw_path = RAW / f"kap-{number:02d}.json"
+        if raw_path.exists():
+            new = with_section(new, RAW_HEADING, raw_section(json.loads(raw_path.read_text(encoding="utf-8")),
+                                                             questions, read))
         if new != text:
             path.write_text(new, encoding="utf-8")
             changed += 1
@@ -377,6 +431,15 @@ def selftest() -> int:
     if summarised.index(ABOUT) > summarised.index("## Reading") or again.count(ABOUT) != 1 \
             or "Kael fällt." in again or "Kael steht." not in again:
         failures.append("with_about: the summary does not stand once, above the readings")
+    lines = numbered("@@ -12,4 @@ (11 before, 9 after)\n\n## Eine Überschrift\nText mit ```code```\n\n")
+    if lines != ["L12", "L13    ## Eine Überschrift", "L14    Text mit ` ` `code` ` `"]:
+        failures.append(f"numbered: {lines}")
+    block = raw_section([{"id": "K3-02", "query": "vec: x", "hits": [
+        {"file": "qmd://sources/u1.md", "line": 13, "score": 0.5, "snippet": "@@ -13,1 @@\n## Kopf"}]}],
+        questions, {"read"})
+    if re.search(r"^## Kopf", block, re.M) or "<b>S1</b>" not in block or "· unread" not in block \
+            or block.count("```qmd") != 1:
+        failures.append(f"raw_section: {block}")
     for failure in failures:
         print(f"FAILED  {failure}")
     print("chapter_sources selftest: " + ("held" if not failures else f"{len(failures)} failed"))

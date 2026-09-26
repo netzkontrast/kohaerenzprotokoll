@@ -75,6 +75,10 @@ MARKER = re.compile(r"\s*\[(?:User Query|Adressiert)[^\]]{0,60}\]")
 # run prints how many those are.
 QUOTE = re.compile(r"„(?P<quote>[^„“]{8,400})[“\"]")
 CITE = re.compile(r"\^\[(?P<ref>[^\]\n]{2,80})\]")
+# A ```qmd fence holds a search's raw answer, copied by code from a source file
+# with each line's number beside it: a place to look, never a quotation the page
+# makes. Only this info string is skipped; a quotation in any other fence counts.
+RAW_FENCE = re.compile(r"^```qmd\n.*?^```", re.S | re.M)
 UNKNOWN_SOURCE = "which document this ^[Lnn] means cannot be determined"
 REF = re.compile(r"^(?:(?P<slug>[A-Za-z0-9\-]+)\.md:)?L(?P<line>\d+)(?:\s*[-\u2013]\s*(?P<last>\d+))?")
 
@@ -179,6 +183,11 @@ def line_of(starts: list[int], pos: int) -> int:
     return bisect_right(starts, pos) - 1
 
 
+def unraw(text: str) -> str:
+    """`text` with every ```qmd fence blanked, same length and same lines."""
+    return RAW_FENCE.sub(lambda m: re.sub(r"[^\n]", " ", m.group(0)), text)
+
+
 def pairs(text: str) -> list[tuple[re.Match, list[str]]]:
     """Every quotation in `text`, with the references that belong to it.
 
@@ -186,6 +195,7 @@ def pairs(text: str) -> list[tuple[re.Match, list[str]]]:
     `graph.py` serves its quotations as evidence from it, so the two can never
     disagree about which reference a quotation carries.
     """
+    text = unraw(text)
     starts = line_starts(text)
 
     # A line may carry several quotes and one reference -- a table row often does.
@@ -305,7 +315,7 @@ def tally(targets: list[Path] | None = None) -> dict:
     for path in targets:
         text = path.read_text(encoding="utf-8")
         found, skipped = check_file(path, slug_of(path, text), text)
-        checked += len(QUOTE.findall(text)) - skipped
+        checked += len(QUOTE.findall(unraw(text))) - skipped
         uncited += skipped
         problems += [(path, problem) for problem in found]
     return {"checked": checked, "unresolved": len(problems), "unchecked": uncited,
