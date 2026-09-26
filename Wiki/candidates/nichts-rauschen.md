@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -117,3 +117,11 @@ The system is what it is by that contrast: „Identität durch Negation. Existen
 At the perturbation the Entität bears on it: „Eine Präsenz, die das Nichts-Rauschen um sie herum zu verzerren schien." ^[koharenz-protokoll-kapitel-0-v2-md.md:L371]
 In the fragment's present-tense Ich, before any name, the void is active: „Das Nichts hier ist aktiv. Es negiert jede Abweichung von sich." ^[koharenz-protokoll-kapitel-0-v2-md.md:L71]
 The Genesis opens with `Rauschen` alone — „Ich bin dieses Rauschen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L59] — which stays apart from this page (J51).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — what AEGIS takes for chaos, and where Juna was sent
+
+„das, was AEGIS für feindliches Chaos hält — das Nichts-Rauschen — ist in Wahrheit die atemporale Vereinigung aller mutualen Information. Es ist Liebe als Naturgesetz." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33] The inversion table sets „Nichts-Rauschen = feindliches Chaos" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L75] against „Nichts-Rauschen = atemporale Vereinigung aller MI" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L75].
+Before the separation the Ursprungs-Ich lived in it: „Es ist offen, fühlt, ist eingebunden in das, was später Nichts-Rauschen genannt wird." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178]
+It is where [[juna|Juna]] was banished: „Deshalb konnte AEGIS Juna ins Nichts-Rauschen verbannen, aber nicht löschen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L116] The trauma section says who was sent there in other words: „Es spaltet das Ursprungs-Ich (Juna) ab und verbannt es ins Nichts-Rauschen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] — the Ursprungs-Ich named Juna, where the Genesis beats have the Ursprungs-Ich meet her — „die Begegnung mit Juna, mit dem, was sich später als atemporales Coheron entpuppt" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179] — and become [[komponente-734|Komponente 734]] (L180). The document does not relate the two.
+In the Vortex's silence: „Nichts-Rauschen wird absolute Stille." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L813]
+It does not write `Reinform` or make the Nichts-Rauschen a layer (`Reinform` 0, `Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify-readers.txt`); its `Schicht 1` is the trauma's foundation in Köln (L431).
