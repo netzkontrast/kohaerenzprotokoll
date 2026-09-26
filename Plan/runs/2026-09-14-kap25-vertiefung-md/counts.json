@@ -1,0 +1,1134 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "drive_id": "16fH9lfMMZR-S67EgR3aJiKGc-h5Ws2MeJu61xcVCq-4",
+  "step": "counts",
+  "at": "2026-09-26",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Sessionprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Kapitel 25": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        51
+      ]
+    },
+    "Kap 25": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        21,
+        23,
+        31,
+        55,
+        57,
+        60
+      ]
+    },
+    "Wegkreuzung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        23,
+        38
+      ]
+    },
+    "Kap 0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kap 30": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kap 24": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        31
+      ]
+    },
+    "Kap 26": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        22,
+        23,
+        25,
+        38,
+        56
+      ]
+    },
+    "Akt-II-Arc": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Schwellensequenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Masterplan-Zeile": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        23
+      ]
+    },
+    "Zukunftsverluste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "physische Verzweigung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Körperbogen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Rahmenpoetik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Entscheidung": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        38,
+        53
+      ]
+    },
+    "Bestätigungsfeld": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Nicht-Handlung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Freeze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Arc-Auflage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Kapitelversprechen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Schleier": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        31,
+        56
+      ]
+    },
+    "Sprecher-Tags": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        47
+      ]
+    },
+    "Schleier-Disziplin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Optionlock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Einheit von Station 7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Station 7": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        59
+      ]
+    },
+    "Priorität-1-Wasserführung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Eigennutz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Restwertschwelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "technischen Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Kael": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        22,
+        23,
+        40,
+        47
+      ]
+    },
+    "EINHEIT 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "AEGIS": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        55
+      ]
+    },
+    "Wegkreuzung wird physisch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "KW3": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        23,
+        31,
+        39,
+        60
+      ]
+    },
+    "Platte 204": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Kennungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Treppenschacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Delta-Sieben": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        59,
+        60
+      ]
+    },
+    "Canon-Weltanker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Wartungsschächte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        31
+      ]
+    },
+    "Anker 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Anker 734 dritte Wiederkehr": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Stehen an der Schwelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "der Tritt darüber": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Hook-in": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Hook-out": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Verkleidung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Vorgang ohne Datentyp": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Klick": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        57
+      ]
+    },
+    "Abwesenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        57
+      ]
+    },
+    "Restzahl": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        47
+      ]
+    },
+    "Template-Kopf": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        58
+      ]
+    },
+    "Regel 6": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "drittes Fenster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Station 11/12/7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Canon": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        22,
+        23,
+        31,
+        43,
+        56,
+        60
+      ]
+    },
+    "Hitze-Polarität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "R-Regeln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "KW3-Sensorik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Sensorik-Lookup": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Self-Review": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        45
+      ]
+    },
+    "Alex": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Lex": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Wechselmechanik ohne Label": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Pflicht-Checks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Drafting-Brief": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Die Niederlegung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Warteschlange": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Datensatz ohne Datentyp": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Stufen-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Motivherkunft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "interner Wahlpunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Wegkreuzung/Tore": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Schritt ins Ungewisse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "KW3-Unterorte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Schleusen des Misstrauens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Gänge der Paranoia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Panoptikum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Kontrollpunkt-/Überwachungslogik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Nox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Echo": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        47
+      ]
+    },
+    "Limina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Schutz-Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Aktionssystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "ANP-Alltagssystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "inneres Tauziehen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Kai": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Abwehr-Welt-Ästhetik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Umgebung als Antagonist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Co₁/McL/B/Ly-Taxonomie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "KW-Kanon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Welt-Sensorik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "R-1": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        47
+      ]
+    },
+    "R-3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "R-5": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "R-10": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        47
+      ]
+    },
+    "Vielheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Mikrocues": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "kaltes Ozon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Abmeldeszene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Wärme": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        47
+      ]
+    },
+    "Wärmespur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Genesis-Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Kap-0-Zitate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Ein-Falschheits-Regel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Falschheit": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        47
+      ]
+    },
+    "Inhaltserfassung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Telefon-Stille-Anker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "POV-Konsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "NCP-Drift-Check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Storyform-Slots": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Aligned": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "OQ-25-A": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "AEGIS-Benennung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Benennungslock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Log-Format": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Sprach-DNA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "VERSALIEN-Direktiven": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "OQ-25-B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Schleier-Benennung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Wohneinheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        60
+      ]
+    },
+    "OQ-25-C": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Klick-Motiv-Budget": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Vortex 1 Beat 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "das Fehlen des Klicks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Eskalationsstufe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "OQ-25-D": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Header-Szenenplan": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Szenenplan": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        58
+      ]
+    },
+    "OQ-25-E": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Einheit Station 7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Delta-Sieben-Figur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "OQ-25-F": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Kernwelt-Mapping": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "KW2": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60
+      ]
+    },
+    "Verwaltungstopologie der Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Datenknoten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Wohneinheit 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Wartungsebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Treppenkopf": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "KW-Progression": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Filterregime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Akt I": {
+      "n": 1,
+      "n_including_compounds": 7,
+      "lines": [
+        55,
+        59,
+        60
+      ]
+    },
+    "Akt II": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        55,
+        59,
+        60
+      ]
+    },
+    "Akt III": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "ANP": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "TSDP": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    }
+  }
+}

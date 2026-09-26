@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      14
+  backslash escapes      52
+  typographic marks      62
+  ascii quotes           26
+
+# inflection families -- one term, several surfaces
+  kapit    Kapitel, Kapiteldateien, Kapitels, Kapitelversprechen, Kapitelwahl
+  daten    Datenknoten, Datensatz, Datentyp, Datenwerte
+  entsc    Entscheidung, Entscheidungen, Entscheidungsfindung
+  körpe    Körper, Körperbild, Körperbogen
+  szene    Szene, Szenen, Szenenplan
+  abwei    ABWEICHEND, Abweichung
+  autor    Autor, Autorentscheid
+  benen    Benennung, Benennungslock
+  check    Check, Checks
+  datei    Datei, Dateien
+  drive    Drive, Driver
+  einhe    EINHEIT, Einheit
+  falsc    Falschheit, Falschheits
+  handl    Handlauf, Handlung
+  kanon    Kanon, Kanonischer
+  keine    KEINE, Keine
+  kennu    Kennung, Kennungen
+  kernw    Kernwelt, Kernwelten
+  klick    Klick, Klicks
+  kontr    Kontraste, Kontrollpunkt
+  licht    Licht, Lichtführung
+  motiv    Motiv, Motivherkunft
+  nachb    Nachbarkapitel, Nachbarkapiteln
+  nicht    Nicht, Nichts
+  optio    Optionen, Optionlock
+
+# substring pairs -- never one term, often merged by accident
+  Ende < Abende
+  Ende < Schichtende
+  Hand < Handlauf
+  Hand < Handlung
+  Hand < Handszene
+  Kael < Kaels
+  Kein < KEINE
+  Kein < Keine
+  Kopf < Treppenkopf
+  Lauf < Laufs
+  Lauf < Handlauf
+  Lauf < Wochenlauf
+  Orte < Vortex
+  Orte < Unterorte
+  Plan < Masterplan
+  Plan < Szenenplan
+  Satz < Datensatz
+  Slot < Slots
+  Tags < Alltagssystem
+  Tore < Autorentscheid
