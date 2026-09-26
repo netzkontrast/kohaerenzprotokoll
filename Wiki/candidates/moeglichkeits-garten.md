@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -17,6 +17,8 @@ Guardian and filled out across the same eight fields.
 Until this document, `Kern-Welten` was a term two sources used and neither
 defined — once inside a parenthesis, as already understood. This one names four
 of them and gives each its own physics.
+
+**That pairing is the 2025 document's.** Later sources decouple the worlds from the Guardians: the worldbuilding concept calls the four Kernwelten „Akt-Marker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453], „nicht je ein Guardian-Reich" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453].
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -184,3 +186,21 @@ The whole fourth world: „\*\*KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 2
 „Im Roman: KW4 (Möglichkeits-Garten) und der Vortex selbst operieren auf aletheia-Ebene." ^[kohaerenz-protokoll-konzept-master-md.md:L722]
 „KW4: der Leser muss generativ mitarbeiten — Bedeutung wird nicht gefunden, sondern erzeugt." ^[kohaerenz-protokoll-konzept-master-md.md:L672]
 No place inside it is named (C5).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — both scales again, a world and a place in it
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+**Both a name for KW4 and a place inside it**, under two surfaces, as in the konsolidiertes Konzept (J61). The world:
+„KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L584]. „Einzige Zone, in der neue Coheronen entstehen können" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586] —
+„Der überwucherte Ruinengarten der Möglichkeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586] „Hier wird die Funktionale Multiplizität eingeübt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586]
+„Warmes, dynamisches Licht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L590] „Feuchte Erde + Ozon (das Riss-Echo, hier konstruktiv statt destruktiv)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L594]
+„Computational Class: Generativ" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L598]. Its style level: „Ebene 3 — poetisch, atemporal, zeit-fluide." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L606]
+„KW4 dominiert Akt III (Ch29–34, 37–39)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L624]
+
+The place: „Der Möglichkeits-Garten" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618] — „überwucherte Ruinenarchitektur." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618]
+„Hier wird die Funktionale Multiplizität als Erlebnis (nicht als Konzept) erreicht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618] Beside it, the [[nexus|Nexus]] and the
+Mosaik-Herz (L619–L620). `Resonanz-Kontinuum` does not occur (0, counted in `05-verify-readers.txt`).
+
+On the page's Guardians, its claim about the older drafts: „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
+A reading for C5 on both sides at once.
