@@ -13,9 +13,10 @@ gathered: "2026-09-25"
 **The novel's ending returns to its beginning, the same once more and read
 the other way, with the pain left as it was.** The sources write it as
 `Ouroboros-Struktur`, `Ouroboros-Klammer`, `Ouroboros-Schluss` and
-`Ouroboros-Ending`. They differ on what repeats (an image or a sentence) and
+`Ouroboros-Ending`. They differ on what repeats (an image or a sentence, and in
+the philosophy catalogue a word as well) and
 where (Kap 1 ↔ Kap 39, Kap 40, or both brackets). Some also use `Ouroboros` for
-something the Wir goes into in Kap 38, or for something the Alter architecture
+something the Wir goes into in Kap 38 (in the philosophy catalogue, Kap 39), or for something the Alter architecture
 can do. Each reading is below, attributed and unmerged.
 
 ## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28
@@ -108,7 +109,11 @@ A section marked `[K]`, „§9.4 Ouroboros — Schluss-Struktur [K]" ^[kohaerenz
 „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]
 „Die Ouroboros-Struktur ist spürbar, nicht erklärt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L467]
 „Stattdessen: das Bild, das in Kap 1 stand, steht in Kap 39 wieder — aber Kael steht jetzt anders darin." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L467]
-And in Kap 39: „Das Wir entscheidet, ins Ouroboros zu gehen — nicht aus Pflicht, nicht aus Befehl, sondern weil das Bleiben das ist, was Liebe heißt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L459]
+Where, and what repeats between Kap 1 and Kap 39: a word, the „Lexem-Echo" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470] of `da`; the outer pair is „Kap 0↔40 (Genesis-Klammer)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470]
+Kap 40 carries the name too, in its chapter table: „Habermas (Wahrheit vs. Richtigkeit) + Ouroboros" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L738].
+And in Kap 39, under Mahayana compassion (§9.3, `[K]`): „Das Wir entscheidet, ins Ouroboros zu gehen — nicht aus Pflicht, nicht aus Befehl, sondern weil das Bleiben das ist, was Liebe heißt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L459] Its chapter table has the same school's decision one chapter earlier, Kap 38 „Wir-Geflecht entscheidet zur pluralen Bewahrung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L733], without the name.
+It names no telephone for the image (`05-verify-readers.txt`).
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (reconcile-28).
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -143,12 +148,13 @@ Ouroboros ending (L272). A sentence: [[kael|Kael]] writes the locked first sente
 Kap 1 as his last (Kapitel-Kompendium, glossary, storyform outline, drafting
 manual, Plot-Konkretisierung). The storyform outline has both in one Kap-39 beat
 (L414); the philosophy document writes the image and the sentence side by side
-(L464, L467).
+(L464, L467), names no image, and adds a word, the `Lexem-Echo` of `da` (L470).
 
 **Where.** Kap 1 ↔ Kap 39 (konsolidiertes Konzept, Worldbuilding-Konzept,
 Kapitel-Kompendium, glossary, storyform outline); the Coda, Kap 40 (Kernwelten
 L729, L866); both Kap 1 ↔ 39 and Kap 0 ↔ 40 under the one name (philosophy
-L464, drafting manual L614). The Kapitel-Kompendium, the glossary and the
+L464, which calls the outer pair the Genesis-Klammer within it, L470, and writes
+`Ouroboros` in Kap 40's row, L738; drafting manual L614). The Kapitel-Kompendium, the glossary and the
 storyform outline call Kap 0 ↔ 40 the Genesis-Klammer and keep the Ouroboros
 name for the inner bracket.
 
@@ -157,7 +163,8 @@ exchange, one of the resolution's two paths (konsolidiertes Konzept L1312,
 Worldbuilding-Konzept L859); the co-presence of two truths (the analysis, L249);
 something the Wir decides to go into, in Kap 38 Beat 5 (iteration-genesis,
 konsolidiertes Konzept, chapter outline, glossary, storyform outline) or in
-Kap 39 (philosophy L459); a capacity of the Alter architecture (character bible
+Kap 39 (philosophy L459, whose chapter table puts the Wir's decision for plural
+preservation in Kap 38, L733); a capacity of the Alter architecture (character bible
 L722, Alter profiles L683).
 
 **Whether beginning and end coincide.** They do in Kernwelten (L729) and the
@@ -179,4 +186,4 @@ writes it last (L127).
 - How the Kap-39 writing is staged — the storyform outline leaves it to encoding
   (L491); the Plot-Konkretisierung proposes a history for it (L100).
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `worldbuilding-konzept-kohaerenzprotokoll-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose readings here were checked against the full documents on 2026-09-26 and which have a census each (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation each (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`).
