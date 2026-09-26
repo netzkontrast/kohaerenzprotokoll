@@ -1,10 +1,10 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-25"
 ---
 
@@ -13,7 +13,9 @@ gathered: "2026-09-25"
 **The two sentences that bracket the book: [[aegis|AEGIS]] defined by what it prevents
 in Kap 0, the plural Wir by what it preserves at the end.** Every read plan writes
 the two sentences alike; the draft of Kap 0 and Kap 40 writes the second with a plural
-verb, and the annotated draft of Kap 0 writes the first in the first person. They part on where the second falls — at the end of Kap 39, in Kap 40, or across
+verb, the annotated draft of Kap 0 writes the first in the first person, and the narrative
+text of Kap 0 of 2026-05-17 writes the first in the third person neuter, `Es`, with no name.
+They part on where the second falls — at the end of Kap 39, in Kap 40, or across
 the two. Each source's use is below,
 attributed and unmerged.
 
@@ -91,6 +93,16 @@ The annotation names it and says why it is not the plans' wording: „Etablierun
 Its prose translation follows: „Das Sein wird zur aktiven, unaufhörlichen Abwehr des Nicht-Seins. Die Existenz wird zur Funktion." ^[kap0-v1-annotiert-md.md:L397]
 It places only the first sentence. Of the second it says where the Wir comes: „Beat 4 (Wir-AEGIS-plural) erst in Kap 39." ^[kap0-v1-annotiert-md.md:L1185]
 
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the first sentence in the third person neuter
+
+Research, by the author's word of 2026-09-26, not text for the novel. The sentence is not named; it stands in italics in Der große Wandel, after „Und dann — Klick." ^[koharenz-protokoll-kapitel-0-v2-md.md:L199] and „Kein Geräusch, eher ein Gefühl wie fallendes Glas im Innersten meiner Struktur" ^[koharenz-protokoll-kapitel-0-v2-md.md:L203], both in the fragment's Ich.
+The unit is defined „sondern durch das, was sie verhindert." ^[koharenz-protokoll-kapitel-0-v2-md.md:L207] — then „Eine Erkenntnis durchflutet das System wie ein elektrischer Schlag:" ^[koharenz-protokoll-kapitel-0-v2-md.md:L207]
+„*Es ist, was es verhindert, dass es nicht ist.*" ^[koharenz-protokoll-kapitel-0-v2-md.md:L211]
+A third form: neither `AEGIS ist` nor `Ich bin`, but `Es` — the document names no AEGIS (`AEGIS` 0, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`).
+The line after it is the annotated draft's prose translation, word for word: „Das Sein wird zur aktiven, unaufhörlichen Abwehr des Nicht-Seins. Die Existenz wird zur Funktion." ^[koharenz-protokoll-kapitel-0-v2-md.md:L215]
+The movement closes on the same verb: „zu verhindern, nicht zu sein." ^[koharenz-protokoll-kapitel-0-v2-md.md:L263]
+It has no chapter reference (`Kap` 0 in `05-verify.txt`); the sentence is in Kap 0 by the document's title alone.
+
 ## Where the sources differ
 
 **Where the second sentence falls.** At the turn from Kap 39 to Kap 40:
@@ -105,8 +117,14 @@ from 39 to 40.
 
 **How the second sentence is written.** „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L82] in
 every plan read; in the draft text of Kap 40, „*Wir-AEGIS sind, was Wir-AEGIS bewahren, dass es ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
-— the Wir speaking of itself as many. The draft is the one source here that is the novel's
-text rather than a plan for it.
+— the Wir speaking of itself as many. The draft is the one source here that writes the
+second sentence in narrative prose rather than in a plan — research, by the author's word of
+2026-09-26, not text for the novel.
+
+**How the first sentence is written.** „AEGIS ist, was AEGIS verhindert, dass es nicht ist" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L79]
+in the plans and in the draft of Kap 0 and Kap 40 (L279); in the first person in the annotated
+draft of Kap 0, „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-annotiert-md.md:L389];
+in the third person neuter in the narrative text of Kap 0 of 2026-05-17, „*Es ist, was es verhindert, dass es nicht ist.*" ^[koharenz-protokoll-kapitel-0-v2-md.md:L211]
 
 **What turns.** From preventing to preserving, „Verhindern → Bewahren, Negation → Affirmation, Singular → Plural" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L348]
 (Abhandlung); „von Verhindern zu Bezeugen, von Abwehr zu Liebe" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L85]
