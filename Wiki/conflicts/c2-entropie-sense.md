@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 9
+sources: 10
 pages: ["entropie"]
 ---
 
@@ -117,3 +117,12 @@ The same side as the konsolidiertes Konzept (AEGIS *is* the entropy it fights), 
 
 **Once, as what AEGIS exports.**
 „gezielter Export von Entropie — das ist ihre Seinsweise." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L315] — 734's work at the border. Disorder expelled to keep order; the first sense. Found by the sweep.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**The third sense — AEGIS is the entropy it fights — with the Erasonen as the condition of history.**
+„AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33]
+In its table of what AEGIS believes against what holds: „AEGIS = Entropie-Architektur (K₀)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L74]; and „AEGIS kämpft gegen die Entropie, die es selbst erzeugt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L82]
+The [[nichts-rauschen|Nichts-Rauschen]] AEGIS takes for hostile chaos is „die atemporale Vereinigung aller mutualen Information" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33] — sense 2's counterpart, not called entropy.
+Its K₀ side is said of the Erasonen, not of the word: „Ohne Erasonen gibt es keine Zeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] „Erasonen sind die thermodynamische Bedingung von Geschichte selbst." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] Near the glossary's fourth sense, the condition of events, without writing `Entropie` there.
+The konsolidiertes Konzept's third sense in its words, on its date; the conflict stays open.
