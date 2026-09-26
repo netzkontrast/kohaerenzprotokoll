@@ -73,5 +73,49 @@
    "question": "Kann die ältere Idee vom Dilemma des Wächters, in der Mnemosyne zwischen Erinnerungsintegrität und AEGIS-Direktive zögert, in Kapitel 20 eine Gegenkraft mit eigenem berechtigtem Ziel liefern, ohne die Guardian-Locks zu brechen?",
    "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §5.5 Gegenfigur mit eigener Absicht"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er laut der strukturierten Outline fluide Regeln der Lyons-Welt nutzt, um AEGIS' Interventionen kreativ zu umgehen, und was stellt sich ihm entgegen: AEGIS' neue Regeln, oder laut der Plot-Konkretisierung der Klick der Bestätigung, vor dem er einen Selbst-Bestand kopiert?",
+   "draws_on": "plot beats of the strukturierter Outline and Plot-Konkretisierung"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kael laut der Plot-Konkretisierung seine erste Fälschung begeht und einen Selbst-Bestand kopiert, bevor er ihn bestätigt: was verliert er, wenn der Apparat sie entdeckt, und was gewinnt er, wenn er ausgleicht und behält?",
+   "draws_on": "Plot-Konkretisierung"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist nach der Lyons-Kreativität anders als nach AEGIS' Intervention, wenn Kael bewusst neue Wege sucht und der Klick laut der Plot-Konkretisierung zum ersten Mal anders klingt, und kippt Gehorsam gegenüber dem Apparat dabei in stilles Behalten?",
+   "draws_on": "Storyform A in every plan; Plot-Konkretisierung's Leitmotiv"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Lyons-Kreativität erzählt, wenn die strukturierte Outline Kael kreativ-polyphon nennt, ein Wir, das Neues wagt, und wie klingt diese polyphone Stimme anders als der dyssynchrone Kael des Cache-Konflikts?",
+   "draws_on": "POV in the strukturierter Outline and 39-chapter spec; neighbour kap-18"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die kreative Lösung, in der Lyons-Welt als Vorgriff auf KW4 laut der strukturierten Outline oder in KW2 als Genesis-Bridge laut Kernwelten vollständig, und wie verankern fluide Regeln, Emergenz-Texturen und eine Kernwelt, die mit-denkt, den Körper?",
+   "draws_on": "the place in the strukturierter Outline vs Kernwelten vollständig; the Sensorik notes"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Lyons-Kreativität nach AEGIS' offener Erasure-Logik und Mnemosynes Manipulation ein, und welches Ereignis trägt den Leser zur Membran, an der Kael bewusst die Grenzen der Simulation testet und das Potentialmeer spürt?",
+   "draws_on": "neighbours: the AEGIS-Intervention chapter and the Membran chapter"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Lyons-Kreativität als Korrektur, die den zweiten Spiral-Zyklus schließt, wenn die strukturierte Outline hier wie bei der Wächterin die erste bewusste Pursuit-Bewegung setzt, und was fehlte ohne das Echo der Schöpferkraft vor der Trennung oder laut Kernwelten vollständig ohne die Genesis-Bridge?",
+   "draws_on": "cycle stage; the differences on first conscious Pursuit and the Genesis flashback (C12)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn der Klick zum ersten Mal anders klingt und Kael behält, was er ausgleichen sollte, und wie berührt dieses heimliche Behalten eines Selbst-Bestands das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Plot-Konkretisierung"
+  }
+ ],
+ "about": "Alle gelesenen Quellen stellen die Lyons-Kreativität in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Korrektur, mit der der zweite Spiral-Zyklus schließt. Kael nutzt fluide Regeln, laut der strukturierten Outline die der Lyons-Welt als Vorgriff auf KW4, um AEGIS' Interventionen kreativ zu umgehen, kreativ-polyphon erzählt, ein Wir, das Neues wagt, und die strukturierte Outline hört darin ein Echo der Schöpferkraft vor der Trennung. Storyform A führt die MC-Solution als erste bewusste Pursuit-Bewegung, Storyform B bleibt latent; die strukturierte Outline gibt dieselbe Formel schon der Wächterin. Laut Kernwelten vollständig liegt das Kapitel in KW2 als Genesis-Bridge, mit der die Genesis-Flashbacks beginnen, während die strukturierte Outline und die Storyform-Outline sie schon mit der Cluster-Bildung beginnen lassen. Laut der Plot-Konkretisierung begeht Kael seine erste Fälschung: er kopiert einen Selbst-Bestand, bevor er ihn bestätigt, gleicht aus und behält, und der Klick klingt zum ersten Mal anders.",
+ "about_draws_on": "readings of the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, strukturierter Outline, Kernwelten vollständig, storyform outline and Plot-Konkretisierung; the page's differences on the Genesis flashback and first conscious Pursuit; placement from every reading's Position line (Zyklischer Modus; Shō in the strukturierter Outline; Akt II in the Kapitel-Kompendium and storyform outline; Akt II Mitte/Ende in Kernwelten vollständig; block Der Innentäter in the Plot-Konkretisierung) and the cycle stage in the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec and strukturierter Outline"
 }

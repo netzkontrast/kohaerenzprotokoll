@@ -73,5 +73,49 @@
    "question": "Kann die ältere Idee, AEGIS patche in Kapitel 19 ein in Kapitel 18 entdecktes Schlupfloch in Echtzeit, die Intervention konkret machen, ohne einen Lock zu verletzen?",
    "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §4.5 #9"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn AEGIS seine wachsende Kohärenz bemerkt und sie mit neuen Regeln und widersprüchlichen Informationen stört, und wer stellt sich ihm entgegen: AEGIS direkt, oder laut der strukturierten Outline Mnemosyne, die Junas Erinnerung gegen ihn nutzt?",
+   "draws_on": "plot beats and Mnemosyne in the strukturierter Outline"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn AEGIS' Erasure-Logik offen auftritt und der Apparat laut der Plot-Konkretisierung Kael seine eigene Vergangenheit zur Konsolidierung vorlegt: was verliert er, wenn er konsolidiert, und was, wenn er sich weigert?",
+   "draws_on": "Storyform B in every plan; Plot-Konkretisierung"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist nach der Intervention anders als nach dem Cache-Konflikt, wenn die Systemlüge klarer benannt wird und laut der Plot-Konkretisierung der Options-Pool sichtbar und zählbar wird, und kippt verdeckte Steuerung dabei in offene Löschung?",
+   "draws_on": "Storyform A in the Konzept-Iteration Genesis and konsolidiertes Konzept; Plot-Konkretisierung"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Intervention erzählt, wenn die strukturierte Outline und die Drei-Modi-Spec Kael und ein direkteres AEGIS-Log nennen und die strukturierte Outline eine AEGIS-Mikroszene als Bridge setzt, und wie klingt AEGIS' kalte Stimme, deren Logik wie ein Schnitt funktioniert?",
+   "draws_on": "POV and Bridge in the strukturierter Outline; 39-chapter spec"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Intervention, in KW2 als AEGIS-Eskalation laut Kernwelten vollständig, und welche Sinneseindrücke verankern sie: kalte Stimme und KI-Ethik-Kalkül, oder der Ausschlag des Landauer-Strangs, den dieselbe Quelle hier setzt?",
+   "draws_on": "Kernwelten vollständig; the Sensorik notes"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Intervention nach der gescheiterten Multi-Welten-Aufgabe und dem Genesis-Flashback der Cluster-Bildung ein, und welches Ereignis trägt den Leser zur Lyons-Kreativität, in der Kael AEGIS' Interventionen mit fluiden Regeln umgeht?",
+   "draws_on": "neighbours: the Cache-Konflikt chapter and the Lyons chapter"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die AEGIS-Intervention als Reaktionsphase des zweiten Spiral-Zyklus und laut der strukturierten Outline als Signpost Learning der OS in Storyform B, und was fehlte, wenn in AEGIS' offener Logik nicht die Algorithmische Schrecken-Phase der Genesis wiederkehrte?",
+   "draws_on": "cycle stage; OS signpost in the strukturierter Outline; Genesis echo in the Konzept-Iteration Genesis"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Mnemosyne Junas Erinnerung gegen Kael wendet und laut der Plot-Konkretisierung die Schlange plötzlich Bestände priorisiert, die ihn betreffen, und wie berührt das Thema, dass Liebe bleibt wie der Schmerz, wenn die Erinnerung an Liebe zur Waffe wird?",
+   "draws_on": "readings of the strukturierter Outline and Plot-Konkretisierung"
+  }
+ ],
+ "about": "Alle gelesenen Quellen stellen die AEGIS-Intervention in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Reaktion im zweiten Spiral-Zyklus, zwischen Cache-Konflikt und Lyons-Kreativität. AEGIS bemerkt Kaels wachsende Kohärenz und stört sie aktiv mit neuen Regeln und widersprüchlichen Informationen, und laut der strukturierten Outline nutzt Mnemosyne Junas Erinnerung manipulativ gegen Kael. Storyform A führt die MC-Issue, die Systemlüge wird klarer benannt; in Storyform B tritt AEGIS' Erasure-Logik in der OS-Physics offen auf, laut der strukturierten Outline als zweiter Signpost der OS, Learning, mit einem Action-Driver, der härter greift, und mit einer AEGIS-Mikroszene als Bridge. Laut der Plot-Konkretisierung priorisiert die Schlange plötzlich Bestände, die Kael betreffen, der Apparat legt ihm seine eigene Vergangenheit zur Konsolidierung vor, und der Options-Pool wird sichtbar und zählbar. Kalte Stimme und KI-Ethik-Kalkül tragen das Kapitel, Kernwelten vollständig verortet es als AEGIS-Eskalation in KW2 mit einem Ausschlag des Landauer-Strangs, und laut der Konzept-Iteration Genesis kehrt in AEGIS' offener Logik die Algorithmische Schrecken-Phase der Genesis wieder.",
+ "about_draws_on": "readings of the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, strukturierter Outline, Kernwelten vollständig, storyform outline and Plot-Konkretisierung; placement from every reading's Position line (Zyklischer Modus; Shō in the strukturierter Outline; Akt II in the Kapitel-Kompendium and storyform outline; Akt II Mitte/Ende in Kernwelten vollständig; block Der Innentäter in the Plot-Konkretisierung) and the cycle stage in the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec and strukturierter Outline"
 }
