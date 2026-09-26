@@ -129,7 +129,7 @@ has been promoted.
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
 **370 <!--state:chapters.readings--> readings** from the nine read documents
-that go chapter by chapter, one that names six chapters, one that names three, the draft text of two, and an annotated draft of Kap 0 that names five; `Wiki/overview/` lays the chapters and the plot's
+that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, and an annotated narrative text of Kap 0 that names five; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
 | document | new terms | new readings | new conflicts |
@@ -331,7 +331,9 @@ in no other landed document (Q3). J94 makes `Doppel-Klammer` the Genesis-Klammer
 alias. Reading it found that an absence is the one claim `quotes.py` cannot check: the
 census first said nothing in it is cold, and `kalt` stands three times.
 
-**The twenty-second is the novel's own text: the first draft of Kap 40 and Kap 0.**
+**The twenty-second is narrative text of Kap 40 and Kap 0, and research like the rest.**
+It calls itself a first draft; the author, 2026-09-26: „22 and 23 are research too", not
+text for the novel.
 „Erstfassung in retrograder Schreibordnung", Kap 40 before Kap 0, of the Abhandlung's date
 — and it carries all three of the Abhandlung's Setzungen without naming it: the Wir as the
 Vorwort's voice, warmth in the Resonanzkaskade, the shards after two falling glasses. So a
@@ -346,8 +348,8 @@ false. And its list repeated the nominative defect the briefing had asked about 
 morning — five zeros — so briefing v12 has the reader ask `read.py --find` for a phrase
 before listing it.
 
-**The twenty-third is the annotated draft of Kap 0, nine days later, and it reviews
-itself.** „Entwurf v1, annotiert" of 2026-05-17: ten hard rules, then the prose, with the
+**The twenty-third is an annotated narrative text of Kap 0, nine days later, and it reviews
+itself** — research too, by the author's word. „Entwurf v1, annotiert" of 2026-05-17: ten hard rules, then the prose, with the
 writer's note under every passage — what it is for, what it risks, which rule it breaks —
 and the defects by severity. Against the draft of 2026-05-08 it moves the two things the
 handover asked about. The knuckles enter Kap 0, in Nyx's voice as the separation runs —

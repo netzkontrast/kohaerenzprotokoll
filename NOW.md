@@ -23,11 +23,10 @@ back in question; no date or claim to be canon settles anything. **Narrative
 texts among the unread sources** (2026-09-26) — „Those arent Texts for the novel -
 only Research": read as research, never as the novel's prose.
 
-**Open from that answer:** do the two read narrative documents count the same way?
-`CLAUDE.md` calls document 22, `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`,
-„the novel's own text: the first draft of Kap 40 and Kap 0", and document 23,
-`kap0-v1-annotiert-md`, reviews itself as a draft. Their readings quote what they
-say either way; only that description would change.
+And the two read ones with them: „Yes, 22 and 23 are research too" (2026-09-26).
+`CLAUDE.md`, `aegis`, `aegis-metriken` and the two reconciliation records had called
+them the novel's text, and were corrected; the readings quote what they say and stand.
+A document may still call itself a draft, and a reading may quote that.
 
 ### The novel — where the sources disagree
 
@@ -855,7 +854,7 @@ Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/REA
 - **The handover's two questions, answered: both changed between the drafts.** The knuckles enter Kap 0, in Nyx's voice as the separation runs (L977, C10) — the „Knöchel-Eruption" the later sources put there. And the component becomes Kael, „gerade diese Komponente wird Kael" (L433, C12), where the draft of 2026-05-08 cut Kael out of 734.
 - **J96**: an alter's Vorform is not the alter, and gets no page; the annotation states the alter's syntax signature, so it is a reading on the alter's page. Eleven readings, Moros to Oblivion.
 - **The formula in the first person**, „*Ich bin, was ich verhindere, dass ich nicht bin.*" (L389) — `formel-inversion`'s lead corrected.
-- **H4 without a type** (L689) is `blinder-fleck` shown rather than named; the status lines are `aegis-metriken`'s first reading from the novel's text.
+- **H4 without a type** (L689) is `blinder-fleck` shown rather than named; the status lines are `aegis-metriken`'s first reading from a narrative text.
 - **The Alex conflict is now read from its source**: the document names it itself (L1205), *Questions for the author*.
 - **The scan's `genesis-klammer` reading said this draft came before any Kap 40**; the read draft of both frames is nine days older. Corrected.
 - **Briefing v12 held**: five zeros, all the export's escaping (`\_`, a hyphen split by a wrap), none a nominative.
@@ -866,7 +865,7 @@ Next, by the open records: `three-mode-architecture-39-chapters-md` (2026-05-08)
 
 **The twenty-second document is done: `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-09-25.** 97 candidates, **no page**, readings on 17 pages, seven conflicts moved (C2, C3, C7, C10, C11, C12, C14), J95, two sweep hits (both readings). `Wiki/compare/reconcile-23-kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md` has the record. Chosen because the Abhandlung's handover named it.
 
-- **The novel's text, not a plan.** A first draft, Kap 40 written before Kap 0. Every reading from it is a voice's — the Funken-Ich's first person, AEGIS in the third, Kap 40's Wir.
+- **Narrative text, not a plan** — research, by the author (2026-09-26). It calls itself a first draft, Kap 40 written before Kap 0. Every reading from it is a voice's — the Funken-Ich's first person, AEGIS in the third, Kap 40's Wir.
 - **The Abhandlung's three Setzungen are all in it** (*Questions for the author*, above).
 - **J95**: `Innere Weite` is an alias of `ueberwelt` — three plans gloss one with the other, and the draft defines it as AEGIS' inner simulation space where Kael's remainder is left.
 - **Kael arises twice**: in Kap 0 as what the Trennungsprotokoll cuts away (L485, L505), in Kap 40 as „das Cluster, das aus Komponente 734 herausgetrennt wurde" (L63). C12.

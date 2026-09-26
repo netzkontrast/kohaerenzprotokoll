@@ -85,3 +85,10 @@ zero because the list wrote phrases in the nominative — `retrograde Schreibord
 Version 11 of the briefing asks exactly this, and the reader had written that question the
 same day. A question read before the document does not stop a habit applied while writing
 a list; `Plan/learnings/extract-terms.md` has what might.
+
+## Corrected 2026-09-26, by the author
+
+The author: *"Yes, 22 and 23 are research too"*. This record calls the document the novel's text;
+it is research that happens to be narrative, not text for the novel and not a draft
+of it. Its readings stand as they are — each quotes what the document says, in whose
+voice — and only that description was wrong.
