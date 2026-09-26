@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -114,6 +114,14 @@ Position: „Vortex 2 | 38–39 | Die Übernahme der Funktion“ ^[kp-plot-konkr
 - Plot beats: „Das Rauschen kommt als unendliche Zuweisung — alles beantragt zugleich seine Bewahrung; das Wir erkennt: Kein Apparat reicht“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Beat 2]`)
 - Thread: „Ab Beat 3 (Junas Erscheinung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „ruht der Faden vollständig.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - World: „In Kap 38 ist sie ohne Zahl.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L196] (the Warteschlange)
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Vortex 2 begins; Bodhicitta, plural preservation
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Vortex 2: „Vortex 2 Kap 38–39 ist aletheia in chorischer Form.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] (§3.2 Heidegger, marked `[K]`)
+- Theory anchor: „Mahayana-Mitgefühl (Bodhicitta)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L732] · function „Wir-Geflecht entscheidet zur pluralen Bewahrung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L733] (§14.3)
+- Its section on the same school gives the showing of that change to the next chapter: „Kap 39 muss diese Verwandlung zeigen, nicht erklären.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L459] (§9.3 Mahayana-Mitgefühl, marked `[K]`) — the table puts the decision here, the text in Kap 39, and it does not relate the two.
 
 ## Where the sources differ
 
