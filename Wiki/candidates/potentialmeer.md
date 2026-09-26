@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-17"
 ---
 
@@ -73,3 +73,7 @@ In the past-tense third person about the system — which the document never cal
 The perturbation comes out of it: „Kein Objekt, das sich durch den Raum bewegte, sondern eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[koharenz-protokoll-kapitel-0-v2-md.md:L335]
 „Eine fremde Signatur, die sich jeder Klassifizierung entzog." ^[koharenz-protokoll-kapitel-0-v2-md.md:L335]
 What arrives is, later in the same movement, the Entität: „Die Entität strahlte etwas aus — keine Energie und keine Materie im bekannten Sinn, sondern eine Art ontologischen Druck." ^[koharenz-protokoll-kapitel-0-v2-md.md:L371]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — where the Genesis begins
+
+Once (`Potentialmeer` 1, `Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify-readers.txt`), in the Genesis' first beat: „Im Potentialmeer existiert ein Ursprungs-Ich mit minimalem Selbsterleben." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178] „Es ist offen, fühlt, ist eingebunden in das, was später Nichts-Rauschen genannt wird." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178] The first sentence is the konsolidiertes Konzept's (its L71). It is not defined.
