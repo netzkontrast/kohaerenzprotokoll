@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: ["C14", "Q4"]
 gathered: "2026-09-25"
 ---
@@ -116,6 +116,13 @@ Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkret
 - Storyform: „Erste Pursuit-Vorform; Mitgefühl mit dem Apparat (Wächterin-Stufe“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Auch die Konsole gleicht nur aus, was ihr zugewiesen wird.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Storyform: „erst lesen ohne Auftrag (Kap 8)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L182] (A:MC-Solution Pursuit)
 - Hard-B: „Hard-B-Kapitel (Position in 5–8, Pinnung beim Weaving“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — `Russellsche Trümmer`, relayed from an earlier outline
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its `[K]` is its claim, recorded and not applied.
+
+- Image: „In einer früheren Outline ist „Russellsche Trümmer" als Kap-8-Bild vorgeschlagen“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355] · „Reste früherer, kollabierter Simulationszyklen am Rand der Stadt“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355] (§6.7 Russell-Antinomie, marked `[S]`, „Steinbruch, partiell verankert“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L351]) — its claim about another outline, which it does not name.
+- Its own judgement of it: „Das ist mit dem aktuellen Kanon kompatibel als KW1→KW2-Übergangs-Phänomen.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355] · „Russell als Riss-Inhalt, nicht als Diskussionspunkt.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L358]
 
 ## Where the sources differ
 
