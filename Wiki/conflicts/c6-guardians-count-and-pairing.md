@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 14
+sources: 15
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -188,3 +188,12 @@ do not occur. Recorded after the author's decision for five; it changes nothing 
 „Begründung der Reduktion: 5 Guardians lasten den 39-Kapitel-Plan zu sehr; 2 Guardians + Spiegel-Alters (Silas, Oblivion) tragen die Funktion eleganter." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
 No pairing: „**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
 The author's decision for five (2026-09-24) stands; this is one more source for two, dated the same day as the character bible and the konsolidiertes Konzept, and it gives a reason the others do not: the weight on a 39-chapter plan.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Two, the five named as the old drafts', three absorbed into the Erasure-Pol — from a document that ranks itself below Memory and the Reset-Doc.**
+„Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle. Das war Lore-Last." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L192] — under „III.2 Architektur (post-Reset, kanonisch)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L190].
+„Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201]
+No pairing, but presence: „Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] „Mnemosyne dominiert klar in KW2; der Erasure-Pol durchwirkt KW1 und KW3." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
+Its own rank: „Diese Datei dient als operative Referenz, nicht als Source-of-Truth." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968]
+The konsolidiertes Konzept's account in its words, on its date: row 3's side, two and no pairing. Recorded after the author's decision for five of 2026-09-24; it changes nothing in that decision, and what it says of the old drafts is its claim.
