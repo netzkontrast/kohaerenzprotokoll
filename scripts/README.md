@@ -52,7 +52,8 @@ encodings of one rule drift apart on the first edit (P6).
 |---|---|---|
 | `sources.py` | `status` and `check` compare the manifest with the disk; `next` names the `drive_id`s to fetch; `land` turns a Drive result into a landed document without a model reading it; `fetch` fetches and lands straight from Drive. `land` shells out to `.venv-tools` for markitdown. | `land`, `fetch`: `Sources/drive/<slug>.md` and the row's checksums in the manifest |
 | `duplicates.py` | Whether any landed document is a near-copy of another — the check that should keep saying none. | a cache, `Plan/derived/duplicates.json` |
-| `dedupe.py` | Folds each group of near-copies down to one export, ranked by the source URLs it keeps. Dry run by default. | `--apply`: deletes the copies, moves their rows to `Sources/duplicates.jsonl` and the decision to `Plan/runs/dedupe.json` |
+| `dedupe.py` | Folds each group of near-copies down to one export, ranked first by whether anything already cites it, then by the source URLs it keeps. Dry run by default. | `--apply`: deletes the copies, moves their rows to `Sources/duplicates.jsonl` and the decision to `Plan/runs/dedupe.json` |
+| `overview.py` | Every landed document with its most important names, counted and normalised to the wiki's page names through page surfaces and translation pairs; `scan` asks qmd for each page's name first. `doc <slug>` shows one document's weights. | the generated end of `Sources/README.md`; `scan`: `Plan/runs/qmd-scan/pages.json` |
 
 ## Asking the whole corpus
 
