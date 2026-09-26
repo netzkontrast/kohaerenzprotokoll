@@ -22,6 +22,7 @@ replaced whole on every run: navigation, not readings.
     python3 scripts/chapter_sources.py run [--keep 12] [--only 7,12]   # ask, write hits.jsonl
     python3 scripts/chapter_sources.py write                           # the questions, and the sources once asked
     python3 scripts/chapter_sources.py run --terms [--keep 12]         # every term page, to terms.jsonl only
+    python3 scripts/chapter_sources.py across                          # every table's documents, across chapters
     python3 scripts/chapter_sources.py selftest
 """
 
@@ -384,6 +385,24 @@ def run_terms(keep: int) -> int:
     return 0
 
 
+def across(by_chapter: dict[int, dict], keep: int = 12) -> list[dict]:
+    """Every unread document in some chapter's table: the chapters that list it, in order.
+
+    A document in more than half the chapters' tables is `shared`: the questions of
+    every chapter return it, so it says little about any one of them.
+    """
+    docs: dict[str, dict] = {}
+    for number in sorted(by_chapter):
+        for position, doc in enumerate(by_chapter[number]["ranked"][:keep], 1):
+            entry = docs.setdefault(doc["slug"], {"slug": doc["slug"], "chapters": [], "positions": []})
+            entry["chapters"].append(number)
+            entry["positions"].append(position)
+    half = len(by_chapter) / 2
+    for entry in docs.values():
+        entry["shared"] = len(entry["chapters"]) > half
+    return sorted(docs.values(), key=lambda d: (-len(d["chapters"]), sum(d["positions"]), d["slug"]))
+
+
 def selftest() -> int:
     failures = []
     rows = [{"file": "qmd://sources/read.md", "line": 3}, {"file": "qmd://wiki/x.md", "line": 1},
@@ -440,6 +459,11 @@ def selftest() -> int:
     if re.search(r"^## Kopf", block, re.M) or "<b>S1</b>" not in block or "· unread" not in block \
             or block.count("```qmd") != 1:
         failures.append(f"raw_section: {block}")
+    spread = across({1: {"ranked": [{"slug": "x"}, {"slug": "y"}]}, 2: {"ranked": [{"slug": "x"}]},
+                     3: {"ranked": [{"slug": "x"}, {"slug": "z"}]}})
+    if [(d["slug"], d["chapters"], d["shared"]) for d in spread] != \
+            [("x", [1, 2, 3], True), ("y", [1], False), ("z", [3], False)]:
+        failures.append(f"across: {spread}")
     for failure in failures:
         print(f"FAILED  {failure}")
     print("chapter_sources selftest: " + ("held" if not failures else f"{len(failures)} failed"))
@@ -447,6 +471,14 @@ def selftest() -> int:
 
 
 def main(argv: list[str]) -> int:
+    if argv and argv[0] == "across":
+        rows = manifest()
+        by_chapter = {r["chapter"]: r for r in map(json.loads, HITS.read_text(encoding="utf-8").splitlines())}
+        for d in across(by_chapter):
+            row = rows.get(d["slug"], {})
+            print(f"{len(d['chapters']):>3}  {'shared ' if d['shared'] else '       '}{row.get('index_date', '—')}  "
+                  f"{d['slug']}  Kap {', '.join(map(str, d['chapters']))}")
+        return 0
     if not argv or argv[0] not in {"run", "write", "selftest"}:
         print(__doc__)
         return 2
