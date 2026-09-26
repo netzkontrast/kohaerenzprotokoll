@@ -1,0 +1,77 @@
+{
+ "chapter": 10,
+ "questions": [
+  {
+   "id": "K10-01",
+   "tag": "Konkretheit",
+   "question": "Welches Problem löst Kael in Kapitel 10 konkret durch Lex-Analyse und intuitive K-J-Verbindung – laut Plot-Konkretisierung hält er einen Datensatz, ohne zu klicken – und was riskiert er damit?",
+   "draws_on": "the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md, the reading of kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md; GOAL §4.5 #3"
+  },
+  {
+   "id": "K10-02",
+   "tag": "Konflikt",
+   "question": "In welcher Welt spielt Kapitel 10: in KW1, in einem McL- oder Moonshine-Vorschein innerhalb von KW1, oder in der McL-Welt, wie die Konzept-Iteration Genesis sagt?",
+   "draws_on": "Where the sources differ: world"
+  },
+  {
+   "id": "K10-03",
+   "tag": "Storyform",
+   "question": "Setzt in Kapitel 10 in Storyform B MC-S2 Present mit hörbaren Erasure-Sweeps ein, wie der strukturierte Outline sagt, oder bleibt Storyform B latent – und was hieße das für die Bridge-Quote in Akt I?",
+   "draws_on": "Where the sources differ: Storyform B; GOAL §5.2"
+  },
+  {
+   "id": "K10-04",
+   "tag": "Storyform",
+   "question": "Wie wird in Kapitel 10 der Storypoint RS-Physics in Storyform A, Moonshine als Werkzeug oder A-Requirement Moonshine-Bewusstsein, als Handlung zwischen Kael und Juna sichtbar?",
+   "draws_on": "the reading of kapitel-kompendium-gather-2026-05-31-md, the reading of kohaerenz-protokoll-storyform-und-outline-2026-06-10-md; GOAL §5.2"
+  },
+  {
+   "id": "K10-05",
+   "tag": "Setup/Payoff",
+   "question": "Wo taucht die Zahl 734 in Kapitel 10 somatisch auf, und ist es ihr zweites Erscheinen nach Kapitel 2, wenn Kael schon in Kapitel 1 als Komp 734 in Wohneinheit 14 lebt?",
+   "draws_on": "Where the sources differ: the number 734; GOAL §4.5 #6"
+  },
+  {
+   "id": "K10-06",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird die Wärmestelle in der Stadt, die Kael ab Kapitel 10 kartiert, beschrieben – als Junas Spur, ohne Landauer als Gleichung und ohne sie mit kaltem Ozon zu mischen?",
+   "draws_on": "the reading of kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md (Idea 9); GOAL §5.4 Hitze-Polarität"
+  },
+  {
+   "id": "K10-07",
+   "tag": "Leser-Wissen",
+   "question": "Wenn Multiplizität bis etwa Kapitel 10 nicht ausgesprochen wird, was darf der Leser am Ende von Kapitel 10 über Kaels Vielheit wissen, was Kael selbst, und was AEGIS?",
+   "draws_on": "the reading of kapitel-kompendium-gather-2026-05-31-md, the reading of kohaerenz-protokoll-storyform-und-outline-2026-06-10-md (veil); GOAL §4.5 #5"
+  },
+  {
+   "id": "K10-08",
+   "tag": "Struktur",
+   "question": "Warum zählen die Quellen Kapitel 10 bis 12 als HR-Erweiterungen statt als Murdock-Stufen 10 bis 12, und welche Stufen der dreizehnstufigen Heldinnenreise fehlen damit in Kapitel 10?",
+   "draws_on": "the reading of koharenz-protokoll-konzept-iteration-genesis-md, the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md (stage lines); GOAL §5.1"
+  },
+  {
+   "id": "K10-09",
+   "tag": "Kausalität",
+   "question": "Welches Ereignis am Ende von Kapitel 10 führt in die Mosaik-Akzeptanz von Kapitel 11, und welcher Zukunftsverlust entsteht, wenn Kael die K-J-Verbindung erstmals als Werkzeug benutzt?",
+   "draws_on": "kap-11 page; GOAL §4.5 #4"
+  },
+  {
+   "id": "K10-10",
+   "tag": "Figur",
+   "question": "Wie wirkt Juna in Kapitel 10 nur durch Wirkung und nie als Subjekt, und wie erscheint Silas dort als latente Resonanz?",
+   "draws_on": "the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md (characters); GOAL §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K10-11",
+   "tag": "Figur",
+   "question": "Was bedeutet in Kapitel 10 die Wohneinheit 734 mit Mnemosynes Versuchung, gespiegelt, und Mnemosyne als Echo, wenn Mnemosyne erst in Kapitel 14 deutlich auftritt?",
+   "draws_on": "the reading of kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md; kap-14 page"
+  },
+  {
+   "id": "K10-12",
+   "tag": "Steinbruch",
+   "question": "Kann das ältere Motiv, dass Kael in Kapitel 10 den Ort des Risses aus Kapitel 7 wieder besucht und Narbengewebe einer Flickwerk-Realität findet, eine Lücke füllen, ohne einen Lock zu verletzen?",
+   "draws_on": "the reading of aegis-subplots-kapitelweise-system-exploration-docx (Die Flickwerk-Realität); GOAL §4.5 #9"
+  }
+ ]
+}

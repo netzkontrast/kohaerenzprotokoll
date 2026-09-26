@@ -1,0 +1,77 @@
+{
+ "chapter": 16,
+ "questions": [
+  {
+   "id": "K16-01",
+   "tag": "Konkretheit",
+   "question": "Was tut Kael in Kapitel 16 (Z1-Reaktion, Bunker reaktiv) mit seinem Körper und an welchem Ort, wenn er reflexhaft in Dissoziation und Rückzug flieht, und welche wiederholbare Handlung macht die Betäubung sichtbar?",
+   "draws_on": "strukturierter Outline plot beat (Bunker, Dissoziation); GOAL §4.5 #3"
+  },
+  {
+   "id": "K16-02",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung findet Kael in Kapitel 16 die Posten-Liste des Komplexitäts-Budgets: welches Detail der Stadt wird geopfert, und was riskiert er, wenn er seine Abteilung als Budget-Instrument erkennt?",
+   "draws_on": "Plot-Konkretisierung reading, Lektüre II; its own diagnosis that the chapter lacks what Kael does, loses, risks"
+  },
+  {
+   "id": "K16-03",
+   "tag": "Kausalität",
+   "question": "Wie führt der Trigger aus Kapitel 15 (Trauma-Angst am KW2-Rand, Nyx sichtbar) in Kapitel 16 in den Rückzug in den Bunker, und welches beobachtbare Ereignis am Ende von Kapitel 16 erzwingt die Korrektur in Kapitel 17?",
+   "draws_on": "neighbours kap-15 and kap-17; GOAL §4.5 #4"
+  },
+  {
+   "id": "K16-04",
+   "tag": "Kausalität",
+   "question": "Welche zwei schlechten Optionen hat Kael in Kapitel 16 zwischen Betäubung und Hinschauen, und was wird irreversibel, wenn Oblivion laut Plot-Konkretisierung in dieser Nacht drei Berichte einreicht, die Kael nie geschrieben hat?",
+   "draws_on": "Plot-Konkretisierung, Oblivion's reports as Fremderledigung; GOAL §5.5 two bad options"
+  },
+  {
+   "id": "K16-05",
+   "tag": "Leser-Wissen",
+   "question": "AEGIS registriert Kaels Rückfall in Kapitel 16 als Stabilisierung: wie weiß der Leser mehr als AEGIS und Kael, ohne dass die tragische Ironie ausgesprochen wird, und welche falsche, plausible Deutung bleibt stehen?",
+   "draws_on": "Konzept-Iteration Genesis B reading (tragische Ironie); GOAL §4.5 #5"
+  },
+  {
+   "id": "K16-06",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 16 in Storyform A (MC-Problem Avoidance, Flucht in Betäubung) und in Storyform B (OS, AEGIS misst Stabilisierung), und trägt das die Bridge-Quote von etwa 25 Prozent im Akt-II-Band?",
+   "draws_on": "A/B readings of five sources; GOAL §5.2 bridge frequency"
+  },
+  {
+   "id": "K16-07",
+   "tag": "Storyform",
+   "question": "Wie wird Slot 16 in Kapitel 16 geroutet: hard-a mit Kael unter Lex- und Selene-Dominanz oder bridge über AEGIS' Registrierung des Rückfalls, und mit welchen höchstens drei Mikrocues?",
+   "draws_on": "POV line of the strukturierter Outline; GOAL §5.2 Slot 16"
+  },
+  {
+   "id": "K16-08",
+   "tag": "Struktur",
+   "question": "Wie unterscheidet sich Kapitel 16 als Reaktionsstufe des Zyklus Z1 von den Reaktionsstufen in Kapitel 19 (Z2) und Kapitel 22 (Z3), damit die Spirale Destabilisierung, Reaktion, Korrektur eskaliert statt sich zu wiederholen?",
+   "draws_on": "cycle stage Z1 Stufe 2; GOAL §5.1 cyclic mode"
+  },
+  {
+   "id": "K16-09",
+   "tag": "Konflikt",
+   "question": "Wie verbinden sich in Kapitel 16 die Zyklus-Funktion Bunker reaktiv und das Kompendium-Thema Diktatur der Komplexität (P vs. NP, AEGIS opfert Realitäts-Detail) zu einem dominanten Eindruck, statt zwei Konzepte in einer Szene zu stapeln?",
+   "draws_on": "Where the sources differ: Title; storyform outline keeps both layers; GOAL §5.4 one concept per scene"
+  },
+  {
+   "id": "K16-10",
+   "tag": "Welt/Sensorik",
+   "question": "Wie erscheint die Diktatur der physikalischen Zeit in KW2 in Kapitel 16 als Bild (enge Räume, taube Sensorik, Auflösungsverlust), ohne Komplexitätstheorie nackt zu nennen, und steht dort kaltes Ozon als AEGIS-Signatur?",
+   "draws_on": "Kernwelten vollständig row and Sensorik lines; GOAL §5.4 theory never naked, heat polarity"
+  },
+  {
+   "id": "K16-11",
+   "tag": "Figur",
+   "question": "Wie wirkt Moros' Schwere in Kapitel 16 im Hintergrund, und wie erscheinen Lex und Selene als dominante Anteile, ohne dass Stimmen gelabelt werden und ohne Crew-Menü?",
+   "draws_on": "strukturierter Outline characters and POV; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K16-12",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Subplot-Idee, Kael sondiere in Kapitel 16 systematisch AEGIS' Reaktionsschwelle durch kleine Regelverstöße und verbotene Verbindungen, eine Handlungslücke füllen, ohne der Bunker-Reaktion zu widersprechen?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §4.5 #9"
+  }
+ ]
+}

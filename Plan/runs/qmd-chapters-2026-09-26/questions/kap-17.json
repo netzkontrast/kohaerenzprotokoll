@@ -1,0 +1,71 @@
+{
+ "chapter": 17,
+ "questions": [
+  {
+   "id": "K17-01",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung steht in Kapitel 17 im Pflichtbericht versehentlich zum ersten Mal ein erzählter Satz: wie lautet der Bericht konkret, was riskiert Kael, und warum lässt der Validator ihn knapp passieren?",
+   "draws_on": "Plot-Konkretisierung reading, Idee 13"
+  },
+  {
+   "id": "K17-02",
+   "tag": "Konkretheit",
+   "question": "Was sieht Kael in Kapitel 17 konkret, wenn er die Drähte der Simulation, Rendering-Ebene gegen Prozess-Kern, erkennt und erfährt, dass Bestätigtes nicht verschwindet, sondern nach unten geht, an welchem Ort und durch welches Objekt?",
+   "draws_on": "Kompendium and Plot-Konkretisierung (Lektüre III) readings; GOAL §4.5 #3"
+  },
+  {
+   "id": "K17-03",
+   "tag": "Kausalität",
+   "question": "Welche beobachtbare Handlung in Kapitel 17 fängt den Rückfall in den Bunker aus Kapitel 16 ab, und welches Ereignis am Ende von Kapitel 17 führt in den Cache-Konflikt und ersten Genesis-Flashback von Kapitel 18?",
+   "draws_on": "neighbours kap-16 and kap-18; GOAL §4.5 #4"
+  },
+  {
+   "id": "K17-04",
+   "tag": "Konflikt",
+   "question": "Wer fängt in Kapitel 17 Kaels Rückfall ab: Selene in der Wächterin-Funktion, die Wir-Stimme oder die K-J-Verbindung zu Juna, und was würde die Wahl zwischen diesen Trägern entscheiden?",
+   "draws_on": "Where the sources differ: who catches the relapse; record Q4"
+  },
+  {
+   "id": "K17-05",
+   "tag": "Storyform",
+   "question": "Liegt die erste bewusste Pursuit-Bewegung von Storyform A in Kapitel 17 (Driver-Anker Decision, hinschauen statt wegsehen) oder erst in Kapitel 20, und was unterscheidet eine Pursuit-Andeutung von einer bewussten Bewegung?",
+   "draws_on": "Where the sources differ: first conscious Pursuit; GOAL §5.2"
+  },
+  {
+   "id": "K17-06",
+   "tag": "Leser-Wissen",
+   "question": "Was weiß der Leser am Ende von Kapitel 17 über Rendering und Prozess-Kern der Stadt, was Kael noch nicht deutet und AEGIS nicht bemerkt, und welche falsche, plausible Deutung der Drähte bleibt stehen?",
+   "draws_on": "Kompendium reading (Kant, Phaenomena vs. Noumena); GOAL §4.5 #5"
+  },
+  {
+   "id": "K17-07",
+   "tag": "Struktur",
+   "question": "Kapitel 17 schließt Zyklus Z1 als Korrektur: wie weit darf sie gelingen, damit Z2 in Kapitel 18 eskalierend destabilisiert, und spiegelt Kapitel 17 die Wächterin-Stufe von Kapitel 8 in der Heldinnenreise?",
+   "draws_on": "cycle stage Z1 Stufe 3; Q4 notes the Wächterin in Kap 8 and Kap 17; GOAL §5.1"
+  },
+  {
+   "id": "K17-08",
+   "tag": "Welt/Sensorik",
+   "question": "Die Outline vom 2026-05-18 nennt für Kapitel 17 Licht durch enge Architektur und Wärme durch Betäubung: wessen Spur ist diese Wärme, und wie verträgt sie sich mit der Hitze-Polarität von kaltem Ozon und Junas Wärme?",
+   "draws_on": "strukturierter Outline Sensorik line; GOAL §5.4 heat polarity"
+  },
+  {
+   "id": "K17-09",
+   "tag": "Figur",
+   "question": "Wie spricht die Wächterin in Kapitel 17, als Selene, als Beobachter-Blick oder als beginnendes Wir-Geflecht, ohne dass die Stimme gelabelt wird und ohne dass Dissoziation zum Crew-Menü wird?",
+   "draws_on": "POV Wir-Geflecht beginnt; record Q4 on the unnamed Wächterin; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K17-10",
+   "tag": "Setup/Payoff",
+   "question": "Der erste erzählte Satz im Bericht in Kapitel 17 gehört zur Idee Der korrupte Bericht: wo wird dieser Strang eingelöst, und was muss Kapitel 17 pflanzen, damit die Einlösung trägt?",
+   "draws_on": "Plot-Konkretisierung Idee 13; GOAL §4.5 #6"
+  },
+  {
+   "id": "K17-11",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Idee zweier widersprüchlicher AEGIS-Direktiven (bewusste Integrität bewahren gegen unvorhersehbare Entropie eliminieren) in Kapitel 17 ein Fund aus Kaels Lektüre werden, ohne die Paradox-Falle von Kapitel 22 vorwegzunehmen?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §4.5 #9"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "chapter": 20,
+ "questions": [
+  {
+   "id": "K20-01",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung begeht Kael in Kapitel 20 die erste Fälschung, er kopiert einen Selbst-Bestand, bevor er ihn bestätigt: was genau kopiert er, wohin, und was riskiert er bei Entdeckung?",
+   "draws_on": "Plot-Konkretisierung reading; GOAL §4.5 #3"
+  },
+  {
+   "id": "K20-02",
+   "tag": "Konkretheit",
+   "question": "Wie nutzt Kael in Kapitel 20 die fluiden Regeln der Lyons-Welt konkret, um AEGIS' Interventionen aus Kapitel 19 zu umgehen: mit welcher Handlung, welchem Objekt, an welchem Ort?",
+   "draws_on": "strukturierter Outline plot beat"
+  },
+  {
+   "id": "K20-03",
+   "tag": "Kausalität",
+   "question": "Was wird in Kapitel 20 irreversibel, wenn der Klick zum ersten Mal anders klingt, und welches Ereignis am Kapitelende öffnet Zyklus Z3 mit der Probe der Simulationsgrenzen in Kapitel 21?",
+   "draws_on": "Plot-Konkretisierung Leitmotiv; neighbour kap-21; GOAL §4.5 #4"
+  },
+  {
+   "id": "K20-04",
+   "tag": "Leser-Wissen",
+   "question": "Was weiß AEGIS am Ende von Kapitel 20 von Kaels erster Fälschung, was glaubt Kael fälschlich über ihre Unsichtbarkeit, und welche falsche, plausible Deutung behält der Leser?",
+   "draws_on": "GOAL §4.5 #5; Readiness Gate point 7"
+  },
+  {
+   "id": "K20-05",
+   "tag": "Storyform",
+   "question": "Ist Kapitel 20 in Storyform A der Ort der ersten bewussten Pursuit-Bewegung oder ihre Wiederholung nach Kapitel 17, und warum bleibt Storyform B hier latent, obwohl AEGIS gerade interveniert hat?",
+   "draws_on": "Where the sources differ: first conscious Pursuit; B latent in four readings"
+  },
+  {
+   "id": "K20-06",
+   "tag": "Struktur",
+   "question": "Kapitel 20 schließt Zyklus Z2 als Korrektur: wie fällt sie stärker aus als die Wächterin-Korrektur in Kapitel 17 und schwächer als die Mosaik-Schöpfung in Kapitel 23, damit die Spirale eskaliert?",
+   "draws_on": "cycle stage Z2 Stufe 3; GOAL §5.1"
+  },
+  {
+   "id": "K20-07",
+   "tag": "Konflikt",
+   "question": "Beginnen die Genesis-Flashbacks in Kapitel 20 als Genesis-Bridge in KW2, wie Kernwelten vollständig sagt, oder trägt Kapitel 20 keinen Flashback, weil die Outline vom 2026-05-18 nur Kap 18, 21 und 22 setzt?",
+   "draws_on": "Where the sources differ: Genesis flashback; record C12"
+  },
+  {
+   "id": "K20-08",
+   "tag": "Welt/Sensorik",
+   "question": "Die Outline vom 2026-05-18 nennt die Lyons-Welt in Kapitel 20 einen KW4-Vorgriff und eine Kernwelt, die mitdenkt: wie wird KW4 angedeutet, ohne die Regel eine Kernwelt pro Beat zu brechen?",
+   "draws_on": "strukturierter Outline plot beat and Sensorik; GOAL §5.5 one Kernwelt per beat"
+  },
+  {
+   "id": "K20-09",
+   "tag": "Setup/Payoff",
+   "question": "Nach GOAL §5.5, nur aus Memory, wird das Echo-Lexem tragen in Kapitel 20 als Randnotiz gepflanzt und in Kapitel 40 eingelöst: steht eine solche Randnotiz für Kapitel 20 in einer Quelle, und wie trägt sie beide Lesarten?",
+   "draws_on": "GOAL §5.5 Echo-Lexem [M]; no reading on the page names it"
+  },
+  {
+   "id": "K20-10",
+   "tag": "Setup/Payoff",
+   "question": "Die Outline vom 2026-05-18 nennt die Lyons-Welt in Kapitel 20 ein Echo der Schöpferkraft vor der Trennung: worauf in Kapitel 0 verweist das, und wo zahlt es sich in Kapitel 23 oder Kapitel 39 aus?",
+   "draws_on": "strukturierter Outline Genesis echo; GOAL §4.5 #6"
+  },
+  {
+   "id": "K20-11",
+   "tag": "Impact",
+   "question": "Wenn der Autor die erste bewusste Pursuit-Bewegung nach Kapitel 17 legt, was kippt dann für Kapitel 20 als Z2-Korrektur und für den Driver-Anker Decision in Storyform A?",
+   "draws_on": "Where the sources differ: first conscious Pursuit; GOAL §4.5 #8"
+  },
+  {
+   "id": "K20-12",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Idee vom Dilemma des Wächters, in der Mnemosyne zwischen Erinnerungsintegrität und AEGIS-Direktive zögert, in Kapitel 20 eine Gegenkraft mit eigenem berechtigtem Ziel liefern, ohne die Guardian-Locks zu brechen?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §5.5 Gegenfigur mit eigener Absicht"
+  }
+ ]
+}

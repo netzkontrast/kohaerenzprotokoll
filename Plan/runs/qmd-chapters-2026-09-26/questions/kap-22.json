@@ -1,0 +1,71 @@
+{
+ "chapter": 22,
+ "questions": [
+  {
+   "id": "K22-01",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung findet Kael in Kapitel 22 im Theta-9 ein Dossier mit der Seriennummer 734, liest nur die Nummer, legt es zurück und kann nicht schlafen: wie kommt er an die Akte, und was riskiert er dabei?",
+   "draws_on": "Plot-Konkretisierung Idee 10"
+  },
+  {
+   "id": "K22-02",
+   "tag": "Konflikt",
+   "question": "Was nimmt Kael in Kapitel 22 aus dem Komp-734-Beat mit: erkennt er einen Moment lang, dass er Komp 734 war, und verliert das Wissen sofort, oder liest er nur eine Nummer, während der Leser die volle Last trägt?",
+   "draws_on": "Where the sources differ: what Kael takes from Komp 734"
+  },
+  {
+   "id": "K22-03",
+   "tag": "Konflikt",
+   "question": "Ist der Komp-734-Beat in Kapitel 22 ein Bridge-Flashback mit Genesis-Flashback-Stimme, wie die Outline vom 2026-05-18 sagt, oder eine Szene mit Handlung, finden, lesen, zurücklegen, statt einer Vision?",
+   "draws_on": "Where the sources differ: form of the Komp 734 beat"
+  },
+  {
+   "id": "K22-04",
+   "tag": "Leser-Wissen",
+   "question": "Was darf der Leser nach Kapitel 22 über Kael und Komponente 734 wissen, ist Kael die Komponente selbst oder der Rest, den das Trennungsprotokoll aus ihr schneidet, und welche Lesart bleibt bis Vortex 1 plausibel?",
+   "draws_on": "record C12, the two Kap-0 drafts; GOAL §4.5 #5"
+  },
+  {
+   "id": "K22-05",
+   "tag": "Kausalität",
+   "question": "Welche Grenzüberschreitung aus Kapitel 21 beantwortet AEGIS in Kapitel 22 mit unvorhersehbaren Systemänderungen, und welcher Rückschlag zwingt Kael in Kapitel 23 zur Selbst-Schöpfung statt Reparatur?",
+   "draws_on": "neighbours kap-21 and kap-23; GOAL §4.5 #4"
+  },
+  {
+   "id": "K22-06",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 22 in A (MC-Issue, Berechenbarkeitsgrenzen) und in B (OS-Physics, AEGIS' Dilemma, Erasure-Kosten sichtbar), und was bedeutet A‖B mit B sichtbar erschöpft für die Bridge-Quote im Akt-II-Band?",
+   "draws_on": "A/B readings; strukturierter Outline Storyform line; GOAL §5.2"
+  },
+  {
+   "id": "K22-07",
+   "tag": "Figur",
+   "question": "Die 39-Kapitel-Spezifikation nennt für Kapitel 22 Kael und AEGIS dominant: in welcher Person und Form erscheint AEGIS dort, als Log, Protokoll oder operative Innensicht, solange offen ist, ob AEGIS je ein Innen bekommt?",
+   "draws_on": "three-mode spec POV line; record C14"
+  },
+  {
+   "id": "K22-08",
+   "tag": "Struktur",
+   "question": "Kapitel 22 liegt auf dem Übergang von KW2 nach KW3 und schließt den Genesis-Flashback-Cluster: ist das ein Weltübergang innerhalb des zyklischen Modus, und wie hält er sich von den Modus-Wechseln 13/14 und 26/27 getrennt?",
+   "draws_on": "Kernwelten transition line; GOAL §5.1 three kinds of transition"
+  },
+  {
+   "id": "K22-09",
+   "tag": "Welt/Sensorik",
+   "question": "Die Outline vom 2026-05-18 nennt für Kapitel 22 Wärme-Schlieren und eine zu lange Pause: ist diese Wärme Junas Spur oder AEGIS' Erasure-Kosten, und wie verträgt sie sich mit der Hitze-Polarität, die Wärme und kaltes Ozon nie mischt?",
+   "draws_on": "strukturierter Outline Sensorik line; GOAL §5.4 heat polarity"
+  },
+  {
+   "id": "K22-10",
+   "tag": "Setup/Payoff",
+   "question": "Wo wird die erste Spur des Bekenstein-Strangs eingelöst, die Kernwelten vollständig in Kapitel 22 setzt, als die Welt zu pixelieren beginnt, und welche Bilder aus Kapitel 22 darf Vortex 1 zitieren?",
+   "draws_on": "Kernwelten reading; GOAL §4.5 #6 Rotations-Inventar"
+  },
+  {
+   "id": "K22-11",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Paradox-Falle, in der Kael AEGIS mit dem Kernparadoxon aus Kapitel 17 lähmt und das Fenster nutzt, die Ursache der Systemverwerfungen in Kapitel 22 liefern, ohne AEGIS zum bedrohenden Gegner zu machen?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §5.4 AEGIS verwaltet statt bedroht"
+  }
+ ]
+}

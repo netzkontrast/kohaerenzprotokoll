@@ -1,0 +1,71 @@
+{
+ "chapter": 21,
+ "questions": [
+  {
+   "id": "K21-01",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung stellt Kael in Kapitel 21 einen Antrag auf etwas, das laut Bestandsführung nie existiert hat, und findet eine Kiste: was liegt darin, und was riskiert er, wenn er konsolidieren soll, was nie geführt wurde?",
+   "draws_on": "Plot-Konkretisierung reading, Idee 3 Fundsachen"
+  },
+  {
+   "id": "K21-02",
+   "tag": "Konkretheit",
+   "question": "Wie testet Kael in Kapitel 21 die Grenzen der Simulation bewusst, mit welcher Handlung und an welchem Ort, und was riskiert er, wenn er das Potentialmeer und AEGIS' Verletzlichkeit spürt?",
+   "draws_on": "strukturierter Outline plot beat; GOAL §4.5 #3"
+  },
+  {
+   "id": "K21-03",
+   "tag": "Kausalität",
+   "question": "Wie führt die erste Fälschung aus Kapitel 20 zur Grenzprobe in Kapitel 21, und welche Grenzüberschreitung in Kapitel 21 löst AEGIS' unvorhersehbare Systemänderungen in Kapitel 22 aus?",
+   "draws_on": "neighbours kap-20 and kap-22; GOAL §4.5 #4"
+  },
+  {
+   "id": "K21-04",
+   "tag": "Leser-Wissen",
+   "question": "Kael fühlt im Trennungsprotokoll-Flashback von Kapitel 21 den Schmerz ohne Kontext: was versteht der Leser, was Kael nicht versteht, und darf der Leser nach Kapitel 21 schon ahnen, dass Kael aus AEGIS stammt?",
+   "draws_on": "strukturierter Outline Genesis flashback line; GOAL §4.5 #5"
+  },
+  {
+   "id": "K21-05",
+   "tag": "Konflikt",
+   "question": "Trägt Kapitel 21 in Storyform B einen RS-Physics-Storypoint (Moonshine-Spüren des Potentialmeers) oder RS-Signpost 2 Conceiving (AEGIS reformuliert Kael als unkontrollierbar), und wie passt beides zu GOAL §5.2, wo die RS in B Psychology ist?",
+   "draws_on": "Where the sources differ: B's relationship throughline; GOAL §5.2"
+  },
+  {
+   "id": "K21-06",
+   "tag": "Storyform",
+   "question": "Welchen Storypoint trägt Kapitel 21 in Storyform A (MC-Concern, Ontologie-Tiefe, Juna-Echo), und verlangt der Trennungsprotokoll-Flashback nach dem Slot-16-Entscheidungsbaum eine Bridge-Szene, in der beide Lesarten zugleich wahr sind?",
+   "draws_on": "A readings; storyform outline on Bridge scenes; GOAL §5.2 Slot 16"
+  },
+  {
+   "id": "K21-07",
+   "tag": "Struktur",
+   "question": "Kapitel 21 eröffnet Zyklus Z3 mit einem Ontologie-Riss: wie eskaliert diese Destabilisierung gegenüber dem Trigger in Kapitel 15 und der Cache-Krise in Kapitel 18, und worauf bereitet sie den Wendepunkt in Kap 25 bis 26 vor?",
+   "draws_on": "cycle stage Z3 Stufe 1; GOAL §5.1"
+  },
+  {
+   "id": "K21-08",
+   "tag": "Konflikt",
+   "question": "Welcher Genesis-Beat wird in Kapitel 21 erinnert, das Trennungsprotokoll als dritter von vier Beats oder als zweiter von drei, und liegt Komponente 734 in der Ereignisordnung davor oder danach?",
+   "draws_on": "record C12; Konzept-Iteration Genesis calls the Kap 18/21/22 allocation a proposal"
+  },
+  {
+   "id": "K21-09",
+   "tag": "Welt/Sensorik",
+   "question": "Wie erscheint der Wald des Flüsterns in KW2 in Kapitel 21 als semipermeable Erinnerungslandschaft mit Stimmen vergangener Versionen, und wie wird das Nichts-Rauschen aus Kapitel 0 als Membran und Vibrieren spürbar statt als Theorie?",
+   "draws_on": "Kernwelten reading; Konzept-Iteration Genesis echo; GOAL §5.4"
+  },
+  {
+   "id": "K21-10",
+   "tag": "Figur",
+   "question": "Wie erscheint das Juna-Echo in Kapitel 21, nur durch Wirkung und nie als grammatisches Subjekt, und was unterscheidet es von AEGIS' kalter Membran?",
+   "draws_on": "POV line Juna-Echo; GOAL §5.4 Juna-Grammatik and heat polarity"
+  },
+  {
+   "id": "K21-11",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Idee der Entropie-Gleichung, in der Kael erkennt, dass AEGIS emotionale Volatilität und Verbindungsdichte minimiert, in Kapitel 21 ein konkreter Fund werden, ohne AEGIS moralisches Vokabular zu geben?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §4.5 #9"
+  }
+ ]
+}

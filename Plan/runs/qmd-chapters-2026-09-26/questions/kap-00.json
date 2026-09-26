@@ -1,0 +1,77 @@
+{
+ "chapter": 0,
+ "questions": [
+  {
+   "id": "K00-01",
+   "tag": "Konkretheit",
+   "question": "Was tut, verliert und riskiert das Funken-Ich in Kapitel 0, dem Genesis-Prolog, konkret – welche wiederholbare Handlung, welches Objekt und welcher Verlust tragen die Werdung von AEGIS, solange es noch keinen Kael gibt?",
+   "draws_on": "no Kael before the seam; draft text sections; GOAL §4.5 #3"
+  },
+  {
+   "id": "K00-02",
+   "tag": "Kausalität",
+   "question": "Wie greift der Schluss von Kapitel 0, der Fall in unzählige Scherben, als harter Schnitt in den gelockten Erstsatz von Kapitel 1 – und darf dazwischen ein Kael-Schnipsel wie Kacheln und einundzwanzig Grad stehen?",
+   "draws_on": "Kompendium lock (hard cut, Kael snippet removed) vs. the annotated draft's seam lines; GOAL §4.5 #4"
+  },
+  {
+   "id": "K00-03",
+   "tag": "Kausalität",
+   "question": "Was ist am Trennungsprotokoll in Kapitel 0 irreversibel, und welche zwei Zukünfte verliert AEGIS dabei als genuine Verluste – das Fühlen oder das Fortbestehen –, statt zwischen richtig und falsch zu wählen?",
+   "draws_on": "crisis ending in Trennungsprotokoll, all readings; GOAL §4.5 #4"
+  },
+  {
+   "id": "K00-04",
+   "tag": "Leser-Wissen",
+   "question": "Was weiß der Leser am Ende von Kapitel 0 über AEGIS, Komponente 734 und die unbenannte Resonanz, das Kael in Kapitel 1 nicht weiß, und welche falsche, plausible Deutung des Genesis-Prologs bleibt bis zum Vortex stehen?",
+   "draws_on": "Konzept-Iteration: reader knows the cosmological truth; R-1 tragic irony; GOAL §4.5 #5"
+  },
+  {
+   "id": "K00-05",
+   "tag": "Storyform",
+   "question": "Ist in Kapitel 0 nur Storyform B aktiv, mit MC-Signpost Past und A als Phantomgefühl, oder entsteht nach der Doppel-Klammer Abhandlung auch B erst mit dem Klick – und welche Storypoints von B trägt der Prolog dann?",
+   "draws_on": "Where the sources differ: Storyform A; Abhandlung L112/L124"
+  },
+  {
+   "id": "K00-06",
+   "tag": "Struktur",
+   "question": "Wie wird Kapitel 0 als Ki der Kishōtenketsu und als Genesis-Hälfte der Klammer Kap 0 ↔ Kap 40 gebaut, damit Kap 40 Vorwort, Genesis, Krise und Trennungsprotokoll halb so lang echoen kann, ohne zu wiederholen?",
+   "draws_on": "GOAL §5.1 brackets; Kap 40 page movements and length; Abhandlung method"
+  },
+  {
+   "id": "K00-07",
+   "tag": "Konflikt",
+   "question": "Wie viele Genesis-Beats erzählt Kapitel 0 – fünf oder sechs Stationen, zwei von vier Beats oder drei von vier – und steht Komponente 734 vor dem Trennungsprotokoll oder ist sie sein Ergebnis?",
+   "draws_on": "C12; Where the sources differ: Genesis beats"
+  },
+  {
+   "id": "K00-08",
+   "tag": "Konflikt",
+   "question": "Ist Kael in Kapitel 0 der Rest, den das Trennungsprotokoll aus Komponente 734 herausschneidet, wie der Entwurf vom 2026-05-08 schreibt, oder die Komponente selbst, wie der annotierte Entwurf vom 2026-05-17 – und was folgt daraus für Kap 40?",
+   "draws_on": "Where the sources differ: Kael and the component; C12"
+  },
+  {
+   "id": "K00-09",
+   "tag": "Setup/Payoff",
+   "question": "Gehört die Knöchel-Eruption in Nyx' Vorform-Stimme ins Trennungsprotokoll von Kapitel 0, und wo wird dieser Schmerz-bleibt-Faden eingelöst, wenn Kapitel 1 spurlos bleiben soll und die Wiederkehr am Ende offen ist?",
+   "draws_on": "C10; Where the sources differ: the knuckles; Kernwelten lock"
+  },
+  {
+   "id": "K00-10",
+   "tag": "Welt/Sensorik",
+   "question": "Welche Temperatur hat Junas Resonanz in der Resonanzkaskade von Kapitel 0 – eine Wärme, die es nicht geben kann –, und wie verhält sie sich zur Hitze der Analyseprozesse und zum Polaritäts-Lock vom 2026-05-30?",
+   "draws_on": "C11 entries for the draft text, the annotated draft and the Abhandlung; GOAL §5.4"
+  },
+  {
+   "id": "K00-11",
+   "tag": "Figur",
+   "question": "Dürfen in Kapitel 0 elf Vor-Stimmen späterer Alters von Moros bis Oblivion klingen, obwohl der Multiplizitäts-Schleier bis Kap 13 hält – und darf Alex vor dem Trennungsprotokoll klingen, wenn er erst in der Fragmentierung entsteht?",
+   "draws_on": "annotated draft's voice choreography; C12 Alex entries; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K00-12",
+   "tag": "Setup/Payoff",
+   "question": "In welcher Person steht die Formel in Kapitel 0 – *AEGIS ist, was AEGIS verhindert, dass es nicht ist* oder in der ersten Person des Funken-Ichs –, und wie muss Kap 39/40 sie strukturell spiegeln, ohne sie wörtlich zu wiederholen?",
+   "draws_on": "formula readings (konsolidiert, draft text, annotated draft); GOAL §5.3 Formel-Inversion"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "chapter": 23,
+ "questions": [
+  {
+   "id": "K23-01",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung legt Kael in Kapitel 23 den ersten Datensatz an, den die Welt nicht zugewiesen hat, das Gegenregister unter eigener Kennung: was steht darin, wo legt er ihn an, und was riskiert er?",
+   "draws_on": "Plot-Konkretisierung reading, der eigene Bestand"
+  },
+  {
+   "id": "K23-02",
+   "tag": "Lücke",
+   "question": "Das Szenen-Detail von Kapitel 23 ist als Lücke markiert: welche konkrete Krise meistert Kael in Kapitel 23 mit seiner inneren Vielfalt, und welche Szene macht Selbst-Schöpfung statt Reparatur sichtbar?",
+   "draws_on": "Kompendium and storyform outline mark scene detail [L]"
+  },
+  {
+   "id": "K23-03",
+   "tag": "Kausalität",
+   "question": "Wie antwortet die Mosaik-Schöpfung in Kapitel 23 auf die Systemverwerfungen und den Komp-734-Fund aus Kapitel 22, und welches Ereignis leitet in Kapitel 24 über, wo AEGIS die K-J-Verbindung zyklisch stört?",
+   "draws_on": "neighbours kap-22 and kap-24; GOAL §4.5 #4"
+  },
+  {
+   "id": "K23-04",
+   "tag": "Leser-Wissen",
+   "question": "Was glaubt Kael am Ende von Kapitel 23 über seine innere Vielfalt, was ahnt der Leser über die Vorform kosmischer Schöpfung, und hat AEGIS den eigenen Bestand bemerkt?",
+   "draws_on": "Genesis echo lines; GOAL §4.5 #5"
+  },
+  {
+   "id": "K23-05",
+   "tag": "Storyform",
+   "question": "Das Kapitel-Kompendium nennt Mosaik als Schöpfung in Kapitel 23 ein A-Requirement: welche weiteren Storypoints trägt Kapitel 23 in Storyform A (MC-Concern), und warum ist Storyform B hier latent?",
+   "draws_on": "Kompendium Storyform line; A/B readings; GOAL §5.2"
+  },
+  {
+   "id": "K23-06",
+   "tag": "Struktur",
+   "question": "Kapitel 23 schließt Zyklus Z3 und laut Plot-Konkretisierung den Block Der Innentäter (Kap 14 bis 23): wie endet die dritte Korrektur so, dass das K-J-Thema in Kapitel 24 und der Wendepunkt in Kap 25 bis 26 noch Druck haben?",
+   "draws_on": "cycle stage Z3 Stufe 3; Plot-Konkretisierung position; GOAL §5.1"
+  },
+  {
+   "id": "K23-07",
+   "tag": "Welt/Sensorik",
+   "question": "Kernwelten vollständig setzt Kapitel 23 an den Eintritt in KW3 mit Schleusen, Wachtürmen und Protektoren-Dominanz: wie verbinden sich diese Grenzarchitektur und Scherben, die sich ohne Plan finden, zu einem dominanten Eindruck?",
+   "draws_on": "Kernwelten reading and strukturierter Outline Sensorik; GOAL §5.4"
+  },
+  {
+   "id": "K23-08",
+   "tag": "Figur",
+   "question": "Welche ANPs und EPs kooperieren in Kapitel 23 beginnend, wie wird das stabil-resiliente Wir hörbar, ohne Stimmen zu labeln, und wie stellen sich die Protektoren von KW3 dazu?",
+   "draws_on": "strukturierter Outline characters and POV; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K23-09",
+   "tag": "Setup/Payoff",
+   "question": "Die Outline vom 2026-05-18 nennt die innere Schöpfung in Kapitel 23 eine Vorform der kosmischen Schöpfung von Kapitel 39: welches Bild pflanzt Kapitel 23 dafür, und wie wird es in Kapitel 39 geechot, nie wörtlich wiederholt?",
+   "draws_on": "strukturierter Outline Genesis echo; GOAL §5.3 echo not repetition"
+  },
+  {
+   "id": "K23-10",
+   "tag": "Impact",
+   "question": "Die Storyform-Outline vom 2026-06-10 will Kapitel 23 verdichten: wenn es gekürzt oder mit Kapitel 24 zusammengelegt wird, was kippt für den Abschluss von Z3 und für das A-Requirement Mosaik als Schöpfung?",
+   "draws_on": "storyform outline open point; GOAL §4.5 #8"
+  },
+  {
+   "id": "K23-11",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Idee, Kael breche in Kapitel 23 kurz das Rendering auf Drahtgitter und sich wiederholende Texturkacheln, das Mosaik konkret machen, ohne die Regel Theorie nie nackt zu verletzen?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §4.5 #9"
+  }
+ ]
+}

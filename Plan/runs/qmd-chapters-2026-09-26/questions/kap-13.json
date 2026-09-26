@@ -1,0 +1,77 @@
+{
+ "chapter": 13,
+ "questions": [
+  {
+   "id": "K13-01",
+   "tag": "Konkretheit",
+   "question": "Was ist die kleinste mögliche Schöpfung in Kapitel 13 – laut Plot-Konkretisierung dreht Kael die Konsole um drei Grad und die Welt lässt es zu – und was riskiert er damit?",
+   "draws_on": "the reading of kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md; GOAL §4.5 #3"
+  },
+  {
+   "id": "K13-02",
+   "tag": "Konflikt",
+   "question": "Wo spielt Kapitel 13: in KW1 bis zum Ende von Akt I, im Übergang aus KW1, oder in der Evaluierungseinheit der KW3, wo Personae kollabieren?",
+   "draws_on": "Where the sources differ: world"
+  },
+  {
+   "id": "K13-03",
+   "tag": "Konflikt",
+   "question": "Was geschieht in Kapitel 13: Tanz im Garten und etablierte innere Praxis, der Möglichkeits-Garten als KW4-Vorgriff, oder ein Messer im Bewusstsein und der Schleier-Fall?",
+   "draws_on": "Where the sources differ: what happens"
+  },
+  {
+   "id": "K13-04",
+   "tag": "Leser-Wissen",
+   "question": "Fällt der Multiplizitäts-Schleier in Kapitel 13 intern, sodass Kael das System sieht, und was darf ab hier offen benannt werden, das Wort Alters, eine Diagnose, und was bleibt dem Leser verborgen?",
+   "draws_on": "the reading of kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md, the reading of kapitel-kompendium-gather-2026-05-31-md (veil); GOAL §5.4 Schleier; §4.5 #5"
+  },
+  {
+   "id": "K13-05",
+   "tag": "Struktur",
+   "question": "Wie schließt Kapitel 13 als Murdock-Stufe 13, Neue innere Welt, Teil 1 ab und bereitet den Moduswechsel linear zu zyklisch 13/14 vor, ohne einen Storyform-Wechsel zu behaupten?",
+   "draws_on": "the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md (transition); GOAL §5.1 three transitions"
+  },
+  {
+   "id": "K13-06",
+   "tag": "Storyform",
+   "question": "Welcher Storypoint in Storyform B wird in Kapitel 13 aktiviert – OS-Physics, AEGIS bereitet Phase-2-Stress-Tests vor, Forewarning B – und welchen trägt Storyform A mit MC-Concern Praxis?",
+   "draws_on": "the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md, the reading of koharenz-protokoll-konzept-konsolidiert-2026-05-08-md; GOAL §5.2"
+  },
+  {
+   "id": "K13-07",
+   "tag": "Kausalität",
+   "question": "Welcher Hook-out aus Kapitel 13 führt zum Stress-Test Delta-7 und zur ersten Erasure-Welle in Kapitel 14, und was ist am Ende von Teil 1 irreversibel?",
+   "draws_on": "the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md (plot beats); kap-14 page; GOAL §4.5 #4"
+  },
+  {
+   "id": "K13-08",
+   "tag": "Setup/Payoff",
+   "question": "Wie setzt Kapitel 13 das Genesis-Echo der Vor-Trennungs-Stille der Reinform, wenn der Name Stille der Mitte, den zwei Quellen dafür nennen, bei ihnen der Titel von Kapitel 12 ist?",
+   "draws_on": "Where the sources differ: Genesis echo"
+  },
+  {
+   "id": "K13-09",
+   "tag": "Setup/Payoff",
+   "question": "Kehrt in Kapitel 13 der Riss aus Kapitel 4 wieder, wenn der Konzept-Master Kaels Beobachten in Kap 4 und 13 die Simulation kollabieren lässt, mit Gödel-Knoten als Avataren des Mess-Problems?",
+   "draws_on": "the reading of kohaerenz-protokoll-konzept-master-md; GOAL §4.5 #6"
+  },
+  {
+   "id": "K13-10",
+   "tag": "Welt/Sensorik",
+   "question": "Wie werden Garten, Pflege, lebendige Ordnung in Kapitel 13 sinnlich, ohne den Möglichkeits-Garten von KW4 vorwegzunehmen, und welche Temperatur hat dieser Ort nach der Hitze-Polarität?",
+   "draws_on": "the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md (Sensorik); GOAL §5.4"
+  },
+  {
+   "id": "K13-11",
+   "tag": "Steinbruch",
+   "question": "Kann das ältere Motiv, dass Kael in Kapitel 13 eine wachsamere Haltung des Systems bemerkt, weil AEGIS alte prädiktive Modelle als veraltet markiert, den Wendepunkt tragen, ohne AEGIS-Innensicht zu brauchen?",
+   "draws_on": "the reading of aegis-subplots-kapitelweise-system-exploration-docx (Rekalibrierungsalarm); GOAL §4.5 #9"
+  },
+  {
+   "id": "K13-12",
+   "tag": "Impact",
+   "question": "Wenn die Grenze für DKT-Terminologie bei Kapitel 13 statt bei den ersten 50 Seiten liegt, was ändert das für Kapitel 13 und die Kapitel davor?",
+   "draws_on": "the reading of kapitel-kompendium-gather-2026-05-31-md (veil); GOAL §5.4 Theorie nie nackt, the deviation it names"
+  }
+ ]
+}

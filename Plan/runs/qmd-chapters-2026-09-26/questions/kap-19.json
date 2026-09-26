@@ -1,0 +1,77 @@
+{
+ "chapter": 19,
+ "questions": [
+  {
+   "id": "K19-01",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung legt der Apparat Kael in Kapitel 19 seine eigene Vergangenheit zur Konsolidierung vor: welcher Bestand ist das, und was verliert Kael, wenn er ihn ausgleicht oder verweigert?",
+   "draws_on": "Plot-Konkretisierung reading (Erasure-Logik offen)"
+  },
+  {
+   "id": "K19-02",
+   "tag": "Konkretheit",
+   "question": "Welche neuen Regeln und widersprüchlichen Informationen setzt AEGIS in Kapitel 19 gegen Kaels wachsende Kohärenz ein, und woran merkt Kael im Arbeitsalltag, dass es gezielte Störung ist?",
+   "draws_on": "strukturierter Outline plot beat; GOAL §4.5 #3"
+  },
+  {
+   "id": "K19-03",
+   "tag": "Kausalität",
+   "question": "Welches Ereignis aus Kapitel 18 macht AEGIS in Kapitel 19 auf Kaels Kohärenz aufmerksam, und welcher Hook-out zwingt die kreative Umgehung durch fluide Regeln in Kapitel 20?",
+   "draws_on": "neighbours kap-18 and kap-20; GOAL §4.5 #4"
+  },
+  {
+   "id": "K19-04",
+   "tag": "Leser-Wissen",
+   "question": "Was erfährt der Leser in Kapitel 19 aus der AEGIS-POV-Mikroszene über die Erasure-Logik, was Kael nicht weiß, und wie bleibt AEGIS dabei tragisch unschuldig und ohne moralisches Vokabular?",
+   "draws_on": "Bridge line of the strukturierter Outline; GOAL §4.5 #5 and §5.4 AEGIS"
+  },
+  {
+   "id": "K19-05",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 19 in A (MC-Issue, Systemlüge klarer benannt) und in B (OS-Physics, OS-Signpost 2 Learning, Action-Driver greift härter), und wie wird der Optionlock als zählbarer Options-Pool sichtbar?",
+   "draws_on": "A/B readings; Plot-Konkretisierung Optionlock-Diegese; GOAL §5.2"
+  },
+  {
+   "id": "K19-06",
+   "tag": "Figur",
+   "question": "Ist die AEGIS-POV-Mikroszene in Kapitel 19 eine Bridge oder ein Crosscut, und in welcher Person und Form spricht AEGIS dort, als Log, kalte Stimme oder operative Innensicht?",
+   "draws_on": "Bridge line and AEGIS-Log direkter; GOAL §5.2 Bridge ≠ Crosscut"
+  },
+  {
+   "id": "K19-07",
+   "tag": "Struktur",
+   "question": "Kapitel 19 ist die Reaktionsstufe von Z2: warum reagiert hier AEGIS statt Kael wie im Bunker von Kapitel 16, und eskaliert die Spirale damit von innerer Flucht zu äußerer Intervention?",
+   "draws_on": "cycle stage Z2 Stufe 2; GOAL §5.1 cyclic mode"
+  },
+  {
+   "id": "K19-08",
+   "tag": "Konflikt",
+   "question": "Trägt Kapitel 19 einen Genesis-Flashback, weil die 39-Kapitel-Spezifikation Kap 18 bis 22 als Heimat der Flashbacks nennt, oder keinen, weil die Outline vom 2026-05-18 nur Kap 18, 21 und 22 setzt?",
+   "draws_on": "three-mode spec Genesis flashbacks line; record C12"
+  },
+  {
+   "id": "K19-09",
+   "tag": "Welt/Sensorik",
+   "question": "Kernwelten vollständig nennt für Kapitel 19 einen Spike im Landauer-Strang: erscheint er als kaltes Ozon, als Wärme oder als kalte Stimme und Logik, die wie Schnitt funktioniert?",
+   "draws_on": "Kernwelten note and Sensorik lines; GOAL §5.4 heat polarity"
+  },
+  {
+   "id": "K19-10",
+   "tag": "Figur",
+   "question": "Wie handelt Mnemosyne in Kapitel 19 manipulativ mit Junas Erinnerung gegen Kael, ohne dass Juna grammatisches Subjekt oder physisch beschrieben wird?",
+   "draws_on": "strukturierter Outline Mnemosyne line; GOAL §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K19-11",
+   "tag": "Setup/Payoff",
+   "question": "Die Konzept-Iteration Genesis nennt AEGIS' offene Logik in Kapitel 19 ein Echo der Phase Algorithmischer Schrecken aus Kapitel 0: welches Bild aus Kapitel 0 wird hier strukturell geechot, ohne wörtlich zu wiederholen?",
+   "draws_on": "Konzept-Iteration Genesis echo; GOAL §4.5 #6"
+  },
+  {
+   "id": "K19-12",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Idee, AEGIS patche in Kapitel 19 ein in Kapitel 18 entdecktes Schlupfloch in Echtzeit, die Intervention konkret machen, ohne einen Lock zu verletzen?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §4.5 #9"
+  }
+ ]
+}
