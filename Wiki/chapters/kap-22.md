@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: ["C12", "C14"]
 gathered: "2026-09-25"
 ---
@@ -106,6 +106,13 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Idea 10: „Kael liest nur eine Nummer, legt das Dossier zurück und kann nicht mehr schlafen; der Leser trägt die volle Last.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
 - Genesis echo: „den Genesis-Flashback Kap 22 als Szene mit Handlung (finden, lesen, zurücklegen) statt als Vision“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
 - Lock conformity: „Kap 18/21/22 trennen Flashback und Faden-Ereignis in separate Szenen.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L240]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the Bekenstein-Strang's first traces, `~Kap 22`
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its `[K]` is its claim, recorded and not applied.
+
+- Foreshadowing: „Der Bekenstein-Strang im Foreshadowing-Programm bringt Pixelierung der Welt am Detailrand als sensorische Spur (erste Spuren ~Kap 22, Erntung im Architektur-Kollaps Akt III).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L332] (§6.4 Bekenstein-Schranke, marked `[K]`) — an approximate chapter.
+- World: „Strukturphysik von KW3.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L332] (§6.4)
 
 ## Where the sources differ
 
