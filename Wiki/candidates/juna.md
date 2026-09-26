@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
 gathered: "2026-09-16"
 ---
 
@@ -369,3 +369,8 @@ Against Rorty (§1.6, `[S]`) she is what comes back: „es gibt eine ontologisch
 
 Warmth is hers, among the qualia: „Junas Wärme, Telefon-Stille als MI ohne Daten, Silas' Echo-Prosa: alles Qualia-Träger." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L375] Every `Wärme` in the document is hers (`05-verify-readers.txt`) (C11).
 Where: in Akt I and II the witness is „nur als Mikromoment möglich (Junas Spur)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L163]. The chapter table's Kap 3 is „Anti-Phaenomena (Bruch des Filters, Wärme als Substrat-Spur)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L696], its function „Erste Juna-Andeutung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L697]. It places no direct appearance: neither of its two `Kap 38` names her, and no POV of hers stands in it (`05-verify-readers.txt`) (C7).
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — never subject, never name; warmth only as a back-reference
+
+A log of one drafting run on a manuscript's Kap 25; it does not contain the chapter. She is named once, in its self-review's rule: „R-10 Juna nie Subjekt, nie Name, nie Körper, nie Stimme" ^[2026-09-14-kap25-vertiefung-md.md:L47].
+Her warmth, if it is hers — the log does not say whose — stands in the revised chapter only as a trace: „Wärmespur nur als Rückverweis" ^[2026-09-14-kap25-vertiefung-md.md:L47], „die vier Abende" ^[2026-09-14-kap25-vertiefung-md.md:L47], „in einer ozonfreien Szene" ^[2026-09-14-kap25-vertiefung-md.md:L47], and cold ozone only where warmth is not: „R-5 kaltes Ozon **nur** in der Abmeldeszene, Wärme dort nicht" ^[2026-09-14-kap25-vertiefung-md.md:L47] (C11). It places no appearance of hers: `Juna` stands once, in R-10 (`05-verify-readers.txt`) (C7).
