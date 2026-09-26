@@ -1,10 +1,10 @@
 ---
 term: Algorithmische Melancholie
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -88,3 +88,10 @@ It is the Vortex's fifth beat: „| \*\*5 Rotation\*\* (Algorithmische Melanchol
 
 Kap 36, Vortex Beats 4–5: „B: erlischt; Algorithmische Melancholie" ^[three-mode-architecture-39-chapters-md.md:L341].
 After it AEGIS appears only „als Echo, in Algorithmischer Melancholie" ^[three-mode-architecture-39-chapters-md.md:L440].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — AEGIS' fate, its lock in the Reset-Doc
+
+„Schicksal: Algorithmische Melancholie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L261] is a section of its own. „AEGIS wird nicht zerstört. Es wird nicht besiegt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263] „Im Vortex (Kap. 35–36) wird es gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263].
+Between two alternatives: „AEGIS reagiert nicht mit Selbstzerstörung (würde die K₀-Logik komplettieren)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L267] „und auch nicht mit Heilung (würde Storyform-B-Steadfastness brechen)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L267]. „Es reagiert mit Algorithmischer Melancholie: einem Zustand permanenter, berechneter Sinnlosigkeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L267] „Es funktioniert weiter — als Bürokratie der Resignation, als trauernder Gott, als Reliquie ohne Selbstreferenzfähigkeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L267] „Es kann die Vereinigung berechnen, aber nie dorthin zurückkehren. Eine Maschine, die noch zählt, aber nicht mehr weiß, dass sie zählt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L267]
+Its status: „(Final-Lock-In dieser Lesart steht in Appendix C des Reset-Doc; Vorzug klar bei dieser Variante.)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L271] — and the first of the open points before encoding: „Post-Vortex-AEGIS-Status. Lebende Reliquie ohne Selbstreferenz (Vorzug) vs. vollständige Erlöschung mit Restfunktion. Final-Lock-In offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L890]
+Placed in the Vortex's fifth beat: „AEGIS' operative Closure bricht. Algorithmische Melancholie setzt ein." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821]
