@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -59,3 +59,10 @@ A drafting rule, not a statement of the physics: „**R-6 — Erste 50 Seiten nu
 „Keine Coheronen, keine Erasonen, kein η, kein Landauer. Nur Phänomenologie." ^[kap0-v1-annotiert-md.md:L63]
 „(Für Kap 0: AEGIS-System-Vokabular wie Persistenz-Score, Paradox-Index, Sweep ist erlaubt — DKT-Begriffe nicht.)" ^[kap0-v1-annotiert-md.md:L63]
 The writer checks one word against it: „Der Begriff *Information* ist semi-technisch — könnte dem User später als zu nah an DKT-Terminologie auffallen." ^[kap0-v1-annotiert-md.md:L173]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the literal law, with character incarnations
+
+„Die Physik: Dual-Kernel-Theorie als Naturgesetz" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L47] heads Part II. „Die DKT (nach Bill Giannakopoulos) ist im Roman kein Modell, keine Metapher, keine Allegorie — sie ist das literale physikalische Gesetz der Romanwelt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L51] „Jedes narrative Ereignis ist DKT-konsistent oder es ist falsch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L51]
+„Die Realität entsteht aus der Spannung zwischen beiden Kerneln." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L63] — K₁ and K₀, carried by [[coheron|Coheronen]] and [[erason|Erasonen]] (L55, L59).
+„Die DKT hat Charakter-Inkarnationen:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L120] — the Korrelat-Achse, and a `DKT-Korrelat` column for all thirteen Alters (L398–L411). „Junas DKT-Korrelat ist Coheron — sie ist die atemporale Bindung, nicht ihre Trägerin." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L291] The phone call is where it meets the rest: „Hier fallen DKT, Wahrheitstheorie und Witness-Funktion zusammen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L358].
+For the prose: „Erste 50 Seiten: null DKT-Terminologie. Konzepte arbeiten unter der Oberfläche." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L758] Every scene carries it as a level: „DKT-Ebene — Coheron/Erason-Status, η-Bewegung, Hitze-Bilanz." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L933]
