@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -61,6 +61,14 @@ Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50
 - Storyform A: „MC-Concern dominant; Pursuit als Stand" ^[three-mode-architecture-39-chapters-md.md:L339]
 - Storyform B: „OS-Physics: AEGIS-Datenlast" ^[three-mode-architecture-39-chapters-md.md:L339]
 - Leitmotif: „Orkan vs. Sphäre, kollidierende Tonalitäten" ^[three-mode-architecture-39-chapters-md.md:L339]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the Mosaik-Herz
+
+The document ranks itself: „Diese Datei dient als operative Referenz, nicht als Source-of-Truth.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968]
+
+Position: „KW4 dominiert Akt III (Ch29–34, 37–39).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L624]
+
+- Place: „Das Mosaik-Herz — der Ort, an dem Kael Juna als Teil seiner selbst akzeptiert (Ch34, vor Vortex).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L620], a sub-location of „### VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L584]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
