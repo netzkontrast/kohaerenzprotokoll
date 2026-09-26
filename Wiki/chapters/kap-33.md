@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -73,6 +73,16 @@ Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50
 - Storyform A: „MC-Concern: nahe an der Quelle" ^[three-mode-architecture-39-chapters-md.md:L338]
 - Storyform B: „OS-Physics: parakonsistente Logik / Gödel-Sätze als Architektur" ^[three-mode-architecture-39-chapters-md.md:L338]
 - Leitmotif: „dunkle Tiefe, Vibrieren des Fundaments" ^[three-mode-architecture-39-chapters-md.md:L338]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the Verschränkungs-Insel and FM
+
+The document ranks itself: „Diese Datei dient als operative Referenz, nicht als Source-of-Truth.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968]
+
+Position: „KW4 dominiert Akt III (Ch29–34, 37–39).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L624]
+
+- Place: „Der Jenseits-des-Ereignishorizonts-Bereich — kausal isolierter „Verschränkungs-Insel"-Raum (Ch33).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] · „Hier kann Information dem Erasure-Sweep entkommen.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] — a sub-location of „### VI.6 Die Überwelt — AEGIS' Maschinenraum“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L626], not of KW4.
+- Kael: „FM-Achievement Ch33.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L954], in the storyweaving list of Phase 6.
+- Philosophy: „Jaspers' *Grenzsituationen* sind die Katalysatoren der Erkenntnisgenese (Ch11, Ch33).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L739]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
