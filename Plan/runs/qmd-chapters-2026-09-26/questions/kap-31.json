@@ -67,5 +67,49 @@
    "question": "Wenn der Autor die Guardians in Kapitel 31 auflöst, statt sie als Sub-Antagonisten zu behalten, was kippt an den Prüfungen von Kapitel 32, an Mnemosyne in Vortex 1 und an der offenen Frage Q5 nach Guardians und Kernwelten?",
    "draws_on": "Where the sources differ (Guardians after Kap 31); Q5; GOAL §4.5 #8"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael an der Schwelle: laut der strukturierten Outline AEGIS' Kernsystem angreifen, laut Konzept-Iteration Genesis Guardian-Prinzipien gesund absorbieren, Logik ohne Kälte, Schutz ohne Paranoia, und was stellt sich ihm entgegen, Guardians als Sub-Antagonisten oder laut der Plot-Konkretisierung ein doppeltes Angebot statt eines Kampfes?",
+   "draws_on": "Where the sources differ: what happens to the Guardians; conflict C6 in records"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn laut der Plot-Konkretisierung Mnemosyne Vollarchiv-Rechte und der Erasure-Pol die Löschung der eigenen Akte anbietet: was verlöre Kael mit jeder Unterschrift, und was behält er, wenn er beide ablehnt und beide Prinzipien mitnimmt?",
+   "draws_on": "Plot-Konkretisierung plot beats (Zwei Geschenke, Idee 11)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende anders, wenn die Wächter in Lichtstaub aufgehen und in Kael fließen und er laut Konzept-Iteration Genesis schon AEGIS-Funktionen pluralisiert annimmt: kippt Gegnerschaft in Aufnahme, oder stehen die Guardians, wie die strukturierte Outline sie im folgenden Systemkampf führt, weiter als Gegner?",
+   "draws_on": "Konzept-Iteration Genesis sensorik and Genesis echo; Where the sources differ (Guardians after this chapter)"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Schwelle erzählt, wenn die strukturierte Outline Kael als aktives Wir und Silas in einer längeren POV-Szene mit Echo-Prosa angibt, das aber selbst nur Vorschlag nennt: warum soll gerade Silas' Stimme den Übertritt markieren?",
+   "draws_on": "strukturierter Outline POV, Silas and open-question lines; Kernwelten vollständig (Silas POV-fähig, [V])"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Schwelle, wenn Kernwelten vollständig sie in KW4 mit Schwellen-Bruch und Klick-Motiv legt und das Forum des Dialogs als möglichen Ort nennt, während die strukturierte Outline den Mnemosyne-Archipel am Horizont zeigt, und wie spürt der Körper eine Architektur, die nicht für Eintretende gebaut ist?",
+   "draws_on": "readings of Kernwelten vollständig and strukturierter Outline (World, Sensorik)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Schwelle ein, nachdem die Verbindung zu Juna zum bewussten Kanal geworden ist, und welches Ereignis trägt den Leser in die logischen Labyrinthe, in denen Kael laut der Plot-Konkretisierung Fälschungen seiner Fälschungen in Oblivions Hand erkennen muss?",
+   "draws_on": "neighbour readings: Junas Kanal before, Logische Labyrinthe after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat das Überschreiten der Schwelle in der Heldenreise außen als Auflösung der Guardians, wenn ihre Zahl und Paarung ein Konflikt der Quellen sind und die Storyform-Outline Mnemosyne später noch als betroffene Guardian führt: was fehlte ohne die Auflösung?",
+   "draws_on": "stage lines (Crossing the First Threshold); record C6; Where the sources differ (Guardians after this chapter)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael keines der beiden ehrlichen Formulare unterschreibt und mit beiden Prinzipien den Raum verlässt, und wie berührt dieses Behalten ohne Unterwerfung das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Plot-Konkretisierung plot beats and Idea 11"
+  }
+ ],
+ "about": "Was mit den Guardians geschieht, erzählen die Quellen verschieden: laut Konzept-Iteration Genesis, konsolidiertem Konzept und Storyform-Outline absorbiert Kael die Guardian-Prinzipien gesund, und die Wächter gehen in Lichtstaub auf, was diese Quellen als proleptische Vorform der Wir-AEGIS-plural lesen; laut der strukturierten Outline beginnt Kael, AEGIS' Kernsystem anzugreifen, und die Guardians bleiben im folgenden Systemkampf Sub-Antagonisten. Die Plot-Konkretisierung macht die Auflösung zu einem doppelten Angebot statt eines Kampfes: Mnemosyne bietet Vollarchiv-Rechte, der Erasure-Pol die Löschung der eigenen Akte, und Kael unterschreibt keines und behält beide Prinzipien. Es ist das Überschreiten der ersten Schwelle der Heldenreise außen, laut der Konzept-Iteration Genesis zugleich Tests, Allies, Enemies, laut der strukturierten Outline im beginnenden Ten, in der Phase A des dritten Akts; in Storyform A trägt es MC-Concern, Memory als Waffe, in B OS-Physics, laut Konzept-Iteration Genesis und konsolidiertem Konzept mit den Guardians als Sub-Antagonisten, laut der Drei-Modi-Spezifikation mit AEGIS' greifender Verteidigung. Die strukturierte Outline schlägt Silas als POV-Träger einer bridge-natürlichen Szene mit Echo-Prosa vor und zeigt den Mnemosyne-Archipel am Horizont, und Kernwelten vollständig legt das Kapitel in KW4 mit Schwellen-Bruch und Klick-Motiv. Die AEGIS-Subplot-Sammlung kennt hier einen Firewall-Bruch, durch den Juna oder V eine stabile Verbindung in AEGIS' simulierte Realität herstellt.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, strukturierter Outline, Kernwelten vollständig, storyform outline, Plot-Konkretisierung and aegis-subplots; Where the sources differ; record C6; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
 }

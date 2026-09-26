@@ -67,5 +67,49 @@
    "question": "Wenn der Autor in Kapitel 26 den präventiven Guardian-Angriff aus der Subplot-Sammlung wählt statt eines kampflosen Schwellen-Tritts, was kippt am Call to Adventure in Kapitel 28 und an Kapitel 26 als Ende von Akt II?",
    "draws_on": "Where the sources differ: what meets Kael; Kernwelten vollständig (Akt-II-Ende); GOAL §4.5 #8"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er beschließt, die Konfrontation zu suchen, aktiv statt reaktiv, und was tritt ihm beim Hinausgehen entgegen: laut der AEGIS-Subplot-Sammlung ein präventiver Schritt von AEGIS und ein Guardian, der ihn abfängt, laut der Plot-Konkretisierung nur eine Tür, die ihn nicht mehr registriert?",
+   "draws_on": "Where the sources differ: what meets Kael as he steps out (aegis-subplots, strukturierter Outline, Plot-Konkretisierung)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn die Erasure-Vorbereitung eskaliert und der Apparat laut der Plot-Konkretisierung Einheit 734 als ausgefallen reklassifiziert und die Direkt-Konsolidierung vorbereitet: was verliert Kael, wenn er zurückweicht, und was, wenn er den Schritt ins Ungewisse tut?",
+   "draws_on": "Plot-Konkretisierung plot beats; storyform lines (Erasure-Vorbereitung eskaliert)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende anders, wenn der Zyklus laut der strukturierten Outline durchbrochen ist, ohne Erleichterung, nur mit einer Richtung, und die Entscheidung einrastet wie das Trennungsprotokoll, aber umgekehrt: welcher Wert kippt, wenn aus dem Kreisen eine Linie wird?",
+   "draws_on": "strukturierter Outline plot beats and Genesis echo; mode change cyclic to linear"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Entscheidung zur Befreiung erzählt, wenn die strukturierte Outline und die Drei-Modi-Spezifikation Kael als entschlossenes Wir führen und der Schleier laut Kapitel-Kompendium und Storyform-Outline jetzt offen benannt ist: wie klingt ein Wir, dessen Vielheit ausgesprochen ist?",
+   "draws_on": "POV lines of strukturierter Outline and 39-chapter spec; veil lines of Kapitel-Kompendium and storyform outline"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt der Schritt ins Ungewisse, wenn Kernwelten vollständig ihn in die Zitadelle von KW3 legt, das Innere Bollwerk, gefährlich gerade weil dort am wenigsten Bedrohung erwartet wird, und wie werden aufkommende Bewegung und Vorwärts-Spannung in Kaels Körper spürbar?",
+   "draws_on": "readings of Kernwelten vollständig (Zitadelle) and Konzept-Iteration Genesis (Sensorik)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt der Schritt ins Ungewisse ein, wenn Kael an der Wegkreuzung nur an der Schwelle stand, und welches Ereignis trägt den Leser in die Autoren-Feder, in der Kael mit klarer Absicht handelt und laut der Plot-Konkretisierung einen Bericht schreibt, den niemand angefordert hat?",
+   "draws_on": "neighbour readings: Wegkreuzung before, Autoren-Feder after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat der Tritt über die Schwelle als Abschluss des zyklischen Modus und Wechsel in den linear-aufsteigenden ohne Wechsel der Storyform, und was fehlte, wenn Kael ohne diesen Entschluss in die äußere Konfrontation ginge?",
+   "draws_on": "strukturierter Outline transition line; Kapitel-Kompendium (Modus-Wechsel); Kernwelten vollständig (Akt-II-Ende)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn der Zyklus bricht und keine Erleichterung folgt, nur eine Richtung, und wie berührt ein Entschluss, der umgekehrt zum Trennungsprotokoll einrastet, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "strukturierter Outline plot beats and Genesis echo"
+  }
+ ],
+ "about": "Kael beschließt, die Konfrontation zu suchen, aktiv statt reaktiv, und die Erasure-Vorbereitung eskaliert; laut der strukturierten Outline ist der Zyklus durchbrochen, ohne Erleichterung, nur mit einer Richtung, und die Entscheidung rastet ein wie das Trennungsprotokoll, in umgekehrter Richtung. Was ihm beim Hinaustreten begegnet, erzählen die Quellen verschieden: laut der AEGIS-Subplot-Sammlung ein präventiver Schritt von AEGIS und ein Guardian, der ihn abfängt, laut der strukturierten Outline kein Kampfbeginn, sondern ein Schwellen-Tritt, laut der Plot-Konkretisierung die Reklassifizierung von Einheit 734 als ausgefallen und eine Tür, die ihn nicht mehr registriert. Es ist der vollzogene Wendepunkt zur Befreiung im zyklischen Modus und sitzt auf einem Modus-Wechsel, laut der strukturierten Outline vom zyklischen in den linear-aufsteigenden Modus ohne Storyform-Wechsel, im Shō; das Kapitel-Kompendium und die Storyform-Outline legen es in den zweiten Akt und benennen den Schleier jetzt offen, Kernwelten vollständig legt es als Akt-Ende in die Zitadelle von KW3, die Plot-Konkretisierung in den Block der Niederlegung. In Storyform A trägt es MC-Concern, den Schritt ins Ungewisse als Entschluss, in B OS-Physics mit eskalierender Erasure-Vorbereitung, und laut der strukturierten Outline antizipiert AEGIS die Linearisierung.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, strukturierter Outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline, Plot-Konkretisierung and aegis-subplots; Where the sources differ; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
 }
