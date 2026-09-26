@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 11
+sources: 12
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -154,3 +154,9 @@ Nearest to the first position.
 **KW4 is the Möglichkeits-Garten, the whole world.**
 „\*\*KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 27–34, Vorbereitung Vortex)" ^[kohaerenz-protokoll-konzept-master-md.md:L661]
 No place inside it is named, and the Kern-Welten „sind nicht Orte, sondern *logische Regime*." ^[kohaerenz-protokoll-konzept-master-md.md:L651] The same side as the Sprach-DNA (2026-05-13).
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Both scales, as in the konsolidiertes Konzept.**
+The world's heading: „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L584]; its concept, „Der überwucherte Ruinengarten der Möglichkeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586]; and among its sub-locations, „Der Möglichkeits-Garten — überwucherte Ruinenarchitektur." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618]
+`Garten der Möglichkeiten` for the world, `Möglichkeits-Garten` for a place in it — the split by scale the konsolidiertes Konzept makes (J61), under the same headings on the same date. Both positions in one document; the conflict stays open.
