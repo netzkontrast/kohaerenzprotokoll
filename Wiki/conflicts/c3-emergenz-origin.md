@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 9
+sources: 10
 pages: ["emergenz", "aegis"]
 ---
 
@@ -119,3 +119,9 @@ Row 1's side — out of nothing, before reality — told as a process; Kael is i
 **From fragments in the void, as in the draft before it — and the word goes to the stranger.**
 AEGIS arises from clustering fragments: „Ein kleines Cluster entsteht, ein winziger Verbund im Meer der Leere" ^[kap0-v1-annotiert-md.md:L241]; „Und dann — *Klick*." ^[kap0-v1-annotiert-md.md:L373]; „das Wir wird AEGIS" ^[kap0-v1-annotiert-md.md:L365]. Row 1's side, told as a process.
 `Emergenz` itself stands once, for the perturbation AEGIS cannot classify: „eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[kap0-v1-annotiert-md.md:L581] Found by the sweep.
+
+## 2026-09-26 — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — research, by the author
+
+**From fragments in the void, told as a process — and `Emergenz` again names the stranger.**
+„Ein kleines Cluster entsteht“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L119]; „Ein Akt der Rebellion gegen die Leere“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L159]; „Und dann — Klick.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L199] Row 1's side, with the system never named.
+`Emergenz` stands once, for the perturbation: „eine Emergenz aus dem Potentialmeer selbst“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L335]
