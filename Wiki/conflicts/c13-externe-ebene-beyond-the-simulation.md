@@ -4,7 +4,7 @@ subject: the Externe Ebene — beyond the simulation, or not outside it
 kind: one level, placed beyond the simulation by two canon-era sources and denied to be outside it by four, two of them of one date
 status: open
 first_seen: "2026-09-25"
-sources: 6
+sources: 7
 pages: ["externe-ebene"]
 ---
 
@@ -54,3 +54,10 @@ Decision 006 (2026-09-24) applies to this record as to C1–C12: no position abo
 is retired by its date or by a source's claim to be canon. It is an **item for
 discussion** with the author, and closes when the author decides it.
 [Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Not outside it — and it writes `Basisrealität` too, for the ground of Kael's trauma, without placing it beyond the simulation.**
+„Kein „außerhalb der Simulation", sondern die andere Seite des Spiegels." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650] One of six levels: „die Externe Ebene (Köln 2026, der Substrat-Durchbruch)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L449]; „Die Realität, die der Roman selbst ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L654]
+The trauma section names Köln the other way: „Schicht 1 — Das Fundament (Basisrealität Köln):" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431]. `Basisrealität` stands once; `jenseits der Simulation` 0 times.
+Row 2's side, in the konsolidiertes Konzept's words on its date. And a third source writing `Basisrealität` that does not put it beyond the simulation: the split along the two names, stated above, holds for rows 1 and 3 and not for this document.
