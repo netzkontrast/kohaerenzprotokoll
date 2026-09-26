@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,14 @@ Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L
 - Storyform A: „MC-Concern: Vielfalt als Stärke" ^[three-mode-architecture-39-chapters-md.md:L188]
 - Storyform B: „latent" ^[three-mode-architecture-39-chapters-md.md:L188]
 - Leitmotif: „Mosaik, Scherben als Muster" ^[three-mode-architecture-39-chapters-md.md:L188]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — a Grenzsituation
+
+The document ranks itself: „Diese Datei dient als operative Referenz, nicht als Source-of-Truth.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968]
+
+Position: „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496]
+
+- Philosophy: „Jaspers' *Grenzsituationen* sind die Katalysatoren der Erkenntnisgenese (Ch11, Ch33).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L739] — the one line that names Ch11.
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
