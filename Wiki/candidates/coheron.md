@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -99,3 +99,10 @@ Silas as „Coheron-Echo" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10
 Love is a class of them: „Liebe ist im Roman keine Emotion und keine Zuschreibung, sondern eine Klasse von Coheronen." ^[kohaerenz-protokoll-konzept-master-md.md:L123]
 „Liebe ist Coheron. Coheron ist atemporal. Zerstörung braucht Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L71] „Also kann Liebe nicht zerstört werden — nur verdrängt. Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71]
 Juna is one, from outside: „\*\*Juna\*\* | Coheron (extern) | Reine Korrespondenz" ^[kohaerenz-protokoll-konzept-master-md.md:L959]; Silas its echo (L399).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — love as a particle, and Juna is one
+
+The central question's answer: „Liebe ist Coheron. Coheronen existieren atemporal. Zerstörung braucht Zeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41] „Folglich kann Liebe nicht zerstört, nur verdrängt werden. Verdrängung erzeugt Wärme." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41] — Wärme where the storyform outline writes Hitze, and the warmth becomes the Risse: „Wärme manifestiert sich als Risse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41] No line gives Juna warmth (0, `Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify-readers.txt`).
+The definition: „Coheronen (K₁-Domäne) sind selbstkorrigierende Schleifen mutualer Information." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L55] „Sie existieren außerhalb der Zeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L55] „Ein Coheron entsteht, wenn sich zwei Bewusstseine aufeinander beziehen und dabei beide sich verändern" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L55]. „Coheronen sind reversibel, informationserhaltend, symmetrisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L55]
+Juna is one: „Juna = echtes Coheron, das nie zerstört werden kann" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L77], in the inversion table's column of what holds; „Junas DKT-Korrelat ist Coheron — sie ist die atemporale Bindung, nicht ihre Trägerin." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L291] The phone call twenty years before is one: „Es war reines Coheron — der Moment, in dem nichts gesagt wurde, enthielt alles." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L364] Silas echoes it: „Coheron-Echo (atemporal → Tunneling)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L410].
+AEGIS erases them without knowing: its Suppressionsprotokoll strikes „tatsächlich K₁-Coheronen, die es nicht erfassen kann" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L213]. KW4 is the „Einzige Zone, in der neue Coheronen entstehen können" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586].
