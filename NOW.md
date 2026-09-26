@@ -509,6 +509,48 @@ manual's reveal timeline, the Alter profiles' debuts); the Abhandlung and both
 drafts of Kap 0 are read; then chapters in `graph.py` and `ui.py` if
 the author wants them (*Questions for the author*).
 
+## Reading suggestion — next, by the chapter questions (2026-09-26)
+
+Every chapter page now opens with **what the chapter is about** — its readings
+summarised and placed in the Heldinnenreise, Heldenreise, cycles, Kishōtenketsu,
+acts, Vortex, brackets and Dramatica A/B, each source named where they differ — and
+ends with **eight basic questions filled with its plot, 10–12 of its own, a table of
+twelve unread candidate sources, and qmd's raw answers**
+(`Plan/runs/qmd-chapters-2026-09-26/README.md`). The table is a place to look,
+never a reading or a number.
+
+**Read next, in this order:**
+
+1. **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17) — still first, by the grep
+   of the morning scan (*Next document*, below). The vector tables do not find it:
+   no Kap 0 question returns it, because a question is written about a chapter and
+   a draft is the chapter's prose. That is the method's limit, measured.
+2. **`worldbuilding-konzept-kohaerenzprotokoll-md`** (2026-05-08) — in 25 chapters'
+   tables, Kap 31–40 all among them, and one of the ten scanned.
+3. **`kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`** — Kap 11, 12, 15,
+   24, 25 and every chapter from Vortex 1 to the end, 35–40.
+4. **`2026-09-14-kap25-vertiefung-md`** and **`kp-kap25-2026-09-14-md`** — the newest
+   documents in the corpus, in eleven and four chapters' tables.
+5. **`kohaerenz-protokoll-philosophischer-bericht-md`** (2026-05-08) — Kap 3, 6, 7,
+   17, 24, 32, 35, 36, 38.
+6. **`dual-storyform-hintergruende-md`** (2026-05-08) — Kap 22 and 35–37, 40, the
+   storyform turn and the end.
+
+Four whole-novel plans from before May 2026 are in more than half the tables and marked *in most
+chapters* there — `monstergruppe-primzahlen-plot-blueprint`,
+`hard-sf-roman-outline-dkt-physik-cosmic-horror`,
+`dramatica-storyform-synthese-aegis-analyse-2`,
+`roman-konzept-dualitaet-kohaerenz-spannung` — as is the worldbuilding concept.
+They are reading for the book's shape, not for one chapter. For a single chapter,
+its own table below the shared ones is the list; `chapter_sources.py across`
+prints every document with its chapters.
+
+**Noticed, not settled:** for Kap 24, four read sources write „B: OS-Psychology,
+Host-System-Verstrickung", where GOAL.md §5.2 has B's OS in Physics and its RS in
+Psychology; Kap 29's readings give B's line as RS-Psychology. The summaries repeat
+the readings; whether the sources mislabel a throughline or GOAL.md does is the
+author's.
+
 ## Handover — the next session starts here
 
 **A qmd search over all 347 unread landed documents ran on 2026-09-26** (`Plan/runs/qmd-scan-2026-09-26/`): one to four short queries per open record, hits only, no reading. It placed all fifteen unread canon-era documents and found two the earlier scan had not: a second Kap 0 draft and a philosophischer Bericht. It also showed the stemmer turning „Mira“ into „miracle“ — six hits, none of them the name.

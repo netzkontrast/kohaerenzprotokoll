@@ -641,6 +641,14 @@ them. The count sees `Kap N` written singly; a range and a numbered list without
 2026-09-25. Reading a new document now ends,
 where it names chapters, with its readings on those pages.
 
+**Around the readings, navigation (2026-09-26).** Each chapter page opens with
+what its readings say the chapter is about, placed in the story's structures, and
+ends with its questions — eight basic ones filled with its plot, 10–12 of its own
+against GOAL.md §4.5 and §5 — a table of unread candidate sources a qmd vector
+search returned for them, and qmd's raw answers. `scripts/chapter_sources.py`
+writes all four from `Plan/runs/qmd-chapters-2026-09-26/`; none is a reading, and
+the table finds plans of a chapter, not its drafted prose.
+
 **Reading the chapter outlines side by side corrected a claim.** `NOW.md` said
 every read source but one ended at Kap 39; seven of the eight count a Kap 40.
 The konzept master report, read after, counts 39 chapters with no frame and one
