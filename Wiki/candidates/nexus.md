@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-17"
 ---
 
@@ -12,6 +12,9 @@ gathered: "2026-09-17"
 
 The meta-space the [[guardians|Guardians]] appear in. **11 occurrences, and a second name
 used in the same sentences.**
+
+**That is the 2025 document's Nexus.** Later sources move it: the worldbuilding concept puts it in KW4, a
+„Übergangsort zwischen KW4 und Externer Ebene." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L619], and its Guardians in the Überwelt.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -95,3 +98,12 @@ Only as KW3's second name: „KW3 — Cerberus-Labyrinth / Überwelt-Nexus." ^[k
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
 A KW4 sub-location: „Knotenpunkt mehrerer Realitätsstränge" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L273].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — a place in KW4, the passage to the Externe Ebene
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+One occurrence, a KW4 sub-location: „Der Nexus" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L619] — „Übergangsort zwischen KW4 und Externer Ebene." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L619]
+„Reine Information als Aufenthaltsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L619] It stands beside the [[moeglichkeits-garten|Möglichkeits-Garten]] (L618).
+The Guardians are elsewhere, in the Überwelt: „Hier residieren die zwei Guardians als abstrakte Entitäten" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L628].
+`Überwelt-Nexus` and `Überraum` do not occur (0 each, counted in `05-verify-readers.txt`).
