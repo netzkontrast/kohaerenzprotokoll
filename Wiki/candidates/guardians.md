@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-16"
 ---
 
@@ -357,3 +357,21 @@ The author's decision for five (C6) stands; this is one more source for two.
 
 Once, in Storyform B's column for Kap 32, „Tests, Allies, Enemies — Systemkampf" ^[three-mode-architecture-39-chapters-md.md:L337]: „OS-Physics: Guardians als Sub-Antagonisten" ^[three-mode-architecture-39-chapters-md.md:L337].
 None is named or counted, and no world is given one (`Plan/runs/three-mode-architecture-39-chapters-md/05-verify.txt`).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — two, and the five told as the old drafts' `Lore-Last`
+
+**Two, under a heading it marks canonical** — „Architektur (post-Reset, kanonisch)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L190] — in a document that ranks itself last: „Diese Datei dient als operative Referenz, nicht als Source-of-Truth." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] Both claims are recorded and neither is applied.
+
+What it says of the older drafts is its claim about them: „Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle. Das war Lore-Last." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L192] „Der Reset reduziert auf das narrativ Notwendige:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L192]
+„Zwei Guardians:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L196] — [[mnemosyne|Mnemosyne]], „Mnemosyne — Erinnerungs-Hüterin." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200], and a pole named for its function, „(Name offen, Forschungsfrage). Funktion: Löschungs-Exekutive." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201]
+
+**Three of the old five are absorbed, and the fourth is not said to be.** „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] — the Erasure-Pol. [[sophia|Sophia]] stands once in the whole document, in the list of the old five (L192), and where her function went it does not say (Q5).
+
+**The two are in tension, and the document leaves it open.** „Die innere Spannung zwischen den beiden Guardians (wachsende kognitive Dissonanz:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L205] „Das, was ich beschütze, ist die Krankheit" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L205] „ist der subtile dritte Subplot, der unter den ANP/EP-Konflikten von Kael läuft." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L205]
+Its fifth open point asks it again: „Wächter-Zwiespalt-Soziopolitik." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L894] „Spannung zwischen Mnemosyne und Erasure-Pol — vollständige Algorithmen oder interne Spaltung?" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L894]
+
+Not tied to worlds: „Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] „Mit der Reduktion auf zwei Guardians sind die KW-Domänen entkoppelt von 1:1-Guardian-Zuweisung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
+They live in the [[ueberwelt|Überwelt]]: „Hier residieren die zwei Guardians als abstrakte Entitäten, hier fließen die Logs, hier erfolgen die Erasure-Sweeps." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L628] — entered in the „Wächter-Registry — operative Verwaltung der zwei Guardians." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L645]
+They are told from outside: „AEGIS und die zwei Guardians sprechen in 3. Person (Logs/Protokolle, keine subjektive Innensicht)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L415] And they belong to Storyform B's overall story: „Physics in B (kybernetischer Krieg, drei Protokolle, zwei Guardians)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L951]
+
+The sentences of L192–L205 stand in the konsolidiertes Konzept of the same date (L210–L220 there); the open point on the tension does not (`grep -c Wächter-Zwiespalt` 0 there). The author decided C6 for five on 2026-09-24; this is one more 2026 source for two, recorded and not applied (C6, Q5).
