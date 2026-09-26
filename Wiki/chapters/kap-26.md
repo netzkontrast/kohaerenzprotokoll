@@ -1,9 +1,9 @@
 ---
 chapter: 26
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
-records: []
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md"]
+records: ["C9"]
 gathered: "2026-09-25"
 ---
 
@@ -110,6 +110,19 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 - World: „Erasure-Vorbereitung eskaliert“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Plot beats: „Kael verlässt den Knoten; die Tür registriert ihn nicht mehr.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - World: „Ab Kap 26 steigt sie.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L196] (the Warteschlange)
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — the step over the threshold, what Kap 25 prepares for it
+
+The log of one unattended drafting run that revised the manuscript's Kap 25; it does not contain Kap 26. What it says of Kap 26 is what the revised Kap 25 prepares for it, and what it says another document requires is its claim about that document.
+
+Position: „Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz" ^[2026-09-14-kap25-vertiefung-md.md:L17]
+
+- Story: Kap 25's „Stehen an der Schwelle" ^[2026-09-14-kap25-vertiefung-md.md:L23] against Kap 26's „der Tritt darüber" ^[2026-09-14-kap25-vertiefung-md.md:L23]
+- Motif, from an older analysis, `[S]`: „Schritt ins Ungewisse" ^[2026-09-14-kap25-vertiefung-md.md:L38] · „= bewusste Wahl, Kap 26" ^[2026-09-14-kap25-vertiefung-md.md:L38]
+- Plot beats: the unit from Station 7 — „ihr Vorbeigehen an der Tür in Kap 26 ist vorbereitet" ^[2026-09-14-kap25-vertiefung-md.md:L22]
+- Hook-in: „die Restzahl steht nach Schichtende bei 34 statt 31" ^[2026-09-14-kap25-vertiefung-md.md:L25] · „trägt direkt in Kap 26" ^[2026-09-14-kap25-vertiefung-md.md:L25] · „Am Montag steht die Zahl bei achtundvierzig" ^[2026-09-14-kap25-vertiefung-md.md:L25]
+- Veil: „Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26" ^[2026-09-14-kap25-vertiefung-md.md:L21] · „R-3 — Vielheit wird benannt, kanonisch gefordert für 25–26" ^[2026-09-14-kap25-vertiefung-md.md:L47] · the alternative to naming it in Kap 25: „oder die Verlagerung nach Kap 26" ^[2026-09-14-kap25-vertiefung-md.md:L56]
+- World: „Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60] · „die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt" ^[2026-09-14-kap25-vertiefung-md.md:L60]
 
 ## Where the sources differ
 
