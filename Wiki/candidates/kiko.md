@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -101,3 +101,10 @@ In the roster by storyform, as an EP: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, 
 The konsolidiertes Konzept's row, in the same words: „EP | Kiko (Freeze) | Planck-Skala | Sich klein machen | → Vertrauen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L405]. From the first trauma layer, the Bindungstrauma in Köln: „Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431]
 Her Riss: „Kiko (Freeze) | Temporal | Zeit hält an / loopt, Echo, Déjà-vu" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L681]; in KW2, „Temporale Risse (Kiko-Trigger)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L524]. Her voice in Akt I: „Lex hypotaktisch, Nyx stakkato, Kiko kindlich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L765]
 Kiko carries Freeze and nothing else here; the spatial row's trigger is „(Flight, Lia/Isabelle)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L682] (C15).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — pre-linguistic trauma-knowledge
+
+Under §1.2 Korrespondenztheorie, in §1, labelled [K]: „Nyx' Stakkato, Kikos kindliche Sätze, Moros' Implosion sind alles korrespondenz-theoretische Sprechakte" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L56] — „sie referieren auf eine Wirklichkeit, die das System (AEGIS, Kael-Host) leugnet." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L56]
+Her body, under §3.4, labelled [V]: „Kikos zitternde Kinnlade" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202].
+In the figure table §14.1, which carries no label: „korrespondenz-theoretisches Trauma-Wissen, vor-sprachlich" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L638], DKT correlate „Planck-Skala" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L639].
+Nothing else in the document names Kiko (`grep -cw Kiko`: 1, `Kikos`: 2). The row names no fear response, and `Flight` stands nowhere in the document (`grep -cw Flight`: 0) (C15).
