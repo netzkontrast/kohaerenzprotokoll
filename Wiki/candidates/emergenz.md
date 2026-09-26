@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-16"
 ---
 
@@ -129,3 +129,11 @@ Until the Klick (L199) closes it: „Eine neue Logik setzt sich durch, geboren a
 Two senses, then, as in the annotated draft: the word for the stranger, and an unworded
 coming-to-be of the system. Conflict `C3` asks where the system comes from; this document
 tells it and does not use the word for it.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — KW4's, and no longer Kairos'
+
+Found by the sweep. The word is KW4's and nothing else's, on three lines (`emergen` 3, `05-verify-readers.txt`).
+KW4's concept, in the konsolidiertes Konzept's words of the same date: „Einzige Zone, in der neue Coheronen entstehen können — Emergenz statt Erhaltung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586]
+Its logic: „Computational Class: Generativ — neue Strukturen entstehen, die nicht aus den Prämissen folgen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L598] In the logic regimes: „KW4 = Generativ. Emergente Strukturen. Sprache poetisch-chorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L703]
+It takes the world from the Guardian the 2025 source gave emergence to. As a „Wichtige Korrektur gegenüber alten Drafts:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] — „KW4 ist nicht mehr" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] Kairos' realm, „sondern emergenter Möglichkeitsraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] — while Kairos' function goes to the Erasure-Pol: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] That is the document's claim about older drafts.
+[[aegis|AEGIS]]' own origin is the [[genesis|Genesis]]-Krise here, without the word (L67, L174). Not conflict `C3`'s sense.
