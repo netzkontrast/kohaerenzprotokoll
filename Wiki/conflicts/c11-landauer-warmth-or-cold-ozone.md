@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 18
+sources: 19
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -228,3 +228,11 @@ Warmth as Juna's is the lock's side, thirteen days early; heat beside the knuckl
 **Warmth in Kap 6 and Kap 36 — row 1's side, in nearly row 1's words, on row 1's date.**
 Kap 6: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)" ^[three-mode-architecture-39-chapters-md.md:L183]. Kap 36: „Landauer-Wärme als Schluss-Markierung; Stille danach" ^[three-mode-architecture-39-chapters-md.md:L341]; its Beat 4 „wird sichtbar als Wärme-Phänomen (Landauer-Hitze als somatischer Filter)" ^[three-mode-architecture-39-chapters-md.md:L359].
 Ozone is Part 1's air and has nothing to do with Landauer: „Ozon-Geruch, blendendes Licht, absolute Stille." ^[three-mode-architecture-39-chapters-md.md:L167] There is no cold ozone, and warmth is not Juna's (`Plan/runs/three-mode-architecture-39-chapters-md/05-verify.txt`).
+
+## 2026-09-26 — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — research, by the author
+
+**Warmth at the first contact and in a contradicted memory, heat in the analysis and the air of the separation, cold as the system's logic — no ozone, no Landauer, no name for whose warmth it is.**
+„Es ist warm. Es ist anders warm als alles, was vorher warm war, denn vorher war nichts warm.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L99]
+„Die internen Analyseprozesse liefen heiß.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L435] „Die Luft ist heiß.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L607]
+„Die Kälte der Logik ist die Klinge, die mich zerteilt.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L611]
+Counted in `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`: `Ozon`, `Landauer`, `Hitze` and every figure's name stand 0 times. So the text places warmth where the rule's side would put a trace and does not say it is one; it attributes nothing.
