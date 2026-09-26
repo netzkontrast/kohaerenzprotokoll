@@ -28,7 +28,7 @@ DID, and under the loss of the bond ^[kohaerenzprotokoll-aegis-und-systementropi
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the status lines
 
-A draft of the novel's text, not the research's six quantities: here AEGIS speaks in status lines, and the draft's rules allow its vocabulary — „AEGIS-System-Vokabular wie Persistenz-Score, Paradox-Index, Sweep ist erlaubt" ^[kap0-v1-annotiert-md.md:L63].
+A narrative text — research, by the author's word of 2026-09-26, not text for the novel — not the other sources' six quantities: here AEGIS speaks in status lines, and the draft's rules allow its vocabulary — „AEGIS-System-Vokabular wie Persistenz-Score, Paradox-Index, Sweep ist erlaubt" ^[kap0-v1-annotiert-md.md:L63].
 At rest: „KOHÄRENZ:  0.998" ^[kap0-v1-annotiert-md.md:L533] „ANOMALIEN: keine" ^[kap0-v1-annotiert-md.md:L537] „SWEEP:     Routine" ^[kap0-v1-annotiert-md.md:L541]
 The Residual-Echos are scored and dismissed: „*Residual-Echos*, Persistenz-Score 0.41, Klassifikation: irrelevante Varianz." ^[kap0-v1-annotiert-md.md:L561]
 At the perturbation: „PARADOX:    0.67" ^[kap0-v1-annotiert-md.md:L601] „Informationsdichte: gleichzeitig 1.0 / 0.0" ^[kap0-v1-annotiert-md.md:L597] Then „PARADOX:          0.84" ^[kap0-v1-annotiert-md.md:L669], and before the protocol „PARADOX:                 0.99" ^[kap0-v1-annotiert-md.md:L737] „KOHÄRENZ:                0.21" ^[kap0-v1-annotiert-md.md:L741].
