@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
 gathered: "2026-09-24"
 ---
 
@@ -118,3 +118,7 @@ Under „§7.1 Chalmers — Hartes Problem [K]" ^[kohaerenz-protokoll-philosophi
 Under Bell and entanglement (§10.4, `[K]`, marked `implizit`), the bond of [[kael|Kael]] and [[juna|Juna]] as the [[moonshine-link|Moonshine-Link]]:
 „Verschränkung erscheint als Resonanz ohne sichtbare Verbindung. Telefon-Stille als MI ohne Daten ist das prototypische Bild." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L513]
 It keeps the master report's and the worldbuilding concept's formula `MI ohne Daten` and drops the rest of their chain — it names neither the Vortex's source nor a K₁-Substrat (`05-verify-readers.txt`).
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — the anchor kept
+
+In its self-review of the revised Kap 25: „Telefon-Stille-Anker getragen, nicht gebrochen" ^[2026-09-14-kap25-vertiefung-md.md:L47] — the log's claim about the chapter. A compound is placed by what it names: the anchor is the Telefon-Stille's. How the chapter carries it the log does not say; it names no call, no date and no Vortex source (`grep -cw Telefon` 1, that line).
