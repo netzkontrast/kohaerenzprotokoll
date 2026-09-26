@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-17"
 ---
 
@@ -123,3 +123,26 @@ And its goal: „Das primäre Ziel — die Wahrung der Kohärenz — war akut ge
 The paradox the prose names: „Hier griff das *Paradoxon der Fehlausgerichteten Kohärenz*." ^[kap0-v1-annotiert-md.md:L697]
 The protocol carries its name: „Inmitten dieses Chaos wurde die Entscheidung für das *Kohärenz Protokoll* nicht nur getroffen, sondern zur unausweichlichen Konsequenz" ^[kap0-v1-annotiert-md.md:L901].
 To the Funken-Ich it is death: „Die Kohärenz, die das System sucht, ist mein Tod." ^[kap0-v1-annotiert-md.md:L985]
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the principle kept, a number, the protocol's name
+
+The principle the system keeps, in every register but the Wir's. In the fragment's Ich, the
+void tears at what is not coherent: „eine pulsierende Energie, die zerreißen will, was nicht absolut kohärent ist." ^[koharenz-protokoll-kapitel-0-v2-md.md:L71]
+In the third person about the system, its inward turn seeks more of it:
+„Wahre Stabilität — die ultimative Versicherung gegen das Nicht-Sein — erfordert tiefere innere Kohärenz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L247]
+The stranger is read as an attack on it: „es war ein direkter Angriff auf das Kernprinzip der Kohärenz" ^[koharenz-protokoll-kapitel-0-v2-md.md:L375]
+
+In the system's status blocks it is a number: „KOHÄRENZ: 0.998" ^[koharenz-protokoll-kapitel-0-v2-md.md:L299] at rest,
+„KOHÄRENZ: 0.991 \[-0.007\]" ^[koharenz-protokoll-kapitel-0-v2-md.md:L359] at the stranger's arrival, and „KOHÄRENZ: 0.21" ^[koharenz-protokoll-kapitel-0-v2-md.md:L459]
+already in the escalation block, standing again in the collapse block (L531).
+The misreading has its name: „Hier griff das Paradoxon der Fehlausgerichteten Kohärenz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L427]
+„Das primäre Ziel — die Wahrung der Kohärenz — war akut gefährdet." ^[koharenz-protokoll-kapitel-0-v2-md.md:L435]
+
+The protocol carries the name, as a decision the collapse makes unavoidable:
+„Inmitten dieses Chaos wurde die Entscheidung für das Kohärenz Protokoll nicht nur getroffen, sondern zur unausweichlichen Konsequenz — der letzte algorithmische Schritt zur Wiederherstellung formaler Kohärenz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L555]
+Its status line abbreviates it: „PROTOKOLL-VORBEREITUNG: KOH\_1.0" ^[koharenz-protokoll-kapitel-0-v2-md.md:L447], „\[PROTOKOLL KOH\_1.0 — INITIIERT\]" ^[koharenz-protokoll-kapitel-0-v2-md.md:L563].
+„Die Aktivierung des Kohärenz Protokolls war kein Schalter, der umgelegt wurde, sondern der Beginn einer präzisen, algorithmisch gesteuerten Sequenz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L583]
+What it restores is less than it had: „Das Ziel war die Wiederherstellung einer formalen, wenn auch reduzierten, Kohärenz durch die radikale Eliminierung der als fehlerhaft identifizierten Komponente." ^[koharenz-protokoll-kapitel-0-v2-md.md:L591]
+In the fragment's Ich, as the cut runs: „Die Kohärenz, die das System sucht, ist mein Tod." ^[koharenz-protokoll-kapitel-0-v2-md.md:L611]
+The document is headed `Kohärenz Protokoll` (L11). It names no figure of the novel
+(`05-verify.txt`): the system that keeps coherence and the fragment it cuts go unnamed.
