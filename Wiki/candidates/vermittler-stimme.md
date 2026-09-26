@@ -1,10 +1,10 @@
 ---
 term: Vermittler-Stimme
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-25"
 ---
 
@@ -114,6 +114,30 @@ Kap 40's „Echo des Vorworts" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026
 „Wir waren die Stimme, die Sie zum Fühlen einlud, und wir waren das Fühlen selbst, das in Ihnen geschah." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L35]
 The `Dazwischen` between Genesis and crisis (L357) keeps the reader-address: „Was, wenn die Basis unserer Realität einer anderen Wahrheit begegnet?" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L359]
 
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — a Wir with no name, ending at the Dazwischen
+
+The voice as written, in the Vorwort (L17–51) and the Dazwischen (L269–287) and nowhere
+else. It is a Wir that addresses the reader as `Sie`: „Versuchen Sie es einmal: Sprechen Sie es aus, denken Sie es — das absolute Nichts." ^[koharenz-protokoll-kapitel-0-v2-md.md:L19]
+„Sie merken es schon. Wir scheitern." ^[koharenz-protokoll-kapitel-0-v2-md.md:L23]
+It asks the reader into the fragment's place: „Sondern indem wir uns vorstellen, wir seien dieser Funke." ^[koharenz-protokoll-kapitel-0-v2-md.md:L39]
+It allows that this has happened before: „Vielleicht ist das nicht das erste Mal, dass sie beginnt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L47]
+„Hören Sie genau hin. Vielleicht spüren Sie das Rauschen schon." ^[koharenz-protokoll-kapitel-0-v2-md.md:L51]
+
+The Dazwischen opens: „Hören Sie hin. Eine Frage steht im Raum. Vielleicht hat sie keinen Sprecher mehr." ^[koharenz-protokoll-kapitel-0-v2-md.md:L271]
+That is the gesture the annotated draft proposed in place of its own sentences flagged as
+a rule violation (`kap0-v1-annotiert-md`, L497), with one word, `mehr`, added; the flagged
+sentences do not stand here. It asks the question the crisis answers:
+„Was würde geschehen, wenn diese andere Wahrheit nicht gedacht, sondern gefühlt werden müsste — und das System, dem sie begegnet, das Fühlen nicht mehr in seinem Repertoire hätte?" ^[koharenz-protokoll-kapitel-0-v2-md.md:L279]
+„Oder zum zweiten. Oder zum unzählten. Wir wissen es nicht." ^[koharenz-protokoll-kapitel-0-v2-md.md:L283]
+Its last line: „Wir können nur leise sein, und zuhören." ^[koharenz-protokoll-kapitel-0-v2-md.md:L287]
+
+**The document never names its speaker.** `Erzähler` and `Vermittler` stand 0 times in it
+and `Wir-AEGIS` 0 times (`grep -cw`; the last in `05-verify.txt`). The reader is addressed
+as `Sie` on five lines — L19, L23, L51, L271, L283 — and on none after L287: the
+Stille Wacht, the crisis, the Trennungsprotokoll and the coda speak in the system's third
+person, the fragment's Ich and lines with no speaker. The one other `wir` in the text belongs
+to a line with no speaker in the Genesis, addressing a `du`, not the reader: „Wenn du möchtest — könnten wir kurz halten." ^[koharenz-protokoll-kapitel-0-v2-md.md:L123]
+
 ## Where the sources differ
 
 **Who speaks.** The Doppel-Klammer Abhandlung makes the voice Wir-AEGIS-plural
@@ -124,18 +148,21 @@ position that it calls its own interpretation (L1189), and it asks whether a Wir
 that is present but never spoken is right for Kap 0 (L1209). The konsolidiertes
 Konzept and the strukturierter Outline have the narrator return in Kap 40 and tell
 Kap 40 from Wir-AEGIS-plural's position (L939; L1228). Neither says the two are one.
-The Sprach-DNA names no speaker.
+The Sprach-DNA names no speaker. The narrative text of Kap 0 of 2026-05-17 writes a `Wir`
+and names no speaker either (L23, L271, L287).
 
 **How far it reaches.** The Vorwort and the Dazwischen, and possibly anywhere in the
 39 chapters, at chapter openings, endings or act transitions (konsolidiertes Konzept,
 Konzept-Iteration [[genesis|Genesis]], Abhandlung L263). The Sprach-DNA has the Genesis-Prolog
 and the Coda, and only occasionally act transitions (L29). The Kap-0 draft has it
-end at the Dazwischen and vanish from the crisis on (L497, L549). Its narrator filter
+end at the Dazwischen and vanish from the crisis on (L497, L549); so does the narrative
+text of Kap 0 of 2026-05-17, which addresses the reader on no line after L287. The Kap-0 draft's narrator filter
 over [[aegis|AEGIS]] remains (L1109): the draft cannot tell it apart from AEGIS' own voice, and
 the Abhandlung calls such an outside commentator in the crisis a defect (L422).
 
 **How it addresses the reader.** The draft's Vorwort addresses the reader as `Sie`
-(L133). The Sprach-DNA's sample sentence says `du` (L29).
+(L133), and so does the narrative text of 2026-05-17 (L19, L51, L271). The Sprach-DNA's
+sample sentence says `du` (L29).
 
 ## Open
 
