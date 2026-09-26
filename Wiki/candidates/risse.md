@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C11, C15
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -237,3 +237,17 @@ And one of the three protocols answers them: „**Re-Containment-Protokoll** —
 Storyform B's progress shows as cracks: „Progress (B) zeigt sich nun als wachsende AEGIS-Risse, die der Reader zunehmend bemerkt." ^[three-mode-architecture-39-chapters-md.md:L122]
 A riss scene is a bridge, the other storyform flickering in: „Bridges sind Riss-Szenen (kurzes Aufflackern der B-Lesart in einer A-Szene), keine kompletten B-Szenen." ^[three-mode-architecture-39-chapters-md.md:L202] Kap 2 is „Verrat / Desillusionierung — der erste Riss" ^[three-mode-architecture-39-chapters-md.md:L179].
 The multiplicity shows in Part 1 through glitches: „Der Reader spürt sie über Glitches, Stimmverschiebungen, ungewollte Handlungen" ^[three-mode-architecture-39-chapters-md.md:L171] — found by the sweep.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — heat made visible, a type per trigger and per world
+
+„Verdrängung erzeugt Wärme. Wärme manifestiert sich als Risse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41] Landauer's erasure heat „und diese Abwärme manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L82] (C11) Across the Vortex only the reading turns: „Die Phänomenologie der Risse ändert sich nicht; die Lesart ändert sich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L86]
+One of the three protocols answers them: „Re-Containment-Protokoll — Reaktion auf Risse. Dynamisches Patching, wenn die Verdrängung lokal versagt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L215]
+
+„Risse sind die diegetisch sichtbare Manifestation der Inversion. Jeder Riss-Typ hat einen EP-Trigger:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L673] The table's five rows: „Nyx (Fight) | Kinetisch" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L680], „Kiko (Freeze) | Temporal" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L681], „(Flight, Lia/Isabelle) | Spatial" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L682], „Moros (Collapse) | Gravitational" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L683], „Isabelle (Sex) | Sensorisch" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L684]. Flight's bearers stand in a parenthesis, and Isabelle in two rows (C15). The table is the konsolidiertes Konzept's (L560 there for the Flight row).
+„Wichtig: Risse sind für AEGIS Symptom (Suppression-Versagen)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L688] „Für den Roman sind sie das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L688]
+
+Per world. KW1: „Die Risse hier sind die schmerzhaftesten, weil sie in eine Umgebung einbrechen, die für Risse keine Sprache hat." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L481] — among them „blutende Knöchel ohne Erinnerung an die Verletzung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L481] (C10) — and the first ones in „Sektor 04 — Grenzbereich, in dem die ersten Risse als geometrische Inkonsistenzen auftreten." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L492]
+KW2: „Temporale Risse (Kiko-Trigger), spatiale Risse (Lia/Isabelle-Trigger)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L524]
+KW3: „Spatiale Risse (Geometrie verzerrt sich), gravitationale Risse (Boden wird nachgiebig), kinetische Risse (Mauern bewegen sich plötzlich)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L567]
+KW4 inverts them: „Hier sind „Risse" keine Pathologie, sondern Geburten." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L610] „Sensorische Risse (Isabelle-Trigger) als Synästhesie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L610] Its ozone is „Feuchte Erde + Ozon (das Riss-Echo, hier konstruktiv statt destruktiv)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L594]
+In the Überwelt: „Risse erscheinen hier als Datenkorruption oder Signalrauschen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L636]
