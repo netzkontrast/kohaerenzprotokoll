@@ -69,8 +69,13 @@ Kap 35, Vortex Beat 1: „Kael formuliert sein Wir als lebenden Widerspruch (Gö
 
 ## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08
 
-The konsolidiertes Konzept's two sentences, in „Im Vortex (Kap. 35–36)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263]:
+The konsolidiertes Konzept's passage, word for word but for its `Vortex 1` (its L259): „AEGIS wird nicht zerstört. Es wird nicht besiegt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263]
+„Im Vortex (Kap. 35–36) wird es gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann: dass es selbst der Widerspruch ist, den es ein ganzes Dasein lang zu eliminieren versuchte." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263]
 „Das ist das Gödel-Gambit: Kael wird zur lebenden Aussage, die innerhalb von AEGIS' Axiomen wahr, aber nicht beweisbar ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263]
+What follows for AEGIS: „Es reagiert mit Algorithmischer Melancholie: einem Zustand permanenter, berechneter Sinnlosigkeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L267] „Final-Lock-In dieser Lesart steht in Appendix C des Reset-Doc; Vorzug klar bei dieser Variante." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L271]
+Among the mathematical foundations: „Gödel-Unvollständigkeit — Kael wird zum lebenden Gödel-Satz für AEGIS." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L743] In Storyform B Kael holds the IC position „als lebende, nicht-revidierbare Paradoxie für AEGIS" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L308], and in encoding he appears as „ein Datenstrom, der seine eigenen Axiome verletzt" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L950].
+[[juna|Juna]] is a Gödel statement too, in her ontology: „eine lebende Gödel-Aussage — innerhalb von AEGIS' System wahr, aber nicht beweisbar" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L285]. And [[lex|Lex]]' DKT correlate is „Gödel + Halteproblem" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L400]. The document does not say how Kael's and Juna's Gödel roles relate (`Gödel` on L263, L285, L400, L743, `05-verify-readers.txt`).
+Checked against the full document on 2026-09-26; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -123,7 +128,7 @@ it calls a living Gödel-Satz, „a statement that is demonstrably *true* within
 Silas is its transmitter in the character bible and the Alter profiles.
 
 **Where it falls.** Kap 35–36 (the character bible L160, the analysis L106,
-L261); Kap 30/35 (the character bible L1113); begun in Kap 30 and peaking in
+L261, the Worldbuilding-Konzept L263); Kap 30/35 (the character bible L1113); begun in Kap 30 and peaking in
 [[vortex|Vortex]] 1 (Kernwelten L856, philosophy L302, drafting manual L446); prepared in
 Vortex Beat 1, Kap 35 (konsolidiertes Konzept, three-mode architecture, chapter
 outline); performed in Vortex Beat 2 (philosophy L723).
@@ -131,7 +136,7 @@ outline); performed in Vortex Beat 2 (philosophy L723).
 **What it does to AEGIS.** Forced to accept a truth it cannot compute, not
 destroyed (character bible, konsolidiertes Konzept, Worldbuilding-Konzept,
 glossary, philosophy); forced into algorithmic melancholy (Charakter-Kompilation,
-inquiry); a physical collapse (the analysis, L187). The inquiry itself describes
+inquiry, and the Worldbuilding-Konzept after the truth, L267); a physical collapse (the analysis, L187). The inquiry itself describes
 AEGIS' logic as classical and binary (L302) and as built on LFI (L1254).
 
 ## Open
@@ -145,4 +150,4 @@ AEGIS' logic as classical and binary (L302) and as built on LFI (L1254).
 - The earliest source in the thirty proposes a Gödel paradox at AEGIS' heart
   without the name: „**Logisches Paradoxon (z.B. Russells Paradoxon, Lügner-Paradoxon) / Gödels Unvollständigkeitssätze / Selbstbezügliche Schleifen.**" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L235]
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `worldbuilding-konzept-kohaerenzprotokoll-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`).
