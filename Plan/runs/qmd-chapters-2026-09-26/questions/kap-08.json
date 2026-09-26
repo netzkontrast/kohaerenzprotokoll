@@ -73,5 +73,49 @@
    "question": "Welches Genesis-Echo aus Kapitel 0 – die ursprünglichen Vorhersagealgorithmen – betrachtet Kael in Kapitel 8 mit Mitgefühl, und wo wird dieses Echo später eingelöst?",
    "draws_on": "the reading of koharenz-protokoll-konzept-iteration-genesis-md (Genesis echo); GOAL §4.5 #6"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er laut der Plot-Konkretisierung nach Dienstschluss bleibt und ausgeglichene Bestände liest, nicht um zu retten, sondern um anzusehen, oder laut den AEGIS-Subplots eine traumatische Erinnerung abzurufen versucht, und was stellt sich ihm entgegen: eine Dämpfung durch AEGIS, ein Guardian wie Mnemosyne, der seine Gedanken umlenkt?",
+   "draws_on": "readings of the Plot-Konkretisierung and aegis-subplots"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kael beginnt, Mitgefühl zu fassen, laut der strukturierten Outline mit den logisch-kontrollierenden Anteilen Lex und Alex, laut der Plot-Konkretisierung mit dem Apparat und der Konsole: was verliert er, wenn das Mitgefühl scheitert, und was gibt er auf, wenn es gelingt?",
+   "draws_on": "readings of the strukturierter Outline and Plot-Konkretisierung; difference 'Compassion with what'"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist anders, nachdem Kael in der Stufe Wiedergeburt, der Heilung des Männlichen im Inneren, zum ersten Mal Mitgefühl mit seinen Schutz-Funktionen hat: kippt Kontrolle vom Feind zum Wächter, und woran zeigt sich die erste Andeutung einer Wir-Stimme, ohne dass das Wort Alters fällt?",
+   "draws_on": "readings of the Konzept-Iteration Genesis, konsolidiertes Konzept and strukturierter Outline"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Wächterin erzählt: aus Kaels, mit einer Wächterin-Funktion, die laut der strukturierten Outline Selene als vermittelnde Instanz trägt, oder ist dies das Hard-B-Kapitel mit AEGIS-Innensicht, dessen Position die Plot-Konkretisierung erst beim Weaving pinnt, in erster oder in dritter Person?",
+   "draws_on": "strukturierter Outline POV; Plot-Konkretisierung Hard-B; records C14 and Q4"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Wächterin in den anti-mimetischen Räumen von KW1, wo der Schleier porös wird und erste Stilcode-Verschiebungen fallen, und wie verankern Licht, das durch Architektur fällt, der Arbeitsplatz nach Dienstschluss und Kaels Körper beim Lesen der Bestände die Szene?",
+   "draws_on": "readings of Kernwelten vollständig, the Leitmotiv in four readings, and the Plot-Konkretisierung"
+  },
+  {
+   "id": "B6",
+   "question": "Wie setzt die Wächterin ein, nachdem Kael Juna in der Telefon-Stille gespürt hat, ohne sie zu sehen, und welche offene Frage trägt den Leser zur ersten Wir-Stimme-Szene, in der sich die Arbeit an der Konsole auf mehrere verteilt?",
+   "draws_on": "neighbour pages: Telefon-Stille before, Wir and Arbeitsteilung an der Konsole after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Wächterin im Bogen der Heldinnenreise innen, als erste interne Lüftung des Schleiers ohne Klartext und als Beginn der sichtbaren RS-Psychology in Storyform B, und was fehlte dem Wir-Aufbau, wenn Kaels Mitgefühl mit den Schutz-Funktionen fehlte?",
+   "draws_on": "readings of the Kapitel-Kompendium and storyform outline (veil, Storyform B)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael die Echos der ursprünglichen Vorhersagealgorithmen aus der Genesis jetzt mit Mitgefühl betrachtet, und wie berührt das Mitgefühl mit dem, was ihn kontrolliert, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Genesis echo in the Konzept-Iteration Genesis"
+  }
+ ],
+ "about": "Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Wiedergeburt, der Heilung des Männlichen im Inneren, laut der strukturierten Outline im Ki als Vertiefung, in KW1; die Plot-Konkretisierung legt es in ihre Blöcke Die andere Seite des Schalters und Der zögernde Angestellte. Kael beginnt Mitgefühl zu fassen: laut der strukturierten Outline mit seinen logisch-kontrollierenden Anteilen Lex und Alex, laut der Plot-Konkretisierung mit dem Apparat, wenn er nach Dienstschluss bleibt und ausgeglichene Bestände liest, nicht um zu retten, sondern um anzusehen; die AEGIS-Subplots lassen ihn stattdessen eine traumatische Erinnerung abrufen, die verschwommen oder gedämpft ist, vielleicht weil ein Guardian wie Mnemosyne seine Gedanken umlenkt. Laut der strukturierten Outline tritt die Wächterin-Funktion als Selene erstmals auf und vermittelt, ohne zu kämpfen; die Plot-Konkretisierung kennt die Wächterin nur als Stufe. Mehrere Quellen setzen hier die erste Andeutung einer Wir-Stimme und die erste interne Lüftung des Schleiers ohne Klartext, im Licht, das durch Architektur fällt. In Storyform A trägt das Kapitel den MC-Issue, Mitgefühl mit Schutz-Funktionen, in Storyform B beginnt die RS-Psychology sichtbar zu werden; die Plot-Konkretisierung sieht hier die erste Pursuit-Vorform, die das konsolidierte Konzept früher ansetzt, und zählt das Kapitel zu den möglichen Orten des Hard-B-Kapitels.",
+ "about_draws_on": "readings of the strukturierter Outline, Plot-Konkretisierung, aegis-subplots, Kapitel-Kompendium, storyform outline, konsolidiertes Konzept, Konzept-Iteration Genesis and Kernwelten vollständig; differences on compassion and the Wächterin"
 }

@@ -73,5 +73,49 @@
    "question": "Wenn die Grenze für DKT-Terminologie bei Kapitel 13 statt bei den ersten 50 Seiten liegt, was ändert das für Kapitel 13 und die Kapitel davor?",
    "draws_on": "the reading of kapitel-kompendium-gather-2026-05-31-md (veil); GOAL §5.4 Theorie nie nackt, the deviation it names"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er laut den AEGIS-Subplots mit neu gefundener innerer Konsistenz handelt oder laut der Plot-Konkretisierung die Konsole ein wenig dreht und die Welt es zulässt, und was stellt sich ihm entgegen, wenn AEGIS seine Kohärenz als neues Risiko erkennt und die Stress-Tests der zweiten Phase vorbereitet?",
+   "draws_on": "readings of aegis-subplots, Plot-Konkretisierung and strukturierter Outline"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kaels innere Praxis etabliert ist und AEGIS laut den AEGIS-Subplots alte prädiktive Modelle als veraltet markiert: was verliert Kael, wenn das System wachsamer wird, und was gewinnt er, wenn die kleinste mögliche Schöpfung zugelassen wird?",
+   "draws_on": "readings of aegis-subplots and Plot-Konkretisierung"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende des Tanzes im Garten anders: ist nur die innere Praxis etabliert, wie die Storyform-Outline sagt, oder fällt der Multiplizitäts-Schleier intern, sodass Kael das System sieht, wie Kernwelten vollständig sagt, und welcher Wert kippt dabei?",
+   "draws_on": "difference 'What happens'; veil in Kapitel-Kompendium and Kernwelten vollständig"
+  },
+  {
+   "id": "B4",
+   "question": "In welcher Stimme wird der Tanz im Garten erzählt, wenn Kael Wir-stabil ist und die Vielheit laut Kapitel-Kompendium ab hier offen benennbar wird, und wird das benennende Wort hier erstmals ausgesprochen oder bleibt die Stimme bis zum Ende ohne Klartext?",
+   "draws_on": "POV in the strukturierter Outline; veil in Kapitel-Kompendium, storyform outline and Plot-Konkretisierung"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt der Tanz im Garten: im Möglichkeits-Garten als innerer Praxis und Vorgriff auf KW4, im Übergang aus KW1, oder in der Evaluierungseinheit von KW3, wo laut Kernwelten vollständig Personae kollabieren, und welche Sinneseindrücke von Garten, Pflege und lebendiger Ordnung tragen den Körper?",
+   "draws_on": "difference 'World'"
+  },
+  {
+   "id": "B6",
+   "question": "Wie setzt der Tanz im Garten ein, nachdem AEGIS den gehaltenen Moment der Stille gescannt hat, und welches Ereignis trägt den Leser in den Bruch des Gleichgewichts, den Stress-Test Delta-7 mit seinem moralischen Dilemma und den Zugang zum Lernarchiv Theta-9?",
+   "draws_on": "neighbour pages: Stille der Mitte before, Bruch / Archiv der Grenzen after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat der Tanz im Garten als Murdock-Stufe Neue innere Welt, Abschluss der Heldinnenreise innen und Modus-Wechsel von linear zu zyklisch ohne Storyform-Wechsel, als Wendepunkt der Dynamik zwischen Kael und AEGIS, und was fehlte, wenn der Einsatz für den zyklischen Teil hier nicht stiege?",
+   "draws_on": "transition in the strukturierter Outline; discussion in aegis-subplots"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn die Stille der Mitte hier als Echo der Stille vor der Trennung erscheint und das System laut der Konzept-Iteration sein Muster wiederholt, und wie berührt die lebendige Ordnung des Gartens das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Genesis echo in Konzept-Iteration Genesis, konsolidiertes Konzept and Kapitel-Kompendium"
+  }
+ ],
+ "about": "Mit diesem Kapitel schließen Akt I und die Heldinnenreise innen auf der Murdock-Stufe Neue innere Welt, laut der strukturierten Outline im Ki als Vertiefung, laut dem Master-Bericht als Ende von KW1, der Konstrukt-Stadt; es sitzt am ersten Modus-Wechsel von linear zu zyklisch, ohne Storyform-Wechsel, und trägt den MC-Concern Praxis in Storyform A und in Storyform B die OS-Physics, laut der strukturierten Outline mit aktiviertem Forewarning. Kaels innere Praxis ist etabliert, die neue innere Welt des Tanzes im Garten, laut der strukturierten Outline als Möglichkeits-Garten und Vorgriff auf KW4, laut der Plot-Konkretisierung als kleinste mögliche Schöpfung, wenn Kael die Konsole um drei Grad dreht und die Welt es zulässt. AEGIS erkennt Kaels veränderte Kohärenz als neues Risiko und bereitet die Stress-Tests der zweiten Phase vor, laut der strukturierten Outline den Stress-Test Delta-7 mit einem moralischen Dilemma; die AEGIS-Subplots machen daraus einen Wendepunkt der Dynamik zwischen Kael und AEGIS. Mehrere Quellen lassen hier den Multiplizitäts-Schleier enden: laut Kapitel-Kompendium und Storyform-Outline ist die Vielheit ab hier offen benennbar, laut Kernwelten vollständig fällt der Schleier intern in der Evaluierungseinheit von KW3, wo Personae kollabieren und Kael das System sieht, während Kapitel-Kompendium und Storyform-Outline die Welt im Übergang aus KW1 lassen. Als Genesis-Echo ist die Stille der Mitte das Echo der Stille vor der Trennung, und das Sinnesbild ist Garten, Pflege und lebendige Ordnung.",
+ "about_draws_on": "readings of the strukturierter Outline, Plot-Konkretisierung, aegis-subplots, Kapitel-Kompendium, storyform outline, Kernwelten vollständig, konsolidiertes Konzept and Konzept-Iteration Genesis; differences on world and what happens"
 }

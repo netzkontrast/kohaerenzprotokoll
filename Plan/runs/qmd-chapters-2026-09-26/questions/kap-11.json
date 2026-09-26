@@ -67,5 +67,49 @@
    "question": "Kann die unlösbare Gleichung nach KW1-Logik, die Kael in Kapitel 11 mit einem nicht-logischen Ansatz löst, Handlungssubstanz geben, ohne die Mosaik-Akzeptanz zu brechen?",
    "draws_on": "the reading of aegis-subplots-kapitelweise-system-exploration-docx (Die unlösbare Gleichung); GOAL §4.5 #9"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er laut den AEGIS-Subplots in KW1 eine Aufgabe lösen muss, die Empathie und Kontext verlangt, und die rigide Logik der Welt in absurde oder endlose Schleifen führt, und was stellt sich ihm entgegen, wenn er seine Vielfalt als Stärke statt als Fehler annehmen will?",
+   "draws_on": "readings of aegis-subplots and strukturierter Outline"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kael die innere Vielfalt als Stärke akzeptiert: was verliert er, wenn die Mosaik-Akzeptanz scheitert und die Scherben Scherben bleiben, und was gibt er auf, wenn er das Bild eines einzigen, ganzen Selbst loslässt?",
+   "draws_on": "Storyform A Requirement in the Kapitel-Kompendium; Leitmotiv Scherben als Muster"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist anders, nachdem Kael laut der Plot-Konkretisierung seine gelesenen Bestände nicht chronologisch, sondern als Muster neu ordnet, und kippt dabei Bruch zu Muster und Fehler zu Stärke, ohne dass das Wort fällt, das seine Vielheit benennen würde?",
+   "draws_on": "readings of the Plot-Konkretisierung and strukturierter Outline (veil discipline)"
+  },
+  {
+   "id": "B4",
+   "question": "In welcher Stimme wird das Mosaik des Selbst erzählt, wenn Kael im Wir-Geflecht spricht, alle ANPs Lex, Alex, Rhys und Selene anwesend sind und Kiko als erste leise Spur eines EP erscheint, und wie hält die Stimme die Multiplizitäts-Schleier-Disziplin?",
+   "draws_on": "POV and characters in the strukturierter Outline and the three-mode spec"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt das Mosaik des Selbst: in KW1 oder an der Übergangs-Schwelle zu KW3, die laut Kernwelten vollständig den Übergang als Jaspers' Grenzsituation vorbereitet, und welche Sinneseindrücke tragen Mosaik und Scherben als Muster an Kaels Körper?",
+   "draws_on": "readings of Kernwelten vollständig and Kapitel-Kompendium; Sensorik"
+  },
+  {
+   "id": "B6",
+   "question": "Wie setzt das Mosaik des Selbst ein, nachdem Kael die Verbindung zu Juna erstmals als Werkzeug gebraucht und die Wärmestellen zu kartieren begonnen hat, und welches Ereignis trägt den Leser in die Stille der Mitte, den Tag ohne Zuweisung am leeren Arbeitsplatz?",
+   "draws_on": "neighbour pages: erste Brücke before, Stille der Mitte after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat das Mosaik des Selbst als Erweiterungsstufe Akzeptanz der Komplexität der Heldinnenreise, mit der Mosaik-Akzeptanz als Requirement und dem MC-Concern Vielfalt als Schöpfung in Storyform A, und was fehlte, wenn das Mosaik nicht als Tätigkeit, sondern nur als Wort vorkäme?",
+   "draws_on": "Storyform in Konzept-Iteration Genesis and Kapitel-Kompendium; Plot-Konkretisierung Leitmotiv"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn das Mosaik-Herz die plurale Bewahrung am Ende vorwegnimmt, eine plurale Form, die mehr trägt als ein Selbst, und wie berührt die Annahme der eigenen Scherben das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Genesis echo and foreshadowing in the konsolidiertes Konzept"
+  }
+ ],
+ "about": "Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Erweiterungsstufe Akzeptanz der Komplexität, laut der strukturierten Outline im Ki als Vertiefung, in der Plot-Konkretisierung im Block Der zögernde Angestellte, und trägt in Storyform A den MC-Concern Vielfalt als Schöpfung und das Requirement der Mosaik-Akzeptanz, während Storyform B latent bleibt; Kael nimmt seine innere Vielfalt als Stärke an und nicht als Fehler, und das Mosaik wird zur bewussten Tätigkeit. Laut der Plot-Konkretisierung ordnet er seine gelesenen Bestände neu, nicht chronologisch, sondern als Muster; laut den AEGIS-Subplots steht er in KW1 vor einer Aufgabe, die Empathie verlangt und an der die rigide Logik der Welt in Schleifen läuft, bis ein aus ihrer Sicht nicht-logischer Ansatz sie löst. Die strukturierte Outline versammelt die ANPs Lex, Alex, Rhys und Selene und eine erste leise Spur von Kiko, ohne dass das benennende Wort fällt. Kernwelten vollständig legt das Kapitel an die Übergangs-Schwelle zwischen KW1 und KW3 und bereitet dort den Übergang als Jaspers' Grenzsituation vor, wo die anderen Quellen in KW1 bleiben. Das Mosaik-Herz, Scherben als Muster, nimmt die plurale Bewahrung am Ende des Romans vorweg.",
+ "about_draws_on": "readings of the strukturierter Outline, Plot-Konkretisierung, aegis-subplots, Kernwelten vollständig, Kapitel-Kompendium, konsolidiertes Konzept and Konzept-Iteration Genesis"
 }

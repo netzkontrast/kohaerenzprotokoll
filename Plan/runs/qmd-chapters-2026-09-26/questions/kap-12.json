@@ -67,5 +67,49 @@
    "question": "Wenn Kapitel 12 Riss-Eskalation wird statt innerer Balance, was kippt dann in Kapitel 13 und im Bruch des Gleichgewichts in Kapitel 14?",
    "draws_on": "the reading of kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md; GOAL §4.5 #8"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael an einem Tag ohne Zuweisung, wenn laut der Plot-Konkretisierung die Schlange auf null steht und er am leeren Arbeitsplatz atmet, und was stellt sich dem gehaltenen Moment entgegen, wenn AEGIS laut den AEGIS-Subplots Kael zu debuggen und den alten Konfliktzustand wiederherzustellen versucht?",
+   "draws_on": "readings of the Plot-Konkretisierung and aegis-subplots"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kael die innere Balance findet und AEGIS diesen Zustand scannt: was verliert Kael, wenn AEGIS die Synthese als Anomalie einordnet und rückgängig macht, und was riskiert er, wenn die Stille hält?",
+   "draws_on": "readings of aegis-subplots, strukturierter Outline and konsolidiertes Konzept"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist anders nach der Stille der Mitte: hat Kael Stille als positive Substanz statt als Leere gefunden, wie die strukturierte Outline sagt, oder häufen sich laut Kernwelten vollständig die thermischen Risse, und welcher Wert kippt zwischen innerem Frieden und Riss-Eskalation?",
+   "draws_on": "difference 'What the chapter is'"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Stille der Mitte erzählt, wenn Kael gesammelt ist und AEGIS laut der Plot-Konkretisierung nur als Scan und als Direktive VERWEILEN ZULÄSSIG erscheint, und wie spürt der Leser, dass AEGIS ein Problem hat, ohne dass AEGIS eine Innensicht bekommt?",
+   "draws_on": "POV in the strukturierter Outline; AEGIS in the Plot-Konkretisierung and strukturierter Outline"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Stille der Mitte: am leeren Arbeitsplatz, in KW1 oder in einer Übergangs-Zone mit thermischen Rissen, und wie verankern Stille, Atem und Herzschlag Kaels Körper in einem Moment, der eine Sekunde Frieden wie vor der Trennung ist?",
+   "draws_on": "readings of Plot-Konkretisierung, Kapitel-Kompendium, Kernwelten vollständig; Sensorik; Genesis echo"
+  },
+  {
+   "id": "B6",
+   "question": "Wie setzt die Stille der Mitte ein, nachdem Kael seine Bestände als Mosaik neu geordnet hat, und welche offene Frage trägt den Leser zum Tanz im Garten, wo er die Konsole ein wenig dreht und AEGIS die Stress-Tests der zweiten Phase vorbereitet?",
+   "draws_on": "neighbour pages: Mosaik-Ordnung before, Tanz im Garten after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Stille der Mitte als Erweiterungsstufe Innerer Frieden der Heldinnenreise, mit dem MC-Concern Präsenz in Storyform A und latenter OS-Physics in B, und klassifiziert AEGIS den Zustand als anomale Kohärenz, wie die Konzept-Iteration sagt, oder gar nicht, wie die strukturierte Outline sagt?",
+   "draws_on": "difference 'AEGIS' scan'"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn der gehaltene Moment eine kleine Wieder-Berührung der Reinform ist und AEGIS ihn nicht versteht, und wie berührt diese Stille, die keine Leere ist, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Genesis echo in the konsolidiertes Konzept and storyform outline"
+  }
+ ],
+ "about": "Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Erweiterungsstufe Innerer Frieden, laut der strukturierten Outline Innerer Frieden und Potenzial im Jetzt-Raum und im Ki als Vertiefung, in der Plot-Konkretisierung im Block Der zögernde Angestellte, mit dem MC-Concern Präsenz in Storyform A und latenter OS-Physics in Storyform B. Kael findet in einem gehaltenen Moment innere Balance, die Stille der Mitte, Stille als Substanz und nicht als Leere; laut der Plot-Konkretisierung an einem Tag ohne Zuweisung, am leeren Arbeitsplatz, atmend. AEGIS scannt diesen Zustand: laut der Konzept-Iteration klassifiziert er ihn als anomale Kohärenz, laut der strukturierten Outline kann er ihn nicht klassifizieren, und der Leser spürt, dass AEGIS ein Problem hat. Die AEGIS-Subplots lassen zuvor widersprüchliche Anteile zu einer Synthese finden und AEGIS versuchen, Kael zu debuggen und den alten Konfliktzustand wiederherzustellen, während Kernwelten vollständig das Kapitel als Riss-Eskalation in einer Übergangs-Zone von KW1 liest, in der sich thermische Risse häufen. Als Genesis-Echo ist der Moment eine kleine Wieder-Berührung der Reinform, getragen von Stille, Atem und Herzschlag.",
+ "about_draws_on": "readings of the Plot-Konkretisierung, Konzept-Iteration Genesis, strukturierter Outline, aegis-subplots, Kernwelten vollständig, konsolidiertes Konzept and storyform outline; differences on AEGIS' scan and what the chapter is"
 }

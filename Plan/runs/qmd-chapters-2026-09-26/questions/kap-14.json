@@ -73,5 +73,49 @@
    "question": "Wie kontrastiert die Warteschlange, die ab Kapitel 14 nicht mehr auf null sinkt, mit dem Tag ohne Zuweisung in Kapitel 12, und was erfährt Kael daraus?",
    "draws_on": "the reading of kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md (world line); kap-12 page"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er laut Kapitel-Kompendium Zugang zu AEGIS' technischen Dossiers im Lernarchiv Theta-9 erhält, laut der Plot-Konkretisierung durch ein fehlgeleitetes Ticket, und was stellt sich ihm entgegen: der Stress-Test Delta-7, die erste Erasure-Welle, Mnemosyne, die subtil manipuliert?",
+   "draws_on": "readings of the Kapitel-Kompendium, Plot-Konkretisierung and strukturierter Outline"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kael den Fehler, der ihm Lese-Rechte gibt, nicht meldet, die erste aktive Unterlassung des Romans: was verliert er, wenn es entdeckt wird, und was, wenn die Erasure-Welle seine neu gefundene Balance bricht?",
+   "draws_on": "reading of the Plot-Konkretisierung (idea 6)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist anders, nachdem alte Wunden aufreißen, nach dem ersten erlebten Wartungsfenster die Abkürzung im Korridor fehlt und nur Kael die Platten neu zählt, und welcher Wert kippt, wenn die Warteschlange nicht mehr auf null sinkt?",
+   "draws_on": "readings of the konsolidiertes Konzept and Plot-Konkretisierung"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird der Bruch erzählt: aus Kaels, mit einem kurzen AEGIS-POV, den die strukturierte Outline und die Drei-Modi-Spec für möglich halten, und wie verhält sich dieser POV zur offenen Frage, ob AEGIS je eine Innensicht in erster Person bekommt?",
+   "draws_on": "POV in the strukturierter Outline and three-mode spec; record C14"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt der Bruch: im Archiv der Grenzen in KW2, betreten laut Kernwelten vollständig über die Evaluierungseinheit in KW3-Topologie, und welche Sinneseindrücke von zerbrochener Fassade, Sprüngen im Raum und fehlender Korridor-Abkürzung verankern Kaels Körper?",
+   "draws_on": "readings of Kernwelten vollständig and Plot-Konkretisierung; Leitmotiv"
+  },
+  {
+   "id": "B6",
+   "question": "Wie setzt der Bruch ein, nachdem Kael im Garten eine innere Praxis gefunden und AEGIS die Stress-Tests vorbereitet hat, und welche offene Frage trägt den Leser zur ersten Lektüre, dem Halteproblem-Dossier, und zum Trigger, der alte Angst reaktiviert?",
+   "draws_on": "neighbour pages: Tanz im Garten before, Turing-Mechanik and trigger after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat der Bruch im Shō als Rahmen vor dem ersten Zyklus und erste Szene des zyklischen Modus, in der A und B parallel zu laufen beginnen, und was fehlte, wenn Kaels Balance nicht durch ein externes Ereignis oder eine gezielte AEGIS-Aktion bräche?",
+   "draws_on": "readings of the strukturierter Outline, Kapitel-Kompendium and Konzept-Iteration Genesis"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn AEGIS' Erasure-Welle laut der Konzept-Iteration genau das Verfahren des Trennungsprotokolls aus der Genesis ist, und wie berührt der Verlust, den nur Kael bemerkt, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Genesis echo in the Konzept-Iteration Genesis; Plot-Konkretisierung Wartungsfenster"
+  }
+ ],
+ "about": "Das Kapitel eröffnet Akt II und den zyklischen Modus im Shō, am Modus-Wechsel, als Bruch und Rahmen vor dem ersten Zyklus, laut Kernwelten vollständig in der Mitte von Akt II, laut der Plot-Konkretisierung im Block Der Innentäter; laut der strukturierten Outline beginnt hier A parallel zu B, laut der Drei-Modi-Spec mit dem MC-Issue Falsehood vs. Truth in Storyform A und der OS-Physics in Storyform B. Kaels neu gefundene Balance zerbricht, alte Wunden reißen auf, und AEGIS' erste Erasure-Welle trifft seine Stabilität, laut der Konzept-Iteration genau das Verfahren des Trennungsprotokolls aus der Genesis. Laut der strukturierten Outline, die das Kapitel Bruch des Gleichgewichts nennt, testet AEGIS ihn mit dem Stress-Test Delta-7, und Mnemosyne tritt erstmals deutlich und manipulativ auf; laut Kapitel-Kompendium und Storyform-Outline, die es Das Archiv der Grenzen nennen, erhält Kael Zugang zu AEGIS' technischen Dossiers im Lernarchiv Theta-9 und betritt KW2. Die Plot-Konkretisierung macht den Zugang zu einem fehlgeleiteten Ticket, das Kael nicht meldet, die erste aktive Unterlassung des Romans, und lässt nach dem ersten Wartungsfenster eine Abkürzung im Korridor fehlen, deren Platten nur Kael neu zählt. Die AEGIS-Subplots lassen Kael hier AEGIS als intelligente, steuernde Instanz erkennen und benennen, und die strukturierte Outline und die Drei-Modi-Spec halten einen kurzen AEGIS-POV für möglich, zwischen zerbrochener Fassade und Sprüngen im Raum.",
+ "about_draws_on": "readings of the Konzept-Iteration Genesis, strukturierter Outline, Kapitel-Kompendium, storyform outline, Plot-Konkretisierung, aegis-subplots, three-mode spec and Kernwelten vollständig; difference on the title"
 }

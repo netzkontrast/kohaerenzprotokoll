@@ -67,5 +67,49 @@
    "question": "Wo bleibt Junas Spur in Kapitel 9, wenn nach der ersten Resonanz in Kapitel 7 keine Lesart von Kapitel 9 Juna, Wärme oder die Telefon-Stille nennt – pausiert der Juna-Faden während der ersten Wir-Bildung?",
    "draws_on": "no Kap 9 reading names Juna; kap-07 page; GOAL §4.5 #1"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn Lex, Rhys, Selene und Alex in innerer Polyphonie zu kooperieren beginnen, und wer stellt sich dem entgegen, wenn laut den AEGIS-Subplots AEGIS fast sofort auf die Verbindung der Anteile reagiert, vielleicht durch Cerberus, der auf Sicherheit zielt?",
+   "draws_on": "readings of the strukturierter Outline and aegis-subplots"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kaels Heilung laut den AEGIS-Subplots vom System aktiv bekämpft wird: was verliert er, wenn die erste innere Kooperation zerschlagen wird, und was, wenn sie hält und AEGIS jede innere oder äußere Verbindung als Bedrohung einstuft?",
+   "draws_on": "reading of aegis-subplots"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist anders, nachdem Kael sich erstmals als mehrere spürt, wie die strukturierte Outline sagt, oder nachdem er an der Konsole nur einen guten Tag erlebt, der sich nicht wie ein Wir anfühlt, wie die Plot-Konkretisierung vorschlägt, und welcher Wert kippt, wenn Vereinzelung zu Kooperation wird?",
+   "draws_on": "difference 'Is the Wir conscious'"
+  },
+  {
+   "id": "B4",
+   "question": "In welcher Stimme wird Wir erzählt: als Kael mit innerem Dialog in einer ersten expliziten Wir-Stimme-Szene, als bewusste Kooperation laut der Storyform-Outline, oder als Arbeitsteilung ohne Benennung laut der Plot-Konkretisierung, und wie hält die Stimme die Disziplin, dass das Wort Alters nicht fällt?",
+   "draws_on": "POV and scene in the strukturierter Outline; storyform outline; Plot-Konkretisierung"
+  },
+  {
+   "id": "B5",
+   "question": "Wo in KW1 spielt die erste Wir-Bildung, wenn die Plot-Konkretisierung sie an die Konsole legt, wo einer sortiert, einer innehält und einer liest, und welche Sinneseindrücke machen das innere Geflecht und die Wir-Stimme körperlich spürbar?",
+   "draws_on": "readings of Kernwelten vollständig and Plot-Konkretisierung; Sensorik in three readings"
+  },
+  {
+   "id": "B6",
+   "question": "Wie setzt Wir ein, nachdem Kael begonnen hat, seine logischen Anteile mit Mitgefühl zu sehen, und welche offene Frage trägt den Leser zur ersten Brücke, in der Kael die Verbindung zu Juna erstmals als Werkzeug gebraucht?",
+   "draws_on": "neighbour pages: compassion before, K-J-Verbindung als Werkzeug after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat Wir als Murdock-Stufe Rückkehr mit neuer Sichtweise, in der die Integration beginnt, wenn laut Kapitel-Kompendium jede Wir-Stimme-Szene ab hier auf das Ende zielt, und trägt es in Storyform A den MC-Concern, Logik und Intuition verbinden sich, oder das Requirement, Wir-Bildung beginnt?",
+   "draws_on": "difference 'Storyform A'; foreshadowing in Kapitel-Kompendium and storyform outline"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn die Wir-Bildung laut dem Genesis-Echo die Wieder-Annäherung an die Reinform über plurale Form ist, und wie berührt die erste innere Kooperation das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Genesis echo in the Konzept-Iteration Genesis, Kapitel-Kompendium and storyform outline"
+  }
+ ],
+ "about": "Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Rückkehr mit neuer Sichtweise, in der die Integration beginnt, laut der strukturierten Outline im Ki als Vertiefung, in KW1, und in der Plot-Konkretisierung im Block Der zögernde Angestellte; Kaels Anteile kooperieren zum ersten Mal, und mehrere Quellen setzen hier den frühesten Ort, an dem ein Wir-Geflecht entstehen darf. Wie bewusst das geschieht, sagen die Quellen verschieden: laut der strukturierten Outline spürt Kael sich erstmals als mehrere, in einer ersten expliziten Wir-Stimme-Szene mit Lex, Rhys, Selene und Alex, ohne dass das Wort Alters fällt; laut der Storyform-Outline ist es eine bewusste innere Kooperation; laut der Plot-Konkretisierung eine Arbeitsteilung an der Konsole, die sich für Kael wie ein guter Tag anfühlt und nicht wie ein Wir. Die AEGIS-Subplots lassen AEGIS fast sofort auf eine solche Verbindung reagieren, vielleicht durch Cerberus, sodass Kaels Heilung vom System aktiv bekämpft wird. In Storyform A trägt das Kapitel laut dem konsolidierten Konzept den MC-Concern, Logik und Intuition verbinden sich, laut dem Kapitel-Kompendium das Requirement, Wir-Bildung beginnt, während Storyform B latent bleibt; als Genesis-Echo ist die Wir-Bildung die Wieder-Annäherung an die Reinform über plurale Form, und jede Wir-Stimme-Szene ab hier zielt auf das Ende des Romans.",
+ "about_draws_on": "readings of the strukturierter Outline, storyform outline, Plot-Konkretisierung, aegis-subplots, konsolidiertes Konzept, Kapitel-Kompendium and Konzept-Iteration Genesis; differences on the Wir and Storyform A"
 }
