@@ -1,0 +1,77 @@
+{
+ "chapter": 37,
+ "questions": [
+  {
+   "id": "K37-01",
+   "tag": "Konkretheit",
+   "question": "Was tut Kael als Gärtner in Kapitel 37 an einem konkreten Tag – laut Plot-Konkretisierung beantwortet er Zuweisungen, statt sie zu bestätigen –, mit welcher wiederholbaren Handlung, welchem Objekt, an welchem Ort?",
+   "draws_on": "Plot-Konkretisierung reading; GOAL §4.5 #3"
+  },
+  {
+   "id": "K37-02",
+   "tag": "Kausalität",
+   "question": "Wie baut Kael in Kapitel 37 aus dem, was nach dem Heat Spike und dem verstummten Klick von Kapitel 36 übrig ist, den sanften Apparat, und woran zerfasert er, sodass das Rauschen in Kapitel 38 als unendliche Zuweisung ankommen kann?",
+   "draws_on": "Plot-Konkretisierung readings on kap-36, kap-37, kap-38; GOAL §4.5 #4"
+  },
+  {
+   "id": "K37-03",
+   "tag": "Leser-Wissen",
+   "question": "Wie früh soll der Leser in Kapitel 37 merken, dass der Sieg trügerisch ist, während Kael ihn noch für echt hält, und welche plausible Deutung des Rauschens als harmloses Nachbeben bleibt stehen?",
+   "draws_on": "Genesis echo and Rauschen lines; GOAL §4.5 #5"
+  },
+  {
+   "id": "K37-04",
+   "tag": "Storyform",
+   "question": "Wie realisiert Kapitel 37 nur A, das MC-Concern als neue Rolle des Hüters, bei etwa 15 % Bridge mit feinen B-Echos als Rauschen-Vorzeichen, und wie verhält sich das zur 39-Kapitel-Spec, nach der B hier gar nicht mehr aktiv ist?",
+   "draws_on": "storyform outline ~15 % Bridge; 39-chapter spec B nicht mehr aktiv; GOAL §5.2"
+  },
+  {
+   "id": "K37-05",
+   "tag": "Struktur",
+   "question": "Wie trägt Kapitel 37 die Konsolidierung 36/37 und die Pause in Ten als Reward-Stufe, und wie hält es das Tempo zwischen zwei Vortex-Kapitelpaaren mit 100 % Bridge?",
+   "draws_on": "Kapitel-Kompendium transition 36/37; outline position Ten (Pause); GOAL §5.1"
+  },
+  {
+   "id": "K37-06",
+   "tag": "Struktur",
+   "question": "Darf Kapitel 37 in Stille enden, wie die Hamilton-Ausnahmeliste für Kapitel 0, 37, 39 und 40 behauptet, oder braucht der trügerische Sieg einen beobachtbaren Hook-out ins Rauschen von Kapitel 38?",
+   "draws_on": "GOAL §5.5 Hamilton exception list [M], Readiness Gate 8"
+  },
+  {
+   "id": "K37-07",
+   "tag": "Setup/Payoff",
+   "question": "Das Rauschen, das in Kapitel 37 beginnt, soll das Nichts-Rauschen aus Kapitel 0 sein; an welchem sinnlichen Detail aus der Genesis erkennt der Leser es wieder, ohne dass es erklärt wird?",
+   "draws_on": "Genesis echo in konsolidiertes Konzept, Outline, storyform outline; GOAL §4.5 #6"
+  },
+  {
+   "id": "K37-08",
+   "tag": "Konflikt",
+   "question": "Spielt Kapitel 37 in KW4 als trügerische Pastorale oder, wie dieselbe Kernwelten-Quelle an anderer Stelle sagt, anders verortet, und was heißt ein Welt-Wechsel ohne Bewegung für den Schauplatz?",
+   "draws_on": "Where the sources differ: World, within one document"
+  },
+  {
+   "id": "K37-09",
+   "tag": "Welt/Sensorik",
+   "question": "Wie zeigt Kapitel 37 kristallisiertes Gewebe und feine Sprünge am Rand der Wahrnehmung, und welche Temperatur hat die Pastorale nach der Hitze-Polarität – kaltes Ozon, Wärme oder keines von beiden?",
+   "draws_on": "Sensorik lines; GOAL §5.4 Hitze-Polarität"
+  },
+  {
+   "id": "K37-10",
+   "tag": "Lücke",
+   "question": "Welche Gegenkraft mit eigenem berechtigtem Ziel hat Kapitel 37, wenn AEGIS-monolithisch erloschen ist, und wie verhindert sie die verbotene Resolution-Glättung?",
+   "draws_on": "no reading names an opponent; Kapitel-Kompendium Hard-Constraint; GOAL §5.5 Readiness Gate 5"
+  },
+  {
+   "id": "K37-11",
+   "tag": "Steinbruch",
+   "question": "Könnten die neuen Protokolle der AEGIS-Subplots von 2025 – überlebende Guardians als Ordnungsinseln, ein rudimentäres AEGIS, das aus Trümmern wiederaufbaut – Kapitel 37 die fehlende Gegenkraft geben, ohne einen späteren Lock zu brechen?",
+   "draws_on": "aegis-subplots reading (2025); GOAL §4.5 #9"
+  },
+  {
+   "id": "K37-12",
+   "tag": "Figur",
+   "question": "Übt in Kapitel 37 Oblivion die Funktion aus, die es laut Outline vom 2026-05-18 in Kapitel 36 von AEGIS übernimmt, als Wachheit, die entscheidet statt löscht, und welcher Alter bemerkt als erster die feinen Sprünge am Rand?",
+   "draws_on": "kap-36 strukturierter Outline characters line; Sensorik lines here"
+  }
+ ]
+}

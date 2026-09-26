@@ -1,0 +1,77 @@
+{
+ "chapter": 36,
+ "questions": [
+  {
+   "id": "K36-01",
+   "tag": "Konkretheit",
+   "question": "Was macht der Heat Spike von Vortex 1 Beat 4 in Kapitel 36 mit Kaels Körper, wenn die Erasure das integrierte, MI-dichte Ziel trifft, und ist Kael in diesem Beat Handelnder, Ziel oder nur Ort des Geschehens?",
+   "draws_on": "storyform outline Beat 4; 39-chapter spec: Landauer-Hitze als somatischer Filter; GOAL §4.5 #3"
+  },
+  {
+   "id": "K36-02",
+   "tag": "Konflikt",
+   "question": "Erscheint Landauer-Wärme in Kapitel 36 nur als Spike in Vortex 1 Beat 4, wie der Polaritäts-Lock vom 2026-05-30 sagt, oder auch als Schluss-Markierung am Kapitelende, wie konsolidiertes Konzept und Outline vom 2026-05-18 sagen?",
+   "draws_on": "record C11; Where the sources differ: Landauer warmth"
+  },
+  {
+   "id": "K36-03",
+   "tag": "Konflikt",
+   "question": "Erlischt AEGIS-monolithisch in Kapitel 36 als B-Cost (Kapitel-Kompendium, Storyform-Outline) oder erst in Kapitel 39 beim Entstehen von AEGIS-plural, und was ist AEGIS-monolithisch zwischen Kapitel 36 und 39?",
+   "draws_on": "Where the sources differ: When AEGIS-monolithisch goes out; Konzept-Iteration Genesis open question"
+  },
+  {
+   "id": "K36-04",
+   "tag": "Kausalität",
+   "question": "Worauf öffnet Beat 5 in Kapitel 36, wenn laut konsolidiertem Konzept etwas nicht erledigt ist, und welches beobachtbare Ereignis exportiert Kapitel 36 in den trügerischen Sieg von Kapitel 37?",
+   "draws_on": "konsolidiertes Konzept: Beat 5 öffnet; neighbour kap-37; GOAL §4.5 #4"
+  },
+  {
+   "id": "K36-05",
+   "tag": "Leser-Wissen",
+   "question": "Was glaubt der Leser am Ende von Kapitel 36, nachdem die Truth-Rotation komplett ist, über Sieg und Niederlage, und welche falsche, plausible Deutung soll bis zum Rauschen in Kapitel 38 stehen bleiben?",
+   "draws_on": "storyform outline Beat 5: Truth-Rotation komplett; GOAL §4.5 #5"
+  },
+  {
+   "id": "K36-06",
+   "tag": "Storyform",
+   "question": "Wie werden in Kapitel 36 B-Outcome Failure und B-Cost manifest, während A Resolve Change vollzogen ist, und wie erscheint AEGIS' Algorithmische Melancholie ohne moralisches Vokabular?",
+   "draws_on": "Kapitel-Kompendium storyform lines; GOAL §5.2 table, §5.4 AEGIS"
+  },
+  {
+   "id": "K36-07",
+   "tag": "Struktur",
+   "question": "Welche Heldenreise-Stufe trägt Kapitel 36 – Ordeal (Storyform-Outline), Reward-Vorgriff (Konzept-Iteration Genesis) oder Reward in Vortex-Mechanik (Outline vom 2026-05-18) –, und wie wird der Übergang 36/37 als Konsolidierung auf nur noch A erkennbar?",
+   "draws_on": "Where the sources differ: Stage; GOAL §5.1 transitions"
+  },
+  {
+   "id": "K36-08",
+   "tag": "Figur",
+   "question": "Welcher Alter spricht den letzten Satz von Kapitel 36, dem Klimax-Kapitel von Vortex 1, eine Frage, die Storyform-Outline und Plot-Konkretisierung beide offen lassen, und was exportiert diese Stimme in Kapitel 37?",
+   "draws_on": "storyform outline and Plot-Konkretisierung: Letzter Satz, welcher Alter spricht"
+  },
+  {
+   "id": "K36-09",
+   "tag": "Figur",
+   "question": "Übernimmt Oblivion in Kapitel 36 AEGIS' Funktion in Kaels Innensystem, als Wachheit, die entscheidet statt automatisch löscht, wie der Outline vom 2026-05-18 sagt, und wie wird das gezeigt, ohne die Stimme zu labeln?",
+   "draws_on": "strukturierter Outline characters line; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K36-10",
+   "tag": "Lücke",
+   "question": "Wie bricht in Kapitel 36 bei der Substrat-Berührung von Beat 4 die Externe Ebene durch, und was sieht, hört oder spürt Kael dabei – eine Frage, die Kernwelten vollständig als offen markiert?",
+   "draws_on": "Kernwelten vollständig open point (marked [L]); GOAL §4.5 #1"
+  },
+  {
+   "id": "K36-11",
+   "tag": "Setup/Payoff",
+   "question": "Der Klick verstummt laut Plot-Konkretisierung in Kapitel 36 Beat 5; wo wurde der Klick als Motiv gepflanzt, und wie verhält sich sein Verstummen zum einmaligen Klick ohne Ozon in Kapitel 40?",
+   "draws_on": "Plot-Konkretisierung Leitmotiv lines here and in kap-40; GOAL §4.5 #6"
+  },
+  {
+   "id": "K36-12",
+   "tag": "Impact",
+   "question": "Wenn Mnemosyne in Kapitel 36 die erste betroffene Guardian ist, wie die Storyform-Outline sagt, was kippt dann für Kapitel 31, in dem dieselbe Quelle die Auflösung der Guardians erzählt?",
+   "draws_on": "kap-31 Where the sources differ: Guardians after Kap 31; GOAL §4.5 #8"
+  }
+ ]
+}

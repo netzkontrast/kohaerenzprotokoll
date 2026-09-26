@@ -1,0 +1,71 @@
+{
+ "chapter": 40,
+ "questions": [
+  {
+   "id": "K40-01",
+   "tag": "Konkretheit",
+   "question": "Welche konkreten Dinge aus Kapitel 0 – der Klick, die Scherben nach den fallenden Gläsern der Fassung vom 2026-05-08 – kehren in Kapitel 40 wieder, und was hält das Wir darin in der Hand, wenn es bezeugt statt handelt?",
+   "draws_on": "draft text of Kap 40; strukturierter Outline POV bezeugend, nicht handelnd"
+  },
+  {
+   "id": "K40-02",
+   "tag": "Kausalität",
+   "question": "Wie schließt Kapitel 40 an den Schluss-Klang von Kapitel 39 an, und wie wirft sein Ende den Leser in die Genesis von Kapitel 0 zurück, ohne einen Hook über die Rahmenklammer hinaus?",
+   "draws_on": "Kernwelten vollständig reader line; neighbour kap-39; GOAL §5.1 Klammer 0 ↔ 40"
+  },
+  {
+   "id": "K40-03",
+   "tag": "Leser-Wissen",
+   "question": "Welche Signale in Kapitel 40 erlauben Konflikt-Lesern einen Reset und Kishōtenketsu-Lesern eine Transfiguration, ohne dass ein Satz entscheidet, und was weiß der Leser am Ende, das er in Kapitel 0 nicht wusste?",
+   "draws_on": "Kapitel-Kompendium dual-reading lock; GOAL §5.3 Kap 40"
+  },
+  {
+   "id": "K40-04",
+   "tag": "Storyform",
+   "question": "Wie macht Kapitel 40 A-Outcome Success und B-Dividend gleichzeitig wahr, und trägt es, wie die Doppel-Klammer Abhandlung vorschlägt, den Akzent Driver Decision und Approach Be-er als Text der Substantive und Zustände?",
+   "draws_on": "Kapitel-Kompendium storyform line; Doppel-Klammer Abhandlung storyform accent"
+  },
+  {
+   "id": "K40-05",
+   "tag": "Struktur",
+   "question": "Wie bildet Kapitel 40 als Coda außerhalb der Heldenreise-Zählung die Außenklammer zu Kapitel 0 – fünf Bewegungen, jede Echo einer Genesis-Bewegung –, und wie bleibt es bei etwa halber Länge Echo statt Wiederholung?",
+   "draws_on": "strukturierter Outline movements and length; storyform outline Coda line; GOAL §5.1"
+  },
+  {
+   "id": "K40-06",
+   "tag": "Konflikt",
+   "question": "Endet Kapitel 40 auf *Wir tragen die Welt* (Konzept-Iteration Genesis, konsolidiertes Konzept) oder auf *Wir tragen die Scherben*, mit dem Mosaik, das die Welt hält (Outline vom 2026-05-18, Storyform-Outline), und was sagt die Fassung vom 2026-05-08?",
+   "draws_on": "Where the sources differ: Last image"
+  },
+  {
+   "id": "K40-07",
+   "tag": "Konflikt",
+   "question": "Steht die Formel-Inversion in Kapitel 40 mit singularem Verb, Wir-AEGIS ist, was Wir-AEGIS bewahrt, oder mit pluralem wie in der Fassung vom 2026-05-08, und fällt sie in Kapitel 39, in den Übergang oder in Kapitel 40?",
+   "draws_on": "draft text formula; konsolidiertes Konzept Ende (Kap 39 → Kap 40); GOAL §5.3 Formel-Inversion"
+  },
+  {
+   "id": "K40-08",
+   "tag": "Figur",
+   "question": "Wer spricht in Kapitel 40 – die Vermittler-Stimme des Vorworts, jetzt als Wir-AEGIS-plural mit den Stimmen Lex, Nyx, Kiko und Mira laut Doppel-Klammer Abhandlung –, und verträgt sich das mit einer schon in Kapitel 0 wiederkehrenden Erzählstimme?",
+   "draws_on": "Doppel-Klammer Abhandlung POV and echoes; kap0-v1-annotiert question"
+  },
+  {
+   "id": "K40-09",
+   "tag": "Welt/Sensorik",
+   "question": "Erscheint in Kapitel 40 genau ein Klick ohne Ozon, wie die Plot-Konkretisierung vorschlägt, und muss die Wärme, die es in Kapitel 0 nicht geben kann, als Wärme wiederkehren, die nicht hätte sein können – und wie verträgt sich das mit der Hitze-Polarität?",
+   "draws_on": "Plot-Konkretisierung Klick line; record C11 (Doppel-Klammer echo rule); GOAL §5.4"
+  },
+  {
+   "id": "K40-10",
+   "tag": "Setup/Payoff",
+   "question": "Wie wird Junas Resonanz, in Kapitel 0 als Angriff und ontologische Anomalie erlebt, in Kapitel 40 als Geburt erkannt, und welche sinnliche Substanz aus der Krise von Kapitel 0 muss dafür wiederkehren?",
+   "draws_on": "Crisis echo lines; Doppel-Klammer Abhandlung Echo der Krise; GOAL §4.5 #6"
+  },
+  {
+   "id": "K40-11",
+   "tag": "Impact",
+   "question": "Wenn Kapitel 40 Kael als das Cluster erzählt, das aus Komponente 734 herausgetrennt wurde, wie die Fassung vom 2026-05-08, der annotierte Entwurf von Kapitel 0 aber Kael die Komponente selbst sein lässt, was kippt dann im Echo des Trennungsprotokolls?",
+   "draws_on": "draft text Kael line; record C12; GOAL §4.5 #8"
+  }
+ ]
+}

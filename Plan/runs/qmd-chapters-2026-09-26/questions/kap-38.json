@@ -1,0 +1,71 @@
+{
+ "chapter": 38,
+ "questions": [
+  {
+   "id": "K38-01",
+   "tag": "Konkretheit",
+   "question": "Wie sieht das Rauschen in Kapitel 38 als unendliche Zuweisung aus, in der laut Plot-Konkretisierung alles zugleich seine Bewahrung beantragt, und was tut Kael mit der Warteschlange, die hier ohne Zahl ist?",
+   "draws_on": "Plot-Konkretisierung readings (Beat 2, Warteschlange ohne Zahl); GOAL §4.5 #3"
+  },
+  {
+   "id": "K38-02",
+   "tag": "Kausalität",
+   "question": "Wodurch wird der Sieg aus Kapitel 37 in Kapitel 38 als trügerisch erkannt, und warum ist die Entscheidung des Wir, ins Ouroboros zu gehen, am Ende von Kapitel 38 nicht mehr umkehrbar?",
+   "draws_on": "strukturierter Outline Beat 2 and Beat 5; GOAL §4.5 #4"
+  },
+  {
+   "id": "K38-03",
+   "tag": "Konflikt",
+   "question": "Ist der Stille-Beat in Kapitel 38 Junas erste direkte Erscheinung überhaupt, oder hatte sie laut Charakter-Bibel schon um Kapitel 33 im Garten der stillen Präsenz eine spürbare Präsenz, und was muss Kapitel 38 dann anders machen?",
+   "draws_on": "record C7"
+  },
+  {
+   "id": "K38-04",
+   "tag": "Figur",
+   "question": "Wie erscheint Juna in Kapitel 38 direkt – einfach da, ohne Worte, ohne Anweisung, ihre Stimme als Raum statt als Klang – und bleibt dabei nie grammatisches Subjekt, nie physisch beschrieben, nie Deus ex machina?",
+   "draws_on": "Juna lines of four plans; GOAL §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K38-05",
+   "tag": "Leser-Wissen",
+   "question": "Wenn Kael in Kapitel 38 Juna erreicht und damit laut Kernwelten vollständig die Position des Lesers einnimmt, was erfährt Kael hier, was der Leser schon weiß, und was bleibt über Junas Natur offen?",
+   "draws_on": "Kernwelten vollständig reader line; GOAL §4.5 #5"
+  },
+  {
+   "id": "K38-06",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 38 in A (RS-Physics maximal, Junas direkte Anwesenheit) und in B (das Universum kollabiert sichtbar), wenn B seit Kapitel 36 erloschen sein soll, und was heißt 100 % Bridge in neuer Form?",
+   "draws_on": "Storyform lines of Konzept-Iteration Genesis, konsolidiertes Konzept; GOAL §5.2 bridge frequency"
+  },
+  {
+   "id": "K38-07",
+   "tag": "Struktur",
+   "question": "Welche Beats von Vortex 2 fallen in Kapitel 38 – der Outline vom 2026-05-18 legt alle fünf hierher –, und trägt es die Heldenreise-Stufe Road Back oder, nach der 39-Kapitel-Spec, die Resurrection?",
+   "draws_on": "strukturierter Outline title; 39-chapter spec title; GOAL §5.1, §5.3"
+  },
+  {
+   "id": "K38-08",
+   "tag": "Setup/Payoff",
+   "question": "Kael erkennt Juna in Kapitel 38 wieder, weil die Echos das Vor-Trennungs-Sein tragen; welche Echos der Resonanz aus Kapitel 0 sind dafür gepflanzt, und wo in Akt I–II werden sie erneuert?",
+   "draws_on": "Konzept-Iteration Genesis Beat 4; Genesis echo lines; GOAL §4.5 #6"
+  },
+  {
+   "id": "K38-09",
+   "tag": "Welt/Sensorik",
+   "question": "Wie werden Externe Ebene und KW4 in Kapitel 38 gleichzeitig dargestellt, und welcher Ort in Köln ist Junas Ankerpunkt, dessen Detail laut Kernwelten vollständig vor dem Drafting von Kapitel 38 zu locken ist?",
+   "draws_on": "Kernwelten vollständig world, place and lock lines"
+  },
+  {
+   "id": "K38-10",
+   "tag": "Welt/Sensorik",
+   "question": "Welche Temperatur hat Junas direkte Erscheinung in Kapitel 38, wenn Wärme nach der Hitze-Polarität Junas Spur ist, und wie bleibt sie vom Landauer-Wärme-Spike in Vortex 1 Beat 4 unterscheidbar?",
+   "draws_on": "GOAL §5.4 Hitze-Polarität; record C11"
+  },
+  {
+   "id": "K38-11",
+   "tag": "Konflikt",
+   "question": "Ist das Rauschen in Kapitel 38 der sichtbare Kollaps des Universums (Outline vom 2026-05-18, Storyform-Outline) oder, wie die AEGIS-Subplots von 2025 vorschlagen, kreatives Chaos, in dem die gefürchtete Entropie Neues hervorbringt?",
+   "draws_on": "Where the sources differ: What the chaos is"
+  }
+ ]
+}

@@ -4,8 +4,8 @@
   {
    "id": "K32-01",
    "tag": "Konkretheit",
-   "question": "Was tut Kael in Kapitel 32, dem Wahrheits-Test gegen AEGIS' logische Verteidigungen, konkret mit Händen und Körper, an welchem Ort, und was verliert oder riskiert er dabei?",
-   "draws_on": "strukturierter Outline plot beat (logische Verteidigungen, Simulationstricks); GOAL §4.5 #3"
+   "question": "Wie sieht der Wahrheits-Test in Kapitel 32 als Handlung aus, wenn Kael laut Plot-Konkretisierung in der Schlange eigene Bestände von Fälschungen seiner Fälschungen trennen muss: welche wiederholbare Geste, an welchem Objekt, mit welcher Eskalation?",
+   "draws_on": "Plot-Konkretisierung plot beats; GOAL §4.5 #3"
   },
   {
    "id": "K32-02",
@@ -16,13 +16,13 @@
   {
    "id": "K32-03",
    "tag": "Kausalität",
-   "question": "Welches Ereignis aus Kapitel 31 (Auflösung der Guardians oder Angriff auf AEGIS' Kernsystem) löst Kapitel 32 aus, und welches beobachtbare Ereignis am Ende von Kapitel 32 zwingt Kael zum Vordringen an AEGIS' Kern in Kapitel 33?",
-   "draws_on": "neighbour pages kap-31 and kap-33; GOAL §4.5 #4"
+   "question": "Wie greift der Wahrheits-Test von Kapitel 32 die zwei abgelehnten Geschenke aus Kapitel 31 auf – Mnemosynes Vollarchiv-Rechte und die Löschung der eigenen Akte durch den Erasure-Pol, laut Plot-Konkretisierung –, und welche Folge davon trägt Kael an AEGIS' Kern in Kapitel 33?",
+   "draws_on": "kap-31 Plot-Konkretisierung Idea 11; Idea 6 here (der Wahrheits-Test prüft genau diese Rechte)"
   },
   {
    "id": "K32-04",
    "tag": "Kausalität",
-   "question": "Vor welcher Wahl zwischen zwei genuinen Zukunftsverlusten steht Kael im Wahrheits-Test von Kapitel 32, statt vor richtig oder falsch, und was ist danach nicht mehr umkehrbar?",
+   "question": "Welche zwei genuinen Zukunftsverluste stehen im Wahrheits-Test von Kapitel 32 gegeneinander, wenn Oblivions makellose Kopien von Kaels Beständen ebenso gelten könnten wie seine fehlerhaften Originale, und was ist nach Kaels Unterscheidung nicht mehr umkehrbar?",
    "draws_on": "no reading names a choice or a price; GOAL §4.5 #4, §5.5 Readiness Gate 6"
   },
   {

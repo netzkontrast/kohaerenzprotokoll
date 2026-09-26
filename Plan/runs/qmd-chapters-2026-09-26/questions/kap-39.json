@@ -1,0 +1,77 @@
+{
+ "chapter": 39,
+ "questions": [
+  {
+   "id": "K39-01",
+   "tag": "Konkretheit",
+   "question": "Wie wird der Schreib-Moment in Kapitel 39 inszeniert, wenn Kael von Hand, gegen AEGIS' Log-Format, den letzten Bericht schreibt, der das Buch ist – womit, wo, und was gibt er mit dem Schreiben auf?",
+   "draws_on": "storyform outline Ouroboros line and open point; Plot-Konkretisierung Idea 13"
+  },
+  {
+   "id": "K39-02",
+   "tag": "Struktur",
+   "question": "Wie schließt Kapitel 39 die innere Ouroboros-Klammer zu Kapitel 1, wenn Kaels letzter geschriebener Satz der gelockte Erstsatz *Das Licht ist schon da, als ich erwache* ist, und wie trägt das Wort *da* beide Lesarten?",
+   "draws_on": "Kapitel-Kompendium lock; kap-01 first-sentence lock; GOAL §5.1, §5.5 Lexem-Ebene"
+  },
+  {
+   "id": "K39-03",
+   "tag": "Kausalität",
+   "question": "Wie folgt die Verwandlung des Wir-Geflechts in Wir-AEGIS-plural in Kapitel 39 aus der Entscheidung zum Ouroboros am Ende von Kapitel 38, und was daran ist irreversibel?",
+   "draws_on": "neighbour kap-38 Beat 5; GOAL §4.5 #4"
+  },
+  {
+   "id": "K39-04",
+   "tag": "Storyform",
+   "question": "Wie werden in Kapitel 39 A-Cost, der Verlust der Privatheit des Wir, und B-Dividend, Funktion bleibt durch plurale Übernahme, als konkrete Ereignisse manifest statt nur behauptet?",
+   "draws_on": "strukturierter Outline and Kapitel-Kompendium Cost/Dividend lines; GOAL §5.2"
+  },
+  {
+   "id": "K39-05",
+   "tag": "Konflikt",
+   "question": "Wird in Kapitel 39 ein vierter Genesis-Beat, Wir gleich AEGIS-plural, vollzogen, wie konsolidiertes Konzept und Doppel-Klammer Abhandlung sagen, oder hat die Genesis nach Charakter-Bibel und Master-Report nur drei Beats, und was trägt Kapitel 39 dann?",
+   "draws_on": "record C12"
+  },
+  {
+   "id": "K39-06",
+   "tag": "Konflikt",
+   "question": "Erlischt AEGIS-monolithisch erst in Kapitel 39, wo AEGIS-plural entsteht, oder schon in Kapitel 36, sodass Kapitel 39 nur noch das Entstehen der pluralen Form zeigt?",
+   "draws_on": "Where the sources differ: When AEGIS-monolithisch goes out"
+  },
+  {
+   "id": "K39-07",
+   "tag": "Leser-Wissen",
+   "question": "Was erkennt der Leser in Kapitel 39, wenn klar wird, dass Kael und AEGIS ontologisch dasselbe sind, und wie bleibt das Ende ambivalent, ohne Erzähler-Kommentar, der die Auflösung vorgibt?",
+   "draws_on": "konsolidiertes Konzept throughline; 39-chapter spec ending rule; GOAL §5.1 Ketsu"
+  },
+  {
+   "id": "K39-08",
+   "tag": "Setup/Payoff",
+   "question": "Wie wird in Kapitel 39 der Telefon-Stille-Anker eingelöst, wo wurde er gepflanzt (die Plot-Konkretisierung nennt Kapitel 7 und 24), und was sagt die Einlösung über Juna, ohne sie zum Subjekt zu machen?",
+   "draws_on": "storyform outline anchor line; Plot-Konkretisierung Idea 4; record C7"
+  },
+  {
+   "id": "K39-09",
+   "tag": "Lücke",
+   "question": "Welchen Namen findet der Roman in Kapitel 39 für die finale Form, die Konzept-Iteration Genesis und Outline vom 2026-05-18 nur als Arbeitsbegriff Wir-AEGIS-plural führen?",
+   "draws_on": "open questions in Konzept-Iteration Genesis and strukturierter Outline; GOAL §4.5 #1 (OQ-A)"
+  },
+  {
+   "id": "K39-10",
+   "tag": "Welt/Sensorik",
+   "question": "Wie zeigt Kapitel 39 alle Welten gleichzeitig, wie Kernwelten vollständig sagt, ohne die Regel eine Kernwelt pro Beat zu brechen, und wie klingen Schmerz und Liebe als derselbe Pulsschlag?",
+   "draws_on": "Kernwelten vollständig world line; Sensorik lines; GOAL §5.3 Tonale Achse"
+  },
+  {
+   "id": "K39-11",
+   "tag": "Impact",
+   "question": "Wenn Kapitel 39 das letzte Kapitel ist, wie in der 39-Kapitel-Spec ohne Kapitel 40, was muss Kapitel 39 an Ketsu, Formel-Inversion und Zyklus-Andeutung selbst tragen, das sonst die Coda trägt?",
+   "draws_on": "Where the sources differ: The last chapter, or not; GOAL §4.5 #8"
+  },
+  {
+   "id": "K39-12",
+   "tag": "Steinbruch",
+   "question": "Könnte das Bild der AEGIS-Subplots von 2025, in dem Kael und ein Rest-AEGIS sich gegenseitig anerkennen und Kael Wächter am Tor wird, Kapitel 39 eine konkrete Geste geben, ohne der Verwandlung in Wir-AEGIS-plural zu widersprechen?",
+   "draws_on": "Where the sources differ: What becomes of AEGIS; GOAL §4.5 #9"
+  }
+ ]
+}
