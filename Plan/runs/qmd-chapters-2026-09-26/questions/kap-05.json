@@ -67,5 +67,49 @@
    "question": "Wenn der Autor das Hard-B-Kapitel auf Kapitel 5 pinnt, was kippt in Kap 6–8 und in der Bridge-Quote von Akt I, und muss die Spiegelszene zur Stufe-2-Arbeit dann im selben Kapitel stehen?",
    "draws_on": "Plot-Konkretisierung Hard-B mirror scene; GOAL §4.5 #8"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael im Auge des Sturms, wenn er laut Plot-Konkretisierung in die Bestandspflege befördert wird und gut ist, weil er nicht hinsieht – und was stellt sich ihm entgegen, wenn er vor dem Klick zum ersten Mal das Gewicht eines Datensatzes mit Kontext spürt?",
+   "draws_on": "Beförderung and first assignment with context (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht im falschen Erfolg auf dem Spiel: was verliert Kael, wenn die Beförderung gefährlichere Arbeit ist, als Auszeichnung verpackt, und was, wenn er hinsähe, statt Vermeidung als Karrierevorteil zu nutzen?",
+   "draws_on": "Work and Avoidance als Karrierevorteil (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende des Auges des Sturms, der Stufe des falschen Erfolgs in der Heldinnenreise, anders als an seinem Anfang, wenn Kael sich kurz sicher fühlt, die Basis aber nicht integriert ist – und wiederholt die trügerische Stabilität laut Konzept-Iteration Genesis den Algorithmus des großen Wandels?",
+   "draws_on": "HR-Stufe Auge des Sturms / falscher Erfolg; plot beats (strukturierte Outline); Genesis echo (Konzept-Iteration)"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird das Auge des Sturms erzählt – Kael lex-dominant, oder aus AEGIS' Innensicht in einem Hard-B-Kapitel, das Kernwelten vollständig hier als Kandidaten nennt, während andere Quellen Storyform B latent lassen –, und warum?",
+   "draws_on": "POV (strukturierte Outline, spec); difference Hard-B (C14)"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt das Auge des Sturms – in KW1 in justierter Pseudo-Stabilität, im Übergang zum KW2-Rand, in der McLaughlin-Welt oder laut AEGIS-Subplots in einem simulierten Café, dessen Lichter sich zu perfekt an Kaels Blick anpassen – und wie fühlt sich spiegelglatter, sensorisch flacher Erfolg an?",
+   "draws_on": "difference World; Die wachsende Umgebung (aegis-subplots); leitmotif"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt der falsche Erfolg nach dem Audit ein, und welches Ereignis trägt den Leser in den Cache-Konflikt – die erste Zuweisung mit Kontext, das Gewicht des Datensatzes vor dem Klick, oder das vage Gefühl, antizipiert und verwaltet zu werden?",
+   "draws_on": "neighbours: Audit (previous), Doppel-Antrag (next); aegis-subplots"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat das Auge des Sturms vor dem Tod einer Einstellung, mit MC-Concern Memory in Storyform A – und ist es, im Fenster des Hard-B-Kapitels, der Ort für AEGIS' Innensicht, die Kernwelten vollständig hier als Kandidaten nennt, oder bleibt Storyform B latent, wie die übrigen Quellen sagen?",
+   "draws_on": "A: MC-Concern Memory; difference Hard-B (C14); Hard-B window (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser im Auge des Sturms fühlen, wenn Kaels Erfolg glatt und flach bleibt und laut strukturierter Outline erste Schatten von Rhys als Wärme auftauchen, die Kael nicht versteht – und wie berührt das, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Rhys shadows (strukturierte Outline); sensorisch flach (all readings)"
+  }
+ ],
+ "about": "Im Auge des Sturms erzielt Kael, lex-dominant, einen falschen Erfolg, eine trügerische Stabilität auf nicht integrierter Basis, spiegelglatt und sensorisch flach: laut Plot-Konkretisierung die Beförderung in die Bestandspflege, gefährlichere Arbeit als Auszeichnung verpackt, in der er zum ersten Mal das Gewicht eines Datensatzes spürt, bevor er klickt, laut Konzept-Iteration Genesis ein analytischer Erfolg in der McLaughlin-Welt, laut strukturierter Outline ein Erfolg im Übergang von KW1 zum KW2-Rand, mit ersten Schatten von Rhys als Wärme, die Kael nicht versteht. Kapitel-Kompendium und Kernwelten vollständig lassen es in KW1 spielen, diese in justierter Pseudo-Stabilität; laut AEGIS-Subplots trifft Kael in einem simulierten Café eine Wahl, dessen Lichter sich zu perfekt an seinen Blick anpassen, und fühlt sich antizipiert oder verwaltet. In der Heldinnenreise ist es das Auge des Sturms, der falsche Erfolg, laut strukturierter Outline in der Ki-Vertiefung von Akt I, und laut Konzept-Iteration Genesis wiederholt die Bestätigung der Isolationsstrategie den Algorithmus des großen Wandels. Storyform A trägt das MC-Concern Memory, laut strukturierter Outline die Stabilität als Erinnerungs-Substitut; Storyform B ist laut Konzept-Iteration Genesis, konsolidiertem Konzept und Drei-Modi-Spezifikation latent, laut Kernwelten vollständig ist das Kapitel Kandidat für das Hard-B-Kapitel mit AEGIS-Innensicht, in dessen Fenster es laut Plot-Konkretisierung liegt. Die Storyform-Outline verlangt, das Kapitel zu verdichten.",
+ "about_draws_on": "readings of aegis-subplots, Konzept-Iteration Genesis, konsolidiertes Konzept, three-mode spec, strukturierte Outline, Kapitel-Kompendium, Kernwelten vollständig, Storyform-Outline, Plot-Konkretisierung; differences World, Hard-B (C14)"
 }

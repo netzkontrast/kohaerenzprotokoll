@@ -67,5 +67,49 @@
    "question": "Wenn der Autor Kapitel 6 kalt statt warm schreibt, was kippt mit – Kap 36 als Landauer-Wärme-Ort, der thermische Übergang von KW1 zu KW2 bei Kap 13/14 und der Landauer-Strang über Kap 19?",
    "draws_on": "C11 (Kernwelten transition warmth, drafting-manual strand); GOAL §4.5 #8"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael im Cache-Konflikt, wenn laut Plot-Konkretisierung sich widersprechende Zuweisungen beide ausgeführt werden sollen – und was stellt sich ihm entgegen: das System, seine eigene einseitige Logik, oder die eigene Hand, die vor dem Klick stoppt?",
+   "draws_on": "Der Doppel-Antrag (Plot-Konkretisierung); einseitige Logik scheitert (strukturierte Outline, Kompendium)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht im Tod einer Einstellung auf dem Spiel, wenn Kaels einseitiger Logik-Ansatz an einem komplexen Problem scheitert: was verliert er mit dem ersten nicht ausgeführten Ausgleich, und was hätte er verloren, wenn er eine der widersprüchlichen Zuweisungen doch ausgeführt hätte?",
+   "draws_on": "plot beats (strukturierte Outline); first non-executed Ausgleich (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende der Echos im Fundament anders, wenn die Heldinnenreise den Tod einer Einstellung erreicht – stirbt Kaels Einstellung, die Logik allein trage, und kippt seine Funktion in einen Arbeitsunfall, wenn die Hand ungewollt vor dem Klick stoppt?",
+   "draws_on": "HR-Stufe Tod einer Einstellung; Cache-Konflikt als Arbeitsunfall (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B4",
+   "question": "In welchen Stimmen werden die Echos im Fundament erzählt, wenn die Stilcodes anderer Alters laut strukturierter Outline voll sichtbar werden – Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato – oder laut konsolidiertem Konzept und Kernwelten vollständig erst später, und wie bleibt dabei der Schleier gewahrt?",
+   "draws_on": "difference When the other Alters' style codes are full; POV polyphoner Einbruch"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielen die Echos im Fundament – in einer Cache-Konflikt-Zone von KW1 mit Vorschein auf KW2, oder laut AEGIS-Subplots in einem Gebiet perfekter Ordnung mit Restspuren einer Aufräumaktion – und fühlt sich das Scheitern nach Hitzeschlieren und Landauer-Wärme an oder nach kaltem Ozon laut Storyform-Outline?",
+   "draws_on": "world (Kernwelten, Kompendium); aegis-subplots; difference Landauer sensorics (C11)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzen die Echos im Fundament nach dem falschen Erfolg der Beförderung ein, und welches Ereignis trägt den Leser in die Stimme im Rauschen – die gestoppte Hand, der ausgebliebene Klick, und eine Resonanz, die danach als Sehnsucht spürbar wird?",
+   "draws_on": "neighbours: Beförderung (previous), Telefon-Stille and Sehnsucht (next)"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe haben die Echos im Fundament, wenn Storyform A die erste Andeutung der MC-Solution Pursuit und Storyform B in OS-Physics die Schwächen von AEGIS' Logik trägt, laut Kernwelten vollständig als erste polyphone Bridge – und was fehlte ohne das Echo der Resonanzkaskade der Genesis?",
+   "draws_on": "storyform A and B (May readings, Storyform-Outline); erste polyphone Bridge (Kernwelten vollständig); Genesis echo"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kaels Hand ungewollt vor dem Klick stoppt, und wie berührt dieser erste Widerstand, der aus dem Körper statt aus der Logik kommt, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Die Hand stoppt (Nyx, ungewollt) (Plot-Konkretisierung)"
+  }
+ ],
+ "about": "In den Echos im Fundament scheitert Kaels einseitiger Logik-Ansatz im Cache-Konflikt an einem komplexen Problem: laut Plot-Konkretisierung verlangt das System in einem Doppel-Antrag beide sich widersprechenden Ausführungen, Kael kann nicht beide klicken, und seine Hand stoppt ungewollt, durch Nyx, als erster nicht ausgeführter Ausgleich, ein Arbeitsunfall; laut AEGIS-Subplots bricht in einem Gebiet perfekter Ordnung eine Kaskade kleiner Systemfehler aus, die AEGIS und die Guardians schnell eindämmen. Erste polyphone Einbrüche folgen: laut strukturierter Outline werden die Stilcodes anderer Alters hier voll sichtbar, Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato, laut konsolidiertem Konzept erst später, laut Kernwelten vollständig erst in Akt II, das die Cache-Konflikt-Zone von KW1 als erste polyphone Bridge nennt, während Kapitel-Kompendium und Storyform-Outline einen Vorschein auf KW2 geben. Die Landauer-Sensorik ist laut Konzept-Iteration Genesis, konsolidiertem Konzept, strukturierter Outline und Drei-Modi-Spezifikation Hitzeschlieren und Landauer-Wärme, laut Storyform-Outline und Plot-Konkretisierung nach dem Polaritäts-Lock kaltes Ozon. In der Heldinnenreise ist es der Tod einer Einstellung, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit der ersten Andeutung der MC-Solution Pursuit in Storyform A und OS-Physics in Storyform B, in der AEGIS' Logik Schwächen zeigt; laut Plot-Konkretisierung liegt es im Fenster des Hard-B-Kapitels. Konzept-Iteration Genesis, konsolidiertes Konzept, strukturierte Outline, Kapitel-Kompendium und Storyform-Outline lesen den Cache-Konflikt als Echo der ursprünglichen Resonanzkaskade der Genesis, das Kapitel-Kompendium dazu als parakonsistente Logik.",
+ "about_draws_on": "readings of aegis-subplots, Konzept-Iteration Genesis, konsolidiertes Konzept, three-mode spec, strukturierte Outline, Kapitel-Kompendium, Kernwelten vollständig, Storyform-Outline, Plot-Konkretisierung; differences Landauer sensorics (C11), When the other Alters' style codes are full"
 }

@@ -67,5 +67,49 @@
    "question": "Kann der Fund der Aufzeichnungen von Dr. Jian Li, laut Konzept-Iteration Genesis Kaels eigene Entstehungsdokumente, in Kapitel 4 als Steinbruch-Material eine Lücke füllen, ohne den Schleier und das Verbot jeder Klartext-Diagnose vor Kap 13 zu brechen?",
    "draws_on": "Konzept-Iteration Genesis reading; GOAL §4.5 #9, §5.4 Schleier"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael in den Pforten der Verurteilung, wenn er laut Plot-Konkretisierung im Audit seiner gestiegenen Bestätigungslatenz Fragen besteht, die seine Funktion testen, nicht seine Person – oder laut Konzept-Iteration Genesis mit Lex Aufzeichnungen des System-Architekten findet –, und wer stellt sich ihm entgegen?",
+   "draws_on": "Das Audit (Plot-Konkretisierung); Dr. Jian Li records (Konzept-Iteration)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht in den Prüfungen auf dem Spiel, wenn Kaels neue, einseitig logische Identität an logischen Fallen in KW1 getestet wird: was verliert er, wenn er durchfällt und als Fehler markiert wird, und was, wenn er besteht, weil er nicht hinsieht?",
+   "draws_on": "plot beats (strukturierte Outline, Kompendium); Korruptionsmarkierung (aegis-subplots); next chapter's er ist gut, weil er nicht hinsieht"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende der Pforten der Verurteilung, der Prüfungsstufe der Heldinnenreise, anders als an ihrem Anfang, wenn AEGIS' System in Kael eine Anomalie erfasst, die es nicht klassifizieren kann – und kippt Kaels Vertrauen in die Logik in Scham und Zweifel an ihren Grenzen?",
+   "draws_on": "HR-Stufe Prüfungen / Pforten der Verurteilung; Kael als Bug (strukturierte Outline)"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht werden die Pforten der Verurteilung erzählt – Kael mit Lex, das AEGIS-Log als Atmosphäre, im Audit ein Regel-Exekutor als Stimme der Konsole in Direktiven-Sprache –, und warum spricht das System hier nur als Konsole, nicht als Person?",
+   "draws_on": "POV (strukturierte Outline, spec); Regel-Exekutor and Direktiven-Sprache (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielen die Prüfungen – in einem versteckten Archiv von KW1 laut Kernwelten vollständig, im Audit am Arbeitsplatz oder an einem Riss zu KW2 laut Konzept-Master-Bericht – und welche Dinge verankern sie: korrumpierte Textdateien, veraltete Interfaces, Zuweisungen, die beim Öffnen zerfallen?",
+   "draws_on": "places (Kernwelten vollständig, konzept-master, Plot-Konkretisierung); leitmotif (all readings)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzen die Prüfungen nach dem Bunker-Bau und dem Gegenregister ein, und welches Ergebnis trägt den Leser in den falschen Erfolg – ein bestandenes Audit, das zur Beförderung führt, oder eine Anomalie, die AEGIS protokolliert und nicht einordnen kann?",
+   "draws_on": "neighbours: Gegenregister (previous), Beförderung (next, Plot-Konkretisierung); anomaly (strukturierte Outline)"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe haben die Pforten der Verurteilung in Akt I, wenn Storyform A das MC-Issue mit Scham, Zweifel und logischen Grenzen trägt und in Storyform B latent die Spur von Kael als Bug beginnt – und was fehlte ohne sie, wenn die Storyform-Outline das Kapitel zu verdichten nennt?",
+   "draws_on": "A: MC-Issue, B: IC-Mind/Conscious latent (May readings); difference Kael's first bug trace; open point verdichten (Storyform-Outline)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael auf Scham, Zweifel und die Grenzen der Logik trifft und die kalten Klicks des Systems wie Echos des Trennungsprotokolls klingen – und wie berührt ein Kapitel, in dem keine gelesene Quelle Juna nennt, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Klick-Motiv Genesis echo (strukturierte Outline); no Juna in any reading on the page"
+  }
+ ],
+ "about": "In den Pforten der Verurteilung wird Kaels neue, einseitig logische Identität an Scham, Zweifel und logischen Grenzen geprüft: laut strukturierter Outline in logischen Fallen in KW1, laut Plot-Konkretisierung in einem Audit seiner gestiegenen Bestätigungslatenz, dessen Prüf-Dialog ein Regel-Exekutor als Stimme der Konsole in Direktiven-Sprache führt, laut Konzept-Iteration Genesis im Fund von Aufzeichnungen des System-Architekten Dr. Jian Li, Kaels eigenen Entstehungsdokumenten. Laut Kernwelten vollständig spielt es in einem versteckten Archiv von KW1, laut Konzept-Master-Bericht an einem Riss zu KW2, an dem Kaels Beobachten die Simulation kollabieren lässt; laut AEGIS-Subplots bemerkt Kael Anzeichen von Systeminstabilität, die AEGIS als Entropie oder Fehler einordnet. Laut strukturierter Outline erfasst AEGIS' System eine Anomalie, die es nicht klassifizieren kann, Kael als Bug, und seine kalten Logik-Klicks wirken zwischen korrumpierten Textdateien und veralteten Interfaces wie Echos des Trennungsprotokolls. In der Heldinnenreise ist es die Stufe der Prüfungen, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit dem MC-Issue in Storyform A und in Storyform B latent einer ersten Bug-Spur in IC-Mind/Conscious, die das Kapitel-Kompendium schon dem Erwachen als IC-Signpost gibt. Kapitel-Kompendium und Storyform-Outline nennen den Gödel-Vorschein, die Grenzen des Regelsystems, und die Storyform-Outline verlangt, das Kapitel zu verdichten.",
+ "about_draws_on": "readings of aegis-subplots, Konzept-Iteration Genesis, konsolidiertes Konzept, konzept-master, three-mode spec, strukturierte Outline, Kapitel-Kompendium, Kernwelten vollständig, Storyform-Outline, Plot-Konkretisierung; difference Kael's first bug trace"
 }

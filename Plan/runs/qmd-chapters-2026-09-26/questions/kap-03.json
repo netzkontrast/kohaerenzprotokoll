@@ -67,5 +67,49 @@
    "question": "Wie erscheint Autopoiesis als Selbst-Abschottung in Kapitel 3 als Bild – Glas, Stahl, Festungs-Architektur –, ohne Systemtheorie- oder DKT-Begriffe in den ersten fünfzig Seiten?",
    "draws_on": "Kompendium and storyform outline theory; GOAL §5.4 theory never naked"
   }
- ]
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, lex-dominant, im Bunker-Bau, wenn er Kontrolle und Ordnung verdoppelt und in AEGIS' Methoden Stärke sucht – und was stellt sich ihm entgegen: eine Wärme, die nicht in die Ordnung passt, oder laut AEGIS-Subplots ein Guardian wie LogOS, der eine Logikregel erzwingt?",
+   "draws_on": "plot beats (strukturierte Outline, Kompendium); Wärme-Debüt (Storyform-Outline); Das Logikgatter (aegis-subplots)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht im Bunker-Bau auf dem Spiel, wenn Kael eine mentale Festung als Vermeidung baut: was verliert er, wenn sie hält und ihn gegen die erste Spur Junas abschottet, und was, wenn sie fällt, bevor er weiß, wovor sie schützt?",
+   "draws_on": "MC-Problem Avoidance (konsolidiertes Konzept, strukturierte Outline); Autopoiesis als Selbst-Abschottung (Kompendium)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende des Bunker-Baus anders, wenn die Heldinnenreise bei Erwachen und Vorbereitung, der Identifikation mit dem Männlichen, steht – oder laut Konzept-Iteration Genesis bei einer Vorbereitung mit Juna-Ahnung –, und kippt Schutz in Selbst-Abschottung, wenn aus Notizen ein Gegenregister wird?",
+   "draws_on": "difference Stage name; Gegenregister (Plot-Konkretisierung); Autopoiesis als Selbst-Abschottung (Kompendium)"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird der Bunker-Bau erzählt, wenn Kael lex-dominant ist – in Lex' Logik und Syntax, mit ersten Stilcode-Einbrüchen anderer Alters – und warum gerade in der Stimme, die Kontrolle baut, wenn zugleich die erste Wärme auftaucht?",
+   "draws_on": "POV Kael (Lex-dominant) (strukturierte Outline, spec); voices (konsolidiertes Konzept)"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt der Bunker-Bau, und wo debütiert Junas Wärme – im verlassenen Randbezirk von KW1 laut Kernwelten vollständig oder auf dem Heimweg im Transitkorridor, während der Arbeitsplatz kalt bleibt, laut Plot-Konkretisierung – zwischen Glas, Stahl und Festungs-Architektur?",
+   "draws_on": "difference Where the warmth debuts; sensorics (strukturierte Outline)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt der Bunker-Bau nach dem ersten Riss und der fremden Syntax im Entwurfsordner ein, und welches Ereignis trägt den Leser in die Prüfungen – die Wärme, die Kael nicht einordnen kann, oder ein Zögern vor dem Klick, das später das Audit misst?",
+   "draws_on": "neighbours: Rücklauf (previous chapter), Audit of rising latency (next chapter, Plot-Konkretisierung)"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat der Bunker-Bau im Bogen, wenn er in Storyform A das MC-Problem Avoidance als ANP-Funktion trägt, laut Konzept-Iteration Genesis dagegen ein RS-Physics-Vorzeichen, bei latenter Storyform B – und was fehlte ohne die Festung, die laut strukturierter Outline AEGIS' Trennungsprotokoll spiegelt?",
+   "draws_on": "difference Storyform A; B latent; Genesis echo (strukturierte Outline)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael sich einmauert und gerade dann Junas Spur zum ersten Mal erscheint – als verschwindendes Echo, um das Stadtgesetze brechen, laut Konzept-Iteration Genesis, oder als erste Wärme laut Storyform-Outline –, und wie berührt das, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "difference Juna's first trace (C7)"
+  }
+ ],
+ "about": "Im Bunker-Bau verdoppelt Kael, nun lex-dominant, Kontrolle und Ordnung und baut eine mentale Festung als Vermeidung, sucht Stärke in AEGIS' Methoden und sammelt laut strukturierter Outline Werkzeuge aus den Kernwelten; laut Plot-Konkretisierung ist der Bunker ein Gegenregister, eine Doppel-Buchführung aus Orten, Zahlen und Differenzen, laut AEGIS-Subplots stößt Kael an eine Logikregel, die ein Guardian wie LogOS erzwingt. Zugleich erscheint Junas Spur zum ersten Mal: laut Konzept-Iteration Genesis sieht Kael sie als Echo, das verschwindet und um das Stadtgesetze brechen, laut Storyform-Outline debütiert ihre Coheron-Spur als Wärme, laut Kernwelten vollständig im verlassenen Randbezirk von KW1, laut Plot-Konkretisierung auf dem Heimweg im Transitkorridor, während der Arbeitsplatz kalt bleibt. In der Heldinnenreise ist es Erwachen und Vorbereitung, die Identifikation mit dem Männlichen, laut Konzept-Iteration Genesis eine Vorbereitung mit Juna-Ahnung, laut strukturierter Outline in der Ki-Vertiefung von Akt I. Storyform A trägt laut konsolidiertem Konzept, strukturierter Outline und Storyform-Outline das MC-Problem Avoidance als ANP-Funktion, laut Konzept-Iteration Genesis ein RS-Physics-Vorzeichen mit Moonshine-Andeutung, und Storyform B ist latent. Die Festung aus Glas und Stahl ist laut strukturierter Outline die innere Spiegelung von AEGIS' eigenem Trennungsprotokoll, laut Kapitel-Kompendium Autopoiesis als Selbst-Abschottung.",
+ "about_draws_on": "readings of aegis-subplots, Konzept-Iteration Genesis, konsolidiertes Konzept, three-mode spec, strukturierte Outline, Kapitel-Kompendium, Kernwelten vollständig, Storyform-Outline, Plot-Konkretisierung; differences Juna's first trace (C7), Where the warmth debuts, Storyform A, Stage name"
 }
