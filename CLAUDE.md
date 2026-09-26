@@ -66,25 +66,32 @@ The standard-library scripts — `state.py`, `quotes.py`, `read.py`,
 There is no third layer. Everything else the project used to have is parked
 under `Legacy/` and read by nothing.
 
-`Sources/manifest.jsonl` is the spine: 613 rows, each with `drive_id`, `title`,
+`Sources/manifest.jsonl` is the spine: 587 <!--state:sources.total--> rows, each with `drive_id`, `title`,
 `slug`, `category`, `tier` and, once landed, `export_path` and two checksums.
 Anything derived traces back to a `drive_id`.
 
-`Sources/duplicates.jsonl` holds the 67 rows that left it — the same shape plus
+`Sources/duplicates.jsonl` holds the 93 <!--state:sources.folded--> rows that left it — the same shape plus
 `duplicate_of`. Two files, two questions: the manifest says what is in the
 corpus, and this says what Drive also holds and why it is not here. It exists so
 that „not in the manifest" never has to mean „nobody knows".
 
 ## State, as of 2026-09-17
 
-**371 <!--state:sources.landed--> of 613 <!--state:sources.total--> source documents are landed.** The 242 that are not all date from before May
-2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
-and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
+**586 <!--state:sources.landed--> of 587 <!--state:sources.total--> source documents are landed.** The one that is not
+is `Coherence Protocol.mp3`: markitdown can only transcribe it by sending the audio
+to a third-party speech service, which waits on the author's yes. The other 241
+landed on 2026-09-26, on the author's „Download all of the Rest from the
+Manifest": the 227 pre-May-2026 `plot-outline` gdocs deferred with the novel, the
+13 remaining `md` and the one `pdf` — 0 failures, about four minutes, no model
+reading any of them. 26 of the 241 were copies of another new file and were
+folded away (below), so 215 new documents stand. `Sources/README.md` now ends
+with every document and the names that matter in it (*Sources at a glance*,
+below). Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
 dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, eighteen of them
 read (documents 7 to 24).
 
-**Those files are 371 <!--state:sources.distinct--> distinct documents, and
+**Those files are 586 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
 export, a docx export, a `kopie` of each, a second run of both — and each landed
 under its own `drive_id`. 409 files were 346 documents, so **every count phrased
@@ -92,9 +99,10 @@ as "N of 409" was counting copies.** Only 2 pairs were byte-identical, so
 checksums found almost none of it.
 
 `python3 scripts/dedupe.py` folded the
-67 <!--state:sources.folded--> extra files away. The file left `Sources/drive/`,
-the row left the manifest — 680 rows became 617, and the canon-era landing's four
-copies took it to 613 — and the full row moved to
+93 <!--state:sources.folded--> extra files away. The file left `Sources/drive/`,
+the row left the manifest — 680 rows became 617, the canon-era landing's four
+copies took it to 613, and the 26 copies among the plot outlines of 2026-09-26 to
+587 — and the full row moved to
 `Sources/duplicates.jsonl`, which is what `sources.py next` filters against so a
 folded document is never fetched again. `python3 scripts/duplicates.py` now
 reports 0 <!--state:sources.near_copies--> near-copies and its job is to keep
@@ -789,6 +797,29 @@ python3 scripts/qmd_coverage.py # non-zero if a directory is in no collection
 **A file in no collection is absent from every search and nothing says so.** That
 is why coverage is checked rather than remembered. The configuration itself lives
 in the committed `.qmd/index.yml`; **never run `qmd init` here**, it overwrites it.
+A document landed after the index was built is in no search until `qmd update`
+runs — 13 seconds for the 215 documents of 2026-09-26.
+
+### Sources at a glance
+
+`python3 scripts/overview.py` writes the end of `Sources/README.md`: every landed
+document, by category, with its most important wiki names and other names. A name
+is counted under the wiki page it belongs to and printed as that page names it:
+the page's own surfaces, and a translation pair from `Plan/entities/bilingual.jsonl`
+(one hop, de ↔ en, marked `†`). Names with no page come from the verified entity
+lists and `bilingual.py`'s entities, printed as written. **Every number printed is
+a count**; the order is tf-idf, so `AEGIS`, in most documents, sinks.
+
+```bash
+python3 scripts/overview.py scan       # the qmd first scan: each page's name, ranked documents
+python3 scripts/overview.py            # write the section; --check fails when it is stale
+python3 scripts/overview.py doc <slug> # one document's names, with df and weight
+```
+
+`scan` keeps qmd's ranking per page in `Plan/runs/qmd-scan/pages.json`, and the
+README prints the first unread documents for each — a place to look, labelled as a
+rank. The lookup keeps the project's rules: a pair is a proposal and merges nothing
+outside that list, and a short token matches case and all, so `did` is not `DID`.
 
 ## The project app — the repository as one interactive canvas
 
@@ -888,11 +919,12 @@ python3 scripts/sources.py land --drive-id <id> --consume
 which parses the spill, normalizes, writes `Sources/drive/<slug>.md`, records
 both checksums into the manifest and verifies. Never open the spill yourself.
 
-40 of the 613 rows are markdown or audio, which the connector does not list as
-supported — but `md` comes through the text route: 26 of the 39 `md` rows are
-landed, 4 on 2026-09-16 and 22 more on 2026-09-24 with
-`fetch --since 2026-05-01 --include-md`. `--include-md` is opt-in. The other 13
-`md` and the one `mp3` stay deferred by decision.
+40 of the 587 rows are markdown or audio, which the connector does not list as
+supported — but `md` comes through the text route: all 39 `md` rows are
+landed, 4 on 2026-09-16, 22 on 2026-09-24 with
+`fetch --since 2026-05-01 --include-md`, and the last 13 on 2026-09-26 with
+`fetch --include-md --limit 1000`. `--include-md` is opt-in. The one `mp3` has no
+route that keeps its content in this container.
 `Plan/learnings/fetch.md` has the format census and the heading measurement.
 
 ## Installing anything
