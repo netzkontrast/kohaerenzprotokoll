@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C10
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -103,3 +103,9 @@ As the separation runs: „Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Kn�
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
 
 An EP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Her style code „Nyx fragmentiert-bildhaft" ^[three-mode-architecture-39-chapters-md.md:L198]; in Part 2 the prose swings to „fragmentiertem Ausbruch (Nyx, Trigger-Szenen)" ^[three-mode-architecture-39-chapters-md.md:L230].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — EP, the kinetic Riss
+
+The konsolidiertes Konzept's row, in the same words: „EP | Nyx (Fight) | CPT-Verletzung | Adrenalin, Tunnelblick | → Konstruktiver Schutz" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L404]. From the second trauma layer: „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex, Alex, Nyx" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435].
+Her Riss: „Nyx (Fight) | Kinetisch | Aufprall, Bersten, Vibration" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L680]. Her voice in Akt I: „Lex hypotaktisch, Nyx stakkato, Kiko kindlich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L765]
+The knuckles in this document are Kael's, in the premise (L29), the Landauer physics (L82) and KW1's Risse (L481); no line names Nyx with them (C10).
