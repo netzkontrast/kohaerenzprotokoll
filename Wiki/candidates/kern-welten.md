@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 20
-readings: 19
+sources: 21
+readings: 20
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -376,3 +376,18 @@ The prose it glosses: „In diesen Simulationen entstehen die ersten rudimentär
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
 
 No count and no names. Cycle 1: „Trigger in Kernwelt (B-Welt) reaktiviert Trauma-Angst" ^[three-mode-architecture-39-chapters-md.md:L245]. The Genesis flashbacks: „Die ersten gehäuften Genesis-Flashbacks (zentraler Bridge-Cluster) liegen in der KW2-KW3-Phase" ^[three-mode-architecture-39-chapters-md.md:L151].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — four logic regimes as act markers, each with an act, a class and a style level
+
+„Es gibt eine Realität mit vier verschiedenen Logikregimen (KW1–KW4), die psychologische Landschaften sind" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L449]. What it corrects is its claim about the older drafts: „Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
+
+| KW | heading | act | class | Stilebene |
+|---|---|---|---|---|
+| KW1 | „KW1 — Die Konstrukt-Stadt (Logos-Prime)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L455] | „KW1 dominiert Akt I (Ch1–13)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496] | „KW1 = P." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L700] | „Ebene 1 — kalt, steril, assertorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L477] |
+| KW2 | „KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L498] | „KW2 dominiert mittlere Akt II (Ch14–22)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L539] | „KW2 = Parakonsistent." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L701] | „Ebene 2 — heiß, fragmentiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L520] |
+| KW3 | „KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L541] | „KW3 dominiert späte Akt II (Ch23–28)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L582] | „KW3 = NP-Hard." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L702] | „Ebene 2 (Übergang)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L563] |
+| KW4 | „KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L584] | „KW4 dominiert Akt III (Ch29–34, 37–39)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L624] | „KW4 = Generativ." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L703] | „Ebene 3 — poetisch, atemporal, zeit-fluide." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L606] |
+
+„Die vier Kernwelten korrespondieren mit aufsteigender Komplexitätsklasse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L696] — „Das ist nicht primär weltdiegetisch, sondern stilistisch-narrative Anweisung" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L696].
+KW1 is the [[konstrukt-stadt|Konstrukt-Stadt]], as the author decided in C9. KW4 has `Garten der Möglichkeiten` in its heading and holds „Der Möglichkeits-Garten — überwucherte Ruinenarchitektur." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618] as a sub-location (C5). KW3 has no second name from the Überwelt (`grep -c Überwelt-Nexus` 0; J63). Ch35–36 fall in no world's span; the Vortex converges on KW2's Mnemosyne-Server-Architektur (L535).
+Headings and spans are those of the konsolidiertes Konzept of the same date (L463–L533 there).
