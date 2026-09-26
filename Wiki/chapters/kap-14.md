@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -64,6 +64,14 @@ Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
 - Storyform B: „OS-Physics: erste Erasure-Welle gegen Kaels Stabilität" ^[three-mode-architecture-39-chapters-md.md:L258]
 - Leitmotif: „zerbrochene Fassade, Sprünge im Raum" ^[three-mode-architecture-39-chapters-md.md:L258]
 
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the Archiv der Grenzen
+
+The document ranks itself: „Diese Datei dient als operative Referenz, nicht als Source-of-Truth.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968]
+
+Position: „KW2 dominiert mittlere Akt II (Ch14–22).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L539]
+
+- Place: „Das Archiv der Grenzen — eine zerfallende Bibliothek mit unendlichen Regalen.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] · „Ort, an dem Kael die technischen Dossiers von AEGIS findet (Ch14).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532], a sub-location of „### VI.3 KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L498]
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563]
@@ -120,7 +128,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 
 ## Where the sources differ
 
-- **Title.** „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept) · „Das Archiv der Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as its Teil-IX working title, „Bruch des Gleichgewichts“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339] (storyform outline); the second is the Kernwelten document's place for the chapter, „KW2 Archiv der Grenzen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840] (Kernwelten vollständig).
+- **Title.** „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept) · „Das Archiv der Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as its Teil-IX working title, „Bruch des Gleichgewichts“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339] (storyform outline); the second is the Kernwelten document's place for the chapter, „KW2 Archiv der Grenzen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840] (Kernwelten vollständig). The worldbuilding concept gives the Archiv der Grenzen as the chapter's place: „Ort, an dem Kael die technischen Dossiers von AEGIS findet (Ch14).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] (the worldbuilding concept).
 
 ## Questions for this chapter
 
