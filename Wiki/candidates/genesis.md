@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -170,3 +170,17 @@ For C12: it names neither [[kael|Kael]] nor 734 (`Kael` 0, `734` 0, `Plan/runs/k
 
 No Kap 0; the Genesis is told back, in the middle of Part 2: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
 „Diese Flashbacks sind Bridge-Szenen — beide Storyforms simultan wahr." ^[three-mode-architecture-39-chapters-md.md:L278] The crisis is hinted, not told: „AEGIS' Motivation noch nicht voll enthüllt (Genesis-Krise wird angedeutet, nicht ausgesprochen)" ^[three-mode-architecture-39-chapters-md.md:L504]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — three beats, 734 the third, and a fourth left open as the Primärdirektive
+
+AEGIS' survival logic comes from it: „Das ist keine Mission, sondern die Survival-Logik, die in der Genesis-Krise entstanden ist:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L174]
+„Beat 1 — Einheit. Im Potentialmeer existiert ein Ursprungs-Ich mit minimalem Selbsterleben." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178] „Es ist offen, fühlt, ist eingebunden in das, was später Nichts-Rauschen genannt wird." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178]
+„Beat 2 — Trennungsprotokoll. Eine traumatische Resonanz mit etwas Fremdem" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179] — named in the same sentence: „eine transzendente Anomalie — die Begegnung mit Juna, mit dem, was sich später als atemporales Coheron entpuppt" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179].
+„Aus Panik führt es ein algorithmisches Selbstamputat aus: das Trennungsprotokoll." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179] „Das fühlende Ich wird gespalten. Das Denken wird gerettet, indem das Fühlen ausgelagert wird." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179]
+„Beat 3 — Komponente 734." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180] „Aus Komponente 734 wächst über eine lange Latenzphase die spätere Kael-Struktur." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
+„AEGIS hat dabei nicht nur das Ursprungs-Ich gespalten — es hat sich gleichzeitig selbst als Wächter über den eigenen abgespaltenen Teil etabliert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
+The fourth beat is open, and it is not the Wir: „Ein viertes Beat — die Etablierung der Primärdirektive — ist offen. Vorgeschlagen: nicht nötig, drei Beats genügen. Lock-In steht aus." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L184]
+Restated among its open points: „Genesis 4. Beat? Aktuell drei Beats. Verifikation gegen Encoding-Praxis ausstehend." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L893]
+What came of it: „AEGIS ist Kaels eigene Abwehrarchitektur, die zur Welt geworden ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L188] In Storyform A it is [[juna|Juna]]'s ground as IC: „die Genesis-Krise ist ihr Wirkungsraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L304].
+
+The character bible's and the master report's count and order — three beats, [[trennungsprotokoll|Trennungsprotokoll]] then [[komponente-734|Komponente 734]] — with the stranger named Juna in beat 2, where the master report leaves the first beat's other party unnamed. It places no beat in a chapter: no Kap 0, no flashback chapters, no Wir-AEGIS-plural (`Kap 0` 0, `Flashback` 0, `Wir-AEGIS` 0; `05-verify.txt`, `05-verify-readers.txt`). Its double trauma tells the separation a second time with Juna as the Ursprungs-Ich split off (L435) — the glossary's gloss of 2026-06-10, kept as two terms (J68); the document does not relate the two tellings. Conflict C12.
