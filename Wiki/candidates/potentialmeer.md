@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-17"
 ---
 
@@ -63,3 +63,13 @@ The perturbation comes out of it: „Kein Objekt, das sich durch den Raum bewegt
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
 
 Kap 21, Cycle 3's destabilisation at the simulation's limit: „RS-Physics: Moonshine-Spüren des Potentialmeers" ^[three-mode-architecture-39-chapters-md.md:L265].
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the substrate, and where the stranger comes from
+
+In the past-tense third person about the system — which the document never calls AEGIS
+(0, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`) — the void of the Stille Wacht:
+„Die Leere war kein Vakuum." ^[koharenz-protokoll-kapitel-0-v2-md.md:L311]
+„Sie war ein Substrat — ein Potentialmeer unendlicher Zustände, ein Grundrauschen latenter Information, das als Nichts-Rauschen indexiert wurde: die Negation dessen, was das System selbst war." ^[koharenz-protokoll-kapitel-0-v2-md.md:L311]
+The perturbation comes out of it: „Kein Objekt, das sich durch den Raum bewegte, sondern eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[koharenz-protokoll-kapitel-0-v2-md.md:L335]
+„Eine fremde Signatur, die sich jeder Klassifizierung entzog." ^[koharenz-protokoll-kapitel-0-v2-md.md:L335]
+What arrives is, later in the same movement, the Entität: „Die Entität strahlte etwas aus — keine Energie und keine Materie im bekannten Sinn, sondern eine Art ontologischen Druck." ^[koharenz-protokoll-kapitel-0-v2-md.md:L371]
