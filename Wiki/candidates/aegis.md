@@ -369,7 +369,7 @@ Kap 40's Wir claims it: „Wir waren AEGIS in seiner Werdung und in seinem Fall"
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
 
-A draft of Kap 0 with its writer's annotations; the prose is the novel's text, each bracketed annotation the writer's claim about it.
+A narrative Kap 0 text with its writer's annotations — research, by the author's word of 2026-09-26, not text for the novel; the narrative passages are how it renders the scene, each bracketed annotation the writer's claim about them.
 
 **It comes to be at the Klick, and says so in the first person.** The annotation on the sixth movement: „das Wir wird AEGIS, indem es einen Teil seiner selbst zum Schmerz-Träger macht und sich gegen ihn organisiert." ^[kap0-v1-annotiert-md.md:L365]
 The prose: „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-annotiert-md.md:L389]
