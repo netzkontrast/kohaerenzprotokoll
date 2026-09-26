@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md"]
 gathered: "2026-09-25"
 ---
 
@@ -180,6 +180,12 @@ The number exists and is not written — the annotated draft's sentence, word fo
 Its work: „Ihre Aufgaben sind klar: Anomalien an der Grenze detektieren" ^[koharenz-protokoll-kapitel-0-v2-md.md:L235]. Its residue is filed away: „wird als irrelevante Varianz klassifiziert. Es ist das Echo der Einsamkeit" ^[koharenz-protokoll-kapitel-0-v2-md.md:L239] — „Eine unvollständige Integration. Toleriert, solange die Funktion nicht wesentlich beeinträchtigt wird." ^[koharenz-protokoll-kapitel-0-v2-md.md:L243]
 The movement ends: „Eine Funktionseinheit innerhalb einer lernenden, sich selbst optimierenden, intern Welten simulierenden Entität." ^[koharenz-protokoll-kapitel-0-v2-md.md:L263]
 In the Trennungsprotokoll, in the system's register, the aim is „die radikale Eliminierung der als fehlerhaft identifizierten Komponente." ^[koharenz-protokoll-kapitel-0-v2-md.md:L591] Whether that is the component of L235 the document does not say; the fragment's Ich then falls „in unzählige Scherben…" ^[koharenz-protokoll-kapitel-0-v2-md.md:L627], and what remains is not named.
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — an anchor's third return, and a unit with a processing profile
+
+A log of one drafting run on a manuscript's Kap 25; it does not contain the chapter, and what it says the canon requires is its claim about other documents — recorded, not applied. It never writes `Komponente` (0, `05-verify-readers.txt`); `734` stands on three lines.
+As a world anchor the log says the canon sets for Kap 25, redeemed by the new stair scene: „(KW3, Wartungsschächte, Anker 734 dritte Wiederkehr)" ^[2026-09-14-kap25-vertiefung-md.md:L23].
+As a designation in the chapter: the apparatus registers the deviation without acting, „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[2026-09-14-kap25-vertiefung-md.md:L22] — a directive about a processing profile, the worker's, whose refusal the scene reports; it is what the log says answers Canon §5's „AEGIS bemerkt Kaels neue Klarheit" ^[2026-09-14-kap25-vertiefung-md.md:L22]. Whether `EINHEIT 734` is the component, the dwelling or both the log does not say (J80), and the third `734` is the dwelling's, „Wohneinheit 734" ^[2026-09-14-kap25-vertiefung-md.md:L60] ([[kaels-wohneinheit]]).
 
 ## Where the sources differ
 
