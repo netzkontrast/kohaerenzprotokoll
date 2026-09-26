@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -52,3 +52,9 @@ Oblivion's DKT correlate: „Erason-Operator." ^[kohaerenz-protokoll-anteile-pro
 „Jede Erasion ist ein Vorher/Nachher — die Information existierte, dann existiert sie nicht mehr." ^[kohaerenz-protokoll-konzept-master-md.md:L119]
 In the kernel table they are K₀'s operation: „Erasonen (Löschungsereignisse)" ^[kohaerenz-protokoll-konzept-master-md.md:L99].
 AEGIS keeps its coherence only „durch immer mehr Erasonen" ^[kohaerenz-protokoll-konzept-master-md.md:L313]. The Persistenzgleichung carries „δ: lokaler Erason-Druck" ^[kohaerenz-protokoll-konzept-master-md.md:L138]; Juna shows as „Anomale Erason-Bilanz (lokal weniger Löschung als statistisch erwartet)" ^[kohaerenz-protokoll-konzept-master-md.md:L560]; Oblivion is the „Erason-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L400].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the arrow of time, and the condition of history
+
+„Erasonen (K₀-Domäne) sind irreversible Löschungsereignisse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] „Sie erzeugen den Zeitpfeil." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] „Jede Erasion ist ein Vorher/Nachher: Information existierte, dann existiert sie nicht mehr." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] And more than loss: „Erasonen sind die thermodynamische Bedingung von Geschichte selbst." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59]
+On the Korrelat-Achse, the temporal side — „TEMPORAL (Erason-Domäne)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L124] — holds Oblivion „(Erason-Operator)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L136] and AEGIS „(Erason-Architektur)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L136]; the Alter table gives Oblivion the same correlate (L411).
+Juna shows in their count: „anomale Erason-Bilanz (lokal weniger Löschung als statistisch erwartet)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L374]. And one of the two readings of her the document holds true at once inverts them: „Juna ist Erason-Inversion — ein neguentropisches Ereignis, das Kohärenz wiederherstellt, wo AEGIS gelöscht hat." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L296]
