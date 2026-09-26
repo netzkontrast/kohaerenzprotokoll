@@ -1,7 +1,7 @@
 # Narrative text among the unread, and the open records by vector — 2026-09-26
 
 Asked for together, after the chapter run (`../qmd-chapters-2026-09-26/`) showed
-its limit: no Kap 0 question found the second Kap 0 draft.
+its limit: no Kap 0 question found the narrative Kap 0 text.
 
 **A search places a document to look at. It measures nothing.** Every number below
 is a count of this run.
@@ -12,7 +12,7 @@ Every unread landed document was measured for form: German or not; personal
 pronouns and plan vocabulary (Kapitel, Storyform, Akt, Beat, Konzept …) per
 thousand words; the share of long plain paragraphs. The score, pronouns minus
 three times plan vocabulary, was calibrated on the two known drafts — the unread
-second Kap 0 draft ranks sixth of 260 German unread documents, the read first
+narrative Kap 0 text ranks sixth of 260 German unread documents, the read first
 draft of Kap 40 and Kap 0 would rank above it, and the structured outline far
 below. Candidates were then opened and read at their start; filenames with
 *prosa*, *szene*, *kapitel*, *entwurf* were checked the same way.
@@ -36,10 +36,12 @@ below. Candidates were then opened and read at their start; filenames with
 `genesis-ein-implementierungsleitfaden-prosa-version`,
 `prosaversion-von-genesis-erstellen` — analyses and writing briefs.
 
-**The author, on this list: „There is no prose there".** Recorded as said. The
-lines above hold narrative sentences; whether any of it is the novel's prose — as
-opposed to drafts or exercises written by a model — is the author's to say, and
-nothing here calls it canon or a draft of the novel.
+**The author, on this list: „There is no prose there" — and then: „Those arent
+Texts for the novel - only Research".** So every text above is research that
+happens to be narrative, not text for the novel and not a draft of it. It is read
+as any research document is, by `ingest`, and nothing from it is the novel's
+prose. The search for narrative text stops here: it finds a form, and the form
+says nothing about what a document is for.
 
 `grep` over the list, orientation only: the 2025-04-27 document writes `Juna` 138
 times and `Julia` never, and the Genesis text of 2025-04-29 writes `734` 32 times —

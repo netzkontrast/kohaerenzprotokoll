@@ -19,7 +19,15 @@ record, a `Wiki/questions/` page, a decision file) and the line here goes.
 
 **Decided so far:** **C6** — five Guardians (LogOS, Mnemosyne, Cerberus, Kairos,
 Sophia). **C9** — the Konstrukt-Stadt is KW1. **Decision 006** — every draft is
-back in question; no date or claim to be canon settles anything.
+back in question; no date or claim to be canon settles anything. **Narrative
+texts among the unread sources** (2026-09-26) — „Those arent Texts for the novel -
+only Research": read as research, never as the novel's prose.
+
+**Open from that answer:** do the two read narrative documents count the same way?
+`CLAUDE.md` calls document 22, `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`,
+„the novel's own text: the first draft of Kap 40 and Kap 0", and document 23,
+`kap0-v1-annotiert-md`, reviews itself as a draft. Their readings quote what they
+say either way; only that description would change.
 
 ### The novel — where the sources disagree
 
@@ -524,7 +532,9 @@ never a reading or a number.
 1. **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17) — still first, by the grep
    of the morning scan (*Next document*, below). The vector tables do not find it:
    no Kap 0 question returns it, because a question is written about a chapter and
-   a draft is the chapter's prose. That is the method's limit, measured.
+   this is narrative text about it. That is the method's limit, measured. By the
+   author, 2026-09-26, such narrative texts are research, not text for the novel
+   (`Plan/runs/prose-and-records-2026-09-26/README.md`).
 2. **`worldbuilding-konzept-kohaerenzprotokoll-md`** (2026-05-08) — in 25 chapters'
    tables, Kap 31–40 all among them, and one of the ten scanned.
 3. **`kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`** — Kap 11, 12, 15,

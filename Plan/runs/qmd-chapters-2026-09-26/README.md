@@ -99,14 +99,15 @@ them (`python3 scripts/chapter_sources.py across`):
 | `systemic-architecture-specification-the-coherence-protocol-w` | 2026-05-08 | Kap 36 |
 
 **What the method cannot find — measured on the one case where the answer is
-known.** `koharenz-protokoll-kapitel-0-v2-md`, the clean second draft of Kap 0 that
-the grep-backed scan of the same morning found, is in no table of Kap 0. Of Kap 0's
+known.** `koharenz-protokoll-kapitel-0-v2-md`, the narrative Kap 0 text that the
+grep-backed scan of the same morning found — research, not text for the novel, by
+the author's word the same day — is in no table of Kap 0. Of Kap 0's
 twenty queries not one returned it among its forty hits; it came back for six
 queries of other chapters, at best third among their unread documents. The questions and summaries are
 written *about* a chapter — its storyform, its structure, its function — and a
-draft is the chapter's *prose*, which shares that vocabulary with nothing. So a
-table finds plans and analyses of a chapter, not its drafted text. For a draft,
-`grep` for the chapter's names and images is the tool.
+narrative text tells the chapter, sharing that vocabulary with nothing. So a table
+finds plans and analyses of a chapter, not narrative text of it. For that, `grep`
+for the chapter's names and images is the tool.
 
 **The Kap 24 and Kap 29 readings give Storyform B's line as Psychology.** Four
 sources write „B: OS-Psychology, Host-System-Verstrickung" for Kap 24 (the

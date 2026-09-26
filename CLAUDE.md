@@ -647,7 +647,7 @@ ends with its questions — eight basic ones filled with its plot, 10–12 of it
 against GOAL.md §4.5 and §5 — a table of unread candidate sources a qmd vector
 search returned for them, and qmd's raw answers. `scripts/chapter_sources.py`
 writes all four from `Plan/runs/qmd-chapters-2026-09-26/`; none is a reading, and
-the table finds plans of a chapter, not its drafted prose.
+the table finds plans of a chapter, not narrative text of it.
 
 **Reading the chapter outlines side by side corrected a claim.** `NOW.md` said
 every read source but one ended at Kap 39; seven of the eight count a Kap 40.
