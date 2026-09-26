@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -74,6 +74,15 @@ Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L
 - Storyform B: „OS-Physics: AEGIS bereitet Phase-2-Stress-Tests vor" ^[three-mode-architecture-39-chapters-md.md:L190]
 - Leitmotif: „Garten, Pflege, lebendige Ordnung" ^[three-mode-architecture-39-chapters-md.md:L190]
 
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the veil holds to here, and the Evaluierungseinheit
+
+The document ranks itself: „Diese Datei dient als operative Referenz, nicht als Source-of-Truth.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968]
+
+Position: „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496]
+
+- Veil: „Multiplizitäts-Schleier hält bis Ch13.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496] · „Erste 13 Kapitel: Multiplizitäts-Schleier hält.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378]
+- Place: „Evaluierungseinheit — Ort des „Messers im Bewusstsein" (Ch13). Wo Personae kollabieren.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L578], a sub-location of „### VI.4 KW3 — Cerberus-Labyrinth (Grenzfeste)“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L541], in the chapter that closes KW1's act.
+
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — one rule
 
 - The veil lifts here: „**R-3 — Multiplizitäts-Schleier hält bis Kap 13.**" ^[kap0-v1-annotiert-md.md:L51]
@@ -137,8 +146,8 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 
 ## Where the sources differ
 
-- **World.** „Tanz im Garten (neue innere Welt) · KW1→Übergang“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (Kapitel-Kompendium) · „KW1→Übergang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „KW3 Evaluierungseinheit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] (Kernwelten vollständig). · „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-konzept-master-md.md:L658], KW1 to its end (master report).
-- **What happens.** „Innere Praxis etabliert; Teil-1-Abschluss.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „Möglichkeits-Garten (KW4-Vorgriff) als innere Praxis.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L545] (strukturierter Outline) · „Messer im Bewusstsein / Schleier-Fall“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] · „wo Personae kollabieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] (Kernwelten vollständig).
+- **World.** „Tanz im Garten (neue innere Welt) · KW1→Übergang“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (Kapitel-Kompendium) · „KW1→Übergang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „KW3 Evaluierungseinheit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] (Kernwelten vollständig). · „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-konzept-master-md.md:L658], KW1 to its end (master report). · „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496] and, in the same chapter, a KW3 place: „Evaluierungseinheit — Ort des „Messers im Bewusstsein" (Ch13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L578] (the worldbuilding concept).
+- **What happens.** „Innere Praxis etabliert; Teil-1-Abschluss.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „Möglichkeits-Garten (KW4-Vorgriff) als innere Praxis.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L545] (strukturierter Outline) · „Messer im Bewusstsein / Schleier-Fall“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] · „wo Personae kollabieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] (Kernwelten vollständig). · „Wo Personae kollabieren.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L578] (the worldbuilding concept), in Kernwelten vollständig's words.
 - **Genesis echo.** The echo two documents set on Kap 13 carries the name each gives Kap 12's stage: „Kap 13: die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L842] · „Stille der Mitte — Jetzt-Raum (innere Stabilität gefunden)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L830] (konsolidiertes Konzept); „die Stille der Mitte = Echo der Vor-Trennungs-Stille der Reinform“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] · „Stille der Mitte (Jetzt-Raum) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (Kapitel-Kompendium).
 
 ## Questions for this chapter
