@@ -244,7 +244,8 @@ def questions_section(number: int, questions: list[dict]) -> str:
     return "\n".join(lines) + "\n"
 
 
-def sources_section(ranked: list[dict], questions: list[dict], rows: dict[str, dict]) -> str:
+def sources_section(ranked: list[dict], questions: list[dict], rows: dict[str, dict],
+                    shared: set[str] = frozenset()) -> str:
     label = {q["id"]: q["label"] for q in questions}
     order = {q["id"]: i for i, q in enumerate(questions)}
     for qid in {q for doc in ranked for q in doc["questions"] if q.endswith("-A")}:
@@ -255,13 +256,15 @@ def sources_section(ranked: list[dict], questions: list[dict], rows: dict[str, d
              "often they came back (`scripts/chapter_sources.py`, 2026-09-26). A hit is a place to look: "
              "it says nothing about what the document holds for this chapter, and its rank is no measure. "
              "*Questions* names the questions above that returned it, and *A* the summary at the top; the line is where qmd's snippet of its "
-             "best passage stands.", "",
+             "best passage stands. A document marked *in most chapters* is in more than half the chapters' tables: "
+             "every chapter's questions return it, so it says little about this one.", "",
              "| # | document | date | category | questions | look at |",
              "|--:|---|---|---|---|---|"]
     for i, doc in enumerate(ranked, 1):
         row = rows.get(doc["slug"], {})
         asked = ", ".join(label[q] for q in sorted((q for q in doc["questions"] if q in label), key=order.get))
-        lines.append(f"| {i} | `{doc['slug']}` | {row.get('index_date', '—')} | "
+        mark = " · *in most chapters*" if doc["slug"] in shared else ""
+        lines.append(f"| {i} | `{doc['slug']}`{mark} | {row.get('index_date', '—')} | "
                      f"{row.get('category', '—')} | {asked} | L{doc['line']} |")
     return "\n".join(lines) + "\n"
 
@@ -321,6 +324,7 @@ def write() -> int:
     by_chapter = {}
     if HITS.exists():
         by_chapter = {r["chapter"]: r for r in map(json.loads, HITS.read_text(encoding="utf-8").splitlines())}
+    shared = {d["slug"] for d in across(by_chapter) if d["shared"]} if by_chapter else set()
     changed = 0
     for path in sorted(CHAPTERS.glob("kap-*.md")):
         text = path.read_text(encoding="utf-8")
@@ -333,7 +337,7 @@ def write() -> int:
         if about:
             new = with_about(new, about_section(about))
         if number in by_chapter:
-            new = with_section(new, HEADING, sources_section(by_chapter[number]["ranked"], questions, rows))
+            new = with_section(new, HEADING, sources_section(by_chapter[number]["ranked"], questions, rows, shared))
         raw_path = RAW / f"kap-{number:02d}.json"
         if raw_path.exists():
             new = with_section(new, RAW_HEADING, raw_section(json.loads(raw_path.read_text(encoding="utf-8")),
@@ -420,8 +424,11 @@ def selftest() -> int:
     questions = [{"id": "K3-01", "label": "B1", "tag": "Kausalität", "question": "Was führt aus Kapitel 2 in Kapitel 3?",
                   "shown": "Was führt aus Kapitel 2 in Kapitel 3?", "titles": []},
                  {"id": "K3-02", "label": "S1", "tag": "Storyform", "question": "Welche Storypoints trägt Kapitel 3?"}]
-    block = sources_section([{"slug": "u1", "line": 5, "questions": ["K3-02", "K3-01"]}], questions,
-                            {"u1": {"index_date": "2026-05-08", "category": "md"}})
+    block = sources_section([{"slug": "u1", "line": 5, "questions": ["K3-02", "K3-01"]},
+                             {"slug": "u2", "line": 6, "questions": ["K3-01"]}], questions,
+                            {"u1": {"index_date": "2026-05-08", "category": "md"}}, {"u2"})
+    if "| 2 | `u2` · *in most chapters* |" not in block or "`u1` ·" in block:
+        failures.append(f"sources_section: the shared mark: {block}")
     if "| 1 | `u1` | 2026-05-08 | md | B1, S1 | L5 |" not in block:
         failures.append(f"sources_section: {block}")
     page = "---\nchapter: 3\n---\n\n# Kap 3\n\n## Reading — `a`, 2026\n\nx\n\n## Where the sources differ\n\nNothing.\n"
