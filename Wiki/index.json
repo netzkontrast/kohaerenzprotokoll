@@ -75,10 +75,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 22,
-      "readings": 23,
+      "sources": 23,
+      "readings": 24,
       "conflict": "C1, C8, C14"
     },
     "alex": {
@@ -99,10 +100,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -124,10 +126,11 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "alters": {
@@ -153,10 +156,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 17,
-      "readings": 16,
+      "sources": 18,
+      "readings": 17,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -180,10 +184,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "archiv-des-ungesagten": {
@@ -218,10 +223,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none"
     },
     "ars": {
@@ -246,10 +252,11 @@
       "ingested": [
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "blinder-fleck": {
@@ -299,10 +306,11 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -342,10 +350,11 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -358,10 +367,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"
+        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "did": {
@@ -382,10 +392,11 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none yet"
     },
     "dkt": {
@@ -401,10 +412,11 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "kap0-v1-annotiert-md"
+        "kap0-v1-annotiert-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -451,10 +463,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kap0-v1-annotiert-md",
-        "koharenz-protokoll-kapitel-0-v2-md"
+        "koharenz-protokoll-kapitel-0-v2-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -516,10 +529,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C2"
     },
     "erason": {
@@ -533,10 +547,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "evaluierungseinheit": {
@@ -547,10 +562,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "externe-ebene": {
@@ -571,10 +587,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
-        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"
+        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -611,10 +628,11 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "genesis-klammer": {
@@ -665,10 +683,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "koharenz-protokoll-kapitel-0-v2-md"
+        "koharenz-protokoll-kapitel-0-v2-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 18,
+      "readings": 18,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -706,10 +725,11 @@
       "ingested": [
         "guardians-und-kern-welten-konzept",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -753,10 +773,11 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 19,
-      "readings": 19,
+      "sources": 20,
+      "readings": 20,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -776,10 +797,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "koharenz-protokoll-kapitel-0-v2-md"
+        "koharenz-protokoll-kapitel-0-v2-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C11"
     },
     "isabelle": {
@@ -799,10 +821,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C15"
     },
     "juna": {
@@ -832,10 +855,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 20,
-      "readings": 20,
+      "sources": 21,
+      "readings": 21,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -848,10 +872,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "k0-existenz": {
@@ -912,10 +937,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 20,
-      "readings": 20,
+      "sources": 21,
+      "readings": 21,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -935,10 +961,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
-        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"
+        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "none"
     },
     "kairos": {
@@ -957,10 +984,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -991,10 +1019,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 20,
-      "readings": 19,
+      "sources": 21,
+      "readings": 20,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1017,10 +1046,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -1056,10 +1086,11 @@
       "ingested": [
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -1094,10 +1125,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "koharenz-protokoll-kapitel-0-v2-md"
+        "koharenz-protokoll-kapitel-0-v2-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -1108,10 +1140,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "komponente-734": {
@@ -1166,10 +1199,11 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -1191,10 +1225,11 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "C11"
     },
     "lex": {
@@ -1218,10 +1253,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "none"
     },
     "lia": {
@@ -1242,10 +1278,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C15"
     },
     "logos": {
@@ -1266,10 +1303,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -1281,10 +1319,11 @@
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "mnemosyne": {
@@ -1307,10 +1346,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -1334,10 +1374,11 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "C5"
     },
     "moonshine-link": {
@@ -1361,10 +1402,11 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "none"
     },
     "moros": {
@@ -1386,10 +1428,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -1406,10 +1449,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -1436,10 +1480,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 18,
+      "readings": 18,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -1469,10 +1514,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "nichts-rauschen": {
@@ -1496,10 +1542,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "koharenz-protokoll-kapitel-0-v2-md"
+        "koharenz-protokoll-kapitel-0-v2-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -1536,10 +1583,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "C10"
     },
     "oblivion": {
@@ -1564,10 +1612,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 17,
+      "readings": 17,
       "conflict": "C11"
     },
     "ouroboros-struktur": {
@@ -1621,10 +1670,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "personas": {
@@ -1670,10 +1720,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "koharenz-protokoll-kapitel-0-v2-md"
+        "koharenz-protokoll-kapitel-0-v2-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -1701,10 +1752,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "residual-echos": {
@@ -1734,10 +1786,11 @@
         "guardians-und-kern-welten-konzept",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "rhys": {
@@ -1756,10 +1809,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "none"
     },
     "risse": {
@@ -1787,10 +1841,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 18,
+      "readings": 18,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -1828,10 +1883,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "selene": {
@@ -1852,10 +1908,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none"
     },
     "silas": {
@@ -1880,10 +1937,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 17,
+      "readings": 17,
       "conflict": "C11"
     },
     "snk": {
@@ -1913,10 +1971,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "C4, C6"
     },
     "system-monitor": {
@@ -1954,10 +2013,11 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none"
     },
     "therapie-schnittstelle-alpha": {
@@ -2012,10 +2072,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "koharenz-protokoll-kapitel-0-v2-md"
+        "koharenz-protokoll-kapitel-0-v2-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "C12"
     },
     "truth-rotation": {
@@ -2032,10 +2093,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none yet"
     },
     "tsdp": {
@@ -2097,10 +2159,11 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "koharenz-protokoll-kapitel-0-v2-md"
+        "koharenz-protokoll-kapitel-0-v2-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -2150,10 +2213,11 @@
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "vortex": {
