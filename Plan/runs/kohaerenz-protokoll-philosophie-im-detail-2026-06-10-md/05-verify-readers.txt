@@ -1,0 +1,173 @@
+dkt: grep -cw Dual-Kernel Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+coheron: grep -cw Liebe Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 3   (none makes love a Coheron: L459 „was Liebe heißt", L775 „Liebe" as a thing Anteile argue about)
+moonshine-link: grep -cw Moonshine-Link Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+nyx: grep -cw Knöchel Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+kiko: grep -cw Kiko Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+kiko: grep -cw Kikos Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2
+kiko: grep -cw Flight Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+moros: grep -cw Moros Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2
+rhys: grep -cw Rhys Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2
+alex: grep -cw Alex Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2
+silas: grep -w Silas Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md | grep -c -E 'Wärme|Hitze|Landauer|warm' -> 1
+silas: grep -c Spiegel Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+selene: grep -cw Selene Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+lia: grep -cw Lia Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+lia: grep -cw Flight Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+isabelle: grep -cw Isabelle Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+isabelle: grep -cw Flight Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+argus: grep -cw Argus Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 3
+oblivion: grep -cw Oblivion Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2
+oblivion: grep -w Oblivion Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md | grep -c -E 'Wärme|Hitze|Landauer|warm' -> 0
+mnemosyne: grep -cw Guardian Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+mnemosyne: grep -cw Guardians Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+nichts-rauschen: grep -cw Nichts-Rauschen Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+nichts-rauschen: grep -cw Rauschen Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+landauer-signatur, hitze-polaritaetsregel: grep -cw Landauer-Signatur Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+landauer-signatur, hitze-polaritaetsregel: grep -cw kalt Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+landauer-signatur, hitze-polaritaetsregel: grep -cw kaltes Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+landauer-signatur, hitze-polaritaetsregel: grep -cw Kälte Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+landauer-signatur, hitze-polaritaetsregel: grep -cw Polarität Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+juna: grep -c 'Kap 38' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2   (L180 Vortex 2 Kap 38–39, L731 the Mahayana row; neither names Juna)
+juna: grep -cw 'Julia' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+juna: grep -cw 'POV' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+juna: grep -cw 'Wärme' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 3   (L375, L445, L696 — each Juna's)
+algorithmische-melancholie: grep -c Reliquie Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c1-aegis-expansion: grep -cw 'Autonomous' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c1-aegis-expansion: grep -cw 'Gatekeeper' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c1-aegis-expansion: grep -cw 'Autogenic' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c2-entropie-sense: grep -cw 'Entropie' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c3-emergenz-origin: grep -cw 'Emergenz' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c3-emergenz-origin: grep -cw 'emergent' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+c3-emergenz-origin: grep -cw 'emergenter' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+c4-guardians-and-aegis: grep -cw 'Guardian' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c4-guardians-and-aegis: grep -cw 'Erasure-Pol' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c5-garten-scale: grep -cw 'Garten der Möglichkeiten' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c6-guardians-count-and-pairing: grep -cw 'Guardian' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c6-guardians-count-and-pairing: grep -cw 'LogOS' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c6-guardians-count-and-pairing: grep -cw 'Kairos' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c6-guardians-count-and-pairing: grep -cw 'Sophia' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c6-guardians-count-and-pairing: grep -cw 'Cerberus' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2
+c6-guardians-count-and-pairing: grep -cw 'Logos' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+c8-aegis-approach-storyform-b: grep -cw 'Do-er' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c8-aegis-approach-storyform-b: grep -cw 'Be-er' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c8-aegis-approach-storyform-b: grep -cw 'Approach' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+c10-knuckles-in-kap-1: grep -cw 'Knöchel' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw 'kalt' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw 'kalte' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw 'Kälte' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw 'warm' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c13-externe-ebene-beyond-the-simulation: grep -cw 'Externe' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c13-externe-ebene-beyond-the-simulation: grep -cw 'Basisrealität' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c13-externe-ebene-beyond-the-simulation: grep -cw 'Köln' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+c13-externe-ebene-beyond-the-simulation: grep -cw 'jenseits' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+c14-aegis-first-person-chapter: grep -cw 'Kap 5' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Kap 7' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Kap 8' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Hard-B' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Innensicht' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'POV' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'ich' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+c15-flight-riss-bearers: grep -cw 'Flight' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q1-guardians-and-aegis: grep -cw 'Guardian' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q1-guardians-and-aegis: grep -cw 'Erasure-Pol' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q1-guardians-and-aegis: grep -cw 'LogOS' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q1-guardians-and-aegis: grep -cw 'Kairos' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q1-guardians-and-aegis: grep -cw 'Sophia' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'ANI' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'ARS' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'ECR' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'PMS' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'RSA' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'SNK' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'ZTV' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'Nullpunkt' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'Re-Containment' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q2-protocol-terms-vocabulary-or-criticism: grep -cw 'zwölf' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q3-how-many-kern-welten-and-alters: grep -cw 'Alters' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q3-how-many-kern-welten-and-alters: grep -cw 'dreizehn' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q3-how-many-kern-welten-and-alters: grep -cw 'Alter' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+q4-waechter-four-bearers: grep -cw 'Wächter' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q4-waechter-four-bearers: grep -cw 'Wächterin' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q5-guardians-and-kern-welten: grep -cw 'Guardian' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q5-guardians-and-kern-welten: grep -cw 'Erasure-Pol' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q5-guardians-and-kern-welten: grep -cw 'LogOS' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q5-guardians-and-kern-welten: grep -cw 'Kairos' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+q5-guardians-and-kern-welten: grep -cw 'Sophia' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+trennungsprotokoll: grep -cw Trennungsprotokoll Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+kael: grep -cw 'Knöchel' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+ueberwelt: grep -cw Überwelt Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+ueberwelt: grep -c 'Innere Weite' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+ueberwelt: grep -c Simulation Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 3   (L121, L355 Simulationszyklen, L709)
+kael-julia-bindung: grep -cw 'Kael-Julia-Bindung' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+kael-julia-bindung: grep -cw 'K-J-Bindung' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+kael-julia-bindung: grep -cw 'Julia' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+junas-ankerpunkt: grep -cw 'Ankerpunkt' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+junas-ankerpunkt: grep -cw 'Köln' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+junas-ankerpunkt: grep -c 'Externe' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+telefon-stille: grep -cw 'Telefon-Stille' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2   (L375, L513)
+telefon-stille: grep -c 'Telefon' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2   (the same two lines)
+telefon-stille: grep -c 'Vortex-Quelle' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+konstrukt-stadt: grep -cw Konstrukt-Stadt Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2
+konstrukt-stadt, kern-welten: grep -cw Guardian Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+telefon-stille: grep -c 'K₁-Substrat' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+multiplizitaet: grep -c 'Multiplizität' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 10   (10 lines: L19 L64 L210 L400 L562 L566 L735 L749 L755 L798; no Kap 33 among them)
+multiplizitaet: grep -c 'Schleier' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+alters: grep -cw 'Alter' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1   (L528 only)
+alters: grep -cw 'Alters' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+alters: grep -cw 'Flight' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+alters: grep -cw 'Fight' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+alters: grep -c 'ANP' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 3   (L199 L210 L581; none in the §14.1 table)
+alters: grep -cw 'dreizehn' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+alters: grep -cw '13' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 10
+kern-welten: grep -c 'Resonanz-Landschaft\|Resonanzlandschaft\|Potentialis' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+moeglichkeits-garten: grep -c Möglichkeits-Garten Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2   (L451, L684)
+alters: grep -nw '13' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> L590–L607 only, the §13 headings; the document states no count of Anteile
+tsdp: grep -cw 'TSDP' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+tsdp: grep -c 'Phobie' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+tsdp: grep -c 'Tertiär' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+tsdp: grep -c 'IFS' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2   (L572 among FM's five ingredients, L632 Selene's row)
+kap-00: grep -c Genesis Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 5
+kap-00: grep -cw Genesis-4-Beat Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+kap-06: grep -c Steinbruch-Outline Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+kap-08: grep -c früheren Outline Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1
+kap-16: grep -c Diktatur Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2
+kap-30: grep -c Gödel-Gambit Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 3
+kap-35: grep -c Beat 1 Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+kap-35: grep -c ANP/EP-Barrieren Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2
+kap-36: grep -c Beat 4 Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+kap-38: grep -c Mahayana-Mitgefühl Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 3
+tsdp: grep -ci 'tertiär' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+risse: grep -c 'Riss' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 10   (10 lines: L177 L183 L213 L216 L271 L296 L307 L313 L358 L529)
+risse: grep -c 'Riss-Typ' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+risse: grep -cw 'Flight' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+risse: grep -c 'Re-Containment' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+risse: grep -ci 'trigger' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+genesis: grep -c 'Genesis' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 5   (L59 L464 L470 L693 L764; no beat is listed on any)
+genesis: grep -c 'Ursprungs-Ich' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+genesis: grep -cw 'Trennungsprotokoll' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1   (L229 only)
+aegis: grep -cw Autonomous Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+aegis: grep -cw Do-er Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+aegis: grep -cw Be-er Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+aegis: grep -cw Entropie Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+aegis: grep -cw Person Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1   (L64, „nicht eine Person, die mehrere spielt" — not about AEGIS)
+vortex: grep -c 'Beat 1' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+vortex: grep -c 'Beat 4' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+vortex: grep -ci 'heat' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+vortex: grep -c 'Vortex 2' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 5   (L127 L180 L183 L246 L434; no beat of Vortex 2 is named)
+komponente-734: grep -cw '734' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1   (L229 only)
+komponente-734: grep -cw 'Komponente' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1   (L229 only)
+goedel-gambit: grep -c 'Gödel-Gambit' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 3   (L293 L302 L723)
+goedel-gambit: grep -c 'Juna.*Gödel\|Gödel.*Juna' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0   (Juna is never a Gödel statement here; she is Ω (L324))
+genesis-klammer: grep -c 'Scherben' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+genesis-klammer: grep -c 'Wir tragen' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+genesis-klammer: grep -c 'Doppel-Klammer' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+genesis-klammer: grep -c 'Genesis-Klammer' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2   (L464 L470)
+ouroboros-struktur: grep -c 'Ouroboros' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 4   (L459 L460 L467 L738)
+ouroboros-struktur: grep -ci 'Telefon' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2   (L375 L513, neither in the Ouroboros section)
+kishotenketsu: grep -c 'Kishōtenketsu' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 2   (L598 L806, only in compounds)
+kishotenketsu: grep -c 'Reset' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 0
+kishotenketsu: grep -cw 'Ketsu' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1   (L807)
+chaitin-konstante: grep -c 'Chaitin' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 4   (L320 L327 L665)
+chaitin-konstante: grep -c 'Ω' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 5
+chaitin-konstante: grep -cw 'Kiko' Sources/drive/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md -> 1   (L637 row only; not Ω)
+chaitin-konstante: (correction to the line above: the four 'Chaitin' lines are L320 L321 L327 L665; the five 'Ω' lines are L320 L321 L324 L327 L665, all Juna's or the concept's)
