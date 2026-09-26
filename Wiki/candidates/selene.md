@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -98,3 +98,8 @@ A Wächterin stands in Kap 8, „Kael, Wächterin" ^[three-mode-architecture-39-
 
 The konsolidiertes Konzept's row, in the same words: „ANP | Selene (ISH) | Wormholes, Entanglement Islands | Hände entspannen | → Mediatorin" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L403].
 She belongs to neither trauma layer alone: „Schicht-übergreifend: Selene." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] — the only alter so placed; Schicht 1 has four and Schicht 2 eight (L431, L435). Nothing else in the document names Selene (`grep -cw Selene`: 2).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — IFS-Mediator, one table row
+
+In the figure table §14.1, which carries no label: „IFS-Mediator, Polanyi (tacit knowledge), Vor-Trennungs-Substrat (Śūnyatā-nah)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L632], DKT correlate „Wormholes / Entanglement Islands" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L633].
+Nothing else in the document names Selene (`grep -cw Selene`: 1).
