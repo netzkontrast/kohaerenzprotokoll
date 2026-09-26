@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -120,3 +120,10 @@ The next line is the prologue's last: „Ich falle… in unzählige Scherben…"
 
 „Spiegel-Alters (Silas = Coheron-Echo, Oblivion = Erason-Operator) → Bridge-natürlich, beide Storyforms simultan" ^[three-mode-architecture-39-chapters-md.md:L137]
 In Part 3: „Spiegel-Alter-Szenen (Silas in Kap 31 oder 32, Oblivion in Kap 32 oder 33)" ^[three-mode-architecture-39-chapters-md.md:L372].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — AEGIS' end of the vertical axis
+
+On the axis of the DKT's „Charakter-Inkarnationen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L120] (L120–L156) he stands on the temporal side with [[aegis|AEGIS]]: „Oblivion ◄──Protokoll──► AEGIS" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L132], marked „(Erason-Operator)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L136], in the column of „Löschung · Vergessen · Kontrolle" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L144] that ends „IST AEGIS' Architektur" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L152].
+„Diese Achse ist die *vertikale* Symmetrieebene des Romans. Sie kreuzt sich orthogonal mit der ANP/EP-Achse (horizontale Trauma-Spaltung) — und im Klimax bricht beides gleichzeitig zusammen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L156]
+The konsolidiertes Konzept's row, in the same words: „Spiegel | Oblivion (AEGIS-Echo) | Erason-Operator | offen | Automat (I) → Bewusstsein (II) → Entscheidung (III)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L411]. From the second trauma layer (L435). His somatic filter is open: „Lia, Isabelle, Argus, Silas, Oblivion — Filter offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L895]
+No line that names Oblivion names warmth, heat or Landauer (C11). The document has no section on the two mirror alters, where the konsolidiertes Konzept has its V.4 (`grep -c Spiegel-Alter`: 0).
