@@ -1,7 +1,7 @@
 ---
 step: extract
-version: 15
-covers_documents: 9
+version: 16
+covers_documents: 11
 new_findings_last_document: 1
 ---
 
@@ -144,6 +144,10 @@ wraps is judged by its first line alone.
 - Does the document restate *other* documents — an index of locks, a list of
   sources with dates? That is this document's claim about them, not their text.
 
+- Does the text **render** a thing without its word — a smell for a signature, a handset and a
+  silence for a named motif, „the evenings" for a person? The word counts zero and the thing is
+  there. List what the text writes, count the word it does not write into `05-verify.txt`, and
+  leave the identification to the reading, which says it is its own.
 - Will you say something is **absent**? „No ozone", „nothing cold" — an absence cannot
   be quoted, so `quotes.py` never checks it. Count every word the claim names, with a
   word boundary, into `05-verify.txt`, including the adjective (`kalt`) as well as the
@@ -170,7 +174,8 @@ wraps is judged by its first line alone.
   „2" means two different things in two tables?
 - Is every candidate written as *this* document writes it? A `0 word 0 in` after
   a reading is a name that came from somewhere else — memory of another source is
-  the easiest contamination to miss.
+  the easiest contamination to miss. A `## lens` section is where it slips in most easily: a
+  framework's name the document never writes. `grep -cw` each lens term before the count.
 
 **Export damage — what did the conversion do?**
 

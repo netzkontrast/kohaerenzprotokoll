@@ -3,23 +3,23 @@
   "by": "scripts/state.py",
   "measurements": {
     "chapters.missing": {
-      "value": 92,
+      "value": 96,
       "how": "a read document naming `Kap N` singly with no reading on that chapter's page, scripts/chapters.py"
     },
     "chapters.readings": {
-      "value": 399,
+      "value": 404,
       "how": "`## Reading` sections across the chapter pages, one per document per chapter"
     },
     "documents.reconciled": {
-      "value": 27,
+      "value": 29,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 27,
+      "value": 29,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 27,
+      "value": 29,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -39,19 +39,19 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 2653,
+      "value": 2704,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 4904,
+      "value": 5109,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 4904,
+      "value": 5109,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 157,
+      "value": 159,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
@@ -107,7 +107,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 11910,
+      "value": 12516,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -175,7 +175,7 @@
       "how": "landed files that do not open with the eight lines of provenance"
     },
     "sweep.decided": {
-      "value": 48,
+      "value": 50,
       "how": "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence"
     },
     "sweep.open": {
@@ -183,7 +183,7 @@
       "how": "sweep hits in read documents that no reading and no ledger row settles \u2014 decision 012"
     },
     "sweep.readings": {
-      "value": 28,
+      "value": 29,
       "how": "of those, readings the lookup had missed, now on their pages"
     },
     "trainset.fold_baseline_pct": {
@@ -191,7 +191,7 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 23,
+      "value": 25,
       "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {
@@ -207,7 +207,7 @@
       "how": "conflict records counted by the derived Wiki/index.json"
     },
     "wiki.open_statements": {
-      "value": 233,
+      "value": 234,
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
@@ -223,11 +223,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 525,
+      "value": 527,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 360,
+      "value": 361,
       "how": "a page's term written in another page's prose without being marked a link"
     },
     "wiki.zero_readings": {
