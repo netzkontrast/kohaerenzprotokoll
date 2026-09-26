@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -66,3 +66,10 @@ The writer checks one word against it: „Der Begriff *Information* ist semi-tec
 „Die Realität entsteht aus der Spannung zwischen beiden Kerneln." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L63] — K₁ and K₀, carried by [[coheron|Coheronen]] and [[erason|Erasonen]] (L55, L59).
 „Die DKT hat Charakter-Inkarnationen:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L120] — the Korrelat-Achse, and a `DKT-Korrelat` column for all thirteen Alters (L398–L411). „Junas DKT-Korrelat ist Coheron — sie ist die atemporale Bindung, nicht ihre Trägerin." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L291] The phone call is where it meets the rest: „Hier fallen DKT, Wahrheitstheorie und Witness-Funktion zusammen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L358].
 For the prose: „Erste 50 Seiten: null DKT-Terminologie. Konzepte arbeiten unter der Oberfläche." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L758] Every scene carries it as a level: „DKT-Ebene — Coheron/Erason-Status, η-Bewegung, Hitze-Bilanz." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L933]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the physics as what the body carries, and a column of correlates
+
+The catalogue does not define the theory — it never writes its long name (`grep -cw Dual-Kernel` 0) — and names `DKT` only as material its somatic filter translates, in its Merleau-Ponty section, labelled `[V]`: „Substrat des somatischen Filters." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L196] „Jeder DKT-Begriff wird zu Körper." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L196] „Landauer → Hitze, Ozon, Schweiß." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L196] „Das ist Merleau-Ponty in Drafting-Form." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L196]
+Its character table gives each figure a column „DKT-Korrelat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L618] beside its philosophical school — from [[kael|Kael]]'s „Hubble-Volumen / Big Rip" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L621] to [[aegis|AEGIS]]' „Erason-Architektur" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L660] and [[juna|Juna]]'s „Coheron / Zeit-Prinzip" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L666]; [[mnemosyne|Mnemosyne]]'s cell is a dash (L663).
+One of its open questions: „Ist Bohmsche Implizite Ordnung mit DKT kompatibel?" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L800] — „[V] — möglich, nicht verankert" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L801].
+The first of the three sentences it closes on as substrate of every scene: „Was AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L820], glossed „(Śūnyatā in DKT-Form)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L820].
