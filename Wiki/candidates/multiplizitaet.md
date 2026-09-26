@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-16"
 ---
 
@@ -150,3 +150,12 @@ And asks whether the Wir's structural presence already does: „Oder lüftet sch
 
 „Schleier-Disziplin: erst ab \~Kap 8–10 erste explizite Hinweise, vor Kap 13 keine Klartext-Diagnose." ^[three-mode-architecture-39-chapters-md.md:L171] The exit condition of Part 1: „Multiplizitäts-Schleier hält bis \~Kap 10, bricht kontrolliert auf" ^[three-mode-architecture-39-chapters-md.md:L212].
 At the end of Part 2: „Multiplizität ist jetzt offen benannt, nicht mehr Schleier" ^[three-mode-architecture-39-chapters-md.md:L295]. Kap 38: „MC-Concern: Funktionale Multiplizität gesichert" ^[three-mode-architecture-39-chapters-md.md:L343]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — never fusion, reached in KW4
+
+„Funktionale Multiplizität, *niemals* Fusion." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L419] „Das ist *Strange-Attractor*-Form, nicht Erlösungsform." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L419]
+It is Kael's arc in the roster, „→ Fraktalität / Funktionale Multiplizität" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L399], and a philosophical position: „Funktionale Multiplizität ist die Synthese: methodologischer Kohärentismus + ontologischer Realismus" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L719].
+It has a world and a chapter. KW4: „Hier wird die Funktionale Multiplizität eingeübt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586] Its garden: „Hier wird die Funktionale Multiplizität als Erlebnis (nicht als Konzept) erreicht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618] In the storyweaving plan, „FM-Achievement Ch33." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L954]
+The veil before it: „Erste 13 Kapitel: Multiplizitäts-Schleier hält." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378] and „Multiplizitäts-Schleier hält bis Ch13." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496]
+What it is not: „Funktionale Multiplizität ist kein Heilwerden. Kael bleibt am Ende dreizehn." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L877]
+The Wir it becomes speaks in KW4 and Akt III: „Erste Wir-Stimme." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L602] „chorisch. Wir-Stimme tritt auf." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L767] Its resolution paragraph stops before the konsolidiertes Konzept's sentence on Kap 39 (`grep -c Wir-AEGIS`: 0).
