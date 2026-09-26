@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 15
+sources: 16
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -197,3 +197,10 @@ The author's decision for five (2026-09-24) stands; this is one more source for 
 No pairing, but presence: „Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] „Mnemosyne dominiert klar in KW2; der Erasure-Pol durchwirkt KW1 und KW3." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
 Its own rank: „Diese Datei dient als operative Referenz, nicht als Source-of-Truth." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968]
 The konsolidiertes Konzept's account in its words, on its date: row 3's side, two and no pairing. Recorded after the author's decision for five of 2026-09-24; it changes nothing in that decision, and what it says of the old drafts is its claim.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**No count and no pairing — it never writes `Guardian`; [[mnemosyne|Mnemosyne]] stands among its figures, and the older bearers' names only in the worlds' names.**
+`Guardian`, `LogOS`, `Kairos` and `Sophia` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/05-verify.txt`). Mnemosyne is a row of the figure table, between [[aegis|AEGIS]] and [[juna|Juna]]: „Erinnerungs-Bewahrer; Rorty-Versuchung (Wahrheit als Anpassung); Tragik des unverstandenen Trägers" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L662]; her temptation is referred to another document, „Mnemosynes Versuchung (siehe Welt-Doku §8)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L104] — the document's claim about it.
+The worlds: „KW1 (Konstrukt-Stadt / Logos-Prime) ist das Phaenomena-Reich." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118]; „KW2 Mnemosyne-Archipel" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L676]; „KW3 Cerberus-Labyrinth" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L680]; „KW4 Möglichkeits-Garten" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L684]. `Cerberus` stands only in that compound, `Logos` only in `Logos-Prime`; each world is mapped to schools of philosophy, none to a bearer.
+Row 3's world names, and neither row's count. The author's decision for five (2026-09-24) stands; this changes nothing in it.
