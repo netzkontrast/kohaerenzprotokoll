@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 18
+sources: 19
 pages: ["aegis"]
 ---
 
@@ -148,3 +148,11 @@ The one directive it gives: „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE
 Its open decision: „Soll der Name — und das Log-Format — irgendwo in Akt II leserseitig freigegeben werden, und wenn ja, ab welchem Kapitel?" ^[2026-09-14-kap25-vertiefung-md.md:L55]
 `ich` stands 0 times and `Ich` once, in the old Kap 25's „Ich tue nichts" ^[2026-09-14-kap25-vertiefung-md.md:L21], the non-action the revision gives a body — not [[aegis|AEGIS]]'. `Kap 5`, `Kap 7`, `Kap 8`, `Hard-B`, `Innensicht` and `Person` stand 0 times (`05-verify-readers.txt`).
 It speaks to this record only through the voice it reports for AEGIS after Kap 5–8: directives, neither the logs of row 2 nor an inner view. On a first-person chapter it says nothing, and it stands on no row.
+
+## 2026-09-26 — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file
+
+**The system unnamed and without an inside — capital-letter lines only, which the first person reads as a finding — and „keine AEGIS-Personalisierung" ^[kp-kap25-2026-09-14-md.md:L44] as the chapter's rule.**
+The apparatus: „Kein Manifest, keine Drohung, keine AEGIS-Personalisierung." ^[kp-kap25-2026-09-14-md.md:L44] · „Das Kapitel ist ausdrücklich nicht die Konfrontation mit AEGIS." ^[kp-kap25-2026-09-14-md.md:L28] · „Der Apparat wartet korrekt auf Eingabe." ^[kp-kap25-2026-09-14-md.md:L28]
+The prose gives the system three lines in capitals: „BESTAND 734-A-0244. WOHNEINHEIT 734, NOTIZFLÄCHE, INHALTSERFASSUNG." ^[kp-kap25-2026-09-14-md.md:L56] · „SCHICHT 734 ABGESCHLOSSEN. ÜBERTRAG: 31." ^[kp-kap25-2026-09-14-md.md:L211] · „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[kp-kap25-2026-09-14-md.md:L217]; the first person on the last: „Es ist keine Warnung. Es ist eine Feststellung" ^[kp-kap25-2026-09-14-md.md:L219].
+`AEGIS` stands 3 times in the apparatus and 0 in the prose; `Innensicht`, `Hard-B` and `Person` 0 (`05-verify.txt`, `05-verify-readers.txt`). The prose's `Ich` (37) and `ich` (35) are the narrator's, never the system's.
+It speaks to this record only through the voice it gives the system in Kap 25: directives, neither row 2's logs nor an inner view. On a first-person chapter in Kap 5–8 it says nothing, and it stands on no row.
