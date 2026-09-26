@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -184,3 +184,10 @@ Restated among its open points: „Genesis 4. Beat? Aktuell drei Beats. Verifika
 What came of it: „AEGIS ist Kaels eigene Abwehrarchitektur, die zur Welt geworden ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L188] In Storyform A it is [[juna|Juna]]'s ground as IC: „die Genesis-Krise ist ihr Wirkungsraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L304].
 
 The character bible's and the master report's count and order — three beats, [[trennungsprotokoll|Trennungsprotokoll]] then [[komponente-734|Komponente 734]] — with the stranger named Juna in beat 2, where the master report leaves the first beat's other party unnamed. It places no beat in a chapter: no Kap 0, no flashback chapters, no Wir-AEGIS-plural (`Kap 0` 0, `Flashback` 0, `Wir-AEGIS` 0; `05-verify.txt`, `05-verify-readers.txt`). Its double trauma tells the separation a second time with Juna as the Ursprungs-Ich split off (L435) — the glossary's gloss of 2026-06-10, kept as two terms (J68); the document does not relate the two tellings. Conflict C12.
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — four beats named and none given, Kap 0 as an ontological gesture
+
+It names the Genesis five times and tells none of it (`05-verify-readers.txt`). A count without a list: „Genesis-4-Beat: was als Trauma erscheint, ist die Bedingung von Werdung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L764] — the sixth of its synthesis movements, „Von Trennung als Tragödie zur Trennung als Bedingung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L764], closing on „Die Trennung war nie real. Aber das ändert nichts am Schmerz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L764] (C12: four beats, as a name).
+Kap 0 in its chapter table: „Genesis-Krise als ontologische Geste, Autopoiesis (Maturana/Luhmann)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L693], function „Substrat-Setzung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L694]. The flashbacks, among the places of correspondence theory: „Wo im Roman. EP-Domänen, KW2 (Erinnerung als Schauplatz), Genesis-Flashbacks (Kap 18–22)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L59]
+The frame: „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]
+Of the component it says only that „Kael ist Komponente 734, in einer Welt geworfen, die das Trennungsprotokoll erzeugt hat." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L229] — the separation made the world he is thrown into; it gives no beat for the component and no Ursprungs-Ich (`05-verify-readers.txt`).
