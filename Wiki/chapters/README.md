@@ -31,6 +31,20 @@ Position: „Heldinnenreise innen“ ^[koharenz-protokoll-strukturierter-outline
   `[L]` says so beside its citation. A document that is a proposal says so in
   its reading's heading.
 
+## Navigation, after the readings
+
+Two sections follow `## Where the sources differ`, and neither is a reading:
+
+- `## Questions for this chapter` — eight basic questions every author asks of
+  a chapter, then the chapter's own, written against GOAL.md §4.5 and §5 before
+  any search (`Plan/runs/qmd-chapters-2026-09-26/`).
+- `## Candidate sources — unread, ranked by qmd` — the landed documents with no
+  census that a vector search for those questions returned, and which
+  questions returned each. A place to look, never a claim or a number.
+
+`scripts/chapter_sources.py write` replaces both whole. They carry no quotation
+and no citation, so `chapters.py` and `quotes.py` see nothing in them.
+
 ## Frontmatter
 
 ```yaml

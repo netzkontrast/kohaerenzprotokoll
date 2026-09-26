@@ -20,7 +20,7 @@ two sections this writes say so, carry no quotation and no citation, and are
 replaced whole on every run: navigation, not readings.
 
     python3 scripts/chapter_sources.py run [--keep 12] [--only 7,12]   # ask, write hits.jsonl
-    python3 scripts/chapter_sources.py write                           # both sections on every page
+    python3 scripts/chapter_sources.py write                           # the questions, and the sources once asked
     python3 scripts/chapter_sources.py run --terms [--keep 12]         # every term page, to terms.jsonl only
     python3 scripts/chapter_sources.py selftest
 """
@@ -132,7 +132,9 @@ def basic(number: int, text: str) -> list[dict]:
         if not titles:
             question = question.replace(" ({titel})", "")
         out.append({"id": f"K{number}-{q['id']}", "label": q["id"], "tag": q["tag"],
-                    "question": question.format(**fill)})
+                    "question": question.format(**fill),
+                    "shown": q["template"].replace(" ({titel})", "").format(**fill),
+                    "titles": titles})
     return out
 
 
@@ -170,14 +172,16 @@ def run(keep: int, only: set[int] | None) -> int:
 
 
 def questions_section(number: int, questions: list[dict]) -> str:
+    basics = [q for q in questions if q["label"].startswith("B")]
     lines = [ASKED, "",
              "What a reader of this chapter's sources should be looking for, asked before any search. "
              "Questions, not readings: none is answered here.", "",
              "### Basic — what every author asks of a chapter", "",
-             "The same eight for every chapter, filled with its number and titles "
-             "(`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`).", ""]
-    lines += [f"- **{q['label']}** *{q['tag']}* — {q['question'].strip()}"
-              for q in questions if q["label"].startswith("B")]
+             "The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`)."
+             + (" Asked of the search with the titles the readings give this chapter: "
+                + " / ".join(f"*{t}*" for t in basics[0]["titles"]) + "." if basics and basics[0]["titles"] else ""),
+             ""]
+    lines += [f"- **{q['label']}** *{q['tag']}* — {q['shown'].strip()}" for q in basics]
     lines += ["", f"### Specific to Kap {number}", "",
               "Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, "
               "Dramatica and craft, going beyond the basic eight "
@@ -220,16 +224,19 @@ def with_section(text: str, heading: str, block: str) -> str:
 
 def write() -> int:
     rows = manifest()
-    by_chapter = {r["chapter"]: r for r in map(json.loads, HITS.read_text(encoding="utf-8").splitlines())}
+    by_chapter = {}
+    if HITS.exists():
+        by_chapter = {r["chapter"]: r for r in map(json.loads, HITS.read_text(encoding="utf-8").splitlines())}
     changed = 0
     for path in sorted(CHAPTERS.glob("kap-*.md")):
         text = path.read_text(encoding="utf-8")
         number = int(frontmatter(text).get("chapter"))
         questions = load_questions(number, text)
-        if number not in by_chapter or not questions:
+        if not questions:
             continue
         new = with_section(text, ASKED, questions_section(number, questions))
-        new = with_section(new, HEADING, sources_section(by_chapter[number]["ranked"], questions, rows))
+        if number in by_chapter:
+            new = with_section(new, HEADING, sources_section(by_chapter[number]["ranked"], questions, rows))
         if new != text:
             path.write_text(new, encoding="utf-8")
             changed += 1
@@ -291,7 +298,8 @@ def selftest() -> int:
     if [d["slug"] for d in fused] != ["b", "a", "c"] or fused[0]["questions"] != ["q1", "q2", "q3"] \
             or fused[0]["line"] != 5:
         failures.append(f"fuse: a document three questions return must rank first, at its best line: {fused}")
-    questions = [{"id": "K3-01", "label": "B1", "tag": "Kausalität", "question": "Was führt aus Kapitel 2 in Kapitel 3?"},
+    questions = [{"id": "K3-01", "label": "B1", "tag": "Kausalität", "question": "Was führt aus Kapitel 2 in Kapitel 3?",
+                  "shown": "Was führt aus Kapitel 2 in Kapitel 3?", "titles": []},
                  {"id": "K3-02", "label": "S1", "tag": "Storyform", "question": "Welche Storypoints trägt Kapitel 3?"}]
     block = sources_section([{"slug": "u1", "line": 5, "questions": ["K3-02", "K3-01"]}], questions,
                             {"u1": {"index_date": "2026-05-08", "category": "md"}})
