@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -126,9 +126,17 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 - Leitmotiv: „Mosaik als Tätigkeit, nicht als Wort“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Mosaik-Akzeptanz]`)
 - Idea 3: „11 (Mosaik-Ordnung der Kiste)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60]
 
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Jaspers' Grenzsituation
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Theory anchor: „Kanonisch verortet in Kap 11 (Akzeptanz der Komplexität / Mosaik des Selbst)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188] · „Jaspers' Grenzsituationen sind die Katalysatoren der Erkenntnisgenese.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188] (§3.3 Jaspers, marked `[K]`)
+- Theory anchor: „Jaspers — Grenzsituationen“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L714] · function „Akzeptanz der Komplexität“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L715] (§14.3)
+- Drafting, of every Grenzsituation (Kap 11 and Kap 33): „Grenzsituationen sind nicht Action-Sequenzen. Sie sind die Stelle, an der Kael nicht mehr fliehen kann.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L191] · „Stilebene 2/3-Übergang.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L191] (§3.3)
+
 ## Where the sources differ
 
-- **Title.** „Mosaik des Selbst“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L487] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept, storyform outline) · „Akzeptanz der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (Kapitel-Kompendium). The Kompendium's title is the strukturierter Outline's stage name: „HR-Erweiterung 2: Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489] (strukturierter Outline).
+- **Title.** „Mosaik des Selbst“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L487] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept, storyform outline) · „Akzeptanz der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (Kapitel-Kompendium). The Kompendium's title is the strukturierter Outline's stage name: „HR-Erweiterung 2: Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489] (strukturierter Outline). The philosophy catalogue joins both, „Akzeptanz der Komplexität / Mosaik des Selbst“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188], and its table gives the first alone, „Akzeptanz der Komplexität“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L715].
 
 ## Questions for this chapter
 
