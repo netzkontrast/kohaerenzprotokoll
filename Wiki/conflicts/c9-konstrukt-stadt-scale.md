@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 11
+sources: 12
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -109,3 +109,7 @@ decision; nothing to change.
 **KW1, as decided.**
 „VI.2 KW1 — Die Konstrukt-Stadt (Logos-Prime)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L455]; „KW1 dominiert Akt I (Ch1–13)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496]
 The premise calls its city a simulation — „Ein Mann erwacht in einer sterilen Stadt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29] … „Die Stadt ist eine Simulation." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29] — without saying the city is the whole of it. Agrees with the author's decision; nothing to change.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**KW1, as decided.** „KW1 (Konstrukt-Stadt / Logos-Prime) ist das Phaenomena-Reich." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118] In the world table: „KW1 Konstrukt-Stadt" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L672]. Agrees with the author's decision; nothing to change.
