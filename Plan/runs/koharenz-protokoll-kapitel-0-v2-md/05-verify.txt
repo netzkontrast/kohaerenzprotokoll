@@ -40,3 +40,12 @@ $ grep -cwi kälte: 2  lines: 479 611
 ## the component's number
 $ grep -nE '[0-9]{3}' outside the status blocks: the component's number is not written
 (no three-digit number beginning 7)
+
+## counts the page readers added (grep -cw, word boundary), 2026-09-26
+$ grep -cw 'Erzähler': 0  lines: 
+$ grep -cw 'Vermittler': 0  lines: 
+$ grep -cw 'Überwelt': 0  lines: 
+$ grep -cw 'Innere Weite': 0  lines: 
+$ grep -cw 'Weite': 2  lines: 39 71 
+$ grep -cw 'Wärme': 0  lines: 
+$ grep -cw 'Hitze': 0  lines: 

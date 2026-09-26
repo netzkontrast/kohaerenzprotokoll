@@ -1,0 +1,307 @@
+{
+ "document": "koharenz-protokoll-kapitel-0-v2-md",
+ "drive_id": "1ftsdsTrOoMllnNmJEsFqfK25shnNs-8Uu06BgyTXpu8",
+ "step": "reconcile",
+ "at": "2026-09-26",
+ "by": "hand, after scripts/reconcile.py pre-classification; page readings written by three Claude readers in the container from a brief, checked and committed by the session",
+ "state_before": {
+  "pages": 106,
+  "conflicts": 15
+ },
+ "state_after": {
+  "pages": 106,
+  "conflicts": 15
+ },
+ "pre_classification": {
+  "candidates": 144,
+  "decisions": 149,
+  "decided_by_lookup": 99,
+  "needs_judgement": 50
+ },
+ "new_terms": [],
+ "why_no_new_terms": "A narrative text of Kap 0 — research, by the author (2026-09-26) — with no apparatus and no named figure. What matched no page are its section titles, the system's status-block fields (read on aegis-metriken), and the narration's images and phrases; the text defines none of them as a thing of the novel's world, and a page from them would be a page from an occurrence",
+ "new_readings": [
+  {
+   "page": "genesis",
+   "lines": [
+    13,
+    57,
+    193,
+    235,
+    251,
+    591,
+    627,
+    635,
+    639
+   ],
+   "attribution": "narrative text",
+   "note": "the Genesis by its own headings, no count, no names"
+  },
+  {
+   "page": "formel-inversion",
+   "lines": [
+    211,
+    215
+   ],
+   "attribution": "narrative text",
+   "note": "the first sentence in the third person neuter, „Es ist“; lead extended"
+  },
+  {
+   "page": "komponente-734",
+   "lines": [
+    235,
+    239,
+    243,
+    591
+   ],
+   "attribution": "narrative text",
+   "note": "a component with a number withheld, and a component eliminated; the lead's „sources agree it becomes Kael“ narrowed to the sources that name Kael"
+  },
+  {
+   "page": "genesis-klammer",
+   "lines": [
+    23,
+    39,
+    47,
+    123,
+    283,
+    627,
+    635,
+    639
+   ],
+   "attribution": "narrative text",
+   "note": "the Wir, the shards, and a coda after them; lead: the two drafts write `Klammer` alone"
+  },
+  {
+   "page": "trennungsprotokoll",
+   "lines": [
+    447,
+    451,
+    555,
+    563,
+    571,
+    575,
+    583,
+    587,
+    591,
+    595,
+    599,
+    603,
+    607,
+    611,
+    627
+   ],
+   "attribution": "narrative text",
+   "note": "KOH\\_1.0 from both sides"
+  },
+  {
+   "page": "residual-echos",
+   "lines": [
+    227,
+    239,
+    319,
+    383,
+    391,
+    451,
+    567,
+    587,
+    603
+   ],
+   "attribution": "narrative text",
+   "note": "the name in the system's register; lead's „only the Kap-0 draft“ corrected — two texts of one date"
+  },
+  {
+   "page": "nichts-rauschen",
+   "lines": [
+    311,
+    315,
+    371
+   ],
+   "attribution": "narrative text",
+   "note": "indexed by the system, distorted by the Entität"
+  },
+  {
+   "page": "potentialmeer",
+   "lines": [
+    311,
+    335,
+    371
+   ],
+   "attribution": "narrative text",
+   "note": "the substrate, and where the stranger comes from"
+  },
+  {
+   "page": "aegis-metriken",
+   "lines": [
+    295,
+    299,
+    319,
+    355,
+    359,
+    423,
+    459,
+    531,
+    535,
+    539,
+    543
+   ],
+   "attribution": "narrative text",
+   "note": "the status blocks of a system never called AEGIS"
+  },
+  {
+   "page": "blinder-fleck",
+   "lines": [
+    279,
+    423,
+    427
+   ],
+   "attribution": "narrative text",
+   "note": "H4 without a type, no Qualia, and the Dazwischen's question of feeling"
+  },
+  {
+   "page": "vermittler-stimme",
+   "lines": [
+    19,
+    23,
+    39,
+    47,
+    51,
+    271,
+    279,
+    283,
+    287
+   ],
+   "attribution": "narrative text",
+   "note": "a Wir with no name, addressing „Sie“, ending at the Dazwischen"
+  },
+  {
+   "page": "ueberwelt",
+   "lines": [
+    247,
+    251,
+    255,
+    259,
+    263
+   ],
+   "attribution": "narrative text",
+   "note": "the inner simulation, unnamed — placed by what it states"
+  },
+  {
+   "page": "kohaerenz",
+   "lines": [
+    299,
+    359,
+    459,
+    555,
+    611
+   ],
+   "attribution": "narrative text",
+   "note": "the principle kept, a number, the protocol's name"
+  },
+  {
+   "page": "emergenz",
+   "lines": [
+    119,
+    143,
+    159,
+    203,
+    335
+   ],
+   "attribution": "narrative text",
+   "note": "the word for the stranger, and the system's coming-to-be without it"
+  },
+  {
+   "page": "hitze-polaritaetsregel",
+   "lines": [
+    83,
+    99,
+    135,
+    183,
+    431,
+    435,
+    507,
+    607,
+    611
+   ],
+   "attribution": "narrative text",
+   "note": "warmth, heat and cold, unassigned"
+  }
+ ],
+ "new_surfaces": [],
+ "new_conflicts": [],
+ "conflicts_changed": [
+  "C3",
+  "C7",
+  "C10",
+  "C11",
+  "C12",
+  "C14"
+ ],
+ "questions_changed": [],
+ "records_read_and_not_changed": {
+  "C1": "AEGIS not written",
+  "C2": "`Entropie` does not stand in it",
+  "C4": "no Guardian",
+  "C5": "no Garten",
+  "C6": "no Guardian",
+  "C8": "no Dramatica terms",
+  "C9": "no Konstrukt-Stadt",
+  "C13": "no Basisrealität or Externe Ebene",
+  "C15": "no Flight, no alter",
+  "Q1": "no Guardian",
+  "Q2": "`Protokoll` names the Kohärenz Protokoll and KOH\\_1.0 only",
+  "Q3": "no Kernwelt, no alter",
+  "Q4": "no Wächter",
+  "Q5": "no Guardian, no Sophia"
+ },
+ "judgements": [
+  "J97"
+ ],
+ "decided_by_existing_rules": "section titles and their subjects (Genesis der Existenz, Herz der Leere, Perturbation aus der Leere) placed on the subject's page (J76); compounds with a page surface as modifier (Kohärenzfeld, Kohärenzmetriken, Mikro-Inkohärenzen, Paradoxon der Fehlausgerichteten Kohärenz) placed by what the passage states (J62); Kohärenz Protokoll the title and a protocol, not the property (J9, J57); Rauschen / Nichts-Rauschen / Grundrauschen, Echos / Residual-Echos / Herkunfts-Echos, Signatur / fremde Signatur, Resonanzen / entropie-resonanz, Bindung / kael-julia-bindung, Einheit / evaluierungseinheit, Grenze / grosse-mauer a shared head is not a shared referent (J53); Pulszyklen / Pulszyklus a plural (J56); Kohärenz Protokoll / Kohärenz Protokolls, minimale / minimalen Selbst, operationale / operationalen Geschlossenheit case endings (J97)",
+ "not_read_although_looked_up": {
+  "did": "`Fragment` and `Entität` — substring; the separation's „Verlust der Handlungsfähigkeit“ (L603) is not called dissociation",
+  "sektor-04": "`Sektor 4` is a memory sector emptied by the sweep (L595), not the place",
+  "landauer-signatur": "`Landauer` 0 (05-verify)",
+  "archiv-der-grenzen": "`Grenze` is the system's border — substring",
+  "entropie-signatur": "`Signatur` is a fragment's resonance signature (J53)",
+  "aegis": "the system is never named AEGIS (05-verify); its readings went to the pages of what the passages state",
+  "juna": "the Entität is never named (05-verify)",
+  "kael": "no name; the coda's Ich (L635–639) is not attributed",
+  "nyx": "the knuckle line has no speaker (L607)"
+ },
+ "not_promoted": [
+  "the section titles — Das Rauschen … Trennungsprotokoll, Dazwischen: headings of this text, placed on their subjects' pages",
+  "the status-block fields — SYSTEM-STATUS, ANOMALIEN, SWEEP, PARADOX, MASSNAHME, WARNUNGEN, RÜCKKOPPLUNG-VEKTOR, SELBSTORGANISATION, RESIDUAL\\_BAND\\_4–6, HYPOTHESEN-RANK, H1–H4: read on aegis-metriken and blinder-fleck",
+  "the Genesis' images — Funke, Triade, Triade Sieben, Cluster, Sog, Klick, fallendes Glas, kalte Schicht, Motoren der Negation: read on genesis and formel-inversion, no page",
+  "the inner space's words — Labor nach innen, Binnen-Physik, inneren Konstrukt: read on ueberwelt (J95's alias rule not extended: the text uses neither name)",
+  "the system's words — Funktionseinheit, Bilanzführung, Grenzwacht, Residual-Träger, Partitionierung, System-Reboot, Sensorphalanx: read on komponente-734, trennungsprotokoll and residual-echos",
+  "the lens — Parmenides, aktiven Vakuum, Śūnyatā, autopoietische Selbstorganisation, operationale Geschlossenheit: pictures the text sets aside or applies, not the world's",
+  "the coda's words — Kacheln, Einundzwanzig Grad, Korridor: an unnamed Ich, no heading, no chapter"
+ ],
+ "sweep": {
+  "hits": 1,
+  "readings": 1,
+  "occurrences": 0,
+  "note": "Genesis L13, the title (reading on genesis from the text)"
+ },
+ "found_by_rule_not_by_census": [
+  "genesis (sweep)",
+  "formel-inversion (the formula, read as prose by the count)",
+  "komponente-734 (J62)",
+  "blinder-fleck (J62: H4 and no Qualia)",
+  "aegis-metriken (J62: the status blocks)",
+  "vermittler-stimme (J62: the Wir of the Vorwort)",
+  "genesis-klammer (J62: the shards)",
+  "hitze-polaritaetsregel (J62: warm, heiß, kalt)"
+ ],
+ "between_the_two_texts": "Against kap0-v1-annotiert-md, the same date: 58 of this text's 102 long lines stand in it unchanged and 36 more are its lines revised (Plan/runs/koharenz-protokoll-kapitel-0-v2-md/06-against-v1.txt). It is that text's prose without its apparatus — no rules, no annotation, no movement numbers, no „Schluss / Übergang zu Kap 1“ heading — and the names it lacks were only ever in that apparatus: in v1 too no figure is named in the prose. The formula changes person, „Ich bin“ to „Es ist“; the rest keeps its images",
+ "chapters": {
+  "readings_on": [
+   0
+  ],
+  "left_off": {
+   "1": "the coda (L635–639) has no heading and no chapter here; the annotated text heads it „Übergang zu Kap 1“, this one does not"
+  }
+ },
+ "baseline_moved": false
+}
