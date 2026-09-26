@@ -1,0 +1,123 @@
+datenverarbeitungsknoten-7g: $ grep -cw '7G' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+resonanz-landschaft: $ grep -cw 'Resonanz-Landschaft' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+moeglichkeits-garten: $ grep -cw 'Resonanz-Kontinuum' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+nexus: $ grep -cw 'Überwelt-Nexus' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+nexus: $ grep -cw 'Überraum' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+mnemosyne-server-architektur: $ grep -cw 'Vortex-1' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+juna: $ grep -cwi 'kosmologische' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+juna: $ grep -cw 'Ch38' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+juna: $ grep -nw 'Ch33' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 646 739 954 (3)
+juna: $ grep -nw 'Ursprungs-Ich' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 178 180 435 (3)
+moonshine-link: $ grep -n 'Moonshine' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 114 132 314 316 747 891 952 (7); $ grep -n 'Moonshine' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -c 'Ch[0-9]\|Kap': 0
+kaels-wohneinheit: $ grep -c '734' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 2  lines: 180 489 
+mnemosyne-server-architektur: $ grep -cw 'Vortex 1' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+telefon-stille: $ grep -n 'Telefon' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 352 354 370 374 654 666 851 892 950 (9); $ grep -n 'Telefon' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -c 'Ch[0-9]\|Kap': 0; $ grep -cw 'Ch7' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -cw 'Ch24' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+kap-11: $ grep -cw 'Ch11' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+kap-35: $ grep -cE 'Ch35([^–]|$)' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1  lines: 727 
+kap-36: $ grep -cE 'Ch36([^–]|$)' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 2  lines: 650 658 
+kap-36: $ grep -cw 'AEGIS-monolithisch' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+kap-39: $ grep -cw 'Ch40' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -cw 'Kap 40' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -cw '40' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+kap-39: $ grep -cw 'Ch0' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -cw 'Kap 0' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -ciw 'Prolog' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+junas-ankerpunkt: $ grep -cw 'Ankerpunkt' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1; $ grep -cw 'Riss' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md (on L666): 0
+garten-der-stillen-praesenz: $ grep -c 'Garten der stillen Präsenz' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1; $ grep -nw 'Ch33' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 646 739 954 
+genesis: $ grep -ci 'Flashback' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -c 'Wir-AEGIS' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -cw 'Ch18\|Ch21\|Ch22' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+trennungsprotokoll: $ grep -n 'Trennungsprotokoll' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 179 435 (2)
+c1: $ grep -cw 'Autogenic' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c1: $ grep -cw 'Generative Integrity' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c4: $ grep -cw 'blind' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+c7: $ grep -cw 'Ch38' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c7: $ grep -cw 'Kap 38' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c7: $ grep -cw 'Ch33' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 3
+c8: $ grep -cw 'Do-er' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c8: $ grep -cw 'Be-er' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c8: $ grep -cw 'Approach' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c10: $ grep -cw 'Knöchel' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 3
+c10: $ grep -cw 'Kap 0' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c10: $ grep -cw 'Ch0' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c11: $ grep -cw 'Wärme' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 3
+c11: $ grep -cw 'Kap 6' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c11: $ grep -cw 'Ch6' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c12: $ grep -cw 'AEGIS-plural' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c12: $ grep -cw 'Primärdirektive' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+c13: $ grep -cw 'Basisrealität' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+c13: $ grep -cw 'jenseits der Simulation' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c14: $ grep -cw 'Ch5' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c14: $ grep -cw 'Ch6' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c14: $ grep -cw 'Ch7' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c14: $ grep -cw 'Ch8' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+c15: $ grep -cw 'Flight' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+c15: $ grep -cw 'implizit' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q2: $ grep -cw 'ANI' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q2: $ grep -cw 'ARS' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q2: $ grep -cw 'ECR' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q2: $ grep -cw 'PMS' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q2: $ grep -cw 'RSA' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q2: $ grep -cw 'SNK' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q2: $ grep -cw 'ZTV' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q2: $ grep -cw 'Nullpunkt' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q4: $ grep -cw 'Wächter' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 3
+q4: $ grep -cw 'Wächterin' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+q5: $ grep -cw 'Sophia' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+guardians: $ grep -cw Sophia Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 1  (L192)
+guardians: $ grep -c Wächter-Zwiespalt Sources/drive/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md -> 0
+logos: $ grep -cw LogOS Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 2  (L192,201)
+cerberus: $ grep -cw Cerberus Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 3  (L192,201,541)
+kairos: $ grep -cw Kairos Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 4  (L192,201,453,584)
+sophia: $ grep -cw Sophia Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 1  (L192)
+realitaetsebenen: $ grep -cw Realitätsebenen Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 1  (L445)
+ueberwelt: $ grep -cw 'Innere Weite' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 0
+externe-ebene: $ grep -cw Bühne Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 0
+externe-ebene: $ grep -cw Basisrealität Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 1  (L431)
+kern-welten: $ grep -c Überwelt-Nexus Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md -> 0
+kael: $ grep -n 'Knöchel' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -c 'Kap\|Ch[0-9]': 0
+multiplizitaet: $ grep -c 'Wir-AEGIS' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+did: $ grep -cw 'DID' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+alex: $ grep -cw 'Alex' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 2
+rhys: $ grep -cw 'Rhys' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 2
+rhys: $ grep -cw 'Kudzu' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+selene: $ grep -cw 'Selene' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 2
+nyx: $ grep -w 'Nyx' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -c 'Knöchel': 0
+kiko: $ grep -w 'Kiko' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -c 'Flight': 0
+lia: $ grep -cw 'Flight' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+moros: $ grep -cw 'Moros' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 3
+argus: $ grep -cw 'Argus' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 3
+silas: $ grep -w 'Silas' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -ci 'wärme\|warm\|hitze\|landauer': 0
+silas: $ grep -c 'Spiegel-Alter' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+oblivion: $ grep -w 'Oblivion' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -ci 'wärme\|warm\|hitze\|landauer': 0
+oblivion: $ grep -c 'Spiegel-Alter' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+tsdp: $ grep -ci 'erweitert' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+tsdp: $ grep -c 'Typisch' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+mosaik-herz: $ grep -n 'Mosaik' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 620 789 (2); $ grep -nw 'Ch11' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 739
+emergenz: $ grep -ni 'emergen' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 453 586 703 (3)
+aegis: $ grep -c 'Do-er' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+aegis: $ grep -c 'Be-er' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+aegis: $ grep -c '1\. Person' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+aegis: $ grep -c 'erste Person' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+entropie: $ grep -c 'Bedingung für Ereignisse' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+kohaerenz-kernel: $ grep -c 'Kohärenz-Kernel' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+kollaps-kernel: $ grep -c 'Kollaps-Kernel' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+coheron: $ grep -w 'Juna' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -ciw 'Wärme': 0
+landauer-signatur: $ grep -c 'Landauer-Signatur' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+landauer-signatur: $ grep -i 'Ozon' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -ci 'kalt': 0
+landauer-signatur: $ grep -w 'Juna' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -ciw 'Wärme': 0
+landauer-signatur: $ grep -nwi 'Wärme' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 41 813 817 
+landauer-signatur: $ grep -c 'Ch6' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+landauer-signatur: $ grep -c 'Kap. 6' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+hitze-polaritaetsregel: $ grep -c 'Polarität' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+hitze-polaritaetsregel: $ grep -i 'Ozon' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -ci 'kalt': 0
+hitze-polaritaetsregel: $ grep -w 'Juna' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md | grep -ciw 'Wärme': 0
+nichts-rauschen: $ grep -c 'Reinform' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0
+potentialmeer: $ grep -c 'Potentialmeer' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 1
+komponente-734: $ grep -nw '734' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 180 489 (2)
+goedel-gambit: $ grep -ni 'gödel' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 263 285 400 743 (4)
+chaitin-konstante: $ grep -cwi 'kosmologische' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -ni 'chaitin' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 286 746 (2)
+vortex: $ grep -c 'Vortex 2' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -cw 'Ch37' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -cw 'Ch38' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -nw 'Ch35' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 535 727 799 954 (L727 alone, the others Ch35–36)
+ouroboros-struktur: $ grep -c 'ins Ouroboros' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 0; $ grep -ni 'ouroboros' Sources/drive/worldbuilding-konzept-kohaerenzprotokoll-md.md: 37 845 859 (3)
+plot: grep -c 'Vortex 2': 0
+plot: grep -c 'Vortex 1': 0
+plot: grep -c 'trügerisch': 0
+plot: grep -c 'Kishōtenketsu': 0
+plot: grep -c 'Heldinnenreise': 0
+plot: grep -c 'Heldenreise': 0
+plot: grep -c 'Zyklus': 0
+plot: grep -c '41': 0
