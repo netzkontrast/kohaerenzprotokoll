@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
 gathered: "2026-09-24"
 ---
 
@@ -36,11 +36,13 @@ Landauer warmth for the transition out of it. The worldbuilding concept, of the
 konsolidiertes Konzept's date, states no rule and gives heat and ozone as one
 Landauer trace of AEGIS' erasure (its L82, L759). The philosophy catalogue,
 after the lock, keeps the lock's warmth for Juna and has no cold: Landauer is
-„Hitze und Ozon" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9]. The Kap-25 session log, the newest
-document read, says the storyform outline requires the rule for Kap 25 (its L31) and reports it
+„Hitze und Ozon" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9]. The Kap-25 session log, of
+2026-09-14, says the storyform outline requires the rule for Kap 25 (its L31) and reports it
 kept in one chapter — cold ozone in one scene, warmth only as a back-reference in a scene without
-ozone (L47) — naming neither Landauer nor a bearer for either. [[landauer-signatur]] has each
-reading; C11 has the record.
+ozone (L47) — naming neither Landauer nor a bearer for either. The Kap-25 chapter file, the draft
+that run revised, renders without naming: air „scharf und elektrisch" ^[kp-kap25-2026-09-14-md.md:L221] at the sign-off, tied
+to a cleansing and to no bearer, cool air elsewhere, and `warm` only in a register line (L69).
+[[landauer-signatur]] has each reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -148,3 +150,12 @@ Dated 2026-06-10, eleven days after the lock of 2026-05-30. Placed here by what 
 The canon it cites for Kap 25, labelled normative, asks for it under a short form of the rule's name (J83 by analogy): „Kap 25: Schwelle, nicht Konfrontation; Schleier offen benannt; Hitze-Polarität; R-Regeln" ^[2026-09-14-kap25-vertiefung-md.md:L31] — the log's claim about the storyform outline, „Canon/…storyform-und-outline §0/§1/§5" ^[2026-09-14-kap25-vertiefung-md.md:L31].
 Its self-review says how the revised chapter kept it: „R-5 kaltes Ozon nur in der Abmeldeszene, Wärme dort nicht" ^[2026-09-14-kap25-vertiefung-md.md:L47]; „Wärmespur nur als Rückverweis" ^[2026-09-14-kap25-vertiefung-md.md:L47] — „die vier Abende" ^[2026-09-14-kap25-vertiefung-md.md:L47] — „in einer ozonfreien Szene" ^[2026-09-14-kap25-vertiefung-md.md:L47]. Cold ozone and warmth are kept in separate scenes, and neither is tied to a bearer: `Landauer` stands 0 times, and [[juna|Juna]]'s one line is rule R-10, not the warmth (`05-verify.txt`).
 Dated 2026-09-14, three and a half months after the lock of 2026-05-30. Placed here by what it states (J62). C11.
+
+## Reading — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file — sharp, electric air at the sign-off, cool air below, and no warmth in a scene
+
+A chapter file of Kap 25 — research, not text for the novel. No rule is stated, and neither side is named: `Ozon`, `Hitze`, `Wärme`, `Landauer` and `Juna` stand 0 times (`05-verify.txt`).
+The sign-off scene renders the air without its word, right after the system's line „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[kp-kap25-2026-09-14-md.md:L217]:
+„Die Luft an der Station riecht für einen Moment scharf und elektrisch, wie an den Tagen, an denen etwas bereinigt wird" ^[kp-kap25-2026-09-14-md.md:L221] — „und ist dann wieder Luft" ^[kp-kap25-2026-09-14-md.md:L221]. That this is the rule's cold ozone is the reading's identification; the text ties the smell to a cleansing, and to no bearer.
+Cold stands elsewhere as the place's and the body's: „Meine Hände sind kalt." ^[kp-kap25-2026-09-14-md.md:L85] „der Knoten ist am Nordende immer kühler" ^[kp-kap25-2026-09-14-md.md:L85]; at the stair, „Von unten kommt Luft herauf. Sie ist kühler." ^[kp-kap25-2026-09-14-md.md:L247]
+`warm` stands once, in an italic line of the counter-register the item contains — „Fenster 03, Luft warm" ^[kp-kap25-2026-09-14-md.md:L69] — the register's warmth, not a scene's. „die vier Abende" ^[kp-kap25-2026-09-14-md.md:L137], in the hand scene, carry no temperature.
+As the session log reports under R-5, cold ozone stays in the sign-off scene and warmth out of it; this file renders the first without naming it. Placed here by what it states (J62). C11.
