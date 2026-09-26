@@ -1,17 +1,17 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
 # Mnemosyne
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Fourteen other read documents name Mnemosyne — the readings below, the worldbuilding concept's the latest. (Until that reading this lead said nothing else read named Mnemosyne at all, which the second reading on this page had already made false.)
+the same nine fields. Fifteen other read documents name Mnemosyne — the readings below, the philosophy catalogue's the latest (it moved this count from fourteen). (Until that reading this lead said nothing else read named Mnemosyne at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -206,3 +206,10 @@ In the [[vortex|Vortex]]'s five beats: Beat 1, „AEGIS isoliert Kaels Fragmente
 In Storyform A's overall story: „Psychology in A (Manipulation der Simulation, Mnemosynes Datenströme)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L951].
 Her tension with the other pole is left open: „Spannung zwischen Mnemosyne und Erasure-Pol — vollständige Algorithmen oder interne Spaltung?" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L894]
 The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the Rorty temptation, among the figures
+
+Under §1.6, labelled [S] („§1.6 Rorty — Anti-Repräsentationalismus [S] (Steinbruch-gefiltert)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L100]): „Rorty ist zu pragmatistisch für das ontologische Substrat des Romans." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L104] „Aber Mnemosynes Versuchung (siehe Welt-Doku §8) hat eine rortyianische Dimension: wenn Wahrheit nur soziale Rechtfertigung ist, dann kann sie auch gelöscht werden." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L104] The `Welt-Doku §8` it points to is the document's claim about another document.
+„Rorty-Position erscheint im Roman als Versuchung, nicht als Wahrheit." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L107] „Mnemosyne kann dem Leser kurz plausibel machen, dass Schmerz nur soziale Rechtfertigung sei." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L107] „Diese Plausibilität ist die Tragik der Versuchung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L107]
+In the figure table §14.1, which carries no label, she stands among the figures, after AEGIS and before Juna: „Erinnerungs-Bewahrer; Rorty-Versuchung (Wahrheit als Anpassung); Tragik des unverstandenen Trägers" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L662]. Her DKT-correlate cell holds only a dash (L663 of this document), the one row of the table without a correlate.
+The document never writes `Guardian` (`grep -cw Guardian`: 0, `Guardians`: 0): it lists Mnemosyne among the figures without that word (C6). `Mnemosyne-Archipel` (L307, L676 of this document) is KW2, placed by what it names (J32), not a reading of the figure. The author decided C6 for five on 2026-09-24; recorded, not applied.
