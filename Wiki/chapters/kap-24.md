@@ -1,9 +1,9 @@
 ---
 chapter: 24
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
-records: []
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md"]
+records: ["C9"]
 gathered: "2026-09-25"
 ---
 
@@ -112,6 +112,15 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 - Genesis echo: „genau ein Genesis-Echo“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 4: „In Kap 24 wird die Leitung zyklisch“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]
 - Idea 2: „die plurale Verteilung rettet es (Kap 24)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L56]
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — the opening of a threshold sequence, and the hook Kap 25 takes from it
+
+The log of one unattended drafting run that revised the manuscript's Kap 25; it does not contain Kap 24. What it says of Kap 24 is the hook the revised Kap 25 takes from it and the range Kap 24 opens; what it says another document requires is its claim about that document.
+
+Position: „Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz" ^[2026-09-14-kap25-vertiefung-md.md:L17]
+
+- Hook-out into Kap 25: „Hook-in aus Kap 24 explizit (die einrastende Verkleidung)" ^[2026-09-14-kap25-vertiefung-md.md:L25]
+- World: „Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60] · „die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt" ^[2026-09-14-kap25-vertiefung-md.md:L60]
 
 ## Where the sources differ
 
