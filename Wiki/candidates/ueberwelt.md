@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -196,3 +196,14 @@ The system that results is „Eine Funktionseinheit innerhalb einer lernenden, s
 Its laws come back once, when the stranger arrives: „Energieprofile widersprachen den selbst entwickelten physikalischen Gesetzen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L367]
 Nothing is said to be left in it. The separation ends in shards (L627), and the coda that
 follows — „Der Korridor ist leer." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635] — is not placed.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — AEGIS' Maschinenraum, where the two Guardians reside
+
+„Die Überwelt — AEGIS' Maschinenraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L626]. „Kein physischer Ort. Operationsraum von AEGIS. Datenstrom-Kathedrale." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L628]
+„Hier residieren die zwei Guardians als abstrakte Entitäten, hier fließen die Logs, hier erfolgen die Erasure-Sweeps." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L628] One of the six levels, outside the four worlds (L449).
+Its logic: „Reine Algorithmik. Visualisierung der Persistenzgleichung in Echtzeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L636] „Risse erscheinen hier als Datenkorruption oder Signalrauschen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L636]
+
+Three sub-locations. The Schnittstelle zu den Kernwelten: „Kael trifft hier auf abstrahierte Repräsentationen seiner eigenen Innenräume." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L644] The Wächter-Registry (L645). And „Der Jenseits-des-Ereignishorizonts-Bereich — kausal isolierter „Verschränkungs-Insel"-Raum (Ch33)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] „Hier kann Information dem Erasure-Sweep entkommen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646]
+In its storyweaving path the Überwelt is Storyform B's: „AEGIS (B) operiert in der Überwelt mit der Persistenzgleichung als kontinuierlichem Hintergrund-Diktum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L949]
+
+The Innere Weite is not named (`grep -cw 'Innere Weite'` 0, `Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify.txt`), though the konsolidiertes Konzept of the same date glosses it as the Überwelt (L837 there).
