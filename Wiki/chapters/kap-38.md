@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel öffnet den Vortex der ontologischen Wendung, der die Vortex-Klammer schließt; in der äußeren Heldenreise ist es laut Konzept-Iteration, konsolidiertem Konzept, strukturierter Outline und Storyform-Outline die Road Back, laut der Spec die Resurrection, in Kishōtenketsu laut der strukturierten Outline der Übergang von Ten zu Ketsu, und in Storyform A trägt es die RS-Physics maximal mit Junas direkter Anwesenheit, laut der Spec das MC-Concern der gesicherten Funktionalen Multiplizität, in B das sichtbar kollabierende Universum. Das Rauschen kommt sensorisch und ontologisch von allen Seiten, und das Wir-Geflecht erkennt, dass das Gewonnene nicht reicht und der Sieg trügerisch war. In einem Stille-Beat erscheint Juna zum ersten Mal direkt, einfach da, ohne Worte, ohne Anweisung, ihre Stimme als Raum statt als Klang; Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen, und als Genesis-Echo wird die ursprüngliche Resonanz diesmal empfangen statt abgewehrt. Mit pluraler Bewahrung als Lösung entscheidet das Wir, ins Ouroboros zu gehen. Kernwelten vollständig setzt die Externe Ebene und KW4 simultan, mit Junas noch offenem Ankerpunkt in Köln, und sagt, dass Kael hier die Position des Lesers erreicht, laut der Plot-Konkretisierung beantragt alles zugleich seine Bewahrung und ab Junas Erscheinung ruht der Faden, und die AEGIS-Subplots lasen das Chaos nach AEGIS' Fall als Quelle für Neues und Unerwartetes.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -119,16 +125,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Resurrection — finale Wendung* / *Die Resonanz, die ankommt (Vortex 2 Beat 1–5)*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 38, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 38 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 38 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 38 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 38, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 38 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 39?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 38 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 38 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will das Wir-Geflecht, wenn das Rauschen von allen Seiten kommt und laut der Plot-Konkretisierung als unendliche Zuweisung alles zugleich seine Bewahrung beantragt, und was stellt sich ihm entgegen, wenn es erkennt, dass kein Apparat und nichts Gewonnenes reicht?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn das Universum sichtbar kollabiert und das Wir entscheidet, ins Ouroboros zu gehen: was verliert Kael, wenn er die plurale Bewahrung nicht wagt, und was, wenn er sie wagt?
+- **B3** *Veränderung* — Was ist anders, wenn Juna erscheint, einfach da, ohne Worte, ohne Anweisung, und Kael sie wiedererkennt, weil die Echos das Vor-Trennungs-Sein tragen: welcher Wert kippt, wenn die ursprüngliche Resonanz diesmal nicht abgewehrt, sondern empfangen wird?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die ankommende Resonanz erzählt, aus dem Wir-Geflecht, aus einem Wir-erleuchteten Kael laut der Spec, oder mit Juna in der POV-Zeile der strukturierten Outline, und wie klingt Junas Stimme als Raum statt als Klang, wenn sie keine Worte hat?
+- **B5** *Ort, Zeit, Körper* — Wo erscheint Juna, wenn Kernwelten vollständig die Externe Ebene und KW4 simultan setzt und Junas Ankerpunkt an einem Ort in Köln noch offen lässt, und wie verankern Stille mit anwachsendem Druck und eine Warteschlange ohne Zahl die Szene im Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die ontologische Wendung ein, wenn der trügerische Sieg als trügerisch erkannt wird und das Rauschen von allen Seiten kommt, und wie trägt die Entscheidung des Wir, ins Ouroboros zu gehen, den Leser in die Verwandlung zum Wir-AEGIS-plural?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Junas erste direkte Erscheinung auf der Road Back, die die Spec Resurrection nennt, wenn das konsolidierte Konzept sie als Klimax ihrer bisherigen Modi liest und Kael laut Kernwelten vollständig hier die Position des Lesers erreicht, und was fehlte dem Ende ohne sie?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael Juna erreicht und damit seine eigene Position, und das Chaos laut den AEGIS-Subplots nicht nur Kollaps, sondern Quelle für Neues ist, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 38
 

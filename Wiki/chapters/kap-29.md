@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Letzte Ängste und Trauma-Erinnerungen tauchen auf, der Kind-Anteil wird sichtbar; laut der strukturierten Outline ist Kiko deutlich sichtbar, Moros zieht im Hintergrund, und Kael muss die Anteile integrieren, um voranzuschreiten. Es ist die Weigerung der Heldenreise außen, laut der strukturierten Outline im beginnenden Ten, in der Phase A des dritten Akts, bei der Plot-Konkretisierung im Block des Deserteurs; Kernwelten vollständig legt hier den Eintritt in den Möglichkeits-Garten von KW4, als Phase-Shift statt Ortswechsel, mit der Werkstatt der Schöpfung als möglichem Ort. In Storyform A flammt laut mehreren Quellen das Problem Avoidance ein letztes Mal auf, in B trägt es RS-Psychology, die Verstrickung wird tief, und laut der strukturierten Outline zeigt sich die Host-System-Symbiose. Die Plot-Konkretisierung lässt ihren Faden hier bewusst ruhen, und die AEGIS-Subplot-Sammlung kennt hier eine Szene, in der Kael LogOS mit einer logischen, aber selbstwidersprüchlichen Aussage austrickst.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -103,16 +109,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Angst des Kindes* / *Refusal — letzte Zweifel, Trauma-Echo*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 29, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 29 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 29 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 29 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 29, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 29 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 30?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 29 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 29 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn letzte Ängste und Trauma-Erinnerungen auftauchen und er laut der strukturierten Outline die Anteile integrieren muss, um voranzuschreiten, und was stellt sich ihm entgegen: Kikos kindliche Angst, Moros im Hintergrund, oder laut der AEGIS-Subplot-Sammlung LogOS, der ihn in die Enge treibt?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn die Vermeidung laut mehreren Quellen ein letztes Mal aufflammt und die Verstrickung von Host und System tief wird: was verliert Kael, wenn er vor der Angst des Kindes zurückweicht, und was, wenn er den Kind-Anteil annimmt?
+- **B3** *Veränderung* — Was ist am Ende der Angst des Kindes anders, wenn die Weigerung der Heldenreise durchlaufen ist: kippt Vermeidung in Integration, und zeigt sich dabei, wie die strukturierte Outline sagt, die Symbiose von Host und System?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Angst des Kindes erzählt, wenn die Quellen Kael mit sichtbarem Kind-Anteil angeben und die strukturierte Outline Kiko deutlich sichtbar nennt: erlebt Kael das Engerwerden, oder bekommt Kiko eine eigene Stimme, und warum?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Angst des Kindes, wenn Kernwelten vollständig hier den Eintritt in den Möglichkeits-Garten von KW4 setzt, als Phase-Shift statt Ortswechsel, mit der Werkstatt der Schöpfung als möglichem Ort, und wie wird das Engerwerden in Kaels Körper spürbar?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Angst des Kindes ein, nachdem AEGIS mit der Purge gedroht und der Countdown begonnen hat, und welches Ereignis trägt den Leser aus der Weigerung in Junas Kanal, in dem die Verbindung zu Juna zum stabilen, bewussten Kanal wird?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Weigerung der Heldenreise außen zwischen dem Ruf zum Abenteuer und der Begegnung mit dem Mentor, wenn die Vermeidung als Problem von Storyform A ein letztes Mal aufflammt und die Plot-Konkretisierung ihren Faden hier bewusst ruhen lässt?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn die kindliche Angst zurückkommt, kurz bevor die Verbindung zu Juna zum bewussten Kanal wird, und wie berührt dieser letzte Rückfall das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 29
 

@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Alle gelesenen Quellen stellen die Bunker-Reaktion in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Reaktion im ersten Spiral-Zyklus, zwischen Trigger und Wächterin. Nach dem Trigger, der Kaels Trauma-Angst reaktiviert hat, flieht Kael reflexhaft in alte Bewältigung, in Dissoziation und Rückzug, und der Bunker springt wieder an, erzählt laut der strukturierten Outline und der Drei-Modi-Spec aus Kael unter Lex- und Selene-Dominanz, während laut der strukturierten Outline Moros' Schwere im Hintergrund alles herunterzieht. In Storyform A führt das Kapitel das MC-Problem Avoidance als Flucht in Betäubung, in Storyform B die OS, in der AEGIS den Rückfall fälschlich als Stabilisierung registriert, eine tragische Ironie; enge Räume und taube Sensorik tragen es. Laut dem Kapitel-Kompendium und der Storyform-Outline geht es zugleich um die Diktatur der Komplexität: an den physikalischen Grenzen der Rechenkapazität opfert AEGIS Realitäts-Detail für globale Stabilität, laut Kernwelten vollständig in KW2 als Auflösungsverlust. Laut der Plot-Konkretisierung, einem Vorschlag, findet Kael die Posten-Liste dieses Komplexitäts-Budgets und seine eigene Abteilung als Budget-Instrument, und Oblivion reicht in derselben Nacht Berichte ein, die Kael nie geschrieben hat.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -114,16 +120,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Z1-Bunker reaktiv* / *Z1-Reaktion — Bunker reaktiv*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 16, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 16 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 16 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 16 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 16, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 16 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 17?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 16 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 16 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er nach dem Trigger reflexhaft in Dissoziation und Rückzug flieht und der Bunker wieder anspringt, und was stellt sich dieser Flucht entgegen: Moros' Schwere, AEGIS, das den Rückfall als Stabilisierung verbucht, oder laut der Plot-Konkretisierung die Posten-Liste des Komplexitäts-Budgets?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn AEGIS laut dem Kapitel-Kompendium Realitäts-Detail für globale Stabilität opfert und Kael sich betäubt: was verliert er, wenn er wegsieht, und was, wenn er laut der Plot-Konkretisierung seine eigene Abteilung als Budget-Instrument erkennt?
+- **B3** *Veränderung* — Was ist nach Kaels Flucht in den Bunker anders als davor, wenn AEGIS den Rückfall als Stabilisierung verbucht und laut der Plot-Konkretisierung Oblivion Berichte einreicht, die Kael nie geschrieben hat, und kippt Stabilisierung dabei in die Fremderledigung seines Lebens?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Bunker-Reaktion erzählt, wenn die strukturierte Outline und die Drei-Modi-Spec Kael unter Lex- und Selene-Dominanz als Träger nennen, und wie klingt eine dissoziierte, betäubte Stimme, während Moros' Schwere im Hintergrund alles herunterzieht?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Flucht in Betäubung, in KW2, wo Kernwelten vollständig die Diktatur der physikalischen Zeit und den Auflösungsverlust verortet, oder im Bunker, und wie verankern enge Räume und taube Sensorik den Körper in der Nacht, die nur die Plot-Konkretisierung nennt?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Bunker-Reaktion nach dem Trigger ein, der Trauma-Angst reaktiviert und Nyx sichtbar macht, und welches Ereignis trägt den Leser zur Wächterin, die den Rückfall abfängt und Kael aktiv hinschauen statt fliehen lässt?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Bunker-Reaktion als Reaktionsphase des ersten Spiral-Zyklus zwischen Trigger und Wächterin, in der Shō-Phase der strukturierten Outline, und was fehlte dem zyklischen Modus, wenn Kaels Rückfall in alte Bewältigung und AEGIS' Fehldeutung als Stabilisierung gestrichen würden?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn er mehr weiß als AEGIS, das Kaels Betäubung als Stabilisierung registriert, und wie berührt diese tragische Ironie das Thema, dass Liebe bleibt wie der Schmerz, wenn der Schmerz gerade betäubt wird?
 
 ### Specific to Kap 16
 

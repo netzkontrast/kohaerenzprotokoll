@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Im Auge des Sturms erzielt Kael, lex-dominant, einen falschen Erfolg, eine trügerische Stabilität auf nicht integrierter Basis, spiegelglatt und sensorisch flach: laut Plot-Konkretisierung die Beförderung in die Bestandspflege, gefährlichere Arbeit als Auszeichnung verpackt, in der er zum ersten Mal das Gewicht eines Datensatzes spürt, bevor er klickt, laut Konzept-Iteration Genesis ein analytischer Erfolg in der McLaughlin-Welt, laut strukturierter Outline ein Erfolg im Übergang von KW1 zum KW2-Rand, mit ersten Schatten von Rhys als Wärme, die Kael nicht versteht. Kapitel-Kompendium und Kernwelten vollständig lassen es in KW1 spielen, diese in justierter Pseudo-Stabilität; laut AEGIS-Subplots trifft Kael in einem simulierten Café eine Wahl, dessen Lichter sich zu perfekt an seinen Blick anpassen, und fühlt sich antizipiert oder verwaltet. In der Heldinnenreise ist es das Auge des Sturms, der falsche Erfolg, laut strukturierter Outline in der Ki-Vertiefung von Akt I, und laut Konzept-Iteration Genesis wiederholt die Bestätigung der Isolationsstrategie den Algorithmus des großen Wandels. Storyform A trägt das MC-Concern Memory, laut strukturierter Outline die Stabilität als Erinnerungs-Substitut; Storyform B ist laut Konzept-Iteration Genesis, konsolidiertem Konzept und Drei-Modi-Spezifikation latent, laut Kernwelten vollständig ist das Kapitel Kandidat für das Hard-B-Kapitel mit AEGIS-Innensicht, in dessen Fenster es laut Plot-Konkretisierung liegt. Die Storyform-Outline verlangt, das Kapitel zu verdichten.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -120,16 +126,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Der Glanz der Oberfläche* / *Auge des Sturms — falscher Erfolg*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 5, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 5 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 5 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 5 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 5, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 5 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 6?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 5 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 5 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael im Auge des Sturms, wenn er laut Plot-Konkretisierung in die Bestandspflege befördert wird und gut ist, weil er nicht hinsieht – und was stellt sich ihm entgegen, wenn er vor dem Klick zum ersten Mal das Gewicht eines Datensatzes mit Kontext spürt?
+- **B2** *Einsatz* — Was steht im falschen Erfolg auf dem Spiel: was verliert Kael, wenn die Beförderung gefährlichere Arbeit ist, als Auszeichnung verpackt, und was, wenn er hinsähe, statt Vermeidung als Karrierevorteil zu nutzen?
+- **B3** *Veränderung* — Was ist am Ende des Auges des Sturms, der Stufe des falschen Erfolgs in der Heldinnenreise, anders als an seinem Anfang, wenn Kael sich kurz sicher fühlt, die Basis aber nicht integriert ist – und wiederholt die trügerische Stabilität laut Konzept-Iteration Genesis den Algorithmus des großen Wandels?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird das Auge des Sturms erzählt – Kael lex-dominant, oder aus AEGIS' Innensicht in einem Hard-B-Kapitel, das Kernwelten vollständig hier als Kandidaten nennt, während andere Quellen Storyform B latent lassen –, und warum?
+- **B5** *Ort, Zeit, Körper* — Wo spielt das Auge des Sturms – in KW1 in justierter Pseudo-Stabilität, im Übergang zum KW2-Rand, in der McLaughlin-Welt oder laut AEGIS-Subplots in einem simulierten Café, dessen Lichter sich zu perfekt an Kaels Blick anpassen – und wie fühlt sich spiegelglatter, sensorisch flacher Erfolg an?
+- **B6** *Einstieg und Ausstieg* — Womit setzt der falsche Erfolg nach dem Audit ein, und welches Ereignis trägt den Leser in den Cache-Konflikt – die erste Zuweisung mit Kontext, das Gewicht des Datensatzes vor dem Klick, oder das vage Gefühl, antizipiert und verwaltet zu werden?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat das Auge des Sturms vor dem Tod einer Einstellung, mit MC-Concern Memory in Storyform A – und ist es, im Fenster des Hard-B-Kapitels, der Ort für AEGIS' Innensicht, die Kernwelten vollständig hier als Kandidaten nennt, oder bleibt Storyform B latent, wie die übrigen Quellen sagen?
+- **B8** *Leser und Thema* — Was soll der Leser im Auge des Sturms fühlen, wenn Kaels Erfolg glatt und flach bleibt und laut strukturierter Outline erste Schatten von Rhys als Wärme auftauchen, die Kael nicht versteht – und wie berührt das, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 5
 

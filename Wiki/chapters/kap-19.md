@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Alle gelesenen Quellen stellen die AEGIS-Intervention in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Reaktion im zweiten Spiral-Zyklus, zwischen Cache-Konflikt und Lyons-Kreativität. AEGIS bemerkt Kaels wachsende Kohärenz und stört sie aktiv mit neuen Regeln und widersprüchlichen Informationen, und laut der strukturierten Outline nutzt Mnemosyne Junas Erinnerung manipulativ gegen Kael. Storyform A führt die MC-Issue, die Systemlüge wird klarer benannt; in Storyform B tritt AEGIS' Erasure-Logik in der OS-Physics offen auf, laut der strukturierten Outline als zweiter Signpost der OS, Learning, mit einem Action-Driver, der härter greift, und mit einer AEGIS-Mikroszene als Bridge. Laut der Plot-Konkretisierung priorisiert die Schlange plötzlich Bestände, die Kael betreffen, der Apparat legt ihm seine eigene Vergangenheit zur Konsolidierung vor, und der Options-Pool wird sichtbar und zählbar. Kalte Stimme und KI-Ethik-Kalkül tragen das Kapitel, Kernwelten vollständig verortet es als AEGIS-Eskalation in KW2 mit einem Ausschlag des Landauer-Strangs, und laut der Konzept-Iteration Genesis kehrt in AEGIS' offener Logik die Algorithmische Schrecken-Phase der Genesis wieder.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -107,16 +113,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *KI-Ethik* / *Z2-AEGIS-Intervention*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 19, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 19 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 19 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 19 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 19, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 19 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 20?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 19 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 19 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn AEGIS seine wachsende Kohärenz bemerkt und sie mit neuen Regeln und widersprüchlichen Informationen stört, und wer stellt sich ihm entgegen: AEGIS direkt, oder laut der strukturierten Outline Mnemosyne, die Junas Erinnerung gegen ihn nutzt?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn AEGIS' Erasure-Logik offen auftritt und der Apparat laut der Plot-Konkretisierung Kael seine eigene Vergangenheit zur Konsolidierung vorlegt: was verliert er, wenn er konsolidiert, und was, wenn er sich weigert?
+- **B3** *Veränderung* — Was ist nach der Intervention anders als nach dem Cache-Konflikt, wenn die Systemlüge klarer benannt wird und laut der Plot-Konkretisierung der Options-Pool sichtbar und zählbar wird, und kippt verdeckte Steuerung dabei in offene Löschung?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Intervention erzählt, wenn die strukturierte Outline und die Drei-Modi-Spec Kael und ein direkteres AEGIS-Log nennen und die strukturierte Outline eine AEGIS-Mikroszene als Bridge setzt, und wie klingt AEGIS' kalte Stimme, deren Logik wie ein Schnitt funktioniert?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Intervention, in KW2 als AEGIS-Eskalation laut Kernwelten vollständig, und welche Sinneseindrücke verankern sie: kalte Stimme und KI-Ethik-Kalkül, oder der Ausschlag des Landauer-Strangs, den dieselbe Quelle hier setzt?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Intervention nach der gescheiterten Multi-Welten-Aufgabe und dem Genesis-Flashback der Cluster-Bildung ein, und welches Ereignis trägt den Leser zur Lyons-Kreativität, in der Kael AEGIS' Interventionen mit fluiden Regeln umgeht?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die AEGIS-Intervention als Reaktionsphase des zweiten Spiral-Zyklus und laut der strukturierten Outline als Signpost Learning der OS in Storyform B, und was fehlte, wenn in AEGIS' offener Logik nicht die Algorithmische Schrecken-Phase der Genesis wiederkehrte?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Mnemosyne Junas Erinnerung gegen Kael wendet und laut der Plot-Konkretisierung die Schlange plötzlich Bestände priorisiert, die ihn betreffen, und wie berührt das Thema, dass Liebe bleibt wie der Schmerz, wenn die Erinnerung an Liebe zur Waffe wird?
 
 ### Specific to Kap 19
 

@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+An der Wegkreuzung erkennt Kael, dass Freiheit nur außerhalb von AEGIS' System möglich ist, und AEGIS bemerkt seine neue Klarheit; das Kapitel-Kompendium und die Storyform-Outline setzen es als Stehen an der Schwelle, ausdrücklich nicht als Beginn der Konfrontation, die Plot-Konkretisierung als Niederlegung, in der Kael nichts mehr bestätigt und die Schlange einfach wächst. Im zyklischen Modus ist es die Vorbereitung des Wendepunkts zur Befreiung, den das Kapitel-Kompendium mit dem folgenden Kapitel teilt, laut der strukturierten Outline im Shō, laut Kapitel-Kompendium und Storyform-Outline im zweiten Akt, laut Kernwelten vollständig an dessen Ende. In Storyform A trägt es laut mehreren Quellen MC-Concern Memory, die Klarheit über die Notwendigkeit, in B OS-Physics; laut der strukturierten Outline wird der Optionlock von A spürbar, und das Forewarning von B erreicht sein Maximum. Laut der strukturierten Outline kehrt die Zahl 734 wieder, die Kael nun für eine Adresse oder einen Namen hält, Kernwelten vollständig legt das Kapitel in KW3 in die Wartungsschächte und zur Wohneinheit 734, und laut der Storyform-Outline wird an dieser Wende der Schleier offen benannt. Die AEGIS-Subplot-Sammlung kennt hier eine umgeschriebene Geschichte, in der AEGIS veränderte Aufzeichnungen für korrekt und Kaels Gedächtnis für fehlerhaft erklärt.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -111,16 +117,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Wegkreuzung* / *Wendepunkt-Vorbereitung*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 25, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 25 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 25 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 25 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 25, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 25 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 26?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 25 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 25 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael an der Wegkreuzung, wenn er erkennt, dass Freiheit nur außerhalb von AEGIS' System liegt, und was stellt sich ihm entgegen: ein AEGIS, das seine neue Klarheit bemerkt, oder laut der AEGIS-Subplot-Sammlung eines, das veränderte Aufzeichnungen für korrekt und Kaels Gedächtnis für fehlerhaft erklärt?
+- **B2** *Einsatz* — Was steht an der Wegkreuzung auf dem Spiel, wenn laut der strukturierten Outline der Optionlock spürbar wird, viele Optionen weg sind und die Erasure-Drohung ihr Maximum erreicht: was verliert Kael, wenn er an der Schwelle stehen bleibt, und was, wenn er sich entschließt?
+- **B3** *Veränderung* — Was ist am Ende der Wegkreuzung anders, wenn Kael laut der Plot-Konkretisierung nichts mehr bestätigt, kein Wort, keine Geste, und die Schlange einfach wächst: kippt Gehorsam in Niederlegung, und bleibt es dabei ein Stehen an der Schwelle ohne Konfrontation, wie das Kapitel-Kompendium setzt?
+- **B4** *Perspektive und Stimme* — Was heißt es, die Wegkreuzung aus Kaels Sicht als klares Wir zu erzählen, wie die strukturierte Outline und die Drei-Modi-Spezifikation angeben, wenn der Schleier über die Multiplizität laut der Storyform-Outline an dieser Wende offen benannt wird: spricht die neue Klarheit schon im Plural?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Wegkreuzung, wenn Kernwelten vollständig sie in KW3 in die Wartungsschächte und zur Wohneinheit 734 legt, und welche Schwellen-Bilder und welcher Atemzug vor dem Schritt, den die strukturierte Outline nennt, verankern sie in Kaels Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Wegkreuzung ein, nachdem AEGIS die Telefon-Stille zwischen Kael und Juna zyklisch gestört hat, und welche offene Frage trägt den Leser zum Tritt über die Schwelle, an dem Kael die Konfrontation beschließt und laut der Plot-Konkretisierung den Knoten verlässt?
+- **B7** *Funktion im Ganzen* — Was fehlte dem zyklischen Modus, wenn man die Vorbereitung des Wendepunkts zur Befreiung striche und Kael sofort die Konfrontation beschlösse, wo laut der strukturierten Outline der Optionlock von Storyform A spürbar wird und die Zahl 734 wiederkehrt, die Kael für eine Adresse oder einen Namen hält?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael an der Schwelle steht, viele Optionen verloren sind und er noch nicht tritt, und wie berührt diese Klarheit über die Notwendigkeit das Thema, dass Liebe bleibt wie der Schmerz, wo keine gelesene Quelle Juna an der Wegkreuzung nennt?
 
 ### Specific to Kap 25
 

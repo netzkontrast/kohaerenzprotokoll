@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+In der äußeren Heldenreise ist das der Reward, laut Spec und strukturierter Outline Reward und Phasenübergang, laut der Storyform-Outline der Reward als trügerischer Sieg, laut der strukturierten Outline die Pause im Ten, eine eigene Phase des trügerischen Siegs zwischen der operativen und der ontologischen Wendung; es steht nach der Konsolidierung, nach der laut Kapitel-Kompendium nur noch A aktiv ist, in A mit dem MC-Concern der neuen Rolle als Hüter, in B laut Konzept-Iteration und Kapitel-Kompendium scheinbar nicht aktiv, mit feinen Echos als Vorzeichen des Rauschens, laut der Spec nicht mehr aktiv. Kael etabliert sich als Wir in der Rolle des Gärtners: ein klassischer Reward-Beat als falscher Frieden, kristallisierte Ruhe mit feinem Unterton. Am Rand der Wahrnehmung beginnt etwas zu zerfasern; mehrere Pläne nennen dieses Rauschen das Nichts-Rauschen der Genesis, und laut der Konzept-Iteration hütet der Hüter, was schon zerfällt, weil das Universum ohne AEGIS ungeschützt ist. Kapitel-Kompendium und Storyform-Outline verbieten jede Resolution-Glättung, und laut der Plot-Konkretisierung baut Kael einen sanften Apparat, der Zuweisungen beantwortet statt bestätigt, während sich die Schlange mit Einträgen füllt, deren Absender das Rauschen ist. Kernwelten vollständig setzt die trügerische Pastorale in KW4 und nennt sie an anderer Stelle anders verortet; die AEGIS-Subplots schlugen Ordnungsinseln überlebender Guardians und eines rudimentären AEGIS vor, über die Kael entscheiden muss.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -124,16 +130,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Der Gärtner / Trügerischer Sieg* / *Reward / Phasenübergang — Der Gärtner*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 37, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 37 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 37 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 37 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 37, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 37 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 38?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 37 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 37 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael als Gärtner, wenn er laut der Plot-Konkretisierung einen sanften Apparat baut, in dem Zuweisungen beantwortet statt bestätigt werden, und was stellt sich ihm entgegen, wenn am Rand der Wahrnehmung etwas zu zerfasern beginnt und laut den AEGIS-Subplots Reste von AEGIS Ordnungsinseln bilden?
+- **B2** *Einsatz* — Was steht im trügerischen Sieg auf dem Spiel, wenn der Hüter laut der Konzept-Iteration hütet, was schon zerfällt, und das Universum ohne AEGIS ungeschützt ist: was verliert Kael, wenn er den Frieden für echt hält, und was, wenn er ihn aufgibt?
+- **B3** *Veränderung* — Was ist am Ende des falschen Friedens anders als an seinem Anfang, wenn sich laut der Plot-Konkretisierung die Schlange mit Einträgen füllt, deren Absender das Rauschen ist, und welcher Wert kippt, wenn Ruhe zum Vorzeichen wird und keine Resolution-Glättung erlaubt ist?
+- **B4** *Perspektive und Stimme* — Wie klingt die Stimme eines etablierten Wir, wenn nur A scheinbar aktiv ist und feine B-Echos mitlaufen, und wie bleibt der Gärtner ruhig erzählt, während der Leser zugleich das Zerfasern hören muss?
+- **B5** *Ort, Zeit, Körper* — Wo spielt der trügerische Sieg, in der trügerischen Pastorale von KW4 oder, laut derselben Quelle an anderer Stelle, anders verortet, bei einem Welt-Wechsel ohne Bewegung, und wie verankern kristallisiertes Gewebe, neue Architektur und feine Sprünge am Rand der Wahrnehmung die Szene im Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt der Reward-Beat ein, nachdem AEGIS-monolithisch verstummt ist, und wie trägt das beginnende Rauschen, laut mehreren Plänen das Nichts-Rauschen der Genesis, den Leser zum Substrat-Bruch, in dem das Rauschen von allen Seiten kommt?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat der falsche Frieden als Reward der äußeren Heldenreise und als Pause im Ten zwischen der operativen und der ontologischen Wendung, und was fehlte dem Vortex danach, wenn man den Gärtner striche, dessen Sieg dort als trügerisch erkannt wird?
+- **B8** *Leser und Thema* — Was soll der Leser in der kristallisierten Ruhe mit feinem Unterton fühlen, die trügerisch ruhig ist und keine Glättung erlaubt, und wie berührt das Hüten von etwas, das schon zerfällt, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 37
 

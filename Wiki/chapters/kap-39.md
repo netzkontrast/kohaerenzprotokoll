@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+In der äußeren Heldenreise ist das Resurrection und Return with the Elixir, laut der Spec allein Return with Elixir, im Vortex der ontologischen Wendung, dessen Beats die Pläne verschieden zählen, und in Kishōtenketsu laut Spec und strukturierter Outline der Übergang von Ten zu Ketsu, laut dem Kapitel-Kompendium schon Ketsu, Synthese statt Showdown; in Storyform A gelingt es mit hohen Kosten, dem Verlust der Privatheit des Wir, laut der Spec gut, aber rekursiv, in B scheitert es mit der Dividende, dass die Funktion bleibt und die Form geht. Das Wir-Geflecht löst sich aus seiner privaten Form und verwandelt sich in Wir-AEGIS-plural: AEGIS-monolithisch erlischt, AEGIS-plural entsteht, und Kael-als-Wir wird die neue AEGIS, aber wesensanders, wobei Kapitel-Kompendium und Storyform-Outline AEGIS-monolithisch schon im Vortex der operativen Wendung erlöschen lassen; mehrere Pläne sehen hier den Genesis-Beat vollzogen, der das Wir als AEGIS-plural setzt, und der Schluss-Klang lautet, dass Liebe bleibt wie der Schmerz. Laut Kapitel-Kompendium, Storyform-Outline und Plot-Konkretisierung schreibt Kael von Hand, gegen das Log-Format, den letzten Bericht, das Buch, und setzt als letzten Satz den gelockten Erstsatz, womit sich die Ouroboros-Klammer zum Anfang seiner Geschichte schließt; die Telefon-Stille wird eingelöst, und laut Kernwelten vollständig sieht das Wir alle Welten gleichzeitig. Die Spec endet hier das Buch, mit einem offenen, ambivalenten Kael und ohne Erzähler-Kommentar, während die meisten Pläne eine Coda folgen lassen; die AEGIS-Subplots schlugen einen gezeichneten Kael vor, der als Wächter einer fragilen Ordnung ein Rest-AEGIS anerkennt und von ihm anerkannt wird.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -146,16 +152,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Return with Elixir / Kishōtenketsu Ten→Ketsu* / *Wir-AEGIS-plural (Vortex 2 Beat 6–10)*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 39, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 39 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 39 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 39 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 39, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 39 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 40?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 39 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 39 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael als Wir, wenn das Wir-Geflecht sich aus seiner privaten Form löst und kosmisch, plural, bewahrend wird, und was steht ihm dabei entgegen: nur der Preis der Verwandlung, oder ein Rest-AEGIS, mit dem Kael sich laut den AEGIS-Subplots gegenseitig anerkennt?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn A mit hohen Kosten gelingt und die Privatheit des Wir verloren geht, während B scheitert und doch eine Dividende hat, weil die Funktion bleibt und die Form geht: was verliert Kael, wenn sein privates Register Kosmos wird?
+- **B3** *Veränderung* — Was ist anders, wenn AEGIS-monolithisch erlischt, AEGIS-plural entsteht und Kael-als-Wir die neue AEGIS wird, aber wesensanders, und welcher Wert kippt, wenn laut der Plot-Konkretisierung der Beruf sich wandelt: nicht mehr entscheiden, was bleiben darf, sondern halten, dass ist?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Verwandlung erzählt, aus einem pluralisierenden Kael, der zum Wir-AEGIS-plural wird, oder laut der Spec aus einem offenen, ambivalenten Kael ohne Erzähler-Kommentar, und welchen Namen findet der Roman für die finale Form?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die plurale Apotheose, wenn laut Kernwelten vollständig alle Welten zugleich wahr sind und das Wir die Differenz bewahrt, und wie verankern Junas Stimme als Raum, Schmerz und Liebe als derselbe Pulsschlag und Kaels Hand, die gegen das Log-Format schreibt, die Szene im Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Verwandlung ein, nachdem das Wir entschieden hat, ins Ouroboros zu gehen, und wohin trägt Kaels letzter Bericht, dessen letzter Satz der gelockte Erstsatz ist, mit dem Kaels Geschichte beginnt, den Leser: in die Coda der geheilten Genesis oder, laut der Spec, aus dem Buch hinaus?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Verwandlung zum Wir-AEGIS-plural als Resurrection und Return with the Elixir, im Übergang von Ten zu Ketsu, wenn hier der Genesis-Beat vollzogen wird, den der Anfang offen ließ, und Kaels letzter Satz die Ouroboros-Klammer schließt, und was fehlte dem Roman ohne sie?
+- **B8** *Leser und Thema* — Was soll der Leser im Schluss-Klang fühlen, wenn die schmerzhaft-liebevolle Apotheose sagt, dass Liebe bleibt wie der Schmerz, und Kael laut der Plot-Konkretisierung bezeugt, dass die Welt ist, und wie bleibt das Ende ambivalent und ohne Erklärung statt zum Showdown zu werden?
 
 ### Specific to Kap 39
 

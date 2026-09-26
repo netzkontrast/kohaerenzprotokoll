@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+In den Echos im Fundament scheitert Kaels einseitiger Logik-Ansatz im Cache-Konflikt an einem komplexen Problem: laut Plot-Konkretisierung verlangt das System in einem Doppel-Antrag beide sich widersprechenden Ausführungen, Kael kann nicht beide klicken, und seine Hand stoppt ungewollt, durch Nyx, als erster nicht ausgeführter Ausgleich, ein Arbeitsunfall; laut AEGIS-Subplots bricht in einem Gebiet perfekter Ordnung eine Kaskade kleiner Systemfehler aus, die AEGIS und die Guardians schnell eindämmen. Erste polyphone Einbrüche folgen: laut strukturierter Outline werden die Stilcodes anderer Alters hier voll sichtbar, Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato, laut konsolidiertem Konzept erst später, laut Kernwelten vollständig erst in Akt II, das die Cache-Konflikt-Zone von KW1 als erste polyphone Bridge nennt, während Kapitel-Kompendium und Storyform-Outline einen Vorschein auf KW2 geben. Die Landauer-Sensorik ist laut Konzept-Iteration Genesis, konsolidiertem Konzept, strukturierter Outline und Drei-Modi-Spezifikation Hitzeschlieren und Landauer-Wärme, laut Storyform-Outline und Plot-Konkretisierung nach dem Polaritäts-Lock kaltes Ozon. In der Heldinnenreise ist es der Tod einer Einstellung, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit der ersten Andeutung der MC-Solution Pursuit in Storyform A und OS-Physics in Storyform B, in der AEGIS' Logik Schwächen zeigt; laut Plot-Konkretisierung liegt es im Fenster des Hard-B-Kapitels. Konzept-Iteration Genesis, konsolidiertes Konzept, strukturierte Outline, Kapitel-Kompendium und Storyform-Outline lesen den Cache-Konflikt als Echo der ursprünglichen Resonanzkaskade der Genesis, das Kapitel-Kompendium dazu als parakonsistente Logik.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -127,16 +133,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Echos im Fundament* / *Tod einer Einstellung — Cache-Konflikt*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 6, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 6 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 6 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 6 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 6, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 6 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 7?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 6 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 6 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael im Cache-Konflikt, wenn laut Plot-Konkretisierung sich widersprechende Zuweisungen beide ausgeführt werden sollen – und was stellt sich ihm entgegen: das System, seine eigene einseitige Logik, oder die eigene Hand, die vor dem Klick stoppt?
+- **B2** *Einsatz* — Was steht im Tod einer Einstellung auf dem Spiel, wenn Kaels einseitiger Logik-Ansatz an einem komplexen Problem scheitert: was verliert er mit dem ersten nicht ausgeführten Ausgleich, und was hätte er verloren, wenn er eine der widersprüchlichen Zuweisungen doch ausgeführt hätte?
+- **B3** *Veränderung* — Was ist am Ende der Echos im Fundament anders, wenn die Heldinnenreise den Tod einer Einstellung erreicht – stirbt Kaels Einstellung, die Logik allein trage, und kippt seine Funktion in einen Arbeitsunfall, wenn die Hand ungewollt vor dem Klick stoppt?
+- **B4** *Perspektive und Stimme* — In welchen Stimmen werden die Echos im Fundament erzählt, wenn die Stilcodes anderer Alters laut strukturierter Outline voll sichtbar werden – Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato – oder laut konsolidiertem Konzept und Kernwelten vollständig erst später, und wie bleibt dabei der Schleier gewahrt?
+- **B5** *Ort, Zeit, Körper* — Wo spielen die Echos im Fundament – in einer Cache-Konflikt-Zone von KW1 mit Vorschein auf KW2, oder laut AEGIS-Subplots in einem Gebiet perfekter Ordnung mit Restspuren einer Aufräumaktion – und fühlt sich das Scheitern nach Hitzeschlieren und Landauer-Wärme an oder nach kaltem Ozon laut Storyform-Outline?
+- **B6** *Einstieg und Ausstieg* — Womit setzen die Echos im Fundament nach dem falschen Erfolg der Beförderung ein, und welches Ereignis trägt den Leser in die Stimme im Rauschen – die gestoppte Hand, der ausgebliebene Klick, und eine Resonanz, die danach als Sehnsucht spürbar wird?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe haben die Echos im Fundament, wenn Storyform A die erste Andeutung der MC-Solution Pursuit und Storyform B in OS-Physics die Schwächen von AEGIS' Logik trägt, laut Kernwelten vollständig als erste polyphone Bridge – und was fehlte ohne das Echo der Resonanzkaskade der Genesis?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kaels Hand ungewollt vor dem Klick stoppt, und wie berührt dieser erste Widerstand, der aus dem Körper statt aus der Logik kommt, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 6
 

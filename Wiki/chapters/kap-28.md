@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+AEGIS eskaliert, und ein Ereignis zwingt Kael zum sofortigen Handeln: laut Konzept-Iteration Genesis und Storyform-Outline die Purge-Drohung und Juna in Gefahr zugleich, laut der strukturierten Outline das eine oder das andere, je nach einer offenen Frage; der Countdown beginnt. Die Plot-Konkretisierung fasst die Purge als Voll-Konsolidierung des Stadtgebiets in Apparat-Sprache und lässt die Wartungsfenster erstmals ihren Takt verlieren; die AEGIS-Subplot-Sammlung kennt hier eine Erinnerungswaffe, mit der AEGIS alte Traumata bei Kael reaktiviert. Es ist der Ruf zum Abenteuer der Heldenreise außen, laut der strukturierten Outline im beginnenden Ten; die meisten Quellen legen es in die Phase A des dritten Akts, der Konzept-Master in die Vorbereitung des Vortex mit dessen Vorläufern, Kernwelten vollständig dagegen an das Ende des zweiten Akts, in den Phase-Shift zwischen KW3 und KW4 an unbewachten Toren. In Storyform A trägt es MC-Issue, die Notwendigkeit zu handeln, und laut Kapitel-Kompendium und Storyform-Outline wird die Consequence von A akut, ewige Fragmentierung droht; in B trägt es OS-Physics mit expliziter Erasure-Drohung, laut der strukturierten Outline mit sichtbarem Timelock-Countdown. Die Storyform-Outline nennt das Kapitel als zu verdichten.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -125,16 +131,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Call to Adventure — AEGIS' Eskalation / Juna in Gefahr* / *Call to Adventure: AEGIS' Eskalation / Juna in Gefahr*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 28, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 28 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 28 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 28 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 28, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 28 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 29?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 28 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 28 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was zwingt Kael zum sofortigen Handeln: laut Konzept-Iteration Genesis die Purge-Drohung und Juna in Gefahr zugleich, laut der strukturierten Outline das eine oder das andere, und wer tritt ihm entgegen, wenn diese AEGIS drohend und direkt nennt und Mnemosyne daneben stellt?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn laut Kapitel-Kompendium und Storyform-Outline die Consequence akut wird und ewige Fragmentierung droht und die Plot-Konkretisierung die Voll-Konsolidierung des Stadtgebiets in Apparat-Sprache ankündigt: was verliert Kael, und was Juna?
+- **B3** *Veränderung* — Was ist am Ende der Eskalation anders, wenn der Countdown beginnt und laut der Plot-Konkretisierung die Wartungsfenster ihren Takt verlieren, der Apparat erstmals unordentlich wirkt: kippt die Ordnung des Systems in sichtbare Degradation und Kaels freie Absicht in Zwang?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird AEGIS' Eskalation erzählt, wenn die strukturierte Outline und die Drei-Modi-Spezifikation Kael und eine AEGIS-Direktive als Träger nennen: wie steht die Sprache einer Direktive neben Kaels Wir, und warum tritt AEGIS gerade hier drohend und direkt auf?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Eskalation, wenn Kernwelten vollständig sie in den Phase-Shift zwischen KW3 und KW4 an unbewachte Tore legt und Kael KW3 nicht hinter sich lässt, sondern mitnimmt, und welche drohende Spannung und welche Countdown-Marker spürt sein Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt AEGIS' Eskalation ein, nachdem Kael mit der Autoren-Feder klare Absicht gefasst hat, und welches Ereignis trägt den Leser in die Angst des Kindes, in der letzte Trauma-Erinnerungen auftauchen und der Kind-Anteil sichtbar wird?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat der Ruf zum Abenteuer in der Heldenreise außen, wenn Kael längst entschlossen ist, und was fehlte ohne ihn, wenn der Konzept-Master hier die Vorläufer des Vortex beginnen lässt und die Storyform-Outline das Kapitel als zu verdichten nennt?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Juna laut der strukturierten Outline nur als Bedrohungs-Resonanz erscheint und die Zeit sichtbar abläuft, und wie berührt die Angst um sie das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 28
 

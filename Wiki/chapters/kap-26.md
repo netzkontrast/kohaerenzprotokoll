@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Kael beschließt, die Konfrontation zu suchen, aktiv statt reaktiv, und die Erasure-Vorbereitung eskaliert; laut der strukturierten Outline ist der Zyklus durchbrochen, ohne Erleichterung, nur mit einer Richtung, und die Entscheidung rastet ein wie das Trennungsprotokoll, in umgekehrter Richtung. Was ihm beim Hinaustreten begegnet, erzählen die Quellen verschieden: laut der AEGIS-Subplot-Sammlung ein präventiver Schritt von AEGIS und ein Guardian, der ihn abfängt, laut der strukturierten Outline kein Kampfbeginn, sondern ein Schwellen-Tritt, laut der Plot-Konkretisierung die Reklassifizierung von Einheit 734 als ausgefallen und eine Tür, die ihn nicht mehr registriert. Es ist der vollzogene Wendepunkt zur Befreiung im zyklischen Modus und sitzt auf einem Modus-Wechsel, laut der strukturierten Outline vom zyklischen in den linear-aufsteigenden Modus ohne Storyform-Wechsel, im Shō; das Kapitel-Kompendium und die Storyform-Outline legen es in den zweiten Akt und benennen den Schleier jetzt offen, Kernwelten vollständig legt es als Akt-Ende in die Zitadelle von KW3, die Plot-Konkretisierung in den Block der Niederlegung. In Storyform A trägt es MC-Concern, den Schritt ins Ungewisse als Entschluss, in B OS-Physics mit eskalierender Erasure-Vorbereitung, und laut der strukturierten Outline antizipiert AEGIS die Linearisierung.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -116,16 +122,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Schritt ins Ungewisse* / *Wendepunkt — Entscheidung zur Befreiung*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 26, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 26 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 26 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 26 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 26, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 26 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 27?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 26 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 26 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er beschließt, die Konfrontation zu suchen, aktiv statt reaktiv, und was tritt ihm beim Hinausgehen entgegen: laut der AEGIS-Subplot-Sammlung ein präventiver Schritt von AEGIS und ein Guardian, der ihn abfängt, laut der Plot-Konkretisierung nur eine Tür, die ihn nicht mehr registriert?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn die Erasure-Vorbereitung eskaliert und der Apparat laut der Plot-Konkretisierung Einheit 734 als ausgefallen reklassifiziert und die Direkt-Konsolidierung vorbereitet: was verliert Kael, wenn er zurückweicht, und was, wenn er den Schritt ins Ungewisse tut?
+- **B3** *Veränderung* — Was ist am Ende anders, wenn der Zyklus laut der strukturierten Outline durchbrochen ist, ohne Erleichterung, nur mit einer Richtung, und die Entscheidung einrastet wie das Trennungsprotokoll, aber umgekehrt: welcher Wert kippt, wenn aus dem Kreisen eine Linie wird?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Entscheidung zur Befreiung erzählt, wenn die strukturierte Outline und die Drei-Modi-Spezifikation Kael als entschlossenes Wir führen und der Schleier laut Kapitel-Kompendium und Storyform-Outline jetzt offen benannt ist: wie klingt ein Wir, dessen Vielheit ausgesprochen ist?
+- **B5** *Ort, Zeit, Körper* — Wo spielt der Schritt ins Ungewisse, wenn Kernwelten vollständig ihn in die Zitadelle von KW3 legt, das Innere Bollwerk, gefährlich gerade weil dort am wenigsten Bedrohung erwartet wird, und wie werden aufkommende Bewegung und Vorwärts-Spannung in Kaels Körper spürbar?
+- **B6** *Einstieg und Ausstieg* — Womit setzt der Schritt ins Ungewisse ein, wenn Kael an der Wegkreuzung nur an der Schwelle stand, und welches Ereignis trägt den Leser in die Autoren-Feder, in der Kael mit klarer Absicht handelt und laut der Plot-Konkretisierung einen Bericht schreibt, den niemand angefordert hat?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat der Tritt über die Schwelle als Abschluss des zyklischen Modus und Wechsel in den linear-aufsteigenden ohne Wechsel der Storyform, und was fehlte, wenn Kael ohne diesen Entschluss in die äußere Konfrontation ginge?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn der Zyklus bricht und keine Erleichterung folgt, nur eine Richtung, und wie berührt ein Entschluss, der umgekehrt zum Trennungsprotokoll einrastet, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 26
 

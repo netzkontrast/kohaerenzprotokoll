@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Erweiterungsstufe Akzeptanz der Komplexität, laut der strukturierten Outline im Ki als Vertiefung, in der Plot-Konkretisierung im Block Der zögernde Angestellte, und trägt in Storyform A den MC-Concern Vielfalt als Schöpfung und das Requirement der Mosaik-Akzeptanz, während Storyform B latent bleibt; Kael nimmt seine innere Vielfalt als Stärke an und nicht als Fehler, und das Mosaik wird zur bewussten Tätigkeit. Laut der Plot-Konkretisierung ordnet er seine gelesenen Bestände neu, nicht chronologisch, sondern als Muster; laut den AEGIS-Subplots steht er in KW1 vor einer Aufgabe, die Empathie verlangt und an der die rigide Logik der Welt in Schleifen läuft, bis ein aus ihrer Sicht nicht-logischer Ansatz sie löst. Die strukturierte Outline versammelt die ANPs Lex, Alex, Rhys und Selene und eine erste leise Spur von Kiko, ohne dass das benennende Wort fällt. Kernwelten vollständig legt das Kapitel an die Übergangs-Schwelle zwischen KW1 und KW3 und bereitet dort den Übergang als Jaspers' Grenzsituation vor, wo die anderen Quellen in KW1 bleiben. Das Mosaik-Herz, Scherben als Muster, nimmt die plurale Bewahrung am Ende des Romans vorweg.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -122,16 +128,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Mosaik des Selbst* / *Akzeptanz der Komplexität — Mosaik-Herz*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 11, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 11 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 11 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 11 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 11, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 11 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 12?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 11 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 11 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er laut den AEGIS-Subplots in KW1 eine Aufgabe lösen muss, die Empathie und Kontext verlangt, und die rigide Logik der Welt in absurde oder endlose Schleifen führt, und was stellt sich ihm entgegen, wenn er seine Vielfalt als Stärke statt als Fehler annehmen will?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael die innere Vielfalt als Stärke akzeptiert: was verliert er, wenn die Mosaik-Akzeptanz scheitert und die Scherben Scherben bleiben, und was gibt er auf, wenn er das Bild eines einzigen, ganzen Selbst loslässt?
+- **B3** *Veränderung* — Was ist anders, nachdem Kael laut der Plot-Konkretisierung seine gelesenen Bestände nicht chronologisch, sondern als Muster neu ordnet, und kippt dabei Bruch zu Muster und Fehler zu Stärke, ohne dass das Wort fällt, das seine Vielheit benennen würde?
+- **B4** *Perspektive und Stimme* — In welcher Stimme wird das Mosaik des Selbst erzählt, wenn Kael im Wir-Geflecht spricht, alle ANPs Lex, Alex, Rhys und Selene anwesend sind und Kiko als erste leise Spur eines EP erscheint, und wie hält die Stimme die Multiplizitäts-Schleier-Disziplin?
+- **B5** *Ort, Zeit, Körper* — Wo spielt das Mosaik des Selbst: in KW1 oder an der Übergangs-Schwelle zu KW3, die laut Kernwelten vollständig den Übergang als Jaspers' Grenzsituation vorbereitet, und welche Sinneseindrücke tragen Mosaik und Scherben als Muster an Kaels Körper?
+- **B6** *Einstieg und Ausstieg* — Wie setzt das Mosaik des Selbst ein, nachdem Kael die Verbindung zu Juna erstmals als Werkzeug gebraucht und die Wärmestellen zu kartieren begonnen hat, und welches Ereignis trägt den Leser in die Stille der Mitte, den Tag ohne Zuweisung am leeren Arbeitsplatz?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat das Mosaik des Selbst als Erweiterungsstufe Akzeptanz der Komplexität der Heldinnenreise, mit der Mosaik-Akzeptanz als Requirement und dem MC-Concern Vielfalt als Schöpfung in Storyform A, und was fehlte, wenn das Mosaik nicht als Tätigkeit, sondern nur als Wort vorkäme?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn das Mosaik-Herz die plurale Bewahrung am Ende vorwegnimmt, eine plurale Form, die mehr trägt als ein Selbst, und wie berührt die Annahme der eigenen Scherben das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 11
 

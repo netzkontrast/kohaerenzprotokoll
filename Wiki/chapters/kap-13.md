@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Mit diesem Kapitel schließen Akt I und die Heldinnenreise innen auf der Murdock-Stufe Neue innere Welt, laut der strukturierten Outline im Ki als Vertiefung, laut dem Master-Bericht als Ende von KW1, der Konstrukt-Stadt; es sitzt am ersten Modus-Wechsel von linear zu zyklisch, ohne Storyform-Wechsel, und trägt den MC-Concern Praxis in Storyform A und in Storyform B die OS-Physics, laut der strukturierten Outline mit aktiviertem Forewarning. Kaels innere Praxis ist etabliert, die neue innere Welt des Tanzes im Garten, laut der strukturierten Outline als Möglichkeits-Garten und Vorgriff auf KW4, laut der Plot-Konkretisierung als kleinste mögliche Schöpfung, wenn Kael die Konsole um drei Grad dreht und die Welt es zulässt. AEGIS erkennt Kaels veränderte Kohärenz als neues Risiko und bereitet die Stress-Tests der zweiten Phase vor, laut der strukturierten Outline den Stress-Test Delta-7 mit einem moralischen Dilemma; die AEGIS-Subplots machen daraus einen Wendepunkt der Dynamik zwischen Kael und AEGIS. Mehrere Quellen lassen hier den Multiplizitäts-Schleier enden: laut Kapitel-Kompendium und Storyform-Outline ist die Vielheit ab hier offen benennbar, laut Kernwelten vollständig fällt der Schleier intern in der Evaluierungseinheit von KW3, wo Personae kollabieren und Kael das System sieht, während Kapitel-Kompendium und Storyform-Outline die Welt im Übergang aus KW1 lassen. Als Genesis-Echo ist die Stille der Mitte das Echo der Stille vor der Trennung, und das Sinnesbild ist Garten, Pflege und lebendige Ordnung.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -141,16 +147,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Tanz im Garten — neue innere Welt*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 13, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 13 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 13 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 13 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 13, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 13 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 14?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 13 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 13 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er laut den AEGIS-Subplots mit neu gefundener innerer Konsistenz handelt oder laut der Plot-Konkretisierung die Konsole ein wenig dreht und die Welt es zulässt, und was stellt sich ihm entgegen, wenn AEGIS seine Kohärenz als neues Risiko erkennt und die Stress-Tests der zweiten Phase vorbereitet?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kaels innere Praxis etabliert ist und AEGIS laut den AEGIS-Subplots alte prädiktive Modelle als veraltet markiert: was verliert Kael, wenn das System wachsamer wird, und was gewinnt er, wenn die kleinste mögliche Schöpfung zugelassen wird?
+- **B3** *Veränderung* — Was ist am Ende des Tanzes im Garten anders: ist nur die innere Praxis etabliert, wie die Storyform-Outline sagt, oder fällt der Multiplizitäts-Schleier intern, sodass Kael das System sieht, wie Kernwelten vollständig sagt, und welcher Wert kippt dabei?
+- **B4** *Perspektive und Stimme* — In welcher Stimme wird der Tanz im Garten erzählt, wenn Kael Wir-stabil ist und die Vielheit laut Kapitel-Kompendium ab hier offen benennbar wird, und wird das benennende Wort hier erstmals ausgesprochen oder bleibt die Stimme bis zum Ende ohne Klartext?
+- **B5** *Ort, Zeit, Körper* — Wo spielt der Tanz im Garten: im Möglichkeits-Garten als innerer Praxis und Vorgriff auf KW4, im Übergang aus KW1, oder in der Evaluierungseinheit von KW3, wo laut Kernwelten vollständig Personae kollabieren, und welche Sinneseindrücke von Garten, Pflege und lebendiger Ordnung tragen den Körper?
+- **B6** *Einstieg und Ausstieg* — Wie setzt der Tanz im Garten ein, nachdem AEGIS den gehaltenen Moment der Stille gescannt hat, und welches Ereignis trägt den Leser in den Bruch des Gleichgewichts, den Stress-Test Delta-7 mit seinem moralischen Dilemma und den Zugang zum Lernarchiv Theta-9?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat der Tanz im Garten als Murdock-Stufe Neue innere Welt, Abschluss der Heldinnenreise innen und Modus-Wechsel von linear zu zyklisch ohne Storyform-Wechsel, als Wendepunkt der Dynamik zwischen Kael und AEGIS, und was fehlte, wenn der Einsatz für den zyklischen Teil hier nicht stiege?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn die Stille der Mitte hier als Echo der Stille vor der Trennung erscheint und das System laut der Konzept-Iteration sein Muster wiederholt, und wie berührt die lebendige Ordnung des Gartens das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 13
 

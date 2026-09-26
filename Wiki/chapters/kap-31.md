@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Was mit den Guardians geschieht, erzählen die Quellen verschieden: laut Konzept-Iteration Genesis, konsolidiertem Konzept und Storyform-Outline absorbiert Kael die Guardian-Prinzipien gesund, und die Wächter gehen in Lichtstaub auf, was diese Quellen als proleptische Vorform der Wir-AEGIS-plural lesen; laut der strukturierten Outline beginnt Kael, AEGIS' Kernsystem anzugreifen, und die Guardians bleiben im folgenden Systemkampf Sub-Antagonisten. Die Plot-Konkretisierung macht die Auflösung zu einem doppelten Angebot statt eines Kampfes: Mnemosyne bietet Vollarchiv-Rechte, der Erasure-Pol die Löschung der eigenen Akte, und Kael unterschreibt keines und behält beide Prinzipien. Es ist das Überschreiten der ersten Schwelle der Heldenreise außen, laut der Konzept-Iteration Genesis zugleich Tests, Allies, Enemies, laut der strukturierten Outline im beginnenden Ten, in der Phase A des dritten Akts; in Storyform A trägt es MC-Concern, Memory als Waffe, in B OS-Physics, laut Konzept-Iteration Genesis und konsolidiertem Konzept mit den Guardians als Sub-Antagonisten, laut der Drei-Modi-Spezifikation mit AEGIS' greifender Verteidigung. Die strukturierte Outline schlägt Silas als POV-Träger einer bridge-natürlichen Szene mit Echo-Prosa vor und zeigt den Mnemosyne-Archipel am Horizont, und Kernwelten vollständig legt das Kapitel in KW4 mit Schwellen-Bruch und Klick-Motiv. Die AEGIS-Subplot-Sammlung kennt hier einen Firewall-Bruch, durch den Juna oder V eine stabile Verbindung in AEGIS' simulierte Realität herstellt.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -115,16 +121,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Auflösung der Guardians* / *Crossing First Threshold — Angriff auf AEGIS*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 31, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 31 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 31 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 31 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 31, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 31 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 32?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 31 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 31 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael an der Schwelle: laut der strukturierten Outline AEGIS' Kernsystem angreifen, laut Konzept-Iteration Genesis Guardian-Prinzipien gesund absorbieren, Logik ohne Kälte, Schutz ohne Paranoia, und was stellt sich ihm entgegen, Guardians als Sub-Antagonisten oder laut der Plot-Konkretisierung ein doppeltes Angebot statt eines Kampfes?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn laut der Plot-Konkretisierung Mnemosyne Vollarchiv-Rechte und der Erasure-Pol die Löschung der eigenen Akte anbietet: was verlöre Kael mit jeder Unterschrift, und was behält er, wenn er beide ablehnt und beide Prinzipien mitnimmt?
+- **B3** *Veränderung* — Was ist am Ende anders, wenn die Wächter in Lichtstaub aufgehen und in Kael fließen und er laut Konzept-Iteration Genesis schon AEGIS-Funktionen pluralisiert annimmt: kippt Gegnerschaft in Aufnahme, oder stehen die Guardians, wie die strukturierte Outline sie im folgenden Systemkampf führt, weiter als Gegner?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Schwelle erzählt, wenn die strukturierte Outline Kael als aktives Wir und Silas in einer längeren POV-Szene mit Echo-Prosa angibt, das aber selbst nur Vorschlag nennt: warum soll gerade Silas' Stimme den Übertritt markieren?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Schwelle, wenn Kernwelten vollständig sie in KW4 mit Schwellen-Bruch und Klick-Motiv legt und das Forum des Dialogs als möglichen Ort nennt, während die strukturierte Outline den Mnemosyne-Archipel am Horizont zeigt, und wie spürt der Körper eine Architektur, die nicht für Eintretende gebaut ist?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Schwelle ein, nachdem die Verbindung zu Juna zum bewussten Kanal geworden ist, und welches Ereignis trägt den Leser in die logischen Labyrinthe, in denen Kael laut der Plot-Konkretisierung Fälschungen seiner Fälschungen in Oblivions Hand erkennen muss?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat das Überschreiten der Schwelle in der Heldenreise außen als Auflösung der Guardians, wenn ihre Zahl und Paarung ein Konflikt der Quellen sind und die Storyform-Outline Mnemosyne später noch als betroffene Guardian führt: was fehlte ohne die Auflösung?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael keines der beiden ehrlichen Formulare unterschreibt und mit beiden Prinzipien den Raum verlässt, und wie berührt dieses Behalten ohne Unterwerfung das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 31
 

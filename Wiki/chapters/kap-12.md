@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Erweiterungsstufe Innerer Frieden, laut der strukturierten Outline Innerer Frieden und Potenzial im Jetzt-Raum und im Ki als Vertiefung, in der Plot-Konkretisierung im Block Der zögernde Angestellte, mit dem MC-Concern Präsenz in Storyform A und latenter OS-Physics in Storyform B. Kael findet in einem gehaltenen Moment innere Balance, die Stille der Mitte, Stille als Substanz und nicht als Leere; laut der Plot-Konkretisierung an einem Tag ohne Zuweisung, am leeren Arbeitsplatz, atmend. AEGIS scannt diesen Zustand: laut der Konzept-Iteration klassifiziert er ihn als anomale Kohärenz, laut der strukturierten Outline kann er ihn nicht klassifizieren, und der Leser spürt, dass AEGIS ein Problem hat. Die AEGIS-Subplots lassen zuvor widersprüchliche Anteile zu einer Synthese finden und AEGIS versuchen, Kael zu debuggen und den alten Konfliktzustand wiederherzustellen, während Kernwelten vollständig das Kapitel als Riss-Eskalation in einer Übergangs-Zone von KW1 liest, in der sich thermische Risse häufen. Als Genesis-Echo ist der Moment eine kleine Wieder-Berührung der Reinform, getragen von Stille, Atem und Herzschlag.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -118,16 +124,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die Stille der Mitte* / *Stille der Mitte — Jetzt-Raum*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 12, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 12 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 12 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 12 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 12, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 12 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 13?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 12 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 12 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael an einem Tag ohne Zuweisung, wenn laut der Plot-Konkretisierung die Schlange auf null steht und er am leeren Arbeitsplatz atmet, und was stellt sich dem gehaltenen Moment entgegen, wenn AEGIS laut den AEGIS-Subplots Kael zu debuggen und den alten Konfliktzustand wiederherzustellen versucht?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael die innere Balance findet und AEGIS diesen Zustand scannt: was verliert Kael, wenn AEGIS die Synthese als Anomalie einordnet und rückgängig macht, und was riskiert er, wenn die Stille hält?
+- **B3** *Veränderung* — Was ist anders nach der Stille der Mitte: hat Kael Stille als positive Substanz statt als Leere gefunden, wie die strukturierte Outline sagt, oder häufen sich laut Kernwelten vollständig die thermischen Risse, und welcher Wert kippt zwischen innerem Frieden und Riss-Eskalation?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Stille der Mitte erzählt, wenn Kael gesammelt ist und AEGIS laut der Plot-Konkretisierung nur als Scan und als Direktive VERWEILEN ZULÄSSIG erscheint, und wie spürt der Leser, dass AEGIS ein Problem hat, ohne dass AEGIS eine Innensicht bekommt?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Stille der Mitte: am leeren Arbeitsplatz, in KW1 oder in einer Übergangs-Zone mit thermischen Rissen, und wie verankern Stille, Atem und Herzschlag Kaels Körper in einem Moment, der eine Sekunde Frieden wie vor der Trennung ist?
+- **B6** *Einstieg und Ausstieg* — Wie setzt die Stille der Mitte ein, nachdem Kael seine Bestände als Mosaik neu geordnet hat, und welche offene Frage trägt den Leser zum Tanz im Garten, wo er die Konsole ein wenig dreht und AEGIS die Stress-Tests der zweiten Phase vorbereitet?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Stille der Mitte als Erweiterungsstufe Innerer Frieden der Heldinnenreise, mit dem MC-Concern Präsenz in Storyform A und latenter OS-Physics in B, und klassifiziert AEGIS den Zustand als anomale Kohärenz, wie die Konzept-Iteration sagt, oder gar nicht, wie die strukturierte Outline sagt?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn der gehaltene Moment eine kleine Wieder-Berührung der Reinform ist und AEGIS ihn nicht versteht, und wie berührt diese Stille, die keine Leere ist, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 12
 

@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Rückkehr mit neuer Sichtweise, in der die Integration beginnt, laut der strukturierten Outline im Ki als Vertiefung, in KW1, und in der Plot-Konkretisierung im Block Der zögernde Angestellte; Kaels Anteile kooperieren zum ersten Mal, und mehrere Quellen setzen hier den frühesten Ort, an dem ein Wir-Geflecht entstehen darf. Wie bewusst das geschieht, sagen die Quellen verschieden: laut der strukturierten Outline spürt Kael sich erstmals als mehrere, in einer ersten expliziten Wir-Stimme-Szene mit Lex, Rhys, Selene und Alex, ohne dass das Wort Alters fällt; laut der Storyform-Outline ist es eine bewusste innere Kooperation; laut der Plot-Konkretisierung eine Arbeitsteilung an der Konsole, die sich für Kael wie ein guter Tag anfühlt und nicht wie ein Wir. Die AEGIS-Subplots lassen AEGIS fast sofort auf eine solche Verbindung reagieren, vielleicht durch Cerberus, sodass Kaels Heilung vom System aktiv bekämpft wird. In Storyform A trägt das Kapitel laut dem konsolidierten Konzept den MC-Concern, Logik und Intuition verbinden sich, laut dem Kapitel-Kompendium das Requirement, Wir-Bildung beginnt, während Storyform B latent bleibt; als Genesis-Echo ist die Wir-Bildung die Wieder-Annäherung an die Reinform über plurale Form, und jede Wir-Stimme-Szene ab hier zielt auf das Ende des Romans.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -128,16 +134,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Kap 9 — Wir* / *Rückkehr mit neuer Sichtweise — Integration beginnt*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 9, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 9 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 9 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 9 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 9, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 9 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 10?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 9 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 9 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn Lex, Rhys, Selene und Alex in innerer Polyphonie zu kooperieren beginnen, und wer stellt sich dem entgegen, wenn laut den AEGIS-Subplots AEGIS fast sofort auf die Verbindung der Anteile reagiert, vielleicht durch Cerberus, der auf Sicherheit zielt?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kaels Heilung laut den AEGIS-Subplots vom System aktiv bekämpft wird: was verliert er, wenn die erste innere Kooperation zerschlagen wird, und was, wenn sie hält und AEGIS jede innere oder äußere Verbindung als Bedrohung einstuft?
+- **B3** *Veränderung* — Was ist anders, nachdem Kael sich erstmals als mehrere spürt, wie die strukturierte Outline sagt, oder nachdem er an der Konsole nur einen guten Tag erlebt, der sich nicht wie ein Wir anfühlt, wie die Plot-Konkretisierung vorschlägt, und welcher Wert kippt, wenn Vereinzelung zu Kooperation wird?
+- **B4** *Perspektive und Stimme* — In welcher Stimme wird Wir erzählt: als Kael mit innerem Dialog in einer ersten expliziten Wir-Stimme-Szene, als bewusste Kooperation laut der Storyform-Outline, oder als Arbeitsteilung ohne Benennung laut der Plot-Konkretisierung, und wie hält die Stimme die Disziplin, dass das Wort Alters nicht fällt?
+- **B5** *Ort, Zeit, Körper* — Wo in KW1 spielt die erste Wir-Bildung, wenn die Plot-Konkretisierung sie an die Konsole legt, wo einer sortiert, einer innehält und einer liest, und welche Sinneseindrücke machen das innere Geflecht und die Wir-Stimme körperlich spürbar?
+- **B6** *Einstieg und Ausstieg* — Wie setzt Wir ein, nachdem Kael begonnen hat, seine logischen Anteile mit Mitgefühl zu sehen, und welche offene Frage trägt den Leser zur ersten Brücke, in der Kael die Verbindung zu Juna erstmals als Werkzeug gebraucht?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Wir als Murdock-Stufe Rückkehr mit neuer Sichtweise, in der die Integration beginnt, wenn laut Kapitel-Kompendium jede Wir-Stimme-Szene ab hier auf das Ende zielt, und trägt es in Storyform A den MC-Concern, Logik und Intuition verbinden sich, oder das Requirement, Wir-Bildung beginnt?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn die Wir-Bildung laut dem Genesis-Echo die Wieder-Annäherung an die Reinform über plurale Form ist, und wie berührt die erste innere Kooperation das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 9
 

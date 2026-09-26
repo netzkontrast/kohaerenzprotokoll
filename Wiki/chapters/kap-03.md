@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Im Bunker-Bau verdoppelt Kael, nun lex-dominant, Kontrolle und Ordnung und baut eine mentale Festung als Vermeidung, sucht Stärke in AEGIS' Methoden und sammelt laut strukturierter Outline Werkzeuge aus den Kernwelten; laut Plot-Konkretisierung ist der Bunker ein Gegenregister, eine Doppel-Buchführung aus Orten, Zahlen und Differenzen, laut AEGIS-Subplots stößt Kael an eine Logikregel, die ein Guardian wie LogOS erzwingt. Zugleich erscheint Junas Spur zum ersten Mal: laut Konzept-Iteration Genesis sieht Kael sie als Echo, das verschwindet und um das Stadtgesetze brechen, laut Storyform-Outline debütiert ihre Coheron-Spur als Wärme, laut Kernwelten vollständig im verlassenen Randbezirk von KW1, laut Plot-Konkretisierung auf dem Heimweg im Transitkorridor, während der Arbeitsplatz kalt bleibt. In der Heldinnenreise ist es Erwachen und Vorbereitung, die Identifikation mit dem Männlichen, laut Konzept-Iteration Genesis eine Vorbereitung mit Juna-Ahnung, laut strukturierter Outline in der Ki-Vertiefung von Akt I. Storyform A trägt laut konsolidiertem Konzept, strukturierter Outline und Storyform-Outline das MC-Problem Avoidance als ANP-Funktion, laut Konzept-Iteration Genesis ein RS-Physics-Vorzeichen mit Moonshine-Andeutung, und Storyform B ist latent. Die Festung aus Glas und Stahl ist laut strukturierter Outline die innere Spiegelung von AEGIS' eigenem Trennungsprotokoll, laut Kapitel-Kompendium Autopoiesis als Selbst-Abschottung.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -127,16 +133,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Das flüchtige Echo* / *Bunker-Bau*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 3, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 3 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 3 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 3 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 3, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 3 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 4?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 3 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 3 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, lex-dominant, im Bunker-Bau, wenn er Kontrolle und Ordnung verdoppelt und in AEGIS' Methoden Stärke sucht – und was stellt sich ihm entgegen: eine Wärme, die nicht in die Ordnung passt, oder laut AEGIS-Subplots ein Guardian wie LogOS, der eine Logikregel erzwingt?
+- **B2** *Einsatz* — Was steht im Bunker-Bau auf dem Spiel, wenn Kael eine mentale Festung als Vermeidung baut: was verliert er, wenn sie hält und ihn gegen die erste Spur Junas abschottet, und was, wenn sie fällt, bevor er weiß, wovor sie schützt?
+- **B3** *Veränderung* — Was ist am Ende des Bunker-Baus anders, wenn die Heldinnenreise bei Erwachen und Vorbereitung, der Identifikation mit dem Männlichen, steht – oder laut Konzept-Iteration Genesis bei einer Vorbereitung mit Juna-Ahnung –, und kippt Schutz in Selbst-Abschottung, wenn aus Notizen ein Gegenregister wird?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird der Bunker-Bau erzählt, wenn Kael lex-dominant ist – in Lex' Logik und Syntax, mit ersten Stilcode-Einbrüchen anderer Alters – und warum gerade in der Stimme, die Kontrolle baut, wenn zugleich die erste Wärme auftaucht?
+- **B5** *Ort, Zeit, Körper* — Wo spielt der Bunker-Bau, und wo debütiert Junas Wärme – im verlassenen Randbezirk von KW1 laut Kernwelten vollständig oder auf dem Heimweg im Transitkorridor, während der Arbeitsplatz kalt bleibt, laut Plot-Konkretisierung – zwischen Glas, Stahl und Festungs-Architektur?
+- **B6** *Einstieg und Ausstieg* — Womit setzt der Bunker-Bau nach dem ersten Riss und der fremden Syntax im Entwurfsordner ein, und welches Ereignis trägt den Leser in die Prüfungen – die Wärme, die Kael nicht einordnen kann, oder ein Zögern vor dem Klick, das später das Audit misst?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat der Bunker-Bau im Bogen, wenn er in Storyform A das MC-Problem Avoidance als ANP-Funktion trägt, laut Konzept-Iteration Genesis dagegen ein RS-Physics-Vorzeichen, bei latenter Storyform B – und was fehlte ohne die Festung, die laut strukturierter Outline AEGIS' Trennungsprotokoll spiegelt?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael sich einmauert und gerade dann Junas Spur zum ersten Mal erscheint – als verschwindendes Echo, um das Stadtgesetze brechen, laut Konzept-Iteration Genesis, oder als erste Wärme laut Storyform-Outline –, und wie berührt das, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 3
 

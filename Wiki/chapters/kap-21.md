@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Alle gelesenen Quellen stellen die Membran in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Destabilisierung, mit der der dritte Spiral-Zyklus beginnt, und laut der Konzept-Iteration Genesis die Mitte des Genesis-Clusters. Kael testet bewusst die Grenzen der Simulation und spürt das Potentialmeer, laut der strukturierten Outline auch AEGIS' Verletzlichkeit; im Genesis-Flashback des Trennungsprotokolls fühlt er einen Schmerz, ohne den Kontext zu haben, und laut der Konzept-Iteration Genesis spürt er die Leere unter der Simulation als das Nichts-Rauschen der Genesis, jetzt direkt. Storyform A führt die MC-Concern der Ontologie-Tiefe, laut dem konsolidierten Konzept und der Storyform-Outline als Juna-Echo; für Storyform B nennen die Konzept-Iteration Genesis und das konsolidierte Konzept die RS-Physics als Moonshine-Spüren des Potentialmeers, die strukturierte Outline dagegen den zweiten Signpost der RS, Conceiving, in dem AEGIS Kael als unkontrollierbar reformuliert. Laut Kernwelten vollständig liegt die Szene im Wald des Flüsterns in KW2, einer semipermeablen Erinnerungslandschaft mit Stimmen vergangener Versionen, und Membran-Wahrnehmung und Vibrieren an einer Grenze, die nicht aus Material ist, tragen sie. Laut der Plot-Konkretisierung wird der Ontologie-Riss zum Verwaltungs-Paradox, wie man konsolidiert, was nie geführt wurde, um die Kiste, die laut Bestandsführung nie existiert hat, in einer Szene getrennt vom Flashback.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -111,16 +117,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Membran* / *Z3-Simulationsgrenze + Genesis-Flashback*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 21, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 21 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 21 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 21 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 21, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 21 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 22?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 21 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 21 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er bewusst die Grenzen der Simulation testet, und was stellt sich ihm entgegen: eine Grenze, die nicht aus Material ist, oder laut der Plot-Konkretisierung ein Verwaltungs-Paradox, wie man konsolidiert, was nie geführt wurde?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael das Potentialmeer und AEGIS' Verletzlichkeit spürt und im Genesis-Flashback des Trennungsprotokolls einen Schmerz fühlt, ohne den Kontext zu haben: was verliert er, wenn er weiter an die Membran geht, und was, wenn er zurückweicht?
+- **B3** *Veränderung* — Was ist an der Membran anders als nach der Lyons-Kreativität, wenn AEGIS laut der strukturierten Outline Kael als unkontrollierbar reformuliert, und kippt dabei Kaels kreatives Umgehen in eine offene Bedrohung für das System?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Membran erzählt, wenn die strukturierte Outline Kael grenzbewusst, ein Juna-Echo und eine Genesis-Flashback-Stimme nennt, und wie klingt Juna als Echo, das das konsolidierte Konzept zum Concern von Storyform A macht?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Simulationsgrenze, im Wald des Flüsterns in KW2, einer semipermeablen Erinnerungslandschaft mit Stimmen vergangener Versionen laut Kernwelten vollständig, und wie verankern Membran-Wahrnehmung und Vibrieren den Körper, wenn Kael laut der Konzept-Iteration Genesis die Leere unter der Simulation spürt?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Membran nach der Lyons-Kreativität und, laut der Plot-Konkretisierung, der ersten Fälschung ein, und welches Ereignis trägt den Leser in AEGIS' unvorhersehbare Systemänderungen und den Genesis-Flashback um Komponente 734?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Membran als Destabilisierung, die den dritten Spiral-Zyklus eröffnet, mit dem Trennungsprotokoll in der Mitte des Genesis-Clusters, wenn Storyform B laut der Konzept-Iteration Genesis Moonshine-Spüren trägt, laut der strukturierten Outline den Signpost Conceiving der RS?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael einen Schmerz fühlt, dessen Ursache er nicht kennt, und laut der Plot-Konkretisierung um die Kiste ringt, etwas, das laut Bestandsführung nie existiert hat, und wie berührt das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 21
 

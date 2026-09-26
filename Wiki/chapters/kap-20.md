@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Alle gelesenen Quellen stellen die Lyons-Kreativität in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Korrektur, mit der der zweite Spiral-Zyklus schließt. Kael nutzt fluide Regeln, laut der strukturierten Outline die der Lyons-Welt als Vorgriff auf KW4, um AEGIS' Interventionen kreativ zu umgehen, kreativ-polyphon erzählt, ein Wir, das Neues wagt, und die strukturierte Outline hört darin ein Echo der Schöpferkraft vor der Trennung. Storyform A führt die MC-Solution als erste bewusste Pursuit-Bewegung, Storyform B bleibt latent; die strukturierte Outline gibt dieselbe Formel schon der Wächterin. Laut Kernwelten vollständig liegt das Kapitel in KW2 als Genesis-Bridge, mit der die Genesis-Flashbacks beginnen, während die strukturierte Outline und die Storyform-Outline sie schon mit der Cluster-Bildung beginnen lassen. Laut der Plot-Konkretisierung begeht Kael seine erste Fälschung: er kopiert einen Selbst-Bestand, bevor er ihn bestätigt, gleicht aus und behält, und der Klick klingt zum ersten Mal anders.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -108,16 +114,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Lyons-Welt* / *Z2-Lyons-Kreativität*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 20, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 20 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 20 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 20 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 20, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 20 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 21?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 20 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 20 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er laut der strukturierten Outline fluide Regeln der Lyons-Welt nutzt, um AEGIS' Interventionen kreativ zu umgehen, und was stellt sich ihm entgegen: AEGIS' neue Regeln, oder laut der Plot-Konkretisierung der Klick der Bestätigung, vor dem er einen Selbst-Bestand kopiert?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael laut der Plot-Konkretisierung seine erste Fälschung begeht und einen Selbst-Bestand kopiert, bevor er ihn bestätigt: was verliert er, wenn der Apparat sie entdeckt, und was gewinnt er, wenn er ausgleicht und behält?
+- **B3** *Veränderung* — Was ist nach der Lyons-Kreativität anders als nach AEGIS' Intervention, wenn Kael bewusst neue Wege sucht und der Klick laut der Plot-Konkretisierung zum ersten Mal anders klingt, und kippt Gehorsam gegenüber dem Apparat dabei in stilles Behalten?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Lyons-Kreativität erzählt, wenn die strukturierte Outline Kael kreativ-polyphon nennt, ein Wir, das Neues wagt, und wie klingt diese polyphone Stimme anders als der dyssynchrone Kael des Cache-Konflikts?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die kreative Lösung, in der Lyons-Welt als Vorgriff auf KW4 laut der strukturierten Outline oder in KW2 als Genesis-Bridge laut Kernwelten vollständig, und wie verankern fluide Regeln, Emergenz-Texturen und eine Kernwelt, die mit-denkt, den Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Lyons-Kreativität nach AEGIS' offener Erasure-Logik und Mnemosynes Manipulation ein, und welches Ereignis trägt den Leser zur Membran, an der Kael bewusst die Grenzen der Simulation testet und das Potentialmeer spürt?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Lyons-Kreativität als Korrektur, die den zweiten Spiral-Zyklus schließt, wenn die strukturierte Outline hier wie bei der Wächterin die erste bewusste Pursuit-Bewegung setzt, und was fehlte ohne das Echo der Schöpferkraft vor der Trennung oder laut Kernwelten vollständig ohne die Genesis-Bridge?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn der Klick zum ersten Mal anders klingt und Kael behält, was er ausgleichen sollte, und wie berührt dieses heimliche Behalten eines Selbst-Bestands das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 20
 

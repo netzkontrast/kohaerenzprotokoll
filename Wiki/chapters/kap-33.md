@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+In der äußeren Heldenreise ist das Approach the Inmost Cave, im dritten Akt der äußeren Konfrontation, laut der strukturierten Outline im beginnenden Ten und laut Konzept-Master-Report in dem Teil des Akts, der den Vortex vorbereitet; in Storyform A steht das MC-Concern nahe an der Quelle, in B parakonsistente Logik und Gödel-Sätze als Architektur, und als Genesis-Echo berührt Kael, was AEGIS damals als Bedrohung erlebte. Kael dringt zu AEGIS' Kern vor, den die Konzept-Iteration Das Fundament nennt, und berührt die nicht-algorithmische Unterstruktur in ihrer Reinform; laut Konzept-Master-Report und strukturierter Outline ist hier die Funktionale Multiplizität erreicht, alle Alters arbeiten kooperativ, ohne Final Fusion, und der Konzept-Master-Report liest den folgenden Vortex als Folge dieser Integration auf AEGIS. Kernwelten vollständig setzt die Berührung auf die Verschränkungs-Insel der Überwelt und nennt den Garten der stillen Präsenz als Setting von Junas Wirkung, die strukturierte Outline lässt den Mnemosyne-Archipel sich öffnen, und dunkle Tiefe und das Vibrieren des Fundaments sind das Leitmotiv. Laut der Plot-Konkretisierung liegt am Kern das Original, die erste Zuweisung des Universums, und daneben unangetastet der Datensatz ohne Datentyp; die AEGIS-Subplots schlugen dagegen eine Realitätsbelagerung vor, die Kael an seine Grenze treibt und wieder zu fragmentieren droht.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -124,16 +130,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Das Fundament* / *Approach Inmost Cave — Vordringen zu AEGIS' Kern*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 33, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 33 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 33 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 33 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 33, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 33 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 34?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 33 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 33 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael beim Vordringen zu AEGIS' Kern, wo er die nicht-algorithmische Unterstruktur berührt, und was stellt sich ihm entgegen: parakonsistente Logik und Gödel-Sätze als Verteidigungsarchitektur, oder laut den AEGIS-Subplots eine Realitätsbelagerung, die sein Bewusstsein wieder zu fragmentieren droht?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael berührt, was AEGIS in der Genesis als Bedrohung erlebte, und laut der Plot-Konkretisierung an der Wurzel der Schlange das Original findet, die erste Zuweisung des Universums: was verliert er, wenn die Berührung scheitert, und was, wenn sie gelingt?
+- **B3** *Veränderung* — Was ist anders, wenn Kael AEGIS' Kern erreicht hat und laut Konzept-Master-Report und strukturierter Outline die Funktionale Multiplizität erreicht ist, alle Alters kooperativ, aber keine Final Fusion: welcher Wert kippt, wenn Vielheit vom Symptom zur Arbeitsform wird?
+- **B4** *Perspektive und Stimme* — Wird das Vordringen zum Fundament aus einem Wir-fokussierten Kael erzählt, wie Spec und strukturierte Outline sagen, oder setzt hier laut den Richtwerten der Storyform-Outline Oblivions POV ein, und wer trägt die Stimme, wenn alle Alters zugleich arbeiten?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Berührung des Fundaments, auf der Verschränkungs-Insel der Überwelt, im Garten der stillen Präsenz oder beim sich öffnenden Mnemosyne-Archipel, und wie verankern dunkle Tiefe, das Vibrieren des Fundaments und eine Stille, die voller ist als Klang, Kaels Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt das Vordringen ein, nachdem Kael im Wahrheits-Test seine Bestände an ihren Fehlern erkannt hat, und welches Ereignis am Kern, das Original oder der lange unangetastete Datensatz ohne Datentyp, trägt den Leser ins Duell des Wir gegen AEGIS' Makro-Log?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Approach the Inmost Cave im Bogen, wenn der Konzept-Master-Report den Vortex nicht als Integrationsmoment, sondern als Folge der hier erreichten Integration auf AEGIS liest, und was fehlte dem Vortex, wenn man das Vordringen zu AEGIS' Kern striche?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn neben dem Original der Datensatz ohne Datentyp liegt und Kernwelten vollständig den Garten der stillen Präsenz als Setting von Junas Wirkung nennt, während die Charakter-Bibel dort eine spürbare Präsenz setzt, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 33
 

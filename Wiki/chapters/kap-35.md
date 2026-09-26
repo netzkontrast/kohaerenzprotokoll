@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel öffnet den Vortex der operativen Wendung und damit die Vortex-Klammer, in der äußeren Heldenreise das Ordeal, laut der strukturierten Outline den ersten Höhepunkt des Ten; hier vollzieht sich der Storyform-Übergang von B zu A, laut Kapitel-Kompendium die echte Storyform-Wendung, an der B zu erlöschen beginnt, in A mit vollzogener Pursuit und Resolve Change, in B mit der nie adoptierten Solution Feeling als manifestem Failure. Welche Beats es trägt, sagen die Pläne verschieden, Kernwelten vollständig nur Convergence und Dialetheic Choice, Storyform-Outline und strukturierte Outline auch die Stille, der Konzept-Master-Report keinem Kapitel einen Beat; laut dem konsolidierten Konzept formuliert Kael das Wir als lebenden Widerspruch und speist es in AEGIS' Logik ein, bis AEGIS' Stimme stottert, laut strukturierter Outline und Storyform-Outline lässt AEGIS den finalen Erasure-Sweep auf Kaels Fragmente konvergieren. Die Wahl ist laut der strukturierten Outline das Fallenlassen der ANP/EP-Barrieren, laut der Storyform-Outline ein Wechsel von linear zu holistisch mit einer einzigen Geste, laut der Plot-Konkretisierung die Nicht-Bedienung, wenn Kael die Hand von der Konsole nimmt. Es spielt im Mnemosyne-Archipel (strukturierte Outline, Konzept-Master-Report) oder in der Mnemosyne-Server-Architektur von KW2 (Kapitel-Kompendium, Storyform-Outline), unter Ozon-Spike und glühendem paradoxem Code. Die Stille ist laut Storyform-Outline und Konzept-Master-Report strukturell und nicht mit Inhalt zu füllen, laut der strukturierten Outline der Moment, in dem AEGIS die Genesis zeigen muss; die AEGIS-Subplots lasen die Stelle als Nachbeben, Kollaps, Abschaltung oder Fragmentierung.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -145,16 +151,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Vortex 1 Beats 1–3* / *Vortex Beat 1–3 — Einspeisung des paradoxen Selbst*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 35, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 35 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 35 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 35 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 35, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 35 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 36?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 35 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 35 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael im Vortex, wenn AEGIS laut strukturierter Outline und Storyform-Outline den finalen Erasure-Sweep auf Kaels Fragmente konvergieren lässt, und handelt er dagegen, indem er das Wir als lebenden Widerspruch in AEGIS einspeist, oder laut der Plot-Konkretisierung, indem er die Hand von der Konsole nimmt?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn der Erasure-Sweep auf Kaels Cluster konvergiert und laut der Plot-Konkretisierung die letzte Zuweisung der Antrag auf das Ganze ist: was verliert Kael, wenn er bestätigt oder verwirft, und was, wenn er die dialetheische Wahl als Nicht-Bedienung trifft?
+- **B3** *Veränderung* — Was ist nach der Pursuit-Adoption anders, wenn Kael laut der strukturierten Outline die ANP/EP-Barrieren fallen lässt und Trauma integriert, laut der Storyform-Outline von linear zu holistisch wechselt: welcher Wert kippt, wenn Handeln zur Nicht-Bedienung wird und AEGIS' Stimme stottert?
+- **B4** *Perspektive und Stimme* — Wird die Einspeisung des paradoxen Selbst aus dem Wir erzählt, dessen Blick auf ein brechendes AEGIS übergeht, und was bedeutet es für die Stimme, wenn laut der Storyform-Outline die Zeugen-Schicht des husserlschen Spectators aktiv ist?
+- **B5** *Ort, Zeit, Körper* — Wo spielt der Vortex, im Mnemosyne-Archipel oder laut dem Kapitel-Kompendium in der Mnemosyne-Server-Architektur von KW2, und wie verankern Ozon-Spike, Temperatur-Anomalie, glühender paradoxer Code, eine einzige körperliche Geste und das Fehlen des Klicks die Szene im Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt der Vortex nach dem Duell von Wir und Makro-Log ein, mit Kaels Anlauf oder mit AEGIS' Erasure-Sweep, und endet das Kapitel in der Stille, in der alle Kinetik endet, oder laut der strukturierten Outline damit, dass AEGIS die Genesis zeigen muss, bevor der Heat Spike folgt?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat das Ordeal in der ersten Hälfte des Vortex, auf der echten Storyform-Wendung von B zu A, wenn laut Konzept-Master-Report hier nicht der Integrationsmoment liegt, sondern seine Folge auf AEGIS, und was fehlte dem Roman, wenn man Anlauf, Pivot und Stille striche?
+- **B8** *Leser und Thema* — Was soll der Leser in der Stille fühlen, die laut Konzept-Master-Report nicht mystisch ist, sondern die Folge zweier Uhren, und in der laut der Plot-Konkretisierung Junas Spur der letzte verbleibende Eintrag ist, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 35
 

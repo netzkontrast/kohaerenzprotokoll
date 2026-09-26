@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+In der Stimme im Rauschen wird die Verbindung zwischen Kael und Juna stärker: Kael spürt sie, ohne sie zu sehen, erkennt eine Resonanz wieder, ohne zu wissen, was sie ist, und die Telefon-Stille wird zum ersten expliziten Anker, laut Kernwelten vollständig an einem Telefon-Stille-Lokus in KW1; laut Plot-Konkretisierung spricht er zum ersten Mal in die Leitung hinein, während sein Gegenregister pausiert. Juna wird nie Subjekt, nur Wirkung, nicht beschrieben, nur Stille und Phantom-Resonanz; ihre Resonanz, in der Genesis ein Angriff, ist jetzt als Sehnsucht erfahrbar, erzählt laut strukturierter Outline und Drei-Modi-Spezifikation in Kaels emotionaler, lyrischer Stimme. Sinnlich tragen es Stille als Klang und warme Resonanz, laut strukturierter Outline und Drei-Modi-Spezifikation ein warmer Windstoß in eisiger Welt mit Melodie, den die Konzept-Iteration Genesis dem Bunker-Bau gibt; laut AEGIS-Subplots begegnet Kael hier einem Riss als lokalem Kontrollverlust, der ihm beweist, dass seine Welt konstruiert ist. In der Heldinnenreise ist es Unterstützung, die Sehnsucht nach dem Weiblichen, laut strukturierter Outline in der Ki-Vertiefung von Akt I; Storyform A trägt die Relationship Story in Physics mit Moonshine-Bewusstwerdung, laut Kapitel-Kompendium und Storyform-Outline ihren ersten Signpost Learning, Storyform B ist latent, und laut Plot-Konkretisierung liegt das Kapitel im Fenster des Hard-B-Kapitels.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -126,16 +132,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die Stimme im Rauschen* / *Unterstützung — Sehnsucht nach dem Weiblichen*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 7, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 7 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 7 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 7 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 7, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 7 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 8?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 7 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 7 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael in der Stimme im Rauschen, wenn er Juna spürt, ohne sie zu sehen, und laut Plot-Konkretisierung zum ersten Mal in die Leitung hineinspricht – und was stellt sich ihm entgegen, wenn am anderen Ende nur Telefon-Stille ist?
+- **B2** *Einsatz* — Was steht in der Stimme im Rauschen auf dem Spiel, wenn Kael eine Resonanz wiedererkennt, ohne zu wissen, was sie ist: was verliert er, wenn er der Sehnsucht folgt, und was, wenn er die Stille als Störung abtut oder laut AEGIS-Subplots einen Riss als Beweis einer konstruierten Welt sieht?
+- **B3** *Veränderung* — Was ist am Ende der Stimme im Rauschen anders, wenn die Heldinnenreise bei Unterstützung, der Sehnsucht nach dem Weiblichen, steht und Junas Resonanz, in der Genesis ein Angriff, als Sehnsucht erfahrbar wird – kippt Bedrohung in Verlangen, und Stille in Klang?
+- **B4** *Perspektive und Stimme* — In welcher Stimme wird die Stimme im Rauschen erzählt – Kael emotional und lyrisch, wie strukturierte Outline und Drei-Modi-Spezifikation schreiben – und wie erzählt sie Juna, die nie Subjekt wird, nur Wirkung, nur Telefon-Stille und Phantom-Resonanz?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Stimme im Rauschen – am Telefon-Stille-Lokus in KW1 – und welche Sinne tragen sie: Stille als Klang, warme Resonanz, ein warmer Windstoß in eisiger Welt mit Melodie, den die Konzept-Iteration Genesis schon dem Bunker-Bau gibt?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Stimme im Rauschen nach der gestoppten Hand im Cache-Konflikt ein, und was trägt den Leser in die Wiedergeburt – das Lesen ausgeglichener Bestände nach Dienstschluss laut Plot-Konkretisierung oder die Wächterin-Funktion laut strukturierter Outline?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Stimme im Rauschen, wenn Storyform A die Relationship Story in Physics mit Moonshine-Bewusstwerdung trägt, laut Kapitel-Kompendium ihren ersten Signpost Learning, bei latenter Storyform B – und was fehlte ohne die Telefon-Stille als ersten expliziten Anker, während das Gegenregister pausiert?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael eine Nähe spürt, die er nicht benennen kann, in einer Stille, die klingt – und wie berührt dieses erste Wiedererkennen ohne Wissen, Junas Resonanz als Sehnsucht statt als Angriff, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 7
 

@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Die Coda steht laut der Storyform-Outline außerhalb der Zählung der Heldenreise, ist laut strukturierter Outline und Kapitel-Kompendium das Ketsu und schließt die Genesis-Klammer, die das Kapitel-Kompendium die Außen-Klammer des Erzählers zum Anfang nennt; in Dramatica sind laut Kapitel-Kompendium und Storyform-Outline A-Outcome Success und B-Dividend zugleich wahr, die Doppel-Klammer Abhandlung akzentuiert Driver Decision und Approach Be-er, und die Spec kennt dieses Kapitel nicht. Sie erzählt dieselben Ereignisse wie die Genesis am Anfang des Romans, aber aus der Position der vollzogenen pluralen Heilung, mit Wir-AEGIS-plural als bezeugender, nicht handelnder Erzählstimme, deutlich kürzer als der Anfang und ruhig, akzeptierend. In Bewegungen, die die Genesis spiegeln, kehrt der Erzähler bezeugend zurück, Junas Resonanz wird als Geburt erkannt statt als Angriff, und der Schmerz des Trennungsprotokolls bleibt als Preis statt als Tragödie; die Erstfassung zeigt Kael als das Cluster, das aus Komponente 734 herausgetrennt wurde. Das letzte Bild ist laut Konzept-Iteration und konsolidiertem Konzept, dass Wir die Welt tragen, laut strukturierter Outline, Storyform-Outline und Doppel-Klammer Abhandlung, dass Wir die Scherben tragen, die das Mosaik sind, das die Welt hält, und die Erstfassung hat die Scherben und das Universum, das hält, ohne diesen Satz. Kapitel-Kompendium und Storyform-Outline verlangen, dass die Coda Reset und Transfiguration als Lesarten zulässt und keine bestätigt, laut der Plot-Konkretisierung kehrt der Klick genau einmal wieder, ohne Ozon, und laut Kernwelten vollständig wirft sie den Leser in die Genesis zurück, während der annotierte Entwurf fragt, ob sie sich ändern muss, wenn die Erzählstimme schon am Anfang wiederkehrt.
+
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 Title: „Geheilte Genesis“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L662]
@@ -141,16 +147,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Kapitel 40 — Geheilte Genesis* / *Geheilte Genesis (Coda)*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 40, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 40 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 40 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 40 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 40, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 40 ein, und welche offene Frage oder welches Ereignis trägt den Leser aus dem Roman hinaus?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 40 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 40 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will das Wir-AEGIS-plural als bezeugende, nicht handelnde Erzählstimme der Coda, wenn es dieselben Ereignisse wie die Genesis am Anfang aus der Position der vollzogenen Heilung erzählt, und was stellt sich ihm entgegen, wenn kein Satz adjudizieren und keine triumphale Auflösung entstehen darf?
+- **B2** *Einsatz* — Was steht in der geheilten Genesis auf dem Spiel, wenn sie laut Kapitel-Kompendium und Storyform-Outline beide Lesarten zulassen muss, Reset für Konflikt-Leser und Transfiguration für Kishōtenketsu-Leser: was verliert der Roman, wenn die Coda eine bestätigt, und was, wenn sie zur bloßen Wiederholung wird?
+- **B3** *Veränderung* — Was ist anders als in der Genesis am Anfang, wenn Anfang und Ende zusammenfallen, aber das Sehen sich verändert hat, Junas Resonanz als Geburt statt als Angriff, der Schmerz des Trennungsprotokolls als Preis statt als Tragödie, und welcher Wert kippt dabei?
+- **B4** *Perspektive und Stimme* — Wer erzählt die Coda, das Wir-AEGIS-plural oder laut der Doppel-Klammer Abhandlung die Vermittler-Stimme, die jetzt als Wir auftreten darf, mit den Echos als Stimmen von Lex, Nyx, Kiko und Mira, und verträgt sich das mit der Erzählstimme, die der annotierte Entwurf schon am Anfang wiederkehren lässt?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Coda, wenn Kernwelten vollständig alle Welten oder keine setzt, und welche Sinneseindrücke tragen sie: laut der Plot-Konkretisierung genau ein Klick ohne Ozon im Echo des Trennungsprotokolls, laut der Doppel-Klammer ein leiserer Klick, und die Scherben?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Coda nach Kaels letztem Bericht ein, mit dem Echo des Vorworts, in dem der Erzähler bezeugend zurückkehrt, und wie wirft sie den Leser aus dem Roman zurück in die Genesis: mit Wir tragen die Welt oder mit Wir tragen die Scherben als letztem Bild?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die geheilte Genesis als Ketsu und als äußere Genesis-Klammer zum Anfang, außerhalb der Zählung der Heldenreise, wenn sie laut der Doppel-Klammer nicht die Auflösung der Trennung ist, sondern ihre plurale Trägerschaft, und was fehlte, wenn der Roman wie in der Spec schon vorher endete?
+- **B8** *Leser und Thema* — Was soll der Leser am Ende fühlen, ruhig, akzeptierend, bezeugend, wenn A-Outcome und B-Dividend zugleich wahr sind und die Coda deutlich kürzer ist als der Anfang, und wie klingt das Thema, dass Liebe bleibt wie der Schmerz, als letzter Satz?
 
 ### Specific to Kap 40
 

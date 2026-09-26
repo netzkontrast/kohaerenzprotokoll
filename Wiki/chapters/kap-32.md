@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+In der äußeren Heldenreise ist das die Stufe Tests, Allies, Enemies, die Prüfungen, im dritten Akt der äußeren Konfrontation, dessen Phase die Plot-Konkretisierung Der Deserteur nennt, und laut der strukturierten Outline beginnt hier das Ten; in Storyform A trägt es das MC-Issue als Wahrheits-Test gegen logische Fallen, in B laut Konzept-Iteration und konsolidiertem Konzept kybernetische Manöver, laut Spec und strukturierter Outline die Guardians als Sub-Antagonisten. Kael, polyphon und mit aktiven Spiegel-Alters, muss in logischen Labyrinthen und Echo-Räumen AEGIS' logische Verteidigungen, Simulationstricks und loyale Subsysteme überwinden; laut der strukturierten Outline treten Mnemosyne und der Erasure-Pol hier noch als Gegner auf, obwohl das Kapitel davor die Auflösung der Guardians erzählt, und Oblivion trägt als Vorschlag seine erste längere POV-Szene in Lösch-Prosa. Laut der Plot-Konkretisierung erscheinen in der Schlange Bestände mit Kaels Signatur, die er nie angelegt hat, Fälschungen in Oblivions makelloser Hand, und Kael erkennt die eigenen an ihren Fehlern. Kernwelten vollständig setzt das Kapitel in KW4, vielleicht im Forum des Dialogs; die AEGIS-Subplots schlugen stattdessen einen systemischen Widerspruch vor, der AEGIS' Logik teilweise einfriert.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -108,16 +114,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Logische Labyrinthe* / *Tests, Allies, Enemies — Systemkampf*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 32, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 32 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 32 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 32 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 32, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 32 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 33?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 32 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 32 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael in den logischen Labyrinthen, wenn er laut der strukturierten Outline AEGIS' logische Verteidigungen, Simulationstricks und loyale Subsysteme überwinden muss, und wer stellt sich ihm entgegen: Mnemosyne und der Erasure-Pol als Sub-Antagonisten, oder laut der Plot-Konkretisierung Oblivions makellose Fälschungen seiner eigenen Bestände?
+- **B2** *Einsatz* — Was steht im Wahrheits-Test auf dem Spiel, wenn laut der Plot-Konkretisierung in der Schlange Bestände mit Kaels Signatur erscheinen, die er nie angelegt hat: was verliert Kael, wenn er die perfekte Kopie seiner Unordnung für die eigene hält, und was kostet es ihn, sie zu verwerfen?
+- **B3** *Veränderung* — Was ist anders, wenn Kael die logischen Labyrinthe verlässt, nachdem er laut der Plot-Konkretisierung seine eigene Unordnung an ihren Fehlern erkannt hat: kippt der Makel vom Mangel zum Beweis der Echtheit, und die Makellosigkeit zum Zeichen der Fälschung?
+- **B4** *Perspektive und Stimme* — Wird der Systemkampf aus dem polyphonen Kael mit aktiven Spiegel-Alters erzählt, oder trägt Oblivion hier laut dem Vorschlag der strukturierten Outline seine erste längere POV-Szene in Lösch-Prosa mit sich selbst auslöschenden Sätzen, und warum sollte gerade der Erason-Operator diesen Test erzählen?
+- **B5** *Ort, Zeit, Körper* — Wo spielt der Wahrheits-Test, in KW4 oder laut Kernwelten vollständig vielleicht im Forum des Dialogs, und wie verankern logische Labyrinthe, Echo-Räume und eine Stimme, die Kaels Stimme imitiert, die Szene in Kaels Körper statt in Theorie?
+- **B6** *Einstieg und Ausstieg* — Womit setzt der Systemkampf nach der Auflösung der Guardians und den zwei abgelehnten Geschenken ein, wenn die strukturierte Outline Mnemosyne und den Erasure-Pol noch als Gegner führt, und welches Ereignis trägt den Leser weiter ins Vordringen zu AEGIS' Kern?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe haben die Prüfungen, Tests, Allies, Enemies der äußeren Heldenreise, dort, wo laut der strukturierten Outline das Ten beginnt, und was fehlte dem Weg von der ersten Schwelle zur tiefsten Höhle ohne den Wahrheits-Test und das erste Hervortreten der Spiegel-Alters Silas und Oblivion?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael sich an seinen Fehlern von Oblivions perfekten Kopien unterscheidet, und wie berührt die Einsicht, dass gerade das Beschädigte echt ist, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 32
 

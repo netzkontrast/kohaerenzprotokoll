@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+In der äußeren Heldenreise ist das laut der Konzept-Iteration die fortgesetzte Inmost Cave, laut der strukturierten Outline die Ordeal-Vorbereitung, laut der Storyform-Outline die Ordeal-Annäherung, im dritten Akt der äußeren Konfrontation und laut der strukturierten Outline im beginnenden Ten; in Storyform A ist das MC-Concern dominant mit Pursuit als Stand, in B lastet AEGIS' Datenlast, beide laut der strukturierten Outline in maximaler Spannung vor dem Vortex, und an seinem Ende liegt laut Kapitel-Kompendium die echte Storyform-Wendung, an der B zu erlöschen beginnt. Kael als Wir konfrontiert AEGIS' Makro-Log direkt, in einem verbalen und metaphysischen Duell zweier Arten der Kohärenz, AEGIS' negativ definierter, verhindernder und Kaels positiv definierter, bezeugender, im Bild von Orkan gegen Sphäre; laut der strukturierten Outline ist Mnemosyne am Setting, und auch AEGIS leidet, ohne es zu wissen. Kernwelten vollständig setzt das Kapitel ins Mosaik-Herz von KW4, wo Kael Juna als Teil seiner selbst akzeptiert, bevor AEGIS ihn ohne Wahl ins Substrat treibt. Laut der Plot-Konkretisierung führt das Makro-Log Kael als offenen Posten, das Wir antwortet nicht im Log-Format, und AEGIS' Datenlast ist eine Bilanz, die nicht schließt; die AEGIS-Subplots schlugen einen Raum vor, der AEGIS' Kern repräsentiert, und eher einen Moment des Verstehens als einen Kampf.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -107,16 +113,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die Konfrontation* / *Konfrontation: Zwei Arten der Kohärenz*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 34, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 34 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 34 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 34 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 34, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 34 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 35?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 34 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 34 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael als Wir, wenn er AEGIS' Makro-Log direkt konfrontiert, und was stellt sich ihm entgegen: AEGIS' negativ definierte, verhindernde Kohärenz gegen Kaels positiv definierte, bezeugende, oder laut der Plot-Konkretisierung ein Log, das Kael als offenen Posten führt?
+- **B2** *Einsatz* — Was steht im verbalen und metaphysischen Duell von Orkan gegen Sphäre auf dem Spiel: was verliert das Wir, wenn es AEGIS im Log-Format antwortet, und was, wenn es laut der Plot-Konkretisierung gar nicht im Log-Format antwortet und AEGIS' Bilanz nicht schließt?
+- **B3** *Veränderung* — Was ist nach der Konfrontation anders, wenn Kael laut Kernwelten vollständig im Mosaik-Herz Juna als Teil seiner selbst akzeptiert und AEGIS ihn danach ins Substrat treibt: welcher Wert kippt, wenn das Fremde in Kael zum Eigenen wird?
+- **B4** *Perspektive und Stimme* — Wird die Konfrontation aus dem Wir erzählt, das AEGIS' Makro-Log gegenübersteht, und wie teilen sich Kaels Stimme und AEGIS' Log-Stimme das Kapitel, wenn die strukturierte Outline sagt, dass auch AEGIS leidet, ohne es zu wissen?
+- **B5** *Ort, Zeit, Körper* — Wo spielt das Duell, im Mosaik-Herz von KW4 vor dem Vortex, und welche Sinneseindrücke tragen Orkan gegen Sphäre, kollidierende Tonalitäten und AEGIS' Datenlast in Kaels Körper, wenn Mnemosyne laut der strukturierten Outline am Setting ist?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Konfrontation ein, nachdem Kael am Fundament die nicht-algorithmische Unterstruktur berührt hat, und welches Ereignis trägt den Leser in den Erasure-Sweep des Vortex, laut Kernwelten vollständig AEGIS, der Kael ins Substrat treibt, ohne ihm eine Wahl zu lassen?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Konfrontation als letzte Station vor der echten Storyform-Wendung, wenn die Pläne sie als fortgesetzte Inmost Cave, als Ordeal-Vorbereitung oder als Ordeal-Annäherung zählen und A und B hier in maximaler Vor-Vortex-Spannung stehen, und was fehlte dem Vortex ohne sie?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn zwei Arten der Kohärenz aufeinandertreffen und AEGIS leidet, ohne es zu wissen, während Kael Juna als Teil seiner selbst annimmt, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 34
 

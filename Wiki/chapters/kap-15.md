@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel steht in Akt II, im zyklischen Modus und im Shō, als Destabilisierung durch einen Trigger, die erste Phase des ersten Spiral-Zyklus, laut der Plot-Konkretisierung im Block Der Innentäter, und trägt in Storyform A die reaktivierte MC-Problem Avoidance, während Storyform B latent bleibt. Ein Trigger reaktiviert Kaels Trauma-Angst; laut der strukturierten Outline geschieht das am Rand von KW2, Nyx wird erstmals deutlich sichtbar, und Kiko steht als kindliche Angst im Hintergrund. Laut Kapitel-Kompendium und Storyform-Outline, die das Kapitel Turing-Mechanik nennen, erkennt Kael die Stadt als universelle Turingmaschine und versteht das Halteproblem, die prinzipielle Unvorhersehbarkeit; Kernwelten vollständig legt das in die inneren Welten von KW2. Die Plot-Konkretisierung verbindet beides als Lektüre mit Risiko: Kael liest das Halteproblem-Dossier, die Betriebsanleitung seiner Welt, versteht, dass das System sich selbst nicht vorhersagen kann, und die Angst, die das auslöst, ist älter als der Tag. Die AEGIS-Subplots machen ihn stattdessen zum aktiven Ermittler, der absichtlich überwachte Aktionen setzt und eine Karte des Überwachungsnetzes anlegt, und die Konzept-Iteration nennt das Kapitel nach seinem Sinnesbild Schattenwurf, zu dem die Resonanz der Babymonster-Welt gehört.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -114,16 +120,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Schattenwurf* / *Z1-Trigger*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 15, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 15 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 15 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 15 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 15, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 15 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 16?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 15 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 15 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er laut der Plot-Konkretisierung das Halteproblem-Dossier liest, die Betriebsanleitung seiner Welt, oder laut den AEGIS-Subplots absichtlich überwachte Aktionen setzt, um das Überwachungsnetz zu kartieren, und was stellt sich ihm entgegen, wenn ein Trigger die alte Trauma-Angst reaktiviert?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael das Dossier als Lektüre mit Risiko liest statt als Essay: was verliert er, wenn AEGIS das Lesen bemerkt, und was, wenn er versteht, dass das System sich selbst nicht vorhersagen kann?
+- **B3** *Veränderung* — Was ist anders, nachdem Kael die Stadt als universelle Turingmaschine erkannt und das Halteproblem verstanden hat, und kippt dabei Wissen in Angst, wenn die Angst, die das auslöst, älter ist als der Tag und die MC-Problem Avoidance reaktiviert?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird der Trigger erzählt, wenn Kael und ein Schatten-Anteil die Perspektive teilen, Nyx erstmals deutlich sichtbar wird und Kiko als kindliche Angst-Reaktion im Hintergrund bleibt, und warum spricht der Schatten gerade jetzt?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Turing-Mechanik: am Rand von KW2, wie die strukturierte Outline sagt, oder in den inneren Welten von KW2, wie Kernwelten vollständig sagt, und wie verankern Schattenwurf und die Resonanz der Babymonster-Welt die Angst in Kaels Körper?
+- **B6** *Einstieg und Ausstieg* — Wie setzt die Turing-Mechanik ein, nachdem Kael den Fehler im Lernarchiv Theta-9 nicht gemeldet und die erste Erasure-Welle erlebt hat, und welches Ereignis trägt den Leser in den Bunker, Kaels reflexhafte Flucht in Dissoziation, die AEGIS als Stabilisierung liest?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Turing-Mechanik als Destabilisierung durch einen Trigger zu Beginn des ersten Zyklus, wenn Storyform B latent bleibt, und trägt das Kapitel die Theorie, Turing und das Halteproblem, oder die Trauma-Angst, und was fehlte, wenn das eine ohne das andere stünde?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael begreift, dass die Welt, die ihn überwacht, sich selbst nicht vorhersagen kann, und zugleich eine alte Angst zurückkehrt, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 15
 

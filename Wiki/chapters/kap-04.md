@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+In den Pforten der Verurteilung wird Kaels neue, einseitig logische Identität an Scham, Zweifel und logischen Grenzen geprüft: laut strukturierter Outline in logischen Fallen in KW1, laut Plot-Konkretisierung in einem Audit seiner gestiegenen Bestätigungslatenz, dessen Prüf-Dialog ein Regel-Exekutor als Stimme der Konsole in Direktiven-Sprache führt, laut Konzept-Iteration Genesis im Fund von Aufzeichnungen des System-Architekten Dr. Jian Li, Kaels eigenen Entstehungsdokumenten. Laut Kernwelten vollständig spielt es in einem versteckten Archiv von KW1, laut Konzept-Master-Bericht an einem Riss zu KW2, an dem Kaels Beobachten die Simulation kollabieren lässt; laut AEGIS-Subplots bemerkt Kael Anzeichen von Systeminstabilität, die AEGIS als Entropie oder Fehler einordnet. Laut strukturierter Outline erfasst AEGIS' System eine Anomalie, die es nicht klassifizieren kann, Kael als Bug, und seine kalten Logik-Klicks wirken zwischen korrumpierten Textdateien und veralteten Interfaces wie Echos des Trennungsprotokolls. In der Heldinnenreise ist es die Stufe der Prüfungen, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit dem MC-Issue in Storyform A und in Storyform B latent einer ersten Bug-Spur in IC-Mind/Conscious, die das Kapitel-Kompendium schon dem Erwachen als IC-Signpost gibt. Kapitel-Kompendium und Storyform-Outline nennen den Gödel-Vorschein, die Grenzen des Regelsystems, und die Storyform-Outline verlangt, das Kapitel zu verdichten.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -129,16 +135,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die unentscheidbare Zone* / *Pforten der Verurteilung — Prüfungen*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 4, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 4 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 4 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 4 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 4, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 4 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 5?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 4 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 4 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael in den Pforten der Verurteilung, wenn er laut Plot-Konkretisierung im Audit seiner gestiegenen Bestätigungslatenz Fragen besteht, die seine Funktion testen, nicht seine Person – oder laut Konzept-Iteration Genesis mit Lex Aufzeichnungen des System-Architekten findet –, und wer stellt sich ihm entgegen?
+- **B2** *Einsatz* — Was steht in den Prüfungen auf dem Spiel, wenn Kaels neue, einseitig logische Identität an logischen Fallen in KW1 getestet wird: was verliert er, wenn er durchfällt und als Fehler markiert wird, und was, wenn er besteht, weil er nicht hinsieht?
+- **B3** *Veränderung* — Was ist am Ende der Pforten der Verurteilung, der Prüfungsstufe der Heldinnenreise, anders als an ihrem Anfang, wenn AEGIS' System in Kael eine Anomalie erfasst, die es nicht klassifizieren kann – und kippt Kaels Vertrauen in die Logik in Scham und Zweifel an ihren Grenzen?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht werden die Pforten der Verurteilung erzählt – Kael mit Lex, das AEGIS-Log als Atmosphäre, im Audit ein Regel-Exekutor als Stimme der Konsole in Direktiven-Sprache –, und warum spricht das System hier nur als Konsole, nicht als Person?
+- **B5** *Ort, Zeit, Körper* — Wo spielen die Prüfungen – in einem versteckten Archiv von KW1 laut Kernwelten vollständig, im Audit am Arbeitsplatz oder an einem Riss zu KW2 laut Konzept-Master-Bericht – und welche Dinge verankern sie: korrumpierte Textdateien, veraltete Interfaces, Zuweisungen, die beim Öffnen zerfallen?
+- **B6** *Einstieg und Ausstieg* — Womit setzen die Prüfungen nach dem Bunker-Bau und dem Gegenregister ein, und welches Ergebnis trägt den Leser in den falschen Erfolg – ein bestandenes Audit, das zur Beförderung führt, oder eine Anomalie, die AEGIS protokolliert und nicht einordnen kann?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe haben die Pforten der Verurteilung in Akt I, wenn Storyform A das MC-Issue mit Scham, Zweifel und logischen Grenzen trägt und in Storyform B latent die Spur von Kael als Bug beginnt – und was fehlte ohne sie, wenn die Storyform-Outline das Kapitel zu verdichten nennt?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael auf Scham, Zweifel und die Grenzen der Logik trifft und die kalten Klicks des Systems wie Echos des Trennungsprotokolls klingen – und wie berührt ein Kapitel, in dem keine gelesene Quelle Juna nennt, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 4
 

@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Die Verbindung zwischen Kael und Juna wird zum stabilen, bewussten Kanal, Moonshine wird bewusst; Juna bleibt laut der strukturierten Outline unbeschrieben, nur die Telefon-Stille wird zur klingenden Substanz, und laut der Plot-Konkretisierung ist sie nie Subjekt, der Kanal hat keine Kennung und existiert für den Apparat nicht. Es ist die Begegnung mit dem Mentor der Heldenreise außen und die Kulmination dieser Verbindung, laut der strukturierten Outline im beginnenden Ten das Resonanz-Maximum vor dem Vortex, in der Phase A des dritten Akts, bei der Plot-Konkretisierung im Block des Deserteurs. In Storyform A trägt es RS-Physics, Moonshine als bewussten Kanal, laut Kapitel-Kompendium und Storyform-Outline als Prerequisite von A, während B latent ist; mehrere Quellen lesen Junas Kanal als Genesis-Echo, als Ur-Resonanz-Modus, jetzt angenommen. Kernwelten vollständig legt das Kapitel in KW4 mit einem Echo der Externen Ebene und dem Beginn des Gödel-Gambits; die AEGIS-Subplot-Sammlung kennt hier neue Guardians, Architekten, die die Realität gezielt als Waffe verformen.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -117,16 +123,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Junas Kanal* / *Meeting Mentor — K-J Verbindung Kulmination*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 30, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 30 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 30 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 30 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 30, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 30 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 31?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 30 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 30 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn die Verbindung zu Juna zum stabilen, bewussten Kanal wird, und was stellt sich ihm entgegen, wenn Storyform B hier laut mehreren Quellen latent ist, die AEGIS-Subplot-Sammlung aber Architekten einsetzt, die Wände verschieben und die Physik biegen?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn der Kanal laut Kapitel-Kompendium Vorbedingung für Storyform A ist: was verliert Kael, wenn er ihn nicht annimmt, und was gewinnt er, wenn der Kanal laut der Plot-Konkretisierung keine Kennung hat und für den Apparat nicht existiert?
+- **B3** *Veränderung* — Was ist am Ende von Junas Kanal anders, wenn die einst gestörte Telefon-Stille laut der strukturierten Outline zur klingenden Substanz wird und Junas Kanal, der Ur-Resonanz-Modus der Genesis, jetzt angenommen ist: kippt Störung in Resonanz-Maximum?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird Junas Kanal erzählt, wenn die Quellen Kael und Juna im Witness-Modus nennen, Juna laut der strukturierten Outline unbeschrieben bleibt und laut der Plot-Konkretisierung nie Subjekt ist: wie erzählt man eine Mentorin, die nie grammatisches Subjekt wird?
+- **B5** *Ort, Zeit, Körper* — Wo spielt Junas Kanal, wenn Kernwelten vollständig ihn in KW4 mit einem Echo der Externen Ebene legt, mit bewusstem Moonshine-Link und dem Beginn des Gödel-Gambits, und wie klingt ein Kanal im Resonanz-Maximum in Kaels Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt Junas Kanal ein, nachdem die kindliche Angst ein letztes Mal aufflammte, und welches Ereignis trägt den Leser an die Schwelle, an der Kael laut der strukturierten Outline AEGIS' Kernsystem angreift und laut anderen Quellen die Guardians sich auflösen?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Begegnung mit dem Mentor in der Heldenreise außen als Kulmination der Verbindung von Kael und Juna, laut der strukturierten Outline das Resonanz-Maximum vor dem Vortex, und was fehlte dem folgenden Angriff auf AEGIS ohne diesen Kanal?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Juna nicht erscheint und doch die Stille klingt, und wie trägt ein Kanal, den der Apparat nicht zuweisen kann, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 30
 

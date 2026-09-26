@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Im ersten Riss bricht eine konkrete Anomalie Kaels Ordnung in KW1: laut strukturierter Outline reaktivieren Glitches Echos, mit Zeitverlust, einem Blackout und einer Erinnerung, die nicht zu seinem Selbst passt, laut Kernwelten vollständig eine geometrische Inkonsistenz im Datenverarbeitungs-Zentrum in Sektor 04, laut Plot-Konkretisierung eine schon ausgeglichene Abweichung, die an derselben Stelle wiederkehrt und die Kael abends in fremder Syntax in seinem Entwurfsordner findet. Lex bricht zum ersten Mal mit anderer Syntax und Logik in Kaels Stimme ein, die Zahl 734 taucht laut strukturierter Outline erstmals als Foreshadowing auf, und laut AEGIS-Subplots protokolliert AEGIS die Abweichungen als nicht-kritisches Rauschen, Syntax ohne Semantik. Unter flackernden Geometrien und unscharfen Kanten ist der Riss laut Kapitel-Kompendium Landauer-Hitze mit Ozon, laut Storyform-Outline kaltes Ozon, in beiden die sichtbar werdende Verdrängung. In der Heldinnenreise ist es Verrat und Desillusionierung, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit dem MC-Issue Falsehood vs. Truth als erster Begegnung mit der Systemlüge in Storyform A und dem initialisierten Controlled Fragmentation Protocol als OS-Physics in Storyform B. Laut Konzept-Iteration Genesis wiederholt AEGIS' Gaslighting hier seine ursprüngliche Selbstmanipulation.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -126,16 +132,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Geometrie der Isolation* / *Verrat / Desillusionierung — der erste Riss*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 2, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 2 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 2 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 2 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 2, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 2 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 3?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 2 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 2 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael im ersten Riss, wenn laut Plot-Konkretisierung eine schon ausgeglichene Abweichung an derselben Stelle wiederkehrt und das System die erneute Markierung kommentarlos nimmt – und was stellt sich ihm entgegen: die Ordnung, die weiterläuft, oder eine fremde Syntax in seinem eigenen Entwurfsordner?
+- **B2** *Einsatz* — Was steht im ersten Riss für Kael auf dem Spiel, wenn Zeitverlust, ein Blackout und eine Erinnerung, die nicht zu seinem Selbst passt, die Ordnung brechen: was verliert er, wenn er die Anomalie ernst nimmt, und was, wenn er sie wie das System übergeht?
+- **B3** *Veränderung* — Was ist nach dem ersten Riss anders als nach dem Erwachen, wenn die Heldinnenreise von der Illusion der perfekten Welt zu Verrat und Desillusionierung übergeht – kippt Vertrauen in die Ordnung in die erste Begegnung mit der Systemlüge, und woran sieht Kael das?
+- **B4** *Perspektive und Stimme* — In wessen Stimme wird der erste Riss erzählt, wenn Lex mit anderer Syntax und anderer Logik in Kaels Stimme einbricht – und darf die Erzählung laut AEGIS-Subplots kurz zu AEGIS' abstraktem Überwachungsprozess wechseln, der Syntax sieht, keine Semantik?
+- **B5** *Ort, Zeit, Körper* — Wo spielt der erste Riss – im Datenverarbeitungs-Zentrum in Sektor 04 von KW1, an einer geometrischen Inkonsistenz – und wie fühlt er sich an: flackernde Geometrien, unscharfe Kanten, und Landauer-Hitze mit Ozon laut Kapitel-Kompendium oder kaltes Ozon laut Storyform-Outline?
+- **B6** *Einstieg und Ausstieg* — Womit setzt der erste Riss ein, wenn eine beim Erwachen ausgeglichene Abweichung zurückkehrt, und welche offene Frage trägt den Leser in den Bunker-Bau – der Wert in fremder Syntax im Entwurfsordner, oder die Zahl 734, die hier erstmals als Foreshadowing auftaucht?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat der erste Riss in Akt I, wenn Storyform A das MC-Issue Falsehood vs. Truth und Storyform B das initialisierte Controlled Fragmentation Protocol trägt – und was fehlte ohne ihn: der erste Lex-Einbruch, das Foreshadowing der Zahl 734, das Gaslighting als Echo von AEGIS' Selbstmanipulation?
+- **B8** *Leser und Thema* — Was soll der Leser nach dem ersten Riss fühlen, wenn Kael eine Erinnerung findet, die nicht zu ihm passt, und das System sie als nicht-kritisches Rauschen protokolliert – und wie berührt ein Riss, in dem Verdrängung sichtbar wird, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 2
 

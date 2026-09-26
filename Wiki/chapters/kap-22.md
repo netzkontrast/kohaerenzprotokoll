@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Alle gelesenen Quellen stellen AEGIS' Eskalation in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und an den Übergang von KW2 zu KW3, und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Reaktion im dritten Spiral-Zyklus und laut der Konzept-Iteration Genesis das Ende des Genesis-Clusters. AEGIS reagiert auf Kaels Grenzüberschreitungen mit unvorhersehbaren Systemänderungen; Storyform A führt die MC-Issue der Berechenbarkeitsgrenzen, in Storyform B wird in der OS-Physics AEGIS' Dilemma mit den Kosten der Erasure sichtbar, und die strukturierte Outline führt beide Storyforms zugleich, B sichtbar erschöpft, erzählt wie in der Drei-Modi-Spec aus Kael mit AEGIS dominant. Der letzte Genesis-Flashback gilt Komponente 734: laut der Konzept-Iteration Genesis erkennt Kael einen Moment lang, dass er Komponente 734 war, und verliert das Wissen sofort wieder; laut der strukturierten Outline erlebt er sich als Werkzeug, ohne zu wissen, wessen; laut der Plot-Konkretisierung ist es eine Szene mit Handlung, in der Kael im Theta-9 eine Akte mit der Seriennummer 734 findet, nur die Nummer liest, das Dossier zurücklegt und nicht mehr schlafen kann, während der Leser die volle Last trägt. Laut Kernwelten vollständig beginnt die Welt hier zu pixelieren, und der Bekenstein-Strang zeigt eine erste Spur; unvorhersehbare Systemverwerfungen tragen die Szene, laut der strukturierten Outline auch Wärme-Schlieren und eine Pause, die zu lang ist.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -113,16 +119,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *AEGIS' Dilemma* / *Z3-AEGIS-Eskalation + Genesis-Flashback*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 22, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 22 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 22 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 22 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 22, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 22 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 23?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 22 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 22 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn AEGIS auf seine Grenzüberschreitungen mit unvorhersehbaren Systemänderungen reagiert, und was stellt sich ihm entgegen: AEGIS' Eskalation, oder laut der Plot-Konkretisierung eine Akte im Theta-9 mit der Seriennummer 734, die er findet, liest und zurücklegt?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael Komponente 734 begegnet: verliert er laut der Konzept-Iteration Genesis das Wissen, dass er sie war, sofort wieder, oder nimmt er laut der Plot-Konkretisierung nur eine Nummer mit und kann nicht mehr schlafen, während der Leser die volle Last trägt?
+- **B3** *Veränderung* — Was ist nach AEGIS' Eskalation anders als an der Membran, wenn AEGIS' Dilemma und die Kosten der Erasure sichtbar werden und Storyform B laut der strukturierten Outline sichtbar erschöpft ist, und kippt dabei AEGIS' Kontrolle in ihr Gegenteil?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Eskalation erzählt, wenn die strukturierte Outline und die Drei-Modi-Spec Kael mit AEGIS dominant und dazu eine Genesis-Flashback-Stimme nennen, und wie weit reicht die Sicht in AEGIS hinein, wenn es dominant ist?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Eskalation, laut Kernwelten vollständig in der Übergangs-Zone von KW2 zu KW3, wo die Welt zu pixelieren beginnt und der Bekenstein-Strang eine erste Spur zeigt, und wie verankern Systemverwerfungen, Wärme-Schlieren und eine zu lange Pause den Körper?
+- **B6** *Einstieg und Ausstieg* — Womit setzt AEGIS' Eskalation nach der Membran ein, an der Kael das Potentialmeer spürte, und welches Ereignis trägt den Leser in die Mosaik-Schöpfung, in der Kael auf seine innere Vielfalt zurückgreift?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat AEGIS' Eskalation als Reaktion im dritten Spiral-Zyklus mit dem letzten Genesis-Flashback am Ende des Clusters, wenn die Konzept-Iteration Genesis eine kurze Bewusstwerdung um Komponente 734 setzt, die strukturierte Outline eine Funktionalisierung, die Plot-Konkretisierung eine Szene mit Handlung?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael sich laut der strukturierten Outline als Werkzeug erlebt, ohne zu wissen, wessen, und laut der Plot-Konkretisierung in der Akte seiner eigenen Quarantäne wohnt, und wie berührt das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 22
 

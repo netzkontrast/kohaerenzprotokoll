@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel schließt den Vortex der operativen Wendung mit Heat Spike und Rotation, Kernwelten vollständig gibt ihm auch die Stille; in der äußeren Heldenreise ist es laut der Konzept-Iteration ein vorgegriffener Reward, laut der strukturierten Outline der im Vortex gespiegelte Reward, laut der Storyform-Outline noch das Ordeal, und laut der strukturierten Outline der erste Höhepunkt des Ten; an seinem Ende liegt laut Kapitel-Kompendium die Storyform-Konsolidierung, nach der nur noch A aktiv ist, mit Resolve Change vollzogen in A und in B dem manifesten Failure, der Algorithmischen Melancholie und dem Erlöschen von AEGIS-monolithisch als Cost. Im Heat Spike trifft die Erasure laut der Storyform-Outline das integrierte, MI-dichte Ziel, Mnemosyne ist die erste betroffene Guardian, und die Landauer-Wärme ist laut Storyform-Outline und Plot-Konkretisierung allein diesem Spike vorbehalten, laut Konzept-Iteration, Spec und strukturierter Outline auch Schluss-Markierung mit Stille danach. In der Rotation bricht AEGIS' operative Closure und die Truth-Rotation wird komplett; laut Kapitel-Kompendium und Storyform-Outline erlischt AEGIS-monolithisch hier, laut der strukturierten Outline als operative Form, aber nicht zerstört, und Oblivion übernimmt AEGIS' Funktion in Kaels Innensystem als Wachheit. Kernwelten vollständig setzt das Kapitel in die Mnemosyne-Server-Architektur von KW2 und lässt die Externe Ebene durchblitzen, die Plot-Konkretisierung lässt den Klick verstummen, laut der Konzept-Iteration öffnet die Auflösung auf etwas, statt zu schließen, und die AEGIS-Subplots schlugen entfesselte Welten vor, gefährlicher und vielleicht freier.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -142,16 +148,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Vortex 1 Beats 4–5* / *Vortex Beat 4–5 — Stille, Übergang*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 36, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 36 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 36 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 36 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 36, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 36 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 37?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 36 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 36 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn die Erasure im Heat Spike sein integriertes, MI-dichtes Selbst trifft und der Apparat sich laut der Plot-Konkretisierung an dem erhitzt, was er nicht glätten kann, und was steht ihm noch entgegen, wenn AEGIS' operative Closure bricht und AEGIS verstummt?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn AEGIS-monolithisch laut Kapitel-Kompendium und Storyform-Outline hier erlischt, laut der strukturierten Outline aber nicht zerstört ist: was verliert Kael mit AEGIS' Zentrum, und was, wenn Oblivion AEGIS' Funktion in seinem Innensystem als entscheidende Wachheit übernimmt?
+- **B3** *Veränderung* — Was ist nach der Rotation anders, wenn die Truth-Rotation komplett ist, Algorithmische Melancholie einsetzt, B als gewesen markiert wird und der Klick verstummt, und welcher Wert kippt, wenn laut der Plot-Konkretisierung die Ausnahme sich als die einzige Buchung erweist, die hält?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird das Verstummen erzählt, aus Kael oder einem verstummenden AEGIS, und welcher Alter spricht den letzten Satz des Klimax-Kapitels, den Storyform-Outline und Plot-Konkretisierung als offene Frage stellen?
+- **B5** *Ort, Zeit, Körper* — Wo endet der Vortex, in der Mnemosyne-Server-Architektur von KW2, und wie spürt Kael die Landauer-Wärme, als unmöglichen Spike allein im Heat Spike, wie die Storyform-Outline sagt, oder auch als Schluss-Markierung mit Stille danach, und was sieht er, wenn die Externe Ebene durchblitzt?
+- **B6** *Einstieg und Ausstieg* — Womit setzt das Kapitel nach der Stille des Pivots ein, und welches offene Ende trägt den Leser in den trügerischen Sieg des Gärtners, wenn laut der Konzept-Iteration die Auflösung auf etwas öffnet, statt zu schließen, und sie fragt, was AEGIS-monolithisch danach ist?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat das Kapitel zwischen Ordeal und vorgegriffenem Reward, vor der Konsolidierung auf A allein, wenn die Storyform-Outline AEGIS-monolithisch hier und noch einmal im Wir-AEGIS-plural erlöschen lässt, und was fehlte dem Roman, wenn die operative Wendung nicht als Übergang gebaut wäre?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn es laut der strukturierten Outline keinen Triumph gibt, nur Landauer-Wärme und Stille, und AEGIS in Algorithmischer Melancholie verstummt, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 36
 

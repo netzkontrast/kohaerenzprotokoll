@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel eröffnet Akt II und den zyklischen Modus im Shō, am Modus-Wechsel, als Bruch und Rahmen vor dem ersten Zyklus, laut Kernwelten vollständig in der Mitte von Akt II, laut der Plot-Konkretisierung im Block Der Innentäter; laut der strukturierten Outline beginnt hier A parallel zu B, laut der Drei-Modi-Spec mit dem MC-Issue Falsehood vs. Truth in Storyform A und der OS-Physics in Storyform B. Kaels neu gefundene Balance zerbricht, alte Wunden reißen auf, und AEGIS' erste Erasure-Welle trifft seine Stabilität, laut der Konzept-Iteration genau das Verfahren des Trennungsprotokolls aus der Genesis. Laut der strukturierten Outline, die das Kapitel Bruch des Gleichgewichts nennt, testet AEGIS ihn mit dem Stress-Test Delta-7, und Mnemosyne tritt erstmals deutlich und manipulativ auf; laut Kapitel-Kompendium und Storyform-Outline, die es Das Archiv der Grenzen nennen, erhält Kael Zugang zu AEGIS' technischen Dossiers im Lernarchiv Theta-9 und betritt KW2. Die Plot-Konkretisierung macht den Zugang zu einem fehlgeleiteten Ticket, das Kael nicht meldet, die erste aktive Unterlassung des Romans, und lässt nach dem ersten Wartungsfenster eine Abkürzung im Korridor fehlen, deren Platten nur Kael neu zählt. Die AEGIS-Subplots lassen Kael hier AEGIS als intelligente, steuernde Instanz erkennen und benennen, und die strukturierte Outline und die Drei-Modi-Spec halten einen kurzen AEGIS-POV für möglich, zwischen zerbrochener Fassade und Sprüngen im Raum.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -122,16 +128,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Der Bruch des Gleichgewichts* / *Das Archiv der Grenzen*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 14, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 14 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 14 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 14 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 14, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 14 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 15?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 14 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 14 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er laut Kapitel-Kompendium Zugang zu AEGIS' technischen Dossiers im Lernarchiv Theta-9 erhält, laut der Plot-Konkretisierung durch ein fehlgeleitetes Ticket, und was stellt sich ihm entgegen: der Stress-Test Delta-7, die erste Erasure-Welle, Mnemosyne, die subtil manipuliert?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael den Fehler, der ihm Lese-Rechte gibt, nicht meldet, die erste aktive Unterlassung des Romans: was verliert er, wenn es entdeckt wird, und was, wenn die Erasure-Welle seine neu gefundene Balance bricht?
+- **B3** *Veränderung* — Was ist anders, nachdem alte Wunden aufreißen, nach dem ersten erlebten Wartungsfenster die Abkürzung im Korridor fehlt und nur Kael die Platten neu zählt, und welcher Wert kippt, wenn die Warteschlange nicht mehr auf null sinkt?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird der Bruch erzählt: aus Kaels, mit einem kurzen AEGIS-POV, den die strukturierte Outline und die Drei-Modi-Spec für möglich halten, und wie verhält sich dieser POV zur offenen Frage, ob AEGIS je eine Innensicht in erster Person bekommt?
+- **B5** *Ort, Zeit, Körper* — Wo spielt der Bruch: im Archiv der Grenzen in KW2, betreten laut Kernwelten vollständig über die Evaluierungseinheit in KW3-Topologie, und welche Sinneseindrücke von zerbrochener Fassade, Sprüngen im Raum und fehlender Korridor-Abkürzung verankern Kaels Körper?
+- **B6** *Einstieg und Ausstieg* — Wie setzt der Bruch ein, nachdem Kael im Garten eine innere Praxis gefunden und AEGIS die Stress-Tests vorbereitet hat, und welche offene Frage trägt den Leser zur ersten Lektüre, dem Halteproblem-Dossier, und zum Trigger, der alte Angst reaktiviert?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat der Bruch im Shō als Rahmen vor dem ersten Zyklus und erste Szene des zyklischen Modus, in der A und B parallel zu laufen beginnen, und was fehlte, wenn Kaels Balance nicht durch ein externes Ereignis oder eine gezielte AEGIS-Aktion bräche?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn AEGIS' Erasure-Welle laut der Konzept-Iteration genau das Verfahren des Trennungsprotokolls aus der Genesis ist, und wie berührt der Verlust, den nur Kael bemerkt, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 14
 

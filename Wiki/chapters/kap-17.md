@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Alle gelesenen Quellen stellen die Wächterin in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Korrektur, mit der der erste Spiral-Zyklus aus Trigger, Bunker und Wächterin schließt. Kaels Rückfall wird abgefangen, und Kael schaut aktiv hin, statt zu fliehen: laut der Konzept-Iteration Genesis durch die Wächterin oder Wir-Stimme, laut der strukturierten Outline durch Selene in der Wächterin-Funktion oder durch die Verbindung zwischen Kael und Juna, und laut der strukturierten Outline beginnt in Kael das Wir-Geflecht. In Storyform A deutet das die MC-Solution Pursuit an, Storyform B bleibt latent; die strukturierte Outline nennt es die erste bewusste Pursuit-Bewegung mit dem Driver-Anker Decision und gibt dieselbe Formel auch der Lyons-Kreativität. Laut dem Kapitel-Kompendium und der Storyform-Outline sieht Kael die Drähte der Simulation, Rendering-Ebene gegen Prozess-Kern, im Zeichen von Kants transzendentalem Idealismus, Kernwelten vollständig verortet das in KW2, und Licht durch enge Architektur trägt die Szene. Laut der Plot-Konkretisierung sieht Kael erstmals, wohin Bestätigtes geht, nach unten, und im Pflichtbericht des Tages steht versehentlich ein erzählter Satz, den der Validator knapp passieren lässt.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -118,16 +124,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Licht der Wächterin* / *Z1-Wächterin*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 17, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 17 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 17 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 17 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 17, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 17 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 18?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 17 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 17 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er nach dem Bunker aktiv hinschauen statt fliehen soll, und wer hilft oder hindert ihn dabei: laut der Konzept-Iteration Genesis die Wächterin oder Wir-Stimme, laut der strukturierten Outline Selene als Wächterin-Funktion oder die Verbindung zwischen Kael und Juna?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael laut dem Kapitel-Kompendium die Drähte der Simulation sieht, Rendering-Ebene gegen Prozess-Kern, und laut der Plot-Konkretisierung erstmals erkennt, wohin Bestätigtes geht, nicht weg, sondern runter: was verliert er, wenn er wieder wegsieht?
+- **B3** *Veränderung* — Was ist nach der Wächterin anders als im Bunker, wenn Flucht in Betäubung in eine Andeutung von Pursuit kippt, und ist das schon die erste bewusste Pursuit-Bewegung, wie die strukturierte Outline sagt, die dieselbe Formel auch der Lyons-Kreativität gibt?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Korrektur erzählt, wenn die strukturierte Outline Kael nennt, bei dem das Wir-Geflecht beginnt, und die Konzept-Iteration Genesis eine Wir-Stimme den Rückfall abfangen lässt: spricht hier erstmals ein Wir, und warum gerade nach dem Bunker?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Wächterin-Szene, in KW2 laut Kernwelten vollständig, und wie verankern Licht durch enge Architektur und laut der strukturierten Outline Wärme durch Betäubung den Körper, wenn Kael die Drähte hinter der Rendering-Ebene sieht?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Korrektur nach Kaels Flucht in Dissoziation und AEGIS' Fehldeutung als Stabilisierung ein, und welches Ereignis trägt den Leser in die Multi-Welten-Aufgabe, die am Cache-Konflikt zwischen Anteilen scheitert, und in den Beginn der Genesis-Flashbacks?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Wächterin als Korrektur, die den ersten Spiral-Zyklus schließt, und was fehlte, wenn Kants Rendering gegen Prozess-Kern oder laut der Plot-Konkretisierung der erzählte Satz im Pflichtbericht gestrichen würde, den der Validator knapp passieren lässt?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael hinschaut statt wegsieht und sein Pflichtbericht laut der Plot-Konkretisierung versehentlich einen erzählten Satz trägt, und wie berührt das Thema, dass Liebe bleibt wie der Schmerz, wenn laut der strukturierten Outline vielleicht die Verbindung zu Juna ihm den Rückfall zeigt?
 
 ### Specific to Kap 17
 

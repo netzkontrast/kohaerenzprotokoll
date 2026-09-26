@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Der Genesis-Prolog erzählt, darin sind sich die gelesenen Pläne einig, AEGIS' Werdung und das Trennungsprotokoll als ontologische Grundlegung, vor allen Welten: ein Funken-Ich clustert sich aus dem Rauschen zu Form und wird zu AEGIS, bis Junas unbenannte Resonanz in der Krise als ontologische Anomalie einbricht und AEGIS sich trennt und in unzählige Scherben fällt. Laut Konzept-Iteration Genesis, konsolidiertem Konzept und strukturierter Outline wird er aus einer fluiden Funken-Ich- und AEGIS-Perspektive mit Anrede an den Leser erzählt; die Erstfassung schreibt das Funken-Ich in der ersten und AEGIS in der dritten Person, der annotierte Entwurf lässt die Erzählerstimme mit der Krise verschwinden, und die Doppel-Klammer-Abhandlung schlägt für das Vorwort das plurale Wir-AEGIS vor. Die Quellen gliedern die Genesis verschieden, als Stationen bis zum Überlebenskampf oder bis zum großen Wandel oder als Beats, von denen der Prolog nur einen Teil trägt; laut Erstfassung ist Kael der Rest, den das Protokoll abschneidet, laut annotiertem Entwurf die Komponente 734 selbst, und nur der annotierte Entwurf hat die blutenden Knöchel in Nyx' Stimme, die Storyform-Outline und Kapitel-Kompendium hierher locken. Strukturell steht der Prolog laut strukturierter Outline im Ki der Kishōtenketsu und außerhalb der narrativen Modi, ist laut Storyform-Outline und Kapitel-Kompendium die Genesis-Hälfte der Klammer mit dem Schluss des Romans und trägt nur Storyform B mit dem MC-Signpost Past, A als Phantomgefühl, während die Doppel-Klammer-Abhandlung B erst mit dem Klick entstehen lässt und ihm Driver Action und Approach Do-er als Akzent gibt. Laut Kapitel-Kompendium und Storyform-Outline endet er mit hartem Schnitt auf den Erstsatz des Erwachens, der annotierte Entwurf hängt noch Kaels erste Zeilen an, und laut Konzept-Iteration Genesis kennt der Leser durch ihn von Anfang an die kosmologische Wahrheit.
+
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 Title: „Genesis-Prolog“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L502]
@@ -161,16 +167,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Genesis-Prolog* / *Kapitel 0 — Genesis*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 0, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 0 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 0 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 0 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 0, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 0 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 1?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 0 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 0 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will das Funken-Ich im Genesis-Prolog, wenn es sich aus dem Rauschen zu Form und Ordnung clustert, und was stellt sich ihm entgegen – das Rauschen, das es zu verschlingen droht, und in der Krise Junas Resonanz, die AEGIS als ontologische Anomalie erfährt?
+- **B2** *Einsatz* — Was steht im Genesis-Prolog auf dem Spiel, wenn AEGIS in der Krise das Trennungsprotokoll wählt: was verliert es, wenn Kohärenz nur als Trennung zu haben ist, und was, wenn es die Wärme der Resonanz, das Wiedererkennen, das Heim zuließe?
+- **B3** *Veränderung* — Was ist am Ende des Genesis-Prologs anders, wenn AEGIS sich im Trennungsprotokoll zerteilt und in unzählige Scherben fällt – entsteht, wie die Doppel-Klammer-Abhandlung sagt, erst mit dem Klick die Storyform B, und ist Kael der abgeschnittene Rest oder laut annotiertem Entwurf die Komponente selbst?
+- **B4** *Perspektive und Stimme* — Wer erzählt den Genesis-Prolog – eine Vermittler-Stimme, die den Leser direkt anspricht und laut Doppel-Klammer-Abhandlung das plurale Wir-AEGIS sein soll, das Funken-Ich in der ersten Person, AEGIS in der dritten – und warum verschwindet die Erzählerstimme laut annotiertem Entwurf mit der Krise?
+- **B5** *Ort, Zeit, Körper* — Wo und wann spielt der Genesis-Prolog, vor allen Welten, im Rauschen und in der Inneren Weite – und welche Körperempfindungen tragen ihn ohne Körper: eine Wärme, die es nicht geben kann, und im annotierten Entwurf heiße Luft und blutende Knöchel, die es nicht gibt?
+- **B6** *Einstieg und Ausstieg* — Womit setzt der Genesis-Prolog ein, mit einem Vorwort an den Leser und dem Rauschen, und wie trägt der Fall in die Scherben ins Erwachen in der Konstrukt-Stadt – als harter Schnitt auf den gelockten Erstsatz oder mit einem Kael-Schnipsel aus gezählten Kacheln wie im annotierten Entwurf?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat der Genesis-Prolog als Ki der Kishōtenketsu, außerhalb der narrativen Modi, und als Genesis-Hälfte der Klammer mit dem Schluss des Romans – und was fehlte, striche man ihn, wenn der Leser nur durch ihn von Anfang an die kosmologische Wahrheit kennt, die Kael nicht kennt?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn AEGIS in der Resonanzkaskade Wärme und Heim spürt und sich dennoch trennt – und wie berührt der Prolog das Thema, dass Liebe bleibt wie der Schmerz, wenn der Schmerz-bleibt-Faden laut Storyform-Outline nur hier, in Nyx' Knöchel-Eruption, lebt?
 
 ### Specific to Kap 0
 

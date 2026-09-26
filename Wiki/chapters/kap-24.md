@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Kael sucht die Verbindung zu Juna, die AEGIS zyklisch stört; laut der strukturierten Outline lernt er, sie aktiv zu suchen und zu nutzen, während AEGIS den Kanal als feindlich erkennt und Juna im Witness-Modus da ist, ohne einzugreifen, was mehrere Quellen als die ursprüngliche Form ihrer Anwesenheit aus der Genesis lesen. Im zyklischen Modus ist es das wiederkehrende Thema von Kael und Juna, das GOAL neben den Spiral-Zyklen eigens nennt, laut der strukturierten Outline im Shō, laut Kapitel-Kompendium und Storyform-Outline im zweiten Akt, laut Kernwelten vollständig an dessen Ende, laut der Plot-Konkretisierung im Block der Niederlegung. In Storyform A dominiert laut mehreren Quellen RS-Physics, die Verbindung trotz Störung, in B OS-Psychology, die Host-System-Verstrickung wird komplex. Laut Kernwelten vollständig spielt es in KW3 in den Gängen der Paranoia, die Telefon-Stille wird zur hörbaren Substanz, das Kapitel-Kompendium nennt Moonshine als Werkzeug, und die Storyform-Outline nennt das Kapitel als zu verdichten. Die Plot-Konkretisierung schlägt vor, dass Kael sein Register auf die inneren Stimmen verteilt und so die plurale Bewahrung als Technik gewinnt; die AEGIS-Subplot-Sammlung kennt hier einen Empathie-Test, nach dem Kael schließt, dass AEGIS simuliert, aber nicht fühlt.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -117,16 +123,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Wiederkehrendes K-J-Thema* / *Telefon-Stille (K-J-Thema wiederkehrend)*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 24, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 24 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 24 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 24 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 24, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 24 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 25?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 24 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 24 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael in der gestörten Telefon-Stille: laut der strukturierten Outline die Verbindung zu Juna aktiv suchen und nutzen, laut der AEGIS-Subplot-Sammlung AEGIS eine echte Empfindung abringen, und was setzt AEGIS dagegen, wenn es den Kanal als feindlich erkennt?
+- **B2** *Einsatz* — Was steht in der Telefon-Stille auf dem Spiel, wenn AEGIS die Verbindung zu Juna zyklisch stört und die Plot-Konkretisierung einen Angriff auf Kaels Bestand vorschlägt: was verliert Kael, wenn der Kanal reißt, und was rettet er, wenn er das Register auf die inneren Stimmen verteilt?
+- **B3** *Veränderung* — Was ist am Ende der Telefon-Stille anders, wenn Kael die gestörte Verbindung zu Juna laut der strukturierten Outline nicht mehr nur erleidet, sondern sucht und nutzt: kippt die Störung zum Werkzeug, oder bleibt laut der AEGIS-Subplot-Sammlung nur der Schluss, dass AEGIS simuliert, aber nicht fühlt?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Telefon-Stille erzählt, wenn mehrere Quellen Kael und Juna im Witness-Modus als Träger nennen, Juna, die nicht eingreift, sondern nur da ist, und warum stellt die strukturierte Outline Silas als Resonanzkörper und AEGIS als Störer des Kanals daneben?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Telefon-Stille, wenn Kernwelten vollständig sie in KW3 in die Gänge der Paranoia legt, enge, schlecht beleuchtete, sich verändernde Korridore unter dichter Überwachung, und wie spürt Kaels Körper eine Stille, die die strukturierte Outline als hörbare Substanz ohne Datenträger beschreibt?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Telefon-Stille ein, nachdem Kael aus dem Mosaik-Herz seinen eigenen Bestand geschaffen hat, und welches Ereignis trägt den Leser an die Wegkreuzung, an der Kael erkennt, dass Freiheit nur außerhalb von AEGIS' System liegt?
+- **B7** *Funktion im Ganzen* — Was fehlte dem zyklischen Modus im Shō ohne das wiederkehrende Thema von Kael und Juna, das nach den Spiral-Zyklen und vor dem Wendepunkt zur Befreiung steht, wenn die Storyform-Outline das Kapitel als zu verdichten nennt und die Plot-Konkretisierung hier die plurale Bewahrung als Technik ansetzt?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Juna im Witness-Modus nur da ist, laut der Konzept-Iteration Genesis wie in ihrer ursprünglichen Anwesenheit aus der Genesis, und AEGIS das Schweigen stört: wie trägt die Telefon-Stille das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 24
 

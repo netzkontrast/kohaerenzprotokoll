@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel steht in Akt I, in der Heldinnenreise innen auf ihrer ersten Erweiterungsstufe, Erste Anwendung der Integration, laut der strukturierten Outline im Ki als Vertiefung, und in der Plot-Konkretisierung im Block Der zögernde Angestellte; in Storyform A trägt es die RS-Physics, Moonshine als Werkzeug, laut dem Kapitel-Kompendium das Requirement Moonshine-Bewusstsein. Kael gebraucht die Verbindung zu Juna zum ersten Mal als Werkzeug, Moonshine als Quanten-Nichtlokalität: laut der strukturierten Outline löst er ein Problem, indem er Lex' Analyse mit der intuitiven Verbindung kombiniert, laut der Plot-Konkretisierung hält er am Arbeitsplatz einen Datensatz, ohne zu klicken, und an einem Ort der Stadt wird es wärmer. Die Welt ist laut Kernwelten vollständig KW1, mit der Wohneinheit 734 als Anker und Mnemosyne als Echo, laut Kapitel-Kompendium und Storyform-Outline KW1 mit einem McL- oder Moonshine-Vorschein, laut der Konzept-Iteration die McL-Welt. Die AEGIS-Subplots lassen Kael stattdessen den Ort des früheren Risses neu besuchen, zusammengeflickt, mit Narbengewebe und Wartungsdrohnen. Die strukturierte Outline lässt die Zahl 734 somatisch wiederkehren, Juna nur durch Wirkung und Silas als latente Resonanz erscheinen und in Storyform B mit dem MC-Signpost Present die Erasure-Sweeps hörbar werden, wo das konsolidierte Konzept B latent hält; bis hierher wird die Multiplizität nicht ausgesprochen, und laut der Plot-Konkretisierung kartiert Kael ab jetzt die Wärmestellen der Stadt.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -129,16 +135,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die erste Brücke* / *Erste Anwendung der Integration*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 10, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 10 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 10 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 10 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 10, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 10 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 11?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 10 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 10 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er laut der strukturierten Outline ein Problem löst, indem er Lex' Analyse mit der intuitiven Verbindung zu Juna kombiniert, und was stellt sich ihm entgegen, wenn laut den AEGIS-Subplots Wartungsdrohnen und Guardian-Subroutinen den Ort des früheren Risses flicken?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael die Verbindung zu Juna erstmals als Werkzeug benutzt, während laut der strukturierten Outline die Erasure-Sweeps hörbar werden: was verliert er, wenn das Werkzeug versagt, und was riskiert er, wenn es wirkt?
+- **B3** *Veränderung* — Was ist anders, nachdem Moonshine vom gespürten Sehnen zum Werkzeug geworden ist, wenn Kael laut der Plot-Konkretisierung einen Datensatz hält, ohne zu klicken, und an einem Ort der Stadt eine Wirkung ohne Erklärung eintritt, und welcher Wert kippt dabei?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die erste Brücke erzählt, wenn Kael kooperativ-polyphon ist, Juna nur durch Wirkung erscheint und Silas als latente Resonanz, und wie hält die Stimme, dass die Multiplizität bis hierher nicht ausgesprochen wird und noch keine Klartext-Diagnose fällt?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die erste Brücke: in KW1, in der McL-Welt der Konzept-Iteration, im McL- oder Moonshine-Vorschein, am geflickten Ort des Risses oder bei der Wohneinheit 734, und wie verankern Netzwerke, Resonanz und die somatisch wiederkehrende Zahl 734 Kaels Körper?
+- **B6** *Einstieg und Ausstieg* — Wie setzt die erste Brücke ein, nachdem die Anteile an der Konsole zum ersten Mal kooperiert haben, und welche offene Frage trägt den Leser zum Mosaik des Selbst, in dem Kael seine gelesenen Bestände nicht chronologisch, sondern als Muster neu ordnet?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die erste Brücke als Erweiterungsstufe der Heldinnenreise, Erste Anwendung der Integration, wenn Moonshine hier sein Werkzeug-Debüt hat und Kael laut der Plot-Konkretisierung ab jetzt Wärmestellen kartiert, und was fehlte, wenn die Verbindung zu Juna nie zur Handlung würde?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn die Verbindung zu Juna als Echo der Cluster-Bildung aus der Genesis wirkt, jetzt zwischen Personen statt innerhalb des Systems, und wie berührt diese erste Brücke das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 10
 

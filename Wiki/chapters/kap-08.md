@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Wiedergeburt, der Heilung des Männlichen im Inneren, laut der strukturierten Outline im Ki als Vertiefung, in KW1; die Plot-Konkretisierung legt es in ihre Blöcke Die andere Seite des Schalters und Der zögernde Angestellte. Kael beginnt Mitgefühl zu fassen: laut der strukturierten Outline mit seinen logisch-kontrollierenden Anteilen Lex und Alex, laut der Plot-Konkretisierung mit dem Apparat, wenn er nach Dienstschluss bleibt und ausgeglichene Bestände liest, nicht um zu retten, sondern um anzusehen; die AEGIS-Subplots lassen ihn stattdessen eine traumatische Erinnerung abrufen, die verschwommen oder gedämpft ist, vielleicht weil ein Guardian wie Mnemosyne seine Gedanken umlenkt. Laut der strukturierten Outline tritt die Wächterin-Funktion als Selene erstmals auf und vermittelt, ohne zu kämpfen; die Plot-Konkretisierung kennt die Wächterin nur als Stufe. Mehrere Quellen setzen hier die erste Andeutung einer Wir-Stimme und die erste interne Lüftung des Schleiers ohne Klartext, im Licht, das durch Architektur fällt. In Storyform A trägt das Kapitel den MC-Issue, Mitgefühl mit Schutz-Funktionen, in Storyform B beginnt die RS-Psychology sichtbar zu werden; die Plot-Konkretisierung sieht hier die erste Pursuit-Vorform, die das konsolidierte Konzept früher ansetzt, und zählt das Kapitel zu den möglichen Orten des Hard-B-Kapitels.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -125,16 +131,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Die Wächterin* / *Wiedergeburt — Heilung des Männlichen im Inneren*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 8, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 8 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 8 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 8 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 8, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 8 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 9?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 8 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 8 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er laut der Plot-Konkretisierung nach Dienstschluss bleibt und ausgeglichene Bestände liest, nicht um zu retten, sondern um anzusehen, oder laut den AEGIS-Subplots eine traumatische Erinnerung abzurufen versucht, und was stellt sich ihm entgegen: eine Dämpfung durch AEGIS, ein Guardian wie Mnemosyne, der seine Gedanken umlenkt?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael beginnt, Mitgefühl zu fassen, laut der strukturierten Outline mit den logisch-kontrollierenden Anteilen Lex und Alex, laut der Plot-Konkretisierung mit dem Apparat und der Konsole: was verliert er, wenn das Mitgefühl scheitert, und was gibt er auf, wenn es gelingt?
+- **B3** *Veränderung* — Was ist anders, nachdem Kael in der Stufe Wiedergeburt, der Heilung des Männlichen im Inneren, zum ersten Mal Mitgefühl mit seinen Schutz-Funktionen hat: kippt Kontrolle vom Feind zum Wächter, und woran zeigt sich die erste Andeutung einer Wir-Stimme, ohne dass das Wort Alters fällt?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Wächterin erzählt: aus Kaels, mit einer Wächterin-Funktion, die laut der strukturierten Outline Selene als vermittelnde Instanz trägt, oder ist dies das Hard-B-Kapitel mit AEGIS-Innensicht, dessen Position die Plot-Konkretisierung erst beim Weaving pinnt, in erster oder in dritter Person?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Wächterin in den anti-mimetischen Räumen von KW1, wo der Schleier porös wird und erste Stilcode-Verschiebungen fallen, und wie verankern Licht, das durch Architektur fällt, der Arbeitsplatz nach Dienstschluss und Kaels Körper beim Lesen der Bestände die Szene?
+- **B6** *Einstieg und Ausstieg* — Wie setzt die Wächterin ein, nachdem Kael Juna in der Telefon-Stille gespürt hat, ohne sie zu sehen, und welche offene Frage trägt den Leser zur ersten Wir-Stimme-Szene, in der sich die Arbeit an der Konsole auf mehrere verteilt?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Wächterin im Bogen der Heldinnenreise innen, als erste interne Lüftung des Schleiers ohne Klartext und als Beginn der sichtbaren RS-Psychology in Storyform B, und was fehlte dem Wir-Aufbau, wenn Kaels Mitgefühl mit den Schutz-Funktionen fehlte?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael die Echos der ursprünglichen Vorhersagealgorithmen aus der Genesis jetzt mit Mitgefühl betrachtet, und wie berührt das Mitgefühl mit dem, was ihn kontrolliert, das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 8
 

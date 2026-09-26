@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Kael, der Host, erwacht in der Konstrukt-Stadt von KW1, fragmentiert und ohne Erinnerung, in einem steril geordneten Alltag zwischen Wohnung, Datenknoten und Transitkorridor; laut strukturierter Outline lebt er als Komp 734 in einer Wohneinheit anderer Nummer, laut Kernwelten vollständig und Kapitel-Kompendium ist Wohneinheit 734 selbst seine Wohnung. Laut AEGIS-Subplots wagt er eine kleine Abweichung von seiner Routine und wird von der Umgebung sanft zur Norm zurückgeführt, laut Plot-Konkretisierung bestätigt er, dass die Welt stimmt, während eine Abweichung und ein Sprung in seinen Werten auftauchen; Kapitel-Kompendium und Storyform-Outline locken den Erstsatz, das Licht sei schon da, als er erwache, keine AEGIS-Stimme, kaltes Ozon ohne Wärme und eine Amnesie, die nie erwähnt wird, und die strukturierte Outline lässt Juna als Wort ohne Referent anklingen. In der Heldinnenreise ist es die Illusion der perfekten Welt, Ordnung als Käfig, laut strukturierter Outline in der Ki-Vertiefung am Beginn von Akt I, und laut Kapitel-Kompendium und Storyform-Outline öffnet es die Ouroboros-Klammer, in der der Erstsatz am Ende der letzte ist, den Kael schreibt. Storyform A trägt das MC-Concern Memory als Erinnerungslosigkeit, laut Kapitel-Kompendium als latenten ersten Signpost; Storyform B ist laut Konzept-Iteration Genesis und Drei-Modi-Spezifikation OS-Physics als AEGIS-Architektur im Umgebungs-Log, laut strukturierter Outline latent als Umgebung, laut Kapitel-Kompendium der IC-Signpost mit Kael als unfixbarem Bug. Der Leser erkennt im sterilen Setting die Innere Weite aus der Genesis, Kael nicht.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -146,16 +152,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Instrumente der Ordnung* / *Erwachen in der Konstrukt-Stadt*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 1, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 1 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 1 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 1 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 1, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 1 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 2?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 1 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 1 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael an seinem Tag in der Konstrukt-Stadt von KW1 – laut Plot-Konkretisierung bestätigen, dass die Welt stimmt, laut AEGIS-Subplots eine kleine Abweichung von seiner Routine wagen – und was stellt sich ihm entgegen, wenn die Umgebung ihn sanft zur Norm zurückführt?
+- **B2** *Einsatz* — Was steht für Kael beim Erwachen in der Konstrukt-Stadt auf dem Spiel, wenn er ohne Erinnerung in einem steril geordneten Alltag lebt, dessen Amnesie nie erwähnt wird: was verliert er, wenn die eine konkrete Falschheit ihn erreicht, und was, wenn er sie als Seltsamkeit abtut?
+- **B3** *Veränderung* — Was ist am Ende des Erwachens in der Konstrukt-Stadt anders, wenn es die Heldinnenreise mit der Illusion der perfekten Welt eröffnet – hat Kael nur bestätigt, dass die Welt stimmt, oder hat eine Abweichung in seinen Sequenzen die Ordnung schon zum Käfig gemacht?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird das Erwachen in der Konstrukt-Stadt erzählt – Kael als Host in der ersten Person, zählend, ohne jede AEGIS-Stimme, wie die Storyform-Outline lockt – und warum soll der Leser an einem Menschen andocken statt an einer These?
+- **B5** *Ort, Zeit, Körper* — Wo spielt das Erwachen in der Konstrukt-Stadt – in Wohneinheit 734 in Sektor 04 laut Kernwelten vollständig, oder lebt Kael als Komp 734 in einer anderen Einheit laut strukturierter Outline – und welche Sinne verankern es: quellenloses Licht, kaltes Ozon ohne Wärme, Stille, Atem?
+- **B6** *Einstieg und Ausstieg* — Womit setzt das Erwachen in der Konstrukt-Stadt ein – mit dem gelockten Erstsatz, das Licht sei schon da, als er erwache, nach dem harten Schnitt vom Fall in die Scherben – und welches Ereignis trägt den Leser in den ersten Riss, in dem ein Glitch ein Echo reaktiviert?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat das Erwachen in der Konstrukt-Stadt als Ki-Vertiefung am Beginn von Akt I, mit MC-Concern Memory in Storyform A, und was fehlte ohne die Ouroboros-Klammer, in der sein Erstsatz am Ende der letzte ist, den Kael schreibt, und ohne das Setting, das der Leser als Innere Weite erkennt?
+- **B8** *Leser und Thema* — Was soll der Leser nach dem Erwachen in der Konstrukt-Stadt fühlen, wenn Kael somatisch spurlos bleibt und Juna nur als Wort ohne Referent und als abgebrochener Halbsatz im Lüftungsrauschen erscheint – und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 1
 

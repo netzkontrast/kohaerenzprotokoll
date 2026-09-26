@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Kael handelt mit klarer Absicht, nicht mehr reaktiv, und bereitet die Konfrontation vor; das Leitbild der Quellen ist die Autoren-Feder mit klaren Linien, und laut der Plot-Konkretisierung wird hier das Delikt Absicht, als Kael einen Bericht schreibt, den niemand angefordert hat. AEGIS spürt seine neue Linearität, laut der Plot-Konkretisierung als Format-Anomalie, und laut der strukturierten Outline degradiert die Architektur sichtbar, während das Wir-Geflecht aller Alters in funktionaler Multiplizität steht; die AEGIS-Subplot-Sammlung kennt hier einen Roten Alarm, in dem Guardians zur Jagd auf Kael übergehen. Es ist die Ordinary World der Heldenreise außen nach dem Modus-Wechsel, laut der strukturierten Outline dort, wo das Ten beginnt; die meisten Quellen legen es in die Phase A des dritten Akts, die Plot-Konkretisierung in den Block des Deserteurs, Kernwelten vollständig dagegen noch an das Ende des zweiten Akts, an die Schwelle von KW3 zu KW4. In Storyform A trägt es MC-Concern, Agency mit Absicht, in B OS-Physics, laut der strukturierten Outline den dritten Signpost des OS in B, Progress.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -105,16 +111,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Autoren-Feder* / *Ordinary World — Entschlossenheit*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 27, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 27 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 27 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 27 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 27, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 27 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 28?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 27 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 27 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er mit klarer Absicht handelt und die Konfrontation vorbereitet, und was stellt sich ihm entgegen: ein AEGIS, das seine neue Linearität spürt, laut der Plot-Konkretisierung als Format-Anomalie, oder laut der AEGIS-Subplot-Sammlung ein Roter Alarm, in dem Guardians zur Jagd übergehen?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn laut der Plot-Konkretisierung das Delikt Absicht wird und Kael einen Bericht schreibt, den niemand angefordert hat: was verliert er, wenn AEGIS ihn laut der AEGIS-Subplot-Sammlung als kritische Bedrohung führt, und was gewinnt er mit der Autoren-Feder?
+- **B3** *Veränderung* — Was ist am Ende der Autoren-Feder anders, wenn Kael die Linien selbst zieht, statt verwaltet zu werden, und die Architektur laut der strukturierten Outline sichtbar degradiert: kippt der Verwaltete zum Autor, und woran sieht es der Leser?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Autoren-Feder erzählt, wenn die strukturierte Outline Kael als klares Wir führt und das Wir-Geflecht aller Alters in funktionaler Multiplizität neben einem countdown-bewussten AEGIS nennt: wie klingt eine Stimme mit klaren Linien, die aus vielen spricht?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Autoren-Feder, wenn Kernwelten vollständig sie an die Schwelle von KW3 zu KW4 legt, als Ordinary World und Dasein-Strang Erntung, und welche konkreten Eindrücke machen klare Linien in Kaels Körper spürbar, wo keine gelesene Quelle eine Szene ausführt?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Autoren-Feder ein, nachdem Kael die Konfrontation beschlossen und den Knoten verlassen hat, und welches Ereignis trägt den Leser in AEGIS' Eskalation, in der die Purge droht und Juna in Gefahr gerät?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Ordinary World der Entschlossenheit nach dem Modus-Wechsel in die Heldenreise außen, wo laut der strukturierten Outline das Ten beginnt, wenn Kernwelten vollständig das Kapitel noch dem Ende des zweiten Akts zurechnet, und was fehlte ohne sie?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael laut der Plot-Konkretisierung zum ersten Mal mit Absicht schreibt statt zu verwalten, und wie berührt diese Entschlossenheit das Thema, dass Liebe bleibt wie der Schmerz, wo keine gelesene Quelle Juna in der Autoren-Feder nennt?
 
 ### Specific to Kap 27
 

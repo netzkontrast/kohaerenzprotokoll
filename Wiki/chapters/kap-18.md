@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Alle gelesenen Quellen stellen den Cache-Konflikt in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; er ist die Destabilisierung, mit der der zweite Spiral-Zyklus beginnt. Kael versucht eine komplexe Aufgabe über mehrere Kernwelten zu lösen und scheitert an einem Cache-Konflikt zwischen seinen Anteilen, multi-alter und dyssynchron, in KW2 und laut dem Kapitel-Kompendium, der Storyform-Outline und Kernwelten vollständig im Zeichen des Qualia-Informationsparadoxes, des Harten Problems. Storyform A führt die MC-Concern Memory, Storyform B die OS-Physics, in der AEGIS' Topologie-Manipulation sichtbar wird; die strukturierte Outline führt beide Storyforms zugleich und setzt den Genesis-Flashback als Bridge. Laut der strukturierten Outline und der Storyform-Outline beginnen hier die Genesis-Flashbacks mit der Cluster-Bildung, die Kael als fremde Daten erlebt, nicht als eigene Erinnerung; das Kapitel-Kompendium lässt hier den Flashback-Cluster beginnen, dessen Folge von Einheit, Trennungsprotokoll und Komponente 734 keinen Cluster-Beat kennt, und Kernwelten vollständig lässt die Flashbacks erst bei der Lyons-Kreativität beginnen. Laut der Plot-Konkretisierung erscheint in Kaels Zuweisung, in einer Szene getrennt vom Flashback, ein Datensatz mit leerem Datentyp-Feld, den Kael zu grüßen beginnt, und asynchrone Sensorik und Glitch-Texturen tragen das Kapitel.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -124,16 +130,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Z2-Cache-Konflikt + Genesis-Cluster* / *Z2-Destabilisierung — Cache-Konflikt*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 18, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 18 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 18 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 18 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 18, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 18 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 19?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 18 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 18 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er eine komplexe Aufgabe über mehrere Kernwelten zu lösen versucht, und was stellt sich ihm entgegen: der Cache-Konflikt zwischen seinen Anteilen, oder laut der Konzept-Iteration Genesis und dem konsolidierten Konzept AEGIS' sichtbare Topologie-Manipulation?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn die Multi-Welten-Aufgabe scheitert und Kael im Genesis-Flashback der Cluster-Bildung Erinnerungen als fremde Daten erlebt: was verliert er, wenn er sie als eigene erkennt, und was, wenn sie fremd bleiben?
+- **B3** *Veränderung* — Was ist nach dem Scheitern der Multi-Welten-Aufgabe anders als nach der Wächterin, wenn die Destabilisierung den zweiten Spiral-Zyklus eröffnet, die eben gewonnene Korrektur in Dyssynchronie kippt und laut der Plot-Konkretisierung ein Datensatz mit leerem Datentyp-Feld erscheint?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird der Cache-Konflikt erzählt, wenn die strukturierte Outline Kael multi-alter und dyssynchron plus eine Genesis-Flashback-Stimme nennt, und wie unterscheidet sich eine Stimme, durch die fremde Daten hindurchziehen, von der Stimme des Flashbacks?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die gescheiterte Multi-Welten-Aufgabe, in KW2 am Qualia-Informationsparadox laut Kernwelten vollständig, und wie verankern asynchrone Sensorik, Glitch-Texturen und Räume, die nicht zueinander passen, den Körper eines Kael, dessen Anteile nicht synchron wahrnehmen?
+- **B6** *Einstieg und Ausstieg* — Womit setzt der Cache-Konflikt nach der Wächterin ein, die Kael aktiv hinschauen ließ, und welches Ereignis trägt den Leser zur AEGIS-Intervention, in der AEGIS Kaels wachsende Kohärenz bemerkt und mit neuen Regeln stört?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Cluster-Bildung als Beginn der Genesis-Flashbacks, wenn das Kapitel-Kompendium den Cluster als Einheit, Trennungsprotokoll und Komponente 734 ohne Cluster-Beat führt und Kernwelten vollständig die Flashbacks erst bei der Lyons-Kreativität beginnen lässt, und was fehlte ohne sie?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Kael fremde Erinnerungen durchlebt und laut der Plot-Konkretisierung einen unbedienbaren Datensatz zu grüßen beginnt, die einzige nicht-funktionale Geste seines Arbeitsplatzes, und wie berührt das Harte Problem das Thema, dass Liebe bleibt wie der Schmerz?
 
 ### Specific to Kap 18
 

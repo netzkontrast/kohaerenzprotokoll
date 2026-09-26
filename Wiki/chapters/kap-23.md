@@ -16,6 +16,12 @@ the order the documents are dated, attributed and unmerged. Which reading the
 novel follows is the author's call. All chapters side by side:
 [overview](../overview/chapters.md).
 
+## What this chapter is about — a summary of the readings below
+
+Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
+
+Alle gelesenen Quellen stellen die Mosaik-Schöpfung in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig an dessen Ende und an den Übergang von KW2 zu KW3; sie ist die Korrektur, mit der der dritte Spiral-Zyklus schließt, und laut der Plot-Konkretisierung das Ende ihres Blocks Der Innentäter. Nach AEGIS' Eskalation greift Kael auf seine innere Vielfalt zurück, um die Krise zu meistern, Selbst-Schöpfung statt Reparatur, laut der Konzept-Iteration Genesis mit dem Mosaik-Herz als innerer Ressource, erzählt laut der strukturierten Outline und der Drei-Modi-Spec aus Kael als Wir, stabil und resilient, laut der strukturierten Outline mit allen ANPs und EPs in beginnender Kooperation. Storyform A führt die Selbst-Schöpfung als MC-Concern und laut dem Kapitel-Kompendium als Requirement, Storyform B bleibt latent; als Echo der Genesis ist die innere Schöpfung laut der Konzept-Iteration Genesis, dem konsolidierten Konzept und der strukturierten Outline die Vorform der kosmischen Schöpfung. Mosaik-Bildung als aktiver Prozess trägt die Szene, laut der strukturierten Outline Scherben, die sich ohne Plan zueinander finden, und laut Kernwelten vollständig betritt Kael hier KW3 an Schleusen und Wachtürmen, unter der Dominanz der Protektoren. Laut der Plot-Konkretisierung legt Kael den ersten Datensatz an, den die Welt nicht zugewiesen hat, das Gegenregister unter eigener Kennung, Schöpfung in der Sprache des Apparats.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -113,16 +119,16 @@ What a reader of this chapter's sources should be looking for, asked before any 
 
 ### Basic — what every author asks of a chapter
 
-The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`). Asked of the search with the titles the readings give this chapter: *Mosaik-Schöpfung* / *Z3-Mosaik als Schöpfung*.
+The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), each filled with what this page's readings say happens here, and asking between them where they differ.
 
-- **B1** *Ziel und Widerstand* — Was will die Perspektivfigur in Kapitel 23, und wer oder was stellt sich ihr dabei in den Weg?
-- **B2** *Einsatz* — Was steht in Kapitel 23 auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?
-- **B3** *Veränderung* — Was ist am Ende von Kapitel 23 anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?
-- **B4** *Perspektive und Stimme* — Aus wessen Sicht und in welcher Stimme wird Kapitel 23 erzählt, und warum gerade aus dieser?
-- **B5** *Ort, Zeit, Körper* — Wo und wann spielt Kapitel 23, und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?
-- **B6** *Einstieg und Ausstieg* — Womit setzt Kapitel 23 ein, und welche offene Frage oder welches Ereignis trägt den Leser in Kapitel 24?
-- **B7** *Funktion im Ganzen* — Welche Aufgabe hat Kapitel 23 im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?
-- **B8** *Leser und Thema* — Was soll der Leser am Ende von Kapitel 23 fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?
+- **B1** *Ziel und Widerstand* — Was will Kael, wenn er nach AEGIS' unvorhersehbaren Systemänderungen auf seine innere Vielfalt zurückgreift, um die Krise zu meistern, und was stellt sich ihm entgegen: die Krise selbst, oder beim Eintritt in KW3 laut Kernwelten vollständig die Dominanz der Protektoren?
+- **B2** *Einsatz* — Was steht auf dem Spiel, wenn Kael laut der Plot-Konkretisierung den ersten Datensatz anlegt, den die Welt nicht zugewiesen hat, das Gegenregister unter eigener Kennung: was verliert er, wenn der Apparat den eigenen Bestand findet, und was gewinnt er durch Schöpfung statt Reparatur?
+- **B3** *Veränderung* — Was ist nach der Mosaik-Schöpfung anders als nach der Begegnung mit Komponente 734, wenn Selbst-Schöpfung statt Reparatur zur inneren Ressource wird, und kippt dabei die Erfahrung, Werkzeug zu sein, in die, selbst zu schöpfen?
+- **B4** *Perspektive und Stimme* — Aus wessen Sicht wird die Mosaik-Schöpfung erzählt, wenn die strukturierte Outline und die Drei-Modi-Spec Kael als Wir nennen, stabil und resilient, und alle ANPs und EPs in beginnender Kooperation stehen, und wie klingt ein Wir, dessen Stimmen zusammenarbeiten?
+- **B5** *Ort, Zeit, Körper* — Wo spielt die Mosaik-Schöpfung, laut Kernwelten vollständig an den Schleusen und Wachtürmen beim Eintritt in KW3, und wie verankern ein Mosaik in Bewegung und Scherben, die sich ohne Plan zueinander finden, den Körper, wo das Kapitel-Kompendium das Szenen-Detail offen lässt?
+- **B6** *Einstieg und Ausstieg* — Womit setzt die Mosaik-Schöpfung nach AEGIS' Eskalation und dem Genesis-Flashback um Komponente 734 ein, und welches Ereignis trägt den Leser zur Telefon-Stille, in der AEGIS die Verbindung zwischen Kael und Juna zyklisch stört?
+- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die Mosaik-Schöpfung als Korrektur, die den dritten Spiral-Zyklus schließt, laut Kernwelten vollständig am Ende des zweiten Akts und laut dem Kapitel-Kompendium als Requirement von Storyform A, und was fehlte der kosmischen Schöpfung ohne diese Vorform?
+- **B8** *Leser und Thema* — Was soll der Leser fühlen, wenn Scherben sich ohne Plan zueinander finden und Kael laut der Plot-Konkretisierung in der Sprache des Apparats etwas Eigenes schöpft, und wie berührt das Thema, dass Liebe bleibt wie der Schmerz, wenn das Zerbrochene selbst zum Material wird?
 
 ### Specific to Kap 23
 
