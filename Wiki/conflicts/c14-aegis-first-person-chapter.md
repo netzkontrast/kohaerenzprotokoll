@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 17
+sources: 18
 pages: ["aegis"]
 ---
 
@@ -139,3 +139,12 @@ Under §1.1, labelled `[K]`: „KW1 als Architektur, AEGIS-Logs als Stimme, das 
 Whether AEGIS is conscious it leaves open on purpose: „Die Frage ist im Roman bewusst ambivalent." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L395]
 `Kap 5`, `Kap 7`, `Kap 8`, `Hard-B`, `Innensicht` and `POV` stand 0 times; its Kap 6 is the Semantische Firewall (L700); `ich` stands once, of Kael (L581).
 Row 2's side — logs, no inner view — dated after the lock of 2026-05-30 and without its exception, like rows 5 and 7. The conflict stays open.
+
+## 2026-09-26 — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log
+
+**Unnamed in the drafted Kap 14–26 and heard only in capital-letter directives — no log format, no inner view, no first person reported; it asks when the name and the log may come in.**
+„Der Benennungslock gilt für Kap 1–13." ^[2026-09-14-kap25-vertiefung-md.md:L55] „Die gedrafteten Kapitel 14–26 benennen die Instanz trotzdem nirgends leserseitig" ^[2026-09-14-kap25-vertiefung-md.md:L55], and use no log format, although, it says, the Sprach-DNA provides one from Akt II — its claim about that document. „Kap 25 folgt der Praxis der Nachbarkapitel (nur VERSALIEN-Direktiven)." ^[2026-09-14-kap25-vertiefung-md.md:L55]
+The one directive it gives: „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[2026-09-14-kap25-vertiefung-md.md:L22]; its rule for them: „R-8 Direktiven ohne Metapher, Moral, Affekt" ^[2026-09-14-kap25-vertiefung-md.md:L47].
+Its open decision: „Soll der Name — und das Log-Format — irgendwo in Akt II leserseitig freigegeben werden, und wenn ja, ab welchem Kapitel?" ^[2026-09-14-kap25-vertiefung-md.md:L55]
+`ich` stands 0 times and `Ich` once, in the old Kap 25's „Ich tue nichts" ^[2026-09-14-kap25-vertiefung-md.md:L21], the non-action the revision gives a body — not [[aegis|AEGIS]]'. `Kap 5`, `Kap 7`, `Kap 8`, `Hard-B`, `Innensicht` and `Person` stand 0 times (`05-verify-readers.txt`).
+It speaks to this record only through the voice it reports for AEGIS after Kap 5–8: directives, neither the logs of row 2 nor an inner view. On a first-person chapter it says nothing, and it stands on no row.
