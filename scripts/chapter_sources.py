@@ -120,14 +120,25 @@ def fuse(per_question: dict[str, list[dict]]) -> list[dict]:
     return ranked
 
 
-def basic(number: int, text: str) -> list[dict]:
-    """The eight questions every author asks of a chapter, filled with this one's number and titles."""
+def basic(number: int, text: str, filled: list[dict] | None = None) -> list[dict]:
+    """The eight questions every author asks of a chapter.
+
+    Filled with the chapter's plot where its file carries a `basic` list (the
+    author: „Fill it with what we know about the Plot - Not Numbers"); otherwise
+    the template, filled with the chapter's number and titles.
+    """
+    templates = json.loads(BASIC.read_text(encoding="utf-8"))["questions"]
+    if filled:
+        tags = {t["id"]: t["tag"] for t in templates}
+        return [{"id": f"K{number}-{q['id']}", "label": q["id"], "tag": tags[q["id"]],
+                 "question": q["question"], "shown": q["question"], "titles": [], "plot": True}
+                for q in filled]
     titles = distinct(TITLE.findall(text))[:2]
     fill = {"N": str(number),
             "titel": " / ".join(titles),
             "weiter": f"in Kapitel {number + 1}" if number < 40 else "aus dem Roman hinaus"}
     out = []
-    for q in json.loads(BASIC.read_text(encoding="utf-8"))["questions"]:
+    for q in templates:
         question = q["template"]
         if not titles:
             question = question.replace(" ({titel})", "")
@@ -143,8 +154,8 @@ def load_questions(number: int, text: str) -> list[dict]:
     path = QUESTIONS / f"kap-{number:02d}.json"
     if not path.exists():
         return []
-    own = json.loads(path.read_text(encoding="utf-8"))["questions"]
-    return basic(number, text) + [dict(q, label=f"S{i}") for i, q in enumerate(own, 1)]
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return basic(number, text, data.get("basic")) + [dict(q, label=f"S{i}") for i, q in enumerate(data["questions"], 1)]
 
 
 def run(keep: int, only: set[int] | None) -> int:
@@ -177,9 +188,12 @@ def questions_section(number: int, questions: list[dict]) -> str:
              "What a reader of this chapter's sources should be looking for, asked before any search. "
              "Questions, not readings: none is answered here.", "",
              "### Basic — what every author asks of a chapter", "",
-             "The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`)."
-             + (" Asked of the search with the titles the readings give this chapter: "
-                + " / ".join(f"*{t}*" for t in basics[0]["titles"]) + "." if basics and basics[0]["titles"] else ""),
+             ("The eight every author asks of a chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`), "
+              "each filled with what this page's readings say happens here, and asking between them where they "
+              "differ." if basics and basics[0].get("plot") else
+              "The same eight for every chapter (`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`)."
+              + (" Asked of the search with the titles the readings give this chapter: "
+                 + " / ".join(f"*{t}*" for t in basics[0]["titles"]) + "." if basics and basics[0]["titles"] else "")),
              ""]
     lines += [f"- **{q['label']}** *{q['tag']}* — {q['shown'].strip()}" for q in basics]
     lines += ["", f"### Specific to Kap {number}", "",
@@ -322,6 +336,10 @@ def selftest() -> int:
         failures.append(f"basic: not filled with the chapter: {b[:1]}")
     if "()" in basic(3, page)[0]["question"] or "aus dem Roman hinaus" not in basic(40, page)[5]["question"]:
         failures.append("basic: an untitled chapter or Kap 40 is filled wrongly")
+    plot = basic(3, page, [{"id": f"B{i}", "question": f"Was will Kael im Rauschen, Frage {i}?"} for i in range(1, 9)])
+    if [q["label"] for q in plot] != [f"B{i}" for i in range(1, 9)] or plot[0]["tag"] != "Ziel und Widerstand" \
+            or plot[0]["shown"] != "Was will Kael im Rauschen, Frage 1?":
+        failures.append(f"basic: a chapter's plot-filled list is not used as written: {plot[:1]}")
     for failure in failures:
         print(f"FAILED  {failure}")
     print("chapter_sources selftest: " + ("held" if not failures else f"{len(failures)} failed"))

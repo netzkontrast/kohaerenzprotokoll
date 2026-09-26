@@ -108,3 +108,42 @@ or in GOAL.md made the question worth asking — in English, a few words. It is
 the question's provenance.
 
 Write nothing else. Change no page.
+
+## The basic eight, filled with the plot
+
+The author, after seeing the basic eight filled only with a chapter's number
+and titles: „Fill it with what we know about the Plot - Not Numbers".
+
+So each chapter file also gets a `basic` list: the eight questions of
+`basic-questions.json`, **rewritten for this chapter with what its readings say
+happens in it**. Each keeps its basic question's craft core (B1 goal and
+opposition, B2 stakes, B3 change, B4 point of view and voice, B5 place, time
+and body, B6 way in and way out, B7 function in the whole, B8 reader and theme)
+and fills it with the chapter's plot: who acts, where, what happens, what is
+lost, what comes before and after. For example, not „Was will die
+Perspektivfigur in Kapitel 12?" but „Was will Kael in der Stille der Mitte,
+wenn …, und was stellt sich ihm entgegen — …?".
+
+- **No numbers.** No chapter number, no date, no count carries a question. Name a
+  neighbour by what happens in it („nach dem Audit", „vor dem Sprung ins
+  Rauschen"), a source by its short name („die strukturierte Outline", „die
+  Charakter-Bibel", „das Kapitel-Kompendium", „die Plot-Konkretisierung").
+  A name that is a number in the world itself — Komponente 734, KW1 — may stay.
+- **Only what the page's readings say.** The facts come from the chapter page
+  and its neighbours, nothing else. Where the readings differ, the question asks
+  between them („wenn er laut der Charakter-Bibel … und laut der Outline …").
+  Where the page says nothing, the question says so („wo keine gelesene Quelle
+  einen Ort nennt").
+- Everything else in *What a question is* stands: German, self-contained, no
+  „…", no `^[…]`, no `[[links]]`, one question, at most about 50 words.
+
+```json
+{"chapter": 12, "questions": [...],
+ "basic": [
+   {"id": "B1", "question": "Was will Kael in der Stille der Mitte …?",
+    "draws_on": "readings of X and Y"}
+ ]}
+```
+
+Exactly eight, `B1` to `B8`, in order. Add the `basic` key to the existing file
+and leave its `questions` untouched.
