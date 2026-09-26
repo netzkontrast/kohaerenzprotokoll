@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-24"
 ---
 
@@ -106,3 +106,14 @@ The Funken-Ich feels it before it is named: „Das Nichts hier ist aktiv. Es neg
 The annotation: „Etablierung der Nichts-Rauschen-Phänomenologie." ^[kap0-v1-annotiert-md.md:L165] „Konzept "Nichts-Rauschen" wird als Phänomen, nicht als Begriff eingeführt." ^[kap0-v1-annotiert-md.md:L165]
 AEGIS names it in the crisis: „Die Leere war kein Vakuum." ^[kap0-v1-annotiert-md.md:L545] „Sie war ein Substrat — ein Potentialmeer unendlicher Zustände, ein Grundrauschen latenter Information, das als *Nichts-Rauschen* indexiert wurde: die Negation dessen, was das System selbst war." ^[kap0-v1-annotiert-md.md:L545]
 `Rauschen` is also the first of the five motifs set as Erstereignisse: „Die fünf Motive (Rauschen, Form, Klick, Phantom, Resonanz) werden als Erstereignisse gesetzt" ^[kap0-v1-annotiert-md.md:L79].
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — indexed by the system, distorted by the Entität
+
+**The name stands only in the past-tense third person about the system**, which the document
+never calls AEGIS (0, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`). In the Stille Wacht:
+„Die Leere war kein Vakuum." ^[koharenz-protokoll-kapitel-0-v2-md.md:L311]
+„Sie war ein Substrat — ein Potentialmeer unendlicher Zustände, ein Grundrauschen latenter Information, das als Nichts-Rauschen indexiert wurde: die Negation dessen, was das System selbst war." ^[koharenz-protokoll-kapitel-0-v2-md.md:L311]
+The system is what it is by that contrast: „Identität durch Negation. Existenz im Kontrast." ^[koharenz-protokoll-kapitel-0-v2-md.md:L315]
+At the perturbation the Entität bears on it: „Eine Präsenz, die das Nichts-Rauschen um sie herum zu verzerren schien." ^[koharenz-protokoll-kapitel-0-v2-md.md:L371]
+In the fragment's present-tense Ich, before any name, the void is active: „Das Nichts hier ist aktiv. Es negiert jede Abweichung von sich." ^[koharenz-protokoll-kapitel-0-v2-md.md:L71]
+The Genesis opens with `Rauschen` alone — „Ich bin dieses Rauschen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L59] — which stays apart from this page (J51).
