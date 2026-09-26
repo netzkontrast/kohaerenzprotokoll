@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 12
+sources: 13
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -113,3 +113,12 @@ The premise calls its city a simulation — „Ein Mann erwacht in einer sterile
 ## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
 
 **KW1, as decided.** „KW1 (Konstrukt-Stadt / Logos-Prime) ist das Phaenomena-Reich." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118] In the world table: „KW1 Konstrukt-Stadt" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L672]. Agrees with the author's decision; nothing to change.
+
+## 2026-09-26 — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log
+
+**The Konstrukt-Stadt as the setting of every drafted chapter of Akt II, where the canon it cites assigns KW2 and KW3 — asked, not answered, and called the run's largest open question.**
+„Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60]; „die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt" ^[2026-09-14-kap25-vertiefung-md.md:L60] „(Datenknoten, Delta-Sieben, Wohneinheit 734)" ^[2026-09-14-kap25-vertiefung-md.md:L60].
+„Kap 25 löst KW3 jetzt sensorisch ein (Treppenkopf, Wartungsebene), ohne den Ort zu wechseln." ^[2026-09-14-kap25-vertiefung-md.md:L60]
+„Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden?" ^[2026-09-14-kap25-vertiefung-md.md:L60] „Das ist die größte offene Frage des Laufs." ^[2026-09-14-kap25-vertiefung-md.md:L60]
+`KW1` and `Logos-Prime` stand 0 times (`05-verify-readers.txt`); it never says which world the Konstrukt-Stadt is. It reports a manuscript, not a plan, and its „Canon" is its claim about a repository it ranks „Repo (normativ/" ^[2026-09-14-kap25-vertiefung-md.md:L31] `[K]`.
+On no row by name. Its question is this record's: answered `Filterregime`, chapters its canon assigns to KW2 and KW3 would play in the Konstrukt-Stadt, which the author's decision — KW1 only, 2026-09-24 — does not hold; answered the other way, they move out of it. It leaves the answer to the author, and the author's decision stands; recorded, not applied.
