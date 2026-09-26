@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-17"
 ---
 
@@ -195,3 +195,11 @@ No Kern-Welt is named; an annotation calls the [[ueberwelt|Überwelt]] „Überw
 **Thirteen by storyform, and no world counted.**
 „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135], the two „Spiegel-Alters (Silas = Coheron-Echo, Oblivion = Erason-Operator)" ^[three-mode-architecture-39-chapters-md.md:L137] and Argus (L138): thirteen with Kael.
 Worlds only as „Kernwelt (B-Welt)" ^[three-mode-architecture-39-chapters-md.md:L245] and „KW2-KW3-Phase" ^[three-mode-architecture-39-chapters-md.md:L151]; no world is an alter's.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Four worlds among six levels, thirteen alters, and no world an alter's.**
+„Es gibt eine Realität mit vier verschiedenen Logikregimen (KW1–KW4)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L449], plus the Überwelt and the Externe Ebene; „Keine Multiverse-Geschichte. Eine Realität, vier Logikregime." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L875]
+„V.2 Die 13 Alter (kanonisch)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L394]; „Kael ist ein System aus dreizehn Fragmenten einer dissoziierten Psyche" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L388]; and at the end „Kael bleibt am Ende dreizehn." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L877] Fifteen names are decanonised (L423).
+The correspondence runs to classes, not to alters: KW1 is the „Domäne der ANP-Vermeidung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L457], KW3 where „Hier dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L543]; each EP drives a riss type (L680–L684); the worlds are act markers (L453).
+The konsolidiertes Konzept's answer in its words, on its date: four and thirteen, no world one alter's.
