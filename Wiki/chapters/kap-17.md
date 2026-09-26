@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -112,11 +112,20 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Idea 13: „17 (erster erzählter Satz in einem Bericht, versehentlich)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L100]
 - Idea 6: „Kap 15–17 werden Lektüre-Kapitel mit Risiko statt Essay-Kapitel“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]
 
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Phaenomena vs. Noumena, Kael sees the `Drähte`
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Key scene: „Schlüssel-Szene: Kap 17 — Phaenomena vs. Noumena.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L121] · „Kael sieht erstmals die „Drähte" der Simulation (Rendering-Ebene vs. Prozess-Kern).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L121] · „Das ist transzendentaler Idealismus inszeniert: Kael erfasst, dass seine Erfahrungs-Form eine Form ist.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L121] (§2.1 Kant, marked `[K]`)
+- Drafting: „Kap 17 darf nicht erklären. Kant erscheint als Sensorik des Filter-Bruchs“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L124] · „Kein Wort von „Erkenntnistheorie".“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L124] (§2.1)
+- The same scene under a second school: „Kap 17 ist eigentlich aletheia-Moment (Kael sieht durch die Welt).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] (§3.2 Heidegger, marked `[K]`)
+- Theory anchor: „Kant — Phaenomena vs. Noumena“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L708] · function „Kael sieht die „Drähte" der Simulation“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L709] (§14.3)
+
 ## Where the sources differ
 
 - **First conscious Pursuit.** „A: MC-Solution Pursuit Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572] (Konzept-Iteration Genesis) · „A:MC-Solution Pursuit-Andeutung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342] (storyform outline) · „Erste bewusste Pursuit-Bewegung. Driver-Anker A: Decision, aktiv hinschauen statt wegsehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline), which says the same of Kap 20: „MC-Solution Pursuit — erste bewusste Bewegung, aktiv neue Wege suchen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L713] (strukturierter Outline).
 - **Who catches the relapse.** „Wächterin/Wir-Stimme fängt Rückfall ab.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572] (Konzept-Iteration Genesis) · „Das integrierte Selbst (Selene als Wächterin-Funktion) oder die K-J-Verbindung hilft Kael, den Rückfall zu erkennen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline). (Q4)
-- **Title.** „Licht der Wächterin“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L570] (Konzept-Iteration Genesis) · „Z1-Korrektur: Wächterin“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L635] (strukturierter Outline; „Z1-Wächterin“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L993] konsolidiertes Konzept) · „Phaenomena vs. Noumena“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L213] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the second as „(Zyklus-Funktion: Z1-Wächterin)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342] (storyform outline).
+- **Title.** „Licht der Wächterin“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L570] (Konzept-Iteration Genesis) · „Z1-Korrektur: Wächterin“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L635] (strukturierter Outline; „Z1-Wächterin“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L993] konsolidiertes Konzept) · „Phaenomena vs. Noumena“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L213] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the second as „(Zyklus-Funktion: Z1-Wächterin)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342] (storyform outline). · „Schlüssel-Szene: Kap 17 — Phaenomena vs. Noumena.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L121] (the philosophy catalogue, as its key scene).
 
 ## Questions for this chapter
 
