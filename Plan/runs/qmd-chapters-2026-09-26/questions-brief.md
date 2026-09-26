@@ -9,6 +9,22 @@ one question at a time, so a candidate source is tied to the questions it came
 back for. A question is also navigation in its own right: it says what a reader
 of this chapter's sources should be looking for.
 
+## Two kinds: basic, then specialised
+
+The author, later the same day: „Build a few Basic questions every Autor must
+ask for a chapter - and then more specialized questions for the chapter".
+
+- **Basic** — `basic-questions.json`, eight questions every author asks of any
+  chapter: goal and opposition, stakes, change, point of view and voice, place
+  and body, way in and way out, function in the whole, the reader and the
+  theme. They are the same for every chapter and are filled with its number
+  and titles by `scripts/chapter_sources.py`. Nobody writes them per chapter.
+- **Specialised** — the per-chapter files this brief asks for. They go
+  **beyond** the eight: never a basic question again in other words. Where a
+  specialised question touches the same ground (a hook, the point of view), it
+  names what only this chapter has — the named hook from Kap N-1, the
+  storyform position, the record, the world.
+
 ## What to read
 
 1. `GOAL.md` §4.5 (the nine question generators and „Qualität vor Menge"),

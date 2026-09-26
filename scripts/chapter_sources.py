@@ -47,12 +47,14 @@ BIN = ROOT / ".tools-node" / "node_modules" / ".bin" / "qmd"
 RUN = ROOT / "Plan" / "runs" / "qmd-chapters-2026-09-26"
 QUESTIONS = RUN / "questions"
 HITS = RUN / "hits.jsonl"
+BASIC = RUN / "basic-questions.json"
 TERM_HITS = RUN / "terms.jsonl"
 
 ASKED = "## Questions for this chapter"
 HEADING = "## Candidate sources — unread, ranked by qmd"
 PER_QUESTION = 40     # hits asked for per question, before the read documents are dropped
 FUSION_K = 10         # reciprocal-rank fusion: 1 / (K + rank among a question's unread documents)
+TITLE = re.compile(r"^Title: „([^“\"]+)[“\"]", re.M)
 QUOTE = re.compile(r"„([^“\"]{20,240})[“\"]")
 SOURCE_REF = re.compile(r"^qmd://sources/(?P<path>.+\.md)$")
 
@@ -118,9 +120,29 @@ def fuse(per_question: dict[str, list[dict]]) -> list[dict]:
     return ranked
 
 
-def load_questions(number: int) -> list[dict]:
+def basic(number: int, text: str) -> list[dict]:
+    """The eight questions every author asks of a chapter, filled with this one's number and titles."""
+    titles = distinct(TITLE.findall(text))[:2]
+    fill = {"N": str(number),
+            "titel": " / ".join(titles),
+            "weiter": f"in Kapitel {number + 1}" if number < 40 else "aus dem Roman hinaus"}
+    out = []
+    for q in json.loads(BASIC.read_text(encoding="utf-8"))["questions"]:
+        question = q["template"]
+        if not titles:
+            question = question.replace(" ({titel})", "")
+        out.append({"id": f"K{number}-{q['id']}", "label": q["id"], "tag": q["tag"],
+                    "question": question.format(**fill)})
+    return out
+
+
+def load_questions(number: int, text: str) -> list[dict]:
+    """Basic questions first, then the chapter's own, each with the label the page shows: B1…, S1…."""
     path = QUESTIONS / f"kap-{number:02d}.json"
-    return json.loads(path.read_text(encoding="utf-8"))["questions"] if path.exists() else []
+    if not path.exists():
+        return []
+    own = json.loads(path.read_text(encoding="utf-8"))["questions"]
+    return basic(number, text) + [dict(q, label=f"S{i}") for i, q in enumerate(own, 1)]
 
 
 def run(keep: int, only: set[int] | None) -> int:
@@ -129,8 +151,9 @@ def run(keep: int, only: set[int] | None) -> int:
     if HITS.exists():
         old = {r["chapter"]: r for r in map(json.loads, HITS.read_text(encoding="utf-8").splitlines())}
     for path in sorted(CHAPTERS.glob("kap-*.md")):
-        number = int(frontmatter(path.read_text(encoding="utf-8")).get("chapter"))
-        questions = load_questions(number)
+        text = path.read_text(encoding="utf-8")
+        number = int(frontmatter(text).get("chapter"))
+        questions = load_questions(number, text)
         if (only and number not in only) or not questions:
             continue
         started, per_question = time.time(), {}
@@ -146,31 +169,39 @@ def run(keep: int, only: set[int] | None) -> int:
     return 0
 
 
-def questions_section(questions: list[dict]) -> str:
+def questions_section(number: int, questions: list[dict]) -> str:
     lines = [ASKED, "",
-             "What a reader of this chapter's sources should be looking for — written from this page, its "
-             "neighbours and its records against GOAL.md §4.5 and §5 before any search "
-             "(`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`). Questions, not readings: none "
-             "is answered here.", ""]
-    for i, q in enumerate(questions, 1):
-        lines.append(f"{i}. *{q['tag']}* — {q['question'].strip()}")
+             "What a reader of this chapter's sources should be looking for, asked before any search. "
+             "Questions, not readings: none is answered here.", "",
+             "### Basic — what every author asks of a chapter", "",
+             "The same eight for every chapter, filled with its number and titles "
+             "(`Plan/runs/qmd-chapters-2026-09-26/basic-questions.json`).", ""]
+    lines += [f"- **{q['label']}** *{q['tag']}* — {q['question'].strip()}"
+              for q in questions if q["label"].startswith("B")]
+    lines += ["", f"### Specific to Kap {number}", "",
+              "Written from this page, its neighbours and its records against GOAL.md §4.5 and §5, "
+              "Dramatica and craft, going beyond the basic eight "
+              "(`Plan/runs/qmd-chapters-2026-09-26/questions-brief.md`).", ""]
+    lines += [f"- **{q['label']}** *{q['tag']}* — {q['question'].strip()}"
+              for q in questions if q["label"].startswith("S")]
     return "\n".join(lines) + "\n"
 
 
 def sources_section(ranked: list[dict], questions: list[dict], rows: dict[str, dict]) -> str:
-    number = {q["id"]: i for i, q in enumerate(questions, 1)}
+    label = {q["id"]: q["label"] for q in questions}
+    order = {q["id"]: i for i, q in enumerate(questions)}
     lines = [HEADING, "",
              "Navigation, not a reading. Landed documents with no census yet, returned by a qmd vector "
              "search for the questions above, one question at a time, and ranked by how high and how "
              "often they came back (`scripts/chapter_sources.py`, 2026-09-26). A hit is a place to look: "
              "it says nothing about what the document holds for this chapter, and its rank is no measure. "
-             "*Questions* are the numbers above that returned it; the line is where qmd's snippet of its "
+             "*Questions* names the questions above that returned it; the line is where qmd's snippet of its "
              "best passage stands.", "",
              "| # | document | date | category | questions | look at |",
              "|--:|---|---|---|---|---|"]
     for i, doc in enumerate(ranked, 1):
         row = rows.get(doc["slug"], {})
-        asked = ", ".join(str(n) for n in sorted(number[q] for q in doc["questions"] if q in number))
+        asked = ", ".join(label[q] for q in sorted((q for q in doc["questions"] if q in label), key=order.get))
         lines.append(f"| {i} | `{doc['slug']}` | {row.get('index_date', '—')} | "
                      f"{row.get('category', '—')} | {asked} | L{doc['line']} |")
     return "\n".join(lines) + "\n"
@@ -194,10 +225,10 @@ def write() -> int:
     for path in sorted(CHAPTERS.glob("kap-*.md")):
         text = path.read_text(encoding="utf-8")
         number = int(frontmatter(text).get("chapter"))
-        questions = load_questions(number)
+        questions = load_questions(number, text)
         if number not in by_chapter or not questions:
             continue
-        new = with_section(text, ASKED, questions_section(questions))
+        new = with_section(text, ASKED, questions_section(number, questions))
         new = with_section(new, HEADING, sources_section(by_chapter[number]["ranked"], questions, rows))
         if new != text:
             path.write_text(new, encoding="utf-8")
@@ -260,14 +291,14 @@ def selftest() -> int:
     if [d["slug"] for d in fused] != ["b", "a", "c"] or fused[0]["questions"] != ["q1", "q2", "q3"] \
             or fused[0]["line"] != 5:
         failures.append(f"fuse: a document three questions return must rank first, at its best line: {fused}")
-    questions = [{"id": "K3-01", "tag": "Kausalität", "question": "Was führt aus Kapitel 2 in Kapitel 3?"},
-                 {"id": "K3-02", "tag": "Storyform", "question": "Welche Storypoints trägt Kapitel 3?"}]
+    questions = [{"id": "K3-01", "label": "B1", "tag": "Kausalität", "question": "Was führt aus Kapitel 2 in Kapitel 3?"},
+                 {"id": "K3-02", "label": "S1", "tag": "Storyform", "question": "Welche Storypoints trägt Kapitel 3?"}]
     block = sources_section([{"slug": "u1", "line": 5, "questions": ["K3-02", "K3-01"]}], questions,
                             {"u1": {"index_date": "2026-05-08", "category": "md"}})
-    if "| 1 | `u1` | 2026-05-08 | md | 1, 2 | L5 |" not in block:
+    if "| 1 | `u1` | 2026-05-08 | md | B1, S1 | L5 |" not in block:
         failures.append(f"sources_section: {block}")
     page = "---\nchapter: 3\n---\n\n# Kap 3\n\n## Reading — `a`, 2026\n\nx\n\n## Where the sources differ\n\nNothing.\n"
-    once = with_section(with_section(page, ASKED, questions_section(questions)), HEADING, block)
+    once = with_section(with_section(page, ASKED, questions_section(3, questions)), HEADING, block)
     twice = with_section(once, HEADING, sources_section([], questions, {}))
     if once.count(HEADING) != 1 or twice.count(HEADING) != 1 or "`u1`" in twice or twice.count(ASKED) != 1:
         failures.append("with_section does not replace a section whole")
@@ -276,6 +307,13 @@ def selftest() -> int:
     middle = with_section(page.replace("## Where", HEADING + "\n\nSTALE-ROW\n\n## Where"), HEADING, block)
     if "STALE-ROW" in middle or "## Where the sources differ" not in middle:
         failures.append("with_section loses the section after it")
+    titled = page.replace("x\n", "Title: „Der Fall“ ^[a.md:L1]\n")
+    b = basic(3, titled)
+    if len(b) < 8 or b[0]["label"] != "B1" or "Kapitel 3 (Der Fall)" not in b[0]["question"] \
+            or "in Kapitel 4" not in next(q["question"] for q in b if q["label"] == "B6"):
+        failures.append(f"basic: not filled with the chapter: {b[:1]}")
+    if "()" in basic(3, page)[0]["question"] or "aus dem Roman hinaus" not in basic(40, page)[5]["question"]:
+        failures.append("basic: an untitled chapter or Kap 40 is filled wrongly")
     for failure in failures:
         print(f"FAILED  {failure}")
     print("chapter_sources selftest: " + ("held" if not failures else f"{len(failures)} failed"))
