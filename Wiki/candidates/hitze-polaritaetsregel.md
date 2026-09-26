@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-24"
 ---
 
@@ -99,3 +99,25 @@ Cold is the fragment's fear and then the system's logic: „Es ist kalt. Ich wil
 [[silas|Silas]]' voice says both and takes both back: „Es war kalt. — Es war nicht kalt. Es war anders." ^[kap0-v1-annotiert-md.md:L705] „— Es war warm gewesen, einmal. — Nein, es war nicht warm." ^[kap0-v1-annotiert-md.md:L829]
 Heat twice — AEGIS' analysis, „Die internen Analyseprozesse liefen heiß." ^[kap0-v1-annotiert-md.md:L713], and the air in [[nyx|Nyx]]'s line as the separation runs: „Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten. Sie bluten trotzdem." ^[kap0-v1-annotiert-md.md:L977]
 No ozone stands in it, and `Landauer` only among the words Kap 0 may not use (L63; `Plan/runs/kap0-v1-annotiert-md/05-verify.txt`).
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — warmth, heat and cold, unassigned
+
+Thirteen days before the lock of 2026-05-30, and no rule is stated. No ozone, no Landauer and
+no `Hitze` stand in it, `Wärme` 0 times, and it names no figure — not [[juna|Juna]] either
+(all counted, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`). So no warmth
+here is anyone's trace; the document does not say whose it is.
+Warmth comes at the first contact of two fragments, in the fragment's Ich:
+„Es ist warm. Es ist anders warm als alles, was vorher warm war, denn vorher war nichts warm." ^[koharenz-protokoll-kapitel-0-v2-md.md:L99]
+Cold is first the fragment's fear, in a line with no speaker — „Es ist kalt. Ich will nicht." ^[koharenz-protokoll-kapitel-0-v2-md.md:L83] —
+then the system's logic, in the fragment's Ich: „Ein erster Hauch systemischer Logik. Kalt. Notwendig." ^[koharenz-protokoll-kapitel-0-v2-md.md:L135]
+„Die kalte Schicht in mir lernt schneller, als ich folgen kann." ^[koharenz-protokoll-kapitel-0-v2-md.md:L183]
+In the third person about the system, cold is its stability: „Die kalte, berechnende Stabilität wich einer systemweiten Alarmbereitschaft." ^[koharenz-protokoll-kapitel-0-v2-md.md:L375]
+Lines with no speaker say each and take it back: „Es war kalt. — Es war nicht kalt. Es war anders." ^[koharenz-protokoll-kapitel-0-v2-md.md:L431]
+„— Es war warm gewesen, einmal. — Nein, es war nicht warm. Es war anders." ^[koharenz-protokoll-kapitel-0-v2-md.md:L507]
+Heat twice: the system's analysis, „Die internen Analyseprozesse liefen heiß." ^[koharenz-protokoll-kapitel-0-v2-md.md:L435], and the air, in a line
+with no speaker as the separation runs: „Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten. Sie bluten trotzdem." ^[koharenz-protokoll-kapitel-0-v2-md.md:L607]
+Cold is the fragment's again, inside the system: „Eine Kälte, die bis ins Mark der Identität dringt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L479] „Es ist kalt. Es ist wieder kalt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L483]
+And it is the blade that cuts: „Die Kälte der Logik ist die Klinge, die mich zerteilt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L611]
+The coda gives a temperature and no quality: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635]
+The annotated draft of the same date writes the same warmth and reads it, in an annotation,
+as Juna's resonance (above); this document has no annotation. Placed here by what it states (J62). C11.
