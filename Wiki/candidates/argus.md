@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -89,3 +89,10 @@ The somatic filter is open (L1006).
 
 The konsolidiertes Konzept's row, in the same words: „Sonder | Argus (Meta-Kognitiv) | Fraktale | offen | → Konstruktive Kritik" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L409]. From the second trauma layer: „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex, Alex, Nyx, Rhys, Argus" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435].
 His somatic filter is open: „Lia, Isabelle, Argus, Silas, Oblivion — Filter offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L895] Nothing else in the document names Argus (`grep -cw Argus`: 3).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Meta-Beobachtung, and the one figure who may point at theory
+
+In the figure table §14.1, which carries no label: „Meta-Beobachtung (Husserl), Fraktale Selbstreferenz" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L650], DKT correlate „Fraktale" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L651].
+§16, of which the document says „Diese Sektion ist verbindlich." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L771], makes him the exception to its second prohibition: „Kein zitierter Philosoph." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L774] „Argus könnte einen indirekten Bezug machen — sehr selten, sehr verkleidet." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L774]
+How far is open, in §17: „Wie weit darf Argus auf Theorie zeigen?" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L802] — „[L] — Reviewer-Frage offen" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L803].
+Nothing else in the document names Argus (`grep -cw Argus`: 3).
