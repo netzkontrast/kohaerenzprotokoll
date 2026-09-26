@@ -76,10 +76,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 23,
-      "readings": 24,
+      "sources": 24,
+      "readings": 25,
       "conflict": "C1, C8, C14"
     },
     "alex": {
@@ -101,10 +102,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -127,10 +129,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none"
     },
     "alters": {
@@ -157,10 +160,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 18,
-      "readings": 17,
+      "sources": 19,
+      "readings": 18,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -224,10 +228,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "ars": {
@@ -253,10 +258,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "blinder-fleck": {
@@ -351,10 +357,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -413,10 +420,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -684,10 +692,11 @@
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
         "koharenz-protokoll-kapitel-0-v2-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -798,10 +807,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "koharenz-protokoll-kapitel-0-v2-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C11"
     },
     "isabelle": {
@@ -822,10 +832,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C15"
     },
     "juna": {
@@ -856,10 +867,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 21,
-      "readings": 21,
+      "sources": 22,
+      "readings": 22,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -873,10 +885,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "k0-existenz": {
@@ -888,10 +901,11 @@
       "ingested": [
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": ""
     },
     "kael-julia-bindung": {
@@ -904,10 +918,11 @@
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
         "kapitel-kompendium-gather-2026-05-31-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "kael": {
@@ -938,10 +953,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 21,
-      "readings": 21,
+      "sources": 22,
+      "readings": 22,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -1020,10 +1036,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 21,
-      "readings": 20,
+      "sources": 22,
+      "readings": 21,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1047,10 +1064,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -1126,10 +1144,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "koharenz-protokoll-kapitel-0-v2-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -1200,10 +1219,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -1226,10 +1246,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "C11"
     },
     "lex": {
@@ -1254,10 +1275,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 17,
+      "readings": 17,
       "conflict": "none"
     },
     "lia": {
@@ -1279,10 +1301,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "C15"
     },
     "logos": {
@@ -1347,10 +1370,11 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -1375,10 +1399,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "C5"
     },
     "moonshine-link": {
@@ -1403,10 +1428,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 17,
+      "readings": 17,
       "conflict": "none"
     },
     "moros": {
@@ -1429,10 +1455,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -1481,10 +1508,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -1543,10 +1571,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "koharenz-protokoll-kapitel-0-v2-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -1584,10 +1613,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 17,
+      "readings": 17,
       "conflict": "C10"
     },
     "oblivion": {
@@ -1613,10 +1643,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 18,
+      "readings": 18,
       "conflict": "C11"
     },
     "ouroboros-struktur": {
@@ -1810,10 +1841,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "none"
     },
     "risse": {
@@ -1842,10 +1874,11 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -1909,10 +1942,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "silas": {
@@ -1938,10 +1972,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 18,
+      "readings": 18,
       "conflict": "C11"
     },
     "snk": {
@@ -2014,10 +2049,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kohaerenz-protokoll-konzept-master-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "none"
     },
     "therapie-schnittstelle-alpha": {
@@ -2073,10 +2109,11 @@
         "kap0-v1-annotiert-md",
         "three-mode-architecture-39-chapters-md",
         "koharenz-protokoll-kapitel-0-v2-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 19,
-      "readings": 19,
+      "sources": 20,
+      "readings": 20,
       "conflict": "C12"
     },
     "truth-rotation": {
@@ -2118,10 +2155,11 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -2160,10 +2198,11 @@
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
         "koharenz-protokoll-kapitel-0-v2-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
