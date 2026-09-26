@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 20
+sources: 21
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -245,3 +245,11 @@ KW1: „Geruch von Ozon und Desinfektionsmittel." ^[worldbuilding-konzept-kohaer
 In the [[vortex|Vortex]] (Ch35–36), Beat 1: „Atmosphäre: Ozon-Spike, Temperatur-Anomalie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L805]; Beat 4: „Landauer-Wärme spiked unmöglich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L817]
 Cold is a style level, KW1's „Ebene 1 — kalt, steril, assertorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L477], against KW2's „Ebene 2 — heiß, fragmentiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L520] The one warmth that is not AEGIS' heat is a possible single anchor of Vortex Beat 3, „Hand-Wärme oder Lichtpunkt oder Geschmack der eigenen Tränen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L813]; `Wärme` stands on L41, L813 and L817, and none is [[juna|Juna]]'s. `Kap 6` and `Ch6` stand 0 times.
 The master report's side, on its date: heat and ozone one signature of AEGIS, three weeks before the lock of 2026-05-30. Kap 6 is not named, so row 1's Kap-6 warmth is neither held nor denied; the Beat-4 spike is the one row 2 keeps too.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**Heat and ozone as Landauer's rendering, and warmth as Juna's effect — both, unrelated; nothing cold, and no trace in Kap 6 or Kap 36.**
+Its rule, §0: „Landauer wird zu Hitze und Ozon, nie zu Gleichungen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9] Under §3.4, labelled `[V]`: „Landauer → Hitze, Ozon, Schweiß." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L196] What AEGIS registers of a Riss, §5.2 `[K]`: „(Lösch-Bilanz-Abweichung, Temperatur-Spike)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L271].
+Warmth is [[juna|Juna]]'s: „Junas Wärme, Telefon-Stille als MI ohne Daten, Silas' Echo-Prosa: alles Qualia-Träger." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L375]; her effect is „Wärme, die plötzlich da ist" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L445]. And Kap 3, the chapter of her first hint: „Anti-Phaenomena (Bruch des Filters, Wärme als Substrat-Spur)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L696].
+Kap 6 is „Semantische Firewall" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L700] and Kap 36 Beat 5 „Algorithmische Melancholie (Lem)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L729], neither with heat; Beat 4 is not named. `kalt`, `kalte`, `Kälte` and `warm` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/05-verify.txt`).
+The master report's heat and ozone beside the lock's warmth as Juna's, in one document dated after the lock of 2026-05-30, without saying the ozone is cold or whose the heat is. Row 1's Kap-6 and Kap-36 warmth are neither held nor denied; the conflict stays open.
