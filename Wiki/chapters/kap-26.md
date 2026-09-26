@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
 records: ["C9"]
 gathered: "2026-09-25"
 ---
@@ -123,6 +123,13 @@ Position: „Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz" ^
 - Hook-in: „die Restzahl steht nach Schichtende bei 34 statt 31" ^[2026-09-14-kap25-vertiefung-md.md:L25] · „trägt direkt in Kap 26" ^[2026-09-14-kap25-vertiefung-md.md:L25] · „Am Montag steht die Zahl bei achtundvierzig" ^[2026-09-14-kap25-vertiefung-md.md:L25]
 - Veil: „Canon §0 Schleier-Disziplin verlangt genau das für Kap 25–26" ^[2026-09-14-kap25-vertiefung-md.md:L21] · „R-3 — Vielheit wird benannt, kanonisch gefordert für 25–26" ^[2026-09-14-kap25-vertiefung-md.md:L47] · the alternative to naming it in Kap 25: „oder die Verlagerung nach Kap 26" ^[2026-09-14-kap25-vertiefung-md.md:L56]
 - World: „Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60] · „die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt" ^[2026-09-14-kap25-vertiefung-md.md:L60]
+
+## Reading — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file — the consequence Kap 25 leaves to it
+
+The file of the manuscript's Kap 25, research, not text for the novel; it does not contain Kap 26. It names Kap 26 in its apparatus only — `Kap` stands on two lines of the apparatus, L46 and L48, and on none of the prose (`05-verify.txt`) — and what its hidden note cites is its claim about other documents.
+
+- Story (apparatus, continuity rules): „Kap 26 trägt die Konsequenz; Kap 25 selbst bleibt still." ^[kp-kap25-2026-09-14-md.md:L46]
+- Veil (apparatus, the hidden note, its claim about the canon): „Schleier leserseitig offen benannt" ^[kp-kap25-2026-09-14-md.md:L48] · „Canon §0 Schleier-Disziplin: Kap 25–26" ^[kp-kap25-2026-09-14-md.md:L48]
 
 ## Where the sources differ
 
