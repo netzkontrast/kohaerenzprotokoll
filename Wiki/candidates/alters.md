@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 19
-readings: 18
+sources: 20
+readings: 19
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kp-kap25-2026-09-14-md"]
 gathered: "2026-09-16"
 ---
 
@@ -243,3 +243,10 @@ It writes no `Flight` and no `Fight`: Lia's school is „parakonsistente Existen
 Its use, among the drafting tools: „Wer welche Philosophie ist, trägt sie durch Stimme und Somatik — siehe §14.1." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L779]
 
 The end is not fusion (§12.2, `[K]`): „Kein Anteil wird eliminiert. Kein Anteil wird zu einem Ich. Sie werden ein Wir." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L576] And, among its binding prohibitions (§16): „Wenn Anteile streiten, streiten sie um konkrete Dinge (Risiko, Schutz, Liebe), nie um Theorie." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L775]
+
+## Reading — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file — the veil named in the prose: more than one, three unnamed, and a grammar the Ich disowns
+
+A chapter file of Kap 25 `Wegkreuzung` — research, by the author's word, not text for the novel. Its apparatus asks for the veil to be named: „Schleier leserseitig offen benannt“ ^[kp-kap25-2026-09-14-md.md:L48], citing „Canon §0 Schleier-Disziplin: Kap 25–26“ ^[kp-kap25-2026-09-14-md.md:L48] — its claim about another document. The prose writes no `Schleier`, `Alter`, `Anteil` or `DID`, and no name of any of the thirteen (`05-verify.txt`, `05-verify-readers.txt`).
+**What the prose renders.** As the hand moves, the Ich notes a thought that „ist nicht in meiner Grammatik gebaut“ ^[kp-kap25-2026-09-14-md.md:L117], in the body — „in der Schulter zieht sich etwas zusammen, und der Kiefer steht fest“ ^[kp-kap25-2026-09-14-md.md:L117]. Then a line in italics with no speaker: „Behalt den Platz. Ohne Platz kein Zugriff. Zugriff ist alles, was wir haben.“ ^[kp-kap25-2026-09-14-md.md:L119] — the document's only `wir` (`05-verify-readers.txt`). The Ich disowns it: „So denke ich nicht. So denke ich nie.“ ^[kp-kap25-2026-09-14-md.md:L121]
+Then it says so: „Hier sitzt mehr als einer.“ ^[kp-kap25-2026-09-14-md.md:L135] „Es ist keine Störung. Es ist kein Fehler in der Erfassung. Es ist der Bestand.“ ^[kp-kap25-2026-09-14-md.md:L137] Three, each only „Einer“: „Einer will den Platz halten, weil Halten das Einzige ist, was er kann.“ ^[kp-kap25-2026-09-14-md.md:L137] „Einer rechnet aus, unter welchen Voraussetzungen Halten und Behalten sich nicht ausschließen, und findet keine.“ ^[kp-kap25-2026-09-14-md.md:L137] „Einer sieht die zweihundertsechzig Zeilen an und sieht darin die vier Abende.“ ^[kp-kap25-2026-09-14-md.md:L137] And the Ich apart from them: „Und der, der den Finger bewegen müsste, das bin ich, und ich bewege ihn nicht.“ ^[kp-kap25-2026-09-14-md.md:L139]
+The prose names none of them, and neither does its apparatus; which alter any of them is, if any, is not the document's to say and not this reading's.
