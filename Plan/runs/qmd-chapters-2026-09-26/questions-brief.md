@@ -147,3 +147,31 @@ wenn …, und was stellt sich ihm entgegen — …?".
 
 Exactly eight, `B1` to `B8`, in order. Add the `basic` key to the existing file
 and leave its `questions` untouched.
+
+## What the chapter is about
+
+The author, next: „Also add what each chapter is about".
+
+So each chapter file also gets an `about` text: **three to five German
+sentences saying what the chapter is about, as its readings tell it** — who,
+where, what happens, what changes, what it is for in the whole. It summarises
+the readings on the page and decides nothing between them (decision 006):
+
+- Where the readings agree, say it plainly.
+- Where they differ, say so and give each version its source by short name
+  („Laut der Charakter-Bibel …, laut der strukturierten Outline …"). Never pick
+  one, never blend two into a version no source wrote.
+- Where no reading says something (a place, a point of view), leave it out; do
+  not fill it from craft or from another chapter.
+- The same form rules as the basic questions: no chapter numbers, no dates, no
+  counts; no „…", no `^[…]`, no `[[links]]`. It is a summary, so no quotation.
+
+```json
+{"chapter": 12, "questions": [...], "basic": [...],
+ "about": "Kael …",
+ "about_draws_on": "readings of X, Y and Z"}
+```
+
+It stands on the chapter page above the readings, marked as a summary of them,
+and it is sent to the vector search as one more query — a passage describing the
+chapter, which finds documents that describe the same thing.

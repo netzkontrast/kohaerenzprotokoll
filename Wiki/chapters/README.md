@@ -31,9 +31,15 @@ Position: „Heldinnenreise innen“ ^[koharenz-protokoll-strukturierter-outline
   `[L]` says so beside its citation. A document that is a proposal says so in
   its reading's heading.
 
-## Navigation, after the readings
+## Navigation, around the readings
 
-Two sections follow `## Where the sources differ`, and neither is a reading:
+Three sections are navigation, and none is a reading. Above the readings:
+
+- `## What this chapter is about` — three to five German sentences summarising
+  what the readings below say, naming each source where they differ and
+  deciding nothing between them.
+
+After `## Where the sources differ`:
 
 - `## Questions for this chapter` — eight basic questions every author asks of
   a chapter, then the chapter's own, written against GOAL.md §4.5 and §5 before
@@ -42,7 +48,7 @@ Two sections follow `## Where the sources differ`, and neither is a reading:
   census that a vector search for those questions returned, and which
   questions returned each. A place to look, never a claim or a number.
 
-`scripts/chapter_sources.py write` replaces both whole. They carry no quotation
+`scripts/chapter_sources.py write` replaces all three whole. They carry no quotation
 and no citation, so `chapters.py` and `quotes.py` see nothing in them.
 
 ## Frontmatter

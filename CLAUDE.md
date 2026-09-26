@@ -1342,11 +1342,11 @@ document caused it. Such a commit names the measurement instead of a document,
 changes no reading, and says so. It is rare and it is recognisable: if the diff
 touches a claim rather than a number, it is not this.
 
-**A second: navigation on the chapter pages.** `## Questions for this chapter`
-and `## Candidate sources` are written by `scripts/chapter_sources.py` from a run
-in `Plan/runs/qmd-chapters-2026-09-26/`, carry no quotation, citation or reading,
-and are replaced whole on every run. Their commit names the run, and changes
-nothing outside those two sections.
+**A second: navigation on the chapter pages.** `## What this chapter is about`,
+`## Questions for this chapter` and `## Candidate sources` are written by
+`scripts/chapter_sources.py` from a run in `Plan/runs/qmd-chapters-2026-09-26/`,
+carry no quotation, citation or reading, and are replaced whole on every run.
+Their commit names the run, and changes nothing outside those three sections.
 
 ## Every step keeps its artifact
 

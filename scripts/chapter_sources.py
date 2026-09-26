@@ -50,6 +50,7 @@ HITS = RUN / "hits.jsonl"
 BASIC = RUN / "basic-questions.json"
 TERM_HITS = RUN / "terms.jsonl"
 
+ABOUT = "## What this chapter is about — a summary of the readings below"
 ASKED = "## Questions for this chapter"
 HEADING = "## Candidate sources — unread, ranked by qmd"
 PER_QUESTION = 40     # hits asked for per question, before the read documents are dropped
@@ -158,6 +159,29 @@ def load_questions(number: int, text: str) -> list[dict]:
     return basic(number, text, data.get("basic")) + [dict(q, label=f"S{i}") for i, q in enumerate(data["questions"], 1)]
 
 
+def load_about(number: int) -> str:
+    path = QUESTIONS / f"kap-{number:02d}.json"
+    return json.loads(path.read_text(encoding="utf-8")).get("about", "").strip() if path.exists() else ""
+
+
+def about_section(about: str) -> str:
+    return "\n".join([ABOUT, "",
+                      "Navigation, not a reading: what the readings on this page say the chapter is about, "
+                      "summarised, naming each source where they differ and deciding nothing between them "
+                      "(`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, "
+                      "quoted and cited.", "", about, ""])
+
+
+def with_about(text: str, block: str) -> str:
+    """The page with the summary replaced, or inserted before its first section."""
+    if ABOUT in text:
+        return with_section(text, ABOUT, block)
+    first = re.search(r"^## ", text, re.M)
+    if not first:
+        return text.rstrip("\n") + "\n\n" + block
+    return text[:first.start()] + block + "\n" + text[first.start():]
+
+
 def run(keep: int, only: set[int] | None) -> int:
     read = read_slugs()
     old = {}
@@ -170,6 +194,9 @@ def run(keep: int, only: set[int] | None) -> int:
         if (only and number not in only) or not questions:
             continue
         started, per_question = time.time(), {}
+        about = load_about(number)
+        if about:
+            per_question[f"K{number}-A"] = unread(ask(f"hyde: {one_line(about)}", PER_QUESTION), read)
         for q in questions:
             per_question[q["id"]] = unread(ask(f"vec: {one_line(q['question'])}", PER_QUESTION), read)
         ranked = fuse(per_question)
@@ -208,12 +235,14 @@ def questions_section(number: int, questions: list[dict]) -> str:
 def sources_section(ranked: list[dict], questions: list[dict], rows: dict[str, dict]) -> str:
     label = {q["id"]: q["label"] for q in questions}
     order = {q["id"]: i for i, q in enumerate(questions)}
+    for qid in {q for doc in ranked for q in doc["questions"] if q.endswith("-A")}:
+        label[qid], order[qid] = "A", -1
     lines = [HEADING, "",
              "Navigation, not a reading. Landed documents with no census yet, returned by a qmd vector "
              "search for the questions above, one question at a time, and ranked by how high and how "
              "often they came back (`scripts/chapter_sources.py`, 2026-09-26). A hit is a place to look: "
              "it says nothing about what the document holds for this chapter, and its rank is no measure. "
-             "*Questions* names the questions above that returned it; the line is where qmd's snippet of its "
+             "*Questions* names the questions above that returned it, and *A* the summary at the top; the line is where qmd's snippet of its "
              "best passage stands.", "",
              "| # | document | date | category | questions | look at |",
              "|--:|---|---|---|---|---|"]
@@ -249,6 +278,9 @@ def write() -> int:
         if not questions:
             continue
         new = with_section(text, ASKED, questions_section(number, questions))
+        about = load_about(number)
+        if about:
+            new = with_about(new, about_section(about))
         if number in by_chapter:
             new = with_section(new, HEADING, sources_section(by_chapter[number]["ranked"], questions, rows))
         if new != text:
@@ -340,6 +372,11 @@ def selftest() -> int:
     if [q["label"] for q in plot] != [f"B{i}" for i in range(1, 9)] or plot[0]["tag"] != "Ziel und Widerstand" \
             or plot[0]["shown"] != "Was will Kael im Rauschen, Frage 1?":
         failures.append(f"basic: a chapter's plot-filled list is not used as written: {plot[:1]}")
+    summarised = with_about(page, about_section("Kael fällt."))
+    again = with_about(summarised, about_section("Kael steht."))
+    if summarised.index(ABOUT) > summarised.index("## Reading") or again.count(ABOUT) != 1 \
+            or "Kael fällt." in again or "Kael steht." not in again:
+        failures.append("with_about: the summary does not stand once, above the readings")
     for failure in failures:
         print(f"FAILED  {failure}")
     print("chapter_sources selftest: " + ("held" if not failures else f"{len(failures)} failed"))
