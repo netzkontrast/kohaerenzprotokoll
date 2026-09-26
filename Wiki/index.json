@@ -18,10 +18,11 @@
       ],
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "kap0-v1-annotiert-md"
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "aegis-teilfunktionen": {
@@ -261,10 +262,11 @@
         "kohaerenzprotokoll-aegis-und-systementropie",
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-konzept-master-md",
-        "kap0-v1-annotiert-md"
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "C4"
     },
     "cache-kohaerenz": {
@@ -448,10 +450,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kap0-v1-annotiert-md"
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -590,10 +593,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
-        "kap0-v1-annotiert-md"
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "none yet"
     },
     "garten-der-stillen-praesenz": {
@@ -631,10 +635,11 @@
         "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "none yet"
     },
     "genesis": {
@@ -659,10 +664,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 17,
+      "readings": 17,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -769,10 +775,11 @@
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
-        "kap0-v1-annotiert-md"
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "C11"
     },
     "isabelle": {
@@ -1086,10 +1093,11 @@
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-konzept-master-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
-        "kap0-v1-annotiert-md"
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -1132,10 +1140,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
-        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 20,
-      "readings": 20,
+      "sources": 21,
+      "readings": 21,
       "conflict": "C12"
     },
     "konstrukt-stadt": {
@@ -1486,10 +1495,11 @@
         "kohaerenz-protokoll-konzept-master-md",
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
-        "kap0-v1-annotiert-md"
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -1659,10 +1669,11 @@
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -1705,10 +1716,11 @@
       "ingested": [
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "resonanz-landschaft": {
@@ -1999,10 +2011,11 @@
         "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
         "kap0-v1-annotiert-md",
-        "three-mode-architecture-39-chapters-md"
+        "three-mode-architecture-39-chapters-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 18,
+      "readings": 18,
       "conflict": "C12"
     },
     "truth-rotation": {
@@ -2083,10 +2096,11 @@
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
-        "kap0-v1-annotiert-md"
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -2120,10 +2134,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+        "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+        "koharenz-protokoll-kapitel-0-v2-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none yet"
     },
     "verschraenkungs-insel": {
