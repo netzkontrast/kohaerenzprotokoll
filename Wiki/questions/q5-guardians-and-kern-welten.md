@@ -3,7 +3,7 @@ id: Q5
 question: Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?
 status: open
 raised_by: ["guardians", "kern-welten", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
-documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 conflict: C6, C9
 gathered: "2026-09-24"
 ---
@@ -147,3 +147,11 @@ Sophia is named once, among the five of earlier drafts (L504). `Cerberus` names 
 The sweep of the separation: „Sweep läuft. Sektor 4 leer. Sektor 5 leer. Sektor 6 leer. Nächster Sektor in Vorbereitung." ^[kap0-v1-annotiert-md.md:L953]
 Annotated: „Erasure-Pol-Stimme (Lösch-Vollzug, bürokratisch-knapp)." ^[kap0-v1-annotiert-md.md:L957]
 The function the other sources give it, deletion carried out, heard in Kap 0 before there are worlds. No Guardian, world or name for the pole stands in the document.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Two Guardians, three absorbed into the Erasure-Pol, [[sophia|Sophia]] named once among the old five — the konsolidiertes Konzept's account.**
+„Erasure-Pol (Name offen, Forschungsfrage)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] Sophia stands once, in the list of the old drafts' five (L192); no absorption is given for her.
+The pairing: „Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] — and presence, „Mnemosyne dominiert klar in KW2; der Erasure-Pol durchwirkt KW1 und KW3." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
+The world names: Logos-Prime (L455), Mnemosyne-Archipel (L498), „VI.4 KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L541], Kairos-Potentialis (L584).
+The konsolidiertes Konzept's absorption and pairing, in its words on its date; Sophia unplaced, as there.
