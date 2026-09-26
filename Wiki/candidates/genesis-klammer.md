@@ -111,6 +111,11 @@ The two formulas are its own entry: „Formel-Inversion. [K] Die zwei Sätze, di
 The frame as one half of the [[ouroboros-struktur|Ouroboros]] structure of the ending: „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]
 Its place: „Kap 0↔40 (Genesis-Klammer).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470] Kap 40's philosophy row ends on
 „Doppellesbarkeit ohne Adjudikation“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L739].
+The pairing stands in its Ouroboros section, „§9.4 Ouroboros — Schluss-Struktur [K]“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L460], beside the Kap 1 ↔ Kap 39 first-sentence lock, under one line: „Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]
+The two ends in its chapter table (§14.3, „kanonisch belegt“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688]): Kap 0 is „Genesis-Krise als ontologische Geste, Autopoiesis (Maturana/Luhmann)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L693], function „Substrat-Setzung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L694]; Kap 40 is „Habermas (Wahrheit vs. Richtigkeit) + Ouroboros“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L738].
+Kap 40's two layers are Habermas' (§1.4, `[K]`): „In Kap 40 (und Kap 39 Schluss-Klang) müssen beide Schichten spürbar getrennt bleiben.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L85] — „Wo im Roman. Schluss-Klang Kap 39, Coda Kap 40.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L88]
+It gives Kap 40 no last image, no Scherben and no Welt to carry, and does not write `Doppel-Klammer` (`05-verify-readers.txt`).
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (reconcile-28).
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -167,7 +172,8 @@ the unnamed counting Ich (L635–L639); it does not say whether those lines are 
 **How Kap 40 is read.** The Abhandlung reads the frame as one Wendung that turns
 the reader (L592, L608). The Kapitel-Kompendium's lock of 2026-05-30 and the glossary
 have Kap 40 readable as a reset or as a transfiguration, and the text never decides
-between them (L56; L622).
+between them (L56; L622). The philosophy catalogue has the same without the two readings'
+names: Kap 40's function is „Doppellesbarkeit ohne Adjudikation“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L739].
 
 **What mirrors what.** The Abhandlung counts seven mirror points, among them the
 voice, the formula and the storyform dynamics (L275). The outlines and the drafting
@@ -188,4 +194,4 @@ Kap-0 draft gives it as the self's `Ich`-sentence (L389, L393).
   two frames, `Zwei Klammern` (L92), are the Genesis frame and the [[vortex|Vortex]] frame, which is a different
   doubling.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (`Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`).
