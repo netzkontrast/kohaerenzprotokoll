@@ -90,8 +90,13 @@ Among its locks: „TSDP als klinische Architektur, IFS als Heilungsmodell." ^[k
 
 ## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08
 
-The konsolidiertes Konzept's Teil V, in the same words: „**TSDP** (Tertiäre Strukturelle Dissoziation der Persönlichkeit) als Diagnose, **IFS** (Internal Family Systems) als Heilungsmodell." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L388]
-„Der zentrale interne Konflikt ist die **ANP/EP-Phobie**" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L392].
+The konsolidiertes Konzept's Teil V, in the same words, under the heading „V. System Kael — Tertiäre Strukturelle Dissoziation" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L384]:
+„Kael ist ein System aus dreizehn Fragmenten einer dissoziierten Psyche, partitioniert durch ein Trauma in zwei Schichten." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L388]
+„**TSDP** (Tertiäre Strukturelle Dissoziation der Persönlichkeit) als Diagnose, **IFS** (Internal Family Systems) als Heilungsmodell." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L388] „Dissoziation ist *nicht* Crew-Menü, sondern Amnesie-Terror." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L388]
+„Der zentrale interne Konflikt ist die **ANP/EP-Phobie**" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L392] — „die phobische Vermeidung zwischen den *Apparently Normal Parts* (ANPs, die den Alltag managen) und den *Emotional Parts* (EPs, die das unverarbeitete Trauma tragen)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L392]
+Its roster has four categories, ANP, EP, `Sonder` and `Spiegel` (L398–L411). The two layers are a childhood and a night: „Schweres Bindungstrauma (desorganisiert)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431], and the Fragmentierungsnacht, in which AEGIS „führt das Trennungsprotokoll aus" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]; the first made the EPs [[kiko|Kiko]], [[lia|Lia]], [[isabelle|Isabelle]] and [[moros|Moros]], the second the fifth EP, [[nyx|Nyx]], every ANP but [[selene|Selene]], who is „Schicht-übergreifend" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435], and the Sonder and Spiegel alters (L431, L435).
+It maps the model onto the novel's other structures. The axis of the DKT's figures „kreuzt sich orthogonal mit der ANP/EP-Achse (horizontale Trauma-Spaltung)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L156]. Each Riss has its EP: „Jeder Riss-Typ hat einen EP-Trigger:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L673] KW1 is the „Domäne der ANP-Vermeidung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L457]; in KW3 „dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L543]
+The Guardians' tension runs beneath it, „der subtile dritte Subplot, der unter den ANP/EP-Konflikten von Kael läuft" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L205]; in Storyform B's relationship story, „die ANP/EP-Phobie als Beziehungsknoten" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L952]. In the Vortex the split ends: „Die ANP/EP-Amnesie-Barrieren fallen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L809]
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
@@ -135,13 +140,16 @@ L1605) and in the chapter plan of 2026-02-26 (its L33); thirteen in every source
 dissociation, „Typisch für DIS / komplexes Trauma" ^[kohaerenz-protokoll-konzept-master-md.md:L381].
 The character bible, the same day, calls it „eine erweiterte tertiäre Architektur" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L818], because of
 the Spiegel and Sonder alters. Both list the same two extra categories.
+The worldbuilding concept calls it tertiary in its heading (L384) and lists both extra
+categories (L409–L411), with neither word (`grep -ci erweitert`: 0, `grep -c Typisch`: 0).
 
 ## Open
 
 - Kael's founding trauma, which the Charakter-Kompilation names as a gap (its L355).
   The 2026 sources give two trauma layers (the glossary's L162, the konsolidiertes
-  Konzept's L348); whether those fill the gap is not said.
+  Konzept's L348); whether those fill the gap is not said. The worldbuilding concept
+  describes the first layer as a childhood in Köln, „Aufwachsen im Wechsel zwischen extremer emotionaler Kälte/Vernachlässigung und unberechenbaren, grenzüberschreitenden Wutausbrüchen einer Bezugsperson." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431]
 - Whether TSDP maps onto the storyforms as cleanly as the Hard-Problem analysis
   believes. It states the belief and asks it (its L352).
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `worldbuilding-konzept-kohaerenzprotokoll-md`, whose reading here was checked against the full document on 2026-09-26 and which now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`).
