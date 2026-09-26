@@ -73,7 +73,14 @@ MARKER = re.compile(r"\s*\[(?:User Query|Adressiert)[^\]]{0,60}\]")
 # The cost is stated rather than hidden: a quote with no reference on its own
 # line (or on the line its last fragment ends on) is **not checked at all**. The
 # run prints how many those are.
-QUOTE = re.compile(r"„(?P<quote>[^„“]{8,400})[“\"]")
+QUOTE = re.compile(r"„(?P<quote>[^„“]{1,400})[“\"]")
+# A short quotation is usually a word the prose mentions — „offen", „Kap" — and
+# carries no citation; those stay out of every count, as they always have. But a
+# short quotation that *does* carry one is a claim about a line and is checked.
+# Until 2026-09-26 the pattern began at eight characters and a cited „(Ch13)"
+# was matched by nothing — not checked, not counted, not reported — while its
+# citation named a line that did not hold it.
+SHORT = 8
 CITE = re.compile(r"\^\[(?P<ref>[^\]\n]{2,80})\]")
 # A ```qmd fence holds a search's raw answer, copied by code from a source file
 # with each line's number beside it: a place to look, never a quotation the page
@@ -217,9 +224,13 @@ def pairs(text: str) -> list[tuple[re.Match, list[str]]]:
                 if first in rows or last in rows]
         if not same:
             continue
+        # A short quotation takes a reference only where no full one stands on the
+        # line: „Chaos" beside „Ungenauigkeit" ^[L30] must not take its reference.
+        same = [q for q in same if len(q.group("quote")) >= SHORT] or same
         nearest = min(same, key=lambda q: min(abs(q.start() - m.start()), abs(q.end() - m.start())))
         owner.setdefault(nearest.start(), []).append(m.group("ref"))
-    return [(match, owner.get(match.start(), [])) for match in quotes]
+    return [(match, owner.get(match.start(), [])) for match in quotes
+            if len(match.group("quote")) >= SHORT or match.start() in owner]
 
 
 def verdict(refs: list[str], default_slug: str | None, quote: str) -> tuple[str, str | None]:
@@ -315,7 +326,7 @@ def tally(targets: list[Path] | None = None) -> dict:
     for path in targets:
         text = path.read_text(encoding="utf-8")
         found, skipped = check_file(path, slug_of(path, text), text)
-        checked += len(QUOTE.findall(unraw(text))) - skipped
+        checked += len(pairs(text)) - skipped
         uncited += skipped
         problems += [(path, problem) for problem in found]
     return {"checked": checked, "unresolved": len(problems), "unchecked": uncited,
