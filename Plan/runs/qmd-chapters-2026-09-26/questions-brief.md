@@ -175,3 +175,30 @@ the readings on the page and decides nothing between them (decision 006):
 It stands on the chapter page above the readings, marked as a summary of them,
 and it is sent to the vector search as one more query — a passage describing the
 chapter, which finds documents that describe the same thing.
+
+### Where it sits in the story's structures
+
+The author, next: „Think heros Journey etc".
+
+So the `about` text also places the chapter in every story structure its
+readings (and GOAL.md §5.1) name for it, in words, not numbers:
+
+- **Heldinnenreise** (Murdock) — the stage by name, e.g. *Illusion der
+  perfekten Welt*, *Abstieg*, *Begegnung mit der Göttin*.
+- **Heldenreise** (Campbell/Vogler) — the stage by name, e.g. *Ordinary World*,
+  *Crossing the Threshold*, *Ordeal*, *Road Back*, *Resurrection*.
+- **Zyklischer Modus** — which spiral cycle and which phase of it
+  (*Destabilisierung*, *Reaktion*, *Korrektur*), the break, the turning point.
+- **Kishōtenketsu** — *Ki*, *Shō*, *Ten* or *Ketsu*.
+- **Akte und Blöcke**, the **Vortex** and its beats, the **Klammern** (Genesis,
+  Ouroboros, Vortex), and whether the chapter sits on a mode change, the
+  storyform turn or the consolidation.
+- **Dramatica** — the throughline accents, signposts or journeys the readings
+  give it in Storyform A and B.
+
+Each placement comes from a reading and names its source where the sources
+place the chapter differently („laut der Drei-Modi-Spezifikation die
+Auferstehung, laut der strukturierten Outline die Rückkehr"). A structure no
+reading places the chapter in is left out, not inferred from its number. The
+basic questions B3 and B7 may ask about the chapter's structural function in
+the same terms.
