@@ -134,6 +134,10 @@ dwelling's row (L152).
 
 Heidegger's Geworfenheit: „Im Roman: Kael ist Komponente 734, in einer Welt geworfen, die das Trennungsprotokoll erzeugt hat.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L229]
 „Sein Erwachen ist nicht Schöpfung, sondern Übernahme dieses Geworfen-Seins.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L229]
+The section is „§4.1 Heidegger als Existenzphilosoph (Ergänzung zu §3.2)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L228], an addition to the `[K]` Heidegger section, and itself unlabelled.
+Its drafting rule places the thrownness in Kap 1: „Kap 1 zeigt Geworfen-Sein ohne Klage.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L232] „Kael nimmt die Welt, wie sie ist — weil er nichts anderes kennt.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L232]
+That is the document's one `734` and its one `Komponente` (`05-verify-readers.txt`): no Kap 0, no beat, no Kap 22 and no console line. The separation made the world he is thrown into; when the component was made it does not say (C12).
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (reconcile-28).
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -190,7 +194,9 @@ as its own beat 3 after a beat-2 separation, and its open fourth beat is the
 in the separation, beat 3 of four (L148). The Abhandlung has it formed in beat 2
 (L159) and also as what remains after the separation (L120). The narrative text of Kap 0 of
 2026-05-17 has an unnumbered component before the crisis (L235) and a component eliminated
-in the separation (L591), naming neither Kael nor 734.
+in the separation (L591), naming neither Kael nor 734. The philosophy catalogue gives no
+beat: Kael is 734 in a world the Trennungsprotokoll made (its L229), which puts the
+separation before the world he is thrown into and says nothing of when the component was made.
 
 **Whose designation.** Lex's, in the Charakter-Kompilation of 2026-03-31 (L74);
 Kael's, in every source from 2026-05-07 on.
@@ -223,4 +229,4 @@ proposal).
 - `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15: „734-K-1123“ ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1565], the case number of an assessment of System Kael — the number, not the component.
 - `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28: „vor dem Kern-Trauma (T-734)“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L82] and „Genesis-Krise (Das T-734 Trauma).“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L235] — the number as a trauma label, not the component.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `worldbuilding-konzept-kohaerenzprotokoll-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose readings here were checked against the full documents on 2026-09-26 and which have a census each (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation each (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`).
