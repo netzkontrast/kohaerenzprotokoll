@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,16 @@ Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L
 - Storyform A: „MC-Concern Memory: Erinnerungslosigkeit als Etablierungs-Status" ^[three-mode-architecture-39-chapters-md.md:L178]
 - Storyform B: „OS-Physics: AEGIS-Architektur als Umgebungs-Log" ^[three-mode-architecture-39-chapters-md.md:L178]
 - Leitmotif: „sterile Leere, Ozon, weißes Licht" ^[three-mode-architecture-39-chapters-md.md:L178]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — Juna's seed and the first image
+
+The document ranks itself: „Diese Datei dient als operative Referenz, nicht als Source-of-Truth.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968]
+
+Position: „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496]
+
+- Juna: „Juna-Seed seit Ch1, aber namenlos.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378] · „Juna-Seed Ch1.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L954] · „Erste 13 Kapitel: Multiplizitäts-Schleier hält.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378]
+- First image: „Das letzte Bild von Ch39 ist identisch mit dem ersten Bild von Ch1“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L847] · „was am Anfang Trennung bedeutete, bedeutet am Ende Verbindung.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L847]
+- The image, concretely: „Konkret: ein Telefon klingelt.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851] · „Aber jetzt — bei der Wiederholung — wissen wir, dass die Stille bereits alles war.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851]
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — its seam
 
@@ -145,6 +155,7 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - **What Kael does.** „Kael versucht eine geringfügige Abweichung von seiner Routine oder äußert einen leicht unkonventionellen Gedanken/Wunsch.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29] (aegis-subplots) · „Kap 1: Kael bestätigt, dass die Welt stimmt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L124] (Plot-Konkretisierung) — he deviates, or he confirms.
 - **Storyform B.** „B: OS-Physics als AEGIS-Architektur, Umgebungs-Log“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508] (Konzept-Iteration Genesis) · „A dominant, B latent als Umgebung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L249] (strukturierter Outline) · „KW1 · A:MC-S1 (Memory latent), B:IC-S1 (Kael = unfixbarer Bug)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium) — B as OS environment, latent, or as the IC signpost.
 - **Title.** „Instrumente der Ordnung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L506] (Konzept-Iteration Genesis) · „Erwachen in der Konstrukt-Stadt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L961] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Illusion der perfekten Welt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 1: Illusion der perfekten Welt — Ordnung als Käfig“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L249].
+- **What pairs Kap 1 with Kap 39.** „Kap 1 ↔ Kap 39 (erster Satz = letzter Satz, den Kael schreibt; gelockt: „Das Licht ist schon da, als ich erwache")“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92] (Kapitel-Kompendium) · „erster Satz = letzter Satz, den Kael schreibt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L127] (storyform outline) · „Das letzte Bild von Ch39 ist identisch mit dem ersten Bild von Ch1“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L847] · „Konkret: ein Telefon klingelt.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851] (the worldbuilding concept) — a sentence Kael writes, or an image, a ringing phone.
 
 ## Questions for this chapter
 
