@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 12
+sources: 13
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -160,3 +160,9 @@ No place inside it is named, and the Kern-Welten „sind nicht Orte, sondern *lo
 **Both scales, as in the konsolidiertes Konzept.**
 The world's heading: „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L584]; its concept, „Der überwucherte Ruinengarten der Möglichkeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586]; and among its sub-locations, „Der Möglichkeits-Garten — überwucherte Ruinenarchitektur." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618]
 `Garten der Möglichkeiten` for the world, `Möglichkeits-Garten` for a place in it — the split by scale the konsolidiertes Konzept makes (J61), under the same headings on the same date. Both positions in one document; the conflict stays open.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**KW4 is the Möglichkeits-Garten, the whole world — no place inside it named.**
+In the table of worlds, §14.2: „KW4 Möglichkeits-Garten" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L684], mapped to schools and a logic class. Where [[juna|Juna]]'s modes of appearing run, under §9.2, labelled `[K]`: „KW4-Logik (Möglichkeits-Garten als emergenter Raum)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L451].
+`Garten der Möglichkeiten` stands 0 times, and no sub-location of KW4 is named. Position 1's side, as in the Sprach-DNA and the master report; the conflict stays open.
