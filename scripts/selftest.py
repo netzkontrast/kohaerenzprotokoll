@@ -129,6 +129,17 @@ def check_quotes() -> list[str]:
         failures.append("number: a wrong number resolved")
     elif "number 3" not in problems[0]["why"]:
         failures.append(f"number: unresolved for another reason — {problems[0]['why']}")
+    for info, counted in (("qmd", 0), ("text", 1)):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "fixture.md"
+            path.write_text(f"---\nsource: Sources/drive/{DOC}.md\n---\n\n```{info}\n"
+                            "L12  Er sagte „ein Satz ohne jede Quelle hier“ und ging.\n```\n",
+                            encoding="utf-8")
+            problems, skipped = quotes.check_file(path, DOC)
+            total = quotes.tally([path])
+        if problems or skipped != counted or total["checked"] != 0:
+            failures.append(f"raw fence ```{info}: {skipped} uncited and {total['checked']} checked counted, "
+                            f"expected {counted} and 0")
     return failures
 
 
@@ -166,12 +177,12 @@ def check_fold() -> list[str]:
 
 def main() -> int:
     failures = check_quotes() + check_find() + check_fold()
-    total = (len(QUOTE_CASES) + 1 + len(FIND_CASES) + 1
+    total = (len(QUOTE_CASES) + 3 + len(FIND_CASES) + 1
              + len(MUST_NOT_MERGE) + len(MUST_MERGE))
     for line in failures:
         print(f"  FAIL  {line}")
     print(f"\n{total - len(failures)} of {total} cases hold "
-          f"({len(QUOTE_CASES) + 1} quotation, {len(FIND_CASES) + 1} citation, "
+          f"({len(QUOTE_CASES) + 3} quotation, {len(FIND_CASES) + 1} citation, "
           f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold)")
     if failures:
         print("\nA failure here means a checker other work depends on is not "

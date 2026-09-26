@@ -1,0 +1,115 @@
+{
+ "chapter": 1,
+ "questions": [
+  {
+   "id": "K01-01",
+   "tag": "Konkretheit",
+   "question": "Was tut Kael in Kapitel 1 an seinem ersten Tag in KW1 konkret – bestätigt er Sequenzen und damit, dass die Welt stimmt, oder versucht er eine kleine Abweichung von seiner Routine –, und was verliert er dabei?",
+   "draws_on": "Where the sources differ: what Kael does (aegis-subplots vs. Plot-Konkretisierung)"
+  },
+  {
+   "id": "K01-02",
+   "tag": "Konkretheit",
+   "question": "Welche eine konkrete Falschheit trägt Kapitel 1 nach der Prosa-Regel Akt I vom 2026-05-31 – etwa die Abweichung 114 und der Sprung auf 251 –, und an welchem Objekt oder Ort zwischen Wohneinheit und Datenknoten wird sie sichtbar?",
+   "draws_on": "Kompendium lock (one concrete falsehood); Plot-Konkretisierung beats; GOAL §5.4"
+  },
+  {
+   "id": "K01-03",
+   "tag": "Kausalität",
+   "question": "Wie schließt Kapitel 1 an die Scherben von Kap 0 an, ohne dass die Amnesie je erwähnt wird, und welches beobachtbare Ereignis am Ende von Kapitel 1 kehrt in Kap 2 als erster Riss wieder?",
+   "draws_on": "prose lock 2026-05-31; Kap 2 page (Rücklauf of a Kap-1 deviation); GOAL §4.5 #4"
+  },
+  {
+   "id": "K01-04",
+   "tag": "Leser-Wissen",
+   "question": "Was erkennt der Leser in Kapitel 1 wieder – die sterile Stadt als Innere Weite aus Kap 0, die Nummer 734 –, was Kael nicht erkennt, und welche plausible falsche Deutung von Kaels Alltag bleibt am Kapitelende stehen?",
+   "draws_on": "Genesis echo readings (reader recognises, Kael not); GOAL §4.5 #5"
+  },
+  {
+   "id": "K01-05",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 1 in Storyform B – OS-Physics als AEGIS-Architektur und Umgebungs-Log, B latent als Umgebung oder IC-Signpost 1 mit Kael als unfixbarem Bug – und wie zeigt sich B ohne AEGIS-Stimme?",
+   "draws_on": "Where the sources differ: Storyform B; lock: no AEGIS voice in Kap 1"
+  },
+  {
+   "id": "K01-06",
+   "tag": "Struktur",
+   "question": "Wie erfüllt Kapitel 1 die Murdock-Stufe 1, Illusion der perfekten Welt, und zugleich die Ouroboros-Klammer Kap 1 ↔ Kap 39 – was muss der gelockte Erstsatz leisten, damit er in Kap 39 als letzter Satz, den Kael schreibt, doppelt lesbar wird?",
+   "draws_on": "first-sentence lock; GOAL §5.1 brackets and §5.5 lexeme level"
+  },
+  {
+   "id": "K01-07",
+   "tag": "Konflikt",
+   "question": "Wo lebt Kael in Kapitel 1 – als Komp 734 in Wohneinheit 14 in Sektor 7 laut Outline vom 2026-05-18, oder in Wohneinheit 734 in Sektor 04 laut Kompendium –, und trägt die Zahl 734 damit schon hier Bedeutung?",
+   "draws_on": "Where the sources differ: where Kael lives"
+  },
+  {
+   "id": "K01-08",
+   "tag": "Konflikt",
+   "question": "Bleibt Kapitel 1 somatisch spurlos, wie der Kap-0-Lock sagt, oder bluten Kaels Knöchel beim Erwachen ohne Grund, wie Charakter-Bibel und Konzept-Synopse das Eröffnungsbild zeichnen – und was verliert der Leser mit jeder Wahl?",
+   "draws_on": "C10"
+  },
+  {
+   "id": "K01-09",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird das kalte, scharfe, elektrische Ozon in Kapitel 1 dosiert – nur in Szene 3 als Schicht-2-Beat beim 80/20-Anteil –, und wie bleiben quellenloses Licht, einundzwanzig Grad und Atem Bild statt Landauer-Theorie?",
+   "draws_on": "storyform outline Kap-1 locks; Plot-Konkretisierung dosing; C11; GOAL §5.4"
+  },
+  {
+   "id": "K01-10",
+   "tag": "Setup/Payoff",
+   "question": "Welche Saaten pflanzt Kapitel 1 unbetont – den abgebrochenen Silas-Halbsatz im Lüftungsrauschen, das Wort Juna ohne Referent, die Konsolen-Zeile zur Einheit 734 –, und in welchen Kapiteln werden sie eingelöst?",
+   "draws_on": "storyform outline locks; strukturierter Outline (Juna word); Plot-Konkretisierung seeds"
+  },
+  {
+   "id": "K01-11",
+   "tag": "Impact",
+   "question": "Wenn der Autor die Locks von Kapitel 1 vom 2026-05-30 ändert – Erstsatz, 80/20, keine AEGIS-Stimme, kaltes Ozon –, welche späteren Kapitel kippen, insbesondere Kap 39 als Echo des Erstsatzes und das Hard-B-Kapitel in Kap 5–8?",
+   "draws_on": "Plot-Konkretisierung: Kap-1 locks untouched; GOAL §4.5 #8"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael an seinem Tag in der Konstrukt-Stadt von KW1 – laut Plot-Konkretisierung bestätigen, dass die Welt stimmt, laut AEGIS-Subplots eine kleine Abweichung von seiner Routine wagen – und was stellt sich ihm entgegen, wenn die Umgebung ihn sanft zur Norm zurückführt?",
+   "draws_on": "difference What Kael does: aegis-subplots vs Plot-Konkretisierung"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht für Kael beim Erwachen in der Konstrukt-Stadt auf dem Spiel, wenn er ohne Erinnerung in einem steril geordneten Alltag lebt, dessen Amnesie nie erwähnt wird: was verliert er, wenn die eine konkrete Falschheit ihn erreicht, und was, wenn er sie als Seltsamkeit abtut?",
+   "draws_on": "fragmented without memory (konsolidiertes Konzept); prose lock and eine einzige konkrete Falschheit (Kapitel-Kompendium); aegis-subplots"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende des Erwachens in der Konstrukt-Stadt anders, wenn es die Heldinnenreise mit der Illusion der perfekten Welt eröffnet – hat Kael nur bestätigt, dass die Welt stimmt, oder hat eine Abweichung in seinen Sequenzen die Ordnung schon zum Käfig gemacht?",
+   "draws_on": "HR-Stufe Illusion der perfekten Welt (strukturierte Outline, Kompendium); Routine and Abweichung (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird das Erwachen in der Konstrukt-Stadt erzählt – Kael als Host in der ersten Person, zählend, ohne jede AEGIS-Stimme, wie die Storyform-Outline lockt – und warum soll der Leser an einem Menschen andocken statt an einer These?",
+   "draws_on": "POV Kael (Host) (strukturierte Outline); counting voice (annotated draft seam); no AEGIS voice (Storyform-Outline); prose lock (Kompendium)"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt das Erwachen in der Konstrukt-Stadt – in Wohneinheit 734 in Sektor 04 laut Kernwelten vollständig, oder lebt Kael als Komp 734 in einer anderen Einheit laut strukturierter Outline – und welche Sinne verankern es: quellenloses Licht, kaltes Ozon ohne Wärme, Stille, Atem?",
+   "draws_on": "difference Where Kael lives; sensorics (strukturierte Outline, Kompendium, Storyform-Outline cold ozone lock)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt das Erwachen in der Konstrukt-Stadt ein – mit dem gelockten Erstsatz, das Licht sei schon da, als er erwache, nach dem harten Schnitt vom Fall in die Scherben – und welches Ereignis trägt den Leser in den ersten Riss, in dem ein Glitch ein Echo reaktiviert?",
+   "draws_on": "first-sentence lock (Kompendium, Storyform-Outline); seam from Genesis; next chapter's Glitch reaktiviert Echos"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat das Erwachen in der Konstrukt-Stadt als Ki-Vertiefung am Beginn von Akt I, mit MC-Concern Memory in Storyform A, und was fehlte ohne die Ouroboros-Klammer, in der sein Erstsatz am Ende der letzte ist, den Kael schreibt, und ohne das Setting, das der Leser als Innere Weite erkennt?",
+   "draws_on": "Ki (Vertiefung) (strukturierte Outline); A: MC-Concern Memory (May readings, Kompendium); first-sentence bracket (Kompendium, Storyform-Outline); Genesis echo"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser nach dem Erwachen in der Konstrukt-Stadt fühlen, wenn Kael somatisch spurlos bleibt und Juna nur als Wort ohne Referent und als abgebrochener Halbsatz im Lüftungsrauschen erscheint – und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Kap 1 bleibt spurlos (Kompendium, Kernwelten); Juna as Phantom-Resonanz (strukturierte Outline); Silas half-sentence (Storyform-Outline, Plot-Konkretisierung)"
+  }
+ ],
+ "about": "Kael, der Host, erwacht in der Konstrukt-Stadt von KW1, fragmentiert und ohne Erinnerung, in einem steril geordneten Alltag zwischen Wohnung, Datenknoten und Transitkorridor; laut strukturierter Outline lebt er als Komp 734 in einer Wohneinheit anderer Nummer, laut Kernwelten vollständig und Kapitel-Kompendium ist Wohneinheit 734 selbst seine Wohnung. Laut AEGIS-Subplots wagt er eine kleine Abweichung von seiner Routine und wird von der Umgebung sanft zur Norm zurückgeführt, laut Plot-Konkretisierung bestätigt er, dass die Welt stimmt, während eine Abweichung und ein Sprung in seinen Werten auftauchen; Kapitel-Kompendium und Storyform-Outline locken den Erstsatz, das Licht sei schon da, als er erwache, keine AEGIS-Stimme, kaltes Ozon ohne Wärme und eine Amnesie, die nie erwähnt wird, und die strukturierte Outline lässt Juna als Wort ohne Referent anklingen. In der Heldinnenreise ist es die Illusion der perfekten Welt, Ordnung als Käfig, laut strukturierter Outline in der Ki-Vertiefung am Beginn von Akt I, und laut Kapitel-Kompendium und Storyform-Outline öffnet es die Ouroboros-Klammer, in der der Erstsatz am Ende der letzte ist, den Kael schreibt. Storyform A trägt das MC-Concern Memory als Erinnerungslosigkeit, laut Kapitel-Kompendium als latenten ersten Signpost; Storyform B ist laut Konzept-Iteration Genesis und Drei-Modi-Spezifikation OS-Physics als AEGIS-Architektur im Umgebungs-Log, laut strukturierter Outline latent als Umgebung, laut Kapitel-Kompendium der IC-Signpost mit Kael als unfixbarem Bug. Der Leser erkennt im sterilen Setting die Innere Weite aus der Genesis, Kael nicht.",
+ "about_draws_on": "readings of aegis-subplots, Konzept-Iteration Genesis, konsolidiertes Konzept, three-mode spec, annotated draft seam, strukturierte Outline, Kapitel-Kompendium, Kernwelten vollständig, Storyform-Outline, Plot-Konkretisierung; differences Where Kael lives, What Kael does, Storyform B"
+}

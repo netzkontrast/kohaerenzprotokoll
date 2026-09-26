@@ -1,0 +1,121 @@
+{
+ "chapter": 32,
+ "questions": [
+  {
+   "id": "K32-01",
+   "tag": "Konkretheit",
+   "question": "Wie sieht der Wahrheits-Test in Kapitel 32 als Handlung aus, wenn Kael laut Plot-Konkretisierung in der Schlange eigene Bestände von Fälschungen seiner Fälschungen trennen muss: welche wiederholbare Geste, an welchem Objekt, mit welcher Eskalation?",
+   "draws_on": "Plot-Konkretisierung plot beats; GOAL §4.5 #3"
+  },
+  {
+   "id": "K32-02",
+   "tag": "Setup/Payoff",
+   "question": "Laut Plot-Konkretisierung vom 2026-06-10 erkennt Kael in Kapitel 32 seine echten Bestände an ihren Fehlern, gegen Oblivions perfekte Kopien; welcher in Akt I–II gepflanzte Fehler oder Tick dient als Erkennungszeichen?",
+   "draws_on": "Plot-Konkretisierung reading: Fälschungen seiner Fälschungen; GOAL §4.5 #6"
+  },
+  {
+   "id": "K32-03",
+   "tag": "Kausalität",
+   "question": "Wie greift der Wahrheits-Test von Kapitel 32 die zwei abgelehnten Geschenke aus Kapitel 31 auf – Mnemosynes Vollarchiv-Rechte und die Löschung der eigenen Akte durch den Erasure-Pol, laut Plot-Konkretisierung –, und welche Folge davon trägt Kael an AEGIS' Kern in Kapitel 33?",
+   "draws_on": "kap-31 Plot-Konkretisierung Idea 11; Idea 6 here (der Wahrheits-Test prüft genau diese Rechte)"
+  },
+  {
+   "id": "K32-04",
+   "tag": "Kausalität",
+   "question": "Welche zwei genuinen Zukunftsverluste stehen im Wahrheits-Test von Kapitel 32 gegeneinander, wenn Oblivions makellose Kopien von Kaels Beständen ebenso gelten könnten wie seine fehlerhaften Originale, und was ist nach Kaels Unterscheidung nicht mehr umkehrbar?",
+   "draws_on": "no reading names a choice or a price; GOAL §4.5 #4, §5.5 Readiness Gate 6"
+  },
+  {
+   "id": "K32-05",
+   "tag": "Leser-Wissen",
+   "question": "Was weiß der Leser am Ende von Kapitel 32 über Oblivion als Erason-Operator, was Kael noch nicht weiß, und welche falsche, plausible Deutung von Oblivions Rolle bleibt bis zum Vortex stehen?",
+   "draws_on": "konsolidiertes Konzept: Oblivion als Erason-Operator; GOAL §4.5 #5"
+  },
+  {
+   "id": "K32-06",
+   "tag": "Storyform",
+   "question": "Kapitel 32 trägt laut den Plänen vom 2026-05-08 in A das MC-Issue als Wahrheits-Test und in B OS-Physics mit kybernetischen Manövern; wie teilen sich A und B das Kapitel, und hält es die Bridge-Quote von etwa 40 % für Akt III-A?",
+   "draws_on": "Storyform lines of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec; GOAL §5.2 bridge frequency"
+  },
+  {
+   "id": "K32-07",
+   "tag": "Storyform",
+   "question": "Wird Kapitel 32 mit einer ersten längeren Oblivion-POV-Szene nach dem Slot-16-Entscheidungsbaum als Spiegel-Alter-Szene bridge-natürlich geroutet, und ist Kapitel 32 oder 33 der Einsatzpunkt, den OQ-E vor dem Akt-III-Encoding klären soll?",
+   "draws_on": "strukturierter Outline POV and open question; storyform outline Richtwerte; GOAL §5.2 Slot 16"
+  },
+  {
+   "id": "K32-08",
+   "tag": "Struktur",
+   "question": "Wie besetzt Kapitel 32 die Heldenreise-Stufe Tests, Allies, Enemies innerhalb von Ten beginnt (Kap 27–34), und wie unterscheidet es sich im Tempo von der Schwelle in Kapitel 31 und der Inmost Cave in Kapitel 33?",
+   "draws_on": "stage lines of all 2026 readings; GOAL §5.1"
+  },
+  {
+   "id": "K32-09",
+   "tag": "Konflikt",
+   "question": "Treten in Kapitel 32 Mnemosyne und der Erasure-Pol noch als Sub-Antagonisten auf, wie der Outline vom 2026-05-18 sagt, obwohl mehrere Pläne ihre Auflösung in Kapitel 31 erzählen, und handeln sie dabei als Komponenten von AEGIS oder als eigene Gegner?",
+   "draws_on": "Where the sources differ: Guardians; record Q1"
+  },
+  {
+   "id": "K32-10",
+   "tag": "Figur",
+   "question": "Wie klingt Oblivion als POV-Träger in Kapitel 32, mit Lösch-Prosa und sich selbst auslöschenden Sätzen, ohne dass die Stimme gelabelt wird oder die Dissoziation als Crew-Menü erscheint?",
+   "draws_on": "strukturierter Outline: Oblivion tritt als POV-Träger auf; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K32-11",
+   "tag": "Welt/Sensorik",
+   "question": "In welcher Kernwelt spielt Kapitel 32, KW4 oder das Forum des Dialogs laut Kernwelten vollständig, und wie werden logische Labyrinthe, Echo-Räume und eine Stimme, die Kaels Stimme imitiert, als Raum statt als nackte Theorie sichtbar?",
+   "draws_on": "Kernwelten vollständig world line; Sensorik lines; GOAL §5.4 Theorie nie nackt"
+  },
+  {
+   "id": "K32-12",
+   "tag": "Steinbruch",
+   "question": "Könnte der systemische Widerspruch der AEGIS-Subplots von 2025, ein teilweises Einfrieren von AEGIS' Logik durch gleichzeitige Aktionen an mehreren Standorten, Kapitel 32 eine konkrete Handlung geben, ohne Juna/V gegen die Juna-Grammatik handeln zu lassen?",
+   "draws_on": "aegis-subplots reading (2025); GOAL §4.5 #9"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael in den logischen Labyrinthen, wenn er laut der strukturierten Outline AEGIS' logische Verteidigungen, Simulationstricks und loyale Subsysteme überwinden muss, und wer stellt sich ihm entgegen: Mnemosyne und der Erasure-Pol als Sub-Antagonisten, oder laut der Plot-Konkretisierung Oblivions makellose Fälschungen seiner eigenen Bestände?",
+   "draws_on": "structured outline plot beats and OS-S3 Guardians; Plot-Konkretisierung Wahrheits-Test"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht im Wahrheits-Test auf dem Spiel, wenn laut der Plot-Konkretisierung in der Schlange Bestände mit Kaels Signatur erscheinen, die er nie angelegt hat: was verliert Kael, wenn er die perfekte Kopie seiner Unordnung für die eigene hält, und was kostet es ihn, sie zu verwerfen?",
+   "draws_on": "Plot-Konkretisierung plot beats; MC-Issue Wahrheits-Test in the 2026-05-08 plans"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist anders, wenn Kael die logischen Labyrinthe verlässt, nachdem er laut der Plot-Konkretisierung seine eigene Unordnung an ihren Fehlern erkannt hat: kippt der Makel vom Mangel zum Beweis der Echtheit, und die Makellosigkeit zum Zeichen der Fälschung?",
+   "draws_on": "Plot-Konkretisierung: recognises his own by its errors"
+  },
+  {
+   "id": "B4",
+   "question": "Wird der Systemkampf aus dem polyphonen Kael mit aktiven Spiegel-Alters erzählt, oder trägt Oblivion hier laut dem Vorschlag der strukturierten Outline seine erste längere POV-Szene in Lösch-Prosa mit sich selbst auslöschenden Sätzen, und warum sollte gerade der Erason-Operator diesen Test erzählen?",
+   "draws_on": "POV lines of the 39-chapter spec and structured outline; konsolidiertes Konzept: Oblivion als Erason-Operator; OQ-E"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt der Wahrheits-Test, in KW4 oder laut Kernwelten vollständig vielleicht im Forum des Dialogs, und wie verankern logische Labyrinthe, Echo-Räume und eine Stimme, die Kaels Stimme imitiert, die Szene in Kaels Körper statt in Theorie?",
+   "draws_on": "Kernwelten vollständig world and place; leitmotif in every plan; structured outline Sensorik"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt der Systemkampf nach der Auflösung der Guardians und den zwei abgelehnten Geschenken ein, wenn die strukturierte Outline Mnemosyne und den Erasure-Pol noch als Gegner führt, und welches Ereignis trägt den Leser weiter ins Vordringen zu AEGIS' Kern?",
+   "draws_on": "neighbour kap-31 (Guardian dissolution, two gifts); kap-33 (Approach Inmost Cave); Where the sources differ: Guardians"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe haben die Prüfungen, Tests, Allies, Enemies der äußeren Heldenreise, dort, wo laut der strukturierten Outline das Ten beginnt, und was fehlte dem Weg von der ersten Schwelle zur tiefsten Höhle ohne den Wahrheits-Test und das erste Hervortreten der Spiegel-Alters Silas und Oblivion?",
+   "draws_on": "stage Tests, Allies, Enemies; structured outline position Ten beginnt; konsolidiertes Konzept Spiegel-Alter"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael sich an seinen Fehlern von Oblivions perfekten Kopien unterscheidet, und wie berührt die Einsicht, dass gerade das Beschädigte echt ist, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Plot-Konkretisierung Wahrheits-Test; basic B8 theme"
+  }
+ ],
+ "about": "In der äußeren Heldenreise ist das die Stufe Tests, Allies, Enemies, die Prüfungen, im dritten Akt der äußeren Konfrontation, dessen Phase die Plot-Konkretisierung Der Deserteur nennt, und laut der strukturierten Outline beginnt hier das Ten; in Storyform A trägt es das MC-Issue als Wahrheits-Test gegen logische Fallen, in B laut Konzept-Iteration und konsolidiertem Konzept kybernetische Manöver, laut Spec und strukturierter Outline die Guardians als Sub-Antagonisten. Kael, polyphon und mit aktiven Spiegel-Alters, muss in logischen Labyrinthen und Echo-Räumen AEGIS' logische Verteidigungen, Simulationstricks und loyale Subsysteme überwinden; laut der strukturierten Outline treten Mnemosyne und der Erasure-Pol hier noch als Gegner auf, obwohl das Kapitel davor die Auflösung der Guardians erzählt, und Oblivion trägt als Vorschlag seine erste längere POV-Szene in Lösch-Prosa. Laut der Plot-Konkretisierung erscheinen in der Schlange Bestände mit Kaels Signatur, die er nie angelegt hat, Fälschungen in Oblivions makelloser Hand, und Kael erkennt die eigenen an ihren Fehlern. Kernwelten vollständig setzt das Kapitel in KW4, vielleicht im Forum des Dialogs; die AEGIS-Subplots schlugen stattdessen einen systemischen Widerspruch vor, der AEGIS' Logik teilweise einfriert.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, structured outline, Kernwelten vollständig, storyform outline, Plot-Konkretisierung, aegis-subplots; Where the sources differ: Guardians; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
+}

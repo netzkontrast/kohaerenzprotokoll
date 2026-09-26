@@ -1,0 +1,115 @@
+{
+ "chapter": 17,
+ "questions": [
+  {
+   "id": "K17-01",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung steht in Kapitel 17 im Pflichtbericht versehentlich zum ersten Mal ein erzählter Satz: wie lautet der Bericht konkret, was riskiert Kael, und warum lässt der Validator ihn knapp passieren?",
+   "draws_on": "Plot-Konkretisierung reading, Idee 13"
+  },
+  {
+   "id": "K17-02",
+   "tag": "Konkretheit",
+   "question": "Was sieht Kael in Kapitel 17 konkret, wenn er die Drähte der Simulation, Rendering-Ebene gegen Prozess-Kern, erkennt und erfährt, dass Bestätigtes nicht verschwindet, sondern nach unten geht, an welchem Ort und durch welches Objekt?",
+   "draws_on": "Kompendium and Plot-Konkretisierung (Lektüre III) readings; GOAL §4.5 #3"
+  },
+  {
+   "id": "K17-03",
+   "tag": "Kausalität",
+   "question": "Welche beobachtbare Handlung in Kapitel 17 fängt den Rückfall in den Bunker aus Kapitel 16 ab, und welches Ereignis am Ende von Kapitel 17 führt in den Cache-Konflikt und ersten Genesis-Flashback von Kapitel 18?",
+   "draws_on": "neighbours kap-16 and kap-18; GOAL §4.5 #4"
+  },
+  {
+   "id": "K17-04",
+   "tag": "Konflikt",
+   "question": "Wer fängt in Kapitel 17 Kaels Rückfall ab: Selene in der Wächterin-Funktion, die Wir-Stimme oder die K-J-Verbindung zu Juna, und was würde die Wahl zwischen diesen Trägern entscheiden?",
+   "draws_on": "Where the sources differ: who catches the relapse; record Q4"
+  },
+  {
+   "id": "K17-05",
+   "tag": "Storyform",
+   "question": "Liegt die erste bewusste Pursuit-Bewegung von Storyform A in Kapitel 17 (Driver-Anker Decision, hinschauen statt wegsehen) oder erst in Kapitel 20, und was unterscheidet eine Pursuit-Andeutung von einer bewussten Bewegung?",
+   "draws_on": "Where the sources differ: first conscious Pursuit; GOAL §5.2"
+  },
+  {
+   "id": "K17-06",
+   "tag": "Leser-Wissen",
+   "question": "Was weiß der Leser am Ende von Kapitel 17 über Rendering und Prozess-Kern der Stadt, was Kael noch nicht deutet und AEGIS nicht bemerkt, und welche falsche, plausible Deutung der Drähte bleibt stehen?",
+   "draws_on": "Kompendium reading (Kant, Phaenomena vs. Noumena); GOAL §4.5 #5"
+  },
+  {
+   "id": "K17-07",
+   "tag": "Struktur",
+   "question": "Kapitel 17 schließt Zyklus Z1 als Korrektur: wie weit darf sie gelingen, damit Z2 in Kapitel 18 eskalierend destabilisiert, und spiegelt Kapitel 17 die Wächterin-Stufe von Kapitel 8 in der Heldinnenreise?",
+   "draws_on": "cycle stage Z1 Stufe 3; Q4 notes the Wächterin in Kap 8 and Kap 17; GOAL §5.1"
+  },
+  {
+   "id": "K17-08",
+   "tag": "Welt/Sensorik",
+   "question": "Die Outline vom 2026-05-18 nennt für Kapitel 17 Licht durch enge Architektur und Wärme durch Betäubung: wessen Spur ist diese Wärme, und wie verträgt sie sich mit der Hitze-Polarität von kaltem Ozon und Junas Wärme?",
+   "draws_on": "strukturierter Outline Sensorik line; GOAL §5.4 heat polarity"
+  },
+  {
+   "id": "K17-09",
+   "tag": "Figur",
+   "question": "Wie spricht die Wächterin in Kapitel 17, als Selene, als Beobachter-Blick oder als beginnendes Wir-Geflecht, ohne dass die Stimme gelabelt wird und ohne dass Dissoziation zum Crew-Menü wird?",
+   "draws_on": "POV Wir-Geflecht beginnt; record Q4 on the unnamed Wächterin; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K17-10",
+   "tag": "Setup/Payoff",
+   "question": "Der erste erzählte Satz im Bericht in Kapitel 17 gehört zur Idee Der korrupte Bericht: wo wird dieser Strang eingelöst, und was muss Kapitel 17 pflanzen, damit die Einlösung trägt?",
+   "draws_on": "Plot-Konkretisierung Idee 13; GOAL §4.5 #6"
+  },
+  {
+   "id": "K17-11",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Idee zweier widersprüchlicher AEGIS-Direktiven (bewusste Integrität bewahren gegen unvorhersehbare Entropie eliminieren) in Kapitel 17 ein Fund aus Kaels Lektüre werden, ohne die Paradox-Falle von Kapitel 22 vorwegzunehmen?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §4.5 #9"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er nach dem Bunker aktiv hinschauen statt fliehen soll, und wer hilft oder hindert ihn dabei: laut der Konzept-Iteration Genesis die Wächterin oder Wir-Stimme, laut der strukturierten Outline Selene als Wächterin-Funktion oder die Verbindung zwischen Kael und Juna?",
+   "draws_on": "the 'who catches the relapse' difference (Q4): Konzept-Iteration Genesis vs strukturierter Outline"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kael laut dem Kapitel-Kompendium die Drähte der Simulation sieht, Rendering-Ebene gegen Prozess-Kern, und laut der Plot-Konkretisierung erstmals erkennt, wohin Bestätigtes geht, nicht weg, sondern runter: was verliert er, wenn er wieder wegsieht?",
+   "draws_on": "readings of the Kapitel-Kompendium and Plot-Konkretisierung"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist nach der Wächterin anders als im Bunker, wenn Flucht in Betäubung in eine Andeutung von Pursuit kippt, und ist das schon die erste bewusste Pursuit-Bewegung, wie die strukturierte Outline sagt, die dieselbe Formel auch der Lyons-Kreativität gibt?",
+   "draws_on": "the 'first conscious Pursuit' difference; Storyform A in every plan"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Korrektur erzählt, wenn die strukturierte Outline Kael nennt, bei dem das Wir-Geflecht beginnt, und die Konzept-Iteration Genesis eine Wir-Stimme den Rückfall abfangen lässt: spricht hier erstmals ein Wir, und warum gerade nach dem Bunker?",
+   "draws_on": "POV in the strukturierter Outline and 39-chapter spec; Konzept-Iteration Genesis"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Wächterin-Szene, in KW2 laut Kernwelten vollständig, und wie verankern Licht durch enge Architektur und laut der strukturierten Outline Wärme durch Betäubung den Körper, wenn Kael die Drähte hinter der Rendering-Ebene sieht?",
+   "draws_on": "Kernwelten vollständig; the Sensorik notes of the strukturierter Outline and konsolidiertes Konzept"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Korrektur nach Kaels Flucht in Dissoziation und AEGIS' Fehldeutung als Stabilisierung ein, und welches Ereignis trägt den Leser in die Multi-Welten-Aufgabe, die am Cache-Konflikt zwischen Anteilen scheitert, und in den Beginn der Genesis-Flashbacks?",
+   "draws_on": "neighbours: the Bunker chapter and the Cache-Konflikt chapter"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Wächterin als Korrektur, die den ersten Spiral-Zyklus schließt, und was fehlte, wenn Kants Rendering gegen Prozess-Kern oder laut der Plot-Konkretisierung der erzählte Satz im Pflichtbericht gestrichen würde, den der Validator knapp passieren lässt?",
+   "draws_on": "cycle stage in the strukturierter Outline; Kapitel-Kompendium; Plot-Konkretisierung idea 13"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael hinschaut statt wegsieht und sein Pflichtbericht laut der Plot-Konkretisierung versehentlich einen erzählten Satz trägt, und wie berührt das Thema, dass Liebe bleibt wie der Schmerz, wenn laut der strukturierten Outline vielleicht die Verbindung zu Juna ihm den Rückfall zeigt?",
+   "draws_on": "readings of the Plot-Konkretisierung and strukturierter Outline"
+  }
+ ],
+ "about": "Alle gelesenen Quellen stellen die Wächterin in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Korrektur, mit der der erste Spiral-Zyklus aus Trigger, Bunker und Wächterin schließt. Kaels Rückfall wird abgefangen, und Kael schaut aktiv hin, statt zu fliehen: laut der Konzept-Iteration Genesis durch die Wächterin oder Wir-Stimme, laut der strukturierten Outline durch Selene in der Wächterin-Funktion oder durch die Verbindung zwischen Kael und Juna, und laut der strukturierten Outline beginnt in Kael das Wir-Geflecht. In Storyform A deutet das die MC-Solution Pursuit an, Storyform B bleibt latent; die strukturierte Outline nennt es die erste bewusste Pursuit-Bewegung mit dem Driver-Anker Decision und gibt dieselbe Formel auch der Lyons-Kreativität. Laut dem Kapitel-Kompendium und der Storyform-Outline sieht Kael die Drähte der Simulation, Rendering-Ebene gegen Prozess-Kern, im Zeichen von Kants transzendentalem Idealismus, Kernwelten vollständig verortet das in KW2, und Licht durch enge Architektur trägt die Szene. Laut der Plot-Konkretisierung sieht Kael erstmals, wohin Bestätigtes geht, nach unten, und im Pflichtbericht des Tages steht versehentlich ein erzählter Satz, den der Validator knapp passieren lässt.",
+ "about_draws_on": "readings of the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, strukturierter Outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline and Plot-Konkretisierung; the page's differences on Pursuit and on who catches the relapse; placement from every reading's Position line (Zyklischer Modus; Shō in the strukturierter Outline; Akt II in the Kapitel-Kompendium and storyform outline; Akt II Mitte/Ende in Kernwelten vollständig; block Der Innentäter in the Plot-Konkretisierung) and the cycle stage in the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec and strukturierter Outline"
+}
