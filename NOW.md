@@ -28,6 +28,17 @@ And the two read ones with them: „Yes, 22 and 23 are research too" (2026-09-26
 them the novel's text, and were corrected; the readings quote what they say and stand.
 A document may still call itself a draft, and a reading may quote that.
 
+**New from the worldbuilding concept (2026-09-26):**
+- **Pages for terms every reading has left unpaged?** The Erasure-Pol is named in 14
+  read documents, the Witness-Funktion in 8, the Fragmentierungsnacht and the
+  Ursprungs-Ich in 7, the Suppressionsprotokoll and the Korrelat-Achse in 5, and none
+  has a page. Each reading so far has left them off; should any become a page?
+- **`datenverarbeitungsknoten-7g` or Epsilon?** Only the 2025 Lokalitäten document
+  writes `7G`; every 2026 source read writes `Datenverarbeitungsknoten Epsilon`, and
+  J65 already treats the two as Kael's one workplace. Rename the page?
+- **Rhys' arc.** „Anker Akt I → Kudzu Akt II“ in the worldbuilding concept (L402) and the
+  konsolidiertes Konzept, „Akt-II-Anker → Kudzu“ in the master report of the same date.
+
 ### The novel — where the sources disagree
 
 Each is a conflict record in `Wiki/conflicts/`, append-only, with the quotations.
@@ -104,6 +115,10 @@ before this list.
   (L1241). **The konzept master report (2026-05-08) names no one**: the
   Ursprungs-Ich resonates „mit einer fremden Entität in der Leere“ (L463), and
   Kael is what remains when it is split into modules (L465).
+  **The worldbuilding concept (2026-05-08) holds both, a month before the glossary**:
+  the Ursprungs-Ich meets Juna as a „transzendente Anomalie“ (L179) and becomes
+  Komponente 734 (L180), and the Fragmentierungsnacht „spaltet das Ursprungs-Ich (Juna)
+  ab“ (L435). It does not relate the two.
 - **The final form's name.** Wir-AEGIS / Mosaik-AEGIS / Plurale Kohärenz / Das Wir
   / namenlos — the konsolidiertes Konzept's own OQ-A (L1199). No page until it is
   named. The strukturierter Outline's OQ-A says the same: `Wir-AEGIS-plural` is a
@@ -530,8 +545,7 @@ never a reading or a number.
 
 1. ~~`koharenz-protokoll-kapitel-0-v2-md`~~ — read 2026-09-26, document 25 (*Next
    document*, below). No Kap 0 question had returned it: the method's limit, measured.
-2. **`worldbuilding-konzept-kohaerenzprotokoll-md`** (2026-05-08) — in 25 chapters'
-   tables, Kap 31–40 all among them, and one of the ten scanned.
+2. ~~`worldbuilding-konzept-kohaerenzprotokoll-md`~~ — read 2026-09-26, document 26.
 3. **`kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`** — Kap 11, 12, 15,
    24, 25 and every chapter from Vortex 1 to the end, 35–40.
 4. **`2026-09-14-kap25-vertiefung-md`** and **`kp-kap25-2026-09-14-md`** — the newest
@@ -614,7 +628,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   41 <!--state:sweep.decided--> hits, 22 <!--state:sweep.readings--> of them
+   45 <!--state:sweep.decided--> hits, 26 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -690,7 +704,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 21 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 22 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -829,7 +843,20 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the second narrative text of Kap 0 reconciled
+## Next document — the worldbuilding concept reconciled
+
+**The twenty-sixth document is done: `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-09-26.** 418 candidates, **no page**, readings on 56 pages, `plot.md` and nine chapters (Kap 1, 11, 13, 14, 33–36, 39), entries in fourteen conflicts and all five questions (C8 unchanged), no new judgement, four sweep hits (all readings). The six scan readings of it were checked against the full document. `Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md` has the record. Chosen as next on *Reading suggestion*.
+
+- **A world bible that ranks itself last**: „nicht als Source-of-Truth" (L968), below „Memory" and a „Reset-Doc" — recorded, not applied. Much of it is the konsolidiertes Konzept's text of the same date, word for word.
+- **Two Guardians** (C6, the author's five stand), **three protocols** (Q2), AEGIS' **expansion** (C1), **three Genesis beats**, the fourth „offen" (C12), **heat and ozone one Landauer signature** (C11), **a third 39-chapter plan with one Vortex** — `plot.md` corrected to „every plan but three".
+- **Juna in two roles** — the question under *Questions for the author* (J68/J75) now has this document too.
+- **`quotes.py` had a blind spot**: a cited quotation under eight characters matched nothing, and a false „(Ch13)" citation of another document stood on `evaluierungseinheit`. Fixed, with three self-test cases.
+- **How it was read**: the session read the document and wrote the list, census and note; seven Claude readers in the container wrote readings, record entries and chapter readings from one brief, each file reviewed, quote-checked and committed on its own. Once, the session ran `git stash` on the shared tree by mistake and popped it seconds later; every file was checked afterwards and none had lost an edit.
+- **Noticed, not fixed**: `alters`' *Open* says the roster lives in documents not yet read; `realitaetsebenen`' *Open* says six levels rest on one source; `residual-echos`' *Open* says no Kap-40 text is read. All three were stale before this document.
+
+Next, by *Reading suggestion — next*: `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. The chapter tables still list the two documents read today until `chapter_sources.py run` is rerun.
+
+### Previous document — the second narrative text of Kap 0 reconciled
 
 **The twenty-fifth document is done: `koharenz-protokoll-kapitel-0-v2-md`, 2026-09-26.** 153 candidates, **no page**, readings on 15 pages and on Kap 0, six conflicts moved (C3, C7, C10, C11, C12, C14), J97, one sweep hit (a reading). `Wiki/compare/reconcile-26-koharenz-protokoll-kapitel-0-v2-md.md` has the record. Chosen as first of *Reading suggestion — next*, by the morning scan's grep. Research, by the author (2026-09-26), like documents 22 and 23.
 
@@ -839,8 +866,6 @@ high tier into it is the next step, and it is a person's.
 - **The formula in a third form**, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) — `formel-inversion`'s lead extended. `residual-echos`' lead said only one text uses the name; two do, of one date. `komponente-734`'s „the sources agree it becomes Kael" narrowed to the sources that name Kael.
 - **J97**: a German case ending is not a term boundary. **Briefing v14** asks about a text whose grammar is its only label. One zero, `innerer Raum`: the `read.py --find` step skipped once.
 - **Noticed, not fixed**: `residual-echos`' *Open* says no Kap-40 draft is among the read documents, which the page's own reading of document 22 contradicts; no document of this run caused it.
-
-Next, by *Reading suggestion — next*: `worldbuilding-konzept-kohaerenzprotokoll-md` (2026-05-08, 968 lines), in 25 chapters' tables. The chapter tables still list this document for six chapters until `chapter_sources.py run` is rerun.
 
 ### Previous document — the 39-chapter spec reconciled
 

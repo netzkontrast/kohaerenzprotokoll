@@ -81,8 +81,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, nineteen of them
-read (documents 7 to 25).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, twenty of them
+read (documents 7 to 26).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -112,11 +112,11 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**25 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **25
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **25
+**26 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **26
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **26
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-four `worldbuilding`, one `aegis`, two `storyform`, three `charaktere`, three
-`kernkonzept`, eight `plot-outline` and one `theorie-psychologie` — the last nineteen
+five `worldbuilding`, one `aegis`, two `storyform`, three `charaktere`, three
+`kernkonzept`, eight `plot-outline` and one `theorie-psychologie` — the last twenty
 from the canon era.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
@@ -128,8 +128,8 @@ has been promoted.
 
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
-**371 <!--state:chapters.readings--> readings** from the nine read documents
-that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, and that text's prose without its annotation; `Wiki/overview/` lays the chapters and the plot's
+**380 <!--state:chapters.readings--> readings** from the nine read documents
+that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, that text's prose without its annotation, and a world bible that names nine; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
 | document | new terms | new readings | new conflicts |
@@ -159,6 +159,7 @@ shape side by side. See *Chapters and the plot*, below.
 | `kap0-v1-annotiert-md` | 0 | 29 | 0 |
 | `three-mode-architecture-39-chapters-md` | 0 | 29 | 0 |
 | `koharenz-protokoll-kapitel-0-v2-md` | 0 | 16 | 0 |
+| `worldbuilding-konzept-kohaerenzprotokoll-md` | 0 | 66 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -394,6 +395,22 @@ readings on 15 pages and Kap 0.** Its one zero was a phrase written in the dicti
 the step briefing v12 asks for skipped once; J97 makes a German case ending no term boundary,
 and briefing v14 asks about a text whose grammar is its only label.
 
+**The twenty-sixth is the worldbuilding concept of 2026-05-08, and it ranks itself last.**
+A world bible, „Post-Reset-Kanon (2026-04-30) · inkl. Storyform-Korrekturen 2026-05-07", that
+calls itself „Steinbruch, nicht Korsett" and ends „nicht als Source-of-Truth" — recorded, not
+applied. Much of it stands word for word in the konsolidiertes Konzept of its date. It reduces
+the Guardians to Mnemosyne and an Erasure-Pol and calls the old five „Lore-Last" (C6; the
+author's decision for five stands), keeps three protocols of twelve (Q2), writes AEGIS'
+expansion (C1), counts three Genesis beats with the fourth „offen" (C12), makes heat and ozone
+one Landauer signature (C11), and is a third plan of 39 chapters with one Vortex, so `plot.md`
+was corrected again. It has Juna in two roles it does not relate: the anomaly the Ursprungs-Ich
+meets, and the Ursprungs-Ich split off (J68). **No pages, readings on 56 pages, `plot.md` and
+nine chapters, entries in every record but C8** — written by seven Claude readers in the
+container from one brief, each file reviewed and committed on its own. **Its reading found a
+blind spot in `quotes.py`**: a cited quotation under eight characters matched nothing, and a
+false citation of „(Ch13)" had stood on `evaluierungseinheit` unreported. Every cited quotation
+is now checked (*A quotation is checked against its line*).
+
 `Plan/runs/judgements.jsonl` holds **97 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
@@ -532,8 +549,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 41 <!--state:sweep.decided--> so far,
-22 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 45 <!--state:sweep.decided--> so far,
+26 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -557,6 +574,11 @@ markdown emphasis, blockquote wrapping, glued footnote numbers, inline
 attribution markers. It says how many quotes it could not check rather than
 counting them as passed.
 
+**A short quotation is checked when it is cited.** Until 2026-09-26 the pattern began at
+eight characters, so a cited „(Ch13)" matched nothing — not checked, not counted — while its
+citation named a line that did not hold it. Now every cited quotation is checked; an uncited
+short one is a word the prose mentions and stays out of every count.
+
 **A number is compared on its own.** The footnote rule drops a number after a
 word on both sides, so until 2026-09-24 „Kap 33 Beat 3" resolved against a line
 reading „Kap 38 Beat 3" — and a chapter outline carries hundreds of such numbers
@@ -572,8 +594,8 @@ comparison on the same normalised line, so a citation `--find` produced passes
 `quotes.py` by construction. Checking afterwards names a defect; asking for the
 number instead of typing it is what stops one.
 
-**And `python3 scripts/selftest.py` proves they can fail.** Seven quotation cases,
-six citation cases and nine `fold()` pairs, each carrying the exact defect the
+**And `python3 scripts/selftest.py` proves they can fail.** Twelve quotation cases,
+six citation cases and ten `fold()` pairs (measured 2026-09-26; `selftest.py` prints the count), each carrying the exact defect the
 checker must name, so a case that fails for the wrong reason fails the test.
 Nobody had ever seen any of them fail — which is the shape of the retired
 pipeline's worst defect: a coverage term that returned 1.0 whenever no gold
@@ -602,8 +624,8 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**476 <!--state:wiki.relations--> links across
-106 <!--state:wiki.pages--> pages, 28 <!--state:wiki.orphans--> of them with
+**512 <!--state:wiki.relations--> links across
+106 <!--state:wiki.pages--> pages, 25 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
 mistaken for a statement about linking. 48 links existed, written in backticks,
@@ -621,7 +643,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 303 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 355 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -673,20 +695,21 @@ every read source but one ended at Kap 39; seven of the eight count a Kap 40.
 The konzept master report, read after, counts 39 chapters with no frame and one
 Vortex — two of `plot.md`'s claims about every 2026 plan, corrected there.
 The 39-chapter spec, read after that, is a second plan with 39 chapters and one Vortex,
-so `plot.md`'s „every plan but one" became „every plan but two".
+so `plot.md`'s „every plan but one" became „every plan but two" — and the worldbuilding concept,
+read after that, made it three.
 
 ### The knowledge graph, and retrieval over it
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **157 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **2388 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **2558 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 3732 <!--state:graph.evidence-->
-of them, **3732 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 4433 <!--state:graph.evidence-->
+of them, **4433 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -1076,7 +1099,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 476 <!--state:wiki.relations-->.
+links. It has 512 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
