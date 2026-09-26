@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -102,3 +102,10 @@ Again when bonds are shed: „Dies ist nicht Verlust, sondern Strukturoptimierun
 An ANP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135].
 His style code: „Stilcodes pro Alter (Lex hypotaktisch, Nyx fragmentiert-bildhaft, Selene kühl-präzise) sind ab Kap 2–3 erste schwache Einbrüche; voll ausgeprägt ab Kap 8–10." ^[three-mode-architecture-39-chapters-md.md:L198]
 By chapter: Kap 2 „Kael, mit Lex-Einbruch" ^[three-mode-architecture-39-chapters-md.md:L179]; Kap 3 „Kael (Lex-dominant)" ^[three-mode-architecture-39-chapters-md.md:L180]; Kap 16 „Kael (Lex+Selene-Dominanz)" ^[three-mode-architecture-39-chapters-md.md:L260].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — ANP, and the breath of KW1
+
+The konsolidiertes Konzept's row, in the same words: „ANP | Lex (Rationalist) | Gödel + Halteproblem | Hypoventilation, Kälte | → Intuition" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L400].
+From the second trauma layer, the Fragmentierungsnacht: „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435].
+His somatics are the reader's in KW1: „Lex' Hypoventilation als Default-Modus. Brust eng, Schultern hoch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L473]
+His voice in Akt I: „Lex hypotaktisch, Nyx stakkato, Kiko kindlich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L765]
