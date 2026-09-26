@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -34,7 +34,9 @@ The konsolidiertes Konzept and the Kapitel-Kompendium give Landauer *heat* befor
 and after the lock; „Kernwelten vollständig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L11] applies the rule in KW1 and keeps
 Landauer warmth for the transition out of it. The worldbuilding concept, of the
 konsolidiertes Konzept's date, states no rule and gives heat and ozone as one
-Landauer trace of AEGIS' erasure (its L82, L759). [[landauer-signatur]] has each
+Landauer trace of AEGIS' erasure (its L82, L759). The philosophy catalogue,
+after the lock, keeps the lock's warmth for Juna and has no cold: Landauer is
+„Hitze und Ozon" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9]. [[landauer-signatur]] has each
 reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
@@ -130,3 +132,10 @@ No rule is stated: `Polarität` stands 0 times, no line joins ozone to cold, and
 `Wärme` stands on three lines (L41, L813, L817). Beside the physics answer, one is a possible anchor for Kael in the Vortex's silence — „Ein einziger sensorischer Anker bleibt (Hand-Wärme oder Lichtpunkt oder Geschmack der eigenen Tränen — einer)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L813] — and one is Beat 4's: „Landauer-Wärme spiked unmöglich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L817]
 Cold and warmth are the worlds' registers, not signatures: KW1 has „Kühle Farben (Blau, Grau, Weiß)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L461] and „Ebene 1 — kalt, steril, assertorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L477]; KW2 „Ebene 2 — heiß, fragmentiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L520]; KW4 „Warmes, dynamisches Licht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L590]
 Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by what it states (J62). C11.
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Juna's warmth without AEGIS' cold
+
+No rule is stated, and nothing is cold: `Polarität`, `kalt`, `kaltes` and `Kälte` stand 0 times (`05-verify-readers.txt`). Its two halves stand apart in it.
+Warmth is [[juna|Juna]]'s. Among what carries qualia (Chalmers, `[K]`): „Junas Wärme, Telefon-Stille als MI ohne Daten, Silas' Echo-Prosa: alles Qualia-Träger." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L375] How she is written (Wu Wei, `[K]`): „Juna wird nie als handelnde Figur geschrieben." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L445] „Ihre Wirkung erscheint als Veränderung im Umfeld — Wärme, die plötzlich da ist; Stille, die sich öffnet; eine Möglichkeit, die vorher nicht da war." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L445] And in the chapter table, Kap 3: „Anti-Phaenomena (Bruch des Filters, Wärme als Substrat-Spur)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L696], its function „Erste Juna-Andeutung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L697] — the storyform outline's warmth has its „Debüt Kap 3" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L64], above.
+Landauer is heat and ozone together, with no cold: „Landauer wird zu Hitze und Ozon, nie zu Gleichungen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9] AEGIS reads a „Temperatur-Spike" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L271] as a legitimate irritation — see [[landauer-signatur]].
+Dated 2026-06-10, eleven days after the lock of 2026-05-30. Placed here by what it states (J62). C11.
