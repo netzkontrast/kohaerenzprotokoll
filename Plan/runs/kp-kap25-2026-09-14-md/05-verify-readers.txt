@@ -1,0 +1,75 @@
+kael: grep -cw 'Kael' Sources/drive/kp-kap25-2026-09-14-md.md -> 5 (sed -n '52,$p' | grep -cw 'Kael' -> 0)
+kael: grep -cw 'Knöchel' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+kael: grep -cw 'Michael' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+aegis: grep -cw 'AEGIS' Sources/drive/kp-kap25-2026-09-14-md.md -> 3 (sed -n '52,$p' | grep -cw 'AEGIS' -> 0)
+aegis: grep -cw 'Apparat' Sources/drive/kp-kap25-2026-09-14-md.md -> 2 (sed -n '52,$p' | grep -cw 'Apparat' -> 0)
+aegis: grep -cw 'System' Sources/drive/kp-kap25-2026-09-14-md.md -> 1 (L75, prose)
+aegis: grep -cw 'Autonomous' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+aegis: grep -cw 'Person' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+aegis: grep -cw 'Do-er' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+aegis: grep -cw 'Be-er' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+aegis: grep -cw 'Ozon' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+alters: grep -cw 'Alter' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+alters: grep -cw 'Alters' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+alters: grep -cw 'Anteil' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+alters: grep -cw 'DID' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+alters: grep -cw 'Schleier' Sources/drive/kp-kap25-2026-09-14-md.md -> 1 (sed -n '52,$p' | grep -cw 'Schleier' -> 0)
+alters: grep -cw 'Kael' Sources/drive/kp-kap25-2026-09-14-md.md -> 5 (sed -n '52,$p' | grep -cw 'Kael' -> 0)
+alters: grep -cw 'Lex' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Lex' -> 0)
+alters: grep -cw 'Alex' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Alex' -> 0)
+alters: grep -cw 'Rhys' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Rhys' -> 0)
+alters: grep -cw 'Selene' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Selene' -> 0)
+alters: grep -cw 'Nyx' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Nyx' -> 0)
+alters: grep -cw 'Kiko' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Kiko' -> 0)
+alters: grep -cw 'Lia' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Lia' -> 0)
+alters: grep -cw 'Isabelle' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Isabelle' -> 0)
+alters: grep -cw 'Moros' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Moros' -> 0)
+alters: grep -cw 'Argus' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Argus' -> 0)
+alters: grep -cw 'Silas' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Silas' -> 0)
+alters: grep -cw 'Oblivion' Sources/drive/kp-kap25-2026-09-14-md.md -> 0 (sed -n '52,$p' | grep -cw 'Oblivion' -> 0)
+alters: grep -cw 'wir' Sources/drive/kp-kap25-2026-09-14-md.md -> 1 (L119, the italic line)
+alters: grep -cw 'Juna' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+komponente-734: grep -cw 'Komponente' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+komponente-734: grep -c '734' Sources/drive/kp-kap25-2026-09-14-md.md -> 5 lines (L48, L56, L79, L211, L217); grep -o '734' | wc -l -> 6
+komponente-734: grep -nw 'Einheit' Sources/drive/kp-kap25-2026-09-14-md.md -> L93, L125, L185, L227 (workers), L269 (the dwelling); 'EINHEIT' L217
+komponente-734: grep -cw 'Trennungsprotokoll' Sources/drive/kp-kap25-2026-09-14-md.md -> 0; grep -cw 'Genesis' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+kaels-wohneinheit: grep -cw 'KW1' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+kaels-wohneinheit: grep -cw 'Konstrukt-Stadt' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+kaels-wohneinheit: grep -nw '734' Sources/drive/kp-kap25-2026-09-14-md.md | cut -d: -f1 -> 48 56 79 211 217 
+konstrukt-stadt: grep -cw 'Konstrukt-Stadt' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+konstrukt-stadt: grep -cw 'Stadt' Sources/drive/kp-kap25-2026-09-14-md.md -> 2
+konstrukt-stadt: grep -cw 'KW1' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+konstrukt-stadt: grep -cw 'KW3' Sources/drive/kp-kap25-2026-09-14-md.md -> 1
+konstrukt-stadt: grep -cw 'Delta-Sieben' Sources/drive/kp-kap25-2026-09-14-md.md -> 2
+konstrukt-stadt: grep -nw 'Stadt' Sources/drive/kp-kap25-2026-09-14-md.md | cut -d: -f1 -> 125 197 
+kern-welten: grep -nw 'KW3' Sources/drive/kp-kap25-2026-09-14-md.md | cut -d: -f1 -> 48  (count 1)
+kern-welten: grep -nw 'Kernwelten' Sources/drive/kp-kap25-2026-09-14-md.md | cut -d: -f1 -> 48  (count 1)
+kern-welten: grep -nw 'Wartungsschächte' Sources/drive/kp-kap25-2026-09-14-md.md | cut -d: -f1 -> 48  (count 1)
+kern-welten: grep -nw 'Treppenkopf' Sources/drive/kp-kap25-2026-09-14-md.md | cut -d: -f1 -> 48  (count 1)
+kern-welten: grep -nw 'KW1' Sources/drive/kp-kap25-2026-09-14-md.md | cut -d: -f1 ->  (count 0)
+kern-welten: grep -nw 'Kernwelt' Sources/drive/kp-kap25-2026-09-14-md.md | cut -d: -f1 ->  (count 0)
+kern-welten: sed -n '52,$p' Sources/drive/kp-kap25-2026-09-14-md.md | grep -cw '734' -> 4
+kern-welten: grep -nw '734' Sources/drive/kp-kap25-2026-09-14-md.md | cut -d: -f1 -> 48 56 79 211 217 
+telefon-stille: grep -cw 'Telefon' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+telefon-stille: grep -cw 'Telefon-Stille' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+telefon-stille: grep -cw 'Telefonat' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+telefon-stille: grep -cw 'Anruf' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+telefon-stille: grep -cw 'Griffstück' Sources/drive/kp-kap25-2026-09-14-md.md -> 4
+telefon-stille: grep -cw 'Stille' Sources/drive/kp-kap25-2026-09-14-md.md -> 1
+hitze-polaritaetsregel: grep -cw 'Ozon' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'Hitze' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'Wärme' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'Landauer' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'Juna' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'warm' Sources/drive/kp-kap25-2026-09-14-md.md -> 1
+hitze-polaritaetsregel: grep -cw 'kalt' Sources/drive/kp-kap25-2026-09-14-md.md -> 1
+hitze-polaritaetsregel: grep -cw 'kühler' Sources/drive/kp-kap25-2026-09-14-md.md -> 2
+kap-25: sed -n '52,$p' Sources/drive/kp-kap25-2026-09-14-md.md | grep -c '^\\---$' -> 7
+kap-25: sed -n '52,$p' Sources/drive/kp-kap25-2026-09-14-md.md | grep -c '734' -> 4
+kap-25: grep -cw 'Adresse' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+kap-25: grep -cw 'Name' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+c9: grep -cw 'Logos-Prime' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+c9: grep -cw 'Stadt' Sources/drive/kp-kap25-2026-09-14-md.md -> 2
+c14: grep -cw 'Innensicht' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+c14: grep -cw 'Hard-B' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
+c14: grep -cw 'Person' Sources/drive/kp-kap25-2026-09-14-md.md -> 0
