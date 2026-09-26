@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 22
+sources: 23
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -261,3 +261,12 @@ From the canon it ranks „Repo (normativ/" ^[2026-09-14-kap25-vertiefung-md.md:
 Its self-review against the drafting rules it attributes to the drafting manual: „R-5 kaltes Ozon nur in der Abmeldeszene, Wärme dort nicht; Wärmespur nur als Rückverweis" ^[2026-09-14-kap25-vertiefung-md.md:L47] — „die vier Abende" ^[2026-09-14-kap25-vertiefung-md.md:L47] — „in einer ozonfreien Szene" ^[2026-09-14-kap25-vertiefung-md.md:L47].
 Whose warmth it does not say: `Juna` stands once, in „R-10 Juna nie Subjekt, nie Name, nie Körper, nie Stimme" ^[2026-09-14-kap25-vertiefung-md.md:L47]. `Landauer`, `warm`, `Kap 6` and `Kap 36` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`).
 Row 2's rendering applied to a chapter of a manuscript: cold ozone and warmth never in one scene. It names no Landauer trace, so row 1's warmth in Kap 6 and Kap 36 is neither held nor denied; the conflict stays open.
+
+## 2026-09-26 — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file
+
+**Sharp, electric air at the sign-off with no word for ozone, cooler air at the node and the stair, and warmth only in a line of the counter-register — no Landauer, no heat.**
+At the sign-off, the first person, after the system's „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[kp-kap25-2026-09-14-md.md:L217]: „Die Luft an der Station riecht für einen Moment scharf und elektrisch, wie an den Tagen, an denen etwas bereinigt wird" ^[kp-kap25-2026-09-14-md.md:L221]. That the smell belongs to days of cleansing is the text's; that it is ozone, and cold, is a reading's identification.
+Cool: „Meine Hände sind kalt." ^[kp-kap25-2026-09-14-md.md:L85] „der Knoten ist am Nordende immer kühler" ^[kp-kap25-2026-09-14-md.md:L85]; at the stair to the maintenance level, „Sie ist kühler." ^[kp-kap25-2026-09-14-md.md:L247] „Sie ist nicht einundzwanzig Grad; sie ist das, was einundzwanzig Grad sind, wenn niemand sie hält." ^[kp-kap25-2026-09-14-md.md:L247]
+Warmth once, in italics, a line of the counter-register the item contains — the register's, not the narrator's: „Fenster 03, Luft warm, Konsole 21,0." ^[kp-kap25-2026-09-14-md.md:L69]
+`Landauer`, `Hitze`, `Wärme` and `Ozon` stand 0 times, `warm` once, `kalt` once, `kühler` on two lines (`05-verify.txt`).
+Nearest row 2, as far as it goes: an erasure's smell at the sign-off and no warmth in that scene, without the words ozone or cold. It names no Landauer trace and no Kap 6 or Kap 36, so row 1's warmth is neither held nor denied; the conflict stays open.
