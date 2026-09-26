@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -110,9 +110,17 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Characters: „Oblivion reicht in dieser Nacht drei Berichte ein, die Kael nie geschrieben hat (Idee 7; Z1-Bunker“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Fremderledigung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 6: „Kap 15–17 werden Lektüre-Kapitel mit Risiko statt Essay-Kapitel“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]
 
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — a Diktatur of Komplexität, and of physikalische Zeit
+
+A catalogue of the philosophical schools under the novel, labelled by section, not by passage (`[K]` kanonisch · `[V]` Vorschlag · `[S]` Steinbruch-gefiltert · `[L]` Lücke); each quotation names its section. Its chapter table, „§14.3 Kapitel ↔ Theorie-Anker (kanonisch belegt)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688], is three cells a chapter — chapter, theory, function — and carries no label. Its `[K]` is its claim, recorded and not applied.
+
+- Theory: „AEGIS kann die Welt nur halten, indem es Auflösung opfert (Kap 16 — Diktatur der Komplexität).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L335] · „Bekenstein erscheint am Detailrand. Welt wird unscharf, wo zu viel Information sein müsste.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L335] (§6.4 Bekenstein-Schranke, marked `[K]`)
+- Theory anchor: „P vs. NP (Komplexitätstheorie); „Diktatur der physikalischen Zeit"“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L705] · function „Auflösungsverlust durch Rechenkapazität“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L706] (§14.3)
+- Its text names the Diktatur `der Komplexität` and its table `der physikalischen Zeit`; it does not relate the two.
+
 ## Where the sources differ
 
-- **Title.** „Z1-Reaktion: Bunker reaktiv“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L611] (strukturierter Outline; „Z1-Bunker reaktiv“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L991] konsolidiertes Konzept, „Bunker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L566] Konzept-Iteration Genesis) · „Die Diktatur der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (Kapitel-Kompendium; so too storyform outline, and cited by the Plot-Konkretisierung). The storyform outline keeps the first as „(Zyklus-Funktion: Z1-Bunker reaktiv)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341] (storyform outline).
+- **Title.** „Z1-Reaktion: Bunker reaktiv“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L611] (strukturierter Outline; „Z1-Bunker reaktiv“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L991] konsolidiertes Konzept, „Bunker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L566] Konzept-Iteration Genesis) · „Die Diktatur der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (Kapitel-Kompendium; so too storyform outline, and cited by the Plot-Konkretisierung). The storyform outline keeps the first as „(Zyklus-Funktion: Z1-Bunker reaktiv)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341] (storyform outline). · „Kap 16 — Diktatur der Komplexität“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L335] in its text and „Diktatur der physikalischen Zeit“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L705] in its table (the philosophy catalogue) — the Kompendium's title, and the phrase the Kompendium gives as the chapter's theory.
 
 ## Questions for this chapter
 
