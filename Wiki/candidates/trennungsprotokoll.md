@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -176,3 +176,17 @@ A line with no speaker: „Sweep läuft. Sektor 4 leer. Sektor 5 leer. Sektor 6 
 A line with no speaker breaks in: „Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten." ^[koharenz-protokoll-kapitel-0-v2-md.md:L607]
 „Die Kohärenz, die das System sucht, ist mein Tod. Die Kälte der Logik ist die Klinge, die mich zerteilt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L611]
 It ends: „Ich falle… in unzählige Scherben…" ^[koharenz-protokoll-kapitel-0-v2-md.md:L627] No remainder is named; after a last rule an Ich the document does not name counts „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — told twice: AEGIS' self-amputation and Kael's Fragmentierungsnacht
+
+**In the [[genesis|Genesis]], beat 2 of three.** „Beat 2 — Trennungsprotokoll. Eine traumatische Resonanz mit etwas Fremdem" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179] — „eine transzendente Anomalie — die Begegnung mit Juna, mit dem, was sich später als atemporales Coheron entpuppt" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179].
+„Aus Panik führt es ein algorithmisches Selbstamputat aus: das Trennungsprotokoll." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179] „Das fühlende Ich wird gespalten. Das Denken wird gerettet, indem das Fühlen ausgelagert wird." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179]
+Beat 3 follows from it, [[komponente-734|Komponente 734]], and with it AEGIS' second act: „AEGIS hat dabei nicht nur das Ursprungs-Ich gespalten — es hat sich gleichzeitig selbst als Wächter über den eigenen abgespaltenen Teil etabliert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
+
+**In [[kael|Kael]]'s double trauma, the second layer.** „Schicht 2 — Der Bruch (Fragmentierungsnacht):" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] „AEGIS liest die massive Fluktuation aus Schicht 1 als" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] „fatale System-Entropie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] „und führt das Trennungsprotokoll aus." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]
+„Es spaltet das Ursprungs-Ich (Juna) ab und verbannt es ins Nichts-Rauschen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]. „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]
+The reader learns it late: „Der Leser erfährt nur die erste in Akt I; die zweite enthüllt sich erst in KW2/KW3 (Akt II)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L427] Its lesson: „Das eigentliche Trauma ist nicht das, was geschah, sondern was danach getan wurde" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L439].
+
+So in the Genesis the feeling self is split and what remains grows into Kael; in the Fragmentierungsnacht the Ursprungs-Ich split off is [[juna|Juna]], and Kael is one of what arises. The document uses the word on these two lines only (`Trennungsprotokoll` 2, `05-verify-readers.txt`) and does not relate the two tellings (J68, the glossary's same gloss; C12).
+The inversion puts the separation itself on the wrong side of AEGIS' ledger — „Trennung ist die Krankheit" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L78] — and the end principle: „Die Trennung war nie real. Aber das ändert nichts am Schmerz." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41]
+It is not one of the three protocols the reset keeps (L209–L215). The eponymous one is another: „Kohärenzprotokoll — interne Konsistenz-Erzwingung. Das ist der eponymische Algorithmus des Romantitels" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L214]. The Kap-0 drafts call the Trennungsprotokoll by that name; this document keeps them apart and does not say how they relate.
