@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -125,3 +125,9 @@ Its boundary, marked open: „Boundary Conditions (offen, Appendix C):" ^[worldb
 „Übertragbar: mutuale Information, atemporale Resonanz, Zeugenschaft" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L334]; „Nicht übertragbar: materielle Daten, klassische Nachrichten, Rettungsaktionen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L335]; „Beobachtbar nur durch K₀-blinde Seiten — Silas spürt es, AEGIS sieht es nicht" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L336].
 Restated among its open points: „Moonshine-Link-Boundary. Vorgeschlagen: nur MI/Witness, keine Daten/Materie. Final-Lock-In offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L891]
 Storyform A's relationship story: „Physics in A (Moonshine-Link als physische Anstrengung — wo Kael und Juna sich materiell treffen)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L952]. It names no chapter for the link (`05-verify-readers.txt`).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — entanglement as a kin, never a theory in the text
+
+Its section heading: „Bell, Verschränkung, Nichtlokalität [K] (implizit)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L509]. The function is one word, „Moonshine-Link." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510], and then: „Die nicht-lokale Verbindung Kael↔Juna ist mit Quantenverschränkung verwandt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510] „Witness-Funktion Layer 1 (Quanten-Verschränkungs-Witness) verifiziert nicht-lokale Verbindungen über Erasure-Felder hinweg." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510]
+For the prose: „Verschränkung erscheint als Resonanz ohne sichtbare Verbindung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L513] „Telefon-Stille als MI ohne Daten ist das prototypische Bild." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L513]
+That is the only time it names the link (`grep -cw Moonshine-Link` 1, `05-verify-readers.txt`) — no VOA, no boundary. Its Polanyi section (`[K]`) places a „Kael-Juna-Verbindung durchgängig" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L420] and „Kap 30 (K-J-Kanal stabil)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L420] without calling either the Moonshine-Link.
