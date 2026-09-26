@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -216,3 +216,10 @@ The Erasure-Pol is the `Löschungs-Exekutive` (L509). Whether the two are whole 
 
 **Sub-antagonists in B's overall story, once.**
 Kap 32, „Tests, Allies, Enemies — Systemkampf" ^[three-mode-architecture-39-chapters-md.md:L337]: „OS-Physics: Guardians als Sub-Antagonisten" ^[three-mode-architecture-39-chapters-md.md:L337]. Under AEGIS in its storyform, against Kael; neither components nor peers are said.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Components — the two [[guardians|Guardians]] in AEGIS' architecture and its engine room.**
+They are listed under „III.2 Architektur (post-Reset, kanonisch)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L190], in the part on [[aegis|AEGIS]]. The [[ueberwelt|Überwelt]] is AEGIS' operating space: „Hier residieren die zwei Guardians als abstrakte Entitäten" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L628], with a „Wächter-Registry — operative Verwaltung der zwei Guardians." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L645] In Storyform B's overall story they are AEGIS' side: „Physics in B (kybernetischer Krieg, drei Protokolle, zwei Guardians)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L951].
+Whether each is whole is its open point: „vollständige Algorithmen oder interne Spaltung?" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L894]
+The konsolidiertes Konzept's answer, components, in its words on its date; how the author's five would sit in this architecture it cannot say.
