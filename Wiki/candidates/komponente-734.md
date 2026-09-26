@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
 gathered: "2026-09-25"
 ---
 
@@ -12,7 +12,7 @@ gathered: "2026-09-25"
 
 **The function unit the original self becomes in the [[genesis|Genesis]], and out
 of which [[kael|Kael]] grows; inside the simulation, Kael's designation.** Also
-written `Komp 734` (J92). The sources that name Kael agree that the component becomes
+written `Komp 734` (J92). The sources that name both Kael and the component agree that the component becomes
 him; the narrative text of Kap 0 of 2026-05-17 names neither Kael nor 734 and so takes
 no side. They
 differ on when it is made, before the [[trennungsprotokoll|Trennungsprotokoll]] or
@@ -187,6 +187,15 @@ A log of one drafting run on a manuscript's Kap 25; it does not contain the chap
 As a world anchor the log says the canon sets for Kap 25, redeemed by the new stair scene: „(KW3, Wartungsschächte, Anker 734 dritte Wiederkehr)" ^[2026-09-14-kap25-vertiefung-md.md:L23].
 As a designation in the chapter: the apparatus registers the deviation without acting, „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[2026-09-14-kap25-vertiefung-md.md:L22] — a directive about a processing profile, the worker's, whose refusal the scene reports; it is what the log says answers Canon §5's „AEGIS bemerkt Kaels neue Klarheit" ^[2026-09-14-kap25-vertiefung-md.md:L22]. Whether `EINHEIT 734` is the component, the dwelling or both the log does not say (J80), and the third `734` is the dwelling's, „Wohneinheit 734" ^[2026-09-14-kap25-vertiefung-md.md:L60] ([[kaels-wohneinheit]]).
 
+## Reading — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file — a shift, a processing profile, a dwelling, and an anchor, never the component
+
+A chapter file of Kap 25 `Wegkreuzung` — research, by the author's word, not text for the novel. It never writes `Komponente`; `734` stands six times on five lines (`05-verify-readers.txt`), and each passage states its own referent (J80). None is merged here, and the document relates none of them to the component.
+**The dwelling** ([[kaels-wohneinheit]], J50): the item's header, „BESTAND 734-A-0244. WOHNEINHEIT 734, NOTIZFLÄCHE, INHALTSERFASSUNG.“ ^[kp-kap25-2026-09-14-md.md:L56], and its capture line, „Erfassung im Rahmen der Wartung Notizfläche, Wohneinheit 734.“ ^[kp-kap25-2026-09-14-md.md:L79]
+**The worker's shift**, closed by the Ich at logout: „SCHICHT 734 ABGESCHLOSSEN. ÜBERTRAG: 31.“ ^[kp-kap25-2026-09-14-md.md:L211]
+**The worker's processing profile**: „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME.“ ^[kp-kap25-2026-09-14-md.md:L217] The prose's `Einheit` names workers — „Eine Einheit, die an einem Bestand sitzt, sitzt an einem Bestand.“ ^[kp-kap25-2026-09-14-md.md:L93] — and once the dwelling, „In der Einheit schlage ich das Register nicht auf.“ ^[kp-kap25-2026-09-14-md.md:L269]; so the word does not decide, and the passage, a processing profile, states the worker.
+**The anchor**, in the apparatus's hidden note, as its claim about another document: „Canon-Kernwelten §12: Kap 25 = KW3, Wartungsschächte, Anker 734 dritte Wiederkehr“ ^[kp-kap25-2026-09-14-md.md:L48].
+That the worker is Kael is the apparatus's identification (`Kael` 0 in the prose, `05-verify.txt`). It names no Genesis and no Trennungsprotokoll (0 each, `05-verify-readers.txt`), so it takes no side in C12.
+
 ## Where the sources differ
 
 **When the component is made (C12).** Before the separation, in beat 2: the
@@ -222,7 +231,9 @@ proposal).
   component (L180), and names no console line. The strukturierter Outline has
   Kael suspect in Kap 25 that the number is „eine Adresse oder ein Name“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L837]. The
   Plot-Konkretisierung proposes that the two coincide, marked `[V]` (L88). Which one
-  the line names, or whether the ambiguity is intended, is not decided here.
+  the line names, or whether the ambiguity is intended, is not decided here. The
+  Kap-25 chapter file puts `WOHNEINHEIT 734` on the dwelling and `EINHEIT 734` on a
+  processing profile, the worker's (its L56, L217), and relates neither to the component.
 - Whether the Charakter-Kompilation's Lex attribution is a position or a slip. No
   record holds it.
 - Whether the number is named in the Kap-0 prose. The draft and the drafting
