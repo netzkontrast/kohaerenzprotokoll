@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-17"
 ---
 
@@ -146,3 +146,12 @@ What it restores is less than it had: „Das Ziel war die Wiederherstellung eine
 In the fragment's Ich, as the cut runs: „Die Kohärenz, die das System sucht, ist mein Tod." ^[koharenz-protokoll-kapitel-0-v2-md.md:L611]
 The document is headed `Kohärenz Protokoll` (L11). It names no figure of the novel
 (`05-verify.txt`): the system that keeps coherence and the fragment it cuts go unnamed.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — AEGIS' belief, a truth theory, and what reading makes
+
+**What AEGIS believes itself to be.** „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33] And what its equation does not measure: „Was AEGIS nicht begreift: η misst nicht Kohärenz, sondern den Grad der Verdrängung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L94] ([[persistenzgleichung|Persistenzgleichung]]). Consciousness, between the two kernels, is „die subjektive Signatur der Kohärenz" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L63], in the document's own quotation marks.
+
+**A truth theory.** „Der zentrale philosophische Konflikt ist die Spannung zwischen Korrespondenz- und Kohärenztheorie der Wahrheit" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L713], and „AEGIS repräsentiert die Kohärenztheorie — Wahrheit als interne Konsistenz, widerspruchsfreie Eingliederung ins System." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L717]
+
+**The protocol, and the novel.** The second of AEGIS' three protocols is „Kohärenzprotokoll — interne Konsistenz-Erzwingung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L214] „Das ist der eponymische Algorithmus des Romantitels — und der tragische Misnomer" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L214]: „AEGIS' Kohärenzprotokoll ist Entropie-Erzeugung; Kaels Heilung ist das eigentliche Kohärenzprotokoll." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L214] The reader does it too: „Die Erzählung selbst ist Kohärenzprotokoll — nicht durch Lehre, sondern durch Form." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L775] — „der Akt des Lesens erzeugt die Kohärenz, die der Roman beschreibt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L785] The protocol stays its own term (J57).
+In the binding log format it is a percentage in the line on Kael's system (L235).
