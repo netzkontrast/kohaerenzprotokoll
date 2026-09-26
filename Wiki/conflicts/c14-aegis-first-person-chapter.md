@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 16
+sources: 17
 pages: ["aegis"]
 ---
 
@@ -131,3 +131,11 @@ The Genesis is told by an Ich: „Ich bin dieses Rauschen.“ ^[koharenz-protoko
 „AEGIS und die zwei Guardians sprechen in 3. Person (Logs/Protokolle, keine subjektive Innensicht)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L415] Among its mandates: „AEGIS spricht nur in Logs." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L916]
 One point of view it leaves open, in the [[vortex|Vortex]]: „POV-Frage: ist Beat 1 dritte Person AEGIS, oder erste Person eines Alter-Clusters?" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L805] — a first person for an alter cluster, not for AEGIS. No chapter in Kap 5–8 is named (`Ch5`–`Ch8` 0).
 Row 2's side, in row 2's words, on its date.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**Logs as AEGIS' voice throughout — no chapter of its own, no inner view, no first person.**
+Under §1.1, labelled `[K]`: „KW1 als Architektur, AEGIS-Logs als Stimme, das gesamte Suppressionsprotokoll als Praxis." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L45]; „AEGIS' Sprache hat keine externe Referenz, nur interne Konsistenz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L42] Under §5.1 `[K]`: „AEGIS' Tragik ist eine Folge seiner Autopoiesis: es kann sich nicht selbst korrigieren, weil es keine Außenperspektive auf sich hat." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L263] Under §7.2 `[K]`: „AEGIS-Logs sind syntaktisch perfekt, semantisch leer." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L386]
+Whether AEGIS is conscious it leaves open on purpose: „Die Frage ist im Roman bewusst ambivalent." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L395]
+`Kap 5`, `Kap 7`, `Kap 8`, `Hard-B`, `Innensicht` and `POV` stand 0 times; its Kap 6 is the Semantische Firewall (L700); `ich` stands once, of Kael (L581).
+Row 2's side — logs, no inner view — dated after the lock of 2026-05-30 and without its exception, like rows 5 and 7. The conflict stays open.
