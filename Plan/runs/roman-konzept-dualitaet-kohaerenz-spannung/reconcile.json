@@ -1,0 +1,543 @@
+{
+  "document": "roman-konzept-dualitaet-kohaerenz-spannung",
+  "drive_id": "1raQliuqvERbOa7SnY49vkBWR0ELgtOWzjF8U5S7bFgg",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of three whole-novel plans reconciled together (documents 41–43) — readings and record entries written by Claude readers split by page group from the document's readings-brief.md (Kap 1–39 of document 41 and the alters by readers who were stopped by a usage limit, the rest by Sonnet readers), each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 203,
+    "decisions": 208,
+    "decided_by_lookup": 135,
+    "needs_judgement": 73
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A whole-novel plan and a report to the author: its four worlds, figures and physics have pages. Its four alters with no page — Limina, Eos, Praetor, Nox — are named on alters and Q3; every science a chapter visualises is that chapter's reading.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        45,
+        77,
+        131,
+        137,
+        139
+      ],
+      "attribution": "",
+      "note": "an externalised Täterintrojekt, Kael's own system, giving up the fight in Kapitel 38"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        67
+      ],
+      "attribution": "",
+      "note": "a single switch, tactically searching a frozen room"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        33,
+        40,
+        41,
+        42,
+        43,
+        67,
+        93,
+        95,
+        117,
+        123,
+        129
+      ],
+      "attribution": "",
+      "note": "eleven, four worlds, and a Wir-Geflecht that is explicitly not fusion"
+    },
+    {
+      "page": "archiv-der-grenzen",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "the exact chapter title, and the oldest read source to give it"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        77
+      ],
+      "attribution": "",
+      "note": "a chapter titled with the term, and two bearers named in one sentence"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        42,
+        107
+      ],
+      "attribution": "",
+      "note": "KW3's Guardian, offering the Big Freeze through drones"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        95
+      ],
+      "attribution": "",
+      "note": "`roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26"
+    },
+    {
+      "page": "datenverarbeitungsknoten-7g",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "named `Datenknotenpunkt Gamma-7`, the second stop of Kael's day"
+    },
+    {
+      "page": "did",
+      "lines": [
+        31,
+        83
+      ],
+      "attribution": "",
+      "note": "tertiary dissociation, TSDP and IFS combined, and the word for Teil II's turn"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "the physics as prose style"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        15,
+        17,
+        19,
+        27,
+        123,
+        137,
+        139
+      ],
+      "attribution": "",
+      "note": "AEGIS erases it, a universe needs it, and fighting it makes the heat that hurts AEGIS"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "KW3's own name, a defensive world of Firefighters and Exiles"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        40,
+        41,
+        42,
+        43,
+        85,
+        107,
+        119
+      ],
+      "attribution": "",
+      "note": "a Guardian per world, named `Zuständiger Guardian`"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        77,
+        107
+      ],
+      "attribution": "",
+      "note": "Juna's warmth against LogOS' cold ticking, Cerberus' cold precision named the Wärmetod"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        93
+      ],
+      "attribution": "",
+      "note": "a whole sector held by cruel dominance, as her own defence"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        43,
+        59,
+        77,
+        101,
+        109,
+        127,
+        129,
+        137
+      ],
+      "attribution": "",
+      "note": "an alter, a flicker, a shared blindness, and finally the essence between the parts"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        25,
+        55,
+        61,
+        71,
+        83,
+        121,
+        123,
+        131
+      ],
+      "attribution": "",
+      "note": "the ANP who wakes, bleeds twice and ends the fight by refusing to calculate"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "where the novel begins, right after the reset"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        43,
+        119
+      ],
+      "attribution": "",
+      "note": "one of two Guardians of KW4, named with `&`"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        33,
+        40,
+        41,
+        42,
+        43,
+        45,
+        55,
+        79,
+        85,
+        119
+      ],
+      "attribution": "",
+      "note": "four Kernwelten, one Guardian each, and where each chapter lands"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        43,
+        69,
+        95,
+        97,
+        123
+      ],
+      "attribution": "",
+      "note": "Kind/Flucht of Möglichkeits-Garten, a flashback of her crying, and the black-hole rescue that saves her"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        45,
+        53
+      ],
+      "attribution": "",
+      "note": "the dominant kernel of AEGIS' worlds, plain digit"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        45,
+        121
+      ],
+      "attribution": "",
+      "note": "what breaks through, plain digit, and calm at the Vortex-like collapse"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        27,
+        40,
+        55,
+        57
+      ],
+      "attribution": "",
+      "note": "KW1, as decided, and the novel's starting point"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        27,
+        59,
+        137
+      ],
+      "attribution": "",
+      "note": "digital waste heat and burnt ozone from AEGIS' erasure, cold neon warming at the end"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        40,
+        61,
+        89,
+        123
+      ],
+      "attribution": "",
+      "note": "the analytic ANP of Konstrukt-Stadt, defeated by Ashby's Law, one voice among eleven"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "KW1's Guardian, `Rationalismus`"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        41,
+        85
+      ],
+      "attribution": "",
+      "note": "KW2's Guardian, and the overseer of a traumatic dream-world"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        43,
+        119,
+        123
+      ],
+      "attribution": "",
+      "note": "KW4's own name, and the two Guardians who fail to hold Kael in it"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        145
+      ],
+      "attribution": "",
+      "note": "the Monstrous Moonshine of human resonance, named once, at the close"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        87,
+        117
+      ],
+      "attribution": "",
+      "note": "the collapse Kael is shown, then embraces"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        127,
+        129
+      ],
+      "attribution": "",
+      "note": "Kapitel 34's own title, and a third sense: what the fusion and the saved information together form"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        123,
+        129
+      ],
+      "attribution": "",
+      "note": "Kapitel 31: a Wir-Geflecht, not a fusion, with a polyphonic voice"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        63
+      ],
+      "attribution": "",
+      "note": "AEGIS' cover for a different failure: the Halting Problem, not what it mistakes for chaos"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        42,
+        71,
+        103,
+        123
+      ],
+      "attribution": "",
+      "note": "Kampf-EP of Grenzfeste, taking over against Cerberus, breaking out for Kiko, her blood a warmth rather than an injury"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "Kollaps of Möglichkeits-Garten, named only in the table"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        41,
+        79,
+        85
+      ],
+      "attribution": "",
+      "note": "KW2 by name, a foggy non-linear dream-world, and Kael's forced transfer"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        41,
+        95
+      ],
+      "attribution": "",
+      "note": "the Pfleger-ANP, gently intervening for Kiko, against the table's own assignment of that role"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        27,
+        57,
+        67,
+        129,
+        133
+      ],
+      "attribution": "",
+      "note": "Landauer's manifestation from Kapitel 3, a system flaw the city carries silently, and gold in the scars at the end"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "where Kael is called to a Gödelian staircase"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "Pfleger of Resonanz-Landschaft, a role Rhys also carries in the same document"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        43,
+        119
+      ],
+      "attribution": "",
+      "note": "one of two Guardians of KW4, named with `&`, and never separated"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        25,
+        31,
+        33
+      ],
+      "attribution": "",
+      "note": "`roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      15,
+      45,
+      49,
+      51,
+      81,
+      111
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C9",
+    "C10",
+    "C11",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [
+    "J109"
+  ],
+  "decided_by_existing_rules": "J109 (Datenknotenpunkt Gamma-7), J50 (the Wohneinheit), J97 (Chaitins Konstante), J9 (chapter titles, among them „Der blinde Fleck des Rationalismus“), J108, J56/J23, J60, J62, J98/J99, J51",
+  "not_promoted": [
+    "Limina, Eos, Praetor, Nox — L40–L42, alters with no page, on alters and Q3",
+    "the chapters' borrowed science (Kachelproblem, Halteproblem, Page-Wootters, Russell, Neutrino-Boden, Replica Wormholes …) — on the chapter pages",
+    "Spiegel-Effekt — L19, L133, on kap-36",
+    "AEGIS-Systembericht, Zielkohärenz — L139, on kap-39 and C14"
+  ],
+  "internal_tension": "Eleven alters in its table (L33) and fifteen names in its chapters; Silas „(Pfleger)“ in the table and Rhys „der Pfleger-ANP“ in Kapitel 19 (L95); the KW4 row a „Ort der potenziellen Integration und Fusion“ (L43) and Kapitel 31 „keine magische Fusion“ (L123); Juna an alter in the table (L43) and, in Kapitel 26, the relation between the parts (L109); Kael in Kapitel 35 the system AEGIS itself (L131).",
+  "scan": "one of the ten documents of the 2026-09-25 scan: its readings on tsdp, chaitin-konstante and residual-echos were checked and now name this reconciliation",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 40–43: PageRank recall@8 0.644 → 0.660, C11 0.4 → 0.6 and C4 0.444 → 0.556; seeds unchanged at 0.466"
+}

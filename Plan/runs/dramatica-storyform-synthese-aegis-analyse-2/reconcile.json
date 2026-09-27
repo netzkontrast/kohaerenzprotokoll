@@ -477,5 +477,6 @@
   ],
   "internal_tension": "LogOS a Guardian (L181) and a Subroutine (L255); the Mnemosyne-Archipel inside the Konstrukt-Stadt's sectors at the Vortex (L276); the pivot a Driver-Flip (L33, L283) where the lock-in says not; Juna outside the quad in B, which a later source calls the rejected reading.",
   "census_corrected": "cold four times and Wärme once on its own (L91, L115, L117), found by a reader; the correction stands beside the claim",
-  "baseline_moved": false
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 40–43: PageRank recall@8 0.644 → 0.660, C11 0.4 → 0.6 and C4 0.444 → 0.556; seeds unchanged at 0.466"
 }
