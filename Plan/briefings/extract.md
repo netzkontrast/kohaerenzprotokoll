@@ -1,6 +1,6 @@
 ---
 step: extract
-version: 18
+version: 19
 covers_documents: 12
 new_findings_last_document: 1
 ---
@@ -113,6 +113,11 @@ wraps is judged by its first line alone.
   Beziehungs-Profil"? Only the last member is written whole; list what is
   written, and expect an expanded member to count zero.
 
+- Is the document written in another language — English prose with German terms in quotation marks?
+  List each name as the document writes it, the English one too (`Coherence Kernel (K1)`, `Separation
+  Protocol`); the census says which German names stand 0 times, so reconciliation places the English
+  one by the sentence and never takes it for a surface.
+
 **Boundaries — is one name wearing several things?**
 
 - Does one symbol or word carry more than one meaning here?
@@ -175,7 +180,9 @@ wraps is judged by its first line alone.
 - Is every candidate written as *this* document writes it? A `0 word 0 in` after
   a reading is a name that came from somewhere else — memory of another source is
   the easiest contamination to miss. A `## lens` section is where it slips in most easily: a
-  framework's name the document never writes. `grep -cw` each lens term before the count.
+  framework's name the document never writes. `grep -cw` each lens term before the count. Measured again on 2026-09-27: two of eight
+  lists carried a lens name the document writes only inside a longer word (`Tarski` for
+  `Tarski-Schema`, `Husserl` for `Husserlian`), because the step was skipped.
 
 **Export damage — what did the conversion do?**
 
