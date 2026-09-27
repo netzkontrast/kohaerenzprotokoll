@@ -1,0 +1,219 @@
+# reconcile-pre — dramatica-storyform-synthese-aegis-analyse-2
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  1 surface groups folded to one term first
+  200 candidates, 196 decisions — **158 by lookup, 38 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (20) — page exists, this document is not on it yet — a reading
+  AEGIS                                aegis
+  DKT                                  dkt
+  Kael                                 kael
+  Juna                                 juna
+  Truth-Rotation                       truth-rotation
+  TSDP                                 tsdp
+  funktionale Multiplizität            multiplizitaet
+  Algorithmische Melancholie           algorithmische-melancholie
+  Mnemosyne                            mnemosyne
+  Konstrukt-Stadt                      konstrukt-stadt
+  Sektor 04                            sektor-04
+  Mosaik-Herz                          mosaik-herz
+  Evaluierungseinheit                  evaluierungseinheit
+  Grenzfeste                           grenzfeste
+  Guardians                            guardians
+  LogOS                                logos
+  Cerberus                             cerberus
+  Moonshine-Link                       moonshine-link
+  Nexus                                nexus
+  Verschränkungs-Insel                 verschraenkungs-insel
+
+## new_term (138) — no page, no near match — a new page
+  Storyform B                          
+  Storyform A                          
+  Dual-Kernel Theory                   
+  Hypothese H1                         
+  Phoenix Collapse                     
+  Main Character                       
+  MC                                   
+  Objective Story                      
+  OS                                   
+  Informational Heat Death             
+  Heuristik der Integration            
+  Phönix-Kollaps                       
+  Influence Character                  
+  IC                                   
+  lebenden Dialetheia                  
+  Mutual Information                   
+  Composite                            
+  Gödel-Satz                           
+  Orbifold-Konstruktion                
+  Leech Lattice                        
+  blinden Fleck                        
+  Erasure Kernel                       
+  Coherence Kernel                     
+  Kapitel 35–36                        
+  ANP/EP-Puffer                        
+  HAL 9000                             
+  Hypothesen-Baum                      
+  Hypothese H2                         
+  Auftraggeber-Hypothese               
+  Hypothese H3                         
+  Drittweg                             
+  Die Stimme des Systems               
+  Universe                             
+  Physics                              
+  Psychology                           
+  Steelmanning                         
+  Falsifikation                        
+  Per-Throughline-Encoding             
+  Szenen-Keim                          
+  Schlüssel-Bild                       
+  Block 4                              
+  Konflikt-Träger                      
+  Domain                               
+  Concern                              
+  Issue                                
+  Problem                              
+  Solution                             
+  Inertia                              
+  Change                               
+  Universal Reboot                     
+  Wartungsschacht                      
+  Subconscious                         
+  Be-er                                
+  Hubble-Volumen                       
+  Past                                 
+  Order                                
+  Chaos                                
+  Guardian-Protokolle                  
+  Kern-Server-Hub                      
+  Landauer-Hitze                       
+  Twisted Module                       
+  ZKP                                  
+  Zero-Knowledge Proof                 
+  lebende Paradoxie                    
+  ANP/EP-Buffering                     
+  Conceptualizing                      
+  State of Being                       
+  Sense of Self                        
+  Lernarchiv Theta-9                   
+  Möglichkeiten-Garten                 
+  Biosemantische Kopplung              
+  Obtaining                            
+  Planck-Barriere                      
+  Bruchzone                            
+  Doing                                
+  Monster-Mondschein-Muster            
+  Quantenverschränkung                 
+  Monstrous Moonshine                  
+  Host                                 
+  Conceiving                           
+  Phänomenalem Selbstmodell            
+  parakonsistente Logik                
+  Dialetheismus                        
+  Markov-Decke                         
+  Dynamics-Encoding                    
+  Driver A                             
+  Driver B                             
+  Decisions                            
+  Erasure-Sweeps                       
+  Limit A                              
+  Optionlock                           
+  Limit B                              
+  Timelock                             
+  Failure                              
+  Success                              
+  Beat 1                               
+  Convergence                          
+  Ozon                                 
+  Kühlaggregate                        
+  Beat 2                               
+  Driver-Flip                          
+  ANP/EP-Drop                          
+  Transinformation                     
+  Beat 3                               
+  lebende Dialetheia                   
+  Beat 4                               
+  Landauer-Grenzwert                   
+  Beat 5                               
+  Layer 1                              
+  Quantum Entanglement Witness         
+  Hermitian Witness                    
+  Layer 2                              
+  ZK-Verifier                          
+  Layer 3                              
+  Husserlian Disinterested Spectator   
+  Epoché                               
+  parakonsistente Proto-Bewusstheit    
+  Moonshine-Boundary                   
+  Foundation                           
+  Monstergruppe                        
+  Bedrock                              
+  Wächter-Zwiespalt-Soziopolitik       
+  Rebellen-Programme                   
+  Holarchie                            
+  Final Architecture Validation        
+  Contradiction Log                    
+  Query Expansion Log                  
+  K0-Singularität                      
+  Reflection History                   
+  Cross-Pollination Log                
+  Hypothesis Half-Life Audit           
+  K1/K0-Dualismus                      
+  K1                                   
+  K0                                   
+  Somatic Rulebook                     
+  Projekt-Kanon                        
+  Maturana                             
+  Varela                               
+
+## needs_judgement (38) — NEAR a known surface — one term or two?
+  Dramatica  /  Dramatica-Storyformen          near: each other
+  AEGIS  /  AEGIS-Throughline-Position         near: each other
+  AEGIS  /  Kael ↔ AEGIS                       near: each other
+  AEGIS  /  Post-Vortex-AEGIS-Status           near: each other
+  Landauer Heat Spike  /  Landauer Heat        near: each other
+  Landauer Heat Spike  /  Heat-Spike           near: each other
+  Kael  /  Kael ↔ AEGIS                        near: each other
+  Driver-Pivot  /  Pivot                       near: each other
+  Witness Function  /  Witness-Function-Operationalisierung near: each other
+  Deus ex Machina  /  Ex Machina               near: each other
+  Wahrheits-Rotation  /  Rotation              near: each other
+  Truth-Rotation  /  Rotation                  near: each other
+  Guardian-Sub-Agenten  /  Guardians           near: each other
+  Mnemosyne  /  Mnemosyne-Archipel             near: each other
+  Memory-Archive-Guardian  /  Memory           near: each other
+  Surviving Branch  /  Surviving-Branch Triangulation near: each other
+  Mind  /  Theory of Mind                      near: each other
+  Memory  /  User-Memory                       near: each other
+  LogOS  /  Kontrollzentrum der Subroutine LogOS near: each other
+  Bekenstein-Limits  /  Bekenstein             near: each other
+  Bekenstein-Schranke  /  Bekenstein           near: each other
+  Non-Accurate  /  Accurate                    near: each other
+  Control  /  Uncontrolled                     near: each other
+  Actions  /  Janetian Action Systems          near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  AEGIS-Throughline-Position                   near: aegis→aegis
+  Vortex-Inversions-Beat-Sheet                 near: vortex→vortex
+  Chaitin                                      near: chaitinkonstante→chaitin-konstante
+  Guardian-Sub-Agenten                         near: guardians→guardians
+  Trennungs-Protokolle                         near: trennungsprotokoll→trennungsprotokoll
+  Wohneinheit                                  near: kaelswohneinheit→kaels-wohneinheit, kaelswohneinheit10→kaels-wohneinheit
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  Kael ↔ AEGIS                                 near: aegis→aegis, kael→kael
+  Kontrollzentrum der Subroutine LogOS         near: logos→logos
+  Stille                                       near: gartenderstillenpraesenz→garten-der-stillen-praesenz, gartenderstillenprasenz→garten-der-stillen-praesenz, telefonstille→telefon-stille
+  Nichts-Rauschens                             near: nichtsrauschen→nichts-rauschen
+  Rotation                                     near: truthrotation→truth-rotation
+  Post-Vortex-AEGIS-Status                     near: aegis→aegis, vortex→vortex
+
+## in_document_not_in_census (5) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Alters                               alters                       L263
+  Entropie                             entropie                     L17
+  Kohärenz                             kohaerenz                    L11
+  Risse                                risse                        L115
+  Simulation                           ueberwelt                    L91
+

@@ -1487,3 +1487,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „Zero use of  **DKT (Dissoziative Kontroll-Technik)**  within the first 50 pages. The rifts must remain an ontological mystery, never a tactical tool for the protagonist.“ (L21); `Dual-Kernel` 0. Read sources give the same fifty-page rule for the Dual-Kernel-Theorie's vocabulary (the philosophischer Bericht, L29).
 
 **Result.** placed by the sentence: an acronym is identified by the expansion its sentence gives it (J60), so this is a different expansion of the surface, not a second name of the theory; the rule it states is the one read sources state for the DKT. Recorded on dkt as this document's expansion, merging nothing
+
+## J107 — Möglichkeiten-Garten / Möglichkeits-Garten
+
+**one-term** · dramatica-storyform-synthese-aegis-analyse-2 · 2026-09-27 · replay: `judgement`
+
+- **rule:** a compound's linking element (the Fugen-s, a plural -en or -n) is not a term boundary, as a case ending is not (J97)
+- **mechanised by:** `nothing`
+- **features:** linking-element, compound, place-name
+
+**Question.** is the Möglichkeiten-Garten the Möglichkeits-Garten the wiki pages?
+
+**What was done.** „Der zweite Raum ist der Möglichkeiten-Garten, ein Areal, in dem Wahrscheinlichkeiten vor ihrer Materialisierung visualisiert werden.“ (L187) — a room of the OS in Storyform A; `Möglichkeits-Garten` 0 in the document. The two differ only in the element joining the compound (plural -en against the linking -s).
+
+**Result.** one term: a reading on moeglichkeits-garten, about scale — here „ein Areal“, a place (C5); not mechanised, because fold() cannot tell a linking element from a different word
