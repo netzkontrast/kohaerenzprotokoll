@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C11, C15
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -262,3 +262,10 @@ What [[aegis|AEGIS]] sees (§5.2, `[K]`): „Wenn AEGIS auf Risse reagiert, reag
 A content for them, relayed (§6.7, `[S]`): „In einer früheren Outline ist" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355] „Russellsche Trümmer" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355] proposed as a Kap-8 image — „Reste früherer, kollabierter Simulationszyklen am Rand der Stadt" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355] — which it calls compatible: „Das ist mit dem aktuellen Kanon kompatibel als KW1→KW2-Übergangs-Phänomen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355] „Russell als Riss-Inhalt, nicht als Diskussionspunkt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L358] What that earlier outline says is the document's claim about it.
 For the reader, among Iser's devices (§11.1, `[K]`): „Kontradiktorische Fußnoten (Risse simulieren)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L529].
 It has no riss types, no EP trigger and no Flight, and no Re-Containment-Protokoll (`05-verify-readers.txt`) (C15).
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — riss scenes as bridges where K0 breaks into K1, Juna's seed in Akt I, and footnotes that simulate them
+
+**A riss scene is one of five bridge-scene types**, the scenes that carry both storyforms at once: „Strukturelle Risse in der Simulation sind ontologische Schnittstellen, an denen K0 in K1 einbricht." ^[dual-storyform-hintergruende-md.md:L307] K0 and K1 are the Kollaps- and the Kohärenz-Kernel (J98, J99).
+**In Akt I they carry Juna.** Kap 1–13, with bridges at „\~10% (sehr selten)" ^[dual-storyform-hintergruende-md.md:L333]: „Etablierung der Storyforms in ihrer reinen Form. Multiplizitäts-Schleier hält. Juna-Seed über Riss-Szenen." ^[dual-storyform-hintergruende-md.md:L333] Which riss scene falls in which chapter is left to later work: „welche Riss-Szene in welchem Kapitel" ^[dual-storyform-hintergruende-md.md:L436].
+**For the reader, footnotes simulate them.** In the phenomenological layer of the reader's work — „Erlebt die K0-Trauma als Desorientierung" ^[dual-storyform-hintergruende-md.md:L404] — the text forces it through „Widersprüchliche Fußnoten als simulierte Risse, Temporal Scrambling" ^[dual-storyform-hintergruende-md.md:L404].
+It gives no riss types and no EP triggers (`Flight` 0, `05-verify.txt`; `Riss-Typ` 0, `Re-Containment` 0, `05-verify-readers.txt`).

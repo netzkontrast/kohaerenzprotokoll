@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -73,3 +73,8 @@ The catalogue does not define the theory — it never writes its long name (`gre
 Its character table gives each figure a column „DKT-Korrelat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L618] beside its philosophical school — from [[kael|Kael]]'s „Hubble-Volumen / Big Rip" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L621] to [[aegis|AEGIS]]' „Erason-Architektur" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L660] and [[juna|Juna]]'s „Coheron / Zeit-Prinzip" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L666]; [[mnemosyne|Mnemosyne]]'s cell is a dash (L663).
 One of its open questions: „Ist Bohmsche Implizite Ordnung mit DKT kompatibel?" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L800] — „[V] — möglich, nicht verankert" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L801].
 The first of the three sentences it closes on as substrate of every scene: „Was AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L820], glossed „(Śūnyatā in DKT-Form)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L820].
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — the DKT-Kernparadoxon as the storyforms' mirror
+
+The background document does not state the theory: it never writes `Dual-Kernel`, and `DKT` stands on two lines, both naming its „DKT-Kernparadoxon“ ^[dual-storyform-hintergruende-md.md:L78] (`05-verify-readers.txt`). What it says is that the two storyforms mirror that paradox: „Die innere Mechanik der zwei Storyforms reflektiert das DKT-Kernparadoxon:“ ^[dual-storyform-hintergruende-md.md:L78] — „AEGIS glaubt K1 (Kohärenz-Wächter) zu sein. Es ist tatsächlich K0 (Kollaps-Operator).“ ^[dual-storyform-hintergruende-md.md:L82] „Storyform B ist die Lesart, in der AEGIS sich selbst korrekt versteht (oder zu verstehen glaubt).“ ^[dual-storyform-hintergruende-md.md:L86]
+It couples the two kernels to consciousness, dated to an audit phase of 2026-04-28 (its L60): „Die Setzung: Bewusstsein selbst ist ein **5D-Interferenzphänomen** zwischen K1 und K0.“ ^[dual-storyform-hintergruende-md.md:L60]

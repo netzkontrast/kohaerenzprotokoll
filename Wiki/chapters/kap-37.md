@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,17 @@ Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50
 - Storyform B: „— (B nicht mehr aktiv)" ^[three-mode-architecture-39-chapters-md.md:L342]
 - Leitmotif: „kristallisiertes Gewebe, neue Architektur" ^[three-mode-architecture-39-chapters-md.md:L342]
 
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — the Resolution begins: only A, B ended
+
+The document ranks itself: „Hierarchie für Konflikte: Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots.“ ^[dual-storyform-hintergruende-md.md:L29] Recorded, not applied.
+
+Position: „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „0% (nur A aktiv)“ ^[dual-storyform-hintergruende-md.md:L337]
+
+- Storyform: „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] · „Konsolidierung in der einzelnen verbliebenen Storyform.“ ^[dual-storyform-hintergruende-md.md:L337]
+- Open, AEGIS after the Vortex: „C.1 Post-Vortex-AEGIS-Status“ ^[dual-storyform-hintergruende-md.md:L425] — „Empfehlung pro Variante 1 + Spuren von 2.“ ^[dual-storyform-hintergruende-md.md:L425] · „Berührt: was nach Beat 5 in Kap 37–39 ist.“ ^[dual-storyform-hintergruende-md.md:L425]
+- Open, Oblivion: „Empfehlung: Oblivion übernimmt als interne Wachheit, die entscheidet statt löscht.“ ^[dual-storyform-hintergruende-md.md:L428] · „Berührt: A-Resolution Kap 37–39.“ ^[dual-storyform-hintergruende-md.md:L428] — both among the „Reset-Doc Appendix C-Punkte“ ^[dual-storyform-hintergruende-md.md:L423] the document restates.
+- No false victory: `trügerisch`, `Gärtner` and `Vortex 2` 0 times.
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Der Gärtner / Trügerischer Sieg“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1134]
@@ -123,6 +134,7 @@ Position: „Kap 37 | 37 | Der Gärtner als Sachbearbeiter“ ^[kp-plot-konkreti
 ## Where the sources differ
 
 - **World, within one document.** „KW4 (trügerische Pastorale)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L863] · „der trügerischen Pastorale Kap 37, die anders verortet ist“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L408] (both Kernwelten vollständig; the second in its KW4 section).
+- **False victory or Resolution.** „Phase C (Kap 37) — Trügerischer Sieg.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L902] · „B: scheinbar nicht aktiv, aber feine Echos des Rauschens.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034] (konsolidiertes Konzept) · „— (B nicht mehr aktiv)" ^[three-mode-architecture-39-chapters-md.md:L342] (the 39-chapter spec) · „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] (the Dual-Storyform background document), which names no false victory.
 
 ## Questions for this chapter
 

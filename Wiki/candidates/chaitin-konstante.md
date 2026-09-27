@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-25"
 ---
 
@@ -13,7 +13,8 @@ gathered: "2026-09-25"
 **A borrowed concept — Chaitin's halting probability Ω, a well-defined number no
 finite program can generate — which the 2026 sources apply to [[juna|Juna]]: she is
 real and cannot be modelled.** One earlier source applies it to [[kiko|Kiko]]'s weeping
-instead. Each source's use is below, attributed and unmerged.
+instead, and one 2026 source, the Dual-Storyform background document, drops it from the
+canonical architecture as not referred to in the text. Each source's use is below, attributed and unmerged.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26
 
@@ -49,6 +50,12 @@ It stands under „Juna ist kein Charakter im konventionellen Sinn, sondern eine
 Why AEGIS cannot model her is said once more, of her superposition: „Junas Doppelnatur als Narbe und Reparatur ist für AEGIS unmodellierbar." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L300] The constant is Juna's alone here; [[kiko|Kiko]] is never tied to it (`Chaitin` on L286 and L746 only, `05-verify-readers.txt`).
 Checked against the full document on 2026-09-26; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
 
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — dropped from the canonical architecture
+
+Once (`Chaitin` 1, `05-verify-readers.txt`), in its list of what fell away, which it takes „Aus Reset-Doc §10, hier mit Bezug zur Storyform-Architektur" ^[dual-storyform-hintergruende-md.md:L461] — its claim about the Reset-Doc, recorded and not applied:
+„VOA + Leech-Lattice + Orbifold + Monstergruppe + Chaitin Ω + 3-Layer-Witness als kanonische Architektur." ^[dual-storyform-hintergruende-md.md:L470] „Reduziert auf Witness-Funktion + Gödel-Eigenschaft. Optionales Hinterzimmer-Material; im Text nicht referenziert." ^[dual-storyform-hintergruende-md.md:L470] „Berührt IC-Operationalisierung in beiden Storyforms." ^[dual-storyform-hintergruende-md.md:L470]
+So the constant is not canonical architecture, stays as optional background, and is not referred to in the text. It does not tie it to Juna by name; the IC position it touches is Juna's in A and, by its audit correction, Kael's in B (its L249–L250). The irreducibility the konsolidiertes Konzept gives the constant — „Junas Algorithmus-Irreduzibilität" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L193] — this document's glossary gives to the Witness-Funktion under another name: „Algorithmisch irreduzibel für AEGIS (Gödel-Eigenschaft)." ^[dual-storyform-hintergruende-md.md:L489]
+
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 A glossary entry, marked `[K]`: „Chaitin-Konstante Ω. [K] Algorithmisch nicht komprimierbare Zahl (Halte-Wahrscheinlichkeit)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L64]
@@ -73,10 +80,17 @@ Checked against the full document on 2026-09-26: the quotations above hold; the 
 
 **Whom the constant stands for.** The chapter plan of 2026-02-26 makes it the
 metaphor for Kiko's weeping, a pain with no reason left (its L95). Every 2026
-source from 2026-05-08 on applies it to Juna and to nobody else (the character
+source from 2026-05-08 on that applies it applies it to Juna and to nobody else (the character
 bible L226, the master report L538, the konsolidiertes Konzept L193 and L277, the
 Worldbuilding-Konzept L286 and L746, the glossary L64, the philosophy L324). No
-source says that the Kiko use was given up.
+source says that the Kiko use was given up. (Until the Dual-Storyform background
+document was read this said every 2026 source applies it to Juna; that document names
+it once and applies it to no one.)
+
+**Whether it is canonical.** The Dual-Storyform background document of 2026-05-08
+reduces it, with the Moonshine mathematics and the 3-Layer-Witness, to the
+Witness-Funktion and the Gödel-Eigenschaft — „im Text nicht referenziert" ^[dual-storyform-hintergruende-md.md:L470] — as its
+account of the Reset-Doc.
 
 **Identity or analogy.** The character bible, the master report, the konsolidiertes
 Konzept and the Worldbuilding-Konzept say Juna *is* a Chaitin constant. The glossary

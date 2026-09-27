@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Kernel (K₁)
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
 aliases: ["Kohärenz-Kernel"]
 gathered: "2026-09-24"
 ---
@@ -40,3 +40,8 @@ Under the [[truth-rotation|Truth-Rotation]], AEGIS only believes itself K₁: �
 It is the domain of the [[coheron|Coheronen]]: „Coheronen (K₁-Domäne) sind selbstkorrigierende Schleifen mutualer Information." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L55] Alone it does not move: „Ein reines K₁-System ist statisch (Symmetrie ohne Bewegung)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L63] — „Die Realität entsteht aus der Spannung zwischen beiden Kerneln." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L63]
 Where it shows: the [[risse|Risse]] are „die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L688] The phone call's silence is the source of the end: „Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L370] Of KW2: „Die Architektur dieser Welt ist gespeicherte K₁" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L500]. At the Vortex, Kael is revealed as it: „Nach dem Pivot rotiert das Vorzeichen: AEGIS = K₀ wird sichtbar, Kael = K₁-Substrat wird sichtbar." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L86]
 KW1, AEGIS' city, is described from the other side: „Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L457] The document does not relate that line to the inversion table.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — a bare K1: what AEGIS believes it is, and Storyform A's reading
+
+`Kohärenz-Kernel` does not stand in it (0, `05-verify-readers.txt`); it writes the kernel as a bare `K1` with a plain digit, and those passages are placed here by J98. AEGIS believes itself it, in the DKT-Kernparadoxon: „AEGIS glaubt K1 (Kohärenz-Wächter) zu sein.“ ^[dual-storyform-hintergruende-md.md:L82]
+It is the thesis of Storyform A — „(K1, Coherence, Mutual Information überlebt Erasure)“ ^[dual-storyform-hintergruende-md.md:L51] — and that storyform's reading on its own: „A allein: K1-Reading (Coherence) — die Lesart der Funktionalen Multiplizität.“ ^[dual-storyform-hintergruende-md.md:L68] Its unit is the Coheron, a „K1-Einheit“ ^[dual-storyform-hintergruende-md.md:L480]. Where it shows: „Strukturelle Risse in der Simulation sind ontologische Schnittstellen, an denen K0 in K1 einbricht.“ ^[dual-storyform-hintergruende-md.md:L307]

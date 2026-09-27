@@ -1,0 +1,96 @@
+# 05-verify — dual-storyform-hintergruende-md, 2026-09-27
+# every number or absence the census, note or readings state, recounted with word boundaries
+5\. Position       grep -cwE    2 lines
+Kap 0              grep -cwE    0 lines
+Kap 40             grep -cwE    0 lines
+Ch40               grep -cwE    0 lines
+Kap 37             grep -cwE    3 lines
+kalt               grep -cwE    0 lines
+Kälte             grep -cwE    0 lines
+kühl              grep -cwE    0 lines
+Kühle             grep -cwE    1 lines
+AEGIS-Kühle       grep -cwE    1 lines
+Ozon               grep -cwE    2 lines
+Hitze              grep -cwE    2 lines
+warm               grep -cwE    0 lines
+Wärme             grep -cwE    1 lines
+Guardian           grep -cwE    2 lines
+Guardians          grep -cwE    1 lines
+Knöchel           grep -cwE    0 lines
+Konstrukt-Stadt    grep -cwE    0 lines
+Sophia             grep -cwE    0 lines
+LogOS              grep -cwE    0 lines
+Kairos             grep -cwE    0 lines
+Cerberus           grep -cwE    0 lines
+Kernwelt           grep -cwE    0 lines
+KW1                grep -cwE    0 lines
+KW4                grep -cwE    0 lines
+Flight             grep -cwE    0 lines
+Ursprungs-Ich      grep -cwE    0 lines
+Mira               grep -cwE    0 lines
+Wir                grep -cwE    0 lines
+Formel             grep -cwE    0 lines
+39                 grep -cwE    5 lines
+41                 grep -cwE    0 lines
+Vortex 2           grep -cwE    0 lines
+Nexus              grep -cwE    0 lines
+Überwelt          grep -cwE    0 lines
+Juna               grep -cwE   17 lines
+Kael               grep -cwE   13 lines
+AEGIS              grep -cwE   25 lines
+734                grep -cwE    1 lines
+Telefon-Stille     grep -cwE    3 lines
+Mnemosyne          grep -cwE    4 lines
+Erasure-Pol        grep -cwE    0 lines
+Lösch-Pol         grep -cwE    1 lines
+Phoenix            grep -cwE    3 lines
+
+## lines naming the 39 chapters
+337:| \*\*Resolution\*\* | Kap 37–39 | 0% (nur A aktiv) | B ist beendet. Konsolidierung in der einzelnen verbliebenen Storyform. |
+403:| \*\*Narratologisch\*\* | Setzt die 39 fragmentierten Kapitel zu einer Bedeutung zusammen | Mosaik-Struktur, unzuverlässige Erzähler, polyphone Pronomen 
+421:  - **F10 — Ouroboros-Bild:** Welches konkrete Bild aus Kap 1 kehrt in Kap 39 verändert wieder? Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel.
+425:  - **C.1 Post-Vortex-AEGIS-Status** — Welche Lesart von „Algorithmische Melancholie als Dauerzustand vs. Selbst-Stilllegung vs. Transformation in K1" i
+428:  - **C.5 Oblivion → AEGIS-Funktion in Kaels System nach Truth-Rotation** — Empfehlung: Oblivion übernimmt als interne Wachheit, die entscheidet statt 
+
+## Guardian lines
+210:**Warum diese Korrektur das Werk präziser macht:** Kaels Heilung *ist* Funktionale Multiplizität — also ein *Sein*, kein externes Tun. Kael löst sein Memory-Problem durch internen Zustandswec
+450:| \*\*2026-04-30\*\* | \*\*Reset-Doc\*\* — alleinige strukturelle Grundlage des Projekts. Vorherige \\\~80 Architektur-PDFs werden archiviert (non-binding). Doppel-IC-Position für Juna gelockt.
+468:  - **Vier-Guardian-Soziopolitik.** Reduziert auf Mnemosyne + 1 Lösch-Pol. Berührt OS-Operationalisierung in B.
+
+## warm/kühl/Hitze lines
+82:*AEGIS glaubt K1 (Kohärenz-Wächter) zu sein. Es ist tatsächlich K0 (Kollaps-Operator). Jeder Akt der Kontrolle erzeugt die Entropie, die er bekämpft (Landauer-Hitze). Das Nichts-Rauschen, das A
+318:  - Sensorik-Shifts mitten im Absatz — Kaels warme Kontemplation kippt für einen Atemzug in AEGIS-Kühle und zurück.
+421:  - **F10 — Ouroboros-Bild:** Welches konkrete Bild aus Kap 1 kehrt in Kap 39 verändert wieder? Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel. Berührt: die formale Schließung der T
+483:  - **Landauer-Hitze** — die Wärme, die jede Bit-Löschung minimal erzeugt. Im Roman *spürbar*, nie als Gleichung. Sensorischer Filter: Hitze, Ozon, Schweiß.
+
+## by hand: the one candidate the count reads as prose
+grep -nF '5. Position' -> 380 465 
+
+## zeros standing alone, each only inside a compound
+DKT: 76:DKT-Kernparadoxon 78:DKT-Kernparadoxon: 
+Doppelklang: 306:Doppelklangs. 
+KW2: 309:(KW2-KW3-Phase). 
+KW3: 309:(KW2-KW3-Phase). 
+Appendix C: 423:Appendix C-Punkte, 
+Moonshine: 426:Moonshine-Boundary** 485:**Moonshine-Link** 
+
+## the lens words, grep -cw
+Dramatica: 11
+Phillips/Huntley: 3
+Iser: 2
+Reader-Response-Theorie: 1
+Klein-Vierergruppe: 2
+VOA: 1
+Leech-Lattice: 1
+Orbifold: 1
+Monstergruppe: 1
+Chaitin Ω: 1
+Hard Problem of Consciousness: 2
+
+## the kernels' spellings, grep -c
+K₁: 0
+K₀: 0
+Kohärenz-Kernel: 0
+Kollaps-Kernel: 0
+K1: 11
+K0: 8

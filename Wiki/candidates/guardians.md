@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-16"
 ---
 
@@ -381,3 +381,11 @@ The sentences of L192–L205 stand in the konsolidiertes Konzept of the same dat
 Once (`grep -cw Guardians` 1, `Guardian` 0), in the provenance column of the log's table of Drive sources, for the older locations concept it used for „KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum" ^[2026-09-14-kap25-vertiefung-md.md:L39]: „gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) nicht übernommen" ^[2026-09-14-kap25-vertiefung-md.md:L39].
 That is the log's claim about that document, and its grouping is its own. Of the four names only [[cerberus|Cerberus]] is one of the five the author decided on 2026-09-24; Nox, Echo and Limina are alter names on the [[alters|Alters]] page, from the 2025 locations concept on — „Assoziiert mit Alters wie Nox und NPCs wie dem Regel-Exekutor." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L174] — and among the names 2026 sources decanonise as alters.
 It names no Guardian of its own: LogOS, Mnemosyne, Kairos and Sophia stand 0 times (`05-verify.txt`). The author decided C6 for five; the log's `dekanonisierte` is recorded, not applied (C6, Q5).
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — two, and the old politics counted as four
+
+It ranks itself below the status report and the Reset-Doc; its timeline and its list of what fell away are its claims about the Reset-Doc. Recorded, not applied.
+**Two, dated to the reset.** The timeline's row for the Reset-Doc of 2026-04-30: „Architektonische Vereinfachung (Foundation reduziert, Guardians auf 2, Protokolle auf 3)." ^[dual-storyform-hintergruende-md.md:L450]
+**The two are Mnemosyne and a pole unnamed**, and what they replace is counted as four, not five: „Vier-Guardian-Soziopolitik. Reduziert auf Mnemosyne + 1 Lösch-Pol. Berührt OS-Operationalisierung in B." ^[dual-storyform-hintergruende-md.md:L468] It writes `Lösch-Pol`, not `Erasure-Pol`, and names none of the others — no LogOS, Cerberus, Kairos or Sophia (0 each, `05-verify.txt`) — so it says neither which four nor where the rest went (Q5).
+**They are among AEGIS' doings**, in the Approach correction: „AEGIS' Tragödie ist umgekehrt: 12 Protokolle, Erasure-Sweeps, Guardian-Deployments — alles *Tun*." ^[dual-storyform-hintergruende-md.md:L210] — twelve protocols in the same breath as the reduction to three it records two sections later (L469).
+So one more 2026 source for two. The konsolidiertes Konzept, the master report and the worldbuilding concept of its date count the old drafts' Guardians as five; this document's politics is of four Guardians, as the Guardian concept of 2025 counts „vier Guardian/Welt-Paare“ ^[guardians-und-kern-welten-konzept.md:L135] for five names — which four it does not say. The author decided C6 for five on 2026-09-24; recorded, not applied (C6, Q5).

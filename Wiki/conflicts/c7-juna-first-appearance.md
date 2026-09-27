@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 21
+sources: 22
 pages: ["juna"]
 ---
 
@@ -207,3 +207,11 @@ The master report's position, on its date: a revelation in Akt II, neither Kap 3
 The chapter table's Kap 3: „Erste Juna-Andeutung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L697]. Its rules, under §9.2 and §6.3, both labelled `[K]`: „Juna wird nie als handelnde Figur geschrieben." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L445] „Juna wird nie beschrieben. Sie wird durch ihre Wirkung sichtbar" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L327]
 Kap 33 is „Direkte Berührung der K₁-Reinform" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L721] — „Kap 33 ist aletheia (direkte Berührung der K₁-Reinform)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] — and whether that touch is Juna the document does not say: the Kap-33 row does not name her, and her own correlate in the figure table is „Coheron / Zeit-Prinzip" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L666]. Kap 38 is „Wir-Geflecht entscheidet zur pluralen Bewahrung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L733], without her. The chapter that names her besides Kap 3 is Kap 30: „K-J-Kanal stabil; Junas implizite Vermittlung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L718].
 Neither Kap 33 nor Kap 38; a hint in Kap 3, where the Konzept-Iteration Genesis has Kael see her first as an echo. The conflict stays open.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**No appearance placed — a rare point of view of her own with her modes open, a seed in Akt I, and the modes a research question.**
+The routing table: „Juna-POV (selten, Erscheinungsmodi offen)" ^[dual-storyform-hintergruende-md.md:L297], dominant Storyform A — the status report's row, the day after. Akt I, Kap 1–13: „Juna-Seed über Riss-Szenen." ^[dual-storyform-hintergruende-md.md:L333]; its genealogy dates to an outline revision of 2026-05-01 „Juna-Seed ab Ch1" ^[dual-storyform-hintergruende-md.md:L451] — its claim about that revision.
+The modes, a research question it restates from the Reset-Doc: „F8 — Junas Erscheinungsmodi:" ^[dual-storyform-hintergruende-md.md:L419] „Welche zwei oder drei Modi reichen, um Junas Präsenz erzählerisch zu tragen, und welcher davon ist der Anker (Empfehlung pro Telefon-Stille)?" ^[dual-storyform-hintergruende-md.md:L419]
+Kap 33 stands once, for something else: „FM-Achievement Kap 33." ^[dual-storyform-hintergruende-md.md:L335] `Kap 38` and `Ch38` stand 0 times.
+Neither Kap 33 nor Kap 38: a point of view, a seed and an open question, where the status report stood the day before. The conflict stays open.

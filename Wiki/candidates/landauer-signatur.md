@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -156,3 +156,10 @@ The name does not stand in it, and neither does anything cold (`Landauer-Signatu
 Its first rule, in the unlabelled §0 it calls „Die zentrale Disziplin." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9] — „Jede philosophische Schicht muss durch den somatischen Filter in sinnliche Erfahrung übersetzt werden, bevor sie auf die Seite kommt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9] „Landauer wird zu Hitze und Ozon, nie zu Gleichungen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9] Again, in its Merleau-Ponty section (`[V]`): „Landauer → Hitze, Ozon, Schweiß." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L196]
 AEGIS registers the symptom and nothing under it (Luhmann, `[K]`): „Wenn AEGIS auf Risse reagiert, reagiert es auf die Symptome, die es als legitime Irritation erkennt (Lösch-Bilanz-Abweichung, Temperatur-Spike)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L271] „Es reagiert nie auf das, was darunter liegt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L271]
 Heat and ozone together, as the master report and the worldbuilding concept write them, and dated 2026-06-10, after the lock of 2026-05-30; it says nothing of whose erasure the heat is. Warmth it gives to [[juna|Juna]] ([[hitze-polaritaetsregel]]). Conflict C11.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — heat, ozone and sweat as one filter, and the spike of Beat 4
+
+The name does not stand in it (`Landauer-Signatur` 0, `05-verify-readers.txt`); `Landauer` stands on three lines, and they are placed here by what they state (J62). The heat is the cause, and the glossary gives its rendering: „**Landauer-Hitze** — die Wärme, die jede Bit-Löschung minimal erzeugt. Im Roman *spürbar*, nie als Gleichung. Sensorischer Filter: Hitze, Ozon, Schweiß.“ ^[dual-storyform-hintergruende-md.md:L483] Heat and ozone in one filter, and nothing cold: `kalt` and `Kälte` stand 0 times, `Kühle` once, as AEGIS' in a bridge-scene micro-cue (L318, on the Hitze-Polaritätsregel's page).
+It is what control makes, in the DKT-Kernparadoxon: „Jeder Akt der Kontrolle erzeugt die Entropie, die er bekämpft (Landauer-Hitze).“ ^[dual-storyform-hintergruende-md.md:L82]
+In the Vortex: „\*\*4 Heat-Spike\*\* (Landauer→∞)“ ^[dual-storyform-hintergruende-md.md:L359], where „B versucht Action-Mandat zu vollenden, thermodynamische Kosten manifestieren“ ^[dual-storyform-hintergruende-md.md:L359]. The Genesis shown there, a recommendation it attributes to the Reset-Doc, „Macht Beat 4 (Heat-Spike) zu einem operativen Punkt, nicht nur thermischem Bild.“ ^[dual-storyform-hintergruende-md.md:L368] Its one other `Ozon` is a candidate image in an open question (L421).
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Conflict C11: the side where heat and ozone are one Landauer rendering, with no cold.

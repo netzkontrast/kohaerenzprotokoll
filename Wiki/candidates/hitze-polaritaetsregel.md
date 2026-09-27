@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -42,6 +42,9 @@ kept in one chapter — cold ozone in one scene, warmth only as a back-reference
 ozone (L47) — naming neither Landauer nor a bearer for either. The Kap-25 chapter file, the draft
 that run revised, renders without naming: air „scharf und elektrisch" ^[kp-kap25-2026-09-14-md.md:L221] at the sign-off, tied
 to a cleansing and to no bearer, cool air elsewhere, and `warm` only in a register line (L69).
+The Dual-Storyform background document, of 2026-05-08, states no rule either: its Landauer
+heat is filtered as heat, ozone and sweat (its L483), and its one cool is AEGIS', set against
+[[kael|Kael]]'s warmth, not Juna's, in a bridge-scene micro-cue (its L318).
 [[landauer-signatur]] has each reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
@@ -159,3 +162,9 @@ The sign-off scene renders the air without its word, right after the system's li
 Cold stands elsewhere as the place's and the body's: „Meine Hände sind kalt." ^[kp-kap25-2026-09-14-md.md:L85] „der Knoten ist am Nordende immer kühler" ^[kp-kap25-2026-09-14-md.md:L85]; at the stair, „Von unten kommt Luft herauf. Sie ist kühler." ^[kp-kap25-2026-09-14-md.md:L247]
 `warm` stands once, in an italic line of the counter-register the item contains — „Fenster 03, Luft warm" ^[kp-kap25-2026-09-14-md.md:L69] — the register's warmth, not a scene's. „die vier Abende" ^[kp-kap25-2026-09-14-md.md:L137], in the hand scene, carry no temperature.
 As the session log reports under R-5, cold ozone stays in the sign-off scene and warmth out of it; this file renders the first without naming it. Placed here by what it states (J62). C11.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — no rule — Kael's warmth tips into AEGIS' coolness, and heat and ozone as one filter
+
+No rule is stated: `Polarität` and `kalt` stand 0 times, and no line gives Juna warmth (0; all in `05-verify-readers.txt`). One micro-cue for bridge scenes sets warm against cool, with Kael on the warm side: „Sensorik-Shifts mitten im Absatz — Kaels warme Kontemplation kippt für einen Atemzug in AEGIS-Kühle und zurück.“ ^[dual-storyform-hintergruende-md.md:L318] — the cue the Dramatica status report of the day before writes (on the Landauer-Signatur's page). It is kept to those scenes: „Disziplin: Mikrocues nur in Bridge-Szenen, nicht in Default-Szenen einschleichen lassen.“ ^[dual-storyform-hintergruende-md.md:L326]
+Landauer heat is one filter of heat and ozone together: „Sensorischer Filter: Hitze, Ozon, Schweiß.“ ^[dual-storyform-hintergruende-md.md:L483]
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by what it states (J62). C11.
