@@ -1,10 +1,10 @@
 ---
 term: TSDP
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: none yet
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-25"
 ---
 
@@ -53,6 +53,11 @@ And a gap: „fehlt das fundamentale kausale Kindheitstrauma, das zu Kaels TSDP 
 An analysis, and it maps the model onto the storyform. A synthesis it summarises has „TSDP-Mapping exakt auf Dramatica-Klassen." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L29]
 Its own table sets Kael's class as „Psychology (Kael: TSDP)" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L187] against AEGIS' Universe.
 It holds that with high confidence and asks it: „Es wird mit sehr hoher Konfidenz geglaubt, dass Storyform A (K1) die tiefenpsychologische TSDP-Metapher makellos und ohne Brüche in das Dramatica-Quad übersetzt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L352]
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — the theory as the rule that only Kael may be modular
+
+A research report of 2026-04-30 whose verdicts are its own — recorded, not applied. It writes the theory in English, and uses it as a test: H3, AEGIS split into a façade and an OS, fails on it. „Die Falsifikations-Versuche offenbaren jedoch einen direkten Konflikt mit den Prinzipien der Theory of Structural Dissociation of the Personality (TSDP)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L59] „Gemäß Kanon ist psychologische Modularität das exklusive evolutionäre Überlebenswerkzeug des -Kerns (Kael)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L59] — the kernel's symbol lost in the export, Kael's kernel by the sentence (J98). „Wenn das System AEGIS ebenfalls in Module und Façaden gespalten wird, verwischt der ontologische Kontrast zwischen Kohärenz und Auslöschung." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L59] Its reflection log: „Spaltung von AEGIS verletzt TSDP-Constraints (HIGH)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L415]
+Kael's cycles are its instance: „Kaels psychologische Modularität, manifestiert durch dissoziative Zyklen (TSDP), erscheint oberflächlich als Chaos, operiert jedoch fundamental als Coherence Kernel ()." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L31] A seed switches him from Host to EP: „durchläuft Kael unter Beobachtung des Systems einen schnellen dissoziativen Wechsel von seinem Host-Zustand zu einer funktionalen Speichereinheit (EP)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L159] „Das DKT-Korrelat ist das ANP/EP-Buffering und die Erhaltung von Mutual Information." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L165] The structure holds by „Janetian Action Systems als Buffer" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L440]. It counts no parts and does not call the dissociation tertiary (`dreizehn`, `tertiär`, `tertiäre` 0; its three `13` are list and footnote numbers, L415, L493, L523; `05-verify-readers.txt`).
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -183,6 +188,7 @@ plan of 2026-02-26 and the Inquiry's concept paper expand it as the theory:
 „Die Theorie der Strukturellen Dissoziation der Persönlichkeit" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L805]
 „Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L31]
 The master report writes the same (its L365), the Inquiry „Theory of Structural Dissociation of the Personality" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L244].
+The Dramatica-Synthese, of 2026-04-30, writes the theory in the Inquiry's English, „Theory of Structural Dissociation of the Personality (TSDP)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L59].
 The philosophischer Bericht, of the master report's date, writes the theory too, „Die Theorie der Strukturellen Dissoziation der Persönlichkeit" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L457], with no year.
 The konsolidiertes Konzept, the Worldbuilding-Konzept, the Alter profiles and the glossary expand it as Kael's diagnosis:
 „TSDP (Tertiäre Strukturelle Dissoziation der Persönlichkeit)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L348]

@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-25"
 ---
 
@@ -13,7 +13,8 @@ gathered: "2026-09-25"
 **A borrowed concept — Chaitin's halting probability Ω, a well-defined number no
 finite program can generate — which the 2026 sources apply to [[juna|Juna]]: she is
 real and cannot be modelled.** One earlier source applies it to [[kiko|Kiko]]'s weeping
-instead, and one 2026 source, the Dual-Storyform background document, drops it from the
+instead; one 2026 source, the Dramatica-Synthese, applies it to Juna and, in one scene seed, to
+Kael's incompressible data as well; and one, the Dual-Storyform background document, drops it from the
 canonical architecture as not referred to in the text. Each source's use is below, attributed and unmerged.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26
@@ -23,6 +24,12 @@ for Juna. Its chapter 19 is titled „Chaitins Rauschen und das innere Kind" ^[r
 „Kiko weint ununterbrochen, scheinbar ohne logische Kausalität." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 „Dies ist die Metapher für Chaitins Konstante" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95] — „irreduzible mathematische Fakten, die einfach wahr sind, ohne dass eine erklärende Theorie dahintersteht." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 „Mancher Schmerz hat im Nachhinein keinen logischen Grund mehr; er ist ein axiomatisch unkomprimierbarer Fakt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — one part of Juna's composite, and Kael's incompressible data
+
+A research report of 2026-04-30 — recorded, not applied; a scene seed is a proposal. Both of its `Chaitin` lost the Ω in the export (`Chaitin` 2, `Ω` 0; `05-verify-readers.txt`).
+For Juna, one of three parts: „Sie operiert als *Composite* aus Witness Function, Gödel-Satz und Chaitin .1" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29] — the character bible's three, as a composite, with a footnote glued to the last.
+And for [[kael|Kael]], in the first seed of AEGIS' throughline in Storyform B: AEGIS' prediction fails „da die Datenstruktur von Kael inkompressibel und nicht-linear ist (Chaitin )" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L109]. So the incompressibility is his data's too; the document does not relate the two uses. No chapter is named for either (`Kap` 0; `05-verify-readers.txt`).
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -85,7 +92,9 @@ bible L226, the master report L538, the konsolidiertes Konzept L193 and L277, th
 Worldbuilding-Konzept L286 and L746, the glossary L64, the philosophy L324). No
 source says that the Kiko use was given up. (Until the Dual-Storyform background
 document was read this said every 2026 source applies it to Juna; that document names
-it once and applies it to no one.)
+it once and applies it to no one.) The Dramatica-Synthese of 2026-04-30 applies it to Juna, as one part of a
+composite (its L29), and to Kael's data, „inkompressibel und nicht-linear" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L109] in a seed of AEGIS'
+throughline — the only source on this page to tie it to Kael.
 
 **Whether it is canonical.** The Dual-Storyform background document of 2026-05-08
 reduces it, with the Moonshine mathematics and the 3-Layer-Witness, to the
@@ -96,6 +105,8 @@ account of the Reset-Doc.
 Konzept and the Worldbuilding-Konzept say Juna *is* a Chaitin constant. The glossary
 and the philosophy say she works *like* Ω, and the glossary's Juna entry calls her a
 „Chaitin-Ω-Analogon" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L360].
+The Dramatica-Synthese makes it neither: Juna operates as a composite of the Witness Function, the
+Gödel sentence and the constant (its L29).
 
 ## Open
 

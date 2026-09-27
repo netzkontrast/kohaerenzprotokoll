@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 22
+sources: 23
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -307,3 +307,10 @@ Position 1's bearer; beside it one Guardian's own limit, position 2's kind, not 
 **The system's categorization error, and what it cannot calculate — no Guardian at all.**
 „a rigorous cognitive audit reveals that the protocol suffers from a fundamental categorization error within its autopoietic closure." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] Separation is „a temporal artifact caused by the system's inability to calculate information existing outside of linear time." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L21]
 `Guardian` and `Mnemosyne` stand 0 times (`05-verify.txt`), `blind` 0. Position 1's bearer, the system as AEGIS; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**The system's blind spot is Juna — outside AEGIS' reach; the Guardians fail together at Kael, and none is called blind.**
+Juna acts „allein durch ihre thermodynamische und logische Wirkung (den" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29] „blinden Fleck" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29] „des Systems) operiert" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29], in a space „der außerhalb der deterministischen Erfassung von AEGIS liegt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29]. A scene seed, a proposal: „Das System registriert diese Zertifizierung, kann den Ursprung aber nicht verorten, wodurch Juna als blinder Fleck (Interdiction) im Kontinuum agiert." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L137] Its audit again: „Befund: Nein, sie wirkt durch ihre Gravitation (den blinden Fleck)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L427]
+The Guardians are parts of AEGIS' system — „interne Guardian-Protokolle" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L111] — and in Storyform A's OS they fail as one: „Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] They „scheitern jedoch fundamental an der unberechenbaren Natur der relationalen Traumata, die sich den Circumstances entziehen" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] — not each from its own domain, and not called blind. Of its five lines with `blind`, `blinden` or `blinder`, three make Juna the blind spot (L29, L137, L427) and two are AEGIS' blind erasure in the Vortex (L297, L314; `05-verify-readers.txt`).
+Position 1's bearer, the system as AEGIS, with the blind spot named as Juna herself; nothing for position 2. The conflict stays open.

@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-25"
 ---
 
@@ -118,6 +118,12 @@ Its Ouroboros ending inverts the phenomenology without the name: „Separation i
 Here the name is for the end, not the Vortex: „The narrative follows an "Ouroboros Structure," returning to the initial image of the city.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] „However, a "Truth-Rotation" has occurred: the meaning has inverted from Separation to Connection.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] The essay names no Vortex (`Vortex` 0, `05-verify.txt`).
 The inversion is its first takeaway, under its own name: „The "Great Inversion" lies in the system's misreading of its own architecture.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] — AEGIS takes itself for the Coherence Kernel and is the Entropy Architecture (K0) (L17). The essay does not relate the two, and never writes Kael as K1 (`05-verify-readers.txt`).
 
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — the ontological pivot, the inversion of polarity itself, a rule the hypotheses are tested against
+
+A research report of 2026-04-30 whose verdicts are its own — recorded, not applied. It gives the name in German first: „Drittens erweist sich die Wahrheits-Rotation (Truth-Rotation) als der ontologische Pivot der gesamten Erzählung." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L31] What it is: „Die informationsthermodynamische Analyse erzwingt jedoch die absolute Umkehrung dieser moralischen Polarität." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L31] — AEGIS, apparent order, is in fact the Erasure Kernel and Kael, apparent chaos, the Coherence Kernel, both symbols lost in the export (L31; J98, J99). It writes AEGIS as K0 once, „(K0-Singularität)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L381].
+**A rule, not a moment.** The hypotheses on AEGIS' throughline are tested against it: „Die Falsifikations-Versuche konzentrierten sich auf die Einhaltung der Truth-Rotation." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L51] H3 fails because AEGIS must stay monolithic „um die Truth-Rotation aufrechtzuerhalten" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L59]; its log: „H2 zerstört die Truth-Rotation (HIGH)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L414]
+It does not place it at the Vortex. The Vortex's fifth beat is `Rotation` (J90), and what completes there is the Driver-Flip: „Der Driver-Flip ist komplett vollzogen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L304] It does not write `große Inversion` (0; its other inversions are the Vortex-Inversion and the storyforms' Domain-Inversion, L311, L51; `05-verify-readers.txt`).
+
 ## Where the sources differ
 
 **What the name names.** The master report heads its section on the inversion
@@ -144,12 +150,15 @@ The Companion Guide, of the same date, stands with the konsolidiertes Konzept: t
 that AEGIS' order is entropy and its chaos love (its L15), placed at no moment and beside no Vortex or inversion. The Physics of
 Heartbreak, of the same date, a fourth: the Truth-Rotation has occurred at the Ouroboros return to the initial image, the meaning
 inverted from Separation to Connection (its L39); the Great Inversion is its own takeaway (L17), not related to the rotation.
+The Dramatica-Synthese, of 2026-04-30, stands with the master report and the philosophischer Bericht: the name, which it also
+gives in German as `Wahrheits-Rotation`, is the inversion itself, „der ontologische Pivot der gesamten Erzählung“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L31], and a rule its
+hypotheses on AEGIS' throughline are tested against (L51, L59); it names no moment at the Vortex, whose fifth beat completes the Driver-Flip (L304).
 
 **What holds, they agree on**: AEGIS = K₀ in every reading but the Editorial Style Dossier's,
 which makes AEGIS' order entropy (its L15) without writing K0 of AEGIS; and [[kael|Kael]] = K₁ in
 every reading but the Dual-Storyform background document's, which writes AEGIS as K0 (its L82)
 and never Kael as K1 — and, since 2026-09-27, but the Companion Guide's, the Editorial Style
-Dossier's and the Physics of Heartbreak's, none of which writes Kael as K1. And the three that say so agree the phenomenology of the rifts stays
+Dossier's and the Physics of Heartbreak's, none of which writes Kael as K1. The Dramatica-Synthese writes both by the sentence, AEGIS the Erasure Kernel and Kael the Coherence Kernel with the symbols lost (its L31), and AEGIS as K0 once (L381). And the three that say so agree the phenomenology of the rifts stays
 and only the reading turns; the worldbuilding concept is a fourth (its L86). The
 background document says it of B's phenomenology — pain, erasure, separation — which
 stays rememberable and is no longer operative (its L56). So the difference is in what the name points at, the fact or the moment. It

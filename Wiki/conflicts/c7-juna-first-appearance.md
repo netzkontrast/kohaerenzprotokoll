@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 29
+sources: 30
 pages: ["juna"]
 ---
 
@@ -272,3 +272,10 @@ Neither Kap 33 nor Kap 38. The conflict stays open.
 „Stylistic Constraint: Strictly prohibited physical descriptions (no hair, no height)." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L68] „She is synthesized through "Phantom-Resonances" and the "Phone-Silence" anchor" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L69]. Its fifth mandate: „No Deus Ex Machina: Juna witnesses; she does not solve." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L102] Its mandates are recorded, not applied.
 `Kap` stands 0 times; its three `Ch.` are the act ranges (L57–L59), which do not name her (`05-verify-readers.txt`).
 Neither Kap 33 nor Kap 38: a rule of rendering, on the date of the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**No appearance placed — never physically described, outside the quad in Storyform B, acting only by effect in three beats of the Vortex.**
+„sie wird nie physisch greifbar oder visuell detailliert beschrieben, sondern existiert ausschließlich über ihre Wirkung" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L141]; in the climax, „In allen drei Layern wird die Regel eingehalten, dass Juna niemals physisch beschrieben wird." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L316] Her seeds are placed in no chapter; the first: „Im ersten Szenen-Keim manifestiert sich Junas Präsenz in einem durch AEGIS hochgradig gesperrten Bereich." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L133] — a presence, not an appearance, and a proposal.
+`Kap` stands 0 times and `Kapitel` twice, both `Kapitel 35–36` for the Vortex (L33, L270), where her three layers act in Beats 2, 3 and 4 by effect (L313–L316) and „Kael und Juna überdauern den Kollaps intakt." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L304] (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: a rule of rendering, eight days before the character bible (row 1). The conflict stays open.

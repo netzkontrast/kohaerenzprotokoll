@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 14
+sources: 15
 pages: ["aegis"]
 ---
 
@@ -137,3 +137,10 @@ The Dramatica lock-in's side, Do-er (row 2), on the date the character bible giv
 „Main Character B (MC-B): AEGIS / Universe & Progress“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L29], headed „The Autopoietic "Do-er" and Operational Closure“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L31]: „AEGIS is the "Do-er" protagonist of Storyform B.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L33] For A, „The "Be-er" Protagonist and the TSDP Engine“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L15]: „In Storyform A, Kael functions as the "Be-er."“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L17]
 `Approach`, `Resolve`, `Steadfast`, `Lock-In` and `2026-05-07` stand 0 times (`05-verify-readers.txt`). Every seed is „KANON-KOMPATIBEL“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L21] against „the 2026-05-08 Kanon“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23] — recorded, not applied.
 The Dramatica lock-in's side, Do-er (row 2), in Universe, on the date the character bible gives Be-er (row 1). The author decides (decision 006).
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**No Approach for AEGIS — its one `Be-er` is Kael's in Storyform A; AEGIS drives B by Action, which is its Driver, not its Approach.**
+„Kaels innere Trägheit (Inertia) und sein Be-er Approach in Storyform A kontrastieren scharf mit seiner transformierten, unaufhaltsamen Durchschlagskraft in Storyform B." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L93] For AEGIS, the Driver: „Während der gesamten Storyform B war AEGIS der aktive, diktierende Motor (Action)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L265]
+`Do-er` stands 0 times and `Be-er` once (L93). Its other two `Approach` are storypoint names, not AEGIS' dynamic: the Issue of Storyform B's OS, „Approach vs. Attitude (Die Methodik der Auslöschung)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L201], and Kael's modules acting in a seed of that OS (L205; `05-verify-readers.txt`). Its verdicts are its own, recorded, not applied.
+On no row for AEGIS, a week before the lock-in of 2026-05-07; Kael's Be-er in A, which both rows give him. The author decides (decision 006).

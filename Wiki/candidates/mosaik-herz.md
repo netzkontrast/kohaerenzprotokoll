@@ -1,20 +1,22 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-24"
 ---
 
 # Mosaik-Herz
 
-**One name for two things: a Kap-11 story beat, and a Kap-34 place.** Nine read
+**One name for two things: a Kap-11 story beat, and a Kap-34 place.** Ten read
 sources use it. Six name the Kap-11 beat and five name Kap 34, as a place or a beat
 before the [[vortex|Vortex]]; the konsolidiertes Konzept and the strukturierter Outline
 name both. Two also make it an inner resource in Kap 23. (Until the worldbuilding
-concept was read this said four sources, one of them using it both ways.)
+concept was read this said four sources, one of them using it both ways.) The tenth,
+the Dramatica-Synthese of 2026-04-30, names neither: in its table it is Juna, the IC of
+Storyform A (its L126). (Until it was read this said nine sources.)
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -73,3 +75,7 @@ One of three sub-locations of „KW4 — Kairos-Potentialis (Garten der Möglich
 „Das Mosaik-Herz — der Ort, an dem Kael Juna als Teil seiner selbst akzeptiert (Ch34, vor Vortex)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L620]
 „KW4 dominiert Akt III (Ch29–34, 37–39)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L624]
 No Kap-11 beat and no Kap-23 resource: its only other `Mosaik` is a reader-architecture device, „Mosaik-Struktur (Anker)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L789], and its one `Ch11` is a Grenzsituation (L739) (`Mosaik` 2, `05-verify-readers.txt`).
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — a name for Juna, in Storyform A's IC table
+
+Neither the beat nor the place: the bearer cell of Juna's throughline, the IC of Storyform A, reads „Juna (Die Asymmetrie, das" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L126] „Mosaik-Herz" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L126] „des Chaos)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L126]. It stands once (`Mosaik` 1), in no chapter (`Kap` 0) and in no world (`KW4` 0; `05-verify-readers.txt`).

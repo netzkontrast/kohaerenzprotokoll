@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 24
+sources: 25
 pages: ["aegis"]
 ---
 
@@ -189,3 +189,10 @@ A table, „System Logs (K0) vs. Sensory Hallucinations (K1)" ^[mining-report-ko
 **Never in prose, only the log — the worldbuilding concept's rule, in English.**
 „AEGIS never speaks in prose; it speaks in the" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L73] AEGIS-Log-Format. „Moral vocabulary (good/evil) is forbidden." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L73] „Mandatory AEGIS-Log-Template:" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L74], with German fields (L76–L92).
 `person` and `POV` stand 0 times; its chapters are act ranges (Ch. 1-13, 14-26, 27-39), with no AEGIS chapter. Row 2's side, in the words of row 7 and the worldbuilding concept, „AEGIS spricht nie in Prosa." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L259]. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**The MC's subjective `I` perspective in Storyform B, as a Dramatica position — no grammatical person, prose voice, log or chapter named for AEGIS.**
+Its falsification finds „dass ein autopoietisches System die MC-Position (die subjektive" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L27] `I`-Perspektive) „legitim einnehmen kann" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L27]; H1's steelman: „Das Steelmanning dieser Position argumentiert, dass ein künstliches System die subjektive" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L41] `I`-Perspektive „tragen kann" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L41]. Its check: „AEGIS operiert legal und konsistent als subjektives Zentrum in der Universe-Domain" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L117]. It rejects a façade carrying that perspective — H3, „indem eine fokussierte" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L57] `I`-Perspektive „durch einen Avatar ermöglicht wird" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L57]; „Das Verdikt für Hypothese H3 lautet: Verworfen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L61]
+`Person`, `Innensicht` and `Kap` stand 0 times; its `Log` and `Logs` are its own method logs (L349, L365, L420), and neither `Prosa` is AEGIS' (L272, L417; `05-verify-readers.txt`). Its verdicts are its own, recorded, not applied.
+On no row as stated: it names the perspective the MC throughline carries, not the person the prose is told in, and relates it to no chapter and no log. The conflict stays open.
