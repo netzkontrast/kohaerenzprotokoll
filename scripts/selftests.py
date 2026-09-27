@@ -36,6 +36,7 @@ KINDS = {
 SUITES = [
     ("quotes, find, fold", "std", ["scripts/selftest.py"]),
     ("entities matcher", "std", ["scripts/entities.py", "selftest"]),
+    ("overview: names, pairs, case", "std", ["scripts/overview.py", "selftest"]),
     ("candidate lists compared", "std", ["scripts/agree.py", "selftest"]),
     ("reconcile sweep", "std", ["scripts/reconcile.py", "--selftest"]),
     ("skills", "std", ["scripts/check_skills.py", "--selftest"]),
@@ -52,6 +53,7 @@ SUITES = [
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("gold lists", "std", ["scripts/gold.py", "selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
+    ("jules: approval, tools, verify", "std", ["scripts/jules.py", "selftest"]),
     ("qmd coverage patterns", "std", ["scripts/qmd_coverage.py", "--selftest"]),
     ("qmd coverage, live", "std", ["scripts/qmd_coverage.py"]),
     ("route: price, consent, record", "typesafe", ["scripts/route.py", "selftest"]),

@@ -261,6 +261,24 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
+- **`Coherence Protocol.mp3` is the one row not landed.** markitdown turns audio
+  into text only through a speech-recognition service outside this container,
+  which sends the recording to a third party — the rule Jev and every model call
+  keep. A yes, and a service you are content with, lands it; otherwise it stays.
+- **The entity lists and the translation pairs predate the plot outlines.** Both
+  were built over the corpus as it stood before 2026-09-26, so the 215 documents
+  landed that day get names only from the vocabulary those lists already hold.
+  A name that occurs only in them has no entry in `Sources/README.md` until
+  `entity-lists` and `bilingual.py` run over them. The first sends text to Haiku
+  and the second to free OpenRouter models and Jev, so both wait on your yes.
+- **May a Jules session work on this repository?** `scripts/jules.py` and the
+  `jules` skill were ported from `netzkontrast/agency` on 2026-09-26, at your
+  request. A session is Google's agent working on a clone of the whole
+  repository, `Sources/` included, so `dispatch` refuses without `--approval`
+  naming your decision, and none has been given. No session has been dispatched;
+  the read-only commands ran against the live API. Also yours: whether a session
+  may touch `Wiki/` at all, or only `scripts/` and `Plan/`.
+
 - **Two sessions are reading the same documents.** Documents 16 and 17 were each
   read twice on 2026-09-25, in the same order, because both handovers named the
   same next document. Main took one session's readings; the second readings
@@ -1253,6 +1271,20 @@ record and is not treated as a quotation from a research document.
 
 ## Landed
 
+**The rest of the manifest, 2026-09-26, on the author's „Download all of the Rest
+from the Manifest".** `sources.py fetch --include-md --limit 1000` landed the 241
+remaining routable rows in about four minutes, none failing, no model reading any:
+227 pre-May-2026 `plot-outline` gdocs, 13 `md`, one `pdf`. `dedupe.py --apply`
+folded 26 copies among them (20 groups, `Plan/runs/dedupe.json`), so 215 new
+documents stand, and `duplicates.py` reports 0 near-copies again. `dedupe.py` now
+never folds a document something cites. It also appends its decision instead of
+writing over the last one, which is how the first run's 31 groups were lost.
+`qmd update` indexed the new files; embeddings were not built.
+**`Sources/README.md` now ends with every document and its most important names**,
+written by `scripts/overview.py` after a qmd first scan (*Sources at a glance* in
+`CLAUDE.md`). **None of the 215 is read.** The plot outlines were deferred with
+the novel, and landing them decides nothing about reading them.
+
 **The canon-era documents, 2026-09-24, on the author's yes.** `sources.py fetch
 --since 2026-05-01 --include-md` landed the 29 remaining rows dated May 2026 or
 later, none failing. 26 were `md`, which `fetch` skipped before: the two new flags
@@ -1273,6 +1305,6 @@ Nothing from it is in flight; what it left open is under the headings above.
 
 ## Not open
 
-The novel. The `Legacy/` shelf. The 242 unlanded rows, all dated before May 2026:
-231 `plot-outline`, 10 `md` in `storyform` and `kernkonzept`, and the one `mp3` —
-deferred by decision, not forgotten.
+The novel. The `Legacy/` shelf. Reading the 215 plot outlines landed on
+2026-09-26: they are on disk and searchable, and still deferred with the novel
+as reading material. The one `mp3` is a question above, not a backlog.

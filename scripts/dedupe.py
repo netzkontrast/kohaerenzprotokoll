@@ -38,6 +38,11 @@ is none.
 
 Hence, in order:
 
+0. a document something already cites -- a census, a note, a wiki page, an entity
+   list or a run directory names it -- because folding it away would leave every
+   citation into it pointing at a file that is gone. If a group holds two such
+   documents, neither is folded and the group is reported instead: that is a
+   person's call.
 1. the most source URLs -- the only signal that tracks content
 2. the fewest "end list" artifacts
 3. no copy marker in the slug (`kopie`, `-2`, `-3`, a leading `2-`)
@@ -104,9 +109,32 @@ def title_match(slug: str, title: str) -> int:
     return matched
 
 
-def rank(doc, title: str) -> tuple:
+CITED_IN = ("Wiki", "Sources/terms", "Sources/notes", "Plan/entities")
+
+
+def cited() -> set[str]:
+    """Every landed slug that something already points at (rule 0).
+
+    Checked as text rather than through each tool's parser, because the question
+    is only whether a slug is named at all -- a census, a note, a page citation
+    `^[<slug>.md:Lnn]`, an entity list -- and a run directory `Plan/runs/<slug>/`.
+    """
+    slugs = {d.slug for d in documents()}
+    named = {p.name for p in (ROOT / "Plan" / "runs").iterdir() if p.is_dir()} & slugs
+    text = "\n".join(p.read_text(encoding="utf-8", errors="replace")
+                     for base in CITED_IN for p in (ROOT / base).rglob("*.md"))
+    # A slug as a bare word is not a citation: `aegis` is a slug and the word
+    # every page is about. A file name is, and so is a frontmatter list of slugs.
+    mentioned = set(re.findall(r"([a-z0-9][a-z0-9-]*[a-z0-9])\.md\b", text))
+    for line in re.findall(r"^(?:ingested|source|sources|raised_by|documents):(.*)$", text, re.M):
+        mentioned.update(re.findall(r"[a-z0-9][a-z0-9-]*[a-z0-9]", line))
+    return named | (slugs & mentioned)
+
+
+def rank(doc, title: str, protected: frozenset[str] = frozenset()) -> tuple:
     """Lower sorts first. See the module docstring for why URLs lead."""
     return (
+        doc.slug not in protected,
         -len(URL.findall(doc.body)),
         len(ENDLIST.findall(doc.body)),
         bool(COPY_MARKER.search(doc.slug)),
@@ -124,10 +152,17 @@ def titles() -> dict[str, str]:
 def decide(threshold: float) -> list[dict]:
     by = {d.slug: d for d in documents()}
     title = titles()
+    protected = frozenset(cited())
     decided = []
     for group in groups(threshold):
-        ordered = sorted((by[s] for s in group), key=lambda d: rank(d, title.get(d.slug, "")))
+        ordered = sorted((by[s] for s in group),
+                         key=lambda d: rank(d, title.get(d.slug, ""), protected))
         keeper = ordered[0]
+        both = [d.slug for d in ordered if d.slug in protected]
+        if len(both) > 1:
+            print(f"  REFUSED  {', '.join(both)} are near-copies and each is cited — "
+                  "a person decides which stays")
+            continue
         decided.append({
             "keep": keeper.slug,
             "urls": len(URL.findall(keeper.body)),
@@ -152,8 +187,13 @@ def apply(decided: list[dict]) -> tuple[int, int]:
             unlinked += 1
         dropped.append(dict(row, duplicate_of=keeper))
 
+    # Append: each run's groups join the record rather than replacing it. The run
+    # of 2026-09-24 wrote its own 4 groups over the first run's 31, which were
+    # never committed -- that record is lost, and only the docstring's
+    # measurements remain of it.
     DECISION.parent.mkdir(parents=True, exist_ok=True)
-    DECISION.write_text(json.dumps(decided, ensure_ascii=False, indent=2) + "\n",
+    earlier = json.loads(DECISION.read_text(encoding="utf-8")) if DECISION.exists() else []
+    DECISION.write_text(json.dumps(earlier + decided, ensure_ascii=False, indent=2) + "\n",
                         encoding="utf-8")
     existing = duplicates()
     known = {r.get("drive_id") for r in existing}

@@ -1,0 +1,4956 @@
+{
+ "ran": "2026-09-26",
+ "command": "qmd search <name> -c sources -n 10",
+ "note": "ranked places to look; never a count",
+ "pages": {
+  "aegis": {
+   "query": "AEGIS",
+   "hits": [
+    {
+     "slug": "monstergruppe-primzahlen-plot-blueprint",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "aegis",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "roman-plot-konzept-kohaerenz-protokoll",
+     "score": 0.0,
+     "line": 15
+    },
+    {
+     "slug": "aegis-subplots-kapitelweise-system-exploration-docx",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "kontext-outline",
+     "score": 0.0,
+     "line": 11
+    },
+    {
+     "slug": "outline-2",
+     "score": 0.0,
+     "line": 23
+    },
+    {
+     "slug": "aegis-singularitaet-jenseits-entropiegleichung-2",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "finales-kausales-plot-geruest",
+     "score": 0.0,
+     "line": 15
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-entwicklung",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-protokoll-monster-plot-entwicklung",
+     "score": 0.0,
+     "line": 11
+    }
+   ]
+  },
+  "aegis-metriken": {
+   "query": "AEGIS' operative Metriken",
+   "hits": [
+    {
+     "slug": "kohaerenzprotokoll-aegis-und-systementropie",
+     "score": 0.85,
+     "line": 21
+    },
+    {
+     "slug": "digitale-uberwelt",
+     "score": 0.84,
+     "line": 45
+    },
+    {
+     "slug": "aegis-paradoxon-konzeption-und-analyse",
+     "score": 0.83,
+     "line": 238
+    },
+    {
+     "slug": "paradoxien-der-kohaerenz-protokoll-entwicklung",
+     "score": 0.82,
+     "line": 67
+    },
+    {
+     "slug": "ui-konzept-fuer-roman-entwicklungssystem",
+     "score": 0.79,
+     "line": 81
+    },
+    {
+     "slug": "kohaerenz-protokoll-epische-plot-anreicherung",
+     "score": 0.79,
+     "line": 176
+    },
+    {
+     "slug": "ki-roman-design-mechaniken",
+     "score": 0.78,
+     "line": 15
+    },
+    {
+     "slug": "dkt-fundament-kohaerenz-protokoll-md",
+     "score": 0.77,
+     "line": 245
+    },
+    {
+     "slug": "aegis-genesis-krise-prosa-auftrag-formulieren",
+     "score": 0.77,
+     "line": 90
+    },
+    {
+     "slug": "aegis-genesis-krise-prosa-auftrag-formulieren-2",
+     "score": 0.77,
+     "line": 90
+    }
+   ]
+  },
+  "aegis-teilfunktionen": {
+   "query": "AEGIS' four sub-functions",
+   "hits": []
+  },
+  "alex": {
+   "query": "Alex",
+   "hits": [
+    {
+     "slug": "roman-outline-fuer-kohaerenz-protokoll",
+     "score": 0.7,
+     "line": 214
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.7,
+     "line": 53
+    },
+    {
+     "slug": "kohaerenz-protokoll-39-kapitel-matrix",
+     "score": 0.7,
+     "line": 83
+    },
+    {
+     "slug": "strukturelle-dissoziation-system-kael-analyse",
+     "score": 0.7,
+     "line": 15
+    },
+    {
+     "slug": "outline-2",
+     "score": 0.7,
+     "line": 67
+    },
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.7,
+     "line": 15
+    },
+    {
+     "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     "score": 0.7,
+     "line": 41
+    },
+    {
+     "slug": "roman-outline-transformation-in-keyword-tags",
+     "score": 0.69,
+     "line": 16
+    },
+    {
+     "slug": "romanarchitektur-kael-aegis-entropie-docx",
+     "score": 0.69,
+     "line": 19
+    },
+    {
+     "slug": "outline-3",
+     "score": 0.69,
+     "line": 67
+    }
+   ]
+  },
+  "algorithmische-melancholie": {
+   "query": "Algorithmische Melancholie",
+   "hits": [
+    {
+     "slug": "romanprojekt-kohaerenz-protokoll-analyse",
+     "score": 0.8,
+     "line": 23
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophischer-bericht-md",
+     "score": 0.79,
+     "line": 25
+    },
+    {
+     "slug": "finales-expose-wissenschaftliche-fassung",
+     "score": 0.79,
+     "line": 38
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet",
+     "score": 0.79,
+     "line": 122
+    },
+    {
+     "slug": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+     "score": 0.79,
+     "line": 91
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-erstellung",
+     "score": 0.79,
+     "line": 499
+    },
+    {
+     "slug": "romanprojekt-analyse-kohaerenz-protokoll",
+     "score": 0.78,
+     "line": 32
+    },
+    {
+     "slug": "dramatica-storyform-synthese-aegis-analyse-2",
+     "score": 0.78,
+     "line": 33
+    },
+    {
+     "slug": "kohaerenz-protokoll-master-integration-md",
+     "score": 0.78,
+     "line": 154
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.78,
+     "line": 1107
+    }
+   ]
+  },
+  "alters": {
+   "query": "Alters",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-konzept",
+     "score": 0.0,
+     "line": 19
+    },
+    {
+     "slug": "charakterkonzepte-fuer-kohaerenz-protokoll",
+     "score": 0.0,
+     "line": 29
+    },
+    {
+     "slug": "the-psychological-mechanics-from-tertiary-structural-dissoci",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-entwicklungsauftrag",
+     "score": 0.0,
+     "line": 27
+    },
+    {
+     "slug": "aegis-2",
+     "score": 0.0,
+     "line": 1
+    },
+    {
+     "slug": "roman-konzept-kael-aegis-simulation",
+     "score": 0.0,
+     "line": 21
+    },
+    {
+     "slug": "deconstructing-reality-s-architecture",
+     "score": 0.0,
+     "line": 55
+    },
+    {
+     "slug": "a-guide-to-the-society-of-self-understanding-system-kael",
+     "score": 0.0,
+     "line": 15
+    },
+    {
+     "slug": "plot-blueprint-methodik-kohaerenz-protokoll",
+     "score": 0.0,
+     "line": 31
+    },
+    {
+     "slug": "mining-report-kohaerenz-protokoll-plot-outline-construction",
+     "score": 0.0,
+     "line": 23
+    }
+   ]
+  },
+  "ani": {
+   "query": "ANI",
+   "hits": [
+    {
+     "slug": "research-prompt-kohaerenz-protokoll-final-architecture-md",
+     "score": 0.54,
+     "line": 146
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik-3",
+     "score": 0.54,
+     "line": 23
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik",
+     "score": 0.54,
+     "line": 23
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik-2",
+     "score": 0.54,
+     "line": 23
+    },
+    {
+     "slug": "aegis-manifest-genesis-krise-reboot",
+     "score": 0.54,
+     "line": 3
+    },
+    {
+     "slug": "aegis-persona-and-manifest-generation",
+     "score": 0.54,
+     "line": 3
+    },
+    {
+     "slug": "aegis-manifest-genesis-krise-reboot-2",
+     "score": 0.54,
+     "line": 3
+    },
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.53,
+     "line": 44
+    },
+    {
+     "slug": "a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll",
+     "score": 0.53,
+     "line": 21
+    },
+    {
+     "slug": "the-architecture-of-a-misguided-god-a-biography-of-aegis",
+     "score": 0.53,
+     "line": 33
+    }
+   ]
+  },
+  "archiv-der-grenzen": {
+   "query": "Archiv der Grenzen",
+   "hits": [
+    {
+     "slug": "argus-chronist-der-wandlung",
+     "score": 0.73,
+     "line": 423
+    },
+    {
+     "slug": "konzept-expose-schwarzschild-protokoll-optimierung",
+     "score": 0.73,
+     "line": 54
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.73,
+     "line": 247
+    },
+    {
+     "slug": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll",
+     "score": 0.73,
+     "line": 137
+    },
+    {
+     "slug": "parakonsistenz-aegis-und-nicht-existenz",
+     "score": 0.73,
+     "line": 97
+    },
+    {
+     "slug": "dialetheismus-im-kohaerenz-protokoll",
+     "score": 0.72,
+     "line": 57
+    },
+    {
+     "slug": "fundament-konzept-fuer-kohaerenz-protokoll",
+     "score": 0.72,
+     "line": 42
+    },
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.72,
+     "line": 30
+    },
+    {
+     "slug": "kohaerenz-protokoll-plotideen-generierung",
+     "score": 0.72,
+     "line": 41
+    },
+    {
+     "slug": "logik-trifft-transzendente-entitaet-2",
+     "score": 0.71,
+     "line": 41
+    }
+   ]
+  },
+  "archiv-des-ungesagten": {
+   "query": "Archiv des Ungesagten",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.87,
+     "line": 276
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.84,
+     "line": 201
+    },
+    {
+     "slug": "protokoll-der-offenbarung",
+     "score": 0.83,
+     "line": 15
+    }
+   ]
+  },
+  "argus": {
+   "query": "Argus",
+   "hits": [
+    {
+     "slug": "argus-chronist-der-wandlung",
+     "score": 0.04,
+     "line": 3
+    },
+    {
+     "slug": "wahrheitstheorien-kohaerenz-vs-korrespondenz",
+     "score": 0.04,
+     "line": 1
+    },
+    {
+     "slug": "refining-dramatica-storyform-for-kohaerenz-protokoll",
+     "score": 0.04,
+     "line": 1
+    },
+    {
+     "slug": "dramatica-storyform-kohaerenz-protokoll-2",
+     "score": 0.04,
+     "line": 1
+    },
+    {
+     "slug": "gutachten-grad-der-behinderung-bei-dis",
+     "score": 0.04,
+     "line": 1
+    },
+    {
+     "slug": "sozialrechtliche-begutachtung-komplexer-traumafolgestoerunge",
+     "score": 0.04,
+     "line": 1
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.04,
+     "line": 55
+    },
+    {
+     "slug": "the-architecture-of-being-a-philosophical-thesis-on-the-core",
+     "score": 0.04,
+     "line": 1
+    },
+    {
+     "slug": "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
+     "score": 0.04,
+     "line": 20
+    },
+    {
+     "slug": "dramatica-theorie-mapping-auf-wahrheit-bewusstsein",
+     "score": 0.04,
+     "line": 1
+    }
+   ]
+  },
+  "ars": {
+   "query": "ARS",
+   "hits": [
+    {
+     "slug": "argus-chronist-der-wandlung",
+     "score": 0.0,
+     "line": 23
+    },
+    {
+     "slug": "archon-ai-narrative-coherence-framework",
+     "score": 0.0,
+     "line": 24
+    },
+    {
+     "slug": "rechtliche-analyse-entlassungsbericht-und-dis",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "aegis-genesis-crisis-self-definition",
+     "score": 0.0,
+     "line": 143
+    },
+    {
+     "slug": "tattoo-konzept-symbolik-trauma-heilung",
+     "score": 0.0,
+     "line": 22
+    },
+    {
+     "slug": "umfassendes-lokalitaeten-konzept-fuer-roman",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
+     "score": 0.0,
+     "line": 38
+    },
+    {
+     "slug": "comprehensive-systemic-architectural-and-psychological-conte",
+     "score": 0.0,
+     "line": 99
+    },
+    {
+     "slug": "research-prompt-dramatica-agentic-spec-novel-development-md",
+     "score": 0.0,
+     "line": 1
+    },
+    {
+     "slug": "research-prompt-kohaerenz-protokoll-final-architecture-md",
+     "score": 0.0,
+     "line": 146
+    }
+   ]
+  },
+  "atemporalitaet": {
+   "query": "Atemporalität",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+     "score": 0.84,
+     "line": 276
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophischer-bericht-md",
+     "score": 0.81,
+     "line": 603
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.81,
+     "line": 49
+    },
+    {
+     "slug": "kohaerenz-protokoll-epische-plot-anreicherung",
+     "score": 0.77,
+     "line": 124
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.77,
+     "line": 100
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.77,
+     "line": 680
+    },
+    {
+     "slug": "ki-prompt-analyse-hard-problem-of-consciousness",
+     "score": 0.74,
+     "line": 281
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.7,
+     "line": 147
+    }
+   ]
+  },
+  "blinder-fleck": {
+   "query": "Ontologischer blinder Fleck",
+   "hits": [
+    {
+     "slug": "welten",
+     "score": 0.9,
+     "line": 46
+    },
+    {
+     "slug": "charakterkonzepte-fuer-kohaerenz-protokoll",
+     "score": 0.9,
+     "line": 50
+    },
+    {
+     "slug": "kohaerenz-analyse-kapitel-2",
+     "score": 0.89,
+     "line": 69
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.89,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-blueprint-erstellung",
+     "score": 0.87,
+     "line": 389
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-synthese",
+     "score": 0.87,
+     "line": 41
+    },
+    {
+     "slug": "kohaerenzprotokoll-aegis-und-systementropie",
+     "score": 0.86,
+     "line": 51
+    },
+    {
+     "slug": "roman-synthese-mit-dual-kernel-theorie",
+     "score": 0.86,
+     "line": 415
+    },
+    {
+     "slug": "roman-pitch-reduktion-auf-kern",
+     "score": 0.85,
+     "line": 98
+    },
+    {
+     "slug": "aegis",
+     "score": 0.85,
+     "line": 200
+    }
+   ]
+  },
+  "cache-kohaerenz": {
+   "query": "Cache-Kohärenz",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-analyse-und-verstaendnis",
+     "score": 0.85,
+     "line": 13
+    },
+    {
+     "slug": "kohaerenz-protokoll-spannungsfelder-vertiefen",
+     "score": 0.85,
+     "line": 1
+    },
+    {
+     "slug": "angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll",
+     "score": 0.85,
+     "line": 1
+    },
+    {
+     "slug": "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere",
+     "score": 0.85,
+     "line": 1
+    },
+    {
+     "slug": "roman-konzeptentwicklung-kohaerenz-protokoll",
+     "score": 0.84,
+     "line": 31
+    },
+    {
+     "slug": "kernwelten-fuer-kohaerenz-protokoll",
+     "score": 0.84,
+     "line": 1
+    },
+    {
+     "slug": "plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur",
+     "score": 0.84,
+     "line": 1
+    },
+    {
+     "slug": "narrative-techniken-fuer-kohaerenz-protokoll",
+     "score": 0.84,
+     "line": 276
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik-3",
+     "score": 0.83,
+     "line": 1
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik",
+     "score": 0.83,
+     "line": 1
+    }
+   ]
+  },
+  "cerberus": {
+   "query": "Cerberus",
+   "hits": [
+    {
+     "slug": "kapitel-17",
+     "score": 0.63,
+     "line": 11
+    },
+    {
+     "slug": "kapitel-13-momente",
+     "score": 0.62,
+     "line": 11
+    },
+    {
+     "slug": "kontext-outline",
+     "score": 0.62,
+     "line": 32
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.61,
+     "line": 30
+    },
+    {
+     "slug": "outline-2",
+     "score": 0.61,
+     "line": 151
+    },
+    {
+     "slug": "aegis-persona-and-manifest-generation",
+     "score": 0.61,
+     "line": 87
+    },
+    {
+     "slug": "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+     "score": 0.61,
+     "line": 174
+    },
+    {
+     "slug": "kapitel-18",
+     "score": 0.61,
+     "line": 11
+    },
+    {
+     "slug": "outline-3",
+     "score": 0.61,
+     "line": 163
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-blueprint-erstellung",
+     "score": 0.61,
+     "line": 116
+    }
+   ]
+  },
+  "chaitin-konstante": {
+   "query": "Chaitin-Konstante",
+   "hits": [
+    {
+     "slug": "roman-synthese-mit-dual-kernel-theorie",
+     "score": 0.84,
+     "line": 462
+    },
+    {
+     "slug": "roman-outline-kohaerenz-protokoll",
+     "score": 0.83,
+     "line": 1
+    },
+    {
+     "slug": "dramatica-dual-storyform-mapping-protokoll",
+     "score": 0.82,
+     "line": 155
+    },
+    {
+     "slug": "charaktermodellierung-mit-aieos-schema",
+     "score": 0.82,
+     "line": 35
+    },
+    {
+     "slug": "kohaerenz-protokoll-architecture-synthesis",
+     "score": 0.81,
+     "line": 27
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.8,
+     "line": 286
+    },
+    {
+     "slug": "romanprojekt-analyse-synthese",
+     "score": 0.79,
+     "line": 56
+    },
+    {
+     "slug": "romanprojekt-kohaerenz-protokoll-analyse",
+     "score": 0.79,
+     "line": 89
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophischer-bericht-md",
+     "score": 0.78,
+     "line": 334
+    },
+    {
+     "slug": "roman-konzeptentwicklung-kohaerenz-protokoll",
+     "score": 0.78,
+     "line": 110
+    }
+   ]
+  },
+  "coheron": {
+   "query": "Coheron",
+   "hits": [
+    {
+     "slug": "dkt-fundament-kohaerenz-protokoll-md",
+     "score": 0.78,
+     "line": 9
+    },
+    {
+     "slug": "kohaerenz-protokoll-master-integration-md",
+     "score": 0.78,
+     "line": 33
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophischer-bericht-md",
+     "score": 0.78,
+     "line": 45
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.78,
+     "line": 41
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept-master-md",
+     "score": 0.78,
+     "line": 71
+    },
+    {
+     "slug": "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+     "score": 0.77,
+     "line": 21
+    },
+    {
+     "slug": "companion-guide-to-the-coherence-protocol-understanding-love",
+     "score": 0.77,
+     "line": 15
+    },
+    {
+     "slug": "systemic-architecture-specification-the-coherence-protocol-w",
+     "score": 0.77,
+     "line": 15
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.77,
+     "line": 34
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.77,
+     "line": 38
+    }
+   ]
+  },
+  "datenverarbeitungsknoten-7g": {
+   "query": "Datenverarbeitungsknoten 7G",
+   "hits": [
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.87,
+     "line": 188
+    }
+   ]
+  },
+  "did": {
+   "query": "DID",
+   "hits": [
+    {
+     "slug": "recherche-kohaerenz-protokoll",
+     "score": 0.51,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept",
+     "score": 0.51,
+     "line": 17
+    },
+    {
+     "slug": "tropenanalyse-fuer-kohaerenz-protokoll",
+     "score": 0.51,
+     "line": 17
+    },
+    {
+     "slug": "charakterkonzepte-fuer-kohaerenz-protokoll",
+     "score": 0.51,
+     "line": 18
+    },
+    {
+     "slug": "kohaerenz-protokoll-synthese",
+     "score": 0.51,
+     "line": 171
+    },
+    {
+     "slug": "kohaerenz-protokoll-2",
+     "score": 0.5,
+     "line": 17
+    },
+    {
+     "slug": "konzeptanalyse-kohaerenz-protokoll-s-fundament",
+     "score": 0.5,
+     "line": 82
+    },
+    {
+     "slug": "blueprint-for-narrative-coherence",
+     "score": 0.5,
+     "line": 21
+    },
+    {
+     "slug": "kohaerenzprotokoll-aegis-und-systementropie",
+     "score": 0.5,
+     "line": 15
+    },
+    {
+     "slug": "romanarchitektur-validierung-und-synthese",
+     "score": 0.5,
+     "line": 239
+    }
+   ]
+  },
+  "dkt": {
+   "query": "Dual-Kernel-Theorie",
+   "hits": [
+    {
+     "slug": "global-research-for-kohaerenz-protokoll",
+     "score": 0.8,
+     "line": 1
+    },
+    {
+     "slug": "roman-synthese-mit-dual-kernel-theorie",
+     "score": 0.8,
+     "line": 4
+    },
+    {
+     "slug": "a-critical-evaluation-of-the-coherence-protocol-frameworks-s",
+     "score": 0.8,
+     "line": 1
+    },
+    {
+     "slug": "forschungsprojekt-kohaerenz-protokoll-analyse",
+     "score": 0.8,
+     "line": 1
+    },
+    {
+     "slug": "dramatica-theorie-mapping-auf-wahrheit-bewusstsein",
+     "score": 0.8,
+     "line": 15
+    },
+    {
+     "slug": "dramatica-storyform-kohaerenz-protokoll-analyse",
+     "score": 0.79,
+     "line": 1
+    },
+    {
+     "slug": "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
+     "score": 0.79,
+     "line": 11
+    },
+    {
+     "slug": "kohaerenz-protokoll-system-realitaet-leser",
+     "score": 0.79,
+     "line": 1
+    },
+    {
+     "slug": "ki-roman-architektur-kohaerenz-und-kollaps",
+     "score": 0.79,
+     "line": 21
+    },
+    {
+     "slug": "kohaerenz-protokoll-synthese-integration",
+     "score": 0.79,
+     "line": 1
+    }
+   ]
+  },
+  "drei-ontologische-schichten": {
+   "query": "Drei ontologische Schichten",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.85,
+     "line": 70
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept-master-md",
+     "score": 0.85,
+     "line": 55
+    },
+    {
+     "slug": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+     "score": 0.85,
+     "line": 132
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.85,
+     "line": 1175
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.85,
+     "line": 52
+    },
+    {
+     "slug": "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+     "score": 0.84,
+     "line": 217
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophischer-bericht-md",
+     "score": 0.84,
+     "line": 312
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+     "score": 0.84,
+     "line": 40
+    },
+    {
+     "slug": "roman-konzept-reduktion-und-kernfindung",
+     "score": 0.83,
+     "line": 168
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.83,
+     "line": 388
+    }
+   ]
+  },
+  "ecr": {
+   "query": "ECR",
+   "hits": [
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.89,
+     "line": 56
+    }
+   ]
+  },
+  "emergenz": {
+   "query": "Emergenz",
+   "hits": [
+    {
+     "slug": "emergenz-autonomer-systeme-aegis-forschung",
+     "score": 0.65,
+     "line": 3
+    },
+    {
+     "slug": "narrativ-existenzieller-kohaerenz-nzt-protokoll",
+     "score": 0.65,
+     "line": 27
+    },
+    {
+     "slug": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll",
+     "score": 0.65,
+     "line": 61
+    },
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.65,
+     "line": 3
+    },
+    {
+     "slug": "spannungsfelder-und-aegis-meta-framework-analyse-docx",
+     "score": 0.65,
+     "line": 15
+    },
+    {
+     "slug": "emergenz-aegis-und-selbststrukturierung",
+     "score": 0.65,
+     "line": 3
+    },
+    {
+     "slug": "kohaerenz-protokoll-umfassendes-konzept-mit-prin",
+     "score": 0.64,
+     "line": 17
+    },
+    {
+     "slug": "aegis-protokolle-kritische-evaluation-neukonzeption",
+     "score": 0.64,
+     "line": 34
+    },
+    {
+     "slug": "plot-konzepte-kohaerenz-protokoll-generierung",
+     "score": 0.64,
+     "line": 26
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-synthese",
+     "score": 0.64,
+     "line": 149
+    }
+   ]
+  },
+  "entropie": {
+   "query": "Entropie",
+   "hits": [
+    {
+     "slug": "entropie-aegis",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "aegis-singularitaet-jenseits-entropiegleichung-2",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "kohaerenzprotokoll-aegis-und-systementropie",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern",
+     "score": 0.0,
+     "line": 19
+    },
+    {
+     "slug": "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+     "score": 0.0,
+     "line": 21
+    },
+    {
+     "slug": "kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest",
+     "score": 0.0,
+     "line": 30
+    },
+    {
+     "slug": "kohaerenz-protokoll-2",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-protokoll-system-realitaet-leser",
+     "score": 0.0,
+     "line": 19
+    },
+    {
+     "slug": "emergenz-autonomer-systeme-aegis-forschung",
+     "score": 0.0,
+     "line": 33
+    }
+   ]
+  },
+  "entropie-katastrophe": {
+   "query": "Maximale Entropie-Katastrophe",
+   "hits": [
+    {
+     "slug": "kohaerenzprotokoll-aegis-und-systementropie",
+     "score": 0.92,
+     "line": 15
+    },
+    {
+     "slug": "paradoxien-der-kohaerenz-protokoll-entwicklung",
+     "score": 0.9,
+     "line": 19
+    },
+    {
+     "slug": "welten",
+     "score": 0.9,
+     "line": 46
+    }
+   ]
+  },
+  "entropie-resonanz": {
+   "query": "Entropie-Resonanz / Entropie-Resonanz-Protokolle",
+   "hits": [
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.94,
+     "line": 17
+    }
+   ]
+  },
+  "entropie-signatur": {
+   "query": "Entropie-Signatur",
+   "hits": [
+    {
+     "slug": "entropie-aegis",
+     "score": 0.85,
+     "line": 69
+    },
+    {
+     "slug": "romananalyse-kohaerenz-plot-kritik",
+     "score": 0.8,
+     "line": 156
+    }
+   ]
+  },
+  "erason": {
+   "query": "Erason",
+   "hits": [
+    {
+     "slug": "dkt-fundament-kohaerenz-protokoll-md",
+     "score": 0.81,
+     "line": 38
+    },
+    {
+     "slug": "kohaerenz-protokoll-master-integration-md",
+     "score": 0.81,
+     "line": 50
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept-master-md",
+     "score": 0.81,
+     "line": 99
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.8,
+     "line": 59
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.8,
+     "line": 37
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophischer-bericht-md",
+     "score": 0.79,
+     "line": 75
+    },
+    {
+     "slug": "companion-guide-to-the-coherence-protocol-understanding-love",
+     "score": 0.79,
+     "line": 25
+    },
+    {
+     "slug": "editorial-style-dossier-somatic-and-linguistic-implementatio",
+     "score": 0.79,
+     "line": 19
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.79,
+     "line": 113
+    },
+    {
+     "slug": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+     "score": 0.78,
+     "line": 21
+    }
+   ]
+  },
+  "evaluierungseinheit": {
+   "query": "Evaluierungseinheit",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.85,
+     "line": 361
+    },
+    {
+     "slug": "roman-synthese-mit-dual-kernel-theorie",
+     "score": 0.79,
+     "line": 145
+    },
+    {
+     "slug": "kohaerenz-protokoll",
+     "score": 0.78,
+     "line": 220
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.77,
+     "line": 578
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.75,
+     "line": 219
+    },
+    {
+     "slug": "dramatica-storyform-synthese-aegis-analyse-2",
+     "score": 0.74,
+     "line": 163
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.69,
+     "line": 513
+    }
+   ]
+  },
+  "externe-ebene": {
+   "query": "Externe Ebene",
+   "hits": [
+    {
+     "slug": "junas-liebe-kaels-trauma-aegis-docx",
+     "score": 0.0,
+     "line": 19
+    },
+    {
+     "slug": "recherche-kohaerenz-protokoll",
+     "score": 0.0,
+     "line": 23
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept",
+     "score": 0.0,
+     "line": 19
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.0,
+     "line": 22
+    },
+    {
+     "slug": "explizites-subplot-konzept-fuer-kohaerenz-protokoll",
+     "score": 0.0,
+     "line": 78
+    },
+    {
+     "slug": "kohaerenz-protokoll-2",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
+     "score": 0.0,
+     "line": 21
+    },
+    {
+     "slug": "plan-zur-subplot-integration-fuer-den-roman-erweitert",
+     "score": 0.0,
+     "line": 21
+    },
+    {
+     "slug": "recherche-ueberwelt",
+     "score": 0.0,
+     "line": 157
+    },
+    {
+     "slug": "projekt-kohaerenz-protokoll-tiefenanalyse",
+     "score": 0.0,
+     "line": 48
+    }
+   ]
+  },
+  "formel-inversion": {
+   "query": "Formel-Inversion",
+   "hits": [
+    {
+     "slug": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+     "score": 0.82,
+     "line": 201
+    },
+    {
+     "slug": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+     "score": 0.8,
+     "line": 108
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.8,
+     "line": 29
+    },
+    {
+     "slug": "kapitel-kompendium-gather-2026-05-31-md",
+     "score": 0.78,
+     "line": 240
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.78,
+     "line": 88
+    },
+    {
+     "slug": "kap0-v1-annotiert-md",
+     "score": 0.76,
+     "line": 393
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+     "score": 0.69,
+     "line": 100
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.69,
+     "line": 1212
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.65,
+     "line": 75
+    }
+   ]
+  },
+  "garten-der-stillen-praesenz": {
+   "query": "Garten der stillen Präsenz",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.89,
+     "line": 480
+    },
+    {
+     "slug": "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+     "score": 0.88,
+     "line": 22
+    },
+    {
+     "slug": "romanentwurf-ruf-des-abenteuers",
+     "score": 0.87,
+     "line": 23
+    },
+    {
+     "slug": "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
+     "score": 0.86,
+     "line": 79
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.86,
+     "line": 238
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.86,
+     "line": 280
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.85,
+     "line": 13
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.85,
+     "line": 21
+    },
+    {
+     "slug": "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
+     "score": 0.85,
+     "line": 129
+    },
+    {
+     "slug": "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+     "score": 0.84,
+     "line": 50
+    }
+   ]
+  },
+  "genesis": {
+   "query": "Genesis",
+   "hits": [
+    {
+     "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+     "score": 0.47,
+     "line": 3
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.47,
+     "line": 29
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.47,
+     "line": 2
+    },
+    {
+     "slug": "rechercheauftrag-die-genesis-von-aegis",
+     "score": 0.47,
+     "line": 3
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.47,
+     "line": 50
+    },
+    {
+     "slug": "kapitel-kompendium-gather-2026-05-31-md",
+     "score": 0.47,
+     "line": 48
+    },
+    {
+     "slug": "ontologie-des-gelesenen-traumas",
+     "score": 0.47,
+     "line": 13
+    },
+    {
+     "slug": "genesis-logik-krise-zerstueckelung",
+     "score": 0.47,
+     "line": 3
+    },
+    {
+     "slug": "roman-plot-konzept-kohaerenz-protokoll",
+     "score": 0.47,
+     "line": 15
+    },
+    {
+     "slug": "optimierte-plotline-genesis-der-existenz",
+     "score": 0.47,
+     "line": 3
+    }
+   ]
+  },
+  "genesis-klammer": {
+   "query": "Genesis-Klammer",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.81,
+     "line": 20
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.79,
+     "line": 616
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+     "score": 0.79,
+     "line": 464
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.79,
+     "line": 17
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+     "score": 0.78,
+     "line": 27
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.74,
+     "line": 125
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.7,
+     "line": 88
+    }
+   ]
+  },
+  "goedel-gambit": {
+   "query": "Gödel-Gambit",
+   "hits": [
+    {
+     "slug": "duale-storyform-synthese-kohaerenz-protokoll",
+     "score": 0.79,
+     "line": 19
+    },
+    {
+     "slug": "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
+     "score": 0.78,
+     "line": 1
+    },
+    {
+     "slug": "how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw",
+     "score": 0.77,
+     "line": 52
+    },
+    {
+     "slug": "the-ontology-of-antagonism-the-function-of-paradox-in-kohaer",
+     "score": 0.77,
+     "line": 93
+    },
+    {
+     "slug": "plot-exploration-kohaerenz-protokollkonzepte",
+     "score": 0.77,
+     "line": 67
+    },
+    {
+     "slug": "the-k-j-connection-defining-the-non-algorithmic-mechanism-of",
+     "score": 0.77,
+     "line": 61
+    },
+    {
+     "slug": "the-writer-s-room-blueprint-coherence-protocol",
+     "score": 0.77,
+     "line": 17
+    },
+    {
+     "slug": "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste",
+     "score": 0.77,
+     "line": 88
+    },
+    {
+     "slug": "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+     "score": 0.77,
+     "line": 65
+    },
+    {
+     "slug": "romanprojekt-kohaerenz-protokoll-leitfragen",
+     "score": 0.76,
+     "line": 29
+    }
+   ]
+  },
+  "grenzfeste": {
+   "query": "Grenzfeste",
+   "hits": [
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.8,
+     "line": 41
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik-3",
+     "score": 0.8,
+     "line": 63
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik",
+     "score": 0.8,
+     "line": 67
+    },
+    {
+     "slug": "plot-analyse-und-romanentwicklung",
+     "score": 0.8,
+     "line": 72
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik-2",
+     "score": 0.8,
+     "line": 67
+    },
+    {
+     "slug": "charakterkonzepte-fuer-kohaerenz-protokoll",
+     "score": 0.8,
+     "line": 30
+    },
+    {
+     "slug": "roman-outline-system-kael",
+     "score": 0.8,
+     "line": 116
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-teil-1",
+     "score": 0.8,
+     "line": 33
+    },
+    {
+     "slug": "roman-entwicklung-kohaerenz-und-leitfragen",
+     "score": 0.8,
+     "line": 58
+    },
+    {
+     "slug": "kohaerenz-protokoll-analyse-und-loglines",
+     "score": 0.79,
+     "line": 38
+    }
+   ]
+  },
+  "grosse-mauer": {
+   "query": "Die Große Mauer",
+   "hits": [
+    {
+     "slug": "romanplot-kohaerenz-protokoll-teil-1",
+     "score": 0.81,
+     "line": 170
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.81,
+     "line": 208
+    },
+    {
+     "slug": "kohaerenz-protokoll",
+     "score": 0.8,
+     "line": 35
+    },
+    {
+     "slug": "romanarchitektur-kael-aegis-entropie-docx",
+     "score": 0.8,
+     "line": 25
+    },
+    {
+     "slug": "kohaerenz-protokoll-thematische-tiefenanalyse",
+     "score": 0.8,
+     "line": 176
+    },
+    {
+     "slug": "kohaerenz-protokoll-finaler-plot-blueprint",
+     "score": 0.79,
+     "line": 99
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.78,
+     "line": 65
+    },
+    {
+     "slug": "romanentwurf-ruf-des-abenteuers",
+     "score": 0.78,
+     "line": 163
+    },
+    {
+     "slug": "genesis-der-leere",
+     "score": 0.78,
+     "line": 115
+    },
+    {
+     "slug": "kohaerenz-protokoll-finaler-plot-outline",
+     "score": 0.78,
+     "line": 158
+    }
+   ]
+  },
+  "guardians": {
+   "query": "Guardians",
+   "hits": [
+    {
+     "slug": "roman-blueprint-seelen-kohaerenz-protokoll",
+     "score": 0.23,
+     "line": 35
+    },
+    {
+     "slug": "in-teil-2-werden-die-persona-von-ihren-spezifis",
+     "score": 0.23,
+     "line": 14
+    },
+    {
+     "slug": "recherche-kohaerenz-protokoll",
+     "score": 0.23,
+     "line": 17
+    },
+    {
+     "slug": "liste-nun-alle-plot-ideen-kurz-auf",
+     "score": 0.23,
+     "line": 11
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept",
+     "score": 0.23,
+     "line": 17
+    },
+    {
+     "slug": "the-coherence-protocol-a-narrative-mosaic",
+     "score": 0.23,
+     "line": 1
+    },
+    {
+     "slug": "digitale-uberwelt",
+     "score": 0.23,
+     "line": 15
+    },
+    {
+     "slug": "recherche-ueberwelt",
+     "score": 0.23,
+     "line": 13
+    },
+    {
+     "slug": "kohaerenz-protokoll-2",
+     "score": 0.22,
+     "line": 17
+    },
+    {
+     "slug": "erstelle-eine-liste-mit-allen-plot-points-formu",
+     "score": 0.22,
+     "line": 11
+    }
+   ]
+  },
+  "hitze-polaritaetsregel": {
+   "query": "Hitze-Polaritätsregel",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.85,
+     "line": 337
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.81,
+     "line": 52
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.77,
+     "line": 64
+    }
+   ]
+  },
+  "isabelle": {
+   "query": "Isabelle",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.76,
+     "line": 54
+    },
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.76,
+     "line": 15
+    },
+    {
+     "slug": "charakter-kompilation-fuer-kohaerenz-protokoll",
+     "score": 0.76,
+     "line": 212
+    },
+    {
+     "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     "score": 0.76,
+     "line": 45
+    },
+    {
+     "slug": "strukturelle-dissoziation-system-kael-analyse",
+     "score": 0.75,
+     "line": 15
+    },
+    {
+     "slug": "protokoll-der-offenbarung",
+     "score": 0.75,
+     "line": 1
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.75,
+     "line": 320
+    },
+    {
+     "slug": "mining-report-kohaerenz-protokoll-plot-outline-construction",
+     "score": 0.74,
+     "line": 82
+    },
+    {
+     "slug": "argus-chronist-der-wandlung",
+     "score": 0.74,
+     "line": 74
+    },
+    {
+     "slug": "forschungsauftrag-spannungspunktanalyse-und-charakterausarbe",
+     "score": 0.74,
+     "line": 111
+    }
+   ]
+  },
+  "juna": {
+   "query": "Juna",
+   "hits": [
+    {
+     "slug": "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "junas-liebe-kaels-trauma-aegis-docx",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "juna-resilienz-zyklus-konzeptentwicklung",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "untersuche-in-wie-fern-juna-bzw-das-fundament-du",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "finales-kausales-plot-geruest",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "juna-kael-system-krisenanalyse-und-rettungsplan",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "juna",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "juna-kael-system-analyse-und-rettungsplan-docx",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "juna-v-exiliertes-ursprungs-ich",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "monstergruppe-babygruppe-und-kael",
+     "score": 0.0,
+     "line": 15
+    }
+   ]
+  },
+  "junas-ankerpunkt": {
+   "query": "Junas Ankerpunkt",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.81,
+     "line": 664
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+     "score": 0.79,
+     "line": 146
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-3",
+     "score": 0.79,
+     "line": 148
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
+     "score": 0.79,
+     "line": 49
+    },
+    {
+     "slug": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+     "score": 0.77,
+     "line": 145
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.75,
+     "line": 236
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+     "score": 0.74,
+     "line": 129
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-synthese-2",
+     "score": 0.74,
+     "line": 71
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.74,
+     "line": 326
+    },
+    {
+     "slug": "juna",
+     "score": 0.74,
+     "line": 104
+    }
+   ]
+  },
+  "k0-existenz": {
+   "query": "K0-Existenz",
+   "hits": [
+    {
+     "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+     "score": 0.84,
+     "line": 48
+    },
+    {
+     "slug": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+     "score": 0.77,
+     "line": 139
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.7,
+     "line": 58
+    }
+   ]
+  },
+  "kael": {
+   "query": "Kael",
+   "hits": [
+    {
+     "slug": "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-protokoll-39-kapitel-matrix",
+     "score": 0.0,
+     "line": 23
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.0,
+     "line": 44
+    },
+    {
+     "slug": "finales-kausales-plot-geruest",
+     "score": 0.0,
+     "line": 16
+    },
+    {
+     "slug": "outline-2",
+     "score": 0.0,
+     "line": 23
+    },
+    {
+     "slug": "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+     "score": 0.0,
+     "line": 13
+    },
+    {
+     "slug": "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+     "score": 0.0,
+     "line": 19
+    },
+    {
+     "slug": "monstergruppe-primzahlen-plot-blueprint",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "kontext-outline",
+     "score": 0.0,
+     "line": 11
+    },
+    {
+     "slug": "outline-3",
+     "score": 0.0,
+     "line": 17
+    }
+   ]
+  },
+  "kael-julia-bindung": {
+   "query": "Kael-Julia-Bindung",
+   "hits": [
+    {
+     "slug": "kohaerenzprotokoll-aegis-und-systementropie",
+     "score": 0.89,
+     "line": 17
+    }
+   ]
+  },
+  "kaels-wohneinheit": {
+   "query": "Kaels Wohneinheit 1.0",
+   "hits": [
+    {
+     "slug": "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+     "score": 0.79,
+     "line": 15
+    },
+    {
+     "slug": "2026-09-14-kap25-vertiefung-md",
+     "score": 0.79,
+     "line": 22
+    },
+    {
+     "slug": "vorarbeiten-ausformulierung-kapitel-1-teil-1",
+     "score": 0.79,
+     "line": 15
+    },
+    {
+     "slug": "kp-kap25-2026-09-14-md",
+     "score": 0.77,
+     "line": 33
+    },
+    {
+     "slug": "romanentwurf-kapitel-1-ausformulierung",
+     "score": 0.76,
+     "line": 55
+    },
+    {
+     "slug": "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
+     "score": 0.76,
+     "line": 52
+    },
+    {
+     "slug": "umfassendes-lokalitaeten-konzept-fuer-roman",
+     "score": 0.75,
+     "line": 108
+    },
+    {
+     "slug": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+     "score": 0.73,
+     "line": 52
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.73,
+     "line": 152
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.73,
+     "line": 105
+    }
+   ]
+  },
+  "kairos": {
+   "query": "Kairos",
+   "hits": [
+    {
+     "slug": "heilung-hirnchemie-kunst-trauma",
+     "score": 0.69,
+     "line": 13
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.68,
+     "line": 30
+    },
+    {
+     "slug": "aegis-persona-and-manifest-generation",
+     "score": 0.68,
+     "line": 103
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.68,
+     "line": 13
+    },
+    {
+     "slug": "digitale-uberwelt",
+     "score": 0.68,
+     "line": 17
+    },
+    {
+     "slug": "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
+     "score": 0.67,
+     "line": 22
+    },
+    {
+     "slug": "orte-konzept-fuer-kohaerenz-protokoll",
+     "score": 0.67,
+     "line": 25
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-teil-1",
+     "score": 0.67,
+     "line": 45
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-blueprint-erstellung",
+     "score": 0.67,
+     "line": 117
+    },
+    {
+     "slug": "kontext-outline",
+     "score": 0.67,
+     "line": 33
+    }
+   ]
+  },
+  "kern-welten": {
+   "query": "Kern-Welten",
+   "hits": [
+    {
+     "slug": "welten",
+     "score": 0.78,
+     "line": 11
+    },
+    {
+     "slug": "lokalitaeten-konzept-fuer-roman-simulation",
+     "score": 0.78,
+     "line": 19
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.77,
+     "line": 3
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+     "score": 0.77,
+     "line": 15
+    },
+    {
+     "slug": "plot-blueprint-methodik-kohaerenz-protokoll",
+     "score": 0.77,
+     "line": 31
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-3",
+     "score": 0.77,
+     "line": 15
+    },
+    {
+     "slug": "roman-blueprint-seelen-kohaerenz-protokoll",
+     "score": 0.76,
+     "line": 23
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.76,
+     "line": 25
+    },
+    {
+     "slug": "charakterkonzepte-fuer-kohaerenz-protokoll",
+     "score": 0.76,
+     "line": 30
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-teil-1",
+     "score": 0.76,
+     "line": 15
+    }
+   ]
+  },
+  "kiko": {
+   "query": "Kiko",
+   "hits": [
+    {
+     "slug": "tsdp-analyse-kaels-innere-welt",
+     "score": 0.62,
+     "line": 17
+    },
+    {
+     "slug": "kael-s-dissociative-architecture-analysis",
+     "score": 0.62,
+     "line": 21
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.62,
+     "line": 54
+    },
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.62,
+     "line": 15
+    },
+    {
+     "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     "score": 0.62,
+     "line": 45
+    },
+    {
+     "slug": "strukturelle-dissoziation-system-kael-analyse",
+     "score": 0.62,
+     "line": 15
+    },
+    {
+     "slug": "kernwelten-und-fragmentierte-wahrnehmung",
+     "score": 0.61,
+     "line": 41
+    },
+    {
+     "slug": "charaktere",
+     "score": 0.61,
+     "line": 42
+    },
+    {
+     "slug": "charakter-kompilation-fuer-kohaerenz-protokoll",
+     "score": 0.61,
+     "line": 34
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.61,
+     "line": 320
+    }
+   ]
+  },
+  "kishotenketsu": {
+   "query": "Kishōtenketsu",
+   "hits": [
+    {
+     "slug": "bewerte-kishotenketsu-als-zentrales-narrativ",
+     "score": 0.85,
+     "line": 3
+    },
+    {
+     "slug": "romanstruktur-duale-erzaehlung-und-kishotenketsu",
+     "score": 0.85,
+     "line": 3
+    },
+    {
+     "slug": "roman-konzeptentwicklung-kohaerenz-protokoll",
+     "score": 0.85,
+     "line": 57
+    },
+    {
+     "slug": "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
+     "score": 0.84,
+     "line": 3
+    },
+    {
+     "slug": "romanstruktur-3-teile-39-kapitel-1-anfang",
+     "score": 0.84,
+     "line": 25
+    },
+    {
+     "slug": "three-mode-architecture-39-chapters-md",
+     "score": 0.84,
+     "line": 315
+    },
+    {
+     "slug": "narrative-architektur-fuer-kohaerenz-protokoll",
+     "score": 0.83,
+     "line": 412
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.83,
+     "line": 13
+    },
+    {
+     "slug": "kapitel-kompendium-gather-2026-05-31-md",
+     "score": 0.83,
+     "line": 56
+    },
+    {
+     "slug": "kohaerenz-protokoll-duale-dramatica-storyform-synthese",
+     "score": 0.82,
+     "line": 30
+    }
+   ]
+  },
+  "kohaerenz": {
+   "query": "Kohärenz",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-weltkonzept-synthese",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "kohaerenz-protokoll-analyse-und-verstaendnis",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "plot-konzepte-kohaerenz-protokoll-generierung",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "coherence-critique-and-question-generation",
+     "score": 0.0,
+     "line": 13
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzeptionelle-ausarbeitung",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "aegis-philosophie-und-manifest-entwicklung",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "integriertes-kohaerenz-protokoll-erstellung",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet",
+     "score": 0.0,
+     "line": 3
+    },
+    {
+     "slug": "projektanalyse-kohaerenz-protokoll-dis",
+     "score": 0.0,
+     "line": 3
+    }
+   ]
+  },
+  "kohaerenz-kernel": {
+   "query": "Kohärenz-Kernel",
+   "hits": [
+    {
+     "slug": "ki-narrative-kollaps-kohaerenz-paradoxie",
+     "score": 0.82,
+     "line": 59
+    },
+    {
+     "slug": "kohaerenz-protokoll-duale-dramatica-storyform-synthese",
+     "score": 0.82,
+     "line": 20
+    },
+    {
+     "slug": "romanprojekt-analyse-synthese",
+     "score": 0.81,
+     "line": 17
+    },
+    {
+     "slug": "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
+     "score": 0.81,
+     "line": 39
+    },
+    {
+     "slug": "ontologische-inversion-von-aegis-kritisches-framework",
+     "score": 0.8,
+     "line": 79
+    },
+    {
+     "slug": "charaktermodellierung-mit-aieos-schema",
+     "score": 0.79,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-generierung-2",
+     "score": 0.79,
+     "line": 17
+    },
+    {
+     "slug": "roman-pitch-reduktion-auf-kern",
+     "score": 0.79,
+     "line": 13
+    },
+    {
+     "slug": "ki-roman-architektur-kohaerenz-und-kollaps",
+     "score": 0.79,
+     "line": 29
+    },
+    {
+     "slug": "ki-assistent-romanwelt-kohaerenz-und-aegis-spec",
+     "score": 0.78,
+     "line": 21
+    }
+   ]
+  },
+  "kohaerenz-programm": {
+   "query": "Kohärenz-Programm",
+   "hits": [
+    {
+     "slug": "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz",
+     "score": 0.89,
+     "line": 11
+    },
+    {
+     "slug": "im-finale-wendet-sich-fuer-persona-der-partnerin-z",
+     "score": 0.88,
+     "line": 19
+    },
+    {
+     "slug": "liste-nun-alle-plot-ideen-kurz-auf",
+     "score": 0.87,
+     "line": 21
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.87,
+     "line": 23
+    },
+    {
+     "slug": "in-teil-2-werden-die-persona-von-ihren-spezifis",
+     "score": 0.87,
+     "line": 33
+    },
+    {
+     "slug": "erstelle-eine-liste-mit-allen-plot-points-formu",
+     "score": 0.87,
+     "line": 17
+    },
+    {
+     "slug": "plotpunkte-liste",
+     "score": 0.86,
+     "line": 30
+    },
+    {
+     "slug": "parakonsistente-logik-im-seelen-protokoll",
+     "score": 0.83,
+     "line": 17
+    },
+    {
+     "slug": "roman-blueprint-seelen-kohaerenz-protokoll",
+     "score": 0.7,
+     "line": 84
+    }
+   ]
+  },
+  "kollaps-kernel": {
+   "query": "Kollaps-Kernel",
+   "hits": [
+    {
+     "slug": "aegis-und-der-kollaps-kritische-analyse",
+     "score": 0.84,
+     "line": 11
+    },
+    {
+     "slug": "ki-narrative-kollaps-kohaerenz-paradoxie",
+     "score": 0.83,
+     "line": 63
+    },
+    {
+     "slug": "charaktermodellierung-mit-aieos-schema",
+     "score": 0.82,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-protokoll-architektur-implementierung",
+     "score": 0.82,
+     "line": 13
+    },
+    {
+     "slug": "romanprojekt-analyse-synthese",
+     "score": 0.82,
+     "line": 17
+    },
+    {
+     "slug": "aieos-schema-fuer-ki-charaktere",
+     "score": 0.82,
+     "line": 307
+    },
+    {
+     "slug": "ontologische-inversion-von-aegis-kritisches-framework",
+     "score": 0.81,
+     "line": 81
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzeptionelle-themen-struktur",
+     "score": 0.8,
+     "line": 50
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-generierung-2",
+     "score": 0.8,
+     "line": 17
+    },
+    {
+     "slug": "analyse-des-romanprojekts-kohaerenz-protokoll",
+     "score": 0.8,
+     "line": 30
+    }
+   ]
+  },
+  "komponente-734": {
+   "query": "Komponente 734",
+   "hits": [
+    {
+     "slug": "genesis-prosa-ausformulierung-gesamt",
+     "score": 0.82,
+     "line": 105
+    },
+    {
+     "slug": "optimierte-plotline-genesis-der-existenz",
+     "score": 0.82,
+     "line": 109
+    },
+    {
+     "slug": "genesis-und-krise-ausfuehrliche-darstellung",
+     "score": 0.82,
+     "line": 43
+    },
+    {
+     "slug": "genesis-finale-prosa-angepasste-ich-natur",
+     "score": 0.82,
+     "line": 71
+    },
+    {
+     "slug": "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
+     "score": 0.82,
+     "line": 73
+    },
+    {
+     "slug": "genesis-ein-implementierungsleitfaden-prosa-version",
+     "score": 0.82,
+     "line": 21
+    },
+    {
+     "slug": "genesis-mehrstufige-recherche-und-ausformulierung",
+     "score": 0.82,
+     "line": 21
+    },
+    {
+     "slug": "genesis-logik-krise-zerstueckelung",
+     "score": 0.82,
+     "line": 45
+    },
+    {
+     "slug": "uberarbeitete-optimierte-plotline-genesis-der-existenz",
+     "score": 0.82,
+     "line": 73
+    },
+    {
+     "slug": "genesis-aegis-und-logische-grenzen",
+     "score": 0.82,
+     "line": 71
+    }
+   ]
+  },
+  "konstrukt-stadt": {
+   "query": "Konstrukt-Stadt",
+   "hits": [
+    {
+     "slug": "nichts-ordnung-fragmentierung-resonanz-nebel",
+     "score": 0.72,
+     "line": 15
+    },
+    {
+     "slug": "roman-outline-stilmittel-perspektiven-umsetzung",
+     "score": 0.72,
+     "line": 47
+    },
+    {
+     "slug": "roman-kapitel-1-erstellung-analyse",
+     "score": 0.72,
+     "line": 23
+    },
+    {
+     "slug": "romanentwurf-kohaerenz-protokoll-teil-1",
+     "score": 0.72,
+     "line": 21
+    },
+    {
+     "slug": "kapitel-eins-welterkundung-konstrukt-stadt",
+     "score": 0.72,
+     "line": 3
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik-2",
+     "score": 0.71,
+     "line": 32
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik-3",
+     "score": 0.71,
+     "line": 49
+    },
+    {
+     "slug": "kohaerenz-analyse-kapitel-2",
+     "score": 0.71,
+     "line": 59
+    },
+    {
+     "slug": "charakterkonzepte-fuer-kohaerenz-protokoll",
+     "score": 0.71,
+     "line": 26
+    },
+    {
+     "slug": "roman-entwicklung-kohaerenz-und-leitfragen",
+     "score": 0.71,
+     "line": 35
+    }
+   ]
+  },
+  "landauer-signatur": {
+   "query": "Landauer-Signatur",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.82,
+     "line": 64
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.8,
+     "line": 63
+    },
+    {
+     "slug": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+     "score": 0.72,
+     "line": 133
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.71,
+     "line": 1042
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.68,
+     "line": 428
+    }
+   ]
+  },
+  "lex": {
+   "query": "Lex",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.51,
+     "line": 13
+    },
+    {
+     "slug": "tsdp-analyse-kaels-innere-welt",
+     "score": 0.51,
+     "line": 17
+    },
+    {
+     "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     "score": 0.51,
+     "line": 17
+    },
+    {
+     "slug": "strukturelle-dissoziation-system-kael-analyse",
+     "score": 0.51,
+     "line": 15
+    },
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.51,
+     "line": 15
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.51,
+     "line": 133
+    },
+    {
+     "slug": "outline-2",
+     "score": 0.51,
+     "line": 39
+    },
+    {
+     "slug": "heilung-der-verlust-von-superkraeften",
+     "score": 0.51,
+     "line": 33
+    },
+    {
+     "slug": "roman-outline-fuer-kohaerenz-protokoll",
+     "score": 0.51,
+     "line": 27
+    },
+    {
+     "slug": "kernwelten-und-fragmentierte-wahrnehmung",
+     "score": 0.51,
+     "line": 33
+    }
+   ]
+  },
+  "lia": {
+   "query": "Lia",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.72,
+     "line": 32
+    },
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.72,
+     "line": 15
+    },
+    {
+     "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     "score": 0.72,
+     "line": 45
+    },
+    {
+     "slug": "projekt-kohaerenz-protokoll-tiefenanalyse",
+     "score": 0.72,
+     "line": 9
+    },
+    {
+     "slug": "strukturelle-dissoziation-system-kael-analyse",
+     "score": 0.72,
+     "line": 15
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.71,
+     "line": 97
+    },
+    {
+     "slug": "charaktere",
+     "score": 0.71,
+     "line": 42
+    },
+    {
+     "slug": "charakter-kompilation-fuer-kohaerenz-protokoll",
+     "score": 0.71,
+     "line": 169
+    },
+    {
+     "slug": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+     "score": 0.71,
+     "line": 39
+    },
+    {
+     "slug": "kernwelten-und-fragmentierte-wahrnehmung",
+     "score": 0.71,
+     "line": 94
+    }
+   ]
+  },
+  "logos": {
+   "query": "LogOS",
+   "hits": [
+    {
+     "slug": "kapitel-18",
+     "score": 0.53,
+     "line": 11
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.52,
+     "line": 19
+    },
+    {
+     "slug": "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+     "score": 0.52,
+     "line": 1
+    },
+    {
+     "slug": "narrative-physik-attraktoren-leserbewusstsein",
+     "score": 0.52,
+     "line": 58
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-blueprint-erstellung",
+     "score": 0.52,
+     "line": 114
+    },
+    {
+     "slug": "aegis-persona-and-manifest-generation",
+     "score": 0.52,
+     "line": 55
+    },
+    {
+     "slug": "kontext-outline",
+     "score": 0.52,
+     "line": 30
+    },
+    {
+     "slug": "outline-2",
+     "score": 0.52,
+     "line": 44
+    },
+    {
+     "slug": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+     "score": 0.52,
+     "line": 62
+    },
+    {
+     "slug": "aegis-manifest-genesis-krise-reboot",
+     "score": 0.51,
+     "line": 71
+    }
+   ]
+  },
+  "mnemosyne": {
+   "query": "Mnemosyne",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+     "score": 0.54,
+     "line": 66
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.54,
+     "line": 13
+    },
+    {
+     "slug": "kontext-outline",
+     "score": 0.54,
+     "line": 31
+    },
+    {
+     "slug": "outline-2",
+     "score": 0.54,
+     "line": 95
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.54,
+     "line": 113
+    },
+    {
+     "slug": "outline-3",
+     "score": 0.54,
+     "line": 99
+    },
+    {
+     "slug": "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+     "score": 0.54,
+     "line": 106
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.53,
+     "line": 51
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.53,
+     "line": 28
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.53,
+     "line": 30
+    }
+   ]
+  },
+  "mnemosyne-server-architektur": {
+   "query": "Mnemosyne-Server-Architektur",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.85,
+     "line": 250
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.79,
+     "line": 162
+    },
+    {
+     "slug": "kapitel-kompendium-gather-2026-05-31-md",
+     "score": 0.79,
+     "line": 232
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.74,
+     "line": 535
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.74,
+     "line": 370
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.71,
+     "line": 595
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.66,
+     "line": 496
+    }
+   ]
+  },
+  "moeglichkeits-garten": {
+   "query": "Möglichkeits-Garten",
+   "hits": [
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.78,
+     "line": 41
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.77,
+     "line": 26
+    },
+    {
+     "slug": "roman-blueprint-seelen-kohaerenz-protokoll",
+     "score": 0.77,
+     "line": 67
+    },
+    {
+     "slug": "roman-outline-system-kael",
+     "score": 0.77,
+     "line": 161
+    },
+    {
+     "slug": "parakonsistente-logik-im-seelen-protokoll",
+     "score": 0.77,
+     "line": 73
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-teil-1",
+     "score": 0.77,
+     "line": 41
+    },
+    {
+     "slug": "kohaerenz-protokoll-analyse-und-loglines",
+     "score": 0.76,
+     "line": 38
+    },
+    {
+     "slug": "kohaerenz-protokoll-2",
+     "score": 0.76,
+     "line": 60
+    },
+    {
+     "slug": "umfassendes-lokalitaeten-konzept-fuer-roman",
+     "score": 0.75,
+     "line": 67
+    },
+    {
+     "slug": "roman-entwicklung-kohaerenz-und-leitfragen",
+     "score": 0.75,
+     "line": 81
+    }
+   ]
+  },
+  "moonshine-link": {
+   "query": "Moonshine-Link",
+   "hits": [
+    {
+     "slug": "the-k-j-connection-defining-the-non-algorithmic-mechanism-of",
+     "score": 0.7,
+     "line": 3
+    },
+    {
+     "slug": "the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found",
+     "score": 0.69,
+     "line": 15
+    },
+    {
+     "slug": "kohaerenz-protokoll-synthese",
+     "score": 0.68,
+     "line": 19
+    },
+    {
+     "slug": "report-the-transcendent-architecture-of-the-kohaerenz-protok",
+     "score": 0.68,
+     "line": 7
+    },
+    {
+     "slug": "romanarchitektur-validierung-und-synthese",
+     "score": 0.68,
+     "line": 43
+    },
+    {
+     "slug": "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
+     "score": 0.68,
+     "line": 43
+    },
+    {
+     "slug": "refining-dramatica-storyform-for-kohaerenz-protokoll",
+     "score": 0.68,
+     "line": 62
+    },
+    {
+     "slug": "report-reorienting-the-central-conflict-as-a-call-to-wholene",
+     "score": 0.68,
+     "line": 30
+    },
+    {
+     "slug": "the-coherence-protocol-a-narrative-design-world-architecture",
+     "score": 0.67,
+     "line": 39
+    },
+    {
+     "slug": "deconstructing-reality-s-architecture",
+     "score": 0.67,
+     "line": 71
+    }
+   ]
+  },
+  "moros": {
+   "query": "Moros",
+   "hits": [
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.71,
+     "line": 15
+    },
+    {
+     "slug": "strukturelle-dissoziation-system-kael-analyse",
+     "score": 0.71,
+     "line": 15
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.71,
+     "line": 54
+    },
+    {
+     "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     "score": 0.71,
+     "line": 45
+    },
+    {
+     "slug": "charaktere",
+     "score": 0.71,
+     "line": 59
+    },
+    {
+     "slug": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+     "score": 0.7,
+     "line": 39
+    },
+    {
+     "slug": "kernwelten-und-fragmentierte-wahrnehmung",
+     "score": 0.7,
+     "line": 32
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.7,
+     "line": 320
+    },
+    {
+     "slug": "juna-kael-system-analyse-und-rettungsplan-docx",
+     "score": 0.69,
+     "line": 15
+    },
+    {
+     "slug": "charaktermodellierung-mit-aieos-schema",
+     "score": 0.69,
+     "line": 79
+    }
+   ]
+  },
+  "mosaik-herz": {
+   "query": "Mosaik-Herz",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
+     "score": 0.83,
+     "line": 3
+    },
+    {
+     "slug": "kohaerenz-protokoll-master-outline",
+     "score": 0.8,
+     "line": 65
+    },
+    {
+     "slug": "roman-outline-kohaerenz-protokoll",
+     "score": 0.8,
+     "line": 83
+    },
+    {
+     "slug": "romanarchitektur-validierung-und-synthese",
+     "score": 0.8,
+     "line": 49
+    },
+    {
+     "slug": "plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur",
+     "score": 0.79,
+     "line": 39
+    },
+    {
+     "slug": "aegis-und-der-kollaps-kritische-analyse",
+     "score": 0.78,
+     "line": 65
+    },
+    {
+     "slug": "roman-pitch-reduktion-auf-kern",
+     "score": 0.78,
+     "line": 39
+    },
+    {
+     "slug": "roman-synthese-mit-dual-kernel-theorie",
+     "score": 0.78,
+     "line": 264
+    },
+    {
+     "slug": "ki-narrative-kollaps-kohaerenz-paradoxie",
+     "score": 0.78,
+     "line": 162
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
+     "score": 0.78,
+     "line": 45
+    }
+   ]
+  },
+  "multiplizitaet": {
+   "query": "Multiplizität",
+   "hits": [
+    {
+     "slug": "outline",
+     "score": 0.67,
+     "line": 56
+    },
+    {
+     "slug": "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
+     "score": 0.67,
+     "line": 19
+    },
+    {
+     "slug": "konzept-und-story-fuer-den-roman-kohaerenz-protokoll",
+     "score": 0.67,
+     "line": 19
+    },
+    {
+     "slug": "romanarchitektur-kael-aegis-entropie-docx",
+     "score": 0.66,
+     "line": 36
+    },
+    {
+     "slug": "roman-blueprint-seelen-kohaerenz-protokoll",
+     "score": 0.66,
+     "line": 27
+    },
+    {
+     "slug": "finales-kausales-plot-geruest",
+     "score": 0.66,
+     "line": 72
+    },
+    {
+     "slug": "kohaerenz-protokoll-dramatica-synthese",
+     "score": 0.66,
+     "line": 11
+    },
+    {
+     "slug": "roman-konzept-kohaerenz-protokoll",
+     "score": 0.66,
+     "line": 23
+    },
+    {
+     "slug": "plan-zur-subplot-integration-fuer-den-roman-erweitert",
+     "score": 0.66,
+     "line": 19
+    },
+    {
+     "slug": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+     "score": 0.66,
+     "line": 77
+    }
+   ]
+  },
+  "negentropie": {
+   "query": "Negentropie",
+   "hits": [
+    {
+     "slug": "aegis-singularitaet-jenseits-entropiegleichung-2",
+     "score": 0.83,
+     "line": 47
+    },
+    {
+     "slug": "aegis-singularitaet-jenseits-entropiegleichung-docx",
+     "score": 0.82,
+     "line": 27
+    },
+    {
+     "slug": "narrative-physik-attraktoren-leserbewusstsein",
+     "score": 0.82,
+     "line": 58
+    },
+    {
+     "slug": "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+     "score": 0.81,
+     "line": 26
+    },
+    {
+     "slug": "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
+     "score": 0.81,
+     "line": 93
+    },
+    {
+     "slug": "junas-liebe-kaels-trauma-aegis-docx",
+     "score": 0.81,
+     "line": 19
+    },
+    {
+     "slug": "entropie-aegis",
+     "score": 0.8,
+     "line": 71
+    },
+    {
+     "slug": "kapitel-1-generierungsprozess",
+     "score": 0.8,
+     "line": 47
+    },
+    {
+     "slug": "roman-kapitel-1-generierungsprozess",
+     "score": 0.8,
+     "line": 66
+    },
+    {
+     "slug": "aegis-philosophische-analyse-und-manifest-docx",
+     "score": 0.8,
+     "line": 57
+    }
+   ]
+  },
+  "nexus": {
+   "query": "Nexus",
+   "hits": [
+    {
+     "slug": "roman-blueprint-seelen-kohaerenz-protokoll",
+     "score": 0.79,
+     "line": 67
+    },
+    {
+     "slug": "kohaerenz-protokoll-finaler-plot-blueprint",
+     "score": 0.78,
+     "line": 102
+    },
+    {
+     "slug": "kohaerenz-protokoll-39-kapitel-matrix",
+     "score": 0.78,
+     "line": 317
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.78,
+     "line": 15
+    },
+    {
+     "slug": "kohaerenz-protokoll-weltkonzept-synthese",
+     "score": 0.77,
+     "line": 25
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
+     "score": 0.77,
+     "line": 19
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
+     "score": 0.76,
+     "line": 17
+    },
+    {
+     "slug": "romanarchitektur-validierung-und-synthese",
+     "score": 0.76,
+     "line": 49
+    },
+    {
+     "slug": "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+     "score": 0.76,
+     "line": 58
+    },
+    {
+     "slug": "finales-kausales-plot-geruest",
+     "score": 0.76,
+     "line": 76
+    }
+   ]
+  },
+  "nichts-rauschen": {
+   "query": "Nichts-Rauschen",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-system-realitaet-leser",
+     "score": 0.7,
+     "line": 43
+    },
+    {
+     "slug": "genesis-logik-krise-zerstueckelung",
+     "score": 0.7,
+     "line": 1
+    },
+    {
+     "slug": "genesis-und-krise-ausfuehrliche-darstellung",
+     "score": 0.69,
+     "line": 1
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.68,
+     "line": 49
+    },
+    {
+     "slug": "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis",
+     "score": 0.68,
+     "line": 1
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.68,
+     "line": 33
+    },
+    {
+     "slug": "kohaerenz-protokoll-master-outline",
+     "score": 0.68,
+     "line": 37
+    },
+    {
+     "slug": "narrative-entropie-existenzielle-bedrohung-des-romans",
+     "score": 0.68,
+     "line": 1
+    },
+    {
+     "slug": "konsolidierung-des-hard-canon-protokolls",
+     "score": 0.68,
+     "line": 14
+    },
+    {
+     "slug": "genesis-ein-implementierungsleitfaden-prosa-version",
+     "score": 0.68,
+     "line": 1
+    }
+   ]
+  },
+  "nullpunkt-protokoll": {
+   "query": "Nullpunkt-Protokoll",
+   "hits": [
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.87,
+     "line": 42
+    }
+   ]
+  },
+  "nyx": {
+   "query": "Nyx",
+   "hits": [
+    {
+     "slug": "tsdp-analyse-kaels-innere-welt",
+     "score": 0.58,
+     "line": 17
+    },
+    {
+     "slug": "kael-s-dissociative-architecture-analysis",
+     "score": 0.58,
+     "line": 21
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.58,
+     "line": 54
+    },
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.58,
+     "line": 15
+    },
+    {
+     "slug": "strukturelle-dissoziation-system-kael-analyse",
+     "score": 0.58,
+     "line": 15
+    },
+    {
+     "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     "score": 0.58,
+     "line": 45
+    },
+    {
+     "slug": "charaktere",
+     "score": 0.57,
+     "line": 39
+    },
+    {
+     "slug": "charakter-kompilation-fuer-kohaerenz-protokoll",
+     "score": 0.57,
+     "line": 78
+    },
+    {
+     "slug": "heilung-der-verlust-von-superkraeften",
+     "score": 0.57,
+     "line": 49
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.57,
+     "line": 320
+    }
+   ]
+  },
+  "oblivion": {
+   "query": "Oblivion",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.77,
+     "line": 56
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.77,
+     "line": 243
+    },
+    {
+     "slug": "aegis-manifest-genesis-krise-reboot",
+     "score": 0.76,
+     "line": 117
+    },
+    {
+     "slug": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+     "score": 0.76,
+     "line": 502
+    },
+    {
+     "slug": "dual-storyform-hintergruende-md",
+     "score": 0.76,
+     "line": 298
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.76,
+     "line": 156
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-generierung",
+     "score": 0.76,
+     "line": 46
+    },
+    {
+     "slug": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+     "score": 0.76,
+     "line": 87
+    },
+    {
+     "slug": "aegis-manifest-genesis-krise-reboot-2",
+     "score": 0.75,
+     "line": 177
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept-master-md",
+     "score": 0.75,
+     "line": 182
+    }
+   ]
+  },
+  "ouroboros-struktur": {
+   "query": "Ouroboros-Struktur",
+   "hits": [
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.84,
+     "line": 37
+    },
+    {
+     "slug": "romanprojekt-kohaerenz-protokoll-analyse",
+     "score": 0.82,
+     "line": 53
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.82,
+     "line": 20
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.79,
+     "line": 35
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+     "score": 0.77,
+     "line": 467
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophischer-bericht-md",
+     "score": 0.76,
+     "line": 53
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-erstellung",
+     "score": 0.74,
+     "line": 1396
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-generierung",
+     "score": 0.71,
+     "line": 1574
+    }
+   ]
+  },
+  "partnerin": {
+   "query": "Partnerin",
+   "hits": [
+    {
+     "slug": "roman-blueprint-seelen-kohaerenz-protokoll",
+     "score": 0.86,
+     "line": 35
+    },
+    {
+     "slug": "plotpunkte-liste",
+     "score": 0.86,
+     "line": 17
+    },
+    {
+     "slug": "erstelle-eine-liste-mit-allen-plot-points-formu",
+     "score": 0.86,
+     "line": 11
+    },
+    {
+     "slug": "im-finale-wendet-sich-fuer-persona-der-partnerin-z",
+     "score": 0.86,
+     "line": 3
+    },
+    {
+     "slug": "liste-nun-alle-plot-ideen-kurz-auf",
+     "score": 0.86,
+     "line": 154
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.86,
+     "line": 15
+    },
+    {
+     "slug": "parakonsistente-logik-im-seelen-protokoll",
+     "score": 0.85,
+     "line": 17
+    },
+    {
+     "slug": "welten",
+     "score": 0.85,
+     "line": 29
+    },
+    {
+     "slug": "kohaerenz-prozess-grundlagen",
+     "score": 0.85,
+     "line": 19
+    },
+    {
+     "slug": "kohaerenz-prozess",
+     "score": 0.84,
+     "line": 29
+    }
+   ]
+  },
+  "persistenzgleichung": {
+   "query": "Persistenzgleichung",
+   "hits": [
+    {
+     "slug": "dkt-fundament-kohaerenz-protokoll-md",
+     "score": 0.87,
+     "line": 53
+    },
+    {
+     "slug": "kohaerenz-protokoll-master-integration-md",
+     "score": 0.86,
+     "line": 64
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.83,
+     "line": 88
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.81,
+     "line": 524
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept-master-md",
+     "score": 0.73,
+     "line": 125
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophischer-bericht-md",
+     "score": 0.72,
+     "line": 77
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.72,
+     "line": 55
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.67,
+     "line": 139
+    }
+   ]
+  },
+  "personas": {
+   "query": "Personas",
+   "hits": [
+    {
+     "slug": "roman-blueprint-seelen-kohaerenz-protokoll",
+     "score": 0.81,
+     "line": 23
+    },
+    {
+     "slug": "in-teil-2-werden-die-persona-von-ihren-spezifis",
+     "score": 0.81,
+     "line": 11
+    },
+    {
+     "slug": "liste-nun-alle-plot-ideen-kurz-auf",
+     "score": 0.81,
+     "line": 11
+    },
+    {
+     "slug": "im-finale-wendet-sich-fuer-persona-der-partnerin-z",
+     "score": 0.81,
+     "line": 11
+    },
+    {
+     "slug": "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz",
+     "score": 0.81,
+     "line": 26
+    },
+    {
+     "slug": "erstelle-eine-liste-mit-allen-plot-points-formu",
+     "score": 0.81,
+     "line": 17
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik-3",
+     "score": 0.81,
+     "line": 15
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik",
+     "score": 0.81,
+     "line": 15
+    },
+    {
+     "slug": "kael-charakterarchitektur-und-konfliktdynamik-2",
+     "score": 0.81,
+     "line": 15
+    },
+    {
+     "slug": "plotpunkte-liste",
+     "score": 0.81,
+     "line": 24
+    }
+   ]
+  },
+  "pms": {
+   "query": "PMS",
+   "hits": [
+    {
+     "slug": "traumaheilung-neurochemie-adhs-dis-kunst",
+     "score": 0.77,
+     "line": 1
+    },
+    {
+     "slug": "angst-bei-komplexen-traumafolgen",
+     "score": 0.76,
+     "line": 1
+    },
+    {
+     "slug": "flow-zustaende-und-dissoziative-identitaet",
+     "score": 0.76,
+     "line": 1
+    },
+    {
+     "slug": "aegis-genesis-krise-prosa-auftrag",
+     "score": 0.76,
+     "line": 1
+    },
+    {
+     "slug": "kohaerenz-protokoll-transzendenz-vektoren",
+     "score": 0.76,
+     "line": 1
+    },
+    {
+     "slug": "kohaerenz-protokoll-analyse-und-synthese",
+     "score": 0.76,
+     "line": 1
+    },
+    {
+     "slug": "tropen-konzepte-fuer-kohaerenz-protokoll",
+     "score": 0.75,
+     "line": 1
+    },
+    {
+     "slug": "projekt-kohaerenz-protokoll-tiefenanalyse",
+     "score": 0.75,
+     "line": 1
+    },
+    {
+     "slug": "angst-und-vermeidung-in-dis-systemen",
+     "score": 0.75,
+     "line": 1
+    },
+    {
+     "slug": "prosaversion-von-genesis-erstellen",
+     "score": 0.75,
+     "line": 1
+    }
+   ]
+  },
+  "potentialmeer": {
+   "query": "Potentialmeer",
+   "hits": [
+    {
+     "slug": "rechercheauftrag-die-genesis-von-aegis",
+     "score": 0.76,
+     "line": 15
+    },
+    {
+     "slug": "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt",
+     "score": 0.76,
+     "line": 43
+    },
+    {
+     "slug": "kohaerenz-protokoll-weltkonzept-synthese",
+     "score": 0.76,
+     "line": 15
+    },
+    {
+     "slug": "narrative-plot-exploration-existenzielle-kohaerenz",
+     "score": 0.76,
+     "line": 25
+    },
+    {
+     "slug": "kohaerenz-protokoll-umfassendes-konzept",
+     "score": 0.76,
+     "line": 23
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-entwicklung",
+     "score": 0.76,
+     "line": 20
+    },
+    {
+     "slug": "kohaerenz-protokoll-plotideen-extraktion",
+     "score": 0.75,
+     "line": 15
+    },
+    {
+     "slug": "holographisches-prinzip-fuer-kohaerenz-protokoll-2",
+     "score": 0.75,
+     "line": 16
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-synthese-2",
+     "score": 0.75,
+     "line": 21
+    },
+    {
+     "slug": "holographisches-prinzip-fuer-kohaerenz-protokoll",
+     "score": 0.75,
+     "line": 16
+    }
+   ]
+  },
+  "protokoll-v14": {
+   "query": "Protokoll v1.4",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-finaler-plot-blueprint",
+     "score": 0.77,
+     "line": 41
+    },
+    {
+     "slug": "roman-plot-konzept-kohaerenz-protokoll",
+     "score": 0.77,
+     "line": 226
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-blueprint-erstellung",
+     "score": 0.77,
+     "line": 147
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-entwurf",
+     "score": 0.77,
+     "line": 3
+    },
+    {
+     "slug": "kapitel-13-momente",
+     "score": 0.76,
+     "line": 13
+    },
+    {
+     "slug": "kapitel-18",
+     "score": 0.76,
+     "line": 11
+    },
+    {
+     "slug": "aieos-schema-fuer-ki-charaktere",
+     "score": 0.76,
+     "line": 15
+    },
+    {
+     "slug": "roman-plot-entwicklung-und-kohaerenz-analyse",
+     "score": 0.74,
+     "line": 11
+    },
+    {
+     "slug": "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt",
+     "score": 0.74,
+     "line": 16
+    },
+    {
+     "slug": "nichts-ordnung-fragmentierung-resonanz-nebel",
+     "score": 0.74,
+     "line": 33
+    }
+   ]
+  },
+  "realitaetsebenen": {
+   "query": "Realitätsebenen",
+   "hits": [
+    {
+     "slug": "welt",
+     "score": 0.83,
+     "line": 11
+    },
+    {
+     "slug": "blueprint",
+     "score": 0.82,
+     "line": 32
+    },
+    {
+     "slug": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+     "score": 0.81,
+     "line": 13
+    },
+    {
+     "slug": "kohaerenz-protokoll-umfassendes-konzept-mit-prin",
+     "score": 0.81,
+     "line": 27
+    },
+    {
+     "slug": "spannungsfelder-und-aegis-meta-framework-analyse-docx",
+     "score": 0.81,
+     "line": 191
+    },
+    {
+     "slug": "narrativ",
+     "score": 0.8,
+     "line": 169
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.8,
+     "line": 17
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+     "score": 0.79,
+     "line": 27
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-3",
+     "score": 0.79,
+     "line": 27
+    },
+    {
+     "slug": "kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern",
+     "score": 0.79,
+     "line": 42
+    }
+   ]
+  },
+  "residual-echos": {
+   "query": "Residual-Echos",
+   "hits": [
+    {
+     "slug": "koharenz-protokoll-kapitel-0-v2-md",
+     "score": 0.86,
+     "line": 319
+    },
+    {
+     "slug": "kap0-v1-annotiert-md",
+     "score": 0.84,
+     "line": 561
+    }
+   ]
+  },
+  "resonanz-landschaft": {
+   "query": "Resonanz-Landschaft",
+   "hits": [
+    {
+     "slug": "romanentwurf-ruf-des-abenteuers",
+     "score": 0.82,
+     "line": 22
+    },
+    {
+     "slug": "roman-entwicklung-kohaerenz-und-leitfragen",
+     "score": 0.81,
+     "line": 48
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.81,
+     "line": 41
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-teil-1",
+     "score": 0.81,
+     "line": 25
+    },
+    {
+     "slug": "charakterkonzepte-fuer-kohaerenz-protokoll",
+     "score": 0.81,
+     "line": 30
+    },
+    {
+     "slug": "parakonsistente-logik-im-seelen-protokoll",
+     "score": 0.81,
+     "line": 75
+    },
+    {
+     "slug": "roman-outline-system-kael",
+     "score": 0.81,
+     "line": 71
+    },
+    {
+     "slug": "roman-konzept-dualitaet-kohaerenz-spannung",
+     "score": 0.81,
+     "line": 41
+    },
+    {
+     "slug": "kohaerenz-protokoll-analyse-und-loglines",
+     "score": 0.8,
+     "line": 38
+    },
+    {
+     "slug": "plot-analyse-und-romanentwicklung",
+     "score": 0.8,
+     "line": 53
+    }
+   ]
+  },
+  "rhys": {
+   "query": "Rhys",
+   "hits": [
+    {
+     "slug": "tsdp-analyse-kaels-innere-welt",
+     "score": 0.63,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.63,
+     "line": 53
+    },
+    {
+     "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     "score": 0.63,
+     "line": 41
+    },
+    {
+     "slug": "strukturelle-dissoziation-system-kael-analyse",
+     "score": 0.63,
+     "line": 15
+    },
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.63,
+     "line": 15
+    },
+    {
+     "slug": "charakter-kompilation-fuer-kohaerenz-protokoll",
+     "score": 0.63,
+     "line": 87
+    },
+    {
+     "slug": "kernwelten-und-fragmentierte-wahrnehmung",
+     "score": 0.63,
+     "line": 62
+    },
+    {
+     "slug": "roman-outline-fuer-kohaerenz-protokoll",
+     "score": 0.63,
+     "line": 278
+    },
+    {
+     "slug": "romanarchitektur-kael-aegis-entropie-docx",
+     "score": 0.63,
+     "line": 20
+    },
+    {
+     "slug": "neurochemische-lyrik-transzendenz-durch-klang",
+     "score": 0.63,
+     "line": 68
+    }
+   ]
+  },
+  "risse": {
+   "query": "Risse",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.0,
+     "line": 13
+    },
+    {
+     "slug": "welt",
+     "score": 0.0,
+     "line": 26
+    },
+    {
+     "slug": "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+     "score": 0.0,
+     "line": 21
+    },
+    {
+     "slug": "in-teil-2-werden-die-persona-von-ihren-spezifis",
+     "score": 0.0,
+     "line": 14
+    },
+    {
+     "slug": "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz",
+     "score": 0.0,
+     "line": 17
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-teil-1",
+     "score": 0.0,
+     "line": 22
+    },
+    {
+     "slug": "orte-konzept-fuer-kohaerenz-protokoll",
+     "score": 0.0,
+     "line": 25
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-synthese-2",
+     "score": 0.0,
+     "line": 23
+    },
+    {
+     "slug": "umfassendes-lokalitaeten-konzept-fuer-roman",
+     "score": 0.0,
+     "line": 44
+    },
+    {
+     "slug": "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+     "score": 0.0,
+     "line": 15
+    }
+   ]
+  },
+  "rsa": {
+   "query": "RSA",
+   "hits": [
+    {
+     "slug": "primzahlen-als-metapher-in-kohaerenz-protokoll",
+     "score": 0.89,
+     "line": 48
+    },
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.89,
+     "line": 46
+    },
+    {
+     "slug": "p-vs-np-und-kohaerenz",
+     "score": 0.8,
+     "line": 21
+    }
+   ]
+  },
+  "schleuse-7": {
+   "query": "Schleuse 7",
+   "hits": [
+    {
+     "slug": "orte-konzept-fuer-kohaerenz-protokoll",
+     "score": 0.84,
+     "line": 430
+    },
+    {
+     "slug": "2026-09-14-kap25-vertiefung-md",
+     "score": 0.83,
+     "line": 2
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.82,
+     "line": 209
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.81,
+     "line": 27
+    },
+    {
+     "slug": "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+     "score": 0.81,
+     "line": 2
+    },
+    {
+     "slug": "kohaerenz-protokoll-master-integration-md",
+     "score": 0.8,
+     "line": 105
+    },
+    {
+     "slug": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+     "score": 0.75,
+     "line": 25
+    },
+    {
+     "slug": "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+     "score": 0.75,
+     "line": 2
+    },
+    {
+     "slug": "protokoll-der-offenbarung",
+     "score": 0.73,
+     "line": 2
+    },
+    {
+     "slug": "umfassendes-lokalitaeten-konzept-fuer-roman",
+     "score": 0.72,
+     "line": 69
+    }
+   ]
+  },
+  "sektor-04": {
+   "query": "Sektor 04",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+     "score": 0.79,
+     "line": 65
+    },
+    {
+     "slug": "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+     "score": 0.79,
+     "line": 7
+    },
+    {
+     "slug": "dramatica-storyform-synthese-aegis-analyse-2",
+     "score": 0.78,
+     "line": 115
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.78,
+     "line": 155
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-generierung",
+     "score": 0.78,
+     "line": 169
+    },
+    {
+     "slug": "isomorphe-architektur-der-realitaet-synthese-bericht",
+     "score": 0.78,
+     "line": 44
+    },
+    {
+     "slug": "roman-konzept-dualitaet-kohaerenz-spannung",
+     "score": 0.78,
+     "line": 61
+    },
+    {
+     "slug": "kohaerenz-protokoll-szene-der-stillstand-der-welt",
+     "score": 0.77,
+     "line": 13
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-generierung-2",
+     "score": 0.77,
+     "line": 7
+    },
+    {
+     "slug": "kohaerenz-protokoll-epische-plot-anreicherung",
+     "score": 0.77,
+     "line": 7
+    }
+   ]
+  },
+  "selene": {
+   "query": "Selene",
+   "hits": [
+    {
+     "slug": "strukturelle-dissoziation-system-kael-analyse",
+     "score": 0.69,
+     "line": 15
+    },
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.69,
+     "line": 15
+    },
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.68,
+     "line": 53
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.68,
+     "line": 136
+    },
+    {
+     "slug": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     "score": 0.68,
+     "line": 21
+    },
+    {
+     "slug": "kontext-outline",
+     "score": 0.68,
+     "line": 44
+    },
+    {
+     "slug": "kohaerenz-prozess-grundlagen",
+     "score": 0.67,
+     "line": 57
+    },
+    {
+     "slug": "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+     "score": 0.67,
+     "line": 39
+    },
+    {
+     "slug": "tattoo-konzept-archetypen-heilung-rebellion",
+     "score": 0.67,
+     "line": 96
+    },
+    {
+     "slug": "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+     "score": 0.67,
+     "line": 22
+    }
+   ]
+  },
+  "silas": {
+   "query": "Silas",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     "score": 0.76,
+     "line": 56
+    },
+    {
+     "slug": "romanprojekt-analyse-kohaerenz-protokoll",
+     "score": 0.76,
+     "line": 23
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.76,
+     "line": 242
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-teil-1",
+     "score": 0.75,
+     "line": 35
+    },
+    {
+     "slug": "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+     "score": 0.75,
+     "line": 22
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.75,
+     "line": 155
+    },
+    {
+     "slug": "aegis-manifest-genesis-krise-reboot",
+     "score": 0.75,
+     "line": 123
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-generierung",
+     "score": 0.75,
+     "line": 45
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept-master-md",
+     "score": 0.75,
+     "line": 182
+    },
+    {
+     "slug": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+     "score": 0.75,
+     "line": 75
+    }
+   ]
+  },
+  "snk": {
+   "query": "SNK",
+   "hits": [
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.87,
+     "line": 90
+    }
+   ]
+  },
+  "sophia": {
+   "query": "Sophia",
+   "hits": [
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.73,
+     "line": 30
+    },
+    {
+     "slug": "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
+     "score": 0.72,
+     "line": 22
+    },
+    {
+     "slug": "aegis-persona-and-manifest-generation",
+     "score": 0.72,
+     "line": 103
+    },
+    {
+     "slug": "romanplot-kohaerenz-protokoll-teil-1",
+     "score": 0.72,
+     "line": 207
+    },
+    {
+     "slug": "liste-nun-alle-plot-ideen-kurz-auf",
+     "score": 0.72,
+     "line": 45
+    },
+    {
+     "slug": "kohaerenz-protokoll-39-kapitel-matrix",
+     "score": 0.72,
+     "line": 232
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-blueprint-erstellung",
+     "score": 0.72,
+     "line": 113
+    },
+    {
+     "slug": "orte-konzept-fuer-kohaerenz-protokoll",
+     "score": 0.72,
+     "line": 25
+    },
+    {
+     "slug": "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+     "score": 0.72,
+     "line": 201
+    },
+    {
+     "slug": "plotpunkte-liste",
+     "score": 0.71,
+     "line": 29
+    }
+   ]
+  },
+  "system-monitor": {
+   "query": "Der Große System-Monitor",
+   "hits": [
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.81,
+     "line": 228
+    },
+    {
+     "slug": "prosaversion-von-genesis-erstellen",
+     "score": 0.77,
+     "line": 109
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+     "score": 0.72,
+     "line": 177
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-3",
+     "score": 0.71,
+     "line": 179
+    }
+   ]
+  },
+  "telefon-stille": {
+   "query": "Telefon-Stille",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+     "score": 0.81,
+     "line": 147
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+     "score": 0.81,
+     "line": 243
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.81,
+     "line": 449
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.81,
+     "line": 121
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.8,
+     "line": 316
+    },
+    {
+     "slug": "dual-storyform-hintergruende-md",
+     "score": 0.8,
+     "line": 419
+    },
+    {
+     "slug": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     "score": 0.8,
+     "line": 241
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.8,
+     "line": 370
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.8,
+     "line": 630
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.8,
+     "line": 286
+    }
+   ]
+  },
+  "therapie-schnittstelle-alpha": {
+   "query": "Therapie-Schnittstelle Alpha",
+   "hits": [
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.85,
+     "line": 190
+    }
+   ]
+  },
+  "thermodynamischer-phaenomenalismus": {
+   "query": "Thermodynamischer Phänomenalismus",
+   "hits": [
+    {
+     "slug": "ki-prompt-analyse-hard-problem-of-consciousness",
+     "score": 0.89,
+     "line": 257
+    }
+   ]
+  },
+  "trennungsprotokoll": {
+   "query": "Trennungsprotokoll",
+   "hits": [
+    {
+     "slug": "ki-prompt-analyse-hard-problem-of-consciousness",
+     "score": 0.75,
+     "line": 19
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+     "score": 0.75,
+     "line": 68
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.75,
+     "line": 32
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.75,
+     "line": 41
+    },
+    {
+     "slug": "mining-report-kohaerenz-protokoll-plot-outline-construction",
+     "score": 0.75,
+     "line": 29
+    },
+    {
+     "slug": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+     "score": 0.74,
+     "line": 87
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.74,
+     "line": 551
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.74,
+     "line": 135
+    },
+    {
+     "slug": "coherence-critique-and-question-generation",
+     "score": 0.73,
+     "line": 52
+    },
+    {
+     "slug": "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
+     "score": 0.72,
+     "line": 14
+    }
+   ]
+  },
+  "truth-rotation": {
+   "query": "Truth-Rotation",
+   "hits": [
+    {
+     "slug": "dual-storyform-hintergruende-md",
+     "score": 0.83,
+     "line": 56
+    },
+    {
+     "slug": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+     "score": 0.82,
+     "line": 109
+    },
+    {
+     "slug": "kohaerenz-protokoll-synthese",
+     "score": 0.82,
+     "line": 41
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzept-master-md",
+     "score": 0.81,
+     "line": 111
+    },
+    {
+     "slug": "research-prompt-kohaerenz-protokoll-final-architecture-md",
+     "score": 0.81,
+     "line": 609
+    },
+    {
+     "slug": "romanprojekt-kohaerenz-protokoll-analyse",
+     "score": 0.8,
+     "line": 69
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.8,
+     "line": 10
+    },
+    {
+     "slug": "dramatica-dual-storyform-status-2026-05-07-md",
+     "score": 0.8,
+     "line": 71
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.79,
+     "line": 25
+    },
+    {
+     "slug": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+     "score": 0.79,
+     "line": 92
+    }
+   ]
+  },
+  "tsdp": {
+   "query": "TSDP",
+   "hits": [
+    {
+     "slug": "kael-uberarbeitung-des-konzepts-unter-tsdp",
+     "score": 0.62,
+     "line": 3
+    },
+    {
+     "slug": "roman-konzept-kohaerenz-protokoll",
+     "score": 0.62,
+     "line": 17
+    },
+    {
+     "slug": "kohaerenz-prozess-grundlagen",
+     "score": 0.61,
+     "line": 17
+    },
+    {
+     "slug": "2-kohaerenz-protokoll-konzeptentwicklung",
+     "score": 0.61,
+     "line": 9
+    },
+    {
+     "slug": "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me",
+     "score": 0.61,
+     "line": 3
+    },
+    {
+     "slug": "kael-system-tsdp-analyse-und-profile",
+     "score": 0.61,
+     "line": 3
+    },
+    {
+     "slug": "kohaerenz-protokoll-gesamtkonzept-entwicklung",
+     "score": 0.61,
+     "line": 21
+    },
+    {
+     "slug": "kohaerenz-protokoll-konzeptentwicklung",
+     "score": 0.61,
+     "line": 11
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet",
+     "score": 0.61,
+     "line": 23
+    },
+    {
+     "slug": "research-prompt-kohaerenz-protokoll-verification-md",
+     "score": 0.61,
+     "line": 100
+    }
+   ]
+  },
+  "ueberraum": {
+   "query": "Überraum",
+   "hits": [
+    {
+     "slug": "liste-nun-alle-plot-ideen-kurz-auf",
+     "score": 0.88,
+     "line": 22
+    },
+    {
+     "slug": "im-finale-wendet-sich-fuer-persona-der-partnerin-z",
+     "score": 0.88,
+     "line": 11
+    },
+    {
+     "slug": "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz",
+     "score": 0.88,
+     "line": 11
+    },
+    {
+     "slug": "in-teil-2-werden-die-persona-von-ihren-spezifis",
+     "score": 0.87,
+     "line": 33
+    },
+    {
+     "slug": "plotpunkte-liste",
+     "score": 0.87,
+     "line": 25
+    },
+    {
+     "slug": "erstelle-eine-liste-mit-allen-plot-points-formu",
+     "score": 0.87,
+     "line": 17
+    },
+    {
+     "slug": "roman-blueprint-seelen-kohaerenz-protokoll",
+     "score": 0.87,
+     "line": 130
+    },
+    {
+     "slug": "guardians-und-kern-welten-konzept",
+     "score": 0.86,
+     "line": 29
+    }
+   ]
+  },
+  "ueberwelt": {
+   "query": "Überwelt",
+   "hits": [
+    {
+     "slug": "digitale-uberwelt-konzept-und-gestaltung",
+     "score": 0.69,
+     "line": 3
+    },
+    {
+     "slug": "recherche-ueberwelt",
+     "score": 0.69,
+     "line": 3
+    },
+    {
+     "slug": "digitale-uberwelt",
+     "score": 0.69,
+     "line": 3
+    },
+    {
+     "slug": "kontext-outline",
+     "score": 0.69,
+     "line": 53
+    },
+    {
+     "slug": "outline-2",
+     "score": 0.68,
+     "line": 28
+    },
+    {
+     "slug": "kohaerenz-protokoll-plot-entwurf",
+     "score": 0.68,
+     "line": 15
+    },
+    {
+     "slug": "entropie-aegis",
+     "score": 0.68,
+     "line": 13
+    },
+    {
+     "slug": "kohaerenz-protokoll-2",
+     "score": 0.68,
+     "line": 17
+    },
+    {
+     "slug": "orte-konzept-fuer-kohaerenz-protokoll",
+     "score": 0.68,
+     "line": 17
+    },
+    {
+     "slug": "rechercheauftrag-die-genesis-von-aegis",
+     "score": 0.68,
+     "line": 15
+    }
+   ]
+  },
+  "vergessener-schrein": {
+   "query": "Vergessener Schrein",
+   "hits": [
+    {
+     "slug": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+     "score": 0.91,
+     "line": 105
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+     "score": 0.9,
+     "line": 355
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung-3",
+     "score": 0.9,
+     "line": 356
+    },
+    {
+     "slug": "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
+     "score": 0.89,
+     "line": 60
+    },
+    {
+     "slug": "umfassendes-lokalitaeten-konzept-fuer-roman",
+     "score": 0.89,
+     "line": 33
+    },
+    {
+     "slug": "orte-konzept-fuer-kohaerenz-protokoll",
+     "score": 0.88,
+     "line": 60
+    },
+    {
+     "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+     "score": 0.87,
+     "line": 198
+    },
+    {
+     "slug": "welt",
+     "score": 0.86,
+     "line": 48
+    },
+    {
+     "slug": "kohaerenz-protokoll-kapitel-outline-erstellung",
+     "score": 0.86,
+     "line": 233
+    },
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.85,
+     "line": 272
+    }
+   ]
+  },
+  "vermittler-stimme": {
+   "query": "Vermittler-Stimme",
+   "hits": [
+    {
+     "slug": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+     "score": 0.88,
+     "line": 124
+    },
+    {
+     "slug": "kap0-v1-annotiert-md",
+     "score": 0.83,
+     "line": 457
+    },
+    {
+     "slug": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+     "score": 0.81,
+     "line": 29
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+     "score": 0.8,
+     "line": 678
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.68,
+     "line": 1051
+    }
+   ]
+  },
+  "verschraenkungs-insel": {
+   "query": "Verschränkungs-Insel",
+   "hits": [
+    {
+     "slug": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+     "score": 0.86,
+     "line": 506
+    },
+    {
+     "slug": "dramatica-dual-storyform-mapping-protokoll",
+     "score": 0.81,
+     "line": 79
+    },
+    {
+     "slug": "roman-synthese-mit-dual-kernel-theorie",
+     "score": 0.79,
+     "line": 331
+    },
+    {
+     "slug": "roman-refactoring-kohaerenz-und-charakterentwicklung",
+     "score": 0.79,
+     "line": 102
+    },
+    {
+     "slug": "worldbuilding-konzept-kohaerenzprotokoll-md",
+     "score": 0.77,
+     "line": 646
+    },
+    {
+     "slug": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     "score": 0.75,
+     "line": 299
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.74,
+     "line": 416
+    },
+    {
+     "slug": "dramatica-storyform-synthese-aegis-analyse-2",
+     "score": 0.74,
+     "line": 231
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.69,
+     "line": 538
+    }
+   ]
+  },
+  "vortex": {
+   "query": "Vortex",
+   "hits": [
+    {
+     "slug": "dual-storyform-hintergruende-md",
+     "score": 0.77,
+     "line": 56
+    },
+    {
+     "slug": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+     "score": 0.77,
+     "line": 31
+    },
+    {
+     "slug": "three-mode-architecture-39-chapters-md",
+     "score": 0.77,
+     "line": 23
+    },
+    {
+     "slug": "kapitel-kompendium-gather-2026-05-31-md",
+     "score": 0.77,
+     "line": 25
+    },
+    {
+     "slug": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+     "score": 0.77,
+     "line": 19
+    },
+    {
+     "slug": "dramatica-dual-storyform-status-2026-05-07-md",
+     "score": 0.77,
+     "line": 30
+    },
+    {
+     "slug": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     "score": 0.77,
+     "line": 25
+    },
+    {
+     "slug": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+     "score": 0.77,
+     "line": 31
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     "score": 0.77,
+     "line": 138
+    },
+    {
+     "slug": "koharenz-protokoll-konzept-iteration-genesis-md",
+     "score": 0.76,
+     "line": 223
+    }
+   ]
+  },
+  "ztv": {
+   "query": "ZTV",
+   "hits": [
+    {
+     "slug": "aegis-emergenz-aus-der-leere",
+     "score": 0.89,
+     "line": 63
+    },
+    {
+     "slug": "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese",
+     "score": 0.85,
+     "line": 16
+    },
+    {
+     "slug": "kohaerenz-protokoll-plotideen-extraktion",
+     "score": 0.68,
+     "line": 57
+    }
+   ]
+  }
+ }
+}

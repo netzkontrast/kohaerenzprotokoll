@@ -221,12 +221,12 @@ optimizer learns from what is in the input — and the survey supplies the
 vocabulary for closing it.
 
 **`truncated` is a field nobody measures.** The manifest carries `truncated` on
-every row and it reads `false` for all 371 <!--state:sources.landed--> landed documents. No script in
+every row and it reads `false` for all 586 <!--state:sources.landed--> landed documents. No script in
 `scripts/` mentions the word; the value came in with the Drive index and has
 never been derived. A field that asserts „this export is complete" without
 anything having checked is worse than no field. The cheap heuristic does not
-rescue it either, and that is measured: **221 of the 371 <!--state:sources.landed--> documents end without
-terminal punctuation**, because they end on a bibliography URL. So it is
+rescue it either, and that is measured: **221 of the then 371 landed documents end without
+terminal punctuation** (measured 2026-09-17, before the plot outlines landed), because they end on a bibliography URL. So it is
 demoted rather than deleted — the survey's idea is right and our value is not
 evidence.
 
