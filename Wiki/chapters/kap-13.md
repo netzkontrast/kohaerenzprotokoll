@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -90,6 +90,10 @@ The document ranks itself: „Hierarchie für Konflikte: Dieses Dokument \< Stat
 Position: „Akt I\*\* | Kap 1–13“ ^[dual-storyform-hintergruende-md.md:L333] — the last chapter of Akt I; Akt II is „Akt II\*\* | Kap 14–26“ ^[dual-storyform-hintergruende-md.md:L334].
 
 - Veil: „Multiplizitäts-Schleier hält bis Ch13“ ^[dual-storyform-hintergruende-md.md:L451], the document's claim about an „Outline-Revision“ ^[dual-storyform-hintergruende-md.md:L451] of 2026-05-01 in its genealogy, whose effect it gives as „Akt-Architektur kanonisch.“ ^[dual-storyform-hintergruende-md.md:L451] · in the act table, for Akt I: „Multiplizitäts-Schleier hält.“ ^[dual-storyform-hintergruende-md.md:L333]
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — the veil holds to here
+
+- Veil: „Multiplizitäts-Schleier hält bis Kapitel 13.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535], the last sentence of its genre caution, after „Wer in der ersten Szene weiß, dass der Held dreizehn Stimmen hat, kennt das Buch nicht.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535]
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — one rule
 
@@ -1051,8 +1055,3 @@ L57    **Kapitel 2: Nicht-euklidische Isolation und das Kachelproblem** Kael bew
 ```
 
 </details>
-
-## `kohaerenz-protokoll-philosophischer-bericht-md`
-
-„Multiplizitäts-Schleier hält bis Kapitel 13." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535]
-This marks the chapter where the multiplicity veil lifts or changes.

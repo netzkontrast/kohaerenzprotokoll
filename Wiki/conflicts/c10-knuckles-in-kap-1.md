@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 15
+sources: 16
 pages: ["kael", "nyx"]
 ---
 
@@ -141,3 +141,10 @@ Row 2's placing — the knuckles in Kap 0 — without row 2's voice.
 „er weiß nicht, warum seine Knöchel bluten" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29], in the premise's first paragraph; as a Landauer trace, „Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L82]; and among KW1's Risse, „blutende Knöchel ohne Erinnerung an die Verletzung" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L481].
 `Knöchel` stands three times, on those lines, and none of them names a chapter; the document has no chapter line for Kap 0 or Kap 1 (`Kap 0`, `Ch0` 0).
 Neither row: the image belongs to KW1 and to the physics, not to a chapter — as in the konsolidiertes Konzept's synopsis and the master report, both of its date. The drafting manual later carries the KW1 Riss line with the Kap-0 lock added (its L90).
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+**Once, in the somatic filter's list — in no chapter.**
+„Der somatische Filter (Kaels physischer Körper im Vordergrund: blutende Knöchel, Ozon-Geruch, Time-loss + Zittern) sichert dies." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535]
+`Knöchel` stands once and `Kap` 0 times (`05-verify-readers.txt`); the paragraph's one chapter is Kapitel 13, as the end of the Multiplizitäts-Schleier, not the knuckles'. Nyx is named only as an EP, „Nyx (Fight)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466], with no knuckles.
+Neither row: a trait of Kael's body the prose keeps in the foreground, as in the master report and the worldbuilding concept of its date, placed in no chapter.

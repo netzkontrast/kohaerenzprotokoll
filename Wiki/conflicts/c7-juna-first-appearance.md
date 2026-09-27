@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 22
+sources: 23
 pages: ["juna"]
 ---
 
@@ -223,3 +223,12 @@ Neither Kap 33 nor Kap 38; a hint in Kap 3, where the Konzept-Iteration [[genesi
 **Never explicitly physical.**
 „Juna wird niemals physisch beschrieben. Nicht weil ihre physische Erscheinung unwichtig wäre, sondern weil ihre Wirklichkeit nicht in Beschreibung kondensiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L310]
 This doesn't name a chapter where she first appears, but enforces the rule that she only shows via effect, never physical description.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+The entry above was written by the Jules session (decision 014) before this document had a census; this is the reconciliation's. Its quotation holds (L310) and what it says is borne out; the word `explicitly` in its heading is not the document's.
+**No appearance placed — not an Alter, never physically described, shown only by effect; her anchors and her point of view left open.**
+„Juna ist kein Alter. Diese Klärung ist post-Reset bindend" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L306] „Sie zeigt sich nur durch Wirkung: anomale Erasure-Balance, Phantom-Resonanz im Host- oder System-Feld, Phone-Silence als Anker." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L310] „Juna darf den Plot nicht von außen lösen, weil ihre ontologische Funktion gerade die ist, durch den Leser hindurch operativ zu werden." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L580]
+Open, in its own words: „Junas POV bleibt offen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] and, as OQ-C, „Welche konkreten Anker neben anomaler Erasure-Balance, Phantom-Resonanz und Phone-Silence?" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L755]
+`Kap` stands 0 times; its only chapters are the Vortex's Ch 35–36 and Kapitel 13 as the end of the Multiplizitäts-Schleier, neither of them hers, and it has no revelation timing (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: effect and open anchors, on the date of the character bible (row 1), without the master report's Akt-II revelation. The conflict stays open.

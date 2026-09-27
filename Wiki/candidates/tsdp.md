@@ -1,10 +1,10 @@
 ---
 term: TSDP
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none yet
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-25"
 ---
 
@@ -98,6 +98,16 @@ Its roster has four categories, ANP, EP, `Sonder` and `Spiegel` (L398–L411). T
 It maps the model onto the novel's other structures. The axis of the DKT's figures „kreuzt sich orthogonal mit der ANP/EP-Achse (horizontale Trauma-Spaltung)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L156]. Each Riss has its EP: „Jeder Riss-Typ hat einen EP-Trigger:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L673] KW1 is the „Domäne der ANP-Vermeidung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L457]; in KW3 „dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L543]
 The Guardians' tension runs beneath it, „der subtile dritte Subplot, der unter den ANP/EP-Konflikten von Kael läuft" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L205]; in Storyform B's relationship story, „die ANP/EP-Phobie als Beziehungsknoten" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L952]. In the Vortex the split ends: „Die ANP/EP-Amnesie-Barrieren fallen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L809]
 
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — the theory as Kael's foundation, his configuration tertiary, phobias as mechanisms
+
+A theory report whose §8 is headed „TSDP — Strukturelle Dissoziation als Survival Architecture" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L453]; it ranks its sources (L17, L25) — recorded, not applied.
+„Die Theorie der Strukturellen Dissoziation der Persönlichkeit (Van der Hart, Nijenhuis, Steele) ist das psychologische Fundament für Kaels Personenstruktur." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L457] „Die grundlegendste Spaltung erfolgt zwischen Anteilen, die auf Alltagsbewältigung ausgerichtet sind, und Anteilen, die an die traumatische Erfahrung gebunden sind" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L461].
+It maps each category onto alters: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] „Im Roman: Nyx (Fight), Kiko (Freeze), Lia (Ambivalent), Isabelle (Sexualisiert), Moros (Kollaps)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466] Its table adds a `Sonder` and two `Spiegel` rows (L501–L503).
+Of the three degrees: „Tertiäre SD: mehrere ANPs und mehrere EPs (typisch für DIS) — Kaels Konfiguration." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L476] The split between ANP and EP is modelled as Cache-Kohärenz (§8.2, L480).
+What holds it: „Ein zentrales Element der TSDP: Phobien halten die strukturelle Dissoziation aufrecht." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L519] „AEGIS' Kontrollmechanismen verstärken diese Phobien systematisch." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L531] „Junas Auftreten — Phantom-Resonanz, Phone-Silence — bricht die Bindungsphobie" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L531].
+It carries the model up a level: „Strukturell ist AEGIS ein System-Ebene-ANP" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L247].
+And its count: „Der Canon hält genau 13 Alter. Frühere Vorschläge (11, 14, 15+) sind dekanonisiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L484]
+
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
 „**Modell.** TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit (van der Hart, Nijenhuis, Steele 2006)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42]
@@ -140,6 +150,7 @@ plan of 2026-02-26 and the Inquiry's concept paper expand it as the theory:
 „Die Theorie der Strukturellen Dissoziation der Persönlichkeit" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L805]
 „Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L31]
 The master report writes the same (its L365), the Inquiry „Theory of Structural Dissociation of the Personality" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L244].
+The philosophischer Bericht, of the master report's date, writes the theory too, „Die Theorie der Strukturellen Dissoziation der Persönlichkeit" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L457], with no year.
 The konsolidiertes Konzept, the Worldbuilding-Konzept, the Alter profiles and the glossary expand it as Kael's diagnosis:
 „TSDP (Tertiäre Strukturelle Dissoziation der Persönlichkeit)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L348]
 „TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162]
@@ -147,7 +158,8 @@ The Worldbuilding-Konzept writes the same (its L388), and so do the profiles (th
 
 **How many parts the model holds.** Eleven in the Inquiry's diagnostic paper (its
 L1605) and in the chapter plan of 2026-02-26 (its L33); thirteen in every source of
-2026-05-08 and later that counts them. The Alters page has the rosters.
+2026-05-08 and later that counts them. The Alters page has the rosters. The
+philosophischer Bericht holds thirteen and calls the other counts retired: „Frühere Vorschläge (11, 14, 15+) sind dekanonisiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L484]
 
 **Tertiary, or more.** The master report calls Kael's case tertiary structural
 dissociation, „Typisch für DIS / komplexes Trauma" ^[kohaerenz-protokoll-konzept-master-md.md:L381].
@@ -155,6 +167,8 @@ The character bible, the same day, calls it „eine erweiterte tertiäre Archite
 the Spiegel and Sonder alters. Both list the same two extra categories.
 The worldbuilding concept calls it tertiary in its heading (L384) and lists both extra
 categories (L409–L411), with neither word (`grep -ci erweitert`: 0, `grep -c Typisch`: 0).
+The philosophischer Bericht writes the master report's words, „mehrere ANPs und mehrere EPs (typisch für DIS)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L476],
+and has both extra categories in its table (L501–L503) without calling the architecture extended (`grep -c erweitert`: 0).
 
 ## Open
 

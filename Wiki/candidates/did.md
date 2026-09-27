@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-16"
 ---
 
@@ -113,3 +113,9 @@ The diagnosis it names is TSDP: „TSDP (Tertiäre Strukturelle Dissoziation der
 It answers the classification the first brief asked about by making it the trauma: „AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie" und führt das Trennungsprotokoll aus." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]
 „*Das eigentliche Trauma ist nicht das, was geschah, sondern was danach getan wurde, um es zu „heilen".*" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L439] And the inversion under it: „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33]
 The aim is not fusion: „Funktionale Multiplizität, *niemals* Fusion." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L419] (see Multiplizität).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — Kael's configuration typical for DIS, dissociation as terror
+
+A theory report that ranks its sources (L17, L25) — recorded, not applied. `DID` stands 0 times; the German `DIS` once (`05-verify-readers.txt`), in the TSDP's tertiary degree, which it makes Kael's: „Tertiäre SD: mehrere ANPs und mehrere EPs (typisch für DIS) — Kaels Konfiguration." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L476]
+Its genre caution: „Sie ist Amnesie-Terror, kein Spielerlebnis." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535] „Wer in der ersten Szene weiß, dass der Held dreizehn Stimmen hat, kennt das Buch nicht." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535]
+The aim is not fusion: „Der Roman positioniert sich entschieden für Funktionale Multiplizität" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L511] (see Multiplizität).
