@@ -139,7 +139,7 @@ English in the German clause order, `, that it is not` for `, dass es nicht ist`
 
 Not named, in no chapter: „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is an autopoietic system defined by the tautology:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L47]
 „"AEGIS is, what AEGIS prevents not-to-be."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L47]
-English with the German comma, and `not-to-be` as one hyphenated word, as the philosophischer Bericht writes `nicht-zu-sein` (its L266). No second sentence (`Wir-AEGIS` 0; its one `preserves` is Mnemosyne's, L51).
+English with the German comma, and `not-to-be` as one hyphenated word, as the philosophischer Bericht writes `nicht-zu-sein` (its L266). No second sentence (`Wir-AEGIS` 0; its one `preserves` is [[mnemosyne|Mnemosyne]]'s, L51).
 
 ## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — the first sentence in English, with the German commas
 

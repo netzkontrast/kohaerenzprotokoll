@@ -1,0 +1,82 @@
+dkt (not read): grep -cw -e 'DKT' -e 'Dual-Kernel' -e 'Dual Kernel' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> DKT 0, Dual-Kernel 0, Dual Kernel 0
+kohaerenz-kernel: grep -cw -e 'Coherence' -e 'Coherence Kernel' -e 'Great Inversion' -e 'Inversion' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Coherence 3, Coherence Kernel 0, Great Inversion 0, Inversion 0
+konstrukt-stadt: grep -cw 'city' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+konstrukt-stadt: grep -cw 'Construct' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+kollaps-kernel: grep -cw -e 'Collapse Kernel' -e 'Erasure Kernel' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Collapse Kernel 0, Erasure Kernel 0
+grenzfeste: grep -cw 'Grenzfeste' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+grenzfeste: grep -cw 'Fortress' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+ueberwelt: grep -cw 'Überwelt' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 1
+coheron (not read): grep -cw -e 'Coheron' -e 'Coherons' -e 'Coheronen' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Coheron 0, Coherons 0, Coheronen 0
+vortex: grep -cw -e 'Chapter' -e 'Kap' -e 'Vortex 1' -e 'Vortex 2' -e 'Beat'  Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Chapter 0, Kap 0, Vortex 1 0, Vortex 2 0, Beat 0
+erason (not read): grep -cw -e 'Erason' -e 'Erasons' -e 'Erasonen' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Erason 0, Erasons 0, Erasonen 0
+guardians: grep -cw 'Erasure-Pol' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+guardians: grep -cw 'Guardians' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+persistenzgleichung (not read): grep -cw -e 'Persistence' -e 'Persistence Equation' -e 'Eta' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Persistence 0, Persistence Equation 0, Eta 0
+nichts-rauschen: grep -cw -e 'atemporal' -e 'union' -e 'love' -e 'Love' -e 'K1' -e 'Nothingness Noise' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> atemporal 0, union 0, love 0, Love 0, K1 0, Nothingness Noise 4
+logos: grep -cw 'Logos-Prime' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+logos: grep -cw 'Guardian' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+lex: grep -cw (each alone) Lex Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> Lex 1
+selene: grep -cw (each alone) Selene Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> Selene 1
+nyx: grep -cw (each alone) Nyx knuckles Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> Nyx 1, knuckles 0
+kiko: grep -cw (each alone) Kiko Flight Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> Kiko 1, Flight 0
+lia: grep -cw (each alone) Lia Flight Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> Lia 1, Flight 0
+isabelle: grep -cw (each alone) Isabelle Flight Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> Isabelle 1, Flight 0
+argus: grep -cw (each alone) Argus Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> Argus 1
+alters: grep -cw (each alone) thirteen 13 Alex Rhys Moros Silas Oblivion Flight Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> thirteen 0, 13 2, Alex 0, Rhys 0, Moros 0, Silas 0, Oblivion 0, Flight 0
+q3: grep -cw (each alone) thirteen 13 KW2 KW4 Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> thirteen 0, 13 2, KW2 0, KW4 0
+ouroboros-struktur (not read): grep -cw -e 'Ouroboros'  Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Ouroboros 0
+vermittler-stimme (not read): grep -cw -e 'Vermittler' -e 'narrator' -e 'Vorwort' -e 'Prologue' -e 'Kap' -e 'Chapter' -e 'Wir-Stimme' -e 'We-Voice'  Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Vermittler 0, narrator 0, Vorwort 0, Prologue 0, Kap 0, Chapter 0, Wir-Stimme 0, We-Voice 0
+sophia: grep -cw 'Sophia' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+atemporalitaet (not read): grep -cw -e 'atemporal' -e 'Atemporal' -e 'atemporality' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> atemporal 0, Atemporal 0, atemporality 0
+aegis: grep -cw Autonomous -> 0; grep -ciw person -> 0; grep -cw POV -> 0; grep -cw Approach -> 0
+formel-inversion: grep -c Wir-AEGIS -> 0; grep -cw preserves -> 0
+algorithmische-melancholie: grep -c Reliqu -> 0
+aegis-teilfunktionen: grep -ci 'integrity guardian' -> 0; grep -cw SIS -> 0
+blinder-fleck: grep -ciw blind -> 0
+thermodynamischer-phaenomenalismus: grep -ci 'Phänomenalismus' -> 0; grep -ci 'Phenomenalism' -> 0
+c1-aegis-expansion: grep -cw Autonomous -> 0; grep -c Autogenic -> 0; grep -c 'Generative Integrity' -> 0
+c3-emergenz-origin: grep -c Emergenz -> 0; grep -cw emergent -> 1
+c14-aegis-first-person-chapter: grep -ciw person -> 0; grep -cw POV -> 0; grep -cw prose -> 1; grep -ci 'log.format\|log protocol\|log-template' -> 0
+c4: grep -cw 'blind' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+kael: grep -cw 'knuckles' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+juna: grep -cw 'Kap' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+genesis: grep -cw 'Beat' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+genesis: grep -cw 'Beats' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 1
+genesis: grep -cw 'Unity' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+genesis: grep -cw '734' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 2
+trennungsprotokoll: grep -cw 'Trennungsprotokoll' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 2
+trennungsprotokoll: grep -cw 'Separation Protocol' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 2
+komponente-734: grep -cw 'Component 734' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 2
+komponente-734: grep -cw 'Komponente' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+multiplizitaet: grep -cw 'Kap' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+did: grep -cw 'DID' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+did: grep -cw 'DIS' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+telefon-stille: grep -ciw 'phone' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+telefon-stille: grep -ciw 'telephone' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+telefon-stille: grep -cw 'Phone-Silence' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+cache-kohaerenz: grep -ciw 'Cache' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+c7-juna-first-appearance: grep -cw 'Kap' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+c10-knuckles-in-kap-1: grep -cw 'knuckles' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+c12-genesis-beats: grep -cw 'Beat' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+c12-genesis-beats: grep -cw 'Unity' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+c12-genesis-beats: grep -cw '734' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 2
+entropie: grep -cw -e 'entropy' -e 'Entropy' -e 'Inversion' -e 'Entropie' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> entropy 2, Entropy 0, Inversion 0, Entropie 0
+c6: grep -cw 'Erasure-Pol' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+kap-35, kap-36: grep -cw -e 'Chapter' -e 'Kap' -e 'Beat'  Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Chapter 0, Kap 0, Beat 0
+c9: grep -cw 'city' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+c9: grep -cw 'City' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+c8: grep -cw -e 'Approach' -e 'Resolve' -e 'Steadfast' -e 'Lock-In' -e '2026-05-07' -e 'Do-er' -e 'Be-er' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Approach 0, Resolve 0, Steadfast 0, Lock-In 0, 2026-05-07 0, Do-er 2, Be-er 2
+q2: grep -cw 'ANI' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+q2: grep -cw 'ARS' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+q2: grep -cw 'ECR' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+q2: grep -cw 'PMS' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+q2: grep -cw 'RSA' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+q2: grep -cw 'SNK' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+q2: grep -cw 'ZTV' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+q2: grep -cw 'Nullpunkt' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 0
+q2: grep -cw '12' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md -> 5
+plot.md: grep -cw -e '39' -e 'Kap' -e 'Chapter' -e 'Act' -e 'Akt' -e 'Storyform' -e 'Driver' -e 'Heldinnenreise' -e 'Hero's Journey' -e 'Kishōtenketsu' -e 'Vortex' -e 'Vortex 1' -e 'Vortex 2' -e 'Beat' -e 'Ch' -e 'Chapter 0' -e 'Chapter 40' -e 'Ch. 0' -e 'Ch. 40'  Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> 39 0, Kap 0, Chapter 0, Act 23, Akt 0, Storyform 25, Driver 2, Heldinnenreise 0, Hero's Journey 1, Kishōtenketsu 0, Vortex 4, Vortex 1 0, Vortex 2 0, Beat 0, Ch 0, Chapter 0 0, Chapter 40 0, Ch. 0 0, Ch. 40 0
+landauer-signatur, hitze-polaritaetsregel, c11: grep -cw -e 'Landauer-Signatur' -e 'warm' -e 'warmth' -e 'Wärme' -e 'cold' -e 'Cold' -e 'coldness' -e 'Kälte' -e 'kalt' -e 'heat' -e 'ozone' -e 'Ozon' -e 'polarity' -e 'Polarität' -e 'Kap' -e 'Kap 6' -e 'Kap 36' -e 'Juna' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Landauer-Signatur 0, warm 1, warmth 1, Wärme 0, cold 3, Cold 0, coldness 0, Kälte 0, kalt 0, heat 4, ozone 3, Ozon 0, polarity 0, Polarität 0, Kap 0, Kap 6 0, Kap 36 0, Juna 10
+truth-rotation (not read): grep -cw -e 'Truth-Rotation' -e 'Truth Rotates' -e 'Rotation' -e 'rotation' -e 'Great Inversion' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Truth-Rotation 0, Truth Rotates 0, Rotation 0, rotation 0, Great Inversion 0
+moonshine-link: grep -cw -e 'VOA' -e 'Leech' -e 'Monster' -e 'Moonshine-Link' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> VOA 0, Leech 0, Monster 0, Moonshine-Link 2
+risse: grep -cw -e 'Riss' -e 'Risse' -e 'Riss-Typ' -e 'Flight' -e 'Re-Containment' Sources/drive/mining-report-kohaerenz-protokoll-narrative-building-blocks.md (each alone) -> Riss 4, Risse 0, Riss-Typ 0, Flight 0, Re-Containment 0

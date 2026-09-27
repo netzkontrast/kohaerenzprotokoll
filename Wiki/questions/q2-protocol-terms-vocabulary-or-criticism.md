@@ -96,7 +96,7 @@ No instance of the eight as project vocabulary. Where the master report, the wor
 
 ## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
 
-**None of the eight occurs; its one named protocol is the Trennungsprotokoll, and AEGIS' others are uncounted.**
+**None of the eight occurs; its one named protocol is the [[trennungsprotokoll|Trennungsprotokoll]], and AEGIS' others are uncounted.**
 Storyform B's overall story: „OS-B (Trennungsprotokoll):" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L46]; of the telephone call, „This "Living Silence" is the sensory proof that the Trennungsprotokoll is an illusion." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L65] The rest are a kind, not a list: „his very existence generates the prediction errors that trigger the "Garbage Collector" protocols of Storyform B." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L23]
 ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times, and no number of protocols is given (`05-verify-readers.txt`); `RS-A` is Storyform A's Relationship Story (J104). No instance of the eight as project vocabulary.
 

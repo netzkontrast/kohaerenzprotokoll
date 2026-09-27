@@ -253,7 +253,7 @@ Row 1's count and order, on row 2's date. On component or remainder, a third pos
 
 ## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
 
-**No Genesis — the separation told only as Kael's second trauma layer, the Fragmentation Night, with Juna the original „Ich" banished.**
+**No Genesis — the separation told only as Kael's second trauma layer, the Fragmentation Night, with [[juna|Juna]] the original „Ich" banished.**
 „(The Fracture - Fragmentation Night): The "Algorithmische Selbstamputation."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „AEGIS misinterpreted emotional fluctuation as fatal system entropy." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „To "save" the psyche, it initiated the Separation Protocol" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43], „banishing the original "Ich"" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] — Juna.
 `Genesis`, `734`, `Unity` and `Beat` stand 0 times (`05-verify-readers.txt`).
 On no row: no count and no component. It has only the worldbuilding concept's second telling, the Fragmentierungsnacht with Juna the Ursprungs-Ich split off, which that document does not relate to its beats (J68). The conflict stays open.

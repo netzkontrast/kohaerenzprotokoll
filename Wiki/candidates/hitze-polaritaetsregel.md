@@ -52,7 +52,7 @@ The Systems Narrative Analysis, of 2026-05-08, states no rule either: warmth is 
 ozone AEGIS' (L63), as the lock has them, but the ozone is not cold, heat spikes and heat shimmer are the
 system's (L49, L96), and its one cold is [[oblivion|Oblivion]]'s Wärmetod (L142).
 The Plot/Outline Mining-Report, of 2026-05-08, states no rule and reverses one side: Juna's link is a drop in temperature (its L37),
-and ozone is Kael's K1 buffer (L21) as well as the smell of the Vortex's heat spike (L74).
+and ozone is Kael's K1 buffer (L21) as well as the smell of the [[vortex|Vortex]]'s heat spike (L74).
 The Narrative Building Blocks report, of the same date, states no rule: warmth is Juna's (its L53), as the lock has it, but Kael's longing
 for her is a heat spike (L115), and cold stands with ozone in KW3's concrete (L85), not as AEGIS' suppression.
 The Systemic Architecture Specification, of the same date, states no rule: heat and ozone are AEGIS' suppression (its L17, L84), cold is Lex's

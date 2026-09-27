@@ -1,0 +1,61 @@
+kern-welten: grep -cw 'Construct' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+kern-welten: grep -cw 'Archipelago' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+kern-welten: grep -cw 'Labyrinth' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+kern-welten: grep -cw 'Garden' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+kollaps-kernel: grep -cw -e 'K0' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> K0 1
+coheron: grep -cw -e 'Coheron' -e 'Coherons' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Coheron 2, Coherons 1
+erason: grep -cw -e 'Erason' -e 'Erasons' -e 'Erasonen' -e 'Erason-Operator' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Erason 2, Erasons 1, Erasonen 0, Erason-Operator 2
+persistenzgleichung (not read): grep -cw -e 'Persistence' -e 'Persistence Equation' -e 'Eta' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Persistence 0, Persistence Equation 0, Eta 0
+goedel-gambit (not read): grep -cw -e 'Gödel-Gambit' -e 'Gambit' -e 'Gödel'  Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Gödel-Gambit 0, Gambit 0, Gödel 1
+nichts-rauschen (not read): grep -cw -e 'Noise' -e 'noise' -e 'Nothing-Noise' -e 'Nichts-Rauschen' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Noise 0, noise 1, Nothing-Noise 0, Nichts-Rauschen 0
+lex: grep -cw (each alone) Lex Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Lex 4
+alex: grep -cw (each alone) Alex ANP Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Alex 2, ANP 2
+alex: grep -nw Alex Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md | grep -cw ANP -> 0 (the lines naming Alex, L19 and L29, carry no ANP label for him)
+rhys: grep -cw (each alone) Rhys Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Rhys 1
+selene: grep -cw (each alone) Selene Entanglement Islands Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Selene 1, Entanglement Islands 0
+nyx: grep -cw (each alone) Nyx Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Nyx 4
+kiko: grep -cw (each alone) Kiko Flight Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Kiko 1, Flight 0
+lia: grep -cw (each alone) Lia Flight Riss Risse Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Lia 1, Flight 0, Riss 0, Risse 0
+isabelle: grep -cw (each alone) Isabelle Flight Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Isabelle 2, Flight 0
+moros: grep -cw (each alone) Moros Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Moros 1
+argus: grep -cw (each alone) Argus Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Argus 2
+silas: grep -cw (each alone) Silas heat warm warmth Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Silas 3, heat 4, warm 0, warmth 0
+silas: grep -nw -i -e heat -e warm -e warmth Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> lines 19 21 98 99 (L19 is the paragraph and table on one line; its heat is the Landauer spikes', not Silas')
+oblivion: grep -cw (each alone) Oblivion Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Oblivion 3
+alters: grep -cw (each alone) Flight Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Flight 0
+q3: grep -cw (each alone) Konstrukt-Stadt Construct Archipel Archipelago Labyrinth Garden Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> Konstrukt-Stadt 0, Construct 0, Archipel 0, Archipelago 0, Labyrinth 0, Garden 0
+ouroboros-struktur: grep -cw -e 'Ouroboros'  Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Ouroboros 1
+vermittler-stimme (not read): grep -cw -e 'Vermittler' -e 'narrator' -e 'Vorwort' -e 'Prologue' -e 'Kap' -e 'Chapter' -e 'Wir-Stimme' -e 'We-Voice'  Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Vermittler 0, narrator 0, Vorwort 0, Prologue 0, Kap 0, Chapter 0, Wir-Stimme 2, We-Voice 2
+sophia: grep -cw 'Sophia' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+aegis: grep -cw Autonomous -> 0; grep -c Genesis -> 0
+formel-inversion: grep -cw prevents -> 0
+algorithmische-melancholie: grep -c Vortex -> 0
+aegis-teilfunktionen: grep -ci zero-trust -> 0; grep -ci firewall -> 0; grep -ci 'integrity guardian' -> 0; grep -cw SIS -> 0
+blinder-fleck: grep -ciw blind -> 0
+thermodynamischer-phaenomenalismus: grep -ci 'Phänomenalismus' -> 0; grep -ci 'Phenomenalism' -> 0; grep -ciw qualia -> 0; grep -ci 'explanatory gap' -> 0
+c1-aegis-expansion: grep -cw Autonomous -> 0; grep -c Autogenic -> 0; grep -c 'Generative Integrity' -> 0
+c3-emergenz-origin: grep -c Genesis -> 0; grep -ci emergen -> 0; grep -ciw origin -> 0
+c14-aegis-first-person-chapter: grep -ciw person -> 0; grep -cw POV -> 0
+c4: grep -cw 'blind' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+kael: grep -cw 'Kap' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+kael: grep -cw 'Ch' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 3
+juna: grep -cw 'Kap' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+juna: grep -cw 'Ch' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 3
+genesis: grep -cw 'Genesis' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+trennungsprotokoll: grep -cw 'Separation Protocol' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+trennungsprotokoll: grep -cw 'Trennungsprotokoll' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+komponente-734: grep -cw '734' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+did: grep -cw 'DID' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+did: grep -cw 'DIS' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+cache-kohaerenz: grep -cw 'Cache-Coherence' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 1
+c7-juna-first-appearance: grep -cw 'Kap' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+c10-knuckles-in-kap-1: grep -cw 'knuckles' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 2
+c10-knuckles-in-kap-1: grep -cw 'Kap' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md -> 0
+kap-35, kap-36, kap-01, kap-39 (not read): grep -cw -e 'Vortex' -e 'Ch. 1-13' -e 'Ch. 27-39' -e 'Chapter' -e 'Kap'  Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Vortex 0, Ch. 1-13 1, Ch. 27-39 1, Chapter 0, Kap 0
+c8 (not changed): grep -cw -e 'Do-er' -e 'Be-er' -e 'Approach' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Do-er 0, Be-er 0, Approach 0
+plot.md: grep -cw -e '39' -e 'Kap' -e 'Chapter' -e 'Act' -e 'Akt' -e 'Storyform' -e 'Driver' -e 'Heldinnenreise' -e 'Hero's Journey' -e 'Kishōtenketsu' -e 'Vortex' -e 'Vortex 1' -e 'Vortex 2' -e 'Beat' -e 'Ch' -e 'Chapter 0' -e 'Chapter 40' -e 'Ch. 0' -e 'Ch. 40'  Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> 39 1, Kap 0, Chapter 0, Act 4, Akt 0, Storyform 1, Driver 0, Heldinnenreise 0, Hero's Journey 0, Kishōtenketsu 0, Vortex 0, Vortex 1 0, Vortex 2 0, Beat 0, Ch 3, Chapter 0 0, Chapter 40 0, Ch. 0 0, Ch. 40 0
+landauer-signatur, hitze-polaritaetsregel, c11: grep -cw -e 'Landauer-Signatur' -e 'warm' -e 'warmth' -e 'Wärme' -e 'cold' -e 'Cold' -e 'coldness' -e 'Kälte' -e 'kalt' -e 'heat' -e 'ozone' -e 'Ozon' -e 'polarity' -e 'Polarität' -e 'Kap' -e 'Kap 6' -e 'Kap 36' -e 'Juna' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Landauer-Signatur 0, warm 0, warmth 0, Wärme 0, cold 0, Cold 0, coldness 1, Kälte 0, kalt 0, heat 4, ozone 2, Ozon 0, polarity 0, Polarität 0, Kap 0, Kap 6 0, Kap 36 0, Juna 7
+truth-rotation: grep -cw -e 'Truth-Rotation' -e 'Inversion' -e 'Great Inversion' -e 'Vortex' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Truth-Rotation 1, Inversion 0, Great Inversion 0, Vortex 0
+truth-rotation: grep Kael Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md | grep -cE 'Kael (is|=|as) (the )?K1' -> 0 (no line writes Kael as K1)
+moonshine-link: grep -cw -e 'Moonshine' -e 'Moonshine-Link' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Moonshine 1, Moonshine-Link 1
+risse: grep -cw -e 'Riss' -e 'Risse' -e 'rift' -e 'rifts' -e 'Flight' Sources/drive/editorial-style-dossier-somatic-and-linguistic-implementatio.md (each alone) -> Riss 0, Risse 0, rift 1, rifts 1, Flight 0

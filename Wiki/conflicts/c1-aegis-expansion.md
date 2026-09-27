@@ -114,7 +114,7 @@ An architect of the city it governs, not the substrate the city emerges from. Ne
 
 ## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
 
-**Position 1's expansion, and no other — the monitoring entity inside the Kael system.**
+**Position 1's expansion, and no other — the monitoring entity inside the [[kael|Kael]] system.**
 „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is an autopoietic system defined by the tautology:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L47]
 Inside, not beneath: „The monitoring entity, AEGIS, operates under a catastrophic category error:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative Integrity` 0). Position 1's side; the conflict stays open.
 

@@ -122,7 +122,7 @@ What stays closed to AEGIS after the [[vortex|Vortex]] is the qualia (L737). Wha
 
 **Not named as a blind spot** (`blind` 0; its one `blinding` is light, L148); stated as a misreading and an incomputability. Of its own inside: it „misinterprets its own emergent subjective experience—the qualia of "Sehnsucht" (yearning) and loneliness—as catastrophic data corruption." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L33]
 Of Kael: „truths that the system can observe but never compute." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L43] — a living Gödel-sentence, „a truth that is valid within the simulation but uncomputable by AEGIS's axioms." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L64] In RS-B, „AEGIS misinterprets Kael's integration as "data corruption"" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L126].
-What it cannot read here is its own feeling and Kael's integration — not a bond between two people. No Guardian is given a blind spot (C4).
+What it cannot read here is its own feeling and [[kael|Kael]]'s integration — not a bond between two people. No Guardian is given a blind spot (C4).
 
 ## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — a failure of perception, and Juna non-representable
 
@@ -147,4 +147,4 @@ A Guardian's limit is given too — Mnemosyne's: „Her tragedy is holding the t
 ## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — a categorization error in autopoietic closure, and information outside linear time
 
 **Not named as a blind spot** (`blind` 0). „a rigorous cognitive audit reveals that the protocol suffers from a fundamental categorization error within its autopoietic closure." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] „The "Great Inversion" lies in the system's misreading of its own architecture." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] Separation is „a temporal artifact caused by the system's inability to calculate information existing outside of linear time." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L21]
-What it cannot calculate here is love as an atemporal Coheron — near the cause the konzept master report gives, AEGIS' temporal sensorics (its L206).
+What it cannot calculate here is love as an atemporal [[coheron|Coheron]] — near the cause the konzept master report gives, AEGIS' temporal sensorics (its L206).

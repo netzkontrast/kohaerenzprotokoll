@@ -140,7 +140,7 @@ turns. It adds a second inversion under the first, AEGIS the self-declared coher
 operating as correspondence police (L233).
 The Companion Guide, of the same date, stands with the konsolidiertes Konzept: the truth rotates at the Vortex, Chapters 35-36
 (its L100), and the Great Inversion — AEGIS the guardian of K1 in belief, the engine of K0 in fact — is named apart, as what the
-Genesis Crisis led to (L43). The Editorial Style Dossier, of the same date, takes a third use: the name is the reader's realization
+[[genesis|Genesis]] Crisis led to (L43). The Editorial Style Dossier, of the same date, takes a third use: the name is the reader's realization
 that AEGIS' order is entropy and its chaos love (its L15), placed at no moment and beside no Vortex or inversion. The Physics of
 Heartbreak, of the same date, a fourth: the Truth-Rotation has occurred at the Ouroboros return to the initial image, the meaning
 inverted from Separation to Connection (its L39); the Great Inversion is its own takeaway (L17), not related to the rotation.

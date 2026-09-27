@@ -162,7 +162,7 @@ Sense 2's possibility space in the Potential Sea, and the third sense's directio
 
 ## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
 
-**Entropy as what Kael's K1 memory is buffered against — AEGIS governed by erasure, never called entropy.**
+**Entropy as what [[kael|Kael]]'s K1 memory is buffered against — AEGIS governed by erasure, never called entropy.**
 „His reality is defined by the Coherence Kernel (K1) , where memory is a structural asset to be buffered against entropy.“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L19] AEGIS is „a tragic resource manager governed by the Erasure Kernel (K0) .“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L27] The only other use is a list of qualitative physics, „(Entropy, Delta-Q, Ionized Dust)“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L116] (`entropy` 1, `Entropy` 1, `05-verify-readers.txt`).
 Sense 1, disorder to be resisted, with Kael's memory on the resisting side; the third sense is not stated, since AEGIS is erasure without the word. The conflict stays open.
 

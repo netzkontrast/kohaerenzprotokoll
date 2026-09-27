@@ -369,7 +369,7 @@ its fourth.
 The Systemic Architecture Specification (its L84–L88) and the Companion Guide (L104–L108) use the
 first list name for name, Beat 1 AEGIS isolating the fragments and Beat 2 Kael's choice. The
 Plot/Outline Mining-Report and the Narrative Building Blocks report use its names with events of
-their own. The Mining-Report's first point is the alters' worlds bleeding into the hallways, its
+their own. The Mining-Report's first point is the [[alters]]' worlds bleeding into the hallways, its
 second, „AEGIS-Erasure/Pivot:“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L72], AEGIS reaching its limit, and Kael accepts the
 paradox only in the third (L71–L73). The Building Blocks report's first beat is the barriers
 dissolving, its second joins AEGIS erasing itself to „Pivot Kael“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L146], and in its
