@@ -45,4 +45,4 @@ The oldest read source for this page, and it gives the room a different function
 
 ## Where the sources differ
 
-- The Kohärenz-Protokoll narrative places the Evaluierungseinheit Epsilon-Gamma-12 in Kapitel 2, in Co₁ — the site of AEGIS' first act of partitioning itself, not a later place where personas collapse — and names no Kernwelt for it (J116).
+- The Kohärenz-Protokoll narrative places the Evaluierungseinheit Epsilon-Gamma-12 in Kapitel 2, in Co₁ — the site of [[aegis|AEGIS]]' first act of partitioning itself, not a later place where [[personas]] collapse — and names no Kernwelt for it (J116).

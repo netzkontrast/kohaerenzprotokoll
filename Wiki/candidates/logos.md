@@ -187,7 +187,7 @@ nearest the text comes is a comparison made from another world's Guardian passag
 bedrohliche Präsenz wie der Chaos-Regulator oder als kalte Logik wie LogOS."
 ^[kohaerenz-protokoll.md:L2024]
 
-**It evaluates Kael, and its classification names Juna.** In the same report that flags his
+**It evaluates Kael, and its classification names [[juna|Juna]].** In the same report that flags his
 „systemische Grenzparadoxien" ^[kohaerenz-protokoll.md:L512], LogOS' own instrument reads:
 „Klassifizierung: Juna-Resonanz-Artefakt" ^[kohaerenz-protokoll.md:L512]
 
