@@ -1,6 +1,6 @@
 ---
 step: extract
-version: 17
+version: 18
 covers_documents: 12
 new_findings_last_document: 1
 ---
@@ -188,6 +188,9 @@ wraps is judged by its first line alone.
 - Backslash escaping inside terms and quotation marks? An escaped underscore
   (`ABC\_DEF`) counts zero when the list writes it plain.
 - A hyphenated word split by a space where the source wrapped a line — `Wort- Grenze`? List it as written; the whole form counts zero.
+- A figure drawn in spaces and arrows — a diagram of two levels, a chart in a text block? Its labels
+  may split a compound across two lines, `(Erason-` over `Echo)`, and the whole form then stands
+  nowhere. List what each line writes, and say in the census that the figure holds the compound.
 - Typographic and ASCII quote glyphs mixed in one file?
 - A table flattened to one cell per line, tab-indented, with no pipes? Then a row is
   several lines, the same cell text may stand in two rows, and a quotation of one cell
