@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 19
+sources: 20
 pages: ["aegis"]
 ---
 
@@ -156,3 +156,10 @@ The apparatus: „Kein Manifest, keine Drohung, keine AEGIS-Personalisierung." ^
 The prose gives the system three lines in capitals: „BESTAND 734-A-0244. WOHNEINHEIT 734, NOTIZFLÄCHE, INHALTSERFASSUNG." ^[kp-kap25-2026-09-14-md.md:L56] · „SCHICHT 734 ABGESCHLOSSEN. ÜBERTRAG: 31." ^[kp-kap25-2026-09-14-md.md:L211] · „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[kp-kap25-2026-09-14-md.md:L217]; the first person on the last: „Es ist keine Warnung. Es ist eine Feststellung" ^[kp-kap25-2026-09-14-md.md:L219].
 `AEGIS` stands 3 times in the apparatus and 0 in the prose; `Innensicht`, `Hard-B` and `Person` 0 (`05-verify.txt`, `05-verify-readers.txt`). The prose's `Ich` (37) and `ich` (35) are the narrator's, never the system's.
 It speaks to this record only through the voice it gives the system in Kap 25: directives, neither row 2's logs nor an inner view. On a first-person chapter in Kap 5–8 it says nothing, and it stands on no row.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**Third person, in the routing table — no inner view and no chapter of its own.**
+„AEGIS — 3.Person" ^[dual-storyform-hintergruende-md.md:L295], dominant Storyform B, beside „ANP-K1 (Kael, Lex, Alex, Rhys, Selene) — 1.Person" ^[dual-storyform-hintergruende-md.md:L293]. In bridge scenes a tense shift may borrow AEGIS' register for three words: „Präsens kippt für drei Worte ins Plusquamperfekt-AEGIS-Protokoll-Register." ^[dual-storyform-hintergruende-md.md:L321]
+`Innensicht`, `Kap 5`, `Kap 7`, `Kap 8`, `Ich` and `ich` stand 0 times.
+The side of rows 1 and 2, on their date, three weeks before the lock of 2026-05-30 — the master report's routing row, in nearly its words.
