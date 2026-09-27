@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -78,3 +78,10 @@ The first of the three sentences it closes on as substrate of every scene: „Wa
 
 The background document does not state the theory: it never writes `Dual-Kernel`, and `DKT` stands on two lines, both naming its „DKT-Kernparadoxon“ ^[dual-storyform-hintergruende-md.md:L78] (`05-verify-readers.txt`). What it says is that the two storyforms mirror that paradox: „Die innere Mechanik der zwei Storyforms reflektiert das DKT-Kernparadoxon:“ ^[dual-storyform-hintergruende-md.md:L78] — „AEGIS glaubt K1 (Kohärenz-Wächter) zu sein. Es ist tatsächlich K0 (Kollaps-Operator).“ ^[dual-storyform-hintergruende-md.md:L82] „Storyform B ist die Lesart, in der AEGIS sich selbst korrekt versteht (oder zu verstehen glaubt).“ ^[dual-storyform-hintergruende-md.md:L86]
 It couples the two kernels to consciousness, dated to an audit phase of 2026-04-28 (its L60): „Die Setzung: Bewusstsein selbst ist ein **5D-Interferenzphänomen** zwischen K1 und K0.“ ^[dual-storyform-hintergruende-md.md:L60]
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — Medium essays taken literally, felt as heat, and the Kernparadoxon as its point
+
+Its §2 is the theory, and it names where it comes from: „Die DKT (entwickelt von Bill Giannakopoulos in einer Reihe von Medium-Essays, im Roman literalisiert übernommen) ist *nicht* Metapher und *nicht* Magie-System.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L63] „Sie ist das **literale physikalische Gesetz**, das die Romanwelt regiert.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L63] „Jedes narrative Ereignis muss mit ihr konsistent sein“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L63]. The appendix lists the essays as „DKT-Originalliteratur, externe Referenz“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L816].
+„Die DKT postuliert zwei fundamentale Rechensubstrate, deren Spannung die Realität konstituiert:“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L67] — K₁ and K₀ (L71, L75). Beyond them, „Die DKT lässt sich an mehrere bestehende Physikkonzepte ankoppeln.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L114] — time from PAL, gravity from Erason activity, light as a scar, and the [[nichts-rauschen|Nichts-Rauschen]] (L118–L122).
+The novel's answer to its central question is its consequence: „Das ist keine Sentenz, sondern die literalisierte Konsequenz der Dual-Kernel-Theorie unter dem Landauer-Prinzip.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L49] And its point: „Die Pointe der DKT, die im Roman die ganze Architektur trägt:“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L126] „AEGIS glaubt, K₁ zu sein. AEGIS *ist* K₀.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L130]
+For the prose: „Die Theorie wird im Prosatext nicht erklärt; sie wird *gespürt* — als Hitze, als Druck“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L63], and „die ersten 50 Seiten enthalten *keine* DKT-Terminologie“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L29]. Its alter table has a `DKT-Korrelat` column (L490), and [[silas|Silas]] is „ein Spiegel-Alter mit dem DKT-Korrelat *Coheron-Echo*“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L355].

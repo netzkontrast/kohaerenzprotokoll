@@ -28,6 +28,24 @@ And the two read ones with them: „Yes, 22 and 23 are research too" (2026-09-26
 them the novel's text, and were corrected; the readings quote what they say and stand.
 A document may still call itself a draft, and a reading may quote that.
 
+**New from the philosophischer Bericht (2026-09-27):**
+- **AEGIS' voice, a new position on C14.** The document gives AEGIS the first person in all of
+  Storyform B, collapsing to the third in the Vortex (its L292, L627), and, under the alter table,
+  „AEGIS und Guardians in der 3. Person" (L507) — two rules it does not relate. The record holds both.
+- **`RIVE`.** A fifth earlier Wächterprogramm beside LogOS, Cerberus, Kairos and Sophia (L296) —
+  Mnemosyne not among them. No other read document names it; 27 landed documents do. A page, or a
+  record beside C6, once a document that defines it is read?
+- **The Überwelt inside the four worlds.** KW3 is „Überwelt / Nexus" and KW4 „Die absolute, externe
+  Ebene" (L437–443), where earlier sources count the Überwelt and the Externe Ebene beside KW1–KW4; KW2
+  is „Grenz-Zonen", and Akt III opens with KW3 (L447). On the pages and in Q3/Q5; a record of its own?
+- **Who brings the paradox in the Vortex.** Here AEGIS confronts Kael with it (L611); every other read
+  source that says so has Kael bring it. On `goedel-gambit`'s differ section; no record.
+- **Is AEGIS conscious?** „eigene Innensicht" (L247), „stumm zusehenden Bewusstsein" (L284) — against
+  the ki-prompt analysis' „Es hat kein Bewusstsein". Not a record.
+- **`atemporalitaet`'s lead** says atemporality is why AEGIS cannot see Juna; this document gives
+  three other reasons (operational closure, zero-knowledge, Chaitin; L262, L322, L339). The lead is
+  unchanged — reword it?
+
 **New from the Kap-25 session log and chapter file (2026-09-26):**
 - **The drafting run's six open decisions, OQ-25-A…F, are addressed to you** (the log's L55–60):
   when AEGIS is named to the reader after the naming lock of Kap 1–13, and when its log format
@@ -261,17 +279,10 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
-- **`kohaerenz-protokoll-philosophischer-bericht-md` is half-ingested.** The
-  author merged the Jules session's pull request #106 (decision 014): its entries
-  on C2, C4, C6, C7, C9, Q1–Q5 and Kap 13 and its links are in the wiki, each
-  after the entry `dual-storyform-hintergruende-md` wrote the same day. It left
-  no candidate list, census, note, judgement or `Wiki/compare/` record; its
-  `reconcile.json` claimed all of them and is kept as
-  `reconcile-claimed-by-jules.json`, so no count takes it for a reconciliation.
-  Finishing the ingest means a reading with a candidate list written while
-  reading — the entries already there are what its reconciliation meets. And
-  `account.py order` passes a `reconcile.json` with no census beside it; it
-  should not.
+- **`account.py order` passes a `reconcile.json` with no census beside it**; it should not.
+  Found when the Jules session's claimed reconciliation of the philosophischer Bericht passed green
+  (decision 014). The document is now read and reconciled as document 31, so nothing rides on it
+  today; the gap in the check stays open.
 
 - **`Coherence Protocol.mp3` is the one row not landed.** markitdown turns audio
   into text only through a speech-recognition service outside this container,
@@ -426,7 +437,7 @@ may be a third surface for the same entity. Nothing read links them.
 **The quote convention is in use.** A research-source quotation carries its
 citation on the same line and inside its table cell. Source labels and the
 wiki's own working sentences use code or emphasis; recorded author decisions
-link to their decision record. The checker reports 13
+link to their decision record. The checker reports 4
 <!--state:quotes.unchecked--> quotations without a resolvable source citation.
 `python3 scripts/quotes.py --unchecked` lists any new gaps with file and line.
 
@@ -599,8 +610,8 @@ never a reading or a number.
    24, 25 and every chapter from Vortex 1 to the end, 35–40.
 4. ~~`2026-09-14-kap25-vertiefung-md`~~ and ~~`kp-kap25-2026-09-14-md`~~ — read 2026-09-26,
    documents 28 and 29: the log of a drafting run on Kap 25, and the chapter file it revised.
-5. **`kohaerenz-protokoll-philosophischer-bericht-md`** (2026-05-08) — Kap 3, 6, 7,
-   17, 24, 32, 35, 36, 38.
+5. ~~`kohaerenz-protokoll-philosophischer-bericht-md`~~ — read 2026-09-27, document 31. The tables
+   had listed it for Kap 3, 6, 7, 17, 24, 32, 35, 36, 38; it names only Ch 35–36 and Kapitel 13.
 6. ~~`dual-storyform-hintergruende-md`~~ — read 2026-09-27, document 30, before item 5 on the
    author's „das übernächste"; it names Kap 1, 13, 28, 33 and 35–39, no Kap 22 and no Kap 40.
 
@@ -677,7 +688,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   52 <!--state:sweep.decided--> hits, 30 <!--state:sweep.readings--> of them
+   57 <!--state:sweep.decided--> hits, 35 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -753,7 +764,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 26 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 27 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -892,7 +903,20 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the Dual-Storyform background document reconciled
+## Next document — the philosophischer Bericht reconciled
+
+**The thirty-first document is done: `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-09-27.** „Kohärenz Protokoll — Theoretisches Fundament", 2026-05-08 — item 5 of *Reading suggestion — next*, the document the Jules session had half-ingested (decision 014). 475 candidates written while reading, **no page**, readings on 57 pages, `plot.md` and Kap 13, 35, 36, entries in twelve conflicts (C8, C13, C15 read and unchanged) and all five questions, J100–J103, five sweep hits (all readings). `Wiki/compare/reconcile-32-kohaerenz-protokoll-philosophischer-bericht-md.md` has the record.
+- **The Jules entries stay.** Their citations (`^[slug:Lnn]`, no `.md`) had never been checked; they are qualified now and hold, one split where it joined two statements. Each record's reconciliation entry follows and says what the document does not bear out. Kap 13's stray section became a reading; a duplicate line the merge left in C7 is gone.
+- **J100–J102**: `Separation Protocol`, `Component 734`, `Phone-Silence` placed on the German pages by the sentence, no surface from one source. **J103**: „Überwelt / Nexus" is a reading on both pages.
+- **Not promoted**: the Witness-Function, Mutual Information, the Holon-Spiegelachse, the Foundation/Strange Attractor, the Gardener's Axiom, `RIVE`.
+- **Its own tensions**, recorded on the pages: two voice rules for AEGIS; Juna invisible (L262) and „nicht, weil sie unsichtbar ist" (L339); the Moonshine mechanism a VOA and VOA „nicht Canon" (L405, L705); „Kaels K₀-Trauma" (L571) against his cycles as the true K₁ (L225).
+- **Briefing v18** asks about a figure drawn in spaces that splits a compound across lines.
+- **A number after a word cannot be quoted**: „bauen 39 Kapitel“ (L41) — the footnote rule drops `39`, so `read.py --find "39 Kapitel"` refuses the line. The census writes it as a term; the rule is `quotes.py`'s, unchanged.
+- **Retrieval**: PageRank recall@8 0.637 → 0.644, only Q5.
+
+Next: every item of *Reading suggestion — next* is read. Rerun `python3 scripts/chapter_sources.py run` so the chapter tables stop listing the seven documents read since, then choose from them — or one of the four whole-novel plans named there. `chapters.py missing` still lists 96 <!--state:chapters.missing--> single-`Kap` mentions.
+
+### Previous document — the Dual-Storyform background document reconciled
 
 **The thirtieth document is done: `dual-storyform-hintergruende-md`, 2026-09-27.** „Dual-Storyform — Hintergründe & konzeptuelle Genealogie", 2026-05-08, the companion to the Dramatica status report of 2026-05-07; read on the author's „Lese das übernächste file ein" — the second of *Reading suggestion — next*, so item 5, `kohaerenz-protokoll-philosophischer-bericht-md`, is still unread. 426 candidates, **no page**, readings on 39 pages, `plot.md` and nine chapters (Kap 1, 13, 28, 33, 35–39), entries in C2, C4, C6, C7, C8, C11, C12, C14 and all five questions, J98 and J99, two sweep hits (a reading, a title). `Wiki/compare/reconcile-31-dual-storyform-hintergruende-md.md` has the record.
 - **If another session reads item 5 in parallel**, it will also take document number 30 and `reconcile-31-…`. Whichever merges second renumbers its record to 32 and its prose to document 31; `account.py order` compares `state_before` with the previous run's `state_after`, and both runs here leave 106 pages and 15 conflicts, so the order check holds either way.
@@ -1282,7 +1306,7 @@ those files are read directly when working on code. The check needs no qmd
 binary; it checks configured coverage, not the contents of an installed index.
 
 **Citation resolution is complete:** 0 <!--state:quotes.unresolved-->
-quotations fail `scripts/quotes.py`, and 13 <!--state:quotes.unchecked-->
+quotations fail `scripts/quotes.py`, and 4 <!--state:quotes.unchecked-->
 research-source quotations lack a resolvable citation. The checker audits
 research-source wording; an author's recorded decision links to its decision
 record and is not treated as a quotation from a research document.

@@ -1,10 +1,10 @@
 ---
 term: Ouroboros-Struktur
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-25"
 ---
 
@@ -15,7 +15,8 @@ the other way, with the pain left as it was.** The sources write it as
 `Ouroboros-Struktur`, `Ouroboros-Klammer`, `Ouroboros-Schluss` and
 `Ouroboros-Ending`. They differ on what repeats (an image or a sentence, and in
 the philosophy catalogue a word as well) and
-where (Kap 1 ↔ Kap 39, Kap 40, or both brackets). Some also use `Ouroboros` for
+where (Kap 1 ↔ Kap 39, Kap 40, or both brackets, and in the philosophischer Bericht the
+Vortex). Some also use `Ouroboros` for
 something the Wir goes into in Kap 38 (in the philosophy catalogue, Kap 39), or for something the Alter architecture
 can do. Each reading is below, attributed and unmerged.
 
@@ -69,6 +70,14 @@ Checked against the full document on 2026-09-26: the quotations above hold; the 
 
 Once (`Ouroboros` 1, `05-verify-readers.txt`), in a question the document restates from the Reset-Doc — its claim about that document: „F10 — Ouroboros-Bild" ^[dual-storyform-hintergruende-md.md:L421]: „Welches konkrete Bild aus Kap 1 kehrt in Kap 39 verändert wieder?" ^[dual-storyform-hintergruende-md.md:L421] „Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel." ^[dual-storyform-hintergruende-md.md:L421] „Berührt: die formale Schließung der Truth-Rotation als Wirkung im Lesegeist." ^[dual-storyform-hintergruende-md.md:L421]
 So an image, returning changed, between Kap 1 and Kap 39 — not Kap 0 and Kap 40, which it never writes (`Kap 0` 0, `Kap 40` 0; `05-verify-readers.txt`) — and which image is open, with the Telefon-Stille one of three candidates beside a smell and a change of pronoun. It ties the closure to the Truth-Rotation and places it in the reader's mind, not in the text. It names no sentence as what returns and no Wir (`Erstsatz` 0, `Wir` 0; `05-verify.txt`, `05-verify-readers.txt`).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — the ending as the beginning inverted, with roles exchanged and the call that does not happen, returning in the Vortex
+
+Twice (`Ouroboros` 2, `05-verify-readers.txt`). First as the form of its ending principle, „Das Ende-Prinzip lautet darum:" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L53] „Die Trennung war nie real. Aber das ändert nichts am Schmerz." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L53]
+„Die Ouroboros-Struktur des Romans macht aus dieser Doppelaussage Form" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L53]: „Was am Anfang als sterile Stadt mit gleichbleibender Temperatur erscheint, kehrt am Ende invertiert wieder, mit getauschten Rollen und einem Telefongespräch, das beide Male nicht stattfindet" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L53] — „beide wissen um die Möglichkeit, beide schweigen, und gerade dieses Schweigen ist die unzerstörbare Substanz." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L53]
+So what returns is an image, the sterile city at one temperature, and the Telefon-Stille, which here happens at both ends, not only at the last; the roles are exchanged, and it does not say whose.
+Second, where it returns: „Der Vortex am Ende des Romans ist die Wiederkehr dieser Konstatierung in invertierter Rollenverteilung — Ouroboros." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L347] The Konstatierung is the silence of the call. So the return falls in the Vortex, which the document puts in `Ch 35–36` three times (L110, L284, L611) — and it names no Kap 1, Ch 39 or Kap 40 and no first or last sentence (`Kap` 0, `Ch 39` 0, `Ch 1` 0, `05-verify-readers.txt`).
+Without the name, its end closes a loop begun in a prologue: „Die Prolog-Schleife schließt: Was als *Universal Reboot* anfing, endet als *Universal Re-Connecting*." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741]
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17
 
@@ -154,14 +163,18 @@ it is, with three candidates — Telefon-Stille, Ozon-Geruch, Pronomenwechsel (i
 Kap 1 as his last (Kapitel-Kompendium, glossary, storyform outline, drafting
 manual, Plot-Konkretisierung). The storyform outline has both in one Kap-39 beat
 (L414); the philosophy document writes the image and the sentence side by side
-(L464, L467), names no image, and adds a word, the `Lexem-Echo` of `da` (L470).
+(L464, L467), names no image, and adds a word, the `Lexem-Echo` of `da` (L470). The philosophischer Bericht
+has an image and the telephone together: the sterile city at one temperature returns inverted,
+with roles exchanged and a call that takes place neither time (its L53).
 
 **Where.** Kap 1 ↔ Kap 39 (konsolidiertes Konzept, Worldbuilding-Konzept,
 Kapitel-Kompendium, glossary, storyform outline, and the Dual-Storyform background
 document in its question, L421); the Coda, Kap 40 (Kernwelten
 L729, L866); both Kap 1 ↔ 39 and Kap 0 ↔ 40 under the one name (philosophy
 L464, which calls the outer pair the Genesis-Klammer within it, L470, and writes
-`Ouroboros` in Kap 40's row, L738; drafting manual L614). The Kapitel-Kompendium, the glossary and the
+`Ouroboros` in Kap 40's row, L738; drafting manual L614). The Vortex: the philosophischer
+Bericht makes it the return of the silent call „in invertierter Rollenverteilung" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L347], and
+names no chapter for the beginning or the end. The Kapitel-Kompendium, the glossary and the
 storyform outline call Kap 0 ↔ 40 the Genesis-Klammer and keep the Ouroboros
 name for the inner bracket.
 
@@ -172,7 +185,8 @@ something the Wir decides to go into, in Kap 38 Beat 5 (iteration-genesis,
 konsolidiertes Konzept, chapter outline, glossary, storyform outline) or in
 Kap 39 (philosophy L459, whose chapter table puts the Wir's decision for plural
 preservation in Kap 38, L733); a capacity of the Alter architecture (character bible
-L722, Alter profiles L683).
+L722, Alter profiles L683). The philosophischer Bericht uses it for the form
+of a double statement — separation never real, the pain unchanged (its L53).
 
 **Whether beginning and end coincide.** They do in Kernwelten (L729) and the
 philosophy document (L464). The Doppelklammer-Abhandlung,
@@ -189,7 +203,8 @@ writes it last (L127).
 - Whether `ins Ouroboros gehen` in Kap 38 names the ending's structure or
   something in the world the Wir enters; no source says.
 - What `zyklischer Rollentausch` exchanges: the two documents that name it do
-  not say whose roles.
+  not say whose roles. The philosophischer Bericht has the roles exchanged at the
+  return (its L53, L347) and does not say whose either.
 - How the Kap-39 writing is staged — the storyform outline leaves it to encoding
   (L491); the Plot-Konkretisierung proposes a history for it (L100).
 

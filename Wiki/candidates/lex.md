@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -127,3 +127,7 @@ Its self-review says how the switching was kept: „R-3 — Vielheit wird benann
 
 In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[dual-storyform-hintergruende-md.md:L282], under „Default-Modus (Hard-Routing per POV):" ^[dual-storyform-hintergruende-md.md:L286], Lex is one of the ANPs the document files under the Kohärenz-Kernel (J98), narrated in the first person: „ANP-K1 (Kael, Lex, Alex, Rhys, Selene) — 1.Person" ^[dual-storyform-hintergruende-md.md:L293]; the row's dominant storyform is A (the same line).
 His syntax is the document's example of one micro-cue for the bridge scenes, where both storyforms are layered: „Lex' hypotaktischer Fluss von einem K0-Stiletto-Satz unterbrochen." ^[dual-storyform-hintergruende-md.md:L319] — K0 being the Kollaps-Kernel (J99). The cue is kept to those scenes: „Disziplin: Mikrocues nur in Bridge-Szenen, nicht in Default-Szenen einschleichen lassen." ^[dual-storyform-hintergruende-md.md:L326]
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — ANP, Gödel + Halteproblem, → Intuition
+
+Among the ANPs of the TSDP section: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] His row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „ANP | Lex (Rationalist) | Gödel + Halteproblem | → Intuition" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L492]. Nothing else in the document names Lex (`grep -cw Lex`: 2; `05-verify-readers.txt`).

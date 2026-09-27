@@ -1,0 +1,493 @@
+# reconcile-pre — kohaerenz-protokoll-philosophischer-bericht-md
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  10 surface groups folded to one term first
+  456 candidates, 470 decisions — **329 by lookup, 141 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (40) — already recorded from this document — nothing to do
+  DKT                                  dkt
+  Kernwelten                           kern-welten
+  Algorithmische Melancholie           algorithmische-melancholie
+  Coheron                              coheron
+  Kael                                 kael
+  Juna                                 juna
+  AEGIS                                aegis
+  Ouroboros-Struktur                   ouroboros-struktur
+  Konstrukt-Stadt                      konstrukt-stadt
+  Risse                                risse
+  Kohärenz-Kernel                      kohaerenz-kernel
+  Kollaps-Kernel                       kollaps-kernel
+  Erason                               erason
+  Persistenzgleichung                  persistenzgleichung
+  Vortex                               vortex
+  Nichts-Rauschen                      nichts-rauschen
+  Telefon-Stille                       telefon-stille
+  Mnemosyne                            mnemosyne
+  Truth-Rotation                       truth-rotation
+  Guardians                            guardians
+  LogOS                                logos
+  Cerberus                             cerberus
+  Kairos                               kairos
+  Sophia                               sophia
+  Silas                                silas
+  Oblivion                             oblivion
+  Überwelt                             ueberwelt
+  Nexus                                nexus
+  Lex                                  lex
+  Alex                                 alex
+  Rhys                                 rhys
+  Selene                               selene
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  Cache-Kohärenz                       cache-kohaerenz
+  Funktionale Multiplizität            multiplizitaet
+
+## new_reading (1) — page exists, this document is not on it yet — a reading
+  Chaitin-Konstante                    chaitin-konstante
+
+## new_term (288) — no page, no near match — a new page
+  Wahrheitstheorien                    
+  NCP                                  
+  canon-meta.md                        
+  Project Knowledge                    
+  Final Fusion                         
+  Hypothese B                          
+  Plot B                               
+  Encoding                             
+  Storyweaving                         
+  DKT-Terminologie                     
+  Somatische Filter                    
+  Lesersteuerung                       
+  Stanisław Lem                        
+  Liebe                                
+  dissoziative Amnesie                 
+  apparent coherence                   
+  Ende-Prinzip                         
+  Telefongespräch                      
+  Storyforms                           
+  Bill Giannakopoulos                  
+  Primäre Dualität                     
+  K₁                                   
+  K₀                                   
+  Atome der Persistenz                 
+  Zeitpfeil                            
+  η                                    
+  MI(S)                                
+  Mutual Information                   
+  Suppressionsmechanismus              
+  Kopplungskonstante                   
+  Distanzparameter                     
+  Toleranzkapazität                    
+  Korrektive Wellen                    
+  erosive Druck                        
+  Overhead                             
+  Corrective Wavelets                  
+  Corrective-Wavelet-Emission          
+  ANP-Stabilisierung                   
+  ANP                                  
+  21° C                                
+  PAL                                  
+  Page-Wootters                        
+  Aharonov-Lebowitz-Konstruktion       
+  Wheeler-DeWitt-Befund                
+  Zeugenfunktion                       
+  MI-Vereinigung                       
+  Kernparadoxon                        
+  Algorithm.Melancholy                 
+  Permutation City                     
+  autopoietischer Selbsttäuschung      
+  Korrespondenztheorie                 
+  Zugangsproblem                       
+  Isolationsproblem                    
+  Wiener Kreis                         
+  Protokollsätze                       
+  Wächterin                            
+  Trauma-Loops                         
+  MI-Schleifen                         
+  Kohärentist                          
+  korrespondenztheoretische Polizei    
+  Korrespondenz-Polizei                
+  tragischer Misnomer                  
+  Welt-Anker                           
+  Stadt-Sätze                          
+  traumatischen Echos                  
+  Glasperlenspiel                      
+  adaequatio rei et intellectus        
+  Aristoteles                          
+  Russell                              
+  Wittgenstein                         
+  Tarski                               
+  semantische Hierarchie               
+  Gottesblick                          
+  Strukturisomorphie                   
+  logischen Atomismus                  
+  Neurath                              
+  Schiffsmetapher                      
+  Boots-Metapher                       
+  Bishop-Stubbs-Einwand                
+  Märchen-Einwand                      
+  Internen Realismus                   
+  Schlick                              
+  Habermas                             
+  Deflationismus                       
+  Pragmatismus                         
+  Putnam                               
+  Spinoza                              
+  Hegel                                
+  Bradley                              
+  tragischer Gott                      
+  Phoenix Collapse                     
+  System-Ebene-ANP                     
+  apparent normality                   
+  EPs                                  
+  Qualia                               
+  Zwillingschaft                       
+  Primal Directive                     
+  Unity                                
+  Separation Protocol                  
+  Component 734                        
+  734                                  
+  Hypothese A                          
+  Principle of Explosion               
+  parakonsistente Logik                
+  lebendes Paradoxon                   
+  KI-Tragödie                          
+  Selbstdefinition                     
+  Autopoiesis                          
+  Operationale Geschlossenheit         
+  Strukturelle Kopplung                
+  Luhmann                              
+  Maturana                             
+  Varela                               
+  Irritationen                         
+  Perturbationen                       
+  Voice-Regel                          
+  Innensicht                           
+  Außensicht                           
+  ANP-Drop                             
+  Verfremdungs-Momente                 
+  Wächterprogramme                     
+  Memory-Keeper                        
+  Lösch-Pol                            
+  Double-IC-Position                   
+  IC                                   
+  Mind                                 
+  Klein-c-Transformation               
+  Domain-Inversion                     
+  System-Feld                          
+  Disziplin-Schichten                  
+  Quanten-Verschränkungs-Zeuge         
+  Entanglement Witness                 
+  Prover                               
+  disinteressierter Beobachter         
+  Kolmogorov-Komplexität               
+  Telefonanruf                         
+  MI ohne Daten                        
+  K₁-Substrat                          
+  Echo-Pol                             
+  Kosmos-Ebene                         
+  Individual-Ebene                     
+  Quantentunneling                     
+  Witness-Spannung                     
+  Zero-Knowledge-Proof                 
+  Husserl                              
+  Gödels Erster Unvollständigkeitssatz 
+  transzendentale Ego                  
+  Foundation                           
+  Leech-Gitter                         
+  VOA                                  
+  Z₂-Involution                        
+  Orbifold-Konstruktion                
+  twisted modules                      
+  K₁-Zeitlinie                         
+  Moonshine-Boundary                   
+  Boundary-Conditions                  
+  OQ-B                                 
+  MI-Verschränkung                     
+  Monstrous Moonshine                  
+  j-invarianten Modulfunktion          
+  Vertex-Operator-Algebren             
+  Conway                               
+  Borcherds                            
+  KW1                                  
+  KW2                                  
+  KW3                                  
+  KW4                                  
+  KW1–KW4                              
+  Akt-Marker                           
+  Architektur als Antagonist           
+  Metaphernverbot                      
+  Somatik                              
+  Grenz-Zonen                          
+  Unentscheidbarkeit                   
+  Halteproblem                         
+  Maschinenraum hinter dem Rendering   
+  Hawking-Strahlung                    
+  PSM                                  
+  Phänomenales Selbstmodell            
+  Resonanz-Kontinuum                   
+  Stil-Anweisungen                     
+  Metzingers                           
+  Turing                               
+  Informationsparadoxon                
+  Theorie der Strukturellen Dissoziation der Persönlichkeit 
+  Strukturelle Dissoziation            
+  Survival Architecture                
+  Personenstruktur                     
+  Apparently Normal Part               
+  Emotional Part                       
+  EP                                   
+  ISH                                  
+  Primäre SD                           
+  Sekundäre SD                         
+  Tertiäre SD                          
+  Universal Reboot                     
+  DKT-Korrelat                         
+  Bogen                                
+  Hubble-Volumen                       
+  Asymptotische Freiheit               
+  Maxwells Dämon                       
+  Wormholes                            
+  CPT-Verletzung                       
+  Planck-Skala                         
+  Superposition                        
+  Pauli-Exclusion                      
+  Big Freeze                           
+  Drachenkampf                         
+  Fraktale                             
+  Sonder                               
+  Wir-Stimme                           
+  We-Voice                             
+  Polyphonie                           
+  Phobien                              
+  Bindungsphobie                       
+  Genre-Vorsicht                       
+  Crew-Menü                            
+  blutende Knöchel                     
+  Time-loss                            
+  Amnesie-Terror                       
+  Van der Hart                         
+  PTBS                                 
+  DIS                                  
+  OSDD                                 
+  Artistic Pole                        
+  Aesthetic Pole                       
+  Leerstellen                          
+  Kontradiktorische Fußnoten           
+  Drei-Schichten-Operation             
+  K₁-Reparatur                         
+  K₀-Trauma                            
+  fünfte Dimension                     
+  5D-Interferenz                       
+  Throughlines                         
+  MC                                   
+  OS                                   
+  RS                                   
+  Deus-ex-machina                      
+  Rezeptionsästhetik                   
+  Der Akt des Lesens                   
+  Wheelerian                           
+  Dialetheismus                        
+  Dialetheien                          
+  wahre Widersprüche                   
+  Trivialismus                         
+  A-Logic                              
+  ANP/EP-Drop                          
+  Action → Decision                    
+  ex falso quodlibet                   
+  Lügner                               
+  System-ANP                           
+  System-Witness                       
+  Influence Character                  
+  V3                                   
+  Pre-Reset-Phase                      
+  Pronomen-Inversionen                 
+  Verschränkungstypen                  
+  Bearer-Wettstreit                    
+  Modus-Inversion                      
+  Domain-Flip                          
+  Bearer-Pair-Wechsel                  
+  Psychology                           
+  Physics                              
+  Bedrock                              
+  Gödel-Property                       
+  Charakter-Reservoir                  
+  Fundament                            
+  Strange Attractor                    
+  Gardener's Axiom                     
+  Endgame-Prinzip                      
+  gärtnerische Pflege                  
+  Chaostheorie                         
+  K₁/K₀-Verfehlung                     
+  Receiver of Consciousness            
+  Prolog-Schleife                      
+  Universal Re-Connecting              
+  klassischer Kollaps                  
+  Open Questions                       
+  OQ-A                                 
+  OQ-C                                 
+  OQ-D                                 
+  3-Beat-Struktur                      
+  Quellenhierarchie                    
+  Canon-Files                          
+  Steinbruch                           
+  Quarry                               
+  40-Kapitel-Synthese                  
+  Phönix-Mode                          
+
+## needs_judgement (141) — NEAR a known surface — one term or two?
+  Dual-Storyform-Architektur  /  Storyform A   near: each other
+  Skill-Canon  /  Skill-Canon-Hierarchie       near: each other
+  Kernwelten  /  Kernwelten-Topologie          near: each other
+  Dialetheia  /  lebende Dialetheia            near: each other
+  Dialetheia  /  finale Dialetheia             near: each other
+  Vortex-Architektur  /  Vortex                near: each other
+  Ted-Chiang-Maßstab  /  Ted Chiang            near: each other
+  Greg Egan  /  Greg-Egan-Maßstab              near: each other
+  Coheron  /  Coheronen                        near: each other
+  Coheron  /  Coherons                         near: each other
+  Coheron  /  Coheron-Echo                     near: each other
+  Coheron  /  Coheron-Ebene                    near: each other
+  Kael  /  Kaels Trauma-Zyklen                 near: each other
+  Kael  /  Kael-Juna-Paar                      near: each other
+  Kael  /  Pivot Kael                          near: each other
+  Kael  /  Junas Wirkung in Kael               near: each other
+  Juna  /  Kael-Juna-Paar                      near: each other
+  Juna  /  Juna-Echo                           near: each other
+  Juna  /  Junas Wirkung in Kael               near: each other
+  Juna  /  Junas Erscheinungs-Modus-Anker      near: each other
+  AEGIS  /  AEGIS-Säuberung                    near: each other
+  AEGIS  /  AEGIS-Echo                         near: each other
+  AEGIS  /  AEGIS-Erasure                      near: each other
+  AEGIS  /  Post-Vortex-AEGIS-Status           near: each other
+  Phantom-Resonanz  /  Phantom-Resonanzen      near: each other
+  Erasure  /  Erasure-Apparats                 near: each other
+  Erasure  /  Erasure-Balance                  near: each other
+  Erasure  /  Erasure-Felder                   near: each other
+  Erasure  /  K₀-Erasure                       near: each other
+  Erasure  /  Erasure-Protokoll                near: each other
+  Erasure  /  AEGIS-Erasure                    near: each other
+  Holon-Ebenen  /  Holon                       near: each other
+  Alter  /  Spiegel-Alter                      near: each other
+  Alter  /  13 Alter                           near: each other
+  Landauer-Prinzip  /  Landauer                near: each other
+  Risse  /  Risse-Reparatur                    near: each other
+  Risse  /  Mikro-Risse                        near: each other
+  Erasonen  /  Erason                          near: each other
+  Erason  /  Erason-Operator                   near: each other
+  Landauer-Hitze  /  Landauer                  near: each other
+  AEGIS-Säuberung  /  Säuberung                near: each other
+  Landauer  /  Heat-Spike Landauer             near: each other
+  Ozon  /  Ozon-Geruch                         near: each other
+  Vortex  /  Vortex-Inversion                  near: each other
+  Vortex  /  Vortex-Konvergenz                 near: each other
+  Vortex  /  Vortex-Quelle                     near: each other
+  Vortex  /  Beat-Struktur des Vortex          near: each other
+  Vortex  /  Post-Vortex-AEGIS-Status          near: each other
+  Heat-Spike  /  Heat-Spike Landauer           near: each other
+  Mikro-Risse  /  Mikroriss                    near: each other
+  Konstatierungen  /  Konstatierung            near: each other
+  Telefon-Stille  /  Stille                    near: each other
+  Reader-Funktion  /  Reader-Funktion-Mechanik near: each other
+  Mosaik  /  Mosaik-Struktur                   near: each other
+  Mnemosyne  /  Mnemosyne-Archipel             near: each other
+  Mnemosyne  /  Konvergenz Mnemosyne-Archipel  near: each other
+  Truth-Rotation  /  Rotation                  near: each other
+  Truth-Rotation  /  Truth-Rotation-Verdict    near: each other
+  Kaels Trauma-Zyklen  /  Trauma-Zyklen        near: each other
+  Main Character der Storyform B  /  Storyform B near: each other
+  RIVE  /  Driver                              near: each other
+  RIVE  /  Action-Driver                       near: each other
+  RIVE  /  Decision-Driver                     near: each other
+  Klimax-Setting  /  Klimax                    near: each other
+  Mnemosyne-Archipel  /  Konvergenz Mnemosyne-Archipel near: each other
+  Universe  /  Participatory Universe          near: each other
+  Wirkung  /  Junas Wirkung in Kael            near: each other
+  Host  /  Host-ANP                            near: each other
+  Phone-Silence  /  Phone-Silence-Anker        near: each other
+  Zero-Knowledge-Verifier  /  Verifier         near: each other
+  Gödel-Sentenz  /  lebenden Gödel-Sentenz     near: each other
+  Spiegel-Alter  /  Spiegel                    near: each other
+  Spiegelachse  /  Holon-Spiegelachse          near: each other
+  Spiegelachse  /  Spiegel                     near: each other
+  Holon-Spiegelachse  /  Spiegel               near: each other
+  Holon-Spiegelachse  /  Holon                 near: each other
+  Monstergruppe  /  Monstergruppe M            near: each other
+  Leech-Lattice-Symmetrien  /  Leech-Lattice   near: each other
+  Kantsche Phänomene  /  Kants                 near: each other
+  Computational Class  /  Computational Classes near: each other
+  Überwelt  /  Überwelt / Nexus                near: each other
+  Nexus  /  Überwelt / Nexus                   near: each other
+  Akt I  /  Akt II                             near: each other
+  Akt I  /  Akt III                            near: each other
+  Akt II  /  Akt III                           near: each other
+  Spiegel  /  Spiegel-Pol                      near: each other
+  Spiegel  /  Individual-Spiegel               near: each other
+  Iser  /  AEGIS-Erasure                       near: each other
+  lebender Gödel-Satz  /  Gödel-Satz           near: each other
+  Stille  /  Stille im Telefon                 near: each other
+  Rotation  /  Truth-Rotation-Verdict          near: each other
+  Driver  /  Action-Driver                     near: each other
+  Driver  /  Decision-Driver                   near: each other
+  Priest  /  Graham Priest                     near: each other
+  Holon  /  Holon-Struktur                     near: each other
+  Per-Chapter-Dual-POV-Architektur  /  Per-Chapter Dual-POV near: each other
+  Slot 16  /  Architektur-Frage Slot 16        near: each other
+  Dual-Kernel-Theorie                          near: dualkerneltheoriedkt→dkt
+  Vortex-Architektur                           near: vortex→vortex
+  Coheronen                                    near: coheron→coheron
+  Alter                                        near: alters→alters
+  Coherons                                     near: coheron→coheron
+  Erasonen                                     near: erason→erason
+  Risse-Reparatur                              near: risse→risse
+  AEGIS-Säuberung                              near: aegis→aegis
+  Landauer                                     near: landauersignatur→landauer-signatur
+  Mikro-Risse                                  near: risse→risse
+  Kohärenztheorie                              near: koharenz→kohaerenz
+  Mosaik                                       near: mosaikherz→mosaik-herz
+  Kaels Trauma-Zyklen                          near: kael→kael
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Autonomous Entropic Gatekeeper for Integrity Systems near: entropicgatekeeper→aegis
+  Genesis 3-Beat                               near: genesis→genesis
+  Vortex-Inversion                             near: vortex→vortex
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  Vortex-Konvergenz                            near: vortex→vortex
+  Coheron-Echo                                 near: coheron→coheron
+  Kael-Juna-Paar                               near: juna→juna, kael→kael
+  Coheron-Ebene                                near: coheron→coheron
+  Phaenomena                                   near: thermodynamischerphaenomenalismus→thermodynamischer-phaenomenalismus
+  Überwelt / Nexus                             near: nexus→nexus, uberwelt→ueberwelt
+  Ereignishorizont der Simulation              near: simulation→ueberwelt
+  Vortex-Quelle                                near: vortex→vortex
+  Juna-Echo                                    near: juna→juna
+  AEGIS-Echo                                   near: aegis→aegis
+  Erason-Operator                              near: erason→erason
+  Funktionaler Multiplizität                   near: multiplizitat→multiplizitaet
+  Multiplizitäts-Schleier                      near: multiplizitat→multiplizitaet
+  Beat-Struktur des Vortex                     near: vortex→vortex
+  Konvergenz Mnemosyne-Archipel                near: mnemosyne→mnemosyne
+  AEGIS-Erasure                                near: aegis→aegis
+  Pivot Kael                                   near: kael→kael
+  Stille                                       near: gartenderstillenpraesenz→garten-der-stillen-praesenz, gartenderstillenprasenz→garten-der-stillen-praesenz, telefonstille→telefon-stille
+  Rotation                                     near: truthrotation→truth-rotation
+  Junas Wirkung in Kael                        near: juna→juna, kael→kael
+  K₁-Kohärenzzone                              near: koharenz→kohaerenz
+  Post-Vortex-AEGIS-Status                     near: aegis→aegis, vortex→vortex
+  Junas Erscheinungs-Modus-Anker               near: juna→juna
+  Kohärenz-Akt                                 near: koharenz→kohaerenz
+  Truth-Rotation-Verdict                       near: truthrotation→truth-rotation
+  Kernwelten-Topologie                         near: kernwelt→kern-welten, kernwelten→kern-welten
+
+## in_document_not_in_census (5) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Atemporalität                        atemporalitaet               L782  (page already reads this document)
+  Entropie                             entropie                     L49  (page already reads this document)
+  Genesis                              genesis                      L264  (page already reads this document)
+  Kohärenz                             kohaerenz                    L11  (page already reads this document)
+  Kollaps-Kernel (K₀)                  kollaps-kernel               L75  (page already reads this document)
+

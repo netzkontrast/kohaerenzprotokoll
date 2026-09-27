@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 24
+sources: 25
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -279,3 +279,13 @@ Beat 4 of the Vortex, „(Landauer→∞)" ^[dual-storyform-hintergruende-md.md:
 The status report's micro-cue for bridge scenes, in its words: „Kaels warme Kontemplation kippt für einen Atemzug in AEGIS-Kühle und zurück." ^[dual-storyform-hintergruende-md.md:L318] And ozone as a candidate image for the Ouroboros, an open research question it restates from the Reset-Doc: „Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel." ^[dual-storyform-hintergruende-md.md:L421]
 `Kap 6`, `Kap 36` and `kalt` stand 0 times; `Wärme` once, in the glossary line; no warmth is Juna's. The Vortex is „Vortex (Kap 35–36)." ^[dual-storyform-hintergruende-md.md:L310]
 The master report's and the worldbuilding concept's side, on their date: heat and ozone one Landauer rendering of AEGIS' erasure, the spike in Beat 4 — three weeks before the lock of 2026-05-30. Row 1's Kap-6 and Kap-36 warmth are neither held nor denied; the conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+**Heat and ozone from every erasure of AEGIS', the constant 21° C as the city's thermal balance, the spike in Vortex Beat 4 — no cold ozone, no warmth, and no chapter but `Ch 35–36` for the Vortex.**
+„Jeder Versuch von AEGIS, Anomalien (Junas Erinnerung, traumatische Mikro-Risse, Phantom-Resonanzen) zu tilgen, generiert messbare physikalische Hitze.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] „Das ist der Grund, warum es manchmal nach Ozon riecht.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] „Das ist der Grund, warum 21° C die Temperatur ist — die Stadt operiert am Rand einer thermischen Bilanz, die jede Sekunde aufrechterhalten werden muss.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] „Wenn AEGIS große Mengen an Information löscht, wird die Stadt heiß.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110]
+„Im Vortex (Ch 35–36, Beat 4) führt der Heat-Spike Landauer → ∞“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110]; the Vortex's fourth beat is the same spike (L622).
+The somatic filter: „der Somatische Filter setzt jeden Begriff in Hitze, Ozon, Druck im Bauch um.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L29] „Der somatische Filter (Kaels physischer Körper im Vordergrund: blutende Knöchel, Ozon-Geruch, Time-loss + Zittern) sichert dies.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535]
+Cold is a style, never ozone: KW1's „**Stil**: kalt, steril.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431], against KW2's and KW3's heat (L435, L439). [[juna|Juna]]'s traces are not thermal: „Sie zeigt sich nur durch *Wirkung*: anomale Erasure-Balance, Phantom-Resonanz im Host- oder System-Feld, Phone-Silence als Anker.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L310]
+`warm`, `Wärme`, `kühl`, `Kälte`, `Polarität` and `Kap` stand 0 times, `kalt` on two lines, both style (L431, L447) (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`).
+The master report's and the worldbuilding concept's side, on their date: heat and ozone one Landauer trace of AEGIS' erasure, the spike in Beat 4 — three weeks before the lock of 2026-05-30. Row 2's cold ozone and Juna's warmth stand nowhere in it; it names no Kap 6 or Kap 36, so row 1's warmth there is neither held nor denied, and the Beat-4 spike is the one row 2 keeps too. The conflict stays open.

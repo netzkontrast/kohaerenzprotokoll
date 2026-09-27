@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 11
+sources: 12
 pages: ["entropie"]
 ---
 
@@ -137,6 +137,17 @@ The status report's and the konsolidiertes Konzept's third sense; here K0 is the
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Supports sense 3.**
-„Tatsächlich ist sie der primäre Erzeuger der Entropie in der Welt des Romans." ^[kohaerenz-protokoll-philosophischer-bericht-md:L134]
-„Was AEGIS auf System-Ebene tut — „apparent coherence“ durch Erasure des Anomalen — ist nicht Schutz, sondern Generierung der Entropie, die es zu bekämpfen vorgibt." ^[kohaerenz-protokoll-philosophischer-bericht-md:L49]
+„Tatsächlich ist sie der primäre Erzeuger der Entropie in der Welt des Romans." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L134]
+„Was AEGIS auf System-Ebene tut — „apparent coherence“ durch Erasure des Anomalen — ist nicht Schutz, sondern Generierung der Entropie, die es zu bekämpfen vorgibt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L49]
 This document explicitly frames entropy not as what AEGIS defends against but as what AEGIS fundamentally generates.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+The entry above was written by the Jules session (decision 014) before this document had a census; this is the reconciliation's.
+Its two quotations hold; its last sentence goes further than the document, which also keeps sense 1 as AEGIS' own reading of [[juna|Juna]] (L262).
+**The third sense — AEGIS is K₀ and generates the entropy it claims to fight — with K₀ as entropy's principle, and sense 1 as what AEGIS takes Juna for.**
+„**AEGIS glaubt, K₁ zu sein. AEGIS** ***ist*** **K₀.**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L130] „Tatsächlich ist sie der primäre Erzeuger der Entropie in der Welt des Romans." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L134]
+K₀: „**Der Kollaps-Kernel (K₀)** ist das Prinzip der Entropie, der Informationsauslöschung und der irreversiblen Berechnung." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Wer löscht, schafft Zeit." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] Its pressure „ist nicht bloße Zerstörung, sondern der evolutionäre Filter" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L98] — near the glossary's fourth sense, the condition of events, said of the Erasonen and of K₀.
+AEGIS' misreading: „AEGIS interpretiert ihren Einbruch als *Nichts-Rauschen* — pure thermodynamische und informationelle Entropie." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262] What it is instead: „**Nichts-Rauschen** ist *atemporale MI-Vereinigung* — keine Leere, keine Bedrohung" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L122] — sense 2's counterpart, not called entropy.
+At the end sense 1 returns with AEGIS on order's side, as „einem lokalen Puffer, der die fragile K₁-Kohärenzzone inmitten der entropischen K₀-Umwelt stabilisiert" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741].
+The konsolidiertes Konzept's third sense, on its date, with K₀ named the principle of entropy; the conflict stays open.

@@ -1,0 +1,907 @@
+{
+  "document": "kohaerenz-protokoll-philosophischer-bericht-md",
+  "drive_id": "1n56OJtdpNQT7teOOjM_RGDJLem08Qykekk6_SR6LKpc",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; readings, record entries and chapter readings written by eight Claude readers in the container from Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/readings-brief.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 456,
+    "decisions": 470,
+    "decided_by_lookup": 329,
+    "needs_judgement": 141
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A synthesis of what „bisher kanonisiert wurde“ (L25), not a definition of new world: nearly all of its 288 unmatched candidates are its lens — two theories of truth, systems theory, Iser, Priest, Monstrous Moonshine, the TSDP's clinical terms — or the vocabulary of the argument. What it names in the world has pages: the kernels, Coheron, Erason, the Persistenzgleichung, the Kernwelten, the thirteen Alters, the Guardians, the Vortex, the Truth-Rotation, the Moonshine-Link. Its own terms that have no page — the Witness-Function (L312–330), Mutual Information (L88), the Holon-Spiegelachse (L359–383), the Gardener's Axiom (L711–713), the Foundation (L697–705), RIVE (L296) — are defined in one section or named once; a page for any would be gathered across the read sources, the Truth-Rotation precedent (not_promoted).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        130,
+        134,
+        233,
+        247,
+        262,
+        264,
+        266,
+        284,
+        292,
+        296,
+        507,
+        676,
+        741,
+        753
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "a tragic god, MC of Storyform B, a System-Ebene-ANP, K₀ in fact; first person in B (L292) and „AEGIS und Guardians in der 3. Person“ (L507), unrelated; the expansion of C1"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        465,
+        493
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "ANP, Asymptotische Freiheit, → Wachstum"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        284,
+        288,
+        623,
+        723,
+        729,
+        733,
+        737
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "canonised against the classical collapse, „Wissen ohne Fühlen“, the fate-word of every system that cannot overcome the K₁/K₀-Verfehlung"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        25,
+        41,
+        306,
+        318,
+        465,
+        466,
+        476,
+        480,
+        484,
+        490,
+        507,
+        511,
+        515,
+        523,
+        531,
+        535
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "thirteen by rule, four categories, no somatics"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        501
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "Sonder, Fraktale, → konstruktive Kritik"
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        71,
+        118,
+        262,
+        322,
+        339,
+        355,
+        603,
+        782,
+        783,
+        784
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "no decay and no date, Silas outside time — and not why AEGIS cannot see Juna"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        262,
+        322,
+        339
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "Juna outside AEGIS' axiomatic basis — invisible, not absent (L262); L339 says the model fails „nicht, weil sie unsichtbar ist“"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        480
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "the model of the amnesia"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        296,
+        437
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "one of the earlier Wächterprogramme, and not said to be absorbed"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        45,
+        49,
+        71,
+        229,
+        262,
+        355,
+        419,
+        788
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "love as Coheron, units outside time, and Kael's trauma loops as Coheronen"
+    },
+    {
+      "page": "did",
+      "lines": [
+        476,
+        511,
+        535
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "Kael's configuration typical for DIS, dissociation as terror"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        29,
+        49,
+        63,
+        67,
+        114,
+        126,
+        130,
+        355,
+        816
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "Medium essays taken literally, felt as heat, and the Kernparadoxon as its point"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        49,
+        75,
+        94,
+        98,
+        134,
+        229,
+        237,
+        262,
+        741,
+        796
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "K₀'s principle, what AEGIS produces and enforces, and what AEGIS reads Juna as"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        75,
+        119,
+        120,
+        783
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "the arrow of time, and gravity and light from erasure"
+    },
+    {
+      "page": "formel-inversion",
+      "lines": [
+        264,
+        266,
+        739,
+        741
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "the first sentence as an equation, „AEGIS = das, was AEGIS verhindert nicht-zu-sein.“ (L266), in no chapter, and no second sentence"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        264,
+        266,
+        270,
+        274,
+        275,
+        276,
+        280,
+        306,
+        756
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "three numbered beats — Unity, Separation Protocol, Kael = Component 734 — and a fourth „Status: ungelöst“"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        284,
+        302,
+        334,
+        492,
+        609,
+        611,
+        705,
+        737
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "the climax of logic without the name: AEGIS brings the paradox, and Kael becomes the Gödel statement by accepting it"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        294,
+        296,
+        427,
+        437,
+        439,
+        507
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "two, and the earlier Wächterprogramme a different five"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        110,
+        310,
+        431,
+        435,
+        439,
+        443,
+        447
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "no rule — heat and ozone as AEGIS', cold and heat as the worlds' styles, and nothing thermal of Juna's"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        466,
+        499
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "EP, Sexualisiert, Pauli-Exclusion"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        25,
+        110,
+        262,
+        306,
+        310,
+        318,
+        322,
+        326,
+        330,
+        334,
+        347,
+        355,
+        383,
+        507,
+        580,
+        685,
+        755
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "no Alter, Double-IC, never described, one witness in three layers; no appearance placed"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        25,
+        194,
+        225,
+        237,
+        247,
+        276,
+        322,
+        465,
+        476,
+        491,
+        535,
+        570,
+        611,
+        620,
+        642,
+        687,
+        741
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "the Host, a tertiary configuration, Component 734, and the living Gödel-Satz in the Vortex"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        296,
+        441
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "one of the earlier Wächterprogramme, and not said to be absorbed"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        17,
+        25,
+        296,
+        425,
+        427,
+        429,
+        431,
+        433,
+        435,
+        437,
+        439,
+        441,
+        443,
+        447
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "four spheres as act markers, with KW2 `Grenz-Zonen`, KW3 `Überwelt / Nexus` and KW4 `Resonanz-Kontinuum`"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        466,
+        497
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "EP, Freeze, Planck-Skala"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        71,
+        130,
+        225,
+        233,
+        347,
+        431,
+        572,
+        741
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "reversible computation carried by Coherons, and Kael's trauma cycles as the true K₁"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        71,
+        83,
+        134,
+        190,
+        216,
+        225,
+        237
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "what AEGIS claims to guard and η does not measure; the title the name of the illness (J9, J57 keep title and protocol apart)"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        75,
+        98,
+        134,
+        225,
+        571,
+        737,
+        741
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "entropy, erasure and irreversible computation, an evolutionary filter, and what AEGIS is"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        270,
+        276,
+        280
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "Kael is the component, the third beat (J101)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        25,
+        53,
+        63,
+        110,
+        247,
+        427,
+        429,
+        431,
+        435,
+        447,
+        713,
+        741,
+        784
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "KW1, the city AEGIS steers and heats, inhabited at the end"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        29,
+        98,
+        110,
+        535,
+        611,
+        784
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "heat and ozone from AEGIS' erasure, 21° C as a thermal balance, and the spike of Beat 4"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        465,
+        492
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "ANP, Gödel + Halteproblem, → Intuition"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        466,
+        498
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "EP, Ambivalent, Superposition"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        296,
+        429
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "first of the earlier Wächterprogramme, and not said to be absorbed"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        203,
+        296,
+        433,
+        507,
+        611,
+        619
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "one of two, the Vortex's convergence in her archipelago, and a Wächterin who notes without judging"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        351,
+        389,
+        397,
+        401,
+        405,
+        406,
+        407,
+        411,
+        413,
+        415,
+        419,
+        687,
+        701,
+        705,
+        754
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "a mechanism over the Leech lattice, its boundary asked as exclusive or universal, and its mathematics reduced in the same document"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        466,
+        500
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "EP, Kollaps, Big Freeze, → Drachenkampf"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        25,
+        511,
+        515,
+        535,
+        709,
+        733
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "against Final Fusion, a chorus in Akt III, the Strange Attractor, veiled to Kapitel 13"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        25,
+        437,
+        439
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "KW3's second name, where the Wächterprogramme reside"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        122,
+        262,
+        274,
+        571
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "a correlate of the DKT, what AEGIS reads Juna's break-in as, and what the reader lives"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        466,
+        496,
+        535
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "EP, CPT-Verletzung, and knuckles that are Kael's"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        359,
+        383,
+        503,
+        507,
+        670
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "AEGIS' echo-pole, erasing on the individual level"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        53,
+        347,
+        741
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "the ending as the beginning inverted, with roles exchanged and the call that does not happen, returning in the Vortex"
+    },
+    {
+      "page": "persistenzgleichung",
+      "lines": [
+        83,
+        87,
+        88,
+        89,
+        90,
+        94
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "what η measures, a third set of names for its variables, and Landauer heat"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        25,
+        425,
+        427,
+        437,
+        443,
+        701
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "four spheres, and nothing beside them"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        465,
+        494
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "ANP, Maxwells Dämon, → Akzeptanz"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        63,
+        98,
+        110,
+        217,
+        229,
+        318,
+        480,
+        560,
+        580,
+        596,
+        598,
+        602,
+        603,
+        607
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "Risse as dialetheias, their repair as damage, and the ones the reader closes"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        465,
+        495
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "ANP, Wormholes, → Mediator"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        355,
+        359,
+        383,
+        502,
+        507,
+        646,
+        671
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "Juna's echo-pole on the Spiegelachse, never in time"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        296
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "one of the earlier Wächterprogramme, and not said to be absorbed"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        53,
+        194,
+        310,
+        345,
+        347,
+        351,
+        443,
+        531,
+        602,
+        754,
+        755,
+        788,
+        796
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "Juna's anchor, a Konstatierung without language, a lived dialetheia, and the Vortex as its return"
+    },
+    {
+      "page": "thermodynamischer-phaenomenalismus",
+      "lines": [
+        63,
+        71,
+        94,
+        121,
+        247,
+        284,
+        737,
+        784
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "not named and not held; consciousness on K₁'s side, heat the cost of erasure, AEGIS aware without qualia"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        270,
+        275,
+        276
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "the second beat, as `Separation Protocol` (J100)"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        142,
+        206,
+        208,
+        216,
+        217,
+        221,
+        225,
+        229,
+        233,
+        623,
+        812
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "the inversion itself, carried out over the course of the novel, with a second inversion under it"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        247,
+        453,
+        457,
+        461,
+        465,
+        466,
+        476,
+        484,
+        519,
+        531
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "the theory as Kael's foundation, his configuration tertiary, phobias as mechanisms"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        25,
+        229,
+        427,
+        437,
+        439,
+        701
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "KW3's name, the Maschinenraum where the Wächterprogramme reside"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        25,
+        110,
+        280,
+        284,
+        292,
+        296,
+        306,
+        347,
+        443,
+        507,
+        607,
+        609,
+        611,
+        615,
+        619,
+        620,
+        621,
+        622,
+        623,
+        627,
+        713,
+        753
+      ],
+      "attribution": "the philosophischer Bericht",
+      "note": "one Vortex in Ch 35–36, five beats with no chapter cut, AEGIS' paradox met as a dialetheia, and the voice collapsing"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      13,
+      35,
+      36
+    ],
+    "left_off": {
+      "39 Kapitel (L41, L558, L755)": "a count, no chapter"
+    },
+    "kap_13_note": "the Jules session's stray section after the navigation sections is replaced by a reading in the chapter format"
+  },
+  "plot_overview": {
+    "lines": [
+      11,
+      17,
+      25,
+      41,
+      427,
+      447,
+      515,
+      535,
+      558,
+      615,
+      619,
+      623,
+      627,
+      741,
+      753,
+      810,
+      830
+    ],
+    "note": "a fifth plan of 2026-05-08 with 39 chapters, no frame and one Vortex of five beats in Ch 35–36 with no chapter cut; the acts by Kernwelt (L447), Akt III opening with KW3; „every plan but four“ → five"
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C9",
+    "C10",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C8": "`Be-er`, `Do-er`, `Approach` 0",
+    "C13": "`Köln`, `Externe Ebene`, `Basisrealität` 0; its „externe Ebene“ (L443) is KW4, inside the simulation's reality (L427)",
+    "C15": "`Flight` 0; the alter table (L488–503) gives no alter Flight"
+  },
+  "jules_entries": "C2, C4, C6, C7, C9 and Q1–Q5 carried an entry for this document from the Jules session (decision 014); each is kept, its citations qualified so quotes.py checks them (one split where it joined two statements), and the reconciliation's entry follows it, saying what the document does not bear out",
+  "judgements": [
+    "J100",
+    "J101",
+    "J102",
+    "J103"
+  ],
+  "decided_by_existing_rules": "J60 (the AEGIS expansion); J70 (Pivot Kael, Host-ANP, System-ANP on their bearers); J74 and J93 (AEGIS-Echo, Erason-Operator on oblivion; Juna-Echo on silas); J76–J78 (Genesis-Krise, Genesis 3-Beat not the Genesis); J86 (arrows as relations); J90 (the beat Rotation); J53/J62/J81 (Landauer heat and the heat spike placed by what they state); J71 (Moonshine); J8/J9/J57/J97 (Kohärenz Protokoll the title, Kohärenztheorie and Kohärenz-Protokoll not kohaerenz); J51; J56 and J84 (plurals, 13 Alter); the rest are near matches between candidates no page depends on — substring pairs (RIVE/Driver, Iser/AEGIS-Erasure) and compounds of the document's own vocabulary",
+  "not_read_although_looked_up": {
+    "moeglichkeits-garten": "`Möglichkeits-Garten`, `Garten`, `Kairos-Potentialis` 0; KW4 is only „Resonanz-Kontinuum“ (L441)",
+    "externe-ebene": "`Externe Ebene`, `Köln`, `Basisrealität` 0; the lowercase „externe Ebene“ (L443) is KW4",
+    "drei-ontologische-schichten": "`Schichten` only for the Witness-Function's three layers (L312, L330) and the Reader-Function's (L564)",
+    "vermittler-stimme": "`Vermittler`, `Vorwort`, `Wir-AEGIS` 0; its Wir-Stimme (L515) is the alters' chorus in Akt III, on multiplizitaet"
+  },
+  "not_promoted": [
+    "Witness-Function — three layers, one function (L312–330); in six read documents; on juna",
+    "Mutual Information — MI(S) in the Persistenzgleichung (L88), MI-Vereinigung, MI ohne Daten (L347)",
+    "Holon / Spiegelachse — AEGIS↔Juna over Oblivion↔Silas (L359–383, L633–672); on silas, oblivion, aegis, juna",
+    "Foundation / Fundament / Strange Attractor — the Monstergruppe as Bedrock, „reduziert“, and the Fundament as process (L697–709)",
+    "Gardener's Axiom — the Endgame-Prinzip (L711–713); on konstrukt-stadt",
+    "RIVE — a fifth earlier Wächterprogramm (L296), in no other read document and in 27 landed ones",
+    "Receiver of Consciousness — AEGIS after the Vortex (L741), OQ-A (L753); on aegis",
+    "Reader-Function — the reader as fifth dimension (L541–580)",
+    "the two theories of truth and their critical defects (L140–204) — lens"
+  ],
+  "sweep": {
+    "hits": 5,
+    "readings": 5,
+    "occurrences": 0,
+    "note": "Atemporalität L782, Entropie L49, Genesis L264, Kollaps-Kernel (K₀) L75 readings; Kohärenz L11 is the title, but the page reads what the document says of Kohärenz at L71–L237"
+  },
+  "internal_tension": "Two voice rules for AEGIS — first person in Storyform B (L292, L627) and „AEGIS und Guardians in der 3. Person“ (L507); Juna structurally invisible (L262) and a model that fails „nicht, weil sie unsichtbar ist“ (L339); the Moonshine-Link's mechanism a VOA over the Leech-Gitter (L405) and VOA/Leech/Monstergruppe „nicht Canon“ as optional concepts (L705); „Kaels K₀-Trauma“ (L571) against Kael's trauma cycles as the true K₁ (L225); KW1 the „Domäne der K₁-Dominanz“ (L431) where AEGIS is K₀.",
+  "readers_noticed": "AEGIS brings the paradox to Kael in the Vortex (L611), where every other read source that says so has Kael bring it — on goedel-gambit's differ section, no record. It puts the Überwelt inside the four Kernwelten as KW3 and KW4 as „Die absolute, externe Ebene“ (L437–443), where earlier sources count the Überwelt and the Externe Ebene beside KW1–KW4; KW2 is „Grenz-Zonen“, KW3 carries no Cerberus-Labyrinth, and Akt III opens with KW3 (L447). The Persistenzgleichung's δ and β get a third set of names. The earlier Wächterprogramme are LogOS, Cerberus, Kairos, Sophia and RIVE — Mnemosyne not among them. Whether AEGIS is conscious: „eigene Innensicht“ (L247), „stumm zusehenden Bewusstsein“ (L284) — against the ki-prompt analysis' „Es hat kein Bewusstsein“. The atemporalitaet lead („why AEGIS cannot see Juna“) is not this document's reason: it gives operational closure (L262), zero-knowledge (L322) and Chaitin (L339).",
+  "baseline_moved": true,
+  "retrieval": "PageRank recall@8 0.637 → 0.644; only Q5 moved, 0.286 → 0.429"
+}

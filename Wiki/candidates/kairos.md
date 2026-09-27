@@ -1,17 +1,17 @@
 ---
 term: Kairos
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-17"
 ---
 
 # Kairos
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Ten other read documents name Kairos — the readings below, the worldbuilding concept's the latest. (Until that reading this lead said nothing else read named Kairos at all, which the second reading on this page had already made false.)
+the same nine fields. Eleven other read documents name Kairos — the readings below, the philosophischer Bericht's the latest (it moved this count from ten). (Until that reading this lead said nothing else read named Kairos at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -128,4 +128,10 @@ And absorbed: „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und 
 Four occurrences (`grep -cw Kairos` 4). Among the older drafts' five, as the document's claim about them: „Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle. Das war Lore-Last." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L192]
 Absorbed into the Erasure-Pol: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] (Q5)
 Its world is renamed away from it — „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] — and still headed „KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L584] (J49), as in the konsolidiertes Konzept of the same date (L462, L517 there).
+The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — one of the earlier Wächterprogramme, and not said to be absorbed
+
+Once (`grep -cw Kairos` 1), in the list of what earlier phases planned: „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] — and outside what is left: „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296], [[mnemosyne|Mnemosyne]] and a pole whose identity is open. That list and its status word are the document's claim about earlier phases.
+Where Kairos went it does not say (`absorbiert` 0), and its name is on no world: KW4 is „Resonanz-Kontinuum (Dialetheia)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L441], with `Kairos-Potentialis` and `Möglichkeits-Garten` 0 times (`05-verify-readers.txt`). Q5.
 The author decided C6 for five on 2026-09-24; recorded, not applied.

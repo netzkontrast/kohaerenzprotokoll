@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -63,3 +63,9 @@ Juna shows in their count: „anomale Erason-Bilanz (lokal weniger Löschung als
 
 Its glossary: „**Erason** — irreversibles Löschereignis. K0-Einheit. Erzeugt Zeitpfeil.“ ^[dual-storyform-hintergruende-md.md:L481]
 Oblivion is its operator, the Spiegel-Alter set against Silas the Coheron-Echo: „Silas = Coheron-Echo, Oblivion = Erason-Operator.“ ^[dual-storyform-hintergruende-md.md:L306] `Erason` stands on no other line (2, `05-verify-readers.txt`).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — the arrow of time, and gravity and light from erasure
+
+Of [[kollaps-kernel|K₀]]: „Er operiert durch *Erasonen* — irreversible Löschungsereignisse.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Der entscheidende Punkt: Erasonen *erzeugen den Zeitpfeil*.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Ohne Löschung kein Vorher und Nachher; ohne Vorher und Nachher keine Zeit; ohne Zeit keine Trennung.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Wer löscht, schafft Zeit.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] The summary's third sentence says it again: „Der Zeitpfeil entsteht erst durch Erasonen.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L783]
+Two of the DKT's further physical correlates are erasure's: „**Gravitation** entsteht durch Erason-Aktivität“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L119] — „Nicht Gravitation verursacht Kollaps, Kollaps erzeugt Gravitation.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L119] — and „**Licht** ist eine Narbe — der phänomenologische Rest einer abgeschlossenen Erason-Operation.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L120]
+Oblivion's DKT-Korrelat `Erason-Operator` (L503, L670) is a reading on Oblivion's page (J93). The two Holon figures label the same pole differently, split over two lines — `(Erason-` and `Echo)` (L375 and L379, L662 and L666), an Erason-Echo beside Silas' Coheron-Echo.

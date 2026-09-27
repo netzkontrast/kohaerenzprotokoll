@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -241,4 +241,14 @@ Something AEGIS deploys, in a region that is AEGIS' — neither component nor pe
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Residents of the engine room.**
-„Der „Maschinenraum hinter dem Rendering“. Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md:L439] (This refers to Nexus). It does not explicitly state whether they are components of AEGIS.
+„Der „Maschinenraum hinter dem Rendering“. Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] (This refers to Nexus). It does not explicitly state whether they are components of AEGIS.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+The entry above was written by the Jules session (decision 014) before this document had a census; this is the reconciliation's.
+It holds: the Wächterprogramme reside in KW3, and no sentence makes them AEGIS' components.
+**Programs, reduced to two, in a subsection of the part on AEGIS and resident behind the rendering — grouped with AEGIS, never called its parts.**
+„### 4.6 Guardians (reduziert auf 2)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L294], under the part on AEGIS: „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] — [[mnemosyne|Mnemosyne]] „(Memory-Keeper, Klimax-Setting)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] „und **ein Lösch-Pol** (Identität noch offen, Forschungsfrage)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296].
+Where they are: KW3, „Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439]; the Kernwelten are „*nicht* je-ein-Guardian" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427]. They are told as AEGIS is: „AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] And the Vortex's first beat: „Konvergenz Mnemosyne-Archipel → AEGIS-Erasure" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L619].
+`Komponente` and `Erasure-Pol` stand 0 times (`05-verify-readers.txt`).
+Nearest the konsolidiertes Konzept's *components* — listed in the part on AEGIS, resident where the world is run — without a sentence that says so; the earlier programs are reduced, not replaced by AEGIS. Q1 stays open.

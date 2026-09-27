@@ -7,19 +7,19 @@
       "how": "a read document naming `Kap N` singly with no reading on that chapter's page, scripts/chapters.py"
     },
     "chapters.readings": {
-      "value": 413,
+      "value": 416,
       "how": "`## Reading` sections across the chapter pages, one per document per chapter"
     },
     "documents.reconciled": {
-      "value": 30,
+      "value": 31,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 30,
+      "value": 31,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 30,
+      "value": 31,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -39,19 +39,19 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 2803,
+      "value": 2956,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 5370,
+      "value": 5928,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 5370,
+      "value": 5928,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 160,
+      "value": 161,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
@@ -75,7 +75,7 @@
       "how": "judgements a rule now claims and still agrees with"
     },
     "judgements.total": {
-      "value": 99,
+      "value": 103,
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
@@ -107,11 +107,11 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 13187,
+      "value": 14127,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 13,
+      "value": 4,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -175,7 +175,7 @@
       "how": "landed files that do not open with the eight lines of provenance"
     },
     "sweep.decided": {
-      "value": 52,
+      "value": 57,
       "how": "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence"
     },
     "sweep.open": {
@@ -183,7 +183,7 @@
       "how": "sweep hits in read documents that no reading and no ledger row settles \u2014 decision 012"
     },
     "sweep.readings": {
-      "value": 30,
+      "value": 35,
       "how": "of those, readings the lookup had missed, now on their pages"
     },
     "trainset.fold_baseline_pct": {
@@ -191,7 +191,7 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 26,
+      "value": 27,
       "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {
@@ -207,11 +207,11 @@
       "how": "conflict records counted by the derived Wiki/index.json"
     },
     "wiki.open_statements": {
-      "value": 253,
+      "value": 269,
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
-      "value": 22,
+      "value": 20,
       "how": "pages nothing links to \u2014 the relation layer's gap"
     },
     "wiki.pages": {
@@ -223,11 +223,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 543,
+      "value": 577,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 352,
+      "value": 372,
       "how": "a page's term written in another page's prose without being marked a link"
     },
     "wiki.zero_readings": {

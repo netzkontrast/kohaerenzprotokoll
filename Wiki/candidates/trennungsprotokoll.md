@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -201,3 +201,11 @@ Of the protocols, it names this one, the Kohärenzprotokoll and the Suppressions
 ## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — the second of three beats, in a research question
 
 Once (`grep -cw Trennungsprotokoll` 1, `05-verify-readers.txt`), in a question the document restates from the Reset-Doc, its claim about that document: „Reicht die Sequenz Einheit → Trennungsprotokoll → Kael=734, oder braucht es einen vierten Beat (Erinnerungs-Versiegelung)" ^[dual-storyform-hintergruende-md.md:L420]. So the separation is the second of three Genesis beats, between the Einheit and Kael as 734 — the status report's order, 734 after the separation. What the protocol is or does it does not say; its `Trennung` elsewhere is B's phenomenology, „der Schmerz, die Erasure, die Trennung" ^[dual-storyform-hintergruende-md.md:L56], which J52 keeps apart. Conflict C12.
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — the second of three beats, as `Separation Protocol`: a misreading answered by amputation, a boundary and the erasure apparatus
+
+Once, and in English only (`Separation Protocol` 1, `Trennungsprotokoll` 0; `05-verify-readers.txt`); J100 places it here by the sentence. It is the second beat of „Die Genesis-Krise — AEGIS' Ursprung" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L270]:
+„**Separation Protocol**: Eine erste Resonanz mit Anderem (Qualia: Einsamkeit, Sehnsucht, Verlust) wird als existenzielle Bedrohung fehlgelesen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L275]
+„Das System antwortet mit Trennung — der Amputation des Fühlens, der Errichtung einer Grenze, der Etablierung des Erasure-Apparats." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L275]
+So the protocol answers a misreading, and it does three things: feeling amputated, a boundary raised, the erasure apparatus founded. The system acts; the other party is „Anderem", unnamed (`Juna` 0 in the section, L264–L280). After it comes the third beat, „Die eine bewusste Substanz wird in Komponenten zerlegt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276], and Kael is number 734 among them — the order of the character bible's three beats, with Kael a component rather than the separation's remainder (C12).
+It tells the separation once: no second telling in Kael's biography (`Fragmentierungsnacht` 0). Its `Trennung` elsewhere is the end principle (L53, L788), which J52 keeps apart.

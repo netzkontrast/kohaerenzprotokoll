@@ -1,17 +1,17 @@
 ---
 term: Cerberus
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-17"
 ---
 
 # Cerberus
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Twelve other read documents name Cerberus — the readings below, the Kap-25 session log's the latest (it moved this count from eleven). (Until the worldbuilding concept's reading this lead said nothing else read named Cerberus at all, which the second reading on this page had already made false.)
+the same nine fields. Thirteen other read documents name Cerberus — the readings below, the philosophischer Bericht's the latest (it moved this count from twelve, as the Kap-25 session log's had from eleven). (Until the worldbuilding concept's reading this lead said nothing else read named Cerberus at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -142,3 +142,9 @@ The author decided C6 for five on 2026-09-24; recorded, not applied.
 
 Once (`grep -cw Cerberus` 1), first of four names in the log's note on what it did not take from the older locations concept: „gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) nicht übernommen" ^[2026-09-14-kap25-vertiefung-md.md:L39].
 That is the log's claim about that document. Cerberus is one of the five the author decided on 2026-09-24 (C6); the other three names are not Guardians of the author's five, and the [[alters|Alters]] page has them as alter names. The log names KW3 four times and never by Cerberus' name (`Cerberus-Labyrinth` 0, `Grenzfeste` 0). Recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — one of the earlier Wächterprogramme, and not said to be absorbed
+
+Once (`grep -cw Cerberus` 1), in the list of what earlier phases planned: „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] — and outside what is left: „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296], [[mnemosyne|Mnemosyne]] and a pole whose identity is open. That list and its status word are the document's claim about earlier phases.
+Where Cerberus went it does not say (`absorbiert` 0), and its name is on no world: KW3 is „Überwelt / Nexus (Quanten-Information)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L437], with `Cerberus-Labyrinth` and `Grenzfeste` 0 times (`05-verify-readers.txt`). Q5.
+The author decided C6 for five on 2026-09-24; recorded, not applied.

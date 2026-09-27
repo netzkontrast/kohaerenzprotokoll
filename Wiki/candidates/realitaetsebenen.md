@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -105,3 +105,12 @@ Each of the six has its own section — the four [[kern-welten|Kern-Welten]], th
 Its negative definition says it again: „Keine Multiverse-Geschichte. Eine Realität, vier Logikregime." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L875]
 The four worlds ascend: „Die vier Kernwelten korrespondieren mit aufsteigender Komplexitätsklasse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L696] — „Das ist nicht primär weltdiegetisch, sondern stilistisch-narrative Anweisung" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L696].
 The heading and the sentences of L449 stand in the konsolidiertes Konzept of the same date (L457, L459 there).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — four spheres, and nothing beside them
+
+A theory report — „Dieses Dokument ist Synthese, nicht Pitch." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L25] — recorded, not applied.
+
+**Four, not six.** The word does not stand, and no count of six (`Realitätsebenen`, `Realitätsebene` 0, `05-verify-readers.txt`). Its section: „Kernwelten — Vier ontologische Sphären" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L425]. „Die Realität der Simulation ist nicht homogen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] „Sie zerfällt in vier Kernwelten (KW1–KW4), die unterschiedliche physikalische, logische und sprachliche Gesetzmäßigkeiten haben." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427]
+The names the six-level sources give the two levels beside the four stand here inside them: KW3 is „KW3 — Überwelt / Nexus (Quanten-Information)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L437], and of KW4 it says „Die absolute, externe Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L443] No level outside the four is named — `Externe Ebene` as a name, `Köln` and `Basisrealität` stand 0 times. See `kern-welten`, `ueberwelt`.
+What lies under all of it is not a level: „Die Foundation ist nicht ein Ort und nicht eine Über-Welt, sondern das mathematische Bedrock der Realität" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L701], „aus denen alle Realitäten (inklusive AEGIS' Simulation) abgeleitet sind" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L701].
+On this page's open question, whether six is all of them: this document counts four spheres and nothing beside them.

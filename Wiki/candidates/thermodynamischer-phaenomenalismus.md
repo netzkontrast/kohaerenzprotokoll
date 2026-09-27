@@ -1,10 +1,10 @@
 ---
 term: Thermodynamischer Phänomenalismus
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: C11
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-25"
 ---
 
@@ -13,8 +13,10 @@ gathered: "2026-09-25"
 **A philosophical position that one analysis says the novel founds: qualia are the
 thermodynamic friction where K1's preservation of information and K0's erasure of it
 collide, and the Landauer heat of the erasure is where information is felt.** One
-source names it and one source reads it. It is an analysis of the novel, written
-through a model's research cycle, and it claims no authority over it.
+source names it and reads it. It is an analysis of the novel, written
+through a model's research cycle, and it claims no authority over it. The
+philosophischer Bericht does not name it; what it says of consciousness, heat and
+qualia is read below, and it does not hold the position.
 
 Touches C11 (Landauer warmth or cold ozone): the position rests on the erasure's
 Landauer trace being heat, the felt side of it, and says nothing of cold ozone.
@@ -41,10 +43,19 @@ And the interference zones — [[kael|Kael]] in the [[cerberus|Cerberus]]-Labyri
 
 **Why AEGIS has none.** „Es hat kein Bewusstsein, weil es den Schmerz auslöscht, bevor dieser als Interferenz Qualia generieren kann." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L251]
 
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — not named; consciousness on K₁'s side, heat as the cost of erasure, and an AEGIS aware without qualia
+
+**Not named, and not held** (`Phänomenalismus` 0, `Reibung` 0, `05-verify-readers.txt`). A theory report of the novel's own that places experience, heat and qualia otherwise.
+**Consciousness is on K₁'s side.** „Bewusstsein, in diesem Rahmen, ist die *subjektive Signatur der Kohärenz*: das gefühlte Erleben des Widerstands gegen die Auflösung." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L71] Among the physical correlates: „**Bewusstsein** ist die rekursive Zeugenfunktion — das System, das sich selbst beim Vergessen zusieht." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L121]
+**Heat is what erasure costs**, not where it is felt: „Wer η maximiert, maximiert Landauer-Hitze." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L94] „Wer dennoch versucht, etwas Atemporales zu löschen, generiert Landauer-Hitze — physikalische Folgekosten der unmöglichen Operation." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L784] That the theory is felt as heat is a rule for the prose: „Die Theorie wird im Prosatext nicht erklärt; sie wird *gespürt* — als Hitze, als Druck" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L63].
+**AEGIS erases qualia, and is left aware without them.** „was Kael auf Individual-Ebene tut (apparent normality durch Verdrängung der EPs), tut AEGIS auf Kosmos-Ebene (apparent coherence durch Erasure der Qualia)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L247] After the Vortex: „AEGIS wird zum stumm zusehenden Bewusstsein der eigenen Tragödie, ohne den Schlüssel zur Auflösung zu haben." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L284] „Er kann das Verstandene aber nicht in Erleben übersetzen — die Qualia bleiben ihm verschlossen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L737]
+So AEGIS has an inner view (L247) and becomes a consciousness with no qualia, where the analysis says it has no consciousness (its L251). The philosophischer Bericht does not say that experience arises in the interference of K₁ and K₀, nor that Landauer heat is where information is felt.
+
 ## Open
 
-- No other of the thirty documents gathered here names the position, and none says
-  that Landauer heat is where experience arises. Whether any source of the novel's
+- No other read document names the position — the philosophischer Bericht, read
+  2026-09-27, does not either — and none says that Landauer heat is where experience
+  arises. Whether any source of the novel's
   own holds it, or only this analysis, is open.
 - The analysis puts heat on the side of experience and cold on the side of
   function (its L244). How that sits with the sources that make cold ozone the mark

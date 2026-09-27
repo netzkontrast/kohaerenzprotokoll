@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 20
+sources: 21
 pages: ["aegis"]
 ---
 
@@ -163,3 +163,11 @@ It speaks to this record only through the voice it gives the system in Kap 25: d
 „AEGIS — 3.Person" ^[dual-storyform-hintergruende-md.md:L295], dominant Storyform B, beside „ANP-K1 (Kael, Lex, Alex, Rhys, Selene) — 1.Person" ^[dual-storyform-hintergruende-md.md:L293]. In bridge scenes a tense shift may borrow AEGIS' register for three words: „Präsens kippt für drei Worte ins Plusquamperfekt-AEGIS-Protokoll-Register." ^[dual-storyform-hintergruende-md.md:L321]
 `Innensicht`, `Kap 5`, `Kap 7`, `Kap 8`, `Ich` and `ich` stand 0 times.
 The side of rows 1 and 2, on their date, three weeks before the lock of 2026-05-30 — the master report's routing row, in nearly its words.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+**The first person for all of Storyform B, the third in A, collapsing in the Vortex — and, under the alter table, the third person with no exception; the document does not relate the two.**
+Its Voice-Regel, „### 4.5 Voice-Regel" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L290]: „In Storyform B (Innensicht) spricht und denkt AEGIS in der **1. Person**." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L292] „In Storyform A (Außensicht aus Kaels Perspektive) erscheint AEGIS als operierende Kraft in der **3. Person**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L292] „Im Vortex selbst kollabiert AEGIS' 1st-person-Innensicht in 3rd-person-Algorithm-Melancholy-Beobachtung." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L292] Again at the Vortex: „Auf Voice-Ebene kollabiert AEGIS' 1st-person in 3rd-person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L627] The inside is its MC throughline's: „er trägt seine eigene Throughline, hat eigene Innensicht, leidet als Subjekt seiner ANP-Funktion" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L247]; §11.3 gives both MC bearers „I", Kael in A and AEGIS in B (L684).
+Under the alter table, the other rule: „AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] — the konzept master report's L404, in its words.
+No chapter is named for either: `Kap`, `Hard-B` and `ich` stand 0 times, and its one `Ich` is not AEGIS' (L122; `05-verify-readers.txt`).
+**On no row.** Not the lock's one chapter in Kap 5–8 (rows 3 and 4), three weeks before it: an inner view in the first person wherever Storyform B is told. And on L507 the third person of rows 1 and 2, in the same document. The first rule also stands, in nearly its words, in the strukturierter Outline, which this record does not hold: „Spricht in 1. Person in Storyform B (Innensicht), erscheint in 3. Person in Storyform A (Außensicht aus Kaels Perspektive)." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117]

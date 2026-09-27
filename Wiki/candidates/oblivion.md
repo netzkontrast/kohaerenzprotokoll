@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -141,3 +141,11 @@ In Akt III, Kap 27–34, by the act table (L335): „Spiegel-Alters intensiviere
 Under „Oblivion-Verhalten im Vortex:" ^[dual-storyform-hintergruende-md.md:L372], in the document's own §5: „Wenn AEGIS in der Truth-Rotation kollabiert, übernimmt Oblivion AEGIS' Funktion in Kaels Innensystem — als interne Wachheit, die nicht mehr automatisch löscht, sondern entscheidet." ^[dual-storyform-hintergruende-md.md:L372] „Das ist die Innen-Spiegelung der Truth-Rotation und passt zu Oblivions Akt-III-Arc (Entscheidung)." ^[dual-storyform-hintergruende-md.md:L372] — the [[truth-rotation|Truth-Rotation]] placed in the Vortex, the section's subject (L372).
 Its §7.2 files the same point among the Reset-Doc's Appendix C points, as that document's recommendation and still open: „C.5 Oblivion → AEGIS-Funktion in Kaels System nach Truth-Rotation" ^[dual-storyform-hintergruende-md.md:L428] — „Empfehlung: Oblivion übernimmt als interne Wachheit, die entscheidet statt löscht." ^[dual-storyform-hintergruende-md.md:L428] „Berührt: A-Resolution Kap 37–39." ^[dual-storyform-hintergruende-md.md:L428]
 No line that names Oblivion names warmth, heat or Landauer (C11; `05-verify-readers.txt`).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — AEGIS' echo-pole, erasing on the individual level
+
+A theory report that ranks its sources (L17, L25) — recorded, not applied; it calls the axis „Die kanonische Holon-Spiegelachse:" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L359], its label kept.
+His row among the thirteen, category `Spiegel`: „Oblivion (AEGIS-Echo) | Erason-Operator | → Wahl" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L503] — `AEGIS-Echo` his label (J74), `Erason-Operator` his DKT-Korrelat (J93).
+On the axis (J86): „Vertikale Achse links: AEGIS (System-ANP) ↔ Oblivion (Individual-Spiegel des Erason-Operators)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L670] „Wenn AEGIS auf Kosmos-Ebene löscht, löscht Oblivion auf Individual-Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L670] Opposite Silas: „AEGIS↔Juna ist die ANP↔Witness-Spannung auf Kosmos-Ebene, Oblivion↔Silas dieselbe Spannung auf Individual-Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L383] In both drawings of the axis his label is split over two lines, `(Erason-` and `Echo)` (L375 and L379, L662 and L666) — the master report's `Erason-Echo`, written across a break.
+He tells in the first person, as all thirteen do: „Alle 13 erzählen in der 1. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] What becomes of him after the Vortex it does not say; its open question on the Vortex's aftermath, OQ-A, is AEGIS' (L753).
+No line that names Oblivion names warmth, heat, Landauer or ozone (`05-verify-readers.txt`) (C11).

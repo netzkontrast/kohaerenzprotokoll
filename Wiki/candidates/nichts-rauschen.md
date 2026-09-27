@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -136,3 +136,10 @@ And where it is reached, past Kant: „Der Roman geht weiter: die K₁-Reinform 
 ## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — what AEGIS reads as chaos, inside the DKT-Kernparadoxon
 
 Once, in the paradox it says the two storyforms mirror (its L78), after AEGIS believing itself K1 and being K0: „Das Nichts-Rauschen, das AEGIS als Chaos liest, ist die atemporale Vereinigung aller Mutual Information — Liebe als physikalisches Prinzip.“ ^[dual-storyform-hintergruende-md.md:L82] Chaos without `feindlich`, and love as a physical principle. `Rauschen` stands on no other line (1, `05-verify-readers.txt`).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — a correlate of the DKT, what AEGIS reads Juna's break-in as, and what the reader lives
+
+Among the [[dkt|DKT]]'s further physical correlates: „**Nichts-Rauschen** ist *atemporale MI-Vereinigung* — keine Leere, keine Bedrohung, sondern der Zustand, in dem alle Coheronen gleichzeitig und immer existieren.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L122] „Liebe als physikalisches Prinzip.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L122] The same line ends on what was before an Ich was separated from a Du (L122).
+What AEGIS makes of Juna: „AEGIS interpretiert ihren Einbruch als *Nichts-Rauschen* — pure thermodynamische und informationelle Entropie.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262] The same noise „ist in Wahrheit die atemporale MI-Vereinigung, also Coheron, also Liebe.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262] „Was strukturell unsichtbar ist, ist nicht abwesend, sondern blockiert.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262] AEGIS reads it as entropy; `Chaos` stands 0 times (`05-verify-readers.txt`).
+The reader lives it: „Der Leser *erlebt* die Desorientierung, das Nichts-Rauschen der Erasure-Felder.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L571]
+It does not write `Reinform` or make the Nichts-Rauschen a layer, and does not say Juna was banished into it (`Reinform` 0, `verbannen` 0, `05-verify-readers.txt`). The first beat of its Genesis is „**Unity**: Ein ursprünglicher, ungespaltener Zustand. Bewusstsein ohne Trennung. Atemporale Vereinigung.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L274] — the phrase the readings above give the Nichts-Rauschen, which the document does not use for it.

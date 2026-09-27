@@ -1,0 +1,93 @@
+# 05-verify — kohaerenz-protokoll-philosophischer-bericht-md, 2026-09-27
+# every number or absence the census, note or readings state, recounted with word boundaries
+# ordinals the count reads as sentences (grep -nF, file lines):
+1. Person              grep -nF   lines 292 507 
+3. Person              grep -nF   lines 292 507 
+5. Position            grep -nF   lines 576 
+Genesis 4. Beat        grep -nF   lines 756 
+4. Beat                grep -nF   lines 280 756 
+1st-person             grep -nF   lines 292 627 
+3rd-person             grep -nF   lines 292 627 
+# word counts (grep -cwE = lines holding the word):
+Kap                      grep -cwE    0 lines
+Kap 0                    grep -cwE    0 lines
+Kap 40                   grep -cwE    0 lines
+Ch 35                    grep -cwE    3 lines
+Kapitel 13               grep -cwE    1 lines
+39                       grep -cwE    3 lines
+40                       grep -cwE    1 lines
+41                       grep -cwE    0 lines
+Vortex                   grep -cwE   16 lines
+Vortex 1                 grep -cwE    0 lines
+Vortex 2                 grep -cwE    0 lines
+Beat                     grep -cwE    5 lines
+Beats                    grep -cwE    2 lines
+kalt                     grep -cwE    2 lines
+Kälte                   grep -cwE    0 lines
+kühl                    grep -cwE    0 lines
+Kühle                   grep -cwE    0 lines
+warm                     grep -cwE    0 lines
+Wärme                   grep -cwE    0 lines
+Hitze                    grep -cwE   10 lines
+heiß                    grep -cwE    4 lines
+Ozon                     grep -cwE    3 lines
+Ozon-Geruch              grep -cwE    1 lines
+Knöchel                 grep -cwE    1 lines
+Konstrukt-Stadt          grep -cwE    6 lines
+Kernwelt                 grep -cwE    0 lines
+Kernwelten               grep -cwE    4 lines
+KW1                      grep -cwE    4 lines
+KW4                      grep -cwE    3 lines
+Möglichkeits-Garten     grep -cwE    0 lines
+Garten                   grep -cwE    0 lines
+Guardian                 grep -cwE    1 lines
+Guardians                grep -cwE    2 lines
+Wächterin               grep -cwE    1 lines
+LogOS                    grep -cwE    1 lines
+Kairos                   grep -cwE    1 lines
+Cerberus                 grep -cwE    1 lines
+Sophia                   grep -cwE    1 lines
+RIVE                     grep -cwE    1 lines
+Mnemosyne                grep -cwE    2 lines
+Erasure-Pol              grep -cwE    0 lines
+Lösch-Pol               grep -cwE    1 lines
+Flight                   grep -cwE    0 lines
+Ursprungs-Ich            grep -cwE    0 lines
+Wir                      grep -cwE    2 lines
+Wir-Stimme               grep -cwE    1 lines
+Formel                   grep -cwE    1 lines
+Mira                     grep -cwE    0 lines
+Nexus                    grep -cwE    1 lines
+Überwelt                grep -cwE    1 lines
+Juna                     grep -cwE   26 lines
+Kael                     grep -cwE   22 lines
+AEGIS                    grep -cwE   53 lines
+734                      grep -cwE    1 lines
+Komponente               grep -cwE    0 lines
+Component 734            grep -cwE    1 lines
+Trennungsprotokoll       grep -cwE    0 lines
+Separation Protocol      grep -cwE    1 lines
+Truth-Rotation           grep -cwE    4 lines
+Ouroboros                grep -cwE    2 lines
+Telefon-Stille           grep -cwE    2 lines
+Phone-Silence            grep -cwE    6 lines
+Silas                    grep -cwE    8 lines
+Oblivion                 grep -cwE    5 lines
+Alex                     grep -cwE    2 lines
+Emergenz                 grep -cwE    0 lines
+Entropie                 grep -cwE    8 lines
+Chaitin-Konstante        grep -cwE    2 lines
+Gödel-Gambit            grep -cwE    0 lines
+Witness-Funktion         grep -cwE    0 lines
+Witness-Function         grep -cwE    6 lines
+Mutual Information       grep -cwE    3 lines
+Kohärenz-Kernel         grep -cwE    2 lines
+Kollaps-Kernel           grep -cwE    2 lines
+K1                       grep -cwE    0 lines
+K0                       grep -cwE    0 lines
+Autonomous Entropic Gatekeeper for Integrity Systems grep -cwE    1 lines
+Erasure-Protokoll        grep -cwE    1 lines
+Coheron-Echo             grep -cwE    3 lines
+Landauer-Signatur        grep -cwE    0 lines
+# Erason standing alone (count reports 0 word): lines holding 'Erason' as a word
+119 120 375 503 662 670 

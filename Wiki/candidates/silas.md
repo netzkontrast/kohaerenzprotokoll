@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -144,3 +144,12 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 In Akt III, Kap 27–34, by the act table (L335): „Spiegel-Alters intensivieren." ^[dual-storyform-hintergruende-md.md:L335] Where each mirror-alter scene falls is left for a list the document asks for before Phase 1: „welche Spiegel-Alter-Szene wo" ^[dual-storyform-hintergruende-md.md:L436].
 The Moonshine question is one of the „Reset-Doc Appendix C-Punkte, die die Storyform-Architektur konsequenzieren" ^[dual-storyform-hintergruende-md.md:L423] — the document's restatement of another document, and a recommendation, not a decision: „Wer kann den Link spüren? Empfehlung: Silas zuerst, andere Alter im Verlauf von Akt II" ^[dual-storyform-hintergruende-md.md:L426], „räumlich global aber phänomenal nur an Knotenpunkten (Telefon, Stille, Erinnerungsorte)" ^[dual-storyform-hintergruende-md.md:L426]. „Berührt: A-RS-Operationalisierung." ^[dual-storyform-hintergruende-md.md:L426]
 No line that names Silas names warmth, heat or Landauer (C11; `05-verify-readers.txt`).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — Juna's echo-pole on the Spiegelachse, never in time
+
+A theory report that ranks its sources (L17, L25) — recorded, not applied; it calls the axis „Die kanonische Holon-Spiegelachse:" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L359], its label kept.
+His row among the thirteen, category `Spiegel`: „Silas (Juna-Echo) | Coheron-Echo | → bewusste Resonanz" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L502] (J74).
+„Auf Individual-Ebene des Holons hat Juna einen Echo-Pol: Silas — ein Spiegel-Alter mit dem DKT-Korrelat Coheron-Echo." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L355] „Wenn Juna der atemporale Coheron auf Kosmos-Ebene ist, ist Silas das gedämpfte Echo dieses Coherons innerhalb Kaels Personenstruktur." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L355] „Silas tunnelt nicht durch AEGIS' Mauern — er war nie in der Zeit, die diese Mauern definiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L355]
+On the axis (J86): „Vertikale Achse rechts: Juna ↔ Silas." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L671] „Wenn Juna auf Kosmos-Ebene als Coheron operiert, operiert Silas auf Individual-Ebene als Coheron-Echo." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L671] Opposite Oblivion: „AEGIS↔Juna ist die ANP↔Witness-Spannung auf Kosmos-Ebene, Oblivion↔Silas dieselbe Spannung auf Individual-Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L383] Juna has no copy on that level, „statt dessen wirkt Juna durch Silas (Spiegel-Pol)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L646]
+He tells in the first person, as all thirteen do: „Alle 13 erzählen in der 1. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507]
+No line that names Silas names warmth, heat, Landauer or ozone, and the document has no `warm` or `Wärme` at all (`05-verify-readers.txt`) (C11).

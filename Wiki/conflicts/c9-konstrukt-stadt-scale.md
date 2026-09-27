@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 14
+sources: 15
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -134,4 +134,13 @@ On no row by name. It is the chapter the session log's question is about: its ap
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **KW1 only.**
-„KW1 — Konstrukt-Stadt (Kantsche Phänomene)" ^[kohaerenz-protokoll-philosophischer-bericht-md:L429] explicitly maps Konstrukt-Stadt to KW1.
+„KW1 — Konstrukt-Stadt (Kantsche Phänomene)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L429] explicitly maps Konstrukt-Stadt to KW1.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+The entry above was written by the Jules session (decision 014) before this document had a census; this is the reconciliation's. What it says is borne out: the heading is at L429 and makes the Konstrukt-Stadt KW1.
+**KW1, as decided — with KW2 at the city's edge, and worlds that are act markers, not geography.**
+„KW1 — Konstrukt-Stadt (Kantsche Phänomene)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L429]; the city is [[aegis|AEGIS]]': „ist die KI, die die Konstrukt-Stadt steuert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L247]
+KW2 is „Peripherie der Stadt, wo AEGIS' operationale Geschlossenheit erodiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L435] And of all four: „die Kernwelten sind Akt-Marker, nicht je-ein-Guardian und nicht literale Geographie." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] „Sie strukturieren die Erzählung von außen, nicht die Welt von innen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427]
+The simulation is not the city: „Die Realität der Simulation ist nicht homogen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] — it divides into the four worlds. `Logos-Prime` stands 0 times.
+Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Whether the periphery of L435 belongs to the Konstrukt-Stadt it does not say; its worlds structuring the narration from outside (L427) bear on the Kap-25 session log's question above (`Filterregime statt Ortswechsel`) without answering it. Recorded, not applied; the decision stands.

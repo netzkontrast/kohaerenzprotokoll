@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -45,6 +45,9 @@ to a cleansing and to no bearer, cool air elsewhere, and `warm` only in a regist
 The Dual-Storyform background document, of 2026-05-08, states no rule either: its Landauer
 heat is filtered as heat, ozone and sweat (its L483), and its one cool is AEGIS', set against
 [[kael|Kael]]'s warmth, not Juna's, in a bridge-scene micro-cue (its L318).
+The philosophischer Bericht, of 2026-05-08, states no rule either: Landauer heat and ozone are both
+AEGIS' erasure (its L110), cold and heat are the Kernwelten's prose styles (L431, L435), and none
+of Juna's traces is thermal (L310).
 [[landauer-signatur]] has each reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
@@ -167,4 +170,11 @@ As the session log reports under R-5, cold ozone stays in the sign-off scene and
 
 No rule is stated: `Polarität` and `kalt` stand 0 times, and no line gives Juna warmth (0; all in `05-verify-readers.txt`). One micro-cue for bridge scenes sets warm against cool, with Kael on the warm side: „Sensorik-Shifts mitten im Absatz — Kaels warme Kontemplation kippt für einen Atemzug in AEGIS-Kühle und zurück.“ ^[dual-storyform-hintergruende-md.md:L318] — the cue the Dramatica status report of the day before writes (on the Landauer-Signatur's page). It is kept to those scenes: „Disziplin: Mikrocues nur in Bridge-Szenen, nicht in Default-Szenen einschleichen lassen.“ ^[dual-storyform-hintergruende-md.md:L326]
 Landauer heat is one filter of heat and ozone together: „Sensorischer Filter: Hitze, Ozon, Schweiß.“ ^[dual-storyform-hintergruende-md.md:L483]
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by what it states (J62). C11.
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — no rule — heat and ozone as AEGIS', cold and heat as the worlds' styles, and nothing thermal of Juna's
+
+No rule is stated: `Polarität` 0, `warm` and `Wärme` 0, `kühl` and `Kälte` 0 (`05-verify-readers.txt`). Heat and ozone are AEGIS' erasure: „Das ist der Grund, warum es manchmal nach Ozon riecht.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] „Wenn AEGIS große Mengen an Information löscht, wird die Stadt heiß.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] — see the Landauer-Signatur's page.
+Cold and heat are the [[kern-welten|Kernwelten]]'s prose styles, not signatures, and the document says so of all their classes (L447): KW1 „**Stil**: kalt, steril.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431]; KW2 „**Stil**: heiß, fragmentiert (Übergang).“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L435]; KW3 „**Somatik**: Muskel. **Stil**: heiß, fragmentiert.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439]; KW4 „**Stil**: poetisch (Junas Stil).“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L443] Across the acts: „Akt I weitgehend KW1/P (kalt-steril), Akt II Übergang KW2/parakonsistent (heiß-fragmentiert), Akt III KW3/NP und KW4/generativ (heiß-fragmentiert übergehend in poetisch).“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L447]
+Juna's traces are none of them thermal: „Sie zeigt sich nur durch *Wirkung*: anomale Erasure-Balance, Phantom-Resonanz im Host- oder System-Feld, Phone-Silence als Anker.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L310]
 Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by what it states (J62). C11.

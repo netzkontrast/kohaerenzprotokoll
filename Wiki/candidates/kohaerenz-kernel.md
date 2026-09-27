@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Kernel (K₁)
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 aliases: ["Kohärenz-Kernel"]
 gathered: "2026-09-24"
 ---
@@ -45,3 +45,10 @@ KW1, AEGIS' city, is described from the other side: „Hyper-strukturierte K₁-
 
 `Kohärenz-Kernel` does not stand in it (0, `05-verify-readers.txt`); it writes the kernel as a bare `K1` with a plain digit, and those passages are placed here by J98. AEGIS believes itself it, in the DKT-Kernparadoxon: „AEGIS glaubt K1 (Kohärenz-Wächter) zu sein.“ ^[dual-storyform-hintergruende-md.md:L82]
 It is the thesis of Storyform A — „(K1, Coherence, Mutual Information überlebt Erasure)“ ^[dual-storyform-hintergruende-md.md:L51] — and that storyform's reading on its own: „A allein: K1-Reading (Coherence) — die Lesart der Funktionalen Multiplizität.“ ^[dual-storyform-hintergruende-md.md:L68] Its unit is the Coheron, a „K1-Einheit“ ^[dual-storyform-hintergruende-md.md:L480]. Where it shows: „Strukturelle Risse in der Simulation sind ontologische Schnittstellen, an denen K0 in K1 einbricht.“ ^[dual-storyform-hintergruende-md.md:L307]
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — reversible computation carried by Coherons, and Kael's trauma cycles as the true K₁
+
+The name stands on two lines, L71 and L225, always with the subscript (`05-verify-readers.txt`). Its definition: „**Der Kohärenz-Kernel (K₁)** ist das Prinzip der reversiblen Berechnung und der Informationserhaltung.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L71] „Er operiert durch *Coherons*“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L71]. „K₁ ist die Tendenz des Universums, Struktur gegen den Zeitpfeil aufrechtzuerhalten.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L71] Consciousness is its felt side: „Bewusstsein, in diesem Rahmen, ist die *subjektive Signatur der Kohärenz*“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L71].
+AEGIS only believes itself K₁: „AEGIS glaubt, K₁ zu sein.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L130] — „Selbstdeklaration als K₁, faktisch K₀“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L233]. The Truth-Rotation, which the document calls canonised (L221), gives it to [[kael|Kael]]: „Kaels Trauma-Zyklen sind der wahre Kohärenz-Kernel (K₁).“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L225]
+Where it shows: the phone call's silence, „es ist *MI ohne Daten*, also K₁-Substrat in seiner reinsten Form.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L347]; the reader's effort, which „die K₁-Reparatur gegen AEGIS' K₀-Erasure speist“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L572]; and the end, AEGIS as „einem lokalen Puffer, der die fragile K₁-Kohärenzzone inmitten der entropischen K₀-Umwelt stabilisiert.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741]
+KW1, AEGIS' city, is „Domäne der K₁-Dominanz.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431] The document does not relate that line to AEGIS being K₀ — as the worldbuilding concept, above, does not relate its own.
