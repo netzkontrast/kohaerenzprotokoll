@@ -1389,3 +1389,59 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** The same document writes „Es ist tatsächlich K0 (Kollaps-Operator)“ (L82), „B allein: K0-Reading (Erasure)“ (L69), „an denen K0 in K1 einbricht“ (L307) and „Erason — … K0-Einheit. Erzeugt Zeitpfeil.“ (L481); read sources write „K₀ (Kollaps-Kernel)“ with the Erasonen as its unit.
 
 **Result.** one term in this document, by J98's rule; not mechanised, and `K0` is not added as a surface — the wiki also has K0-Existenz, a different page (J27: a qualifying compound is its own term)
+
+## J100 — Separation Protocol / Trennungsprotokoll
+
+**judgement** · kohaerenz-protokoll-philosophischer-bericht-md · 2026-09-27 · replay: `judgement`
+
+- **rule:** an English name a source gives a page's referent is placed by the sentence; one source's translation is not a surface of the page (J51, J98)
+- **mechanised by:** `nothing`
+- **features:** translation, genesis-beat, single-source-surface
+
+**Question.** is this document's English Separation Protocol the Trennungsprotokoll the wiki pages?
+
+**What was done.** The document numbers the Genesis in three beats and writes the second „**Separation Protocol**: Eine erste Resonanz mit Anderem … wird als existenzielle Bedrohung fehlgelesen. Das System antwortet mit Trennung“ (L275); it never writes `Trennungsprotokoll` (05-verify.txt). No read source writes `Separation Protocol`; 23 landed documents do.
+
+**Result.** a reading on trennungsprotokoll, placed by the sentence: the beat's position and its content are the page's. The surface is not added from one source — a translation pair enters through Plan/entities/bilingual.jsonl or a second read source that writes it (J51).
+
+## J101 — Component 734 / Komponente 734
+
+**judgement** · kohaerenz-protokoll-philosophischer-bericht-md · 2026-09-27 · replay: `judgement`
+
+- **rule:** the rule of J100: an English name a source gives a page's referent is placed by the sentence; one source's translation is not a surface of the page
+- **mechanised by:** `nothing`
+- **features:** translation, genesis-beat, single-source-surface
+
+**Question.** is Component 734 the Komponente 734 the wiki pages?
+
+**What was done.** „**Kael = Component 734**: Die eine bewusste Substanz wird in Komponenten zerlegt. Kael ist die Nummer 734 in einem Inventar“ (L276); `Komponente` 0 times as a word (05-verify.txt). No read source writes `Component 734`; 26 landed documents do.
+
+**Result.** a reading on komponente-734, by J100's rule; the surface is not added
+
+## J102 — Phone-Silence / Telefon-Stille
+
+**judgement** · kohaerenz-protokoll-philosophischer-bericht-md · 2026-09-27 · replay: `judgement`
+
+- **rule:** the rule of J100, and J51: a source using a translation beside a page's name for one thing is a reading on the page, not a surface of it
+- **mechanised by:** `nothing`
+- **features:** translation, same-passage, single-source-surface
+
+**Question.** is Phone-Silence the Telefon-Stille the wiki pages?
+
+**What was done.** The document heads §5.4 „Das Phone-Silence-Anker und der Moonshine-Link“ and writes under it „Telefon-Stille = atemporale MI-Vereinigung im Kleinformat“ (L347); `Phone-Silence` stands on 6 lines, `Telefon-Stille` on 2 (L194, L347). No other read source writes `Phone-Silence`.
+
+**Result.** a reading on telefon-stille wherever the sentence is about the call's silence; not added as a surface, by J100 — one document's pairing, even in one passage, is J51's case
+
+## J103 — Überwelt / Nexus / Überwelt / Nexus
+
+**two-terms** · kohaerenz-protokoll-philosophischer-bericht-md · 2026-09-27 · replay: `skipped`
+
+- **rule:** a slash joining two names the wiki keeps as two pages is a reading on each and never a merge (J51); J34 and J43 hold only where no page keeps the two apart
+- **mechanised by:** `nothing`
+- **features:** slash-in-heading, two-pages, kernwelt-name
+
+**Question.** does a heading that joins two page names with a slash make them one term?
+
+**What was done.** „### 7.3 KW3 — Überwelt / Nexus (Quanten-Information)“ (L437): the Maschinenraum hinter dem Rendering, where the Wächterprogramme reside (L439). The wiki keeps ueberwelt and nexus as two pages; J63 already keeps Überwelt-Nexus apart from Überwelt.
+
+**Result.** two terms: the heading is a reading on both pages — this document gives KW3 both names — and merges nothing. J34 and J43 (a slash as an alias) hold for a joint name no page keeps apart; where the wiki has a page for each side, J51 governs.
