@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 23
+sources: 24
 pages: ["juna"]
 ---
 
@@ -230,3 +230,10 @@ The entry above was written by the Jules session (decision 014) before this docu
 Open, in its own words: „Junas POV bleibt offen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] and, as OQ-C, „Welche konkreten Anker neben anomaler Erasure-Balance, Phantom-Resonanz und Phone-Silence?" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L755]
 `Kap` stands 0 times; its only chapters are the Vortex's Ch 35–36 and Kapitel 13 as the end of the Multiplizitäts-Schleier, neither of them hers, and it has no revelation timing (`05-verify-readers.txt`).
 Neither Kap 33 nor Kap 38: effect and open anchors, on the date of the character bible (row 1), without the master report's Akt-II revelation. The conflict stays open.
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**No appearance placed — non-physical by a constraint it calls absolute, and a physical encounter rejected as a conflict with its canon.**
+„Juna must be described exclusively as an effect or sensory resonance (light, frequency, warmth)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22] „She possesses no physical body." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22] Its backlog: „Quarry-01: Physical Juna Encounter." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L149] „Reasoning: Violates Kanon 2026-05-08 (Juna must remain non-physical)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L149] Both of her seeds carry „Non-physical effect only." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L59] (and L62) — golden warmth and light (L60), the scent of moist leaves in place of AEGIS' ozone (L63) — and neither is placed in a chapter. Its canon claim, „(Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11] in its title, is recorded, not applied.
+`Kap` stands 0 times, `Ch33` and `Ch38` 0; its one chapter, „Ch35-36" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L118], is the Vortex, whose five points (L124–L128) do not name her (`05-verify.txt`, `05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: on no row, an effect only, on the date of the character bible (row 1). The conflict stays open.

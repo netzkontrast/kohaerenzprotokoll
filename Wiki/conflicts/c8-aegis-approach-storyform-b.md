@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 11
+sources: 12
 pages: ["aegis"]
 ---
 
@@ -116,3 +116,10 @@ What stood before it: „Die Vor-Audit-Spezifikation hatte beide Storyforms inve
 The reason is what AEGIS does: „AEGIS' Tragödie ist umgekehrt: 12 Protokolle, Erasure-Sweeps, Guardian-Deployments — alles *Tun*." ^[dual-storyform-hintergruende-md.md:L210] „Die alte Polung war nicht nur eine Legality-Verletzung, sie war auch dramaturgisch falsch herum." ^[dual-storyform-hintergruende-md.md:L214]
 It ranks itself below the status report it accompanies — „Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots" ^[dual-storyform-hintergruende-md.md:L29] — and says it gives reasons, not values; recorded, not applied.
 The Dramatica lock-in's side, Do-er, on the date the character bible gives Be-er (row 1) — the value this document labels „Vorher" and ❌. An explanation, like the status report's, not a decision: the author decides (decision 006).
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**Do-er for AEGIS in B, Be-er for Kael in A — the lock-in's values, with no slot, no before and no after named.**
+„AEGIS is the "Do-er," defined by logic and autopoiesis." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42], under „MC-B: AEGIS / Progress (Storyform B)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L40]; „Kael functions as a "Be-er," focusing on internal transformation to resolve systemic conflict." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L28], under „MC-A: Kael / Memory (Storyform A)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L26].
+`Approach`, `Resolve`, `Steadfast`, `Lock-In` and `2026-05-07` stand 0 times; its one `correction` is AEGIS' „high-entropy system correction" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L32], not the Approach's (`05-verify-readers.txt`). Its canon claim, „(Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11] in its title, is recorded, not applied.
+The Dramatica lock-in's side, Do-er (row 2), on the date the character bible gives Be-er (row 1) — without naming the lock-in or the value it replaced. The author decides (decision 006).

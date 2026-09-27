@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
 gathered: "2026-09-24"
 ---
 
@@ -149,3 +149,8 @@ His row among the thirteen, category `Spiegel`: „Oblivion (AEGIS-Echo) | Eraso
 On the axis (J86): „Vertikale Achse links: AEGIS (System-ANP) ↔ Oblivion (Individual-Spiegel des Erason-Operators)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L670] „Wenn AEGIS auf Kosmos-Ebene löscht, löscht Oblivion auf Individual-Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L670] Opposite Silas: „AEGIS↔Juna ist die ANP↔Witness-Spannung auf Kosmos-Ebene, Oblivion↔Silas dieselbe Spannung auf Individual-Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L383] In both drawings of the axis his label is split over two lines, `(Erason-` and `Echo)` (L375 and L379, L662 and L666) — the master report's `Erason-Echo`, written across a break.
 He tells in the first person, as all thirteen do: „Alle 13 erzählen in der 1. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] What becomes of him after the Vortex it does not say; its open question on the Vortex's aftermath, OQ-A, is AEGIS' (L753).
 No line that names Oblivion names warmth, heat, Landauer or ozone (`05-verify-readers.txt`) (C11).
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — a somatic seed: the Absolute Cold, numb where trauma was
+
+In the section „OPEN-Q: Post-Vortex & Missing Somatics" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L130] — one of the five whose somatics it calls missing — a seed, a proposal: „Seed-23 Oblivion: The Absolute Cold (Wärmetod)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L142]: „Numb/missing body parts, representing the "Big Freeze" (Wärmetod) where trauma used to reside." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L143] It is the one somatic seed its index lists, as Storyform A's and canon: „Seed-23,OPEN-Q,A,Kanon,Existenzforschung Tab 1" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L169].
+The same `Wärmetod` is, in AEGIS' Seed-05, the end its progress counts down to (L47–L49); the document does not relate Oblivion to AEGIS (`AEGIS-Echo` 0, `Erason` 0; `05-verify.txt`, `05-verify-readers.txt`). Cold stands only here: `cold` 0, `Cold` once, his seed's title (C11).

@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
 gathered: "2026-09-24"
 ---
 
@@ -153,3 +153,8 @@ His row among the thirteen, category `Spiegel`: „Silas (Juna-Echo) | Coheron-E
 On the axis (J86): „Vertikale Achse rechts: Juna ↔ Silas." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L671] „Wenn Juna auf Kosmos-Ebene als Coheron operiert, operiert Silas auf Individual-Ebene als Coheron-Echo." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L671] Opposite Oblivion: „AEGIS↔Juna ist die ANP↔Witness-Spannung auf Kosmos-Ebene, Oblivion↔Silas dieselbe Spannung auf Individual-Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L383] Juna has no copy on that level, „statt dessen wirkt Juna durch Silas (Spiegel-Pol)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L646]
 He tells in the first person, as all thirteen do: „Alle 13 erzählen in der 1. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507]
 No line that names Silas names warmth, heat, Landauer or ozone, and the document has no `warm` or `Wärme` at all (`05-verify-readers.txt`) (C11).
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — a somatic seed: the Gamma hum in the bones, no warmth
+
+In the section „OPEN-Q: Post-Vortex & Missing Somatics" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L130] — one of the five whose somatics it calls missing — a seed, a proposal: „Seed-22 Silas: The Gamma Hum" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L140]: „A vibration in the bones at the Gamma-Frequenz" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L141], „the signature of integrated consciousness." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L141] The same frequency is the Vortex's second point, Algorithmic Melancholy — „A low-frequency vibration" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L125] at „Gamma-Frequenz 40Hz" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L125]; the document does not relate the two.
+Nothing else in the document names Silas (`grep -cw Silas`: 1); his line names no warmth, heat or ozone, and he is not called Juna's echo (`Juna-Echo` 0; `05-verify-readers.txt`) (C11).
