@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-25"
 ---
 
@@ -85,6 +85,13 @@ The name is for the turn the inversion causes: „Diese Inversion ist die mechan
 At the Vortex: „Hier schließt sich die Truth-Rotation: AEGIS = K₀ wird sichtbar, Kael = K₁ wird sichtbar." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L801] Beat 5: „Truth-Rotation komplett." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821]
 In these passages its sentences are the konsolidiertes Konzept's (its L138, L1321, L1336), the document of the same date.
 
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — the turn at the Vortex from B's reading to A's, one pass through the Klein symmetry
+
+Here the name is for the turn at the Vortex, from one storyform's reading to the other's: „Dort findet eine Truth-Rotation statt: B kollabiert, A bleibt.“ ^[dual-storyform-hintergruende-md.md:L56] „Die Phänomenologie von B (der Schmerz, die Erasure, die Trennung) bleibt erinnerbar, aber sie ist nicht mehr operativ.“ ^[dual-storyform-hintergruende-md.md:L56] Its glossary: „**Truth-Rotation** — der Vortex-Mechanismus, in dem die operative Wahrheit von B-Lesart zu A-Lesart kippt. Klein-c-Inversion einmal durchlaufen.“ ^[dual-storyform-hintergruende-md.md:L488]
+Its ground is the Klein symmetry between the storyforms: „Das ist der mathematische Boden der Truth-Rotation: Sie ist keine Drehung von A zu B (was eine Hierarchie etablieren würde), sondern eine Achsenflip, der die Klein-Symmetrie einmal durchläuft.“ ^[dual-storyform-hintergruende-md.md:L126] — a mapping its §9 calls a verification tool of the architecture, with no function in the novel (its L471). Its preparation is the IC asymmetry, Kael MC in A and IC in B: „Das ist keine Stilfrage, sondern die mechanische Vorbereitung der Truth-Rotation auf der Storyform-Ebene.“ ^[dual-storyform-hintergruende-md.md:L154]
+It completes in the Vortex's fifth beat, `Rotation` (J90): „B's operative Closure zerbricht, A bleibt allein“ ^[dual-storyform-hintergruende-md.md:L360]. And it has an inner mirror, [[oblivion|Oblivion]] taking AEGIS' function in Kael's system: „Das ist die Innen-Spiegelung der Truth-Rotation und passt zu Oblivions Akt-III-Arc (Entscheidung).“ ^[dual-storyform-hintergruende-md.md:L372] — stated in §5, and listed in §7 among the Reset-Doc's recommendations (its L428).
+The inversion under it goes by another name, the „DKT-Kernparadoxon“ ^[dual-storyform-hintergruende-md.md:L78]: „*AEGIS glaubt K1 (Kohärenz-Wächter) zu sein. Es ist tatsächlich K0 (Kollaps-Operator).“ ^[dual-storyform-hintergruende-md.md:L82] „Storyform A ist die Lesart, in der das Paradoxon sichtbar wird.“ ^[dual-storyform-hintergruende-md.md:L86] It does not write `große Inversion`, and does not write Kael as K1 (0 and 0, `05-verify-readers.txt`).
+
 ## Where the sources differ
 
 **What the name names.** The master report heads its section on the inversion
@@ -97,10 +104,16 @@ separate entries (its L82, L85). The Dramatica lock-in has the storyforms'
 Klein-c-Inversion as its mechanical ground (its L71). The worldbuilding concept,
 of the konsolidiertes Konzept's date, stands with it in its words: `große Inversion`
 heads the inversion, and the inversion is the source of the turn (its L65, L86, L801).
+The Dual-Storyform background document, of the same date, names by it the turn at the
+Vortex from B's reading to A's (its L56, L488), grounds it in the Klein symmetry as the
+Dramatica lock-in does (L126), and calls the inversion the DKT-Kernparadoxon (L78, L82).
 
-**What holds, they agree on**: AEGIS = K₀, [[kael|Kael]] = K₁, in every reading. And the
-three that say so agree the phenomenology of the rifts stays and only the reading
-turns; the worldbuilding concept is a fourth (its L86). So the difference is in what the name points at, the fact or the moment. It
+**What holds, they agree on**: AEGIS = K₀ in every reading, and [[kael|Kael]] = K₁ in every
+reading but the Dual-Storyform background document's, which writes AEGIS as K0 (its L82)
+and never Kael as K1. And the three that say so agree the phenomenology of the rifts stays
+and only the reading turns; the worldbuilding concept is a fourth (its L86). The
+background document says it of B's phenomenology — pain, erasure, separation — which
+stays rememberable and is no longer operative (its L56). So the difference is in what the name points at, the fact or the moment. It
 is recorded here and not as a conflict record.
 
 ## Open
