@@ -41,12 +41,12 @@ sources give the Dual-Kernel-Theorie; recorded on `dkt`, merging nothing.
 Written by three Claude readers from one brief
 (`Plan/runs/systems-narrative-analysis-the-coherence-protocol-kanon-2026/readings-brief.md`); each group's files quote-checked and committed by the session.
 
-- **The storyforms.** Kael the „Be-er" of A, AEGIS the „Do-er" of B (C8); AEGIS a „Flawed God"
+- **The storyforms.** Kael the „Be-er" of A, AEGIS the „Do-er" of B (C8); AEGIS a „Flawed God" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L111]
   that terminates at the Vortex.
 - **Juna.** Never physical, „an effect or sensory resonance (light, frequency, warmth)"
   ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22]; no appearance placed (C7).
 - **Heat.** Warmth Juna's, ozone AEGIS', heat spikes and shimmer the system's, and one cold —
-  Oblivion's „Absolute Cold (Wärmetod)" (C11).
+  Oblivion's „Absolute Cold (Wärmetod)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L142] (C11).
 - **Worlds and Guardians.** KW1-4 as labs, KW2 the Echowald; Guardians „act as antibodies"
   ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L82]; Mnemosyne and LogOS as interfaces, never counted as Guardians (C4, C6, Q1, Q5).
 - **The Vortex.** One, in Ch35-36, five points in an order of its own — the heat spike first,
@@ -65,7 +65,7 @@ phrase), `Simulation` L76 (a heading, J39).
 
 ## What the readers noticed and no record holds
 
-„Driver-Pivot" where the Dual-Storyform background document's correction has none; „AEGIS
+„Driver-Pivot" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L120] where the Dual-Storyform background document's correction has none; „AEGIS
 terminates" against Algorithmic Melancholy as a lasting state; deletion that „cools" the system
 where every read source has erasure make heat; LogOS still in use on a date three sources call it
 absorbed; Functional Multiplicity chosen in the Vortex. Retrieval: PageRank recall@8 0.644 → 0.654,

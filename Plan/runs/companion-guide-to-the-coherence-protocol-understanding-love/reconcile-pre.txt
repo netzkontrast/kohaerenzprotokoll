@@ -1,0 +1,125 @@
+# reconcile-pre — companion-guide-to-the-coherence-protocol-understanding-love
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  1 surface groups folded to one term first
+  100 candidates, 104 decisions — **72 by lookup, 32 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (21) — page exists, this document is not on it yet — a reading
+  Coheron                              coheron
+  DKT                                  dkt
+  AEGIS                                aegis
+  Guardians                            guardians
+  Mnemosyne                            mnemosyne
+  Kael                                 kael
+  TSDP                                 tsdp
+  Lex                                  lex
+  Alex                                 alex
+  Rhys                                 rhys
+  Selene                               selene
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  Silas                                silas
+  Oblivion                             oblivion
+  Juna                                 juna
+  Moonshine Link                       moonshine-link
+
+## new_term (51) — no page, no near match — a new page
+  Coherence Protocol                   
+  21°C                                 
+  Nothing-Noise                        
+  mutual information                   
+  Dual-Kernel Theory                   
+  K1                                   
+  K0                                   
+  Arrow of Time                        
+  The Silence                          
+  The Disease                          
+  Landauer Principle                   
+  Ozon                                 
+  Erasure Sweeps                       
+  K0-Pressure                          
+  Bruxismus                            
+  bleeding knuckles                    
+  muscle armor                         
+  Tragic God of Entropy                
+  unschuldig im Bösen                  
+  Great Inversion                      
+  Tautological Self-Definition         
+  Memory-Keeper                        
+  Tertiary Structural Dissociation     
+  DKT Correlate                        
+  Somatic Signature                    
+  Dragon Fight                         
+  ANP/EP-Phobia                        
+  ANPs                                 
+  EPs                                  
+  Apparently Normal Parts              
+  Emotional Parts                      
+  Structural Position                  
+  Witness Function                     
+  Quantum Entanglement Witness         
+  Zero-Knowledge Verifier              
+  Husserlian Spectator                 
+  Erasure Fields                       
+  Monster Group                        
+  Leech Lattice                        
+  Phone-Silence                        
+  K1-substrate                         
+  Chapters 35-36                       
+  Truth Rotates                        
+  Algorithmic Melancholy               
+  Convergence                          
+  The Pivot                            
+  Dialetheic Choice                    
+  Dialetheia                           
+  Heat Spike                           
+  Functional Multiplicity              
+  Wir                                  
+
+## needs_judgement (32) — NEAR a known surface — one term or two?
+  Coheron  /  Love is Coheron                  near: each other
+  Coheron  /  Coherons                         near: each other
+  Coheron  /  Coheron-Echo                     near: each other
+  atemporal  /  Atemporal Witness              near: each other
+  Coherence Kernel  /  Coherence Kernel (K1)   near: each other
+  Collapse Kernel  /  Collapse Kernel (K0)     near: each other
+  Somatic Filter  /  somatic filters           near: each other
+  Thermal Balance  /  Thermal Balance (21°C)   near: each other
+  Autonomous Entropic Gatekeeper for Integrity Systems  /  System near: each other
+  Mnemosyne  /  Mnemosyne-Archipel             near: each other
+  Erasure-Pol  /  The Erasure-Pol              near: each other
+  System Kael  /  Kael                         near: each other
+  System Kael  /  System                       near: each other
+  Kael  /  Kael (Host)                         near: each other
+  The Bridge to Juna  /  Juna                  near: each other
+  Love is Coheron                              near: coheron→coheron
+  atemporal                                    near: atemporalitaet→atemporalitaet, atemporalitat→atemporalitaet
+  Coherons                                     near: coheron→coheron
+  Erasonen                                     near: erason→erason
+  Autonomous Entropic Gatekeeper for Integrity Systems near: entropicgatekeeper→aegis
+  Genesis Crisis                               near: genesis→genesis
+  System Kael                                  near: kael→kael
+  System                                       near: groemauersystemgrenze→grosse-mauer, groersystemmonitor→system-monitor, groesystemmonitor→system-monitor, systemgrenze→grosse-mauer, systemmonitor→system-monitor, wachterdersystemischenstabilitat→aegis
+  13 Alters                                    near: alters→alters
+  Kael (Host)                                  near: kael→kael
+  Coheron-Echo                                 near: coheron→coheron
+  Erason-Operator                              near: erason→erason
+  The Bridge to Juna                           near: juna→juna
+  Vortex-Inversion                             near: vortex→vortex
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  Rotation                                     near: truthrotation→truth-rotation
+  Ouroboros                                    near: ouroborosstruktur→ouroboros-struktur
+
+## in_document_not_in_census (3) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Alters                               alters                       L56
+  Genesis                              genesis                      L43
+  Vortex                               vortex                       L98
+

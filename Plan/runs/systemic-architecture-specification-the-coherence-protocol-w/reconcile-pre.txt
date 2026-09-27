@@ -1,0 +1,190 @@
+# reconcile-pre — systemic-architecture-specification-the-coherence-protocol-w
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  1 surface groups folded to one term first
+  158 candidates, 171 decisions — **125 by lookup, 46 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (23) — page exists, this document is not on it yet — a reading
+  DKT                                  dkt
+  Risse                                risse
+  Coheron                              coheron
+  AEGIS                                aegis
+  Juna                                 juna
+  Kael                                 kael
+  Mnemosyne                            mnemosyne
+  Gödel-Gambit                         goedel-gambit
+  Moonshine-Link                       moonshine-link
+  TSDP                                 tsdp
+  Lex                                  lex
+  Alex                                 alex
+  Rhys                                 rhys
+  Selene                               selene
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  Silas                                silas
+  Oblivion                             oblivion
+  Vortex                               vortex
+
+## new_term (102) — no page, no near match — a new page
+  Coherence Protocol                   
+  World Bible                          
+  Dual-Kernel Theory                   
+  Bill Giannakopoulos                  
+  Page-Wootters / Aharonov-Lebowitz    
+  PAL                                  
+  Time Arrow                           
+  Coherence Kernel                     
+  Collapse Kernel                      
+  K1                                   
+  K0                                   
+  Persistence Equation                 
+  Landauer Principle                   
+  Landauer heat                        
+  ozone                                
+  Great Inversion                      
+  Entropic Architecture                
+  nothingness-noise                    
+  Tragic God                           
+  Unity                                
+  Separation Protocol                  
+  Component 734                        
+  Memory Keeper                        
+  Erasure-Pol                          
+  Algorithm.Melancholy                 
+  paraconsistent state                 
+  Dialetheism                          
+  Maturana                             
+  Luhmann                              
+  autopoietic                          
+  Structural Position                  
+  Double-IC                            
+  Impact Character                     
+  External Framing                     
+  Internal Framing                     
+  Witness-Function                     
+  Three-Layer Model                    
+  Quantum-Entanglement Witness         
+  Zero-Knowledge Verifier              
+  Monstrous Moonshine Mechanism        
+  Vertex-Operator Algebra              
+  VOA                                  
+  Leech Lattice                        
+  twisted modules                      
+  Deus ex Machina                      
+  Phone-Silence                        
+  K1-substrate                         
+  Amnesie-Terror                       
+  Double-Trauma                        
+  ANP                                  
+  EP                                   
+  ISH                                  
+  DKT-Correlate                        
+  Somatic Filter                       
+  Arc Goal                             
+  Hubble Volume                        
+  Bauchreaktionen                      
+  ANP/EP-Phobia Mechanism              
+  Functional Multiplicity              
+  Final Fusion                         
+  Strange Attractor                    
+  Wir                                  
+  Core Worlds                          
+  KW1-KW4                              
+  Reality Layers                       
+  Computational Classes                
+  Stil-Anweisungen                     
+  KW1                                  
+  Construct-City                       
+  21°C                                 
+  KW2                                  
+  Resonance Landscape                  
+  KW3                                  
+  Border Fortress                      
+  KW4                                  
+  Garden of Possibilities              
+  Wir-Stimme                           
+  Kinetic                              
+  Spatial                              
+  Gravitational                        
+  Sensory                              
+  Chapters 35–36                       
+  Driver-Pivot                         
+  Storyform A                          
+  Storyform B                          
+  Action-Driver                        
+  Decision-Driver                      
+  Convergence                          
+  Dialetheic Choice                    
+  The Silence                          
+  Living Dialetheia                    
+  Heat Spike                           
+  Dual Clocks                          
+  Optionlock                           
+  Timelock                             
+  Chapter 39                           
+  Chapter 1                            
+  Reader-as-Substrate                  
+  Participatory Universe               
+  K1-Repair Energy                     
+  Iser                                 
+  Wheeler                              
+
+## needs_judgement (46) — NEAR a known surface — one term or two?
+  Coherons  /  Coherons (K1)                   near: each other
+  Coherons  /  Coheron                         near: each other
+  Coherons (K1)  /  Coheron                    near: each other
+  Erasons  /  Erasons (K0)                     near: each other
+  Liebe  /  Liebe ist Coheron                  near: each other
+  Mutual Information  /  Mutual Information without Data near: each other
+  Liebe ist Coheron  /  Coheron                near: each other
+  Coheron  /  Coheron Echo                     near: each other
+  AEGIS  /  AEGIS-Log Protocol                 near: each other
+  Genesis-Crisis  /  Genesis-Crisis (3-Beat Sequence) near: each other
+  Juna  /  JUNA\_VECTOR                        near: each other
+  Kael  /  SYSTEM\_KAEL                        near: each other
+  Mnemosyne  /  Mnemosyne-Archipel             near: each other
+  Mnemosyne  /  Mnemosyne-Archipelago          near: each other
+  Mnemosyne-Archipel  /  Mnemosyne-Archipelago near: each other
+  Husserlian Disinterested Spectator  /  Husserl near: each other
+  Cologne  /  External Level (Cologne 2026)    near: each other
+  Cologne  /  Cologne 2026                     near: each other
+  External Level  /  External Level (Cologne 2026) near: each other
+  External Level (Cologne 2026)  /  Cologne 2026 near: each other
+  Vortex  /  Vortex-Inversion                  near: each other
+  Vortex  /  5-Beat Vortex Sequence            near: each other
+  Coherons                                     near: coheron→coheron
+  Coherons (K1)                                near: coheron→coheron
+  Erasons                                      near: erason→erason
+  Erasons (K0)                                 near: erason→erason
+  Liebe ist Coheron                            near: coheron→coheron
+  Autonomous Entropic Gatekeeper for Integrity Systems near: entropicgatekeeper→aegis
+  Genesis-Crisis                               near: genesis→genesis
+  Genesis-Crisis (3-Beat Sequence)             near: genesis→genesis
+  Guardian Sub-Systems                         near: guardians→guardians
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  AEGIS-Log Protocol                           near: aegis→aegis
+  SYSTEM\_KAEL                                 near: kael→kael
+  JUNA\_VECTOR                                 near: juna→juna
+  Coheron Echo                                 near: coheron→coheron
+  Erason Operator                              near: erason→erason
+  Logos-Prime                                  near: logos→logos
+  Mnemosyne-Archipelago                        near: mnemosyne→mnemosyne
+  Cerberus-Labyrinth                           near: cerberus→cerberus
+  Kairos-Potentialis                           near: kairos→kairos
+  Temporal                                     near: atemporalitaet→atemporalitaet, atemporalitat→atemporalitaet
+  Vortex-Inversion                             near: vortex→vortex
+  5-Beat Vortex Sequence                       near: vortex→vortex
+  Rotation                                     near: truthrotation→truth-rotation
+  Ouroboros                                    near: ouroborosstruktur→ouroboros-struktur
+
+## in_document_not_in_census (1) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Erason                               erason                       L51
+

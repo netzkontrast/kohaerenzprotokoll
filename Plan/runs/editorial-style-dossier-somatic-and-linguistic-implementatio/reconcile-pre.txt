@@ -1,0 +1,151 @@
+# reconcile-pre — editorial-style-dossier-somatic-and-linguistic-implementatio
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+
+  117 candidates, 132 decisions — **90 by lookup, 42 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (24) — page exists, this document is not on it yet — a reading
+  DKT                                  dkt
+  AEGIS                                aegis
+  Kohärenz-Kernel                      kohaerenz-kernel
+  Kohärenz-Kernel (K1)                 kohaerenz-kernel
+  Kollaps-Kernel                       kollaps-kernel
+  Kollaps-Kernel (K0)                  kollaps-kernel
+  Truth-Rotation                       truth-rotation
+  Lex                                  lex
+  Rhys                                 rhys
+  Nyx                                  nyx
+  Alex                                 alex
+  Selene                               selene
+  Kiko                                 kiko
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  Silas                                silas
+  Oblivion                             oblivion
+  Juna                                 juna
+  TSDP                                 tsdp
+  Moonshine-Link                       moonshine-link
+  Kael                                 kael
+  Algorithmische Melancholie           algorithmische-melancholie
+
+## new_term (66) — no page, no near match — a new page
+  Dual-Storyform                       
+  Dual-Kernel Theory                   
+  Storyform A                          
+  Heuristics of Integration            
+  Storyform B                          
+  Phoenix Collapse                     
+  5D interference                      
+  K1-Substrate                         
+  amnesic terror                       
+  somatic filter                       
+  Thermodynamics of the Body           
+  Landauer Principle                   
+  Erasure                              
+  Apparently Normal Parts              
+  ANPs                                 
+  Landauer Spike                       
+  ozone                                
+  bleeding knuckles                    
+  truth-meter                          
+  DKT-Correlate                        
+  Primary Somatic Signature            
+  Hubble Volume                        
+  Universal Reboot                     
+  Lex (Rationalist)                    
+  Nyx (Fight)                          
+  Lia (Ambivalent)                     
+  Dragon Fight                         
+  KW1–KW4                              
+  Paraconsistent                       
+  KW2                                  
+  NP-Hard                              
+  EP-Protectors                        
+  staccato parataxis                   
+  Generative                           
+  KW4                                  
+  Wir-Stimme                           
+  We-Voice                             
+  Syntax Cheat Sheet                   
+  Linguistic Mandate                   
+  Tertiäre Strukturelle Dissoziation   
+  Emotional Parts                      
+  EPs                                  
+  Vertical Symmetry Bridge             
+  Individual Holon                     
+  Cosmic Holon                         
+  Automaton                            
+  Functional Multiplicity              
+  Strange Attractor                    
+  Multiplicity Veil                    
+  The Bleeding                         
+  Cache-Coherence                      
+  The Chorale                          
+  MI-Substrate                         
+  Mutual Information                   
+  The Witness                          
+  Zero-Knowledge-Verifier              
+  Phantom-Resonances                   
+  Phone-Silence                        
+  Tragic God                           
+  PARADOX\_INDEX                       
+  MASSNAHME                            
+  Chiang-Egan                          
+  Somatic Priority                     
+  The Silence                          
+  Deus Ex Machina                      
+  Dialetheia                           
+
+## needs_judgement (42) — NEAR a known surface — one term or two?
+  AEGIS  /  AEGIS-Log-Format                   near: each other
+  AEGIS  /  AEGIS-Log-Template                 near: each other
+  Kohärenz-Kernel  /  Kohärenz-Kernel (K1)     near: each other
+  Kollaps-Kernel  /  Kollaps-Kernel (K0)       near: each other
+  Kael (Host)  /  Kael                         near: each other
+  Rhys (Caregiver)  /  Rhys                    near: each other
+  Alex (Protector)  /  Alex                    near: each other
+  Selene (ISH)  /  Selene                      near: each other
+  Kiko (Freeze)  /  Kiko                       near: each other
+  Isabelle (Sexualized)  /  Isabelle           near: each other
+  Moros (Collapse)  /  Moros                   near: each other
+  Argus (Meta-Kog)  /  Argus                   near: each other
+  Silas (Spiegel)  /  Silas                    near: each other
+  Oblivion (Spiegel)  /  Oblivion              near: each other
+  Juna  /  JUNA\_VEKTOR                        near: each other
+  Computational-Class-Progression  /  Class P  near: each other
+  hypotactic  /  Act I                         near: each other
+  Kael  /  SYSTEM\_KAEL                        near: each other
+  Act I  /  Act II                             near: each other
+  Act I  /  Act III                            near: each other
+  Act II  /  Act III                           near: each other
+  Ouroboros Ending  /  Ouroboros               near: each other
+  Kael (Host)                                  near: kael→kael
+  Rhys (Caregiver)                             near: rhys→rhys
+  Alex (Protector)                             near: alex→alex
+  Selene (ISH)                                 near: selene→selene
+  Kiko (Freeze)                                near: kiko→kiko
+  Isabelle (Sexualized)                        near: isabelle→isabelle
+  Moros (Collapse)                             near: moros→moros
+  Argus (Meta-Kog)                             near: argus→argus
+  Silas (Spiegel)                              near: silas→silas
+  Coheron-Echo                                 near: coheron→coheron
+  Oblivion (Spiegel)                           near: oblivion→oblivion
+  Erason-Operator                              near: erason→erason
+  Spiegel Alters                               near: alters→alters
+  Ouroboros                                    near: ouroborosstruktur→ouroboros-struktur
+  AEGIS-Log-Format                             near: aegis→aegis
+  AEGIS-Log-Template                           near: aegis→aegis
+  SYSTEM\_KAEL                                 near: kael→kael
+  JUNA\_VEKTOR                                 near: juna→juna
+  Coherons                                     near: coheron→coheron
+  Erasons                                      near: erason→erason
+
+## in_document_not_in_census (1) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Alters                               alters                       L40
+

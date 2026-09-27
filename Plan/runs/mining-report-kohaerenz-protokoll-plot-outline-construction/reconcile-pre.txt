@@ -1,0 +1,119 @@
+# reconcile-pre — mining-report-kohaerenz-protokoll-plot-outline-construction
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  2 surface groups folded to one term first
+  103 candidates, 99 decisions — **76 by lookup, 23 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (15) — page exists, this document is not on it yet — a reading
+  Kael                                 kael
+  TSDP                                 tsdp
+  AEGIS                                aegis
+  Algorithmische Melancholie           algorithmische-melancholie
+  Trennungsprotokoll                   trennungsprotokoll
+  Juna                                 juna
+  Moonshine-Link                       moonshine-link
+  RS-A                                 rsa
+  Vortex                               vortex
+  Gödel-Gambit                         goedel-gambit
+  Lia                                  lia
+  Isabelle                             isabelle
+  Argus                                argus
+  Silas                                silas
+  Oblivion                             oblivion
+
+## new_term (61) — no page, no near match — a new page
+  Storyform A                          
+  Storyform B                          
+  The Heuristic of Integration         
+  5D-interference                      
+  Qualia                               
+  K1                                   
+  K0                                   
+  Explanatory Gap                      
+  Grand Argument                       
+  inkommensurabel                      
+  MC-A                                 
+  Be-er                                
+  Psychology                           
+  Tertiäre Strukturelle Dissoziation der Persönlichkeit 
+  K1-buffer                            
+  Delta-Q                              
+  K1-Resonance Loop                    
+  Autopoietische Operative Geschlossenheit 
+  functional multiplicity              
+  Garbage Collector                    
+  Connective Tissue                    
+  Kanon-Kompatibel                     
+  MC-B                                 
+  Do-er                                
+  Universe                             
+  Scarcity of Bits                     
+  Timelock                             
+  ionized dust                         
+  IC-A                                 
+  IC-B                                 
+  Influence Characters                 
+  Adversarial Witnesses                
+  Situation                            
+  mutual information                   
+  predictive error                     
+  OS-A                                 
+  OS-B                                 
+  Objective Story                      
+  Physics                              
+  Landauer-Wärme                       
+  System Log                           
+  Sensory Hallucination                
+  The RIFT                             
+  RS-B                                 
+  Relationship Story                   
+  Materiality                          
+  Moonshine-Boundary                   
+  Symbiosis                            
+  Telephone-Call Anchor                
+  maximal integrated information       
+  Living Silence                       
+  Chapters 35–36                       
+  Silence as                           
+  Dialetheia                           
+  Phantom Resonance                    
+  Kanon-Block                          
+  13-alter model                       
+  Alter Canon                          
+  Nox                                  
+  Index                                
+  Autopoiesis                          
+
+## needs_judgement (23) — NEAR a known surface — one term or two?
+  The Phoenix Collapse  /  Phoenix Collapse    near: each other
+  System Mind  /  Mind                         near: each other
+  Kael  /  Kael-as-Idea                        near: each other
+  Coherence Kernel  /  Coherence Kernel (K1)   near: each other
+  Ozone Buffer  /  ozone                       near: each other
+  Thermodynamic Scars  /  Thermodynamic Scar   near: each other
+  AEGIS  /  AEGIS-Erasure/Pivot                near: each other
+  Erasure Kernel  /  Erasure Kernel (K0)       near: each other
+  Landauer-Heat Sink  /  Landauer-Heat         near: each other
+  Tarski-Schema  /  Tarski                     near: each other
+  Vortex  /  The Vortex                        near: each other
+  Heat-Spike  /  Heat-Spike (Landauer → ∞)     near: each other
+  Silas  /  Silas/Oblivion                     near: each other
+  Silas/Oblivion  /  Oblivion                  near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Kael-as-Idea                                 near: kael→kael
+  Simulation Manipulation                      near: simulation→ueberwelt
+  The Vortex                                   near: vortex→vortex
+  Mnemosyne-Archipelago                        near: mnemosyne→mnemosyne
+  AEGIS-Erasure/Pivot                          near: aegis→aegis
+  Silas/Oblivion                               near: oblivion→oblivion, silas→silas
+  Stille                                       near: gartenderstillenpraesenz→garten-der-stillen-praesenz, gartenderstillenprasenz→garten-der-stillen-praesenz, telefonstille→telefon-stille
+  Echo                                         near: residualechos→residual-echos
+
+## in_document_not_in_census (2) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Kohärenz                             kohaerenz                    L11
+  Simulation                           ueberwelt                    L45
+

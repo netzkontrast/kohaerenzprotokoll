@@ -1,0 +1,166 @@
+# reconcile-pre — mining-report-kohaerenz-protokoll-narrative-building-blocks
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  5 surface groups folded to one term first
+  136 candidates, 146 decisions — **105 by lookup, 41 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (23) — page exists, this document is not on it yet — a reading
+  Kael                                 kael
+  TSDP                                 tsdp
+  Nyx                                  nyx
+  Kiko                                 kiko
+  AEGIS                                aegis
+  zero-trust                           aegis-teilfunktionen
+  Gödel-Gambit                         goedel-gambit
+  Juna                                 juna
+  Moonshine-Link                       moonshine-link
+  Kernwelten                           kern-welten
+  LogOS                                logos
+  Mnemosyne                            mnemosyne
+  Cerberus                             cerberus
+  Trennungsprotokoll                   trennungsprotokoll
+  Cognitive Firewall                   aegis-teilfunktionen
+  RS-A                                 rsa
+  VORTEX                               vortex
+  Überwelt                             ueberwelt
+  Selene                               selene
+  Lia                                  lia
+  Isabelle                             isabelle
+  Lex                                  lex
+  Argus                                argus
+
+## new_term (82) — no page, no near match — a new page
+  MC-A                                 
+  Be-er                                
+  Avoidance → Pursuit                  
+  Apparently Normal Parts              
+  ANPs                                 
+  ANP                                  
+  Emotional Parts                      
+  EPs                                  
+  EP                                   
+  Correspondence                       
+  Act I Stabilization                  
+  Act III Integration                  
+  Functional Multiplicity              
+  KW1                                  
+  Heroine's Journey                    
+  Fight-EP                             
+  ozone                                
+  Freeze                               
+  Belly of the Whale                   
+  KANON-KOMPATIBEL                     
+  2026-05-08 Kanon                     
+  MC-B                                 
+  Do-er                                
+  operational closure                  
+  Perverse Learning Loop               
+  Ursprungs-Ich                        
+  Axiom of Negation                    
+  Hamartia                             
+  Component 734                        
+  D2 logic                             
+  Specification Game                   
+  Perverse Instantiation               
+  Nothingness Noise                    
+  Algorithmic Horror                   
+  IC-A                                 
+  Universe/Past                        
+  gnosis                               
+  prehension                           
+  Drang zur Distanz                    
+  IC-B                                 
+  fixed idea                           
+  living Gödel-sentence                
+  High-Φ                               
+  Algorithmic Melancholy               
+  Dialetheic Mind                      
+  Zombie-System                        
+  OS-A                                 
+  KW3                                  
+  Uncanny Valley                       
+  Cyclical Deconstruction              
+  OS-B                                 
+  12 Protocols                         
+  Separation Protocol                  
+  heat-spike                           
+  Isolation Objection                  
+  Byzantine Fault Tolerance            
+  BFT                                  
+  RS-B                                 
+  Komorebi                             
+  Inefficient Beauty                   
+  Externalized Perpetrator Introject   
+  Systemic Gaslighting                 
+  Brutal Calculus                      
+  Logic Trap                           
+  Ch35-36                              
+  Driver-Pivot                         
+  5 Climax Beats                       
+  Convergence                          
+  Living Dialetheia                    
+  Wabi-Sabi                            
+  OPEN-Q                               
+  Witness-Layer                        
+  Moonshine-Boundary                   
+  Inner Self Helper                    
+  Firefighter                          
+  Watch-Layer                          
+  Hero's Journey                       
+  Quarry                               
+  Contradiction Log                    
+  Final Fusion                         
+  Verschmelzung                        
+  Polyphony                            
+
+## needs_judgement (41) — NEAR a known surface — one term or two?
+  Kael  /  Kael (Host)                         near: each other
+  Kael  /  System Kael                         near: each other
+  Kael  /  Pivot Kael                          near: each other
+  Riss im Spiegel  /  Riss                     near: each other
+  Progress as Coherence  /  Coherence          near: each other
+  Sehnsucht  /  Sehnsucht Sog                  near: each other
+  Landauer-limit  /  Landauer → ∞              near: each other
+  zero-trust  /  Zero-Trust Execution          near: each other
+  Juna  /  Juna/V                              near: each other
+  Juna  /  Juna (Echo)                         near: each other
+  Juna  /  Juna's Origin                       near: each other
+  6 Paraiyas  /  Paraiyas                      near: each other
+  6 Paraiyas  /  Paraiya                       near: each other
+  Paraiyas  /  Paraiya                         near: each other
+  Mnemosyne-Archipel  /  Mnemosyne             near: each other
+  Mnemosyne-Archipel  /  Mnemosyne Archipelago near: each other
+  integrated information  /  Integrated Information Theory near: each other
+  Mnemosyne  /  Mnemosyne Archipelago          near: each other
+  Cerberus  /  Cerberus Labyrinth              near: each other
+  Cerberus  /  Cerberus Labyrinth (KW3)        near: each other
+  Cerberus Labyrinth  /  Cerberus Labyrinth (KW3) near: each other
+  Landauer Principle  /  Landauer → ∞          near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Riss                                         near: risse→risse
+  Kael (Host)                                  near: kael→kael
+  Ontological Exploit                          near: alex→alex
+  Genesis-Krise                                near: genesis→genesis
+  Juna/V                                       near: juna→juna
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  Juna (Echo)                                  near: juna→juna
+  System Kael                                  near: kael→kael
+  Logical Explosion                            near: alex→alex
+  Mnemosyne Archipelago                        near: mnemosyne→mnemosyne
+  Cerberus Labyrinth                           near: cerberus→cerberus
+  Cerberus Labyrinth (KW3)                     near: cerberus→cerberus
+  Zero-Trust Execution                         near: zerotrust→aegis-teilfunktionen
+  Pivot Kael                                   near: kael→kael
+  Genesis Crisis                               near: genesis→genesis
+  Stille                                       near: gartenderstillenpraesenz→garten-der-stillen-praesenz, gartenderstillenprasenz→garten-der-stillen-praesenz, telefonstille→telefon-stille
+  Landauer → ∞                                 near: landauersignatur→landauer-signatur
+  Juna's Origin                                near: juna→juna
+
+## in_document_not_in_census (2) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Genesis                              genesis                      L45
+  Kohärenz                             kohaerenz                    L11
+

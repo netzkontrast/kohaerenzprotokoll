@@ -1,0 +1,129 @@
+# reconcile-pre — the-architecture-of-fracture-a-compendium-of-the-kael-system
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+
+  106 candidates, 110 decisions — **87 by lookup, 23 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (23) — page exists, this document is not on it yet — a reading
+  TSDP                                 tsdp
+  DKT                                  dkt
+  AEGIS                                aegis
+  Kael                                 kael
+  Lex                                  lex
+  Alex                                 alex
+  Rhys                                 rhys
+  Selene                               selene
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  Silas                                silas
+  Oblivion                             oblivion
+  Juna                                 juna
+  Nichts-Rauschen                      nichts-rauschen
+  Mnemosyne                            mnemosyne
+  Algorithmische Melancholie           algorithmische-melancholie
+  Gödel-Gambit                         goedel-gambit
+  Kernwelten                           kern-welten
+  Moonshine-Link                       moonshine-link
+
+## new_term (64) — no page, no near match — a new page
+  Narrative Neuro-Psychology           
+  Tertiary Structural Dissociation     
+  Dual Kernel Theory                   
+  K1                                   
+  K0                                   
+  K0 (Entropy)                         
+  Great Inversion                      
+  K1 Kernel                            
+  K0 Kernel                            
+  Arrow of Time                        
+  Nothing-Noise                        
+  Persistence Equation                 
+  Landauer Heat                        
+  ozone                                
+  21°C                                 
+  bleeding knuckles                    
+  13 Identities                        
+  Functional Multiplicity              
+  Multiplicity Veil                    
+  DKT-Correlation                      
+  ANP                                  
+  EP                                   
+  Hubble Volume                        
+  Big Rip                              
+  Strange-Attractor-Form               
+  Anker Akt I                          
+  Kudzu Akt II                         
+  Entanglement Islands                 
+  Dragon Fight                         
+  Sonder                               
+  Spiegel                              
+  Algorithmische Selbstamputation      
+  Doppelter Boden                      
+  Double Bottom                        
+  Layer 1                              
+  Cologne                              
+  Layer 2                              
+  Fragmentation Night                  
+  Separation Protocol                  
+  Ich                                  
+  Tragic God                           
+  Memory-Keeper                        
+  Primary Protocols                    
+  Suppression                          
+  Re-Containment                       
+  Reality Spheres                      
+  KW1–KW4                              
+  KW1                                  
+  Construct City                       
+  KW2                                  
+  Archipelago                          
+  KW3                                  
+  Labyrinth                            
+  KW4                                  
+  Garden of Possibilities              
+  We-Voice                             
+  Final Fusion                         
+  Vertex-Operator-Algebra              
+  VOA                                  
+  Leech Lattice                        
+  Monster Group M                      
+  Egan-standard                        
+  Phone Silence                        
+  Mutual Information (MI) without Data 
+
+## needs_judgement (23) — NEAR a known surface — one term or two?
+  Kael system  /  Kael                         near: each other
+  K1 (Coherence)  /  Coherence                 near: each other
+  AEGIS  /  Mirror of AEGIS                    near: each other
+  Juna-Resonance  /  Juna                      near: each other
+  Kael (Host)  /  Kael                         near: each other
+  Selene  /  Selene (ISH)                      near: each other
+  Mirror of Juna  /  Juna                      near: each other
+  Erasure-Pol  /  The Erasure-Pol              near: each other
+  Kael system                                  near: kael→kael
+  Coherons                                     near: coheron→coheron
+  Erasons                                      near: erason→erason
+  Juna-Resonance                               near: juna→juna
+  Kael (Host)                                  near: kael→kael
+  Selene (ISH)                                 near: selene→selene
+  Coheron-Echo                                 near: coheron→coheron
+  Mirror of Juna                               near: juna→juna
+  Erason-Operator                              near: erason→erason
+  Mirror of AEGIS                              near: aegis→aegis
+  Autonomous Entropic Gatekeeper for Integrity Systems near: entropicgatekeeper→aegis
+  Two Guardians                                near: guardians→guardians
+  Logos-Prime                                  near: logos→logos
+  Kairos-Potentialis                           near: kairos→kairos
+  Ouroboros                                    near: ouroborosstruktur→ouroboros-struktur
+
+## in_document_not_in_census (1) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Guardians                            guardians                    L49
+

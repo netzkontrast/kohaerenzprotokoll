@@ -1,0 +1,81 @@
+# reconcile-pre — the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+
+  60 candidates, 62 decisions — **46 by lookup, 16 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (9) — page exists, this document is not on it yet — a reading
+  DKT                                  dkt
+  AEGIS                                aegis
+  Kael                                 kael
+  Coheron                              coheron
+  Juna                                 juna
+  TSDP                                 tsdp
+  Truth-Rotation                       truth-rotation
+  Algorithmische Melancholie           algorithmische-melancholie
+  Gödel-Gambit                         goedel-gambit
+
+## new_term (37) — no page, no near match — a new page
+  K1-environment                       
+  kognitive Apparat                    
+  21 degrees Celsius                   
+  hemorrhaging knuckles                
+  autopoietic closure                  
+  Dual-Kernel Theory                   
+  Great Inversion                      
+  defense architecture                 
+  Coherence Kernel                     
+  K1                                   
+  Entropy Architecture                 
+  K0                                   
+  MI                                   
+  Monstrous Moonshine                  
+  Vertex-Operator-Algebra              
+  VOA                                  
+  Leech-Lattice                        
+  Z2-Involution                        
+  arrow of time                        
+  Monster Group M                      
+  Landauer Principle                   
+  Thermal Spikes                       
+  Landauer waste heat                  
+  Geometric Cracks                     
+  Witness-Function                     
+  living Gödel statement               
+  Dramatica Translation                
+  Relinquished                         
+  Narrative Fabric                     
+  External Processing                  
+  Internal Processing                  
+  Narrative Engineer                   
+  ANP/EP Phobia                        
+  Functional Multiplicity              
+  Ouroboros Structure                  
+  Nothing-Noise                        
+  Mourning God                         
+
+## needs_judgement (16) — NEAR a known surface — one term or two?
+  ozone  /  Ozone Saturation                   near: each other
+  Kael  /  System Kael                         near: each other
+  Coheron  /  Coherons                         near: each other
+  Coheron  /  Love is Coheron                  near: each other
+  Coheron  /  K1-Coheron                       near: each other
+  Mutual Information  /  Mutual Information without data near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Autonomous Entropic Gatekeeper for Integrity Systems near: entropicgatekeeper→aegis
+  Genesis-Krise                                near: genesis→genesis
+  Coherons                                     near: coheron→coheron
+  Erasonen                                     near: erason→erason
+  Love is Coheron                              near: coheron→coheron
+  System Kael                                  near: kael→kael
+  Tertiary Structural Dissociation of the Personality near: persona→personas
+  Alter                                        near: alters→alters
+  K1-Coheron                                   near: coheron→coheron
+
+## in_document_not_in_census (1) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Kohärenz                             kohaerenz                    L11
+

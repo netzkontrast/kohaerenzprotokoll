@@ -1,0 +1,325 @@
+{
+  "document": "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+  "step": "reconcile-pre",
+  "at": "2026-09-27",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-27",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 60,
+  "decisions": 62,
+  "same_surface": {},
+  "decided_mechanically": 46,
+  "needs_judgement": 16,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 12
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 30
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 27
+      },
+      {
+        "candidate": "Coheron",
+        "page": "coheron",
+        "readings": 16
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 26
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 15
+      },
+      {
+        "candidate": "Truth-Rotation",
+        "page": "truth-rotation",
+        "readings": 11
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 18
+      },
+      {
+        "candidate": "Gödel-Gambit",
+        "page": "goedel-gambit",
+        "readings": 14
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "K1-environment"
+      },
+      {
+        "candidate": "kognitive Apparat"
+      },
+      {
+        "candidate": "21 degrees Celsius"
+      },
+      {
+        "candidate": "hemorrhaging knuckles"
+      },
+      {
+        "candidate": "autopoietic closure"
+      },
+      {
+        "candidate": "Dual-Kernel Theory"
+      },
+      {
+        "candidate": "Great Inversion"
+      },
+      {
+        "candidate": "defense architecture"
+      },
+      {
+        "candidate": "Coherence Kernel"
+      },
+      {
+        "candidate": "K1"
+      },
+      {
+        "candidate": "Entropy Architecture"
+      },
+      {
+        "candidate": "K0"
+      },
+      {
+        "candidate": "MI"
+      },
+      {
+        "candidate": "Monstrous Moonshine"
+      },
+      {
+        "candidate": "Vertex-Operator-Algebra"
+      },
+      {
+        "candidate": "VOA"
+      },
+      {
+        "candidate": "Leech-Lattice"
+      },
+      {
+        "candidate": "Z2-Involution"
+      },
+      {
+        "candidate": "arrow of time"
+      },
+      {
+        "candidate": "Monster Group M"
+      },
+      {
+        "candidate": "Landauer Principle"
+      },
+      {
+        "candidate": "Thermal Spikes"
+      },
+      {
+        "candidate": "Landauer waste heat"
+      },
+      {
+        "candidate": "Geometric Cracks"
+      },
+      {
+        "candidate": "Witness-Function"
+      },
+      {
+        "candidate": "living Gödel statement"
+      },
+      {
+        "candidate": "Dramatica Translation"
+      },
+      {
+        "candidate": "Relinquished"
+      },
+      {
+        "candidate": "Narrative Fabric"
+      },
+      {
+        "candidate": "External Processing"
+      },
+      {
+        "candidate": "Internal Processing"
+      },
+      {
+        "candidate": "Narrative Engineer"
+      },
+      {
+        "candidate": "ANP/EP Phobia"
+      },
+      {
+        "candidate": "Functional Multiplicity"
+      },
+      {
+        "candidate": "Ouroboros Structure"
+      },
+      {
+        "candidate": "Nothing-Noise"
+      },
+      {
+        "candidate": "Mourning God"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "ozone  /  Ozone Saturation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  System Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Coheron  /  Coherons",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Coheron  /  Love is Coheron",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Coheron  /  K1-Coheron",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mutual Information  /  Mutual Information without data",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis-Krise",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Coherons",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "coheron",
+            "page": "coheron"
+          }
+        ]
+      },
+      {
+        "candidate": "Erasonen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "erason",
+            "page": "erason"
+          }
+        ]
+      },
+      {
+        "candidate": "Love is Coheron",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "coheron",
+            "page": "coheron"
+          }
+        ]
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Tertiary Structural Dissociation of the Personality",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "K1-Coheron",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "coheron",
+            "page": "coheron"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
