@@ -1361,3 +1361,31 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** The narrative Kap 0 text of 2026-05-17 writes the protocol „das Kohärenz Protokoll“ (L555) and „des Kohärenz Protokolls“ (L583), and its phrases in several cases: „die operationale Geschlossenheit“ (L427) and „der operationalen Geschlossenheit“ (L251), „Das minimale Selbst“ (L475) and „meines minimalen Selbst“ (L503). The list wrote each as the line has it, and reconcile.py reported the pairs as near matches.
 
 **Result.** one term — a German genitive -s and an adjective's case ending are inflection, like the plural of J56
+
+## J98 — K1 / Kohärenz-Kernel (K₁)
+
+**one-term** · dual-storyform-hintergruende-md · 2026-09-27 · replay: `judgement`
+
+- **rule:** a subscript written as a plain digit is not a term boundary; a bare symbol is placed by the sentence, never by the surface (J20, J71)
+- **mechanised by:** `nothing`
+- **features:** flattened-subscript, bare-symbol, dual-kernel, storyform-document
+
+**Question.** is a bare K1 the kernel the wiki pages as Kohärenz-Kernel (K₁)?
+
+**What was done.** The Dual-Storyform background document of 2026-05-08 never writes `Kohärenz-Kernel`; it writes the kernel as a bare `K1` with a plain digit: „AEGIS glaubt K1 (Kohärenz-Wächter) zu sein“ (L82), „A allein: K1-Reading (Coherence)“ (L68), and the glossary's „Coheron — … K1-Einheit“ (L480). Read sources write the kernel „Kohärenz-Kernel (K₁)“ with a subscript, and the same glossary unit („K₁-Domäne“) for the Coheron.
+
+**Result.** one term in this document — a subscript written or exported as a plain digit is not a term boundary, and the passage states the kernel (AEGIS' self-belief, the Coheron's unit). Not mechanised: a bare two-character symbol could name a chapter, a world or a draft elsewhere, so each passage is placed by what it states (J62), and `K1` is not added as a surface
+
+## J99 — K0 / Kollaps-Kernel (K₀)
+
+**one-term** · dual-storyform-hintergruende-md · 2026-09-27 · replay: `judgement`
+
+- **rule:** the rule of J98: a subscript written as a plain digit is not a term boundary; a bare symbol is placed by the sentence
+- **mechanised by:** `nothing`
+- **features:** flattened-subscript, bare-symbol, dual-kernel, storyform-document
+
+**Question.** is a bare K0 the kernel the wiki pages as Kollaps-Kernel (K₀)?
+
+**What was done.** The same document writes „Es ist tatsächlich K0 (Kollaps-Operator)“ (L82), „B allein: K0-Reading (Erasure)“ (L69), „an denen K0 in K1 einbricht“ (L307) and „Erason — … K0-Einheit. Erzeugt Zeitpfeil.“ (L481); read sources write „K₀ (Kollaps-Kernel)“ with the Erasonen as its unit.
+
+**Result.** one term in this document, by J98's rule; not mechanised, and `K0` is not added as a surface — the wiki also has K0-Existenz, a different page (J27: a qualifying compound is its own term)
