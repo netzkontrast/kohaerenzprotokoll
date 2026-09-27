@@ -618,7 +618,7 @@ check made before the count). The titles of cited works in the appendix stay off
 
 **A report that states a precedence rule and applies it to itself.** Its header dates a status
 apart from its own date — „Canon-Stand: post-Reset 2026-04-30" ^[L17], the dual storyform
-„kanonisiert 2026-05-07" — and ranks its sources: „Skill-Canon (NCP + canon-meta.md)" ^[L17]
+„kanonisiert 2026-05-07" ^[L17] — and ranks its sources: „Skill-Canon (NCP + canon-meta.md)" ^[L17]
 over Project Knowledge, Memory and Training. The appendix repeats it: „PDFs sind Steinbruch"
 ^[L830]. It calls itself „Synthese, nicht Pitch" ^[L25] and „Werkbank, nicht Schaufenster"
 ^[L29]. Its claims about precedence, listed as written.
@@ -630,7 +630,7 @@ the alter table: „AEGIS und Guardians in der 3. Person" ^[L507]. The document 
 the two. §11.3 has both MC bearers as „I" (L684).
 
 **Guardians counted by names it retires.** „reduziert auf zwei" ^[L296]: Mnemosyne and „ein
-Lösch-Pol", „Identität noch offen, Forschungsfrage" ^[L296]. The earlier Wächterprogramme are
+Lösch-Pol" ^[L296], „Identität noch offen, Forschungsfrage" ^[L296]. The earlier Wächterprogramme are
 five names — „LogOS, Cerberus, Kairos, Sophia, RIVE" ^[L296] — and the fifth is `RIVE`, which
 stands once (`05-verify.txt`). `Erasure-Pol` stands 0 times; `Guardian` once, `Guardians` twice.
 
@@ -640,7 +640,7 @@ again as OQ-D (L756). The document never writes `Trennungsprotokoll` or `Kompone
 English `Separation Protocol` and `Component 734` stand once each.
 
 **Four Kernwelten named, one of them twice.** KW1 Konstrukt-Stadt, KW2 Grenz-Zonen, KW3
-„Überwelt / Nexus", KW4 Resonanz-Kontinuum (L429–L441), each with a Computational Class, a
+„Überwelt / Nexus" ^[L437], KW4 Resonanz-Kontinuum (L429–L441), each with a Computational Class, a
 Somatik and a Stil. The headings' `KW1`…`KW4` digits glue to the next word in the normalised
 line; `read.py --find` answers them with `KW`. `Kernwelt` in the singular stands 0 times;
 `Möglichkeits-Garten` and `Garten` 0 times.
@@ -652,10 +652,10 @@ and in compounds 10 times (`Erason-Aktivität`, `Erason-Operation`, `Erason-Oper
 
 **Kernels subscripted, never with a plain digit.** `K₁` and `K₀` throughout; `K1` and `K0` 0 times.
 
-**Chapters by count, not by number.** „39 Kapitel" (L41, L755) and „39 fragmentierte Kapitel"
-(L558); the Vortex is „Ch 35–36" three times (L110, L284, L611); „Kapitel 13" once, as the end
+**Chapters by count, not by number.** `39 Kapitel` (L41, L755) and „39 fragmentierte Kapitel" ^[L558]
+(L558); the Vortex is „Ch 35–36" ^[L110] three times (L110, L284, L611); „Kapitel 13" ^[L535] once, as the end
 of the Multiplizitäts-Schleier (L535). No `Kap` stands at all; no Kap 0, no Kap 40. One source
-it names is a „40-Kapitel-Synthese" (L810).
+it names is a „40-Kapitel-Synthese" ^[L810] (L810).
 
 **Heat and cold.** `Hitze` on 10 lines, `heiß` on 4 — the style of KW2 and KW3 — `Ozon` on 3;
 `kalt` on 2, the style of KW1 and Akt I; `warm` and `Wärme` 0 times. The knuckles stand once,
