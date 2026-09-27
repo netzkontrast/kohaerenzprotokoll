@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -34,3 +34,8 @@ The name `Kollaps-Kernel` does not stand in the document (0, `Plan/runs/worldbui
 It is the domain of the Erasonen: „Erasonen (K₀-Domäne) sind irreversible Löschungsereignisse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] Alone it is death: „ein reines K₀-System ist Wärmetod ohne Struktur" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L63].
 [[aegis|AEGIS]] is it without knowing: „AEGIS = Entropie-Architektur (K₀)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L74], in the column of what holds. At the Vortex it shows: „Hier schließt sich die Truth-Rotation: AEGIS = K₀ wird sichtbar, Kael = K₁ wird sichtbar." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L801]
 AEGIS files the wrong things under it: „Suppressionsprotokoll — aktive Erasure von K₀-Tatsachen (das, was AEGIS für K₀ hält; tatsächlich K₁-Coheronen, die es nicht erfassen kann)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L213] And its end avoids completing it: „AEGIS reagiert nicht mit Selbstzerstörung (würde die K₀-Logik komplettieren)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L267].
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — a bare K0: what AEGIS is, and Storyform B's reading
+
+`Kollaps-Kernel` does not stand in it (0, `05-verify-readers.txt`); it writes the kernel as a bare `K0`, and those passages are placed here by J99. AEGIS is it, as a `Kollaps-Operator`, in the DKT-Kernparadoxon: „Es ist tatsächlich K0 (Kollaps-Operator).“ ^[dual-storyform-hintergruende-md.md:L82]
+It is the thesis of Storyform B — „(K0, Erasure, Kontrolle erzeugt die Entropie, die sie bekämpft)“ ^[dual-storyform-hintergruende-md.md:L52] — and that storyform's reading on its own: „B allein: K0-Reading (Erasure) — die Lesart der tragischen Geschlossenheit.“ ^[dual-storyform-hintergruende-md.md:L69] Its unit is the Erason, a „K0-Einheit“ ^[dual-storyform-hintergruende-md.md:L481]. In the rift scenes it breaks into K1: „an denen K0 in K1 einbricht“ ^[dual-storyform-hintergruende-md.md:L307].
