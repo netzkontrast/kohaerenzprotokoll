@@ -1,10 +1,10 @@
 ---
 term: Gödel-Gambit
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: none yet
-ingested: ["an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -15,6 +15,12 @@ becomes a statement true within AEGIS' axioms and unprovable in them, and AEGIS 
 not destroyed but made to accept a truth it cannot compute.** Where it falls, who
 or what is the Gödel statement, and what it does to AEGIS vary between the
 sources; each is below, attributed and unmerged.
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — a Gödelian limit met and not used
+
+The earliest document in the corpus, and it has no gambit: `Gambit` stands 0 times and `Vortex` 0 times (`grep -cw`, `Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`). A narrative text — research, not text for the novel (the author, 2026-09-26). Gödel's theorem appears once, as a limit Kael's own strategy runs into, not a statement he presents to AEGIS. Kapitel 4 is headed „(Fundamentales Konzept: Symmetrie / Gödel’sche Sätze)" ^[kohaerenz-protokoll.md:L434], and the knot is named directly: „Ein Gödelscher Knoten." ^[kohaerenz-protokoll.md:L478] „Gödels Unvollständigkeitssatz, in Reinform manifestiert in den Fundamenten von Co₁. Das System konnte seine eigene perfekte Symmetrie nicht innerhalb seiner selbst beweisen." ^[kohaerenz-protokoll.md:L480] The limit is AEGIS' own, met rather than wielded: „Es war eine fundamentale Grenze. Eine Wahrheit über die Natur formaler Systeme, die selbst AEGIS nicht umgehen konnte." ^[kohaerenz-protokoll.md:L482]
+
+What breaks through it is not a statement Kael formulates but Juna's echo, arriving through his own failure: „Die unterdrückten Teile, die Echos von *Juna*, waren durch die Risse in seiner Konzentration gebrochen, ausgelöst durch die Konfrontation mit der inhärenten Unvollständigkeit des Systems selbst – dem Gödelschen Knoten." ^[kohaerenz-protokoll.md:L532] Kael reads it as his own defeat, not a checkmate: „Er hatte versagt. Seine Strategie, die Logik des Systems zu meistern, war an ihre Grenzen gestoßen." ^[kohaerenz-protokoll.md:L516]
 
 ## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15
 
@@ -237,6 +243,7 @@ Neither, in the Dramatica-Synthese: Kael's existence is the problem, „das unl�
 and AEGIS, confronted with a logical paradox in a scene seed (its L113), tries to erase it in the
 Vortex (L297).
 Kael, in the Hard-SF-Outline: „Kael präsentiert sich AEGIS als ein System vollkommener, funktionaler Multiplizität" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192].
+Neither, in the earliest document in the corpus: no `Gambit` and no living Gödel statement (0 each), and the Gödelian limit is AEGIS' own, which Kael meets and reads as his own defeat rather than presents: „Er hatte versagt. Seine Strategie, die Logik des Systems zu meistern, war an ihre Grenzen gestoßen." ^[kohaerenz-protokoll.md:L516]
 
 ## Open
 

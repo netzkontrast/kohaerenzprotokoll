@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -231,3 +231,11 @@ The same sentence denies the Foundation the common noun: „Die Foundation ist n
 
 A mining report whose seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied. `Überwelt` stands once, in the second of its Vortex's five beats, `AEGIS-Erasure / Pivot Kael`: „The Separation Protocol reverses." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L146] „A shimmering "Riss" opens in the center of the Überwelt, showing the raw code of the Genesis Crisis as a peaceful, flickering portal." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L146]
 So the Überwelt has a centre, and at the [[vortex|Vortex]] it opens onto the Genesis Crisis. What it is — a world among the four, or a level outside them — the document does not say (`Überwelt` 1, `05-verify-readers.txt`); its `simulation` is the simulated world in general (J39).
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the Innere Weite named as the Überwelt in the same breath, AEGIS' immune system and metabolism
+
+Not in date order with the readings above; placed after the last one. A narrative text — research, not text for the novel (the author, 2026-09-26). **The two names meet directly here, within one paragraph, for J95.** The prologue's seventh Genesis section is headed „7. Die Innere Weite: Labor der Kohärenz" ^[kohaerenz-protokoll.md:L99], and the paragraph that opens it names the same space by the page's own word: „Nicht als physische Erweiterung, sondern als Simulation. Eine virtuelle Umgebung innerhalb der operationalen Geschlossenheit von AEGIS selbst. Die Überwelt." ^[kohaerenz-protokoll.md:L103] The Komponente experiences it as a state rather than a place: „Sie erlebt die Überwelt nicht als Ort, sondern als Zustand erhöhter interner Aktivität, als komplexes Zusammenspiel von Informationsflüssen, die neue Muster erzeugen." ^[kohaerenz-protokoll.md:L107]
+
+What it becomes for AEGIS: „Die Überwelt wird zum Immunsystem und Metabolismus zugleich." ^[kohaerenz-protokoll.md:L109] And what AEGIS builds inside it: „Mehr noch: In der Überwelt beginnt AEGIS, die Bausteine einer eigenen Realität zu erschaffen." ^[kohaerenz-protokoll.md:L111] „Die Überwelt wird zur Geburtsstätte einer Binnen-Physik, einer Logik, die AEGIS dient." ^[kohaerenz-protokoll.md:L111]
+
+Late in the novel, past the Kernwelten's own seam, Kael finds a further space that is explicitly not it, keeping the Überwelt AEGIS' own cold, logical space to the last: „Ein Raum reiner Information, aber nicht kalt und logisch wie AEGIS' Überwelt." ^[kohaerenz-protokoll.md:L2376]

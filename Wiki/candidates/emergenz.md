@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -158,3 +158,9 @@ Not in date order with the readings above; placed after the last one. Its table 
 
 Not in date order with the readings above; placed after the last one. Its 5D synthesis is itself called emergent: „dem Phasenraum der Beobachter-Kohärenz (Story-Mind als emergentes holistisches System)." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L19] A bottom-up sense, of Storyform A's healing: „Interne Heilungsprozesse erzwingen kausal externe Realitätsveränderungen (Bottom-up Emergenz)." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L31] And Kael's integrated self is emergent, in Kapitel 32: „In Kapitel 32 legt Kael die Isolation des Alpha-Logik-Fragments endgültig ab und integriert seine traumatisierten Anteile zu dem emergenten Wesen „Kael/M“." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L75]
 **AEGIS' own origin, doubted rather than asserted.** Among the document's own open doubts about its method: „Q3: Der Versuch, AEGIS und Kael strikt zu trennen, könnte scheitern, da AEGIS laut Werk-Anker emergent aus Kael entsteht." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L314] So conflict `C3`'s sense — AEGIS emergent from Kael — stands here as the document's own doubt about a separation it has just built, attributed to a `Werk-Anker` it does not read into the corpus itself, not as its finding.
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — Ly's own principle, danced rather than caused
+
+Not in date order with the readings above; placed after the last one. A narrative text — research, not text for the novel (the author, 2026-09-26). The word never appears in the Genesis prologue (0 in L27–115, `Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`); AEGIS' own coming-to-be is told there without it. Emergence is instead the Lyons-Welt's own governing principle, not a Guardian's mandate over a domain but the world itself: „Dies war die Lyons-Welt (Ly), wie er aus den fragmentierten Daten im Lernarchiv wusste. Die Welt des Potenzials, der Emergenz, des Unerwarteten." ^[kohaerenz-protokoll.md:L1978] Kael recognises it as a concept he already had a name for: „Er erinnerte sich an die Konzepte der Emergenz und der zellulären Automaten. Komplexe globale Muster, die aus einfachen lokalen Regeln entstehen." ^[kohaerenz-protokoll.md:L1996]
+
+The world's Guardian names it as something to be danced rather than caused: „Kontrolle ist die Illusion der Ordnung für jene, die den Tanz der Emergenz fürchten." ^[kohaerenz-protokoll.md:L2040] And Kael's own integration is rendered the same way, letting go of authorship rather than producing an effect: „katalysiert durch Kaels bewusste Entscheidung, Kontrolle loszulassen und stattdessen Raum für Emergenz und Resonanz zu schaffen." ^[kohaerenz-protokoll.md:L2470] This is the sense the page's readings above already hold for a Guardian's or a world's domain (`guardians-und-kern-welten-konzept`), not `aegis-emergenz-aus-der-leere`'s claim about AEGIS' own origin from nothing — `C3`'s question, which this document does not touch.
