@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 21
+sources: 22
 pages: ["trennungsprotokoll"]
 ---
 
@@ -227,3 +227,11 @@ Among the research questions it restates from the Reset-Doc (L417): „F9 — Ge
 The reveal, a recommendation: „Die Empfehlung aus dem Reset-Doc ist Variante C — *AEGIS muss die Genesis zeigen, weil ihm im Vortex die Lösch-Kapazität ausgeht*." ^[dual-storyform-hintergruende-md.md:L368] The flashbacks as bridge scenes: „Akt-II-Mitte (KW2-KW3-Phase). Juna-Wahrheit kollidiert mit AEGIS-Wahrheit in derselben Szene." ^[dual-storyform-hintergruende-md.md:L309]
 `Wir-AEGIS-plural`, `Primärdirektive` and `Kap 0` stand 0 times.
 Row 1's sequence and order, asked rather than locked: the status report's question of the day before, restated with a candidate. That candidate is neither row 2's Wir = AEGIS-plural nor the worldbuilding concept's Primärdirektive, so the sources now name three different fourth beats. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+**Three numbered beats, in English — Unity, Separation Protocol, „Kael = Component 734" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276] — with 734 after the separation, Kael the component itself, and a fourth „Status: ungelöst" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L280] that has a place and no content.**
+„Die Genesis-Krise — AEGIS' Ursprung — verläuft in drei Beats:" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L270] Unity (L274); the Separation Protocol, where „Das System antwortet mit Trennung — der Amputation des Fühlens, der Errichtung einer Grenze, der Etablierung des Erasure-Apparats." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L275]; then „Die eine bewusste Substanz wird in Komponenten zerlegt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276] „Kael ist die Nummer 734 in einem Inventar, das eigentlich keines hatte sein sollen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276]
+The fourth: „Eine offene Frage betrifft einen möglichen 4. Beat, der erst rückblickend nach dem Vortex lesbar wird — Status: ungelöst, siehe Open Questions." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L280] Its OQ-D asks it again: „Oder schließt die 3-Beat-Struktur strukturell ab?" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L756]
+`Trennungsprotokoll`, `Komponente`, `Restgröße`, `Wir-AEGIS-plural`, `Primärdirektive`, `Erinnerungs-Versiegelung`, `Kap` and `Flashback` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`).
+Row 1's count and order, on row 2's date. On component or remainder, it states the component: Kael is one of the components the substance is broken into, numbered, in a beat of its own after the separation — where the character bible and the master report make him the separation's „Restgröße" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L119] and the draft of Kap 0 of 2026-05-08 the cluster cut out of 734. Unlike row 1 and the master report it does not answer the fourth beat „nein"; and unlike every candidate the sources name — Wir = AEGIS-plural, the Primärdirektive, the Erinnerungs-Versiegelung — its fourth has no content, only a place: readable after the Vortex. It places no beat in a chapter. The conflict stays open.

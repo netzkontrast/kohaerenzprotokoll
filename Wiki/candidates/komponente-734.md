@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-25"
 ---
 
@@ -200,6 +200,12 @@ That the worker is Kael is the apparatus's identification (`Kael` 0 in the prose
 
 Once (`734` 1, `Komponente` 0; `05-verify-readers.txt`), in a question the document restates from the Reset-Doc, its claim about that document: „F9 — Genesis 3-Beat oder 4-Beat" ^[dual-storyform-hintergruende-md.md:L420] — „Reicht die Sequenz Einheit → Trennungsprotokoll → Kael=734, oder braucht es einen vierten Beat (Erinnerungs-Versiegelung)" ^[dual-storyform-hintergruende-md.md:L420]. Kael is 734, and 734 is the last of three beats, after the Trennungsprotokoll — the Dramatica lock-in's sequence in its words but for `Komp`. Whether the separation makes it, the sequence does not say. Conflict C12.
 
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — Kael is the component, in the third of three beats
+
+Once, in English (`734` 1, `Component 734` 1, `Komponente` 0; `05-verify-readers.txt`); J101 places it here by the sentence. The third beat of „Die Genesis-Krise — AEGIS' Ursprung" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L270], after the Separation Protocol (L275):
+„Kael = Component 734" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276] — „Die eine bewusste Substanz wird in Komponenten zerlegt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276] „Kael ist die Nummer 734 in einem Inventar, das eigentlich keines hatte sein sollen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276]
+So Kael is the component itself, one of several the one conscious substance is broken into, numbered in an inventory — not a remainder (`Restgröße` 0, `übrig` 0), and not a unit made before the separation: the decomposition is a beat of its own, after it. A fourth beat is left „Status: ungelöst" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L280]. It names no designation inside the simulation, no dwelling and no chapter (`Archivar` 0, `Wohneinheit` 0, `Kap` 0). Conflict C12.
+
 ## Where the sources differ
 
 **When the component is made (C12).** Before the separation, in beat 2: the
@@ -218,6 +224,9 @@ in the separation, beat 3 of four (L148). The Abhandlung has it formed in beat 2
 in the separation (L591), naming neither Kael nor 734. The philosophy catalogue gives no
 beat: Kael is 734 in a world the Trennungsprotokoll made (its L229), which puts the
 separation before the world he is thrown into and says nothing of when the component was made.
+The philosophischer Bericht of 2026-05-08 counts three beats with „Kael = Component 734“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276] the
+third, after the Separation Protocol: the decomposition into components is that beat, and Kael
+is one of them, number 734, with no remainder named.
 
 **Whose designation.** Lex's, in the Charakter-Kompilation of 2026-03-31 (L74);
 Kael's, in every source from 2026-05-07 on.

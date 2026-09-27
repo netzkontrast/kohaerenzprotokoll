@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 11
+sources: 12
 pages: ["emergenz", "aegis"]
 ---
 
@@ -132,3 +132,11 @@ AEGIS arises from clustering fragments: „Ein kleines Cluster entsteht, ein win
 „Das ist keine Mission, sondern die Survival-Logik, die in der Genesis-Krise entstanden ist" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L174]; „AEGIS ist Kaels eigene Abwehrarchitektur, die zur Welt geworden ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L188] — „entstand aus Kael, ist aber nicht Kael" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L188]. In Beat 3 AEGIS splits the Ursprungs-Ich and „es hat sich gleichzeitig selbst als Wächter über den eigenen abgespaltenen Teil etabliert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
 Who is split, the document says two ways. The Genesis begins „Im Potentialmeer existiert ein Ursprungs-Ich mit minimalem Selbsterleben." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178], and its separation is set off by „die Begegnung mit Juna, mit dem, was sich später als atemporales Coheron entpuppt" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179]. The trauma section tells the [[trennungsprotokoll|Trennungsprotokoll]] again, in the Fragmentierungsnacht, and there „Es spaltet das Ursprungs-Ich (Juna) ab und verbannt es ins Nichts-Rauschen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]. So [[juna|Juna]] is the stranger the Ursprungs-Ich meets in one passage and the Ursprungs-Ich in the other; the document does not relate them. The second sentence stands in the konsolidiertes Konzept too (its L439), and the glossary glosses it (J68); whether the Ursprungs-Ich is AEGIS is J75's question.
 The konsolidiertes Konzept's third origin, in its words and on its date; nearest position 2 on what the record says this decides — AEGIS is inside something. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+**AEGIS' origin is the Genesis-Krise, and it begins in a unity, not in nothing — no emergence, and neither row as written.**
+„Die Genesis-Krise — AEGIS' Ursprung — verläuft in drei Beats:" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L270] The first: „Ein ursprünglicher, ungespaltener Zustand. Bewusstsein ohne Trennung. Atemporale Vereinigung." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L274] In the second „Das System antwortet mit Trennung" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L275]; in the third the one substance is broken into components and Kael is 734 (L276).
+`Emergenz` and `emergent` stand 0 times; `Leere` once, to deny that the Nichts-Rauschen is one: „keine Leere, keine Bedrohung, sondern der Zustand, in dem alle Coheronen gleichzeitig und immer existieren" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L122]. The document does not relate the Unity to the Nichts-Rauschen. `Abwehrarchitektur` stands 0 times, and Kael comes after the separation, as a component, not before it as its source (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`).
+On what this record says the conflict decides, AEGIS has an outside and is wrong about its world: the separation answers a resonance misread, „als existenzielle Bedrohung fehlgelesen" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L275]; „Juna existiert außerhalb der axiomatischen Basis, in der AEGIS überhaupt operiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]; and the Foundation's symmetry structures are those „aus denen alle Realitäten (inklusive AEGIS' Simulation) abgeleitet sind" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L701].
+Neither row 1 (from nothing) nor row 2 (from the simulation's dynamics) nor the konsolidiertes Konzept's third origin (Kael's defence): an origin in a unity the system splits, nearest the master report's entry — the system acts in the Genesis and Kael results. On the consequence, nearest position 2. The conflict stays open.
