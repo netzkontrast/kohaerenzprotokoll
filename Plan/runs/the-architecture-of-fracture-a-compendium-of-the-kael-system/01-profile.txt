@@ -1,0 +1,14 @@
+# the-architecture-of-fracture-a-compendium-of-the-kael-system
+  lines                80  (frontmatter ends at 9)
+  body words           1315
+  headings             13   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    11   ascii quotes 36
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    2
+  repeated labels      Transition x4
+  longest line         1659 chars
+

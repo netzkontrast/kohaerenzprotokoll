@@ -1,0 +1,125 @@
+{
+  "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+  "drive_id": "15zx7nFYcmC6AE0REZsIftGYc8yIW-ZIYqbwA53uvTwE",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 2,
+  "backslash_escapes": 0,
+  "typographic_marks": 11,
+  "ascii_quotes": 36,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "archi": [
+      "Archipelago",
+      "Architecture"
+    ],
+    "const": [
+      "Construct",
+      "Constructive"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "eraso": [
+      "Erason",
+      "Erasons"
+    ],
+    "erasu": [
+      "Erasure",
+      "Erasures"
+    ],
+    "fract": [
+      "Fractals",
+      "Fracture"
+    ],
+    "ident": [
+      "Identities",
+      "Identity"
+    ],
+    "layer": [
+      "Layer",
+      "Layered"
+    ],
+    "opera": [
+      "Operates",
+      "Operator"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols"
+    ],
+    "psych": [
+      "Psychological",
+      "Psychology"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Here",
+      "Spheres"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Layer",
+      "Layered"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Erason",
+      "Erasons"
+    ],
+    [
+      "Keeper",
+      "Gatekeeper"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Coheron",
+      "Coherons"
+    ],
+    [
+      "Erasure",
+      "Erasures"
+    ],
+    [
+      "Protocol",
+      "Protocols"
+    ],
+    [
+      "Temporal",
+      "Atemporal"
+    ],
+    [
+      "Construct",
+      "Constructive"
+    ]
+  ]
+}

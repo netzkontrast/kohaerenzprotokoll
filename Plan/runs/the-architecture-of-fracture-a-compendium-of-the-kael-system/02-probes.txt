@@ -1,0 +1,37 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      2
+  backslash escapes      0
+  typographic marks      11
+  ascii quotes           36
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coheron, Coherons
+  archi    Archipelago, Architecture
+  const    Construct, Constructive
+  entro    Entropic, Entropy
+  eraso    Erason, Erasons
+  erasu    Erasure, Erasures
+  fract    Fractals, Fracture
+  ident    Identities, Identity
+  layer    Layer, Layered
+  opera    Operates, Operator
+  proto    Protocol, Protocols
+  psych    Psychological, Psychology
+  syste    System, Systems
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  Form < Information
+  Here < Spheres
+  Here < Coherence
+  Layer < Layered
+  Logic < Psychological
+  Erason < Erasons
+  Keeper < Gatekeeper
+  System < Systems
+  Coheron < Coherons
+  Erasure < Erasures
+  Protocol < Protocols
+  Temporal < Atemporal
+  Construct < Constructive
