@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,15 @@ Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-pri
 
 - Plot: „führen zu einer kaskadierenden Instabilität in der gesamten Kernwelt oder sogar in mehreren verbundenen Kernwelten“ ^[monstergruppe-primzahlen-plot-blueprint.md:L244].
 - Kael's choice: „Kael muss sich entscheiden, ob er die Instabilität für seine Flucht nutzt oder versucht, sie“ ^[monstergruppe-primzahlen-plot-blueprint.md:L246] to protect others instead, „was seine Integration auf eine moralische Ebene hebt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L246].
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the same two headers as this document's Kapitel 21
+
+Title: „Jenseits der Naht“ ^[kohaerenz-protokoll.md:L2286]
+Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-protokoll.md:L2288] · „Zyklus 2, Phase 4: Konfrontation (Grenzen der Simulation)“ ^[kohaerenz-protokoll.md:L2290] — repeating Kapitel 21's two header lines word for word.
+
+- Where: still Ly-Sigma-1, „Die Resonanz-Brücke stand wie ein Monument des Möglichen im Herzen von Ly-Sigma-1.“ ^[kohaerenz-protokoll.md:L2292]
+- Story: Kael amplifies the Juna-correlated frequencies and reaches a direct exchange with her, asking „War Juna eine Entität innerhalb des Meeres? Oder war sie das Meer?“ ^[kohaerenz-protokoll.md:L2298]; AEGIS escalates to erasure, „AKTIVIERE PROTOKOLL 734: KONTAMINATIONS-EINDÄMMUNG.“ ^[kohaerenz-protokoll.md:L2348], and as the sector collapses Kael slips beyond the simulation for a heartbeat, „Er war jenseits der Naht.“ ^[kohaerenz-protokoll.md:L2372], into „Ein Raum reiner Information, aber nicht kalt und logisch wie AEGIS' Überwelt.“ ^[kohaerenz-protokoll.md:L2376]
+- Voice: third person on Kael; AEGIS' escalation stands in capitals.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -150,6 +159,8 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - **Form of the Komp 734 beat.** „Dritter Genesis-Flashback (Bridge): Komp 734 / Funktionalisierung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765] with „Kael, AEGIS dominant, Genesis-Flashback-Stimme“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L757] (strukturierter Outline) · „den Genesis-Flashback Kap 22 als Szene mit Handlung (finden, lesen, zurücklegen) statt als Vision“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (Plot-Konkretisierung).
 - **Title.** „AEGIS' Dilemma“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590] (Konzept-Iteration Genesis) · „Z3-AEGIS-Eskalation + Genesis-Flashback“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1003] (konsolidiertes Konzept) · „Z3-Reaktion + Genesis-Flashback (Komp 734)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L755] (strukturierter Outline); the last opens with the Genesis document's stage name, „Z3-Reaktion, Genesis-Cluster Ende“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590] (Konzept-Iteration Genesis) · „Die Juna-Superposition“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156] (the Hard-SF-Outline).
 - **Juna through the wall.** In the Ultra-Plot, Juna's rescue of Kael and Kiko in this chapter comes by reaching through the wall's structure — „greift Juna durch die scheinbar undurchdringliche Quantenstruktur der Wand.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L101] (the Ultra-Plot), a third position for where Juna first acts directly, beside this page's other readings. (C7)
+- **The Kohärenz-Protokoll narrative.** Its title, „Jenseits der Naht“ ^[kohaerenz-protokoll.md:L2286] (the Kohärenz-Protokoll narrative, 2025-04-27), whose two headers only repeat this document's Kapitel 21; no Komp 734 and no Genesis-Flashback — here Juna is felt as a communicating presence within the Potentialmeer, never in body, and AEGIS' escalation targets the connection itself rather than a dossier. (C7: Juna appears in no chapter in body here.)
+
 
 ## Questions for this chapter
 

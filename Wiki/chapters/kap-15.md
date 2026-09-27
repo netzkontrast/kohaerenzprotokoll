@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,16 @@ Title: „Kausale Schleifen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L171
 
 - Establishes: „Die emergenten Phänomene erzeugen Rückkopplungsschleifen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L174]
 - AEGIS: „erlaubt es ihm, diese Widersprüche zu registrieren, ohne sofort zusammenzubrechen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L174]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+Title: „Reaktivierter Bunker“ ^[kohaerenz-protokoll.md:L1594]
+Position: „Trauma Response (Flight/Freeze) / IFS (Firefighter/Manager - Vermeidung)“ ^[kohaerenz-protokoll.md:L1596] · „Zyklus 1, Phase 2: Rückfall (Vermeidung)“ ^[kohaerenz-protokoll.md:L1598]
+
+- Where: still in Beta-Rho-5, from Kapitel 14's transfer; no new world.
+- Story: AEGIS answers Kael's refusal not with punishment but by intensifying the world's chaos, and an old defensive part seizes control and reactivates a dissociative retreat, „Rückzug, signalisierte dieser Teil mit unwiderstehlicher Kraft. Abschottung. Minimierung des Inputs. Aktivierung des Bunkers.“ ^[kohaerenz-protokoll.md:L1620]
+- Effect: the retreat cuts him off from every inner Anteil and from Juna, „Der Rückfall war vollständig. Die Vermeidung war total.“ ^[kohaerenz-protokoll.md:L1652]
+- Voice: third person on Kael, his inner Anteile in italics; AEGIS acts through the environment rather than speaking.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -150,6 +160,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 - **Title.** „Schattenwurf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L562] (Konzept-Iteration Genesis) · „Z1-Destabilisierung: Trigger“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L587] (strukturierter Outline; „Z1-Trigger“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L989] in the konsolidiertes Konzept) · „Turing-Mechanik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211] (Kapitel-Kompendium; so too storyform outline). The first is the others' sensory note, „Sensorik: Schattenwurf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990] (konsolidiertes Konzept); the storyform outline keeps the second as „(Zyklus-Funktion: Z1-Trigger)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340] (storyform outline). · „Kap 15 — Turing-Mechanik.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] (the philosophy catalogue, as its theory anchor).
 - **The Hard-SF-Outline.** „Das Schweigen der Algorithmen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138] (the Hard-SF-Outline, 2026-04-08) — a new title; the chapter belongs to KW2's Guardian, „Stattdessen nutzt Mnemosyne, der Guardian dieser Welt, eine perfide Form der Ermüdung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138]
+- **The Kohärenz-Protokoll narrative.** Its title, „Reaktivierter Bunker“ ^[kohaerenz-protokoll.md:L1594] (the Kohärenz-Protokoll narrative, 2025-04-27), and its world: still Beta-Rho-5, not KW2 — no Turing-Mechanik, no Halteproblem, no Nyx or Kiko by name, only Kael's own parts and a dissociative freeze.
 
 ## Questions for this chapter
 

@@ -1,0 +1,59 @@
+# 05-verify-readers — kohaerenz-protokoll
+potentialmeer: grep -cw 'Ursprungs-Ich' Sources/drive/kohaerenz-protokoll.md
+0
+goedel-gambit: grep -cw 'Gambit' Sources/drive/kohaerenz-protokoll.md
+0
+goedel-gambit: grep -cw 'Vortex' Sources/drive/kohaerenz-protokoll.md
+0
+nichts-rauschen: grep -cw 'Nichts-Rauschen' Sources/drive/kohaerenz-protokoll.md
+0
+risse: grep -cw 'EP-Trigger' Sources/drive/kohaerenz-protokoll.md
+0
+emergenz: sed -n '27,115p' Sources/drive/kohaerenz-protokoll.md | grep -ci 'emergen'
+0
+genesis: grep -c 'Komponente 734' Sources/drive/kohaerenz-protokoll.md
+0
+c3-emergenz-origin: grep -ocw "Emergenz" Sources/drive/kohaerenz-protokoll.md => 18
+c6-guardians-count-and-pairing,q5-guardians-and-kern-welten: grep -ocw "Erasure-Pol" Sources/drive/kohaerenz-protokoll.md => 0
+c12-genesis-beats: grep -c "Komponente 734" Sources/drive/kohaerenz-protokoll.md => 0 (the exact phrase never occurs; the component is unnumbered)
+c12-genesis-beats: grep -ocw "Wir-AEGIS" Sources/drive/kohaerenz-protokoll.md => 0
+c14-aegis-first-person-chapter: grep -ocw "Person" Sources/drive/kohaerenz-protokoll.md => 0
+c14-aegis-first-person-chapter: grep -ocw "Prosa" Sources/drive/kohaerenz-protokoll.md => 0
+c14-aegis-first-person-chapter: grep -ocw "Log" Sources/drive/kohaerenz-protokoll.md => 0
+c14-aegis-first-person-chapter: grep -ocw "Innensicht" Sources/drive/kohaerenz-protokoll.md => 0
+c14-aegis-first-person-chapter: grep -ocw "Hard-B" Sources/drive/kohaerenz-protokoll.md => 0
+c14-aegis-first-person-chapter: grep -ocw "ich" Sources/drive/kohaerenz-protokoll.md => 3
+c14-aegis-first-person-chapter: grep -ocw "Ich" Sources/drive/kohaerenz-protokoll.md => 33
+c5-garten-scale: grep -c "Garten der Möglichkeiten" Sources/drive/kohaerenz-protokoll.md => 0
+c5-garten-scale: grep -c "Möglichkeits-Garten" Sources/drive/kohaerenz-protokoll.md => 0
+c5-garten-scale: grep -c "Kairos-Potentialis" Sources/drive/kohaerenz-protokoll.md => 0
+c4-guardians-and-aegis: grep -ow "blind" Sources/drive/kohaerenz-protokoll.md | wc -l => 1
+c4-guardians-and-aegis: grep -ow "blinde" Sources/drive/kohaerenz-protokoll.md | wc -l => 1
+c4-guardians-and-aegis: grep -ow "blindwütig" Sources/drive/kohaerenz-protokoll.md | wc -l => 1
+c4-guardians-and-aegis: grep -ow "blindlings" Sources/drive/kohaerenz-protokoll.md | wc -l => 2
+aegis: grep -c "Autonomous\|Gatekeeper" Sources/drive/kohaerenz-protokoll.md => 0
+kael: grep -cw "Knöchel" Sources/drive/kohaerenz-protokoll.md => 0
+kael: grep -c "Komponente 734" Sources/drive/kohaerenz-protokoll.md => 0
+kael: grep -c "Komp 734" Sources/drive/kohaerenz-protokoll.md => 0
+komponente-734: grep -c "Komponente 734" Sources/drive/kohaerenz-protokoll.md => 0
+komponente-734: grep -c "Komp 734" Sources/drive/kohaerenz-protokoll.md => 0
+alters: grep -cw "Alter" Sources/drive/kohaerenz-protokoll.md -> 0
+did: grep -cw "DID" Sources/drive/kohaerenz-protokoll.md -> 0
+multiplizitaet: grep -cw "Fusion" Sources/drive/kohaerenz-protokoll.md -> 0
+cache-kohaerenz: grep -cw "ANP" Sources/drive/kohaerenz-protokoll.md -> 0
+cache-kohaerenz: grep -cw "EP" Sources/drive/kohaerenz-protokoll.md -> 0
+moonshine-link: grep -cw "VOA" Sources/drive/kohaerenz-protokoll.md -> 0
+moonshine-link: grep -cw "Silas" Sources/drive/kohaerenz-protokoll.md -> 0
+moonshine-link: grep -cw "Leech" Sources/drive/kohaerenz-protokoll.md -> 1 (L452, Co1's own basis, not the link)
+trennungsprotokoll: grep -cw "Trennungsprotokoll" Sources/drive/kohaerenz-protokoll.md -> 0
+trennungsprotokoll: grep -c "Komponente 734" Sources/drive/kohaerenz-protokoll.md -> 0
+trennungsprotokoll: grep -cw "Genesis" Sources/drive/kohaerenz-protokoll.md -> 1 (L27, the prologue's own heading)
+evaluierungseinheit: grep -cw "KW3" Sources/drive/kohaerenz-protokoll.md -> 0
+kaels-wohneinheit: grep -cw "734" Sources/drive/kohaerenz-protokoll.md -> (present, but never beside Wohnmodul; see L140)
+plot: grep -c "Kap 0" Sources/drive/kohaerenz-protokoll.md -> 0
+plot: grep -c "Kap 40" Sources/drive/kohaerenz-protokoll.md -> 0
+plot: grep -c "Kapitel 0" Sources/drive/kohaerenz-protokoll.md -> 0
+plot: grep -c "Kapitel 40" Sources/drive/kohaerenz-protokoll.md -> 0
+plot: grep -c "Kapitel 13" Sources/drive/kohaerenz-protokoll.md -> 0
+kap-14..kap-23: grep -ciw <word> Sources/drive/kohaerenz-protokoll.md
+kap-14..kap-23: Mnemosyne=0 Ticket=0 Dossier=0 Turing=0 Halteproblem=0 Nyx=0 Kiko=0 Diktatur=0 Oblivion=0 Pursuit=0 Trennungsprotokoll=0 (Wächterin=1, at L987, Kapitel 12 — not in Kap 14-23)

@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,16 @@ Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-pri
 - Plot: „Nach dem abgewehrten Angriff vertieft sich die K-J Verbindung.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L224] · „Sie ist nicht nur eine Verbindung, sondern eine Signatur von“ ^[monstergruppe-primzahlen-plot-blueprint.md:L224] Moonshine — an expression of M's deepest symmetries.
 - AEGIS: „entdeckt erstmals Spuren dieser Moonshine-Signatur“ ^[monstergruppe-primzahlen-plot-blueprint.md:L224], one it cannot decode.
 - Kael's arc: „Er erreicht die Phase der“ ^[monstergruppe-primzahlen-plot-blueprint.md:L226] Erleuchtung (Midpoint) fully; „Dies ist ein entscheidender Schritt zur Integration und zum Verständnis seiner eigenen Natur als M-Resonator.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L226]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the same two headers as this document's Kapitel 17, a different project
+
+Title: „Der Tanz der Fragmente“ ^[kohaerenz-protokoll.md:L2074]
+Position: „Funktionale Multiplizität / Cache Kohärenz (Konflikt)“ ^[kohaerenz-protokoll.md:L2076] · „Zyklus 2, Phase 2: Test (Alltag)“ ^[kohaerenz-protokoll.md:L2078]
+
+- This chapter's Fundamentales Konzept and Zyklische-Struktur headers repeat Kapitel 17's word for word; the project, the place and the supervising Guardian all differ. State it; not resolved.
+- Where: „ORT: LY-SIGMA-1, SEKTOR EMERGENTER STRUKTUREN.“ ^[kohaerenz-protokoll.md:L2092]
+- Story: a new assignment, „PROJEKT: RESONANZ-BRÜCKE LY-BETA-7.“ ^[kohaerenz-protokoll.md:L2090], timed at „ZEITRAHMEN: 48.0 STANDARDSTUNDEN.“ ^[kohaerenz-protokoll.md:L2100] and supervised by „SUPERVISION: MÖGLICHKEITS-WEBER.“ ^[kohaerenz-protokoll.md:L2104]; Kael resolves a Co1/McL cache conflict inside himself and the bridge holds under stress-testing, „Es funktionierte. Die Brücke hielt. Die Kohärenz war stabil.“ ^[kohaerenz-protokoll.md:L2178]
+- Voice: third person on Kael; the system directive in capitals, his own Anteile in italics.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -138,6 +148,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - **Genesis flashback.** „KW2 / Genesis-Flashback“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Flashbacks beginnen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] (Kernwelten vollständig) · „Kap 18, 21, 22 als Flashback-Träger gesetzt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371] (strukturierter Outline) · „Beginn Genesis-Flashback-Cluster (Kap 18–22)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343] (storyform outline). (C12)
 - **First conscious Pursuit.** „Erste bewusste Pursuit-Bewegung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1000] (konsolidiertes Konzept) · „MC-Solution Pursuit — erste bewusste Bewegung, aktiv neue Wege suchen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L713] (strukturierter Outline), which says the same of Kap 17: „Erste bewusste Pursuit-Bewegung. Driver-Anker A: Decision, aktiv hinschauen statt wegsehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline).
 - **Title.** „Lyons-Welt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L582] (Konzept-Iteration Genesis) · „Z2-Korrektur: Lyons-Kreativität“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L707] (strukturierter Outline; „Z2-Lyons-Kreativität“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L999] konsolidiertes Konzept, so too storyform outline). The first is a place in the strukturierter Outline: „Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff) um AEGIS' Interventionen kreativ zu umgehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] (strukturierter Outline) · „Die Jagd durch das Archiv“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L150] (the Hard-SF-Outline).
+- **The Kohärenz-Protokoll narrative.** Its title, „Der Tanz der Fragmente“ ^[kohaerenz-protokoll.md:L2074] (the Kohärenz-Protokoll narrative, 2025-04-27) — the chapter plays in the Lyons-Welt, for a Resonanz-Brücke project rather than for Pursuit or a Genesis-Flashback, and its own two header lines only repeat this document's Kapitel 17.
 
 ## Questions for this chapter
 

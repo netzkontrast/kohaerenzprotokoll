@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,16 @@ Title: „Unstabiles Gleichgewicht“ ^[monstergruppe-primzahlen-plot-blueprint.
 Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
 
 - Establishes: „lösen aufgrund seiner M-Resonanz unerwartete und unverhältnismäßig große Effekte in der Kernwelt aus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L164]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+Title: „Der Bruch“ ^[kohaerenz-protokoll.md:L1462]
+Position: „AEGIS' Fragilität / Risse / Cache Kohärenz (Konflikt)“ ^[kohaerenz-protokoll.md:L1464] · „Phase 1: Der Bruch (Realitätscheck)“ ^[kohaerenz-protokoll.md:L1466]
+
+- Where: an Omega-priority order transfers Kael from McL-Sigma-3 into Beta-Rho-5, „STATUS: KRITISCHE SYSTEMWARNUNG – SEKTOR BETA-RHO-5 (KERNWELT-TYP B)“ ^[kohaerenz-protokoll.md:L1484], „Kernwelt Typ B. Beta-Rho-5. Er wusste, was das bedeutete. Die Baby-Monster-Welt.“ ^[kohaerenz-protokoll.md:L1500]
+- Story: AEGIS orders him to destroy the Juna connection it blames for the world's entropy cascade, „BEFEHL: K-1123. PRIORISIERE IDENTIFIKATION UND NEUTRALISIERUNG DER SUB-PROTOKOLLARISCHEN SIGNATUR.“ ^[kohaerenz-protokoll.md:L1544], and he refuses it, „Nein, dachte Kael, und diesmal war es keine Stimme eines Teils, sondern seine eigene, integrierte Stimme.“ ^[kohaerenz-protokoll.md:L1578]
+- Voice: third person on Kael; AEGIS' commands stand in capitals, and his inner Anteile speak in italics.
+- Close: „Der Bruch war geschehen. Die Realität seiner Situation war klar. Der Zyklus hatte begonnen.“ ^[kohaerenz-protokoll.md:L1588]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -161,6 +171,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 
 - **Title.** „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept) · „Das Archiv der Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as its Teil-IX working title, „Bruch des Gleichgewichts“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339] (storyform outline); the second is the Kernwelten document's place for the chapter, „KW2 Archiv der Grenzen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840] (Kernwelten vollständig). The worldbuilding concept gives the Archiv der Grenzen as the chapter's place: „Ort, an dem Kael die technischen Dossiers von AEGIS findet (Ch14).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] (the worldbuilding concept).
 - **The Hard-SF-Outline.** „Die Ruinen der Erinnerung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] (the Hard-SF-Outline, 2026-04-08) — a new title; Kap 14 opens KW2 as an archive, „Kael schlägt hart auf dem Boden des Mnemosyne-Archivs (KW2) auf.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
+- **The Kohärenz-Protokoll narrative.** Its title, „Der Bruch“ ^[kohaerenz-protokoll.md:L1462] (the Kohärenz-Protokoll narrative, 2025-04-27), and its world: the chapter plays in Beta-Rho-5, the Baby-Monster-Welt, not KW2's Archiv der Grenzen — AEGIS orders the Juna-connection destroyed and Kael refuses, with no Mnemosyne, no ticket and no dossier.
 
 ## Questions for this chapter
 

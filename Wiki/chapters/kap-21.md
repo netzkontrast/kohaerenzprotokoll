@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,15 @@ Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-pri
 - Plot: Kael beginnt, die Sprache der Moonshine-Signatur zu verstehen und zu nutzen — „der Moonshine-Signatur zu verstehen und zu nutzen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L234] — „Dies verleiht ihm neue Fähigkeiten innerhalb der Simulation“ ^[monstergruppe-primzahlen-plot-blueprint.md:L234].
 - Integration: „Kael interagiert nun bewusst mit dem M-Fundament auf einer tieferen Ebene“ ^[monstergruppe-primzahlen-plot-blueprint.md:L235].
 - AEGIS: „AEGIS beobachtet diese neuen Fähigkeiten mit wachsender Ratlosigkeit und Alarmbereitschaft“ ^[monstergruppe-primzahlen-plot-blueprint.md:L234].
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+Title: „An den Nähten der Welt“ ^[kohaerenz-protokoll.md:L2194]
+Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-protokoll.md:L2196] · „Zyklus 2, Phase 4: Konfrontation (Grenzen der Simulation)“ ^[kohaerenz-protokoll.md:L2198]
+
+- Where: still Ly-Sigma-1, at the Resonanz-Brücke built in Kapitel 20.
+- Story: Kael tunes the bridge to probe what lies beyond it, detecting a „nicht-algorithmische Quelle“ ^[kohaerenz-protokoll.md:L2214] behind Epsilon-Null's noise; AEGIS classifies the resulting information as a threat, „WARNUNG: UNIDENTIFIZIERTE HOCHKOMPLEXE INFORMATIONSMUSTER DETEKTIERT IN KWS-CO1-MCL-BETA7.“ ^[kohaerenz-protokoll.md:L2238] and tries to seal the sector; Kael pushes through it and concludes „Er erkannte, dass AEGIS' Kontrolle nicht absolut war.“ ^[kohaerenz-protokoll.md:L2264], „Er hatte das Potentialmeer berührt.“ ^[kohaerenz-protokoll.md:L2266]
+- Voice: third person on Kael; AEGIS in system capitals, the Möglichkeits-Weber warns him in dialogue.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -140,6 +149,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 
 - **Storyform, B's relationship throughline.** „B: RS-Physics, Moonshine-Spüren des Potentialmeers“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588] (Konzept-Iteration Genesis) · „A: MC-Concern, Juna-Echo. B: RS-Physics, Moonshine-Spüren.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1002] (konsolidiertes Konzept) · „RS-S2 (B) Conceiving — AEGIS reformuliert Kael als unkontrollierbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L737] (strukturierter Outline).
 - **Title.** „Membran“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L586] (Konzept-Iteration Genesis) · „Z3-Simulationsgrenze + Genesis-Flashback“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1001] (konsolidiertes Konzept) · „Z3-Destabilisierung + Genesis-Flashback (Trennungsprotokoll)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L731] (strukturierter Outline); the last opens with the Genesis document's stage name, „Z3-Destabilisierung, Genesis-Cluster Mitte“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L586] (Konzept-Iteration Genesis) · „Entropische Gravitation (Episches Set-Piece)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L154] (the Hard-SF-Outline).
+- **The Kohärenz-Protokoll narrative.** Its title, „An den Nähten der Welt“ ^[kohaerenz-protokoll.md:L2194] (the Kohärenz-Protokoll narrative, 2025-04-27) — a simulation-boundary chapter, with no Genesis-Flashback and no Trennungsprotokoll beat: only Kael probing the bridge he built in his own Kapitel 20.
 
 ## Questions for this chapter
 

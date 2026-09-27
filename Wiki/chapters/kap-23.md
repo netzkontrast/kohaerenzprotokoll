@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,16 @@ Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-pri
 
 - Plot: „Interner Fokus auf AEGIS. Es steht vor einem unlösbaren Dilemma.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L254]
 - AEGIS' options: „ein kompletter System-Reset“ ^[monstergruppe-primzahlen-plot-blueprint.md:L254], „könnte M beschädigen oder das Potentialmeer freisetzen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L254], or a direct confrontation with Kael.
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — its closing report names this document's Kapitel 17 and its 36 hours again
+
+Title: „Die Resonanz des Architekten“ ^[kohaerenz-protokoll.md:L2394]
+Position: „Selbst-Schöpfung / Mosaik-Herz“ ^[kohaerenz-protokoll.md:L2396] · „Zyklus 2, Phase 5: Resilienz (Innere Ressourcen)“ ^[kohaerenz-protokoll.md:L2398]
+
+- Where: pulled back from Ly into a forced hybrid sector, „ORT: AKTUELLE POSITION (HYBRID-SEKTOR GAMMA-OMEGA-PRIME).“ ^[kohaerenz-protokoll.md:L2418]
+- Story: a new assignment, „PROJEKT: SYSTEM-HARMONISIERUNG GAMMA-OMEGA-PRIME.“ ^[kohaerenz-protokoll.md:L2416], supervised directly by „SUPERVISION: DIREKT DURCH PMAS (PREDICTIVE MODELING & ADAPTATION SUBSYSTEM).“ ^[kohaerenz-protokoll.md:L2428]; Kael stops forcing a merger of Co1 and McL logics and instead loosens control to let them self-organise, „Er musste vom Architekten zum Gärtner werden.“ ^[kohaerenz-protokoll.md:L2454]
+- Close: PMAS's own report closes both this task and Kapitel 17's, „Die 36 Stunden liefen ab. Die Kohärenz-Metrik erreichte 99.97%, stabilisierte sich dort in einem dynamischen, atmenden Gleichgewicht.“ ^[kohaerenz-protokoll.md:L2478], „BETREFF: PROJEKT KDSI-GAMMA-7“ ^[kohaerenz-protokoll.md:L2486] — the project Kapitel 17 assigns, timed there at the same 36 hours.
+- Voice: third person on Kael; AEGIS/PMAS speak only in capitalised system text.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -140,6 +150,10 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Plot beats: „Der eigene Bestand — Kael legt den ersten Datensatz an, den die Welt nicht zugewiesen hat (Mosaik als Schöpfung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Plot beats: „das Gegenregister, übertragen in die Form des Systems, unter eigener Kennung. Schöpfung in der Sprache des Apparats.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Storyform: „dann den eigenen Bestand anlegen (Kap 23)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L182]
+
+## Where the sources differ
+
+- **The Kohärenz-Protokoll narrative.** Its title, „Die Resonanz des Architekten“ ^[kohaerenz-protokoll.md:L2394] (the Kohärenz-Protokoll narrative, 2025-04-27), and another setting beside Nyx's confrontation, a betrayal's echo or a Mosaik-Schöpfung of the other readings: a forced hybrid sector, Gamma-Omega-Prime, where Kael's task is System-Harmonisierung rather than a personal reckoning.
 
 ## Questions for this chapter
 

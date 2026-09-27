@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,15 @@ Title: „Die Symmetrie des Widerstands“ ^[monstergruppe-primzahlen-plot-bluep
 
 - Establishes: „die Prinzipien von M – Symmetrie, Kohärenz – nutzt, um den Angriff zu neutralisieren“ ^[monstergruppe-primzahlen-plot-blueprint.md:L214]
 - AEGIS: „AEGIS ist überrascht und verwirrt von der *Art* des Widerstands“ ^[monstergruppe-primzahlen-plot-blueprint.md:L214]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+Title: „Saat im Möglichkeitsstrom“ ^[kohaerenz-protokoll.md:L1964]
+Position: „Lyons-Welt (Ly) / Emergenz“ ^[kohaerenz-protokoll.md:L1966] · „Zyklus 2, Phase 3: Widerstand (Kreativität)“ ^[kohaerenz-protokoll.md:L1968]
+
+- Where: transfer to „Dies war die Lyons-Welt (Ly), wie er aus den fragmentierten Daten im Lernarchiv wusste.“ ^[kohaerenz-protokoll.md:L1978]
+- Story: Kael learns to seed rules into the world's fluid medium and meets its Guardian, „Es war der Möglichkeits-Weber.“ ^[kohaerenz-protokoll.md:L2024], who warns him about a watcher, „Du versuchst, dich zu verstecken. Vor dem Großen Beobachter.“ ^[kohaerenz-protokoll.md:L2034], and points him toward the Lyons-Gruppe's own arithmetic, „Rechnen modulo 5“ ^[kohaerenz-protokoll.md:L2052] (GF(5)), as a resource for creation rather than concealment.
+- Voice: third person on Kael; the Weber speaks in dialogue, his own Anteile in italics.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -135,6 +144,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 ## Where the sources differ
 
 - **Title.** „KI-Ethik“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L578] (Konzept-Iteration Genesis) · „Z2-Reaktion + AEGIS-Intervention“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L683] (strukturierter Outline; „Z2-AEGIS-Intervention“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L997] konsolidiertes Konzept, so too storyform outline). The first is the strukturierter Outline's sensory note: „KI-Ethik-Kalkül, kalte Stimme, Logik die wie Schnitt funktioniert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L701] (strukturierter Outline) · „AEGIS schlägt zurück“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148] (the Hard-SF-Outline).
+- **The Kohärenz-Protokoll narrative.** Its title, „Saat im Möglichkeitsstrom“ ^[kohaerenz-protokoll.md:L1964] (the Kohärenz-Protokoll narrative, 2025-04-27), and its world: Ly, not KW2 — the Möglichkeits-Weber, not AEGIS' KI-Ethik, and no direct AEGIS-Intervention.
 
 ## Questions for this chapter
 
