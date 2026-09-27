@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 30
+sources: 33
 pages: ["juna"]
 ---
 
@@ -272,6 +272,24 @@ Neither Kap 33 nor Kap 38. The conflict stays open.
 „Stylistic Constraint: Strictly prohibited physical descriptions (no hair, no height)." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L68] „She is synthesized through "Phantom-Resonances" and the "Phone-Silence" anchor" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L69]. Its fifth mandate: „No Deus Ex Machina: Juna witnesses; she does not solve." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L102] Its mandates are recorded, not applied.
 `Kap` stands 0 times; its three `Ch.` are the act ranges (L57–L59), which do not name her (`05-verify-readers.txt`).
 Neither Kap 33 nor Kap 38: a rule of rendering, on the date of the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**Neither row — a fourth chaptering, with her scenes spread from Kapitel 3 to Kapitel 34 and her entry into the system her last, not her first.**
+Kapitel 3: „Für den Bruchteil einer Mikrosekunde flackert das Bild von Juna auf – eine B+C-Superposition, ein Ghost in der Maschine." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98] Kapitel 10: „Juna übermittelt keine Worte, sondern eine topologische Koordinate, tief verborgen in Kernwelt 2." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120] Kapitel 22: „Juna manifestiert sich als schimmerndes Hologramm." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156] Kapitel 34, titled „Die Integration von Juna" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190]: „Sie tritt in das System Kael ein" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190].
+So this document places four scenes across the book and makes the canon-era sources' first direct appearance (Kap 38) or single scene (Kap 33) into her last of four — the entry into the system, not an emergence from concealment. Neither Kap 33 nor Kap 38, five to seven weeks before either canon-era source.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Neither row: a visible, chaptered Juna across five chapters, unlike every canon-era source's rule against describing her.**
+Kapitel 3: „blitzt für den Bruchteil einer Mikrosekunde das Bild einer Frau – Juna – auf den Monitoren auf" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L59]. Kapitel 12: „Plötzlich tritt Juna in den Raum. Sie steht direkt vor dem Guardian" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]. Kapitel 22: „greift Juna durch die scheinbar undurchdringliche Quantenstruktur der Wand" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L101]. Kapitel 26, unmasked: „In einem Moment gleißender Klarheit erkennt Kael, dass Juna keine externe Entität oder KI-Anomalie ist. Sie ist die unzerstörbare relationale Essenz zwischen seinen eigenen gespaltenen Anteilen." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109] Kapitel 33: „schickt Kael ihre Essenz tief in einen Mikroriss seiner eigenen Psyche." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127]
+Neither Kap 33 alone nor a first direct appearance in Kap 38 — she appears repeatedly from Kapitel 3 on, and Kapitel 33 here is a rescue, not her only scene. On its date, ten weeks before the character bible, the earliest read source to place her in named chapters at all.
+
+## 2026-09-27 — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+**Neither row — the document never names Juna, only `J` (J111), and places no scene for her.**
+The K-J Verbindung's first conscious contact is Kapitel 11, „Der erste bewusste Kontakt" ^[monstergruppe-primzahlen-plot-blueprint.md:L127]: „gelingt Kael der erste kurze, aber bewusste Kontakt mit J durch die nicht-lokale Verbindung." ^[monstergruppe-primzahlen-plot-blueprint.md:L130] Earlier, in Kapitel 2, „Das Echo" ^[monstergruppe-primzahlen-plot-blueprint.md:L37], the connection is only „eine erste, unmerkliche Vorstufe" ^[monstergruppe-primzahlen-plot-blueprint.md:L33], not yet conscious. `J` is never physically present in a scene; the connection is `nicht-lokal` throughout, and her separateness as an entity is left open at the end: „Wenn J eine separate Entität ist, könnte ihr Schicksal […] angedeutet werden" ^[monstergruppe-primzahlen-plot-blueprint.md:L406]. `Juna` and `Julia` stand 0 times.
+Nearest the canon-era rule against describing her — never a scene — but for a different reason: the oldest read source does not yet have the name.
 
 ## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
 

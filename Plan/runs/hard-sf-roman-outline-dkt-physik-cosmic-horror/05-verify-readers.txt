@@ -32,3 +32,7 @@ archiv-der-grenzen.md: not read — grep -c 'Archiv der Grenzen' Sources/drive/h
 c5-garten-scale.md: not changed — grep -c 'Möglichkeits-Garten\|Garten der Möglichkeiten' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
 q1-guardians-and-aegis.md: not changed — no sentence relates a Guardian to AEGIS directly; each acts in its own world (LogOS Kap 6, Mnemosyne Kap 15, Kairos/Sophia Kap 30)
 q4-waechter-four-bearers.md: not changed — grep -cw Wächter Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0; Guardian/Guardians only, same all-English pattern as document 5
+chaitin-konstante.md: not read — grep -ciw Chaitin Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+blinder-fleck.md: not read — grep -ciw Fleck Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+mosaik-herz.md: not read — grep -ciw Mosaik Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+c1-aegis-expansion.md: not changed — grep -c Autonomous Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0

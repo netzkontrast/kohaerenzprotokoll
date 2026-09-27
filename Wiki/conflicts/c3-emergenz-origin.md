@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 17
+sources: 19
 pages: ["emergenz", "aegis"]
 ---
 
@@ -140,6 +140,17 @@ The konsolidiertes Konzept's third origin, in its words and on its date; nearest
 `Emergenz` and `emergent` stand 0 times; `Leere` once, to deny that the Nichts-Rauschen is one: „keine Leere, keine Bedrohung, sondern der Zustand, in dem alle Coheronen gleichzeitig und immer existieren" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L122]. The document does not relate the Unity to the Nichts-Rauschen. `Abwehrarchitektur` stands 0 times, and Kael comes after the separation, as a component, not before it as its source (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`).
 On what this record says the conflict decides, AEGIS has an outside and is wrong about its world: the separation answers a resonance misread, „als existenzielle Bedrohung fehlgelesen" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L275]; „Juna existiert außerhalb der axiomatischen Basis, in der AEGIS überhaupt operiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]; and the Foundation's symmetry structures are those „aus denen alle Realitäten (inklusive AEGIS' Simulation) abgeleitet sind" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L701].
 Neither row 1 (from nothing) nor row 2 (from the simulation's dynamics) nor the konsolidiertes Konzept's third origin (Kael's defence): an origin in a unity the system splits, nearest the master report's entry — the system acts in the Genesis and Kael results. On the consequence, nearest position 2. The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**The third origin, from Kael, in Moros' voice — five weeks before the Ultra-Plot's own version of it, in the same register.**
+„AEGIS, der Antagonist, ist kein bösartiges Konstrukt, sondern ein tragischer, algorithmischer Täter-Introjekt, das aus der Genesis-Krise (der Fragmentierungsnacht) entstand." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L64] In Kapitel 23: „Sie entstand in einem Moment unendlichen Schmerzes (der Genesis-Krise) aus dem Protagonisten selbst, um ihn vor dem totalen Wahnsinn zu bewahren." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+`Emergenz` and `emergent` stand 0 times (`05-verify-readers.txt`). Nearest the konsolidiertes Konzept's third origin — a defence born of Kael's own crisis — without naming an Abwehrarchitektur or a Trennungsprotokoll, and with a named voice (Moros) attributing it inside the story rather than the report's own analysis. On the consequence, nearest position 2: it later fails outright to grasp its own creator's structure (`aegis` D41 reading, C4). The conflict stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**The third origin, from Kael, and the earliest-dated read source to give it.** „Die Welt, wie sie der Protagonist Kael in der Konstrukt-Stadt erlebt, ist ein phänomenales Selbstmodell, das von der Entität AEGIS […] durch absolute logische Kontrolle künstlich stabilisiert wird." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L17] „AEGIS fungiert hierbei als externalisiertes Täterintrojekt, das Entropie und Komplexität durch Zwang ausmerzt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L17]
+`Emergenz` and `emergent` occur only for the K-J connection and for complex-systems effects, never for AEGIS' own origin (`Genesis` 0, `Fragmentierungsnacht` 0). Nearest the konsolidiertes Konzept's third origin — a defence externalised into the world it governs — eleven weeks before it, and without naming Kael's psyche the source or a Genesis for the split. On the consequence, nearest position 2: it later fails to parse Juna at all (Kapitel 12, C4). The conflict stays open.
 
 ## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
 

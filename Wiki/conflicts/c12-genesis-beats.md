@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 25
+sources: 26
 pages: ["trennungsprotokoll"]
 ---
 
@@ -257,3 +257,9 @@ Row 1's count and order, on row 2's date. On component or remainder, a third pos
 „(The Fracture - Fragmentation Night): The "Algorithmische Selbstamputation."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „AEGIS misinterpreted emotional fluctuation as fatal system entropy." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „To "save" the psyche, it initiated the Separation Protocol" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43], „banishing the original "Ich"" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] — Juna.
 `Genesis`, `734`, `Unity` and `Beat` stand 0 times (`05-verify-readers.txt`).
 On no row: no count and no component. It has only the worldbuilding concept's second telling, the Fragmentierungsnacht with Juna the Ursprungs-Ich split off, which that document does not relate to its beats (J68). The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**No beats counted or ordered — a two-layer origin trauma instead, months before either row.**
+Fixed point 10: „**Origin Trauma = Doppelter Boden:** Layer 1 (Bindungstrauma), Layer 2 (Fragmentierungsnacht als Twist)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224] The Fragmentierungsnacht itself is named the Genesis-Krise: „AEGIS, der Antagonist, ist kein bösartiges Konstrukt, sondern ein tragischer, algorithmischer Täter-Introjekt, das aus der Genesis-Krise (der Fragmentierungsnacht) entstand." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L64]
+`Beat`, `734`, `Wir-AEGIS` and `Einheit` stand 0 times (`05-verify-readers.txt`). On no row: not a count of the Genesis but a childhood attachment trauma (Kapitel 16, via Kiko) placed before it as a second, earlier layer — a structure no other read source states. The conflict stays open.

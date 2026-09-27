@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 25
+sources: 28
 pages: ["aegis"]
 ---
 
@@ -189,6 +189,22 @@ A table, „System Logs (K0) vs. Sensory Hallucinations (K1)" ^[mining-report-ko
 **Never in prose, only the log — the worldbuilding concept's rule, in English.**
 „AEGIS never speaks in prose; it speaks in the" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L73] AEGIS-Log-Format. „Moral vocabulary (good/evil) is forbidden." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L73] „Mandatory AEGIS-Log-Template:" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L74], with German fields (L76–L92).
 `person` and `POV` stand 0 times; its chapters are act ranges (Ch. 1-13, 14-26, 27-39), with no AEGIS chapter. Row 2's side, in the words of row 7 and the worldbuilding concept, „AEGIS spricht nie in Prosa." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L259]. The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**Row 1's side, stated as a fixed point rather than a chapter rule — never a dialogue figure, in Akt I and Akt II by name.**
+Among its thirteen Fixpunkte: „AEGIS = Umgebungsbedingung:" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L221] „In Akt I-II keine Dialogfigur." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L221] In Kapitel 1–26: „AEGIS tritt ausschließlich als Hitze, Ozon, Architektur-Verschiebung und Schwerkraftanomalie auf." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L221] Even in Kapitel 32, where Kael reaches its seat: „AEGIS manifestiert sich als eine fraktale, tragische Naturgewalt, die in einer endlosen SARM-Rekursion […] gefangen ist." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184] `Log` and `Person` stand 0 times; `Prosa` once, for the report's own „Prosa-Outline" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L15], never AEGIS'; `Dialogfigur` once, in the fixed point itself (`05-verify-readers.txt`). Row 1's side, three to seven weeks before the character bible and the lock — a rule narrower than „never" only in naming the acts it covers, with no Kap 5–8 exception stated.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Row 2's side, months early — a closing log report, and the only chapter that could carry a voice for AEGIS is a status format, not prose.**
+Kapitel 39, „Statusbericht – Zielkohärenz erreicht" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139]: „Der Roman schließt nicht mit einem traditionellen Epilog, sondern mit einem maschinellen AEGIS-Systembericht, generiert aus dem Post-Quantum-Zustand." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139] „Die Form ist striktes K1-Protokoll" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139], and the report itself: „Das System meldet: „Zielkohärenz v2.0 erreicht. Residuale Entropie innerhalb der lebensnotwendigen Parameter.““ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139]
+`Ich` never stands for AEGIS and no chapter 5–8 is named for it (its Kap 5 is „Das Halteproblem und das Nichts-Rauschen" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L63], about the Wächter-drones). A report is a log, not an inner view; nearest row 2, on the earliest date of any read source in this record.
+
+## 2026-09-27 — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+**No rule stated either way — and one chapter's summary offers AEGIS an interior it never confirms in prose.**
+Kapitel 9, „AEGIS' Analyse-Krise" ^[monstergruppe-primzahlen-plot-blueprint.md:L107]: „Interne Monologe oder Darstellungen seiner Verarbeitungsprozesse zeigen seine Verwirrung und Frustration." ^[monstergruppe-primzahlen-plot-blueprint.md:L110] This is a plot summary's suggestion of technique — „Monologe oder Darstellungen" ^[monstergruppe-primzahlen-plot-blueprint.md:L110] — not a stated first person, and the document names no chapter range, no lock and no lens word for it (`Person`, `Prosa` 0; the document's one `ich` is Kael's, at Kapitel 2 — `05-verify-readers.txt`). Neither row: the oldest read source, before any lock, offering the possibility without committing to it.
 
 ## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
 

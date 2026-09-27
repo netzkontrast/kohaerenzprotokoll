@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 23
+sources: 26
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -307,6 +307,24 @@ Position 1's bearer; beside it one Guardian's own limit, position 2's kind, not 
 **The system's categorization error, and what it cannot calculate — no Guardian at all.**
 „a rigorous cognitive audit reveals that the protocol suffers from a fundamental categorization error within its autopoietic closure." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] Separation is „a temporal artifact caused by the system's inability to calculate information existing outside of linear time." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L21]
 `Guardian` and `Mnemosyne` stand 0 times (`05-verify.txt`), `blind` 0. Position 1's bearer, the system as AEGIS; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**A fourth kind: the Guardians wield AEGIS' named protocols in a chapter each, but are never called its parts.**
+Kapitel 11: „zwingt LogOS Kael in eine unlösbare, paradoxe Logik-Schleife (CogFirewall)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] Kapitel 25: „Gemeinsam nutzen sie ihre diversen Fähigkeiten, um die SIS-Protokolle (Systemic Identity Safeguard) von Cerberus zu überlasten." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162] No Guardian is named as a component of AEGIS and no blind spot of AEGIS' is stated about the Guardians; `Guardian` and `blind` do not co-occur (`05-verify-readers.txt`).
+Nearest document 6's placement (protocol registries, parameters seated in AEGIS' domain) rather than document 5's principal–agent question: a Guardian here is an executor of a named protocol, not an agent with a domain of its own to be blind within. The conflict stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**A third kind: AEGIS and one Guardian share the same blindness in one sentence, unlike either bearer above.**
+Kapitel 12, „Der blinde Fleck des Rationalismus" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]: „AEGIS und LogOS können die relationale Qualität von Juna (Qualia) logisch nicht parsen; für sie ist Juna ein Kategorienfehler." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77] „Kael erkennt, dass die Maschine nicht unfehlbar, sondern fundamental blind ist." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]
+This is neither position 1 (AEGIS alone) nor position 2 (each Guardian from its own domain): the failure is named for AEGIS and LogOS together, as one incapacity, with no domain-specific reason given for LogOS. The other three Guardians — Mnemosyne, Cerberus, Kairos and Sophia — are given no blind spot anywhere in the document (`blind` stands once, at L77). Elsewhere the Guardians are placed under their Kernwelten with a role each ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L40-L43], never called AEGIS' components or its peers. The conflict stays open, and this document does not close the gap it names — LogOS and AEGIS share a sentence, but not a stated relation.
+
+## 2026-09-27 — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+**Position 1's bearer, by comparison only — and the Wächter introduced as AEGIS' own protocol, never a separate blind spot.**
+Kapitel 8–9: AEGIS' failure to grasp the M-Resonanzwelle „zeigt hier möglicherweise Verhaltensweisen, die an KI-Blind Spots erinnern, unfähig, die wahre Natur des Ereignisses zu \"sehen\", obwohl es Daten darüber sammelt." ^[monstergruppe-primzahlen-plot-blueprint.md:L104] The Wächter are introduced „Als Teil von Protokoll Omega-Sieben" ^[monstergruppe-primzahlen-plot-blueprint.md:L60] — subtile Manipulationen or „KI-Konstrukte, die als normale Bewohner der Kernwelt getarnt sind" ^[monstergruppe-primzahlen-plot-blueprint.md:L60], AEGIS' own instrument for a stated task, not entities with a domain of their own. No Guardian is given a failure of perception; `Guardian` stands 0 times, `Guardians` once and `Wächter` 18 times, always as AEGIS' agents (`Plan/runs/monstergruppe-primzahlen-plot-blueprint/05-verify-readers.txt`).
+Nearest position 1 by analogy (a comparison to AI blind spots, not the document's own term `blinder Fleck`), and nearest document 5's frame — a delegated agent under AEGIS — without that document's question of how much autonomy the agent has. The conflict stays open.
 
 ## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
 

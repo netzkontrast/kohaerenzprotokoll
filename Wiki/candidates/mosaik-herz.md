@@ -1,22 +1,24 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung"]
 gathered: "2026-09-24"
 ---
 
 # Mosaik-Herz
 
-**One name for two things: a Kap-11 story beat, and a Kap-34 place.** Ten read
-sources use it. Six name the Kap-11 beat and five name Kap 34, as a place or a beat
-before the [[vortex|Vortex]]; the konsolidiertes Konzept and the strukturierter Outline
-name both. Two also make it an inner resource in Kap 23. (Until the worldbuilding
+**One name for at least three things: a Kap-11 story beat, a Kap-34 place, and — in one source — what Kap 34 itself is titled and what forms there.** Eleven read
+sources use it. Six name the Kap-11 beat and six name Kap 34, as a place, a beat
+before the [[vortex|Vortex]], or the chapter's own title; the konsolidiertes Konzept and the strukturierter Outline
+name both Kap 11 and Kap 34. Two also make it an inner resource in Kap 23. (Until the worldbuilding
 concept was read this said four sources, one of them using it both ways.) The tenth,
 the Dramatica-Synthese of 2026-04-30, names neither: in its table it is Juna, the IC of
-Storyform A (its L126). (Until it was read this said nine sources.)
+Storyform A (its L126). (Until it was read this said nine sources.) The Ultra-Plot of
+2026-02-26 makes it Kap 34's own title and the product formed there from the fused
+alters and Juna's saved essence, not merely a place named in passing (`05-verify-readers.txt`).
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -79,3 +81,8 @@ No Kap-11 beat and no Kap-23 resource: its only other `Mosaik` is a reader-archi
 ## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — a name for Juna, in Storyform A's IC table
 
 Neither the beat nor the place: the bearer cell of Juna's throughline, the IC of Storyform A, reads „Juna (Die Asymmetrie, das" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L126] „Mosaik-Herz" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L126] „des Chaos)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L126]. It stands once (`Mosaik` 1), in no chapter (`Kap` 0) and in no world (`KW4` 0; `05-verify-readers.txt`).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — Kapitel 34's own title, and a third sense: what the fusion and the saved information together form
+
+**A third reading — neither the Kap-11 beat nor the Kap-34 place alone, but the product of both.** Kapitel 34 is itself titled „Das Mosaik-Herz (Synthese)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129] (J9 — a title, so recorded here for what the chapter's own text adds beyond it): „Die zersplitterten Alters und die gerettete Information formen das „Mosaik-Herz“." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129] It is not a place Kael enters or a beat of acceptance, but what results — the fused alters (Kapitel 31's Wir-Geflecht) together with Juna's essence, saved from erasure in Kapitel 33 (^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127]) — see [[multiplizitaet|Multiplizität]], [[juna|Juna]].
+It is also where the two kernels stop opposing each other: „Die Dual-Kernel-Theorie wird zur gelebten Erfahrung." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129] „Ordnung (K1) und Entropie (K0) existieren simultan in perfekter Balance." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129] No other read source makes it a chapter's own title, and none places it after Kapitel 33 rather than before a Vortex it does not name (`Vortex` 0).

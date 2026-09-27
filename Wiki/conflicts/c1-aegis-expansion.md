@@ -4,7 +4,7 @@ subject: AEGIS
 kind: expansion of an acronym
 status: open
 first_seen: "2026-09-16"
-sources: 11
+sources: 12
 pages: ["aegis"]
 ---
 
@@ -117,6 +117,11 @@ An architect of the city it governs, not the substrate the city emerges from. Ne
 **Position 1's expansion, and no other — the monitoring entity inside the [[kael|Kael]] system.**
 „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is an autopoietic system defined by the tautology:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L47]
 Inside, not beneath: „The monitoring entity, AEGIS, operates under a catastrophic category error:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative Integrity` 0). Position 1's side; the conflict stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Position 1's expansion, the earliest-dated read source to give it, and no other.**
+„AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L17]. Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative` 0). It does not say which expansion it supersedes. On the second open question it goes further than most: „AEGIS fungiert hierbei als externalisiertes Täterintrojekt" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L17] — the gatekeeper beside a substrate that is Kael's own defence, externalised, as the konsolidiertes Konzept and the Physics of Heartbreak later say in nearly the same words, nine and more weeks before either. Position 1's side; the conflict stays open.
 
 ## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
 

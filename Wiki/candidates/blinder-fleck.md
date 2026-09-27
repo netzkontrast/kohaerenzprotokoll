@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung"]
 gathered: "2026-09-17"
 ---
 
@@ -148,3 +148,8 @@ A Guardian's limit is given too — Mnemosyne's: „Her tragedy is holding the t
 
 **Not named as a blind spot** (`blind` 0). „a rigorous cognitive audit reveals that the protocol suffers from a fundamental categorization error within its autopoietic closure." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] „The "Great Inversion" lies in the system's misreading of its own architecture." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] Separation is „a temporal artifact caused by the system's inability to calculate information existing outside of linear time." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L21]
 What it cannot calculate here is love as an atemporal [[coheron|Coheron]] — near the cause the konzept master report gives, AEGIS' temporal sensorics (its L206).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — a chapter titled with the term, and two bearers named in one sentence
+
+**Named, in the chapter's own title, and shared by AEGIS and a Guardian at once — a shape no other read source gives it.** Kapitel 12: „Der blinde Fleck des Rationalismus" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77] Juna stands unseen before LogOS: „Sie steht direkt vor dem Guardian, doch dieser registriert nur leeren Raum." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77] The failure is named for both machines together, not for AEGIS alone or LogOS' domain: „AEGIS und LogOS können die relationale Qualität von Juna (Qualia) logisch nicht parsen; für sie ist Juna ein Kategorienfehler." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77] Kael names it in the same breath: „Kael erkennt, dass die Maschine nicht unfehlbar, sondern fundamental blind ist." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]
+What it cannot see here is Juna's relational quality, her qualia — nearest document 1's category error, extended without argument to a named Guardian in the same sentence, months before document 4 gives each Guardian a blind spot of its own domain (C4). No other Guardian — Mnemosyne, Cerberus, Kairos, Sophia — is given a blind spot in this document (`blind` stands once, at L77).

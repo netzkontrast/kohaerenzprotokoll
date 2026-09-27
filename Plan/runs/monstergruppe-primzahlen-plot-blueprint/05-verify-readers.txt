@@ -45,3 +45,11 @@ c6-guardians-count-and-pairing.md: not changed — grep -cw Guardian Sources/dri
 c9-konstrukt-stadt-scale.md: not changed — grep -cw Konstrukt-Stadt Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
 q5-guardians-and-kern-welten.md: not changed — no Guardian named (LogOS/Mnemosyne/Cerberus/Kairos/Sophia all 0), so no pairing or pole is stated
 c11: not changed — grep -cw Hitze/Ozon/Wärme/kalt/warm/Landauer Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0 each (see 05-verify.txt)
+tsdp.md: not read — grep -cw TSDP Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0; the DID-analog content (L17) is attributed to did/alters/kael, not this page, per the brief
+genesis.md: not read — grep -ciw Genesis Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+mosaik-herz.md: not read — grep -ciw Mosaik Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+chaitin-konstante.md: not read — grep -ciw Chaitin Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+blinder-fleck.md: not read — grep -ciw Fleck Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0; the "KI-Blind Spots" comparison (L104) is a different sense, recorded on aegis and C4 instead
+c1-aegis-expansion.md: not changed — grep -c Autonomous Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+c10-knuckles-in-kap-1.md: not changed — grep -ciw Knöchel Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0; grep -ic blut -> 0
+c12-genesis-beats.md: not changed — grep -ciw Genesis Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
