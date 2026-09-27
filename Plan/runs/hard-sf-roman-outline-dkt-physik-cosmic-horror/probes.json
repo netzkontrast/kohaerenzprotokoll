@@ -1,0 +1,243 @@
+{
+  "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+  "drive_id": "1IhICDyNdks3Y04cUnL1HfNmPy8eSCaGCSv6dAxerGes",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 92,
+  "backslash_escapes": 354,
+  "typographic_marks": 30,
+  "ascii_quotes": 32,
+  "inflection_families": {
+    "infor": [
+      "Information",
+      "Informationsdichte",
+      "Informationsfluss",
+      "Informationsontologie",
+      "Informationsphysik",
+      "Informationsverlust",
+      "Informationszustände"
+    ],
+    "archi": [
+      "Architecture",
+      "Architekt",
+      "Architektonik",
+      "Architektur",
+      "Archiv",
+      "Archivs"
+    ],
+    "entro": [
+      "Entropic",
+      "EntropicMgmt",
+      "Entropie",
+      "Entropiegefälle",
+      "Entropische",
+      "Entropischen"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemfehler",
+      "Systemic",
+      "Systemik",
+      "Systems"
+    ],
+    "unter": [
+      "Unter",
+      "Unterbewusstsein",
+      "Unterdrückung",
+      "Unterwelt",
+      "Unterwerfung"
+    ],
+    "gener": [
+      "General",
+      "Generates",
+      "Generativ",
+      "Generative"
+    ],
+    "hitze": [
+      "Hitze",
+      "Hitzeebbe",
+      "Hitzetods",
+      "Hitzewelle"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitäten"
+    ],
+    "inter": [
+      "Interface",
+      "Interference",
+      "Interferenzen",
+      "Interview"
+    ],
+    "physi": [
+      "Physics",
+      "Physik",
+      "Physikalische",
+      "Physische"
+    ],
+    "schwe": [
+      "Schweigen",
+      "Schwer",
+      "Schwerkraft",
+      "Schwerkraftanomalie"
+    ],
+    "umgeb": [
+      "Umgebung",
+      "Umgebungen",
+      "Umgebungsbedingung",
+      "Umgebungstemperatur"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismus",
+      "Abwehrreaktion"
+    ],
+    "alter": [
+      "Alter",
+      "Alternativ",
+      "Alters"
+    ],
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpakete",
+      "Datenströme"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsdaten"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmentierung",
+      "Fragmentierungsnacht"
+    ],
+    "gefan": [
+      "Gefangen",
+      "Gefangene",
+      "Gefangenschaft"
+    ],
+    "gravi": [
+      "Gravitation",
+      "Gravitationsfeld",
+      "Gravity"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationspotenzial",
+      "IntegrityGuardian"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "kontr": [
+      "Kontrollakte",
+      "Kontrollalgorithmen",
+      "Kontrolle"
+    ],
+    "leben": [
+      "Leben",
+      "Lebenden",
+      "Lebens"
+    ],
+    "lösch": [
+      "Löscht",
+      "Löschung",
+      "Löschungen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Akten"
+    ],
+    [
+      "Akte",
+      "Akteure"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Kontrollakte"
+    ],
+    [
+      "Akte",
+      "Charakterdynamik"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Bildschirme"
+    ],
+    [
+      "Bote",
+      "Boten"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Keinerlei"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Lebenden"
+    ],
+    [
+      "Ende",
+      "Weltendes"
+    ],
+    [
+      "Ende",
+      "Zerfallende"
+    ],
+    [
+      "Erde",
+      "Werdens"
+    ],
+    [
+      "Erst",
+      "Erste"
+    ],
+    [
+      "Erst",
+      "Erstens"
+    ],
+    [
+      "Erst",
+      "Verstand"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      92
+  backslash escapes      354
+  typographic marks      30
+  ascii quotes           32
+
+# inflection families -- one term, several surfaces
+  infor    Information, Informationsdichte, Informationsfluss, Informationsontologie, Informationsphysik, Informationsverlust, Informationszustände
+  archi    Architecture, Architekt, Architektonik, Architektur, Archiv, Archivs
+  entro    Entropic, EntropicMgmt, Entropie, Entropiegefälle, Entropische, Entropischen
+  syste    System, Systeme, Systemfehler, Systemic, Systemik, Systems
+  unter    Unter, Unterbewusstsein, Unterdrückung, Unterwelt, Unterwerfung
+  gener    General, Generates, Generativ, Generative
+  hitze    Hitze, Hitzeebbe, Hitzetods, Hitzewelle
+  ident    Identifikation, Identity, Identität, Identitäten
+  inter    Interface, Interference, Interferenzen, Interview
+  physi    Physics, Physik, Physikalische, Physische
+  schwe    Schweigen, Schwer, Schwerkraft, Schwerkraftanomalie
+  umgeb    Umgebung, Umgebungen, Umgebungsbedingung, Umgebungstemperatur
+  abweh    Abwehr, Abwehrmechanismus, Abwehrreaktion
+  alter    Alter, Alternativ, Alters
+  coher    Coherence, Coheron, Coherons
+  daten    Daten, Datenpakete, Datenströme
+  erinn    Erinnerung, Erinnerungen, Erinnerungsdaten
+  fragm    Fragmente, Fragmentierung, Fragmentierungsnacht
+  gefan    Gefangen, Gefangene, Gefangenschaft
+  gravi    Gravitation, Gravitationsfeld, Gravity
+  integ    Integration, Integrationspotenzial, IntegrityGuardian
+  konst    Konstante, Konstrukt, Konstruktion
+  kontr    Kontrollakte, Kontrollalgorithmen, Kontrolle
+  leben    Leben, Lebenden, Lebens
+  lösch    Löscht, Löschung, Löschungen
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Akten
+  Akte < Akteure
+  Akte < Charaktere
+  Akte < Kontrollakte
+  Akte < Charakterdynamik
+  Bild < Bilder
+  Bild < Bildschirme
+  Bote < Boten
+  Echo < Echos
+  Eine < Keine
+  Eine < Seine
+  Eine < Keinerlei
+  Eine < Anscheinend
+  Ende < Lebenden
+  Ende < Weltendes
+  Ende < Zerfallende
+  Erde < Werdens
+  Erst < Erste
+  Erst < Erstens
+  Erst < Verstand

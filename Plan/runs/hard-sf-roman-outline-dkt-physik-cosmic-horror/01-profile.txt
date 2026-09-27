@@ -1,0 +1,14 @@
+# hard-sf-roman-outline-dkt-physik-cosmic-horror
+  lines                266  (frontmatter ends at 9)
+  body words           5771
+  headings             11   bold-only lines 14
+  table rows           54   code fences 0
+  question marks       12
+  backslash escapes    354
+  typographic marks    30   ascii quotes 32
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    92
+  repeated labels      none
+  longest line         952 chars
+
