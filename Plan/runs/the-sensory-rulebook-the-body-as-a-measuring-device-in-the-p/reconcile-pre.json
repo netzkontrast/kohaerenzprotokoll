@@ -1,0 +1,373 @@
+{
+  "document": "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+  "step": "reconcile-pre",
+  "at": "2026-09-27",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-27",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 66,
+  "decisions": 70,
+  "same_surface": {},
+  "decided_mechanically": 54,
+  "needs_judgement": 16,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 45
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 42
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 26
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 35
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 27
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 20
+      },
+      {
+        "candidate": "Resonanz-Landschaft",
+        "page": "resonanz-landschaft",
+        "readings": 8
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 28
+      },
+      {
+        "candidate": "Grenzfeste",
+        "page": "grenzfeste",
+        "readings": 7
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 28
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 23
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 27
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 24
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 18
+      },
+      {
+        "candidate": "Möglichkeits-Garten",
+        "page": "moeglichkeits-garten",
+        "readings": 19
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 40
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 14
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 12
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Sensory Rulebook"
+      },
+      {
+        "candidate": "Psycho-Architectures"
+      },
+      {
+        "candidate": "Core Worlds"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "Apparently Normal Parts"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "Law of Non-Contradiction"
+      },
+      {
+        "candidate": "prison of convention"
+      },
+      {
+        "candidate": "Sensory Signature"
+      },
+      {
+        "candidate": "Algorithmic Horror"
+      },
+      {
+        "candidate": "Somatic Experience"
+      },
+      {
+        "candidate": "Key Resonance Motif"
+      },
+      {
+        "candidate": "Regulated Breath Counting"
+      },
+      {
+        "candidate": "unheimliche Perfektion"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "Emotional Parts"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "paraconsistent"
+      },
+      {
+        "candidate": "Miasma of Memory"
+      },
+      {
+        "candidate": "Körperempfindungen"
+      },
+      {
+        "candidate": "Visceral Gut Reactions"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "externalisiertes Täterintrojekt"
+      },
+      {
+        "candidate": "bunkerartige Festung"
+      },
+      {
+        "candidate": "Bracing for Impact"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Impact Character"
+      },
+      {
+        "candidate": "Ruinen-Garten"
+      },
+      {
+        "candidate": "Ozon"
+      },
+      {
+        "candidate": "Unclenching Hands"
+      },
+      {
+        "candidate": "loving vernetztheit"
+      },
+      {
+        "candidate": "Comparative Matrix"
+      },
+      {
+        "candidate": "Somatic Truths"
+      },
+      {
+        "candidate": "Embodied Coherence"
+      },
+      {
+        "candidate": "Integration"
+      },
+      {
+        "candidate": "Classical Logic"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Logos-Prime  /  LogOS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne-Archipel  /  Mnemosyne",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "dialetheic  /  Dialetheic Logic",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Cerberus-Labyrinth  /  Cerberus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos-Potentialis  /  Kairos",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V  /  Juna",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Tertiary Structural Dissociation of Personality",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt 1",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt 2",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archipel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt 3",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt 4",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos-Potentialis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 79,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

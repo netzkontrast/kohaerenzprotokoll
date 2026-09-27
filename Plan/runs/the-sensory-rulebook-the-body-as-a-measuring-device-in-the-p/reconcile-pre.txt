@@ -1,0 +1,90 @@
+# reconcile-pre — the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+
+  66 candidates, 70 decisions — **54 by lookup, 16 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (18) — page exists, this document is not on it yet — a reading
+  AEGIS                                aegis
+  Kael                                 kael
+  TSDP                                 tsdp
+  Kernwelten                           kern-welten
+  Konstrukt-Stadt                      konstrukt-stadt
+  LogOS                                logos
+  Resonanz-Landschaft                  resonanz-landschaft
+  Mnemosyne                            mnemosyne
+  Grenzfeste                           grenzfeste
+  Nyx                                  nyx
+  Alex                                 alex
+  Kiko                                 kiko
+  Lia                                  lia
+  Cerberus                             cerberus
+  Möglichkeits-Garten                  moeglichkeits-garten
+  Juna                                 juna
+  Kairos                               kairos
+  Sophia                               sophia
+
+## new_term (36) — no page, no near match — a new page
+  Sensory Rulebook                     
+  Psycho-Architectures                 
+  Core Worlds                          
+  KW1                                  
+  Apparently Normal Parts              
+  ANPs                                 
+  Law of Non-Contradiction             
+  prison of convention                 
+  Sensory Signature                    
+  Algorithmic Horror                   
+  Somatic Experience                   
+  Key Resonance Motif                  
+  Regulated Breath Counting            
+  unheimliche Perfektion               
+  KW2                                  
+  Emotional Parts                      
+  EPs                                  
+  paraconsistent                       
+  Miasma of Memory                     
+  Körperempfindungen                   
+  Visceral Gut Reactions               
+  KW3                                  
+  externalisiertes Täterintrojekt      
+  bunkerartige Festung                 
+  Bracing for Impact                   
+  KW4                                  
+  Impact Character                     
+  Ruinen-Garten                        
+  Ozon                                 
+  Unclenching Hands                    
+  loving vernetztheit                  
+  Comparative Matrix                   
+  Somatic Truths                       
+  Embodied Coherence                   
+  Integration                          
+  Classical Logic                      
+
+## needs_judgement (16) — NEAR a known surface — one term or two?
+  Logos-Prime  /  LogOS                        near: each other
+  Mnemosyne-Archipel  /  Mnemosyne             near: each other
+  dialetheic  /  Dialetheic Logic              near: each other
+  Cerberus-Labyrinth  /  Cerberus              near: each other
+  Kairos-Potentialis  /  Kairos                near: each other
+  Juna/V  /  Juna                              near: each other
+  Tertiary Structural Dissociation of Personality near: persona→personas
+  Kernwelt 1                                   near: kernwelt→kern-welten
+  Logos-Prime                                  near: logos→logos
+  Kernwelt 2                                   near: kernwelt→kern-welten
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  Kernwelt 3                                   near: kernwelt→kern-welten
+  Cerberus-Labyrinth                           near: cerberus→cerberus
+  Kernwelt 4                                   near: kernwelt→kern-welten
+  Kairos-Potentialis                           near: kairos→kairos
+  Juna/V                                       near: juna→juna
+
+## in_document_not_in_census (2) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Guardians                            guardians                    L79
+  Kohärenz                             kohaerenz                    L11
+

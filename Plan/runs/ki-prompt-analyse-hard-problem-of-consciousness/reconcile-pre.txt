@@ -1,0 +1,140 @@
+# reconcile-pre — ki-prompt-analyse-hard-problem-of-consciousness
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+
+  114 candidates, 114 decisions — **98 by lookup, 16 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (2) — already recorded from this document — nothing to do
+  Kishōtenketsu                        kishotenketsu
+  Gödel-Gambit                         goedel-gambit
+
+## new_reading (10) — page exists, this document is not on it yet — a reading
+  Kael                                 kael
+  AEGIS                                aegis
+  Trennungsprotokoll                   trennungsprotokoll
+  Moros                                moros
+  Oblivion                             oblivion
+  Funktionale Multiplizität            multiplizitaet
+  Juna                                 juna
+  Algorithmische Melancholie           algorithmische-melancholie
+  Risse                                risse
+  Moonshine-Link                       moonshine-link
+
+## new_term (86) — no page, no near match — a new page
+  Hard Problem of Consciousness        
+  K1                                   
+  K0                                   
+  5D-Interferenz                       
+  Interferenzstruktur                  
+  Property Dualism                     
+  Integrated Information Theory        
+  IIT                                  
+  I/You-Spiegelung                     
+  Explanatory Gap                      
+  Erklärungs-Lücke                     
+  Relationship Story                   
+  Overall Story                        
+  Kreuz-Spiegelung                     
+  Werk-Korpus-Inventar                 
+  Hard Canon Masterfile                
+  Ouroboros-Ende                       
+  39-Kapitel-Matrix                    
+  Dialetheismus                        
+  Phönix-Kollaps                       
+  Der Tragische Gott                   
+  Witness Function                     
+  Telefonat-Anker                      
+  Coherence Kernel                     
+  Erasure Kernel                       
+  Kernel-Logik                         
+  Mutual-Information-Loops             
+  MC                                   
+  IC                                   
+  OS                                   
+  RS                                   
+  Psychology                           
+  Universe                             
+  Physics                              
+  Mind                                 
+  Temperaturabfall                     
+  Resolve                              
+  Change                               
+  Steadfast                            
+  Alpha-Logik                          
+  Kapitel 32                           
+  Driver                               
+  Action                               
+  Dance in the Garden                  
+  Kapitel 13                           
+  Kapitel 35–36                        
+  Steelman-Lesart                      
+  Falsifikations-Test                  
+  Memory Leak                          
+  Timelock                             
+  Optionlock                           
+  Kernel Errors                        
+  Gravitationsleckagen                 
+  Akt 3                                
+  Bewertungs-Triplets                  
+  Dialektische Vergleichsmatrix        
+  Approach                             
+  Be-er                                
+  Do-er                                
+  Growth                               
+  Outcome                              
+  Judgment                             
+  5D-Hard-Problem-Architektur          
+  fünfte Dimension                     
+  Bohrsche Komplementarität            
+  thermodynamische Narben              
+  T-734                                
+  Bewusstseins-Topographie             
+  Ouroboros-Ending                     
+  DKT-Kernparadoxon                    
+  Reader = Substrat                    
+  Telefonat-Schlüsselbild              
+  Schweigen                            
+  Query Expansion Log                  
+  Reflection History                   
+  Falsification                        
+  Dialectical Synthesis                
+  Phenomenological Anchor              
+  NotebookLM                           
+  Chalmers                             
+  Tononi                               
+  Friston                              
+  Husserl                              
+  Dennett                              
+  Hegel                                
+  Popper                               
+
+## needs_judgement (16) — NEAR a known surface — one term or two?
+  Duale Dramatica-Storyform-Mapping  /  Storyform near: each other
+  Duale Dramatica-Storyform-Mapping  /  Dramatica near: each other
+  Storyform  /  Storyform A                    near: each other
+  Storyform  /  Storyform B                    near: each other
+  Storyform  /  Storyform Half-Life Audit      near: each other
+  Landauer-Wärme  /  Landauer                  near: each other
+  Kael  /  Kael/M                              near: each other
+  Dramatica-Element-Matrix  /  Dramatica       near: each other
+  13 Alters                                    near: alters→alters
+  Kael/M                                       near: kael→kael
+  Genesis-Krise                                near: genesis→genesis
+  Erasonen                                     near: erason→erason
+  Logos-Prime                                  near: logos→logos
+  Cerberus-Labyrinth                           near: cerberus→cerberus
+  Genesis-Sequenz                              near: genesis→genesis
+  Landauer                                     near: landauersignatur→landauer-signatur
+
+## in_document_not_in_census (8) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Alters                               alters                       L28
+  Emergenz                             emergenz                     L169
+  Entropie                             entropie                     L15
+  Genesis                              genesis                      L212
+  Kohärenz                             kohaerenz                    L11
+  Thermodynamischer Phänomenalismus    thermodynamischer-phaenomenalismus L257  (page already reads this document)
+  TSDP                                 tsdp                         L169  (page already reads this document)
+  Simulation                           ueberwelt                    L120
+

@@ -1,0 +1,14 @@
+# the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p
+  lines                112  (frontmatter ends at 9)
+  body words           2666
+  headings             19   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       0
+  backslash escapes    48
+  typographic marks    7   ascii quotes 74
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    9
+  repeated labels      none
+  longest line         1208 chars
+

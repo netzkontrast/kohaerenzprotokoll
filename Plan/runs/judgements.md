@@ -1627,3 +1627,31 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „Kernwelt Typ B. Beta-Rho-5. … Die Baby-Monster-Welt.“ (L1500); „ZIEL: KERNWELT MCL-SIGMA-3“ (L546); „Dies war die Lyons-Welt (Ly)“ (L1978); Co₁ Kael's home world; „Er wusste nun, dass die Kernwelten Simulationen waren“ (L2204).
 
 **Result.** one referent: a reading on kern-welten naming the four worlds and their Guardians as the document gives them; `Co₁`, `McL`, `Ly` and `Beta-Rho-5` are not surfaces — `Ly` is two letters and `Co₁` a group before it is a world. Which world corresponds to which KW is left open
+
+## J117 — Landauer-Wärme / Landauer-Signatur
+
+**judgement** · ki-prompt-analyse-hard-problem-of-consciousness · 2026-09-27 · replay: `judgement`
+
+- **rule:** a name built on a page's physicist that a source uses for the in-world phenomenon itself goes on that page by the sentence; one that names a plot strand does not (J81)
+- **mechanised by:** `nothing`
+- **features:** throughline-carrier, one-document-term, physicist-name
+
+**Question.** is the report's Landauer-Wärme, a Dramatica throughline carrier, the Landauer-Signatur the wiki pages?
+
+**What was done.** „die *Landauer-Wärme* (die physikalischen Risse und die thermodynamische Entropie)“ (L19); it carries OS in Storyform A and RS in B, and „die beim Löschen von Entropie entsteht“ (L15) — the heat of erasure itself.
+
+**Result.** placed by the sentence: a reading on landauer-signatur where the passage is the in-world heat of erasure, and on hitze-polaritaetsregel where it says whose heat it is; `Landauer-Wärme` is not a surface. Unlike J81's strand, this names the phenomenon
+
+## J118 — Logos-Prime / Konstrukt-Stadt / Kernwelt 1
+
+**judgement** · the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p · 2026-09-27 · replay: `skipped`
+
+- **rule:** a world a source names twice, by a Guardian-built name and by a paged name, is read on the paged world; the pairing itself is recorded, not merged (J49)
+- **mechanised by:** `nothing`
+- **features:** two-names-one-breath, world-by-guardian-name
+
+**Question.** when a source names one world twice in one breath, Logos-Prime and the Konstrukt-Stadt, which page carries it?
+
+**What was done.** „Kernwelt 1 (KW1) - Logos-Prime“ (heading, L15) and „Kernwelt 1, the Konstrukt-Stadt“ (L17); likewise Mnemosyne-Archipel/Resonanz-Landschaft, Cerberus-Labyrinth/Grenzfeste, Kairos-Potentialis/Möglichkeits-Garten.
+
+**Result.** the reading goes on the world page the second name has (konstrukt-stadt, resonanz-landschaft, grenzfeste, moeglichkeits-garten) and on kern-welten; the Guardian-built name is recorded there, never on the Guardian's page (J49), and becomes no surface from one source
