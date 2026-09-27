@@ -1,0 +1,125 @@
+{
+  "document": "companion-guide-to-the-coherence-protocol-understanding-love",
+  "drive_id": "1V2gZTBlS5S0Lq5myO2-DOKk8BDoBt-9BFltKsruioDc",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 2,
+  "backslash_escapes": 1,
+  "typographic_marks": 21,
+  "ascii_quotes": 84,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "bruxi": [
+      "Bruxism",
+      "Bruxismus"
+    ],
+    "corre": [
+      "Correlate",
+      "Correlates"
+    ],
+    "diale": [
+      "Dialetheia",
+      "Dialetheic"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "eraso": [
+      "Erason",
+      "Erasonen"
+    ],
+    "fract": [
+      "Fractal",
+      "Fractals"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "physi": [
+      "Physical",
+      "Physics"
+    ],
+    "rotat": [
+      "Rotates",
+      "Rotation"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Erason",
+      "Erasonen"
+    ],
+    [
+      "Keeper",
+      "Gatekeeper"
+    ],
+    [
+      "Nature",
+      "Signature"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Bruxism",
+      "Bruxismus"
+    ],
+    [
+      "Coheron",
+      "Coherons"
+    ],
+    [
+      "Fractal",
+      "Fractals"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Position",
+      "Superposition"
+    ],
+    [
+      "Temporal",
+      "Atemporal"
+    ],
+    [
+      "Correlate",
+      "Correlates"
+    ],
+    [
+      "Reversible",
+      "Irreversible"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+# companion-guide-to-the-coherence-protocol-understanding-love
+  lines                113  (frontmatter ends at 9)
+  body words           1273
+  headings             14   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       2
+  backslash escapes    1
+  typographic marks    21   ascii quotes 84
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      none
+  longest line         1078 chars
+
