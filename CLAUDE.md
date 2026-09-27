@@ -1322,8 +1322,9 @@ the other canonical tools; and `verify` reads COMPLETED as done only when
 `git ls-remote` finds the branch. Every effect is a line in
 `Plan/runs/jules/ledger.jsonl`. The reads were run against the live API from a
 cloud session on 2026-09-26 — this repository is a connected source, `triage`
-read a finished session in under four seconds — and **no session has been
-dispatched from here.**
+read a finished session in under four seconds. **One session has been
+dispatched** (decision 014): an ingest of
+`kohaerenz-protokoll-philosophischer-bericht-md`, on 2026-09-27.
 
 ## Calling a model — the DSPy toolchain
 
