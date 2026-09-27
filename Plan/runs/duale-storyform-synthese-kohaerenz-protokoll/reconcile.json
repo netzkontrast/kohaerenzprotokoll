@@ -1,0 +1,354 @@
+{
+  "document": "duale-storyform-synthese-kohaerenz-protokoll",
+  "drive_id": "1hwMm39VmL5i7TJLCFOuE_spbZFGDtWoJ8_SO_Z9UtbM",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of three documents reconciled together (documents 44–46) — readings and record entries written by four Sonnet readers split by page group from Plan/runs/readings-brief-documents-44-46.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 174,
+    "decisions": 175,
+    "decided_by_lookup": 141,
+    "needs_judgement": 34
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A storyform study: its figures, worlds and physics have pages. Its storyform values, matrices and 5D apparatus are its method; Kael/M, the Alpha fragment and the Co1-Welt stand once or twice and are placed on kael, alters and konstrukt-stadt.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        23,
+        70,
+        119,
+        127,
+        314
+      ],
+      "attribution": "",
+      "note": "OS of A in Mind, IC of B in Mind (not its MC), no Approach of its own; emergent from Kael"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        32,
+        101,
+        158,
+        192,
+        257
+      ],
+      "attribution": "",
+      "note": "thirteen, in a corpus inventory this document does not itself argue for, `Mosaik-Herz` among the names"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        15,
+        54,
+        223,
+        241
+      ],
+      "attribution": "",
+      "note": "the axis's mirror, AEGIS' K1 entropic and generative, and a phase-space identity between the kernels"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        19,
+        31,
+        75,
+        314
+      ],
+      "attribution": "",
+      "note": "a holistic system, Kael's integrated self, and AEGIS' origin doubted as a corpus anchor"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "the third sense, stated as the kernel paradox itself"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        33,
+        106,
+        150,
+        155,
+        247
+      ],
+      "attribution": "",
+      "note": "Kael the living Gödel statement, a hard mathematical weapon fitting a Be-er only through the 5D synthesis, and AEGIS' fall not destruction but collapse"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        132
+      ],
+      "attribution": "",
+      "note": "Landauer-Wärme alone, forcing the characters' hand, no ozone and no cold"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        32,
+        69,
+        190
+      ],
+      "attribution": "",
+      "note": "IC of A in Physics, as the Juna/V-Vektor; her nature left open between anomaly and exiled part"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        33,
+        68,
+        77,
+        83,
+        96,
+        118,
+        127
+      ],
+      "attribution": "",
+      "note": "MC of Psychology in A, MC of Universe in B; Kael/M born in Kapitel 32; T-734 his own trauma label"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        77,
+        210
+      ],
+      "attribution": "",
+      "note": "psychological inner rooms, named for two Guardians, and a physical world dissolving under entropy"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        158,
+        257
+      ],
+      "attribution": "",
+      "note": "named beside Lex, Nyx and Selene, as the risk its own dialectic runs"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        15,
+        54,
+        223,
+        241
+      ],
+      "attribution": "",
+      "note": "AEGIS' forced coherence, and a phase-space identity with K0's destruction"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        15,
+        54,
+        223,
+        241
+      ],
+      "attribution": "",
+      "note": "Kael's trauma, hedged as only apparent chaos, and a phase-space identity with K1's destruction"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        33,
+        83,
+        125
+      ],
+      "attribution": "",
+      "note": "`T-734` as Kael's own trauma, never the component's designation (J112)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        144
+      ],
+      "attribution": "",
+      "note": "unnumbered, the ground of Kael's Universe-domain in Storyform B"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        132,
+        154,
+        178,
+        195
+      ],
+      "attribution": "",
+      "note": "Landauer-Wärme as the driver of unpredictable Risse, from the Vorgänger-Schicht"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        158
+      ],
+      "attribution": "",
+      "note": "named beside Nyx, Kiko and Selene, as the risk its own dialectic runs"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        71,
+        340
+      ],
+      "attribution": "",
+      "note": "Storyform A's relationship story, the impossibility of shared physical reality, and a research question left for a re-run"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        32,
+        96,
+        101
+      ],
+      "attribution": "",
+      "note": "Kapitel 11's acceptance, Kapitel 32's integration, and a fourth sense: one of thirteen alter names in its corpus inventory"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        15,
+        19
+      ],
+      "attribution": "",
+      "note": "born of accepting K0, true on every level at once, in no named chapter"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "Storyform A's outcome, new order patterns replacing AEGIS' toxic structure"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        158,
+        257
+      ],
+      "attribution": "",
+      "note": "named beside Lex, Kiko and Selene, as the risk its own dialectic runs"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        112,
+        156,
+        240
+      ],
+      "attribution": "",
+      "note": "the ending image as a Steadfast/Good paradigm and as the phase space's proof that pain and healing are one object"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        144
+      ],
+      "attribution": "",
+      "note": "the exodus of Storyform B's Steelman reading"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        82,
+        120,
+        132,
+        154,
+        195
+      ],
+      "attribution": "",
+      "note": "Risse as AEGIS' physical destruction and Landauer-Wärme's driver, forcing every character's hand"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        158
+      ],
+      "attribution": "",
+      "note": "named beside Lex, Nyx and Kiko, as the risk its own dialectic runs"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        243
+      ],
+      "attribution": "",
+      "note": "the phone's silence as the 5D phase space itself"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        68,
+        158
+      ],
+      "attribution": "",
+      "note": "Tertiäre Strukturelle Dissoziation, without `der Persönlichkeit`, clinically grounded"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      8,
+      9,
+      11,
+      18,
+      24,
+      28,
+      32,
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      19,
+      32,
+      33,
+      60,
+      106,
+      110,
+      127,
+      168,
+      255,
+      265
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3",
+    "C7",
+    "C8",
+    "C9",
+    "C11"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [
+    "J112"
+  ],
+  "decided_by_existing_rules": "J112 (T-734 on komponente-734), J49 (Logos-Prime, Cerberus-Labyrinth on kern-welten), J53 (Stille), J60, J62, J86, J97, J98/J99 (K1/K0 plain digits), J108, J110, J51",
+  "not_promoted": [
+    "Kael/M — L75, L191, on kael and kap-32",
+    "Alpha, Schatten — L32, alter names of its corpus, on alters",
+    "Co1-Welt — L89, L118, on konstrukt-stadt",
+    "the 5D phase space, the storyform ratings and matrices — its method"
+  ],
+  "internal_tension": "It gives AEGIS the IC of B and Kael the MC of both storyforms, where document 45 two days later gives AEGIS the MC of B; it rates both storyforms 4.5 and ends B in Failure/Good; it names the Mosaik-Herz and T-734 among thirteen alters of the corpus it read; it doubts AEGIS' emergence from Kael (L314).",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 44–46: PageRank recall@8 0.660 → 0.660, seeds 0.466; no case moved"
+}
