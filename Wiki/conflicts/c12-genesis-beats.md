@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 26
+sources: 27
 pages: ["trennungsprotokoll"]
 ---
 
@@ -263,3 +263,11 @@ On no row: no count and no component. It has only the worldbuilding concept's se
 **No beats counted or ordered — a two-layer origin trauma instead, months before either row.**
 Fixed point 10: „**Origin Trauma = Doppelter Boden:** Layer 1 (Bindungstrauma), Layer 2 (Fragmentierungsnacht als Twist)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224] The Fragmentierungsnacht itself is named the Genesis-Krise: „AEGIS, der Antagonist, ist kein bösartiges Konstrukt, sondern ein tragischer, algorithmischer Täter-Introjekt, das aus der Genesis-Krise (der Fragmentierungsnacht) entstand." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L64]
 `Beat`, `734`, `Wir-AEGIS` and `Einheit` stand 0 times (`05-verify-readers.txt`). On no row: not a count of the Genesis but a childhood attachment trauma (Kapitel 16, via [[kiko|Kiko]]) placed before it as a second, earlier layer — a structure no other read source states. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**No beats counted — an unnumbered Komponente in a Genesis of collision and clustering, [[kael|Kael]] a separate fragment of M, and a partitioning told twice: Kapitel 2's, done by AEGIS, and an earlier one recalled from before it.**
+The Genesis has no Trennungsprotokoll and no 734: the fragment becomes „eine Komponente, eine Funktionseinheit" ^[kohaerenz-protokoll.md:L91], unnumbered, and its number is not withheld by rule — the text simply never gives one. `734` stands 6 times, always [[kael|Kael]]'s own designation and once a protocol AEGIS activates later, „AKTIVIERE PROTOKOLL 734: KONTAMINATIONS-EINDÄMMUNG." ^[kohaerenz-protokoll.md:L2348], not a beat of the Genesis (`Plan/runs/kohaerenz-protokoll/05-verify.txt`).
+[[kael|Kael]] is not the Komponente the Genesis produces: „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link" ^[kohaerenz-protokoll.md:L853] — a different substance, M the Monstergruppe, and the Genesis' AEGIS is one thing M's fragmenting produces elsewhere, „die Zerlegung von M in Kael, die Fragmentierung von Kael in Caches" ^[kohaerenz-protokoll.md:L1019].
+The partitioning happens twice, both done by AEGIS. Kapitel 2: „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung." ^[kohaerenz-protokoll.md:L258] — „Eine Mauer zwischen dem Logiker, dem Manager, der versuchte zu kooperieren, und dem intuitiven, fühlenden Teil, der mit dem goldenen Licht, mit *Juna*, verbunden war." ^[kohaerenz-protokoll.md:L260] And an earlier one, recalled rather than shown: „Als… als M dissoziiert wurde." ^[kohaerenz-protokoll.md:L911]
+On no row as written: neither three beats nor four, no Wir-AEGIS-plural (`Wir-AEGIS` 0, `Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`), `Trennungsprotokoll` 0 (`05-verify.txt`), and the exact phrase `Komponente 734` never occurs (0, `05-verify-readers.txt`) — the component is unnumbered, and the document has its own Genesis, prior to and independent of every 2026 count. The conflict stays open.

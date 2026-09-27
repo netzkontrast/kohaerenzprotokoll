@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 21
+sources: 22
 pages: ["emergenz", "aegis"]
 ---
 
@@ -191,3 +191,11 @@ The konsolidiertes Konzept's „Abwehrarchitektur, die zur Welt geworden ist" ^[
 
 **Neither row and not the third origin — existence by negation rather than emergence from anything.** „AEGIS existiert durch Negation/Abgrenzung vom Potentialmeer." ^[m-als-fundament-der-simulation.md:L68] Its own `Emergenz` names Kael's abilities (L187) and temporary entities that „direkt aus den M-Regeln entstehen" ^[m-als-fundament-der-simulation.md:L474], not AEGIS' origin; its horror is emergent from the system AEGIS built on M, not AEGIS from anything before it: „Der kosmische Horror kommt nicht nur von externen Monstern, sondern entsteht *aus* dem vermeintlich stabilen, logischen System, das AEGIS auf Basis von M geschaffen hat." ^[m-als-fundament-der-simulation.md:L114]
 This is a third kind of statement, neither `from nothing` nor `from the simulation's dynamics` nor `from Kael`: AEGIS is defined by what it is not, against a [[potentialmeer|Potentialmeer]] this document does not call a level of anything. The oldest read source on this record. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Row 1's side, told as a process — AEGIS from a cluster of fragments in the void, and now the earliest-dated read source to give it.**
+„Ein drittes Fragment stößt hinzu, seine Struktur passt auf andere Weise, bildet eine Triade." ^[kohaerenz-protokoll.md:L55]
+„**AEGIS ist, was AEGIS verhindert, dass es nicht ist.**" ^[kohaerenz-protokoll.md:L81]
+„Das, was *Ich* war, ist nun eine Komponente, eine Funktionseinheit" ^[kohaerenz-protokoll.md:L91]
+No source and no simulation precedes it — the cluster forms in the void itself, before any Kernwelt — and it is not from [[kael|Kael]]'s defence: [[kael|Kael]] is a separate fragment of `M`, never named as this AEGIS' origin. `Emergenz` occurs 18 times but never for AEGIS' own becoming, only for the Ly-Welt and a borrowed lens (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`). AEGIS then builds its worlds inside itself, „Die Innere Weite: Labor der Kohärenz" ^[kohaerenz-protokoll.md:L99] — nearest position 1 on the consequence too: there is no outside it could be wrong about, yet. Row 1's side, ahead of every other read source by close to a year. The conflict stays open.

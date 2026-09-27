@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 29
+sources: 30
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -300,3 +300,9 @@ On no row by count: it names one of row 1's five, tested and rejected as MC, and
 A blueprint hedging every beat. „**Beat 10: Intervention der Alters/Guardians**" ^[m-als-fundament-der-simulation.md:L258]: „AEGIS setzt seine physischen oder digitalen Agenten (Alters/Guardians) ein, um Kael direkt zu konfrontieren und zu neutralisieren." ^[m-als-fundament-der-simulation.md:L262] „Die Alters/Guardians werden als konkrete Antagonisten etabliert, die AEGIS' Willen ausführen." ^[m-als-fundament-der-simulation.md:L269]
 `LogOS`, `Mnemosyne`, `Cerberus`, `Kairos`, `Sophia` all stand 0 times (`05-verify.txt`), `Erasure-Pol` 0 (`Plan/runs/m-als-fundament-der-simulation/05-verify-readers.txt`); the class is never distinguished from the [[alters|Alters]] it is paired with in every passage, and no world carries a bearer's name.
 On no row by count and no row by pairing: the earliest-dated source in this record, and it counts and names nothing. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**A fourth count — four Guardians, one per world, none of them named the same as either later list's bearers.**
+[[logos|LogOS]], „Supervisor für Kohärenz und Struktur in diesem Sektor" ^[kohaerenz-protokoll.md:L438], guards Co₁; the Netzweber, „SUPERVISION: NETZWEBER (GUARDIAN MCL-SEKTOR)." ^[kohaerenz-protokoll.md:L1168], guards McL; the Chaos-Regulator, „des Guardians dieser Welt" ^[kohaerenz-protokoll.md:L1638], guards Beta-Rho-5; the Möglichkeits-Weber, „Es war der Möglichkeits-Weber." ^[kohaerenz-protokoll.md:L2024], guards Ly. `Mnemosyne`, `Cerberus`, `Kairos` and `Sophia` stand 0 times (`Plan/runs/kohaerenz-protokoll/05-verify.txt`), `Erasure-Pol` 0 (`05-verify-readers.txt`).
+On neither row's count — four, not five and not two, and three names (`Netzweber`, `Chaos-Regulator`, `Möglichkeits-Weber`) that share no surface with any Guardian either list names, though the fourth guards the same function [[kairos|Kairos]]/[[sophia|Sophia]] share elsewhere. On the pairing, row 1's and row 2's side: one Guardian per world, exactly, with no sharing. The author's decision for five (2026-09-24) stands, and this document's four are none of the five. The conflict stays open.

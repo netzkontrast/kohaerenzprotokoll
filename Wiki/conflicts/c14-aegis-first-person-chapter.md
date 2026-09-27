@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 29
+sources: 30
 pages: ["aegis"]
 ---
 
@@ -219,3 +219,10 @@ On no row as stated: it names the perspective the MC throughline carries, not th
 „Das System "leidet" unter algorithmischer Einsamkeit, was eine ausreichende phänomenologische" ^[dramatica-storyform-synthese-aegis-analyse.md:L35] `I`-Position „konstituiert." ^[dramatica-storyform-synthese-aegis-analyse.md:L35] Its verdict: „Das Verdikt für diese Hypothese lautet: **Überlebt**." ^[dramatica-storyform-synthese-aegis-analyse.md:L35]
 `Person`, `Innensicht` and `Kap` stand 0 times in it; its three `Log` are its own method logs, and its one `Prosa` is not AEGIS' (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`). Its verdicts are its own, recorded, not applied.
 On no row as stated, the same day as its sibling document above: it argues the MC throughline can carry a subjective centre from AEGIS' own experience of isolation rather than from Dramatica's abstract rule, and names no chapter, log or grammatical person for it. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Never `ich` for AEGIS — no chapter of its own, no exception — and, past the Genesis, no chapter gives it an inner view either; only capitalised system text.**
+In the prologue's Genesis the fragment that becomes AEGIS is narrated with an inner view, in the third person, up to the moment it is named: „Die Existenz innerhalb des Systems – AEGIS – ist nun anders." ^[kohaerenz-protokoll.md:L91] Once the chapters begin, AEGIS never again carries a narrated inside: it speaks only as system text, in capitals — „AEGIS PROTOKOLL V1.5 AKTIV." ^[kohaerenz-protokoll.md:L635] and again at L693 — and the narrator otherwise follows [[kael|Kael]].
+`Person`, `Prosa`, `Log`, `Innensicht` and `Hard-B` stand 0 times, and neither `ich` (3) nor `Ich` (33) is ever AEGIS' own — all [[kael|Kael]]'s or the Genesis-fragment's before it is named (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`).
+Nearest rows 1 and 2 — third person, no exception — and closer still to row 5's AEGIS with no inside at all: once AEGIS is named, this document gives it none, where its own Genesis had. No chapter in Kap 5–8 exists in this document's numbering (Kapitel 1–12, 14–23) to carry the lock's exception either way. The conflict stays open.

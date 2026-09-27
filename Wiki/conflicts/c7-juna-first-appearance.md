@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 35
+sources: 36
 pages: ["juna"]
 ---
 
@@ -309,3 +309,9 @@ Neither Kap 33 nor Kap 38: this is the open-nature question C7's companion asks,
 **No appearance placed — never physically described, outside the quad in Storyform B, hidden in a Leech-Lattice orbifold.**
 „Juna wird konsequent nicht physisch anthropomorphisiert." ^[dramatica-storyform-synthese-aegis-analyse.md:L63] In B, „Sie existiert […] strukturell außerhalb der Dramatica-Quad, um als Entanglement Witness und Zero-Knowledge Verifier zu fungieren." ^[dramatica-storyform-synthese-aegis-analyse.md:L27]
 `Kap` stands 0 times of her (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`). The same rule of rendering as its sibling document `dramatica-storyform-synthese-aegis-analyse-2` (row above), on the same date. Neither Kap 33 nor Kap 38. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Neither row — a fourth chaptering that has no Kap 33 and no Kap 38, and Juna never appears in body; her one voiced word is a whisper in Kapitel 18.**
+„Widerstehe" ^[kohaerenz-protokoll.md:L1892] — flüsterte eine Stimme aus dem goldenen Licht, named in the same sentence, in „Kapitel 18: Systemantwort" ^[kohaerenz-protokoll.md:L1864]. Before it she is only the light and a name: „Ein warmes, goldenes Licht" ^[kohaerenz-protokoll.md:L176]. Whether she has a body at all is a question the text itself leaves open, once beyond the seam: „War Juna eine Entität innerhalb des Meeres? Oder war sie das Meer?" ^[kohaerenz-protokoll.md:L2298]
+This document's chapters are its own — Kapitel 1–12 and 14–23, with no Kapitel 13 and no Kapitel 33 or 38 to place her in — so the record's two chapters are simply absent rather than contested. On the shared claim, never in body, it agrees with every canon-era source; unlike them it gives her one direct word, whispered rather than „einfach da" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1174]. The conflict stays open.

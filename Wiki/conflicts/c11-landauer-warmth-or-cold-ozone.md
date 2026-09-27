@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 38
+sources: 39
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -393,3 +393,9 @@ No `Landauer-Signatur` and no polarity rule stand in it (`05-verify-readers.txt`
 **Cold at the Vortex's convergence, the Heat Spike at the Dialetheia's compression, and a ticking, unaffordable heat before the climax — no ozone, no Kap 6 or Kap 36.**
 „Die Umgebungstemperatur fällt schlagartig in den Minusbereich, als das System Energie für den finalen Schlag bündelt." ^[dramatica-storyform-synthese-aegis-analyse.md:L102] „Dieser Landauer Heat Spike lässt die massiven Server-Strukturen des Archipels förmlich glühen; sie zerbersten unter der Hitze in einer Kettenreaktion fraktaler Zerstörung." ^[dramatica-storyform-synthese-aegis-analyse.md:L114] „In B tickt eine unerbittliche thermodynamische Uhr. Die akkumulierte Landauer-Hitze des deterministischen Systems baut sich durch jeden Löschungsakt unaufhaltsam auf." ^[dramatica-storyform-synthese-aegis-analyse.md:L93]
 `Ozon`, `Kap 6` and `Kap 36` stand 0 times (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`); the Vortex is dated only to Kapitel 35–36 in general (its L17). Cold marks the convergence, not AEGIS' suppression generally, and the spike is the one row 2 and the Dramatica-Synthese above keep too; row 1's Kap-6 and Kap-36 warmth are neither held nor denied. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Warmth Juna's, cold AEGIS' suppression — and, once, a warm ozone at a bright McL node that neither polarity rule accounts for.**
+[[juna|Juna]]'s trace is warm: „Ein warmes, goldenes Licht" ^[kohaerenz-protokoll.md:L176]. AEGIS' own method against it is cold: „Kalt, präzise, aber brutal." ^[kohaerenz-protokoll.md:L256] Kapitel 6 carries no Landauer trace, only „Kalter Schweiß brach auf seiner Stirn aus, obwohl die Umgebungstemperatur konstant war." ^[kohaerenz-protokoll.md:L761] — cold, and Kael's own, not AEGIS' erasure.
+Once, at a bright node of McL, warmth and ozone stand together rather than opposed: „Eine Annäherung an einen hell leuchtenden Knotenpunkt brachte einen Hauch von… Ozon und warmer Elektrizität?" ^[kohaerenz-protokoll.md:L562] `Landauer`, `Hitze` and `Knöchel` stand 0 times, `Ozon` twice, `Wärme` 15 times, `kalt` 4 times (`Plan/runs/kohaerenz-protokoll/05-verify.txt`). Row 2's polarity — warmth Juna's, cold the system's — holds for the two named bearers; the McL ozone is neither cold nor tied to AEGIS' suppression, a third rendering no later source's rule covers. No Kap 6 or Kap 36 line names Landauer warmth, so row 1's is neither held nor denied. The conflict stays open.

@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 28
+sources: 29
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -346,3 +346,9 @@ Position 1's bearer, twice, the system as AEGIS itself; nothing for position 2. 
 A hedged blueprint, `könnte`/`möglicherweise` throughout. AEGIS' parakonsistent logic is a tool that risks becoming a weakness: „Diese Toleranz gegenüber Widersprüchen könnte es jedoch auch blind machen für die *Schwere* der Fehljustierung, die Kael und die K-J-Verbindung darstellen." ^[m-als-fundament-der-simulation.md:L73] Later, a gap in the substrate itself, not stated as AEGIS' own incapacity: „Kael nutzt möglicherweise eine subtile Eigenschaft oder eine Lücke im M-Fundament, die AEGIS nicht überwacht oder versteht, um sich zu verstecken oder unentdeckt zu bleiben (z.B. ein lokaler "blinder Fleck" in der Simulationsphysik)." ^[m-als-fundament-der-simulation.md:L308]
 The [[alters|Alters]]/Guardians are AEGIS' agents (reading on [[guardians|Guardians]]) but no blind spot is given to them; `blind` stands once, `blinder` once (both quoted above) and `blindem` once, in an unrelated idiom about trusting metrics — none of the three a Guardian's (`Plan/runs/m-als-fundament-der-simulation/05-verify-readers.txt`).
 Nearest position 1, hedged twice over — a possible blindness of AEGIS' own tolerance, and a possible gap in the physics it built on, neither stated as fact. Nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Position 1's bearer — the system's own coherence metrics, categorically unable to hold a kind of connection — and none of its four Guardians given a blind spot of its own.**
+Studying RIVE's model, Kael finds its limit stated flatly: „Sie hatten keinen Platz für die Art von Resonanz, die er erlebt hatte, keine Metrik für die Qualität einer Verbindung, nur für ihre logische Konsistenz. Sie waren blind für das, was ihm genommen worden war." ^[kohaerenz-protokoll.md:L380] — a categorical incapacity of the apparatus AEGIS itself runs on, argued from what the metric cannot represent, in the shape of position 1's own argument.
+[[logos|LogOS]], the Netzweber, the Chaos-Regulator and the Möglichkeits-Weber are each given a domain and a manner — „Supervisor für Kohärenz und Struktur" ^[kohaerenz-protokoll.md:L438], „GUARDIAN MCL-SEKTOR" ^[kohaerenz-protokoll.md:L1168] — but never a blindness of the kind position 2 asks for; the Chaos-Regulator instead deviates and transforms (reading on [[guardians|Guardians]], Q1). `blind` stands once (L380, quoted above), `blinde` once, `blindwütig` once and `blindlings` twice — all of Kael's own Schatten and Kind-Anteil, none of them a Guardian's (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`). Position 1's bearer; nothing for position 2. The conflict stays open.

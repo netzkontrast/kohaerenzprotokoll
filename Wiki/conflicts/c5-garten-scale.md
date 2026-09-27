@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 18
+sources: 19
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -196,3 +196,9 @@ No place inside KW4 is named; `Garten` stands 0 times (`05-verify-readers.txt`).
 
 **The world side, with the same four-Guardian pairing as document 4.** The table: „Möglichkeits-Garten (KW4) | Kairos & Sophia | Exiles (Trauma-Halter) | Kiko (Kind/Flucht), Oblivion (Kollaps), Juna (Anomalie)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43] Kapitel 29: „Der Abgrund transformiert sich fließend in den Möglichkeits-Garten (KW4)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]
 No place of that name inside KW4, and `Garten der Möglichkeiten` does not occur (0, `05-verify.txt`). Position 1's side, by the world's own hyphenated name — nearest document 4's, of the two-year-older documents on this record. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Neither position — a third scale: a garden that is [[kael|Kael]]'s own inner landscape, not a Kern-Welt and not a place inside one, crossing three worlds rather than belonging to a fourth.**
+Kapitel 8, „Dialog im Inneren Garten" ^[kohaerenz-protokoll.md:L861], names its own scale: „Es war kein physischer Garten. Eher eine mentale Landschaft, ein Bewusstseinszustand" ^[kohaerenz-protokoll.md:L871]. It stands after Co₁, still present in Beta-Rho-5 — „Die Präsenz des Selbst war stark, der Innere Garten stabil." ^[kohaerenz-protokoll.md:L1980] — and again after Ly, where Kael returns to it. It is neither a Kernwelt of its own nor a Bereich inside a numbered one: it travels with [[kael|Kael]] across worlds, the way his other parts do.
+`Garten der Möglichkeiten`, `Möglichkeits-Garten` and `Kairos-Potentialis` stand 0 times (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`; `Möglichkeits-Weber` is a Guardian, not a place). This document's garden bears the record's name by coincidence of word alone, not by its subject: it names no fourth world and no place inside one. The conflict stays open, unmoved by it.

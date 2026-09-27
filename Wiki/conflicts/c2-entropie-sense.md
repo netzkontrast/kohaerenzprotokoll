@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 24
+sources: 25
 pages: ["entropie"]
 ---
 
@@ -227,3 +227,9 @@ Sense 3 in the konsolidiertes Konzept's and the master report's shape, but the d
 **The third sense as a thermodynamic proof, with a zone of near-zero entropy beside it.**
 „der thermodynamische Beweis, dass das Erzwingen von Ordnung zwingend Entropie akkumuliert." ^[dramatica-storyform-synthese-aegis-analyse.md:L59] The same scene seed's setting is its inverse: „einem Raum scheinbarer Null-Entropie, der unter massivem Überdruck steht." ^[dramatica-storyform-synthese-aegis-analyse.md:L59]
 It does not write `Entropie-Architektur` or call K₀ the condition of events (0, `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`) — sense 3 stated as a mechanism, as in the Duale Storyform-Synthese above, not as AEGIS' identity. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Sense 1, disorder exported to keep order — the earliest-dated read source on this record, in nearly the draft text's own later words.**
+„der gezielte Export von Entropie – all das ist nun ihre Seinsweise" ^[kohaerenz-protokoll.md:L95] — the Komponente's task at the border, eleven months before the draft text of 2026-05-08 states the same image in almost the same words (its L315, entry of 2026-09-25 above). Elsewhere the word names what the system's own metrics cannot hold: „als Minimierung von Entropie im Sinne von Unordnung" ^[kohaerenz-protokoll.md:L380], and what one Kernwelt is tuned by: „kontrollierte Entropie-Gradienten in Sektor Beta, My, Lambda" ^[kohaerenz-protokoll.md:L402].
+`Entropie` stands 18 times (`Plan/runs/kohaerenz-protokoll/05-verify.txt`), always disorder on the resisted or exported side, never AEGIS' own identity and never a matrix things stabilise out of. Sense 1's side, dated ahead of every other read source on this record. The conflict stays open.
