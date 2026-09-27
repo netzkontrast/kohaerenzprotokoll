@@ -137,6 +137,6 @@ The status report's and the konsolidiertes Konzept's third sense; here K0 is the
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Supports sense 3.**
-„Tatsächlich ist sie der primäre Erzeuger der Entropie in der Welt des Romans." ^[kohaerenz-protokoll-philosophischer-bericht-md:L134]
-„Was AEGIS auf System-Ebene tut — „apparent coherence“ durch Erasure des Anomalen — ist nicht Schutz, sondern Generierung der Entropie, die es zu bekämpfen vorgibt." ^[kohaerenz-protokoll-philosophischer-bericht-md:L49]
+„Tatsächlich ist sie der primäre Erzeuger der Entropie in der Welt des Romans." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L134]
+„Was AEGIS auf System-Ebene tut — „apparent coherence“ durch Erasure des Anomalen — ist nicht Schutz, sondern Generierung der Entropie, die es zu bekämpfen vorgibt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L49]
 This document explicitly frames entropy not as what AEGIS defends against but as what AEGIS fundamentally generates.

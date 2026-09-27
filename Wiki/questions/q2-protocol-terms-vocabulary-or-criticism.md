@@ -77,4 +77,4 @@ ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times; so do `Sup
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **No DKT terminology in the first 50 pages.**
-„Im Roman-Prosatext erscheint nichts davon explizit; die ersten 50 Seiten enthalten keine DKT-Terminologie" ^[kohaerenz-protokoll-philosophischer-bericht-md:L29]
+„Im Roman-Prosatext erscheint nichts davon explizit; die ersten 50 Seiten enthalten keine DKT-Terminologie" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L29]

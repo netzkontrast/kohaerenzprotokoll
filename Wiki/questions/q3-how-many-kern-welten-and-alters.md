@@ -221,4 +221,4 @@ No count stated for either, and no world is an alter's.
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Exactly 13 Alters.**
-„Der Canon hält genau 13 Alter. Frühere Vorschläge (11, 14, 15+) sind dekanonisiert." ^[kohaerenz-protokoll-philosophischer-bericht-md:L484]
+„Der Canon hält genau 13 Alter. Frühere Vorschläge (11, 14, 15+) sind dekanonisiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L484]

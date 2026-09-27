@@ -241,4 +241,4 @@ Something AEGIS deploys, in a region that is AEGIS' — neither component nor pe
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Residents of the engine room.**
-„Der „Maschinenraum hinter dem Rendering“. Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md:L439] (This refers to Nexus). It does not explicitly state whether they are components of AEGIS.
+„Der „Maschinenraum hinter dem Rendering“. Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] (This refers to Nexus). It does not explicitly state whether they are components of AEGIS.

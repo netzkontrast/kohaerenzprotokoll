@@ -223,5 +223,5 @@ Row 3's count, two. Where the other 2026 sources in this record that count the o
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Supports the position of two Guardians.**
-„In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE). Im aktuellen Canon sind sie reduziert auf zwei: Mnemosyne (Memory-Keeper, Klimax-Setting) und ein Lösch-Pol (Identität noch offen, Forschungsfrage)." ^[kohaerenz-protokoll-philosophischer-bericht-md:L296]
+„In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE). Im aktuellen Canon sind sie reduziert auf zwei: Mnemosyne (Memory-Keeper, Klimax-Setting) und ein Lösch-Pol (Identität noch offen, Forschungsfrage)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296]
 This document explicitly acknowledges the old five (or multiple) and states that they have been reduced to two, naming Mnemosyne and an open erasure pole.

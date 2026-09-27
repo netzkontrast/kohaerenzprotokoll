@@ -1054,5 +1054,5 @@ L57    **Kapitel 2: Nicht-euklidische Isolation und das Kachelproblem** Kael bew
 
 ## `kohaerenz-protokoll-philosophischer-bericht-md`
 
-„Multiplizitäts-Schleier hält bis Kapitel 13." ^[kohaerenz-protokoll-philosophischer-bericht-md:L535]
+„Multiplizitäts-Schleier hält bis Kapitel 13." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535]
 This marks the chapter where the multiplicity veil lifts or changes.

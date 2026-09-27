@@ -231,4 +231,4 @@ The Guardians are written `Guardian` — on two lines, both in compounds, „Gua
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Wächterprogramme are the Guardians.**
-„In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE). Im aktuellen Canon sind sie reduziert auf zwei: Mnemosyne (Memory-Keeper, Klimax-Setting) und ein Lösch-Pol (Identität noch offen, Forschungsfrage)." ^[kohaerenz-protokoll-philosophischer-bericht-md:L296]
+„In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE). Im aktuellen Canon sind sie reduziert auf zwei: Mnemosyne (Memory-Keeper, Klimax-Setting) und ein Lösch-Pol (Identität noch offen, Forschungsfrage)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296]

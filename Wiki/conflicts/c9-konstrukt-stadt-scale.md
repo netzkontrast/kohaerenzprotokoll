@@ -134,4 +134,4 @@ On no row by name. It is the chapter the session log's question is about: its ap
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **KW1 only.**
-„KW1 — Konstrukt-Stadt (Kantsche Phänomene)" ^[kohaerenz-protokoll-philosophischer-bericht-md:L429] explicitly maps Konstrukt-Stadt to KW1.
+„KW1 — Konstrukt-Stadt (Kantsche Phänomene)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L429] explicitly maps Konstrukt-Stadt to KW1.

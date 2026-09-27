@@ -221,5 +221,5 @@ Neither Kap 33 nor Kap 38; a hint in Kap 3, where the Konzept-Iteration [[genesi
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Never explicitly physical.**
-„Juna wird niemals physisch beschrieben. Nicht weil ihre physische Erscheinung unwichtig wäre, sondern weil ihre Wirklichkeit nicht in Beschreibung kondensiert." ^[kohaerenz-protokoll-philosophischer-bericht-md:L310]
+„Juna wird niemals physisch beschrieben. Nicht weil ihre physische Erscheinung unwichtig wäre, sondern weil ihre Wirklichkeit nicht in Beschreibung kondensiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L310]
 This doesn't name a chapter where she first appears, but enforces the rule that she only shows via effect, never physical description.

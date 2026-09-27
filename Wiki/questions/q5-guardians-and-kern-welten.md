@@ -182,4 +182,4 @@ On the pole: a second figure beside Mnemosyne, called by its function. On the pa
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Kernwelten are not tied to Guardians.**
-„die Kernwelten sind Akt-Marker, nicht je-ein-Guardian und nicht literale Geographie. Sie strukturieren die Erzählung von außen, nicht die Welt von innen." ^[kohaerenz-protokoll-philosophischer-bericht-md:L427]
+„die Kernwelten sind Akt-Marker, nicht je-ein-Guardian und nicht literale Geographie. Sie strukturieren die Erzählung von außen, nicht die Welt von innen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427]
