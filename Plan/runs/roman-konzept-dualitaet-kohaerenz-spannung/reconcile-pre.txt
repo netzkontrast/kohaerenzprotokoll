@@ -1,0 +1,230 @@
+# reconcile-pre — roman-konzept-dualitaet-kohaerenz-spannung
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+
+  203 candidates, 208 decisions — **135 by lookup, 73 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (1) — already recorded from this document — nothing to do
+  TSDP                                 tsdp
+
+## new_reading (36) — page exists, this document is not on it yet — a reading
+  Kael                                 kael
+  Konstrukt-Stadt                      konstrukt-stadt
+  AEGIS                                aegis
+  Entropie                             entropie
+  Juna                                 juna
+  Risse                                risse
+  Alters                               alters
+  Kernwelten                           kern-welten
+  Kernwelt                             kern-welten
+  Guardians                            guardians
+  LogOS                                logos
+  Lex                                  lex
+  Resonanz-Landschaft                  resonanz-landschaft
+  Mnemosyne                            mnemosyne
+  Silas                                silas
+  Grenzfeste                           grenzfeste
+  Cerberus                             cerberus
+  Nyx                                  nyx
+  Möglichkeits-Garten                  moeglichkeits-garten
+  Kairos                               kairos
+  Sophia                               sophia
+  Kiko                                 kiko
+  Oblivion                             oblivion
+  DKT                                  dkt
+  Kohärenz-Kernel                      kohaerenz-kernel
+  Kollaps-Kernel                       kollaps-kernel
+  Glitch                               risse
+  Sektor 04                            sektor-04
+  Nichts-Rauschen                      nichts-rauschen
+  Alex                                 alex
+  Archiv der Grenzen                   archiv-der-grenzen
+  Moros                                moros
+  Isabelle                             isabelle
+  Rhys                                 rhys
+  Funktionale Multiplizität            multiplizitaet
+  Mosaik-Herz                          mosaik-herz
+
+## new_term (98) — no page, no near match — a new page
+  Systemarchitektur                    
+  Novel Writing Assistent              
+  Dissoziative Identitätsstörung       
+  phänomenales Selbstmodell            
+  Täterintrojekt                       
+  Spiegel-Effekt                       
+  universalen Reboot                   
+  Anscheinend Normaler Persönlichkeitsanteil 
+  ANP                                  
+  Landauer-Prinzip                     
+  digitaler Abwärme                    
+  Ozon                                 
+  Strukturellen Dissoziation der Persönlichkeit 
+  Internal Family Systems              
+  IFS                                  
+  Emotionalen Persönlichkeitsanteile   
+  EPs                                  
+  ANPs                                 
+  KW1                                  
+  Manager                              
+  Limina                               
+  K1-Logik                             
+  KW2                                  
+  Caretaker                            
+  Eos                                  
+  KW3                                  
+  Firefighter                          
+  Persecutor                           
+  Exiles                               
+  Praetor                              
+  Nox                                  
+  KW4                                  
+  K1                                   
+  K0                                   
+  Deep POV                             
+  Erwachen-Zyklus                      
+  Planck-Latenz                        
+  Universal Reboot                     
+  Planck-Zeit                          
+  Kachelproblem                        
+  Datenknotenpunkt Gamma-7             
+  Tiling Problem                       
+  Das flüchtige Echo                   
+  K0-Intrusion                         
+  Kapitel 4                            
+  Kapitel 5                            
+  Halteproblem                         
+  Kapitel 6                            
+  semantische Firewall                 
+  Kapitel 7                            
+  Page-Wootters-Mechanismus            
+  Switching                            
+  Kapitel 8                            
+  Russellschen Antinomie               
+  Kapitel 9                            
+  Lost Time                            
+  Dissoziative Amnesie                 
+  Bekenstein-Schranke                  
+  Neutrino-Boden                       
+  Grenzsituation                       
+  blinde Fleck                         
+  Hard Problem of Consciousness        
+  Explanatory Gap                      
+  System-Kollaps                       
+  Schiffbruch des Denkens              
+  Quarantäne                           
+  Wittgensteins                        
+  Karl Jaspers                         
+  Turing                               
+  Anatomie der Spaltung                
+  epigenetische Plastizität            
+  Chaitins Konstante                   
+  Sweeper                              
+  Landauer-Hitze                       
+  Ereignishorizont                     
+  Spaghettisierung                     
+  Planck-Barriere                      
+  Quanten-Tunneling                    
+  Baryonenasymmetrie                   
+  Big Freeze                           
+  Wärmetod                             
+  Relationale Ontologie                
+  Kants                                
+  Kontingenz                           
+  Sein zum Tode                        
+  Wir-Geflechts                        
+  Replica Wormholes                    
+  Entanglement Islands                 
+  Hawking-Strahlung                    
+  Kintsugi                             
+  Subjekt-Objekt-Spaltung              
+  Autopoiesis                          
+  Meta-Ebene                           
+  Quantenschaum                        
+  Monstrous Moonshine                  
+  Sartres                              
+  Heideggers                           
+  Eugene Wigners                       
+
+## needs_judgement (73) — NEAR a known surface — one term or two?
+  TSDP-Integration  /  TSDP                    near: each other
+  Ultra-Plot  /  Ultra-Plot-Outline            near: each other
+  Kael  /  System Kael                         near: each other
+  Kael  /  Kael (Host)                         near: each other
+  AEGIS  /  AEGIS-Systembericht                near: each other
+  Autonomous Entropic Gatekeeper for Integrity Systems  /  Gatekeeper near: each other
+  Entropie  /  Residuale Entropie              near: each other
+  Rauschen  /  Nichts-Rauschen                 near: each other
+  Juna  /  Junas Demaskierung                  near: each other
+  Kernwelten  /  Kernwelt                      near: each other
+  Kernwelt  /  Kernwelt 2                      near: each other
+  Guardians  /  Guardian                       near: each other
+  Cerberus  /  Cerberus-Drohnen                near: each other
+  Fusion  /  Die existenzielle Fusion          near: each other
+  Fusion  /  Fusion der Ebenen                 near: each other
+  Teil I  /  Teil II                           near: each other
+  Teil I  /  Teil III                          near: each other
+  Kapitel 1–13  /  Kapitel 1                   near: each other
+  Kapitel 1–13  /  Kapitel 11                  near: each other
+  Kapitel 1  /  Kapitel 10                     near: each other
+  Kapitel 1  /  Kapitel 11                     near: each other
+  Kapitel 1  /  Kapitel 12                     near: each other
+  Kapitel 1  /  Kapitel 13                     near: each other
+  Kapitel 1  /  Kapitel 14                     near: each other
+  Kapitel 1  /  Kapitel 15                     near: each other
+  Kapitel 1  /  Kapitel 16                     near: each other
+  Kapitel 1  /  Kapitel 17                     near: each other
+  Kapitel 1  /  Kapitel 18                     near: each other
+  Kapitel 1  /  Kapitel 19                     near: each other
+  Kapitel 2  /  Kapitel 20                     near: each other
+  Kapitel 2  /  Kapitel 21                     near: each other
+  Kapitel 2  /  Kapitel 22                     near: each other
+  Kapitel 2  /  Kapitel 23                     near: each other
+  Kapitel 2  /  Kapitel 24                     near: each other
+  Kapitel 2  /  Kapitel 25                     near: each other
+  Kapitel 2  /  Kapitel 26                     near: each other
+  Kapitel 2  /  Kapitel 27                     near: each other
+  Kapitel 2  /  Kapitel 28                     near: each other
+  Kapitel 2  /  Kapitel 29                     near: each other
+  Kapitel 3  /  Kapitel 30                     near: each other
+  Kapitel 3  /  Kapitel 31                     near: each other
+  Kapitel 3  /  Kapitel 32                     near: each other
+  Kapitel 3  /  Kapitel 33                     near: each other
+  Kapitel 3  /  Kapitel 34                     near: each other
+  Kapitel 3  /  Kapitel 35                     near: each other
+  Kapitel 3  /  Kapitel 36                     near: each other
+  Kapitel 3  /  Kapitel 37                     near: each other
+  Kapitel 3  /  Kapitel 38                     near: each other
+  Kapitel 3  /  Kapitel 39                     near: each other
+  Escher-Schleife  /  Escher                   near: each other
+  Gödels Erstem Unvollständigkeitssatz  /  Gödel near: each other
+  Qualia  /  Qualia-Paradoxon                  near: each other
+  Teil II  /  Teil III                         near: each other
+  Ashby's Law of Requisite Variety  /  Ashby   near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  TSDP-Integration                             near: tsdp→tsdp
+  Autonomous Entropic Gatekeeper for Integrity Systems near: entropicgatekeeper→aegis
+  Rauschen                                     near: nichtsrauschen→nichts-rauschen
+  funktionalen Multiplizität                   near: multiplizitat→multiplizitaet
+  System Kael                                  near: kael→kael
+  Guardian                                     near: guardians→guardians, integrityguardian→aegis-teilfunktionen
+  Kael (Host)                                  near: kael→kael
+  Gatekeeper                                   near: entropicgatekeeper→aegis
+  Dual-Kernel-Theorie                          near: dualkerneltheoriedkt→dkt
+  Wohneinheit                                  near: kaelswohneinheit→kaels-wohneinheit, kaelswohneinheit10→kaels-wohneinheit
+  Cerberus-Drohnen                             near: cerberus→cerberus
+  Kohärenz-Verletzungs-Schock                  near: koharenz→kohaerenz
+  Gödel                                        near: godelgambit→goedel-gambit
+  Kernwelt 2                                   near: kernwelt→kern-welten
+  Junas Demaskierung                           near: juna→juna
+  AEGIS-Systembericht                          near: aegis→aegis
+  Zielkohärenz                                 near: koharenz→kohaerenz
+  Residuale Entropie                           near: entropie→entropie
+
+## in_document_not_in_census (4) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  DID                                  did                          L83
+  Dual-Kernel-Theorie (DKT)            dkt                          L45
+  Kohärenz                             kohaerenz                    L11
+  Simulation                           ueberwelt                    L27
+

@@ -1515,3 +1515,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „**Kapitel 1: Der Erwachen-Zyklus**“ (L94) and „**Kapitel 10: Junas Koordinaten**“ (L120) head two chapters of „Das Plot-Outline (Kapitel 1 – 39)“ (L88); the near match is the folded label `kapitel1` inside `kapitel10`.
 
 **Result.** two terms, and neither a term page: a chapter label names its chapter, and what the document says about it is a reading on Wiki/chapters/kap-NN.md (decision 013). Not mechanised — containment is the matcher's rule everywhere else
+
+## J109 — Datenknotenpunkt Gamma-7 / Datenverarbeitungsknoten 7G
+
+**one-term** · roman-konzept-dualitaet-kohaerenz-spannung · 2026-09-27 · replay: `judgement`
+
+- **rule:** a designator whose letter and number are reordered or spelled out names the same place when function, occupant and world agree (J64)
+- **mechanised by:** `nothing`
+- **features:** designator, same-function, same-world, reordered-designator
+
+**Question.** is the document's Datenknotenpunkt Gamma-7 the Datenverarbeitungsknoten 7G the wiki pages as Kael's workplace in KW1?
+
+**What was done.** „Kael bewegt sich durch die Korridore der Stadt zu seinem Arbeitsplatz am Datenknotenpunkt Gamma-7.“ (L57) — Kapitel 2, in the Konstrukt-Stadt, which the document's table makes KW1 (L40); `7G` 0 in the document. The page is Kael's workplace in KW1; the designator's two parts stand in the other order, the letter spelled out.
+
+**Result.** one term: a reading on datenverarbeitungsknoten-7g about its name and its chapter; the surface is not added, since one document writes it. Not mechanised — fold() cannot know that Gamma is G
