@@ -36,6 +36,7 @@ KINDS = {
 SUITES = [
     ("quotes, find, fold", "std", ["scripts/selftest.py"]),
     ("entities matcher", "std", ["scripts/entities.py", "selftest"]),
+    ("overview: names, pairs, case", "std", ["scripts/overview.py", "selftest"]),
     ("candidate lists compared", "std", ["scripts/agree.py", "selftest"]),
     ("reconcile sweep", "std", ["scripts/reconcile.py", "--selftest"]),
     ("skills", "std", ["scripts/check_skills.py", "--selftest"]),

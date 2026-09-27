@@ -46,5 +46,281 @@
         "format": "md"
       }
     ]
+  },
+  {
+    "keep": "ki-roman-architektur-kohaerenz-und-kollaps",
+    "urls": 9,
+    "fold": [
+      {
+        "slug": "ki-roman-architektur-kohaerenz-und-kollaps-3",
+        "urls": 9,
+        "end_list": 0,
+        "format": "gdoc"
+      },
+      {
+        "slug": "ki-roman-architektur-kohaerenz-und-kollaps-2",
+        "urls": 9,
+        "end_list": 0,
+        "format": "gdoc"
+      },
+      {
+        "slug": "ki-roman-architektur-kohaerenz-und-kollaps-4",
+        "urls": 9,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "ki-gestuetzter-roman-assistent-projektplanung",
+    "urls": 20,
+    "fold": [
+      {
+        "slug": "ki-gestuetzter-roman-assistent-projektplanung-2",
+        "urls": 20,
+        "end_list": 0,
+        "format": "gdoc"
+      },
+      {
+        "slug": "ki-gestuetzter-roman-assistent-projektplanung-3",
+        "urls": 20,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "plot-analyse-und-romanentwicklung",
+    "urls": 43,
+    "fold": [
+      {
+        "slug": "plot-analyse-und-romanentwicklung-2",
+        "urls": 43,
+        "end_list": 0,
+        "format": "gdoc"
+      },
+      {
+        "slug": "plot-analyse-und-romanentwicklung-3",
+        "urls": 43,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "roman-konzept-reduktion-und-kernfindung",
+    "urls": 16,
+    "fold": [
+      {
+        "slug": "roman-konzept-reduktion-und-kernfindung-2",
+        "urls": 16,
+        "end_list": 7,
+        "format": "gdoc"
+      },
+      {
+        "slug": "roman-konzept-reduktion-und-kernfindung-3",
+        "urls": 16,
+        "end_list": 7,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "romanarchitektur-validierung-und-synthese",
+    "urls": 18,
+    "fold": [
+      {
+        "slug": "romanarchitektur-validierung-und-synthese-2",
+        "urls": 18,
+        "end_list": 8,
+        "format": "gdoc"
+      },
+      {
+        "slug": "romanarchitektur-validierung-und-synthese-3",
+        "urls": 18,
+        "end_list": 8,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "kohaerenz-protokoll-synthese",
+    "urls": 10,
+    "fold": [
+      {
+        "slug": "kohaerenz-protokoll-architektur-synthese",
+        "urls": 10,
+        "end_list": 5,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "roman-konzept-kohaerenz-protokoll",
+    "urls": 38,
+    "fold": [
+      {
+        "slug": "1-roman-konzept-kohaerenz-protokoll",
+        "urls": 38,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "kohaerenz-protokoll-plot-blueprint-erstellung",
+    "urls": 87,
+    "fold": [
+      {
+        "slug": "blueprint-2",
+        "urls": 87,
+        "end_list": 23,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "ki-roman-assistent-web-app-entwurf",
+    "urls": 29,
+    "fold": [
+      {
+        "slug": "ki-roman-assistent-web-app-entwurf-2",
+        "urls": 29,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "kohaerenz-protokoll-plot-synthese-2",
+    "urls": 0,
+    "fold": [
+      {
+        "slug": "kohaerenz-protokoll-plot-synthese-3",
+        "urls": 0,
+        "end_list": 75,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "narrative-loesungen-fuer-romanprojekt",
+    "urls": 204,
+    "fold": [
+      {
+        "slug": "kopie-von-narrative-loesungen-fuer-romanprojekt",
+        "urls": 204,
+        "end_list": 5,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "plot-konzepte-kohaerenz-protokoll-generierung",
+    "urls": 22,
+    "fold": [
+      {
+        "slug": "plot-konzepte-kohaerenz-protokoll-generierung-2",
+        "urls": 22,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "projekt-kohaerenz-protokoll-narrative-dekonstruktion",
+    "urls": 23,
+    "fold": [
+      {
+        "slug": "projekt-kohaerenz-protokoll-narrative-dekonstruktion-2",
+        "urls": 23,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "roman-konzeptentwicklung-kohaerenz-protokoll",
+    "urls": 24,
+    "fold": [
+      {
+        "slug": "roman-konzeptentwicklung-kohaerenz-protokoll-2",
+        "urls": 24,
+        "end_list": 5,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "roman-synthese-mit-dual-kernel-theorie",
+    "urls": 11,
+    "fold": [
+      {
+        "slug": "roman-synthese-mit-dual-kernel-theorie-2",
+        "urls": 11,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "vorarbeiten-ausformulierung-kapitel-1-teil-1",
+    "urls": 32,
+    "fold": [
+      {
+        "slug": "roman-ausformulierung-kapitel-1-teil-1",
+        "urls": 32,
+        "end_list": 6,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "romanprojekt-analyse-synthese",
+    "urls": 0,
+    "fold": [
+      {
+        "slug": "romanprojekt-analyse-synthese-2",
+        "urls": 0,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "romanprojekt-kohaerenz-protokoll-analyse",
+    "urls": 0,
+    "fold": [
+      {
+        "slug": "romanprojekt-kohaerenz-protokoll-analyse-2",
+        "urls": 0,
+        "end_list": 6,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "romanprojekt-analyse-kohaerenz-protokoll",
+    "urls": 0,
+    "fold": [
+      {
+        "slug": "romanprojekt-analyse-widersprueche-ideen",
+        "urls": 0,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
+  },
+  {
+    "keep": "sf-roman-eroeffnung-fesselnde-techniken-analysiert",
+    "urls": 55,
+    "fold": [
+      {
+        "slug": "sf-roman-eroeffnung-fesselnde-techniken-analysiert-2",
+        "urls": 55,
+        "end_list": 0,
+        "format": "gdoc"
+      }
+    ]
   }
 ]

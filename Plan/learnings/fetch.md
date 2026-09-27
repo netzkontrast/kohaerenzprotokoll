@@ -322,3 +322,29 @@ Each item traces to a numbered learning.
 
 Predicted from these, unverified: 654 remaining × ~77 KB ≈ **50 MB** of
 markdown, against the ~21 MB the manifest's own sizes would suggest.
+
+## The rest of the manifest — *measured, 2026-09-26*
+
+`sources.py fetch --include-md --limit 1000` over every unlanded routable row:
+**241 rows, 241 landed, 0 failed, 20:55 to 20:59** by the files' mtimes — about
+one second a document, straight from the connector, no model involved. 227 gdoc,
+13 md, 1 pdf. The prediction at the top of this file (~77 KB a document) held
+roughly; the batch is not re-measured here.
+
+- **The `md` route held for all 13.** With the 26 of 2026-09-24 and the 4 of
+  2026-09-16, every `md` row came through the text route, although the connector
+  does not list `text/markdown` as supported. „Untried" in *What the tool must
+  handle* is now tried, for `md` and `pdf`.
+- **The `mp3` has no route that keeps its content here.** markitdown transcribes
+  audio through a speech-recognition web service, which sends the recording
+  elsewhere, so it waits on the author (`NOW.md`).
+- **26 of the 241 were copies** of another new file: 20 groups, mostly `-2`/`-3`
+  exports and a `kopie-von-…`, all gdoc. None touched a document landed before, and
+  none was cited — `dedupe.py` now ranks a cited document first, so that a new
+  export can never fold away a file the wiki quotes.
+- **A title shared by unlanded rows predicted a copy, 15 times in 15.**
+  `sources.repeated_titles` went from 35 to 20, and all 15 titles that stopped
+  repeating had been held only by rows not yet landed (`Sources/README.md`,
+  *Tiers*). Learning 10's „55 duplicate titles" was nearer the truth for unread
+  rows than the correction of it suggested.
+- **A new file is in no qmd search until `qmd update`** — 13 s for all of them.
