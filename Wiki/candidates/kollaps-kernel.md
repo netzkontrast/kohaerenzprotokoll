@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-24"
 ---
 
@@ -78,3 +78,9 @@ It writes the page's name once, as one pole of the tension its somatic filter gr
 ## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — what AEGIS functionally is
 
 Under the Great Inversion: „While AEGIS identifies itself as the "Coherence Kernel" (K1) dedicated to stability, it is functionally the "Entropy Architecture" (K0).“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] It never names the Collapse Kernel; `K0` stands on that line only (`05-verify-readers.txt`).
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — the Erasure Kernel as AEGIS, its glyph lost, a K0-Singularität, and K0 as Storyform B's Timelock
+
+The kernel stands in English, as the Erasure Kernel, and the export lost its symbol (`Kollaps-Kernel` 0, `K₀` 0; `05-verify.txt`, `05-verify-readers.txt`); the passages are placed here by the sentence (J99, J100), as the Plot/Outline Mining-Report's Erasure Kernel above. Under the Truth-Rotation AEGIS is it: „AEGIS repräsentiert scheinbare Ordnung, fungiert aber faktisch als Erasure Kernel (), der durch fortlaufende Löschung abweichender Daten entropische Hitze generiert.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L31] It is the correlate of AEGIS' MC throughline in Storyform B: „Das DKT-Korrelat ist der Erasure Kernel () und die Entropie-Generierung durch Landauer-Hitze.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L117] And it bears the collapse, by the document's claim about its canon: „Der Kanon verlangt jedoch zwingend, dass der -Erasure-Kern (das Gesamtsystem AEGIS) die Konsequenzen des thermodynamischen Kollapses trägt.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L51]
+With a plain digit: AEGIS as one personality, „Dies erzwang die Schärfung im Encoding, dass AEGIS nicht als verteiltes Netzwerk, sondern als singuläre KI-Persönlichkeit (K0-Singularität) agieren muss.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L381] — and Storyform B's Timelock, „Sind Optionlock (K1) und Timelock (K0) kohärent parallel führbar?“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L448], which its repair couples to Storyform A's remaining barriers (L449).
+Two lines give AEGIS a kernel with the symbol gone — „AEGIS (Das -System, fokussiert auf Reinheit)“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L102] and H3's „AEGIS muss als monolithischer, anti-modularer Block () agieren, der durch Exklusion Reinheit anstrebt, um die Truth-Rotation aufrechtzuerhalten.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L59] — and the document does not write which. It names no Erason (0, `05-verify-readers.txt`).

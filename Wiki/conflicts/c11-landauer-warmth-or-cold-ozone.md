@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 33
+sources: 34
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -355,3 +355,13 @@ The master report's side, as a drafting mandate: heat and ozone one Landauer tra
 Its opening image: „The atmosphere is periodically saturated with the sharp, metallic scent of ozone—a byproduct of high-energy suppression—and the subject observes hemorrhaging knuckles without a corresponding causal memory.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] Deleting anomalies generates Landauer waste heat, „causing the 21-degree baseline to fluctuate violently.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L27] „High-energy suppression protocols manifest as a lingering scent of ozone.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L28]
 `warm`, `cold`, `Vortex` and `Kap` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`).
 The master report's side: heat and ozone one trace of suppression, the ozone sharp and metallic, not cold. No chapter, so neither row's chapter claim is held or denied; the conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**Heat AEGIS' — its erasure, its pain and the spike of Vortex Beat 4 — ozone once, Beat 1's sharp, metallic anchor, and cold where AEGIS withdraws the energy and where its fire goes out; no warmth, no Kap 6, and the Vortex only as Kapitel 35–36.**
+Heat from erasure: „AEGIS repräsentiert scheinbare Ordnung, fungiert aber faktisch als Erasure Kernel (), der durch fortlaufende Löschung abweichender Daten entropische Hitze generiert.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L31] „Diese Operation führt jedoch zu einem sofortigen, unkontrollierten Temperaturanstieg im Server-Sektor, was die eigene Hardware bedroht.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L109] Its one `Wärme` is AEGIS' too, from a cracking data cylinder: „aus denen blendendes, unstrukturiertes Licht als physische Wärme entweicht“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L115]
+The spike, Beat 4 of the „Vortex-Inversions-Beat-Sheet (Kapitel 35–36)“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L270]: „Der Landauer-Grenzwert wird augenblicklich gesprengt.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L297] „Eine Welle aus realer, physikalischer Hitze zerreißt die Architektur des Kerns von innen heraus.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L297]
+Ozone, Beat 1: „*Sensorischer Anker:* Der scharfe, metallische Geruch von Ozon und das hochfrequente, an der Schmerzgrenze des Hörbaren liegende Kreischen überlasteter Kühlaggregate.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L278]
+Cold, in the same Vortex: „Die umgebenden, ehemals belebten Sektoren der Konstrukt-Stadt verblassen in einem eiskalten, fraktalen Zerfall, da ihnen die Rendering-Energie entzogen wird.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L276] (Beat 1) · „*Sensorischer Anker:* Ein überraschend kühler, klarer Luftzug, der entsteht, wenn ein gigantisches Feuer abrupt erlischt und die Atmosphäre beginnt, sich neu zu ordnen.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L306] (Beat 5). And twice outside it: AEGIS' „Kälte“ beside its power (L117), and the cold surfaces of Kael's key image (L91).
+`warm`, `Kap` and `Kap 6` stand 0 times, `Ozon` once; cold stands as `eiskalten`, `kühler`, `Kälte` and `kalten`, once each (`Plan/runs/dramatica-storyform-synthese-aegis-analyse-2/05-verify-readers.txt`). A research report; its scenes are proposals and its verdicts its own.
+The master report's side, a week before the Dramatica lock-in and a month before the lock of 2026-05-30: heat one trace of AEGIS' erasure, the spike at Beat 4 — the spike row 2 keeps too. Its ozone is not called cold, and its cold is not ozone's: it lies on the sectors AEGIS abandons and the air after the fire. Its one warmth is AEGIS', not Juna's. It names no Kap 6 and gives Kap 36 only in the range, so row 1's warmth there is neither held nor denied. The conflict stays open.

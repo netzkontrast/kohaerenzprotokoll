@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 25
-readings: 25
+sources: 26
+readings: 26
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-24"
 ---
 
@@ -63,6 +63,9 @@ The Editorial Style Dossier, of the same date, states no rule: heat and ozone ar
 cold is Lex's (L19), and Juna is phantom resonance and the Phone-Silence (L69).
 The Physics of Heartbreak, of the same date, states no rule: heat and ozone are suppression's (its L13, L27, L28), and heat is the truth one
 embraces (L41); nothing warm or cold stands in it.
+The Dramatica-Synthese, of 2026-04-30, states no rule: heat and its one `Wärme` are AEGIS' erasure and ozone
+Beat 1's sharp, metallic anchor (its L31, L115, L278); cold is where AEGIS withdraws the energy and where its
+fire goes out (L276, L306), AEGIS' manner (L117) and Kael's key image (L91); Juna's traces are not thermal (L141).
 [[landauer-signatur]] has each reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
@@ -236,3 +239,10 @@ Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed by what 
 
 No rule is stated, and nothing warm or cold stands in it (`warm` 0, `cold` 0, `05-verify-readers.txt`). Heat and ozone are both suppression's (L13, L27, L28) — see the Landauer-Signatur's page. Its last question makes the heat the truth's, against the sterile simulation: „If the physics of your world proved that your pain was real but your separation was an illusion, would you choose to stay in the sterile safety of the simulation, or embrace the heat of the truth?“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L41]
 Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed by what it states (J62). C11.
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — no rule — heat and ozone AEGIS', cold where AEGIS withdraws and where its fire goes out, and nothing thermal of Juna's
+
+No rule is stated: `warm` stands 0 times, and its one `Polarität` is the moral polarity the Truth-Rotation inverts (L31; `05-verify-readers.txt`). Heat is AEGIS' erasure, and its one `Wärme` is AEGIS' too, light escaping from its cracking data cylinder (L115); ozone stands once, Beat 1's sharp, metallic anchor (L278) — see the Landauer-Signatur's page.
+Cold is never ozone's. In the Vortex it is where AEGIS takes the energy away — the sectors fade „in einem eiskalten, fraktalen Zerfall“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L276] — and where its fire goes out: „Ein überraschend kühler, klarer Luftzug“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L306] in Beat 5. It is AEGIS' manner: „da die algorithmische Übermacht und Kälte von AEGIS in B die psychologische Ausweglosigkeit und Isolation von Kael in A spiegelbildlich verstärkt“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L117]. And it is on Kael's side once, in his key image: „Das zweite Schlüssel-Bild zeigt Kondenswasser an kalten Oberflächen, das langsam aufwärts fließt, was die umgekehrte Entropie im isolierten -Kern somatisch greifbar macht.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L91]
+Juna's traces are not thermal: „sie wird nie physisch greifbar oder visuell detailliert beschrieben, sondern existiert ausschließlich über ihre Wirkung“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L141] — a shadow with no light to cast it and a sudden silence (L139).
+Dated 2026-04-30, a month before the lock of 2026-05-30. Placed here by what it states (J62). C11.
