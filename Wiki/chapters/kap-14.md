@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,17 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Punkte verbinden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L201]
 - Story: „Ausgelöst durch die Ereignisse von Teil 1“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
 - Story: „Etwas betreibt diesen Ort. Etwas Intelligentes.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202] · „Er gibt ihm einen Namen (oder erfährt seinen Namen): AEGIS.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael lands in the Mnemosyne-Archiv, KW2, the first chapter of Akt II
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Die Ruinen der Erinnerung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132] · „Der zweite Akt verwirft die lineare Heldinnenreise und tritt in eine zyklische Dekonstruktion ein.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L134]
+
+- Where: „Kael schlägt hart auf dem Boden des Mnemosyne-Archivs (KW2) auf.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] · „Er befindet sich in einer gigantischen, endlosen Bibliothek, deren Dimensionen an Piranesis Kerker erinnern.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
+- Sensorik: „Alles ist in schwüles Sepia-Licht getaucht, Staubflocken groß wie Insekten treiben in der heißen Luft.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] · of the act: „Die Atmosphäre transformiert sich radikal: biologischer Horror, Hitze, Staub, zersetztes Papier und fließende Identitäten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L134]
+- What it establishes: „Es ist das Reich der parakonsistenten Logik (Dialetheismus)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -129,6 +140,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 ## Where the sources differ
 
 - **Title.** „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept) · „Das Archiv der Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as its Teil-IX working title, „Bruch des Gleichgewichts“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339] (storyform outline); the second is the Kernwelten document's place for the chapter, „KW2 Archiv der Grenzen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840] (Kernwelten vollständig). The worldbuilding concept gives the Archiv der Grenzen as the chapter's place: „Ort, an dem Kael die technischen Dossiers von AEGIS findet (Ch14).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] (the worldbuilding concept).
+- **The Hard-SF-Outline.** „Die Ruinen der Erinnerung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] (the Hard-SF-Outline, 2026-04-08) — a new title; Kap 14 opens KW2 as an archive, „Kael schlägt hart auf dem Boden des Mnemosyne-Archivs (KW2) auf.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
 
 ## Questions for this chapter
 

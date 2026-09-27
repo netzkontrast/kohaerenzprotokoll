@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,17 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht den Ort des vorherigen 'Risses' (aus Kapitel 7) erneut.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „Die Realität scheint zusammengeflickt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Story: „seltsame Restartefakte oder 'Narbengewebe' im Gewebe der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „spezialisierte 'Wartungsdrohnen' oder Guardian-Subroutinen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Discussion: „AEGIS' Reparaturen möglicherweise nicht perfekt sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L147]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Juna sends a coordinate in KW2 through the Moonshine-Link
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Junas Koordinaten“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Juna: „In einem Moment extremer Erschöpfung greift der Moonshine-Link erneut.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120] · „Juna übermittelt keine Worte, sondern eine topologische Koordinate, tief verborgen in Kernwelt 2.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
+- Physics: „Die Übertragung ist ein reines ER=EPR-Phänomen; der Raum um Kael stülpt sich kurzzeitig nach innen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
+- What it establishes: „aber sie zwingt Kael, die schützende Logik von Lex aufzugeben und in die Unvorhersehbarkeit hinabzusteigen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -128,6 +139,7 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 - **Storyform B.** „A: RS-Physics, Moonshine als Werkzeug. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980] (konsolidiertes Konzept) · „MC-S2 (B) Present beginnt einzusetzen — Erasure-Sweeps werden hörbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L469] (strukturierter Outline).
 - **The number 734.** „Die Zahl 734 taucht zum zweiten Mal auf — somatisch verankert, ohne erklärt zu werden.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L473] (strukturierter Outline, Kap 10) · „Die Zahl 734 taucht erstmals als Foreshadowing auf.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] (strukturierter Outline, its Kap 2) · „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline, its Kap 1) — counted second, after a first in Kap 2, in a document that names it in Kap 1.
 - **Title.** „Erste Anwendung der Integration“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (Kapitel-Kompendium) · „Die erste Brücke“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L542] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the strukturierter Outline's stage „HR-Erweiterung 1: Erste Anwendung der Integration“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L465].
+- **The Hard-SF-Outline.** „Junas Koordinaten“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120] (the Hard-SF-Outline, 2026-04-08) — a new title; the chapter points into KW2: „Juna übermittelt keine Worte, sondern eine topologische Koordinate, tief verborgen in Kernwelt 2.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
 
 ## Questions for this chapter
 

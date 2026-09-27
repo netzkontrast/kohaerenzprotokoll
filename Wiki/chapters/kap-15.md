@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,17 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael führt absichtlich Aktionen durch, von denen er weiß, dass AEGIS sie überwacht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Story: „Er beginnt, eine mentale (oder tatsächliche) Karte des Überwachungsnetzes zu erstellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Discussion: „Dieser Subplot macht Kael zu einem aktiven Ermittler des Systems.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L216]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS' protocols fail in KW2, and Mnemosyne wears Kael down
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Das Schweigen der Algorithmen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- AEGIS: „AEGIS kann in dieser feuchten, emotionalen Umgebung nicht mit der gleichen klinischen Präzision operieren wie in KW1.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138] · „Die ZTEM-Protokolle versagen an der Unschärfe der Daten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138]
+- Who: „Stattdessen nutzt Mnemosyne, der Guardian dieser Welt, eine perfide Form der Ermüdung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138]
+- Story: „Kael findet endlose Aufzeichnungen seines eigenen Lebens, die jedoch alle in tragischen Alternativ-Szenarien enden.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -121,6 +132,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 ## Where the sources differ
 
 - **Title.** „Schattenwurf“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L562] (Konzept-Iteration Genesis) · „Z1-Destabilisierung: Trigger“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L587] (strukturierter Outline; „Z1-Trigger“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L989] in the konsolidiertes Konzept) · „Turing-Mechanik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211] (Kapitel-Kompendium; so too storyform outline). The first is the others' sensory note, „Sensorik: Schattenwurf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990] (konsolidiertes Konzept); the storyform outline keeps the second as „(Zyklus-Funktion: Z1-Trigger)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340] (storyform outline). · „Kap 15 — Turing-Mechanik.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] (the philosophy catalogue, as its theory anchor).
+- **The Hard-SF-Outline.** „Das Schweigen der Algorithmen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138] (the Hard-SF-Outline, 2026-04-08) — a new title; the chapter belongs to KW2's Guardian, „Stattdessen nutzt Mnemosyne, der Guardian dieser Welt, eine perfide Form der Ermüdung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L138]
 
 ## Questions for this chapter
 

@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael handelt mit neu gefundener Entschlossenheit oder innerer Konsistenz“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185] · „Alte prädiktive Modelle werden als 'veraltet' markiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Story: „Kael bemerkt möglicherweise eine Veränderung in der 'Haltung' des Systems ihm gegenüber – weniger abweisend, wachsamer.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Discussion: „Dies markiert einen Wendepunkt in der Kael-AEGIS-Dynamik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186] · „Es erhöht den Einsatz für Teil 2 erheblich.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the temperature oscillation, and Kael falls from KW1 into KW2
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Der Fall in die Tiefe“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L128]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Story: „Der Übergangsbereich kollabiert unter der inkohärenten Logik.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130] · „Der finale Trigger ist eine extreme, physikalische Manifestation einer desorganisierten Bindung.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130]
+- Sensorik: „Von den ewigen 21°C Logos-Primes schnellt sie auf drückende 34°C, um sofort danach auf eisige 8°C abzustürzen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130] · „Diese relationale Information ist für AEGIS unlöschbar.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130]
+- What it establishes: „Der Boden bricht weg, und Kael stürzt unkontrolliert in den entropischen Abgrund.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130]
+- Checklist, Fixpunkt 4: „(desorganisierte Bindung)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L218] · „Die abrupte Temperatur-Oszillation zerreißt die Stabilität von Logos-Prime und führt zum Sturz in das Archiv.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L218]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -161,6 +173,7 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 - **World.** „Tanz im Garten (neue innere Welt) · KW1→Übergang“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (Kapitel-Kompendium) · „KW1→Übergang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „KW3 Evaluierungseinheit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] (Kernwelten vollständig). · „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-konzept-master-md.md:L658], KW1 to its end (master report). · „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496] and, in the same chapter, a KW3 place: „Evaluierungseinheit — Ort des „Messers im Bewusstsein" (Ch13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L578] (the worldbuilding concept).
 - **What happens.** „Innere Praxis etabliert; Teil-1-Abschluss.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „Möglichkeits-Garten (KW4-Vorgriff) als innere Praxis.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L545] (strukturierter Outline) · „Messer im Bewusstsein / Schleier-Fall“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] · „wo Personae kollabieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] (Kernwelten vollständig). · „Wo Personae kollabieren.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L578] (the worldbuilding concept), in Kernwelten vollständig's words.
 - **Genesis echo.** The echo two documents set on Kap 13 carries the name each gives Kap 12's stage: „Kap 13: die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L842] · „Stille der Mitte — Jetzt-Raum (innere Stabilität gefunden)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L830] (konsolidiertes Konzept); „die Stille der Mitte = Echo der Vor-Trennungs-Stille der Reinform“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] · „Stille der Mitte (Jetzt-Raum) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (Kapitel-Kompendium).
+- **The Hard-SF-Outline.** „Der Fall in die Tiefe“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L128] (the Hard-SF-Outline, 2026-04-08) — a new title; the end of Akt I is the fall from KW1 into KW2, „Die abrupte Temperatur-Oszillation zerreißt die Stabilität von Logos-Prime und führt zum Sturz in das Archiv.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L218]
 
 ## Questions for this chapter
 

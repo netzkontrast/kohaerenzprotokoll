@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Reaktionsschwelle sondieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L227]
 - Story: „Kael testet systematisch AEGIS' Reaktionen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228] · „geringfügige Regelverstöße, Ausdruck spezifischer Emotionen, Versuch verbotener Verbindungen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
 - Story: „Er könnte entdecken, dass einige Aktionen unverhältnismäßig große Reaktionen hervorrufen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kiko, and the first layer of the origin trauma
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Die Begegnung mit dem Kind“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L140]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Who: „Tief in einem verrottenden Sektor der Bibliothek stößt Kael auf Kiko, das Freeze/Kind-Alter.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142] · „spürt aber eine erdrückende, väterliche Verantwortung (Rhys regt sich in ihm)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]
+- What it establishes: „Hier blutet das erste Layer des Origin-Traumas (das Kindheitsbindungstrauma) massiv in die Szenerie.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]
+- Reader's view: „Er projiziert dieses Leid immer noch auf eine fremde Gefangene der Simulation“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]
+- Checklist, Fixpunkt 10, for Kapitel 16 and 24: „Layer 1 (Bindungstrauma), Layer 2 (Fragmentierungsnacht als Twist).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224] · „Kiko offenbart das kindliche Bindungstrauma.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -121,6 +133,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 ## Where the sources differ
 
 - **Title.** „Z1-Reaktion: Bunker reaktiv“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L611] (strukturierter Outline; „Z1-Bunker reaktiv“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L991] konsolidiertes Konzept, „Bunker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L566] Konzept-Iteration Genesis) · „Die Diktatur der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (Kapitel-Kompendium; so too storyform outline, and cited by the Plot-Konkretisierung). The storyform outline keeps the first as „(Zyklus-Funktion: Z1-Bunker reaktiv)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341] (storyform outline). · „Kap 16 — Diktatur der Komplexität“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L335] in its text and „Diktatur der physikalischen Zeit“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L705] in its table (the philosophy catalogue) — the Kompendium's title, and the phrase the Kompendium gives as the chapter's theory.
+- **The Hard-SF-Outline.** „Die Begegnung mit dem Kind“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L140] (the Hard-SF-Outline, 2026-04-08) — a new title; the chapter is Kiko's and the origin trauma's first layer: „Kiko offenbart das kindliche Bindungstrauma.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224]
 
 ## Questions for this chapter
 

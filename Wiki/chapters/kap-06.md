@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht ein Gebiet, das für seine perfekte Ordnung und Vorhersagbarkeit bekannt ist (vielleicht innerhalb von KW1 oder einer stark regulierten Zone).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94] · „Der Vorfall wird schnell von AEGIS/Guardians eingedämmt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — LogOS turns the city against Kael, the temperature sinks, Silas freezes him
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Der Abstieg beginnt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L106]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Who: „LogOS, der Guardian von KW1, enttarnt Kaels wachsende innere Dissonanz.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
+- Sensorik (C11): „Türen verschweißen sich auf atomarer Ebene, und die Temperatur sinkt schleichend ab.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
+- Silas: „Silas, das Coheron-Echo, manifestiert sich als eine lähmende Erstarrung in Kael, ein Einfrieren der Gliedmaßen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
+- What it establishes: „Lex berechnet, dass ein Überleben in der P-Klasse-Logik von Logos-Prime unmöglich ist.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] · „Sie müssen in die unkartierten Zwischenzonen der Architektur vordringen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -133,6 +145,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - **Landauer sensorics.** „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528] (Konzept-Iteration Genesis; also strukturierter Outline and the 39-chapter spec) · „Sensorik: Hitzeschlieren, Landauer-Wärme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] (konsolidiertes Konzept) · „Sensorik der Landauer-Signatur nach Polaritäts-Lock: kalt/Ozon“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311] (storyform outline) · „Sensorik kalt/Ozon (Polaritäts-Filter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung). (C11)
 - **When the other Alters' style codes are full.** „Erste polyphonen Einbrüche — Stilcodes anderer Alters werden voll sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L377] (strukturierter Outline, Kap 6) · „voll ausgeprägt ab Kap 8–10“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810] (konsolidiertes Konzept) · „voll-polyphon erst Akt II“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L927] (Kernwelten vollständig).
 - **Title.** „Tod einer Einstellung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (Kapitel-Kompendium) · „Echos im Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L526] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the others' stage „HR-Stufe 6: Tod einer Einstellung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L369].
+- **The Hard-SF-Outline.** „Türen verschweißen sich auf atomarer Ebene, und die Temperatur sinkt schleichend ab.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] · „Silas, das Coheron-Echo, manifestiert sich als eine lähmende Erstarrung in Kael, ein Einfrieren der Gliedmaßen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] (the Hard-SF-Outline, 2026-04-08) — Kap 6 grows cold and Silas freezes Kael, a month before the Konzept-Iteration's heat shimmer; its title is „Der Abstieg beginnt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L106]. (C11)
 
 ## Questions for this chapter
 

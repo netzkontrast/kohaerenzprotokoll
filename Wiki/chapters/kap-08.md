@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C14", "Q4"]
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht, auf eine spezifische traumatische Erinnerung zuzugreifen oder sie abzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „nicht vergessen, aber vielleicht 'verschwommen', 'korrumpiert' oder emotional 'gedämpft'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „vielleicht interveniert ein Guardian wie Mnemosyne subtil, um Kaels Gedanken umzulenken“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120] · „Kael könnte 'Lücken' oder Inkonsistenzen in seiner eigenen Erzählung finden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the fight with Nyx ends in a stalemate, and Alex takes over
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Spiegelneuronen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L114]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Story: „Der Kampf gegen Nyx endet nicht mit Vernichtung, sondern mit einer erzwungenen Pattsituation.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116] · „Durch einen kurzen, physischen Kontakt erfährt Kael einen Blitz von Nyx' emotionaler Last: reine, unverdünnte Scham.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116]
+- Who: „Alex, der soziale Protektor, übernimmt kurzzeitig, um die Situation durch Deeskalation zu entschärfen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116]
+- Reader's view: „hinterlässt den Leser jedoch in tiefer Desorientierung bezüglich der Natur des Protagonisten“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116]
+- Checklist, Fixpunkt 13, for Kapitel 8 and 11: „Plötzliche Kompetenzwechsel (Alex' Diplomatie, Isabelles Regeltreue) wirken erst wie Alien-Tech, demaskieren sich später als Alter-Switches.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L227]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -131,6 +143,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - **First Pursuit.** „Erste Pursuit-Vorform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung, Kap 8) · „A: MC-Solution Pursuit erste Andeutung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] (konsolidiertes Konzept, its Kap 6).
 - **First style shift.** „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834] (Kernwelten vollständig, Kap 8) · „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium, its Kap 2).
 - **Title.** „Wiedergeburt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L197] (Kapitel-Kompendium) · „Die Wächterin“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L534] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the others' stage „HR-Stufe 8: Wiedergeburt — Heilung des Männlichen im Inneren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L417].
+- **The Hard-SF-Outline.** „Spiegelneuronen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L114] (the Hard-SF-Outline, 2026-04-08) — a new title; Kael's contact is with Nyx's shame, „Durch einen kurzen, physischen Kontakt erfährt Kael einen Blitz von Nyx' emotionaler Last: reine, unverdünnte Scham.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116], and the one who takes over is Alex.
 
 ## Questions for this chapter
 

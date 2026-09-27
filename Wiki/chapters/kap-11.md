@@ -1,9 +1,9 @@
 ---
 chapter: 11
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
-records: []
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+records: ["C11"]
 gathered: "2026-09-25"
 ---
 
@@ -32,6 +32,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael wird in KW1 mit einem Problem oder einer Aufgabe konfrontiert, die eine Lösung erfordert, die auf Empathie, Intuition oder Kontextverständnis basiert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „was zu absurden, falschen oder endlos schleifenden Ergebnissen führt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „Kael findet möglicherweise eine Lösung, indem er einen 'nicht-logischen' (aus KW1s Perspektive) Ansatz anwendet“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — LogOS' paradox, Lex overheats, Isabelle opens the bulkhead to KW2
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Die Grenze der Logik“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Story: „Um den Zugangsschacht zu KW2 zu öffnen, zwingt LogOS Kael in eine unlösbare, paradoxe Logik-Schleife (CogFirewall).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122]
+- Heat (C11): „Lex überhitzt an dem Versuch, den Widerspruch aufzulösen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] · „Das System droht, sie mit einer gigantischen Landauer-Hitzewelle zu verbrennen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122]
+- Who: „Im letzten Moment übernimmt Isabelle.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] · „Durch ihre bedingungslose Unterwerfung und perfektionistische Regelausführung zwingt sie das System, die Paradoxie als gültige Eingabe zu akzeptieren, und das Schot öffnet sich.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122]
+- Checklist, Fixpunkt 13, for Kapitel 8 and 11: „Plötzliche Kompetenzwechsel (Alex' Diplomatie, Isabelles Regeltreue) wirken erst wie Alien-Tech, demaskieren sich später als Alter-Switches.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L227]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -137,6 +149,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 ## Where the sources differ
 
 - **Title.** „Mosaik des Selbst“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L487] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept, storyform outline) · „Akzeptanz der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (Kapitel-Kompendium). The Kompendium's title is the strukturierter Outline's stage name: „HR-Erweiterung 2: Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489] (strukturierter Outline). The philosophy catalogue joins both, „Akzeptanz der Komplexität / Mosaik des Selbst“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188], and its table gives the first alone, „Akzeptanz der Komplexität“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L715].
+- **The Hard-SF-Outline.** „Die Grenze der Logik“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] (the Hard-SF-Outline, 2026-04-08) — a new title; the chapter is Isabelle's takeover at a paradox, under the threat of „Das System droht, sie mit einer gigantischen Landauer-Hitzewelle zu verbrennen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] (C11)
 
 ## Questions for this chapter
 

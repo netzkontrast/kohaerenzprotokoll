@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,19 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht eine Handlung, die eine Kernregel der Logik in seiner aktuellen Umgebung (vielleicht in KW1: LogOS) verletzt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55]
 - Story: „LogOS manifestiert sich oder interveniert direkt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55] · „eine nicht-emotionale, rein informative 'Korrektur' oder ein Regelzitat“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L55]
 - Discussion: „Die Intervention wirkt unpersönlich und absolut“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L56]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Juna flickers, the smell of damp earth, and the first K0 scar
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Das flüchtige Echo“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Juna (C7): „Für den Bruchteil einer Mikrosekunde flackert das Bild von Juna auf – eine B+C-Superposition, ein Ghost in der Maschine.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98]
+- Sensorik: „Mit ihr dringt der schwere, organische Geruch von feuchter Erde in die desinfizierte Luft.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98]
+- AEGIS: „AEGIS registriert diesen organischen Einbruch sofort als massiven Syntaxfehler (ZTEM-Protokoll).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98]
+- What it establishes: „Der Versuch, Junas Information zu löschen, reißt eine entropische Narbe (K0-Kollaps) in die Realität, einen Riss im perfekten Beton, der direkt in das bodenlose Nichts-Rauschen blickt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98]
+- Checklist, Fixpunkt 3: „Juna-Bild, feuchte Erde in steriler Luft, AEGIS = Syntaxfehler, erste K0-Narbe.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L217] · „Juna flackert mikrosekundenlang auf.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L217]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -132,6 +145,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - **Storyform A.** „A: RS-Physics-Vorzeichen, Moonshine-Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis) · „A: MC-Problem Avoidance als ANP-Funktion. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L966] (konsolidiertes Konzept).
 - **Title.** „Das flüchtige Echo“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L514] (Konzept-Iteration Genesis) · „Bunker-Bau“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L965] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Erwachen & Vorbereitung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L192] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 3: Erwachen & Vorbereitung — Identifikation mit dem Männlichen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L297].
 - **Stage name.** „HR-Stufe 3: Vorbereitung mit Juna-Ahnung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L514] (Konzept-Iteration Genesis) · „HR-Stufe 3: Erwachen & Vorbereitung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L965] (konsolidiertes Konzept).
+- **The Hard-SF-Outline.** „Das flüchtige Echo“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98] (the Hard-SF-Outline, 2026-04-08) — the Konzept-Iteration Genesis's title a month later; Juna's first trace is an image, „Juna flackert mikrosekundenlang auf.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L217], with the smell of damp earth, and AEGIS' erasure of it tears the first scar. (C7)
 
 ## Questions for this chapter
 

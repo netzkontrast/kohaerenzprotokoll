@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Die Erzählung wechselt kurz zu einer abstrakten Darstellung von AEGIS' Überwachungsprozess.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42]
 - Story: „'nicht-kritische Abweichungen' oder 'unterschwelliges emotionales Rauschen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42] · „Es wird keine sofortige Aktion ausgelöst, aber die Daten werden protokolliert und korreliert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42]
 - Discussion: „es sieht Syntax, keine Semantik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L43]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — a deviation, the city's gaslighting, and Lex breaks through
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Geometrie der Isolation“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Story: „weicht jedoch instinktiv um wenige Zentimeter von einem vorgezeichneten Pfad ab“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] · „Die Stadt reagiert sofort mit systemischem Gaslighting (RIVE-Protokoll).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] · „Die Architektur verschiebt sich in aperiodischen Winkeln, Gänge verlängern sich ins Unendliche, sobald er sich abwendet.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
+- Who: „In diesem Moment extremer Belastung bricht Lex durch.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] · „Lex unterdrückt jegliche Panik, kalkuliert Winkel und führt den Körper mit absoluter, maschineller Präzision aus der Gefahrenzone.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
+- Reader's view: „Für den Leser wirkt es, als würde ein kybernetisches Überlebensimplantat oder eine kalte, analytische Subroutine die motorische Kontrolle übernehmen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
+- Checklist, Fixpunkt 2: „Routineabweichung, Gaslighting, Lex bricht durch, aperiodische Architektur.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L216] · „Lex übernimmt als ANP die Kontrolle, um Panik zu unterdrücken.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L216]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -125,6 +137,7 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - **The number 734.** „Die Zahl 734 taucht erstmals als Foreshadowing auf.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] (strukturierter Outline, Kap 2) · „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline, its Kap 1) · „Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium, its Kap 1) — first here, or already named in Kap 1; the strukturierter Outline says both.
 - **First style shift.** „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium, Kap 2) · „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834] (Kernwelten vollständig, its Kap 8).
 - **Title.** „Geometrie der Isolation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L510] (Konzept-Iteration Genesis) · „Der erste Riss“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L963] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Verrat / Desillusionierung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 2: Verrat / Desillusionierung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L273].
+- **The Hard-SF-Outline.** „Geometrie der Isolation“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] (the Hard-SF-Outline, 2026-04-08) — the Konzept-Iteration Genesis's title a month later; the chapter is Kael's deviation from a path, „weicht jedoch instinktiv um wenige Zentimeter von einem vorgezeichneten Pfad ab“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96], and Lex's first takeover.
 
 ## Questions for this chapter
 
