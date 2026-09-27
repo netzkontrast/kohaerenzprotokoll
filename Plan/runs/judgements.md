@@ -1557,3 +1557,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** The document writes `J` and `K-J Verbindung` 75 lines' worth and never a name (`Juna`, `Julia` 0); „Wenn J eine separate Entität ist“ (L406) leaves even her separateness open. The Kapitel-Kompendium states the rename „Julia→Juna“, so the letter fits both names of one figure.
 
 **Result.** placed on juna, as the figure under an initial: each reading says the document writes only J and never a name, and nothing it says about J is cited as a statement about the name. `J` is not a surface — a single letter would match every initial
+
+## J112 — T-734 / Komponente 734
+
+**judgement** · duale-storyform-synthese-kohaerenz-protokoll · 2026-09-27 · replay: `judgement`
+
+- **rule:** a number the wiki pages as a designation, written with a prefix for another referent (a trauma, a fragment), is placed on the number's page as this source's sense of it; the referent decides, not the digits
+- **mechanised by:** `nothing`
+- **features:** number-reused, another-referent, prefix-letter
+
+**Question.** is the document's T-734 the Komponente 734 the wiki pages?
+
+**What was done.** „Kael geht im Verlauf der ersten 13 Kapitel zunehmend der Raum für Vermeidungsstrategien (Options) aus, sich vor seinem Kern-Trauma (T-734) zu verstecken.“ (L83); „Kaels „Origin Trauma“ (T-734) bleibt als kausaler Anker logisch teils undefiniert.“ (L33); in its corpus inventory T-734 is also listed among „13 Alters/Fragmente“ (L32). `Komponente` 0.
+
+**Result.** placed by the sentence: here the number names Kael's core or origin trauma, and once a fragment — a reading on komponente-734 under what the bare number names, not a second name of the component; `T-734` is not added as a surface

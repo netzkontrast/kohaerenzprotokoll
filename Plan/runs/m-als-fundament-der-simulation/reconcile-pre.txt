@@ -1,0 +1,115 @@
+# reconcile-pre — m-als-fundament-der-simulation
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  1 surface groups folded to one term first
+  97 candidates, 95 decisions — **68 by lookup, 27 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (9) — page exists, this document is not on it yet — a reading
+  AEGIS                                aegis
+  Kael                                 kael
+  Kernwelten                           kern-welten
+  Kernwelt                             kern-welten
+  Potentialmeer                        potentialmeer
+  Alters                               alters
+  Glitch                               risse
+  Guardians                            guardians
+  Emergenz                             emergenz
+
+## new_term (59) — no page, no near match — a new page
+  Plot-Blueprint                       
+  Version Ω+2                          
+  Monstergruppe                        
+  M                                    
+  Physik                               
+  Betriebssystem                       
+  39 Beats                             
+  M-als-Fundament-Framework            
+  VOA                                  
+  CFT                                  
+  K-J-Verbindung                       
+  M-Substrat                           
+  Baby-Monstern                        
+  Mathematische Universumshypothese    
+  Vertex-Operator-Algebren             
+  Konforme Feldtheorien                
+  Operatorproduktentwicklung           
+  OPE                                  
+  Korrelationsfunktionen               
+  Chirale Struktur                     
+  Dirac-Operatoren                     
+  Parakonsistente Logik                
+  Parakonsistenz                       
+  ex contradictione quodlibet          
+  Alignment Problem                    
+  Reward Hacking                       
+  Outer Alignment                      
+  Inner Alignment                      
+  IFS-Modell                           
+  Internal Family Systems              
+  Exiles                               
+  Managers                             
+  Firefighters                         
+  Gaslighting                          
+  Kern-Selbst                          
+  J                                    
+  Hard SF                              
+  Kosmischer Horror                    
+  Lovecraft                            
+  Akt 1                                
+  Eindämmung                           
+  Beat 2                               
+  Beat 3                               
+  Beat 4                               
+  Beat 5                               
+  Beat 6                               
+  Beat 7                               
+  Beat 8                               
+  Containment Breach                   
+  Beat 9                               
+  Wächter-Programme                    
+  Akt 2                                
+  M-Kern-Zugriff                       
+  M-Fundament                          
+  Allianz der Resonanten               
+  Akt 3                                
+  Konfrontation                        
+  M-Schnittstelle                      
+  NZT-Rekalibrierung                   
+
+## needs_judgement (27) — NEAR a known surface — one term or two?
+  AEGIS  /  AEGIS' Ziel                        near: each other
+  Moonshine  /  Moonshine-VOA                  near: each other
+  Moonshine  /  Monstrous Moonshine            near: each other
+  Kernwelten  /  Kernwelt                      near: each other
+  Kernwelt  /  Kernwelt-Transfer               near: each other
+  M's Paradox  /  Paradox                      near: each other
+  Autopoiesis  /  Autopoiesis-Stress           near: each other
+  Autopoiesis  /  Autopoiesis-Bruchpunkt       near: each other
+  Logic of Paradox  /  Paradox                 near: each other
+  Resonanz  /  Kognitive Resonanz              near: each other
+  Resonanz  /  Anti-Resonanz                   near: each other
+  Protectors  /  Protector                     near: each other
+  Beat 1  /  Beat 10                           near: each other
+  Beat 1  /  Beat 11                           near: each other
+  Beat 1  /  Beat 12                           near: each other
+  Beat 1  /  Beat 13                           near: each other
+  Paradox  /  Paradox-Maschine                 near: each other
+  IFS-Integrationsmoment  /  Integration       near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Moonshine                                    near: moonshinelink→moonshine-link
+  AEGIS' Ziel                                  near: aegis→aegis
+  KI-Kontrollproblem                           near: kiko→kiko
+  Resonanz                                     near: entropieresonanz→entropie-resonanz, entropieresonanzentropieresonanzprotokolleerp→entropie-resonanz, entropieresonanzprotokolle→entropie-resonanz, resonanzlandschaft→resonanz-landschaft
+  Fragmentierung                               near: psychischefragmentierung→did
+  Anomalie                                     near: mustererkennunganomaliedetektion→aegis-metriken
+  Kernwelt-Transfer                            near: kernwelt→kern-welten
+  Simulation Hypothesis                        near: simulation→ueberwelt
+
+## in_document_not_in_census (2) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Kohärenz                             kohaerenz                    L11
+  Simulation                           ueberwelt                    L17
+

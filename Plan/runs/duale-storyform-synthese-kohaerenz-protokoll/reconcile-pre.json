@@ -1,0 +1,785 @@
+{
+  "document": "duale-storyform-synthese-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-09-27",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-27",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 174,
+  "decisions": 175,
+  "same_surface": {
+    "phonixkollaps": [
+      "Der Phönix-Kollaps",
+      "Phönix-Kollaps"
+    ]
+  },
+  "decided_mechanically": 141,
+  "needs_judgement": 34,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 21
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 41
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 38
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 33
+      },
+      {
+        "candidate": "Gödel-Gambit",
+        "page": "goedel-gambit",
+        "readings": 21
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 37
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 24
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 32
+      },
+      {
+        "candidate": "Mosaik-Herz",
+        "page": "mosaik-herz",
+        "readings": 11
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 29
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 32
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 32
+      },
+      {
+        "candidate": "Negentropie",
+        "page": "negentropie",
+        "readings": 1
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 26
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 12
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 27
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 26
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 25
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 22
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Gegenläufigkeits-Achse"
+      },
+      {
+        "candidate": "Change"
+      },
+      {
+        "candidate": "Success"
+      },
+      {
+        "candidate": "Steadfast"
+      },
+      {
+        "candidate": "Failure"
+      },
+      {
+        "candidate": "Dual Kernel Theory"
+      },
+      {
+        "candidate": "K1"
+      },
+      {
+        "candidate": "K0"
+      },
+      {
+        "candidate": "Storyform A"
+      },
+      {
+        "candidate": "Die Heuristik der Integration"
+      },
+      {
+        "candidate": "Storyform B"
+      },
+      {
+        "candidate": "Der Phönix-Kollaps"
+      },
+      {
+        "candidate": "Universe"
+      },
+      {
+        "candidate": "Good"
+      },
+      {
+        "candidate": "5D-Architektur"
+      },
+      {
+        "candidate": "Kapiteln 35–36"
+      },
+      {
+        "candidate": "Meta-Narrative"
+      },
+      {
+        "candidate": "Werk-Korpus-Inventar"
+      },
+      {
+        "candidate": "NotebookLM-Werkkorpus"
+      },
+      {
+        "candidate": "Vorgänger-Phase"
+      },
+      {
+        "candidate": "Story-first-Phase"
+      },
+      {
+        "candidate": "Tragischer Gott"
+      },
+      {
+        "candidate": "MC"
+      },
+      {
+        "candidate": "OS"
+      },
+      {
+        "candidate": "RS"
+      },
+      {
+        "candidate": "Physics"
+      },
+      {
+        "candidate": "Psychology"
+      },
+      {
+        "candidate": "Dynamic Pair"
+      },
+      {
+        "candidate": "The True Coherence Protocol"
+      },
+      {
+        "candidate": "Heroine's Journey"
+      },
+      {
+        "candidate": "39-Kapitel-Matrix"
+      },
+      {
+        "candidate": "Innere Reise"
+      },
+      {
+        "candidate": "Zyklen des Widerstands"
+      },
+      {
+        "candidate": "Äußere Reise"
+      },
+      {
+        "candidate": "Schatten"
+      },
+      {
+        "candidate": "T-734"
+      },
+      {
+        "candidate": "K-J Vektor"
+      },
+      {
+        "candidate": "Origin Trauma"
+      },
+      {
+        "candidate": "Korrespondenztheorie"
+      },
+      {
+        "candidate": "Strategic Narrative Analysis"
+      },
+      {
+        "candidate": "Unified Protagonist"
+      },
+      {
+        "candidate": "Environmental Storytelling"
+      },
+      {
+        "candidate": "Phillips"
+      },
+      {
+        "candidate": "Huntley"
+      },
+      {
+        "candidate": "Jim Hull"
+      },
+      {
+        "candidate": "Narrative First"
+      },
+      {
+        "candidate": "Subtxt"
+      },
+      {
+        "candidate": "Barbie"
+      },
+      {
+        "candidate": "Jerry Maguire"
+      },
+      {
+        "candidate": "Actual Dilemma"
+      },
+      {
+        "candidate": "Steelman"
+      },
+      {
+        "candidate": "Manipulation"
+      },
+      {
+        "candidate": "IC"
+      },
+      {
+        "candidate": "Activity"
+      },
+      {
+        "candidate": "Fixed Attitude"
+      },
+      {
+        "candidate": "Situation"
+      },
+      {
+        "candidate": "Resolve"
+      },
+      {
+        "candidate": "Kapitel 32"
+      },
+      {
+        "candidate": "Growth"
+      },
+      {
+        "candidate": "Start"
+      },
+      {
+        "candidate": "Ursprungstrauma"
+      },
+      {
+        "candidate": "Approach"
+      },
+      {
+        "candidate": "Be-er"
+      },
+      {
+        "candidate": "Style"
+      },
+      {
+        "candidate": "Holistic"
+      },
+      {
+        "candidate": "Dialetheismus"
+      },
+      {
+        "candidate": "Driver"
+      },
+      {
+        "candidate": "Action"
+      },
+      {
+        "candidate": "Limit"
+      },
+      {
+        "candidate": "Optionlock"
+      },
+      {
+        "candidate": "Kern-Trauma"
+      },
+      {
+        "candidate": "Outcome"
+      },
+      {
+        "candidate": "Judgment"
+      },
+      {
+        "candidate": "Jetzt-Raum"
+      },
+      {
+        "candidate": "Memory"
+      },
+      {
+        "candidate": "Co1-Welt"
+      },
+      {
+        "candidate": "Order"
+      },
+      {
+        "candidate": "Chaos"
+      },
+      {
+        "candidate": "Conceptualizing"
+      },
+      {
+        "candidate": "Avoid"
+      },
+      {
+        "candidate": "Pursuit"
+      },
+      {
+        "candidate": "Exiles"
+      },
+      {
+        "candidate": "Past"
+      },
+      {
+        "candidate": "Falsifikations-Test"
+      },
+      {
+        "candidate": "Kapitel 11"
+      },
+      {
+        "candidate": "Kapitel 28"
+      },
+      {
+        "candidate": "Irreduzibilität von M"
+      },
+      {
+        "candidate": "Kapitel 35/36"
+      },
+      {
+        "candidate": "Datenkorruption"
+      },
+      {
+        "candidate": "Do-er"
+      },
+      {
+        "candidate": "Infiltration"
+      },
+      {
+        "candidate": "Akt 3"
+      },
+      {
+        "candidate": "Linear"
+      },
+      {
+        "candidate": "Landauer-Wärme"
+      },
+      {
+        "candidate": "Timelock"
+      },
+      {
+        "candidate": "Doing"
+      },
+      {
+        "candidate": "Progress"
+      },
+      {
+        "candidate": "Preconscious"
+      },
+      {
+        "candidate": "Certainty"
+      },
+      {
+        "candidate": "Potentiality"
+      },
+      {
+        "candidate": "Being"
+      },
+      {
+        "candidate": "digitalen Abwärme"
+      },
+      {
+        "candidate": "Kapitel 36"
+      },
+      {
+        "candidate": "Die Trennung war nie real"
+      },
+      {
+        "candidate": "Bewertungs-Triplets"
+      },
+      {
+        "candidate": "Dialektische Vergleichsmatrix"
+      },
+      {
+        "candidate": "Kapitel 24"
+      },
+      {
+        "candidate": "Projektions-Mapping"
+      },
+      {
+        "candidate": "Parakonsistente Einheit"
+      },
+      {
+        "candidate": "Ist Liebe Information"
+      },
+      {
+        "candidate": "Schlüsselbild"
+      },
+      {
+        "candidate": "Telefonat"
+      },
+      {
+        "candidate": "Deus ex Machina"
+      },
+      {
+        "candidate": "Korpus-Log C-001"
+      },
+      {
+        "candidate": "Attraktor"
+      },
+      {
+        "candidate": "Storyform Half-Life Audit Log"
+      },
+      {
+        "candidate": "Query Expansion Log"
+      },
+      {
+        "candidate": "Reflection History"
+      },
+      {
+        "candidate": "Werk-Anker"
+      },
+      {
+        "candidate": "Cross-Pollination Log"
+      },
+      {
+        "candidate": "Single-Source-Flag"
+      },
+      {
+        "candidate": "Popper"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Duale Dramatica-Storyform-Mapping  /  Dramatica",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dramatica  /  Dramatica Dictionary",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dramatica  /  Erweiterte Dramatica-Element-Matrix",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael/M",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Self_Integrator",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Phasenraum der Beobachter-Kohärenz  /  Beobachter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Story-Mind  /  Mind",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gödel-Gambit  /  Gödel-Gambit Log",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gödel-Gambit  /  Gödel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Stopp-Dynamik  /  Stop",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mind  /  Mind-Hacking",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna/V-Vektor",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alpha  /  Alpha-Logik-Fragments",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gödel-Gambit Log  /  Gödel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "lebenden Gödel-Satz  /  Gödel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gödels Unvollständigkeitssatz  /  Gödel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "semantische Spaghettifizierung  /  Spaghettifizierung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Control  /  Uncontrolled",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Phasenraum der Beobachter-Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Funktionaler Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "Alpha",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "therapieschnittstellealpha",
+            "page": "therapie-schnittstelle-alpha"
+          }
+        ]
+      },
+      {
+        "candidate": "Resonanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanz",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "resonanzlandschaft",
+            "page": "resonanz-landschaft"
+          }
+        ]
+      },
+      {
+        "candidate": "Gödel-Gambit Log",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "godelgambit",
+            "page": "goedel-gambit"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenztheorie der Wahrheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Personal Triumph",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V-Vektor",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael/M",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Self_Integrator",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Ouroboros",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "ouroborosstruktur",
+            "page": "ouroboros-struktur"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz durch Negation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Gödel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "godelgambit",
+            "page": "goedel-gambit"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 31,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 17,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
