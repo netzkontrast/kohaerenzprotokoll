@@ -143,7 +143,7 @@ Neither row 1 (from nothing) nor row 2 (from the simulation's dynamics) nor the 
 
 ## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
 
-**The third origin, from Kael, in Moros' voice — five weeks before the Ultra-Plot's own version of it, in the same register.**
+**The third origin, from Kael, in [[moros|Moros]]' voice — five weeks before the Ultra-Plot's own version of it, in the same register.**
 „AEGIS, der Antagonist, ist kein bösartiges Konstrukt, sondern ein tragischer, algorithmischer Täter-Introjekt, das aus der Genesis-Krise (der Fragmentierungsnacht) entstand." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L64] In Kapitel 23: „Sie entstand in einem Moment unendlichen Schmerzes (der Genesis-Krise) aus dem Protagonisten selbst, um ihn vor dem totalen Wahnsinn zu bewahren." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
 `Emergenz` and `emergent` stand 0 times (`05-verify-readers.txt`). Nearest the konsolidiertes Konzept's third origin — a defence born of Kael's own crisis — without naming an Abwehrarchitektur or a Trennungsprotokoll, and with a named voice (Moros) attributing it inside the story rather than the report's own analysis. On the consequence, nearest position 2: it later fails outright to grasp its own creator's structure (`aegis` D41 reading, C4). The conflict stays open.
 

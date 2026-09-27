@@ -18,7 +18,7 @@ concept was read this said four sources, one of them using it both ways.) The te
 the Dramatica-Synthese of 2026-04-30, names neither: in its table it is Juna, the IC of
 Storyform A (its L126). (Until it was read this said nine sources.) The Ultra-Plot of
 2026-02-26 makes it Kap 34's own title and the product formed there from the fused
-alters and Juna's saved essence, not merely a place named in passing (`05-verify-readers.txt`).
+[[alters]] and Juna's saved essence, not merely a place named in passing (`05-verify-readers.txt`).
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 

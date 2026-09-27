@@ -14,7 +14,7 @@ gathered: "2026-09-16"
 **Four terms, one parenthesis, zero explanations** — in the source that lists them. The
 Narrative Building Blocks report (2026-05-08) explains two of them, Zero-Trust and the
 Cognitive Firewall, as one verification model. The Hard-SF-Outline (2026-04-08)
-explains three, as rows of AEGIS' twelve protocols — the Cognitive Firewall, the
+explains three, as rows of [[aegis|AEGIS]]' twelve protocols — the Cognitive Firewall, the
 Integrity Guardian and `SIS`, which it expands — and not Zero-Trust. Until it was read,
 `Integrity Guardian` and `SIS` were explained in none of the documents on this page.
 

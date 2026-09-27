@@ -233,7 +233,7 @@ On the pole: what it absorbed is named by function only. The worldbuilding conce
 
 **No worlds and no pole; the Guardians have a setting and rooms — Mnemosyne carries the climax's, LogOS has a control centre.**
 „Der stärkste Kandidat für diese Rolle ist Mnemosyne, die als Memory-Archive-Guardian das Setting des Klimax physisch trägt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L49] — and that setting is the archipelago named for her: „Das Mnemosyne-Archipel erbebt unter der Last weitreichender, koordinierter Erasure-Sweeps." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L276], ringed by „ehemals belebten Sektoren der Konstrukt-Stadt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L276]. LogOS: „Der erste Raum ist das Kontrollzentrum der Subroutine LogOS, geprägt von absoluter, erdrückender Überwachung." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L255]
-`KW1`–`KW4`, `Kernwelt`, `Erasure-Pol`, `Kairos` and `Sophia` stand 0 times (`05-verify.txt`), `Lösch-Pol`, `Logos-Prime` and `Cerberus-Labyrinth` 0 (`05-verify-readers.txt`); its Grenzfeste is a room of Kael's, not said to be Cerberus' (L163, L207).
+`KW1`–`KW4`, `Kernwelt`, `Erasure-Pol`, `Kairos` and `Sophia` stand 0 times (`05-verify.txt`), `Lösch-Pol`, `Logos-Prime` and `Cerberus-Labyrinth` 0 (`05-verify-readers.txt`); its Grenzfeste is a room of [[kael|Kael]]'s, not said to be Cerberus' (L163, L207).
 On the pole: nothing. On the pairing: none — no world is named, and a Guardian's place is a room or the climax's setting. On the world names: only Mnemosyne's archipelago stands, with no KW number, amid the Konstrukt-Stadt's sectors.
 
 ## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot

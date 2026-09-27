@@ -158,7 +158,7 @@ So Cerberus is paired with KW3 here, as in the 2025 Guardian concept; not called
 
 A research report whose verdicts are its own, from „Projekt-Kanon" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L320] PDFs and „User-Memory / Projekt-Wissen" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L469] — recorded, not applied; its scene seeds are proposals.
 Once (`grep -cw Cerberus` 1, `05-verify.txt`), with [[logos|LogOS]], as an example of the Guardians at work: „Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] „Sie versuchen verzweifelt, seine Existenz und sein Verhalten in ihre starren mathematischen Modelle zu integrieren (Conceptualizing)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181].
-Active, not an old draft's and not absorbed; tied to no world: `Cerberus-Labyrinth` and `KW3` stand 0 times, and its `Grenzfeste` is a room of Kael's throughline in Storyform B, not said to be Cerberus' (L163; `05-verify.txt`, `05-verify-readers.txt`). The author decided C6 for five on 2026-09-24; recorded, not applied (Q5).
+Active, not an old draft's and not absorbed; tied to no world: `Cerberus-Labyrinth` and `KW3` stand 0 times, and its `Grenzfeste` is a room of [[kael|Kael]]'s throughline in Storyform B, not said to be Cerberus' (L163; `05-verify.txt`, `05-verify-readers.txt`). The author decided C6 for five on 2026-09-24; recorded, not applied (Q5).
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — KW3's Guardian, offering the Big Freeze through drones
 

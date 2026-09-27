@@ -368,7 +368,7 @@ The master report's side, a week before the Dramatica lock-in and a month before
 
 ## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
-**Digital waste heat and burnt ozone as the cost of AEGIS' erasure, Juna's warmth set directly against LogOS' cold, cold neon warming at the Ouroboros ending — no Landauer-Signatur and no polarity rule by name.**
+**Digital waste heat and burnt ozone as the cost of AEGIS' erasure, Juna's warmth set directly against [[logos|LogOS]]' cold, cold neon warming at the Ouroboros ending — no [[landauer-signatur|Landauer-Signatur]] and no polarity rule by name.**
 The Landauer principle is named as the weapon and its cost together: „sie müssen als Zonen extremer, paradoxer" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L27] digitaler Abwärme „physisch spürbar sein." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L27] „Die scheinbar sterile Architektur der Konstrukt-Stadt heizt sich in Kaels Nähe auf, Keramikwände schmelzen temporär und die Luft riecht nach verbranntem Ozon." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L27]
 Warmth is [[juna|Juna]]'s, set directly against a cold that is AEGIS' guardian's, in one sentence: „Kael spürt die intensive, lodernde Wärme (K0) von Junas Präsenz, während das mechanische, kalte Ticken von LogOS (K1) unbeeindruckt fortfährt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77] — the pairing row 2's rule states, seventeen weeks before the lock.
 At the Ouroboros ending, cold gives way to warm: „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren. Die K1- und K0-Kernel koexistieren, ohne sich gegenseitig zu vernichten." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]

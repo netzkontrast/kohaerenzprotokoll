@@ -141,7 +141,7 @@ It takes the world from the Guardian the 2025 source gave emergence to. As a „
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint — emergent effects from Kael's resonance with M, unpredictable for AEGIS
 
 Not in date order with the readings above; placed after the last one. Kapitel 14, Unstabiles Gleichgewicht: „Emergenz, Nichtlineare Dynamik, Scheitern der Vorhersage." ^[monstergruppe-primzahlen-plot-blueprint.md:L163] „Seine Handlungen, selbst kleine, lösen aufgrund seiner M-Resonanz unerwartete und unverhältnismäßig große Effekte in der Kernwelt aus – klassische Beispiele für Emergenz in komplexen Systemen." ^[monstergruppe-primzahlen-plot-blueprint.md:L164] „Die emergenten Phänomene sind direkte Konsequenzen der M-Struktur." ^[monstergruppe-primzahlen-plot-blueprint.md:L165]
-Emergence here is neither AEGIS' own origin (`C3`'s question) nor a Guardian's domain or a Kernwelt's property, as the readings above give it: it is what Kael's interaction with the M-fundament produces, and what AEGIS' faktorisierende Analyse cannot model — a third sense the page's readings above do not take.
+Emergence here is neither AEGIS' own origin (`C3`'s question) nor a Guardian's domain or a Kernwelt's property, as the readings above give it: it is what [[kael|Kael]]'s interaction with the M-fundament produces, and what AEGIS' faktorisierende Analyse cannot model — a third sense the page's readings above do not take.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Generative class open to emergence, KW4's property, a year before the same word
 
