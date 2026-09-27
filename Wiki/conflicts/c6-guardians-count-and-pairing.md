@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 17
+sources: 18
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -211,3 +211,11 @@ Row 3's world names, and neither row's count. The author's decision for five (20
 Of that concept, ranked `[S]`, it took only „KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum" ^[2026-09-14-kap25-vertiefung-md.md:L39], and: „gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) nicht übernommen" ^[2026-09-14-kap25-vertiefung-md.md:L39]. The grouping is the log's: in read sources Nox, Echo and Limina are Alters — „Assoziiert mit Alters wie Limina." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172], „Assoziiert mit Alters wie Echo und NPCs wie dem Archivar." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L173], „Assoziiert mit Alters wie Nox und NPCs wie dem Regel-Exekutor." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L174] — and the storyform outline decanonises them as characters, not as Guardians: „Dekanonisiert (NIE als aktive Charaktere):“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L278]. Only Cerberus of the four is a Guardian, on rows 1 and 2.
 `Guardian`, `Mnemosyne`, `LogOS`, `Kairos` and `Sophia` stand 0 times, `Guardians` and `Cerberus` once each, both in that line (`Plan/runs/2026-09-14-kap25-vertiefung-md/05-verify.txt`, `05-verify-readers.txt`).
 On no row: it gives no count and no pairing. It calls Cerberus, one of the five the author decided on 2026-09-24, decanonised; that is its claim about an older document, recorded and not applied. The author's decision for five stands.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**Two, dated to the Reset-Doc by this document — and before the reduction it counts four Guardians, not five.**
+Its genealogy's row for 2026-04-30, its claim about the Reset-Doc: „Architektonische Vereinfachung (Foundation reduziert, Guardians auf 2, Protokolle auf 3)." ^[dual-storyform-hintergruende-md.md:L450]
+What fell away, „Aus Reset-Doc §10, hier mit Bezug zur Storyform-Architektur:" ^[dual-storyform-hintergruende-md.md:L461]: „Vier-Guardian-Soziopolitik." ^[dual-storyform-hintergruende-md.md:L468] „Reduziert auf Mnemosyne + 1 Lösch-Pol." ^[dual-storyform-hintergruende-md.md:L468]
+The four are not named: `LogOS`, `Cerberus`, `Kairos`, `Sophia` and `Erasure-Pol` stand 0 times, and the second of the two is „1 Lösch-Pol" ^[dual-storyform-hintergruende-md.md:L468], unnamed. No world is paired: `Kernwelt` and `KW1` stand 0 times. It ranks itself last — „Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots" ^[dual-storyform-hintergruende-md.md:L29].
+Row 3's count, two. Where the other 2026 sources in this record that count the old drafts give five, it gives four — row 2's count of bearers, without its names. The author's decision for five (2026-09-24) stands; what the document says of the Reset-Doc is its claim, recorded and not applied.
