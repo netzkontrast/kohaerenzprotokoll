@@ -44,7 +44,7 @@ that run revised, renders without naming: air „scharf und elektrisch" ^[kp-kap
 to a cleansing and to no bearer, cool air elsewhere, and `warm` only in a register line (L69).
 The Dual-Storyform background document, of 2026-05-08, states no rule either: its Landauer
 heat is filtered as heat, ozone and sweat (its L483), and its one cool is AEGIS', set against
-Kael's warmth, not Juna's, in a bridge-scene micro-cue (its L318).
+[[kael|Kael]]'s warmth, not Juna's, in a bridge-scene micro-cue (its L318).
 [[landauer-signatur]] has each reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
