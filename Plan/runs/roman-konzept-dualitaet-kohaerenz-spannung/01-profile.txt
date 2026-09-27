@@ -1,0 +1,14 @@
+# roman-konzept-dualitaet-kohaerenz-spannung
+  lines                171  (frontmatter ends at 9)
+  body words           5094
+  headings             10   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       2
+  backslash escapes    22
+  typographic marks    75   ascii quotes 24
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    65
+  repeated labels      none
+  longest line         1032 chars
+
