@@ -1,17 +1,17 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-17"
 ---
 
 # Mnemosyne
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Fifteen other read documents name Mnemosyne — the readings below, the philosophy catalogue's the latest (it moved this count from fourteen). (Until that reading this lead said nothing else read named Mnemosyne at all, which the second reading on this page had already made false.)
+the same nine fields. Sixteen other read documents name Mnemosyne — the readings below, the Dual-Storyform background document's the latest (it moved this count from fifteen, as the philosophy catalogue's had from fourteen). (Until that reading this lead said nothing else read named Mnemosyne at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -213,3 +213,10 @@ Under §1.6, labelled [S] („§1.6 Rorty — Anti-Repräsentationalismus [S] (S
 „Rorty-Position erscheint im Roman als Versuchung, nicht als Wahrheit." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L107] „Mnemosyne kann dem Leser kurz plausibel machen, dass Schmerz nur soziale Rechtfertigung sei." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L107] „Diese Plausibilität ist die Tragik der Versuchung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L107]
 In the figure table §14.1, which carries no label, she stands among the figures, after AEGIS and before Juna: „Erinnerungs-Bewahrer; Rorty-Versuchung (Wahrheit als Anpassung); Tragik des unverstandenen Trägers" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L662]. Her DKT-correlate cell holds only a dash (L663 of this document), the one row of the table without a correlate.
 The document never writes `Guardian` (`grep -cw Guardian`: 0, `Guardians`: 0): it lists Mnemosyne among the figures without that word (C6). `Mnemosyne-Archipel` (L307, L676 of this document) is KW2, placed by what it names (J49: a world name that contains a page name is the world), not a reading of the figure. The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — what the Guardians were reduced to, and the Vortex set in her archipelago
+
+It ranks itself below the status report and the Reset-Doc, and its list of what fell away is, by its own heading, taken „Aus Reset-Doc §10, hier mit Bezug zur Storyform-Architektur" ^[dual-storyform-hintergruende-md.md:L461] — its claim about that document. Recorded, not applied.
+**She is what is left of the Guardians' politics**: „Vier-Guardian-Soziopolitik. Reduziert auf Mnemosyne + 1 Lösch-Pol. Berührt OS-Operationalisierung in B." ^[dual-storyform-hintergruende-md.md:L468] So she is kept by name, the other one only by function, and both belong to Storyform B's overall story. It counts the old politics as four Guardians' (C6); it gives her no domain and no role beyond the name.
+**Her archipelago is the Vortex's setting.** It is a world named after her (J49), placed here as the master report's and the worldbuilding concept's Vortex setting is. Beat 1: „Convergence (Mnemosyne-Archipel) | B-OS Action: AEGIS exekutiert finalen Erasure-Sweep" ^[dual-storyform-hintergruende-md.md:L356]. „Setting: Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS." ^[dual-storyform-hintergruende-md.md:L364] „Hier kann Erasure nicht mehr funktionieren, weil Erinnerung selbst der Schauplatz wird." ^[dual-storyform-hintergruende-md.md:L364] „Die Wahl des Settings ist nicht atmosphärisch, sondern funktional: nur an einem Ort, der aus K1-gespeicherter Erinnerung besteht, kann der Driver-Pivot mechanisch greifen." ^[dual-storyform-hintergruende-md.md:L364] Its glossary: „Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS. Vortex-Setting." ^[dual-storyform-hintergruende-md.md:L486]
+So the archipelago is a memory keeper's domain *of* AEGIS; whether the keeper is Mnemosyne it does not say, and it ties it to no world: `Kernwelt` stands 0 times, and `KW2` once, in the Genesis flashbacks' „KW2-KW3-Phase“ ^[dual-storyform-hintergruende-md.md:L309] (`05-verify-readers.txt`). The author decided C6 for five on 2026-09-24; recorded, not applied.
