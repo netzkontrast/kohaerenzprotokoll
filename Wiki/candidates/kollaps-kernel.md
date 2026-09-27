@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -39,3 +39,10 @@ AEGIS files the wrong things under it: „Suppressionsprotokoll — aktive Erasu
 
 `Kollaps-Kernel` does not stand in it (0, `05-verify-readers.txt`); it writes the kernel as a bare `K0`, and those passages are placed here by J99. AEGIS is it, as a `Kollaps-Operator`, in the DKT-Kernparadoxon: „Es ist tatsächlich K0 (Kollaps-Operator).“ ^[dual-storyform-hintergruende-md.md:L82]
 It is the thesis of Storyform B — „(K0, Erasure, Kontrolle erzeugt die Entropie, die sie bekämpft)“ ^[dual-storyform-hintergruende-md.md:L52] — and that storyform's reading on its own: „B allein: K0-Reading (Erasure) — die Lesart der tragischen Geschlossenheit.“ ^[dual-storyform-hintergruende-md.md:L69] Its unit is the Erason, a „K0-Einheit“ ^[dual-storyform-hintergruende-md.md:L481]. In the rift scenes it breaks into K1: „an denen K0 in K1 einbricht“ ^[dual-storyform-hintergruende-md.md:L307].
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — entropy, erasure and irreversible computation, an evolutionary filter, and what AEGIS is
+
+„**Der Kollaps-Kernel (K₀)** ist das Prinzip der Entropie, der Informationsauslöschung und der irreversiblen Berechnung.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Er operiert durch *Erasonen* — irreversible Löschungsereignisse.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Wer löscht, schafft Zeit.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75]
+More than destruction: „K₀ übt einen kontinuierlichen erosiven Druck auf alle Protokolle aus.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L98] „Es ist nicht bloße Zerstörung, sondern der evolutionäre Filter, der Systeme zwingt, sich anzupassen oder zu scheitern.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L98] It does not call K₀ the condition of events, as the glossary and the master report do (`Bedingung für Ereignisse` 0, `05-verify-readers.txt`).
+AEGIS is it: „AEGIS' beanspruchte Kohärenz ist tatsächlich der wahre Kollaps-Kernel (K₀).“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L225] Every erasure „erzeugt Landauer-Hitze, also genau jenes K₀, vor dem AEGIS sich zu schützen vorgibt.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L134] After the Vortex AEGIS knows it: „Er versteht, dass er K₀ war.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L737] And the end keeps a K₁ zone „inmitten der entropischen K₀-Umwelt“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741].
+It also writes Kael's trauma as K₀, in the reader's phenomenological layer — „Kaels K₀-Trauma wird beim Leser somatisch repliziert.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L571] — where the Truth-Rotation makes his trauma cycles the true K₁ (L225). The document does not relate the two.

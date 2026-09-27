@@ -1,10 +1,10 @@
 ---
 term: Atemporalität
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -51,3 +51,9 @@ The catalogue names the physics under it, in a section labelled `[K]`: the PAL c
 It gives the lead's blindness two further schools. Systems theory: „Coheronen sind atemporal, also kann AEGIS' temporales Mess-System sie nicht detektieren" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L276]. Wittgenstein: „Juna entzieht sich jeder Tatsachen-Aussage (atemporal, kein Vorher/Nachher), also ist Juna für AEGIS nicht-sagbar." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L132]
 Among its synthesis movements, atemporality makes AEGIS' closure ineffective rather than breaking it: „AEGIS' operative Geschlossenheit wird durch Junas atemporale Wirkung nicht durchbrochen (das ginge nicht), sondern unwirksam gemacht." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L758]
 [[silas|Silas]]' row in the character table: „Atemporalität (PAL), Coheron-Echo, Resonanz ohne Substrat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L653].
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — no decay and no date, Silas outside time — and not why AEGIS cannot see Juna
+
+Found by the sweep at L782, the second of the four sentences its summary unfolds: „**Zweiter Satz**: Atemporalität heißt: kein Verfall, kein Vergessen-Werden im physikalischen Sinn.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L782] „Was zwischen zwei Bewusstseinen entsteht, *ist*, ohne Datum.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L782] The third and fourth: „Das, was atemporal ist, kann durch zeitliche Operationen nicht erreicht werden.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L783] „Wer dennoch versucht, etwas Atemporales zu löschen, generiert Landauer-Hitze — physikalische Folgekosten der unmöglichen Operation.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L784]
+Its ground is the [[coheron|Coheron]]: „Coheronen existieren *außerhalb der Zeit*.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L71] „Das ist nicht Schmuck-Adjektiv, sondern strukturelle Eigenschaft“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L71]; and time emerges: „**Zeit** entsteht über PAL (Page-Wootters / Aharonov-Lebowitz-Konstruktion) — Zeit ist nicht fundamental, sondern emergiert aus Verschränkung zwischen Subsystemen.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L118] Silas' tunneling is it: „Silas tunnelt nicht durch AEGIS' Mauern — er war nie *in* der Zeit, die diese Mauern definiert.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L355] And a Dialetheia: „Schmerz als Konstatierung neben Coheron-Atemporalität.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L603]
+Why AEGIS cannot see Juna, it answers otherwise. Operational closure: „Diese strukturelle Geschlossenheit ist der Grund, warum AEGIS Juna nicht *sehen* kann“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]; the Zero-Knowledge layer: „Das ist die kryptographische Erklärung dafür, warum AEGIS Juna nicht analysieren kann“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L322]; and Chaitin: „AEGIS' Versuch, Juna zu modellieren, scheitert nicht, weil sie unsichtbar ist, sondern weil ihre Kolmogorov-Komplexität die systemeigene Beweisbarkeitsgrenze AEGIS' überschreitet.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L339] It never calls AEGIS' measuring temporal (`temporal`, `temporale`, `Sensorik` 0, `05-verify-readers.txt`), and ties no invisibility of the Moonshine-Link to time. For Silas it gives atemporality; for Juna, three other reasons.

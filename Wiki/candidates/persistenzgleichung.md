@@ -1,10 +1,10 @@
 ---
 term: Persistenzgleichung
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -60,3 +60,9 @@ What AEGIS misreads: „**Was AEGIS nicht begreift:** Die Gleichung misst nicht 
 α is the „Reversibilitätskoeffizient (wie viel kann zurückgespielt werden)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L98], β the „Pufferkapazität (Strukturreserve gegen Erosion)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L98], δ the K₀ pressure — the konsolidiertes Konzept's names, not the master report's.
 „Im Klimax bricht die Gleichung" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L98]: „Das ist kein Fehler — das ist das, was passiert, wenn ein temporales Messsystem auf atemporale Phänomene trifft." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L98]
 Where it runs: the [[ueberwelt|Überwelt]]'s logic is „Visualisierung der Persistenzgleichung in Echtzeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L636], and in Storyform B „AEGIS (B) operiert in der Überwelt mit der Persistenzgleichung als kontinuierlichem Hintergrund-Diktum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L949]
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — what η measures, a third set of names for its variables, and Landauer heat
+
+The equation is given as in the other sources (L79). „Diese Gleichung steht im Zentrum von AEGIS' operationaler Selbstwahrnehmung.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L83] „Sie misst — wie AEGIS sie liest — die Effizienz, mit der ein System Kohärenz aufrechterhält.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L83] „Sie misst die *Effizienz der Verdrängung*, nicht die wahre Kohärenz.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L83]
+Its variables: „**α**: Kopplungskonstante des Suppressionsmechanismus“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L87], „**MI(S)**: Mutual Information des Systems S“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L88], „**δ**: Distanzparameter (Trauma- oder Anomalie-Abstand)“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L89], „**β**: Toleranzkapazität“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L90] — a third wording: not the konsolidiertes Konzept's (`Reversibilitätskoeffizient`, `Pufferkapazität` 0, `05-verify-readers.txt`), α near the master report's suppression constant, and δ a distance where both give a pressure.
+„Je höher η, desto effektiver wird Information unterdrückt“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L94]; „Aus der Perspektive der wahren Kohärenz ist hohes η aber das Maß der Entropie, die das System produziert, nicht das Maß der Bewahrung.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L94] „Wer η maximiert, maximiert Landauer-Hitze.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L94] „Diese Verwechslung ist die epistemische Wurzel der gesamten AEGIS-Tragödie.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L94] It does not say the equation breaks in the climax: `bricht` stands on two lines, AEGIS' system that does not break in the Vortex (L284) and a phobia (L531) (`05-verify-readers.txt`).

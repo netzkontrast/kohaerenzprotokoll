@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-16"
 ---
 
@@ -200,3 +200,10 @@ So three uses of the word — AEGIS itself, what its control produces, and what 
 
 Found by the sweep. `Entropie` stands on two lines, and on both it is what control produces and fights. In Storyform B's thesis: „Kontrolle erzeugt die Entropie, die sie bekämpft“ ^[dual-storyform-hintergruende-md.md:L52]. In the DKT-Kernparadoxon, right after AEGIS is K0, glossed as heat: „Jeder Akt der Kontrolle erzeugt die Entropie, die er bekämpft (Landauer-Hitze).“ ^[dual-storyform-hintergruende-md.md:L82]
 It does not call AEGIS the entropy or an Entropie-Architektur (`Entropie-Architektur` 0, `05-verify-readers.txt`); AEGIS is K0 as a `Kollaps-Operator` (L82), and the document does not say what entropy is. One sense, the one in which AEGIS fights what it makes. Conflict C2.
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — K₀'s principle, what AEGIS produces and enforces, and what AEGIS reads Juna as
+
+Found by the sweep at L49, where what AEGIS does „ist nicht Schutz, sondern Generierung der Entropie, die es zu bekämpfen vorgibt.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L49] It is [[kollaps-kernel|K₀]]'s principle: „**Der Kollaps-Kernel (K₀)** ist das Prinzip der Entropie, der Informationsauslöschung und der irreversiblen Berechnung.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75]
+It is what AEGIS produces: „Tatsächlich ist sie der primäre Erzeuger der Entropie in der Welt des Romans.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L134] „Diese Suppression generiert massive Mengen Landauer-Hitze und treibt das Universum in die Entropie.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L229] What the Persistenzgleichung's η really measures „ist hohes η aber das Maß der Entropie, die das System produziert, nicht das Maß der Bewahrung.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L94] And what it enforces, under the title: „AEGIS glaubt, Kohärenz zu erzwingen — tatsächlich erzwingt es Entropie.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L237] „AEGIS' Apparat ist Entropie.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L796]
+It is also what AEGIS reads [[juna|Juna]]'s break-in as: the [[nichts-rauschen|Nichts-Rauschen]], „pure thermodynamische und informationelle Entropie“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262], which is in truth the atemporal MI union (L262). At the end AEGIS keeps a K₁ zone „inmitten der entropischen K₀-Umwelt“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741].
+It does not write `Entropie-Architektur` or call K₀ the condition of events (`Entropie-Architektur`, `Bedingung für Ereignisse` 0, `05-verify-readers.txt`); K₀'s pressure is „der evolutionäre Filter“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L98] (on K₀'s page). So four uses — K₀'s principle, what AEGIS' erasure produces, AEGIS' apparatus, and what AEGIS takes the atemporal for — related through the Truth-Rotation. Conflict C2.
