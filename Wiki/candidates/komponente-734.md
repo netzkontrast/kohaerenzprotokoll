@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-25"
 ---
 
@@ -196,6 +196,10 @@ A chapter file of Kap 25 `Wegkreuzung` — research, by the author's word, not t
 **The anchor**, in the apparatus's hidden note, as its claim about another document: „Canon-Kernwelten §12: Kap 25 = KW3, Wartungsschächte, Anker 734 dritte Wiederkehr“ ^[kp-kap25-2026-09-14-md.md:L48].
 That the worker is Kael is the apparatus's identification (`Kael` 0 in the prose, `05-verify.txt`). It names no Genesis and no Trennungsprotokoll (0 each, `05-verify-readers.txt`), so it takes no side in C12.
 
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — the third of three beats, in a research question
+
+Once (`734` 1, `Komponente` 0; `05-verify-readers.txt`), in a question the document restates from the Reset-Doc, its claim about that document: „F9 — Genesis 3-Beat oder 4-Beat" ^[dual-storyform-hintergruende-md.md:L420] — „Reicht die Sequenz Einheit → Trennungsprotokoll → Kael=734, oder braucht es einen vierten Beat (Erinnerungs-Versiegelung)" ^[dual-storyform-hintergruende-md.md:L420]. Kael is 734, and 734 is the last of three beats, after the Trennungsprotokoll — the Dramatica lock-in's sequence in its words but for `Komp`. Whether the separation makes it, the sequence does not say. Conflict C12.
+
 ## Where the sources differ
 
 **When the component is made (C12).** Before the separation, in beat 2: the
@@ -203,7 +207,9 @@ konsolidiertes Konzept (L72), the Konzept-Iteration Genesis, the Doppel-Klammer
 Abhandlung (L159), the Kap-0 draft (movement 6, L363), and the Kap-0 sequences of the
 strukturierter Outline and the storyform outline. Its result: the character bible
 and the konzept master report (the separation's remainder, beat 3), the Dramatica
-lock-in and the Drei-Modi spec (last of three). The worldbuilding concept counts it
+lock-in and the Drei-Modi spec (last of three). The Dual-Storyform background document of
+2026-05-08 restates the Dramatica lock-in's sequence as a research question, 734
+last of three and a fourth beat asked, not counted (its L420). The worldbuilding concept counts it
 as its own beat 3 after a beat-2 separation, and its open fourth beat is the
 „Etablierung der Primärdirektive“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L184], not Wir-AEGIS-plural. The glossary makes it
 in the separation, beat 3 of four (L148). The Abhandlung has it formed in beat 2
