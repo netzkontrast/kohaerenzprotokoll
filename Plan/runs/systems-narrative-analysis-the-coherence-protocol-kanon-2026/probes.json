@@ -1,0 +1,170 @@
+{
+  "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+  "drive_id": "1GapehAVH42pHzzqpJayfCnvth3HDJ5Kk_oETjgt_LJo",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 8,
+  "backslash_escapes": 92,
+  "typographic_marks": 17,
+  "ascii_quotes": 146,
+  "inflection_families": {
+    "physi": [
+      "Physical",
+      "Physicality",
+      "Physics"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "archi": [
+      "Architecture",
+      "Architektur"
+    ],
+    "autop": [
+      "Autopoiesis",
+      "Autopoietic"
+    ],
+    "const": [
+      "Constraint",
+      "Constraints"
+    ],
+    "explo": [
+      "Exploit",
+      "Exploration"
+    ],
+    "frequ": [
+      "Frequency",
+      "Frequenz"
+    ],
+    "inter": [
+      "Interface",
+      "Internal"
+    ],
+    "kanon": [
+      "KANON",
+      "Kanon"
+    ],
+    "prick": [
+      "Prickle",
+      "Prickling"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols"
+    ],
+    "psych": [
+      "Psychological",
+      "Psychology"
+    ],
+    "quant": [
+      "Quantenverschränkung",
+      "Quantum"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonanz"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulations"
+    ],
+    "somat": [
+      "Somatic",
+      "Somatics"
+    ],
+    "story": [
+      "Story",
+      "Storyform"
+    ],
+    "trans": [
+      "Transition",
+      "Transitkorridor"
+    ],
+    "vorte": [
+      "VORTEX",
+      "Vortex"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Ende",
+      "Lebende"
+    ],
+    [
+      "Real",
+      "Realität"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "KANON",
+      "Kanon"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Story",
+      "Storyform"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "VORTEX",
+      "Vortex"
+    ],
+    [
+      "Somatic",
+      "Somatics"
+    ],
+    [
+      "Kohärenz",
+      "Dekohärenz"
+    ],
+    [
+      "Physical",
+      "Physicality"
+    ],
+    [
+      "Protocol",
+      "Protocols"
+    ],
+    [
+      "Coherence",
+      "Decoherence"
+    ],
+    [
+      "Conscious",
+      "Preconscious"
+    ],
+    [
+      "Conscious",
+      "Subconscious"
+    ],
+    [
+      "Constraint",
+      "Constraints"
+    ],
+    [
+      "Simulation",
+      "Simulations"
+    ]
+  ]
+}
