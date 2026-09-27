@@ -1,10 +1,10 @@
 ---
 term: Verschränkungs-Insel
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -29,3 +29,10 @@ The konsolidiertes Konzept names it the same way (L538), not attached.
 
 In the Überwelt: the „Jenseits-des-Ereignishorizonts-Bereich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299] is the
 „Verschränkungs-Insel (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the Überwelt's Ch33 room, where information escapes the sweep
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+A sub-location of „Die Überwelt — AEGIS' Maschinenraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L626]: „Der Jenseits-des-Ereignishorizonts-Bereich" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] —
+„kausal isolierter „Verschränkungs-Insel"-Raum (Ch33)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] „Hier kann Information dem Erasure-Sweep entkommen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646]

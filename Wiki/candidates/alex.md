@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 12
-readings: 12
+sources: 15
+readings: 15
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
 gathered: "2026-09-24"
 ---
 
@@ -85,3 +85,19 @@ The deeper revision would take him out: „Alex tritt im Roman ohnehin erst nach
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — one line
 
 In the roster by storyform, as an ANP: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Nothing else in the document names Alex.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — ANP, from the night of the separation
+
+The konsolidiertes Konzept's row, in the same words: „ANP | Alex (Protector) | Asymptotische Freiheit | Hypertonus, Bruxismus | → Wachstum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L401].
+When he arose, by the layer it assigns him: the second, „Der Bruch (Fragmentierungsnacht)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435], the night AEGIS „führt das Trennungsprotokoll aus" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] — „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex, Alex" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] (C12). Nothing else in the document names Alex (`grep -cw Alex`: 2, L401 and L435).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the pragmatism of protection, and bruxism
+
+His body, under §3.4, labelled [V] („§3.4 Merleau-Ponty — Verkörperung, gelebter Körper [V]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L192]): „Alex' Bruxismus" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202] — „das ist Merleau-Ponty pro Anteil." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202]
+In the figure table §14.1, which carries no label: „Pragmatismus der Schutz-Funktion; Anti-Theorie" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L626], DKT correlate „Asymptotische Freiheit" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L627].
+Nothing else in the document names Alex (`grep -cw Alex`: 2), and nothing here says when or how he arises.
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — a signature the drafting run says it used
+
+The log of an unattended run that revised Kap 25 lists the Alter profiles among the repository sources it calls normative (`[K]`): „…anteile-profile-sprach-dna §2/§7/§8/§12 (Alex- und Lex-Signaturen, Wechselmechanik ohne Label, Pflicht-Checks)" ^[2026-09-14-kap25-vertiefung-md.md:L31]. That is the log's claim about which signatures it drew on, and it says no more of Alex: the name stands only in that suspended compound (`05-verify.txt`).
+Its self-review says how the switching was kept: „R-3 — Vielheit wird benannt, kanonisch gefordert für 25–26, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags" ^[2026-09-14-kap25-vertiefung-md.md:L47], and „POV-Konsistenz: Kaels Signatur bricht nur dort, wo ein Wechsel gemeint ist." ^[2026-09-14-kap25-vertiefung-md.md:L47] Which alter's signature breaks in where, it does not say.

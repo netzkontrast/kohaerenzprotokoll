@@ -1,0 +1,279 @@
+{
+  "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+  "drive_id": "1kQeZ9hFVe1E8VT-F_t0UsppCa6L5WfarORcUuJut7wU",
+  "step": "probes",
+  "at": "2026-09-26",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 41,
+  "backslash_escapes": 134,
+  "typographic_marks": 178,
+  "ascii_quotes": 21,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemantwort",
+      "Systemfehler",
+      "Systemfeld",
+      "Systemgrenzen",
+      "Systemhum",
+      "Systemische",
+      "Systems",
+      "Systemstimme",
+      "Systemversagen"
+    ],
+    "daten": [
+      "Daten",
+      "Datencluster",
+      "Datenexport",
+      "Datenkorruption",
+      "Datenstrom",
+      "Datenströme",
+      "Datenverarbeitungsknoten",
+      "Datenvisualisierung"
+    ],
+    "selbs": [
+      "Selbstamputat",
+      "Selbstdefinition",
+      "Selbsterleben",
+      "Selbstmodell",
+      "Selbstreferenz",
+      "Selbstreferenzfähigkeit",
+      "Selbsttäuschung",
+      "Selbstzerstörung"
+    ],
+    "erzäh": [
+      "Erzählebenen",
+      "Erzähler",
+      "Erzählerin",
+      "Erzählmechanik",
+      "Erzählung",
+      "Erzählverdrehung"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstantes",
+      "Konstrukt",
+      "Konstruktion",
+      "Konstruktive",
+      "Konstruktiver"
+    ],
+    "logik": [
+      "Logik",
+      "Logikdichte",
+      "Logikparadoxien",
+      "Logikregime",
+      "Logikregimen",
+      "Logiksubstrat"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturphysik",
+      "Strukturprinzip",
+      "Strukturreserve"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmik",
+      "Algorithmische",
+      "Algorithmischer",
+      "Algorithmus"
+    ],
+    "beoba": [
+      "Beobachtbar",
+      "Beobachterin",
+      "Beobachtetem",
+      "Beobachtung",
+      "Beobachtungsakt"
+    ],
+    "doppe": [
+      "DOPPEL",
+      "Doppelnatur",
+      "Doppelpfad",
+      "Doppelte",
+      "Doppeltes"
+    ],
+    "erinn": [
+      "Erinnern",
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungs",
+      "Erinnerungslandschaft"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionseinheit"
+    ],
+    "konze": [
+      "Konzentrische",
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption"
+    ],
+    "korre": [
+      "Korrektur",
+      "Korrekturen",
+      "Korrelat",
+      "Korrespondenz",
+      "Korrespondenztheorie"
+    ],
+    "optio": [
+      "Option",
+      "Optional",
+      "Optionen",
+      "Optionlock",
+      "Optionspool"
+    ],
+    "senso": [
+      "Sensoren",
+      "Sensorik",
+      "Sensorisch",
+      "Sensorische",
+      "Sensorium"
+    ],
+    "zeitp": [
+      "Zeitpfeil",
+      "Zeitpfeils",
+      "Zeitpunkt",
+      "Zeitpunkte",
+      "Zeitpunkten"
+    ],
+    "archi": [
+      "Archipel",
+      "Architektonische",
+      "Architektur",
+      "Archiv"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungsdichte",
+      "Bindungsstil",
+      "Bindungstrauma"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charaktere",
+      "Charakterlogik"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierungsnacht"
+    ],
+    "gleic": [
+      "Gleichgewicht",
+      "Gleichung",
+      "Gleichungen",
+      "Gleichungskette"
+    ],
+    "grenz": [
+      "Grenzbereich",
+      "Grenzen",
+      "Grenzfeste",
+      "Grenzsituationen"
+    ],
+    "husse": [
+      "Husserl",
+      "Husserlian",
+      "Husserls",
+      "Husserlscher"
+    ],
+    "kohär": [
+      "Kohärentismus",
+      "Kohärenz",
+      "Kohärenzprotokoll",
+      "Kohärenztheorie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Aber",
+      "Habermas"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Halle"
+    ],
+    [
+      "Alle",
+      "Allegorie"
+    ],
+    [
+      "Alle",
+      "Zerfallen"
+    ],
+    [
+      "Atem",
+      "ATEMPORAL"
+    ],
+    [
+      "Atem",
+      "Atemporales"
+    ],
+    [
+      "Atem",
+      "Atemporalität"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "ENDE",
+      "Ende"
+    ],
+    [
+      "ENDE",
+      "Lebende"
+    ],
+    [
+      "ENDE",
+      "Sinkender"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Ecke",
+      "Becken"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Eine",
+      "Keiner"
+    ],
+    [
+      "Eine",
+      "Bewusstseine"
+    ]
+  ]
+}

@@ -1,0 +1,115 @@
+{
+ "chapter": 23,
+ "questions": [
+  {
+   "id": "K23-01",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung legt Kael in Kapitel 23 den ersten Datensatz an, den die Welt nicht zugewiesen hat, das Gegenregister unter eigener Kennung: was steht darin, wo legt er ihn an, und was riskiert er?",
+   "draws_on": "Plot-Konkretisierung reading, der eigene Bestand"
+  },
+  {
+   "id": "K23-02",
+   "tag": "Lücke",
+   "question": "Das Szenen-Detail von Kapitel 23 ist als Lücke markiert: welche konkrete Krise meistert Kael in Kapitel 23 mit seiner inneren Vielfalt, und welche Szene macht Selbst-Schöpfung statt Reparatur sichtbar?",
+   "draws_on": "Kompendium and storyform outline mark scene detail [L]"
+  },
+  {
+   "id": "K23-03",
+   "tag": "Kausalität",
+   "question": "Wie antwortet die Mosaik-Schöpfung in Kapitel 23 auf die Systemverwerfungen und den Komp-734-Fund aus Kapitel 22, und welches Ereignis leitet in Kapitel 24 über, wo AEGIS die K-J-Verbindung zyklisch stört?",
+   "draws_on": "neighbours kap-22 and kap-24; GOAL §4.5 #4"
+  },
+  {
+   "id": "K23-04",
+   "tag": "Leser-Wissen",
+   "question": "Was glaubt Kael am Ende von Kapitel 23 über seine innere Vielfalt, was ahnt der Leser über die Vorform kosmischer Schöpfung, und hat AEGIS den eigenen Bestand bemerkt?",
+   "draws_on": "Genesis echo lines; GOAL §4.5 #5"
+  },
+  {
+   "id": "K23-05",
+   "tag": "Storyform",
+   "question": "Das Kapitel-Kompendium nennt Mosaik als Schöpfung in Kapitel 23 ein A-Requirement: welche weiteren Storypoints trägt Kapitel 23 in Storyform A (MC-Concern), und warum ist Storyform B hier latent?",
+   "draws_on": "Kompendium Storyform line; A/B readings; GOAL §5.2"
+  },
+  {
+   "id": "K23-06",
+   "tag": "Struktur",
+   "question": "Kapitel 23 schließt Zyklus Z3 und laut Plot-Konkretisierung den Block Der Innentäter (Kap 14 bis 23): wie endet die dritte Korrektur so, dass das K-J-Thema in Kapitel 24 und der Wendepunkt in Kap 25 bis 26 noch Druck haben?",
+   "draws_on": "cycle stage Z3 Stufe 3; Plot-Konkretisierung position; GOAL §5.1"
+  },
+  {
+   "id": "K23-07",
+   "tag": "Welt/Sensorik",
+   "question": "Kernwelten vollständig setzt Kapitel 23 an den Eintritt in KW3 mit Schleusen, Wachtürmen und Protektoren-Dominanz: wie verbinden sich diese Grenzarchitektur und Scherben, die sich ohne Plan finden, zu einem dominanten Eindruck?",
+   "draws_on": "Kernwelten reading and strukturierter Outline Sensorik; GOAL §5.4"
+  },
+  {
+   "id": "K23-08",
+   "tag": "Figur",
+   "question": "Welche ANPs und EPs kooperieren in Kapitel 23 beginnend, wie wird das stabil-resiliente Wir hörbar, ohne Stimmen zu labeln, und wie stellen sich die Protektoren von KW3 dazu?",
+   "draws_on": "strukturierter Outline characters and POV; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K23-09",
+   "tag": "Setup/Payoff",
+   "question": "Die Outline vom 2026-05-18 nennt die innere Schöpfung in Kapitel 23 eine Vorform der kosmischen Schöpfung von Kapitel 39: welches Bild pflanzt Kapitel 23 dafür, und wie wird es in Kapitel 39 geechot, nie wörtlich wiederholt?",
+   "draws_on": "strukturierter Outline Genesis echo; GOAL §5.3 echo not repetition"
+  },
+  {
+   "id": "K23-10",
+   "tag": "Impact",
+   "question": "Die Storyform-Outline vom 2026-06-10 will Kapitel 23 verdichten: wenn es gekürzt oder mit Kapitel 24 zusammengelegt wird, was kippt für den Abschluss von Z3 und für das A-Requirement Mosaik als Schöpfung?",
+   "draws_on": "storyform outline open point; GOAL §4.5 #8"
+  },
+  {
+   "id": "K23-11",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Idee, Kael breche in Kapitel 23 kurz das Rendering auf Drahtgitter und sich wiederholende Texturkacheln, das Mosaik konkret machen, ohne die Regel Theorie nie nackt zu verletzen?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §4.5 #9"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er nach AEGIS' unvorhersehbaren Systemänderungen auf seine innere Vielfalt zurückgreift, um die Krise zu meistern, und was stellt sich ihm entgegen: die Krise selbst, oder beim Eintritt in KW3 laut Kernwelten vollständig die Dominanz der Protektoren?",
+   "draws_on": "plot beats of the strukturierter Outline; Kernwelten vollständig"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kael laut der Plot-Konkretisierung den ersten Datensatz anlegt, den die Welt nicht zugewiesen hat, das Gegenregister unter eigener Kennung: was verliert er, wenn der Apparat den eigenen Bestand findet, und was gewinnt er durch Schöpfung statt Reparatur?",
+   "draws_on": "Plot-Konkretisierung; strukturierter Outline"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist nach der Mosaik-Schöpfung anders als nach der Begegnung mit Komponente 734, wenn Selbst-Schöpfung statt Reparatur zur inneren Ressource wird, und kippt dabei die Erfahrung, Werkzeug zu sein, in die, selbst zu schöpfen?",
+   "draws_on": "neighbour kap-22; Storyform A in every plan"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Mosaik-Schöpfung erzählt, wenn die strukturierte Outline und die Drei-Modi-Spec Kael als Wir nennen, stabil und resilient, und alle ANPs und EPs in beginnender Kooperation stehen, und wie klingt ein Wir, dessen Stimmen zusammenarbeiten?",
+   "draws_on": "POV and characters in the strukturierter Outline; 39-chapter spec"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Mosaik-Schöpfung, laut Kernwelten vollständig an den Schleusen und Wachtürmen beim Eintritt in KW3, und wie verankern ein Mosaik in Bewegung und Scherben, die sich ohne Plan zueinander finden, den Körper, wo das Kapitel-Kompendium das Szenen-Detail offen lässt?",
+   "draws_on": "Kernwelten vollständig; Sensorik in the strukturierter Outline; Kapitel-Kompendium's [L]"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Mosaik-Schöpfung nach AEGIS' Eskalation und dem Genesis-Flashback um Komponente 734 ein, und welches Ereignis trägt den Leser zur Telefon-Stille, in der AEGIS die Verbindung zwischen Kael und Juna zyklisch stört?",
+   "draws_on": "neighbours: the AEGIS-Eskalation chapter and the Telefon-Stille chapter"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Mosaik-Schöpfung als Korrektur, die den dritten Spiral-Zyklus schließt, laut Kernwelten vollständig am Ende des zweiten Akts und laut dem Kapitel-Kompendium als Requirement von Storyform A, und was fehlte der kosmischen Schöpfung ohne diese Vorform?",
+   "draws_on": "cycle stage; Kernwelten vollständig's Akt II Ende; Kapitel-Kompendium; Genesis echo"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Scherben sich ohne Plan zueinander finden und Kael laut der Plot-Konkretisierung in der Sprache des Apparats etwas Eigenes schöpft, und wie berührt das Thema, dass Liebe bleibt wie der Schmerz, wenn das Zerbrochene selbst zum Material wird?",
+   "draws_on": "Sensorik in the strukturierter Outline; Plot-Konkretisierung"
+  }
+ ],
+ "about": "Alle gelesenen Quellen stellen die Mosaik-Schöpfung in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig an dessen Ende und an den Übergang von KW2 zu KW3; sie ist die Korrektur, mit der der dritte Spiral-Zyklus schließt, und laut der Plot-Konkretisierung das Ende ihres Blocks Der Innentäter. Nach AEGIS' Eskalation greift Kael auf seine innere Vielfalt zurück, um die Krise zu meistern, Selbst-Schöpfung statt Reparatur, laut der Konzept-Iteration Genesis mit dem Mosaik-Herz als innerer Ressource, erzählt laut der strukturierten Outline und der Drei-Modi-Spec aus Kael als Wir, stabil und resilient, laut der strukturierten Outline mit allen ANPs und EPs in beginnender Kooperation. Storyform A führt die Selbst-Schöpfung als MC-Concern und laut dem Kapitel-Kompendium als Requirement, Storyform B bleibt latent; als Echo der Genesis ist die innere Schöpfung laut der Konzept-Iteration Genesis, dem konsolidierten Konzept und der strukturierten Outline die Vorform der kosmischen Schöpfung. Mosaik-Bildung als aktiver Prozess trägt die Szene, laut der strukturierten Outline Scherben, die sich ohne Plan zueinander finden, und laut Kernwelten vollständig betritt Kael hier KW3 an Schleusen und Wachtürmen, unter der Dominanz der Protektoren. Laut der Plot-Konkretisierung legt Kael den ersten Datensatz an, den die Welt nicht zugewiesen hat, das Gegenregister unter eigener Kennung, Schöpfung in der Sprache des Apparats.",
+ "about_draws_on": "readings of the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, strukturierter Outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline and Plot-Konkretisierung; placement from every reading's Position line (Zyklischer Modus; Shō in the strukturierter Outline; Akt II in the Kapitel-Kompendium and storyform outline; Akt II Mitte/Ende in Kernwelten vollständig; block Der Innentäter in the Plot-Konkretisierung) and the cycle stage in the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec and strukturierter Outline"
+}

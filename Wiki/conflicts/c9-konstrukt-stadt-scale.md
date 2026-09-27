@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 10
+sources: 14
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -103,3 +103,30 @@ decision; nothing to change.
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
 **KW1, as decided.** „\*\*KW1 — Konstrukt-Stadt\*\* | Akt I (Kap 1–13) | P (Polynomialzeit)" ^[kohaerenz-protokoll-konzept-master-md.md:L658]. The premise's city is the same: „Ein Mann erwacht in einer sterilen Stadt und kann sich an nichts erinnern." ^[kohaerenz-protokoll-konzept-master-md.md:L51]
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**KW1, as decided.**
+„VI.2 KW1 — Die Konstrukt-Stadt (Logos-Prime)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L455]; „KW1 dominiert Akt I (Ch1–13)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496]
+The premise calls its city a simulation — „Ein Mann erwacht in einer sterilen Stadt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29] … „Die Stadt ist eine Simulation." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29] — without saying the city is the whole of it. Agrees with the author's decision; nothing to change.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**KW1, as decided.** „KW1 (Konstrukt-Stadt / Logos-Prime) ist das Phaenomena-Reich." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118] In the world table: „KW1 Konstrukt-Stadt" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L672]. Agrees with the author's decision; nothing to change.
+
+## 2026-09-26 — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log
+
+**The Konstrukt-Stadt as the setting of every drafted chapter of Akt II, where the canon it cites assigns KW2 and KW3 — asked, not answered, and called the run's largest open question.**
+„Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60]; „die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt" ^[2026-09-14-kap25-vertiefung-md.md:L60] „(Datenknoten, Delta-Sieben, Wohneinheit 734)" ^[2026-09-14-kap25-vertiefung-md.md:L60].
+„Kap 25 löst KW3 jetzt sensorisch ein (Treppenkopf, Wartungsebene), ohne den Ort zu wechseln." ^[2026-09-14-kap25-vertiefung-md.md:L60]
+„Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden?" ^[2026-09-14-kap25-vertiefung-md.md:L60] „Das ist die größte offene Frage des Laufs." ^[2026-09-14-kap25-vertiefung-md.md:L60]
+`KW1` and `Logos-Prime` stand 0 times (`05-verify-readers.txt`); it never says which world the Konstrukt-Stadt is. It reports a manuscript, not a plan, and its „Canon" is its claim about a repository it ranks „Repo (normativ/" ^[2026-09-14-kap25-vertiefung-md.md:L31] `[K]`.
+On no row by name. Its question is this record's: answered `Filterregime`, chapters its canon assigns to KW2 and KW3 would play in the Konstrukt-Stadt, which the author's decision — KW1 only, 2026-09-24 — does not hold; answered the other way, they move out of it. It leaves the answer to the author, and the author's decision stands; recorded, not applied.
+
+## 2026-09-26 — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file
+
+**A city with no name in the prose and KW3 in the apparatus — the Konstrukt-Stadt named in neither.**
+The prose, a first person, twice: „ist die Reihe das Einzige in dieser Stadt, an dem ich etwas offen lassen kann" ^[kp-kap25-2026-09-14-md.md:L125]; „für die Erklärung gibt es in dieser Stadt keine Form" ^[kp-kap25-2026-09-14-md.md:L197]. Its places are a station, a node, „was unter Delta-Sieben liegt" ^[kp-kap25-2026-09-14-md.md:L257] and „die Treppe zur Wartungsebene" ^[kp-kap25-2026-09-14-md.md:L237].
+The apparatus's hidden note: „KW3-Materialisierung über Treppenkopf/Wartungsebene" ^[kp-kap25-2026-09-14-md.md:L48], and its claim about the canon: „Kap 25 = KW3, Wartungsschächte, Anker 734 dritte Wiederkehr" ^[kp-kap25-2026-09-14-md.md:L48].
+`Konstrukt-Stadt`, `KW1` and `Logos-Prime` stand 0 times, `Stadt` on two lines, `KW3` once, in the hidden note (`05-verify.txt`, `05-verify-readers.txt`).
+On no row by name. It is the chapter the session log's question is about: its apparatus places Kap 25 in KW3 and its prose says only „in dieser Stadt" ^[kp-kap25-2026-09-14-md.md:L125]. Whether that city is the Konstrukt-Stadt, and so whether a KW3 stair lies inside it, the document does not say; the identification would be the reading's. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.

@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 13
-covers_documents: 7
-new_findings_last_document: 0
+version: 16
+covers_documents: 11
+new_findings_last_document: 1
 ---
 
 # Briefing — before extracting a document
@@ -107,7 +107,8 @@ wraps is judged by its first line alone.
   the next list had five such zeros. So before a phrase of two or more words goes on
   the list, ask `python3 scripts/read.py <slug> --find "<the phrase>"`: it answers
   with the line or refuses. That finds a line, it counts nothing, and the phrase goes
-  on the list in the form that line has.
+  on the list in the form that line has. A short phrase whose rest is a number, `Kap 17`, is refused
+  because numbers are compared on their own; the count finds it.
 - Does the document write a suspended compound — „Funktions-, Phobie- … und
   Beziehungs-Profil"? Only the last member is written whole; list what is
   written, and expect an expanded member to count zero.
@@ -133,12 +134,20 @@ wraps is judged by its first line alone.
   passage is for and which rule it breaks? Then each passage has two voices, the
   text and the note about it, and a reading names which one it quotes. A field
   label that repeats under every note is the template, not a term.
+- Does the text change voice with no label — a person, a tense, a register — and name no
+  speaker at all? Then the grammar is the only label. Say which register a candidate stands
+  in, and never supply the speaker's name from memory: a name the text does not write is
+  not on the list, and a reading says the text does not name it.
 - Does it date its status apart from itself — a sync, a lock-in — and name
   what that status settled? That is a second date, and it is the document's
   claim about what came before it.
 - Does the document restate *other* documents — an index of locks, a list of
   sources with dates? That is this document's claim about them, not their text.
 
+- Does the text **render** a thing without its word — a smell for a signature, a handset and a
+  silence for a named motif, „the evenings" for a person? The word counts zero and the thing is
+  there. List what the text writes, count the word it does not write into `05-verify.txt`, and
+  leave the identification to the reading, which says it is its own.
 - Will you say something is **absent**? „No ozone", „nothing cold" — an absence cannot
   be quoted, so `quotes.py` never checks it. Count every word the claim names, with a
   word boundary, into `05-verify.txt`, including the adjective (`kalt`) as well as the
@@ -165,7 +174,8 @@ wraps is judged by its first line alone.
   „2" means two different things in two tables?
 - Is every candidate written as *this* document writes it? A `0 word 0 in` after
   a reading is a name that came from somewhere else — memory of another source is
-  the easiest contamination to miss.
+  the easiest contamination to miss. A `## lens` section is where it slips in most easily: a
+  framework's name the document never writes. `grep -cw` each lens term before the count.
 
 **Export damage — what did the conversion do?**
 
@@ -175,6 +185,9 @@ wraps is judged by its first line alone.
   (`ABC\_DEF`) counts zero when the list writes it plain.
 - A hyphenated word split by a space where the source wrapped a line — `Wort- Grenze`? List it as written; the whole form counts zero.
 - Typographic and ASCII quote glyphs mixed in one file?
+- A table flattened to one cell per line, tab-indented, with no pipes? Then a row is
+  several lines, the same cell text may stand in two rows, and a quotation of one cell
+  may match twice — quote a cell that is unique in its row, or two cells together.
 - Emphasis inside a phrase — `*funktional* wütend`? The count reads the marked
   line, so the phrase counts zero; the quotation check reads it unmarked.
 

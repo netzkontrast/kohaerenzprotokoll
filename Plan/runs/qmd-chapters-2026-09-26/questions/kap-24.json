@@ -1,0 +1,121 @@
+{
+ "chapter": 24,
+ "questions": [
+  {
+   "id": "K24-01",
+   "tag": "Konkretheit",
+   "question": "Mit welcher wiederholbaren Handlung und an welchem Objekt sucht Kael in Kapitel 24 die Verbindung zu Juna aktiv, wenn AEGIS die Telefon-Stille zyklisch stört, und wie wird diese Handlung von Störung zu Störung geschickter?",
+   "draws_on": "strukturierter Outline plot beat (Kael learns to seek the connection); GOAL §4.5 #3"
+  },
+  {
+   "id": "K24-02",
+   "tag": "Kausalität",
+   "question": "Wie führt die Selbst-Schöpfung aus Kapitel 23, Mosaik-Herz und eigener Bestand, in Kapitel 24 zur Telefon-Stille, und welches beobachtbare Ereignis am Ende von Kapitel 24 stellt Kael an die Wegkreuzung von Kapitel 25?",
+   "draws_on": "neighbour kap-23 (Mosaik als Schöpfung) and kap-25 (Wegkreuzung); GOAL §4.5 #4"
+  },
+  {
+   "id": "K24-03",
+   "tag": "Kausalität",
+   "question": "Welche zwei genuinen Zukunftsverluste stehen in Kapitel 24 vor Kael, wenn AEGIS laut der Outline vom 2026-05-18 den Kanal zu Juna als feindlich erkennt, und was davon ist nach dem Kapitel nicht mehr umkehrbar?",
+   "draws_on": "strukturierter Outline storyform line (AEGIS erkennt den Kanal als feindlich); GOAL §4.5 #4"
+  },
+  {
+   "id": "K24-04",
+   "tag": "Leser-Wissen",
+   "question": "Was wissen Leser, Kael und AEGIS am Ende von Kapitel 24 über die Telefon-Stille und Juna, was glaubt jeder fälschlich, und welche falsche, plausible Deutung des Witness-Modus bleibt für den Leser stehen?",
+   "draws_on": "Witness-Modus in four readings; GOAL §4.5 #5, Readiness Gate 7"
+  },
+  {
+   "id": "K24-05",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 24 in Storyform A, wo mehrere Outlines RS-Physics dominant setzen, und in B mit OS-Psychology und komplexer Host-System-Verstrickung, und ist das Kapitel nach Slot 16 Hard-A, Hard-B oder Bridge?",
+   "draws_on": "Storyform lines of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec; GOAL §5.2"
+  },
+  {
+   "id": "K24-06",
+   "tag": "Struktur",
+   "question": "Wo steht Kapitel 24 im zyklischen Modus, wenn das konsolidierte Konzept Z3 auf Kapitel 21 bis 23 legt: ist das wiederkehrende K-J-Thema ein weiterer Zyklus, eine Coda der Spirale oder Vorbereitung des Wendepunkts 25–26?",
+   "draws_on": "kap-23 reading Z3 (Kap 21–23); GOAL §5.1 K-J-Thema in Kap 24"
+  },
+  {
+   "id": "K24-07",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird die Telefon-Stille in Kapitel 24 als hörbare Substanz in KW3, laut Kernwelten vollständig den Gängen der Paranoia, sinnlich gebaut, und trägt sie Wärme als Junas Spur oder kaltes Ozon als AEGIS-Störung?",
+   "draws_on": "Kernwelten vollständig (Gänge der Paranoia); strukturierter Outline Sensorik; GOAL §5.4 heat polarity"
+  },
+  {
+   "id": "K24-08",
+   "tag": "Figur",
+   "question": "Wie erscheint Juna in Kapitel 24 im Witness-Modus, ohne grammatisches Subjekt oder physisch beschrieben zu sein, und welche Rolle spielt Silas als Resonanzkörper, den die Outline vom 2026-05-18 dort nennt?",
+   "draws_on": "strukturierter Outline characters line; GOAL §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K24-09",
+   "tag": "Setup/Payoff",
+   "question": "Wo wird das Gegenregister gepflanzt, das Kael laut Plot-Konkretisierung vom 2026-06-10 in Kapitel 24 auf die inneren Stimmen verteilt, und wo zahlt sich diese erste plurale Bewahrung bis zur Wir-AEGIS-plural aus?",
+   "draws_on": "Plot-Konkretisierung reading (Idea 2, plurale Bewahrung); GOAL §4.5 #6"
+  },
+  {
+   "id": "K24-10",
+   "tag": "Lücke",
+   "question": "Was genau soll in Kapitel 24 verdichtet werden, wenn die Storyform-Outline vom 2026-06-10 das Kapitel als zu verdichten nennt, und welche konkrete Handlung fehlt dem K-J-Thema neben dem Leitmotiv Telefon-Stille?",
+   "draws_on": "storyform outline open point (verdichten Kap 24); GOAL §4.5 #1"
+  },
+  {
+   "id": "K24-11",
+   "tag": "Steinbruch",
+   "question": "Kann der Empathie-Test aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in dem Kael eine subjektive Reaktion von AEGIS zu provozieren versucht, Kapitel 24 füllen, ohne AEGIS moralisches Vokabular oder Bedrohlichkeit zu geben?",
+   "draws_on": "aegis-subplots reading (Der Empathie-Test); GOAL §4.5 #9, §5.4 AEGIS rule"
+  },
+  {
+   "id": "K24-12",
+   "tag": "Impact",
+   "question": "Wenn der Autor die Verbindung zu Juna schon in Kapitel 24 als aktiv nutzbaren Kanal etabliert, was kippt in Kapitel 30, das mehrere Outlines als Kulmination des stabilen, bewussten Kanals setzen?",
+   "draws_on": "strukturierter Outline (aktiv suchen und nutzen) vs kap-30 readings; GOAL §4.5 #8"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael in der gestörten Telefon-Stille: laut der strukturierten Outline die Verbindung zu Juna aktiv suchen und nutzen, laut der AEGIS-Subplot-Sammlung AEGIS eine echte Empfindung abringen, und was setzt AEGIS dagegen, wenn es den Kanal als feindlich erkennt?",
+   "draws_on": "readings of strukturierter Outline (seek the connection, AEGIS erkennt den Kanal als feindlich) and aegis-subplots (Empathie-Test)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht in der Telefon-Stille auf dem Spiel, wenn AEGIS die Verbindung zu Juna zyklisch stört und die Plot-Konkretisierung einen Angriff auf Kaels Bestand vorschlägt: was verliert Kael, wenn der Kanal reißt, und was rettet er, wenn er das Register auf die inneren Stimmen verteilt?",
+   "draws_on": "readings of Konzept-Iteration Genesis (Störung) and Plot-Konkretisierung (Angriff auf den Bestand, plurale Verteilung)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende der Telefon-Stille anders, wenn Kael die gestörte Verbindung zu Juna laut der strukturierten Outline nicht mehr nur erleidet, sondern sucht und nutzt: kippt die Störung zum Werkzeug, oder bleibt laut der AEGIS-Subplot-Sammlung nur der Schluss, dass AEGIS simuliert, aber nicht fühlt?",
+   "draws_on": "readings of strukturierter Outline (plot beats) and aegis-subplots (Kael kommt zu dem Schluss)"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Telefon-Stille erzählt, wenn mehrere Quellen Kael und Juna im Witness-Modus als Träger nennen, Juna, die nicht eingreift, sondern nur da ist, und warum stellt die strukturierte Outline Silas als Resonanzkörper und AEGIS als Störer des Kanals daneben?",
+   "draws_on": "bearer/POV lines of 39-chapter spec and strukturierter Outline; characters line of strukturierter Outline"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Telefon-Stille, wenn Kernwelten vollständig sie in KW3 in die Gänge der Paranoia legt, enge, schlecht beleuchtete, sich verändernde Korridore unter dichter Überwachung, und wie spürt Kaels Körper eine Stille, die die strukturierte Outline als hörbare Substanz ohne Datenträger beschreibt?",
+   "draws_on": "readings of Kernwelten vollständig (Gänge der Paranoia) and strukturierter Outline (Telefon-Stille, Sensorik)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Telefon-Stille ein, nachdem Kael aus dem Mosaik-Herz seinen eigenen Bestand geschaffen hat, und welches Ereignis trägt den Leser an die Wegkreuzung, an der Kael erkennt, dass Freiheit nur außerhalb von AEGIS' System liegt?",
+   "draws_on": "neighbour readings: Mosaik als Schöpfung before, Wegkreuzung after"
+  },
+  {
+   "id": "B7",
+   "question": "Was fehlte dem zyklischen Modus im Shō ohne das wiederkehrende Thema von Kael und Juna, das nach den Spiral-Zyklen und vor dem Wendepunkt zur Befreiung steht, wenn die Storyform-Outline das Kapitel als zu verdichten nennt und die Plot-Konkretisierung hier die plurale Bewahrung als Technik ansetzt?",
+   "draws_on": "position in the cyclic mode (strukturierter Outline: Shō; GOAL §5.1 K-J-Thema); storyform outline open point; Plot-Konkretisierung plot beats"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Juna im Witness-Modus nur da ist, laut der Konzept-Iteration Genesis wie in ihrer ursprünglichen Anwesenheit aus der Genesis, und AEGIS das Schweigen stört: wie trägt die Telefon-Stille das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Genesis echo in Konzept-Iteration Genesis, konsolidiertes Konzept and storyform outline"
+  }
+ ],
+ "about": "Kael sucht die Verbindung zu Juna, die AEGIS zyklisch stört; laut der strukturierten Outline lernt er, sie aktiv zu suchen und zu nutzen, während AEGIS den Kanal als feindlich erkennt und Juna im Witness-Modus da ist, ohne einzugreifen, was mehrere Quellen als die ursprüngliche Form ihrer Anwesenheit aus der Genesis lesen. Im zyklischen Modus ist es das wiederkehrende Thema von Kael und Juna, das GOAL neben den Spiral-Zyklen eigens nennt, laut der strukturierten Outline im Shō, laut Kapitel-Kompendium und Storyform-Outline im zweiten Akt, laut Kernwelten vollständig an dessen Ende, laut der Plot-Konkretisierung im Block der Niederlegung. In Storyform A dominiert laut mehreren Quellen RS-Physics, die Verbindung trotz Störung, in B OS-Psychology, die Host-System-Verstrickung wird komplex. Laut Kernwelten vollständig spielt es in KW3 in den Gängen der Paranoia, die Telefon-Stille wird zur hörbaren Substanz, das Kapitel-Kompendium nennt Moonshine als Werkzeug, und die Storyform-Outline nennt das Kapitel als zu verdichten. Die Plot-Konkretisierung schlägt vor, dass Kael sein Register auf die inneren Stimmen verteilt und so die plurale Bewahrung als Technik gewinnt; die AEGIS-Subplot-Sammlung kennt hier einen Empathie-Test, nach dem Kael schließt, dass AEGIS simuliert, aber nicht fühlt.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, strukturierter Outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline, Plot-Konkretisierung and aegis-subplots; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
+}

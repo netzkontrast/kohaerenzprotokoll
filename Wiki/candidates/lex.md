@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 15
-readings: 15
+sources: 18
+readings: 18
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
 gathered: "2026-09-24"
 ---
 
@@ -102,3 +102,23 @@ Again when bonds are shed: „Dies ist nicht Verlust, sondern Strukturoptimierun
 An ANP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135].
 His style code: „Stilcodes pro Alter (Lex hypotaktisch, Nyx fragmentiert-bildhaft, Selene kühl-präzise) sind ab Kap 2–3 erste schwache Einbrüche; voll ausgeprägt ab Kap 8–10." ^[three-mode-architecture-39-chapters-md.md:L198]
 By chapter: Kap 2 „Kael, mit Lex-Einbruch" ^[three-mode-architecture-39-chapters-md.md:L179]; Kap 3 „Kael (Lex-dominant)" ^[three-mode-architecture-39-chapters-md.md:L180]; Kap 16 „Kael (Lex+Selene-Dominanz)" ^[three-mode-architecture-39-chapters-md.md:L260].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — ANP, and the breath of KW1
+
+The konsolidiertes Konzept's row, in the same words: „ANP | Lex (Rationalist) | Gödel + Halteproblem | Hypoventilation, Kälte | → Intuition" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L400].
+From the second trauma layer, the Fragmentierungsnacht: „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435].
+His somatics are the reader's in KW1: „Lex' Hypoventilation als Default-Modus. Brust eng, Schultern hoch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L473]
+His voice in Akt I: „Lex hypotaktisch, Nyx stakkato, Kiko kindlich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L765]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the inner incarnation of Gödel
+
+Under §6.1, labelled [K] („§6.1 Gödel — Unvollständigkeitssatz [K]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L286]): „Lex ist die innere Inkarnation von Gödel: Logik, die sich selbst widerlegt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L296] „Lex' Riss ist eine fraktale Selbst-Widerlegung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L296] „Sein Arc: Logik-Festung → Intuition heißt: er muss erkennen, dass das Halteproblem ihn betrifft (nicht jede Frage ist entscheidbar)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L296]
+In the drafting: „Lex' Sätze, die sich selbst zerstören." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L299] Where in the novel: „Lex' Sprache durchgängig (Hypotaxe + Bedingungsgefüge)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L302], beside Kap 30, where the Gödel-Gambit begins, and Vortex 1 (the same line). Under §6.2 Turing, [K]: „Lex (gemeinsam mit Gödel) — Halteproblem-Riss = Endlosschleifen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L313]
+The rule of §0, which carries no label: „Gödel wird zu einer Endlosschleife in Lex' Hypotaxe, nie zu einem zitierten Satz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9]
+His body, under §3.4, labelled [V] („§3.4 Merleau-Ponty — Verkörperung, gelebter Körper [V]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L192]): „Lex' Hypoventilation" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202] — „das ist Merleau-Ponty pro Anteil." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202]
+In the figure table §14.1, which carries no label: schools „Gödel + Halteproblem + früher Wittgenstein (Tractatus)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L623], DKT correlate „Gödel + Halteproblem" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L624].
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — a signature the drafting run says it used
+
+The log of an unattended run that revised Kap 25 lists the Alter profiles among the repository sources it calls normative (`[K]`): „…anteile-profile-sprach-dna §2/§7/§8/§12 (Alex- und Lex-Signaturen, Wechselmechanik ohne Label, Pflicht-Checks)" ^[2026-09-14-kap25-vertiefung-md.md:L31]. That is the log's claim about which signatures it drew on, and it says no more of Lex: the name stands only in that suspended compound (`05-verify.txt`).
+Its self-review says how the switching was kept: „R-3 — Vielheit wird benannt, kanonisch gefordert für 25–26, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags" ^[2026-09-14-kap25-vertiefung-md.md:L47], and „POV-Konsistenz: Kaels Signatur bricht nur dort, wo ein Wechsel gemeint ist." ^[2026-09-14-kap25-vertiefung-md.md:L47] Which alter's signature breaks in where, it does not say.

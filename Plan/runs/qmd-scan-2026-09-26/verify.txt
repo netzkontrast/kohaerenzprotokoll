@@ -1,0 +1,20 @@
+# verify — the grep checks behind README.md's closing section, 2026-09-26
+
+$ grep -rlw Mira Sources/drive
+Sources/drive/kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md
+
+$ grep -cF 'Etwas zieht in mir, an einer Stelle' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+$ grep -cF 'Etwas in der Struktur kannte diese Berührung' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+$ grep -cF 'Mein Schmerz ist ihr Signal zum Angriff' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+$ grep -cF 'Vielleicht haben Sie schon bemerkt' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+$ grep -cF 'Echoschrei eines leidenden Substrats' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+$ grep -cF 'denn das Fremde, das man kennt' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+$ grep -cF 'klaustrophobische' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+$ grep -cF 'Bastion der Logik' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+$ grep -cF 'Position halten' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+$ grep -cF 'Ich bin, was ich verhindere' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md  -> 0
+
+$ grep -n 'Knöchel' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md
+607:Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Knöchel — gibt es keine
+$ grep -n 'was es verhindert' Sources/drive/koharenz-protokoll-kapitel-0-v2-md.md
+211:*Es ist, was es verhindert, dass es nicht ist.*

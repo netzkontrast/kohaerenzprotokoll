@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 12
-readings: 12
+sources: 14
+readings: 14
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -83,3 +83,14 @@ Again in the Resonanzkaskade: „Bleib. Geh. Bleib doch. Geh nicht. Komm wieder.
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — one line
 
 In the roster by storyform, as an EP: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Nothing else in the document names Lia.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — EP, and Flight in a parenthesis
+
+The konsolidiertes Konzept's row, in the same words: „EP | Lia (Ambivalent) | Superposition | offen | → Superposition verlassen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L406]. From the first trauma layer: „Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431]
+Her Riss is shared: „(Flight, Lia/Isabelle) | Spatial | Geometrie verzerrt, Distanzen verschieben sich" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L682] — the one row whose trigger is a parenthesis, and the only `Flight` in the document (`grep -cw Flight`: 1) (C15). In KW2, „spatiale Risse (Lia/Isabelle-Trigger)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L524].
+Her somatic filter is open, by its own open points: „Lia, Isabelle, Argus, Silas, Oblivion — Filter offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L895]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — bodily Dialetheismus, one table row
+
+In the figure table §14.1, which carries no label: „parakonsistente Existenz (Dialetheismus körperlich), Superposition" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L641], DKT correlate „Quantensuperposition" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L642].
+Nothing else in the document names Lia (`grep -cw Lia`: 1), and `Flight` stands nowhere in it (`grep -cw Flight`: 0) (C15).

@@ -1,0 +1,914 @@
+{
+ "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+ "drive_id": "1kQeZ9hFVe1E8VT-F_t0UsppCa6L5WfarORcUuJut7wU",
+ "step": "reconcile",
+ "at": "2026-09-26",
+ "by": "hand, after scripts/reconcile.py pre-classification; readings, record entries and chapter readings written by seven Claude readers in the container from Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/readings-brief.md, each file reviewed, checked and committed on its own by the session",
+ "state_before": {
+  "pages": 106,
+  "conflicts": 15
+ },
+ "state_after": {
+  "pages": 106,
+  "conflicts": 15
+ },
+ "pre_classification": {
+  "candidates": 385,
+  "decisions": 424,
+  "decided_by_lookup": 280,
+  "needs_judgement": 144
+ },
+ "new_terms": [],
+ "why_no_new_terms": "A world bible whose world lands on pages that exist: 55 by lookup and more by rule. What matched no page is (a) its method — encoding phases, Lesersteuerung, Computational Class, the four-level writing mode, style levels, Egan/Chiang standards; (b) borrowed mathematics and philosophy applied as lens; (c) names it retires („Dekanonisiert“, L423); and (d) terms many read documents already name without a page — Erasure-Pol (14 read documents), Witness-Funktion (8), Fragmentierungsnacht (7), Ursprungs-Ich (7), Suppressionsprotokoll (5), Korrelat-Achse (5) — each left unpaged by every earlier reading of them. Whether any of these should become a page is the author's call, noted in NOW.md, not this reading's",
+ "new_readings": [
+  {
+   "page": "aegis",
+   "lines": [
+    21,
+    33,
+    74,
+    82,
+    166,
+    170,
+    174,
+    180,
+    188,
+    192,
+    213,
+    214,
+    215,
+    219,
+    221,
+    259,
+    263,
+    415,
+    628,
+    805,
+    890,
+    949
+   ],
+   "attribution": "world bible",
+   "note": "the tragic god, expanded, speaking only in logs"
+  },
+  {
+   "page": "alex",
+   "lines": [
+    401,
+    435
+   ],
+   "attribution": "world bible",
+   "note": "ANP, from the night of the separation"
+  },
+  {
+   "page": "algorithmische-melancholie",
+   "lines": [
+    261,
+    263,
+    267,
+    271,
+    821,
+    890
+   ],
+   "attribution": "world bible",
+   "note": "AEGIS' fate, its lock in the Reset-Doc"
+  },
+  {
+   "page": "alters",
+   "lines": [
+    394,
+    415,
+    419,
+    423,
+    427,
+    431,
+    435,
+    673,
+    682,
+    771,
+    821,
+    874,
+    895
+   ],
+   "attribution": "world bible",
+   "note": "thirteen, `kanonisch`, in two layers"
+  },
+  {
+   "page": "archiv-der-grenzen",
+   "lines": [
+    21,
+    532,
+    539,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "the library of Ch14"
+  },
+  {
+   "page": "argus",
+   "lines": [
+    409,
+    435,
+    895
+   ],
+   "attribution": "world bible",
+   "note": "Sonder, from the second layer"
+  },
+  {
+   "page": "atemporalitaet",
+   "lines": [
+    98,
+    100,
+    102,
+    106,
+    114,
+    115,
+    116,
+    124,
+    152,
+    156,
+    365
+   ],
+   "attribution": "world bible",
+   "note": "the master key, under the konsolidiertes Konzept's heading"
+  },
+  {
+   "page": "cerberus",
+   "lines": [
+    192,
+    201,
+    541,
+    543
+   ],
+   "attribution": "world bible",
+   "note": "absorbed, and KW3's name"
+  },
+  {
+   "page": "coheron",
+   "lines": [
+    41,
+    55,
+    77,
+    213,
+    291,
+    364,
+    410,
+    586
+   ],
+   "attribution": "world bible",
+   "note": "love as a particle, and Juna is one"
+  },
+  {
+   "page": "datenverarbeitungsknoten-7g",
+   "lines": [
+    21,
+    490,
+    491,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "Epsilon, Kael's workplace"
+  },
+  {
+   "page": "did",
+   "lines": [
+    33,
+    388,
+    419,
+    435,
+    439,
+    874
+   ],
+   "attribution": "world bible",
+   "note": "the word once, in the negative"
+  },
+  {
+   "page": "dkt",
+   "lines": [
+    47,
+    51,
+    63,
+    120,
+    291,
+    358,
+    758,
+    933
+   ],
+   "attribution": "world bible",
+   "note": "the literal law, with character incarnations"
+  },
+  {
+   "page": "entropie",
+   "lines": [
+    33,
+    59,
+    63,
+    74,
+    76,
+    82,
+    214,
+    296,
+    435
+   ],
+   "attribution": "world bible",
+   "note": "AEGIS is the entropy it fights"
+  },
+  {
+   "page": "erason",
+   "lines": [
+    59,
+    124,
+    136,
+    296,
+    374
+   ],
+   "attribution": "world bible",
+   "note": "the arrow of time, and the condition of history"
+  },
+  {
+   "page": "evaluierungseinheit",
+   "lines": [
+    21,
+    496,
+    578,
+    582,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "the KW3 place of Ch13"
+  },
+  {
+   "page": "externe-ebene",
+   "lines": [
+    431,
+    619,
+    648,
+    650,
+    654,
+    658,
+    666,
+    667,
+    669
+   ],
+   "attribution": "world bible",
+   "note": "the other side of the mirror, broken through in Ch36"
+  },
+  {
+   "page": "grenzfeste",
+   "lines": [
+    21,
+    201,
+    453,
+    541,
+    543,
+    547,
+    555,
+    563,
+    582,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "KW3's second name, and KW3 in full"
+  },
+  {
+   "page": "guardians",
+   "lines": [
+    190,
+    192,
+    196,
+    200,
+    201,
+    205,
+    415,
+    453,
+    628,
+    645,
+    894,
+    951,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "two, and the five told as the old drafts' `Lore-Last`"
+  },
+  {
+   "page": "hitze-polaritaetsregel",
+   "lines": [
+    41,
+    82,
+    461,
+    477,
+    520,
+    590,
+    759,
+    813,
+    817
+   ],
+   "attribution": "world bible",
+   "note": "heat and ozone as one signature"
+  },
+  {
+   "page": "isabelle",
+   "lines": [
+    407,
+    431,
+    524,
+    610,
+    682,
+    684,
+    895
+   ],
+   "attribution": "world bible",
+   "note": "EP, in two Riss rows"
+  },
+  {
+   "page": "kael",
+   "lines": [
+    29,
+    82,
+    180,
+    188,
+    308,
+    388,
+    399,
+    435,
+    481,
+    620,
+    743,
+    809,
+    813,
+    877,
+    949
+   ],
+   "attribution": "world bible",
+   "note": "a system of thirteen, and the knuckles in no chapter"
+  },
+  {
+   "page": "kaels-wohneinheit",
+   "lines": [
+    21,
+    180,
+    489,
+    491,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "Wohneinheit 734, where the first anomalies begin"
+  },
+  {
+   "page": "kairos",
+   "lines": [
+    192,
+    201,
+    453,
+    584
+   ],
+   "attribution": "world bible",
+   "note": "absorbed, and KW4 renamed away from it while keeping it"
+  },
+  {
+   "page": "kern-welten",
+   "lines": [
+    449,
+    453,
+    455,
+    477,
+    496,
+    498,
+    520,
+    539,
+    541,
+    563,
+    582,
+    584,
+    606,
+    618,
+    624,
+    696,
+    700,
+    701,
+    702,
+    703
+   ],
+   "attribution": "world bible",
+   "note": "four logic regimes as act markers, each with an act, a class and a style level"
+  },
+  {
+   "page": "kiko",
+   "lines": [
+    405,
+    431,
+    524,
+    681,
+    682,
+    765
+   ],
+   "attribution": "world bible",
+   "note": "EP, the temporal Riss"
+  },
+  {
+   "page": "kohaerenz",
+   "lines": [
+    33,
+    63,
+    94,
+    214,
+    713,
+    717,
+    775,
+    785
+   ],
+   "attribution": "world bible",
+   "note": "AEGIS' belief, a truth theory, and what reading makes"
+  },
+  {
+   "page": "kohaerenz-kernel",
+   "lines": [
+    55,
+    63,
+    74,
+    86,
+    370,
+    457,
+    500,
+    688
+   ],
+   "attribution": "world bible",
+   "note": "K₁ as a domain, and what AEGIS believes it is"
+  },
+  {
+   "page": "kollaps-kernel",
+   "lines": [
+    59,
+    63,
+    74,
+    213,
+    267,
+    801
+   ],
+   "attribution": "world bible",
+   "note": "K₀ as AEGIS' architecture, never under this name"
+  },
+  {
+   "page": "konstrukt-stadt",
+   "lines": [
+    21,
+    29,
+    82,
+    201,
+    453,
+    455,
+    457,
+    461,
+    465,
+    469,
+    477,
+    481,
+    496,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "KW1 in full, and its four sub-locations"
+  },
+  {
+   "page": "landauer-signatur",
+   "lines": [
+    29,
+    41,
+    76,
+    82,
+    465,
+    594,
+    759,
+    805,
+    817
+   ],
+   "attribution": "world bible",
+   "note": "heat and ozone, one trace of AEGIS' erasure"
+  },
+  {
+   "page": "lex",
+   "lines": [
+    400,
+    435,
+    473,
+    765
+   ],
+   "attribution": "world bible",
+   "note": "ANP, and the breath of KW1"
+  },
+  {
+   "page": "lia",
+   "lines": [
+    406,
+    431,
+    524,
+    682,
+    895
+   ],
+   "attribution": "world bible",
+   "note": "EP, and Flight in a parenthesis"
+  },
+  {
+   "page": "logos",
+   "lines": [
+    192,
+    201,
+    453,
+    455
+   ],
+   "attribution": "world bible",
+   "note": "absorbed into the Erasure-Pol, and KW1's second name"
+  },
+  {
+   "page": "mnemosyne",
+   "lines": [
+    196,
+    200,
+    453,
+    498,
+    535,
+    805,
+    817,
+    825,
+    894,
+    951
+   ],
+   "attribution": "world bible",
+   "note": "one of two, and the climax set in her archipelago"
+  },
+  {
+   "page": "mnemosyne-server-architektur",
+   "lines": [
+    21,
+    500,
+    535,
+    805,
+    825,
+    955,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "the climax place, its geography open"
+  },
+  {
+   "page": "moeglichkeits-garten",
+   "lines": [
+    21,
+    453,
+    584,
+    586,
+    590,
+    594,
+    598,
+    606,
+    618,
+    624,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "both scales again, a world and a place in it"
+  },
+  {
+   "page": "moros",
+   "lines": [
+    408,
+    431,
+    683
+   ],
+   "attribution": "world bible",
+   "note": "EP, the gravitational Riss"
+  },
+  {
+   "page": "multiplizitaet",
+   "lines": [
+    378,
+    399,
+    419,
+    496,
+    586,
+    602,
+    618,
+    719,
+    767,
+    877,
+    954
+   ],
+   "attribution": "world bible",
+   "note": "never fusion, reached in KW4"
+  },
+  {
+   "page": "nexus",
+   "lines": [
+    21,
+    619,
+    628,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "a place in KW4, the passage to the Externe Ebene"
+  },
+  {
+   "page": "nichts-rauschen",
+   "lines": [
+    33,
+    75,
+    116,
+    178,
+    179,
+    435,
+    813
+   ],
+   "attribution": "world bible",
+   "note": "what AEGIS takes for chaos, and where Juna was sent"
+  },
+  {
+   "page": "nyx",
+   "lines": [
+    404,
+    435,
+    680,
+    765
+   ],
+   "attribution": "world bible",
+   "note": "EP, the kinetic Riss"
+  },
+  {
+   "page": "oblivion",
+   "lines": [
+    120,
+    132,
+    136,
+    144,
+    152,
+    156,
+    411,
+    895
+   ],
+   "attribution": "world bible",
+   "note": "AEGIS' end of the vertical axis"
+  },
+  {
+   "page": "persistenzgleichung",
+   "lines": [
+    88,
+    94,
+    98,
+    636,
+    949
+   ],
+   "attribution": "world bible",
+   "note": "what η measures, and where AEGIS reads it"
+  },
+  {
+   "page": "potentialmeer",
+   "lines": [
+    178
+   ],
+   "attribution": "world bible",
+   "note": "where the Genesis begins"
+  },
+  {
+   "page": "realitaetsebenen",
+   "lines": [
+    445,
+    449,
+    696,
+    875
+   ],
+   "attribution": "world bible",
+   "note": "six, as one reality in layers"
+  },
+  {
+   "page": "resonanz-landschaft",
+   "lines": [
+    21,
+    200,
+    453,
+    498,
+    500,
+    512,
+    520,
+    524,
+    539,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "KW2's second name, and KW2 in full"
+  },
+  {
+   "page": "rhys",
+   "lines": [
+    402,
+    435
+   ],
+   "attribution": "world bible",
+   "note": "ANP, anchor in Akt I"
+  },
+  {
+   "page": "risse",
+   "lines": [
+    41,
+    82,
+    86,
+    215,
+    481,
+    492,
+    524,
+    567,
+    594,
+    610,
+    636,
+    673,
+    680,
+    681,
+    682,
+    683,
+    684,
+    688
+   ],
+   "attribution": "world bible",
+   "note": "heat made visible, a type per trigger and per world"
+  },
+  {
+   "page": "sektor-04",
+   "lines": [
+    21,
+    492,
+    496,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "the border district of the first Risse"
+  },
+  {
+   "page": "selene",
+   "lines": [
+    403,
+    435
+   ],
+   "attribution": "world bible",
+   "note": "ANP, and the one alter across both layers"
+  },
+  {
+   "page": "silas",
+   "lines": [
+    106,
+    115,
+    120,
+    132,
+    136,
+    152,
+    156,
+    336,
+    374,
+    410,
+    895
+   ],
+   "attribution": "world bible",
+   "note": "Juna's end of the vertical axis"
+  },
+  {
+   "page": "sophia",
+   "lines": [
+    192,
+    201,
+    453
+   ],
+   "attribution": "world bible",
+   "note": "once, among the old five, and not said to be absorbed"
+  },
+  {
+   "page": "truth-rotation",
+   "lines": [
+    37,
+    65,
+    67,
+    74,
+    86,
+    801,
+    821
+   ],
+   "attribution": "world bible",
+   "note": "the inversion's name for the turn at the Vortex"
+  },
+  {
+   "page": "ueberwelt",
+   "lines": [
+    626,
+    628,
+    636,
+    644,
+    646,
+    949
+   ],
+   "attribution": "world bible",
+   "note": "AEGIS' Maschinenraum, where the two Guardians reside"
+  },
+  {
+   "page": "verschraenkungs-insel",
+   "lines": [
+    21,
+    626,
+    646,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "the Überwelt's Ch33 room, where information escapes the sweep"
+  },
+  {
+   "page": "overview/plot",
+   "lines": [
+    496,
+    539,
+    582,
+    624,
+    799,
+    801,
+    847,
+    954,
+    968
+   ],
+   "attribution": "world bible",
+   "note": "a third 39-chapter plan with one Vortex; „every plan but two“ became „but three“"
+  }
+ ],
+ "scan_readings_checked": {
+  "chaitin-konstante": "checked against the full document; quotations correct; extended",
+  "goedel-gambit": "checked against the full document; quotations correct; extended",
+  "komponente-734": "checked against the full document; quotations correct; extended",
+  "ouroboros-struktur": "checked against the full document; quotations correct; extended",
+  "tsdp": "checked against the full document; quotations correct; extended",
+  "vortex": "checked against the full document; quotations correct; extended"
+ },
+ "new_surfaces": [],
+ "new_conflicts": [],
+ "conflicts_changed": [
+  "C1",
+  "C2",
+  "C3",
+  "C4",
+  "C5",
+  "C6",
+  "C7",
+  "C9",
+  "C10",
+  "C11",
+  "C12",
+  "C13",
+  "C14",
+  "C15"
+ ],
+ "questions_changed": [
+  "Q1",
+  "Q2",
+  "Q3",
+  "Q4",
+  "Q5"
+ ],
+ "records_read_and_not_changed": {
+  "C8": "`Do-er`, `Be-er` and `Approach` 0 times; it gives drivers and IC positions, not AEGIS' Approach"
+ },
+ "judgements": [],
+ "decided_by_existing_rules": "world names that carry a Guardian's name (Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis, Kairos-Reich, Logos-Prime) are placed by what they name, never by their head (J32); compounds with a page surface as modifier (Juna-Seed, Juna-Echo, AEGIS-Echo, AEGIS-Hum, Vortex-Beat 5, Riss-Echo, the Risse types) placed by what the passage states (J62); Coheron/Coheronen, Erasonen, Alter/Alters plural (J46, J56); Kohärenzprotokoll the protocol, not the property (J57); Kaels Wohneinheit 734 the dwelling (J50); Datenverarbeitungsknoten Epsilon the workplace page (J65); Echo, Temporal, Phaenomena, Personae, Einheit shared heads or substrings (J53)",
+ "not_read_although_looked_up": {
+  "residual-echos": "`Echo` is a decanonised alter name (L423)",
+  "thermodynamischer-phaenomenalismus": "`Phaenomena` is Kant's, KW1's concept (L457)",
+  "personas": "„Wo Personae kollabieren“ (L578) — on evaluierungseinheit",
+  "atemporalitaet via Temporal": "the riss type (L681); the page reads the document by its own section"
+ },
+ "not_promoted": [
+  "method — Encoding/Weaving/Telling, Storyweaving phases 1–8, Lesersteuerung, Somatischer Filter, Egan-Falle, Chiang-Standard, Vier-Ebenen-Schreibmodus, Stilebene, Metaphernverbot, Computational Class P/Parakonsistent/NP-Hard/Generativ",
+  "lens — Monstrous Moonshine (VOA, Leech-Gitter, Z₂-Orbifold, Twisted Modules), Husserl, Metzinger, Priest, Tarski, Luhmann, Maturana/Varela, Heidegger, Jaspers, Gödel, Turing, Bekenstein",
+  "retired names — Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel (L423): occurrences",
+  "terms named by many read documents and paged by none — Erasure-Pol, Witness-Funktion, Fragmentierungsnacht, Ursprungs-Ich, Suppressionsprotokoll, Re-Containment-Protokoll, Korrelat-Achse, Doppeltes Trauma: in NOW.md for the author",
+  "sub-locations without a chapter — Datenverarbeitungsknoten Epsilon (read on datenverarbeitungsknoten-7g), Transitkorridor Delta-7, Wald des Flüsterns, Ozean-Becken, Zitadelle, Wartungsschächte, unbewachte Tore, Wächter-Registry, Quelle des Flüsterns, Unkartiertes Territorium: by the rule document 11 supplies, a sub-location needs a chapter",
+  "the log format — SYSTEM\\_KAEL, JUNA\\_VEKTOR, PARADOX\\_INDEX …: a template the document calls binding (L221), read on aegis"
+ ],
+ "sweep": {
+  "hits": 4,
+  "readings": 4,
+  "occurrences": 0,
+  "note": "Alters L805, Emergenz L586, Genesis L164, Kaels Wohneinheit L489 — each a reading"
+ },
+ "internal_tension": "Juna in two roles: the „transzendente Anomalie“ the Ursprungs-Ich meets in the Genesis (L179), and the Ursprungs-Ich itself, split off in the Fragmentierungsnacht (L435); the document does not relate them — the question NOW.md already holds as J68/J75, a month earlier here than the glossary. And Rhys' arc „Anker Akt I → Kudzu Akt II“ (L402) against the master report's „Akt-II-Anker → Kudzu“ of the same date",
+ "against_the_konsolidiertes_konzept": "Large parts stand word for word in koharenz-protokoll-konzept-konsolidiert-2026-05-08-md, of the same date: the System Kael part and riss table, the KW sections, the Landauer sentence (its L135), the Genesis beats without its cluster beat. Two passages are not there: the Wächter-Zwiespalt-Soziopolitik (L894) and AEGIS in the Überwelt in Phase 1 (L949); two of its are missing here: Kap 39's Wir-AEGIS-plural and the mirror alters' section (counts in 05-verify-readers.txt). Reported by the readers, orientation only",
+ "chapters": {
+  "readings_on": [
+   1,
+   11,
+   13,
+   14,
+   33,
+   34,
+   35,
+   36,
+   39
+  ],
+  "left_off": {
+   "0": "no Kap 0",
+   "40": "no Kap 40",
+   "ranges": "Ch14–22, Ch23–28, Ch29–34, 37–39 are act spans, no chapter content"
+  }
+ },
+ "checker_defect_found": "quotes.py matched no quotation under eight characters, so a false citation of „(Ch13)“ on evaluierungseinheit went unreported; fixed with self-test cases (commit „quotes.py: a cited quotation under eight characters is checked“)",
+ "baseline_moved": false
+}

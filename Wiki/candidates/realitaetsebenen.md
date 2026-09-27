@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -94,3 +94,14 @@ The document names the count to retire it — the old drafts speak of „6 Reali
 and of Guardian-assigned worlds — „Beides ist dekanonisiert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]. What it puts in place is
 „eine Realität mit vier Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus Überwelt und Externe Ebene" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42],
 while its own §1 is headed „Welt-Bibel — Sechs Ebenen einer Realität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L40]: six levels, one reality.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — six, as one reality in layers
+
+The word once, in the heading of its sixth part (`grep -cw Realitätsebenen` 1): „Lokalitäten — die sechs Realitätsebenen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L445]
+„Die Romanwelt ist ontologisch geschichtet, nicht topologisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L449]
+„Es gibt eine Realität mit vier verschiedenen Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus die Überwelt (Operationsraum von AEGIS) und die Externe Ebene (Köln 2026, der Substrat-Durchbruch)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L449]
+Each of the six has its own section — the four [[kern-welten|Kern-Welten]], the [[ueberwelt|Überwelt]] and the [[externe-ebene|Externe Ebene]] (L455–L669) — and the part closes on the Risse (L671).
+
+Its negative definition says it again: „Keine Multiverse-Geschichte. Eine Realität, vier Logikregime." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L875]
+The four worlds ascend: „Die vier Kernwelten korrespondieren mit aufsteigender Komplexitätsklasse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L696] — „Das ist nicht primär weltdiegetisch, sondern stilistisch-narrative Anweisung" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L696].
+The heading and the sentences of L449 stand in the konsolidiertes Konzept of the same date (L457, L459 there).

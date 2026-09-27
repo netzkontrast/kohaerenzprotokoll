@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 13
+sources: 15
 pages: ["kael", "nyx"]
 ---
 
@@ -126,3 +126,18 @@ The annotation names the voice and where it points: „Nyx-Vorform-Eruption (Use
 „Die Knöchel-Referenz ist ein direktes Foreshadow des Kael-Akt-I-Anfangs aus dem Konzept-Dokument (*er weiß nicht, warum seine Knöchel bluten*)." ^[kap0-v1-annotiert-md.md:L981]
 So both sides in one draft: the knuckles in Kap 0, in [[nyx|Nyx]]'s voice (row 2), and a Kap-1 opening with bleeding knuckles, which the writer attributes to the concept (row 1's place). The Kap-1 lines the draft itself ends on carry none: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[kap0-v1-annotiert-md.md:L1021]
 Nine days after the draft of 2026-05-08, whose Kap 0 has no knuckles (the entry above); thirteen days before the Kapitel-Kompendium's lock.
+
+## 2026-09-26 — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — research, by the author
+
+**The knuckles in Kap 0, in a line with no speaker — and no Kap 1 after it.**
+As the separation runs: „Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten. Sie bluten trotzdem.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L607]
+The line stands between the fragment's Ich and the protocol's status lines and names no voice. The text names no figure at all (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`), so it says neither whose knuckles these are nor that they are Kael's.
+After the last rule an unnamed Ich counts tiles: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L635] „Ich bin pünktlich.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L639] No knuckles stand there, and the passage has no heading and no chapter.
+Row 2's placing — the knuckles in Kap 0 — without row 2's voice.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**In the premise, the Landauer physics and KW1's [[risse|Risse]] — in no chapter.**
+„er weiß nicht, warum seine Knöchel bluten" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29], in the premise's first paragraph; as a Landauer trace, „Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L82]; and among KW1's Risse, „blutende Knöchel ohne Erinnerung an die Verletzung" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L481].
+`Knöchel` stands three times, on those lines, and none of them names a chapter; the document has no chapter line for Kap 0 or Kap 1 (`Kap 0`, `Ch0` 0).
+Neither row: the image belongs to KW1 and to the physics, not to a chapter — as in the konsolidiertes Konzept's synopsis and the master report, both of its date. The drafting manual later carries the KW1 Riss line with the Kap-0 lock added (its L90).

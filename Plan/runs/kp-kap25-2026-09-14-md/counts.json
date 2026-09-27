@@ -1,0 +1,1282 @@
+{
+  "document": "kp-kap25-2026-09-14-md",
+  "drive_id": "1sXBMh4zSdFXBXiQlGpiE6iU7m9wRqxDY",
+  "step": "counts",
+  "at": "2026-09-26",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "novel.chapter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        12
+      ]
+    },
+    "the-agency-system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "kohärenz-protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        14
+      ]
+    },
+    "Wegkreuzung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        18,
+        52
+      ]
+    },
+    "Chapter 25": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Kael": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        26,
+        28,
+        33,
+        38,
+        48
+      ]
+    },
+    "A‖B Bridge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Schwelle": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        26,
+        31,
+        48,
+        189
+      ]
+    },
+    "Arbeitsbewegung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        48
+      ]
+    },
+    "Selbst-Bestand": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        36
+      ]
+    },
+    "Zuweisung": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        26,
+        36,
+        161,
+        173
+      ]
+    },
+    "Schlange": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        38
+      ]
+    },
+    "Konfrontation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        32,
+        48
+      ]
+    },
+    "AEGIS": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        44,
+        48
+      ]
+    },
+    "binäre Bedienlogik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Apparat": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        48
+      ]
+    },
+    "Akt II": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Akt II — Schwelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Storyform": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Vorbereitung/Entschluss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Kapitelauftrag": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Bewahrungslogik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Nicht-Mitwirkung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        41
+      ]
+    },
+    "Szenenplan": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Die Zuweisung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Nicht bedienen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Confirm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Reject": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Wachsende Schlange": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Veränderung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "heimlichem Bewahren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "offene Nicht-Mitwirkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Reveal Discipline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "AEGIS-Personalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Nicht-Handlung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        261
+      ]
+    },
+    "Freeze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Kap 26": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Kap 25": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        46,
+        48
+      ]
+    },
+    "Draft v0.2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "KW3-Materialisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Treppenkopf/Wartungsebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Canon-Kernwelten §12": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        48
+      ]
+    },
+    "Wartungsschächte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Anker 734 dritte Wiederkehr": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Schleier": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        48
+      ]
+    },
+    "Schleier-Disziplin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "D23-02": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "D23-03": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "D-05": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "G-03": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Kapitel 25 — Wegkreuzung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Bestand": {
+      "n": 14,
+      "n_including_compounds": 16,
+      "lines": [
+        26,
+        36,
+        54,
+        68,
+        93,
+        97,
+        105,
+        137,
+        147,
+        151,
+        157,
+        177,
+        213,
+        271
+      ]
+    },
+    "BESTAND 734-A-0244": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "WOHNEINHEIT 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "NOTIZFLÄCHE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "INHALTSERFASSUNG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "KLASSIFIKATION": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "REDUNDANT — KONSOLIDIEREN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Inhaltserfassung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Nutzungsprotokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Konsolenwert 4408": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Sektor 3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        73
+      ]
+    },
+    "Regel 6": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Drittes Fenster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Station 11": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        171,
+        251
+      ]
+    },
+    "Fenster 03": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Konsole 21,0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Gegenregister": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        99
+      ]
+    },
+    "Bodenplatte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "zweiten Herkunft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Verkleidung der Nische": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Verkleidung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        281
+      ]
+    },
+    "Nische": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        275
+      ]
+    },
+    "Wartung Notizfläche": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Wohneinheit 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Notizfläche": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        81,
+        271
+      ]
+    },
+    "Arbeitsmittel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81
+      ]
+    },
+    "Wartungsvorgang": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        87
+      ]
+    },
+    "Knoten": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        85,
+        155,
+        189,
+        283,
+        289
+      ]
+    },
+    "Nordende": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85
+      ]
+    },
+    "Stationen 1 bis 6": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Ebene": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        85,
+        87,
+        189,
+        257,
+        283
+      ]
+    },
+    "allgemeinen Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        257
+      ]
+    },
+    "Frühdienst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Bestätigen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Zurückweisen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Nach hinten schieben": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Ausnahme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Restwert": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        103,
+        189,
+        195,
+        205
+      ]
+    },
+    "Soll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Prozessebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "splitten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Vorgang ohne Datentyp": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Schaltfläche": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        107,
+        109
+      ]
+    },
+    "Hand": {
+      "n": 9,
+      "n_including_compounds": 14,
+      "lines": [
+        37,
+        45,
+        113,
+        115,
+        123,
+        129,
+        131,
+        171,
+        177,
+        179,
+        185,
+        247,
+        249,
+        261
+      ]
+    },
+    "Feld": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        105,
+        115,
+        123,
+        177,
+        205,
+        213
+      ]
+    },
+    "Grammatik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Behalt den Platz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Ohne Platz kein Zugriff": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Platz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        119,
+        127,
+        137
+      ]
+    },
+    "Zugriff": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119
+      ]
+    },
+    "Stadt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        125,
+        197
+      ]
+    },
+    "Einheit": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        93,
+        125,
+        185,
+        227,
+        245,
+        257,
+        269,
+        283
+      ]
+    },
+    "Griffstück": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        125,
+        275,
+        279,
+        281
+      ]
+    },
+    "neun Quadratmetern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "zweite Spannung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Unterarm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Hier sitzt mehr als einer.": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "Einer": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        137
+      ]
+    },
+    "vier Abende": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "fünfte Möglichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Mahnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Eskalation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Bearbeitung": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        36,
+        151,
+        213
+      ]
+    },
+    "Bearbeitungsdauer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "klickt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Zuweisungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        161,
+        173
+      ]
+    },
+    "Wartungspläne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Wasserführung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        173,
+        181
+      ]
+    },
+    "Wasserführung in Sektor 12": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Priorität 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Station 7": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        183,
+        185,
+        227
+      ]
+    },
+    "Einheit an Station 7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "in Blöcken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "technischen Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Eigennutz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Schichtabschluss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "SCHICHT 734 ABGESCHLOSSEN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "ÜBERTRAG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "EINHEIT 734": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        217
+      ]
+    },
+    "EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "BEARBEITUNGSPROFIL ABWEICHEND": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "KEINE MASSNAHME": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Feststellung": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        219
+      ]
+    },
+    "scharf und elektrisch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Station 12": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Möbelstück": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Einheit von Station 7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Delta-Sieben": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        229,
+        257
+      ]
+    },
+    "Rückweg": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Zweihundertvier Platten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Platten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Abzweigung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        237,
+        241,
+        265
+      ]
+    },
+    "Säule": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        237,
+        265
+      ]
+    },
+    "Treppe zur Wartungsebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Wartungsebene": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        237,
+        245
+      ]
+    },
+    "Schild": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        245
+      ]
+    },
+    "elf Kennungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        245
+      ]
+    },
+    "Kennungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        245
+      ]
+    },
+    "einundzwanzig Grad": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        247
+      ]
+    },
+    "fettig und metallisch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    },
+    "Handlauf": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        249
+      ]
+    },
+    "Rohr": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        249,
+        255
+      ]
+    },
+    "Träger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        257
+      ]
+    },
+    "Register": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        269,
+        273
+      ]
+    },
+    "Behälter zu den Fundsachen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "vier kurzen Sätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "Die Stille kommt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        277
+      ]
+    },
+    "Stille": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        277
+      ]
+    },
+    "Bettmodul": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        277,
+        283,
+        295
+      ]
+    },
+    "vier Blätter mit vier Daten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        279
+      ]
+    },
+    "Restzahl": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        283
+      ]
+    },
+    "Zyklus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        213,
+        283
+      ]
+    },
+    "Wartungsfenster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        283
+      ]
+    },
+    "Nachtwert": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        295
+      ]
+    }
+  }
+}

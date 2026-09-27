@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md
+  lines                832  (frontmatter ends at 0)
+  body words           6811
+  headings             0   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       27
+  backslash escapes    0
+  typographic marks    205   ascii quotes 55
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    53
+  repeated labels      none
+  longest line         596 chars
+

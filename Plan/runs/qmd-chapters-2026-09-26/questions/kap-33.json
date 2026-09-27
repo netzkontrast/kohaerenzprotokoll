@@ -1,0 +1,115 @@
+{
+ "chapter": 33,
+ "questions": [
+  {
+   "id": "K33-01",
+   "tag": "Konkretheit",
+   "question": "Was ist das Original-Dokument, die erste Zuweisung des Universums, das Kael laut Plot-Konkretisierung in Kapitel 33 an der Wurzel der Schlange findet, und was tut er damit: lesen, berühren, bearbeiten oder liegen lassen?",
+   "draws_on": "Plot-Konkretisierung plot beat and Idea 10; GOAL §4.5 #3"
+  },
+  {
+   "id": "K33-02",
+   "tag": "Kausalität",
+   "question": "Wie führt das Erkennen der eigenen Fehler im Wahrheits-Test von Kapitel 32 Kael zur K₁-Reinform in Kapitel 33, und was von dieser Berührung nimmt er als Waffe oder Last in das Duell Wir gegen Makro-Log in Kapitel 34 mit?",
+   "draws_on": "neighbour pages kap-32 and kap-34; GOAL §4.5 #4"
+  },
+  {
+   "id": "K33-03",
+   "tag": "Leser-Wissen",
+   "question": "Was begreift der Leser in Kapitel 33, wenn Kael berührt, was AEGIS in der Genesis als Bedrohung erlebte, was Kael davon nicht einordnen kann, und welche falsche Deutung der Berührung bleibt bis zur Truth-Rotation im Vortex stehen?",
+   "draws_on": "Konzept-Iteration Genesis echo; GOAL §4.5 #5, §5.3 Truth-Rotation"
+  },
+  {
+   "id": "K33-04",
+   "tag": "Storyform",
+   "question": "Laut Konzept-Master-Report erreicht Kael in Kapitel 33 Funktionale Multiplizität, nicht Final Fusion; welcher Storypoint in A (MC-Concern nahe an der Quelle) zeigt das, und was trägt B mit parakonsistenter Logik und Gödel-Sätzen?",
+   "draws_on": "master report reading; storyform lines of three plans"
+  },
+  {
+   "id": "K33-05",
+   "tag": "Struktur",
+   "question": "Wie bereitet Kapitel 33 als Heldenreise-Stufe Approach the Inmost Cave den Vortex vor, ohne den Integrationsmoment vorwegzunehmen, wenn der Master-Report den Vortex nur als Folge der Integration auf AEGIS liest?",
+   "draws_on": "master report: Vortex nicht der Integrationsmoment; stage lines; GOAL §5.1"
+  },
+  {
+   "id": "K33-06",
+   "tag": "Konflikt",
+   "question": "Erscheint Juna in Kapitel 33 im Garten der stillen Präsenz als spürbare Präsenz, wie die Charakter-Bibel vom 2026-05-08 sagt, oder nur als Wirkung, damit ihre erste direkte Erscheinung in Kapitel 38 nicht vorweggenommen wird?",
+   "draws_on": "record C7; Kernwelten vollständig: Setting der Juna-Wirkung"
+  },
+  {
+   "id": "K33-07",
+   "tag": "Setup/Payoff",
+   "question": "Der Datensatz ohne Datentyp liegt laut Plot-Konkretisierung in Kapitel 33 unangetastet seit Kapitel 18 neben dem Original; wie wird er hier gezeigt, und in welchem späteren Kapitel wird er eingelöst?",
+   "draws_on": "Plot-Konkretisierung Juna trace; GOAL §4.5 #6"
+  },
+  {
+   "id": "K33-08",
+   "tag": "Welt/Sensorik",
+   "question": "Braucht Kapitel 33 zwei Orte, die Verschränkungs-Insel der Überwelt und den Garten der stillen Präsenz, und wie hält es dabei eine Kernwelt pro Beat und eine Schicht pro Szene bei dunkler Tiefe und Vibrieren des Fundaments ein?",
+   "draws_on": "Kernwelten vollständig world line; Sensorik lines; GOAL §5.4, §5.5"
+  },
+  {
+   "id": "K33-09",
+   "tag": "Lücke",
+   "question": "Welche sichtbare Form hat die K₁-Reinform in Kapitel 33 – Kernwelten vollständig fragt selbst, ob sie eine Visualisierung der Persistenzgleichung ist –, und wie erscheint sie als Bild statt als Theorie?",
+   "draws_on": "Kernwelten vollständig open point (marked [L]); GOAL §4.5 #1"
+  },
+  {
+   "id": "K33-10",
+   "tag": "Figur",
+   "question": "Wie arbeiten in Kapitel 33 alle dreizehn Alters kooperativ, wie der Outline vom 2026-05-18 sagt, ohne dass Stimmen gelabelt werden oder die Szene zur Aufzählung wird, und welcher Alter trägt die Berührung?",
+   "draws_on": "strukturierter Outline characters line; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K33-11",
+   "tag": "Steinbruch",
+   "question": "Könnte die Realitätsbelagerung der AEGIS-Subplots von 2025 – eine wechselnde Alptraumlandschaft, ausgelöste Traumata, drohende erneute Fragmentierung – Kapitel 33 eine Gegenkraft geben, ohne der erreichten Funktionalen Multiplizität zu widersprechen?",
+   "draws_on": "aegis-subplots reading (2025); GOAL §4.5 #9"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael beim Vordringen zu AEGIS' Kern, wo er die nicht-algorithmische Unterstruktur berührt, und was stellt sich ihm entgegen: parakonsistente Logik und Gödel-Sätze als Verteidigungsarchitektur, oder laut den AEGIS-Subplots eine Realitätsbelagerung, die sein Bewusstsein wieder zu fragmentieren droht?",
+   "draws_on": "Konzept-Iteration story; storyform B in the plans; structured outline OS-S3; aegis-subplots Realitätsbelagerung"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kael berührt, was AEGIS in der Genesis als Bedrohung erlebte, und laut der Plot-Konkretisierung an der Wurzel der Schlange das Original findet, die erste Zuweisung des Universums: was verliert er, wenn die Berührung scheitert, und was, wenn sie gelingt?",
+   "draws_on": "Konzept-Iteration Genesis echo; Plot-Konkretisierung plot beats"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist anders, wenn Kael AEGIS' Kern erreicht hat und laut Konzept-Master-Report und strukturierter Outline die Funktionale Multiplizität erreicht ist, alle Alters kooperativ, aber keine Final Fusion: welcher Wert kippt, wenn Vielheit vom Symptom zur Arbeitsform wird?",
+   "draws_on": "master report: Funktionale Multiplizität, not Final Fusion; structured outline plot beats"
+  },
+  {
+   "id": "B4",
+   "question": "Wird das Vordringen zum Fundament aus einem Wir-fokussierten Kael erzählt, wie Spec und strukturierte Outline sagen, oder setzt hier laut den Richtwerten der Storyform-Outline Oblivions POV ein, und wer trägt die Stimme, wenn alle Alters zugleich arbeiten?",
+   "draws_on": "POV lines of the 39-chapter spec and structured outline; storyform outline and konsolidiertes Konzept POV ranges"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Berührung des Fundaments, auf der Verschränkungs-Insel der Überwelt, im Garten der stillen Präsenz oder beim sich öffnenden Mnemosyne-Archipel, und wie verankern dunkle Tiefe, das Vibrieren des Fundaments und eine Stille, die voller ist als Klang, Kaels Körper?",
+   "draws_on": "Kernwelten vollständig places; structured outline world and Sensorik; leitmotif in the plans"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt das Vordringen ein, nachdem Kael im Wahrheits-Test seine Bestände an ihren Fehlern erkannt hat, und welches Ereignis am Kern, das Original oder der lange unangetastete Datensatz ohne Datentyp, trägt den Leser ins Duell des Wir gegen AEGIS' Makro-Log?",
+   "draws_on": "neighbour kap-32 (Wahrheits-Test); Plot-Konkretisierung Juna trace; neighbour kap-34 (Wir vs Makro-Log)"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat Approach the Inmost Cave im Bogen, wenn der Konzept-Master-Report den Vortex nicht als Integrationsmoment, sondern als Folge der hier erreichten Integration auf AEGIS liest, und was fehlte dem Vortex, wenn man das Vordringen zu AEGIS' Kern striche?",
+   "draws_on": "stage Approach Inmost Cave; master report: the Vortex after it"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn neben dem Original der Datensatz ohne Datentyp liegt und Kernwelten vollständig den Garten der stillen Präsenz als Setting von Junas Wirkung nennt, während die Charakter-Bibel dort eine spürbare Präsenz setzt, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Plot-Konkretisierung Juna trace; Kernwelten vollständig place; record C7 (character bible's garden)"
+  }
+ ],
+ "about": "In der äußeren Heldenreise ist das Approach the Inmost Cave, im dritten Akt der äußeren Konfrontation, laut der strukturierten Outline im beginnenden Ten und laut Konzept-Master-Report in dem Teil des Akts, der den Vortex vorbereitet; in Storyform A steht das MC-Concern nahe an der Quelle, in B parakonsistente Logik und Gödel-Sätze als Architektur, und als Genesis-Echo berührt Kael, was AEGIS damals als Bedrohung erlebte. Kael dringt zu AEGIS' Kern vor, den die Konzept-Iteration Das Fundament nennt, und berührt die nicht-algorithmische Unterstruktur in ihrer Reinform; laut Konzept-Master-Report und strukturierter Outline ist hier die Funktionale Multiplizität erreicht, alle Alters arbeiten kooperativ, ohne Final Fusion, und der Konzept-Master-Report liest den folgenden Vortex als Folge dieser Integration auf AEGIS. Kernwelten vollständig setzt die Berührung auf die Verschränkungs-Insel der Überwelt und nennt den Garten der stillen Präsenz als Setting von Junas Wirkung, die strukturierte Outline lässt den Mnemosyne-Archipel sich öffnen, und dunkle Tiefe und das Vibrieren des Fundaments sind das Leitmotiv. Laut der Plot-Konkretisierung liegt am Kern das Original, die erste Zuweisung des Universums, und daneben unangetastet der Datensatz ohne Datentyp; die AEGIS-Subplots schlugen dagegen eine Realitätsbelagerung vor, die Kael an seine Grenze treibt und wieder zu fragmentieren droht.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, master report, 39-chapter spec, structured outline, Kernwelten vollständig, storyform outline, Plot-Konkretisierung, aegis-subplots; Where the sources differ: title; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
+}

@@ -1,0 +1,210 @@
+{
+  "document": "kp-kap25-2026-09-14-md",
+  "drive_id": "1sXBMh4zSdFXBXiQlGpiE6iU7m9wRqxDY",
+  "step": "probes",
+  "at": "2026-09-26",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 19,
+  "backslash_escapes": 65,
+  "typographic_marks": 6,
+  "ascii_quotes": 14,
+  "inflection_families": {
+    "wartu": [
+      "Wartung",
+      "Wartungsebene",
+      "Wartungsfenster",
+      "Wartungspläne",
+      "Wartungsschächte",
+      "Wartungsvorgang"
+    ],
+    "bestä": [
+      "Bestände",
+      "Bestätigen",
+      "Bestätigung",
+      "Bestätigungen"
+    ],
+    "unter": [
+      "Unter",
+      "Unterarm",
+      "Unterlassung",
+      "Unterschied"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeitsbewegung",
+      "Arbeitsmittel"
+    ],
+    "bearb": [
+      "BEARBEITUNGSPROFIL",
+      "Bearbeitung",
+      "Bearbeitungsdauer"
+    ],
+    "einhe": [
+      "EINHEIT",
+      "Einheit",
+      "Einheiten"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungen",
+      "Entschluss"
+    ],
+    "konso": [
+      "KONSOLIDIEREN",
+      "Konsole",
+      "Konsolenwert"
+    ],
+    "schic": [
+      "SCHICHT",
+      "Schichtabschluss",
+      "Schichtende"
+    ],
+    "abend": [
+      "Abend",
+      "Abende"
+    ],
+    "behal": [
+      "Behalt",
+      "Behalten"
+    ],
+    "besta": [
+      "BESTAND",
+      "Bestand"
+    ],
+    "bettm": [
+      "Bettmodul",
+      "Bettmoduls"
+    ],
+    "bewah": [
+      "Bewahren",
+      "Bewahrungslogik"
+    ],
+    "boden": [
+      "Boden",
+      "Bodenplatte"
+    ],
+    "daten": [
+      "Daten",
+      "Datentyp"
+    ],
+    "eigen": [
+      "Eigenes",
+      "Eigennutz"
+    ],
+    "fests": [
+      "Feststellung",
+      "Feststellungen"
+    ],
+    "finge": [
+      "Finger",
+      "Fingern"
+    ],
+    "fläch": [
+      "Fläche",
+      "Flächen"
+    ],
+    "handl": [
+      "Handlauf",
+      "Handlung"
+    ],
+    "inhal": [
+      "INHALTSERFASSUNG",
+      "Inhaltserfassung"
+    ],
+    "jahre": [
+      "Jahre",
+      "Jahren"
+    ],
+    "kante": [
+      "Kante",
+      "Kanten"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelauftrag"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Eine",
+      "Einer"
+    ],
+    [
+      "Eine",
+      "KEINE"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Ende",
+      "Abende"
+    ],
+    [
+      "Ende",
+      "Nordende"
+    ],
+    [
+      "Ende",
+      "Wachsende"
+    ],
+    [
+      "Ende",
+      "Schichtende"
+    ],
+    [
+      "Fall",
+      "Gefallen"
+    ],
+    [
+      "Feld",
+      "Felder"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Gang",
+      "Gangs"
+    ],
+    [
+      "Gang",
+      "Vorgang"
+    ],
+    [
+      "Gang",
+      "Wartungsvorgang"
+    ],
+    [
+      "Hand",
+      "Handlauf"
+    ],
+    [
+      "Hand",
+      "Handlung"
+    ],
+    [
+      "Hand",
+      "Handballen"
+    ],
+    [
+      "Hand",
+      "Handrücken"
+    ],
+    [
+      "Jahr",
+      "Jahre"
+    ],
+    [
+      "Jahr",
+      "Jahren"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ]
+  ]
+}

@@ -1,17 +1,17 @@
 ---
 term: Sophia
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-17"
 ---
 
 # Sophia
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Nothing else read so far names Sophia at all.
+the same nine fields. Eight other read documents name Sophia — the readings below, the worldbuilding concept's the latest. (Until that reading this lead said nothing else read named Sophia at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -108,3 +108,9 @@ The document's one mention retires her world: „KW1=LogOS, KW4=Kairos/Sophia" ^
 
 Named once, among the five of earlier drafts: „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[kohaerenz-protokoll-konzept-master-md.md:L504]
 And absorbed: „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513] The document does not say which into which (Q5).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — once, among the old five, and not said to be absorbed
+
+**One occurrence** (`grep -cw Sophia` 1), in the list of the older drafts' five, which is the document's claim about them: „Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle. Das war Lore-Last." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L192]
+The absorption sentence names three of the other four and not Sophia: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] KW4 is renamed away from Kairos alone: „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
+Where Sophia's function went, this document does not say — as in the konsolidiertes Konzept of the same date, whose sentences these are (Q5). The author decided C6 for five on 2026-09-24; recorded, not applied.

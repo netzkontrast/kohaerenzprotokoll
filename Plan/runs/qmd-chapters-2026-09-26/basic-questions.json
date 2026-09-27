@@ -1,0 +1,45 @@
+{
+ "about": "The basic questions every author asks of any chapter (the author, 2026-09-26: 'Build a few Basic questions every Autor must ask for a chapter - and then more specialized questions for the chapter'). The same eight for every chapter, each filled with the chapter's number and the titles its readings give it, so each still names its chapter when it is sent to the vector search alone. {N} is the chapter, {titel} its titles, {weiter} where the chapter hands the reader on. Craft, not canon: they presuppose no reading of the novel. Superseded per chapter: the author asked to fill them with what is known of the plot, not numbers, so each chapter file carries its own `basic` list rewritten from its readings (questions-brief.md, 'The basic eight, filled with the plot'); these templates remain the craft core each rewrite keeps, and the fallback where a chapter has none.",
+ "questions": [
+  {
+   "id": "B1",
+   "tag": "Ziel und Widerstand",
+   "template": "Was will die Perspektivfigur in Kapitel {N} ({titel}), und wer oder was stellt sich ihr dabei in den Weg?"
+  },
+  {
+   "id": "B2",
+   "tag": "Einsatz",
+   "template": "Was steht in Kapitel {N} ({titel}) auf dem Spiel: was verliert die Figur, wenn sie scheitert, und was, wenn sie gewinnt?"
+  },
+  {
+   "id": "B3",
+   "tag": "Veränderung",
+   "template": "Was ist am Ende von Kapitel {N} ({titel}) anders als an seinem Anfang, und welcher Wert kippt dabei ins Gegenteil?"
+  },
+  {
+   "id": "B4",
+   "tag": "Perspektive und Stimme",
+   "template": "Aus wessen Sicht und in welcher Stimme wird Kapitel {N} ({titel}) erzählt, und warum gerade aus dieser?"
+  },
+  {
+   "id": "B5",
+   "tag": "Ort, Zeit, Körper",
+   "template": "Wo und wann spielt Kapitel {N} ({titel}), und welche konkreten Sinneseindrücke und Körperempfindungen verankern die Szene?"
+  },
+  {
+   "id": "B6",
+   "tag": "Einstieg und Ausstieg",
+   "template": "Womit setzt Kapitel {N} ({titel}) ein, und welche offene Frage oder welches Ereignis trägt den Leser {weiter}?"
+  },
+  {
+   "id": "B7",
+   "tag": "Funktion im Ganzen",
+   "template": "Welche Aufgabe hat Kapitel {N} ({titel}) im Bogen des Romans, und was fehlte der Geschichte, wenn man es striche?"
+  },
+  {
+   "id": "B8",
+   "tag": "Leser und Thema",
+   "template": "Was soll der Leser am Ende von Kapitel {N} ({titel}) fühlen, und wie berührt das Kapitel das Thema, dass Liebe bleibt wie der Schmerz?"
+  }
+ ]
+}

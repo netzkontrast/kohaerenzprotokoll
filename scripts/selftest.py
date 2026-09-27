@@ -53,6 +53,14 @@ QUOTE_CASES = [
      '> AEGIS\' Kernverarbeitungsstil" ^[L152]'),
 ]
 
+# (name, text, (unresolved, uncited, checked)). Until 2026-09-26 a quotation under
+# eight characters matched nothing: a cited „(Ch13)" on a line without it passed.
+SHORT_CASES = [
+    ("cited, wrong", '„Zauber" ^[L272]', (1, 0, 1)),
+    ("uncited", 'Er nennt es „offen" und geht.', (0, 0, 0)),
+    ("beside a full one", '„Autonomer Agent oder bloßes Werkzeug" und „Chaos" ^[L272]', (0, 0, 1)),
+]
+
 # `read.py --find` is the other direction: given the words, produce the citation.
 # (needle, words, the lines it must answer with, the line a refusal must name).
 # A refusal is the half that matters, so each one asserts *which* line it points
@@ -129,6 +137,30 @@ def check_quotes() -> list[str]:
         failures.append("number: a wrong number resolved")
     elif "number 3" not in problems[0]["why"]:
         failures.append(f"number: unresolved for another reason — {problems[0]['why']}")
+    for info, counted in (("qmd", 0), ("text", 1)):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "fixture.md"
+            path.write_text(f"---\nsource: Sources/drive/{DOC}.md\n---\n\n```{info}\n"
+                            "L12  Er sagte „ein Satz ohne jede Quelle hier“ und ging.\n```\n",
+                            encoding="utf-8")
+            problems, skipped = quotes.check_file(path, DOC)
+            total = quotes.tally([path])
+        if problems or skipped != counted or total["checked"] != 0:
+            failures.append(f"raw fence ```{info}: {skipped} uncited and {total['checked']} checked counted, "
+                            f"expected {counted} and 0")
+    # Short quotations (quotes.SHORT). A cited one is a claim about a line and is
+    # checked; an uncited one is a word the prose mentions and is not counted; and
+    # beside a full quotation on the line, a short one does not take its reference.
+    for name, body, want in SHORT_CASES:
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "fixture.md"
+            path.write_text(f"---\nsource: Sources/drive/{DOC}.md\n---\n\n{body}\n",
+                            encoding="utf-8")
+            problems, skipped = quotes.check_file(path, DOC)
+            total = quotes.tally([path])
+        got = (len(problems), skipped, total["checked"])
+        if got != want:
+            failures.append(f"short {name}: (unresolved, uncited, checked) = {got}, expected {want}")
     return failures
 
 
@@ -166,12 +198,12 @@ def check_fold() -> list[str]:
 
 def main() -> int:
     failures = check_quotes() + check_find() + check_fold()
-    total = (len(QUOTE_CASES) + 1 + len(FIND_CASES) + 1
+    total = (len(QUOTE_CASES) + 3 + len(SHORT_CASES) + len(FIND_CASES) + 1
              + len(MUST_NOT_MERGE) + len(MUST_MERGE))
     for line in failures:
         print(f"  FAIL  {line}")
     print(f"\n{total - len(failures)} of {total} cases hold "
-          f"({len(QUOTE_CASES) + 1} quotation, {len(FIND_CASES) + 1} citation, "
+          f"({len(QUOTE_CASES) + 3 + len(SHORT_CASES)} quotation, {len(FIND_CASES) + 1} citation, "
           f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold)")
     if failures:
         print("\nA failure here means a checker other work depends on is not "

@@ -1,0 +1,115 @@
+{
+ "chapter": 28,
+ "questions": [
+  {
+   "id": "K28-01",
+   "tag": "Konkretheit",
+   "question": "Welches konkrete Ereignis zwingt Kael in Kapitel 28 zum sofortigen Handeln, wenn die Outline vom 2026-05-18 nur von einem Ereignis spricht: eine Meldung, ein Objekt, ein Ort des Apparats, an dem der Countdown sichtbar beginnt?",
+   "draws_on": "strukturierter Outline plot beats (ein Ereignis zwingt Kael); GOAL §4.5 #3"
+  },
+  {
+   "id": "K28-02",
+   "tag": "Konflikt",
+   "question": "Ist der Auslöser in Kapitel 28 Purge-Drohung und Juna in Gefahr zugleich, wie Konzept-Iteration Genesis und Storyform-Outline sagen, oder nur eines davon, abhängig von OQ-B wie in der Outline vom 2026-05-18, und was entscheidet OQ-B?",
+   "draws_on": "Where the sources differ: the trigger; GOAL §4.5 #2"
+  },
+  {
+   "id": "K28-03",
+   "tag": "Kausalität",
+   "question": "Wie führt Kaels erster ungefragter Bericht aus Kapitel 27 zur Purge-Drohung in Kapitel 28, und welche Folge exportiert Kapitel 28 in das Refusal und die Angst des Kindes in Kapitel 29?",
+   "draws_on": "neighbours kap-27 (Idea 13) and kap-29 (Refusal); GOAL §4.5 #4"
+  },
+  {
+   "id": "K28-04",
+   "tag": "Leser-Wissen",
+   "question": "Wie kann Juna in Kapitel 28 in Gefahr sein, wenn sie nie beschrieben und nie Subjekt ist: was weiß der Leser über die Bedrohung, und was glaubt Kael über Junas Ort womöglich fälschlich?",
+   "draws_on": "Juna in Gefahr in three readings; GOAL §4.5 #5, §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K28-05",
+   "tag": "Storyform",
+   "question": "Wie trägt Kapitel 28 die akute A-Consequence, ewige Fragmentierung, laut Kapitel-Kompendium akut ab Kap 28, neben dem sichtbaren Timelock-Countdown von B, und ist das Kapitel nach Slot 16 Hard-A, Hard-B oder Bridge?",
+   "draws_on": "Kapitel-Kompendium consequence line; strukturierter Outline (Timelock-Countdown sichtbar); GOAL §5.2"
+  },
+  {
+   "id": "K28-06",
+   "tag": "Struktur",
+   "question": "Wie funktioniert Kapitel 28 als Call to Adventure, Stufe 2 der Heldenreise außen, und beginnen dort laut dem Konzept-Master-Bericht die Vortex-Vorläufer als Bridge-Szenen, obwohl er das Kapitel nur ungefähr angibt?",
+   "draws_on": "konzept-master reading (Vortex-Vorläufer ab ~Kap 28); GOAL §5.1"
+  },
+  {
+   "id": "K28-07",
+   "tag": "Setup/Payoff",
+   "question": "Welche Bilder aus Akt I und II muss ein Vortex-Vorläufer in Kapitel 28 aufnehmen, damit Vortex 1 in Kapitel 35–36 nur bereits gepflanzte Bilder rotiert, und in welchen Kapiteln wurden sie gepflanzt?",
+   "draws_on": "konzept-master bridge scenes; GOAL §4.5 #6 Rotations-Inventar"
+  },
+  {
+   "id": "K28-08",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird in Kapitel 28 der Phase-Shift von KW3 zu KW4 gebaut, den Kernwelten vollständig zwischen Kapitel 28 und 29 legt, mit unbewachten Toren als Übergang, und wie nimmt Kael KW3 sinnlich mit, statt sie zu verlassen?",
+   "draws_on": "Kernwelten vollständig transition lines; GOAL §5.4 one Kernwelt per beat"
+  },
+  {
+   "id": "K28-09",
+   "tag": "Figur",
+   "question": "Wie spricht AEGIS in Kapitel 28 die Purge-Drohung aus: direkt drohend, wie die Outline vom 2026-05-18 sagt, oder als Verwaltungsvorgang Voll-Konsolidierung Stadtgebiet, wie die Plot-Konkretisierung vorschlägt, und immer ohne moralisches Vokabular?",
+   "draws_on": "strukturierter Outline characters (AEGIS drohend, direkt) vs Plot-Konkretisierung; GOAL §5.4 AEGIS rule"
+  },
+  {
+   "id": "K28-10",
+   "tag": "Lücke",
+   "question": "Was tut Mnemosyne in Kapitel 28, wenn nur die Outline vom 2026-05-18 sie unter den Figuren nennt und keine Quelle ihre Handlung beschreibt, und welche Funktion hat sie in AEGIS' Eskalation?",
+   "draws_on": "strukturierter Outline characters line, no beat for Mnemosyne; GOAL §4.5 #1"
+  },
+  {
+   "id": "K28-11",
+   "tag": "Steinbruch",
+   "question": "Kann die Erinnerungswaffe aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in der ein Guardian wie Mnemosyne alte Traumata reaktiviert, Kapitel 28 verdichten, das die Storyform-Outline vom 2026-06-10 als zu verdichten nennt?",
+   "draws_on": "aegis-subplots reading (Die Erinnerungswaffe); storyform outline open point; GOAL §4.5 #9"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was zwingt Kael zum sofortigen Handeln: laut Konzept-Iteration Genesis die Purge-Drohung und Juna in Gefahr zugleich, laut der strukturierten Outline das eine oder das andere, und wer tritt ihm entgegen, wenn diese AEGIS drohend und direkt nennt und Mnemosyne daneben stellt?",
+   "draws_on": "Where the sources differ: the trigger; strukturierter Outline characters line"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn laut Kapitel-Kompendium und Storyform-Outline die Consequence akut wird und ewige Fragmentierung droht und die Plot-Konkretisierung die Voll-Konsolidierung des Stadtgebiets in Apparat-Sprache ankündigt: was verliert Kael, und was Juna?",
+   "draws_on": "readings of Kapitel-Kompendium, storyform outline and Plot-Konkretisierung"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende der Eskalation anders, wenn der Countdown beginnt und laut der Plot-Konkretisierung die Wartungsfenster ihren Takt verlieren, der Apparat erstmals unordentlich wirkt: kippt die Ordnung des Systems in sichtbare Degradation und Kaels freie Absicht in Zwang?",
+   "draws_on": "strukturierter Outline plot beats (Countdown); Plot-Konkretisierung plot beats (Degradation)"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird AEGIS' Eskalation erzählt, wenn die strukturierte Outline und die Drei-Modi-Spezifikation Kael und eine AEGIS-Direktive als Träger nennen: wie steht die Sprache einer Direktive neben Kaels Wir, und warum tritt AEGIS gerade hier drohend und direkt auf?",
+   "draws_on": "bearer/POV lines of 39-chapter spec and strukturierter Outline"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Eskalation, wenn Kernwelten vollständig sie in den Phase-Shift zwischen KW3 und KW4 an unbewachte Tore legt und Kael KW3 nicht hinter sich lässt, sondern mitnimmt, und welche drohende Spannung und welche Countdown-Marker spürt sein Körper?",
+   "draws_on": "reading of Kernwelten vollständig; Sensorik lines"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt AEGIS' Eskalation ein, nachdem Kael mit der Autoren-Feder klare Absicht gefasst hat, und welches Ereignis trägt den Leser in die Angst des Kindes, in der letzte Trauma-Erinnerungen auftauchen und der Kind-Anteil sichtbar wird?",
+   "draws_on": "neighbour readings: Autoren-Feder before, Angst des Kindes after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat der Ruf zum Abenteuer in der Heldenreise außen, wenn Kael längst entschlossen ist, und was fehlte ohne ihn, wenn der Konzept-Master hier die Vorläufer des Vortex beginnen lässt und die Storyform-Outline das Kapitel als zu verdichten nennt?",
+   "draws_on": "stage lines (Call to Adventure); konzept master bridge scenes line; storyform outline open point"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Juna laut der strukturierten Outline nur als Bedrohungs-Resonanz erscheint und die Zeit sichtbar abläuft, und wie berührt die Angst um sie das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "strukturierter Outline characters and storyform lines"
+  }
+ ],
+ "about": "AEGIS eskaliert, und ein Ereignis zwingt Kael zum sofortigen Handeln: laut Konzept-Iteration Genesis und Storyform-Outline die Purge-Drohung und Juna in Gefahr zugleich, laut der strukturierten Outline das eine oder das andere, je nach einer offenen Frage; der Countdown beginnt. Die Plot-Konkretisierung fasst die Purge als Voll-Konsolidierung des Stadtgebiets in Apparat-Sprache und lässt die Wartungsfenster erstmals ihren Takt verlieren; die AEGIS-Subplot-Sammlung kennt hier eine Erinnerungswaffe, mit der AEGIS alte Traumata bei Kael reaktiviert. Es ist der Ruf zum Abenteuer der Heldenreise außen, laut der strukturierten Outline im beginnenden Ten; die meisten Quellen legen es in die Phase A des dritten Akts, der Konzept-Master in die Vorbereitung des Vortex mit dessen Vorläufern, Kernwelten vollständig dagegen an das Ende des zweiten Akts, in den Phase-Shift zwischen KW3 und KW4 an unbewachten Toren. In Storyform A trägt es MC-Issue, die Notwendigkeit zu handeln, und laut Kapitel-Kompendium und Storyform-Outline wird die Consequence von A akut, ewige Fragmentierung droht; in B trägt es OS-Physics mit expliziter Erasure-Drohung, laut der strukturierten Outline mit sichtbarem Timelock-Countdown. Die Storyform-Outline nennt das Kapitel als zu verdichten.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, konzept master, 39-chapter spec, strukturierter Outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline, Plot-Konkretisierung and aegis-subplots; Where the sources differ; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
+}

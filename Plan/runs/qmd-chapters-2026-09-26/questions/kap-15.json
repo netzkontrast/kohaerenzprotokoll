@@ -1,0 +1,109 @@
+{
+ "chapter": 15,
+ "questions": [
+  {
+   "id": "K15-01",
+   "tag": "Konkretheit",
+   "question": "Was tut Kael in Kapitel 15 konkret, wenn er das Halteproblem-Dossier als Betriebsanleitung seiner Welt liest – wo, mit welchem Objekt, und welches Risiko macht es zum Lektüre-Kapitel statt Essay-Kapitel?",
+   "draws_on": "the reading of kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md (Lektüre I, Idea 6); GOAL §4.5 #3"
+  },
+  {
+   "id": "K15-02",
+   "tag": "Konflikt",
+   "question": "Ist Kapitel 15 die Turing-Mechanik, die Stadt als universelle Turingmaschine, oder der Z1-Trigger Schattenwurf, der Trauma-Angst reaktiviert – und wie tragen beide ein Konzept pro Szene?",
+   "draws_on": "Where the sources differ: title; GOAL §5.4 one concept per scene"
+  },
+  {
+   "id": "K15-03",
+   "tag": "Struktur",
+   "question": "Wie eröffnet Kapitel 15 den Zyklus Z1 in Kap 15 bis 17 als Destabilisierung, und wie eskaliert es gegenüber dem Bruch in Kapitel 14?",
+   "draws_on": "the reading of koharenz-protokoll-konzept-konsolidiert-2026-05-08-md (Z1 Kap 15–17), the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md; GOAL §5.1"
+  },
+  {
+   "id": "K15-04",
+   "tag": "Storyform",
+   "question": "Wie zeigt Kapitel 15 in Storyform A das MC-Problem Avoidance reaktiviert, und bleibt Storyform B nach der ersten Erasure-Welle in Kapitel 14 wirklich latent?",
+   "draws_on": "the reading of koharenz-protokoll-konzept-iteration-genesis-md, the reading of three-mode-architecture-39-chapters-md; GOAL §5.2"
+  },
+  {
+   "id": "K15-05",
+   "tag": "Kausalität",
+   "question": "Welcher Hook führt aus der Theta-9-Lektüre und der Erasure-Welle von Kapitel 14 zum Trigger in Kapitel 15, und welche Folge exportiert Kapitel 15 in die Bunker-Reaktion von Kapitel 16?",
+   "draws_on": "kap-14 and kap-16 pages; GOAL §4.5 #4"
+  },
+  {
+   "id": "K15-06",
+   "tag": "Leser-Wissen",
+   "question": "Was versteht Kael in Kapitel 15 vom Halteproblem, dass das System sich selbst nicht vorhersagen kann, und welche falsche, plausible Deutung über AEGIS bleibt für den Leser stehen?",
+   "draws_on": "the reading of kapitel-kompendium-gather-2026-05-31-md, the reading of kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md; GOAL §4.5 #5"
+  },
+  {
+   "id": "K15-07",
+   "tag": "Figur",
+   "question": "Wie wird Nyx in Kapitel 15 erstmals deutlich sichtbar, und wie ist Kiko als kindliche Angst-Reaktion im Hintergrund zu hören, ohne dass eine Stimme gelabelt wird?",
+   "draws_on": "the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md (plot beats, characters); GOAL §5.4"
+  },
+  {
+   "id": "K15-08",
+   "tag": "Welt/Sensorik",
+   "question": "Wo in KW2 liegt der Trigger in Kapitel 15, am KW2-Rand oder in den inneren Welten, und wie werden Schattenwurf und Babymonster-Welt-Resonanz als Bild statt als Theorie sinnlich?",
+   "draws_on": "the reading of koharenz-protokoll-strukturierter-outline-2026-05-18-md, the reading of kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md; GOAL §5.4"
+  },
+  {
+   "id": "K15-09",
+   "tag": "Lücke",
+   "question": "Was genau ist der Trigger in Kapitel 15 – ein Objekt, ein Satz, ein Ort –, der Kaels Trauma-Angst reaktiviert, und warum ist die Angst älter als der Tag?",
+   "draws_on": "no reading names the trigger; the reading of kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md; GOAL §4.5 #1"
+  },
+  {
+   "id": "K15-10",
+   "tag": "Steinbruch",
+   "question": "Kann das ältere Motiv, dass Kael in Kapitel 15 absichtlich überwachte Aktionen durchführt und eine Karte des Überwachungsnetzes von AEGIS erstellt, aktive Handlung geben, ohne die Z1-Destabilisierung zu brechen?",
+   "draws_on": "the reading of aegis-subplots-kapitelweise-system-exploration-docx (Der Datenspur folgen); GOAL §4.5 #9"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er laut der Plot-Konkretisierung das Halteproblem-Dossier liest, die Betriebsanleitung seiner Welt, oder laut den AEGIS-Subplots absichtlich überwachte Aktionen setzt, um das Überwachungsnetz zu kartieren, und was stellt sich ihm entgegen, wenn ein Trigger die alte Trauma-Angst reaktiviert?",
+   "draws_on": "readings of the Plot-Konkretisierung, aegis-subplots and strukturierter Outline"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn Kael das Dossier als Lektüre mit Risiko liest statt als Essay: was verliert er, wenn AEGIS das Lesen bemerkt, und was, wenn er versteht, dass das System sich selbst nicht vorhersagen kann?",
+   "draws_on": "reading of the Plot-Konkretisierung (idea 6)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist anders, nachdem Kael die Stadt als universelle Turingmaschine erkannt und das Halteproblem verstanden hat, und kippt dabei Wissen in Angst, wenn die Angst, die das auslöst, älter ist als der Tag und die MC-Problem Avoidance reaktiviert?",
+   "draws_on": "readings of the Kapitel-Kompendium, Plot-Konkretisierung and konsolidiertes Konzept"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird der Trigger erzählt, wenn Kael und ein Schatten-Anteil die Perspektive teilen, Nyx erstmals deutlich sichtbar wird und Kiko als kindliche Angst-Reaktion im Hintergrund bleibt, und warum spricht der Schatten gerade jetzt?",
+   "draws_on": "POV and characters in the strukturierter Outline and three-mode spec"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Turing-Mechanik: am Rand von KW2, wie die strukturierte Outline sagt, oder in den inneren Welten von KW2, wie Kernwelten vollständig sagt, und wie verankern Schattenwurf und die Resonanz der Babymonster-Welt die Angst in Kaels Körper?",
+   "draws_on": "readings of the strukturierter Outline and Kernwelten vollständig; Sensorik"
+  },
+  {
+   "id": "B6",
+   "question": "Wie setzt die Turing-Mechanik ein, nachdem Kael den Fehler im Lernarchiv Theta-9 nicht gemeldet und die erste Erasure-Welle erlebt hat, und welches Ereignis trägt den Leser in den Bunker, Kaels reflexhafte Flucht in Dissoziation, die AEGIS als Stabilisierung liest?",
+   "draws_on": "neighbour pages: Archiv der Grenzen before, Bunker reaktiv after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Turing-Mechanik als Destabilisierung durch einen Trigger zu Beginn des ersten Zyklus, wenn Storyform B latent bleibt, und trägt das Kapitel die Theorie, Turing und das Halteproblem, oder die Trauma-Angst, und was fehlte, wenn das eine ohne das andere stünde?",
+   "draws_on": "difference 'Title'; Kapitel-Kompendium theory; Z1 in konsolidiertes Konzept"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael begreift, dass die Welt, die ihn überwacht, sich selbst nicht vorhersagen kann, und zugleich eine alte Angst zurückkehrt, und wie berührt das das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "readings of the Plot-Konkretisierung and Konzept-Iteration Genesis"
+  }
+ ],
+ "about": "Das Kapitel steht in Akt II, im zyklischen Modus und im Shō, als Destabilisierung durch einen Trigger, die erste Phase des ersten Spiral-Zyklus, laut der Plot-Konkretisierung im Block Der Innentäter, und trägt in Storyform A die reaktivierte MC-Problem Avoidance, während Storyform B latent bleibt. Ein Trigger reaktiviert Kaels Trauma-Angst; laut der strukturierten Outline geschieht das am Rand von KW2, Nyx wird erstmals deutlich sichtbar, und Kiko steht als kindliche Angst im Hintergrund. Laut Kapitel-Kompendium und Storyform-Outline, die das Kapitel Turing-Mechanik nennen, erkennt Kael die Stadt als universelle Turingmaschine und versteht das Halteproblem, die prinzipielle Unvorhersehbarkeit; Kernwelten vollständig legt das in die inneren Welten von KW2. Die Plot-Konkretisierung verbindet beides als Lektüre mit Risiko: Kael liest das Halteproblem-Dossier, die Betriebsanleitung seiner Welt, versteht, dass das System sich selbst nicht vorhersagen kann, und die Angst, die das auslöst, ist älter als der Tag. Die AEGIS-Subplots machen ihn stattdessen zum aktiven Ermittler, der absichtlich überwachte Aktionen setzt und eine Karte des Überwachungsnetzes anlegt, und die Konzept-Iteration nennt das Kapitel nach seinem Sinnesbild Schattenwurf, zu dem die Resonanz der Babymonster-Welt gehört.",
+ "about_draws_on": "readings of the strukturierter Outline, Kapitel-Kompendium, storyform outline, Kernwelten vollständig, Plot-Konkretisierung, aegis-subplots, konsolidiertes Konzept and Konzept-Iteration Genesis; difference on the title"
+}

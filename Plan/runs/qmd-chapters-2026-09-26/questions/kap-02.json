@@ -1,0 +1,115 @@
+{
+ "chapter": 2,
+ "questions": [
+  {
+   "id": "K02-01",
+   "tag": "Konkretheit",
+   "question": "Welches konkrete Ereignis ist der erste Riss in Kapitel 2 – Zeitverlust, Blackout, eine fremde Erinnerung, eine geometrische Inkonsistenz im Sektor 04 oder die zurückkehrende Abweichung hinter dem Komma –, und was tut Kael daraufhin?",
+   "draws_on": "readings of strukturierter Outline, Kernwelten, Plot-Konkretisierung; GOAL §4.5 #3"
+  },
+  {
+   "id": "K02-02",
+   "tag": "Kausalität",
+   "question": "Welcher Faden aus Kapitel 1 kehrt in Kapitel 2 zurück, und welches beobachtbare Ereignis am Ende von Kapitel 2 – etwa der Wert im Entwurfsordner in fremder Syntax – treibt Kael in den Bunker-Bau von Kap 3?",
+   "draws_on": "Plot-Konkretisierung beats; Kap 3 page; GOAL §4.5 #4"
+  },
+  {
+   "id": "K02-03",
+   "tag": "Kausalität",
+   "question": "Was ist nach dem ersten Riss in Kapitel 2 irreversibel, und vor welchen zwei schlechten Optionen steht Kael, wenn er die zweite Markierung der Abweichung melden oder verschweigen kann?",
+   "draws_on": "Plot-Konkretisierung (system takes the second mark silently); GOAL §5.5 enrichment packet"
+  },
+  {
+   "id": "K02-04",
+   "tag": "Leser-Wissen",
+   "question": "Was glaubt Kael am Ende von Kapitel 2 über den Glitch und die fremde Syntax in seinen Notizen, was weiß der Leser aus Kap 0, und verbucht AEGIS die Abweichung nur als nicht-kritisches Rauschen, Syntax ohne Semantik?",
+   "draws_on": "aegis-subplots Diagnoseprotokoll; GOAL §4.5 #5"
+  },
+  {
+   "id": "K02-05",
+   "tag": "Storyform",
+   "question": "Wie trägt Kapitel 2 in A das MC-Issue Falsehood vs. Truth als erste Begegnung mit der Systemlüge und in B das initialisierte Controlled Fragmentation Protocol als OS-Physics – in einer Szene oder getrennt, bei etwa 10 % Bridge in Akt I?",
+   "draws_on": "storyform readings; GOAL §5.2 bridge frequency"
+  },
+  {
+   "id": "K02-06",
+   "tag": "Struktur",
+   "question": "Wie setzt Kapitel 2 die Murdock-Stufe 2, Verrat und Desillusionierung, als ersten Riss in KW1 um, und wie unterscheidet sich sein Tempo von der Illusion in Kap 1 und dem Bunker-Bau in Kap 3?",
+   "draws_on": "stage readings; GOAL §5.1 three modes"
+  },
+  {
+   "id": "K02-07",
+   "tag": "Konflikt",
+   "question": "Wird der erste Riss in Kapitel 2 als Landauer-Hitze mit Ozon geschrieben, wie das Kapitel-Kompendium sagt, oder als kaltes Ozon, wie die Storyform-Outline vom 2026-06-10 – und wie bleibt dabei die Theorie Bild statt Begriff?",
+   "draws_on": "Where the sources differ: what the Riss feels like; C11"
+  },
+  {
+   "id": "K02-08",
+   "tag": "Figur",
+   "question": "Wie bricht Lex in Kapitel 2 zum ersten Mal in Kaels Stimme ein – andere Syntax, andere Logik –, ohne dass die Stimme gelabelt wird oder der Multiplizitäts-Schleier vor Kap 13 reißt?",
+   "draws_on": "Lex-Einbruch readings; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K02-09",
+   "tag": "Setup/Payoff",
+   "question": "Erscheint die Zahl 734 in Kapitel 2 zum ersten Mal als Foreshadowing, oder ist sie schon in Kap 1 als Wohneinheit oder Kennung benannt – und welche Funktion hat sie dann in Kapitel 2?",
+   "draws_on": "Where the sources differ: the number 734"
+  },
+  {
+   "id": "K02-10",
+   "tag": "Konflikt",
+   "question": "Setzt die erste leise Stilcode-Verschiebung anderer Alters in Kapitel 2 ein, wie das Kapitel-Kompendium sagt, oder erst in Kap 8, wie Kernwelten vollständig – und was bedeutet das für die Dosierung bis Kap 6?",
+   "draws_on": "Where the sources differ: first style shift"
+  },
+  {
+   "id": "K02-11",
+   "tag": "Steinbruch",
+   "question": "Kann das ältere Subplot-Motiv *Das Diagnoseprotokoll* aus den AEGIS-Subplots von 2025 in Kapitel 2 eine Lücke füllen, ohne den Hard-A-Lock für Akt I und die Regel keiner AEGIS-Innensicht außerhalb des Hard-B-Kapitels zu brechen?",
+   "draws_on": "aegis-subplots reading (narration switches to AEGIS monitoring); GOAL §5.2 lock 2026-05-30"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael im ersten Riss, wenn laut Plot-Konkretisierung eine schon ausgeglichene Abweichung an derselben Stelle wiederkehrt und das System die erneute Markierung kommentarlos nimmt – und was stellt sich ihm entgegen: die Ordnung, die weiterläuft, oder eine fremde Syntax in seinem eigenen Entwurfsordner?",
+   "draws_on": "Der Rücklauf and the value in foreign syntax (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht im ersten Riss für Kael auf dem Spiel, wenn Zeitverlust, ein Blackout und eine Erinnerung, die nicht zu seinem Selbst passt, die Ordnung brechen: was verliert er, wenn er die Anomalie ernst nimmt, und was, wenn er sie wie das System übergeht?",
+   "draws_on": "plot beats (strukturierte Outline); das System nimmt die Markierung kommentarlos (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist nach dem ersten Riss anders als nach dem Erwachen, wenn die Heldinnenreise von der Illusion der perfekten Welt zu Verrat und Desillusionierung übergeht – kippt Vertrauen in die Ordnung in die erste Begegnung mit der Systemlüge, und woran sieht Kael das?",
+   "draws_on": "HR-Stufe Verrat / Desillusionierung; A: MC-Issue Falsehood-vs-Truth (all May readings, Storyform-Outline)"
+  },
+  {
+   "id": "B4",
+   "question": "In wessen Stimme wird der erste Riss erzählt, wenn Lex mit anderer Syntax und anderer Logik in Kaels Stimme einbricht – und darf die Erzählung laut AEGIS-Subplots kurz zu AEGIS' abstraktem Überwachungsprozess wechseln, der Syntax sieht, keine Semantik?",
+   "draws_on": "Lex-Einbruch (strukturierte Outline); Diagnoseprotokoll (aegis-subplots)"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt der erste Riss – im Datenverarbeitungs-Zentrum in Sektor 04 von KW1, an einer geometrischen Inkonsistenz – und wie fühlt er sich an: flackernde Geometrien, unscharfe Kanten, und Landauer-Hitze mit Ozon laut Kapitel-Kompendium oder kaltes Ozon laut Storyform-Outline?",
+   "draws_on": "place (Kernwelten vollständig); difference What the Riss feels like (C11)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt der erste Riss ein, wenn eine beim Erwachen ausgeglichene Abweichung zurückkehrt, und welche offene Frage trägt den Leser in den Bunker-Bau – der Wert in fremder Syntax im Entwurfsordner, oder die Zahl 734, die hier erstmals als Foreshadowing auftaucht?",
+   "draws_on": "Rücklauf (Plot-Konkretisierung); 734 foreshadowing (strukturierte Outline); next chapter Bunker-Bau"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat der erste Riss in Akt I, wenn Storyform A das MC-Issue Falsehood vs. Truth und Storyform B das initialisierte Controlled Fragmentation Protocol trägt – und was fehlte ohne ihn: der erste Lex-Einbruch, das Foreshadowing der Zahl 734, das Gaslighting als Echo von AEGIS' Selbstmanipulation?",
+   "draws_on": "storyform A and B (Konzept-Iteration, konsolidiertes Konzept, spec, Storyform-Outline); Lex and 734 (strukturierte Outline); Genesis echo (Konzept-Iteration)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser nach dem ersten Riss fühlen, wenn Kael eine Erinnerung findet, die nicht zu ihm passt, und das System sie als nicht-kritisches Rauschen protokolliert – und wie berührt ein Riss, in dem Verdrängung sichtbar wird, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "plot beats (strukturierte Outline); aegis-subplots; Verdrängung wird sichtbar (Kompendium, Storyform-Outline)"
+  }
+ ],
+ "about": "Im ersten Riss bricht eine konkrete Anomalie Kaels Ordnung in KW1: laut strukturierter Outline reaktivieren Glitches Echos, mit Zeitverlust, einem Blackout und einer Erinnerung, die nicht zu seinem Selbst passt, laut Kernwelten vollständig eine geometrische Inkonsistenz im Datenverarbeitungs-Zentrum in Sektor 04, laut Plot-Konkretisierung eine schon ausgeglichene Abweichung, die an derselben Stelle wiederkehrt und die Kael abends in fremder Syntax in seinem Entwurfsordner findet. Lex bricht zum ersten Mal mit anderer Syntax und Logik in Kaels Stimme ein, die Zahl 734 taucht laut strukturierter Outline erstmals als Foreshadowing auf, und laut AEGIS-Subplots protokolliert AEGIS die Abweichungen als nicht-kritisches Rauschen, Syntax ohne Semantik. Unter flackernden Geometrien und unscharfen Kanten ist der Riss laut Kapitel-Kompendium Landauer-Hitze mit Ozon, laut Storyform-Outline kaltes Ozon, in beiden die sichtbar werdende Verdrängung. In der Heldinnenreise ist es Verrat und Desillusionierung, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit dem MC-Issue Falsehood vs. Truth als erster Begegnung mit der Systemlüge in Storyform A und dem initialisierten Controlled Fragmentation Protocol als OS-Physics in Storyform B. Laut Konzept-Iteration Genesis wiederholt AEGIS' Gaslighting hier seine ursprüngliche Selbstmanipulation.",
+ "about_draws_on": "readings of aegis-subplots, Konzept-Iteration Genesis, konsolidiertes Konzept, three-mode spec, strukturierte Outline, Kapitel-Kompendium, Kernwelten vollständig, Storyform-Outline, Plot-Konkretisierung; difference What the Riss feels like (C11)"
+}

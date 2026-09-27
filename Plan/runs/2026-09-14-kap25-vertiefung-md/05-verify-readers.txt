@@ -1,0 +1,40 @@
+kael: grep -cw 'Knöchel' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+aegis: grep -cw 'Person' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+aegis: grep -cw 'POV' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 1
+aegis: grep -cw 'Do-er' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+aegis: grep -cw 'Be-er' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+aegis: grep -cw 'Autonomous' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+juna: grep -cw 'Juna' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 1 (L47, R-10)
+guardians: grep -cw 'Guardians' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 1
+guardians: grep -cw 'Guardian' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+cerberus: grep -cw 'Cerberus' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 1
+cerberus: grep -cw 'Cerberus-Labyrinth' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+cerberus: grep -cw 'Grenzfeste' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'Landauer' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+telefon-stille: grep -cw 'Telefon' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 1
+vortex: grep -cw 'Vortex' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 1
+konstrukt-stadt: grep -cw 'KW1' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+komponente-734: grep -cw 'Komponente' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+komponente-734: grep -c '734' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 3 (L22, L23, L60)
+c6-guardians-count-and-pairing: grep -cw 'Guardian' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c6-guardians-count-and-pairing: grep -cw 'Guardians' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 1
+c6-guardians-count-and-pairing: grep -cw 'Cerberus' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 1
+c6-guardians-count-and-pairing: grep -cw 'Mnemosyne' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c6-guardians-count-and-pairing: grep -cw 'LogOS' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c6-guardians-count-and-pairing: grep -cw 'Kairos' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c6-guardians-count-and-pairing: grep -cw 'Sophia' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c9-konstrukt-stadt-scale: grep -cw 'KW1' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c9-konstrukt-stadt-scale: grep -cw 'Logos-Prime' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw 'Landauer' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw 'warm' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw 'Kap 6' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw 'Kap 36' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'ich' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Ich' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 1
+c14-aegis-first-person-chapter: grep -cw 'Kap 5' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Kap 7' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Kap 8' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Hard-B' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Innensicht' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+c14-aegis-first-person-chapter: grep -cw 'Person' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0
+q5-guardians-and-kern-welten: grep -cw 'Erasure-Pol' Sources/drive/2026-09-14-kap25-vertiefung-md.md -> 0

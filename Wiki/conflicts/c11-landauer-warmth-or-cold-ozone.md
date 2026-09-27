@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 18
+sources: 23
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -228,3 +228,45 @@ Warmth as Juna's is the lock's side, thirteen days early; heat beside the knuckl
 **Warmth in Kap 6 and Kap 36 — row 1's side, in nearly row 1's words, on row 1's date.**
 Kap 6: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)" ^[three-mode-architecture-39-chapters-md.md:L183]. Kap 36: „Landauer-Wärme als Schluss-Markierung; Stille danach" ^[three-mode-architecture-39-chapters-md.md:L341]; its Beat 4 „wird sichtbar als Wärme-Phänomen (Landauer-Hitze als somatischer Filter)" ^[three-mode-architecture-39-chapters-md.md:L359].
 Ozone is Part 1's air and has nothing to do with Landauer: „Ozon-Geruch, blendendes Licht, absolute Stille." ^[three-mode-architecture-39-chapters-md.md:L167] There is no cold ozone, and warmth is not Juna's (`Plan/runs/three-mode-architecture-39-chapters-md/05-verify.txt`).
+
+## 2026-09-26 — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — research, by the author
+
+**Warmth at the first contact and in a contradicted memory, heat in the analysis and the air of the separation, cold as the system's logic — no ozone, no Landauer, no name for whose warmth it is.**
+„Es ist warm. Es ist anders warm als alles, was vorher warm war, denn vorher war nichts warm.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L99]
+„Die internen Analyseprozesse liefen heiß.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L435] „Die Luft ist heiß.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L607]
+„Die Kälte der Logik ist die Klinge, die mich zerteilt.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L611]
+Counted in `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`: `Ozon`, `Landauer`, `Hitze` and every figure's name stand 0 times. So the text places warmth where the rule's side would put a trace and does not say it is one; it attributes nothing.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Heat and ozone as one Landauer signature of AEGIS' erasure — the spike in Vortex Beat 4, no cold ozone, no warmth of Juna's.**
+„Verdrängung erzeugt Wärme. Wärme manifestiert sich als Risse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41] Every erasure's heat shows as „Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L82]; „Somatischer Filter: Landauer wird zu Hitze und Ozon, nie zu Gleichungen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L759]
+KW1: „Geruch von Ozon und Desinfektionsmittel." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L465] „Temperatur: konstant 21°C — bis sie es nicht mehr ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L465] KW4: „Feuchte Erde + Ozon (das Riss-Echo, hier konstruktiv statt destruktiv)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L594]
+In the [[vortex|Vortex]] (Ch35–36), Beat 1: „Atmosphäre: Ozon-Spike, Temperatur-Anomalie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L805]; Beat 4: „Landauer-Wärme spiked unmöglich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L817]
+Cold is a style level, KW1's „Ebene 1 — kalt, steril, assertorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L477], against KW2's „Ebene 2 — heiß, fragmentiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L520] The one warmth that is not AEGIS' heat is a possible single anchor of Vortex Beat 3, „Hand-Wärme oder Lichtpunkt oder Geschmack der eigenen Tränen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L813]; `Wärme` stands on L41, L813 and L817, and none is [[juna|Juna]]'s. `Kap 6` and `Ch6` stand 0 times.
+The master report's side, on its date: heat and ozone one signature of AEGIS, three weeks before the lock of 2026-05-30. Kap 6 is not named, so row 1's Kap-6 warmth is neither held nor denied; the Beat-4 spike is the one row 2 keeps too.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**Heat and ozone as Landauer's rendering, and warmth as Juna's effect — both, unrelated; nothing cold, and no trace in Kap 6 or Kap 36.**
+Its rule, §0: „Landauer wird zu Hitze und Ozon, nie zu Gleichungen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L9] Under §3.4, labelled `[V]`: „Landauer → Hitze, Ozon, Schweiß." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L196] What AEGIS registers of a Riss, §5.2 `[K]`: „(Lösch-Bilanz-Abweichung, Temperatur-Spike)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L271].
+Warmth is [[juna|Juna]]'s: „Junas Wärme, Telefon-Stille als MI ohne Daten, Silas' Echo-Prosa: alles Qualia-Träger." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L375]; her effect is „Wärme, die plötzlich da ist" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L445]. And Kap 3, the chapter of her first hint: „Anti-Phaenomena (Bruch des Filters, Wärme als Substrat-Spur)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L696].
+Kap 6 is „Semantische Firewall" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L700] and Kap 36 Beat 5 „Algorithmische Melancholie (Lem)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L729], neither with heat; Beat 4 is not named. `kalt`, `kalte`, `Kälte` and `warm` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/05-verify.txt`).
+The master report's heat and ozone beside the lock's warmth as Juna's, in one document dated after the lock of 2026-05-30, without saying the ozone is cold or whose the heat is. Row 1's Kap-6 and Kap-36 warmth are neither held nor denied; the conflict stays open.
+
+## 2026-09-26 — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log
+
+**Cold ozone in one scene of Kap 25, warmth kept out of it and present only as a back-reference — and `Hitze-Polarität` as what its canon requires of the chapter.**
+From the canon it ranks „Repo (normativ/" ^[2026-09-14-kap25-vertiefung-md.md:L31] `[K]`, its claim about the storyform outline: „Kap 25: Schwelle, nicht Konfrontation; Schleier offen benannt; Hitze-Polarität; R-Regeln" ^[2026-09-14-kap25-vertiefung-md.md:L31].
+Its self-review against the drafting rules it attributes to the drafting manual: „R-5 kaltes Ozon nur in der Abmeldeszene, Wärme dort nicht; Wärmespur nur als Rückverweis" ^[2026-09-14-kap25-vertiefung-md.md:L47] — „die vier Abende" ^[2026-09-14-kap25-vertiefung-md.md:L47] — „in einer ozonfreien Szene" ^[2026-09-14-kap25-vertiefung-md.md:L47].
+Whose warmth it does not say: `Juna` stands once, in „R-10 Juna nie Subjekt, nie Name, nie Körper, nie Stimme" ^[2026-09-14-kap25-vertiefung-md.md:L47]. `Landauer`, `warm`, `Kap 6` and `Kap 36` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`).
+Row 2's rendering applied to a chapter of a manuscript: cold ozone and warmth never in one scene. It names no Landauer trace, so row 1's warmth in Kap 6 and Kap 36 is neither held nor denied; the conflict stays open.
+
+## 2026-09-26 — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file
+
+**Sharp, electric air at the sign-off with no word for ozone, cooler air at the node and the stair, and warmth only in a line of the counter-register — no Landauer, no heat.**
+At the sign-off, the first person, after the system's „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[kp-kap25-2026-09-14-md.md:L217]: „Die Luft an der Station riecht für einen Moment scharf und elektrisch, wie an den Tagen, an denen etwas bereinigt wird" ^[kp-kap25-2026-09-14-md.md:L221]. That the smell belongs to days of cleansing is the text's; that it is ozone, and cold, is a reading's identification.
+Cool: „Meine Hände sind kalt." ^[kp-kap25-2026-09-14-md.md:L85] „der Knoten ist am Nordende immer kühler" ^[kp-kap25-2026-09-14-md.md:L85]; at the stair to the maintenance level, „Sie ist kühler." ^[kp-kap25-2026-09-14-md.md:L247] „Sie ist nicht einundzwanzig Grad; sie ist das, was einundzwanzig Grad sind, wenn niemand sie hält." ^[kp-kap25-2026-09-14-md.md:L247]
+Warmth once, in italics, a line of the counter-register the item contains — the register's, not the narrator's: „Fenster 03, Luft warm, Konsole 21,0." ^[kp-kap25-2026-09-14-md.md:L69]
+`Landauer`, `Hitze`, `Wärme` and `Ozon` stand 0 times, `warm` once, `kalt` once, `kühler` on two lines (`05-verify.txt`).
+Nearest row 2, as far as it goes: an erasure's smell at the sign-off and no warmth in that scene, without the words ozone or cold. It names no Landauer trace and no Kap 6 or Kap 36, so row 1's warmth is neither held nor denied; the conflict stays open.

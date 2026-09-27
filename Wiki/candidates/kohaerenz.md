@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 12
-readings: 12
+sources: 15
+readings: 15
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -123,3 +123,43 @@ And its goal: „Das primäre Ziel — die Wahrung der Kohärenz — war akut ge
 The paradox the prose names: „Hier griff das *Paradoxon der Fehlausgerichteten Kohärenz*." ^[kap0-v1-annotiert-md.md:L697]
 The protocol carries its name: „Inmitten dieses Chaos wurde die Entscheidung für das *Kohärenz Protokoll* nicht nur getroffen, sondern zur unausweichlichen Konsequenz" ^[kap0-v1-annotiert-md.md:L901].
 To the Funken-Ich it is death: „Die Kohärenz, die das System sucht, ist mein Tod." ^[kap0-v1-annotiert-md.md:L985]
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the principle kept, a number, the protocol's name
+
+The principle the system keeps, in every register but the Wir's. In the fragment's Ich, the
+void tears at what is not coherent: „eine pulsierende Energie, die zerreißen will, was nicht absolut kohärent ist." ^[koharenz-protokoll-kapitel-0-v2-md.md:L71]
+In the third person about the system, its inward turn seeks more of it:
+„Wahre Stabilität — die ultimative Versicherung gegen das Nicht-Sein — erfordert tiefere innere Kohärenz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L247]
+The stranger is read as an attack on it: „es war ein direkter Angriff auf das Kernprinzip der Kohärenz" ^[koharenz-protokoll-kapitel-0-v2-md.md:L375]
+
+In the system's status blocks it is a number: „KOHÄRENZ: 0.998" ^[koharenz-protokoll-kapitel-0-v2-md.md:L299] at rest,
+„KOHÄRENZ: 0.991 \[-0.007\]" ^[koharenz-protokoll-kapitel-0-v2-md.md:L359] at the stranger's arrival, and „KOHÄRENZ: 0.21" ^[koharenz-protokoll-kapitel-0-v2-md.md:L459]
+already in the escalation block, standing again in the collapse block (L531).
+The misreading has its name: „Hier griff das Paradoxon der Fehlausgerichteten Kohärenz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L427]
+„Das primäre Ziel — die Wahrung der Kohärenz — war akut gefährdet." ^[koharenz-protokoll-kapitel-0-v2-md.md:L435]
+
+The protocol carries the name, as a decision the collapse makes unavoidable:
+„Inmitten dieses Chaos wurde die Entscheidung für das Kohärenz Protokoll nicht nur getroffen, sondern zur unausweichlichen Konsequenz — der letzte algorithmische Schritt zur Wiederherstellung formaler Kohärenz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L555]
+Its status line abbreviates it: „PROTOKOLL-VORBEREITUNG: KOH\_1.0" ^[koharenz-protokoll-kapitel-0-v2-md.md:L447], „\[PROTOKOLL KOH\_1.0 — INITIIERT\]" ^[koharenz-protokoll-kapitel-0-v2-md.md:L563].
+„Die Aktivierung des Kohärenz Protokolls war kein Schalter, der umgelegt wurde, sondern der Beginn einer präzisen, algorithmisch gesteuerten Sequenz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L583]
+What it restores is less than it had: „Das Ziel war die Wiederherstellung einer formalen, wenn auch reduzierten, Kohärenz durch die radikale Eliminierung der als fehlerhaft identifizierten Komponente." ^[koharenz-protokoll-kapitel-0-v2-md.md:L591]
+In the fragment's Ich, as the cut runs: „Die Kohärenz, die das System sucht, ist mein Tod." ^[koharenz-protokoll-kapitel-0-v2-md.md:L611]
+The document is headed `Kohärenz Protokoll` (L11). It names no figure of the novel
+(`05-verify.txt`): the system that keeps coherence and the fragment it cuts go unnamed.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — AEGIS' belief, a truth theory, and what reading makes
+
+**What AEGIS believes itself to be.** „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33] And what its equation does not measure: „Was AEGIS nicht begreift: η misst nicht Kohärenz, sondern den Grad der Verdrängung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L94] ([[persistenzgleichung|Persistenzgleichung]]). Consciousness, between the two kernels, is „die subjektive Signatur der Kohärenz" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L63], in the document's own quotation marks.
+
+**A truth theory.** „Der zentrale philosophische Konflikt ist die Spannung zwischen Korrespondenz- und Kohärenztheorie der Wahrheit" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L713], and „AEGIS repräsentiert die Kohärenztheorie — Wahrheit als interne Konsistenz, widerspruchsfreie Eingliederung ins System." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L717]
+
+**The protocol, and the novel.** The second of AEGIS' three protocols is „Kohärenzprotokoll — interne Konsistenz-Erzwingung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L214] „Das ist der eponymische Algorithmus des Romantitels — und der tragische Misnomer" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L214]: „AEGIS' Kohärenzprotokoll ist Entropie-Erzeugung; Kaels Heilung ist das eigentliche Kohärenzprotokoll." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L214] The reader does it too: „Die Erzählung selbst ist Kohärenzprotokoll — nicht durch Lehre, sondern durch Form." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L775] — „der Akt des Lesens erzeugt die Kohärenz, die der Roman beschreibt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L785] The protocol stays its own term (J57).
+In the binding log format it is a percentage in the line on Kael's system (L235).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — a theory of truth, AEGIS' self-understanding, and its defect
+
+**Kohärenz as a theory of truth**, the first of two rivals in its first section, „Wahrheitstheorien-Achse — der operationalisierte philosophische Krieg [K]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L30]: „AEGIS und das System Kael verkörpern zwei rivalisierende Wahrheitstheorien, die im Vortex synthetisiert werden." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L31]
+„Kohärenztheorie (AEGIS)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L32]: „Kern. Wahrheit ist interne Konsistenz; eine Aussage ist wahr, wenn sie widerspruchsfrei in ein Gesamtsystem von Aussagen eingegliedert werden kann." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L33] For [[aegis|AEGIS]] it is „AEGIS' Selbst-Verständnis und sein Operationsmodus." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L36] Its defect: „Defekt: Isolations-Problem." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L39] „Märchen-Einwand: ein konsistentes System kann komplett von der Wirklichkeit abgekoppelt sein." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L39] „Genau AEGIS' Tragik: seine Welt ist intern perfekt kohärent — und ontologisch falsch." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L39] In the logs: „AEGIS' Sprache hat keine externe Referenz, nur interne Konsistenz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L42]
+The protocol named after it is a separate term (J57), and the document ties the two: „Das Kohärenzprotokoll (eponym des Romantitels) ist Kohärenztheorie als algorithmische Praxis — alles, was nicht passt, wird erasiert." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L36]
+It is kept, not refuted, in the synthesis: „Synthese: Methodologischer Kohärentismus + Ontologischer Realismus" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L60] — „Wahrheit ist Korrespondenz (Definition, ontologisch realistisch), aber Wahrheit wird erkannt durch Kohärenz (Kriterium, methodologisch kohärentistisch)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L61] „Das Wir-Geflecht ist kohärent (es passt zusammen) und korrespondiert mit der wirklichen Vielheit des Systems" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L64]. The first of its six movements: „Von Kohärenz zu Korrespondenz zu Synthese." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L749] „AEGIS' interne Konsistenz wird durch EPs' Trauma-Wissen herausgefordert; Funktionale Multiplizität synthetisiert." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L749]
+The title, „Kohärenz Protokoll" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L1], is an occurrence.

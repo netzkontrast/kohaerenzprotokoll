@@ -81,9 +81,11 @@ The Genesis frame's ending: „Konflikt-Leser sehen Reset, Kishōtenketsu-Leser 
 
 ## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10
 
-What the Vortex's synthesis is not: „Der Vortex ist nicht hegelianisch." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L598]
+What the Vortex's synthesis is not, in its Anti-Kanon under „§13.4 Hegelsche Dialektik / These-Antithese-Synthese" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L597]: „Der Vortex ist nicht hegelianisch." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L598]
 „Die Synthese (c) verlässt die Klein-c-Symmetrie ohne den Mechanismus aufzuheben — sie ist Kishōtenketsu-Synthese, nicht Hegel-Synthese." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L598]
 In its list of questions, one answered `[K]`: „Ist das Kishōtenketsu-Ende inhaltlich kompatibel mit westlicher Eschatologie?" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L806] — „[K] bewusst inkompatibel — Ketsu, nicht Apokalypse" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L807].
+So it applies the structure to the [[vortex|Vortex]]'s synthesis as well as to the ending, and writes the word only in these two compounds (`05-verify-readers.txt`). Its Kap 40 is read two ways and decided by neither: „Doppellesbarkeit ohne Adjudikation" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L739] — without naming Kishōtenketsu there, and with no reset (`Reset` 0).
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (reconcile-28).
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
@@ -104,6 +106,8 @@ The Kapitel-Kompendium, the storyform outline and the glossary, under the lock o
 Kishōtenketsu reader: „Reset bleibt Leser-Projektion, nie In-Welt-Tatsache." ^[kapitel-kompendium-gather-2026-05-31-md.md:L56]
 There the reset is not a Kishōtenketsu reading at all. They agree that the text
 never decides. The earlier plan's ending is Kap 39, and the later ones' is Kap 40.
+The philosophy catalogue has Kap 40 doubly readable and undecided (its L739), names no
+reset, and calls the ending „Ketsu, nicht Apokalypse" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L807].
 
 **Where conflict enters.** The Kap-0 annotation of 2026-05-17 has Ki as Kap 0 alone
 in its sense of establishment and says „Konflikt entsteht in Akt I (Kap 1 ff.)." ^[kap0-v1-annotiert-md.md:L1177]
@@ -128,4 +132,4 @@ and the glossary. The plot overview has the mapping per source.
 - Whether the reset is one of the ending's own readings or only a projection onto
   it, and whether that difference matters once the text decides neither.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-v1-annotiert-md`, reconciled on 2026-09-25 (`Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-v1-annotiert-md`, reconciled on 2026-09-25 (`Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (`Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`).

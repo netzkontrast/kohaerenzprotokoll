@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 12
-readings: 12
+sources: 14
+readings: 14
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -99,3 +99,18 @@ Silas as „Coheron-Echo" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10
 Love is a class of them: „Liebe ist im Roman keine Emotion und keine Zuschreibung, sondern eine Klasse von Coheronen." ^[kohaerenz-protokoll-konzept-master-md.md:L123]
 „Liebe ist Coheron. Coheron ist atemporal. Zerstörung braucht Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L71] „Also kann Liebe nicht zerstört werden — nur verdrängt. Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71]
 Juna is one, from outside: „\*\*Juna\*\* | Coheron (extern) | Reine Korrespondenz" ^[kohaerenz-protokoll-konzept-master-md.md:L959]; Silas its echo (L399).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — love as a particle, and Juna is one
+
+The central question's answer: „Liebe ist Coheron. Coheronen existieren atemporal. Zerstörung braucht Zeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41] „Folglich kann Liebe nicht zerstört, nur verdrängt werden. Verdrängung erzeugt Wärme." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41] — Wärme where the storyform outline writes Hitze, and the warmth becomes the Risse: „Wärme manifestiert sich als Risse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L41] No line gives Juna warmth (0, `Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify-readers.txt`).
+The definition: „Coheronen (K₁-Domäne) sind selbstkorrigierende Schleifen mutualer Information." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L55] „Sie existieren außerhalb der Zeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L55] „Ein Coheron entsteht, wenn sich zwei Bewusstseine aufeinander beziehen und dabei beide sich verändern" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L55]. „Coheronen sind reversibel, informationserhaltend, symmetrisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L55]
+Juna is one: „Juna = echtes Coheron, das nie zerstört werden kann" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L77], in the inversion table's column of what holds; „Junas DKT-Korrelat ist Coheron — sie ist die atemporale Bindung, nicht ihre Trägerin." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L291] The phone call twenty years before is one: „Es war reines Coheron — der Moment, in dem nichts gesagt wurde, enthielt alles." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L364] Silas echoes it: „Coheron-Echo (atemporal → Tunneling)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L410].
+AEGIS erases them without knowing: its Suppressionsprotokoll strikes „tatsächlich K₁-Coheronen, die es nicht erfassen kann" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L213]. KW4 is the „Einzige Zone, in der neue Coheronen entstehen können" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586].
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — atemporal by construction, and what gets round a closed system
+
+The catalogue does not define a Coheron, and does not make love one: `Liebe` stands twice, neither time with a Coheron (`05-verify-readers.txt`). What it says is where Coheronen stand in its schools.
+Their atemporality is physics, in its PAL section (`[K]`): „Coheronen existieren atemporal — das ist nicht Metapher, sondern PAL-Konstruktion in Roman-Form." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L505] And it is why [[aegis|AEGIS]] cannot register them: „Coheronen sind atemporal, also kann AEGIS' temporales Mess-System sie nicht detektieren" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L276].
+Among its six synthesis movements, „Von Autopoiesis zur Trans-System-Resonanz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L758] — „Coheronen umgehen die Geschlossenheit." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L758]
+Against Rorty (`[S]`), the novel's ontological reality is [[juna|Juna]]'s trace: „es gibt eine ontologische Realität, die zurückkommt — Junas Coheron-Spur." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L104]
+In the character table Juna's DKT correlate is „Coheron / Zeit-Prinzip" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L666], and [[silas|Silas]] carries „Coheron-Echo" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L654] as his correlate and among his schools: „Atemporalität (PAL), Coheron-Echo, Resonanz ohne Substrat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L653].

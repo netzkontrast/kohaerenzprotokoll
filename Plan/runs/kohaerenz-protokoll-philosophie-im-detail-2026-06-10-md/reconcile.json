@@ -1,0 +1,740 @@
+{
+ "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+ "drive_id": "1w9LizjeS0zzIQofoFYa_W56zeVYEl6KIOKlrk03ENyg",
+ "step": "reconcile",
+ "at": "2026-09-26",
+ "by": "hand, after scripts/reconcile.py pre-classification; readings, record entries and chapter readings written by five Claude readers in the container from Plan/runs/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/readings-brief.md, each file reviewed, checked and committed on its own by the session; plot.md by the session",
+ "state_before": {
+  "pages": 106,
+  "conflicts": 15
+ },
+ "state_after": {
+  "pages": 106,
+  "conflicts": 15
+ },
+ "pre_classification": {
+  "candidates": 401,
+  "decisions": 438,
+  "decided_by_lookup": 276,
+  "needs_judgement": 162
+ },
+ "new_terms": [],
+ "why_no_new_terms": "A catalogue of borrowed philosophy: nearly every candidate that matched no page is a school, a philosopher or a concept applied as lens (Kohärenztheorie, Habermas, Tarski, Kant, Husserl, Heidegger, Metzinger, Luhmann, Gödel, Turing, Chaitin, Searle, Polanyi, Śūnyatā, Wu Wei, Wheeler, Iser, Anatta …), or its drafting method (somatischer Filter, the four prohibitions, four tools and three tests of §16, Egan-Falle, Chiang-Standard, Lem-Test). What it maps them onto — figures, the four worlds, chapters, Vortex beats — lands on pages that exist. Named but unpaged, as before: Witness-Funktion (Layer 1 and 3), Suppressionsprotokoll, Qualia-Informationsparadox, Semantische Firewall; each left unpaged by earlier readings, the question already with the author in NOW.md.",
+ "new_readings": [
+  {
+   "page": "aegis",
+   "lines": [
+    31,
+    36,
+    39,
+    45,
+    132,
+    257,
+    260,
+    263,
+    268,
+    290,
+    293,
+    316,
+    372,
+    383,
+    395,
+    398,
+    399,
+    400,
+    448,
+    602,
+    659,
+    660,
+    771,
+    776,
+    785,
+    794,
+    795
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "a coherence theorist, autopoietic, a Chinese Room, tired rather than evil"
+  },
+  {
+   "page": "kohaerenz",
+   "lines": [
+    1,
+    30,
+    31,
+    32,
+    33,
+    36,
+    39,
+    42,
+    60,
+    61,
+    64,
+    749
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "a theory of truth, AEGIS' self-understanding, and its defect"
+  },
+  {
+   "page": "dkt",
+   "lines": [
+    196,
+    618,
+    621,
+    660,
+    666,
+    800,
+    801,
+    820
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the physics as what the body carries, and a column of correlates"
+  },
+  {
+   "page": "k0-existenz",
+   "lines": [
+    142,
+    146,
+    196,
+    483
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "objective, and felt as pressure"
+  },
+  {
+   "page": "nichts-rauschen",
+   "lines": [
+    21,
+    127,
+    146,
+    180,
+    188,
+    431,
+    434,
+    437,
+    721
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "K₁-Reinform as Śūnyatā, touched in Kap 33, reached in Vortex 2"
+  },
+  {
+   "page": "coheron",
+   "lines": [
+    104,
+    276,
+    505,
+    653,
+    654,
+    666,
+    758
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "atemporal by construction, and what gets round a closed system"
+  },
+  {
+   "page": "atemporalitaet",
+   "lines": [
+    132,
+    276,
+    502,
+    505,
+    508,
+    653,
+    758
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "a physics construction, and why AEGIS cannot say Juna"
+  },
+  {
+   "page": "moonshine-link",
+   "lines": [
+    420,
+    509,
+    510,
+    513
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "entanglement as a kin, never a theory in the text"
+  },
+  {
+   "page": "landauer-signatur",
+   "lines": [
+    9,
+    196,
+    271
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Landauer as heat and ozone, never cold"
+  },
+  {
+   "page": "hitze-polaritaetsregel",
+   "lines": [
+    9,
+    271,
+    375,
+    445,
+    696,
+    697
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Juna's warmth without AEGIS' cold"
+  },
+  {
+   "page": "algorithmische-melancholie",
+   "lines": [
+    316,
+    386,
+    729,
+    730,
+    785
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Turing in its final form, and a Chinese Room faced with a meaning"
+  },
+  {
+   "page": "trennungsprotokoll",
+   "lines": [
+    78,
+    79,
+    82,
+    228,
+    229,
+    764,
+    822
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the world Kael is thrown into, and separation as condition"
+  },
+  {
+   "page": "ueberwelt",
+   "lines": [
+    121,
+    351,
+    355,
+    709
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the simulation's wires, seen in Kap 17"
+  },
+  {
+   "page": "konstrukt-stadt",
+   "lines": [
+    45,
+    118,
+    124,
+    274,
+    310,
+    672,
+    673,
+    674,
+    675,
+    752
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "KW1 as the realm of phenomena, a closed control city, a Turing machine"
+  },
+  {
+   "page": "kern-welten",
+   "lines": [
+    93,
+    174,
+    213,
+    307,
+    332,
+    340,
+    667,
+    672,
+    673,
+    674,
+    675,
+    676,
+    677,
+    678,
+    679,
+    680,
+    681,
+    682,
+    683,
+    684,
+    685,
+    686,
+    687,
+    780
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "four worlds, each a logic class, a school and a mode of knowing"
+  },
+  {
+   "page": "moeglichkeits-garten",
+   "lines": [
+    174,
+    180,
+    451,
+    684,
+    685,
+    686,
+    687,
+    752
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "KW4's name, a generative world of aletheia"
+  },
+  {
+   "page": "juna",
+   "lines": [
+    104,
+    132,
+    135,
+    157,
+    163,
+    257,
+    260,
+    268,
+    276,
+    279,
+    324,
+    327,
+    375,
+    414,
+    442,
+    445,
+    497,
+    505,
+    596,
+    665,
+    666,
+    696,
+    697,
+    758
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the element AEGIS has no category for, never written as acting"
+  },
+  {
+   "page": "kael",
+   "lines": [
+    31,
+    50,
+    56,
+    121,
+    146,
+    160,
+    171,
+    177,
+    199,
+    210,
+    213,
+    216,
+    229,
+    232,
+    238,
+    290,
+    369,
+    400,
+    417,
+    464,
+    558,
+    561,
+    581,
+    584,
+    596,
+    619,
+    620,
+    621,
+    752
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Komponente 734 thrown into a world, the living Gödel statement, and the one who writes his story in Kap 39"
+  },
+  {
+   "page": "kael-julia-bindung",
+   "lines": [
+    407,
+    411,
+    420,
+    509,
+    510,
+    513,
+    717,
+    718
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the Kael–Juna connection as tacit knowledge and as entanglement"
+  },
+  {
+   "page": "junas-ankerpunkt",
+   "lines": [
+    590,
+    595,
+    596
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the Anti-Kanon's answer to solipsism"
+  },
+  {
+   "page": "telefon-stille",
+   "lines": [
+    365,
+    375,
+    513
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "a bearer of qualia, and the image of entanglement"
+  },
+  {
+   "page": "multiplizitaet",
+   "lines": [
+    19,
+    64,
+    210,
+    400,
+    562,
+    563,
+    566,
+    569,
+    570,
+    571,
+    572,
+    573,
+    576,
+    735,
+    736,
+    749,
+    755,
+    798,
+    799
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the Roman-Position, a synthesis of five, and Kap 39"
+  },
+  {
+   "page": "alters",
+   "lines": [
+    56,
+    202,
+    378,
+    400,
+    528,
+    576,
+    615,
+    641,
+    644,
+    775,
+    779
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Anteile with a school each, sixteen rows and no Flight"
+  },
+  {
+   "page": "tsdp",
+   "lines": [
+    18,
+    46,
+    50,
+    53,
+    56,
+    199,
+    210,
+    572,
+    581,
+    632
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the ANP/EP split as a split of mind and body, dissolved in the Vortex"
+  },
+  {
+   "page": "risse",
+   "lines": [
+    177,
+    183,
+    196,
+    213,
+    216,
+    271,
+    296,
+    307,
+    313,
+    355,
+    358,
+    529
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "where Kael meets his world's finitude, and what AEGIS registers instead"
+  },
+  {
+   "page": "genesis",
+   "lines": [
+    59,
+    229,
+    464,
+    693,
+    694,
+    764
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "four beats named and none given, Kap 0 as an ontological gesture"
+  },
+  {
+   "page": "lex",
+   "lines": [
+    9,
+    192,
+    202,
+    286,
+    296,
+    299,
+    302,
+    313,
+    623,
+    624
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the inner incarnation of Gödel"
+  },
+  {
+   "page": "nyx",
+   "lines": [
+    30,
+    56,
+    202,
+    635,
+    636
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Anti-Logik, and the clenched fists"
+  },
+  {
+   "page": "kiko",
+   "lines": [
+    56,
+    202,
+    638,
+    639
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "pre-linguistic trauma-knowledge"
+  },
+  {
+   "page": "moros",
+   "lines": [
+    56,
+    647,
+    648
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "absolute negativity, Big Freeze"
+  },
+  {
+   "page": "rhys",
+   "lines": [
+    192,
+    202,
+    629,
+    630
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Empathie-Ethik, and the feverish hands"
+  },
+  {
+   "page": "alex",
+   "lines": [
+    192,
+    202,
+    626,
+    627
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the pragmatism of protection, and bruxism"
+  },
+  {
+   "page": "silas",
+   "lines": [
+    365,
+    375,
+    501,
+    505,
+    508,
+    653,
+    654
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Echo-Prosa and tunneling, out of time"
+  },
+  {
+   "page": "selene",
+   "lines": [
+    632,
+    633
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "IFS-Mediator, one table row"
+  },
+  {
+   "page": "lia",
+   "lines": [
+    641,
+    642
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "bodily Dialetheismus, one table row"
+  },
+  {
+   "page": "isabelle",
+   "lines": [
+    644,
+    645
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Macht-Topologie, one table row"
+  },
+  {
+   "page": "argus",
+   "lines": [
+    650,
+    651,
+    771,
+    774,
+    802,
+    803
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Meta-Beobachtung, and the one figure who may point at theory"
+  },
+  {
+   "page": "oblivion",
+   "lines": [
+    656,
+    657,
+    796,
+    797
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "Erason-Operator, and OQ-G kept open"
+  },
+  {
+   "page": "mnemosyne",
+   "lines": [
+    100,
+    104,
+    107,
+    662
+   ],
+   "attribution": "philosophy catalogue",
+   "note": "the Rorty temptation, among the figures"
+  }
+ ],
+ "plot_overview": {
+  "page": "Wiki/overview/plot.md",
+  "note": "a reading, and lines under How many chapters and One Vortex or two: 39 fragmented chapters inside a Kap 0 / Kap 40 frame, Vortex 1 over Kap 35–36, Vortex 2 Kap 38–39, no Kap 37"
+ },
+ "scan_readings_checked": {
+  "vortex": "checked against the full document; quotations correct; extended",
+  "goedel-gambit": "checked against the full document; quotations correct; extended",
+  "komponente-734": "checked against the full document; quotations correct; extended",
+  "genesis-klammer": "checked against the full document; quotations correct; extended",
+  "kishotenketsu": "checked against the full document; quotations correct; extended",
+  "chaitin-konstante": "checked against the full document; quotations correct; extended",
+  "ouroboros-struktur": "checked against the full document; quotations correct; extended; lead corrected — what repeats includes a word (the Lexem-Echo „da“, L470) and the Wir's decision stands in Kap 39 in the text (L459) and Kap 38 in the table (L733)"
+ },
+ "new_surfaces": [],
+ "new_conflicts": [],
+ "conflicts_changed": [
+  "C4",
+  "C5",
+  "C6",
+  "C7",
+  "C9",
+  "C11",
+  "C12",
+  "C13",
+  "C14"
+ ],
+ "questions_changed": [
+  "Q1",
+  "Q2",
+  "Q3",
+  "Q5"
+ ],
+ "records_read_and_not_changed": {
+  "C1": "`Autonomous`, `Gatekeeper`, `Autogenic` 0 — no expansion of the name",
+  "C2": "`Entropie` 0; „Was AEGIS für Chaos hält“ (L431, L820) is not called entropy",
+  "C3": "`Emergenz` 0; no origin for AEGIS",
+  "C8": "`Do-er`, `Be-er` 0; `Approach` once, in „Approach to the Inmost Cave“ (L188)",
+  "C10": "`Knöchel` 0",
+  "C15": "`Flight` 0",
+  "Q4": "`Wächter`, `Wächterin` 0"
+ },
+ "judgements": [],
+ "decided_by_existing_rules": "compounds placed by what they name (J8, J28, J32): Kael-EPs, System Kael, Kael-Host, AEGIS-Logs, Wir-AEGIS-plural, Juna-Vektor, Junas Wärme, Coheron-Spur, Coheron-Echo, Erason-Operator, Erason-Architektur, Genesis-Krise, Genesis-4-Beat, Kael-Juna-Verbindung; world names that contain a page name are the world (J49): Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth; a passage is placed by what it states (J62): Landauer → Hitze/Ozon on landauer-signatur and hitze-polaritaetsregel, the ANP/EP split on tsdp; plurals (J46, J56): Coheron/Coheronen, Anteil/Anteile, Alter/Alters, Schluss-Satz/Schluss-Sätze; a shared head or substring is not a shared referent (J53): the Vortex beats, Kap N / Kap NN, Stille/Telefon-Stille, Phaenomena/thermodynamischer Phänomenalismus, aletheia/Dialetheia, Gödel/Gödel-Gambit, Chaitin/Chaitin-Konstante, Cache-Konflikt/Cache-Kohärenz; the protocol is not the property (J57): Kohärenzprotokoll/Kohärenz; a title is not the term (J9): the document's title",
+ "not_read_although_looked_up": {
+  "cerberus": "only in `Cerberus-Labyrinth`, the world (J49)",
+  "logos": "only in `Logos-Prime`, KW1 (J49)",
+  "cache-kohaerenz": "„Cache-Konflikt“ in Kap 6's row (L699) is not stated as the ANP/EP image the page defines (J53)",
+  "thermodynamischer-phaenomenalismus": "`Phaenomena` is Kant's (L114–127)",
+  "vermittler-stimme": "the Wir-AEGIS-plural of Akt III is not stated as the narrating voice",
+  "formel-inversion": "neither bracketing sentence stands",
+  "mnemosyne-server-architektur": "`Mnemosyne-Archipel` is KW2; the Vortex-1 setting is not named",
+  "grenzfeste": "KW3 is `Cerberus-Labyrinth` here; `Grenzfeste` 0"
+ },
+ "not_promoted": [
+  "lens — every school and philosopher of §§1–13 and the Anti-Kanon of §13",
+  "method — somatischer Filter, Anti-Pattern, the four prohibitions, four tools and three tests of §16, Drafting-Disziplin",
+  "DKT correlates in the figure table (Hubble-Volumen, Big Rip, Maxwellscher Dämon, Pauli-Ausschluss, Planck-Skala, CPT-Verletzung …): one cell each, a mapping, not a definition",
+  "named, unpaged, as in earlier readings: Witness-Funktion, Suppressionsprotokoll, Semantische Firewall, Qualia-Informationsparadox, Diktatur der Komplexität"
+ ],
+ "sweep": {
+  "hits": 3,
+  "readings": 2,
+  "occurrences": 1,
+  "note": "Junas Ankerpunkt L596 and Simulation L121 readings; Kohärenz L1 the title (J9)"
+ },
+ "internal_tension": "It places things twice and flags none of it: the ANP/EP barriers dissolve in Kap 35 (L210) and in Vortex 1 Beat 2 (L581); the Gödel-Gambit begins in Kap 30 (L302) and stands at Kap 35 as „Vortex Beat 2“ (L723); Kap 16 is „Diktatur der Komplexität“ (L335) and „Diktatur der physikalischen Zeit“ (L705); the Wir decides in Kap 39 (L459) and in Kap 38 (L733); it counts „39 fragmentierte Kapitel“ (L527) and maps Kap 0 and Kap 40",
+ "readers_noticed": "Cache-Konflikt is Kap 6's in this table (L699) and in Kap 18's title in the Konzept-Iteration Genesis and the konsolidiertes Konzept; Funktionale Multiplizität is reached only in Kap 39 here (L735) where the master report and the worldbuilding concept reach it in Kap 33 — both orientation, no record created",
+ "chapters": {
+  "readings_on": [
+   0,
+   1,
+   3,
+   6,
+   8,
+   11,
+   15,
+   16,
+   17,
+   18,
+   22,
+   27,
+   30,
+   33,
+   35,
+   36,
+   38,
+   39,
+   40
+  ],
+  "left_off": {
+   "14": "„Kap 14 ff.“ (L349) opens a range; nothing about Kap 14 itself",
+   "19-21": "only in the range „Kap 18–22“ (L59)"
+  }
+ },
+ "baseline_moved": {
+  "ppr_recall_at_8": [
+   0.659,
+   0.643
+  ],
+  "seeds_recall_at_8": [
+   0.466,
+   0.466
+  ],
+  "cases_moved": {
+   "conflict:C11": [
+    0.6,
+    0.4
+   ],
+   "question:Q3": [
+    0.375,
+    0.25
+   ]
+  },
+  "why": "hubs: the 39 readings add edges to aegis, juna, kael, coheron, vortex and alters; in C11's top eight they now outrank hitze-polaritaetsregel, in Q3's konstrukt-stadt. Both lost pages gained a reading from this document too, so the fall is the central pages growing faster, not a label lagging; recorded with bench --record"
+ }
+}

@@ -3,7 +3,7 @@ id: Q5
 question: Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?
 status: open
 raised_by: ["guardians", "kern-welten", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
-documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
 conflict: C6, C9
 gathered: "2026-09-24"
 ---
@@ -147,3 +147,26 @@ Sophia is named once, among the five of earlier drafts (L504). `Cerberus` names 
 The sweep of the separation: „Sweep läuft. Sektor 4 leer. Sektor 5 leer. Sektor 6 leer. Nächster Sektor in Vorbereitung." ^[kap0-v1-annotiert-md.md:L953]
 Annotated: „Erasure-Pol-Stimme (Lösch-Vollzug, bürokratisch-knapp)." ^[kap0-v1-annotiert-md.md:L957]
 The function the other sources give it, deletion carried out, heard in Kap 0 before there are worlds. No Guardian, world or name for the pole stands in the document.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Two Guardians, three absorbed into the Erasure-Pol, [[sophia|Sophia]] named once among the old five — the konsolidiertes Konzept's account.**
+„Erasure-Pol (Name offen, Forschungsfrage)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] Sophia stands once, in the list of the old drafts' five (L192); no absorption is given for her.
+The pairing: „Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] — and presence, „Mnemosyne dominiert klar in KW2; der Erasure-Pol durchwirkt KW1 und KW3." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
+The world names: Logos-Prime (L455), Mnemosyne-Archipel (L498), „VI.4 KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L541], Kairos-Potentialis (L584).
+The konsolidiertes Konzept's absorption and pairing, in its words on its date; Sophia unplaced, as there.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**No Guardian, no pairing, no Erasure-Pol — the worlds under their 2026 names.**
+„KW1 (Konstrukt-Stadt / Logos-Prime) ist das Phaenomena-Reich." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118]; „KW2 Mnemosyne-Archipel" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L676]; „KW3 Cerberus-Labyrinth" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L680]; „KW4 Möglichkeits-Garten" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L684]. Each world is mapped to schools and a logic class, none to a bearer; KW4 is where [[juna|Juna]]'s modes run, „KW4-Logik (Möglichkeits-Garten als emergenter Raum)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L451].
+`Guardian`, `Erasure-Pol`, `LogOS`, `Kairos` and `Sophia` stand 0 times. [[mnemosyne|Mnemosyne]] is a figure (L661–L662), not placed in KW2.
+The 2026 names, KW1 with both of its, as C9 decided; nothing on the pairing or the pole.
+
+## 2026-09-26 — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log
+
+**KW3's sub-places taken from an older locations concept, the names it groups as that concept's Guardians dropped — the worlds as chapter ranges, no bearer, no Erasure-Pol.**
+From the concept, ranked `[S]`: „KW3-Unterorte: Schleusen des Misstrauens, Gänge der Paranoia, Panoptikum" ^[2026-09-14-kap25-vertiefung-md.md:L39] „als Hintergrund für Kontrollpunkt-/Überwachungslogik" ^[2026-09-14-kap25-vertiefung-md.md:L39]; „gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) nicht übernommen" ^[2026-09-14-kap25-vertiefung-md.md:L39]. The grouping is the log's: read sources make Nox, Echo and Limina Alters, one per world — „Assoziiert mit Alters wie Nox und NPCs wie dem Regel-Exekutor." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L174] for KW3, Limina and Echo for KW1 and KW2 (L172–L173) — and only [[cerberus|Cerberus]] of the four is a Guardian, KW3's domain bearer there (C6, row 2).
+The worlds in its canon are chapter ranges: „Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60].
+`Erasure-Pol`, `Mnemosyne`, `LogOS`, `Kairos` and `Sophia` stand 0 times; `Cerberus` once, in that line (`05-verify.txt`, `05-verify-readers.txt`).
+Nothing on the pairing or the pole. Its claim that Cerberus is decanonised is recorded, not applied: the author decided five on 2026-09-24.

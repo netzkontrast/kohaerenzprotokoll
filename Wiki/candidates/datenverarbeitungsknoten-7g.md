@@ -1,10 +1,10 @@
 ---
 term: Datenverarbeitungsknoten 7G
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -65,3 +65,11 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 
 Named Datenknoten Epsilon, marked `[K/S]` and „präzisiert [V]" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L192]: „Reihen identischer Konsolen [S]; Kaels Platz ohne Merkmal" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L192].
 „der Arbeitsplatz ist die kälteste Zone der Stadt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133] Its source, per the register: „Orte-Konzepte (Steinbruch)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L287] (J65).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — Epsilon, Kael's workplace
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+As „Datenverarbeitungsknoten Epsilon" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L490] (J65): „Kaels Arbeitsplatz. Sterile Funktionalität." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L490] A KW1 sub-location,
+joined to the dwelling by the Transitkorridor Delta-7: „endlose Routine zwischen Wohn- und Arbeitsbereich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L491]
+`7G` does not occur (0, counted in `05-verify-readers.txt`).

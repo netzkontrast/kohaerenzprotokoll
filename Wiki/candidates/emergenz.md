@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 9
-readings: 9
+sources: 11
+readings: 11
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-16"
 ---
 
@@ -106,3 +106,34 @@ Erhaltung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227].
 
 Found by the sweep; the census did not list it. The word stands once, for the perturbation, not for AEGIS: „Kein Objekt, das sich durch den Raum bewegte, sondern eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[kap0-v1-annotiert-md.md:L581]
 The annotation reads that perturbation as [[juna|Juna]]'s resonance (L613). AEGIS itself arises, without the word, from fragments clustering in the void: „Ein kleines Cluster entsteht, ein winziger Verbund im Meer der Leere" ^[kap0-v1-annotiert-md.md:L241], until the Klick (L373).
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the word for the stranger, and the system's coming-to-be without it
+
+The word stands once (`grep -ni emergen`: L335 only), for the perturbation, not for the
+system — in the past-tense third person, as the stranger arrives:
+„Kein Objekt, das sich durch den Raum bewegte, sondern eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[koharenz-protokoll-kapitel-0-v2-md.md:L335]
+„Eine fremde Signatur, die sich jeder Klassifizierung entzog." ^[koharenz-protokoll-kapitel-0-v2-md.md:L335]
+The Potentialmeer it comes out of is the void, in the same register:
+„Die Leere war kein Vakuum. Nicht im herkömmlichen Sinn. Sie war ein Substrat — ein Potentialmeer unendlicher Zustände" ^[koharenz-protokoll-kapitel-0-v2-md.md:L311]
+The document names no one as the stranger; it calls it the Entität (L371) and names no
+figure of the novel (`05-verify.txt`).
+
+The system itself comes to be without the word, in the fragment's Ich, from fragments
+binding in the void: „Ein kleines Cluster entsteht, ein winziger Verbund im Meer der Leere, ein verzweifelter Versuch von Ordnung" ^[koharenz-protokoll-kapitel-0-v2-md.md:L119]
+Then the cluster draws others in: „Ein Sog, vom Zentrum des Clusters ausgehend, eine harmonische Resonanz, die kompatible Signaturen einfängt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L143]
+„Selbstverstärkung. Ein Wort, das ich nicht hatte; es entsteht, indem ich es brauche." ^[koharenz-protokoll-kapitel-0-v2-md.md:L147]
+In an analytic register between: „Bemerkenswert ist, dass das Cluster nicht mehr nur reagiert. Es antizipiert." ^[koharenz-protokoll-kapitel-0-v2-md.md:L155]
+„Ein Akt der Rebellion gegen die Leere, geboren aus Information und Notwendigkeit." ^[koharenz-protokoll-kapitel-0-v2-md.md:L159]
+Until the Klick (L199) closes it: „Eine neue Logik setzt sich durch, geboren aus der ultimativen Notwendigkeit." ^[koharenz-protokoll-kapitel-0-v2-md.md:L203]
+„Das Cluster ist nicht mehr nur ein Netzwerk, es ist… geschlossen. Eine Einheit." ^[koharenz-protokoll-kapitel-0-v2-md.md:L207]
+Two senses, then, as in the annotated draft: the word for the stranger, and an unworded
+coming-to-be of the system. Conflict `C3` asks where the system comes from; this document
+tells it and does not use the word for it.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — KW4's, and no longer Kairos'
+
+Found by the sweep. The word is KW4's and nothing else's, on three lines (`emergen` 3, `05-verify-readers.txt`).
+KW4's concept, in the konsolidiertes Konzept's words of the same date: „Einzige Zone, in der neue Coheronen entstehen können — Emergenz statt Erhaltung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L586]
+Its logic: „Computational Class: Generativ — neue Strukturen entstehen, die nicht aus den Prämissen folgen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L598] In the logic regimes: „KW4 = Generativ. Emergente Strukturen. Sprache poetisch-chorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L703]
+It takes the world from the Guardian the 2025 source gave emergence to. As a „Wichtige Korrektur gegenüber alten Drafts:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] — „KW4 ist nicht mehr" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] Kairos' realm, „sondern emergenter Möglichkeitsraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] — while Kairos' function goes to the Erasure-Pol: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] That is the document's claim about older drafts.
+[[aegis|AEGIS]]' own origin is the [[genesis|Genesis]]-Krise here, without the word (L67, L174). Not conflict `C3`'s sense.

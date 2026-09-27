@@ -1,0 +1,244 @@
+{
+  "document": "koharenz-protokoll-kapitel-0-v2-md",
+  "drive_id": "1ftsdsTrOoMllnNmJEsFqfK25shnNs-8Uu06BgyTXpu8",
+  "step": "probes",
+  "at": "2026-09-26",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 5,
+  "backslash_escapes": 25,
+  "typographic_marks": 74,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "daten": [
+      "DATENTYP",
+      "Daten",
+      "Datenflüssen",
+      "Datenkorruption",
+      "Datenpakete",
+      "Datenpunkte",
+      "Datenströme",
+      "Datenverarbeitungszentren"
+    ],
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systematisiert",
+      "Systemfehler",
+      "Systemischer",
+      "Systems",
+      "Systemwarnungen"
+    ],
+    "reson": [
+      "RESONANZ",
+      "Resonanz",
+      "Resonanzeigenschaften",
+      "Resonanzen",
+      "Resonanzkaskade",
+      "Resonanzmuster"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollmaßnahmen",
+      "Kontrollmechanismen",
+      "Kontrollverlust"
+    ],
+    "selbs": [
+      "SELBSTORGANISATION",
+      "Selbst",
+      "Selbstorganisation",
+      "Selbstverstärkung",
+      "Selbstverteidigung"
+    ],
+    "energ": [
+      "Energie",
+      "Energieprofil",
+      "Energieprofile",
+      "Energiequelle"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmenten",
+      "Fragments"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionieren",
+      "Funktionseinheit"
+    ],
+    "grenz": [
+      "GRENZE",
+      "Grenze",
+      "Grenzen",
+      "Grenzwacht"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsdichte",
+      "Informationsmuster"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturanpassung",
+      "Strukturinformation",
+      "Strukturoptimierung"
+    ],
+    "vorhe": [
+      "Vorhersagbarkeit",
+      "Vorhersage",
+      "Vorhersagealgorithmen",
+      "Vorhersagemodelle"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrreaktion",
+      "Abwehrversuche"
+    ],
+    "angri": [
+      "Angriff",
+      "Angriffe",
+      "Angriffs"
+    ],
+    "anoma": [
+      "ANOMALIEN",
+      "Anomalie",
+      "Anomalien"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfragmente"
+    ],
+    "grund": [
+      "Grundlage",
+      "Grundrauschen",
+      "Grundzustand"
+    ],
+    "inner": [
+      "Inneren",
+      "Innerhalb",
+      "Innersten"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzfeld",
+      "Kohärenzmetriken"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichtexistenz",
+      "Nichts"
+    ],
+    "parad": [
+      "PARADOX",
+      "Paradox",
+      "Paradoxon"
+    ],
+    "proto": [
+      "PROTOKOLL",
+      "Protokoll",
+      "Protokolls"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozesses"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsmodell",
+      "Realitätsmodells"
+    ],
+    "schwi": [
+      "Schwingung",
+      "Schwingungen",
+      "Schwingungsmuster"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Atem",
+      "Atempause"
+    ],
+    [
+      "Auch",
+      "Hauch"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Diesmal"
+    ],
+    [
+      "Drei",
+      "Zweitausenddreihundertvier"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Einen"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Feld",
+      "Feldern"
+    ],
+    [
+      "Feld",
+      "Kohärenzfeld"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationsdichte"
+    ],
+    [
+      "Form",
+      "Informationsmuster"
+    ],
+    [
+      "Form",
+      "Strukturinformation"
+    ],
+    [
+      "Hand",
+      "Handlungsfähigkeit"
+    ],
+    [
+      "Herz",
+      "Herzen"
+    ]
+  ]
+}

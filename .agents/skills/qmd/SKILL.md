@@ -150,6 +150,14 @@ The corpus is full of coined compounds, and that changes what works:
 - **Lowercase is fine.** Matching is case-insensitive.
 - **Do not grep for capitalised words** to find terms — German capitalises every
   noun, so the signal is nil.
+- **Keep a `search` short; take the union.** A query's words must mostly all occur:
+  „blinder Fleck Guardian kategoriale Blindheit" returns 0 hits in `sources`,
+  „blinder Fleck" 21 (measured 2026-09-26). One record, several two-word
+  queries, and the union — `Plan/runs/qmd-scan-2026-09-26/` did it that way
+  after eight of 35 long queries found nothing unread.
+- **The stemmer matches names it should not.** `Mira`, a name in one document
+  (`grep -rlw`), returns 7 hits — six of them „miracle". Before a hit on a
+  name becomes a claim, `grep -w` it.
 - **A compound is its own token.** `Entropie` does not match `Entropiegewinn`;
   they are separate tokens in the index. Search for the compound you mean, or
   for both.

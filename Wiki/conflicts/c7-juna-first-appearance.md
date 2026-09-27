@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 18
+sources: 21
 pages: ["juna"]
 ---
 
@@ -186,3 +186,24 @@ The rule is stated for Kap 0 and says nothing of a later scene.
 **No appearance placed; a witness, an echo, in danger.**
 Kap 21 „Kael (grenzbewusst), Juna-Echo" ^[three-mode-architecture-39-chapters-md.md:L265]; Kap 24 „Kael, Juna-Witness" ^[three-mode-architecture-39-chapters-md.md:L268]; Kap 28 „Call to Adventure — AEGIS' Eskalation / Juna in Gefahr" ^[three-mode-architecture-39-chapters-md.md:L333]; Kap 30 a witness again (L335).
 Her nature is left open on purpose: „Junas Natur nicht aufgelöst (Echo? Erinnerung? externe Präsenz?)" ^[three-mode-architecture-39-chapters-md.md:L494] Neither Kap 33 nor Kap 38 names her.
+
+## 2026-09-26 — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — research, by the author
+
+**An Entität arrives in Kap 0, unnamed.**
+„Die Entität strahlte etwas aus“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L371] — and the fragment feels it as „die fremd ist und doch nicht fremd“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L503].
+The text names no figure (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`): it does not say who the Entität is, and places no appearance of anyone by name.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**No appearance placed — a revelation in Akt II, a nameless seed from Ch1, and Kael's acceptance of her in Ch34.**
+„Revelation-Timing: KW2/KW3 (Akt II), nicht früher." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378] „Juna-Seed seit Ch1, aber namenlos." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378]
+„Niemals physisch beschrieben." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L374] Her modes are an open point: „Junas Erscheinungsmodi. Telefon-Stille als Anker steht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L892] „Andere Modi (Erscheinung in Stadt, Traum, Spiegel) müssen konsistent sein." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L892] And her point of view: „Junas POV: offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L415]
+One chapter is placed for her, as a place in KW4: „Das Mosaik-Herz — der Ort, an dem Kael Juna als Teil seiner selbst akzeptiert (Ch34, vor Vortex)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L620] — an acceptance, not called an appearance. The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]] stands in the [[externe-ebene|Externe Ebene]] with no chapter and no scene (L667). `Ch38` and `Kap 38` stand 0 times; `Ch33` three times, none of them hers (L646, L739, L954).
+The master report's position, on its date: a revelation in Akt II, neither Kap 33 nor Kap 38 — with a Ch34 scene this record has not held.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**No appearance placed — a first hint in Kap 3, and Juna never an acting figure.**
+The chapter table's Kap 3: „Erste Juna-Andeutung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L697]. Its rules, under §9.2 and §6.3, both labelled `[K]`: „Juna wird nie als handelnde Figur geschrieben." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L445] „Juna wird nie beschrieben. Sie wird durch ihre Wirkung sichtbar" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L327]
+Kap 33 is „Direkte Berührung der K₁-Reinform" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L721] — „Kap 33 ist aletheia (direkte Berührung der K₁-Reinform)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] — and whether that touch is Juna the document does not say: the Kap-33 row does not name her, and her own correlate in the figure table is „Coheron / Zeit-Prinzip" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L666]. Kap 38 is „Wir-Geflecht entscheidet zur pluralen Bewahrung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L733], without her. The chapter that names her besides Kap 3 is Kap 30: „K-J-Kanal stabil; Junas implizite Vermittlung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L718].
+Neither Kap 33 nor Kap 38; a hint in Kap 3, where the Konzept-Iteration Genesis has Kael see her first as an echo. The conflict stays open.

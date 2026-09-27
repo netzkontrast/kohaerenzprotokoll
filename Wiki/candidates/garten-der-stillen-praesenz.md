@@ -1,18 +1,21 @@
 ---
 term: Garten der stillen Präsenz
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
 # Garten der stillen Präsenz
 
 **The place of [[juna|Juna]]'s presence without appearance — and the scene conflict C7 turns
-on.** Four read sources name it; they agree on the [[externe-ebene|Externe Ebene]] and on Kap 33,
-and the newest also files it under KW4.
+on.** Six read sources name it. Every one that gives it a level puts it on the
+[[externe-ebene|Externe Ebene]], and Kernwelten vollständig also files it under KW4. Every one
+that gives it a chapter says Kap 33; the gazetteer, the konsolidiertes Konzept and the
+worldbuilding concept give none. (Until the worldbuilding concept was read this said four
+sources, agreeing on Kap 33.)
 
 ## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
 
@@ -46,3 +49,9 @@ cross-reference back to the KW4 [[nexus|Nexus]] (L665). **Wirkung, not appearanc
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
 Placed in the Externe Ebene, Köln 2026: „Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327] (C7).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — a counterpole to the AEGIS-Hum, in no chapter
+
+The second sub-location of „Die Externe Ebene — Köln 2026" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L648], after [[junas-ankerpunkt|Junas Ankerpunkt]]:
+„Garten der stillen Präsenz — nonverbale Kommunikation, Gegenpol zum AEGIS-Hum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L667]
+It gives the place no chapter and does not tie it to [[juna|Juna]] by name; it is not KW4's Möglichkeits-Garten, which it lists under KW4 (L618). Its only Kap-33 matter is the Überwelt's Verschränkungs-Insel (L646) (`Garten der stillen Präsenz` 1, `Ch33` on 646 739 954, `05-verify-readers.txt`) (C7).

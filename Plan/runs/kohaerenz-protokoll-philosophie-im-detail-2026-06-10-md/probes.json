@@ -1,0 +1,261 @@
+{
+  "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "drive_id": "1w9LizjeS0zzIQofoFYa_W56zeVYEl6KIOKlrk03ENyg",
+  "step": "probes",
+  "at": "2026-09-26",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 53,
+  "backslash_escapes": 0,
+  "typographic_marks": 205,
+  "ascii_quotes": 55,
+  "inflection_families": {
+    "bewus": [
+      "Bewusst",
+      "Bewusste",
+      "Bewusstes",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsphilosophie"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionaler",
+      "Funktionalismus",
+      "Funktionalist",
+      "Funktionen"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomenales",
+      "Phänomene",
+      "Phänomenologie",
+      "Phänomenologisch",
+      "Phänomenologische"
+    ],
+    "erken": [
+      "Erkennen",
+      "Erkenntnis",
+      "Erkenntnisgenese",
+      "Erkenntniskritik",
+      "Erkenntnistheorie"
+    ],
+    "exist": [
+      "Existentielle",
+      "Existenz",
+      "Existenzialphilosophie",
+      "Existenzmodus",
+      "Existenzphilosoph"
+    ],
+    "grenz": [
+      "Grenzauflösung",
+      "Grenze",
+      "Grenzen",
+      "Grenzsituation",
+      "Grenzsituationen"
+    ],
+    "husse": [
+      "Husserl",
+      "Husserlian",
+      "Husserlianisch",
+      "Husserlianischer",
+      "Husserlische"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identität",
+      "Identitätsfundament",
+      "Identitätsmodelle",
+      "Identitätsphilosophie"
+    ],
+    "infor": [
+      "Information",
+      "Informationsgrenze",
+      "Informationsmenge",
+      "Informationsparadox",
+      "Informationstheorie"
+    ],
+    "inter": [
+      "Interdependenz",
+      "Internal",
+      "Interpretation",
+      "Interpretationen",
+      "Interpretations"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturphysik",
+      "Strukturprinzip"
+    ],
+    "subst": [
+      "Substanz",
+      "Substanzen",
+      "Substrat",
+      "Substrate",
+      "Substratfunktion"
+    ],
+    "beoba": [
+      "Beobachten",
+      "Beobachter",
+      "Beobachtung",
+      "Beobachtungsakt"
+    ],
+    "diale": [
+      "Dialektik",
+      "Dialetheia",
+      "Dialetheic",
+      "Dialetheismus"
+    ],
+    "kanon": [
+      "Kanon",
+      "Kanonisch",
+      "Kanonischer",
+      "Kanonisierung"
+    ],
+    "kohär": [
+      "Kohärentismus",
+      "Kohärenz",
+      "Kohärenzprotokoll",
+      "Kohärenztheorie"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstitution",
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "kontr": [
+      "Kontradiktorische",
+      "Kontrast",
+      "Kontroll",
+      "Kontrolle"
+    ],
+    "nicht": [
+      "NICHT",
+      "Nicht",
+      "Nichtexistenz",
+      "Nichtlokalität"
+    ],
+    "objek": [
+      "Objekt",
+      "Objekte",
+      "Objekten",
+      "Objektiver"
+    ],
+    "opera": [
+      "Operationen",
+      "Operationsmodus",
+      "Operativ",
+      "Operator"
+    ],
+    "philo": [
+      "Philosoph",
+      "Philosophie",
+      "Philosophien",
+      "Philosophische"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenmechanik",
+      "Quantensuperposition",
+      "Quantenverschränkung"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheits",
+      "Wahrheitsprädikate",
+      "Wahrheitstheorien"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Aber",
+      "Habermas"
+    ],
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Anti",
+      "Semantik"
+    ],
+    [
+      "Anti",
+      "Antinomie"
+    ],
+    [
+      "Anti",
+      "Antithese"
+    ],
+    [
+      "Anti",
+      "Antinomien"
+    ],
+    [
+      "Anti",
+      "Romantitels"
+    ],
+    [
+      "Anti",
+      "Semantische"
+    ],
+    [
+      "Auch",
+      "Bauchgefühl"
+    ],
+    [
+      "Bell",
+      "Isabelle"
+    ],
+    [
+      "Bell",
+      "Tabellen"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Abbildungsfunktion"
+    ],
+    [
+      "Bohm",
+      "Bohmsche"
+    ],
+    [
+      "Ding",
+      "Dinge"
+    ],
+    [
+      "Ding",
+      "Bedingung"
+    ],
+    [
+      "Ding",
+      "Bedingungsgefüge"
+    ],
+    [
+      "Doku",
+      "Dokument"
+    ],
+    [
+      "Eine",
+      "Eines"
+    ]
+  ]
+}

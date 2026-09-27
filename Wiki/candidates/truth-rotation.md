@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-25"
 ---
 
@@ -78,6 +78,13 @@ The glossary gives the two their own entries. „Die Große Inversion. [K] Das S
 
 One table row places it: „| \*\*Kap 35\*\* (Vortex 1) | Truth-Rotation sichtbar |" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L591].
 
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the inversion's name for the turn at the Vortex
+
+„Die große Inversion (das Skelett der zwei Storyforms)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L65] heads the inversion: „AEGIS hat bei seiner Entstehung — der Genesis-Krise — einen fundamentalen Kategorisierungsfehler begangen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L67] „Es liest die eigene Architektur falsch" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L67]. Its table has five rows (L73–L78), from „AEGIS = Kohärenz-Kernel (K₁)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L74] against „AEGIS = Entropie-Architektur (K₀)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L74] to Trennung; none is for Kael. „Aus dieser Inversion folgen alle anderen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L37].
+The name is for the turn the inversion causes: „Diese Inversion ist die mechanische Quelle der Truth-Rotation am Vortex (Kap. 35–36)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L86] „Bis dahin liest der Roman in B-Logik (AEGIS = Ordnung, Kael = Chaos)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L86] „Nach dem Pivot rotiert das Vorzeichen: AEGIS = K₀ wird sichtbar, Kael = K₁-Substrat wird sichtbar." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L86] „Die Phänomenologie der Risse ändert sich nicht; die Lesart ändert sich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L86]
+At the Vortex: „Hier schließt sich die Truth-Rotation: AEGIS = K₀ wird sichtbar, Kael = K₁ wird sichtbar." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L801] Beat 5: „Truth-Rotation komplett." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821]
+In these passages its sentences are the konsolidiertes Konzept's (its L138, L1321, L1336), the document of the same date.
+
 ## Where the sources differ
 
 **What the name names.** The master report heads its section on the inversion
@@ -87,11 +94,13 @@ Kapitel-Kompendium, the storyform outline and the glossary call the inversion th
 `Große Inversion` and make it the mechanical source of the Truth-Rotation, which
 is the moment in the Vortex when the reading turns. The glossary gives the two
 separate entries (its L82, L85). The Dramatica lock-in has the storyforms'
-Klein-c-Inversion as its mechanical ground (its L71).
+Klein-c-Inversion as its mechanical ground (its L71). The worldbuilding concept,
+of the konsolidiertes Konzept's date, stands with it in its words: `große Inversion`
+heads the inversion, and the inversion is the source of the turn (its L65, L86, L801).
 
 **What holds, they agree on**: AEGIS = K₀, [[kael|Kael]] = K₁, in every reading. And the
 three that say so agree the phenomenology of the rifts stays and only the reading
-turns. So the difference is in what the name points at, the fact or the moment. It
+turns; the worldbuilding concept is a fourth (its L86). So the difference is in what the name points at, the fact or the moment. It
 is recorded here and not as a conflict record.
 
 ## Open

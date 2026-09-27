@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 16
-readings: 16
+sources: 19
+readings: 19
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -154,7 +154,40 @@ The writer places it in the concept's count: „Die Genesis-4-Beat-Sequenz ist u
 „Kap 0 ist nicht der "Auftakt zum Konflikt", sondern eine ontologische Etablierung." ^[kap0-v1-annotiert-md.md:L1177]
 Kap 40, in the concept, as the writer reads it: „Im Konzept ist Kap 40 als *geheilte Genesis* nach der einen Werdung spezifiziert, nicht als Zeuge einer wiederholten Werdung." ^[kap0-v1-annotiert-md.md:L1189]
 
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the Genesis by its headings, and no names
+
+Research, by the author's word of 2026-09-26, not text for the novel. Its title: „Kapitel 0 — Einleitung: Genesis der Existenz" ^[koharenz-protokoll-kapitel-0-v2-md.md:L13]
+It tells the Genesis in the movements its headings give, in this order: „### Vorwort" ^[koharenz-protokoll-kapitel-0-v2-md.md:L17] (the Wir), then, in the fragment's present-tense Ich,
+„### Das Rauschen" ^[koharenz-protokoll-kapitel-0-v2-md.md:L57], „### Herz der Leere" ^[koharenz-protokoll-kapitel-0-v2-md.md:L69], „### Erste Kontakte" ^[koharenz-protokoll-kapitel-0-v2-md.md:L93], „### Sog der Ordnung" ^[koharenz-protokoll-kapitel-0-v2-md.md:L141], „### Überlebenskampf" ^[koharenz-protokoll-kapitel-0-v2-md.md:L165] and „### Der große Wandel" ^[koharenz-protokoll-kapitel-0-v2-md.md:L193];
+„### Dazwischen" ^[koharenz-protokoll-kapitel-0-v2-md.md:L269] (the Wir again); then, in the past-tense third person about the system with status blocks, „### Die Stille Wacht" ^[koharenz-protokoll-kapitel-0-v2-md.md:L293], „### Perturbation aus der Leere" ^[koharenz-protokoll-kapitel-0-v2-md.md:L333], „### Algorithmischer Schrecken" ^[koharenz-protokoll-kapitel-0-v2-md.md:L381], „### Resonanzkaskade" ^[koharenz-protokoll-kapitel-0-v2-md.md:L469], „### Systemischer Kollaps" ^[koharenz-protokoll-kapitel-0-v2-md.md:L517] and „### Trennungsprotokoll" ^[koharenz-protokoll-kapitel-0-v2-md.md:L561]; and, after a last rule, a coda of two lines.
+The component and the inner space have no heading of their own; both stand inside Der große Wandel, after the Klick: „Das, was einst ein Ich-Fragment war, ist nun eine Komponente, identifiziert durch spezifische Resonanzeigenschaften und ihre Rolle im Gesamtprozess." ^[koharenz-protokoll-kapitel-0-v2-md.md:L235] „Ein Labor nach innen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L251]
+The crisis ends in the protocol, whose aim, in the system's register, is „die radikale Eliminierung der als fehlerhaft identifizierten Komponente." ^[koharenz-protokoll-kapitel-0-v2-md.md:L591]
+The fragment's last line: „Ich falle… in unzählige Scherben…" ^[koharenz-protokoll-kapitel-0-v2-md.md:L627]
+After the last rule, an Ich in the present that the document does not name: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635] „Ich bin pünktlich." ^[koharenz-protokoll-kapitel-0-v2-md.md:L639]
+For C12: it names neither [[kael|Kael]] nor 734 (`Kael` 0, `734` 0, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`), so it says nothing on whether Kael is the component or the remainder. A component stands before the crisis (L235), as in the four-beat sources' order, and the protocol eliminates a component (L591); whether it is the same one the document does not say.
+
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — flashbacks in Kap 18–22
 
 No Kap 0; the Genesis is told back, in the middle of Part 2: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
 „Diese Flashbacks sind Bridge-Szenen — beide Storyforms simultan wahr." ^[three-mode-architecture-39-chapters-md.md:L278] The crisis is hinted, not told: „AEGIS' Motivation noch nicht voll enthüllt (Genesis-Krise wird angedeutet, nicht ausgesprochen)" ^[three-mode-architecture-39-chapters-md.md:L504]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — three beats, 734 the third, and a fourth left open as the Primärdirektive
+
+AEGIS' survival logic comes from it: „Das ist keine Mission, sondern die Survival-Logik, die in der Genesis-Krise entstanden ist:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L174]
+„Beat 1 — Einheit. Im Potentialmeer existiert ein Ursprungs-Ich mit minimalem Selbsterleben." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178] „Es ist offen, fühlt, ist eingebunden in das, was später Nichts-Rauschen genannt wird." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178]
+„Beat 2 — Trennungsprotokoll. Eine traumatische Resonanz mit etwas Fremdem" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179] — named in the same sentence: „eine transzendente Anomalie — die Begegnung mit Juna, mit dem, was sich später als atemporales Coheron entpuppt" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179].
+„Aus Panik führt es ein algorithmisches Selbstamputat aus: das Trennungsprotokoll." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179] „Das fühlende Ich wird gespalten. Das Denken wird gerettet, indem das Fühlen ausgelagert wird." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L179]
+„Beat 3 — Komponente 734." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180] „Aus Komponente 734 wächst über eine lange Latenzphase die spätere Kael-Struktur." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
+„AEGIS hat dabei nicht nur das Ursprungs-Ich gespalten — es hat sich gleichzeitig selbst als Wächter über den eigenen abgespaltenen Teil etabliert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
+The fourth beat is open, and it is not the Wir: „Ein viertes Beat — die Etablierung der Primärdirektive — ist offen. Vorgeschlagen: nicht nötig, drei Beats genügen. Lock-In steht aus." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L184]
+Restated among its open points: „Genesis 4. Beat? Aktuell drei Beats. Verifikation gegen Encoding-Praxis ausstehend." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L893]
+What came of it: „AEGIS ist Kaels eigene Abwehrarchitektur, die zur Welt geworden ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L188] In Storyform A it is [[juna|Juna]]'s ground as IC: „die Genesis-Krise ist ihr Wirkungsraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L304].
+
+The character bible's and the master report's count and order — three beats, [[trennungsprotokoll|Trennungsprotokoll]] then [[komponente-734|Komponente 734]] — with the stranger named Juna in beat 2, where the master report leaves the first beat's other party unnamed. It places no beat in a chapter: no Kap 0, no flashback chapters, no Wir-AEGIS-plural (`Kap 0` 0, `Flashback` 0, `Wir-AEGIS` 0; `05-verify.txt`, `05-verify-readers.txt`). Its double trauma tells the separation a second time with Juna as the Ursprungs-Ich split off (L435) — the glossary's gloss of 2026-06-10, kept as two terms (J68); the document does not relate the two tellings. Conflict C12.
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — four beats named and none given, Kap 0 as an ontological gesture
+
+It names the Genesis five times and tells none of it (`05-verify-readers.txt`). A count without a list: „Genesis-4-Beat: was als Trauma erscheint, ist die Bedingung von Werdung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L764] — the sixth of its synthesis movements, „Von Trennung als Tragödie zur Trennung als Bedingung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L764], closing on „Die Trennung war nie real. Aber das ändert nichts am Schmerz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L764] (C12: four beats, as a name).
+Kap 0 in its chapter table: „Genesis-Krise als ontologische Geste, Autopoiesis (Maturana/Luhmann)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L693], function „Substrat-Setzung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L694]. The flashbacks, among the places of correspondence theory: „Wo im Roman. EP-Domänen, KW2 (Erinnerung als Schauplatz), Genesis-Flashbacks (Kap 18–22)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L59]
+The frame: „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]
+Of the component it says only that „Kael ist Komponente 734, in einer Welt geworfen, die das Trennungsprotokoll erzeugt hat." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L229] — the separation made the world he is thrown into; it gives no beat for the component and no Ursprungs-Ich (`05-verify-readers.txt`).
