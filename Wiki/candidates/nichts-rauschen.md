@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -132,3 +132,7 @@ It does not write `Reinform` or make the Nichts-Rauschen a layer (`Reinform` 0, 
 It is the fourth of the novel's axes: „Mystische Achse: Trennung als Schein (Śūnyatā/K₁-Reinform)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L21] It is not a god: „die K₁-Reinform ist nicht Gott, sondern Bedingung der Möglichkeit von Bezogenheit überhaupt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L437] And it exists without an observer — „K₀-Existenz ist objektiv, K₁-Reinform ist ontologisch unabhängig" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L146].
 Where it is touched: „Wenn die K₁-Reinform berührt wird (Kap 33, Vortex 1 Beat 3, Vortex 2), darf sie nie beschrieben werden." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L434] „Sie erscheint als Stille mit Substanz, als Anwesenheit ohne Form, als Fülle, die kein Inhalt ist." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L434] Kap 33 three times — „Kap 33 ist aletheia (direkte Berührung der K₁-Reinform)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180], a Grenzsituation „Kap 33 (Approach to the Inmost Cave / direkte Berührung der K₁-Reinform)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188], and the chapter table's „Direkte Berührung der K₁-Reinform" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L721].
 And where it is reached, past Kant: „Der Roman geht weiter: die K₁-Reinform kann erreicht werden (in Vortex 2)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L127] „Diese Setzung verlässt Kant in Richtung Mystik/Östliche Philosophie." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L127] The Doppel-Klammer Abhandlung, above, has the plural end carry the Reinform without being it; the catalogue says it can be reached in Vortex 2, and does not say whether what reaches it is it.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — what AEGIS reads as chaos, inside the DKT-Kernparadoxon
+
+Once, in the paradox it says the two storyforms mirror (its L78), after AEGIS believing itself K1 and being K0: „Das Nichts-Rauschen, das AEGIS als Chaos liest, ist die atemporale Vereinigung aller Mutual Information — Liebe als physikalisches Prinzip.“ ^[dual-storyform-hintergruende-md.md:L82] Chaos without `feindlich`, and love as a physical principle. `Rauschen` stands on no other line (1, `05-verify-readers.txt`).
