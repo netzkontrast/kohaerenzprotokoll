@@ -1,0 +1,108 @@
+{
+  "document": "mining-report-kohaerenz-protokoll-plot-outline-construction",
+  "drive_id": "1LqT179b0cXQ4TTXw5-aopBkOHBfFC4coNmnD1rqUeXA",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 11,
+  "backslash_escapes": 33,
+  "typographic_marks": 20,
+  "ascii_quotes": 44,
+  "inflection_families": {
+    "archi": [
+      "Archipelago",
+      "Architecture"
+    ],
+    "block": [
+      "Block",
+      "Blocks"
+    ],
+    "const": [
+      "Constraints",
+      "Construction"
+    ],
+    "erasu": [
+      "ERASURE",
+      "Erasure"
+    ],
+    "hallu": [
+      "Hallucination",
+      "Hallucinations"
+    ],
+    "index": [
+      "INDEX",
+      "Index"
+    ],
+    "inter": [
+      "Interaction",
+      "Interference"
+    ],
+    "mater": [
+      "Material",
+      "Materiality"
+    ],
+    "story": [
+      "Story",
+      "Storyform"
+    ],
+    "therm": [
+      "Thermodynamic",
+      "Thermodynamics"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Idea",
+      "Euclidean"
+    ],
+    [
+      "RIFT",
+      "DRIFT"
+    ],
+    [
+      "Scar",
+      "Scars"
+    ],
+    [
+      "Scar",
+      "Scarcity"
+    ],
+    [
+      "Seed",
+      "Seeds"
+    ],
+    [
+      "Block",
+      "Blocks"
+    ],
+    [
+      "INDEX",
+      "Index"
+    ],
+    [
+      "Story",
+      "Storyform"
+    ],
+    [
+      "ERASURE",
+      "Erasure"
+    ],
+    [
+      "Material",
+      "Materiality"
+    ],
+    [
+      "Protokoll",
+      "Trennungsprotokoll"
+    ],
+    [
+      "Hallucination",
+      "Hallucinations"
+    ],
+    [
+      "Thermodynamic",
+      "Thermodynamics"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      11
+  backslash escapes      33
+  typographic marks      20
+  ascii quotes           44
+
+# inflection families -- one term, several surfaces
+  archi    Archipelago, Architecture
+  block    Block, Blocks
+  const    Constraints, Construction
+  erasu    ERASURE, Erasure
+  hallu    Hallucination, Hallucinations
+  index    INDEX, Index
+  inter    Interaction, Interference
+  mater    Material, Materiality
+  story    Story, Storyform
+  therm    Thermodynamic, Thermodynamics
+
+# substring pairs -- never one term, often merged by accident
+  Idea < Euclidean
+  RIFT < DRIFT
+  Scar < Scars
+  Scar < Scarcity
+  Seed < Seeds
+  Block < Blocks
+  INDEX < Index
+  Story < Storyform
+  ERASURE < Erasure
+  Material < Materiality
+  Protokoll < Trennungsprotokoll
+  Hallucination < Hallucinations
+  Thermodynamic < Thermodynamics
