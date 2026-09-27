@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,14 @@ Title: „AEGIS' Analyse-Krise“ ^[monstergruppe-primzahlen-plot-blueprint.md:L
 
 - Establishes: „AEGIS widmet massive Ressourcen der Analyse der M-Resonanzwelle“ ^[monstergruppe-primzahlen-plot-blueprint.md:L110]
 - AEGIS: „Seine primzahlbasierten Modelle und Faktorisierungsalgorithmen liefern keine kohärenten Ergebnisse“ ^[monstergruppe-primzahlen-plot-blueprint.md:L110]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the Wir-Geflecht begins, and M is named split from Kael
+
+Title: „Das Wir-Geflecht“ ^[kohaerenz-protokoll.md:L997]
+Position: „(Fundamentales Konzept: Holismus vs. Reduktionismus)“ ^[kohaerenz-protokoll.md:L999] · „(Heldinnenreise Stufe 9: Rückkehr mit neuer Sichtweise (Integration Männlich/Weiblich))“ ^[kohaerenz-protokoll.md:L1001]
+
+- Names the mechanism AEGIS runs on: „die Zerlegung von M in Kael, die Fragmentierung von Kael in Caches“ ^[kohaerenz-protokoll.md:L1019]
+- The parts begin to talk: „Die verschiedenen Anteile kommunizierten, brachten ihre Perspektiven ein, arbeiteten zusammen unter der Führung des Selbst.“ ^[kohaerenz-protokoll.md:L1073] — the text's own name for this, `Wir-Geflecht`, gives the chapter its title.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -159,6 +167,7 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 
 ## Where the sources differ
 
+- **Title, and a conscious Wir, named (D47).** „Das Wir-Geflecht“ ^[kohaerenz-protokoll.md:L997] (the Kohärenz-Protokoll narrative, 2025-04-27) — a third title; it names the cooperation explicitly, „Die verschiedenen Anteile kommunizierten, brachten ihre Perspektiven ein, arbeiteten zusammen unter der Führung des Selbst.“ ^[kohaerenz-protokoll.md:L1073], siding with a conscious Wir over a day that merely feels good.
 - **The Kapitel-9 injury.** „seine Hände sind mit fremdem Blut bedeckt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L71] (the Ultra-Plot) — blood on the hands and six hours lost, not the knuckles in Kap 1 (C10).
 - **Is the Wir conscious.** „Kael spürt sich erstmals als mehrere, ohne dass das Wort Alters fällt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L449] and „Erste explizite Wir-Stimme-Szene“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L449] (strukturierter Outline) · „Erste bewusste innere Kooperation“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314] (storyform outline) · „für Kael fühlt es sich an wie ein guter Tag, nicht wie ein Wir“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] and „Kap 9 = Arbeitsteilung ohne Benennung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L243] (Plot-Konkretisierung) — he feels himself as several, or it does not feel like a Wir.
 - **Storyform A.** „A: MC-Concern, Logik und Intuition verbinden sich. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L978] (konsolidiertes Konzept) · „A-Requirement: Wir-Bildung beginnt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (Kapitel-Kompendium).

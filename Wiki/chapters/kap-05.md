@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,15 @@ Title: „Risse im Code“ ^[monstergruppe-primzahlen-plot-blueprint.md:L67]
 
 - Establishes: „verursachen sie weitere kleine Risse und Inkonsistenzen in der Kernwelt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L70]
 - M-manifestation: „Die Risse sind weitere Manifestationen der M-Basis, die durch AEGIS' grobe Eingriffe provoziert werden“ ^[monstergruppe-primzahlen-plot-blueprint.md:L71]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — Omega-Prime, and a false success
+
+Title: „Das Auge des Netzwerks“ ^[kohaerenz-protokoll.md:L524]
+Position: „(Fundamentales Konzept: Kernwelten als Simulationen)“ ^[kohaerenz-protokoll.md:L526] · „(Heldinnenreise Stufe 5: Das Auge des Sturms (Falscher Erfolg))“ ^[kohaerenz-protokoll.md:L528]
+
+- Transfer: „ZIEL: KERNWELT MCL-SIGMA-3 (SEKTOR RELATIONALER DYNAMIK)“ ^[kohaerenz-protokoll.md:L546]
+- Sensorik: „Eine Annäherung an einen hell leuchtenden Knotenpunkt brachte einen Hauch von… Ozon und warmer Elektrizität?“ ^[kohaerenz-protokoll.md:L562] — warmth and ozone together, at a bright McL node.
+- The false success, named: „Die Illusion des Erfolgs war verlockend, aber die Saat des Zweifels war gesät.“ ^[kohaerenz-protokoll.md:L653]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -145,6 +154,7 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 
 ## Where the sources differ
 
+- **Title, world (D47).** „Das Auge des Netzwerks“ ^[kohaerenz-protokoll.md:L524] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fourth title, and a fifth world for the chapter: „ZIEL: KERNWELT MCL-SIGMA-3 (SEKTOR RELATIONALER DYNAMIK)“ ^[kohaerenz-protokoll.md:L546], not KW1; warmth and ozone stand together at a bright node here, not apart (C11).
 - **World.** „Kael/Lex erzielen analytischen Erfolg in McLaughlin-Welt. Trügerische Stabilität.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524] (Konzept-Iteration Genesis) · „Kael erzielt einen Erfolg in einer anderen Kernwelt (Übergang KW1 → KW2-Rand).“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L353] (strukturierter Outline) · „Auge des Sturms (falscher Erfolg) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L194] (Kapitel-Kompendium) · „KW1 (justierte Pseudo-Stabilität)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831] (Kernwelten vollständig).
 - **Hard-B.** „A: MC-Concern Memory. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L970] (konsolidiertes Konzept) · „A dominant, B latent; Slot-16-Kandidat für Hard-B-Kapitel“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831] (Kernwelten vollständig) — B latent, or a candidate for the Hard-B chapter; the Kernwelten line says both. (C14)
 - **Title.** „Der Glanz der Oberfläche“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L522] (Konzept-Iteration Genesis) · „Auge des Sturms“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L969] (konsolidiertes Konzept; also strukturierter Outline, Kapitel-Kompendium, storyform outline) — the Konzept-Iteration gives it as the stage „HR-Stufe 5: Auge des Sturms“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L522].

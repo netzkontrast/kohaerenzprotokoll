@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,16 @@ Title: „Das Flüsternetzwerk“ ^[monstergruppe-primzahlen-plot-blueprint.md:L
 
 - Establishes: „Die K-J Verbindung wird konsistenter, aber immer noch subtil“ ^[monstergruppe-primzahlen-plot-blueprint.md:L90]
 - K-J: „Könnte als Metapher für Twin Primes dienen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L93]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — Monstrous Moonshine, and Kael as a fragment of M
+
+Title: „Das Flüstern im Riss“ ^[kohaerenz-protokoll.md:L795]
+Position: „(Fundamentales Konzept: Monstrous Moonshine / K-J Verbindung (Bewusstwerdung))“ ^[kohaerenz-protokoll.md:L797] · „(Heldinnenreise Stufe 7: Unterstützung / Sehnsucht nach dem Weiblichen (nach Murdock) / Adaptiert: All is Lost (vor der Unterstützung))“ ^[kohaerenz-protokoll.md:L799]
+
+- „Monstrous Moonshine. Der Begriff tauchte in seinem Bewusstsein auf“ ^[kohaerenz-protokoll.md:L837]
+- Juna's presence, sustained: „Sie war da. Sie war immer da gewesen, hinter der Mauer, im Echo, im goldenen Licht.“ ^[kohaerenz-protokoll.md:L829]
+- The support named: „Die Unterstützung war da.“ ^[kohaerenz-protokoll.md:L847]
+- Kael and M: „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link“ ^[kohaerenz-protokoll.md:L853]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -153,6 +163,7 @@ Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkret
 
 ## Where the sources differ
 
+- **Title, and M named for the first time (D47).** „Das Flüstern im Riss“ ^[kohaerenz-protokoll.md:L795] (the Kohärenz-Protokoll narrative, 2025-04-27) — a third title; it gives Kael's link to Juna a mechanism, „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link“ ^[kohaerenz-protokoll.md:L853], where the other sources here give an image, not a cause.
 - **The warm gust.** „warmer Windstoß in eisiger Welt, Melodie, Telefon-Stille“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L409] (strukturierter Outline, Kap 7) · „warmer Windstoß in eisiger Welt, fremde Melodie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis, its Kap 3) — the same image in Kap 7 or in Kap 3.
 - **Title.** „Unterstützung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (Kapitel-Kompendium) · „Die Stimme im Rauschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L530] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 7: Unterstützung — Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L393].
 - **The Hard-SF-Outline.** „Die Monstergruppe“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L110] (the Hard-SF-Outline, 2026-04-08) — a new title, and Nyx's first appearance, as an attacker: „Hier tritt Nyx aus den Schatten – wild, aggressiv und getrieben von einem endlosen, stummen Zorn.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L112]

@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,16 @@ Title: „Das Echo“ ^[monstergruppe-primzahlen-plot-blueprint.md:L37]
 
 - Establishes: „Nach dem Glitch erlebt Kael ein flüchtiges "Echo"“ ^[monstergruppe-primzahlen-plot-blueprint.md:L40]
 - K-J: „Erste bewusste, wenn auch flüchtige Wahrnehmung der Verbindung durch Kael“ ^[monstergruppe-primzahlen-plot-blueprint.md:L43]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the partitioning, done once here
+
+Title: „Die Partitionierung“ ^[kohaerenz-protokoll.md:L196]
+Position: „(Fundamentales Konzept: Dissoziative Identitätsstörung)“ ^[kohaerenz-protokoll.md:L198] · „(Heldinnenreise Stufe 2: Verrat / Desillusionierung)“ ^[kohaerenz-protokoll.md:L200]
+
+- AEGIS' evaluation unit forces it: „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung.“ ^[kohaerenz-protokoll.md:L258]
+- What it cuts: „Eine Mauer zwischen dem Logiker, dem Manager, der versuchte zu kooperieren, und dem intuitiven, fühlenden Teil, der mit dem goldenen Licht, mit *Juna*, verbunden war.“ ^[kohaerenz-protokoll.md:L260]
+- Juna erased: „Der Name *Juna* wurde zu einem bedeutungslosen Echo, einem gelöschten Datenfragment.“ ^[kohaerenz-protokoll.md:L264]
+- What is left: „Er war immer noch K-1123, der Kohärenz-Verifikator, der Logiker.“ ^[kohaerenz-protokoll.md:L268]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -152,6 +162,7 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 
 ## Where the sources differ
 
+- **Title, and the Riss without heat or ozone (D47).** „Die Partitionierung“ ^[kohaerenz-protokoll.md:L196] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fifth title; its Riss is done by AEGIS' evaluation unit as „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung.“ ^[kohaerenz-protokoll.md:L258], with no `Hitze`, `Landauer` or `Ozon` in this chapter (`Hitze` and `Landauer` 0 in the whole document, `Ozon` twice elsewhere, once at a McL node — `Plan/runs/kohaerenz-protokoll/05-verify.txt`).
 - **What the Riss feels like.** „Riss = Landauer-Hitze/Ozon (Verdrängung wird sichtbar)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium) · „Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird sichtbar)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307] (storyform outline). (C11)
 - **The number 734.** „Die Zahl 734 taucht erstmals als Foreshadowing auf.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] (strukturierter Outline, Kap 2) · „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline, its Kap 1) · „Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium, its Kap 1) — first here, or already named in Kap 1; the strukturierter Outline says both.
 - **First style shift.** „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium, Kap 2) · „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834] (Kernwelten vollständig, its Kap 8).

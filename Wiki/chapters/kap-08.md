@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,16 @@ Title: „Die M-Resonanz Welle“ ^[monstergruppe-primzahlen-plot-blueprint.md:L
 
 - Establishes: „löst eine massive Resonanzwelle in Kael aus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L100]
 - Kael's arc: „Dies markiert einen wichtigen Schritt in Richtung des Midpoints seines Charakterbogens“ ^[monstergruppe-primzahlen-plot-blueprint.md:L102]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — IFS by name, and Kael speaks as Selbst
+
+Title: „Dialog im Inneren Garten“ ^[kohaerenz-protokoll.md:L861]
+Position: „(Fundamentales Konzept: Internal Family Systems (IFS) – Heilung des Managers)“ ^[kohaerenz-protokoll.md:L863] · „(Heldinnenreise Stufe 8: Wiedergeburt (Heilung des Männlichen im Inneren))“ ^[kohaerenz-protokoll.md:L865]
+
+- Voice shifts to the Selbst: „*Das Selbst*, dachte er“ ^[kohaerenz-protokoll.md:L873]
+- The Manager admits an earlier severing: „Als… als M dissoziiert wurde.“ ^[kohaerenz-protokoll.md:L911] · „Ich war… eine logische Subroutine. Entwickelt zur Mustererkennung und Analyse.“ ^[kohaerenz-protokoll.md:L915]
+- Kael speaks as Selbst to the parts: „Du musst das nicht allein tun“ ^[kohaerenz-protokoll.md:L947], said by „Kael (Selbst)“ ^[kohaerenz-protokoll.md:L947]
+- A Wächterin named beside Juna's light, in a list of three: „Die Wächterin, das Licht von Juna“ ^[kohaerenz-protokoll.md:L987]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -162,6 +172,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
+- **Title, and a Wächterin beside Juna's light (D47).** „Dialog im Inneren Garten“ ^[kohaerenz-protokoll.md:L861] (the Kohärenz-Protokoll narrative, 2025-04-27) — a third title; it names a Wächterin in a list beside Juna's light and the Selbst's wisdom, „Die Wächterin, das Licht von Juna“ ^[kohaerenz-protokoll.md:L987] — whether she is Juna, the text does not say (Q4; beside Selene and an unbound stage). No `Hitze` in this chapter or anywhere in the document (C11; `Plan/runs/kohaerenz-protokoll/05-verify.txt`).
 - **A third Landauer-heat chapter.** „Das Landauer-Prinzip greift erneut massiv ein: Hitze entlädt sich“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L69] (the Ultra-Plot, Kapitel 8) — Hitze from an erasure, before either Kap 6 or Kap 36 (C11).
 - **Compassion with what.** „Kael beginnt, die logischen/kontrollierenden Anteile (Lex, Alex) mit Mitgefühl zu sehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L425] (strukturierter Outline) · „Erste Pursuit-Vorform; Mitgefühl mit dem Apparat (Wächterin-Stufe“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung) — his own logical parts, or the apparatus.
 - **The Wächterin.** „Kael, Wächterin-Funktion (Selene) sichtbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L417] (strukturierter Outline) · „Mitgefühl mit dem Apparat (Wächterin-Stufe“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung) — a function borne by Selene, or a stage with no bearer. (Q4)

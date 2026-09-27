@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,16 @@ Title: „Die Wächter“ ^[monstergruppe-primzahlen-plot-blueprint.md:L57]
 
 - Establishes: „Als Teil von Protokoll Omega-Sieben führt AEGIS "Wächter" (Guardians) in Kaels Umgebung ein“ ^[monstergruppe-primzahlen-plot-blueprint.md:L60]
 - What they are: „die als normale Bewohner der Kernwelt getarnt sind“ ^[monstergruppe-primzahlen-plot-blueprint.md:L60]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the Gödelian knot, LogOS' first test
+
+Title: „Die Prüfung der Symmetrie“ ^[kohaerenz-protokoll.md:L432]
+Position: „(Fundamentales Konzept: Symmetrie / Gödel’sche Sätze)“ ^[kohaerenz-protokoll.md:L434] · „(Heldinnenreise Stufe 4: Passieren der Pforten der Verurteilung (Prüfungen))“ ^[kohaerenz-protokoll.md:L436]
+
+- LogOS couples directly to Kael's mind: „Eine direkte Schnittstelle zwischen seinem kognitiven Kern und LogOS, dem Supervisor für Kohärenz und Struktur in diesem Sektor.“ ^[kohaerenz-protokoll.md:L438]
+- The task fails on its own terms: „Ein Gödelscher Knoten.“ ^[kohaerenz-protokoll.md:L478]
+- Named: „Gödels Unvollständigkeitssatz, in Reinform manifestiert in den Fundamenten von Co₁.“ ^[kohaerenz-protokoll.md:L480]
+- Result: „Er hatte versagt.“ ^[kohaerenz-protokoll.md:L516]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -156,6 +166,7 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 
 ## Where the sources differ
 
+- **Title, and the knot found, not used (D47).** „Die Prüfung der Symmetrie“ ^[kohaerenz-protokoll.md:L432] (the Kohärenz-Protokoll narrative, 2025-04-27) — a third title; its Gödel moment is a limit LogOS' own task runs into, „Ein Gödelscher Knoten.“ ^[kohaerenz-protokoll.md:L478], not an injury or a gambit Kael wields.
 - **The Kapitel-4 injury.** „bis seine Knie bluten“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] (the Ultra-Plot) — the knees bleed on the Gödel staircase, not the knuckles in Kap 1 (C10).
 - **Kael's first bug trace.** „B: IC-Mind/Conscious latent — erste Bug-Spur in Kael“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L520] (Konzept-Iteration Genesis, Kap 4) · „B:IC-S1 (Kael = unfixbarer Bug)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium, its Kap 1).
 - **Title.** „Die unentscheidbare Zone“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L518] (Konzept-Iteration Genesis) · „Pforten der Verurteilung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L319] (strukturierter Outline; also Kapitel-Kompendium, and in short form konsolidiertes Konzept and storyform outline) — the Konzept-Iteration's stage „HR-Stufe 4: Pforten der Verurteilung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L518] is the others' title, whose stage is „HR-Stufe 4: Prüfungen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L321].

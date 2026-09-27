@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 16
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,16 @@ Title: „Der erste bewusste Kontakt“ ^[monstergruppe-primzahlen-plot-blueprin
 - Kael's arc: „Er überschreitet die Schwelle zum zweiten Akt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L132]
 
 Writes only „J“, never Juna (J111).
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the Mosaik-Herz, and M reconsidered
+
+Title: „Das Mosaik-Herz“ ^[kohaerenz-protokoll.md:L1294]
+Position: „(Fundamentales Konzept: Akzeptanz der Komplexität / Scherben der Erkenntnis)“ ^[kohaerenz-protokoll.md:L1296] · „(Heldinnenreise Stufe 9, Erweiterung 2: Akzeptanz der Vielfalt)“ ^[kohaerenz-protokoll.md:L1298]
+
+- The Schatten, held rather than cut: „Der Schatten, der die abgelehnte Wut, den Schmerz“ ^[kohaerenz-protokoll.md:L1318]
+- M reconsidered: „Er verstand nun auch die Natur von M, der Monstergruppe, anders.“ ^[kohaerenz-protokoll.md:L1350]
+- The pieces gathered, not erased: „Jede schmerzhafte Erfahrung, jedes Scheitern, jede Konfrontation hatte ihm eine neue Scherbe des Wissens, des Verständnisses geschenkt.“ ^[kohaerenz-protokoll.md:L1330]
+- The chapter's image: „Ein Mosaik-Herz.“ ^[kohaerenz-protokoll.md:L1326]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -173,6 +183,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
+- **Title, and no heat (D47).** „Das Mosaik-Herz“ ^[kohaerenz-protokoll.md:L1294] (the Kohärenz-Protokoll narrative, 2025-04-27) — its title matches the Kompendium's exactly, given here as the chapter's own image, „Ein Mosaik-Herz.“ ^[kohaerenz-protokoll.md:L1326]; no `Hitze` or `Landauer` anywhere in the document (C11).
 - **Title.** „Mosaik des Selbst“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L487] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept, storyform outline) · „Akzeptanz der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (Kapitel-Kompendium). The Kompendium's title is the strukturierter Outline's stage name: „HR-Erweiterung 2: Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489] (strukturierter Outline). The philosophy catalogue joins both, „Akzeptanz der Komplexität / Mosaik des Selbst“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188], and its table gives the first alone, „Akzeptanz der Komplexität“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L715].
 - **The Hard-SF-Outline.** „Die Grenze der Logik“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] (the Hard-SF-Outline, 2026-04-08) — a new title; the chapter is Isabelle's takeover at a paradox, under the threat of „Das System droht, sie mit einer gigantischen Landauer-Hitzewelle zu verbrennen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] (C11)
 

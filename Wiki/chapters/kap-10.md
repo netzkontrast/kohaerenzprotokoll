@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,16 @@ Title: „Die Hypothese der Irreduzibilität“ ^[monstergruppe-primzahlen-plot-
 
 - AEGIS: „Kael ist kein einfacher "Primfaktor", sondern eine fundamental irreduzible Entität“ ^[monstergruppe-primzahlen-plot-blueprint.md:L120]
 - K-J: „postuliert eine "Twin Prime"-ähnliche Beziehung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L120]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the Netzweber, a cautious Guardian-ally
+
+Title: „Resonanz im Graphen“ ^[kohaerenz-protokoll.md:L1140]
+Position: „(Fundamentales Konzept: Symmetrie (Netzwerk/Graph in McL) / Quanten-Nichtlokalität (Analogie))“ ^[kohaerenz-protokoll.md:L1142] · „(Heldinnenreise Stufe 9, Erweiterung 1: Erste Anwendung der Integration)“ ^[kohaerenz-protokoll.md:L1144]
+
+- Assignment: „Supervision durch den Netzweber, den Guardian von McL.“ ^[kohaerenz-protokoll.md:L1172]
+- The Guardian questions him: „Woher stammt dieser Zugang, Architekt?“ ^[kohaerenz-protokoll.md:L1244]
+- Confirms and grows curious: „Ihre Analyse der dualen Knotenpunkte war korrekt.“ ^[kohaerenz-protokoll.md:L1258]
+- Impressed, wary: „Beeindruckend, Architekt“ ^[kohaerenz-protokoll.md:L1280]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -153,6 +163,7 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 
 ## Where the sources differ
 
+- **Title, and the Guardian as a wary ally (D47).** „Resonanz im Graphen“ ^[kohaerenz-protokoll.md:L1140] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fifth title; it agrees the world is McL and names the Guardian who supervises there, „Supervision durch den Netzweber, den Guardian von McL.“ ^[kohaerenz-protokoll.md:L1172], curious rather than hostile.
 - **World.** „Kael löst Problem in McL-Welt durch Kombination von Analyse und K-J-Verbindung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L544] (Konzept-Iteration Genesis) · „Kap 10 | KW1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L836] (Kernwelten vollständig) · „KW1/McL-Vorschein“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (Kapitel-Kompendium) · „KW1/Moonshine-Vorschein“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L315] (storyform outline).
 - **Storyform B.** „A: RS-Physics, Moonshine als Werkzeug. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980] (konsolidiertes Konzept) · „MC-S2 (B) Present beginnt einzusetzen — Erasure-Sweeps werden hörbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L469] (strukturierter Outline).
 - **The number 734.** „Die Zahl 734 taucht zum zweiten Mal auf — somatisch verankert, ohne erklärt zu werden.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L473] (strukturierter Outline, Kap 10) · „Die Zahl 734 taucht erstmals als Foreshadowing auf.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] (strukturierter Outline, its Kap 2) · „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline, its Kap 1) — counted second, after a first in Kap 2, in a document that names it in Kap 1.

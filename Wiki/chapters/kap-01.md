@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -34,6 +34,16 @@ Position: „Akt I: Anomalie / Eindämmung (Kapitel 1-13)“ ^[monstergruppe-pri
 - M-manifestation: „Der Glitch ist keine Fehlfunktion *in* der Simulation, sondern ein kurzes Durchscheinen der M-basierten Struktur *unter* der Simulation“ ^[monstergruppe-primzahlen-plot-blueprint.md:L31]
 
 Names no `Konstrukt-Stadt`: the Kernwelt AEGIS verwaltet is unnamed here (C9).
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the first riss, and no header
+
+Narrated in the third person, following Kael. This chapter carries neither a `(Fundamentales Konzept: …)` line nor a Heldinnenreise-stage marker — the document's own chapter-header pattern begins only at Kapitel 2.
+
+Title: „Kristalliner Käfig“ ^[kohaerenz-protokoll.md:L124]
+
+- Wakes: „Kael lag auf der Ruhefläche seines Wohnmoduls.“ ^[kohaerenz-protokoll.md:L128]
+- Glitch: „Ein warmes, goldenes Licht.“ ^[kohaerenz-protokoll.md:L176] — the name *Juna* surfaces the same line, an echo with no referent yet.
+- Close: „Der erste Riss war da.“ ^[kohaerenz-protokoll.md:L194]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -214,6 +224,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
+- **Title, world (D47).** „Kristalliner Käfig“ ^[kohaerenz-protokoll.md:L124] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fourth title for the opening; `Kap` stands 0 times in the whole document, `Kernwelt` 3, `Kernwelten` 5 (`Plan/runs/kohaerenz-protokoll/05-verify.txt`), and names Kael's world `Co₁` rather than `Konstrukt-Stadt` or `KW1` (C9).
 - **Title (D42/D43).** „Der Erwachen-Zyklus und die Planck-Latenz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55] (the Ultra-Plot, Kapitel 1) · „Der Glitch“ ^[monstergruppe-primzahlen-plot-blueprint.md:L27] (the Primzahl-Blueprint, Kapitel 1) — two more titles for the opening, neither of them a knuckle or a Konstrukt-Stadt-name: the Ultra-Plot never writes `Knöchel` at all (0 matches, `05-verify.txt`), and the Primzahl-Blueprint never names the Kernwelt (C9, C10).
 - **Where Kael lives.** „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline) · „KW1 Sektor 04 / Wohneinheit 734 / Transitkorridor Delta-7“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L827] (Kernwelten vollständig) · „ein Mensch, ein steril, perfekt geordneter Alltag (Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium) — 734 is Kael's designation in unit 14, sector 7, or the unit's own number, in sector 04.
 - **What Kael does.** „Kael versucht eine geringfügige Abweichung von seiner Routine oder äußert einen leicht unkonventionellen Gedanken/Wunsch.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29] (aegis-subplots) · „Kap 1: Kael bestätigt, dass die Welt stimmt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L124] (Plot-Konkretisierung) — he deviates, or he confirms.

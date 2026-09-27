@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,15 @@ Title: „Fragmente der Erinnerung“ ^[monstergruppe-primzahlen-plot-blueprint.
 
 - Establishes: „triggern das Auftauchen neuer oder stärkerer Persönlichkeitszustände“ ^[monstergruppe-primzahlen-plot-blueprint.md:L80]
 - AEGIS: „AEGIS' frühere Versuche, Kael zu "faktorisieren", haben diese Fragmentierung verursacht“ ^[monstergruppe-primzahlen-plot-blueprint.md:L84]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the interface collapses, and Juna returns
+
+Title: „Die Implosion der Logik“ ^[kohaerenz-protokoll.md:L657]
+Position: „(Fundamentales Konzept: Cache Kohärenz (Konflikt) / Parakonsistente Logik (Grenzen))“ ^[kohaerenz-protokoll.md:L659] · „(Heldinnenreise Stufe 6: Der Tod (einer Einstellung))“ ^[kohaerenz-protokoll.md:L661]
+
+- Somatic marker: „Kalter Schweiß brach auf seiner Stirn aus, obwohl die Umgebungstemperatur konstant war.“ ^[kohaerenz-protokoll.md:L761]
+- Collapse: „Die Aufgabe war gescheitert.“ ^[kohaerenz-protokoll.md:L783]
+- Juna at the break: „In diesem Moment des absoluten Zusammenbruchs, als alle mentalen Firewalls versagten, als die Mauer zur isolierten Resonanz zerbarst, spürte er es wieder.“ ^[kohaerenz-protokoll.md:L777]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -160,6 +169,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
+- **Title, and cold sweat, not heat (D47).** „Die Implosion der Logik“ ^[kohaerenz-protokoll.md:L657] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fifth title; its somatic marker is „Kalter Schweiß brach auf seiner Stirn aus, obwohl die Umgebungstemperatur konstant war.“ ^[kohaerenz-protokoll.md:L761]: Kael's body, not a Landauer trace — `Landauer` and `Hitze` stand 0 times in the document (C11).
 - **Landauer sensorics.** „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528] (Konzept-Iteration Genesis; also strukturierter Outline and the 39-chapter spec) · „Sensorik: Hitzeschlieren, Landauer-Wärme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] (konsolidiertes Konzept) · „Sensorik der Landauer-Signatur nach Polaritäts-Lock: kalt/Ozon“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311] (storyform outline) · „Sensorik kalt/Ozon (Polaritäts-Filter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung). (C11)
 - **When the other Alters' style codes are full.** „Erste polyphonen Einbrüche — Stilcodes anderer Alters werden voll sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L377] (strukturierter Outline, Kap 6) · „voll ausgeprägt ab Kap 8–10“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810] (konsolidiertes Konzept) · „voll-polyphon erst Akt II“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L927] (Kernwelten vollständig).
 - **Title.** „Tod einer Einstellung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (Kapitel-Kompendium) · „Echos im Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L526] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the others' stage „HR-Stufe 6: Tod einer Einstellung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L369].

@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,16 @@ Title: „Protokoll Omega-Sieben“ ^[monstergruppe-primzahlen-plot-blueprint.md
 
 - Establishes: „identifiziert es Kael als zentralen Nexus der Anomalie“ ^[monstergruppe-primzahlen-plot-blueprint.md:L50]
 - Establishes: „aktiviert ein spezifisches Eindämmungsprotokoll“ ^[monstergruppe-primzahlen-plot-blueprint.md:L50]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the bunker, and the first M
+
+Title: „Der Bunker der Logik“ ^[kohaerenz-protokoll.md:L318]
+Position: „(Fundamentales Konzept: Autopoiesis)“ ^[kohaerenz-protokoll.md:L320] · „(Heldinnenreise Stufe 3: Erwachen & Vorbereitung (Identifikation mit dem Männlichen))“ ^[kohaerenz-protokoll.md:L322]
+
+- Goal: „Er musste lernen, wie AEGIS“ ^[kohaerenz-protokoll.md:L326] — the instance that controlled everything, unseen.
+- Studies the system's own metrics: „die RIVE, die Recursive Integrity Validation Engine“ ^[kohaerenz-protokoll.md:L380]
+- Finds M behind the censorship: „primäre Quelle komplexer, irreduzibler Information“ ^[kohaerenz-protokoll.md:L394]
+- LogOS ends it: „Der Bunker, den er so sorgfältig errichtet hatte, war nicht stark genug gewesen.“ ^[kohaerenz-protokoll.md:L430]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -159,6 +169,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
+- **Title, and Juna already known (D47).** „Der Bunker der Logik“ ^[kohaerenz-protokoll.md:L318] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fourth title; Juna is not new here, she is a name Kael already seeks from Kap 1's glitch — „Er würde herausfinden, wer oder was Juna war.“ ^[kohaerenz-protokoll.md:L324] — where the other sources place Juna's first trace in this chapter, this one has her name from Kapitel 1's glitch.
 - **Juna's first trace.** „Kael sieht Juna zum ersten Mal — als Hologramm/Echo, das verschwindet. Stadtgesetze brechen um sie herum.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis) · „Wärme-Debüt (Polaritäts-Lock): Junas Coheron-Spur erscheint hier zum ersten Mal als Wärme; selten, wächst.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308] (storyform outline) — seen as an image, or first felt as warmth. (C7) · „Erste Juna-Andeutung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L697] with „Wärme als Substrat-Spur“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L696] (the philosophy catalogue) — a hint, and warmth.
 - **Where the warmth debuts.** „KW1 verlassener Randbezirk“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829] with „erste Wärme-Spur (Junas Coheron-Debüt)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829] (Kernwelten vollständig) · „geschieht außerhalb des Knotens, auf dem Heimweg im Transitkorridor; der Arbeitsplatz bleibt kalt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung).
 - **Storyform A.** „A: RS-Physics-Vorzeichen, Moonshine-Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis) · „A: MC-Problem Avoidance als ANP-Funktion. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L966] (konsolidiertes Konzept).

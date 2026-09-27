@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,16 @@ Title: „Neue Regeln, Altes Spiel“ ^[monstergruppe-primzahlen-plot-blueprint.
 - Kael's arc: „Kael, nun bewusster und durch die K-J Verbindung gestärkt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L140]
 
 Writes only „J“ here too, never Juna (J111) — the same chapter number where the Ultra-Plot has Juna herself enter the room.
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the Jetzt-Raum, and Kael/M
+
+Title: „Der Jetzt-Raum“ ^[kohaerenz-protokoll.md:L1390]
+Position: „(Fundamentales Konzept: Gegenwart/Präsenz (Jetzt-Raum) / Innerer Frieden / Potenzialerkennung)“ ^[kohaerenz-protokoll.md:L1392] · „(Heldinnenreise Stufe 9, Erweiterung 3: Innerer Frieden & Potenzial / Freiheit zu leben)“ ^[kohaerenz-protokoll.md:L1394]
+
+- The state named: „Übrig blieb nur das Hier und Jetzt.“ ^[kohaerenz-protokoll.md:L1422]
+- What AEGIS cannot reach: „Er hatte einen inneren Raum entdeckt, einen Ort der Präsenz und des Selbst, den AEGIS nicht erreichen konnte.“ ^[kohaerenz-protokoll.md:L1442]
+- Identity: „Er war Kael/M.“ ^[kohaerenz-protokoll.md:L1430]
+- Close: „Er war Kael, der Architekt seines eigenen Mosaik-Herzens, bereit, im Jetzt-Raum zu leben und zu handeln, egal welche Stürme das System entfesseln würde.“ ^[kohaerenz-protokoll.md:L1456]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -147,6 +157,7 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 
 ## Where the sources differ
 
+- **Title, an inner balance found (D47).** „Der Jetzt-Raum“ ^[kohaerenz-protokoll.md:L1390] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fourth title; it sides with a held inner balance, not a crack: „Er hatte einen inneren Raum entdeckt, einen Ort der Präsenz und des Selbst, den AEGIS nicht erreichen konnte.“ ^[kohaerenz-protokoll.md:L1442], and writes „Er war Kael/M.“ ^[kohaerenz-protokoll.md:L1430] — no Juna in the room here (C7).
 - **Juna in the room, or only `J`.** „Plötzlich tritt Juna in den Raum“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77] (the Ultra-Plot) — Juna herself stands in front of LogOS, unseen by it (C7) · „Kael, nun bewusster und durch die K-J Verbindung gestärkt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L140] (the Primzahl-Blueprint) — the same chapter number writes only `J` (J111), never Juna.
 - **AEGIS' scan.** „B: OS-Physics latent — AEGIS scannt diesen Zustand, klassifiziert ihn als anomale Kohärenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552] (Konzept-Iteration Genesis) · „OS-Physics latent — AEGIS scannt diesen Zustand und kann ihn nicht klassifizieren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L517] (strukturierter Outline).
 - **What the chapter is.** „Riss-Eskalation“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838] · „thermische Risse häufen sich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838] (Kernwelten vollständig) · „Kael erreicht einen Zustand innerer Balance. Stille als positive Substanz, nicht als Leere.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L521] (strukturierter Outline) · „innere Stabilität gefunden; ein gehaltener Moment“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (Kapitel-Kompendium).
