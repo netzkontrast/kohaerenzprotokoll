@@ -1501,3 +1501,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „Der zweite Raum ist der Möglichkeiten-Garten, ein Areal, in dem Wahrscheinlichkeiten vor ihrer Materialisierung visualisiert werden.“ (L187) — a room of the OS in Storyform A; `Möglichkeits-Garten` 0 in the document. The two differ only in the element joining the compound (plural -en against the linking -s).
 
 **Result.** one term: a reading on moeglichkeits-garten, about scale — here „ein Areal“, a place (C5); not mechanised, because fold() cannot tell a linking element from a different word
+
+## J108 — Kapitel 1 / Kapitel 10
+
+**two-terms** · hard-sf-roman-outline-dkt-physik-cosmic-horror · 2026-09-27 · replay: `judgement`
+
+- **rule:** a number ends a chapter label: `Kapitel 1` is not contained in `Kapitel 10`, as a case ending is no term boundary (J97) and a digit is one
+- **mechanised by:** `nothing`
+- **features:** chapter-label, digit-containment, fold-artifact
+
+**Question.** reconcile.py pairs Kapitel 1 with Kapitel 10–19, Kapitel 2 with 20–29 and Kapitel 3 with 30–39: one term or two?
+
+**What was done.** „**Kapitel 1: Der Erwachen-Zyklus**“ (L94) and „**Kapitel 10: Junas Koordinaten**“ (L120) head two chapters of „Das Plot-Outline (Kapitel 1 – 39)“ (L88); the near match is the folded label `kapitel1` inside `kapitel10`.
+
+**Result.** two terms, and neither a term page: a chapter label names its chapter, and what the document says about it is a reading on Wiki/chapters/kap-NN.md (decision 013). Not mechanised — containment is the matcher's rule everywhere else

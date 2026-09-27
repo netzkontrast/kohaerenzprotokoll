@@ -34,10 +34,10 @@ scratchpad; never overwrite another's.
 
 1. **Never run any git command** (no stash, no checkout, no commit, no add, no diff that writes). Other
    readers are editing other files in the same tree. Edit only the files you are given.
-2. Add one section per page **per document that speaks to it**, placed after the page's last `## Reading — …` section of a document dated on
-   or before 2026-05-08, **in date order** (it is dated 2026-04-30: before every reading of May 2026) and before `## Where the sources differ` /
+2. Add one section per page **per document that speaks to it**, placed after the page's last `## Reading — …` section of a document dated
+   on or before 2026-04-30, **in date order** (it is dated 2026-04-30: before every reading of May 2026) and before `## Where the sources differ` /
    `## Open` / `## Occurrences only`:
-   `## Reading — \`dramatica-storyform-synthese-aegis-analyse-2\`, 2026-05-08, the Dramatica-Synthese — <what it adds>`
+   `## Reading — \`dramatica-storyform-synthese-aegis-analyse-2\`, 2026-04-30, the Dramatica-Synthese — <what it adds>`
    If the page is not in date order, put it after the last reading and say nothing about order.
 3. English prose around German quotations. Every quotation verbatim in „…" followed by
    `^[dramatica-storyform-synthese-aegis-analyse-2.md:Lnn]` — the qualified form, always. **Every line
@@ -68,7 +68,7 @@ scratchpad; never overwrite another's.
 ## Record rules (conflicts `Wiki/conflicts/`, questions `Wiki/questions/`)
 
 Records are append-only. Append at the end:
-`## 2026-09-27 — \`dramatica-storyform-synthese-aegis-analyse-2\`, 2026-05-08, the Dramatica-Synthese`
+`## 2026-09-27 — \`dramatica-storyform-synthese-aegis-analyse-2\`, 2026-04-30, the Dramatica-Synthese`
 Then a bold one-line summary of the document's position and the quotations, and one closing line saying which
 row/side of the record it stands on, in the record's own terms. Add 1 to `sources:`, and append the slug where the record keeps a list of
 documents in frontmatter, once. If the document does not speak to the record, write nothing and report
@@ -79,7 +79,7 @@ documents in frontmatter, once. If the document does not speak to the record, wr
 A reading goes on a chapter page only where the document says something about **that chapter itself**
 (what happens there, whose, which act, what it establishes) — a range boundary alone does not. Format:
 `Wiki/chapters/README.md`, and the existing readings on the page. Place it among the readings in date
-order (2026-05-08; after the other readings of that date), before `## Where the sources differ`.
+order (2026-04-30, before the readings of May 2026), before `## Where the sources differ`.
 Frontmatter: append to `ingested:`, add 1 to `sources:`. Never edit the four navigation sections (What
 this chapter is about, Questions for this chapter, Candidate sources, Raw qmd answers). Then
 `python3 scripts/chapters.py` (it may complain the document is not reconciled — ignore only that) and

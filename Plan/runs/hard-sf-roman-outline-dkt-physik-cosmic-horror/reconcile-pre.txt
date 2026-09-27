@@ -1,0 +1,224 @@
+# reconcile-pre — hard-sf-roman-outline-dkt-physik-cosmic-horror
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+
+  188 candidates, 197 decisions — **108 by lookup, 89 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (33) — page exists, this document is not on it yet — a reading
+  TSDP                                 tsdp
+  AEGIS                                aegis
+  DKT                                  dkt
+  Kael                                 kael
+  Juna                                 juna
+  Moonshine-Link                       moonshine-link
+  Kernwelt                             kern-welten
+  Kernwelten                           kern-welten
+  LogOS                                logos
+  Mnemosyne                            mnemosyne
+  Cerberus                             cerberus
+  Kairos                               kairos
+  Sophia                               sophia
+  funktionale Multiplizität            multiplizitaet
+  DID                                  did
+  Lex                                  lex
+  Alex                                 alex
+  Rhys                                 rhys
+  Selene                               selene
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  Silas                                silas
+  Oblivion                             oblivion
+  IntegrityGuardian                    aegis-teilfunktionen
+  SIS                                  aegis-teilfunktionen
+  Glitch                               risse
+  Nichts-Rauschen                      nichts-rauschen
+  Kohärenz-Kernel                      kohaerenz-kernel
+  Gödel-Gambit                         goedel-gambit
+
+## new_term (75) — no page, no near match — a new page
+  Tertiären Strukturellen Dissoziation der Persönlichkeit 
+  Landauer-Prinzip                     
+  Entropischen Gravitation             
+  Bekenstein-Schranke                  
+  Ursprungs-Ich                        
+  B+C-Superposition                    
+  Deus-ex-Machina                      
+  Greg Egan                            
+  Peter Watts                          
+  Jeff VanderMeer                      
+  Thomas Ligotti                       
+  Maldacena                            
+  Susskind                             
+  KW1                                  
+  KW2                                  
+  KW3                                  
+  KW4                                  
+  Computational Class                  
+  ANP                                  
+  EP                                   
+  ISH                                  
+  Täter-Introjekt                      
+  Primal Directive                     
+  ZTEM                                 
+  RTSV                                 
+  BPoF                                 
+  EIC                                  
+  CogFirewall                          
+  ConsensusEnf                         
+  EntropicMgmt                         
+  PMAS                                 
+  SARM                                 
+  Amnesie-Terror                       
+  Twist-Architektur                    
+  Lovecraft                            
+  Use of Weapons                       
+  Gone Girl                            
+  Permutation City                     
+  Das Plot-Outline                     
+  Heldinnenreise                       
+  Erwachen-Zyklus                      
+  21°C                                 
+  Knöchel                              
+  Landauer-Löschung                    
+  Geometrie der Isolation              
+  Das flüchtige Echo                   
+  K0-Narbe                             
+  Kapitel 4                            
+  Kapitel 5                            
+  Kapitel 6                            
+  Kapitel 7                            
+  Die Monstergruppe                    
+  Kapitel 8                            
+  Kapitel 9                            
+  Belly of the Whale                   
+  Zyklische Dekonstruktion             
+  K0                                   
+  K1                                   
+  K0-Maschine                          
+  Sinnleere                            
+  Apotheose der Ganzheit               
+  Heldenreise                          
+  Bekenstein-Falle                     
+  Fundament                            
+  Fusion                               
+  Klimax                               
+  Lebenden Gödel-Satz                  
+  Wärme                                
+  Strange Attractor                    
+  Resolution                           
+  Campbell                             
+  Gödelscher Unvollständigkeitssatz    
+  Umgebungsbedingung                   
+  Doppelter Boden                      
+  Crew-Menü                            
+
+## needs_judgement (89) — NEAR a known surface — one term or two?
+  AEGIS  /  AEGIS-Echo                         near: each other
+  AEGIS  /  AEGIS Protokoll                    near: each other
+  Kael  /  Kael (Host)                         near: each other
+  Kael  /  System Kael                         near: each other
+  Ozon  /  Ozon des Werdens                    near: each other
+  Island-Formeln  /  Island-Formel             near: each other
+  ER=EPR-Korrespondenz  /  ER=EPR              near: each other
+  Juna  /  Juna-Echo                           near: each other
+  Juna  /  Junas Koordinaten                   near: each other
+  Juna  /  Juna-Superposition                  near: each other
+  Juna  /  Integration von Juna                near: each other
+  Erik Verlinde  /  Verlinde                   near: each other
+  Kernwelt  /  Kernwelten                      near: each other
+  Kernwelt  /  Kernwelt 2                      near: each other
+  Logos-Prime  /  LogOS                        near: each other
+  Mnemosyne-Archiv  /  Mnemosyne               near: each other
+  Cerberus-Zitadelle  /  Cerberus              near: each other
+  Kairos-Potentialis  /  Kairos                near: each other
+  Kairos / Sophia  /  Kairos                   near: each other
+  Kairos / Sophia  /  Sophia                   near: each other
+  Sophia  /  Prüfung durch Sophia              near: each other
+  Zugeordneter Guardian  /  Guardian           near: each other
+  Guardian  /  IntegrityGuardian               near: each other
+  Guardian  /  Guardians der Weisheit          near: each other
+  Fragmentierungsnacht  /  Fragmentierung      near: each other
+  RIVE  /  RIVE-Protokoll                      near: each other
+  Akt I  /  Akt II                             near: each other
+  Akt I  /  Akt III                            near: each other
+  Akt II  /  Akt III                           near: each other
+  Kapitel 1  /  Kapitel 10                     near: each other
+  Kapitel 1  /  Kapitel 11                     near: each other
+  Kapitel 1  /  Kapitel 12                     near: each other
+  Kapitel 1  /  Kapitel 13                     near: each other
+  Kapitel 1  /  Kapitel 14                     near: each other
+  Kapitel 1  /  Kapitel 15                     near: each other
+  Kapitel 1  /  Kapitel 16                     near: each other
+  Kapitel 1  /  Kapitel 17                     near: each other
+  Kapitel 1  /  Kapitel 18                     near: each other
+  Kapitel 1  /  Kapitel 19                     near: each other
+  Kapitel 2  /  Kapitel 20                     near: each other
+  Kapitel 2  /  Kapitel 21                     near: each other
+  Kapitel 2  /  Kapitel 22                     near: each other
+  Kapitel 2  /  Kapitel 23                     near: each other
+  Kapitel 2  /  Kapitel 24                     near: each other
+  Kapitel 2  /  Kapitel 25                     near: each other
+  Kapitel 2  /  Kapitel 26                     near: each other
+  Kapitel 2  /  Kapitel 27                     near: each other
+  Kapitel 2  /  Kapitel 28                     near: each other
+  Kapitel 2  /  Kapitel 29                     near: each other
+  Kapitel 3  /  Kapitel 30                     near: each other
+  Kapitel 3  /  Kapitel 31                     near: each other
+  Kapitel 3  /  Kapitel 32                     near: each other
+  Kapitel 3  /  Kapitel 33                     near: each other
+  Kapitel 3  /  Kapitel 34                     near: each other
+  Kapitel 3  /  Kapitel 35                     near: each other
+  Kapitel 3  /  Kapitel 36                     near: each other
+  Kapitel 3  /  Kapitel 37                     near: each other
+  Kapitel 3  /  Kapitel 38                     near: each other
+  Kapitel 3  /  Kapitel 39                     near: each other
+  Maureen Murdock  /  Murdock                  near: each other
+  Fixpunkte  /  Fixpunkt                       near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Dual-Kernel-Theorie                          near: dualkerneltheoriedkt→dkt
+  Logos-Prime                                  near: logos→logos
+  Mnemosyne-Archiv                             near: mnemosyne→mnemosyne
+  Cerberus-Zitadelle                           near: cerberus→cerberus
+  Kairos-Potentialis                           near: kairos→kairos
+  Kairos / Sophia                              near: kairos→kairos, sophia→sophia
+  Guardian                                     near: guardians→guardians, integrityguardian→aegis-teilfunktionen
+  Kael (Host)                                  near: kael→kael
+  Juna-Echo                                    near: juna→juna
+  AEGIS-Echo                                   near: aegis→aegis
+  Genesis-Krise                                near: genesis→genesis
+  AEGIS Protokoll                              near: aegis→aegis
+  Coheron-Echo                                 near: coheron→coheron
+  Junas Koordinaten                            near: juna→juna
+  Kernwelt 2                                   near: kernwelt→kern-welten
+  Fragmentierung                               near: psychischefragmentierung→did
+  Coherons                                     near: coheron→coheron
+  Erasonen                                     near: erason→erason
+  Juna-Superposition                           near: juna→juna
+  Riss                                         near: risse→risse
+  Prüfung durch Sophia                         near: sophia→sophia
+  Guardians der Weisheit                       near: guardians→guardians
+  Kollaps der Kohärenz                         near: koharenz→kohaerenz
+  Integration von Juna                         near: juna→juna
+  System Kael                                  near: kael→kael
+  Jenseits der Kohärenz                        near: koharenz→kohaerenz
+  Ouroboros                                    near: ouroborosstruktur→ouroboros-struktur
+
+## in_document_not_in_census (9) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Alters                               alters                       L29
+  Coheron                              coheron                      L61
+  Dual-Kernel-Theorie (DKT)            dkt                          L19
+  Emergenz                             emergenz                     L43
+  Entropie                             entropie                     L64
+  Erason                               erason                       L62
+  Guardians                            guardians                    L178
+  Kohärenz                             kohaerenz                    L11
+  Simulation                           ueberwelt                    L31
+
