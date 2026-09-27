@@ -38,10 +38,11 @@
       "ingested": [
         "entropie-aegis",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "mining-report-kohaerenz-protokoll-narrative-building-blocks"
+        "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 3,
-      "readings": 2,
+      "sources": 4,
+      "readings": 3,
       "conflict": "none"
     },
     "aegis": {
@@ -90,10 +91,14 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "monstergruppe-primzahlen-plot-blueprint"
       ],
-      "sources": 36,
-      "readings": 37,
+      "sources": 40,
+      "readings": 41,
       "conflict": "C1, C8, C14"
     },
     "alex": {
@@ -123,10 +128,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 21,
-      "readings": 21,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -160,10 +167,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 26,
+      "readings": 26,
       "conflict": "none"
     },
     "alters": {
@@ -202,10 +210,13 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "monstergruppe-primzahlen-plot-blueprint",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 30,
-      "readings": 29,
+      "sources": 33,
+      "readings": 32,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -230,10 +241,11 @@
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "archiv-des-ungesagten": {
@@ -279,10 +291,11 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 24,
+      "readings": 24,
       "conflict": "none"
     },
     "ars": {
@@ -340,10 +353,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C4"
     },
     "cache-kohaerenz": {
@@ -382,10 +396,13 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "2026-09-14-kap25-vertiefung-md",
         "kohaerenz-protokoll-philosophischer-bericht-md",
-        "mining-report-kohaerenz-protokoll-narrative-building-blocks"
+        "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 18,
+      "readings": 18,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -402,10 +419,11 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
-        "dual-storyform-hintergruende-md"
+        "dual-storyform-hintergruende-md",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none yet"
     },
     "coheron": {
@@ -435,10 +453,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 21,
-      "readings": 21,
+      "sources": 22,
+      "readings": 22,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -452,10 +471,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "did": {
@@ -478,10 +498,13 @@
         "kohaerenz-protokoll-konzept-master-md",
         "three-mode-architecture-39-chapters-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
-        "kohaerenz-protokoll-philosophischer-bericht-md"
+        "kohaerenz-protokoll-philosophischer-bericht-md",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "monstergruppe-primzahlen-plot-blueprint",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none yet"
     },
     "dkt": {
@@ -491,6 +514,8 @@
         "dkt"
       ],
       "ingested": [
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
@@ -508,10 +533,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 21,
+      "readings": 21,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -550,6 +576,8 @@
       ],
       "ingested": [
         "aegis-emergenz-aus-der-leere",
+        "monstergruppe-primzahlen-plot-blueprint",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
@@ -561,8 +589,8 @@
         "koharenz-protokoll-kapitel-0-v2-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -634,10 +662,12 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 22,
-      "readings": 22,
+      "sources": 24,
+      "readings": 24,
       "conflict": "C2"
     },
     "erason": {
@@ -659,10 +689,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "evaluierungseinheit": {
@@ -674,10 +705,11 @@
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "externe-ebene": {
@@ -811,10 +843,11 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 27,
+      "readings": 27,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -826,6 +859,7 @@
       "ingested": [
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "ki-prompt-analyse-hard-problem-of-consciousness",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
@@ -842,10 +876,11 @@
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "systemic-architecture-specification-the-coherence-protocol-w",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 19,
-      "readings": 19,
+      "sources": 21,
+      "readings": 21,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -860,10 +895,12 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
-        "systemic-architecture-specification-the-coherence-protocol-w"
+        "systemic-architecture-specification-the-coherence-protocol-w",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -916,10 +953,14 @@
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
-        "the-architecture-of-fracture-a-compendium-of-the-kael-system"
+        "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "monstergruppe-primzahlen-plot-blueprint",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 32,
+      "readings": 32,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -929,6 +970,8 @@
         "hitze-polaritaetsregel"
       ],
       "ingested": [
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
@@ -953,10 +996,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 28,
+      "readings": 28,
       "conflict": "C11"
     },
     "isabelle": {
@@ -987,10 +1031,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 22,
-      "readings": 22,
+      "sources": 24,
+      "readings": 24,
       "conflict": "C15"
     },
     "juna": {
@@ -1033,10 +1079,14 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "monstergruppe-primzahlen-plot-blueprint"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 37,
+      "readings": 37,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1131,10 +1181,14 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "monstergruppe-primzahlen-plot-blueprint"
       ],
-      "sources": 34,
-      "readings": 34,
+      "sources": 38,
+      "readings": 38,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -1157,10 +1211,12 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "2026-09-14-kap25-vertiefung-md",
-        "kp-kap25-2026-09-14-md"
+        "kp-kap25-2026-09-14-md",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none"
     },
     "kairos": {
@@ -1181,10 +1237,12 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
-        "kohaerenz-protokoll-philosophischer-bericht-md"
+        "kohaerenz-protokoll-philosophischer-bericht-md",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 14,
+      "readings": 14,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -1225,10 +1283,13 @@
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "systemic-architecture-specification-the-coherence-protocol-w",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "monstergruppe-primzahlen-plot-blueprint",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 30,
-      "readings": 29,
+      "sources": 33,
+      "readings": 32,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1260,10 +1321,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 25,
+      "readings": 25,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -1297,6 +1360,8 @@
         "kohaerenz-kernel"
       ],
       "ingested": [
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-konzept-master-md",
@@ -1309,10 +1374,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 16,
+      "readings": 16,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -1363,6 +1429,8 @@
         "kollaps-kernel"
       ],
       "ingested": [
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
@@ -1374,10 +1442,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none"
     },
     "komponente-734": {
@@ -1449,10 +1518,13 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 26,
+      "readings": 26,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -1462,6 +1534,8 @@
         "landauer-signatur"
       ],
       "ingested": [
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
@@ -1486,10 +1560,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 28,
+      "readings": 28,
       "conflict": "C11"
     },
     "lex": {
@@ -1523,10 +1598,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 27,
+      "readings": 27,
       "conflict": "none"
     },
     "lia": {
@@ -1558,10 +1635,11 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 24,
+      "readings": 24,
       "conflict": "C15"
     },
     "logos": {
@@ -1586,10 +1664,13 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "kohaerenz-protokoll-philosophischer-bericht-md",
         "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
-        "mining-report-kohaerenz-protokoll-narrative-building-blocks"
+        "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 19,
+      "readings": 19,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -1638,10 +1719,13 @@
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
-        "the-architecture-of-fracture-a-compendium-of-the-kael-system"
+        "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 27,
+      "readings": 27,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -1669,10 +1753,12 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
         "systemic-architecture-specification-the-coherence-protocol-w",
-        "the-architecture-of-fracture-a-compendium-of-the-kael-system"
+        "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 19,
+      "readings": 19,
       "conflict": "C5"
     },
     "moonshine-link": {
@@ -1682,6 +1768,9 @@
         "moonshine-link"
       ],
       "ingested": [
+        "monstergruppe-primzahlen-plot-blueprint",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
@@ -1706,10 +1795,11 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 29,
+      "readings": 29,
       "conflict": "none"
     },
     "moros": {
@@ -1739,10 +1829,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 21,
-      "readings": 21,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -1760,10 +1852,12 @@
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "three-mode-architecture-39-chapters-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 11,
+      "readings": 11,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -1802,10 +1896,14 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "monstergruppe-primzahlen-plot-blueprint"
       ],
-      "sources": 29,
-      "readings": 29,
+      "sources": 33,
+      "readings": 33,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -1837,10 +1935,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
-        "kohaerenz-protokoll-philosophischer-bericht-md"
+        "kohaerenz-protokoll-philosophischer-bericht-md",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none"
     },
     "nichts-rauschen": {
@@ -1851,6 +1950,8 @@
         "nichts-rauschen"
       ],
       "ingested": [
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
@@ -1873,10 +1974,11 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 26,
+      "readings": 26,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -1922,10 +2024,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 26,
+      "readings": 26,
       "conflict": "C10"
     },
     "oblivion": {
@@ -1960,10 +2064,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 28,
+      "readings": 28,
       "conflict": "C11"
     },
     "ouroboros-struktur": {
@@ -1994,10 +2100,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 22,
-      "readings": 22,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none yet"
     },
     "partnerin": {
@@ -2070,6 +2177,7 @@
       ],
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
+        "monstergruppe-primzahlen-plot-blueprint",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
@@ -2081,8 +2189,8 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "systems-narrative-analysis-the-coherence-protocol-kanon-2026"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -2147,10 +2255,11 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
-        "systemic-architecture-specification-the-coherence-protocol-w"
+        "systemic-architecture-specification-the-coherence-protocol-w",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "rhys": {
@@ -2177,10 +2286,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 20,
+      "readings": 20,
       "conflict": "none"
     },
     "risse": {
@@ -2220,10 +2331,13 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "monstergruppe-primzahlen-plot-blueprint",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 29,
-      "readings": 29,
+      "sources": 32,
+      "readings": 32,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -2262,10 +2376,12 @@
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "selene": {
@@ -2295,10 +2411,11 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 21,
-      "readings": 21,
+      "sources": 22,
+      "readings": 22,
       "conflict": "none"
     },
     "silas": {
@@ -2333,10 +2450,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "roman-konzept-dualitaet-kohaerenz-spannung"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 28,
+      "readings": 28,
       "conflict": "C11"
     },
     "snk": {
@@ -2368,10 +2487,12 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-konzept-master-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
-        "kohaerenz-protokoll-philosophischer-bericht-md"
+        "kohaerenz-protokoll-philosophischer-bericht-md",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C4, C6"
     },
     "system-monitor": {
@@ -2490,10 +2611,11 @@
         "mining-report-kohaerenz-protokoll-plot-outline-construction",
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "systemic-architecture-specification-the-coherence-protocol-w",
-        "the-architecture-of-fracture-a-compendium-of-the-kael-system"
+        "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 27,
+      "readings": 27,
       "conflict": "C12"
     },
     "truth-rotation": {
@@ -2516,10 +2638,11 @@
         "kohaerenz-protokoll-philosophischer-bericht-md",
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none yet"
     },
     "tsdp": {
@@ -2550,10 +2673,12 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"
+        "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
       ],
-      "sources": 22,
-      "readings": 22,
+      "sources": 24,
+      "readings": 24,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -2650,10 +2775,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "worldbuilding-konzept-kohaerenzprotokoll-md"
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "vortex": {
@@ -2687,10 +2813,11 @@
         "mining-report-kohaerenz-protokoll-plot-outline-construction",
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "systemic-architecture-specification-the-coherence-protocol-w",
-        "companion-guide-to-the-coherence-protocol-understanding-love"
+        "companion-guide-to-the-coherence-protocol-understanding-love",
+        "dramatica-storyform-synthese-aegis-analyse-2"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 26,
+      "readings": 26,
       "conflict": "C7, C11, C14"
     },
     "ztv": {
