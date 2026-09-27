@@ -1,0 +1,449 @@
+{
+  "document": "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+  "drive_id": "1ZF3KrpuzyVLy6hg2AcjvrxQc-do08Ea3BDQxbqig6HY",
+  "step": "counts",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Relinquished vs. Maintained"
+  ],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        13,
+        21,
+        33
+      ]
+    },
+    "K1-environment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "kognitive Apparat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "21 degrees Celsius": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "ozone": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        28
+      ]
+    },
+    "hemorrhaging knuckles": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "autopoietic closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Dual-Kernel Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "DKT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Great Inversion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        17
+      ]
+    },
+    "AEGIS": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        29,
+        39
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kael": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        39
+      ]
+    },
+    "defense architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "K1": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        17,
+        39
+      ]
+    },
+    "Entropy Architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "K0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Coheron": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        39
+      ]
+    },
+    "Coherons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Mutual Information": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        39
+      ]
+    },
+    "MI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Vertex-Operator-Algebra": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "VOA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Leech-Lattice": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Z2-Involution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "arrow of time": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Erasonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Love is Coheron": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Monster Group M": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Landauer Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Thermal Spikes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Landauer waste heat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Ozone Saturation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Geometric Cracks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Witness-Function": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "living Gödel statement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Dramatica Translation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Relinquished": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        33,
+        35
+      ]
+    },
+    "Narrative Fabric": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "External Processing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Internal Processing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Narrative Engineer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "System Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Tertiary Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Alter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "ANP/EP Phobia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Ouroboros Structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Truth-Rotation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Nothing-Noise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "K1-Coheron": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Mutual Information without data": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Mourning God": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    }
+  }
+}

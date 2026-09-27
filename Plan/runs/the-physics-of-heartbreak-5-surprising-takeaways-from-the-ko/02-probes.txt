@@ -1,0 +1,22 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      2
+  typographic marks      15
+  ascii quotes           62
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coheron, Coherons
+  appar    Apparat, Apparently
+  entro    Entropic, Entropy
+  funct    Function, Functional
+  integ    Integration, Integrity
+  monst    Monster, Monstrous
+  struc    Structural, Structure
+  syste    System, Systems
+  therm    Thermal, Thermodynamics
+
+# substring pairs -- never one term, often merged by accident
+  System < Systems
+  Coheron < Coherons
+  Function < Functional
