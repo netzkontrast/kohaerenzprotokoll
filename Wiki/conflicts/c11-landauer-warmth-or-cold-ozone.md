@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 23
+sources: 24
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -270,3 +270,12 @@ Cool: „Meine Hände sind kalt." ^[kp-kap25-2026-09-14-md.md:L85] „der Knoten
 Warmth once, in italics, a line of the counter-register the item contains — the register's, not the narrator's: „Fenster 03, Luft warm, Konsole 21,0." ^[kp-kap25-2026-09-14-md.md:L69]
 `Landauer`, `Hitze`, `Wärme` and `Ozon` stand 0 times, `warm` once, `kalt` once, `kühler` on two lines (`05-verify.txt`).
 Nearest row 2, as far as it goes: an erasure's smell at the sign-off and no warmth in that scene, without the words ozone or cold. It names no Landauer trace and no Kap 6 or Kap 36, so row 1's warmth is neither held nor denied; the conflict stays open.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**Heat as the cost of every erasure, and heat, ozone and sweat as one sensory filter — the spike in Vortex Beat 4, a warm Kael against a cool AEGIS in one bridge cue, no chapter for either.**
+„Jeder Akt der Kontrolle erzeugt die Entropie, die er bekämpft (Landauer-Hitze)." ^[dual-storyform-hintergruende-md.md:L82] Its glossary: „Landauer-Hitze — die Wärme, die jede Bit-Löschung minimal erzeugt." ^[dual-storyform-hintergruende-md.md:L483] „Im Roman *spürbar*, nie als Gleichung." ^[dual-storyform-hintergruende-md.md:L483] „Sensorischer Filter: Hitze, Ozon, Schweiß." ^[dual-storyform-hintergruende-md.md:L483]
+Beat 4 of the Vortex, „(Landauer→∞)" ^[dual-storyform-hintergruende-md.md:L359]: „B versucht Action-Mandat zu vollenden, thermodynamische Kosten manifestieren" ^[dual-storyform-hintergruende-md.md:L359]; the recommended Genesis reveal „Macht Beat 4 (Heat-Spike) zu einem operativen Punkt, nicht nur thermischem Bild." ^[dual-storyform-hintergruende-md.md:L368]
+The status report's micro-cue for bridge scenes, in its words: „Kaels warme Kontemplation kippt für einen Atemzug in AEGIS-Kühle und zurück." ^[dual-storyform-hintergruende-md.md:L318] And ozone as a candidate image for the Ouroboros, an open research question it restates from the Reset-Doc: „Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel." ^[dual-storyform-hintergruende-md.md:L421]
+`Kap 6`, `Kap 36` and `kalt` stand 0 times; `Wärme` once, in the glossary line; no warmth is Juna's. The Vortex is „Vortex (Kap 35–36)." ^[dual-storyform-hintergruende-md.md:L310]
+The master report's and the worldbuilding concept's side, on their date: heat and ozone one Landauer rendering of AEGIS' erasure, the spike in Beat 4 — three weeks before the lock of 2026-05-30. Row 1's Kap-6 and Kap-36 warmth are neither held nor denied; the conflict stays open.
