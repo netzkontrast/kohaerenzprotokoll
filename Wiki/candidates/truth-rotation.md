@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-25"
 ---
 
@@ -92,6 +92,14 @@ Its ground is the Klein symmetry between the storyforms: „Das ist der mathemat
 It completes in the Vortex's fifth beat, `Rotation` (J90): „B's operative Closure zerbricht, A bleibt allein“ ^[dual-storyform-hintergruende-md.md:L360]. And it has an inner mirror, [[oblivion|Oblivion]] taking AEGIS' function in Kael's system: „Das ist die Innen-Spiegelung der Truth-Rotation und passt zu Oblivions Akt-III-Arc (Entscheidung).“ ^[dual-storyform-hintergruende-md.md:L372] — stated in §5, and listed in §7 among the Reset-Doc's recommendations (its L428).
 The inversion under it goes by another name, the „DKT-Kernparadoxon“ ^[dual-storyform-hintergruende-md.md:L78]: „*AEGIS glaubt K1 (Kohärenz-Wächter) zu sein. Es ist tatsächlich K0 (Kollaps-Operator).“ ^[dual-storyform-hintergruende-md.md:L82] „Storyform A ist die Lesart, in der das Paradoxon sichtbar wird.“ ^[dual-storyform-hintergruende-md.md:L86] It does not write `große Inversion`, and does not write Kael as K1 (0 and 0, `05-verify-readers.txt`).
 
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — the inversion itself, carried out over the course of the novel, with a second inversion under it
+
+A section under the name, „Die Truth-Rotation — der Roman als Argument" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L206]: the novel takes the two theories of truth as physical domains and „vollzieht dann eine *Inversion*, die der eigentliche philosophische Coup ist" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L208]. The theories are set out first „weil ohne sie die Truth-Rotation des Romans nicht greift." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L142]
+The first, surface reading: „AEGIS gibt sich selbst als Hüter der Kohärenz aus" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L216], and „Kael, mit seinen Rissen, traumatischen Echos, Phantom-Resonanzen, ist der Einbruch der Korrespondenz" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L217]. „Diese Lesart ist *nicht falsch* — sie ist die Selbstwahrnehmung der Akteure." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L221] „Aber sie wird im Verlauf des Romans systematisch invertiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L221]
+What it calls canonised: „Die kanonisierte Truth-Rotation hält fest:" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L221] „AEGIS' beanspruchte Kohärenz ist tatsächlich der wahre Kollaps-Kernel (K₀)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L225] „Kaels Trauma-Zyklen sind der wahre Kohärenz-Kernel (K₁)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L225] The reason is the heat of suppression, and of Kael: „Kaels Trauma-Loops dagegen, vom System als chaotische Erasure gelesen, sind tatsächlich Coheronen" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L229].
+Under it a second inversion, of the theories rather than the kernels: „Damit fällt eine zweite, tiefere Pointe: AEGIS, das sich philosophisch als Kohärentist versteht, *operiert* in Wahrheit als korrespondenztheoretische Polizei." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L233] The double failure „ist der Mechanismus der tragischen Ironie, die das gesamte Konstrukt trägt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L233]
+So here the name is the inversion itself, as in the master report, and it happens over the course of the novel, not at a moment. The name never stands at the Vortex: of its four lines, the fourth is a source title in the appendix, „Phönix-Mode mit Truth-Rotation-Verdict" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L812]. The Vortex's fifth beat is „Rotation → Algorithm.Melancholy" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L623], the beat (J90). It does not write `große Inversion` (`Truth-Rotation` 4, `große Inversion` 0, `05-verify-readers.txt`).
+
 ## Where the sources differ
 
 **What the name names.** The master report heads its section on the inversion
@@ -107,6 +115,11 @@ heads the inversion, and the inversion is the source of the turn (its L65, L86, 
 The Dual-Storyform background document, of the same date, names by it the turn at the
 Vortex from B's reading to A's (its L56, L488), grounds it in the Klein symmetry as the
 Dramatica lock-in does (L126), and calls the inversion the DKT-Kernparadoxon (L78, L82).
+The philosophischer Bericht, of the same date, stands with the master report: it heads its
+section on the inversion with the name (its L206), calls it `kanonisierte` (L221), and has the
+reading inverted over the course of the novel (L221), never naming the Vortex as where it
+turns. It adds a second inversion under the first, AEGIS the self-declared coherentist
+operating as correspondence police (L233).
 
 **What holds, they agree on**: AEGIS = K₀ in every reading, and [[kael|Kael]] = K₁ in every
 reading but the Dual-Storyform background document's, which writes AEGIS as K0 (its L82)
