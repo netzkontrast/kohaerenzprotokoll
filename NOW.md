@@ -212,6 +212,14 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
+- **May a Jules session work on this repository?** `scripts/jules.py` and the
+  `jules` skill were ported from `netzkontrast/agency` on 2026-09-26, at your
+  request. A session is Google's agent working on a clone of the whole
+  repository, `Sources/` included, so `dispatch` refuses without `--approval`
+  naming your decision, and none has been given. No session has been dispatched;
+  the read-only commands ran against the live API. Also yours: whether a session
+  may touch `Wiki/` at all, or only `scripts/` and `Plan/`.
+
 - **Two sessions are reading the same documents.** Documents 16 and 17 were each
   read twice on 2026-09-25, in the same order, because both handovers named the
   same next document. Main took one session's readings; the second readings

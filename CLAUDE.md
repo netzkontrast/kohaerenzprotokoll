@@ -1178,6 +1178,24 @@ inside the venv. **Nothing calls it.**
 that keep the rules (`manual_ingest` and `search(only_context=True)`), and the
 experiment that would decide whether it earns a place.
 
+**Jules** is Google's remote coding agent: a session clones a GitHub repository
+into a VM, plans, edits and publishes a branch. `scripts/jules.py` spawns and
+drives one, standard-library, ported on 2026-09-26 from `netzkontrast/agency` —
+the REST client, the dispatch preamble and its tool lint, `verify`, and the
+watcher's reading of a state as `triage`; `.agents/skills/jules` says how to use
+it, with agency's doctrine, and `references/agency.md` maps each piece to its
+source. The watcher's loop and the patch-recovery planner were not ported. The
+key is `JULES_API_KEY` in the environment's settings. **Three refusals are
+code**: `dispatch` and `message` refuse without `--approval` naming the author's
+decision, because a session is the whole repository, corpus included, on
+Google's machines; `dispatch` refuses a prompt that does not name `submit` and
+the other canonical tools; and `verify` reads COMPLETED as done only when
+`git ls-remote` finds the branch. Every effect is a line in
+`Plan/runs/jules/ledger.jsonl`. The reads were run against the live API from a
+cloud session on 2026-09-26 — this repository is a connected source, `triage`
+read a finished session in under four seconds — and **no session has been
+dispatched from here.**
+
 ## Calling a model — the DSPy toolchain
 
 Built 2026-09-23 from nine DSPy repositories read against this one
