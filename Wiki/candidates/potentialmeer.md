@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
 gathered: "2026-09-17"
 ---
 
@@ -77,3 +77,13 @@ What arrives is, later in the same movement, the Entität: „Die Entität strah
 ## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — where the Genesis begins
 
 Once (`Potentialmeer` 1, `Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify-readers.txt`), in the Genesis' first beat: „Im Potentialmeer existiert ein Ursprungs-Ich mit minimalem Selbsterleben." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178] „Es ist offen, fühlt, ist eingebunden in das, was später Nichts-Rauschen genannt wird." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L178] The first sentence is the konsolidiertes Konzept's (its L71). It is not defined.
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — in English, the `Potential Sea` around the `Coherence Island`, which the Risse let in
+
+An English analysis that calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11] — recorded, not applied. It never writes `Potentialmeer` (0, `05-verify.txt`); it writes the English `Potential Sea`, on four lines (`05-verify-readers.txt`). The name is placed here by the sentence (J100): an expanse of unrealised states surrounding the classical world is what the Kap-0 drafts above call the Potentialmeer, a substrate of infinite states. The English name is not a surface of this page.
+
+The world's dichotomy, in its opening: „the tension between the  **Coherence Island**  (a localized zone of integrated complexity and classical reality) and the surrounding  **Potential Sea**  (a vast expanse of quantum superposition and chaotic entropy)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L15]. The Risse are where it breaks in: „They represent points where the "Potential Sea" intrudes upon the "Coherence Island," forcing the collapse of classical reality back into a state of uncalculated potential." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L15]
+Juna's warmth reaches toward it, in a seed (a proposal): „This resonance acts as a sensory bridge to the "Potential Sea," challenging Kael's reliance on AEGIS's "Coherence Island."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L60]
+The Vortex ends in it, at its fifth point, `Pivot to A`: „The "Memory" story (A) begins as the light of the Vortex fades into the "Potential Sea."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L128]
+And an alter carries it, Isabelle's somatic seed: „Pressure in the chest, representing the weight of the "Potential Sea."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L137]
+No Ursprungs-Ich stands in it (0), and no Genesis beat: `Genesis` only in `Genesis Crisis`, which is not the Genesis (J76–J78).

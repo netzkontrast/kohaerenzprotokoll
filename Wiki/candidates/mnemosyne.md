@@ -1,17 +1,17 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
 gathered: "2026-09-17"
 ---
 
 # Mnemosyne
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Seventeen other read documents name Mnemosyne — the readings below, the philosophischer Bericht's the latest (it moved this count from sixteen, as the Dual-Storyform background document's had from fifteen and the philosophy catalogue's from fourteen). (Until that reading this lead said nothing else read named Mnemosyne at all, which the second reading on this page had already made false.)
+the same nine fields. Eighteen other read documents name Mnemosyne — the readings below, the Systems Narrative Analysis's the latest (it moved this count from seventeen, as the philosophischer Bericht's had from sixteen, the Dual-Storyform background document's from fifteen and the philosophy catalogue's from fourteen). (Until that reading this lead said nothing else read named Mnemosyne at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -229,3 +229,11 @@ It dates its canon apart from itself and ranks its sources above itself; both ar
 **A school of truth applied to her**, from its brief list of positions: deflationism, „Im Roman ein Schatten in Mnemosynes Operationen — die Wächterin notiert, ohne zu werten." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L203]
 Told from outside, with the Guardians: „AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507]
 The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — an interface through which AEGIS handles memory, never called a Guardian
+
+An English analysis that calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11] — recorded, not applied. Its seeds are proposals, each under `Lever:`.
+Twice (`grep -cw Mnemosyne` 2), and both times as an interface; the compound states her role (J70).
+In Kael's throughline of Storyform A, „MC-A: Kael / Memory (Storyform A)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L26], Seed-02 „The Mnemosyne Interface Failure" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L33]: „While accessing standard work data, Kael triggers a visual fragment of a "forgotten schrein."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L35] „This represents his inability to maintain "Avoidance," as the internal memory substrate bypasses AEGIS's categorization." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L35] What fails at the interface is AEGIS' categorising; the memory goes around it.
+In Kael's throughline as Impact Character of Storyform B, „IC-B: Kael as a Fixed Idea" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L65], Seed-10, „Focus:**  Mnemosyne Interface" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L73]: „The system detects a memory of Juna and initiates a  **"Zensur-Loop"**  for the purpose of  **"Abgrenzung" (Source: Plot-Exploration Concept 2)** ." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L74] „This attempt to wall off the memory creates a "System-Riss" as the "Fixed Idea" gains mass with every attempt at erasure, warping the simulation geometry." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L74]
+So Mnemosyne is where the system detects, censors and fails to sort memory — not a figure: no voice, domain, temptation or world of her own. It never calls her a Guardian (`Guardian` 0; `Guardians` once, unnamed, L82) and never writes `Archipel` (0; `05-verify-readers.txt`), so no archipelago is its Vortex's setting: the Vortex, in `Ch35-36`, puts Kael where „KW1 (Logic) and KW2 (Emotion) occupy the same space-time coordinates" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L126]. The author decided C6 for five on 2026-09-24; this document counts none (C6, Q5).

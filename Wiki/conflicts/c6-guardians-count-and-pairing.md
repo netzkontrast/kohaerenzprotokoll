@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 19
+sources: 20
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -233,3 +233,12 @@ The entry above was written by the Jules session (decision 014) before this docu
 „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296]: „**Mnemosyne** (Memory-Keeper, Klimax-Setting)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] and „**ein Lösch-Pol** (Identität noch offen, Forschungsfrage)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296]. `Erasure-Pol` and `absorbiert` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`): it says of none of the earlier four where they went.
 The pairing: „die Kernwelten sind **Akt-Marker**, *nicht* je-ein-Guardian und *nicht* literale Geographie" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] — and the programmes are placed in one world, KW3: „Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] No bearer's name is on any world.
 Row 3's side, two and no pairing. The author's decision for five (2026-09-24) stands; what the document says of earlier phases and of the current canon is its claim, recorded and not applied.
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**No count, no name, no pairing: `Guardians` once, in the plural, as antibodies at work in KW1; Mnemosyne and LogOS only as interfaces of AEGIS, never called Guardians.**
+It calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11]; recorded, not applied.
+„Guardians act as antibodies, redirecting Kael away from the "unproductive" reflection found in the shadows of KW2." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L82] — in Seed-11, „The Architecture of Paranoia (KW1)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L80].
+Mnemosyne as „Focus:**  Mnemosyne Interface" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L73]; LogOS as „AEGIS uses the LogOS interface to convince Kael that the "Risse" are his own "Logic Errors."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L116]
+`Guardian` 0, `Guardians` 1; `Cerberus`, `Kairos`, `Sophia`, `Erasure-Pol`, `Lösch-Pol` and `absorbed` 0 (`05-verify.txt`, `05-verify-readers.txt`). No reduction is told and no earlier drafts are named.
+On no row by count, and it states no pairing — the Guardians act in one world against another, and no world carries a bearer's name. It keeps LogOS in use, where the konsolidiertes Konzept, the master report and the worldbuilding concept of its date name it among the old five or absorbed. The author's decision for five (2026-09-24) stands.

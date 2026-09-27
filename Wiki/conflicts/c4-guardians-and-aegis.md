@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 16
+sources: 17
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -264,3 +264,12 @@ Its opening line is not borne out: position 1's bearer is stated, in substance (
 And by Chaitin: „AEGIS' Versuch, Juna zu modellieren, scheitert nicht, weil sie unsichtbar ist, sondern weil ihre Kolmogorov-Komplexität die systemeigene Beweisbarkeitsgrenze AEGIS' überschreitet." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L339]
 Of the two [[guardians|Guardians]] left, [[mnemosyne|Mnemosyne]] has a way of working, not a limit: „Im Roman ein Schatten in Mnemosynes Operationen — die Wächterin notiert, ohne zu werten." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L203] The Lösch-Pol's identity is open (L296). `blind` and `Fleck` stand 0 times (`05-verify-readers.txt`).
 Position 1's bearer, categorical and argued from closure, as in the konsolidiertes Konzept; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**AEGIS' failure, categorical — what lies outside its axioms and logic gates — and no limit given to a Guardian.**
+It calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11]; recorded, not applied. Its seeds are proposals.
+„It is a "tragically limited" architect attempting to maintain coherence through erasure." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42] „Its failure to process  **Resonance**  over  **Entropy**  makes it an accidental antagonist." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42] „The system's inability to calculate the value of "Resonance" triggers the Genesis Crisis, embodied by the non-physical influence of Juna." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L52]
+What it cannot reach: Juna, „Her existence is an "Ontological Exploit" bypassing AEGIS's firewalls." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L56]; and [[kael|Kael]], „Within AEGIS's architecture, Kael is a logic error—a  **"Gödel Sentence"**  the system recognizes but cannot prove or contain." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L67]
+The Guardians have a function, not a limit: „Guardians act as antibodies, redirecting Kael away from the "unproductive" reflection found in the shadows of KW2." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L82] Mnemosyne and [[logos|LogOS]] are interfaces AEGIS works through (L33, L70, L73, L116); what fails at the Mnemosyne interface is AEGIS' own sorting, „as the internal memory substrate bypasses AEGIS's categorization" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L35]. `blind` stands 0 times (`05-verify-readers.txt`).
+Position 1's bearer, categorical, as in the konsolidiertes Konzept and the philosophischer Bericht; nothing for position 2. The conflict stays open.
