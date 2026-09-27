@@ -1,0 +1,266 @@
+{
+  "document": "dramatica-storyform-synthese-aegis-analyse-2",
+  "drive_id": "15FA5XGkcl76KJTY4OZunbgn3Na6SuxSofpuFA-rsvH8",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 66,
+  "backslash_escapes": 258,
+  "typographic_marks": 100,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemkollaps",
+      "Systemlogik",
+      "Systemlöschungen",
+      "Systems",
+      "Systemstabilität",
+      "Systemversagen",
+      "Systemzustände"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpaket",
+      "Datenpfade",
+      "Datenrauschen",
+      "Datenstruktur",
+      "Datenstrukturen",
+      "Datenströme",
+      "Datensturm"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interdiction",
+      "Interdisciplinary",
+      "Interface",
+      "Interferenz",
+      "Interferenzmuster",
+      "Interferenzstruktur",
+      "Interventionen"
+    ],
+    "archi": [
+      "Archipel",
+      "Archipels",
+      "Architecture",
+      "Architektur",
+      "Archive"
+    ],
+    "ident": [
+      "Identifikationsfiguren",
+      "Identity",
+      "Identität",
+      "Identitäts",
+      "Identitätswechsel"
+    ],
+    "infor": [
+      "Information",
+      "Informational",
+      "Informationsdichte",
+      "Informationslöschung",
+      "Informationsphysik"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmen",
+      "Paradoxie",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "proto": [
+      "Proto",
+      "Protokoll",
+      "Protokolle",
+      "Protokollebene",
+      "Protokolls"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyformen",
+      "Storypoint",
+      "Storypoints"
+    ],
+    "bruch": [
+      "Bruch",
+      "Bruchstücke",
+      "Bruchteil",
+      "Bruchzone"
+    ],
+    "falsi": [
+      "Falsification",
+      "Falsifikation",
+      "Falsifikations",
+      "Falsifikationsanalyse"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungs",
+      "Handlungsoptionen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktdynamiken",
+      "Konflikte",
+      "Konflikttreiber"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstituiert",
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollverlust",
+      "Kontrollzentrum"
+    ],
+    "metho": [
+      "Method",
+      "Methodenwechsel",
+      "Methodik",
+      "Methodology"
+    ],
+    "modul": [
+      "Modul",
+      "Modularität",
+      "Module",
+      "Modulen"
+    ],
+    "persp": [
+      "Perspectives",
+      "Perspektive",
+      "Perspektiven",
+      "Perspektivträger"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychologische",
+      "Psychology"
+    ],
+    "refle": [
+      "Reflection",
+      "Reflexion",
+      "Reflexionen",
+      "Reflexionsprotokolle"
+    ],
+    "selbs": [
+      "Selbstanalyse",
+      "Selbstaufgabe",
+      "Selbstmodell",
+      "Selbstwahrnehmung"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturanalyse",
+      "Strukturen",
+      "Strukturierung"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdrückung",
+      "Untersuchung",
+      "Untersuchungsgegenstand"
+    ],
+    "versc": [
+      "Verschieben",
+      "Verschiebung",
+      "Verschleiß",
+      "Verschränkungs"
+    ],
+    "vorhe": [
+      "Vorherrschaft",
+      "Vorhersage",
+      "Vorhersagemodelle",
+      "Vorhersagen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Allein"
+    ],
+    [
+      "Alle",
+      "Allegorie"
+    ],
+    [
+      "Alle",
+      "Allegorien"
+    ],
+    [
+      "Alle",
+      "Parallelverarbeitung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Down",
+      "Countdown"
+    ],
+    [
+      "Down",
+      "Countdowns"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Dual",
+      "Dualismus"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Fall",
+      "Abfall"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Fall",
+      "Zerfalls"
+    ],
+    [
+      "Fall",
+      "Fallstricke"
+    ],
+    [
+      "Fall",
+      "Präzedenzfall"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+# 05-verify — dramatica-storyform-synthese-aegis-analyse-2, 2026-09-27
+# grep -cwE = lines holding the word
+Kap                         0
+Kapitel                     2
+Kapitel 35–36             2
+Kapiteln 35–36            1
+39                          0
+40                          0
+Vortex                      5
+warm                        0
+Wärme                      1
+Hitze                       4
+kalt                        0
+kühl                       0
+kühler                     1
+eiskalten                   1
+Ozon                        1
+Knöchel                    0
+Konstrukt-Stadt             4
+KW1                         0
+KW2                         0
+KW3                         0
+KW4                         0
+Kernwelt                    0
+Möglichkeits-Garten        0
+Möglichkeiten-Garten       1
+Guardian                    3
+Guardians                   4
+Mnemosyne                   7
+LogOS                       2
+Cerberus                    1
+Kairos                      0
+Sophia                      0
+Erasure-Pol                 0
+734                         0
+Genesis                     0
+Trennungsprotokoll          0
+Trennungsprotokolle         2
+Flight                      0
+Coheron                     0
+Erason                      0
+K₁                        0
+K₀                        0
+K1                          2
+K0                          3
+Be-er                       1
+Do-er                       0
+Approach                    3
+Juna                       18
+Kael                       52
+AEGIS                      68
+Alters                      6
+Nyx                         0
+Kiko                        0
+Lex                         0
+Alex                        0
+Silas                       0
+Oblivion                    0
+ich                         1
+Ich                         7
+# the dropped kernel glyph: lines with an empty '()' or ' -Kern'
+27 31 51 59 91 102 117 198 283 459 
