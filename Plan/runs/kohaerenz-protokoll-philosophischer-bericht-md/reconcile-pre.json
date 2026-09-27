@@ -55,212 +55,213 @@
   "decided_mechanically": 329,
   "needs_judgement": 141,
   "buckets": {
-    "already_there": [],
-    "new_reading": [
+    "already_there": [
       {
         "candidate": "DKT",
         "page": "dkt",
-        "readings": 10
+        "readings": 11
       },
       {
         "candidate": "Kernwelten",
         "page": "kern-welten",
-        "readings": 23
+        "readings": 24
       },
       {
         "candidate": "Algorithmische Melancholie",
         "page": "algorithmische-melancholie",
-        "readings": 16
+        "readings": 17
       },
       {
         "candidate": "Coheron",
         "page": "coheron",
-        "readings": 15
+        "readings": 16
       },
       {
         "candidate": "Kael",
         "page": "kael",
-        "readings": 25
+        "readings": 26
       },
       {
         "candidate": "Juna",
         "page": "juna",
-        "readings": 24
+        "readings": 25
       },
       {
         "candidate": "AEGIS",
         "page": "aegis",
-        "readings": 28
+        "readings": 29
       },
       {
         "candidate": "Ouroboros-Struktur",
         "page": "ouroboros-struktur",
-        "readings": 16
+        "readings": 17
       },
       {
         "candidate": "Konstrukt-Stadt",
         "page": "konstrukt-stadt",
-        "readings": 16
+        "readings": 17
       },
       {
         "candidate": "Risse",
         "page": "risse",
-        "readings": 20
+        "readings": 21
       },
       {
         "candidate": "Kohärenz-Kernel",
         "page": "kohaerenz-kernel",
-        "readings": 5
+        "readings": 6
       },
       {
         "candidate": "Kollaps-Kernel",
         "page": "kollaps-kernel",
-        "readings": 4
+        "readings": 5
       },
       {
         "candidate": "Erason",
         "page": "erason",
-        "readings": 7
+        "readings": 8
       },
       {
         "candidate": "Persistenzgleichung",
         "page": "persistenzgleichung",
-        "readings": 6
+        "readings": 7
       },
       {
         "candidate": "Vortex",
         "page": "vortex",
-        "readings": 19
+        "readings": 20
       },
       {
         "candidate": "Nichts-Rauschen",
         "page": "nichts-rauschen",
-        "readings": 17
+        "readings": 18
       },
       {
         "candidate": "Telefon-Stille",
         "page": "telefon-stille",
-        "readings": 19
+        "readings": 20
       },
       {
         "candidate": "Mnemosyne",
         "page": "mnemosyne",
-        "readings": 17
+        "readings": 18
       },
       {
         "candidate": "Truth-Rotation",
         "page": "truth-rotation",
-        "readings": 10
+        "readings": 11
       },
       {
         "candidate": "Guardians",
         "page": "guardians",
-        "readings": 22
+        "readings": 23
       },
       {
         "candidate": "LogOS",
         "page": "logos",
-        "readings": 13
+        "readings": 14
       },
       {
         "candidate": "Cerberus",
         "page": "cerberus",
-        "readings": 13
+        "readings": 14
       },
       {
         "candidate": "Kairos",
         "page": "kairos",
-        "readings": 11
+        "readings": 12
       },
       {
         "candidate": "Sophia",
         "page": "sophia",
-        "readings": 9
-      },
-      {
-        "candidate": "Chaitin-Konstante",
-        "page": "chaitin-konstante",
-        "readings": 8
+        "readings": 10
       },
       {
         "candidate": "Silas",
         "page": "silas",
-        "readings": 19
+        "readings": 20
       },
       {
         "candidate": "Oblivion",
         "page": "oblivion",
-        "readings": 19
+        "readings": 20
       },
       {
         "candidate": "Überwelt",
         "page": "ueberwelt",
-        "readings": 16
+        "readings": 17
       },
       {
         "candidate": "Nexus",
         "page": "nexus",
-        "readings": 8
+        "readings": 9
       },
       {
         "candidate": "Lex",
         "page": "lex",
-        "readings": 19
+        "readings": 20
       },
       {
         "candidate": "Alex",
         "page": "alex",
-        "readings": 16
+        "readings": 17
       },
       {
         "candidate": "Rhys",
         "page": "rhys",
-        "readings": 13
+        "readings": 14
       },
       {
         "candidate": "Selene",
         "page": "selene",
-        "readings": 15
+        "readings": 16
       },
       {
         "candidate": "Nyx",
         "page": "nyx",
-        "readings": 18
+        "readings": 19
       },
       {
         "candidate": "Kiko",
         "page": "kiko",
-        "readings": 17
+        "readings": 18
       },
       {
         "candidate": "Lia",
         "page": "lia",
-        "readings": 15
+        "readings": 16
       },
       {
         "candidate": "Isabelle",
         "page": "isabelle",
-        "readings": 14
+        "readings": 15
       },
       {
         "candidate": "Moros",
         "page": "moros",
-        "readings": 16
+        "readings": 17
       },
       {
         "candidate": "Argus",
         "page": "argus",
-        "readings": 15
+        "readings": 16
       },
       {
         "candidate": "Cache-Kohärenz",
         "page": "cache-kohaerenz",
-        "readings": 1
+        "readings": 2
       },
       {
         "candidate": "Funktionale Multiplizität",
         "page": "multiplizitaet",
-        "readings": 20
+        "readings": 21
+      }
+    ],
+    "new_reading": [
+      {
+        "candidate": "Chaitin-Konstante",
+        "page": "chaitin-konstante",
+        "readings": 8
       }
     ],
     "new_term": [
@@ -2090,31 +2091,31 @@
       "page": "atemporalitaet",
       "surface": "Atemporalität",
       "line": 782,
-      "already_read": false
+      "already_read": true
     },
     {
       "page": "entropie",
       "surface": "Entropie",
       "line": 49,
-      "already_read": false
+      "already_read": true
     },
     {
       "page": "genesis",
       "surface": "Genesis",
       "line": 264,
-      "already_read": false
+      "already_read": true
     },
     {
       "page": "kohaerenz",
       "surface": "Kohärenz",
       "line": 11,
-      "already_read": false
+      "already_read": true
     },
     {
       "page": "kollaps-kernel",
       "surface": "Kollaps-Kernel (K₀)",
       "line": 75,
-      "already_read": false
+      "already_read": true
     }
   ],
   "index_gaps_may_hide_matches": true,

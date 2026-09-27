@@ -115,5 +115,5 @@ What it cannot place, it misreads: „AEGIS interpretiert ihren Einbruch als *Ni
 „Was strukturell unsichtbar ist, ist nicht abwesend, sondern blockiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]
 Two further reasons come with Juna's own properties. As zero-knowledge verifier: „Das ist die kryptographische Erklärung dafür, warum AEGIS Juna nicht analysieren kann: sie verifiziert *ohne* Daten zu transferieren." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L322]
 As Chaitin's Ω: „AEGIS' Versuch, Juna zu modellieren, scheitert nicht, weil sie unsichtbar ist, sondern weil ihre Kolmogorov-Komplexität die systemeigene Beweisbarkeitsgrenze AEGIS' überschreitet." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L339]
-So on L262 Juna is what is structurally invisible, and on L339 invisibility is not why the model fails; the document does not relate the two.
-What stays closed to AEGIS after the Vortex is the qualia (L737). What it cannot see here is a being, Juna — not the bond between two people, nor the resonance inside it. No Guardian is given a blind spot (C4).
+So on L262 [[juna|Juna]] is what is structurally invisible, and on L339 invisibility is not why the model fails; the document does not relate the two.
+What stays closed to AEGIS after the [[vortex|Vortex]] is the qualia (L737). What it cannot see here is a being, Juna — not the bond between two people, nor the resonance inside it. No Guardian is given a blind spot (C4).

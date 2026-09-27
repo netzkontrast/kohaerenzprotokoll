@@ -114,4 +114,4 @@ A theory report — „Dieses Dokument ist Synthese, nicht Pitch." ^[kohaerenz-p
 
 One occurrence, in KW3's heading beside the [[ueberwelt|Überwelt]]: „KW3 — Überwelt / Nexus (Quanten-Information)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L437]. The slash names two pages and merges nothing (J103); it is not the compound `Überwelt-Nexus` (0, `05-verify-readers.txt`; J63).
 What that world is: „Der „Maschinenraum hinter dem Rendering"." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] „Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] — its word for the Guardians of the earlier phases (L296). The 2025 document, too, has its Guardians take a form in the Nexus; nothing in either says the two are one space.
-So a world here, not a place in KW4 and not a passage to the Externe Ebene, as in the worldbuilding concept of the same date. `Überraum` stands 0 times.
+So a world here, not a place in KW4 and not a passage to the [[externe-ebene|Externe Ebene]], as in the worldbuilding concept of the same date. `Überraum` stands 0 times.

@@ -144,7 +144,7 @@ This document explicitly frames entropy not as what AEGIS defends against but as
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
 
 The entry above was written by the Jules session (decision 014) before this document had a census; this is the reconciliation's.
-Its two quotations hold; its last sentence goes further than the document, which also keeps sense 1 as AEGIS' own reading of Juna (L262).
+Its two quotations hold; its last sentence goes further than the document, which also keeps sense 1 as AEGIS' own reading of [[juna|Juna]] (L262).
 **The third sense — AEGIS is K₀ and generates the entropy it claims to fight — with K₀ as entropy's principle, and sense 1 as what AEGIS takes Juna for.**
 „**AEGIS glaubt, K₁ zu sein. AEGIS** ***ist*** **K₀.**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L130] „Tatsächlich ist sie der primäre Erzeuger der Entropie in der Welt des Romans." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L134]
 K₀: „**Der Kollaps-Kernel (K₀)** ist das Prinzip der Entropie, der Informationsauslöschung und der irreversiblen Berechnung." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Wer löscht, schafft Zeit." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] Its pressure „ist nicht bloße Zerstörung, sondern der evolutionäre Filter" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L98] — near the glossary's fourth sense, the condition of events, said of the Erasonen and of K₀.

@@ -1,0 +1,216 @@
+guardians: grep -cw 'Erasure-Pol' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+guardians: grep -cw 'absorbiert' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+guardians: grep -cw 'Guardian' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+guardians: grep -cw 'Guardians' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+guardians: grep -cw 'Wächterprogramme' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+guardians: grep -cw 'Lösch-Pol' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+guardians: grep -cw 'RIVE' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+mnemosyne: grep -c 'KW2.*Mnemosyne\|Mnemosyne.*KW2' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+mnemosyne: grep -cw 'Mnemosyne' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+mnemosyne: grep -cw 'Mnemosyne-Archipel' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+mnemosyne: grep -cw 'Wächterin' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+logos: grep -cw 'LogOS' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+logos: grep -cw 'Logos-Prime' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+logos: grep -cw 'absorbiert' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+cerberus: grep -cw 'Cerberus' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+cerberus: grep -cw 'Cerberus-Labyrinth' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+cerberus: grep -cw 'Grenzfeste' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+cerberus: grep -cw 'absorbiert' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kairos: grep -cw 'Kairos' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+kairos: grep -cw 'Kairos-Potentialis' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kairos: grep -cw 'Möglichkeits-Garten' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kairos: grep -cw 'absorbiert' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+sophia: grep -cw 'Sophia' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+sophia: grep -cw 'absorbiert' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+sophia: grep -cw 'latent' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'ANI' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'ARS' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'ECR' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'PMS' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'RSA' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'SNK' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'ZTV' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'Nullpunkt' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'Suppressionsprotokoll' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'Re-Containment' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q2: grep -cw 'zwölf' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q5: grep -cw 'Kernwelt' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q5: grep -cw 'Erasure-Pol' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q5: grep -cw 'Mnemosyne-Archipel' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+truth-rotation: grep -cw 'Truth-Rotation' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 4; grep -ciw 'große Inversion' -> 0
+genesis: grep -cw 'Einheit' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+genesis: grep -cw 'Trennungsprotokoll' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+genesis: grep -cw 'Komponente' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+genesis: grep -cw 'Ursprungs-Ich' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+genesis: grep -cw 'Wir-AEGIS-plural' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+genesis: grep -cw 'Primärdirektive' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+genesis: grep -cw 'Erinnerungs-Versiegelung' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+genesis: grep -cw 'Kap' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+genesis: grep -cw 'Flashback' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+genesis: sed -n 264,280p Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md | grep -cw 'Juna' -> 0
+trennungsprotokoll: grep -cw 'Separation Protocol' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+trennungsprotokoll: grep -cw 'Trennungsprotokoll' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+trennungsprotokoll: grep -cw 'Fragmentierungsnacht' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+trennungsprotokoll: sed -n 264,280p Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md | grep -cw 'Juna' -> 0
+komponente-734: grep -cw '734' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+komponente-734: grep -cw 'Component 734' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+komponente-734: grep -cw 'Komponente' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+komponente-734: grep -cw 'Restgröße' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+komponente-734: grep -cw 'übrig' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+komponente-734: grep -cw 'Wohneinheit' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+komponente-734: grep -cw 'Archivar' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+komponente-734: grep -cw 'Kap' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c3-emergenz-origin: grep -cw 'Emergenz' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c3-emergenz-origin: grep -cw 'emergent' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c3-emergenz-origin: grep -cw 'Leere' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+c3-emergenz-origin: grep -cw 'Abwehrarchitektur' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c12-genesis-beats: grep -cw 'Trennungsprotokoll' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c12-genesis-beats: grep -cw 'Komponente' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c12-genesis-beats: grep -cw 'Restgröße' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c12-genesis-beats: grep -cw 'Wir-AEGIS-plural' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c12-genesis-beats: grep -cw 'Primärdirektive' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c12-genesis-beats: grep -cw 'Erinnerungs-Versiegelung' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c12-genesis-beats: grep -cw 'Kap' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c12-genesis-beats: grep -cw 'Flashback' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+aegis: grep -cw 'Do-er' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+aegis: grep -cw 'Be-er' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+aegis: grep -cw 'Approach' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+aegis: grep -cw 'Kap' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+formel-inversion: grep -cw 'Formel-Inversion' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+formel-inversion: grep -cw 'Wir-AEGIS' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+formel-inversion: grep -cw 'bewahrt' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+formel-inversion: grep -cw 'Kap' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+blinder-fleck: grep -cw 'blind' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+blinder-fleck: grep -cw 'Blindheit' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+blinder-fleck: grep -cw 'Fleck' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+thermodynamischer-phaenomenalismus: grep -cw 'Phänomenalismus' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+thermodynamischer-phaenomenalismus: grep -cw 'Reibung' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+thermodynamischer-phaenomenalismus: grep -cw 'Qualia' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 4
+c1: grep -cw 'Autogenic' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c1: grep -cw 'Generative' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c14: grep -cw 'Kap' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c14: grep -cw 'Hard-B' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c14: grep -cw 'Innensicht' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 3
+c14: grep -cw 'ich' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c14: grep -cw 'Ich' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+c4: grep -cw 'blind' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c4: grep -cw 'Fleck' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q1: grep -cw 'Komponente' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q1: grep -cw 'Erasure-Pol' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+ouroboros-struktur: grep -cw 'Ouroboros' -> 2; grep -cw 'Kap' -> 0; grep -cw 'Ch 39' -> 0; grep -cw 'Ch 1' -> 0; grep -cw 'Erstsatz' -> 0
+juna: grep -cw Kap Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+juna: grep -cw Ch Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 3
+juna: grep -ciw Revelation Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+juna: grep -ciE 'wärme|warm' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kael: grep -cw Knöchel Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+silas: grep -w Silas Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md | grep -ciE 'wärme|warm|hitze|heiß|landauer|ozon' -> 0
+oblivion: grep -w Oblivion Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md | grep -ciE 'wärme|warm|hitze|heiß|landauer|ozon' -> 0
+multiplizitaet: grep -cE 'Kap(itel)? ?33|Ch ?33' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+did: grep -cw DID Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+did: grep -cw DIS Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+vermittler-stimme: grep -cw Vermittler Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+vermittler-stimme: grep -cw Vorwort Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+vermittler-stimme: grep -cw Erzähler Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+vermittler-stimme: grep -c Wir-AEGIS Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c7: grep -cw Kap Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c10: grep -cw Knöchel Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+c10: grep -cw Kap Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c15: grep -cw Flight Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c15: grep -ciE 'riss-typ|spatial' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+lex: grep -cw Lex Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+alex: grep -cw Alex Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+rhys: grep -cw Rhys Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+selene: grep -cw Selene Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+nyx: grep -cw Nyx Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+kiko: grep -cw Kiko Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+lia: grep -cw Lia Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+isabelle: grep -cw Isabelle Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+moros: grep -cw Moros Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+argus: grep -cw Argus Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+kiko: grep -cw Flight Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+lia: grep -cw Flight Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+isabelle: grep -cw Flight Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+alters: grep -cw Flight Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+isabelle: grep -cw Pauli-Ausschluss Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+alters: grep -cE 'Index|Nox|Flicker|Limina|Praetor|Sentinel' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q5: grep -cw 'absorbiert' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q5: grep -cw 'latent' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q5: grep -cw 'Logos-Prime' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q5: grep -cw 'Cerberus-Labyrinth' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q5: grep -cw 'Kairos-Potentialis' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q5: grep -c 'KW.*Mnemosyne\|Mnemosyne.*KW' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c6: grep -cw 'Erasure-Pol' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c6: grep -cw 'absorbiert' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+telefon-stille: grep -cw 'Phone-Silence' -> 6; grep -cw 'Telefon-Stille' -> 2; grep -cw 'Vortex-Quelle' -> 1 (L443, KW4); grep -cw 'Kap' -> 0
+kollaps-kernel: grep -cw 'Bedingung für Ereignisse' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kollaps-kernel: grep -cw 'Kollaps-Kernel' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+kohaerenz-kernel: grep -cw 'Kohärenz-Kernel' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+dkt: grep -cw 'Dual-Kernel-Theorie' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 4
+dkt: grep -cw 'DKT' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 8
+nichts-rauschen: grep -cw 'Nichts-Rauschen' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 3
+nichts-rauschen: grep -cw 'Reinform' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+nichts-rauschen: grep -cw 'Chaos' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+nichts-rauschen: grep -cw 'Rauschen' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 4
+atemporalitaet: grep -cw 'temporal' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+atemporalitaet: grep -cw 'temporale' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+atemporalitaet: grep -cw 'temporales' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+atemporalitaet: grep -cw 'Sensorik' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+entropie: grep -cw 'Entropie' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 8
+entropie: grep -cw 'Entropie-Architektur' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+persistenzgleichung: grep -cw 'Persistenzgleichung' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1
+persistenzgleichung: grep -cw 'Reversibilitätskoeffizient' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+persistenzgleichung: grep -cw 'Pufferkapazität' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+persistenzgleichung: grep -cw 'bricht' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+erason: grep -cw 'Erason' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 6
+erason: grep -cw 'Erasonen' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+erason: grep -cw 'Erasion' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+landauer-signatur: grep -cw 'Landauer-Signatur' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+landauer-signatur: grep -cw 'Landauer' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 11
+landauer-signatur: grep -cw 'Hitze' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 10
+landauer-signatur: grep -cw 'Ozon' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 3
+landauer-signatur: grep -cw 'Kap' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'Polarität' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'Hitze-Polarität' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'warm' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'Wärme' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'kalt' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+hitze-polaritaetsregel: grep -cw 'kühl' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'Kälte' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'heiß' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 4
+coheron: grep -cw 'Coheron' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 11
+coheron: grep -cw 'Coheronen' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 5
+kohaerenz: grep -cw 'Kohärenz' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 20
+alters: for n in Index Nox Echo Flicker Limina Praetor Eos Elara Aris Mina Lyra Soren Tariq Nova Sentinel; grep -oP '(?<![\w-])$n(?![\w-])' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md | wc -l -> all 0 but Echo 7 (L186, L202, L379 x2, L666 x2 and one more in the figures; none a name)
+alters: correction to the line above — grep -noP '(?<![\w-])Echo(?![\w-])' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> L186, L202, L355, L379 x2, L666 x2 (7; common noun or split compound, none a name)
+moonshine-link: grep -ciw 'übertragbar' -> 0; grep -cw 'Resonanzkörper' -> 0; grep -n Silas | grep -c Moonshine -> 0; grep -cw 'Moonshine-Link' -> 7
+kern-welten: grep -cw 'Logos-Prime' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kern-welten: grep -cw 'Cerberus-Labyrinth' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kern-welten: grep -cw 'Kairos-Potentialis' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kern-welten: grep -cw 'Möglichkeits-Garten' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kern-welten: grep -cw 'Garten' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kern-welten: grep -cw 'Köln' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kern-welten: grep -cw 'Basisrealität' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kern-welten: grep -cw 'Realitätsebenen' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kern-welten: grep -cw 'Kap' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+algorithmische-melancholie: grep -cw 'Reliquie' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+kern-welten: grep -cw 'Mnemosyne-Archipel' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 2
+q4: grep -cw Wächter Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q3: grep -cw Realitätsebenen Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q3: grep -cw Möglichkeits-Garten Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+q3: sed -n 425,447p Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md | grep -noE 'ANP|EP\b|Alter|Kael|Lex|Alex|Rhys|Selene|Nyx|Kiko|Lia|Isabelle|Moros|Argus|Silas|Oblivion|Juna' -> L439 Kael, L443 Juna
+risse: grep -cw 'Riss-Typ' -> 0; grep -cw 'EP-Trigger' -> 0; grep -cw 'Re-Containment' -> 0; grep -cw 'Riss' -> 0; grep -cw 'Glitch' -> 0; grep -cw 'Glitches' -> 0; grep -cw 'Risse' -> 9; grep -n Risse | grep -ci 'Ozon\|Landauer' -> 3
+konstrukt-stadt: grep -cw 'Logos-Prime' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+nichts-rauschen: grep -cw 'verbannen' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+ueberwelt: grep -cw 'Überwelt' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1; grep -cw 'Simulation' -> 4; grep -cw 'Realitätsebenen' -> 0; grep -cw 'Köln' -> 0
+goedel-gambit: grep -cw 'Gödel-Gambit' -> 0; grep -cw 'Gambit' -> 0; grep -cw 'Gödel-Satz' -> 1; grep -cw 'Gödel-Sentenz' -> 2; grep -n 'Paradox' lines 619-623 -> 0
+nexus: grep -cw 'Nexus' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 1; grep -cw 'Überwelt-Nexus' -> 0; grep -cw 'Überraum' -> 0
+realitaetsebenen: grep -cw 'Realitätsebenen' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0; grep -cw 'Realitätsebene' -> 0; grep -cw 'Externe Ebene' -> 0; grep -cw 'Köln' -> 0; grep -cw 'Basisrealität' -> 0; grep -cw 'sechs' -> 0
+moeglichkeits-garten: grep -cw 'Möglichkeits-Garten' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0; grep -cw 'Garten' -> 0; grep -cw 'Garten der Möglichkeiten' -> 0; grep -cw 'Resonanz-Kontinuum' -> 1; grep -cw 'Kairos-Potentialis' -> 0
+externe-ebene: grep -cw 'Externe Ebene' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0; grep -cw 'Externe' -> 0; grep -cw 'Köln' -> 0; grep -cw 'Basisrealität' -> 0; grep -nw 'externe' -> lines 134 256 443 816 
+drei-ontologische-schichten: grep -cw 'Reinform' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0; grep -cw 'K₀-Existenz' -> 0; grep -cw 'Zeit-Prinzip' -> 0; grep -nw 'Schichten' -> lines 312 330 564 
+c5: grep -cw 'Möglichkeits-Garten' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0; 'Garten' -> 0; 'Garten der Möglichkeiten' -> 0; 'Kairos-Potentialis' -> 0
+c9: grep -cw 'Logos-Prime' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+c13 (not changed): grep -cw 'Köln' Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0; 'Externe Ebene' -> 0; 'Basisrealität' -> 0; 'jenseits der Simulation' -> 0; 'außerhalb der Simulation' -> 0
+vortex: grep -cw 'Vortex 1' -> 0; grep -cw 'Vortex 2' -> 0; grep -cw 'Ch 36' -> 0; grep -cw 'Ch 35' -> 3; grep -ciw 'trügerisch' -> 0; grep -cw 'Resolution' -> 0; grep -cw 'Kapitel-Schnitt' -> 0; grep -cw 'warm' -> 0; grep -cw 'Wärme' -> 0
+tsdp: grep -c erweitert Sources/drive/kohaerenz-protokoll-philosophischer-bericht-md.md -> 0
+plot: grep -cw 'Kap 0' -> 0; grep -cw 'Kap 40' -> 0; grep -cw 'Ch 0' -> 0; grep -cw 'Ch 40' -> 0; grep -cw '34/35' -> 0; grep -cw '35/36' -> 0; grep -cw '36/37' -> 0; grep -cw 'Heldinnenreise' -> 0; grep -cw 'Heldenreise' -> 0; grep -cw 'Zyklus' -> 0; grep -cw 'Kishōtenketsu' -> 0; grep -cw 'Teil' -> 0; grep -cw 'Resolution' -> 0; grep -cw 'Vortex 1' -> 0; grep -cw 'Vortex 2' -> 0; grep -ciw 'trügerisch' -> 0

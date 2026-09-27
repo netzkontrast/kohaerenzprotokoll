@@ -259,7 +259,7 @@ The document talks about Guardians/Wächterprogramme structurally: „In früher
 
 The entry above was written by the Jules session (decision 014) before this document had a census; this is the reconciliation's.
 Its opening line is not borne out: position 1's bearer is stated, in substance (L262), and what the entry quotes about the Wächterprogramme is Q1's subject, not whose blind spot it is.
-**AEGIS' blindness to Juna, from its operational closure — and no limit given to a Guardian.**
+**AEGIS' blindness to [[juna|Juna]], from its operational closure — and no limit given to a Guardian.**
 „Diese strukturelle Geschlossenheit ist der Grund, warum AEGIS Juna nicht *sehen* kann" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262] „Juna existiert außerhalb der axiomatischen Basis, in der AEGIS überhaupt operiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]
 And by Chaitin: „AEGIS' Versuch, Juna zu modellieren, scheitert nicht, weil sie unsichtbar ist, sondern weil ihre Kolmogorov-Komplexität die systemeigene Beweisbarkeitsgrenze AEGIS' überschreitet." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L339]
 Of the two [[guardians|Guardians]] left, [[mnemosyne|Mnemosyne]] has a way of working, not a limit: „Im Roman ein Schatten in Mnemosynes Operationen — die Wächterin notiert, ohne zu werten." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L203] The Lösch-Pol's identity is open (L296). `blind` and `Fleck` stand 0 times (`05-verify-readers.txt`).
