@@ -1,10 +1,10 @@
 ---
 term: Ouroboros-Struktur
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-25"
 ---
 
@@ -64,6 +64,11 @@ Its „Resolution-Doppelpfad:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:
 It derives it from the inversion: „die Ouroboros-Struktur (das Ende kehrt den Anfang um, ohne den Schmerz aufzulösen)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L37] And the ending it closes is none of healing: „Keine Erlösungsgeschichte. Funktionale Multiplizität ist kein Heilwerden. Kael bleibt am Ende dreizehn." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L877]
 Only Kap 1 ↔ Kap 39: it has no Kap 0 and no Kap 40, no Genesis-Klammer, and no Ouroboros the Wir decides to go into (`Kap 0` 0, `Kap 40` 0, `Genesis-Klammer` 0 in `05-verify.txt`; `ins Ouroboros` 0 and `Ouroboros` on L37, L845, L859 only in `05-verify-readers.txt`).
 Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — an image from Kap 1 in Kap 39, as a research question
+
+Once (`Ouroboros` 1, `05-verify-readers.txt`), in a question the document restates from the Reset-Doc — its claim about that document: „F10 — Ouroboros-Bild" ^[dual-storyform-hintergruende-md.md:L421]: „Welches konkrete Bild aus Kap 1 kehrt in Kap 39 verändert wieder?" ^[dual-storyform-hintergruende-md.md:L421] „Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel." ^[dual-storyform-hintergruende-md.md:L421] „Berührt: die formale Schließung der Truth-Rotation als Wirkung im Lesegeist." ^[dual-storyform-hintergruende-md.md:L421]
+So an image, returning changed, between Kap 1 and Kap 39 — not Kap 0 and Kap 40, which it never writes (`Kap 0` 0, `Kap 40` 0; `05-verify-readers.txt`) — and which image is open, with the Telefon-Stille one of three candidates beside a smell and a change of pronoun. It ties the closure to the Truth-Rotation and places it in the reader's mind, not in the text. It names no sentence as what returns and no Wir (`Erstsatz` 0, `Wir` 0; `05-verify.txt`, `05-verify-readers.txt`).
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17
 
@@ -144,14 +149,16 @@ A proposal (`[V]`) that gives the Kap-39 writing a history: „Die Ouroboros-Vor
 **What repeats.** An image: the last image of Ch39 is the first of Ch1, a
 telephone ringing (konsolidiertes Konzept L1303–L1306, Worldbuilding-Konzept
 L847–L851), and the character bible names the Telefon-Stille as a possible
-Ouroboros ending (L272). A sentence: [[kael|Kael]] writes the locked first sentence of
+Ouroboros ending (L272). The Dual-Storyform background document asks which image
+it is, with three candidates — Telefon-Stille, Ozon-Geruch, Pronomenwechsel (its L421). A sentence: [[kael|Kael]] writes the locked first sentence of
 Kap 1 as his last (Kapitel-Kompendium, glossary, storyform outline, drafting
 manual, Plot-Konkretisierung). The storyform outline has both in one Kap-39 beat
 (L414); the philosophy document writes the image and the sentence side by side
 (L464, L467), names no image, and adds a word, the `Lexem-Echo` of `da` (L470).
 
 **Where.** Kap 1 ↔ Kap 39 (konsolidiertes Konzept, Worldbuilding-Konzept,
-Kapitel-Kompendium, glossary, storyform outline); the Coda, Kap 40 (Kernwelten
+Kapitel-Kompendium, glossary, storyform outline, and the Dual-Storyform background
+document in its question, L421); the Coda, Kap 40 (Kernwelten
 L729, L866); both Kap 1 ↔ 39 and Kap 0 ↔ 40 under the one name (philosophy
 L464, which calls the outer pair the Genesis-Klammer within it, L470, and writes
 `Ouroboros` in Kap 40's row, L738; drafting manual L614). The Kapitel-Kompendium, the glossary and the
