@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 12
+sources: 13
 pages: ["entropie"]
 ---
 
@@ -151,3 +151,11 @@ K₀: „**Der Kollaps-Kernel (K₀)** ist das Prinzip der Entropie, der Informa
 AEGIS' misreading: „AEGIS interpretiert ihren Einbruch als *Nichts-Rauschen* — pure thermodynamische und informationelle Entropie." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262] What it is instead: „**Nichts-Rauschen** ist *atemporale MI-Vereinigung* — keine Leere, keine Bedrohung" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L122] — sense 2's counterpart, not called entropy.
 At the end sense 1 returns with AEGIS on order's side, as „einem lokalen Puffer, der die fragile K₁-Kohärenzzone inmitten der entropischen K₀-Umwelt stabilisiert" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741].
 The konsolidiertes Konzept's third sense, on its date, with K₀ named the principle of entropy; the conflict stays open.
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**In English, two uses side by side: entropy as the chaotic potential around the island of coherence, and AEGIS' progress as a countdown to its maximum.**
+The world's frame: „the surrounding Potential Sea (a vast expanse of quantum superposition and chaotic entropy)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L15], which breaks in at the Risse, „forcing the collapse of classical reality back into a state of uncalculated potential" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L15] — a possibility space, as in sense 2, and called chaotic.
+AEGIS: „It is a "tragically limited" architect attempting to maintain coherence through erasure." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42] „Its failure to process Resonance over Entropy makes it an accidental antagonist." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42] And its progress ends in the maximum it would hold off: „AEGIS’s "Progress" is revealed as a countdown to thermal stasis (Entropy Maximum)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L49] The ozone in KW1 signals „failing to mask high-entropy system correction" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L32], and Seed-14's physics is „Physics: Entropy/Heat." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L95]
+`Entropie` stands 0 times, `Entropy` on three lines and `entropy` on two (`Plan/runs/systems-narrative-analysis-the-coherence-protocol-kanon-2026/05-verify-readers.txt`). It does not define the word, and says nothing of K₀ or the Erasonen (`K₀`, `K0`, `Erason` 0).
+Sense 2's possibility space in the Potential Sea, and the third sense's direction — AEGIS' erasure heading for the entropy maximum — in the same document, unrelated; the conflict stays open.

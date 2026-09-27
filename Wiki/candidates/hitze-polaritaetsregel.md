@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
 gathered: "2026-09-24"
 ---
 
@@ -48,6 +48,9 @@ heat is filtered as heat, ozone and sweat (its L483), and its one cool is AEGIS'
 The philosophischer Bericht, of 2026-05-08, states no rule either: Landauer heat and ozone are both
 AEGIS' erasure (its L110), cold and heat are the Kernwelten's prose styles (L431, L435), and none
 of Juna's traces is thermal (L310).
+The Systems Narrative Analysis, of 2026-05-08, states no rule either: warmth is Juna's (its L22, L60) and
+ozone AEGIS' (L63), as the lock has them, but the ozone is not cold, heat spikes and heat shimmer are the
+system's (L49, L96), and its one cold is Oblivion's Wärmetod (L142).
 [[landauer-signatur]] has each reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
@@ -177,4 +180,10 @@ Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by 
 No rule is stated: `Polarität` 0, `warm` and `Wärme` 0, `kühl` and `Kälte` 0 (`05-verify-readers.txt`). Heat and ozone are AEGIS' erasure: „Das ist der Grund, warum es manchmal nach Ozon riecht.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] „Wenn AEGIS große Mengen an Information löscht, wird die Stadt heiß.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] — see the Landauer-Signatur's page.
 Cold and heat are the [[kern-welten|Kernwelten]]'s prose styles, not signatures, and the document says so of all their classes (L447): KW1 „**Stil**: kalt, steril.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431]; KW2 „**Stil**: heiß, fragmentiert (Übergang).“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L435]; KW3 „**Somatik**: Muskel. **Stil**: heiß, fragmentiert.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439]; KW4 „**Stil**: poetisch (Junas Stil).“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L443] Across the acts: „Akt I weitgehend KW1/P (kalt-steril), Akt II Übergang KW2/parakonsistent (heiß-fragmentiert), Akt III KW3/NP und KW4/generativ (heiß-fragmentiert übergehend in poetisch).“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L447]
 Juna's traces are none of them thermal: „Sie zeigt sich nur durch *Wirkung*: anomale Erasure-Balance, Phantom-Resonanz im Host- oder System-Feld, Phone-Silence als Anker.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L310]
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by what it states (J62). C11.
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — no rule — warmth Juna's, ozone AEGIS' and not cold, heat the system's, and cold Oblivion's
+
+No rule is stated, in English or German (`Polarität` 0, `polarity` 0, `cold` 0; `05-verify-readers.txt`). But it gives warmth to Juna, among its absolute constraints: „Juna must be described exclusively as an effect or sensory resonance (light, frequency, warmth)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22] Seed-07, „Seed-07 The Frequency of Warmth" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L58]: „Kael experiences a golden warmth and a specific frequency of light that defies KW1 physics." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L60]
+Ozone is AEGIS', with no temperature: „In high-stress zones, the ozone of AEGIS is replaced by the scent of "feuchtes Laub" (moist leaves)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L63] Heat is the system's, not Juna's: „The system logs a Heat-Spike during Kael’s emotional peaks." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L49] and „Kael observes "hitzeflimmern" (heat shimmer) in KW1 corridors." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L96] — see the Landauer-Signatur's page. Its one cold is an alter's: „Seed-23 Oblivion: The Absolute Cold (Wärmetod)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L142].
 Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by what it states (J62). C11.

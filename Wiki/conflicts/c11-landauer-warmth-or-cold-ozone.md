@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 25
+sources: 26
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -289,3 +289,14 @@ The somatic filter: „der Somatische Filter setzt jeden Begriff in Hitze, Ozon,
 Cold is a style, never ozone: KW1's „**Stil**: kalt, steril.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431], against KW2's and KW3's heat (L435, L439). [[juna|Juna]]'s traces are not thermal: „Sie zeigt sich nur durch *Wirkung*: anomale Erasure-Balance, Phantom-Resonanz im Host- oder System-Feld, Phone-Silence als Anker.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L310]
 `warm`, `Wärme`, `kühl`, `Kälte`, `Polarität` and `Kap` stand 0 times, `kalt` on two lines, both style (L431, L447) (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`).
 The master report's and the worldbuilding concept's side, on their date: heat and ozone one Landauer trace of AEGIS' erasure, the spike in Beat 4 — three weeks before the lock of 2026-05-30. Row 2's cold ozone and Juna's warmth stand nowhere in it; it names no Kap 6 or Kap 36, so row 1's warmth there is neither held nor denied, and the Beat-4 spike is the one row 2 keeps too. The conflict stays open.
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**Warmth Juna's, ozone AEGIS' with no temperature, heat spikes and heat shimmer the system's under the `Landauer Heat-Limit`, the spike as the Vortex's first point, and cold Oblivion's Wärmetod — in English, each in a seed of its own.**
+Juna, among its absolute constraints: „Juna must be described exclusively as an effect or sensory resonance (light, frequency, warmth)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22] Seed-07: „Kael experiences a golden warmth and a specific frequency of light that defies KW1 physics." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L60]
+Ozone, AEGIS': KW1's sterile air „is increasingly interrupted by the smell of ozone" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L32]; „In high-stress zones, the ozone of AEGIS is replaced by the scent of "feuchtes Laub" (moist leaves)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L63]
+Heat, the system's: „In Storyform B, the OS is the Physics domain, governed by the Landauer Heat-Limit." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L89] „The system logs a Heat-Spike during Kael’s emotional peaks." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L49] „Kael observes "hitzeflimmern" (heat shimmer) in KW1 corridors." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L96] In the same seed as the heat spike, deletion is meant to cool: „Its attempts to "cool" the system via deletion create the very "Risse" it seeks to prevent." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L49]
+The Vortex, „THE VORTEX: Ch35-36 (Climax/Pivot)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L118], opens with the spike: „Heat-Spike Landauer → ∞: The cooling systems fail." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L124]
+Cold is an alter's: „Seed-23 Oblivion: The Absolute Cold (Wärmetod)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L142], „representing the "Big Freeze" (Wärmetod) where trauma used to reside" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L143].
+`cold`, `kalt`, `Kälte`, `Wärme`, `Ozon`, `Kap` and `Kap 6` stand 0 times, `ozone` twice, `Cold` once (`Plan/runs/systems-narrative-analysis-the-coherence-protocol-kanon-2026/05-verify.txt`, `05-verify-readers.txt`). Every seed is a proposal, and its „Kanon" is recorded, not applied.
+Row 2's warmth for Juna and ozone for AEGIS, three weeks before the lock of 2026-05-30 — but its ozone is not cold, and its Landauer is heat, in KW1's corridors and at the Vortex's first point, not the fourth. It names no Kap 6 and gives the Vortex only as Ch35-36, so row 1's warmth in Kap 6 and Kap 36 is neither held nor denied. The conflict stays open.

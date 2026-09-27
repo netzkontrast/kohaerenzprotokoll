@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
 gathered: "2026-09-24"
 ---
 
@@ -85,3 +85,9 @@ Its §2 is the theory, and it names where it comes from: „Die DKT (entwickelt 
 „Die DKT postuliert zwei fundamentale Rechensubstrate, deren Spannung die Realität konstituiert:“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L67] — K₁ and K₀ (L71, L75). Beyond them, „Die DKT lässt sich an mehrere bestehende Physikkonzepte ankoppeln.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L114] — time from PAL, gravity from Erason activity, light as a scar, and the [[nichts-rauschen|Nichts-Rauschen]] (L118–L122).
 The novel's answer to its central question is its consequence: „Das ist keine Sentenz, sondern die literalisierte Konsequenz der Dual-Kernel-Theorie unter dem Landauer-Prinzip.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L49] And its point: „Die Pointe der DKT, die im Roman die ganze Architektur trägt:“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L126] „AEGIS glaubt, K₁ zu sein. AEGIS *ist* K₀.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L130]
 For the prose: „Die Theorie wird im Prosatext nicht erklärt; sie wird *gespürt* — als Hitze, als Druck“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L63], and „die ersten 50 Seiten enthalten *keine* DKT-Terminologie“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L29]. Its alter table has a `DKT-Korrelat` column (L490), and [[silas|Silas]] is „ein Spiegel-Alter mit dem DKT-Korrelat *Coheron-Echo*“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L355].
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — the fifty-page rule, with the acronym expanded as a technique
+
+The Systems Narrative Analysis, in English, never states the theory: it never writes `Dual-Kernel` and has `DKT` on two lines, both the fifty-page rule (`05-verify-readers.txt`). It gives the acronym a different expansion, a tactic rather than a physics: „Zero use of DKT (Dissoziative Kontroll-Technik) within the first 50 pages." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L21] The sentence goes on: „The rifts must remain an ontological mystery, never a tactical tool for the protagonist." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L21] It is the first of its constraints — „To maintain the integrity of the Kanon, the following constraints are absolute:" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L19] — recorded, not applied.
+So the rule is the one other read sources give for the theory's vocabulary, and the expansion is this document's own. By J106 the expansion is recorded here, attributed, and merges nothing: a Dissoziative Kontroll-Technik is not a second name of the Dual-Kernel-Theorie.
+Its backlog rejects an item by the rule, under a third spelling: „Quarry-02: DKK-Protocols in Ch. 3." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L150] „Violates "No DKT in first 50 pages" mandate." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L150]
