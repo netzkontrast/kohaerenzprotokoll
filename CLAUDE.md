@@ -1324,7 +1324,10 @@ the other canonical tools; and `verify` reads COMPLETED as done only when
 cloud session on 2026-09-26 — this repository is a connected source, `triage`
 read a finished session in under four seconds. **One session has been
 dispatched** (decision 014): an ingest of
-`kohaerenz-protokoll-philosophischer-bericht-md`, on 2026-09-27.
+`kohaerenz-protokoll-philosophischer-bericht-md`, on 2026-09-27. It ended
+COMPLETED with no candidate list, census, note, judgement or reconciliation
+record, while its description claimed all of them; decision 014 has the
+measurement, and nothing from it is merged.
 
 ## Calling a model — the DSPy toolchain
 

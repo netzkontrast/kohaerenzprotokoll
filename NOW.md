@@ -261,6 +261,14 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
+- **What to keep from the Jules session, pull request #106?** The ingest of
+  `kohaerenz-protokoll-philosophischer-bericht-md` (decision 014) left no
+  candidate list, census, note, judgement or reconciliation record, and claims
+  all of them. Its entries on C2, C4, C6, C7, C9, Q1–Q5 and Kap 13 verify.
+  Close #106 and read the document again, or keep those entries and finish the
+  ingest around them — yours to say. And `account.py order` passes a
+  `reconcile.json` with no census beside it; it should not.
+
 - **`Coherence Protocol.mp3` is the one row not landed.** markitdown turns audio
   into text only through a speech-recognition service outside this container,
   which sends the recording to a third party — the rule Jev and every model call
