@@ -131,9 +131,9 @@ The operative layer: „Funktioniert als thermodynamischer Treibstoff für die K
 „**Vier-Guardian-Soziopolitik.** Reduziert auf Mnemosyne + 1 Lösch-Pol." ^[L468]
 „**12 AEGIS-Protokolle als Lore-Inventar.** Reduziert auf 3." ^[L469]
 „Reduziert auf Witness-Funktion + Gödel-Eigenschaft. Optionales Hinterzimmer-Material; im Text nicht referenziert." ^[L470]
-„**„Phoenix Mode" / „Phoenix Collapse" als Welt-Konzept.** Bleibt nur als Code-Name für Storyform B, kein diegetischer Mechanismus." ^[L472]
+„**„Phoenix Mode" ^[L472] / „Phoenix Collapse" als Welt-Konzept.** Bleibt nur als Code-Name für Storyform B, kein diegetischer Mechanismus." ^[L472]
 And the timeline's row for the reset: „Architektonische Vereinfachung (Foundation reduziert, Guardians auf 2, Protokolle auf 3)." ^[L450] „Vorherige \\\~80 Architektur-PDFs werden archiviert (non-binding)." ^[L450]
 
 ## What it does not say
 
-It names two Guardians only by count and one by name, `Mnemosyne`, beside „1 Lösch-Pol". It writes no `Konstrukt-Stadt`, `Kernwelt`, `KW1`, `KW4`, `Knöchel`, `Sophia`, `Wir`, `Formel`, `Ursprungs-Ich`, `Kap 0` or `Kap 40`; `kalt` 0 times, `AEGIS-Kühle` once (`05-verify.txt`). It does not say in which chapter the Genesis is told apart from the Genesis-Flashbacks of Akt II and the revelation in the Vortex.
+It names two Guardians only by count and one by name, `Mnemosyne`, beside „1 Lösch-Pol" ^[L468]. It writes no `Konstrukt-Stadt`, `Kernwelt`, `KW1`, `KW4`, `Knöchel`, `Sophia`, `Wir`, `Formel`, `Ursprungs-Ich`, `Kap 0` or `Kap 40`; `kalt` 0 times, `AEGIS-Kühle` once (`05-verify.txt`). It does not say in which chapter the Genesis is told apart from the Genesis-Flashbacks of Akt II and the revelation in the Vortex.

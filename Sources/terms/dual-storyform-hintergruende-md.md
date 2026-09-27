@@ -546,7 +546,7 @@ written while reading. `word` is the term standing alone, `in` anywhere includin
 
 Borrowed frameworks the document applies to the world, each listed under `## lens`: the
 theory of `Dramatica` and its authors `Phillips/Huntley`; the `Hard Problem of Consciousness`,
-to which it couples the dual storyform; the `Klein-Vierergruppe`, its „informeller Anker"
+to which it couples the dual storyform; the `Klein-Vierergruppe`, its „informeller Anker" ^[L116]
 for the inversion; `Iser` and the `Reader-Response-Theorie`; and five mathematical objects it
 lists only to drop — „VOA + Leech-Lattice + Orbifold + Monstergruppe + Chaitin Ω +
 3-Layer-Witness als kanonische Architektur" ^[L470]. Each stands at least once as written
@@ -570,9 +570,9 @@ the Reset-Doc 2026-04-30, an Outline-Revision 2026-05-01, the Audit of 2026-05-0
 restate the Reset-Doc's research questions F8–F10, its Appendix C points and its §10. All of it
 is this document's claim about them. The two English titles of cited works stay off the list.
 
-**Two spellings of one name.** „Phoenix Collapse" (L210, L472) and „Phoenix-Collapse" (L238);
-both listed. `Dialetheia` stands lowercase-adjectived „lebende Dialetheia" in the body (L43,
-L358) and capitalised „Lebende Dialetheia" as the glossary head (L484); both listed.
+**Two spellings of one name.** „Phoenix Collapse" ^[L210] (L210, L472) and „Phoenix-Collapse" ^[L238] (L238);
+both listed. `Dialetheia` stands lowercase-adjectived „lebende Dialetheia" ^[L43] in the body (L43,
+L358) and capitalised „Lebende Dialetheia" ^[L484] as the glossary head (L484); both listed.
 
 **Escaped tables.** Seven tables carry escaped bold (`\*\*`) in their header rows and first
 columns, and the approximate bounds are `\\\~`: „\\\~10% (sehr selten)" ^[L333], „ab \~Kap 28"
@@ -584,10 +584,10 @@ Vortex Kap 35–36 and a Resolution Kap 37–39; the reader table says „Setzt 
 `Kap 40` or `Ch40` stands (`05-verify.txt`).
 
 **Numbers that count different series.** „Beat" numbers the Vortex's five beats (L353–360),
-and „4-Beat" in F9 numbers the Genesis (L420); „Beat 4" and „Vortex Beat-4-Mechanik" refer to
+and „4-Beat" in F9 numbers the Genesis (L420); „Beat 4" and „Vortex Beat-4-Mechanik" ^[L420] refer to
 the Vortex, not the Genesis. „Guardians auf 2" ^[L450] and „Vier-Guardian-Soziopolitik"
 ^[L468] count Guardians from four to two; the document names one of the two, `Mnemosyne`, and
-the other only as „1 Lösch-Pol".
+the other only as „1 Lösch-Pol" ^[L468].
 
 **Heat and cold, both written.** Heat, ozone and sweat are one sensory filter of the
 Landauer heat in the glossary (L483); `AEGIS-Kühle` stands once, as the register a Mikrocue
