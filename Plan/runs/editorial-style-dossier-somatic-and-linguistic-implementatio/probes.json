@@ -1,0 +1,159 @@
+{
+  "document": "editorial-style-dossier-somatic-and-linguistic-implementatio",
+  "drive_id": "1R8Mf5LGmyQSSAXAw4mIqrhzwKQcgvW0tOPoOtSREnjI",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 22,
+  "typographic_marks": 21,
+  "ascii_quotes": 100,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "manda": [
+      "Mandate",
+      "Mandates",
+      "Mandatory"
+    ],
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemantwort"
+    ],
+    "alter": [
+      "ALTER",
+      "Alters"
+    ],
+    "amnes": [
+      "Amnesia",
+      "Amnesic"
+    ],
+    "chara": [
+      "Character",
+      "Characters"
+    ],
+    "class": [
+      "Class",
+      "Classes"
+    ],
+    "eraso": [
+      "Erason",
+      "Erasons"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "juna": [
+      "JUNA",
+      "Juna"
+    ],
+    "kael": [
+      "KAEL",
+      "Kael"
+    ],
+    "profi": [
+      "Profile",
+      "Profiles"
+    ],
+    "prote": [
+      "Protector",
+      "Protectors"
+    ],
+    "signa": [
+      "Signals",
+      "Signature"
+    ],
+    "voice": [
+      "Voice",
+      "Voices"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Individual"
+    ],
+    [
+      "HIGH",
+      "Highlights"
+    ],
+    [
+      "JUNA",
+      "Juna"
+    ],
+    [
+      "KAEL",
+      "Kael"
+    ],
+    [
+      "Meta",
+      "Metaphors"
+    ],
+    [
+      "TEMP",
+      "Template"
+    ],
+    [
+      "TEMP",
+      "Temporal"
+    ],
+    [
+      "TEMP",
+      "Atemporal"
+    ],
+    [
+      "TEMP",
+      "ZEITSTEMPEL"
+    ],
+    [
+      "ALTER",
+      "Alters"
+    ],
+    [
+      "Class",
+      "Classes"
+    ],
+    [
+      "Voice",
+      "Voices"
+    ],
+    [
+      "ÄRENZ",
+      "Kohärenz"
+    ],
+    [
+      "Erason",
+      "Erasons"
+    ],
+    [
+      "Format",
+      "Information"
+    ],
+    [
+      "SYSTEM",
+      "System"
+    ],
+    [
+      "SYSTEM",
+      "Systemantwort"
+    ],
+    [
+      "System",
+      "Systemantwort"
+    ],
+    [
+      "Coheron",
+      "Coherons"
+    ],
+    [
+      "Mandate",
+      "Mandates"
+    ]
+  ]
+}

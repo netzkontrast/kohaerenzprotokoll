@@ -1,0 +1,41 @@
+# 05-verify — editorial-style-dossier-somatic-and-linguistic-implementatio, 2026-09-27
+# grep -cwE = lines holding the word
+Kap                       0
+Ch                        3
+Vortex                    0
+39                        1
+warm                      0
+warmth                    0
+heat                      4
+hot                       1
+cold                      0
+coldness                  1
+ozone                     2
+knuckles                  2
+Knöchel                  0
+twenty-one degrees        1
+21                        0
+Konstrukt-Stadt           0
+KW1                       1
+KW3                       0
+Guardian                  0
+Guardians                 0
+Mnemosyne                 0
+LogOS                     0
+Cerberus                  0
+Kairos                    0
+Sophia                    0
+734                       0
+Genesis                   0
+Trennungsprotokoll        0
+Separation                1
+Flight                    0
+Cologne                   0
+first person              0
+third person              0
+prose                     1
+Nexus                     0
+Überwelt                 0
+Juna                      7
+Kael                     11
+AEGIS                    11
