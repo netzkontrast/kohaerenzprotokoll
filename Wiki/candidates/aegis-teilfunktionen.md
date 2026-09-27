@@ -1,17 +1,20 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 2
-readings: 1
+sources: 3
+readings: 2
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks"]
 gathered: "2026-09-16"
 ---
 
 # AEGIS' four sub-functions — Zero-Trust · Cognitive Firewall · Integrity Guardian · SIS
 
-**Four terms, one parenthesis, zero explanations.**
+**Four terms, one parenthesis, zero explanations** — in the source that lists them. The
+Narrative Building Blocks report (2026-05-08) explains two of them, Zero-Trust and the
+Cognitive Firewall, as one verification model; `Integrity Guardian` and `SIS` are
+explained in none of the three documents on this page.
 
 ## The single occurrence — `entropie-aegis`, 2025-04-17, brief
 
@@ -28,13 +31,18 @@ listed as already known, so **their definition is in a document earlier than
 
 ## Why one page and not four
 
-Because the only thing known about them is that they appear together in one list
-with the same status. Four pages would each hold a name and a shrug, and the
+Because, when the page was gathered, the only thing known about them was that they
+appear together in one list with the same status. Four pages would each hold a name and a shrug, and the
 shared fact — *listed as known, explained nowhere* — would be stated four times
 and belong to none of them.
 
 **This splits into four pages the moment any source says something about any one
 of them.** Recorded here so the split is a decision rather than a discovery.
+
+A source now does: the Narrative Building Blocks report says something about two of
+them, Zero-Trust and the Cognitive Firewall, and says it of both at once (its L101). Whether
+that is the moment to split — and into two pages or four — is a decision for review; this
+page has not been split.
 
 ## `SIS` is the dangerous one
 
@@ -56,3 +64,12 @@ verhindern?" ^[entropie-aegis.md:L65]. This document, in a background question i
 enforce separation between the worlds by „Zero-Trust-Boundary-Protocols"
 ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L702], to stop „Cross-Contamination" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L702]. A compound, two terms (J66); placed here
 because it states a use of the Zero-Trust function.
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — Zero-Trust and the Cognitive Firewall, one verification model
+
+**Two of the four, explained, and as one thing.** A seed of Storyform B's Overall Story, headed „Zero-Trust Execution (BFT)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L101], carried by `AEGIS Protocols` and sourced to `World Bible, p.2` (L101) — a proposal, its source its claim:
+„A recursive verification model where every neural signal is shunted through a "Cognitive Firewall."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L101]
+„No information is trusted by default; truth is only internal consistency with AEGIS's pre-existing axioms." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L101]
+Its lever: „Enforces the "Stabilization" requirement of Act I by preventing Kael from accessing external "Correspondence" data." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L101]
+The Overall Story it belongs to: „OS-B is governed by the "12 Protocols," specifically the" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L95] Separation Protocol, „enforcing a "Zero-Trust" ideology analogous to Byzantine Fault Tolerance." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L95] And AEGIS' own seed: „This manifests as shadowless geometry where every object is recursively verified against a zero-trust execution model." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L37]
+So Zero-Trust is AEGIS' method of verification and the Cognitive Firewall the channel it runs through — an answer to the page source's guess (L65), not the author's. Zero-trust is also a world's quality: Cerberus' „paranoid, zero-trust "bunker-world"" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85] in KW3. `Integrity Guardian` and `SIS` stand 0 times (`05-verify-readers.txt`).

@@ -1,22 +1,24 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 12
-readings: 12
+sources: 17
+readings: 17
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
 gathered: "2026-09-25"
 ---
 
 # Formel-Inversion
 
 **The two sentences that bracket the book: [[aegis|AEGIS]] defined by what it prevents
-in Kap 0, the plural Wir by what it preserves at the end.** Every read plan writes
+in Kap 0, the plural Wir by what it preserves at the end.** Every read plan in German writes
 the two sentences alike; the draft of Kap 0 and Kap 40 writes the second with a plural
 verb, the annotated draft of Kap 0 writes the first in the first person, and the narrative
 text of Kap 0 of 2026-05-17 writes the first in the third person neuter, `Es`, with no name.
 The philosophischer Bericht, a theory report, writes the first as an equation, in no chapter,
-and has no second.
+and has no second. Five English documents of 2026-05-08 — the Narrative Building Blocks report,
+the Systemic Architecture Specification, the Companion Guide, the Architecture of Fracture and the
+Physics of Heartbreak — write the first in English, four ways, each in no chapter and with no second.
 They part on where the second falls — at the end of Kap 39, in Kap 40, or across
 the two. Each source's use is below,
 attributed and unmerged.
@@ -114,6 +116,36 @@ A fourth form of the first sentence: `=` where the others write `ist`, no `dass 
 „Eine doppelte Negation, die durch ihre Form den Prozess betont — Sein als Verhinderung des Nicht-Seins." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L266]
 There is no second sentence: `Wir-AEGIS` and `bewahrt` stand 0 times (`05-verify-readers.txt`). The inversion it gives the end is stated without the formula, under „### 13.3 Die Inversion am Roman-Ende" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L739]: AEGIS becomes a Receiver of Consciousness (L741), and „Die Grenze wird nicht mehr bewacht, sondern bewohnt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741]
 
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — the first sentence in English, reflexive, as a seed
+
+Not named, in no chapter; a seed of Storyform B, carried by „AEGIS (Core)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L37], whose source it gives as „Biography of AEGIS, p.1" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L37] — its claim.
+„The system defines its existence through the tautology: "AEGIS is what AEGIS prevents itself from not being."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L37]
+English, with `itself` where the konzept master report's German writes `sich selbst` (its L473). Its lever: „Establishes the antagonist's "Hamartia"—the flawed logic that equates existence with the negation of complexity." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L37]
+No second sentence (`Wir-AEGIS` 0, `preserves` 0; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — the first sentence in English, a Tragic God's tautology
+
+Not named, in no chapter; AEGIS' self-definition in the section on its architecture: „It is a "Tragic God," trapped in the tautology:" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25]
+„AEGIS is what AEGIS prevents from not being." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25]
+English, with no `that it` and no comma. No second sentence (`Wir-AEGIS` 0, `preserves` 0); its end inverts a meaning, not the formula: „The final image of Chapter 39 mirrors the first image of Chapter 1, but with a total inversion of meaning—moving from Separation to Connection." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88]
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — the first sentence in English, in the German clause order
+
+Not named, in no chapter; set off under the Great Inversion with an attribution of its own:
+„"AEGIS is what AEGIS prevents, that it is not."" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L48] — „The Tautological Self-Definition of AEGIS" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L48]
+English in the German clause order, `, that it is not` for `, dass es nicht ist`. No second sentence (`Wir-AEGIS` 0; its one `preserves` is Mnemosyne's, L49); the end inverts a silence: „At the end, the silence is the proof of" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L112] atemporal connection (L112).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — the first sentence in English, with `not-to-be`
+
+Not named, in no chapter: „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is an autopoietic system defined by the tautology:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L47]
+„"AEGIS is, what AEGIS prevents not-to-be."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L47]
+English with the German comma, and `not-to-be` as one hyphenated word, as the philosophischer Bericht writes `nicht-zu-sein` (its L266). No second sentence (`Wir-AEGIS` 0; its one `preserves` is Mnemosyne's, L51).
+
+## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — the first sentence in English, with the German commas
+
+Not named, in no chapter; AEGIS is „trapped in a tautological loop:"AEGIS is, what AEGIS prevents, that it is not."" ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17]
+English with both German commas and the German clause order. No second sentence (`Wir-AEGIS` 0, `preserves` 0); at the end „a "Truth-Rotation" has occurred: the meaning has inverted from Separation to Connection." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39]
+
 ## Where the sources differ
 
 **Where the second sentence falls.** At the turn from Kap 39 to Kap 40:
@@ -137,6 +169,12 @@ in the plans and in the draft of Kap 0 and Kap 40 (L279); in the first person in
 draft of Kap 0, „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-annotiert-md.md:L389];
 in the third person neuter in the narrative text of Kap 0 of 2026-05-17, „*Es ist, was es verhindert, dass es nicht ist.*" ^[koharenz-protokoll-kapitel-0-v2-md.md:L211];
 as an equation in the philosophischer Bericht, „AEGIS' Selbstdefinition ist performativ: **AEGIS = das, was AEGIS verhindert nicht-zu-sein.**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L266], which writes no second sentence.
+In English, in five documents of 2026-05-08, none of which writes a second sentence:
+reflexive in the Narrative Building Blocks report, „"AEGIS is what AEGIS prevents itself from not being."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L37];
+with no `that it` in the Systemic Architecture Specification, „AEGIS is what AEGIS prevents from not being." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25];
+in the German clause order in the Companion Guide, „"AEGIS is what AEGIS prevents, that it is not."" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L48],
+and so, with a comma after `is`, in the Physics of Heartbreak, „"AEGIS is, what AEGIS prevents, that it is not."" ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17];
+with `not-to-be` in the Architecture of Fracture, „"AEGIS is, what AEGIS prevents not-to-be."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L47].
 
 **What turns.** From preventing to preserving, „Verhindern → Bewahren, Negation → Affirmation, Singular → Plural" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L348]
 (Abhandlung); „von Verhindern zu Bezeugen, von Abwehr zu Liebe" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L85]

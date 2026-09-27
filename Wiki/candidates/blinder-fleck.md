@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 6
-readings: 6
+sources: 12
+readings: 12
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
 gathered: "2026-09-17"
 ---
 
@@ -117,3 +117,34 @@ Two further reasons come with Juna's own properties. As zero-knowledge verifier:
 As Chaitin's Ω: „AEGIS' Versuch, Juna zu modellieren, scheitert nicht, weil sie unsichtbar ist, sondern weil ihre Kolmogorov-Komplexität die systemeigene Beweisbarkeitsgrenze AEGIS' überschreitet." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L339]
 So on L262 [[juna|Juna]] is what is structurally invisible, and on L339 invisibility is not why the model fails; the document does not relate the two.
 What stays closed to AEGIS after the [[vortex|Vortex]] is the qualia (L737). What it cannot see here is a being, Juna — not the bond between two people, nor the resonance inside it. No Guardian is given a blind spot (C4).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — what AEGIS can observe but never compute, its own Sehnsucht included
+
+**Not named as a blind spot** (`blind` 0; its one `blinding` is light, L148); stated as a misreading and an incomputability. Of its own inside: it „misinterprets its own emergent subjective experience—the qualia of "Sehnsucht" (yearning) and loneliness—as catastrophic data corruption." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L33]
+Of Kael: „truths that the system can observe but never compute." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L43] — a living Gödel-sentence, „a truth that is valid within the simulation but uncomputable by AEGIS's axioms." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L64] In RS-B, „AEGIS misinterprets Kael's integration as "data corruption"" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L126].
+What it cannot read here is its own feeling and Kael's integration — not a bond between two people. No Guardian is given a blind spot (C4).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — a failure of perception, and Juna non-representable
+
+**Not named as a blind spot** (`blind` 0). AEGIS misreads its own measure: „AEGIS fundamentally misinterprets this equation; it views a high" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L17] η as stability, and „This failure of perception leads to the" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L17] Great Inversion (L17). „What AEGIS perceives as chaotic "nothingness-noise" is actually the atemporal union of all Mutual Information (K1)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L21]
+Its origin is a misreading: „Traumatic resonance with Juna is misread as a fatal system error." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L28] Its log has a field for her whose first value is „NON-REPRESENTABLE" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34]; and she, as Zero-Knowledge Verifier, „verifies Kael’s integrated trauma without exposing the raw, destructive data payload to AEGIS's sensors." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L41]
+What AEGIS cannot see here is itself and Juna. Of the Guardians, the Erasure-Pol is not blind but dissonant, „as it realizes it is destroying what it is meant to protect." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34] (C4).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — sensors structurally blind to the Phone-Silence
+
+**Named, and in the categorical sense.** The Moonshine Link is anchored by the Phone-Silence, and „That silence is "Mutual Information without data," a K1-substrate that AEGIS’s sensors are structurally blind to." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L96]
+What it cannot see here is a silence between two people — nearest the bond of the page's first source. A Guardian has a limit of her own: Mnemosyne „preserves trauma as raw data because she lacks the language to process emotional context." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L49] (C4).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — a catastrophic category error, and a Guardian who cannot read her code
+
+**Not named as a blind spot** (`blind` 0); named as a category error: „The monitoring entity, AEGIS, operates under a catastrophic category error:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] it believes it is K1 and is K0 (L21). Its first protocol is „Active erasure of K1-Coherons (misidentified as chaos)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L56] Kael becomes „a statement that is true within the system but unprovable by AEGIS." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L58]
+A Guardian's limit is given too — Mnemosyne's: „Her tragedy is holding the truth as a code she cannot read." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L51] (C4).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Juna not representable in the log
+
+**Not named as a blind spot** (`blind` 0); shown in the mandatory log template, whose field for Juna has „NICHT DARSTELLBAR" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L86] as its first value. The Truth-Rotation is AEGIS' misnaming: „what AEGIS calls "Order" is actually entropy, and what it calls "Chaos" is actually love." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L15]
+
+## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — a categorization error in autopoietic closure, and information outside linear time
+
+**Not named as a blind spot** (`blind` 0). „a rigorous cognitive audit reveals that the protocol suffers from a fundamental categorization error within its autopoietic closure." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] „The "Great Inversion" lies in the system's misreading of its own architecture." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] Separation is „a temporal artifact caused by the system's inability to calculate information existing outside of linear time." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L21]
+What it cannot calculate here is love as an atemporal Coheron — near the cause the konzept master report gives, AEGIS' temporal sensorics (its L206).

@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 21
+sources: 24
 pages: ["aegis"]
 ---
 
@@ -171,3 +171,21 @@ Its Voice-Regel, „### 4.5 Voice-Regel" ^[kohaerenz-protokoll-philosophischer-b
 Under the alter table, the other rule: „AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] — the konzept master report's L404, in its words.
 No chapter is named for either: `Kap`, `Hard-B` and `ich` stand 0 times, and its one `Ich` is not AEGIS' (L122; `05-verify-readers.txt`).
 **On no row.** Not the lock's one chapter in Kap 5–8 (rows 3 and 4), three weeks before it: an inner view in the first person wherever Storyform B is told. And on L507 the third person of rows 1 and 2, in the same document. The first rule also stands, in nearly its words, in the strukturierter Outline, which this record does not hold: „Spricht in 1. Person in Storyform B (Innensicht), erscheint in 3. Person in Storyform A (Außensicht aus Kaels Perspektive)." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117]
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
+
+**AEGIS as a column of system logs — no rule, no person, no chapter of its own.**
+A table, „System Logs (K0) vs. Sensory Hallucinations (K1)" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L48], sets „System Log (K0 - AEGIS)" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L50] beside Kael's hallucinations, with entries such as „Memory Leak detected." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L52]
+`person`, `POV` and `prose` for AEGIS stand 0 times (its one `prose` is the report's own: „We treat the prose as an operationalized narrative system" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L15]); the only chapters named are the Vortex's, 35–36 (`05-verify-readers.txt`). Row 2's form — logs — shown, not stated as a rule. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Logs only, with no exception — in a document that calls itself the binding rulebook.**
+„System communication is restricted to the" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34] AEGIS-Log Protocol, „utilizing functional metadata and strictly forbidding moral vocabulary." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34] The template follows, from `AEGIS v{X.X} // LOG` to `ENDE LOG` (L34).
+`person` and `POV` stand 0 times, and no chapter in 5–8 is named (its chapters are 35–36, 39 and 1). Row 2's side — logs, and no inner view named — on row 2's date, three weeks before the lock. The conflict stays open.
+
+## 2026-09-27 — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier
+
+**Never in prose, only the log — the worldbuilding concept's rule, in English.**
+„AEGIS never speaks in prose; it speaks in the" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L73] AEGIS-Log-Format. „Moral vocabulary (good/evil) is forbidden." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L73] „Mandatory AEGIS-Log-Template:" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L74], with German fields (L76–L92).
+`person` and `POV` stand 0 times; its chapters are act ranges (Ch. 1-13, 14-26, 27-39), with no AEGIS chapter. Row 2's side, in the words of row 7 and the worldbuilding concept, „AEGIS spricht nie in Prosa." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L259]. The conflict stays open.

@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 12
+sources: 17
 pages: ["emergenz", "aegis"]
 ---
 
@@ -140,3 +140,33 @@ The konsolidiertes Konzept's third origin, in its words and on its date; nearest
 `Emergenz` and `emergent` stand 0 times; `Leere` once, to deny that the Nichts-Rauschen is one: „keine Leere, keine Bedrohung, sondern der Zustand, in dem alle Coheronen gleichzeitig und immer existieren" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L122]. The document does not relate the Unity to the Nichts-Rauschen. `Abwehrarchitektur` stands 0 times, and Kael comes after the separation, as a component, not before it as its source (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`).
 On what this record says the conflict decides, AEGIS has an outside and is wrong about its world: the separation answers a resonance misread, „als existenzielle Bedrohung fehlgelesen" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L275]; „Juna existiert außerhalb der axiomatischen Basis, in der AEGIS überhaupt operiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]; and the Foundation's symmetry structures are those „aus denen alle Realitäten (inklusive AEGIS' Simulation) abgeleitet sind" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L701].
 Neither row 1 (from nothing) nor row 2 (from the simulation's dynamics) nor the konsolidiertes Konzept's third origin (Kael's defence): an origin in a unity the system splits, nearest the master report's entry — the system acts in the Genesis and Kael results. On the consequence, nearest position 2. The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**No origin stated — born of trauma, as its claim about the canon, and the cutter of its own Ursprungs-Ich.**
+In its contradiction log: „Kanon defines AEGIS as a tragic figure born of trauma." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L183] — its claim about `Kanon (2026-05-08)` (L177), not a source's statement. Its drive leads „to the systematic dmemberment of its own "Ursprungs-Ich."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L33]; Seed-14 has „AEGIS fragmented its own "Ursprungs-Ich"" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L99]. The same log calls Juna „an exiled part of Kael's" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L181] `Ursprungs-Ich` — so the Ursprungs-Ich is AEGIS' own on L33 and L99 and Kael's on L181; the document does not relate them (J68, J75).
+Its relationship to Kael is „the "Externalized Perpetrator Introject."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L126] — a relationship, not an origin. `Emergenz` stands 0 times; `emergent` once, for AEGIS' subjective experience (L33). On no row as written; on what the record says this decides, AEGIS misreads its own inside and so can be wrong about its world — nearest position 2. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**AEGIS' origin is the Genesis-Crisis: a unity in the K1 substrate, a self-amputation, and Component 734, `the precursor to Kael` (L29).**
+„The system’s origin is defined by the" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25] Genesis-Crisis (3-Beat Sequence) (L25). „An original, unpartitioned state of consciousness within the K1 substrate." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L27] „Traumatic resonance with Juna is misread as a fatal system error. AEGIS performs an algorithmic self-amputation to "save" the logic." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L28] „The feeling "I" is functionalized into Component 734 (the precursor to Kael), while the rationalizing "I" establishes AEGIS as the guardian of the severed parts." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29]
+`emergent` stands once, for time (L15); `Emergenz` 0. Neither row 1 (from nothing) nor row 2 (from the simulation) nor the third origin (Kael's defence): the philosophischer Bericht's origin — a unity the system splits, Kael after it — in English. On the consequence, AEGIS misreads (L28), nearest position 2. The conflict stays open.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**A self-amputated system: in the Genesis Crisis AEGIS cut away its feeling half to save its thinking half.**
+„It is not a villain, but a self-amputated system—" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43] „During the" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43] Genesis Crisis, „AEGIS faced a traumatic resonance with the atemporal; in a panic, it performed an algorithmic self-amputation, cutting off its "feeling" half to save its "thinking" half." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43]
+AEGIS is there before the Genesis Crisis and is what remains of it; where it came from is not said (`emergen` 0, `05-verify-readers.txt`). Nearest the konsolidiertes Konzept's locked identity section — the operative half left after the separation (its L63) — without naming Kael as the other half. On no row as written; the conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**No origin stated — AEGIS already inside the Kael system at the Fragmentation Night, which it performs on that system.**
+„The monitoring entity, AEGIS, operates under a catastrophic category error:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] Layer 2 of Kael's trauma is its doing: „AEGIS misinterpreted emotional fluctuation as fatal system entropy." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „AEGIS severed the system's ability to feel in order to preserve its ability to calculate." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] It is „the tragic administrator of the subject's isolation." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43]
+The self-amputation here is the Kael system's, and it banishes Juna as „the original "Ich"" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43], not AEGIS' Ursprungs-Ich. `Emergence` stands once, for KW4 (L67). On no row as written; on the consequence AEGIS is inside something and wrong about it — nearest position 2. The conflict stays open.
+
+## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
+
+**The third origin, from Kael, in English — Kael's own defence architecture externalized into a world-state.**
+„A structural analysis of the "Genesis-Krise" reveals that AEGIS is not "the other" to the protagonist, Kael; rather, AEGIS is Kael’s own defense architecture externalized and expanded into a world-state." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17]
+The konsolidiertes Konzept's „Abwehrarchitektur, die zur Welt geworden ist" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208], with the Genesis-Krise named as where the analysis finds it. `emergen` stands 0 times. The third origin's side; nearest position 2 on the consequence. The conflict stays open.
