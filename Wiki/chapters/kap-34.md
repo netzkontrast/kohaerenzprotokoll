@@ -1,9 +1,9 @@
 ---
 chapter: 34
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
-records: ["C14"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
 
@@ -31,6 +31,18 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael durchdringt AEGIS' letzte Verteidigungsanlagen und erreicht einen konzeptuellen oder simulierten Raum, der AEGIS' Kern repräsentiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Hier konfrontiert Kael die ultimative Quelle des Paradoxons (Kapitel 17)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Die Konfrontation könnte weniger ein Kampf als ein Moment des Verstehens, der Intervention oder des Erzwingens einer fundamentalen Wahl für AEGIS sein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Juna enters the system Kael
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Die Integration von Juna“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Story: „Inmitten des Hitzetods greift Juna ein letztes Mal durch den ER=EPR-Tunnel.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190]
+- Juna: „Sie opfert ihre externe Superposition, ihre Unantastbarkeit als reiner Ghost.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190] (C7)
+- Juna: „Sie tritt in das System Kael ein, nicht um die anderen auszulöschen, sondern um die fehlende Kohärenz (K1) dauerhaft im Kern zu verankern.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190]
+- Establishes: „Ihre Ankunft stabilisiert das System und verleiht Kael die absolute Klarheit, die er für seinen letzten Zug benötigt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -114,6 +126,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Stage.** „HR-Stufe 7 fortgesetzt: Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L638] (Konzept-Iteration Genesis) · „HR-außen Stufe 8: Ordeal-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1049] (strukturierter Outline) · „(HR 8: Ordeal-Annäherung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L366] (storyform outline).
+- **Juna and the system.** „Ort, an dem Kael Juna als Teil seiner selbst akzeptiert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L463] (Kernwelten vollständig; so too the worldbuilding concept) · „Sie tritt in das System Kael ein, nicht um die anderen auszulöschen, sondern um die fehlende Kohärenz (K1) dauerhaft im Kern zu verankern.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190] (the Hard-SF-Outline), where Juna comes in from outside, through „den ER=EPR-Tunnel“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190].
 
 ## Questions for this chapter
 

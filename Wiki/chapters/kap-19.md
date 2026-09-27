@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,17 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Patch-Bereitstellung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L266]
 - Story: „Kael versucht, ein in Kapitel 18 entdecktes Schlupfloch oder Exploit erneut zu verwenden, nur um festzustellen, dass es nicht mehr funktioniert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
 - Story: „Kael könnte sogar Zeuge werden, wie AEGIS eine Schwachstelle in Echtzeit 'patcht'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS floods the Archiv's lower levels with Sinnleere
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „AEGIS schlägt zurück“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Cause: „Die Manipulation der parakonsistenten Logik zieht die Aufmerksamkeit von AEGIS auf sich.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
+- Story: „Die ConsensusEnf-Protokolle leiten eine massive Flutung der unteren Bibliotheksebenen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148] · the substance is „einer zähflüssigen, grauen Substanz, die beim Berühren jegliche emotionale Bedeutung aus Erinnerungen saugt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
+- Who: „Kael muss mit Kiko auf dem Rücken über wankende Büchertürme fliehen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -105,7 +116,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 
 ## Where the sources differ
 
-- **Title.** „KI-Ethik“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L578] (Konzept-Iteration Genesis) · „Z2-Reaktion + AEGIS-Intervention“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L683] (strukturierter Outline; „Z2-AEGIS-Intervention“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L997] konsolidiertes Konzept, so too storyform outline). The first is the strukturierter Outline's sensory note: „KI-Ethik-Kalkül, kalte Stimme, Logik die wie Schnitt funktioniert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L701] (strukturierter Outline).
+- **Title.** „KI-Ethik“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L578] (Konzept-Iteration Genesis) · „Z2-Reaktion + AEGIS-Intervention“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L683] (strukturierter Outline; „Z2-AEGIS-Intervention“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L997] konsolidiertes Konzept, so too storyform outline). The first is the strukturierter Outline's sensory note: „KI-Ethik-Kalkül, kalte Stimme, Logik die wie Schnitt funktioniert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L701] (strukturierter Outline) · „AEGIS schlägt zurück“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148] (the Hard-SF-Outline).
 
 ## Questions for this chapter
 

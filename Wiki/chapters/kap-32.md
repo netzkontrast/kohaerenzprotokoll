@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,17 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael inszeniert eine Situation über mehrere Standorte hinweg oder unter Einbeziehung mehrerer Guardians gleichzeitig“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „koordinierte Aktionen mit Juna/V“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „ein teilweises Einfrieren der Logik innerhalb von AEGIS' zentraler Verarbeitung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael enters the Fundament, AEGIS' seat, trapped in SARM recursion
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Der Architekt der eigenen Hölle“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Where: „Kael betritt das Fundament, den Sitz von AEGIS.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184] · „eine reine, fließende Matrix aus Kohärenz-Gleichungen und Entropie-Auslöschungen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
+- AEGIS: „AEGIS manifestiert sich als eine fraktale, tragische Naturgewalt, die in einer endlosen SARM-Rekursion (Self-Axiomatizing Recursive Matrix) gefangen ist.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
+- Establishes: „Es verbrennt ununterbrochen die eigene Seele, um die Illusion von Sicherheit aufrechtzuerhalten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -106,7 +117,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Guardians.** „OS-S3 (B) — Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005] (strukturierter Outline) in Kap 32 · the chapter before is „Auflösung der Guardians“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] (storyform outline).
-- **Title.** „Logische Labyrinthe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L630] (Konzept-Iteration Genesis) · „Tests, Allies, Enemies: Systemkampf“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L999] (strukturierter Outline). The strukturierter Outline's title opens with the stage name the storyform outline gives the chapter: „(HR 6: Tests, Allies, Enemies)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364] (storyform outline).
+- **Title.** „Logische Labyrinthe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L630] (Konzept-Iteration Genesis) · „Tests, Allies, Enemies: Systemkampf“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L999] (strukturierter Outline). The strukturierter Outline's title opens with the stage name the storyform outline gives the chapter: „(HR 6: Tests, Allies, Enemies)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364] (storyform outline) · „Der Architekt der eigenen Hölle“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184] (the Hard-SF-Outline).
 
 ## Questions for this chapter
 

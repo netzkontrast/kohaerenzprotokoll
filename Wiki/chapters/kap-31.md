@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,18 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Juna/V schafft es, eine stabile Verbindung oder einen Eintrittspunkt in AEGIS' simulierte Realität herzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „AEGIS reagiert mit Verwirrung und Alarm“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „wodurch unbeabsichtigt eine sichere Zone für Kael und Juna/V zur Kommunikation oder Koordination entsteht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael embraces Oblivion, the AEGIS-Echo in himself
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Die Akzeptanz des Oblivion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L180]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Where / who: „Unmittelbar vor dem Kern trifft Kael auf Oblivion, das AEGIS-Echo in ihm selbst.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L182]
+- Oblivion: „Oblivion verkörpert den massiven Drang zu dissoziieren, um zu überleben.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L182] · „Kael erkennt, dass dieser Anteil ihn als Kind vor dem Tod bewahrt hat.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L182]
+- Story: „Anstatt Oblivion zu bekämpfen, umarmt Kael ihn.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L182]
+- Establishes: „wodurch Oblivion seine feindliche Macht verliert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L182]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -113,7 +125,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 
 - **What happens to the Guardians.** „Kael absorbiert Guardian-Prinzipien gesund.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022] (konsolidiertes Konzept) · „Wächter, die in Lichtstaub aufgehen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] (storyform outline) · „Die Guardian-Auflösung (Kap 31“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] „nicht als Kampf, sondern als doppeltes Angebot“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] (Plot-Konkretisierung) · „Kael beginnt aktiv, AEGIS' Kernsystem anzugreifen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L985] (strukturierter Outline), which keeps the Guardians active in Kap 32: „OS-S3 (B) — Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005] (strukturierter Outline).
 - **Guardians after Kap 31, within one document.** „Auflösung der Guardians“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] in Kap 31 · „Mnemosyne als erste betroffene Guardian.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381] in Kap 36 (both storyform outline).
-- **Title.** „Auflösung der Guardians“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L626] (Konzept-Iteration Genesis) · „Crossing First Threshold: Angriff auf AEGIS“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L975] (strukturierter Outline). The strukturierter Outline's title opens with the stage name the konsolidiertes Konzept gives the chapter: „HR-Stufe 5: Crossing First Threshold“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1021] (konsolidiertes Konzept).
+- **Title.** „Auflösung der Guardians“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L626] (Konzept-Iteration Genesis) · „Crossing First Threshold: Angriff auf AEGIS“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L975] (strukturierter Outline). The strukturierter Outline's title opens with the stage name the konsolidiertes Konzept gives the chapter: „HR-Stufe 5: Crossing First Threshold“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1021] (konsolidiertes Konzept) · „Die Akzeptanz des Oblivion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L180] (the Hard-SF-Outline).
 
 ## Questions for this chapter
 

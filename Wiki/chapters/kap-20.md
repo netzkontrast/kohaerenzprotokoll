@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael interagiert mit einem Guardian (z.B. Mnemosyne, verantwortlich für Erinnerung).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „die Integrität der Erinnerung zu wahren vs. einer AEGIS-Direktive zu gehorchen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „Kael beobachtet, wie Mnemosyne Zögern, inkonsistentes Verhalten oder vielleicht sogar eine Antwort zeigt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Rhys takes over on the flight into Cerberus' territory
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Die Jagd durch das Archiv“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L150]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- World: „Die Flucht treibt sie in das Territorium von Cerberus (KW3-Übergang).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
+- Sensorik: „Das Sepia weicht einem flimmernden Flutlicht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
+- Who: „Rhys bricht an die Oberfläche und übernimmt die motorische Kontrolle“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
+- Function: „was die Vorbereitung für den kommenden Twist intensiviert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -106,7 +118,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 
 - **Genesis flashback.** „KW2 / Genesis-Flashback“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Flashbacks beginnen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] (Kernwelten vollständig) · „Kap 18, 21, 22 als Flashback-Träger gesetzt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371] (strukturierter Outline) · „Beginn Genesis-Flashback-Cluster (Kap 18–22)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343] (storyform outline). (C12)
 - **First conscious Pursuit.** „Erste bewusste Pursuit-Bewegung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1000] (konsolidiertes Konzept) · „MC-Solution Pursuit — erste bewusste Bewegung, aktiv neue Wege suchen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L713] (strukturierter Outline), which says the same of Kap 17: „Erste bewusste Pursuit-Bewegung. Driver-Anker A: Decision, aktiv hinschauen statt wegsehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline).
-- **Title.** „Lyons-Welt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L582] (Konzept-Iteration Genesis) · „Z2-Korrektur: Lyons-Kreativität“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L707] (strukturierter Outline; „Z2-Lyons-Kreativität“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L999] konsolidiertes Konzept, so too storyform outline). The first is a place in the strukturierter Outline: „Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff) um AEGIS' Interventionen kreativ zu umgehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] (strukturierter Outline).
+- **Title.** „Lyons-Welt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L582] (Konzept-Iteration Genesis) · „Z2-Korrektur: Lyons-Kreativität“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L707] (strukturierter Outline; „Z2-Lyons-Kreativität“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L999] konsolidiertes Konzept, so too storyform outline). The first is a place in the strukturierter Outline: „Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff) um AEGIS' Interventionen kreativ zu umgehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] (strukturierter Outline) · „Die Jagd durch das Archiv“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L150] (the Hard-SF-Outline).
 
 ## Questions for this chapter
 

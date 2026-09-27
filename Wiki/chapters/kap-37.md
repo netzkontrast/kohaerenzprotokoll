@@ -1,9 +1,9 @@
 ---
 chapter: 37
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md"]
-records: []
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+records: ["C11"]
 gathered: "2026-09-25"
 ---
 
@@ -31,6 +31,18 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „überlebende Guardians, lokale 'Ordnungsinseln' zu schaffen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „vielleicht eine rudimentäre Form von AEGIS, die versucht, aus den Trümmern wiederaufzubauen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „Kael muss entscheiden, ob diese Neuorganisation eine Bedrohung oder eine Chance darstellt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS gone, the heat cools to warmth
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Jenseits der Kohärenz“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L198]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Where: „Mit dem Zerfall von AEGIS brandet das Nichts-Rauschen frei durch das Fundament.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200]
+- The Nichts-Rauschen: „Doch es ist nicht länger ein feindlicher K0-Kollaps.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200] · „Die atemporale Vereinigung aller Multiplen Intelligenzen, die physikalische Manifestation der Liebe.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200]
+- Sensorik: „Die glühende Hitze kühlt ab zu einer sanften, lebenspendenden Wärme.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200] (C11)
+- Sensorik: „Der beißende Ozon-Geruch weicht der Frische nach einem Sommergewitter.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -134,7 +146,7 @@ Position: „Kap 37 | 37 | Der Gärtner als Sachbearbeiter“ ^[kp-plot-konkreti
 ## Where the sources differ
 
 - **World, within one document.** „KW4 (trügerische Pastorale)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L863] · „der trügerischen Pastorale Kap 37, die anders verortet ist“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L408] (both Kernwelten vollständig; the second in its KW4 section).
-- **False victory or Resolution.** „Phase C (Kap 37) — Trügerischer Sieg.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L902] · „B: scheinbar nicht aktiv, aber feine Echos des Rauschens.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034] (konsolidiertes Konzept) · „— (B nicht mehr aktiv)" ^[three-mode-architecture-39-chapters-md.md:L342] (the 39-chapter spec) · „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] (the Dual-Storyform background document), which names no false victory.
+- **False victory or Resolution.** „Phase C (Kap 37) — Trügerischer Sieg.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L902] · „B: scheinbar nicht aktiv, aber feine Echos des Rauschens.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034] (konsolidiertes Konzept) · „— (B nicht mehr aktiv)" ^[three-mode-architecture-39-chapters-md.md:L342] (the 39-chapter spec) · „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] (the Dual-Storyform background document), which names no false victory · „Mit dem Zerfall von AEGIS brandet das Nichts-Rauschen frei durch das Fundament.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200] (the Hard-SF-Outline), after AEGIS has dissolved in its Kapitel 36: „Die Maschine löst sich auf und fließt als neutrale Information zurück in das System.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L196].
 
 ## Questions for this chapter
 

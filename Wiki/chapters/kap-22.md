@@ -1,9 +1,9 @@
 ---
 chapter: 22
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
-records: ["C12", "C14"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
 
@@ -31,6 +31,19 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael schafft absichtlich eine Situation, die AEGIS (oder einen bestimmten Guardian) zwingt, sich dem in Kapitel 17 identifizierten Kernparadoxon zu stellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 - Story: „Verwirrung, Lähmung oder erratischen Verhaltens“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
 - Story: „Kael nutzt dieses Fenster der Störung, um ein spezifisches Ziel zu erreichen (Flucht, Informationszugriff usw.).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L306]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Juna manifests as a hologram and feeds Coherons into Kael's field
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Die Juna-Superposition“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Story: „Während Kaels Knochen unter der entropischen Schwerkraft zu brechen drohen, greift der Moonshine-Link.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156]
+- Juna: „Juna manifestiert sich als schimmerndes Hologramm.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156] · „Sie greift nicht physisch ein, sondern speist über die nicht-lokale ER=EPR-Verbindung hochkonzentrierte Kohärenz-Kernel (Coherons) in Kaels lokales Feld.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156]
+- Story: „die emergente Gravitation kollabiert, und Kael kann sich erheben.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156]
+- Establishes: „Die Liebe als physikalisches Prinzip – die atemporale Vereinigung von Information – offenbart ihre Macht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156]
+- Juna elsewhere in this plan: in Kapitel 3 „flackert das Bild von Juna auf“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98], and in Kapitel 34 „Sie tritt in das System Kael ein“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190] (C7).
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -118,7 +131,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 - **What Kael takes from Komp 734.** „Kael erkennt einen Moment lang: ich war Komp 734; verliert das Wissen aber sofort wieder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592] (Konzept-Iteration Genesis) · „Kael liest nur eine Nummer, legt das Dossier zurück und kann nicht mehr schlafen; der Leser trägt die volle Last.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (Plot-Konkretisierung).
 - **Form of the Komp 734 beat.** „Dritter Genesis-Flashback (Bridge): Komp 734 / Funktionalisierung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765] with „Kael, AEGIS dominant, Genesis-Flashback-Stimme“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L757] (strukturierter Outline) · „den Genesis-Flashback Kap 22 als Szene mit Handlung (finden, lesen, zurücklegen) statt als Vision“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (Plot-Konkretisierung).
-- **Title.** „AEGIS' Dilemma“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590] (Konzept-Iteration Genesis) · „Z3-AEGIS-Eskalation + Genesis-Flashback“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1003] (konsolidiertes Konzept) · „Z3-Reaktion + Genesis-Flashback (Komp 734)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L755] (strukturierter Outline); the last opens with the Genesis document's stage name, „Z3-Reaktion, Genesis-Cluster Ende“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590] (Konzept-Iteration Genesis).
+- **Title.** „AEGIS' Dilemma“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590] (Konzept-Iteration Genesis) · „Z3-AEGIS-Eskalation + Genesis-Flashback“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1003] (konsolidiertes Konzept) · „Z3-Reaktion + Genesis-Flashback (Komp 734)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L755] (strukturierter Outline); the last opens with the Genesis document's stage name, „Z3-Reaktion, Genesis-Cluster Ende“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L590] (Konzept-Iteration Genesis) · „Die Juna-Superposition“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156] (the Hard-SF-Outline).
 
 ## Questions for this chapter
 

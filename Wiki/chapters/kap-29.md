@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,18 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael wird von LogOS (oder einem anderen logikbasierten Guardian) in die Enge getrieben.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
 - Story: „eine perfekt logische, aber selbstwidersprüchliche Aussage“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
 - Story: „gerät in eine Verarbeitungsschleife oder einen temporären Absturzzustand, was Kael ermöglicht, ihn zu umgehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Island-Formel breaks the hologram
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Die Island-Formel“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Story: „wendet Kael die Island-Formel an, ein Prinzip zur Rettung von Information aus Schwarzen Löchern.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]
+- Who: „identifiziert Kael in Zusammenarbeit mit Selene und Lex die unzerstörbaren“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176] · „die essenziellen, positiven Wahrheiten jedes einzelnen Alters“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]
+- Juna: „Indem sie diese Inseln über Quantenverschränkung (den Moonshine-Link) mit Juna im Äußeren verknüpfen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]
+- Establishes: „Der Raum expandiert gewaltsam zurück in die Dreidimensionalität.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -101,7 +113,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 
 ## Where the sources differ
 
-- **Title.** „Angst des Kindes“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis) · „Refusal: Letzte Zweifel, Trauma-Echo“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L927] (strukturierter Outline); the second opens with the Genesis document's stage name, „HR-Stufe 3: Refusal“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis).
+- **Title.** „Angst des Kindes“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis) · „Refusal: Letzte Zweifel, Trauma-Echo“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L927] (strukturierter Outline); the second opens with the Genesis document's stage name, „HR-Stufe 3: Refusal“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis) · „Die Island-Formel“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176] (the Hard-SF-Outline).
 
 ## Questions for this chapter
 

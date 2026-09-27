@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Das Schlupfloch-Verzeichnis“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L253]
 - Story: „eine Regel, die von LogOS in KW1 streng durchgesetzt wird, von Cerberus in KW3 leicht anders oder weniger rigoros interpretiert wird“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
 - Story: „eine mentale (oder versteckte physische/digitale) Liste dieser kleineren Exploits und Inkonsistenzen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Lia teaches Kael the Archiv's paraconsistent logic
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Der Tanz der Widersprüche“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Where: „Um durch das Archiv zu navigieren, in dem Räume ihre Position wechseln, sobald man sie verlässt, muss Kael die parakonsistente Logik adaptieren.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
+- Who: „Lia, die ambivalente Träumerin, übernimmt die kognitive Führung.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
+- Story: „Sie lehrt Kael, zwei absolut gegensätzliche Überzeugungen gleichzeitig zu halten“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
+- Establishes: „Diese kognitive Dissonanz erlaubt es ihnen, Wände als reine Suggestion zu durchschreiten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -131,7 +143,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 - **Where the Genesis flashbacks begin.** „Beginn Genesis-Flashback-Cluster.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (Kapitel-Kompendium) · „Erster Genesis-Flashback (Bridge): Cluster-Bildung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L669] (strukturierter Outline) · „Kap 20 | KW2 / Genesis-Flashback“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Flashbacks beginnen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] (Kernwelten vollständig), whose row for this chapter is „Qualia-Informationsparadox“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844] · „Hartes Problem“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844] (Kernwelten vollständig). (C12) · „Genesis-Flashbacks (Kap 18–22)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L59] (the philosophy catalogue), a range with no beat.
 - **Kap 18's Genesis beat.** „Genesis-Beat 2 (Cluster) wird flashback-mäßig durch Kael durchgespielt; er erlebt fremde Erinnerungen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L576] · „mit präzisen Beats in 18 (Cluster), 21 (Trennungsprotokoll), 22 (Komp 734). Aber das sind Vorschläge.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790] (Konzept-Iteration Genesis) · „Kap 18–22 — Genesis-Flashback-Cluster“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] · „Einheit → Trennungsprotokoll → Kael = Komp 734“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] (Kapitel-Kompendium), a sequence with no Cluster-Bildung beat. (C12)
-- **Title.** „Z2-Cache-Konflikt + Genesis-Cluster“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L995] (konsolidiertes Konzept; „Cache-Konflikt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L574] Konzept-Iteration Genesis) · „Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L659] (strukturierter Outline) · „Qualia-Informationsparadox“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as „(Zyklus-Funktion: Z2-Cache-Konflikt)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343] (storyform outline). · „Kap 18 — Qualia-Informationsparadox“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L369] (the philosophy catalogue, as its theory anchor).
+- **Title.** „Z2-Cache-Konflikt + Genesis-Cluster“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L995] (konsolidiertes Konzept; „Cache-Konflikt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L574] Konzept-Iteration Genesis) · „Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L659] (strukturierter Outline) · „Qualia-Informationsparadox“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as „(Zyklus-Funktion: Z2-Cache-Konflikt)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343] (storyform outline). · „Kap 18 — Qualia-Informationsparadox“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L369] (the philosophy catalogue, as its theory anchor) · „Der Tanz der Widersprüche“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146] (the Hard-SF-Outline).
 
 ## Questions for this chapter
 

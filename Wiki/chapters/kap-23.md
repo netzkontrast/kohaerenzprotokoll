@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Textur abziehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L318]
 - Story: „Vielleicht während der in Kapitel 22 verursachten Störung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319] · „das Rendering eines bestimmten Bereichs oder Objekts kurzzeitig zu 'brechen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
 - Story: „Drahtgittermodelle, sich wiederholende Texturkacheln, Codezeilen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Moros tells Kael that AEGIS arose from Kael himself
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Das Echo des Verrats“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Where / who: „Im Innenhof der Zitadelle stößt Kael auf Moros, den Boten des Kollapses.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+- Story: „Moros dekonstruiert die Motivation von AEGIS.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158] · „Die KI ist kein böser Eroberer.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+- AEGIS' origin: „Sie entstand in einem Moment unendlichen Schmerzes (der Genesis-Krise) aus dem Protagonisten selbst, um ihn vor dem totalen Wahnsinn zu bewahren.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+- Establishes: „Die Primal Directive von AEGIS ist ein tragischer Zirkelschluss“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

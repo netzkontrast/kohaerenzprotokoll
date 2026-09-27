@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -31,6 +31,19 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Umgebungskontrollen werden offen feindselig oder restriktiv, zuvor zugängliche Bereiche werden abgeriegelt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „Guardians wechseln von Überwachung/Korrektur zu aktiver Jagd oder Eindämmung von Kael“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „seinen neuen Status als 'kritische Bedrohung' oder 'abtrünnige Entität'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael lands in KW4, an overgrown ruined garden in warm light
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Kairos-Potentialis“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L170]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Journey: „Der dritte Akt vollzieht den Übergang in die klassische Heldenreise.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L168]
+- World: „Kael landet in KW4.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172] · „Hier herrscht warmes Licht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
+- Place: „Er steht in einem überwucherten Ruinengarten, dessen Erde feucht ist und der dezent nach Ozon des Werdens riecht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
+- Establishes: „Es ist die Generative Computational Class, der einzige Raum im System, in dem neues Leben und neue Information entstehen können.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
+- The alters: „Die Stimmen der Alters in Kaels Geist sind nun kein Rauschen mehr, sondern ein vielstimmiger, klarer Chor.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -109,7 +122,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
-- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung).
+- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung) · „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166] (the Hard-SF-Outline), whose Akt III opens with this chapter.
 - **Title.** „Autoren-Feder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L610] (Konzept-Iteration Genesis) · „Ordinary World: Entschlossenheit“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L879] (strukturierter Outline); the second opens with the Genesis document's stage name, „Modus-Wechsel zu HR außen, HR-Stufe 1: Ordinary World“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L610] (Konzept-Iteration Genesis).
 
 ## Questions for this chapter

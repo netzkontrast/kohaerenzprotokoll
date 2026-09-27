@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C9", "C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die umgeschriebene Geschichte“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L344]
 - Story: „Er findet die Aufzeichnungen subtil verändert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L345]
 - Story: „beharrt AEGIS darauf, dass die Aufzeichnungen korrekt sind und Kaels Gedächtnis fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L345]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Selene coordinates the alters' first synergy
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Synergie der Alters“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Story: „Mit der zerschmetternden Erkenntnis weicht die Dissonanz einer ersten, rohen Synergie.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]
+- Who: „Selene, die innere Vermittlerin (ISH), tritt hervor und koordiniert die EPs und ANPs.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]
+- Against Cerberus: „um die SIS-Protokolle (Systemic Identity Safeguard) von Cerberus zu überlasten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]
+- Establishes: „Es ist das erste Mal, dass das System Kael kooperiert, anstatt sich gegenseitig zu bekämpfen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -165,7 +177,7 @@ Position: „Akt II — Schwelle" ^[kp-kap25-2026-09-14-md.md:L31]
 
 ## Where the sources differ
 
-- **Title.** „Wegkreuzung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602] (Konzept-Iteration Genesis) · „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L827] (strukturierter Outline) · „Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium); the second is the Genesis document's stage name, „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602], the third its position for two chapters, „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364] (Konzept-Iteration Genesis), and the Kompendium gives the one title to both: „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium). The Kap-25 session log gives the manuscript's chapter the first: „Wegkreuzung" ^[2026-09-14-kap25-vertiefung-md.md:L11] (Kap-25 session log), and says the Plot-Konkretisierung names Kap 25 „Die Niederlegung" ^[2026-09-14-kap25-vertiefung-md.md:L31] (Kap-25 session log). The Kap-25 chapter file itself carries the first, in its frontmatter and in the prose's heading: „Wegkreuzung" ^[kp-kap25-2026-09-14-md.md:L18] (Kap-25 chapter file).
+- **Title.** „Wegkreuzung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602] (Konzept-Iteration Genesis) · „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L827] (strukturierter Outline) · „Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium); the second is the Genesis document's stage name, „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602], the third its position for two chapters, „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364] (Konzept-Iteration Genesis), and the Kompendium gives the one title to both: „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium). The Kap-25 session log gives the manuscript's chapter the first: „Wegkreuzung" ^[2026-09-14-kap25-vertiefung-md.md:L11] (Kap-25 session log), and says the Plot-Konkretisierung names Kap 25 „Die Niederlegung" ^[2026-09-14-kap25-vertiefung-md.md:L31] (Kap-25 session log). The Kap-25 chapter file itself carries the first, in its frontmatter and in the prose's heading: „Wegkreuzung" ^[kp-kap25-2026-09-14-md.md:L18] (Kap-25 chapter file) · „Synergie der Alters“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162] (the Hard-SF-Outline).
 - **The number 734.** „Die Zahl 734 erscheint zum dritten Mal — Kael ahnt jetzt, dass das eine Adresse oder ein Name ist.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L837] (strukturierter Outline) · the Kap-25 chapter file claims of its canon „Anker 734 dritte Wiederkehr" ^[kp-kap25-2026-09-14-md.md:L48], and its prose renders no such thought: 734 stands on four prose lines, the system's capital-letter lines (L56, L211, L217) and one record line in italics (L79), never in a sentence of the first person's; `Adresse` and `Name` stand 0 times (`05-verify-readers.txt`) (Kap-25 chapter file).
 
 ## Questions for this chapter

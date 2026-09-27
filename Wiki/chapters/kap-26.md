@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C9"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,18 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der präventive Gegenschlag“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L357]
 - Story: „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358]
 - Story: „Kael erkennt, dass AEGIS nicht nur reagiert hat; es hat seine Absicht vorhergesagt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS destroys KW3, and the fall into the fourth Kernwelt
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Das Portal zum Kern“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- AEGIS: „AEGIS, nun als gigantisches Täter-Introjekt entlarvt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
+- Story: „reagiert auf den drohenden Autonomiegewinn mit der totalen Vernichtung von KW3.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
+- Sensorik: „Eine gewaltige Landauer-Explosion aus Ozon und Hitze fegt die Zitadelle hinweg.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
+- Exit: „Kael und sein innerer Chor fliehen durch die schmelzenden Wände hindurch und stürzen sich in den Riss, der direkt in die vierte und letzte Kernwelt führt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -133,7 +145,7 @@ The file of the manuscript's Kap 25, research, not text for the novel; it does n
 
 ## Where the sources differ
 
-- **What meets Kael as he steps out.** „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] (aegis-subplots) · „Kap 26 nicht Kampfbeginn — Schwellen-Tritt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L873] (strukturierter Outline) · „Kael verlässt den Knoten; die Tür registriert ihn nicht mehr.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung).
+- **What meets Kael as he steps out.** „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] (aegis-subplots) · „Kap 26 nicht Kampfbeginn — Schwellen-Tritt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L873] (strukturierter Outline) · „Kael verlässt den Knoten; die Tür registriert ihn nicht mehr.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung) · „reagiert auf den drohenden Autonomiegewinn mit der totalen Vernichtung von KW3.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164] (the Hard-SF-Outline), which ends its Akt II here.
 - **Title.** „Schritt ins Ungewisse“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L606] (Konzept-Iteration Genesis) · „Wendepunkt: Entscheidung zur Befreiung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L851] (strukturierter Outline) · „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium), one title for Kap 25 and Kap 26.
 
 ## Questions for this chapter

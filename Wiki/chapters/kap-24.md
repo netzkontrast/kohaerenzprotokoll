@@ -1,9 +1,9 @@
 ---
 chapter: 24
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md"]
-records: ["C9"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
 
@@ -30,6 +30,21 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der Empathie-Test“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L331]
 - Story: „Kael versucht, eine genuinely empathische oder subjektive Reaktion von AEGIS oder einem hochrangigen Guardian hervorzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
 - Story: „Kael kommt zu dem Schluss, dass AEGIS simuliert, aber nicht fühlt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the twist: the Fragmentierungsnacht, and the worlds and companions revealed as a split mind
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Die Fragmentierungsnacht (Der Twist)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Where: „Kael bricht in den Hauptrechner der Zitadelle ein.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160]
+- Story: „doch die Bildschirme zeigen das zweite Layer des Origin-Traumas: Die Fragmentierungsnacht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160]
+- The worlds: „Logos-Prime, das Archiv, die Zitadelle – sie sind keine physischen Orte, sondern architektonische Metaphern eines zersplitterten Gehirns.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160]
+- The companions: „Lex, Rhys, Nyx, Kiko – sie sind keine KI-Begleiter, sondern dissoziative Alters.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160]
+- The night: „den Moment der Tertiären Strukturellen Dissoziation, in dem seine Psyche unter dem unerträglichen Gewicht eines Traumas in dreizehn Fragmente zersprang.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160] (C12)
+- Establishes: „Der kosmische Horror war die ganze Zeit über ein Blick in den eigenen, gebrochenen Spiegel.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160]
+- Checklist, Fixpunkt 10: „Origin Trauma = Doppelter Boden:“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224] · „In Kapitel 24 folgt der Twist: Der gesamte Horror ist die Visualisierung der Fragmentierungsnacht (TSDP).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -124,7 +139,7 @@ Position: „Akt-II-Arc verlangt für 24–26 eine getragene Schwellensequenz" ^
 
 ## Where the sources differ
 
-- **Title.** „Telefon-Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598] (Konzept-Iteration Genesis) · „wiederkehrendes K-J-Thema“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L217] (Kapitel-Kompendium); the Kompendium's title is the Genesis document's stage name, „Wiederkehrendes K-J-Thema“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598] (Konzept-Iteration Genesis), and the strukturierter Outline joins the two: „Telefon-Stille (K-J-Thema wiederkehrend)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L803] (strukturierter Outline).
+- **Title.** „Telefon-Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598] (Konzept-Iteration Genesis) · „wiederkehrendes K-J-Thema“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L217] (Kapitel-Kompendium); the Kompendium's title is the Genesis document's stage name, „Wiederkehrendes K-J-Thema“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598] (Konzept-Iteration Genesis), and the strukturierter Outline joins the two: „Telefon-Stille (K-J-Thema wiederkehrend)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L803] (strukturierter Outline) · „Die Fragmentierungsnacht (Der Twist)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160] (the Hard-SF-Outline).
 
 ## Questions for this chapter
 

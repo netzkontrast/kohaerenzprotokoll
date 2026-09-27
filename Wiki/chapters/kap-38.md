@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -30,6 +30,20 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Subplot idea: „Das kreative Chaos“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L517]
 - Story: „In der instabilen Umgebung nach AEGIS' Fall (oder Schwächung)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] · „neue, seltsame 'Lebensformen' oder Strukturen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
 - Story: „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Fundament as a Strange Attractor, and the Ouroboros
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Der Strange Attractor“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L202]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Story: „Kael betrachtet die innere Architektur seines Geistes.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204]
+- The worlds: „Die Kernwelten existieren nicht mehr als isolierte Gefängnisse, sondern als fließende, verbundene Ökosysteme.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204]
+- The Fundament: „Das Fundament offenbart sich als Strange Attractor der Chaostheorie“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204]
+- Establishes: „Die Erkenntnis manifestiert sich als Ouroboros“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204] · „Die gewaltsame Trennung seiner Seele war nie das Ende, sondern der notwendige Weg zu einer höheren Komplexität.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204]
+- Establishes: „Es ändert nichts an dem erlittenen Schmerz, aber es nimmt ihm die Zerstörungskraft.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204]
+- Checklist, Fixpunkt 6: „Resolution: Fundament = Strange Attractor, Trennung nie real, ändert nichts am Schmerz. Ouroboros.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220] · „Die Fraktur war Rettung, der Schmerz bleibt real und gültig.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -137,7 +151,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 ## Where the sources differ
 
 - **What the chaos is.** „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] (aegis-subplots) · „Beat 1 — Das Rauschen kommt: sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1172] (strukturierter Outline) · „das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L399] (storyform outline).
-- **Vortex 2 or Resolution.** „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L905] · „B: das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036] (konsolidiertes Konzept) · „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „0% (nur A aktiv)“ ^[dual-storyform-hintergruende-md.md:L337] · „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] (the Dual-Storyform background document), which names no second Vortex.
+- **Vortex 2 or Resolution.** „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L905] · „B: das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036] (konsolidiertes Konzept) · „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „0% (nur A aktiv)“ ^[dual-storyform-hintergruende-md.md:L337] · „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] (the Dual-Storyform background document), which names no second Vortex · „Resolution: Fundament = Strange Attractor, Trennung nie real, ändert nichts am Schmerz. Ouroboros.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220] (the Hard-SF-Outline, its checklist's Fixpunkt for this chapter), which names no Vortex: `Vortex` stands 0 times (`05-verify-readers.txt`).
 
 ## Questions for this chapter
 
