@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 22
-readings: 22
+sources: 29
+readings: 29
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
 gathered: "2026-09-16"
 ---
 
@@ -196,3 +196,44 @@ It writes the English name only, `Functional Multiplicity` — this page's funkt
 **Chosen in the Vortex**, „Ch35-36" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L118], its fourth point: „The Choice of Multiplicity: Kael rejects "Fusion" as a systemic fix, choosing to hold the fragments apart." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L127]
 **What AEGIS refuses.** „Its objective progress is hindered by its refusal to accept multiplicity as a functional state, ensuring its eventual collapse when it can no longer contain the "chaos" of the Alters." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L52] Kael's mirror lag shows „the gap between his systemic persona and his true multiplicity" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L38].
 It places no achievement in Kap 33 (`Kap` 0, `Ch33` 0) and has no veil (`veil`, `Schleier` 0; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — the end goal, and the missing alters it needs
+
+An English report of seeds, each marked `Kanon-Kompatibel` against the 2026-05-08 Kanon — recorded, not applied; a seed's `Lever` is a proposal. It writes the English name only, `Functional Multiplicity`, this page's funktionale Multiplizität (J100; `Multiplizität` 0, `05-verify-readers.txt`).
+A post-pivot seed of Storyform A, 13 alters synchronised: „Signals the transition from dissociation to functional multiplicity." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L23] Its index: „Establishes functional multiplicity as the end goal." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L94]
+Its open questions: „To achieve Functional Multiplicity" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L79], „we must extract the sensory signatures of the "missing" alters:" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L79] — Lia, Isabelle, Argus and Silas. It names no fusion (`Fusion` 0) and no chapter where it is reached.
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — not fusion, a high-Φ state, and the Polyphony
+
+An English report of seeds, each marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon — recorded, not applied. `Functional Multiplicity` is its English name (J100).
+„Kael’s journey is not a battle for unity through fusion, but a struggle to evolve into a "Functional Multiplicity" capable of holding the contradictory truths of his existence." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L17] In B it is what AEGIS cannot compute, a high-Φ state (L64).
+Its contradiction log, against medical files that suggest `Verschmelzung` „(Fusion) as the goal." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L179]: „Kanon explicitly rejects Fusion in favor of Multiplicity." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L179] — and its resolution, Kael's victory as the system's „Polyphony" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L179].
+It is reached in Act III and needs bodies: „the physical manifestation of alters required for the "Functional Multiplicity" resolution in Act III." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L159] Selene, the Inner Self Helper, „is the key pivot for the "Functional Multiplicity" resolution." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L165] No chapter (`Kap` 0; its one range is the Vortex's).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — the narrative objective, a Strange Attractor of the Wir
+
+An English world bible that calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied. `Functional Multiplicity` is its English name (J100).
+It is the Host's arc goal (L51), and the whole system's: „The narrative objective is Functional Multiplicity" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L53], „rejecting "Final Fusion" in favor of a Strange Attractor" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L53] model, „a dynamic balance of the "Wir" (We)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L53] It places the achievement in no chapter (`Kap`, `Ch` 0; `05-verify-readers.txt`).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — achieved in the Vortex's fifth beat
+
+An explanatory guide that cites nothing. `Functional Multiplicity` is its English name (J100).
+The Host's row: „Toward Multiplicity" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L60]. It is reached in the Vortex (Chapters 35-36), in the fifth beat, `Rotation`: „Kael achieves Functional Multiplicity" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L108], „not a fusion into one, but a polyphonic "Wir" (We)." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L108]
+So it places the achievement in the Vortex's last beat, where the Dual-Storyform background document of its date has „FM-Achievement Kap 33." ^[dual-storyform-hintergruende-md.md:L335]
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — the map of thirteen, the Multiplicity Veil enforced by the Erasure-Pol, the Strange-Attractor-Form
+
+A compendium of the Kael system that cites nothing. `Functional Multiplicity` is its English name (J100).
+Its roster is „The 13 Identities: A Map of Functional Multiplicity" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L32]. The veil is AEGIS': the Erasure-Pol is „absorbing the functions of logic and temporal control to enforce the "Multiplicity Veil."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L52]
+„The resolution of the Kael system is Functional Multiplicity" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L71], „not "Final Fusion."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L71] „The system remains "Thirteen," existing as a Strange-Attractor-Form" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L71] It places neither the veil's end nor the achievement in a chapter (`Kap`, `Ch` 0; `05-verify-readers.txt`).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — the veil in Act I, the chorale in Act III, and multiplicity as amnesic terror
+
+Writing rules; its mandates are its own, recorded, not applied. `Functional Multiplicity` is its English name (J100).
+By act: „Act I (Ch. 1-13): The Multiplicity Veil." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L57] „Act III (Ch. 27-39): The Chorale." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L59] „This is not "Fusion" (disappearance of parts) but "Functional Multiplicity" (parts orbiting a single point of truth)." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L59] So the veil holds to Ch. 13, and the achievement has an act and no chapter.
+Its third mandate uses the bare word for the condition, not the healing: „Multiplicity is "Amnesic Terror."" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L100] „It is the harrowing loss of self, not a "character selection menu."" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L100]
+
+## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — healing as a We
+
+A popular essay that cites nothing. `Functional Multiplicity` is its English name (J100).
+„Healing is achieved through "Functional Multiplicity"—a state where the fragments operate as a "We" rather than a single "I."" ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] „The resolution of the protocol avoids the trope of "fusion."" ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39]

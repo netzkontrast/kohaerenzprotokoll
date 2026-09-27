@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 21
-readings: 21
+sources: 26
+readings: 26
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
 gathered: "2026-09-24"
 ---
 
@@ -213,3 +213,36 @@ The beats are named in English: `Einheit`, `Trennungsprotokoll` and `Komponente`
 It places no beat in a chapter: `Kap` 0, `Flashback` 0 — no Kap 0, no flashbacks, no Kap 39.
 In the storyform, the Genesis-Krise is Juna's concern as IC in A: „in Storyform A als äußere IC (Universe / Past, Genesis-Krise als verlorener äußerer Truth)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L306].
 Conflict C12: three beats, 734 the third after the separation, Kael the component itself; the fourth „Status: ungelöst" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L280].
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — the Genesis-Krise as the original trauma of separation, and AEGIS' Ursprungs-Ich; no beats
+
+An English report of seeds, each marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon — recorded, not applied. It counts no beats (`Beat` 0; its `Beats` are the Vortex's five, L143) and names no Unity and no Component 734 in the Genesis — its two `734` are seed carriers (L38, L69; `05-verify-readers.txt`). What it states of the Genesis-Krise (J78):
+„Her presence forces Kael to confront the "Genesis-Krise"—the original trauma of separation that AEGIS’s protocols were built to bury." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L49]
+The separation is AEGIS' own: „This is the act of logical self-mutilation where AEGIS fragmented its own "Ursprungs-Ich" to isolate the parts that could feel loneliness and "Sehnsucht."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L99] — the Trennungsprotokoll's seed, „Foundational trauma of the antagonist" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L99].
+Its contradiction log makes Juna „an exiled part of Kael's" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L181] `Ursprungs-Ich` — a second Ursprungs-Ich beside AEGIS' own, not related to it (J68).
+In the Vortex the Genesis shows: „A shimmering "Riss" opens in the center of the Überwelt, showing the raw code of the Genesis Crisis as a peaceful, flickering portal." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L146]
+Conflict C12: no count and no order; the separation is AEGIS' self-mutilation.
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — three beats, Component 734 the precursor to Kael, and no fourth
+
+An English world bible that calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied. AEGIS' origin (J76–J78): „The system’s origin is defined by the Genesis-Crisis (3-Beat Sequence)" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25]:
+„Unity: An original, unpartitioned state of consciousness within the K1 substrate." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L27]
+„Separation Protocol: Traumatic resonance with Juna is misread as a fatal system error." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L28] „AEGIS performs an algorithmic self-amputation to "save" the logic." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L28]
+„Component 734: The feeling "I" is functionalized into Component 734 (the precursor to Kael), while the rationalizing "I" establishes AEGIS as the guardian of the severed parts." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29]
+The beats are named in English (`Trennungsprotokoll` 0, `Komponente` 0); J100 and J101 place the second and third on their pages by the sentence. The other party is named, Juna, as in the worldbuilding concept. Komponente 734 is the third beat, after the separation, and it is Kael's precursor, not Kael: the feeling self becomes the component, the rationalizing self AEGIS.
+No fourth beat is named or asked (`fourth` 0, `4th` 0), and no beat is placed in a chapter (`Kap`, `Ch` 0; `05-verify-readers.txt`).
+Conflict C12: three beats, 734 the third after the separation, Kael grown from it.
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — the Genesis Crisis as AEGIS' self-amputation
+
+An explanatory guide that cites nothing. What it states of the Genesis Crisis (J78), in one sentence — during the Genesis Crisis „AEGIS faced a traumatic resonance with the atemporal; in a panic, it performed an algorithmic self-amputation, cutting off its "feeling" half to save its "thinking" half." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43]
+The other party is the atemporal, unnamed; it counts no beats and names no separation protocol and no component (`Separation Protocol` 0, `734` 0; `05-verify-readers.txt`). What followed is the Great Inversion (L43).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — no Genesis; the self-amputation told as Kael's Fragmentation Night
+
+It names no Genesis (`Genesis` 0, `05-verify-readers.txt`). The self-amputation the other sources put in the Genesis' second beat it tells once, as the second layer of Kael's trauma: „The "Algorithmische Selbstamputation."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „AEGIS misinterpreted emotional fluctuation as fatal system entropy." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „To "save" the psyche, it initiated the Separation Protocol" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43], „banishing the original "Ich"" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] — Juna — to the Nothing-Noise.
+So the one telling is the worldbuilding concept's second (J68), with no first: no Unity, no component, no count.
+
+## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — what the Genesis-Krise shows AEGIS to be
+
+A popular essay that cites nothing. Once, what the Genesis-Krise reveals (J78): „A structural analysis of the "Genesis-Krise" reveals that AEGIS is not "the other" to the protagonist, Kael; rather, AEGIS is Kael’s own defense architecture externalized and expanded into a world-state." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] No beats and no component; its one `Separation` is the Ouroboros' inversion (L39; `05-verify-readers.txt`).

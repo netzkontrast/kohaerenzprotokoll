@@ -1,10 +1,10 @@
 ---
 term: TSDP
 status: candidate
-sources: 15
-readings: 15
+sources: 22
+readings: 22
 conflict: none yet
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
 gathered: "2026-09-25"
 ---
 
@@ -108,6 +108,39 @@ What holds it: „Ein zentrales Element der TSDP: Phobien halten die strukturell
 It carries the model up a level: „Strukturell ist AEGIS ein System-Ebene-ANP" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L247].
 And its count: „Der Canon hält genau 13 Alter. Frühere Vorschläge (11, 14, 15+) sind dekanonisiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L484]
 
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — the diagnosis Kael resolves by integration, in thirteen
+
+An English report of seeds, each marked `Kanon-Kompatibel` against the 2026-05-08 Kanon — recorded, not applied. It expands the letters in German, as the diagnosis: Kael's struggle is „focusing on the internal resolution of TSDP (Tertiäre Strukturelle Dissoziation der Persönlichkeit) through adaptation and integration." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L19] Its index matches a seed to „the 13-alter TSDP structure." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L90] It names no ANP, EP or phobia (`ANP` 0, `EP` 0; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — ANPs in phobic avoidance, the freeze mapped to the simulation's physics
+
+An English report of seeds, each marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon — recorded, not applied; what a seed says the TSDP model validates is its claim. It does not expand the letters.
+„Kael’s conflict is initially defined by a state of structural dissociation (TSDP), where "Apparently Normal Parts" (ANPs) utilize phobic avoidance to maintain a fragile, sterile coherence." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L17] Healing is the integration of the EPs, „the shift from dissociative avoidance to the pursuit of "Correspondence"—the integration of traumatic "Emotional Parts" (EPs)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L17].
+It maps the model onto the simulation: Kiko's seed „Maps the TSDP "Freeze" response to the simulation's physics as per the 2026-05-08 Kanon" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23]; the Cerberus Labyrinth's „Validates the "Fight" EP's role in system defense as per the TSDP model" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85]. AEGIS feeds the phobia: its Brutal Calculus „Explains the "ANP-EP Phobia" that drives the Act I stabilization conflict." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L130]
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — the clinical foundation, a double trauma, and the phobia AEGIS exploits
+
+An English world bible that calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied. Its heading gives the diagnosis: „System Kael: Tertiary Structural Dissociation (TSDP)" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L49].
+„Kael is a system of thirteen fragments partitioned by Amnesie-Terror" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51], „modeled on the clinical foundation of TSDP." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] Its table has five ANP rows, five EP rows, a „Special" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] and two „Mirror" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] rows.
+What holds it: „The system is maintained by the ANP/EP-Phobia Mechanism" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L53], „where AEGIS exploits the fragments' fear of traumatic data to enforce amnesia." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L53]
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — a survival architecture, and a phobic wall
+
+An explanatory guide that cites nothing. „His mind is built on Tertiary Structural Dissociation (TSDP)" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L54], „a survival architecture designed to partition the heat of his trauma across 13 distinct fragments." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L54]
+„The system is kept in place by a phobic wall between the ANPs (Apparently Normal Parts, like Lex) and the EPs (Emotional Parts, like Nyx)." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L86] „The ANPs fear that meeting the EPs will cause a "System Collapse," not realizing that integration is the only path to true Coherence." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L86]
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — TSDP in a computational substrate, with Sonder and Spiegel
+
+A compendium of the Kael system that cites nothing. „The subject is not merely a patient, but a systemic architecture of Tertiary Structural Dissociation (TSDP) instantiated within a computational substrate." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L13] Its table's categories are ANP, EP, „Sonder" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] and „Spiegel" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34]. The first trauma layer made the core EPs: „forcing the creation of the core EPs (Kiko, Lia, Moros)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42]
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — ANPs and EPs, and the Spiegel alters on another axis
+
+Writing rules; recorded, not applied. „The Kael system represents a Tertiäre Strukturelle Dissoziation (TSDP), split between Apparently Normal Parts (ANPs) and Emotional Parts (EPs)." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L38] The Spiegel alters stand across that split: „While most alters navigate horizontal trauma (ANP vs. EP), the Spiegel alters bridge the Individual Holon (Kael) and the Cosmic Holon (AEGIS/Juna)." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L42]
+
+## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — thirteen fragments partitioned by the phobia
+
+A popular essay that cites nothing. The resolution „utilizes System Kael’s architecture: Tertiary Structural Dissociation of the Personality (TSDP)." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] „Kael consists of 13 distinct Alter fragments, partitioned by an ANP/EP Phobia (Apparently Normal Parts vs. Emotional Parts)." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39]
+
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
 „**Modell.** TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit (van der Hart, Nijenhuis, Steele 2006)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42]
@@ -155,11 +188,20 @@ The konsolidiertes Konzept, the Worldbuilding-Konzept, the Alter profiles and th
 „TSDP (Tertiäre Strukturelle Dissoziation der Persönlichkeit)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L348]
 „TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162]
 The Worldbuilding-Konzept writes the same (its L388), and so do the profiles (their L42). The Inquiry has both, in two of its papers (its L244, L1594).
+Six of the seven English documents of 2026-05-08 expand it, all as the diagnosis: the Plot/Outline Mining-Report in German,
+„TSDP (Tertiäre Strukturelle Dissoziation der Persönlichkeit)“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L19]; the Editorial Style Dossier without the Persönlichkeit,
+„Tertiäre Strukturelle Dissoziation (TSDP)“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L38]; the Systemic Architecture Specification, the Companion Guide and the
+Architecture of Fracture in English, „Tertiary Structural Dissociation (TSDP)“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L49] (and theirs L54, L13); the Physics of
+Heartbreak with it, „Tertiary Structural Dissociation of the Personality (TSDP)“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39]. The Narrative Building Blocks report
+does not expand it: „structural dissociation (TSDP)“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L17].
 
 **How many parts the model holds.** Eleven in the Inquiry's diagnostic paper (its
 L1605) and in the chapter plan of 2026-02-26 (its L33); thirteen in every source of
 2026-05-08 and later that counts them. The Alters page has the rosters. The
 philosophischer Bericht holds thirteen and calls the other counts retired: „Frühere Vorschläge (11, 14, 15+) sind dekanonisiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L484]
+The English documents of 2026-05-08 that count hold thirteen too: the Plot/Outline Mining-Report (its L90), the
+Systemic Architecture Specification (L51), the Companion Guide (L54), the Architecture of Fracture (L34), the
+Editorial Style Dossier (L15) and the Physics of Heartbreak (L39).
 
 **Tertiary, or more.** The master report calls Kael's case tertiary structural
 dissociation, „Typisch für DIS / komplexes Trauma" ^[kohaerenz-protokoll-konzept-master-md.md:L381].
@@ -169,6 +211,9 @@ The worldbuilding concept calls it tertiary in its heading (L384) and lists both
 categories (L409–L411), with neither word (`grep -ci erweitert`: 0, `grep -c Typisch`: 0).
 The philosophischer Bericht writes the master report's words, „mehrere ANPs und mehrere EPs (typisch für DIS)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L476],
 and has both extra categories in its table (L501–L503) without calling the architecture extended (`grep -c erweitert`: 0).
+The Systemic Architecture Specification and the Architecture of Fracture call it tertiary and list both extra categories, as
+`Special`/`Mirror` and `Sonder`/`Spiegel` (their L51, L34), with neither `extended` nor `typical` (`grep -ciw`: 0 each). The
+Editorial Style Dossier sets the Spiegel alters on a vertical axis across the ANP/EP split (its L42).
 
 ## Open
 

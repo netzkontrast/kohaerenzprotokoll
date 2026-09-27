@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 24
+sources: 29
 pages: ["juna"]
 ---
 
@@ -237,3 +237,38 @@ Neither Kap 33 nor Kap 38: effect and open anchors, on the date of the character
 „Juna must be described exclusively as an effect or sensory resonance (light, frequency, warmth)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22] „She possesses no physical body." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22] Its backlog: „Quarry-01: Physical Juna Encounter." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L149] „Reasoning: Violates Kanon 2026-05-08 (Juna must remain non-physical)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L149] Both of her seeds carry „Non-physical effect only." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L59] (and L62) — golden warmth and light (L60), the scent of moist leaves in place of AEGIS' ozone (L63) — and neither is placed in a chapter. Its canon claim, „(Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11] in its title, is recorded, not applied.
 `Kap` stands 0 times, `Ch33` and `Ch38` 0; its one chapter, „Ch35-36" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L118], is the Vortex, whose five points (L124–L128) do not name her (`05-verify.txt`, `05-verify-readers.txt`).
 Neither Kap 33 nor Kap 38: on no row, an effect only, on the date of the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
+
+**No appearance placed — a presence in the phase `Catalyst`, felt as a drop in temperature.**
+„She is a situational anomaly (Moonshine-Link) who forces Kael to witness the external reality of his hidden world." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L36] Her seed: „A sudden drop in ambient temperature accompanied by the smell of rain-drenched silver and the weight of atemporal mutual information in the jawbone." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L37] „Breaks Kael's internal isolation with an impossible situational presence." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L37] Its `Kanon-Kompatibel` marks are recorded, not applied.
+`Kap` and `Ch` stand 0 times; its one chapter range is the Vortex's, „The Vortex: Convergence and Pivot (Chapters 35–36)" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L67], whose five points do not name her (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: a presence in a phase, on the date of the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**No appearance placed in a chapter — but a manifestation: a glitchy projection in the Mnemosyne-Archipel, in the phase `Weaving`.**
+„Kael experiences Juna's presence as the "warm sound of growing things,"" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L53] „Within the Mnemosyne-Archipel, Juna manifests as a glitchy projection that triggers an "attachment cry."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L54] Its `KANON-KOMPATIBEL` marks are recorded, not applied.
+`Kap` stands 0 times; its one chapter range, „VORTEX: The Singularity (Ch35-36)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L137], does not name her (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: a manifestation placed in a world, KW2, and in no chapter — a mode neither row names. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**No appearance placed — never described, and present only by two mandatory markers.**
+„Strict Prohibitions: No physical descriptions (hair, eyes, stature) and no Deus ex Machina." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L46] „Mandatory Presence Markers: anomalous erasure balances and the Phone-Silence." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L47] It calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied.
+`Kap` and `Ch` stand 0 times; its chapters are the Vortex's (L82) and Chapter 39 ↔ Chapter 1 as the Ouroboros (L88), none of them hers (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: markers, not a scene, on the date of the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**No appearance placed — not a ghost and not a character, a structural position.**
+„Juna is not a ghost or a character in the traditional sense; she is a Structural Position." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L90] „She observes Kael without intervening, preventing his fragile mind from a "wave-function collapse" (total deletion) until he is ready to witness himself." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L96]
+`Kap` and `Ch` stand 0 times; its one chapter range is the Vortex's, whose five beats do not name her (L100–L108; `05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38. The conflict stays open.
+
+## 2026-09-27 — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier
+
+**No appearance placed — never described, synthesized through resonances and the Phone-Silence.**
+„Stylistic Constraint: Strictly prohibited physical descriptions (no hair, no height)." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L68] „She is synthesized through "Phantom-Resonances" and the "Phone-Silence" anchor" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L69]. Its fifth mandate: „No Deus Ex Machina: Juna witnesses; she does not solve." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L102] Its mandates are recorded, not applied.
+`Kap` stands 0 times; its three `Ch.` are the act ranges (L57–L59), which do not name her (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: a rule of rendering, on the date of the character bible (row 1). The conflict stays open.

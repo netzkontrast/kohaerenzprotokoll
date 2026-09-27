@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 22
+sources: 25
 pages: ["trennungsprotokoll"]
 ---
 
@@ -235,3 +235,25 @@ Row 1's sequence and order, asked rather than locked: the status report's questi
 The fourth: „Eine offene Frage betrifft einen möglichen 4. Beat, der erst rückblickend nach dem Vortex lesbar wird — Status: ungelöst, siehe Open Questions." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L280] Its OQ-D asks it again: „Oder schließt die 3-Beat-Struktur strukturell ab?" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L756]
 `Trennungsprotokoll`, `Komponente`, `Restgröße`, `Wir-AEGIS-plural`, `Primärdirektive`, `Erinnerungs-Versiegelung`, `Kap` and `Flashback` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`).
 Row 1's count and order, on row 2's date. On component or remainder, it states the component: Kael is one of the components the substance is broken into, numbered, in a beat of its own after the separation — where the character bible and the master report make him the separation's „Restgröße" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L119] and the draft of Kap 0 of 2026-05-08 the cluster cut out of 734. Unlike row 1 and the master report it does not answer the fourth beat „nein"; and unlike every candidate the sources name — Wir = AEGIS-plural, the Primärdirektive, the Erinnerungs-Versiegelung — its fourth has no content, only a place: readable after the Vortex. It places no beat in a chapter. The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**No beats — the Genesis-Krise as the original trauma of separation, the separation as AEGIS' self-mutilation of its own Ursprungs-Ich, and Kael glossed as Component 734.**
+„Her presence forces Kael to confront the "Genesis-Krise"—the original trauma of separation that AEGIS’s protocols were built to bury." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L49] „This is the act of logical self-mutilation where AEGIS fragmented its own "Ursprungs-Ich" to isolate the parts that could feel loneliness and "Sehnsucht."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L99] A seed's carrier: „Kael (Component 734)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L69]. Its contradiction log gives Juna a second Ursprungs-Ich: „Kanon defines her as an exiled part of Kael's" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L181] — its claim about its canon, recorded, not applied.
+`Beat` stands 0 times, `Unity` 0; its `734` are two seed carriers (`05-verify-readers.txt`).
+On no row: no count and no order. It holds row 1's identity of Kael and 734 as a gloss, and two Ursprungs-Ichs, AEGIS' and Kael's, which it does not relate. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Three numbered beats, in English — Unity, Separation Protocol, Component 734 — with 734 after the separation, the precursor to Kael, and no fourth.**
+„The system’s origin is defined by the Genesis-Crisis (3-Beat Sequence)" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25]: „Unity: An original, unpartitioned state of consciousness within the K1 substrate." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L27] „Separation Protocol: Traumatic resonance with Juna is misread as a fatal system error." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L28] „Component 734: The feeling "I" is functionalized into Component 734 (the precursor to Kael), while the rationalizing "I" establishes AEGIS as the guardian of the severed parts." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29]
+It tells the separation a second time, as Kael's trauma: „the attachment trauma in Cologne (Layer 1) and the algorithmic Separation Protocol (Layer 2)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] It calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied.
+`fourth`, `4th`, `Trennungsprotokoll`, `Komponente`, `Kap` and `Ch` stand 0 times (`05-verify-readers.txt`).
+Row 1's count and order, on row 2's date. On component or remainder, a third position beside the philosophischer Bericht's: the feeling self becomes the component and the component precedes Kael — the worldbuilding concept's Kael grown from 734, not Kael the component. It neither answers nor asks the fourth beat. The conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**No Genesis — the separation told only as Kael's second trauma layer, the Fragmentation Night, with Juna the original „Ich" banished.**
+„(The Fracture - Fragmentation Night): The "Algorithmische Selbstamputation."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „AEGIS misinterpreted emotional fluctuation as fatal system entropy." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „To "save" the psyche, it initiated the Separation Protocol" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43], „banishing the original "Ich"" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] — Juna.
+`Genesis`, `734`, `Unity` and `Beat` stand 0 times (`05-verify-readers.txt`).
+On no row: no count and no component. It has only the worldbuilding concept's second telling, the Fragmentierungsnacht with Juna the Ursprungs-Ich split off, which that document does not relate to its beats (J68). The conflict stays open.
