@@ -1,0 +1,25 @@
+Ingested document 30: `kohaerenz-protokoll-philosophischer-bericht-md`
+
+- **Pages**: No new pages created as this was a synthetic foundational physics and theory report.
+- **Readings added**: Added readings for all 31 matching candidates and 13 sweep hits (e.g. `dkt`, `truth-rotation`, `tsdp`, `juna`, `vortex`, `risse`, `aegis`, `entropie`, `kohaerenz`, etc.).
+- **Records moved**: Addressed conflicts `C1`, `C2`, `C4`, `C6`, `C7`, `C9`, `C11`, `C12`, `C14` and questions `Q1`, `Q2`, `Q3`, `Q4`, `Q5` based on evidence found in the document.
+- **Judgements recorded**:
+  - `J98` (Erasure / Erasure-Felder, two-terms): base concept vs its spatial instantiation.
+  - `J99` (traumatische Mikro-Risse / Risse, two-terms): general defect vs specific modified instance.
+  - `J100` (Phantom-Resonanzen / Phantom-Resonanz, one-term): plural vs singular.
+  - `J101` (Vortex / Post-Vortex-AEGIS-Status, two-terms): event vs specific state question.
+  - `J102` (Truth-Rotation / Truth-Rotation-Verdict, two-terms): concept vs section of a meta document.
+  - `J103` (Mnemosyne / Mnemosyne-Archipel, two-terms): character/program vs location named after it.
+  - `J104` (Juna / Junas Erscheinungs-Modus-Anker, two-terms): character vs meta-concept about appearance.
+  - `J105` to `J107` (Kohärenz Protokoll vs various PDFs, two-terms): title/concept vs specific name of a meta document.
+  - `J108` and `J109` (Erason vs Erason-Aktivität/Operation, two-terms): base entity vs its specific operations.
+  - `J110` (Coheronen / Coheron, one-term): plural vs singular.
+  - `J111` (Kohärenztheorie / Kohärenz, two-terms): concept vs philosophical theory.
+  - `J112` (Genesis-Krise / Genesis, two-terms): base event vs specific crisis compound modifying it.
+  - `J113` (Coheron-Echo / Coheron, two-terms): entity vs its echo.
+  - `J114` (Erason-Operator / Erason, two-terms): base entity vs role.
+  - `J115` (Erasonen / Erason, one-term): plural vs singular.
+  - `J116` (Multiplizitäts-Schleier / Funktionale Multiplizität, two-terms): psychological concept vs narrative device.
+  - `J117` (Post-Vortex-AEGIS-Status / AEGIS, two-terms): entity vs state question compound.
+  - `J118` (RomanRefactoring Kohärenz und Charakterentwicklung.pdf / Kohärenz, two-terms): concept vs meta document.
+- Verified test suites pass. State updates completed.

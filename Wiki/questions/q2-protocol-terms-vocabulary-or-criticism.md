@@ -66,3 +66,8 @@ ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times, and the tw
 **None of the eight occurs; the protocols it names are its own vocabulary.**
 „Das Kohärenzprotokoll (eponym des Romantitels) ist Kohärenztheorie als algorithmische Praxis — alles, was nicht passt, wird erasiert." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L36] Besides it, the Suppressionsprotokoll as AEGIS' practice (L45), a world „die das Trennungsprotokoll erzeugt hat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L229], and „AEGIS' Reparaturprotokolle sind potenziell endlos" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L307].
 ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times; so do `Re-Containment` and `zwölf`. No instance of the eight as project vocabulary.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**No DKT terminology in the first 50 pages.**
+„Im Roman-Prosatext erscheint nichts davon explizit; die ersten 50 Seiten enthalten keine DKT-Terminologie" ^[kohaerenz-protokoll-philosophischer-bericht-md:L29]

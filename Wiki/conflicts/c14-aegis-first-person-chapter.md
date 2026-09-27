@@ -137,7 +137,7 @@ Row 2's side, in row 2's words, on its date.
 **Logs as AEGIS' voice throughout — no chapter of its own, no inner view, no first person.**
 Under §1.1, labelled `[K]`: „KW1 als Architektur, AEGIS-Logs als Stimme, das gesamte Suppressionsprotokoll als Praxis." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L45]; „AEGIS' Sprache hat keine externe Referenz, nur interne Konsistenz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L42] Under §5.1 `[K]`: „AEGIS' Tragik ist eine Folge seiner Autopoiesis: es kann sich nicht selbst korrigieren, weil es keine Außenperspektive auf sich hat." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L263] Under §7.2 `[K]`: „AEGIS-Logs sind syntaktisch perfekt, semantisch leer." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L386]
 Whether AEGIS is conscious it leaves open on purpose: „Die Frage ist im Roman bewusst ambivalent." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L395]
-`Kap 5`, `Kap 7`, `Kap 8`, `Hard-B`, `Innensicht` and `POV` stand 0 times; its Kap 6 is the Semantische Firewall (L700); `ich` stands once, of Kael (L581).
+`Kap 5`, `Kap 7`, `Kap 8`, `Hard-B`, `Innensicht` and `POV` stand 0 times; its Kap 6 is the Semantische Firewall (L700); `ich` stands once, of [[kael|Kael]] (L581).
 Row 2's side — logs, no inner view — dated after the lock of 2026-05-30 and without its exception, like rows 5 and 7. The conflict stays open.
 
 ## 2026-09-26 — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log

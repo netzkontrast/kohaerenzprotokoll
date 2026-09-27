@@ -126,3 +126,10 @@ In its table of what AEGIS believes against what holds: „AEGIS = Entropie-Arch
 The [[nichts-rauschen|Nichts-Rauschen]] AEGIS takes for hostile chaos is „die atemporale Vereinigung aller mutualen Information" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33] — sense 2's counterpart, not called entropy.
 Its K₀ side is said of the Erasonen, not of the word: „Ohne Erasonen gibt es keine Zeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] „Erasonen sind die thermodynamische Bedingung von Geschichte selbst." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] Near the glossary's fourth sense, the condition of events, without writing `Entropie` there.
 The konsolidiertes Konzept's third sense in its words, on its date; the conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Supports sense 3.**
+„Tatsächlich ist sie der primäre Erzeuger der Entropie in der Welt des Romans." ^[kohaerenz-protokoll-philosophischer-bericht-md:L134]
+„Was AEGIS auf System-Ebene tut — „apparent coherence“ durch Erasure des Anomalen — ist nicht Schutz, sondern Generierung der Entropie, die es zu bekämpfen vorgibt." ^[kohaerenz-protokoll-philosophischer-bericht-md:L49]
+This document explicitly frames entropy not as what AEGIS defends against but as what AEGIS fundamentally generates.

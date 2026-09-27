@@ -242,3 +242,8 @@ Under §5.1, labelled `[K]`: „AEGIS ist autopoietisch. Das ist nicht Beschreib
 Under §5.2 `[K]`, Luhmann: „weil Juna für AEGIS keine legitime Irritation ist." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L268] Under §7.1 `[K]`, the hard problem: AEGIS has function and no qualia, „Das ist seine ontologische Blindheit" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L372].
 [[mnemosyne|Mnemosyne]] is a row of its figure table, „Erinnerungs-Bewahrer; Rorty-Versuchung (Wahrheit als Anpassung); Tragik des unverstandenen Trägers" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L662] — a tragedy, not called a blindness. `Guardian` and `Erasure-Pol` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/05-verify-readers.txt`).
 Position 1's bearer, with the autopoietic reason the konsolidiertes Konzept and the glossary give, in nearly their words. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Neither position is directly stated.**
+The document talks about Guardians/Wächterprogramme structurally: „In früheren Phasen waren mehrere Wächterprogramme vorgesehen... Im aktuellen Canon sind sie reduziert auf zwei" ^[kohaerenz-protokoll-philosophischer-bericht-md:L296] and that they reside behind the rendering: „Der „Maschinenraum hinter dem Rendering“. Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md:L439] It doesn't explicitly state whether they are components of AEGIS or external entities enforcing it.

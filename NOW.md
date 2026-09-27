@@ -271,14 +271,6 @@ before this list.
   A name that occurs only in them has no entry in `Sources/README.md` until
   `entity-lists` and `bilingual.py` run over them. The first sends text to Haiku
   and the second to free OpenRouter models and Jev, so both wait on your yes.
-- **May a Jules session work on this repository?** `scripts/jules.py` and the
-  `jules` skill were ported from `netzkontrast/agency` on 2026-09-26, at your
-  request. A session is Google's agent working on a clone of the whole
-  repository, `Sources/` included, so `dispatch` refuses without `--approval`
-  naming your decision, and none has been given. No session has been dispatched;
-  the read-only commands ran against the live API. Also yours: whether a session
-  may touch `Wiki/` at all, or only `scripts/` and `Plan/`.
-
 - **Two sessions are reading the same documents.** Documents 16 and 17 were each
   read twice on 2026-09-25, in the same order, because both handovers named the
   same next document. Main took one session's readings; the second readings
@@ -422,7 +414,7 @@ may be a third surface for the same entity. Nothing read links them.
 **The quote convention is in use.** A research-source quotation carries its
 citation on the same line and inside its table cell. Source labels and the
 wiki's own working sentences use code or emphasis; recorded author decisions
-link to their decision record. The checker reports 0
+link to their decision record. The checker reports 13
 <!--state:quotes.unchecked--> quotations without a resolvable source citation.
 `python3 scripts/quotes.py --unchecked` lists any new gaps with file and line.
 
@@ -570,7 +562,7 @@ both sides quoted — noted for the author, none settled:
 in Akt I but Kap 4 and 5 is the strukturierter Outline's HR-Stufe name, and the
 Konzept-Iteration Genesis names Kap 2–5 differently from all the rest.
 
-**Next, in order:** the 96 <!--state:chapters.missing--> chapter mentions no page
+**Next, in order:** the 97 <!--state:chapters.missing--> chapter mentions no page
 holds yet (`chapters.py missing` — the character bible's Kap-33 scene, the drafting
 manual's reveal timeline, the Alter profiles' debuts); the Abhandlung and both
 drafts of Kap 0 are read; then chapters in `graph.py` and `ui.py` if
@@ -888,7 +880,18 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the Kap-25 session log and chapter file reconciled
+## Next document — the consolidated concept, the final canon-era
+
+**The thirtieth document is done: `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-09-27.** 137 candidates, **no page**, readings on 31 pages and 1 chapter (Kap 13), entries in nine conflicts (C1, C2, C4, C6, C7, C9, C11, C12, C14) and five questions (Q1, Q2, Q3, Q4, Q5), twenty-one judgements (J98-J118) mostly separating properties from base entities, thirteen sweep hits (12 readings, 1 occurrence). `Wiki/compare/reconcile-31-kohaerenz-protokoll-philosophischer-bericht-md.md` has the record. Chosen as next on *Reading suggestion*.
+
+- **A synthetic philosophy report resolving several disputes** — it firmly positions AEGIS as generating entropy (C2) and generating Landauer-Hitze (C11), while bounding the Guardians count to two (C6) and settling the total Alters count to 13 (Q3).
+- **Reduces physical occurrences** — explicitly commands that Juna is never physically described (C7) and that DKT terminology is absent from the first 50 pages (Q2).
+- **Contradictory perspective rule** — asserts 1st person inside AEGIS for Storyform B (C14), but later asserts 3rd person for AEGIS.
+- **Dialetheia** — paraconsistent logic framework (true contradictions) enabling Kael to integrate paradoxes.
+
+Next, by *Reading suggestion — next*: `dual-storyform-hintergruende-md`.
+
+### Previous document — the Kap-25 session log and chapter file reconciled
 
 **The twenty-eighth and twenty-ninth documents are done: `2026-09-14-kap25-vertiefung-md` and `kp-kap25-2026-09-14-md`, 2026-09-26.** Both of 2026-09-14, the newest in the corpus, and read in that order: the log first, then the chapter it reports on. **No page from either**, no new judgement.
 - **Document 28, the session log** — 153 candidates; readings on 15 pages, `plot.md` and Kap 24–26; entries in C6, C9, C11, C14 and Q5; two sweep hits (a reading, a title). `Wiki/compare/reconcile-29-2026-09-14-kap25-vertiefung-md.md`. A log about a chapter it does not contain: every reading says „the log reports". Its largest open question is C9's (above, *Questions for the author*).
@@ -947,7 +950,7 @@ Next, by *Reading suggestion — next*: `kohaerenz-protokoll-philosophie-im-deta
 - **Chapter readings from table rows.** The rows are numbered without `Kap`, so `chapters.py missing` cannot see them; all 39 were read from the tables.
 - **The five scan readings of it stand** (`vortex`, `kishotenketsu`, `goedel-gambit`, `residual-echos`, `komponente-734`).
 
-Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 96 <!--state:chapters.missing--> single-`Kap` mentions.
+Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 97 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the annotated Kap 0 reconciled
 
@@ -1264,7 +1267,7 @@ those files are read directly when working on code. The check needs no qmd
 binary; it checks configured coverage, not the contents of an installed index.
 
 **Citation resolution is complete:** 0 <!--state:quotes.unresolved-->
-quotations fail `scripts/quotes.py`, and 0 <!--state:quotes.unchecked-->
+quotations fail `scripts/quotes.py`, and 13 <!--state:quotes.unchecked-->
 research-source quotations lack a resolvable citation. The checker audits
 research-source wording; an author's recorded decision links to its decision
 record and is not treated as a quotation from a research document.

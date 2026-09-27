@@ -57,13 +57,13 @@ discussion** with the author, and closes when the author decides it.
 
 ## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
 
-**Not outside it — and it writes `Basisrealität` too, for the ground of Kael's trauma, without placing it beyond the simulation.**
+**Not outside it — and it writes `Basisrealität` too, for the ground of [[kael|Kael]]'s trauma, without placing it beyond the simulation.**
 „Kein „außerhalb der Simulation", sondern die andere Seite des Spiegels." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650] One of six levels: „die Externe Ebene (Köln 2026, der Substrat-Durchbruch)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L449]; „Die Realität, die der Roman selbst ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L654]
 The trauma section names Köln the other way: „Schicht 1 — Das Fundament (Basisrealität Köln):" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431]. `Basisrealität` stands once; `jenseits der Simulation` 0 times.
 Row 2's side, in the konsolidiertes Konzept's words on its date. And a third source writing `Basisrealität` that does not put it beyond the simulation: the split along the two names, stated above, holds for rows 1 and 3 and not for this document.
 
 ## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
 
-**Neither side — Köln 2026 named once, as Juna's anchor, without placing it in or beyond the simulation.**
+**Neither side — Köln 2026 named once, as [[juna|Juna]]'s anchor, without placing it in or beyond the simulation.**
 Under §13.3, its Anti-Kanon against solipsism: „Die Welt existiert auch ohne Kael. Junas Ankerpunkt in Köln 2026 ist Anti-Solipsismus." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L596] And against Rorty, §1.6, labelled `[S]`: „es gibt eine ontologische Realität, die zurückkommt — Junas Coheron-Spur." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L104]
-`Externe` and `Basisrealität` stand 0 times, `Köln` once; `jenseits` once, of Juna and Silas beyond the arrow of time (L505). A world that exists without Kael is not said to be outside the simulation, nor the other side of the mirror. The conflict stays open.
+`Externe` and `Basisrealität` stand 0 times, `Köln` once; `jenseits` once, of Juna and [[silas|Silas]] beyond the arrow of time (L505). A world that exists without Kael is not said to be outside the simulation, nor the other side of the mirror. The conflict stays open.

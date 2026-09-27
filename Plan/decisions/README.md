@@ -23,6 +23,7 @@ decision files are missing from it or listed here without existing, and
 | `011-dspy-runs-on-claude-and-free-models.md` | 2026-09-25 | DSPy runs may use Claude through `claude -p` (first party), and OpenRouter's free models through `route.py`, pinned — never with a line of a document |
 | `012-reading-questions-answered-by-delegation.md` | 2026-09-25 | No human anchor; a census is selective by a written rule and reconciliation sweeps the text for every term the wiki knows; a record holds one entry per document with a position |
 | `013-the-chapter-is-a-unit.md` | 2026-09-25 | The chapter is a unit of the wiki beside the term: a page per chapter, overview pages that place, `scripts/chapters.py` |
+| `014-jules-may-ingest-a-document.md` | 2026-09-27 | A Jules session may ingest one document by the `ingest` skill, `Wiki/` in scope, the plan read before it is approved |
 
 A decision the author still has to make is not here: it is a question under
 `NOW.md`, *Questions for the author*, until it is answered.

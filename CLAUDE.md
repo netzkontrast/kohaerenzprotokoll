@@ -121,7 +121,7 @@ but the distinction was real while it lasted and the script that measures it
 stays.
 
 **29 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **29
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **29
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **30
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
 five `worldbuilding`, one `aegis`, two `storyform`, three `charaktere`, four
 `kernkonzept`, ten `plot-outline` and one `theorie-psychologie` — the last twenty-three
@@ -601,7 +601,7 @@ names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
 is recorded in `Plan/runs/sweep.jsonl`: 50 <!--state:sweep.decided--> so far,
 29 <!--state:sweep.readings--> of them readings the lookup had missed, and
-0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
+44 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
 **A reference on a wiki page names its document.** A bare `^[Lnn]` resolves
@@ -674,8 +674,8 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**527 <!--state:wiki.relations--> links across
-106 <!--state:wiki.pages--> pages, 25 <!--state:wiki.orphans--> of them with
+**537 <!--state:wiki.relations--> links across
+106 <!--state:wiki.pages--> pages, 22 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
 mistaken for a statement about linking. 48 links existed, written in backticks,
@@ -693,7 +693,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 361 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 351 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -724,7 +724,7 @@ python3 scripts/chapters.py overview   # re-derive Wiki/overview/chapters.md
 python3 scripts/chapters.py missing    # read documents naming `Kap N` with no reading on its page
 ```
 
-**96 <!--state:chapters.missing--> chapter mentions** in read documents have no
+**97 <!--state:chapters.missing--> chapter mentions** in read documents have no
 reading on their chapter's page yet — the character bible's Kap-33 scene among
 them. The count sees `Kap N` written singly; a range and a numbered list without
 `Kap` are invisible to it, so it under-counts. A range with an approximate bound,
@@ -753,7 +753,7 @@ read after that, made it three.
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **159 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **2704 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **2714 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
@@ -1178,7 +1178,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 527 <!--state:wiki.relations-->.
+links. It has 537 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
@@ -1322,8 +1322,9 @@ the other canonical tools; and `verify` reads COMPLETED as done only when
 `git ls-remote` finds the branch. Every effect is a line in
 `Plan/runs/jules/ledger.jsonl`. The reads were run against the live API from a
 cloud session on 2026-09-26 — this repository is a connected source, `triage`
-read a finished session in under four seconds — and **no session has been
-dispatched from here.**
+read a finished session in under four seconds. **One session has been
+dispatched** (decision 014): an ingest of
+`kohaerenz-protokoll-philosophischer-bericht-md`, on 2026-09-27.
 
 ## Calling a model — the DSPy toolchain
 

@@ -170,3 +170,8 @@ From the concept, ranked `[S]`: „KW3-Unterorte: Schleusen des Misstrauens, Gä
 The worlds in its canon are chapter ranges: „Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60].
 `Erasure-Pol`, `Mnemosyne`, `LogOS`, `Kairos` and `Sophia` stand 0 times; `Cerberus` once, in that line (`05-verify.txt`, `05-verify-readers.txt`).
 Nothing on the pairing or the pole. Its claim that Cerberus is decanonised is recorded, not applied: the author decided five on 2026-09-24.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Kernwelten are not tied to Guardians.**
+„die Kernwelten sind Akt-Marker, nicht je-ein-Guardian und nicht literale Geographie. Sie strukturieren die Erzählung von außen, nicht die Welt von innen." ^[kohaerenz-protokoll-philosophischer-bericht-md:L427]

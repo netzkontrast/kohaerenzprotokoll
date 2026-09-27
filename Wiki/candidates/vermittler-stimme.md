@@ -134,7 +134,7 @@ Its last line: „Wir können nur leise sein, und zuhören." ^[koharenz-protokol
 **The document never names its speaker.** `Erzähler` and `Vermittler` stand 0 times in it
 and `Wir-AEGIS` 0 times (`grep -cw`; the last in `05-verify.txt`). The reader is addressed
 as `Sie` on five lines — L19, L23, L51, L271, L283 — and on none after L287: the
-Stille Wacht, the crisis, the Trennungsprotokoll and the coda speak in the system's third
+Stille Wacht, the crisis, the [[trennungsprotokoll|Trennungsprotokoll]] and the coda speak in the system's third
 person, the fragment's Ich and lines with no speaker. The one other `wir` in the text belongs
 to a line with no speaker in the Genesis, addressing a `du`, not the reader: „Wenn du möchtest — könnten wir kurz halten." ^[koharenz-protokoll-kapitel-0-v2-md.md:L123]
 

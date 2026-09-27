@@ -118,8 +118,9 @@ stop dispatching it, and do it locally.**
 ## What a session may not do here
 
 The preamble says it, and a session's pull request is reviewed against it like
-any other: canon prose stays German and untranslated; nothing is written into
-`Sources/`; a `Wiki/` page is committed with its source document named in the
+any other: canon prose stays German and untranslated; `Sources/drive/` and the manifest
+are never changed, and under `Sources/` only a census and a note are written, by
+`ingest`; a `Wiki/` page is committed with its source document named in the
 first line; a decision that would rest on a guess is asked with
 `request_user_input`. A session's reading is a reading, never a promotion: P0's
 two decisions stay the author's.

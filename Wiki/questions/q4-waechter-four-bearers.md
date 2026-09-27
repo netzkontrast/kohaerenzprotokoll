@@ -218,6 +218,11 @@ She stands beside Kael as a bearer and as a way of looking, and the document doe
 
 ## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
 
-**`Wächter` three times — [[aegis|AEGIS]] in the Genesis, and the two Guardians twice in compounds; no `Wächterin`.**
+**`Wächter` three times — [[aegis|AEGIS]] in the [[genesis|Genesis]], and the two Guardians twice in compounds; no `Wächterin`.**
 In Beat 3, „es hat sich gleichzeitig selbst als Wächter über den eigenen abgespaltenen Teil etabliert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180] — bearer 1. The Überwelt's „Wächter-Registry — operative Verwaltung der zwei Guardians." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L645], and the open point „Wächter-Zwiespalt-Soziopolitik. Spannung zwischen Mnemosyne und Erasure-Pol" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L894] — the two [[guardians|Guardians]] under the German word. [[mnemosyne|Mnemosyne]] herself is „Mnemosyne — Erinnerungs-Hüterin." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200] `Wächterin` stands 0 times, and no Kap 8 is named.
 The konsolidiertes Konzept's two uses and a third; J20 holds: the sentence decides.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Wächterprogramme are the Guardians.**
+„In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE). Im aktuellen Canon sind sie reduziert auf zwei: Mnemosyne (Memory-Keeper, Klimax-Setting) und ein Lösch-Pol (Identität noch offen, Forschungsfrage)." ^[kohaerenz-protokoll-philosophischer-bericht-md:L296]

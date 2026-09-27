@@ -229,3 +229,8 @@ The konsolidiertes Konzept's answer, components, in its words on its date; how t
 **No relation stated — [[mnemosyne|Mnemosyne]] a figure in its table, the word `Guardian` never written.**
 Mnemosyne's row stands between [[aegis|AEGIS]]'s and [[juna|Juna]]'s: „Erinnerungs-Bewahrer; Rorty-Versuchung (Wahrheit als Anpassung); Tragik des unverstandenen Trägers" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L662], with no DKT correlate (L663). Her function is a temptation: „Mnemosyne kann dem Leser kurz plausibel machen, dass Schmerz nur soziale Rechtfertigung sei." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L107]
 `Guardian`, `Erasure-Pol`, `LogOS`, `Kairos` and `Sophia` stand 0 times. Neither component, peer nor replaced design is said.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Residents of the engine room.**
+„Der „Maschinenraum hinter dem Rendering“. Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md:L439] (This refers to Nexus). It does not explicitly state whether they are components of AEGIS.

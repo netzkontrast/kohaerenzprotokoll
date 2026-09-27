@@ -100,7 +100,7 @@ while its own §1 is headed „Welt-Bibel — Sechs Ebenen einer Realität" ^[ko
 The word once, in the heading of its sixth part (`grep -cw Realitätsebenen` 1): „Lokalitäten — die sechs Realitätsebenen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L445]
 „Die Romanwelt ist ontologisch geschichtet, nicht topologisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L449]
 „Es gibt eine Realität mit vier verschiedenen Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus die Überwelt (Operationsraum von AEGIS) und die Externe Ebene (Köln 2026, der Substrat-Durchbruch)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L449]
-Each of the six has its own section — the four [[kern-welten|Kern-Welten]], the [[ueberwelt|Überwelt]] and the [[externe-ebene|Externe Ebene]] (L455–L669) — and the part closes on the Risse (L671).
+Each of the six has its own section — the four [[kern-welten|Kern-Welten]], the [[ueberwelt|Überwelt]] and the [[externe-ebene|Externe Ebene]] (L455–L669) — and the part closes on the [[risse|Risse]] (L671).
 
 Its negative definition says it again: „Keine Multiverse-Geschichte. Eine Realität, vier Logikregime." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L875]
 The four worlds ascend: „Die vier Kernwelten korrespondieren mit aufsteigender Komplexitätsklasse." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L696] — „Das ist nicht primär weltdiegetisch, sondern stilistisch-narrative Anweisung" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L696].

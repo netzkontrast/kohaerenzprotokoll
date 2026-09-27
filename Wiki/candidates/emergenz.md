@@ -113,7 +113,7 @@ The word stands once (`grep -ni emergen`: L335 only), for the perturbation, not 
 system — in the past-tense third person, as the stranger arrives:
 „Kein Objekt, das sich durch den Raum bewegte, sondern eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[koharenz-protokoll-kapitel-0-v2-md.md:L335]
 „Eine fremde Signatur, die sich jeder Klassifizierung entzog." ^[koharenz-protokoll-kapitel-0-v2-md.md:L335]
-The Potentialmeer it comes out of is the void, in the same register:
+The [[potentialmeer|Potentialmeer]] it comes out of is the void, in the same register:
 „Die Leere war kein Vakuum. Nicht im herkömmlichen Sinn. Sie war ein Substrat — ein Potentialmeer unendlicher Zustände" ^[koharenz-protokoll-kapitel-0-v2-md.md:L311]
 The document names no one as the stranger; it calls it the Entität (L371) and names no
 figure of the novel (`05-verify.txt`).

@@ -130,3 +130,8 @@ The prose, a first person, twice: „ist die Reihe das Einzige in dieser Stadt, 
 The apparatus's hidden note: „KW3-Materialisierung über Treppenkopf/Wartungsebene" ^[kp-kap25-2026-09-14-md.md:L48], and its claim about the canon: „Kap 25 = KW3, Wartungsschächte, Anker 734 dritte Wiederkehr" ^[kp-kap25-2026-09-14-md.md:L48].
 `Konstrukt-Stadt`, `KW1` and `Logos-Prime` stand 0 times, `Stadt` on two lines, `KW3` once, in the hidden note (`05-verify.txt`, `05-verify-readers.txt`).
 On no row by name. It is the chapter the session log's question is about: its apparatus places Kap 25 in KW3 and its prose says only „in dieser Stadt" ^[kp-kap25-2026-09-14-md.md:L125]. Whether that city is the Konstrukt-Stadt, and so whether a KW3 stair lies inside it, the document does not say; the identification would be the reading's. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**KW1 only.**
+„KW1 — Konstrukt-Stadt (Kantsche Phänomene)" ^[kohaerenz-protokoll-philosophischer-bericht-md:L429] explicitly maps Konstrukt-Stadt to KW1.

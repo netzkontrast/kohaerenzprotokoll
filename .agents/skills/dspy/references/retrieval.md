@@ -634,7 +634,7 @@ Exports: `--json`, `--graphml`, `--triples`, `--around <term> --hops N
 [--mermaid]`.
 
 **Current counts**: 159 <!--state:graph.nodes--> nodes,
-2704 <!--state:graph.edges--> edges; the evidence layer holds
+2714 <!--state:graph.edges--> edges; the evidence layer holds
 5109 <!--state:graph.evidence--> quotations, of which
 5109 <!--state:graph.evidence_verified--> verify against their cited line.
 

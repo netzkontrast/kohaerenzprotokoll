@@ -210,3 +210,8 @@ The konsolidiertes Konzept's answer in its words, on its date: four and thirteen
 §14.2, „§14.2 Kernwelt ↔ Philosophie" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L667], has four rows, from „KW1 Konstrukt-Stadt" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L672] to „KW4 Möglichkeits-Garten" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L684], each with a logic class and its schools.
 §14.1 lists sixteen figures (L619–L664): „Kael (Host)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L619], then Lex, Alex, Rhys, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Argus, Silas and Oblivion — the twelve other names of the rosters of thirteen above — then [[aegis|AEGIS]], [[mnemosyne|Mnemosyne]] and [[juna|Juna]]. It does not call them alters or count them: `Alters` and `dreizehn` stand 0 times, `Alter` once, „(verschiedene Alter)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L528].
 The correspondence it states runs to schools, and twice to a class or to Kael: „EP-Domänen, KW2 (Erinnerung als Schauplatz), Genesis-Flashbacks (Kap 18–22)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L59]; „Metzinger PSM ist die Philosophie der KW3 (Cerberus-Labyrinth)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L213], with Kael as the PSM's bearer there. No world is one alter's.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Exactly 13 Alters.**
+„Der Canon hält genau 13 Alter. Frühere Vorschläge (11, 14, 15+) sind dekanonisiert." ^[kohaerenz-protokoll-philosophischer-bericht-md:L484]
