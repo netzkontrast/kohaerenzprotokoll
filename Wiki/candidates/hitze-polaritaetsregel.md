@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 18
-readings: 18
+sources: 25
+readings: 25
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
 gathered: "2026-09-24"
 ---
 
@@ -51,6 +51,18 @@ of Juna's traces is thermal (L310).
 The Systems Narrative Analysis, of 2026-05-08, states no rule either: warmth is Juna's (its L22, L60) and
 ozone AEGIS' (L63), as the lock has them, but the ozone is not cold, heat spikes and heat shimmer are the
 system's (L49, L96), and its one cold is [[oblivion|Oblivion]]'s Wärmetod (L142).
+The Plot/Outline Mining-Report, of 2026-05-08, states no rule and reverses one side: Juna's link is a drop in temperature (its L37),
+and ozone is Kael's K1 buffer (L21) as well as the smell of the Vortex's heat spike (L74).
+The Narrative Building Blocks report, of the same date, states no rule: warmth is Juna's (its L53), as the lock has it, but Kael's longing
+for her is a heat spike (L115), and cold stands with ozone in KW3's concrete (L85), not as AEGIS' suppression.
+The Systemic Architecture Specification, of the same date, states no rule: heat and ozone are AEGIS' suppression (its L17, L84), cold is Lex's
+somatic filter (L51), and Juna's markers are not thermal (L47).
+The Companion Guide, of the same date, states no rule: heat, 21°C and ozone are the erasure sweeps' (its L35–L38), cold is Lex's (L62).
+The Architecture of Fracture, of the same date, states no rule: ozone, temperature spikes and knuckles are AEGIS' erasure (its L30), cold is Lex's (L34).
+The Editorial Style Dossier, of the same date, states no rule: heat and ozone are one Landauer spike made by AEGIS and by the ANPs (its L19),
+cold is Lex's (L19), and Juna is phantom resonance and the Phone-Silence (L69).
+The Physics of Heartbreak, of the same date, states no rule: heat and ozone are suppression's (its L13, L27, L28), and heat is the truth one
+embraces (L41); nothing warm or cold stands in it.
 [[landauer-signatur]] has each reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
@@ -187,3 +199,40 @@ Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by 
 No rule is stated, in English or German (`Polarität` 0, `polarity` 0, `cold` 0; `05-verify-readers.txt`). But it gives warmth to Juna, among its absolute constraints: „Juna must be described exclusively as an effect or sensory resonance (light, frequency, warmth)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22] Seed-07, „Seed-07 The Frequency of Warmth" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L58]: „Kael experiences a golden warmth and a specific frequency of light that defies KW1 physics." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L60]
 Ozone is AEGIS', with no temperature: „In high-stress zones, the ozone of AEGIS is replaced by the scent of "feuchtes Laub" (moist leaves)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L63] Heat is the system's, not Juna's: „The system logs a Heat-Spike during Kael’s emotional peaks." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L49] and „Kael observes "hitzeflimmern" (heat shimmer) in KW1 corridors." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L96] — see the Landauer-Signatur's page. Its one cold is an alter's: „Seed-23 Oblivion: The Absolute Cold (Wärmetod)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L142].
 Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by what it states (J62). C11.
+
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — no rule — Juna's link as a drop in temperature, ozone at a K1 buffer, heat from erasure and from preservation
+
+No rule is stated (`polarity` 0, `Polarität` 0, `warm` 0, `05-verify-readers.txt`). Its one thermal mark for Juna is cold, the reverse of the lock's warmth: „Seed-06 The Moonshine-Link“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L37] — „A sudden drop in ambient temperature accompanied by the smell of rain-drenched silver“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L37]. Silas, her echo in the system, has „a total absence of thermal signature“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L84].
+Ozone is Kael's K1 buffer, „signaling a K1-buffer event“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L21], and the Vortex's suffocating smell at the heat spike (L74); heat is AEGIS' „Landauer-Wärme spike +2.4K.“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L54] and the searing of information „forcibly preserved against a heat-sink“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L22] — see the Landauer-Signatur's page. AEGIS' cold is a manner, „Establishes the cold, functional logic of system preservation.“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L29]
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed here by what it states (J62). C11.
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — no rule — Juna's presence warm, Kael's longing a heat spike, ozone with cold concrete in KW3
+
+No rule is stated (`polarity` 0, `Polarität` 0, `05-verify-readers.txt`). Warmth is Juna's, in „Seed-07 Synesthetic Resonance“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L53]: „Kael experiences Juna's presence as the "warm sound of growing things," a synesthetic wave that defies the sterile vacuum of KW1.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L53] The link is also heat, in „Seed-17 The Hot, Painful Wave“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L115]: „A sudden, nameless longing that manifests as a physical heat-spike in Kael's chest.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L115] — „Direct sensory evidence of the non-local link in Act I“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L115] — so the rule's two signatures, heat and Juna's trace, in one seed.
+The integrated Kael is warm, and AEGIS cannot feel it: „forever unable to feel the warmth of his integration“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L149]. Cold and ozone stand together, but in KW3, not as AEGIS' suppression: „characterized by cold, damp concrete, the sharp hum of machines, and the metallic smell of ozone.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85] AEGIS' cold is its physics, figuratively: „the cold physics of AEGIS's protocols“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L89]. Landauer heat is the erasure's and the Vortex's (L95, L100, L148) — see the Landauer-Signatur's page.
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed by what it states (J62). C11.
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — no rule — heat and ozone AEGIS', cold Lex's, and nothing thermal of Juna's
+
+No rule is stated, and no warmth stands in it (`warm` 0, `warmth` 0, `05-verify-readers.txt`). Heat and ozone are AEGIS' suppression, as Landauer heat (L17) and at the Vortex's first and fourth beats (L84, L87) — see the Landauer-Signatur's page. Cold is an alter's somatic filter, Lex's „Hypoventilation/Cold“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51], with Rhys' „Sweating/Feverish hands“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] beside it. Juna's markers are not thermal: „anomalous erasure balances and the“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L47] Phone-Silence.
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed by what it states (J62). C11.
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — no rule — heat and ozone AEGIS' sweeps, cold Lex's
+
+No rule is stated, and no warmth stands in it (`warm` 0, `warmth` 0, `05-verify-readers.txt`). Heat is deletion's, 21°C its limit, and „The Smell of Ozon:“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L38] precedes the loss of memory in the system's erasure sweeps (L35–L39) — see the Landauer-Signatur's page. Cold is Lex's, „Hypoventilation / Cold“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L62]. Nothing thermal is Juna's; she is the witness, the silence and the Moonshine Link (L90–L96).
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed by what it states (J62). C11.
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — no rule — ozone, heat and knuckles AEGIS', cold Lex's
+
+No rule is stated, and no warmth stands in it (`warm` 0, `warmth` 0, `05-verify-readers.txt`). Ozone, temperature spikes and bleeding knuckles are the waste of AEGIS' erasure (L30) — see the Landauer-Signatur's page. Cold is Lex's, „Hypoventilation, coldness“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34], his arc „From cold logic to intuition.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34]; Rhys has „Sweaty, feverish hands“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34]. Nothing thermal is Juna's.
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed by what it states (J62). C11.
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — no rule — the Landauer spike's heat and ozone from AEGIS and the ANPs, cold Lex's, Juna by phantom resonance
+
+No rule is stated, and no warmth stands in it (`warm` 0, `warmth` 0, `05-verify-readers.txt`). Heat and ozone are one Landauer spike, made by AEGIS' erasure and the ANPs' suppression (L19) — see the Landauer-Signatur's page. Cold is Lex's, „Hypoventilation and localized coldness.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19]; Rhys' is „Feverish hands and excessive sweating.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Juna has no thermal trace: „She is synthesized through“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L69] phantom resonances and the Phone-Silence. AEGIS is „the fire that tried to quench itself with fire“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L74].
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed by what it states (J62). C11.
+
+## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — no rule — heat and ozone from suppression, and heat as the truth one embraces
+
+No rule is stated, and nothing warm or cold stands in it (`warm` 0, `cold` 0, `05-verify-readers.txt`). Heat and ozone are both suppression's (L13, L27, L28) — see the Landauer-Signatur's page. Its last question makes the heat the truth's, against the sterile simulation: „If the physics of your world proved that your pain was real but your separation was an illusion, would you choose to stay in the sterile safety of the simulation, or embrace the heat of the truth?“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L41]
+Dated 2026-05-08, twenty-two days before the lock of 2026-05-30. Placed by what it states (J62). C11.

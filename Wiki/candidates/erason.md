@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 8
-readings: 8
+sources: 13
+readings: 13
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
 gathered: "2026-09-24"
 ---
 
@@ -69,3 +69,23 @@ Oblivion is its operator, the Spiegel-Alter set against Silas the Coheron-Echo: 
 Of [[kollaps-kernel|K₀]]: „Er operiert durch *Erasonen* — irreversible Löschungsereignisse.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Der entscheidende Punkt: Erasonen *erzeugen den Zeitpfeil*.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Ohne Löschung kein Vorher und Nachher; ohne Vorher und Nachher keine Zeit; ohne Zeit keine Trennung.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] „Wer löscht, schafft Zeit.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L75] The summary's third sentence says it again: „Der Zeitpfeil entsteht erst durch Erasonen.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L783]
 Two of the DKT's further physical correlates are erasure's: „**Gravitation** entsteht durch Erason-Aktivität“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L119] — „Nicht Gravitation verursacht Kollaps, Kollaps erzeugt Gravitation.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L119] — and „**Licht** ist eine Narbe — der phänomenologische Rest einer abgeschlossenen Erason-Operation.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L120]
 Oblivion's DKT-Korrelat `Erason-Operator` (L503, L670) is a reading on Oblivion's page (J93). The two Holon figures label the same pole differently, split over two lines — `(Erason-` and `Echo)` (L375 and L379, L662 and L666), an Erason-Echo beside Silas' Coheron-Echo.
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — the K0 unit that makes the arrow of time, and the condition of history
+
+Its DKT table heads the K0 column „Erasons (K0)“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L15], in English, placed here by the sentence (J100): „Temporal (Generates the "Time Arrow")“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L15], „Irreversible, information-deleting“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L15], „Asymmetrical "Before/After" events“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L15], and as narrative role the „Thermodynamic condition of history“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L15] — the worldbuilding concept's „thermodynamische Bedingung von Geschichte“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59], above. Oblivion's `Erason Operator` (L51) is on Oblivion's page (J74).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — the German plural in English, the arrow of time, and AEGIS' order
+
+It writes the German plural inside its English table, and so the page's name: „Erasonen : Irreversible events of information deletion.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L25] „Temporal : They create the Arrow of Time .“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L29] AEGIS works through them: „AEGIS's "Order" is achieved through Erasonen.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L48] „Each sweep generates Landauer heat, creating the very entropy it claims to prevent.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L48] Oblivion's `Erason-Operator` (L84) is on Oblivion's page (J74).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — irreversible events of erasure that create the arrow of time
+
+Its table's K0 core unit: „Erasons : Irreversible events of erasure.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] „Temporal : Erasures create the "Arrow of Time."“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] English, placed by the sentence (J100). Oblivion's `Erason-Operator`, „Mirror of AEGIS“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34], is on Oblivion's page (J74).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — a concept not to be named in the first fifty pages
+
+Once, in its second mandate: „Never name DKT concepts (Coherons, Erasons) in the first 50 pages.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L99] It does not define an Erason; Oblivion's `Erason-Operator` (L19, L45) is on Oblivion's page (J74) (`Erasons` 1, `Erason-Operator` 2, `05-verify-readers.txt`).
+
+## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — deletion events that make the arrow of time
+
+Once, as what makes the time Coherons stand outside: „Because Coherons are atemporal, they exist outside the "arrow of time" created by Erasonen (deletion events).“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L21] The German plural, glossed in English.

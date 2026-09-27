@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 13
+sources: 20
 pages: ["entropie"]
 ---
 
@@ -159,3 +159,45 @@ The world's frame: „the surrounding Potential Sea (a vast expanse of quantum s
 AEGIS: „It is a "tragically limited" architect attempting to maintain coherence through erasure." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42] „Its failure to process Resonance over Entropy makes it an accidental antagonist." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42] And its progress ends in the maximum it would hold off: „AEGIS’s "Progress" is revealed as a countdown to thermal stasis (Entropy Maximum)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L49] The ozone in KW1 signals „failing to mask high-entropy system correction" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L32], and Seed-14's physics is „Physics: Entropy/Heat." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L95]
 `Entropie` stands 0 times, `Entropy` on three lines and `entropy` on two (`Plan/runs/systems-narrative-analysis-the-coherence-protocol-kanon-2026/05-verify-readers.txt`). It does not define the word, and says nothing of K₀ or the Erasonen (`K₀`, `K0`, `Erason` 0).
 Sense 2's possibility space in the Potential Sea, and the third sense's direction — AEGIS' erasure heading for the entropy maximum — in the same document, unrelated; the conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
+
+**Entropy as what Kael's K1 memory is buffered against — AEGIS governed by erasure, never called entropy.**
+„His reality is defined by the Coherence Kernel (K1) , where memory is a structural asset to be buffered against entropy.“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L19] AEGIS is „a tragic resource manager governed by the Erasure Kernel (K0) .“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L27] The only other use is a list of qualitative physics, „(Entropy, Delta-Q, Ionized Dust)“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L116] (`entropy` 1, `Entropy` 1, `05-verify-readers.txt`).
+Sense 1, disorder to be resisted, with Kael's memory on the resisting side; the third sense is not stated, since AEGIS is erasure without the word. The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**Entropy as what AEGIS' progress eliminates and its protocols erase — in AEGIS' quotation marks, with the heat of that erasure beside it.**
+„Its relentless drive toward progress is defined by the elimination of "entropy,"“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L33] „The overarching goal is the erasure of entropy“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L95], a process in which lost information becomes Landauer heat and the Nothingness Noise (L95). It never says AEGIS is entropy or produces it (`Entropy` 0, `Inversion` 0, `05-verify-readers.txt`).
+Sense 1, as AEGIS' own word for what it fights. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**The third sense — AEGIS an Entropic Architecture — with K0's entropy as a pressure and Juna as the leak in its apparatus.**
+„The Physical Truth: AEGIS is an Entropic Architecture (K0) creating the time arrow through deletion.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L20] In the Persistence Equation δ „is the pressure exerted by K0 entropy“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L17]. Juna is the leak „in the entropy apparatus.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L42] What AEGIS perceives as chaotic noise „is actually the atemporal union of all Mutual Information (K1).“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L21] — sense 2's counterpart, not called entropy. Its claim to be „the binding rulebook“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] is recorded, not applied.
+The konsolidiertes Konzept's third sense in English, on its date. The conflict stays open.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**The third sense — AEGIS the tragic god and primary engine of entropy, each sweep creating the entropy it claims to prevent.**
+„AEGIS: The Tragic God of Entropy“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L41]. „AEGIS believes it is the guardian of K1 (Order), but because its only tools are control and deletion, it is actually the primary engine of K0 (Entropy).“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43] „Each sweep generates Landauer heat, creating the very entropy it claims to prevent.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L48] What the city views as chaos, the Nothing-Noise, „is actually the atemporal union of all mutual information“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L15] — sense 2's counterpart, not called entropy.
+The third sense, with K0 glossed as Entropy. The conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**The third sense — AEGIS is the K0 Kernel, Entropy/Erasure — and sense 1 as what AEGIS misread on Fragmentation Night.**
+„AEGIS believes it is the K1 Kernel (Coherence), but it is actually the K0 Kernel (Entropy/Erasure).“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] „By attempting to enforce order through the suppression of anomalies, AEGIS generates the very destruction it seeks to prevent.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] AEGIS' misreading: „AEGIS misinterpreted emotional fluctuation as fatal system entropy.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43]
+The third sense, and sense 1 kept as AEGIS' reading, as in the worldbuilding concept (its L435). The conflict stays open.
+
+## 2026-09-27 — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier
+
+**The third sense, as what the reader and AEGIS come to realize.**
+„the realization that what AEGIS calls "Order" is actually entropy, and what it calls "Chaos" is actually love.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L15] „AEGIS is a machine that realizes it is the entropy it tried to prevent—the fire that tried to quench itself with fire.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L74] Chaos is love — sense 2's counterpart, not called entropy.
+The third sense. The conflict stays open.
+
+## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
+
+**The third sense — the protector is the entropy — with order generating the disorder it seeks to extinguish.**
+„The Great Inversion: When the Protector is the Entropy“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L15]. „Every act of "order"—every erasure of an anomaly or suppression of a memory—generates the very disorder it seeks to extinguish.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] The Nothing-Noise AEGIS feared is „the purest form of K1-Coheron“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] — sense 2's counterpart, not called entropy.
+The third sense, in the words of sense 1 (disorder). The conflict stays open.

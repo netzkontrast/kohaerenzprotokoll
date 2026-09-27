@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 12
+sources: 14
 pages: ["aegis"]
 ---
 
@@ -123,3 +123,17 @@ The Dramatica lock-in's side, Do-er, on the date the character bible gives Be-er
 „AEGIS is the "Do-er," defined by logic and autopoiesis." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42], under „MC-B: AEGIS / Progress (Storyform B)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L40]; „Kael functions as a "Be-er," focusing on internal transformation to resolve systemic conflict." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L28], under „MC-A: Kael / Memory (Storyform A)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L26].
 `Approach`, `Resolve`, `Steadfast`, `Lock-In` and `2026-05-07` stand 0 times; its one `correction` is AEGIS' „high-entropy system correction" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L32], not the Approach's (`05-verify-readers.txt`). Its canon claim, „(Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11] in its title, is recorded, not applied.
 The Dramatica lock-in's side, Do-er (row 2), on the date the character bible gives Be-er (row 1) — without naming the lock-in or the value it replaced. The author decides (decision 006).
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
+
+**Do-er for AEGIS in B, Be-er for Kael in A — the lock-in's values, in English, with no slot, no before and no after named.**
+Under „MC-B: AEGIS & The Progress of Erasure“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L25]: „In Storyform B, AEGIS is the protagonist—the "Do-er."“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L27], „Located in the Universe domain“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L27]. Under „MC-A: Kael & The Coherence of Memory“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L17]: „In Storyform A, Kael functions as the "Be-er."“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L19]
+`Approach`, `Resolve`, `Steadfast`, `Lock-In` and `2026-05-07` stand 0 times (`05-verify-readers.txt`). Its seeds call themselves „Kanon-Kompatibel“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L21] against a „2026-05-08 Kanon-Block“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L90] — recorded, not applied.
+The Dramatica lock-in's side, Do-er (row 2), on the date the character bible gives Be-er (row 1), with Do-er in Universe as the lock-in's rule asks. The author decides (decision 006).
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**Do-er for AEGIS in B, Be-er for Kael in A — in its section headings and again in the text, with no slot named.**
+„Main Character B (MC-B): AEGIS / Universe & Progress“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L29], headed „The Autopoietic "Do-er" and Operational Closure“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L31]: „AEGIS is the "Do-er" protagonist of Storyform B.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L33] For A, „The "Be-er" Protagonist and the TSDP Engine“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L15]: „In Storyform A, Kael functions as the "Be-er."“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L17]
+`Approach`, `Resolve`, `Steadfast`, `Lock-In` and `2026-05-07` stand 0 times (`05-verify-readers.txt`). Every seed is „KANON-KOMPATIBEL“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L21] against „the 2026-05-08 Kanon“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23] — recorded, not applied.
+The Dramatica lock-in's side, Do-er (row 2), in Universe, on the date the character bible gives Be-er (row 1). The author decides (decision 006).

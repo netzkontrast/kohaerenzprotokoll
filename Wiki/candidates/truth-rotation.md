@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 11
-readings: 11
+sources: 14
+readings: 14
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
 gathered: "2026-09-25"
 ---
 
@@ -12,7 +12,9 @@ gathered: "2026-09-25"
 
 **The inversion under the whole novel: [[aegis|AEGIS]] believes it is coherence and is the
 entropy.** The sources use the name for two things — the inversion itself, and
-the moment in the [[vortex|Vortex]] when the reading turns to it. Each source's use is
+the moment the reading turns to it, in the [[vortex|Vortex]] for most; the Physics of Heartbreak puts
+that moment at the Ouroboros return to the first image, and the Editorial Style Dossier makes it the
+reader's realization, at no named place. Each source's use is
 below, attributed and unmerged.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
@@ -100,6 +102,22 @@ What it calls canonised: „Die kanonisierte Truth-Rotation hält fest:" ^[kohae
 Under it a second inversion, of the theories rather than the kernels: „Damit fällt eine zweite, tiefere Pointe: AEGIS, das sich philosophisch als Kohärentist versteht, *operiert* in Wahrheit als korrespondenztheoretische Polizei." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L233] The double failure „ist der Mechanismus der tragischen Ironie, die das gesamte Konstrukt trägt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L233]
 So here the name is the inversion itself, as in the master report, and it happens over the course of the novel, not at a moment. The name never stands at the Vortex: of its four lines, the fourth is a source title in the appendix, „Phönix-Mode mit Truth-Rotation-Verdict" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L812]. The Vortex's fifth beat is „Rotation → Algorithm.Melancholy" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L623], the beat (J90). It does not write `große Inversion` (`Truth-Rotation` 4, `große Inversion` 0, `05-verify-readers.txt`).
 
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — the truth rotates at the Vortex, and the Great Inversion under it
+
+The name as a verb, in its own quotation marks, for the turn at the Vortex: „The story culminates in the Vortex-Inversion (Chapters 35-36), where the“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L100] truth rotates — „AEGIS realizes its own failure and enters“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L100] Algorithmic Melancholy. `Truth-Rotation` as a compound stands 0 times, `Truth Rotates` once (`05-verify-readers.txt`); placed here by the sentence. The Vortex's fifth beat, `Rotation` — „AEGIS collapses into melancholy.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L108] — is the beat (J90).
+The inversion under it is named apart, as its cause in the Genesis Crisis: „This led to the Great Inversion : AEGIS believes it is the guardian of K1 (Order)“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43], and is „actually the primary engine of K0 (Entropy).“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43] — the Große Inversion in English, kept apart by J91. Kael is never written as K1.
+At the end the meaning turns again, without the name: „The story ends as it began: a man in a sterile room, a phone ringing, and a choice to speak.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L112] „But the meaning has inverted.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L112]
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — the reader's realization, secured by the somatic filter, at no named place
+
+Once, as what the somatic filter makes the reader live: „This ensures the reader experiences the "Truth-Rotation"—the realization that what AEGIS calls "Order" is actually entropy, and what it calls "Chaos" is actually love.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L15] — the filter anchors every erasure „By anchoring every shift in identity and every act of erasure in the“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L15] thermodynamics of the body. So here the name is the reader's realization of the inversion, not the inversion itself and not a moment in the Vortex: the document has no Vortex and no Great Inversion (`Vortex` 0, `05-verify.txt`; `Inversion` 0, `05-verify-readers.txt`). AEGIS' order is entropy; it never writes AEGIS as K0 or Kael as K1.
+Its Ouroboros ending inverts the phenomenology without the name: „Separation is revealed as Connection;“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L60]
+
+## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — the rotation at the Ouroboros return, from Separation to Connection, with the Great Inversion its own takeaway
+
+Here the name is for the end, not the Vortex: „The narrative follows an "Ouroboros Structure," returning to the initial image of the city.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] „However, a "Truth-Rotation" has occurred: the meaning has inverted from Separation to Connection.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] The essay names no Vortex (`Vortex` 0, `05-verify.txt`).
+The inversion is its first takeaway, under its own name: „The "Great Inversion" lies in the system's misreading of its own architecture.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] — AEGIS takes itself for the Coherence Kernel and is the Entropy Architecture (K0) (L17). The essay does not relate the two, and never writes Kael as K1 (`05-verify-readers.txt`).
+
 ## Where the sources differ
 
 **What the name names.** The master report heads its section on the inversion
@@ -120,10 +138,18 @@ section on the inversion with the name (its L206), calls it `kanonisierte` (L221
 reading inverted over the course of the novel (L221), never naming the Vortex as where it
 turns. It adds a second inversion under the first, AEGIS the self-declared coherentist
 operating as correspondence police (L233).
+The Companion Guide, of the same date, stands with the konsolidiertes Konzept: the truth rotates at the Vortex, Chapters 35-36
+(its L100), and the Great Inversion — AEGIS the guardian of K1 in belief, the engine of K0 in fact — is named apart, as what the
+Genesis Crisis led to (L43). The Editorial Style Dossier, of the same date, takes a third use: the name is the reader's realization
+that AEGIS' order is entropy and its chaos love (its L15), placed at no moment and beside no Vortex or inversion. The Physics of
+Heartbreak, of the same date, a fourth: the Truth-Rotation has occurred at the Ouroboros return to the initial image, the meaning
+inverted from Separation to Connection (its L39); the Great Inversion is its own takeaway (L17), not related to the rotation.
 
-**What holds, they agree on**: AEGIS = K₀ in every reading, and [[kael|Kael]] = K₁ in every
-reading but the Dual-Storyform background document's, which writes AEGIS as K0 (its L82)
-and never Kael as K1. And the three that say so agree the phenomenology of the rifts stays
+**What holds, they agree on**: AEGIS = K₀ in every reading but the Editorial Style Dossier's,
+which makes AEGIS' order entropy (its L15) without writing K0 of AEGIS; and [[kael|Kael]] = K₁ in
+every reading but the Dual-Storyform background document's, which writes AEGIS as K0 (its L82)
+and never Kael as K1 — and, since 2026-09-27, but the Companion Guide's, the Editorial Style
+Dossier's and the Physics of Heartbreak's, none of which writes Kael as K1. And the three that say so agree the phenomenology of the rifts stays
 and only the reading turns; the worldbuilding concept is a fourth (its L86). The
 background document says it of B's phenomenology — pain, erasure, separation — which
 stays rememberable and is no longer operative (its L56). So the difference is in what the name points at, the fact or the moment. It

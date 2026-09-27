@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 26
+sources: 33
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -300,3 +300,58 @@ The Vortex, „THE VORTEX: Ch35-36 (Climax/Pivot)" ^[systems-narrative-analysis-
 Cold is an alter's: „Seed-23 Oblivion: The Absolute Cold (Wärmetod)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L142], „representing the "Big Freeze" (Wärmetod) where trauma used to reside" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L143].
 `cold`, `kalt`, `Kälte`, `Wärme`, `Ozon`, `Kap` and `Kap 6` stand 0 times, `ozone` twice, `Cold` once (`Plan/runs/systems-narrative-analysis-the-coherence-protocol-kanon-2026/05-verify.txt`, `05-verify-readers.txt`). Every seed is a proposal, and its „Kanon" is recorded, not applied.
 Row 2's warmth for Juna and ozone for AEGIS, three weeks before the lock of 2026-05-30 — but its ozone is not cold, and its Landauer is heat, in KW1's corridors and at the Vortex's first point, not the fourth. It names no Kap 6 and gives the Vortex only as Ch35-36, so row 1's warmth in Kap 6 and Kap 36 is neither held nor denied. The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
+
+**Landauer-Wärme spikes as AEGIS' erasure, ozone as Kael's K1 buffer and as the Vortex's heat spike, and Juna's link as a drop in temperature — in English, in seeds that are proposals.**
+„the mechanical execution of Landauer-Wärme (Landauer-Heat) spikes.“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L46] AEGIS' log: „BIT\_ERASURE\_COMPLETE: Landauer-Wärme spike +2.4K.“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L54]
+Ozone on Kael's side: „The sharp, metallic tang of ozone filling a room that officially does not exist, signaling a K1-buffer event.“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L21] And at the Vortex, „The Vortex: Convergence and Pivot (Chapters 35–36)“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L67], its fourth point: „Heat-Spike (Landauer → ∞):“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L74] „The smell of ozone becomes suffocating.“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L74]
+Juna's Moonshine-Link: „A sudden drop in ambient temperature accompanied by the smell of rain-drenched silver“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L37].
+`warm`, `warmth`, `Kap`, `Kap 6` and `Kap 36` stand 0 times; `cold` once, AEGIS' „cold, functional logic“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L29] (`05-verify-readers.txt`). Its „Kanon-Kompatibel“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L21] is recorded, not applied.
+Row 1's Landauer-Wärme as a name, but as AEGIS' erasure spikes, not a warmth in Kap 6 or Kap 36; row 2's spike at Beat 4 of the Vortex. Against row 2, Juna's trace is a cold, not a warmth, and ozone is also Kael's buffer, not only AEGIS' suppression. Three weeks before the lock of 2026-05-30; the conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**Juna's presence warm, Kael's longing for her a heat spike, Landauer heat from erasure and at Vortex Beat 4, and ozone with cold concrete in KW3.**
+Juna: „Kael experiences Juna's presence as the "warm sound of growing things," a synesthetic wave that defies the sterile vacuum of KW1.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L53] The link: „A sudden, nameless longing that manifests as a physical heat-spike in Kael's chest.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L115]
+Landauer: „As Kael integrates his EPs, information loss is converted into heat, creating a "heat-spike" that threatens to dissolve the simulation's structure.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L100] The Vortex, „VORTEX: The Singularity (Ch35-36)“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L137], fourth beat: „Heat-Spike: Landauer → ∞:“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L148] „The vacuum smells of ozone and ancient, drying paper.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L148]
+Cold and ozone together, in KW3: „characterized by cold, damp concrete, the sharp hum of machines, and the metallic smell of ozone.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85]
+`Kap`, `Kap 6` and `Kap 36` stand 0 times (`05-verify-readers.txt`).
+Row 2's warmth for Juna and its spike at Beat 4, three weeks before the lock — but the link's longing is heat too, and its cold ozone is KW3's concrete, not AEGIS' suppression everywhere. Row 1's Kap-6 and Kap-36 warmth are neither held nor denied; the conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Landauer heat as temperature spikes, cracks and ozone from AEGIS' suppression, the city at a constant 21°C, heat and ozone at Vortex Beat 1 and the spike at Beat 4 — no cold ozone, no warmth.**
+AEGIS' suppression generates Landauer heat, „diegetically manifested as temperature spikes, Risse (cracks), and the smell of ozone.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L17] KW1: „Sterile, blue/gray, constant 21°C.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L60]
+„The Vortex (Chapters 35–36) is the Driver-Pivot“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L82]: „Erasure-sweeps isolate fragments in Mnemosyne; heat and ozone spike.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L84] „AEGIS’s erasure protocol hits integrated MI; Landauer heat spikes toward infinity.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L87]
+`warm`, `warmth`, `cold` and `Kap` stand 0 times; `Cold` once, Lex's somatic filter (L51) (`05-verify-readers.txt`). It calls itself „the binding rulebook“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied.
+The master report's and the worldbuilding concept's side, on their date: heat and ozone one Landauer trace of AEGIS, the spike at Beat 4. No Kap 6 or Kap 36, so row 1's warmth is neither held nor denied; the conflict stays open.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**The Landauer principle as the somatic filter: 21°C as a literal limit, ozone from the erasure sweeps before memory is lost, bleeding knuckles, and the spike of Vortex Beat 4 — no cold ozone, no warmth.**
+„Thermal Balance (21°C):“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L37] „If the heat from deletion exceeds this balance, the simulation’s geometry begins to crack.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L37] „The Smell of Ozon:“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L38] The system's erasure sweeps ionize the air, „leaving a sharp, metallic scent that precedes the loss of memory.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L38] K0 pressure: „the protagonist’s bleeding knuckles, tooth grinding (bruxism), hypoventilation (shortness of breath)“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L39].
+In „the Vortex-Inversion (Chapters 35-36)“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L100], Beat 4: „The density of his Mutual Information causes Landauer heat to spike toward infinity“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L107].
+`warm`, `warmth`, `cold` and `Kap` stand 0 times; `Cold` once, Lex's (L62) (`05-verify-readers.txt`).
+The master report's side: heat and ozone one trace of AEGIS' erasure, the spike at Beat 4; its ozone is sharp and metallic, not cold. Row 1's Kap-6 and Kap-36 warmth are neither held nor denied; the conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**Ozone, temperature spikes from exactly 21°C and bleeding knuckles as the waste of AEGIS' erasure — no Vortex, no chapter, no warmth.**
+„Every act of erasure performed by AEGIS generates thermodynamic waste.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L30] „This manifests diegetically as the smell of ozone , temperature spikes (exactly 21°C until the threshold breaks), and the subject's bleeding knuckles .“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L30] Coherence enforced „paradoxically generates the Landauer Heat that cracks the system.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L57]
+`warm`, `warmth` and `Kap` stand 0 times, `Vortex` 0; `cold` and `coldness` once each, both Lex's (L34) (`05-verify.txt`, `05-verify-readers.txt`).
+The master report's side: ozone and heat one trace of AEGIS' erasure. It names no Vortex and no chapter, so neither row's chapter claim is held or denied; the conflict stays open.
+
+## 2026-09-27 — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier
+
+**Heat, ozone and bleeding knuckles as one Landauer Spike, a truth-meter made by AEGIS' erasure and by the ANPs' suppression — a mandate for every erasing scene, no warmth, no cold ozone.**
+Every act of erasure by AEGIS „or suppression by the Apparently Normal Parts (ANPs) creates a“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Landauer Spike. „These spikes manifest as physical symptoms—heat, the smell of ozone, and bleeding knuckles—which act as a“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] truth-meter. Mandate: „If AEGIS is erasing data, the character must feel the localized heat of the Landauer spike.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L98] „Show the physics through heat, ozone, and the bleeding of textures.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L99]
+`warm`, `warmth`, `cold`, `Vortex` and `Kap` stand 0 times; `coldness` once, Lex's (L19) (`05-verify.txt`, `05-verify-readers.txt`). Its mandates are the document's, recorded, not applied.
+The master report's side, as a drafting mandate: heat and ozone one Landauer trace, now also of the ANPs. No Vortex and no chapter, so neither row's chapter claim is held or denied; the conflict stays open.
+
+## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
+
+**21 degrees, ozone as a byproduct of high-energy suppression, hemorrhaging knuckles, and Landauer waste heat that makes the baseline fluctuate — no cold, no warmth, no Vortex.**
+Its opening image: „The atmosphere is periodically saturated with the sharp, metallic scent of ozone—a byproduct of high-energy suppression—and the subject observes hemorrhaging knuckles without a corresponding causal memory.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] Deleting anomalies generates Landauer waste heat, „causing the 21-degree baseline to fluctuate violently.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L27] „High-energy suppression protocols manifest as a lingering scent of ozone.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L28]
+`warm`, `cold`, `Vortex` and `Kap` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`).
+The master report's side: heat and ozone one trace of suppression, the ozone sharp and metallic, not cold. No chapter, so neither row's chapter claim is held or denied; the conflict stays open.
