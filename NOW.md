@@ -222,6 +222,13 @@ before this list.
   A name that occurs only in them has no entry in `Sources/README.md` until
   `entity-lists` and `bilingual.py` run over them. The first sends text to Haiku
   and the second to free OpenRouter models and Jev, so both wait on your yes.
+- **May a Jules session work on this repository?** `scripts/jules.py` and the
+  `jules` skill were ported from `netzkontrast/agency` on 2026-09-26, at your
+  request. A session is Google's agent working on a clone of the whole
+  repository, `Sources/` included, so `dispatch` refuses without `--approval`
+  naming your decision, and none has been given. No session has been dispatched;
+  the read-only commands ran against the live API. Also yours: whether a session
+  may touch `Wiki/` at all, or only `scripts/` and `Plan/`.
 
 - **Two sessions are reading the same documents.** Documents 16 and 17 were each
   read twice on 2026-09-25, in the same order, because both handovers named the
