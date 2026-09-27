@@ -3,7 +3,7 @@ id: Q2
 question: Do the seven protocol terms ever appear as project vocabulary, or do they only ever appear as objects of criticism?
 status: open
 raised_by: ["ani", "ars", "ecr", "nullpunkt-protokoll", "pms", "rsa", "snk"]
-documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-17"
 ---
 
@@ -78,3 +78,10 @@ ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times; so do `Sup
 
 **No DKT terminology in the first 50 pages.**
 „Im Roman-Prosatext erscheint nichts davon explizit; die ersten 50 Seiten enthalten keine DKT-Terminologie" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L29]
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+The entry above was written by the Jules session (decision 014) before this document had a census; this is the reconciliation's. Its quotation is about DKT terminology in the novel's first fifty pages of prose, not about the protocol terms this question asks after, and does not bear on it.
+**None of the eight occurs, and it counts no protocols; the protocols it names are its own vocabulary.**
+The title as AEGIS' name for its system: „Kohärenz Protokoll ist der Name, den AEGIS seinem eigenen Kontrollsystem gibt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L237] — against „Das eigentliche Kohärenz-Protokoll ist Kaels Reise" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L237]. The Genesis' second beat, „Separation Protocol" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L275]; the Vortex's „Erasure-Protokoll" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L611]; and protocol as a general term of the physics, „Jedes Protokoll — Mensch, KI, Stadt, Beziehung — erfordert kontinuierlichen Energieaufwand" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L98].
+ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times; so do `Suppressionsprotokoll`, `Re-Containment` and `zwölf` (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`). No instance of the eight as project vocabulary, like the master report, the worldbuilding concept and the Dual-Storyform background document of its date.

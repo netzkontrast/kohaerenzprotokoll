@@ -1,17 +1,17 @@
 ---
 term: LogOS
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-17"
 ---
 
 # LogOS
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Twelve other read documents name LogOS — the readings below, the worldbuilding concept's the latest. (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
+the same nine fields. Thirteen other read documents name LogOS — the readings below, the philosophischer Bericht's the latest (it moved this count from twelve). (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -139,4 +139,10 @@ Named twice as a Guardian, both times in the reduction (`grep -cw LogOS` 2). Onc
 And once as absorbed: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] — into the Erasure-Pol, not into [[mnemosyne|Mnemosyne]] as the character bible has it (Q5).
 
 KW1 keeps the name as its second one: „KW1 — Die Konstrukt-Stadt (Logos-Prime)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L455] (J49). The Guardian that reaches into KW1 is the pole that absorbed LogOS: „der Erasure-Pol durchwirkt KW1 und KW3" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453].
+The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — first of the earlier Wächterprogramme, and not said to be absorbed
+
+Once (`grep -cw LogOS` 1), first in the list of what earlier phases planned: „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] — and outside what is left: „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296], Mnemosyne and a pole whose identity is open. That list and its status word are the document's claim about earlier phases.
+Where LogOS went it does not say: `absorbiert` stands 0 times, and KW1 is only „Konstrukt-Stadt (Kantsche Phänomene)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L429], without `Logos-Prime` (0; `05-verify-readers.txt`). Q5.
 The author decided C6 for five on 2026-09-24; recorded, not applied.

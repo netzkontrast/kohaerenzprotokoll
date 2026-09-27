@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 18
+sources: 19
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -225,3 +225,11 @@ Row 3's count, two. Where the other 2026 sources in this record that count the o
 **Supports the position of two Guardians.**
 „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE). Im aktuellen Canon sind sie reduziert auf zwei: Mnemosyne (Memory-Keeper, Klimax-Setting) und ein Lösch-Pol (Identität noch offen, Forschungsfrage)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296]
 This document explicitly acknowledges the old five (or multiple) and states that they have been reduced to two, naming Mnemosyne and an open erasure pole.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+The entry above was written by the Jules session (decision 014) before this document had a census; this is the reconciliation's. It speaks of the old five; the five earlier programmes this document names are not row 1's five: Mnemosyne is not among them and `RIVE`, in no other read document, is.
+**Two — Mnemosyne and a pole of open identity — reduced from five earlier Wächterprogramme that include `RIVE` and not Mnemosyne; no world per Guardian.**
+„In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296]: „**Mnemosyne** (Memory-Keeper, Klimax-Setting)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] and „**ein Lösch-Pol** (Identität noch offen, Forschungsfrage)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296]. `Erasure-Pol` and `absorbiert` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`): it says of none of the earlier four where they went.
+The pairing: „die Kernwelten sind **Akt-Marker**, *nicht* je-ein-Guardian und *nicht* literale Geographie" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] — and the programmes are placed in one world, KW3: „Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] No bearer's name is on any world.
+Row 3's side, two and no pairing. The author's decision for five (2026-09-24) stands; what the document says of earlier phases and of the current canon is its claim, recorded and not applied.

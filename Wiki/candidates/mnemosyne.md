@@ -1,17 +1,17 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-17"
 ---
 
 # Mnemosyne
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Sixteen other read documents name Mnemosyne — the readings below, the Dual-Storyform background document's the latest (it moved this count from fifteen, as the philosophy catalogue's had from fourteen). (Until that reading this lead said nothing else read named Mnemosyne at all, which the second reading on this page had already made false.)
+the same nine fields. Seventeen other read documents name Mnemosyne — the readings below, the philosophischer Bericht's the latest (it moved this count from sixteen, as the Dual-Storyform background document's had from fifteen and the philosophy catalogue's from fourteen). (Until that reading this lead said nothing else read named Mnemosyne at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -220,3 +220,12 @@ It ranks itself below the status report and the Reset-Doc, and its list of what 
 **She is what is left of the Guardians' politics**: „Vier-Guardian-Soziopolitik. Reduziert auf Mnemosyne + 1 Lösch-Pol. Berührt OS-Operationalisierung in B." ^[dual-storyform-hintergruende-md.md:L468] So she is kept by name, the other one only by function, and both belong to Storyform B's overall story. It counts the old politics as four Guardians' (C6); it gives her no domain and no role beyond the name.
 **Her archipelago is the Vortex's setting.** It is a world named after her (J49), placed here as the master report's and the worldbuilding concept's Vortex setting is. Beat 1: „Convergence (Mnemosyne-Archipel) | B-OS Action: AEGIS exekutiert finalen Erasure-Sweep" ^[dual-storyform-hintergruende-md.md:L356]. „Setting: Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS." ^[dual-storyform-hintergruende-md.md:L364] „Hier kann Erasure nicht mehr funktionieren, weil Erinnerung selbst der Schauplatz wird." ^[dual-storyform-hintergruende-md.md:L364] „Die Wahl des Settings ist nicht atmosphärisch, sondern funktional: nur an einem Ort, der aus K1-gespeicherter Erinnerung besteht, kann der Driver-Pivot mechanisch greifen." ^[dual-storyform-hintergruende-md.md:L364] Its glossary: „Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS. Vortex-Setting." ^[dual-storyform-hintergruende-md.md:L486]
 So the archipelago is a memory keeper's domain *of* AEGIS; whether the keeper is Mnemosyne it does not say, and it ties it to no world: `Kernwelt` stands 0 times, and `KW2` once, in the Genesis flashbacks' „KW2-KW3-Phase“ ^[dual-storyform-hintergruende-md.md:L309] (`05-verify-readers.txt`). The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — one of two, the Vortex's convergence in her archipelago, and a Wächterin who notes without judging
+
+It dates its canon apart from itself and ranks its sources above itself; both are recorded, not applied.
+**One of the two left**: „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] — „**Mnemosyne** (Memory-Keeper, Klimax-Setting)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] and a pole whose identity is open. She is not in its list of the earlier Wächterprogramme, „(LogOS, Cerberus, Kairos, Sophia, RIVE)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296], where the other sources that list the old five put her (C6).
+**Her archipelago is where the Vortex converges**: „Das Mnemosyne-Archipel ist der konkrete Ort, an dem die Vortex-Konvergenz stattfindet." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] Beat 1 of the Vortex's five: „Konvergenz Mnemosyne-Archipel → AEGIS-Erasure" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L619], a Vortex it places „Im Klimax (Ch 35–36)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L611]. The archipelago gets no KW number — KW2 here is „Grenz-Zonen (Unentscheidbarkeit)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L433], and no line names both (`05-verify-readers.txt`; Q5).
+**A school of truth applied to her**, from its brief list of positions: deflationism, „Im Roman ein Schatten in Mnemosynes Operationen — die Wächterin notiert, ohne zu werten." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L203]
+Told from outside, with the Guardians: „AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507]
+The author decided C6 for five on 2026-09-24; recorded, not applied.
