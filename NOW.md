@@ -704,7 +704,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   102 <!--state:sweep.decided--> hits, 49 <!--state:sweep.readings--> of them
+   107 <!--state:sweep.decided--> hits, 53 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -780,7 +780,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 42 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 43 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -919,7 +919,37 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — documents 44–46 reconciled
+## Next document — document 47 reconciled
+
+**Document 47 is done, 2026-09-27**: `kohaerenz-protokoll`, the Kohärenz-Protokoll narrative of
+2025-04-27, 50k words, read on its own in parts. A foreword, a Genesis of AEGIS told from an Ich, „ab hier
+nur Konzept", then 22 chapters of prose — Kael, K-1123, a fragment of M, through Co₁, McL, Beta-Rho-5 and
+Ly, each with its own Guardian (LogOS, Netzweber, Chaos-Regulator, Möglichkeits-Weber). Research, like
+every narrative text. `reconcile-48` is the record. **No page**; J113–J116; readings on 24 pages, Kap 1–12
+and 14–23, `plot.md`, entries in C2–C7, C11, C12, C14 and Q1, Q3–Q5. Retrieval unchanged at 0.660. Six
+Sonnet readers, split by page group.
+- **Its chapter order does not hold**, and the pages say so without reordering: no Kapitel 13; Kapitel 17
+  („Zyklus 2") opens after the collapse Kapitel 18 („Zyklus 1") averts; 17 and 20, 21 and 22 share their
+  headers; Kapitel 23's closing report names Kapitel 17's project.
+- **21 of 379 candidates counted 0** because they stand only in capitalised system messages and the count
+  matches case. A text whose system speaks in capitals needs its list written in the case it stands in, or
+  a note beside the count — briefing material.
+- **Readers overreached in difference lines, and the session caught it by reading them**: a Wächterin
+  made into Juna (`kap-08`), new „positions" on C7 and C11 in chapters that take none, ordinal counts of
+  titles no one had counted, `734` called Kael's own designation, a guessed descent of the Mosaik-Herz
+  name, sentences joined with `[…]`. `quotes.py` passes all of these; only reading finds them.
+- **Noticed, no record holds it:** the Evaluierungseinheit is the room of the first partitioning in its
+  Kapitel 2, where other sources make it a later place where personas collapse (on
+  `evaluierungseinheit`); `RIVE` is AEGIS' validation engine here and a Guardian in the philosophischer
+  Bericht (on `guardians`, `aegis`); M is both what Kael is a fragment of and the Monster group. The unread
+  `an-inquiry-into-the-unresolved-questions-and-thematic-tensio` writes the case number `734-K-1123`, which
+  joins this document's two designations.
+
+Next: the four unread 2026-09-25 scans — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`,
+`charakter-kompilation-fuer-kohaerenz-protokoll`, `ki-prompt-analyse-hard-problem-of-consciousness`,
+`the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p` — then `chapter_sources.py across` again.
+
+### Previous document — documents 44–46 reconciled
 
 **Documents 44–46 are done, 2026-09-27**: the three unread documents highest in the chapter tables after
 the four whole-novel plans — the Duale Storyform-Synthese (2026-04-28), the AEGIS-Analyse (2026-04-30,

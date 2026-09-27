@@ -98,10 +98,11 @@
         "monstergruppe-primzahlen-plot-blueprint",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
-        "m-als-fundament-der-simulation"
+        "m-als-fundament-der-simulation",
+        "kohaerenz-protokoll"
       ],
-      "sources": 43,
-      "readings": 44,
+      "sources": 44,
+      "readings": 45,
       "conflict": "C1, C3, C8, C14"
     },
     "alex": {
@@ -220,10 +221,11 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
-        "m-als-fundament-der-simulation"
+        "m-als-fundament-der-simulation",
+        "kohaerenz-protokoll"
       ],
-      "sources": 36,
-      "readings": 35,
+      "sources": 37,
+      "readings": 36,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -376,10 +378,11 @@
       "ingested": [
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-philosophischer-bericht-md",
-        "editorial-style-dossier-somatic-and-linguistic-implementatio"
+        "editorial-style-dossier-somatic-and-linguistic-implementatio",
+        "kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "cerberus": {
@@ -510,10 +513,11 @@
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "monstergruppe-primzahlen-plot-blueprint",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "m-als-fundament-der-simulation"
+        "m-als-fundament-der-simulation",
+        "kohaerenz-protokoll"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "none yet"
     },
     "dkt": {
@@ -600,10 +604,11 @@
         "koharenz-protokoll-kapitel-0-v2-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "m-als-fundament-der-simulation"
+        "m-als-fundament-der-simulation",
+        "kohaerenz-protokoll"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -679,10 +684,11 @@
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "kohaerenz-protokoll"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 27,
+      "readings": 27,
       "conflict": "C2"
     },
     "erason": {
@@ -721,10 +727,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
-        "dramatica-storyform-synthese-aegis-analyse-2"
+        "dramatica-storyform-synthese-aegis-analyse-2",
+        "kohaerenz-protokoll"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "externe-ebene": {
@@ -859,10 +866,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
-        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "kohaerenz-protokoll"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 28,
+      "readings": 28,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -872,6 +880,7 @@
         "goedel-gambit"
       ],
       "ingested": [
+        "kohaerenz-protokoll",
         "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
         "charakter-kompilation-fuer-kohaerenz-protokoll",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
@@ -895,8 +904,8 @@
         "dramatica-storyform-synthese-aegis-analyse-2",
         "duale-storyform-synthese-kohaerenz-protokoll"
       ],
-      "sources": 22,
-      "readings": 22,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -975,10 +984,11 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "dramatica-storyform-synthese-aegis-analyse",
-        "m-als-fundament-der-simulation"
+        "m-als-fundament-der-simulation",
+        "kohaerenz-protokoll"
       ],
-      "sources": 34,
-      "readings": 34,
+      "sources": 35,
+      "readings": 35,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -1105,10 +1115,11 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "monstergruppe-primzahlen-plot-blueprint",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "kohaerenz-protokoll"
       ],
-      "sources": 39,
-      "readings": 39,
+      "sources": 40,
+      "readings": 40,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1210,10 +1221,11 @@
         "monstergruppe-primzahlen-plot-blueprint",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
-        "m-als-fundament-der-simulation"
+        "m-als-fundament-der-simulation",
+        "kohaerenz-protokoll"
       ],
-      "sources": 41,
-      "readings": 41,
+      "sources": 42,
+      "readings": 42,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -1238,10 +1250,11 @@
         "2026-09-14-kap25-vertiefung-md",
         "kp-kap25-2026-09-14-md",
         "dramatica-storyform-synthese-aegis-analyse-2",
-        "roman-konzept-dualitaet-kohaerenz-spannung"
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "kohaerenz-protokoll"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "none"
     },
     "kairos": {
@@ -1313,10 +1326,11 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "m-als-fundament-der-simulation"
+        "m-als-fundament-der-simulation",
+        "kohaerenz-protokoll"
       ],
-      "sources": 35,
-      "readings": 34,
+      "sources": 36,
+      "readings": 35,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1447,10 +1461,11 @@
         "koharenz-protokoll-kapitel-0-v2-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
-        "kohaerenz-protokoll-philosophischer-bericht-md"
+        "kohaerenz-protokoll-philosophischer-bericht-md",
+        "kohaerenz-protokoll"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 17,
+      "readings": 17,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -1516,10 +1531,11 @@
         "kohaerenz-protokoll-philosophischer-bericht-md",
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "systemic-architecture-specification-the-coherence-protocol-w",
-        "duale-storyform-synthese-kohaerenz-protokoll"
+        "duale-storyform-synthese-kohaerenz-protokoll",
+        "kohaerenz-protokoll"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "C12"
     },
     "konstrukt-stadt": {
@@ -1706,10 +1722,11 @@
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "kohaerenz-protokoll"
       ],
-      "sources": 19,
-      "readings": 19,
+      "sources": 20,
+      "readings": 20,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -1839,10 +1856,11 @@
         "dramatica-storyform-synthese-aegis-analyse-2",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
-        "m-als-fundament-der-simulation"
+        "m-als-fundament-der-simulation",
+        "kohaerenz-protokoll"
       ],
-      "sources": 32,
-      "readings": 32,
+      "sources": 33,
+      "readings": 33,
       "conflict": "none"
     },
     "moros": {
@@ -1899,10 +1917,11 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "duale-storyform-synthese-kohaerenz-protokoll"
+        "duale-storyform-synthese-kohaerenz-protokoll",
+        "kohaerenz-protokoll"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -1947,10 +1966,11 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "monstergruppe-primzahlen-plot-blueprint",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "kohaerenz-protokoll"
       ],
-      "sources": 35,
-      "readings": 35,
+      "sources": 36,
+      "readings": 36,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -2240,10 +2260,11 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "m-als-fundament-der-simulation"
+        "m-als-fundament-der-simulation",
+        "kohaerenz-protokoll"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -2390,10 +2411,11 @@
         "monstergruppe-primzahlen-plot-blueprint",
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "kohaerenz-protokoll"
       ],
-      "sources": 34,
-      "readings": 34,
+      "sources": 35,
+      "readings": 35,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -2671,10 +2693,11 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "dramatica-storyform-synthese-aegis-analyse-2",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "kohaerenz-protokoll"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "C12"
     },
     "truth-rotation": {
@@ -2782,10 +2805,11 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
         "kohaerenz-protokoll-philosophischer-bericht-md",
-        "mining-report-kohaerenz-protokoll-narrative-building-blocks"
+        "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+        "kohaerenz-protokoll"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
