@@ -6,15 +6,15 @@ category: kernkonzept
 index_date: "2026-05-08"
 read: "2026-09-27"
 stance_markers: [kanonisiert, Canon, "nicht Canon", dekanonisiert, bindend, reduziert, verworfen, abgewickelt, "Status: ungelöst", "Open Questions"]
-stance_marker_count: 10    # the header's canon status and source hierarchy, what it calls canonised or retired, the Guardians and the Foundation „reduziert", V3 rejected, and two open points it names in the body and again in §14
-reads_as: a theory report of 2026-05-08, „Synthese, nicht Pitch", on the Dual-Kernel-Theorie, the correspondence and coherence theories of truth and the Truth-Rotation between them, AEGIS as a tragic god and MC of Storyform B, Juna's Witness-Function, the Moonshine-Link, the four Kernwelten as act markers, the TSDP and the thirteen Alters, the Reader-Function, dialetheia and the Vortex's five beats, the Holon and its Spiegelachse, the Foundation, Algorithmische Melancholie, and five open questions
+stance_marker_count: 10    # the header's canon status and source hierarchy, what it calls canonised or retired, the Guardians and the Foundation „reduziert" ^[L294], V3 rejected, and two open points it names in the body and again in §14
+reads_as: a theory report of 2026-05-08, „Synthese, nicht Pitch" ^[L25], on the Dual-Kernel-Theorie, the correspondence and coherence theories of truth and the Truth-Rotation between them, AEGIS as a tragic god and MC of Storyform B, Juna's Witness-Function, the Moonshine-Link, the four Kernwelten as act markers, the TSDP and the thirteen Alters, the Reader-Function, dialetheia and the Vortex's five beats, the Holon and its Spiegelachse, the Foundation, Algorithmische Melancholie, and five open questions
 ---
 
 # Reading — Kohärenz Protokoll, Theoretisches Fundament (2026-05-08)
 
 ## How this document speaks
 
-It is a synthesis of what „bisher kanonisiert wurde" and says how it ranks its sources: „Dieses Dokument ist Synthese, nicht Pitch." ^[L25] „Wo sich Quellen widersprechen, gilt die Skill-Canon-Hierarchie: NCP-Datei und canon-meta.md schlagen Project-Knowledge-PDFs, diese schlagen Memory, Memory schlägt Training." ^[L25] Its status is dated apart from itself: „Canon-Stand: post-Reset 2026-04-30, Dual-Storyform-Architektur kanonisiert 2026-05-07" ^[L17]. The appendix: „Bei Diskrepanz zwischen Canon-Files und PDFs gewinnt der Canon. PDFs sind Steinbruch (*Quarry*), nicht Maßstab." ^[L830] Recorded, not applied.
+It is a synthesis of what „bisher kanonisiert wurde" ^[L25] and says how it ranks its sources: „Dieses Dokument ist Synthese, nicht Pitch." ^[L25] „Wo sich Quellen widersprechen, gilt die Skill-Canon-Hierarchie: NCP-Datei und canon-meta.md schlagen Project-Knowledge-PDFs, diese schlagen Memory, Memory schlägt Training." ^[L25] Its status is dated apart from itself: „Canon-Stand: post-Reset 2026-04-30, Dual-Storyform-Architektur kanonisiert 2026-05-07" ^[L17]. The appendix: „Bei Diskrepanz zwischen Canon-Files und PDFs gewinnt der Canon. PDFs sind Steinbruch (*Quarry*), nicht Maßstab." ^[L830] Recorded, not applied.
 It marks what it retires: „Wo Begriffe aus älteren Phasen abgewickelt sind (Final Fusion, Hypothese B des klassischen Kollapses, Plot B), wird dies markiert." ^[L25]
 None of it is for the prose: „es ist Werkbank, nicht Schaufenster" ^[L29]; „die ersten 50 Seiten enthalten *keine* DKT-Terminologie, und der Somatische Filter setzt jeden Begriff in Hitze, Ozon, Druck im Bauch um." ^[L29]
 
@@ -72,7 +72,7 @@ The document does not relate the two. §11.3 has both MCs as „I": „Kael („
 ## The Guardians
 
 „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE). Im aktuellen Canon sind sie **reduziert auf zwei**: **Mnemosyne** (Memory-Keeper, Klimax-Setting) und **ein Lösch-Pol** (Identität noch offen, Forschungsfrage)." ^[L296] „Das Mnemosyne-Archipel ist der konkrete Ort, an dem die Vortex-Konvergenz stattfindet." ^[L296]
-The Kernwelten are „*nicht* je-ein-Guardian" (L427); the Wächterprogramme reside in KW3 (L439).
+The Kernwelten are „*nicht* je-ein-Guardian" ^[L427] (L427); the Wächterprogramme reside in KW3 (L439).
 
 ## Juna
 

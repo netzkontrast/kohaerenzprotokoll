@@ -31,7 +31,7 @@ English prose with German terms in quotation marks. It calls its canon by date: 
 ## Kael, MC of A
 
 „Kael functions as a  **"Be-er,"**  focusing on internal transformation to resolve systemic conflict." ^[L28] „His trajectory follows the "Avoidance → Pursuit" dynamic" ^[L28]
-Seed-01: KW1 — „hard, gleichmäßiges Licht" and the „Geruch von Desinfektionsmitteln" — „is increasingly interrupted by the smell of ozone" ^[L32].
+Seed-01: KW1 — „hard, gleichmäßiges Licht" ^[L32] and the „Geruch von Desinfektionsmitteln" ^[L32] — „is increasingly interrupted by the smell of ozone" ^[L32].
 Seed-03: „Kael observes his reflection in a "Spiegelnde Wand" lagging by a millisecond." ^[L38]
 
 ## AEGIS, MC of B

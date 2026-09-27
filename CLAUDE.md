@@ -120,8 +120,8 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**31 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **31
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **31
+**39 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **39
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **39
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
 five `worldbuilding`, one `aegis`, three `storyform`, three `charaktere`, five
 `kernkonzept`, ten `plot-outline` and one `theorie-psychologie` — the last twenty-five
@@ -136,7 +136,7 @@ has been promoted.
 
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
-**416 <!--state:chapters.readings--> readings** from the nine read documents
+**428 <!--state:chapters.readings--> readings** from the nine read documents
 that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, that text's prose without its annotation, a world bible that names nine, a philosophy catalogue that names nineteen, a drafting run's log that names three, a chapter file of Kap 25 that names two, a storyform companion that names nine, and a theory report that names three; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
@@ -498,7 +498,7 @@ with one Vortex, so `plot.md` moved again. **No pages, readings on 57 pages, `pl
 and 36, entries in twelve conflicts and all five questions** — written by eight Claude readers from one
 brief, each group checked and committed by the session.
 
-`Plan/runs/judgements.jsonl` holds **103 <!--state:judgements.total--> judgements**
+`Plan/runs/judgements.jsonl` holds **106 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -636,8 +636,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 57 <!--state:sweep.decided--> so far,
-35 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 71 <!--state:sweep.decided--> so far,
+40 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -711,8 +711,8 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**577 <!--state:wiki.relations--> links across
-106 <!--state:wiki.pages--> pages, 20 <!--state:wiki.orphans--> of them with
+**597 <!--state:wiki.relations--> links across
+106 <!--state:wiki.pages--> pages, 19 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
 mistaken for a statement about linking. 48 links existed, written in backticks,
@@ -730,7 +730,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 372 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 414 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -789,14 +789,14 @@ read after that, made it three.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **161 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **2956 <!--state:graph.edges--> edges** (`links`,
+citations and builds **169 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **3570 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 5928 <!--state:graph.evidence-->
-of them, **5928 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 7398 <!--state:graph.evidence-->
+of them, **7398 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -1215,7 +1215,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 577 <!--state:wiki.relations-->.
+links. It has 597 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
@@ -1385,7 +1385,7 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
-**85 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+**86 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
 47 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
 decides 56 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
 `fold()`, so reconciliation is unchanged. Every optimizer on the ladder —

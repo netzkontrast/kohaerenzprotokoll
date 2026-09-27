@@ -437,7 +437,7 @@ may be a third surface for the same entity. Nothing read links them.
 **The quote convention is in use.** A research-source quotation carries its
 citation on the same line and inside its table cell. Source labels and the
 wiki's own working sentences use code or emphasis; recorded author decisions
-link to their decision record. The checker reports 4
+link to their decision record. The checker reports 6
 <!--state:quotes.unchecked--> quotations without a resolvable source citation.
 `python3 scripts/quotes.py --unchecked` lists any new gaps with file and line.
 
@@ -467,7 +467,7 @@ the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
 author's delegation, set the reach of a rule that also passes a plural ending:
 `pairs.RULES["plural"]` decides 56 <!--state:pairs.plural_correct--> of
-85 <!--state:pairs.labelled--> pairs where `fold()` decides
+86 <!--state:pairs.labelled--> pairs where `fold()` decides
 47 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
 pages joined and 28 new merges across all 14 candidate lists, each a singular and
 its plural. It is a ledger row and the rule a model run asks first;
@@ -688,7 +688,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   57 <!--state:sweep.decided--> hits, 35 <!--state:sweep.readings--> of them
+   71 <!--state:sweep.decided--> hits, 40 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -764,7 +764,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 27 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 35 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -1306,7 +1306,7 @@ those files are read directly when working on code. The check needs no qmd
 binary; it checks configured coverage, not the contents of an installed index.
 
 **Citation resolution is complete:** 0 <!--state:quotes.unresolved-->
-quotations fail `scripts/quotes.py`, and 4 <!--state:quotes.unchecked-->
+quotations fail `scripts/quotes.py`, and 6 <!--state:quotes.unchecked-->
 research-source quotations lack a resolvable citation. The checker audits
 research-source wording; an author's recorded decision links to its decision
 record and is not treated as a quotation from a research document.
