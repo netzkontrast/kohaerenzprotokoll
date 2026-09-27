@@ -1445,3 +1445,45 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „### 7.3 KW3 — Überwelt / Nexus (Quanten-Information)“ (L437): the Maschinenraum hinter dem Rendering, where the Wächterprogramme reside (L439). The wiki keeps ueberwelt and nexus as two pages; J63 already keeps Überwelt-Nexus apart from Überwelt.
 
 **Result.** two terms: the heading is a reading on both pages — this document gives KW3 both names — and merges nothing. J34 and J43 (a slash as an alias) hold for a joint name no page keeps apart; where the wiki has a page for each side, J51 governs.
+
+## J104 — RS-A / RSA
+
+**two-terms** · systems-narrative-analysis-the-coherence-protocol-kanon-2026 · 2026-09-27 · replay: `judgement`
+
+- **rule:** punctuation joining a throughline to its storyform (RS-A, A:RS) is part of the abbreviation; the folded form names something else (J87)
+- **mechanised by:** `nothing`
+- **features:** abbreviation, storyform-suffix, fold-collision
+
+**Question.** is the document's RS-A the RSA protocol the wiki pages?
+
+**What was done.** „#### 8\. RS-A: Kael & Juna Material (Physics)“ (L98) heads the Relationship Story of Storyform A beside MC-A, MC-B, IC-A, IC-B, OS-A, OS-B and RS-B; the wiki's `rsa` is the Rekursive Semantische Autogenese. fold() drops the hyphen and files RS-A under `rsa`.
+
+**Result.** two terms: a throughline of a storyform, not the protocol. Not mechanised — fold() must keep dropping hyphens inside compounds (J26), so the case stays a person's call; J87 is the same collision for a colon, which fold() now keeps
+
+## J105 — Trauma-Lokus / Vergessener Schrein (Trauma-Lokus)
+
+**judgement** · systems-narrative-analysis-the-coherence-protocol-kanon-2026 · 2026-09-27 · replay: `judgement`
+
+- **rule:** a common-noun alias a page took from one source's heading is resolved by the sentence in every other source, never by the surface (J20, J51, J88)
+- **mechanised by:** `nothing`
+- **features:** alias-reused, another-referent, single-source-alias
+
+**Question.** is this document's Trauma-Lokus the Vergessener Schrein, whose alias it is?
+
+**What was done.** „KW2 acts as a "Trauma-Lokus" where AEGIS traps difficult memories.“ (L85) — the Echowald Trap, a world; the same document writes the Vergessener Schrein separately, as a „Quantum-Locus“ (L107). The alias came to vergessener-schrein from the Lokalitäten document's heading.
+
+**Result.** placed by the sentence: here the word names KW2's function and is a reading on kern-welten, not on vergessener-schrein; the alias stays, and the page's readings from this document are the Schrein's own (L35, L107)
+
+## J106 — DKT (Dissoziative Kontroll-Technik) / DKT
+
+**judgement** · systems-narrative-analysis-the-coherence-protocol-kanon-2026 · 2026-09-27 · replay: `judgement`
+
+- **rule:** an acronym with a different expansion in the same sentence is a different term (J60); where the sentence restates a rule other sources give the page's term, the page records the expansion and the rule, attributed
+- **mechanised by:** `nothing`
+- **features:** acronym, second-expansion, same-rule
+
+**Question.** is a DKT the same sentence expands as „Dissoziative Kontroll-Technik“ the Dual-Kernel-Theorie?
+
+**What was done.** „Zero use of  **DKT (Dissoziative Kontroll-Technik)**  within the first 50 pages. The rifts must remain an ontological mystery, never a tactical tool for the protagonist.“ (L21); `Dual-Kernel` 0. Read sources give the same fifty-page rule for the Dual-Kernel-Theorie's vocabulary (the philosophischer Bericht, L29).
+
+**Result.** placed by the sentence: an acronym is identified by the expansion its sentence gives it (J60), so this is a different expansion of the surface, not a second name of the theory; the rule it states is the one read sources state for the DKT. Recorded on dkt as this document's expansion, merging nothing

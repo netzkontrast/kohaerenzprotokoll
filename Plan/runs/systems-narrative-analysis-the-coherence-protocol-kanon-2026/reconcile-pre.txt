@@ -1,0 +1,142 @@
+# reconcile-pre — systems-narrative-analysis-the-coherence-protocol-kanon-2026
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  2 surface groups folded to one term first
+  122 candidates, 121 decisions — **94 by lookup, 27 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (18) — page exists, this document is not on it yet — a reading
+  AEGIS                                aegis
+  Kael                                 kael
+  Risse                                risse
+  DKT                                  dkt
+  Juna                                 juna
+  Alters                               alters
+  Vortex                               vortex
+  Mnemosyne                            mnemosyne
+  LogOS                                logos
+  Guardians                            guardians
+  Trauma-Lokus                         vergessener-schrein
+  RS-A                                 rsa
+  Vergessener Schrein                  vergessener-schrein
+  Lia                                  lia
+  Isabelle                             isabelle
+  Argus                                argus
+  Silas                                silas
+  Oblivion                             oblivion
+
+## new_term (76) — no page, no near match — a new page
+  Coherence Protocol                   
+  Coherence Island                     
+  Potential Sea                        
+  Storyform A                          
+  Storyform B                          
+  Rifts                                
+  decoherence events                   
+  Lokalitäten-K                        
+  The Hard No                          
+  Dissoziative Kontroll-Technik        
+  Functional Multiplicity              
+  MC-A                                 
+  Be-er                                
+  Avoidance → Pursuit                  
+  Seed-01                              
+  KW1                                  
+  Ozone                                
+  forgotten schrein                    
+  Spiegelnde Wand                      
+  Real-Time Spatial Mapping            
+  Mind/Preconscious                    
+  MC-B                                 
+  Do-er                                
+  Progress                             
+  Protocol 01                          
+  Resonanz-Spitze                      
+  Landauer Heat-Limit                  
+  Wärmetod                             
+  Big Freeze                           
+  Code-Parasites                       
+  Entropy                              
+  autopoiesis                          
+  IC-A                                 
+  IC-B                                 
+  Impact Character                     
+  KW2                                  
+  feuchtes Laub                        
+  Fixed Idea                           
+  Gödel Sentence                       
+  Zensur-Loop                          
+  Abgrenzung                           
+  System-Riss                          
+  Existenzforschung                    
+  Plot-Exploration                     
+  OS-A                                 
+  OS-B                                 
+  Core-Worlds                          
+  KW1-4                                
+  Architecture of Paranoia             
+  Standardisierter Transitkorridor     
+  12 Protocols                         
+  Klassische Realität                  
+  Landauer Heat-Shimmer                
+  hitzeflimmern                        
+  RS-B                                 
+  Quantenverschränkung                 
+  Quantum-Locus                        
+  4D-Raumzeit                          
+  Flawed God                           
+  Autopoietic Cradle                   
+  Ch35-36                              
+  Driver-Pivot                         
+  5-Point Sequence                     
+  White Noise                          
+  Datamoshing                          
+  Algorithmic Melancholy               
+  Living Contradiction                 
+  Choice of Multiplicity               
+  Pivot to A                           
+  OPEN-Q                               
+  Witness Layer                        
+  Absolute Cold                        
+  BACKLOG                              
+  DKK-Protocols                        
+  INDEX                                
+  Material precedes Theory             
+
+## needs_judgement (27) — NEAR a known surface — one term or two?
+  AEGIS  /  Kael ↔ AEGIS                       near: each other
+  Kael  /  Kael ↔ AEGIS                        near: each other
+  Kanon  /  KANON-KOMPATIBEL                   near: each other
+  Vortex  /  THE VORTEX                        near: each other
+  Mnemosyne  /  Mnemosyne Interface            near: each other
+  Heat-Spike  /  Heat-Spike Landauer           near: each other
+  Resonance  /  Resonance-Bridge               near: each other
+  Dialetheia  /  Lebende Dialetheia            near: each other
+  Echowald  /  Echowald (KW2)                  near: each other
+  Echowald  /  Echowald Trap                   near: each other
+  Non-Local Entanglement Pulse  /  Entanglement Pulse near: each other
+  LogOS  /  LogOS Interface                    near: each other
+  LogOS  /  LogOS Gaslighting                  near: each other
+  Dekohärenz Protocol  /  Dekohärenz           near: each other
+  Gamma-Frequenz 40Hz  /  Gamma-Frequenz       near: each other
+  Quarry  /  Non-Compatible Quarry             near: each other
+  Mnemosyne Interface                          near: mnemosyne→mnemosyne
+  Simulations-Inkonsistenz                     near: simulation→ueberwelt
+  Ontological Exploit                          near: alex→alex
+  Genesis Crisis                               near: genesis→genesis
+  LogOS Interface                              near: logos→logos
+  Dekohärenz Protocol                          near: koharenz→kohaerenz
+  Dekohärenz                                   near: koharenz→kohaerenz
+  LogOS Gaslighting                            near: logos→logos
+  Kael ↔ AEGIS                                 near: aegis→aegis, kael→kael
+  THE VORTEX                                   near: vortex→vortex
+  Ende der Kohärenz                            near: koharenz→kohaerenz
+
+## in_document_not_in_census (3) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Genesis                              genesis                      L52
+  Kohärenz                             kohaerenz                    L125
+  Simulation                           ueberwelt                    L76
+
