@@ -69,8 +69,13 @@ Kap 35, Vortex Beat 1: „Kael formuliert sein Wir als lebenden Widerspruch (Gö
 
 ## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08
 
-The konsolidiertes Konzept's two sentences, in „Im Vortex (Kap. 35–36)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263]:
+The konsolidiertes Konzept's passage, word for word but for its `Vortex 1` (its L259): „AEGIS wird nicht zerstört. Es wird nicht besiegt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263]
+„Im Vortex (Kap. 35–36) wird es gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann: dass es selbst der Widerspruch ist, den es ein ganzes Dasein lang zu eliminieren versuchte." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263]
 „Das ist das Gödel-Gambit: Kael wird zur lebenden Aussage, die innerhalb von AEGIS' Axiomen wahr, aber nicht beweisbar ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263]
+What follows for AEGIS: „Es reagiert mit Algorithmischer Melancholie: einem Zustand permanenter, berechneter Sinnlosigkeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L267] „Final-Lock-In dieser Lesart steht in Appendix C des Reset-Doc; Vorzug klar bei dieser Variante." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L271]
+Among the mathematical foundations: „Gödel-Unvollständigkeit — Kael wird zum lebenden Gödel-Satz für AEGIS." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L743] In Storyform B Kael holds the IC position „als lebende, nicht-revidierbare Paradoxie für AEGIS" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L308], and in encoding he appears as „ein Datenstrom, der seine eigenen Axiome verletzt" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L950].
+[[juna|Juna]] is a Gödel statement too, in her ontology: „eine lebende Gödel-Aussage — innerhalb von AEGIS' System wahr, aber nicht beweisbar" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L285]. And [[lex|Lex]]' DKT correlate is „Gödel + Halteproblem" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L400]. The document does not say how Kael's and Juna's Gödel roles relate (`Gödel` on L263, L285, L400, L743, `05-verify-readers.txt`).
+Checked against the full document on 2026-09-26; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -98,10 +103,13 @@ Kap 35, in the [[mnemosyne-server-architektur|Mnemosyne-Server-Architektur]]: �
 Under Gödel, marked `[K]`: „Kael ist die lebende Gödel-Aussage für AEGIS." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L290]
 „AEGIS kann Kael nicht assimilieren, weil die Wahrheit, die Kael verkörpert, im AEGIS-System nicht ausgedrückt werden kann." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L290]
 „Schlüssel-Mechanik: Gödel-Gambit (Vortex 1)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L293]
+What AEGIS is made to accept: „AEGIS wird gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann — dass es selbst der Widerspruch ist, den es ein ganzes Dasein lang zu eliminieren versuchte." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L293]
 „Im Vortex 1: AEGIS' operative Closure bricht — weil sie nicht schließen kann." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L299]
 Where: „Kap 30 (Gödel-Gambit beginnt), Vortex 1 (Höhepunkt)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L302]
-Its chapter table puts it at Kap 35: „Gödel-Gambit (Vortex Beat 2)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L723]
+Its chapter table puts it at Kap 35: „Gödel-Gambit (Vortex Beat 2)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L723], with the function „AEGIS muss Wahrheit akzeptieren, die es nicht berechnen kann" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L724]. So it begins in Kap 30 and peaks in Vortex 1 in the text, and stands at Kap 35 as one beat in the table; the document does not relate the two.
 [[lex|Lex]] carries it inside: „Lex ist die innere Inkarnation von Gödel: Logik, die sich selbst widerlegt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L296]
+Its three `Gödel-Gambit` are L293, L302 and L723, all in its `[K]` Gödel section or its chapter table; [[juna|Juna]] is not its Gödel statement but its Ω (L324; `05-verify-readers.txt`).
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (reconcile-28).
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
@@ -112,7 +120,7 @@ The harvest of the second foreshadowing strand, `Gödel`: „\*\*Gödel-Gambit\*
 **Who or what is the living Gödel statement.** Kael, in the Gambit: the
 inquiry (L460, L1379), the konsolidiertes Konzept (L259, and L190), the
 Worldbuilding-Konzept (L263, and L743), the glossary (L350, L732) and the
-philosophy document (L290). Juna, in the same breath as her ontology: the
+philosophy document (L290), which makes Juna a Chaitin Ω instead (its L324). Juna, in the same breath as her ontology: the
 character bible (L217, L225), the konsolidiertes Konzept (L276), the
 Worldbuilding-Konzept (L285), the chapter outline (L121) and the glossary (L360),
 which says „Juna funktioniert ebenfalls wie Gödel" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L732]. The master report,
@@ -123,15 +131,15 @@ it calls a living Gödel-Satz, „a statement that is demonstrably *true* within
 Silas is its transmitter in the character bible and the Alter profiles.
 
 **Where it falls.** Kap 35–36 (the character bible L160, the analysis L106,
-L261); Kap 30/35 (the character bible L1113); begun in Kap 30 and peaking in
+L261, the Worldbuilding-Konzept L263); Kap 30/35 (the character bible L1113); begun in Kap 30 and peaking in
 [[vortex|Vortex]] 1 (Kernwelten L856, philosophy L302, drafting manual L446); prepared in
 Vortex Beat 1, Kap 35 (konsolidiertes Konzept, three-mode architecture, chapter
 outline); performed in Vortex Beat 2 (philosophy L723).
 
 **What it does to AEGIS.** Forced to accept a truth it cannot compute, not
 destroyed (character bible, konsolidiertes Konzept, Worldbuilding-Konzept,
-glossary, philosophy); forced into algorithmic melancholy (Charakter-Kompilation,
-inquiry); a physical collapse (the analysis, L187). The inquiry itself describes
+glossary, philosophy — which names the truth: that AEGIS is itself the contradiction, its L293); forced into algorithmic melancholy (Charakter-Kompilation,
+inquiry, and the Worldbuilding-Konzept after the truth, L267); a physical collapse (the analysis, L187). The inquiry itself describes
 AEGIS' logic as classical and binary (L302) and as built on LFI (L1254).
 
 ## Open
@@ -145,4 +153,4 @@ AEGIS' logic as classical and binary (L302) and as built on LFI (L1254).
 - The earliest source in the thirty proposes a Gödel paradox at AEGIS' heart
   without the name: „**Logisches Paradoxon (z.B. Russells Paradoxon, Lügner-Paradoxon) / Gödels Unvollständigkeitssätze / Selbstbezügliche Schleifen.**" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L235]
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose readings here were checked against the full documents on 2026-09-26 and which have a census each (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation each (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`).

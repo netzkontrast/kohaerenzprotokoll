@@ -3,7 +3,7 @@ id: Q2
 question: Do the seven protocol terms ever appear as project vocabulary, or do they only ever appear as objects of criticism?
 status: open
 raised_by: ["ani", "ars", "ecr", "nullpunkt-protokoll", "pms", "rsa", "snk"]
-documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -54,3 +54,15 @@ any was among the retired twelve it does not say.
 
 **None of the eight occurs; twelve earlier protocols became three.**
 „Frühere Drafts hatten 12 Protokolle. Aktuell kanonisch 3 — die genaue Spezifikation ist offene Forschungsfrage." ^[kohaerenz-protokoll-konzept-master-md.md:L517] The three are the Suppressionsprotokoll, the Kohärenzprotokoll and the Re-Containment-Protokoll (L521–L523). None of ANI, ARS, ECR, PMS, RSA, SNK, ZTV or the Nullpunkt-Protokoll is named, and the twelve are not listed.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**None of the eight occurs; the old drafts' twelve protocols became three.**
+„Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle. Das war Lore-Last." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L192] Then „Drei Protokolle:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L209] — the Suppressionsprotokoll, the Kohärenzprotokoll and the Re-Containment-Protokoll (L213–L215) — and „Diese drei reichen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L219]
+ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times, and the twelve are not listed. No instance of project vocabulary; like the master report of its date.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**None of the eight occurs; the protocols it names are its own vocabulary.**
+„Das Kohärenzprotokoll (eponym des Romantitels) ist Kohärenztheorie als algorithmische Praxis — alles, was nicht passt, wird erasiert." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L36] Besides it, the Suppressionsprotokoll as AEGIS' practice (L45), a world „die das Trennungsprotokoll erzeugt hat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L229], and „AEGIS' Reparaturprotokolle sind potenziell endlos" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L307].
+ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times; so do `Re-Containment` and `zwölf`. No instance of the eight as project vocabulary.

@@ -1,17 +1,20 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
 # Mosaik-Herz
 
-**One name for two things: a Kap-11 story beat, and a Kap-34 place.** Four read
-sources use it; one of them uses it both ways.
+**One name for two things: a Kap-11 story beat, and a Kap-34 place.** Nine read
+sources use it. Six name the Kap-11 beat and five name Kap 34, as a place or a beat
+before the [[vortex|Vortex]]; the konsolidiertes Konzept and the strukturierter Outline
+name both. Two also make it an inner resource in Kap 23. (Until the worldbuilding
+concept was read this said four sources, one of them using it both ways.)
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -63,3 +66,10 @@ Only the Kap-34 place; no Kap-11 beat is named in this document.
 Kap 11: „Akzeptanz der Komplexität — Mosaik-Herz" ^[three-mode-architecture-39-chapters-md.md:L188], its leitmotif „Mosaik, Scherben als Muster" ^[three-mode-architecture-39-chapters-md.md:L188].
 Cycle 3's correction, Kap 21–23: „Selbst-Schöpfung / Mosaik-Herz als innere Ressource" ^[three-mode-architecture-39-chapters-md.md:L247]; Kap 23 „Z3-Korrektur — Mosaik als Schöpfung" ^[three-mode-architecture-39-chapters-md.md:L267].
 At the end, one reading of the ending is „ein Triumph des Mosaik-Herzens" ^[three-mode-architecture-39-chapters-md.md:L315]. No place is named for it, and no Kap 34.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the Kap-34 place only
+
+One of three sub-locations of „KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L584], after the Möglichkeits-Garten and the [[nexus|Nexus]]:
+„Das Mosaik-Herz — der Ort, an dem Kael Juna als Teil seiner selbst akzeptiert (Ch34, vor Vortex)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L620]
+„KW4 dominiert Akt III (Ch29–34, 37–39)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L624]
+No Kap-11 beat and no Kap-23 resource: its only other `Mosaik` is a reader-architecture device, „Mosaik-Struktur (Anker)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L789], and its one `Ch11` is a Grenzsituation (L739) (`Mosaik` 2, `05-verify-readers.txt`).

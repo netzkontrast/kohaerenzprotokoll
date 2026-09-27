@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-16"
 ---
 
@@ -105,3 +105,11 @@ And its aim is not fusion: „**Im Roman: zwingend Funktionale Multiplizität, n
 
 Named only as a word the prose withholds: „Der Reader spürt sie über Glitches, Stimmverschiebungen, ungewollte Handlungen — aber das Wort "Alters" oder "DID" fällt nicht." ^[three-mode-architecture-39-chapters-md.md:L171]
 „Klartext-Diagnose vor Kap 10 zerstört den Modus." ^[three-mode-architecture-39-chapters-md.md:L598]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the word once, in the negative
+
+The word stands once (`grep -cw DID`: 1), in the list of what the novel is not: „Keine DID-Allegorie. Die Alters sind diagnostisch konkret, nicht symbolisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L874]
+The diagnosis it names is TSDP: „TSDP (Tertiäre Strukturelle Dissoziation der Persönlichkeit) als Diagnose, IFS (Internal Family Systems) als Heilungsmodell." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L388] „Dissoziation ist *nicht* Crew-Menü, sondern Amnesie-Terror." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L388]
+It answers the classification the first brief asked about by making it the trauma: „AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie" und führt das Trennungsprotokoll aus." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]
+„*Das eigentliche Trauma ist nicht das, was geschah, sondern was danach getan wurde, um es zu „heilen".*" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L439] And the inversion under it: „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33]
+The aim is not fusion: „Funktionale Multiplizität, *niemals* Fusion." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L419] (see Multiplizität).

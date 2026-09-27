@@ -1,10 +1,10 @@
 ---
 term: Vortex
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C7, C11, C14
-ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
 gathered: "2026-09-25"
 ---
 
@@ -108,6 +108,16 @@ It leaves the narration of Beat 1 open: „POV-Frage: ist Beat 1 dritte Person A
 Without a number: „Im Vortex (Kap. 35–36) wird es gezwungen, eine Wahrheit zu akzeptieren“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L263].
 The witness layers join in the last beat: „Im Vortex-Beat 5 schließen sich die drei Layer zu einer einzigen Funktion zusammen.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L350]
 And its source is the [[telefon-stille|Telefon-Stille]]: „Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L370]
+What turns there: „Hier schließt sich die Truth-Rotation: AEGIS = K₀ wird sichtbar, Kael = K₁ wird sichtbar.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L801] Its mechanical source is the inversion: „Diese Inversion ist die mechanische Quelle der Truth-Rotation am Vortex (Kap. 35–36).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L86] Its preparation is the IC asymmetry: „Diese Asymmetrie ist die mechanische Vorbereitung der Vortex-Inversion.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L312]
+The other four beats: „Beat 2 — Pivot (Dialetheic Choice). Kael wechselt von B-Linear zu A-Holistic.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L809] „Eine einzige körperliche Geste markiert die Wahl (eine, nicht zehn).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L809]
+„Beat 3 — The Silence. Alle kinetische Aktion endet. Nichts-Rauschen wird absolute Stille.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L813]
+„Beat 4 — Heat Spike. AEGIS' Erasure-Protokoll trifft auf integriertes, MI-dichtes Ziel. Landauer-Wärme spiked unmöglich.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L817]
+„Beat 5 — Rotation. AEGIS' operative Closure bricht. Algorithmische Melancholie setzt ein. Truth-Rotation komplett.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821] „Letzter Satz des Klimax-Kapitels: welcher Alter spricht?“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821]
+The witness layers, three ways in one document: „Im Klimax operieren alle drei Layer simultan:“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L340]; one per beat — „Witness-Function-Layer 3 (Husserlian Spectator) ist hier aktiv.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L813] in Beat 3, „Witness-Function-Layer 1 (Quanten-Verschränkungs-Witness) aktiv.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L817] in Beat 4, „Witness-Function-Layer 2 (Cryptographic ZK-Verifier) abgeschlossen.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L821] in Beat 5; and joined in Beat 5 (L350, above).
+The setting is open: „Die Mnemosyne-Server-Architektur — der eigentliche Klimax-Ort.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L535] „Mnemosyne-Archipel als Setting: offen ist das primäre Bild — Inselgruppe, Server-Halle, Memorialarchitektur, Zirbeldrüse.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L825]
+The driver: „Nicht Driver-Flip innerhalb B (das wäre dramaturgisch illegal), sondern Storyform-Übergang B (Action-Driver) → A (Decision-Driver).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L829] The two clocks: „Beide laufen parallel. Alter sehen beide. Leser sieht beide. AEGIS sieht nur Timelock.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L839]
+It does not divide the beats between Kap 35 and Kap 36, but gives each chapter one thing of its own: Metzinger's self-model „erklärt die Auflösung des Subjekt-Objekt-Spalts in Ch35“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L727], and the [[externe-ebene|Externe Ebene]] is „Der Substrat-Durchbruch (Ch36).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650] It has no Vortex 2, no Kap 37 and no Kap 38 (`Vortex 2` 0, `Ch37` 0, `Ch38` 0, `05-verify-readers.txt`); after the Vortex, KW4 carries Akt III's „Ch29–34, 37–39“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L624].
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 
@@ -210,12 +220,22 @@ Beat 4, the heat spike, is the „einziger kanonischer Landauer-Wärme-Ort“ ^[
 
 The philosophy document reads the Vortex's beats as positions. The central
 conflict: „AEGIS und das System Kael verkörpern zwei rivalisierende Wahrheitstheorien, die im Vortex synthetisiert werden.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L31]
-„Schlüssel-Beat: Vortex 1 Beat 3 — Stille. Hier ist Husserl voll aktiv.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L160]
-„Algorithmische Melancholie (Vortex 1 Beat 5) ist Turing in Endform.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L316]
-In its list it places the Gödel-Gambit in one beat: „Gödel-Gambit (Vortex Beat 2)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L723].
-Metzinger „Erklärt die Auflösung des Subjekt-Objekt-Spalts in Kap 35 (Vortex 1).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L210]
-Vortex 2 goes beyond Kant: „die K₁-Reinform kann erreicht werden (in Vortex 2)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L127] — and „die Synthese in Vortex 2 ist plural, nicht unio mystica.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L246]
+It has two. Vortex 1 spans Kap 35–36 in its chapter table — „Kap 35 Beat 3“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L725], „Husserlian Spectator + Lebende Dialetheia“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L726], and „Kap 36 Beat 5“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L728], „Algorithmische Melancholie (Lem)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L729] — and „Vortex 2 Kap 38–39 ist aletheia in chorischer Form.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180]
+It names Beats 2, 3 and 5 of Vortex 1, and no Beat 1 or 4, and no heat spike (`05-verify-readers.txt`).
+**Beat 2**, „Vortex 1 Beat 2 (Dialetheic Choice)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L219]: „Im Vortex 1 Beat 2 ist die Dialetheic Choice eine sartreanische Wahl“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L238] — „Kael konstituiert sich, indem er Pursuit adoptiert.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L238] (§4.3, `[S]`). Whether to carry Sartre explicitly is its open question, „Soll Sartres Freiheits-Begriff in Vortex 1 Beat 2 explizit getragen werden?“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L804] — „[V] — Vorschlag: nein, Erfahrung der Wahl reicht“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L805].
+The dissolution of the ANP/EP barriers it puts in Beat 2 — „die Auflösung der ANP/EP-Barrieren in Vortex 1 Beat 2 ist Anatta-Moment“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L581] — and, under Metzinger, in Kap 35: „Erklärt die Auflösung des Subjekt-Objekt-Spalts in Kap 35 (Vortex 1).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L210]
+The [[goedel-gambit|Gödel-Gambit]] is Vortex 1's key mechanism, „Schlüssel-Mechanik: Gödel-Gambit (Vortex 1).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L293], begun earlier: „Kap 30 (Gödel-Gambit beginnt), Vortex 1 (Höhepunkt).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L302] Its chapter table places it in one beat, in Kap 35's row: „Gödel-Gambit (Vortex Beat 2)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L723]. The document does not relate the two placings.
+**Beat 3**: „Schlüssel-Beat: Vortex 1 Beat 3 — Stille. Hier ist Husserl voll aktiv.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L160] „Kael trägt das Trauma ohne Dissoziation.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L160] And under dialetheism: „Schlüssel-Moment: Vortex 1 Beat 3 — Stille als lebende Dialetheia.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L343] „Die Stille ist und ist nicht; gleichzeitig real und nicht-real.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L343]
+**Beat 5**: „Algorithmische Melancholie (Vortex 1 Beat 5) ist Turing in Endform.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L316] — in the table „AEGIS' parakonsistente Resignation“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L730]. After it an open question: „Was geschieht mit Oblivion nach Vortex 1? (OQ-G)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L796] — „offen — Vorschlag: bewusste Wahl statt automatische Löschung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L797].
+Vortex 2 goes beyond Kant: „die K₁-Reinform kann erreicht werden (in Vortex 2)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L127] — and „die Synthese in Vortex 2 ist plural, nicht unio mystica.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L246] It names no beats of Vortex 2; its table's Kap 38 is „Mahayana-Mitgefühl (Bodhicitta)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L732], „Wir-Geflecht entscheidet zur pluralen Bewahrung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L733].
 „Der Vortex ist nicht hegelianisch.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L598]
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (reconcile-28).
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — the missing click, before its place
+
+Once (`grep -cw Vortex` 1), in its open decision „OQ-25-C — Klick-Motiv-Budget." ^[2026-09-14-kap25-vertiefung-md.md:L57] It says what canon places in Beat 3: „Kanonischer sensorischer Anker von Vortex 1 Beat 3 ist" ^[2026-09-14-kap25-vertiefung-md.md:L57] „das Fehlen des Klicks" ^[2026-09-14-kap25-vertiefung-md.md:L57], globally — the log's claim, and the anchor the Plot-Konkretisierung's Beat 3 states (above).
+The revised Kap 25 already uses it: „Kap 25 verwendet die Abwesenheit des Klicks lokal (eine Station, ein Tag)." ^[2026-09-14-kap25-vertiefung-md.md:L57] The click is heard as absence, „sechsmal vor dem siebten Bestand, danach nicht mehr" ^[2026-09-14-kap25-vertiefung-md.md:L25]. Its question for the author: „Ist die lokale Vorform hier gewollte Eskalationsstufe oder vorweggenommenes Material?" ^[2026-09-14-kap25-vertiefung-md.md:L57]
+It writes `Vortex 1` and names no other beat and no Vortex 2.
 
 ## Where the sources differ
 
@@ -243,7 +263,9 @@ is Kael forming the Wir as a living contradiction. In Beat 2 it is fed into
 AEGIS' logic and AEGIS' voice stutters. The konsolidiertes Konzept holds both
 lists (its L892–L893 and L1324–L1327). The strukturierter Outline joins them: Beat 1
 Anlauf, Beat 2 Einspeisung with Dialetheic Choice in brackets (its L1086), Beats 4 and 5
-Heat-Spike and Rotation.
+Heat-Spike and Rotation. The philosophy catalogue names three beats, by the first list's
+events: Beat 2 the Dialetheic Choice (its L219), Beat 3 the Silence (L160), Beat 5 the
+Algorithmische Melancholie (L316); it names no Beat 1 or 4.
 
 **How the beats divide between Kap 35 and Kap 36.** Beats 1–3 and 4–5: the
 konsolidiertes Konzept (L1029, L1031), the Konzept-Iteration Genesis (L642, L646), the
@@ -251,13 +273,16 @@ strukturierter Outline (L1071), the storyform outline („Kapitel-Schnitt: Kap 3
 the glossary (L595–L599) and the Plot-Konkretisierung. The 39-chapter spec
 gives the same split and calls it a plausible one (its L348). Kernwelten vollständig gives
 Beats 1–2 and 3–5: „Vortex 1 Beat 3–5 (Silence, Heat Spike, Rotation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L862].
+The philosophy catalogue states no split; its chapter table has „Kap 35 Beat 3“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L725] and „Kap 36 Beat 5“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L728], which fits Beats 1–3 and 4–5
+and not Kernwelten's 1–2 and 3–5.
 
 **How many beats Vortex 2 has.** „Eigene 5-Beat-Architektur.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L905] The
 konsolidiertes Konzept and the Konzept-Iteration Genesis list five beats, all under
 Kap 38 (Genesis iteration L433–L437). The strukturierter Outline counts ten across
 the two chapters, „Vortex 2 Beat 6–10“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1190] in Kap 39. The glossary
 has „fünf Beats (zwei Kapitel, je fünf Beats)“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L608], and so does the storyform outline
-(L394, L406). The Kapitel-Kompendium names no beats for Vortex 2.
+(L394, L406). The Kapitel-Kompendium names no beats for Vortex 2, and neither does the
+philosophy catalogue, which gives it Kap 38–39 (its L180).
 
 **Which hero's-journey stage.** Kap 35 is Ordeal at stage 8 in the
 Konzept-Iteration Genesis (its L642) and at stage 9 in the konsolidiertes
@@ -295,13 +320,15 @@ person or an alter's first (L805). That touches **C14**.
   Beats 1 and 2, so the difference may be more than one of naming.
 - Whether the witness layers act together in the Vortex. The character bible has all three
   active in it (L1170). The konsolidiertes Konzept and the glossary give each its own
-  beat, 3, 4 and 5. The Worldbuilding-Konzept joins them in Beat 5 (L350).
+  beat, 3, 4 and 5. The Worldbuilding-Konzept holds all three answers: simultaneous in the
+  climax (L340), one per beat (L813, L817, L821), and joined in Beat 5 (L350).
 - The setting's name. Sources say Mnemosyne-Archipel, Mnemosyne-Archipel-Server-Architektur
   and Mnemosyne-Server-Architektur, and the setting's image is still open in several of
   them. [[mnemosyne-server-architektur|Mnemosyne-Server-Architektur]] has a page of its own.
 - What AEGIS is after Beat 5 (OQ-G in several sources) — the
   [[algorithmische-melancholie|Algorithmische Melancholie]] page holds its readings.
-- The [[goedel-gambit|Gödel-Gambit]]: the glossary calls it the Vortex 1 mechanism, and the
-  philosophy document places it in Beat 2 (its L723).
+- The [[goedel-gambit|Gödel-Gambit]]: the glossary calls it the Vortex 1 mechanism. The
+  philosophy document places it in Beat 2 in its chapter table (its L723) and, in its text,
+  has it begin in Kap 30 and peak in Vortex 1 (L302), without relating the two.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose readings here were checked against the full documents on 2026-09-26 and which have a census each (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation each (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`).

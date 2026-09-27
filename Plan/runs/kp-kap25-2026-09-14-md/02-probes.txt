@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      19
+  backslash escapes      65
+  typographic marks      6
+  ascii quotes           14
+
+# inflection families -- one term, several surfaces
+  wartu    Wartung, Wartungsebene, Wartungsfenster, Wartungspläne, Wartungsschächte, Wartungsvorgang
+  bestä    Bestände, Bestätigen, Bestätigung, Bestätigungen
+  unter    Unter, Unterarm, Unterlassung, Unterschied
+  arbei    Arbeit, Arbeitsbewegung, Arbeitsmittel
+  bearb    BEARBEITUNGSPROFIL, Bearbeitung, Bearbeitungsdauer
+  einhe    EINHEIT, Einheit, Einheiten
+  entsc    Entscheidung, Entscheidungen, Entschluss
+  konso    KONSOLIDIEREN, Konsole, Konsolenwert
+  schic    SCHICHT, Schichtabschluss, Schichtende
+  abend    Abend, Abende
+  behal    Behalt, Behalten
+  besta    BESTAND, Bestand
+  bettm    Bettmodul, Bettmoduls
+  bewah    Bewahren, Bewahrungslogik
+  boden    Boden, Bodenplatte
+  daten    Daten, Datentyp
+  eigen    Eigenes, Eigennutz
+  fests    Feststellung, Feststellungen
+  finge    Finger, Fingern
+  fläch    Fläche, Flächen
+  handl    Handlauf, Handlung
+  inhal    INHALTSERFASSUNG, Inhaltserfassung
+  jahre    Jahre, Jahren
+  kante    Kante, Kanten
+  kapit    Kapitel, Kapitelauftrag
+
+# substring pairs -- never one term, often merged by accident
+  Eine < Einer
+  Eine < KEINE
+  Eine < Meine
+  Ende < Abende
+  Ende < Nordende
+  Ende < Wachsende
+  Ende < Schichtende
+  Fall < Gefallen
+  Feld < Felder
+  Form < Storyform
+  Gang < Gangs
+  Gang < Vorgang
+  Gang < Wartungsvorgang
+  Hand < Handlauf
+  Hand < Handlung
+  Hand < Handballen
+  Hand < Handrücken
+  Jahr < Jahre
+  Jahr < Jahren
+  Kael < Kaels

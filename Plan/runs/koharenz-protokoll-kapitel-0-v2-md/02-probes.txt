@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      5
+  backslash escapes      25
+  typographic marks      74
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  daten    DATENTYP, Daten, Datenflüssen, Datenkorruption, Datenpakete, Datenpunkte, Datenströme, Datenverarbeitungszentren
+  syste    SYSTEM, System, Systematisiert, Systemfehler, Systemischer, Systems, Systemwarnungen
+  reson    RESONANZ, Resonanz, Resonanzeigenschaften, Resonanzen, Resonanzkaskade, Resonanzmuster
+  kontr    Kontrast, Kontrolle, Kontrollmaßnahmen, Kontrollmechanismen, Kontrollverlust
+  selbs    SELBSTORGANISATION, Selbst, Selbstorganisation, Selbstverstärkung, Selbstverteidigung
+  energ    Energie, Energieprofil, Energieprofile, Energiequelle
+  fragm    Fragment, Fragmente, Fragmenten, Fragments
+  funkt    Funktion, Funktionalität, Funktionieren, Funktionseinheit
+  grenz    GRENZE, Grenze, Grenzen, Grenzwacht
+  infor    Information, Informationen, Informationsdichte, Informationsmuster
+  struk    Struktur, Strukturanpassung, Strukturinformation, Strukturoptimierung
+  vorhe    Vorhersagbarkeit, Vorhersage, Vorhersagealgorithmen, Vorhersagemodelle
+  abweh    Abwehr, Abwehrreaktion, Abwehrversuche
+  angri    Angriff, Angriffe, Angriffs
+  anoma    ANOMALIEN, Anomalie, Anomalien
+  erinn    Erinnerung, Erinnerungen, Erinnerungsfragmente
+  grund    Grundlage, Grundrauschen, Grundzustand
+  inner    Inneren, Innerhalb, Innersten
+  kohär    Kohärenz, Kohärenzfeld, Kohärenzmetriken
+  nicht    Nicht, Nichtexistenz, Nichts
+  parad    PARADOX, Paradox, Paradoxon
+  proto    PROTOKOLL, Protokoll, Protokolls
+  proze    Prozess, Prozesse, Prozesses
+  reali    Realität, Realitätsmodell, Realitätsmodells
+  schwi    Schwingung, Schwingungen, Schwingungsmuster
+
+# substring pairs -- never one term, often merged by accident
+  Atem < Atempause
+  Auch < Hauch
+  Dies < Diese
+  Dies < Diesmal
+  Drei < Zweitausenddreihundertvier
+  Echo < Echos
+  Eine < Einen
+  Eine < Keine
+  Eine < Meine
+  Eine < Seine
+  Eine < Kleine
+  Feld < Feldern
+  Feld < Kohärenzfeld
+  Form < Information
+  Form < Informationen
+  Form < Informationsdichte
+  Form < Informationsmuster
+  Form < Strukturinformation
+  Hand < Handlungsfähigkeit
+  Herz < Herzen

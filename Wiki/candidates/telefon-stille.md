@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 14
-readings: 14
+sources: 18
+readings: 18
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
 gathered: "2026-09-24"
 ---
 
@@ -96,3 +96,38 @@ The Vortex is its dialetheia: „Der Vortex selbst ist die zentrale Dialetheia: 
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
 
 Kap 24, „Wiederkehrendes K-J-Thema" ^[three-mode-architecture-39-chapters-md.md:L268]: „Telefon-Stille als Anker, Witness-Modus" ^[three-mode-architecture-39-chapters-md.md:L268].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the central anchor, the Vortex's source, and the ending's image
+
+A section of its own, „Das Telefongespräch — der zentrale Anker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L352]:
+„Vor zwanzig Jahren ein Telefonat. Beide wussten, dass sie zusammen sein könnten. Keiner sprach es aus. Nichts ging verloren." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L354]
+„Das ist der zentrale narrative Anker. Hier fallen DKT, Wahrheitstheorie und Witness-Funktion zusammen:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L358]
+„Es geschah (Korrespondenz: ein Anruf, eine Stille)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L362] „Es geschah, ohne dass etwas geschah (Schweigen)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L363] „Es war reines Coheron — der Moment, in dem nichts gesagt wurde, enthielt alles." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L364] „Es ist atemporal — der Moment ist in allen Zeitpunkten gleichzeitig." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L365] „Es ist die K₁-Substrat-Quelle des Vortex." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L366]
+„Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L370] „Diese Gleichungskette trägt das Ende." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L370]
+
+[[juna|Juna]]'s anchor among her effects — „Telefon-Stille als Anker, Silas als interner Resonanzkörper." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L374] — and the one mode its open point keeps fixed: „Junas Erscheinungsmodi. Telefon-Stille als Anker steht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L892]
+Its place is on the [[externe-ebene|Externe Ebene]], Köln 2026, with „ein Telefon, das klingelt und nicht klingelt" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L654]; [[junas-ankerpunkt|Junas Ankerpunkt]] is the „Ort, an dem die Telefon-Stille verankert ist. Vor zwanzig Jahren." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L666]
+It is the [[ouroboros-struktur|Ouroboros]]' image, Ch39's last and Ch1's first (L847): „Konkret: ein Telefon klingelt. Beide wissen, dass sie zusammen sein könnten. Keiner spricht es aus." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851] „Aber jetzt — bei der Wiederholung — wissen wir, dass die Stille bereits alles war." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851]
+No other chapter is named for it — no Kap 7 anchor and no Kap 24 (`05-verify-readers.txt`).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — a bearer of qualia, and the image of entanglement
+
+Twice, both in drafting rules, and nowhere a telephone call, a date or a chapter (`Telefon-Stille` 2, `Telefon` 2, `Vortex-Quelle` 0; `05-verify-readers.txt`).
+Under „§7.1 Chalmers — Hartes Problem [K]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L365], among what qualia are carried by — „was Kaels Erleben trägt, ohne dass es zur Funktion reduziert werden kann" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L375]:
+„Junas Wärme, Telefon-Stille als MI ohne Daten, Silas' Echo-Prosa: alles Qualia-Träger." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L375]
+Under Bell and entanglement (§10.4, `[K]`, marked `implizit`), the bond of [[kael|Kael]] and [[juna|Juna]] as the [[moonshine-link|Moonshine-Link]]:
+„Verschränkung erscheint als Resonanz ohne sichtbare Verbindung. Telefon-Stille als MI ohne Daten ist das prototypische Bild." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L513]
+It keeps the master report's and the worldbuilding concept's formula `MI ohne Daten` and drops the rest of their chain — it names neither the Vortex's source nor a K₁-Substrat (`05-verify-readers.txt`).
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — the anchor kept
+
+In its self-review of the revised Kap 25: „Telefon-Stille-Anker getragen, nicht gebrochen" ^[2026-09-14-kap25-vertiefung-md.md:L47] — the log's claim about the chapter. A compound is placed by what it names: the anchor is the Telefon-Stille's. How the chapter carries it the log does not say; it names no call, no date and no Vortex source (`grep -cw Telefon` 1, that line).
+
+## Reading — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file — a handset held to the ear, and a silence, without the word
+
+A chapter file of Kap 25 — research, not text for the novel. The prose never writes `Telefon` (0, and `Telefon-Stille` 0, apparatus included; `05-verify.txt`), and names no call, no date and no one at the other end. What it renders, at home, in a first person it never names:
+„Ich nehme das Griffstück aus der Nische und halte es ans Ohr." ^[kp-kap25-2026-09-14-md.md:L275]
+„Die Stille kommt. Sie hat ihre Seite. Sie sagt nichts" ^[kp-kap25-2026-09-14-md.md:L277] — „und sie hat heute nicht mehr und nicht weniger Substanz als gestern" ^[kp-kap25-2026-09-14-md.md:L277], so it is an evening's repeated act.
+Behind the handset: „Hinter dem Griffstück liegen vier Blätter mit vier Daten und ohne Überschrift." ^[kp-kap25-2026-09-14-md.md:L279]
+Earlier, at the station, a handset is what is left to a unit without a place: „Sie sitzt in neun Quadratmetern und hat ein Griffstück am Ohr." ^[kp-kap25-2026-09-14-md.md:L125]
+That this silence is the Telefon-Stille is the reading's identification, not the text's; the passage is placed here by what it states — a handset held to the ear and a silence that comes (J62). The session log's reading above reports the anchor carried in the revised chapter; this file does not say where.

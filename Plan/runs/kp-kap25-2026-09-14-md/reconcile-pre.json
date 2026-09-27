@@ -1,0 +1,703 @@
+{
+  "document": "kp-kap25-2026-09-14-md",
+  "step": "reconcile-pre",
+  "at": "2026-09-26",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-26",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 162,
+  "decisions": 154,
+  "same_surface": {
+    "zuweisung": [
+      "Zuweisung",
+      "Die Zuweisung"
+    ],
+    "wohneinheit734": [
+      "WOHNEINHEIT 734",
+      "Wohneinheit 734"
+    ],
+    "notizflache": [
+      "NOTIZFLÄCHE",
+      "Notizfläche"
+    ],
+    "inhaltserfassung": [
+      "INHALTSERFASSUNG",
+      "Inhaltserfassung"
+    ]
+  },
+  "decided_mechanically": 100,
+  "needs_judgement": 54,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 23
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 26
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "novel.chapter"
+      },
+      {
+        "candidate": "the-agency-system"
+      },
+      {
+        "candidate": "Chapter 25"
+      },
+      {
+        "candidate": "A‖B Bridge"
+      },
+      {
+        "candidate": "Arbeitsbewegung"
+      },
+      {
+        "candidate": "Konfrontation"
+      },
+      {
+        "candidate": "binäre Bedienlogik"
+      },
+      {
+        "candidate": "Apparat"
+      },
+      {
+        "candidate": "Storyform"
+      },
+      {
+        "candidate": "Vorbereitung/Entschluss"
+      },
+      {
+        "candidate": "Kapitelauftrag"
+      },
+      {
+        "candidate": "Bewahrungslogik"
+      },
+      {
+        "candidate": "Szenenplan"
+      },
+      {
+        "candidate": "Nicht bedienen"
+      },
+      {
+        "candidate": "Confirm"
+      },
+      {
+        "candidate": "Reject"
+      },
+      {
+        "candidate": "Veränderung"
+      },
+      {
+        "candidate": "heimlichem Bewahren"
+      },
+      {
+        "candidate": "Reveal Discipline"
+      },
+      {
+        "candidate": "Freeze"
+      },
+      {
+        "candidate": "Kap 26"
+      },
+      {
+        "candidate": "Kap 25"
+      },
+      {
+        "candidate": "Draft v0.2"
+      },
+      {
+        "candidate": "KW3-Materialisierung"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "Wartungsschächte"
+      },
+      {
+        "candidate": "Anker 734 dritte Wiederkehr"
+      },
+      {
+        "candidate": "D23-02"
+      },
+      {
+        "candidate": "D23-03"
+      },
+      {
+        "candidate": "D-05"
+      },
+      {
+        "candidate": "G-03"
+      },
+      {
+        "candidate": "INHALTSERFASSUNG"
+      },
+      {
+        "candidate": "KLASSIFIKATION"
+      },
+      {
+        "candidate": "REDUNDANT — KONSOLIDIEREN"
+      },
+      {
+        "candidate": "Nutzungsprotokolle"
+      },
+      {
+        "candidate": "Konsolenwert 4408"
+      },
+      {
+        "candidate": "Sektor 3"
+      },
+      {
+        "candidate": "Regel 6"
+      },
+      {
+        "candidate": "Drittes Fenster"
+      },
+      {
+        "candidate": "Station 11"
+      },
+      {
+        "candidate": "Fenster 03"
+      },
+      {
+        "candidate": "Konsole 21,0"
+      },
+      {
+        "candidate": "Bodenplatte"
+      },
+      {
+        "candidate": "zweiten Herkunft"
+      },
+      {
+        "candidate": "Arbeitsmittel"
+      },
+      {
+        "candidate": "Wartungsvorgang"
+      },
+      {
+        "candidate": "Nordende"
+      },
+      {
+        "candidate": "Stationen 1 bis 6"
+      },
+      {
+        "candidate": "Frühdienst"
+      },
+      {
+        "candidate": "Bestätigen"
+      },
+      {
+        "candidate": "Zurückweisen"
+      },
+      {
+        "candidate": "Nach hinten schieben"
+      },
+      {
+        "candidate": "Ausnahme"
+      },
+      {
+        "candidate": "Restwert"
+      },
+      {
+        "candidate": "Soll"
+      },
+      {
+        "candidate": "splitten"
+      },
+      {
+        "candidate": "Vorgang ohne Datentyp"
+      },
+      {
+        "candidate": "Schaltfläche"
+      },
+      {
+        "candidate": "Feld"
+      },
+      {
+        "candidate": "Grammatik"
+      },
+      {
+        "candidate": "Griffstück"
+      },
+      {
+        "candidate": "neun Quadratmetern"
+      },
+      {
+        "candidate": "zweite Spannung"
+      },
+      {
+        "candidate": "Unterarm"
+      },
+      {
+        "candidate": "vier Abende"
+      },
+      {
+        "candidate": "fünfte Möglichkeit"
+      },
+      {
+        "candidate": "Mahnung"
+      },
+      {
+        "candidate": "Eskalation"
+      },
+      {
+        "candidate": "klickt"
+      },
+      {
+        "candidate": "Wartungspläne"
+      },
+      {
+        "candidate": "Priorität 1"
+      },
+      {
+        "candidate": "in Blöcken"
+      },
+      {
+        "candidate": "Eigennutz"
+      },
+      {
+        "candidate": "Schichtabschluss"
+      },
+      {
+        "candidate": "SCHICHT 734 ABGESCHLOSSEN"
+      },
+      {
+        "candidate": "ÜBERTRAG"
+      },
+      {
+        "candidate": "KEINE MASSNAHME"
+      },
+      {
+        "candidate": "Feststellung"
+      },
+      {
+        "candidate": "scharf und elektrisch"
+      },
+      {
+        "candidate": "Station 12"
+      },
+      {
+        "candidate": "Möbelstück"
+      },
+      {
+        "candidate": "Delta-Sieben"
+      },
+      {
+        "candidate": "Rückweg"
+      },
+      {
+        "candidate": "Abzweigung"
+      },
+      {
+        "candidate": "Säule"
+      },
+      {
+        "candidate": "Schild"
+      },
+      {
+        "candidate": "einundzwanzig Grad"
+      },
+      {
+        "candidate": "fettig und metallisch"
+      },
+      {
+        "candidate": "Rohr"
+      },
+      {
+        "candidate": "Träger"
+      },
+      {
+        "candidate": "Behälter zu den Fundsachen"
+      },
+      {
+        "candidate": "vier kurzen Sätze"
+      },
+      {
+        "candidate": "Bettmodul"
+      },
+      {
+        "candidate": "vier Blätter mit vier Daten"
+      },
+      {
+        "candidate": "Restzahl"
+      },
+      {
+        "candidate": "Zyklus"
+      },
+      {
+        "candidate": "Wartungsfenster"
+      },
+      {
+        "candidate": "Nachtwert"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Wegkreuzung  /  Kapitel 25 — Wegkreuzung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schwelle  /  Akt II — Schwelle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selbst-Bestand  /  Bestand",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Zuweisung  /  Zuweisungen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schlange  /  Wachsende Schlange",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Personalisierung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt II  /  Akt II — Schwelle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nicht-Mitwirkung  /  offene Nicht-Mitwirkung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nicht-Handlung  /  Hand",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Treppenkopf/Wartungsebene  /  Ebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Treppenkopf/Wartungsebene  /  Wartungsebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schleier  /  Schleier-Disziplin",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bestand  /  BESTAND 734-A-0244",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "WOHNEINHEIT 734  /  Einheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "WOHNEINHEIT 734  /  EINHEIT 734",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "NOTIZFLÄCHE  /  Wartung Notizfläche",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gegenregister  /  Register",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Verkleidung der Nische  /  Verkleidung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Verkleidung der Nische  /  Nische",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nische  /  technischen Ebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ebene  /  allgemeinen Ebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ebene  /  Prozessebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ebene  /  technischen Ebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ebene  /  Treppe zur Wartungsebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ebene  /  Wartungsebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hand  /  Handlauf",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Behalt den Platz  /  Platz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ohne Platz kein Zugriff  /  Platz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ohne Platz kein Zugriff  /  Zugriff",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Einheit  /  Einheit an Station 7",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Einheit  /  EINHEIT 734",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Einheit  /  EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Einheit  /  Einheit von Station 7",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hier sitzt mehr als einer.  /  Einer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bearbeitung  /  Bearbeitungsdauer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bearbeitung  /  EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bearbeitung  /  BEARBEITUNGSPROFIL ABWEICHEND",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wasserführung  /  Wasserführung in Sektor 12",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Station 7  /  Einheit an Station 7",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Station 7  /  Einheit von Station 7",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "EINHEIT 734  /  EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND  /  BEARBEITUNGSPROFIL ABWEICHEND",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Zweihundertvier Platten  /  Platten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Treppe zur Wartungsebene  /  Wartungsebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "elf Kennungen  /  Kennungen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Die Stille kommt  /  Stille",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "kohärenz-protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Personalisierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Canon-Kernwelten §12",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kernwelten",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Knoten",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "datenverarbeitungsknoten7g",
+            "page": "datenverarbeitungsknoten-7g"
+          }
+        ]
+      },
+      {
+        "candidate": "Ebene",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "externeebene",
+            "page": "externe-ebene"
+          },
+          {
+            "surface": "realitaetsebenen",
+            "page": "realitaetsebenen"
+          },
+          {
+            "surface": "realitatsebene",
+            "page": "realitaetsebenen"
+          },
+          {
+            "surface": "realitatsebenen",
+            "page": "realitaetsebenen"
+          },
+          {
+            "surface": "sechsrealitatsebenen",
+            "page": "realitaetsebenen"
+          }
+        ]
+      },
+      {
+        "candidate": "Stadt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "konstruktstadt",
+            "page": "konstrukt-stadt"
+          }
+        ]
+      },
+      {
+        "candidate": "Einheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "evaluierungseinheit",
+            "page": "evaluierungseinheit"
+          },
+          {
+            "surface": "kaelswohneinheit",
+            "page": "kaels-wohneinheit"
+          },
+          {
+            "surface": "kaelswohneinheit10",
+            "page": "kaels-wohneinheit"
+          }
+        ]
+      },
+      {
+        "candidate": "Stille",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "gartenderstillenpraesenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "gartenderstillenprasenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "telefonstille",
+            "page": "telefon-stille"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

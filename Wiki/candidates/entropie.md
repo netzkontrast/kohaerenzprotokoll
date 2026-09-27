@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-16"
 ---
 
@@ -187,3 +187,11 @@ Three senses in one document — [[aegis|AEGIS]] itself, K₀'s principle, and w
 
 One line, found by the sweep: 734's work at the border includes „gezielter Export von Entropie — das ist ihre Seinsweise." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L315]
 Entropy as what the system expels to stay ordered — the sense in which AEGIS fights it. No other line names it. C2.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — AEGIS is the entropy it fights
+
+**AEGIS is entropy, and produces it.** „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33] The inversion table sets „AEGIS = Entropie-Architektur (K₀)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L74] against what AEGIS believes, and „Kontrolle = Ordnung" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L76] against „Kontrolle erzeugt Landauer-Abwärme = mehr Entropie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L76]. „AEGIS kämpft gegen die Entropie, die es selbst erzeugt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L82] Its title protocol: „AEGIS' Kohärenzprotokoll ist Entropie-Erzeugung; Kaels Heilung ist das eigentliche Kohärenzprotokoll." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L214]
+What AEGIS reads as entropy in the traumatised system is the fluctuation it answers with the Trennungsprotokoll: „fatale System-Entropie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435], set in quotation marks by the document as AEGIS' reading.
+Juna is its leak, in one of the two readings the document holds true at once (L291): „Juna ist Erason-Inversion — ein neguentropisches Ereignis, das Kohärenz wiederherstellt, wo AEGIS gelöscht hat. Das Leck im Entropie-Apparat." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L296]
+The pure K₀ system: „ein reines K₀-System ist Wärmetod ohne Struktur" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L63]. The document does not call K₀ the condition of events (`Bedingung für Ereignisse` 0, `Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify-readers.txt`); it gives that role to the Erasonen: „Erasonen sind die thermodynamische Bedingung von Geschichte selbst." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59]
+So three uses of the word — AEGIS itself, what its control produces, and what it misreads in the system it guards. Conflict C2.

@@ -1,0 +1,14 @@
+# 2026-09-14-kap25-vertiefung-md
+  lines                61  (frontmatter ends at 9)
+  body words           1322
+  headings             7   bold-only lines 1
+  table rows           7   code fences 0
+  question marks       5
+  backslash escapes    52
+  typographic marks    62   ascii quotes 26
+  invisible characters none
+  math symbol lines    7
+  glued ref numbers    14
+  repeated labels      none
+  longest line         1085 chars
+

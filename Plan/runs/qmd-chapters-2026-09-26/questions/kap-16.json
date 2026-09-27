@@ -1,0 +1,121 @@
+{
+ "chapter": 16,
+ "questions": [
+  {
+   "id": "K16-01",
+   "tag": "Konkretheit",
+   "question": "Welche wiederholbare Handlung aus Kaels Arbeitsalltag wird in Kapitel 16 zur Betäubung, wenn er nach dem Trigger von Kapitel 15 reflexhaft in Dissoziation und den Bunker flieht, und welches Objekt hält diese Flucht fest?",
+   "draws_on": "strukturierter Outline plot beat (Bunker, Dissoziation); GOAL §4.5 #3"
+  },
+  {
+   "id": "K16-02",
+   "tag": "Konkretheit",
+   "question": "Laut Plot-Konkretisierung findet Kael in Kapitel 16 die Posten-Liste des Komplexitäts-Budgets: welches Detail der Stadt wird geopfert, und was riskiert er, wenn er seine Abteilung als Budget-Instrument erkennt?",
+   "draws_on": "Plot-Konkretisierung reading, Lektüre II; its own diagnosis that the chapter lacks what Kael does, loses, risks"
+  },
+  {
+   "id": "K16-03",
+   "tag": "Kausalität",
+   "question": "Wie führt der Trigger aus Kapitel 15 (Trauma-Angst am KW2-Rand, Nyx sichtbar) in Kapitel 16 in den Rückzug in den Bunker, und welches beobachtbare Ereignis am Ende von Kapitel 16 erzwingt die Korrektur in Kapitel 17?",
+   "draws_on": "neighbours kap-15 and kap-17; GOAL §4.5 #4"
+  },
+  {
+   "id": "K16-04",
+   "tag": "Kausalität",
+   "question": "Welche zwei schlechten Optionen hat Kael in Kapitel 16 zwischen Betäubung und Hinschauen, und was wird irreversibel, wenn Oblivion laut Plot-Konkretisierung in dieser Nacht drei Berichte einreicht, die Kael nie geschrieben hat?",
+   "draws_on": "Plot-Konkretisierung, Oblivion's reports as Fremderledigung; GOAL §5.5 two bad options"
+  },
+  {
+   "id": "K16-05",
+   "tag": "Leser-Wissen",
+   "question": "AEGIS registriert Kaels Rückfall in Kapitel 16 als Stabilisierung: wie weiß der Leser mehr als AEGIS und Kael, ohne dass die tragische Ironie ausgesprochen wird, und welche falsche, plausible Deutung bleibt stehen?",
+   "draws_on": "Konzept-Iteration Genesis B reading (tragische Ironie); GOAL §4.5 #5"
+  },
+  {
+   "id": "K16-06",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 16 in Storyform A (MC-Problem Avoidance, Flucht in Betäubung) und in Storyform B (OS, AEGIS misst Stabilisierung), und trägt das die Bridge-Quote von etwa 25 Prozent im Akt-II-Band?",
+   "draws_on": "A/B readings of five sources; GOAL §5.2 bridge frequency"
+  },
+  {
+   "id": "K16-07",
+   "tag": "Storyform",
+   "question": "Wie wird Slot 16 in Kapitel 16 geroutet: hard-a mit Kael unter Lex- und Selene-Dominanz oder bridge über AEGIS' Registrierung des Rückfalls, und mit welchen höchstens drei Mikrocues?",
+   "draws_on": "POV line of the strukturierter Outline; GOAL §5.2 Slot 16"
+  },
+  {
+   "id": "K16-08",
+   "tag": "Struktur",
+   "question": "Wie unterscheidet sich Kapitel 16 als Reaktionsstufe des Zyklus Z1 von den Reaktionsstufen in Kapitel 19 (Z2) und Kapitel 22 (Z3), damit die Spirale Destabilisierung, Reaktion, Korrektur eskaliert statt sich zu wiederholen?",
+   "draws_on": "cycle stage Z1 Stufe 2; GOAL §5.1 cyclic mode"
+  },
+  {
+   "id": "K16-09",
+   "tag": "Konflikt",
+   "question": "Wie verbinden sich in Kapitel 16 die Zyklus-Funktion Bunker reaktiv und das Kompendium-Thema Diktatur der Komplexität (P vs. NP, AEGIS opfert Realitäts-Detail) zu einem dominanten Eindruck, statt zwei Konzepte in einer Szene zu stapeln?",
+   "draws_on": "Where the sources differ: Title; storyform outline keeps both layers; GOAL §5.4 one concept per scene"
+  },
+  {
+   "id": "K16-10",
+   "tag": "Welt/Sensorik",
+   "question": "Wie erscheint die Diktatur der physikalischen Zeit in KW2 in Kapitel 16 als Bild (enge Räume, taube Sensorik, Auflösungsverlust), ohne Komplexitätstheorie nackt zu nennen, und steht dort kaltes Ozon als AEGIS-Signatur?",
+   "draws_on": "Kernwelten vollständig row and Sensorik lines; GOAL §5.4 theory never naked, heat polarity"
+  },
+  {
+   "id": "K16-11",
+   "tag": "Figur",
+   "question": "Wie wirkt Moros' Schwere in Kapitel 16 im Hintergrund, und wie erscheinen Lex und Selene als dominante Anteile, ohne dass Stimmen gelabelt werden und ohne Crew-Menü?",
+   "draws_on": "strukturierter Outline characters and POV; GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K16-12",
+   "tag": "Steinbruch",
+   "question": "Kann die ältere Subplot-Idee, Kael sondiere in Kapitel 16 systematisch AEGIS' Reaktionsschwelle durch kleine Regelverstöße und verbotene Verbindungen, eine Handlungslücke füllen, ohne der Bunker-Reaktion zu widersprechen?",
+   "draws_on": "aegis-subplots reading of 2025-08-05; GOAL §4.5 #9"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er nach dem Trigger reflexhaft in Dissoziation und Rückzug flieht und der Bunker wieder anspringt, und was stellt sich dieser Flucht entgegen: Moros' Schwere, AEGIS, das den Rückfall als Stabilisierung verbucht, oder laut der Plot-Konkretisierung die Posten-Liste des Komplexitäts-Budgets?",
+   "draws_on": "readings of the strukturierter Outline, Konzept-Iteration Genesis and Plot-Konkretisierung"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn AEGIS laut dem Kapitel-Kompendium Realitäts-Detail für globale Stabilität opfert und Kael sich betäubt: was verliert er, wenn er wegsieht, und was, wenn er laut der Plot-Konkretisierung seine eigene Abteilung als Budget-Instrument erkennt?",
+   "draws_on": "readings of the Kapitel-Kompendium, storyform outline and Plot-Konkretisierung"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist nach Kaels Flucht in den Bunker anders als davor, wenn AEGIS den Rückfall als Stabilisierung verbucht und laut der Plot-Konkretisierung Oblivion Berichte einreicht, die Kael nie geschrieben hat, und kippt Stabilisierung dabei in die Fremderledigung seines Lebens?",
+   "draws_on": "Storyform B in the Konzept-Iteration Genesis and konsolidiertes Konzept; Plot-Konkretisierung's Oblivion beat"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Bunker-Reaktion erzählt, wenn die strukturierte Outline und die Drei-Modi-Spec Kael unter Lex- und Selene-Dominanz als Träger nennen, und wie klingt eine dissoziierte, betäubte Stimme, während Moros' Schwere im Hintergrund alles herunterzieht?",
+   "draws_on": "POV in the strukturierter Outline and 39-chapter spec; Moros in the strukturierter Outline"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Flucht in Betäubung, in KW2, wo Kernwelten vollständig die Diktatur der physikalischen Zeit und den Auflösungsverlust verortet, oder im Bunker, und wie verankern enge Räume und taube Sensorik den Körper in der Nacht, die nur die Plot-Konkretisierung nennt?",
+   "draws_on": "readings of Kernwelten vollständig, the Sensorik notes, Plot-Konkretisierung"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Bunker-Reaktion nach dem Trigger ein, der Trauma-Angst reaktiviert und Nyx sichtbar macht, und welches Ereignis trägt den Leser zur Wächterin, die den Rückfall abfängt und Kael aktiv hinschauen statt fliehen lässt?",
+   "draws_on": "neighbours: the Trigger chapter and the Wächterin chapter in the strukturierter Outline and konsolidiertes Konzept"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Bunker-Reaktion als Reaktionsphase des ersten Spiral-Zyklus zwischen Trigger und Wächterin, in der Shō-Phase der strukturierten Outline, und was fehlte dem zyklischen Modus, wenn Kaels Rückfall in alte Bewältigung und AEGIS' Fehldeutung als Stabilisierung gestrichen würden?",
+   "draws_on": "cycle stage in the strukturierter Outline, 39-chapter spec, Konzept-Iteration Genesis; Shō in the strukturierter Outline"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn er mehr weiß als AEGIS, das Kaels Betäubung als Stabilisierung registriert, und wie berührt diese tragische Ironie das Thema, dass Liebe bleibt wie der Schmerz, wenn der Schmerz gerade betäubt wird?",
+   "draws_on": "Konzept-Iteration Genesis on tragic irony; strukturierter Outline"
+  }
+ ],
+ "about": "Alle gelesenen Quellen stellen die Bunker-Reaktion in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Reaktion im ersten Spiral-Zyklus, zwischen Trigger und Wächterin. Nach dem Trigger, der Kaels Trauma-Angst reaktiviert hat, flieht Kael reflexhaft in alte Bewältigung, in Dissoziation und Rückzug, und der Bunker springt wieder an, erzählt laut der strukturierten Outline und der Drei-Modi-Spec aus Kael unter Lex- und Selene-Dominanz, während laut der strukturierten Outline Moros' Schwere im Hintergrund alles herunterzieht. In Storyform A führt das Kapitel das MC-Problem Avoidance als Flucht in Betäubung, in Storyform B die OS, in der AEGIS den Rückfall fälschlich als Stabilisierung registriert, eine tragische Ironie; enge Räume und taube Sensorik tragen es. Laut dem Kapitel-Kompendium und der Storyform-Outline geht es zugleich um die Diktatur der Komplexität: an den physikalischen Grenzen der Rechenkapazität opfert AEGIS Realitäts-Detail für globale Stabilität, laut Kernwelten vollständig in KW2 als Auflösungsverlust. Laut der Plot-Konkretisierung, einem Vorschlag, findet Kael die Posten-Liste dieses Komplexitäts-Budgets und seine eigene Abteilung als Budget-Instrument, und Oblivion reicht in derselben Nacht Berichte ein, die Kael nie geschrieben hat.",
+ "about_draws_on": "readings of the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, strukturierter Outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline and Plot-Konkretisierung; placement from every reading's Position line (Zyklischer Modus; Shō in the strukturierter Outline; Akt II in the Kapitel-Kompendium and storyform outline; Akt II Mitte/Ende in Kernwelten vollständig; block Der Innentäter in the Plot-Konkretisierung) and the cycle stage in the Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec and strukturierter Outline"
+}

@@ -1,0 +1,61 @@
+# 05-verify — worldbuilding-konzept-kohaerenzprotokoll-md, 2026-09-26
+
+## no true zero
+Three candidates count 0 standing alone and stand in compounds or inflected:
+$ grep -n 'Storyweaving-Plans': 21
+$ grep -n 'Mind/Memory-': 304 949 
+$ grep -nw 'Kerneln': 63
+
+## chapters and frame (grep -cw / -c)
+$ grep -c 'Kap 0': 0  lines: 
+$ grep -c 'Kap 40': 0  lines: 
+$ grep -c 'Ch0': 0  lines: 
+$ grep -c 'Ch40': 0  lines: 
+$ grep -c 'Kap. 0': 0  lines: 
+$ grep -c '39-Kapitel-Map': 1  lines: 954 
+$ grep -c 'Ch39': 1  lines: 847 
+$ grep -c 'Ch1': 8  lines: 378 496 532 539 578 739 847 954 
+$ grep -c 'Kap': 5  lines: 86 263 378 821 954 
+
+## heat, cold, ozone, knuckles (grep -nwi)
+$ grep -cwi warm: 0  lines: 
+$ grep -cwi Wärme: 3  lines: 41 813 817 
+$ grep -cwi heiß: 1  lines: 520 
+$ grep -cwi Hitze: 2  lines: 759 933 
+$ grep -cwi kalt: 1  lines: 477 
+$ grep -cwi kalte: 1  lines: 551 
+$ grep -cwi Kälte: 2  lines: 400 431 
+$ grep -cwi Ozon: 6  lines: 29 82 465 594 759 805 
+$ grep -cwi Landauer: 4  lines: 76 82 759 817 
+$ grep -cwi Landauer-Wärme: 1  lines: 817 
+$ grep -cwi Landauer-Abwärme: 1  lines: 76 
+$ grep -cwi Knöchel: 3  lines: 29 82 481 
+
+## names (grep -cw)
+$ grep -cw 'Juna': 26  lines: 77 106 116 132 179 277 281 295 296 304 308 350 374 375 377 378 410 435 620 735 876 896 917 950 952 954 
+$ grep -cw 'Julia': 0  lines: 
+$ grep -cw 'Michael': 0  lines: 
+$ grep -cw 'Kael': 26  lines: 86 180 188 205 263 308 345 375 384 388 399 419 435 532 620 644 718 743 801 809 813 876 877 949 950 952 
+$ grep -cw 'Sophia': 1  lines: 192 
+$ grep -cw 'Kairos': 4  lines: 192 201 453 584 
+$ grep -cw 'Cerberus': 3  lines: 192 201 541 
+$ grep -cw 'LogOS': 2  lines: 192 201 
+$ grep -cw 'Logos': 1  lines: 455 
+$ grep -cw 'Mnemosyne': 10  lines: 192 200 453 498 535 805 817 825 894 955 
+$ grep -cw 'Erasure-Pol': 4  lines: 201 453 543 894 
+$ grep -cw 'Flight': 1  lines: 682 
+$ grep -cw 'Mira': 0  lines: 
+$ grep -cw 'Wächterin': 0  lines: 
+$ grep -cw 'Wächter': 3  lines: 180 645 894 
+$ grep -cw 'Genesis-Klammer': 0  lines: 
+$ grep -cw 'Vermittler': 0  lines: 
+$ grep -cw 'Überwelt': 3  lines: 449 626 949 
+$ grep -cw 'Innere Weite': 0  lines: 
+$ grep -cw 'Basisrealität': 1  lines: 431 
+$ grep -cw 'Kernwelten': 3  lines: 453 644 696 
+$ grep -cw 'Kernwelt': 0  lines: 
+$ grep -cw 'KW1': 7  lines: 449 453 455 496 700 949 954 
+$ grep -cw 'KW2': 8  lines: 378 427 453 498 539 701 744 949 
+$ grep -cw 'KW3': 7  lines: 378 427 453 541 582 702 745 
+$ grep -cw 'KW4': 7  lines: 449 453 584 619 624 703 954 
+$ grep -cw 'KW5': 0  lines: 

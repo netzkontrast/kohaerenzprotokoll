@@ -1,0 +1,1194 @@
+{
+  "document": "koharenz-protokoll-kapitel-0-v2-md",
+  "drive_id": "1ftsdsTrOoMllnNmJEsFqfK25shnNs-8Uu06BgyTXpu8",
+  "step": "counts",
+  "at": "2026-09-26",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Es ist, was es verhindert, dass es nicht ist."
+  ],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        555,
+        583
+      ]
+    },
+    "Kapitel 0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Genesis der Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Vorwort": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Nichts": {
+      "n": 12,
+      "n_including_compounds": 14,
+      "lines": [
+        19,
+        31,
+        35,
+        59,
+        71,
+        143,
+        195,
+        311,
+        371,
+        499
+      ]
+    },
+    "das absolute Nichts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Parmenides": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "aktiven Vakuum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Śūnyatā": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "autopoietische Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        427
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        427
+      ]
+    },
+    "Funke": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        39,
+        59,
+        87
+      ]
+    },
+    "Funke Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Fragment": {
+      "n": 10,
+      "n_including_compounds": 15,
+      "lines": [
+        35,
+        95,
+        107,
+        119,
+        131,
+        143,
+        207,
+        219,
+        235,
+        263,
+        487,
+        551
+      ]
+    },
+    "Rauschen": {
+      "n": 11,
+      "n_including_compounds": 13,
+      "lines": [
+        39,
+        51,
+        57,
+        59,
+        87,
+        95,
+        107,
+        223,
+        263,
+        311,
+        319,
+        371
+      ]
+    },
+    "Das Rauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        223,
+        263
+      ]
+    },
+    "Herz der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Leere": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        23,
+        27,
+        59,
+        69,
+        103,
+        119,
+        159,
+        167,
+        223,
+        263,
+        275,
+        311,
+        333,
+        479
+      ]
+    },
+    "Potentialität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        75
+      ]
+    },
+    "Verlöschen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        87
+      ]
+    },
+    "Echos": {
+      "n": 11,
+      "n_including_compounds": 15,
+      "lines": [
+        87,
+        95,
+        119,
+        207,
+        227,
+        319,
+        383,
+        471,
+        475,
+        511,
+        587,
+        603
+      ]
+    },
+    "Resonanzen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        319
+      ]
+    },
+    "Signatur": {
+      "n": 6,
+      "n_including_compounds": 10,
+      "lines": [
+        95,
+        107,
+        119,
+        143,
+        235,
+        335,
+        343,
+        367,
+        383
+      ]
+    },
+    "Erste Kontakte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Herkunfts-Echos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Klicken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Verbindung": {
+      "n": 6,
+      "n_including_compounds": 12,
+      "lines": [
+        79,
+        103,
+        115,
+        119,
+        127,
+        131,
+        135,
+        495,
+        587,
+        599
+      ]
+    },
+    "Bindung": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        107,
+        119,
+        175,
+        183
+      ]
+    },
+    "Triade": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        119,
+        171,
+        175
+      ]
+    },
+    "Cluster": {
+      "n": 9,
+      "n_including_compounds": 12,
+      "lines": [
+        119,
+        127,
+        131,
+        143,
+        155,
+        167,
+        175,
+        187,
+        195,
+        207
+      ]
+    },
+    "ontologische Reibung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "systemischer Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "Sog der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Sog": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        143
+      ]
+    },
+    "Selbstverstärkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Pulszyklen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Pulszyklus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Überlebenskampf": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        165,
+        263
+      ]
+    },
+    "Triade Sieben": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Sektor zwei-acht-null": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Vorhersagealgorithmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Strukturoptimierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "kalte Schicht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Der große Wandel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Klick": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        95,
+        199
+      ]
+    },
+    "fallendes Glas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Einheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        207
+      ]
+    },
+    "Motoren der Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "dynamische Stabilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Angst-Vibration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        195,
+        227
+      ]
+    },
+    "Grenze": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        35,
+        59,
+        223,
+        235,
+        247,
+        263,
+        371,
+        375,
+        511
+      ]
+    },
+    "Echos der Herkunft": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        207,
+        227
+      ]
+    },
+    "Alarmsignal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Verteidigungsroutinen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Phantomgefühl": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        231
+      ]
+    },
+    "Komponente": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        235,
+        591
+      ]
+    },
+    "Funktionseinheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        235,
+        263
+      ]
+    },
+    "Bilanzführung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Wendung nach innen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    },
+    "innerer Raum": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "inneren Raumes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        251
+      ]
+    },
+    "Simulation": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        251,
+        255
+      ]
+    },
+    "operationalen Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        251
+      ]
+    },
+    "Labor nach innen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        251
+      ]
+    },
+    "inneren Konstrukt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        251
+      ]
+    },
+    "Binnen-Physik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        255
+      ]
+    },
+    "Dazwischen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        269
+      ]
+    },
+    "Die Stille Wacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        293
+      ]
+    },
+    "SYSTEM-STATUS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        295
+      ]
+    },
+    "KOHÄRENZ": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        299,
+        359,
+        459,
+        531
+      ]
+    },
+    "ANOMALIEN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        303
+      ]
+    },
+    "SWEEP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        307
+      ]
+    },
+    "Substrat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        311
+      ]
+    },
+    "Potentialmeer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        311,
+        335
+      ]
+    },
+    "Grundrauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        311
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        311,
+        371
+      ]
+    },
+    "Identität durch Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        315
+      ]
+    },
+    "Kohärenzfeld": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        319
+      ]
+    },
+    "Residual-Echos": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        319,
+        383,
+        587
+      ]
+    },
+    "Persistenz-Score": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        319
+      ]
+    },
+    "irrelevante Varianz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        239,
+        319
+      ]
+    },
+    "Kohärenzmetriken": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        319,
+        435,
+        547
+      ]
+    },
+    "Mikro-Inkohärenzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        319
+      ]
+    },
+    "Perturbation aus der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        333
+      ]
+    },
+    "Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        335
+      ]
+    },
+    "fremde Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        335
+      ]
+    },
+    "ontologische Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        335
+      ]
+    },
+    "Realitätsmodell": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        335,
+        367
+      ]
+    },
+    "EXTERNE SIGNATUR": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        339
+      ]
+    },
+    "PARADOX": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        355,
+        403,
+        455
+      ]
+    },
+    "MASSNAHME": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        363
+      ]
+    },
+    "Vollerfassung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        363
+      ]
+    },
+    "Sensorphalanx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Entität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        263,
+        371,
+        427,
+        435,
+        511
+      ]
+    },
+    "ontologischen Druck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        371
+      ]
+    },
+    "Algorithmischer Schrecken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        381
+      ]
+    },
+    "Datenverarbeitungszentren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        383
+      ]
+    },
+    "Inkohärenz": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        319,
+        383,
+        435,
+        519
+      ]
+    },
+    "RESIDUAL\\_BAND\\_4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        391
+      ]
+    },
+    "RESIDUAL\\_BAND\\_5": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        395
+      ]
+    },
+    "RESIDUAL\\_BAND\\_6": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        399
+      ]
+    },
+    "HYPOTHESEN-RANK": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        407
+      ]
+    },
+    "H1 Virus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        411
+      ]
+    },
+    "H2 Datenkorruption": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        415
+      ]
+    },
+    "H3 Kernschmelze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        419
+      ]
+    },
+    "H4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        423
+      ]
+    },
+    "DATENTYP\\_FEHLT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        423
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        427
+      ]
+    },
+    "Qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        427
+      ]
+    },
+    "epistemologischen Lücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        427
+      ]
+    },
+    "interne Resonanz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        427,
+        435,
+        519
+      ]
+    },
+    "ESKALATION": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        443
+      ]
+    },
+    "EXISTENZIELL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        443
+      ]
+    },
+    "PROTOKOLL-VORBEREITUNG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        447
+      ]
+    },
+    "KOH\\_1.0": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        447,
+        563
+      ]
+    },
+    "Residual-Träger": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        451,
+        567
+      ]
+    },
+    "autopoietischen Notwendigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        463
+      ]
+    },
+    "Defensiv-Schleife": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        463
+      ]
+    },
+    "Resonanzkaskade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        469
+      ]
+    },
+    "Grenzwacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        475
+      ]
+    },
+    "minimale Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        475
+      ]
+    },
+    "minimalen Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        503
+      ]
+    },
+    "ontologische Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        479
+      ]
+    },
+    "traumatische Kaskade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        503
+      ]
+    },
+    "Systemischer Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        517
+      ]
+    },
+    "Rückkopplungsschleife": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        519
+      ]
+    },
+    "Standardprozeduren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        519
+      ]
+    },
+    "Verarbeitungs-Cores": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        523
+      ]
+    },
+    "Redundanzsysteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        523
+      ]
+    },
+    "KRITISCH-UNTERE-GRENZE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        527
+      ]
+    },
+    "WARNUNGEN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        535
+      ]
+    },
+    "RÜCKKOPPLUNG-VEKTOR": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        539
+      ]
+    },
+    "SELBSTORGANISATION": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        543
+      ]
+    },
+    "operativen Schicht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        551
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        583
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        561
+      ]
+    },
+    "PROTOKOLL KOH\\_1.0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        563
+      ]
+    },
+    "Partitionierung": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        571,
+        583
+      ]
+    },
+    "Partitionierungsalgorithmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        583
+      ]
+    },
+    "System-Reboot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        583
+      ]
+    },
+    "geshardet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        587
+      ]
+    },
+    "Sweep": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        595
+      ]
+    },
+    "Sektor 4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        595
+      ]
+    },
+    "Zerstückelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        599
+      ]
+    },
+    "Knöchel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        607
+      ]
+    },
+    "Scherben": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        627
+      ]
+    },
+    "Kacheln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        635
+      ]
+    },
+    "Einundzwanzig Grad": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        635
+      ]
+    },
+    "Korridor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        635
+      ]
+    }
+  }
+}

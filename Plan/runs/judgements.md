@@ -1347,3 +1347,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** The annotated Kap-0 draft names eleven passages of its prose by an alter's Vorform — „Kiko-Vorform-Einbruch (User-Choreographie: leiser Kiko-Einbruch der kindlichen Sensorik des Druck-Spürens)“ (L185), and Moros, Lia, Rhys, Lex, Alex, Argus, Nyx, Selene, Silas and Oblivion the same way (L153–L1005). Its own rule says the alters are in Kap 0 „nur als Cluster-Funken-Echos präsent, nicht als Personen“ (L51), and each annotation states the alter's own „Syntax-Signatur“. J15 holds that X-Vorstufe is not X
 
 **Result.** two terms, and no page for any Vorform: the Vorform is not the alter (J15), and the prose never names it. But each annotation states the alter's own traits — its syntax signature, and that it is present in Kap 0 as a voice — so the passage is a reading on the alter's page, placed by what it states (J62). Eleven readings, on moros, kiko, lia, rhys, lex, alex, argus, nyx, selene, silas and oblivion
+
+## J97 — Kohärenz Protokoll / Kohärenz Protokolls
+
+**one-term** · koharenz-protokoll-kapitel-0-v2-md · 2026-09-26 · replay: `judgement`
+
+- **rule:** a German case ending — a genitive -s or -es on the noun, -e/-en/-er on an adjective before it — is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, german-genitive, adjective-declension, narrative-text
+
+**Question.** one term or two?
+
+**What was done.** The narrative Kap 0 text of 2026-05-17 writes the protocol „das Kohärenz Protokoll“ (L555) and „des Kohärenz Protokolls“ (L583), and its phrases in several cases: „die operationale Geschlossenheit“ (L427) and „der operationalen Geschlossenheit“ (L251), „Das minimale Selbst“ (L475) and „meines minimalen Selbst“ (L503). The list wrote each as the line has it, and reconcile.py reported the pairs as near matches.
+
+**Result.** one term — a German genitive -s and an adjective's case ending are inflection, like the plural of J56

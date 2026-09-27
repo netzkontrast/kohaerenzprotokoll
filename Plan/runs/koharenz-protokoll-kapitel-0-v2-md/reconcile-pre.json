@@ -1,0 +1,744 @@
+{
+  "document": "koharenz-protokoll-kapitel-0-v2-md",
+  "step": "reconcile-pre",
+  "at": "2026-09-26",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-26",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 144,
+  "decisions": 149,
+  "same_surface": {
+    "parmenides": [
+      "Parmenides",
+      "Parmenides"
+    ],
+    "aktivenvakuum": [
+      "aktiven Vakuum",
+      "aktiven Vakuum"
+    ],
+    "sunyata": [
+      "Śūnyatā",
+      "Śūnyatā"
+    ],
+    "rauschen": [
+      "Rauschen",
+      "Das Rauschen"
+    ],
+    "sweep": [
+      "SWEEP",
+      "Sweep"
+    ]
+  },
+  "decided_mechanically": 99,
+  "needs_judgement": 50,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 13
+      },
+      {
+        "candidate": "KOHÄRENZ",
+        "page": "kohaerenz",
+        "readings": 12
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 8
+      },
+      {
+        "candidate": "Nichts-Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 13
+      },
+      {
+        "candidate": "Residual-Echos",
+        "page": "residual-echos",
+        "readings": 3
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 9
+      },
+      {
+        "candidate": "Trennungsprotokoll",
+        "page": "trennungsprotokoll",
+        "readings": 17
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Kapitel 0"
+      },
+      {
+        "candidate": "Vorwort"
+      },
+      {
+        "candidate": "operationale Geschlossenheit"
+      },
+      {
+        "candidate": "Potentialität"
+      },
+      {
+        "candidate": "Verlöschen"
+      },
+      {
+        "candidate": "Erste Kontakte"
+      },
+      {
+        "candidate": "Cluster"
+      },
+      {
+        "candidate": "ontologische Reibung"
+      },
+      {
+        "candidate": "systemischer Logik"
+      },
+      {
+        "candidate": "Sog der Ordnung"
+      },
+      {
+        "candidate": "Sog"
+      },
+      {
+        "candidate": "Selbstverstärkung"
+      },
+      {
+        "candidate": "Pulszyklen"
+      },
+      {
+        "candidate": "Pulszyklus"
+      },
+      {
+        "candidate": "Überlebenskampf"
+      },
+      {
+        "candidate": "Sektor zwei-acht-null"
+      },
+      {
+        "candidate": "Vorhersagealgorithmen"
+      },
+      {
+        "candidate": "Strukturoptimierung"
+      },
+      {
+        "candidate": "kalte Schicht"
+      },
+      {
+        "candidate": "Der große Wandel"
+      },
+      {
+        "candidate": "fallendes Glas"
+      },
+      {
+        "candidate": "Motoren der Negation"
+      },
+      {
+        "candidate": "dynamische Stabilität"
+      },
+      {
+        "candidate": "Angst-Vibration"
+      },
+      {
+        "candidate": "Alarmsignal"
+      },
+      {
+        "candidate": "Verteidigungsroutinen"
+      },
+      {
+        "candidate": "Phantomgefühl"
+      },
+      {
+        "candidate": "Bilanzführung"
+      },
+      {
+        "candidate": "Wendung nach innen"
+      },
+      {
+        "candidate": "innerer Raum"
+      },
+      {
+        "candidate": "inneren Raumes"
+      },
+      {
+        "candidate": "operationalen Geschlossenheit"
+      },
+      {
+        "candidate": "Labor nach innen"
+      },
+      {
+        "candidate": "inneren Konstrukt"
+      },
+      {
+        "candidate": "Binnen-Physik"
+      },
+      {
+        "candidate": "Dazwischen"
+      },
+      {
+        "candidate": "Die Stille Wacht"
+      },
+      {
+        "candidate": "SYSTEM-STATUS"
+      },
+      {
+        "candidate": "ANOMALIEN"
+      },
+      {
+        "candidate": "SWEEP"
+      },
+      {
+        "candidate": "Substrat"
+      },
+      {
+        "candidate": "Persistenz-Score"
+      },
+      {
+        "candidate": "irrelevante Varianz"
+      },
+      {
+        "candidate": "ontologische Anomalie"
+      },
+      {
+        "candidate": "Realitätsmodell"
+      },
+      {
+        "candidate": "MASSNAHME"
+      },
+      {
+        "candidate": "Vollerfassung"
+      },
+      {
+        "candidate": "Sensorphalanx"
+      },
+      {
+        "candidate": "ontologischen Druck"
+      },
+      {
+        "candidate": "Algorithmischer Schrecken"
+      },
+      {
+        "candidate": "Datenverarbeitungszentren"
+      },
+      {
+        "candidate": "RESIDUAL\\_BAND\\_4"
+      },
+      {
+        "candidate": "RESIDUAL\\_BAND\\_5"
+      },
+      {
+        "candidate": "RESIDUAL\\_BAND\\_6"
+      },
+      {
+        "candidate": "HYPOTHESEN-RANK"
+      },
+      {
+        "candidate": "H1 Virus"
+      },
+      {
+        "candidate": "H2 Datenkorruption"
+      },
+      {
+        "candidate": "H3 Kernschmelze"
+      },
+      {
+        "candidate": "H4"
+      },
+      {
+        "candidate": "DATENTYP\\_FEHLT"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "epistemologischen Lücke"
+      },
+      {
+        "candidate": "interne Resonanz"
+      },
+      {
+        "candidate": "ESKALATION"
+      },
+      {
+        "candidate": "EXISTENZIELL"
+      },
+      {
+        "candidate": "PROTOKOLL-VORBEREITUNG"
+      },
+      {
+        "candidate": "Residual-Träger"
+      },
+      {
+        "candidate": "autopoietischen Notwendigkeit"
+      },
+      {
+        "candidate": "Defensiv-Schleife"
+      },
+      {
+        "candidate": "Resonanzkaskade"
+      },
+      {
+        "candidate": "Grenzwacht"
+      },
+      {
+        "candidate": "minimale Selbst"
+      },
+      {
+        "candidate": "minimalen Selbst"
+      },
+      {
+        "candidate": "ontologische Isolation"
+      },
+      {
+        "candidate": "traumatische Kaskade"
+      },
+      {
+        "candidate": "Systemischer Kollaps"
+      },
+      {
+        "candidate": "Rückkopplungsschleife"
+      },
+      {
+        "candidate": "Standardprozeduren"
+      },
+      {
+        "candidate": "Verarbeitungs-Cores"
+      },
+      {
+        "candidate": "Redundanzsysteme"
+      },
+      {
+        "candidate": "WARNUNGEN"
+      },
+      {
+        "candidate": "RÜCKKOPPLUNG-VEKTOR"
+      },
+      {
+        "candidate": "operativen Schicht"
+      },
+      {
+        "candidate": "System-Reboot"
+      },
+      {
+        "candidate": "geshardet"
+      },
+      {
+        "candidate": "Sektor 4"
+      },
+      {
+        "candidate": "Zerstückelung"
+      },
+      {
+        "candidate": "Knöchel"
+      },
+      {
+        "candidate": "Scherben"
+      },
+      {
+        "candidate": "Kacheln"
+      },
+      {
+        "candidate": "Einundzwanzig Grad"
+      },
+      {
+        "candidate": "Korridor"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Protokoll  /  KOHÄRENZ",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz Protokolls",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nichts  /  das absolute Nichts",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nichts  /  Nichts-Rauschen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "autopoietische Selbstorganisation  /  SELBSTORGANISATION",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Funke  /  Funke Struktur",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Rauschen  /  Grundrauschen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Rauschen  /  Nichts-Rauschen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Herz der Leere  /  Leere",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Leere  /  Perturbation aus der Leere",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echos  /  Herkunfts-Echos",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echos  /  Echos der Herkunft",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echos  /  Residual-Echos",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Signatur  /  fremde Signatur",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Signatur  /  EXTERNE SIGNATUR",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Klicken  /  Klick",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Verbindung  /  Bindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Triade  /  Triade Sieben",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Einheit  /  Funktionseinheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Grenze  /  KRITISCH-UNTERE-GRENZE",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KOHÄRENZ  /  Kohärenzfeld",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KOHÄRENZ  /  Kohärenzmetriken",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KOHÄRENZ  /  Mikro-Inkohärenzen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KOHÄRENZ  /  Inkohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KOHÄRENZ  /  Paradoxon der Fehlausgerichteten Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KOHÄRENZ  /  Kohärenz Protokolls",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Identität durch Negation  /  Entität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mikro-Inkohärenzen  /  Inkohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PARADOX  /  Paradoxon der Fehlausgerichteten Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KOH\\_1.0  /  PROTOKOLL KOH\\_1.0",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Partitionierung  /  Partitionierungsalgorithmen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis der Existenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Nichts",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragment",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Rauschen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Echos",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Resonanzen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          }
+        ]
+      },
+      {
+        "candidate": "Signatur",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropiesignatur",
+            "page": "entropie-signatur"
+          },
+          {
+            "surface": "landauersignatur",
+            "page": "landauer-signatur"
+          }
+        ]
+      },
+      {
+        "candidate": "Bindung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kaeljuliabindung",
+            "page": "kael-julia-bindung"
+          },
+          {
+            "surface": "kjbindung",
+            "page": "kael-julia-bindung"
+          }
+        ]
+      },
+      {
+        "candidate": "Einheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "evaluierungseinheit",
+            "page": "evaluierungseinheit"
+          },
+          {
+            "surface": "kaelswohneinheit",
+            "page": "kaels-wohneinheit"
+          },
+          {
+            "surface": "kaelswohneinheit10",
+            "page": "kaels-wohneinheit"
+          }
+        ]
+      },
+      {
+        "candidate": "Grenze",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "archivdergrenzen",
+            "page": "archiv-der-grenzen"
+          },
+          {
+            "surface": "groemauersystemgrenze",
+            "page": "grosse-mauer"
+          },
+          {
+            "surface": "systemgrenze",
+            "page": "grosse-mauer"
+          }
+        ]
+      },
+      {
+        "candidate": "Komponente",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "komponente734",
+            "page": "komponente-734"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenzfeld",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenzmetriken",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Mikro-Inkohärenzen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Entität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "diddissoziativeidentitatsstruktur",
+            "page": "did"
+          },
+          {
+            "surface": "dissoziativeidentitatsstruktur",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Inkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Paradoxon der Fehlausgerichteten Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokolls",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 13,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 11
-readings: 11
+sources: 13
+readings: 13
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -79,3 +79,14 @@ The somatic filter is open (L1006).
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — one line
 
 In the roster by storyform, as an EP: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Nothing else in the document names Isabelle.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — EP, in two Riss rows
+
+The konsolidiertes Konzept's row, in the same words: „EP | Isabelle (Sexualisiert) | Pauli-Ausschluss | offen | → Verletzlichkeit" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L407]. From the first trauma layer: „Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431]
+She stands in two Riss rows: „(Flight, Lia/Isabelle)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L682], spatial, and „Isabelle (Sex) | Sensorisch | Texturen bluten, Synästhesie" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L684] (C15). In KW2 the spatial one, „spatiale Risse (Lia/Isabelle-Trigger)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L524]; in KW4 the sensory one, „Sensorische Risse (Isabelle-Trigger) als Synästhesie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L610]
+Her somatic filter is open: „Lia, Isabelle, Argus, Silas, Oblivion — Filter offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L895]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Macht-Topologie, one table row
+
+In the figure table §14.1, which carries no label: „Macht-Topologie, Kontroll-Phänomenologie" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L644], DKT correlate „Pauli-Ausschluss" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L645].
+Nothing else in the document names Isabelle (`grep -cw Isabelle`: 1), and `Flight` stands nowhere in it (`grep -cw Flight`: 0) (C15).

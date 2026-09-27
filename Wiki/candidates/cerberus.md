@@ -1,17 +1,17 @@
 ---
 term: Cerberus
 status: candidate
-sources: 11
-readings: 11
+sources: 13
+readings: 13
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md"]
 gathered: "2026-09-17"
 ---
 
 # Cerberus
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Nothing else read so far names Cerberus at all.
+the same nine fields. Twelve other read documents name Cerberus — the readings below, the Kap-25 session log's the latest (it moved this count from eleven). (Until the worldbuilding concept's reading this lead said nothing else read named Cerberus at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -130,3 +130,15 @@ Only in KW3's name, „KW3 — Cerberus-Labyrinth. NP-Hard." ^[koharenz-protokol
 Named among the five of earlier drafts: „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[kohaerenz-protokoll-konzept-master-md.md:L504]
 „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
 The name stays on the third world: „\*\*KW3 — Cerberus-Labyrinth\*\* | Akt II (Kap" ^[kohaerenz-protokoll-konzept-master-md.md:L660] — „Bedrohungs-fokussiert, heuristisch" ^[kohaerenz-protokoll-konzept-master-md.md:L660] (J49).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — absorbed, and KW3's name
+
+Three occurrences (`grep -cw Cerberus` 3). Among the older drafts' five, as the document's claim about them: „Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle. Das war Lore-Last." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L192]
+Absorbed: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] — the Erasure-Pol (Q5).
+KW3 keeps the name: „KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L541] (J49), a world where „Hier dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L543] — the pole that took Cerberus' function, not Cerberus.
+The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — `dekanonisiert`, in a filter note
+
+Once (`grep -cw Cerberus` 1), first of four names in the log's note on what it did not take from the older locations concept: „gefiltert: dekanonisierte Guardians (Cerberus, Nox, Echo, Limina) nicht übernommen" ^[2026-09-14-kap25-vertiefung-md.md:L39].
+That is the log's claim about that document. Cerberus is one of the five the author decided on 2026-09-24 (C6); the other three names are not Guardians of the author's five, and the [[alters|Alters]] page has them as alter names. The log names KW3 four times and never by Cerberus' name (`Cerberus-Labyrinth` 0, `Grenzfeste` 0). Recorded, not applied.

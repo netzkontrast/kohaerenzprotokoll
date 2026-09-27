@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-17"
 ---
 
@@ -132,7 +132,9 @@ Its sub-locations: [[junas-ankerpunkt|Junas Ankerpunkt]] (`[L]`), the
 
 ## Where the readings disagree — conflict C13
 
-Two sources describe Köln 2026 as beyond the simulation; four sources say it is not outside it. The positions and their cited lines are recorded in C13. Whether the two names `Basisrealität` and `Externe Ebene` mark different conceptions remains open for the author.
+Two sources describe Köln 2026 as beyond the simulation; five sources say it is not outside it (four until the worldbuilding concept). The positions and their cited lines are recorded in C13. Whether the two names `Basisrealität` and `Externe Ebene` mark different conceptions remains open for the author.
+
+The worldbuilding concept (2026-05-08) says it is not outside — „Kein „außerhalb der Simulation", sondern die andere Seite des Spiegels." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650] — and writes `Basisrealität Köln` too, once, for the ground of the first trauma layer (L431).
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
@@ -146,3 +148,14 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 
 „Schicht 1 (Köln) betritt nie die Bühne" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60] — it leaves objects instead. Its Kanon-Prüfung: „Externe Ebene nur als Fragment/Geruch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60].
 Of the warm places mapped in Akt II: „der Leser, der die Externe Ebene kennt, fällt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84] It does not say where the Externe Ebene lies (C13).
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the other side of the mirror, broken through in Ch36
+
+„Die Externe Ebene — Köln 2026" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L648]. „Kein „außerhalb der Simulation", sondern die andere Seite des Spiegels." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650] (C13) „Der Substrat-Durchbruch (Ch36). Die Rekursion des Lesens selbst." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650]
+„Profan, banal, präzise." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L654] „Köln 2026 — Plattenbauten, S-Bahn-Geräusche, ein Telefon, das klingelt und nicht klingelt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L654] „Die Realität, die der Roman selbst ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L654]
+„Hier kollabieren die Erzählebenen. Datenexport in die physikalische Realität." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L658] „Die Simulation wird „real genug" durch Schmerz (Ch36)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L658]
+
+Four sub-locations: „Junas Ankerpunkt — Ort, an dem die Telefon-Stille verankert ist. Vor zwanzig Jahren." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L666]; „Garten der stillen Präsenz — nonverbale Kommunikation, Gegenpol zum AEGIS-Hum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L667]; the Quelle des Flüsterns (L668); and „Das Unkartierte Territorium — der Raum jenseits der bekannten Systemgrenzen, der den Roman als Roman erkennt." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L669]
+The [[nexus|Nexus]] lies at its border: „Der Nexus — Übergangsort zwischen KW4 und Externer Ebene." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L619]
+
+**It never says the level is no stage** (`grep -cw Bühne` 0); it gives it a chapter, Ch36, as the Substrat-Durchbruch. **And it writes both names**: `Externe Ebene` for the level, and `Basisrealität` once, for the ground of Kael's first trauma layer — „Schicht 1 — Das Fundament (Basisrealität Köln):" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431] (J54). It places Köln not outside the simulation, on the side of C13 whose words it shares with the konsolidiertes Konzept of the same date (L540 there).

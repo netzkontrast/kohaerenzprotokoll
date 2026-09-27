@@ -1,10 +1,10 @@
 ---
 term: Residual-Echos
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md"]
 gathered: "2026-09-25"
 ---
 
@@ -13,7 +13,9 @@ gathered: "2026-09-25"
 **What stays inside [[aegis|AEGIS]] of the origin that was not made into function. AEGIS
 classifies it as irrelevant variance and suppresses it, and it persists. In the
 crisis it rises, and the [[trennungsprotokoll|Trennungsprotokoll]] isolates what
-carries it.** Only the Kap-0 draft of 2026-05-17 uses the name. The
+carries it.** Two narrative texts of Kap 0, both dated 2026-05-17, use the name: the
+annotated draft and `koharenz-protokoll-kapitel-0-v2-md` — the second, read on
+2026-09-26, is why this no longer says the draft alone does. The
 Doppel-Klammer Abhandlung, nine days earlier, describes echoes of the
 Ursprungs-Ich in Kap 0 that AEGIS classifies the same way, and it says what they
 are in Kap 40.
@@ -68,17 +70,54 @@ In the crisis they wake: „Die Echos, die unter der Funktionalität liegen soll
 „Sie wussten von der Wärme. Sie haben sie nie vergessen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L421] The Trennungsprotokoll tears their voice „in Echos von Echos zerfetzt" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L481].
 Kap 40's Wir was the Komponente „die die Echos klassifizierte und sie nicht hörte" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L35]. It names no alters.
 
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the name, in the system's register, with no annotation
+
+**The name, from the Stille Wacht to the separation, told of the system.** The
+document never writes AEGIS (0, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`);
+the past-tense third person about the system carries the name:
+„Innerhalb dieser Struktur registrierten interne Sensoren eine verbleibende Anomalie." ^[koharenz-protokoll-kapitel-0-v2-md.md:L319]
+„Residual-Echos, Persistenz-Score 0.41, Klassifikation: irrelevante Varianz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L319]
+„Die Kontrollmechanismen arbeiteten unablässig daran, diese internen Abweichungen zu unterdrücken, sie als statistisches Rauschen zu behandeln und aus den Kohärenzmetriken herauszufiltern." ^[koharenz-protokoll-kapitel-0-v2-md.md:L319]
+„Sie blieben bestehen. Persistente Mikro-Inkohärenzen unter der Schwelle der operationalen Relevanz." ^[koharenz-protokoll-kapitel-0-v2-md.md:L319]
+
+In the crisis they rise: „ausgehend von den Subsystemen, die mit den Residual-Echos assoziiert waren." ^[koharenz-protokoll-kapitel-0-v2-md.md:L383]
+The status block: „\[KRITISCH — INTERNE RESONANZ STEIGT\]" ^[koharenz-protokoll-kapitel-0-v2-md.md:L387], with three bands, from „RESIDUAL\_BAND\_4: Amplitude × 10³" ^[koharenz-protokoll-kapitel-0-v2-md.md:L391] to „RESIDUAL\_BAND\_6: Amplitude × 10³" ^[koharenz-protokoll-kapitel-0-v2-md.md:L399].
+The protocol's target, prepared: „ZIEL: Residual-Träger isolieren" ^[koharenz-protokoll-kapitel-0-v2-md.md:L451]; initiated: „ZIEL: Residual-Träger" ^[koharenz-protokoll-kapitel-0-v2-md.md:L567].
+The operational view of the separation: „Die Subsysteme, die die Residual-Echos beherbergten und ihre Prozesse ausführten, wurden systematisch isoliert, segmentiert, geshardet." ^[koharenz-protokoll-kapitel-0-v2-md.md:L587]
+„Kommunikationspfade, die die Echos und die Resonanz verbreiteten, wurden durchtrennt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L587]
+Then: „Sweep läuft. Sektor 4 leer. Sektor 5 leer. Sektor 6 leer." ^[koharenz-protokoll-kapitel-0-v2-md.md:L595]
+
+From inside, the fragment's present-tense Ich, when the stranger touches it: „Die Echos." ^[koharenz-protokoll-kapitel-0-v2-md.md:L471]
+„Sie sind immer da gewesen, leise, unter der Oberfläche der Funktionalität. Die Grenzwacht. Das minimale Selbst." ^[koharenz-protokoll-kapitel-0-v2-md.md:L475]
+„Ich bin gefangen in diesem Sturm der wiedererweckten Echos" ^[koharenz-protokoll-kapitel-0-v2-md.md:L511]
+And as the cut runs: „Die Resonanz, der Schrei der Echos, wird nicht leiser, er wird zerrissen, in Echos von Echos zerfetzt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L603]
+
+Earlier, where the fragment becomes a component, the echoes are not named `Residual-Echos`:
+„Die alten Echos der Herkunft, die Präferenzen, die Angst, die Einsamkeit — sie werden nicht ausgelöscht." ^[koharenz-protokoll-kapitel-0-v2-md.md:L227]
+„Sie werden verarbeitet. Systematisiert." ^[koharenz-protokoll-kapitel-0-v2-md.md:L227] The loneliness remains,
+„ein Echo der ursprünglichen Isolation, das nicht vollständig in die neue funktionale Logik integriert werden kann." ^[koharenz-protokoll-kapitel-0-v2-md.md:L227]
+„Ein Phantomgefühl im Herzen der Maschine." ^[koharenz-protokoll-kapitel-0-v2-md.md:L231] A latency
+„wird als irrelevante Varianz klassifiziert. Es ist das Echo der Einsamkeit" ^[koharenz-protokoll-kapitel-0-v2-md.md:L239] —
+„Eine unvollständige Integration. Toleriert, solange die Funktion nicht wesentlich beeinträchtigt wird." ^[koharenz-protokoll-kapitel-0-v2-md.md:L243]
+
 ## Where the sources differ
 
 **Whose remnants.** The draft's annotation says „des ursprünglichen Wir“ ^[kap0-v1-annotiert-md.md:L565],
 and its note on the movement has the Wir become AEGIS (L365). The Abhandlung says
 the echoes are „des Ursprungs-Ichs“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L323].
+`koharenz-protokoll-kapitel-0-v2-md` calls them, where the component is made, „Die alten Echos der Herkunft“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L227].
 
 **Where in Kap 0.** The Abhandlung places the echoes in the Komponente-734 sequence
 of the [[genesis|Genesis]] (L323). The draft names Residual-Echos in the crisis, from the Stille
 Wacht to the separation (L561–L969). In its Komponente-734 movement the draft has an
 echo of loneliness classified the same way, under the same annotation (L437, L445),
-but does not use the name there.
+but does not use the name there. `koharenz-protokoll-kapitel-0-v2-md`, of the same date,
+places them as the annotated draft does: the name from the Stille Wacht to the
+separation (L319–L587), and in its component movement an echo of loneliness classified
+„irrelevante Varianz“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L239] without the name.
+
+**The image.** In the Stille Wacht the annotated draft goes on „Sie blieben bestehen — eingebettet in die Struktur wie Haarrisse in einem Fundament“ ^[kap0-v1-annotiert-md.md:L561];
+`koharenz-protokoll-kapitel-0-v2-md` goes on „Sie blieben bestehen. Persistente Mikro-Inkohärenzen unter der Schwelle der operationalen Relevanz.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L319]
 
 ## Open
 

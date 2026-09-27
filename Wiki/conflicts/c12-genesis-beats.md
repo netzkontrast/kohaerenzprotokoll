@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 17
+sources: 20
 pages: ["trennungsprotokoll"]
 ---
 
@@ -196,3 +196,26 @@ So between the two drafts of Kap 0 the order changed: on 2026-05-08 Kael is what
 **Three steps, 734 last — the character bible's order, as flashbacks.**
 „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
 It uses neither the word „Beat" nor a count, and has no Kap 0 to hold a Genesis. Row 1's sequence, told back in the middle of the book.
+
+## 2026-09-26 — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — research, by the author
+
+**The Genesis told in its movements, with no count, no beat and no name — the component eliminated, the fragment in shards, an unnamed Ich after.**
+Fragments cluster („Ein kleines Cluster entsteht“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L119]), the Klick turns the cluster into a unit („Und dann — Klick.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L199]), and the fragment becomes a component whose number the text withholds: „Das, was einst ein Ich-Fragment war, ist nun eine Komponente“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L235]
+The protocol's aim is „durch die radikale Eliminierung der als fehlerhaft identifizierten Komponente“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L591]; from inside, „Ich falle… in unzählige Scherben…“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L627]; then, after the last rule, „Ich bin pünktlich.“ ^[koharenz-protokoll-kapitel-0-v2-md.md:L639]
+`Kael`, `734`, `Beat` and `Wir-AEGIS` stand 0 times (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`). Neither row's order is stated: the text does not say whether the component becomes anyone, or who the Ich of the coda is.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**Three beats, 734 after the separation, the fourth open with its lock outstanding — and the candidate fourth is the Primärdirektive.**
+Beat 3: „Aus Komponente 734 wächst über eine lange Latenzphase die spätere Kael-Struktur." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180] — 734 after Beat 2's [[trennungsprotokoll|Trennungsprotokoll]] (L179), and [[kael|Kael]] grown from it rather than it.
+„Ein viertes Beat — die Etablierung der Primärdirektive — ist offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L184] „Vorgeschlagen: nicht nötig, drei Beats genügen. Lock-In steht aus." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L184] Among its open points: „Genesis 4. Beat? Aktuell drei Beats. Verifikation gegen Encoding-Praxis ausstehend." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L893] `AEGIS-plural` stands 0 times.
+Where the konsolidiertes Konzept's section III.1 goes from the formula straight to „AEGIS ist Kaels eigene Abwehrarchitektur" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208] and counts four beats elsewhere (row 2), this document's III.1 has the three-beat list between them.
+It tells the Trennungsprotokoll a second time, in Kael's biography: „Schicht 2 — Der Bruch (Fragmentierungsnacht):" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] „AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie" und führt das Trennungsprotokoll aus." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435] — and from it „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435]. The document does not relate the two tellings.
+Row 1's count and order, on row 2's date. Where the character bible and the master report answer the fourth beat „nein" as a lock, this document proposes no and says the lock is outstanding; and its candidate fourth beat, the Primärdirektive, is none of the fourth beats the rows name.
+
+## 2026-09-26 — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue
+
+**Four beats, by name only — the Genesis-Krise in Kap 0, flashbacks in Kap 18–22, and Kael as Komponente 734 thrown into the protocol's world.**
+„Genesis-4-Beat: was als Trauma erscheint, ist die Bedingung von Werdung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L764] — in §15, with no beat listed. Kap 0 is „Genesis-Krise als ontologische Geste, Autopoiesis (Maturana/Luhmann)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L693]; the Genesis returns as „EP-Domänen, KW2 (Erinnerung als Schauplatz), Genesis-Flashbacks (Kap 18–22)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L59]; and „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]
+On the order, one sentence under §4.1: „Kael ist Komponente 734, in einer Welt geworfen, die das Trennungsprotokoll erzeugt hat." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L229] — [[kael|Kael]] is the component, as in row 1, and the world he is thrown into is the [[trennungsprotokoll|Trennungsprotokoll]]'s; whether 734 existed before the protocol it does not say.
+Row 2's and row 3's count, named and not given; row 1's identity of Kael and 734. The conflict stays open.

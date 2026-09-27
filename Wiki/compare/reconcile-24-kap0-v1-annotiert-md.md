@@ -112,3 +112,10 @@ the annotations name something new in almost every bracket, and decision 012's l
 what a document names as its own. 190 went to judgement. Most were substring pairs inside the
 list, such as `Form` against eleven `…-Vorform-…` compounds, and recorded rules settled all but
 one (J96).
+
+## Corrected 2026-09-26, by the author
+
+The author: *"Yes, 22 and 23 are research too"*. This record calls the document the novel's text;
+it is research that happens to be narrative, not text for the novel and not a draft
+of it. Its readings stand as they are — each quotes what the document says, in whose
+voice — and only that description was wrong.

@@ -1,0 +1,115 @@
+{
+ "chapter": 25,
+ "questions": [
+  {
+   "id": "K25-01",
+   "tag": "Konkretheit",
+   "question": "Was tut Kael in Kapitel 25 konkret an der Schwelle, wenn er laut Plot-Konkretisierung nichts mehr bestätigt und die Schlange einfach wächst: welche Geste, welcher Ort, welcher Verlust macht diese Niederlegung sichtbar?",
+   "draws_on": "Plot-Konkretisierung reading (Die Niederlegung); GOAL §4.5 #3"
+  },
+  {
+   "id": "K25-02",
+   "tag": "Kausalität",
+   "question": "Welches Ereignis in Kapitel 25 lässt Kael erkennen, dass Freiheit nur außerhalb von AEGIS' System möglich ist, und wie greift es aus der gestörten Telefon-Stille von Kapitel 24?",
+   "draws_on": "Konzept-Iteration Genesis and strukturierter Outline story line; neighbour kap-24; GOAL §4.5 #4"
+  },
+  {
+   "id": "K25-03",
+   "tag": "Kausalität",
+   "question": "Welche Optionen gehen Kael in Kapitel 25 verloren, wenn laut der Outline vom 2026-05-18 der Optionlock spürbar wird, und welche zwei Zukünfte schließen sich an der Wegkreuzung gegenseitig aus?",
+   "draws_on": "strukturierter Outline lock line (Optionlock spürbar); GOAL §4.5 #4"
+  },
+  {
+   "id": "K25-04",
+   "tag": "Leser-Wissen",
+   "question": "Was genau wird in Kapitel 25 oder 26 offen benannt, wenn mehrere Quellen dort den Schleier lüften, und was wissen Leser, Kael und AEGIS danach über die Multiplizität, was noch nicht?",
+   "draws_on": "storyform outline and Kapitel-Kompendium veil lines (offen benannt in Kap 25–26); GOAL §4.5 #5, §5.4 Schleier"
+  },
+  {
+   "id": "K25-05",
+   "tag": "Setup/Payoff",
+   "question": "Die Zahl 734 kehrt laut der Outline vom 2026-05-18 in Kapitel 25 zum dritten Mal wieder, laut Kernwelten vollständig nach Kapitel 2 und 10: was ahnt Kael jetzt, und wo wird die Seriennummer 734 eingelöst?",
+   "draws_on": "strukturierter Outline foreshadowing; Kernwelten vollständig (Wohneinheit 734); GOAL §4.5 #6"
+  },
+  {
+   "id": "K25-06",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 25 in A mit MC-Concern Memory und in B mit OS-Physics, in der AEGIS Kaels neue Klarheit bemerkt und das Forewarning von B sein Maximum erreicht, und wie verhalten sich Optionlock A und Timelock B hier?",
+   "draws_on": "Storyform lines of four readings; strukturierter Outline (Forewarning B Maximum); GOAL §5.2"
+  },
+  {
+   "id": "K25-07",
+   "tag": "Struktur",
+   "question": "Welche Funktion hat Kapitel 25 als erste Hälfte des Wendepunkts 25–26 am Ende des zyklischen Modus, wenn das Kapitel-Kompendium es als Stehen an der Schwelle und ausdrücklich nicht als Konfrontationsbeginn setzt?",
+   "draws_on": "Kapitel-Kompendium range entry; GOAL §5.1 Wendepunkt 25–26"
+  },
+  {
+   "id": "K25-08",
+   "tag": "Welt/Sensorik",
+   "question": "Welche Kernwelt und welcher Ort tragen Kapitel 25, laut Kernwelten vollständig KW3 mit Wartungsschächten und der Wohneinheit 734, und wie werden Wegkreuzung und Schwellen-Bilder als Raum statt als Theorie gebaut?",
+   "draws_on": "Kernwelten vollständig reading; Leitmotiv Wegkreuzung; GOAL §5.4 Theorie nie nackt"
+  },
+  {
+   "id": "K25-09",
+   "tag": "Figur",
+   "question": "Was bedeutet die POV-Angabe Kael, Wir, klar für Kapitel 25: kennt das Wir seine Anteile schon, bevor der Schleier in Kapitel 25–26 offen benannt wird, oder wird die Klarheit dieses Kapitels erst durch die Benennung möglich?",
+   "draws_on": "39-chapter spec and strukturierter Outline POV (Kael, Wir, klar); GOAL §5.4 Schleier"
+  },
+  {
+   "id": "K25-10",
+   "tag": "Konflikt",
+   "question": "Heißt Kapitel 25 Wegkreuzung, Wendepunkt-Vorbereitung, oder teilt es mit Kapitel 26 den Titel Wendepunkt zur Befreiung, und hat es damit ein eigenes Kapitelversprechen oder nur die halbe Wende?",
+   "draws_on": "Where the sources differ: Title; GOAL §4.5 #2"
+  },
+  {
+   "id": "K25-11",
+   "tag": "Steinbruch",
+   "question": "Kann die umgeschriebene Geschichte aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in der AEGIS veränderte Aufzeichnungen für korrekt und Kaels Gedächtnis für fehlerhaft erklärt, Kapitel 25 füllen, ohne dass AEGIS bedroht statt verwaltet?",
+   "draws_on": "aegis-subplots reading (Die umgeschriebene Geschichte); GOAL §4.5 #9, §5.4 AEGIS rule"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael an der Wegkreuzung, wenn er erkennt, dass Freiheit nur außerhalb von AEGIS' System liegt, und was stellt sich ihm entgegen: ein AEGIS, das seine neue Klarheit bemerkt, oder laut der AEGIS-Subplot-Sammlung eines, das veränderte Aufzeichnungen für korrekt und Kaels Gedächtnis für fehlerhaft erklärt?",
+   "draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept and aegis-subplots (Die umgeschriebene Geschichte)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht an der Wegkreuzung auf dem Spiel, wenn laut der strukturierten Outline der Optionlock spürbar wird, viele Optionen weg sind und die Erasure-Drohung ihr Maximum erreicht: was verliert Kael, wenn er an der Schwelle stehen bleibt, und was, wenn er sich entschließt?",
+   "draws_on": "strukturierter Outline lock and storyform lines"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende der Wegkreuzung anders, wenn Kael laut der Plot-Konkretisierung nichts mehr bestätigt, kein Wort, keine Geste, und die Schlange einfach wächst: kippt Gehorsam in Niederlegung, und bleibt es dabei ein Stehen an der Schwelle ohne Konfrontation, wie das Kapitel-Kompendium setzt?",
+   "draws_on": "readings of Plot-Konkretisierung (Die Niederlegung) and Kapitel-Kompendium (Stehen an der Schwelle)"
+  },
+  {
+   "id": "B4",
+   "question": "Was heißt es, die Wegkreuzung aus Kaels Sicht als klares Wir zu erzählen, wie die strukturierte Outline und die Drei-Modi-Spezifikation angeben, wenn der Schleier über die Multiplizität laut der Storyform-Outline an dieser Wende offen benannt wird: spricht die neue Klarheit schon im Plural?",
+   "draws_on": "POV lines of strukturierter Outline and 39-chapter spec; veil line of storyform outline"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Wegkreuzung, wenn Kernwelten vollständig sie in KW3 in die Wartungsschächte und zur Wohneinheit 734 legt, und welche Schwellen-Bilder und welcher Atemzug vor dem Schritt, den die strukturierte Outline nennt, verankern sie in Kaels Körper?",
+   "draws_on": "readings of Kernwelten vollständig (Wartungsschächte, Wohneinheit 734) and strukturierter Outline (Sensorik)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Wegkreuzung ein, nachdem AEGIS die Telefon-Stille zwischen Kael und Juna zyklisch gestört hat, und welche offene Frage trägt den Leser zum Tritt über die Schwelle, an dem Kael die Konfrontation beschließt und laut der Plot-Konkretisierung den Knoten verlässt?",
+   "draws_on": "neighbour readings: Telefon-Stille before, Schritt ins Ungewisse after"
+  },
+  {
+   "id": "B7",
+   "question": "Was fehlte dem zyklischen Modus, wenn man die Vorbereitung des Wendepunkts zur Befreiung striche und Kael sofort die Konfrontation beschlösse, wo laut der strukturierten Outline der Optionlock von Storyform A spürbar wird und die Zahl 734 wiederkehrt, die Kael für eine Adresse oder einen Namen hält?",
+   "draws_on": "stage Wendepunkt-Vorbereitung (Konzept-Iteration Genesis, strukturierter Outline); Kapitel-Kompendium (Schwelle, nicht Konfrontation); strukturierter Outline lock and foreshadowing"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael an der Schwelle steht, viele Optionen verloren sind und er noch nicht tritt, und wie berührt diese Klarheit über die Notwendigkeit das Thema, dass Liebe bleibt wie der Schmerz, wo keine gelesene Quelle Juna an der Wegkreuzung nennt?",
+   "draws_on": "konsolidiertes Konzept (Klarheit über Notwendigkeit); strukturierter Outline (Optionlock); no reading names Juna"
+  }
+ ],
+ "about": "An der Wegkreuzung erkennt Kael, dass Freiheit nur außerhalb von AEGIS' System möglich ist, und AEGIS bemerkt seine neue Klarheit; das Kapitel-Kompendium und die Storyform-Outline setzen es als Stehen an der Schwelle, ausdrücklich nicht als Beginn der Konfrontation, die Plot-Konkretisierung als Niederlegung, in der Kael nichts mehr bestätigt und die Schlange einfach wächst. Im zyklischen Modus ist es die Vorbereitung des Wendepunkts zur Befreiung, den das Kapitel-Kompendium mit dem folgenden Kapitel teilt, laut der strukturierten Outline im Shō, laut Kapitel-Kompendium und Storyform-Outline im zweiten Akt, laut Kernwelten vollständig an dessen Ende. In Storyform A trägt es laut mehreren Quellen MC-Concern Memory, die Klarheit über die Notwendigkeit, in B OS-Physics; laut der strukturierten Outline wird der Optionlock von A spürbar, und das Forewarning von B erreicht sein Maximum. Laut der strukturierten Outline kehrt die Zahl 734 wieder, die Kael nun für eine Adresse oder einen Namen hält, Kernwelten vollständig legt das Kapitel in KW3 in die Wartungsschächte und zur Wohneinheit 734, und laut der Storyform-Outline wird an dieser Wende der Schleier offen benannt. Die AEGIS-Subplot-Sammlung kennt hier eine umgeschriebene Geschichte, in der AEGIS veränderte Aufzeichnungen für korrekt und Kaels Gedächtnis für fehlerhaft erklärt.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, strukturierter Outline, Kapitel-Kompendium, Kernwelten vollständig, storyform outline, Plot-Konkretisierung and aegis-subplots; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
+}

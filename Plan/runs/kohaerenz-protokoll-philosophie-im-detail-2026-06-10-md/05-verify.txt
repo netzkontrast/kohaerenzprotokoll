@@ -1,0 +1,73 @@
+# 05-verify — kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md, 2026-09-26
+
+## Zeros in 04-counts.txt, each explained
+
+  EP                                0 word    10 in   [18, 46, 50, 53, 56, 59]  <-- substring
+  K₀                                0 word     3 in   [146, 196, 483]  <-- substring
+  Kishōtenketsu                     0 word     2 in   [598, 806]
+
+EP — stands only inside compounds: EP-Stimmen, EP-Domänen, ANP-EP-Spaltung, ANP/EP-Barrieren
+     and the plural EPs; `in` 10 is those. Listed because the document writes „die EPs" as a
+     group of the system's parts; the bare singular never stands.
+K₀ — only as K₀-Existenz, K₀-Druck, K₀-Erasure (L146, L196, L483). K₁ likewise only in
+     K₁-Reinform, K₁-Reparatur.
+Kishōtenketsu — only as Kishōtenketsu-Synthese (L598) and Kishōtenketsu-Ende (L806); it is
+     on the lens list as the borrowed concept, which the document names only in compounds.
+
+Short phrases with a number („Kap 17", „Kap 39") are refused by `read.py --find` (the
+normaliser compares numbers on their own and the rest of the phrase is one word); the
+count finds each at its line, e.g. Kap 17 at L121.
+
+## Counts behind every absence or number the census and note state (grep -cw)
+
+grep -cw Guardian           -> 0
+grep -cw Guardians          -> 0
+grep -cw Wächter           -> 0
+grep -cw LogOS              -> 0
+grep -cw Kairos             -> 0
+grep -cw Sophia             -> 0
+grep -cw kalt               -> 0
+grep -cw kalte              -> 0
+grep -cw Kälte             -> 0
+grep -cw warm               -> 0
+grep -cw Knöchel           -> 0
+grep -cw Julia              -> 0
+grep -cw Flight             -> 0
+grep -cw Truth-Rotation     -> 0
+grep -cw Formel-Inversion   -> 0
+grep -cw Überwelt          -> 0
+grep -cw Nexus              -> 0
+grep -cw Entropie           -> 0
+grep -cw Mira               -> 0
+grep -cw Michael            -> 0
+grep -cw Protokolle         -> 0
+grep -cw Logos              -> 1
+grep -cw Cerberus           -> 2
+grep -cw Mnemosyne          -> 4
+grep -cw Ozon               -> 2
+grep -cw Hitze              -> 2
+grep -cw Wärme             -> 3
+grep -cw Vortex             -> 31
+grep -cw Genesis            -> 5
+grep -cw Juna               -> 17
+grep -cw Silas              -> 4
+grep -cw Oblivion           -> 2
+grep -cw Selene             -> 1
+grep -cw Argus              -> 3
+grep -cw 734                -> 1
+
+grep -n 'Vortex 1\|Vortex 2' count:
+     22 Vortex 1
+      5 Vortex 2
+
+grep -n 'Genesis-4-Beat':
+764:6. Von Trennung als Tragödie zur Trennung als Bedingung. Genesis-4-Beat: wa
+
+grep -n '39 fragmentierte':
+527:* 39 fragmentierte Kapitel (Mosaik-Anker)
+
+## plot.md counts (session, 2026-09-26)
+grep -c 'Kap 37' -> 0
+grep -cw 'trügerisch|trügerischer|Sieg' -> 0
+grep -cw 'Heldinnenreise|Heldenreise' -> 0
+grep -cw Zyklus -> 1  (L461, the Ouroboros symbol, not a mode)

@@ -1,0 +1,109 @@
+{
+ "chapter": 27,
+ "questions": [
+  {
+   "id": "K27-01",
+   "tag": "Konkretheit",
+   "question": "Was schreibt Kael in Kapitel 27, wenn er laut Plot-Konkretisierung seinen ersten Bericht verfasst, den niemand angefordert hat: an wen, in welcher Form, und was riskiert er an diesem Tag damit?",
+   "draws_on": "Plot-Konkretisierung reading (Idea 13, das Delikt wird Absicht); GOAL §4.5 #3"
+  },
+  {
+   "id": "K27-02",
+   "tag": "Lücke",
+   "question": "Was ist die Autoren-Feder in Kapitel 27 konkret: ein Objekt, eine Schreibhandlung oder ein Prosa-Modus, und wie wird aus dem Leitmotiv eine wiederholbare Handlung Kaels statt eines Bildes?",
+   "draws_on": "title and Leitmotiv Autoren-Feder in five readings, no concrete action; GOAL §4.5 #1"
+  },
+  {
+   "id": "K27-03",
+   "tag": "Kausalität",
+   "question": "Wie greift Kapitel 27 Kaels Schritt über die Schwelle aus Kapitel 26 auf, und welches Ereignis am Ende von Kapitel 27 löst die Eskalation und Purge-Drohung von Kapitel 28 aus?",
+   "draws_on": "neighbours kap-26 and kap-28; GOAL §4.5 #4"
+  },
+  {
+   "id": "K27-04",
+   "tag": "Leser-Wissen",
+   "question": "Was bemerkt AEGIS in Kapitel 27, wenn es laut mehreren Outlines Kaels neue Linearität spürt, laut Plot-Konkretisierung als Format-Anomalie, und was weiß der Leser darüber, das Kael nicht weiß?",
+   "draws_on": "AEGIS spürt Linearität in five readings; GOAL §4.5 #5"
+  },
+  {
+   "id": "K27-05",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 27 in A, MC-Concern und Agency mit Absicht, und in B, wo AEGIS die Linearität spürt und die Architektur laut der Outline vom 2026-05-18 sichtbar degradiert, und welche Bridge-Quote gilt am Beginn von Akt III-A?",
+   "draws_on": "Storyform lines; strukturierter Outline (OS-S3 (B) Progress); GOAL §5.2 bridge frequency"
+  },
+  {
+   "id": "K27-06",
+   "tag": "Struktur",
+   "question": "Wie funktioniert Kapitel 27 als Ordinary World, Stufe 1 der Heldenreise außen, wenn Kaels gewohnte Welt nach 26 Kapiteln schon zerbrochen ist: was ist seine neue gewöhnliche Welt, und wie macht der Modus-Wechsel 26/27 sie lesbar?",
+   "draws_on": "stage line (HR-Stufe 1: Ordinary World) in four readings; GOAL §5.1 mode transition 26/27"
+  },
+  {
+   "id": "K27-07",
+   "tag": "Konflikt",
+   "question": "Gehört Kapitel 27 noch zum Ende von Akt II, wie Kernwelten vollständig es einordnet, oder eröffnet es Akt III Phase A, wie die übrigen Outlines sagen, und was ändert das an Tempo und Bridge-Quote?",
+   "draws_on": "Where the sources differ: Act; GOAL §4.5 #2"
+  },
+  {
+   "id": "K27-08",
+   "tag": "Welt/Sensorik",
+   "question": "In welcher Kernwelt spielt Kapitel 27, laut Kernwelten vollständig an der Schwelle von KW3 zu KW4 mit dem Dasein-Strang, und wie werden die klaren Linien sinnlich gegen kaltes Ozon als Zeichen von AEGIS gesetzt?",
+   "draws_on": "Kernwelten vollständig reading; Leitmotiv klare Linien; GOAL §5.4 heat polarity"
+  },
+  {
+   "id": "K27-09",
+   "tag": "Figur",
+   "question": "Wie erscheint das Wir-Geflecht in Kapitel 27, laut der Outline vom 2026-05-18 alle Alters in funktionaler Multiplizität, ohne dass Stimmen gelabelt werden oder ein Crew-Menü entsteht, und wie klingt AEGIS countdown-bewusst?",
+   "draws_on": "strukturierter Outline characters line; GOAL §5.4 Schleier, AEGIS rule"
+  },
+  {
+   "id": "K27-10",
+   "tag": "Steinbruch",
+   "question": "Kann der Rote Alarm aus der AEGIS-Subplot-Sammlung vom 2025-08-05, in dem Umgebungskontrollen feindselig werden und Guardians Kael aktiv jagen, Kapitel 27 füllen, obwohl AEGIS nach GOAL §5.4 verwaltet statt bedroht?",
+   "draws_on": "aegis-subplots reading (Der Rote Alarm); GOAL §4.5 #9, §5.4 AEGIS rule"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn er mit klarer Absicht handelt und die Konfrontation vorbereitet, und was stellt sich ihm entgegen: ein AEGIS, das seine neue Linearität spürt, laut der Plot-Konkretisierung als Format-Anomalie, oder laut der AEGIS-Subplot-Sammlung ein Roter Alarm, in dem Guardians zur Jagd übergehen?",
+   "draws_on": "readings of strukturierter Outline, Plot-Konkretisierung and aegis-subplots (Der Rote Alarm)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn laut der Plot-Konkretisierung das Delikt Absicht wird und Kael einen Bericht schreibt, den niemand angefordert hat: was verliert er, wenn AEGIS ihn laut der AEGIS-Subplot-Sammlung als kritische Bedrohung führt, und was gewinnt er mit der Autoren-Feder?",
+   "draws_on": "readings of Plot-Konkretisierung (Idee 13) and aegis-subplots (kritische Bedrohung)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende der Autoren-Feder anders, wenn Kael die Linien selbst zieht, statt verwaltet zu werden, und die Architektur laut der strukturierten Outline sichtbar degradiert: kippt der Verwaltete zum Autor, und woran sieht es der Leser?",
+   "draws_on": "strukturierter Outline storyform line (Architektur degradiert sichtbar); Autoren-Feder in every reading"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Autoren-Feder erzählt, wenn die strukturierte Outline Kael als klares Wir führt und das Wir-Geflecht aller Alters in funktionaler Multiplizität neben einem countdown-bewussten AEGIS nennt: wie klingt eine Stimme mit klaren Linien, die aus vielen spricht?",
+   "draws_on": "POV and characters lines of strukturierter Outline"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Autoren-Feder, wenn Kernwelten vollständig sie an die Schwelle von KW3 zu KW4 legt, als Ordinary World und Dasein-Strang Erntung, und welche konkreten Eindrücke machen klare Linien in Kaels Körper spürbar, wo keine gelesene Quelle eine Szene ausführt?",
+   "draws_on": "reading of Kernwelten vollständig; Sensorik lines (Autoren-Feder, klare Linien)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Autoren-Feder ein, nachdem Kael die Konfrontation beschlossen und den Knoten verlassen hat, und welches Ereignis trägt den Leser in AEGIS' Eskalation, in der die Purge droht und Juna in Gefahr gerät?",
+   "draws_on": "neighbour readings: Schritt ins Ungewisse before, AEGIS' Eskalation after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Ordinary World der Entschlossenheit nach dem Modus-Wechsel in die Heldenreise außen, wo laut der strukturierten Outline das Ten beginnt, wenn Kernwelten vollständig das Kapitel noch dem Ende des zweiten Akts zurechnet, und was fehlte ohne sie?",
+   "draws_on": "stage lines (Ordinary World, Ten beginnt); Where the sources differ: act"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael laut der Plot-Konkretisierung zum ersten Mal mit Absicht schreibt statt zu verwalten, und wie berührt diese Entschlossenheit das Thema, dass Liebe bleibt wie der Schmerz, wo keine gelesene Quelle Juna in der Autoren-Feder nennt?",
+   "draws_on": "Plot-Konkretisierung plot beats; no reading names Juna"
+  }
+ ],
+ "about": "Kael handelt mit klarer Absicht, nicht mehr reaktiv, und bereitet die Konfrontation vor; das Leitbild der Quellen ist die Autoren-Feder mit klaren Linien, und laut der Plot-Konkretisierung wird hier das Delikt Absicht, als Kael einen Bericht schreibt, den niemand angefordert hat. AEGIS spürt seine neue Linearität, laut der Plot-Konkretisierung als Format-Anomalie, und laut der strukturierten Outline degradiert die Architektur sichtbar, während das Wir-Geflecht aller Alters in funktionaler Multiplizität steht; die AEGIS-Subplot-Sammlung kennt hier einen Roten Alarm, in dem Guardians zur Jagd auf Kael übergehen. Es ist die Ordinary World der Heldenreise außen nach dem Modus-Wechsel, laut der strukturierten Outline dort, wo das Ten beginnt; die meisten Quellen legen es in die Phase A des dritten Akts, die Plot-Konkretisierung in den Block des Deserteurs, Kernwelten vollständig dagegen noch an das Ende des zweiten Akts, an die Schwelle von KW3 zu KW4. In Storyform A trägt es MC-Concern, Agency mit Absicht, in B OS-Physics, laut der strukturierten Outline den dritten Signpost des OS in B, Progress.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, strukturierter Outline, Kernwelten vollständig, storyform outline, Plot-Konkretisierung and aegis-subplots; Where the sources differ; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
+}

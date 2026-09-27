@@ -1,0 +1,620 @@
+{
+  "document": "2026-09-14-kap25-vertiefung-md",
+  "step": "reconcile-pre",
+  "at": "2026-09-26",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-26",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 153,
+  "decisions": 146,
+  "same_surface": {},
+  "decided_mechanically": 111,
+  "needs_judgement": 35,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 22
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 25
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 14
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 17
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 20
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 12
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 22
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 14
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 13
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Sessionprotokoll"
+      },
+      {
+        "candidate": "Kapitel 25"
+      },
+      {
+        "candidate": "Kap 25"
+      },
+      {
+        "candidate": "Kap 30"
+      },
+      {
+        "candidate": "Kap 24"
+      },
+      {
+        "candidate": "Kap 26"
+      },
+      {
+        "candidate": "Schwellensequenz"
+      },
+      {
+        "candidate": "Masterplan-Zeile"
+      },
+      {
+        "candidate": "Zukunftsverluste"
+      },
+      {
+        "candidate": "physische Verzweigung"
+      },
+      {
+        "candidate": "Körperbogen"
+      },
+      {
+        "candidate": "Rahmenpoetik"
+      },
+      {
+        "candidate": "Entscheidung"
+      },
+      {
+        "candidate": "Bestätigungsfeld"
+      },
+      {
+        "candidate": "Nicht-Handlung"
+      },
+      {
+        "candidate": "Freeze"
+      },
+      {
+        "candidate": "Arc-Auflage"
+      },
+      {
+        "candidate": "Kapitelversprechen"
+      },
+      {
+        "candidate": "Sprecher-Tags"
+      },
+      {
+        "candidate": "Optionlock"
+      },
+      {
+        "candidate": "Priorität-1-Wasserführung"
+      },
+      {
+        "candidate": "Eigennutz"
+      },
+      {
+        "candidate": "Restwertschwelle"
+      },
+      {
+        "candidate": "technischen Ebene"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "Platte 204"
+      },
+      {
+        "candidate": "Kennungen"
+      },
+      {
+        "candidate": "Treppenschacht"
+      },
+      {
+        "candidate": "Wartungsschächte"
+      },
+      {
+        "candidate": "Stehen an der Schwelle"
+      },
+      {
+        "candidate": "der Tritt darüber"
+      },
+      {
+        "candidate": "Hook-in"
+      },
+      {
+        "candidate": "Hook-out"
+      },
+      {
+        "candidate": "Verkleidung"
+      },
+      {
+        "candidate": "Vorgang ohne Datentyp"
+      },
+      {
+        "candidate": "Abwesenheit"
+      },
+      {
+        "candidate": "Restzahl"
+      },
+      {
+        "candidate": "Template-Kopf"
+      },
+      {
+        "candidate": "Regel 6"
+      },
+      {
+        "candidate": "drittes Fenster"
+      },
+      {
+        "candidate": "Station 11/12/7"
+      },
+      {
+        "candidate": "R-Regeln"
+      },
+      {
+        "candidate": "KW3-Sensorik"
+      },
+      {
+        "candidate": "Sensorik-Lookup"
+      },
+      {
+        "candidate": "Self-Review"
+      },
+      {
+        "candidate": "Wechselmechanik ohne Label"
+      },
+      {
+        "candidate": "Pflicht-Checks"
+      },
+      {
+        "candidate": "Drafting-Brief"
+      },
+      {
+        "candidate": "Die Niederlegung"
+      },
+      {
+        "candidate": "Warteschlange"
+      },
+      {
+        "candidate": "Datensatz ohne Datentyp"
+      },
+      {
+        "candidate": "Stufen-Modell"
+      },
+      {
+        "candidate": "Motivherkunft"
+      },
+      {
+        "candidate": "interner Wahlpunkt"
+      },
+      {
+        "candidate": "Schritt ins Ungewisse"
+      },
+      {
+        "candidate": "KW3-Unterorte"
+      },
+      {
+        "candidate": "Schleusen des Misstrauens"
+      },
+      {
+        "candidate": "Gänge der Paranoia"
+      },
+      {
+        "candidate": "Panoptikum"
+      },
+      {
+        "candidate": "Kontrollpunkt-/Überwachungslogik"
+      },
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Limina"
+      },
+      {
+        "candidate": "Schutz-Anteil"
+      },
+      {
+        "candidate": "ANP-Alltagssystem"
+      },
+      {
+        "candidate": "inneres Tauziehen"
+      },
+      {
+        "candidate": "Kai"
+      },
+      {
+        "candidate": "Abwehr-Welt-Ästhetik"
+      },
+      {
+        "candidate": "Umgebung als Antagonist"
+      },
+      {
+        "candidate": "Co₁/McL/B/Ly-Taxonomie"
+      },
+      {
+        "candidate": "KW-Kanon"
+      },
+      {
+        "candidate": "Welt-Sensorik"
+      },
+      {
+        "candidate": "R-1"
+      },
+      {
+        "candidate": "R-3"
+      },
+      {
+        "candidate": "R-5"
+      },
+      {
+        "candidate": "R-10"
+      },
+      {
+        "candidate": "Vielheit"
+      },
+      {
+        "candidate": "Mikrocues"
+      },
+      {
+        "candidate": "kaltes Ozon"
+      },
+      {
+        "candidate": "Abmeldeszene"
+      },
+      {
+        "candidate": "Inhaltserfassung"
+      },
+      {
+        "candidate": "POV-Konsistenz"
+      },
+      {
+        "candidate": "NCP-Drift-Check"
+      },
+      {
+        "candidate": "Storyform-Slots"
+      },
+      {
+        "candidate": "Aligned"
+      },
+      {
+        "candidate": "OQ-25-A"
+      },
+      {
+        "candidate": "Benennungslock"
+      },
+      {
+        "candidate": "Log-Format"
+      },
+      {
+        "candidate": "Sprach-DNA"
+      },
+      {
+        "candidate": "VERSALIEN-Direktiven"
+      },
+      {
+        "candidate": "OQ-25-B"
+      },
+      {
+        "candidate": "OQ-25-C"
+      },
+      {
+        "candidate": "Eskalationsstufe"
+      },
+      {
+        "candidate": "OQ-25-D"
+      },
+      {
+        "candidate": "OQ-25-E"
+      },
+      {
+        "candidate": "OQ-25-F"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "Datenknoten"
+      },
+      {
+        "candidate": "Wartungsebene"
+      },
+      {
+        "candidate": "Treppenkopf"
+      },
+      {
+        "candidate": "KW-Progression"
+      },
+      {
+        "candidate": "Filterregime"
+      },
+      {
+        "candidate": "ANP"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Wegkreuzung  /  Wegkreuzung wird physisch",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wegkreuzung  /  Wegkreuzung/Tore",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kap 0  /  Kap-0-Zitate",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt-II-Arc  /  Akt I",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt-II-Arc  /  Akt II",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schleier  /  Schleier-Disziplin",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schleier  /  Schleier-Benennung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Einheit von Station 7  /  Station 7",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Station 7  /  Einheit Station 7",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "EINHEIT 734  /  Wohneinheit 734",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Benennung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Delta-Sieben  /  Delta-Sieben-Figur",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Canon-Weltanker  /  Canon",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anker 734  /  Anker 734 dritte Wiederkehr",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Klick  /  Klick-Motiv-Budget",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Klick  /  das Fehlen des Klicks",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Genesis-Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Aktionssystem  /  Akt I",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wärme  /  Wärmespur",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ein-Falschheits-Regel  /  Falschheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wohneinheit  /  Wohneinheit 734",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Header-Szenenplan  /  Szenenplan",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Verwaltungstopologie der Konstrukt-Stadt  /  Konstrukt-Stadt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt I  /  Akt II",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt I  /  Akt III",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt II  /  Akt III",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hitze-Polarität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "hitzepolaritatsregel",
+            "page": "hitze-polaritaetsregel"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis-Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Telefon-Stille-Anker",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "telefonstille",
+            "page": "telefon-stille"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Benennung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Wohneinheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kaelswohneinheit",
+            "page": "kaels-wohneinheit"
+          },
+          {
+            "surface": "kaelswohneinheit10",
+            "page": "kaels-wohneinheit"
+          }
+        ]
+      },
+      {
+        "candidate": "Vortex 1 Beat 3",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "vortex",
+            "page": "vortex"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt-Mapping",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Verwaltungstopologie der Konstrukt-Stadt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "konstruktstadt",
+            "page": "konstrukt-stadt"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 39,
+      "already_read": false
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 57,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

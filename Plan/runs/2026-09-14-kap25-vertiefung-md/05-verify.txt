@@ -1,0 +1,50 @@
+# 05-verify — 2026-09-14-kap25-vertiefung-md
+
+## The four zeros, explained
+
+Alex and Lex stand only in the suspended compound „Alex- und Lex-Signaturen“ (L31); ANP only in „ANP-Alltagssystem“ and TSDP only in „TSDP-Analyse“ (L40). Each counts 1 in, 0 word.
+One lens term, Dramatica, was written from memory while reading and removed before the count: grep -cw Dramatica -> 0.
+
+## Absence counts (grep -cw on Sources/drive/2026-09-14-kap25-vertiefung-md.md)
+
+grep -cw 'Knöchel' -> 0
+grep -cw 'Guardian' -> 0
+grep -cw 'Guardians' -> 1
+grep -cw 'Mnemosyne' -> 0
+grep -cw 'LogOS' -> 0
+grep -cw 'Kairos' -> 0
+grep -cw 'Sophia' -> 0
+grep -cw 'Juna' -> 1
+grep -cw 'Genesis' -> 1
+grep -cw 'Hitze' -> 1
+grep -cw 'warm' -> 0
+grep -cw 'Wärme' -> 1
+grep -cw 'kalt' -> 0
+grep -cw 'kaltes' -> 1
+grep -cw 'Ozon' -> 1
+grep -cw 'Landauer' -> 0
+grep -cw 'Coheron' -> 0
+grep -cw 'Vortex' -> 1
+grep -cw 'KW1' -> 0
+grep -cw 'KW2' -> 1
+grep -cw 'KW3' -> 4
+grep -cw 'KW4' -> 0
+grep -cw 'Kernwelt' -> 1
+grep -cw 'Überwelt' -> 0
+grep -cw 'Nyx' -> 0
+grep -cw 'Alex' -> 1
+grep -cw 'Lex' -> 1
+grep -cw 'Silas' -> 0
+grep -cw 'Kiko' -> 0
+grep -cw 'Flight' -> 0
+grep -cw 'Julia' -> 0
+grep -cw 'Michael' -> 0
+grep -cw 'Wir' -> 0
+grep -cw 'Kap-33' -> 0
+
+## Chapters named (capture count lines)
+  Kap 25                            8 word     8 in   [17, 21, 23, 31, 55, 57]
+  Kap 0                             1 word     1 in   [17]
+  Kap 30                            1 word     1 in   [17]
+  Kap 24                            2 word     2 in   [25, 31]
+  Kap 26                            5 word     5 in   [22, 23, 25, 38, 56]

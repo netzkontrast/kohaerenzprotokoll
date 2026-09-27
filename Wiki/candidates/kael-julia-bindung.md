@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -52,3 +52,11 @@ The bond as `K-J-Verbindung`: Kap 7 „K-J-Verbindung wird stärker
 beat: „Die Verbindung zu Juna wird zum stabilen, bewussten Kanal." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961] And the
 distribution: „Juna-Verbindung wird zum Werkzeug" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1353]. One more document that
 does not write `Kael-Julia-Bindung` (J13).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the Kael–Juna connection as tacit knowledge and as entanglement
+
+The document writes neither this page's compound nor `Julia` (`05-verify-readers.txt`); it writes the bond as `Kael-Juna-Verbindung`, the channel `K-J-Kanal` and „Die nicht-lokale Verbindung Kael↔Juna" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510], each naming the bond between [[kael|Kael]] and [[juna|Juna]], so it is placed here by what the compound names (J32; the page's name is J13's question).
+Under Polanyi, „§8.1 Polanyi — Tacit Knowledge / Implizites Wissen [K]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L407]: what Kael learns in Akt II/III, „durch Junas Resonanz" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L411] among other things, is tacit knowledge. Where: „Kael-Juna-Verbindung durchgängig" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L420], Kap 30 with the gloss „K-J-Kanal stabil" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L420], and „Akt II/III in der Lernkurve." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L420]
+Its chapter table gives Kap 30 the same school, „Polanyi — Tacit Knowledge" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L717], and the function „K-J-Kanal stabil; Junas implizite Vermittlung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L718].
+Under „§10.4 Bell, Verschränkung, Nichtlokalität [K] (implizit)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L509], its function is the [[moonshine-link|Moonshine-Link]]: „Funktion im Roman. Moonshine-Link." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510] „Die nicht-lokale Verbindung Kael↔Juna ist mit Quantenverschränkung verwandt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510] The first witness layer „verifiziert nicht-lokale Verbindungen über Erasure-Felder hinweg" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510].
+Its image is the [[telefon-stille|Telefon-Stille]]: „Verschränkung erscheint als Resonanz ohne sichtbare Verbindung. Telefon-Stille als MI ohne Daten ist das prototypische Bild." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L513]

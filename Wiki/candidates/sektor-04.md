@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -25,3 +25,10 @@ document), not attached as a reading.
 
 A KW1 sub-location: „Grenzbereich; erste Risse als geometrische Inkonsistenzen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L104], anchored at
 „Kap 2 ff. (erster Riss)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L104].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the border district of the first Risse
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+A KW1 sub-location: „Sektor 04" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L492] — „Grenzbereich, in dem die ersten Risse als geometrische Inkonsistenzen auftreten." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L492]
+KW1 is „Akt I (Ch1–13)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496].

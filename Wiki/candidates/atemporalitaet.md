@@ -1,10 +1,10 @@
 ---
 term: Atemporalität
 status: candidate
-sources: 3
-readings: 3
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -35,3 +35,19 @@ As the adjective (J85): „Atemporal/Coheron (Silas ↔ Juna)" ^[kohaerenz-proto
 „Coheronen existieren außerhalb der Zeit. Sie fallen durch AEGIS' Raster wie Neutrinos durch Materie." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
 „Das ist die ontologische Asymmetrie, die den Plot überhaupt ermöglicht." ^[kohaerenz-protokoll-konzept-master-md.md:L210]
 „Wäre AEGIS in der Lage, atemporale Phänomene zu sehen, wäre Juna detektierbar und der Roman wäre eine Polizeijagd, kein Trauma-Drama." ^[kohaerenz-protokoll-konzept-master-md.md:L210]
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the master key, under the konsolidiertes Konzept's heading
+
+„Atemporalität als Generalschlüssel" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L100] — the heading of the konsolidiertes Konzept's II.4 (its L147) — „Eine einzige Einsicht klärt alles:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L102]
+„Coheronen = atemporal → Erasonen erzeugen Zeit → AEGIS' Architektur ist temporal → Juna/Silas operieren jenseits des Zeitpfeils → AEGIS ist strukturell blind für sie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L106]
+Three consequences: the Moonshine-Link „er ist unsichtbar, weil AEGIS' Sensoren temporale Veränderungen messen, Coheronen aber keine Veränderung haben." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L114]; Silas „er war nie in der Zeit, die diese Mauern definiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L115]; and „Erasure ist auf etwas Atemporales nicht anwendbar: Löschung braucht ein Vorher und ein Nachher." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L116] „Deshalb konnte AEGIS Juna ins Nichts-Rauschen verbannen, aber nicht löschen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L116]
+The Korrelat-Achse: „ATEMPORAL (Coheron-Domäne)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L124] against „TEMPORAL (Erason-Domäne)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L124], the first side „Für AEGIS unsichtbar" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L152]. „Diese Achse ist die vertikale Symmetrieebene des Romans." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L156]
+It breaks AEGIS' equation in the climax: „Das ist kein Fehler — das ist das, was passiert, wenn ein temporales Messsystem auf atemporale Phänomene trifft." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L98] And of the phone call: „Es ist atemporal — der Moment ist in allen Zeitpunkten gleichzeitig." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L365]
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — a physics construction, and why AEGIS cannot say Juna
+
+The catalogue names the physics under it, in a section labelled `[K]`: the PAL construction, „Zeit ist nicht fundamental, sondern emergent — aus Verschränkung zwischen System und Uhr." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L502] „Atemporale Strukturen können „die Zeit umgehen"." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L502]
+„Mechanik der Atemporalität." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L505] „Coheronen existieren atemporal — das ist nicht Metapher, sondern PAL-Konstruktion in Roman-Form." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L505] „Juna und Silas operieren jenseits des Zeitpfeils." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L505] For the prose: „Im Prosatext nie genannt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L508] „Strukturelle Voraussetzung für Junas Wirkung und für Silas' „Tunneling"." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L508]
+It gives the lead's blindness two further schools. Systems theory: „Coheronen sind atemporal, also kann AEGIS' temporales Mess-System sie nicht detektieren" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L276]. Wittgenstein: „Juna entzieht sich jeder Tatsachen-Aussage (atemporal, kein Vorher/Nachher), also ist Juna für AEGIS nicht-sagbar." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L132]
+Among its synthesis movements, atemporality makes AEGIS' closure ineffective rather than breaking it: „AEGIS' operative Geschlossenheit wird durch Junas atemporale Wirkung nicht durchbrochen (das ginge nicht), sondern unwirksam gemacht." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L758]
+[[silas|Silas]]' row in the character table: „Atemporalität (PAL), Coheron-Echo, Resonanz ohne Substrat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L653].

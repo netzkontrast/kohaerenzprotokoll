@@ -1,10 +1,10 @@
 ---
 term: Genesis-Klammer
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none yet
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md"]
 aliases: ["Doppel-Klammer"]
 gathered: "2026-09-25"
 ---
@@ -14,9 +14,11 @@ gathered: "2026-09-25"
 **The frame of Kap 0 and Kap 40. Kap 0 tells the full [[genesis|Genesis]], and Kap 40
 tells the same events again, shorter, from after the plural healing: an echo, not
 a repetition.** The Abhandlung of 2026-05-08, which works the frame out point by
-point, calls it the `Doppel-Klammer`. Every other source calls it the
-`Genesis-Klammer`, except the strukturierter Outline, which gives that name to
-Kap 0 alone. The sources agree on the mechanism. They differ on Kap 40's last
+point, calls it the `Doppel-Klammer`. Every other source that names the frame calls it
+the `Genesis-Klammer`, except the strukturierter Outline, which gives that name to
+Kap 0 alone, and the two drafts (of Kap 0 and Kap 40, and the annotated Kap 0), which say
+`Klammer` alone; the narrative text of Kap 0 of 2026-05-17 has no word for it (`Klammer` 0
+in its `05-verify.txt`). The sources agree on the mechanism. They differ on Kap 40's last
 image and on what the name covers.
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
@@ -109,6 +111,11 @@ The two formulas are its own entry: „Formel-Inversion. [K] Die zwei Sätze, di
 The frame as one half of the [[ouroboros-struktur|Ouroboros]] structure of the ending: „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]
 Its place: „Kap 0↔40 (Genesis-Klammer).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470] Kap 40's philosophy row ends on
 „Doppellesbarkeit ohne Adjudikation“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L739].
+The pairing stands in its Ouroboros section, „§9.4 Ouroboros — Schluss-Struktur [K]“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L460], beside the Kap 1 ↔ Kap 39 first-sentence lock, under one line: „Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]
+The two ends in its chapter table (§14.3, „kanonisch belegt“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688]): Kap 0 is „Genesis-Krise als ontologische Geste, Autopoiesis (Maturana/Luhmann)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L693], function „Substrat-Setzung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L694]; Kap 40 is „Habermas (Wahrheit vs. Richtigkeit) + Ouroboros“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L738].
+Kap 40's two layers are Habermas' (§1.4, `[K]`): „In Kap 40 (und Kap 39 Schluss-Klang) müssen beide Schichten spürbar getrennt bleiben.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L85] — „Wo im Roman. Schluss-Klang Kap 39, Coda Kap 40.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L88]
+It gives Kap 40 no last image, no Scherben and no Welt to carry, and does not write `Doppel-Klammer` (`05-verify-readers.txt`).
+Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (reconcile-28).
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -136,6 +143,15 @@ Kap 40's movements are echoes of Kap 0's: „Echo des Vorworts" ^[kohaerenz-prot
 Words carried from one to the other: „Eine Wärme, die es nicht geben kann" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L401] in Kap 0, „Es war Wärme, die nicht hätte sein können" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L75] in Kap 40; „In unzählige Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513] and „Wir tragen die Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123]
 Kap 40's last image carries both endings the other sources give: „Wir tragen die Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123] and „Das Universum hält. Wir sind die, die es halten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L147]
 
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the Wir, the shards, and a coda after them
+
+Research, by the author's word of 2026-09-26, not text for the novel. Kap 0 alone: it has no Kap 40, no chapter reference and no word for the frame (`Kap` 0, `Klammer` 0, `Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verify.txt`). What bears on the frame is its beginning and its end.
+The Vorwort speaks as a Wir that includes the reader: „Sie merken es schon. Wir scheitern." ^[koharenz-protokoll-kapitel-0-v2-md.md:L23] — „Sondern indem wir uns vorstellen, wir seien dieser Funke." ^[koharenz-protokoll-kapitel-0-v2-md.md:L39]
+It allows that the beginning has happened before: „Vielleicht ist das nicht das erste Mal, dass sie beginnt." ^[koharenz-protokoll-kapitel-0-v2-md.md:L47] The Dazwischen, the same Wir, says it again: „Oder zum zweiten. Oder zum unzählten. Wir wissen es nicht." ^[koharenz-protokoll-kapitel-0-v2-md.md:L283]
+Inside the Genesis, in the first cluster, a plural line with no speaker already has the verb of Kap 40's image in the other sources: „Wir tragen, was wir tragen können" ^[koharenz-protokoll-kapitel-0-v2-md.md:L123].
+The Trennungsprotokoll ends on the fragment's shards: „Ich falle… in unzählige Scherben…" ^[koharenz-protokoll-kapitel-0-v2-md.md:L627] (`Scherben` 1, at L627).
+Then, after a last rule, a coda of two lines in a counted present, with an Ich the document does not name: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635] „Der Atem geht in vier Sekunden hinein, in sechs hinaus. Der Korridor ist leer." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635] „Ich bin pünktlich." ^[koharenz-protokoll-kapitel-0-v2-md.md:L639]
+
 ## Where the sources differ
 
 **What the name covers.** Kap 0 and Kap 40 together: the konsolidiertes Konzept,
@@ -149,10 +165,15 @@ the storyform outline (L426) and the drafting manual (L629). „Wir tragen die W
 the Konzept-Iteration Genesis (L488). The konsolidiertes Konzept holds both, the
 Scherben in its Kap-40 section (L942) and the Welt in its chapter outline (L1040).
 
+**How Kap 0 ends.** The drafting manual has no last image in Kap 0 „außer Scherben-Fall" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L629]. The
+narrative text of Kap 0 of 2026-05-17 has the shards (L627) and after them, past a rule,
+the unnamed counting Ich (L635–L639); it does not say whether those lines are Kap 0's end.
+
 **How Kap 40 is read.** The Abhandlung reads the frame as one Wendung that turns
 the reader (L592, L608). The Kapitel-Kompendium's lock of 2026-05-30 and the glossary
 have Kap 40 readable as a reset or as a transfiguration, and the text never decides
-between them (L56; L622).
+between them (L56; L622). The philosophy catalogue has the same without the two readings'
+names: Kap 40's function is „Doppellesbarkeit ohne Adjudikation“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L739].
 
 **What mirrors what.** The Abhandlung counts seven mirror points, among them the
 voice, the formula and the storyform dynamics (L275). The outlines and the drafting
@@ -173,4 +194,4 @@ Kap-0 draft gives it as the self's `Ich`-sentence (L389, L393).
   two frames, `Zwei Klammern` (L92), are the Genesis frame and the [[vortex|Vortex]] frame, which is a different
   doubling.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (`Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`).

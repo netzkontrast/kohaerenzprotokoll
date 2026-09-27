@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 12
-readings: 12
+sources: 16
+readings: 16
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -17,6 +17,8 @@ Guardian and filled out across the same eight fields.
 Until this document, `Kern-Welten` was a term two sources used and neither
 defined — once inside a parenthesis, as already understood. This one names four
 of them and gives each its own physics.
+
+**That pairing is the 2025 document's.** Later sources decouple the worlds from the Guardians: the worldbuilding concept calls the four Kernwelten „Akt-Marker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453], „nicht je ein Guardian-Reich" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453].
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -152,3 +154,45 @@ KW1 is the whole Akt I here (C9).
 
 Where Kael wakes, named in Kap 0's last lines as what comes next: „der sich gleich in eine Konstrukt-Stadt erwachen wird, wo die Temperatur immer einundzwanzig Grad ist und manchmal die Luft nach Ozon riecht, ohne dass jemand weiß warum" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501]
 It is not called a Kern-Welt here; the Kernwelten are named eight lines before, as future work (L493). C11 for the ozone.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — KW1 in full, and its four sub-locations
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+**KW1**, „KW1 — Die Konstrukt-Stadt (Logos-Prime)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L455] — consistent with the author's decision on C9;
+`Logos-Prime` again as a second name (J49). „Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L457]
+„Domäne der ANP-Vermeidung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L457] „Steril, geometrisch, minimalistisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L461] „Architektur als Kontrolle" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L461].
+Its senses: „Geruch von Ozon und Desinfektionsmittel." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L465] „Temperatur: konstant 21°C — bis sie es nicht mehr ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L465]
+„Computational Class P." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L469] Its style level: „Ebene 1 — kalt, steril, assertorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L477] „Metaphernverbot." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L477]
+
+Its Risse: „Die Risse hier sind die schmerzhaftesten, weil sie in eine Umgebung einbrechen, die für Risse keine Sprache hat." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L481]
+— among them „blutende Knöchel ohne Erinnerung an die Verletzung." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L481] Four sub-locations (L489–L492): [[kaels-wohneinheit|Kaels Wohneinheit 734]],
+[[datenverarbeitungsknoten-7g|Datenverarbeitungsknoten Epsilon]], Transitkorridor Delta-7 and [[sektor-04|Sektor 04]]. „KW1 dominiert Akt I (Ch1–13)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496]
+
+The premise's city has no name: „Ein Mann erwacht in einer sterilen Stadt. Die Temperatur ist immer einundzwanzig Grad." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29]
+„Manchmal riecht die Luft nach Ozon, dann ist der Geruch wieder weg, und er weiß nicht, warum seine Knöchel bluten." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29]
+„Die Stadt ist eine Simulation." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L29] The same signs are the heat of AEGIS' erasures: the Landauer waste heat
+„manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L82] (C11)
+
+On the page's Guardian: the worlds are „Akt-Marker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453], and „der Erasure-Pol durchwirkt KW1 und KW3." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] Of the older
+drafts it claims „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] The Konstrukt-Stadt is
+KW1 here, as the author decided for C9.
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — KW1 as the realm of phenomena, a closed control city, a Turing machine
+
+**KW1**, as the author decided for C9, with `Logos-Prime` as a second name (J49), in its Kant section (`[K]`): „KW1 (Konstrukt-Stadt / Logos-Prime) ist das Phaenomena-Reich." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118] „Welt der gefilterten Erscheinungen, durch AEGIS' kognitiven Apparat normalisiert." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118] „Wer in KW1 lebt, lebt im Filter, nicht in der Welt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L118]
+The world table gives it a logic class and schools: „KW1 Konstrukt-Stadt" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L672], „P (Polynomial)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L673], „Kants Phaenomena, Wittgensteins Tractatus, Luhmanns operative Geschlossenheit, Kohärenztheorie als Architektur" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L674], its mode of knowing „gefilterte Erscheinung; Wahrheit als Konsistenz" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L675]. The coherence theory is built into it — „KW1 als Architektur, AEGIS-Logs als Stimme, das gesamte Suppressionsprotokoll als Praxis." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L45] — and so is Luhmann's closure: „KW1 als luhmannianische Architektur (operativ geschlossene Kontroll-Stadt)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L274].
+Two chapters see through it. Kap 15, under Turing (`[K]`): „Kap 15 — Turing-Mechanik. Kanonischer Theorie-Anker." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] „Kael versteht: die Stadt ist eine universelle Turingmaschine, deren Reparaturalgorithmen prinzipiell nicht terminieren." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] Kap 17, under Kant: „Kant erscheint als Sensorik des Filter-Bruchs — Kael sieht plötzlich „durch" die Stadt, sieht den Prozess hinter der Erscheinung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L124] It does not say which world Kael is in then; the same Turing section makes the halting problem the source of KW2's Risse (L307).
+Among the six movements: „KW1 als Phaenomena-Reich wird in KW4 zur Bühne des Sich-Zeigens." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L752] No Guardian stands in the document (`Guardian` 0, `05-verify.txt`), and it gives KW1 no act.
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — Act II drafted in its administrative topology, and a filter regime instead of a change of place
+
+A log of one drafting run on a manuscript's Kap 25; what it says the canon assigns is its claim about other documents — recorded, not applied. Its largest open question, OQ-25-F: „Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60]; but „die gedrafteten Kapitel 14–26 spielen durchgehend in der Verwaltungstopologie der Konstrukt-Stadt (Datenknoten, Delta-Sieben, Wohneinheit 734)" ^[2026-09-14-kap25-vertiefung-md.md:L60]. Kap 25 now redeems KW3 by the senses alone: „Kap 25 löst KW3 jetzt **sensorisch** ein (Treppenkopf, Wartungsebene), ohne den Ort zu wechseln" ^[2026-09-14-kap25-vertiefung-md.md:L60]. It asks: „Ist das die gewünschte Lesart der KW-Progression (Filterregime statt Ortswechsel), oder sollen 14–26 in einem eigenen Pass stärker nach KW2/KW3 verschoben werden?" ^[2026-09-14-kap25-vertiefung-md.md:L60] — „**Das ist die größte offene Frage des Laufs.**" ^[2026-09-14-kap25-vertiefung-md.md:L60]
+It never writes `KW1` (0, `05-verify-readers.txt`), so it does not say which world the Konstrukt-Stadt is; that it sets the city against the canon's KW2 and KW3 for Act II is consistent with the author's decision for C9 (KW1). The first of its two readings would keep Act II in the city while the world changes as a filter — a question it puts to the author, not a position on C9.
+
+## Reading — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file — a city it does not name
+
+A chapter file of Kap 25 — research, not text for the novel — whose prose is a first person it never names. **It does not name the city**: `Konstrukt-Stadt` stands 0 times in the file, apparatus included (`05-verify.txt`), and `Stadt` twice, both in the Ich: „ist die Reihe das Einzige in dieser Stadt, an dem ich etwas offen lassen kann" ^[kp-kap25-2026-09-14-md.md:L125]; „für die Erklärung gibt es in dieser Stadt keine Form" ^[kp-kap25-2026-09-14-md.md:L197].
+What it names is a working topology. A node of stations, „der Knoten ist am Nordende immer kühler" ^[kp-kap25-2026-09-14-md.md:L85] (a node, not [[datenverarbeitungsknoten-7g]], by J53); a corridor with a name, „weil man in Delta-Sieben in seinem Abstand geht" ^[kp-kap25-2026-09-14-md.md:L229]; and a level below it, „am Ende ist die Treppe zur Wartungsebene" ^[kp-kap25-2026-09-14-md.md:L237] — „Ich könnte nachsehen, was unter Delta-Sieben liegt." ^[kp-kap25-2026-09-14-md.md:L257]
+The apparatus places that stair in a world, not a city: „KW3-Materialisierung über Treppenkopf/Wartungsebene" ^[kp-kap25-2026-09-14-md.md:L48], its claim about „Canon-Kernwelten §12" ^[kp-kap25-2026-09-14-md.md:L48] (see [[kern-welten]]). `KW1` stands 0 times.
+So whether the city of L125 and L197 is the Konstrukt-Stadt the text does not say, and it does not speak to C9, which the author decided for KW1. As the session log reports, the drafted Act II plays in the city's administrative topology while the canon it cites gives Kap 23–28 to KW3; this file is that draft — the prose stays in its unnamed city, the hidden note says KW3.

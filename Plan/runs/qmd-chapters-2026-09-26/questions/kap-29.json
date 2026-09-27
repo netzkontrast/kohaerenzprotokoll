@@ -1,0 +1,109 @@
+{
+ "chapter": 29,
+ "questions": [
+  {
+   "id": "K29-01",
+   "tag": "Konkretheit",
+   "question": "Welche konkrete letzte Trauma-Erinnerung taucht in Kapitel 29 auf, gehört sie Kiko oder Kael, und an welchem Objekt oder Ort der Vergangenheit hängt sie, sodass sie im Kapitel wiederkehren kann?",
+   "draws_on": "Konzept-Iteration Genesis (letzte Trauma-Erinnerung); GOAL §4.5 #3"
+  },
+  {
+   "id": "K29-02",
+   "tag": "Kausalität",
+   "question": "Wie wächst das Refusal in Kapitel 29 aus der Purge-Drohung von Kapitel 28, und was muss Kael bis zum Ende integrieren, damit Kapitel 30 die Begegnung mit Junas Kanal werden kann?",
+   "draws_on": "strukturierter Outline (Anteile integrieren, um voranzuschreiten); neighbours kap-28, kap-30; GOAL §4.5 #4"
+  },
+  {
+   "id": "K29-03",
+   "tag": "Kausalität",
+   "question": "Worin besteht die Weigerung in Kapitel 29 als echte Wahl mit Preis: welche zwei genuinen Zukunftsverluste stehen vor Kael, und was ist nach dem Kapitel nicht mehr umkehrbar?",
+   "draws_on": "stage line HR-Stufe 3: Refusal; GOAL §4.5 #4, enrichment packet"
+  },
+  {
+   "id": "K29-04",
+   "tag": "Leser-Wissen",
+   "question": "Was versteht der Leser in Kapitel 29 über Kiko und die kindliche Angst, was Kael nicht versteht, und welche falsche, plausible Deutung des Rückfalls bleibt am Ende stehen?",
+   "draws_on": "strukturierter Outline characters (Kiko deutlich sichtbar); GOAL §4.5 #5"
+  },
+  {
+   "id": "K29-05",
+   "tag": "Storyform",
+   "question": "Welche Storypoints trägt Kapitel 29 in A, MC-Problem Avoidance als letztes Aufflammen, und in B, RS-Psychology mit tiefer Verstrickung und Host-System-Symbiose, und wessen Throughline führt das Kapitel?",
+   "draws_on": "Storyform lines of five readings; GOAL §5.2"
+  },
+  {
+   "id": "K29-06",
+   "tag": "Struktur",
+   "question": "Wie wird Kapitel 29 als Refusal der Heldenreise außen gebaut, wenn Kael seit Kapitel 26 entschlossen handelt: ist die Weigerung ein Rückfall, eine Probe der Integration oder ein Echo der Heldinnenreise aus Kapitel 1 bis 13?",
+   "draws_on": "stage line Refusal after Wendepunkt 25–26; GOAL §5.1 three modes"
+  },
+  {
+   "id": "K29-07",
+   "tag": "Figur",
+   "question": "Wie erscheinen Kiko und Moros in Kapitel 29, laut der Outline vom 2026-05-18 Kiko deutlich sichtbar und Moros im Hintergrund, ohne Stimmen zu labeln, und trägt Kiko hier die Flight-Funktion, die C15 offen lässt?",
+   "draws_on": "strukturierter Outline characters line; conflict C15 (Flight: Kiko or Isabelle); GOAL §5.4"
+  },
+  {
+   "id": "K29-08",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird der Eintritt in KW4, den Möglichkeits-Garten, in Kapitel 29 als Phase-Shift statt als Ortswechsel gebaut, und wie verträgt sich das Engerwerden der Angst mit der Stilebene 3, die Kernwelten vollständig hier erstmals voll ansetzt?",
+   "draws_on": "Kernwelten vollständig reading (KW4 Eintritt, Stilebene 3); Leitmotiv Engerwerden; GOAL §5.4"
+  },
+  {
+   "id": "K29-09",
+   "tag": "Lücke",
+   "question": "Was trägt Kapitel 29 an Handlung, wenn die Plot-Konkretisierung den Apparat-Faden F1 hier bewusst ruhen lässt: welches lokale Ziel und welche Gegenkraft hat das Kapitel ohne diesen Faden?",
+   "draws_on": "Plot-Konkretisierung (Faden ruht); GOAL §4.5 #1, §5.5 enrichment packet"
+  },
+  {
+   "id": "K29-10",
+   "tag": "Steinbruch",
+   "question": "Kann LogOS austricksen aus der AEGIS-Subplot-Sammlung vom 2025-08-05, eine selbstwidersprüchliche Aussage, die einen logikbasierten Guardian in eine Schleife zwingt, in Kapitel 29 Platz finden, nachdem der Autor fünf Guardians samt LogOS entschieden hat?",
+   "draws_on": "aegis-subplots reading (LogOS austricksen); C6 author decision for five; GOAL §4.5 #9"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael, wenn letzte Ängste und Trauma-Erinnerungen auftauchen und er laut der strukturierten Outline die Anteile integrieren muss, um voranzuschreiten, und was stellt sich ihm entgegen: Kikos kindliche Angst, Moros im Hintergrund, oder laut der AEGIS-Subplot-Sammlung LogOS, der ihn in die Enge treibt?",
+   "draws_on": "readings of strukturierter Outline (plot beats, characters) and aegis-subplots (LogOS austricksen)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht auf dem Spiel, wenn die Vermeidung laut mehreren Quellen ein letztes Mal aufflammt und die Verstrickung von Host und System tief wird: was verliert Kael, wenn er vor der Angst des Kindes zurückweicht, und was, wenn er den Kind-Anteil annimmt?",
+   "draws_on": "storyform lines of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, storyform outline"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende der Angst des Kindes anders, wenn die Weigerung der Heldenreise durchlaufen ist: kippt Vermeidung in Integration, und zeigt sich dabei, wie die strukturierte Outline sagt, die Symbiose von Host und System?",
+   "draws_on": "strukturierter Outline plot beats and storyform line"
+  },
+  {
+   "id": "B4",
+   "question": "Aus wessen Sicht wird die Angst des Kindes erzählt, wenn die Quellen Kael mit sichtbarem Kind-Anteil angeben und die strukturierte Outline Kiko deutlich sichtbar nennt: erlebt Kael das Engerwerden, oder bekommt Kiko eine eigene Stimme, und warum?",
+   "draws_on": "POV lines of 39-chapter spec and strukturierter Outline; characters line"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Angst des Kindes, wenn Kernwelten vollständig hier den Eintritt in den Möglichkeits-Garten von KW4 setzt, als Phase-Shift statt Ortswechsel, mit der Werkstatt der Schöpfung als möglichem Ort, und wie wird das Engerwerden in Kaels Körper spürbar?",
+   "draws_on": "reading of Kernwelten vollständig; Sensorik lines (Engerwerden)"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Angst des Kindes ein, nachdem AEGIS mit der Purge gedroht und der Countdown begonnen hat, und welches Ereignis trägt den Leser aus der Weigerung in Junas Kanal, in dem die Verbindung zu Juna zum stabilen, bewussten Kanal wird?",
+   "draws_on": "neighbour readings: AEGIS' Eskalation before, Junas Kanal after"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Weigerung der Heldenreise außen zwischen dem Ruf zum Abenteuer und der Begegnung mit dem Mentor, wenn die Vermeidung als Problem von Storyform A ein letztes Mal aufflammt und die Plot-Konkretisierung ihren Faden hier bewusst ruhen lässt?",
+   "draws_on": "stage lines (Refusal); storyform A lines (Avoidance, letztes Aufflammen); Plot-Konkretisierung (Faden ruht)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn die kindliche Angst zurückkommt, kurz bevor die Verbindung zu Juna zum bewussten Kanal wird, und wie berührt dieser letzte Rückfall das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Kind-Anteil in every reading; neighbour Junas Kanal"
+  }
+ ],
+ "about": "Letzte Ängste und Trauma-Erinnerungen tauchen auf, der Kind-Anteil wird sichtbar; laut der strukturierten Outline ist Kiko deutlich sichtbar, Moros zieht im Hintergrund, und Kael muss die Anteile integrieren, um voranzuschreiten. Es ist die Weigerung der Heldenreise außen, laut der strukturierten Outline im beginnenden Ten, in der Phase A des dritten Akts, bei der Plot-Konkretisierung im Block des Deserteurs; Kernwelten vollständig legt hier den Eintritt in den Möglichkeits-Garten von KW4, als Phase-Shift statt Ortswechsel, mit der Werkstatt der Schöpfung als möglichem Ort. In Storyform A flammt laut mehreren Quellen das Problem Avoidance ein letztes Mal auf, in B trägt es RS-Psychology, die Verstrickung wird tief, und laut der strukturierten Outline zeigt sich die Host-System-Symbiose. Die Plot-Konkretisierung lässt ihren Faden hier bewusst ruhen, und die AEGIS-Subplot-Sammlung kennt hier eine Szene, in der Kael LogOS mit einer logischen, aber selbstwidersprüchlichen Aussage austrickst.",
+ "about_draws_on": "readings of Konzept-Iteration Genesis, konsolidiertes Konzept, 39-chapter spec, strukturierter Outline, Kernwelten vollständig, storyform outline, Plot-Konkretisierung and aegis-subplots; structure placements from the stage, position and storyform lines of those readings and GOAL §5.1"
+}

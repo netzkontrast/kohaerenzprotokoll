@@ -1,10 +1,10 @@
 ---
 term: Archiv der Grenzen
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -26,3 +26,10 @@ attached as readings.
 
 A KW2 sub-location: „zerfallende Bibliothek mit unendlichen Regalen; Ort, an dem Kael AEGIS' technische Dossiers findet" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L159],
 at „Kap 14 (Mnemosyne-Archipel betreten)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L159]. Also an Akt-II title, „Kompendium-Theorie-Titel primär (Das Archiv der Grenzen, Turing-Mechanik, etc.)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1211].
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — the library of Ch14
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+A KW2 sub-location: „Das Archiv der Grenzen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] — „eine zerfallende Bibliothek mit unendlichen Regalen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532]
+„Ort, an dem Kael die technischen Dossiers von AEGIS findet (Ch14)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] KW2's act begins there: „KW2 dominiert mittlere Akt II (Ch14–22)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L539]

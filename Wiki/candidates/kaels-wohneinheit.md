@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 10
-readings: 10
+sources: 13
+readings: 13
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -103,3 +103,27 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 
 „In Wohneinheit 734 existiert ein Anschluss, den kein Bauplan führt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64] The Kap-22 find makes the number the component's:
 „Die Kennung ist die seiner Wohneinheit" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]; „Er wohnt in der Akte seiner eigenen Quarantäne." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (J80)
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — Wohneinheit 734, where the first anomalies begin
+
+A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L21] and ranks itself below Memory and the Reset-Doc, „nicht als Source-of-Truth" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L968] — recorded, not applied.
+
+A KW1 sub-location, as „Kaels Wohneinheit 734" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L489] (J50): „minimalistisch, AEGIS-überwacht. Erste Anomalien beginnen hier." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L489]
+The Transitkorridor Delta-7 joins it to the workplace: „endlose Routine zwischen Wohn- und Arbeitsbereich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L491]
+The number stands on one other line, the Genesis' third beat: „Aus dem ehemaligen „Ich" wird Komponente 734, eine Funktionseinheit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180]
+(`734` on two lines, L180 and L489, counted in `05-verify-readers.txt`.)
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — Wohneinheit 734 in Act II, and a quieter place for the veil
+
+A log of one drafting run on a manuscript's Kap 25. In its open question OQ-25-F it names the dwelling among the places of the Konstrukt-Stadt's administrative topology where the drafted chapters 14–26 all play: „(Datenknoten, Delta-Sieben, Wohneinheit 734)" ^[2026-09-14-kap25-vertiefung-md.md:L60] (J50) — against a canon it says assigns 14–22 to KW2 and 23–28 to KW3.
+In OQ-25-B, „Schleier-Benennung: Wortlaut und Ort." ^[2026-09-14-kap25-vertiefung-md.md:L56], a dwelling, written without its number, is the alternative place for the veil sentence set in the hand scene: „Alternativen wären eine spätere Setzung (Wohneinheit, ruhiger) oder die Verlagerung nach Kap 26." ^[2026-09-14-kap25-vertiefung-md.md:L56] — „Autorentscheid nötig." ^[2026-09-14-kap25-vertiefung-md.md:L56]
+
+## Reading — `kp-kap25-2026-09-14-md`, 2026-09-14, the Kap-25 chapter file — Wohneinheit 734 as the source of an item, and the evening at home
+
+A chapter file of Kap 25 — research, not text for the novel. Its prose is a first person it never names; `Kael` stands only in the apparatus (`05-verify.txt`).
+The dwelling enters as where an item came from, in the system's capital-letter line: „BESTAND 734-A-0244. WOHNEINHEIT 734, NOTIZFLÄCHE, INHALTSERFASSUNG." ^[kp-kap25-2026-09-14-md.md:L56] — and in the italic line of its capture: „Erfassung im Rahmen der Wartung Notizfläche, Wohneinheit 734." ^[kp-kap25-2026-09-14-md.md:L79] (J50). „Die Notizfläche ist ein Arbeitsmittel." ^[kp-kap25-2026-09-14-md.md:L81]
+The prose's two other labels with the number are the worker's, decided by their passage (J80): „SCHICHT 734 ABGESCHLOSSEN. ÜBERTRAG: 31." ^[kp-kap25-2026-09-14-md.md:L211] and „EINHEIT 734: BEARBEITUNGSPROFIL ABWEICHEND. KEINE MASSNAHME." ^[kp-kap25-2026-09-14-md.md:L217]
+At home, in the Ich: „In der Einheit schlage ich das Register nicht auf." ^[kp-kap25-2026-09-14-md.md:L269] „Es liegt auf der Notizfläche, aufgeklappt, wie immer" ^[kp-kap25-2026-09-14-md.md:L271]. „Im Behälter zu den Fundsachen liegen die vier kurzen Sätze" ^[kp-kap25-2026-09-14-md.md:L273]. „Ich nehme das Griffstück aus der Nische und halte es ans Ohr." ^[kp-kap25-2026-09-14-md.md:L275] „Hinter dem Griffstück liegen vier Blätter mit vier Daten und ohne Überschrift." ^[kp-kap25-2026-09-14-md.md:L279] „Dann lege ich das Griffstück zurück und klappe die Verkleidung hoch, bis sie einrastet." ^[kp-kap25-2026-09-14-md.md:L281] — the niche's panel, as a week before: „In der Woche davor habe ich die Verkleidung der Nische hochgeklappt" ^[kp-kap25-2026-09-14-md.md:L75].
+The rest of the room: the „Kante des Bettmoduls" ^[kp-kap25-2026-09-14-md.md:L295], and a wall panel showing „die Restzahl des zugeordneten Knotens" ^[kp-kap25-2026-09-14-md.md:L283] — „Es sind vierunddreißig." ^[kp-kap25-2026-09-14-md.md:L287]
+Its size is not stated for this room; „Sie sitzt in neun Quadratmetern und hat ein Griffstück am Ohr." ^[kp-kap25-2026-09-14-md.md:L125] is said of „Eine Einheit ohne Zuordnung" ^[kp-kap25-2026-09-14-md.md:L125], and reading it as the dwelling is the reader's. Neither voice says which world the dwelling is in (`KW1` 0, `05-verify.txt`; the apparatus names only KW3, L48).
+The session log's OQ-25-B named the dwelling as a quieter alternative place for the veil; in this revision „Hier sitzt mehr als einer." ^[kp-kap25-2026-09-14-md.md:L135] stands at the station, not at home — that this is the veil named is the reading's; the apparatus says only „Schleier leserseitig offen benannt" ^[kp-kap25-2026-09-14-md.md:L48].

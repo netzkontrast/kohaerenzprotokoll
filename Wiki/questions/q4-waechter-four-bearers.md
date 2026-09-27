@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls Wächter is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -215,3 +215,9 @@ AEGIS is the `Hüterin der Ordnung` (L55), not `Wächter`. J20 holds.
 **A Wächterin, unnamed, in Kap 8 and Kap 17.**
 Kap 8: „Kael, Wächterin" ^[three-mode-architecture-39-chapters-md.md:L185]. Kap 17: „Z1-Korrektur — Wächterin" ^[three-mode-architecture-39-chapters-md.md:L261]. Cycle 1's correction: „Wächterin/Beobachter-Blick fängt Rückfall ab" ^[three-mode-architecture-39-chapters-md.md:L245].
 She stands beside Kael as a bearer and as a way of looking, and the document does not say who she is. The strukturierter Outline, ten days later, gives the Kap-8 Wächterin to Selene.
+
+## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
+
+**`Wächter` three times — [[aegis|AEGIS]] in the Genesis, and the two Guardians twice in compounds; no `Wächterin`.**
+In Beat 3, „es hat sich gleichzeitig selbst als Wächter über den eigenen abgespaltenen Teil etabliert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180] — bearer 1. The Überwelt's „Wächter-Registry — operative Verwaltung der zwei Guardians." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L645], and the open point „Wächter-Zwiespalt-Soziopolitik. Spannung zwischen Mnemosyne und Erasure-Pol" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L894] — the two [[guardians|Guardians]] under the German word. [[mnemosyne|Mnemosyne]] herself is „Mnemosyne — Erinnerungs-Hüterin." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200] `Wächterin` stands 0 times, and no Kap 8 is named.
+The konsolidiertes Konzept's two uses and a third; J20 holds: the sentence decides.

@@ -1,0 +1,121 @@
+{
+ "chapter": 7,
+ "questions": [
+  {
+   "id": "K07-01",
+   "tag": "Konkretheit",
+   "question": "Spricht in Kapitel 7 zum ersten Mal jemand in die Leitung, die in keinem Plan steht – Kael selbst oder eine Stimme –, und was ist die Telefon-Stille dabei konkret als Objekt, Ort und wiederholbare Handlung?",
+   "draws_on": "Plot-Konkretisierung idea 4; Telefon-Stille readings; GOAL §4.5 #3"
+  },
+  {
+   "id": "K07-02",
+   "tag": "Kausalität",
+   "question": "Führt Kapitel 7 in Kap 8 über das Lesen ausgeglichener Bestände nach Dienstschluss, wie die Plot-Konkretisierung vorschlägt, oder über Selenes erstes Auftreten als Wächterin – und was von der Telefon-Stille trägt hinüber?",
+   "draws_on": "Kap 8 page (Plot-Konkretisierung reading, Selene in strukturierter Outline); GOAL §4.5 #4"
+  },
+  {
+   "id": "K07-03",
+   "tag": "Kausalität",
+   "question": "Was verliert Kael in Kapitel 7 unwiderruflich, wenn er die Resonanz wiedererkennt, ohne zu wissen, was sie ist – und welche zwei Zukünfte stehen gegeneinander, wenn er die Leitung offen hält oder meldet?",
+   "draws_on": "Kompendium (first re-recognition); GOAL §4.5 #4"
+  },
+  {
+   "id": "K07-04",
+   "tag": "Leser-Wissen",
+   "question": "Was weiß der Leser in Kapitel 7 über die Resonanz aus der Krise von Kap 0, das Kael nicht weiß, und was registriert AEGIS von der Telefon-Stille – nichts, Rauschen oder eine Anomalie?",
+   "draws_on": "Genesis echo (resonance as longing, not attack); GOAL §4.5 #5"
+  },
+  {
+   "id": "K07-05",
+   "tag": "Storyform",
+   "question": "Trägt Kapitel 7 in A den RS-Signpost 1, Learning als Junas Präsenz spüren, mit Moonshine-Bewusstwerdung – und wie bleibt Storyform B latent, wenn das Kapitel zugleich im Fenster des Hard-B-Kapitels in Kap 5–8 liegt?",
+   "draws_on": "storyform readings; C14; GOAL §5.2"
+  },
+  {
+   "id": "K07-06",
+   "tag": "Struktur",
+   "question": "Wie setzt Kapitel 7 die Murdock-Stufe 7, Unterstützung und Sehnsucht nach dem Weiblichen, zwischen Tod einer Einstellung in Kap 6 und Wiedergeburt in Kap 8 um, wenn Juna weder Helferin noch Mentorin sein darf?",
+   "draws_on": "stage readings; C7 Abhandlung entry (Juna not a helper); GOAL §5.1"
+  },
+  {
+   "id": "K07-07",
+   "tag": "Figur",
+   "question": "Wie wird Junas Wirkung in Kapitel 7 geschrieben – nie Subjekt, nie beschrieben, nur Stille als Klang –, ohne dass die Abwesenheits-Phase von Akt I bricht oder sie zur Helferin oder zum Liebesinteresse wird?",
+   "draws_on": "Juna rule readings; GOAL §5.4 Juna-Grammatik"
+  },
+  {
+   "id": "K07-08",
+   "tag": "Konflikt",
+   "question": "Gehört der warme Windstoß in eisiger Welt mit Melodie in Kapitel 7, wie der Outline vom 2026-05-18 schreibt, oder in Kap 3, wie die Konzept-Iteration Genesis – und wie oft darf dieses Wärmebild vor Akt II erscheinen?",
+   "draws_on": "Where the sources differ: the warm gust"
+  },
+  {
+   "id": "K07-09",
+   "tag": "Welt/Sensorik",
+   "question": "Wie wird die warme Resonanz am Telefon-Stille-Lokus von Kapitel 7 in KW1 gegen das kalte Ozon der AEGIS-Unterdrückung abgegrenzt, sodass der Polaritäts-Lock vom 2026-05-30 nie beide mischt?",
+   "draws_on": "Kernwelten world; GOAL §5.4 heat polarity"
+  },
+  {
+   "id": "K07-10",
+   "tag": "Lücke",
+   "question": "Welche Erscheinungsmodi Junas neben der Telefon-Stille – Stadt, Traum, Spiegel – sind für Kapitel 7 noch offen, die laut Outline vom 2026-05-18 und Konzept-Master-Bericht vor dem Encoding festgelegt werden müssen?",
+   "draws_on": "strukturierter Outline open question (Kap 7, 24, 30); C7 master-report entry"
+  },
+  {
+   "id": "K07-11",
+   "tag": "Setup/Payoff",
+   "question": "Welches Telefon oder welche Leitung pflanzt Kapitel 7 als ersten expliziten Anker, der in Kap 24, 30 und 39 wiederkehrt, und wo wird die Telefon-Stille eingelöst?",
+   "draws_on": "C7 Plot-Konkretisierung entry; GOAL §4.5 #6"
+  },
+  {
+   "id": "K07-12",
+   "tag": "Steinbruch",
+   "question": "Kann das Subplot-Motiv *Die sich auflösende Naht* aus den AEGIS-Subplots von 2025, ein Riss als lokaler Kontrollverlust, in Kapitel 7 neben der Telefon-Stille stehen, oder bricht es die Regel ein Konzept pro Szene?",
+   "draws_on": "aegis-subplots reading; Plot-Konkretisierung (one scene, one concept); GOAL §4.5 #9"
+  }
+ ],
+ "basic": [
+  {
+   "id": "B1",
+   "question": "Was will Kael in der Stimme im Rauschen, wenn er Juna spürt, ohne sie zu sehen, und laut Plot-Konkretisierung zum ersten Mal in die Leitung hineinspricht – und was stellt sich ihm entgegen, wenn am anderen Ende nur Telefon-Stille ist?",
+   "draws_on": "plot beats (Konzept-Iteration, strukturierte Outline); Die Leitung, Idee 4 (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B2",
+   "question": "Was steht in der Stimme im Rauschen auf dem Spiel, wenn Kael eine Resonanz wiedererkennt, ohne zu wissen, was sie ist: was verliert er, wenn er der Sehnsucht folgt, und was, wenn er die Stille als Störung abtut oder laut AEGIS-Subplots einen Riss als Beweis einer konstruierten Welt sieht?",
+   "draws_on": "erstes Wieder-Erkennen (Kompendium, Storyform-Outline); Die sich auflösende Naht (aegis-subplots)"
+  },
+  {
+   "id": "B3",
+   "question": "Was ist am Ende der Stimme im Rauschen anders, wenn die Heldinnenreise bei Unterstützung, der Sehnsucht nach dem Weiblichen, steht und Junas Resonanz, in der Genesis ein Angriff, als Sehnsucht erfahrbar wird – kippt Bedrohung in Verlangen, und Stille in Klang?",
+   "draws_on": "HR-Stufe Unterstützung — Sehnsucht nach dem Weiblichen; Genesis echo (Konzept-Iteration, konsolidiertes Konzept, Kompendium)"
+  },
+  {
+   "id": "B4",
+   "question": "In welcher Stimme wird die Stimme im Rauschen erzählt – Kael emotional und lyrisch, wie strukturierte Outline und Drei-Modi-Spezifikation schreiben – und wie erzählt sie Juna, die nie Subjekt wird, nur Wirkung, nur Telefon-Stille und Phantom-Resonanz?",
+   "draws_on": "POV (strukturierte Outline, spec); Juna rule (Kompendium, Storyform-Outline)"
+  },
+  {
+   "id": "B5",
+   "question": "Wo spielt die Stimme im Rauschen – am Telefon-Stille-Lokus in KW1 – und welche Sinne tragen sie: Stille als Klang, warme Resonanz, ein warmer Windstoß in eisiger Welt mit Melodie, den die Konzept-Iteration Genesis schon dem Bunker-Bau gibt?",
+   "draws_on": "world (Kernwelten vollständig); sensorics; difference The warm gust"
+  },
+  {
+   "id": "B6",
+   "question": "Womit setzt die Stimme im Rauschen nach der gestoppten Hand im Cache-Konflikt ein, und was trägt den Leser in die Wiedergeburt – das Lesen ausgeglichener Bestände nach Dienstschluss laut Plot-Konkretisierung oder die Wächterin-Funktion laut strukturierter Outline?",
+   "draws_on": "neighbours: Doppel-Antrag (previous); Kap 8 readings of Plot-Konkretisierung and strukturierte Outline (next)"
+  },
+  {
+   "id": "B7",
+   "question": "Welche Aufgabe hat die Stimme im Rauschen, wenn Storyform A die Relationship Story in Physics mit Moonshine-Bewusstwerdung trägt, laut Kapitel-Kompendium ihren ersten Signpost Learning, bei latenter Storyform B – und was fehlte ohne die Telefon-Stille als ersten expliziten Anker, während das Gegenregister pausiert?",
+   "draws_on": "A: RS-Physics (May readings), A:RS-S1 Learning (Kompendium, Storyform-Outline); anchor (strukturierte Outline); Faden ruht (Plot-Konkretisierung)"
+  },
+  {
+   "id": "B8",
+   "question": "Was soll der Leser fühlen, wenn Kael eine Nähe spürt, die er nicht benennen kann, in einer Stille, die klingt – und wie berührt dieses erste Wiedererkennen ohne Wissen, Junas Resonanz als Sehnsucht statt als Angriff, das Thema, dass Liebe bleibt wie der Schmerz?",
+   "draws_on": "Sehnsucht, Wieder-Erkennen (Kompendium, konsolidiertes Konzept)"
+  }
+ ],
+ "about": "In der Stimme im Rauschen wird die Verbindung zwischen Kael und Juna stärker: Kael spürt sie, ohne sie zu sehen, erkennt eine Resonanz wieder, ohne zu wissen, was sie ist, und die Telefon-Stille wird zum ersten expliziten Anker, laut Kernwelten vollständig an einem Telefon-Stille-Lokus in KW1; laut Plot-Konkretisierung spricht er zum ersten Mal in die Leitung hinein, während sein Gegenregister pausiert. Juna wird nie Subjekt, nur Wirkung, nicht beschrieben, nur Stille und Phantom-Resonanz; ihre Resonanz, in der Genesis ein Angriff, ist jetzt als Sehnsucht erfahrbar, erzählt laut strukturierter Outline und Drei-Modi-Spezifikation in Kaels emotionaler, lyrischer Stimme. Sinnlich tragen es Stille als Klang und warme Resonanz, laut strukturierter Outline und Drei-Modi-Spezifikation ein warmer Windstoß in eisiger Welt mit Melodie, den die Konzept-Iteration Genesis dem Bunker-Bau gibt; laut AEGIS-Subplots begegnet Kael hier einem Riss als lokalem Kontrollverlust, der ihm beweist, dass seine Welt konstruiert ist. In der Heldinnenreise ist es Unterstützung, die Sehnsucht nach dem Weiblichen, laut strukturierter Outline in der Ki-Vertiefung von Akt I; Storyform A trägt die Relationship Story in Physics mit Moonshine-Bewusstwerdung, laut Kapitel-Kompendium und Storyform-Outline ihren ersten Signpost Learning, Storyform B ist latent, und laut Plot-Konkretisierung liegt das Kapitel im Fenster des Hard-B-Kapitels.",
+ "about_draws_on": "readings of aegis-subplots, Konzept-Iteration Genesis, konsolidiertes Konzept, three-mode spec, strukturierte Outline, Kapitel-Kompendium, Kernwelten vollständig, Storyform-Outline, Plot-Konkretisierung; difference The warm gust"
+}

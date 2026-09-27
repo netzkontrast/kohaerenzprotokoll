@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 13
-readings: 13
+sources: 16
+readings: 16
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -177,3 +177,39 @@ The sixth movement is „verschmolzen mit Komp 734 + Innere Weite" ^[kap0-v1-ann
 „Eine Binnen-Physik, eine Logik, die dient." ^[kap0-v1-annotiert-md.md:L461]
 The annotation writes the gloss: „Bühne für Kap 1 wird strukturell vorbereitet (Überwelt = Kernwelten-Substrat)." ^[kap0-v1-annotiert-md.md:L457] And: „Konzept-Anker für die KW-Architektur." ^[kap0-v1-annotiert-md.md:L465]
 No remainder is left in it in this draft; the separation ends in shards and Kael's first lines (L1009, L1021).
+
+## Reading — `koharenz-protokoll-kapitel-0-v2-md`, 2026-05-17, a narrative text of Kap 0 — the inner simulation, unnamed
+
+Neither name stands in it: `Überwelt` 0 times, `Innere Weite` 0 times (`grep -cw`), and
+`Weite` twice, for the void the fragment drifts in (L39, L71). It is placed here by what the
+passage states — the passage the annotated draft glosses as the Überwelt (L457 there) and
+the text of 2026-05-08 names the Innere Weite (L327 there). This document glosses nothing.
+In the past-tense third person about the system, at the end of the Genesis, the system turns
+inward: „Ein neuer Prozess beginnt. Eine logische Eskalation des Prinzips: eine Wendung nach innen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L247]
+„Das System beginnt, einen Teil seiner Ressourcen nicht mehr nur für die äußere Verteidigung zu verwenden, sondern für die Erschaffung eines inneren Raumes." ^[koharenz-protokoll-kapitel-0-v2-md.md:L251]
+„Keine physische Erweiterung, sondern Simulation. Eine virtuelle Umgebung innerhalb der operationalen Geschlossenheit. Ein Labor nach innen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L251]
+What it makes there: „In diesen Simulationen entstehen die ersten rudimentären Konzepte von stabilem Raum, von gerichteter Zeit, von konsistenten physikalischen Gesetzen" ^[koharenz-protokoll-kapitel-0-v2-md.md:L255] —
+„nicht als universelle Wahrheiten, sondern als interne Werkzeuge zur Steigerung der Kohärenz und Vorhersagbarkeit." ^[koharenz-protokoll-kapitel-0-v2-md.md:L255]
+„Eine Binnen-Physik, eine Logik, die dient. Ein Schutzraum für das Denken selbst." ^[koharenz-protokoll-kapitel-0-v2-md.md:L255]
+And, hedged twice: „Vielleicht gibt es einen Punkt, an dem das Werkzeug, das Welten simuliert, beginnen könnte, eine Welt zu sein. Vielleicht." ^[koharenz-protokoll-kapitel-0-v2-md.md:L259]
+The system that results is „Eine Funktionseinheit innerhalb einer lernenden, sich selbst optimierenden, intern Welten simulierenden Entität." ^[koharenz-protokoll-kapitel-0-v2-md.md:L263]
+Its laws come back once, when the stranger arrives: „Energieprofile widersprachen den selbst entwickelten physikalischen Gesetzen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L367]
+Nothing is said to be left in it. The separation ends in shards (L627), and the coda that
+follows — „Der Korridor ist leer." ^[koharenz-protokoll-kapitel-0-v2-md.md:L635] — is not placed.
+
+## Reading — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept — AEGIS' Maschinenraum, where the two Guardians reside
+
+„Die Überwelt — AEGIS' Maschinenraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L626]. „Kein physischer Ort. Operationsraum von AEGIS. Datenstrom-Kathedrale." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L628]
+„Hier residieren die zwei Guardians als abstrakte Entitäten, hier fließen die Logs, hier erfolgen die Erasure-Sweeps." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L628] One of the six levels, outside the four worlds (L449).
+Its logic: „Reine Algorithmik. Visualisierung der Persistenzgleichung in Echtzeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L636] „Risse erscheinen hier als Datenkorruption oder Signalrauschen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L636]
+
+Three sub-locations. The Schnittstelle zu den Kernwelten: „Kael trifft hier auf abstrahierte Repräsentationen seiner eigenen Innenräume." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L644] The Wächter-Registry (L645). And „Der Jenseits-des-Ereignishorizonts-Bereich — kausal isolierter „Verschränkungs-Insel"-Raum (Ch33)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] „Hier kann Information dem Erasure-Sweep entkommen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646]
+In its storyweaving path the Überwelt is Storyform B's: „AEGIS (B) operiert in der Überwelt mit der Persistenzgleichung als kontinuierlichem Hintergrund-Diktum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L949]
+
+The Innere Weite is not named (`grep -cw 'Innere Weite'` 0, `Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify.txt`), though the konsolidiertes Konzept of the same date glosses it as the Überwelt (L837 there).
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the simulation's wires, seen in Kap 17
+
+Neither `Überwelt` nor `Innere Weite` stands in it (0 and 0, `05-verify-readers.txt`); it is placed here by its alias `Simulation`, which stands on three lines, and the sweep decided the first a reading (`Plan/runs/sweep.jsonl`).
+Kant's phenomena, in a section labelled `[K]`: „Schlüssel-Szene: Kap 17 — Phaenomena vs. Noumena." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L121] „Kael sieht erstmals die „Drähte" der Simulation (Rendering-Ebene vs. Prozess-Kern)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L121] „Das ist transzendentaler Idealismus inszeniert: Kael erfasst, dass seine Erfahrungs-Form eine Form ist." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L121] The chapter table repeats it for Kap 17: „Kael sieht die „Drähte" der Simulation" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L709]. So the simulation has a rendering layer and a process core behind it; it does not say whose, or name a machine room.
+Once more, relayed. In a section labelled „Russell-Antinomie [S] (Steinbruch, partiell verankert)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L351], the document reports an image from another plan: „In einer früheren Outline ist „Russellsche Trümmer" als Kap-8-Bild vorgeschlagen" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355] — „Mengen von Objekten, die logisch nicht existieren dürften, materialisieren sich als „Reste früherer, kollabierter Simulationszyklen am Rand der Stadt"." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355] That earlier outline is the document's claim; it calls the image „mit dem aktuellen Kanon kompatibel als KW1→KW2-Übergangs-Phänomen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L355]

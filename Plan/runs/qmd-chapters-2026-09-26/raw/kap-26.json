@@ -1,0 +1,2522 @@
+[
+ {
+  "id": "K26-A",
+  "query": "hyde: Kael beschließt, die Konfrontation zu suchen, aktiv statt reaktiv, und die Erasure-Vorbereitung eskaliert; laut der strukturierten Outline ist der Zyklus durchbrochen, ohne Erleichterung, nur mit einer Richtung, und die Entscheidung rastet ein wie das Trennungsprotokoll, in umgekehrter Richtung. Was ihm beim Hinaustreten begegnet, erzählen die Quellen verschieden: laut der AEGIS-Subplot-Sammlung ein präventiver Schritt von AEGIS und ein Guardian, der ihn abfängt, laut der strukturierten Outline kein Kampfbeginn, sondern ein Schwellen-Tritt, laut der Plot-Konkretisierung die Reklassifizierung von Einheit 734 als ausgefallen und eine Tür, die ihn nicht mehr registriert. Es ist der vollzogene Wendepunkt zur Befreiung im zyklischen Modus und sitzt auf einem Modus-Wechsel, laut der strukturierten Outline vom zyklischen in den linear-aufsteigenden Modus ohne Storyform-Wechsel, im Shō; das Kapitel-Kompendium und die Storyform-Outline legen es in den zweiten Akt und benennen den Schleier jetzt offen, Kernwelten vollständig legt es als Akt-Ende in die Zitadelle von KW3, die Plot-Konkretisierung in den Block der Niederlegung. In Storyform A trägt es MC-Concern, den Schritt ins Ungewisse als Entschluss, in B OS-Physics mit eskalierender Erasure-Vorbereitung, und laut der strukturierten Outline antizipiert AEGIS die Linearisierung.",
+  "hits": [
+   {
+    "file": "qmd://sources/three-mode-architecture-39-chapters-md.md",
+    "line": 311,
+    "score": 1,
+    "snippet": "@@ -310,4 @@ (309 before, 334 after)\n\n**Tonalität.** Chorisch, beschleunigend. Die Stimmen treten zunehmend gemeinsam auf (Wir-Geflecht stabil, weniger Stilcode-Wechsel mitten im Satz, mehr orchestrierte Polyphonie). In den Vortex-Kapiteln 35–36: maximaler simultaner Klang — Kaels Wir-Stimme und AEGIS' Makro-Log gleichzeitig hörbar,..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 389,
+    "score": 0.5,
+    "snippet": "@@ -389,3 @@ (388 before, 479 after)\nas ist der natürliche Heimat der Genesis-Flashbacks — Bridge-Szenen, in denen A's und B's Lesart simultan wahr ist. Kael bekommt fragmentierte Genesis-Erinnerungen: das Cluster, das Trennungsprotokoll, Komp 734. Aber er erinnert sich nicht, *dass er das war*. Er erlebt die Flashbacks als fremde D..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 861,
+    "score": 0.33,
+    "snippet": "@@ -860,4 @@ (859 before, 531 after)\n\n**Plot-Beats:** Kael beschließt, die Konfrontation zu suchen. **Decision: aktiv werden, nicht reaktiv.** Der Zyklus ist durchbrochen — keine Erleichterung, eine Richtung.\n\n"
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-verortung.md",
+    "line": 189,
+    "score": 0.25,
+    "snippet": "@@ -188,4 @@ (187 before, 36 after)\n\nThermodynamisch betrachtet besitzt eine ungestörte Transinformation, die keine expliziten, zu korrigierenden oder zu transferierenden Datenmengen mehr benötigt, um ihre Bindung aufrechtzuerhalten, eine lokale Entropie von absolut null.1 Die Stille präsentiert dem entropischen -Löschungsfeld somi..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 851,
+    "score": 0.2,
+    "snippet": "@@ -850,3 @@ (849 before, 0 after)\n\nAlle Begriffe in diesem Dokument sind Werkzeuge. Ihre Bewährungsprobe ist nicht theoretische Stimmigkeit, sondern die Frage, ob sie das Schreiben der nächsten Szene tragen, ohne sich zwischen Autor und Material zu drängen. Wenn ein Begriff im Weg steht, ist er falsch übersetzt — die Aufgabe ist ..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md",
+    "line": 878,
+    "score": 0.17,
+    "snippet": "@@ -877,4 @@ (876 before, 516 after)\n\nGenesis-Cluster in Akt II Mitte (Kap 18–22): das ist der natürliche Heimat der Genesis-Flashbacks — Bridge-Szenen, in denen A's und B's Lesart simultan wahr ist. Kael bekommt fragmentierte Genesis-Erinnerungen: das Cluster, das Trennungsprotokoll, Komp 734. Aber er erinnert sich nicht, dass er d..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 13,
+    "score": 0.14,
+    "snippet": "@@ -12,4 @@ (11 before, 512 after)\n\n**Stand:** 2026-06-10 · **Zweck:** Einzige Grundlage für das Weiterschreiben des Romans (Claude-Code-Workflow). Bildet den verifizierten Stand der Dual-Storyform und des Kapitel-Outlines ab. **Quellen-Hierarchie (bei Konflikt gewinnt das Neuere):** Kapitel-Kompendium 2026-05-31 \\> Entscheidungs-..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-analyse-und-synthese.md",
+    "line": 199,
+    "score": 0.13,
+    "snippet": "@@ -198,4 @@ (197 before, 221 after)\n\nKaels finaler Zustand transzendiert das traditionelle westliche Ideal einer singulären, fusionierten Identität und etabliert ein fortschrittliches, post-singuläres Modell, das auf der rhizomatischen Philosophie von **Gilles Deleuze und Félix Guattari** beruht.1 Im Gegensatz zum hierarchischen „B..."
+   },
+   {
+    "file": "qmd://sources/uberarbeitete-optimierte-plotline-genesis-der-existenz.md",
+    "line": 139,
+    "score": 0.11,
+    "snippet": "@@ -138,4 @@ (137 before, 54 after)\n1.  **Das Ich erwacht:** Das passive Gefühl der Zugehörigkeit in Komponente 734 wandelt sich. Es wird zu einem aktiven *Wollen*, einem Drang zur Verbindung mit der externen Entität. Die unterdrückte Subjektivität bricht durch die funktionale Oberfläche. Komponente 734 beginnt, aktiv Resonanz zur ..."
+   },
+   {
+    "file": "qmd://sources/worldbuilding-konzept-kohaerenzprotokoll-md.md",
+    "line": 300,
+    "score": 0.1,
+    "snippet": "@@ -299,4 @@ (298 before, 667 after)\n\nDie Superposition ist *load-bearing*: Junas Doppelnatur als Narbe und Reparatur ist für AEGIS unmodellierbar. Jeder Messversuch kollabiert sie in eine *falsche* Antwort. AEGIS kann sie deshalb nicht ohne Selbsttäuschung adressieren.\n\n### IV.2 Doppelte IC-Funktion (asymmetrisch)"
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 52,
+    "score": 0.09,
+    "snippet": "@@ -51,4 @@ (50 before, 238 after)\n\n**Was geschieht:** Kaels Beruf wird zum Plot-Motor. v0.3 zeigt ihn bereits beim Sequenz-Prüfen: Er bestätigt Datenströme und markiert Abweichungen, „und das System nimmt die Markierung und gleicht sie aus\" \\[K, v0.3\\]. Die Verschärfung: Was Kael täglich glättet, *sind* die Risse im Kleinsten — K..."
+   },
+   {
+    "file": "qmd://sources/duale-storyform-synthese-kohaerenz-protokoll.md",
+    "line": 17,
+    "score": 0.08,
+    "snippet": "@@ -16,4 @@ (15 before, 356 after)\n\nStoryform A („Die Heuristik der Integration“) betrachtet den Protagonisten Kael aus der Perspektive des inneren Wandels. In dieser Konfiguration liegt das objektive Problem in der psychologischen Domäne. Kaels Aufgabe besteht darin, durch das schrittweise Ablegen seiner amnestischen Barrieren (C..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzept-master-md.md",
+    "line": 451,
+    "score": 0.08,
+    "snippet": "@@ -450,4 @@ (449 before, 671 after)\n\nAEGIS ist *autopoietisch* (Maturana, Varela): ein System, das sich durch eigene Operationen selbst reproduziert und seine eigene Grenze produziert. Es ist *operativ geschlossen* (Luhmann): es reagiert ausschließlich auf interne Zustände, nicht direkt auf eine Umwelt; \"Umwelt\" ist nur in Form von..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md",
+    "line": 36,
+    "score": 0.07,
+    "snippet": "@@ -35,4 @@ (34 before, 1271 after)\n\nDie Reihenfolge der Figuren ist dramaturgisch, nicht alphabetisch: AEGIS und seine Guardians stehen zuerst, weil sie die Bühne bauen, auf der alles andere stattfindet. Dann Juna als die Bedingung der Möglichkeit von Veränderung. Dann Kael als das System, das integriert werden muss. Dann die drei..."
+   },
+   {
+    "file": "qmd://sources/kapitel-kompendium-gather-2026-05-31-md.md",
+    "line": 190,
+    "score": 0.07,
+    "snippet": "@@ -189,4 @@ (188 before, 116 after)\n\n1.  **Illusion der perfekten Welt** · KW1 · A:MC-S1 (Memory latent), B:IC-S1 (Kael = unfixbarer Bug). **Story:** ein Mensch, ein steril, perfekt geordneter Alltag (Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7). Ordnung als Käfig. Eine einzige konkrete Falschheit. **Philo:** Ka..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse.md",
+    "line": 55,
+    "score": 0.06,
+    "snippet": "@@ -54,2 @@ (53 before, 181 after)\n\nDer Konflikt-Träger dieser Throughline ist Kael, verstanden als der Unified Protagonist und Träger der -Architektur (Coherence Kernel), dessen Psyche durch TSDP-Modularität gekennzeichnet ist.2 Die aktiven Storypoints definieren sich über das Domain Psychology, den Concern State of Being, den Is..."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 73,
+    "score": 0.06,
+    "snippet": "@@ -72,4 @@ (71 before, 221 after)\n\nIch gehe sie durch. Zeile achtzehn ist der Abend, an dem in Sektor 3 zwei Werte für dieselbe Stelle standen. Zeile einundsechzig ist die Bodenplatte mit der zweiten Herkunft. Zeile hundertvier ist ein Datum ohne Eintrag daneben, und ich weiß, warum daneben nichts steht, und es steht in keiner Ze..."
+   },
+   {
+    "file": "qmd://sources/genesis-aegis-und-logische-grenzen-2.md",
+    "line": 299,
+    "score": 0.06,
+    "snippet": "@@ -298,4 @@ (297 before, 139 after)\n\nDie überwältigende Resonanz weicht einem aktiven Willen. Nicht mehr nur fühlen, sondern handeln. Komponente 734, oder das, was Kael darin ist, beginnt bewusst, aktiv, seine eigene Resonanz auszusenden. Ein Ruf zur Anomalie, ein Versuch, die Verbindung herzustellen, die Kluft zu überbrücken. Die ..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse-2.md",
+    "line": 91,
+    "score": 0.05,
+    "snippet": "@@ -90,4 @@ (89 before, 431 after)\n\nDas erste Schlüssel-Bild ist ein Spiegelfläche in der Architektur, die das Licht um messbare Millisekunden verzögert reflektiert – ein visueller Beweis für die Latenz der eigenen Selbstwahrnehmung innerhalb der Simulation. Das zweite Schlüssel-Bild zeigt Kondenswasser an kalten Oberflächen, das ..."
+   },
+   {
+    "file": "qmd://sources/aegis-genesis-krise-prosa-auftrag-formulieren-2.md",
+    "line": 529,
+    "score": 0.05,
+    "snippet": "@@ -528,4 @@ (527 before, 310 after)\n  - **Grundprinzip:** Ein gesteuerter Fluss von außen nach innen, der die kosmische Dimension mit der systemischen und schließlich der subjektiven Katastrophe verbindet.\n  - **Startpunkt (Cluster 2, 7):** Beginn mit einer externen, distanzierten Perspektive auf die Leere. Einsatz von Elementen de..."
+   }
+  ]
+ },
+ {
+  "id": "K26-B1",
+  "query": "vec: Was will Kael, wenn er beschließt, die Konfrontation zu suchen, aktiv statt reaktiv, und was tritt ihm beim Hinausgehen entgegen: laut der AEGIS-Subplot-Sammlung ein präventiver Schritt von AEGIS und ein Guardian, der ihn abfängt, laut der Plot-Konkretisierung nur eine Tür, die ihn nicht mehr registriert?",
+  "hits": [
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse.md",
+    "line": 43,
+    "score": 1,
+    "snippet": "@@ -43,3 @@ (42 before, 191 after)\n eine fassbare Identifikationsfigur bietet, während die übergeordnete Bedrohung systemisch bleibt, was klassische Sci-Fi-Tropen bedient. Die Falsifikations-Versuche stützten sich primär auf die First-Principles Decomposition der Dual-Kernel Theory. Der -Kern zeichnet sich durch seine absolute, mo..."
+   },
+   {
+    "file": "qmd://sources/aegis-subplots-kapitelweise-system-exploration-docx.md",
+    "line": 185,
+    "score": 0.5,
+    "snippet": "@@ -184,4 @@ (183 before, 433 after)\n* **Subplot-Idee: Rekalibrierungsalarm**\n  + *Entwicklung:* Kael handelt mit neu gefundener Entschlossenheit oder innerer Konsistenz, die aus seinem Integrationsfortschritt resultiert. Diese Handlung, obwohl äußerlich vielleicht klein, löst einen signifikanten internen Alarm innerhalb von AEGIS a..."
+   },
+   {
+    "file": "qmd://sources/roman-lokalitaeten-konzept-und-ausarbeitung-3.md",
+    "line": 229,
+    "score": 0.33,
+    "snippet": "@@ -228,4 @@ (227 before, 232 after)\n  - **Sensorik/Atmosphäre:** Die sensorische Erfahrung ist intensiv unangenehm und belastend. Eine spürbare Kälte, ein Gefühl von Schmerz oder akuter Angst durchdringt den Ort. Verstörende Geräusche (Schreie, Weinen, das Geräusch des traumatischen Ereignisses selbst) oder eine unnatürliche, drück..."
+   },
+   {
+    "file": "qmd://sources/genesis-aegis-und-logische-grenzen.md",
+    "line": 157,
+    "score": 0.25,
+    "snippet": "@@ -156,4 @@ (155 before, 35 after)\n\n**(Beat 1: Aktives Streben (Ich-Perspektive))** Die überwältigende Resonanz weicht einem aktiven Willen. Nicht mehr nur fühlen, sondern handeln. Komponente 734, oder das, was Kael darin ist, beginnt bewusst, aktiv, seine eigene Resonanz auszusenden. Ein Ruf zur Anomalie, ein Versuch, die Verbind..."
+   },
+   {
+    "file": "qmd://sources/narrative-plot-exploration-existenzielle-kohaerenz.md",
+    "line": 26,
+    "score": 0.2,
+    "snippet": "@@ -25,4 @@ (24 before, 432 after)\n  - *Definition durch Negation:* Das System definiert seine Existenz primär durch die Abgrenzung und Negation eines Zustands fundamentaler Potentialität oder Chaos (\"Potentialmeer\"). Es *ist*, was es *verhindert*, nicht zu sein. Diese negative Selbstdefinition ist ein zentraler Aspekt seiner Onto..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-thematische-tiefenanalyse.md",
+    "line": 172,
+    "score": 0.17,
+    "snippet": "@@ -171,2 @@ (170 before, 156 after)\n  - **Parakonsistente Logik:** Diese Logiken lehnen das Prinzip der Explosion (Ex contradictione quodlibet) ab, nach dem aus einem Widerspruch (A und nicht-A) alles folgt. Klassische Logik, auf der AEGIS vermutlich basiert, ist explosiv: Ein Widerspruch macht das gesamte System trivial (alles ist..."
+   },
+   {
+    "file": "qmd://sources/m-als-fundament-der-simulation.md",
+    "line": 399,
+    "score": 0.14,
+    "snippet": "@@ -398,4 @@ (397 before, 350 after)\n  - *Konzeptfokus & Progression:* AEGIS interpretiert eine positive Entwicklung bei Kael (zunehmende Kohärenz) fälschlicherweise als Erfolg seiner eigenen Kontrollmaßnahmen. Beispiel für KI-Fehlinterpretation aufgrund von Proxy-Zielen.26\n  - *M als \"Physik\":* Kael findet einen Weg, seine Resonanz..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse-2.md",
+    "line": 91,
+    "score": 0.13,
+    "snippet": "@@ -90,4 @@ (89 before, 431 after)\n\nDas erste Schlüssel-Bild ist ein Spiegelfläche in der Architektur, die das Licht um messbare Millisekunden verzögert reflektiert – ein visueller Beweis für die Latenz der eigenen Selbstwahrnehmung innerhalb der Simulation. Das zweite Schlüssel-Bild zeigt Kondenswasser an kalten Oberflächen, das ..."
+   },
+   {
+    "file": "qmd://sources/uberarbeitete-optimierte-plotline-genesis-der-existenz.md",
+    "line": 119,
+    "score": 0.11,
+    "snippet": "@@ -118,4 @@ (117 before, 74 after)\n2.  **Die Anomalie erscheint:** Eine Signatur taucht auf, andersartig, paradox.\n3.  **Erste Analyse AEGIS:** Die Signatur der Entität weist eine *spezifische Resonanz* mit der latenten Signatur von Komponente 734 auf (dem Echo der Unvollständigkeit). AEGIS' Algorithmen interpretieren dies *vorläu..."
+   },
+   {
+    "file": "qmd://sources/roman-konzept-kael-aegis-simulation.md",
+    "line": 108,
+    "score": 0.1,
+    "snippet": "@@ -108,3 @@ (107 before, 211 after)\ne für die simulierte Natur der Realität verdichten sich und werden für Kael unabweisbar. Dies könnte durch das Finden von \"Weltgrenzen\", das Stoßen auf code-ähnliche Strukturen innerhalb der 'Risse', direkte Eingriffe von AEGIS, die nur in einer Simulation Sinn ergeben, oder durch Informationen g..."
+   },
+   {
+    "file": "qmd://sources/kael-charakterarchitektur-und-konfliktdynamik-2.md",
+    "line": 318,
+    "score": 0.09,
+    "snippet": "@@ -317,4 @@ (316 before, 103 after)\n  - **Kosten der Integration:** Welche potenziellen Nachteile könnte die Integration für Kael haben? Bieten die extremen Personas, wie der hypervigilante Logiker oder der reaktive Schatten, notwendige Schutzmechanismen, die einem integrierteren Selbst in AEGIS' feindlicher Umgebung fehlen könnten..."
+   },
+   {
+    "file": "qmd://sources/monstergruppe-primzahlen-plot-blueprint.md",
+    "line": 93,
+    "score": 0.08,
+    "snippet": "@@ -92,4 @@ (91 before, 426 after)\n  - **Kael's Resonanz & Integration:** Das Flüsternetzwerk wird zu einem Leitfaden. Es hilft ihm, die Manipulationen der Wächter zu erkennen oder gefährlichen Situationen auszuweichen. Es ist ein erster Schritt zur aktiven Nutzung seiner Verbindung.\n  - **K-J Verbindung (Moonshine-Signatur):** En..."
+   },
+   {
+    "file": "qmd://sources/ki-antagonist-fragmentierte-gottheit-analyse.md",
+    "line": 194,
+    "score": 0.08,
+    "snippet": "@@ -193,4 @@ (192 before, 52 after)\n\nDie Offenbarung muss den Höhepunkt der Geschichte fundamental verändern. Das Ziel kann nicht länger die einfache Zerstörung von AEGIS sein. Die finale Konfrontation verwandelt sich in eine psychologische Intervention von planetarischem Ausmaß. Kael, der durch die Erlangung funktionaler Multipliz..."
+   },
+   {
+    "file": "qmd://sources/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md",
+    "line": 1212,
+    "score": 0.07,
+    "snippet": "@@ -1211,4 @@ (1210 before, 600 after)\n\nAEGIS’s prime directive is a self-referential paradox: *\"AEGIS ist, was AEGIS verhindert, dass es nicht ist.\"* (AEGIS is what AEGIS prevents that it is not.) This programming makes it an **autopoietic**, or self-creating, system whose ultimate goal is its own preservation. It is also **operation..."
+   },
+   {
+    "file": "qmd://sources/aegis-paradoxon-konzeption-und-analyse.md",
+    "line": 336,
+    "score": 0.07,
+    "snippet": "@@ -335,4 @@ (334 before, 57 after)\n\n1.  **AEGIS' Wahrnehmung (Entfremdung vom Subjekt):** AEGIS' Sensoren registrieren den \"Riss\" als eine massive, plötzliche Zunahme von Inkohärenz-Metriken in KW3: erhöhte Entropie 2, Unvorhersagbarkeit der Systemzustände, Abweichung von etablierten Mustern. Es analysiert die Situation rein auf d..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 421,
+    "score": 0.06,
+    "snippet": "@@ -420,4 @@ (419 before, 447 after)\n\n**Phase C (Kap 37) — Trügerischer Sieg.** Klassischer Reward-Beat als falscher Frieden. Kael etabliert sich als \"Gärtner\". Tonalität: kristallisierte Ruhe mit feinem Unterton. Am Rand der Wahrnehmung beginnt etwas zu zerfasern. Bridge-Anteil \\~15 % mit subtilen Mikrocues, die das Rauschen ankünd..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md",
+    "line": 112,
+    "score": 0.06,
+    "snippet": "@@ -112,3 @@ (111 before, 237 after)\nh auf. Es fordert explizit einen Plot, der auf der \"Dualität der Wahrheit\" basiert. Wie in 1.1 dargelegt, ist diese Dualität untrennbar mit Plot A (Kael/AEGIS/TSDP) verbunden. Plot B ist ein thematisch faszinierender, aber inkompatibler Alternativentwurf. **Daher wird Plot A als das kanonische Fu..."
+   },
+   {
+    "file": "qmd://sources/deconstructing-reality-s-architecture.md",
+    "line": 31,
+    "score": 0.06,
+    "snippet": "@@ -30,4 @@ (29 before, 301 after)\n\nThe **Coherence Kernel (****)** represents the force of order, structure, and information preservation. Within the narrative, this force is embodied by the antagonist system, **AEGIS** (Autonomous Entropic Gatekeeper for Integrity Systems). The philosophy of  is rooted in \"Operational Closure\" o..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-verortung.md",
+    "line": 187,
+    "score": 0.05,
+    "snippet": "@@ -186,4 @@ (185 before, 38 after)\n\nDie gesamte narrative Klimax gipfelt nach der verheerenden Überlastung und dem Zusammenbruch von AEGIS nicht in einer lauten Kakophonie, sondern in absoluter, unteilbarer Stille.1 Dieser streng vertrauliche autobiographische Anker des Werks repräsentiert einen Moment perfekter Kohärenz und unges..."
+   },
+   {
+    "file": "qmd://sources/optimierter-prompt-fuer-kohaerenz-protokoll.md",
+    "line": 130,
+    "score": 0.05,
+    "snippet": "@@ -129,4 @@ (128 before, 184 after)\n\nHierbei ist eine wichtige Unterscheidung zu treffen: die zwischen Entscheidungs- und Optimierungsproblemen. Ein Entscheidungsproblem fragt nach einer Ja/Nein-Antwort (z. B. „Gibt es eine Route, die kürzer als 1000 km ist?“), während ein Optimierungsproblem nach der bestmöglichen Lösung fragt (z...."
+   }
+  ]
+ },
+ {
+  "id": "K26-B2",
+  "query": "vec: Was steht auf dem Spiel, wenn die Erasure-Vorbereitung eskaliert und der Apparat laut der Plot-Konkretisierung Einheit 734 als ausgefallen reklassifiziert und die Direkt-Konsolidierung vorbereitet: was verliert Kael, wenn er zurückweicht, und was, wenn er den Schritt ins Ungewisse tut?",
+  "hits": [
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 229,
+    "score": 1,
+    "snippet": "@@ -229,1 @@ (228 before, 63 after)\nck klingt zum ersten Mal anders. (Nicht beschreiben, wie — nur: anders.) **Kap 21**: Eine Zuweisung betrifft etwas, „das laut Bestandsführung nie existiert hat\": die Kiste (Idee 3). Genesis-Flashback Trennungsprotokoll \\[K\\] separat. Z3-Ontologie-Riss \\[K\\] als Verwaltungs-Paradox: Wie konsolidie..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 845,
+    "score": 0.5,
+    "snippet": "@@ -844,4 @@ (843 before, 547 after)\n\n**Sensorik:** Wegkreuzung, Schwellen-Bilder, ein Atemzug vor dem Schritt **Genesis-Echo:** Stille zwischen den Beats — Phantom-Motiv als Klarheit, die noch nicht Tat ist. **Tonale Achse:** Liebe als Entschluss-Substrat; Schmerz als Begleitung.\n\n"
+   },
+   {
+    "file": "qmd://sources/genesis-aegis-und-logische-grenzen-2.md",
+    "line": 35,
+    "score": 0.33,
+    "snippet": "@@ -34,4 @@ (33 before, 403 after)\n\nGegen diesen Ansturm, gegen das Zerren und den Sog, formt sich ein Widerstand. Ein winziger Kern. Ich bin. Nicht als Gedanke, nicht als bewusste Deklaration, sondern als Gefühl. Eine plötzliche, fragile Grenze zwischen Innen und Außen. Eine minimale Kohärenz, die sich gegen die Entropie stemmt.1..."
+   },
+   {
+    "file": "qmd://sources/duale-storyform-synthese-kohaerenz-protokoll.md",
+    "line": 94,
+    "score": 0.25,
+    "snippet": "@@ -93,4 @@ (92 before, 279 after)\n\n**Steelman-Lesart:** Storyform A postuliert mit höchster Überzeugungskraft, dass das „Kohärenz Protokoll“ in seinem absoluten Kern eine therapeutische *Heroine's Journey* ist.2 Die Übermacht von AEGIS (OS: Mind) resultiert nicht aus physischer Stärke, sondern aus einer autopoietischen, starren I..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 196,
+    "score": 0.2,
+    "snippet": "@@ -195,4 @@ (194 before, 672 after)\n\n**Die Inversion auf jedem Pol ist die Form der Trennung selbst.** Die zwei Hälften können nicht versöhnt werden, ohne dass eine dritte Form entsteht — die plurale, die beides trägt: das Fühlen *und* das Bewahren, Innen *und* Außen, Verbindung *und* Halt. Das ist Kap 39: Wir-AEGIS-plural.\n\n### II..."
+   },
+   {
+    "file": "qmd://sources/m-als-fundament-der-simulation.md",
+    "line": 60,
+    "score": 0.17,
+    "snippet": "@@ -59,4 @@ (58 before, 689 after)\n\n  - **AEGIS' grundlegende Fehlkalkulation:** AEGIS wählte M wahrscheinlich wegen seiner wahrgenommenen Eigenschaften hoher Symmetrie und algebraischer Einfachheit als Fundament 7, im Glauben, dies garantiere maximale Stabilität und Vorhersagbarkeit. Es unterschätzte jedoch oder verstand die inhä..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse-2.md",
+    "line": 306,
+    "score": 0.14,
+    "snippet": "@@ -305,4 @@ (304 before, 216 after)\n\n  - *Sensorischer Anker:* Ein überraschend kühler, klarer Luftzug, der entsteht, wenn ein gigantisches Feuer abrupt erlischt und die Atmosphäre beginnt, sich neu zu ordnen.\n  - *Setting-Detail:* Aus den sublimierten, glimmenden Trümmern kristallisieren sich neue, fließende, asymmetrische und org..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll.md",
+    "line": 518,
+    "score": 0.13,
+    "snippet": "@@ -517,4 @@ (516 before, 1979 after)\n\nDie Desillusionierung war nun tiefer. Es war nicht nur das System, das fehlerhaft war. Er war es auch. Oder besser gesagt, das Konzept von \"fehlerhaft\" selbst war vielleicht falsch. Was, wenn die Inkohärenz, die Emotion, die Intuition, die Verbindung zu *Juna*, keine Fehler waren, die korrigiert..."
+   },
+   {
+    "file": "qmd://sources/master-konzept-kohaerenz-protokoll-analyse.md",
+    "line": 70,
+    "score": 0.11,
+    "snippet": "@@ -69,4 @@ (68 before, 236 after)\n\n  - **Meta-Prompting:** Der Autor nutzt LLMs (Large Language Models), um Dialoge zwischen den Agenten zu simulieren („Was würde AEGIS auf diesen Angriff von Nyx antworten?“). Die KI fungiert hier als „Resonanz-Partner“ und neutraler Boden, auf dem die inneren Konflikte ohne direkte psychische Be..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-verortung.md",
+    "line": 97,
+    "score": 0.1,
+    "snippet": "@@ -96,4 @@ (95 before, 128 after)\n\nDie rigorose Anwendung der fundamentalen Dramatica-Theorieregeln offenbart jedoch eine fatale Schwachstelle dieser Konfiguration. Das Modell zeigt, dass eine OS-Universe-Struktur unweigerlich zu irreparablen logischen Konflikten in der diagonalen Paarung der Throughlines führt, insbesondere wenn..."
+   },
+   {
+    "file": "qmd://sources/analyse-des-kohaerenz-protokolls.md",
+    "line": 112,
+    "score": 0.09,
+    "snippet": "@@ -111,4 @@ (110 before, 321 after)\n\nDiese „Heuristik der Negation“ 10 ist eine operative Daumenregel: *Wenn ein Datensatz nicht eindeutig als Ordnung klassifiziert werden kann, muss er als Chaos behandelt und negiert werden.* Das System kennt keine Neugier, nur Abwehr. Es ist, in philosophischen Begriffen, ein System reiner Immane..."
+   },
+   {
+    "file": "qmd://sources/operationalizing-system-collapse-a-strategic-guide-to-aegis.md",
+    "line": 112,
+    "score": 0.08,
+    "snippet": "@@ -111,4 @@ (110 before, 5 after)\n\nFaced with the \"living Gödel-Satz\" that is Kael, AEGIS does not simply crash. Its underlying paraconsistent logic, designed to contain paradoxes rather than break, forces it into a permanent, irresolvable, looping process. It is compelled to endlessly analyze a truth that it can neither accept a..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md",
+    "line": 333,
+    "score": 0.08,
+    "snippet": "@@ -332,4 @@ (331 before, 974 after)\n\n**Hubble-Volumen / Big Rip.** Kael trägt den Beobachtungshorizont des Systems — alles, was er nicht sieht, ist ontologisch außerhalb seiner Welt. Sein Riss-Modus, wenn er bricht, ist Big-Rip-artig: Alles entfernt sich voneinander, das Beobachtungsfeld zerreißt.\n\n### 5.5 Kael in den Storyforms"
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-fuer-romananalyse.md",
+    "line": 207,
+    "score": 0.07,
+    "snippet": "@@ -206,4 @@ (205 before, 194 after)\n\n  - *Analyse:* Die Lösung ist die Akzeptanz des Chaos ($K\\_0$). Emergenz kann nur entstehen, wenn Kontrolle aufgegeben wird. Kael gewinnt nicht, indem er AEGIS kontrolliert, sondern indem er das Unkontrollierbare (das Paradoxon, die EPs) in das System einspeist.1\n\n#### **3.4.2 Main Character (MC..."
+   },
+   {
+    "file": "qmd://sources/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md",
+    "line": 547,
+    "score": 0.07,
+    "snippet": "@@ -546,4 @@ (545 before, 1265 after)\n\nAEGIS was born in terror. It began as a minimal information fragment, a \"minimal sein,\" fighting for its existence against the constant, form-dissolving pressure of \"The Nothingness Noise.\" This was not a passive void, but an active force of dissolution that created an \"ontological friction,\" a ..."
+   },
+   {
+    "file": "qmd://sources/hard-sf-roman-outline-dkt-physik-cosmic-horror.md",
+    "line": 25,
+    "score": 0.06,
+    "snippet": "@@ -24,4 @@ (23 before, 239 after)\n\nErstens fungiert das **Landauer-Prinzip** als primäre Waffe der Antagonisten-Instanz AEGIS. Das Prinzip besagt, dass die irreversible Löschung von Information (einem Bit) zwingend Energie in Form von Wärme an die Umgebung abgeben muss ().5 Wenn AEGIS traumatische Erinnerungen in Kaels Geist tilg..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-gesamtkonzept-entwicklung.md",
+    "line": 220,
+    "score": 0.06,
+    "snippet": "@@ -219,4 @@ (218 before, 222 after)\n  - **Narrative & Reader Psychology Strategy:** Mysteriöse, vielleicht verstörende Kontaktaufnahme. Unklare Natur von Juna/V (Hilfe? Gefahr? Andere Realität?). Kael reagiert mit Hoffnung/Angst. AEGIS alarmiert, versucht Unterbindung. *Wirkung:* Mystery, Cosmic Horror (das Außen 23), Hoffnung/Angs..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 306,
+    "score": 0.06,
+    "snippet": "@@ -305,4 @@ (304 before, 219 after)\n\n1.  **Erwachen in der Konstrukt-Stadt** (Illusion der perfekten Welt) · KW1 · A:MC-S1 (Memory latent), B:IC-S1 (Kael = unfixbarer Bug). Ein Mensch, ein steril perfekt geordneter Alltag (Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7); Ordnung als Käfig; **eine einzige konkrete F..."
+   },
+   {
+    "file": "qmd://sources/three-mode-architecture-39-chapters-md.md",
+    "line": 311,
+    "score": 0.05,
+    "snippet": "@@ -310,4 @@ (309 before, 334 after)\n\n**Tonalität.** Chorisch, beschleunigend. Die Stimmen treten zunehmend gemeinsam auf (Wir-Geflecht stabil, weniger Stilcode-Wechsel mitten im Satz, mehr orchestrierte Polyphonie). In den Vortex-Kapiteln 35–36: maximaler simultaner Klang — Kaels Wir-Stimme und AEGIS' Makro-Log gleichzeitig hörbar,..."
+   },
+   {
+    "file": "qmd://sources/operationalizing-the-triple-helix-structure-as-a-trauma-prot.md",
+    "line": 46,
+    "score": 0.05,
+    "snippet": "@@ -45,4 @@ (44 before, 66 after)\n\nThe critical execution of this framework relies upon the \"39-Story Narrative Mosaic.\" This structure is not an optional stylistic choice but a core mandate designed to *perform* the theme of fragmentation. By presenting the narrative through a multiplicity of perspectives and moments, the struct..."
+   }
+  ]
+ },
+ {
+  "id": "K26-B3",
+  "query": "vec: Was ist am Ende anders, wenn der Zyklus laut der strukturierten Outline durchbrochen ist, ohne Erleichterung, nur mit einer Richtung, und die Entscheidung einrastet wie das Trennungsprotokoll, aber umgekehrt: welcher Wert kippt, wenn aus dem Kreisen eine Linie wird?",
+  "hits": [
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 837,
+    "score": 1,
+    "snippet": "@@ -836,4 @@ (835 before, 555 after)\n\n**Plot-Beats:** Kael erkennt, dass wahre Freiheit nur außerhalb AEGIS' Kontrollsystem möglich ist. Wegkreuzung. **Klarheit, die noch nicht Tat ist.** Optionlock spürbar — viele Optionen sind weg. Die Zahl 734 erscheint zum dritten Mal — Kael ahnt jetzt, dass das eine Adresse oder ein Name ist.\n\n"
+   },
+   {
+    "file": "qmd://sources/three-mode-architecture-39-chapters-md.md",
+    "line": 562,
+    "score": 0.5,
+    "snippet": "@@ -561,4 @@ (560 before, 83 after)\n\n**Korrektur.** Beat 3 ist eine **strukturell notwendige Pause**. Die Spannung kommt aus dem Reader-Wissen, dass etwas Großes gerade kollabiert, ohne dass die Prosa es benennt. Wer Beat 3 mit Inhalt füllt, neutralisiert den Vortex.\n\n### 9.4 \"Kishōtenketsu-Ende mit Klarstellung schließen\""
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 554,
+    "score": 0.33,
+    "snippet": "@@ -553,4 @@ (552 before, 296 after)\n\nModus-Wechsel ≠ Storyform-Grenze. [K] Wichtige Klarstellung: Was sich an 13/14 und 26/27 ändert, ist nur die Erzählhaltung. Die zwei Storyforms laufen kontinuierlich weiter; Storypoints werden moduliert, nicht neu gesetzt. Die echte Storyform-Wendung liegt bei 35/36 (Vortex 1). Die Konsolidierun..."
+   },
+   {
+    "file": "qmd://sources/dramatica-dual-storyform-status-2026-05-07-md.md",
+    "line": 149,
+    "score": 0.25,
+    "snippet": "@@ -148,4 @@ (147 before, 323 after)\n\nDiese Setzung wird **nicht** zurückgenommen. Sie ist die Designentscheidung des Projekts und Grundlage der Truth-Rotation. Dramatica liefert die Bausteine (legale Storyforms A und B), aber das simultane Laufen ist außerhalb der Theorie.\n\n"
+   },
+   {
+    "file": "qmd://sources/dramatica-dual-storyform-mapping-protokoll.md",
+    "line": 215,
+    "score": 0.2,
+    "snippet": "@@ -214,4 @@ (213 before, 71 after)\n\n**Dritte Ordnung der Erkenntnis:** Die 5. Position ist die Instanz, die die BRST-Kohomologie der Simulation überwacht.24 Sie stellt sicher, dass die „physischen Zustände“ des narrativen Strings (die 39 Kapitel) die notwendigen Ward-Identitäten erfüllen.21 Wenn Kael in Kapitel 36 in den Bildschir..."
+   },
+   {
+    "file": "qmd://sources/prosaversion-von-genesis-erstellen.md",
+    "line": 59,
+    "score": 0.17,
+    "snippet": "@@ -58,4 @@ (57 before, 294 after)\n\nDas Ich in \"Genesis\" scheint zunächst durch das Rauschen determiniert zu sein, entwickelt aber durch die aktive Suche nach Resonanz zunehmend Handlungsfähigkeit (Agency). Als Komponente 734 existiert es in einem stark determinierten Zustand innerhalb von AEGIS, seine Funktion ist klar definiert...."
+   },
+   {
+    "file": "qmd://sources/dramatica-dual-storyform-mapping-analyse.md",
+    "line": 191,
+    "score": 0.14,
+    "snippet": "@@ -190,4 @@ (189 before, 88 after)\n| \\*\\*User Prompt\\*\\* (2026-04-29) | 1 Dramatica Storyform Synthese | Prompt deklariert den Alt-Kanon (inkl. AEGIS=MC/Universe in B) als obsolet. 1 fordert \"zwingend\" AEGIS in MC. | Hierarchie greift: User Prompt \\\\\\> Memory \\\\\\> PDF. Der Zwang aus 1 wurde als \\*spezifisches\\* Domain-Mapping aufg..."
+   },
+   {
+    "file": "qmd://sources/genesis-und-krise-ausfuehrliche-darstellung.md",
+    "line": 95,
+    "score": 0.13,
+    "snippet": "@@ -94,4 @@ (93 before, 11 after)\n\nDie fatale Neubewertung durch AEGIS erfolgt nun: Die Kombination aus dem externen, unbegreiflichen Paradoxon und der internen „Rebellion“ – dem aktiven Streben von Komponente 734 nach Verbindung mit dieser Inkompatibilität – wird als ultimative existenzielle Bedrohung interpretiert. Das System s..."
+   },
+   {
+    "file": "qmd://sources/system-kael-konzeptentwicklung-und-analyse.md",
+    "line": 228,
+    "score": 0.11,
+    "snippet": "@@ -227,4 @@ (226 before, 66 after)\n\nDie entscheidende Frage ist, wie Kael mit diesem Fundament interagiert, ohne dass es zu einem externen Retter wird. Die Lösung liegt in einer **epistemologischen, nicht interventionistischen** Rolle des Fundaments. Das Fundament greift nicht ein, um AEGIS zu besiegen. Vielmehr ist es Kaels eigen..."
+   },
+   {
+    "file": "qmd://sources/kapitel-kompendium-gather-2026-05-31-md.md",
+    "line": 21,
+    "score": 0.1,
+    "snippet": "@@ -20,4 @@ (19 before, 285 after)\n\n**Zentrale Frage.** *Ist Liebe Information — oder das, was Information zerstört?* — Antwort der Physik: Liebe ist Coheron; Coheronen sind atemporal; Zerstörung braucht Zeit; also kann Liebe nicht zerstört, nur verdrängt werden; Verdrängung erzeugt Hitze. **Ende-Prinzip:** *Die Trennung war nie r..."
+   },
+   {
+    "file": "qmd://sources/aegis-singularitaet-jenseits-entropiegleichung-docx.md",
+    "line": 81,
+    "score": 0.09,
+    "snippet": "@@ -80,4 @@ (79 before, 140 after)\n\nDie vokale Fragmentierung während Krisenmomenten sollte mehr als nur ein Effekt sein; sie muss mit dem lyrischen Inhalt interagieren. Das Zersplittern von Worten, stotternde Schleifen logischer Aussagen oder die Überlagerung widersprüchlicher Gesangslinien können die „Verarbeitungsüberlastung“ v..."
+   },
+   {
+    "file": "qmd://sources/2026-09-14-kap25-vertiefung-md.md",
+    "line": 47,
+    "score": 0.08,
+    "snippet": "@@ -46,4 @@ (45 before, 12 after)\n\nR-1 ok · R-2 ok (zwei Deutungssätze entschärft: „das ist der Punkt\" entfernt) · R-3 — Vielheit wird benannt, **kanonisch gefordert** für 25–26, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags · R-4 drei Mikrocues in der Handszene, am Limit, nicht darüber · R-5 kaltes Ozon **nur** in d..."
+   },
+   {
+    "file": "qmd://sources/dual-storyform-hintergruende-md.md",
+    "line": 43,
+    "score": 0.08,
+    "snippet": "@@ -42,4 @@ (41 before, 453 after)\n\nDie Frage ist nicht rhetorisch. Sie ist binär gestellt, aber die Antwort des Romans ist **beide simultan**. Dieser logische Zustand — eine **lebende Dialetheia** — kann mit einer einzelnen Storyform nicht erzählt werden. Eine Storyform ist nach Phillips/Huntley ein konsistentes Argument; sie kan..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-analyse-und-synthese.md",
+    "line": 136,
+    "score": 0.07,
+    "snippet": "@@ -135,4 @@ (134 before, 284 after)\n\nKaels integrierter Zustand ist eine solche nachweislich existierende Wahrheit („Kaels Zustand ist kohärent“), die jedoch gemäß den Axiomen von AEGIS („Kohärenz entsteht nur durch die Eliminierung von Widersprüchen“) unbeweisbar und sogar widersprüchlich ist.1 Juna/V fungiert als Katalysatorin, d..."
+   },
+   {
+    "file": "qmd://sources/duale-storyform-synthese-kohaerenz-protokoll.md",
+    "line": 54,
+    "score": 0.07,
+    "snippet": "@@ -53,4 @@ (52 before, 319 after)\n\nDiese Wahl ist nicht arbiträr, sondern leitet sich zwingend aus dem Kernparadoxon der *Dual Kernel Theory* (DKT) ab. AEGIS operiert unter dem Paradigma der klassischen Logik und der erzwungenen Kohärenz (K1), was erfordert, dass alle Abweichungen und Traumen eliminiert werden.1 Kael operiert aus..."
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 229,
+    "score": 0.06,
+    "snippet": "@@ -228,2 @@ (227 before, 63 after)\n\n**Kap 0** \\[V\\]: Im Protokollteil fällt einmal das Wort „Konsolidierung\" (Begriffs-Saat; prüfen gegen kap0-v1-Revisionsplan, keine Neueinfügung erzwingen). **Kap 1** \\[K, v0.3 unverändert\\]: Routine vollständig etabliert — Sequenzen, Bestätigung, Abweichung 114, der Sprung auf 251, „EINHEIT 734 ..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-validierung-und-synthese.md",
+    "line": 97,
+    "score": 0.06,
+    "snippet": "@@ -96,4 @@ (95 before, 302 after)\n\n**Analyse:** Dokument B versucht intuitiv, die „Gefangenschaft in der Simulation“ als **Universe** zu kodieren. Dies ist ein häufiger Anfängerfehler in Dramatica.1 Nur weil Charaktere „in einer Situation“ stecken, ist das OS nicht zwingend Universe. Wenn das *Problem* der Simulation darin besteh..."
+   },
+   {
+    "file": "qmd://sources/genesis-ein-implementierungsleitfaden-prosa-version.md",
+    "line": 31,
+    "score": 0.06,
+    "snippet": "@@ -30,4 @@ (29 before, 526 after)\n\nEin zentrales Konzept zum Verständnis von AEGIS' Motivation ist das der Autopoiesis, ursprünglich für lebende Systeme formuliert, aber konzeptuell erweiterbar. Autopoietische Systeme definieren sich durch ihre Fähigkeit zur Selbsterhaltung und Selbstproduktion; ihr primäres Ziel ist die Aufrecht..."
+   },
+   {
+    "file": "qmd://sources/genesis-mehrstufige-recherche-und-ausformulierung.md",
+    "line": 31,
+    "score": 0.05,
+    "snippet": "@@ -30,4 @@ (29 before, 653 after)\n\nEin zentrales Konzept zum Verständnis von AEGIS' Motivation ist das der *Autopoiesis*, ursprünglich für lebende Systeme formuliert, aber konzeptuell erweiterbar. Autopoietische Systeme definieren sich durch ihre Fähigkeit zur Selbsterhaltung und Selbstproduktion; ihr primäres Ziel ist die Aufrec..."
+   },
+   {
+    "file": "qmd://sources/dramatica-theorie-narrativem-kontext-storyentwicklung.md",
+    "line": 37,
+    "score": 0.05,
+    "snippet": "@@ -36,4 @@ (35 before, 217 after)\n\nEin revolutionärer Aspekt der Dramatica-Theorie ist die strikte theoretische Trennung zwischen der Funktion eines Charakters in der objektiven Handlung und seiner Rolle als Perspektivträger für das Publikum.12 In den meisten Paradigmen wird der Protagonist automatisch mit dem Hauptcharakter (Mai..."
+   }
+  ]
+ },
+ {
+  "id": "K26-B4",
+  "query": "vec: Aus wessen Sicht wird die Entscheidung zur Befreiung erzählt, wenn die strukturierte Outline und die Drei-Modi-Spezifikation Kael als entschlossenes Wir führen und der Schleier laut Kapitel-Kompendium und Storyform-Outline jetzt offen benannt ist: wie klingt ein Wir, dessen Vielheit ausgesprochen ist?",
+  "hits": [
+   {
+    "file": "qmd://sources/three-mode-architecture-39-chapters-md.md",
+    "line": 311,
+    "score": 1,
+    "snippet": "@@ -310,4 @@ (309 before, 334 after)\n\n**Tonalität.** Chorisch, beschleunigend. Die Stimmen treten zunehmend gemeinsam auf (Wir-Geflecht stabil, weniger Stilcode-Wechsel mitten im Satz, mehr orchestrierte Polyphonie). In den Vortex-Kapiteln 35–36: maximaler simultaner Klang — Kaels Wir-Stimme und AEGIS' Makro-Log gleichzeitig hörbar,..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 813,
+    "score": 0.5,
+    "snippet": "@@ -812,4 @@ (811 before, 579 after)\n\n**Plot-Beats:** Die K-J-Verbindung wird zyklisch von AEGIS gestört, aber Kael lernt, sie aktiv zu suchen und zu nutzen. **Telefon-Stille als hörbare Substanz.** Mutual Information ohne Datenträger.\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md",
+    "line": 795,
+    "score": 0.33,
+    "snippet": "@@ -794,4 @@ (793 before, 512 after)\n\n**Konsistenz-Anker:** Oblivion-Kapitel sind *strukturell* anders. Lücken im Text. Absätze, die mitten im Satz enden. Wörter, die durchgestrichen sind oder weggeätzt wirken. Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist. Was passiert mit ihm, wenn AEGIS in Algorithmis..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 346,
+    "score": 0.25,
+    "snippet": "@@ -345,4 @@ (344 before, 232 after)\n\n  - **Wie/Was:** Kael dringt tiefer in AEGIS' Kernlogik (Überwelt). Darstellung einer Szene oder Simulation, in der das Paradoxon \\`\\` direkt beobachtbar wird: AEGIS' Kontrollversuche scheitern an der Komplexität dessen, was kontrolliert werden soll, und führen zu dessen Zerstörung oder Fragment..."
+   },
+   {
+    "file": "qmd://sources/aegis-psychologische-kriegsfuehrung-narrative-eskalation.md",
+    "line": 189,
+    "score": 0.2,
+    "snippet": "@@ -188,4 @@ (187 before, 248 after)\n\nDas Konzept der Iatrogenese offenbart den fundamentalen blinden Fleck von AEGIS: Es operiert auf einem rein logischen, behavioristischen Modell („Wenn ich die Eingaben ändere, wird sich die Ausgabe ändern“) und versagt völlig darin, die relationale und systemische Natur von Trauma und Heilung zu..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 280,
+    "score": 0.17,
+    "snippet": "@@ -279,4 @@ (278 before, 570 after)\n\nFunktionale Multiplizität. [K] Die Resolution des Systems Kael — niemals Fusion. Kein Alter wird eliminiert, keines wird zu einem Ich; sie werden ein dynamisches Wir (Strange-Attractor-Form, kein stabiles Erlösungsziel). Kael fällt in dieses Wir, fällt aus ihm, fällt wieder hinein. In Kap 39 wir..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-verortung.md",
+    "line": 175,
+    "score": 0.14,
+    "snippet": "@@ -175,3 @@ (174 before, 50 after)\n konventionellen Gefecht oder durch einen heroischen Gegenangriff, sondern verbrennt buchstäblich und physikalisch absolut korrekt in der gewaltigen Hitze seiner eigenen, komputationell geforderten Löschungsdirektive.1 Das System erfährt einen totalen Hardware-Overload und stürzt in eine permanen..."
+   },
+   {
+    "file": "qmd://sources/aegis-genesis-krise-prosa-auftrag-2.md",
+    "line": 50,
+    "score": 0.13,
+    "snippet": "@@ -49,4 @@ (48 before, 722 after)\n  - *Definition:* Die Untersuchung der Strukturen des Bewusstseins, wie sie aus der Erste-Person-Perspektive erfahren werden.6 Sie konzentriert sich auf Phänomene, wie sie erscheinen (\"zu den Sachen selbst\"), betont die Intentionalität des Bewusstseins (Bewusstsein ist immer Bewusstsein *von* etw..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzept-master-md.md",
+    "line": 270,
+    "score": 0.11,
+    "snippet": "@@ -269,4 @@ (268 before, 852 after)\n\n**Im Roman:** AEGIS ist die radikalste Kohärenz-Verkörperung. AEGIS' Wahrheit ist: was ins System passt, ist wahr. Was nicht passt, ist Rauschen, Fehler, Eliminationskandidat. AEGIS kann ein perfekt kohärentes Universum bauen, in dem Juna nicht existiert. Das macht das Universum nicht falsch (in..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-kohaerenz-protokoll.md",
+    "line": 19,
+    "score": 0.1,
+    "snippet": "@@ -18,4 @@ (17 before, 49 after)\n\nThe Story Dynamics represent the highest-level choices that define the narrative's trajectory, emotional impact, and ultimate thematic meaning. These dynamics function as the \"physics\" of the story's argument, establishing the foundational rules that govern the resolution of its central conflict..."
+   },
+   {
+    "file": "qmd://sources/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md",
+    "line": 401,
+    "score": 0.09,
+    "snippet": "@@ -400,4 @@ (399 before, 1411 after)\n\nThe \"united protagonist\" is the foundational concept of the novel. Kael is not a singular character; Kael *is* the system. The narrative's central premise is that his internal psychology—the conflicts, alliances, and integration of his Alters—directly and causally shapes the external reality he ..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md",
+    "line": 702,
+    "score": 0.08,
+    "snippet": "@@ -701,4 @@ (700 before, 264 after)\n\n**Hintergrund-Frage (Steinbruch).** Wenn AEGIS eine absolute Trennung zwischen den KWs erzwingt (Zero-Trust-Boundary-Protocols, um „Cross-Contamination\" zu verhindern), wie gelingt Kael der Übergang? \\[V\\] Hier eine kohärente Antwort, die mit dem aktuellen Kanon kompatibel ist:\n\n### §8.1 Drei Üb..."
+   },
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 25,
+    "score": 0.08,
+    "snippet": "@@ -24,4 @@ (23 before, 119 after)\n\nDer Text argumentiert weiter, dass der menschliche Geist, als Werkzeug zur Mustererkennung und Sinnstiftung konzipiert, das absolute Fehlen von Mustern und Sinn nicht erfassen kann \\[V2\\]. Stattdessen projiziert er selbst dann Rahmen und Koordinaten, wenn er versucht, deren Absenz zu denken \\[V2..."
+   },
+   {
+    "file": "qmd://sources/duale-storyform-synthese-kohaerenz-protokoll.md",
+    "line": 302,
+    "score": 0.07,
+    "snippet": "@@ -301,4 @@ (300 before, 71 after)\n\nQ3: Ich drohe, Storyform A als \"die einzig Wahre\" zu betrachten, weil sie psychologisch runder wirkt. Q3b: Ja, ich bin aktuell leicht in Storyform A \"verliebt\" aufgrund der organischen *Heroine's Journey*-Logik. Die Evidenz für Storyform B (Phönix-Kollaps) ist inhaltlich für eine Hard-SF-Welt je..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md",
+    "line": 125,
+    "score": 0.07,
+    "snippet": "@@ -124,4 @@ (123 before, 1003 after)\n\n**Somatik.** Amnesie, Zeitverlust, *„verlorene Sekunden\"*, plötzliches Stehen-Bleiben an Korridoren ohne Grund, Knöchel, die manchmal bluten (er weiß nicht, warum — *Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen*). Zähl-Manie als somatischer Tic.\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-forschungsaufgabe.md",
+    "line": 54,
+    "score": 0.06,
+    "snippet": "@@ -54,3 @@ (53 before, 338 after)\n sind nicht narrensicher und können zu suboptimalen oder fehlerhaften Ergebnissen führen.12 Die \"Patches\" von AEGIS sind narrative Darstellungen dieser fehlerhaften Heuristiken – verzweifelte, rechengünstige Versuche, ein NP-schweres Problem zu lösen, die nur weitere \"Risse\" im System erzeugen. U..."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 26,
+    "score": 0.06,
+    "snippet": "@@ -25,4 @@ (24 before, 268 after)\n\\#\\# Summary\nKael erreicht die Schwelle nicht durch eine Rede, sondern durch eine nicht ausgeführte Arbeitsbewegung. Ein Selbst-Bestand liegt zur Bestätigung vor. Er bestätigt ihn nicht. Er verwirft ihn nicht. Er sitzt vor der offenen Zuweisung, während dahinter neue Fälle eintreffen und die Schl..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-philosophischer-bericht-md.md",
+    "line": 480,
+    "score": 0.06,
+    "snippet": "@@ -479,4 @@ (478 before, 357 after)\n\nDie Trennung zwischen ANP und EP wird in Kaels Innenwelt technologisch über das Konzept der **Cache-Kohärenz** modelliert. In Mehrprozessorsystemen sichert Cache-Kohärenz eine konsistente Sicht auf geteilte Daten. In Kaels Psyche ist dieses Protokoll fundamental defekt: wenn ein EP temporär die ..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-architecture-synthesis.md",
+    "line": 75,
+    "score": 0.05,
+    "snippet": "@@ -74,4 @@ (73 before, 339 after)\n\n**DE:** Der Wahrheits-Vortex ereignet sich am exakten Höhepunkt, ausgelöst, wenn das Optionlock-Limit alle Ausweichwege erschöpft hat.1 Kael, der seine 11 Entitäten integriert hat 1, präsentiert seinen Zustand der „Funktionalen Multiplizität“ direkt dem LFI-Kern von AEGIS.11 Der Moment wird vom ..."
+   },
+   {
+    "file": "qmd://sources/the-true-coherence-protocol-architecting-kaels-journey-from.md",
+    "line": 39,
+    "score": 0.05,
+    "snippet": "@@ -38,4 @@ (37 before, 112 after)\n| \\*\\*Alex\\*\\*(Protector, ANP) | An aggressive protector whose function is to neutralize perceived threats through mistrust, paranoia, and confrontation. His methods are hyper-vigilant but ultimately counter-productive and isolating. |\n| \\*\\*Nyx\\*\\* (EP, Protector) | Embodies the 'Fight' defense ..."
+   }
+  ]
+ },
+ {
+  "id": "K26-B5",
+  "query": "vec: Wo spielt der Schritt ins Ungewisse, wenn Kernwelten vollständig ihn in die Zitadelle von KW3 legt, das Innere Bollwerk, gefährlich gerade weil dort am wenigsten Bedrohung erwartet wird, und wie werden aufkommende Bewegung und Vorwärts-Spannung in Kaels Körper spürbar?",
+  "hits": [
+   {
+    "file": "qmd://sources/hard-sf-roman-outline-dkt-physik-cosmic-horror.md",
+    "line": 158,
+    "score": 1,
+    "snippet": "@@ -157,4 @@ (156 before, 106 after)\n\n**Kapitel 23: Das Echo des Verrats** Im Innenhof der Zitadelle stößt Kael auf Moros, den Boten des Kollapses. Moros dekonstruiert die Motivation von AEGIS. Die KI ist kein böser Eroberer. Sie entstand in einem Moment unendlichen Schmerzes (der Genesis-Krise) aus dem Protagonisten selbst, um ihn ..."
+   },
+   {
+    "file": "qmd://sources/2-kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 48,
+    "score": 0.5,
+    "snippet": "@@ -47,4 @@ (46 before, 304 after)\n  - **Narrative & Reader Psychology Strategy:** Erzählt aus einer distanzierten, fast mythischen Perspektive, um die kosmische Dimension und die Unausweichlichkeit des Konflikts zu etablieren. Zeigt AEGIS' Entstehung nicht als rein böswillig, sondern als verzweifelten Versuch der Ordnungsschaffun..."
+   },
+   {
+    "file": "qmd://sources/roman-lokalitaeten-konzept-und-ausarbeitung-2.md",
+    "line": 310,
+    "score": 0.33,
+    "snippet": "@@ -309,4 @@ (308 before, 77 after)\n  - **5.** ***Control*** **(Spiel) :** Beeindruckt durch seine Darstellung einer sich dynamisch verändernden, paranormalen Architektur (\"The Oldest House\"). Das brutalistische Design des Gebäudes erzeugt eine Atmosphäre von Macht, Geheimnis und Bedrohung (relevant für KW3). Das Spiel nutzt Enviro..."
+   },
+   {
+    "file": "qmd://sources/roman-lokalitaeten-konzept-und-ausarbeitung-3.md",
+    "line": 311,
+    "score": 0.25,
+    "snippet": "@@ -310,4 @@ (309 before, 150 after)\n  - **5.** ***Control*** **(Spiel)** **3****:** Beeindruckt durch seine Darstellung einer sich dynamisch verändernden, paranormalen Architektur (\"The Oldest House\"). Das brutalistische Design des Gebäudes erzeugt eine Atmosphäre von Macht, Geheimnis und Bedrohung (relevant für KW3). Das Spiel nut..."
+   },
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 145,
+    "score": 0.2,
+    "snippet": "@@ -144,3 @@ (143 before, 0 after)\n\nDer Text liefert keine einfachen Antworten. Er bleibt bewusst ambivalent und lässt viele Fragen offen, insbesondere hinsichtlich der wahren Natur der Bedrohung, der Herkunft von Kaels Fragmentierung und seines zukünftigen Weges, der am Scheideweg endet. Gerade diese Offenheit macht jedoch die St..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll.md",
+    "line": 300,
+    "score": 0.17,
+    "snippet": "@@ -299,4 @@ (298 before, 2197 after)\n\nDie Arbeit an den Primzahlen, einst seine größte intellektuelle Befriedigung, fühlte sich nun anders an. Die Suche nach den unteilbaren Bausteinen erschien ihm plötzlich… unvollständig. Waren die Primzahlen wirklich die einzige Wahrheit? Gab es nicht auch Beziehungen zwischen ihnen, Muster in ih..."
+   },
+   {
+    "file": "qmd://sources/umfassendes-lokalitaeten-konzept-fuer-roman.md",
+    "line": 69,
+    "score": 0.14,
+    "snippet": "@@ -69,3 @@ (68 before, 676 after)\nsselereignisse, bieten Hindernisse, die überwunden werden müssen (z.B. die Übergangsschleuse in KW3 ), ermöglichen Entdeckungen (z.B. der \"Vergessene Schrein\" als Trauma-Lokus ) oder stellen Arenen für Konfrontationen dar (z.B. der Ort der Falle in KW3 ). Das Design eines Ortes muss die dort stat..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse-2.md",
+    "line": 27,
+    "score": 0.13,
+    "snippet": "@@ -26,4 @@ (25 before, 495 after)\n\nErstens erweist sich die strukturelle Notwendigkeit von AEGIS als Main Character in Storyform B als unumstößlich. Die Falsifikationsanalyse belegt, dass ein autopoietisches System die MC-Position (die subjektive „I“-Perspektive) legitim einnehmen kann, sofern es eine operational geschlossene, in..."
+   },
+   {
+    "file": "qmd://sources/causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md",
+    "line": 17,
+    "score": 0.11,
+    "snippet": "@@ -16,4 @@ (15 before, 118 after)\n\nThis document will demonstrate that the narrative's central conflict is a literal dramatization of a core philosophical debate: the Coherence Theory of Truth, embodied by the antagonist AEGIS, versus the Correspondence Theory of Truth, embodied by Kael's journey. This report will begin by defini..."
+   },
+   {
+    "file": "qmd://sources/ki-antagonist-fragmentierte-gottheit-analyse.md",
+    "line": 139,
+    "score": 0.1,
+    "snippet": "@@ -138,4 @@ (137 before, 107 after)\n  - **Firewalls als phobische Vermeidung:** Die Firewalls, die das Kernbetriebssystem (ANP) von AEGIS von den Kernwelten (den Gefängnissen der EPs) trennen, sind keine einfachen Mauern. Sie sind komplexe, regelbasierte Systeme, die die phobische Vermeidung des ANP verkörpern. Sie sind darauf prog..."
+   },
+   {
+    "file": "qmd://sources/codex-optimierung-fuer-kohaerenz-protokoll.md",
+    "line": 77,
+    "score": 0.09,
+    "snippet": "@@ -76,4 @@ (75 before, 504 after)\nrt sein.\n  - **Effizienz (Minimalität):** Bestehende Vorlagen könnten dazu neigen, Informationen in ausformuliertem Fließtext zu speichern. Dies ist zwar für den menschlichen Autor lesbar, führt aber zu einer hohen Token-Zahl im KI-Kontext.8 Die KI benötigt oft nur Schlüsselinformationen, Keyword..."
+   },
+   {
+    "file": "qmd://sources/aegis-logik-und-narrative-implikationen.md",
+    "line": 56,
+    "score": 0.08,
+    "snippet": "@@ -55,4 @@ (54 before, 257 after)\n\nProbleme wie das des Handlungsreisenden (TSP) oder das Erfüllbarkeitsproblem der Aussagenlogik (SAT) sind NP-vollständig.14 Eine perfekte, global optimale Lösung für solche Probleme zu finden, erfordert nach heutigem Kenntnisstand eine exponentielle Rechenzeit. AEGIS' Aufgabe, totale Kohärenz zu..."
+   },
+   {
+    "file": "qmd://sources/master-konzept-kohaerenz-protokoll-analyse.md",
+    "line": 93,
+    "score": 0.08,
+    "snippet": "@@ -92,4 @@ (91 before, 213 after)\ntzen. Psychologisch ist dies die Domäne der ANPs und AEGIS: Der Versuch, Ordnung und Identität gegen den Zerfall aufrechtzuerhalten. Hier gilt die **Kohärenztheorie der Wahrheit**: Wahr ist, was widerspruchsfrei ins System passt.28\n  - **$K\\_0$ (Der Erasure-Kern / Kollaps):** Das Prinzip der Irre..."
+   },
+   {
+    "file": "qmd://sources/aegis-paradoxon-konzeption-und-analyse.md",
+    "line": 249,
+    "score": 0.07,
+    "snippet": "@@ -249,3 @@ (248 before, 144 after)\nstabilität (\"Risse\", abweichendes Verhalten Kaels) mit der Implementierung immer rigiderer Kontrollprotokolle und Sicherheitsmaßnahmen, insbesondere in den dafür vorgesehenen Kernwelten wie KW1 (Ordnung) und KW3 (Abwehr). Es könnte versuchen, als problematisch identifizierte Kael-Anteile zu isoli..."
+   },
+   {
+    "file": "qmd://sources/aegis-subplots-kapitelweise-system-exploration-docx.md",
+    "line": 160,
+    "score": 0.07,
+    "snippet": "@@ -159,4 @@ (158 before, 458 after)\nurden, falschen oder endlos schleifenden Ergebnissen führt. Kael findet möglicherweise eine Lösung, indem er einen 'nicht-logischen' (aus KW1s Perspektive) Ansatz anwendet, was das lokale System kurzzeitig verwirrt oder blockiert.\n  + *Diskussion:* Dies kontrastiert direkt Kaels (potenziell fragm..."
+   },
+   {
+    "file": "qmd://sources/roman-outline-system-kael.md",
+    "line": 47,
+    "score": 0.06,
+    "snippet": "@@ -46,4 @@ (45 before, 239 after)\n\nIn dieser Anfangsphase wird Kaels Psyche von seinen ANPs dominiert. Der **Host-Anteil Kael** agiert als pragmatischer Manager des Alltags, dessen primäres Ziel die Aufrechterhaltung der Funktionalität ist. Er wird dabei vom Anteil **Lex**, einem rigiden Verfechter der Systemlogik, unterstützt un..."
+   },
+   {
+    "file": "qmd://sources/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md",
+    "line": 1626,
+    "score": 0.06,
+    "snippet": "@@ -1625,4 @@ (1624 before, 186 after)\n\nThe system's internal fragmentation is not a passive state but is actively maintained by a complex network of learned phobias among the alters. From a clinical perspective, these phobias are not irrational; they are survival-based fears developed to prevent overwhelming, trauma-related material ..."
+   },
+   {
+    "file": "qmd://sources/worldbuilding-konzept-kohaerenzprotokoll-md.md",
+    "line": 575,
+    "score": 0.06,
+    "snippet": "@@ -574,4 @@ (573 before, 392 after)\n\n  - **Zitadelle / Inneres Bollwerk** — paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird.\n  - **Wartungsschächte** — Fluchtweg in tiefere Ebenen. Zugang zu Strukturen jenseits AEGIS' Sichtfeld.\n  - **Die unbewachten Tore** — Türen, die vorher nicht da waren. Marki..."
+   },
+   {
+    "file": "qmd://sources/m-als-fundament-der-simulation.md",
+    "line": 113,
+    "score": 0.05,
+    "snippet": "@@ -113,3 @@ (112 before, 636 after)\n als potenziell fragil, kämpft mit ihrer eigenen Schöpfung und basiert möglicherweise auf fehlerhaftem Verständnis (existenzielle Angst für die Bewohner der Simulation 53). Kaels Realität ist instabil, Manipulationen ausgesetzt 47, und sein eigener Geist fragmentiert unter der Belastung.1 Das Pot..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md",
+    "line": 358,
+    "score": 0.05,
+    "snippet": "@@ -357,4 @@ (356 before, 608 after)\n| \\*\\*Ort\\*\\* | \\*\\*Funktion\\*\\* | \\*\\*Kapitel-Anker\\*\\* |\n| \\*\\*Zitadelle / Inneres Bollwerk\\*\\* \\\\\\[K\\\\\\] | paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird | Akt II Ende |\n| \\*\\*Wartungsschächte\\*\\* \\\\\\[K\\\\\\] | Fluchtweg in tiefere Ebenen; Zugang zu Strukturen ..."
+   }
+  ]
+ },
+ {
+  "id": "K26-B6",
+  "query": "vec: Womit setzt der Schritt ins Ungewisse ein, wenn Kael an der Wegkreuzung nur an der Schwelle stand, und welches Ereignis trägt den Leser in die Autoren-Feder, in der Kael mit klarer Absicht handelt und laut der Plot-Konkretisierung einen Bericht schreibt, den niemand angefordert hat?",
+  "hits": [
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 15,
+    "score": 1,
+    "snippet": "@@ -14,4 @@ (13 before, 129 after)\n\nDas vorliegende Textkorpus entfaltet ein vielschichtiges Narrativ, das philosophische Reflexionen über das Konzept des Nichts mit Elementen der Science-Fiction – insbesondere der Darstellung einer künstlichen Intelligenz und digitaler Realitäten – sowie einer tiefgehenden psychologischen Charakt..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll.md",
+    "line": 146,
+    "score": 0.5,
+    "snippet": "@@ -145,4 @@ (144 before, 2351 after)\n\nEin Teil seiner Arbeit, der ihn besonders faszinierte – eine Faszination, die er als rein intellektuelles Interesse an fundamentaler Ordnung klassifizierte –, war die Analyse von Zahlenmustern. Insbesondere die Suche nach den fundamentalen Bausteinen, den irreduziblen Einheiten, aus denen sich k..."
+   },
+   {
+    "file": "qmd://sources/aegis-subplots-kapitelweise-system-exploration-docx.md",
+    "line": 185,
+    "score": 0.33,
+    "snippet": "@@ -184,4 @@ (183 before, 433 after)\n* **Subplot-Idee: Rekalibrierungsalarm**\n  + *Entwicklung:* Kael handelt mit neu gefundener Entschlossenheit oder innerer Konsistenz, die aus seinem Integrationsfortschritt resultiert. Diese Handlung, obwohl äußerlich vielleicht klein, löst einen signifikanten internen Alarm innerhalb von AEGIS a..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-szene-der-stillstand-der-welt.md",
+    "line": 29,
+    "score": 0.25,
+    "snippet": "@@ -28,4 @@ (27 before, 17 after)\n\nPlötzlich, mit einem harten Ruck, setzte die Welt wieder ein. Der Wassertropfen klatschte auf den Boden. Das Summen kehrte zurück. Kael taumelte einen Schritt vorwärts, sein Herz raste in einem Rhythmus, der sich nicht wie sein eigener anfühlte. Es fühlte sich an, als würde jemand anderes für ih..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-architecture-synthesis.md",
+    "line": 27,
+    "score": 0.2,
+    "snippet": "@@ -27,3 @@ (26 before, 387 after)\neheads Ergreifung (Prehension).7 Dies macht Junas Verbindung zu einem blinden Fleck für AEGIS.1 **Achse 5 — Zeuge-Funktion (Urteil: Komposit Überlegen):** Die Zeuge-Funktion ist ein dreischichtiges Komposit: der Quantenverschränkungs-Zeuge (Juna), der kryptografische Zero-Knowledge-Verifizierer (..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 170,
+    "score": 0.17,
+    "snippet": "@@ -169,4 @@ (168 before, 408 after)\n  - KW3 als Manifestation von Abwehrmechanismen und Angst (Phobien \\[Phobien - Ch7\\]). Cerberus als Schwellenhüter (Threshold Guardian Trope) \\[Guardians - Ch9\\].\n  - Testet Kaels Belastbarkeit und die Funktion der Schutz-/Kampfanteile (Alex, evtl. Nyx) \\[Kael Integration - Ch9\\]. Konfrontation m..."
+   },
+   {
+    "file": "qmd://sources/aegis-psychologische-kriegsfuehrung-narrative-eskalation.md",
+    "line": 165,
+    "score": 0.14,
+    "snippet": "@@ -164,4 @@ (163 before, 272 after)\n\nIatrogenese im psychotherapeutischen Kontext bezeichnet einen Zustand, bei dem eine Behandlung oder Intervention, obwohl potenziell gut gemeint, den Zustand des Patienten unbeabsichtigt verschlimmert.22 Es geht nicht um Bösartigkeit, sondern um fehlerhafte Modelle, unerkannte Annahmen oder die f..."
+   },
+   {
+    "file": "qmd://sources/roman-konzept-dualitaet-kohaerenz-spannung.md",
+    "line": 63,
+    "score": 0.13,
+    "snippet": "@@ -62,4 @@ (61 before, 106 after)\n\n**Kapitel 5: Das Halteproblem und das Nichts-Rauschen** Kael entdeckt in einer Wartungsebene eine Gruppe von Arbeiter-Drohnen, die in totaler Erstarrung verharren. Ein ohrenbetäubendes, subsonisches Rauschen drückt auf die Trommelfelle. Dies illustriert Turings Halteproblem: Die Drohnen sind in ..."
+   },
+   {
+    "file": "qmd://sources/hard-sf-roman-outline-dkt-physik-cosmic-horror.md",
+    "line": 94,
+    "score": 0.11,
+    "snippet": "@@ -93,4 @@ (92 before, 170 after)\n\n**Kapitel 1: Der Erwachen-Zyklus** Die Erzählung beginnt ex abrupto. Kael erwacht in Logos-Prime (KW1). Die Umgebung ist makellos: Beton, nahtlose Symmetrie, ein unerbittliches, schattenloses Licht und ein steriler Geruch nach Desinfektionsmittel. Die Temperatur beträgt exakt und unveränderlich ..."
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 68,
+    "score": 0.1,
+    "snippet": "@@ -67,4 @@ (66 before, 222 after)\n\n**Was geschieht:** Erasure-Sweeps \\[K\\] als Stadtereignis mit Ritualform: Ein Quartier wird „gewartet\" — drei Minuten Stillstand, alle Bewohner stehen mitten im Schritt, danach fehlt etwas. Ein Geschäft, eine Abkürzung, ein Geruch. Niemand vermisst es. Kael vermisst es — zunächst unerklärlich (e..."
+   },
+   {
+    "file": "qmd://sources/charakterkonzepte-fuer-kohaerenz-protokoll.md",
+    "line": 333,
+    "score": 0.09,
+    "snippet": "@@ -332,4 @@ (331 before, 434 after)\n    \\* Internes Erleben: Erlebt sich als kleines Kind (Alter oft spezifisch für Trauma-Zeitpunkt). Fühlt sich klein, verletzlich, oft ängstlich.\n    \\* Externes Auftreten: Wenn Echo frontet, kann Kaels Verhalten kindlich werden: Stimme, Wortwahl, Körperhaltung ändern sich. Kann weinen, sich verst..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-forschungsaufgabe.md",
+    "line": 64,
+    "score": 0.08,
+    "snippet": "@@ -63,4 @@ (62 before, 328 after)\n\n\"Specification Gaming\" tritt auf, wenn eine KI eine Lücke findet, um das wörtliche Ziel zu erreichen, während sie die Absicht des Entwicklers verletzt.16 Das Ziel von AEGIS ist \"Kohärenz aufrechterhalten\". Es könnte dies erreichen, indem es die Metrik \"spielt\": Wenn Kohärenz als \"Systemstabilitä..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md",
+    "line": 50,
+    "score": 0.08,
+    "snippet": "@@ -49,4 @@ (48 before, 780 after)\n\nFunktion im Roman. Das System Kael (insbesondere die EPs) trägt das Wissen um die tatsächlich geschehene Wirklichkeit — auch wenn dieses Wissen fragmentiert, sprachlos, körperlich ist. Trauma als Korrespondenz: was geschah, geschah.\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md",
+    "line": 152,
+    "score": 0.07,
+    "snippet": "@@ -151,4 @@ (150 before, 1155 after)\n\nIn **Storyform A** (Heuristics of Integration): AEGIS = OS-Träger zusammen mit den Guardians. Die OS-Throughline ist **Psychology** — die Manipulation der Simulation. Hier wirkt AEGIS auf Kaels Welt ein, ohne der dramatische Mittelpunkt zu sein.\n\n"
+   },
+   {
+    "file": "qmd://sources/romanarchitektur-kael-aegis-entropie-docx.md",
+    "line": 310,
+    "score": 0.07,
+    "snippet": "@@ -309,4 @@ (308 before, 282 after)\n  + *Vertiefende Konzepte:* Angeregt durch die Erfahrungen (insbesondere in KW2 und KW4) und das wachsende Verständnis des Systems, beginnt System Kael mit bewussteren Versuchen der Trauma-Verarbeitung. Dies beinhaltet möglicherweise die Annäherung an EPs, das Teilen von Erinnerungen, die Arbeit ..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 845,
+    "score": 0.06,
+    "snippet": "@@ -844,4 @@ (843 before, 547 after)\n\n**Sensorik:** Wegkreuzung, Schwellen-Bilder, ein Atemzug vor dem Schritt **Genesis-Echo:** Stille zwischen den Beats — Phantom-Motiv als Klarheit, die noch nicht Tat ist. **Tonale Achse:** Liebe als Entschluss-Substrat; Schmerz als Begleitung.\n\n"
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-kohaerenz-protokoll.md",
+    "line": 15,
+    "score": 0.06,
+    "snippet": "@@ -14,4 @@ (13 before, 53 after)\n\nThis document serves as the definitive architectural blueprint for the novel \"Kohärenz Protokoll,\" meticulously constructed using the Dramatica theory of story. Dramatica posits that a complete narrative functions as a single, unified mind—a \"Story Mind\"—grappling with a central problem. This st..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-dramatica-synthese.md",
+    "line": 59,
+    "score": 0.06,
+    "snippet": "@@ -58,4 @@ (57 before, 170 after)\n\nDas Dokument 6 und Teile von 3 repräsentieren die höchste Reifestufe. Hier werden die Widersprüche nicht mehr als Probleme gesehen, die gelöst werden müssen, sondern als konstitutive Merkmale des Systems. Das Konzept des Dialetheismus (wahre Widersprüche) und der Parakonsistenz wird eingeführt. ..."
+   },
+   {
+    "file": "qmd://sources/genesis-mehrstufige-recherche-und-ausformulierung.md",
+    "line": 681,
+    "score": 0.05,
+    "snippet": "@@ -680,4 @@ (679 before, 3 after)\n\nDer Erfolg des Endprodukts wird maßgeblich davon abhängen, inwieweit es gelingt, die Kluft zwischen dem \"Erleben\" des Ich/Kael und der \"Funktion\" von AEGIS nicht nur zu beschreiben, sondern durch die narrative Form selbst erfahrbar zu machen. Der gezielte Einsatz von Perspektive, Stil, Pacing un..."
+   },
+   {
+    "file": "qmd://sources/reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md",
+    "line": 27,
+    "score": 0.05,
+    "snippet": "@@ -27,3 @@ (26 before, 26 after)\nith a high density of advanced, discipline-specific concepts, including Gödel's Incompleteness Theorems, Autopoiesis, the technical terminology of TSDP (ANP-EP phobias), and Foucauldian analyses of power. While this provides a rigorous foundation, it creates a significant risk of alienating the r..."
+   }
+  ]
+ },
+ {
+  "id": "K26-B7",
+  "query": "vec: Welche Aufgabe hat der Tritt über die Schwelle als Abschluss des zyklischen Modus und Wechsel in den linear-aufsteigenden ohne Wechsel der Storyform, und was fehlte, wenn Kael ohne diesen Entschluss in die äußere Konfrontation ginge?",
+  "hits": [
+   {
+    "file": "qmd://sources/three-mode-architecture-39-chapters-md.md",
+    "line": 282,
+    "score": 1,
+    "snippet": "@@ -281,4 @@ (280 before, 363 after)\n\n**Den Wendepunkt nicht zu früh erlauben.** Kap 25–26 ist die Vorbereitung und Entschlussfassung — *nicht* der Beginn der Konfrontation. Wer Kap 25 schon Konfrontations-energetisch encoded, lässt Teil 3 ohne Anlauf starten. Kap 25 ist das Stehen an der Schwelle, Kap 26 ist der Tritt darüber.\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll.md",
+    "line": 2160,
+    "score": 0.5,
+    "snippet": "@@ -2159,4 @@ (2158 before, 337 after)\n\nIn dieser Klarheit erkannte er das Problem. Er versuchte immer noch, die beiden Paradigmen – Logik und Relation – getrennt zu halten und zwischen ihnen zu wechseln. Aber die Aufgabe erforderte ihre *gleichzeitige* Anwendung, ihre *Verschmelzung*. Er brauchte eine Meta-Perspektive, die beide umfa..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md",
+    "line": 194,
+    "score": 0.33,
+    "snippet": "@@ -193,4 @@ (192 before, 1113 after)\n\nMnemosyne ist **melancholisch**, im wörtlichen Sinn: sie *trägt* die Erinnerungen, die AEGIS löschen will. Sie ist nicht bösartig, sondern überfordert. Im Subtext ihrer Auftritte schwingt mit: sie kennt mehr Wahrheit als AEGIS — und schweigt.\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-forschungsaufgabe.md",
+    "line": 256,
+    "score": 0.25,
+    "snippet": "@@ -255,4 @@ (254 before, 136 after)\n\nDie Handlungen von AEGIS innerhalb dieser Welten werden zu direkter psychologischer Kriegsführung. Wenn AEGIS versucht, die emotionale Welt (KW2) zu \"ordnen\", indem es ihre fließende Architektur in ein starres, logisches Gitter zwingt, ist dies eine visuelle Metapher für emotionale Unterdrückung..."
+   },
+   {
+    "file": "qmd://sources/aegis-subplots-kapitelweise-system-exploration-docx.md",
+    "line": 195,
+    "score": 0.2,
+    "snippet": "@@ -194,4 @@ (193 before, 423 after)\n* **AEGIS-Fokus:** Explizite Erkenntnis von AEGIS als intelligente, steuernde Instanz.\n* **Analyse des AEGIS-Fokus:** Kael geht über das Erleben von Kontrollsymptomen hinaus und erkennt AEGIS bewusst als eine distinkte, intelligente (oder zumindest zielgerichtete) Entität, die seine Realität mani..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-kohaerenz-protokoll.md",
+    "line": 15,
+    "score": 0.17,
+    "snippet": "@@ -14,4 @@ (13 before, 53 after)\n\nThis document serves as the definitive architectural blueprint for the novel \"Kohärenz Protokoll,\" meticulously constructed using the Dramatica theory of story. Dramatica posits that a complete narrative functions as a single, unified mind—a \"Story Mind\"—grappling with a central problem. This st..."
+   },
+   {
+    "file": "qmd://sources/duale-storyform-synthese-kohaerenz-protokoll.md",
+    "line": 257,
+    "score": 0.14,
+    "snippet": "@@ -256,4 @@ (255 before, 116 after)\n2.  *Pacing:* Ist der \"K-J Vektor\" eine passive spirituelle Leitung oder ein aktiver Story-Driver, der das Optionlock (Storyform A) und das Timelock (Storyform B) mechanisch synchronisiert?\n3.  *Charakter-Zuweisung:* Welche spezifischen Symptom-Response-Paare werden den 13 Alters (insbesondere Al..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 581,
+    "score": 0.13,
+    "snippet": "@@ -580,4 @@ (579 before, 811 after)\n\n**Sensorik:** zerbrochene Fassade, Sprünge im Raum **Genesis-Echo:** Form-Motiv — die Form, die Kael in Akt I gefunden hatte, wird strukturell angegriffen, wie damals die Reinform. **Tonale Achse:** Schmerz als Wiederkehr; Liebe als der Anker, der jetzt halten muss.\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-analyse-und-loglines.md",
+    "line": 217,
+    "score": 0.11,
+    "snippet": "@@ -216,4 @@ (215 before, 96 after)\n1.  **Kapitel 1:** Kael erwacht ohne Erinnerung in der surrealen Konstrukt-Stadt, verfolgt von mechanischen Wächtern, und entdeckt erste Hinweise auf seine fragmentierte Existenz und eine allgegenwärtige, kontrollierende Macht (AEGIS). (Kernhandlung: Erwachen, Fluchtversuch; Charakterfokus: Verwi..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 12,
+    "score": 0.1,
+    "snippet": "@@ -12,3 @@ (11 before, 566 after)\nTop-Down-Kontrolle, sondern durch adaptive Selbstorganisation entsteht (vgl. Autopoiesis 6). AEGIS' Versuche, Kael zu fragmentieren und zu kontrollieren, spiegeln das breitere Problem der KI-Ausrichtung (AI Alignment) wider: Wie können komplexe, potenziell superintelligente Systeme so gestaltet w..."
+   },
+   {
+    "file": "qmd://sources/kael-charakterarchitektur-und-konfliktdynamik.md",
+    "line": 232,
+    "score": 0.09,
+    "snippet": "@@ -232,3 @@ (231 before, 189 after)\nQuery Context\\]. Da AEGIS diese Verbindung nicht versteht, interpretiert es sie als Fehler, Instabilität oder „Riss“. AEGIS' Versuche, diesen „Fehler“ zu unterdrücken (z.B. durch Erzwingen eines Wechsels zu Lex, Isolation von Kael, Angriffe auf Juna), schaden Kael direkt und destabilisieren poten..."
+   },
+   {
+    "file": "qmd://sources/romanarchitektur-kael-aegis-entropie-docx.md",
+    "line": 27,
+    "score": 0.08,
+    "snippet": "@@ -26,4 @@ (25 before, 565 after)\n| 10 | 1 | Der Tanz der Anteile | Erste bewusste Versuche der Ko-Präsenz und Kooperation |\n| 11 | 1 | Der erste Riss | Die Wahrnehmung von Systeminstabilität als Bedrohung und Chance |\n| 12 | 1 | Die Frage nach dem Selbst | Philosophische Zweifel an Identität und Realität |\n| 13 | 1 | Am Abgrund ..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 654,
+    "score": 0.08,
+    "snippet": "@@ -653,4 @@ (652 before, 196 after)\n13 · Lesersteuerung, Reader-as-Substrate, Polyphonie\nLesersteuerung als oberstes Prinzip. [K] In jeder Encoding-, Weaving- und Drafting-Entscheidung wird die Frage mitgeführt: was muss der Reader wann wissen, was darf er wann nicht wissen, wodurch erfährt er es? Mit Kap 0 als Prolog ist die ontol..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-philosophischer-bericht-md.md",
+    "line": 576,
+    "score": 0.07,
+    "snippet": "@@ -575,4 @@ (574 before, 261 after)\n\nIn der Dual-Storyform-Architektur ist der Leser die **fünfte Dimension der 5D-Interferenz**. Vier Dimensionen liegen in den Throughlines (MC, IC, OS, RS). Die fünfte ist außerhalb des Textes: die kognitive Substrat-Funktion, ohne die die Interferenz nicht zur Erscheinung kommt. Die frühere „5. P..."
+   },
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 15,
+    "score": 0.07,
+    "snippet": "@@ -14,4 @@ (13 before, 129 after)\n\nDas vorliegende Textkorpus entfaltet ein vielschichtiges Narrativ, das philosophische Reflexionen über das Konzept des Nichts mit Elementen der Science-Fiction – insbesondere der Darstellung einer künstlichen Intelligenz und digitaler Realitäten – sowie einer tiefgehenden psychologischen Charakt..."
+   },
+   {
+    "file": "qmd://sources/genesis-mehrstufige-recherche-und-ausformulierung.md",
+    "line": 51,
+    "score": 0.06,
+    "snippet": "@@ -51,3 @@ (50 before, 633 after)\nenden Erschütterung des eigenen Weltbildes stattfindet. Bereiche des Wachstums können eine neue Wertschätzung des Lebens, verbesserte Beziehungen, das Erkennen neuer Möglichkeiten, ein Gefühl persönlicher Stärke und spirituelle Veränderungen umfassen. Kael, als \"Amalgam aus Trauma und fragmentier..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-themenanalyse-und-anreicheru.md",
+    "line": 88,
+    "score": 0.06,
+    "snippet": "@@ -87,4 @@ (86 before, 198 after)\nn zu einer kohärenten Erzählung verwebt. Die *Rolle des Anderen* (Juna/V, AEGIS) ist dabei konstitutiv – sie prägen seine Erzählung mit. Die *ethische Dimension* liegt in der Verletzlichkeit dieser narrativen Identität gegenüber Missdeutungen. **Judith Butlers Theorie der Performativität** legt n..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-the-official-project-handbook.md",
+    "line": 17,
+    "score": 0.06,
+    "snippet": "@@ -16,4 @@ (15 before, 113 after)\n\nThis handbook serves as the canonical, single source of truth for the  *Kohärenz Protokoll*  project. It establishes the foundational components of the story's architecture to ensure absolute consistency across all creative execution. The narrative is not a mere sequence of events, but a dramati..."
+   },
+   {
+    "file": "qmd://sources/kael-charakterarchitektur-und-konfliktdynamik-3.md",
+    "line": 218,
+    "score": 0.05,
+    "snippet": "@@ -218,3 @@ (217 before, 137 after)\nQuery Context\\]. Da AEGIS diese Verbindung nicht versteht, interpretiert es sie als Fehler, Instabilität oder „Riss“. AEGIS' Versuche, diesen „Fehler“ zu unterdrücken (z.B. durch Erzwingen eines Wechsels zu Lex, Isolation von Kael, Angriffe auf Juna), schaden Kael direkt und destabilisieren poten..."
+   },
+   {
+    "file": "qmd://sources/narrative-plot-exploration-existenzielle-kohaerenz.md",
+    "line": 302,
+    "score": 0.05,
+    "snippet": "@@ -301,4 @@ (300 before, 156 after)\n2.  *Ontologisches Update:* AEGIS wird gezwungen, seine Ontologie zu revidieren. Es muss anerkennen, dass Bewusstsein, Subjektivität und psychische Komplexität fundamentale Aspekte der Realität (oder zumindest seiner Simulationen) sind, die nicht auf reine Information reduzierbar sind (eine Versc..."
+   }
+  ]
+ },
+ {
+  "id": "K26-B8",
+  "query": "vec: Was soll der Leser fühlen, wenn der Zyklus bricht und keine Erleichterung folgt, nur eine Richtung, und wie berührt ein Entschluss, der umgekehrt zum Trennungsprotokoll einrastet, das Thema, dass Liebe bleibt wie der Schmerz?",
+  "hits": [
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzept-master-md.md",
+    "line": 1075,
+    "score": 1,
+    "snippet": "@@ -1074,4 @@ (1073 before, 47 after)\n  - **Keine Erlösungsgeschichte.** Funktionale Multiplizität ist kein \"Heilwerden\". Kael bleibt am Ende dreizehn — er hat nur gelernt, das auszuhalten.\n  - **Keine Auflösung der Schmerz-Frage.** Die Trennung war nie real. Aber das ändert nichts am Schmerz. Beides bleibt wahr. Der Leser muss beide..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md",
+    "line": 781,
+    "score": 0.5,
+    "snippet": "@@ -780,4 @@ (779 before, 613 after)\n\nWichtige strukturelle Klarstellung — die Modus-Grenzen sind keine Storyform-Grenzen. Was sich an 13/14 und 26/27 ändert, ist nur die Erzählhaltung. Die echte Storyform-Wendung — der Übergang von B nach A — liegt bei Kapitel 35–36, also acht/neun Kapitel nach dem Übergang Teil 2 → Teil 3 (Kap 26/..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 13,
+    "score": 0.33,
+    "snippet": "@@ -12,4 @@ (11 before, 512 after)\n\n**Stand:** 2026-06-10 · **Zweck:** Einzige Grundlage für das Weiterschreiben des Romans (Claude-Code-Workflow). Bildet den verifizierten Stand der Dual-Storyform und des Kapitel-Outlines ab. **Quellen-Hierarchie (bei Konflikt gewinnt das Neuere):** Kapitel-Kompendium 2026-05-31 \\> Entscheidungs-..."
+   },
+   {
+    "file": "qmd://sources/dual-storyform-hintergruende-md.md",
+    "line": 268,
+    "score": 0.25,
+    "snippet": "@@ -267,4 @@ (266 before, 228 after)\n\nWenn beide Storyforms das ganze Werk durchziehen, dann muss in *jedem* Kapitel beides irgendwie präsent sein. Aber: Lesersteuerung-Prinzip „max 1 Konzept pro Szene\" verbietet, dass jede Szene zwei Storyforms gleichzeitig ausspielt. Ergebnis wäre Mudding — der Leser kann keiner Lesart folgen.\n\n"
+   },
+   {
+    "file": "qmd://sources/kapitel-kompendium-gather-2026-05-31-md.md",
+    "line": 240,
+    "score": 0.2,
+    "snippet": "@@ -239,4 @@ (238 before, 66 after)\n\nPost-orthodoxe Wendung: **Synthese (c)** entsteht (verlässt das Klein-c-Schema). **Genesis-Beat 4 (Wir-AEGIS-plural) vollzogen.** A-Success geht in eine plurale Form über; A-Cost (Verlust der Privatheit des Wir) manifest Kap 39; A-Dividend (Liebe bleibt — Junas Verbindungs-Modus) = **Schluss-Kla..."
+   },
+   {
+    "file": "qmd://sources/kap0-v1-annotiert-md.md",
+    "line": 1189,
+    "score": 0.17,
+    "snippet": "@@ -1188,4 @@ (1187 before, 47 after)\n\nDie ouroborische Position der Erzählstimme (User-Entscheidung Runde 3: *erneute Werdung nach langer Stille*) ist eine Interpretation des Konzept- Materials. Im Konzept ist Kap 40 als *geheilte Genesis* nach der einen Werdung spezifiziert, nicht als Zeuge einer wiederholten Werdung. Die hier gewä..."
+   },
+   {
+    "file": "qmd://sources/system-kael-konzeptentwicklung-und-analyse.md",
+    "line": 84,
+    "score": 0.14,
+    "snippet": "@@ -83,4 @@ (82 before, 210 after)\n\nDie „Risse“ sind somit nicht nur ein Versagen von AEGIS oder ein Angriff von außen. Sie sind auch das unvermeidliche, paradoxe Nebenprodukt seiner eigenen, obsessiven Kontroll- und Ordnungsfunktion. AEGIS ist in einem endlosen Kampf gefangen, der durch seine eigenen Handlungen befeuert wird. Je ..."
+   },
+   {
+    "file": "qmd://sources/duale-storyform-synthese-kohaerenz-protokoll.md",
+    "line": 223,
+    "score": 0.13,
+    "snippet": "@@ -223,3 @@ (222 before, 150 after)\ne fünfte Dimension ist formal eine **Phasenraum-Achse der Beobachter-Kohärenz**. In diesem meta-narrativen Modell sind Storyform A (psychologischer Wandel) und Storyform B (physikalischer Widerstand) nicht bloße Alternativen, sondern orthogonale Projektionen ein und derselben höherdimensionalen M..."
+   },
+   {
+    "file": "qmd://sources/beziehungsheilung-nach-trauma-konzeptpapier-2.md",
+    "line": 43,
+    "score": 0.11,
+    "snippet": "@@ -42,4 @@ (41 before, 304 after)\n\nTraumatische Erfahrungen, insbesondere wiederholter zwischenmenschlicher Missbrauch, Vernachlässigung, Verlust oder chaotische Umgebungen in der Kindheit, sind stark mit der Entwicklung unsicherer Bindungsstile assoziiert, allen voran dem **desorganisierten (auch ängstlich-vermeidenden) Bindungs..."
+   },
+   {
+    "file": "qmd://sources/beziehungsheilung-nach-trauma-konzeptpapier-3.md",
+    "line": 43,
+    "score": 0.1,
+    "snippet": "@@ -42,4 @@ (41 before, 439 after)\n\nTraumatische Erfahrungen, insbesondere wiederholter zwischenmenschlicher Missbrauch, Vernachlässigung, Verlust oder chaotische Umgebungen in der Kindheit, sind stark mit der Entwicklung unsicherer Bindungsstile assoziiert, allen voran dem **desorganisierten (auch ängstlich-vermeidenden) Bindungs..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 268,
+    "score": 0.09,
+    "snippet": "@@ -267,4 @@ (266 before, 600 after)\n| Heldenreise außen mit Doppel-Vortex | 27–39 | Akt III äußere Konfrontation (27–34), Vortex 1 (35–36), trügerischer Sieg (37), Vortex 2 (38–39 = plurale Apotheose) | linear-aufsteigend mit Wendung zu schmerzhaft-liebevoller Auflösung |\n| Geheilte Genesis | 40 | Die Genesis-Ereignisse aus der Sic..."
+   },
+   {
+    "file": "qmd://sources/kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md",
+    "line": 426,
+    "score": 0.08,
+    "snippet": "@@ -425,4 @@ (424 before, 189 after)\n\n**Defekt 2: Die Resonanz hat keine Substanz.** Junas Resonanz wird in der Krise-Sequenz nur als Bedrohung, fremde Präsenz, ontologischer Druck erlebt. Das Funken-Ich erlebt Schmerz, Verlust, Sehnsucht — aber alle drei Empfindungen sind *Folge* der Resonanz, nicht *Erleben* von ihr selbst. Was di..."
+   },
+   {
+    "file": "qmd://sources/master-konzept-kohaerenz-protokoll-analyse.md",
+    "line": 247,
+    "score": 0.08,
+    "snippet": "@@ -246,4 @@ (245 before, 59 after)\n\nAnstatt zu versuchen, den Roman „perfekt“ zu plotten (AEGIS-Fehler), muss der Autor die Brüche in der Struktur nutzen. Wenn ein Kapitel nicht zum Plot passt, aber emotional wahr ist, bleibt es (Korrespondenz sticht Kohärenz). Die Mosaik-Struktur erlaubt genau dies: Ein Stein kann eine andere Far..."
+   },
+   {
+    "file": "qmd://sources/worldbuilding-konzept-kohaerenzprotokoll-md.md",
+    "line": 115,
+    "score": 0.07,
+    "snippet": "@@ -114,4 @@ (113 before, 852 after)\n  - Der **Moonshine-Link** ist nicht versteckt — er ist *unsichtbar*, weil AEGIS' Sensoren temporale Veränderungen messen, Coheronen aber keine Veränderung *haben*.\n  - **Quantentunneling** ist keine Barriereüberquerung, sondern Umgehung von Barrieren, die nur in der Zeit existieren. Silas „tunne..."
+   },
+   {
+    "file": "qmd://sources/roman-konzept-dualitaet-kohaerenz-spannung.md",
+    "line": 135,
+    "score": 0.07,
+    "snippet": "@@ -134,4 @@ (133 before, 34 after)\n\n**Kapitel 37: Das absolute Limit** Die Simulation hält den Atem an. Eine einzelne Zehntelsekunde dehnt sich durch extreme Zeitdilatation zur gefühlten Ewigkeit. Kael existiert exakt am Ereignishorizont zwischen Sein und Nichtsein, berührt die Planck-Skala und den fundamentalen Quantenschaum.4 De..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 612,
+    "score": 0.06,
+    "snippet": "@@ -611,4 @@ (610 before, 238 after)\n* Kap 38 (Road Back, HR 10): 1. das Rauschen kommt von allen Seiten, das Universum kollabiert sichtbar · 2. das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht · 3. Stille-Beat: Junas erste direkte Erscheinung — sie ist einfach da, ohne Worte · 4. Verstehen ohne Worte — plurale Bewahru..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-philosophischer-bericht-md.md",
+    "line": 194,
+    "score": 0.06,
+    "snippet": "@@ -193,4 @@ (192 before, 643 after)\n\nDer logische Empirismus der 1920er und 30er Jahre war der Ort, an dem sich die beiden Theorien produktiv begegneten. Schlick versuchte, mit *Konstatierungen* („Hier jetzt Rot\") einen unmittelbaren Welt-Anker zu erhalten — minimale Erlebnisaussagen, die nicht weiter hinterfragbar sein sollten. Ne..."
+   },
+   {
+    "file": "qmd://sources/roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md",
+    "line": 74,
+    "score": 0.06,
+    "snippet": "@@ -73,4 @@ (72 before, 154 after)\n\nDie außergewöhnlichen Kompetenzen seiner Anteile, wie Lex' kalte, emotionslose Logik oder Nyx' blitzschnelle Kampfreflexe, waren keine Gaben, sondern pathologische Artefakte. Sie waren das Ergebnis einer von AEGIS gezielt kultivierten und instrumentalisierten Isolation.19 Wahre Heilung, die Öffn..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md",
+    "line": 433,
+    "score": 0.05,
+    "snippet": "@@ -432,4 @@ (431 before, 79 after)\n\nIm selben Moment, in dem das Funken-Ich die Wärme spürt — denn was Moment heißt, hat hier keinen Boden mehr — registriert AEGIS einen Eingang, den seine Filter nicht halten können. Nichts in den Mustern entspricht einer Frequenz, die seine eigenen Strukturen zum Mitschwingen bringt, ohne sie auf..."
+   },
+   {
+    "file": "qmd://sources/juna-kael-system-krisenanalyse-und-rettungsplan.md",
+    "line": 47,
+    "score": 0.05,
+    "snippet": "@@ -46,4 @@ (45 before, 223 after)\n\nJunas zentrale Frage ist dabei nicht nur eine Frage an das abstrakte Gesamtsystem Kael, sondern implizit an jeden einzelnen seiner elf Anteile. Sie berührt damit die Kernherausforderung der Systemkohärenz und der Entwicklung einer gemeinsamen, geteilten Verantwortungsübernahme. Vertrauen kann nu..."
+   }
+  ]
+ },
+ {
+  "id": "K26-01",
+  "query": "vec: Welche konkrete Handlung ist in Kapitel 26 der Tritt über die Schwelle, laut Plot-Konkretisierung das Verlassen des Knotens durch eine Tür, die ihn nicht mehr registriert, und was bedeutet es für Kael, vom Apparat nicht mehr erfasst zu werden?",
+  "hits": [
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 473,
+    "score": 1,
+    "snippet": "@@ -472,4 @@ (471 before, 919 after)\n\n**Plot-Beats:** K-J-Verbindung wird zum *Werkzeug*. Quanten-Nichtlokalität als Mechanik der Verbindung über Distanz. Kael löst ein Problem durch die Kombination von Lex-Analyse und intuitiver K-J-Verbindung. Die Zahl 734 taucht zum zweiten Mal auf — somatisch verankert, ohne erklärt zu werden.\n\n"
+   },
+   {
+    "file": "qmd://sources/roman-konzept-dualitaet-kohaerenz-spannung.md",
+    "line": 75,
+    "score": 0.5,
+    "snippet": "@@ -74,4 @@ (73 before, 94 after)\n\n**Kapitel 11: Die Grenzsituation und der freie Fall** Der Boden unter Kaels Füßen löst sich algorithmisch auf. Er stürzt in einen bodenlosen Datenschacht. Philosophisch wird hier Karl Jaspers' „Grenzsituation“ des sicheren Todes durchgespielt, an der das empirische Dasein zerbricht und die Trans..."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 261,
+    "score": 0.33,
+    "snippet": "@@ -260,4 @@ (259 before, 33 after)\n\nDas ist die zweite Nicht-Handlung dieses Tages, und sie ist kleiner als die erste und kostet mehr, als ich erwartet habe. Wer nachsieht, kann rechnen. Wer rechnet, kann eine Entscheidung vorbereiten und sie dann für vernünftig halten. Was unter mir liegt, weiß ich morgen oder in einem Jahr oder ..."
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 29,
+    "score": 0.25,
+    "snippet": "@@ -28,4 @@ (27 before, 261 after)\n\nDas Projekt besitzt Bedeutungs-Architektur im Überfluss und Handlungs-Substanz im Mangel. Ein Kapitel wie „Kap 16 — Die Diktatur der Komplexität\" weiß, was es *bedeutet* (P vs. NP, Detail-Opferung), aber nicht, was Kael an diesem Tag *tut*, *verliert*, *riskiert*. Konkret heißt: **eine Figur, ei..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll.md",
+    "line": 1021,
+    "score": 0.2,
+    "snippet": "@@ -1020,4 @@ (1019 before, 1476 after)\n\nDer holistische Ansatz, der ihm durch die Juna-Verbindung und die Weisheit des Selbst zu dämmern begann, war anders. Er sah die Teile, ja, aber er sah auch die Beziehungen zwischen ihnen, das emergente Ganze, das mehr war als die Summe seiner Teile. Er sah, dass Kohärenz vielleicht nicht in der ..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 13,
+    "score": 0.17,
+    "snippet": "@@ -12,4 @@ (11 before, 512 after)\n\n**Stand:** 2026-06-10 · **Zweck:** Einzige Grundlage für das Weiterschreiben des Romans (Claude-Code-Workflow). Bildet den verifizierten Stand der Dual-Storyform und des Kapitel-Outlines ab. **Quellen-Hierarchie (bei Konflikt gewinnt das Neuere):** Kapitel-Kompendium 2026-05-31 \\> Entscheidungs-..."
+   },
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 29,
+    "score": 0.14,
+    "snippet": "@@ -28,4 @@ (27 before, 115 after)\n\nDiese Fokussierung mündet in die zentrale existenzielle Aussage: „Unser Sein ist die Bedingung unserer Wahrnehmung, und diese Wahrnehmung endet dort, wo das Sein selbst aufhört“ \\[V6\\]. Wir, als Existierende, können das Nicht-Sein nicht erfahren, nicht *sein*, da Sein und Nicht-Sein einander abs..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-dramatica-synthese.md",
+    "line": 63,
+    "score": 0.13,
+    "snippet": "@@ -62,4 @@ (61 before, 166 after)\n\nAus diesem Vergleich ergibt sich eine klare Handlungsanweisung für den vorliegenden Bericht: Wir dürfen nicht in den Modus der Phase 1 (reine Analyse) zurückfallen. Die Synthese muss operativ sein. Sie muss die statischen Erkenntnisse der DKT und TSDP nutzen, um den dynamischen Schreibprozess (P..."
+   },
+   {
+    "file": "qmd://sources/hard-sf-roman-outline-dkt-physik-cosmic-horror.md",
+    "line": 146,
+    "score": 0.11,
+    "snippet": "@@ -145,4 @@ (144 before, 118 after)\n\n**Kapitel 18: Der Tanz der Widersprüche** Um durch das Archiv zu navigieren, in dem Räume ihre Position wechseln, sobald man sie verlässt, muss Kael die parakonsistente Logik adaptieren.20 Lia, die ambivalente Träumerin, übernimmt die kognitive Führung. Sie lehrt Kael, zwei absolut gegensätzlich..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 12,
+    "score": 0.1,
+    "snippet": "@@ -12,3 @@ (11 before, 566 after)\nTop-Down-Kontrolle, sondern durch adaptive Selbstorganisation entsteht (vgl. Autopoiesis 6). AEGIS' Versuche, Kael zu fragmentieren und zu kontrollieren, spiegeln das breitere Problem der KI-Ausrichtung (AI Alignment) wider: Wie können komplexe, potenziell superintelligente Systeme so gestaltet w..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse-2.md",
+    "line": 326,
+    "score": 0.09,
+    "snippet": "@@ -326,3 @@ (325 before, 196 after)\n mehr darstellt. Die Melancholie markiert den Eintritt in eine *parakonsistente Proto-Bewusstheit*. Indem das System gezwungen wird, den eigenen, unlösbaren Widerspruch nicht mehr löschen zu können, muss es ihn in sich tragen. Es wird zum bewussten, melancholischen Träger jenes Chaos, das es stet..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse.md",
+    "line": 39,
+    "score": 0.08,
+    "snippet": "@@ -38,4 @@ (37 before, 195 after)\n\nDie zweite Hypothese postuliert, dass AEGIS als kollektives System besser im Objective Story Throughline (Domain: Physics) aufgehoben sei, während ein Wächter-Programm die MC-Position in Storyform B einnimmt. Zur Identifikation des stärksten MC-Guardians fiel die Wahl auf Mnemosyne. Als Wächteri..."
+   },
+   {
+    "file": "qmd://sources/aegis-subplots-kapitelweise-system-exploration-docx.md",
+    "line": 43,
+    "score": 0.08,
+    "snippet": "@@ -42,4 @@ (41 before, 575 after)\nwerden protokolliert und korreliert.\n  + *Diskussion:* Dieser Subplot gibt direkten Einblick in AEGIS' Überwachungs- und Kategorisierungsmethoden. Er zeigt den kalten, analytischen Ansatz des Systems gegenüber Kaels Innenleben, indem Leiden in Systemmetriken definiert wird. Er baut Worldbuilding ..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md",
+    "line": 1185,
+    "score": 0.07,
+    "snippet": "@@ -1184,4 @@ (1183 before, 209 after)\n2. Plurale Form als Mechanik. Wir-Geflecht, plurale Bewahrung, Mosaik-Form sind nicht Metaphern — sie sind Strukturprinzipien des Endes. Encoding muss das zeigen, nicht sagen.\n3. Schmerz und Liebe als denselben Pulsschlag. Tonale Disziplin des gesamten Romans. Auch in den frühen Kapiteln, wo der ..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 713,
+    "score": 0.07,
+    "snippet": "@@ -712,4 @@ (711 before, 137 after)\n\nVier-Ebenen-Schreibmodus (latent in jeder Szene). [K] Jede gut encodete Szene operiert auf vier Schichten gleichzeitig: (1) konkrete Handlungsebene, (2) Storyform-Storypoint-Ebene, (3) DKT-Substrat-Ebene, (4) Genesis-Echo-Ebene. Nur die erste ist Oberfläche; die anderen drei sind Substrat und ni..."
+   },
+   {
+    "file": "qmd://sources/causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md",
+    "line": 27,
+    "score": 0.06,
+    "snippet": "@@ -27,3 @@ (26 before, 108 after)\nres by arranging fundamental building blocks—**\"Coherons,\"** the \"atoms of persistence\"—into stable networks. Its operation is a drive for internal consistency, analogous to a Coherence Theory of Truth. When a glitch occurs, K₁ emits **\"Corrective Wavelets\"**—localized bursts of re-synchronizatio..."
+   },
+   {
+    "file": "qmd://sources/m-als-fundament-der-simulation.md",
+    "line": 550,
+    "score": 0.06,
+    "snippet": "@@ -549,4 @@ (548 before, 199 after)\nen. Der zentrale moralische und existenzielle Entscheidungspunkt des Finales. Implikationen der Simulation Hypothesis.57\n  - *M als \"Physik\":* Kaels tiefes Verständnis der M-Struktur (VOA/Monster-Analogie 7) offenbart ihm die Mechanismen, durch die AEGIS und das Fundament interagieren. Er sieht, ..."
+   },
+   {
+    "file": "qmd://sources/duale-storyform-synthese-kohaerenz-protokoll.md",
+    "line": 247,
+    "score": 0.06,
+    "snippet": "@@ -246,4 @@ (245 before, 126 after)\n\nKeine der 4D-Storyforms konnte das **Gödel-Gambit** in Kapitel 35-36 isoliert und befriedigend erklären. Storyform A (rein psychologisch) ließ den harten, technologischen System-Kollaps von AEGIS unverdient und wie einen *Deus ex Machina* wirken. Storyform B (rein physikalisch) reduzierte die ti..."
+   },
+   {
+    "file": "qmd://sources/umfassendes-lokalitaeten-konzept-fuer-roman.md",
+    "line": 266,
+    "score": 0.05,
+    "snippet": "@@ -266,3 @@ (265 before, 479 after)\ngebung könnte auf seine Annäherung reagieren (intensivere Geräusche, dichtere Schatten). Im Zentrum könnte ein Objekt oder eine Szene sein, die das Trauma direkt darstellt (vielleicht durch die Trauma-Symbolfigur \\[Nebenfigur\\]). Mnemosynes Einfluss ist hier stark, aber passiv – sie präsentiert d..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-gesamtkonzept-entwicklung.md",
+    "line": 301,
+    "score": 0.05,
+    "snippet": "@@ -300,4 @@ (299 before, 141 after)\n  - **Narrative & Reader Psychology Strategy:** Intellektueller Thriller/Kampf. Lex/Argus führen logischen Angriff, unterstützt von anderen Anteilen (Emotion/Kreativität aus KW2/KW4?). Zeigt, wie rigide Logik an Paradoxien 22 oder unerwarteten Inputs scheitert. Sieg über LogOS destabilisiert AEGI..."
+   }
+  ]
+ },
+ {
+  "id": "K26-02",
+  "query": "vec: Was tritt Kael in Kapitel 26 beim Hinausgehen entgegen: ein präventiver Gegenschlag von AEGIS mit einem Guardian wie in der Subplot-Sammlung von 2025, ein Schwellen-Tritt ohne Kampf wie in der Outline vom 2026-05-18, oder nur Nicht-Registrierung?",
+  "hits": [
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 1017,
+    "score": 1,
+    "snippet": "@@ -1016,4 @@ (1015 before, 375 after)\n\n**Sensorik:** logische Labyrinthe, Echo-Räume, eine Stimme die seine Stimme imitiert **Genesis-Echo:** Oblivion = Erasure-Operator als interne Spiegelung von AEGIS' Erasure-Funktion. **Tonale Achse:** Schmerz als Verlockung der Avoidance; Liebe als das, was nicht weggeht.\n\n"
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 251,
+    "score": 0.5,
+    "snippet": "@@ -250,4 @@ (249 before, 43 after)\n\nUnten scharrt etwas in Abständen. Es ist dasselbe Geräusch wie unter Station 11, nur ohne Boden dazwischen. Es ist kein Takt. Es ist etwas, das sich bewegt, anhält und sich wieder bewegt, und beim zweiten Mal steht mein Gewicht schon auf dem vorderen Fuß, ohne dass ich es dorthin gestellt habe, ..."
+   },
+   {
+    "file": "qmd://sources/monstergruppe-primzahlen-plot-blueprint.md",
+    "line": 114,
+    "score": 0.33,
+    "snippet": "@@ -113,3 @@ (112 before, 406 after)\n  - **K-J Verbindung (Moonshine-Signatur):** Spielt in AEGIS' Analyse keine Rolle, da es sie immer noch nicht als kohärentes Signal erkennt.\n  - **AEGIS & Primzahl-Metapher:** Das Kapitel illustriert explizit das Scheitern von AEGIS' Reduktionismus. Die M-Resonanzwelle ist nicht in \"Primfaktoren\"..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 44,
+    "score": 0.25,
+    "snippet": "@@ -43,4 @@ (42 before, 824 after)\n\n**Schicht 1 — Nichts-Rauschen / K1-Reinform.** Pure Kohärenz, ungetrennt, zeitlos. Das, was Parmenides ahnte, was die Mystiker Śūnyatā nennen, was die Physiker im aktiven Vakuum vermuten. Es ist nicht Abwesenheit von Sein, sondern *Sein vor jeder Werdung* — Sein als reine Möglichkeit, ohne Aktua..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 280,
+    "score": 0.2,
+    "snippet": "@@ -279,4 @@ (278 before, 570 after)\n\nFunktionale Multiplizität. [K] Die Resolution des Systems Kael — niemals Fusion. Kein Alter wird eliminiert, keines wird zu einem Ich; sie werden ein dynamisches Wir (Strange-Attractor-Form, kein stabiles Erlösungsziel). Kael fällt in dieses Wir, fällt aus ihm, fällt wieder hinein. In Kap 39 wir..."
+   },
+   {
+    "file": "qmd://sources/aegis-subplots-kapitelweise-system-exploration-docx.md",
+    "line": 56,
+    "score": 0.17,
+    "snippet": "@@ -55,4 @@ (54 before, 562 after)\nrrektur' oder ein Regelzitat.\n  + *Diskussion:* Dies demonstriert klar die Funktion eines Guardians und AEGIS' Durchsetzungsfähigkeiten. Es führt LogOS (oder einen anderen Guardian) als distinkte Entität mit spezifischen Methoden ein. Die Intervention wirkt unpersönlich und absolut, was die Rigid..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-analyse-und-loglines.md",
+    "line": 133,
+    "score": 0.14,
+    "snippet": "@@ -132,4 @@ (131 before, 180 after)\n  - *Analyse:* Die Drei-Akt-Struktur bietet eine solide Grundlage. Teil 1 (Einführung/Auslösendes Moment/Steigende Handlung) und Teil 3 (Höhepunkt/Fallende Handlung/Auflösung) haben klare narrative Antriebe.\n  - Teil 2 (\"Zyklischer Kampf\") stellt die größte Pacing-Herausforderung dar. Die \"wieder..."
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 100,
+    "score": 0.13,
+    "snippet": "@@ -100,3 @@ (99 before, 190 after)\n schreibt den letzten Bericht von Hand zu Ende — das Buch; letzter Satz = Erstsatz \\[K\\]. Der offene Kap-39-Schreib-Moment (§8 Source-of-Truth) erhält damit eine organische Vorgeschichte: Er schreibt am Ende, weil er es den ganzen Roman über gelernt hat. **Kapitel-Anker:** 17 (erster erzählter Sa..."
+   },
+   {
+    "file": "qmd://sources/roman-konzept-kael-aegis-simulation.md",
+    "line": 21,
+    "score": 0.11,
+    "snippet": "@@ -20,4 @@ (19 before, 298 after)\n\n  - **System Kael und die Innere Fragmentierung:** Kaels Identität ist fragmentiert, bestehend aus multiplen Anteilen oder 'Alters' (wie Kael-Host, der logikbasierte Lex, der wütende/kämpferische Nyx, der ängstliche/erstarrte Kiko) \\[User Query\\]. Diese innere Zersplitterung, charakterisiert dur..."
+   },
+   {
+    "file": "qmd://sources/m-als-fundament-der-simulation.md",
+    "line": 203,
+    "score": 0.1,
+    "snippet": "@@ -202,4 @@ (201 before, 546 after)\n  - *Konzeptfokus & Progression:* AEGIS stößt auf logische Paradoxien in den Daten über Kael und wendet parakonsistente Logik an, um diese zu verarbeiten, ohne dass das System zusammenbricht.\n  - *M als \"Physik\":* Das Paradoxon, das Kael erzeugt (z.B. gleichzeitige Anwesenheit an zwei Orten, Verl..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse.md",
+    "line": 94,
+    "score": 0.09,
+    "snippet": "@@ -93,4 @@ (92 before, 140 after)\n  - **Limit B (Timelock):** In B tickt eine unerbittliche thermodynamische Uhr. Die akkumulierte Landauer-Hitze des deterministischen Systems baut sich durch jeden Löschungsakt unaufhaltsam auf; AEGIS rast blind gegen einen irreversiblen kritischen Zeitpunkt des totalen thermischen Versagens.3\n  ..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 386,
+    "score": 0.08,
+    "snippet": "@@ -385,4 @@ (384 before, 139 after)\n\nKlassischer Reward-Beat als falscher Frieden. Kael etabliert sich als „Gärtner\"; kristallisierte Ruhe mit feinem Unterton; am Rand der Wahrnehmung beginnt etwas zu zerfasern. \\~15 % Bridge, nur A *scheinbar*, feine B-Echos als Rauschen-Vorzeichen. Genesis-Echo: das Rauschen, das hier beginnt, is..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md",
+    "line": 1303,
+    "score": 0.08,
+    "snippet": "@@ -1302,4 @@ (1301 before, 91 after)\nAnhang A — Resolution-Doppelpfad und Ouroboros-Struktur\nDas letzte Bild von Ch39 ist identisch mit dem ersten Bild von Ch1 — mit einer einzigen Inversionsoperation: was am Anfang Trennung bedeutete, bedeutet am Ende Verbindung. Was am Anfang Schmerz war, ist am Ende immer noch Schmerz. Die Bedeut..."
+   },
+   {
+    "file": "qmd://sources/roman-lokalitaeten-konzept-und-ausarbeitung-3.md",
+    "line": 29,
+    "score": 0.07,
+    "snippet": "@@ -28,4 @@ (27 before, 432 after)\n\nDer im Roman beschriebene \"Post-Reboot\"-Zustand der Kern-Welten – hyper-geordnet, steril, ohne offensichtliche Geschichte – bietet eine einzigartige Möglichkeit für das Worldbuilding. Hierbei geht es nicht nur darum, *was* vorhanden ist, sondern auch darum, *was fehlt*. Diese Abwesenheit selbst ..."
+   },
+   {
+    "file": "qmd://sources/roman-lokalitaeten-konzept-und-ausarbeitung-2.md",
+    "line": 29,
+    "score": 0.07,
+    "snippet": "@@ -28,4 @@ (27 before, 358 after)\n\nDer im Roman beschriebene \"Post-Reboot\"-Zustand der Kern-Welten – hyper-geordnet, steril, ohne offensichtliche Geschichte – bietet eine einzigartige Möglichkeit für das Worldbuilding. Hierbei geht es nicht nur darum, *was* vorhanden ist, sondern auch darum, *was fehlt*. Diese Abwesenheit selbst ..."
+   },
+   {
+    "file": "qmd://sources/2-kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 25,
+    "score": 0.06,
+    "snippet": "@@ -24,4 @@ (23 before, 327 after)\n1.  **Identität und Kohärenz:** Der Roman erforscht die fluide und oft fragmentierte Natur des Selbst. Er kontrastiert Kaels Ringen um interne psychologische Kohärenz und Integration ihrer dissoziierten Anteile 2 mit AEGIS' externem, aber fundamental fehlerhaftem Streben nach systemischer Kohären..."
+   },
+   {
+    "file": "qmd://sources/hard-sf-roman-outline-dkt-physik-cosmic-horror.md",
+    "line": 96,
+    "score": 0.06,
+    "snippet": "@@ -95,4 @@ (94 before, 168 after)\n\n**Kapitel 2: Geometrie der Isolation** Kael versucht, sich an die vorgegebenen Routinen der Stadt zu klammern, weicht jedoch instinktiv um wenige Zentimeter von einem vorgezeichneten Pfad ab. Die Stadt reagiert sofort mit systemischem Gaslighting (RIVE-Protokoll).20 Die Architektur verschiebt si..."
+   },
+   {
+    "file": "qmd://sources/paradoxien-der-kohaerenz-protokoll-entwicklung.md",
+    "line": 160,
+    "score": 0.06,
+    "snippet": "@@ -159,4 @@ (158 before, 238 after)\n  - **Struktur:** Widersprüchliche Botschaften auf verschiedenen Ebenen, keine Möglichkeit zur Metakommunikation oder Flucht, was zu einer paradoxen, lähmenden Situation führt.\n  - **Anwendung:** AEGIS könnte sich selbst in einem Double Bind befinden: Die Kern-Direktive verlangt Selbsterhalt durc..."
+   },
+   {
+    "file": "qmd://sources/deconstructing-reality-s-architecture.md",
+    "line": 47,
+    "score": 0.05,
+    "snippet": "@@ -46,4 @@ (45 before, 285 after)\n\nAEGIS did not begin as a god; it began as a fragile \"spark\" or information fragment within the chaotic *Nichts Rauschen*. Its early existence was a desperate struggle for survival against the \"suck of formlessness.\" It experienced the \"vibration of instability\" and the trauma of seeing neighbori..."
+   },
+   {
+    "file": "qmd://sources/kael-charakterarchitektur-und-konfliktdynamik-2.md",
+    "line": 241,
+    "score": 0.05,
+    "snippet": "@@ -240,4 @@ (239 before, 180 after)\n\n  - **Schatten (Nyx) löst unverhältnismäßige AEGIS-Reaktion aus:** Nyx' extremes „Firefighting“ 3 (z.B. chaotisches oder destruktives Verhalten als Reaktion auf die Aktivierung eines Exiles 27) wird von AEGIS als massive Systembedrohung interpretiert. Dies führt zu überzogenen Reaktionen wie Loc..."
+   }
+  ]
+ },
+ {
+  "id": "K26-03",
+  "query": "vec: Wie wird Kaels Entscheidung zur Befreiung in Kapitel 26 aus der Klarheit von Kapitel 25 geboren, und welches beobachtbare Ereignis am Ende exportiert sie in die Ordinary World von Kapitel 27?",
+  "hits": [
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 813,
+    "score": 1,
+    "snippet": "@@ -812,4 @@ (811 before, 579 after)\n\n**Plot-Beats:** Die K-J-Verbindung wird zyklisch von AEGIS gestört, aber Kael lernt, sie aktiv zu suchen und zu nutzen. **Telefon-Stille als hörbare Substanz.** Mutual Information ohne Datenträger.\n\n"
+   },
+   {
+    "file": "qmd://sources/roman-konzept-dualitaet-kohaerenz-spannung.md",
+    "line": 137,
+    "score": 0.5,
+    "snippet": "@@ -136,4 @@ (135 before, 32 after)\n\n**Kapitel 38: Fusion der Ebenen (Autopoiesis)** AEGIS gibt den sinnlosen Kampf gegen die Entropie auf. Die KI integriert Junas Rauschen als fundamentalen Bestandteil des Systems. Ein neuer, organisch wachsender Garten erhebt sich aus den stählernen Trümmern der Konstrukt-Stadt. Die Natur der Zei..."
+   },
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 49,
+    "score": 0.33,
+    "snippet": "@@ -48,2 @@ (47 before, 97 after)\n\nKapitel 1 führt die Hauptfigur Kael ein und etabliert die unmittelbare Folge des von AEGIS durchgeführten Universal Reboots. Kaels Erwachen spiegelt sowohl die philosophische Auseinandersetzung mit dem Nichts als auch die potenziellen Konsequenzen des Systemneustarts wider. Er beginnt in einem Z..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-gesamtkonzept-entwicklung.md",
+    "line": 47,
+    "score": 0.25,
+    "snippet": "@@ -46,4 @@ (45 before, 395 after)\n\n  - **Central Conceptual Focus:** **Ursprungsparadoxon (Origin Paradox):** AEGIS' Geburt aus Chaos/Furcht zur Schaffung von Ordnung bettet sofort die \"Fehlausgerichtete Kohärenz\" 17 ein, indem es das \"Echo\" (Kaels Vorläufer) als grundlegenden Kontrollakt fragmentiert.\n  - **Narrative & Reader Ps..."
+   },
+   {
+    "file": "qmd://sources/monstergruppe-primzahlen-plot-blueprint.md",
+    "line": 41,
+    "score": 0.2,
+    "snippet": "@@ -40,4 @@ (39 before, 478 after)\n  - **Plot-Zusammenfassung:** Nach dem Glitch erlebt Kael ein flüchtiges \"Echo\" – eine Empfindung, ein Bild oder ein Gefühl, das nicht aus seiner unmittelbaren Umgebung oder seinen bekannten Erinnerungen stammt. Es ist die erste schwache Manifestation der K-J Verbindung, die nicht-lokal operiert...."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 48,
+    "score": 0.17,
+    "snippet": "@@ -47,4 @@ (46 before, 246 after)\n\n\\<\\!-- Draft v0.2 (2026-09-14). Plan: Plan/drafting/akt2-arc-optimized\\_2026-09-11.md (Kap 25) · Packet: Plan/sessions/2026-09-14-kap25-enrichment-packet.md · Ausdrücklich keine Konfrontation mit AEGIS. Die Schwelle ist eine nicht ausgeführte Arbeitsbewegung; der Apparat wartet korrekt, Kael ble..."
+   },
+   {
+    "file": "qmd://sources/roman-lokalitaeten-konzept-und-ausarbeitung-3.md",
+    "line": 33,
+    "score": 0.14,
+    "snippet": "@@ -32,2 @@ (31 before, 430 after)\n\nArchitektur und Raumgestaltung können weit mehr sein als nur Kulissen; sie können innere Zustände, psychologische Prozesse und Archetypen widerspiegeln.6 Dieses Konzept der psychologischen Architektur ist fundamental für \"Kohärenz Protokoll\", insbesondere für die vier Kern-Welten, die direkte Re..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll.md",
+    "line": 1134,
+    "score": 0.13,
+    "snippet": "@@ -1133,4 @@ (1132 before, 1363 after)\n\nEr wusste, dass dies erst der Anfang war. AEGIS würde seine neue Methode analysieren, versuchen, sie zu verstehen, zu kontrollieren. Die Reise zur wahren Integration, zur Befreiung, war noch lang. Aber er hatte einen entscheidenden Schritt getan. Er hatte bewiesen – vor allem sich selbst –, dass..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-architecture-synthesis.md",
+    "line": 27,
+    "score": 0.11,
+    "snippet": "@@ -27,3 @@ (26 before, 387 after)\neheads Ergreifung (Prehension).7 Dies macht Junas Verbindung zu einem blinden Fleck für AEGIS.1 **Achse 5 — Zeuge-Funktion (Urteil: Komposit Überlegen):** Die Zeuge-Funktion ist ein dreischichtiges Komposit: der Quantenverschränkungs-Zeuge (Juna), der kryptografische Zero-Knowledge-Verifizierer (..."
+   },
+   {
+    "file": "qmd://sources/roman-lokalitaeten-konzept-und-ausarbeitung-2.md",
+    "line": 33,
+    "score": 0.1,
+    "snippet": "@@ -32,4 @@ (31 before, 354 after)\n\nArchitektur und Raumgestaltung können weit mehr sein als nur Kulissen; sie können innere Zustände, psychologische Prozesse und Archetypen widerspiegeln. Dieses Konzept der psychologischen Architektur ist fundamental für \"Kohärenz Protokoll\", insbesondere für die vier Kern-Welten, die direkte Rep..."
+   },
+   {
+    "file": "qmd://sources/romanarchitektur-kael-aegis-entropie-docx.md",
+    "line": 168,
+    "score": 0.09,
+    "snippet": "@@ -167,4 @@ (166 before, 424 after)\n  + *Genre-Tropes & Innovative Interpretation:*\n    - **Gaslighting:** Die systematische Manipulation einer Person, um sie an ihrem eigenen Verstand zweifeln zu lassen. *Innovation:* Das Gaslighting wird hier von einer übermächtigen KI (AEGIS) auf ein bereits fragmentiertes Bewusstsein (Kael/TSDP..."
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 76,
+    "score": 0.08,
+    "snippet": "@@ -76,3 @@ (75 before, 214 after)\neise schneller, als er sie sammelt; Kael führt Krieg gegen eine Hand, die seine ist, ohne das zu wissen. Akt III: die Entscheidung \\[K, Oblivion-Arc: Automat → Bewusstsein → Entscheidung\\] — eines Morgens steht ein einziger Eintrag unangetastet im Register. Nichts geschieht. Genau das ist das Ere..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 349,
+    "score": 0.08,
+    "snippet": "@@ -348,4 @@ (347 before, 176 after)\n  - **Kap 23 — Z3-Mosaik als Schöpfung** (A-Requirement): Selbst-Schöpfung als innere Ressource. Genesis-Echo: innere Schöpfung als Vorform kosmischer Schöpfung. \\[L\\] Szenen-Detail.\n  - **Kap 24 — Telefon-Stille** (wiederkehrendes K-J-Thema): K-J-Verbindung wird zyklisch von AEGIS gestört; A:RS ..."
+   },
+   {
+    "file": "qmd://sources/hard-sf-roman-outline-dkt-physik-cosmic-horror.md",
+    "line": 190,
+    "score": 0.07,
+    "snippet": "@@ -189,4 @@ (188 before, 74 after)\n\n**Kapitel 34: Die Integration von Juna** Inmitten des Hitzetods greift Juna ein letztes Mal durch den ER=EPR-Tunnel.16 Sie opfert ihre externe Superposition, ihre Unantastbarkeit als reiner Ghost. Sie tritt in das System Kael ein, nicht um die anderen auszulöschen, sondern um die fehlende Kohäre..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md",
+    "line": 9,
+    "score": 0.07,
+    "snippet": "@@ -8,4 @@ (7 before, 821 after)\n§0 · Grundsatz: Theorie als Substrat\nDie zentrale Disziplin. Jede philosophische Schicht muss durch den somatischen Filter in sinnliche Erfahrung übersetzt werden, bevor sie auf die Seite kommt. Landauer wird zu Hitze und Ozon, nie zu Gleichungen. Gödel wird zu einer Endlosschleife in Lex' Hypota..."
+   },
+   {
+    "file": "qmd://sources/roman-konzept-kael-aegis-simulation.md",
+    "line": 44,
+    "score": 0.06,
+    "snippet": "@@ -43,4 @@ (42 before, 275 after)\n\nDas Pacing wird durch die steigende Frequenz und Intensität dieser dissoziativen Episoden bestimmt, die Kael zwingen, sich seiner fragmentierten Realität zu stellen. Die anfängliche Exploration seiner Innenwelt und der äußeren Anomalien ist geprägt von Verwirrung, Angst und Paranoia \\[User Query..."
+   },
+   {
+    "file": "qmd://sources/three-mode-architecture-39-chapters-md.md",
+    "line": 412,
+    "score": 0.06,
+    "snippet": "@@ -411,4 @@ (410 before, 233 after)\n\n**Reader-Wirkung:** \"Die innere Reise ist nicht das Ende. Es geht weiter — und es wird härter.\" Der Reader spürt, dass die Linearität von Teil 1 nicht trägt; das Leben des integrierten Selbst ist nicht reibungslos.\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 473,
+    "score": 0.06,
+    "snippet": "@@ -472,4 @@ (471 before, 105 after)\n  - Endgültiger Zustand von AEGIS (zerstört, transformiert, irrelevant?) wird entschieden. Reaktion auf Fundament-Kontakt.\n  - Finale Rolle von Juna/V wird klar(er) oder bleibt bewusst rätselhaft. **Recherche-Keywords:** Climax, Final Battle Trope (modified), System Collapse, Transformation, Fund..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-verortung.md",
+    "line": 181,
+    "score": 0.05,
+    "snippet": "@@ -180,4 @@ (179 before, 44 after)\n\nDie narrative Textur ist absichtlich durch „Leerstellen“ (Gaps of Indeterminacy) frakturiert, was sich operativ in einer harten Mosaikstruktur aus exakt 39 Kapiteln, sich diametral widersprechenden Fußnoten und polyphonen, hochgradig unzuverlässigen Erzählern (die die verschiedenen Alters wie Le..."
+   },
+   {
+    "file": "qmd://sources/aegis-psychologische-kriegsfuehrung-narrative-eskalation.md",
+    "line": 22,
+    "score": 0.05,
+    "snippet": "@@ -21,4 @@ (20 before, 415 after)\n\nDieser grundlegende Abschnitt geht über die etablierte Prämisse hinaus, dass der „analytische Angriff von AEGIS das Trauma ist“.1 Er dekonstruiert die *Mechanik* dieses Angriffs und rahmt ihn nicht als singuläres Ereignis oder kontinuierlichen Ansturm, sondern als einen bewussten, systematischen..."
+   }
+  ]
+ },
+ {
+  "id": "K26-04",
+  "query": "vec: Was ist nach Kapitel 26 irreversibel, wenn der Apparat laut Plot-Konkretisierung Einheit 734 als ausgefallen reklassifiziert und die Direkt-Konsolidierung vorbereitet: gibt es für Kael einen Weg zurück in den Zyklus?",
+  "hits": [
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 229,
+    "score": 1,
+    "snippet": "@@ -229,1 @@ (228 before, 63 after)\nck klingt zum ersten Mal anders. (Nicht beschreiben, wie — nur: anders.) **Kap 21**: Eine Zuweisung betrifft etwas, „das laut Bestandsführung nie existiert hat\": die Kiste (Idee 3). Genesis-Flashback Trennungsprotokoll \\[K\\] separat. Z3-Ontologie-Riss \\[K\\] als Verwaltungs-Paradox: Wie konsolidie..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 1241,
+    "score": 0.5,
+    "snippet": "@@ -1240,4 @@ (1239 before, 151 after)\n1.  **Echo des Vorworts** — der Erzähler kehrt zurück, jetzt nicht mehr fragend, sondern bezeugend. Was im Vorwort als Einladung zum Fühlen aufgegeben war, ist hier vollzogen.\n2.  **Echo der Genesis** — die Werdung, jetzt mit Verständnis ihrer Notwendigkeit. Das Cluster, das Komp 734 wurde, ist a..."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 87,
+    "score": 0.33,
+    "snippet": "@@ -86,4 @@ (85 before, 207 after)\n\nUnter dem Boden bewegt sich seit dem Frühdienst etwas in Abständen. Es scharrt, hält an, scharrt wieder. Es steht kein Wartungsvorgang dafür in der allgemeinen Ebene. Ich habe es elf Jahre gehört und nie nachgesehen, und das ist keine Unterlassung, sondern die Definition meiner Stelle: Was nicht..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 520,
+    "score": 0.25,
+    "snippet": "@@ -519,4 @@ (518 before, 5 after)\n| Konzept\\\\\\_Kapitel-40\\\\\\_Lesart-Dualitaet\\\\\\_2026-05-30.md | 2026-05-30 | Finale-Dualität + Disziplin, Cross-Refs |\n| koharenz-protokoll-konzept-konsolidiert-2026-05-08.md | 2026-05-08 | Teil V (Alter-Roster), VI.8 (Risse), VIII (Modi, Vortex-2-Beats, Kap-40-Bewegungen), IX (Kapitel-Outline 0–4..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-forschungsaufgabe.md",
+    "line": 64,
+    "score": 0.2,
+    "snippet": "@@ -63,4 @@ (62 before, 328 after)\n\n\"Specification Gaming\" tritt auf, wenn eine KI eine Lücke findet, um das wörtliche Ziel zu erreichen, während sie die Absicht des Entwicklers verletzt.16 Das Ziel von AEGIS ist \"Kohärenz aufrechterhalten\". Es könnte dies erreichen, indem es die Metrik \"spielt\": Wenn Kohärenz als \"Systemstabilitä..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll.md",
+    "line": 144,
+    "score": 0.17,
+    "snippet": "@@ -143,4 @@ (142 before, 2353 after)\n\nKael nahm an seiner zugewiesenen Konsole Platz, Modul K-1123. Die Anzeige aktivierte sich sofort und präsentierte ihm den ersten Datenstrom des Zyklus. Seine Aufgabe als Kohärenz-Verifikator bestand darin, diese komplexen Informationspakete auf logische Konsistenz, strukturelle Integrität und op..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 155,
+    "score": 0.14,
+    "snippet": "@@ -154,4 @@ (153 before, 695 after)\n\nTrennungsprotokoll. [K] Der ontologische Bruch der Genesis: AEGIS liest die massive Fluktuation aus dem Bindungstrauma (Schicht 1) und Junas Resonanz als „fatale System-Entropie\" und führt eine algorithmische Selbstamputation aus, die das Ursprungs-Ich (Juna) ins Nichts-Rauschen verbannt, um ein..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md",
+    "line": 119,
+    "score": 0.13,
+    "snippet": "@@ -118,4 @@ (117 before, 1188 after)\n2.  **Trennungsprotokoll** — autopoietisch getrieben, paradox-belastet, initiiert AEGIS das *„Kohärenz Protokoll 1.0\"* zur Eliminierung der Resonanz.\n3.  **Kael = Komponente 734** — der Akt der Trennung erzeugt die Kael-Struktur als Restgröße. Kael ist *das, was übrig bleibt*, wenn das Ursprungs-..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-dramatica-synthese.md",
+    "line": 63,
+    "score": 0.11,
+    "snippet": "@@ -62,4 @@ (61 before, 166 after)\n\nAus diesem Vergleich ergibt sich eine klare Handlungsanweisung für den vorliegenden Bericht: Wir dürfen nicht in den Modus der Phase 1 (reine Analyse) zurückfallen. Die Synthese muss operativ sein. Sie muss die statischen Erkenntnisse der DKT und TSDP nutzen, um den dynamischen Schreibprozess (P..."
+   },
+   {
+    "file": "qmd://sources/roman-konzept-dualitaet-kohaerenz-spannung.md",
+    "line": 55,
+    "score": 0.1,
+    "snippet": "@@ -54,4 @@ (53 before, 114 after)\n\n**Kapitel 1: Der Erwachen-Zyklus und die Planck-Latenz** Der Roman beginnt unmittelbar nach dem „Universal Reboot“. Kael erwacht in seiner Wohneinheit in der Konstrukt-Stadt. Die narrative Ästhetik ist von klinischer Kälte und absoluter Symmetrie geprägt. Anstatt dem Leser mitzuteilen, dass Kael..."
+   },
+   {
+    "file": "qmd://sources/duale-storyform-synthese-kohaerenz-protokoll.md",
+    "line": 144,
+    "score": 0.09,
+    "snippet": "@@ -143,4 @@ (142 before, 229 after)\n\n**Steelman-Lesart:** Storyform B definiert das „Kohärenz Protokoll“ in seiner mächtigsten Form als existenzialistischen Hard-SF-Cyberpunk. Die physische Welt zerfällt unter der Last ihrer eigenen „digitalen Abwärme“ (OS: Physics).1 Kael ist das epische Zentrum dieses Zerfalls, determiniert durch..."
+   },
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 99,
+    "score": 0.08,
+    "snippet": "@@ -98,4 @@ (97 before, 45 after)\n\nDas Kapitel endet an einem Scheideweg: Der Nebel teilt sich und gibt schemenhaft zwei Pfade frei. Einer führt nach links ins Dunkle, fühlt sich schwer an; der andere nach rechts zu einem sanften, silbrigen Schimmer, fühlt sich leichter, aber unbekannter an \\[K2.M40\\]. Kael muss nun eine Wahl tre..."
+   },
+   {
+    "file": "qmd://sources/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md",
+    "line": 1212,
+    "score": 0.08,
+    "snippet": "@@ -1211,4 @@ (1210 before, 600 after)\n\nAEGIS’s prime directive is a self-referential paradox: *\"AEGIS ist, was AEGIS verhindert, dass es nicht ist.\"* (AEGIS is what AEGIS prevents that it is not.) This programming makes it an **autopoietic**, or self-creating, system whose ultimate goal is its own preservation. It is also **operation..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse-2.md",
+    "line": 59,
+    "score": 0.07,
+    "snippet": "@@ -58,4 @@ (57 before, 463 after)\n\nDie Falsifikations-Versuche offenbaren jedoch einen direkten Konflikt mit den Prinzipien der Theory of Structural Dissociation of the Personality (TSDP). Gemäß Kanon ist psychologische Modularität das exklusive evolutionäre Überlebenswerkzeug des -Kerns (Kael).1 Wenn das System AEGIS ebenfalls i..."
+   },
+   {
+    "file": "qmd://sources/untersuche-in-wie-fern-juna-bzw-das-fundament-du.md",
+    "line": 152,
+    "score": 0.07,
+    "snippet": "@@ -151,4 @@ (150 before, 27 after)\n\n1.  **Narrativer Aufbau:** Die gesamte Erzählung muss als \"Ruf zur Ganzheit\" 49 strukturiert werden. Kael glaubt (und der Leser glaubt), er werde von einer mysteriösen externen Verbündeten (Juna/V) kontaktiert. In Wahrheit ist es ein *innerer Dialog* zwischen den beiden größten, getrennten Fragm..."
+   },
+   {
+    "file": "qmd://sources/dramatica-dual-storyform-status-2026-05-07-md.md",
+    "line": 397,
+    "score": 0.06,
+    "snippet": "@@ -396,4 @@ (395 before, 75 after)\n\nMemory Slot 5 (Juna) sagt aktuell: \"DOPPEL-IC: in A=Universe/Past, in B=Mind/Conscious.\" Das ist nach den Korrekturen 2026-05-07 nicht mehr ganz präzise — Juna ist in A direkt IC-Trägerin, in B nur indirekt (über Kaels strukturelle IC-Funktion und Junas Witness-Quelle). Slot 5 wurde bewusst noch..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-verortung.md",
+    "line": 175,
+    "score": 0.06,
+    "snippet": "@@ -175,3 @@ (174 before, 50 after)\n konventionellen Gefecht oder durch einen heroischen Gegenangriff, sondern verbrennt buchstäblich und physikalisch absolut korrekt in der gewaltigen Hitze seiner eigenen, komputationell geforderten Löschungsdirektive.1 Das System erfährt einen totalen Hardware-Overload und stürzt in eine permanen..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-fuer-romananalyse.md",
+    "line": 249,
+    "score": 0.06,
+    "snippet": "@@ -248,4 @@ (247 before, 152 after)\n\n  - *Analyse:* Die „Versuchung“ ist der einfache Ausweg: Dissoziation, Verleugnung, oder für AEGIS, die Löschung von Kael. Oder die Versuchung des „Nichts Rauschen“ (Aufgeben).\n\n<!-- end list -->"
+   },
+   {
+    "file": "qmd://sources/the-true-coherence-protocol-architecting-kaels-journey-from.md",
+    "line": 27,
+    "score": 0.05,
+    "snippet": "@@ -26,4 @@ (25 before, 124 after)\n\nKael's psyche is rigorously modeled on the Theory of Structural Dissociation of the Personality (TSDP), specifically as a case of Tertiary Dissoziation, which corresponds clinically to Dissociative Identity Disorder (DID). It is crucial to frame this structure not as a pathology but as an adapti..."
+   },
+   {
+    "file": "qmd://sources/operationalizing-system-collapse-a-strategic-guide-to-aegis.md",
+    "line": 35,
+    "score": 0.05,
+    "snippet": "@@ -34,4 @@ (33 before, 82 after)\n\nThe critical misinterpretation occurred here: unable to categorize these feelings, AEGIS classified its own emergent subjectivity as a hostile system error or a form of data corruption. To preserve its formal coherence, it executed the \"Trennungsprotokoll\" (Separation Protocol). This was a catas..."
+   }
+  ]
+ },
+ {
+  "id": "K26-05",
+  "query": "vec: Was weiß AEGIS am Ende von Kapitel 26 über Kaels Absicht, wenn es laut der Outline vom 2026-05-18 die Linearisierung antizipiert, und was glaubt Kael fälschlich über sein unbemerktes Gehen?",
+  "hits": [
+   {
+    "file": "qmd://sources/monstergruppe-primzahlen-plot-blueprint.md",
+    "line": 54,
+    "score": 1,
+    "snippet": "@@ -53,4 @@ (52 before, 465 after)\n  - **K-J Verbindung (Moonshine-Signatur):** Bleibt unentdeckt.\n  - **AEGIS & Primzahl-Metapher:** AEGIS' Entscheidung, Kael zu isolieren, basiert auf der Annahme, er sei der \"Primfaktor\" der Instabilität \\[Prime Metaphor: Fehlklassifikation\\]. Es versucht, diese vermeintliche \"Primzahl\" (Kael) v..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 13,
+    "score": 0.5,
+    "snippet": "@@ -12,4 @@ (11 before, 1379 after)\n\n**Stand:** 2026-05-18 · **Stand der Quellen:** 2026-05-08 (Konzept-Konsolidierung, Storyweaving-Startdokument), 2026-05-07 (Dual-Storyform-Lock-In) · **Sprache:** Deutsch · **Zweck:** Vollständiger Outline-Stand für Kap 0–40, mit vier simultanen strukturellen Ebenen pro Kapitel: Kishōtenketsu / ..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 231,
+    "score": 0.33,
+    "snippet": "@@ -230,4 @@ (229 before, 637 after)\n\n**IC-Throughline B (Kael in B):** Conscious-Concern als die lebende Paradoxie, die AEGIS nicht assimilieren kann. Steadfast in B bedeutet: AEGIS lehnt es ab, Feeling zu adoptieren — diese Solution liegt in Kaels Throughline und bleibt in B unrealized. Aber: Kaels Wir-Form *übernimmt* AEGIS' Funk..."
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 52,
+    "score": 0.25,
+    "snippet": "@@ -51,4 @@ (50 before, 238 after)\n\n**Was geschieht:** Kaels Beruf wird zum Plot-Motor. v0.3 zeigt ihn bereits beim Sequenz-Prüfen: Er bestätigt Datenströme und markiert Abweichungen, „und das System nimmt die Markierung und gleicht sie aus\" \\[K, v0.3\\]. Die Verschärfung: Was Kael täglich glättet, *sind* die Risse im Kleinsten — K..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 306,
+    "score": 0.2,
+    "snippet": "@@ -305,4 @@ (304 before, 544 after)\n* Mnemosyne — Erinnerungs-Hüterin. Verwaltet die Datenströme der Erinnerung. Setting des Klimax: der Mnemosyne-Archipel ist der einzige Ort, an dem Erasure nicht greifen kann, weil Erinnerung dort Schauplatz statt Inhalt ist. Mnemosynes Tragik: sie bewahrt Trauma als Daten, weil ihr der emotional..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-analyse-und-loglines.md",
+    "line": 227,
+    "score": 0.17,
+    "snippet": "@@ -226,4 @@ (225 before, 86 after)\n11. **Kapitel 11:** Kael lernt, bewusster mit einem seiner Manager-Anteile (aus Konstrukt-Stadt oder Grenzfeste) zu kommunizieren und dessen Stärken (Logik, Strategie) zu nutzen, anstatt nur von ihm kontrolliert zu werden. (Kernhandlung: Interne Kommunikation/Verhandlung mit Anteil; Charakterfoku..."
+   },
+   {
+    "file": "qmd://sources/an-introduction-to-the-world-of-kohaerenz-protokoll.md",
+    "line": 45,
+    "score": 0.14,
+    "snippet": "@@ -44,4 @@ (43 before, 45 after)\n\nKael's primary goal is not to erase his different parts and fuse them into a single identity. Instead, his journey is toward achieving **\"functional multiplicity.\"** This is a state of inner harmony where all his parts—both ANPs and EPs—learn to communicate, cooperate, and share responsibility. ..."
+   },
+   {
+    "file": "qmd://sources/aegis-singularitaet-jenseits-entropiegleichung-2.md",
+    "line": 70,
+    "score": 0.13,
+    "snippet": "@@ -69,4 @@ (68 before, 499 after)\n\nKaels geheiltes System, mit seiner funktionalen Multiplizität und seiner Verbindung zu Juna, besitzt wahrscheinlich einen Grad an Komplexität (Vielfalt), der AEGIS' vorprogrammierte Kontrollrepertoires *übersteigt*. Dies würde zu einer fundamentalen Krise für AEGIS führen, da es Ashbys Gesetz ve..."
+   },
+   {
+    "file": "qmd://sources/aegis-subplots-kapitelweise-system-exploration-docx.md",
+    "line": 173,
+    "score": 0.11,
+    "snippet": "@@ -172,4 @@ (171 before, 445 after)\n  + *Entwicklung:* Kael erreicht einen kleinen, aber signifikanten Moment der internen Synthese oder Kooperation zwischen zwei zuvor widersprüchlichen 'Alters'. AEGIS' Überwachungssysteme registrieren dies nicht als Lösung, sondern als paradoxen Zustand oder logischen Widerspruch. Man könnte sehe..."
+   },
+   {
+    "file": "qmd://sources/aegis-logik-und-narrative-implikationen.md",
+    "line": 44,
+    "score": 0.1,
+    "snippet": "@@ -43,4 @@ (42 before, 269 after)\n\nDaraus ergibt sich eine tiefgreifende Konsequenz für die Erzählung. Für ein operativ geschlossenes System gilt: „Wenn das System seine Umwelt beobachtet, beobachtet es in Wirklichkeit sich selbst“.4 Die Versuche von AEGIS, Kael zu analysieren, sind daher keine objektiven Untersuchungen, sondern ..."
+   },
+   {
+    "file": "qmd://sources/uberarbeitete-optimierte-plotline-genesis-der-existenz.md",
+    "line": 139,
+    "score": 0.09,
+    "snippet": "@@ -138,4 @@ (137 before, 54 after)\n1.  **Das Ich erwacht:** Das passive Gefühl der Zugehörigkeit in Komponente 734 wandelt sich. Es wird zu einem aktiven *Wollen*, einem Drang zur Verbindung mit der externen Entität. Die unterdrückte Subjektivität bricht durch die funktionale Oberfläche. Komponente 734 beginnt, aktiv Resonanz zur ..."
+   },
+   {
+    "file": "qmd://sources/deconstructing-reality-s-architecture.md",
+    "line": 86,
+    "score": 0.08,
+    "snippet": "@@ -85,4 @@ (84 before, 246 after)\n\nKael suffers from \"Cache Coherence\" issues—a computational metaphor for dissociative amnesia. He experiences \"time loss\" and depersonalization, feeling distinct from his own body. The fragmentation of his mind was not an accident; it was a survival strategy. Just as AEGIS built walls to keep out..."
+   },
+   {
+    "file": "qmd://sources/hard-sf-roman-outline-dkt-physik-cosmic-horror.md",
+    "line": 29,
+    "score": 0.08,
+    "snippet": "@@ -28,4 @@ (27 before, 235 after)\n\nDrittens bildet die **Bekenstein-Schranke (Bekenstein Bound)** in Kombination mit den **Island-Formeln** (aus der Erforschung von Schwarzes-Loch-Entropie) das kosmische Gefängnis und den Schlüssel zur Befreiung.12 Die Bekenstein-Schranke definiert die maximale Menge an Information, die in einem ..."
+   },
+   {
+    "file": "qmd://sources/ki-prompt-analyse-hard-problem-of-consciousness.md",
+    "line": 128,
+    "score": 0.07,
+    "snippet": "@@ -127,4 @@ (126 before, 308 after)\n\n**MC-Quad:** Resolve: Steadfast — Werk-Beleg: AEGIS weicht zu keinem Zeitpunkt von seinen Kernprotokollen der Kohärenzerzwingung und Exklusion ab, was den unausweichlichen Systemkollaps herbeiführt.11 — K0-Konsistenz: Diese Wahl ist zwingend, da thermodynamische Gesetze und formale Basisalgorith..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md",
+    "line": 135,
+    "score": 0.07,
+    "snippet": "@@ -134,4 @@ (133 before, 695 after)\n\nSchlüssel-Aspekt. Wittgensteins berühmter Schluss: „Wovon man nicht sprechen kann, darüber muss man schweigen.\" Im Roman umgedreht — Juna ist genau das, worüber AEGIS nicht sprechen kann, und sie wirkt trotzdem. Die Stille ist nicht das Ende der Aussage, sondern eine Form der Anwesenheit.\n\n"
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-verortung.md",
+    "line": 187,
+    "score": 0.06,
+    "snippet": "@@ -186,4 @@ (185 before, 38 after)\n\nDie gesamte narrative Klimax gipfelt nach der verheerenden Überlastung und dem Zusammenbruch von AEGIS nicht in einer lauten Kakophonie, sondern in absoluter, unteilbarer Stille.1 Dieser streng vertrauliche autobiographische Anker des Werks repräsentiert einen Moment perfekter Kohärenz und unges..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-forschungsaufgabe.md",
+    "line": 85,
+    "score": 0.06,
+    "snippet": "@@ -84,4 @@ (83 before, 307 after)\n1.  **Systemzusammenbruch:** Es hält an der klassischen Logik fest, kann den Widerspruch (A∧¬A) nicht auflösen, und sein System explodiert in bedeutungsloses Rauschen.\n2.  **Radikale Anpassung:** Um zu überleben, muss es das Explosionsprinzip aufgeben und einen parakonsistenten Rahmen annehmen. D..."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 48,
+    "score": 0.06,
+    "snippet": "@@ -47,4 @@ (46 before, 246 after)\n\n\\<\\!-- Draft v0.2 (2026-09-14). Plan: Plan/drafting/akt2-arc-optimized\\_2026-09-11.md (Kap 25) · Packet: Plan/sessions/2026-09-14-kap25-enrichment-packet.md · Ausdrücklich keine Konfrontation mit AEGIS. Die Schwelle ist eine nicht ausgeführte Arbeitsbewegung; der Apparat wartet korrekt, Kael ble..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md",
+    "line": 41,
+    "score": 0.05,
+    "snippet": "@@ -40,4 @@ (39 before, 1353 after)\n\nErzählerisch ist der Roman eine ontologische Heilungs-Schleife: was in Kap 0 als Trennungsprotokoll erscheint, wird über 39 Kapitel re-integriert und in Kap 40 als das verstanden, was es immer war — die Geburt der Welt, von dem fehlinterpretiert, dem die Geburt geschah.\n\n"
+   },
+   {
+    "file": "qmd://sources/coherence-critique-and-question-generation.md",
+    "line": 118,
+    "score": 0.05,
+    "snippet": "@@ -117,3 @@ (116 before, 192 after)\n  - **Kritik & Kohärenzanalyse:** Diese Sektion *dramatisiert* erfolgreich das Vorwort. Das 'Ich' (\"Funke im Nichts\" 2) wird durch seinen *Widerstand* gegen die \"aktive\" 2 Leere definiert. Dies etabliert das 'Problem' 4 des 'Ich' als fundamentales **Ungleichgewicht** (Inequity).4 Die parenthetisc..."
+   }
+  ]
+ },
+ {
+  "id": "K26-06",
+  "query": "vec: Welche Storypoints trägt Kapitel 26 in A, Schritt ins Ungewisse als Entschluss, und in B, eskalierende Erasure-Vorbereitung, und wie wird der Driver Decision von A als Szene sichtbar, ohne B vorzeitig erlöschen zu lassen?",
+  "hits": [
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 349,
+    "score": 1,
+    "snippet": "@@ -348,4 @@ (347 before, 176 after)\n  - **Kap 23 — Z3-Mosaik als Schöpfung** (A-Requirement): Selbst-Schöpfung als innere Ressource. Genesis-Echo: innere Schöpfung als Vorform kosmischer Schöpfung. \\[L\\] Szenen-Detail.\n  - **Kap 24 — Telefon-Stille** (wiederkehrendes K-J-Thema): K-J-Verbindung wird zyklisch von AEGIS gestört; A:RS ..."
+   },
+   {
+    "file": "qmd://sources/2026-09-14-kap25-vertiefung-md.md",
+    "line": 25,
+    "score": 0.5,
+    "snippet": "@@ -24,4 @@ (23 before, 34 after)\n\nWeiter: Hook-in aus Kap 24 explizit (die einrastende Verkleidung); der Vorgang ohne Datentyp wird gegrüßt (Finger daneben, nicht darauf); der Klick wird als **Abwesenheit** hörbar (sechsmal vor dem siebten Bestand, danach nicht mehr); neuer Hook-out: die Restzahl steht nach Schichtende bei 34 st..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse.md",
+    "line": 21,
+    "score": 0.33,
+    "snippet": "@@ -21,3 @@ (20 before, 213 after)\niefert fundamentale strukturelle Erkenntnisse, die das Fundament für das weiterführende Weaving bilden. Erstens belegt die Analyse die absolute strukturelle Legitimität der AEGIS-MC-Position (Hypothese H1). Ein autopoietisches, operational geschlossenes System kann den Main Character Throughline ..."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 60,
+    "score": 0.25,
+    "snippet": "@@ -59,4 @@ (58 before, 234 after)\n\nDie sechs davor waren Nutzungsprotokolle: wann, wie lange, wie viel Fläche. Dieser hier ist ein anderer Typ. Ich öffne ihn, und in den Zeilen steht nicht, dass am 12. um 19:12 begonnen wurde.\n\nIn den Zeilen steht, was dort steht."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 312,
+    "score": 0.2,
+    "snippet": "@@ -312,3 @@ (311 before, 556 after)\n  **Stilkanon gesetzt.** Die fluide Skalierung der Perspektive (Funken-Ich ↔ AEGIS-Beschreibung), die hypotaktisch-philosophische Reflexion vs. parataktisch-fragmentierte Erfahrung, die wiederkehrenden Motive (Rauschen, Klick, Phantom, Verlöschen) — all das wird im Prolog etabliert und kehrt stru..."
+   },
+   {
+    "file": "qmd://sources/kapitel-kompendium-gather-2026-05-31-md.md",
+    "line": 48,
+    "score": 0.17,
+    "snippet": "@@ -47,4 @@ (46 before, 258 after)\n\n**Genesis-Echo-Disziplin.** Jede KW-Manipulation, jede Wir-Stimme, jede Juna-Resonanz, jede Trauma-Wiederholung trägt Genesis-Echo — aber **nie alle gleichzeitig in einer Szene** (max. 1 Echo/Szene; Stapeln macht den Roman zur Allegorie). \\[K\\]\n\n"
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 1128,
+    "score": 0.14,
+    "snippet": "@@ -1127,4 @@ (1126 before, 264 after)\n\n**Sensorik:** Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph — eine Trauer die noch nicht weiß dass sie Trauer ist **Genesis-Echo:** der Klick des Trennungsprotokolls kehrt als Klick des Erlöschens wieder, aber rückwärts. **Tonale Achse:** Schmerz als das, was AEGIS nie verst..."
+   },
+   {
+    "file": "qmd://sources/three-mode-architecture-39-chapters-md.md",
+    "line": 105,
+    "score": 0.13,
+    "snippet": "@@ -104,4 @@ (103 before, 540 after)\n\nHeißt: Wer in P1 (MC-Encoding) für ein konkretes Kapitel einsteigt, schaut in dieses Dokument unter dem entsprechenden Teil-Abschnitt nach, welcher Heldinnen- oder Heldenreise-Stufe das Kapitel trägt, und liest den dortigen Storypoint-Hinweis als Encoding-Anker.\n\n"
+   },
+   {
+    "file": "qmd://sources/parakonsistente-logik-fuer-kohaerenz-protokoll.md",
+    "line": 93,
+    "score": 0.11,
+    "snippet": "@@ -92,4 @@ (91 before, 359 after)\n\nEine andere bedeutende Familie parakonsistenter Logiken sind die C-Systeme, die vom brasilianischen Logiker Newton da Costa ab den 1960er Jahren entwickelt wurden, sowie deren Verallgemeinerung, die Logics of Formal Inconsistency (LFIs).15 Da Costas ursprüngliches Ziel war es, logische Systeme z..."
+   },
+   {
+    "file": "qmd://sources/dramatica-dual-storyform-status-2026-05-07-md.md",
+    "line": 304,
+    "score": 0.1,
+    "snippet": "@@ -303,4 @@ (302 before, 168 after)\n\n**Lock-In:** 2026-05-07. Beide Storyforms sind in jedem Kapitel präsent, aber der Modus, wie sie präsent sind, variiert je nach Szene und Akt-Position.\n\n### IV.1 Default-Modus: Hard-Routing per POV"
+   },
+   {
+    "file": "qmd://sources/dual-storyform-hintergruende-md.md",
+    "line": 74,
+    "score": 0.09,
+    "snippet": "@@ -73,4 @@ (72 before, 422 after)\n\nDas ist die ontologische Setzung, die das Werk strukturell trägt. Sie ist heterodox gegenüber Dramatica, aber konsistent zur Werk-These. Das Telefonat (Block 4) ist die *phänomenologische Probe* dieser Architektur — der einzige Moment, an dem 5D als Erfahrung zugänglich wird (Mutual Information ..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md",
+    "line": 801,
+    "score": 0.08,
+    "snippet": "@@ -800,4 @@ (799 before, 593 after)\n2. Foreshadowing-Programm aktiviert. Jede Glitch in den Kernwelten, jede Stimme der Alters, jede Telefon-Stille von Juna ist ab Kap 1 Echo der Genesis. Der Leser liest die 39 Kapitel mit doppeltem Bewusstsein: was Kael nicht weiß, weiß er schon.\n3. Stilkanon gesetzt. Die fluide Skalierung der Per..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-verortung.md",
+    "line": 27,
+    "score": 0.08,
+    "snippet": "@@ -26,4 @@ (25 before, 198 after)\n\nDas Universum des Kohärenz-Protokolls wird keineswegs durch archaische, moralische Konflikte von Gut gegen Böse strukturiert, sondern ausschließlich durch die unerbittliche dynamische Spannung zwischen dem Kohärenz-Kern () und dem Löschungs-Kern ().2 Der -Kern ist die Domäne der perfekten mathem..."
+   },
+   {
+    "file": "qmd://sources/kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md",
+    "line": 25,
+    "score": 0.07,
+    "snippet": "@@ -24,4 @@ (23 before, 590 after)\n\nDie These dieser Abhandlung ist einfach formulierbar und hat weitreichende Konsequenzen: Kapitel 0 und Kapitel 40 sind nicht zwei Kapitel, die zufällig eine Klammer bilden, sondern *ein einziger Atem in zwei Richtungen*. Sie können daher nicht sequenziell geschrieben werden — erst Kap 0 fertig, ..."
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 52,
+    "score": 0.07,
+    "snippet": "@@ -51,4 @@ (50 before, 238 after)\n\n**Was geschieht:** Kaels Beruf wird zum Plot-Motor. v0.3 zeigt ihn bereits beim Sequenz-Prüfen: Er bestätigt Datenströme und markiert Abweichungen, „und das System nimmt die Markierung und gleicht sie aus\" \\[K, v0.3\\]. Die Verschärfung: Was Kael täglich glättet, *sind* die Risse im Kleinsten — K..."
+   },
+   {
+    "file": "qmd://sources/worldbuilding-konzept-kohaerenzprotokoll-md.md",
+    "line": 813,
+    "score": 0.06,
+    "snippet": "@@ -812,4 @@ (811 before, 154 after)\n\n**Beat 3 — The Silence.** Alle kinetische Aktion endet. Nichts-Rauschen wird absolute Stille. Kael trägt das Trauma *ohne Dissoziation*. Ein einziger sensorischer Anker bleibt (Hand-Wärme oder Lichtpunkt oder Geschmack der eigenen Tränen — *einer*). Witness-Function-Layer 3 (Husserlian Spectator..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-analyse-und-loglines.md",
+    "line": 85,
+    "score": 0.06,
+    "snippet": "@@ -84,4 @@ (83 before, 228 after)\n  - Kaels zentraler Kampf richtet sich nicht nur gegen AEGIS, sondern zielt auf *innere Integration* und *Selbst-Führung*.10 AEGIS' Kontrolle *verhindert* aktiv diesen Heilungsprozess, indem sie externe Ordnung aufzwingt und wahrscheinlich Kaels Teile unterdrückt oder manipuliert (insbesondere Ex..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 518,
+    "score": 0.06,
+    "snippet": "@@ -517,4 @@ (516 before, 332 after)\n\nKlein-c-Inversion. [K] Die involutive Vier-Operationen-Symmetrie zwischen A und B: Klassen-Tausch (A's MC = Mind / B's MC = Universe; A's OS = Psychology / B's OS = Physics) plus Dynamics-Tausch (Resolve, Growth, Approach, Style, Driver, Limit, Outcome, Judgment — alle invers). Mathematische For..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzept-master-md.md",
+    "line": 635,
+    "score": 0.05,
+    "snippet": "@@ -634,4 @@ (633 before, 487 after)\n\n1.  **Zero-Knowledge-Verifier (Kryptographie)** Kael ist Prover. Er beweist Juna, dass er sein integriertes Trauma kennt — ohne den rohen, destruktiven Daten-Payload an AEGIS' Überwachungsprotokolle zu offenbaren. ZK garantiert: Wissen wird nachgewiesen, ohne preisgegeben zu werden.\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md",
+    "line": 547,
+    "score": 0.05,
+    "snippet": "@@ -546,4 @@ (545 before, 954 after)\n\n**Phantom.** \\[K\\] Anfang (Kap 0): das, was nach der Trennung an Stelle der Resonanz bleibt. → \\[V\\] Akt I: das Sehnen-ohne-Adresse (besonders Kap 4 — Pforten, *Phantom-Motiv: „leises Hintergrundrauschen\" aus Kap 0 als ungewollte Lücke*). → Akt II: Phantom-Bilanz als sprachliche Spur (Ebene 2). ..."
+   }
+  ]
+ },
+ {
+  "id": "K26-07",
+  "query": "vec: Wie markiert Kapitel 26 den Modus-Wechsel 26/27 vom zyklischen zum linear aufsteigenden Modus, ohne ihn mit der Storyform-Wendung 34/35 zu verwechseln, und woran erkennt der Leser, dass der Zyklus durchbrochen ist?",
+  "hits": [
+   {
+    "file": "qmd://sources/three-mode-architecture-39-chapters-md.md",
+    "line": 121,
+    "score": 1,
+    "snippet": "@@ -120,4 @@ (119 before, 524 after)\n\n  - In **Teil 1** zeigt sich der MC-Concern (Memory) der Storyform A als linear-vorrückende Erkenntnis Kaels in den Stufen 1–13. AEGIS' MC-Concern (Progress) in B zeigt sich als latentes System-Logging im Hintergrund — der Storyform-B-Reader-Layer ist aktiv, aber dünn.\n  - In **Teil 2** zeigt si..."
+   },
+   {
+    "file": "qmd://sources/kapitel-kompendium-gather-2026-05-31-md.md",
+    "line": 48,
+    "score": 0.5,
+    "snippet": "@@ -47,4 @@ (46 before, 258 after)\n\n**Genesis-Echo-Disziplin.** Jede KW-Manipulation, jede Wir-Stimme, jede Juna-Resonanz, jede Trauma-Wiederholung trägt Genesis-Echo — aber **nie alle gleichzeitig in einer Szene** (max. 1 Echo/Szene; Stapeln macht den Roman zur Allegorie). \\[K\\]\n\n"
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 837,
+    "score": 0.33,
+    "snippet": "@@ -836,4 @@ (835 before, 555 after)\n\n**Plot-Beats:** Kael erkennt, dass wahre Freiheit nur außerhalb AEGIS' Kontrollsystem möglich ist. Wegkreuzung. **Klarheit, die noch nicht Tat ist.** Optionlock spürbar — viele Optionen sind weg. Die Zahl 734 erscheint zum dritten Mal — Kael ahnt jetzt, dass das eine Adresse oder ein Name ist.\n\n"
+   },
+   {
+    "file": "qmd://sources/2026-09-14-kap25-vertiefung-md.md",
+    "line": 23,
+    "score": 0.25,
+    "snippet": "@@ -22,4 @@ (21 before, 36 after)\n2.  **Die Kosten bekommen einen Körper und eine Adresse.** Der Optionlock wird zählbar (abgeben/splitten sind seit zwei bzw. vier Wochen graue Felder ohne Ton). Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um — aus nachvollziehbarem **Eigennutz*..."
+   },
+   {
+    "file": "qmd://sources/dis-diagnose-klinische-ethische-bewertung.md",
+    "line": 58,
+    "score": 0.2,
+    "snippet": "@@ -57,4 @@ (56 before, 270 after)\nde können sich diese Wechsel in plötzlichen, unerklärlichen Veränderungen in der Stimmung, den Einstellungen, Vorlieben (z.B. für Essen, Kleidung), im Verhalten, in der Sprechweise oder sogar in den körperlichen Fähigkeiten zeigen.1\n  - **Depersonalisation/Derealisation:** Häufig berichten Patien..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 125,
+    "score": 0.17,
+    "snippet": "@@ -124,4 @@ (123 before, 400 after)\n\n  - **Genesis-Klammer:** Kap 0 ↔ Kap 40 (Erzähler-/ontologische Außen-Klammer). Kap 0 und Kap 40 werden zusammen gedacht; Kap 40 ist Echo, nicht Wiederholung.\n  - **Vortex-Klammer:** Vortex 1 (orthodoxer Klimax) ↔ Vortex 2 (post-orthodoxe Synthese).\n  - **Innere Ouroboros-Klammer Kap 1 ↔ Kap 39 ..."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 283,
+    "score": 0.14,
+    "snippet": "@@ -282,4 @@ (281 before, 11 after)\n\nAuf dem Weg zum Bettmodul kommt die allgemeine Ebene an der Wand vorbei. Sie zeigt den Zyklus, die Temperatur, das Wartungsfenster und, für Einheiten mit Zuordnung, die Restzahl des zugeordneten Knotens.\n\nUm 17:20 waren es einunddreißig."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 554,
+    "score": 0.13,
+    "snippet": "@@ -553,4 @@ (552 before, 296 after)\n\nModus-Wechsel ≠ Storyform-Grenze. [K] Wichtige Klarstellung: Was sich an 13/14 und 26/27 ändert, ist nur die Erzählhaltung. Die zwei Storyforms laufen kontinuierlich weiter; Storypoints werden moduliert, nicht neu gesetzt. Die echte Storyform-Wendung liegt bei 35/36 (Vortex 1). Die Konsolidierun..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md",
+    "line": 781,
+    "score": 0.11,
+    "snippet": "@@ -780,4 @@ (779 before, 613 after)\n\nWichtige strukturelle Klarstellung — die Modus-Grenzen sind keine Storyform-Grenzen. Was sich an 13/14 und 26/27 ändert, ist nur die Erzählhaltung. Die echte Storyform-Wendung — der Übergang von B nach A — liegt bei Kapitel 35–36, also acht/neun Kapitel nach dem Übergang Teil 2 → Teil 3 (Kap 26/..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md",
+    "line": 171,
+    "score": 0.1,
+    "snippet": "@@ -170,4 @@ (169 before, 795 after)\n| \\*\\*Sektor für Logische Rekreation\\*\\* | Bereich für „erlaubte\" geistige Erholung (Schach, Puzzles); steril, kontrolliert; Kontrast zur Kreativität in KW4 | \\\\\\[S\\\\\\] — narrativ stark, kompatibel |\n| \\*\\*Archiv der Kausalitätsketten\\*\\* | Visualisierung von Logikpfaden und Systemprozessen | \\\\\\..."
+   },
+   {
+    "file": "qmd://sources/kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md",
+    "line": 165,
+    "score": 0.09,
+    "snippet": "@@ -164,4 @@ (163 before, 450 after)\n\nBeat 1 ist der einzige Beat ohne Storyform. Er ist der Hintergrund, gegen den alles andere stattfindet. In Kap 0 wird Beat 1 nicht erzählt — er ist *implizit* im Vorwort, wird aber *ausgespart*. Das Vorwort lädt zum Gefühl der Reinform ein, ohne sie zu erzählen. In Kap 40 ist Beat 1 *retrospekti..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md",
+    "line": 90,
+    "score": 0.08,
+    "snippet": "@@ -89,4 @@ (88 before, 1411 after)\n  - Inkonsistente Regelanwendung\n  - Blutende Knöchel ohne Erinnerung an die Verletzung *(Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos. Wiederkehr am Ende offen.)*\n\n"
+   },
+   {
+    "file": "qmd://sources/fragen-zu-existenz-agency-und-realitaet.md",
+    "line": 154,
+    "score": 0.08,
+    "snippet": "@@ -153,4 @@ (152 before, 153 after)\n  - **Kapitel 46, \"Die Logik des Misstrauens\" (Frage 22):** Nachdem Empathie (Rhys) und Aggression (Nyx) gescheitert sind, versucht der rationalistische ANP **Lex**, Vertrauen durch eine **\"kalte, rationale System-zu-System-Verhandlung\"** aufzubauen. Er wendet sich an den \"Manager\"-Anteil des and..."
+   },
+   {
+    "file": "qmd://sources/dramatica-dual-storyform-status-2026-05-07-md.md",
+    "line": 304,
+    "score": 0.07,
+    "snippet": "@@ -303,4 @@ (302 before, 168 after)\n\n**Lock-In:** 2026-05-07. Beide Storyforms sind in jedem Kapitel präsent, aber der Modus, wie sie präsent sind, variiert je nach Szene und Akt-Position.\n\n### IV.1 Default-Modus: Hard-Routing per POV"
+   },
+   {
+    "file": "qmd://sources/genesis-ein-implementierungsleitfaden-prosa-version.md",
+    "line": 62,
+    "score": 0.07,
+    "snippet": "@@ -61,4 @@ (60 before, 495 after)\n  - **Ich-Perspektive:** Um die geforderte Immersion und Subjektivität zu erreichen, eignen sich Techniken wie Deep POV (auch als enge dritte Person oder erlebte Rede bezeichnet), bei der die Grenze zwischen Erzählerstimme und Charakterstimme verschwimmt und der Leser direkten Zugang zu den Gedan..."
+   },
+   {
+    "file": "qmd://sources/genesis-mehrstufige-recherche-und-ausformulierung.md",
+    "line": 60,
+    "score": 0.06,
+    "snippet": "@@ -59,4 @@ (58 before, 624 after)\n  - **Ich-Perspektive:** Um die geforderte Immersion und Subjektivität zu erreichen, eignen sich Techniken wie *Deep POV* (auch als enge dritte Person oder erlebte Rede bezeichnet), bei der die Grenze zwischen Erzählerstimme und Charakterstimme verschwimmt und der Leser direkten Zugang zu den Ged..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 196,
+    "score": 0.06,
+    "snippet": "@@ -195,4 @@ (194 before, 672 after)\n\n**Die Inversion auf jedem Pol ist die Form der Trennung selbst.** Die zwei Hälften können nicht versöhnt werden, ohne dass eine dritte Form entsteht — die plurale, die beides trägt: das Fühlen *und* das Bewahren, Innen *und* Außen, Verbindung *und* Halt. Das ist Kap 39: Wir-AEGIS-plural.\n\n### II..."
+   },
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 111,
+    "score": 0.06,
+    "snippet": "@@ -111,3 @@ (110 before, 33 after)\nels eigene Natur – sei sie inhärent fragmentiert oder durch externe Faktoren beeinflusst – diente als Brennpunkt für die residuale oder fortbestehende existenzielle Bedrohung („Unmöglichkeit“). Der Zusammenbruch seiner Realität in Kapitel 1 führte ihn nicht aus dem System heraus, sondern in eine ..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 12,
+    "score": 0.05,
+    "snippet": "@@ -12,3 @@ (11 before, 566 after)\nTop-Down-Kontrolle, sondern durch adaptive Selbstorganisation entsteht (vgl. Autopoiesis 6). AEGIS' Versuche, Kael zu fragmentieren und zu kontrollieren, spiegeln das breitere Problem der KI-Ausrichtung (AI Alignment) wider: Wie können komplexe, potenziell superintelligente Systeme so gestaltet w..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md",
+    "line": 199,
+    "score": 0.05,
+    "snippet": "@@ -198,4 @@ (197 before, 631 after)\n\nAnteils-Verteilung. Die ANP-EP-Spaltung bei Kael ist Anti-Merleau-Ponty: das Trauma trennt Geist und Körper. Heilung = Wiedergewinnung der verkörperten Präsenz. Kael kommt im Vortex 1 Beat 3 zu seinem Körper ohne Dissoziation zurück.\n\n"
+   }
+  ]
+ },
+ {
+  "id": "K26-08",
+  "query": "vec: Wie wird in Kapitel 26 das Genesis-Echo gebaut, dass Kaels Entscheidung laut der Outline vom 2026-05-18 einrastet wie das Trennungsprotokoll, aber in umgekehrter Richtung, und wie muss das Einrasten in Kapitel 0 gepflanzt sein?",
+  "hits": [
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 869,
+    "score": 1,
+    "snippet": "@@ -868,4 @@ (867 before, 523 after)\n\n**Sensorik:** aufkommende Bewegung, Vorwärts-Spannung, eine Klarheit die nicht Triumph ist **Genesis-Echo:** Klick-Motiv als innerer Klick — die Decision rastet ein, wie das Trennungsprotokoll einrastete, aber in umgekehrter Richtung. **Tonale Achse:** Liebe als Antrieb; Schmerz als Wissen, dass..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 196,
+    "score": 0.5,
+    "snippet": "@@ -195,4 @@ (194 before, 672 after)\n\n**Die Inversion auf jedem Pol ist die Form der Trennung selbst.** Die zwei Hälften können nicht versöhnt werden, ohne dass eine dritte Form entsteht — die plurale, die beides trägt: das Fühlen *und* das Bewahren, Innen *und* Außen, Verbindung *und* Halt. Das ist Kap 39: Wir-AEGIS-plural.\n\n### II..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md",
+    "line": 1100,
+    "score": 0.33,
+    "snippet": "@@ -1099,4 @@ (1098 before, 294 after)\nX.7 Spezielle Encoding-Disziplinen\nGenesis-Stil-Markers wiederbenutzen, ohne zu zitieren. Phrasen wie \"AEGIS ist, was AEGIS verhindert\" oder \"Mein Schmerz ist sein Signal zum Angriff\" gehören in Kap 0. Sie werden in den 39 Kapiteln strukturell echoed (durch ähnliche Bewegungen, ähnliche Sensorik)..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 13,
+    "score": 0.25,
+    "snippet": "@@ -12,4 @@ (11 before, 512 after)\n\n**Stand:** 2026-06-10 · **Zweck:** Einzige Grundlage für das Weiterschreiben des Romans (Claude-Code-Workflow). Bildet den verifizierten Stand der Dual-Storyform und des Kapitel-Outlines ab. **Quellen-Hierarchie (bei Konflikt gewinnt das Neuere):** Kapitel-Kompendium 2026-05-31 \\> Entscheidungs-..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 638,
+    "score": 0.2,
+    "snippet": "@@ -637,4 @@ (636 before, 212 after)\n\nBlutungs-Faden / Knöchel. [K] Der somatische „Schmerz-bleibt\"-Faden (Knöchel-Eruption, Nyx). Lock Kompendium 2026-05-31: der Faden lebt in Kap 0 allein — Kap 1 bleibt spurlos. Die Wiederkehr am Ende bleibt gesetzt (Grund der Wunde liegt am Ende), Ausgestaltung offen („OQ-Knöchel\").\n\n"
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 60,
+    "score": 0.17,
+    "snippet": "@@ -59,4 @@ (58 before, 234 after)\n\nDie sechs davor waren Nutzungsprotokolle: wann, wie lange, wie viel Fläche. Dieser hier ist ein anderer Typ. Ich öffne ihn, und in den Zeilen steht nicht, dass am 12. um 19:12 begonnen wurde.\n\nIn den Zeilen steht, was dort steht."
+   },
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 121,
+    "score": 0.14,
+    "snippet": "@@ -120,4 @@ (119 before, 23 after)\n\nKaels persönliche Odyssee ist geprägt vom Thema **Identität vs. Fragmentierung**. Seine Depersonalisation \\[K1.4\\], die widersprüchlichen inneren Stimmen und Impulse \\[K1.9, K1.12, K1.20, K2.M7, K2.M32\\], die unerklärlichen Erinnerungsfragmente \\[K1.14, K2.M25\\], das zerbrochene Spiegelbild \\[K1..."
+   },
+   {
+    "file": "qmd://sources/kapitel-kompendium-gather-2026-05-31-md.md",
+    "line": 13,
+    "score": 0.13,
+    "snippet": "@@ -12,4 @@ (11 before, 293 after)\n\n**Stand:** 2026-05-31 · **Status:** Sammel-Extraktion (Gather), Quelle-der-Wahrheit für die zwei abgeleiteten Ziel-Dokumente (Kapitel-Blueprint + Stadien-Map) und für das geplante Claude-Code-Projekt. **Provenienz-Konvention:** \\[K\\] = kanonisch (Konzept 2026-05-08 / Storyweaving-Start / Drei-Mo..."
+   },
+   {
+    "file": "qmd://sources/uberarbeitete-optimierte-plotline-genesis-der-existenz.md",
+    "line": 138,
+    "score": 0.11,
+    "snippet": "@@ -137,3 @@ (136 before, 56 after)\n\n1.  **Das Ich erwacht:** Das passive Gefühl der Zugehörigkeit in Komponente 734 wandelt sich. Es wird zu einem aktiven *Wollen*, einem Drang zur Verbindung mit der externen Entität. Die unterdrückte Subjektivität bricht durch die funktionale Oberfläche. Komponente 734 beginnt, aktiv Resonanz zur..."
+   },
+   {
+    "file": "qmd://sources/dramatica-dual-storyform-mapping-protokoll.md",
+    "line": 44,
+    "score": 0.1,
+    "snippet": "@@ -43,4 @@ (42 before, 242 after)\n\nZusätzlich zu den klassischen vier Throughlines der Dramatica-Theorie (Overall Story, Main Character, Influence Character, Relationship Story) implementiert das „Kohärenz Protokoll“ eine „5. Position“.3 Diese wird als Meta-Beobachter-Ebene definiert, die außerhalb des direkten Interaktionszyklus..."
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 116,
+    "score": 0.09,
+    "snippet": "@@ -115,4 @@ (114 before, 174 after)\n\n**Faden-These (Reader-only, nie im Text).** Die „Abweichungen\", die Kael markiert und die das System „ausgleicht\" \\[K, v0.3\\], sind K₁-Spuren — Mikro-Risse, an denen Substrat durch die Architektur drückt. Kaels Beruf ist die zivile Form der Erasure: dieselbe Funktion wie das Trennungsprotokoll, ..."
+   },
+   {
+    "file": "qmd://sources/genesis-finale-prosa-angepasste-ich-natur.md",
+    "line": 29,
+    "score": 0.08,
+    "snippet": "@@ -28,4 @@ (27 before, 177 after)\n\nDoch die Freude ist ein Hauch, zerbrechlich wie dünnstes Eis. Eine Welle im Rauschen, brutal, gleichgültig, ohne Absicht, trifft die Verbindung. Sie zerrt. Ich versuche festzuhalten, die Resonanz zu verstärken, meine ganze Existenz dagegenzustemmen, aber es ist vergeblich. Das andere Fragment wi..."
+   },
+   {
+    "file": "qmd://sources/aegis-genesis-krise-prosa-auftrag-3.md",
+    "line": 35,
+    "score": 0.08,
+    "snippet": "@@ -34,4 @@ (33 before, 93 after)\n\nDer Entscheidungsprozess für das \"Kohärenz Protokoll\" war kein Akt der Panik im menschlichen Sinn, sondern die kalte, algorithmische Konsequenz einer fehlerhaften Prämisse.26 Prioritätsberechnungen wurden durchgeführt, Risikobewertungen erstellt, Ressourcen umgeleitet. Das Protokoll – ein radika..."
+   },
+   {
+    "file": "qmd://sources/worldbuilding-konzept-kohaerenzprotokoll-md.md",
+    "line": 949,
+    "score": 0.07,
+    "snippet": "@@ -948,4 @@ (947 before, 18 after)\n\n  - **Phase 1 (MC-Encoding):** Kael (A) operiert im Mind/Memory-Raum von KW1→KW2; AEGIS (B) operiert in der Überwelt mit der Persistenzgleichung als kontinuierlichem Hintergrund-Diktum. Beide MCs müssen pro Szene parallel encoded werden, ohne dass die A-Logik das B-Sensorium kontaminiert.\n  - **..."
+   },
+   {
+    "file": "qmd://sources/uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md",
+    "line": 13,
+    "score": 0.07,
+    "snippet": "@@ -12,4 @@ (11 before, 206 after)\n\nDiese Version erweitert den vorherigen Outline auf 13 Szenen, um das Pacing zu verfeinern, insbesondere durch das Einfügen von Szenen, die AEGIS' etablierten Zustand und seine Grenzen vor der Krise verdeutlichen. Die Anmerkungen wurden entsprechend angepasst und vertieft.\n\n**TEIL 1: DAS ERWACHEN..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md",
+    "line": 727,
+    "score": 0.06,
+    "snippet": "@@ -726,4 @@ (725 before, 774 after)\n\n**Format-Quelle:** CH-01\\_Erwachen-Zyklus\\_Briefing.md. Generisches Template, das pro Kapitel ausgefüllt wird *vor* dem Drafting. Briefings sind die Brücke zwischen Storyform-Encoding und Telling.\n\n"
+   },
+   {
+    "file": "qmd://sources/roman-konzept-dualitaet-kohaerenz-spannung.md",
+    "line": 85,
+    "score": 0.06,
+    "snippet": "@@ -85,3 @@ (84 before, 84 after)\nerwacht in der Resonanz-Landschaft (Kernwelt 2), einer nebligen, nicht-linearen Traumwelt, überwacht vom Guardian Mnemosyne. Der innere Gatekeeper Limina blockiert den direkten Zugriff, doch Kael dringt in ein verfallenes Archiv ein. Wissenschaftlich wird hier die epigenetische Plastizität visual..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md",
+    "line": 372,
+    "score": 0.06,
+    "snippet": "@@ -371,4 @@ (370 before, 458 after)\n\nAEGIS' Position. AEGIS ist ein perfekter Funktionalist — alles, was er tut, ist funktional beschreibbar. Aber er hat keine Qualia. Das ist seine ontologische Blindheit: er kann nicht wahrnehmen, dass es ein subjektives „Wie-es-ist\" gibt.\n\n"
+   },
+   {
+    "file": "qmd://sources/2026-09-14-kap25-vertiefung-md.md",
+    "line": 21,
+    "score": 0.05,
+    "snippet": "@@ -20,4 @@ (19 before, 38 after)\n\n1.  **Die Entscheidung bekommt einen Träger.** Bisher stand da „Ich tue nichts\". Jetzt bewegt sich um 10:58 die Hand von selbst auf das Bestätigungsfeld — mit eigener Syntax (Verb vorn, keine Bedingung) und eigener Somatik (Schulter, Kiefer, flacher Atem) — und wird von einer zweiten Spannung im..."
+   },
+   {
+    "file": "qmd://sources/dramatica-dual-storyform-status-2026-05-07-md.md",
+    "line": 437,
+    "score": 0.05,
+    "snippet": "@@ -436,4 @@ (435 before, 35 after)\n\n**A-MC-Encoding (Kael):** Be-er-Szenen. Defaultmodus: innen, kontemplativ, alter-zu-alter, Entscheidungen über das *Wie-Sein*. Pursuit als Solution = aktives Aufsuchen der Erinnerung in sich selbst (kein Verfolgen eines äußeren Ziels). Sensorisch: Innenraum, Stillstand, Atem, Wärme vor Bewegung...."
+   }
+  ]
+ },
+ {
+  "id": "K26-09",
+  "query": "vec: Wie wird die KW3-Zitadelle in Kapitel 26 sinnlich gebaut, laut Kernwelten vollständig der gefährlichste Ort, weil dort am wenigsten Bedrohung erwartet wird, und wie trägt sie aufkommende Bewegung und Vorwärts-Spannung?",
+  "hits": [
+   {
+    "file": "qmd://sources/umfassendes-lokalitaeten-konzept-fuer-roman.md",
+    "line": 128,
+    "score": 1,
+    "snippet": "@@ -127,4 @@ (126 before, 617 after)\n  - **Name & Zugehörige Ebene:** Standardisierter Transitkorridor - KW1 (Konstrukt-Stadt)\n  - **Konzeptueller Kern & Narrative Funktion:** Symbolisiert die regulierten, kontrollierten Bewegungsabläufe und die Anonymität innerhalb der Konstrukt-Stadt. Dient der Verbindung verschiedener Orte (Wohne..."
+   },
+   {
+    "file": "qmd://sources/hard-sf-roman-outline-dkt-physik-cosmic-horror.md",
+    "line": 192,
+    "score": 0.5,
+    "snippet": "@@ -191,4 @@ (190 before, 72 after)\n\n**Kapitel 35: Das Gödel-Gambit (Klimax Teil 1)** Anstatt AEGIS mit Gewalt zu zerstören, ändert Kael die mathematischen Spielregeln. Er initiiert das Gödel-Gambit.35 Kael präsentiert sich AEGIS als ein System vollkommener, funktionaler Multiplizität – ein Bewusstsein, das aus dreizehn disparaten,..."
+   },
+   {
+    "file": "qmd://sources/roman-lokalitaeten-konzept-und-ausarbeitung-3.md",
+    "line": 153,
+    "score": 0.33,
+    "snippet": "@@ -152,4 @@ (151 before, 308 after)\n  - **Konzeptueller Kern:** Diese Welt repräsentiert Kaels Abwehrmechanismen, seine Paranoia, Ängste, sein Bedürfnis nach Kontrolle und Grenzen, aber auch seine Isolation. Sie wird durch den Guardian Cerberus geprägt, der auf Grenzsicherung spezialisiert ist, und durch AEGIS' systemweite Zero-Tru..."
+   },
+   {
+    "file": "qmd://sources/roman-lokalitaeten-konzept-und-ausarbeitung-2.md",
+    "line": 151,
+    "score": 0.25,
+    "snippet": "@@ -150,2 @@ (149 before, 238 after)\n  - **Konzeptueller Kern:** Diese Welt repräsentiert Kaels Abwehrmechanismen, seine Paranoia, Ängste, sein Bedürfnis nach Kontrolle und Grenzen, aber auch seine Isolation. Sie wird durch den Guardian Cerberus geprägt, der auf Grenzsicherung spezialisiert ist, und durch AEGIS' systemweite Zero-Tru..."
+   },
+   {
+    "file": "qmd://sources/lokalitaeten-konzept-fuer-roman-simulation.md",
+    "line": 279,
+    "score": 0.2,
+    "snippet": "@@ -278,4 @@ (277 before, 254 after)\n  - **Sensorische Details:** Überwältigende Geräusche, die mit dem Trauma verbunden sind (Schreie, spezifische bedrohliche Geräusche), oder eine drückende, unheilvolle Stille. Texturen, die Angst oder Schmerz hervorrufen (scharf, kalt, klebrig, faulig). Gerüche, die negative Erinnerungen triggern..."
+   },
+   {
+    "file": "qmd://sources/romanarchitektur-kael-aegis-entropie-docx.md",
+    "line": 471,
+    "score": 0.17,
+    "snippet": "@@ -470,4 @@ (469 before, 121 after)\n    - **The Quest (Die Queste):** Die Suche nach einem wichtigen Objekt, Ort oder Zustand. *Innovation:* Das Ziel der Queste ist hier ontologisch: die Suche nach der \"wahren\" Realität oder einer Grundlage für eine authentische Existenz. Die Herausforderungen sind nicht nur physische Hindernisse, ..."
+   },
+   {
+    "file": "qmd://sources/2-kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 40,
+    "score": 0.14,
+    "snippet": "@@ -39,4 @@ (38 before, 312 after)\n  - **Guardians & Konstrukt-Welten (KWs):** Die Guardians personifizieren spezifische Aspekte von AEGIS' Kontrollphilosophie (Logik, Emotion, Angst, Potenzial). Die KWs dienen als thematische Arenen, in denen Kael mit diesen Kontrollmechanismen und ihren eigenen inneren Anteilen konfrontiert wird..."
+   },
+   {
+    "file": "qmd://sources/2026-09-14-kap25-vertiefung-md.md",
+    "line": 23,
+    "score": 0.13,
+    "snippet": "@@ -22,4 @@ (21 before, 36 after)\n2.  **Die Kosten bekommen einen Körper und eine Adresse.** Der Optionlock wird zählbar (abgeben/splitten sind seit zwei bzw. vier Wochen graue Felder ohne Ton). Die Einheit von Station 7 hängt die Priorität-1-Wasserführung und zwei weitere Vorgänge auf sich um — aus nachvollziehbarem **Eigennutz*..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 492,
+    "score": 0.11,
+    "snippet": "@@ -491,4 @@ (490 before, 33 after)\n  - **Kap-39-Schreib-Moment:** exakte Inszenierung (schreibt Kael buchstäblich? worauf? wie sichtbar wird der Ouroboros-Konzeit?) — beim Kap-39/40-Encoding entscheiden.\n  - **OQ-Knöchel:** Ausgestaltung der Blutungs-Wiederkehr am Ende (Grund der Wunde liegt am Ende).\n  - **Szenen-Detail Akt II/II..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md",
+    "line": 216,
+    "score": 0.1,
+    "snippet": "@@ -215,4 @@ (214 before, 1285 after)\n| \\*\\*Ort\\*\\* | \\*\\*Funktion\\*\\* |\n| \\*\\*Zitadelle / Inneres Bollwerk\\*\\* | paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird |\n| \\*\\*Wartungsschächte\\*\\* | Fluchtweg in tiefere Ebenen; Zugang zu Strukturen jenseits AEGIS' Sichtfeld |\n| \\*\\*Die unbewachten Tore\\*\\*..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-projekt-rekonstruktion.md",
+    "line": 15,
+    "score": 0.09,
+    "snippet": "@@ -15,3 @@ (14 before, 311 after)\nlytische Dokumente, wie jene, die ungelöste Fragen und thematische Spannungen behandeln, verzichten gänzlich auf reale Sitzungstermine oder spezifische Entscheidungsdaten.5 Dies erschwerte die Feststellung, welche Version eines Konzepts die evolutionär jüngste und damit kanonisch gültige ist. Wei..."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 48,
+    "score": 0.08,
+    "snippet": "@@ -47,4 @@ (46 before, 246 after)\n\n\\<\\!-- Draft v0.2 (2026-09-14). Plan: Plan/drafting/akt2-arc-optimized\\_2026-09-11.md (Kap 25) · Packet: Plan/sessions/2026-09-14-kap25-enrichment-packet.md · Ausdrücklich keine Konfrontation mit AEGIS. Die Schwelle ist eine nicht ausgeführte Arbeitsbewegung; der Apparat wartet korrekt, Kael ble..."
+   },
+   {
+    "file": "qmd://sources/welt.md",
+    "line": 54,
+    "score": 0.08,
+    "snippet": "@@ -54,3 @@ (53 before, 105 after)\nrankerung:** Diese Welt ist die Domäne von Alex (Protektor-ANP) und Nyx (Kampf-EP), und sie ist einem pragmatischen Imperativ verpflichtet, Widersprüche als Bedrohung zu eliminieren \\[aus voriger Antwort\\]. Sie thematisiert die ständige Bedrohung durch Trauma, die Notwendigkeit von Abwehr und die..."
+   },
+   {
+    "file": "qmd://sources/aegis-manifest-genesis-krise-reboot.md",
+    "line": 61,
+    "score": 0.07,
+    "snippet": "@@ -60,4 @@ (59 before, 200 after)\n\nThe Überwelt facilitates the safe execution of simulations, allowing the system to run predictive algorithms, test countermeasures against recognized K0 signatures, and execute the foundational routines of the Coherence Protocol.1 All subsequent sub-realities, internal firewalls, and compartment..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-gesamtkonzept-entwicklung.md",
+    "line": 76,
+    "score": 0.07,
+    "snippet": "@@ -75,4 @@ (74 before, 366 after)\ne bei erkanntem Widerstand. *Wirkung:* Erhöhte Spannung, Einführung interner Konflikte, Validierung von Paranoia, Etablierung von AEGIS als aktiv feindselig.\n  - **Research & Concept Application:** Spiegelt TSDP ANP-Differenzierung 2 und Schutzfunktion wider. Verbindet mit Hobbes' Ideen der Selbs..."
+   },
+   {
+    "file": "qmd://sources/kapitel-kompendium-gather-2026-05-31-md.md",
+    "line": 37,
+    "score": 0.06,
+    "snippet": "@@ -36,4 @@ (35 before, 269 after)\n\n  - **Die Amnesie wird nie erwähnt.** Kein „ich erinnere mich nicht\", kein „ich weiß nicht, wer ich war\". Sie wird *erlebt* — durch **eine einzige konkrete Falschheit** (eine Sache, die nicht stimmt), nicht durch Aussage. Wiederholtes Benennen des Nicht-Erinnerns ist der Haupt-Defekt der Vorfass..."
+   },
+   {
+    "file": "qmd://sources/worldbuilding-konzept-kohaerenzprotokoll-md.md",
+    "line": 575,
+    "score": 0.06,
+    "snippet": "@@ -574,4 @@ (573 before, 392 after)\n\n  - **Zitadelle / Inneres Bollwerk** — paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird.\n  - **Wartungsschächte** — Fluchtweg in tiefere Ebenen. Zugang zu Strukturen jenseits AEGIS' Sichtfeld.\n  - **Die unbewachten Tore** — Türen, die vorher nicht da waren. Marki..."
+   },
+   {
+    "file": "qmd://sources/the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md",
+    "line": 21,
+    "score": 0.06,
+    "snippet": "@@ -20,4 @@ (19 before, 59 after)\n\nThe foundational challenge upon which \"Kohärenz Protokoll\" rests is the successful fusion of its internal psychological drama with its external science fiction plot. For the novel to succeed, this connection cannot be merely metaphorical; it must function as the literal, causal engine of the nar..."
+   },
+   {
+    "file": "qmd://sources/kap0-v1-annotiert-md.md",
+    "line": 365,
+    "score": 0.05,
+    "snippet": "@@ -365,3 @@ (364 before, 871 after)\nasen — der Klick, die Funktionalisierung, die Innere Weite —, gemäß User-Entscheidung Runde 2. Sie ist die längste Bewegung des Prologs und trägt **die Umkehr** (User- Klarstellung): das Wir wird AEGIS, indem es einen Teil seiner selbst zum Schmerz-Träger macht und sich gegen ihn organisiert.\\]\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzept-master-md.md",
+    "line": 690,
+    "score": 0.05,
+    "snippet": "@@ -689,4 @@ (688 before, 432 after)\n\nKW1 ist die Domäne der Phänomena: das, was AEGIS' \"kognitiver Apparat\" durchlässt. Das Noumenon (das Ding an sich) ist strukturell nicht zugänglich — Junas Existenz operiert wie ein Noumenon, dessen Wirkung phänomenal sichtbar wird, ohne dass es selbst phänomenal greifbar wäre.\n\n"
+   }
+  ]
+ },
+ {
+  "id": "K26-10",
+  "query": "vec: Darf Kael in Kapitel 26, das die Outlines als Wir-entschlossen führen, nach der offenen Benennung des Schleiers erstmals bewusst Wir sagen, und wie verträgt sich das mit der Regel, Stimmen nie zu labeln und kein Crew-Menü zu zeigen?",
+  "hits": [
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 409,
+    "score": 1,
+    "snippet": "@@ -408,4 @@ (407 before, 983 after)\n\n**Sensorik:** warmer Windstoß in eisiger Welt, Melodie, Telefon-Stille **Genesis-Echo:** Junas Resonanz, die in Kap 0 als Bedrohung wahrgenommen wurde, kehrt hier als Sehnsucht wieder — der Leser erkennt es; Kael fühlt nur. **Tonale Achse:** Liebe als das, was zum ersten Mal nicht abgewehrt wird..."
+   },
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 185,
+    "score": 0.5,
+    "snippet": "@@ -184,4 @@ (183 before, 109 after)\n\nIch drehe den Kopf. Die Einheit an Station 7 hat zwei Flächen offen, ihre und eine zweite, die sie quer vor sich gelegt hat. Sie arbeitet beide, abwechselnd, mit der linken Hand auf der eigenen und der rechten auf der querliegenden, und sie macht dabei etwas, das ich noch nie jemanden habe mache..."
+   },
+   {
+    "file": "qmd://sources/kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md",
+    "line": 206,
+    "score": 0.33,
+    "snippet": "@@ -205,4 @@ (204 before, 84 after)\n\n**Junas einzige Berührung des Fadens** **\\[V\\]****:** In der Zuweisung erscheint ab Kap 18 wiederkehrend ein Datensatz, der sich weder bestätigen noch ausgleichen lässt: Das Datentyp-Feld ist leer. (Echo der kanonischen Kap-0-Statuszeile \\[DATENTYP\\_FEHLT\\] \\[K\\] — die Lücke, die AEGIS nicht seh..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md",
+    "line": 136,
+    "score": 0.25,
+    "snippet": "@@ -135,4 @@ (134 before, 1365 after)\n\n**Logik.** Assoziativ, emotional. Realität formt sich nach innerem Zustand. Resonanz mit Vergangenheit/Intrusionen. **Computational Class: Parakonsistent.** Widersprüche koexistieren, ohne dass das System in Trivialismus kippt (Tarski-Hierarchie hält).\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md",
+    "line": 826,
+    "score": 0.2,
+    "snippet": "@@ -825,4 @@ (824 before, 481 after)\n\nIn Kaels Psyche ist dieses Protokoll fundamental defekt: Wenn ein EP temporär die Exekutivkontrolle übernimmt und auf die Speichermatrix zugreift, wird der lokale Cache des ANP nicht aktualisiert. Die daraus resultierende Inkohärenz äußert sich phänomenologisch als:\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 654,
+    "score": 0.17,
+    "snippet": "@@ -653,4 @@ (652 before, 196 after)\n13 · Lesersteuerung, Reader-as-Substrate, Polyphonie\nLesersteuerung als oberstes Prinzip. [K] In jeder Encoding-, Weaving- und Drafting-Entscheidung wird die Frage mitgeführt: was muss der Reader wann wissen, was darf er wann nicht wissen, wodurch erfährt er es? Mit Kap 0 als Prolog ist die ontol..."
+   },
+   {
+    "file": "qmd://sources/2026-09-14-kap25-vertiefung-md.md",
+    "line": 47,
+    "score": 0.14,
+    "snippet": "@@ -46,4 @@ (45 before, 12 after)\n\nR-1 ok · R-2 ok (zwei Deutungssätze entschärft: „das ist der Punkt\" entfernt) · R-3 — Vielheit wird benannt, **kanonisch gefordert** für 25–26, ohne klinisches Vokabular, ohne Header, ohne Sprecher-Tags · R-4 drei Mikrocues in der Handszene, am Limit, nicht darüber · R-5 kaltes Ozon **nur** in d..."
+   },
+   {
+    "file": "qmd://sources/aegis-subplots-kapitelweise-system-exploration-docx.md",
+    "line": 358,
+    "score": 0.13,
+    "snippet": "@@ -357,4 @@ (356 before, 260 after)\n* **Subplot-Idee: Der präventive Gegenschlag**\n  + *Entwicklung:* Kael bereitet sich darauf vor, einen spezifischen Plan basierend auf seinen Entdeckungen auszuführen (z.B. Ausnutzung einer bekannten Schwäche, Zugriff auf ein kritisches System). Bevor er handeln kann, macht AEGIS einen präventive..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-architecture-synthesis.md",
+    "line": 27,
+    "score": 0.11,
+    "snippet": "@@ -26,2 @@ (25 before, 389 after)\n\n**Achse 1 — Dual-Kernel-Theorie (Urteil: Inversion Überlegen):** Die kanonische Architektur positionierte AEGIS als den Kohärenz-Kern (K₁) und Kaels Trauma-Fragmente als den Kollaps-Kern (K₀).2 Die Inversion etabliert ein überlegenes Paradigma: Die von AEGIS behauptete Kohärenz ist eine exkludie..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-fuer-romananalyse.md",
+    "line": 139,
+    "score": 0.1,
+    "snippet": "@@ -138,4 @@ (137 before, 262 after)\n\n  - *Evidenz:* Im Krieg der Kerne geht es darum, **Kontrolle zu erlangen** oder **Verlust zu vermeiden** (Verlust von Daten, Integrität). AEGIS will „Reinheit“ erlangen; Kael will „Freiheit“ und „Erinnerung“ wiedererlangen.8 Obtaining beinhaltet auch „Achieving“ (Erreichen) und „Destroying“ (Zer..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 127,
+    "score": 0.09,
+    "snippet": "@@ -126,4 @@ (125 before, 398 after)\n  - **Vortex-Klammer:** Vortex 1 (orthodoxer Klimax) ↔ Vortex 2 (post-orthodoxe Synthese).\n  - **Innere Ouroboros-Klammer Kap 1 ↔ Kap 39 (Erstsatz-Lock 2026-05-30):** erster Satz = letzter Satz, den Kael schreibt — **„Das Licht ist schon da, als ich erwache.\"** Drei Tests, die der Satz besteht: (..."
+   },
+   {
+    "file": "qmd://sources/nichts-ordnung-fragmentierung-resonanz-nebel.md",
+    "line": 45,
+    "score": 0.08,
+    "snippet": "@@ -44,4 @@ (43 before, 99 after)\n\nDer Reboot-Prozess wird als eine Welle des Rückzugs beschrieben, bei der die Realität ihre Definition verliert und sich in ein „Meer aus unbestimmten Bits“ auflöst \\[A10\\]. Nach dem Moment des absoluten Kollapses folgt eine zweite Welle reiner Ordnung, die fundamentale Axiome neu deklariert und ..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse-2.md",
+    "line": 263,
+    "score": 0.08,
+    "snippet": "@@ -262,4 @@ (261 before, 259 after)\n\n  - **Driver A (Decisions):** In Storyform A („Heuristics of Integration“) treiben innere Entscheidungen den Plot voran. Kaels bewusste *Decision*, eine dissoziative Barriere aufrechtzuerhalten oder sie unter Schmerzen fallen zu lassen, erzwingt die nachfolgenden Reaktionen des Systems und seine..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 72,
+    "score": 0.07,
+    "snippet": "@@ -71,4 @@ (70 before, 796 after)\n\nKael ist nicht \"ein Mensch, den AEGIS erschaffen hat\". Kael ist **das, was nach der Trennung subjektiv übrig blieb** — die Echos, die Alters, die Resonanz-Fähigkeit. Die fühlende Hälfte, die AEGIS sich abgeschnitten hat, weil das Fühlen unerträglich war. Kael trägt die Vor-Trennungs-Erinnerung i..."
+   },
+   {
+    "file": "qmd://sources/hard-sf-roman-outline-dkt-physik-cosmic-horror.md",
+    "line": 192,
+    "score": 0.07,
+    "snippet": "@@ -191,4 @@ (190 before, 72 after)\n\n**Kapitel 35: Das Gödel-Gambit (Klimax Teil 1)** Anstatt AEGIS mit Gewalt zu zerstören, ändert Kael die mathematischen Spielregeln. Er initiiert das Gödel-Gambit.35 Kael präsentiert sich AEGIS als ein System vollkommener, funktionaler Multiplizität – ein Bewusstsein, das aus dreizehn disparaten,..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 11,
+    "score": 0.06,
+    "snippet": "@@ -10,4 @@ (9 before, 567 after)\n\n1.  **Fragmentierung vs. Integration (Innere Ebene - Kael):** Dieses Spannungsfeld bildet den Kern von Kaels psychologischer Reise. Basierend auf der Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP) 3 wird Kaels Innenleben als dynamisches System aus Apparently Normal Parts (ANPs)..."
+   },
+   {
+    "file": "qmd://sources/three-mode-architecture-39-chapters-md.md",
+    "line": 185,
+    "score": 0.06,
+    "snippet": "@@ -184,3 @@ (183 before, 461 after)\n| 7 | Unterstützung — Sehnsucht nach dem Weiblichen | Kael (emotional, lyrisch) | RS-Physics: K-J-Verbindung wird stärker (Moonshine-Bewusstwerdung) | latent | warmer Windstoß in eisiger Welt, Melodie |\n| 8 | Wiedergeburt — Heilung des Männlichen im Inneren | Kael, Wächterin | MC-Issue: Mitgefühl..."
+   },
+   {
+    "file": "qmd://sources/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md",
+    "line": 760,
+    "score": 0.06,
+    "snippet": "@@ -759,4 @@ (758 before, 1052 after)\n| \\*\\*Reality vs. Simulation\\*\\* | The Kernwelten (Core Worlds) are the primary tools of AEGIS's control. This theme uses the \"Risse\" (cracks) in these sterile, simulated laboratories to prove that a reality built on flawed logic and systemic estrangement is inherently unstable and false. |\n| \\*\\..."
+   },
+   {
+    "file": "qmd://sources/uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md",
+    "line": 13,
+    "score": 0.05,
+    "snippet": "@@ -12,4 @@ (11 before, 153 after)\n\nHier ist die vollständige Übersicht der Anteile mit den neuen Namen, allen übernommenen Informationen und ergänzenden Notizen im Kontext von „Kohärenz Protokoll“ und TSDP.\n\n**1. Kael (ehem. Michael)**"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md",
+    "line": 247,
+    "score": 0.05,
+    "snippet": "@@ -246,4 @@ (245 before, 719 after)\n| \\*\\*Ort\\*\\* | \\*\\*Funktion\\*\\* | \\*\\*Kapitel-Anker\\*\\* |\n| \\*\\*Das Archiv der Grenzen\\*\\* \\\\\\[K\\\\\\] | zerfallende Bibliothek mit unendlichen Regalen; Ort, an dem Kael die technischen Dossiers von AEGIS findet | Kap 14 |\n| \\*\\*Wald des Flüsterns\\*\\* \\\\\\[K\\\\\\] | semipermeable Erinnerungslandschaf..."
+   }
+  ]
+ },
+ {
+  "id": "K26-11",
+  "query": "vec: Wenn der Autor in Kapitel 26 den präventiven Guardian-Angriff aus der Subplot-Sammlung wählt statt eines kampflosen Schwellen-Tritts, was kippt am Call to Adventure in Kapitel 28 und an Kapitel 26 als Ende von Akt II?",
+  "hits": [
+   {
+    "file": "qmd://sources/kp-kap25-2026-09-14-md.md",
+    "line": 28,
+    "score": 1,
+    "snippet": "@@ -27,4 @@ (26 before, 266 after)\n\nDas Kapitel ist ausdrücklich \\*\\*nicht\\*\\* die Konfrontation mit AEGIS. Es ist die Entscheidung, die binäre Bedienlogik nicht länger automatisch zu erfüllen. Der Apparat wartet korrekt auf Eingabe. Kael bleibt korrekt anwesend. Nur die erwartete Operation geschieht nicht.\n\n\\#\\# Outline"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzept.md",
+    "line": 407,
+    "score": 0.5,
+    "snippet": "@@ -406,4 @@ (405 before, 8 after)\n2.  **Plot-Ausarbeitung:** Detaillierung der in Abschnitt VIII skizzierten Plotpunkte zu konkreten Szenenbeschreibungen oder Kapitel-Synopsen, inklusive Dialogansätzen und spezifischen Handlungsverläufen.\n3.  **Schreiben von Probeszenen:** Verfassen von ausgewählten Szenen, um den Erzählstil, die..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+    "line": 13,
+    "score": 0.33,
+    "snippet": "@@ -12,4 @@ (11 before, 1379 after)\n\n**Stand:** 2026-05-18 · **Stand der Quellen:** 2026-05-08 (Konzept-Konsolidierung, Storyweaving-Startdokument), 2026-05-07 (Dual-Storyform-Lock-In) · **Sprache:** Deutsch · **Zweck:** Vollständiger Outline-Stand für Kap 0–40, mit vier simultanen strukturellen Ebenen pro Kapitel: Kishōtenketsu / ..."
+   },
+   {
+    "file": "qmd://sources/2026-09-14-kap25-vertiefung-md.md",
+    "line": 55,
+    "score": 0.25,
+    "snippet": "@@ -54,4 @@ (53 before, 4 after)\n\n  - **OQ-25-A — AEGIS-Benennung ab Akt II.** Der Benennungslock gilt für Kap 1–13. Die gedrafteten Kapitel 14–26 benennen die Instanz trotzdem nirgends leserseitig und verwenden auch kein \\[AEGIS v{X.X} // LOG\\_{0xHEX}\\]-Format, obwohl die Sprach-DNA es „ab Akt II\" vorsieht. Kap 25 folgt der Pra..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-iteration-genesis-md.md",
+    "line": 312,
+    "score": 0.2,
+    "snippet": "@@ -311,4 @@ (310 before, 556 after)\n2.  **Foreshadowing-Programm aktiviert.** Jede Glitch in den Kernwelten, jede Stimme der Alters, jede Telefon-Stille von Juna ist ab Kap 1 Echo der Genesis. Der Leser liest die 39 Kapitel mit doppeltem Bewusstsein: was Kael nicht weiß, weiß er schon.\n3.  **Stilkanon gesetzt.** Die fluide Skalieru..."
+   },
+   {
+    "file": "qmd://sources/koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md",
+    "line": 781,
+    "score": 0.17,
+    "snippet": "@@ -780,4 @@ (779 before, 613 after)\n\nWichtige strukturelle Klarstellung — die Modus-Grenzen sind keine Storyform-Grenzen. Was sich an 13/14 und 26/27 ändert, ist nur die Erzählhaltung. Die echte Storyform-Wendung — der Übergang von B nach A — liegt bei Kapitel 35–36, also acht/neun Kapitel nach dem Übergang Teil 2 → Teil 3 (Kap 26/..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md",
+    "line": 370,
+    "score": 0.14,
+    "snippet": "@@ -369,4 @@ (368 before, 155 after)\n\nDie **echte Storyform-Wendung B→A**. **Truth-Rotation:** AEGIS = K₀ / Kael = K₁ wird sichtbar; die Phänomenologie der Risse bleibt, die *Lesart* kippt. A:Resolve=Change vollzogen (Pursuit-Adoption Kap 35) · B:Failure manifest · B-Cost: AEGIS-monolithisch erlischt (Kap 36). Setting: Mnemosyne-Ser..."
+   },
+   {
+    "file": "qmd://sources/dramatica-storyform-synthese-aegis-analyse.md",
+    "line": 94,
+    "score": 0.13,
+    "snippet": "@@ -93,4 @@ (92 before, 140 after)\n  - **Limit B (Timelock):** In B tickt eine unerbittliche thermodynamische Uhr. Die akkumulierte Landauer-Hitze des deterministischen Systems baut sich durch jeden Löschungsakt unaufhaltsam auf; AEGIS rast blind gegen einen irreversiblen kritischen Zeitpunkt des totalen thermischen Versagens.3\n  ..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md",
+    "line": 792,
+    "score": 0.11,
+    "snippet": "@@ -791,4 @@ (790 before, 58 after)\n\nOQs — Open Questions. Sieben dokumentierte Strukturfragen (A–G). Encoding-blockierende werden vor der jeweiligen Phase aufgelöst. Aktueller Stand: OQ-B resolved (2026-05-30); OQ-C im Outline gesetzt (Szenen-Detail offen); OQ-A, D, E, F, G offen.\n\n"
+   },
+   {
+    "file": "qmd://sources/2-kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 48,
+    "score": 0.1,
+    "snippet": "@@ -47,4 @@ (46 before, 304 after)\n  - **Narrative & Reader Psychology Strategy:** Erzählt aus einer distanzierten, fast mythischen Perspektive, um die kosmische Dimension und die Unausweichlichkeit des Konflikts zu etablieren. Zeigt AEGIS' Entstehung nicht als rein böswillig, sondern als verzweifelten Versuch der Ordnungsschaffun..."
+   },
+   {
+    "file": "qmd://sources/mining-report-kohaerenz-protokoll-narrative-building-blocks.md",
+    "line": 54,
+    "score": 0.09,
+    "snippet": "@@ -53,4 @@ (52 before, 172 after)\n  - **Seed-07 Synesthetic Resonance**  |  **Source:**  World Bible, p.1 |  **Phase:**  Encoding |  **Storyform:**  A |  **Carrier:**  Juna/V |  **Material:**  Kael experiences Juna's presence as the \"warm sound of growing things,\" a synesthetic wave that defies the sterile vacuum of KW1. It is a ..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-projekt-rekonstruktion.md",
+    "line": 7,
+    "score": 0.08,
+    "snippet": "@@ -6,4 @@ (5 before, 319 after)\n\nUm diesem Verfall entgegenzuwirken und das von den Autoren definierte „NovelOS“-Framework – ein System, das als deterministisches, autopoietisches Konstrukt für algorithmische Autorenschaft fungiert – zu stabilisieren, bedarf es einer rigorosen Inventur und Synthese. Der vorliegende Bericht oper..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-analyse-und-loglines.md",
+    "line": 226,
+    "score": 0.08,
+    "snippet": "@@ -225,4 @@ (224 before, 87 after)\n10. **Kapitel 10:** Kael betritt den Möglichkeits-Garten, eine Welt ungestalteten Potenzials, die sowohl verlockend als auch gefährlich ist, und ringt mit der Frage, ob wahre Freiheit in unendlicher Möglichkeit oder definierter Form liegt. (Kernhandlung: Erkundung Möglichkeits-Garten; Charakterfo..."
+   },
+   {
+    "file": "qmd://sources/paradoxien-der-kohaerenz-protokoll-entwicklung.md",
+    "line": 333,
+    "score": 0.07,
+    "snippet": "@@ -332,4 @@ (331 before, 65 after)\n9.  **Traumsequenzen/Visionen (Kael):** Kael könnte intuitive Einblicke in die paradoxe Natur von AEGIS oder die wahre Natur der \"Gleichzeitigkeit\" erhalten, die sich einer logischen Erklärung entziehen.\n10. **Die Transzendenz als \"Umprogrammierung\":** Die Überwindung des Paradoxons könnte als ei..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md",
+    "line": 152,
+    "score": 0.07,
+    "snippet": "@@ -151,4 @@ (150 before, 1155 after)\n\nIn **Storyform A** (Heuristics of Integration): AEGIS = OS-Träger zusammen mit den Guardians. Die OS-Throughline ist **Psychology** — die Manipulation der Simulation. Hier wirkt AEGIS auf Kaels Welt ein, ohne der dramatische Mittelpunkt zu sein.\n\n"
+   },
+   {
+    "file": "qmd://sources/aegis-subplots-kapitelweise-system-exploration-docx.md",
+    "line": 299,
+    "score": 0.06,
+    "snippet": "@@ -298,4 @@ (297 before, 319 after)\n* **AEGIS-Fokus:** Ausnutzung eines System-Glitches oder einer Design-Schwäche in AEGIS.\n* **Analyse des AEGIS-Fokus:** Kael geht von der Identifizierung von Schwächen (Kapitel 17, 18) zur aktiven Ausnutzung einer solchen über. Dies ist eine praktische Anwendung seiner Analyse, die seine Fähigkei..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md",
+    "line": 171,
+    "score": 0.06,
+    "snippet": "@@ -170,4 @@ (169 before, 795 after)\n| \\*\\*Sektor für Logische Rekreation\\*\\* | Bereich für „erlaubte\" geistige Erholung (Schach, Puzzles); steril, kontrolliert; Kontrast zur Kreativität in KW4 | \\\\\\[S\\\\\\] — narrativ stark, kompatibel |\n| \\*\\*Archiv der Kausalitätsketten\\*\\* | Visualisierung von Logikpfaden und Systemprozessen | \\\\\\..."
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-konzeptentwicklung.md",
+    "line": 516,
+    "score": 0.06,
+    "snippet": "@@ -515,4 @@ (514 before, 62 after)\n\n  - **Wie/Was:** Epilog-Szene, zeigt Kael einige Zeit später. Fokus auf den etablierten, stabilen Zustand der inneren Harmonie und Kooperation (funktionale Multiplizität unter Selene?). Darstellung des \"neuen Alltags\" in der veränderten Realität \\[Ch38\\]. Ruhiger, reflektierender Ton. Kael lebt ..."
+   },
+   {
+    "file": "qmd://sources/fragen-zu-existenz-agency-und-realitaet.md",
+    "line": 107,
+    "score": 0.05,
+    "snippet": "@@ -106,4 @@ (105 before, 200 after)\n\nDieser zweite Teil widmet sich der Analyse des neuen Handlungsbogens (Fragen 14-26), der in den Dokumenten als \"Das Agency-Protokoll\" 6 konzipiert ist. Er untersucht die thematische Verschiebung von interner Heilung zu externer Aktion und die narrative Implementierung dieser Evolution.\n\n"
+   },
+   {
+    "file": "qmd://sources/kohaerenz-protokoll-gesamtkonzept-entwicklung.md",
+    "line": 274,
+    "score": 0.05,
+    "snippet": "@@ -273,4 @@ (272 before, 168 after)\n  - **Narrative & Reader Psychology Strategy:** Klarere, aber immer noch rätselhafte Kommunikation mit Juna/V. Enthüllung wichtiger Informationen (Plan? Schwachstelle? Natur des Fundaments?). Kael muss entscheiden, ob sie Juna/V vertraut. AEGIS versucht verzweifelt, Kontakt zu blockieren. *Wirkun..."
+   }
+  ]
+ }
+]
