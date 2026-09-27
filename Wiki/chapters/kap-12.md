@@ -1,9 +1,9 @@
 ---
 chapter: 12
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
-records: []
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
 
@@ -22,6 +22,17 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Erweiterungsstufe Innerer Frieden, laut der strukturierten Outline Innerer Frieden und Potenzial im Jetzt-Raum und im Ki als Vertiefung, in der Plot-Konkretisierung im Block Der zögernde Angestellte, mit dem MC-Concern Präsenz in Storyform A und latenter OS-Physics in Storyform B. Kael findet in einem gehaltenen Moment innere Balance, die Stille der Mitte, Stille als Substanz und nicht als Leere; laut der Plot-Konkretisierung an einem Tag ohne Zuweisung, am leeren Arbeitsplatz, atmend. AEGIS scannt diesen Zustand: laut der Konzept-Iteration klassifiziert er ihn als anomale Kohärenz, laut der strukturierten Outline kann er ihn nicht klassifizieren, und der Leser spürt, dass AEGIS ein Problem hat. Die AEGIS-Subplots lassen zuvor widersprüchliche Anteile zu einer Synthese finden und AEGIS versuchen, Kael zu debuggen und den alten Konfliktzustand wiederherzustellen, während Kernwelten vollständig das Kapitel als Riss-Eskalation in einer Übergangs-Zone von KW1 liest, in der sich thermische Risse häufen. Als Genesis-Echo ist der Moment eine kleine Wieder-Berührung der Reinform, getragen von Stille, Atem und Herzschlag.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Neue Regeln, Altes Spiel“ ^[monstergruppe-primzahlen-plot-blueprint.md:L137]
+
+- AEGIS: „versucht es nun, die "Regeln" seines Verhaltens und seiner Resonanz zu lernen und zu manipulieren“ ^[monstergruppe-primzahlen-plot-blueprint.md:L140]
+- Kael's arc: „Kael, nun bewusster und durch die K-J Verbindung gestärkt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L140]
+
+Writes only „J“ here too, never Juna (J111) — the same chapter number where the Ultra-Plot has Juna herself enter the room.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -31,6 +42,16 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael erreicht einen kleinen, aber signifikanten Moment der internen Synthese oder Kooperation zwischen zwei zuvor widersprüchlichen 'Alters'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „Man könnte sehen, wie AEGIS versucht, Kael zu 'debuggen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „AEGIS könnte sogar versuchen, den vorherigen Konfliktzustand wiederherzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Der blinde Fleck des Rationalismus“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]
+
+- Juna (C7): „Plötzlich tritt Juna in den Raum. Sie steht direkt vor dem Guardian, doch dieser registriert nur leeren Raum“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]
+- Theory: „Dies visualisiert das "Hard Problem of Consciousness" und die Explanatory Gap“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]
+- Heat (C11): „Kael spürt die intensive, lodernde Wärme (K0) von Junas Präsenz, während das mechanische, kalte Ticken von LogOS (K1) unbeeindruckt fortfährt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the descent through the lock, the separation from Lex
 
@@ -126,6 +147,7 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 
 ## Where the sources differ
 
+- **Juna in the room, or only `J`.** „Plötzlich tritt Juna in den Raum“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77] (the Ultra-Plot) — Juna herself stands in front of LogOS, unseen by it (C7) · „Kael, nun bewusster und durch die K-J Verbindung gestärkt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L140] (the Primzahl-Blueprint) — the same chapter number writes only `J` (J111), never Juna.
 - **AEGIS' scan.** „B: OS-Physics latent — AEGIS scannt diesen Zustand, klassifiziert ihn als anomale Kohärenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552] (Konzept-Iteration Genesis) · „OS-Physics latent — AEGIS scannt diesen Zustand und kann ihn nicht klassifizieren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L517] (strukturierter Outline).
 - **What the chapter is.** „Riss-Eskalation“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838] · „thermische Risse häufen sich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838] (Kernwelten vollständig) · „Kael erreicht einen Zustand innerer Balance. Stille als positive Substanz, nicht als Leere.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L521] (strukturierter Outline) · „innere Stabilität gefunden; ein gehaltener Moment“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (Kapitel-Kompendium).
 - **The Hard-SF-Outline.** „Fragmentierung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L124] (the Hard-SF-Outline, 2026-04-08) — a new title, and a third answer: neither balance nor a crack, but the separation from Lex as pain on the way down, „Der Abstieg durch die Schleuse ist eine physische Agonie.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L126]

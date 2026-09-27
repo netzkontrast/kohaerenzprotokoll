@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,15 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel steht in Akt II, im zyklischen Modus und im Shō, als Destabilisierung durch einen Trigger, die erste Phase des ersten Spiral-Zyklus, laut der Plot-Konkretisierung im Block Der Innentäter, und trägt in Storyform A die reaktivierte MC-Problem Avoidance, während Storyform B latent bleibt. Ein Trigger reaktiviert Kaels Trauma-Angst; laut der strukturierten Outline geschieht das am Rand von KW2, Nyx wird erstmals deutlich sichtbar, und Kiko steht als kindliche Angst im Hintergrund. Laut Kapitel-Kompendium und Storyform-Outline, die das Kapitel Turing-Mechanik nennen, erkennt Kael die Stadt als universelle Turingmaschine und versteht das Halteproblem, die prinzipielle Unvorhersehbarkeit; Kernwelten vollständig legt das in die inneren Welten von KW2. Die Plot-Konkretisierung verbindet beides als Lektüre mit Risiko: Kael liest das Halteproblem-Dossier, die Betriebsanleitung seiner Welt, versteht, dass das System sich selbst nicht vorhersagen kann, und die Angst, die das auslöst, ist älter als der Tag. Die AEGIS-Subplots machen ihn stattdessen zum aktiven Ermittler, der absichtlich überwachte Aktionen setzt und eine Karte des Überwachungsnetzes anlegt, und die Konzept-Iteration nennt das Kapitel nach seinem Sinnesbild Schattenwurf, zu dem die Resonanz der Babymonster-Welt gehört.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Kausale Schleifen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L171]
+
+- Establishes: „Die emergenten Phänomene erzeugen Rückkopplungsschleifen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L174]
+- AEGIS: „erlaubt es ihm, diese Widersprüche zu registrieren, ohne sofort zusammenzubrechen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L174]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -31,6 +40,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael führt absichtlich Aktionen durch, von denen er weiß, dass AEGIS sie überwacht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Story: „Er beginnt, eine mentale (oder tatsächliche) Karte des Überwachungsnetzes zu erstellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Discussion: „Dieser Subplot macht Kael zu einem aktiven Ermittler des Systems.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L216]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Die Turing-Mechanik des Traumas“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L87]
+
+- Establishes: „Kael beobachtet durch eine Glasscheibe, wie der Kollaps-EP Moros immer und immer wieder den gleichen Moment des existentiellen Zusammenbruchs durchlebt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L87]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS' protocols fail in KW2, and Mnemosyne wears Kael down
 

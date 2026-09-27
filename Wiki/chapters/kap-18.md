@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,15 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen den Cache-Konflikt in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; er ist die Destabilisierung, mit der der zweite Spiral-Zyklus beginnt. Kael versucht eine komplexe Aufgabe über mehrere Kernwelten zu lösen und scheitert an einem Cache-Konflikt zwischen seinen Anteilen, multi-alter und dyssynchron, in KW2 und laut dem Kapitel-Kompendium, der Storyform-Outline und Kernwelten vollständig im Zeichen des Qualia-Informationsparadoxes, des Harten Problems. Storyform A führt die MC-Concern Memory, Storyform B die OS-Physics, in der AEGIS' Topologie-Manipulation sichtbar wird; die strukturierte Outline führt beide Storyforms zugleich und setzt den Genesis-Flashback als Bridge. Laut der strukturierten Outline und der Storyform-Outline beginnen hier die Genesis-Flashbacks mit der Cluster-Bildung, die Kael als fremde Daten erlebt, nicht als eigene Erinnerung; das Kapitel-Kompendium lässt hier den Flashback-Cluster beginnen, dessen Folge von Einheit, Trennungsprotokoll und Komponente 734 keinen Cluster-Beat kennt, und Kernwelten vollständig lässt die Flashbacks erst bei der Lyons-Kreativität beginnen. Laut der Plot-Konkretisierung erscheint in Kaels Zuweisung, in einer Szene getrennt vom Flashback, ein Datensatz mit leerem Datentyp-Feld, den Kael zu grüßen beginnt, und asynchrone Sensorik und Glitch-Texturen tragen das Kapitel.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „AEGIS' Eskalation: Reprogrammierung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L201]
+
+- Establishes: „versucht AEGIS eine drastischere Maßnahme“ ^[monstergruppe-primzahlen-plot-blueprint.md:L204]
+- Kael's arc: „zwingt Kael aber auch, seine Integration und seine Verbindung zu M und J zu festigen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L206]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +39,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Das Schlupfloch-Verzeichnis“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L253]
 - Story: „eine Regel, die von LogOS in KW1 streng durchgesetzt wird, von Cerberus in KW3 leicht anders oder weniger rigoros interpretiert wird“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
 - Story: „eine mentale (oder versteckte physische/digitale) Liste dieser kleineren Exploits und Inkonsistenzen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Das Qualia-Paradoxon und die Dominanz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L93]
+
+- Who: „Kael begegnet Isabelle, dem sexualisierten Kampf-EP, die einen ganzen Sektor der Resonanz-Landschaft mit grausamer Dominanz kontrolliert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L93]
+- Establishes: „wird aber von der toxischen, erstickenden Hitze ihrer Präsenz (K0) an die Wand gedrückt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L93]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Lia teaches Kael the Archiv's paraconsistent logic
 

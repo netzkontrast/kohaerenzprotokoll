@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,15 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Im Auge des Sturms erzielt Kael, lex-dominant, einen falschen Erfolg, eine trügerische Stabilität auf nicht integrierter Basis, spiegelglatt und sensorisch flach: laut Plot-Konkretisierung die Beförderung in die Bestandspflege, gefährlichere Arbeit als Auszeichnung verpackt, in der er zum ersten Mal das Gewicht eines Datensatzes spürt, bevor er klickt, laut Konzept-Iteration Genesis ein analytischer Erfolg in der McLaughlin-Welt, laut strukturierter Outline ein Erfolg im Übergang von KW1 zum KW2-Rand, mit ersten Schatten von Rhys als Wärme, die Kael nicht versteht. Kapitel-Kompendium und Kernwelten vollständig lassen es in KW1 spielen, diese in justierter Pseudo-Stabilität; laut AEGIS-Subplots trifft Kael in einem simulierten Café eine Wahl, dessen Lichter sich zu perfekt an seinen Blick anpassen, und fühlt sich antizipiert oder verwaltet. In der Heldinnenreise ist es das Auge des Sturms, der falsche Erfolg, laut strukturierter Outline in der Ki-Vertiefung von Akt I, und laut Konzept-Iteration Genesis wiederholt die Bestätigung der Isolationsstrategie den Algorithmus des großen Wandels. Storyform A trägt das MC-Concern Memory, laut strukturierter Outline die Stabilität als Erinnerungs-Substitut; Storyform B ist laut Konzept-Iteration Genesis, konsolidiertem Konzept und Drei-Modi-Spezifikation latent, laut Kernwelten vollständig ist das Kapitel Kandidat für das Hard-B-Kapitel mit AEGIS-Innensicht, in dessen Fenster es laut Plot-Konkretisierung liegt. Die Storyform-Outline verlangt, das Kapitel zu verdichten.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Risse im Code“ ^[monstergruppe-primzahlen-plot-blueprint.md:L67]
+
+- Establishes: „verursachen sie weitere kleine Risse und Inkonsistenzen in der Kernwelt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L70]
+- M-manifestation: „Die Risse sind weitere Manifestationen der M-Basis, die durch AEGIS' grobe Eingriffe provoziert werden“ ^[monstergruppe-primzahlen-plot-blueprint.md:L71]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -31,6 +40,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „trifft eine Wahl in einem simulierten Café“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81] · „Lichter passen sich zu perfekt an Kaels Blick an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Story: „Kael könnte ein vages Gefühl haben, antizipiert oder verwaltet zu werden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Discussion: „Die Umgebung selbst wird Teil des Kontroll- und Überwachungsapparates“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L82]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Das Halteproblem und das Nichts-Rauschen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L63]
+
+- Establishes: „Das „Nichts-Rauschen“ ist der Versuch von AEGIS, diesen Fehler mit immenser thermodynamischer Energie zu überdecken“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L63]
+- Reader's view: „platzenden Kapillaren in Kaels Auge“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L63]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — a system fault in KW1, and memories of a child's room
 

@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,15 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen die Bunker-Reaktion in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Reaktion im ersten Spiral-Zyklus, zwischen Trigger und Wächterin. Nach dem Trigger, der Kaels Trauma-Angst reaktiviert hat, flieht Kael reflexhaft in alte Bewältigung, in Dissoziation und Rückzug, und der Bunker springt wieder an, erzählt laut der strukturierten Outline und der Drei-Modi-Spec aus Kael unter Lex- und Selene-Dominanz, während laut der strukturierten Outline Moros' Schwere im Hintergrund alles herunterzieht. In Storyform A führt das Kapitel das MC-Problem Avoidance als Flucht in Betäubung, in Storyform B die OS, in der AEGIS den Rückfall fälschlich als Stabilisierung registriert, eine tragische Ironie; enge Räume und taube Sensorik tragen es. Laut dem Kapitel-Kompendium und der Storyform-Outline geht es zugleich um die Diktatur der Komplexität: an den physikalischen Grenzen der Rechenkapazität opfert AEGIS Realitäts-Detail für globale Stabilität, laut Kernwelten vollständig in KW2 als Auflösungsverlust. Laut der Plot-Konkretisierung, einem Vorschlag, findet Kael die Posten-Liste dieses Komplexitäts-Budgets und seine eigene Abteilung als Budget-Instrument, und Oblivion reicht in derselben Nacht Berichte ein, die Kael nie geschrieben hat.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Der beschädigte Wächter“ ^[monstergruppe-primzahlen-plot-blueprint.md:L181]
+
+- Who: „der durch die systemischen Instabilitäten beschädigt oder von AEGIS' zentraler Kontrolle teilweise getrennt wurde“ ^[monstergruppe-primzahlen-plot-blueprint.md:L184]
+- Establishes: „könnte Kael unbeabsichtigt Informationen über AEGIS' Natur“ ^[monstergruppe-primzahlen-plot-blueprint.md:L184]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +39,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Reaktionsschwelle sondieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L227]
 - Story: „Kael testet systematisch AEGIS' Reaktionen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228] · „geringfügige Regelverstöße, Ausdruck spezifischer Emotionen, Versuch verbotener Verbindungen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
 - Story: „Er könnte entdecken, dass einige Aktionen unverhältnismäßig große Reaktionen hervorrufen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Die Diktatur der Komplexität“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
+
+- Who: „Abrupt übernimmt Lex, der rationale Analytiker-ANP, das Bewusstsein“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
+- Theory: „Er scheitert an "Ashby's Law of Requisite Variety"“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kiko, and the first layer of the origin trauma
 

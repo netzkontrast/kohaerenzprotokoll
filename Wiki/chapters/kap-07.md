@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,15 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In der Stimme im Rauschen wird die Verbindung zwischen Kael und Juna stärker: Kael spürt sie, ohne sie zu sehen, erkennt eine Resonanz wieder, ohne zu wissen, was sie ist, und die Telefon-Stille wird zum ersten expliziten Anker, laut Kernwelten vollständig an einem Telefon-Stille-Lokus in KW1; laut Plot-Konkretisierung spricht er zum ersten Mal in die Leitung hinein, während sein Gegenregister pausiert. Juna wird nie Subjekt, nur Wirkung, nicht beschrieben, nur Stille und Phantom-Resonanz; ihre Resonanz, in der Genesis ein Angriff, ist jetzt als Sehnsucht erfahrbar, erzählt laut strukturierter Outline und Drei-Modi-Spezifikation in Kaels emotionaler, lyrischer Stimme. Sinnlich tragen es Stille als Klang und warme Resonanz, laut strukturierter Outline und Drei-Modi-Spezifikation ein warmer Windstoß in eisiger Welt mit Melodie, den die Konzept-Iteration Genesis dem Bunker-Bau gibt; laut AEGIS-Subplots begegnet Kael hier einem Riss als lokalem Kontrollverlust, der ihm beweist, dass seine Welt konstruiert ist. In der Heldinnenreise ist es Unterstützung, die Sehnsucht nach dem Weiblichen, laut strukturierter Outline in der Ki-Vertiefung von Akt I; Storyform A trägt die Relationship Story in Physics mit Moonshine-Bewusstwerdung, laut Kapitel-Kompendium und Storyform-Outline ihren ersten Signpost Learning, Storyform B ist latent, und laut Plot-Konkretisierung liegt das Kapitel im Fenster des Hard-B-Kapitels.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Das Flüsternetzwerk“ ^[monstergruppe-primzahlen-plot-blueprint.md:L87]
+
+- Establishes: „Die K-J Verbindung wird konsistenter, aber immer noch subtil“ ^[monstergruppe-primzahlen-plot-blueprint.md:L90]
+- K-J: „Könnte als Metapher für Twin Primes dienen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L93]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -32,6 +41,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael begegnet einem 'Riss' oder wird darin gefangen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „die Realität selbst scheint auszufransen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Story: „Kael könnte kurzzeitig etwas 'außerhalb' oder 'unterhalb' der Simulation wahrnehmen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „AEGIS/Guardians könnten aktiv versuchen, den Riss einzudämmen oder zu reparieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Discussion: „liefert Kael unbestreitbare Beweise dafür, dass seine Welt konstruiert und fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L108]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Der Riss im Kontinuum und die Quantenuhr“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
+
+- Establishes: „Ein herabfallender Wassertropfen verharrt in der Luft“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
+- Switching: „Alex, der Beschützer-ANP, übernimmt exekutiv die Kontrolle“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Nyx out of the shadows, a monster of the simulation
 

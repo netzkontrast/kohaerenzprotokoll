@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,15 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel eröffnet Akt II und den zyklischen Modus im Shō, am Modus-Wechsel, als Bruch und Rahmen vor dem ersten Zyklus, laut Kernwelten vollständig in der Mitte von Akt II, laut der Plot-Konkretisierung im Block Der Innentäter; laut der strukturierten Outline beginnt hier A parallel zu B, laut der Drei-Modi-Spec mit dem MC-Issue Falsehood vs. Truth in Storyform A und der OS-Physics in Storyform B. Kaels neu gefundene Balance zerbricht, alte Wunden reißen auf, und AEGIS' erste Erasure-Welle trifft seine Stabilität, laut der Konzept-Iteration genau das Verfahren des Trennungsprotokolls aus der Genesis. Laut der strukturierten Outline, die das Kapitel Bruch des Gleichgewichts nennt, testet AEGIS ihn mit dem Stress-Test Delta-7, und Mnemosyne tritt erstmals deutlich und manipulativ auf; laut Kapitel-Kompendium und Storyform-Outline, die es Das Archiv der Grenzen nennen, erhält Kael Zugang zu AEGIS' technischen Dossiers im Lernarchiv Theta-9 und betritt KW2. Die Plot-Konkretisierung macht den Zugang zu einem fehlgeleiteten Ticket, das Kael nicht meldet, die erste aktive Unterlassung des Romans, und lässt nach dem ersten Wartungsfenster eine Abkürzung im Korridor fehlen, deren Platten nur Kael neu zählt. Die AEGIS-Subplots lassen Kael hier AEGIS als intelligente, steuernde Instanz erkennen und benennen, und die strukturierte Outline und die Drei-Modi-Spec halten einen kurzen AEGIS-POV für möglich, zwischen zerbrochener Fassade und Sprüngen im Raum.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Unstabiles Gleichgewicht“ ^[monstergruppe-primzahlen-plot-blueprint.md:L161]
+Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
+
+- Establishes: „lösen aufgrund seiner M-Resonanz unerwartete und unverhältnismäßig große Effekte in der Kernwelt aus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L164]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -31,6 +40,17 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Punkte verbinden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L201]
 - Story: „Ausgelöst durch die Ereignisse von Teil 1“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
 - Story: „Etwas betreibt diesen Ort. Etwas Intelligentes.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202] · „Er gibt ihm einen Namen (oder erfährt seinen Namen): AEGIS.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Das Archiv der Grenzen (Mnemosyne)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L81]
+
+- Where: „Kael erwacht in der Resonanz-Landschaft (Kernwelt 2), einer nebligen, nicht-linearen Traumwelt, überwacht vom Guardian Mnemosyne“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+- Who: „Der innere Gatekeeper Limina blockiert den direkten Zugriff“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+- Establishes: „die bei der Berührung wie warmes Blut durch seine Finger rinnen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael lands in the Mnemosyne-Archiv, KW2, the first chapter of Akt II
 

@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,15 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In den Echos im Fundament scheitert Kaels einseitiger Logik-Ansatz im Cache-Konflikt an einem komplexen Problem: laut Plot-Konkretisierung verlangt das System in einem Doppel-Antrag beide sich widersprechenden Ausführungen, Kael kann nicht beide klicken, und seine Hand stoppt ungewollt, durch Nyx, als erster nicht ausgeführter Ausgleich, ein Arbeitsunfall; laut AEGIS-Subplots bricht in einem Gebiet perfekter Ordnung eine Kaskade kleiner Systemfehler aus, die AEGIS und die Guardians schnell eindämmen. Erste polyphone Einbrüche folgen: laut strukturierter Outline werden die Stilcodes anderer Alters hier voll sichtbar, Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato, laut konsolidiertem Konzept erst später, laut Kernwelten vollständig erst in Akt II, das die Cache-Konflikt-Zone von KW1 als erste polyphone Bridge nennt, während Kapitel-Kompendium und Storyform-Outline einen Vorschein auf KW2 geben. Die Landauer-Sensorik ist laut Konzept-Iteration Genesis, konsolidiertem Konzept, strukturierter Outline und Drei-Modi-Spezifikation Hitzeschlieren und Landauer-Wärme, laut Storyform-Outline und Plot-Konkretisierung nach dem Polaritäts-Lock kaltes Ozon. In der Heldinnenreise ist es der Tod einer Einstellung, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit der ersten Andeutung der MC-Solution Pursuit in Storyform A und OS-Physics in Storyform B, in der AEGIS' Logik Schwächen zeigt; laut Plot-Konkretisierung liegt es im Fenster des Hard-B-Kapitels. Konzept-Iteration Genesis, konsolidiertes Konzept, strukturierte Outline, Kapitel-Kompendium und Storyform-Outline lesen den Cache-Konflikt als Echo der ursprünglichen Resonanzkaskade der Genesis, das Kapitel-Kompendium dazu als parakonsistente Logik.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Fragmente der Erinnerung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L77]
+
+- Establishes: „triggern das Auftauchen neuer oder stärkerer Persönlichkeitszustände“ ^[monstergruppe-primzahlen-plot-blueprint.md:L80]
+- AEGIS: „AEGIS' frühere Versuche, Kael zu "faktorisieren", haben diese Fragmentierung verursacht“ ^[monstergruppe-primzahlen-plot-blueprint.md:L84]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -31,6 +40,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht ein Gebiet, das für seine perfekte Ordnung und Vorhersagbarkeit bekannt ist (vielleicht innerhalb von KW1 oder einer stark regulierten Zone).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94] · „Der Vorfall wird schnell von AEGIS/Guardians eingedämmt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Die semantische Firewall“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L65]
+
+- Theory: „Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L65]
+- Establishes: „AEGIS kontrolliert die Realität durch semantische Restriktion“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L65]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — LogOS turns the city against Kael, the temperature sinks, Silas freezes him
 

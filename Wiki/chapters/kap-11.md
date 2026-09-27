@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,17 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Erweiterungsstufe Akzeptanz der Komplexität, laut der strukturierten Outline im Ki als Vertiefung, in der Plot-Konkretisierung im Block Der zögernde Angestellte, und trägt in Storyform A den MC-Concern Vielfalt als Schöpfung und das Requirement der Mosaik-Akzeptanz, während Storyform B latent bleibt; Kael nimmt seine innere Vielfalt als Stärke an und nicht als Fehler, und das Mosaik wird zur bewussten Tätigkeit. Laut der Plot-Konkretisierung ordnet er seine gelesenen Bestände neu, nicht chronologisch, sondern als Muster; laut den AEGIS-Subplots steht er in KW1 vor einer Aufgabe, die Empathie verlangt und an der die rigide Logik der Welt in Schleifen läuft, bis ein aus ihrer Sicht nicht-logischer Ansatz sie löst. Die strukturierte Outline versammelt die ANPs Lex, Alex, Rhys und Selene und eine erste leise Spur von Kiko, ohne dass das benennende Wort fällt. Kernwelten vollständig legt das Kapitel an die Übergangs-Schwelle zwischen KW1 und KW3 und bereitet dort den Übergang als Jaspers' Grenzsituation vor, wo die anderen Quellen in KW1 bleiben. Das Mosaik-Herz, Scherben als Muster, nimmt die plurale Bewahrung am Ende des Romans vorweg.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Der erste bewusste Kontakt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L127]
+
+- J: „gelingt Kael der erste kurze, aber bewusste Kontakt mit J durch die nicht-lokale Verbindung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L130]
+- Kael's arc: „Er überschreitet die Schwelle zum zweiten Akt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L132]
+
+Writes only „J“, never Juna (J111).
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -32,6 +43,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael wird in KW1 mit einem Problem oder einer Aufgabe konfrontiert, die eine Lösung erfordert, die auf Empathie, Intuition oder Kontextverständnis basiert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „was zu absurden, falschen oder endlos schleifenden Ergebnissen führt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „Kael findet möglicherweise eine Lösung, indem er einen 'nicht-logischen' (aus KW1s Perspektive) Ansatz anwendet“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Die Grenzsituation und der freie Fall“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L75]
+
+- Theory: „Philosophisch wird hier Karl Jaspers' „Grenzsituation“ des sicheren Todes durchgespielt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L75]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — LogOS' paradox, Lex overheats, Isabelle opens the bulkhead to KW2
 

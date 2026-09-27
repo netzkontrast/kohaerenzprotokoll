@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 15
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 17
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,15 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Mit diesem Kapitel schließen Akt I und die Heldinnenreise innen auf der Murdock-Stufe Neue innere Welt, laut der strukturierten Outline im Ki als Vertiefung, laut dem Master-Bericht als Ende von KW1, der Konstrukt-Stadt; es sitzt am ersten Modus-Wechsel von linear zu zyklisch, ohne Storyform-Wechsel, und trägt den MC-Concern Praxis in Storyform A und in Storyform B die OS-Physics, laut der strukturierten Outline mit aktiviertem Forewarning. Kaels innere Praxis ist etabliert, die neue innere Welt des Tanzes im Garten, laut der strukturierten Outline als Möglichkeits-Garten und Vorgriff auf KW4, laut der Plot-Konkretisierung als kleinste mögliche Schöpfung, wenn Kael die Konsole um drei Grad dreht und die Welt es zulässt. AEGIS erkennt Kaels veränderte Kohärenz als neues Risiko und bereitet die Stress-Tests der zweiten Phase vor, laut der strukturierten Outline den Stress-Test Delta-7 mit einem moralischen Dilemma; die AEGIS-Subplots machen daraus einen Wendepunkt der Dynamik zwischen Kael und AEGIS. Mehrere Quellen lassen hier den Multiplizitäts-Schleier enden: laut Kapitel-Kompendium und Storyform-Outline ist die Vielheit ab hier offen benennbar, laut Kernwelten vollständig fällt der Schleier intern in der Evaluierungseinheit von KW3, wo Personae kollabieren und Kael das System sieht, während Kapitel-Kompendium und Storyform-Outline die Welt im Übergang aus KW1 lassen. Als Genesis-Echo ist die Stille der Mitte das Echo der Stille vor der Trennung, und das Sinnesbild ist Garten, Pflege und lebendige Ordnung.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Der Riss wird zum Tor“ ^[monstergruppe-primzahlen-plot-blueprint.md:L147]
+
+- Establishes: „Ende von Akt I: Kael hat einen potenziellen Weg erkannt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L150]
+- Establishes: „zu einem potenziellen Übergang oder einer Schwachstelle in AEGIS' Kontrolle“ ^[monstergruppe-primzahlen-plot-blueprint.md:L150]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -32,6 +41,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael handelt mit neu gefundener Entschlossenheit oder innerer Konsistenz“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185] · „Alte prädiktive Modelle werden als 'veraltet' markiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Story: „Kael bemerkt möglicherweise eine Veränderung in der 'Haltung' des Systems ihm gegenüber – weniger abweisend, wachsamer.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L185]
 - Discussion: „Dies markiert einen Wendepunkt in der Kael-AEGIS-Dynamik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186] · „Es erhöht den Einsatz für Teil 2 erheblich.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L186]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Der System-Kollaps“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L79]
+
+- Establishes: „LogOS befiehlt Kael, den Code-Sektor, in dem Juna steht, thermisch zu „reinigen““ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L79]
+- Establishes: „Kael wird von AEGIS zwangsweise in die Resonanz-Landschaft (Quarantäne) transferiert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L79]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the temperature oscillation, and Kael falls from KW1 into KW2
 
