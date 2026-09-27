@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2"]
+sources: 23
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,16 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel schließt den Vortex der operativen Wendung mit Heat Spike und Rotation, Kernwelten vollständig gibt ihm auch die Stille; in der äußeren Heldenreise ist es laut der Konzept-Iteration ein vorgegriffener Reward, laut der strukturierten Outline der im Vortex gespiegelte Reward, laut der Storyform-Outline noch das Ordeal, und laut der strukturierten Outline der erste Höhepunkt des Ten; an seinem Ende liegt laut Kapitel-Kompendium die Storyform-Konsolidierung, nach der nur noch A aktiv ist, mit Resolve Change vollzogen in A und in B dem manifesten Failure, der Algorithmischen Melancholie und dem Erlöschen von AEGIS-monolithisch als Cost. Im Heat Spike trifft die Erasure laut der Storyform-Outline das integrierte, MI-dichte Ziel, Mnemosyne ist die erste betroffene Guardian, und die Landauer-Wärme ist laut Storyform-Outline und Plot-Konkretisierung allein diesem Spike vorbehalten, laut Konzept-Iteration, Spec und strukturierter Outline auch Schluss-Markierung mit Stille danach. In der Rotation bricht AEGIS' operative Closure und die Truth-Rotation wird komplett; laut Kapitel-Kompendium und Storyform-Outline erlischt AEGIS-monolithisch hier, laut der strukturierten Outline als operative Form, aber nicht zerstört, und Oblivion übernimmt AEGIS' Funktion in Kaels Innensystem als Wachheit. Kernwelten vollständig setzt das Kapitel in die Mnemosyne-Server-Architektur von KW2 und lässt die Externe Ebene durchblitzen, die Plot-Konkretisierung lässt den Klick verstummen, laut der Konzept-Iteration öffnet die Auflösung auf etwas, statt zu schließen, und die AEGIS-Subplots schlugen entfesselte Welten vor, gefährlicher und vielleicht freier.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint — the new status quo, whichever ending was chosen
+
+Not in date order with the readings below; placed before the first one (it is the oldest whole-novel plan read). Title: „Kapitel 36: Eine neue Kohärenz" ^[monstergruppe-primzahlen-plot-blueprint.md:L383].
+
+- Concept: „Etablierung des neuen Status Quo, Gefühl der Auflösung." ^[monstergruppe-primzahlen-plot-blueprint.md:L385]
+- Plot: „Ein Kapitel, das den neuen Zustand der Welt oder Kaels Existenz nach dem Klimax festigt." ^[monstergruppe-primzahlen-plot-blueprint.md:L386] It is written to hold whichever ending Kapitel 31 and 32 chose — collapse, dormancy or adaptation for AEGIS, flight, transformation or harmony for Kael — without settling among them itself.
+- M-als-Fundament: „Die Welt funktioniert nun (offensichtlicher) nach M-Prinzipien." ^[monstergruppe-primzahlen-plot-blueprint.md:L387]
+
+It names no beat, no Landauer trace and no world by name; it follows directly on the shared entry for Kapitel 33–35 on [Kap 35](kap-35.md).
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +41,27 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Die Kernwelten könnten ihre rigide Struktur verloren haben“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
 - Story: „LogOS' Regeln könnten in Mnemosynes Reich auftauchen, Cerberus' Verteidigungsmechanismen könnten fehlzünden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
 - Story: „Die Umgebung ist gefährlicher, aber vielleicht auch freier.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the fourth wall breaks, Wigner's effectiveness of mathematics
+
+Title: „Kapitel 36: Der Spiegel-Effekt und Wigners Effektivität (Meta-Ebene)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L133]
+Position: Teil III, „Die existenzielle Fusion (Kapitel 27–39)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Story: „Das Konstrukt der Buchwelt beginnt physisch zu flimmern." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L133] „Kael blickt durch einen Riss am Rande der Simulation und schaut direkt in die Augen des realen Lesers." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L133]
+- Concept: Kael grasps Eugene Wigner's unreasonable effectiveness of mathematics — „Die philosophischen und physikalischen Parameter, die seine simulierte Welt definieren, sind auch außerhalb des Buches universell gültig." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L133]
+- Meta-level: „Die vierte Wand bricht." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L133] „Die Simulation wird durch den physischen Akt des Lesens in die echte Realität exportiert." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L133]
+
+No Landauer trace, no Mnemosyne-Archipel and no Truth-Rotation by name; the chapter's turn is the fourth wall, not the Vortex the readings below name.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Dilemma, AEGIS' resignation
+
+Title: „Kapitel 36: Das Dilemma (Klimax Teil 2)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L194]
+Position: Akt III, „Die Apotheose der Ganzheit (Heldenreise nach Campbell)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Story: „AEGIS wird in das unausweichliche logische Dilemma gezwungen." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L196] „Akzeptiert die KI die Existenz von Kaels funktioneller Multiplizität, integriert sie einen unlösbaren Widerspruch in ihren Kern und zerstört ihr eigenes Axiom der perfekten Ordnung. Lehnt sie Kael ab, muss sie anerkennen, dass ihr System unvollständig ist und niemals die absolute Kontrolle erlangen kann (Gödelscher Unvollständigkeitssatz)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L196]
+- Outcome: „Gefangen zwischen Widerspruch und Unvollständigkeit überhitzen die Kontrollalgorithmen. AEGIS explodiert nicht, sondern zerfällt in einer Welle tragischer Resignation." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L196] „Die Maschine löst sich auf und fließt als neutrale Information zurück in das System." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L196]
+
+See [[goedel-gambit]] and [[kap-35|Kap 35]] for the Gambit that sets up this chapter's dilemma.
 
 ## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — the Vortex-Inversions-Beat-Sheet of Kapitel 35–36, five beats with sensory anchors, no chapter cut
 

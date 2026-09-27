@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
 gathered: "2026-09-17"
 ---
 
@@ -24,6 +24,12 @@ a structure within the Holomovement ^[kohaerenzprotokoll-aegis-und-systementropi
 The consequence for [[aegis|AEGIS]] is the point: it operates „ausschließlich innerhalb der
 expliziten Ordnung" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L58] and so cannot reach what is anchored in the
 implicate one. See [[blinder-fleck|Ontologischer blinder Fleck]].
+
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint — the state beyond M, unstructured and unbegreiflich, that AEGIS fears and M is drawn from
+
+Kapitel 17, „Jenseits der Mauer: Das Potentialmeer" ^[monstergruppe-primzahlen-plot-blueprint.md:L191] (a chapter title, J9): „Dies ist kein Ort, sondern ein Zustand reiner, unstrukturierter Potentialität – formlos, unendlich, unbegreiflich." ^[monstergruppe-primzahlen-plot-blueprint.md:L194] M itself is drawn from it: „M erscheint nun als eine (wenn auch komplexe) Struktur, die dem Chaos des Potentialmeers mühsam abgerungen wurde – eine Insel der Ordnung im Ozean der Möglichkeiten." ^[monstergruppe-primzahlen-plot-blueprint.md:L195] What it names as AEGIS' fear: „Dies enthüllt die tiefste Motivation hinter AEGIS' Reduktionismus: die Angst vor dem Unstrukturierten, dem Nicht-Faktorisierbaren." ^[monstergruppe-primzahlen-plot-blueprint.md:L198]
+Later it is a threat AEGIS weighs against itself, in Kapitel 23: „ein kompletter System-Reset (riskant, könnte M beschädigen oder das Potentialmeer freisetzen)" ^[monstergruppe-primzahlen-plot-blueprint.md:L254]. And at the close, Kapitel 37, „Echos im Potentialmeer" ^[monstergruppe-primzahlen-plot-blueprint.md:L393] (a chapter title, J9), M is relativised against it: „Vielleicht eine Andeutung, dass AEGIS' Simulation nur eine von vielen war, oder dass M selbst nur eine mögliche Struktur ist, die aus dem unendlichen Potentialmeer emergiert ist." ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
+No Ursprungs-Ich and no Genesis beat stand in it (0; `Plan/runs/monstergruppe-primzahlen-plot-blueprint/05-verify-readers.txt`); the readings above place the Genesis' first beat in the Potentialmeer, where this document places only AEGIS' fear and M's origin.
 
 ## Open
 

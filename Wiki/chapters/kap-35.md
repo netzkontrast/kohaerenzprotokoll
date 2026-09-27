@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 20
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2"]
+sources: 23
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,16 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel öffnet den Vortex der operativen Wendung und damit die Vortex-Klammer, in der äußeren Heldenreise das Ordeal, laut der strukturierten Outline den ersten Höhepunkt des Ten; hier vollzieht sich der Storyform-Übergang von B zu A, laut Kapitel-Kompendium die echte Storyform-Wendung, an der B zu erlöschen beginnt, in A mit vollzogener Pursuit und Resolve Change, in B mit der nie adoptierten Solution Feeling als manifestem Failure. Welche Beats es trägt, sagen die Pläne verschieden, Kernwelten vollständig nur Convergence und Dialetheic Choice, Storyform-Outline und strukturierte Outline auch die Stille, der Konzept-Master-Report keinem Kapitel einen Beat; laut dem konsolidierten Konzept formuliert Kael das Wir als lebenden Widerspruch und speist es in AEGIS' Logik ein, bis AEGIS' Stimme stottert, laut strukturierter Outline und Storyform-Outline lässt AEGIS den finalen Erasure-Sweep auf Kaels Fragmente konvergieren. Die Wahl ist laut der strukturierten Outline das Fallenlassen der ANP/EP-Barrieren, laut der Storyform-Outline ein Wechsel von linear zu holistisch mit einer einzigen Geste, laut der Plot-Konkretisierung die Nicht-Bedienung, wenn Kael die Hand von der Konsole nimmt. Es spielt im Mnemosyne-Archipel (strukturierte Outline, Konzept-Master-Report) oder in der Mnemosyne-Server-Architektur von KW2 (Kapitel-Kompendium, Storyform-Outline), unter Ozon-Spike und glühendem paradoxem Code. Die Stille ist laut Storyform-Outline und Konzept-Master-Report strukturell und nicht mit Inhalt zu füllen, laut der strukturierten Outline der Moment, in dem AEGIS die Genesis zeigen muss; die AEGIS-Subplots lasen die Stelle als Nachbeben, Kollaps, Abschaltung oder Fragmentierung.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint — one shared entry for Kapitel 33–35
+
+Not in date order with the readings below; placed before the first one (it is the oldest whole-novel plan read). „Kapitel 33-35: Konsequenzen und Entfaltung" ^[monstergruppe-primzahlen-plot-blueprint.md:L373] is one entry for three chapters, not a reading of Kapitel 35 alone (J108); the same entry stands on [Kap 33](kap-33.md) and [Kap 34](kap-34.md) too.
+
+- Concept: „Darstellung der gewählten Auflösung, Auswirkungen auf die Welt/Charaktere, Thematische Vertiefung." ^[monstergruppe-primzahlen-plot-blueprint.md:L375]
+- Plot: „Diese Kapitel entfalten die Konsequenzen der in 31 und 32 getroffenen Entscheidungen." ^[monstergruppe-primzahlen-plot-blueprint.md:L376] „Zeigen, wie sich Kaels Wahl manifestiert und welche Auswirkungen sie auf die Kernwelt, J, und AEGIS (falls überlebend/adaptierend) hat." ^[monstergruppe-primzahlen-plot-blueprint.md:L376]
+- M-als-Fundament: „Die neue Realität (oder Kaels Zustand) spiegelt nun direkter die Prinzipien von M wider." ^[monstergruppe-primzahlen-plot-blueprint.md:L377]
+
+It names no beat, no world and no chapter-specific event that falls in Kapitel 35 alone; it does not distinguish what happens in 33, 34 or 35.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +41,26 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Option A (Kollaps): Die Simulation beginnt sich aufzulösen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479] · „Option B (Abschaltung/Reboot): Alles friert ein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479]
 - Story: „Option C (Fragmentierung): Teile des Systems funktionieren weiter, aber unkoordiniert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479]
 - Story: „Kael ist in diesem unmittelbaren Nachbeben gefangen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L479]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — Kael realises he is AEGIS
+
+Title: „Kapitel 35: Das Ende der Subjekt-Objekt-Spaltung" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L131]
+Position: Teil III, „Die existenzielle Fusion (Kapitel 27–39)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Story: „Kael begreift in einem Moment universeller Klarheit, dass er nicht ein Opfer ist, das in der Simulation AEGIS gefangen ist." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L131] „Er selbst *ist* das System AEGIS, das in einem Akt der Autopoiesis versuchte, sein eigenes Trauma durch Überkontrolle zu überleben." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L131] „Die selbstreferenzielle Natur des Universums (Gödel) schließt den Kreis." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L131]
+- POV: „Die Erzählperspektive wechselt fließend in eine allwissende Sicht." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L131] „Kael blickt von oben auf die Stadt herab, betrachtet sich selbst als Knotenpunkt in einem endlosen Netzwerk, fühlt sich aber gleichzeitig zutiefst intim mit sich selbst verbunden." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L131]
+
+Not the Gödel-Gambit's forced acceptance of an unprovable truth that the readings below name (see [[goedel-gambit]]): here the self-reference is Kael's own identity revelation, not a statement AEGIS is made to accept.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Gödel-Gambit itself
+
+Title: „Kapitel 35: Das Gödel-Gambit (Klimax Teil 1)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192]
+Position: Akt III, „Die Apotheose der Ganzheit (Heldenreise nach Campbell)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Story: „Anstatt AEGIS mit Gewalt zu zerstören, ändert Kael die mathematischen Spielregeln. Er initiiert das Gödel-Gambit." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192] „Kael präsentiert sich AEGIS als ein System vollkommener, funktionaler Multiplizität – ein Bewusstsein, das aus dreizehn disparaten, widersprüchlichen Wahrheiten besteht, die dennoch ein kohärentes Ganzes bilden." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192]
+- What Kael becomes: „Er wird zum Lebenden Gödel-Satz innerhalb der P-Klasse-Logik von AEGIS: Eine Wahrheit, die existiert, aber innerhalb des starren Systems nicht bewiesen werden kann." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192]
+
+See [[goedel-gambit]] for the Gambit across the sources, and [[kap-36|Kap 36]] for AEGIS' dilemma.
 
 ## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — the Vortex-Inversions-Beat-Sheet of Kapitel 35–36, five beats with sensory anchors, no chapter cut
 

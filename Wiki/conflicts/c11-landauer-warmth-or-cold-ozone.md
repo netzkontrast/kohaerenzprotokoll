@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 34
+sources: 36
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -365,3 +365,19 @@ Ozone, Beat 1: „*Sensorischer Anker:* Der scharfe, metallische Geruch von Ozon
 Cold, in the same Vortex: „Die umgebenden, ehemals belebten Sektoren der Konstrukt-Stadt verblassen in einem eiskalten, fraktalen Zerfall, da ihnen die Rendering-Energie entzogen wird.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L276] (Beat 1) · „*Sensorischer Anker:* Ein überraschend kühler, klarer Luftzug, der entsteht, wenn ein gigantisches Feuer abrupt erlischt und die Atmosphäre beginnt, sich neu zu ordnen.“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L306] (Beat 5). And twice outside it: AEGIS' „Kälte“ beside its power (L117), and the cold surfaces of Kael's key image (L91).
 `warm`, `Kap` and `Kap 6` stand 0 times, `Ozon` once; cold stands as `eiskalten`, `kühler`, `Kälte` and `kalten`, once each (`Plan/runs/dramatica-storyform-synthese-aegis-analyse-2/05-verify-readers.txt`). A research report; its scenes are proposals and its verdicts its own.
 The master report's side, a week before the Dramatica lock-in and a month before the lock of 2026-05-30: heat one trace of AEGIS' erasure, the spike at Beat 4 — the spike row 2 keeps too. Its ozone is not called cold, and its cold is not ozone's: it lies on the sectors AEGIS abandons and the air after the fire. Its one warmth is AEGIS', not Juna's. It names no Kap 6 and gives Kap 36 only in the range, so row 1's warmth there is neither held nor denied. The conflict stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Digital waste heat and burnt ozone as the cost of AEGIS' erasure, Juna's warmth set directly against LogOS' cold, cold neon warming at the Ouroboros ending — no Landauer-Signatur and no polarity rule by name.**
+The Landauer principle is named as the weapon and its cost together: „sie müssen als Zonen extremer, paradoxer" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L27] digitaler Abwärme „physisch spürbar sein." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L27] „Die scheinbar sterile Architektur der Konstrukt-Stadt heizt sich in Kaels Nähe auf, Keramikwände schmelzen temporär und die Luft riecht nach verbranntem Ozon." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L27]
+Warmth is [[juna|Juna]]'s, set directly against a cold that is AEGIS' guardian's, in one sentence: „Kael spürt die intensive, lodernde Wärme (K0) von Junas Präsenz, während das mechanische, kalte Ticken von LogOS (K1) unbeeindruckt fortfährt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77] — the pairing row 2's rule states, seventeen weeks before the lock.
+At the Ouroboros ending, cold gives way to warm: „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren. Die K1- und K0-Kernel koexistieren, ohne sich gegenseitig zu vernichten." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
+`Landauer-Signatur`, `Polarität` and `Kap 6` stand 0 times (`Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/05-verify-readers.txt`). It holds row 2's pairing for Juna and LogOS without naming a rule, and adds a third position — cold warming into a coexistence of both kernels — that no other read source gives the ending. The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**The Landauer principle as AEGIS' primary weapon, an act-by-act register — Akt I cold, Akt II hot, Akt III warm — and heat cooling into warmth, ozone into freshness, at the resolution.**
+Named as the weapon itself: „Erstens fungiert das Landauer-Prinzip als primäre Waffe der Antagonisten-Instanz AEGIS." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L25] „Die Löschung massiver Datenpakete generiert unvorstellbare, physische Hitze und Ozon." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L25]
+Its own stated progression makes the register change by act rather than by bearer: „Stil-Progression: Akt I (kalt/steril), Akt II (heiß/fragmentiert), Akt III (choral/holographisch)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L223] KW4 in Akt III already carries warmth and a changed ozone: „Hier herrscht warmes Licht." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172] „Er steht in einem überwucherten Ruinengarten, dessen Erde feucht ist und der dezent nach Ozon des Werdens riecht." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
+At the resolution, Kapitel 37, heat and ozone cool into their opposite: „Die glühende Hitze kühlt ab zu einer sanften, lebenspendenden Wärme. Der beißende Ozon-Geruch weicht der Frische nach einem Sommergewitter." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200]
+No `Landauer-Signatur` and no polarity rule stand in it (`05-verify-readers.txt`); heat and ozone are one trace of AEGIS' erasure that itself changes register act by act, rather than two signatures kept apart by bearer — a fourth position, twenty-two days before the master report's and the worldbuilding concept's date. It names no Kap 6, so row 1's warmth there is neither held nor denied. The conflict stays open.

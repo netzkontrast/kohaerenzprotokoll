@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 11
-readings: 11
+sources: 13
+readings: 13
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
 gathered: "2026-09-16"
 ---
 
@@ -137,3 +137,12 @@ KW4's concept, in the konsolidiertes Konzept's words of the same date: „Einzig
 Its logic: „Computational Class: Generativ — neue Strukturen entstehen, die nicht aus den Prämissen folgen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L598] In the logic regimes: „KW4 = Generativ. Emergente Strukturen. Sprache poetisch-chorisch." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L703]
 It takes the world from the Guardian the 2025 source gave emergence to. As a „Wichtige Korrektur gegenüber alten Drafts:" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] — „KW4 ist nicht mehr" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] Kairos' realm, „sondern emergenter Möglichkeitsraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453] — while Kairos' function goes to the Erasure-Pol: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] That is the document's claim about older drafts.
 [[aegis|AEGIS]]' own origin is the [[genesis|Genesis]]-Krise here, without the word (L67, L174). Not conflict `C3`'s sense.
+
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint — emergent effects from Kael's resonance with M, unpredictable for AEGIS
+
+Not in date order with the readings above; placed after the last one. Kapitel 14, Unstabiles Gleichgewicht: „Emergenz, Nichtlineare Dynamik, Scheitern der Vorhersage." ^[monstergruppe-primzahlen-plot-blueprint.md:L163] „Seine Handlungen, selbst kleine, lösen aufgrund seiner M-Resonanz unerwartete und unverhältnismäßig große Effekte in der Kernwelt aus – klassische Beispiele für Emergenz in komplexen Systemen." ^[monstergruppe-primzahlen-plot-blueprint.md:L164] „Die emergenten Phänomene sind direkte Konsequenzen der M-Struktur." ^[monstergruppe-primzahlen-plot-blueprint.md:L165]
+Emergence here is neither AEGIS' own origin (`C3`'s question) nor a Guardian's domain or a Kernwelt's property, as the readings above give it: it is what Kael's interaction with the M-fundament produces, and what AEGIS' faktorisierende Analyse cannot model — a third sense the page's readings above do not take.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Generative class open to emergence, KW4's property, a year before the same word
+
+Not in date order with the readings above; placed after the last one. Its table gives Kairos-Potentialis the same computational class the strukturierter Outline and the worldbuilding concept give KW4, before either, in its own Computational Class column: „Generativ - Offen für Emergenz." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43] The Guardians of the domain are, in this document, „Kairos / Sophia" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43], as the guardians-und-kern-welten-konzept above gives Kairos the emergence sense a year earlier. Not conflict `C3`'s sense.

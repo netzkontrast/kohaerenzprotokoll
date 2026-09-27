@@ -1,10 +1,10 @@
 ---
 term: Gödel-Gambit
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none yet
-ingested: ["an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-25"
 ---
 
@@ -41,6 +41,12 @@ per a footnote it quotes, a symptom „retroactively framed as the cause?" ^[an-
 AEGIS' fate, in its profile: „Wird durch das" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L316] Gambit
 „Kaels nicht zerstört" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L316];
 „es muss eine paradoxe Wahrheit anerkennen, die es logisch nicht erfassen kann (ineffiziente Schönheit)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L316]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Gambit named as such, Kael a living Gödel statement inside AEGIS' P-class logic, and its own chapter titles
+
+„Kapitel 35: Das Gödel-Gambit (Klimax Teil 1)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192] (a chapter title, J9). „Anstatt AEGIS mit Gewalt zu zerstören, ändert Kael die mathematischen Spielregeln. Er initiiert das Gödel-Gambit." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192] „Er wird zum Lebenden Gödel-Satz innerhalb der P-Klasse-Logik von AEGIS: Eine Wahrheit, die existiert, aber innerhalb des starren Systems nicht bewiesen werden kann." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192] — the statement is [[kael|Kael]]'s functional multiplicity itself, presented to AEGIS.
+The checklist names the same beat by its own fixed-point requirement: „Klimax Kap. 35-36: Gödel-Gambit, Kael als lebender Gödel-Satz, AEGIS-Dilemma (Widerspruch vs. Unvollständigkeit)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L219]
+„Kapitel 36: Das Dilemma (Klimax Teil 2)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L194] (a chapter title, J9) states the choice AEGIS faces as a dilemma between the two logical failures the page's other readings name separately: „Akzeptiert die KI die Existenz von Kaels funktioneller Multiplizität, integriert sie einen unlösbaren Widerspruch in ihren Kern und zerstört ihr eigenes Axiom der perfekten Ordnung. Lehnt sie Kael ab, muss sie anerkennen, dass ihr System unvollständig ist und niemals die absolute Kontrolle erlangen kann (Gödelscher Unvollständigkeitssatz)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L196] AEGIS is not destroyed: „AEGIS explodiert nicht, sondern zerfällt in einer Welle tragischer Resignation. Die Maschine löst sich auf und fließt als neutrale Information zurück in das System." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L196]
 
 ## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28
 
@@ -180,7 +186,7 @@ and so does the Architecture of Fracture (its L58). The Physics of Heartbreak gi
 without relating the two. The Plot/Outline Mining-Report and the Systemic Architecture
 Specification name no Gödel statement. The Dramatica-Synthese, which never names the Gambit, gives
 the Gödel-Satz to Juna, in her composite with the Witness Function and Chaitin's constant (its L29,
-L363), and makes Kael a living Dialetheia, never a Gödel statement (L290).
+L363), and makes Kael a living Dialetheia, never a Gödel statement (L290). The Hard-SF-Outline sides with the Kael group, and names the Gambit itself: „Er wird zum Lebenden Gödel-Satz innerhalb der P-Klasse-Logik von AEGIS" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192].
 
 **Where it falls.** Kap 35–36 (the character bible L160, the analysis L106,
 L261, the Worldbuilding-Konzept L263); Kap 30/35 (the character bible L1113); begun in Kap 30 and peaking in
@@ -194,7 +200,7 @@ Kael's Living Gödel-Sentence acting at the Vortex (L141). No place: before AEGI
 state (the Systemic Architecture Specification, L34), in the paragraph on the Algorithmische
 Melancholie (the Architecture of Fracture, L58), and in the Ouroboros ending (the Physics of
 Heartbreak, L39). The Vortex of Kapitel 35–36, Kael's living Dialetheia in Beat 3 and AEGIS' erasure
-of it in Beat 4, without the name (the Dramatica-Synthese, L290, L297).
+of it in Beat 4, without the name (the Dramatica-Synthese, L290, L297). Named as its own two chapter titles, in the Hard-SF-Outline: „Kapitel 35: Das Gödel-Gambit (Klimax Teil 1)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192] and „Kapitel 36: Das Dilemma (Klimax Teil 2)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L194].
 
 **What it does to AEGIS.** Forced to accept a truth it cannot compute, not
 destroyed (character bible, konsolidiertes Konzept, Worldbuilding-Konzept,
@@ -211,7 +217,7 @@ truth of the system's unity without feeling it (the Architecture of Fracture, L5
 truth it cannot calculate, trapped in its own logic (the Physics of Heartbreak, L39); a loop of
 self-analysis, and after it, at the document's own `MEDIUM` confidence, a paraconsistent
 proto-awareness that must carry the contradiction it can no longer erase (the Dramatica-Synthese,
-L304, L326–L327).
+L304, L326–L327). Not destroyed but decayed, in the Hard-SF-Outline's own words: „AEGIS explodiert nicht, sondern zerfällt in einer Welle tragischer Resignation. Die Maschine löst sich auf und fließt als neutrale Information zurück in das System." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L196]
 
 **Who brings the paradox.** Kael, in the sources that say: he presents his existence to
 AEGIS' core programming (the inquiry, L302), formulates the Wir as a living contradiction and
@@ -224,6 +230,7 @@ which it does not call the Gambit.
 Neither, in the Dramatica-Synthese: Kael's existence is the problem, „das unlösbare logische Problem“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L145],
 and AEGIS, confronted with a logical paradox in a scene seed (its L113), tries to erase it in the
 Vortex (L297).
+Kael, in the Hard-SF-Outline: „Kael präsentiert sich AEGIS als ein System vollkommener, funktionaler Multiplizität" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L192].
 
 ## Open
 
