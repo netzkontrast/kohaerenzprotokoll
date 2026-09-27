@@ -1571,3 +1571,59 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „Kael geht im Verlauf der ersten 13 Kapitel zunehmend der Raum für Vermeidungsstrategien (Options) aus, sich vor seinem Kern-Trauma (T-734) zu verstecken.“ (L83); „Kaels „Origin Trauma“ (T-734) bleibt als kausaler Anker logisch teils undefiniert.“ (L33); in its corpus inventory T-734 is also listed among „13 Alters/Fragmente“ (L32). `Komponente` 0.
 
 **Result.** placed by the sentence: here the number names Kael's core or origin trauma, and once a fragment — a reading on komponente-734 under what the bare number names, not a second name of the component; `T-734` is not added as a surface
+
+## J113 — Kael (Selbst) / Kael/M / Kael
+
+**judgement** · kohaerenz-protokoll · 2026-09-27 · replay: `skipped`
+
+- **rule:** a speaker tag or a slash that joins a figure's name to a role or an origin names the figure; the page records what the addition says, the surface stays the name
+- **mechanised by:** `nothing`
+- **features:** speaker-tag, slash-identity, one-document-term
+
+**Question.** are the document's `Kael (Selbst)` and `Kael/M` terms of their own, or Kael?
+
+**What was done.** „„Ich sehe, wie sehr du versucht hast, alles zusammenzuhalten“, sagte Kael (Selbst)“ (L891) tags which of Kael's parts speaks, in IFS's sense of the Self; „Er war Kael/M.“ (L1430) writes Kael together with what he is a fragment of (L853).
+
+**Result.** one term with Kael: each is placed on kael by the sentence, the tag as Kael speaking from the Self, the slash as the document's claim that Kael is a fragment of M; neither becomes a surface
+
+## J114 — Kohärenz-Partitionierung / Partitionierung / Trennungsprotokoll
+
+**judgement** · kohaerenz-protokoll · 2026-09-27 · replay: `skipped`
+
+- **rule:** a protocol a source describes doing what a page's protocol does (AEGIS separating a being into parts) is placed on that page by the sentence; a different name from one source is not a surface (J100)
+- **mechanised by:** `nothing`
+- **features:** another-name, performed-in-lifetime, two-events
+
+**Question.** is the document's partitioning the Trennungsprotokoll the wiki pages?
+
+**What was done.** „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung. Sub-Prozess 4B: Isolation und Kapselung der anomalen Resonanz.“ (L258) — AEGIS walls off Kael's feeling part, tied to Juna, from the Manager, in Kapitel 2; the Manager remembers an earlier one, „Als… als M dissoziiert wurde.“ (L911). `Trennungsprotokoll` 0.
+
+**Result.** placed by the sentence: a reading on trennungsprotokoll as this source's separation done by AEGIS — twice, once in Kael's life in Kapitel 2 and once when M was dissociated — never as a second name; `Partitionierung` is not a surface
+
+## J115 — Wohnmodul / Kaels Wohneinheit 1.0
+
+**judgement** · kohaerenz-protokoll · 2026-09-27 · replay: `judgement`
+
+- **rule:** a common noun a source uses for a page's referent is resolved by the sentence, never by the surface (J88)
+- **mechanised by:** `nothing`
+- **features:** common-noun, occupant-agrees
+
+**Question.** is Kael's Wohnmodul the page Kaels Wohneinheit?
+
+**What was done.** „Kael lag auf der Ruhefläche seines Wohnmoduls.“ (L128) — white, shadowless, geometric; every unit has one (`Wohnblock`, L140).
+
+**Result.** placed by the sentence: a reading on kaels-wohneinheit where the passage is Kael's own dwelling; `Wohnmodul` is every unit's dwelling and is not a surface
+
+## J116 — Co₁ / McL / Beta-Rho-5 / Ly / Kern-Welten
+
+**judgement** · kohaerenz-protokoll · 2026-09-27 · replay: `skipped`
+
+- **rule:** a world a source names by the mathematics it runs on, and calls a Kernwelt, is placed on kern-welten by the sentence; a group name is not a surface, and no correspondence to another source's numbering is inferred
+- **mechanised by:** `nothing`
+- **features:** group-names, short-surface, world-by-mathematics
+
+**Question.** are the document's four worlds named by sporadic groups the Kern-Welten?
+
+**What was done.** „Kernwelt Typ B. Beta-Rho-5. … Die Baby-Monster-Welt.“ (L1500); „ZIEL: KERNWELT MCL-SIGMA-3“ (L546); „Dies war die Lyons-Welt (Ly)“ (L1978); Co₁ Kael's home world; „Er wusste nun, dass die Kernwelten Simulationen waren“ (L2204).
+
+**Result.** one referent: a reading on kern-welten naming the four worlds and their Guardians as the document gives them; `Co₁`, `McL`, `Ly` and `Beta-Rho-5` are not surfaces — `Ly` is two letters and `Co₁` a group before it is a world. Which world corresponds to which KW is left open
