@@ -601,7 +601,7 @@ both sides quoted — noted for the author, none settled:
 in Akt I but Kap 4 and 5 is the strukturierter Outline's HR-Stufe name, and the
 Konzept-Iteration Genesis names Kap 2–5 differently from all the rest.
 
-**Next, in order:** the 96 <!--state:chapters.missing--> chapter mentions no page
+**Next, in order:** the 98 <!--state:chapters.missing--> chapter mentions no page
 holds yet (`chapters.py missing` — the character bible's Kap-33 scene, the drafting
 manual's reveal timeline, the Alter profiles' debuts); the Abhandlung and both
 drafts of Kap 0 are read; then chapters in `graph.py` and `ui.py` if
@@ -704,7 +704,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   92 <!--state:sweep.decided--> hits, 47 <!--state:sweep.readings--> of them
+   102 <!--state:sweep.decided--> hits, 49 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -780,7 +780,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 39 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 42 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -919,7 +919,29 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the four pre-2026 plans reconciled
+## Next document — documents 44–46 reconciled
+
+**Documents 44–46 are done, 2026-09-27**: the three unread documents highest in the chapter tables after
+the four whole-novel plans — the Duale Storyform-Synthese (2026-04-28), the AEGIS-Analyse (2026-04-30,
+the earlier run of document 40's report) and the M-Fundament-Blueprint (2025-04-26, document 43's
+companion, in beats). `reconcile-45` to `reconcile-47` are the records. **No page**; J112 (`T-734`);
+readings on 28, 26 and 9 pages, Kap 8, 9, 11, 18, 24, 28, 32, 35, 36 and `plot.md` (a twelfth plan with
+one Vortex). Retrieval unchanged at 0.660. Four Sonnet readers, split by page group.
+- **Noticed, no record holds it:** two runs of one report disagree — document 40 makes AEGIS after the
+  Vortex a „parakonsistente Proto-Bewusstheit", document 45 a broken loop (on
+  `algorithmische-melancholie`); and their Witness layers fall in different beats (on `vortex`). The
+  Duale Storyform-Synthese puts Kael in the MC of *both* storyforms and AEGIS in B's IC, the AEGIS-Analyse
+  two days later AEGIS in B's MC — the throughline question C8 assumes settled. The Duale
+  Storyform-Synthese's corpus lists the Mosaik-Herz and T-734 among thirteen alters.
+- **A reader altered a quotation, and `quotes.py` could only call it unchecked**: C3 quoted „temporäre
+  Entitäten", citing a line range in parentheses rather than `^[…]`, so the checker counted it as uncited
+  instead of comparing it; the session found the altered words by grepping the corpus. An uncited
+  quotation is counted, never compared — the 0-unchecked rule is what catches it.
+
+Next: `kohaerenz-protokoll` (2025-04-27, 50k words, 18 chapters in the tables) — read it on its own, in
+parts. Then the four unread 2026-09-25 scans named below.
+
+### Previous document — the four pre-2026 plans reconciled
 
 **Documents 40–43 are done, 2026-09-27**, on the goal „ingest the next sources": the four whole-novel
 plans *Reading suggestion — next* named after the canon era. `reconcile-41` to `reconcile-44` are the
@@ -979,7 +1001,7 @@ whole-novel plans named there — `monstergruppe-primzahlen-plot-blueprint`,
 - **A number after a word cannot be quoted**: „bauen 39 Kapitel“ (L41) — the footnote rule drops `39`, so `read.py --find "39 Kapitel"` refuses the line. The census writes it as a term; the rule is `quotes.py`'s, unchanged.
 - **Retrieval**: PageRank recall@8 0.637 → 0.644, only Q5.
 
-Next: every item of *Reading suggestion — next* is read. Rerun `python3 scripts/chapter_sources.py run` so the chapter tables stop listing the seven documents read since, then choose from them — or one of the four whole-novel plans named there. `chapters.py missing` still lists 96 <!--state:chapters.missing--> single-`Kap` mentions.
+Next: every item of *Reading suggestion — next* is read. Rerun `python3 scripts/chapter_sources.py run` so the chapter tables stop listing the seven documents read since, then choose from them — or one of the four whole-novel plans named there. `chapters.py missing` still lists 98 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the Dual-Storyform background document reconciled
 
@@ -1054,7 +1076,7 @@ Next, by *Reading suggestion — next*: `kohaerenz-protokoll-philosophie-im-deta
 - **Chapter readings from table rows.** The rows are numbered without `Kap`, so `chapters.py missing` cannot see them; all 39 were read from the tables.
 - **The five scan readings of it stand** (`vortex`, `kishotenketsu`, `goedel-gambit`, `residual-echos`, `komponente-734`).
 
-Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 96 <!--state:chapters.missing--> single-`Kap` mentions.
+Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 98 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the annotated Kap 0 reconciled
 
