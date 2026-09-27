@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      5
+  typographic marks      40
+  ascii quotes           268
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Archipelago, Architecture
+  contr    Contradiction, Contradictions, Control
+  integ    Integrated, Integration, Integrator
+  logic    Logic, Logical, Logically
+  proto    Protocol, Protocols, Protokoll
+  algor    Algorithmic, Algorithms
+  avoid    Avoidance, Avoidant
+  conne    Connection, Connects
+  diale    Dialetheia, Dialetheic
+  drama    Dramatize, Dramatizes
+  drive    Driver, Drives
+  explo    Exploit, Explosion
+  final    Final, Finale
+  gödel    Gödel, Gödelian
+  journ    Journalist, Journey
+  kanon    KANON, Kanon
+  parai    Paraiya, Paraiyas
+  psych    Psycho, Psychology
+  relat    Relationality, Relationship
+  somat    Somatic, Somatics
+  story    Story, Storyform
+  strat    Strategic, Strategically
+  struc    Structural, Structure
+  syste    System, Systemic
+  trans    Transcendent, Transition
+
+# substring pairs -- never one term, often merged by accident
+  Dist < Distanz
+  Dist < Distillation
+  Hero < Heroine
+  Main < Maintaining
+  Seed < Seeds
+  Fight < Firefighter
+  Final < Finale
+  Gödel < Gödelian
+  KANON < Kanon
+  Logic < Logical
+  Logic < Logically
+  Logic < Ontological
+  Story < Storyform
+  World < Worlds
+  Forces < Enforces
+  Psycho < Psychology
+  System < Systemic
+  VORTEX < Vortex
+  Logical < Logically
+  Logical < Ontological

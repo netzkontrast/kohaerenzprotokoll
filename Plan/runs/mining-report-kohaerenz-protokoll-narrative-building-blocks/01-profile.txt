@@ -1,0 +1,14 @@
+# mining-report-kohaerenz-protokoll-narrative-building-blocks
+  lines                228  (frontmatter ends at 9)
+  body words           3356
+  headings             44   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    5
+  typographic marks    40   ascii quotes 268
+  invisible characters none
+  math symbol lines    2
+  glued ref numbers    0
+  repeated labels      Carrier x20, Lever x20, Material x20, Phase x20, Source x20, Status x20, Storyform x20
+  longest line         770 chars
+
