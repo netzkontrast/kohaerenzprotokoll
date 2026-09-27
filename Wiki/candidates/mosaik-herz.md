@@ -1,16 +1,16 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
 # Mosaik-Herz
 
-**One name for at least three things: a Kap-11 story beat, a Kap-34 place, and — in one source — what Kap 34 itself is titled and what forms there.** Eleven read
+**One name for at least three things: a Kap-11 story beat, a Kap-34 place, and — in one source — what Kap 34 itself is titled and what forms there.** Twelve read
 sources use it. Six name the Kap-11 beat and six name Kap 34, as a place, a beat
 before the [[vortex|Vortex]], or the chapter's own title; the konsolidiertes Konzept and the strukturierter Outline
 name both Kap 11 and Kap 34. Two also make it an inner resource in Kap 23. (Until the worldbuilding
@@ -19,6 +19,7 @@ the Dramatica-Synthese of 2026-04-30, names neither: in its table it is Juna, th
 Storyform A (its L126). (Until it was read this said nine sources.) The Ultra-Plot of
 2026-02-26 makes it Kap 34's own title and the product formed there from the fused
 [[alters]] and Juna's saved essence, not merely a place named in passing (`05-verify-readers.txt`).
+**The earliest-dated source on this page uses the name as a chapter's own title, and keeps it afterward as Kael's felt state.** The Kohärenz-Protokoll narrative of 2025-04-27 titles its own Kapitel 11 `Das Mosaik-Herz`, and returns to the name through the rest of Teil 1 and in Kapitel 23's concept header. Whether the later Kap-11 and Kap-34 uses come from it, no source says.
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -93,3 +94,8 @@ A research report that cites a corpus it does not contain — recorded, not appl
 **Kapitel 11, an acceptance of the Alpha-Logik's rigidity — the Kap-11 beat, corroborated.** „Die Überwindung der starren Alpha-Logik durch die Akzeptanz des „Mosaik-Herzens“ in Kapitel 11." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L101]
 **Kapitel 32, alongside Kael/M's birth.** „Die explizite Geburt des synthetisierten Wesens „Kael/M“ in Kapitel 32 und die Integration des Mosaik-Herzens belegen unbestreitbar einen radikalen inneren Wandel." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L96] A third chapter for this page, where the strukturierter Outline names Kap 11 and Kap 34 (`Open`, above).
 **A fourth sense — its own corpus inventory names Mosaik-Herz as one of thirteen alter names, not a place or a beat.** „13 Alters/Fragmente benannt (Alpha, Mosaik-Herz, Schatten, T-734, K-J Vektor etc.)." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L32] This is the document's claim about a source it does not contain (see `alters`, `Q3`), and no other read source treats `Mosaik-Herz` as an alter's name rather than a place or a state reached.
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the earliest use: the chapter's own title, then a standing name for Kael's integrated self
+
+Not the Kap-11 beat or the Kap-34 place of the later sources, and not the Ultra-Plot's product of a fusion: here the name is the title of Kael's own Kapitel 11 and then his recurring word for what he becomes. **Kapitel 11 is titled with it outright**: „### **Kapitel 11: Das Mosaik-Herz**" ^[kohaerenz-protokoll.md:L1294]. Its own concept header names the shards again rather than the title's words: „(Fundamentales Konzept: Akzeptanz der Komplexität / Scherben der Erkenntnis)" ^[kohaerenz-protokoll.md:L1296]. The chapter opens on the question the shards pose to the Selbst: „Wie kann ich kohärent sein, wenn ich aus so vielen widersprüchlichen Teilen bestehe? Wie kann ein Mosaik aus Scherben ein starkes Herz bilden?" ^[kohaerenz-protokoll.md:L1322] — and answers it by naming what the rearranged shards become: „Aber zusammen ergaben sie ein neues Bild. Ein Bild, das nicht perfekt war im Sinne makelloser Einheitlichkeit, sondern schön in seiner Komplexität, seiner Vielfalt, seiner Geschichte. Ein Mosaik-Herz." ^[kohaerenz-protokoll.md:L1326]
+**It stays with him afterward, as a felt state rather than a place he enters.** In Beta-Rho-5, once the parts stop warring: „Es war ein Zustand funktionaler Multiplizität, eine erste Ahnung davon, wie das integrierte Mosaik-Herz operieren könnte." ^[kohaerenz-protokoll.md:L1766] (see [[multiplizitaet|Multiplizität]]). Under greater pressure it holds rather than achieves: „Das Mosaik-Herz hielt." ^[kohaerenz-protokoll.md:L1858] And by the end of Teil 1 it names Kael himself: „Er war Kael, der Architekt seines eigenen Mosaik-Herzens" ^[kohaerenz-protokoll.md:L1456]. Teil 2 uses the same name for its own concept header, at the corresponding stage of the second cycle: „(Fundamentales Konzept: Selbst-Schöpfung / Mosaik-Herz)" ^[kohaerenz-protokoll.md:L2396] — Kapitel 23, the same chapter number `koharenz-protokoll-konzept-iteration-genesis-md` independently makes an inner resource of the same name (above).

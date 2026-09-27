@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -135,3 +135,7 @@ A research report of 2026-04-30; its rooms are proposals, like its scene seeds. 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — where the novel begins, right after the reset
 
 **Kael's dwelling, unnumbered, and the novel's opening room.** Kapitel 1, „Der Erwachen-Zyklus und die Planck-Latenz" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55]: „Kael erwacht in seiner Wohneinheit in der Konstrukt-Stadt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55] (J50). No number stands on the line (`734` 0, `05-verify.txt`); the next stop is the Datenknotenpunkt Gamma-7 (see [[datenverarbeitungsknoten-7g]]).
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — Kael's own dwelling, and every unit's word for it (J115)
+
+The document opens on it, unnumbered: „Kael lag auf der Ruhefläche seines Wohnmoduls." ^[kohaerenz-protokoll.md:L128] — placed here by the sentence (J115); `Wohnmodul` is not this page's surface: every unit lives in one, in a block of them, and the other units are known only by designations — „Kael kannte ihre Bezeichnungen – 734-Alpha aus seiner Analysegruppe, 912-Gamma aus seinem Wohnblock –, aber er kannte sie nicht." ^[kohaerenz-protokoll.md:L140] So no number attaches to the dwelling itself here; `734` is a colleague's designation, `734-Alpha`, and Kael's own is `K-1123`. What it looks like: „Sein Wohnmodul war ein Musterbeispiel an Funktionalität und Symmetrie. Jedes Objekt hatte seinen festen Platz, jede Oberfläche war makellos." ^[kohaerenz-protokoll.md:L134]

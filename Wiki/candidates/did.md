@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -138,3 +138,7 @@ A report addressed to the author; recorded, not applied. The frame is explicit a
 A plot blueprint that hedges nearly every beat — the companion of the Primzahl-Blueprint above, and its `DIS`-analog reading is the same age.
 **Not M's mirror — AEGIS' doing, via an IFS model of the parts it produces.** „Kaels DIS-ähnliche Fragmentierung ist *keine* direkte Abbildung von M, sondern eine psychologische Stressreaktion auf AEGIS' invasive Analyse- und Kontrollversuche." ^[m-als-fundament-der-simulation.md:L82] „Dies entspricht dem Internal Family Systems (IFS) Modell, bei dem Trauma/Stress zur Fragmentierung in Teile führt (Exiles, die Schmerz tragen; Protectors/Managers, die versuchen, damit umzugehen)." ^[m-als-fundament-der-simulation.md:L82]
 `DID` and `TSDP` stand 0 times; the document's one dissociation word is `DIS`, once, in the compound `DIS-ähnliche` (`Plan/runs/m-als-fundament-der-simulation/05-verify-readers.txt`) — the same approximating hyphen the Primzahl-Blueprint uses for `DID-analog`, on the two oldest read sources for this page.
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the diagnosis as a chapter's own label, and the word withheld from the prose
+
+The earliest read source for this page, and it already marks a chapter by its clinical concept rather than withholding the label entirely: Kapitel 2, „Die Partitionierung" ^[kohaerenz-protokoll.md:L196], is headed „(Fundamentales Konzept: Dissoziative Identitätsstörung)" ^[kohaerenz-protokoll.md:L198] — the same chapter where AEGIS first walls Kael's feeling part off (see [[trennungsprotokoll|Trennungsprotokoll]]). `DID` itself never stands (`grep -cw DID`: 0); the document writes out the clinical name only in that one heading, and its prose never uses it or `Alter` (see [[alters|Alters]]) for what happens there — the chapter's own header states the diagnosis where the later canon-era sources keep the word out of the prose until Kap 13.

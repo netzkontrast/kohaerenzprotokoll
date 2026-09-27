@@ -1,16 +1,20 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
 # Cache-Kohärenz
 
 **The novel's technical image for the split between ANP and EP.**
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the metaphor named directly, for the gaps in Kael's own memory
+
+The earliest read source, and the one that names the metaphor in so many words rather than only using its vocabulary. Kael notices pieces of his own timeline missing and reaches for the image himself: „Die Cache-Kohärenz-Metapher drängte sich auf, auch wenn er sie nicht bewusst formulieren konnte. Seine inneren "Caches" waren inkonsistent." ^[kohaerenz-protokoll.md:L304] The same sentence ties the failure to the partitioning that caused it: „Die Partitionierung hatte nicht nur einen Teil seines Fühlens und seiner Intuition abgetrennt, sondern auch die Verbindung zwischen seinen Erinnerungen gestört." ^[kohaerenz-protokoll.md:L304] (see [[trennungsprotokoll|Trennungsprotokoll]]). It states no ANP or EP by name (`ANP`, `EP` 0; `grep -cw`), so the metaphor here is Kael's own, felt as amnesia and inconsistent inner „Caches", before the later canon-era sources give it the multi-processor architecture and the two-part model.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
