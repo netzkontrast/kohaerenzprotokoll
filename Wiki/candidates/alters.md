@@ -349,7 +349,7 @@ The table's own row for [[moeglichkeits-garten|Möglichkeits-Garten]] calls it t
 
 A research report that cites a corpus it does not contain — recorded, not applied.
 **Thirteen, by its own corpus inventory rather than its own analysis.** „13 Alters/Fragmente benannt (Alpha, Mosaik-Herz, Schatten, T-734, K-J Vektor etc.)." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L32] Its claim about a source it does not contain (Q3); the document's own analysis names Alpha again, as a barrier: „Abbau der Alpha-Barrieren" ^[duale-storyform-synthese-kohaerenz-protokoll.md:L192] and „Die Überwindung der starren Alpha-Logik" ^[duale-storyform-synthese-kohaerenz-protokoll.md:L101].
-**`Mosaik-Herz` named as one of the thirteen** — a fourth sense no other read source gives it; see `mosaik-herz`.
+**`Mosaik-Herz` named as one of the thirteen** — a fourth sense no other read source gives it; see [[mosaik-herz]].
 **Symptom-response pairs left as an open point, not a settled roster.** „Welche spezifischen Symptom-Response-Paare werden den 13 Alters (insbesondere Alpha, Nyx und Kiko) zugeordnet, ohne die 5D-Kohärenz durch zu viele Subplots zu überladen?" ^[duale-storyform-synthese-kohaerenz-protokoll.md:L257]
 **Lex, Nyx, Kiko and Selene named together, as the risk its own dialectic runs.** „Wenn die OS als Physics und Kael als Universe definiert wird, besteht die Gefahr, dass die tiefenpsychologische Metaphorik der inneren Fragmentierung (Lex, Nyx, Kiko, Selene) zu bloßen physischen Handlungsschritten degradiert wird." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L158] No other trait is given to any of the four here.
 
