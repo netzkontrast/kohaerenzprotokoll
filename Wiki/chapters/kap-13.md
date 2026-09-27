@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -82,6 +82,14 @@ Position: „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzept-kohaeren
 
 - Veil: „Multiplizitäts-Schleier hält bis Ch13.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496] · „Erste 13 Kapitel: Multiplizitäts-Schleier hält.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378]
 - Place: „Evaluierungseinheit — Ort des „Messers im Bewusstsein" (Ch13). Wo Personae kollabieren.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L578], a sub-location of „### VI.4 KW3 — Cerberus-Labyrinth (Grenzfeste)“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L541], in the chapter that closes KW1's act.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — the veil holds to here
+
+The document ranks itself: „Hierarchie für Konflikte: Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots.“ ^[dual-storyform-hintergruende-md.md:L29] Recorded, not applied.
+
+Position: „Akt I\*\* | Kap 1–13“ ^[dual-storyform-hintergruende-md.md:L333] — the last chapter of Akt I; Akt II is „Akt II\*\* | Kap 14–26“ ^[dual-storyform-hintergruende-md.md:L334].
+
+- Veil: „Multiplizitäts-Schleier hält bis Ch13“ ^[dual-storyform-hintergruende-md.md:L451], the document's claim about an „Outline-Revision“ ^[dual-storyform-hintergruende-md.md:L451] of 2026-05-01 in its genealogy, whose effect it gives as „Akt-Architektur kanonisch.“ ^[dual-storyform-hintergruende-md.md:L451] · in the act table, for Akt I: „Multiplizitäts-Schleier hält.“ ^[dual-storyform-hintergruende-md.md:L333]
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — one rule
 

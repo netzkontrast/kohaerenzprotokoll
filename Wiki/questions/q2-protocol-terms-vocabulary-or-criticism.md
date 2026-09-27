@@ -3,7 +3,7 @@ id: Q2
 question: Do the seven protocol terms ever appear as project vocabulary, or do they only ever appear as objects of criticism?
 status: open
 raised_by: ["ani", "ars", "ecr", "nullpunkt-protokoll", "pms", "rsa", "snk"]
-documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-17"
 ---
 
@@ -66,6 +66,13 @@ ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times, and the tw
 **None of the eight occurs; the protocols it names are its own vocabulary.**
 „Das Kohärenzprotokoll (eponym des Romantitels) ist Kohärenztheorie als algorithmische Praxis — alles, was nicht passt, wird erasiert." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L36] Besides it, the Suppressionsprotokoll as AEGIS' practice (L45), a world „die das Trennungsprotokoll erzeugt hat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L229], and „AEGIS' Reparaturprotokolle sind potenziell endlos" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L307].
 ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times; so do `Re-Containment` and `zwölf`. No instance of the eight as project vocabulary.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**None of the eight occurs; twelve protocols reduced to three, as its claim about the Reset-Doc.**
+What fell away, from the Reset-Doc's §10: „12 AEGIS-Protokolle als Lore-Inventar." ^[dual-storyform-hintergruende-md.md:L469] „Reduziert auf 3." ^[dual-storyform-hintergruende-md.md:L469] Its genealogy's row for 2026-04-30: „Architektonische Vereinfachung (Foundation reduziert, Guardians auf 2, Protokolle auf 3)." ^[dual-storyform-hintergruende-md.md:L450]
+The one protocol it names is AEGIS', set against the title: „AEGIS' Protokoll ist Erasure-Protokoll; *Kaels Heilung* ist das eigentliche Kohärenz-Protokoll." ^[dual-storyform-hintergruende-md.md:L86]
+ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times; so do `Suppressionsprotokoll` and `Re-Containment`, and the twelve are not listed. No instance of project vocabulary, like the master report and the worldbuilding concept of its date.
 
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 

@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 14
+sources: 15
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -242,6 +242,13 @@ Under §5.1, labelled `[K]`: „AEGIS ist autopoietisch. Das ist nicht Beschreib
 Under §5.2 `[K]`, Luhmann: „weil Juna für AEGIS keine legitime Irritation ist." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L268] Under §7.1 `[K]`, the hard problem: AEGIS has function and no qualia, „Das ist seine ontologische Blindheit" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L372].
 [[mnemosyne|Mnemosyne]] is a row of its figure table, „Erinnerungs-Bewahrer; Rorty-Versuchung (Wahrheit als Anpassung); Tragik des unverstandenen Trägers" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L662] — a tragedy, not called a blindness. `Guardian` and `Erasure-Pol` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md/05-verify-readers.txt`).
 Position 1's bearer, with the autopoietic reason the konsolidiertes Konzept and the glossary give, in nearly their words. The conflict stays open.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**AEGIS' blindness, as what its sensors and its algorithm cannot take in — and no blind spot for a Guardian.**
+The Moonshine-Link is „nicht-lokale, von AEGIS' Sensorik nicht erfassbare Verbindung Kael↔Juna" ^[dual-storyform-hintergruende-md.md:L485]; Juna's Witness-Funktion is „Algorithmisch irreduzibel für AEGIS (Gödel-Eigenschaft)." ^[dual-storyform-hintergruende-md.md:L489] What AEGIS cannot place it misreads: „Das Nichts-Rauschen, das AEGIS als Chaos liest, ist die atemporale Vereinigung aller Mutual Information" ^[dual-storyform-hintergruende-md.md:L82]. And Kael in Storyform B is „von AEGIS' Universe-MC weder assimilierbar noch löschbar" ^[dual-storyform-hintergruende-md.md:L254].
+The Guardians stand only as what AEGIS does — „Guardian-Deployments" ^[dual-storyform-hintergruende-md.md:L210] — and as a reduced „Vier-Guardian-Soziopolitik." ^[dual-storyform-hintergruende-md.md:L468]; none is given a limit of its own. `blind` stands 0 times.
+Position 1's bearer, in the storyform's terms; nothing for position 2.
 
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 

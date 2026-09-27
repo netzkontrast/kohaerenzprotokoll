@@ -1,0 +1,582 @@
+{
+  "document": "dual-storyform-hintergruende-md",
+  "drive_id": "1zSHdiIGnixbRNNpRo-rxPahv36lfAUs1oLlIw8gunuU",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; readings, record entries and chapter readings written by six Claude readers in the container from Plan/runs/dual-storyform-hintergruende-md/readings-brief.md, each file checked with quotes.py and committed on its own by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 421,
+    "decisions": 442,
+    "decided_by_lookup": 256,
+    "needs_judgement": 186
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A companion that gives reasons for another document's values and ranks itself last (L29). Its glossary defines ten terms: Coheron, Erason, Landauer-Hitze, Moonshine-Link, Truth-Rotation and the Mnemosyne-Archipel went on pages that exist, the Witness-Funktion on juna; the Klein-c-Inversion is by its own §9 no world mechanic — „Hat im Roman keine Funktion — keine diegetische Erwähnung\" (L471). Mutual Information (L487) and Lebende Dialetheia (L484) are defined in one line each; a page for either would be gathered across the eight and twelve read documents that name them, the Truth-Rotation precedent — left for a session that does that (not_promoted).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        82,
+        86,
+        142,
+        204,
+        206,
+        210,
+        238,
+        295,
+        356,
+        368,
+        372,
+        425,
+        469,
+        472
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "K1 in its own reading, K0 in fact (J98, J99); the Do-er of Storyform B after the Lock-In 2026-05-07; third person, storyform B; 12 Protokolle in §3.2 and reduced to 3 in §9"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        282,
+        286,
+        293
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "ANP-K1, first person, A"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        360,
+        425
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "the fifth beat; its lasting form an open C.1 point"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        210,
+        293,
+        294,
+        296,
+        298,
+        306,
+        335,
+        426
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "the POV table: ANP-K1 five, EPs five, Argus, the two Spiegel-Alter; thirteen names, no count"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        282,
+        286,
+        296
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "Meta-Kognition, A with a commentary overlay"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        461,
+        470,
+        489
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "dropped, „im Text nicht referenziert\""
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        306,
+        480
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "a K1 unit; Silas its echo"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        60,
+        78,
+        82,
+        86
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "the DKT-Kernparadoxon as the storyforms' mirror"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        52,
+        82
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "what control produces (found by the sweep)"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        306,
+        481
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "a K0 unit that makes the arrow of time; Oblivion its operator"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        29,
+        249,
+        309,
+        334,
+        368,
+        420,
+        427
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "F9: three beats or four as a research question; flashbacks in Akt II; revealed in the Vortex (Variante C, recommended)"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        210,
+        450,
+        468
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "two, and the old sociopolitics counted as four"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        318,
+        326,
+        483
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "no rule; Kael's warmth tips into AEGIS-Kühle in a bridge-scene micro-cue"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        282,
+        286,
+        294
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "EP, first person, A"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        134,
+        138,
+        142,
+        249,
+        297,
+        309,
+        333,
+        380,
+        419,
+        432,
+        451,
+        485,
+        489
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "three labelled positions (verworfen, Reset-Lesart, Audit-Korrektur 2026-05-07); IC of A; Witness-Funktion; Juna-POV rare; Memory Slot 5 kept open"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        86,
+        142,
+        150,
+        181,
+        205,
+        210,
+        230,
+        248,
+        250,
+        357
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "MC of A, IC of B; the Be-er whose healing is the real Kohärenz-Protokoll; the Pivot at Beat 2"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        282,
+        286,
+        294
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "EP, first person, A"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        51,
+        68,
+        82,
+        307,
+        480
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "bare K1 (J98)"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        52,
+        69,
+        82,
+        307,
+        481
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "bare K0 (J99)"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        420
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "third of three beats, in F9"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        82,
+        359,
+        368,
+        483
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "heat, ozone and sweat one sensory filter; Beat 4 Heat-Spike"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        282,
+        286,
+        293,
+        319,
+        326
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "ANP-K1, first person, A; the hypotactic flow a micro-cue breaks"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        282,
+        286,
+        294
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "EP, first person, A"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        309,
+        356,
+        364,
+        461,
+        468,
+        486
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "what the Guardians were reduced to; the archipelago as Vortex setting"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        426,
+        470,
+        485
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "the glossary; C.2 boundary a recommendation; its mathematics dropped"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        282,
+        286,
+        294
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "EP, first person, A"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        68,
+        69,
+        210,
+        333,
+        335,
+        451
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "Storyform A's reading; Kael's healing; veiled to Kap 13, FM-Achievement Kap 33"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        82
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "what AEGIS reads as chaos"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        282,
+        286,
+        294
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "EP, first person, A (Kaels Innenwelt)"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        282,
+        286,
+        298,
+        302,
+        306,
+        335,
+        372,
+        428,
+        436
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "Spiegel-Alter, Erason-Operator; takes AEGIS' function in Kael after the Truth-Rotation (§5 and C.5)"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        421
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "F10: an image from Kap 1 in Kap 39, a research question"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        282,
+        286,
+        293
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "ANP-K1, first person, A"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        307,
+        333,
+        404,
+        436
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "riss scenes as bridges where K0 breaks into K1"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        282,
+        286,
+        293
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "ANP-K1, first person, A"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        282,
+        286,
+        298,
+        302,
+        306,
+        335,
+        423,
+        426,
+        436
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "Spiegel-Alter, Coheron-Echo, home of the bridge scenes; first to feel the link (C.2, a recommendation)"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        74,
+        419,
+        421,
+        426,
+        485
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "Block 4 as the phenomenological probe; the recommended anchor (F8)"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        56,
+        420
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "second of three beats, in F9"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        56,
+        78,
+        82,
+        86,
+        126,
+        154,
+        360,
+        372,
+        488
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "the turn from B's reading to A's; an Achsenflip through the Klein symmetry; the glossary"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        56,
+        154,
+        226,
+        230,
+        308,
+        310,
+        336,
+        337,
+        349,
+        356,
+        357,
+        360,
+        364,
+        368
+      ],
+      "attribution": "the Dual-Storyform background document",
+      "note": "one Vortex, Kap 35–36, five beats derived from Driver and IC asymmetry; the Mnemosyne-Archipel as setting"
+    }
+  ],
+  "plot_overview": {
+    "lines": [
+      29,
+      168,
+      226,
+      308,
+      310,
+      333,
+      334,
+      335,
+      336,
+      337,
+      341,
+      356,
+      360,
+      403,
+      451
+    ],
+    "note": "a fourth 2026-05-08 plan with 39 chapters, no frame, one Vortex of five beats in Kap 35–36 and a Resolution 37–39; „every plan but three\" → four; Akt III begins at Kap 27 in its table and ~Kap 28 in its bridge list"
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C4",
+    "C6",
+    "C7",
+    "C8",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "`Autonomous`, `Autogenic`, `Gatekeeper` 0",
+    "C3": "`Emergenz` 0, `emergent` 0",
+    "C5": "`Garten` 0",
+    "C9": "`Konstrukt-Stadt`, `KW1`, `Logos-Prime` 0; KW2/KW3 only in „KW2-KW3-Phase\" (L309)",
+    "C10": "`Knöchel` 0, `bluten` 0",
+    "C13": "`Köln`, `Externe`, `Basisrealität` 0",
+    "C15": "`Flight` 0; Lia, Isabelle, Kiko only in the EP row"
+  },
+  "judgements": [
+    "J98",
+    "J99"
+  ],
+  "decided_by_existing_rules": "compounds naming a bearer's role placed on the bearer (J70: Pivot Kael, Kaels Innenwelt, Juna-POV); Kael↔Juna a relation (J86); Genesis-Flashbacks, Genesis-Krise, Genesis-Enthüllung not the Genesis (J76–J78); the beat Rotation not the Truth-Rotation (J90); Erason-Operator on oblivion (J93); Landauer-Hitze and Heat-Spike placed by what they state (J53, J62, J81); Moonshine-Boundary the link, Monstergruppe the mathematics (J71); Kohärenz Protokoll the title, Kohärenz-Wächter and Erasure-Protokoll not kohaerenz (J8, J9, J57); Funktionalen Multiplizität a case ending (J97); Trauma, Einheit, Operativ, Protokolle a shared head only (J53); the remaining pairs are intra-list near matches between candidates with no page, left undecided because no page depends on them",
+  "not_read_although_looked_up": {
+    "ueberwelt": "`Simulation` once (L307), where it locates the Risse; `Überwelt`, `Innere Weite` 0 — the passage went on risse",
+    "did": "`DID`, `TSDP`, `Dissoziation` 0; ANP/EP went on alters and kael",
+    "goedel-gambit": "`Gambit` 0; the Gödel-Eigenschaft (L142, L470, L489) is Juna's irreducibility, on juna",
+    "kohaerenz": "the project title and the misnomer (J9, J57)"
+  },
+  "not_promoted": [
+    "Mutual Information — „der informationelle Bindungsstoff\" (L487), A's thesis (L51); in eight read documents",
+    "Lebende Dialetheia — „ein Zustand, in dem ein Widerspruch wahr ist, ohne das System zu trivialisieren. Vortex Beat 3.\" (L484); in twelve read documents",
+    "Klein-c-Inversion — L96–126, L482; not a world mechanic by its own L471",
+    "Hybrid Option 3, Bridge-Szenen, Soft-Layering, Mikrocue-Kit — drafting method (L264–337)",
+    "Reader-Substrat-Funktion and its three layers — L378–409",
+    "Doppel-IC — L138, L242; on juna",
+    "the Reset-Doc's F8–F10 and C.1–C.5 — its restatement of another document (L417–428)",
+    "Phoenix Collapse / Phoenix Mode — a code name for Storyform B, „kein diegetischer Mechanismus\" (L472)"
+  ],
+  "sweep": {
+    "hits": 2,
+    "readings": 1,
+    "occurrences": 1,
+    "note": "Entropie L52 a reading on entropie; Kohärenz L13 the project title"
+  },
+  "internal_tension": "§3.2 counts „12 Protokolle\" among AEGIS' doings (L210) and §9 reduces the protocols to 3 (L469); its act table starts Akt III at Kap 27 (L335) and its bridge list calls ~Kap 28 the „Akt-III-Anfang\" (L308); it counts the Guardians before the reduction as four (L468) and names none of them.",
+  "readers_noticed": "Which Vortex beat reveals the Genesis: Beat 4 here (L368, a recommendation it attributes to the Reset-Doc), Beat 3 in the strukturierter Outline (its L1087) — on vortex's differ section, no record. C12 now has three candidate fourth beats: the Wir-AEGIS-plural, the worldbuilding concept's Primärdirektive and this document's Erinnerungs-Versiegelung. It is the first read source to count four old Guardians where the others count five. It drops the Chaitin constant where the other 2026-05-08 sources give it to Juna, and names Juna's irreducibility the Gödel-Eigenschaft. The Vortex sentence at L310 stands word for word in the Dramatica status report. vortex's differ section said plot.md read one Vortex for the master report alone — false since the 39-chapter spec; corrected. truth-rotation's „AEGIS = K₀, Kael = K₁, in every reading\" was false; corrected. landauer-signatur's lead (cold ozone) and coheron's lead (love as a particle) are left as C11's and the storyform outline's.",
+  "chapters": {
+    "readings_on": [
+      1,
+      13,
+      28,
+      33,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "left_off": {
+      "14–27, 29–32, 34": "range boundaries only"
+    }
+  },
+  "baseline_moved": false,
+  "retrieval": "PageRank recall@8 0.637, unchanged"
+}

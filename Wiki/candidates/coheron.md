@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -114,3 +114,9 @@ Their atemporality is physics, in its PAL section (`[K]`): „Coheronen existier
 Among its six synthesis movements, „Von Autopoiesis zur Trans-System-Resonanz." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L758] — „Coheronen umgehen die Geschlossenheit." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L758]
 Against Rorty (`[S]`), the novel's ontological reality is [[juna|Juna]]'s trace: „es gibt eine ontologische Realität, die zurückkommt — Junas Coheron-Spur." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L104]
 In the character table Juna's DKT correlate is „Coheron / Zeit-Prinzip" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L666], and [[silas|Silas]] carries „Coheron-Echo" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L654] as his correlate and among his schools: „Atemporalität (PAL), Coheron-Echo, Resonanz ohne Substrat" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L653].
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — a K1 unit, and Silas its echo
+
+Its glossary: „**Coheron** — minimale, selbstkorrigierende Mutual-Information-Schleife. K1-Einheit. Atemporal.“ ^[dual-storyform-hintergruende-md.md:L480]
+Silas is its echo, as one of the two Spiegel-Alter whose POV scenes carry both storyforms at once: „Ontologisch Doppelfiguren — Silas = Coheron-Echo, Oblivion = Erason-Operator.“ ^[dual-storyform-hintergruende-md.md:L306]
+It does not make love a Coheron: `Coheron` stands on those two lines only, and none of the five lines naming `Liebe` names it (`05-verify-readers.txt`). Love is Mutual Information, the thesis Storyform A carries (its L51, L487).

@@ -1,10 +1,10 @@
 ---
 term: Algorithmische Melancholie
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -102,3 +102,9 @@ The catalogue places it at [[vortex|Vortex]] 1 Beat 5 and maps it onto two schoo
 Searle's Chinese Room: „AEGIS-Logs sind syntaktisch perfekt, semantisch leer." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L386] That discipline matters „für die Wirkung der Algorithmischen Melancholie (Vortex 1 Beat 5)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L386]: „AEGIS wird mit einer Wahrheit konfrontiert, die es syntaktisch verarbeiten kann (es kann den Widerspruch registrieren), aber nicht semantisch (es kann die Bedeutung nicht erfassen)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L386]
 In the chapter table it is Kap 36 Beat 5, anchored to a third name: „Algorithmische Melancholie (Lem)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L729], its function „AEGIS' parakonsistente Resignation" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L730]. The Lem test it sets before every scene asks the same of [[aegis|AEGIS]]: „Lem-Test (KI-Tragödie): Trägt AEGIS hier Tragik, nicht Bosheit?" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L785]
 It does not say what remains of AEGIS after it, and names no lebende Reliquie.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — the fifth beat's name, and its lasting form an open question
+
+It names the Vortex's fifth beat: „\*\*5 Rotation\*\* (Algorithmische Melancholie)“ ^[dual-storyform-hintergruende-md.md:L360], where „B's operative Closure zerbricht, A bleibt allein“ ^[dual-storyform-hintergruende-md.md:L360].
+What it is after that is a question the document restates from the Reset-Doc's Appendix C, with a recommendation and no decision — which reading is canonical: „Algorithmische Melancholie als Dauerzustand vs. Selbst-Stilllegung vs. Transformation in K1“ ^[dual-storyform-hintergruende-md.md:L425]. „Empfehlung pro Variante 1 + Spuren von 2. Berührt: was nach Beat 5 in Kap 37–39 ist.“ ^[dual-storyform-hintergruende-md.md:L425]
+It does not define the state; `Melancholie` stands on those two lines only (`05-verify-readers.txt`).

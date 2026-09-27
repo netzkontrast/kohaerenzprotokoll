@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-16"
 ---
 
@@ -171,3 +171,10 @@ It is also the synthesis of the truth theories (§1.3, under the `[K]` §1): „
 Against fusion (§3.5, `[K]`): „Funktionale Multiplizität ist Metzinger-konsistent: kein Selbst, kein Final Fusion, sondern dynamische Kooperation." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L210] Against functionalism, named the resolution: „Diese Setzung ist mit Funktionaler Multiplizität (Resolution) kompatibel: die Anteile sind nicht nur Funktionen, sie sind verkörperte Qualia-Träger." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L400]
 Its one chapter is Kap 39, in the chapter table: „Anatta + Funktionale Multiplizität" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L735], function „Plurale Apotheose" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L736]. It does not place it in Kap 33, where the master report and the worldbuilding concept have it reached, and has no Multiplizitäts-Schleier (`05-verify-readers.txt`).
 Its relation to narrative identity is left open: „Wie verhält sich Funktionale Multiplizität zu narrativer Identität (Ricœur)?" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L798] — „[V] — Vermutung: plurale narrative Identität als Synthese" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L799].
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — Storyform A's reading, Kael's healing, veiled to Kap 13 and reached in Kap 33
+
+The companion to the Dramatica status report: it gives reasons, not values, and ranks itself last (L29) — recorded, not applied.
+**The reading of one storyform.** „A allein: K1-Reading (Coherence) — die Lesart der Funktionalen Multiplizität." ^[dual-storyform-hintergruende-md.md:L68] — against B alone, „die Lesart der tragischen Geschlossenheit." ^[dual-storyform-hintergruende-md.md:L69]
+**What makes Kael a Be-er.** „Kaels Heilung *ist* Funktionale Multiplizität — also ein *Sein*, kein externes Tun." ^[dual-storyform-hintergruende-md.md:L210] — the reason for the Approach correction locked 2026-05-07.
+**Veiled, then reached.** In Akt I, Kap 1–13: „Multiplizitäts-Schleier hält." ^[dual-storyform-hintergruende-md.md:L333] In Akt III: „FM-Achievement Kap 33." ^[dual-storyform-hintergruende-md.md:L335] Its timeline dates both to an outline revision of 2026-05-01: „Multiplizitäts-Schleier hält bis Ch13" ^[dual-storyform-hintergruende-md.md:L451], „FM-Achievement Ch33" ^[dual-storyform-hintergruende-md.md:L451]. It does not expand `FM`, and says nothing of fusion (`Fusion` 0; `05-verify-readers.txt`).

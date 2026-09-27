@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 10
+sources: 11
 pages: ["aegis"]
 ---
 
@@ -107,3 +107,12 @@ Its status: `Canon-Sync 2026-05-07`, listing „Storyform Lock-In, Approach-Korr
 „**Approach Do-er** — die Lösungsstrategie ist über das Tun" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L78] for Storyform B, „**Approach Be-er** — die Lösungsstrategie ist über das Sein, nicht das Tun" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L54] for A.
 The document builds Kap 0 and Kap 40 on the pair: „Kap 0 ist Driver Action / Approach Do-er." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L392] „Kap 40 ist Driver Decision / Approach Be-er." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L396]
 No correction is named; it gives the values of the Dramatica lock-in of 2026-05-07 without citing it. The side of the master report and against the character bible, all three dated 2026-05-08.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**The lock-in's correction told again, with its before and after and its reason — Do-er in B, the Be-er it replaced marked ❌.**
+The rule, as Dramatica's: „A Do-er MC must be positioned in the Physics or Universe Class. A Be-er MC must be in Mind or Psychology." ^[dual-storyform-hintergruende-md.md:L190]
+What stood before it: „Die Vor-Audit-Spezifikation hatte beide Storyforms invers gepolt (A: Do-er + Mind; B: Be-er + Universe)." ^[dual-storyform-hintergruende-md.md:L198] Its table, under „Nachher (Lock-In 2026-05-07)" ^[dual-storyform-hintergruende-md.md:L204], gives B's MC „Be-er + Universe ❌" ^[dual-storyform-hintergruende-md.md:L206] before and „Do-er + Universe ✓" ^[dual-storyform-hintergruende-md.md:L206] after.
+The reason is what AEGIS does: „AEGIS' Tragödie ist umgekehrt: 12 Protokolle, Erasure-Sweeps, Guardian-Deployments — alles *Tun*." ^[dual-storyform-hintergruende-md.md:L210] „Die alte Polung war nicht nur eine Legality-Verletzung, sie war auch dramaturgisch falsch herum." ^[dual-storyform-hintergruende-md.md:L214]
+It ranks itself below the status report it accompanies — „Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots" ^[dual-storyform-hintergruende-md.md:L29] — and says it gives reasons, not values; recorded, not applied.
+The Dramatica lock-in's side, Do-er, on the date the character bible gives Be-er (row 1) — the value this document labels „Vorher" and ❌. An explanation, like the status report's, not a decision: the author decides (decision 006).

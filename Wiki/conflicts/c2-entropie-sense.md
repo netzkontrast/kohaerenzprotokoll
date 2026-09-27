@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 10
+sources: 11
 pages: ["entropie"]
 ---
 
@@ -126,6 +126,13 @@ In its table of what AEGIS believes against what holds: „AEGIS = Entropie-Arch
 The [[nichts-rauschen|Nichts-Rauschen]] AEGIS takes for hostile chaos is „die atemporale Vereinigung aller mutualen Information" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L33] — sense 2's counterpart, not called entropy.
 Its K₀ side is said of the Erasonen, not of the word: „Ohne Erasonen gibt es keine Zeit." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] „Erasonen sind die thermodynamische Bedingung von Geschichte selbst." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59] Near the glossary's fourth sense, the condition of events, without writing `Entropie` there.
 The konsolidiertes Konzept's third sense in its words, on its date; the conflict stays open.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**The third sense — control produces the entropy it fights — as Storyform B's reading and as the DKT paradox.**
+B's reading of the thesis: „Kontrolle erzeugt die Entropie, die sie bekämpft" ^[dual-storyform-hintergruende-md.md:L52]. The paradox: „AEGIS glaubt K1 (Kohärenz-Wächter) zu sein. Es ist tatsächlich K0 (Kollaps-Operator)." ^[dual-storyform-hintergruende-md.md:L82] „Jeder Akt der Kontrolle erzeugt die Entropie, die er bekämpft (Landauer-Hitze)." ^[dual-storyform-hintergruende-md.md:L82]
+What AEGIS takes for chaos: „Das Nichts-Rauschen, das AEGIS als Chaos liest, ist die atemporale Vereinigung aller Mutual Information" ^[dual-storyform-hintergruende-md.md:L82] — sense 2's counterpart, as in the konsolidiertes Konzept, not called entropy. `Entropie` stands on these two lines only.
+The status report's and the konsolidiertes Konzept's third sense; here K0 is the „Kollaps-Operator" ^[dual-storyform-hintergruende-md.md:L82], not called entropy. The conflict stays open.
 
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 

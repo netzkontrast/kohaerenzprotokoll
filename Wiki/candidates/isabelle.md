@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -90,3 +90,7 @@ Her somatic filter is open: „Lia, Isabelle, Argus, Silas, Oblivion — Filter 
 
 In the figure table §14.1, which carries no label: „Macht-Topologie, Kontroll-Phänomenologie" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L644], DKT correlate „Pauli-Ausschluss" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L645].
 Nothing else in the document names Isabelle (`grep -cw Isabelle`: 1), and `Flight` stands nowhere in it (`grep -cw Flight`: 0) (C15).
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — an EP, in the first person, storyform A inside Kael
+
+In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[dual-storyform-hintergruende-md.md:L282], under „Default-Modus (Hard-Routing per POV):" ^[dual-storyform-hintergruende-md.md:L286], Isabelle is one of the EPs, narrated in the first person: „EPs (Nyx, Kiko, Lia, Isabelle, Moros) — 1.Person" ^[dual-storyform-hintergruende-md.md:L294], with the dominant storyform „A (Kaels Innenwelt)" ^[dual-storyform-hintergruende-md.md:L294]. Nothing else in the document names Isabelle (`grep -cw Isabelle`: 1).

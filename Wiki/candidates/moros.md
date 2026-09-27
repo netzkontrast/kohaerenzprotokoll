@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -98,3 +98,7 @@ His Riss, where the label is English: „Moros (Collapse) | Gravitational | Gewi
 Under §1.2 Korrespondenztheorie, in §1, labelled [K]: „Nyx' Stakkato, Kikos kindliche Sätze, Moros' Implosion sind alles korrespondenz-theoretische Sprechakte" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L56] — „sie referieren auf eine Wirklichkeit, die das System (AEGIS, Kael-Host) leugnet." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L56]
 In the figure table §14.1, which carries no label: „absolute Negativität, Wärmetod-Phänomenologie" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L647], DKT correlate „Big Freeze" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L648].
 Nothing else in the document names Moros (`grep -cw Moros`: 2); the five bodies of §3.4 (L202 of this document) do not include his.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — an EP, in the first person, storyform A inside Kael
+
+In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[dual-storyform-hintergruende-md.md:L282], under „Default-Modus (Hard-Routing per POV):" ^[dual-storyform-hintergruende-md.md:L286], Moros is one of the EPs, narrated in the first person: „EPs (Nyx, Kiko, Lia, Isabelle, Moros) — 1.Person" ^[dual-storyform-hintergruende-md.md:L294], with the dominant storyform „A (Kaels Innenwelt)" ^[dual-storyform-hintergruende-md.md:L294]. Nothing else in the document names Moros (`grep -cw Moros`: 1).

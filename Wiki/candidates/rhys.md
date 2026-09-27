@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -79,3 +79,7 @@ From the second trauma layer: „Aus Schicht 2 entstanden: Kael (amnestische Obe
 The body, under §3.4, labelled [V] („§3.4 Merleau-Ponty — Verkörperung, gelebter Körper [V]" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L192]): „Rhys' fiebrige Hände" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202] — „das ist Merleau-Ponty pro Anteil." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L202]
 In the figure table §14.1, which carries no label: „Empathie-Ethik, Levinas-Resonanz [V], Bindungstheorie" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L629] — the one cell of the table with a label of its own, on Levinas — and DKT correlate „Maxwellscher Dämon" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L630].
 Nothing else in the document names Rhys (`grep -cw Rhys`: 2).
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — a K1 ANP, in the first person, storyform A
+
+In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[dual-storyform-hintergruende-md.md:L282], under „Default-Modus (Hard-Routing per POV):" ^[dual-storyform-hintergruende-md.md:L286], Rhys is one of the ANPs the document files under the Kohärenz-Kernel (J98), narrated in the first person: „ANP-K1 (Kael, Lex, Alex, Rhys, Selene) — 1.Person" ^[dual-storyform-hintergruende-md.md:L293]; the row's dominant storyform is A (the same line). Nothing else in the document names Rhys (`grep -cw Rhys`: 1).

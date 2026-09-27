@@ -1,0 +1,462 @@
+# reconcile-pre — dual-storyform-hintergruende-md
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  4 surface groups folded to one term first
+  421 candidates, 442 decisions — **256 by lookup, 186 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (32) — page exists, this document is not on it yet — a reading
+  Vortex                               vortex
+  Truth-Rotation                       truth-rotation
+  DKT                                  dkt
+  AEGIS                                aegis
+  Nichts-Rauschen                      nichts-rauschen
+  Kael                                 kael
+  Juna                                 juna
+  Funktionale Multiplizität            multiplizitaet
+  Alters                               alters
+  Lex                                  lex
+  Alex                                 alex
+  Rhys                                 rhys
+  Selene                               selene
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  Silas                                silas
+  Oblivion                             oblivion
+  Risse                                risse
+  Simulation                           ueberwelt
+  Algorithmische Melancholie           algorithmische-melancholie
+  Genesis                              genesis
+  Telefon-Stille                       telefon-stille
+  Trennungsprotokoll                   trennungsprotokoll
+  Guardians                            guardians
+  Mnemosyne                            mnemosyne
+  Coheron                              coheron
+  Erason                               erason
+  Moonshine-Link                       moonshine-link
+
+## new_term (224) — no page, no near match — a new page
+  konzeptuelle Genealogie              
+  Status-PDF                           
+  Memory-Slots                         
+  Setup-Reset                          
+  Per-Chapter-Architektur              
+  Kernfrage                            
+  Storyform B                          
+  K1                                   
+  K0                                   
+  Coherence                            
+  Phänomenologie von B                 
+  Audit-Phase 2026-04-28               
+  4D-Projektionen                      
+  Lesegeist                            
+  K1-Reading                           
+  K0-Reading                           
+  tragischen Geschlossenheit           
+  Bewusstseins-Architektur             
+  Telefonat                            
+  Block 4                              
+  DKT-Kernparadoxon                    
+  Kollaps-Operator                     
+  Phillips/Huntley                     
+  Klein-c-Inversion                    
+  Domain-Inversionen                   
+  Throughline                          
+  Inversionstyp                        
+  MC                                   
+  IC                                   
+  OS                                   
+  RS                                   
+  Psychology                           
+  Physics                              
+  Static-Pair getauscht                
+  Process-Pair getauscht               
+  Dynamics                             
+  Resolve                              
+  Growth                               
+  Be-er                                
+  Do-er                                
+  Style                                
+  Limit                                
+  Outcome                              
+  Judgment                             
+  Klein-Symmetrie                      
+  Achsenflip                           
+  Klein-c-Anker                        
+  Alte Lesart                          
+  Reset-Lesart                         
+  Witness-Funktion                     
+  lebende Paradoxie                    
+  Gödel-Eigenschaft                    
+  IC-Asymmetrie                        
+  Theorie-Brüche                       
+  Bruch 1                              
+  Grand Argument Story                 
+  Hard-Problem-Argument                
+  Subordinated Subplots                
+  Storypoint                           
+  Zwei Uhren                           
+  Storyweaving-Phase                   
+  Doppelstruktur                       
+  Storyform-Übergang B→A               
+  Audit-Korrektur 1                    
+  Vor-Audit-Spezifikation              
+  Lock-In 2026-05-07                   
+  Memory-Problem                       
+  Guardian-Deployments                 
+  Phoenix Collapse                     
+  Legality-Verletzung                  
+  Klimax                               
+  Beat 2                               
+  Stille-Phänomen                      
+  steadfast-System                     
+  Logic                                
+  Audit-Korrektur 3                    
+  Memory-Stand                         
+  Reset-Doku                           
+  IC Domain/Concern                    
+  Past                                 
+  IC-Funktion                          
+  MC-Funktion                          
+  Lesersteuerung-Prinzip               
+  max 1 Konzept pro Szene              
+  Mudding                              
+  Option 1                             
+  Option 2                             
+  Soft-Layering                        
+  Mikro-Reibungspunkte                 
+  Default-Modus                        
+  POV-Instanz                          
+  Dominante Storyform                  
+  ANP-K1                               
+  ANP                                  
+  EPs                                  
+  Meta-Kognition                       
+  Kommentar-Überlagerung               
+  Doppelfiguren                        
+  Doppelklang                          
+  Riss-Szenen                          
+  Bridge-Frequenz                      
+  KW2-KW3-Phase                        
+  KW2                                  
+  KW3                                  
+  Beat 5                               
+  Mikrocue-Kit                         
+  Encoding-Disziplin                   
+  Sensorik-Shifts                      
+  Syntax-Brüche                        
+  K0-Stiletto-Satz                     
+  Footnote-Disruption                  
+  Tempus-Verschiebungen                
+  Kursive Einschübe                    
+  Mikrocues                            
+  Mikrocue-Punkte                      
+  Default-Szenen                       
+  Akt-Progression                      
+  Bridge-Anteil                        
+  Kapitelbereich                       
+  FM-Achievement                       
+  Kap 33                               
+  Kap 28                               
+  Kap 35–36                            
+  Kap 27–34                            
+  Kap 37–39                            
+  Die fünf Beats                       
+  Storyform-Status                     
+  Convergence                          
+  Dialetheic Choice                    
+  ANP/EP-Barrieren                     
+  Silence                              
+  Heat-Spike                           
+  Erinnerungs-Hüter-Bereich            
+  Variante C                           
+  Lösch-Kapazität                      
+  Innensystem                          
+  interne Wachheit                     
+  fünfte Schicht                       
+  Meta-Beobachter-Ebene                
+  Reset 2026-04-30                     
+  Artistic Pole                        
+  Aesthetic Pole                       
+  Narratologisch                       
+  39 fragmentierten Kapitel            
+  Mosaik-Struktur                      
+  unzuverlässige Erzähler              
+  polyphone Pronomen                   
+  Widersprüchliche Fußnoten            
+  Temporal Scrambling                  
+  thermodynamischer Treibstoff         
+  K1-Reparatur                         
+  Leerstellen                          
+  Reader-Funktion                      
+  Wirkungsebene                        
+  Storyform-Mechanik                   
+  Reader-Response-Theorie              
+  Forschungsfragen                     
+  F8                                   
+  IC-Operationalisierung               
+  F9                                   
+  734                                  
+  Erinnerungs-Versiegelung             
+  Beat-4-Mechanik                      
+  F10                                  
+  Ouroboros-Bild                       
+  Pronomenwechsel                      
+  Kap 39                               
+  Appendix C                           
+  C.1                                  
+  Selbst-Stilllegung                   
+  Transformation in K1                 
+  Variante 1                           
+  C.2                                  
+  Knotenpunkten                        
+  Erinnerungsorte                      
+  A-RS-Operationalisierung             
+  C.4                                  
+  C.5                                  
+  Witness-Quelle                       
+  Doppelrolle                          
+  Encoding-Start                       
+  Storyweaving-Vorarbeit               
+  Genealogie der Architektur           
+  Grand-Argument-Struktur              
+  Vier Existenzmatrizen                
+  Fundament                            
+  Theorie-Anchor                       
+  Synthese-Welle                       
+  Deep-Research-Agenten                
+  Architektur-PDFs                     
+  Hierarchie-Wechsel                   
+  Foundation                           
+  Outline-Revision                     
+  Ch13                                 
+  Ch1                                  
+  Ch33                                 
+  Ch35–36                              
+  Akt-Architektur                      
+  Storyforming-Audit                   
+  Hintergrund-Dokument                 
+  Strukturschicht                      
+  Lösch-Pol                            
+  OS-Operationalisierung               
+  Lore-Inventar                        
+  3-Layer-Witness                      
+  Hinterzimmer-Material                
+  Welt-Mechanik                        
+  Verifikationswerkzeug                
+  Phoenix Mode                         
+  Welt-Konzept                         
+  Code-Name                            
+  VOA                                  
+  Leech-Lattice                        
+  Orbifold                             
+  Monstergruppe                        
+  Glossar                              
+  Löschereignis                        
+  Zeitpfeil                            
+  Vier-Operationen-Symmetrie           
+  Bit-Löschung                         
+  Sensorischer Filter                  
+  Schweiß                              
+  MI                                   
+  A-These                              
+
+## needs_judgement (186) — NEAR a known surface — one term or two?
+  Dual-Storyform  /  Dual-Storyform-Architektur near: each other
+  Dual-Storyform  /  Dual-Storyform-Spezifikation near: each other
+  Dual-Storyform-Architektur  /  Storyform A   near: each other
+  Reset-Doc 2026-04-30  /  Reset-Doc           near: each other
+  lebende Dialetheia  /  Dialetheia            near: each other
+  Mutual Information  /  Mutual-Information-Schleife near: each other
+  Mutual Information  /  Mutual Information (MI) near: each other
+  Erasure  /  Erasure-Protokoll                near: each other
+  Erasure  /  AEGIS-Erasure-Countdown          near: each other
+  Erasure  /  Erasure-Sweeps                   near: each other
+  Erasure  /  Erasure-Sweep                    near: each other
+  Vortex  /  Vortex-Inversion                  near: each other
+  Vortex  /  Vortex-Vorläufer                  near: each other
+  Vortex  /  Vortex-Mechanik                   near: each other
+  Vortex  /  Genesis-Enthüllung im Vortex      near: each other
+  Vortex  /  Oblivion-Verhalten im Vortex      near: each other
+  Vortex  /  Post-Vortex-AEGIS-Status          near: each other
+  Vortex  /  Vortex Beat 3                     near: each other
+  Truth-Rotation  /  Rotation                  near: each other
+  5D-Interferenzphänomen  /  5D-Interferenz    near: each other
+  5D-Interferenz  /  5D-Interferenz-Architektur near: each other
+  phänomenologische Probe  /  Phänomenologisch near: each other
+  AEGIS  /  AEGIS-Erasure-Countdown            near: each other
+  AEGIS  /  AEGIS-Wahrheit                     near: each other
+  AEGIS  /  AEGIS-Kühle                        near: each other
+  AEGIS  /  Plusquamperfekt-AEGIS-Protokoll-Register near: each other
+  AEGIS  /  AEGIS-Selbstoffenbarung            near: each other
+  AEGIS  /  Post-Vortex-AEGIS-Status           near: each other
+  AEGIS  /  12 AEGIS-Protokolle                near: each other
+  Landauer-Hitze  /  Landauer→∞                near: each other
+  Landauer-Hitze  /  Hitze                     near: each other
+  Kael  /  Kaels Heilung                       near: each other
+  Kael  /  Kaels Innenwelt                     near: each other
+  Kael  /  Pivot Kael                          near: each other
+  Kael  /  Kael=734                            near: each other
+  Kael  /  Kael↔Juna                           near: each other
+  Dramatica  /  Dramatica-Quad                 near: each other
+  Dramatica  /  post-Dramatica-Innovation      near: each other
+  Dramatica  /  Dramatica Hard Rule            near: each other
+  Hard Problem of Consciousness  /  Conscious  near: each other
+  Mind  /  Storymind                           near: each other
+  Universe  /  Universe-MC                     near: each other
+  Approach  /  Approach-Spiegel                near: each other
+  Driver  /  Story Driver                      near: each other
+  Driver  /  First Driver                      near: each other
+  Driver  /  Last Driver                       near: each other
+  Driver  /  Driver-Pivot                      near: each other
+  Driver  /  Driver-Treue                      near: each other
+  Driver  /  Driver-Pulse                      near: each other
+  Driver  /  Driver-Konstanz-Mechanik          near: each other
+  Driver  /  Driver-Mechanik                   near: each other
+  Driver  /  Driver-Konstanz                   near: each other
+  Doppel-IC-Position  /  Doppel-IC             near: each other
+  Juna  /  Juna-POV                            near: each other
+  Juna  /  Juna-Wahrheit                       near: each other
+  Juna  /  Juna-Seed                           near: each other
+  Juna  /  Junas Erscheinungsmodi              near: each other
+  Juna  /  Kael↔Juna                           near: each other
+  Audit-Korrektur 2026-05-07  /  Audit-Korrektur 2 near: each other
+  Klein-Vierergruppe  /  Klein-Vierer-Gruppen-Mapping near: each other
+  Synthese-Doku 2026-04-28  /  Synthese-Doku   near: each other
+  Per-Chapter Dual-POV-Architektur  /  Per-Chapter Dual-POV near: each other
+  Optionlock  /  A-Optionlock                  near: each other
+  Timelock  /  B-Timelock                      near: each other
+  AEGIS-Erasure-Countdown  /  Iser             near: each other
+  Hard Rule  /  Dramatica Hard Rule            near: each other
+  Story-Engine-Software-Constraint  /  Story-Engine-Software near: each other
+  Alters  /  Spiegel-Alter-Szenen              near: each other
+  Alters  /  Spiegel-Alters                    near: each other
+  12 Protokolle  /  Protokolle                 near: each other
+  Erasure-Sweeps  /  Erasure-Sweep             near: each other
+  Decision  /  A-Decision                      near: each other
+  Decision  /  A-MC Decision                   near: each other
+  Action  /  Action-Loop                       near: each other
+  Action  /  B-OS Action                       near: each other
+  Action  /  Action-Mandat                     near: each other
+  operativer Kollaps  /  Operativ              near: each other
+  Beat 3  /  Vortex Beat 3                     near: each other
+  IC-Träger  /  IC-Träger-Präzisierung         near: each other
+  IC-Träger  /  IC-Trägerin                    near: each other
+  Genesis-Krise  /  Genesis                    near: each other
+  Hybrid Option 3  /  Option 3                 near: each other
+  Hybrid Option 3  /  Hybrid                   near: each other
+  Hybrid Option 3  /  Hybrid-Option-3-Lock-In  near: each other
+  Polyphonie  /  Polyphonie-Akt-Struktur       near: each other
+  Hard-Routing per POV  /  Hard-Routing        near: each other
+  Akt-I-Etablierung  /  Akt I                  near: each other
+  Option 3  /  Hybrid-Option-3-Lock-In         near: each other
+  Hybrid  /  Hybrid-Option-3-Lock-In           near: each other
+  Bridge-Szenen  /  Bridge-Szenen-Heimat       near: each other
+  Bridge-Szenen  /  Bridge-Szenen-Typen        near: each other
+  Bridge-Szenen  /  Bridge-Szenen-Anker        near: each other
+  Bridge-Szenen  /  Bridge-Szenen-Knoten       near: each other
+  Erscheinungsmodi  /  Junas Erscheinungsmodi  near: each other
+  Spiegel-Alter  /  Spiegel-Alter-Szenen       near: each other
+  Spiegel-Alter  /  Spiegel-Alters             near: each other
+  Oblivion  /  Oblivion-Verhalten im Vortex    near: each other
+  Oblivion  /  Oblivions Akt-III-Arc           near: each other
+  Spiegel-Alter-Szenen  /  Spiegel-Alters      near: each other
+  Coheron-Echo  /  Coheron                     near: each other
+  Erason-Operator  /  Erason                   near: each other
+  Akt-III-Anfang  /  Akt I                     near: each other
+  Akt-III-Anfang  /  Akt II                    near: each other
+  Akt-III-Anfang  /  Akt III                   near: each other
+  Genesis-Flashbacks  /  Genesis               near: each other
+  Akt-II-Mitte  /  Akt I                       near: each other
+  Akt-II-Mitte  /  Akt II                      near: each other
+  Akt I  /  Akt II                             near: each other
+  Akt I  /  Akt III                            near: each other
+  Akt I  /  Oblivions Akt-III-Arc              near: each other
+  Akt II  /  Akt III                           near: each other
+  Akt II  /  Oblivions Akt-III-Arc             near: each other
+  Akt III  /  Oblivions Akt-III-Arc            near: each other
+  Resolution  /  A-Resolution                  near: each other
+  Kap 1–13  /  Kap 1                           near: each other
+  Kap 14–26  /  Kap 1                          near: each other
+  Driver-Konstanz-Mechanik  /  Driver-Konstanz near: each other
+  Mnemosyne-Archipel  /  Mnemosyne             near: each other
+  Trauma  /  K0-Trauma                         near: each other
+  Algorithmische Melancholie  /  Algorithmische Melancholie als Dauerzustand near: each other
+  operative Closure  /  Operativ               near: each other
+  Genesis-Enthüllung im Vortex  /  Genesis-Enthüllung near: each other
+  Genesis-Enthüllung im Vortex  /  Genesis     near: each other
+  Genesis-Enthüllung  /  Genesis               near: each other
+  Genesis  /  Genesis 3-Beat oder 4-Beat       near: each other
+  Reader-Substrat-Funktion  /  Substrat-Funktion near: each other
+  Substrat-Funktion  /  Drei Layer der Substrat-Funktion near: each other
+  Phase 1  /  Phase 1 Encoding                 near: each other
+  Einheit  /  K1-Einheit                       near: each other
+  Einheit  /  K0-Einheit                       near: each other
+  Ozon-Geruch  /  Ozon                         near: each other
+  Moonshine-Boundary  /  Moonshine             near: each other
+  IC-Träger-Präzisierung  /  Träger-Präzisierung near: each other
+  Memory Slot 5  /  Slot 5                     near: each other
+  Reset-Doc  /  Reset-Doc §10                  near: each other
+  Guardians  /  Vier-Guardian-Soziopolitik     near: each other
+  Protokolle  /  12 AEGIS-Protokolle           near: each other
+  Status-Bericht  /  Status-Bericht 2026-05-07 near: each other
+  Moonshine-Link  /  Moonshine                 near: each other
+  Funktionalen Multiplizität                   near: multiplizitat→multiplizitaet
+  Kohärenz-Wächter                             near: koharenz→kohaerenz
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Kaels Heilung                                near: kael→kael
+  Vortex-Inversion                             near: vortex→vortex
+  AEGIS-Erasure-Countdown                      near: aegis→aegis
+  Genesis-Krise                                near: genesis→genesis
+  Kaels Innenwelt                              near: kael→kael
+  Juna-POV                                     near: juna→juna
+  Spiegel-Alter-Szenen                         near: alters→alters
+  Coheron-Echo                                 near: coheron→coheron
+  Erason-Operator                              near: erason→erason
+  Vortex-Vorläufer                             near: vortex→vortex
+  Genesis-Flashbacks                           near: genesis→genesis
+  Juna-Wahrheit                                near: juna→juna
+  AEGIS-Wahrheit                               near: aegis→aegis
+  AEGIS-Kühle                                  near: aegis→aegis
+  Plusquamperfekt-AEGIS-Protokoll-Register     near: aegis→aegis
+  Multiplizitäts-Schleier                      near: multiplizitat→multiplizitaet
+  Juna-Seed                                    near: juna→juna
+  Spiegel-Alters                               near: alters→alters
+  Vortex-Mechanik                              near: vortex→vortex
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  Pivot Kael                                   near: kael→kael
+  Trauma                                       near: traumalokus→vergessener-schrein, vergessenerschreintraumalokus→vergessener-schrein
+  Landauer→∞                                   near: landauersignatur→landauer-signatur
+  Rotation                                     near: truthrotation→truth-rotation
+  Genesis-Enthüllung im Vortex                 near: genesis→genesis, vortex→vortex
+  Genesis-Enthüllung                           near: genesis→genesis
+  Oblivion-Verhalten im Vortex                 near: oblivion→oblivion, vortex→vortex
+  Oblivions Akt-III-Arc                        near: oblivion→oblivion
+  Operativ                                     near: aegisoperativemetriken→aegis-metriken
+  Junas Erscheinungsmodi                       near: juna→juna
+  Genesis 3-Beat oder 4-Beat                   near: genesis→genesis
+  Einheit                                      near: evaluierungseinheit→evaluierungseinheit, kaelswohneinheit→kaels-wohneinheit, kaelswohneinheit10→kaels-wohneinheit
+  Kael=734                                     near: kael→kael
+  AEGIS-Selbstoffenbarung                      near: aegis→aegis
+  Post-Vortex-AEGIS-Status                     near: aegis→aegis, vortex→vortex
+  Algorithmische Melancholie als Dauerzustand  near: algorithmischemelancholie→algorithmische-melancholie
+  Protokolle                                   near: entropieresonanzentropieresonanzprotokolleerp→entropie-resonanz, entropieresonanzprotokolle→entropie-resonanz
+  Vier-Guardian-Soziopolitik                   near: guardians→guardians
+  12 AEGIS-Protokolle                          near: aegis→aegis
+  Chaitin Ω                                    near: chaitinkonstante→chaitin-konstante
+  Hitze                                        near: hitzepolaritaetsregel→hitze-polaritaetsregel, hitzepolaritatsregel→hitze-polaritaetsregel
+  Vortex Beat 3                                near: vortex→vortex
+  Moonshine                                    near: moonshinelink→moonshine-link
+  Kael↔Juna                                    near: juna→juna, kael→kael
+
+## in_document_not_in_census (2) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Entropie                             entropie                     L52
+  Kohärenz                             kohaerenz                    L13
+

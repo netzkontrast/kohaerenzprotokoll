@@ -3,7 +3,7 @@ id: Q5
 question: Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?
 status: open
 raised_by: ["guardians", "kern-welten", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
-documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
+documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md"]
 conflict: C6, C9
 gathered: "2026-09-24"
 ---
@@ -170,6 +170,14 @@ From the concept, ranked `[S]`: „KW3-Unterorte: Schleusen des Misstrauens, Gä
 The worlds in its canon are chapter ranges: „Der Canon weist 14–22 KW2 und 23–28 KW3 zu" ^[2026-09-14-kap25-vertiefung-md.md:L60].
 `Erasure-Pol`, `Mnemosyne`, `LogOS`, `Kairos` and `Sophia` stand 0 times; `Cerberus` once, in that line (`05-verify.txt`, `05-verify-readers.txt`).
 Nothing on the pairing or the pole. Its claim that Cerberus is decanonised is recorded, not applied: the author decided five on 2026-09-24.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**The second pole counted and not named — „1 Lösch-Pol" ^[dual-storyform-hintergruende-md.md:L468]; the Mnemosyne-Archipel AEGIS' own region and the Vortex's setting; no pairing.**
+„Reduziert auf Mnemosyne + 1 Lösch-Pol." ^[dual-storyform-hintergruende-md.md:L468] — `Erasure-Pol` stands 0 times, and the pole's name is not marked open. The four Guardians of „Vier-Guardian-Soziopolitik." ^[dual-storyform-hintergruende-md.md:L468] are not named; `Sophia` stands 0 times.
+„Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS. Vortex-Setting." ^[dual-storyform-hintergruende-md.md:L486] Beat 1 is „1 Convergence (Mnemosyne-Archipel)" ^[dual-storyform-hintergruende-md.md:L356], and „Hier kann Erasure nicht mehr funktionieren, weil Erinnerung selbst der Schauplatz wird." ^[dual-storyform-hintergruende-md.md:L364]
+The archipelago gets no KW number: `KW2` stands once, in „KW2-KW3-Phase" ^[dual-storyform-hintergruende-md.md:L309]. No world is paired with a Guardian.
+On the pole: a second figure beside Mnemosyne, called by its function. On the pairing: nothing, beyond a region named for Mnemosyne that the document calls [[aegis|AEGIS]]'.
 
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 

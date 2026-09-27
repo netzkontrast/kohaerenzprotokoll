@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -66,6 +66,17 @@ Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50
 - Storyform A: „MC-Concern: Funktionale Multiplizität gesichert" ^[three-mode-architecture-39-chapters-md.md:L343]
 - Leitmotif: „Wir-Geflecht in voller Klarheit" ^[three-mode-architecture-39-chapters-md.md:L343]
 
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — Resolution, only A active
+
+The document ranks itself: „Hierarchie für Konflikte: Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots.“ ^[dual-storyform-hintergruende-md.md:L29] Recorded, not applied.
+
+Position: „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „0% (nur A aktiv)“ ^[dual-storyform-hintergruende-md.md:L337]
+
+- Storyform: „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] · „Konsolidierung in der einzelnen verbliebenen Storyform.“ ^[dual-storyform-hintergruende-md.md:L337]
+- Open, AEGIS after the Vortex: „C.1 Post-Vortex-AEGIS-Status“ ^[dual-storyform-hintergruende-md.md:L425] — „Empfehlung pro Variante 1 + Spuren von 2.“ ^[dual-storyform-hintergruende-md.md:L425] · „Berührt: was nach Beat 5 in Kap 37–39 ist.“ ^[dual-storyform-hintergruende-md.md:L425]
+- Open, Oblivion: „Empfehlung: Oblivion übernimmt als interne Wachheit, die entscheidet statt löscht.“ ^[dual-storyform-hintergruende-md.md:L428] · „Berührt: A-Resolution Kap 37–39.“ ^[dual-storyform-hintergruende-md.md:L428] — both among the „Reset-Doc Appendix C-Punkte“ ^[dual-storyform-hintergruende-md.md:L423] the document restates.
+- No second Vortex: `Vortex 2` 0 times, and `Kap 38` is not written alone.
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Die Resonanz, die ankommt (Vortex 2 Beat 1–5)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1158]
@@ -126,6 +137,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 ## Where the sources differ
 
 - **What the chaos is.** „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] (aegis-subplots) · „Beat 1 — Das Rauschen kommt: sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1172] (strukturierter Outline) · „das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L399] (storyform outline).
+- **Vortex 2 or Resolution.** „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L905] · „B: das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036] (konsolidiertes Konzept) · „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „0% (nur A aktiv)“ ^[dual-storyform-hintergruende-md.md:L337] · „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] (the Dual-Storyform background document), which names no second Vortex.
 
 ## Questions for this chapter
 

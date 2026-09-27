@@ -261,6 +261,18 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
+- **`kohaerenz-protokoll-philosophischer-bericht-md` is half-ingested.** The
+  author merged the Jules session's pull request #106 (decision 014): its entries
+  on C2, C4, C6, C7, C9, Q1–Q5 and Kap 13 and its links are in the wiki, each
+  after the entry `dual-storyform-hintergruende-md` wrote the same day. It left
+  no candidate list, census, note, judgement or `Wiki/compare/` record; its
+  `reconcile.json` claimed all of them and is kept as
+  `reconcile-claimed-by-jules.json`, so no count takes it for a reconciliation.
+  Finishing the ingest means a reading with a candidate list written while
+  reading — the entries already there are what its reconciliation meets. And
+  `account.py order` passes a `reconcile.json` with no census beside it; it
+  should not.
+
 - **`Coherence Protocol.mp3` is the one row not landed.** markitdown turns audio
   into text only through a speech-recognition service outside this container,
   which sends the recording to a third party — the rule Jev and every model call
@@ -444,7 +456,7 @@ the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
 author's delegation, set the reach of a rule that also passes a plural ending:
 `pairs.RULES["plural"]` decides 56 <!--state:pairs.plural_correct--> of
-83 <!--state:pairs.labelled--> pairs where `fold()` decides
+85 <!--state:pairs.labelled--> pairs where `fold()` decides
 47 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
 pages joined and 28 new merges across all 14 candidate lists, each a singular and
 its plural. It is a ledger row and the rule a model run asks first;
@@ -562,7 +574,7 @@ both sides quoted — noted for the author, none settled:
 in Akt I but Kap 4 and 5 is the strukturierter Outline's HR-Stufe name, and the
 Konzept-Iteration Genesis names Kap 2–5 differently from all the rest.
 
-**Next, in order:** the 97 <!--state:chapters.missing--> chapter mentions no page
+**Next, in order:** the 96 <!--state:chapters.missing--> chapter mentions no page
 holds yet (`chapters.py missing` — the character bible's Kap-33 scene, the drafting
 manual's reveal timeline, the Alter profiles' debuts); the Abhandlung and both
 drafts of Kap 0 are read; then chapters in `graph.py` and `ui.py` if
@@ -589,8 +601,8 @@ never a reading or a number.
    documents 28 and 29: the log of a drafting run on Kap 25, and the chapter file it revised.
 5. **`kohaerenz-protokoll-philosophischer-bericht-md`** (2026-05-08) — Kap 3, 6, 7,
    17, 24, 32, 35, 36, 38.
-6. **`dual-storyform-hintergruende-md`** (2026-05-08) — Kap 22 and 35–37, 40, the
-   storyform turn and the end.
+6. ~~`dual-storyform-hintergruende-md`~~ — read 2026-09-27, document 30, before item 5 on the
+   author's „das übernächste"; it names Kap 1, 13, 28, 33 and 35–39, no Kap 22 and no Kap 40.
 
 Four whole-novel plans from before May 2026 are in more than half the tables and marked *in most
 chapters* there — `monstergruppe-primzahlen-plot-blueprint`,
@@ -665,7 +677,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   50 <!--state:sweep.decided--> hits, 29 <!--state:sweep.readings--> of them
+   52 <!--state:sweep.decided--> hits, 30 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -741,7 +753,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 25 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 26 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -880,18 +892,21 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the consolidated concept, the final canon-era
+## Next document — the Dual-Storyform background document reconciled
 
-**The thirtieth document is done: `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-09-27.** 137 candidates, **no page**, readings on 31 pages and 1 chapter (Kap 13), entries in nine conflicts (C1, C2, C4, C6, C7, C9, C11, C12, C14) and five questions (Q1, Q2, Q3, Q4, Q5), twenty-one judgements (J98-J118) mostly separating properties from base entities, thirteen sweep hits (12 readings, 1 occurrence). `Wiki/compare/reconcile-31-kohaerenz-protokoll-philosophischer-bericht-md.md` has the record. Chosen as next on *Reading suggestion*.
+**The thirtieth document is done: `dual-storyform-hintergruende-md`, 2026-09-27.** „Dual-Storyform — Hintergründe & konzeptuelle Genealogie", 2026-05-08, the companion to the Dramatica status report of 2026-05-07; read on the author's „Lese das übernächste file ein" — the second of *Reading suggestion — next*, so item 5, `kohaerenz-protokoll-philosophischer-bericht-md`, is still unread. 426 candidates, **no page**, readings on 39 pages, `plot.md` and nine chapters (Kap 1, 13, 28, 33, 35–39), entries in C2, C4, C6, C7, C8, C11, C12, C14 and all five questions, J98 and J99, two sweep hits (a reading, a title). `Wiki/compare/reconcile-31-dual-storyform-hintergruende-md.md` has the record.
+- **If another session reads item 5 in parallel**, it will also take document number 30 and `reconcile-31-…`. Whichever merges second renumbers its record to 32 and its prose to document 31; `account.py order` compares `state_before` with the previous run's `state_after`, and both runs here leave 106 pages and 15 conflicts, so the order check holds either way.
+- **J98, J99**: the document writes the kernels only as `K1`/`K0` with plain digits; placed on `kohaerenz-kernel` and `kollaps-kernel` by the sentence, not mechanised. Briefing v17 asks about a plain digit for a subscript.
+- **Not promoted, and worth a page gathered across the read sources**: Mutual Information (in eight read documents) and Lebende Dialetheia (in twelve), each defined in one glossary line here (L487, L484) — the Truth-Rotation's precedent (document 20).
+- **Noticed, not recorded**: which Vortex beat reveals the Genesis — Beat 4 here (L368, a recommendation it attributes to a Reset-Doc), Beat 3 in the strukturierter Outline — a line on `vortex`, not a record. C12 now holds three candidate fourth beats. This is the first read source to count **four** old Guardians where the others count five. It drops the Chaitin constant where the other sources of its date give it to Juna. Inside itself: „12 Protokolle" (L210) against „Reduziert auf 3" (L469), and Akt III from Kap 27 (L335) against „ab \~Kap 28 … Akt-III-Anfang" (L308).
+- **Corrected on the way**: `truth-rotation`'s „Kael = K₁, in every reading" and `vortex`'s claim that `plot.md` read one Vortex for the master report alone.
+- **`link.py` found 17 unmarked links already pending on `main`**, in readings of earlier documents; only the three in this document's new sections were marked, so as not to change pages without naming their source.
+- **Retrieval**: PageRank recall@8 0.637, unchanged.
 
-- **A synthetic philosophy report resolving several disputes** — it firmly positions AEGIS as generating entropy (C2) and generating Landauer-Hitze (C11), while bounding the Guardians count to two (C6) and settling the total Alters count to 13 (Q3).
-- **Reduces physical occurrences** — explicitly commands that Juna is never physically described (C7) and that DKT terminology is absent from the first 50 pages (Q2).
-- **Contradictory perspective rule** — asserts 1st person inside AEGIS for Storyform B (C14), but later asserts 3rd person for AEGIS.
-- **Dialetheia** — paraconsistent logic framework (true contradictions) enabling Kael to integrate paradoxes.
-
-Next, by *Reading suggestion — next*: `dual-storyform-hintergruende-md`.
+Next, by *Reading suggestion — next*: `kohaerenz-protokoll-philosophischer-bericht-md`. The chapter tables still list the six documents read since `chapter_sources.py run` was last run.
 
 ### Previous document — the Kap-25 session log and chapter file reconciled
+
 
 **The twenty-eighth and twenty-ninth documents are done: `2026-09-14-kap25-vertiefung-md` and `kp-kap25-2026-09-14-md`, 2026-09-26.** Both of 2026-09-14, the newest in the corpus, and read in that order: the log first, then the chapter it reports on. **No page from either**, no new judgement.
 - **Document 28, the session log** — 153 candidates; readings on 15 pages, `plot.md` and Kap 24–26; entries in C6, C9, C11, C14 and Q5; two sweep hits (a reading, a title). `Wiki/compare/reconcile-29-2026-09-14-kap25-vertiefung-md.md`. A log about a chapter it does not contain: every reading says „the log reports". Its largest open question is C9's (above, *Questions for the author*).
@@ -950,7 +965,7 @@ Next, by *Reading suggestion — next*: `kohaerenz-protokoll-philosophie-im-deta
 - **Chapter readings from table rows.** The rows are numbered without `Kap`, so `chapters.py missing` cannot see them; all 39 were read from the tables.
 - **The five scan readings of it stand** (`vortex`, `kishotenketsu`, `goedel-gambit`, `residual-echos`, `komponente-734`).
 
-Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 97 <!--state:chapters.missing--> single-`Kap` mentions.
+Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 96 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the annotated Kap 0 reconciled
 

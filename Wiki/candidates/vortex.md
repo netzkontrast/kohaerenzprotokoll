@@ -1,10 +1,10 @@
 ---
 term: Vortex
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: C7, C11, C14
-ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md"]
+ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-25"
 ---
 
@@ -12,7 +12,7 @@ gathered: "2026-09-25"
 
 **The novel's climax in Kap 35–36: the turn from Storyform B to Storyform A, in
 five beats.** Here Storyform B, [[aegis|AEGIS]]' storyform, goes out and only A,
-[[kael|Kael]]'s, remains. Five sources of 2026-05-07 and 2026-05-08 have one Vortex. From
+[[kael|Kael]]'s, remains. Six sources of 2026-05-07 and 2026-05-08 have one Vortex. From
 the Konzept-Iteration Genesis on, the plans have two: Vortex 1 in Kap 35–36 and a
 Vortex 2 in Kap 38–39, with a false victory in Kap 37 between them. What each
 source says is below, attributed and unmerged. The plan's macro structure,
@@ -118,6 +118,15 @@ The setting is open: „Die Mnemosyne-Server-Architektur — der eigentliche Kli
 The driver: „Nicht Driver-Flip innerhalb B (das wäre dramaturgisch illegal), sondern Storyform-Übergang B (Action-Driver) → A (Decision-Driver).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L829] The two clocks: „Beide laufen parallel. Alter sehen beide. Leser sieht beide. AEGIS sieht nur Timelock.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L839]
 It does not divide the beats between Kap 35 and Kap 36, but gives each chapter one thing of its own: Metzinger's self-model „erklärt die Auflösung des Subjekt-Objekt-Spalts in Ch35“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L727], and the [[externe-ebene|Externe Ebene]] is „Der Substrat-Durchbruch (Ch36).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650] It has no Vortex 2, no Kap 37 and no Kap 38 (`Vortex 2` 0, `Ch37` 0, `Ch38` 0, `05-verify-readers.txt`); after the Vortex, KW4 carries Akt III's „Ch29–34, 37–39“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L624].
 Checked against the full document on 2026-09-26: the quotations above hold; the document now has a census (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`) and a reconciliation (reconcile-27).
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — one Vortex, its five beats derived from the driver and the IC asymmetry
+
+The background document ranks itself below the Dramatica status report and gives reasons, not values (its L29); what it says the Reset-Doc recommends is its claim about that document.
+One Vortex, in Kap 35–36: „**Vortex (Kap 35–36).** Vollständiges Soft-Layering, beide Storyforms maximal aktiv parallel, bis B in Beat 5 erlischt.“ ^[dual-storyform-hintergruende-md.md:L310] In its act table: „Vortex\*\* | Kap 35–36 | 100% (full Soft-Layering) | Beide Storyforms maximal simultan, dann Übergang B→A.“ ^[dual-storyform-hintergruende-md.md:L336], and after it „Resolution\*\* | Kap 37–39 | 0% (nur A aktiv)“ ^[dual-storyform-hintergruende-md.md:L337]. Its precursors come first: „**Vortex-Vorläufer (ab \~Kap 28).** Akt-III-Anfang. Eskalierende Bridge-Frequenz.“ ^[dual-storyform-hintergruende-md.md:L308] It writes no `Vortex 1` and no `Vortex 2`, and never names Kap 36 or Kap 38 alone (0, 0, 0, 0, `05-verify-readers.txt`).
+What turns there: „**beide Lesarten sind strukturell wahr — bis zum Vortex. Dort findet eine Truth-Rotation statt: B kollabiert, A bleibt.**“ ^[dual-storyform-hintergruende-md.md:L56] By the second of its audit corrections of 2026-05-07 (its §3.3), the pivot is the change of storyform, not of driver: „Der Pivot-Eindruck am Vortex ist **nicht** ein Driver-Flip innerhalb von B, sondern der **Storyform-Übergang B→A**.“ ^[dual-storyform-hintergruende-md.md:L226] And it resolves who carries the IC: „Die Vortex-Inversion ist damit strukturell die **Auflösung der IC-Asymmetrie**.“ ^[dual-storyform-hintergruende-md.md:L154]
+The beats follow from both: „Die fünf Beats sind nicht beliebig. Sie folgen exakt aus der Driver-Konstanz-Mechanik (Abschnitt 3.3) und der IC-Asymmetrie (Abschnitt 2.3).“ ^[dual-storyform-hintergruende-md.md:L349] They carry the first list's names — „\*\*1 Convergence\*\* (Mnemosyne-Archipel)“ ^[dual-storyform-hintergruende-md.md:L356], where „AEGIS exekutiert finalen Erasure-Sweep“ ^[dual-storyform-hintergruende-md.md:L356]; „\*\*2 Dialetheic Choice\*\* (Pivot Kael)“ ^[dual-storyform-hintergruende-md.md:L357]; Silence, the lebende Dialetheia; Heat-Spike; and „\*\*5 Rotation\*\* (Algorithmische Melancholie)“ ^[dual-storyform-hintergruende-md.md:L360], „B exit; nur A aktiv“ ^[dual-storyform-hintergruende-md.md:L360]. The two clocks: „Bei Beat 2 trifft Kael die A-Decision, die B durch keine weitere Action verhindern kann.“ ^[dual-storyform-hintergruende-md.md:L230] „B's Action-Loop läuft noch zwei Beats nach — weil sein Mandat es zwingt — und kollabiert thermodynamisch.“ ^[dual-storyform-hintergruende-md.md:L230]
+The setting is chosen for its function: „**Setting:** Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS.“ ^[dual-storyform-hintergruende-md.md:L364] „Hier kann Erasure nicht mehr funktionieren, weil Erinnerung selbst der Schauplatz wird.“ ^[dual-storyform-hintergruende-md.md:L364]
+The Genesis is revealed there by a recommendation, not a lock: „Die Empfehlung aus dem Reset-Doc ist Variante C — *AEGIS muss die Genesis zeigen, weil ihm im Vortex die Lösch-Kapazität ausgeht*.“ ^[dual-storyform-hintergruende-md.md:L368] It ties the reveal to Beat 4: „Macht Beat 4 (Heat-Spike) zu einem operativen Punkt, nicht nur thermischem Bild.“ ^[dual-storyform-hintergruende-md.md:L368]
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 
@@ -244,18 +253,23 @@ It writes `Vortex 1` and names no other beat and no Vortex 2.
 the character bible, whose Rotation is the „Übergang zu Algorithmischer Melancholie“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1146];
 the master report („Nur A aktiv, Konsolidierung“ ^[kohaerenz-protokoll-konzept-master-md.md:L907]);
 the 39-chapter spec, „Drei Modi, zwei Storyforms, ein Vortex.“ ^[three-mode-architecture-39-chapters-md.md:L634];
-and the Worldbuilding-Konzept, which names no second one. Two: the konsolidiertes
+the Worldbuilding-Konzept, which names no second one; and the Dual-Storyform background document, whose
+Kap 37–39 are „0% (nur A aktiv)“ ^[dual-storyform-hintergruende-md.md:L337]. Two: the konsolidiertes
 Konzept and the Konzept-Iteration Genesis, both 2026-05-08, and every later source
 read here, from the Sprach-DNA on. The Konzept-Iteration Genesis records the change
 as work still to do on the 39-chapter spec (its L818). `Wiki/overview/plot.md` records one
-Vortex for the master report and two for every other plan it reads. Four more
-sources here have one, and `plot.md` reads none of them: the Dramatica lock-in,
-the character bible, the 39-chapter spec and the Worldbuilding-Konzept.
+Vortex for four plans it reads — the master report, the 39-chapter spec, the
+Worldbuilding-Konzept and the Dual-Storyform background document — and two for every
+other. Two more sources here have one, and `plot.md` reads neither: the Dramatica
+lock-in and the character bible. (Until the background document's reading this said
+`plot.md` recorded one Vortex for the master report alone, which its readings of the
+39-chapter spec and the Worldbuilding-Konzept had already made false.)
 
 **The five beats of Vortex 1 go by two lists.** One is Convergence, Dialetheic
 Choice or Pivot, Silence, Heat-Spike, Rotation. The Dramatica lock-in, the
 character bible, the master report, the konsolidiertes Konzept's appendix, the
-Worldbuilding-Konzept, the storyform outline and the glossary use it. There
+Worldbuilding-Konzept, the storyform outline, the glossary and the Dual-Storyform
+background document (its L356–L360) use it. There
 Beat 1 is AEGIS' sweep converging on Kael and Beat 2 is Kael's choice. The other
 is Anlauf, Einspeisung, Stille, Wärme, Auflösung: the konsolidiertes Konzept's
 Teil VIII, the Konzept-Iteration Genesis and the 39-chapter spec. There Beat 1
@@ -273,6 +287,8 @@ strukturierter Outline (L1071), the storyform outline („Kapitel-Schnitt: Kap 3
 the glossary (L595–L599) and the Plot-Konkretisierung. The 39-chapter spec
 gives the same split and calls it a plausible one (its L348). Kernwelten vollständig gives
 Beats 1–2 and 3–5: „Vortex 1 Beat 3–5 (Silence, Heat Spike, Rotation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L862].
+The Dual-Storyform background document states no split: it names the two chapters only as
+„Kap 35–36“ ^[dual-storyform-hintergruende-md.md:L336].
 The philosophy catalogue states no split; its chapter table has „Kap 35 Beat 3“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L725] and „Kap 36 Beat 5“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L728], which fits Beats 1–3 and 4–5
 and not Kernwelten's 1–2 and 3–5.
 
@@ -303,6 +319,11 @@ heat spike. The 2026-06-10 sources call it the only canonical place for Landauer
 warmth (the storyform outline L458, the glossary L429, the drafting manual L351,
 the Plot-Konkretisierung L229). That touches **C11**, which records whether the
 Landauer trace is warm or cold elsewhere, Kap 36 among them.
+
+**Which beat the Genesis is revealed in.** The strukturierter Outline puts AEGIS'
+showing of the Genesis in Beat 3 (its L1087). The Dual-Storyform background document
+ties the same showing to Beat 4, by a recommendation it attributes to the Reset-Doc:
+„Macht Beat 4 (Heat-Spike) zu einem operativen Punkt, nicht nur thermischem Bild.“ ^[dual-storyform-hintergruende-md.md:L368]
 
 **Where Juna appears.** Several sources make Beat 3 of Vortex 2, in Kap 38, her
 first direct appearance: the Konzept-Iteration Genesis (L435), the strukturierter

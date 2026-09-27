@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-16"
 ---
 
@@ -195,3 +195,8 @@ What AEGIS reads as entropy in the traumatised system is the fluctuation it answ
 Juna is its leak, in one of the two readings the document holds true at once (L291): „Juna ist Erason-Inversion — ein neguentropisches Ereignis, das Kohärenz wiederherstellt, wo AEGIS gelöscht hat. Das Leck im Entropie-Apparat." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L296]
 The pure K₀ system: „ein reines K₀-System ist Wärmetod ohne Struktur" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L63]. The document does not call K₀ the condition of events (`Bedingung für Ereignisse` 0, `Plan/runs/worldbuilding-konzept-kohaerenzprotokoll-md/05-verify-readers.txt`); it gives that role to the Erasonen: „Erasonen sind die thermodynamische Bedingung von Geschichte selbst." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L59]
 So three uses of the word — AEGIS itself, what its control produces, and what it misreads in the system it guards. Conflict C2.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — what control produces, glossed as Landauer heat
+
+Found by the sweep. `Entropie` stands on two lines, and on both it is what control produces and fights. In Storyform B's thesis: „Kontrolle erzeugt die Entropie, die sie bekämpft“ ^[dual-storyform-hintergruende-md.md:L52]. In the DKT-Kernparadoxon, right after AEGIS is K0, glossed as heat: „Jeder Akt der Kontrolle erzeugt die Entropie, die er bekämpft (Landauer-Hitze).“ ^[dual-storyform-hintergruende-md.md:L82]
+It does not call AEGIS the entropy or an Entropie-Architektur (`Entropie-Architektur` 0, `05-verify-readers.txt`); AEGIS is K0 as a `Kollaps-Operator` (L82), and the document does not say what entropy is. One sense, the one in which AEGIS fights what it makes. Conflict C2.
