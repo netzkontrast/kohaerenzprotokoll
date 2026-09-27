@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 24
+sources: 25
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -269,3 +269,10 @@ Row 3's count, two. On the pairing: one Guardian per one world, Mnemosyne's, and
 „The Two Guardians" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L49]: Mnemosyne (L51) and „The Erasure-Pol: The executive arm of K0-deletion, absorbing the functions of logic and temporal control to enforce the "Multiplicity Veil."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L52]
 Its worlds: „KW1: The Construct City (Logos-Prime):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L64], „KW2: The Archipelago:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L65], „KW3: The Labyrinth:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L66], „KW4: The Garden of Possibilities (Kairos-Potentialis):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67]. `LogOS`, `Cerberus` and `Sophia` stand 0 times (`05-verify.txt`).
 Row 3's count, two, with no Guardian in any world. It is the one source here that names the absorbed as functions — logic and temporal control — and not as bearers; which bearers had them it does not say (Q5). The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**Three named at work — Mnemosyne, LogOS and Cerberus — and none counted, reduced or paired with a world.**
+„Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] — a scene seed of Storyform A's overall story, a proposal. In the rejected hypothesis H2: „Der stärkste Kandidat für diese Rolle ist Mnemosyne, die als Memory-Archive-Guardian das Setting des Klimax physisch trägt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L49]. In Storyform B: „AEGIS löst massive Trennungsprotokolle aus, führt weitreichende Erasure-Sweeps durch und aktiviert die Guardians." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L264]
+`Kairos`, `Sophia`, `Erasure-Pol` and `KW1`–`KW4` stand 0 times (`05-verify.txt`), `Lösch-Pol` and `reduziert` 0 (`05-verify-readers.txt`). It is dated 2026-04-30, the date the Dual-Storyform background document gives the Reset-Doc's „Guardians auf 2" ^[dual-storyform-hintergruende-md.md:L450]; this document of that date tells no reduction.
+On no row by count: it names three of row 1's five, as active and uncounted, and states no pairing; it has none of row 3's Erasure-Pol. The author's decision for five (2026-09-24) stands; recorded, not applied.

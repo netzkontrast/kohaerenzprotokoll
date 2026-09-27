@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-17"
 ---
 
@@ -115,3 +115,9 @@ A theory report — „Dieses Dokument ist Synthese, nicht Pitch." ^[kohaerenz-p
 One occurrence, in KW3's heading beside the [[ueberwelt|Überwelt]]: „KW3 — Überwelt / Nexus (Quanten-Information)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L437]. The slash names two pages and merges nothing (J103); it is not the compound `Überwelt-Nexus` (0, `05-verify-readers.txt`; J63).
 What that world is: „Der „Maschinenraum hinter dem Rendering"." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] „Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] — its word for the Guardians of the earlier phases (L296). The 2025 document, too, has its Guardians take a form in the Nexus; nothing in either says the two are one space.
 So a world here, not a place in KW4 and not a passage to the [[externe-ebene|Externe Ebene]], as in the worldbuilding concept of the same date. `Überraum` stands 0 times.
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — a room of Kael and Juna's relationship story, a Verschränkungs-Insel far from AEGIS' sensors
+
+A research report whose verdicts are its own — recorded, not applied; its rooms are proposals.
+Once (`grep -cw Nexus` 1, `05-verify-readers.txt`), as the first room of Storyform A's relationship story, which „definiert die Bindung zwischen Kael und Juna nicht als emotionalen Austausch, sondern als physikalische, energetische Kraftanstrengung über distanzierte Räume hinweg." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L213] The room is the Nexus, called a „Verschränkungs-Insel“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L231] — with an indefinite article and in quotation marks — lying „fernab der regulären AEGIS-Sensoren, die einer Oase im Datensturm gleicht." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L231] Its pair is „die unregelmäßigen Risse in der Simulation" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L231].
+So a place of Kael and [[juna|Juna]]'s bond, hidden from AEGIS — not where the Guardians take a form, not a KW4 sub-location and not KW3's second name: `Überwelt`, `Überraum`, `KW3`, `KW4` and `Kernwelt` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`). The other read sources give the name `Verschränkungs-Insel` to the Überwelt's Kap-33 room (see [[verschraenkungs-insel|Verschränkungs-Insel]]); this document puts the word beside the Nexus, and the wiki keeps the two pages and merges nothing.

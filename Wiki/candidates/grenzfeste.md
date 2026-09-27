@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -83,3 +83,9 @@ former bearer (J49's rule).
 A world bible that calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied. The name stands in the parentheses where the konsolidiertes Konzept and the worldbuilding concept write `Grenzfeste`, in English (`Grenzfeste` 0, `05-verify-readers.txt`); read here by the sentence (J100): „KW3: Cerberus-Labyrinth (Border Fortress):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L69]
 „Concrete, steel, barbed wire, twilight." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L70] Its class, „NP-Hard ." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L71]; its style, „Staccato; sentences breaking off." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L72]; its somatic, „Bruxism and muscle tension." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L73]
 No act and no chapters (`Act` 0). `Cerberus-Labyrinth` is a world named after a former bearer (J49); the document names no Guardian of this world, and its Erasure-Pol is placed in none.
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — a place, not a world: a room of Kael's in Storyform B, and a border beside Sektor 04
+
+A research report whose verdicts are its own — recorded, not applied; its rooms are proposals.
+Twice (`grep -cw Grenzfeste` 2, `05-verify-readers.txt`), both times a place. In the throughline where Kael is Storyform B's Impact Character: „Der zweite Raum ist die Grenzfeste, der architektonische Ort, an dem Kael die Konfrontation mit der Speichereinheit des Traumas sucht." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L163] In B's overall story, the cyber-war, one side of a fracture: „Der erste Raum ist die Bruchzone zwischen Sektor 04 und der Grenzfeste, wo die physikalischen Gesetze der Simulation bereits aufgehoben sind." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L207]
+So it borders [[sektor-04|Sektor 04]], which this document calls „eine unentscheidbare Zone der Stadt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L115] — a place at the scale of a district, where the konsolidiertes Konzept, the worldbuilding concept and the drafting manual give KW3 this name (readings above). No world, no Guardian and no act: `KW3`, `Cerberus-Labyrinth` and `Kernwelt` stand 0 times, and Cerberus only among the debating Guardians (L181), not here (`05-verify.txt`, `05-verify-readers.txt`).

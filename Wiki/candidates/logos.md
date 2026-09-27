@@ -1,17 +1,17 @@
 ---
 term: LogOS
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-17"
 ---
 
 # LogOS
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Fifteen other read documents name LogOS — the readings below, the Narrative Building Blocks report's the latest (it moved this count from fourteen, the Systems Narrative Analysis's from thirteen, as the philosophischer Bericht's had from twelve). (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
+the same nine fields. Sixteen other read documents name LogOS — the readings below, the Dramatica-Synthese's the latest (it moved this count from fifteen, the Narrative Building Blocks report's from fourteen, the Systems Narrative Analysis's from thirteen, as the philosophischer Bericht's had from twelve). (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -159,3 +159,10 @@ So LogOS is a working part of the system here, as the 2025 locations concept abo
 
 A mining report whose seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied; each seed a proposal under `Lever:`. Once (`grep -cw LogOS` 1, `05-verify.txt`), as the carrier of a world seed in Storyform A's overall story: „Seed-11 The Sterility of KW1" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83], „Carrier: LogOS" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83] — the world „A world of shadowless geometry and clinical light, devoid of dust or smell." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83]
 So LogOS is paired with KW1 here, as in the 2025 Guardian concept; it is not called a Guardian (`Guardian` 0), not counted and not said to be absorbed, and KW1 carries no second name (`Logos-Prime` 0, `05-verify-readers.txt`). The pairing is Q5's; the author decided C6 for five on 2026-09-24.
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — a Guardian debating in Storyform A's overall story, and a subroutine with a control centre in B's relationship story
+
+A research report whose verdicts are its own, from „Projekt-Kanon" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L320] PDFs and „User-Memory / Projekt-Wissen" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L469] — recorded, not applied; its scene seeds and rooms are proposals.
+Twice (`grep -cw LogOS` 2, `05-verify.txt`). **A Guardian, at work now**, with [[cerberus|Cerberus]], in the first scene seed of Storyform A's overall story: „Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181]
+**A subroutine, with a room of its own**, in Storyform B's relationship story, the psychological war of Kael and AEGIS: „Der erste Raum ist das Kontrollzentrum der Subroutine LogOS, geprägt von absoluter, erdrückender Überwachung." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L255]
+So one document calls it a Guardian in one storyform and a subroutine of the system in the other, and does not relate the two words. It is not one of an old five, not absorbed and not reduced, and it has no world: `Logos-Prime` and `KW1` stand 0 times, and `absorbiert` once, of a firewall's energy (L163; `05-verify.txt`, `05-verify-readers.txt`). The author decided C6 for five on 2026-09-24; recorded, not applied (Q1, Q5).

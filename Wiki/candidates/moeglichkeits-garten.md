@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -222,3 +222,9 @@ The world's second name, with no place inside it (C5). `Kairos-Potentialis` is a
 
 A compendium that cites nothing. The garden is the heading's first name here, `Kairos-Potentialis` the second: „KW4: The Garden of Possibilities (Kairos-Potentialis):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67] — read by the sentence (J100). „Domain of Emergence." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67] „Here, the "We-Voice" appears." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67] „The language shifts into a polyphonic poetic chorus." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67]
 The last of four spheres through which „the complexity of his reality shifts" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L62], the whole world and no place inside it (C5). No act and no chapters (`Chapter` 0, `05-verify.txt`).
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — `Möglichkeiten-Garten`, an area: a room of Storyform A's overall story
+
+A research report whose verdicts are its own — recorded, not applied; its rooms are proposals.
+Once, under the surface `Möglichkeiten-Garten` (`Möglichkeits-Garten` 0, `05-verify.txt`), which J107 makes this page's: a linking element is no term boundary. It is the second room of Storyform A's overall story, the psychological manoeuvring of the whole system: „Der zweite Raum ist der Möglichkeiten-Garten, ein Areal, in dem Wahrscheinlichkeiten vor ihrer Materialisierung visualisiert werden." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187] The first is „das Lernarchiv Theta-9, ein unstrukturierter Sektor voller verwaister Datenströme" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187].
+**A place, not a world** — an area, beside an archive sector — with no world around it: `KW4`, `Kernwelt`, `Kairos-Potentialis`, `Kairos` and `Sophia` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`). C5: the place's scale only.

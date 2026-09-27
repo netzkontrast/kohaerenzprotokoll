@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 16
+sources: 17
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -185,3 +185,9 @@ No sub-location of KW4 is named, and `Garten` and `Möglichkeits-Garten` stand 0
 **KW4 is the garden, the whole world — the garden's name first, Kairos-Potentialis second.**
 „KW4: The Garden of Possibilities (Kairos-Potentialis):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67] „Domain of Emergence." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67]
 No place inside KW4 is named; `Garten` stands 0 times (`05-verify-readers.txt`). Position 1's side. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**A place — „ein Areal" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187], a room of Storyform A's overall story — and no world around it.**
+„Der zweite Raum ist der Möglichkeiten-Garten, ein Areal, in dem Wahrscheinlichkeiten vor ihrer Materialisierung visualisiert werden." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187] — `Möglichkeiten-Garten`, this record's subject by J107. The room beside it: „das Lernarchiv Theta-9, ein unstrukturierter Sektor voller verwaister Datenströme" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187].
+`KW4`, `Kernwelt`, `Kairos` and `Sophia` stand 0 times (`05-verify.txt`), `Kairos-Potentialis` 0 (`05-verify-readers.txt`). Position 2's side — a place, not a world — without saying in which world it lies. The conflict stays open.
