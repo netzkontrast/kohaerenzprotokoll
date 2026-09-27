@@ -4,7 +4,7 @@ subject: AEGIS
 kind: expansion of an acronym
 status: open
 first_seen: "2026-09-16"
-sources: 6
+sources: 7
 pages: ["aegis"]
 ---
 
@@ -92,3 +92,10 @@ expansion.
 „AEGIS — Autonomous Entropic Gatekeeper for Integrity Systems — ist kein Schurke." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L166]
 The gatekeeper stands beside a defence that became the world, as in the konsolidiertes Konzept: „AEGIS ist Kaels eigene Abwehrarchitektur, die zur Welt geworden ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L188]
 Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative Integrity` 0), and nothing says which expansion it supersedes. Position 1's side; the conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+**Position 1's expansion, and no other — the AI that steers the city, not the ground it stands on.**
+„AEGIS (*Autonomous Entropic Gatekeeper for Integrity Systems*) ist die KI, die die Konstrukt-Stadt steuert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L247]
+What realities come from is the Foundation, not AEGIS: „die Monstergruppe M und die mit ihr verbundenen Symmetriestrukturen, aus denen alle Realitäten (inklusive AEGIS' Simulation) abgeleitet sind" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L701] — on the second open question, the gatekeeper beside a substrate that is something else.
+Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative` 0, `05-verify-readers.txt`), and nothing says which expansion it supersedes. Position 1's side; the conflict stays open.

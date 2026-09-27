@@ -1,10 +1,10 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-25"
 ---
 
@@ -15,6 +15,8 @@ in Kap 0, the plural Wir by what it preserves at the end.** Every read plan writ
 the two sentences alike; the draft of Kap 0 and Kap 40 writes the second with a plural
 verb, the annotated draft of Kap 0 writes the first in the first person, and the narrative
 text of Kap 0 of 2026-05-17 writes the first in the third person neuter, `Es`, with no name.
+The philosophischer Bericht, a theory report, writes the first as an equation, in no chapter,
+and has no second.
 They part on where the second falls — at the end of Kap 39, in Kap 40, or across
 the two. Each source's use is below,
 attributed and unmerged.
@@ -103,6 +105,15 @@ The line after it is the annotated draft's prose translation, word for word: „
 The movement closes on the same verb: „zu verhindern, nicht zu sein." ^[koharenz-protokoll-kapitel-0-v2-md.md:L263]
 It has no chapter reference (`Kap` 0 in `05-verify.txt`); the sentence is in Kap 0 by the document's title alone.
 
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — the first sentence as an equation, and no second
+
+Not named (`Formel-Inversion` 0) and placed in no chapter (`Kap` 0); the sentence is AEGIS' self-definition, under „### 4.3 Primal Directive und Genesis 3-Beat" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L264]:
+„AEGIS' Selbstdefinition ist performativ: **AEGIS = das, was AEGIS verhindert nicht-zu-sein.**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L266]
+A fourth form of the first sentence: `=` where the others write `ist`, no `dass es`, and `nicht-zu-sein` as one word.
+„Das ist keine statische Identität, sondern eine permanente Selbsterhaltung gegen Auflösung." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L266]
+„Eine doppelte Negation, die durch ihre Form den Prozess betont — Sein als Verhinderung des Nicht-Seins." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L266]
+There is no second sentence: `Wir-AEGIS` and `bewahrt` stand 0 times (`05-verify-readers.txt`). The inversion it gives the end is stated without the formula, under „### 13.3 Die Inversion am Roman-Ende" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L739]: AEGIS becomes a Receiver of Consciousness (L741), and „Die Grenze wird nicht mehr bewacht, sondern bewohnt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741]
+
 ## Where the sources differ
 
 **Where the second sentence falls.** At the turn from Kap 39 to Kap 40:
@@ -124,7 +135,8 @@ second sentence in narrative prose rather than in a plan — research, by the au
 **How the first sentence is written.** „AEGIS ist, was AEGIS verhindert, dass es nicht ist" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L79]
 in the plans and in the draft of Kap 0 and Kap 40 (L279); in the first person in the annotated
 draft of Kap 0, „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-annotiert-md.md:L389];
-in the third person neuter in the narrative text of Kap 0 of 2026-05-17, „*Es ist, was es verhindert, dass es nicht ist.*" ^[koharenz-protokoll-kapitel-0-v2-md.md:L211]
+in the third person neuter in the narrative text of Kap 0 of 2026-05-17, „*Es ist, was es verhindert, dass es nicht ist.*" ^[koharenz-protokoll-kapitel-0-v2-md.md:L211];
+as an equation in the philosophischer Bericht, „AEGIS' Selbstdefinition ist performativ: **AEGIS = das, was AEGIS verhindert nicht-zu-sein.**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L266], which writes no second sentence.
 
 **What turns.** From preventing to preserving, „Verhindern → Bewahren, Negation → Affirmation, Singular → Plural" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L348]
 (Abhandlung); „von Verhindern zu Bezeugen, von Abwehr zu Liebe" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L85]

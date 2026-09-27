@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-17"
 ---
 
@@ -105,3 +105,15 @@ The past-tense third person says why: „Hier griff das Paradoxon der Fehlausger
 The misreading turns the defence inward: „Da die interne Resonanz als die gefährlichste Manifestation der Krise identifiziert wurde, richtete sich die Abwehrreaktion nach innen." ^[koharenz-protokoll-kapitel-0-v2-md.md:L435]
 The stranger is unreadable too: „Die Signatur nahm eine Form an, die das interne Realitätsmodell nicht abbilden konnte." ^[koharenz-protokoll-kapitel-0-v2-md.md:L367]
 What the system cannot see here is the resonance inside it, not a bond between two people.
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — Juna outside AEGIS' axiomatic basis: invisible, not absent
+
+**Not named as a blind spot** (`blind`, `Blindheit`, `Fleck` 0, `05-verify-readers.txt`); stated as one, of AEGIS, with its operational closure as the cause:
+„Diese strukturelle Geschlossenheit ist der Grund, warum AEGIS Juna nicht *sehen* kann" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]
+„Juna existiert außerhalb der axiomatischen Basis, in der AEGIS überhaupt operiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]
+What it cannot place, it misreads: „AEGIS interpretiert ihren Einbruch als *Nichts-Rauschen* — pure thermodynamische und informationelle Entropie." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]
+„Was strukturell unsichtbar ist, ist nicht abwesend, sondern blockiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L262]
+Two further reasons come with Juna's own properties. As zero-knowledge verifier: „Das ist die kryptographische Erklärung dafür, warum AEGIS Juna nicht analysieren kann: sie verifiziert *ohne* Daten zu transferieren." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L322]
+As Chaitin's Ω: „AEGIS' Versuch, Juna zu modellieren, scheitert nicht, weil sie unsichtbar ist, sondern weil ihre Kolmogorov-Komplexität die systemeigene Beweisbarkeitsgrenze AEGIS' überschreitet." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L339]
+So on L262 Juna is what is structurally invisible, and on L339 invisibility is not why the model fails; the document does not relate the two.
+What stays closed to AEGIS after the Vortex is the qualia (L737). What it cannot see here is a being, Juna — not the bond between two people, nor the resonance inside it. No Guardian is given a blind spot (C4).
