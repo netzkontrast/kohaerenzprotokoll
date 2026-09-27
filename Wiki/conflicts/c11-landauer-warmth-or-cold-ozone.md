@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 36
+sources: 38
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -381,3 +381,15 @@ Named as the weapon itself: „Erstens fungiert das Landauer-Prinzip als primär
 Its own stated progression makes the register change by act rather than by bearer: „Stil-Progression: Akt I (kalt/steril), Akt II (heiß/fragmentiert), Akt III (choral/holographisch)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L223] KW4 in Akt III already carries warmth and a changed ozone: „Hier herrscht warmes Licht." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172] „Er steht in einem überwucherten Ruinengarten, dessen Erde feucht ist und der dezent nach Ozon des Werdens riecht." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
 At the resolution, Kapitel 37, heat and ozone cool into their opposite: „Die glühende Hitze kühlt ab zu einer sanften, lebenspendenden Wärme. Der beißende Ozon-Geruch weicht der Frische nach einem Sommergewitter." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L200]
 No `Landauer-Signatur` and no polarity rule stand in it (`05-verify-readers.txt`); heat and ozone are one trace of AEGIS' erasure that itself changes register act by act, rather than two signatures kept apart by bearer — a fourth position, twenty-two days before the master report's and the worldbuilding concept's date. It names no Kap 6, so row 1's warmth there is neither held nor denied. The conflict stays open.
+
+## 2026-09-27 — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese
+
+**Landauer-Wärme forcing the characters' hand, from the Vorgänger-Schicht's physics — no ozone, no cold, no Kap 6.**
+„Die entropische „Landauer-Wärme“ manifestiert sich in Rissen in der Umwelt, die Entscheidungen der Charaktere erzwingen." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L132] „Die physikalische Konsequenz der Simulation: „Risse“ und „Landauer-Wärme“ als Treiber des Weltendes." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L154] It is the Vorgänger-Schicht's, carried into the newer Gödel-Gambit-Konzept: „Schicht-Verteilung: Starke Verankerung in der Vorgänger-Schicht (Physik, Landauer-Wärme, Entropie-Kollaps 1), jedoch massiv aufgewertet durch das neuere Gödel-Gambit-Konzept der Story-first Phase." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L178]
+`Ozon`, `kalt` and `Kap 6` stand 0 times (`Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`). Heat alone is the trace, and no rule sets it against a cold; twelve days before the konsolidiertes Konzept. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**Cold at the Vortex's convergence, the Heat Spike at the Dialetheia's compression, and a ticking, unaffordable heat before the climax — no ozone, no Kap 6 or Kap 36.**
+„Die Umgebungstemperatur fällt schlagartig in den Minusbereich, als das System Energie für den finalen Schlag bündelt." ^[dramatica-storyform-synthese-aegis-analyse.md:L102] „Dieser Landauer Heat Spike lässt die massiven Server-Strukturen des Archipels förmlich glühen; sie zerbersten unter der Hitze in einer Kettenreaktion fraktaler Zerstörung." ^[dramatica-storyform-synthese-aegis-analyse.md:L114] „In B tickt eine unerbittliche thermodynamische Uhr. Die akkumulierte Landauer-Hitze des deterministischen Systems baut sich durch jeden Löschungsakt unaufhaltsam auf." ^[dramatica-storyform-synthese-aegis-analyse.md:L93]
+`Ozon`, `Kap 6` and `Kap 36` stand 0 times (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`); the Vortex is dated only to Kapitel 35–36 in general (its L17). Cold marks the convergence, not AEGIS' suppression generally, and the spike is the one row 2 and the Dramatica-Synthese above keep too; row 1's Kap-6 and Kap-36 warmth are neither held nor denied. The conflict stays open.

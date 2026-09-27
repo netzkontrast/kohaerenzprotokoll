@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 22
+sources: 24
 pages: ["entropie"]
 ---
 
@@ -215,3 +215,15 @@ Sense 1: „AEGIS fungiert hierbei als externalisiertes Täterintrojekt, das Ent
 Sense 3, stated as a mechanism rather than an identity: „Der verzweifelte Kampf gegen die Entropie erzeugt thermodynamisches Chaos auf der Substratebene.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L27] — it never calls AEGIS itself the entropy, only its fight against entropy the chaos's cause.
 And, earlier in the same document: „eine Existenz ohne Entropie, ohne den Kollaps und ohne das Unvorhersehbare […] in einer toten, bedeutungslosen Schleife erstarrt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L19] — near the glossary's fourth sense (K₀ as what makes a universe habitable), said of a life without entropy rather than of K₀ as a condition.
 The konsolidiertes Konzept's and the master report's third sense, in its own words, dated before both; the conflict stays open.
+
+## 2026-09-27 — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese
+
+**The third sense, said of AEGIS' coercive act rather than of AEGIS itself, with K0 hedged as only apparent chaos.**
+„Der Versuch des Antagonisten AEGIS, Kohärenz durch Auslöschung zu erzwingen (K1), erzeugt zwangsläufig Entropie, während die Akzeptanz des vermeintlichen Chaos (K0) durch den Protagonisten Kael funktionale Multiplizität gebiert." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L15]
+Sense 3 in the konsolidiertes Konzept's and the master report's shape, but the document never calls AEGIS itself the entropy (`Entropie-Architektur` 0, `Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`), and its `vermeintlichen Chaos` for K0 sits closer to sense 2's matrix, hedged as only apparent. Twelve days before the konsolidiertes Konzept; the conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**The third sense as a thermodynamic proof, with a zone of near-zero entropy beside it.**
+„der thermodynamische Beweis, dass das Erzwingen von Ordnung zwingend Entropie akkumuliert." ^[dramatica-storyform-synthese-aegis-analyse.md:L59] The same scene seed's setting is its inverse: „einem Raum scheinbarer Null-Entropie, der unter massivem Überdruck steht." ^[dramatica-storyform-synthese-aegis-analyse.md:L59]
+It does not write `Entropie-Architektur` or call K₀ the condition of events (0, `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`) — sense 3 stated as a mechanism, as in the Duale Storyform-Synthese above, not as AEGIS' identity. The conflict stays open.

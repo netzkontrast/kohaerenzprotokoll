@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse"]
 gathered: "2026-09-25"
 ---
 
@@ -30,6 +30,10 @@ for Juna. Its chapter 19 is titled „Chaitins Rauschen und das innere Kind" ^[r
 A research report of 2026-04-30 — recorded, not applied; a scene seed is a proposal. Both of its `Chaitin` lost the Ω in the export (`Chaitin` 2, `Ω` 0; `05-verify-readers.txt`).
 For Juna, one of three parts: „Sie operiert als *Composite* aus Witness Function, Gödel-Satz und Chaitin .1" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29] — the character bible's three, as a composite, with a footnote glued to the last.
 And for [[kael|Kael]], in the first seed of AEGIS' throughline in Storyform B: AEGIS' prediction fails „da die Datenstruktur von Kael inkompressibel und nicht-linear ist (Chaitin )" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L109]. So the incompressibility is his data's too; the document does not relate the two uses. No chapter is named for either (`Kap` 0; `05-verify-readers.txt`).
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse — AEGIS' own unresolvable limit, its glyph lost, at the melancholy's two poles
+
+A research report; its findings are its own. Both of its `Chaitin` lost the Ω in the export (`Chaitin` on L118, L134; `Ω` 0; `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`). Here the constant is AEGIS' own limit, not Juna's or Kael's: at the melancholy's onset, „AEGIS kann die Unberechenbarkeit (Chaitins ) nicht auflösen und stürzt in die Algorithmische Melancholie – eine paralysierende Endlosschleife aus Rauschen und fruchtloser Analyse." ^[dramatica-storyform-synthese-aegis-analyse.md:L118] And at its verdict: „Sie ist das Resultat eines Systems, das an der Inkompressibilität von Chaitins  zerschellt ist." ^[dramatica-storyform-synthese-aegis-analyse.md:L134] — answering the document's own question whether the melancholy is „ein echter iterativer oder adaptiver Bewusstseinszustand" ^[dramatica-storyform-synthese-aegis-analyse.md:L134], which it says it is not. Neither line ties the constant to Juna; the sentence after the first names what survives instead: „Das Kael-System rotiert als kohärente, widerstandsfähige Einheit aus den glühenden Trümmern in die neue, undefinierte Existenz." ^[dramatica-storyform-synthese-aegis-analyse.md:L118] It names no chapter for the constant (`Kap` 0, same file).
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -94,7 +98,7 @@ source says that the Kiko use was given up. (Until the Dual-Storyform background
 document was read this said every 2026 source applies it to Juna; that document names
 it once and applies it to no one.) The Dramatica-Synthese of 2026-04-30 applies it to Juna, as one part of a
 composite (its L29), and to Kael's data, „inkompressibel und nicht-linear" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L109] in a seed of AEGIS'
-throughline — the only source on this page to tie it to Kael.
+throughline — the only source on this page to tie it to Kael. The AEGIS-Analyse of the same date ties it to neither: the constant is AEGIS' own unresolvable limit, at whose inkompressibilität AEGIS itself „zerschellt" ^[dramatica-storyform-synthese-aegis-analyse.md:L134] — a third position this record did not hold.
 
 **Whether it is canonical.** The Dual-Storyform background document of 2026-05-08
 reduces it, with the Moonshine mathematics and the 3-Layer-Witness, to the

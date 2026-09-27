@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 12
-readings: 12
+sources: 14
+readings: 14
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation"]
 gathered: "2026-09-17"
 ---
 
@@ -93,3 +93,14 @@ Juna's warmth reaches toward it, in a seed (a proposal): „This resonance acts 
 The Vortex ends in it, at its fifth point, `Pivot to A`: „The "Memory" story (A) begins as the light of the Vortex fades into the "Potential Sea."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L128]
 And an alter carries it, Isabelle's somatic seed: „Pressure in the chest, representing the weight of the "Potential Sea."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L137]
 No Ursprungs-Ich stands in it (0), and no Genesis beat: `Genesis` only in `Genesis Crisis`, which is not the Genesis (J76–J78).
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — the exodus of Storyform B's Steelman reading
+
+Not in date order with the readings above; placed after the last one. A research report; its Steelman reading is the document's own strongest case for Storyform B. It is where Kael's rescue leads, after AEGIS' artificial coherence fails: „Doch exakt dieser „Failure“ der künstlichen Systemkohärenz ermöglicht Kaels spirituelle Rettung und den Exodus in das unbegrenzte Potentialmeer (Good)." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L144] It does not define the Potentialmeer or place an Ursprungs-Ich in it (`Ursprungs-Ich` 0; `Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`); it is Storyform B's destination rather than the Genesis' first beat.
+
+## Reading — `m-als-fundament-der-simulation`, 2025-04-26, the M-Fundament-Blueprint — AEGIS existing by negation of it, and its chaos an unknowable background M is drawn from
+
+Not in date order with the readings above; placed after the last one, as the companion of the Primzahl-Blueprint above (both 2025-04-26; see [[moonshine-link]]). **AEGIS defines itself against it.** „AEGIS existiert durch Negation/Abgrenzung vom Potentialmeer. Seine Identität wird durch die Aufrechterhaltung seiner organisationalen Geschlossenheit (Autopoiesis) bewahrt." ^[m-als-fundament-der-simulation.md:L68] „Es definiert sich durch das, was es kontrolliert und ausschließt." ^[m-als-fundament-der-simulation.md:L68]
+**Its cosmic-horror reading keeps it unknowable**: „Das Potentialmeer bleibt ein unerkennbarer, chaotischer Hintergrund." ^[m-als-fundament-der-simulation.md:L113] And the threat that breaks AEGIS' defence comes from inside its own foundation, not from the sea itself: „Seine auf Negation und Kontrolle basierende Verteidigung gegen das Chaos des Potentialmeers versagt, weil die Bedrohung von *innen*, aus seiner eigenen Grundlage, kommt." ^[m-als-fundament-der-simulation.md:L417]
+**M itself may be only one structure drawn from it**, in the Beat 29 ending options: „Oder ein Blick auf das Potentialmeer jenseits der Simulation. Oder die Andeutung, dass diese Simulation nur eine von vielen ist, vielleicht eingebettet in einer noch komplexeren Struktur." ^[m-als-fundament-der-simulation.md:L648] — hedged among the ending's other options, as the Primzahl-Blueprint's own closing chapter hedges it (above).
+No Ursprungs-Ich and no Genesis beat stand in it (`Ursprungs-Ich`, `Genesis` 0; same file); the readings above place the Genesis' first beat in the Potentialmeer, where this document places only AEGIS' negation and M's possible relativity.
