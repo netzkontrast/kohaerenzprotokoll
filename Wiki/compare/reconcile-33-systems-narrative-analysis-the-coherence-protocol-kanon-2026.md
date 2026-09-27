@@ -33,7 +33,7 @@ times and defines nowhere, and the Coherence Island are in `not_promoted`.
 **J104.** „RS-A" is Storyform A's Relationship Story, not the RSA protocol `fold()` files it under.
 **J105.** „KW2 acts as a "Trauma-Lokus"" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L85] is KW2's function, a reading on
 `kern-welten`, although `Trauma-Lokus` is `vergessener-schrein`'s alias. **J106.** „DKT
-(Dissoziative Kontroll-Technik)" expands the acronym differently, with the fifty-page rule other
+(Dissoziative Kontroll-Technik)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L21] expands the acronym differently, with the fifty-page rule other
 sources give the Dual-Kernel-Theorie; recorded on `dkt`, merging nothing.
 
 ## Readings — 23 pages, Kap 35 and 36, `plot.md`, six conflicts, four questions
@@ -66,7 +66,7 @@ phrase), `Simulation` L76 (a heading, J39).
 ## What the readers noticed and no record holds
 
 „Driver-Pivot" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L120] where the Dual-Storyform background document's correction has none; „AEGIS
-terminates" against Algorithmic Melancholy as a lasting state; deletion that „cools" the system
+terminates" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L128] against Algorithmic Melancholy as a lasting state; deletion that „cools" the system
 where every read source has erasure make heat; LogOS still in use on a date three sources call it
 absorbed; Functional Multiplicity chosen in the Vortex. Retrieval: PageRank recall@8 0.644 → 0.654,
 only C11.
