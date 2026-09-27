@@ -88,8 +88,8 @@ folded away (below), so 215 new documents stand. `Sources/README.md` now ends
 with every document and the names that matter in it (*Sources at a glance*,
 below). Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, twenty-five of them
-read (documents 7 to 31).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, and all 33 read
+(documents 7 to 39) — the last eight, all of 2026-05-08, on 2026-09-27.
 
 **Those files are 586 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -122,9 +122,9 @@ stays.
 
 **39 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **39
 <!--state:documents.with_note--> have a note** in `Sources/notes/`, and **39
-<!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-five `worldbuilding`, one `aegis`, three `storyform`, three `charaktere`, five
-`kernkonzept`, ten `plot-outline` and one `theorie-psychologie` — the last twenty-five
+<!--state:documents.reconciled--> are reconciled**. Four are `theorie-physik`,
+five `worldbuilding`, one `aegis`, three `storyform`, five `charaktere`, seven
+`kernkonzept`, thirteen `plot-outline` and one `theorie-psychologie` — the last thirty-three
 from the canon era.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
@@ -137,7 +137,7 @@ has been promoted.
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
 **428 <!--state:chapters.readings--> readings** from the nine read documents
-that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, that text's prose without its annotation, a world bible that names nine, a philosophy catalogue that names nineteen, a drafting run's log that names three, a chapter file of Kap 25 that names two, a storyform companion that names nine, and a theory report that names three; `Wiki/overview/` lays the chapters and the plot's
+that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, that text's prose without its annotation, a world bible that names nine, a philosophy catalogue that names nineteen, a drafting run's log that names three, a chapter file of Kap 25 that names two, a storyform companion that names nine, a theory report that names three, and seven English documents of 2026-05-08 that name the Vortex's two chapters, and one of them Chapter 1 and Chapter 39; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
 | document | new terms | new readings | new conflicts |
@@ -173,6 +173,14 @@ shape side by side. See *Chapters and the plot*, below.
 | `kp-kap25-2026-09-14-md` | 0 | 11 | 0 |
 | `dual-storyform-hintergruende-md` | 0 | 49 | 0 |
 | `kohaerenz-protokoll-philosophischer-bericht-md` | 0 | 61 | 0 |
+| `systems-narrative-analysis-the-coherence-protocol-kanon-2026` | 0 | 26 | 0 |
+| `mining-report-kohaerenz-protokoll-plot-outline-construction` | 0 | 30 | 0 |
+| `mining-report-kohaerenz-protokoll-narrative-building-blocks` | 0 | 41 | 0 |
+| `systemic-architecture-specification-the-coherence-protocol-w` | 0 | 54 | 0 |
+| `companion-guide-to-the-coherence-protocol-understanding-love` | 0 | 44 | 0 |
+| `the-architecture-of-fracture-a-compendium-of-the-kael-system` | 0 | 45 | 0 |
+| `editorial-style-dossier-somatic-and-linguistic-implementatio` | 0 | 37 | 0 |
+| `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko` | 0 | 26 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -497,6 +505,21 @@ decision for five stands). J100–J102 place its English `Separation Protocol`, 
 with one Vortex, so `plot.md` moved again. **No pages, readings on 57 pages, `plot.md` and Kap 13, 35
 and 36, entries in twelve conflicts and all five questions** — written by eight Claude readers from one
 brief, each group checked and committed by the session.
+
+**The thirty-second to thirty-ninth are the last eight of the canon era, all of 2026-05-08, and all
+English.** A „Systems Narrative Analysis" that calls itself „(Kanon 2026-05-08)", two mining reports of
+narrative „seeds" per throughline, a world bible that calls itself „the binding rulebook", a companion
+guide, a compendium of the Kael system, an editorial style dossier and a popular essay — each read with
+its own candidate list, census and note. Their English names for what the wiki pages in German (Coherence
+Kernel, Separation Protocol, Garden of Possibilities, Phone-Silence) go on the German page by the
+sentence (J100–J102); three judgements came from document 32: `RS-A` is not the RSA protocol (J104), its
+`Trauma-Lokus` is KW2's function (J105), and its `DKT` is expanded „Dissoziative Kontroll-Technik"
+(J106). They take sides on nearly every record: AEGIS a Do-er in B (C8, 32–34); two Guardian Sub-Systems
+(C6); the four worlds under the Guardian-world names in English (Q5, C5, C9); the knuckles four times in
+no chapter (C10); AEGIS never in prose, only logs (C14); three Genesis beats with Component 734 Kael's
+precursor (C12); the External Level „Cologne 2026" (C13); Juna's presence once as a drop in temperature
+(C11). **No pages, readings on up to 49 pages each.** Document 32 was read by three readers per
+document; documents 33–39 by six readers split by page group, so no two edited one file.
 
 `Plan/runs/judgements.jsonl` holds **106 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
@@ -841,7 +864,7 @@ Document 27 moved it to 0.643: C11 from 0.6 to 0.4 and Q3 from 0.375 to 0.25, an
 pages crowding the gold out of the top eight are the central ones it gave a reading — `aegis`,
 `juna`, `kael`, `coheron`, `vortex`, `alters`. The hubs grew faster than the pages around them.
 Document 28 moved it to 0.637, only C4, from 0.556 to 0.444: `cerberus` left its top eight and `alters`
-entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429.
+entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`

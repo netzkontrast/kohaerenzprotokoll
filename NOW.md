@@ -28,6 +28,22 @@ And the two read ones with them: „Yes, 22 and 23 are research too" (2026-09-26
 them the novel's text, and were corrected; the readings quote what they say and stand.
 A document may still call itself a draft, and a reading may quote that.
 
+**New from the last eight canon-era documents (2026-09-27, documents 32–39, all English, all 2026-05-08):**
+- **The Guardian-world pairing, again, on the canon's date.** The Narrative Building Blocks report makes
+  LogOS, Mnemosyne and Cerberus the carriers of KW1, the Mnemosyne Archipelago and „The Cerberus Labyrinth
+  (KW3)", and the Systemic Architecture Specification names the four worlds Construct-City (Logos-Prime),
+  Mnemosyne-Archipelago, Cerberus-Labyrinth, Kairos-Potentialis — while it and two others keep two
+  Guardians. Recorded in Q5 and C6; your decision for five stands.
+- **Throughline domains disagree between documents of one date**: the Plot/Outline Mining-Report puts
+  OS-A in Physics and OS-B in Mind, the Systems Narrative Analysis OS-A Psychology and OS-B Physics. On
+  the pages; no record. A record for the domains?
+- **Where Functional Multiplicity is reached** has a fourth answer — the Vortex (Companion Guide's fifth
+  beat, the Systems Narrative Analysis' fourth point) beside Kap 33 and Kap 39. A record?
+- **The Nichts-Rauschen as K0** in the Narrative Building Blocks report (its L100) against every other
+  source's K1 union; **Juna's presence as cold** in the Plot/Outline Mining-Report (L37). On the pages.
+- **`aegis-teilfunktionen`**: a source now explains two of its four functions; whether to split the page
+  is open.
+
 **New from the philosophischer Bericht (2026-09-27):**
 - **AEGIS' voice, a new position on C14.** The document gives AEGIS the first person in all of
   Storyform B, collapsing to the third in the Vortex (its L292, L627), and, under the alter table,
@@ -437,7 +453,7 @@ may be a third surface for the same entity. Nothing read links them.
 **The quote convention is in use.** A research-source quotation carries its
 citation on the same line and inside its table cell. Source labels and the
 wiki's own working sentences use code or emphasis; recorded author decisions
-link to their decision record. The checker reports 6
+link to their decision record. The checker reports 0
 <!--state:quotes.unchecked--> quotations without a resolvable source citation.
 `python3 scripts/quotes.py --unchecked` lists any new gaps with file and line.
 
@@ -903,7 +919,28 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the philosophischer Bericht reconciled
+## Next document — the last eight canon-era documents reconciled
+
+**Documents 32–39 are done, 2026-09-27**, on the goal „ingest the next sources": the eight canon-era rows of
+2026-05-08 that were still unread, all English. Each has its own candidate list, census and note;
+`Wiki/compare/reconcile-33` to `reconcile-40` are the records. **No page**; J104–J106 from document 32;
+readings on 23–49 pages each, Kap 1, 35, 36, 39, `plot.md`, entries in every record. **All 33 canon-era
+documents are now read.**
+- Documents 33–39 were reconciled together by six readers split by **page group**, not by document, so
+  no two readers edited one file; each reconciliation record says so.
+- **Retrieval**: 0.644 → 0.654 (document 32) → 0.644 (33–39), only C11 each time.
+- **Briefing v19** asks about a document in another language, and measures the lens check skipped twice.
+- **Readers' process slips**, none in the result: two ran a read-only `git` command, two regenerated
+  `Wiki/index.json` mid-run (re-derived at the end), and a shared scratch helper was overwritten once and
+  wrote wrong frontmatter on `kohaerenz-kernel`, repaired by its reader. Give each reader its own scratch
+  folder in the brief.
+
+Next: the canon era is exhausted. *Reading suggestion — next* is read too. The next sources are the pre-2026
+whole-novel plans named there — `monstergruppe-primzahlen-plot-blueprint`,
+`hard-sf-roman-outline-dkt-physik-cosmic-horror`, `dramatica-storyform-synthese-aegis-analyse-2`,
+`roman-konzept-dualitaet-kohaerenz-spannung` — or whatever `chapter_sources.py run`, rerun, ranks first.
+
+### Previous document — the philosophischer Bericht reconciled
 
 **The thirty-first document is done: `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-09-27.** „Kohärenz Protokoll — Theoretisches Fundament", 2026-05-08 — item 5 of *Reading suggestion — next*, the document the Jules session had half-ingested (decision 014). 475 candidates written while reading, **no page**, readings on 57 pages, `plot.md` and Kap 13, 35, 36, entries in twelve conflicts (C8, C13, C15 read and unchanged) and all five questions, J100–J103, five sweep hits (all readings). `Wiki/compare/reconcile-32-kohaerenz-protokoll-philosophischer-bericht-md.md` has the record.
 - **The Jules entries stay.** Their citations (`^[slug:Lnn]`, no `.md`) had never been checked; they are qualified now and hold, one split where it joined two statements. Each record's reconciliation entry follows and says what the document does not bear out. Kap 13's stray section became a reading; a duplicate line the merge left in C7 is gone.
@@ -1306,7 +1343,7 @@ those files are read directly when working on code. The check needs no qmd
 binary; it checks configured coverage, not the contents of an installed index.
 
 **Citation resolution is complete:** 0 <!--state:quotes.unresolved-->
-quotations fail `scripts/quotes.py`, and 6 <!--state:quotes.unchecked-->
+quotations fail `scripts/quotes.py`, and 0 <!--state:quotes.unchecked-->
 research-source quotations lack a resolvable citation. The checker audits
 research-source wording; an author's recorded decision links to its decision
 record and is not treated as a quotation from a research document.
