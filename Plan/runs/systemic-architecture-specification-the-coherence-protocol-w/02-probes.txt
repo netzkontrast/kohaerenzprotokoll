@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      6
+  backslash escapes      25
+  typographic marks      18
+  ascii quotes           38
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, System, Systemic, Systems
+  archi    Archipel, Archipelago, Architecture
+  coher    Coherence, Coheron, Coherons
+  diale    Dialetheia, Dialetheic, Dialetheism
+  chapt    Chapter, Chapters
+  class    Class, Classes
+  const    Construct, Constructive
+  eraso    Erason, Erasons
+  ereig    EREIGNIS, Ereignis
+  exter    EXTERNE, External
+  funct    Function, Functional
+  gener    Generates, Generative
+  juna     JUNA, Juna
+  kael     KAEL, Kael
+  layer    Layer, Layers
+  mecha    Mechanics, Mechanism
+  physi    Physical, Physics
+  prote    Protection, Protector
+  repre    REPRESENTABLE, Representation
+  speci    Special, Specification
+  symme    Symmetrical, Symmetry
+  traum    Trauma, Traumatic
+  tunne    Tunnel, Tunneling
+  viola    VIOLATION, Violation
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  JUNA < Juna
+  KAEL < Kael
+  Open < Opening
+  TEMP < Temporal
+  TEMP < Atemporal
+  Time < Timelock
+  Time < TIMESTAMP
+  Class < Classes
+  Layer < Layers
+  World < Worlds
+  Erason < Erasons
+  Keeper < Gatekeeper
+  SYSTEM < System
+  SYSTEM < Systems
+  SYSTEM < Systemic
+  System < Systems
+  System < Systemic
+  Trauma < Traumatic
+  Tunnel < Tunneling
