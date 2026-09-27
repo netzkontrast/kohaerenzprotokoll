@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 20
-readings: 20
+sources: 25
+readings: 25
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -131,3 +131,23 @@ His syntax is the document's example of one micro-cue for the bridge scenes, whe
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — ANP, Gödel + Halteproblem, → Intuition
 
 Among the ANPs of the TSDP section: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] His row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „ANP | Lex (Rationalist) | Gödel + Halteproblem | → Intuition" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L492]. Nothing else in the document names Lex (`grep -cw Lex`: 2; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — the pure rationality the others are set against
+
+Carrier of none of its twenty seeds; named once, in its somatic gaps, as the measure two other alters must be told apart from — Lia and Isabelle need anchors „to differentiate them from the pure rationality of Lex" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L166]. Nothing else in the document names Lex (`grep -cw Lex`: 1; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — ANP (Rational), and the somatics of KW1
+
+His row in its table of thirteen fragments: „ANP (Rational) | Lex | Gödel/Halting | Hypoventilation/Cold | Intuition" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. His filter is also the Construct-City's, KW1: „Somatic: Lex’s hypoventilation." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L63] — the one world whose somatics the document gives to a named alter; KW2–KW4's name none (L68, L73, L78). Nothing else in the document names Lex (`grep -cw Lex`: 2).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Gödel/Halting, toward intuition, and the ANPs' example
+
+His row, in a table with no category column: „Lex,Gödel/Halting Problem,Hypoventilation / Cold,Toward Intuition" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L62]. He is the guide's example of an ANP: „The system is kept in place by a phobic wall between the ANPs (Apparently Normal Parts, like Lex) and the EPs (Emotional Parts, like Nyx)." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L86] Nothing else in the document names Lex (`grep -cw Lex`: 2).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — ANP, from cold logic to intuition
+
+„ANP | Lex | Gödel + Halting Problem | Hypoventilation, coldness ; Arc: From cold logic to intuition." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Nothing else in the document names Lex (`grep -cw Lex`: 1).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Class P, hypotactic — the first half of the reader's navigation
+
+His row: „Lex (Rationalist) | Gödel/Halting | Hypoventilation and localized coldness. | Indicates Class P avoidance logic." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] His syntax, in the section on computational classes: „Assertive, sterile, and strictly causal." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L27] „Typical of the ANP Lex" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L27], with hypotactic sentences and no metaphors (L27). The cheat sheet gives him a sample sentence — diction, not a scene (L34) — and makes him one end of the mandate: „The shift from Lex’s complex, nested clauses to Nyx’s blunt coordinate clauses must be the reader's primary navigational tool." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L34] In Act II, Ch. 14-26: „A character may start a sentence in Lex’s sterile hypotaxis and end in Nyx’s staccato parataxis." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L58]

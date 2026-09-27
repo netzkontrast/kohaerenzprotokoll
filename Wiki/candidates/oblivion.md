@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 21
-readings: 21
+sources: 26
+readings: 26
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -154,3 +154,23 @@ No line that names Oblivion names warmth, heat, Landauer or ozone (`05-verify-re
 
 In the section „OPEN-Q: Post-Vortex & Missing Somatics" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L130] — one of the five whose somatics it calls missing — a seed, a proposal: „Seed-23 Oblivion: The Absolute Cold (Wärmetod)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L142]: „Numb/missing body parts, representing the "Big Freeze" (Wärmetod) where trauma used to reside." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L143] It is the one somatic seed its index lists, as Storyform A's and canon: „Seed-23,OPEN-Q,A,Kanon,Existenzforschung Tab 1" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L169].
 The same `Wärmetod` is, in AEGIS' Seed-05, the end its progress counts down to (L47–L49); the document does not relate Oblivion to AEGIS (`AEGIS-Echo` 0, `Erason` 0; `05-verify.txt`, `05-verify-readers.txt`). Cold stands only here: `cold` 0, `Cold` once, his seed's title (C11).
+
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — one half of a seed's carrier
+
+Named once, as the second half of the carrier of Silas' seed, a proposal: „Carrier: Silas/Oblivion" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L84]. The seed's material, „a total absence of thermal signature" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L84], and its lever, which names Silas alone (L84), are on his page. Nothing else in the document names Oblivion (`grep -cw Oblivion`: 1; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — Mirror, Erason Operator, somatic filter open
+
+His row in its table of thirteen fragments: „Mirror | Oblivion | Erason Operator | Open | Choice" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] — `Mirror` for Spiegel, and the somatic filter `Open`. Nothing else in the document names Oblivion (`grep -cw Oblivion`: 1).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Erason-Operator, the power to choose
+
+His row, in a table with no category column: „Oblivion,Erason-Operator,Automaticity / Numbness,The Power to Choose" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L84]. Nothing else in the document names Oblivion (`grep -cw Oblivion`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — Spiegel, the mirror of AEGIS
+
+„Spiegel | Oblivion | Erason-Operator | Surgical decision-making ; Mirror of AEGIS; governs erasure." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Nothing else in the document names Oblivion (`grep -cw Oblivion`: 1).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Spiegel, an automaton in Act I, a decision in Act III
+
+His row: „Oblivion (Spiegel) | Erason-Operator | Automaton-like rigidity; absence of pulse. | The bridge to AEGIS; the operator of erasure." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] On the vertical axis with Silas (L42): „Oblivion (Erason-Operator): He is the individual mirror of AEGIS." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L45] „He functions as an "Automaton" in Act I, executing internal erasures." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L45] „His arc is the "So What?" of the system: he must move from a machine-like function to making a conscious "Decision" to stop the deletion in Act III." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L45]

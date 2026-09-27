@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 17
-readings: 17
+sources: 21
+readings: 21
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -106,3 +106,19 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — EP, Kollaps, Big Freeze, → Drachenkampf
 
 Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia (Ambivalent), Isabelle (Sexualisiert), Moros (Kollaps)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466] His row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „EP | Moros (Kollaps) | Big Freeze | → Drachenkampf" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L500]. `Drachenkampf` is named and not explained. Nothing else in the document names Moros (`grep -cw Moros`: 2; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — EP (Collapse), the gravitational Riss
+
+His row in its table of thirteen fragments: „EP (Collapse) | Moros | Big Freeze | Catatonia | Dragon-fight" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. His Riss: „Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78] Nothing else in the document names Moros (`grep -cw Moros`: 2; `05-verify-readers.txt`).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Big Freeze, catatonia
+
+His row, in a table with no category column: „Moros,Big Freeze,Catatonia" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L78], with the Dragon Fight as his arc in the export's doubled quotation marks (L78). Nothing else in the document names Moros (`grep -cw Moros`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — EP, the Dragon Fight against collapse, a core EP of the first layer
+
+„EP | Moros | Big Freeze | Catatonia, leaden limbs ; Arc: The "Dragon Fight" against collapse." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Of Layer 1, Cologne: „forcing the creation of the core EPs (Kiko, Lia, Moros)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] Nothing else in the document names Moros (`grep -cw Moros`: 2).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Collapse, crushing gravitational weight
+
+His row: „Moros (Collapse) | Big Freeze | Katatonia; feeling of crushing gravitational weight. | The "Dragon Fight"; the weight of total erasure." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Moros (`grep -cw Moros`: 1).

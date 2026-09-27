@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 14
-readings: 14
+sources: 18
+readings: 18
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -87,3 +87,19 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — ANP, Maxwells Dämon, → Akzeptanz
 
 Among the ANPs of the TSDP section: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] His row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „ANP | Rhys (Caregiver) | Maxwells Dämon | → Akzeptanz" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L494]. Nothing else in the document names Rhys (`grep -cw Rhys`: 2; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — ANP (Caregiver)
+
+His row in its table of thirteen fragments: „ANP (Caregiver) | Rhys | Maxwell’s Demon | Sweating/Feverish hands | Acceptance" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. Nothing else in the document names Rhys (`grep -cw Rhys`: 1; `05-verify-readers.txt`).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Maxwell's Demon, toward acceptance
+
+His row, in a table with no category column: „Rhys,Maxwell’s Demon,Sweating / Feverish hands,Toward Acceptance" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L66]. Nothing else in the document names Rhys (`grep -cw Rhys`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — ANP, and an arc in German words: Anker Akt I → Kudzu Akt II
+
+„ANP | Rhys | Maxwell’s Demon | Sweaty, feverish hands ; Arc: Anker Akt I → Kudzu Akt II" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] — the konsolidiertes Konzept's parenthesis (above) as the whole arc, without the acceptance it leads to (`Acceptance` 0). Nothing else in the document names Rhys (`grep -cw Rhys`: 1; `05-verify-readers.txt`).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Caregiver, the system's maintenance
+
+His row: „Rhys (Caregiver) | Maxwell’s Demon | Feverish hands and excessive sweating. | Signals emotional overhead/system maintenance." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Rhys (`grep -cw Rhys`: 1).

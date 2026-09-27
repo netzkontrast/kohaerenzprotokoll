@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 17
-readings: 17
+sources: 23
+readings: 23
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -106,3 +106,27 @@ Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia 
 ## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — a somatic seed: static on the skin
 
 In the section „OPEN-Q: Post-Vortex & Missing Somatics" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L130] — one of the five whose somatics it calls missing — a seed, a proposal: „Seed-19 Lia: The Static Prickle" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L134]: „"Prickling static" on the skin when system-truths are spoken." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L135] It is not the character bible's somatics (above). Nothing else in the document names Lia (`grep -cw Lia`: 1), and `Flight` stands nowhere in it (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15).
+
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — a seed: phantom resonance, the carrier of somatic pain
+
+One of the four seeds for the missing alters (L79) — a proposal, marked as compatible with a 2026-05-08 canon block, its claim: „Seed-08 Lia’s Phantom Resonance" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L81]. „A searing phantom itch in a limb that was never there, accompanied by sympathetic vibrations in nearby glass." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L81] „Establishes Lia’s role as the carrier of somatic pain." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L81] Its index: „Lia as somatic resonance alter." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L104] The Companion Guide gives the words `Phantom Resonance` to Silas (on his page). Nothing else in the document names Lia (`grep -cw Lia`: 2), and `Flight` stands nowhere in it (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a gap: the somatic profile of creativity
+
+In its somatic gaps, with Isabelle: „Their roles in the "Logic Hack" and "Empathy Exploit" require somatic anchors" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L166]; „Lia needs the somatic profile of creativity" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L166]. Nothing else in the document names Lia (`grep -cw Lia`: 1; `Flight` 0) (C15).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — EP (Ambivalent), and the spatial Riss alone
+
+Her row in its table of thirteen fragments: „EP (Ambivalent) | Lia | Superposition | Bauchreaktionen | Resolve Superposition" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] — the German word as written. The spatial Riss is hers, with no second bearer: „Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78] `Flight` stands nowhere in the document (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15). Nothing else names Lia (`grep -cw Lia`: 2).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Superposition, dissociative drifting
+
+Her row, in a table with no category column: „Lia,Superposition,Dissociative drifting,Leaving Superposition" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L74]. Nothing else in the document names Lia (`grep -cw Lia`: 1; `Flight` 0) (C15).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — EP, a core EP of the first layer
+
+„EP | Lia | Superposition | Ambivalence, sensory blur ; Arc: Leaving the "neither/both" state." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] — no label beside `EP`. Of Layer 1, Cologne: „forcing the creation of the core EPs (Kiko, Lia, Moros)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] Nothing else in the document names Lia (`grep -cw Lia`: 2; `Flight` 0) (C15).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Ambivalent, spatial disorientation
+
+Her row: „Lia (Ambivalent) | Superposition | Spatial disorientation; feeling "stretched." | Marks the struggle to choose a state." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] — spatial in her somatics; the document has no Riss table (`Riss`, `Risse` 0) and no `Flight` (0) (C15). Nothing else names Lia (`grep -cw Lia`: 1; `05-verify-readers.txt`).

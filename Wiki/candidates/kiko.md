@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 18
-readings: 18
+sources: 23
+readings: 23
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -116,3 +116,23 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — EP, Freeze, Planck-Skala
 
 Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia (Ambivalent), Isabelle (Sexualisiert), Moros (Kollaps)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466] Her row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „EP | Kiko (Freeze) | Planck-Skala | → Vertrauen" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L497]. Her label is `Freeze`; `Flight` stands nowhere in the document (`grep -cw Flight`: 0) (C15). Nothing else in the document names Kiko (`grep -cw Kiko`: 2; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a seed: the child's freeze, a temporal Riss
+
+A seed, a proposal: „Seed-03 The Child’s Freeze" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23], „Carrier: Kiko (EP)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23]. „A sudden temporal "Riss" that paralyzes the simulation." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23] Its status line is its claim about the canon: „Maps the TSDP "Freeze" response to the simulation's physics as per the 2026-05-08 Kanon" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23]. Nothing else in the document names Kiko (`grep -cw Kiko`: 1), and `Flight` stands nowhere in it (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — EP (Freeze), the temporal Riss and no other
+
+Her row in its table of thirteen fragments: „EP (Freeze) | Kiko | Planck Scale | Smallness/Cowering | Trust" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. Her Riss is temporal only: „Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78] — no second function, and no `Flight` (`grep -cw Flight`: 0; C15). Nothing else in the document names Kiko (`grep -cw Kiko`: 2).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Planck Scale, toward trust
+
+Her row, in a table with no category column: „Kiko,Planck Scale" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L72], somatic „Making oneself small" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L72], arc „Toward Trust" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L72]. Nothing else in the document names Kiko (`grep -cw Kiko`: 1; `Flight` 0) (C15).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — EP (Freeze), a core EP of the first layer
+
+„EP | Kiko (Freeze) | Planck Scale | Cowering, muscle rigidity ; Arc: Learning systemic trust." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Of Layer 1, Cologne: „forcing the creation of the core EPs (Kiko, Lia, Moros)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] Nothing else in the document names Kiko (`grep -cw Kiko`: 2; `Flight` 0) (C15).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Freeze, trust-collapse
+
+Her row: „Kiko (Freeze) | Planck Scale | Making oneself physically small; catatonic stillness. | Signals core vulnerability and trust-collapse." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Kiko (`grep -cw Kiko`: 1; `Flight` 0) (C15).

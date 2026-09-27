@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 17
-readings: 17
+sources: 23
+readings: 23
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -108,3 +108,27 @@ In neither roster of the TSDP section, ANP (L465) or EP (L466): his row in the t
 ## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — a somatic seed: flashes at the edge of sight, after the Vortex
 
 In the section „OPEN-Q: Post-Vortex & Missing Somatics" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L130] — one of the five whose somatics it calls missing — a seed, a proposal: „Seed-21 Argus: The Peripheral Flash" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L138]: „Visual "flashes" in peripheral vision—monitoring the Risse that no longer need closing." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L139] — after the Vortex, by the section's heading and its own `no longer`. It is not the character bible's Vorschlag (above). Nothing else in the document names Argus (`grep -cw Argus`: 1; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — a seed: hyper-vision, the perceptual alter
+
+One of the four seeds for the missing alters (L79) — a proposal: „Seed-10 Argus’s Hyper-Vision" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L83]. „Seeing the flicker of the universe's refresh rate; ionized air appearing as jagged code-shards in the periphery." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L83] „Represents Argus’s hyper-vigilant perception of the simulation’s flaws." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L83] Its index: „Argus as perceptual alter." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L108] Nothing else in the document names Argus (`grep -cw Argus`: 2; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a gap: the Meta-cognitive Observer needs a body
+
+In its somatic gaps: „As the "Meta-cognitive Observer," Argus needs a distinct physical presence in the Kernwelten to ground the "Watch-Layer" of the simulation." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L167] Nothing else in the document names Argus (`grep -cw Argus`: 1).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — Special, somatic filter open
+
+His row in its table of thirteen fragments: „Special | Argus | Fractals | Open | Constructive Criticism" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] — `Special` for the category the German rosters call Sonder, and his somatic filter `Open`. Nothing else in the document names Argus (`grep -cw Argus`: 1).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Fractals, meta-cognitive detachment
+
+His row, in a table with no category column: „Argus,Fractals,Meta-cognitive detachment,Constructive Criticism" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L80]. Nothing else in the document names Argus (`grep -cw Argus`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — Sonder, the constructive internal critic
+
+„Sonder | Argus | Fractals | Meta-cognition ; Role: Constructive internal critic." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Nothing else in the document names Argus (`grep -cw Argus`: 1).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Meta-Kog, visual fractaling
+
+His row: „Argus (Meta-Kog) | Fractals | Visual fractaling/geometric noise in periphery. | Signals meta-cognitive system analysis." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Among its profile highlights: „Arc: Moving from sterile critique to constructive system-repair." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L51] Nothing else names Argus (`grep -cw Argus`: 2).

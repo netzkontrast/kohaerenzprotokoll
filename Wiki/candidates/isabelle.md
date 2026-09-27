@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 16
-readings: 16
+sources: 22
+readings: 22
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -102,3 +102,27 @@ Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia 
 ## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — a somatic seed: pressure in the chest
 
 In the section „OPEN-Q: Post-Vortex & Missing Somatics" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L130] — one of the five whose somatics it calls missing — a seed, a proposal: „Seed-20 Isabelle: The Phantom Weight" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L136]: „Pressure in the chest, representing the weight of the "Potential Sea."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L137] — `Potential Sea` the document's English name for the Potentialmeer (J100). It is not the character bible's somatics (above). Nothing else in the document names Isabelle (`grep -cw Isabelle`: 1), and `Flight` stands nowhere in it (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15).
+
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — a seed: rigid geometry, the structural architect
+
+One of the four seeds for the missing alters (L79) — a proposal: „Seed-09 Isabelle’s Rigid Geometry" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L82]. „The sensation of every joint in the body locking into a perfect, rigid, non-Euclidean geometry." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L82] „Evokes Isabelle’s role as the system’s structural architect." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L82] Its index: „Isabelle as structural alter." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L106] Nothing else in the document names Isabelle (`grep -cw Isabelle`: 2), and `Flight` stands nowhere in it (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a gap: the Firefighter's urgency
+
+In its somatic gaps, with Lia, set against Lex's rationality (L166): „Isabelle, the "Firefighter," needs the somatic profile of high-intensity urgency." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L166] Nothing else in the document names Isabelle (`grep -cw Isabelle`: 1; `Flight` 0) (C15).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — EP (Sexualized), the sensory Riss only
+
+Her row in its table of thirteen fragments: „EP (Sexualized) | Isabelle | Pauli Exclusion | Sensory bleeding | Vulnerability" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. Her Riss is the sensory one, and the spatial is Lia's alone: „Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78] `Flight` stands nowhere in the document (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15). Nothing else names Isabelle (`grep -cw Isabelle`: 2).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Pauli Exclusion, toward vulnerability
+
+Her row, in a table with no category column: „Isabelle,Pauli Exclusion" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L76], somatic `Sensory` and `bleeding`, the second in the export's doubled quotation marks (L76), arc „Toward Vulnerability" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L76]. Nothing else in the document names Isabelle (`grep -cw Isabelle`: 1; `Flight` 0) (C15).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — EP, processing vulnerability — not among the first layer's core EPs
+
+„EP | Isabelle | Pauli Exclusion | Sensory bleeding ; Arc: Processing vulnerability." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] The first layer of trauma made „the core EPs (Kiko, Lia, Moros)" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] — she is not named there, where the worldbuilding concept counts her in Schicht 1 (above), and the document does not say which layer made her. Nothing else in it names Isabelle (`grep -cw Isabelle`: 1; `Flight` 0; `05-verify-readers.txt`) (C15).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Sexualized, synesthesia and bleeding textures
+
+Her row: „Isabelle (Sexualized) | Pauli Exclusion | Synesthesia; "bleeding" textures on the skin. | Signals the breakdown of vulnerability barriers." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Among its profile highlights: „Arc: Allowing vulnerability in a system built on exclusion." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L50] Nothing else names Isabelle (`grep -cw Isabelle`: 2; `Flight` 0) (C15).

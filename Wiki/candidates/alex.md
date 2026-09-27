@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 17
-readings: 17
+sources: 21
+readings: 21
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -109,3 +109,19 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — ANP, Asymptotische Freiheit, → Wachstum
 
 Among the ANPs of the TSDP section: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] His row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „ANP | Alex (Protector) | Asymptotische Freiheit | → Wachstum" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L493]. Nothing else in the document names Alex (`grep -cw Alex`: 2; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — ANP (Protector)
+
+His row in its table of thirteen fragments: „ANP (Protector) | Alex | Asymptotic Freedom | Hypertonus/Bruxism | Growth" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. Nothing else in the document names Alex (`grep -cw Alex`: 1; `05-verify-readers.txt`).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Asymptotic Freedom, toward growth
+
+His row, in a table with no category column: „Alex,Asymptotic Freedom,Bruxism / High Tension,Toward Growth" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L64]. Nothing else in the document names Alex (`grep -cw Alex`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — ANP, from defensive protection to growth
+
+„ANP | Alex | Asymptotic Freedom | Hypertonus, bruxism ; Arc: From defensive protection to growth." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Nothing else in the document names Alex (`grep -cw Alex`: 1).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Protector, and one of the EP-Protectors
+
+His row, in a table with no ANP/EP column: „Alex (Protector) | Asymptotic Freedom | Hypertonus and bruxism (teeth grinding). | Reflects the strain of defensive growth." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Its section on computational classes puts him with Nyx: „NP-Hard: The mode of the EP-Protectors ( Nyx , Alex )." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L29] — `EP-Protectors`, as the Kernwelten document writes (above), where the rosters above call him ANP; neither of the two lines that name Alex gives him the label ANP (`grep -cw Alex`: 2; `05-verify-readers.txt`).

@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 16
-readings: 16
+sources: 21
+readings: 21
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -111,3 +111,23 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — ANP, Wormholes, → Mediator
 
 Among the ANPs of the TSDP section: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] Her row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „ANP | Selene (ISH) | Wormholes | → Mediator" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L495]. Nothing else in the document names Selene (`grep -cw Selene`: 2; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — Integrator/Inner Self Helper, with no somatic profile
+
+In its analysis of somatic gaps, as a need, not a seed: „Identified as the primary Integrator/Inner Self Helper , Selene is the key pivot for the "Functional Multiplicity" resolution." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L165] „Her lack of a somatic profile is a critical gap" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L165] — where the four documents of its date below give her relaxed hands. Nothing else in the document names Selene (`grep -cw Selene`: 1; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — ANP (ISH), Wormholes alone
+
+Her row in its table of thirteen fragments: „ANP (ISH) | Selene | Wormholes | Relaxed hands | Mediation" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] — Wormholes without the Entanglement Islands the character bible pairs with them (above; `Entanglement Islands` 0). Nothing else in the document names Selene (`grep -cw Selene`: 1; `05-verify-readers.txt`).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Wormholes, the Mediator
+
+Her row, in a table with no category column: „Selene,Wormholes,Relaxing hands,The Mediator" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L68]. Nothing else in the document names Selene (`grep -cw Selene`: 1; `Entanglement Islands` 0).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — ISH, Entanglement Islands alone
+
+„ANP | Selene (ISH) | Entanglement Islands | Relaxed musculature ; Internal Self-Helper and Mediator." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] — Entanglement Islands without the Wormholes the Systemic Architecture Specification, the Companion Guide and the Editorial Style Dossier write alone (`Wormholes` 0). Nothing else in the document names Selene (`grep -cw Selene`: 1; `05-verify-readers.txt`).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — ISH, internal mediation
+
+Her row: „Selene (ISH) | Wormholes | Immediate relaxation of the hands/shoulders. | Signals internal mediation/inter-fragment links." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Selene (`grep -cw Selene`: 1; `Entanglement Islands` 0).

@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 19
-readings: 19
+sources: 24
+readings: 24
 conflict: C10
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
 gathered: "2026-09-24"
 ---
 
@@ -124,3 +124,23 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — EP, CPT-Verletzung, and knuckles that are Kael's
 
 Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia (Ambivalent), Isabelle (Sexualisiert), Moros (Kollaps)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466] Her row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „EP | Nyx (Fight) | CPT-Verletzung | → konstruktiver Schutz" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L496]. The document's one knuckle is Kael's body, not Nyx's, in no chapter: „Der somatische Filter (Kaels physischer Körper im Vordergrund: blutende Knöchel, Ozon-Geruch, Time-loss + Zittern) sichert dies." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535] (C10). Nothing else in the document names Nyx (`grep -cw Nyx`: 2; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a seed: the staccato of the Fight-EP
+
+A seed, a proposal, marked compatible with the 2026-05-08 canon — its claim, recorded, not applied: „Seed-02 Staccato of the Fight-EP" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L22], „Carrier: Nyx (EP)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L22]. „The prose dissolves into aggressive, clipped syntax." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L22] Kael feels „the sharp smell of ozone, and an overwhelming urge to strike" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L22]. Its status line: „Refutes Fusion; validates the distinct, non-negotiable agency of the 'Fight' part" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L22]. No knuckles in the seed (C10). Nothing else in the document names Nyx (`grep -cw Nyx`: 1; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — EP (Fight), the kinetic Riss
+
+Her row in its table of thirteen fragments: „EP (Fight) | Nyx | CPT Violation | Adrenaline/Tunnel vision | Constructive Protection" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. The first of the Risse: „Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78]. Nothing else in the document names Nyx (`grep -cw Nyx`: 2).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — CPT-Violation, and the EPs' example
+
+Her row, in a table with no category column: „Nyx,CPT-Violation,Adrenaline / Tunnel vision,Constructive Protection" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L70]. She is the guide's example of an EP: „The system is kept in place by a phobic wall between the ANPs (Apparently Normal Parts, like Lex) and the EPs (Emotional Parts, like Nyx)." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L86] The bleeding knuckles it names are „the protagonist’s bleeding knuckles" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L39], not hers (C10). Nothing else in the document names Nyx (`grep -cw Nyx`: 2; `05-verify-readers.txt`).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — EP (Fight), constructive protection
+
+„EP | Nyx (Fight) | CPT-Violation | Adrenalin, tunnel vision ; Arc: Constructive protection." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Nothing else in the document names Nyx (`grep -cw Nyx`: 1).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Fight, NP-Hard, and the knuckles in a sample sentence
+
+Her row: „Nyx (Fight) | CPT-Violation | Adrenaline spikes and tunnel vision. | Warns of imminent aggressive defense." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Her class: „NP-Hard: The mode of the EP-Protectors ( Nyx , Alex )." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L29] The cheat sheet gives her a sample sentence — diction for the writer, in no chapter: „Nyx (NP-Hard / Paratactic): "The air is hot. My knuckles bleed. I see the rift. I move now. No safety. Only the strike."" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L34] — the knuckles, and heat, in her voice (C10). She is the other end of Lex's navigation mandate (L34), and in Act II a sentence may „end in Nyx’s staccato parataxis" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L58].

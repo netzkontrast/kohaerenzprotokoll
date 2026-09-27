@@ -4,7 +4,7 @@ subject: the Flight riss — Lia with Isabelle, or with Kiko
 kind: one row of the riss table, two pairs of bearers in canon-era sources, two of them of one date and five of another
 status: open
 first_seen: "2026-09-25"
-sources: 9
+sources: 10
 pages: ["risse", "kiko", "lia", "isabelle"]
 ---
 
@@ -71,3 +71,10 @@ The konsolidiertes Konzept's pair, on its date, with the word `implizit` the oth
 „(Flight, Lia/Isabelle)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L682], the spatial row; [[isabelle|Isabelle]] carries the sensory row too, „Isabelle (Sex)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L684]; [[kiko|Kiko]] is Freeze only, „Kiko (Freeze)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L681]. KW2's Risse repeat the pair: „spatiale Risse (Lia/Isabelle-Trigger)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L524].
 The roster's EP labels are Fight, Freeze, Ambivalent, Sexualisiert and Kollaps (L404–L408); `Flight` stands once, in the table's parenthesis, and `implizit` 0 times.
 Row 2's pair, in row 2's words, on its date — the table the master report (row 8) marks `implizit`, here unmarked.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Lia alone on the spatial Riss — no second bearer, and no `Flight`.**
+„Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78]
+The roster's EP labels are Fight, Freeze, Ambivalent, Sexualized and Collapse (L51); Lia's row: „EP (Ambivalent) | Lia | Superposition | Bauchreaktionen | Resolve Superposition" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. Kiko's Riss is temporal only and Isabelle's sensory only; `Flight` stands 0 times (`05-verify-readers.txt`). The document calls itself the binding rulebook (L88) — recorded, not applied.
+On neither side: the part every row shares — Lia carries the spatial riss — with no second bearer, neither Kiko (rows 1, 6, 7) nor Isabelle (rows 2–5, 8); Isabelle keeps one riss, the sensory, and Kiko one, the temporal.
