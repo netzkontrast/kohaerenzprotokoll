@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -94,3 +94,7 @@ Nothing else in the document names Isabelle (`grep -cw Isabelle`: 1), and `Fligh
 ## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — an EP, in the first person, storyform A inside Kael
 
 In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[dual-storyform-hintergruende-md.md:L282], under „Default-Modus (Hard-Routing per POV):" ^[dual-storyform-hintergruende-md.md:L286], Isabelle is one of the EPs, narrated in the first person: „EPs (Nyx, Kiko, Lia, Isabelle, Moros) — 1.Person" ^[dual-storyform-hintergruende-md.md:L294], with the dominant storyform „A (Kaels Innenwelt)" ^[dual-storyform-hintergruende-md.md:L294]. Nothing else in the document names Isabelle (`grep -cw Isabelle`: 1).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — EP, Sexualisiert, Pauli-Exclusion
+
+Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia (Ambivalent), Isabelle (Sexualisiert), Moros (Kollaps)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466] Her row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „EP | Isabelle (Sexualisiert) | Pauli-Exclusion | → Verletzlichkeit" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L499]. The correlate is in English: the other readings on this page that give it write `Pauli-Ausschluss`, which stands 0 times here (`grep -cw Pauli-Ausschluss`: 0). Her label is `Sexualisiert`; `Flight` stands nowhere in the document (`grep -cw Flight`: 0) (C15). Nothing else in the document names Isabelle (`grep -cw Isabelle`: 2; `05-verify-readers.txt`).

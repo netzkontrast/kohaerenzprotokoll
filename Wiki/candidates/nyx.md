@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: C10
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -120,3 +120,7 @@ The knuckles of C10 are not here (`grep -cw Knöchel`: 0); her body is the clenc
 ## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — an EP, in the first person, storyform A inside Kael
 
 In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[dual-storyform-hintergruende-md.md:L282], under „Default-Modus (Hard-Routing per POV):" ^[dual-storyform-hintergruende-md.md:L286], Nyx is one of the EPs, narrated in the first person: „EPs (Nyx, Kiko, Lia, Isabelle, Moros) — 1.Person" ^[dual-storyform-hintergruende-md.md:L294], with the dominant storyform „A (Kaels Innenwelt)" ^[dual-storyform-hintergruende-md.md:L294]. Nothing else in the document names Nyx (`grep -cw Nyx`: 1).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — EP, CPT-Verletzung, and knuckles that are Kael's
+
+Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia (Ambivalent), Isabelle (Sexualisiert), Moros (Kollaps)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466] Her row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „EP | Nyx (Fight) | CPT-Verletzung | → konstruktiver Schutz" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L496]. The document's one knuckle is Kael's body, not Nyx's, in no chapter: „Der somatische Filter (Kaels physischer Körper im Vordergrund: blutende Knöchel, Ozon-Geruch, Time-loss + Zittern) sichert dies." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535] (C10). Nothing else in the document names Nyx (`grep -cw Nyx`: 2; `05-verify-readers.txt`).

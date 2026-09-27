@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-24"
 ---
 
@@ -107,3 +107,7 @@ Nothing else in the document names Selene (`grep -cw Selene`: 1).
 ## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — a K1 ANP, in the first person, storyform A
 
 In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[dual-storyform-hintergruende-md.md:L282], under „Default-Modus (Hard-Routing per POV):" ^[dual-storyform-hintergruende-md.md:L286], Selene is one of the ANPs the document files under the Kohärenz-Kernel (J98), narrated in the first person: „ANP-K1 (Kael, Lex, Alex, Rhys, Selene) — 1.Person" ^[dual-storyform-hintergruende-md.md:L293]; the row's dominant storyform is A (the same line). Nothing else in the document names Selene (`grep -cw Selene`: 1).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — ANP, Wormholes, → Mediator
+
+Among the ANPs of the TSDP section: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] Her row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „ANP | Selene (ISH) | Wormholes | → Mediator" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L495]. Nothing else in the document names Selene (`grep -cw Selene`: 2; `05-verify-readers.txt`).
