@@ -312,9 +312,12 @@ are `\*\*Storypoint\*\*`; a cell is quoted by its value, checked with `--find`.
 `Kap`, no count, no Kap 0 or Kap 40.
 
 **Heat and cold.** Heat is AEGIS' — the Landauer heat spike, the server sector's temperature; ozone once,
-Beat 1's sensory anchor (L278). Cold twice: the Konstrukt-Stadt's sectors fade in an „eiskalten,
-fraktalen Zerfall" ^[L276], and Beat 5 ends in „Ein überraschend kühler, klarer Luftzug" ^[L306].
-`warm` 0; `Wärme` once, as „Abwärme".
+Beat 1's sensory anchor (L278). Cold four times: the Konstrukt-Stadt's sectors fade in an „eiskalten,
+fraktalen Zerfall" ^[L276], Beat 5 ends in „Ein überraschend kühler, klarer Luftzug" ^[L306], and
+`kalten` (L91) and `Kälte` (L117) stand once each. `warm` 0; `Wärme` once on its own (L115) and twice
+in `Abwärme` (L207, L304). *Corrected 2026-09-27: this paragraph first said cold twice and `Wärme` only
+as „Abwärme" — `05-verify.txt` had counted `Wärme` standing alone once and the census misread its own
+count, and `kalten` and `Kälte` were not among the forms counted. A reader found all three.*
 
 **Names it does not write.** No `KW1`–`KW4`, `Kernwelt`, `Kairos`, `Sophia`, `Erasure-Pol`, `734`,
 `Genesis`, `Flight`, `Knöchel`, `Do-er`, `Nyx`, `Kiko`, `Lex`, `Alex`, `Silas` or `Oblivion`. It
