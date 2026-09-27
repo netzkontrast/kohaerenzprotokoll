@@ -50,7 +50,7 @@ AEGIS' erasure (its L110), cold and heat are the Kernwelten's prose styles (L431
 of Juna's traces is thermal (L310).
 The Systems Narrative Analysis, of 2026-05-08, states no rule either: warmth is Juna's (its L22, L60) and
 ozone AEGIS' (L63), as the lock has them, but the ozone is not cold, heat spikes and heat shimmer are the
-system's (L49, L96), and its one cold is Oblivion's Wärmetod (L142).
+system's (L49, L96), and its one cold is [[oblivion|Oblivion]]'s Wärmetod (L142).
 [[landauer-signatur]] has each reading; C11 has the record.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08

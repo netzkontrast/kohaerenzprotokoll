@@ -1,0 +1,443 @@
+{
+  "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+  "drive_id": "1GapehAVH42pHzzqpJayfCnvth3HDJ5Kk_oETjgt_LJo",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; readings and record entries written by three Claude readers in the container from Plan/runs/systems-narrative-analysis-the-coherence-protocol-kanon-2026/readings-brief.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 122,
+    "decisions": 121,
+    "decided_by_lookup": 94,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A seed catalogue: it proposes material („Lever:“) for things the wiki pages — the worlds, the Risse, the Vortex, the Schrein, the alters — and names in English what the wiki pages in German (Potential Sea, Functional Multiplicity, Algorithmic Melancholy, Genesis Crisis), each placed on the German page by the sentence (J100). Its unmatched candidates are its seed titles, its Dramatica labels and field names, or proposals it marks as its own; the Echowald (KW2) is named four times and defined nowhere — a place in KW2 or KW2's name, it does not say (not_promoted).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        11,
+        24,
+        32,
+        40,
+        42,
+        45,
+        46,
+        49,
+        52,
+        63,
+        71,
+        93,
+        111,
+        116,
+        125,
+        128
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "the Do-er of Storyform B, a tragically limited architect and Flawed God, terminating at the Vortex"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        125,
+        128,
+        141
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "the Vortex's second point, a sigh at 40 Hz before AEGIS terminates"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        11,
+        23,
+        50,
+        52,
+        127,
+        130,
+        169
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "Code-Parasites to AEGIS, never fused, and somatic seeds for the five left open"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        130,
+        138,
+        139
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "a somatic seed: flashes at the edge of sight, after the Vortex"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        19,
+        21,
+        150
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "the fifty-page rule, with the acronym expanded as a technique"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        11,
+        78,
+        80,
+        82
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "antibodies in KW1, uncounted and unnamed"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        22,
+        49,
+        58,
+        60,
+        63,
+        96,
+        142
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "warmth Juna's, ozone AEGIS' and not cold, heat the system's, and cold Oblivion's"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        130,
+        136,
+        137
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "a somatic seed: pressure in the chest"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        11,
+        22,
+        46,
+        52,
+        54,
+        56,
+        58,
+        59,
+        60,
+        63,
+        74,
+        104,
+        118,
+        149
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "the IC of A, never physical, an effect of light, frequency and warmth; no appearance placed"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        11,
+        26,
+        28,
+        32,
+        38,
+        49,
+        65,
+        67,
+        71,
+        98,
+        100,
+        109,
+        114,
+        118,
+        126,
+        127,
+        128
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "the Be-er of Storyform A, a Gödel Sentence in B, and the choice of multiplicity in the Vortex"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        11,
+        32,
+        63,
+        74,
+        78,
+        82,
+        83,
+        84,
+        85,
+        124,
+        126
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "in English, `Core-Worlds (KW1-4)` as labs; KW1 sterile, KW2 a trauma locus, and the two in one place at the Vortex"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        11,
+        32,
+        80,
+        81,
+        82,
+        85,
+        96,
+        124,
+        126
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "KW1 by number only: sterile light and disinfectant, paranoid transit corridors, heat shimmer, white noise at the Vortex"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        30,
+        32,
+        47,
+        49,
+        60,
+        63,
+        89,
+        92,
+        94,
+        96,
+        124,
+        142
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "heat spikes and heat shimmer as Landauer's, ozone as AEGIS', in separate seeds"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        130,
+        134,
+        135
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "a somatic seed: static on the skin"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        11,
+        69,
+        70,
+        71,
+        109,
+        115,
+        116
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "the interface AEGIS works through, in use, and never called a Guardian"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        11,
+        26,
+        33,
+        35,
+        65,
+        73,
+        74,
+        126
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "an interface through which AEGIS handles memory, never called a Guardian"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        11,
+        23,
+        38,
+        52,
+        118,
+        127,
+        132,
+        151
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "Functional Multiplicity, the required resolution, chosen in the Vortex; fusion forbidden"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        130,
+        142,
+        143,
+        169
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "a somatic seed: the Absolute Cold, numb where trauma was"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        11,
+        15,
+        60,
+        128,
+        137
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "in English, the `Potential Sea` around the `Coherence Island`, which the Risse let in"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        15,
+        21,
+        28,
+        49,
+        71,
+        74,
+        107,
+        116,
+        139
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "decoherence events where the Potential Sea breaks in, made by AEGIS' deletion and blamed on Kael"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        125,
+        130,
+        140,
+        141
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "a somatic seed: the Gamma hum in the bones, no warmth"
+    },
+    {
+      "page": "vergessener-schrein",
+      "lines": [
+        11,
+        33,
+        35,
+        85,
+        98,
+        105,
+        107
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "a fragment Kael sees, and a warm clearing outside space-time that a Riss reveals"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        11,
+        24,
+        116,
+        118,
+        120,
+        122,
+        124,
+        125,
+        126,
+        127,
+        128,
+        130
+      ],
+      "attribution": "the Systems Narrative Analysis",
+      "note": "one Vortex in Ch35-36, five points in an order of its own, and B's handover to A"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      11,
+      24,
+      26,
+      40,
+      54,
+      65,
+      76,
+      78,
+      87,
+      96,
+      98,
+      109,
+      118,
+      120,
+      122,
+      124,
+      128,
+      149
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C4",
+    "C6",
+    "C7",
+    "C8",
+    "C11"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [
+    "J104",
+    "J105",
+    "J106"
+  ],
+  "decided_by_existing_rules": "J70 (Mnemosyne Interface, LogOS Interface on their bearers); J86 (Kael ↔ AEGIS); J76–J78 (Genesis Crisis not the Genesis); J90 (the Vortex's points placed by what they state); J53/J62/J81 (heat and ozone); J100 (English names); J5 and J8 (Dekohärenz, Ende der Kohärenz not kohaerenz); J28/J39 (Simulations-Inkonsistenz not ueberwelt); J69 (Ontological Exploit near alex, a substring)",
+  "records_read_and_not_changed": {
+    "C5": "`Möglichkeits-Garten`, `Garten`, `garden`, `KW4` 0",
+    "C9": "`Konstrukt-Stadt`, `Stadt`, `city` 0",
+    "C10": "`Knöchel`, `knuckles` 0",
+    "C12": "`734`, `Trennungsprotokoll`, `beat` 0; the Genesis Crisis has no beats",
+    "C14": "`person`, `POV`, `voice`, `ich` 0",
+    "C15": "`Flight`, `Kiko` 0",
+    "Q4": "`Wächter`, `Wächterin` 0"
+  },
+  "not_read_although_looked_up": {
+    "verschraenkungs-insel": "„Coherence Island“ (L15) is the classical zone AEGIS keeps, not the Überwelt's Kap-33 room",
+    "goedel-gambit": "`Gambit` 0; its „Gödel Sentence“ (L67) is Kael as IC-B, not the climax move",
+    "truth-rotation": "`Truth-Rotation`, `Rotation` 0; the B→A handover is a storyform ending"
+  },
+  "not_promoted": [
+    "Echowald (KW2) — L63, L84–85; a place or KW2's name, not said",
+    "Coherence Island — L15, L60; the classical zone, no page",
+    "Resonanz-Spitze, Code-Parasites, Zensur-Loop, Quantum-Locus — seed material (L46, L52, L74, L107)",
+    "The Hard No — four constraints (L19–24)",
+    "Gamma-Frequenz 40Hz — the Vortex's second point and Silas' seed (L125, L141)"
+  ],
+  "sweep": {
+    "hits": 3,
+    "readings": 0,
+    "occurrences": 3,
+    "note": "Genesis L52 (Genesis Crisis, J78), Kohärenz L125 (a cited phrase), Simulation L76 (a heading, J39)"
+  },
+  "internal_tension": "„Driver-Pivot“ (L120) where the Dual-Storyform background document's correction has no driver flip; „AEGIS terminates“ (L128) against Algorithmic Melancholy as a lasting state (L125); deletion that „cools“ the system (L49) where every read source has erasure make heat.",
+  "readers_noticed": "The Vortex's five points follow neither beat list — heat spike first, Kael's choice fourth. LogOS and Mnemosyne are interfaces AEGIS works through, never Guardians, on a date three other sources call LogOS old or absorbed. Functional Multiplicity is chosen in the Vortex (L127), where others place it in Kap 33 or Kap 39. The five alters' somatic seeds differ from the character bible's. The Vergessener Schrein is a warm clearing outside space-time, not a KW2 trauma site.",
+  "baseline_moved": true,
+  "retrieval": "PageRank recall@8 0.644 → 0.654; only C11 moved, 0.4 → 0.6"
+}
