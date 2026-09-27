@@ -482,9 +482,9 @@ German compounds that nothing has tested. The fixture is nearly free: every
 the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
 author's delegation, set the reach of a rule that also passes a plural ending:
-`pairs.RULES["plural"]` decides 56 <!--state:pairs.plural_correct--> of
-86 <!--state:pairs.labelled--> pairs where `fold()` decides
-47 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
+`pairs.RULES["plural"]` decides 57 <!--state:pairs.plural_correct--> of
+89 <!--state:pairs.labelled--> pairs where `fold()` decides
+48 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
 pages joined and 28 new merges across all 14 candidate lists, each a singular and
 its plural. It is a ledger row and the rule a model run asks first;
 reconciliation still uses `fold()` alone. Whether `fold()` adopts it is the
@@ -631,7 +631,7 @@ never a reading or a number.
 6. ~~`dual-storyform-hintergruende-md`~~ — read 2026-09-27, document 30, before item 5 on the
    author's „das übernächste"; it names Kap 1, 13, 28, 33 and 35–39, no Kap 22 and no Kap 40.
 
-Four whole-novel plans from before May 2026 are in more than half the tables and marked *in most
+Four whole-novel plans from before May 2026 — read 2026-09-27, documents 40–43 — are in more than half the tables and marked *in most
 chapters* there — `monstergruppe-primzahlen-plot-blueprint`,
 `hard-sf-roman-outline-dkt-physik-cosmic-horror`,
 `dramatica-storyform-synthese-aegis-analyse-2`,
@@ -704,7 +704,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   71 <!--state:sweep.decided--> hits, 40 <!--state:sweep.readings--> of them
+   92 <!--state:sweep.decided--> hits, 47 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -780,7 +780,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 35 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 39 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -919,7 +919,35 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the last eight canon-era documents reconciled
+## Next document — the four pre-2026 plans reconciled
+
+**Documents 40–43 are done, 2026-09-27**, on the goal „ingest the next sources": the four whole-novel
+plans *Reading suggestion — next* named after the canon era. `reconcile-41` to `reconcile-44` are the
+records. **No page**; J107 from document 40, J108–J111 from 41–43; readings on 31, 43, 43 and 12 pages,
+every chapter page from Kap 1 to Kap 39 from 41–43, `plot.md` (fourteen plans now count no Vortex), entries in every record but C13 and C15.
+- **Retrieval** 0.644 → 0.660, C11 and C4 up.
+- **A usage limit stopped six readers mid-run.** Their finished files were checked and committed; the
+  rest was redone. **The author, 2026-09-27: every subagent runs on Sonnet** — the readers after that
+  did, and their files passed `quotes.py` as the others did.
+- **Two process traps the readers found**: a straight `"` in prose between two „…" quotations makes
+  `quotes.py` read everything between them as one quotation; and a chapter link written as
+  `[[../chapters/kap-35|…]]` points at no page — chapter pages are linked `[[kap-35|…]]`.
+- **Noticed, no record holds it:** in the Hard-SF-Outline Silas, the Coheron-Echo, is a freezing
+  (L108), where nearly every source gives Juna's echo warmth (on `hitze-polaritaetsregel`, not in C11);
+  the Ultra-Plot calls both Silas and Rhys „Pfleger" and has Kael *be* AEGIS in Kapitel 35 (C3); the
+  Primzahl-Blueprint alone lets the alters fuse (Kapitel 27), against every other read source's „no
+  fusion"; the Hard-SF-Outline and the Ultra-Plot both pair five Guardians with four worlds, as the two
+  2025 documents do (C6 — the author's five stands, and the pairing is Q5).
+
+Next, by `chapter_sources.py across`, the unread documents in most chapter tables:
+`kohaerenz-protokoll` (2025-04-27, 18 chapters), `duale-storyform-synthese-kohaerenz-protokoll`
+(2026-04-28, 17), `dramatica-storyform-synthese-aegis-analyse` (2026-04-30, 15 — the earlier run of
+document 40's report, check `duplicates.py` first) and `m-als-fundament-der-simulation` (2025-04-26, 15,
+beside the Primzahl-Blueprint of its date). Four of the ten 2026-09-25 scans are still unread:
+`an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, `charakter-kompilation-fuer-kohaerenz-protokoll`,
+`ki-prompt-analyse-hard-problem-of-consciousness`, `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`.
+
+### Previous document — the last eight canon-era documents reconciled
 
 **Documents 32–39 are done, 2026-09-27**, on the goal „ingest the next sources": the eight canon-era rows of
 2026-05-08 that were still unread, all English. Each has its own candidate list, census and note;
