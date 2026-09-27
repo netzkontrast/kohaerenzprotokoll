@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 15
+sources: 17
 pages: ["aegis"]
 ---
 
@@ -144,3 +144,14 @@ The Dramatica lock-in's side, Do-er (row 2), in Universe, on the date the charac
 „Kaels innere Trägheit (Inertia) und sein Be-er Approach in Storyform A kontrastieren scharf mit seiner transformierten, unaufhaltsamen Durchschlagskraft in Storyform B." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L93] For AEGIS, the Driver: „Während der gesamten Storyform B war AEGIS der aktive, diktierende Motor (Action)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L265]
 `Do-er` stands 0 times and `Be-er` once (L93). Its other two `Approach` are storypoint names, not AEGIS' dynamic: the Issue of Storyform B's OS, „Approach vs. Attitude (Die Methodik der Auslöschung)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L201], and Kael's modules acting in a seed of that OS (L205; `05-verify-readers.txt`). Its verdicts are its own, recorded, not applied.
 On no row for AEGIS, a week before the lock-in of 2026-05-07; Kael's Be-er in A, which both rows give him. The author decides (decision 006).
+
+## 2026-09-27 — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese
+
+**No Approach for AEGIS — its MC Approach row is Kael's in both storyforms, since Kael, not AEGIS, is this document's MC of B.**
+„**Approach: Be-er** — Werk-Beleg: Die primären Konfliktlösungen finden in den „Kernwelten“ […] statt." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L77] for Storyform A; „**Approach: Do-er** — Werk-Beleg: Die Infiltration von AEGIS in Akt 3 und das aktive Setzen der Gödel-Falle sind hochgradig physisch-aktive Handlungen." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L127] for Storyform B — both Kael's, since „**MC (Main Character):** Universe (Situation) — getragen von Kael." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L118] AEGIS holds B's IC slot here (L119), not its MC.
+`Do-er` stands 3 times and `Be-er` 4, all of them Kael's (`Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`). On no row: this document does not give AEGIS the MC-B slot at all, so the Approach this record tracks has no bearer here. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**No Approach for AEGIS either — an earlier run of the same date's Dramatica-Synthese, and the word does not occur in it at all.**
+It gives AEGIS the MC-B slot by test — „Die erste Hypothese verortet AEGIS im Main Character Throughline mit dem Domain Universe" ^[dramatica-storyform-synthese-aegis-analyse.md:L35] — but names no Approach for that slot: `Approach`, `Do-er` and `Be-er` all stand 0 times in it (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`), the same absence as its sibling document `dramatica-storyform-synthese-aegis-analyse-2` (row above), on the same date. On no row: two documents of one date give AEGIS the MC-B slot and neither gives it a Dramatica Approach. The conflict stays open.

@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 27
-readings: 27
+sources: 28
+readings: 28
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -215,6 +215,13 @@ Twice, in English, as a seed's `Carrier` (`Component 734` 2, `Komponente` 0; `05
 Once, in English (`Component 734` 1, `Komponente` 0; `05-verify-readers.txt`); J101 places it here by the sentence. The third beat of the „Genesis-Crisis (3-Beat Sequence)" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25], after the Separation Protocol (L28):
 „Component 734: The feeling "I" is functionalized into Component 734 (the precursor to Kael), while the rationalizing "I" establishes AEGIS as the guardian of the severed parts." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29]
 So the component is the feeling self, functionalised after the separation, and it precedes Kael rather than being him — the worldbuilding concept's Kael grown from 734, not the philosophischer Bericht's Kael the component. It names no designation, no dwelling and no chapter (`Kap`, `Ch` 0). Conflict C12.
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — `T-734` as Kael's own trauma, never the component's designation (J112)
+
+A research report that cites a corpus it does not contain — recorded, not applied.
+**Not a name for the component — a label for Kael's core trauma, written `T-734`.** „Kael geht im Verlauf der ersten 13 Kapitel zunehmend der Raum für Vermeidungsstrategien (Options) aus, sich vor seinem Kern-Trauma (T-734) zu verstecken." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L83] „Kael weigert sich bis zur letzten Konsequenz (Kapitel 35/36), sein Trauma (T-734) als bloße „Datenkorruption“ von AEGIS löschen zu lassen." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L125]
+**And a gap the document names in itself.** „Kaels „Origin Trauma“ (T-734) bleibt als kausaler Anker logisch teils undefiniert." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L33]
+Per J112, `T-734` is this source's own sense of the number — Kael's core trauma, a fragment his Optionlock protects — and is placed here as that sense, never as a second name of the component this page holds: the document never writes `Komponente 734` or `Komp 734` (`Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`), and does not relate `T-734` to a designation, a dwelling or a Genesis beat.
 
 ## Where the sources differ
 

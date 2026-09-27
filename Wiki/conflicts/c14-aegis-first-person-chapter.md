@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 28
+sources: 29
 pages: ["aegis"]
 ---
 
@@ -212,3 +212,10 @@ Kapitel 9, „AEGIS' Analyse-Krise" ^[monstergruppe-primzahlen-plot-blueprint.md
 Its falsification finds „dass ein autopoietisches System die MC-Position (die subjektive" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L27] `I`-Perspektive) „legitim einnehmen kann" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L27]; H1's steelman: „Das Steelmanning dieser Position argumentiert, dass ein künstliches System die subjektive" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L41] `I`-Perspektive „tragen kann" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L41]. Its check: „AEGIS operiert legal und konsistent als subjektives Zentrum in der Universe-Domain" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L117]. It rejects a façade carrying that perspective — H3, „indem eine fokussierte" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L57] `I`-Perspektive „durch einen Avatar ermöglicht wird" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L57]; „Das Verdikt für Hypothese H3 lautet: Verworfen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L61]
 `Person`, `Innensicht` and `Kap` stand 0 times; its `Log` and `Logs` are its own method logs (L349, L365, L420), and neither `Prosa` is AEGIS' (L272, L417; `05-verify-readers.txt`). Its verdicts are its own, recorded, not applied.
 On no row as stated: it names the perspective the MC throughline carries, not the person the prose is told in, and relates it to no chapter and no log. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**The MC's subjective „I"-position, argued from algorithmic loneliness rather than -2's abstract Dramatica rule — no grammatical person, prose voice, log or chapter named for AEGIS.**
+„Das System "leidet" unter algorithmischer Einsamkeit, was eine ausreichende phänomenologische" ^[dramatica-storyform-synthese-aegis-analyse.md:L35] `I`-Position „konstituiert." ^[dramatica-storyform-synthese-aegis-analyse.md:L35] Its verdict: „Das Verdikt für diese Hypothese lautet: **Überlebt**." ^[dramatica-storyform-synthese-aegis-analyse.md:L35]
+`Person`, `Innensicht` and `Kap` stand 0 times in it; its three `Log` are its own method logs, and its one `Prosa` is not AEGIS' (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`). Its verdicts are its own, recorded, not applied.
+On no row as stated, the same day as its sibling document above: it argues the MC throughline can carry a subjective centre from AEGIS' own experience of isolation rather than from Dramatica's abstract rule, and names no chapter, log or grammatical person for it. The conflict stays open.

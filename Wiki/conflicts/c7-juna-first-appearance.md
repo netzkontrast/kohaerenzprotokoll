@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 33
+sources: 35
 pages: ["juna"]
 ---
 
@@ -297,3 +297,15 @@ Nearest the canon-era rule against describing her — never a scene — but for 
 „sie wird nie physisch greifbar oder visuell detailliert beschrieben, sondern existiert ausschließlich über ihre Wirkung" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L141]; in the climax, „In allen drei Layern wird die Regel eingehalten, dass Juna niemals physisch beschrieben wird." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L316] Her seeds are placed in no chapter; the first: „Im ersten Szenen-Keim manifestiert sich Junas Präsenz in einem durch AEGIS hochgradig gesperrten Bereich." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L133] — a presence, not an appearance, and a proposal.
 `Kap` stands 0 times and `Kapitel` twice, both `Kapitel 35–36` for the Vortex (L33, L270), where her three layers act in Beats 2, 3 and 4 by effect (L313–L316) and „Kael und Juna überdauern den Kollaps intakt." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L304] (`05-verify-readers.txt`).
 Neither Kap 33 nor Kap 38: a rule of rendering, eight days before the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese
+
+**No appearance placed — her nature left open, as this document's own claim about a corpus it does not contain.**
+„Junas ontologische Natur schwankt zwischen externer Anomalie und exiliertem Ich-Anteil." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L32] The document names no chapter for her (`Kap` and `Kapitel` never with her name; `Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: this is the open-nature question C7's companion asks, not a placement, eleven days before the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**No appearance placed — never physically described, outside the quad in Storyform B, hidden in a Leech-Lattice orbifold.**
+„Juna wird konsequent nicht physisch anthropomorphisiert." ^[dramatica-storyform-synthese-aegis-analyse.md:L63] In B, „Sie existiert […] strukturell außerhalb der Dramatica-Quad, um als Entanglement Witness und Zero-Knowledge Verifier zu fungieren." ^[dramatica-storyform-synthese-aegis-analyse.md:L27]
+`Kap` stands 0 times of her (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`). The same rule of rendering as its sibling document `dramatica-storyform-synthese-aegis-analyse-2` (row above), on the same date. Neither Kap 33 nor Kap 38. The conflict stays open.

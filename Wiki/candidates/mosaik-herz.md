@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -86,3 +86,10 @@ Neither the beat nor the place: the bearer cell of Juna's throughline, the IC of
 
 **A third reading — neither the Kap-11 beat nor the Kap-34 place alone, but the product of both.** Kapitel 34 is itself titled „Das Mosaik-Herz (Synthese)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129] (J9 — a title, so recorded here for what the chapter's own text adds beyond it): „Die zersplitterten Alters und die gerettete Information formen das „Mosaik-Herz“." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129] It is not a place Kael enters or a beat of acceptance, but what results — the fused alters (Kapitel 31's Wir-Geflecht) together with Juna's essence, saved from erasure in Kapitel 33 (^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127]) — see [[multiplizitaet|Multiplizität]], [[juna|Juna]].
 It is also where the two kernels stop opposing each other: „Die Dual-Kernel-Theorie wird zur gelebten Erfahrung." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129] „Ordnung (K1) und Entropie (K0) existieren simultan in perfekter Balance." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129] No other read source makes it a chapter's own title, and none places it after Kapitel 33 rather than before a Vortex it does not name (`Vortex` 0).
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — Kapitel 11's acceptance, Kapitel 32's integration, and a fourth sense: one of thirteen alter names in its corpus inventory
+
+A research report that cites a corpus it does not contain — recorded, not applied.
+**Kapitel 11, an acceptance of the Alpha-Logik's rigidity — the Kap-11 beat, corroborated.** „Die Überwindung der starren Alpha-Logik durch die Akzeptanz des „Mosaik-Herzens“ in Kapitel 11." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L101]
+**Kapitel 32, alongside Kael/M's birth.** „Die explizite Geburt des synthetisierten Wesens „Kael/M“ in Kapitel 32 und die Integration des Mosaik-Herzens belegen unbestreitbar einen radikalen inneren Wandel." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L96] A third chapter for this page, where the strukturierter Outline names Kap 11 and Kap 34 (`Open`, above).
+**A fourth sense — its own corpus inventory names Mosaik-Herz as one of thirteen alter names, not a place or a beat.** „13 Alters/Fragmente benannt (Alpha, Mosaik-Herz, Schatten, T-734, K-J Vektor etc.)." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L32] This is the document's claim about a source it does not contain (see `alters`, `Q3`), and no other read source treats `Mosaik-Herz` as an alter's name rather than a place or a state reached.

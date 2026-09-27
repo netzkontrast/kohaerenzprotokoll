@@ -1,0 +1,76 @@
+entropie: grep -c 'Entropie-Architektur' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+entropie: grep -c 'Bedingung für Ereignisse' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+dkt: grep -c 'Giannakopoulos' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+dkt: grep -c 'Coheron' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+dkt: grep -c 'Erason' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+dkt: grep -c 'PAL' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+kohaerenz-kernel: grep -c 'glaubt' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+kollaps-kernel: grep -c 'Erason' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+landauer-signatur: grep -c 'Ozon' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+landauer-signatur: grep -c 'Kap 6' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+landauer-signatur: grep -c 'Kap 36' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+hitze-polaritaetsregel: grep -c 'Polarität' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+hitze-polaritaetsregel: grep -c 'Juna' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+13
+moonshine-link: grep -c 'Silas' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+guardians/mnemosyne/c4/c6/q1/q4/q5 (s4446-worlds): grep -cw 'Erasure-Pol' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+guardians/mnemosyne/c4/c6/q1/q4/q5 (s4446-worlds): grep -cw 'KW2' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+c4 (s4446-worlds): grep -cw 'blind' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+2
+risse: grep -c 'EP-Trigger' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+q5 (s4446-worlds): grep -cw 'KW3' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+q5 (s4446-worlds): grep -cw 'KW4' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+vortex: grep -c 'Genesis' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+8
+vortex: grep -c 'Gödel' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+aegis: grep -cw 'Person' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+aegis: grep -cw 'Innensicht' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+aegis: grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+aegis/c8: grep -cw 'Approach' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+aegis/c8: grep -cw 'Do-er' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+aegis/c8: grep -cw 'Be-er' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+aegis/c14: grep -cw 'Log' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+3
+aegis/c14: grep -cw 'Prosa' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+1
+kael: grep -cw 'Knöchel' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+kael: grep -cw '734' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+juna/c7: grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+multiplizitaet: grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+nyx/moros: grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+truth-rotation: grep -c 'Wahrheits-Rotation' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+truth-rotation: grep -c 'Erasure Kernel' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+0
+truth-rotation: grep -c 'Coherence Kernel' Sources/drive/dramatica-storyform-synthese-aegis-analyse.md
+1

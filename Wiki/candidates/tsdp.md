@@ -1,10 +1,10 @@
 ---
 term: TSDP
 status: candidate
-sources: 24
-readings: 24
+sources: 26
+readings: 26
 conflict: none yet
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse"]
 gathered: "2026-09-25"
 ---
 
@@ -181,6 +181,17 @@ IFS stands beside it as the clinical model of the resolution, „IFS (Internal F
 
 `TSDP` stands only in the title of a Drive document the log lists as a secondary source, „TSDP-Analyse: Kaels innere Welt" ^[2026-09-14-kap25-vertiefung-md.md:L40], and a title is not the term (J9). What the row says it took from that document is the model's own structure, which places the reading here (J62): „Schutz-Anteil als Aktionssystem (Verteidigung) gegen ANP-Alltagssystem" ^[2026-09-14-kap25-vertiefung-md.md:L40], and „inneres Tauziehen" ^[2026-09-14-kap25-vertiefung-md.md:L40] „als Körperbild für die gegenläufige Spannung im Unterarm" ^[2026-09-14-kap25-vertiefung-md.md:L40] — in its account of the revised chapter, the hand that moves by itself „wird von einer zweiten Spannung im selben Unterarm gestoppt" ^[2026-09-14-kap25-vertiefung-md.md:L21].
 Its status in the row, labelled `[S]`: „älteres Roster (Kai), nur strukturell genutzt" ^[2026-09-14-kap25-vertiefung-md.md:L40]; and for all four such sources, „Kein Material aus [S]-Quellen wurde als Kanon behandelt" ^[2026-09-14-kap25-vertiefung-md.md:L43]. That is the log's claim about the other document, which is landed as `tsdp-analyse-kaels-innere-welt` and has no census. The log names no alter category, no phobia and no count of parts.
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — Tertiäre Strukturelle Dissoziation, without `der Persönlichkeit`, clinically grounded
+
+A research report that cites a corpus it does not contain — recorded, not applied.
+**The expansion, without the model's last word.** „Sein zentrales Problem ist die dysfunktionale Art seines Denkens, manifestiert durch Tertiäre Strukturelle Dissoziation (TSDP) und die Aufspaltung in isolierte Alters." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L68] Two lines carry the same short form: „Das TSDP-Modell (Tertiäre Strukturelle Dissoziation) ist tief in der klinischen Psychologie verwurzelt." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L158]
+Neither line adds `der Persönlichkeit`, unlike the majority of read sources that expand it in full.
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse — TSDP-Modularität as Kael's psyche, and TSDP-Psychologie as one of two grounding disciplines
+
+A research report of the same date as the Dramatica-Synthese (`dramatica-storyform-synthese-aegis-analyse-2`, already read) and an earlier run of the same analysis; its verdicts are its own — recorded, not applied.
+„Der Konflikt-Träger dieser Throughline ist Kael, verstanden als der Unified Protagonist und Träger der -Architektur (Coherence Kernel), dessen Psyche durch TSDP-Modularität gekennzeichnet ist." ^[dramatica-storyform-synthese-aegis-analyse.md:L55] Its encoding method rests on „die TSDP-Psychologie und die DKT-Ontologie" ^[dramatica-storyform-synthese-aegis-analyse.md:L51] together, and its closing method note again decomposes premises „in ihre thermodynamischen (Landauer-Hitze) oder psychologischen (TSDP) Grundbausteine" ^[dramatica-storyform-synthese-aegis-analyse.md:L219]. The document does not expand the acronym.
 
 ## Occurrences only
 

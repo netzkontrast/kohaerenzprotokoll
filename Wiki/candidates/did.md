@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation"]
 gathered: "2026-09-16"
 ---
 
@@ -132,3 +132,9 @@ The oldest whole-novel plan read; it calls itself „verbindlich" ^[monstergrupp
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — tertiary dissociation, TSDP and IFS combined, and the word for Teil II's turn
 
 A report addressed to the author; recorded, not applied. The frame is explicit and combined with IFS from its first sentence on the system: „Die Charakterdynamik des Romans basiert auf der Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP) und dem Modell der Internal Family Systems (IFS)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L31] „System Kael weist eine tertiäre strukturelle Dissoziation auf." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L31] — the tertiary degree, as the character bible and the philosophischer Bericht later have it (`kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L818`, `kohaerenz-protokoll-philosophischer-bericht-md.md:L476`, above). Teil II is announced by naming the word directly: „Kael begreift, dass die umgebende Welt ein kybernetisches Abbild seiner fragmentierten Psyche (DID) ist." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L83] — where the later canon-era sources withhold the word until Kap 13, this document's Teil II heading uses it as its own frame from Kapitel 14 on.
+
+## Reading — `m-als-fundament-der-simulation`, 2025-04-26, the M-Fundament-Blueprint — DIS-like, but a stress response to AEGIS' analysis rather than a mapping of M
+
+A plot blueprint that hedges nearly every beat — the companion of the Primzahl-Blueprint above, and its `DIS`-analog reading is the same age.
+**Not M's mirror — AEGIS' doing, via an IFS model of the parts it produces.** „Kaels DIS-ähnliche Fragmentierung ist *keine* direkte Abbildung von M, sondern eine psychologische Stressreaktion auf AEGIS' invasive Analyse- und Kontrollversuche." ^[m-als-fundament-der-simulation.md:L82] „Dies entspricht dem Internal Family Systems (IFS) Modell, bei dem Trauma/Stress zur Fragmentierung in Teile führt (Exiles, die Schmerz tragen; Protectors/Managers, die versuchen, damit umzugehen)." ^[m-als-fundament-der-simulation.md:L82]
+`DID` and `TSDP` stand 0 times; the document's one dissociation word is `DIS`, once, in the compound `DIS-ähnliche` (`Plan/runs/m-als-fundament-der-simulation/05-verify-readers.txt`) — the same approximating hyphen the Primzahl-Blueprint uses for `DID-analog`, on the two oldest read sources for this page.

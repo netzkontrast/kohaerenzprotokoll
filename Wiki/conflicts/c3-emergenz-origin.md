@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 19
+sources: 21
 pages: ["emergenz", "aegis"]
 ---
 
@@ -181,3 +181,13 @@ The self-amputation here is the Kael system's, and it banishes Juna as „the or
 **The third origin, from Kael, in English — Kael's own defence architecture externalized into a world-state.**
 „A structural analysis of the "Genesis-Krise" reveals that AEGIS is not "the other" to the protagonist, Kael; rather, AEGIS is Kael’s own defense architecture externalized and expanded into a world-state." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17]
 The konsolidiertes Konzept's „Abwehrarchitektur, die zur Welt geworden ist" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208], with the Genesis-Krise named as where the analysis finds it. `emergen` stands 0 times. The third origin's side; nearest position 2 on the consequence. The conflict stays open.
+
+## 2026-09-27 — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese
+
+**The third origin, from Kael, in one clause of its own 5D synthesis rather than a stated Genesis.** „Der Versuch, AEGIS und Kael strikt zu trennen, könnte scheitern, da AEGIS laut Werk-Anker emergent aus Kael entsteht." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L314]
+`Emergenz`/`emergent` here name AEGIS' own dependence on Kael rather than a level of the simulation; the document cites a „Werk-Anker" ^[duale-storyform-synthese-kohaerenz-protokoll.md:L314] for the claim rather than arguing it from its own analysis. Nearest the konsolidiertes Konzept's third origin, nine days before it; on the consequence, nearest position 2 — AEGIS is inside something it cannot fully separate from. The conflict stays open.
+
+## 2026-09-27 — `m-als-fundament-der-simulation`, 2025-04-26, the M-Fundament-Blueprint
+
+**Neither row and not the third origin — existence by negation rather than emergence from anything.** „AEGIS existiert durch Negation/Abgrenzung vom Potentialmeer." ^[m-als-fundament-der-simulation.md:L68] Its own `Emergenz` names Kael's abilities and „temporäre Entitäten" the M-rules produce (L187, L474), not AEGIS' origin; its horror is emergent from the system AEGIS built on M, not AEGIS from anything before it: „Der kosmische Horror kommt nicht nur von externen Monstern, sondern entsteht *aus* dem vermeintlich stabilen, logischen System, das AEGIS auf Basis von M geschaffen hat." ^[m-als-fundament-der-simulation.md:L114]
+This is a third kind of statement, neither `from nothing` nor `from the simulation's dynamics` nor `from Kael`: AEGIS is defined by what it is not, against a Potentialmeer this document does not call a level of anything. The oldest read source on this record. The conflict stays open.

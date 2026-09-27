@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse"]
 gathered: "2026-09-25"
 ---
 
@@ -123,6 +123,13 @@ The inversion is its first takeaway, under its own name: „The "Great Inversion
 A research report of 2026-04-30 whose verdicts are its own — recorded, not applied. It gives the name in German first: „Drittens erweist sich die Wahrheits-Rotation (Truth-Rotation) als der ontologische Pivot der gesamten Erzählung." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L31] What it is: „Die informationsthermodynamische Analyse erzwingt jedoch die absolute Umkehrung dieser moralischen Polarität." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L31] — AEGIS, apparent order, is in fact the Erasure Kernel and Kael, apparent chaos, the Coherence Kernel, both symbols lost in the export (L31; J98, J99). It writes AEGIS as K0 once, „(K0-Singularität)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L381].
 **A rule, not a moment.** The hypotheses on AEGIS' throughline are tested against it: „Die Falsifikations-Versuche konzentrierten sich auf die Einhaltung der Truth-Rotation." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L51] H3 fails because AEGIS must stay monolithic „um die Truth-Rotation aufrechtzuerhalten" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L59]; its log: „H2 zerstört die Truth-Rotation (HIGH)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L414]
 It does not place it at the Vortex. The Vortex's fifth beat is `Rotation` (J90), and what completes there is the Driver-Flip: „Der Driver-Flip ist komplett vollzogen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L304] It does not write `große Inversion` (0; its other inversions are the Vortex-Inversion and the storyforms' Domain-Inversion, L311, L51; `05-verify-readers.txt`).
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse — a hypothesis's viability, in English capitals — a rule to satisfy, without the inversion its sibling document builds around it
+
+A research report of the same date as the Dramatica-Synthese (`dramatica-storyform-synthese-aegis-analyse-2`, above) and an earlier run of the same analysis; its verdicts are its own — recorded, not applied.
+**H1 survives by maximising it.** „Das Verdikt für diese Hypothese lautet: **Überlebt**. Sie maximiert die Tragfähigkeit der Truth-Rotation." ^[dramatica-storyform-synthese-aegis-analyse.md:L35]
+**H2 is rejected for destroying it — twice, in nearly the same words.** „Die Konfiguration zerstört die thematische Truth-Rotation und degradiert den DKT-Fokus." ^[dramatica-storyform-synthese-aegis-analyse.md:L39] „AEGIS H2 Steelman: Q1: H2 (Mnemosyne MC) zerstört die sorgfältig aufgebaute Truth-Rotation (Konfidenz: High)." ^[dramatica-storyform-synthese-aegis-analyse.md:L189]
+Unlike its sibling document above, this earlier run never names the term's own inversion of AEGIS' polarity: it treats Truth-Rotation only as a rule a hypothesis must not break, not as the ontological pivot -2 builds a passage around (`Wahrheits-Rotation` and `Erasure Kernel` 0; its one `Coherence Kernel` is Kael's own throughline architecture, not an inversion of AEGIS' — `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`).
 
 ## Where the sources differ
 
