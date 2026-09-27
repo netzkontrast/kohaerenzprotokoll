@@ -594,6 +594,11 @@ Landauer heat in the glossary (L483); `AEGIS-Kühle` stands once, as the registe
 tips into (L318), and `kalt` stands 0 times. `warm` stands 0 times as a word and once
 inflected, „Kaels warme Kontemplation" ^[L318] (`05-verify.txt`).
 
+**Kernels with a plain digit.** The document writes `K1` and `K0` throughout — „AEGIS glaubt K1
+(Kohärenz-Wächter) zu sein" ^[L82], „K1-Einheit" ^[L480] — and never a subscripted form or the
+words `Kohärenz-Kernel` or `Kollaps-Kernel` (`05-verify.txt`). Listed as written; what they name is
+reconciliation's question.
+
 **Names it does not write.** No `Knöchel`, `Konstrukt-Stadt`, `Kernwelt`, `KW1`, `KW4`,
 `Sophia`, `LogOS`, `Kairos`, `Cerberus`, `Flight`, `Ursprungs-Ich`, `Nexus`, `Überwelt`, `Wir`
 or `Formel` stands (`05-verify.txt`).

@@ -86,3 +86,11 @@ Orbifold: 1
 Monstergruppe: 1
 Chaitin Ω: 1
 Hard Problem of Consciousness: 2
+
+## the kernels' spellings, grep -c
+K₁: 0
+K₀: 0
+Kohärenz-Kernel: 0
+Kollaps-Kernel: 0
+K1: 11
+K0: 8

@@ -1,7 +1,7 @@
 ---
 step: extract
-version: 16
-covers_documents: 11
+version: 17
+covers_documents: 12
 new_findings_last_document: 1
 ---
 
@@ -180,6 +180,10 @@ wraps is judged by its first line alone.
 **Export damage — what did the conversion do?**
 
 - Invisible characters inside formulas, from flattened subscripts?
+- A symbol written with a plain digit where it is usually subscripted — `K1` for `K₁`? The
+  list writes it as the document does, and the count finds it; but the census should say that
+  the document never writes the subscripted form, so reconciliation asks what it names rather
+  than meeting a bare two-character term with no match.
 - Reference numbers glued to the words they annotate, from dropped superscripts?
 - Backslash escaping inside terms and quotation marks? An escaped underscore
   (`ABC\_DEF`) counts zero when the list writes it plain.
