@@ -10,3 +10,4 @@ coheron.md: not read — grep -cw Coheron Sources/drive/roman-konzept-dualitaet-
 erason.md: not read — grep -cw Erason Sources/drive/roman-konzept-dualitaet-kohaerenz-spannung.md -> 0
 ouroboros-struktur.md: not read — grep -cw Ouroboros Sources/drive/roman-konzept-dualitaet-kohaerenz-spannung.md -> 0
 aegis-teilfunktionen.md: not read — grep -c 'Zero-Trust\|Cognitive Firewall\|Integrity Guardian\|SIS' Sources/drive/roman-konzept-dualitaet-kohaerenz-spannung.md -> 0
+q4-waechter-four-bearers.md: not changed — grep -cw Wächter Sources/drive/roman-konzept-dualitaet-kohaerenz-spannung.md -> 0; Guardian/Guardians only, same all-English pattern as document 5

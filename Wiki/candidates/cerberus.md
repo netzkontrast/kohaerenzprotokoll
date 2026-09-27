@@ -1,17 +1,17 @@
 ---
 term: Cerberus
 status: candidate
-sources: 16
-readings: 16
+sources: 18
+readings: 18
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-17"
 ---
 
 # Cerberus
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Fifteen other read documents name Cerberus — the readings below, the Dramatica-Synthese's the latest (it moved this count from fourteen, the Narrative Building Blocks report's from thirteen, the philosophischer Bericht's from twelve, as the Kap-25 session log's had from eleven). (Until the worldbuilding concept's reading this lead said nothing else read named Cerberus at all, which the second reading on this page had already made false.)
+the same nine fields. Seventeen other read documents name Cerberus — the readings below, the Hard-SF-Outline's the latest (it moved this count from sixteen, the Ultra-Plot's from fifteen, the Dramatica-Synthese's from fourteen, the Narrative Building Blocks report's from thirteen, the philosophischer Bericht's from twelve, as the Kap-25 session log's had from eleven). (Until the worldbuilding concept's reading this lead said nothing else read named Cerberus at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -159,3 +159,11 @@ So Cerberus is paired with KW3 here, as in the 2025 Guardian concept; not called
 A research report whose verdicts are its own, from „Projekt-Kanon" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L320] PDFs and „User-Memory / Projekt-Wissen" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L469] — recorded, not applied; its scene seeds are proposals.
 Once (`grep -cw Cerberus` 1, `05-verify.txt`), with [[logos|LogOS]], as an example of the Guardians at work: „Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] „Sie versuchen verzweifelt, seine Existenz und sein Verhalten in ihre starren mathematischen Modelle zu integrieren (Conceptualizing)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181].
 Active, not an old draft's and not absorbed; tied to no world: `Cerberus-Labyrinth` and `KW3` stand 0 times, and its `Grenzfeste` is a room of Kael's throughline in Storyform B, not said to be Cerberus' (L163; `05-verify.txt`, `05-verify-readers.txt`). The author decided C6 for five on 2026-09-24; recorded, not applied (Q5).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — KW3's Guardian, offering the Big Freeze through drones
+
+The world table: „Grenzfeste (KW3) | Cerberus (Abwehr/Angst) | Firefighter (Persecutor) & Exiles | Nyx (Kampf), Praetor (Abwehr), Nox (Kritiker)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L42] — the same pairing as `guardians-und-kern-welten-konzept`. Kapitel 25, „Das absolute Protokoll des Cerberus" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107]: „Kael wird von den Drohnen des Guardians Cerberus in die Enge getrieben." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107] „Cerberus, der logisch und mit eiskalter Präzision argumentiert, bietet Kael den "Frieden" der absoluten Löschung an." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107] — the thermodynamic Big Freeze, „den thermodynamischen Big Freeze (Wärmetod), den Zustand maximaler Entropie und vollkommener Bedeutungslosigkeit" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107]. No absorption or reduction; not called `Wächter` (0, Q4).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — KW3's Guardian, and the world he stands for
+
+The table: „\*\*KW3: Cerberus-Zitadelle\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L42] „\*\*Cerberus\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L42], role „Der Abwehrmechanismus. Der aggressive, militarisierte Schutzschild gegen Retraumatisierung." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L42] Cerberus himself does not act in the chapters read; his world does, swept away in Kapitel 24's twist: „Eine gewaltige Landauer-Explosion aus Ozon und Hitze fegt die Zitadelle hinweg." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164] `Cerberus-Zitadelle` is a world named after him (J49), distinct from `Cerberus-Labyrinth` in the 2026 sources — this document has no `Labyrinth` (`05-verify.txt`).

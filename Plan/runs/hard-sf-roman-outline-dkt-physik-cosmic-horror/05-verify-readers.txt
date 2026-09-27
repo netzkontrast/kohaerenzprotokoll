@@ -20,3 +20,15 @@ aegis-teilfunktionen: grep -cw Zero-Trust Sources/drive/hard-sf-roman-outline-dk
 risse: grep -cw Risse Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0; grep -cw Flight Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
 ouroboros-struktur: grep -cw Ouroboros Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2
 q2: for w in ANI ARS ECR PMS RSA SNK ZTV Nullpunkt; grep -cw $w Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0 0 0 0 0 0 0 0 
+grosse-mauer: not read — grep -cw Mauer Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+potentialmeer: not read — grep -cw Potentialmeer Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+resonanz-landschaft.md: not read — grep -c Resonanz-Landschaft Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+grenzfeste.md: not read — grep -c Grenzfeste Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+moeglichkeits-garten.md: not read — grep -c 'Möglichkeits-Garten\|Garten der Möglichkeiten' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+sektor-04.md: not read — grep -c 'Sektor 04' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+datenverarbeitungsknoten-7g.md: not read — grep -c 'Datenknotenpunkt\|Datenverarbeitungsknoten' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+kaels-wohneinheit.md: not read — grep -cw Wohneinheit Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+archiv-der-grenzen.md: not read — grep -c 'Archiv der Grenzen' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+c5-garten-scale.md: not changed — grep -c 'Möglichkeits-Garten\|Garten der Möglichkeiten' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+q1-guardians-and-aegis.md: not changed — no sentence relates a Guardian to AEGIS directly; each acts in its own world (LogOS Kap 6, Mnemosyne Kap 15, Kairos/Sophia Kap 30)
+q4-waechter-four-bearers.md: not changed — grep -cw Wächter Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0; Guardian/Guardians only, same all-English pattern as document 5

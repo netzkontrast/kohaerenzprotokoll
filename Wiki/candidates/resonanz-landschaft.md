@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -90,3 +90,11 @@ makes KW2 the climax: „Setting des Klimax: der Mnemosyne-Archipel ist der einz
 A world bible that calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied. The name stands in the parentheses where the konsolidiertes Konzept and the worldbuilding concept write `Resonanzlandschaft`, in English (`Resonanz-Landschaft` and `Resonanzlandschaft` 0, `05-verify-readers.txt`); read here by the sentence (J100): „KW2: Mnemosyne-Archipelago (Resonance Landscape):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L64]
 „Fluid libraries, sepia-toned echos." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L65] Its class, „Paraconsistent ." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L66]; its style, „Porous and fragmented language." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L67]; its somatic, „Visceral nausea and Bauchreaktionen ." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L68]
 It is the climax's place, in the entry on the Guardian who manages it: „Because memory is treated as a location (substrate) rather than content, Erasure cannot take hold there, making it the necessary setting for the climax." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L33] No act and no chapters (`Act` 0).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — KW2 by name, a foggy non-linear dream-world, and Kael's forced transfer
+
+**KW2's own name, not a second one — the earliest read source to write it this way.** The world table: „Resonanz-Landschaft (KW2) | Mnemosyne (Erinnerung) | Manager & Caretaker | Silas (Pfleger), Eos (Soziale Manipulation)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L41]. Kael is sent there against his will at the end of Teil I: „Kael wird von AEGIS zwangsweise in die Resonanz-Landschaft (Quarantäne) transferiert." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L79]
+
+Kapitel 14, „Das Archiv der Grenzen (Mnemosyne)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]: „Kael erwacht in der Resonanz-Landschaft (Kernwelt 2), einer nebligen, nicht-linearen Traumwelt, überwacht vom Guardian Mnemosyne." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85] — name and number given together, and a place inside it named for the first time: see [[archiv-der-grenzen]]. „Der innere Gatekeeper Limina blockiert den direkten Zugriff, doch Kael dringt in ein verfallenes Archiv ein." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+
+No `Resonanzlandschaft` without the hyphen and no `Mnemosyne-Archipel` occur (0, `05-verify.txt`) — this document's world and the 2026 sources' `Mnemosyne-Archipel` share no surface, only the number and the Guardian.

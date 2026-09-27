@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 20
+sources: 22
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -174,3 +174,14 @@ Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Agrees; nothi
 **The Konstrukt-Stadt, unnumbered, as the city of its scene seeds and rooms — Sektor 04 a zone of it, and its sectors ringing the Mnemosyne-Archipel at the Vortex.**
 „Der erste Szenen-Keim verortet Kael in einer reizarmen Transitzone der Konstrukt-Stadt, wo er einen somatischen Flashback erfährt." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L85] Sektor 04 is „eine unentscheidbare Zone der Stadt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L115], beside the Grenzfeste (L207). In the cyber-war: „Ganze physische Sektoren der Konstrukt-Stadt stürzen geräuschlos in sich zusammen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L205] At the Vortex's first beat, after „Das Mnemosyne-Archipel erbebt unter der Last weitreichender, koordinierter Erasure-Sweeps." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L276]: „Die umgebenden, ehemals belebten Sektoren der Konstrukt-Stadt verblassen in einem eiskalten, fraktalen Zerfall, da ihnen die Rendering-Energie entzogen wird." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L276]
 `KW1`–`KW4` and `Kernwelt` stand 0 times (`05-verify.txt`), `Logos-Prime` 0 (`05-verify-readers.txt`). Nearest row 2's shape — one city around places other sources give to other worlds: the archipelago, elsewhere KW2 (J49), and the Grenzfeste, elsewhere KW3's name — without saying the city is the whole simulation. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**KW1, by name and number in one cell, and the novel's opening room.** The world table: „Konstrukt-Stadt (KW1) | LogOS (Rationalismus) | Manager (ANP) | Kael (Host), Lex (Analytiker), Limina (Gatekeeper)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L40] — the same form as the storyform-und-outline's „KW1 Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219], row 3. „Kael erwacht in seiner Wohneinheit in der Konstrukt-Stadt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55] `Logos-Prime` does not occur (0, `05-verify.txt`) — its second name is only the Guardian's, in the table cell.
+Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Predates the decision by seven months and agrees with it.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**Never writes `Konstrukt-Stadt` — KW1 named only for its Guardian, `Logos-Prime`, on no row by name.**
+„\*\*KW1: Logos-Prime\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40], „Sterile Stadt, kalter Beton, grelles Licht, Desinfektionsmittel." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40] Kapitel 1: „Kael erwacht in Logos-Prime (KW1)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] „Die Temperatur beträgt exakt und unveränderlich 21°C." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
+`Konstrukt-Stadt` stands 0 times (`05-verify.txt`); by its content — the sterile 21°C world of Kael's waking, LogOS' domain — this is KW1 as the author decided, agreeing at the level of the world without ever using the name the conflict is about.

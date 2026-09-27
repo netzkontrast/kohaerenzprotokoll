@@ -1,10 +1,10 @@
 ---
 term: Datenverarbeitungsknoten 7G
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "roman-konzept-dualitaet-kohaerenz-spannung"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -73,3 +73,9 @@ A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-ko
 As „Datenverarbeitungsknoten Epsilon" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L490] (J65): „Kaels Arbeitsplatz. Sterile Funktionalität." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L490] A KW1 sub-location,
 joined to the dwelling by the Transitkorridor Delta-7: „endlose Routine zwischen Wohn- und Arbeitsbereich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L491]
 `7G` does not occur (0, counted in `05-verify-readers.txt`).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — named `Datenknotenpunkt Gamma-7`, the second stop of Kael's day
+
+**A third name for this workplace, and the first read source to give it one at all (J109, new).** Kapitel 2, „Nicht-euklidische Isolation und das Kachelproblem" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]: „Kael bewegt sich durch die Korridore der Stadt zu seinem Arbeitsplatz am Datenknotenpunkt Gamma-7." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57] It is the second stop of the day, after the Wohneinheit and before Sektor 04's anomaly (see [[kaels-wohneinheit]], [[sektor-04]]).
+
+No world number stands beside the name (`KW1` 0 on this line, `05-verify-readers.txt`); `7G` and `Epsilon` do not occur (0). J109 places `Datenknotenpunkt Gamma-7` on this page as the name this document gives Kael's workplace, distinct from `7G` and from `Epsilon` and not merging either.

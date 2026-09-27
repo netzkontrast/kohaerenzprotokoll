@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 25
+sources: 27
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -276,3 +276,13 @@ Row 3's count, two, with no Guardian in any world. It is the one source here tha
 „Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] — a scene seed of Storyform A's overall story, a proposal. In the rejected hypothesis H2: „Der stärkste Kandidat für diese Rolle ist Mnemosyne, die als Memory-Archive-Guardian das Setting des Klimax physisch trägt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L49]. In Storyform B: „AEGIS löst massive Trennungsprotokolle aus, führt weitreichende Erasure-Sweeps durch und aktiviert die Guardians." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L264]
 `Kairos`, `Sophia`, `Erasure-Pol` and `KW1`–`KW4` stand 0 times (`05-verify.txt`), `Lösch-Pol` and `reduziert` 0 (`05-verify-readers.txt`). It is dated 2026-04-30, the date the Dual-Storyform background document gives the Reset-Doc's „Guardians auf 2" ^[dual-storyform-hintergruende-md.md:L450]; this document of that date tells no reduction.
 On no row by count: it names three of row 1's five, as active and uncounted, and states no pairing; it has none of row 3's Erasure-Pol. The author's decision for five (2026-09-24) stands; recorded, not applied.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Row 1's and row 2's side: five named, paired one-to-one with the four worlds, Kairos and Sophia sharing one.** „Um narratives Rauschen zu vermeiden, werden die elf identifizierten Alters rigoros den vier Kernwelten und deren Guardians zugeordnet" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L33] The table: „Konstrukt-Stadt (KW1) | LogOS (Rationalismus)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L40], „Resonanz-Landschaft (KW2) | Mnemosyne (Erinnerung)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L41], „Grenzfeste (KW3) | Cerberus (Abwehr/Angst)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L42], „Möglichkeits-Garten (KW4) | Kairos & Sophia" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43]
+No reduction, no absorption and no Erasure-Pol: `Erasure-Pol` and `Lösch-Pol` stand 0 times, `reduziert` 0 (`05-verify.txt`, `05-verify-readers.txt`). Predates the author's decision by seven months; agrees with it on the count without knowing of row 3's reduction.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**Row 1's and row 2's side again, six weeks later: the same five, the same pairing, headed exactly as document 4's organising column.** „\*\*Zugeordneter Guardian\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L39]: „\*\*LogOS\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40], „\*\*Mnemosyne\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L41], „\*\*Cerberus\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L42], „\*\*Kairos / Sophia\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43]
+Three of the five act directly in the chapters read — LogOS in Kapitel 6, Mnemosyne in Kapitel 15, Kairos and Sophia together in Kapitel 30 (readings on the Guardians' pages). No reduction, no absorption, no Erasure-Pol (`Erasure-Pol`, `Lösch-Pol`, `reduziert` all 0, `05-verify.txt`). Dated 2026-04-08, still before the reset of 2026-04-30 that the Dual-Storyform background document dates the reduction to (reading above); agrees with the author's decision on the count.

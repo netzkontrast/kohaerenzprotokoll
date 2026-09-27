@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -131,3 +131,7 @@ The session log's OQ-25-B named the dwelling as a quieter alternative place for 
 ## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — the sterile Wohneinheit after the Universal Reboot, a room of Kael's throughline in Storyform A
 
 A research report of 2026-04-30; its rooms are proposals, like its scene seeds. The first of the two rooms of Kael's MC throughline in Storyform A: „Der erste Raum ist die sterile Wohneinheit nach dem Universal Reboot, geprägt von absoluter geometrischer Präzision, die kein menschliches Maß zulässt." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L91] — Kael's dwelling after the Reboot by its throughline and its place in time (J50), though the sentence does not say whose. It has no number and no world (`734`, `KW1` 0; `05-verify-readers.txt`); the throughline's first seed sets Kael in „einer reizarmen Transitzone der Konstrukt-Stadt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L85].
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — where the novel begins, right after the reset
+
+**Kael's dwelling, unnumbered, and the novel's opening room.** Kapitel 1, „Der Erwachen-Zyklus und die Planck-Latenz" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55]: „Kael erwacht in seiner Wohneinheit in der Konstrukt-Stadt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55] (J50). No number stands on the line (`734` 0, `05-verify.txt`); the next stop is the Datenknotenpunkt Gamma-7 (see [[datenverarbeitungsknoten-7g]]).

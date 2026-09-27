@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -228,3 +228,9 @@ The last of four spheres through which „the complexity of his reality shifts" 
 A research report whose verdicts are its own — recorded, not applied; its rooms are proposals.
 Once, under the surface `Möglichkeiten-Garten` (`Möglichkeits-Garten` 0, `05-verify.txt`), which J107 makes this page's: a linking element is no term boundary. It is the second room of Storyform A's overall story, the psychological manoeuvring of the whole system: „Der zweite Raum ist der Möglichkeiten-Garten, ein Areal, in dem Wahrscheinlichkeiten vor ihrer Materialisierung visualisiert werden." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187] The first is „das Lernarchiv Theta-9, ein unstrukturierter Sektor voller verwaister Datenströme" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187].
 **A place, not a world** — an area, beside an archive sector — with no world around it: `KW4`, `Kernwelt`, `Kairos-Potentialis`, `Kairos` and `Sophia` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`). C5: the place's scale only.
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — KW4's own name, and the two Guardians who fail to hold Kael in it
+
+**The whole fourth world, not a place inside one — position 1's side of C5, one more source.** The world table: „Möglichkeits-Garten (KW4) | Kairos & Sophia | Exiles (Trauma-Halter) | Kiko (Kind/Flucht), Oblivion (Kollaps), Juna (Anomalie)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43]. Kapitel 29, „Die Auflösung der Membran" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]: „Der Abgrund transformiert sich fließend in den Möglichkeits-Garten (KW4)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119] „Die Guardians Kairos und Sophia versuchen vergeblich, Kael in ihre Wahrscheinlichkeitsmatrizen einzufangen." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]
+
+The Alters converge there without fusing, at the world's own scale: „Die elf Alters von Kael treten sichtbar nebeneinander. Es findet keine magische Fusion zu einer einzigen "gesunden" Person statt, sondern die Etablierung eines "Wir-Geflechts" (Funktionale Multiplizität aus dem IFS-Modell)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] `Garten der Möglichkeiten` does not occur (0, `05-verify.txt`); no place of that name is named inside KW4.

@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -89,3 +89,7 @@ No act and no chapters (`Act` 0). `Cerberus-Labyrinth` is a world named after a 
 A research report whose verdicts are its own — recorded, not applied; its rooms are proposals.
 Twice (`grep -cw Grenzfeste` 2, `05-verify-readers.txt`), both times a place. In the throughline where Kael is Storyform B's Impact Character: „Der zweite Raum ist die Grenzfeste, der architektonische Ort, an dem Kael die Konfrontation mit der Speichereinheit des Traumas sucht." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L163] In B's overall story, the cyber-war, one side of a fracture: „Der erste Raum ist die Bruchzone zwischen Sektor 04 und der Grenzfeste, wo die physikalischen Gesetze der Simulation bereits aufgehoben sind." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L207]
 So it borders [[sektor-04|Sektor 04]], which this document calls „eine unentscheidbare Zone der Stadt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L115] — a place at the scale of a district, where the konsolidiertes Konzept, the worldbuilding concept and the drafting manual give KW3 this name (readings above). No world, no Guardian and no act: `KW3`, `Cerberus-Labyrinth` and `Kernwelt` stand 0 times, and Cerberus only among the debating Guardians (L181), not here (`05-verify.txt`, `05-verify-readers.txt`).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — KW3's own name, a defensive world of Firefighters and Exiles
+
+**KW3 by name, not a second one.** The world table: „Grenzfeste (KW3) | Cerberus (Abwehr/Angst) | Firefighter (Persecutor) & Exiles | Nyx (Kampf), Praetor (Abwehr), Nox (Kritiker)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L42] — the same pairing as `guardians-und-kern-welten-konzept`'s. No chapter of the read prose is set here: `Grenzfeste` stands only in the table (`grep -cw Grenzfeste` 2, `05-verify-readers.txt`); Cerberus acts in Kapitel 25 without the world being named at the same time (see [[cerberus]]). No `Cerberus-Labyrinth` (0, `05-verify.txt`) — this document's world and the 2026 sources' `Cerberus-Labyrinth` share no surface, only the number and the Guardian.

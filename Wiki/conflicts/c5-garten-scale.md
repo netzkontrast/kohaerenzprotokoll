@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 17
+sources: 18
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -191,3 +191,8 @@ No place inside KW4 is named; `Garten` stands 0 times (`05-verify-readers.txt`).
 **A place — „ein Areal" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187], a room of Storyform A's overall story — and no world around it.**
 „Der zweite Raum ist der Möglichkeiten-Garten, ein Areal, in dem Wahrscheinlichkeiten vor ihrer Materialisierung visualisiert werden." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187] — `Möglichkeiten-Garten`, this record's subject by J107. The room beside it: „das Lernarchiv Theta-9, ein unstrukturierter Sektor voller verwaister Datenströme" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187].
 `KW4`, `Kernwelt`, `Kairos` and `Sophia` stand 0 times (`05-verify.txt`), `Kairos-Potentialis` 0 (`05-verify-readers.txt`). Position 2's side — a place, not a world — without saying in which world it lies. The conflict stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**The world side, with the same four-Guardian pairing as document 4.** The table: „Möglichkeits-Garten (KW4) | Kairos & Sophia | Exiles (Trauma-Halter) | Kiko (Kind/Flucht), Oblivion (Kollaps), Juna (Anomalie)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43] Kapitel 29: „Der Abgrund transformiert sich fließend in den Möglichkeits-Garten (KW4)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]
+No place of that name inside KW4, and `Garten der Möglichkeiten` does not occur (0, `05-verify.txt`). Position 1's side, by the world's own hyphenated name — nearest document 4's, of the two-year-older documents on this record. The conflict stays open.
