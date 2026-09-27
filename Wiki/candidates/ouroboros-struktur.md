@@ -1,10 +1,10 @@
 ---
 term: Ouroboros-Struktur
 status: candidate
-sources: 17
-readings: 17
+sources: 22
+readings: 22
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
 gathered: "2026-09-25"
 ---
 
@@ -78,6 +78,32 @@ Twice (`Ouroboros` 2, `05-verify-readers.txt`). First as the form of its ending 
 So what returns is an image, the sterile city at one temperature, and the Telefon-Stille, which here happens at both ends, not only at the last; the roles are exchanged, and it does not say whose.
 Second, where it returns: „Der Vortex am Ende des Romans ist die Wiederkehr dieser Konstatierung in invertierter Rollenverteilung — Ouroboros." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L347] The Konstatierung is the silence of the call. So the return falls in the Vortex, which the document puts in `Ch 35–36` three times (L110, L284, L611) — and it names no Kap 1, Ch 39 or Kap 40 and no first or last sentence (`Kap` 0, `Ch 39` 0, `Ch 1` 0, `05-verify-readers.txt`).
 Without the name, its end closes a loop begun in a prologue: „Die Prolog-Schleife schließt: Was als *Universal Reboot* anfing, endet als *Universal Re-Connecting*." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741]
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — the last image of Chapter 39 mirrors the first of Chapter 1, its meaning inverted
+
+Once (`Ouroboros` 1; `05-verify-readers.txt`), after the Vortex, in the section it calls „The Vortex-Inversion & Narrative Mechanics“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L80]: „The structure is an Ouroboros.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] „The final image of Chapter 39 mirrors the first image of Chapter 1, but with a total inversion of meaning—moving from Separation to Connection.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] What holds it up is the reader: „This is sustained by the Reader-as-Substrate (Iser).“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88]
+So an image, Kap 1 ↔ Kap 39, not named; no sentence and no telephone for it (`telephone` 0, `phone` 0; its `Phone-Silence` is Juna's presence marker, L47), and no Chapter 0 or 40 (`Chapter 0` 0, `Chapter 40` 0; `05-verify-readers.txt`). The document calls itself „the binding rulebook for the Coherence Protocol“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied.
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — the ending is the beginning: a sterile room, a phone ringing, a choice to speak
+
+Twice (`Ouroboros` 2; `05-verify-readers.txt`), in one section with the Vortex, „The Vortex and the Ouroboros: Synthesis of the Journey“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L98], under „The Ouroboros: The Ending is the Beginning“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L110]:
+„The story ends as it began: a man in a sterile room, a phone ringing, and a choice to speak.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L112] „But the meaning has inverted.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L112] „At the start, the silence was a symptom of separation (K0).“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L112] „At the end, the silence is the proof of atemporal connection (K1).“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L112] „Separation was never real, but the pain remains.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L112]
+So an image — a room, a ringing phone and a choice to speak — with the silence at both ends, and the ending principle's two sentences. It gives no chapter for beginning or end (`Chapter` 0; `05-verify-readers.txt`) and does not say whether the choice to speak is taken.
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — the first image inverted, silence from separation to connection
+
+Twice (`Ouroboros` 2; `05-verify-readers.txt`), in its conclusion, „Conclusion: Functional Multiplicity and the Ouroboros“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L69]. After the Telefon-Stille, „a memory of twenty years ago where nothing was said, yet everything was understood.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L79]: „The architecture forms an Ouroboros.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L79] „The final image of the journey is the first image inverted: where silence once signified the terror of separation, it now signifies an unbreakable, atemporal connection.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L79] „Separation was never real, but the pain remains—not as a symptom to be deleted, but as the condition upon which the "We" is built.“ ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L79]
+An image, not named, whose meaning is the silence; no chapter (`Chapter` 0, `Vortex` 0; `05-verify-readers.txt`).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — the final image must mirror the first, with the phenomenology inverted
+
+Once (`Ouroboros` 1; `05-verify-readers.txt`), as a writing rule after its three acts, the last „Act III (Ch. 27-39): The Chorale.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L59]: „The Ouroboros Ending: The final image must mirror the first.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L60] „However, the phenomenology is inverted.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L60] „Separation is revealed as Connection; the "Silence" of the beginning is now recognized as the "MI-Substrate" (Mutual Information) that was always there.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L60]
+An image, not named and given no chapter of its own; it is the phenomenology, not only the meaning, that it says is inverted.
+
+## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — a return to the city's first image, and the silence of a telephone call
+
+Twice (`Ouroboros` 2; `05-verify-readers.txt`), under „The Ouroboros Ending: Healing Through Integration“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L37]: „The narrative follows an "Ouroboros Structure," returning to the initial image of the city.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] „However, a "Truth-Rotation" has occurred: the meaning has inverted from Separation to Connection.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] What was feared: „The "Nothing-Noise" that AEGIS feared is revealed as the purest form of K1-Coheron“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39], Mutual Information without data, „represented by the silence of a telephone call.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39]
+So the image is the city of its opening — 21 degrees, ozone, the knuckles (its L13) — and the telephone's silence is what the inverted meaning stands for. It ties the return to the Truth-Rotation and gives no chapter (`Chapter` 0; `05-verify-readers.txt`). A popular essay that cites nothing.
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17
 
@@ -166,6 +192,16 @@ manual, Plot-Konkretisierung). The storyform outline has both in one Kap-39 beat
 (L464, L467), names no image, and adds a word, the `Lexem-Echo` of `da` (L470). The philosophischer Bericht
 has an image and the telephone together: the sterile city at one temperature returns inverted,
 with roles exchanged and a call that takes place neither time (its L53).
+The Systemic Architecture Specification, the Architecture of Fracture and the Editorial Style
+Dossier have an image they do not name: the final image of Chapter 39 mirrors the first of
+Chapter 1 (the Specification, L88), the first image returns inverted with its silence now a
+connection (the Architecture of Fracture, L79; the Dossier, L60). The Companion Guide names
+it: „The story ends as it began: a man in a sterile room, a phone ringing, and a choice to speak.“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L112]
+— a choice to speak, where the konsolidiertes Konzept and the Worldbuilding-Konzept have
+„Keiner spricht es aus.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851] and the
+philosophischer Bericht a call that takes place neither time; it does not say whether the
+choice is taken. The Physics of Heartbreak returns to „the initial image of the city“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] and has
+the silence of a telephone call stand for the inverted meaning.
 
 **Where.** Kap 1 ↔ Kap 39 (konsolidiertes Konzept, Worldbuilding-Konzept,
 Kapitel-Kompendium, glossary, storyform outline, and the Dual-Storyform background
@@ -176,7 +212,12 @@ L464, which calls the outer pair the Genesis-Klammer within it, L470, and writes
 Bericht makes it the return of the silent call „in invertierter Rollenverteilung" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L347], and
 names no chapter for the beginning or the end. The Kapitel-Kompendium, the glossary and the
 storyform outline call Kap 0 ↔ 40 the Genesis-Klammer and keep the Ouroboros
-name for the inner bracket.
+name for the inner bracket. The Systemic Architecture Specification has Kap 1 ↔ Kap 39 as well,
+„The final image of Chapter 39 mirrors the first image of Chapter 1, but with a total inversion of meaning—moving from Separation to Connection.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88],
+and no Kap 0 or 40. The Companion Guide, the Architecture of Fracture, the Editorial Style
+Dossier and the Physics of Heartbreak give no chapter; the Companion Guide sets it in one
+section with the Vortex (its L98), and the Dossier states it after its last act, Ch. 27-39
+(L59–L60).
 
 **What the name names.** A structure of the ending (most); a cyclical role
 exchange, one of the resolution's two paths (konsolidiertes Konzept L1312,
@@ -193,6 +234,14 @@ philosophy document (L464). The Doppelklammer-Abhandlung,
 which never uses the name, says the opposite of Kap 0 ↔ Kap 40:
 „Anfang und Ende fallen nicht zusammen wie zwei Enden eines Kreises, der sich schließt." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L584]
 The glossary gives the closing circle to one of Kap 40's two readings only (L631).
+The Companion Guide makes them one: „The Ouroboros: The Ending is the Beginning“ ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L110].
+
+**Whether the phenomenology changes.** No: „Die Bedeutungs-Inversion ändert die Phänomenologie nicht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1303]
+(konsolidiertes Konzept; the Worldbuilding-Konzept, L847). Yes, in the Editorial Style
+Dossier of the same date: „However, the phenomenology is inverted.“ ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L60]
+The Systemic Architecture Specification, the Companion Guide, the Architecture of Fracture and
+the Physics of Heartbreak invert the meaning and say nothing of the phenomenology (L88; L112;
+L79; L39).
 
 **First line or last.** The glossary's third test calls the sentence one written
 consciously as the first line (L625); the storyform outline, in the same test, says Kael
