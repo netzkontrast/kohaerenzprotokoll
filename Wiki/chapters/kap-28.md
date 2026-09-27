@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -67,6 +67,15 @@ Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50
 - Storyform B: „OS-Physics: Erasure-Drohung explizit" ^[three-mode-architecture-39-chapters-md.md:L333]
 - Leitmotif: „drohende Spannung, Countdown-Marker" ^[three-mode-architecture-39-chapters-md.md:L333]
 
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — the Vortex precursors begin, `Akt-III-Anfang`
+
+The document ranks itself: „Hierarchie für Konflikte: Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots.“ ^[dual-storyform-hintergruende-md.md:L29] Recorded, not applied.
+
+Position: „Akt III\*\* | Kap 27–34“ ^[dual-storyform-hintergruende-md.md:L335]
+
+- Bridge scenes: „Vortex-Vorläufer (ab \~Kap 28). Akt-III-Anfang.“ ^[dual-storyform-hintergruende-md.md:L308] · „Eskalierende Bridge-Frequenz.“ ^[dual-storyform-hintergruende-md.md:L308] — the chapter hedged by a tilde and called the start of Akt III, where the same document's act table starts Akt III at Kap 27.
+- Akt III: „Vortex-Vorläufer eskalieren.“ ^[dual-storyform-hintergruende-md.md:L335]
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Call to Adventure: AEGIS' Eskalation / Juna in Gefahr“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L903]
@@ -122,7 +131,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **The trigger: Purge and Juna, or one of them.** „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616] (Konzept-Iteration Genesis) · „Purge-Drohung, Juna in Gefahr; A-Consequence akut (ewige Fragmentierung droht)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L360] (storyform outline) · „Ein Ereignis (AEGIS droht mit Purge, oder Juna ist bedroht — OQ-B-abhängig) zwingt Kael zum sofortigen Handeln.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L913] (strukturierter Outline).
-- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] with „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung).
+- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] with „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung). · „Akt III\*\* | Kap 27–34“ ^[dual-storyform-hintergruende-md.md:L335], and for the bridge scenes „Vortex-Vorläufer (ab \~Kap 28). Akt-III-Anfang.“ ^[dual-storyform-hintergruende-md.md:L308] (the Dual-Storyform background document) — Akt III from Kap 27 in its table, and its start at about Kap 28 in its list, both in one document.
 - **Title.** „AEGIS' Eskalation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis) · „Call to Adventure: AEGIS' Eskalation / Juna in Gefahr“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L903] (strukturierter Outline) · „Consequence akut“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L226] (Kapitel-Kompendium); the second opens with the Genesis document's stage name, „HR-Stufe 2: Call to Adventure“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis).
 
 ## Questions for this chapter
