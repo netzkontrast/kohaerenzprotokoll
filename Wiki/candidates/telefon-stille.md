@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md"]
 gathered: "2026-09-24"
 ---
 
@@ -131,3 +131,12 @@ A chapter file of Kap 25 — research, not text for the novel. The prose never w
 Behind the handset: „Hinter dem Griffstück liegen vier Blätter mit vier Daten und ohne Überschrift." ^[kp-kap25-2026-09-14-md.md:L279]
 Earlier, at the station, a handset is what is left to a unit without a place: „Sie sitzt in neun Quadratmetern und hat ein Griffstück am Ohr." ^[kp-kap25-2026-09-14-md.md:L125]
 That this silence is the Telefon-Stille is the reading's identification, not the text's; the passage is placed here by what it states — a handset held to the ear and a silence that comes (J62). The session log's reading above reports the anchor carried in the revised chapter; this file does not say where.
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — the architecture's phenomenological probe, and an anchor recommended
+
+It ranks itself below the status report and the Reset-Doc, and what it restates from the Reset-Doc is its claim about that document. Recorded, not applied.
+**The call as the test of the two storyforms.** Consciousness is a 5D interference of the two readings, and „Das Telefonat (Block 4) ist die *phänomenologische Probe* dieser Architektur" ^[dual-storyform-hintergruende-md.md:L74] — „der einzige Moment, an dem 5D als Erfahrung zugänglich wird (Mutual Information ohne Datenträger)." ^[dual-storyform-hintergruende-md.md:L74] It writes `Telefonat` there, not `Telefon-Stille`, and gives the call no date and no content (`Telefonat` 1, `05-verify-readers.txt`).
+**The anchor, recommended and not decided**, in the research question on Juna's modes: „Welche zwei oder drei Modi reichen, um Junas Präsenz erzählerisch zu tragen, und welcher davon ist der Anker (Empfehlung pro Telefon-Stille)?" ^[dual-storyform-hintergruende-md.md:L419] „Berührt: IC-Operationalisierung in beiden Storyforms." ^[dual-storyform-hintergruende-md.md:L419]
+**A candidate for the Ouroboros image**, in another: „Welches konkrete Bild aus Kap 1 kehrt in Kap 39 verändert wieder?" ^[dual-storyform-hintergruende-md.md:L421] „Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel." ^[dual-storyform-hintergruende-md.md:L421] — one of three, not chosen (`ouroboros-struktur`).
+**The Moonshine-Link's anchor**, in its glossary: „Anker: Telefon-Stille." ^[dual-storyform-hintergruende-md.md:L485] And among the places where the link is felt, as the Reset-Doc's recommendation, telephone and silence stand as two nodes: „räumlich global aber phänomenal nur an Knotenpunkten (Telefon, Stille, Erinnerungsorte)" ^[dual-storyform-hintergruende-md.md:L426].
+Beyond that question it places it in no chapter, and it does not call it the Vortex's source (`Vortex-Quelle` 0, `05-verify-readers.txt`).
