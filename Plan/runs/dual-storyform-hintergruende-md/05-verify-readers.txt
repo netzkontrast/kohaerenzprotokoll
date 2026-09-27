@@ -1,0 +1,154 @@
+alex: grep -cw Alex Sources/drive/dual-storyform-hintergruende-md.md -> 1
+rhys: grep -cw Rhys Sources/drive/dual-storyform-hintergruende-md.md -> 1
+selene: grep -cw Selene Sources/drive/dual-storyform-hintergruende-md.md -> 1
+nyx: grep -cw Nyx Sources/drive/dual-storyform-hintergruende-md.md -> 1
+kiko: grep -cw Kiko Sources/drive/dual-storyform-hintergruende-md.md -> 1
+lia: grep -cw Lia Sources/drive/dual-storyform-hintergruende-md.md -> 1
+isabelle: grep -cw Isabelle Sources/drive/dual-storyform-hintergruende-md.md -> 1
+moros: grep -cw Moros Sources/drive/dual-storyform-hintergruende-md.md -> 1
+argus: grep -cw Argus Sources/drive/dual-storyform-hintergruende-md.md -> 1
+silas: grep -w Silas Sources/drive/dual-storyform-hintergruende-md.md | grep -ciE 'wärme|warm|hitze|landauer' -> 0
+oblivion: grep -w Oblivion Sources/drive/dual-storyform-hintergruende-md.md | grep -ciE 'wärme|warm|hitze|landauer' -> 0
+aegis: grep -cw 'Autonomous' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+aegis: grep -cw '1.Person' Sources/drive/dual-storyform-hintergruende-md.md -> 2
+kael: grep -cw 'Knöchel' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-01: grep -cw 'Kap 0' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-01: grep -cw 'Kap 40' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-35: grep -cw 'Kap 36' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-35: grep -cw 'Kapitel-Schnitt' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-36: grep -cw 'Kap 36' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-36: grep -cw 'Kapitel-Schnitt' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-37: grep -cw 'trügerisch' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-37: grep -cw 'trügerischer' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-37: grep -cw 'Gärtner' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-37: grep -cw 'Vortex 2' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-38: grep -cw 'Vortex 2' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-38: grep -cw 'Kap 38' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-39: grep -cw 'Kap 40' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-39: grep -cw 'Kap 0' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-39: grep -cw 'Ch40' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kap-39: grep -cw 'Ch0' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Kap 0' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Kap 40' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Ch0' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Ch40' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Vortex 1' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Vortex 2' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'trügerisch' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Heldinnenreise' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Heldenreise' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Zyklus' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Kishōtenketsu' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+plot: grep -cw 'Bewegungen' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+juna: grep -cw 'Kap 38' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -cw 'Kap 33' Sources/drive/dual-storyform-hintergruende-md.md -> 1 (L335, FM-Achievement)
+genesis: grep -cw 'Wir-AEGIS-plural' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+genesis: grep -cw 'Primärdirektive' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+genesis: grep -cw 'Kap 18' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+genesis: grep -cw 'Kap 21' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+genesis: grep -cw 'Kap 22' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+genesis: grep -cw 'Kap 0' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+trennungsprotokoll: grep -cw 'Trennungsprotokoll' Sources/drive/dual-storyform-hintergruende-md.md -> 1
+juna: grep -cw 'Ch38' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -cw 'Ch33' Sources/drive/dual-storyform-hintergruende-md.md -> 1 (L451, FM-Achievement)
+komponente-734: grep -cw '734' Sources/drive/dual-storyform-hintergruende-md.md -> 1; grep -cw 'Komponente' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+alters: grep -cw 'Flight' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+telefon-stille: grep -cw 'Telefonat' Sources/drive/dual-storyform-hintergruende-md.md -> 1; grep -cw 'Telefon-Stille' Sources/drive/dual-storyform-hintergruende-md.md -> 3; grep -cw 'Vortex-Quelle' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+multiplizitaet: grep -cw 'Fusion' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -c 'Funktionale Multiplizität' Sources/drive/dual-storyform-hintergruende-md.md -> 1 (L210 only; L68 has 'Funktionalen Multiplizität')
+multiplizitaet: grep -cw 'FM' Sources/drive/dual-storyform-hintergruende-md.md -> 2 (L335, L451, both 'FM-Achievement')
+moonshine-link: grep -cw 'Moonshine' Sources/drive/dual-storyform-hintergruende-md.md -> 2 (L426, L485); grep -cw 'Moonshine-Link' Sources/drive/dual-storyform-hintergruende-md.md -> 1
+vortex: grep -cw 'Vortex 1' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+vortex: grep -cw 'Vortex 2' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+vortex: grep -cw 'Kap 36' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+vortex: grep -cw 'Kap 38' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+mnemosyne: grep -cw 'KW2' Sources/drive/dual-storyform-hintergruende-md.md -> 1; grep -cw 'Kernwelt' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+did: grep -cw 'DID' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+did: grep -cw 'TSDP' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+did: grep -cw 'Dissoziation' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+truth-rotation: grep -ciw 'große Inversion' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+truth-rotation: grep -cE 'Kael ?= ?K' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+risse: grep -cw 'Riss-Typ' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -cw 'Re-Containment' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -c 'Re-Containment' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+chaitin-konstante: grep -cw 'Chaitin' Sources/drive/dual-storyform-hintergruende-md.md -> 1
+c1 (not changed): grep -cw "Autonomous" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c1 (not changed): grep -cw "Autogenic" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c1 (not changed): grep -cw "Gatekeeper" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c3 (not changed): grep -cw "Emergenz" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c3 (not changed): grep -cw "emergent" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c5 (not changed): grep -cw "Garten" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c5 (not changed): grep -cw "Möglichkeits-Garten" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c9 (not changed): grep -cw "Konstrukt-Stadt" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c9 (not changed): grep -cw "KW1" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c9 (not changed): grep -cw "Logos-Prime" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c10 (not changed): grep -cw "Knöchel" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c10 (not changed): grep -cw "bluten" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c13 (not changed): grep -cw "Köln" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c13 (not changed): grep -cw "Externe" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c13 (not changed): grep -cw "Basisrealität" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c15 (not changed): grep -cw "Flight" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c2: grep -cw "Entropie" Sources/drive/dual-storyform-hintergruende-md.md -> 2
+c4: grep -cw "blind" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c6: grep -cw "LogOS" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c6: grep -cw "Cerberus" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c6: grep -cw "Kairos" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c6: grep -cw "Sophia" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c6: grep -cw "Erasure-Pol" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c6: grep -cw "Kernwelt" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c7: grep -cw "Kap 38" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c7: grep -cw "Ch38" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c7: grep -cw "Kap 33" Sources/drive/dual-storyform-hintergruende-md.md -> 1
+c11: grep -cw "Kap 6" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c11: grep -cw "Kap 36" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c11: grep -cw "kalt" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c11: grep -cw "Wärme" Sources/drive/dual-storyform-hintergruende-md.md -> 1
+c12: grep -cw "Wir-AEGIS-plural" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c12: grep -cw "Primärdirektive" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c12: grep -cw "Kap 0" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c14: grep -cw "Innensicht" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c14: grep -cw "Kap 5" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c14: grep -cw "Kap 7" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c14: grep -cw "Kap 8" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c14: grep -cw "Ich" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+c14: grep -cw "ich" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "ANI" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "ARS" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "ECR" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "PMS" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "RSA" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "SNK" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "ZTV" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "Nullpunkt" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "Suppressionsprotokoll" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q2: grep -cw "Re-Containment" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q3: grep -cw "dreizehn" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q3: grep -cw "Kernwelt" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q3: grep -cw "KW1" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q3: grep -cw "KW4" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q4: grep -cw "Wächter" Sources/drive/dual-storyform-hintergruende-md.md -> 1
+q4: grep -cw "Wächterin" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q4: grep -cw "Guardian" Sources/drive/dual-storyform-hintergruende-md.md -> 2
+q4: grep -cw "Guardians" Sources/drive/dual-storyform-hintergruende-md.md -> 1
+q5: grep -cw "Erasure-Pol" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q5: grep -cw "Sophia" Sources/drive/dual-storyform-hintergruende-md.md -> 0
+q5: grep -cw "KW2" Sources/drive/dual-storyform-hintergruende-md.md -> 1
+dkt: grep -cw 'Dual-Kernel' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+dkt: grep -cw 'DKT' Sources/drive/dual-storyform-hintergruende-md.md -> 2
+kohaerenz-kernel: grep -cw 'Kohärenz-Kernel' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+kollaps-kernel: grep -cw 'Kollaps-Kernel' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+nichts-rauschen: grep -cw 'Rauschen' Sources/drive/dual-storyform-hintergruende-md.md -> 1
+ouroboros-struktur: grep -cw 'Ouroboros' Sources/drive/dual-storyform-hintergruende-md.md -> 1; grep -cw 'Kap 0' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -cw 'Kap 40' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -cw 'Ch40' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -cw 'Kap 1' Sources/drive/dual-storyform-hintergruende-md.md -> 2 (L333 Kap 1–13, L421); grep -cw 'Kap 39' Sources/drive/dual-storyform-hintergruende-md.md -> 1
+ouroboros-struktur: grep -cw 'Erstsatz' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -cw 'Wir' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+coheron: grep -cw 'Coheron' Sources/drive/dual-storyform-hintergruende-md.md -> 2
+coheron: grep -w 'Liebe' Sources/drive/dual-storyform-hintergruende-md.md | grep -c Coheron -> 0
+erason: grep -cw 'Erason' Sources/drive/dual-storyform-hintergruende-md.md -> 2
+entropie: grep -cw 'Entropie' Sources/drive/dual-storyform-hintergruende-md.md -> 2
+entropie: grep -cw 'Entropie-Architektur' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+ueberwelt (not read): grep -cw 'Simulation' Sources/drive/dual-storyform-hintergruende-md.md -> 1 (L307); grep -cw 'Überwelt' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -cw 'Innere Weite' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+goedel-gambit (not read): grep -cw 'Gödel-Gambit' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -c 'Gambit' Sources/drive/dual-storyform-hintergruende-md.md -> 0; grep -cw 'Gödel-Eigenschaft' Sources/drive/dual-storyform-hintergruende-md.md -> 3 (L142, L470, L489)
+landauer-signatur: grep -cw 'Landauer' Sources/drive/dual-storyform-hintergruende-md.md -> 3
+landauer-signatur: grep -cw 'Landauer-Signatur' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+landauer-signatur: grep -cw 'Ozon' Sources/drive/dual-storyform-hintergruende-md.md -> 2
+landauer-signatur: grep -cw 'kalt' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+landauer-signatur: grep -cw 'Kälte' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+landauer-signatur: grep -cw 'Kühle' Sources/drive/dual-storyform-hintergruende-md.md -> 1
+hitze-polaritaetsregel: grep -cw 'Polarität' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+hitze-polaritaetsregel: grep -cw 'kalt' Sources/drive/dual-storyform-hintergruende-md.md -> 0
+hitze-polaritaetsregel: grep -w Juna Sources/drive/dual-storyform-hintergruende-md.md | grep -ciE 'wärme|warm' -> 0
+algorithmische-melancholie: grep -cw 'Melancholie' Sources/drive/dual-storyform-hintergruende-md.md -> 2
