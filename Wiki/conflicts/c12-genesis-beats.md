@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 20
+sources: 21
 pages: ["trennungsprotokoll"]
 ---
 
@@ -219,3 +219,11 @@ Row 1's count and order, on row 2's date. Where the character bible and the mast
 „Genesis-4-Beat: was als Trauma erscheint, ist die Bedingung von Werdung." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L764] — in §15, with no beat listed. Kap 0 is „Genesis-Krise als ontologische Geste, Autopoiesis (Maturana/Luhmann)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L693]; the Genesis returns as „EP-Domänen, KW2 (Erinnerung als Schauplatz), Genesis-Flashbacks (Kap 18–22)." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L59]; and „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]
 On the order, one sentence under §4.1: „Kael ist Komponente 734, in einer Welt geworfen, die das Trennungsprotokoll erzeugt hat." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L229] — [[kael|Kael]] is the component, as in row 1, and the world he is thrown into is the [[trennungsprotokoll|Trennungsprotokoll]]'s; whether 734 existed before the protocol it does not say.
 Row 2's and row 3's count, named and not given; row 1's identity of Kael and 734. The conflict stays open.
+
+## 2026-09-27 — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document
+
+**Three beats, 734 last, and the fourth an open question — with a fourth candidate no row names, the Erinnerungs-Versiegelung; the Genesis revealed by AEGIS in Vortex Beat 4, recommended, not decided.**
+Among the research questions it restates from the Reset-Doc (L417): „F9 — Genesis 3-Beat oder 4-Beat:" ^[dual-storyform-hintergruende-md.md:L420] „Reicht die Sequenz Einheit → Trennungsprotokoll → Kael=734, oder braucht es einen vierten Beat (Erinnerungs-Versiegelung), um die Brücke zwischen mythischer und biographischer Skala explizit zu machen?" ^[dual-storyform-hintergruende-md.md:L420] „Berührt: Vortex Beat-4-Mechanik (AEGIS-Selbstoffenbarung)." ^[dual-storyform-hintergruende-md.md:L420]
+The reveal, a recommendation: „Die Empfehlung aus dem Reset-Doc ist Variante C — *AEGIS muss die Genesis zeigen, weil ihm im Vortex die Lösch-Kapazität ausgeht*." ^[dual-storyform-hintergruende-md.md:L368] The flashbacks as bridge scenes: „Akt-II-Mitte (KW2-KW3-Phase). Juna-Wahrheit kollidiert mit AEGIS-Wahrheit in derselben Szene." ^[dual-storyform-hintergruende-md.md:L309]
+`Wir-AEGIS-plural`, `Primärdirektive` and `Kap 0` stand 0 times.
+Row 1's sequence and order, asked rather than locked: the status report's question of the day before, restated with a candidate. That candidate is neither row 2's Wir = AEGIS-plural nor the worldbuilding concept's Primärdirektive, so the sources now name three different fourth beats. The conflict stays open.
