@@ -1,9 +1,9 @@
 ---
 chapter: 38
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
-records: ["C7"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
 
@@ -22,6 +22,14 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel öffnet den Vortex der ontologischen Wendung, der die Vortex-Klammer schließt; in der äußeren Heldenreise ist es laut Konzept-Iteration, konsolidiertem Konzept, strukturierter Outline und Storyform-Outline die Road Back, laut der Spec die Resurrection, in Kishōtenketsu laut der strukturierten Outline der Übergang von Ten zu Ketsu, und in Storyform A trägt es die RS-Physics maximal mit Junas direkter Anwesenheit, laut der Spec das MC-Concern der gesicherten Funktionalen Multiplizität, in B das sichtbar kollabierende Universum. Das Rauschen kommt sensorisch und ontologisch von allen Seiten, und das Wir-Geflecht erkennt, dass das Gewonnene nicht reicht und der Sieg trügerisch war. In einem Stille-Beat erscheint Juna zum ersten Mal direkt, einfach da, ohne Worte, ohne Anweisung, ihre Stimme als Raum statt als Klang; Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen, und als Genesis-Echo wird die ursprüngliche Resonanz diesmal empfangen statt abgewehrt. Mit pluraler Bewahrung als Lösung entscheidet das Wir, ins Ouroboros zu gehen. Kernwelten vollständig setzt die Externe Ebene und KW4 simultan, mit Junas noch offenem Ankerpunkt in Köln, und sagt, dass Kael hier die Position des Lesers erreicht, laut der Plot-Konkretisierung beantragt alles zugleich seine Bewahrung und ab Junas Erscheinung ruht der Faden, und die AEGIS-Subplots lasen das Chaos nach AEGIS' Fall als Quelle für Neues und Unerwartetes.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Die Signatur bleibt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L403]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+- Plot: „Unabhängig von Kaels und AEGIS' Schicksal bleibt die Moonshine-Signatur als Phänomen bestehen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406], „ein Echo der tiefen Symmetrien von M.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406]
+- On J: „Wenn J eine separate Entität ist, könnte ihr Schicksal oder ihre fortgesetzte Existenz angedeutet werden, verbunden durch die Signatur.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406] The document names her only as `J` (J111), never Juna.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -30,6 +38,15 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Subplot idea: „Das kreative Chaos“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L517]
 - Story: „In der instabilen Umgebung nach AEGIS' Fall (oder Schwächung)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] · „neue, seltsame 'Lebensformen' oder Strukturen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
 - Story: „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Fusion der Ebenen (Autopoiesis)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: „AEGIS gibt den sinnlosen Kampf gegen die Entropie auf.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die KI integriert Junas Rauschen als fundamentalen Bestandteil des Systems.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
+- Heat: „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die K1- und K0-Kernel koexistieren, ohne sich gegenseitig zu vernichten.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
+- Establishes: „Die Maschine hat das Fühlen gelernt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Fundament as a Strange Attractor, and the Ouroboros
 
@@ -152,6 +169,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 - **What the chaos is.** „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] (aegis-subplots) · „Beat 1 — Das Rauschen kommt: sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1172] (strukturierter Outline) · „das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L399] (storyform outline).
 - **Vortex 2 or Resolution.** „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L905] · „B: das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036] (konsolidiertes Konzept) · „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „0% (nur A aktiv)“ ^[dual-storyform-hintergruende-md.md:L337] · „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] (the Dual-Storyform background document), which names no second Vortex · „Resolution: Fundament = Strange Attractor, Trennung nie real, ändert nichts am Schmerz. Ouroboros.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220] (the Hard-SF-Outline, its checklist's Fixpunkt for this chapter), which names no Vortex: `Vortex` stands 0 times (`05-verify-readers.txt`).
+- **Cold neon to warm pulsing.** The Ultra-Plot puts this chapter's turn as „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] (the Ultra-Plot) — AEGIS' cold control giving way to Juna's warmth as it stops fighting entropy. (C11)
 
 ## Questions for this chapter
 

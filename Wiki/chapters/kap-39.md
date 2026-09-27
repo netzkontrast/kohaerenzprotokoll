@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 16
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C12", "C10"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,14 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In der äußeren Heldenreise ist das Resurrection und Return with the Elixir, laut der Spec allein Return with Elixir, im Vortex der ontologischen Wendung, dessen Beats die Pläne verschieden zählen, und in Kishōtenketsu laut Spec und strukturierter Outline der Übergang von Ten zu Ketsu, laut dem Kapitel-Kompendium schon Ketsu, Synthese statt Showdown; in Storyform A gelingt es mit hohen Kosten, dem Verlust der Privatheit des Wir, laut der Spec gut, aber rekursiv, in B scheitert es mit der Dividende, dass die Funktion bleibt und die Form geht. Das Wir-Geflecht löst sich aus seiner privaten Form und verwandelt sich in Wir-AEGIS-plural: AEGIS-monolithisch erlischt, AEGIS-plural entsteht, und Kael-als-Wir wird die neue AEGIS, aber wesensanders, wobei Kapitel-Kompendium und Storyform-Outline AEGIS-monolithisch schon im Vortex der operativen Wendung erlöschen lassen; mehrere Pläne sehen hier den Genesis-Beat vollzogen, der das Wir als AEGIS-plural setzt, und der Schluss-Klang lautet, dass Liebe bleibt wie der Schmerz. Laut Kapitel-Kompendium, Storyform-Outline und Plot-Konkretisierung schreibt Kael von Hand, gegen das Log-Format, den letzten Bericht, das Buch, und setzt als letzten Satz den gelockten Erstsatz, womit sich die Ouroboros-Klammer zum Anfang seiner Geschichte schließt; die Telefon-Stille wird eingelöst, und laut Kernwelten vollständig sieht das Wir alle Welten gleichzeitig. Die Spec endet hier das Buch, mit einem offenen, ambivalenten Kael und ohne Erzähler-Kommentar, während die meisten Pläne eine Coda folgen lassen; die AEGIS-Subplots schlugen einen gezeichneten Kael vor, der als Wächter einer fragilen Ordnung ein Rest-AEGIS anerkennt und von ihm anerkannt wird.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Coda: Resonanz“ ^[monstergruppe-primzahlen-plot-blueprint.md:L413]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“, Ende ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+- Plot: „Ein letztes, eindringliches Bild oder eine Szene, die die zentralen Themen des Romans“ ^[monstergruppe-primzahlen-plot-blueprint.md:L416] — „Kohärenz, Realität, Bewusstsein, die Grenzen der Logik“ ^[monstergruppe-primzahlen-plot-blueprint.md:L416] — „widerspiegelt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L416].
+- Establishes: „ein Gefühl von Abschluss, aber auch von der unendlichen Komplexität der Realität“ ^[monstergruppe-primzahlen-plot-blueprint.md:L416].
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +39,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael steht am Ende seiner Reise, integriert, aber gezeichnet.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531]
 - Story: „vielleicht als eine Art Hausmeister des Kernsystems“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531] · „Kael und dieses Rest-AEGIS erkennen sich gegenseitig an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531]
 - Story: „Kael übernimmt vielleicht eine neue Rolle als eine Art Moderator oder Wächter dieser neuen, fragilen Ordnung.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Statusbericht – Zielkohärenz erreicht“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“, Ende ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: „Der Roman schließt nicht mit einem traditionellen Epilog, sondern mit einem maschinellen AEGIS-Systembericht, generiert aus dem Post-Quantum-Zustand.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139]
+- Establishes: „Die Anomalien wurden nicht eliminiert, sondern als“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139] Mosaik-Herz integriert. „Zielkohärenz v2.0 erreicht. Residuale Entropie innerhalb der lebensnotwendigen Parameter.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139] „Die Simulation endet nicht, sie beginnt zu leben.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael wakes at 21°C in functional multiplicity, his knuckle scars healed
 

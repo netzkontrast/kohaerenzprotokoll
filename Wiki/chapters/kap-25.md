@@ -1,9 +1,9 @@
 ---
 chapter: 25
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
-records: ["C9", "C11", "C14"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
 
@@ -22,6 +22,13 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 An der Wegkreuzung erkennt Kael, dass Freiheit nur außerhalb von AEGIS' System möglich ist, und AEGIS bemerkt seine neue Klarheit; das Kapitel-Kompendium und die Storyform-Outline setzen es als Stehen an der Schwelle, ausdrücklich nicht als Beginn der Konfrontation, die Plot-Konkretisierung als Niederlegung, in der Kael nichts mehr bestätigt und die Schlange einfach wächst. Im zyklischen Modus ist es die Vorbereitung des Wendepunkts zur Befreiung, den das Kapitel-Kompendium mit dem folgenden Kapitel teilt, laut der strukturierten Outline im Shō, laut Kapitel-Kompendium und Storyform-Outline im zweiten Akt, laut Kernwelten vollständig an dessen Ende. In Storyform A trägt es laut mehreren Quellen MC-Concern Memory, die Klarheit über die Notwendigkeit, in B OS-Physics; laut der strukturierten Outline wird der Optionlock von A spürbar, und das Forewarning von B erreicht sein Maximum. Laut der strukturierten Outline kehrt die Zahl 734 wieder, die Kael nun für eine Adresse oder einen Namen hält, Kernwelten vollständig legt das Kapitel in KW3 in die Wartungsschächte und zur Wohneinheit 734, und laut der Storyform-Outline wird an dieser Wende der Schleier offen benannt. Die AEGIS-Subplot-Sammlung kennt hier eine umgeschriebene Geschichte, in der AEGIS veränderte Aufzeichnungen für korrekt und Kaels Gedächtnis für fehlerhaft erklärt.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Die Ruhe vor dem Sturm“ ^[monstergruppe-primzahlen-plot-blueprint.md:L271]
+Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
+
+- Plot: „Ein Moment relativer Ruhe, bevor AEGIS seine letzte Option wählt.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L274] „Kael reflektiert über seine Reise, seine Integration, die Verbindung zu J.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L274]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +37,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die umgeschriebene Geschichte“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L344]
 - Story: „Er findet die Aufzeichnungen subtil verändert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L345]
 - Story: „beharrt AEGIS darauf, dass die Aufzeichnungen korrekt sind und Kaels Gedächtnis fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L345]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Das absolute Protokoll des Cerberus“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107]
+Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L81]
+
+- Plot: „Kael wird von den Drohnen des Guardians Cerberus in die Enge getrieben.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107] „Cerberus, der logisch und mit eiskalter Präzision argumentiert, bietet Kael den "Frieden" der absoluten Löschung an.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107]
+- Science: „Dies repräsentiert den thermodynamischen Big Freeze“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107], the state of maximal entropy.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Selene coordinates the alters' first synergy
 
@@ -179,6 +194,8 @@ Position: „Akt II — Schwelle" ^[kp-kap25-2026-09-14-md.md:L31]
 
 - **Title.** „Wegkreuzung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602] (Konzept-Iteration Genesis) · „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L827] (strukturierter Outline) · „Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium); the second is the Genesis document's stage name, „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602], the third its position for two chapters, „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364] (Konzept-Iteration Genesis), and the Kompendium gives the one title to both: „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium). The Kap-25 session log gives the manuscript's chapter the first: „Wegkreuzung" ^[2026-09-14-kap25-vertiefung-md.md:L11] (Kap-25 session log), and says the Plot-Konkretisierung names Kap 25 „Die Niederlegung" ^[2026-09-14-kap25-vertiefung-md.md:L31] (Kap-25 session log). The Kap-25 chapter file itself carries the first, in its frontmatter and in the prose's heading: „Wegkreuzung" ^[kp-kap25-2026-09-14-md.md:L18] (Kap-25 chapter file) · „Synergie der Alters“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162] (the Hard-SF-Outline).
 - **The number 734.** „Die Zahl 734 erscheint zum dritten Mal — Kael ahnt jetzt, dass das eine Adresse oder ein Name ist.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L837] (strukturierter Outline) · the Kap-25 chapter file claims of its canon „Anker 734 dritte Wiederkehr" ^[kp-kap25-2026-09-14-md.md:L48], and its prose renders no such thought: 734 stands on four prose lines, the system's capital-letter lines (L56, L211, L217) and one record line in italics (L79), never in a sentence of the first person's; `Adresse` and `Name` stand 0 times (`05-verify-readers.txt`) (Kap-25 chapter file).
+- **Cerberus, a Guardian of KW3.** The Ultra-Plot gives Cerberus this chapter as the Guardian who offers „Kael den "Frieden" der absoluten Löschung an“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107] (the Ultra-Plot), matching its own table's „Grenzfeste (KW3) | Cerberus (Abwehr/Angst)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L42] pairing — one more source on the Guardian-world assignments. (C6)
+- **Cold, not warmth.** The Ultra-Plot's Cerberus argues „mit eiskalter Präzision“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107] (the Ultra-Plot) for the peace of erasure — cold as the temptation this chapter offers, beside this page's other readings on heat and cold. (C11)
 
 ## Questions for this chapter
 

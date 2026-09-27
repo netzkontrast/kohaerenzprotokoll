@@ -1,0 +1,29 @@
+dkt: grep -cw DKT Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0; grep -cw K1 -> 0; grep -cw K0 -> 0; grep -cw Coheron -> 0
+kohaerenz-kernel: grep -cw K1 Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0; grep -cw Coheron -> 0
+kollaps-kernel: grep -cw K0 Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0; grep -cw Erason -> 0
+landauer-signatur: grep -cw Landauer Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0; grep -cw Hitze -> 0; grep -cw Ozon -> 0; grep -cw Wärme -> 0
+hitze-polaritaetsregel: grep -cw Hitze Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0; grep -cw kalt -> 0; grep -cw warm -> 0; grep -cw Ozon -> 0
+grosse-mauer: grep -cw Mauer Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 1 (L191, the chapter title "Jenseits der Mauer: Das Potentialmeer" — a title, J9; no description of the wall itself, only what lies beyond it)
+nichts-rauschen: grep -now Rauschen Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> L228 only, AEGIS dismissing the Moonshine-Signatur as noise (belongs on moonshine-link, not on nichts-rauschen's void)
+kap-01.md: grep -cw 'Konstrukt-Stadt' Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+kap-11.md: grep -cw 'Juna' Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0 (writes only J, J111)
+kap-12.md: grep -cw 'Juna' Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0 (writes only J, J111)
+goedel-gambit: not read — grep -cw Gödel Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+kap-38.md: grep -cw 'Juna' Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0 (writes only J, J111)
+selene.md: not read — grep -cw Selene Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+argus.md: not read — grep -cw Argus Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+lia.md: not read — grep -cw Lia Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+coheron.md: not read — grep -cw Coheron Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+erason.md: not read — grep -cw Erason Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+ouroboros-struktur.md: not read — grep -cw Ouroboros Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+aegis-teilfunktionen.md: not read — grep -c 'Zero-Trust\|Cognitive Firewall\|Integrity Guardian\|SIS' Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+lex.md: not read — grep -cw Lex Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+alex.md: not read — grep -cw Alex Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+rhys.md: not read — grep -cw Rhys Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+nyx.md: not read — grep -cw Nyx Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+kiko.md: not read — grep -cw Kiko Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+isabelle.md: not read — grep -cw Isabelle Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+moros.md: not read — grep -cw Moros Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+silas.md: not read — grep -cw Silas Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+oblivion.md: not read — grep -cw Oblivion Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0
+entropie.md: not read — grep -i entropi Sources/drive/monstergruppe-primzahlen-plot-blueprint.md -> 0

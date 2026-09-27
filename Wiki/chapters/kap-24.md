@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,13 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Kael sucht die Verbindung zu Juna, die AEGIS zyklisch stört; laut der strukturierten Outline lernt er, sie aktiv zu suchen und zu nutzen, während AEGIS den Kanal als feindlich erkennt und Juna im Witness-Modus da ist, ohne einzugreifen, was mehrere Quellen als die ursprüngliche Form ihrer Anwesenheit aus der Genesis lesen. Im zyklischen Modus ist es das wiederkehrende Thema von Kael und Juna, das GOAL neben den Spiral-Zyklen eigens nennt, laut der strukturierten Outline im Shō, laut Kapitel-Kompendium und Storyform-Outline im zweiten Akt, laut Kernwelten vollständig an dessen Ende, laut der Plot-Konkretisierung im Block der Niederlegung. In Storyform A dominiert laut mehreren Quellen RS-Physics, die Verbindung trotz Störung, in B OS-Psychology, die Host-System-Verstrickung wird komplex. Laut Kernwelten vollständig spielt es in KW3 in den Gängen der Paranoia, die Telefon-Stille wird zur hörbaren Substanz, das Kapitel-Kompendium nennt Moonshine als Werkzeug, und die Storyform-Outline nennt das Kapitel als zu verdichten. Die Plot-Konkretisierung schlägt vor, dass Kael sein Register auf die inneren Stimmen verteilt und so die plurale Bewahrung als Technik gewinnt; die AEGIS-Subplot-Sammlung kennt hier einen Empathie-Test, nach dem Kael schließt, dass AEGIS simuliert, aber nicht fühlt.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Der Lockruf der Freiheit“ ^[monstergruppe-primzahlen-plot-blueprint.md:L261]
+Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
+
+- Plot: „Kael, nun weitgehend integriert und die Moonshine-Verbindung meisternd, entscheidet sich für seinen Weg“ ^[monstergruppe-primzahlen-plot-blueprint.md:L264], „sei es Flucht, Konfrontation oder Transformation der Simulation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L264]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +37,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der Empathie-Test“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L331]
 - Story: „Kael versucht, eine genuinely empathische oder subjektive Reaktion von AEGIS oder einem hochrangigen Guardian hervorzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
 - Story: „Kael kommt zu dem Schluss, dass AEGIS simuliert, aber nicht fühlt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Epigenetische Geister“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L105]
+Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L81]
+
+- Plot: „Kaels Gedanken werden zäh, seine motorischen Fähigkeiten schwinden.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L105] „Das System versucht, die Rebellions-Alters chemisch zu“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L105] „silencen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L105].
+- Establishes: „Ein grauer, drückender Schleier legt sich über sein K0-Erleben.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L105]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the twist: the Fragmentierungsnacht, and the worlds and companions revealed as a split mind
 

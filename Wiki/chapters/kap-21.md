@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,15 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen die Membran in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Destabilisierung, mit der der dritte Spiral-Zyklus beginnt, und laut der Konzept-Iteration Genesis die Mitte des Genesis-Clusters. Kael testet bewusst die Grenzen der Simulation und spürt das Potentialmeer, laut der strukturierten Outline auch AEGIS' Verletzlichkeit; im Genesis-Flashback des Trennungsprotokolls fühlt er einen Schmerz, ohne den Kontext zu haben, und laut der Konzept-Iteration Genesis spürt er die Leere unter der Simulation als das Nichts-Rauschen der Genesis, jetzt direkt. Storyform A führt die MC-Concern der Ontologie-Tiefe, laut dem konsolidierten Konzept und der Storyform-Outline als Juna-Echo; für Storyform B nennen die Konzept-Iteration Genesis und das konsolidierte Konzept die RS-Physics als Moonshine-Spüren des Potentialmeers, die strukturierte Outline dagegen den zweiten Signpost der RS, Conceiving, in dem AEGIS Kael als unkontrollierbar reformuliert. Laut Kernwelten vollständig liegt die Szene im Wald des Flüsterns in KW2, einer semipermeablen Erinnerungslandschaft mit Stimmen vergangener Versionen, und Membran-Wahrnehmung und Vibrieren an einer Grenze, die nicht aus Material ist, tragen sie. Laut der Plot-Konkretisierung wird der Ontologie-Riss zum Verwaltungs-Paradox, wie man konsolidiert, was nie geführt wurde, um die Kiste, die laut Bestandsführung nie existiert hat, in einer Szene getrennt vom Flashback.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Die Sprache der Symmetrie“ ^[monstergruppe-primzahlen-plot-blueprint.md:L231]
+Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
+
+- Plot: Kael beginnt, die Sprache der Moonshine-Signatur zu verstehen und zu nutzen — „der Moonshine-Signatur zu verstehen und zu nutzen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L234] — „Dies verleiht ihm neue Fähigkeiten innerhalb der Simulation“ ^[monstergruppe-primzahlen-plot-blueprint.md:L234].
+- Integration: „Kael interagiert nun bewusst mit dem M-Fundament auf einer tieferen Ebene“ ^[monstergruppe-primzahlen-plot-blueprint.md:L235].
+- AEGIS: „AEGIS beobachtet diese neuen Fähigkeiten mit wachsender Ratlosigkeit und Alarmbereitschaft“ ^[monstergruppe-primzahlen-plot-blueprint.md:L234].
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -31,6 +40,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael erhält Zugang (vielleicht durch eine Guardian-Interaktion, einen tiefen Riss oder das Finden eines Kernsystemprotokolls)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 - Story: „'emotionale Volatilität', 'Netzwerkkonnektivitätsdichte'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
 - Story: „Kael erkennt, dass AEGIS aktiv versucht, menschenähnliche Züge zu minimieren, die es nicht kontrollieren oder verstehen kann.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L293]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Das konstruierte Narrativ“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99]
+Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L81]
+
+- Plot: „Im Auge des Sturms wird Kael durch den Manipulator-Alter Eos 1 mit gefälschten, idyllischen Kindheitserinnerungen überflutet“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99], to lure him from Kiko.
+- Philosophy: „Philosophisch wird hier das Selbst als bloßes narratives und konstruktivistisches Kontinuum entlarvt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99]
+- Sensorik/tell: „die Blumen sondern keinen Duft ab“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99] and „der Wind fühlt sich an wie die sterile Abluft von Serverkühlern“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99] betray the illusion as false.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the entropic-gravity set-piece at the Cerberus-Zitadelle
 

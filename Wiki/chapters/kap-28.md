@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,13 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 AEGIS eskaliert, und ein Ereignis zwingt Kael zum sofortigen Handeln: laut Konzept-Iteration Genesis und Storyform-Outline die Purge-Drohung und Juna in Gefahr zugleich, laut der strukturierten Outline das eine oder das andere, je nach einer offenen Frage; der Countdown beginnt. Die Plot-Konkretisierung fasst die Purge als Voll-Konsolidierung des Stadtgebiets in Apparat-Sprache und lässt die Wartungsfenster erstmals ihren Takt verlieren; die AEGIS-Subplot-Sammlung kennt hier eine Erinnerungswaffe, mit der AEGIS alte Traumata bei Kael reaktiviert. Es ist der Ruf zum Abenteuer der Heldenreise außen, laut der strukturierten Outline im beginnenden Ten; die meisten Quellen legen es in die Phase A des dritten Akts, der Konzept-Master in die Vorbereitung des Vortex mit dessen Vorläufern, Kernwelten vollständig dagegen an das Ende des zweiten Akts, in den Phase-Shift zwischen KW3 und KW4 an unbewachten Toren. In Storyform A trägt es MC-Issue, die Notwendigkeit zu handeln, und laut Kapitel-Kompendium und Storyform-Outline wird die Consequence von A akut, ewige Fragmentierung droht; in B trägt es OS-Physics mit expliziter Erasure-Drohung, laut der strukturierten Outline mit sichtbarem Timelock-Countdown. Die Storyform-Outline nennt das Kapitel als zu verdichten.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Das Versagen der Eindämmung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L305]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+- Plot: AEGIS' „großangelegte Aktion (Reset, Angriff, etc.) schlägt fehl oder hat katastrophale unbeabsichtigte Folgen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308] and „destabilisiert das M-Fundament noch weiter und beschleunigt den Kollaps der Simulation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +38,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „um Bedingungen nachzubilden, die mit vergangenen Traumata verbunden sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Alternativ könnte AEGIS einen Guardian wie Mnemosyne verwenden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388] · „(Umkehrung der Effekte aus Kapitel 8)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Kael kämpft darum, seinen integrierten Zustand gegen diesen Ansturm aufrechtzuerhalten.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Sein zum Tode und die Umarmung von Moros“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: Im unendlichen Fall „begegnet Kael Moros, dem Alter des ultimativen Kollapses und der Hoffnungslosigkeit.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117]
+- Philosophy: „Heideggers fundamentalontologisches“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] „Sein zum Tode“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] „wird hier realisiert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117]: only accepting his own finitude lets Kael's fall slow.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Bekenstein trap flattens KW4's garden into a hologram
 

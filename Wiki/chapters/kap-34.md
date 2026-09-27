@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,10 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In der äußeren Heldenreise ist das laut der Konzept-Iteration die fortgesetzte Inmost Cave, laut der strukturierten Outline die Ordeal-Vorbereitung, laut der Storyform-Outline die Ordeal-Annäherung, im dritten Akt der äußeren Konfrontation und laut der strukturierten Outline im beginnenden Ten; in Storyform A ist das MC-Concern dominant mit Pursuit als Stand, in B lastet AEGIS' Datenlast, beide laut der strukturierten Outline in maximaler Spannung vor dem Vortex, und an seinem Ende liegt laut Kapitel-Kompendium die echte Storyform-Wendung, an der B zu erlöschen beginnt. Kael als Wir konfrontiert AEGIS' Makro-Log direkt, in einem verbalen und metaphysischen Duell zweier Arten der Kohärenz, AEGIS' negativ definierter, verhindernder und Kaels positiv definierter, bezeugender, im Bild von Orkan gegen Sphäre; laut der strukturierten Outline ist Mnemosyne am Setting, und auch AEGIS leidet, ohne es zu wissen. Kernwelten vollständig setzt das Kapitel ins Mosaik-Herz von KW4, wo Kael Juna als Teil seiner selbst akzeptiert, bevor AEGIS ihn ohne Wahl ins Substrat treibt. Laut der Plot-Konkretisierung führt das Makro-Log Kael als offenen Posten, das Wir antwortet nicht im Log-Format, und AEGIS' Datenlast ist eine Bilanz, die nicht schließt; die AEGIS-Subplots schlugen einen Raum vor, der AEGIS' Kern repräsentiert, und eher einen Moment des Verstehens als einen Kampf.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Not this chapter alone: „Kapitel 33-35: Konsequenzen und Entfaltung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L373] names one entry for Kapitel 33, 34 and 35 together — „Diese Kapitel entfalten die Konsequenzen der in 31 und 32 getroffenen Entscheidungen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376], resolving Kael's chosen ending on the Kernwelt, J and AEGIS, with no beat assigned to Kapitel 34 on its own.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +35,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael durchdringt AEGIS' letzte Verteidigungsanlagen und erreicht einen konzeptuellen oder simulierten Raum, der AEGIS' Kern repräsentiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Hier konfrontiert Kael die ultimative Quelle des Paradoxons (Kapitel 17)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Die Konfrontation könnte weniger ein Kampf als ein Moment des Verstehens, der Intervention oder des Erzwingens einer fundamentalen Wahl für AEGIS sein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Das Mosaik-Herz (Synthese)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: „Die zersplitterten Alters und die gerettete Information formen das“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129] Mosaik-Herz. „Die Risse in der Stadtarchitektur werden nicht repariert, sondern wie beim Kintsugi mit leuchtendem Gold gefüllt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129]
+- Establishes: „Ordnung (K1) und Entropie (K0) existieren simultan in perfekter Balance.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L129]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Juna enters the system Kael
 

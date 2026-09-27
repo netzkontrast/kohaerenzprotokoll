@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,13 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Die Verbindung zwischen Kael und Juna wird zum stabilen, bewussten Kanal, Moonshine wird bewusst; Juna bleibt laut der strukturierten Outline unbeschrieben, nur die Telefon-Stille wird zur klingenden Substanz, und laut der Plot-Konkretisierung ist sie nie Subjekt, der Kanal hat keine Kennung und existiert für den Apparat nicht. Es ist die Begegnung mit dem Mentor der Heldenreise außen und die Kulmination dieser Verbindung, laut der strukturierten Outline im beginnenden Ten das Resonanz-Maximum vor dem Vortex, in der Phase A des dritten Akts, bei der Plot-Konkretisierung im Block des Deserteurs. In Storyform A trägt es RS-Physics, Moonshine als bewussten Kanal, laut Kapitel-Kompendium und Storyform-Outline als Prerequisite von A, während B latent ist; mehrere Quellen lesen Junas Kanal als Genesis-Echo, als Ur-Resonanz-Modus, jetzt angenommen. Kernwelten vollständig legt das Kapitel in KW4 mit einem Echo der Externen Ebene und dem Beginn des Gödel-Gambits; die AEGIS-Subplot-Sammlung kennt hier neue Guardians, Architekten, die die Realität gezielt als Waffe verformen.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Transzendenz der Logik“ ^[monstergruppe-primzahlen-plot-blueprint.md:L325]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+- Plot: Kael „gewinnt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L328] „die Konfrontation nicht durch Übermacht“ ^[monstergruppe-primzahlen-plot-blueprint.md:L328], „sondern indem er eine stabilere, kohärentere Existenzweise innerhalb des M-Fundaments demonstriert.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L328]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +38,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „AEGIS setzt einen neuen Typ von Guardian ein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414] · „'Architekten' mit tieferem Zugriff auf den Kerncode der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 - Story: „Wände verschieben sich, die Physik biegt sich unvorhersehbar“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 - Story: „absichtliche, gezielte Realitätsverformung als Waffe“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Der Schiffbruch des Denkens“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L121]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: „AEGIS erkennt den drohenden Kontrollverlust und initiiert einen finalen Wipe.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L121] „Das rationale Begreifen scheitert an der Grenze, wodurch sich paradoxerweise das“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L121] Umgreifende offenbart (Jaspers).
+- Establishes: the deadly K1-code prints as „todbringenden K1-Codes werden als blasses, formatiertes Hintergrundrauschen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L121] while Kael's K0-perception stays warm and calm.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kairos and Sophia, as Guardians of wisdom, tempt Kael
 

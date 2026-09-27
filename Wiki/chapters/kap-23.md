@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,14 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen die Mosaik-Schöpfung in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig an dessen Ende und an den Übergang von KW2 zu KW3; sie ist die Korrektur, mit der der dritte Spiral-Zyklus schließt, und laut der Plot-Konkretisierung das Ende ihres Blocks Der Innentäter. Nach AEGIS' Eskalation greift Kael auf seine innere Vielfalt zurück, um die Krise zu meistern, Selbst-Schöpfung statt Reparatur, laut der Konzept-Iteration Genesis mit dem Mosaik-Herz als innerer Ressource, erzählt laut der strukturierten Outline und der Drei-Modi-Spec aus Kael als Wir, stabil und resilient, laut der strukturierten Outline mit allen ANPs und EPs in beginnender Kooperation. Storyform A führt die Selbst-Schöpfung als MC-Concern und laut dem Kapitel-Kompendium als Requirement, Storyform B bleibt latent; als Echo der Genesis ist die innere Schöpfung laut der Konzept-Iteration Genesis, dem konsolidierten Konzept und der strukturierten Outline die Vorform der kosmischen Schöpfung. Mosaik-Bildung als aktiver Prozess trägt die Szene, laut der strukturierten Outline Scherben, die sich ohne Plan zueinander finden, und laut Kernwelten vollständig betritt Kael hier KW3 an Schleusen und Wachtürmen, unter der Dominanz der Protektoren. Laut der Plot-Konkretisierung legt Kael den ersten Datensatz an, den die Welt nicht zugewiesen hat, das Gegenregister unter eigener Kennung, Schöpfung in der Sprache des Apparats.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „AEGIS' Dilemma: Parakonsistenz am Limit“ ^[monstergruppe-primzahlen-plot-blueprint.md:L251]
+Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
+
+- Plot: „Interner Fokus auf AEGIS. Es steht vor einem unlösbaren Dilemma.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L254]
+- AEGIS' options: „ein kompletter System-Reset“ ^[monstergruppe-primzahlen-plot-blueprint.md:L254], „könnte M beschädigen oder das Potentialmeer freisetzen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L254], or a direct confrontation with Kael.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +38,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Textur abziehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L318]
 - Story: „Vielleicht während der in Kapitel 22 verursachten Störung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319] · „das Rendering eines bestimmten Bereichs oder Objekts kurzzeitig zu 'brechen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
 - Story: „Drahtgittermodelle, sich wiederholende Texturkacheln, Codezeilen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Symmetriebruch und der Zorn des Nyx“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103]
+Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L81]
+
+- Plot: „Die Rettung triggert den aggressiven Persecutor-Alter Nyx“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103], who „gewaltsam aus seiner Isolation in der Grenzfeste ausbricht, um AEGIS für den Angriff auf Kiko zu bestrafen.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103]
+- Science: „Die absolute Symmetrie von AEGIS bedeutet den Tod“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103]; Nyx' „brachiale Asymmetrie (Wut) bewahrt das System vor dem Erstarren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Moros tells Kael that AEGIS arose from Kael himself
 

@@ -1,9 +1,9 @@
 ---
 chapter: 29
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
-records: []
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+records: ["C6"]
 gathered: "2026-09-25"
 ---
 
@@ -22,6 +22,13 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Letzte Ängste und Trauma-Erinnerungen tauchen auf, der Kind-Anteil wird sichtbar; laut der strukturierten Outline ist Kiko deutlich sichtbar, Moros zieht im Hintergrund, und Kael muss die Anteile integrieren, um voranzuschreiten. Es ist die Weigerung der Heldenreise außen, laut der strukturierten Outline im beginnenden Ten, in der Phase A des dritten Akts, bei der Plot-Konkretisierung im Block des Deserteurs; Kernwelten vollständig legt hier den Eintritt in den Möglichkeits-Garten von KW4, als Phase-Shift statt Ortswechsel, mit der Werkstatt der Schöpfung als möglichem Ort. In Storyform A flammt laut mehreren Quellen das Problem Avoidance ein letztes Mal auf, in B trägt es RS-Psychology, die Verstrickung wird tief, und laut der strukturierten Outline zeigt sich die Host-System-Symbiose. Die Plot-Konkretisierung lässt ihren Faden hier bewusst ruhen, und die AEGIS-Subplot-Sammlung kennt hier eine Szene, in der Kael LogOS mit einer logischen, aber selbstwidersprüchlichen Aussage austrickst.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Kollidierende Realitäten“ ^[monstergruppe-primzahlen-plot-blueprint.md:L315]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+- Plot: „Der Höhepunkt der Konfrontation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318] „Kael (verkörpert M-Integration) und AEGIS (verkörpert reduktionistische Kontrolle) treffen direkt aufeinander“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318] — „ein Aufeinanderprallen inkompatibler Seinsweisen und Logiken.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +38,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael wird von LogOS (oder einem anderen logikbasierten Guardian) in die Enge getrieben.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
 - Story: „eine perfekt logische, aber selbstwidersprüchliche Aussage“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
 - Story: „gerät in eine Verarbeitungsschleife oder einen temporären Absturzzustand, was Kael ermöglicht, ihn zu umgehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L401]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Die Auflösung der Membran“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: „Der Abgrund transformiert sich fließend in den Möglichkeits-Garten (KW4).“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119] „Die Guardians Kairos und Sophia versuchen vergeblich, Kael in ihre Wahrscheinlichkeitsmatrizen einzufangen.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]
+- Science: „Wissenschaftlich wird hier die Identität als semipermeable Membran definiert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]; „Der Leser erfährt die Entgrenzung als ekstatischen Zustand.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Island-Formel breaks the hologram
 
@@ -114,6 +129,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Title.** „Angst des Kindes“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis) · „Refusal: Letzte Zweifel, Trauma-Echo“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L927] (strukturierter Outline); the second opens with the Genesis document's stage name, „HR-Stufe 3: Refusal“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis) · „Die Island-Formel“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176] (the Hard-SF-Outline).
+- **Kairos and Sophia, Guardians of KW4.** The Ultra-Plot places this chapter in „den Möglichkeits-Garten (KW4)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119] (the Ultra-Plot), watched by „Die Guardians Kairos und Sophia“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119] (the Ultra-Plot) — matching its own table's „Möglichkeits-Garten (KW4) | Kairos & Sophia“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43] pairing. (C6)
 
 ## Questions for this chapter
 

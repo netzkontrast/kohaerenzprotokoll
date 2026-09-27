@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,14 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In der äußeren Heldenreise ist das der Reward, laut Spec und strukturierter Outline Reward und Phasenübergang, laut der Storyform-Outline der Reward als trügerischer Sieg, laut der strukturierten Outline die Pause im Ten, eine eigene Phase des trügerischen Siegs zwischen der operativen und der ontologischen Wendung; es steht nach der Konsolidierung, nach der laut Kapitel-Kompendium nur noch A aktiv ist, in A mit dem MC-Concern der neuen Rolle als Hüter, in B laut Konzept-Iteration und Kapitel-Kompendium scheinbar nicht aktiv, mit feinen Echos als Vorzeichen des Rauschens, laut der Spec nicht mehr aktiv. Kael etabliert sich als Wir in der Rolle des Gärtners: ein klassischer Reward-Beat als falscher Frieden, kristallisierte Ruhe mit feinem Unterton. Am Rand der Wahrnehmung beginnt etwas zu zerfasern; mehrere Pläne nennen dieses Rauschen das Nichts-Rauschen der Genesis, und laut der Konzept-Iteration hütet der Hüter, was schon zerfällt, weil das Universum ohne AEGIS ungeschützt ist. Kapitel-Kompendium und Storyform-Outline verbieten jede Resolution-Glättung, und laut der Plot-Konkretisierung baut Kael einen sanften Apparat, der Zuweisungen beantwortet statt bestätigt, während sich die Schlange mit Einträgen füllt, deren Absender das Rauschen ist. Kernwelten vollständig setzt die trügerische Pastorale in KW4 und nennt sie an anderer Stelle anders verortet; die AEGIS-Subplots schlugen Ordnungsinseln überlebender Guardians und eines rudimentären AEGIS vor, über die Kael entscheiden muss.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Echos im Potentialmeer“ ^[monstergruppe-primzahlen-plot-blueprint.md:L393]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+- Plot: „Ein kurzer Blick über den unmittelbaren Konflikt hinaus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396], hinting „dass AEGIS“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396] „Simulation nur eine von vielen war, oder dass M selbst nur eine mögliche Struktur ist, die aus dem unendlichen Potentialmeer emergiert ist.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
+- Establishes: „Dies verstärkt den kosmischen Horror und die Relativität des gerade Erreichten.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +39,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „überlebende Guardians, lokale 'Ordnungsinseln' zu schaffen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „vielleicht eine rudimentäre Form von AEGIS, die versucht, aus den Trümmern wiederaufzubauen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „Kael muss entscheiden, ob diese Neuorganisation eine Bedrohung oder eine Chance darstellt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Das absolute Limit“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L135]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: „Kael existiert exakt am Ereignishorizont zwischen Sein und Nichtsein“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L135], „berührt die Planck-Skala und den fundamentalen Quantenschaum.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L135]
+- Establishes: „Nur das nackte, ungeschützte Bewusstsein der schieren Existenz bleibt erhalten.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L135]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS gone, the heat cools to warmth
 

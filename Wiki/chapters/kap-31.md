@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,17 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Was mit den Guardians geschieht, erzählen die Quellen verschieden: laut Konzept-Iteration Genesis, konsolidiertem Konzept und Storyform-Outline absorbiert Kael die Guardian-Prinzipien gesund, und die Wächter gehen in Lichtstaub auf, was diese Quellen als proleptische Vorform der Wir-AEGIS-plural lesen; laut der strukturierten Outline beginnt Kael, AEGIS' Kernsystem anzugreifen, und die Guardians bleiben im folgenden Systemkampf Sub-Antagonisten. Die Plot-Konkretisierung macht die Auflösung zu einem doppelten Angebot statt eines Kampfes: Mnemosyne bietet Vollarchiv-Rechte, der Erasure-Pol die Löschung der eigenen Akte, und Kael unterschreibt keines und behält beide Prinzipien. Es ist das Überschreiten der ersten Schwelle der Heldenreise außen, laut der Konzept-Iteration Genesis zugleich Tests, Allies, Enemies, laut der strukturierten Outline im beginnenden Ten, in der Phase A des dritten Akts; in Storyform A trägt es MC-Concern, Memory als Waffe, in B OS-Physics, laut Konzept-Iteration Genesis und konsolidiertem Konzept mit den Guardians als Sub-Antagonisten, laut der Drei-Modi-Spezifikation mit AEGIS' greifender Verteidigung. Die strukturierte Outline schlägt Silas als POV-Träger einer bridge-natürlichen Szene mit Echo-Prosa vor und zeigt den Mnemosyne-Archipel am Horizont, und Kernwelten vollständig legt das Kapitel in KW4 mit Schwellen-Bruch und Klick-Motiv. Die AEGIS-Subplot-Sammlung kennt hier einen Firewall-Bruch, durch den Juna oder V eine stabile Verbindung in AEGIS' simulierte Realität herstellt.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „AEGIS' Schicksal: Kollaps oder Adaption?“ ^[monstergruppe-primzahlen-plot-blueprint.md:L335]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+„Was geschieht mit AEGIS? Mehrere Möglichkeiten“ ^[monstergruppe-primzahlen-plot-blueprint.md:L338] — the chapter leaves it among options rather than deciding:
+
+- Kollaps: „AEGIS' Systeme brechen unter dem logischen Widerspruch und dem Kontrollverlust endgültig zusammen.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L342]
+- Dormanz: „Es zieht sich zurück, unfähig, die neue Realität zu verarbeiten, und wird inaktiv.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L343]
+- Adaption: „Konfrontiert mit dem unbestreitbaren Beweis seines Scheiterns und der Struktur der Moonshine-Signatur, beginnt AEGIS, seine grundlegenden Annahmen zu überdenken.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L344]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +42,14 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Juna/V schafft es, eine stabile Verbindung oder einen Eintrittspunkt in AEGIS' simulierte Realität herzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „AEGIS reagiert mit Verwirrung und Alarm“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „wodurch unbeabsichtigt eine sichere Zone für Kael und Juna/V zur Kommunikation oder Koordination entsteht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Entropische Akzeptanz und die funktionale Multiplizität“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: „Die elf Alters von Kael treten sichtbar nebeneinander.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] „Es findet keine magische Fusion zu einer einzigen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] „gesunden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] „Person statt, sondern die Etablierung eines“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] „Wir-Geflechts“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] (functional multiplicity, IFS).
+- Voice: „Jeder Alter steuert einen isolierten Sinneseindruck bei: Nyx die kinetische Spannung, Lex die Geometrie des Raums, Kiko die staunende Verwunderung.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123]
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael embraces Oblivion, the AEGIS-Echo in himself
 
