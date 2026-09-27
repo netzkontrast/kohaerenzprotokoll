@@ -1,0 +1,481 @@
+{
+  "document": "dramatica-storyform-synthese-aegis-analyse-2",
+  "drive_id": "15FA5XGkcl76KJTY4OZunbgn3Na6SuxSofpuFA-rsvH8",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; readings and record entries written by three Claude readers split by page group, from Plan/runs/dramatica-storyform-synthese-aegis-analyse-2/readings-brief.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 200,
+    "decisions": 196,
+    "decided_by_lookup": 158,
+    "needs_judgement": 38
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report on the dual storyforms; its figures, worlds and physics have pages. Its method apparatus (hypothesis tree, eight encodings, logs) is its own, and the storyform vocabulary is Dramatica's.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        27,
+        29,
+        31,
+        41,
+        45,
+        49,
+        53,
+        59,
+        103,
+        106,
+        115,
+        117,
+        264,
+        265,
+        268,
+        304,
+        326,
+        327,
+        381
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the MC of Storyform B in Universe, tested against two alternatives; the Erasure Kernel; Algorithmische Melancholie as a proto-consciousness"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        33,
+        268,
+        304,
+        322,
+        326,
+        327,
+        507
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the Vortex's fifth beat, a loop of self-analysis; a paraconsistent proto-consciousness, at MEDIUM confidence"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        181,
+        320,
+        469
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "a Guardian debating Kael's deviations in Storyform A's overall story"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        29,
+        109
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "one part of Juna's composite, and Kael's incompressible data"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        17,
+        53,
+        61,
+        93,
+        257,
+        327,
+        507
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the theory as the storyforms' baseline, a DKT-Korrelat for every throughline, and its kernels without their glyphs"
+    },
+    {
+      "page": "evaluierungseinheit",
+      "lines": [
+        145,
+        163
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "a room of Kael's throughline in Storyform B, made to isolate anomalies"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        29,
+        145,
+        161,
+        290,
+        297,
+        314,
+        326,
+        363
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the climax of logic without the name: Kael a living Dialetheia that AEGIS cannot erase, and the Gödel-Satz Juna's"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        115,
+        163,
+        207
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "a place, not a world: a room of Kael's in Storyform B, and a border beside Sektor 04"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        19,
+        49,
+        51,
+        53,
+        111,
+        174,
+        181,
+        264,
+        320,
+        340,
+        344,
+        409,
+        469
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "uncounted system actors: LogOS and Cerberus debating, Mnemosyne a Guardian-MC it rejects, activated by AEGIS"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        91,
+        117,
+        141,
+        276,
+        306
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "heat and ozone AEGIS', cold where AEGIS withdraws and where its fire goes out, and nothing thermal of Juna's"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        29,
+        126,
+        127,
+        137,
+        141,
+        213,
+        304,
+        314,
+        316,
+        359,
+        363
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the IC of A in Universe, outside the quad in B, a composite, only by effect; no appearance placed"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        31,
+        78,
+        79,
+        80,
+        87,
+        93,
+        145,
+        161,
+        268,
+        283,
+        290,
+        304,
+        363
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the Mind-MC of Storyform A and a Be-er; the IC of B as the problem AEGIS cannot solve; the Coherence Kernel"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        85,
+        91
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the sterile Wohneinheit after the Universal Reboot, a room of Kael's throughline in Storyform A"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        31,
+        59,
+        78,
+        444,
+        448
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the Coherence Kernel as Kael's modularity, its glyph lost, and K1 as Storyform A's Optionlock"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        31,
+        51,
+        59,
+        102,
+        117,
+        381,
+        448
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the Erasure Kernel as AEGIS, its glyph lost, a K0-Singularität, and K0 as Storyform B's Timelock"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        85,
+        139,
+        205,
+        276,
+        320,
+        469
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the city of the scene seeds and rooms, its sectors collapsing and fading around the archipelago, and no world number"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        31,
+        109,
+        115,
+        257,
+        276,
+        278,
+        297,
+        306,
+        406
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "heat as AEGIS' erasure and its pain, the spike of Vortex Beat 4, ozone once at Beat 1, and cold where AEGIS withdraws and where the fire goes out"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        181,
+        255,
+        320,
+        469
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "a Guardian debating in Storyform A's overall story, and a subroutine with a control centre in B's relationship story"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        49,
+        51,
+        53,
+        109,
+        205,
+        267,
+        270,
+        276,
+        290,
+        320,
+        414,
+        469
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the strongest candidate for a Guardian as main character, rejected, and her archipelago the ground of the climax"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        187
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "`Möglichkeiten-Garten`, an area: a room of Storyform A's overall story"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        213,
+        225,
+        233,
+        331,
+        335,
+        336
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "Storyform A's relationship story as physical effort, the Moonshine mathematics its correlate, and its boundary answered: universal"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        126
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "a name for Juna, in Storyform A's IC table"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        31,
+        78,
+        159,
+        253,
+        268
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "Kael's functional multiplicity as what he is now, the Coherence Kernel's firewall, not a goal"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        213,
+        231
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "a room of Kael and Juna's relationship story, a Verschränkungs-Insel far from AEGIS' sensors"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        139,
+        290,
+        292
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "omnipresent, and absent in the Vortex's Stille"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        115,
+        207
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "an undecidable zone of the city, a room of AEGIS' throughline, and one side of the fracture zone"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        57,
+        61,
+        205,
+        264
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "in the plural, AEGIS' running operations in Storyform B's overall story; no Genesis"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        31,
+        51,
+        59,
+        304,
+        381,
+        414
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the ontological pivot, the inversion of polarity itself, a rule the hypotheses are tested against"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        31,
+        59,
+        159,
+        165,
+        415,
+        440
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the theory as the rule that only Kael may be modular"
+    },
+    {
+      "page": "verschraenkungs-insel",
+      "lines": [
+        231
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "the word for the Nexus, a room of Kael and Juna's bond outside AEGIS' sensors"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        33,
+        270,
+        276,
+        283,
+        290,
+        297,
+        304,
+        313,
+        316
+      ],
+      "attribution": "the Dramatica-Synthese, 2026-04-30",
+      "note": "one Vortex in Kapitel 35–36, five beats with sensory anchors and no chapter cut, the pivot a Driver-Flip, and the witness layers in Beats 2, 3 and 4"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      13,
+      19,
+      33,
+      41,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      270,
+      426,
+      507
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "C9",
+    "C11",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q4",
+    "Q5"
+  ],
+  "judgements": [
+    "J107"
+  ],
+  "decided_by_existing_rules": "J107 (Möglichkeiten-Garten on moeglichkeits-garten), J50 (the Wohneinheit), J97 (Nichts-Rauschens), J61 (the plural Trennungsprotokolle as AEGIS' ongoing operations), J70, J86, J90, J91, J98/J99 (kernels with the glyph lost, placed by the sentence), J100, J49, J51",
+  "not_promoted": [
+    "the hypothesis tree H1–H3 and the eight per-throughline encodings — this document's method",
+    "Hermitian Witness, ZK-Verifier, Husserlian Disinterested Spectator — the Witness Function's three layers, on juna and vortex",
+    "Post-Vortex-AEGIS-Status, Moonshine-Boundary, Wächter-Zwiespalt-Soziopolitik — its open questions, on algorithmische-melancholie, moonshine-link, guardians",
+    "Lernarchiv Theta-9, Kern-Server-Hub, Wartungsschacht, Kontrollzentrum der Subroutine LogOS — rooms of one encoding each"
+  ],
+  "internal_tension": "LogOS a Guardian (L181) and a Subroutine (L255); the Mnemosyne-Archipel inside the Konstrukt-Stadt's sectors at the Vortex (L276); the pivot a Driver-Flip (L33, L283) where the lock-in says not; Juna outside the quad in B, which a later source calls the rejected reading.",
+  "census_corrected": "cold four times and Wärme once on its own (L91, L115, L117), found by a reader; the correction stands beside the claim",
+  "baseline_moved": false
+}
