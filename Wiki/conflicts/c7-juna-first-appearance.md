@@ -216,8 +216,6 @@ The modes, a research question it restates from the Reset-Doc: „F8 — Junas E
 Kap 33 stands once, for something else: „FM-Achievement Kap 33." ^[dual-storyform-hintergruende-md.md:L335] `Kap 38` and `Ch38` stand 0 times.
 Neither Kap 33 nor Kap 38: a point of view, a seed and an open question, where the status report stood the day before. The conflict stays open.
 
-Neither Kap 33 nor Kap 38; a hint in Kap 3, where the Konzept-Iteration [[genesis|Genesis]] has Kael see her first as an echo. The conflict stays open.
-
 ## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
 
 **Never explicitly physical.**
