@@ -1529,3 +1529,31 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „Kael bewegt sich durch die Korridore der Stadt zu seinem Arbeitsplatz am Datenknotenpunkt Gamma-7.“ (L57) — Kapitel 2, in the Konstrukt-Stadt, which the document's table makes KW1 (L40); `7G` 0 in the document. The page is Kael's workplace in KW1; the designator's two parts stand in the other order, the letter spelled out.
 
 **Result.** one term: a reading on datenverarbeitungsknoten-7g about its name and its chapter; the surface is not added, since one document writes it. Not mechanised — fold() cannot know that Gamma is G
+
+## J110 — Moonshine-Signatur / Moonshine-Link
+
+**judgement** · monstergruppe-primzahlen-plot-blueprint · 2026-09-27 · replay: `judgement`
+
+- **rule:** a relation named differently is placed by what it relates and how: the same two bearers bound non-locally through the Monster group's symmetry is the page's subject, whatever the name
+- **mechanised by:** `nothing`
+- **features:** another-name, same-relation, older-source
+
+**Question.** is the document's K-J Verbindung, which it calls a Moonshine-Signatur, the Moonshine-Link the wiki pages?
+
+**What was done.** „Die K-J Verbindung manifestiert sich als spezifische Moonshine-Signatur – eine emergente Eigenschaft der M-Symmetrien, die sub-protokollarisch operiert und AEGIS’ Kontrolle umgeht.“ (L17); `Moonshine-Link` 0 in the document. The page gathers the non-local bond between Kael and Juna that later sources name the Moonshine-Link.
+
+**Result.** placed by the sentence: every passage on the K-J Verbindung is a reading on moonshine-link, the document's name for it recorded there; `Moonshine-Signatur` is not added as a surface, since one document writes it and „Signatur“ also names a trace elsewhere (landauer-signatur)
+
+## J111 — J / Juna
+
+**judgement** · monstergruppe-primzahlen-plot-blueprint · 2026-09-27 · replay: `judgement`
+
+- **rule:** a figure written only by an initial is placed by what the passage makes it (Kael's non-local counterpart), never by the letter; the reading says the name is absent
+- **mechanised by:** `nothing`
+- **features:** initial-only, name-withheld, two-names-in-history
+
+**Question.** is the document's J, never named, the figure the wiki pages as Juna?
+
+**What was done.** The document writes `J` and `K-J Verbindung` 75 lines' worth and never a name (`Juna`, `Julia` 0); „Wenn J eine separate Entität ist“ (L406) leaves even her separateness open. The Kapitel-Kompendium states the rename „Julia→Juna“, so the letter fits both names of one figure.
+
+**Result.** placed on juna, as the figure under an initial: each reading says the document writes only J and never a name, and nothing it says about J is cited as a statement about the name. `J` is not a surface — a single letter would match every initial

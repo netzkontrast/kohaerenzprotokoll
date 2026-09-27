@@ -1,0 +1,139 @@
+# reconcile-pre — monstergruppe-primzahlen-plot-blueprint
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+
+  120 candidates, 118 decisions — **64 by lookup, 54 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (12) — page exists, this document is not on it yet — a reading
+  AEGIS                                aegis
+  Simulation                           ueberwelt
+  Kael                                 kael
+  Glitch                               risse
+  Kernwelt                             kern-welten
+  Alters                               alters
+  Nexus                                nexus
+  Guardians                            guardians
+  Risse                                risse
+  Emergenz                             emergenz
+  Potentialmeer                        potentialmeer
+  Kernwelten                           kern-welten
+
+## new_term (52) — no page, no near match — a new page
+  Plot-Blueprint                       
+  Monstergruppe                        
+  M                                    
+  Betriebssystem                       
+  M-Fundament                          
+  DID-analog                           
+  K-J Verbindung                       
+  Primzahl-Metapher                    
+  Primfaktorzerlegung                  
+  Eindämmung                           
+  Persönlichkeitszustände              
+  Prime Metaphor                       
+  Fehlklassifikation                   
+  Cosmic Horror                        
+  Hard Sci-Fi                          
+  Kapitel 4                            
+  Perturbations-Agenten                
+  Kapitel 5                            
+  Kapitel 6                            
+  Fragmente der Erinnerung             
+  Kapitel 7                            
+  Flüsternetzwerk                      
+  Kapitel 8                            
+  M-Resonanz Welle                     
+  M-Substrat                           
+  Midpoint                             
+  Kapitel 9                            
+  Analyse-Krise                        
+  parakonsistente Logik                
+  J                                    
+  Tor                                  
+  Paradoxon                            
+  Kausale Schleifen                    
+  Abwärtskausalität                    
+  Parakonsistenz                       
+  Reprogrammierung                     
+  Symmetrie des Widerstands            
+  Baby Monster                         
+  System-Reset                         
+  Integration                          
+  Konfrontation                        
+  Dormanz                              
+  Adaption                             
+  Flucht                               
+  Transformation                       
+  Harmonie                             
+  Coda                                 
+  Kapitel-Übersichtstabelle            
+  NNWDK                                
+  KWDNK                                
+  KWDK                                 
+  Knowing That You Don't Know          
+
+## needs_judgement (54) — NEAR a known surface — one term or two?
+  Wächter-KI  /  Wächter                       near: each other
+  Moonshine-Signatur  /  Moonshine             near: each other
+  Faktorisierung  /  Faktorisierungs-Analogie  near: each other
+  Irreduzibilität  /  Hypothese der Irreduzibilität near: each other
+  Akt I  /  Akt II                             near: each other
+  Akt I  /  Akt III                            near: each other
+  Kapitel 1  /  Kapitel 10                     near: each other
+  Kapitel 1  /  Kapitel 11                     near: each other
+  Kapitel 1  /  Kapitel 12                     near: each other
+  Kapitel 1  /  Kapitel 13                     near: each other
+  Kapitel 1  /  Kapitel 14                     near: each other
+  Kapitel 1  /  Kapitel 15                     near: each other
+  Kapitel 1  /  Kapitel 16                     near: each other
+  Kapitel 1  /  Kapitel 17                     near: each other
+  Kapitel 1  /  Kapitel 18                     near: each other
+  Kapitel 1  /  Kapitel 19                     near: each other
+  Kernwelt  /  Kernwelten                      near: each other
+  Kapitel 2  /  Kapitel 20                     near: each other
+  Kapitel 2  /  Kapitel 21                     near: each other
+  Kapitel 2  /  Kapitel 22                     near: each other
+  Kapitel 2  /  Kapitel 23                     near: each other
+  Kapitel 2  /  Kapitel 24                     near: each other
+  Kapitel 2  /  Kapitel 25                     near: each other
+  Kapitel 2  /  Kapitel 26                     near: each other
+  Kapitel 2  /  Kapitel 27                     near: each other
+  Kapitel 2  /  Kapitel 28                     near: each other
+  Kapitel 2  /  Kapitel 29                     near: each other
+  Kapitel 3  /  Kapitel 30                     near: each other
+  Kapitel 3  /  Kapitel 31                     near: each other
+  Kapitel 3  /  Kapitel 32                     near: each other
+  Kapitel 3  /  Kapitel 33-35                  near: each other
+  Kapitel 3  /  Kapitel 36                     near: each other
+  Kapitel 3  /  Kapitel 37                     near: each other
+  Kapitel 3  /  Kapitel 38                     near: each other
+  Kapitel 3  /  Kapitel 39                     near: each other
+  Protokoll Omega-Sieben  /  Omega-Sieben      near: each other
+  Wächter  /  beschädigte Wächter              near: each other
+  Risse im Code  /  Risse                      near: each other
+  Risse im Code  /  Riss                       near: each other
+  Risse  /  Riss                               near: each other
+  Twin Primes  /  Twin Prime                   near: each other
+  Akt II  /  Akt III                           near: each other
+  Emergenz  /  kausale Emergenz                near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Anomalie                                     near: mustererkennunganomaliedetektion→aegis-metriken
+  Echo                                         near: residualechos→residual-echos
+  Wächter                                      near: wachterdersystemischenstabilitat→aegis
+  KI-Konstrukte                                near: kiko→kiko
+  Risse im Code                                near: risse→risse
+  Riss                                         near: risse→risse
+  Mauer                                        near: groemauer→grosse-mauer, groemauersystemgrenze→grosse-mauer, grossemauer→grosse-mauer
+  Moonshine                                    near: moonshinelink→moonshine-link
+  kausale Emergenz                             near: emergenz→emergenz
+  Kollaps                                      near: kollapskernel→kollaps-kernel, kollapskernelk0→kollaps-kernel
+
+## in_document_not_in_census (3) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  dissoziative Identitätsstruktur      did                          L17
+  Kohärenz                             kohaerenz                    L11
+  Realitätsebene                       realitaetsebenen             L35
+

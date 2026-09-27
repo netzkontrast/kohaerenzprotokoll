@@ -1,0 +1,11 @@
+alex: grep -cw Alex Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 4
+selene: grep -cw Selene Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 3
+nyx: grep -nw Nyx Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md | cut -d: -f1 -> 55 112 116 160 178 206 (count 6)
+lia: grep -cw Lia Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2; grep -cw Flight Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+moros: grep -cw Moros Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2
+argus: grep -cw Argus Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2
+silas: grep -cw Silas Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2; grep -nw Wärme Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md | cut -d: -f1 -> 25 200 
+kap-38: grep -cw 'Vortex' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+kap-39: grep -cw 'Vortex' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+kap-39: grep -cw 'Kapitel 40' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+kap-39: grep -cw 'Kapitel 0' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0

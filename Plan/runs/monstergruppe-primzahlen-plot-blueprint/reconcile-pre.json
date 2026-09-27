@@ -1,0 +1,604 @@
+{
+  "document": "monstergruppe-primzahlen-plot-blueprint",
+  "step": "reconcile-pre",
+  "at": "2026-09-27",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-27",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 120,
+  "decisions": 118,
+  "same_surface": {},
+  "decided_mechanically": 64,
+  "needs_judgement": 54,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 37
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 18
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 34
+      },
+      {
+        "candidate": "Glitch",
+        "page": "risse",
+        "readings": 29
+      },
+      {
+        "candidate": "Kernwelt",
+        "page": "kern-welten",
+        "readings": 29
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 29
+      },
+      {
+        "candidate": "Nexus",
+        "page": "nexus",
+        "readings": 9
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 28
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 29
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 11
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 11
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 29
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Plot-Blueprint"
+      },
+      {
+        "candidate": "Monstergruppe"
+      },
+      {
+        "candidate": "M"
+      },
+      {
+        "candidate": "Betriebssystem"
+      },
+      {
+        "candidate": "M-Fundament"
+      },
+      {
+        "candidate": "DID-analog"
+      },
+      {
+        "candidate": "K-J Verbindung"
+      },
+      {
+        "candidate": "Primzahl-Metapher"
+      },
+      {
+        "candidate": "Primfaktorzerlegung"
+      },
+      {
+        "candidate": "Eindämmung"
+      },
+      {
+        "candidate": "Persönlichkeitszustände"
+      },
+      {
+        "candidate": "Prime Metaphor"
+      },
+      {
+        "candidate": "Fehlklassifikation"
+      },
+      {
+        "candidate": "Cosmic Horror"
+      },
+      {
+        "candidate": "Hard Sci-Fi"
+      },
+      {
+        "candidate": "Kapitel 4"
+      },
+      {
+        "candidate": "Perturbations-Agenten"
+      },
+      {
+        "candidate": "Kapitel 5"
+      },
+      {
+        "candidate": "Kapitel 6"
+      },
+      {
+        "candidate": "Fragmente der Erinnerung"
+      },
+      {
+        "candidate": "Kapitel 7"
+      },
+      {
+        "candidate": "Flüsternetzwerk"
+      },
+      {
+        "candidate": "Kapitel 8"
+      },
+      {
+        "candidate": "M-Resonanz Welle"
+      },
+      {
+        "candidate": "M-Substrat"
+      },
+      {
+        "candidate": "Midpoint"
+      },
+      {
+        "candidate": "Kapitel 9"
+      },
+      {
+        "candidate": "Analyse-Krise"
+      },
+      {
+        "candidate": "parakonsistente Logik"
+      },
+      {
+        "candidate": "J"
+      },
+      {
+        "candidate": "Tor"
+      },
+      {
+        "candidate": "Paradoxon"
+      },
+      {
+        "candidate": "Kausale Schleifen"
+      },
+      {
+        "candidate": "Abwärtskausalität"
+      },
+      {
+        "candidate": "Parakonsistenz"
+      },
+      {
+        "candidate": "Reprogrammierung"
+      },
+      {
+        "candidate": "Symmetrie des Widerstands"
+      },
+      {
+        "candidate": "Baby Monster"
+      },
+      {
+        "candidate": "System-Reset"
+      },
+      {
+        "candidate": "Integration"
+      },
+      {
+        "candidate": "Konfrontation"
+      },
+      {
+        "candidate": "Dormanz"
+      },
+      {
+        "candidate": "Adaption"
+      },
+      {
+        "candidate": "Flucht"
+      },
+      {
+        "candidate": "Transformation"
+      },
+      {
+        "candidate": "Harmonie"
+      },
+      {
+        "candidate": "Coda"
+      },
+      {
+        "candidate": "Kapitel-Übersichtstabelle"
+      },
+      {
+        "candidate": "NNWDK"
+      },
+      {
+        "candidate": "KWDNK"
+      },
+      {
+        "candidate": "KWDK"
+      },
+      {
+        "candidate": "Knowing That You Don't Know"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Wächter-KI  /  Wächter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine-Signatur  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Faktorisierung  /  Faktorisierungs-Analogie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Irreduzibilität  /  Hypothese der Irreduzibilität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt I  /  Akt II",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt I  /  Akt III",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 10",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 11",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 12",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 13",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 14",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 15",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 16",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 17",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 18",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 1  /  Kapitel 19",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelt  /  Kernwelten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 20",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 21",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 22",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 23",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 24",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 25",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 26",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 27",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 28",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 2  /  Kapitel 29",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 3  /  Kapitel 30",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 3  /  Kapitel 31",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 3  /  Kapitel 32",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 3  /  Kapitel 33-35",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 3  /  Kapitel 36",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 3  /  Kapitel 37",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 3  /  Kapitel 38",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kapitel 3  /  Kapitel 39",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Protokoll Omega-Sieben  /  Omega-Sieben",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wächter  /  beschädigte Wächter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse im Code  /  Risse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse im Code  /  Riss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Riss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Twin Primes  /  Twin Prime",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt II  /  Akt III",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Emergenz  /  kausale Emergenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mustererkennunganomaliedetektion",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "KI-Konstrukte",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kiko",
+            "page": "kiko"
+          }
+        ]
+      },
+      {
+        "candidate": "Risse im Code",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Mauer",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "groemauer",
+            "page": "grosse-mauer"
+          },
+          {
+            "surface": "groemauersystemgrenze",
+            "page": "grosse-mauer"
+          },
+          {
+            "surface": "grossemauer",
+            "page": "grosse-mauer"
+          }
+        ]
+      },
+      {
+        "candidate": "Moonshine",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "moonshinelink",
+            "page": "moonshine-link"
+          }
+        ]
+      },
+      {
+        "candidate": "kausale Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kollaps",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kollapskernel",
+            "page": "kollaps-kernel"
+          },
+          {
+            "surface": "kollapskernelk0",
+            "page": "kollaps-kernel"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "did",
+      "surface": "dissoziative Identitätsstruktur",
+      "line": 17,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 35,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
