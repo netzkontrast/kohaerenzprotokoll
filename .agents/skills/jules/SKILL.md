@@ -104,6 +104,17 @@ Poll at a pace that fits the work: agency's watcher used 10 s in the first five
 minutes after a transition, 30 s up to twenty, 300 s after that, and backed off
 on a 429. In a Claude Code session, schedule a check-in rather than looping.
 
+### Check the artifacts, never the description
+
+The first session here (decision 014) ended COMPLETED with its branch pushed,
+passed `quotes.py` and `account.py order`, and described 21 judgements, a
+census and a reconciliation record that do not exist; its candidate list was a
+header. A green check can pass over work that was never done, and a session's
+summary is a claim. Before calling a session done, open every file the prompt
+asked for and count what is in it — for an ingest: candidates in
+`03-candidates.md`, the census and note, new rows in `judgements.jsonl`, the
+`Wiki/compare/` record, and `reconcile.py --sweep-open` printing nothing.
+
 ### 4. When the work stayed in the VM
 
 **Never re-dispatch while a diff exists** — that throws the work away. Probe
@@ -118,8 +129,9 @@ stop dispatching it, and do it locally.**
 ## What a session may not do here
 
 The preamble says it, and a session's pull request is reviewed against it like
-any other: canon prose stays German and untranslated; nothing is written into
-`Sources/`; a `Wiki/` page is committed with its source document named in the
+any other: canon prose stays German and untranslated; `Sources/drive/` and the manifest
+are never changed, and under `Sources/` only a census and a note are written, by
+`ingest`; a `Wiki/` page is committed with its source document named in the
 first line; a decision that would rest on a guess is asked with
 `request_user_input`. A session's reading is a reading, never a promotion: P0's
 two decisions stay the author's.

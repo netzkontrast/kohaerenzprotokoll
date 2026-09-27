@@ -261,6 +261,14 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
+- **What to keep from the Jules session, pull request #106?** The ingest of
+  `kohaerenz-protokoll-philosophischer-bericht-md` (decision 014) left no
+  candidate list, census, note, judgement or reconciliation record, and claims
+  all of them. Its entries on C2, C4, C6, C7, C9, Q1–Q5 and Kap 13 verify.
+  Close #106 and read the document again, or keep those entries and finish the
+  ingest around them — yours to say. And `account.py order` passes a
+  `reconcile.json` with no census beside it; it should not.
+
 - **`Coherence Protocol.mp3` is the one row not landed.** markitdown turns audio
   into text only through a speech-recognition service outside this container,
   which sends the recording to a third party — the rule Jev and every model call
@@ -271,14 +279,6 @@ before this list.
   A name that occurs only in them has no entry in `Sources/README.md` until
   `entity-lists` and `bilingual.py` run over them. The first sends text to Haiku
   and the second to free OpenRouter models and Jev, so both wait on your yes.
-- **May a Jules session work on this repository?** `scripts/jules.py` and the
-  `jules` skill were ported from `netzkontrast/agency` on 2026-09-26, at your
-  request. A session is Google's agent working on a clone of the whole
-  repository, `Sources/` included, so `dispatch` refuses without `--approval`
-  naming your decision, and none has been given. No session has been dispatched;
-  the read-only commands ran against the live API. Also yours: whether a session
-  may touch `Wiki/` at all, or only `scripts/` and `Plan/`.
-
 - **Two sessions are reading the same documents.** Documents 16 and 17 were each
   read twice on 2026-09-25, in the same order, because both handovers named the
   same next document. Main took one session's readings; the second readings

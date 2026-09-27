@@ -268,10 +268,12 @@ DOCTRINE = (
     "- `PRINCIPLES.md` — the rules, with the evidence that produced each.\n"
     "- `NOW.md` — what is open, and the questions waiting on the author.\n"
     "\n"
-    "Canon prose is German and is never translated. Never write into `Sources/`,\n"
-    "and never commit a `Wiki/` page without naming, in the first line of the\n"
-    "commit message, the source document the change came from. Where a decision\n"
-    "would rest on a guess, ask with `request_user_input` instead.\n"
+    "Canon prose is German and is never translated. Never change `Sources/drive/`,\n"
+    "`Sources/manifest.jsonl` or `Sources/duplicates.jsonl`; a census and a note\n"
+    "are the only things written under `Sources/`, by the `ingest` skill. Never\n"
+    "commit a `Wiki/` page without naming, in the first line of the commit\n"
+    "message, the source document the change came from. Where a decision would\n"
+    "rest on a guess, ask with `request_user_input` instead.\n"
 )
 
 
