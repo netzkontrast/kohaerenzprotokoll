@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 21
+sources: 22
 pages: ["entropie"]
 ---
 
@@ -207,3 +207,11 @@ The third sense, in the words of sense 1 (disorder). The conflict stays open.
 **The third sense — suppression produces the entropy AEGIS would destroy — a month before the konsolidiertes Konzept, with K0 carrying entropy and a rise of it made gravity.**
 „Jeder Akt der Unterdrückung erzeugt die Entropie, die das System zu vernichten sucht." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L64] AEGIS is „eine monströse K0-Maschine, die durch ihre verzweifelten Kontrollakte (EntropicMgmt) genau die Hitze und Entropie erzeugt, die alles verbrennt." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144] The kernel: „K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]. And a use of its own, from Verlinde's gravity: „manifestiert sich dieser Entropie-Anstieg als erdrückende, lokale Schwerkraftanomalie." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L27] It defines the word nowhere.
 The third sense, dated 2026-04-08 — a month before the konsolidiertes Konzept, which the entry of 2026-09-24 called the first read source to state it flatly. The conflict stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**The third sense, in its own vocabulary — AEGIS' fight against entropy is what makes the thermodynamic chaos — beside sense 1 and a use no earlier reading here carries: a universe needs entropy to be alive.**
+Sense 1: „AEGIS fungiert hierbei als externalisiertes Täterintrojekt, das Entropie und Komplexität durch Zwang ausmerzt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L17]
+Sense 3, stated as a mechanism rather than an identity: „Der verzweifelte Kampf gegen die Entropie erzeugt thermodynamisches Chaos auf der Substratebene.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L27] — it never calls AEGIS itself the entropy, only its fight against entropy the chaos's cause.
+And, earlier in the same document: „eine Existenz ohne Entropie, ohne den Kollaps und ohne das Unvorhersehbare […] in einer toten, bedeutungslosen Schleife erstarrt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L19] — near the glossary's fourth sense (K₀ as what makes a universe habitable), said of a life without entropy rather than of K₀ as a condition.
+The konsolidiertes Konzept's and the master report's third sense, in its own words, dated before both; the conflict stays open.
