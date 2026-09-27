@@ -1,0 +1,236 @@
+{
+  "document": "dual-storyform-hintergruende-md",
+  "drive_id": "1zSHdiIGnixbRNNpRo-rxPahv36lfAUs1oLlIw8gunuU",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 33,
+  "backslash_escapes": 213,
+  "typographic_marks": 107,
+  "ascii_quotes": 21,
+  "inflection_families": {
+    "opera": [
+      "Operation",
+      "Operationalisierung",
+      "Operationen",
+      "Operationsdokument",
+      "Operativ",
+      "Operative",
+      "Operator"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforming",
+      "Storyforms",
+      "Storymind",
+      "Storypoint",
+      "Storyweaving"
+    ],
+    "doppe": [
+      "DOPPEL",
+      "Doppel",
+      "Doppelfiguren",
+      "Doppelklangs",
+      "Doppelrolle",
+      "Doppelstruktur"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturell",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturschicht"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture",
+      "Architektonische",
+      "Architektur"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalen",
+      "Funktioniert"
+    ],
+    "inver": [
+      "Inversion",
+      "Inversionen",
+      "Inversionsdruck",
+      "Inversionstyp"
+    ],
+    "leser": [
+      "Leser",
+      "Leserarbeit",
+      "Lesers",
+      "Lesersteuerung"
+    ],
+    "optio": [
+      "Option",
+      "Optionales",
+      "Optionen",
+      "Optionlock"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokumente",
+      "Dokuments"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungs",
+      "Erinnerungsorte"
+    ],
+    "forsc": [
+      "Forschungs",
+      "Forschungsfragen",
+      "Forschungsphase"
+    ],
+    "hinte": [
+      "Hintergrund",
+      "Hintergründe",
+      "Hinterzimmer"
+    ],
+    "innen": [
+      "Innen",
+      "Innensystem",
+      "Innenwelt"
+    ],
+    "lösch": [
+      "Lösch",
+      "Löschereignis",
+      "Löschung"
+    ],
+    "mikro": [
+      "Mikro",
+      "Mikrocue",
+      "Mikrocues"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomenologie",
+      "Phänomenologisch"
+    ],
+    "proje": [
+      "Projekt",
+      "Projektionen",
+      "Projekts"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "spieg": [
+      "Spiegel",
+      "Spiegelung",
+      "Spiegelungen"
+    ],
+    "welch": [
+      "Welche",
+      "Welcher",
+      "Welches"
+    ],
+    "algor": [
+      "Algorithmisch",
+      "Algorithmische"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "anker": [
+      "Anker",
+      "Ankerpunkte"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Alte",
+      "Alter"
+    ],
+    [
+      "Alte",
+      "Alters"
+    ],
+    [
+      "Alte",
+      "Schalter"
+    ],
+    [
+      "Alte",
+      "Verhalten"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Doku",
+      "Dokument"
+    ],
+    [
+      "Doku",
+      "Dokumente"
+    ],
+    [
+      "Doku",
+      "Dokuments"
+    ],
+    [
+      "Doku",
+      "Startdokument"
+    ],
+    [
+      "Doku",
+      "Begleitdokument"
+    ],
+    [
+      "Doku",
+      "Operationsdokument"
+    ],
+    [
+      "Ende",
+      "Lebende"
+    ],
+    [
+      "Ende",
+      "Eskalierende"
+    ],
+    [
+      "Ende",
+      "Weiterführende"
+    ],
+    [
+      "Flip",
+      "Achsenflip"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Storyforming"
+    ]
+  ]
+}

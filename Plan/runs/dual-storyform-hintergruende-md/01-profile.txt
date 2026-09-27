@@ -1,0 +1,14 @@
+# dual-storyform-hintergruende-md
+  lines                498  (frontmatter ends at 9)
+  body words           3805
+  headings             30   bold-only lines 5
+  table rows           58   code fences 0
+  question marks       10
+  backslash escapes    213
+  typographic marks    107   ascii quotes 21
+  invisible characters none
+  math symbol lines    15
+  glued ref numbers    33
+  repeated labels      none
+  longest line         527 chars
+
