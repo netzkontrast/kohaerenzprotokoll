@@ -14,6 +14,12 @@ Ultra-Plot"**. It is the second-oldest whole-novel plan read, before the reset o
 **Its standing, recorded, never applied**: no canon label; it prescribes („muss", „darf") and asks the
 author a question at the end (L147). Every chapter paragraph is its plan, not the novel.
 
+**Three pages already quote it.** It was one of the ten documents of the 2026-09-25 scan, so `tsdp`,
+`chaitin-konstante` and `residual-echos` carry a reading or line from it written without a census.
+Do not add a second section there: check the existing one against the note and the text, complete it
+if the document says more about the page, and change its closing remark that the document has no census
+or reconciliation to name this reconciliation instead (as document 21's readers did).
+
 **Read first:** `Sources/notes/roman-konzept-dualitaet-kohaerenz-spannung.md` (45 verified quotations), the census's end, and
 `Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/05-verify.txt`; then the document whole: `python3 scripts/read.py roman-konzept-dualitaet-kohaerenz-spannung`.
 
