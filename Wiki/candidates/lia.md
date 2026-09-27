@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-24"
 ---
 
@@ -130,3 +130,8 @@ Her row, in a table with no category column: „Lia,Superposition,Dissociative d
 ## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Ambivalent, spatial disorientation
 
 Her row: „Lia (Ambivalent) | Superposition | Spatial disorientation; feeling "stretched." | Marks the struggle to choose a state." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] — spatial in her somatics; the document has no Riss table (`Riss`, `Risse` 0) and no `Flight` (0) (C15). Nothing else names Lia (`grep -cw Lia`: 1; `05-verify-readers.txt`).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — EP, the dreamer who leads through the paraconsistent archive in Kapitel 18
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. Her row, category `EP`: „Die Ambivalente / Träumerin." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L57] „Flucht in Kreativität und parakonsistente Realitäten." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L57]
+Kapitel 18, in KW2: „Lia, die ambivalente Träumerin, übernimmt die kognitive Führung." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146] „Sie lehrt Kael, zwei absolut gegensätzliche Überzeugungen gleichzeitig zu halten" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146] — so that they can pass through walls. Lia stands on these two lines only, and `Flight` nowhere (`grep -cw Lia`: 2, `grep -cw Flight`: 0; `05-verify-readers.txt`); her row's word is `Flucht`, into creativity, not a Riss trigger (C15).

@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 20
+sources: 21
 pages: ["entropie"]
 ---
 
@@ -201,3 +201,9 @@ The third sense. The conflict stays open.
 **The third sense — the protector is the entropy — with order generating the disorder it seeks to extinguish.**
 „The Great Inversion: When the Protector is the Entropy“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L15]. „Every act of "order"—every erasure of an anomaly or suppression of a memory—generates the very disorder it seeks to extinguish.“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] The Nothing-Noise AEGIS feared is „the purest form of K1-Coheron“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] — sense 2's counterpart, not called entropy.
 The third sense, in the words of sense 1 (disorder). The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**The third sense — suppression produces the entropy AEGIS would destroy — a month before the konsolidiertes Konzept, with K0 carrying entropy and a rise of it made gravity.**
+„Jeder Akt der Unterdrückung erzeugt die Entropie, die das System zu vernichten sucht." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L64] AEGIS is „eine monströse K0-Maschine, die durch ihre verzweifelten Kontrollakte (EntropicMgmt) genau die Hitze und Entropie erzeugt, die alles verbrennt." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144] The kernel: „K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]. And a use of its own, from Verlinde's gravity: „manifestiert sich dieser Entropie-Anstieg als erdrückende, lokale Schwerkraftanomalie." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L27] It defines the word nowhere.
+The third sense, dated 2026-04-08 — a month before the konsolidiertes Konzept, which the entry of 2026-09-24 called the first read source to state it flatly. The conflict stays open.

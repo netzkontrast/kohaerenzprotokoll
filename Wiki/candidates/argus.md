@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-24"
 ---
 
@@ -132,3 +132,8 @@ His row, in a table with no category column: „Argus,Fractals,Meta-cognitive de
 ## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Meta-Kog, visual fractaling
 
 His row: „Argus (Meta-Kog) | Fractals | Visual fractaling/geometric noise in periphery. | Signals meta-cognitive system analysis." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Among its profile highlights: „Arc: Moving from sterile critique to constructive system-repair." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L51] Nothing else names Argus (`grep -cw Argus`: 2).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Sonder, the meta-cognition whose hypervigilance saves Kapitel 9
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. His row, category `Sonder`: „Die Meta-Kognition." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L60] „Ständige Hypervigilanz, das "Radar" des Systems Kael." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L60]
+Kapitel 9, against AEGIS' PMAS protocol: „Argus, die metakognitive Instanz, pulsiert im Hintergrund und liefert Kael eine Hypervigilanz, die es ihm ermöglicht, die Fallen Mikrosekunden vor ihrem Zuschnappen zu erkennen." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118] Argus stands on these two lines only (`grep -cw Argus`: 2; `05-verify-readers.txt`).

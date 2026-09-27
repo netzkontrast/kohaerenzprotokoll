@@ -1,10 +1,10 @@
 ---
 term: Ouroboros-Struktur
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-25"
 ---
 
@@ -15,10 +15,15 @@ the other way, with the pain left as it was.** The sources write it as
 `Ouroboros-Struktur`, `Ouroboros-Klammer`, `Ouroboros-Schluss` and
 `Ouroboros-Ending`. They differ on what repeats (an image or a sentence, and in
 the philosophy catalogue a word as well) and
-where (Kap 1 ↔ Kap 39, Kap 40, or both brackets, and in the philosophischer Bericht the
-Vortex). Some also use `Ouroboros` for
+where (Kap 1 ↔ Kap 39, Kap 40, or both brackets, in the philosophischer Bericht the
+Vortex, and in the Hard-SF-Outline a recognition in Kap 38 with nothing said to repeat). Some also use `Ouroboros` for
 something the Wir goes into in Kap 38 (in the philosophy catalogue, Kap 39), or for something the Alter architecture
 can do. Each reading is below, attributed and unmerged.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — a recognition in Kapitel 38: the separation was the way, the pain unchanged
+
+A whole-novel plan of 39 chapters with no Kap 0 and no Kap 40, dated before the reset of 2026-04-30; its chapter paragraphs are its plan. Kapitel 38, „Der Strange Attractor" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L202]: „Die Erkenntnis manifestiert sich als Ouroboros: Die gewaltsame Trennung seiner Seele war nie das Ende, sondern der notwendige Weg zu einer höheren Komplexität." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204] „Es ändert nichts an dem erlittenen Schmerz, aber es nimmt ihm die Zerstörungskraft." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204]
+Its sixth fixed point names the requirement — „Fundament = Strange Attractor, Trennung nie real, ändert nichts am Schmerz. Ouroboros." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220] — and places it: „Erkenntnis des Ouroboros: Die Fraktur war Rettung, der Schmerz bleibt real und gültig." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220] So the name names a recognition in Kapitel 38 of the double statement the analysis of 2026-04-28 reads as two truths (its L249). The requirement writes the separation „Trennung nie real" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220], the chapter „war nie das Ende" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L204]. Nothing is said to repeat: Kapitel 39 returns to Kapitel 1's 21°C and to its knuckles, now scars (L94, L206), without the name (`grep -cw Ouroboros`: 2).
 
 ## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28
 
@@ -202,6 +207,9 @@ it: „The story ends as it began: a man in a sterile room, a phone ringing, and
 philosophischer Bericht a call that takes place neither time; it does not say whether the
 choice is taken. The Physics of Heartbreak returns to „the initial image of the city“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39] and has
 the silence of a telephone call stand for the inverted meaning.
+The Hard-SF-Outline, the earliest, names nothing that repeats: its Ouroboros is a
+recognition (L204), and its Kapitel 39 returns to Kapitel 1's 21°C and knuckles without the
+name (L94, L206).
 
 **Where.** Kap 1 ↔ Kap 39 (konsolidiertes Konzept, Worldbuilding-Konzept,
 Kapitel-Kompendium, glossary, storyform outline, and the Dual-Storyform background
@@ -217,7 +225,7 @@ name for the inner bracket. The Systemic Architecture Specification has Kap 1 �
 and no Kap 0 or 40. The Companion Guide, the Architecture of Fracture, the Editorial Style
 Dossier and the Physics of Heartbreak give no chapter; the Companion Guide sets it in one
 section with the Vortex (its L98), and the Dossier states it after its last act, Ch. 27-39
-(L59–L60).
+(L59–L60). The Hard-SF-Outline has Kapitel 38 (L204, L220), in a plan with no Kap 0 or 40.
 
 **What the name names.** A structure of the ending (most); a cyclical role
 exchange, one of the resolution's two paths (konsolidiertes Konzept L1312,
@@ -227,7 +235,10 @@ konsolidiertes Konzept, chapter outline, glossary, storyform outline) or in
 Kap 39 (philosophy L459, whose chapter table puts the Wir's decision for plural
 preservation in Kap 38, L733); a capacity of the Alter architecture (character bible
 L722, Alter profiles L683). The philosophischer Bericht uses it for the form
-of a double statement — separation never real, the pain unchanged (its L53).
+of a double statement — separation never real, the pain unchanged (its L53). The
+Hard-SF-Outline uses it for the recognition of that double statement in Kapitel 38 — the
+separation the necessary way, the pain unchanged (L204) — and its checklist writes it as a
+fixed point: „Trennung nie real, ändert nichts am Schmerz." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220]
 
 **Whether beginning and end coincide.** They do in Kernwelten (L729) and the
 philosophy document (L464). The Doppelklammer-Abhandlung,

@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-24"
 ---
 
@@ -89,3 +89,7 @@ Once, in its second mandate: „Never name DKT concepts (Coherons, Erasons) in t
 ## Reading — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak — deletion events that make the arrow of time
 
 Once, as what makes the time Coherons stand outside: „Because Coherons are atemporal, they exist outside the "arrow of time" created by Erasonen (deletion events).“ ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L21] The German plural, glossed in English.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — what K0 operates through
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document. Once, in Kapitel 17's terminal: „K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144] — K0 makes the arrow of time and works through Erasonen; what an Erason is, the document does not say (`grep -cw Erasonen`: 1). The singular stands once more, in Oblivion's `AEGIS-Echo (Erason)` (L62), on Oblivion's page (J62).

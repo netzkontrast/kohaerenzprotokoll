@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-24"
 ---
 
@@ -122,3 +122,8 @@ His row, in a table with no category column: „Moros,Big Freeze,Catatonia" ^[co
 ## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Collapse, crushing gravitational weight
 
 His row: „Moros (Collapse) | Big Freeze | Katatonia; feeling of crushing gravitational weight. | The "Dragon Fight"; the weight of total erasure." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Moros (`grep -cw Moros`: 1).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — EP, the messenger of collapse who explains AEGIS in Kapitel 23
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. His row, category `EP`: „Der Bote des Kollapses." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L59] „Pessimismus als Schutz; Antizipation des Weltendes." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L59]
+Kapitel 23, in KW3: „Im Innenhof der Zitadelle stößt Kael auf Moros, den Boten des Kollapses." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158] „Moros dekonstruiert die Motivation von AEGIS." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158] — that AEGIS arose from Kael himself in the Genesis-Krise, to keep him from madness (L158). Moros stands on these two lines only (`grep -cw Moros`: 2; `05-verify-readers.txt`).

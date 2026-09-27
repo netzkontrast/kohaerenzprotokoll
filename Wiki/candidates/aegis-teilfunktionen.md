@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 3
-readings: 2
+sources: 4
+readings: 3
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-16"
 ---
 
@@ -13,8 +13,10 @@ gathered: "2026-09-16"
 
 **Four terms, one parenthesis, zero explanations** — in the source that lists them. The
 Narrative Building Blocks report (2026-05-08) explains two of them, Zero-Trust and the
-Cognitive Firewall, as one verification model; `Integrity Guardian` and `SIS` are
-explained in none of the three documents on this page.
+Cognitive Firewall, as one verification model. The Hard-SF-Outline (2026-04-08)
+explains three, as rows of AEGIS' twelve protocols — the Cognitive Firewall, the
+Integrity Guardian and `SIS`, which it expands — and not Zero-Trust. Until it was read,
+`Integrity Guardian` and `SIS` were explained in none of the documents on this page.
 
 ## The single occurrence — `entropie-aegis`, 2025-04-17, brief
 
@@ -42,7 +44,8 @@ of them.** Recorded here so the split is a decision rather than a discovery.
 A source now does: the Narrative Building Blocks report says something about two of
 them, Zero-Trust and the Cognitive Firewall, and says it of both at once (its L101). Whether
 that is the moment to split — and into two pages or four — is a decision for review; this
-page has not been split.
+page has not been split. The Hard-SF-Outline says something about three of them, one row
+each; the split stays a decision for review.
 
 ## `SIS` is the dangerous one
 
@@ -54,7 +57,8 @@ against „Wächter der systemischen Stabilität" ^[kohaerenzprotokoll-aegis-und
 Three plausible readings exist and this page picks none: *Security Information
 System*, *System Integrity Service*, *Simulated Identity Substrate*. **All three
 are guesses and are recorded as guesses**, so that a real expansion can be
-recognised when it arrives.
+recognised when it arrives. One has: the Hard-SF-Outline writes `Systemic Identity
+Safeguard`, none of the three (its reading below).
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
@@ -73,3 +77,12 @@ because it states a use of the Zero-Trust function.
 Its lever: „Enforces the "Stabilization" requirement of Act I by preventing Kael from accessing external "Correspondence" data." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L101]
 The Overall Story it belongs to: „OS-B is governed by the "12 Protocols," specifically the" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L95] Separation Protocol, „enforcing a "Zero-Trust" ideology analogous to Byzantine Fault Tolerance." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L95] And AEGIS' own seed: „This manifests as shadowless geometry where every object is recursively verified against a zero-trust execution model." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L37]
 So Zero-Trust is AEGIS' method of verification and the Cognitive Firewall the channel it runs through — an answer to the page source's guess (L65), not the author's. Zero-trust is also a world's quality: Cerberus' „paranoid, zero-trust "bunker-world"" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85] in KW3. `Integrity Guardian` and `SIS` stand 0 times (`05-verify-readers.txt`).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Cognitive Firewall, the Integrity Guardian and SIS as three of AEGIS' twelve protocols
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document. „AEGIS operiert durch zwölf unerbittliche Protokolle." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L64] Its table gives each an acronym, a definition and a narrative manifestation; three rows are this page's, identified by the expansion each gives (J60):
+- `IntegrityGuardian`: „Überwachungsinstanz der Kernaxiome" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L73]; „Die "Inquisition", jagt logische Inkonsistenzen (Trauma-Echos)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L73]
+- `CogFirewall`, expanded „Cognitive Firewall" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L74]: „Löscht paradoxe Gedanken, bevor sie gedacht werden (Amnesie)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L74] In Kapitel 11 LogOS turns it on Kael: „zwingt LogOS Kael in eine unlösbare, paradoxe Logik-Schleife (CogFirewall)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] — the row erases paradoxes, the chapter uses one.
+- `SIS`, expanded: „SIS | Systemic Identity Safeguard" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L76] — none of the three guesses above. „Verhindert systemische Evolution oder Heilung." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L76] In Kapitel 25 the alters, coordinated by Selene, overload it: „um die SIS-Protokolle (Systemic Identity Safeguard) von Cerberus zu überlasten." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]
+
+`Zero-Trust` stands 0 times; the first protocol, `ZTEM`, is „Zero-Tolerance Error Management" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L69], not Zero-Trust (J60). So the page source's guess that the firewall blocks thoughts or data too disordered (`entropie-aegis`, L65) meets a row in which it erases paradoxical ones before they are thought — a document's answer almost a year after the brief, not the author's.

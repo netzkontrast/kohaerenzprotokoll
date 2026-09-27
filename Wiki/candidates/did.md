@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-16"
 ---
 
@@ -119,3 +119,8 @@ The aim is not fusion: „Funktionale Multiplizität, *niemals* Fusion." ^[world
 A theory report that ranks its sources (L17, L25) — recorded, not applied. `DID` stands 0 times; the German `DIS` once (`05-verify-readers.txt`), in the TSDP's tertiary degree, which it makes Kael's: „Tertiäre SD: mehrere ANPs und mehrere EPs (typisch für DIS) — Kaels Konfiguration." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L476]
 Its genre caution: „Sie ist Amnesie-Terror, kein Spielerlebnis." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535] „Wer in der ersten Szene weiß, dass der Held dreizehn Stimmen hat, kennt das Buch nicht." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535]
 The aim is not fusion: „Der Roman positioniert sich entschieden für Funktionale Multiplizität" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L511] (see Multiplizität).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the diagnosis the plan withholds for half the book, and the twist of Kapitel 24 that reveals it
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. Its premise: „Die zentrale Prämisse des Romans wurzelt in der Tertiären Strukturellen Dissoziation der Persönlichkeit (TSDP)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L15], disguised for more than half the text as AEGIS' hostile system (L15). The thirteen appear „die für den Erstleser als eigenständige physische Akteure, KI-Subroutinen oder Halluzinationen erscheinen" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L45], „bevor ihre wahre Natur als dissoziative Alters (DID) enthüllt wird." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L45]
+The twist architecture: „Die Dissoziation wird als Amnesie-Terror einer feindlichen Entführung oder einer Simulation (Permutation City) gelesen." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L86] Only on a reread, after Kapitel 24's Fragmentierungsnacht, „demaskieren sich diese Phänomene lupenrein als akkurate klinische Symptome einer DID." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L86] „Diese doppelte Lesbarkeit ist der strukturelle Kern des Werks." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L86] Kapitel 24 is the moment of the TSDP itself, the psyche breaking into thirteen fragments (L160). The checklist asks for „Null DKT-Terminologie, Dissoziation = Amnesie-Terror, kein "Crew-Menü"." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L222] in the first pages, and for „DID-Symptome bei Reread" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L227]. And not fusion: „NIE Fusion. Kein Alter wird eliminiert." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L225] (see Multiplizität). `DID` stands on three lines (`grep -cw DID`: 3).

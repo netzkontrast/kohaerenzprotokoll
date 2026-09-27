@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-24"
 ---
 
@@ -131,3 +131,8 @@ Her row, in a table with no category column: „Selene,Wormholes,Relaxing hands,
 ## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — ISH, internal mediation
 
 Her row: „Selene (ISH) | Wormholes | Immediate relaxation of the hands/shoulders. | Signals internal mediation/inter-fragment links." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Selene (`grep -cw Selene`: 1; `Entanglement Islands` 0).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — ANP, the ISH who coordinates the system after the twist
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. Her row, category `ANP`: „Die ISH (Inner Self Helper) / Vermittlerin." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L54] „Integrationspotenzial, die weise Instanz." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L54]
+She appears only after the twist. Kapitel 25: „Selene, die innere Vermittlerin (ISH), tritt hervor und koordiniert die EPs und ANPs." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162] — together they overload the SIS protocols of Cerberus, „Es ist das erste Mal, dass das System Kael kooperiert, anstatt sich gegenseitig zu bekämpfen." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]. In Kapitel 29 Kael finds the islands of each alter's self-worth „in Zusammenarbeit mit Selene und Lex" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]. She is not among the five Kapitel 39 names (L206). Selene stands on three lines (`grep -cw Selene`: 3; `05-verify-readers.txt`).

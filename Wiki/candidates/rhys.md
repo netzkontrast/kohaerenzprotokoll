@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
 gathered: "2026-09-24"
 ---
 
@@ -103,3 +103,8 @@ His row, in a table with no category column: „Rhys,Maxwell’s Demon,Sweating 
 ## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Caregiver, the system's maintenance
 
 His row: „Rhys (Caregiver) | Maxwell’s Demon | Feverish hands and excessive sweating. | Signals emotional overhead/system maintenance." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Rhys (`grep -cw Rhys`: 1).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — ANP, caregiver and protector with the Fight-Response, who takes the body in Kapitel 20–21
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. His row, category `ANP`: „Der Caregiver & Beschützer." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L53] „Übernimmt physische Verteidigung (Fight-Response)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L53]
+He stirs first beside Kiko in Kapitel 16 — Kael feels a fatherly responsibility „(Rhys regt sich in ihm)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]. In Kapitel 20, on the way into Cerberus' territory: „Rhys bricht an die Oberfläche und übernimmt die motorische Kontrolle mit einer Härte, die Kael bisher fremd war." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152] In Kapitel 21's gravity set-piece: „Kael und Rhys werden buchstäblich vom Gewicht der schwindenden Realität zu Boden zerquetscht." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L154] Kapitel 24 names him among those revealed as alters (L160); in Kapitel 30 Kael refuses the temptation „getragen von der Widerstandskraft von Nyx und Rhys" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]; in Kapitel 39 he is among those still there (L206).

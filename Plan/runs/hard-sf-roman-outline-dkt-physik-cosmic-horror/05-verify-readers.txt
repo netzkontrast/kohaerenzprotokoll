@@ -9,3 +9,14 @@ kap-38: grep -cw 'Vortex' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-
 kap-39: grep -cw 'Vortex' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
 kap-39: grep -cw 'Kapitel 40' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
 kap-39: grep -cw 'Kapitel 0' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+aegis: grep -cw -E 'Autonomous|Gatekeeper' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+aegis: grep -cw Log Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+aegis: grep -cw Dialogfigur Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 1
+did: grep -cw DID Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 3
+alters: grep -cw Flight Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+coheron: grep -cw Coheron Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2; grep -cw Coherons Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2
+erason: grep -cw Erasonen Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 1; grep -cw Erason Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 1
+aegis-teilfunktionen: grep -cw Zero-Trust Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+risse: grep -cw Risse Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0; grep -cw Flight Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+ouroboros-struktur: grep -cw Ouroboros Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2
+q2: for w in ANI ARS ECR PMS RSA SNK ZTV Nullpunkt; grep -cw $w Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0 0 0 0 0 0 0 0 
