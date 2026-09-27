@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -77,3 +77,9 @@ Four sub-locations (L575–L578), the [[evaluierungseinheit|Evaluierungseinheit]
 On the page's Guardian: the worlds are „Akt-Marker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453], „der Erasure-Pol durchwirkt KW1 und KW3." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453], and of the older
 drafts it claims „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L201] — a world named after a
 former bearer (J49's rule).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — KW3's second name in English, `Border Fortress`
+
+A world bible that calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied. The name stands in the parentheses where the konsolidiertes Konzept and the worldbuilding concept write `Grenzfeste`, in English (`Grenzfeste` 0, `05-verify-readers.txt`); read here by the sentence (J100): „KW3: Cerberus-Labyrinth (Border Fortress):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L69]
+„Concrete, steel, barbed wire, twilight." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L70] Its class, „NP-Hard ." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L71]; its style, „Staccato; sentences breaking off." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L72]; its somatic, „Bruxism and muscle tension." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L73]
+No act and no chapters (`Act` 0). `Cerberus-Labyrinth` is a world named after a former bearer (J49); the document names no Guardian of this world, and its Erasure-Pol is placed in none.

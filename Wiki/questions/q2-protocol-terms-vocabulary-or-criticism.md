@@ -3,7 +3,7 @@ id: Q2
 question: Do the seven protocol terms ever appear as project vocabulary, or do they only ever appear as objects of criticism?
 status: open
 raised_by: ["ani", "ars", "ecr", "nullpunkt-protokoll", "pms", "rsa", "snk"]
-documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system"]
 gathered: "2026-09-17"
 ---
 
@@ -93,3 +93,27 @@ It calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 202
 „OS-B: The 12 Protocols / Erasure (Physics)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L87]; „The "12 Protocols" force  **"Dekohärenz" (Source: Existenzforschung 4.3)** , collapsing quantum superposition into a single "Klassische Realität" to save processing power." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L93] Seed-04, „Protocol 01: The Erasure of Resonance" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L44], its status „KANON-KOMPATIBEL (Terminates at Vortex)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L45]; Seed-13, „The Dekohärenz Protocol" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L91]. And in the plural: „This entanglement proves their bond is a fundamental law that AEGIS's erasure-protocols cannot access." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L104] Its backlog rejects „Quarry-02: DKK-Protocols in Ch. 3." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L150]
 ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times, and so do `Suppression` and `Re-Containment` (`05-verify-readers.txt`); `RS-A` is Storyform A's Relationship Story, not the RSA protocol (J104). The twelve are not listed.
 No instance of the eight as project vocabulary. Where the master report, the worldbuilding concept and the Dual-Storyform background document of its date count twelve protocols reduced to three, this document keeps `The 12 Protocols` as its canon's; whether any of the eight was among them it does not say.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
+
+**None of the eight occurs; its one named protocol is the Trennungsprotokoll, and AEGIS' others are uncounted.**
+Storyform B's overall story: „OS-B (Trennungsprotokoll):" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L46]; of the telephone call, „This "Living Silence" is the sensory proof that the Trennungsprotokoll is an illusion." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L65] The rest are a kind, not a list: „his very existence generates the prediction errors that trigger the "Garbage Collector" protocols of Storyform B." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L23]
+ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times, and no number of protocols is given (`05-verify-readers.txt`); `RS-A` is Storyform A's Relationship Story (J104). No instance of the eight as project vocabulary.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**None of the eight occurs; `The 12 Protocols` govern Storyform B's overall story, one of them named — the Separation Protocol.**
+„Overall Story B (OS-B): The 12 Protocols / Physics" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L91]; „OS-B is governed by the "12 Protocols," specifically the Separation Protocol." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L95] Its seed: „Seed-14 The Trennungsprotokoll (Separation)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L99], carried by „Carrier: AEGIS Protocols" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L99].
+ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times (`05-verify-readers.txt`); `RS-A` is Storyform A's Relationship Story (J104). The twelve are not listed. No instance of the eight as project vocabulary; like the Systems Narrative Analysis of its date it keeps twelve, where the master report, the worldbuilding concept and the Dual-Storyform background document count twelve reduced to three.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**None of the eight occurs; its protocols are its own — the Separation Protocol of the Genesis-Crisis and the AEGIS-Log Protocol — and it counts none.**
+The Genesis-Crisis's second beat: „Separation Protocol: Traumatic resonance with Juna is misread as a fatal system error." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L28] And the log: „System communication is restricted to the AEGIS-Log Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34], „utilizing functional metadata and strictly forbidding moral vocabulary." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34]
+ANI, ARS, ECR, PMS, RSA, SNK, ZTV, `Nullpunkt` and `12` each stand 0 times (`05-verify-readers.txt`). No instance of the eight as project vocabulary.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**None of the eight occurs; three `Primary Protocols` — Suppression, Coherence, Re-Containment — the three the master report and the worldbuilding concept count, with no twelve behind them.**
+„Primary Protocols" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L54]: „Suppression: Active erasure of K1-Coherons (misidentified as chaos)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L56] „Coherence: Enforcement of internal consistency, which paradoxically generates the Landauer Heat that cracks the system." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L57] „Re-Containment: Dynamic patching of reality rifts." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L58]
+ANI, ARS, ECR, PMS, RSA, SNK, ZTV, `Nullpunkt` and `12` each stand 0 times (`05-verify-readers.txt`); no reduction is told. No instance of the eight as project vocabulary.

@@ -4,7 +4,7 @@ subject: the Externe Ebene — beyond the simulation, or not outside it
 kind: one level, placed beyond the simulation by two canon-era sources and denied to be outside it by four, two of them of one date
 status: open
 first_seen: "2026-09-25"
-sources: 8
+sources: 9
 pages: ["externe-ebene"]
 ---
 
@@ -67,3 +67,10 @@ Row 2's side, in the konsolidiertes Konzept's words on its date. And a third sou
 **Neither side — Köln 2026 named once, as [[juna|Juna]]'s anchor, without placing it in or beyond the simulation.**
 Under §13.3, its Anti-Kanon against solipsism: „Die Welt existiert auch ohne Kael. Junas Ankerpunkt in Köln 2026 ist Anti-Solipsismus." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L596] And against Rorty, §1.6, labelled `[S]`: „es gibt eine ontologische Realität, die zurückkommt — Junas Coheron-Spur." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L104]
 `Externe` and `Basisrealität` stand 0 times, `Köln` once; `jenseits` once, of Juna and [[silas|Silas]] beyond the arrow of time (L505). A world that exists without Kael is not said to be outside the simulation, nor the other side of the mirror. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Neither side — the External Level (Cologne 2026) as the substrate breakthrough, sustained by reading, placed neither beyond the simulation nor denied to be outside it.**
+„The External Level (Cologne 2026) represents the substrate breakthrough where the act of reading sustains the system." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78] — after the four Core Worlds, in a section headed with „Reality Layers" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L55]. Köln is also the ground of the first trauma layer, „the attachment trauma in Cologne (Layer 1)" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51].
+`outside`, `beyond` and `Basisrealität` stand 0 times, `simulation` once, of Juna's bridge into „the K0 simulation" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L38] (`05-verify-readers.txt`); it calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88], recorded, not applied.
+It writes the `Externe Ebene` side's name in English and the worldbuilding concept's `Substrat-Durchbruch`, without that document's „Kein „außerhalb der Simulation", sondern die andere Seite des Spiegels." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650] On neither row; the conflict stays open.

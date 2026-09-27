@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 17
+sources: 22
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -273,3 +273,37 @@ It calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 202
 What it cannot reach: Juna, „Her existence is an "Ontological Exploit" bypassing AEGIS's firewalls." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L56]; and [[kael|Kael]], „Within AEGIS's architecture, Kael is a logic error—a  **"Gödel Sentence"**  the system recognizes but cannot prove or contain." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L67]
 The Guardians have a function, not a limit: „Guardians act as antibodies, redirecting Kael away from the "unproductive" reflection found in the shadows of KW2." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L82] Mnemosyne and [[logos|LogOS]] are interfaces AEGIS works through (L33, L70, L73, L116); what fails at the Mnemosyne interface is AEGIS' own sorting, „as the internal memory substrate bypasses AEGIS's categorization" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L35]. `blind` stands 0 times (`05-verify-readers.txt`).
 Position 1's bearer, categorical, as in the konsolidiertes Konzept and the philosophischer Bericht; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**AEGIS' limit, as what it can observe and never compute — and no limit given to the three bearers it names.**
+Its seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied. „AEGIS’s drive for progress inevitably collides with the influential presence of Kael’s fixed ideas—truths that the system can observe but never compute." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L43] Kael, in Storyform B, „he is a truth that is valid within the simulation but uncomputable by AEGIS's axioms." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L64] And its sensors misfile the link to Juna: „AEGIS sensors miscategorize as system interference or neural fatigue" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L115].
+LogOS, Mnemosyne and [[cerberus|Cerberus]] are only carriers of world seeds (L83–L85), never called Guardians and given no limit. `blind` stands 0 times (`05-verify-readers.txt`).
+Position 1's bearer, categorical; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**AEGIS' misreading and its sensors — and for the Erasure-Pol a dissonance, not a blind spot.**
+It calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88]; recorded, not applied. Of the Persistence Equation: „AEGIS fundamentally misinterprets this equation" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L17]. Juna passes its sensors: „She verifies Kael’s integrated trauma without exposing the raw, destructive data payload to AEGIS's sensors." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L41]
+Of the two Guardian Sub-Systems, the Erasure-Pol is given a growing knowledge, not a failure to see: „It manages the suppression of K1 anomalies, suffering from increasing cognitive dissonance as it realizes it is destroying what it is meant to protect." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34] Mnemosyne is given none. `blind` stands 0 times.
+Position 1's bearer, as a misreading; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**AEGIS' sensors, `structurally blind` — and for Mnemosyne a lack of language, as in the worldbuilding concept.**
+„That silence is "Mutual Information without data," a K1-substrate that AEGIS’s sensors are structurally blind to." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L96] — the only `blind` in the document.
+Of its two Guardians: „Mnemosyne: The Memory-Keeper who preserves trauma as raw data because she lacks the language to process emotional context." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L49] — a limit derived from her function, not called a blind spot; the Erasure-Pol shares her dissonance (L50).
+Position 1's bearer, stated in the word; beside it one Guardian's own limit, position 2's kind of failure without its name, as in the worldbuilding concept's entry above. The conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**AEGIS' category error, and Mnemosyne's code she cannot read.**
+„AEGIS believes it is the K1 Kernel (Coherence), but it is actually the K0 Kernel (Entropy/Erasure)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] At the end it knows without feeling: „AEGIS reaches a state of knowing the truth of the system's unity without being able to feel it—a state of mourning without reference." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L58]
+Of its two Guardians: „Her tragedy is holding the truth as a code she cannot read." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L51] — Mnemosyne's, from her function; the Erasure-Pol is given none. `blind` stands 0 times.
+Position 1's bearer; beside it one Guardian's own limit, position 2's kind, not called a blind spot. The conflict stays open.
+
+## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
+
+**The system's categorization error, and what it cannot calculate — no Guardian at all.**
+„a rigorous cognitive audit reveals that the protocol suffers from a fundamental categorization error within its autopoietic closure." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] Separation is „a temporal artifact caused by the system's inability to calculate information existing outside of linear time." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L21]
+`Guardian` and `Mnemosyne` stand 0 times (`05-verify.txt`), `blind` 0. Position 1's bearer, the system as AEGIS; nothing for position 2. The conflict stays open.

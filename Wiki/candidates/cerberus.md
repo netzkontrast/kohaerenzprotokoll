@@ -1,17 +1,17 @@
 ---
 term: Cerberus
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks"]
 gathered: "2026-09-17"
 ---
 
 # Cerberus
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Thirteen other read documents name Cerberus — the readings below, the philosophischer Bericht's the latest (it moved this count from twelve, as the Kap-25 session log's had from eleven). (Until the worldbuilding concept's reading this lead said nothing else read named Cerberus at all, which the second reading on this page had already made false.)
+the same nine fields. Fourteen other read documents name Cerberus — the readings below, the Narrative Building Blocks report's the latest (it moved this count from thirteen, the philosophischer Bericht's from twelve, as the Kap-25 session log's had from eleven). (Until the worldbuilding concept's reading this lead said nothing else read named Cerberus at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -148,3 +148,8 @@ That is the log's claim about that document. Cerberus is one of the five the aut
 Once (`grep -cw Cerberus` 1), in the list of what earlier phases planned: „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] — and outside what is left: „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296], [[mnemosyne|Mnemosyne]] and a pole whose identity is open. That list and its status word are the document's claim about earlier phases.
 Where Cerberus went it does not say (`absorbiert` 0), and its name is on no world: KW3 is „Überwelt / Nexus (Quanten-Information)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L437], with `Cerberus-Labyrinth` and `Grenzfeste` 0 times (`05-verify-readers.txt`). Q5.
 The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — the carrier of the KW3 seed, a zero-trust bunker-world
+
+A mining report whose seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied; each seed a proposal under `Lever:`. Twice (`grep -cw Cerberus` 2, `05-verify.txt`), in one seed of Storyform A's overall story: „Seed-13 The Cerberus Labyrinth (KW3)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85] — a world named for him (J49) — and „Carrier: Cerberus" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85]. The world he carries: „A paranoid, zero-trust "bunker-world" characterized by cold, damp concrete, the sharp hum of machines, and the metallic smell of ozone." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85]
+So Cerberus is paired with KW3 here, as in the 2025 Guardian concept; not called a Guardian (`Guardian` 0), not counted and not said to be absorbed. The pairing is Q5's; the author decided C6 for five on 2026-09-24.

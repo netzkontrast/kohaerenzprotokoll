@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 15
+sources: 19
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -144,3 +144,27 @@ The entry above was written by the Jules session (decision 014) before this docu
 KW2 is „Peripherie der Stadt, wo AEGIS' operationale Geschlossenheit erodiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L435] And of all four: „die Kernwelten sind Akt-Marker, nicht je-ein-Guardian und nicht literale Geographie." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] „Sie strukturieren die Erzählung von außen, nicht die Welt von innen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427]
 The simulation is not the city: „Die Realität der Simulation ist nicht homogen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] — it divides into the four worlds. `Logos-Prime` stands 0 times.
 Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Whether the periphery of L435 belongs to the Konstrukt-Stadt it does not say; its worlds structuring the narration from outside (L427) bear on the Kap-25 session log's question above (`Filterregime statt Ortswechsel`) without answering it. Recorded, not applied; the decision stands.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**KW1, as decided — in English, `Construct-City`, with `Logos-Prime` beside it.**
+„KW1: The Construct-City (Logos-Prime):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L59] „Sterile, blue/gray, constant 21°C." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L60] The worldbuilding concept's KW1 heading in English (J100); it calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88], recorded, not applied.
+Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Agrees; nothing to change.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**An unnamed city at 21°C whose architect is AEGIS, its temperature the limit of the simulation's geometry — no world named, and on no row by name.**
+„In the hyper-sterile corridors of the city, a question vibrates through the 21°C air, existing just beneath the threshold of awareness:" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L15] „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is the city's architect." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43] „The city’s constant temperature is a literal limit." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L37] „If the heat from deletion exceeds this balance, the simulation’s geometry begins to crack." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L37]
+`Construct`, `Konstrukt-Stadt`, `KW1` and `Kernwelt` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`); the city is the whole of its setting and no world divides it. Nearest row 2's shape — a city that is the setting, run by AEGIS — without saying the city is the whole simulation; the identification of its city with the Konstrukt-Stadt is by attributes. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**KW1, as decided — `The Construct City (Logos-Prime)`.**
+„KW1: The Construct City (Logos-Prime):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L64] „Sterile and geometric." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L64] The first of four spheres, and no city elsewhere in it (`City` 1, `city` 0; `05-verify-readers.txt`).
+Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Agrees; nothing to change.
+
+## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
+
+**A sterile urban construct at 21 degrees, unnamed, where the story begins and ends — no world named, and on no row by name.**
+„a sterile urban construct where the "kognitive Apparat" normalizes all appearances to a baseline of 21 degrees Celsius" ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13]; „The diegetic symptoms of the city are actually thermodynamic consequences of information deletion:" ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L25]; „The narrative follows an "Ouroboros Structure," returning to the initial image of the city." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39]
+`Konstrukt-Stadt` and `KW1` stand 0 times (`05-verify.txt`); no world divides the city. Like the Companion Guide, nearest row 2's shape without saying the city is the whole simulation. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.

@@ -1,17 +1,17 @@
 ---
 term: LogOS
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks"]
 gathered: "2026-09-17"
 ---
 
 # LogOS
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Fourteen other read documents name LogOS — the readings below, the Systems Narrative Analysis's the latest (it moved this count from thirteen, as the philosophischer Bericht's had from twelve). (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
+the same nine fields. Fifteen other read documents name LogOS — the readings below, the Narrative Building Blocks report's the latest (it moved this count from fourteen, the Systems Narrative Analysis's from thirteen, as the philosophischer Bericht's had from twelve). (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -154,3 +154,8 @@ Four times (`grep -cw LogOS` 4), always as part of AEGIS' working, never as a Gu
 In Kael's throughline as Impact Character of Storyform B, Seed-09 „The Gödel Sentence in LogOS" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L69], „Focus:**  LogOS Interface" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L70]: „AEGIS recognizes Kael's identity as a truth within the system that cannot be derived from its axioms." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L71] „This friction causes the "Risse" to widen whenever Kael acts outside his work-parameters." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L71]
 In the Relationship Story of Kael and AEGIS, „RS-B: Kael ↔ AEGIS Symbiosis (Psychology)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L109], Seed-18 „LogOS Gaslighting" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L115]: „AEGIS uses the LogOS interface to convince Kael that the "Risse" are his own "Logic Errors."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L116] „This psychological manipulation (Source: Architektur eines fehlerhaften Gottes) prevents integration and maintains the symbiotic status quo." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L116]
 So LogOS is a working part of the system here, as the 2025 locations concept above has it a system presence in KW1 rather than a figure — but this document ties it to no world: KW1 carries no second name (`Logos-Prime` 0). The konsolidiertes Konzept, the master report and the worldbuilding concept of the same date name LogOS only among the old drafts' five or as absorbed (readings above); this one, calling itself canon of that date, keeps it in use (Q5). The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — the carrier of the KW1 seed
+
+A mining report whose seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied; each seed a proposal under `Lever:`. Once (`grep -cw LogOS` 1, `05-verify.txt`), as the carrier of a world seed in Storyform A's overall story: „Seed-11 The Sterility of KW1" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83], „Carrier: LogOS" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83] — the world „A world of shadowless geometry and clinical light, devoid of dust or smell." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83]
+So LogOS is paired with KW1 here, as in the 2025 Guardian concept; it is not called a Guardian (`Guardian` 0), not counted and not said to be absorbed, and KW1 carries no second name (`Logos-Prime` 0, `05-verify-readers.txt`). The pairing is Q5's; the author decided C6 for five on 2026-09-24.

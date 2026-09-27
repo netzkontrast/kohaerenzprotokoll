@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -226,3 +226,8 @@ The storyform outline, the Kapitel-Kompendium, the Welt-Sensorik manual and the 
 
 **`Simulation`**, the page's alias, stands on four lines, placed by the sentence. It is what the four worlds divide — „Die Realität der Simulation ist nicht homogen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] — so here the Simulation contains the Überwelt as one of its worlds and is not a name for it, as in the Lokalitäten document (J39). Its event horizon is KW3's (L439, above). The other two are what AEGIS' closure keeps up, „um eine reine Simulation aufrechtzuerhalten" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L229], and what the Foundation grounds: „aus denen alle Realitäten (inklusive AEGIS' Simulation) abgeleitet sind" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L701].
 The same sentence denies the Foundation the common noun: „Die Foundation ist nicht ein Ort und nicht eine Über-Welt, sondern das mathematische Bedrock der Realität" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L701] — said of the Foundation, which has no page; an occurrence, not a reading on this page.
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a Riss in its centre at the Vortex, showing the Genesis Crisis
+
+A mining report whose seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied. `Überwelt` stands once, in the second of its Vortex's five beats, `AEGIS-Erasure / Pivot Kael`: „The Separation Protocol reverses." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L146] „A shimmering "Riss" opens in the center of the Überwelt, showing the raw code of the Genesis Crisis as a peaceful, flickering portal." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L146]
+So the Überwelt has a centre, and at the Vortex it opens onto the Genesis Crisis. What it is — a world among the four, or a level outside them — the document does not say (`Überwelt` 1, `05-verify-readers.txt`); its `simulation` is the simulated world in general (J39).

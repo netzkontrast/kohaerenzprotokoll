@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -84,3 +84,9 @@ among them the [[archiv-der-grenzen|Archiv der Grenzen]] and the [[mnemosyne-ser
 
 On the page's Guardian: „Mnemosyne dominiert klar in KW2" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453], while the worlds are „Akt-Marker" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]; Mnemosyne's own entry
 makes KW2 the climax: „Setting des Klimax: der Mnemosyne-Archipel ist der einzige Ort, an dem Erasure nicht greifen kann" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200].
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — KW2's second name in English, `Resonance Landscape`
+
+A world bible that calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied. The name stands in the parentheses where the konsolidiertes Konzept and the worldbuilding concept write `Resonanzlandschaft`, in English (`Resonanz-Landschaft` and `Resonanzlandschaft` 0, `05-verify-readers.txt`); read here by the sentence (J100): „KW2: Mnemosyne-Archipelago (Resonance Landscape):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L64]
+„Fluid libraries, sepia-toned echos." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L65] Its class, „Paraconsistent ." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L66]; its style, „Porous and fragmented language." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L67]; its somatic, „Visceral nausea and Bauchreaktionen ." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L68]
+It is the climax's place, in the entry on the Guardian who manages it: „Because memory is treated as a location (substrate) rather than content, Erasure cannot take hold there, making it the necessary setting for the climax." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L33] No act and no chapters (`Act` 0).

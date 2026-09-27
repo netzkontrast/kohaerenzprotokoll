@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 20
+sources: 24
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -242,3 +242,30 @@ It calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 202
 Mnemosyne as „Focus:**  Mnemosyne Interface" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L73]; LogOS as „AEGIS uses the LogOS interface to convince Kael that the "Risse" are his own "Logic Errors."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L116]
 `Guardian` 0, `Guardians` 1; `Cerberus`, `Kairos`, `Sophia`, `Erasure-Pol`, `Lösch-Pol` and `absorbed` 0 (`05-verify.txt`, `05-verify-readers.txt`). No reduction is told and no earlier drafts are named.
 On no row by count, and it states no pairing — the Guardians act in one world against another, and no world carries a bearer's name. It keeps LogOS in use, where the konsolidiertes Konzept, the master report and the worldbuilding concept of its date name it among the old five or absorbed. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**No count and no reduction: three of the five named as the carriers of three worlds, one each — never called Guardians.**
+Its seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied; each seed a proposal. „Seed-11 The Sterility of KW1" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83] with „Carrier: LogOS" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83]; „Seed-12 The Mnemosyne Archipelago" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L84] with „Carrier: Mnemosyne" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L84]; „Seed-13 The Cerberus Labyrinth (KW3)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85] with „Carrier: Cerberus" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85].
+`Guardian`, `Guardians`, `Kairos`, `Sophia` and `KW4` stand 0 times (`05-verify.txt`), `Erasure-Pol` 0 (`05-verify-readers.txt`).
+On no row by count. On the pairing, rows 1 and 2's side for three worlds — a bearer per world, the worlds named for their bearers, where row 3 says `KEIN Guardian-1:1`. The author's decision for five (2026-09-24) stands; the pairing is Q5's.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Two Guardian Sub-Systems, Mnemosyne and the Erasure-Pol; no earlier Guardians named; one of the two placed in a world.**
+It calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88]; recorded, not applied. „AEGIS utilizes two Guardian Sub-Systems" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29]; „Mnemosyne: The Memory Keeper. She manages the Mnemosyne-Archipel." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L33]; „The executive pole of deletion." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34]
+The old names stand only on worlds: „KW1: The Construct-City (Logos-Prime):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L59], „KW3: Cerberus-Labyrinth (Border Fortress):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L69], „KW4: Kairos-Potentialis (Garden of Possibilities):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L74] (J49). `LogOS` and `Sophia` 0, nothing absorbed (`05-verify.txt`, `05-verify-readers.txt`).
+Row 3's count, two. On the pairing: one Guardian per one world, Mnemosyne's, and none for the rest — neither row 3's `KEIN Guardian-1:1` nor rows 1 and 2's four pairs. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**Two, and no worlds at all.**
+„To execute this mission, AEGIS utilizes two Guardians:" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L48] — Mnemosyne (L49) and „The Erasure-Pol: The executioner responsible for the active suppression of anomalies." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L50]
+`LogOS`, `Cerberus`, `Kairos`, `Sophia` and `KW1`–`KW4` stand 0 times (`05-verify.txt`); no reduction is told. Row 3's count; no pairing stated. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**Two, the Erasure-Pol absorbing functions rather than named Guardians; KW2 and KW3 under no bearer's name.**
+„The Two Guardians" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L49]: Mnemosyne (L51) and „The Erasure-Pol: The executive arm of K0-deletion, absorbing the functions of logic and temporal control to enforce the "Multiplicity Veil."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L52]
+Its worlds: „KW1: The Construct City (Logos-Prime):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L64], „KW2: The Archipelago:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L65], „KW3: The Labyrinth:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L66], „KW4: The Garden of Possibilities (Kairos-Potentialis):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67]. `LogOS`, `Cerberus` and `Sophia` stand 0 times (`05-verify.txt`).
+Row 3's count, two, with no Guardian in any world. It is the one source here that names the absorbed as functions — logic and temporal control — and not as bearers; which bearers had them it does not say (Q5). The author's decision for five (2026-09-24) stands.

@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 14
+sources: 16
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -173,3 +173,15 @@ In the table of worlds, §14.2: „KW4 Möglichkeits-Garten" ^[kohaerenz-protoko
 „KW4 — Resonanz-Kontinuum (Dialetheia)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L441]; „Die absolute, externe Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L443] „Hier operiert die Witness-Function direkt, hier befindet sich die Vortex-Quelle." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L443] No place inside KW4 is named.
 `Möglichkeits-Garten`, `Garten`, `Garten der Möglichkeiten` and `Kairos-Potentialis` stand 0 times (`05-verify-readers.txt`).
 On neither row: with no garden, it says nothing about whether the Möglichkeits-Garten is a world or a place in KW4. For the world's name it has only the second name the storyform outline and the Kapitel-Kompendium write beside the garden, `Resonanz-Kontinuum`, without it. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**KW4 is the garden, the whole world — in English, as the world's second name, and no place inside it.**
+„KW4: Kairos-Potentialis (Garden of Possibilities):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L74] — the worldbuilding concept's KW4 heading, `Garten der Möglichkeiten`, in English (J100; the one term of J35 and J61). „Organic, vibrant, synesthetic." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L75]
+No sub-location of KW4 is named, and `Garten` and `Möglichkeits-Garten` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`). Position 1's side, by the name the worldbuilding concept gives the world; it does not have the worldbuilding concept's place of the same name inside it. The conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**KW4 is the garden, the whole world — the garden's name first, Kairos-Potentialis second.**
+„KW4: The Garden of Possibilities (Kairos-Potentialis):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67] „Domain of Emergence." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67]
+No place inside KW4 is named; `Garten` stands 0 times (`05-verify-readers.txt`). Position 1's side. The conflict stays open.

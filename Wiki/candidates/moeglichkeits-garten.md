@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 15
-readings: 15
+sources: 17
+readings: 17
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -211,3 +211,14 @@ A reading for C5 on both sides at once.
 Its truth is Heidegger's (`[K]`): „Aletheia als Wahrheits-Modell für KW4 und den Vortex selbst." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L174] „Die Wahrheit wird nicht durch AEGIS' Verifikation gefunden — sie geschieht, wenn Kael aufhört zu vermeiden und das Unverborgene sich zeigt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L174] Its moments are „KW4-Tonalität." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] — „Aletheia-Momente sind die stillen Wendepunkte: Kael sieht etwas, das schon immer da war, aber nicht sichtbar." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L180] — among them Kap 17, Kap 33 and Vortex 2 (L180).
 Among the six movements, KW1 turns into it: „KW1 als Phaenomena-Reich wird in KW4 zur Bühne des Sich-Zeigens." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L752] „Kael lernt, nicht zu verifizieren, sondern wahrzunehmen." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L752]
 It gives the world no act and no chapters, and names no Guardian for it (`Kairos`, `Sophia`, `Guardian` 0, `05-verify.txt`). C5: the world's scale only.
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — KW4 as Kairos-Potentialis (Garden of Possibilities), the whole world
+
+A world bible that calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied. It writes the English `Garden of Possibilities`, never `Garten` (0, `05-verify-readers.txt`), in the place of the worldbuilding concept's `Garten der Möglichkeiten`; read here by the sentence (J100), the one term of J35 and J61.
+„KW4: Kairos-Potentialis (Garden of Possibilities):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L74] „Organic, vibrant, synesthetic." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L75] Its class, „Generative ." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L76]; its style, „Wir-Stimme (We-Voice); poetically atemporal." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L77]; its somatic, „Opening hands and released breath." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78]
+The world's second name, with no place inside it (C5). `Kairos-Potentialis` is a world named for a Guardian, not the Guardian (J49); `Kairos` stands only there. No act and no chapters.
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — KW4 as the Garden of Possibilities, where the We-Voice appears
+
+A compendium that cites nothing. The garden is the heading's first name here, `Kairos-Potentialis` the second: „KW4: The Garden of Possibilities (Kairos-Potentialis):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67] — read by the sentence (J100). „Domain of Emergence." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67] „Here, the "We-Voice" appears." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67] „The language shifts into a polyphonic poetic chorus." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67]
+The last of four spheres through which „the complexity of his reality shifts" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L62], the whole world and no place inside it (C5). No act and no chapters (`Chapter` 0, `05-verify.txt`).
