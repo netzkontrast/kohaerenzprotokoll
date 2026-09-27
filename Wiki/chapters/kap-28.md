@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 14
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -58,6 +58,13 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - Story: „Unmengen an traumatischen Erinnerungsdaten werden in ein immer kleiner werdendes Volumen gepresst“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L174]
 - Place: „Der dreidimensionale Raum des Gartens kollabiert unter der Informationsdichte und verflacht zu einem endlosen, zweidimensionalen Hologramm.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L174]
 - Who: „Kael und die Alters sind als flache Interferenzen auf einer Fläche gefangen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L174]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — AEGIS' failure at M's irreducibility, and Juna in the IC Issue's element matrix
+
+A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
+
+- Werk-Beleg for Storyform A's MC Resolve Change: „AEGIS' Scheitern an der Irreduzibilität von M in Kapitel 28, was die zwingende Notwendigkeit holistischen Denkens bestätigt.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L102]
+- IC Issue, Storyform A vs. B: „Kap 28: Juna durchbricht AEGIS' Konditionierung instinktiv (Instinct) vs. Juna als Anomalie jenseits messbaren Werts für AEGIS (Worth).“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L213]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

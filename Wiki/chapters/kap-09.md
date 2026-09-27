@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -61,6 +61,12 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - AEGIS: „AEGIS entsendet das PMAS-Protokoll (Predictive Modality Alignment), eine unsichtbare Kraft, die Kaels eigene Furcht in geometrische Fallen übersetzt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118] · „Jeder Fluchtgedanke wird antizipiert und blockiert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118]
 - Who: „Argus, die metakognitive Instanz, pulsiert im Hintergrund und liefert Kael eine Hypervigilanz“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118]
 - What it establishes: „Das System Kael operiert an der Belastungsgrenze.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — the element matrix's MC Response
+
+A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
+
+- MC Response, Storyform A vs. B: „Kap 9: Kael lernt, seiner Intuition zu vertrauen (Trust) vs. Kael versucht zwanghaft, seine Dissoziation zu steuern (Control).“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L212]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

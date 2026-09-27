@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -61,6 +61,14 @@ Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ 
 - Where: „Kael betritt das Fundament, den Sitz von AEGIS.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184] · „eine reine, fließende Matrix aus Kohärenz-Gleichungen und Entropie-Auslöschungen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
 - AEGIS: „AEGIS manifestiert sich als eine fraktale, tragische Naturgewalt, die in einer endlosen SARM-Rekursion (Self-Axiomatizing Recursive Matrix) gefangen ist.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
 - Establishes: „Es verbrennt ununterbrochen die eigene Seele, um die Illusion von Sicherheit aufrechtzuerhalten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — the birth of Kael/M
+
+A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
+
+- Werk-Beleg for Storyform A's Resolve Change: „In Kapitel 32 legt Kael die Isolation des Alpha-Logik-Fragments endgültig ab und integriert seine traumatisierten Anteile zu dem emergenten Wesen „Kael/M“.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L75]
+- Falsifikations-Test result: „Die explizite Geburt des synthetisierten Wesens „Kael/M“ in Kapitel 32 und die Integration des Mosaik-Herzens belegen unbestreitbar einen radikalen inneren Wandel.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L96]
+- MC Resolve, Storyform A vs. B: „Kapitel 32 (Metamorphose) vs. Kapitel 35 (Beharren auf T-734).“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L191]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -60,6 +60,12 @@ Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt
 - The night: „den Moment der Tertiären Strukturellen Dissoziation, in dem seine Psyche unter dem unerträglichen Gewicht eines Traumas in dreizehn Fragmente zersprang.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160] (C12)
 - Establishes: „Der kosmische Horror war die ganze Zeit über ein Blick in den eigenen, gebrochenen Spiegel.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L160]
 - Checklist, Fixpunkt 10: „Origin Trauma = Doppelter Boden:“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224] · „In Kapitel 24 folgt der Twist: Der gesamte Horror ist die Visualisierung der Fragmentierungsnacht (TSDP).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — the core trauma as MC Klasse's Werk-Beleg
+
+A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
+
+- MC Klasse, Storyform A vs. B: „Kapitel 24 (Konfrontation mit dem Kern-Trauma: Innere Psyche vs. Äußere Welt).“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L187]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
