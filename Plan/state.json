@@ -39,7 +39,7 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 2793,
+      "value": 2803,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
@@ -111,7 +111,7 @@
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 0,
+      "value": 13,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -211,7 +211,7 @@
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
-      "value": 25,
+      "value": 22,
       "how": "pages nothing links to \u2014 the relation layer's gap"
     },
     "wiki.pages": {
@@ -223,11 +223,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 533,
+      "value": 543,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 362,
+      "value": 352,
       "how": "a page's term written in another page's prose without being marked a link"
     },
     "wiki.zero_readings": {

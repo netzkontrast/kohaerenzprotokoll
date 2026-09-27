@@ -178,3 +178,8 @@ Nothing on the pairing or the pole. Its claim that Cerberus is decanonised is re
 „Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS. Vortex-Setting." ^[dual-storyform-hintergruende-md.md:L486] Beat 1 is „1 Convergence (Mnemosyne-Archipel)" ^[dual-storyform-hintergruende-md.md:L356], and „Hier kann Erasure nicht mehr funktionieren, weil Erinnerung selbst der Schauplatz wird." ^[dual-storyform-hintergruende-md.md:L364]
 The archipelago gets no KW number: `KW2` stands once, in „KW2-KW3-Phase" ^[dual-storyform-hintergruende-md.md:L309]. No world is paired with a Guardian.
 On the pole: a second figure beside Mnemosyne, called by its function. On the pairing: nothing, beyond a region named for Mnemosyne that the document calls [[aegis|AEGIS]]'.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Kernwelten are not tied to Guardians.**
+„die Kernwelten sind Akt-Marker, nicht je-ein-Guardian und nicht literale Geographie. Sie strukturieren die Erzählung von außen, nicht die Welt von innen." ^[kohaerenz-protokoll-philosophischer-bericht-md:L427]

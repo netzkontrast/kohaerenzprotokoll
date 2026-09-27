@@ -70,3 +70,13 @@ reconciliation that never ran passed green. That is a gap in the check, noted in
 
 Nothing from the session was merged into #104. What to keep from #106 is the
 author's call (`NOW.md`).
+
+**The author merged #106, 2026-09-27** („Da ist noch ein offener pr - bitte
+merge den in Main"). By then `dual-storyform-hintergruende-md` had been read as
+document 30 on `main`, with `reconcile-31` and J98–J99 — the numbers the session
+had claimed. So the merge kept both: in every conflict and question record the
+two entries stand one after the other, `main`'s first. The rest took `main`'s
+side and was re-measured. Two things of the session's did not go in as they
+were: `submission_description.txt` was removed, and its `reconcile.json` was
+renamed `reconcile-claimed-by-jules.json`, because `state.py` counts every
+`reconcile.json` as a reconciliation and this one never ran.

@@ -108,7 +108,7 @@ An EP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs 
 
 The konsolidiertes Konzept's row, in the same words: „EP | Nyx (Fight) | CPT-Verletzung | Adrenalin, Tunnelblick | → Konstruktiver Schutz" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L404]. From the second trauma layer: „Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex, Alex, Nyx" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L435].
 Her Riss: „Nyx (Fight) | Kinetisch | Aufprall, Bersten, Vibration" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L680]. Her voice in Akt I: „Lex hypotaktisch, Nyx stakkato, Kiko kindlich." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L765]
-The knuckles in this document are Kael's, in the premise (L29), the Landauer physics (L82) and KW1's Risse (L481); no line names Nyx with them (C10).
+The knuckles in this document are Kael's, in the premise (L29), the Landauer physics (L82) and KW1's [[risse|Risse]] (L481); no line names Nyx with them (C10).
 
 ## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — Anti-Logik, and the clenched fists
 

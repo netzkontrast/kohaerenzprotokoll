@@ -200,7 +200,7 @@ A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-ko
 
 The place: „Der Möglichkeits-Garten" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618] — „überwucherte Ruinenarchitektur." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618]
 „Hier wird die Funktionale Multiplizität als Erlebnis (nicht als Konzept) erreicht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L618] Beside it, the [[nexus|Nexus]] and the
-Mosaik-Herz (L619–L620). `Resonanz-Kontinuum` does not occur (0, counted in `05-verify-readers.txt`).
+[[mosaik-herz|Mosaik-Herz]] (L619–L620). `Resonanz-Kontinuum` does not occur (0, counted in `05-verify-readers.txt`).
 
 On the page's Guardians, its claim about the older drafts: „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L453]
 A reading for C5 on both sides at once.

@@ -237,3 +237,8 @@ Mnemosyne's row stands between [[aegis|AEGIS]]'s and [[juna|Juna]]'s: „Erinner
 What fell away: „Vier-Guardian-Soziopolitik." ^[dual-storyform-hintergruende-md.md:L468] „Reduziert auf Mnemosyne + 1 Lösch-Pol. Berührt OS-Operationalisierung in B." ^[dual-storyform-hintergruende-md.md:L468]
 Mnemosyne's archipelago is AEGIS': „Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS. Vortex-Setting." ^[dual-storyform-hintergruende-md.md:L486]
 Something AEGIS deploys, in a region that is AEGIS' — neither component nor peer is said.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Residents of the engine room.**
+„Der „Maschinenraum hinter dem Rendering“. Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md:L439] (This refers to Nexus). It does not explicitly state whether they are components of AEGIS.

@@ -73,3 +73,8 @@ ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times; so do `Re-
 What fell away, from the Reset-Doc's §10: „12 AEGIS-Protokolle als Lore-Inventar." ^[dual-storyform-hintergruende-md.md:L469] „Reduziert auf 3." ^[dual-storyform-hintergruende-md.md:L469] Its genealogy's row for 2026-04-30: „Architektonische Vereinfachung (Foundation reduziert, Guardians auf 2, Protokolle auf 3)." ^[dual-storyform-hintergruende-md.md:L450]
 The one protocol it names is AEGIS', set against the title: „AEGIS' Protokoll ist Erasure-Protokoll; *Kaels Heilung* ist das eigentliche Kohärenz-Protokoll." ^[dual-storyform-hintergruende-md.md:L86]
 ANI, ARS, ECR, PMS, RSA, SNK, ZTV and `Nullpunkt` each stand 0 times; so do `Suppressionsprotokoll` and `Re-Containment`, and the twelve are not listed. No instance of project vocabulary, like the master report and the worldbuilding concept of its date.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**No DKT terminology in the first 50 pages.**
+„Im Roman-Prosatext erscheint nichts davon explizit; die ersten 50 Seiten enthalten keine DKT-Terminologie" ^[kohaerenz-protokoll-philosophischer-bericht-md:L29]

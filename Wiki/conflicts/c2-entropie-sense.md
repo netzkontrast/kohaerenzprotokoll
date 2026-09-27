@@ -133,3 +133,10 @@ The konsolidiertes Konzept's third sense in its words, on its date; the conflict
 B's reading of the thesis: „Kontrolle erzeugt die Entropie, die sie bekämpft" ^[dual-storyform-hintergruende-md.md:L52]. The paradox: „AEGIS glaubt K1 (Kohärenz-Wächter) zu sein. Es ist tatsächlich K0 (Kollaps-Operator)." ^[dual-storyform-hintergruende-md.md:L82] „Jeder Akt der Kontrolle erzeugt die Entropie, die er bekämpft (Landauer-Hitze)." ^[dual-storyform-hintergruende-md.md:L82]
 What AEGIS takes for chaos: „Das Nichts-Rauschen, das AEGIS als Chaos liest, ist die atemporale Vereinigung aller Mutual Information" ^[dual-storyform-hintergruende-md.md:L82] — sense 2's counterpart, as in the konsolidiertes Konzept, not called entropy. `Entropie` stands on these two lines only.
 The status report's and the konsolidiertes Konzept's third sense; here K0 is the „Kollaps-Operator" ^[dual-storyform-hintergruende-md.md:L82], not called entropy. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Supports sense 3.**
+„Tatsächlich ist sie der primäre Erzeuger der Entropie in der Welt des Romans." ^[kohaerenz-protokoll-philosophischer-bericht-md:L134]
+„Was AEGIS auf System-Ebene tut — „apparent coherence“ durch Erasure des Anomalen — ist nicht Schutz, sondern Generierung der Entropie, die es zu bekämpfen vorgibt." ^[kohaerenz-protokoll-philosophischer-bericht-md:L49]
+This document explicitly frames entropy not as what AEGIS defends against but as what AEGIS fundamentally generates.

@@ -54,4 +54,4 @@ Placed in the Externe Ebene, Köln 2026: „Setting der Juna-Wirkung (Kap 33)" ^
 
 The second sub-location of „Die Externe Ebene — Köln 2026" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L648], after [[junas-ankerpunkt|Junas Ankerpunkt]]:
 „Garten der stillen Präsenz — nonverbale Kommunikation, Gegenpol zum AEGIS-Hum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L667]
-It gives the place no chapter and does not tie it to [[juna|Juna]] by name; it is not KW4's Möglichkeits-Garten, which it lists under KW4 (L618). Its only Kap-33 matter is the Überwelt's Verschränkungs-Insel (L646) (`Garten der stillen Präsenz` 1, `Ch33` on 646 739 954, `05-verify-readers.txt`) (C7).
+It gives the place no chapter and does not tie it to [[juna|Juna]] by name; it is not KW4's [[moeglichkeits-garten|Möglichkeits-Garten]], which it lists under KW4 (L618). Its only Kap-33 matter is the [[ueberwelt|Überwelt]]'s [[verschraenkungs-insel|Verschränkungs-Insel]] (L646) (`Garten der stillen Präsenz` 1, `Ch33` on 646 739 954, `05-verify-readers.txt`) (C7).

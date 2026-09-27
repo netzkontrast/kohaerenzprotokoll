@@ -217,3 +217,8 @@ The correspondence it states runs to schools, and twice to a class or to Kael: �
 „ANP-K1 (Kael, Lex, Alex, Rhys, Selene) — 1.Person" ^[dual-storyform-hintergruende-md.md:L293], „EPs (Nyx, Kiko, Lia, Isabelle, Moros) — 1.Person" ^[dual-storyform-hintergruende-md.md:L294], „Argus (Meta-Kognition)" ^[dual-storyform-hintergruende-md.md:L296] and „Spiegel-Alter (Silas, Oblivion)" ^[dual-storyform-hintergruende-md.md:L298] — thirteen with Kael, the 39-chapter spec's roster. The EPs' storyform is „A (Kaels Innenwelt)" ^[dual-storyform-hintergruende-md.md:L294].
 Worlds only as a phase: „KW2-KW3-Phase" ^[dual-storyform-hintergruende-md.md:L309]. `dreizehn`, `Kernwelt`, `KW1` and `KW4` stand 0 times.
 No count stated for either, and no world is an alter's.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Exactly 13 Alters.**
+„Der Canon hält genau 13 Alter. Frühere Vorschläge (11, 14, 15+) sind dekanonisiert." ^[kohaerenz-protokoll-philosophischer-bericht-md:L484]

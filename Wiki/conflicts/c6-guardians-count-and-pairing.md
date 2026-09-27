@@ -219,3 +219,9 @@ Its genealogy's row for 2026-04-30, its claim about the Reset-Doc: „Architekto
 What fell away, „Aus Reset-Doc §10, hier mit Bezug zur Storyform-Architektur:" ^[dual-storyform-hintergruende-md.md:L461]: „Vier-Guardian-Soziopolitik." ^[dual-storyform-hintergruende-md.md:L468] „Reduziert auf Mnemosyne + 1 Lösch-Pol." ^[dual-storyform-hintergruende-md.md:L468]
 The four are not named: `LogOS`, `Cerberus`, `Kairos`, `Sophia` and `Erasure-Pol` stand 0 times, and the second of the two is „1 Lösch-Pol" ^[dual-storyform-hintergruende-md.md:L468], unnamed. No world is paired: `Kernwelt` and `KW1` stand 0 times. It ranks itself last — „Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots" ^[dual-storyform-hintergruende-md.md:L29].
 Row 3's count, two. Where the other 2026 sources in this record that count the old drafts give five, it gives four — row 2's count of bearers, without its names. The author's decision for five (2026-09-24) stands; what the document says of the Reset-Doc is its claim, recorded and not applied.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Supports the position of two Guardians.**
+„In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE). Im aktuellen Canon sind sie reduziert auf zwei: Mnemosyne (Memory-Keeper, Klimax-Setting) und ein Lösch-Pol (Identität noch offen, Forschungsfrage)." ^[kohaerenz-protokoll-philosophischer-bericht-md:L296]
+This document explicitly acknowledges the old five (or multiple) and states that they have been reduced to two, naming Mnemosyne and an open erasure pole.

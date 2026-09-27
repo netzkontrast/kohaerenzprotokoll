@@ -218,7 +218,7 @@ She stands beside Kael as a bearer and as a way of looking, and the document doe
 
 ## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
 
-**`Wächter` three times — [[aegis|AEGIS]] in the Genesis, and the two Guardians twice in compounds; no `Wächterin`.**
+**`Wächter` three times — [[aegis|AEGIS]] in the [[genesis|Genesis]], and the two Guardians twice in compounds; no `Wächterin`.**
 In Beat 3, „es hat sich gleichzeitig selbst als Wächter über den eigenen abgespaltenen Teil etabliert." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L180] — bearer 1. The Überwelt's „Wächter-Registry — operative Verwaltung der zwei Guardians." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L645], and the open point „Wächter-Zwiespalt-Soziopolitik. Spannung zwischen Mnemosyne und Erasure-Pol" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L894] — the two [[guardians|Guardians]] under the German word. [[mnemosyne|Mnemosyne]] herself is „Mnemosyne — Erinnerungs-Hüterin." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L200] `Wächterin` stands 0 times, and no Kap 8 is named.
 The konsolidiertes Konzept's two uses and a third; J20 holds: the sentence decides.
 
@@ -227,3 +227,8 @@ The konsolidiertes Konzept's two uses and a third; J20 holds: the sentence decid
 **`Wächter` once — the kernel AEGIS believes itself to be and is not.**
 „AEGIS glaubt K1 (Kohärenz-Wächter) zu sein. Es ist tatsächlich K0 (Kollaps-Operator)." ^[dual-storyform-hintergruende-md.md:L82] — bearer 1, as AEGIS' mistaken self-image (J98 places the bare `K1`). The Mnemosyne-Archipel is a `Hüter`'s: „Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS. Vortex-Setting." ^[dual-storyform-hintergruende-md.md:L486]
 The Guardians are written `Guardian` — on two lines, both in compounds, „Guardian-Deployments" ^[dual-storyform-hintergruende-md.md:L210] and „Vier-Guardian-Soziopolitik." ^[dual-storyform-hintergruende-md.md:L468] — and `Guardians` once (L450); `Wächterin` stands 0 times. J20 holds: the sentence decides.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Wächterprogramme are the Guardians.**
+„In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE). Im aktuellen Canon sind sie reduziert auf zwei: Mnemosyne (Memory-Keeper, Klimax-Setting) und ein Lösch-Pol (Identität noch offen, Forschungsfrage)." ^[kohaerenz-protokoll-philosophischer-bericht-md:L296]

@@ -249,3 +249,8 @@ Position 1's bearer, with the autopoietic reason the konsolidiertes Konzept and 
 The Moonshine-Link is „nicht-lokale, von AEGIS' Sensorik nicht erfassbare Verbindung Kael↔Juna" ^[dual-storyform-hintergruende-md.md:L485]; Juna's Witness-Funktion is „Algorithmisch irreduzibel für AEGIS (Gödel-Eigenschaft)." ^[dual-storyform-hintergruende-md.md:L489] What AEGIS cannot place it misreads: „Das Nichts-Rauschen, das AEGIS als Chaos liest, ist die atemporale Vereinigung aller Mutual Information" ^[dual-storyform-hintergruende-md.md:L82]. And Kael in Storyform B is „von AEGIS' Universe-MC weder assimilierbar noch löschbar" ^[dual-storyform-hintergruende-md.md:L254].
 The Guardians stand only as what AEGIS does — „Guardian-Deployments" ^[dual-storyform-hintergruende-md.md:L210] — and as a reduced „Vier-Guardian-Soziopolitik." ^[dual-storyform-hintergruende-md.md:L468]; none is given a limit of its own. `blind` stands 0 times.
 Position 1's bearer, in the storyform's terms; nothing for position 2.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Neither position is directly stated.**
+The document talks about Guardians/Wächterprogramme structurally: „In früheren Phasen waren mehrere Wächterprogramme vorgesehen... Im aktuellen Canon sind sie reduziert auf zwei" ^[kohaerenz-protokoll-philosophischer-bericht-md:L296] and that they reside behind the rendering: „Der „Maschinenraum hinter dem Rendering“. Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md:L439] It doesn't explicitly state whether they are components of AEGIS or external entities enforcing it.

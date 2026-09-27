@@ -261,13 +261,17 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
-- **What to keep from the Jules session, pull request #106?** The ingest of
-  `kohaerenz-protokoll-philosophischer-bericht-md` (decision 014) left no
-  candidate list, census, note, judgement or reconciliation record, and claims
-  all of them. Its entries on C2, C4, C6, C7, C9, Q1–Q5 and Kap 13 verify.
-  Close #106 and read the document again, or keep those entries and finish the
-  ingest around them — yours to say. And `account.py order` passes a
-  `reconcile.json` with no census beside it; it should not.
+- **`kohaerenz-protokoll-philosophischer-bericht-md` is half-ingested.** The
+  author merged the Jules session's pull request #106 (decision 014): its entries
+  on C2, C4, C6, C7, C9, Q1–Q5 and Kap 13 and its links are in the wiki, each
+  after the entry `dual-storyform-hintergruende-md` wrote the same day. It left
+  no candidate list, census, note, judgement or `Wiki/compare/` record; its
+  `reconcile.json` claimed all of them and is kept as
+  `reconcile-claimed-by-jules.json`, so no count takes it for a reconciliation.
+  Finishing the ingest means a reading with a candidate list written while
+  reading — the entries already there are what its reconciliation meets. And
+  `account.py order` passes a `reconcile.json` with no census beside it; it
+  should not.
 
 - **`Coherence Protocol.mp3` is the one row not landed.** markitdown turns audio
   into text only through a speech-recognition service outside this container,
@@ -422,7 +426,7 @@ may be a third surface for the same entity. Nothing read links them.
 **The quote convention is in use.** A research-source quotation carries its
 citation on the same line and inside its table cell. Source labels and the
 wiki's own working sentences use code or emphasis; recorded author decisions
-link to their decision record. The checker reports 0
+link to their decision record. The checker reports 13
 <!--state:quotes.unchecked--> quotations without a resolvable source citation.
 `python3 scripts/quotes.py --unchecked` lists any new gaps with file and line.
 
@@ -1278,7 +1282,7 @@ those files are read directly when working on code. The check needs no qmd
 binary; it checks configured coverage, not the contents of an installed index.
 
 **Citation resolution is complete:** 0 <!--state:quotes.unresolved-->
-quotations fail `scripts/quotes.py`, and 0 <!--state:quotes.unchecked-->
+quotations fail `scripts/quotes.py`, and 13 <!--state:quotes.unchecked-->
 research-source quotations lack a resolvable citation. The checker audits
 research-source wording; an author's recorded decision links to its decision
 record and is not treated as a quotation from a research document.

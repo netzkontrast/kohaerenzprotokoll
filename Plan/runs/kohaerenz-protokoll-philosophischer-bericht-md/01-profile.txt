@@ -1,0 +1,13 @@
+# kohaerenz-protokoll-philosophischer-bericht-md
+  lines                839  (frontmatter ends at 9)
+  body words           7756
+  headings             75   bold-only lines 5
+  table rows           25   code fences 0
+  question marks       17
+  backslash escapes    32
+  typographic marks    175   ascii quotes 31
+  invisible characters U+00ADx1
+  math symbol lines    25
+  glued ref numbers    12
+  repeated labels      none
+  longest line         802 chars

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      12
+  backslash escapes      32
+  typographic marks      175
+  ascii quotes           31
+
+# inflection families -- one term, several surfaces
+  selbs    Selbstdefinition, Selbstdeklaration, Selbsterhaltung, Selbstheilung, Selbstmodell, Selbstreferenz, Selbstreferenzielle, Selbsttäuschung, Selbstwahrnehmung
+  opera    Operation, Operationale, Operationen, Operativ, Operator, Operators
+  roman    Roman, RomanKonzeptentwicklung, RomanRefactoring, RomanSynthese, Romans, Romanwelt
+  struk    Struktur, Strukturell, Strukturelle, Strukturellen, Strukturen, Strukturisomorphie
+  syste    System, Systemabsturz, Systeme, Systemen, Systemkonsistenz, Systems
+  bewus    Bewusstes, Bewusstsein, Bewusstseinen, Bewusstseins, Bewusstseinssysteme
+  konst    Konstante, Konstatierung, Konstatierungen, Konstrukt, Konstruktion
+  korre    Korrektive, Korrelat, Korrelate, Korrespondenz, Korrespondenztheorie
+  wider    Widerspruch, Widerspruchsfreie, Widersprüche, Widerstand, Widerstands
+  algor    Algorithm, Algorithmische, Algorithmischen, Algorithmus
+  archi    Archipel, Architecture, Architekt, Architektur
+  coher    Coherence, Coheron, Coheronen, Coherons
+  grenz    Grenz, Grenze, Grenzen, Grenzwert
+  infor    Information, Informationsauslöschung, Informationserhaltung, Informationsparadoxon
+  integ    Integration, Integrationsprozess, Integrity, Integrität
+  kohär    Kohärentist, Kohärenz, Kohärenztheorie, Kohärenzzone
+  konze    Konzept, Konzeptdichte, Konzepte, Konzeption
+  leser    Leser, Lesern, Lesers, Lesersteuerung
+  physi    Physics, Physik, Physikalische, Physikkonzepte
+  phäno    Phänomenales, Phänomene, Phänomenologie, Phänomenologisch
+  proto    Protocol, Protokoll, Protokolle, Protokollsätze
+  schic    Schicht, Schichten, Schicksal, Schicksals
+  theor    Theoretischer, Theoretisches, Theorie, Theorien
+  unive    Universal, Universe, Universum, Universums
+  versc    Verschmelzung, Verschränkung, Verschränkungs, Verschränkungstypen
+
+# substring pairs -- never one term, often merged by accident
+  Aber < Habermas
+  Akte < Akteure
+  Akte < Charakter
+  Akte < Charakterentwicklung
+  Atem < Atemporale
+  Atem < Atemporales
+  Atem < Atemporalität
+  Beat < Beats
+  Boot < Boots
+  Boot < Reboot
+  Dies < Diese
+  Dies < Dieses
+  Dual < Dualität
+  Dual < Individual
+  Echo < Echos
+  Eine < Bewusstseinen
+  Ende < Tendenz
+  Ende < Anwender
+  Ende < Rendering
+  Erst < Erste

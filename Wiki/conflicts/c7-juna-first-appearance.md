@@ -195,7 +195,7 @@ The text names no figure (`Plan/runs/koharenz-protokoll-kapitel-0-v2-md/05-verif
 
 ## 2026-09-26 — `worldbuilding-konzept-kohaerenzprotokoll-md`, 2026-05-08, the worldbuilding concept
 
-**No appearance placed — a revelation in Akt II, a nameless seed from Ch1, and Kael's acceptance of her in Ch34.**
+**No appearance placed — a revelation in Akt II, a nameless seed from Ch1, and [[kael|Kael]]'s acceptance of her in Ch34.**
 „Revelation-Timing: KW2/KW3 (Akt II), nicht früher." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378] „Juna-Seed seit Ch1, aber namenlos." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L378]
 „Niemals physisch beschrieben." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L374] Her modes are an open point: „Junas Erscheinungsmodi. Telefon-Stille als Anker steht." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L892] „Andere Modi (Erscheinung in Stadt, Traum, Spiegel) müssen konsistent sein." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L892] And her point of view: „Junas POV: offen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L415]
 One chapter is placed for her, as a place in KW4: „Das Mosaik-Herz — der Ort, an dem Kael Juna als Teil seiner selbst akzeptiert (Ch34, vor Vortex)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L620] — an acceptance, not called an appearance. The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]] stands in the [[externe-ebene|Externe Ebene]] with no chapter and no scene (L667). `Ch38` and `Kap 38` stand 0 times; `Ch33` three times, none of them hers (L646, L739, L954).
@@ -215,3 +215,11 @@ The routing table: „Juna-POV (selten, Erscheinungsmodi offen)" ^[dual-storyfor
 The modes, a research question it restates from the Reset-Doc: „F8 — Junas Erscheinungsmodi:" ^[dual-storyform-hintergruende-md.md:L419] „Welche zwei oder drei Modi reichen, um Junas Präsenz erzählerisch zu tragen, und welcher davon ist der Anker (Empfehlung pro Telefon-Stille)?" ^[dual-storyform-hintergruende-md.md:L419]
 Kap 33 stands once, for something else: „FM-Achievement Kap 33." ^[dual-storyform-hintergruende-md.md:L335] `Kap 38` and `Ch38` stand 0 times.
 Neither Kap 33 nor Kap 38: a point of view, a seed and an open question, where the status report stood the day before. The conflict stays open.
+
+Neither Kap 33 nor Kap 38; a hint in Kap 3, where the Konzept-Iteration [[genesis|Genesis]] has Kael see her first as an echo. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08
+
+**Never explicitly physical.**
+„Juna wird niemals physisch beschrieben. Nicht weil ihre physische Erscheinung unwichtig wäre, sondern weil ihre Wirklichkeit nicht in Beschreibung kondensiert." ^[kohaerenz-protokoll-philosophischer-bericht-md:L310]
+This doesn't name a chapter where she first appears, but enforces the rule that she only shows via effect, never physical description.
