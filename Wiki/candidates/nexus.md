@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 gathered: "2026-09-17"
 ---
 
@@ -107,3 +107,11 @@ One occurrence, a KW4 sub-location: „Der Nexus" ^[worldbuilding-konzept-kohaer
 „Reine Information als Aufenthaltsraum." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L619] It stands beside the [[moeglichkeits-garten|Möglichkeits-Garten]] (L618).
 The Guardians are elsewhere, in the Überwelt: „Hier residieren die zwei Guardians als abstrakte Entitäten" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L628].
 `Überwelt-Nexus` and `Überraum` do not occur (0 each, counted in `05-verify-readers.txt`).
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — KW3's second name, where the Wächterprogramme reside
+
+A theory report — „Dieses Dokument ist Synthese, nicht Pitch." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L25] — recorded, not applied.
+
+One occurrence, in KW3's heading beside the [[ueberwelt|Überwelt]]: „KW3 — Überwelt / Nexus (Quanten-Information)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L437]. The slash names two pages and merges nothing (J103); it is not the compound `Überwelt-Nexus` (0, `05-verify-readers.txt`; J63).
+What that world is: „Der „Maschinenraum hinter dem Rendering"." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] „Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] — its word for the Guardians of the earlier phases (L296). The 2025 document, too, has its Guardians take a form in the Nexus; nothing in either says the two are one space.
+So a world here, not a place in KW4 and not a passage to the Externe Ebene, as in the worldbuilding concept of the same date. `Überraum` stands 0 times.

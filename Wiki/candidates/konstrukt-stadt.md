@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -196,3 +196,19 @@ A chapter file of Kap 25 — research, not text for the novel — whose prose is
 What it names is a working topology. A node of stations, „der Knoten ist am Nordende immer kühler" ^[kp-kap25-2026-09-14-md.md:L85] (a node, not [[datenverarbeitungsknoten-7g]], by J53); a corridor with a name, „weil man in Delta-Sieben in seinem Abstand geht" ^[kp-kap25-2026-09-14-md.md:L229]; and a level below it, „am Ende ist die Treppe zur Wartungsebene" ^[kp-kap25-2026-09-14-md.md:L237] — „Ich könnte nachsehen, was unter Delta-Sieben liegt." ^[kp-kap25-2026-09-14-md.md:L257]
 The apparatus places that stair in a world, not a city: „KW3-Materialisierung über Treppenkopf/Wartungsebene" ^[kp-kap25-2026-09-14-md.md:L48], its claim about „Canon-Kernwelten §12" ^[kp-kap25-2026-09-14-md.md:L48] (see [[kern-welten]]). `KW1` stands 0 times.
 So whether the city of L125 and L197 is the Konstrukt-Stadt the text does not say, and it does not speak to C9, which the author decided for KW1. As the session log reports, the drafted Act II plays in the city's administrative topology while the canon it cites gives Kap 23–28 to KW3; this file is that draft — the prose stays in its unnamed city, the hidden note says KW3.
+
+## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — KW1, the city AEGIS steers and heats, inhabited at the end
+
+A theory report — „Dieses Dokument ist Synthese, nicht Pitch." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L25] — that dates its canon status apart from itself (L17); recorded, not applied.
+
+**KW1**, as the author decided for C9: „KW1 — Konstrukt-Stadt (Kantsche Phänomene)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L429]. No second name (`Logos-Prime` 0, `05-verify-readers.txt`).
+„Domäne der K₁-Dominanz." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431] „Streng euklidisch, deterministisch, hyperstrukturiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431] „Im Sinne Kants ist dies die Welt der Phaenomena — Erscheinungen, gefiltert durch den kognitiven Apparat (AEGIS)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431]
+„Architektur als Antagonist; die Stadt vermittelt den Horror des Vorhersehbaren." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431] „Sprachlich: absolutes Metaphernverbot, Dialoge auf sterilen, assertorischen Sätzen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431] Class P, breath, „Stil: kalt, steril." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L431] — and the act: „Akt I weitgehend KW1/P (kalt-steril)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L447], with no chapters.
+
+Who steers it: AEGIS „ist die KI, die die Konstrukt-Stadt steuert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L247] What it obeys: every event must fit the Dual-Kernel-Theorie, „von der Architektur der Konstrukt-Stadt über die Mechanik der Risse bis zur thermischen Krise um Junas Erinnerung" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L63].
+Its temperature is the cost of the erasures: „Im Roman ist das nicht eine ferne theoretische Schranke, sondern die operative Realität der Konstrukt-Stadt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] „Das ist der Grund, warum 21° C die Temperatur ist — die Stadt operiert am Rand einer thermischen Bilanz, die jede Sekunde aufrechterhalten werden muss." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] „Wenn AEGIS große Mengen an Information löscht, wird die Stadt heiß." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L110] And at the end of the report: „AEGIS' gesamte Stadt ist genau diese Hitze." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L784] The heat and the ozone themselves are placed where the wiki keeps heat (J62; C11).
+
+Its edge is the next world: KW2 is „Peripherie der Stadt, wo AEGIS' operationale Geschlossenheit erodiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L435] Whether that periphery is part of the Konstrukt-Stadt the document does not say; its worlds are „nicht literale Geographie." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] See `kern-welten`.
+
+The end inverts the beginning — „Was am Anfang als sterile Stadt mit gleichbleibender Temperatur erscheint, kehrt am Ende invertiert wieder" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L53], a city that sentence does not name. The Gardener's Axiom: „Der finale Zustand der Konstrukt-Stadt ist nicht gerettet, sondern bewohnt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L713]
+„Die Konstrukt-Stadt am Ende des Romans ist nicht in Trümmern." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741] „Sie ist transformiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741] „Die Grenze wird nicht mehr bewacht, sondern bewohnt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L741]

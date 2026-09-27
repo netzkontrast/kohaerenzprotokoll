@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 13
+sources: 14
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -166,3 +166,10 @@ The world's heading: „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeit
 **KW4 is the Möglichkeits-Garten, the whole world — no place inside it named.**
 In the table of worlds, §14.2: „KW4 Möglichkeits-Garten" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L684], mapped to schools and a logic class. Where [[juna|Juna]]'s modes of appearing run, under §9.2, labelled `[K]`: „KW4-Logik (Möglichkeits-Garten als emergenter Raum)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L451].
 `Garten der Möglichkeiten` stands 0 times, and no sub-location of KW4 is named. Position 1's side, as in the Sprach-DNA and the master report; the conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht, reconciled
+
+**KW4 is named `Resonanz-Kontinuum` alone, and no garden stands in the document at either scale.**
+„KW4 — Resonanz-Kontinuum (Dialetheia)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L441]; „Die absolute, externe Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L443] „Hier operiert die Witness-Function direkt, hier befindet sich die Vortex-Quelle." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L443] No place inside KW4 is named.
+`Möglichkeits-Garten`, `Garten`, `Garten der Möglichkeiten` and `Kairos-Potentialis` stand 0 times (`05-verify-readers.txt`).
+On neither row: with no garden, it says nothing about whether the Möglichkeits-Garten is a world or a place in KW4. For the world's name it has only the second name the storyform outline and the Kapitel-Kompendium write beside the garden, `Resonanz-Kontinuum`, without it. The conflict stays open.
