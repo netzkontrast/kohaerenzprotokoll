@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -83,6 +83,15 @@ Position: „KW4 dominiert Akt III (Ch29–34, 37–39).“ ^[worldbuilding-konz
 - Place: „Der Jenseits-des-Ereignishorizonts-Bereich — kausal isolierter „Verschränkungs-Insel"-Raum (Ch33).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] · „Hier kann Information dem Erasure-Sweep entkommen.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] — a sub-location of „### VI.6 Die Überwelt — AEGIS' Maschinenraum“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L626], not of KW4.
 - Kael: „FM-Achievement Ch33.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L954], in the storyweaving list of Phase 6.
 - Philosophy: „Jaspers' *Grenzsituationen* sind die Katalysatoren der Erkenntnisgenese (Ch11, Ch33).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L739]
+
+## Reading — `dual-storyform-hintergruende-md`, 2026-05-08, the Dual-Storyform background document — FM-Achievement
+
+The document ranks itself: „Hierarchie für Konflikte: Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots.“ ^[dual-storyform-hintergruende-md.md:L29] Recorded, not applied.
+
+Position: „Akt III\*\* | Kap 27–34“ ^[dual-storyform-hintergruende-md.md:L335]
+
+- Kael: „FM-Achievement Kap 33.“ ^[dual-storyform-hintergruende-md.md:L335], in the act table's Akt III row · „FM-Achievement Ch33“ ^[dual-storyform-hintergruende-md.md:L451], the document's claim about an „Outline-Revision“ ^[dual-storyform-hintergruende-md.md:L451] of 2026-05-01 in its genealogy, whose effect it gives as „Akt-Architektur kanonisch.“ ^[dual-storyform-hintergruende-md.md:L451]
+- What is achieved, in the „Audit-Korrektur 1: Approach gegen Domain“ ^[dual-storyform-hintergruende-md.md:L184]: „Kaels Heilung *ist* Funktionale Multiplizität“ ^[dual-storyform-hintergruende-md.md:L210]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
