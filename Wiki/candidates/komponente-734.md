@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 28
-readings: 28
+sources: 29
+readings: 29
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -222,6 +222,25 @@ A research report that cites a corpus it does not contain — recorded, not appl
 **Not a name for the component — a label for Kael's core trauma, written `T-734`.** „Kael geht im Verlauf der ersten 13 Kapitel zunehmend der Raum für Vermeidungsstrategien (Options) aus, sich vor seinem Kern-Trauma (T-734) zu verstecken." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L83] „Kael weigert sich bis zur letzten Konsequenz (Kapitel 35/36), sein Trauma (T-734) als bloße „Datenkorruption“ von AEGIS löschen zu lassen." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L125]
 **And a gap the document names in itself.** „Kaels „Origin Trauma“ (T-734) bleibt als kausaler Anker logisch teils undefiniert." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L33]
 Per J112, `T-734` is this source's own sense of the number — Kael's core trauma, a fragment his Optionlock protects — and is placed here as that sense, never as a second name of the component this page holds: the document never writes `Komponente 734` or `Komp 734` (`Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`), and does not relate `T-734` to a designation, a dwelling or a Genesis beat.
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — 734-Alpha, a colleague, and Protokoll 734, a containment order, never Kael's own designation (J112)
+
+Per J112, placed here as this source's own senses of the number — neither is the component this
+page holds, and Kael himself is never called `Komponente 734` or `Komp 734` in the document
+(both 0, `Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`); his own designation here is
+`K-1123` (see `kael`).
+
+**A colleague's designation, not Kael's own.** „Kael kannte ihre Bezeichnungen – 734-Alpha aus
+seiner Analysegruppe, 912-Gamma aus seinem Wohnblock –, aber er kannte sie nicht."
+^[kohaerenz-protokoll.md:L140] Einheit 734-Alpha recurs as a named colleague — „Er erkannte
+Einheit 734-Alpha, seinen ehemaligen Nachbarn aus dem Arbeitsbereich in Co₁"
+^[kohaerenz-protokoll.md:L1790] — once with a message of its own: „NACHRICHT VON EINHEIT
+734-ALPHA:" ^[kohaerenz-protokoll.md:L334]
+
+**A containment protocol, not a component.** „AKTIVIERE PROTOKOLL 734: KONTAMINATIONS-EINDÄMMUNG."
+^[kohaerenz-protokoll.md:L2348]
+
+This reading takes no side in `C12`.
 
 ## Where the sources differ
 

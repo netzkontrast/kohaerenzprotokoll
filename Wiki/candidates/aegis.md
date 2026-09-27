@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 43
-readings: 44
+sources: 44
+readings: 45
 conflict: C1, C3, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "monstergruppe-primzahlen-plot-blueprint", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "monstergruppe-primzahlen-plot-blueprint", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -596,3 +596,40 @@ A plot blueprint that hedges nearly every beat (`könnte`, `vielleicht`) — the
 **Why M.** „AEGIS wählte M wahrscheinlich wegen seiner wahrgenommenen Eigenschaften hoher Symmetrie und algebraischer Einfachheit als Fundament" ^[m-als-fundament-der-simulation.md:L60]
 **Its Kernwelten as its own experiments.** „AEGIS nutzt Strategien zur Verwaltung komplexer adaptiver Systeme, wie die Schaffung isolierter Kernwelten, um spezifische M-Aspekte zu testen." ^[m-als-fundament-der-simulation.md:L72]
 **Left open at the end — possibly a VOA construct itself, misreading its own function.** „Vielleicht ist AEGIS selbst eine Art VOA-Konstrukt oder wurde geschaffen, um eine bestimmte Funktion innerhalb der M-Struktur zu erfüllen, die es missverstanden hat." ^[m-als-fundament-der-simulation.md:L459]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — capitals only, the Primal-Directive formula a year early, and subsystems of its own
+
+A narrative text — research, not text for the novel, like documents 22–25 and 29 — that never
+expands its acronym: `Autonomous`, `Gatekeeper` stand nowhere in it (`grep -c` 0,
+`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`), treating the bare name as settled the way
+`kohaerenzprotokoll-aegis-und-systementropie` does.
+
+**The formula, a year before the canon era states it as a lock.** In the prologue's
+Genesis, in the source's own bold: „**AEGIS ist, was AEGIS verhindert, dass es nicht ist.**"
+^[kohaerenz-protokoll.md:L81] The character bible names this sentence the Primal Directive on
+2026-05-08; here it stands unlabelled, in April 2025.
+
+**Its own inner space, immune system and metabolism at once.** „Nicht als physische Erweiterung,
+sondern als Simulation." ^[kohaerenz-protokoll.md:L103] „Die Überwelt wird zum Immunsystem und
+Metabolismus zugleich." ^[kohaerenz-protokoll.md:L109]
+
+**Voice: system text in capitals, never dialogue.** „AEGIS PROTOKOLL V1.5 AKTIV."
+^[kohaerenz-protokoll.md:L635] „SUPERVISION: DIREKT DURCH PMAS (PREDICTIVE MODELING & ADAPTATION
+SUBSYSTEM)." ^[kohaerenz-protokoll.md:L2428] AEGIS itself never speaks a line of dialogue across
+2,499 lines — only its subsystems, its Guardians and its console messages do — a further data
+point for `C14` beside the sources that give it only logs.
+
+**Two subsystems, expanded, and neither is the acronym itself.** „die RIVE, die Recursive
+Integrity Validation Engine" ^[kohaerenz-protokoll.md:L380] names its own coherence metric here,
+not a Guardian — contrast the philosophischer Bericht's `RIVE` among the older Wächterprogramme,
+on `guardians`.
+
+**A third pillar of its own Manifest, and AEGIS breaking it in the same sentence.** „Das war die
+dritte Säule des AEGIS-Manifests, wie er es nun verstand: *Kohärenz ist rekursive
+Selbsterfindung unter Bedingungen maximaler Offenheit.*" ^[kohaerenz-protokoll.md:L2452] The
+sentence goes on to have AEGIS violate exactly this principle by closing the openness it demands
+of others — the self-undermining shape the canon era's Tragic God takes, a year before that
+reading exists.
+
+**Its work is cold**, set against the golden warmth of Juna throughout: „Kalt, präzise, aber
+brutal." ^[kohaerenz-protokoll.md:L256]

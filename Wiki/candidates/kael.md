@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 41
-readings: 41
+sources: 42
+readings: 42
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "monstergruppe-primzahlen-plot-blueprint", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "monstergruppe-primzahlen-plot-blueprint", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -488,3 +488,33 @@ A plot blueprint that hedges nearly every beat — the oldest read source on thi
 **His fragmentation is not M's mirror; it is what AEGIS' analysis of him produces.** „Kaels DIS-ähnliche Fragmentierung ist *keine* direkte Abbildung von M, sondern eine psychologische Stressreaktion auf AEGIS' invasive Analyse- und Kontrollversuche." ^[m-als-fundament-der-simulation.md:L82] „Dies ähnelt dem Gaslighting auf realitätsweiter Ebene, bei dem AEGIS Kaels resonante Erfahrung leugnet" ^[m-als-fundament-der-simulation.md:L83]
 **His Alters, an IFS reading: protector parts, not mirrors of M.** „Kaels "Alters" können als extreme Beschützerteile gesehen werden" ^[m-als-fundament-der-simulation.md:L82] — see `alters`, [[did|DID]].
 **What the fragmentation costs him.** „Kael erlebt Zeitverlust, Amnesie bezüglich der Handlungen des aktiven Teils, Verwirrung über seine eigene Identität und Angst, die Kontrolle über sich selbst zu verlieren." ^[m-als-fundament-der-simulation.md:L279]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — K-1123, a fragment of M twice separated, and the Selbst he finds
+
+**A designation before any component number exists.** Not yet the amnesiac of the canon era:
+„Kael lag auf der Ruhefläche seines Wohnmoduls." ^[kohaerenz-protokoll.md:L128] He knows his own
+designation from the start — „Er war immer noch K-1123, der Kohärenz-Verifikator, der Logiker."
+^[kohaerenz-protokoll.md:L268] — and it never becomes 734 here: `Komponente 734` and `Komp 734`
+stand 0 times (`grep -c`, `Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`). See
+`komponente-734` for this document's own, different senses of that number.
+
+**A fragment of M, not of AEGIS.** „Er war ein Fragment von M, verbunden mit Juna durch einen
+unerklärlichen Link" ^[kohaerenz-protokoll.md:L853] „die Zerlegung von M in Kael, die
+Fragmentierung von Kael in Caches" ^[kohaerenz-protokoll.md:L1019] „Er war Kael/M."
+^[kohaerenz-protokoll.md:L1430]
+
+**The separation, done to him by AEGIS twice.** The one shown in Kapitel 2: „Initiere Protokoll
+zur erzwungenen Kohärenz-Partitionierung." ^[kohaerenz-protokoll.md:L258] „Eine Mauer zwischen dem
+Logiker, dem Manager, der versuchte zu kooperieren, und dem intuitiven, fühlenden Teil, der mit
+dem goldenen Licht, mit *Juna*, verbunden war." ^[kohaerenz-protokoll.md:L260] And an earlier one,
+only remembered afterward: „Als… als M dissoziiert wurde." ^[kohaerenz-protokoll.md:L911] Neither
+is named `Trennungsprotokoll` (0 times, same file); the word `Genesis` stands once in the
+document, in the prologue's own heading, about AEGIS rather than about him.
+
+**No knuckles.** `Knöchel` stands 0 times in the document (`grep -cw`,
+`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`) — this reading takes no side in `C10`.
+
+**The Selbst, and a functionality found rather than assigned.** „*Das Selbst*, dachte er"
+^[kohaerenz-protokoll.md:L873] „Er erreichte eine neue Form der Funktionalität"
+^[kohaerenz-protokoll.md:L1474] — the text's own name for it, `funktionale Multiplizität`,
+follows in the same sentence.

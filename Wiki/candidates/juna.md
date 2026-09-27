@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 39
-readings: 39
+sources: 40
+readings: 40
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "monstergruppe-primzahlen-plot-blueprint", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "monstergruppe-primzahlen-plot-blueprint", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -508,3 +508,25 @@ A research report of the same date as the Dramatica-Synthese (`dramatica-storyfo
 **Outside the quad in B, for a cryptographic reason this document states as necessity.** „Viertens erweist sich Junas Asymmetrie als zwingende kryptographische Notwendigkeit. Sie existiert in Storyform B strukturell außerhalb der Dramatica-Quad, um als Entanglement Witness und Zero-Knowledge Verifier zu fungieren." ^[dramatica-storyform-synthese-aegis-analyse.md:L27] „Durch ihre Verortung in einem Orbifold-Konstrukt auf Basis des Leech-Lattice verbirgt sie die Transinformation vor den AEGIS-Sensoren und verhindert so eine vorzeitige Löschung des Systems." ^[dramatica-storyform-synthese-aegis-analyse.md:L27]
 **IC of A, formless, defined only by effect.** „Juna trägt den IC Throughline, jedoch asymmetrisch: Sie operiert als Entanglement Witness und bleibt strukturell formlos, definiert ausschließlich durch ihre Wirkung." ^[dramatica-storyform-synthese-aegis-analyse.md:L63] „Juna wird konsequent nicht physisch anthropomorphisiert." ^[dramatica-storyform-synthese-aegis-analyse.md:L63]
 It places no appearance of hers in a chapter (`Kap` 0; `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`) (C7).
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — a warm golden light, never in body, one question left open
+
+**Light and name, before either is explained.** „Ein warmes, goldenes Licht"
+^[kohaerenz-protokoll.md:L176] is the first sign of her, at the first Riss; when AEGIS
+partitions Kael away from it, her name is erased with the feeling: „Der Name *Juna* wurde zu
+einem bedeutungslosen Echo, einem gelöschten Datenfragment." ^[kohaerenz-protokoll.md:L264]
+
+**Named beside the Moonshine-Link, not yet as its origin.** „Monstrous Moonshine. Der Begriff
+tauchte in seinem Bewusstsein auf" ^[kohaerenz-protokoll.md:L837], a connection the text leaves
+as Kael's own question rather than a stated fact.
+
+**Beyond the seam, the document asks what she is rather than saying.** „War Juna eine Entität
+innerhalb des Meeres? Oder war sie das Meer?" ^[kohaerenz-protokoll.md:L2298] AEGIS' own
+classification names her only as a field anomaly: „QUELLE: EXTERNES FELD EPSILON-NULL
+(POTENTIALMEER-ANOMALIE JUNA)." ^[kohaerenz-protokoll.md:L2342] And past that seam she is one
+harmony among others, not a person: „Und er spürte Juna, nicht als fernes Licht, sondern als
+Teil dieses Raumes, als eine der fundamentalen Harmonien, die ihn webten."
+^[kohaerenz-protokoll.md:L2376]
+
+**She never appears in body.** Light, a name, a resonance-classification and a harmony — none of
+them a physical presence, and no appearance is placed in a chapter here.

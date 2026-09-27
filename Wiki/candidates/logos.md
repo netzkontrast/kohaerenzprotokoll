@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -176,3 +176,22 @@ The world table's first row: „Konstrukt-Stadt (KW1) | LogOS (Rationalismus) | 
 **The same pairing, and LogOS acts.** The table: „\*\*KW1: Logos-Prime\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40] „\*\*LogOS\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40], role „Die Verdrängung." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40] Kapitel 6, „Der Abstieg beginnt" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L106]: „LogOS, der Guardian von KW1, enttarnt Kaels wachsende innere Dissonanz." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] „Die Stadt wendet sich nun aktiv gegen ihn." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
 
 `Logos-Prime` is recorded as an alias of KW1 (J49); no absorption or reduction is told, and LogOS is not called `Wächter` (0, `05-verify.txt`).
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — Co₁'s supervisor, never called Guardian by name, and a limit even AEGIS could not get past
+
+**Supervisor of Co₁, coupled directly to Kael's own mind — never called `Guardian`.** „Eine
+direkte Schnittstelle zwischen seinem kognitiven Kern und LogOS, dem Supervisor für Kohärenz und
+Struktur in diesem Sektor." ^[kohaerenz-protokoll.md:L438] Where the Netzweber and the
+Chaos-Regulator each get the explicit label in this document (`guardians`), LogOS never does; the
+nearest the text comes is a comparison made from another world's Guardian passage: „Nicht als
+bedrohliche Präsenz wie der Chaos-Regulator oder als kalte Logik wie LogOS."
+^[kohaerenz-protokoll.md:L2024]
+
+**It evaluates Kael, and its classification names Juna.** In the same report that flags his
+„systemische Grenzparadoxien" ^[kohaerenz-protokoll.md:L512], LogOS' own instrument reads:
+„Klassifizierung: Juna-Resonanz-Artefakt" ^[kohaerenz-protokoll.md:L512]
+
+**A limit even AEGIS could not get past, found through LogOS' own task.** Kael's assignment
+under LogOS runs into „Ein Gödelscher Knoten." ^[kohaerenz-protokoll.md:L478] — „Eine Wahrheit
+über die Natur formaler Systeme, die selbst AEGIS nicht umgehen konnte."
+^[kohaerenz-protokoll.md:L482]
