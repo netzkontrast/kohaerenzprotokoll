@@ -1,0 +1,166 @@
+# counts for 120 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Nicht-Wissens, dass er nicht weiß
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     3 in   [11, 15, 478]
+  Plot-Blueprint                    3 word     3 in   [11, 15, 478]
+  Monstergruppe                     3 word     3 in   [17, 224, 478]
+  M                                78 word   502 in   [17, 19, 21, 25, 31, 32]  <-- substring
+  Betriebssystem                    1 word     2 in   [17, 225]
+  Wächter-KI                        1 word     1 in   [17]
+  AEGIS                           272 word   275 in   [17, 19, 25, 29, 30, 34]
+                                    1      as AEGIS-kontrollierten
+                                    1      as AEGIS-Konstrukt
+                                    1      as AEGIS-Logik
+  Simulation                       22 word    23 in   [17, 31, 75, 121, 151, 184]
+                                    1      as Simulationsparameter
+                                    1      as simulation-theory-ultimate-existential-crisis
+  Kael                            196 word   250 in   [17, 19, 25, 30, 32, 35]
+                                   53      as Kaels
+                                    1      as Kael-Problems
+  M-Fundament                      15 word    18 in   [17, 32, 81, 100, 141, 144]
+                                    3      as M-Fundaments
+  DID-analog                        1 word     3 in   [17, 79, 85]  <-- substring
+                                    1      as DID-analoge
+                                    1      as DID-analogen
+  K-J Verbindung                   61 word    62 in   [17, 25, 33, 40, 41, 43]
+  Moonshine-Signatur               47 word    47 in   [17, 33, 43, 53, 63, 73]
+  Primzahl-Metapher                43 word    43 in   [19, 34, 44, 54, 64, 74]
+  Faktorisierung                    5 word    11 in   [19, 34, 104, 110, 114, 120]  <-- substring
+                                    3      as Faktorisierungs-Analogie
+                                    2      as Faktorisierungsalgorithmen
+                                    1      as faktorisierungsbasierte
+                                    1      as faktorisierungsbasiertem
+  Primfaktorzerlegung               1 word     1 in   [19]
+  Irreduzibilität                   6 word     7 in   [19, 117, 121, 203, 208, 439]
+  Akt I                             5 word    12 in   [23, 149, 150, 155, 157, 264]  <-- substring
+  Anomalie                         19 word    24 in   [23, 30, 34, 50, 93, 94]
+                                    5      as Anomalien
+  Eindämmung                        4 word     8 in   [23, 25, 50, 70, 305, 432]
+                                    2      as Eindämmungsprotokoll
+                                    1      as Eindämmungsversuchen
+                                    1      as Eindämmungsversuche
+  Kapitel 1                         2 word    14 in   [23, 27, 44, 117, 127, 137]  <-- substring
+  Glitch                           10 word    15 in   [27, 30, 31, 34, 35, 40]
+                                    4      as Glitches
+  Kernwelt                         13 word    15 in   [25, 30, 60, 70, 100, 101]
+                                    1      as Kernwelt-Physik
+                                    1      as Kernwelten
+  Alters                           15 word    16 in   [30, 72, 80, 81, 83, 84]
+                                    1      as Alters-Interaktion
+  Persönlichkeitszustände           2 word     2 in   [30, 80]
+  Prime Metaphor                    6 word     6 in   [34, 54, 104, 228]
+  Fehlklassifikation                4 word     4 in   [34, 54, 104, 430]
+  Faktorisierungs-Analogie          3 word     3 in   [34, 104, 430]
+  Cosmic Horror                     9 word     9 in   [35, 75, 105, 169, 199, 249]
+  Hard Sci-Fi                      24 word    25 in   [35, 45, 55, 65, 75, 85]
+  Kapitel 2                         1 word    12 in   [37, 221, 231, 241, 251, 261]  <-- substring
+  Echo                              7 word    13 in   [33, 37, 40, 42, 80, 93]
+                                    6      as Echos
+  Kapitel 3                         1 word     9 in   [47, 325, 335, 354, 373, 383]  <-- substring
+  Protokoll Omega-Sieben            2 word     2 in   [47, 60]
+  Omega-Sieben                      3 word     3 in   [47, 50, 60]
+  Nexus                             1 word     1 in   [50]
+  Kapitel 4                         1 word     1 in   [57]
+  Wächter                          25 word    28 in   [17, 57, 60, 61, 62, 63]
+                                    1      as Wächter-KI
+                                    1      as Wächters
+                                    1      as Wächter-Fehlfunktion
+  Guardians                         1 word     1 in   [60]
+  KI-Konstrukte                     1 word     1 in   [60]
+  Perturbations-Agenten             1 word     1 in   [65]
+  Kapitel 5                         1 word     1 in   [67]
+  Risse im Code                     2 word     2 in   [67, 434]
+  Risse                             8 word    10 in   [67, 70, 71, 72, 73, 74]
+                                    1      as Rissen
+                                    1      as Risses
+  Kapitel 6                         1 word     1 in   [77]
+  Fragmente der Erinnerung          1 word     1 in   [77]
+  Kapitel 7                         1 word     1 in   [87]
+  Flüsternetzwerk                   4 word     5 in   [87, 92, 100, 130, 436]
+                                    1      as Flüsternetzwerks
+  Twin Primes                       2 word     2 in   [93, 436]
+  Kapitel 8                         1 word     1 in   [97]
+  M-Resonanz Welle                  1 word     1 in   [97]
+  M-Substrat                        1 word     3 in   [100, 165, 175]  <-- substring
+                                    2      as M-Substrats
+  Midpoint                          1 word     2 in   [102, 226]
+                                    1      as Midpoints
+  Kapitel 9                         1 word     1 in   [107]
+  Analyse-Krise                     2 word     2 in   [107, 438]
+  parakonsistente Logik             3 word     3 in   [110, 178, 254]
+  Kapitel 10                        1 word     1 in   [117]
+  Hypothese der Irreduzibilität     1 word     1 in   [117]
+  Twin Prime                        2 word     4 in   [93, 120, 133, 436]
+  Kapitel 11                        1 word     1 in   [127]
+  J                                14 word    90 in   [17, 25, 33, 40, 41, 43]  <-- substring
+  Kapitel 12                        1 word     1 in   [137]
+  Kapitel 13                        1 word     1 in   [147]
+  Riss                              6 word    16 in   [67, 70, 71, 72, 73, 74]  <-- substring
+                                    8      as Risse
+                                    1      as Rissen
+                                    1      as Risses
+  Tor                               7 word     7 in   [147, 155, 164, 167, 264, 361]
+  Akt II                            6 word     7 in   [155, 157, 283, 284, 291, 440]
+  Paradoxon                         1 word     1 in   [157]
+  Emergenz                          8 word     9 in   [111, 157, 163, 164, 169, 309]
+  Kapitel 14                        1 word     2 in   [157, 161]
+  Kapitel 15                        1 word     1 in   [171]
+  Kausale Schleifen                 2 word     2 in   [171, 444]
+  Abwärtskausalität                 2 word     2 in   [175, 444]
+  Parakonsistenz                    7 word     7 in   [173, 251, 258, 322, 438, 444]
+  Kapitel 16                        1 word     1 in   [181]
+  beschädigte Wächter               2 word     2 in   [181, 188]
+  Potentialmeer                    16 word    17 in   [184, 191, 194, 195, 198, 199]
+                                    1      as Potentialmeers
+  Kapitel 17                        1 word     1 in   [191]
+  Mauer                             1 word     1 in   [191]
+  Kapitel 18                        1 word     1 in   [201]
+  Reprogrammierung                  1 word     6 in   [201, 205, 208, 209, 214, 447]  <-- substring
+                                    4      as Reprogrammierungsversuch
+  Kapitel 19                        1 word     1 in   [211]
+  Symmetrie des Widerstands         2 word     2 in   [211, 448]
+  Kapitel 20                        1 word     1 in   [221]
+  Moonshine                        10 word    66 in   [17, 33, 43, 53, 63, 73]  <-- substring
+                                   47      as Moonshine-Signatur
+                                    3      as Moonshine-Verbindung
+                                    2      as Moonshine-Struktur
+                                    1      as Moonshine-Natur
+  Baby Monster                      1 word     1 in   [224]
+  Kapitel 21                        1 word     1 in   [231]
+  Kapitel 22                        1 word     1 in   [241]
+  Kernwelten                        1 word     1 in   [244]
+  Kapitel 23                        1 word     1 in   [251]
+  System-Reset                      1 word     1 in   [254]
+  Kapitel 24                        1 word     1 in   [261]
+  Kapitel 25                        1 word     1 in   [271]
+  Kapitel 26                        1 word     1 in   [281]
+  Akt III                           1 word     1 in   [291]
+  Integration                      66 word    69 in   [17, 19, 21, 32, 42, 52]
+  Konfrontation                    16 word    16 in   [150, 254, 258, 263, 264, 284]
+  Kapitel 27                        1 word     2 in   [291, 295]
+  Kapitel 28                        1 word     1 in   [305]
+  kausale Emergenz                  1 word     1 in   [309]
+  Kapitel 29                        1 word     1 in   [315]
+  Kapitel 30                        1 word     1 in   [325]
+  Kapitel 31                        1 word     1 in   [335]
+  Kollaps                           6 word     6 in   [308, 335, 342, 352, 451, 460]
+  Dormanz                           2 word     2 in   [343, 460]
+  Adaption                          8 word     8 in   [119, 335, 344, 350, 351, 439]
+  Kapitel 32                        1 word     1 in   [354]
+  Flucht                            9 word     9 in   [246, 263, 264, 293, 354, 361]
+  Transformation                    6 word     6 in   [264, 293, 354, 362, 371, 461]
+  Harmonie                         10 word    11 in   [265, 299, 310, 319, 328, 330]
+  Kapitel 33-35                     1 word     1 in   [373]
+  Kapitel 36                        1 word     1 in   [383]
+  Kapitel 37                        1 word     1 in   [393]
+  Kapitel 38                        1 word     1 in   [403]
+  Kapitel 39                        1 word     1 in   [413]
+  Coda                              2 word     2 in   [413, 466]
+  Kapitel-Übersichtstabelle         1 word     1 in   [423]
+  NNWDK                             4 word     4 in   [430, 443, 468, 472]
+  KWDNK                             2 word     2 in   [433, 470]
+  KWDK                              6 word     6 in   [443, 448, 453, 456, 472, 474]
+  Knowing That You Don't Know       2 word     2 in   [468, 470]
