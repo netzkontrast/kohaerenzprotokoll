@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 22
+sources: 23
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -185,3 +185,9 @@ Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Predates the 
 **Never writes `Konstrukt-Stadt` — KW1 named only for its Guardian, `Logos-Prime`, on no row by name.**
 „\*\*KW1: Logos-Prime\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40], „Sterile Stadt, kalter Beton, grelles Licht, Desinfektionsmittel." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40] Kapitel 1: „Kael erwacht in Logos-Prime (KW1)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] „Die Temperatur beträgt exakt und unveränderlich 21°C." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
 `Konstrukt-Stadt` stands 0 times (`05-verify.txt`); by its content — the sterile 21°C world of [[kael|Kael]]'s waking, LogOS' domain — this is KW1 as the author decided, agreeing at the level of the world without ever using the name the conflict is about.
+
+## 2026-09-27 — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese
+
+**Named once, unnumbered, and on no row by name.**
+A storyform study reading a NotebookLM corpus, not the novel directly — recorded, not applied. „Kael ist das epische Zentrum dieses Zerfalls, determiniert durch seine ausweglose Situation in der Konstrukt-Stadt (MC: Universe)." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L144]
+`KW1` and `Kernwelt` stand 0 times beside it (`05-verify.txt`); the document says neither that the city is the whole simulation nor that it is one world of four. On no row by name, nearest the several other sources above that name the city without its number. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.

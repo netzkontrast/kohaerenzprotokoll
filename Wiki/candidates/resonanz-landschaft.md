@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -98,3 +98,11 @@ It is the climax's place, in the entry on the Guardian who manages it: „Becaus
 Kapitel 14, „Das Archiv der Grenzen (Mnemosyne)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]: „Kael erwacht in der Resonanz-Landschaft (Kernwelt 2), einer nebligen, nicht-linearen Traumwelt, überwacht vom Guardian Mnemosyne." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85] — name and number given together, and a place inside it named for the first time: see [[archiv-der-grenzen]]. „Der innere Gatekeeper Limina blockiert den direkten Zugriff, doch Kael dringt in ein verfallenes Archiv ein." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
 
 No `Resonanzlandschaft` without the hyphen and no `Mnemosyne-Archipel` occur (0, `05-verify.txt`) — this document's world and the 2026 sources' `Mnemosyne-Archipel` share no surface, only the number and the Guardian.
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse — both names in one breath, at the Vortex
+
+**The clearest statement yet that `Resonanz-Landschaft` and `Mnemosyne-Archipel` are one place, not two.** A research report that tests AEGIS' throughline position and rates its own findings — recorded, not applied. In the Vortex's spatial anchor: „Die disparaten Erzählstränge bündeln sich im Herzen des Mnemosyne-Archipels." ^[dramatica-storyform-synthese-aegis-analyse.md:L102] The very next sentence names it the other way: „Die Resonanz-Landschaft ist erfüllt vom penetranten, süßlichen Geruch digitalen und organischen Verfalls." ^[dramatica-storyform-synthese-aegis-analyse.md:L102]
+
+It is also „Wächterin des Resonanz-Archipels" ^[dramatica-storyform-synthese-aegis-analyse.md:L39] — Mnemosyne's title in the rejected Hypothesis H2 — a third naming, `Resonanz-Archipel`, crossing `Resonanz-Landschaft`'s own word with the Archipel of the other sources' `Mnemosyne-Archipel` (J49, J61).
+
+At the climax it turns cold rather than warm: „Die Umgebungstemperatur fällt schlagartig in den Minusbereich, als das System Energie für den finalen Schlag bündelt." ^[dramatica-storyform-synthese-aegis-analyse.md:L102] No number occurs (`Kernwelt` 0, `05-verify.txt`; `KW2` 0, `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`); the place is named three ways and none of them carries the number this page's other readings pair with it.

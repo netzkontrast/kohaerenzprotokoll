@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 27
+sources: 29
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -286,3 +286,17 @@ No reduction, no absorption and no Erasure-Pol: `Erasure-Pol` and `Lösch-Pol` s
 
 **Row 1's and row 2's side again, six weeks later: the same five, the same pairing, headed exactly as document 4's organising column.** „\*\*Zugeordneter Guardian\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L39]: „\*\*LogOS\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40], „\*\*Mnemosyne\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L41], „\*\*Cerberus\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L42], „\*\*Kairos / Sophia\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43]
 Three of the five act directly in the chapters read — LogOS in Kapitel 6, Mnemosyne in Kapitel 15, Kairos and Sophia together in Kapitel 30 (readings on the Guardians' pages). No reduction, no absorption, no Erasure-Pol (`Erasure-Pol`, `Lösch-Pol`, `reduziert` all 0, `05-verify.txt`). Dated 2026-04-08, still before the reset of 2026-04-30 that the Dual-Storyform background document dates the reduction to (reading above); agrees with the author's decision on the count.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**No count and no pairing: a Guardian tested as main character and rejected, and an unnamed class at the physical front.**
+A research report of the same date as `dramatica-storyform-synthese-aegis-analyse-2`, testing the same hypothesis by the same method — recorded, not applied. Hypothesis H2: „Zur Identifikation des stärksten MC-Guardians fiel die Wahl auf Mnemosyne." ^[dramatica-storyform-synthese-aegis-analyse.md:L39] „Das Verdikt lautet folglich: \*\*Verworfen\*\*." ^[dramatica-storyform-synthese-aegis-analyse.md:L39] Elsewhere the Wächter act as a class, on the physical battlefield beside AEGIS and the EPs (reading on [[guardians|Guardians]]), never named or numbered.
+`LogOS`, `Cerberus`, `Kairos`, `Sophia` stand 0 times (`05-verify.txt`), `Erasure-Pol` 0 (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`); no reduction is told.
+On no row by count: it names one of row 1's five, tested and rejected as MC, and states no pairing — the same shape as the later run of its date. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `m-als-fundament-der-simulation`, 2025-04-26, the M-Fundament-Blueprint
+
+**No count and no pairing: `Alters/Guardians` a hedged, unnamed class of AEGIS' agents, with one whole beat given to them.**
+A blueprint hedging every beat. „**Beat 10: Intervention der Alters/Guardians**" ^[m-als-fundament-der-simulation.md:L258]: „AEGIS setzt seine physischen oder digitalen Agenten (Alters/Guardians) ein, um Kael direkt zu konfrontieren und zu neutralisieren." ^[m-als-fundament-der-simulation.md:L262] „Die Alters/Guardians werden als konkrete Antagonisten etabliert, die AEGIS' Willen ausführen." ^[m-als-fundament-der-simulation.md:L269]
+`LogOS`, `Mnemosyne`, `Cerberus`, `Kairos`, `Sophia` all stand 0 times (`05-verify.txt`), `Erasure-Pol` 0 (`Plan/runs/m-als-fundament-der-simulation/05-verify-readers.txt`); the class is never distinguished from the [[alters|Alters]] it is paired with in every passage, and no world carries a bearer's name.
+On no row by count and no row by pairing: the earliest-dated source in this record, and it counts and names nothing. The author's decision for five (2026-09-24) stands.

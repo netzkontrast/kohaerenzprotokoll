@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 26
+sources: 28
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -332,3 +332,17 @@ Nearest position 1 by analogy (a comparison to AI blind spots, not the document'
 Juna acts „allein durch ihre thermodynamische und logische Wirkung (den" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29] „blinden Fleck" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29] „des Systems) operiert" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29], in a space „der außerhalb der deterministischen Erfassung von AEGIS liegt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29]. A scene seed, a proposal: „Das System registriert diese Zertifizierung, kann den Ursprung aber nicht verorten, wodurch Juna als blinder Fleck (Interdiction) im Kontinuum agiert." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L137] Its audit again: „Befund: Nein, sie wirkt durch ihre Gravitation (den blinden Fleck)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L427]
 The Guardians are parts of AEGIS' system — „interne Guardian-Protokolle" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L111] — and in Storyform A's OS they fail as one: „Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] They „scheitern jedoch fundamental an der unberechenbaren Natur der relationalen Traumata, die sich den Circumstances entziehen" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] — not each from its own domain, and not called blind. Of its five lines with `blind`, `blinden` or `blinder`, three make Juna the blind spot (L29, L137, L427) and two are AEGIS' blind erasure in the Vortex (L297, L314; `05-verify-readers.txt`).
 Position 1's bearer, the system as AEGIS, with the blind spot named as Juna herself; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**AEGIS' own blindness, twice, and no blind spot named for a Guardian.**
+A research report of the same date as `dramatica-storyform-synthese-aegis-analyse-2` — recorded, not applied. In B's Timelock: „AEGIS rast blind gegen einen irreversiblen kritischen Zeitpunkt des totalen thermischen Versagens." ^[dramatica-storyform-synthese-aegis-analyse.md:L93] At the Vortex's Beat 4: „Das System AEGIS, blind für Paradoxien, versucht stur, diesen nun hyperdichten, integrierten -Knotenpunkt nach dem starren Protokoll zu löschen." ^[dramatica-storyform-synthese-aegis-analyse.md:L114]
+The Guardians act beside AEGIS on the physical battlefield (reading on [[guardians|Guardians]]) but are never called blind; `blind` stands on two lines, both AEGIS' own (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`).
+Position 1's bearer, twice, the system as AEGIS itself; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `m-als-fundament-der-simulation`, 2025-04-26, the M-Fundament-Blueprint
+
+**A blindness AEGIS' own tolerance for paradox might cause, and a blind spot in the physics itself Kael might exploit — neither named for a Guardian.**
+A hedged blueprint, `könnte`/`möglicherweise` throughout. AEGIS' parakonsistent logic is a tool that risks becoming a weakness: „Diese Toleranz gegenüber Widersprüchen könnte es jedoch auch blind machen für die *Schwere* der Fehljustierung, die Kael und die K-J-Verbindung darstellen." ^[m-als-fundament-der-simulation.md:L73] Later, a gap in the substrate itself, not stated as AEGIS' own incapacity: „Kael nutzt möglicherweise eine subtile Eigenschaft oder eine Lücke im M-Fundament, die AEGIS nicht überwacht oder versteht, um sich zu verstecken oder unentdeckt zu bleiben (z.B. ein lokaler "blinder Fleck" in der Simulationsphysik)." ^[m-als-fundament-der-simulation.md:L308]
+The Alters/Guardians are AEGIS' agents (reading on [[guardians|Guardians]]) but no blind spot is given to them; `blind` stands once, `blinder` once (both quoted above) and `blindem` once, in an unrelated idiom about trusting metrics — none of the three a Guardian's (`Plan/runs/m-als-fundament-der-simulation/05-verify-readers.txt`).
+Nearest position 1, hedged twice over — a possible blindness of AEGIS' own tolerance, and a possible gap in the physics it built on, neither stated as fact. Nothing for position 2. The conflict stays open.
