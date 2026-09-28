@@ -75,4 +75,4 @@ Qualia are K1's here, not the interference's: the collision bridges the gap, and
   function (its L244). How that sits with the sources that make cold ozone the mark
   of AEGIS' erasure is C11's question, not this page's.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `ki-prompt-analyse-hard-problem-of-consciousness`, whose reading above was checked against the full document on 2026-09-27 and which now has a census (`Sources/terms/ki-prompt-analyse-hard-problem-of-consciousness.md`), a note (`Sources/notes/ki-prompt-analyse-hard-problem-of-consciousness.md`) and a reconciliation (`Wiki/compare/reconcile-51-ki-prompt-analyse-hard-problem-of-consciousness.md`).

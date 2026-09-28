@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -69,6 +69,15 @@ A storyform study that rates its own two storyforms and cites a corpus it does n
 - Werk-Beleg for Storyform A's Resolve Change: „In Kapitel 32 legt Kael die Isolation des Alpha-Logik-Fragments endgültig ab und integriert seine traumatisierten Anteile zu dem emergenten Wesen „Kael/M“.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L75]
 - Falsifikations-Test result: „Die explizite Geburt des synthetisierten Wesens „Kael/M“ in Kapitel 32 und die Integration des Mosaik-Herzens belegen unbestreitbar einen radikalen inneren Wandel.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L96]
 - MC Resolve, Storyform A vs. B: „Kapitel 32 (Metamorphose) vs. Kapitel 35 (Beharren auf T-734).“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L191]
+
+## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse — Kael/M as K1's own Werk-Beleg for Change
+
+A model's report that rates its own two storyforms (A 5.0, B 4.75) and cites a corpus it does not contain (a „Hard Canon Masterfile“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L28], NotebookLM); recorded, not applied.
+
+- MC Resolve, Storyform A's Change, Werk-Beleg: „Kael legt die isolierende Alpha-Logik in Kapitel 32 ab und integriert seine tief traumatisierten Anteile zu dem emergenten Schwarm-Wesen „Kael/M“.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L80]
+- Among the passages that most support K1: „Die explizite Metamorphose zu „Kael/M“ in Kapitel 32, die rein durch die tiefe emotionale Akzeptanz und Einstellungsänderung (Change) erfolgt und keine Zeilen von Code erfordert.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L103]
+- MC Resolve, Storyform A vs. B — this chapter named: „Kapitel 32: Metamorphose zu Kael/M vs. Die gnadenlose Exekution deterministischer Quarantäne-Protokolle.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L191]
+- MC Solution, Storyform A vs. B — this chapter named: „Kael jagt die Wahrheit (Kap 32) vs. AEGIS scheitert am Chaos (Kap 36).“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L210] (see [[kap-36|Kap 36]])
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

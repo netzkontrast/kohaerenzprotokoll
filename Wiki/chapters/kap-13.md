@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 17
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -62,6 +62,13 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Sensorik: „Von den ewigen 21°C Logos-Primes schnellt sie auf drückende 34°C, um sofort danach auf eisige 8°C abzustürzen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130] · „Diese relationale Information ist für AEGIS unlöschbar.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130]
 - What it establishes: „Der Boden bricht weg, und Kael stürzt unkontrolliert in den entropischen Abgrund.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130]
 - Checklist, Fixpunkt 4: „(desorganisierte Bindung)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L218] · „Die abrupte Temperatur-Oszillation zerreißt die Stabilität von Logos-Prime und führt zum Sturz in das Archiv.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L218]
+
+## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse — the Dance in the Garden as K1's own Werk-Beleg
+
+A model's report that rates its own two storyforms (A 5.0, B 4.75) and cites a corpus it does not contain (a „Hard Canon Masterfile“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L28], NotebookLM); recorded, not applied.
+
+- Among the passages that most support the K1-storyform: „Der „Dance in the Garden“ in Kapitel 13, bei dem Kael als Gärtner seine inneren Welten ordnet und mediiert, anstatt in der physischen Realität zu kämpfen.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L102]
+- MC Approach, Storyform A vs. B — this chapter named: „"Dance in the Garden" (Kap 13) vs. Die harte Aktivierung von Firewalls und Glitch-Reparaturen.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L193]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

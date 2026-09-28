@@ -1,0 +1,2 @@
+kap-35: grep -cE 'Kap(itel)?\.? 35[^–-]' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
