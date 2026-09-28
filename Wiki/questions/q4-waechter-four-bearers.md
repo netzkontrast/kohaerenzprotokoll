@@ -287,6 +287,6 @@ A blueprint offering every beat as a possibility. „Möglicherweise gibt es Wä
 
 ## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
 
-**Two more bearers, both Alters, the pattern this record already holds: `Wächter an der Grenze` for Alex, `Wächterin` for Selene's earlier stage.**
+**Two more bearers, both [[alters|Alters]], the pattern this record already holds: `Wächter an der Grenze` for [[alex|Alex]], `Wächterin` for Selene's earlier stage.**
 Alex's Kernfunktion: „Aktiver Schutz des Systems, Krisenmanagement, Wächter an der Grenze." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L95] — bearer 2's shape, a Persona-like role-name for a protector Alter rather than a Guardian, LogOS, [[aegis|AEGIS]] or [[kael|Kael]]. Selene's arc: „Wandelt sich von einer starren Wächterin (Blockade) zur Architektin innerer Harmonie (Mediation)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L150] — a stage she leaves.
 `Guardian` stands 0 times, `Guardians` once — „Die Guardians:" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L304] — under [[aegis|AEGIS]]' own heading, the class this record's bearer 3 (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify.txt`). Two more jobs for the word, both Alters'; J20 holds.
