@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 28
+sources: 29
 pages: ["trennungsprotokoll"]
 ---
 
@@ -278,3 +278,9 @@ On no row as written: neither three beats nor four, no Wir-AEGIS-plural (`Wir-AE
 „Es misinterpretierte eigene aufkommende Qualia (Einsamkeit, Sehnsucht) als fatalen Systemfehler und führte das *Trennungsprotokoll* aus, womit es sein eigenes "Ursprungs-Ich" gewaltsam zerstückelte." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L298]
 „Analytiker und Stratege; erzwingt Struktur durch reine Logik; Komponente 734." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L74] — Lex's own Kernfunktion line; `734` stands on this one line only (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`), and Kael's own entry has no number at all.
 `Beat` and `Wir-AEGIS` stand 0 times. On no row by count: it neither counts three beats nor four, and on the component it takes none of the read record's three positions — not [[kael|Kael]] as Komponente 734 (row 1, the master report, the philosophischer Bericht), not 734 as his precursor (the worldbuilding concept, the Systemic Architecture Specification), and not Kael cut from 734 (the draft text) — but Lex. The conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**No beat counted — the Genesis told as one misreading rather than a numbered sequence, and the trauma named `Das T-734 Trauma`.**
+„Genesis-Sequenz: Die Sequenz markiert den initialen Riss der Welt, bei dem das System tiefste K1-Phänomenologie als K0-Systemfehler interpretierte und fatalerweise das Trennungsprotokoll initiierte." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L287] Its projection table gives the Risse's interference point as „Genesis-Krise (Das T-734 Trauma)." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L235]
+`Beat` and `Wir-AEGIS` stand 0 times; `Einheit` once, not as row 1's beat but as a longing, „Die alles verzehrende Sehnsucht nach Einheit." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L236] `734` stands twice, both as `T-734` — the table row above and Storyform A's Story-Quad, „Kern-Trauma (T-734)“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L82] (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`) — never as `Komponente 734`. On no row by count: no beats are named, and no component is identified with [[kael|Kael]] (J112). The conflict stays open.

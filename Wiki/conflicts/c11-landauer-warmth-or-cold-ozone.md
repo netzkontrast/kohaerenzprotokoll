@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 39
+sources: 41
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -399,3 +399,16 @@ No `Landauer-Signatur` and no polarity rule stand in it (`05-verify-readers.txt`
 **Warmth Juna's, cold AEGIS' suppression — and, once, a warm ozone at a bright McL node that neither polarity rule accounts for.**
 [[juna|Juna]]'s trace is warm: „Ein warmes, goldenes Licht" ^[kohaerenz-protokoll.md:L176]. AEGIS' own method against it is cold: „Kalt, präzise, aber brutal." ^[kohaerenz-protokoll.md:L256] Kapitel 6 carries no Landauer trace, only „Kalter Schweiß brach auf seiner Stirn aus, obwohl die Umgebungstemperatur konstant war." ^[kohaerenz-protokoll.md:L761] — cold, and Kael's own, not AEGIS' erasure.
 Once, at a bright node of McL, warmth and ozone stand together rather than opposed: „Eine Annäherung an einen hell leuchtenden Knotenpunkt brachte einen Hauch von… Ozon und warmer Elektrizität?" ^[kohaerenz-protokoll.md:L562] `Landauer`, `Hitze` and `Knöchel` stand 0 times, `Ozon` twice, `Wärme` 15 times, `kalt` 4 times (`Plan/runs/kohaerenz-protokoll/05-verify.txt`). Row 2's polarity — warmth Juna's, cold the system's — holds for the two named bearers; the McL ozone is neither cold nor tied to AEGIS' suppression, a third rendering no later source's rule covers. No Kap 6 or Kap 36 line names Landauer warmth, so row 1's is neither held nor denied. The conflict stays open.
+
+## 2026-09-27 — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook
+
+**Ozone and warmth together in KW4, and warmth or cold in KW2 — no Landauer, no polarity rule, and no chapter.**
+KW4's sensory signature: „The air is filled with "Inspirierende Klänge (Musik, Naturgeräusche)" (inspiring sounds (music, nature sounds)) and the "Geruch von Ozon oder frischer Erde" (smell of ozone or fresh earth)." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L83] „the space is illuminated by "warmes, dynamisches Licht" (warm, dynamic light)." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L83] — ozone and warmth in one breath, in Juna's own world, unlike row 2's rule that keeps them apart after Kap 1.
+KW2's is „plötzliche Kälte oder Wärme in Traumabereichen" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L43] (sudden cold or warmth in trauma areas) — either temperature, unassigned to a bearer. KW1 is called `cold` in the comparative table (L102).
+`Landauer`, `Hitze` and `Knöchel` stand 0 times (`Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`); no chapter is named anywhere in the essay. Neither row 1's warmth in Kap 6 and Kap 36 nor row 2's cold-everywhere rule is held or denied — an essay of worlds, not chapters, months before the lock of 2026-05-30. The conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**Heat as Storyform B's Driver, AEGIS felt by Kael only as falling temperature — no ozone, no cold-warm polarity, no Kap 6 or Kap 36.**
+The two storyforms' Driver converge on heat: „Story Driver | Action (Schmerz treibt) | Action (Hitze treibt) | Nein (Konvergenz)" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L195] — pain drives A, heat drives B, and the document calls the two the same Action. Kael never meets AEGIS directly: „Kael erfährt die autopoietische Präsenz von AEGIS ausschließlich als manipulierten Umweltdruck, als sinkende Umgebungstemperatur und als physikalische Raumzeitkrümmung." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L17] — AEGIS is a temperature drop for Kael, not a warmth.
+`Ozon`, `kalt` and `Kap 6` stand 0 times, `Landauer` on several lines always as `Landauer-Wärme`, heat rather than cold (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). Neither row's chapter is named, so row 1's warmth in Kap 6 and Kap 36 is neither held nor denied; heat is Storyform B's own driving force here, not opposed to a named cold. The conflict stays open.

@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 17
+sources: 18
 pages: ["aegis"]
 ---
 
@@ -155,3 +155,9 @@ On no row for AEGIS, a week before the lock-in of 2026-05-07; Kael's Be-er in A,
 
 **No Approach for AEGIS either — an earlier run of the same date's Dramatica-Synthese, and the word does not occur in it at all.**
 It gives AEGIS the MC-B slot by test — „Die erste Hypothese verortet AEGIS im Main Character Throughline mit dem Domain Universe" ^[dramatica-storyform-synthese-aegis-analyse.md:L35] — but names no Approach for that slot: `Approach`, `Do-er` and `Be-er` all stand 0 times in it (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`), the same absence as its sibling document `dramatica-storyform-synthese-aegis-analyse-2` (row above), on the same date. On no row: two documents of one date give AEGIS the MC-B slot and neither gives it a Dramatica Approach. The conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**Do-er for AEGIS in B, Be-er for Kael in A — the lock-in's values, in a comparative table and in each storyform's own MC-Quad.**
+„MC Approach | Be-er (Innere Synthese) | Do-er (Externe Löschung) | Ja | "Dance in the Garden" (Kap 13) vs. Die harte Aktivierung von Firewalls und Glitch-Reparaturen." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L193] Storyform A's own MC-Quad gives Kael the same value: „Approach: Be-er — Werk-Beleg: Die zentralen Konfliktlösungen des Romans finden in den psychologischen Innenräumen, den sogenannten „Kernwelten“ (wie Logos-Prime), durch massive Einstellungsänderungen statt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L80] Storyform B's gives AEGIS the other: „Approach: Do-er — Werk-Beleg: AEGIS agiert proaktiv durch die Exekution harter Quarantäne-Maßnahmen, Löschprotokolle und massive physikalische Restriktionen der Umgebung." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L128]
+`Approach` stands on 3 lines, `Do-er` on 2 and `Be-er` on 5, all giving Kael Be-er and AEGIS Do-er (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). The Dramatica lock-in's side, Do-er, with AEGIS named the MC of B throughout the document. The author decides (decision 006).
