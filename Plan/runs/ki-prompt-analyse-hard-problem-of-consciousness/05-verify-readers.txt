@@ -65,3 +65,12 @@ c14-aegis-first-person-chapter: grep -cw -- 'Prosa' Sources/drive/ki-prompt-anal
 c14-aegis-first-person-chapter: grep -n 'Kap 5\|Kap 6\|Kap 7\|Kap 8\|Kapitel 5\|Kapitel 6\|Kapitel 7\|Kapitel 8' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
 0
 session (2026-09-28): grep -cw warm/kalt/Wärme/Kälte/Hitze Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0/0/24/2/3; no line with Juna holds any of them (grep -n Juna | grep -i wärm|warm|kalt|hitz|temperat -> none)
+c2-entropie-sense: grep -c 'schöpferische Matrix' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c2-entropie-sense: grep -c 'Bedingung für Ereignisse' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c4-guardians-and-aegis: grep -cw -- 'Guardian' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c4-guardians-and-aegis: grep -cw -- 'Wächter' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+session (2026-09-28): grep -cw Ozon/kalt/zwanzig Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0/0/0; grep -ci ozon -> 0

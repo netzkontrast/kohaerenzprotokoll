@@ -42,3 +42,4 @@ juna: grep -cw Kap the-sensory-rulebook...md -> 0
 kollaps-kernel: grep -cw K0 Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
 aegis: grep -cw Autonomous/Do-er/Be-er/Genesis the-sensory-rulebook...md -> 0/0/0/0
 entropie: grep -icw entropy Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 1 (one occurrence, L13, restates AEGIS' negation-of-entropy already established elsewhere on the page)
+telefon-stille: grep -cw Telefon Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0

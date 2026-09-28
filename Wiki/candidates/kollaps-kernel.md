@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness"]
 gathered: "2026-09-24"
 ---
 
@@ -100,3 +100,9 @@ Not in date order with the readings above; placed after the last one. K0 is Kael
 ## Reading — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse — AEGIS' throughline in Storyform B, its glyph lost, irreversible by the adjective alone
 
 Not in date order with the readings above; placed after the last one. The kernel stands in English, as the irreversible kernel, with its symbol lost in the export (`Kollaps-Kernel` 0, `K₀` 0; `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`); the passage is placed here by the adjective alone, as the Plot/Outline Mining-Report's Erasure Kernel above (J99). It is AEGIS', in its OS throughline of Storyform B: „In dieser Throughline ist AEGIS der Konflikt-Träger, agierend als der tragische Antagonist und Repräsentant des irreversiblen -Kerns." ^[dramatica-storyform-synthese-aegis-analyse.md:L59] Its solution there is Chaos: „Problem Order und Solution Chaos." ^[dramatica-storyform-synthese-aegis-analyse.md:L59] It names no Erason (`Erason` 0, same file).
+
+## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse — K0 as the logic of erasure and AEGIS' own trace, and what AEGIS is in its operative nature
+
+Not in date order with the readings above; placed after the last one. `Kollaps-Kernel` does not stand in it; it writes the kernel as a bare `K0` with a plain digit, and the passages are placed here by J99. **K0 is the logic of erasure, AEGIS' own trace.** „Kernel-Logik: K0 — Im Zentrum dieser Storyform steht die unerbittliche Logik der Löschung." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L116] „Es dominiert die Thermodynamik, der irreversible Zeitpfeil, die Dritte-Person-Wahrheit und die reine, kalkulierende Funktion." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L116] „Es ist die Spur von AEGIS, in der Erasonen Information vernichten und jede emotionale Bewahrung als gefährliche Systemtäuschung und Speicherleck deklariert wird." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L116]
+
+**AEGIS is it, in its operative nature.** „AEGIS *glaubt*, K1 (kohärent) zu sein und strebt nach Perfektion, ist aber in seiner operativen Natur reines K0." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L251] See [[kohaerenz-kernel]] for the same document's K1.

@@ -70,3 +70,4 @@ kohaerenz-kernel: grep -cw K1 Sources/drive/charakter-kompilation-fuer-kohaerenz
 juna: grep -cw Kap charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
 kollaps-kernel: grep -cw K0 Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
 aegis: grep -cw Do-er/Be-er/Person charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0/0/0
+telefon-stille: grep -cw Telefon Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
