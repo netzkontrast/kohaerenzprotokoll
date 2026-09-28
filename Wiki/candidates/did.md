@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-16"
 ---
 
@@ -142,3 +142,7 @@ A plot blueprint that hedges nearly every beat — the companion of the Primzahl
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the diagnosis as a chapter's own label, and the word withheld from the prose
 
 The earliest read source for this page, and it already marks a chapter by its clinical concept rather than withholding the label entirely: Kapitel 2, „Die Partitionierung" ^[kohaerenz-protokoll.md:L196], is headed „(Fundamentales Konzept: Dissoziative Identitätsstörung)" ^[kohaerenz-protokoll.md:L198] — the same chapter where AEGIS first walls Kael's feeling part off (see [[trennungsprotokoll|Trennungsprotokoll]]). `DID` itself never stands (`grep -cw DID`: 0); the document writes out the clinical name only in that one heading, and its prose never uses it or `Alter` (see [[alters|Alters]]) for what happens there — the chapter's own header states the diagnosis where the later canon-era sources keep the word out of the prose until Kap 13.
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Assessment names it directly
+
+An English file of about fourteen reports of 2025, several of them psychological documents about System Kael. The Assessment's diagnostic formulation names the acronym once, inside its own clinical reasoning, and gives it as an association rather than the diagnosis itself: „Based on the extensive evidence of multiple distinct personality states (alters) with varying degrees of awareness, memory, and function, the clinical presentation of System Kael is consistent with a diagnosis of **Tertiary Structural Dissociation of the Personality**." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1594] „This is a contemporary clinical model used to understand the structure of personality in the aftermath of severe, prolonged, and complex trauma, often associated with diagnoses such as Dissociative Identity Disorder (DID)." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1594] `DID` stands on this one line (`grep -cw -- DID Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md`: 1; `grep -ciw`: 1). See [[tsdp|TSDP]].
