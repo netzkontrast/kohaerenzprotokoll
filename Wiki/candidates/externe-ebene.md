@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -171,3 +171,7 @@ Where the level lies it does not say: `outside`, `beyond` and `Basisrealität` s
 
 A compendium that cites nothing. Cologne once, as the ground of the first of two layers, in the words the worldbuilding concept gives „Schicht 1 — Das Fundament (Basisrealität Köln):" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431]: „Layer 1 (The Foundation - Cologne): Disorganized attachment trauma." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] „This primary wound involved extreme emotional neglect and unpredictable volatility from a caregiver, forcing the creation of the core EPs (Kiko, Lia, Moros)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] (J54)
 No level is named and no year: `External` and `Basisrealität` stand 0 times, `2026` only in the export's header (L7–L8), and `simulation` 0 (`05-verify-readers.txt`). No side in C13.
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — named once, as Juna's own
+
+Not in date order with the readings above; placed after the last one. Once, in Juna's own entry: „Juna ist keine Alterpersönlichkeit, sondern eine externe Entität/Anomalie der "Externen Ebene"." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L284] The inflected form is the document's own (`Externe Ebene` 0 elsewhere, `Basisrealität` 0, `Köln` 0; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`). It says nothing of where the level lies, and takes no side in C13.

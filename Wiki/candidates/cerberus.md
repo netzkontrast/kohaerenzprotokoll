@@ -170,7 +170,7 @@ The table: „\*\*KW3: Cerberus-Zitadelle\*\*" ^[hard-sf-roman-outline-dkt-physi
 
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — one of five, on KW3, before the reset
 
-Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „Cerberus (KW3 - Cerberus-Labyrinth)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L310] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption or a decanonisation (`absorbiert`, `dekanonisiert` 0; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
+Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „Cerberus (KW3 - Cerberus-Labyrinth)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L310] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption or a decanonisation (`absorbiert` 0, `Dekanonisiert` only of Silas and Oblivion; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
 
 ## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — KW3's Guardian, the enforcer of security against a shared threat
 

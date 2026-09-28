@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -131,6 +131,12 @@ Her row: „Isabelle (Sexualized) | Pauli Exclusion | Synesthesia; "bleeding" te
 
 A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. Her row, category `EP`: „Die Perfektionistin (Sexualisiert)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L58] „Kontrolle durch Unterwerfung und strenge Regeltreue." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L58]
 Kapitel 11, when Lex overheats on LogOS' paradox: „Im letzten Moment übernimmt Isabelle." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] „Durch ihre bedingungslose Unterwerfung und perfektionistische Regelausführung zwingt sie das System, die Paradoxie als gültige Eingabe zu akzeptieren" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] — and the way to KW2 opens. The checklist's thirteenth fixed point puts „Isabelles Regeltreue" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L227] in Kapitel 11, a switch read first as alien technology. In Kapitel 39 she is among those still there (L206).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — control as reversal, and a classification the document's own register calls unsettled
+
+A compilation that audits its sources and keeps its own contradiction register — recorded, not applied.
+**Function and correlate.** „Dominiert und kontrolliert Situationen (oft sexuell), um Ohnmachtserfahrungen umzukehren." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L220] „Pauli-Ausschlussprinzip & Fermionische Abstoßung." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L228]
+**Its own register names her classification as unsettled.** „Isabelles Klassifikation: In der *Writer's Bible* (Dok. 48) ist sie ein **EP (Sexualisiert / Control)**." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L346] The same entry says an older document calls her „**EP (Caretaker/Self-Sacrifice)**" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L346] instead, „die durch Überfürsorge Sicherheit sucht." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L346]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — a whole sector held by cruel dominance, as her own defence
 

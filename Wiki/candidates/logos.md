@@ -198,7 +198,7 @@ under LogOS runs into „Ein Gödelscher Knoten." ^[kohaerenz-protokoll.md:L478]
 
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — one of five, on KW1, before the reset
 
-Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „LogOS (KW1 - Logos-Prime)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L308] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption or a decanonisation (`absorbiert`, `dekanonisiert` 0; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
+Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „LogOS (KW1 - Logos-Prime)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L308] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption or a decanonisation (`absorbiert` 0, `Dekanonisiert` only of Silas and Oblivion; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
 
 ## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — KW1's Guardian, enforcing AEGIS' order
 

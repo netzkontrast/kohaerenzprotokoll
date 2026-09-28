@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -132,6 +132,14 @@ Kapitel 23, in KW3: „Im Innenhof der Zitadelle stößt Kael auf Moros, den Bot
 
 A report addressed to the author; recorded, not applied. Not in the eleven-alter table (L40–L43; see [[alters]]). Kapitel 15 has Kael watch him from outside, endlessly caught: „Kael beobachtet durch eine Glasscheibe, wie der Kollaps-EP Moros immer und immer wieder den gleichen Moment des existentiellen Zusammenbruchs durchlebt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L87] „Die mentale Kritik der Szene verortet den Horror hier in der Erkenntnis der Unendlichkeit ohne Auflösung." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L87]
 Kapitel 28 gives the chapter his name: „Sein zum Tode und die Umarmung von Moros" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] (J9). „Im unendlichen Fall begegnet Kael Moros, dem Alter des ultimativen Kollapses und der Hoffnungslosigkeit." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] Kael no longer resists him: „In der Verschmelzung mit der katatonischen Schwere von Moros verlangsamt sich der Sturz." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] Heidegger's Sein-zum-Tode is realised in the embrace (the same line) — a scene neither of Moros' other two read sources gives him. `Moros` stands on these two lines only (`grep -cw Moros`: 2, `Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/05-verify.txt`).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — an internalised Täter, and a Riss that drives the temperature down
+
+A compilation that audits its sources — recorded, not applied.
+**Function and motivation.** „Träger von tiefster Hoffnungslosigkeit, Existenzieller Leere, internalisierter Täter." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L240] „Überleben durch Passivität, Resignation und Nicht-Existenz; sabotiert Heilung." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L242]
+**Correlate.** „Der Big Freeze & thermodynamischer Nullpunkt." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L248]
+**His Riss sinks the temperature.** „Temperatur sinkt drastisch, Zeitdilatation wird unendlich, System friert physisch ein." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L250]
+**Somatik.** „Katatonie, totale Erstarrung, Depersonalisation." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L252]
 
 ## Reading — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse — one of the fragments that synchronise rather than fuse, and half of the battle Beat 2 sets against the Wächter
 

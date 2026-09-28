@@ -148,7 +148,7 @@ Again undifferentiated, acting as one pair; `Kairos-Potentialis` is a world name
 
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — one of five, on the fourth world, before the reset
 
-Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „Kairos & Sophia (KW4 - Kairos-Potentialis)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L311] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption, a latency or a decanonisation (`absorbiert`, `latent`, `dekanonisiert` 0; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
+Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „Kairos & Sophia (KW4 - Kairos-Potentialis)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L311] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption, a latency or a decanonisation (`absorbiert`, `latent` 0, `Dekanonisiert` only of Silas and Oblivion; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
 
 ## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — one of two Guardians of KW4, facilitating what Juna represents
 

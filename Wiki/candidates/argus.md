@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -132,6 +132,11 @@ His row, in a table with no category column: „Argus,Fractals,Meta-cognitive de
 ## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Meta-Kog, visual fractaling
 
 His row: „Argus (Meta-Kog) | Fractals | Visual fractaling/geometric noise in periphery. | Signals meta-cognitive system analysis." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Among its profile highlights: „Arc: Moving from sterile critique to constructive system-repair." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L51] Nothing else names Argus (`grep -cw Argus`: 2).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — the Archivar der Narben, an eye in the labyrinth
+
+A compilation that audits its sources — recorded, not applied.
+**Function, voice and correlate.** „„Archivar der Narben“, metakognitiver Beobachter, Kritiker, Systemanalytiker." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L262] „Kritisch, schmerzhaft ehrlich, demontiert Selbsttäuschungen." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L268] „Fraktale, sich selbst beobachtende Muster (Auge im Labyrinth)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L270] Its own Riss-Typ field for him is unfilled — „\[Fehlt in den Dokumenten - Lücke\]" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L272] — and so is his Somatischer Marker, in the line after it ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L273].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Sonder, the meta-cognition whose hypervigilance saves Kapitel 9
 

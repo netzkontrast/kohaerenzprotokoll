@@ -1,0 +1,64 @@
+sophia: grep -cw absorbiert charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+sophia: grep -cw latent charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+sophia: grep -cw dekanonisiert charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+kairos: grep -cw absorbiert/latent/dekanonisiert charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0/0/0
+c1-aegis-expansion: grep -icw 'Autogenic' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+c1-aegis-expansion: grep -icw 'Generative' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+cerberus: grep -cw absorbiert/dekanonisiert charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0/0
+c3-emergenz-origin: grep -c 'Emergenz' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+1
+c3-emergenz-origin: grep -c 'emergent' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+logos: grep -cw absorbiert/dekanonisiert charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0/0
+kern-welten: grep -cw Konstrukt-Stadt Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+kern-welten: grep -cw Resonanz-Landschaft Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+kern-welten: grep -cw Grenzfeste Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+kern-welten: grep -c 'Möglichkeits-Garten' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+kern-welten: grep -cw Kernwelten Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 1
+c6-guardians-count-and-pairing: grep -icw 'Erasure-Pol' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+c6-guardians-count-and-pairing: grep -ic 'reduziert' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+mnemosyne: grep -ci klimax/tragik charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0/0
+c12-genesis-beats: grep -c '734' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+1
+c12-genesis-beats: grep -cw 'Beat' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+c12-genesis-beats: grep -c 'Wir-AEGIS' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+guardians: grep -cw absorbiert/reduziert/Erasure-Pol/Guardians charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0/0/0/1
+c13-externe-ebene: grep -icw 'Basisrealität' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+c13-externe-ebene: grep -c 'jenseits der Simulation' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+c13-externe-ebene: grep -icw 'Spiegel' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+algorithmische-melancholie: grep -cw Vortex/Kap/Reliquie charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0/0/0
+konstrukt-stadt: grep -c 'Konstrukt-Stadt' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+konstrukt-stadt: grep -c 'Logos-Prime' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 1
+c15-flight-riss-bearers: grep -icw 'Flight' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+resonanz-landschaft: grep -c 'Resonanz-Landschaft' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+resonanz-landschaft: grep -c 'Mnemosyne-Archipel' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 1
+grenzfeste: grep -c 'Grenzfeste' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+grenzfeste: grep -c 'Cerberus-Labyrinth' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 1
+externe-ebene: grep -ci köln/basisrealität charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0/0
+q3-how-many-kern-welten-and-alters: grep -c 'KW1\|KW2\|KW3\|KW4' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+potentialmeer: grep -cw Ursprungs-Ich charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+q3-how-many-kern-welten-and-alters: correction — grep -c 'KW1\|KW2\|KW3\|KW4' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+4 (all four on L308-L311, the Guardians list; 0 inside the Anteile section L46-L278)
+moeglichkeits-garten: grep -c 'Möglichkeits-Garten' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+moeglichkeits-garten: grep -c 'Kairos-Potentialis' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 1
+moonshine-link: grep -cw Whitehead/Silas/Boundary charakter-kompilation-fuer-kohaerenz-protokoll.md -> 1/2/0
+c2-entropie-sense: grep -c 'schöpferische Matrix' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+c2-entropie-sense: grep -c 'Bedingung für Ereignisse' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md
+0
+did: grep -icw DID Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+trennungsprotokoll: grep -cw Beat charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0; 734 -> 1 (L74, Lex)
+session (2026-09-28): grep -cw Dekanonisiert Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 2 (L322 Silas, L324 Oblivion); grep -ciw dekanonisiert -> 2 — corrects the lowercase 0s above
+session (2026-09-28): grep -cw Spiegel Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 1 (L36, a title) — corrects externe-ebene/C13's 0
+session (2026-09-28): grep -cw Ursprungs-Ich Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 3 (L284, L298, L348) — corrects potentialmeer's 0

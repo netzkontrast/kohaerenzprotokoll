@@ -79,4 +79,4 @@ It writes the `Externe Ebene` side's name in English and the worldbuilding conce
 
 **Neither name and neither side — Juna is an entity of the "Externen Ebene", without placing that level beyond the simulation or denying that it is outside.**
 „Juna ist keine Alterpersönlichkeit, sondern eine externe Entität/Anomalie der "Externen Ebene"." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L284]
-`Basisrealität`, `jenseits der Simulation` and `Spiegel` stand 0 times (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`); the document names the level only as Juna's own, an anomaly of it, and says nothing of where it sits relative to the simulation. On neither row; the conflict stays open.
+`Basisrealität` and `jenseits der Simulation` stand 0 times, `Spiegel` once, in a title it lists (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`); the document names the level only as Juna's own, an anomaly of it, and says nothing of where it sits relative to the simulation. On neither row; the conflict stays open.
