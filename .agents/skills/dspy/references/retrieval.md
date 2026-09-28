@@ -162,7 +162,7 @@ ranked term-pages, plus precision.
 | method | recall@8, current |
 |---|--:|
 | seeds only | 47 <!--state:graphrag.recall_seeds-->% |
-| personalized PageRank | 66 <!--state:graphrag.recall_ppr-->% |
+| personalized PageRank | 65 <!--state:graphrag.recall_ppr-->% |
 
 over 20 <!--state:graphrag.cases--> cases (`python3 scripts/state.py --get
 graphrag.cases`). `ppr+gloss` scores identically to `ppr` — no bench case is
@@ -634,9 +634,9 @@ Exports: `--json`, `--graphml`, `--triples`, `--around <term> --hops N
 [--mermaid]`.
 
 **Current counts**: 177 <!--state:graph.nodes--> nodes,
-4225 <!--state:graph.edges--> edges; the evidence layer holds
-8813 <!--state:graph.evidence--> quotations, of which
-8813 <!--state:graph.evidence_verified--> verify against their cited line.
+4322 <!--state:graph.edges--> edges; the evidence layer holds
+9019 <!--state:graph.evidence--> quotations, of which
+9019 <!--state:graph.evidence_verified--> verify against their cited line.
 
 **The graph is not a third layer** (P20): it is derived on every call, about
 0.4s, exactly like `Wiki/index.json`, and holds no content a page does not

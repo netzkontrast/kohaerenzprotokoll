@@ -919,7 +919,30 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — documents 48–50 reconciled, document 51 half-done
+## Next document — none: the author asked that no new document be started (2026-09-28)
+
+**„Dont start any new documents"** — the author, 2026-09-28, while document 51 was already being read. It
+was finished and nothing after it was begun. `chapter_sources.py across` has not been run again, and no next
+document is named here. The next session starts from the author's word, not from a reading suggestion.
+
+**Document 51 is done, 2026-09-28**: `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, the
+Inquiry file, about fourteen English reports of 2025, the last of the 2026-09-25 scans. `reconcile-52` is the
+record. **No page**; J119 (Dr. Aris Thorne on `lex`), J120 (the English world names on the paged worlds);
+readings on 42 pages and `plot.md`; entries in C1, C3, C6, C9, C12, C13, C15 and Q1, Q3, Q5. Retrieval 0.660 →
+0.654, only C4. Four Sonnet readers, split by page group; `account.py order` holds again.
+- **The file disagrees with itself about the cast**: eight alters with Praetor and Oblivion in four reports,
+  eleven with Alex, Lia, Isabelle, Moros and Argus in two, each set calling itself canonical; the last report
+  names its sources for the split (Q3). Nyx is „Her" in one report and „his" in the rest. KW4 is the Garden of
+  Possibilities in one table and of Potential in another.
+- **Readers kept writing comparisons with documents they had not quoted** even with the rule in the brief — „no
+  other read source has it", „a year earlier than the 2026 sources", „the only name common to every roster"
+  (false: five names stand in both rosters). The session removed each before committing. The rule in a brief
+  is not enough; a check that flags „only / no other / first / every other" in a new reading would be.
+- **Noticed, no record holds it:** the Inquiry asks what became of the other fragments of AEGIS'
+  self-mutilation (L78, on `genesis`); the Assessment's partitioning isolates Juna's resonance from Kael rather
+  than splitting AEGIS' Ursprungs-Ich (on `trennungsprotokoll`).
+
+### Previous document — documents 48–50 reconciled
 
 **Documents 48–50 are done, 2026-09-28**: three of the four 2026-09-25 scans — the Charakter-Kompilation
 (2026-03-31), the Sensory Rulebook (2025-11-03) and the Hard-Problem-Analyse (2026-04-28).
@@ -939,12 +962,6 @@ Sonnet readers, split by page group.
   document 49 puts ozone and warmth together in Juna's world, cold or warmth in KW2 (C11); document 50
   attributes thirteen Alters to a „Hard Canon Masterfile" the corpus does not contain, where document 48
   a month earlier counts eleven on a „Hard Canon Status Report" (Q3).
-
-**Document 51 is half-done**: `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, about fourteen
-English reports in one file, three of them twice. Its candidate list, census, note, sweep and J119–J120 are
-committed, and so is its readers' brief (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/readings-brief.md`);
-its readings are not written, so `account.py order` is red on it alone. Next: its readers, by page group,
-then `reconcile-52`, then `chapter_sources.py across` again.
 
 ### Previous document — document 47 reconciled
 

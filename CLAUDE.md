@@ -121,7 +121,7 @@ but the distinction was real while it lasted and the script that measures it
 stays.
 
 **51 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **51
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **50
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **51
 <!--state:documents.reconciled--> are reconciled**. Five are `theorie-physik`,
 five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten
 `kernkonzept`, thirteen `plot-outline`, one `theorie-psychologie`, one `theorie-logik`, one
@@ -193,6 +193,7 @@ shape side by side. See *Chapters and the plot*, below.
 | `charakter-kompilation-fuer-kohaerenz-protokoll` | 0 | 33 | 0 |
 | `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p` | 0 | 20 | 0 |
 | `ki-prompt-analyse-hard-problem-of-consciousness` | 0 | 21 | 0 |
+| `an-inquiry-into-the-unresolved-questions-and-thematic-tensio` | 0 | 42 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -602,13 +603,25 @@ pages and on Kap 13, 32, 35 and 36** — five Sonnet readers split by page group
 cross-source comparisons no quotation carried and corrected three absence counts that were not zero
 (`Dekanonisiert`, `Ursprungs-Ich`, `Spiegel`).
 
+**The fifty-first is the Inquiry file, the last of the 2026-09-25 scans, and it disagrees with itself about
+the cast.** About fourteen English reports of 2025 in one file, three of them twice: an Inquiry into the
+questions the story leaves open, a Concept Paper, an Editorial & Stylistic Guide that calls itself „the single
+source of truth", a Dramaturgical Framework, a Definitive Blueprint whose eleven alters are „the ground
+truth", profiles, case studies and a Psychological Assessment — recorded, not applied. Four of its reports list
+eight alters with Praetor and Oblivion, two list eleven with Alex, Lia, Isabelle, Moros and Argus, and the last
+names the sources behind the split (Q3). It names the worlds by Guardian and place and glosses them in English,
+„KW1: Logos-Prime (The Construct City)" (J118, J120; C9 and C6 as the author decided), gives Lex the name „Dr.
+Aris Thorne" once (J119), gives `Flucht` to Kiko and Lia (C15), and asks what became of the other fragments of
+AEGIS' self-mutilation. It has no chapter. **No pages, readings on 42 pages and `plot.md`, entries in seven
+conflicts and three questions** — four Sonnet readers split by page group. The author asked on 2026-09-28
+that no new document be started; this one was already under way, and it is where the reading stops.
+
 `Plan/runs/judgements.jsonl` holds **120 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
-**`python3 scripts/account.py order` does not hold right now** — `false`
-<!--state:order.holds-->, for one reason only: document 51 has a census and a note and
-its readings are not yet written, so it has no reconciliation. Otherwise every document with a census has a note and a
+**`python3 scripts/account.py order` holds** — `true`
+<!--state:order.holds-->. Every document with a census has a note and a
 reconciliation, each ran against the state the previous one left, and the wiki
 matches what the newest run recorded leaving. It was red from the 2026-09-25 scan
 (below) until document 21: the scan's eleven pages were written outside a
@@ -816,7 +829,7 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**660 <!--state:wiki.relations--> links across
+**674 <!--state:wiki.relations--> links across
 106 <!--state:wiki.pages--> pages, 19 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
@@ -895,13 +908,13 @@ read after that, made it three.
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **177 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **4225 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **4322 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 8813 <!--state:graph.evidence-->
-of them, **8813 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 9019 <!--state:graph.evidence-->
+of them, **9019 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -925,7 +938,7 @@ python3 scripts/graphrag.py bench              # recall against the wiki's own l
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
 **47 <!--state:graphrag.recall_seeds-->% from the seeds alone and
-66 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+65 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
 step, on twenty cases whose labels were written by the same hand as the
 pages. Documents 7–9 added seven of them (C6–C12), the author's C6
 decision an eighth (Q5), document 16 a ninth (C13) and document 17 two
@@ -946,7 +959,7 @@ Document 27 moved it to 0.643: C11 from 0.6 to 0.4 and Q3 from 0.375 to 0.25, an
 pages crowding the gold out of the top eight are the central ones it gave a reading — `aegis`,
 `juna`, `kael`, `coheron`, `vortex`, `alters`. The hubs grew faster than the pages around them.
 Document 28 moved it to 0.637, only C4, from 0.556 to 0.444: `cerberus` left its top eight and `alters`
-entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47, nor documents 48–50.
+entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47, nor documents 48–50. Document 51 moved it to 0.654, only C4, from 0.556 to 0.444.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`
@@ -1320,7 +1333,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 660 <!--state:wiki.relations-->.
+links. It has 674 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
