@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 26
+sources: 28
 pages: ["entropie"]
 ---
 
@@ -240,3 +240,15 @@ It does not write `Entropie-Architektur` or call K₀ the condition of events (0
 „Primal Directive: "Aegis is what Aegis prevents itself from not being." (Existenz durch absolute Negation von Entropie)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L296] — sense 1, disorder AEGIS exists to negate.
 „AEGIS versucht, durch extreme Kontrolle Chaos zu verhindern, erzeugt aber durch die Unterdrückung von Trauma maximale interne Entropie (Kaels Dissoziation)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L302] — sense 3's shape, control producing the entropy it fights — but here the entropy produced is named Kael's own dissociation, „interne Entropie" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L302] of the system it acts on, not stated as AEGIS' own identity.
 `schöpferische Matrix` and a fourth sense's wording (`Bedingung für Ereignisse`) stand 0 times (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`). Both sense 1 and a variant of sense 3 in one document, unrelated to each other; the conflict stays open.
+
+## 2026-09-27 — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook
+
+**Sense 1, in English — disorder AEGIS exists to negate.**
+„AEGIS, a disembodied operating system whose existence is predicated on enforcing coherence through the negation of entropy and contradiction, a worldview built on the axioms of classical logic." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L13]
+`entropy` stands once, on this line (`Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`); no other sense is stated. Sense 1's side; the conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**Entropy as what K0 deletes and what shapes time's arrow — neither sense 1 nor sense 3 as written.**
+„die Landauer-Wärme, die beim Löschen von Entropie entsteht" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L15] — entropy the thing erased, Landauer heat its byproduct. „Entropie formt den Pfeil der Zeit; das Ende ist mathematisch determiniert." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L130] — nearest the glossary's fourth sense, entropy as the condition of time, though the document never uses that phrase itself. And AEGIS' own incapacity is put in the same terms: „AEGIS kann Kael ontologisch nicht verstehen, weil AEGIS als K0-Maschine jede auftretende Interferenz (Bewusstsein) sofort durch Löschung (Entropie) abbaut, um Kohärenz zu wahren." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L288] — entropy as the act of deletion itself, not AEGIS' own identity and not a matrix things stabilise out of.
+`schöpferische Matrix` and `Bedingung für Ereignisse` stand 0 times (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). Neither sense 1 (disorder resisted) nor sense 3 (AEGIS is the entropy it fights) as written: entropy here is what deletion produces and consumes, closest to the fourth sense without its wording. The conflict stays open.

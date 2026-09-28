@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 30
+sources: 31
 pages: ["aegis"]
 ---
 
@@ -226,3 +226,9 @@ On no row as stated, the same day as its sibling document above: it argues the M
 In the prologue's Genesis the fragment that becomes AEGIS is narrated with an inner view, in the third person, up to the moment it is named: „Die Existenz innerhalb des Systems – AEGIS – ist nun anders." ^[kohaerenz-protokoll.md:L91] Once the chapters begin, AEGIS never again carries a narrated inside: it speaks only as system text, in capitals — „AEGIS PROTOKOLL V1.5 AKTIV." ^[kohaerenz-protokoll.md:L635] and again at L693 — and the narrator otherwise follows [[kael|Kael]].
 `Person`, `Prosa`, `Log`, `Innensicht` and `Hard-B` stand 0 times, and neither `ich` (3) nor `Ich` (33) is ever AEGIS' own — all [[kael|Kael]]'s or the Genesis-fragment's before it is named (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`).
 Nearest rows 1 and 2 — third person, no exception — and closer still to row 5's AEGIS with no inside at all: once AEGIS is named, this document gives it none, where its own Genesis had. No chapter in Kap 5–8 exists in this document's numbering (Kapitel 1–12, 14–23) to carry the lock's exception either way. The conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**No voice rule: third-person truth is K0's epistemic mode, not a narrated person, and Kael and AEGIS never in verbal dialogue.**
+The two kernel-logics are given a kind of truth each, not a narrated person: K1, Kael's storyform, is „das Primat der Ersten-Person-Wahrheit" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L68]; K0, AEGIS' storyform, „dominiert die Thermodynamik, der irreversible Zeitpfeil, die Dritte-Person-Wahrheit und die reine, kalkulierende Funktion" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L116] — an epistemic mode; the document never assigns AEGIS a grammatical person in prose. And no dialogue crosses between them at all: „Kael und AEGIS kommunizieren an keiner Stelle des Werks durch direkten verbalen Dialog miteinander." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L17]
+`Innensicht`, `Hard-B` and `Prosa` stand 0 times, `Kap` on no line naming Kap 5–8 (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). On no row: it names no chapter, no narrated voice for AEGIS and no first-person exception. The conflict stays open.
