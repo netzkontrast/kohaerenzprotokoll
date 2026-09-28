@@ -62,3 +62,11 @@ trennungsprotokoll: grep -cw Beat charakter-kompilation-fuer-kohaerenz-protokoll
 session (2026-09-28): grep -cw Dekanonisiert Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 2 (L322 Silas, L324 Oblivion); grep -ciw dekanonisiert -> 2 — corrects the lowercase 0s above
 session (2026-09-28): grep -cw Spiegel Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 1 (L36, a title) — corrects externe-ebene/C13's 0
 session (2026-09-28): grep -cw Ursprungs-Ich Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 3 (L284, L298, L348) — corrects potentialmeer's 0
+multiplizitaet: grep -ic multipli Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+hitze-polaritaetsregel: grep -c 'Polarität' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+hitze-polaritaetsregel: grep -icw 'kalt' Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+landauer-signatur: grep -cw Landauer Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+kohaerenz-kernel: grep -cw K1 Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0 (verified: K1/K0 do not appear in this document, per Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify.txt)
+juna: grep -cw Kap charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+kollaps-kernel: grep -cw K0 Sources/drive/charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0
+aegis: grep -cw Do-er/Be-er/Person charakter-kompilation-fuer-kohaerenz-protokoll.md -> 0/0/0

@@ -1,0 +1,44 @@
+sophia: grep -ci absorbed the-sensory-rulebook...md -> 0
+sophia: grep -ci latent the-sensory-rulebook...md -> 1
+sophia: grep -ci decanon the-sensory-rulebook...md -> 0
+kairos: grep -ci absorbed/latent/decanon the-sensory-rulebook...md -> 0/0/0
+cerberus: grep -ci absorbed/decanon the-sensory-rulebook...md -> 0/0
+logos: grep -ci absorbed/decanon the-sensory-rulebook...md -> 0/0
+rhys: grep -icw Rhys Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+mnemosyne: grep -i absorbed/climax the-sensory-rulebook...md -> 0/0
+selene: grep -icw Selene Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+guardians: grep -ci reduziert/Erasure-Pol/absorbed/reduced the-sensory-rulebook...md -> 0/0/0/0
+isabelle: grep -icw Isabelle Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+moros: grep -icw Moros Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+argus: grep -icw Argus Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+silas: grep -icw Silas Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+risse: grep -ic 'riss' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+oblivion: grep -icw Oblivion Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+did: grep -icw DID Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+c5-garten-scale: grep -c 'Garten der Möglichkeiten' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md
+0
+c5-garten-scale: grep -icw 'Bereich' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md
+0
+c5-garten-scale: grep -icw 'Areal' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md
+0
+c6-guardians-count-and-pairing: grep -icw 'Erasure-Pol' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md
+0
+c6-guardians-count-and-pairing: grep -ic 'reduced' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md
+0
+multiplizitaet: grep -ic multipli Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+hitze-polaritaetsregel: grep -c 'Polarität' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+hitze-polaritaetsregel: grep -icw 'Landauer' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw -- 'Landauer' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md
+0
+c11-landauer-warmth-or-cold-ozone: grep -cw -- 'Hitze' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md
+0
+c11-landauer-warmth-or-cold-ozone: grep -cw -- 'Knöchel' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md
+0
+c2-entropie-sense: grep -cw -- 'entropy' Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md
+1
+landauer-signatur: grep -cw Landauer Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+kohaerenz-kernel: grep -cw K1 Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+juna: grep -cw Kap the-sensory-rulebook...md -> 0
+kollaps-kernel: grep -cw K0 Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 0
+aegis: grep -cw Autonomous/Do-er/Be-er/Genesis the-sensory-rulebook...md -> 0/0/0/0
+entropie: grep -icw entropy Sources/drive/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md -> 1 (one occurrence, L13, restates AEGIS' negation-of-entropy already established elsewhere on the page)
