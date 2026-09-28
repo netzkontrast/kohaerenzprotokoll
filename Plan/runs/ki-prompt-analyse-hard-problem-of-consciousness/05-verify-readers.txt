@@ -56,3 +56,12 @@ c12-genesis-beats: grep -cw -- 'Wir-AEGIS' Sources/drive/ki-prompt-analyse-hard-
 c12-genesis-beats: grep -c '734' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
 2
 aegis: grep -cw Autonomous ki-prompt-analyse-hard-problem-of-consciousness.md -> 0; '1. Person'/'3. Person' -> 0/0; Person (general) -> 5, none AEGIS-specific
+c14-aegis-first-person-chapter: grep -cw -- 'Innensicht' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c14-aegis-first-person-chapter: grep -cw -- 'Hard-B' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c14-aegis-first-person-chapter: grep -cw -- 'Prosa' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c14-aegis-first-person-chapter: grep -n 'Kap 5\|Kap 6\|Kap 7\|Kap 8\|Kapitel 5\|Kapitel 6\|Kapitel 7\|Kapitel 8' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+session (2026-09-28): grep -cw warm/kalt/Wärme/Kälte/Hitze Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0/0/24/2/3; no line with Juna holds any of them (grep -n Juna | grep -i wärm|warm|kalt|hitz|temperat -> none)
