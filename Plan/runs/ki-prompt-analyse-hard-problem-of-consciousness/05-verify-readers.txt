@@ -86,3 +86,4 @@ q3-how-many-kern-welten-and-alters: grep -cw -- 'Konstrukt-Stadt' Sources/drive/
 0
 q3-how-many-kern-welten-and-alters: grep -cw -- 'Kernwelt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
 0
+session (2026-09-28): grep -n 'Kernwelten\|Logos-Prime\|Cerberus-Labyrinth' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> L80, L242, L244 (Kernwelt as a whole word 0) — corrects Q3's 'no Kern-Welt named at all'

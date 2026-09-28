@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 29
+sources: 30
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -352,3 +352,9 @@ Nearest position 1, hedged twice over — a possible blindness of AEGIS' own tol
 **Position 1's bearer — the system's own coherence metrics, categorically unable to hold a kind of connection — and none of its four Guardians given a blind spot of its own.**
 Studying RIVE's model, Kael finds its limit stated flatly: „Sie hatten keinen Platz für die Art von Resonanz, die er erlebt hatte, keine Metrik für die Qualität einer Verbindung, nur für ihre logische Konsistenz. Sie waren blind für das, was ihm genommen worden war." ^[kohaerenz-protokoll.md:L380] — a categorical incapacity of the apparatus AEGIS itself runs on, argued from what the metric cannot represent, in the shape of position 1's own argument.
 [[logos|LogOS]], the Netzweber, the Chaos-Regulator and the Möglichkeits-Weber are each given a domain and a manner — „Supervisor für Kohärenz und Struktur" ^[kohaerenz-protokoll.md:L438], „GUARDIAN MCL-SEKTOR" ^[kohaerenz-protokoll.md:L1168] — but never a blindness of the kind position 2 asks for; the Chaos-Regulator instead deviates and transforms (reading on [[guardians|Guardians]], Q1). `blind` stands once (L380, quoted above), `blinde` once, `blindwütig` once and `blindlings` twice — all of Kael's own Schatten and Kind-Anteil, none of them a Guardian's (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`). Position 1's bearer; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**Mutual blindness, Kael and AEGIS each unable to register the other as a subject — and no Guardian named at all.**
+„Sie kommunizieren niemals direkt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L304] „Die Struktur der vollkommenen I/You-Blindheit wurde als unantastbares Fundament der Synthese verriegelt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L304] AEGIS' own side of it: „Umgekehrt registriert AEGIS die Präsenz von Kael nicht als fühlendes Subjekt, sondern rein als algorithmisches Störsignal, als funktionale Entropie und als erratischen Kalorienverbrauch, der zu fatalen Speicherlecks führt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L17]
+`Guardian` and `Wächter` stand 0 times (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). Neither position 1 (AEGIS' blindness alone) nor position 2 (each Guardian's own) as written: the incapacity is named for both AEGIS and Kael, symmetrically, and no Guardian exists in this document to bear one. The conflict stays open.
