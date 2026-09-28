@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-24"
 ---
 
@@ -119,3 +119,13 @@ A compilation that audits its sources and keeps its own contradiction register �
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the Pfleger-ANP, gently intervening for Kiko, against the table's own assignment of that role
 
 A report addressed to the author; recorded, not applied. Not in the eleven-alter table (L40–L43; see [[alters]]) — Silas carries „(Pfleger)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L41] there, of Resonanz-Landschaft (KW2) — Rhys is named only in Kapitel 19, gently intervening for the weeping Kiko: „Rhys, der Pfleger-ANP, versucht sanft zu intervenieren." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95] So the document gives the Pfleger role to two different figures in two places, an internal tension it does not resolve. `Rhys` stands on this one line (`grep -cw Rhys`: 1, `Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/05-verify.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Relational ANP, mediator between Lex and Nyx
+
+An English file of about fourteen reports of 2025. Every roster it gives keeps him an ANP: the Guide and Framework's eight-alter tables call him „ANP (Caretaker/Social Mediator)." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L414] (Guide) and the Blueprint's eleven-alter table „ANP (Carer) - Focused on empathy, internal harmony, and fostering connection." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L847] (see [[alters]]).
+
+**The Psychological Exposé makes him the bridge between Lex and Nyx by name.** „Rhys functions as the system's empathic ANP and internal mediator." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1038] „Where Lex's logic creates distance, Rhys's empathy builds bridges. He is the first part capable of facilitating tentative communications between the system's warring alters, particularly between the detached, analytical Lex and the fiercely protective Nyx." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1038]
+
+The thematic analysis and the Comparative Case Study both call him the Relational ANP: „Rhys (The Relational ANP): A functional part oriented toward empathy, connection, and care. He often serves as a mediator between the more rigid and defensive parts." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1203] The Case Study's own words for the same role: „Another functional part, Rhys is oriented toward empathy, connection, and care. His motivations often bring him into conflict with the more rigid, defensive, or emotionally detached parts of the system, as he seeks to build bridges both internally and externally." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1303]
+
+The Assessment gives AEGIS a way to exploit him: „AEGIS exploits Rhys's empathy by presenting him with overwhelming evidence of the system's suffering, leading to caretaker burnout." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1660]
