@@ -1,2 +1,25 @@
 kap-35: grep -cE 'Kap(itel)?\.? 35[^–-]' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
 0
+rhys: grep -icw Rhys Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -cw KW1 Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -cw KW2 Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -cw KW3 Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -cw KW4 Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -c 'Konstrukt-Stadt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+selene: grep -icw Selene Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+nyx: grep -icw Nyx Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+algorithmische-melancholie: grep -ci 'Beat 5' ki-prompt-analyse-hard-problem-of-consciousness.md -> 0; Reliquie 0
+konstrukt-stadt: grep -c 'Konstrukt-Stadt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+konstrukt-stadt: grep -c 'Logos-Prime' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 4
+plot: grep -c 'Kap 0' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+plot: grep -c 'Kapitel 0' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+plot: grep -c 'Kap 40' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+plot: grep -c 'Kapitel 40' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kiko: grep -icw Kiko Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+plot: grep -c 'Kishōtenketsu' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 1
+resonanz-landschaft: grep -c 'Resonanz-Landschaft' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+resonanz-landschaft: grep -c 'Mnemosyne-Archipel' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+lia: grep -icw Lia Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+grenzfeste: grep -c 'Grenzfeste' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+grenzfeste: grep -c 'Cerberus-Labyrinth' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 1
+isabelle: grep -icw Isabelle Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
