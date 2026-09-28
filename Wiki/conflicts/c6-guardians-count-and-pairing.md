@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 31
+sources: 32
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -312,3 +312,9 @@ On neither row's count — four, not five and not two, and three names (`Netzweb
 **Row 1's and row 2's side: five named, paired one-to-one with the four worlds, Kairos and Sophia sharing one — a compilation's own list, under [[aegis|AEGIS]]' own heading, with no reduction told.**
 „Die Guardians:" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L304] „LogOS (KW1 - Logos-Prime)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L308] „Mnemosyne (KW2 - Mnemosyne-Archipel)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L309] „Cerberus (KW3 - Cerberus-Labyrinth)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L310] „Kairos & Sophia (KW4 - Kairos-Potentialis)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L311]
 `Erasure-Pol` and `Lösch-Pol` stand 0 times, `reduziert` 0 (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`); no absorption is told and no draft is called earlier. The author's decision for five (2026-09-24) stands, and this document, dated a month before the 2026 reduction, agrees with it on the count and the pairing.
+
+## 2026-09-27 — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook
+
+**Row 1's and row 2's side, in English: five named, one per world, Kairos and Sophia sharing the fourth — no reduction, no pole.**
+„The Guardian of KW1 is LogOS" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19]; „The Guardian of this realm is Mnemosyne" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L39]; „This world's Guardian is Cerberus" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L59]; „The Guardians of this world are Kairos and Sophia, complementary forces representing intuition, opportunity, and integrative wisdom." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79]
+`Erasure-Pol` and `reduced` stand 0 times (`Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`). The author's decision for five (2026-09-24) stands; this document agrees with row 1's and row 2's count and pairing.

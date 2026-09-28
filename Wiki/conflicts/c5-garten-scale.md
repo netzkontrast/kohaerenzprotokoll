@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 19
+sources: 20
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -202,3 +202,9 @@ No place of that name inside KW4, and `Garten der Möglichkeiten` does not occur
 **Neither position — a third scale: a garden that is [[kael|Kael]]'s own inner landscape, not a Kern-Welt and not a place inside one, crossing three worlds rather than belonging to a fourth.**
 Kapitel 8, „Dialog im Inneren Garten" ^[kohaerenz-protokoll.md:L861], names its own scale: „Es war kein physischer Garten. Eher eine mentale Landschaft, ein Bewusstseinszustand" ^[kohaerenz-protokoll.md:L871]. It stands after Co₁, still present in Beta-Rho-5 — „Die Präsenz des Selbst war stark, der Innere Garten stabil." ^[kohaerenz-protokoll.md:L1980] — and again after Ly, where Kael returns to it. It is neither a Kernwelt of its own nor a Bereich inside a numbered one: it travels with [[kael|Kael]] across worlds, the way his other parts do.
 `Garten der Möglichkeiten`, `Möglichkeits-Garten` and `Kairos-Potentialis` stand 0 times (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`; `Möglichkeits-Weber` is a Guardian, not a place). This document's garden bears the record's name by coincidence of word alone, not by its subject: it names no fourth world and no place inside one. The conflict stays open, unmoved by it.
+
+## 2026-09-27 — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook
+
+**Position 1's side, in English — the whole fourth Kern-Welt, named twice over, and no place of that name inside it.**
+„Representing the potential for creativity and integration, Kernwelt 4, the Möglichkeits-Garten, is the psycho-architectural space of Juna/V's influence." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L77] Its heading gives the same identity: „Kernwelt 4 (KW4) - Kairos-Potentialis: The Garden of Emergent Possibilities" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L75].
+No sub-location of KW4 is named and no containment word stands beside the name (`Garten der Möglichkeiten`, `Bereich`, `Areal` 0, `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`). Position 1's side, by the world's own name. The conflict stays open.

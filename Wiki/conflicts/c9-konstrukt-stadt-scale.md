@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 23
+sources: 24
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -191,3 +191,9 @@ Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Predates the 
 **Named once, unnumbered, and on no row by name.**
 A storyform study reading a NotebookLM corpus, not the novel directly — recorded, not applied. „Kael ist das epische Zentrum dieses Zerfalls, determiniert durch seine ausweglose Situation in der Konstrukt-Stadt (MC: Universe)." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L144]
 `KW1` and `Kernwelt` stand 0 times beside it (`05-verify.txt`); the document says neither that the city is the whole simulation nor that it is one world of four. On no row by name, nearest the several other sources above that name the city without its number. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.
+
+## 2026-09-27 — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook
+
+**KW1, as decided — `Kernwelt 1, the Konstrukt-Stadt`, an English essay naming the same identity the author later confirmed.**
+„Strategically, Kernwelt 1, the Konstrukt-Stadt, serves as the novel's initial reality and the domain of Kael’s "Apparently Normal Parts" (ANPs)." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L17] Its heading gives KW1 the same Guardian's name: „Kernwelt 1 (KW1) - Logos-Prime" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L15].
+Agrees with the author's decision (KW1 only, 2026-09-24). Nothing to change.
