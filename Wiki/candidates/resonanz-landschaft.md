@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -114,3 +114,17 @@ Not in date order with the readings above; placed after the last one. An English
 **Cold and warmth in the same trauma area, for C11.** „space itself is emotionally resonant, marked by areas of "plötzliche Kälte oder Wärme in Traumabereichen" (sudden cold or warmth in trauma areas)" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L43] — cold and warmth named together, in the same trauma area, without saying which is whose. Its somatic motif: „The key somatic motif for KW2 is **Visceral Gut Reactions**." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L51]
 
 No act, no chapters and no number pairing beyond `KW2` itself (`Akt` and `Chapter` 0, `Kernwelt` on this section's own two lines only; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Mnemosyne-Archipel, a chaotic landscape of manipulated memory, and the Resonance Landscape as its second name
+
+Not in date order with the readings above; placed after the last one. An English file of about fourteen reports; quote as written, never translate.
+
+**The Definitive Blueprint's table gives it both names in one cell.** „KW2: Mnemosyne-Archipel" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L877] „(The Resonance Landscape)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L877] „Paraconsistent Logic" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L877] „A fluid, surreal landscape whose geography shifts with emotional states, reacting to the memories and feelings of the EPs." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L877] (J118, J120 — the English name recorded here, never a surface).
+
+**The Dramaturgical Framework has AEGIS manipulating what Kael finds there.** „Mnemosyne-Archipel (KW2): In this chaotic "Resonance Landscape," Kael confronts traumatic memories that have been actively manipulated by AEGIS." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L587] „This forces his disparate alters into their first conscious, cooperative efforts to reconstruct the truth of their past." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L587]
+
+**The untitled three-act text gives the same world no number, only its Guardian-built name.** „The Mnemosyne-Archipel: A chaotic landscape where Kael confronts traumatic memories held by his Emotional Parts (EPs)." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1126]
+
+**And the thematic analysis names it for its Guardian alone, a third naming for the same world**: „Kernwelt 2 (Mnemosyne)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1244] — recorded on [[kern-welten|Kern-Welten]] rather than here (J49).
+
+No absorption or reduction is told of this world's Guardian (`Erasure-Pol`, `absorbed` 0, `grep -cw`/`-ciw`, full path). C11: no temperature is given for it here.

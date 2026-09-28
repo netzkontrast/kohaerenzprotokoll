@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -101,3 +101,17 @@ Not in date order with the readings above; placed after the last one. An English
 **Its sensory signature is a bunker.** „The environment is a "bunkerartige Festung" (bunker-like fortress), oppressive and claustrophobic." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L63] Its somatic motif: „The key somatic motif for KW3 is **The Tensing of Muscles and Bracing for Impact**." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L71]
 
 No act and no chapters (`Akt` and `Chapter` 0; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Cerberus-Labyrinth, a defensive brutalist fortress the Boundary Fortress in English
+
+Not in date order with the readings above; placed after the last one. An English file of about fourteen reports; quote as written, never translate.
+
+**The Definitive Blueprint's table gives it both names in one cell.** „KW3: Cerberus-Labyrinth" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L878] „(The Boundary Fortress)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L878] „Relevance Logic" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L878] „A defensive, brutalist fortress-labyrinth representing the phobias and amnesic barriers between Kael's alters." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L878] (J118, J120 — the English name recorded here, never a surface).
+
+**The Dramaturgical Framework has Kael overcome its phobias through an alter's trust in another.** „Cerberus-Labyrinth (KW3): To navigate this paranoid "Boundary Fortress," Kael must overcome the deep-seated "phobias" between his alters." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L588]
+
+**The untitled three-act text gives the same world no number, only its Guardian-built name.** „The Cerberus-Labyrinth: A paranoid fortress representing the deep-seated phobias between alters" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1127] — „the primary barrier preventing true psychological integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1127]
+
+**And the thematic analysis names it for its Guardian alone, a third naming for the same world**: „Kernwelt 3 (Cerberus)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1245] — recorded on [[kern-welten|Kern-Welten]] rather than here (J49).
+
+No absorption or reduction is told of this world's Guardian (`Erasure-Pol`, `absorbed` 0, `grep -cw`/`-ciw`, full path).

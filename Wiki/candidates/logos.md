@@ -1,17 +1,17 @@
 ---
 term: LogOS
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-17"
 ---
 
 # LogOS
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Eighteen other read documents name LogOS — the readings below, the Hard-SF-Outline's the latest (it moved this count from seventeen, the Ultra-Plot's from sixteen, the Dramatica-Synthese's from fifteen, the Narrative Building Blocks report's from fourteen, the Systems Narrative Analysis's from thirteen, as the philosophischer Bericht's had from twelve). (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
+the same nine fields. Nineteen other read documents name LogOS — the readings below, the Inquiry file's the latest (it moved this count from eighteen, the Hard-SF-Outline's from seventeen, the Ultra-Plot's from sixteen, the Dramatica-Synthese's from fifteen, the Narrative Building Blocks report's from fourteen, the Systems Narrative Analysis's from thirteen, as the philosophischer Bericht's had from twelve). (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -203,3 +203,9 @@ Not in date order with the readings above; placed after the last one. Under AEGI
 ## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — KW1's Guardian, enforcing AEGIS' order
 
 Not in date order with the readings above; placed after the last one. An English essay that names no canon and never hedges. „The Guardian of KW1 is LogOS, an agent embodying the strict, formal logic and unyielding order enforced by AEGIS." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19] „Its narrative purpose, and that of its world, is to establish the story's initial "prison of convention."" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19] No absorption, reduction or decanonisation is told (`absorbed`, `decanon` 0; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Guardian's name alone, for KW1, in the thematic analysis
+
+Not in date order with the readings above; placed after the last one. An English file of about fourteen reports; quote as written, never translate. Once (`grep -cw LogOS` 1, full path): the thematic analysis drops the world's other two names (`Logos-Prime`, `Construct City`, both used elsewhere in the same file — see [[konstrukt-stadt|Konstrukt-Stadt]]) and gives the world its Guardian alone: „Kernwelt 1 (LogOS): A world of sterile, brutalist architecture, representing the rigid, emotionally avoidant logic of Kael’s Apparently Normal Parts." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1243]
+
+No absorption or reduction is told; not called `Wächter` (0). The author decided C6 for five on 2026-09-24; recorded, not applied (Q1, Q5).
