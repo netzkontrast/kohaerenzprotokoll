@@ -1,17 +1,17 @@
 ---
 term: Cerberus
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-17"
 ---
 
 # Cerberus
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Seventeen other read documents name Cerberus — the readings below, the Hard-SF-Outline's the latest (it moved this count from sixteen, the Ultra-Plot's from fifteen, the Dramatica-Synthese's from fourteen, the Narrative Building Blocks report's from thirteen, the philosophischer Bericht's from twelve, as the Kap-25 session log's had from eleven). (Until the worldbuilding concept's reading this lead said nothing else read named Cerberus at all, which the second reading on this page had already made false.)
+the same nine fields. Eighteen other read documents name Cerberus — the readings below, the Inquiry file's the latest (it moved this count from seventeen, the Hard-SF-Outline's from sixteen, the Ultra-Plot's from fifteen, the Dramatica-Synthese's from fourteen, the Narrative Building Blocks report's from thirteen, the philosophischer Bericht's from twelve, as the Kap-25 session log's had from eleven). (Until the worldbuilding concept's reading this lead said nothing else read named Cerberus at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -175,3 +175,9 @@ Not in date order with the readings above; placed after the last one. Under AEGI
 ## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — KW3's Guardian, the enforcer of security against a shared threat
 
 Not in date order with the readings above; placed after the last one. An English essay that names no canon and never hedges. „This world's Guardian is Cerberus, the enforcer of security, boundaries, and fear-based control." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L59] Its world protects the child EPs from „the invalidating control of AEGIS, which functions as an "externalisiertes Täterintrojekt" (externalized perpetrator introject) that reinforces this hypervigilance" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L57] — AEGIS' own description, not Cerberus'; see [[aegis]]. No absorption, reduction or decanonisation is told (`absorbed`, `decanon` 0; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Guardian's name alone, for KW3, in the thematic analysis
+
+Not in date order with the readings above; placed after the last one. An English file of about fourteen reports; quote as written, never translate. The thematic analysis drops the world's other names (`Cerberus-Labyrinth`, `Boundary Fortress`, both used elsewhere in the same file — see [[grenzfeste|Grenzfeste]]) and gives the world its Guardian alone: „Kernwelt 3 (Cerberus): A paranoid, bunker-like fortress of defense mechanisms, externalizing the deep-seated phobias and mistrust between his alters." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1245]
+
+No absorption or reduction is told; not called `Wächter` (0, `grep -cw`/`-ciw`, full path). The author decided C6 for five on 2026-09-24; recorded, not applied (Q5).

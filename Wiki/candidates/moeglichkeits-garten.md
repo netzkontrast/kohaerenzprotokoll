@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: C5, C11
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -242,3 +242,15 @@ Not in date order with the readings above; placed after the last one. An English
 **Ozone and warmth together, for C11.** „The environment of Kairos-Potentialis is "changeable, symbolic, and chaotically generative," depicted as an "überwucherter 'Ruinen-Garten'" (overgrown 'ruin-garden')." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L83] „The air is filled with "Inspirierende Klänge (Musik, Naturgeräusche)" (inspiring sounds (music, nature sounds)) and the "Geruch von Ozon oder frischer Erde" (smell of ozone or fresh earth)." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L83] „the space is illuminated by "warmes, dynamisches Licht" (warm, dynamic light)" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L83] — ozone and warmth together, in one document's sense of Juna's world (C11).
 
 Its somatic motif: „The key somatic motif for KW4 is **The Sensation of Unclenching Hands and an Easing of Breath**." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L91] No act and no chapters (`Akt` and `Chapter` 0; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — Kairos-Potentialis, and one file naming its aesthetic Possibilities in one report and Potential in another
+
+Not in date order with the readings above; placed after the last one. An English file of about fourteen reports; quote as written, never translate. No scene of it stands in the three-act structures the file gives (C11: no temperature is given for it here).
+
+**The Definitive Blueprint's table gives it its English name, `Garden of Possibilities`.** „KW4: Kairos-Potentialis" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L879] „Explorative/Dialetheic Logic" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L879] „An emergent, fractal garden of possibilities where new solutions beyond AEGIS's control can grow." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L879] (J118, J120 — the English name recorded here, never a surface).
+
+**From Archetype to Architecture renames the same world's aesthetic within the same file.** „KW4: Kairos-Potentialis (The Garden of Potential)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L971] „The generative, emergent world representing creativity, new possibilities, and the emergent path toward integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L971] — `Possibilities` against `Potential`, the same file naming the same world's function two ways (L879 above).
+
+**And the thematic analysis names it for its two Guardians alone, a third naming for the same world**: „Kernwelt 4 (Kairos/Sophia)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1246] „A "Possibility Garden" of chaotic growth and emergence, representing the potential for creativity, healing, and integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1246] — recorded on [[kern-welten|Kern-Welten]], [[kairos|Kairos]] and [[sophia|Sophia]] rather than here (J49). C5: the world's scale only, no sub-location.
+
+No absorption or reduction is told of either Guardian (`Erasure-Pol`, `absorbed` 0, `grep -cw`/`-ciw`, full path).

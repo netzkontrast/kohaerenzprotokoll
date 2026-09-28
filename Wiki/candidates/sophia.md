@@ -1,17 +1,17 @@
 ---
 term: Sophia
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-17"
 ---
 
 # Sophia
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Eleven other read documents name Sophia — the readings below, the Hard-SF-Outline's the latest (it moved this count from ten, the Ultra-Plot's from nine, the philosophischer Bericht's from eight). (Until that reading this lead said nothing else read named Sophia at all, which the second reading on this page had already made false.)
+the same nine fields. Twelve other read documents name Sophia — the readings below, the Inquiry file's the latest (it moved this count from eleven, the Hard-SF-Outline's from ten, the Ultra-Plot's from nine, the philosophischer Bericht's from eight). (Until that reading this lead said nothing else read named Sophia at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -138,3 +138,9 @@ Not in date order with the readings above; placed after the last one. Under AEGI
 ## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — one of two Guardians of KW4, facilitating what Juna represents
 
 Not in date order with the readings above; placed after the last one. An English essay that names no canon and never hedges. „The Guardians of this world are Kairos and Sophia, complementary forces representing intuition, opportunity, and integrative wisdom." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79] „Their narrative purpose is to facilitate the generative and sometimes chaotic forces that Juna represents." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79] No absorption, reduction or decanonisation is told (`absorbed`, `decanon` 0; the document's one `latent` is Kael's own „latent memories" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L27], not a Guardian's state; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — one of KW4's two Guardians alone, joined with Kairos, in the thematic analysis
+
+Not in date order with the readings above; placed after the last one. An English file of about fourteen reports; quote as written, never translate. `Sophia` stands once (`grep -cw Sophia` 1, full path), inside the joined pair, where the thematic analysis drops the world's other names (`Kairos-Potentialis`, `Garden of Possibilities`/`Garden of Potential`, all used elsewhere in the same file — see [[moeglichkeits-garten|Möglichkeits-Garten]]) and gives the world its two Guardians alone, undifferentiated: „Kernwelt 4 (Kairos/Sophia): A "Possibility Garden" of chaotic growth and emergence, representing the potential for creativity, healing, and integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1246]
+
+No absorption or reduction is told; not called `Wächter` (0, `grep -cw`/`-ciw`, full path). The author decided C6 for five on 2026-09-24; recorded, not applied (Q5).

@@ -59,3 +59,68 @@ grep -cw -- 'Basisrealität' ... => 0 ; grep -ciw -- 'Basisrealität' ... => 0
 # trennungsprotokoll — grep -cw on Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
 grep -cw -- 'Trennungsprotokoll' ... => 0
 grep -cw -- 'Beat' ... => 0
+
+# aegis — grep -cw / -ciw on Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+grep -cw -- 'Do-er' ... => 0 ; grep -ciw -- 'Do-er' ... => 0
+grep -cw -- 'Be-er' ... => 0 ; grep -ciw -- 'Be-er' ... => 0
+grep -ciw -- 'first person' ... => 0
+grep -ciw -- 'third person' ... => 0
+
+# kael — grep -cw on Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+grep -cw -- 'Knöchel' ... => 0
+grep -cwi -- 'knuckles' ... => 0
+
+# reader: kern-welten, konstrukt-stadt, resonanz-landschaft, grenzfeste, moeglichkeits-garten,
+#         risse, guardians, logos, mnemosyne, cerberus, kairos, sophia, plot.md, 2026-09-28
+# grep -cw and grep -ciw against Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+
+kern-welten            Erasure-Pol   0  0
+kern-welten            absorbed      0  0
+kern-welten            Wächter       0  0
+konstrukt-stadt        Erasure-Pol   0  0
+konstrukt-stadt        absorbed      0  0
+resonanz-landschaft    Erasure-Pol   0  0
+resonanz-landschaft    absorbed      0  0
+grenzfeste             Erasure-Pol   0  0
+grenzfeste             absorbed      0  0
+grenzfeste             Wächter       0  0
+moeglichkeits-garten   Erasure-Pol   0  0
+moeglichkeits-garten   absorbed      0  0
+risse                  Riss-Typ      0  0
+risse                  EP-Trigger    0  0
+risse                  Flight        0  11   (11 is `flight`, always the generic fight/flight/freeze triad)
+risse                  Landauer      0  0
+guardians              Erasure-Pol   0  0
+guardians              absorbed      0  0
+guardians              reduced       1  1    (the one hit is "reduced to corrupt data", AEGIS' victim, not a Guardian)
+guardians              Wächter       0  0
+logos                  absorbed      0  0
+logos                  Wächter       0  0
+mnemosyne              absorbed      0  0
+cerberus               Wächter       0  0
+kairos                 Wächter       0  0
+sophia                 Wächter       0  0
+plot                   Kap           0  0
+plot                   Kapitel       0  0
+plot                   Chapter       0  0
+plot                   Vortex        0  0
+alters: grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+alters: grep -ciw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 11
+nyx: grep -cw -- Knöchel Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+nyx: grep -ciw -- Knöchel Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+kiko: grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+kiko: grep -ciw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 11
+lia: grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+lia: grep -ciw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 11
+isabelle: grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+isabelle: grep -ciw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 11
+oblivion: grep -cw -- warm Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -ciw -- warm Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -cw -- heat Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -ciw -- heat Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -cw -- ozone Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -ciw -- ozone Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -cw -- Landauer Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -ciw -- Landauer Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+did: grep -cw -- DID Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 1
+did: grep -ciw -- DID Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 1
