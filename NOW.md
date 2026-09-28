@@ -704,7 +704,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   107 <!--state:sweep.decided--> hits, 53 <!--state:sweep.readings--> of them
+   127 <!--state:sweep.decided--> hits, 66 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -780,7 +780,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 43 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 47 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -919,7 +919,34 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — document 47 reconciled
+## Next document — documents 48–50 reconciled, document 51 half-done
+
+**Documents 48–50 are done, 2026-09-28**: three of the four 2026-09-25 scans — the Charakter-Kompilation
+(2026-03-31), the Sensory Rulebook (2025-11-03) and the Hard-Problem-Analyse (2026-04-28).
+`reconcile-49` to `reconcile-51` are the records. **No page**; J117 (Landauer-Wärme by the sentence), J118
+(a world named twice in one breath goes on the paged world); readings on 33, 20 and 21 pages, Kap 13, 32,
+35, 36 and `plot.md`; entries in C1–C6, C8, C9, C11–C15 and Q1, Q3–Q5. Retrieval unchanged at 0.660. Five
+Sonnet readers, split by page group.
+- **Three absence counts were not zero.** Readers counted `dekanonisiert`, `Ursprungs-Ich` and `Spiegel` in
+  document 48 as 0 — the first because the text writes `Dekanonisiert`, the second from a path that did
+  not resolve. The session recounted and corrected four Guardian pages, `potentialmeer` and C13, and told
+  the readers to count with the full path and case-insensitively as well. A brief should say so from the
+  start.
+- **Readers again wrote comparisons to documents they did not quote** — „the one read source", „as in
+  document 3", „every other read source", „a fourth position", „the earliest-dated source". The session
+  removed each before committing. `quotes.py` passes all of them.
+- **Noticed, no record holds it:** document 48 gives „Komponente 734" to Lex (C12's entry records it);
+  document 49 puts ozone and warmth together in Juna's world, cold or warmth in KW2 (C11); document 50
+  attributes thirteen Alters to a „Hard Canon Masterfile" the corpus does not contain, where document 48
+  a month earlier counts eleven on a „Hard Canon Status Report" (Q3).
+
+**Document 51 is half-done**: `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, about fourteen
+English reports in one file, three of them twice. Its candidate list, census, note, sweep and J119–J120 are
+committed, and so is its readers' brief (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/readings-brief.md`);
+its readings are not written, so `account.py order` is red on it alone. Next: its readers, by page group,
+then `reconcile-52`, then `chapter_sources.py across` again.
+
+### Previous document — document 47 reconciled
 
 **Document 47 is done, 2026-09-27**: `kohaerenz-protokoll`, the Kohärenz-Protokoll narrative of
 2025-04-27, 50k words, read on its own in parts. A foreword, a Genesis of AEGIS told from an Ich, „ab hier
@@ -945,9 +972,6 @@ Sonnet readers, split by page group.
   `an-inquiry-into-the-unresolved-questions-and-thematic-tensio` writes the case number `734-K-1123`, which
   joins this document's two designations.
 
-Next: the four unread 2026-09-25 scans — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`,
-`charakter-kompilation-fuer-kohaerenz-protokoll`, `ki-prompt-analyse-hard-problem-of-consciousness`,
-`the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p` — then `chapter_sources.py across` again.
 
 ### Previous document — documents 44–46 reconciled
 

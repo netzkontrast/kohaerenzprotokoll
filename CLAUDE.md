@@ -120,13 +120,13 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**47 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **47
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **47
+**51 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **51
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **50
 <!--state:documents.reconciled--> are reconciled**. Five are `theorie-physik`,
-five `worldbuilding`, one `aegis`, six `storyform`, five `charaktere`, eight
-`kernkonzept`, thirteen `plot-outline`, one `theorie-psychologie`, one `theorie-logik` and two
-`theorie-mathematik` — thirty-three of them from the canon era, and documents 40–47 the first read
-from before it since document 6.
+five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten
+`kernkonzept`, thirteen `plot-outline`, one `theorie-psychologie`, one `theorie-logik`, one
+`theorie-philosophie` and two `theorie-mathematik` — thirty-three of them from the canon era, and
+documents 40–51 the first read from before it since document 6.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
@@ -137,7 +137,7 @@ has been promoted.
 
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
-**580 <!--state:chapters.readings--> readings** from the nine read documents
+**584 <!--state:chapters.readings--> readings** from the nine read documents
 that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, that text's prose without its annotation, a world bible that names nine, a philosophy catalogue that names nineteen, a drafting run's log that names three, a chapter file of Kap 25 that names two, a storyform companion that names nine, a theory report that names three, seven English documents of 2026-05-08 that name the Vortex's two chapters, and one of them Chapter 1 and Chapter 39, a Dramatica report that names the Vortex's two, three pre-2026 plans that go chapter by chapter from Kapitel 1 to 39, a storyform study that names nine, that report's earlier run, which names the Vortex's two, and a narrative text of twenty-two chapters, its own Kapitel 1–12 and 14–23; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
@@ -190,6 +190,9 @@ shape side by side. See *Chapters and the plot*, below.
 | `dramatica-storyform-synthese-aegis-analyse` | 0 | 26 | 0 |
 | `m-als-fundament-der-simulation` | 0 | 9 | 0 |
 | `kohaerenz-protokoll` | 0 | 24 | 0 |
+| `charakter-kompilation-fuer-kohaerenz-protokoll` | 0 | 33 | 0 |
+| `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p` | 0 | 20 | 0 |
+| `ki-prompt-analyse-hard-problem-of-consciousness` | 0 | 21 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -582,12 +585,30 @@ messages. **No pages, readings on 24 pages, `plot.md` and 22 chapters, entries i
 questions** — six Sonnet readers from one brief; the session split joined quotations and reworded
 difference lines that claimed more than the text.
 
-`Plan/runs/judgements.jsonl` holds **116 <!--state:judgements.total--> judgements**
+**The forty-eighth to fiftieth were next in the chapter tables, and two of them were scanned on
+2026-09-25.** The Charakter-Kompilation (2026-03-31) is a model's character bible built from fourteen Drive
+documents it ranks by maturity: eleven Anteile in fixed fields, each gap marked „\[Fehlt in den Dokumenten -
+Lücke\]", a register of its own contradictions, Silas and Oblivion „Dekanonisiert" on a status report's word.
+It gives „Komponente 734" to Lex, not Kael (C12), names Juna an external entity and Kael's exiled
+Ursprungs-Ich in one line and calls that a deliberate paradox (J68), and lists five Guardians, one per
+world, under AEGIS' own entry (C6, Q5; the author's five stands). The Sensory Rulebook (2025-11-03) is an
+English essay on the four worlds as psycho-architectures, each named twice in one breath — „Kernwelt 1, the
+Konstrukt-Stadt" under „Kernwelt 1 (KW1) - Logos-Prime" — which J118 places on the paged world; it gives
+Juna's world ozone and warmth together and KW2 cold or warmth in one trauma area (C11). The
+Hard-Problem-Analyse (2026-04-28) reads the two storyforms as the Hard Problem of Consciousness: AEGIS the MC
+of B and a Do-er (C8), heat driving B (C11), and Kael and AEGIS „an keiner Stelle des Werks" in verbal
+dialogue (C4, C14); J117 places its `Landauer-Wärme` by the sentence. **No pages, readings on 33, 20 and 21
+pages and on Kap 13, 32, 35 and 36** — five Sonnet readers split by page group; the session removed
+cross-source comparisons no quotation carried and corrected three absence counts that were not zero
+(`Dekanonisiert`, `Ursprungs-Ich`, `Spiegel`).
+
+`Plan/runs/judgements.jsonl` holds **120 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
-**`python3 scripts/account.py order` holds** — `true`
-<!--state:order.holds-->. Every document with a census has a note and a
+**`python3 scripts/account.py order` does not hold right now** — `false`
+<!--state:order.holds-->, for one reason only: document 51 has a census and a note and
+its readings are not yet written, so it has no reconciliation. Otherwise every document with a census has a note and a
 reconciliation, each ran against the state the previous one left, and the wiki
 matches what the newest run recorded leaving. It was red from the 2026-09-25 scan
 (below) until document 21: the scan's eleven pages were written outside a
@@ -720,8 +741,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 107 <!--state:sweep.decided--> so far,
-53 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 127 <!--state:sweep.decided--> so far,
+66 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -795,7 +816,7 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**657 <!--state:wiki.relations--> links across
+**660 <!--state:wiki.relations--> links across
 106 <!--state:wiki.pages--> pages, 19 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
@@ -814,7 +835,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 515 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 530 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -873,14 +894,14 @@ read after that, made it three.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **176 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **4083 <!--state:graph.edges--> edges** (`links`,
+citations and builds **177 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **4225 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 8552 <!--state:graph.evidence-->
-of them, **8552 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 8813 <!--state:graph.evidence-->
+of them, **8813 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -925,7 +946,7 @@ Document 27 moved it to 0.643: C11 from 0.6 to 0.4 and Q3 from 0.375 to 0.25, an
 pages crowding the gold out of the top eight are the central ones it gave a reading — `aegis`,
 `juna`, `kael`, `coheron`, `vortex`, `alters`. The hubs grew faster than the pages around them.
 Document 28 moved it to 0.637, only C4, from 0.556 to 0.444: `cerberus` left its top eight and `alters`
-entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47.
+entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47, nor documents 48–50.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`
@@ -1299,7 +1320,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 657 <!--state:wiki.relations-->.
+links. It has 660 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"

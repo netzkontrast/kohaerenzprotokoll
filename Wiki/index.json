@@ -99,10 +99,13 @@
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
         "m-als-fundament-der-simulation",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 44,
-      "readings": 45,
+      "sources": 47,
+      "readings": 48,
       "conflict": "C1, C3, C8, C14"
     },
     "alex": {
@@ -175,10 +178,12 @@
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "dramatica-storyform-synthese-aegis-analyse-2",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 29,
+      "readings": 29,
       "conflict": "none"
     },
     "alters": {
@@ -224,10 +229,13 @@
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
         "m-als-fundament-der-simulation",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 37,
-      "readings": 36,
+      "sources": 40,
+      "readings": 39,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -303,10 +311,11 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 25,
+      "readings": 25,
       "conflict": "none"
     },
     "ars": {
@@ -689,10 +698,12 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 29,
+      "readings": 29,
       "conflict": "C2"
     },
     "erason": {
@@ -759,10 +770,11 @@
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "systemic-architecture-specification-the-coherence-protocol-w",
-        "the-architecture-of-fracture-a-compendium-of-the-kael-system"
+        "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -871,10 +883,12 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 30,
+      "readings": 30,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -926,10 +940,11 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "systemic-architecture-specification-the-coherence-protocol-w",
         "dramatica-storyform-synthese-aegis-analyse-2",
-        "roman-konzept-dualitaet-kohaerenz-spannung"
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -1033,10 +1048,11 @@
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 30,
-      "readings": 30,
+      "sources": 31,
+      "readings": 31,
       "conflict": "C11"
     },
     "isabelle": {
@@ -1069,10 +1085,11 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "roman-konzept-dualitaet-kohaerenz-spannung"
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 25,
+      "readings": 25,
       "conflict": "C15"
     },
     "juna": {
@@ -1122,10 +1139,13 @@
         "monstergruppe-primzahlen-plot-blueprint",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 43,
+      "readings": 43,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1378,10 +1398,12 @@
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 29,
+      "readings": 29,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -1432,10 +1454,11 @@
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -1503,10 +1526,11 @@
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 17,
-      "readings": 17,
+      "sources": 18,
+      "readings": 18,
       "conflict": "none"
     },
     "komponente-734": {
@@ -1627,10 +1651,11 @@
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 30,
-      "readings": 30,
+      "sources": 31,
+      "readings": 31,
       "conflict": "C11"
     },
     "lex": {
@@ -1705,10 +1730,12 @@
         "companion-guide-to-the-coherence-protocol-understanding-love",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
-        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 26,
+      "readings": 26,
       "conflict": "C15"
     },
     "logos": {
@@ -1830,11 +1857,12 @@
         "systemic-architecture-specification-the-coherence-protocol-w",
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "dramatica-storyform-synthese-aegis-analyse-2",
-        "roman-konzept-dualitaet-kohaerenz-spannung"
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 19,
-      "readings": 19,
-      "conflict": "C5"
+      "sources": 20,
+      "readings": 20,
+      "conflict": "C5, C11"
     },
     "moonshine-link": {
       "title": "Moonshine-Link",
@@ -1875,10 +1903,12 @@
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
         "m-als-fundament-der-simulation",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 35,
+      "readings": 35,
       "conflict": "none"
     },
     "moros": {
@@ -1911,10 +1941,11 @@
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 24,
-      "readings": 24,
+      "sources": 25,
+      "readings": 25,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -1985,10 +2016,11 @@
         "monstergruppe-primzahlen-plot-blueprint",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 36,
-      "readings": 36,
+      "sources": 37,
+      "readings": 37,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -2156,10 +2188,11 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "roman-konzept-dualitaet-kohaerenz-spannung"
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "C11"
     },
     "ouroboros-struktur": {
@@ -2281,10 +2314,11 @@
         "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "m-als-fundament-der-simulation",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -2351,11 +2385,12 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "systemic-architecture-specification-the-coherence-protocol-w",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 8,
-      "readings": 8,
-      "conflict": "none"
+      "sources": 9,
+      "readings": 9,
+      "conflict": "C11"
     },
     "rhys": {
       "title": "Rhys",
@@ -2433,10 +2468,12 @@
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 35,
-      "readings": 35,
+      "sources": 37,
+      "readings": 37,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -2553,10 +2590,11 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "roman-konzept-dualitaet-kohaerenz-spannung"
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "C11"
     },
     "snk": {
@@ -2646,10 +2684,11 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
-        "duale-storyform-synthese-kohaerenz-protokoll"
+        "duale-storyform-synthese-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 28,
+      "readings": 28,
       "conflict": "none"
     },
     "therapie-schnittstelle-alpha": {
@@ -2718,10 +2757,12 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "dramatica-storyform-synthese-aegis-analyse",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 29,
-      "readings": 29,
+      "sources": 31,
+      "readings": 31,
       "conflict": "C12"
     },
     "truth-rotation": {
@@ -2784,10 +2825,11 @@
         "dramatica-storyform-synthese-aegis-analyse-2",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 27,
+      "readings": 27,
       "conflict": "none yet"
     },
     "ueberraum": {

@@ -1,0 +1,295 @@
+{
+  "document": "ki-prompt-analyse-hard-problem-of-consciousness",
+  "drive_id": "1IdPAAsJUSrjj2FsVk7GUrgZOUzUmnWIveXXDeRGGswk",
+  "step": "reconcile",
+  "at": "2026-09-28",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of three documents reconciled together (documents 48–50) — readings and record entries written by five Sonnet readers split by page group from Plan/runs/readings-brief-documents-48-50.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 114,
+    "decisions": 114,
+    "decided_by_lookup": 98,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A storyform report: its terms are Dramatica's, the philosophy of mind's and its own method's (5D-Interferenz, Half-Life Audit); the novel's world in it is on pages already. No page is created from a framework.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        68,
+        74,
+        116,
+        120,
+        128,
+        193,
+        195,
+        251,
+        270
+      ],
+      "attribution": "",
+      "note": "MC of B in Universe, IC of A, believing K1 while being K0, felt only as cold and pressure, Hitze its Driver in B"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        130,
+        198,
+        234,
+        270
+      ],
+      "attribution": "",
+      "note": "Storyform B's Judgment, a state named twice, and a question left open"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        28
+      ],
+      "attribution": "",
+      "note": "thirteen, as its claim about a source it inventories"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        130,
+        138,
+        188,
+        233
+      ],
+      "attribution": "",
+      "note": "Kael's own entropy, not only AEGIS'"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        235,
+        236,
+        287
+      ],
+      "attribution": "",
+      "note": "a Genesis-Sequenz that initiates the Trennungsprotokoll, no beat counted"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        106,
+        187,
+        261
+      ],
+      "attribution": "",
+      "note": "`ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        17,
+        188,
+        195,
+        243
+      ],
+      "attribution": "",
+      "note": "cold is Kael's sense of AEGIS, heat drives Storyform B, and Juna carries no thermal word at all"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        154,
+        289
+      ],
+      "attribution": "",
+      "note": "a pure K1 entity, invisible to K0's measure"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "never a word to AEGIS, only falling temperature"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "`ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        68,
+        251
+      ],
+      "attribution": "",
+      "note": "K1 as preservation and Juna's trace, and what AEGIS only believes itself to be"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        116,
+        251
+      ],
+      "attribution": "",
+      "note": "K0 as the logic of erasure and AEGIS' own trace, and what AEGIS is in its operative nature"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        15,
+        19,
+        189,
+        190
+      ],
+      "attribution": "",
+      "note": "the heat itself: the physical friction of erasure, driving Storyform B and the OS/RS crossing"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        243,
+        265,
+        272
+      ],
+      "attribution": "",
+      "note": "Juna's pure K1 zone, and whether it can be shown without K0 correlates"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        82,
+        252
+      ],
+      "attribution": "",
+      "note": "Storyform A's achieved state, and the anthropological translation of the 5D-Interferenz"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        28,
+        178,
+        249
+      ],
+      "attribution": "",
+      "note": "`ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        19,
+        62,
+        76,
+        82,
+        235
+      ],
+      "attribution": "",
+      "note": "Risse as the physical face of Landauer-Wärme itself"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        19,
+        277,
+        279,
+        280,
+        281,
+        282
+      ],
+      "attribution": "",
+      "note": "the call as the analysis' own proof, read three ways at once"
+    },
+    {
+      "page": "thermodynamischer-phaenomenalismus",
+      "lines": [
+        15,
+        218,
+        225,
+        226,
+        242,
+        243,
+        244,
+        251,
+        257,
+        319
+      ],
+      "attribution": "",
+      "note": "`ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        78,
+        124,
+        236,
+        273,
+        287
+      ],
+      "attribution": "",
+      "note": "RS in A, OS in B, and the initiating act of the Genesis-Sequenz"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        29,
+        187,
+        352
+      ],
+      "attribution": "",
+      "note": "`ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      13,
+      32,
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      28,
+      29,
+      106,
+      152,
+      168,
+      177,
+      261,
+      269,
+      418
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C4",
+    "C8",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [
+    "J117"
+  ],
+  "decided_by_existing_rules": "J98, J99 (K1, K0), J112 (T-734), J108, J39, J9",
+  "not_promoted": [
+    "5D-Interferenz, fünfte Dimension, thermodynamische Narben — its own model, on thermodynamischer-phaenomenalismus and the kernel pages",
+    "the Dramatica element matrix — storyform values, on the conflict records",
+    "Chalmers, Tononi, Friston, Husserl, Dennett — borrowed"
+  ],
+  "internal_tension": "It gives the Driver as Action in both storyforms, which it calls a convergence (L195), while calling every other row opposed; it attributes 13 Alters to a corpus file (L28) while the character compilation of a month before counts eleven.",
+  "baseline_moved": false
+}

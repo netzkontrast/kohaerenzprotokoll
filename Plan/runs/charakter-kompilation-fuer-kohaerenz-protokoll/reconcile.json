@@ -1,0 +1,394 @@
+{
+  "document": "charakter-kompilation-fuer-kohaerenz-protokoll",
+  "drive_id": "1N3F-Q7pC-EyVb2iuA-h4vZAJe1ElhU_19nVumqi3_fA",
+  "step": "reconcile",
+  "at": "2026-09-28",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of three documents reconciled together (documents 48–50) — readings and record entries written by five Sonnet readers split by page group from Plan/runs/readings-brief-documents-48-50.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 131,
+    "decisions": 132,
+    "decided_by_lookup": 104,
+    "needs_judgement": 28
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A model's compilation of other documents: every figure, world and Guardian it names already has a page; what it adds — fields, gaps, correlates — are readings on those pages. Its own labels (Charakter-Bibel, Widerspruchs-Register, Lücken-Analyse) describe the compilation, not the novel's world.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        294,
+        296,
+        298,
+        300,
+        302,
+        308,
+        309,
+        310,
+        311,
+        316
+      ],
+      "attribution": "",
+      "note": "expanded, an epistemological shock, Gaslighting and Skinner-Box methods, five Guardians, forced into Algorithmische Melancholie"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        95,
+        97,
+        103,
+        105
+      ],
+      "attribution": "",
+      "note": "Protector, with no correlate to fill in"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        316
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit's outcome, a paradoxical truth AEGIS cannot grasp"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        46,
+        346,
+        347,
+        348
+      ],
+      "attribution": "",
+      "note": "eleven, by its own audited count, and a register of four unsettled points"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        262,
+        268,
+        270,
+        272,
+        273
+      ],
+      "attribution": "",
+      "note": "the Archivar der Narben, an eye in the labyrinth"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        310
+      ],
+      "attribution": "",
+      "note": "one of five, on KW3, before the reset"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        296,
+        302
+      ],
+      "attribution": "",
+      "note": "AEGIS' Primal Directive against entropy, and Kael's dissociation named as the entropy it produces"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        284
+      ],
+      "attribution": "",
+      "note": "named once, as Juna's own"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        68,
+        298
+      ],
+      "attribution": "",
+      "note": "an epistemological shock, told as one sentence and no beat"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        316
+      ],
+      "attribution": "",
+      "note": "`charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        304,
+        308,
+        309,
+        310,
+        311,
+        326
+      ],
+      "attribution": "",
+      "note": "five, under AEGIS, a month before the reset"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        220,
+        228,
+        346
+      ],
+      "attribution": "",
+      "note": "control as reversal, and a classification the document's own register calls unsettled"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        282,
+        284,
+        288,
+        290,
+        348
+      ],
+      "attribution": "",
+      "note": "an external entity and Kael's exiled Ursprungs-Ich at once, a Gnosis-bearing catalyst, never a rescuer"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        50,
+        68,
+        355
+      ],
+      "attribution": "",
+      "note": "Host, and his own founding trauma still a gap"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        311
+      ],
+      "attribution": "",
+      "note": "one of five, on the fourth world, before the reset"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        177,
+        185,
+        189,
+        191
+      ],
+      "attribution": "",
+      "note": "the frozen child, and named fears for Lex and Alex"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        72,
+        74
+      ],
+      "attribution": "",
+      "note": "`charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        74,
+        76,
+        82,
+        84,
+        86,
+        87
+      ],
+      "attribution": "",
+      "note": "Analyst and Strategist, and Komponente 734"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        199,
+        207,
+        211
+      ],
+      "attribution": "",
+      "note": "a Kaleidoskop-Herz whose core function names Flucht"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        308
+      ],
+      "attribution": "",
+      "note": "one of five, on KW1, before the reset"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        309
+      ],
+      "attribution": "",
+      "note": "one of five, on KW2, before the reset"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        286
+      ],
+      "attribution": "",
+      "note": "a non-local connection built from entanglement and Whitehead, invisible to AEGIS"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        240,
+        242,
+        248,
+        250,
+        252
+      ],
+      "attribution": "",
+      "note": "an internalised Täter, and a Riss that drives the temperature down"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        156,
+        164,
+        166,
+        168
+      ],
+      "attribution": "",
+      "note": "Fight, and a somatic field left open"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        324,
+        347
+      ],
+      "attribution": "",
+      "note": "decanonised outright, a prototype for Moros"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        298
+      ],
+      "attribution": "",
+      "note": "the unrecognisable void AEGIS met, glossed as Juna"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        115,
+        121,
+        128,
+        345
+      ],
+      "attribution": "",
+      "note": "the Kudzu named as toxic co-dependency, and a contradiction register entry of its own"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        60,
+        84,
+        104,
+        124,
+        144,
+        166,
+        187,
+        209,
+        230,
+        250,
+        272
+      ],
+      "attribution": "",
+      "note": "a Riss-Typ for every Anteil, ANPs included, and Moros' cold"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        134,
+        142,
+        144,
+        148
+      ],
+      "attribution": "",
+      "note": "a bridge between ANP and EP, a Riss of rescuing associations, and a threat to the other Anteile rather than to AEGIS"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        322,
+        347
+      ],
+      "attribution": "",
+      "note": "decanonised outright, absorbed into Rhys and Argus"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        311
+      ],
+      "attribution": "",
+      "note": "one of five, on the fourth world, before the reset"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        298,
+        300
+      ],
+      "attribution": "",
+      "note": "AEGIS' own protocol, dismembering its Ursprungs-Ich"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        345,
+        355
+      ],
+      "attribution": "",
+      "note": "`charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
+    "C6",
+    "C12",
+    "C13",
+    "C15"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49, J68 (Juna in two roles), J88, J112, J20",
+  "not_promoted": [
+    "the DKT correlates per alter (Hubble-Volumen, Replica Wormholes, CPT-Verletzung, Planck-Skala, Pauli, Big Freeze) — on each alter's page",
+    "Eos, Nox, Limina, Praetor — legacy names, one line (L326)",
+    "the 6 Paraiyas — one line (L284)",
+    "its source list of fourteen documents and its bracket numbers — not this corpus's"
+  ],
+  "internal_tension": "Juna is an external entity and Kael's exiled Ursprungs-Ich in one line, which it calls a deliberate narrative paradox (L348); Rhys and Isabelle carry two classes (L345–346); it counts eleven Anteile against 13+ in earlier sketches (L347).",
+  "baseline_moved": false
+}
