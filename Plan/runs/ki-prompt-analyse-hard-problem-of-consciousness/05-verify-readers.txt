@@ -74,3 +74,15 @@ c4-guardians-and-aegis: grep -cw -- 'Guardian' Sources/drive/ki-prompt-analyse-h
 c4-guardians-and-aegis: grep -cw -- 'Wächter' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
 0
 session (2026-09-28): grep -cw Ozon/kalt/zwanzig Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0/0/0; grep -ci ozon -> 0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'KW1' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'KW2' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'KW3' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'KW4' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'Konstrukt-Stadt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'Kernwelt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
