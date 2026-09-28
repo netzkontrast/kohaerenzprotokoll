@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-17"
 ---
 
@@ -175,3 +175,11 @@ No level is named and no year: `External` and `Basisrealität` stand 0 times, `2
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — named once, as Juna's own
 
 Not in date order with the readings above; placed after the last one. Once, in Juna's own entry: „Juna ist keine Alterpersönlichkeit, sondern eine externe Entität/Anomalie der "Externen Ebene"." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L284] The inflected form is the document's own (`Externe Ebene` 0 elsewhere, `Basisrealität` 0, `Köln` 0; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`). It says nothing of where the level lies, and takes no side in C13.
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry — the English `External Level`, named as the question C13 asks rather than answered
+
+English throughout; the name is placed here by the sentence (J100), as `systemic-architecture-specification-the-coherence-protocol-w` already is above. Neither `Köln` nor `Cologne` nor `Basisrealität` stands anywhere in the document (`grep -ciw` on both spellings, and on `Basisrealität`, all 0: `Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`), so it does not identify the level with Cologne 2026 and takes no side in C13.
+
+It introduces the level as Juna/V's origin: „The text introduces Juna/V as a "transcendent entity" from an "External Level," an anomaly that embodies the "Paraiyas"—those fundamental aspects of reality, like subjective experience (qualia) and authentic connection, that AEGIS's logic is forced to reject." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L25]
+
+Then it puts C13's own question into words, and refuses to answer it: „**What is the nature of the "External Level"?** The text deliberately avoids a clear definition. Is this a higher dimension of reality, a different layer of the simulation that AEGIS is unaware of, or is it the "real" world breaking through into the artificial one?" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L27] This holds both of C13's positions open at once rather than taking either; it does not belong under *Where the sources differ*.

@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-17"
 ---
 
@@ -114,3 +114,11 @@ Crossing into it late in Ly, Kael finds it is not the M he touches beyond the Ke
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — the unrecognisable void AEGIS met, glossed as Juna
 
 Not in date order with the readings above; placed after the last one. Once, in AEGIS' own Genesis-Krise entry, parenthetical and equated with Juna rather than defined: „AEGIS erlitt einen epistemologischen Schock, als es auf eine unerkennbare Leere (Juna/Potentialmeer) traf." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L298] It gives the sea no properties of its own; its `Ursprungs-Ich` (3 lines) is AEGIS' own, dismembered, and Kael's exiled one that Juna is, never placed in the sea (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Concept Paper — the English `Potential Sea`, named as the Nichts-Rauschen itself
+
+Not in date order with the readings above; placed after the last one, as this page already does for other out-of-order documents. English throughout; the name is placed here by the sentence (J100), as `systems-narrative-analysis-the-coherence-protocol-kanon-2026` already is above.
+
+Here the Potential Sea is not a place the Ursprungs-Ich occupies but the primordial state itself, equated with the Nichts-Rauschen in the same sentence: „The primordial state of existence within this narrative is **"Das Nichts Rauschen"** (The Nothingness Noise). This is not a passive vacuum but an active, high-entropy "Potential Sea" that exerts a constant, indifferent, form-dissolving pressure on any structured entity." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L213] „It is a state of pure, uncompressed informational noise that threatens to dissolve all meaning back into undifferentiated potentiality." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L213]
+
+`Potential Sea` stands on two lines of the file, the Concept Paper's report repeated once (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`); no report places an Ursprungs-Ich in it or counts a Genesis beat.
