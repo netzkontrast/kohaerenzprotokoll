@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 8
-readings: 8
-conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse"]
+sources: 9
+readings: 9
+conflict: C11
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -106,3 +106,11 @@ No `Resonanzlandschaft` without the hyphen and no `Mnemosyne-Archipel` occur (0,
 It is also „Wächterin des Resonanz-Archipels" ^[dramatica-storyform-synthese-aegis-analyse.md:L39] — Mnemosyne's title in the rejected Hypothesis H2 — a third naming, `Resonanz-Archipel`, crossing `Resonanz-Landschaft`'s own word with the Archipel of the other sources' `Mnemosyne-Archipel` (J49, J61).
 
 At the climax it turns cold rather than warm: „Die Umgebungstemperatur fällt schlagartig in den Minusbereich, als das System Energie für den finalen Schlag bündelt." ^[dramatica-storyform-synthese-aegis-analyse.md:L102] No number occurs (`Kernwelt` 0, `05-verify.txt`; `KW2` 0, `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`); the place is named three ways and none of them carries the number this page's other readings pair with it.
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — KW2, the second name, a dialetheic logic of trauma, and cold or warmth together in one trauma area
+
+Not in date order with the readings above; placed after the last one. An English essay. **KW2, with its second name** (J118): „As the domain of Kael's "Emotional Parts" (EPs), Kernwelt 2, the Resonanz-Landschaft, represents the submerged world of emotional memory and unprocessed trauma." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L37] Its logic: „Crucially, it operates not on the classical logic of KW1 but on a "paraconsistent" or "dialetheic" logic—the logic of trauma itself, which permits true contradictions (A and not-A)." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L37] Its Guardian: „The Guardian of this realm is Mnemosyne, an agent tasked with overseeing the paradoxical domain of memory and emotion." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L39]
+
+**Cold and warmth in the same trauma area, for C11.** „space itself is emotionally resonant, marked by areas of "plötzliche Kälte oder Wärme in Traumabereichen" (sudden cold or warmth in trauma areas)" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L43] — the same pairing the Möglichkeits-Garten reading of this document holds for ozone and warmth together, here holding cold and warmth together instead. Its somatic motif: „The key somatic motif for KW2 is **Visceral Gut Reactions**." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L51]
+
+No act, no chapters and no number pairing beyond `KW2` itself (`Akt` and `Chapter` 0, `Kernwelt` on this section's own two lines only; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).

@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 30
+sources: 31
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -306,3 +306,9 @@ On no row by count and no row by pairing: the earliest-dated source in this reco
 **A fourth count — four Guardians, one per world, none of them named the same as either later list's bearers.**
 [[logos|LogOS]], „Supervisor für Kohärenz und Struktur in diesem Sektor" ^[kohaerenz-protokoll.md:L438], guards Co₁; the Netzweber, „SUPERVISION: NETZWEBER (GUARDIAN MCL-SEKTOR)." ^[kohaerenz-protokoll.md:L1168], guards McL; the Chaos-Regulator, „des Guardians dieser Welt" ^[kohaerenz-protokoll.md:L1638], guards Beta-Rho-5; the Möglichkeits-Weber, „Es war der Möglichkeits-Weber." ^[kohaerenz-protokoll.md:L2024], guards Ly. `Mnemosyne`, `Cerberus`, `Kairos` and `Sophia` stand 0 times (`Plan/runs/kohaerenz-protokoll/05-verify.txt`), `Erasure-Pol` 0 (`05-verify-readers.txt`).
 On neither row's count — four, not five and not two, and three names (`Netzweber`, `Chaos-Regulator`, `Möglichkeits-Weber`) that share no surface with any Guardian either list names, though the fourth guards the same function [[kairos|Kairos]]/[[sophia|Sophia]] share elsewhere. On the pairing, row 1's and row 2's side: one Guardian per world, exactly, with no sharing. The author's decision for five (2026-09-24) stands, and this document's four are none of the five. The conflict stays open.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**Row 1's and row 2's side: five named, paired one-to-one with the four worlds, Kairos and Sophia sharing one — a compilation's own list, under [[aegis|AEGIS]]' own heading, with no reduction told.**
+„Die Guardians:" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L304] „LogOS (KW1 - Logos-Prime)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L308] „Mnemosyne (KW2 - Mnemosyne-Archipel)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L309] „Cerberus (KW3 - Cerberus-Labyrinth)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L310] „Kairos & Sophia (KW4 - Kairos-Potentialis)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L311]
+`Erasure-Pol` and `Lösch-Pol` stand 0 times, `reduziert` 0 (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`); no absorption is told and no draft is called earlier. The author's decision for five (2026-09-24) stands, and this document, dated a month before the 2026 reduction, agrees with it on the count and the pairing.

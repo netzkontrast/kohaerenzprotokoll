@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -93,3 +93,11 @@ So it borders [[sektor-04|Sektor 04]], which this document calls „eine unentsc
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — KW3's own name, a defensive world of Firefighters and Exiles
 
 **KW3 by name, not a second one.** The world table: „Grenzfeste (KW3) | Cerberus (Abwehr/Angst) | Firefighter (Persecutor) & Exiles | Nyx (Kampf), Praetor (Abwehr), Nox (Kritiker)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L42] — the same pairing as `guardians-und-kern-welten-konzept`'s. No chapter of the read prose is set here: `Grenzfeste` stands only in the table (`grep -cw Grenzfeste` 2, `05-verify-readers.txt`); Cerberus acts in Kapitel 25 without the world being named at the same time (see [[cerberus]]). No `Cerberus-Labyrinth` (0, `05-verify.txt`) — this document's world and the 2026 sources' `Cerberus-Labyrinth` share no surface, only the number and the Guardian.
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — KW3, its second name, a bunker-like fortress, and the body bracing for impact
+
+Not in date order with the readings above; placed after the last one. An English essay. **KW3, with its second name** (J118): „Kernwelt 3, the Grenzfeste, is the physical manifestation of Kael's "aktiven Verteidigungssysteme" (active defense systems)." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L57] AEGIS here is „an "externalisiertes Täterintrojekt" (externalized perpetrator introject) that reinforces this hypervigilance." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L57] Its Guardian: „This world's Guardian is Cerberus, the enforcer of security, boundaries, and fear-based control." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L59] — `Cerberus-Labyrinth`, in the same sentence, a world named after a former bearer (J49).
+
+**Its sensory signature is a bunker.** „The environment is a "bunkerartige Festung" (bunker-like fortress), oppressive and claustrophobic." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L63] Its somatic motif: „The key somatic motif for KW3 is **The Tensing of Muscles and Bracing for Impact**." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L71]
+
+No act and no chapters (`Akt` and `Chapter` 0; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
