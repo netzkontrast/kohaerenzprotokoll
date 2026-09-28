@@ -175,6 +175,6 @@ The Inquiry also gives `The Foundation` a mechanism of its own: „Its mechanism
 
 The Concept Paper gives the integrated alters' cooperation the same word: „This emergent capability allows the integrated System Kael to consistently outmaneuver the AI." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L271] and gives KW4 the property: „**KW4: Kairos-Potentialis** | Explorative/Dialetheic Logic / NP-Search Problems | Potential, Creativity, Integration (Selene, Rhys) | An emergent, fractal garden of possibilities. Tests the search for a single correct solution in an exponentially vast space." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L298]
 
-So five senses in one file: `C3`'s own sense, in English and in a question; a metaphysical principle (the Foundation); Kael's own cultivated end-state; the alters' cooperative capability; and KW4's world-property.
+So five senses in one file: `C3`'s own sense, in English and in a question; a metaphysical principle (the Foundation); Kael's own cultivated end-state; the [[alters]]' cooperative capability; and KW4's world-property.
 
 `Wiki/conflicts/c3-emergenz-origin.md` already holds this document's position, from a different passage (its L798, `began as`, not `emerge`): row 1's side, the struggle against the Nothingness Noise coming before any Kernwelt. L53 uses the verb `emerged` itself for that same origin.

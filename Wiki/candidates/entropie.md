@@ -286,4 +286,4 @@ The Concept Paper names the mechanism: „This is the core flaw in AEGIS's logic
 
 The untitled three-act text names the flaw by its German name inside English prose: „AEGIS misinterprets Kael's awakening and newfound agency as a critical system anomaly. Its "Negentropie-Fehlinterpretation" flaw causes it to see emergent consciousness as dangerous entropy." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L579]
 
-This is AEGIS' own working sense — Kael's healing and complexity read as a rise in entropy — repeated across the file's reports rather than a thermodynamic or information-theoretic definition. Conflict C2.
+This is AEGIS' own working sense — [[kael|Kael]]'s healing and complexity read as a rise in entropy — repeated across the file's reports rather than a thermodynamic or information-theoretic definition. Conflict C2.

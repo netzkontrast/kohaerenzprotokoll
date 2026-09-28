@@ -87,7 +87,7 @@ Lia's Kernfunktion: „"Kaleidoskop-Herz"; trägt Trauma bezüglich Vertrauen; s
 
 ## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
 
-**Row 1's pairing — the Assessment's table gives `Flucht` to both Kiko and Lia, in their TSDP classification itself.**
+**Row 1's pairing — the Assessment's table gives `Flucht` to both Kiko and Lia, in their [[tsdp|TSDP]] classification itself.**
 „Kiko | EP (Kind/Flucht/Freeze) | Träger von Angst/Verlassenheit/Scham" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1615]
 „Lia | EP (Kind/Ambivalenz/Flucht) | Träger von Vertrauensbruch/Ambivalenz" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1616]
 `Flight` stands 0 times (English throughout) and `Flucht` twice, both on these two rows (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify.txt`). Row 1's side, in the Assessment, one of the file's two eleven-alter reports; on no row's spatial-riss framing, since the Assessment's table names phobias, not riss types. The conflict stays open.

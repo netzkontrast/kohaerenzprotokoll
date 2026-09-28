@@ -195,4 +195,4 @@ The report titled `An Architecture of the Self` writes another English name for 
 
 The Psychological Assessment places it as the state the subject's genesis begins from: „The subject's genesis is described as the formation of a rudimentary "Ich" (Self) from a state of "Nichts Rauschen" (Nothingness Noise)." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1584]
 
-None of the fourteen reports write `atemporal`, `mutual information` or `love` at all, and none says it is Coheron or K1 (`atemporal` 0, `love` 0; `Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`).
+None of the fourteen reports write `atemporal`, `mutual information` or `love` at all, and none says it is [[coheron|Coheron]] or K1 (`atemporal` 0, `love` 0; `Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`).
