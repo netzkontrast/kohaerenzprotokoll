@@ -1,0 +1,14 @@
+# systems-narrative-analysis-the-coherence-protocol-kanon-2026
+  lines                172  (frontmatter ends at 9)
+  body words           1804
+  headings             17   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    92
+  typographic marks    17   ascii quotes 146
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    8
+  repeated labels      Lever x18, Transition x8, Somatic x5, Status x5, Domain x3
+  longest line         1087 chars
+

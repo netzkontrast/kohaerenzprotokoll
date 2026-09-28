@@ -1,0 +1,197 @@
+# reconcile-pre — duale-storyform-synthese-kohaerenz-protokoll
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  1 surface groups folded to one term first
+  174 candidates, 175 decisions — **141 by lookup, 34 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (19) — page exists, this document is not on it yet — a reading
+  DKT                                  dkt
+  AEGIS                                aegis
+  Kael                                 kael
+  funktionale Multiplizität            multiplizitaet
+  Gödel-Gambit                         goedel-gambit
+  Juna                                 juna
+  TSDP                                 tsdp
+  Alters                               alters
+  Mosaik-Herz                          mosaik-herz
+  Moonshine-Link                       moonshine-link
+  Kernwelten                           kern-welten
+  Risse                                risse
+  Negentropie                          negentropie
+  Konstrukt-Stadt                      konstrukt-stadt
+  Potentialmeer                        potentialmeer
+  Lex                                  lex
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Selene                               selene
+
+## new_term (122) — no page, no near match — a new page
+  Gegenläufigkeits-Achse               
+  Change                               
+  Success                              
+  Steadfast                            
+  Failure                              
+  Dual Kernel Theory                   
+  K1                                   
+  K0                                   
+  Storyform A                          
+  Die Heuristik der Integration        
+  Storyform B                          
+  Der Phönix-Kollaps                   
+  Universe                             
+  Good                                 
+  5D-Architektur                       
+  Kapiteln 35–36                       
+  Meta-Narrative                       
+  Werk-Korpus-Inventar                 
+  NotebookLM-Werkkorpus                
+  Vorgänger-Phase                      
+  Story-first-Phase                    
+  Tragischer Gott                      
+  MC                                   
+  OS                                   
+  RS                                   
+  Physics                              
+  Psychology                           
+  Dynamic Pair                         
+  The True Coherence Protocol          
+  Heroine's Journey                    
+  39-Kapitel-Matrix                    
+  Innere Reise                         
+  Zyklen des Widerstands               
+  Äußere Reise                         
+  Schatten                             
+  T-734                                
+  K-J Vektor                           
+  Origin Trauma                        
+  Korrespondenztheorie                 
+  Strategic Narrative Analysis         
+  Unified Protagonist                  
+  Environmental Storytelling           
+  Phillips                             
+  Huntley                              
+  Jim Hull                             
+  Narrative First                      
+  Subtxt                               
+  Barbie                               
+  Jerry Maguire                        
+  Actual Dilemma                       
+  Steelman                             
+  Manipulation                         
+  IC                                   
+  Activity                             
+  Fixed Attitude                       
+  Situation                            
+  Resolve                              
+  Kapitel 32                           
+  Growth                               
+  Start                                
+  Ursprungstrauma                      
+  Approach                             
+  Be-er                                
+  Style                                
+  Holistic                             
+  Dialetheismus                        
+  Driver                               
+  Action                               
+  Limit                                
+  Optionlock                           
+  Kern-Trauma                          
+  Outcome                              
+  Judgment                             
+  Jetzt-Raum                           
+  Memory                               
+  Co1-Welt                             
+  Order                                
+  Chaos                                
+  Conceptualizing                      
+  Avoid                                
+  Pursuit                              
+  Exiles                               
+  Past                                 
+  Falsifikations-Test                  
+  Kapitel 11                           
+  Kapitel 28                           
+  Irreduzibilität von M                
+  Kapitel 35/36                        
+  Datenkorruption                      
+  Do-er                                
+  Infiltration                         
+  Akt 3                                
+  Linear                               
+  Landauer-Wärme                       
+  Timelock                             
+  Doing                                
+  Progress                             
+  Preconscious                         
+  Certainty                            
+  Potentiality                         
+  Being                                
+  digitalen Abwärme                    
+  Kapitel 36                           
+  Die Trennung war nie real            
+  Bewertungs-Triplets                  
+  Dialektische Vergleichsmatrix        
+  Kapitel 24                           
+  Projektions-Mapping                  
+  Parakonsistente Einheit              
+  Ist Liebe Information                
+  Schlüsselbild                        
+  Telefonat                            
+  Deus ex Machina                      
+  Korpus-Log C-001                     
+  Attraktor                            
+  Storyform Half-Life Audit Log        
+  Query Expansion Log                  
+  Reflection History                   
+  Werk-Anker                           
+  Cross-Pollination Log                
+  Single-Source-Flag                   
+  Popper                               
+
+## needs_judgement (34) — NEAR a known surface — one term or two?
+  Duale Dramatica-Storyform-Mapping  /  Dramatica near: each other
+  Dramatica  /  Dramatica Dictionary           near: each other
+  Dramatica  /  Erweiterte Dramatica-Element-Matrix near: each other
+  Kael  /  Kael/M                              near: each other
+  Kael  /  Kael-Self_Integrator                near: each other
+  Phasenraum der Beobachter-Kohärenz  /  Beobachter near: each other
+  Story-Mind  /  Mind                          near: each other
+  Gödel-Gambit  /  Gödel-Gambit Log            near: each other
+  Gödel-Gambit  /  Gödel                       near: each other
+  Stopp-Dynamik  /  Stop                       near: each other
+  Mind  /  Mind-Hacking                        near: each other
+  Juna  /  Juna/V-Vektor                       near: each other
+  Alpha  /  Alpha-Logik-Fragments              near: each other
+  Gödel-Gambit Log  /  Gödel                   near: each other
+  lebenden Gödel-Satz  /  Gödel                near: each other
+  Gödels Unvollständigkeitssatz  /  Gödel      near: each other
+  semantische Spaghettifizierung  /  Spaghettifizierung near: each other
+  Control  /  Uncontrolled                     near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Phasenraum der Beobachter-Kohärenz           near: koharenz→kohaerenz
+  Funktionaler Multiplizität                   near: multiplizitat→multiplizitaet
+  Alpha                                        near: therapieschnittstellealpha→therapie-schnittstelle-alpha
+  Resonanz                                     near: entropieresonanz→entropie-resonanz, entropieresonanzentropieresonanzprotokolleerp→entropie-resonanz, entropieresonanzprotokolle→entropie-resonanz, resonanzlandschaft→resonanz-landschaft
+  Gödel-Gambit Log                             near: godelgambit→goedel-gambit
+  Kohärenztheorie der Wahrheit                 near: koharenz→kohaerenz
+  Personal Triumph                             near: persona→personas
+  Juna/V-Vektor                                near: juna→juna
+  Kael/M                                       near: kael→kael
+  Logos-Prime                                  near: logos→logos
+  Cerberus-Labyrinth                           near: cerberus→cerberus
+  Kael-Self_Integrator                         near: kael→kael
+  Ouroboros                                    near: ouroborosstruktur→ouroboros-struktur
+  Kohärenz durch Negation                      near: koharenz→kohaerenz
+  Gödel                                        near: godelgambit→goedel-gambit
+
+## in_document_not_in_census (4) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Emergenz                             emergenz                     L31
+  Entropie                             entropie                     L15
+  Kohärenz                             kohaerenz                    L11
+  Simulation                           ueberwelt                    L17
+

@@ -1,0 +1,289 @@
+{
+  "document": "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+  "drive_id": "1ZF3KrpuzyVLy6hg2AcjvrxQc-do08Ea3BDQxbqig6HY",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of seven documents read by the session and reconciled together — readings and record entries written by six Claude readers split by page group, from Plan/runs/readings-brief-documents-33-39.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 60,
+    "decisions": 62,
+    "decided_by_lookup": 46,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A popular essay; it defines nothing the wiki lacks a page for. Its Dramatica translation is vocabulary, not the world.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "Kael’s own defense architecture externalized, the entropy it fights, a Mourning God"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "the Mourning God, calculating a union it can never feel"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "thirteen fragments, none named"
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        21
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "love outside the arrow of time, and separation as the system's temporal artifact"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        13,
+        17,
+        21
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "a categorization error in autopoietic closure, and information outside linear time"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        21,
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "love as a self-correcting loop, a Z2-Involution, and the silence of a telephone call"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        13
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "named once, as what governs the narrative fabric"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        13,
+        15,
+        17
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "the protector is the entropy, and order generates disorder"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        21
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "deletion events that make the arrow of time"
+    },
+    {
+      "page": "formel-inversion",
+      "lines": [
+        17,
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "the first sentence in English, with the German commas"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        17
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "what the Genesis-Krise shows AEGIS to be"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        29,
+        37,
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "the Melancholie as a Gambit, and Juna as the living Gödel statement"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        41
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "heat and ozone from suppression, and heat as the truth one embraces"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        29
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "the Witness-Function AEGIS tries to erase"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        17,
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "the opening image's knuckles, and AEGIS as his defence externalized"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        13,
+        17,
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "the sterile city as a K1 environment, and what AEGIS identifies itself as"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        17
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "what AEGIS functionally is"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        13,
+        25,
+        29,
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "a sterile urban construct at 21 degrees, cracking, and its image again at the end"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        13,
+        23,
+        25,
+        27,
+        28,
+        29
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "21 degrees, ozone as a byproduct of suppression, hemorrhaging knuckles, and repression as a thermal event"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "healing as a We"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "what AEGIS feared, revealed at the Ouroboros as the purest K1-Coheron"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        37,
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "a return to the city's first image, and the silence of a telephone call"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        29
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "geometric cracks, not glitches, where repressed information reaches a threshold"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "the silence of a telephone call at the end"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        17,
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "the rotation at the Ouroboros return, from Separation to Connection, with the Great Inversion its own takeaway"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        39
+      ],
+      "attribution": "the Physics of Heartbreak",
+      "note": "thirteen fragments partitioned by the phobia"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C9",
+    "C10",
+    "C11"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (worlds named for Guardians), J56/J23 (plurals), J60, J70, J74/J93, J76–J78, J86, J90, J91 (Great Inversion apart from the Truth-Rotation), J98/J99, J100–J102 (English names placed by the sentence), J104, J51",
+  "records_read_and_not_changed": {
+    "C12": "`734`, `Beat` 0",
+    "C14": "`person` 0",
+    "C15": "`Flight` 0"
+  },
+  "not_promoted": [
+    "Dramatica Translation — L33"
+  ],
+  "internal_tension": "AEGIS as „Kael’s own defense architecture externalized“ (L17), the konsolidiertes Konzept's origin (C3); the city a „K1-environment“ (L13) while AEGIS is K0; Juna the living Gödel statement (L29) where others make it Kael.",
+  "baseline_moved": true,
+  "retrieval": "measured once after documents 33–39: PageRank recall@8 0.654 → 0.644, only C11 (0.6 → 0.4)"
+}

@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,25 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel steht in Akt I, in der Heldinnenreise innen auf ihrer ersten Erweiterungsstufe, Erste Anwendung der Integration, laut der strukturierten Outline im Ki als Vertiefung, und in der Plot-Konkretisierung im Block Der zögernde Angestellte; in Storyform A trägt es die RS-Physics, Moonshine als Werkzeug, laut dem Kapitel-Kompendium das Requirement Moonshine-Bewusstsein. Kael gebraucht die Verbindung zu Juna zum ersten Mal als Werkzeug, Moonshine als Quanten-Nichtlokalität: laut der strukturierten Outline löst er ein Problem, indem er Lex' Analyse mit der intuitiven Verbindung kombiniert, laut der Plot-Konkretisierung hält er am Arbeitsplatz einen Datensatz, ohne zu klicken, und an einem Ort der Stadt wird es wärmer. Die Welt ist laut Kernwelten vollständig KW1, mit der Wohneinheit 734 als Anker und Mnemosyne als Echo, laut Kapitel-Kompendium und Storyform-Outline KW1 mit einem McL- oder Moonshine-Vorschein, laut der Konzept-Iteration die McL-Welt. Die AEGIS-Subplots lassen Kael stattdessen den Ort des früheren Risses neu besuchen, zusammengeflickt, mit Narbengewebe und Wartungsdrohnen. Die strukturierte Outline lässt die Zahl 734 somatisch wiederkehren, Juna nur durch Wirkung und Silas als latente Resonanz erscheinen und in Storyform B mit dem MC-Signpost Present die Erasure-Sweeps hörbar werden, wo das konsolidierte Konzept B latent hält; bis hierher wird die Multiplizität nicht ausgesprochen, und laut der Plot-Konkretisierung kartiert Kael ab jetzt die Wärmestellen der Stadt.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Die Hypothese der Irreduzibilität“ ^[monstergruppe-primzahlen-plot-blueprint.md:L117]
+
+- AEGIS: „Kael ist kein einfacher "Primfaktor", sondern eine fundamental irreduzible Entität“ ^[monstergruppe-primzahlen-plot-blueprint.md:L120]
+- K-J: „postuliert eine "Twin Prime"-ähnliche Beziehung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L120]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the Netzweber, a cautious Guardian-ally
+
+Title: „Resonanz im Graphen“ ^[kohaerenz-protokoll.md:L1140]
+Position: „(Fundamentales Konzept: Symmetrie (Netzwerk/Graph in McL) / Quanten-Nichtlokalität (Analogie))“ ^[kohaerenz-protokoll.md:L1142] · „(Heldinnenreise Stufe 9, Erweiterung 1: Erste Anwendung der Integration)“ ^[kohaerenz-protokoll.md:L1144]
+
+- Assignment: „Supervision durch den Netzweber, den Guardian von McL.“ ^[kohaerenz-protokoll.md:L1172]
+- The Guardian questions him: „Woher stammt dieser Zugang, Architekt?“ ^[kohaerenz-protokoll.md:L1244]
+- Confirms and grows curious: „Ihre Analyse der dualen Knotenpunkte war korrekt.“ ^[kohaerenz-protokoll.md:L1258]
+- Impressed, wary: „Beeindruckend, Architekt“ ^[kohaerenz-protokoll.md:L1280]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -31,6 +50,26 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht den Ort des vorherigen 'Risses' (aus Kapitel 7) erneut.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „Die Realität scheint zusammengeflickt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Story: „seltsame Restartefakte oder 'Narbengewebe' im Gewebe der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „spezialisierte 'Wartungsdrohnen' oder Guardian-Subroutinen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Discussion: „AEGIS' Reparaturen möglicherweise nicht perfekt sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L147]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Die Annäherung an den Neutrino-Boden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L73]
+
+- Establishes: „Je tiefer er hinabsteigt, desto geringer wird die Texturauflösung der Wände“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L73]
+- Theory: „vergleichbar mit dem Neutrino-Boden bei der Suche nach Dunkler Materie“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L73]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Juna sends a coordinate in KW2 through the Moonshine-Link
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Junas Koordinaten“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Juna: „In einem Moment extremer Erschöpfung greift der Moonshine-Link erneut.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120] · „Juna übermittelt keine Worte, sondern eine topologische Koordinate, tief verborgen in Kernwelt 2.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
+- Physics: „Die Übertragung ist ein reines ER=EPR-Phänomen; der Raum um Kael stülpt sich kurzzeitig nach innen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
+- What it establishes: „aber sie zwingt Kael, die schützende Logik von Lex aufzugeben und in die Unvorhersehbarkeit hinabzusteigen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -124,10 +163,12 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 
 ## Where the sources differ
 
+- **Title, and the Guardian as a wary ally (D47).** „Resonanz im Graphen“ ^[kohaerenz-protokoll.md:L1140] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fifth title; it agrees the world is McL and names the Guardian who supervises there, „Supervision durch den Netzweber, den Guardian von McL.“ ^[kohaerenz-protokoll.md:L1172], curious rather than hostile.
 - **World.** „Kael löst Problem in McL-Welt durch Kombination von Analyse und K-J-Verbindung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L544] (Konzept-Iteration Genesis) · „Kap 10 | KW1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L836] (Kernwelten vollständig) · „KW1/McL-Vorschein“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (Kapitel-Kompendium) · „KW1/Moonshine-Vorschein“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L315] (storyform outline).
 - **Storyform B.** „A: RS-Physics, Moonshine als Werkzeug. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980] (konsolidiertes Konzept) · „MC-S2 (B) Present beginnt einzusetzen — Erasure-Sweeps werden hörbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L469] (strukturierter Outline).
 - **The number 734.** „Die Zahl 734 taucht zum zweiten Mal auf — somatisch verankert, ohne erklärt zu werden.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L473] (strukturierter Outline, Kap 10) · „Die Zahl 734 taucht erstmals als Foreshadowing auf.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] (strukturierter Outline, its Kap 2) · „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline, its Kap 1) — counted second, after a first in Kap 2, in a document that names it in Kap 1.
 - **Title.** „Erste Anwendung der Integration“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (Kapitel-Kompendium) · „Die erste Brücke“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L542] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the strukturierter Outline's stage „HR-Erweiterung 1: Erste Anwendung der Integration“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L465].
+- **The Hard-SF-Outline.** „Junas Koordinaten“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120] (the Hard-SF-Outline, 2026-04-08) — a new title; the chapter points into KW2: „Juna übermittelt keine Worte, sondern eine topologische Koordinate, tief verborgen in Kernwelt 2.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120]
 
 ## Questions for this chapter
 

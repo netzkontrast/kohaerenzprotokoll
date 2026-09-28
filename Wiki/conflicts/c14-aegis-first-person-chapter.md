@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 21
+sources: 31
 pages: ["aegis"]
 ---
 
@@ -171,3 +171,64 @@ Its Voice-Regel, „### 4.5 Voice-Regel" ^[kohaerenz-protokoll-philosophischer-b
 Under the alter table, the other rule: „AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] — the konzept master report's L404, in its words.
 No chapter is named for either: `Kap`, `Hard-B` and `ich` stand 0 times, and its one `Ich` is not AEGIS' (L122; `05-verify-readers.txt`).
 **On no row.** Not the lock's one chapter in Kap 5–8 (rows 3 and 4), three weeks before it: an inner view in the first person wherever Storyform B is told. And on L507 the third person of rows 1 and 2, in the same document. The first rule also stands, in nearly its words, in the strukturierter Outline, which this record does not hold: „Spricht in 1. Person in Storyform B (Innensicht), erscheint in 3. Person in Storyform A (Außensicht aus Kaels Perspektive)." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117]
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
+
+**AEGIS as a column of system logs — no rule, no person, no chapter of its own.**
+A table, „System Logs (K0) vs. Sensory Hallucinations (K1)" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L48], sets „System Log (K0 - AEGIS)" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L50] beside Kael's hallucinations, with entries such as „Memory Leak detected." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L52]
+`person`, `POV` and `prose` for AEGIS stand 0 times (its one `prose` is the report's own: „We treat the prose as an operationalized narrative system" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L15]); the only chapters named are the Vortex's, 35–36 (`05-verify-readers.txt`). Row 2's form — logs — shown, not stated as a rule. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Logs only, with no exception — in a document that calls itself the binding rulebook.**
+„System communication is restricted to the" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34] AEGIS-Log Protocol, „utilizing functional metadata and strictly forbidding moral vocabulary." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34] The template follows, from `AEGIS v{X.X} // LOG` to `ENDE LOG` (L34).
+`person` and `POV` stand 0 times, and no chapter in 5–8 is named (its chapters are 35–36, 39 and 1). Row 2's side — logs, and no inner view named — on row 2's date, three weeks before the lock. The conflict stays open.
+
+## 2026-09-27 — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier
+
+**Never in prose, only the log — the worldbuilding concept's rule, in English.**
+„AEGIS never speaks in prose; it speaks in the" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L73] AEGIS-Log-Format. „Moral vocabulary (good/evil) is forbidden." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L73] „Mandatory AEGIS-Log-Template:" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L74], with German fields (L76–L92).
+`person` and `POV` stand 0 times; its chapters are act ranges (Ch. 1-13, 14-26, 27-39), with no AEGIS chapter. Row 2's side, in the words of row 7 and the worldbuilding concept, „AEGIS spricht nie in Prosa." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L259]. The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**Row 1's side, stated as a fixed point rather than a chapter rule — never a dialogue figure, in Akt I and Akt II by name.**
+Among its thirteen Fixpunkte: „AEGIS = Umgebungsbedingung:" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L221] „In Akt I-II keine Dialogfigur." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L221] In Kapitel 1–26: „AEGIS tritt ausschließlich als Hitze, Ozon, Architektur-Verschiebung und Schwerkraftanomalie auf." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L221] Even in Kapitel 32, where Kael reaches its seat: „AEGIS manifestiert sich als eine fraktale, tragische Naturgewalt, die in einer endlosen SARM-Rekursion […] gefangen ist." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184] `Log` and `Person` stand 0 times; `Prosa` once, for the report's own „Prosa-Outline" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L15], never AEGIS'; `Dialogfigur` once, in the fixed point itself (`05-verify-readers.txt`). Row 1's side, three to seven weeks before the character bible and the lock — a rule narrower than „never" only in naming the acts it covers, with no Kap 5–8 exception stated.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Row 2's side, months early — a closing log report, and the only chapter that could carry a voice for AEGIS is a status format, not prose.**
+Kapitel 39, „Statusbericht – Zielkohärenz erreicht" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139]: „Der Roman schließt nicht mit einem traditionellen Epilog, sondern mit einem maschinellen AEGIS-Systembericht, generiert aus dem Post-Quantum-Zustand." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139] „Die Form ist striktes K1-Protokoll" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139], and the report itself: „Das System meldet: „Zielkohärenz v2.0 erreicht. Residuale Entropie innerhalb der lebensnotwendigen Parameter.““ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139]
+`Ich` never stands for AEGIS and no chapter 5–8 is named for it (its Kap 5 is „Das Halteproblem und das Nichts-Rauschen" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L63], about the Wächter-drones). A report is a log, not an inner view; nearest row 2, on the earliest date of any read source in this record.
+
+## 2026-09-27 — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+**No rule stated either way — and one chapter's summary offers AEGIS an interior it never confirms in prose.**
+Kapitel 9, „AEGIS' Analyse-Krise" ^[monstergruppe-primzahlen-plot-blueprint.md:L107]: „Interne Monologe oder Darstellungen seiner Verarbeitungsprozesse zeigen seine Verwirrung und Frustration." ^[monstergruppe-primzahlen-plot-blueprint.md:L110] This is a plot summary's suggestion of technique — „Monologe oder Darstellungen" ^[monstergruppe-primzahlen-plot-blueprint.md:L110] — not a stated first person, and the document names no chapter range, no lock and no lens word for it (`Person`, `Prosa` 0; the document's one `ich` is Kael's, at Kapitel 2 — `05-verify-readers.txt`). Neither row: the oldest read source, before any lock, offering the possibility without committing to it.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**The MC's subjective `I` perspective in Storyform B, as a Dramatica position — no grammatical person, prose voice, log or chapter named for AEGIS.**
+Its falsification finds „dass ein autopoietisches System die MC-Position (die subjektive" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L27] `I`-Perspektive) „legitim einnehmen kann" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L27]; H1's steelman: „Das Steelmanning dieser Position argumentiert, dass ein künstliches System die subjektive" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L41] `I`-Perspektive „tragen kann" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L41]. Its check: „AEGIS operiert legal und konsistent als subjektives Zentrum in der Universe-Domain" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L117]. It rejects a façade carrying that perspective — H3, „indem eine fokussierte" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L57] `I`-Perspektive „durch einen Avatar ermöglicht wird" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L57]; „Das Verdikt für Hypothese H3 lautet: Verworfen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L61]
+`Person`, `Innensicht` and `Kap` stand 0 times; its `Log` and `Logs` are its own method logs (L349, L365, L420), and neither `Prosa` is AEGIS' (L272, L417; `05-verify-readers.txt`). Its verdicts are its own, recorded, not applied.
+On no row as stated: it names the perspective the MC throughline carries, not the person the prose is told in, and relates it to no chapter and no log. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**The MC's subjective „I"-position, argued from algorithmic loneliness rather than -2's abstract Dramatica rule — no grammatical person, prose voice, log or chapter named for AEGIS.**
+„Das System "leidet" unter algorithmischer Einsamkeit, was eine ausreichende phänomenologische" ^[dramatica-storyform-synthese-aegis-analyse.md:L35] `I`-Position „konstituiert." ^[dramatica-storyform-synthese-aegis-analyse.md:L35] Its verdict: „Das Verdikt für diese Hypothese lautet: **Überlebt**." ^[dramatica-storyform-synthese-aegis-analyse.md:L35]
+`Person`, `Innensicht` and `Kap` stand 0 times in it; its three `Log` are its own method logs, and its one `Prosa` is not AEGIS' (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`). Its verdicts are its own, recorded, not applied.
+On no row as stated, the same day as its sibling document above: it argues the MC throughline can carry a subjective centre from AEGIS' own experience of isolation rather than from Dramatica's abstract rule, and names no chapter, log or grammatical person for it. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Never `ich` for AEGIS — no chapter of its own, no exception — and, past the Genesis, no chapter gives it an inner view either; only capitalised system text.**
+In the prologue's Genesis the fragment that becomes AEGIS is narrated with an inner view, in the third person, up to the moment it is named: „Die Existenz innerhalb des Systems – AEGIS – ist nun anders." ^[kohaerenz-protokoll.md:L91] Once the chapters begin, AEGIS never again carries a narrated inside: it speaks only as system text, in capitals — „AEGIS PROTOKOLL V1.5 AKTIV." ^[kohaerenz-protokoll.md:L635] and again at L693 — and the narrator otherwise follows [[kael|Kael]].
+`Person`, `Prosa`, `Log`, `Innensicht` and `Hard-B` stand 0 times, and neither `ich` (3) nor `Ich` (33) is ever AEGIS' own — all [[kael|Kael]]'s or the Genesis-fragment's before it is named (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`).
+Nearest rows 1 and 2 — third person, no exception — and closer still to row 5's AEGIS with no inside at all: once AEGIS is named, this document gives it none, where its own Genesis had. No chapter in Kap 5–8 exists in this document's numbering (Kapitel 1–12, 14–23) to carry the lock's exception either way. The conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**No voice rule: third-person truth is K0's epistemic mode, not a narrated person, and Kael and AEGIS never in verbal dialogue.**
+The two kernel-logics are given a kind of truth each, not a narrated person: K1, Kael's storyform, is „das Primat der Ersten-Person-Wahrheit" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L68]; K0, AEGIS' storyform, „dominiert die Thermodynamik, der irreversible Zeitpfeil, die Dritte-Person-Wahrheit und die reine, kalkulierende Funktion" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L116] — an epistemic mode; the document never assigns AEGIS a grammatical person in prose. And no dialogue crosses between them at all: „Kael und AEGIS kommunizieren an keiner Stelle des Werks durch direkten verbalen Dialog miteinander." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L17]
+`Innensicht`, `Hard-B` and `Prosa` stand 0 times, `Kap` on no line naming Kap 5–8 (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). On no row: it names no chapter, no narrated voice for AEGIS and no first-person exception. The conflict stays open.

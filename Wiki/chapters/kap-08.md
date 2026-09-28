@@ -1,9 +1,9 @@
 ---
 chapter: 8
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
-records: ["C14", "Q4"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
 
@@ -22,6 +22,25 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Wiedergeburt, der Heilung des Männlichen im Inneren, laut der strukturierten Outline im Ki als Vertiefung, in KW1; die Plot-Konkretisierung legt es in ihre Blöcke Die andere Seite des Schalters und Der zögernde Angestellte. Kael beginnt Mitgefühl zu fassen: laut der strukturierten Outline mit seinen logisch-kontrollierenden Anteilen Lex und Alex, laut der Plot-Konkretisierung mit dem Apparat, wenn er nach Dienstschluss bleibt und ausgeglichene Bestände liest, nicht um zu retten, sondern um anzusehen; die AEGIS-Subplots lassen ihn stattdessen eine traumatische Erinnerung abrufen, die verschwommen oder gedämpft ist, vielleicht weil ein Guardian wie Mnemosyne seine Gedanken umlenkt. Laut der strukturierten Outline tritt die Wächterin-Funktion als Selene erstmals auf und vermittelt, ohne zu kämpfen; die Plot-Konkretisierung kennt die Wächterin nur als Stufe. Mehrere Quellen setzen hier die erste Andeutung einer Wir-Stimme und die erste interne Lüftung des Schleiers ohne Klartext, im Licht, das durch Architektur fällt. In Storyform A trägt das Kapitel den MC-Issue, Mitgefühl mit Schutz-Funktionen, in Storyform B beginnt die RS-Psychology sichtbar zu werden; die Plot-Konkretisierung sieht hier die erste Pursuit-Vorform, die das konsolidierte Konzept früher ansetzt, und zählt das Kapitel zu den möglichen Orten des Hard-B-Kapitels.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Die M-Resonanz Welle“ ^[monstergruppe-primzahlen-plot-blueprint.md:L97]
+
+- Establishes: „löst eine massive Resonanzwelle in Kael aus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L100]
+- Kael's arc: „Dies markiert einen wichtigen Schritt in Richtung des Midpoints seines Charakterbogens“ ^[monstergruppe-primzahlen-plot-blueprint.md:L102]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — IFS by name, and Kael speaks as Selbst
+
+Title: „Dialog im Inneren Garten“ ^[kohaerenz-protokoll.md:L861]
+Position: „(Fundamentales Konzept: Internal Family Systems (IFS) – Heilung des Managers)“ ^[kohaerenz-protokoll.md:L863] · „(Heldinnenreise Stufe 8: Wiedergeburt (Heilung des Männlichen im Inneren))“ ^[kohaerenz-protokoll.md:L865]
+
+- Voice shifts to the Selbst: „*Das Selbst*, dachte er“ ^[kohaerenz-protokoll.md:L873]
+- The Manager admits an earlier severing: „Als… als M dissoziiert wurde.“ ^[kohaerenz-protokoll.md:L911] · „Ich war… eine logische Subroutine. Entwickelt zur Mustererkennung und Analyse.“ ^[kohaerenz-protokoll.md:L915]
+- Kael speaks as Selbst to the parts: „Du musst das nicht allein tun“ ^[kohaerenz-protokoll.md:L947], said by „Kael (Selbst)“ ^[kohaerenz-protokoll.md:L947]
+- A Wächterin named beside Juna's light, in a list of three: „Die Wächterin, das Licht von Juna“ ^[kohaerenz-protokoll.md:L987]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -31,6 +50,33 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht, auf eine spezifische traumatische Erinnerung zuzugreifen oder sie abzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „nicht vergessen, aber vielleicht 'verschwommen', 'korrumpiert' oder emotional 'gedämpft'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „vielleicht interveniert ein Guardian wie Mnemosyne subtil, um Kaels Gedanken umzulenken“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120] · „Kael könnte 'Lücken' oder Inkonsistenzen in seiner eigenen Erzählung finden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Russellsche Trümmer und das Holographische Trauma“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L69]
+
+- Establishes: „Es handelt sich um verwaiste Datenpakete, die aufgrund der Russellschen Antinomie“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L69]
+- Heat (C11): „Das Landauer-Prinzip greift erneut massiv ein: Hitze entlädt sich, Kael übergibt sich physisch“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L69]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the fight with Nyx ends in a stalemate, and Alex takes over
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Spiegelneuronen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L114]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Story: „Der Kampf gegen Nyx endet nicht mit Vernichtung, sondern mit einer erzwungenen Pattsituation.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116] · „Durch einen kurzen, physischen Kontakt erfährt Kael einen Blitz von Nyx' emotionaler Last: reine, unverdünnte Scham.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116]
+- Who: „Alex, der soziale Protektor, übernimmt kurzzeitig, um die Situation durch Deeskalation zu entschärfen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116]
+- Reader's view: „hinterlässt den Leser jedoch in tiefer Desorientierung bezüglich der Natur des Protagonisten“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116]
+- Checklist, Fixpunkt 13, for Kapitel 8 and 11: „Plötzliche Kompetenzwechsel (Alex' Diplomatie, Isabelles Regeltreue) wirken erst wie Alien-Tech, demaskieren sich später als Alter-Switches.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L227]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — one entry shared with Kap 18
+
+A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
+
+- Werk-Beleg for Storyform A's MC Resolve Change: „Die Entwicklung des „Kael-Self\_Integrator“ und die Heilung innerer Konflikte in Kapitel 8 und 18.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L100] — one entry for both chapters, not a reading of Kapitel 8 alone.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -126,11 +172,14 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
+- **Title, and a Wächterin beside Juna's light (D47).** „Dialog im Inneren Garten“ ^[kohaerenz-protokoll.md:L861] (the Kohärenz-Protokoll narrative, 2025-04-27) — a third title; it names a Wächterin in a list beside Juna's light and the Selbst's wisdom, „Die Wächterin, das Licht von Juna“ ^[kohaerenz-protokoll.md:L987] — whether she is Juna, the text does not say (Q4; beside Selene and an unbound stage). No `Hitze` in this chapter or anywhere in the document (C11; `Plan/runs/kohaerenz-protokoll/05-verify.txt`).
+- **A third Landauer-heat chapter.** „Das Landauer-Prinzip greift erneut massiv ein: Hitze entlädt sich“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L69] (the Ultra-Plot, Kapitel 8) — Hitze from an erasure, before either Kap 6 or Kap 36 (C11).
 - **Compassion with what.** „Kael beginnt, die logischen/kontrollierenden Anteile (Lex, Alex) mit Mitgefühl zu sehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L425] (strukturierter Outline) · „Erste Pursuit-Vorform; Mitgefühl mit dem Apparat (Wächterin-Stufe“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung) — his own logical parts, or the apparatus.
 - **The Wächterin.** „Kael, Wächterin-Funktion (Selene) sichtbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L417] (strukturierter Outline) · „Mitgefühl mit dem Apparat (Wächterin-Stufe“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung) — a function borne by Selene, or a stage with no bearer. (Q4)
 - **First Pursuit.** „Erste Pursuit-Vorform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung, Kap 8) · „A: MC-Solution Pursuit erste Andeutung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] (konsolidiertes Konzept, its Kap 6).
 - **First style shift.** „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834] (Kernwelten vollständig, Kap 8) · „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium, its Kap 2).
 - **Title.** „Wiedergeburt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L197] (Kapitel-Kompendium) · „Die Wächterin“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L534] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the others' stage „HR-Stufe 8: Wiedergeburt — Heilung des Männlichen im Inneren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L417].
+- **The Hard-SF-Outline.** „Spiegelneuronen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L114] (the Hard-SF-Outline, 2026-04-08) — a new title; Kael's contact is with Nyx's shame, „Durch einen kurzen, physischen Kontakt erfährt Kael einen Blitz von Nyx' emotionaler Last: reine, unverdünnte Scham.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116], and the one who takes over is Alex.
 
 ## Questions for this chapter
 

@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 16
-readings: 16
+sources: 27
+readings: 27
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-24"
 ---
 
@@ -102,3 +102,52 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — EP, Ambivalent, Superposition
 
 Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia (Ambivalent), Isabelle (Sexualisiert), Moros (Kollaps)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466] Her row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „EP | Lia (Ambivalent) | Superposition | → verlässt Superposition" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L498]. Her label is `Ambivalent`; `Flight` stands nowhere in the document (`grep -cw Flight`: 0) (C15). Nothing else in the document names Lia (`grep -cw Lia`: 2; `05-verify-readers.txt`).
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — a somatic seed: static on the skin
+
+In the section „OPEN-Q: Post-Vortex & Missing Somatics" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L130] — one of the five whose somatics it calls missing — a seed, a proposal: „Seed-19 Lia: The Static Prickle" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L134]: „"Prickling static" on the skin when system-truths are spoken." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L135] It is not the character bible's somatics (above). Nothing else in the document names Lia (`grep -cw Lia`: 1), and `Flight` stands nowhere in it (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15).
+
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — a seed: phantom resonance, the carrier of somatic pain
+
+One of the four seeds for the missing alters (L79) — a proposal, marked as compatible with a 2026-05-08 canon block, its claim: „Seed-08 Lia’s Phantom Resonance" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L81]. „A searing phantom itch in a limb that was never there, accompanied by sympathetic vibrations in nearby glass." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L81] „Establishes Lia’s role as the carrier of somatic pain." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L81] Its index: „Lia as somatic resonance alter." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L104] The Companion Guide gives the words `Phantom Resonance` to Silas (on his page). Nothing else in the document names Lia (`grep -cw Lia`: 2), and `Flight` stands nowhere in it (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a gap: the somatic profile of creativity
+
+In its somatic gaps, with Isabelle: „Their roles in the "Logic Hack" and "Empathy Exploit" require somatic anchors" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L166]; „Lia needs the somatic profile of creativity" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L166]. Nothing else in the document names Lia (`grep -cw Lia`: 1; `Flight` 0) (C15).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — EP (Ambivalent), and the spatial Riss alone
+
+Her row in its table of thirteen fragments: „EP (Ambivalent) | Lia | Superposition | Bauchreaktionen | Resolve Superposition" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] — the German word as written. The spatial Riss is hers, with no second bearer: „Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78] `Flight` stands nowhere in the document (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15). Nothing else names Lia (`grep -cw Lia`: 2).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Superposition, dissociative drifting
+
+Her row, in a table with no category column: „Lia,Superposition,Dissociative drifting,Leaving Superposition" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L74]. Nothing else in the document names Lia (`grep -cw Lia`: 1; `Flight` 0) (C15).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — EP, a core EP of the first layer
+
+„EP | Lia | Superposition | Ambivalence, sensory blur ; Arc: Leaving the "neither/both" state." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] — no label beside `EP`. Of Layer 1, Cologne: „forcing the creation of the core EPs (Kiko, Lia, Moros)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] Nothing else in the document names Lia (`grep -cw Lia`: 2; `Flight` 0) (C15).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Ambivalent, spatial disorientation
+
+Her row: „Lia (Ambivalent) | Superposition | Spatial disorientation; feeling "stretched." | Marks the struggle to choose a state." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] — spatial in her somatics; the document has no Riss table (`Riss`, `Risse` 0) and no `Flight` (0) (C15). Nothing else names Lia (`grep -cw Lia`: 1; `05-verify-readers.txt`).
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — one of the child parts KW3 exists to shield
+
+An English essay, no hedging. Named once, with Kiko, as one of KW2's residents: „shield the vulnerable child parts (EPs) like Kiko and Lia, who reside in the swampy, undefended landscape of KW2" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L57]. No `Flight` stands in the document (`05-verify.txt`) (C15). Nothing else in the document names Lia (`05-verify.txt`).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — a Kaleidoskop-Herz whose core function names Flucht
+
+A compilation that audits its sources and marks its own gaps — recorded, not applied.
+**Function, and the word `Flucht` in her own definition.** „„Kaleidoskop-Herz“; trägt Trauma bezüglich Vertrauen; ständige Flucht-Annäherung-Ambivalenz." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L199] Its own Kernfunktion names flight as one half of her ambivalence (C15).
+**Correlate.** „Quantensuperposition & Verschränkung." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L207] No somatic marker is filled in: „\[Fehlt in den Dokumenten - Lücke\]" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L211].
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — EP, the dreamer who leads through the paraconsistent archive in Kapitel 18
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. Her row, category `EP`: „Die Ambivalente / Träumerin." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L57] „Flucht in Kreativität und parakonsistente Realitäten." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L57]
+Kapitel 18, in KW2: „Lia, die ambivalente Träumerin, übernimmt die kognitive Führung." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146] „Sie lehrt Kael, zwei absolut gegensätzliche Überzeugungen gleichzeitig zu halten" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146] — so that they can pass through walls. Lia stands on these two lines only, and `Flight` nowhere (`grep -cw Lia`: 2, `grep -cw Flight`: 0; `05-verify-readers.txt`); her row's word is `Flucht`, into creativity, not a Riss trigger (C15).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the eleven-alter roster's Ambivalent EP, and `Flucht` beside Kiko
+
+An English file of about fourteen reports of 2025. Lia stands in the Blueprint's and the Assessment's eleven-alter tables and not in the eight-alter tables of the Guide, the Framework or `An Architecture of the Self` (see [[alters]]). The Blueprint: „Lia | EP (Child/Ambivalent-Reaktion) - Holds trauma related to trust and attachment." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L850] „Motivation: Seek connection but flee from intimacy." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L850] „Fear: Vertrauensbruch (Breach of trust), being trapped." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L850] „Has a complex, playful but fearful relationship with Rhys and Juna/V. In conflict with Isabelle's use of intimacy as control." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L850]
+
+**The Assessment's table gives her `Flucht`, beside [[kiko|Kiko]]'s.** „Lia | EP (Kind/Ambivalenz/Flucht) | Träger von Vertrauensbruch/Ambivalenz | Nähe-Distanz-Konflikte, Unvorhersehbarkeit, Verletzung" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1616] — `Flight` itself stands 0 times in the document (`grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md`: 0; `grep -ciw`: 11) (C15).

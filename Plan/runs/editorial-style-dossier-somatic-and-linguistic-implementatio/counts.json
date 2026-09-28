@@ -1,0 +1,909 @@
+{
+  "document": "editorial-style-dossier-somatic-and-linguistic-implementatio",
+  "drive_id": "1R8Mf5LGmyQSSAXAw4mIqrhzwKQcgvW0tOPoOtSREnjI",
+  "step": "counts",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Amnesia vs. Menu"
+  ],
+  "counts": {
+    "Dual-Storyform": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Dual-Kernel Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "DKT": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        19,
+        49,
+        50,
+        51,
+        99
+      ]
+    },
+    "Storyform A": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Heuristics of Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Storyform B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Phoenix Collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "AEGIS": {
+      "n": 13,
+      "n_including_compounds": 15,
+      "lines": [
+        15,
+        19,
+        42,
+        45,
+        62,
+        71,
+        73,
+        74,
+        76,
+        98,
+        102
+      ]
+    },
+    "5D interference": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "K1-Substrate": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        101
+      ]
+    },
+    "amnesic terror": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        49
+      ]
+    },
+    "somatic filter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        19
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kohärenz-Kernel (K1)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kollaps-Kernel (K0)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Thermodynamics of the Body": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        17
+      ]
+    },
+    "Truth-Rotation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Landauer Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Erasure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        38
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        36,
+        38
+      ]
+    },
+    "Landauer Spike": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "ozone": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        99
+      ]
+    },
+    "bleeding knuckles": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "truth-meter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "DKT-Correlate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Primary Somatic Signature": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Kael (Host)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        49
+      ]
+    },
+    "Hubble Volume": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        49
+      ]
+    },
+    "Universal Reboot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Lex (Rationalist)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Lex": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        27,
+        34,
+        58
+      ]
+    },
+    "Rhys (Caregiver)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Nyx (Fight)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Nyx": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        29,
+        34,
+        58
+      ]
+    },
+    "Alex (Protector)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Alex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        29
+      ]
+    },
+    "Selene (ISH)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Kiko (Freeze)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Lia (Ambivalent)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Isabelle (Sexualized)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        50
+      ]
+    },
+    "Isabelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        50
+      ]
+    },
+    "Moros (Collapse)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Dragon Fight": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Argus (Meta-Kog)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Argus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        51
+      ]
+    },
+    "Silas (Spiegel)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Silas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        42,
+        44
+      ]
+    },
+    "Coheron-Echo": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        44
+      ]
+    },
+    "Oblivion (Spiegel)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Oblivion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        42,
+        45
+      ]
+    },
+    "Erason-Operator": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        45
+      ]
+    },
+    "Juna": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        30,
+        42,
+        44,
+        62,
+        66,
+        102
+      ]
+    },
+    "KW1–KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Computational-Class-Progression": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Class P": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        27,
+        34
+      ]
+    },
+    "Paraconsistent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "NP-Hard": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        34
+      ]
+    },
+    "EP-Protectors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "staccato parataxis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        58
+      ]
+    },
+    "hypotactic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Generative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "KW4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        30
+      ]
+    },
+    "Wir-Stimme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        59
+      ]
+    },
+    "We-Voice": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        59
+      ]
+    },
+    "Syntax Cheat Sheet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Linguistic Mandate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "EPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        38
+      ]
+    },
+    "Spiegel Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Vertical Symmetry Bridge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Individual Holon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Cosmic Holon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Automaton": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        45
+      ]
+    },
+    "Kael": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        19,
+        34,
+        38,
+        42,
+        44,
+        49,
+        55,
+        69,
+        102
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        59
+      ]
+    },
+    "Strange Attractor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        102
+      ]
+    },
+    "Act I": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        45,
+        57,
+        58,
+        59
+      ]
+    },
+    "Multiplicity Veil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Act II": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        58,
+        59
+      ]
+    },
+    "The Bleeding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Cache-Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Act III": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        59
+      ]
+    },
+    "The Chorale": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Ouroboros Ending": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Ouroboros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "MI-Substrate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Mutual Information": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        101
+      ]
+    },
+    "The Witness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Zero-Knowledge-Verifier": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Phantom-Resonances": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Phone-Silence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        101
+      ]
+    },
+    "Tragic God": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "AEGIS-Log-Format": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "AEGIS-Log-Template": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "SYSTEM\\_KAEL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "JUNA\\_VEKTOR": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "PARADOX\\_INDEX": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "MASSNAHME": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Chiang-Egan": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Somatic Priority": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Coherons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Erasons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "The Silence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Deus Ex Machina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Dialetheia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    }
+  }
+}

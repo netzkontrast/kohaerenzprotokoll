@@ -1,0 +1,166 @@
+{
+  "document": "m-als-fundament-der-simulation",
+  "drive_id": "1HEsBOGeKWQhC76isps5jKunHbKLFyw5xqvkmrn-RLXw",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of three documents reconciled together (documents 44–46) — readings and record entries written by four Sonnet readers split by page group from Plan/runs/readings-brief-documents-44-46.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 97,
+    "decisions": 95,
+    "decided_by_lookup": 68,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Document 43's companion: a blueprint on the Monstergruppe as the simulation's physics, in beats, naming no figure but Kael and AEGIS and no world. The Monstergruppe stays unpaged, as for document 43.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        60,
+        68,
+        69,
+        72,
+        459
+      ],
+      "attribution": "",
+      "note": "existing by negation of the Potentialmeer, fighting its own structure, possibly a VOA construct that misread its purpose"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        82,
+        164,
+        262,
+        269
+      ],
+      "attribution": "",
+      "note": "protector parts against AEGIS' own analysis, and AEGIS' executive organs, in one document without relating the two"
+    },
+    {
+      "page": "did",
+      "lines": [
+        82
+      ],
+      "attribution": "",
+      "note": "DIS-like, but a stress response to AEGIS' analysis rather than a mapping of M"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        60,
+        69,
+        218,
+        474
+      ],
+      "attribution": "",
+      "note": "the companion of the Primzahl-Blueprint: emergent complexity AEGIS underestimated in its own foundation, a K-J channel invisible to it, and temporary entities the M-rules alone produce"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        164,
+        194,
+        239,
+        258,
+        262,
+        269,
+        670
+      ],
+      "attribution": "",
+      "note": "AEGIS' executive organs, tested against Kael and neutralised with him"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        82,
+        83,
+        279
+      ],
+      "attribution": "",
+      "note": "a DIS-like fragmentation as an IFS stress response to AEGIS' own analysis, not a mapping of M"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        42,
+        72,
+        112,
+        168,
+        172,
+        194,
+        239
+      ],
+      "attribution": "",
+      "note": "AEGIS' isolated test chambers, run on the Monstergruppe's own symmetries, with a Guardian inside each"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        17,
+        27,
+        42,
+        84,
+        93,
+        384
+      ],
+      "attribution": "",
+      "note": "the companion of the Primzahl-Blueprint: the K-J connection a Moonshine-artige signature inherent to M, and its mathematics the Monster group's automorphisms"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        68,
+        113,
+        417,
+        648
+      ],
+      "attribution": "",
+      "note": "AEGIS existing by negation of it, and its chaos an unknowable background M is drawn from"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": [
+      16,
+      120,
+      303,
+      316,
+      499,
+      512,
+      550,
+      676
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C3",
+    "C4",
+    "C6"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q4",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J110 (K-J-Verbindung on moonshine-link), J111 (J on juna), J20, J9, J56/J23, J51",
+  "not_promoted": [
+    "Monstergruppe (M), M-Fundament, M-Substrat — L15–L28, on moonshine-link, potentialmeer, kern-welten",
+    "Paradox-Maschine, Anti-Resonanz, M-Kern-Zugriff, M-Schnittstelle — one beat each",
+    "the AI-control vocabulary (Reward Hacking, Outer and Inner Alignment) and IFS — borrowed"
+  ],
+  "internal_tension": "Alters are Kael's protector parts (L82) and AEGIS' executive agents beside the Guardians (L164, L260) and it never relates the two; J's nature is left among three options (L384); its ending between integration and separation (L550).",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 44–46: PageRank recall@8 0.660 → 0.660, seeds 0.466; no case moved"
+}

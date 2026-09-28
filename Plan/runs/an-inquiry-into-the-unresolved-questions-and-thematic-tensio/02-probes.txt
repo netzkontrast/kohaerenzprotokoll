@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      930
+  typographic marks      192
+  ascii quotes           1222
+
+# inflection families -- one term, several surfaces
+  inter    Inter, Interactions, Interior, Internal, Internally, Internes, Interpretation, Interrogating
+  analy    Analyse, Analysis, Analyst, Analytical, Analytiker, Analytischer, Analyzing
+  integ    Integrated, Integration, Integrationspotenzial, Integrative, Integrator, Integrity
+  emoti    Emotion, Emotional, Emotionale, Emotionen, Emotions
+  archi    Archipel, Archipelago, Architecture, Archivar
+  funct    Function, Functional, Functionally, Functions
+  logic    Logic, Logical, Logician, Logics
+  opera    Operates, Operating, Operational, Operationally
+  phobi    Phobia, Phobias, Phobic, Phobie
+  prote    Protection, Protector, Protects, Protektor
+  psych    Psycho, Psychodrama, Psychological, Psychology
+  respo    Responders, Response, Responsibility, Responsible
+  aggre    Aggression, Aggressive, Aggressor
+  alter    Alter, Alternatively, Alters
+  avoid    Avoidance, Avoidant, Avoided
+  class    Class, Classical, Classification
+  coher    Coherence, Coherences, Coherent
+  contr    Contradiction, Contradictory, Control
+  defin    Defines, Definition, Definitive
+  diale    Dialectic, Dialetheic, Dialetheical
+  disso    Dissociation, Dissociative, Dissoziation
+  emerg    Emergence, Emergency, Emergent
+  exist    Existence, Existential, Existenzielle
+  exper    Experience, Experiences, Experiencing
+  explo    Exploit, Explorative, Explosion
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  Deep < Deeply
+  Each < Breach
+  Fate < Fates
+  Fear < Fears
+  File < Profile
+  File < Profiles
+  Flaw < Flaws
+  Flaw < Flawed
+  Hold < Holds
+  Hold < Holding
+  Just < Justice
+  Kern < Kernwelt
+  Kern < Kernwelten
+  Laws < Flaws
+  Meta < Metaphysical
+  Meta < Metanarrative
+  Note < Fußnoten
+  Note < Footnotes
+  Nähe < Todesnähe

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      2
+  backslash escapes      192
+  typographic marks      58
+  ascii quotes           58
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalytiker, Systemarchitektur, Systeme, Systemfehler, Systemkontrolle, Systems
+  archi    Archipel, Architecture, Architekt, Architektin, Architektur, Archivar
+  analy    Analyse, Analysis, Analytiker, Analytisch
+  besch    Beschleunigte, Beschreibungen, Beschützer, Beschützt
+  bezie    Beziehungen, Beziehungsdynamiken, Beziehungsmatrix, Beziehungsstruktur
+  integ    Integration, Integrationspotenzial, Integrator, Integrity
+  kriti    Kritik, Kritiker, Kritisch, Kritische
+  traum    Trauma, Traumagefühle, Traumas, Traumata
+  wider    Widerspruch, Widerspruchs, Widerspruchsfreiheit, Widersprüche
+  alter    Alter, Alterpersönlichkeit, Alters
+  ambiv    Ambivalent, Ambivalentes, Ambivalenz
+  antei    Anteil, Anteile, Anteilen
+  bindu    Bindung, Bindungsaufbau, Bindungsstil
+  chara    Character, Charakter, Charakterentwicklung
+  dokum    Dokumentation, Dokumente, Dokumenten
+  fehle    Fehlende, Fehler, Fehlern
+  kontr    Kontrolle, Kontrollverlust, Kontrollwaffe
+  krise    Krise, Krisenanalyse, Krisenmanagement
+  proto    Protokoll, Protokolle, Prototyp
+  psych    Psychodynamik, Psychologie, Psychologische
+  schut    Schutz, Schutzauftrag, Schutzobjekte
+  somat    Somatische, Somatischen, Somatischer
+  unkla    UNKLAR, Unklar, Unklarheit
+  unter    Unterdrücken, Unterdrückung, Unterentwickelte
+  aegis    AEGIS, Aegis
+
+# substring pairs -- never one term, often merged by accident
+  ALEX < Alex
+  Eine < Seine
+  JUNA < Juna
+  JUNA < Junas
+  Juna < Junas
+  KIKO < Kiko
+  Kael < Kaels
+  Kind < Kindheitstrauma
+  Meta < Metadaten
+  Meta < Metaphern
+  Nähe < Annäherung
+  Sich < Einsicht
+  Sich < Sicherheit
+  Sich < Sicherstellen
+  Welt < Kernwelten
+  Über < Überleben
+  Über < Überflutung
+  Über < Überwindung
+  Über < Überfürsorge
+  Über < Überwältigung

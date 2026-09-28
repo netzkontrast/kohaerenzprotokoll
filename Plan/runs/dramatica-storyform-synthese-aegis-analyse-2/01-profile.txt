@@ -1,0 +1,14 @@
+# dramatica-storyform-synthese-aegis-analyse-2
+  lines                524  (frontmatter ends at 9)
+  body words           8002
+  headings             36   bold-only lines 0
+  table rows           72   code fences 0
+  question marks       9
+  backslash escapes    258
+  typographic marks    100   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    66
+  repeated labels      none
+  longest line         1243 chars
+

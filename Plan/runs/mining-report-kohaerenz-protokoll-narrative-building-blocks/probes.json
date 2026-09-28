@@ -1,0 +1,201 @@
+{
+  "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+  "drive_id": "1qdmCYuyitY9fZs7fRaKXRH5H8LF09S7m6wDPuwla-lk",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 5,
+  "typographic_marks": 40,
+  "ascii_quotes": 268,
+  "inflection_families": {
+    "archi": [
+      "Archipel",
+      "Archipelago",
+      "Architecture"
+    ],
+    "contr": [
+      "Contradiction",
+      "Contradictions",
+      "Control"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrator"
+    ],
+    "logic": [
+      "Logic",
+      "Logical",
+      "Logically"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithms"
+    ],
+    "avoid": [
+      "Avoidance",
+      "Avoidant"
+    ],
+    "conne": [
+      "Connection",
+      "Connects"
+    ],
+    "diale": [
+      "Dialetheia",
+      "Dialetheic"
+    ],
+    "drama": [
+      "Dramatize",
+      "Dramatizes"
+    ],
+    "drive": [
+      "Driver",
+      "Drives"
+    ],
+    "explo": [
+      "Exploit",
+      "Explosion"
+    ],
+    "final": [
+      "Final",
+      "Finale"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelian"
+    ],
+    "journ": [
+      "Journalist",
+      "Journey"
+    ],
+    "kanon": [
+      "KANON",
+      "Kanon"
+    ],
+    "parai": [
+      "Paraiya",
+      "Paraiyas"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychology"
+    ],
+    "relat": [
+      "Relationality",
+      "Relationship"
+    ],
+    "somat": [
+      "Somatic",
+      "Somatics"
+    ],
+    "story": [
+      "Story",
+      "Storyform"
+    ],
+    "strat": [
+      "Strategic",
+      "Strategically"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ],
+    "trans": [
+      "Transcendent",
+      "Transition"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dist",
+      "Distanz"
+    ],
+    [
+      "Dist",
+      "Distillation"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Main",
+      "Maintaining"
+    ],
+    [
+      "Seed",
+      "Seeds"
+    ],
+    [
+      "Fight",
+      "Firefighter"
+    ],
+    [
+      "Final",
+      "Finale"
+    ],
+    [
+      "Gödel",
+      "Gödelian"
+    ],
+    [
+      "KANON",
+      "Kanon"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Logically"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Story",
+      "Storyform"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Forces",
+      "Enforces"
+    ],
+    [
+      "Psycho",
+      "Psychology"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "VORTEX",
+      "Vortex"
+    ],
+    [
+      "Logical",
+      "Logically"
+    ],
+    [
+      "Logical",
+      "Ontological"
+    ]
+  ]
+}

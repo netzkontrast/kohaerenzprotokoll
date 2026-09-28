@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 20
-readings: 20
+sources: 29
+readings: 29
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -153,3 +153,41 @@ His row among the thirteen, category `Spiegel`: „Silas (Juna-Echo) | Coheron-E
 On the axis (J86): „Vertikale Achse rechts: Juna ↔ Silas." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L671] „Wenn Juna auf Kosmos-Ebene als Coheron operiert, operiert Silas auf Individual-Ebene als Coheron-Echo." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L671] Opposite Oblivion: „AEGIS↔Juna ist die ANP↔Witness-Spannung auf Kosmos-Ebene, Oblivion↔Silas dieselbe Spannung auf Individual-Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L383] Juna has no copy on that level, „statt dessen wirkt Juna durch Silas (Spiegel-Pol)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L646]
 He tells in the first person, as all thirteen do: „Alle 13 erzählen in der 1. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507]
 No line that names Silas names warmth, heat, Landauer or ozone, and the document has no `warm` or `Wärme` at all (`05-verify-readers.txt`) (C11).
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — a somatic seed: the Gamma hum in the bones, no warmth
+
+In the section „OPEN-Q: Post-Vortex & Missing Somatics" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L130] — one of the five whose somatics it calls missing — a seed, a proposal: „Seed-22 Silas: The Gamma Hum" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L140]: „A vibration in the bones at the Gamma-Frequenz" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L141], „the signature of integrated consciousness." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L141] The same frequency is the Vortex's second point, Algorithmic Melancholy — „A low-frequency vibration" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L125] at „Gamma-Frequenz 40Hz" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L125]; the document does not relate the two.
+Nothing else in the document names Silas (`grep -cw Silas`: 1); his line names no warmth, heat or ozone, and he is not called Juna's echo (`Juna-Echo` 0; `05-verify-readers.txt`) (C11).
+
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — a seed shared with Oblivion: a sensory void, no thermal signature
+
+The last of the four seeds for the missing alters (L79) — a proposal: „Seed-11 Silas’s Sensory Void" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L84], with one carrier for two alters, „Carrier: Silas/Oblivion" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L84]. „The weight of a sudden, sensory black hole where sound used to exist; a total absence of thermal signature." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L84] „Visualizes Silas as the necessary "Shadow" or void within the multiplicity." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L84] Its index: „Silas as shadow/void alter." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L110] No warmth: the seed writes the absence of any (C11). Nothing else in the document names Silas (`grep -cw Silas`: 2; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — Mirror, Coheron Echo, tunneling
+
+His row in its table of thirteen fragments: „Mirror | Silas | Coheron Echo | Tunneling | Conscious Resonance" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] — `Mirror` for Spiegel. Nothing else in the document names Silas (`grep -cw Silas`: 1).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Coheron-Echo, the bridge to Juna
+
+His row, in a table with no category column: „Silas,Coheron-Echo,Phantom Resonance,The Bridge to Juna" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L82] — `Phantom Resonance`, the words the Plot/Outline Mining-Report gives Lia's seed. Nothing else in the document names Silas (`grep -cw Silas`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — Spiegel, the mirror of Juna
+
+„Spiegel | Silas | Coheron-Echo | Tunneling/Resonance ; Mirror of Juna; tunnels through time itself." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Nothing else in the document names Silas (`grep -cw Silas`: 1).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Spiegel, atemporal stillness, and the arc to the Moonshine-Link
+
+His row: „Silas (Spiegel) | Coheron-Echo | Atemporal stillness; "tunneling" sensations. | The bridge to Juna; presence beyond the time-arrow." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] On the vertical axis: „Silas and Oblivion are the "vertical axis" of the story's symmetry." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L42] „Silas (Coheron-Echo): He is the individual mirror of Juna." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L44] „His arc moves from unconscious resonance to becoming the "Moonshine-Link" that allows Kael to see Juna." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L44] His row, his profile and the axis name no heat or warmth; the heat on the table's line (L19) is the Landauer spikes' of the paragraph before it, not his (C11; `05-verify-readers.txt`).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Spiegel, Juna-Echo (Coheron), rigidity and numb distance, as the city cools in Kapitel 6
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. His row, category `Spiegel`: „Juna-Echo (Coheron)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L61] „Repräsentiert Erstarrung und taube Distanz zum Schmerz." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L61] (J62)
+His one scene is Kapitel 6, in KW1, after LogOS exposes Kael and „die Temperatur sinkt schleichend ab" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]: „Silas, das Coheron-Echo, manifestiert sich als eine lähmende Erstarrung in Kael, ein Einfrieren der Gliedmaßen." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] So the echo of Juna is a freezing here, in a cooling city; the document gives him no warmth (`Wärme` stands on two lines, L25 and L200, neither his; `05-verify-readers.txt`) (C11). Silas stands on these two lines only (`grep -cw Silas`: 2).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — decanonised outright, absorbed into Rhys and Argus
+
+A compilation that audits its sources and lists eleven, not thirteen, canonical Anteile — recorded, not applied. This document strikes him: „Silas: Dekanonisiert. Früher ein Pfleger- oder Wächter-Prototyp (aufgegangen in Rhys/Argus)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L322] It cites its own source for the removal: „Der Hard Canon Status Report (Dok. 31) etabliert jedoch zwingend exakt **11 Anteile** und deklariert Silas und Oblivion als zu streichende Redundanzen." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L347] No warmth, heat or ozone is given to Silas in the document (`05-verify.txt`) (C11).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — Pfleger of Resonanz-Landschaft, a role Rhys also carries in the same document
+
+A report addressed to the author; recorded, not applied. The table names him „Silas (Pfleger)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L41], of Resonanz-Landschaft (KW2) under Mnemosyne, „Manager & Caretaker" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L41] (see [[alters]]). `Silas` stands only in the table (`grep -cw Silas`: 1, `Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/05-verify.txt`); Kapitel 19 gives the same Pfleger role to [[rhys|Rhys]] instead (above), an internal tension the document does not resolve.

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      104
+  backslash escapes      0
+  typographic marks      686
+  ascii quotes           224
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, SYSTEMALARM, SYSTEMANALYSE, SYSTEMAUFGABE, SYSTEMAUFTRAG, SYSTEMBEFEHL, SYSTEMBEREICHE, SYSTEMBERICHT, SYSTEME, SYSTEMINTEGRIT, SYSTEMISCHER, SYSTEMKOH, SYSTEMMELDUNG, SYSTEMNACHRICHT, SYSTEMPARAMETER, SYSTEMSTABILISIERUNG, SYSTEMSTRUKTUREN, SYSTEMWARNUNG, SYSTEMWEITE, System, Systemalarme, Systemanalyse, Systemantwort, Systematisiert, Systematisierung, Systembefehl, Systemdiagnose, Systemdiagnosedaten, Systeme, Systemebene, Systemebenen, Systemen, Systemfehler, Systemfehlers, Systemfunktion, Systemic, Systemintegrität, Systemknoten, Systemkohärenz, Systemkonflikt, Systemkontrolle, Systemlogik, Systemmeldung, Systemmeldungen, Systemnachricht, Systemparameter, Systemparametern, Systemprotokolle, Systemprozess, Systemrauschen, Systemressourcen, Systems, Systemstabilität, Systemstatusanzeige, Systemstrukturen, Systemtypen, Systemwartung, Systemweite, Systemüberlastung
+  daten    DATEN, DATENAUSTAUSCH, DATENBANKEN, DATENDURCHSATZ, DATENSTR, DATENSTROM, DATENVERZ, Daten, Datenantwort, Datenaustausch, Datenbank, Datenbanken, Datendurchsatz, Datenfragment, Datenkanal, Datenknoten, Datenkorruption, Datenleitungen, Datenmatrix, Datenmatrizen, Datenmengen, Datenmuster, Datenmüll, Datenoszillation, Datenpaket, Datenpunkt, Datenpunkte, Datenrauschen, Datenregistrierung, Datensatz, Datenstrom, Datenstroms, Datenstruktur, Datenstrukturen, Datenströme, Datenverarbeitung, Datenverkehrs, Datenübertragung, Datenübertragungs
+  netzw    NETZWEBER, NETZWERK, NETZWERKDYNAMIK, NETZWERKE, NETZWERKEN, NETZWERKPARAMETER, Netzweber, Netzwebers, Netzwerk, Netzwerkanalyse, Netzwerkbereiche, Netzwerke, Netzwerkebene, Netzwerken, Netzwerker, Netzwerkgraphen, Netzwerkgrenzen, Netzwerkinstabilität, Netzwerkmuster, Netzwerkprotokolle, Netzwerkprotokollen, Netzwerkrauschen, Netzwerks, Netzwerkstabilität, Netzwerkströmungen, Netzwerkverbindungen, Netzwerkzustände
+  infor    INFORMAITONSFLUSSES, INFORMATIONSAUSTAUSCH, INFORMATIONSFLUSS, INFORMATIONSMODULATION, INFORMATIONSMUSTER, INFORMATIONSRAUSCHEN, Information, Informationen, Informationsausbrüchen, Informationsaustausch, Informationsdichte, Informationsfeld, Informationsfluss, Informationsflusses, Informationsflüsse, Informationsflüssen, Informationsfragments, Informationsinjektion, Informationsmanipulation, Informationsmuster, Informationspakete, Informationsprofil, Informationsschicht, Informationssignatur, Informationsweitergabe
+  inter    INTER, INTERDEPENDENZEN, INTERFERENZ, INTERNE, INTERNEN, Interaktion, Interaktionen, Interaktionseinheit, Interaktionseinheiten, Interaktionsmuster, Interessant, Interessante, Interessanterweise, Interesse, Interface, Interferenz, Interferenzen, Interferenzmuster, Interferenztöne, Interferenzzone, Internal, Interne, Interpretation, Intervention, Interventionen
+  energ    ENERGETISCHEN, ENERGIE, ENERGIEAUSTAUSCH, ENERGIEFLUSS, ENERGIESIGNATUREN, Energie, Energieaufnahme, Energieaustauschs, Energieentladungen, Energiefeld, Energiefelder, Energiefluss, Energieflüsse, Energiefäden, Energiegradienten, Energieimpulse, Energien, Energiequelle, Energieverbrauchsdaten, Energiezufuhrstation, Energieübertragung
+  analy    ANALYSE, ANALYSEGRUPPE, ANALYSEN, ANALYSEZUGRIFF, ANALYTISCHE, Analyse, Analyseabschnitt, Analysealgorithmen, Analyseanzeigen, Analysefähigkeiten, Analysegruppe, Analysemodelle, Analysemodule, Analysen, Analyseprotokolle, Analysesysteme, Analysewerkzeuge, Analysiere
+  optim    OPTIMALBEREICH, OPTIMALER, OPTIMIERER, OPTIMIERUNG, OPTIMIERUNGSPOTENZIAL, Optimale, Optimalwerts, Optimierer, Optimierers, Optimierung, Optimierungsalgorithmen, Optimierungsalgorithmus, Optimierungsfunktion, Optimierungsmöglichkeiten, Optimierungsparameter, Optimierungsvorschläge, Optimierungszielen
+  fehle    FEHLER, FEHLERRATE, Fehlen, Fehler, Fehlerbehebung, Fehlerhafte, Fehlerhaftigkeit, Fehlerjäger, Fehlerkorrekturcodes, Fehlermeldung, Fehlermeldungen, Fehlern, Fehlerrate, Fehlerraten, Fehlers
+  poten    POTENTIALMEER, POTENZIELL, POTENZIELLE, POTENZIELLEN, POTENZIELLER, Potential, Potentialität, Potentialmeer, Potentialmeers, Potentiell, Potenzial, Potenzialerkennung, Potenzials, Potenzielle
+  proto    PROTOKOLL, PROTOKOLLARISCHE, PROTOKOLLARISCHEN, PROTOKOLLARISCHER, PROTOKOLLE, PROTOKOLLEN, PROTOKOLLS, Protocol, Protokoll, Protokolle, Protokollen, Protokollierung, Protokolls, Protokollverletzung
+  stabi    STABIL, STABILEN, STABILER, STABILISIERT, STABILISIERUNG, STABILISIERUNGSPROTOKOLLS, STABILIT, Stabilisierung, Stabilisierungsmethoden, Stabilität, Stabilitätsanforderungen, Stabilitätsgrenzen, Stabilitätskriterien, Stabilitätsparameter
+  struk    STRUKTUR, STRUKTURELLE, STRUKTURELLEN, STRUKTUREN, Struktur, Strukturanalyse, Strukturanpassung, Strukturdatenbanken, Strukturebenen, Strukturelle, Strukturen, Strukturierung, Strukturinformationen, Strukturkomplex
+  integ    INTEGRATION, INTEGRATIONS, INTEGRATIONSPARADIGMA, INTEGRATIONSPROTOKOLLS, INTEGRIERT, INTEGRIT, Integration, Integrationslogik, Integrationsparadigma, Integrationsprotokoll, Integrierens, Integrity, Integrität
+  selbs    SELBSTORGANISATION, Selbst, Selbstbehauptung, Selbstbeobachtung, Selbsterfindung, Selbstführung, Selbstorganisation, Selbstreparatur, Selbstverstärkung, Selbstverstümmelung, Selbstverteidigung, Selbstähnlichkeit
+  unter    UNTER, Unter, Unterdrückung, Untergangs, Untergruppe, Unterschiede, Unterschieden, Unterschreitung, Unterstützung, Unterton, Untertöne, Untertönen
+  kontr    Kontradiktionen, Kontrollbedürfnisse, Kontrolle, Kontrollen, Kontrollierbareres, Kontrollparameter, Kontrollsignale, Kontrollverlust, Kontrollverlusts, Kontrollversuchen, Kontrollzwang
+  überl    Überlade, Überlagerung, Überlastung, Überleben, Überlebender, Überlebensinstinkt, Überlebenskampf, Überlebenskraft, Überlebensprotokoll, Überlebensstrategie, Überlegenheit
+  effiz    EFFIZIENZ, EFFIZIENZSTEIGERUNG, Effizient, Effizienter, Effizienz, Effizienzmetriken, Effizienzparameter, Effizienzquote, Effizienzquotient, Effizienzquotienten
+  grenz    Grenz, Grenzbedingungen, Grenzberechnungen, Grenze, Grenzen, Grenzparadoxien, Grenzpermeabilität, Grenzprotokolle, Grenzziehung, Grenzübergänge
+  korre    KORREKTUR, KORRELIERT, Korrekt, Korrektur, Korrekturen, Korrekturmaßnahmen, Korrekturstufe, Korrelate, Korrelation, Korrelationen
+  licht    Licht, Lichtblitze, Lichtimpuls, Lichtimpulsen, Lichtlinien, Lichtmuster, Lichtquelle, Lichtrest, Lichts, Lichtschein
+  relat    RELATIONAL, RELATIONALE, RELATIONALEN, RELATIONALER, Relation, Relationale, Relationalen, Relationaler, Relationalität, Relations
+  reson    RESONANZ, Resonanz, Resonanzeigenschaften, Resonanzen, Resonanzfeld, Resonanzfrequenz, Resonanzfrequenzen, Resonanzmuster, Resonanzmustern, Resonanzpunkte
+  trans    TRANSFER, TRANSFERIERT, Transfer, Transfers, Transformation, Transformationen, Transformationsmatrizen, Transformationsregeln, Transport, Transzendenz
+
+# substring pairs -- never one term, often merged by accident
+  ABER < Aber
+  ABER < Befehlshaber
+  ALLE < Alle
+  ALLE < Alles
+  ALLE < Falle
+  ALLE < Parallel
+  ALLE < Korallenriff
+  ALLE < Zurückfallen
+  ALLE < Tiefseequallen
+  ALLE < Schneekristalle
+  AUCH < Auch
+  AUCH < Hauch
+  AUCH < Rauch
+  AUCH < Energieverbrauchsdaten
+  Aber < Befehlshaber
+  Alle < Alles
+  Alle < Falle
+  Alle < Parallel
+  Alle < Korallenriff
+  Alle < Zurückfallen

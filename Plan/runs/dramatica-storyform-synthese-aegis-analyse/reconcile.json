@@ -1,0 +1,320 @@
+{
+  "document": "dramatica-storyform-synthese-aegis-analyse",
+  "drive_id": "10cFu4YtwNlyMHPmE5B877rr3CxEhiPCSI1K7t5IzWxM",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of three documents reconciled together (documents 44–46) — readings and record entries written by four Sonnet readers split by page group from Plan/runs/readings-brief-documents-44-46.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 180,
+    "decisions": 178,
+    "decided_by_lookup": 136,
+    "needs_judgement": 42
+  },
+  "new_terms": [],
+  "why_no_new_terms": "The earlier run of document 40's report: its figures, worlds and physics have pages, and its method apparatus is the report's own.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        35,
+        39
+      ],
+      "attribution": "",
+      "note": "MC of B in Universe, by test; a Guardian-MC rejected; an algorithmic loneliness as its „I\"-position"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        118,
+        130,
+        134
+      ],
+      "attribution": "",
+      "note": "a broken loop, not a consciousness, at the same open question its sibling document answers the other way"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        75,
+        106
+      ],
+      "attribution": "",
+      "note": "Lex, Nyx, Kiko and Moros named as the fragments that do not fuse at the Driver-Pivot"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        118,
+        134
+      ],
+      "attribution": "",
+      "note": "AEGIS' own unresolvable limit, its glyph lost, at the melancholy's two poles"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        35,
+        43,
+        47
+      ],
+      "attribution": "",
+      "note": "the theory as what settles a Dramatica hypothesis, its glyph lost"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "the thermodynamic proof that enforcing order accumulates entropy, and a zone of near-zero entropy under pressure"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        39,
+        67,
+        75,
+        90,
+        148,
+        152
+      ],
+      "attribution": "",
+      "note": "a Guardian as main character, tested and rejected on the same grounds the later run gives, and a whole Beat of them at the physical front"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        102,
+        114
+      ],
+      "attribution": "",
+      "note": "cold at the Vortex's convergence, the Heat Spike at its compression, and nothing thermal of Juna's"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        27,
+        63
+      ],
+      "attribution": "",
+      "note": "IC of A, an Entanglement Witness outside B's quad, hidden in a Leech-Lattice orbifold"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "IC of B, a living dialetheia whose integration forces the Heat Spike"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "one of the fragments that synchronise rather than fuse"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Kael's throughline in Storyform A, its glyph lost"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "AEGIS' throughline in Storyform B, its glyph lost, irreversible by the adjective alone"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        93,
+        102,
+        114
+      ],
+      "attribution": "",
+      "note": "the Heat Spike of Beat 4, cold at Beat 1's convergence, and heat as AEGIS' unaffordable repair"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "named beside Nyx, Kiko and Moros as one of the fragments that synchronise rather than fuse"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        39,
+        59,
+        91
+      ],
+      "attribution": "",
+      "note": "the strongest candidate for a Guardian as main character, rejected on the same grounds the later run gives, and the ground the climax stands on"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        27,
+        77,
+        79,
+        139,
+        143,
+        161,
+        186
+      ],
+      "attribution": "",
+      "note": "Storyform A's RS throughline against the pairing rule, a Leech-lattice orbifold that authorises Juna's illegal quad position, and its boundary asked as universal or exclusive"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        75,
+        106
+      ],
+      "attribution": "",
+      "note": "one of the fragments that synchronise rather than fuse, and half of the battle Beat 2 sets against the Wächter"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "what accumulated Landauer-Hitze becomes at the Driver-Pivot"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        75,
+        106
+      ],
+      "attribution": "",
+      "note": "one of the fragments that synchronise rather than fuse, and half of the battle Beat 2 sets against the Wächter"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        39,
+        102
+      ],
+      "attribution": "",
+      "note": "both names in one breath, at the Vortex"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        55,
+        181
+      ],
+      "attribution": "",
+      "note": "a Riss in the wall paired with a preverbal cold, and a proposal for a stronger metaphor of heat and Risse"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        35,
+        75,
+        90,
+        94
+      ],
+      "attribution": "",
+      "note": "the singular AEGIS' ordering principle, the plural its present operations; no Genesis"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        35,
+        39,
+        189
+      ],
+      "attribution": "",
+      "note": "a rule to satisfy, without the inversion its sibling document builds around it"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        51,
+        55,
+        219
+      ],
+      "attribution": "",
+      "note": "TSDP-Modularität as Kael's psyche, and TSDP-Psychologie as one of two grounding disciplines"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        96,
+        98,
+        102,
+        106,
+        110,
+        114,
+        118,
+        124,
+        125,
+        126
+      ],
+      "attribution": "",
+      "note": "one Vortex in Kapitel 35–36, five beats with names close to the Dramatica-Synthese's own, cold at Convergence and the Heat-Spike at Beat 4, and the witness layers assigned to different beats"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      35,
+      39,
+      91,
+      94,
+      102,
+      134,
+      160
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C4",
+    "C6",
+    "C7",
+    "C8",
+    "C11",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q4",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (Mnemosyne-Archipel, Resonanz-Archipel), J20 (Wächter/Guardian), J53 (Stille not Telefon-Stille), J61 (Trennungsprotokolle as ongoing operations), J90, J91, J97 (Chaitins), J98/J99 (kernel glyphs lost), J100, J51",
+  "not_promoted": [
+    "the hypothesis tree H1–H3 and the eight encodings — its method",
+    "Server-Leere, Semantische Konstante — one encoding each",
+    "Witness layers — on vortex and juna"
+  ],
+  "internal_tension": "Against document 40, the later run of the same report: AEGIS after the Vortex a broken loop, not a proto-consciousness (L134); the Witness layers in Beats 2, 3 and 5, not 2, 4 and 3; B ends Failure/Bad; it recommends Growth Stop for A; Beat 1 turns cold (L102).",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 44–46: PageRank recall@8 0.660 → 0.660, seeds 0.466; no case moved"
+}

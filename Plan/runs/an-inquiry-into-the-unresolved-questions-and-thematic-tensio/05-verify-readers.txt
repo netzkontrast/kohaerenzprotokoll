@@ -1,0 +1,126 @@
+
+# reader: conflict/question records, 2026-09-28
+# grep -cw and grep -ciw against Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+
+C1 Autogenic          0  0
+C1 Substrate          0  4    (none in the phrase "Generative Integrity Substrate")
+
+C6/Q5 Erasure-Pol      0  0
+C6/Q5 Wächter          0  0
+
+C9 Konstrukt-Stadt     0  0
+C9 Construct City (grep -c, not -cw)  5
+
+C12 Trennungsprotokoll  0  0
+C12 Beat               (Dramatica term, not used for Genesis) — see C8 below
+
+C13 Köln / Cologne      0  0  (grep -i, both spellings)
+C13 Basisrealität       0  0
+
+C14 not changed: "third person" 0 0; "first person" 0 0 — the Guide gives tone (cold, clinical,
+   technical, distant; passive voice) and format (log/protocol), never a grammatical person for AEGIS.
+
+C4 not changed: entropy 13 13; autopoietic 18 22 — AEGIS' own blindness only (position 1's shape,
+   "ontologically blind", "operationally closed"), already the majority reading; no blind spot named
+   for a Guardian and no new position.
+
+C2 not changed: Entropie 0 0 (English "entropy" 13 13) — sense 1 only (Kael's healing misread as a
+   rise in entropy, the "Negentropie-Fehlinterpretation"), the already-majority sense; no new sense.
+
+C5 not changed: KW4 stands only as the whole world ("Kairos-Potentialis", "A 'Possibility Garden' of
+   chaotic growth and emergence" / "The Garden of Potential"), the already-majority side; no place of
+   that name inside it.
+
+C7 not changed: Kap 0 0, Kapitel 0 0, Chapter 0 0 (05-verify.txt) — the document places nothing in a
+   chapter, so it cannot speak to a Kap-33-vs-Kap-38 question.
+
+C8 not changed: Be-er 0 0, Do-er 0 0 — no Dramatica Approach vocabulary at all.
+
+C10 not changed: Knöchel 0 0, knuckles 0 0 — the image does not occur.
+
+C11 not changed: Landauer 0 0, ozone 0 0, warm 0 0, Wärme 0 0, Hitze 0 0, kalt 0 0 — `cold` (20,
+   05-verify.txt) is AEGIS' voice and Kiko's dread, never the Landauer signature.
+
+Q2 not changed: ANI 0 0, ARS 0 0, ECR 0 0, PMS 0 0, RSA 0 0, SNK 0 0, Nullpunkt 0 0 — none of the
+   seven protocol terms occurs.
+
+Q4 not changed: Wächter 0 0 — the document is English throughout and never uses the German word.
+# nichts-rauschen — grep -cw / -ciw on Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+grep -cw -- 'atemporal' Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md => 0
+grep -ciw -- 'atemporal' Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md => 0
+grep -cw -- 'love' Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md => 0
+grep -ciw -- 'love' Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md => 0
+
+# externe-ebene — grep -cw / -ciw on Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+grep -cw -- 'Köln' ... => 0 ; grep -ciw -- 'Köln' ... => 0
+grep -cw -- 'Cologne' ... => 0 ; grep -ciw -- 'Cologne' ... => 0
+grep -cw -- 'Basisrealität' ... => 0 ; grep -ciw -- 'Basisrealität' ... => 0
+
+# trennungsprotokoll — grep -cw on Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+grep -cw -- 'Trennungsprotokoll' ... => 0
+grep -cw -- 'Beat' ... => 0
+
+# aegis — grep -cw / -ciw on Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+grep -cw -- 'Do-er' ... => 0 ; grep -ciw -- 'Do-er' ... => 0
+grep -cw -- 'Be-er' ... => 0 ; grep -ciw -- 'Be-er' ... => 0
+grep -ciw -- 'first person' ... => 0
+grep -ciw -- 'third person' ... => 0
+
+# kael — grep -cw on Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+grep -cw -- 'Knöchel' ... => 0
+grep -cwi -- 'knuckles' ... => 0
+
+# reader: kern-welten, konstrukt-stadt, resonanz-landschaft, grenzfeste, moeglichkeits-garten,
+#         risse, guardians, logos, mnemosyne, cerberus, kairos, sophia, plot.md, 2026-09-28
+# grep -cw and grep -ciw against Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md
+
+kern-welten            Erasure-Pol   0  0
+kern-welten            absorbed      0  0
+kern-welten            Wächter       0  0
+konstrukt-stadt        Erasure-Pol   0  0
+konstrukt-stadt        absorbed      0  0
+resonanz-landschaft    Erasure-Pol   0  0
+resonanz-landschaft    absorbed      0  0
+grenzfeste             Erasure-Pol   0  0
+grenzfeste             absorbed      0  0
+grenzfeste             Wächter       0  0
+moeglichkeits-garten   Erasure-Pol   0  0
+moeglichkeits-garten   absorbed      0  0
+risse                  Riss-Typ      0  0
+risse                  EP-Trigger    0  0
+risse                  Flight        0  11   (11 is `flight`, always the generic fight/flight/freeze triad)
+risse                  Landauer      0  0
+guardians              Erasure-Pol   0  0
+guardians              absorbed      0  0
+guardians              reduced       1  1    (the one hit is "reduced to corrupt data", AEGIS' victim, not a Guardian)
+guardians              Wächter       0  0
+logos                  absorbed      0  0
+logos                  Wächter       0  0
+mnemosyne              absorbed      0  0
+cerberus               Wächter       0  0
+kairos                 Wächter       0  0
+sophia                 Wächter       0  0
+plot                   Kap           0  0
+plot                   Kapitel       0  0
+plot                   Chapter       0  0
+plot                   Vortex        0  0
+alters: grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+alters: grep -ciw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 11
+nyx: grep -cw -- Knöchel Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+nyx: grep -ciw -- Knöchel Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+kiko: grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+kiko: grep -ciw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 11
+lia: grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+lia: grep -ciw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 11
+isabelle: grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+isabelle: grep -ciw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 11
+oblivion: grep -cw -- warm Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -ciw -- warm Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -cw -- heat Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -ciw -- heat Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -cw -- ozone Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -ciw -- ozone Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -cw -- Landauer Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+oblivion: grep -ciw -- Landauer Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 0
+did: grep -cw -- DID Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 1
+did: grep -ciw -- DID Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md -> 1

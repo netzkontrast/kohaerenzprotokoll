@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 25
-readings: 25
+sources: 29
+readings: 29
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -206,6 +206,42 @@ Once, in English (`734` 1, `Component 734` 1, `Komponente` 0; `05-verify-readers
 „Kael = Component 734" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276] — „Die eine bewusste Substanz wird in Komponenten zerlegt." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276] „Kael ist die Nummer 734 in einem Inventar, das eigentlich keines hatte sein sollen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276]
 So Kael is the component itself, one of several the one conscious substance is broken into, numbered in an inventory — not a remainder (`Restgröße` 0, `übrig` 0), and not a unit made before the separation: the decomposition is a beat of its own, after it. A fourth beat is left „Status: ungelöst" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L280]. It names no designation inside the simulation, no dwelling and no chapter (`Archivar` 0, `Wohneinheit` 0, `Kap` 0). Conflict C12.
 
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a seed carrier, Kael's other name
+
+Twice, in English, as a seed's `Carrier` (`Component 734` 2, `Komponente` 0; `05-verify-readers.txt`); J101 places it here by the sentence. In Storyform B, where AEGIS treats Kael's alters as separate speakers, the carrier is „Carrier: Component 734" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L38]; and the seed of Kael's high-Φ state has „Carrier: Kael (Component 734)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L69]. In the second it glosses Kael's name; the first seed's material is Kael's alters. The seeds say nothing of how the component was made. It counts no Genesis beats (C12).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — the third of three beats, the precursor to Kael
+
+Once, in English (`Component 734` 1, `Komponente` 0; `05-verify-readers.txt`); J101 places it here by the sentence. The third beat of the „Genesis-Crisis (3-Beat Sequence)" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25], after the Separation Protocol (L28):
+„Component 734: The feeling "I" is functionalized into Component 734 (the precursor to Kael), while the rationalizing "I" establishes AEGIS as the guardian of the severed parts." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29]
+So the component is the feeling self, functionalised after the separation, and it precedes Kael rather than being him — the worldbuilding concept's Kael grown from 734, not the philosophischer Bericht's Kael the component. It names no designation, no dwelling and no chapter (`Kap`, `Ch` 0). Conflict C12.
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — `T-734` as Kael's own trauma, never the component's designation (J112)
+
+A research report that cites a corpus it does not contain — recorded, not applied.
+**Not a name for the component — a label for Kael's core trauma, written `T-734`.** „Kael geht im Verlauf der ersten 13 Kapitel zunehmend der Raum für Vermeidungsstrategien (Options) aus, sich vor seinem Kern-Trauma (T-734) zu verstecken." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L83] „Kael weigert sich bis zur letzten Konsequenz (Kapitel 35/36), sein Trauma (T-734) als bloße „Datenkorruption“ von AEGIS löschen zu lassen." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L125]
+**And a gap the document names in itself.** „Kaels „Origin Trauma“ (T-734) bleibt als kausaler Anker logisch teils undefiniert." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L33]
+Per J112, `T-734` is this source's own sense of the number — Kael's core trauma, a fragment his Optionlock protects — and is placed here as that sense, never as a second name of the component this page holds: the document never writes `Komponente 734` or `Komp 734` (`Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`), and does not relate `T-734` to a designation, a dwelling or a Genesis beat.
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — 734-Alpha, a colleague, and Protokoll 734, a containment order, never Kael's own designation (J112)
+
+Per J112, placed here as this source's own senses of the number — neither is the component this
+page holds, and Kael himself is never called `Komponente 734` or `Komp 734` in the document
+(both 0, `Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`); his own designation here is
+`K-1123` (see `kael`).
+
+**A colleague's designation, not Kael's own.** „Kael kannte ihre Bezeichnungen – 734-Alpha aus
+seiner Analysegruppe, 912-Gamma aus seinem Wohnblock –, aber er kannte sie nicht."
+^[kohaerenz-protokoll.md:L140] Einheit 734-Alpha recurs as a named colleague — „Er erkannte
+Einheit 734-Alpha, seinen ehemaligen Nachbarn aus dem Arbeitsbereich in Co₁"
+^[kohaerenz-protokoll.md:L1790] — once with a message of its own: „NACHRICHT VON EINHEIT
+734-ALPHA:" ^[kohaerenz-protokoll.md:L334]
+
+**A containment protocol, not a component.** „AKTIVIERE PROTOKOLL 734: KONTAMINATIONS-EINDÄMMUNG."
+^[kohaerenz-protokoll.md:L2348]
+
+This reading takes no side in `C12`.
+
 ## Where the sources differ
 
 **When the component is made (C12).** Before the separation, in beat 2: the
@@ -227,9 +263,14 @@ separation before the world he is thrown into and says nothing of when the compo
 The philosophischer Bericht of 2026-05-08 counts three beats with „Kael = Component 734“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L276] the
 third, after the Separation Protocol: the decomposition into components is that beat, and Kael
 is one of them, number 734, with no remainder named.
+The Systemic Architecture Specification of 2026-05-08 counts three beats with Component 734 the third, after the
+Separation Protocol, and makes it the feeling self functionalised, „the precursor to Kael“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29] — the
+worldbuilding concept's order and its Kael grown from the component. The Narrative Building Blocks report of its date
+counts no beats and glosses Kael with the number, „Carrier: Kael (Component 734)“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L69].
 
 **Whose designation.** Lex's, in the Charakter-Kompilation of 2026-03-31 (L74);
-Kael's, in every source from 2026-05-07 on.
+Kael's, in every source from 2026-05-07 on. The Narrative Building Blocks report of 2026-05-08
+writes it in English, as Kael's gloss (its L69).
 
 **What Kael knows in Kap 22.** He recognises for a moment that he was 734 and loses it
 (Konzept-Iteration Genesis, L592); he experiences himself as a tool without knowing
@@ -261,4 +302,4 @@ proposal).
 - `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15: „734-K-1123“ ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1565], the case number of an assessment of System Kael — the number, not the component.
 - `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28: „vor dem Kern-Trauma (T-734)“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L82] and „Genesis-Krise (Das T-734 Trauma).“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L235] — the number as a trauma label, not the component.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose readings here were checked against the full documents on 2026-09-26 and which have a census each (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation each (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose readings here were checked against the full documents on 2026-09-26 and which have a census each (`Sources/terms/worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation each (`Wiki/compare/reconcile-27-worldbuilding-konzept-kohaerenzprotokoll-md.md`, `Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`), and `charakter-kompilation-fuer-kohaerenz-protokoll` and `ki-prompt-analyse-hard-problem-of-consciousness`, whose readings here were checked against the full documents on 2026-09-27 and which have a census each (`Sources/terms/charakter-kompilation-fuer-kohaerenz-protokoll.md`, `Sources/terms/ki-prompt-analyse-hard-problem-of-consciousness.md`) and a reconciliation each (`Wiki/compare/reconcile-49-charakter-kompilation-fuer-kohaerenz-protokoll.md`, `Wiki/compare/reconcile-51-ki-prompt-analyse-hard-problem-of-consciousness.md`), and `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, whose reading here was checked against the full document on 2026-09-28 and which has a census (`Sources/terms/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md`) and a reconciliation (`Wiki/compare/reconcile-52-an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md`).

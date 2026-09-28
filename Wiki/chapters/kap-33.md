@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 12
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,13 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In der äußeren Heldenreise ist das Approach the Inmost Cave, im dritten Akt der äußeren Konfrontation, laut der strukturierten Outline im beginnenden Ten und laut Konzept-Master-Report in dem Teil des Akts, der den Vortex vorbereitet; in Storyform A steht das MC-Concern nahe an der Quelle, in B parakonsistente Logik und Gödel-Sätze als Architektur, und als Genesis-Echo berührt Kael, was AEGIS damals als Bedrohung erlebte. Kael dringt zu AEGIS' Kern vor, den die Konzept-Iteration Das Fundament nennt, und berührt die nicht-algorithmische Unterstruktur in ihrer Reinform; laut Konzept-Master-Report und strukturierter Outline ist hier die Funktionale Multiplizität erreicht, alle Alters arbeiten kooperativ, ohne Final Fusion, und der Konzept-Master-Report liest den folgenden Vortex als Folge dieser Integration auf AEGIS. Kernwelten vollständig setzt die Berührung auf die Verschränkungs-Insel der Überwelt und nennt den Garten der stillen Präsenz als Setting von Junas Wirkung, die strukturierte Outline lässt den Mnemosyne-Archipel sich öffnen, und dunkle Tiefe und das Vibrieren des Fundaments sind das Leitmotiv. Laut der Plot-Konkretisierung liegt am Kern das Original, die erste Zuweisung des Universums, und daneben unangetastet der Datensatz ohne Datentyp; die AEGIS-Subplots schlugen dagegen eine Realitätsbelagerung vor, die Kael an seine Grenze treibt und wieder zu fragmentieren droht.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Kapitel 33-35: Konsequenzen und Entfaltung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L373] — one entry for Kapitel 33, 34 and 35 together, not this chapter alone.
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+- Plot: „Diese Kapitel entfalten die Konsequenzen der in 31 und 32 getroffenen Entscheidungen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376], showing how Kael's choice plays out „auf die Kernwelt, J, und AEGIS“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376] „falls überlebend/adaptierend“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376].
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +38,25 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kaels Umgebung wird zu einer sich ständig verändernden Alptraumlandschaft (Architekten aus Kapitel 30).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453]
 - Story: „Traumatische Erinnerungen werden unerbittlich ausgelöst (Kapitel 28).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453]
 - Story: „Kaels Bewusstsein direkt wieder zu 'fragmentieren'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453] · „Kael wird an seine absolute Grenze getrieben“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L453]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Jenseits des Ereignishorizonts (Replica Wormholes)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: to save Juna from AEGIS' final erasure, Kael „schickt Kael ihre Essenz tief in einen Mikroriss seiner eigenen Psyche“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127].
+- Science: „Die Quanteninformation der Liebe (Juna) wird holografisch in der ausstrahlenden Hawking-Strahlung seines Bewusstseins codiert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127]; „Kael sieht buchstäblich glühende Silberfäden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127] (quantum entanglement) connecting the collapsing space to his heart.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS tries to fuse the thirteen alters in the heat of the Fundament
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Der Kollaps der Kohärenz“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L186]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Story: „AEGIS erkennt die existenzielle Bedrohung, die der integrierte Kael darstellt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L188] · „Das System fährt alle Reaktoren auf das Maximum.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L188]
+- Sensorik: „Die Landauer-Hitze im Fundament steigt in den Bereich von Millionen Grad“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L188]
+- AEGIS' aim: „AEGIS versucht, alle dreizehn Alters in einer finalen, mörderischen Fusion zu einer einzigen, formbaren Identität zusammenzuschmelzen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L188]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -150,7 +176,8 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
-- **Title.** „Das Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis) · „Approach Inmost Cave“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1025] (konsolidiertes Konzept) · „Approach Inmost Cave: Vordringen zu AEGIS' Kern“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1023] (strukturierter Outline). The konsolidiertes Konzept's title is the stage the Konzept-Iteration Genesis names for the chapter, „HR-Stufe 7: Approach Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis), and the konsolidiertes Konzept also writes „Kap 33 (Das Fundament) — direkte Berührung der K1-Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1095] (konsolidiertes Konzept). · „Approach to the Inmost Cave“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188] (the philosophy catalogue, beside „direkte Berührung der K₁-Reinform“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188]).
+- **Title.** „Das Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis) · „Approach Inmost Cave“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1025] (konsolidiertes Konzept) · „Approach Inmost Cave: Vordringen zu AEGIS' Kern“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1023] (strukturierter Outline). The konsolidiertes Konzept's title is the stage the Konzept-Iteration Genesis names for the chapter, „HR-Stufe 7: Approach Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis), and the konsolidiertes Konzept also writes „Kap 33 (Das Fundament) — direkte Berührung der K1-Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1095] (konsolidiertes Konzept). · „Approach to the Inmost Cave“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188] (the philosophy catalogue, beside „direkte Berührung der K₁-Reinform“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L188]) · „Der Kollaps der Kohärenz“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L186] (the Hard-SF-Outline).
+- **Juna sent into a micro-rift.** The Ultra-Plot places this chapter as the point where Kael „schickt Kael ihre Essenz tief in einen Mikroriss seiner eigenen Psyche“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127] (the Ultra-Plot), matching CLAUDE.md's own count of Kapitel 33 among Juna's appearances. (C7)
 
 ## Questions for this chapter
 

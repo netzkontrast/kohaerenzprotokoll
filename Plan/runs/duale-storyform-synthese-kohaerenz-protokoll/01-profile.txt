@@ -1,0 +1,14 @@
+# duale-storyform-synthese-kohaerenz-protokoll
+  lines                375  (frontmatter ends at 9)
+  body words           5526
+  headings             30   bold-only lines 16
+  table rows           53   code fences 0
+  question marks       14
+  backslash escapes    225
+  typographic marks    93   ascii quotes 78
+  invisible characters none
+  math symbol lines    7
+  glued ref numbers    53
+  repeated labels      none
+  longest line         972 chars
+

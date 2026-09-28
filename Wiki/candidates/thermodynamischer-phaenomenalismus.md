@@ -1,10 +1,10 @@
 ---
 term: Thermodynamischer Phänomenalismus
 status: candidate
-sources: 2
-readings: 2
+sources: 4
+readings: 4
 conflict: C11
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks"]
 gathered: "2026-09-25"
 ---
 
@@ -16,7 +16,10 @@ collide, and the Landauer heat of the erasure is where information is felt.** On
 source names it and reads it. It is an analysis of the novel, written
 through a model's research cycle, and it claims no authority over it. The
 philosophischer Bericht does not name it; what it says of consciousness, heat and
-qualia is read below, and it does not hold the position.
+qualia is read below, and it does not hold the position. Nor do the two mining reports of 2026-05-08,
+which set K1's qualia against K0's thermodynamics at the explanatory gap (the Plot/Outline
+Mining-Report) and deny AEGIS consciousness by integrated information (the Narrative Building
+Blocks report).
 
 Touches C11 (Landauer warmth or cold ozone): the position rests on the erasure's
 Landauer trace being heat, the felt side of it, and says nothing of cold ozone.
@@ -51,14 +54,25 @@ And the interference zones — [[kael|Kael]] in the [[cerberus|Cerberus]]-Labyri
 **AEGIS erases qualia, and is left aware without them.** „was Kael auf Individual-Ebene tut (apparent normality durch Verdrängung der EPs), tut AEGIS auf Kosmos-Ebene (apparent coherence durch Erasure der Qualia)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L247] After the Vortex: „AEGIS wird zum stumm zusehenden Bewusstsein der eigenen Tragödie, ohne den Schlüssel zur Auflösung zu haben." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L284] „Er kann das Verstandene aber nicht in Erleben übersetzen — die Qualia bleiben ihm verschlossen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L737]
 So AEGIS has an inner view (L247) and becomes a consciousness with no qualia, where the analysis says it has no consciousness (its L251). The philosophischer Bericht does not say that experience arises in the interference of K₁ and K₀, nor that Landauer heat is where information is felt.
 
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — not named; qualia on K1's side colliding with K0's thermodynamics at the Explanatory Gap, and a thermodynamic scar that is felt
+
+**Not named** (`Phänomenalismus` and `Phenomenalism` 0, `05-verify-readers.txt`), but it places the novel where the analysis does, at the explanatory gap: „This structure enacts a 90-degree projection where Qualia (K1) and Thermodynamics (K0) collide, effectively bridging the" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L15] Explanatory Gap (L15). Its `Grand Argument` is „the tension between the phänomenal preservation of information (K1) and the thermodynamic necessity of its erasure (K0)." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L15]
+Qualia are K1's here, not the interference's: the collision bridges the gap, and the document does not say that experience arises in it.
+**The scar is felt.** Seed-02, `Thermodynamic Scars`, is a sensation: „The searing sensation of Delta-Q—information being forcibly preserved against a heat-sink, leaving a raw, vibrational ache in the mind's eye." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L22] To AEGIS, Kael is „a "predictive error" or a "thermodynamic scar" that refuses to be erased." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L38] — the analysis' „thermodynamischen Narben" ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L225] and its predictive-processing AEGIS, in English, without the claim that the scar is where qualia arise.
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — not named; Kael high-Φ, AEGIS without consciousness, longing felt as heat
+
+**Not named** (`Phänomenalismus` and `Phenomenalism` 0). Integrated information is its measure, as a narrative metric: Kael's „"Functional Multiplicity" is a high-" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L64] Φ state (L64), and AEGIS' diagnostics see him „possessing a "consciousness" AEGIS lacks." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L69] — AEGIS has none, as in the analysis (its L251), but by IIT's measure, not because it erases pain before it becomes qualia.
+**Heat felt as longing.** Seed-17: „A sudden, nameless longing that manifests as a physical heat-spike in Kael's chest." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L115] — „a "wave, hot and painful," that AEGIS sensors miscategorize as system interference or neural fatigue." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L115] That heat is not called Landauer's; the Landauer heat is the cost of erasure, „information loss is converted into heat" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L100] (Seed-15). It does not say that experience arises in the interference of K1 and K0.
+
 ## Open
 
 - No other read document names the position — the philosophischer Bericht, read
-  2026-09-27, does not either — and none says that Landauer heat is where experience
-  arises. Whether any source of the novel's
+  2026-09-27, does not either, nor do the two mining reports of 2026-05-08 — and none says
+  that Landauer heat is where experience arises. Whether any source of the novel's
   own holds it, or only this analysis, is open.
 - The analysis puts heat on the side of experience and cold on the side of
   function (its L244). How that sits with the sources that make cold ozone the mark
   of AEGIS' erasure is C11's question, not this page's.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `ki-prompt-analyse-hard-problem-of-consciousness`, whose reading above was checked against the full document on 2026-09-27 and which now has a census (`Sources/terms/ki-prompt-analyse-hard-problem-of-consciousness.md`), a note (`Sources/notes/ki-prompt-analyse-hard-problem-of-consciousness.md`) and a reconciliation (`Wiki/compare/reconcile-51-ki-prompt-analyse-hard-problem-of-consciousness.md`).

@@ -1,0 +1,47 @@
+# 05-verify — systemic-architecture-specification-the-coherence-protocol-w, 2026-09-27
+# grep -cwE = lines holding the word
+Kap                         0
+Chapters 35–36            1
+Chapter 39                  1
+Chapter 1                   1
+39                          1
+40                          0
+Kap 0                       0
+warm                        0
+warmth                      0
+heat                        5
+cold                        0
+Cold                        1
+ozone                       2
+21°C                       1
+Knöchel                    0
+knuckles                    0
+Konstrukt-Stadt             0
+Construct-City              1
+Möglichkeits-Garten        0
+Garden of Possibilities     1
+Guardian                    1
+LogOS                       0
+Cerberus                    1
+Kairos                      1
+Sophia                      0
+Erasure-Pol                 1
+734                         1
+Trennungsprotokoll          0
+Flight                      0
+Coheron                     2
+Erason                      1
+K₁                        0
+K₀                        0
+Truth-Rotation              0
+Nexus                       0
+Überwelt                   0
+Cologne                     2
+Köln                       0
+External Level              1
+first person                0
+third person                0
+Wir                         2
+Juna                        4
+Kael                        7
+AEGIS                      13

@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 23
+sources: 36
 pages: ["juna"]
 ---
 
@@ -230,3 +230,88 @@ The entry above was written by the Jules session (decision 014) before this docu
 Open, in its own words: „Junas POV bleibt offen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] and, as OQ-C, „Welche konkreten Anker neben anomaler Erasure-Balance, Phantom-Resonanz und Phone-Silence?" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L755]
 `Kap` stands 0 times; its only chapters are the Vortex's Ch 35–36 and Kapitel 13 as the end of the Multiplizitäts-Schleier, neither of them hers, and it has no revelation timing (`05-verify-readers.txt`).
 Neither Kap 33 nor Kap 38: effect and open anchors, on the date of the character bible (row 1), without the master report's Akt-II revelation. The conflict stays open.
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**No appearance placed — non-physical by a constraint it calls absolute, and a physical encounter rejected as a conflict with its canon.**
+„Juna must be described exclusively as an effect or sensory resonance (light, frequency, warmth)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22] „She possesses no physical body." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L22] Its backlog: „Quarry-01: Physical Juna Encounter." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L149] „Reasoning: Violates Kanon 2026-05-08 (Juna must remain non-physical)." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L149] Both of her seeds carry „Non-physical effect only." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L59] (and L62) — golden warmth and light (L60), the scent of moist leaves in place of AEGIS' ozone (L63) — and neither is placed in a chapter. Its canon claim, „(Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11] in its title, is recorded, not applied.
+`Kap` stands 0 times, `Ch33` and `Ch38` 0; its one chapter, „Ch35-36" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L118], is the Vortex, whose five points (L124–L128) do not name her (`05-verify.txt`, `05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: on no row, an effect only, on the date of the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
+
+**No appearance placed — a presence in the phase `Catalyst`, felt as a drop in temperature.**
+„She is a situational anomaly (Moonshine-Link) who forces Kael to witness the external reality of his hidden world." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L36] Her seed: „A sudden drop in ambient temperature accompanied by the smell of rain-drenched silver and the weight of atemporal mutual information in the jawbone." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L37] „Breaks Kael's internal isolation with an impossible situational presence." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L37] Its `Kanon-Kompatibel` marks are recorded, not applied.
+`Kap` and `Ch` stand 0 times; its one chapter range is the Vortex's, „The Vortex: Convergence and Pivot (Chapters 35–36)" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L67], whose five points do not name her (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: a presence in a phase, on the date of the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**No appearance placed in a chapter — but a manifestation: a glitchy projection in the Mnemosyne-Archipel, in the phase `Weaving`.**
+„Kael experiences Juna's presence as the "warm sound of growing things,"" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L53] „Within the Mnemosyne-Archipel, Juna manifests as a glitchy projection that triggers an "attachment cry."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L54] Its `KANON-KOMPATIBEL` marks are recorded, not applied.
+`Kap` stands 0 times; its one chapter range, „VORTEX: The Singularity (Ch35-36)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L137], does not name her (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: a manifestation placed in a world, KW2, and in no chapter — a mode neither row names. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**No appearance placed — never described, and present only by two mandatory markers.**
+„Strict Prohibitions: No physical descriptions (hair, eyes, stature) and no Deus ex Machina." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L46] „Mandatory Presence Markers: anomalous erasure balances and the Phone-Silence." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L47] It calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied.
+`Kap` and `Ch` stand 0 times; its chapters are the Vortex's (L82) and Chapter 39 ↔ Chapter 1 as the Ouroboros (L88), none of them hers (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: markers, not a scene, on the date of the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**No appearance placed — not a ghost and not a character, a structural position.**
+„Juna is not a ghost or a character in the traditional sense; she is a Structural Position." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L90] „She observes Kael without intervening, preventing his fragile mind from a "wave-function collapse" (total deletion) until he is ready to witness himself." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L96]
+`Kap` and `Ch` stand 0 times; its one chapter range is the Vortex's, whose five beats do not name her (L100–L108; `05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38. The conflict stays open.
+
+## 2026-09-27 — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier
+
+**No appearance placed — never described, synthesized through resonances and the Phone-Silence.**
+„Stylistic Constraint: Strictly prohibited physical descriptions (no hair, no height)." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L68] „She is synthesized through "Phantom-Resonances" and the "Phone-Silence" anchor" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L69]. Its fifth mandate: „No Deus Ex Machina: Juna witnesses; she does not solve." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L102] Its mandates are recorded, not applied.
+`Kap` stands 0 times; its three `Ch.` are the act ranges (L57–L59), which do not name her (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: a rule of rendering, on the date of the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**Neither row — a fourth chaptering, with her scenes spread from Kapitel 3 to Kapitel 34 and her entry into the system her last, not her first.**
+Kapitel 3: „Für den Bruchteil einer Mikrosekunde flackert das Bild von Juna auf – eine B+C-Superposition, ein Ghost in der Maschine." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L98] Kapitel 10: „Juna übermittelt keine Worte, sondern eine topologische Koordinate, tief verborgen in Kernwelt 2." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L120] Kapitel 22: „Juna manifestiert sich als schimmerndes Hologramm." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L156] Kapitel 34, titled „Die Integration von Juna" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190]: „Sie tritt in das System Kael ein" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L190].
+So this document places four scenes across the book and makes the canon-era sources' first direct appearance (Kap 38) or single scene (Kap 33) into her last of four — the entry into the system, not an emergence from concealment. Neither Kap 33 nor Kap 38, five to seven weeks before either canon-era source.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Neither row: a visible, chaptered Juna across five chapters, unlike every canon-era source's rule against describing her.**
+Kapitel 3: „blitzt für den Bruchteil einer Mikrosekunde das Bild einer Frau – Juna – auf den Monitoren auf" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L59]. Kapitel 12: „Plötzlich tritt Juna in den Raum. Sie steht direkt vor dem Guardian" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]. Kapitel 22: „greift Juna durch die scheinbar undurchdringliche Quantenstruktur der Wand" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L101]. Kapitel 26, unmasked: „In einem Moment gleißender Klarheit erkennt Kael, dass Juna keine externe Entität oder KI-Anomalie ist. Sie ist die unzerstörbare relationale Essenz zwischen seinen eigenen gespaltenen Anteilen." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109] Kapitel 33: „schickt Kael ihre Essenz tief in einen Mikroriss seiner eigenen Psyche." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L127]
+Neither Kap 33 alone nor a first direct appearance in Kap 38 — she appears repeatedly from Kapitel 3 on, and Kapitel 33 here is a rescue, not her only scene. On its date, ten weeks before the character bible, the earliest read source to place her in named chapters at all.
+
+## 2026-09-27 — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+**Neither row — the document never names Juna, only `J` (J111), and places no scene for her.**
+The K-J Verbindung's first conscious contact is Kapitel 11, „Der erste bewusste Kontakt" ^[monstergruppe-primzahlen-plot-blueprint.md:L127]: „gelingt Kael der erste kurze, aber bewusste Kontakt mit J durch die nicht-lokale Verbindung." ^[monstergruppe-primzahlen-plot-blueprint.md:L130] Earlier, in Kapitel 2, „Das Echo" ^[monstergruppe-primzahlen-plot-blueprint.md:L37], the connection is only „eine erste, unmerkliche Vorstufe" ^[monstergruppe-primzahlen-plot-blueprint.md:L33], not yet conscious. `J` is never physically present in a scene; the connection is `nicht-lokal` throughout, and her separateness as an entity is left open at the end: „Wenn J eine separate Entität ist, könnte ihr Schicksal […] angedeutet werden" ^[monstergruppe-primzahlen-plot-blueprint.md:L406]. `Juna` and `Julia` stand 0 times.
+Nearest the canon-era rule against describing her — never a scene — but for a different reason: the oldest read source does not yet have the name.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**No appearance placed — never physically described, outside the quad in Storyform B, acting only by effect in three beats of the Vortex.**
+„sie wird nie physisch greifbar oder visuell detailliert beschrieben, sondern existiert ausschließlich über ihre Wirkung" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L141]; in the climax, „In allen drei Layern wird die Regel eingehalten, dass Juna niemals physisch beschrieben wird." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L316] Her seeds are placed in no chapter; the first: „Im ersten Szenen-Keim manifestiert sich Junas Präsenz in einem durch AEGIS hochgradig gesperrten Bereich." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L133] — a presence, not an appearance, and a proposal.
+`Kap` stands 0 times and `Kapitel` twice, both `Kapitel 35–36` for the Vortex (L33, L270), where her three layers act in Beats 2, 3 and 4 by effect (L313–L316) and „Kael und Juna überdauern den Kollaps intakt." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L304] (`05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: a rule of rendering, eight days before the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese
+
+**No appearance placed — her nature left open, as this document's own claim about a corpus it does not contain.**
+„Junas ontologische Natur schwankt zwischen externer Anomalie und exiliertem Ich-Anteil." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L32] The document names no chapter for her (`Kap` and `Kapitel` never with her name; `Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`).
+Neither Kap 33 nor Kap 38: this is the open-nature question C7's companion asks, not a placement, eleven days before the character bible (row 1). The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**No appearance placed — never physically described, outside the quad in Storyform B, hidden in a Leech-Lattice orbifold.**
+„Juna wird konsequent nicht physisch anthropomorphisiert." ^[dramatica-storyform-synthese-aegis-analyse.md:L63] In B, „Sie existiert […] strukturell außerhalb der Dramatica-Quad, um als Entanglement Witness und Zero-Knowledge Verifier zu fungieren." ^[dramatica-storyform-synthese-aegis-analyse.md:L27]
+`Kap` stands 0 times of her (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`). The same rule of rendering as its sibling document `dramatica-storyform-synthese-aegis-analyse-2` (row above), on the same date. Neither Kap 33 nor Kap 38. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Neither row — a fourth chaptering that has no Kap 33 and no Kap 38, and Juna never appears in body; her one voiced word is a whisper in Kapitel 18.**
+„Widerstehe" ^[kohaerenz-protokoll.md:L1892] — flüsterte eine Stimme aus dem goldenen Licht, named in the same sentence, in „Kapitel 18: Systemantwort" ^[kohaerenz-protokoll.md:L1864]. Before it she is only the light and a name: „Ein warmes, goldenes Licht" ^[kohaerenz-protokoll.md:L176]. Whether she has a body at all is a question the text itself leaves open, once beyond the seam: „War Juna eine Entität innerhalb des Meeres? Oder war sie das Meer?" ^[kohaerenz-protokoll.md:L2298]
+This document's chapters are its own — Kapitel 1–12 and 14–23, with no Kapitel 13 and no Kapitel 33 or 38 to place her in — so the record's two chapters are simply absent rather than contested. On the shared claim, never in body, it agrees with every canon-era source; unlike them it gives her one direct word, whispered rather than „einfach da" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1174]. The conflict stays open.

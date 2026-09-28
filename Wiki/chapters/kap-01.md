@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 13
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md"]
+sources: 18
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,29 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Kael, der Host, erwacht in der Konstrukt-Stadt von KW1, fragmentiert und ohne Erinnerung, in einem steril geordneten Alltag zwischen Wohnung, Datenknoten und Transitkorridor; laut strukturierter Outline lebt er als Komp 734 in einer Wohneinheit anderer Nummer, laut Kernwelten vollständig und Kapitel-Kompendium ist Wohneinheit 734 selbst seine Wohnung. Laut AEGIS-Subplots wagt er eine kleine Abweichung von seiner Routine und wird von der Umgebung sanft zur Norm zurückgeführt, laut Plot-Konkretisierung bestätigt er, dass die Welt stimmt, während eine Abweichung und ein Sprung in seinen Werten auftauchen; Kapitel-Kompendium und Storyform-Outline locken den Erstsatz, das Licht sei schon da, als er erwache, keine AEGIS-Stimme, kaltes Ozon ohne Wärme und eine Amnesie, die nie erwähnt wird, und die strukturierte Outline lässt Juna als Wort ohne Referent anklingen. In der Heldinnenreise ist es die Illusion der perfekten Welt, Ordnung als Käfig, laut strukturierter Outline in der Ki-Vertiefung am Beginn von Akt I, und laut Kapitel-Kompendium und Storyform-Outline öffnet es die Ouroboros-Klammer, in der der Erstsatz am Ende der letzte ist, den Kael schreibt. Storyform A trägt das MC-Concern Memory als Erinnerungslosigkeit, laut Kapitel-Kompendium als latenten ersten Signpost; Storyform B ist laut Konzept-Iteration Genesis und Drei-Modi-Spezifikation OS-Physics als AEGIS-Architektur im Umgebungs-Log, laut strukturierter Outline latent als Umgebung, laut Kapitel-Kompendium der IC-Signpost mit Kael als unfixbarem Bug. Der Leser erkennt im sterilen Setting die Innere Weite aus der Genesis, Kael nicht.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Der Glitch“ ^[monstergruppe-primzahlen-plot-blueprint.md:L27]
+Position: „Akt I: Anomalie / Eindämmung (Kapitel 1-13)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L23]
+
+- Where: „Kael erlebt seinen Alltag in einer scheinbar normalen, von AEGIS verwalteten Kernwelt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L30]
+- Establishes: „Ein plötzlicher "Glitch" durchbricht die Normalität“ ^[monstergruppe-primzahlen-plot-blueprint.md:L30]
+- M-manifestation: „Der Glitch ist keine Fehlfunktion *in* der Simulation, sondern ein kurzes Durchscheinen der M-basierten Struktur *unter* der Simulation“ ^[monstergruppe-primzahlen-plot-blueprint.md:L31]
+
+Names no `Konstrukt-Stadt`: the Kernwelt AEGIS verwaltet is unnamed here (C9).
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the first riss, and no header
+
+Narrated in the third person, following Kael. This chapter carries neither a `(Fundamentales Konzept: …)` line nor a Heldinnenreise-stage marker — the document's own chapter-header pattern begins only at Kapitel 2.
+
+Title: „Kristalliner Käfig“ ^[kohaerenz-protokoll.md:L124]
+
+- Wakes: „Kael lag auf der Ruhefläche seines Wohnmoduls.“ ^[kohaerenz-protokoll.md:L128]
+- Glitch: „Ein warmes, goldenes Licht.“ ^[kohaerenz-protokoll.md:L176] — the name *Juna* surfaces the same line, an echo with no referent yet.
+- Close: „Der erste Riss war da.“ ^[kohaerenz-protokoll.md:L194]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -31,6 +54,32 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht eine geringfügige Abweichung von seiner Routine oder äußert einen leicht unkonventionellen Gedanken/Wunsch.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29]
 - Story: „Es erfolgt keine direkte Bestrafung, aber subtile Umgebungshinweise“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29] · „führen Kael sanft zur 'Norm' zurück. Kael könnte diese Ereignisse als bloße Seltsamkeiten abtun.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29]
 - Discussion: „Dieser Subplot führt AEGIS' Kontrolle subtil ein, ohne das System direkt zu offenbaren.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L30]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Der Erwachen-Zyklus und die Planck-Latenz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55]
+Position: „Teil I: Die Ästhetik des Unerklärlichen (Kapitel 1–13)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L51]
+
+- Where (C9): „Kael erwacht in seiner Wohneinheit in der Konstrukt-Stadt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55]
+- Establishes: „sein Spiegelbild führt die Bewegung mit einer kaum wahrnehmbaren, bruchteiligen Verzögerung aus“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55]
+- Style: „Die DKT-Implementierung erfordert hier eine reine K1-Stilistik: Parataktische Sätze, keine Emotionen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55]
+
+No knuckles: this document never writes `Knöchel` (0 matches whole document, `05-verify.txt`); it opens on a mirror-lag glitch, not a wound. (C10)
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael wakes in Logos-Prime, the bloody knuckles, and the heat and ozone that erase them
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Der Erwachen-Zyklus“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90] · „Der erste Akt manifestiert sich als ein eisiger, klaustrophobischer Stadthorror.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L92]
+
+- Where: „Kael erwacht in Logos-Prime (KW1).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] · „Die Temperatur beträgt exakt und unveränderlich 21°C.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
+- Knuckles (C10): „Er blinzelt, und plötzlich starrt er auf seine eigenen, blutig aufgerissenen Knöchel.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] · „Ihm fehlen Stunden.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
+- Heat and ozone (C11): „greift die Umgebungsbedingung AEGIS ein“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] · „Ohne Vorwarnung schnellt die Temperatur lokal in tödliche Höhen, ein beißender Ozon-Geruch erfüllt die Luft.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] · „Es ist die thermodynamische Abwärme einer Landauer-Löschung.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
+- What it establishes: „Das Blut an seinen Händen ist verschwunden, ebenso die Wunde und jegliche emotionale Resonanz an den Schmerz.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
+- Checklist, Fixpunkt 1: „Glitch (blutige Knöchel, Zeitverlust), Hitze + Ozon, AEGIS löscht, Leerstelle“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215] · „Der Glitch zeigt blutige Knöchel.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215] · „Es folgt die Landauer-Hitze und Ozon, die das Blut und die Erinnerung daran restlos löschen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215] · „Rein deskriptiv, ohne DKT-Jargon.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -84,6 +133,13 @@ Position: „Akt I\*\* | Kap 1–13“ ^[dual-storyform-hintergruende-md.md:L333
 
 - Juna: „Juna-Seed ab Ch1“ ^[dual-storyform-hintergruende-md.md:L451], the document's claim about an „Outline-Revision“ ^[dual-storyform-hintergruende-md.md:L451] of 2026-05-01 in its genealogy, whose effect it gives as „Akt-Architektur kanonisch.“ ^[dual-storyform-hintergruende-md.md:L451] · in the act table, for Akt I: „Juna-Seed über Riss-Szenen.“ ^[dual-storyform-hintergruende-md.md:L333]
 - Open, the first image: „Welches konkrete Bild aus Kap 1 kehrt in Kap 39 verändert wieder?“ ^[dual-storyform-hintergruende-md.md:L421] · „Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel.“ ^[dual-storyform-hintergruende-md.md:L421] — research question F10, one of the „Forschungsfragen aus Reset-Doc“ ^[dual-storyform-hintergruende-md.md:L417] the document restates; it gives no answer.
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — the first image, which Chapter 39's last mirrors
+
+An English world bible: „This document serves as the binding rulebook for the Coherence Protocol.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] Recorded, not applied (decision 006).
+
+- Ouroboros: „The structure is an Ouroboros.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] · „The final image of Chapter 39 mirrors the first image of Chapter 1, but with a total inversion of meaning—moving from Separation to Connection.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88]
+- The image is not named, and nothing else is said of Chapter 1 (`Chapter` 1, `Act` 0; `05-verify-readers.txt`). Its KW1, the Construct-City, is given no chapter or act.
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — its seam
 
@@ -168,11 +224,14 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
+- **Title, world (D47).** „Kristalliner Käfig“ ^[kohaerenz-protokoll.md:L124] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fourth title for the opening; `Kap` stands 0 times in the whole document, `Kernwelt` 3, `Kernwelten` 5 (`Plan/runs/kohaerenz-protokoll/05-verify.txt`), and names Kael's world `Co₁` rather than `Konstrukt-Stadt` or `KW1` (C9).
+- **Title (D42/D43).** „Der Erwachen-Zyklus und die Planck-Latenz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55] (the Ultra-Plot, Kapitel 1) · „Der Glitch“ ^[monstergruppe-primzahlen-plot-blueprint.md:L27] (the Primzahl-Blueprint, Kapitel 1) — two more titles for the opening, neither of them a knuckle or a Konstrukt-Stadt-name: the Ultra-Plot never writes `Knöchel` at all (0 matches, `05-verify.txt`), and the Primzahl-Blueprint never names the Kernwelt (C9, C10).
 - **Where Kael lives.** „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline) · „KW1 Sektor 04 / Wohneinheit 734 / Transitkorridor Delta-7“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L827] (Kernwelten vollständig) · „ein Mensch, ein steril, perfekt geordneter Alltag (Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium) — 734 is Kael's designation in unit 14, sector 7, or the unit's own number, in sector 04.
 - **What Kael does.** „Kael versucht eine geringfügige Abweichung von seiner Routine oder äußert einen leicht unkonventionellen Gedanken/Wunsch.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L29] (aegis-subplots) · „Kap 1: Kael bestätigt, dass die Welt stimmt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L124] (Plot-Konkretisierung) — he deviates, or he confirms.
 - **Storyform B.** „B: OS-Physics als AEGIS-Architektur, Umgebungs-Log“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508] (Konzept-Iteration Genesis) · „A dominant, B latent als Umgebung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L249] (strukturierter Outline) · „KW1 · A:MC-S1 (Memory latent), B:IC-S1 (Kael = unfixbarer Bug)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium) — B as OS environment, latent, or as the IC signpost.
 - **Title.** „Instrumente der Ordnung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L506] (Konzept-Iteration Genesis) · „Erwachen in der Konstrukt-Stadt“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L961] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Illusion der perfekten Welt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 1: Illusion der perfekten Welt — Ordnung als Käfig“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L249].
-- **What pairs Kap 1 with Kap 39.** „Kap 1 ↔ Kap 39 (erster Satz = letzter Satz, den Kael schreibt; gelockt: „Das Licht ist schon da, als ich erwache")“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92] (Kapitel-Kompendium) · „erster Satz = letzter Satz, den Kael schreibt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L127] (storyform outline) · „Das letzte Bild von Ch39 ist identisch mit dem ersten Bild von Ch1“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L847] · „Konkret: ein Telefon klingelt.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851] (the worldbuilding concept) — a sentence Kael writes, or an image, a ringing phone. · „Kap 1 und Kap 39 spiegeln sich im Erstsatz-Lock: erster Satz = letzter Satz, den Kael schreibt.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464] · „Kap 1↔39 (Lexem-Echo „da")“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470] (the philosophy catalogue) — the sentence, and an echo of one word. · „Welches konkrete Bild aus Kap 1 kehrt in Kap 39 verändert wieder?“ ^[dual-storyform-hintergruende-md.md:L421] · „Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel.“ ^[dual-storyform-hintergruende-md.md:L421] (the Dual-Storyform background document) — an open research question, an image, and no answer.
+- **What pairs Kap 1 with Kap 39.** „Kap 1 ↔ Kap 39 (erster Satz = letzter Satz, den Kael schreibt; gelockt: „Das Licht ist schon da, als ich erwache")“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92] (Kapitel-Kompendium) · „erster Satz = letzter Satz, den Kael schreibt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L127] (storyform outline) · „Das letzte Bild von Ch39 ist identisch mit dem ersten Bild von Ch1“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L847] · „Konkret: ein Telefon klingelt.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L851] (the worldbuilding concept) — a sentence Kael writes, or an image, a ringing phone. · „Kap 1 und Kap 39 spiegeln sich im Erstsatz-Lock: erster Satz = letzter Satz, den Kael schreibt.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464] · „Kap 1↔39 (Lexem-Echo „da")“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470] (the philosophy catalogue) — the sentence, and an echo of one word. · „Welches konkrete Bild aus Kap 1 kehrt in Kap 39 verändert wieder?“ ^[dual-storyform-hintergruende-md.md:L421] · „Kandidaten: Telefon-Stille, Ozon-Geruch, Pronomenwechsel.“ ^[dual-storyform-hintergruende-md.md:L421] (the Dual-Storyform background document) — an open research question, an image, and no answer. · „The final image of Chapter 39 mirrors the first image of Chapter 1, but with a total inversion of meaning—moving from Separation to Connection.“ ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] (the Systemic Architecture Specification) — an image, mirrored rather than identical, and not named.
+- **The knuckles and the heat.** „Er blinzelt, und plötzlich starrt er auf seine eigenen, blutig aufgerissenen Knöchel.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] · „Es folgt die Landauer-Hitze und Ozon, die das Blut und die Erinnerung daran restlos löschen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215] (the Hard-SF-Outline, 2026-04-08) — the knuckles bleed in Kap 1 and Landauer heat with ozone erases them, a month before the character bible puts them there (C10, C11); its title, „Der Erwachen-Zyklus“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94], is the Kernwelten document's sub-location for the chapter.
 
 ## Questions for this chapter
 

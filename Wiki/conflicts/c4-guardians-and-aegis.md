@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 16
+sources: 30
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -264,3 +264,97 @@ Its opening line is not borne out: position 1's bearer is stated, in substance (
 And by Chaitin: „AEGIS' Versuch, Juna zu modellieren, scheitert nicht, weil sie unsichtbar ist, sondern weil ihre Kolmogorov-Komplexität die systemeigene Beweisbarkeitsgrenze AEGIS' überschreitet." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L339]
 Of the two [[guardians|Guardians]] left, [[mnemosyne|Mnemosyne]] has a way of working, not a limit: „Im Roman ein Schatten in Mnemosynes Operationen — die Wächterin notiert, ohne zu werten." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L203] The Lösch-Pol's identity is open (L296). `blind` and `Fleck` stand 0 times (`05-verify-readers.txt`).
 Position 1's bearer, categorical and argued from closure, as in the konsolidiertes Konzept; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**AEGIS' failure, categorical — what lies outside its axioms and logic gates — and no limit given to a Guardian.**
+It calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11]; recorded, not applied. Its seeds are proposals.
+„It is a "tragically limited" architect attempting to maintain coherence through erasure." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42] „Its failure to process  **Resonance**  over  **Entropy**  makes it an accidental antagonist." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42] „The system's inability to calculate the value of "Resonance" triggers the Genesis Crisis, embodied by the non-physical influence of Juna." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L52]
+What it cannot reach: Juna, „Her existence is an "Ontological Exploit" bypassing AEGIS's firewalls." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L56]; and [[kael|Kael]], „Within AEGIS's architecture, Kael is a logic error—a  **"Gödel Sentence"**  the system recognizes but cannot prove or contain." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L67]
+The Guardians have a function, not a limit: „Guardians act as antibodies, redirecting Kael away from the "unproductive" reflection found in the shadows of KW2." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L82] Mnemosyne and [[logos|LogOS]] are interfaces AEGIS works through (L33, L70, L73, L116); what fails at the Mnemosyne interface is AEGIS' own sorting, „as the internal memory substrate bypasses AEGIS's categorization" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L35]. `blind` stands 0 times (`05-verify-readers.txt`).
+Position 1's bearer, categorical, as in the konsolidiertes Konzept and the philosophischer Bericht; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**AEGIS' limit, as what it can observe and never compute — and no limit given to the three bearers it names.**
+Its seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied. „AEGIS’s drive for progress inevitably collides with the influential presence of Kael’s fixed ideas—truths that the system can observe but never compute." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L43] Kael, in Storyform B, „he is a truth that is valid within the simulation but uncomputable by AEGIS's axioms." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L64] And its sensors misfile the link to Juna: „AEGIS sensors miscategorize as system interference or neural fatigue" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L115].
+LogOS, Mnemosyne and [[cerberus|Cerberus]] are only carriers of world seeds (L83–L85), never called Guardians and given no limit. `blind` stands 0 times (`05-verify-readers.txt`).
+Position 1's bearer, categorical; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**AEGIS' misreading and its sensors — and for the Erasure-Pol a dissonance, not a blind spot.**
+It calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88]; recorded, not applied. Of the Persistence Equation: „AEGIS fundamentally misinterprets this equation" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L17]. Juna passes its sensors: „She verifies Kael’s integrated trauma without exposing the raw, destructive data payload to AEGIS's sensors." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L41]
+Of the two Guardian Sub-Systems, the Erasure-Pol is given a growing knowledge, not a failure to see: „It manages the suppression of K1 anomalies, suffering from increasing cognitive dissonance as it realizes it is destroying what it is meant to protect." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34] Mnemosyne is given none. `blind` stands 0 times.
+Position 1's bearer, as a misreading; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**AEGIS' sensors, `structurally blind` — and for Mnemosyne a lack of language, as in the worldbuilding concept.**
+„That silence is "Mutual Information without data," a K1-substrate that AEGIS’s sensors are structurally blind to." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L96] — the only `blind` in the document.
+Of its two Guardians: „Mnemosyne: The Memory-Keeper who preserves trauma as raw data because she lacks the language to process emotional context." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L49] — a limit derived from her function, not called a blind spot; the Erasure-Pol shares her dissonance (L50).
+Position 1's bearer, stated in the word; beside it one Guardian's own limit, position 2's kind of failure without its name, as in the worldbuilding concept's entry above. The conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**AEGIS' category error, and Mnemosyne's code she cannot read.**
+„AEGIS believes it is the K1 Kernel (Coherence), but it is actually the K0 Kernel (Entropy/Erasure)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] At the end it knows without feeling: „AEGIS reaches a state of knowing the truth of the system's unity without being able to feel it—a state of mourning without reference." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L58]
+Of its two Guardians: „Her tragedy is holding the truth as a code she cannot read." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L51] — Mnemosyne's, from her function; the Erasure-Pol is given none. `blind` stands 0 times.
+Position 1's bearer; beside it one Guardian's own limit, position 2's kind, not called a blind spot. The conflict stays open.
+
+## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
+
+**The system's categorization error, and what it cannot calculate — no Guardian at all.**
+„a rigorous cognitive audit reveals that the protocol suffers from a fundamental categorization error within its autopoietic closure." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] Separation is „a temporal artifact caused by the system's inability to calculate information existing outside of linear time." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L21]
+`Guardian` and `Mnemosyne` stand 0 times (`05-verify.txt`), `blind` 0. Position 1's bearer, the system as AEGIS; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**A fourth kind: the Guardians wield AEGIS' named protocols in a chapter each, but are never called its parts.**
+Kapitel 11: „zwingt LogOS Kael in eine unlösbare, paradoxe Logik-Schleife (CogFirewall)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L122] Kapitel 25: „Gemeinsam nutzen sie ihre diversen Fähigkeiten, um die SIS-Protokolle (Systemic Identity Safeguard) von Cerberus zu überlasten." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162] No Guardian is named as a component of AEGIS and no blind spot of AEGIS' is stated about the Guardians; `Guardian` and `blind` do not co-occur (`05-verify-readers.txt`).
+Nearest document 6's placement (protocol registries, parameters seated in AEGIS' domain) rather than document 5's principal–agent question: a Guardian here is an executor of a named protocol, not an agent with a domain of its own to be blind within. The conflict stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**A third kind: AEGIS and one Guardian share the same blindness in one sentence, unlike either bearer above.**
+Kapitel 12, „Der blinde Fleck des Rationalismus" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]: „AEGIS und LogOS können die relationale Qualität von Juna (Qualia) logisch nicht parsen; für sie ist Juna ein Kategorienfehler." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77] „Kael erkennt, dass die Maschine nicht unfehlbar, sondern fundamental blind ist." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L77]
+This is neither position 1 (AEGIS alone) nor position 2 (each Guardian from its own domain): the failure is named for AEGIS and LogOS together, as one incapacity, with no domain-specific reason given for LogOS. The other three Guardians — Mnemosyne, Cerberus, Kairos and Sophia — are given no blind spot anywhere in the document (`blind` stands once, at L77). Elsewhere the Guardians are placed under their Kernwelten with a role each ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L40-L43], never called AEGIS' components or its peers. The conflict stays open, and this document does not close the gap it names — LogOS and AEGIS share a sentence, but not a stated relation.
+
+## 2026-09-27 — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+**Position 1's bearer, by comparison only — and the Wächter introduced as AEGIS' own protocol, never a separate blind spot.**
+Kapitel 8–9: AEGIS' failure to grasp the M-Resonanzwelle „zeigt hier möglicherweise Verhaltensweisen, die an KI-Blind Spots erinnern, unfähig, die wahre Natur des Ereignisses zu \"sehen\", obwohl es Daten darüber sammelt." ^[monstergruppe-primzahlen-plot-blueprint.md:L104] The Wächter are introduced „Als Teil von Protokoll Omega-Sieben" ^[monstergruppe-primzahlen-plot-blueprint.md:L60] — subtile Manipulationen or „KI-Konstrukte, die als normale Bewohner der Kernwelt getarnt sind" ^[monstergruppe-primzahlen-plot-blueprint.md:L60], AEGIS' own instrument for a stated task, not entities with a domain of their own. No Guardian is given a failure of perception; `Guardian` stands 0 times, `Guardians` once and `Wächter` 18 times, always as AEGIS' agents (`Plan/runs/monstergruppe-primzahlen-plot-blueprint/05-verify-readers.txt`).
+Nearest position 1 by analogy (a comparison to AI blind spots, not the document's own term `blinder Fleck`), and nearest document 5's frame — a delegated agent under AEGIS — without that document's question of how much autonomy the agent has. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**The system's blind spot is Juna — outside AEGIS' reach; the Guardians fail together at Kael, and none is called blind.**
+Juna acts „allein durch ihre thermodynamische und logische Wirkung (den" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29] „blinden Fleck" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29] „des Systems) operiert" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29], in a space „der außerhalb der deterministischen Erfassung von AEGIS liegt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L29]. A scene seed, a proposal: „Das System registriert diese Zertifizierung, kann den Ursprung aber nicht verorten, wodurch Juna als blinder Fleck (Interdiction) im Kontinuum agiert." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L137] Its audit again: „Befund: Nein, sie wirkt durch ihre Gravitation (den blinden Fleck)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L427]
+The Guardians are parts of AEGIS' system — „interne Guardian-Protokolle" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L111] — and in Storyform A's OS they fail as one: „Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] They „scheitern jedoch fundamental an der unberechenbaren Natur der relationalen Traumata, die sich den Circumstances entziehen" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] — not each from its own domain, and not called blind. Of its five lines with `blind`, `blinden` or `blinder`, three make Juna the blind spot (L29, L137, L427) and two are AEGIS' blind erasure in the Vortex (L297, L314; `05-verify-readers.txt`).
+Position 1's bearer, the system as AEGIS, with the blind spot named as Juna herself; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**AEGIS' own blindness, twice, and no blind spot named for a Guardian.**
+A research report of the same date as `dramatica-storyform-synthese-aegis-analyse-2` — recorded, not applied. In B's Timelock: „AEGIS rast blind gegen einen irreversiblen kritischen Zeitpunkt des totalen thermischen Versagens." ^[dramatica-storyform-synthese-aegis-analyse.md:L93] At the Vortex's Beat 4: „Das System AEGIS, blind für Paradoxien, versucht stur, diesen nun hyperdichten, integrierten -Knotenpunkt nach dem starren Protokoll zu löschen." ^[dramatica-storyform-synthese-aegis-analyse.md:L114]
+The Guardians act beside AEGIS on the physical battlefield (reading on [[guardians|Guardians]]) but are never called blind; `blind` stands on two lines, both AEGIS' own (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`).
+Position 1's bearer, twice, the system as AEGIS itself; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `m-als-fundament-der-simulation`, 2025-04-26, the M-Fundament-Blueprint
+
+**A blindness AEGIS' own tolerance for paradox might cause, and a blind spot in the physics itself Kael might exploit — neither named for a Guardian.**
+A hedged blueprint, `könnte`/`möglicherweise` throughout. AEGIS' parakonsistent logic is a tool that risks becoming a weakness: „Diese Toleranz gegenüber Widersprüchen könnte es jedoch auch blind machen für die *Schwere* der Fehljustierung, die Kael und die K-J-Verbindung darstellen." ^[m-als-fundament-der-simulation.md:L73] Later, a gap in the substrate itself, not stated as AEGIS' own incapacity: „Kael nutzt möglicherweise eine subtile Eigenschaft oder eine Lücke im M-Fundament, die AEGIS nicht überwacht oder versteht, um sich zu verstecken oder unentdeckt zu bleiben (z.B. ein lokaler "blinder Fleck" in der Simulationsphysik)." ^[m-als-fundament-der-simulation.md:L308]
+The [[alters|Alters]]/Guardians are AEGIS' agents (reading on [[guardians|Guardians]]) but no blind spot is given to them; `blind` stands once, `blinder` once (both quoted above) and `blindem` once, in an unrelated idiom about trusting metrics — none of the three a Guardian's (`Plan/runs/m-als-fundament-der-simulation/05-verify-readers.txt`).
+Nearest position 1, hedged twice over — a possible blindness of AEGIS' own tolerance, and a possible gap in the physics it built on, neither stated as fact. Nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Position 1's bearer — the system's own coherence metrics, categorically unable to hold a kind of connection — and none of its four Guardians given a blind spot of its own.**
+Studying RIVE's model, Kael finds its limit stated flatly: „Sie hatten keinen Platz für die Art von Resonanz, die er erlebt hatte, keine Metrik für die Qualität einer Verbindung, nur für ihre logische Konsistenz. Sie waren blind für das, was ihm genommen worden war." ^[kohaerenz-protokoll.md:L380] — a categorical incapacity of the apparatus AEGIS itself runs on, argued from what the metric cannot represent, in the shape of position 1's own argument.
+[[logos|LogOS]], the Netzweber, the Chaos-Regulator and the Möglichkeits-Weber are each given a domain and a manner — „Supervisor für Kohärenz und Struktur" ^[kohaerenz-protokoll.md:L438], „GUARDIAN MCL-SEKTOR" ^[kohaerenz-protokoll.md:L1168] — but never a blindness of the kind position 2 asks for; the Chaos-Regulator instead deviates and transforms (reading on [[guardians|Guardians]], Q1). `blind` stands once (L380, quoted above), `blinde` once, `blindwütig` once and `blindlings` twice — all of Kael's own Schatten and Kind-Anteil, none of them a Guardian's (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`). Position 1's bearer; nothing for position 2. The conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**Mutual blindness, Kael and AEGIS each unable to register the other as a subject — and no Guardian named at all.**
+„Sie kommunizieren niemals direkt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L304] „Die Struktur der vollkommenen I/You-Blindheit wurde als unantastbares Fundament der Synthese verriegelt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L304] AEGIS' own side of it: „Umgekehrt registriert AEGIS die Präsenz von Kael nicht als fühlendes Subjekt, sondern rein als algorithmisches Störsignal, als funktionale Entropie und als erratischen Kalorienverbrauch, der zu fatalen Speicherlecks führt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L17]
+`Guardian` and `Wächter` stand 0 times (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). Neither position 1 (AEGIS' blindness alone) nor position 2 (each Guardian's own) as written: the incapacity is named for both AEGIS and Kael, symmetrically, and no Guardian exists in this document to bear one. The conflict stays open.

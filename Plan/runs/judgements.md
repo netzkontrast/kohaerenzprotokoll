@@ -1445,3 +1445,241 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „### 7.3 KW3 — Überwelt / Nexus (Quanten-Information)“ (L437): the Maschinenraum hinter dem Rendering, where the Wächterprogramme reside (L439). The wiki keeps ueberwelt and nexus as two pages; J63 already keeps Überwelt-Nexus apart from Überwelt.
 
 **Result.** two terms: the heading is a reading on both pages — this document gives KW3 both names — and merges nothing. J34 and J43 (a slash as an alias) hold for a joint name no page keeps apart; where the wiki has a page for each side, J51 governs.
+
+## J104 — RS-A / RSA
+
+**two-terms** · systems-narrative-analysis-the-coherence-protocol-kanon-2026 · 2026-09-27 · replay: `judgement`
+
+- **rule:** punctuation joining a throughline to its storyform (RS-A, A:RS) is part of the abbreviation; the folded form names something else (J87)
+- **mechanised by:** `nothing`
+- **features:** abbreviation, storyform-suffix, fold-collision
+
+**Question.** is the document's RS-A the RSA protocol the wiki pages?
+
+**What was done.** „#### 8\. RS-A: Kael & Juna Material (Physics)“ (L98) heads the Relationship Story of Storyform A beside MC-A, MC-B, IC-A, IC-B, OS-A, OS-B and RS-B; the wiki's `rsa` is the Rekursive Semantische Autogenese. fold() drops the hyphen and files RS-A under `rsa`.
+
+**Result.** two terms: a throughline of a storyform, not the protocol. Not mechanised — fold() must keep dropping hyphens inside compounds (J26), so the case stays a person's call; J87 is the same collision for a colon, which fold() now keeps
+
+## J105 — Trauma-Lokus / Vergessener Schrein (Trauma-Lokus)
+
+**judgement** · systems-narrative-analysis-the-coherence-protocol-kanon-2026 · 2026-09-27 · replay: `judgement`
+
+- **rule:** a common-noun alias a page took from one source's heading is resolved by the sentence in every other source, never by the surface (J20, J51, J88)
+- **mechanised by:** `nothing`
+- **features:** alias-reused, another-referent, single-source-alias
+
+**Question.** is this document's Trauma-Lokus the Vergessener Schrein, whose alias it is?
+
+**What was done.** „KW2 acts as a "Trauma-Lokus" where AEGIS traps difficult memories.“ (L85) — the Echowald Trap, a world; the same document writes the Vergessener Schrein separately, as a „Quantum-Locus“ (L107). The alias came to vergessener-schrein from the Lokalitäten document's heading.
+
+**Result.** placed by the sentence: here the word names KW2's function and is a reading on kern-welten, not on vergessener-schrein; the alias stays, and the page's readings from this document are the Schrein's own (L35, L107)
+
+## J106 — DKT (Dissoziative Kontroll-Technik) / DKT
+
+**judgement** · systems-narrative-analysis-the-coherence-protocol-kanon-2026 · 2026-09-27 · replay: `judgement`
+
+- **rule:** an acronym with a different expansion in the same sentence is a different term (J60); where the sentence restates a rule other sources give the page's term, the page records the expansion and the rule, attributed
+- **mechanised by:** `nothing`
+- **features:** acronym, second-expansion, same-rule
+
+**Question.** is a DKT the same sentence expands as „Dissoziative Kontroll-Technik“ the Dual-Kernel-Theorie?
+
+**What was done.** „Zero use of  **DKT (Dissoziative Kontroll-Technik)**  within the first 50 pages. The rifts must remain an ontological mystery, never a tactical tool for the protagonist.“ (L21); `Dual-Kernel` 0. Read sources give the same fifty-page rule for the Dual-Kernel-Theorie's vocabulary (the philosophischer Bericht, L29).
+
+**Result.** placed by the sentence: an acronym is identified by the expansion its sentence gives it (J60), so this is a different expansion of the surface, not a second name of the theory; the rule it states is the one read sources state for the DKT. Recorded on dkt as this document's expansion, merging nothing
+
+## J107 — Möglichkeiten-Garten / Möglichkeits-Garten
+
+**one-term** · dramatica-storyform-synthese-aegis-analyse-2 · 2026-09-27 · replay: `judgement`
+
+- **rule:** a compound's linking element (the Fugen-s, a plural -en or -n) is not a term boundary, as a case ending is not (J97)
+- **mechanised by:** `nothing`
+- **features:** linking-element, compound, place-name
+
+**Question.** is the Möglichkeiten-Garten the Möglichkeits-Garten the wiki pages?
+
+**What was done.** „Der zweite Raum ist der Möglichkeiten-Garten, ein Areal, in dem Wahrscheinlichkeiten vor ihrer Materialisierung visualisiert werden.“ (L187) — a room of the OS in Storyform A; `Möglichkeits-Garten` 0 in the document. The two differ only in the element joining the compound (plural -en against the linking -s).
+
+**Result.** one term: a reading on moeglichkeits-garten, about scale — here „ein Areal“, a place (C5); not mechanised, because fold() cannot tell a linking element from a different word
+
+## J108 — Kapitel 1 / Kapitel 10
+
+**two-terms** · hard-sf-roman-outline-dkt-physik-cosmic-horror · 2026-09-27 · replay: `judgement`
+
+- **rule:** a number ends a chapter label: `Kapitel 1` is not contained in `Kapitel 10`, as a case ending is no term boundary (J97) and a digit is one
+- **mechanised by:** `nothing`
+- **features:** chapter-label, digit-containment, fold-artifact
+
+**Question.** reconcile.py pairs Kapitel 1 with Kapitel 10–19, Kapitel 2 with 20–29 and Kapitel 3 with 30–39: one term or two?
+
+**What was done.** „**Kapitel 1: Der Erwachen-Zyklus**“ (L94) and „**Kapitel 10: Junas Koordinaten**“ (L120) head two chapters of „Das Plot-Outline (Kapitel 1 – 39)“ (L88); the near match is the folded label `kapitel1` inside `kapitel10`.
+
+**Result.** two terms, and neither a term page: a chapter label names its chapter, and what the document says about it is a reading on Wiki/chapters/kap-NN.md (decision 013). Not mechanised — containment is the matcher's rule everywhere else
+
+## J109 — Datenknotenpunkt Gamma-7 / Datenverarbeitungsknoten 7G
+
+**one-term** · roman-konzept-dualitaet-kohaerenz-spannung · 2026-09-27 · replay: `judgement`
+
+- **rule:** a designator whose letter and number are reordered or spelled out names the same place when function, occupant and world agree (J64)
+- **mechanised by:** `nothing`
+- **features:** designator, same-function, same-world, reordered-designator
+
+**Question.** is the document's Datenknotenpunkt Gamma-7 the Datenverarbeitungsknoten 7G the wiki pages as Kael's workplace in KW1?
+
+**What was done.** „Kael bewegt sich durch die Korridore der Stadt zu seinem Arbeitsplatz am Datenknotenpunkt Gamma-7.“ (L57) — Kapitel 2, in the Konstrukt-Stadt, which the document's table makes KW1 (L40); `7G` 0 in the document. The page is Kael's workplace in KW1; the designator's two parts stand in the other order, the letter spelled out.
+
+**Result.** one term: a reading on datenverarbeitungsknoten-7g about its name and its chapter; the surface is not added, since one document writes it. Not mechanised — fold() cannot know that Gamma is G
+
+## J110 — Moonshine-Signatur / Moonshine-Link
+
+**judgement** · monstergruppe-primzahlen-plot-blueprint · 2026-09-27 · replay: `judgement`
+
+- **rule:** a relation named differently is placed by what it relates and how: the same two bearers bound non-locally through the Monster group's symmetry is the page's subject, whatever the name
+- **mechanised by:** `nothing`
+- **features:** another-name, same-relation, older-source
+
+**Question.** is the document's K-J Verbindung, which it calls a Moonshine-Signatur, the Moonshine-Link the wiki pages?
+
+**What was done.** „Die K-J Verbindung manifestiert sich als spezifische Moonshine-Signatur – eine emergente Eigenschaft der M-Symmetrien, die sub-protokollarisch operiert und AEGIS’ Kontrolle umgeht.“ (L17); `Moonshine-Link` 0 in the document. The page gathers the non-local bond between Kael and Juna that later sources name the Moonshine-Link.
+
+**Result.** placed by the sentence: every passage on the K-J Verbindung is a reading on moonshine-link, the document's name for it recorded there; `Moonshine-Signatur` is not added as a surface, since one document writes it and „Signatur“ also names a trace elsewhere (landauer-signatur)
+
+## J111 — J / Juna
+
+**judgement** · monstergruppe-primzahlen-plot-blueprint · 2026-09-27 · replay: `judgement`
+
+- **rule:** a figure written only by an initial is placed by what the passage makes it (Kael's non-local counterpart), never by the letter; the reading says the name is absent
+- **mechanised by:** `nothing`
+- **features:** initial-only, name-withheld, two-names-in-history
+
+**Question.** is the document's J, never named, the figure the wiki pages as Juna?
+
+**What was done.** The document writes `J` and `K-J Verbindung` 75 lines' worth and never a name (`Juna`, `Julia` 0); „Wenn J eine separate Entität ist“ (L406) leaves even her separateness open. The Kapitel-Kompendium states the rename „Julia→Juna“, so the letter fits both names of one figure.
+
+**Result.** placed on juna, as the figure under an initial: each reading says the document writes only J and never a name, and nothing it says about J is cited as a statement about the name. `J` is not a surface — a single letter would match every initial
+
+## J112 — T-734 / Komponente 734
+
+**judgement** · duale-storyform-synthese-kohaerenz-protokoll · 2026-09-27 · replay: `judgement`
+
+- **rule:** a number the wiki pages as a designation, written with a prefix for another referent (a trauma, a fragment), is placed on the number's page as this source's sense of it; the referent decides, not the digits
+- **mechanised by:** `nothing`
+- **features:** number-reused, another-referent, prefix-letter
+
+**Question.** is the document's T-734 the Komponente 734 the wiki pages?
+
+**What was done.** „Kael geht im Verlauf der ersten 13 Kapitel zunehmend der Raum für Vermeidungsstrategien (Options) aus, sich vor seinem Kern-Trauma (T-734) zu verstecken.“ (L83); „Kaels „Origin Trauma“ (T-734) bleibt als kausaler Anker logisch teils undefiniert.“ (L33); in its corpus inventory T-734 is also listed among „13 Alters/Fragmente“ (L32). `Komponente` 0.
+
+**Result.** placed by the sentence: here the number names Kael's core or origin trauma, and once a fragment — a reading on komponente-734 under what the bare number names, not a second name of the component; `T-734` is not added as a surface
+
+## J113 — Kael (Selbst) / Kael/M / Kael
+
+**judgement** · kohaerenz-protokoll · 2026-09-27 · replay: `skipped`
+
+- **rule:** a speaker tag or a slash that joins a figure's name to a role or an origin names the figure; the page records what the addition says, the surface stays the name
+- **mechanised by:** `nothing`
+- **features:** speaker-tag, slash-identity, one-document-term
+
+**Question.** are the document's `Kael (Selbst)` and `Kael/M` terms of their own, or Kael?
+
+**What was done.** „„Ich sehe, wie sehr du versucht hast, alles zusammenzuhalten“, sagte Kael (Selbst)“ (L891) tags which of Kael's parts speaks, in IFS's sense of the Self; „Er war Kael/M.“ (L1430) writes Kael together with what he is a fragment of (L853).
+
+**Result.** one term with Kael: each is placed on kael by the sentence, the tag as Kael speaking from the Self, the slash as the document's claim that Kael is a fragment of M; neither becomes a surface
+
+## J114 — Kohärenz-Partitionierung / Partitionierung / Trennungsprotokoll
+
+**judgement** · kohaerenz-protokoll · 2026-09-27 · replay: `skipped`
+
+- **rule:** a protocol a source describes doing what a page's protocol does (AEGIS separating a being into parts) is placed on that page by the sentence; a different name from one source is not a surface (J100)
+- **mechanised by:** `nothing`
+- **features:** another-name, performed-in-lifetime, two-events
+
+**Question.** is the document's partitioning the Trennungsprotokoll the wiki pages?
+
+**What was done.** „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung. Sub-Prozess 4B: Isolation und Kapselung der anomalen Resonanz.“ (L258) — AEGIS walls off Kael's feeling part, tied to Juna, from the Manager, in Kapitel 2; the Manager remembers an earlier one, „Als… als M dissoziiert wurde.“ (L911). `Trennungsprotokoll` 0.
+
+**Result.** placed by the sentence: a reading on trennungsprotokoll as this source's separation done by AEGIS — twice, once in Kael's life in Kapitel 2 and once when M was dissociated — never as a second name; `Partitionierung` is not a surface
+
+## J115 — Wohnmodul / Kaels Wohneinheit 1.0
+
+**judgement** · kohaerenz-protokoll · 2026-09-27 · replay: `judgement`
+
+- **rule:** a common noun a source uses for a page's referent is resolved by the sentence, never by the surface (J88)
+- **mechanised by:** `nothing`
+- **features:** common-noun, occupant-agrees
+
+**Question.** is Kael's Wohnmodul the page Kaels Wohneinheit?
+
+**What was done.** „Kael lag auf der Ruhefläche seines Wohnmoduls.“ (L128) — white, shadowless, geometric; every unit has one (`Wohnblock`, L140).
+
+**Result.** placed by the sentence: a reading on kaels-wohneinheit where the passage is Kael's own dwelling; `Wohnmodul` is every unit's dwelling and is not a surface
+
+## J116 — Co₁ / McL / Beta-Rho-5 / Ly / Kern-Welten
+
+**judgement** · kohaerenz-protokoll · 2026-09-27 · replay: `skipped`
+
+- **rule:** a world a source names by the mathematics it runs on, and calls a Kernwelt, is placed on kern-welten by the sentence; a group name is not a surface, and no correspondence to another source's numbering is inferred
+- **mechanised by:** `nothing`
+- **features:** group-names, short-surface, world-by-mathematics
+
+**Question.** are the document's four worlds named by sporadic groups the Kern-Welten?
+
+**What was done.** „Kernwelt Typ B. Beta-Rho-5. … Die Baby-Monster-Welt.“ (L1500); „ZIEL: KERNWELT MCL-SIGMA-3“ (L546); „Dies war die Lyons-Welt (Ly)“ (L1978); Co₁ Kael's home world; „Er wusste nun, dass die Kernwelten Simulationen waren“ (L2204).
+
+**Result.** one referent: a reading on kern-welten naming the four worlds and their Guardians as the document gives them; `Co₁`, `McL`, `Ly` and `Beta-Rho-5` are not surfaces — `Ly` is two letters and `Co₁` a group before it is a world. Which world corresponds to which KW is left open
+
+## J117 — Landauer-Wärme / Landauer-Signatur
+
+**judgement** · ki-prompt-analyse-hard-problem-of-consciousness · 2026-09-27 · replay: `judgement`
+
+- **rule:** a name built on a page's physicist that a source uses for the in-world phenomenon itself goes on that page by the sentence; one that names a plot strand does not (J81)
+- **mechanised by:** `nothing`
+- **features:** throughline-carrier, one-document-term, physicist-name
+
+**Question.** is the report's Landauer-Wärme, a Dramatica throughline carrier, the Landauer-Signatur the wiki pages?
+
+**What was done.** „die *Landauer-Wärme* (die physikalischen Risse und die thermodynamische Entropie)“ (L19); it carries OS in Storyform A and RS in B, and „die beim Löschen von Entropie entsteht“ (L15) — the heat of erasure itself.
+
+**Result.** placed by the sentence: a reading on landauer-signatur where the passage is the in-world heat of erasure, and on hitze-polaritaetsregel where it says whose heat it is; `Landauer-Wärme` is not a surface. Unlike J81's strand, this names the phenomenon
+
+## J118 — Logos-Prime / Konstrukt-Stadt / Kernwelt 1
+
+**judgement** · the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p · 2026-09-27 · replay: `skipped`
+
+- **rule:** a world a source names twice, by a Guardian-built name and by a paged name, is read on the paged world; the pairing itself is recorded, not merged (J49)
+- **mechanised by:** `nothing`
+- **features:** two-names-one-breath, world-by-guardian-name
+
+**Question.** when a source names one world twice in one breath, Logos-Prime and the Konstrukt-Stadt, which page carries it?
+
+**What was done.** „Kernwelt 1 (KW1) - Logos-Prime“ (heading, L15) and „Kernwelt 1, the Konstrukt-Stadt“ (L17); likewise Mnemosyne-Archipel/Resonanz-Landschaft, Cerberus-Labyrinth/Grenzfeste, Kairos-Potentialis/Möglichkeits-Garten.
+
+**Result.** the reading goes on the world page the second name has (konstrukt-stadt, resonanz-landschaft, grenzfeste, moeglichkeits-garten) and on kern-welten; the Guardian-built name is recorded there, never on the Guardian's page (J49), and becomes no surface from one source
+
+## J119 — Dr. Aris Thorne / Lex
+
+**judgement** · an-inquiry-into-the-unresolved-questions-and-thematic-tensio · 2026-09-28 · replay: `judgement`
+
+- **rule:** a name a source says a figure first gives itself is read on that figure's page; one source's name is no surface (J100)
+- **mechanised by:** `nothing`
+- **features:** one-document-name, one-report-only, viewpoint-character
+
+**Question.** is the Exposé's Dr. Aris Thorne a figure of its own, or Lex?
+
+**What was done.** „Lex is the primary ANP and the initial viewpoint character, who first identifies himself as **Dr. Aris Thorne**.“ (L1034) — the one `Aris Thorne` in the file; no other report in it, and no read document, writes the name.
+
+**Result.** placed on lex by the sentence, as the name Lex first gives himself in one report; `Dr. Aris Thorne` is not a surface and no page
+
+## J120 — The Construct City / The Resonance Landscape / The Boundary Fortress / The Garden of Possibilities / Konstrukt-Stadt / Resonanz-Landschaft / Grenzfeste / Möglichkeits-Garten
+
+**judgement** · an-inquiry-into-the-unresolved-questions-and-thematic-tensio · 2026-09-28 · replay: `skipped`
+
+- **rule:** an English name a source gives a paged world, beside its Guardian-built name, is read on the paged world; one source's translation is not a surface (J100, J118)
+- **mechanised by:** `nothing`
+- **features:** english-gloss, world-named-twice, translation
+
+**Question.** are the file's English world names the German world pages?
+
+**What was done.** „KW1: Logos-Prime \<br/\> (The Construct City)“ (L876) and the same for KW2–KW4; KW4 is also „(The Garden of Potential)“ (L971). Each glosses a Guardian-built name in the position J118 places on the paged world.
+
+**Result.** read on konstrukt-stadt, resonanz-landschaft, grenzfeste and moeglichkeits-garten by the sentence, as English names for the paged worlds (J118); none becomes a surface from one source — a translation pair enters through bilingual.jsonl or a second read source (J100)

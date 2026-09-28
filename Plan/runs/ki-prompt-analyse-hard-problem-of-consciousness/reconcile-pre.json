@@ -1,0 +1,520 @@
+{
+  "document": "ki-prompt-analyse-hard-problem-of-consciousness",
+  "step": "reconcile-pre",
+  "at": "2026-09-27",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-27",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 114,
+  "decisions": 114,
+  "same_surface": {},
+  "decided_mechanically": 98,
+  "needs_judgement": 16,
+  "buckets": {
+    "already_there": [
+      {
+        "candidate": "Kishōtenketsu",
+        "page": "kishotenketsu",
+        "readings": 11
+      },
+      {
+        "candidate": "Gödel-Gambit",
+        "page": "goedel-gambit",
+        "readings": 23
+      }
+    ],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 42
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 45
+      },
+      {
+        "candidate": "Trennungsprotokoll",
+        "page": "trennungsprotokoll",
+        "readings": 29
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 24
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 28
+      },
+      {
+        "candidate": "Funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 36
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 40
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 27
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 35
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 33
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Hard Problem of Consciousness"
+      },
+      {
+        "candidate": "K1"
+      },
+      {
+        "candidate": "K0"
+      },
+      {
+        "candidate": "5D-Interferenz"
+      },
+      {
+        "candidate": "Interferenzstruktur"
+      },
+      {
+        "candidate": "Property Dualism"
+      },
+      {
+        "candidate": "Integrated Information Theory"
+      },
+      {
+        "candidate": "IIT"
+      },
+      {
+        "candidate": "I/You-Spiegelung"
+      },
+      {
+        "candidate": "Explanatory Gap"
+      },
+      {
+        "candidate": "Erklärungs-Lücke"
+      },
+      {
+        "candidate": "Relationship Story"
+      },
+      {
+        "candidate": "Overall Story"
+      },
+      {
+        "candidate": "Kreuz-Spiegelung"
+      },
+      {
+        "candidate": "Werk-Korpus-Inventar"
+      },
+      {
+        "candidate": "Hard Canon Masterfile"
+      },
+      {
+        "candidate": "Ouroboros-Ende"
+      },
+      {
+        "candidate": "39-Kapitel-Matrix"
+      },
+      {
+        "candidate": "Dialetheismus"
+      },
+      {
+        "candidate": "Phönix-Kollaps"
+      },
+      {
+        "candidate": "Der Tragische Gott"
+      },
+      {
+        "candidate": "Witness Function"
+      },
+      {
+        "candidate": "Telefonat-Anker"
+      },
+      {
+        "candidate": "Coherence Kernel"
+      },
+      {
+        "candidate": "Erasure Kernel"
+      },
+      {
+        "candidate": "Kernel-Logik"
+      },
+      {
+        "candidate": "Mutual-Information-Loops"
+      },
+      {
+        "candidate": "MC"
+      },
+      {
+        "candidate": "IC"
+      },
+      {
+        "candidate": "OS"
+      },
+      {
+        "candidate": "RS"
+      },
+      {
+        "candidate": "Psychology"
+      },
+      {
+        "candidate": "Universe"
+      },
+      {
+        "candidate": "Physics"
+      },
+      {
+        "candidate": "Mind"
+      },
+      {
+        "candidate": "Temperaturabfall"
+      },
+      {
+        "candidate": "Resolve"
+      },
+      {
+        "candidate": "Change"
+      },
+      {
+        "candidate": "Steadfast"
+      },
+      {
+        "candidate": "Alpha-Logik"
+      },
+      {
+        "candidate": "Kapitel 32"
+      },
+      {
+        "candidate": "Driver"
+      },
+      {
+        "candidate": "Action"
+      },
+      {
+        "candidate": "Dance in the Garden"
+      },
+      {
+        "candidate": "Kapitel 13"
+      },
+      {
+        "candidate": "Kapitel 35–36"
+      },
+      {
+        "candidate": "Steelman-Lesart"
+      },
+      {
+        "candidate": "Falsifikations-Test"
+      },
+      {
+        "candidate": "Memory Leak"
+      },
+      {
+        "candidate": "Timelock"
+      },
+      {
+        "candidate": "Optionlock"
+      },
+      {
+        "candidate": "Kernel Errors"
+      },
+      {
+        "candidate": "Gravitationsleckagen"
+      },
+      {
+        "candidate": "Akt 3"
+      },
+      {
+        "candidate": "Bewertungs-Triplets"
+      },
+      {
+        "candidate": "Dialektische Vergleichsmatrix"
+      },
+      {
+        "candidate": "Approach"
+      },
+      {
+        "candidate": "Be-er"
+      },
+      {
+        "candidate": "Do-er"
+      },
+      {
+        "candidate": "Growth"
+      },
+      {
+        "candidate": "Outcome"
+      },
+      {
+        "candidate": "Judgment"
+      },
+      {
+        "candidate": "5D-Hard-Problem-Architektur"
+      },
+      {
+        "candidate": "fünfte Dimension"
+      },
+      {
+        "candidate": "Bohrsche Komplementarität"
+      },
+      {
+        "candidate": "thermodynamische Narben"
+      },
+      {
+        "candidate": "T-734"
+      },
+      {
+        "candidate": "Bewusstseins-Topographie"
+      },
+      {
+        "candidate": "Ouroboros-Ending"
+      },
+      {
+        "candidate": "DKT-Kernparadoxon"
+      },
+      {
+        "candidate": "Reader = Substrat"
+      },
+      {
+        "candidate": "Telefonat-Schlüsselbild"
+      },
+      {
+        "candidate": "Schweigen"
+      },
+      {
+        "candidate": "Query Expansion Log"
+      },
+      {
+        "candidate": "Reflection History"
+      },
+      {
+        "candidate": "Falsification"
+      },
+      {
+        "candidate": "Dialectical Synthesis"
+      },
+      {
+        "candidate": "Phenomenological Anchor"
+      },
+      {
+        "candidate": "NotebookLM"
+      },
+      {
+        "candidate": "Chalmers"
+      },
+      {
+        "candidate": "Tononi"
+      },
+      {
+        "candidate": "Friston"
+      },
+      {
+        "candidate": "Husserl"
+      },
+      {
+        "candidate": "Dennett"
+      },
+      {
+        "candidate": "Hegel"
+      },
+      {
+        "candidate": "Popper"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Duale Dramatica-Storyform-Mapping  /  Storyform",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Duale Dramatica-Storyform-Mapping  /  Dramatica",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Storyform  /  Storyform A",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Storyform  /  Storyform B",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Storyform  /  Storyform Half-Life Audit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Landauer-Wärme  /  Landauer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael/M",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dramatica-Element-Matrix  /  Dramatica",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "13 Alters",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael/M",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis-Krise",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Erasonen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "erason",
+            "page": "erason"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis-Sequenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Landauer",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "landauersignatur",
+            "page": "landauer-signatur"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 28,
+      "already_read": false
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 169,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 212,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "thermodynamischer-phaenomenalismus",
+      "surface": "Thermodynamischer Phänomenalismus",
+      "line": 257,
+      "already_read": true
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 169,
+      "already_read": true
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 120,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

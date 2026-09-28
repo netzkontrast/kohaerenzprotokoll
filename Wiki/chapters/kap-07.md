@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,25 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In der Stimme im Rauschen wird die Verbindung zwischen Kael und Juna stärker: Kael spürt sie, ohne sie zu sehen, erkennt eine Resonanz wieder, ohne zu wissen, was sie ist, und die Telefon-Stille wird zum ersten expliziten Anker, laut Kernwelten vollständig an einem Telefon-Stille-Lokus in KW1; laut Plot-Konkretisierung spricht er zum ersten Mal in die Leitung hinein, während sein Gegenregister pausiert. Juna wird nie Subjekt, nur Wirkung, nicht beschrieben, nur Stille und Phantom-Resonanz; ihre Resonanz, in der Genesis ein Angriff, ist jetzt als Sehnsucht erfahrbar, erzählt laut strukturierter Outline und Drei-Modi-Spezifikation in Kaels emotionaler, lyrischer Stimme. Sinnlich tragen es Stille als Klang und warme Resonanz, laut strukturierter Outline und Drei-Modi-Spezifikation ein warmer Windstoß in eisiger Welt mit Melodie, den die Konzept-Iteration Genesis dem Bunker-Bau gibt; laut AEGIS-Subplots begegnet Kael hier einem Riss als lokalem Kontrollverlust, der ihm beweist, dass seine Welt konstruiert ist. In der Heldinnenreise ist es Unterstützung, die Sehnsucht nach dem Weiblichen, laut strukturierter Outline in der Ki-Vertiefung von Akt I; Storyform A trägt die Relationship Story in Physics mit Moonshine-Bewusstwerdung, laut Kapitel-Kompendium und Storyform-Outline ihren ersten Signpost Learning, Storyform B ist latent, und laut Plot-Konkretisierung liegt das Kapitel im Fenster des Hard-B-Kapitels.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Das Flüsternetzwerk“ ^[monstergruppe-primzahlen-plot-blueprint.md:L87]
+
+- Establishes: „Die K-J Verbindung wird konsistenter, aber immer noch subtil“ ^[monstergruppe-primzahlen-plot-blueprint.md:L90]
+- K-J: „Könnte als Metapher für Twin Primes dienen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L93]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — Monstrous Moonshine, and Kael as a fragment of M
+
+Title: „Das Flüstern im Riss“ ^[kohaerenz-protokoll.md:L795]
+Position: „(Fundamentales Konzept: Monstrous Moonshine / K-J Verbindung (Bewusstwerdung))“ ^[kohaerenz-protokoll.md:L797] · „(Heldinnenreise Stufe 7: Unterstützung / Sehnsucht nach dem Weiblichen (nach Murdock) / Adaptiert: All is Lost (vor der Unterstützung))“ ^[kohaerenz-protokoll.md:L799]
+
+- „Monstrous Moonshine. Der Begriff tauchte in seinem Bewusstsein auf“ ^[kohaerenz-protokoll.md:L837]
+- Juna's presence, sustained: „Sie war da. Sie war immer da gewesen, hinter der Mauer, im Echo, im goldenen Licht.“ ^[kohaerenz-protokoll.md:L829]
+- The support named: „Die Unterstützung war da.“ ^[kohaerenz-protokoll.md:L847]
+- Kael and M: „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link“ ^[kohaerenz-protokoll.md:L853]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -32,6 +51,27 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael begegnet einem 'Riss' oder wird darin gefangen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „die Realität selbst scheint auszufransen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Story: „Kael könnte kurzzeitig etwas 'außerhalb' oder 'unterhalb' der Simulation wahrnehmen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107] · „AEGIS/Guardians könnten aktiv versuchen, den Riss einzudämmen oder zu reparieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L107]
 - Discussion: „liefert Kael unbestreitbare Beweise dafür, dass seine Welt konstruiert und fehlerhaft ist“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L108]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Der Riss im Kontinuum und die Quantenuhr“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
+
+- Establishes: „Ein herabfallender Wassertropfen verharrt in der Luft“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
+- Switching: „Alex, der Beschützer-ANP, übernimmt exekutiv die Kontrolle“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Nyx out of the shadows, a monster of the simulation
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Die Monstergruppe“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L110]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Where: „In den dunklen Versorgungsschächten der Stadt trifft Kael auf physische Manifestationen, die AEGIS als entropischen Abfall klassifiziert hat.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L112]
+- Who: „Hier tritt Nyx aus den Schatten – wild, aggressiv und getrieben von einem endlosen, stummen Zorn.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L112]
+- Reader's view: „Für den Leser ist sie ein korrumpiertes Programm“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L112]
+- What it establishes: „spürt dabei jedoch eine erschreckende Symmetrie in ihren Bewegungen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L112]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -123,8 +163,10 @@ Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkret
 
 ## Where the sources differ
 
+- **Title, and M named for the first time (D47).** „Das Flüstern im Riss“ ^[kohaerenz-protokoll.md:L795] (the Kohärenz-Protokoll narrative, 2025-04-27) — a third title; it gives Kael's link to Juna a mechanism, „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link“ ^[kohaerenz-protokoll.md:L853], where the other sources here give an image, not a cause.
 - **The warm gust.** „warmer Windstoß in eisiger Welt, Melodie, Telefon-Stille“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L409] (strukturierter Outline, Kap 7) · „warmer Windstoß in eisiger Welt, fremde Melodie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis, its Kap 3) — the same image in Kap 7 or in Kap 3.
 - **Title.** „Unterstützung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (Kapitel-Kompendium) · „Die Stimme im Rauschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L530] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 7: Unterstützung — Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L393].
+- **The Hard-SF-Outline.** „Die Monstergruppe“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L110] (the Hard-SF-Outline, 2026-04-08) — a new title, and Nyx's first appearance, as an attacker: „Hier tritt Nyx aus den Schatten – wild, aggressiv und getrieben von einem endlosen, stummen Zorn.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L112]
 
 ## Questions for this chapter
 

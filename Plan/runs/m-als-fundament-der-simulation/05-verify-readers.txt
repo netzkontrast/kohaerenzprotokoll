@@ -1,0 +1,39 @@
+# 05-verify-readers — m-als-fundament-der-simulation
+guardians/kern-welten/c4/c6/q1/q5 (s4446-worlds): grep -cw 'Erasure-Pol' Sources/drive/m-als-fundament-der-simulation.md
+0
+kern-welten/q5 (s4446-worlds): grep -cw 'KW2' Sources/drive/m-als-fundament-der-simulation.md
+0
+kern-welten/q5 (s4446-worlds): grep -cw 'KW3' Sources/drive/m-als-fundament-der-simulation.md
+0
+kern-welten/q5 (s4446-worlds): grep -cw 'KW4' Sources/drive/m-als-fundament-der-simulation.md
+0
+q5 (s4446-worlds): grep -cw 'Resonanz-Landschaft' Sources/drive/m-als-fundament-der-simulation.md
+0
+q5 (s4446-worlds): grep -cw 'Grenzfeste' Sources/drive/m-als-fundament-der-simulation.md
+0
+q5 (s4446-worlds): grep -cw 'Möglichkeits-Garten' Sources/drive/m-als-fundament-der-simulation.md
+0
+q1 (s4446-worlds): grep -cw 'reduziert' Sources/drive/m-als-fundament-der-simulation.md
+1
+c4 (s4446-worlds): grep -now '[Bb]lind[a-zäöü]*' Sources/drive/m-als-fundament-der-simulation.md
+73:blind
+308:blinder
+404:blindem
+potentialmeer: grep -c 'Ursprungs-Ich' Sources/drive/m-als-fundament-der-simulation.md
+0
+potentialmeer: grep -c 'Genesis' Sources/drive/m-als-fundament-der-simulation.md
+0
+alters/kael: grep -cw 'Lex' Sources/drive/m-als-fundament-der-simulation.md
+0
+alters/kael: grep -cw 'Nyx' Sources/drive/m-als-fundament-der-simulation.md
+0
+alters/kael: grep -cw 'Kiko' Sources/drive/m-als-fundament-der-simulation.md
+0
+alters/kael: grep -cw 'Selene' Sources/drive/m-als-fundament-der-simulation.md
+0
+alters/kael: grep -cw 'Moros' Sources/drive/m-als-fundament-der-simulation.md
+0
+did: grep -cw 'DID' Sources/drive/m-als-fundament-der-simulation.md
+0
+did: grep -cw 'TSDP' Sources/drive/m-als-fundament-der-simulation.md
+0

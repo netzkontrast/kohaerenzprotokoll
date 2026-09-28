@@ -1,0 +1,76 @@
+vortex: grep -cw -e 'Kap' -e 'Kapitel 36' -e 'Kapitel 37' -e 'Vortex 1' -e 'Vortex 2' -e 'Genesis' -e 'trügerisch' -e 'Dialetheic Choice' -e 'Silence' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Kap 0, Kapitel 36 0, Kapitel 37 0, Vortex 1 0, Vortex 2 0, Genesis 0, trügerisch 0, Dialetheic Choice 0, Silence 0
+aegis: grep -cw 'Person' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+aegis: grep -cw 'Innensicht' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+aegis: grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+aegis: grep -cw 'Do-er' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+aegis: grep -cw 'Be-er' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 1
+aegis: grep -cw 'Autonomous' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+aegis: grep -cw 'Genesis' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+goedel-gambit: grep -cw -e 'Gödel-Gambit' -e 'Gambit' -e 'Gödel' -e 'Gödel-Satz' -e 'Gödelsatzes' -e 'Dialetheia' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Gödel-Gambit 0, Gambit 0, Gödel 1, Gödel-Satz 1, Gödelsatzes 1, Dialetheia 5
+kael: grep -cw 'Knöchel' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+kael: grep -cw '734' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+juna: grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0; grep -cw 'Kapitel' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 2 (L33, L270: both 'Kapitel 35–36')
+dkt: grep -cw -e 'DKT' -e 'Dual-Kernel' -e 'DKT-Korrelat' -e 'Giannakopoulos' -e 'Coheron' -e 'Erason' -e 'PAL' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> DKT 15, Dual-Kernel 4, DKT-Korrelat 8, Giannakopoulos 0, Coheron 0, Erason 0, PAL 0
+multiplizitaet: grep -cw 'Fusion' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+multiplizitaet: grep -cw 'Verschmelzung' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+multiplizitaet: grep -cw 'Schleier' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+multiplizitaet: grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+tsdp: grep -cw 'dreizehn' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+tsdp: grep -cw 'tertiär' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+tsdp: grep -cw 'tertiäre' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+tsdp: grep -cw '13' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 3 (L415 list number, L493 and L523 footnote numbers)
+kohaerenz-kernel: grep -cw -e 'Kohärenz-Kernel' -e 'K₁' -e 'K1' -e 'Coherence Kernel' -e 'Coherence' -e 'glaubt' -e 'Coheron' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Kohärenz-Kernel 0, K₁ 0, K1 2, Coherence Kernel 1, Coherence 2, glaubt 0, Coheron 0
+kollaps-kernel: grep -cw -e 'Kollaps-Kernel' -e 'K₀' -e 'K0' -e 'Erasure Kernel' -e 'Erasure-Kern' -e 'Collapse Kernel' -e 'Erason' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Kollaps-Kernel 0, K₀ 0, K0 3, Erasure Kernel 2, Erasure-Kern 1, Collapse Kernel 0, Erason 0
+algorithmische-melancholie: grep -cw 'Reliquie' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+truth-rotation: grep -ciw 'große Inversion' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+chaitin-konstante: grep -cw 'Chaitin' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 2 (L29, L109); grep -c 'Ω' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0; grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+landauer-signatur: grep -cw -e 'Landauer-Signatur' -e 'Landauer' -e 'warm' -e 'Wärme' -e 'Ozon' -e 'kalt' -e 'Kap 6' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Landauer-Signatur 0, Landauer 13, warm 0, Wärme 1, Ozon 1, kalt 0, Kap 6 0
+landauer-signatur: grep -cw -e 'kalten' -e 'eiskalten' -e 'Kälte' -e 'kühler' -e 'Kühle' -e 'Abwärme' -e 'Hitze' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> kalten 1, eiskalten 1, Kälte 1, kühler 1, Kühle 0, Abwärme 2, Hitze 4
+mosaik-herz: grep -cw 'Mosaik' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 1; grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0; grep -cw 'KW4' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+kaels-wohneinheit: grep -cw '734' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0; grep -cw 'KW1' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0; grep -cw 'Wohneinheit' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 1 (L91)
+hitze-polaritaetsregel: grep -cw -e 'Polarität' -e 'warm' -e 'Wärme' -e 'kalt' -e 'Ozon' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Polarität 1, warm 0, Wärme 1, kalt 0, Ozon 1
+c4-guardians-and-aegis: grep -nw -e blind -e blinden -e blinder Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> lines 29, 137, 297, 314, 427 (5)
+nichts-rauschen: grep -cw -e 'Nichts-Rauschen' -e 'Nichts-Rauschens' -e 'Rauschen' -e 'Hintergrundrauschens' -e 'Vereinigung' -e 'atemporale' -e 'Liebe' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Nichts-Rauschen 0, Nichts-Rauschens 1, Rauschen 2, Hintergrundrauschens 1, Vereinigung 0, atemporale 1, Liebe 0
+c7-juna-first-appearance: grep -cw 'Kap' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0; grep -cw 'Kapitel' -> 2 (L33, L270, both 'Kapitel 35–36')
+guardians: grep -cw Lösch-Pol Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+guardians: grep -cw reduziert Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+mnemosyne: grep -cw Lösch-Pol Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+logos: grep -cw Logos-Prime Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+logos: grep -cw absorbiert Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 1
+cerberus: grep -cw Cerberus-Labyrinth Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+cerberus: grep -cw Grenzfeste Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 2
+konstrukt-stadt: grep -cw Stadt Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 5
+konstrukt-stadt: grep -cw Logos-Prime Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+konstrukt-stadt: grep -cw Akt Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+konstrukt-stadt: grep -c '21°' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+evaluierungseinheit: grep -cw Evaluierungseinheit Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 1
+grenzfeste: grep -cw Grenzfeste Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 2
+grenzfeste: grep -cw Cerberus-Labyrinth Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+sektor-04: grep -c 'Sektor 04' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 2
+sektor-04: grep -cw Riss Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+sektor-04: grep -cw Risse Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 4
+nexus: grep -cw Nexus Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 1
+nexus: grep -cw Überwelt Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+nexus: grep -cw Überraum Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+verschraenkungs-insel: grep -cw Verschränkungs-Insel Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 1
+verschraenkungs-insel: grep -cw Überwelt Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+moeglichkeits-garten: grep -cw Kairos-Potentialis Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+trennungsprotokoll: grep -cw Trennungsprotokolle Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 2
+trennungsprotokoll: grep -cw Trennungs-Protokolle Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 1
+trennungsprotokoll: grep -cw Fragmentierungsnacht Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+trennungsprotokoll: grep -cw 734 Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+c5-garten-scale: grep -cw Kairos-Potentialis Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+c6-guardians-count-and-pairing: grep -cw Lösch-Pol Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+c6-guardians-count-and-pairing: grep -cw reduziert Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+c9-konstrukt-stadt-scale: grep -cw Logos-Prime Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+q4-waechter-four-bearers: grep -cw Wächter Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 2
+q4-waechter-four-bearers: grep -cw Wächterin Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+q5-guardians-and-kern-welten: grep -cw Lösch-Pol Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+q5-guardians-and-kern-welten: grep -cw Logos-Prime Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+q5-guardians-and-kern-welten: grep -cw Cerberus-Labyrinth Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0
+c8-aegis-approach-storyform-b: grep -cw 'Do-er' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0; grep -cw 'Be-er' -> 1 (L93); grep -cw 'Approach' -> 3 (L93, L201, L205)
+moonshine-link: grep -cw -e 'Moonshine-Link' -e 'Moonshine' -e 'Silas' -e 'übertragbar' -e 'Twisted' -e 'Z₂-Involution' -e 'VOA' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Moonshine-Link 4, Moonshine 6, Silas 0, übertragbar 1, Twisted 1, Z₂-Involution 0, VOA 1
+c14-aegis-first-person-chapter: grep -cw 'Person' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md -> 0; 'Innensicht' -> 0; 'Kap' -> 0; 'Log' -> 2 (L365, L420); 'Logs' -> 1 (L349); 'Prosa' -> 2 (L272, L417)
+kap-35/kap-36: grep -cw -e 'Kap' -e 'Kapitel 35' -e 'Kapitel 36' -e 'Kapitel-Schnitt' -e 'Vortex 2' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Kap 0, Kapitel 35 2, Kapitel 36 0, Kapitel-Schnitt 0, Vortex 2 0
+plot: grep -cw -e 'Kap' -e 'Kap 0' -e 'Kap 40' -e '39' -e 'Akt' -e 'Act' -e 'Heldinnenreise' -e 'Heldenreise' -e 'Zyklus' -e 'Kishōtenketsu' -e '34/35' -e '35/36' -e '36/37' -e 'Vortex 1' -e 'Vortex 2' -e 'trügerisch' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> Kap 0, Kap 0 0, Kap 40 0, 39 0, Akt 0, Act 0, Heldinnenreise 0, Heldenreise 0, Zyklus 0, Kishōtenketsu 0, 34/35 0, 35/36 0, 36/37 0, Vortex 1 0, Vortex 2 0, trügerisch 0
+C11: grep -cw -e 'warm' -e 'Wärme' -e 'kalt' -e 'kalten' -e 'eiskalten' -e 'Kälte' -e 'kühler' -e 'Ozon' -e 'Kap' -e 'Kap 6' Sources/drive/dramatica-storyform-synthese-aegis-analyse-2.md (each alone) -> warm 0, Wärme 1, kalt 0, kalten 1, eiskalten 1, Kälte 1, kühler 1, Ozon 1, Kap 0, Kap 6 0

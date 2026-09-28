@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,25 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel eröffnet Akt II und den zyklischen Modus im Shō, am Modus-Wechsel, als Bruch und Rahmen vor dem ersten Zyklus, laut Kernwelten vollständig in der Mitte von Akt II, laut der Plot-Konkretisierung im Block Der Innentäter; laut der strukturierten Outline beginnt hier A parallel zu B, laut der Drei-Modi-Spec mit dem MC-Issue Falsehood vs. Truth in Storyform A und der OS-Physics in Storyform B. Kaels neu gefundene Balance zerbricht, alte Wunden reißen auf, und AEGIS' erste Erasure-Welle trifft seine Stabilität, laut der Konzept-Iteration genau das Verfahren des Trennungsprotokolls aus der Genesis. Laut der strukturierten Outline, die das Kapitel Bruch des Gleichgewichts nennt, testet AEGIS ihn mit dem Stress-Test Delta-7, und Mnemosyne tritt erstmals deutlich und manipulativ auf; laut Kapitel-Kompendium und Storyform-Outline, die es Das Archiv der Grenzen nennen, erhält Kael Zugang zu AEGIS' technischen Dossiers im Lernarchiv Theta-9 und betritt KW2. Die Plot-Konkretisierung macht den Zugang zu einem fehlgeleiteten Ticket, das Kael nicht meldet, die erste aktive Unterlassung des Romans, und lässt nach dem ersten Wartungsfenster eine Abkürzung im Korridor fehlen, deren Platten nur Kael neu zählt. Die AEGIS-Subplots lassen Kael hier AEGIS als intelligente, steuernde Instanz erkennen und benennen, und die strukturierte Outline und die Drei-Modi-Spec halten einen kurzen AEGIS-POV für möglich, zwischen zerbrochener Fassade und Sprüngen im Raum.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Unstabiles Gleichgewicht“ ^[monstergruppe-primzahlen-plot-blueprint.md:L161]
+Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
+
+- Establishes: „lösen aufgrund seiner M-Resonanz unerwartete und unverhältnismäßig große Effekte in der Kernwelt aus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L164]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+Title: „Der Bruch“ ^[kohaerenz-protokoll.md:L1462]
+Position: „AEGIS' Fragilität / Risse / Cache Kohärenz (Konflikt)“ ^[kohaerenz-protokoll.md:L1464] · „Phase 1: Der Bruch (Realitätscheck)“ ^[kohaerenz-protokoll.md:L1466]
+
+- Where: an Omega-priority order transfers Kael from McL-Sigma-3 into Beta-Rho-5, „STATUS: KRITISCHE SYSTEMWARNUNG – SEKTOR BETA-RHO-5 (KERNWELT-TYP B)“ ^[kohaerenz-protokoll.md:L1484], „Kernwelt Typ B. Beta-Rho-5. Er wusste, was das bedeutete. Die Baby-Monster-Welt.“ ^[kohaerenz-protokoll.md:L1500]
+- Story: AEGIS orders him to destroy the Juna connection it blames for the world's entropy cascade, „BEFEHL: K-1123. PRIORISIERE IDENTIFIKATION UND NEUTRALISIERUNG DER SUB-PROTOKOLLARISCHEN SIGNATUR.“ ^[kohaerenz-protokoll.md:L1544], and he refuses it, „Nein, dachte Kael, und diesmal war es keine Stimme eines Teils, sondern seine eigene, integrierte Stimme.“ ^[kohaerenz-protokoll.md:L1578]
+- Voice: third person on Kael; AEGIS' commands stand in capitals, and his inner Anteile speak in italics.
+- Close: „Der Bruch war geschehen. Die Realität seiner Situation war klar. Der Zyklus hatte begonnen.“ ^[kohaerenz-protokoll.md:L1588]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -31,6 +50,28 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Punkte verbinden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L201]
 - Story: „Ausgelöst durch die Ereignisse von Teil 1“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
 - Story: „Etwas betreibt diesen Ort. Etwas Intelligentes.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202] · „Er gibt ihm einen Namen (oder erfährt seinen Namen): AEGIS.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Das Archiv der Grenzen (Mnemosyne)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L81]
+
+- Where: „Kael erwacht in der Resonanz-Landschaft (Kernwelt 2), einer nebligen, nicht-linearen Traumwelt, überwacht vom Guardian Mnemosyne“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+- Who: „Der innere Gatekeeper Limina blockiert den direkten Zugriff“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+- Establishes: „die bei der Berührung wie warmes Blut durch seine Finger rinnen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael lands in the Mnemosyne-Archiv, KW2, the first chapter of Akt II
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Die Ruinen der Erinnerung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132] · „Der zweite Akt verwirft die lineare Heldinnenreise und tritt in eine zyklische Dekonstruktion ein.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L134]
+
+- Where: „Kael schlägt hart auf dem Boden des Mnemosyne-Archivs (KW2) auf.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] · „Er befindet sich in einer gigantischen, endlosen Bibliothek, deren Dimensionen an Piranesis Kerker erinnern.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
+- Sensorik: „Alles ist in schwüles Sepia-Licht getaucht, Staubflocken groß wie Insekten treiben in der heißen Luft.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] · of the act: „Die Atmosphäre transformiert sich radikal: biologischer Horror, Hitze, Staub, zersetztes Papier und fließende Identitäten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L134]
+- What it establishes: „Es ist das Reich der parakonsistenten Logik (Dialetheismus)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -129,6 +170,8 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 ## Where the sources differ
 
 - **Title.** „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept) · „Das Archiv der Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as its Teil-IX working title, „Bruch des Gleichgewichts“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339] (storyform outline); the second is the Kernwelten document's place for the chapter, „KW2 Archiv der Grenzen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840] (Kernwelten vollständig). The worldbuilding concept gives the Archiv der Grenzen as the chapter's place: „Ort, an dem Kael die technischen Dossiers von AEGIS findet (Ch14).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] (the worldbuilding concept).
+- **The Hard-SF-Outline.** „Die Ruinen der Erinnerung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] (the Hard-SF-Outline, 2026-04-08) — a new title; Kap 14 opens KW2 as an archive, „Kael schlägt hart auf dem Boden des Mnemosyne-Archivs (KW2) auf.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
+- **The Kohärenz-Protokoll narrative.** Its title, „Der Bruch“ ^[kohaerenz-protokoll.md:L1462] (the Kohärenz-Protokoll narrative, 2025-04-27), and its world: the chapter plays in Beta-Rho-5, the Baby-Monster-Welt, not KW2's Archiv der Grenzen — AEGIS orders the Juna-connection destroyed and Kael refuses, with no Mnemosyne, no ticket and no dossier.
 
 ## Questions for this chapter
 

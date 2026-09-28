@@ -1,0 +1,593 @@
+{
+  "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+  "drive_id": "1IhICDyNdks3Y04cUnL1HfNmPy8eSCaGCSv6dAxerGes",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of three whole-novel plans reconciled together (documents 41–43) — readings and record entries written by Claude readers split by page group from the document's readings-brief.md (Kap 1–39 of document 41 and the alters by readers who were stopped by a usage limit, the rest by Sonnet readers), each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 188,
+    "decisions": 197,
+    "decided_by_lookup": 108,
+    "needs_judgement": 89
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A whole-novel plan: it places what has pages. Its twelve AEGIS protocols are on Q2 and aegis-teilfunktionen, its worlds' Guardian-based names on kern-welten (J49), its Fragmentierungsnacht on genesis and trennungsprotokoll.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        64,
+        69,
+        73,
+        74,
+        76,
+        122,
+        162
+      ],
+      "attribution": "",
+      "note": "the Cognitive Firewall, the Integrity Guardian and SIS as three of AEGIS' twelve protocols"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        15,
+        25,
+        62,
+        64,
+        69,
+        80,
+        144,
+        158,
+        184,
+        188,
+        196,
+        221
+      ],
+      "attribution": "",
+      "note": "a Täter-Introjekt from the Fragmentierungsnacht, out of the protagonist himself; an environmental condition, no dialogue figure in Akt I–II; twelve protocols"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        52,
+        86,
+        116,
+        227
+      ],
+      "attribution": "",
+      "note": "ANP, the social protector whose switch in Kapitel 8 is the plan's example of foreshadowing"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        29,
+        45,
+        160,
+        162,
+        172,
+        188,
+        206,
+        225
+      ],
+      "attribution": "",
+      "note": "thirteen in four categories, disguised until Kapitel 24, islands of information, never fused"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        60,
+        118
+      ],
+      "attribution": "",
+      "note": "Sonder, the meta-cognition whose hypervigilance saves Kapitel 9"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        42,
+        164
+      ],
+      "attribution": "",
+      "note": "KW3's Guardian, and the world he stands for"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        144,
+        156
+      ],
+      "attribution": "",
+      "note": "what K1 operates through, and what Juna feeds into Kael's field in Kapitel 22"
+    },
+    {
+      "page": "did",
+      "lines": [
+        15,
+        45,
+        86,
+        222,
+        225,
+        227
+      ],
+      "attribution": "",
+      "note": "the diagnosis the plan withholds for half the book, and the twist of Kapitel 24 that reveals it"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        19,
+        134,
+        144
+      ],
+      "attribution": "",
+      "note": "the literal ontology of information, seen as physics in Akt II"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "the Generative class open to emergence, KW4's property, a year before the same word"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        27,
+        64,
+        77,
+        90,
+        144,
+        154
+      ],
+      "attribution": "",
+      "note": "what AEGIS' suppression produces, K0's, and a rise of it that becomes gravity"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        144
+      ],
+      "attribution": "",
+      "note": "what K0 operates through"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        64,
+        158,
+        160,
+        224
+      ],
+      "attribution": "",
+      "note": "no beats, but a double origin trauma, and the Genesis-Krise named as AEGIS' birth and its cause at once"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        192,
+        194,
+        196,
+        219
+      ],
+      "attribution": "",
+      "note": "the Gambit named as such, Kael a living Gödel statement inside AEGIS' P-class logic, and its own chapter titles"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        108,
+        138,
+        178
+      ],
+      "attribution": "",
+      "note": "a `Zugeordneter Guardian` column, and three of the five acting"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        108,
+        172,
+        223
+      ],
+      "attribution": "",
+      "note": "an act-by-act register, warmth a world's climate, and Silas' echo rendered as cold"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        58,
+        122,
+        227
+      ],
+      "attribution": "",
+      "note": "EP, the perfectionist whose submission opens the hatch in Kapitel 11"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        31,
+        61,
+        98,
+        120,
+        156,
+        176,
+        190
+      ],
+      "attribution": "",
+      "note": "the exiled Ursprungs-Ich outside the system, seen in Kapitel 3, 10 and 22, entering the system in Kapitel 34"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        45,
+        50,
+        94,
+        158,
+        160,
+        192,
+        206,
+        215
+      ],
+      "attribution": "",
+      "note": "the amnesic Host of thirteen, the bloody knuckles in Kapitel 1 and their healed scars in Kapitel 39"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        43,
+        178
+      ],
+      "attribution": "",
+      "note": "KW4's two Guardians, testing Kael with philosophy"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        35,
+        39,
+        40,
+        41,
+        42,
+        43,
+        136,
+        164,
+        172
+      ],
+      "attribution": "",
+      "note": "four Kernwelten, each with a Guardian, an aesthetic and a computational class"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        56,
+        142,
+        148,
+        224
+      ],
+      "attribution": "",
+      "note": "EP, the Freeze child in the archive, carrier of the first trauma layer in Kapitel 16"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        144,
+        156,
+        190
+      ],
+      "attribution": "",
+      "note": "the domain of the Coherons, and what Juna anchors in the core"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        77,
+        144
+      ],
+      "attribution": "",
+      "note": "the domain of the Erasonen, and AEGIS' futile management of it"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        40,
+        94
+      ],
+      "attribution": "",
+      "note": "KW1 named only `Logos-Prime`, never `Konstrukt-Stadt`"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        25,
+        94,
+        172,
+        200,
+        223
+      ],
+      "attribution": "",
+      "note": "the primary weapon, an act-by-act style progression, and heat cooling to warmth at the resolution"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        51,
+        96,
+        102,
+        104,
+        120,
+        122,
+        126,
+        176,
+        216
+      ],
+      "attribution": "",
+      "note": "ANP, the rationalist who breaks through in Kapitel 2 and is left behind in Kapitel 12"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        57,
+        146
+      ],
+      "attribution": "",
+      "note": "EP, the dreamer who leads through the paraconsistent archive in Kapitel 18"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        40,
+        106,
+        108
+      ],
+      "attribution": "",
+      "note": "KW1's Guardian, and the one who unmasks Kael"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        41,
+        138
+      ],
+      "attribution": "",
+      "note": "KW2's Guardian, and a perfidious fatigue"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        31,
+        120,
+        190
+      ],
+      "attribution": "",
+      "note": "an ER=EPR topology rather than the Monster group, the link as rescue and as the price of Juna's sacrifice"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        59,
+        158
+      ],
+      "attribution": "",
+      "note": "EP, the messenger of collapse who explains AEGIS in Kapitel 23"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        43,
+        192,
+        206,
+        225
+      ],
+      "attribution": "",
+      "note": "a fixed point: never fusion, and the term reached twice, in Kapitel 35 and Kapitel 39"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        98,
+        188,
+        200
+      ],
+      "attribution": "",
+      "note": "AEGIS' hostile K0-collapse, revealed at the resolution as the atemporal union and love"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        55,
+        112,
+        116
+      ],
+      "attribution": "",
+      "note": "EP, keeper of shame, the monster of Kapitel 7–8"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        62,
+        180,
+        182
+      ],
+      "attribution": "",
+      "note": "Spiegel, AEGIS-Echo (Erason), active forgetting, embraced in Kapitel 31"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        202,
+        204,
+        220
+      ],
+      "attribution": "",
+      "note": "a recognition in Kapitel 38: the separation was the way, the pain unchanged"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        53,
+        142,
+        152,
+        154,
+        178
+      ],
+      "attribution": "",
+      "note": "ANP, caregiver and protector with the Fight-Response, who takes the body in Kapitel 20–21"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        94,
+        98,
+        102,
+        104,
+        164,
+        206,
+        215,
+        217
+      ],
+      "attribution": "",
+      "note": "a Riss torn by AEGIS' erasure of Juna in Kapitel 3, and a Riss into KW4 in Kapitel 26"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        54,
+        162,
+        176
+      ],
+      "attribution": "",
+      "note": "ANP, the ISH who coordinates the system after the twist"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        61,
+        108
+      ],
+      "attribution": "",
+      "note": "Spiegel, Juna-Echo (Coheron), rigidity and numb distance, as the city cools in Kapitel 6"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        43,
+        178
+      ],
+      "attribution": "",
+      "note": "one of KW4's two Guardians, testing Kael with philosophy"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        160,
+        224
+      ],
+      "attribution": "",
+      "note": "the novel's central premise, disguised for more than half the book"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      13,
+      90,
+      132,
+      166,
+      192,
+      194,
+      210,
+      226
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3",
+    "C4",
+    "C6",
+    "C7",
+    "C9",
+    "C10",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q2",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [
+    "J108"
+  ],
+  "decided_by_existing_rules": "J49 (Logos-Prime, Mnemosyne-Archiv, Cerberus-Zitadelle, Kairos-Potentialis on kern-welten), J60 (CogFirewall = Cognitive Firewall on aegis-teilfunktionen; ZTEM not Zero-Trust), J62 (Juna-Echo, AEGIS-Echo, Coheron-Echo on silas and oblivion), J103 (Kairos / Sophia on both), J9 (chapter titles), J76–J78 (Genesis-Krise by its sentence), J56/J23, J97, J98/J99, J51",
+  "not_promoted": [
+    "Fragmentierungsnacht — L64, L160, L224 (unpaged; on genesis, trennungsprotokoll and C12)",
+    "the twelve protocols ZTEM, RTSV, BPoF, EIC, ConsensusEnf, EntropicMgmt, RIVE, PMAS, SARM — L69–L80, on Q2",
+    "the four physics set-pieces (Entropische Gravitation, Bekenstein-Schranke, Island-Formel, ER=EPR) — L25–L31, on the chapter pages that stage them",
+    "Fixpunkte — L208–L227, the checklist"
+  ],
+  "internal_tension": "Silas, the Coheron-Echo, is a numbness and a freezing (L108), where nearly every source gives Juna's echo warmth; Juna is the „exilierte Ursprungs-Ich“ (L31) and an outside presence who enters the system only in Kapitel 34 (L190); AEGIS is no dialogue figure in Akt I–II (L221) yet Kapitel 32 has it manifest.",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 40–43: PageRank recall@8 0.644 → 0.660, C11 0.4 → 0.6 and C4 0.444 → 0.556; seeds unchanged at 0.466"
+}

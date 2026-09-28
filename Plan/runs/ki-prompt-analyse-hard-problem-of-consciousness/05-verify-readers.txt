@@ -1,0 +1,89 @@
+kap-35: grep -cE 'Kap(itel)?\.? 35[^–-]' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+rhys: grep -icw Rhys Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -cw KW1 Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -cw KW2 Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -cw KW3 Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -cw KW4 Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kern-welten: grep -c 'Konstrukt-Stadt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+selene: grep -icw Selene Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+nyx: grep -icw Nyx Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+algorithmische-melancholie: grep -ci 'Beat 5' ki-prompt-analyse-hard-problem-of-consciousness.md -> 0; Reliquie 0
+konstrukt-stadt: grep -c 'Konstrukt-Stadt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+konstrukt-stadt: grep -c 'Logos-Prime' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 4
+plot: grep -c 'Kap 0' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+plot: grep -c 'Kapitel 0' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+plot: grep -c 'Kap 40' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+plot: grep -c 'Kapitel 40' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+kiko: grep -icw Kiko Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+plot: grep -c 'Kishōtenketsu' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 1
+resonanz-landschaft: grep -c 'Resonanz-Landschaft' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+resonanz-landschaft: grep -c 'Mnemosyne-Archipel' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+lia: grep -icw Lia Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+grenzfeste: grep -c 'Grenzfeste' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+grenzfeste: grep -c 'Cerberus-Labyrinth' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 1
+isabelle: grep -icw Isabelle Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+moros: grep -icw Moros Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 1 (L28, table row about another document, no info of its own about Moros)
+moeglichkeits-garten: grep -c 'Möglichkeits-Garten' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+moeglichkeits-garten: grep -c 'Kairos-Potentialis' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+argus: grep -icw Argus Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+moonshine-link: grep -cw VOA/Leech/Silas ki-prompt-analyse-hard-problem-of-consciousness.md -> 0/0/0
+silas: grep -icw Silas Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+oblivion: grep -icw Oblivion Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 1 (L28, table row about another document, no info of its own about Oblivion)
+did: grep -icw DID Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0
+trennungsprotokoll: grep -cw Beat/734 ki-prompt-analyse-hard-problem-of-consciousness.md -> 0/2 (both T-734)
+c8-aegis-approach-storyform-b: grep -cw -- 'Approach' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+3
+c8-aegis-approach-storyform-b: grep -cw -- 'Do-er' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+2
+c8-aegis-approach-storyform-b: grep -cw -- 'Be-er' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+5
+juna: grep -cw Kap ki-prompt-analyse-hard-problem-of-consciousness.md -> 4 (L193,209,210,261 - none Juna's); Ursprungs-Ich -> 0
+c11-landauer-warmth-or-cold-ozone: grep -cw -- 'Ozon' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c11-landauer-warmth-or-cold-ozone: grep -cw -- 'kalt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c11-landauer-warmth-or-cold-ozone: grep -c 'Kap 6' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c11-landauer-warmth-or-cold-ozone: grep -cw -- 'Landauer' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+27 (always Landauer-Wärme)
+c12-genesis-beats: grep -cw -- 'Beat' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c12-genesis-beats: grep -cw -- 'Einheit' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+1 (L236, "Sehnsucht nach Einheit", not a Genesis beat)
+c12-genesis-beats: grep -cw -- 'Wir-AEGIS' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c12-genesis-beats: grep -c '734' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+2
+aegis: grep -cw Autonomous ki-prompt-analyse-hard-problem-of-consciousness.md -> 0; '1. Person'/'3. Person' -> 0/0; Person (general) -> 5, none AEGIS-specific
+c14-aegis-first-person-chapter: grep -cw -- 'Innensicht' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c14-aegis-first-person-chapter: grep -cw -- 'Hard-B' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c14-aegis-first-person-chapter: grep -cw -- 'Prosa' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c14-aegis-first-person-chapter: grep -n 'Kap 5\|Kap 6\|Kap 7\|Kap 8\|Kapitel 5\|Kapitel 6\|Kapitel 7\|Kapitel 8' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+session (2026-09-28): grep -cw warm/kalt/Wärme/Kälte/Hitze Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0/0/24/2/3; no line with Juna holds any of them (grep -n Juna | grep -i wärm|warm|kalt|hitz|temperat -> none)
+c2-entropie-sense: grep -c 'schöpferische Matrix' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c2-entropie-sense: grep -c 'Bedingung für Ereignisse' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c4-guardians-and-aegis: grep -cw -- 'Guardian' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+c4-guardians-and-aegis: grep -cw -- 'Wächter' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+session (2026-09-28): grep -cw Ozon/kalt/zwanzig Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> 0/0/0; grep -ci ozon -> 0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'KW1' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'KW2' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'KW3' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'KW4' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'Konstrukt-Stadt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+q3-how-many-kern-welten-and-alters: grep -cw -- 'Kernwelt' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md
+0
+session (2026-09-28): grep -n 'Kernwelten\|Logos-Prime\|Cerberus-Labyrinth' Sources/drive/ki-prompt-analyse-hard-problem-of-consciousness.md -> L80, L242, L244 (Kernwelt as a whole word 0) — corrects Q3's 'no Kern-Welt named at all'

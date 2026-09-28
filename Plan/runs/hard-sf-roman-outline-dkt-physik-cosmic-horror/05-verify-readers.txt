@@ -1,0 +1,38 @@
+alex: grep -cw Alex Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 4
+selene: grep -cw Selene Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 3
+nyx: grep -nw Nyx Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md | cut -d: -f1 -> 55 112 116 160 178 206 (count 6)
+lia: grep -cw Lia Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2; grep -cw Flight Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+moros: grep -cw Moros Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2
+argus: grep -cw Argus Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2
+silas: grep -cw Silas Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2; grep -nw Wärme Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md | cut -d: -f1 -> 25 200 
+kap-38: grep -cw 'Vortex' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+kap-39: grep -cw 'Vortex' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+kap-39: grep -cw 'Kapitel 40' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+kap-39: grep -cw 'Kapitel 0' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+aegis: grep -cw -E 'Autonomous|Gatekeeper' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+aegis: grep -cw Log Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 0
+aegis: grep -cw Dialogfigur Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md → 1
+did: grep -cw DID Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 3
+alters: grep -cw Flight Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+coheron: grep -cw Coheron Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2; grep -cw Coherons Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2
+erason: grep -cw Erasonen Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 1; grep -cw Erason Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 1
+aegis-teilfunktionen: grep -cw Zero-Trust Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+risse: grep -cw Risse Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0; grep -cw Flight Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+ouroboros-struktur: grep -cw Ouroboros Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 2
+q2: for w in ANI ARS ECR PMS RSA SNK ZTV Nullpunkt; grep -cw $w Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0 0 0 0 0 0 0 0 
+grosse-mauer: not read — grep -cw Mauer Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+potentialmeer: not read — grep -cw Potentialmeer Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+resonanz-landschaft.md: not read — grep -c Resonanz-Landschaft Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+grenzfeste.md: not read — grep -c Grenzfeste Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+moeglichkeits-garten.md: not read — grep -c 'Möglichkeits-Garten\|Garten der Möglichkeiten' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+sektor-04.md: not read — grep -c 'Sektor 04' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+datenverarbeitungsknoten-7g.md: not read — grep -c 'Datenknotenpunkt\|Datenverarbeitungsknoten' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+kaels-wohneinheit.md: not read — grep -cw Wohneinheit Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+archiv-der-grenzen.md: not read — grep -c 'Archiv der Grenzen' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+c5-garten-scale.md: not changed — grep -c 'Möglichkeits-Garten\|Garten der Möglichkeiten' Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+q1-guardians-and-aegis.md: not changed — no sentence relates a Guardian to AEGIS directly; each acts in its own world (LogOS Kap 6, Mnemosyne Kap 15, Kairos/Sophia Kap 30)
+q4-waechter-four-bearers.md: not changed — grep -cw Wächter Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0; Guardian/Guardians only, same all-English pattern as document 5
+chaitin-konstante.md: not read — grep -ciw Chaitin Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+blinder-fleck.md: not read — grep -ciw Fleck Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+mosaik-herz.md: not read — grep -ciw Mosaik Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0
+c1-aegis-expansion.md: not changed — grep -c Autonomous Sources/drive/hard-sf-roman-outline-dkt-physik-cosmic-horror.md -> 0

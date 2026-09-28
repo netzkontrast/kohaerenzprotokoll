@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 19
+sources: 33
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -233,3 +233,95 @@ The entry above was written by the Jules session (decision 014) before this docu
 „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296]: „**Mnemosyne** (Memory-Keeper, Klimax-Setting)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] and „**ein Lösch-Pol** (Identität noch offen, Forschungsfrage)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296]. `Erasure-Pol` and `absorbiert` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`): it says of none of the earlier four where they went.
 The pairing: „die Kernwelten sind **Akt-Marker**, *nicht* je-ein-Guardian und *nicht* literale Geographie" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] — and the programmes are placed in one world, KW3: „Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439] No bearer's name is on any world.
 Row 3's side, two and no pairing. The author's decision for five (2026-09-24) stands; what the document says of earlier phases and of the current canon is its claim, recorded and not applied.
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**No count, no name, no pairing: `Guardians` once, in the plural, as antibodies at work in KW1; Mnemosyne and LogOS only as interfaces of AEGIS, never called Guardians.**
+It calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11]; recorded, not applied.
+„Guardians act as antibodies, redirecting Kael away from the "unproductive" reflection found in the shadows of KW2." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L82] — in Seed-11, „The Architecture of Paranoia (KW1)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L80].
+Mnemosyne as „Focus:**  Mnemosyne Interface" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L73]; LogOS as „AEGIS uses the LogOS interface to convince Kael that the "Risse" are his own "Logic Errors."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L116]
+`Guardian` 0, `Guardians` 1; `Cerberus`, `Kairos`, `Sophia`, `Erasure-Pol`, `Lösch-Pol` and `absorbed` 0 (`05-verify.txt`, `05-verify-readers.txt`). No reduction is told and no earlier drafts are named.
+On no row by count, and it states no pairing — the Guardians act in one world against another, and no world carries a bearer's name. It keeps LogOS in use, where the konsolidiertes Konzept, the master report and the worldbuilding concept of its date name it among the old five or absorbed. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**No count and no reduction: three of the five named as the carriers of three worlds, one each — never called Guardians.**
+Its seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied; each seed a proposal. „Seed-11 The Sterility of KW1" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83] with „Carrier: LogOS" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83]; „Seed-12 The Mnemosyne Archipelago" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L84] with „Carrier: Mnemosyne" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L84]; „Seed-13 The Cerberus Labyrinth (KW3)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85] with „Carrier: Cerberus" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85].
+`Guardian`, `Guardians`, `Kairos`, `Sophia` and `KW4` stand 0 times (`05-verify.txt`), `Erasure-Pol` 0 (`05-verify-readers.txt`).
+On no row by count. On the pairing, rows 1 and 2's side for three worlds — a bearer per world, the worlds named for their bearers, where row 3 says `KEIN Guardian-1:1`. The author's decision for five (2026-09-24) stands; the pairing is Q5's.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Two Guardian Sub-Systems, Mnemosyne and the Erasure-Pol; no earlier Guardians named; one of the two placed in a world.**
+It calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88]; recorded, not applied. „AEGIS utilizes two Guardian Sub-Systems" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29]; „Mnemosyne: The Memory Keeper. She manages the Mnemosyne-Archipel." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L33]; „The executive pole of deletion." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34]
+The old names stand only on worlds: „KW1: The Construct-City (Logos-Prime):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L59], „KW3: Cerberus-Labyrinth (Border Fortress):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L69], „KW4: Kairos-Potentialis (Garden of Possibilities):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L74] (J49). `LogOS` and `Sophia` 0, nothing absorbed (`05-verify.txt`, `05-verify-readers.txt`).
+Row 3's count, two. On the pairing: one Guardian per one world, Mnemosyne's, and none for the rest — neither row 3's `KEIN Guardian-1:1` nor rows 1 and 2's four pairs. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**Two, and no worlds at all.**
+„To execute this mission, AEGIS utilizes two Guardians:" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L48] — Mnemosyne (L49) and „The Erasure-Pol: The executioner responsible for the active suppression of anomalies." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L50]
+`LogOS`, `Cerberus`, `Kairos`, `Sophia` and `KW1`–`KW4` stand 0 times (`05-verify.txt`); no reduction is told. Row 3's count; no pairing stated. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**Two, the Erasure-Pol absorbing functions rather than named Guardians; KW2 and KW3 under no bearer's name.**
+„The Two Guardians" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L49]: Mnemosyne (L51) and „The Erasure-Pol: The executive arm of K0-deletion, absorbing the functions of logic and temporal control to enforce the "Multiplicity Veil."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L52]
+Its worlds: „KW1: The Construct City (Logos-Prime):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L64], „KW2: The Archipelago:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L65], „KW3: The Labyrinth:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L66], „KW4: The Garden of Possibilities (Kairos-Potentialis):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67]. `LogOS`, `Cerberus` and `Sophia` stand 0 times (`05-verify.txt`).
+Row 3's count, two, with no Guardian in any world. It is the one source here that names the absorbed as functions — logic and temporal control — and not as bearers; which bearers had them it does not say (Q5). The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**Three named at work — Mnemosyne, LogOS and Cerberus — and none counted, reduced or paired with a world.**
+„Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181] — a scene seed of Storyform A's overall story, a proposal. In the rejected hypothesis H2: „Der stärkste Kandidat für diese Rolle ist Mnemosyne, die als Memory-Archive-Guardian das Setting des Klimax physisch trägt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L49]. In Storyform B: „AEGIS löst massive Trennungsprotokolle aus, führt weitreichende Erasure-Sweeps durch und aktiviert die Guardians." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L264]
+`Kairos`, `Sophia`, `Erasure-Pol` and `KW1`–`KW4` stand 0 times (`05-verify.txt`), `Lösch-Pol` and `reduziert` 0 (`05-verify-readers.txt`). It is dated 2026-04-30, the date the Dual-Storyform background document gives the Reset-Doc's „Guardians auf 2" ^[dual-storyform-hintergruende-md.md:L450]; this document of that date tells no reduction.
+On no row by count: it names three of row 1's five, as active and uncounted, and states no pairing; it has none of row 3's Erasure-Pol. The author's decision for five (2026-09-24) stands; recorded, not applied.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Row 1's and row 2's side: five named, paired one-to-one with the four worlds, Kairos and Sophia sharing one.** „Um narratives Rauschen zu vermeiden, werden die elf identifizierten Alters rigoros den vier Kernwelten und deren Guardians zugeordnet" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L33] The table: „Konstrukt-Stadt (KW1) | LogOS (Rationalismus)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L40], „Resonanz-Landschaft (KW2) | Mnemosyne (Erinnerung)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L41], „Grenzfeste (KW3) | Cerberus (Abwehr/Angst)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L42], „Möglichkeits-Garten (KW4) | Kairos & Sophia" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43]
+No reduction, no absorption and no Erasure-Pol: `Erasure-Pol` and `Lösch-Pol` stand 0 times, `reduziert` 0 (`05-verify.txt`, `05-verify-readers.txt`). Predates the author's decision by seven months; agrees with it on the count without knowing of row 3's reduction.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**Row 1's and row 2's side again, six weeks later: the same five, the same pairing, headed exactly as document 4's organising column.** „\*\*Zugeordneter Guardian\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L39]: „\*\*LogOS\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40], „\*\*Mnemosyne\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L41], „\*\*Cerberus\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L42], „\*\*Kairos / Sophia\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43]
+Three of the five act directly in the chapters read — LogOS in Kapitel 6, Mnemosyne in Kapitel 15, Kairos and Sophia together in Kapitel 30 (readings on the Guardians' pages). No reduction, no absorption, no Erasure-Pol (`Erasure-Pol`, `Lösch-Pol`, `reduziert` all 0, `05-verify.txt`). Dated 2026-04-08, still before the reset of 2026-04-30 that the Dual-Storyform background document dates the reduction to (reading above); agrees with the author's decision on the count.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**No count and no pairing: a Guardian tested as main character and rejected, and an unnamed class at the physical front.**
+A research report of the same date as `dramatica-storyform-synthese-aegis-analyse-2`, testing the same hypothesis by the same method — recorded, not applied. Hypothesis H2: „Zur Identifikation des stärksten MC-Guardians fiel die Wahl auf Mnemosyne." ^[dramatica-storyform-synthese-aegis-analyse.md:L39] „Das Verdikt lautet folglich: \*\*Verworfen\*\*." ^[dramatica-storyform-synthese-aegis-analyse.md:L39] Elsewhere the Wächter act as a class, on the physical battlefield beside AEGIS and the EPs (reading on [[guardians|Guardians]]), never named or numbered.
+`LogOS`, `Cerberus`, `Kairos`, `Sophia` stand 0 times (`05-verify.txt`), `Erasure-Pol` 0 (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`); no reduction is told.
+On no row by count: it names one of row 1's five, tested and rejected as MC, and states no pairing — the same shape as the later run of its date. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `m-als-fundament-der-simulation`, 2025-04-26, the M-Fundament-Blueprint
+
+**No count and no pairing: `Alters/Guardians` a hedged, unnamed class of AEGIS' agents, with one whole beat given to them.**
+A blueprint hedging every beat. „**Beat 10: Intervention der Alters/Guardians**" ^[m-als-fundament-der-simulation.md:L258]: „AEGIS setzt seine physischen oder digitalen Agenten (Alters/Guardians) ein, um Kael direkt zu konfrontieren und zu neutralisieren." ^[m-als-fundament-der-simulation.md:L262] „Die Alters/Guardians werden als konkrete Antagonisten etabliert, die AEGIS' Willen ausführen." ^[m-als-fundament-der-simulation.md:L269]
+`LogOS`, `Mnemosyne`, `Cerberus`, `Kairos`, `Sophia` all stand 0 times (`05-verify.txt`), `Erasure-Pol` 0 (`Plan/runs/m-als-fundament-der-simulation/05-verify-readers.txt`); the class is never distinguished from the [[alters|Alters]] it is paired with in every passage, and no world carries a bearer's name.
+On no row by count and no row by pairing: the earliest-dated source in this record, and it counts and names nothing. The author's decision for five (2026-09-24) stands.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**A fourth count — four Guardians, one per world, none of them named the same as either later list's bearers.**
+[[logos|LogOS]], „Supervisor für Kohärenz und Struktur in diesem Sektor" ^[kohaerenz-protokoll.md:L438], guards Co₁; the Netzweber, „SUPERVISION: NETZWEBER (GUARDIAN MCL-SEKTOR)." ^[kohaerenz-protokoll.md:L1168], guards McL; the Chaos-Regulator, „des Guardians dieser Welt" ^[kohaerenz-protokoll.md:L1638], guards Beta-Rho-5; the Möglichkeits-Weber, „Es war der Möglichkeits-Weber." ^[kohaerenz-protokoll.md:L2024], guards Ly. `Mnemosyne`, `Cerberus`, `Kairos` and `Sophia` stand 0 times (`Plan/runs/kohaerenz-protokoll/05-verify.txt`), `Erasure-Pol` 0 (`05-verify-readers.txt`).
+On neither row's count — four, not five and not two, and three names (`Netzweber`, `Chaos-Regulator`, `Möglichkeits-Weber`) that share no surface with any Guardian either list names, though the fourth guards the same function [[kairos|Kairos]]/[[sophia|Sophia]] share elsewhere. On the pairing, row 1's and row 2's side: one Guardian per world, exactly, with no sharing. The author's decision for five (2026-09-24) stands, and this document's four are none of the five. The conflict stays open.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**Row 1's and row 2's side: five named, paired one-to-one with the four worlds, Kairos and Sophia sharing one — a compilation's own list, under [[aegis|AEGIS]]' own heading, with no reduction told.**
+„Die Guardians:" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L304] „LogOS (KW1 - Logos-Prime)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L308] „Mnemosyne (KW2 - Mnemosyne-Archipel)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L309] „Cerberus (KW3 - Cerberus-Labyrinth)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L310] „Kairos & Sophia (KW4 - Kairos-Potentialis)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L311]
+`Erasure-Pol` and `Lösch-Pol` stand 0 times, `reduziert` 0 (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`); no absorption is told and no draft is called earlier. The author's decision for five (2026-09-24) stands, and this document, dated a month before the 2026 reduction, agrees with it on the count and the pairing.
+
+## 2026-09-27 — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook
+
+**Row 1's and row 2's side, in English: five named, one per world, Kairos and Sophia sharing the fourth — no reduction, no pole.**
+„The Guardian of KW1 is LogOS" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19]; „The Guardian of this realm is Mnemosyne" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L39]; „This world's Guardian is Cerberus" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L59]; „The Guardians of this world are Kairos and Sophia, complementary forces representing intuition, opportunity, and integrative wisdom." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79]
+`Erasure-Pol` and `reduced` stand 0 times (`Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`). The author's decision for five (2026-09-24) stands; this document agrees with row 1's and row 2's count and pairing.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**Row 1's and row 2's side: five named, once by Guardian alone — LogOS, Mnemosyne, Cerberus, Kairos and Sophia sharing the fourth world — no reduction, no pole.**
+„Kernwelt 1 (LogOS): A world of sterile, brutalist architecture, representing the rigid, emotionally avoidant logic of Kael’s Apparently Normal Parts." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1243]
+„Kernwelt 4 (Kairos/Sophia): A "Possibility Garden" of chaotic growth and emergence, representing the potential for creativity, healing, and integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1246]
+`Erasure-Pol` and `Wächter` stand 0 times (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`); no reduction is told. The author's decision for five (2026-09-24) stands; this document agrees with row 1's and row 2's count and pairing.

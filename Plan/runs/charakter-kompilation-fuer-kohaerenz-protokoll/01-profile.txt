@@ -1,0 +1,14 @@
+# charakter-kompilation-fuer-kohaerenz-protokoll
+  lines                357  (frontmatter ends at 9)
+  body words           2414
+  headings             6   bold-only lines 15
+  table rows           9   code fences 0
+  question marks       0
+  backslash escapes    192
+  typographic marks    58   ascii quotes 58
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      Quellen x13, DKT-Korrelat x11, Entwicklungsbogen x11, Kernfunktion x11, Motivation x11, Phobie x11, Riss-Typ x11, Schlüssel-Beziehungen x11, Somatischer Marker x11, Sprachstil x11
+  longest line         332 chars
+

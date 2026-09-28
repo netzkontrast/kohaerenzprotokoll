@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,25 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Im ersten Riss bricht eine konkrete Anomalie Kaels Ordnung in KW1: laut strukturierter Outline reaktivieren Glitches Echos, mit Zeitverlust, einem Blackout und einer Erinnerung, die nicht zu seinem Selbst passt, laut Kernwelten vollständig eine geometrische Inkonsistenz im Datenverarbeitungs-Zentrum in Sektor 04, laut Plot-Konkretisierung eine schon ausgeglichene Abweichung, die an derselben Stelle wiederkehrt und die Kael abends in fremder Syntax in seinem Entwurfsordner findet. Lex bricht zum ersten Mal mit anderer Syntax und Logik in Kaels Stimme ein, die Zahl 734 taucht laut strukturierter Outline erstmals als Foreshadowing auf, und laut AEGIS-Subplots protokolliert AEGIS die Abweichungen als nicht-kritisches Rauschen, Syntax ohne Semantik. Unter flackernden Geometrien und unscharfen Kanten ist der Riss laut Kapitel-Kompendium Landauer-Hitze mit Ozon, laut Storyform-Outline kaltes Ozon, in beiden die sichtbar werdende Verdrängung. In der Heldinnenreise ist es Verrat und Desillusionierung, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit dem MC-Issue Falsehood vs. Truth als erster Begegnung mit der Systemlüge in Storyform A und dem initialisierten Controlled Fragmentation Protocol als OS-Physics in Storyform B. Laut Konzept-Iteration Genesis wiederholt AEGIS' Gaslighting hier seine ursprüngliche Selbstmanipulation.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Das Echo“ ^[monstergruppe-primzahlen-plot-blueprint.md:L37]
+
+- Establishes: „Nach dem Glitch erlebt Kael ein flüchtiges "Echo"“ ^[monstergruppe-primzahlen-plot-blueprint.md:L40]
+- K-J: „Erste bewusste, wenn auch flüchtige Wahrnehmung der Verbindung durch Kael“ ^[monstergruppe-primzahlen-plot-blueprint.md:L43]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the partitioning, done once here
+
+Title: „Die Partitionierung“ ^[kohaerenz-protokoll.md:L196]
+Position: „(Fundamentales Konzept: Dissoziative Identitätsstörung)“ ^[kohaerenz-protokoll.md:L198] · „(Heldinnenreise Stufe 2: Verrat / Desillusionierung)“ ^[kohaerenz-protokoll.md:L200]
+
+- AEGIS' evaluation unit forces it: „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung.“ ^[kohaerenz-protokoll.md:L258]
+- What it cuts: „Eine Mauer zwischen dem Logiker, dem Manager, der versuchte zu kooperieren, und dem intuitiven, fühlenden Teil, der mit dem goldenen Licht, mit *Juna*, verbunden war.“ ^[kohaerenz-protokoll.md:L260]
+- Juna erased: „Der Name *Juna* wurde zu einem bedeutungslosen Echo, einem gelöschten Datenfragment.“ ^[kohaerenz-protokoll.md:L264]
+- What is left: „Er war immer noch K-1123, der Kohärenz-Verifikator, der Logiker.“ ^[kohaerenz-protokoll.md:L268]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -32,6 +51,28 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Die Erzählung wechselt kurz zu einer abstrakten Darstellung von AEGIS' Überwachungsprozess.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42]
 - Story: „'nicht-kritische Abweichungen' oder 'unterschwelliges emotionales Rauschen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42] · „Es wird keine sofortige Aktion ausgelöst, aber die Daten werden protokolliert und korreliert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L42]
 - Discussion: „es sieht Syntax, keine Semantik“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L43]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Nicht-euklidische Isolation und das Kachelproblem“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
+
+- Where: „Kael bewegt sich durch die Korridore der Stadt zu seinem Arbeitsplatz am Datenknotenpunkt Gamma-7“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
+- Establishes: „das algorithmische „Kachelproblem““ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
+- DKT: „Im DKT-Modus bleibt Kael stoisch (K1), doch sein Körper reagiert autonom mit feinem Zittern und Schwindel“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L57]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — a deviation, the city's gaslighting, and Lex breaks through
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Geometrie der Isolation“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Story: „weicht jedoch instinktiv um wenige Zentimeter von einem vorgezeichneten Pfad ab“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] · „Die Stadt reagiert sofort mit systemischem Gaslighting (RIVE-Protokoll).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] · „Die Architektur verschiebt sich in aperiodischen Winkeln, Gänge verlängern sich ins Unendliche, sobald er sich abwendet.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
+- Who: „In diesem Moment extremer Belastung bricht Lex durch.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] · „Lex unterdrückt jegliche Panik, kalkuliert Winkel und führt den Körper mit absoluter, maschineller Präzision aus der Gefahrenzone.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
+- Reader's view: „Für den Leser wirkt es, als würde ein kybernetisches Überlebensimplantat oder eine kalte, analytische Subroutine die motorische Kontrolle übernehmen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
+- Checklist, Fixpunkt 2: „Routineabweichung, Gaslighting, Lex bricht durch, aperiodische Architektur.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L216] · „Lex übernimmt als ANP die Kontrolle, um Panik zu unterdrücken.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L216]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -121,10 +162,12 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 
 ## Where the sources differ
 
+- **Title, and the Riss without heat or ozone (D47).** „Die Partitionierung“ ^[kohaerenz-protokoll.md:L196] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fifth title; its Riss is done by AEGIS' evaluation unit as „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung.“ ^[kohaerenz-protokoll.md:L258], with no `Hitze`, `Landauer` or `Ozon` in this chapter (`Hitze` and `Landauer` 0 in the whole document, `Ozon` twice elsewhere, once at a McL node — `Plan/runs/kohaerenz-protokoll/05-verify.txt`).
 - **What the Riss feels like.** „Riss = Landauer-Hitze/Ozon (Verdrängung wird sichtbar)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium) · „Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird sichtbar)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307] (storyform outline). (C11)
 - **The number 734.** „Die Zahl 734 taucht erstmals als Foreshadowing auf.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] (strukturierter Outline, Kap 2) · „Lebt als Komp 734 in Wohneinheit 14/Sektor 7.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (strukturierter Outline, its Kap 1) · „Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium, its Kap 1) — first here, or already named in Kap 1; the strukturierter Outline says both.
 - **First style shift.** „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium, Kap 2) · „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834] (Kernwelten vollständig, its Kap 8).
 - **Title.** „Geometrie der Isolation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L510] (Konzept-Iteration Genesis) · „Der erste Riss“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L963] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Verrat / Desillusionierung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 2: Verrat / Desillusionierung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L273].
+- **The Hard-SF-Outline.** „Geometrie der Isolation“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] (the Hard-SF-Outline, 2026-04-08) — the Konzept-Iteration Genesis's title a month later; the chapter is Kael's deviation from a path, „weicht jedoch instinktiv um wenige Zentimeter von einem vorgezeichneten Pfad ab“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96], and Lex's first takeover.
 
 ## Questions for this chapter
 

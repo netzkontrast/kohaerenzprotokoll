@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 14
-readings: 14
+sources: 22
+readings: 22
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-24"
 ---
 
@@ -87,3 +87,45 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — ANP, Maxwells Dämon, → Akzeptanz
 
 Among the ANPs of the TSDP section: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] His row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „ANP | Rhys (Caregiver) | Maxwells Dämon | → Akzeptanz" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L494]. Nothing else in the document names Rhys (`grep -cw Rhys`: 2; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — ANP (Caregiver)
+
+His row in its table of thirteen fragments: „ANP (Caregiver) | Rhys | Maxwell’s Demon | Sweating/Feverish hands | Acceptance" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. Nothing else in the document names Rhys (`grep -cw Rhys`: 1; `05-verify-readers.txt`).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Maxwell's Demon, toward acceptance
+
+His row, in a table with no category column: „Rhys,Maxwell’s Demon,Sweating / Feverish hands,Toward Acceptance" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L66]. Nothing else in the document names Rhys (`grep -cw Rhys`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — ANP, and an arc in German words: Anker Akt I → Kudzu Akt II
+
+„ANP | Rhys | Maxwell’s Demon | Sweaty, feverish hands ; Arc: Anker Akt I → Kudzu Akt II" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] — the konsolidiertes Konzept's parenthesis (above) as the whole arc, without the acceptance it leads to (`Acceptance` 0). Nothing else in the document names Rhys (`grep -cw Rhys`: 1; `05-verify-readers.txt`).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Caregiver, the system's maintenance
+
+His row: „Rhys (Caregiver) | Maxwell’s Demon | Feverish hands and excessive sweating. | Signals emotional overhead/system maintenance." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Rhys (`grep -cw Rhys`: 1).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — ANP, caregiver and protector with the Fight-Response, who takes the body in Kapitel 20–21
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. His row, category `ANP`: „Der Caregiver & Beschützer." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L53] „Übernimmt physische Verteidigung (Fight-Response)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L53]
+He stirs first beside Kiko in Kapitel 16 — Kael feels a fatherly responsibility „(Rhys regt sich in ihm)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]. In Kapitel 20, on the way into Cerberus' territory: „Rhys bricht an die Oberfläche und übernimmt die motorische Kontrolle mit einer Härte, die Kael bisher fremd war." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152] In Kapitel 21's gravity set-piece: „Kael und Rhys werden buchstäblich vom Gewicht der schwindenden Realität zu Boden zerquetscht." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L154] Kapitel 24 names him among those revealed as alters (L160); in Kapitel 30 Kael refuses the temptation „getragen von der Widerstandskraft von Nyx und Rhys" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]; in Kapitel 39 he is among those still there (L206).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — the Kudzu named as toxic co-dependency, and a contradiction register entry of its own
+
+A compilation that audits its sources and keeps its own contradiction register — recorded, not applied.
+**Function and voice.** „Harmonisierer, Pfleger, Bindungsaufbau." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L115] „Empathisch, warm, sanft (teilweise naiv hoffend)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L121]
+**`Kudzu` explained.** This document glosses the arc: „Überwindung von toxischer Co-Abhängigkeit ("Kudzu-Gewächs") hin zu echter Akzeptanz." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L128]
+**Its own register names his classification as unsettled.** „In der *Writer's Bible* (Dok. 48) und *TSDP-Analyse* (Dok. 35) wird Rhys klar als **ANP (Caregiver)** gelistet, der Konflikte meidet." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L345] The same entry says an older album concept calls him „**EP (Fight)**" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L345] instead, „der wütend, impulsiv und aggressiv beschützend agiert." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L345]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the Pfleger-ANP, gently intervening for Kiko, against the table's own assignment of that role
+
+A report addressed to the author; recorded, not applied. Not in the eleven-alter table (L40–L43; see [[alters]]) — Silas carries „(Pfleger)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L41] there, of Resonanz-Landschaft (KW2) — Rhys is named only in Kapitel 19, gently intervening for the weeping Kiko: „Rhys, der Pfleger-ANP, versucht sanft zu intervenieren." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95] So the document gives the Pfleger role to two different figures in two places, an internal tension it does not resolve. `Rhys` stands on this one line (`grep -cw Rhys`: 1, `Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/05-verify.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Relational ANP, mediator between Lex and Nyx
+
+An English file of about fourteen reports of 2025. Every roster it gives keeps him an ANP: the Guide and Framework's eight-alter tables call him „ANP (Caretaker/Social Mediator)." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L414] (Guide) and the Blueprint's eleven-alter table „ANP (Carer) - Focused on empathy, internal harmony, and fostering connection." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L847] (see [[alters]]).
+
+**The Psychological Exposé makes him the bridge between Lex and Nyx by name.** „Rhys functions as the system's empathic ANP and internal mediator." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1038] „Where Lex's logic creates distance, Rhys's empathy builds bridges. He is the first part capable of facilitating tentative communications between the system's warring alters, particularly between the detached, analytical Lex and the fiercely protective Nyx." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1038]
+
+The thematic analysis and the Comparative Case Study both call him the Relational ANP: „Rhys (The Relational ANP): A functional part oriented toward empathy, connection, and care. He often serves as a mediator between the more rigid and defensive parts." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1203] The Case Study's own words for the same role: „Another functional part, Rhys is oriented toward empathy, connection, and care. His motivations often bring him into conflict with the more rigid, defensive, or emotionally detached parts of the system, as he seeks to build bridges both internally and externally." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1303]
+
+The Assessment gives AEGIS a way to exploit him: „AEGIS exploits Rhys's empathy by presenting him with overwhelming evidence of the system's suffering, leading to caretaker burnout." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1660]

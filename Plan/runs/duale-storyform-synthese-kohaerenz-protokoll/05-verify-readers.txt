@@ -1,0 +1,78 @@
+entropie: grep -c 'Entropie-Architektur' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+goedel-gambit: grep -c 'Beat' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+dkt: grep -c 'Giannakopoulos' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+dkt: grep -c 'Coheron' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+dkt: grep -c 'Erason' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+dkt: grep -c 'PAL' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+dkt: grep -c 'Kohärenz-Kernel' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+dkt: grep -c 'Kollaps-Kernel' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+dkt: grep -c 'K₁' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+dkt: grep -c 'K₀' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+kohaerenz-kernel: grep -c 'AEGIS glaubt' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+kollaps-kernel: grep -icE 'AEGIS.{0,3}K0' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+kollaps-kernel: grep -c 'Wärmetod' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+landauer-signatur: grep -c 'Ozon' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+landauer-signatur: grep -ci 'kalt' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+landauer-signatur: grep -c 'Kap 6' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+hitze-polaritaetsregel: grep -c 'Polarität' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+plot: grep -cE 'Akt I\\b|Akt 1\\b|Akt II\\b|Akt 2\\b' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+plot: grep -cE 'Akt 3\\b' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+4
+moonshine-link: grep -c 'VOA' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+moonshine-link: grep -c 'Leech' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+moonshine-link: grep -c 'Silas' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+negentropie: grep -c 'Negentropie' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+1
+risse: grep -c 'Flight' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+telefon-stille: grep -c 'zwanzig' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+kern-welten/konstrukt-stadt/c9 (s4446-worlds): grep -cw 'KW2' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+kern-welten/konstrukt-stadt/c9 (s4446-worlds): grep -cw 'KW3' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+kern-welten/konstrukt-stadt/c9 (s4446-worlds): grep -cw 'KW4' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+potentialmeer: grep -c 'Ursprungs-Ich' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+aegis/c8: grep -cw 'Do-er' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+3
+aegis/c8: grep -cw 'Be-er' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+4
+multiplizitaet: grep -c 'Fusion' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+komponente-734/kael: grep -c 'Komponente 734' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+komponente-734/kael: grep -c 'Komp 734' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+q3/alters: grep -cw 'Kernwelt' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+q3/alters: grep -cw 'KW1' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+q3/alters: grep -cw 'KW2' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+q3/alters: grep -cw 'KW3' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0
+q3/alters: grep -cw 'KW4' Sources/drive/duale-storyform-synthese-kohaerenz-protokoll.md
+0

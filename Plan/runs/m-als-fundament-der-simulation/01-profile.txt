@@ -1,0 +1,14 @@
+# m-als-fundament-der-simulation
+  lines                751  (frontmatter ends at 9)
+  body words           11436
+  headings             2   bold-only lines 7
+  table rows           7   code fences 0
+  question marks       29
+  backslash escapes    40
+  typographic marks    27   ascii quotes 220
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    127
+  repeated labels      Ziel x3
+  longest line         922 chars
+

@@ -1,0 +1,313 @@
+---
+source: Sources/drive/roman-konzept-dualitaet-kohaerenz-spannung.md
+drive_id: "1raQliuqvERbOa7SnY49vkBWR0ELgtOWzjF8U5S7bFgg"
+title: "Roman-Konzept: Dualität, Kohärenz, Spannung"
+category: theorie-logik
+index_date: "2026-02-26"
+extracted: "2026-09-27"
+candidates: 203
+---
+
+# Term census — Roman-Konzept: Dualität, Kohärenz, Spannung
+
+> **This file describes one document and nothing else.** No count, comparison or
+> expectation from any other source appears here. Comparing documents is a
+> separate step, and mixing the two is what lets a term look unimportant in the
+> document where it conflicts.
+
+## Structural profile
+
+`python3 scripts/profile.py roman-konzept-dualitaet-kohaerenz-spannung`
+
+```
+  lines                171  (frontmatter ends at 9)
+  body words           5094
+  headings             10   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       2
+  backslash escapes    22
+  typographic marks    75   ascii quotes 24
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    65
+  repeated labels      none
+  longest line         1032 chars
+```
+
+## Candidates and measured surfaces
+
+`python3 scripts/capture.py roman-konzept-dualitaet-kohaerenz-spannung --count` —
+the list is `Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/03-candidates.md`,
+written while reading. `word` is the term standing alone, `in` anywhere including compounds.
+
+```text
+  Kohärenz Protokoll                6 word     6 in   [11, 15, 17, 143, 158, 161]
+  Systemarchitektur                 2 word     2 in   [11, 29]
+  TSDP-Integration                  1 word     1 in   [11]
+  Ultra-Plot                        1 word     2 in   [11, 47]
+                                    1      as Ultra-Plot-Outline
+  Novel Writing Assistent           1 word     1 in   [15]
+  Dissoziative Identitätsstörung    1 word     1 in   [17]
+  Kael                             72 word    80 in   [17, 19, 25, 27, 31, 40]
+                                    8      as Kaels
+  Konstrukt-Stadt                   6 word     6 in   [17, 27, 40, 55, 125, 137]
+  phänomenales Selbstmodell         1 word     1 in   [17]
+  AEGIS                            30 word    32 in   [17, 19, 23, 27, 45, 57]
+                                    1      as AEGIS-Löschsequenz
+                                    1      as AEGIS-Systembericht
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [17]
+  Täterintrojekt                    1 word     1 in   [17]
+  Entropie                          8 word     8 in   [17, 19, 27, 107, 129, 137]
+  Rauschen                          7 word    10 in   [19, 33, 63, 73, 95, 137]
+                                    1      as Rauschens
+  Juna                             16 word    20 in   [19, 43, 45, 59, 77, 79]
+                                    4      as Junas
+  funktionalen Multiplizität        1 word     1 in   [19]
+  Spiegel-Effekt                    2 word     2 in   [19, 133]
+  universalen Reboot                1 word     1 in   [23]
+  Anscheinend Normaler Persönlichkeitsanteil    1 word     1 in   [25]
+  ANP                               4 word     9 in   [25, 31, 40, 55, 61, 67]  <-- substring
+  Landauer-Prinzip                  4 word     4 in   [27, 59, 69, 145]
+  Risse                             5 word     5 in   [27, 57, 129, 143]
+  digitaler Abwärme                 1 word     1 in   [27]
+  Ozon                              1 word     1 in   [27]
+  Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [31]
+  TSDP                              1 word     3 in   [11, 31, 161]  <-- substring
+                                    1      as TSDP-Integration
+                                    1      as TSDP-Analyse
+  Internal Family Systems           1 word     1 in   [31]
+  IFS                               1 word     3 in   [31, 39, 123]  <-- substring
+  System Kael                       1 word     1 in   [31]
+  Emotionalen Persönlichkeitsanteile    1 word     1 in   [31]
+  EPs                               3 word     3 in   [31, 87, 89]
+  ANPs                              1 word     1 in   [31]
+  Alters                            7 word     8 in   [33, 39, 83, 105, 109, 123]
+  Kernwelten                        2 word     2 in   [33, 113]
+  Kernwelt                          3 word     5 in   [33, 39, 85, 105, 113]
+                                    2      as Kernwelten
+  Guardians                         3 word     3 in   [33, 107, 119]
+  Guardian                          4 word     7 in   [33, 39, 65, 77, 85, 107]
+                                    3      as Guardians
+  KW1                               1 word     1 in   [40]
+  LogOS                             7 word     7 in   [40, 65, 77, 79]
+  Manager                           3 word     4 in   [31, 40, 41, 55]
+  Kael (Host)                       1 word     1 in   [40]
+  Lex                               6 word     6 in   [40, 61, 89, 123]
+  Limina                            2 word     2 in   [40, 85]
+  Gatekeeper                        3 word     3 in   [17, 40, 85]
+  K1-Logik                          2 word     2 in   [40, 61]
+  Resonanz-Landschaft               6 word     6 in   [41, 79, 85, 89, 91, 93]
+  KW2                               1 word     1 in   [41]
+  Mnemosyne                         3 word     3 in   [41, 85]
+  Caretaker                         1 word     1 in   [41]
+  Silas                             1 word     1 in   [41]
+  Eos                               2 word     2 in   [41, 99]
+  Grenzfeste                        2 word     2 in   [42, 103]
+  KW3                               1 word     1 in   [42]
+  Cerberus                          8 word     9 in   [42, 71, 107, 109, 115]
+                                    1      as Cerberus-Drohnen
+  Firefighter                       1 word     1 in   [42]
+  Persecutor                        1 word     2 in   [42, 103]
+                                    1      as Persecutor-Alter
+  Exiles                            2 word     2 in   [42, 43]
+  Nyx                               9 word     9 in   [42, 71, 103, 105, 123]
+  Praetor                           1 word     1 in   [42]
+  Nox                               1 word     1 in   [42]
+  Möglichkeits-Garten               2 word     2 in   [43, 119]
+  KW4                               2 word     2 in   [43, 119]
+  Kairos                            2 word     2 in   [43, 119]
+  Sophia                            2 word     2 in   [43, 119]
+  Kiko                             10 word    11 in   [43, 69, 95, 97, 99, 101]
+                                    1      as Kikos
+  Oblivion                          1 word     1 in   [43]
+  Fusion                            4 word     4 in   [43, 111, 123, 137]
+  Dual-Kernel-Theorie               2 word     2 in   [45, 129]
+  DKT                               1 word    11 in   [45, 49, 55, 57, 61, 65]  <-- substring
+  Kohärenz-Kernel                   1 word     1 in   [45]
+  K1                                6 word    22 in   [40, 45, 53, 55, 57, 61]  <-- substring
+  Kollaps-Kernel                    1 word     1 in   [45]
+  K0                                6 word    24 in   [45, 59, 61, 65, 67, 69]  <-- substring
+  Deep POV                          1 word     1 in   [45]
+  Ultra-Plot-Outline                1 word     1 in   [47]
+  Teil I                            1 word     3 in   [51, 81, 111]  <-- substring
+  Kapitel 1–13                      1 word     1 in   [51]
+  Kapitel 1                         2 word    13 in   [51, 55, 73, 75, 77, 79]  <-- substring
+  Erwachen-Zyklus                   1 word     1 in   [55]
+  Planck-Latenz                     1 word     1 in   [55]
+  Universal Reboot                  1 word     1 in   [55]
+  Wohneinheit                       1 word     1 in   [55]
+  Planck-Zeit                       2 word     2 in   [55, 67]
+  Glitch                            1 word     2 in   [27, 55]
+                                    1      as Glitches
+  Kapitel 2                         1 word    12 in   [57, 97, 99, 101, 103, 105]  <-- substring
+  Kachelproblem                     2 word     2 in   [57]
+  Datenknotenpunkt Gamma-7          1 word     1 in   [57]
+  Tiling Problem                    1 word     1 in   [57]
+  Kapitel 3                         1 word    11 in   [59, 121, 123, 125, 127, 129]  <-- substring
+  Das flüchtige Echo                1 word     1 in   [59]
+  K0-Intrusion                      2 word     2 in   [59, 65]
+  Kapitel 4                         1 word     1 in   [61]
+  Sektor 04                         1 word     1 in   [61]
+  Escher-Schleife                   1 word     1 in   [61]
+  Gödels Erstem Unvollständigkeitssatz    1 word     1 in   [61]
+  Kapitel 5                         1 word     1 in   [63]
+  Halteproblem                      3 word     4 in   [63, 87]
+                                    1      as Halteproblems
+  Nichts-Rauschen                   2 word     2 in   [63]
+  Kapitel 6                         1 word     1 in   [65]
+  semantische Firewall              1 word     1 in   [65]
+  Kapitel 7                         1 word     1 in   [67]
+  Page-Wootters-Mechanismus         1 word     1 in   [67]
+  Switching                         1 word     1 in   [67]
+  Alex                              1 word     1 in   [67]
+  Kapitel 8                         1 word     1 in   [69]
+  Russellschen Antinomie            1 word     1 in   [69]
+  Kapitel 9                         1 word     1 in   [71]
+  Lost Time                         1 word     1 in   [71]
+  Dissoziative Amnesie              1 word     1 in   [71]
+  Cerberus-Drohnen                  1 word     1 in   [71]
+  Bekenstein-Schranke               1 word     1 in   [71]
+  Kapitel 10                        1 word     1 in   [73]
+  Neutrino-Boden                    2 word     2 in   [73]
+  Kapitel 11                        1 word     1 in   [75]
+  Grenzsituation                    2 word     2 in   [75]
+  Kapitel 12                        1 word     1 in   [77]
+  blinde Fleck                      1 word     1 in   [77]
+  Hard Problem of Consciousness     1 word     1 in   [77]
+  Explanatory Gap                   2 word     2 in   [77, 93]
+  Qualia                            2 word     4 in   [77, 93]
+                                    1      as Qualia-Paradoxon
+                                    1      as Qualia-Problem
+  Kapitel 13                        1 word     1 in   [79]
+  System-Kollaps                    1 word     1 in   [79]
+  Kohärenz-Verletzungs-Schock       1 word     1 in   [79]
+  Schiffbruch des Denkens           3 word     3 in   [79, 121]
+  Quarantäne                        1 word     1 in   [79]
+  Wittgensteins                     1 word     1 in   [65]
+  Karl Jaspers                      1 word     1 in   [75]
+  Turing                            0 word     3 in   [63, 87]  <-- substring
+                                    2      as Turings
+                                    1      as Turing-Mechanik
+  Gödel                             1 word     3 in   [61, 131, 145]  <-- substring
+                                    2      as Gödels
+  Escher                            0 word     1 in   [61]
+                                    1      as Escher-Schleife
+  Teil II                           1 word     2 in   [81, 111]
+  Anatomie der Spaltung             1 word     1 in   [81]
+  Kapitel 14                        2 word     2 in   [81, 85]
+  Archiv der Grenzen                1 word     1 in   [85]
+  Kernwelt 2                        1 word     1 in   [85]
+  epigenetische Plastizität         1 word     1 in   [85]
+  Kapitel 15                        1 word     1 in   [87]
+  Moros                             4 word     4 in   [87, 117]
+  Kapitel 16                        1 word     1 in   [89]
+  Ashby's Law of Requisite Variety    1 word     1 in   [89]
+  Kapitel 17                        1 word     1 in   [91]
+  Kapitel 18                        1 word     1 in   [93]
+  Qualia-Paradoxon                  1 word     1 in   [93]
+  Isabelle                          1 word     3 in   [93, 95]  <-- substring
+                                    2      as Isabelles
+  Kapitel 19                        1 word     1 in   [95]
+  Chaitins Konstante                1 word     1 in   [95]
+  Rhys                              1 word     1 in   [95]
+  Kapitel 20                        1 word     1 in   [97]
+  Sweeper                           1 word     1 in   [97]
+  Landauer-Hitze                    1 word     1 in   [97]
+  Ereignishorizont                  4 word     5 in   [97, 101, 127, 135]
+                                    1      as Ereignishorizonts
+  Spaghettisierung                  2 word     2 in   [97]
+  Kapitel 21                        1 word     1 in   [99]
+  Kapitel 22                        1 word     1 in   [101]
+  Planck-Barriere                   1 word     1 in   [101]
+  Quanten-Tunneling                 1 word     1 in   [101]
+  Kapitel 23                        1 word     1 in   [103]
+  Baryonenasymmetrie                1 word     1 in   [103]
+  Kapitel 24                        1 word     1 in   [105]
+  Kapitel 25                        1 word     1 in   [107]
+  Big Freeze                        1 word     1 in   [107]
+  Wärmetod                          1 word     1 in   [107]
+  Kapitel 26                        1 word     1 in   [109]
+  Junas Demaskierung                1 word     1 in   [109]
+  Relationale Ontologie             1 word     1 in   [109]
+  Kants                             1 word     1 in   [91]
+  Ashby                             1 word     1 in   [89]
+  Teil III                          1 word     1 in   [111]
+  Die existenzielle Fusion          1 word     1 in   [111]
+  Kapitel 27                        2 word     2 in   [111, 115]
+  Kontingenz                        2 word     2 in   [115]
+  Kapitel 28                        1 word     1 in   [117]
+  Sein zum Tode                     2 word     2 in   [117]
+  Kapitel 29                        1 word     1 in   [119]
+  Kapitel 30                        1 word     1 in   [121]
+  Kapitel 31                        1 word     1 in   [123]
+  Wir-Geflechts                     1 word     1 in   [123]
+  Funktionale Multiplizität         1 word     1 in   [123]
+  Kapitel 32                        1 word     1 in   [125]
+  Kapitel 33                        1 word     1 in   [127]
+  Replica Wormholes                 4 word     4 in   [127, 145, 168]
+  Entanglement Islands              2 word     2 in   [127, 168]
+  Hawking-Strahlung                 1 word     1 in   [127]
+  Kapitel 34                        1 word     1 in   [129]
+  Mosaik-Herz                       3 word     3 in   [129, 139]
+  Kintsugi                          1 word     1 in   [129]
+  Kapitel 35                        1 word     1 in   [131]
+  Subjekt-Objekt-Spaltung           1 word     1 in   [131]
+  Autopoiesis                       2 word     2 in   [131, 137]
+  Kapitel 36                        1 word     1 in   [133]
+  Meta-Ebene                        2 word     2 in   [113, 133]
+  Kapitel 37                        1 word     1 in   [135]
+  Quantenschaum                     1 word     1 in   [135]
+  Kapitel 38                        1 word     1 in   [137]
+  Fusion der Ebenen                 1 word     1 in   [137]
+  Kapitel 39                        1 word     1 in   [139]
+  AEGIS-Systembericht               1 word     1 in   [139]
+  Zielkohärenz                      2 word     2 in   [139]
+  Residuale Entropie                1 word     1 in   [139]
+  Monstrous Moonshine               1 word     1 in   [145]
+  Sartres                           1 word     1 in   [115]
+  Heideggers                        2 word     2 in   [117, 125]
+  Eugene Wigners                    1 word     1 in   [133]
+```
+
+## What the extraction ran into
+
+**A report addressed to the author.** It speaks as a „Novel Writing Assistent" ^[L15] and „Der
+initiierende Autor wird hiermit formell begrüßt." ^[L15]; it critiques the pacing of earlier drafts
+(L23–27), lays out „Ultra-Plot-Outline: 39 Kapitel der epistemologischen Eskalation" ^[L47] in three
+Teile, and ends on a question to the author (L147). Its numbered references (L151–170) are titles of
+other documents and web pages, which stay off the list. The manifest dates it 2026-02-26; no canon label.
+
+**Every chapter on three levels.** Each of Kapitel 1–39 is one bold-titled paragraph: what happens, a
+science or philosophy it „visualisiert" ^[L57], the DKT style (K1 paratactic, K0 hypotactic), and a
+„mentale Kritik" ^[L59] of the scene. `Kapitel` stands on 44 lines, `Kap` 0, `Vortex` 0, `40` 0.
+
+**Glued reference numbers and two holes.** 65 glued numbers („Kontrolle.2" ^[L23], „Manipulator-Alter Eos 1" ^[L99]).
+Two passages lost a symbol or words: „Auf Bildschirmen erscheinen die Worte als." ^[L65] ends without
+the words, and „Chaitins Konstante  –" ^[L95] has lost its Ω.
+
+**Eleven alters in the table, fifteen names in the text.** „die elf identifizierten Alters" ^[L33] are
+assigned to four Kernwelten in a table (L40–43): Kael (Host), Lex, Limina; Silas, Eos; Nyx, Praetor, Nox;
+Kiko, Oblivion, Juna. The chapters add Alex (L67), Moros (L87), Isabelle (L93) and Rhys (L95), none of
+them in the table; Kapitel 31 again counts „Die elf Alters" ^[L123]. `Selene`, `Argus`, `Lia` 0.
+`Limina`, `Eos`, `Praetor` and `Nox` are alter names; Juna is listed among the alters, „Juna (Anomalie)"
+^[L43].
+
+**The worlds by name.** „Konstrukt-Stadt (KW1)" ^[L40], „Resonanz-Landschaft (KW2)" ^[L41],
+„Grenzfeste (KW3)" ^[L42], „Möglichkeits-Garten (KW4)" ^[L43], each with a „Zuständiger Guardian"
+^[L39].
+
+**Heat and warmth.** Erasure is heat (L27, L59, L69, L97); Juna's presence is „die intensive, lodernde
+Wärme (K0)" ^[L77]; in Kapitel 38 „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren." ^[L137]
+`Knöchel` 0 — the bleeding is Kael's knees in Kapitel 4 (L61) and blood on his hands in Kapitel 9 (L71).
+
+**Names it does not write.** No `Genesis`, `Fragmentierungsnacht`, `734`, `Trennungsprotokoll`,
+`Flight`, `Coheron`, `Truth-Rotation`, `Telefon`, `Dramatica`, `Storyform`, `21°C`; the kernels are
+`K1` and `K0` with plain digits (`05-verify.txt`).
+
+**Two zeros, both compounds.** `Turing` stands only as „Turings" and in „Turing-Mechanik" ^[L87];
+`Escher` only in „Escher-Schleife" ^[L61]. Both stay on the list.
+
+**Lens.** Wittgensteins, Karl Jaspers, Turing, Gödel, Escher, Kants, Ashby, Sartres, Heideggers and Eugene
+Wigners are the philosophers, mathematicians and artists a chapter borrows from. Five were first written
+in the nominative, from memory, and stood 0 times; the list was corrected before the count
+(`03-candidates.md`, *before the count*).

@@ -1,0 +1,272 @@
+{
+  "document": "ki-prompt-analyse-hard-problem-of-consciousness",
+  "drive_id": "1IdPAAsJUSrjj2FsVk7GUrgZOUzUmnWIveXXDeRGGswk",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 53,
+  "backslash_escapes": 261,
+  "typographic_marks": 153,
+  "ascii_quotes": 40,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systemarchitektur",
+      "Systemen",
+      "Systemfehler",
+      "Systemideologie",
+      "Systemik",
+      "Systeminformation",
+      "Systemische",
+      "Systemkollaps",
+      "Systems",
+      "Systemstabilität",
+      "Systemtäuschung",
+      "Systemzustands"
+    ],
+    "gegen": [
+      "Gegen",
+      "Gegenläufig",
+      "Gegenläufigkeit",
+      "Gegenläufigkeitsachse",
+      "Gegenpole",
+      "Gegensätze",
+      "Gegenüber",
+      "Gegenüberstellung"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsbewahrung",
+      "Informationsdichte",
+      "Informationslöschung",
+      "Informationstheorie",
+      "Informationstransfer",
+      "Informationsvektoren"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomenal",
+      "Phänomenale",
+      "Phänomenales",
+      "Phänomenalismus",
+      "Phänomenologie",
+      "Phänomenologische"
+    ],
+    "inter": [
+      "Interaction",
+      "Interaktion",
+      "Interference",
+      "Interferenz",
+      "Interferenzstruktur",
+      "Internal"
+    ],
+    "speic": [
+      "Speicheranzeigen",
+      "Speicherkapazitäts",
+      "Speicherleck",
+      "Speicherlecks",
+      "Speicherressourcen",
+      "Speicherüberlauf"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellierung",
+      "Modells"
+    ],
+    "physi": [
+      "Physics",
+      "Physik",
+      "Physikalisch",
+      "Physikalische",
+      "Physikalist"
+    ],
+    "spieg": [
+      "Spiegelbild",
+      "Spiegelkabinett",
+      "Spiegelpaar",
+      "Spiegelung",
+      "Spiegelungs"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmische",
+      "Algorithmischen",
+      "Algorithmus"
+    ],
+    "diale": [
+      "Dialectical",
+      "Dialektik",
+      "Dialektische",
+      "Dialetheismus"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbrechen",
+      "Durchbrechung",
+      "Durchlauf"
+    ],
+    "energ": [
+      "Energie",
+      "Energieabfuhr",
+      "Energieberechnung",
+      "Energy"
+    ],
+    "erste": [
+      "Erste",
+      "Erstellt",
+      "Erstellung",
+      "Ersten"
+    ],
+    "falsi": [
+      "Falsification",
+      "Falsifikation",
+      "Falsifikations",
+      "Falsifikationstest"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktional",
+      "Funktionale",
+      "Funktionen"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrity",
+      "Integritäts"
+    ],
+    "proje": [
+      "Projection",
+      "Projektion",
+      "Projektionen",
+      "Projektions"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonant",
+      "Resonanz",
+      "Resonanzraum"
+    ],
+    "story": [
+      "STORYFORM",
+      "Story",
+      "Storyform",
+      "Storyforms"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturangaben",
+      "Strukturelle",
+      "Strukturen"
+    ],
+    "trenn": [
+      "Trennung",
+      "Trennungs",
+      "Trennungsprotokoll",
+      "Trennungsprotokolls"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widerstand"
+    ],
+    "analy": [
+      "Analyse",
+      "Analytiker",
+      "Analytische"
+    ],
+    "antag": [
+      "Antagonismus",
+      "Antagonist",
+      "Antagonisten"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Akteur"
+    ],
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Akte",
+      "Charakterisierung"
+    ],
+    [
+      "Bits",
+      "Gambits"
+    ],
+    [
+      "Book",
+      "NotebookLM"
+    ],
+    [
+      "Dann",
+      "Grundannahme"
+    ],
+    [
+      "Dann",
+      "Grundannahmen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Dual",
+      "Dualen"
+    ],
+    [
+      "Dual",
+      "Dualism"
+    ],
+    [
+      "Dual",
+      "Dualismus"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Eine",
+      "Bewusstseinen"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Form",
+      "Bauform"
+    ],
+    [
+      "Form",
+      "STORYFORM"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ]
+  ]
+}

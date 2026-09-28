@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,26 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen die Wächterin in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Korrektur, mit der der erste Spiral-Zyklus aus Trigger, Bunker und Wächterin schließt. Kaels Rückfall wird abgefangen, und Kael schaut aktiv hin, statt zu fliehen: laut der Konzept-Iteration Genesis durch die Wächterin oder Wir-Stimme, laut der strukturierten Outline durch Selene in der Wächterin-Funktion oder durch die Verbindung zwischen Kael und Juna, und laut der strukturierten Outline beginnt in Kael das Wir-Geflecht. In Storyform A deutet das die MC-Solution Pursuit an, Storyform B bleibt latent; die strukturierte Outline nennt es die erste bewusste Pursuit-Bewegung mit dem Driver-Anker Decision und gibt dieselbe Formel auch der Lyons-Kreativität. Laut dem Kapitel-Kompendium und der Storyform-Outline sieht Kael die Drähte der Simulation, Rendering-Ebene gegen Prozess-Kern, im Zeichen von Kants transzendentalem Idealismus, Kernwelten vollständig verortet das in KW2, und Licht durch enge Architektur trägt die Szene. Laut der Plot-Konkretisierung sieht Kael erstmals, wohin Bestätigtes geht, nach unten, und im Pflichtbericht des Tages steht versehentlich ein erzählter Satz, den der Validator knapp passieren lässt.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Jenseits der Mauer: Das Potentialmeer“ ^[monstergruppe-primzahlen-plot-blueprint.md:L191]
+
+- Establishes: „erhält Kael einen kurzen, aber erschütternden Blick auf das, was jenseits der von M strukturierten Simulation liegt: das Potentialmeer“ ^[monstergruppe-primzahlen-plot-blueprint.md:L194]
+- Theory: „Dies ist kein Ort, sondern ein Zustand reiner, unstrukturierter Potentialität – formlos, unendlich, unbegreiflich“ ^[monstergruppe-primzahlen-plot-blueprint.md:L194]
+- Theory: „Insel der Ordnung im Ozean der Möglichkeiten“ ^[monstergruppe-primzahlen-plot-blueprint.md:L195]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — opens on a collapse Kapitel 18 has yet to avert
+
+Title: „Funktionale Multiplizität im Test“ ^[kohaerenz-protokoll.md:L1754]
+Position: „Funktionale Multiplizität / Cache Kohärenz (Konflikt)“ ^[kohaerenz-protokoll.md:L1756] · „Zyklus 2, Phase 2: Test (Alltag)“ ^[kohaerenz-protokoll.md:L1758]
+
+- Opens by treating the Beta-Rho-5 crisis as already settled, „Der unmittelbare Kollaps von Beta-Rho-5 war abgewendet.“ ^[kohaerenz-protokoll.md:L1760] — this precedes, rather than follows, the intervention this document's own Kapitel 18 narrates, which its header marks „Zyklus 1, Phase 4“ ^[kohaerenz-protokoll.md:L1868], one cycle earlier than this chapter's „Zyklus 2“ ^[kohaerenz-protokoll.md:L1758]. The order does not hold; stated here, not resolved.
+- Where: AEGIS transfers Kael to „MCL-SIGMA-3, KOORDINATIONS-HUB ZETA.“ ^[kohaerenz-protokoll.md:L1774]
+- Story: a new assignment, „PROJEKT: KOOPERATIVE DATENSTROM-INTEGRATION (KDSI-GAMMA-7)“ ^[kohaerenz-protokoll.md:L1772], leading a team of three units toward a shared protocol, „AUFGABE: LEITUNG EINES KOOPERATIVEN TEAMS (EINHEITEN 734-ALPHA, 888-BETA, 101-GAMMA)“ ^[kohaerenz-protokoll.md:L1778], timed at „ZEITRAHMEN: 36.0 STANDARDSTUNDEN.“ ^[kohaerenz-protokoll.md:L1782] — its closing report Kapitel 23 names again.
+- Voice: third person on Kael; the system directive in capitals, the three units in dialogue, his own Anteile in italics.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -31,6 +51,25 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „identifiziert Kael zwei Kerndirektiven von AEGIS, die unter bestimmten Bedingungen widersprüchlich sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
 - Story: „Direktive A: "Bewahre bewusste Integrität innerhalb stabiler Parameter."“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241] · „Direktive B: "Eliminiere alle Quellen unvorhersehbarer Entropie."“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
 - Story: „was AEGIS in eine logische Zwickmühle zwingt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Phaenomena vs. Noumena“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L91]
+
+- Establishes: „verbrennt seine Hand nicht, sondern sie *hört auf zu existieren*“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L91]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the DKT at a terminal, and AEGIS recognised as a K0 machine
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Die Dual-Kernel-Theorie“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Story: „Kael findet ein Terminal, das scheinbar nicht von AEGIS korrumpiert ist.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144] · „Hier wird die DKT-Physik dargelegt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]
+- Physics: „Das Universum besteht aus K1 (Kohärenz, atemporal, ordnend, operierend durch Coherons) und K0 (Kollaps, Entropie, Zeitpfeil erzeugend, operierend durch Erasonen).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]
+- What it establishes: „Kael begreift, dass AEGIS nicht die Ordnung ist, für die es sich ausgibt, sondern eine monströse K0-Maschine“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144] · „durch ihre verzweifelten Kontrollakte (EntropicMgmt) genau die Hitze und Entropie erzeugt, die alles verbrennt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -126,6 +165,8 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - **First conscious Pursuit.** „A: MC-Solution Pursuit Andeutung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572] (Konzept-Iteration Genesis) · „A:MC-Solution Pursuit-Andeutung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342] (storyform outline) · „Erste bewusste Pursuit-Bewegung. Driver-Anker A: Decision, aktiv hinschauen statt wegsehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline), which says the same of Kap 20: „MC-Solution Pursuit — erste bewusste Bewegung, aktiv neue Wege suchen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L713] (strukturierter Outline).
 - **Who catches the relapse.** „Wächterin/Wir-Stimme fängt Rückfall ab.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L572] (Konzept-Iteration Genesis) · „Das integrierte Selbst (Selene als Wächterin-Funktion) oder die K-J-Verbindung hilft Kael, den Rückfall zu erkennen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline). (Q4)
 - **Title.** „Licht der Wächterin“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L570] (Konzept-Iteration Genesis) · „Z1-Korrektur: Wächterin“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L635] (strukturierter Outline; „Z1-Wächterin“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L993] konsolidiertes Konzept) · „Phaenomena vs. Noumena“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L213] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the second as „(Zyklus-Funktion: Z1-Wächterin)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342] (storyform outline). · „Schlüssel-Szene: Kap 17 — Phaenomena vs. Noumena.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L121] (the philosophy catalogue, as its key scene).
+- **The Hard-SF-Outline.** „Die Dual-Kernel-Theorie“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144] (the Hard-SF-Outline, 2026-04-08) — a new title; the chapter is an explanation at a terminal, „Hier wird die DKT-Physik dargelegt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L144].
+- **The Kohärenz-Protokoll narrative.** Its title, „Funktionale Multiplizität im Test“ ^[kohaerenz-protokoll.md:L1754] (the Kohärenz-Protokoll narrative, 2025-04-27); no Wächterin and no Pursuit — Kael leads a McL team on Projekt KDSI-Gamma-7, and the chapter opens by calling the Beta-Rho-5 crisis already over, ahead of its own Kapitel 18's account of how it was.
 
 ## Questions for this chapter
 

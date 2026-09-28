@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 11
+sources: 18
 pages: ["aegis"]
 ---
 
@@ -116,3 +116,48 @@ What stood before it: „Die Vor-Audit-Spezifikation hatte beide Storyforms inve
 The reason is what AEGIS does: „AEGIS' Tragödie ist umgekehrt: 12 Protokolle, Erasure-Sweeps, Guardian-Deployments — alles *Tun*." ^[dual-storyform-hintergruende-md.md:L210] „Die alte Polung war nicht nur eine Legality-Verletzung, sie war auch dramaturgisch falsch herum." ^[dual-storyform-hintergruende-md.md:L214]
 It ranks itself below the status report it accompanies — „Dieses Dokument \< Status-PDF \< Reset-Doc 2026-04-30 \< Memory-Slots" ^[dual-storyform-hintergruende-md.md:L29] — and says it gives reasons, not values; recorded, not applied.
 The Dramatica lock-in's side, Do-er, on the date the character bible gives Be-er (row 1) — the value this document labels „Vorher" and ❌. An explanation, like the status report's, not a decision: the author decides (decision 006).
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**Do-er for AEGIS in B, Be-er for Kael in A — the lock-in's values, with no slot, no before and no after named.**
+„AEGIS is the "Do-er," defined by logic and autopoiesis." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L42], under „MC-B: AEGIS / Progress (Storyform B)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L40]; „Kael functions as a "Be-er," focusing on internal transformation to resolve systemic conflict." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L28], under „MC-A: Kael / Memory (Storyform A)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L26].
+`Approach`, `Resolve`, `Steadfast`, `Lock-In` and `2026-05-07` stand 0 times; its one `correction` is AEGIS' „high-entropy system correction" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L32], not the Approach's (`05-verify-readers.txt`). Its canon claim, „(Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11] in its title, is recorded, not applied.
+The Dramatica lock-in's side, Do-er (row 2), on the date the character bible gives Be-er (row 1) — without naming the lock-in or the value it replaced. The author decides (decision 006).
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report
+
+**Do-er for AEGIS in B, Be-er for Kael in A — the lock-in's values, in English, with no slot, no before and no after named.**
+Under „MC-B: AEGIS & The Progress of Erasure“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L25]: „In Storyform B, AEGIS is the protagonist—the "Do-er."“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L27], „Located in the Universe domain“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L27]. Under „MC-A: Kael & The Coherence of Memory“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L17]: „In Storyform A, Kael functions as the "Be-er."“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L19]
+`Approach`, `Resolve`, `Steadfast`, `Lock-In` and `2026-05-07` stand 0 times (`05-verify-readers.txt`). Its seeds call themselves „Kanon-Kompatibel“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L21] against a „2026-05-08 Kanon-Block“ ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L90] — recorded, not applied.
+The Dramatica lock-in's side, Do-er (row 2), on the date the character bible gives Be-er (row 1), with Do-er in Universe as the lock-in's rule asks. The author decides (decision 006).
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**Do-er for AEGIS in B, Be-er for Kael in A — in its section headings and again in the text, with no slot named.**
+„Main Character B (MC-B): AEGIS / Universe & Progress“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L29], headed „The Autopoietic "Do-er" and Operational Closure“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L31]: „AEGIS is the "Do-er" protagonist of Storyform B.“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L33] For A, „The "Be-er" Protagonist and the TSDP Engine“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L15]: „In Storyform A, Kael functions as the "Be-er."“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L17]
+`Approach`, `Resolve`, `Steadfast`, `Lock-In` and `2026-05-07` stand 0 times (`05-verify-readers.txt`). Every seed is „KANON-KOMPATIBEL“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L21] against „the 2026-05-08 Kanon“ ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23] — recorded, not applied.
+The Dramatica lock-in's side, Do-er (row 2), in Universe, on the date the character bible gives Be-er (row 1). The author decides (decision 006).
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**No Approach for AEGIS — its one `Be-er` is Kael's in Storyform A; AEGIS drives B by Action, which is its Driver, not its Approach.**
+„Kaels innere Trägheit (Inertia) und sein Be-er Approach in Storyform A kontrastieren scharf mit seiner transformierten, unaufhaltsamen Durchschlagskraft in Storyform B." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L93] For AEGIS, the Driver: „Während der gesamten Storyform B war AEGIS der aktive, diktierende Motor (Action)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L265]
+`Do-er` stands 0 times and `Be-er` once (L93). Its other two `Approach` are storypoint names, not AEGIS' dynamic: the Issue of Storyform B's OS, „Approach vs. Attitude (Die Methodik der Auslöschung)" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L201], and Kael's modules acting in a seed of that OS (L205; `05-verify-readers.txt`). Its verdicts are its own, recorded, not applied.
+On no row for AEGIS, a week before the lock-in of 2026-05-07; Kael's Be-er in A, which both rows give him. The author decides (decision 006).
+
+## 2026-09-27 — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese
+
+**No Approach for AEGIS — its MC Approach row is Kael's in both storyforms, since Kael, not AEGIS, is this document's MC of B.**
+„**Approach: Be-er** — Werk-Beleg: Die primären Konfliktlösungen finden in den „Kernwelten“ […] statt." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L77] for Storyform A; „**Approach: Do-er** — Werk-Beleg: Die Infiltration von AEGIS in Akt 3 und das aktive Setzen der Gödel-Falle sind hochgradig physisch-aktive Handlungen." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L127] for Storyform B — both Kael's, since „**MC (Main Character):** Universe (Situation) — getragen von Kael." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L118] AEGIS holds B's IC slot here (L119), not its MC.
+`Do-er` stands 3 times and `Be-er` 4, all of them Kael's (`Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`). On no row: this document does not give AEGIS the MC-B slot at all, so the Approach this record tracks has no bearer here. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**No Approach for AEGIS either — an earlier run of the same date's Dramatica-Synthese, and the word does not occur in it at all.**
+It gives AEGIS the MC-B slot by test — „Die erste Hypothese verortet AEGIS im Main Character Throughline mit dem Domain Universe" ^[dramatica-storyform-synthese-aegis-analyse.md:L35] — but names no Approach for that slot: `Approach`, `Do-er` and `Be-er` all stand 0 times in it (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`), the same absence as its sibling document `dramatica-storyform-synthese-aegis-analyse-2` (row above), on the same date. On no row: two documents of one date give AEGIS the MC-B slot and neither gives it a Dramatica Approach. The conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**Do-er for AEGIS in B, Be-er for Kael in A — the lock-in's values, in a comparative table and in each storyform's own MC-Quad.**
+„MC Approach | Be-er (Innere Synthese) | Do-er (Externe Löschung) | Ja | "Dance in the Garden" (Kap 13) vs. Die harte Aktivierung von Firewalls und Glitch-Reparaturen." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L193] Storyform A's own MC-Quad gives Kael the same value: „Approach: Be-er — Werk-Beleg: Die zentralen Konfliktlösungen des Romans finden in den psychologischen Innenräumen, den sogenannten „Kernwelten“ (wie Logos-Prime), durch massive Einstellungsänderungen statt." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L80] Storyform B's gives AEGIS the other: „Approach: Do-er — Werk-Beleg: AEGIS agiert proaktiv durch die Exekution harter Quarantäne-Maßnahmen, Löschprotokolle und massive physikalische Restriktionen der Umgebung." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L128]
+`Approach` stands on 3 lines, `Do-er` on 2 and `Be-er` on 5, all giving Kael Be-er and AEGIS Do-er (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`). The Dramatica lock-in's side, Do-er, with AEGIS named the MC of B throughout the document. The author decides (decision 006).

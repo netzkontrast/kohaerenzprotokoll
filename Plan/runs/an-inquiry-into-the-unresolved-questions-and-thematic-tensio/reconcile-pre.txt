@@ -1,0 +1,291 @@
+# reconcile-pre — an-inquiry-into-the-unresolved-questions-and-thematic-tensio
+  wiki: 106 pages, 15 conflicts (index built 2026-09-28)
+  19 surface groups folded to one term first
+  263 candidates, 266 decisions — **205 by lookup, 61 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (2) — already recorded from this document — nothing to do
+  Gödel-Gambit                         goedel-gambit
+  TSDP                                 tsdp
+
+## new_reading (22) — page exists, this document is not on it yet — a reading
+  AEGIS                                aegis
+  Kael                                 kael
+  Das Nichts Rauschen                  nichts-rauschen
+  Lex                                  lex
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Rhys                                 rhys
+  Selene                               selene
+  Oblivion                             oblivion
+  Kernwelten                           kern-welten
+  glitch                               risse
+  Überwelt                             ueberwelt
+  Guardians                            guardians
+  Risse                                risse
+  Alex                                 alex
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  LogOS                                logos
+  Mnemosyne                            mnemosyne
+  Cerberus                             cerberus
+
+## new_term (181) — no page, no near match — a new page
+  An Inquiry into the Unresolved Questions and Thematic Tensions 
+  transcendent entity                  
+  External Level                       
+  Paraiyas                             
+  Prehension                           
+  The Foundation                       
+  processual ground of being           
+  strange attractor                    
+  weak emergence                       
+  basin of attraction                  
+  ontological horizon                  
+  gnostic injection                    
+  episteme                             
+  subtle symmetries                    
+  akusmatischer Harmonie               
+  inefficient beauty                   
+  paraconsistent logic                 
+  Coherence through Negation           
+  minimal information fragment         
+  Principle of Explosion               
+  algorithmic melancholy               
+  zombie system                        
+  integrated information               
+  Φ                                    
+  Zerstückelung                        
+  Origin-Self                          
+  Ursprungs-Ich                        
+  Perturbation from the Void           
+  informational impregnation           
+  mutually exclusive epilogues         
+  contradictory footnotes              
+  Bruchpunkt                           
+  Deus ex Machina                      
+  Concept Paper                        
+  Coherence through Integration        
+  Paradox of Coherence through Estrangement 
+  perverse learning loop               
+  Potential Sea                        
+  existence through negation           
+  autopoietic                          
+  operationally closed                 
+  Discursive Logic                     
+  Maximize Coherence                   
+  Paradox of Misaligned Coherence      
+  Apparently Normal Part               
+  Emotional Part                       
+  Tertiary Structural Dissociation     
+  ISH                                  
+  Praetor                              
+  functional multiplicity              
+  co-front                             
+  Core Worlds                          
+  KW1                                  
+  KW2                                  
+  KW3                                  
+  KW4                                  
+  Relevance Logic                      
+  dialetheic mind                      
+  Editorial & Stylistic Guide          
+  The Coherence Protocol               
+  single source of truth               
+  Coherence Through Exclusion          
+  ex contradictione quodlibet          
+  Causality is Law                     
+  externalized perpetrator introject   
+  ontological act of rebellion         
+  Performative Prose Engine            
+  Algorithmic Horror                   
+  we-perspective                       
+  IIT                                  
+  Phi                                  
+  United Protagonist                   
+  Master Roster                        
+  Host                                 
+  smell of rain                        
+  Coherence Gambit                     
+  Overworld                            
+  Escher                               
+  NP-hard                              
+  archivist                            
+  Dramaturgical Framework              
+  Logline                              
+  External Goal                        
+  Internal Journey                     
+  Kanonisch                            
+  externalized Täterintrojekt          
+  minimal sein                         
+  ontological friction                 
+  All Is Lost                          
+  winter snow and summer flowers       
+  True Coherence Protocol              
+  Definitive Narrative & Conceptual Blueprint 
+  Thematic Pillar                      
+  AI Ethics & Consciousness            
+  Primordial Duality                   
+  Das Fundament                        
+  informational void                   
+  pressure on the ears without sound   
+  sub-protocol connection              
+  Structural Blind Spot                
+  Catalyst for Healing                 
+  synesthetic resonance                
+  Ich                                  
+  Erste Kontakte                       
+  consistency operator                 
+  11-alter model                       
+  Fight-Reaktion                       
+  Collapse-Reaktion                    
+  Control Plane                        
+  The Garden of Possibilities          
+  choric we                            
+  the Abyss                            
+  Widersprüchliche Fußnoten            
+  Archivar                             
+  From Archetype to Architecture       
+  Engineering Mass Appeal              
+  winziges Ich                         
+  positive intent                      
+  The Garden of Potential              
+  Rifts                                
+  facade                               
+  integrator                           
+  Anscheinend Normaler Anteil          
+  Emotionale Anteile                   
+  phobic barriers                      
+  trauma-time                          
+  initial viewpoint character          
+  fragile truce                        
+  preventive attacks                   
+  A Tale of Two Coherences             
+  rhizomatic self                      
+  epistemological checkmate            
+  shimmering portals                   
+  Dialetheical                         
+  Dialectic of Coherence               
+  fractal architecture                 
+  character-as-system                  
+  IFS                                  
+  The Logician ANP                     
+  The Protector/Aggressor EP           
+  Persecutor                           
+  The Relational ANP                   
+  The Child EP                         
+  relevance criteria                   
+  Possibility Garden                   
+  gentle explosion                     
+  ergodic literature                   
+  Comparative Psychological Case Study 
+  dossier                              
+  Day Shift                            
+  Emergency Responders                 
+  society of individuals               
+  co-consciousness                     
+  System Responsibility                
+  tree identity                        
+  ontological blindness                
+  ontological weapon                   
+  librarian                            
+  quantum book                         
+  Psychological Assessment             
+  Case Number                          
+  734-K-1123                           
+  A World Bible                        
+  anomale Resonanz                     
+  iatrogenic trauma                    
+  Anteil Name                          
+  Primärer ANP                         
+  Sekundärer ANP                       
+  Flucht                               
+  Kampf                                
+  Kern-Phobie                          
+  Gaslighting                          
+  Force of Integration                 
+  Stabilization                        
+  Trauma Processing                    
+  An Architecture of the Self          
+  vereinigter Protagonist              
+  canonical ensemble                   
+  master blueprint                     
+  The Nothingness Roar                 
+  Whitehead                            
+
+## needs_judgement (61) — NEAR a known surface — one term or two?
+  AEGIS  /  AEGIS is what AEGIS prevents itself from not being near: each other
+  AEGIS  /  System AEGIS                       near: each other
+  gnosis  /  Prognosis                         near: each other
+  The Gardener  /  gardener                    near: each other
+  Popper's Paradox of Tolerance  /  Popper     near: each other
+  Gödel-Gambit  /  Gödel                       near: each other
+  Kael  /  System Kael                         near: each other
+  Kael  /  Kael-Paradox                        near: each other
+  Kael  /  Strukturelle Dissoziation: System Kael Analyse near: each other
+  found footage  /  Found Footage Epilogue     near: each other
+  Nothingness Noise  /  The Nothingness Noise  near: each other
+  System Kael  /  Strukturelle Dissoziation: System Kael Analyse near: each other
+  ontological exploit  /  Alex                 near: each other
+  living Gödel-Satz  /  Gödel-Satz             near: each other
+  living Gödel-Satz  /  Gödel                  near: each other
+  Mnemosyne-Archipel  /  Mnemosyne Archipelago near: each other
+  Mnemosyne-Archipel  /  Mnemosyne             near: each other
+  Cerberus-Labyrinth  /  Cerberus              near: each other
+  polyphonic  /  polyphonic we                 near: each other
+  Mnemosyne Archipelago  /  Mnemosyne          near: each other
+  active neutralization  /  neutralization     near: each other
+  living Gödel sentence  /  Gödel              near: each other
+  logical explosion  /  Alex                   near: each other
+  Society of Alters  /  Canonical Society of Alters near: each other
+  Resonance Landscape  /  The Resonance Landscape near: each other
+  Boundary Fortress  /  The Boundary Fortress  near: each other
+  Überwelt  /  Digital Überwelt                near: each other
+  Gödel-Satz  /  Gödel                         near: each other
+  Alex  /  Psychological Exposé                near: each other
+  The Construct City  /  Construct City        near: each other
+  The Gärtner  /  Gärtner                      near: each other
+  EP Intrusion  /  EP intrusions               near: each other
+  Coherent  /  Incoherent                      near: each other
+  Romanideen zu Roman entwickeln  /  Romanideen near: each other
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Juna/V                                       near: juna→juna
+  Genesis Crisis                               near: genesis→genesis
+  AEGIS is what AEGIS prevents itself from not being near: aegis→aegis
+  phobias between alters                       near: alters→alters
+  System Kael                                  near: kael→kael
+  ontological exploit                          near: alex→alex
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  Cerberus-Labyrinth                           near: cerberus→cerberus
+  Kairos-Potentialis                           near: kairos→kairos
+  Mnemosyne Archipelago                        near: mnemosyne→mnemosyne
+  logical explosion                            near: alex→alex
+  Society of Alters                            near: alters→alters
+  Negentropie-Fehlinterpretation               near: entropie→entropie, negentropie→negentropie
+  Kael-Paradox                                 near: kael→kael
+  Canonical Society of Alters                  near: alters→alters
+  Digital Überwelt                             near: uberwelt→ueberwelt
+  Psychological Exposé                         near: alex→alex
+  System AEGIS                                 near: aegis→aegis
+  Autonomous Entropic Gatekeeper for Integrity Systems near: entropicgatekeeper→aegis
+  Kernwelt 1                                   near: kernwelt→kern-welten
+  Kairos/Sophia                                near: kairos→kairos, sophia→sophia
+  Strukturelle Dissoziation: System Kael Analyse near: kael→kael
+  Kohärenz-Validierung                         near: koharenz→kohaerenz
+  erzwungenen Kohärenz-Partitionierung         near: koharenz→kohaerenz
+  Kollaps                                      near: kollapskernel→kollaps-kernel, kollapskernelk0→kollaps-kernel
+  Gödel                                        near: godelgambit→goedel-gambit
+
+## in_document_not_in_census (7) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Alters                               alters                       L251
+  DID                                  did                          L1594
+  Genesis                              genesis                      L71
+  Juna                                 juna                         L19
+  Kairos                               kairos                       L1246
+  Kohärenz                             kohaerenz                    L11
+  Sophia                               sophia                       L1246
+

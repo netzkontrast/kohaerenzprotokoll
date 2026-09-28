@@ -1,0 +1,14 @@
+# ki-prompt-analyse-hard-problem-of-consciousness
+  lines                438  (frontmatter ends at 9)
+  body words           7792
+  headings             38   bold-only lines 11
+  table rows           66   code fences 0
+  question marks       13
+  backslash escapes    261
+  typographic marks    153   ascii quotes 40
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    53
+  repeated labels      none
+  longest line         1521 chars
+

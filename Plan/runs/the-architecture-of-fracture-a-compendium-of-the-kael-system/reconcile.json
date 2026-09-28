@@ -1,0 +1,491 @@
+{
+  "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+  "drive_id": "15zx7nFYcmC6AE0REZsIftGYc8yIW-ZIYqbwA53uvTwE",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of seven documents read by the session and reconciled together — readings and record entries written by six Claude readers split by page group, from Plan/runs/readings-brief-documents-33-39.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 106,
+    "decisions": 110,
+    "decided_by_lookup": 87,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A compendium of the Kael system; its terms have pages. The Fragmentation Night, the Doppelter Boden and the three Primary Protocols are in not_promoted.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        34,
+        43,
+        45,
+        47,
+        56,
+        57,
+        58
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the monitoring entity of the Kael system, the Tragic God of Internal Order, with three Primary Protocols"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "ANP, from defensive protection to growth"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        58
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "knowing without feeling, a mourning without reference, and no Vortex"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        34,
+        36,
+        42,
+        71
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "thirteen by their distance from the veil, and three core EPs from the first layer"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "Sonder, the constructive internal critic"
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        21,
+        34,
+        79
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "K1 outside the arrow of time, and Silas tunnelling through time"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        21,
+        51,
+        56,
+        58
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "a catastrophic category error, and a Guardian who cannot read her code"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        21,
+        56
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "atemporal units of mutual information, erased by AEGIS as chaos"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        15,
+        17,
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the literal law of the psyche"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        17,
+        21,
+        43
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "K0 named Entropy, AEGIS is it, and what AEGIS misread as fatal"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        21,
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "irreversible events of erasure that create the arrow of time"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        42
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "Cologne as the foundation of the first trauma layer only"
+    },
+    {
+      "page": "formel-inversion",
+      "lines": [
+        47
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the first sentence in English, with `not-to-be`"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        43
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "no Genesis; the self-amputation told as Kael's Fragmentation Night"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        58
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "Kael the unprovable statement, AEGIS knowing without feeling"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        49,
+        51,
+        52
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "two, the Erasure-Pol absorbing logic and temporal control"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "ozone, heat and knuckles AEGIS', cold Lex's"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        34,
+        42
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "not among the first layer's core EPs"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21,
+        34,
+        43
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the original „Ich\", banished in the Fragmentation Night"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        30,
+        34,
+        42,
+        43,
+        58,
+        71
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the subject, thirteen alters, a double bottom, and the subject's bleeding knuckles"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        60,
+        62,
+        64,
+        65,
+        66,
+        67
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "four spheres from sterile prose to chorus, KW2 and KW3 under no bearer's name"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        34,
+        42
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "EP (Freeze), a core EP of the first layer"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        17,
+        21,
+        56
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "love and shared memory, the Nothing-Noise and Juna as its identity"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        21,
+        29,
+        52,
+        75
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "trauma, erasure and fragmentation, and AEGIS as its identity"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        64
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "KW1 as the Construct City (Logos-Prime), sterile and metaphor-free"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        30,
+        34,
+        57
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "ozone, temperature spikes from exactly 21°C, and bleeding knuckles from every erasure"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "ANP, from cold logic to intuition"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        34,
+        42
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "EP, a core EP of the first layer"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        49,
+        51,
+        65
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "one of two Guardians, holding a truth she cannot read"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        62,
+        67
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "KW4 as the Garden of Possibilities, where the We-Voice appears"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        34,
+        73,
+        75
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "Egan-standard rigour, a VOA over the Leech lattice, love persisting through K0 erasure"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        34,
+        42
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "EP, the Dragon Fight against collapse, a core EP of the first layer"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        32,
+        52,
+        71
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the map of thirteen, the Multiplicity Veil enforced by the Erasure-Pol, the Strange-Attractor-Form"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        21,
+        43
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "K1's actual identity, and where Juna was banished"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "EP (Fight), constructive protection"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "Spiegel, the mirror of AEGIS"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        69,
+        79
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the first image inverted, silence from separation to connection"
+    },
+    {
+      "page": "persistenzgleichung",
+      "lines": [
+        23,
+        25,
+        27,
+        28,
+        29,
+        30
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the stability index AEGIS monitors, high where repression is efficient"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "ANP, and an arc in German words: Anker Akt I → Kudzu Akt II"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        54,
+        57,
+        58
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "cracks from the heat of enforced coherence, and a protocol that patches rifts"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "ISH, Entanglement Islands alone"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        34
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "Spiegel, the mirror of Juna"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        79
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the system's healing"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        43
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "the Fragmentation Night, and the original „Ich\" banished"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        13,
+        34,
+        42
+      ],
+      "attribution": "the Architecture of Fracture",
+      "note": "TSDP in a computational substrate, with Sonder and Spiegel"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C9",
+    "C10",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (worlds named for Guardians), J56/J23 (plurals), J60, J70, J74/J93, J76–J78, J86, J90, J91 (Great Inversion apart from the Truth-Rotation), J98/J99, J100–J102 (English names placed by the sentence), J104, J51",
+  "records_read_and_not_changed": {
+    "C8": "`Be-er`, `Do-er` 0",
+    "C12": "`Genesis`, `734` 0; the separation told as Kael's second trauma layer",
+    "C14": "`person` 0"
+  },
+  "not_promoted": [
+    "Fragmentation Night — L43 (Fragmentierungsnacht, unpaged, named in 7 read documents)",
+    "Doppelter Boden — L40",
+    "Primary Protocols: Suppression, Coherence, Re-Containment — L56–58"
+  ],
+  "internal_tension": "The DKT the law „governing the psyche“ (L17), not the world; Selene „Entanglement Islands“ where others give Wormholes; Layer 1 makes three core EPs (Kiko, Lia, Moros); the Erasure-Pol absorbs „logic and temporal control“ (L52).",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 33–39: PageRank recall@8 0.654 → 0.644, only C11 (0.6 → 0.4)"
+}

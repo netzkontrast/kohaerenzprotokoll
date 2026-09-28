@@ -1,0 +1,48 @@
+dkt: grep -cw -e 'DKT' -e 'Dual-Kernel' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> DKT 1, Dual-Kernel 1
+kollaps-kernel: grep -cw -e 'K0' -e 'Collapse Kernel' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> K0 1, Collapse Kernel 0
+persistenzgleichung (not read): grep -cw -e 'Persistence' -e 'Persistence Equation' -e 'Eta' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Persistence 0, Persistence Equation 0, Eta 0
+goedel-gambit: grep -cw -e 'Vortex' -e 'Chapter'  Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Vortex 0, Chapter 0
+alters: grep -cw (each alone) Lex Alex Rhys Selene Nyx Kiko Lia Isabelle Moros Argus Silas Oblivion Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> Lex 0, Alex 0, Rhys 0, Selene 0, Nyx 0, Kiko 0, Lia 0, Isabelle 0, Moros 0, Argus 0, Silas 0, Oblivion 0
+q3: grep -cw (each alone) Kernwelt KW1 KW2 KW3 KW4 Lex Alex Rhys Selene Nyx Kiko Lia Isabelle Moros Argus Silas Oblivion Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> Kernwelt 0, KW1 0, KW2 0, KW3 0, KW4 0, Lex 0, Alex 0, Rhys 0, Selene 0, Nyx 0, Kiko 0, Lia 0, Isabelle 0, Moros 0, Argus 0, Silas 0, Oblivion 0
+ouroboros-struktur: grep -cw -e 'Ouroboros' -e 'Chapter'  Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Ouroboros 2, Chapter 0
+vermittler-stimme (not read): grep -cw -e 'Vermittler' -e 'narrator' -e 'Vorwort' -e 'Prologue' -e 'Kap' -e 'Chapter' -e 'Wir-Stimme' -e 'We-Voice'  Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Vermittler 0, narrator 0, Vorwort 0, Prologue 0, Kap 0, Chapter 0, Wir-Stimme 0, We-Voice 0
+sophia: grep -cw 'Sophia' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+atemporalitaet: grep -cw -e 'Juna' -e 'Silas' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Juna 1, Silas 0
+aegis: grep -ciw person -> 0; grep -cw POV -> 0; grep -c Log -> 0
+formel-inversion: grep -c Wir-AEGIS -> 0; grep -cw preserves -> 0
+algorithmische-melancholie: grep -c Vortex -> 0
+aegis-teilfunktionen: grep -ci zero-trust -> 0; grep -ci firewall -> 0; grep -ci 'integrity guardian' -> 0; grep -cw SIS -> 0
+blinder-fleck: grep -ciw blind -> 0
+thermodynamischer-phaenomenalismus: grep -ci 'Phänomenalismus' -> 0; grep -ci 'Phenomenalism' -> 0; grep -ciw qualia -> 0; grep -ci 'explanatory gap' -> 0
+c1-aegis-expansion: grep -c Autogenic -> 0; grep -c 'Generative Integrity' -> 0
+c3-emergenz-origin: grep -ci emergen -> 0
+c14-aegis-first-person-chapter: grep -ciw person -> 0; grep -cw POV -> 0; grep -cw prose -> 0; grep -ci 'log.format\|log protocol\|log-template' -> 0
+c4: grep -cw 'blind' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+kael: grep -cw 'Kap' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+kael: grep -cw 'Ch' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+kael: grep -cw 'Chapter' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+genesis: grep -cw 'Beat' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+genesis: grep -cw 'Separation' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 1
+genesis: grep -cw '734' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+trennungsprotokoll: grep -cw 'Separation Protocol' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+trennungsprotokoll: grep -cw 'Trennungsprotokoll' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+komponente-734: grep -cw '734' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+did: grep -cw 'DID' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+did: grep -cw 'DIS' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+cache-kohaerenz: grep -ciw 'Cache' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+c7-juna-first-appearance: grep -cw 'Kap' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+c7-juna-first-appearance: grep -cw 'Juna' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 1
+c10-knuckles-in-kap-1: grep -cw 'knuckles' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 1
+c10-knuckles-in-kap-1: grep -cw 'Kap' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+c10-knuckles-in-kap-1: grep -cw 'Ch' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+c10-knuckles-in-kap-1: grep -cw 'Chapter' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+c12-genesis-beats: grep -cw 'Beat' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+c12-genesis-beats: grep -cw '734' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md -> 0
+kap-35, kap-36, kap-01, kap-39 (not read): grep -cw -e 'Vortex' -e 'Chapter' -e 'Kap' -e 'Ch'  Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Vortex 0, Chapter 0, Kap 0, Ch 0
+c8 (not changed): grep -cw -e 'Do-er' -e 'Be-er' -e 'Approach' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Do-er 0, Be-er 0, Approach 0
+plot.md (not read): grep -cw -e '39' -e 'Kap' -e 'Chapter' -e 'Act' -e 'Akt' -e 'Storyform' -e 'Vortex' -e 'Heldinnenreise' -e 'Hero's Journey' -e 'Ch'  Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> 39 0, Kap 0, Chapter 0, Act 0, Akt 0, Storyform 0, Vortex 0, Heldinnenreise 0, Hero's Journey 0, Ch 0
+landauer-signatur, hitze-polaritaetsregel, c11: grep -cw -e 'Landauer-Signatur' -e 'warm' -e 'warmth' -e 'Wärme' -e 'cold' -e 'Cold' -e 'coldness' -e 'Kälte' -e 'kalt' -e 'heat' -e 'ozone' -e 'Ozon' -e 'polarity' -e 'Polarität' -e 'Kap' -e 'Kap 6' -e 'Kap 36' -e 'Juna' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Landauer-Signatur 0, warm 0, warmth 0, Wärme 0, cold 0, Cold 0, coldness 0, Kälte 0, kalt 0, heat 3, ozone 2, Ozon 0, polarity 0, Polarität 0, Kap 0, Kap 6 0, Kap 36 0, Juna 1
+truth-rotation: grep -cw -e 'Truth-Rotation' -e 'Great Inversion' -e 'Vortex' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Truth-Rotation 1, Great Inversion 2, Vortex 0
+truth-rotation: grep Kael Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md | grep -cE 'Kael (is|=|as) (the )?K1' -> 0 (no line writes Kael as K1)
+moonshine-link (not read, J71: the mathematics, not the link): grep -cw -e 'Moonshine' -e 'Moonshine-Link' -e 'link' -e 'Link' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Moonshine 1, Moonshine-Link 0, link 0, Link 0
+risse: grep -cw -e 'Riss' -e 'Risse' -e 'Cracks' -e 'glitches' -e 'Flight' Sources/drive/the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md (each alone) -> Riss 0, Risse 0, Cracks 1, glitches 1, Flight 0

@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,24 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Im Auge des Sturms erzielt Kael, lex-dominant, einen falschen Erfolg, eine trügerische Stabilität auf nicht integrierter Basis, spiegelglatt und sensorisch flach: laut Plot-Konkretisierung die Beförderung in die Bestandspflege, gefährlichere Arbeit als Auszeichnung verpackt, in der er zum ersten Mal das Gewicht eines Datensatzes spürt, bevor er klickt, laut Konzept-Iteration Genesis ein analytischer Erfolg in der McLaughlin-Welt, laut strukturierter Outline ein Erfolg im Übergang von KW1 zum KW2-Rand, mit ersten Schatten von Rhys als Wärme, die Kael nicht versteht. Kapitel-Kompendium und Kernwelten vollständig lassen es in KW1 spielen, diese in justierter Pseudo-Stabilität; laut AEGIS-Subplots trifft Kael in einem simulierten Café eine Wahl, dessen Lichter sich zu perfekt an seinen Blick anpassen, und fühlt sich antizipiert oder verwaltet. In der Heldinnenreise ist es das Auge des Sturms, der falsche Erfolg, laut strukturierter Outline in der Ki-Vertiefung von Akt I, und laut Konzept-Iteration Genesis wiederholt die Bestätigung der Isolationsstrategie den Algorithmus des großen Wandels. Storyform A trägt das MC-Concern Memory, laut strukturierter Outline die Stabilität als Erinnerungs-Substitut; Storyform B ist laut Konzept-Iteration Genesis, konsolidiertem Konzept und Drei-Modi-Spezifikation latent, laut Kernwelten vollständig ist das Kapitel Kandidat für das Hard-B-Kapitel mit AEGIS-Innensicht, in dessen Fenster es laut Plot-Konkretisierung liegt. Die Storyform-Outline verlangt, das Kapitel zu verdichten.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Risse im Code“ ^[monstergruppe-primzahlen-plot-blueprint.md:L67]
+
+- Establishes: „verursachen sie weitere kleine Risse und Inkonsistenzen in der Kernwelt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L70]
+- M-manifestation: „Die Risse sind weitere Manifestationen der M-Basis, die durch AEGIS' grobe Eingriffe provoziert werden“ ^[monstergruppe-primzahlen-plot-blueprint.md:L71]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — Omega-Prime, and a false success
+
+Title: „Das Auge des Netzwerks“ ^[kohaerenz-protokoll.md:L524]
+Position: „(Fundamentales Konzept: Kernwelten als Simulationen)“ ^[kohaerenz-protokoll.md:L526] · „(Heldinnenreise Stufe 5: Das Auge des Sturms (Falscher Erfolg))“ ^[kohaerenz-protokoll.md:L528]
+
+- Transfer: „ZIEL: KERNWELT MCL-SIGMA-3 (SEKTOR RELATIONALER DYNAMIK)“ ^[kohaerenz-protokoll.md:L546]
+- Sensorik: „Eine Annäherung an einen hell leuchtenden Knotenpunkt brachte einen Hauch von… Ozon und warmer Elektrizität?“ ^[kohaerenz-protokoll.md:L562] — warmth and ozone together, at a bright McL node.
+- The false success, named: „Die Illusion des Erfolgs war verlockend, aber die Saat des Zweifels war gesät.“ ^[kohaerenz-protokoll.md:L653]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -31,6 +49,26 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „trifft eine Wahl in einem simulierten Café“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81] · „Lichter passen sich zu perfekt an Kaels Blick an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Story: „Kael könnte ein vages Gefühl haben, antizipiert oder verwaltet zu werden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Discussion: „Die Umgebung selbst wird Teil des Kontroll- und Überwachungsapparates“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L82]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Das Halteproblem und das Nichts-Rauschen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L63]
+
+- Establishes: „Das „Nichts-Rauschen“ ist der Versuch von AEGIS, diesen Fehler mit immenser thermodynamischer Energie zu überdecken“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L63]
+- Reader's view: „platzenden Kapillaren in Kaels Auge“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L63]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — a system fault in KW1, and memories of a child's room
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Der Riss im Fundament“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Where: „Während einer Routineerkundung manifestiert sich ein schwerer Systemfehler in einem isolierten Sektor von KW1.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104]
+- Story: „Kael und Lex entdecken Datenströme, die Fragmente menschlicher Erinnerungen – verschwommene Bilder eines Kinderzimmers – enthalten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104] · „Diese Entdeckung erschüttert die Prämisse einer außerirdischen Simulation.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104]
+- Who: „doch Kael spürt eine tiefe, unerklärliche Resonanz, die Lex nicht quantifizieren kann“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -116,9 +154,11 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 
 ## Where the sources differ
 
+- **Title, world (D47).** „Das Auge des Netzwerks“ ^[kohaerenz-protokoll.md:L524] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fourth title, and a fifth world for the chapter: „ZIEL: KERNWELT MCL-SIGMA-3 (SEKTOR RELATIONALER DYNAMIK)“ ^[kohaerenz-protokoll.md:L546], not KW1; warmth and ozone stand together at a bright node here, not apart (C11).
 - **World.** „Kael/Lex erzielen analytischen Erfolg in McLaughlin-Welt. Trügerische Stabilität.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L524] (Konzept-Iteration Genesis) · „Kael erzielt einen Erfolg in einer anderen Kernwelt (Übergang KW1 → KW2-Rand).“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L353] (strukturierter Outline) · „Auge des Sturms (falscher Erfolg) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L194] (Kapitel-Kompendium) · „KW1 (justierte Pseudo-Stabilität)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831] (Kernwelten vollständig).
 - **Hard-B.** „A: MC-Concern Memory. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L970] (konsolidiertes Konzept) · „A dominant, B latent; Slot-16-Kandidat für Hard-B-Kapitel“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831] (Kernwelten vollständig) — B latent, or a candidate for the Hard-B chapter; the Kernwelten line says both. (C14)
 - **Title.** „Der Glanz der Oberfläche“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L522] (Konzept-Iteration Genesis) · „Auge des Sturms“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L969] (konsolidiertes Konzept; also strukturierter Outline, Kapitel-Kompendium, storyform outline) — the Konzept-Iteration gives it as the stage „HR-Stufe 5: Auge des Sturms“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L522].
+- **The Hard-SF-Outline.** „Der Riss im Fundament“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104] (the Hard-SF-Outline, 2026-04-08) — a new title, in KW1, „in einem isolierten Sektor von KW1“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104], with the Kapitel-Kompendium and Kernwelten vollständig; the chapter is a discovery, „Kael und Lex entdecken Datenströme, die Fragmente menschlicher Erinnerungen – verschwommene Bilder eines Kinderzimmers – enthalten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L104]
 
 ## Questions for this chapter
 

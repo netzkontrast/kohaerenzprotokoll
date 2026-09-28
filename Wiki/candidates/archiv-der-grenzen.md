@@ -1,10 +1,10 @@
 ---
 term: Archiv der Grenzen
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "roman-konzept-dualitaet-kohaerenz-spannung"]
 gathered: "2026-09-24"
 ---
 
@@ -33,3 +33,11 @@ A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-ko
 
 A KW2 sub-location: „Das Archiv der Grenzen" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] — „eine zerfallende Bibliothek mit unendlichen Regalen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532]
 „Ort, an dem Kael die technischen Dossiers von AEGIS findet (Ch14)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] KW2's act begins there: „KW2 dominiert mittlere Akt II (Ch14–22)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L539]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the exact chapter title, and the oldest read source to give it
+
+**The earliest read source to name Kapitel 14 for this place, word for word.** „Kapitel 14: Das Archiv der Grenzen (Mnemosyne)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85] Kael wakes into the world holding it and enters it despite Limina's block: „Kael erwacht in der Resonanz-Landschaft (Kernwelt 2), einer nebligen, nicht-linearen Traumwelt, überwacht vom Guardian Mnemosyne." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85] „Der innere Gatekeeper Limina blockiert den direkten Zugriff, doch Kael dringt in ein verfallenes Archiv ein." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+
+What he finds there is memory rendered as matter, not AEGIS' dossiers: „Wissenschaftlich wird hier die epigenetische Plastizität visualisiert: Erinnerungen sind keine starren DNA-Codes, sondern formbare, dynamische Prozesse." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85] „Im DKT-Modus greift Kael nach physischen Aktenordnern, die bei der Berührung wie warmes Blut durch seine Finger rinnen (K0)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85] — warmth at the archive, where the 2026 sources' dossiers carry none (C11).
+
+The 2026 sources give this chapter's title to a place inside KW2; this document gives the same title to Kael's *entry into* KW2 itself, without separating a named room from the world's threshold.

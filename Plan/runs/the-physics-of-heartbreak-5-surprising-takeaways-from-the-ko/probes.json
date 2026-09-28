@@ -1,0 +1,65 @@
+{
+  "document": "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko",
+  "drive_id": "1ZF3KrpuzyVLy6hg2AcjvrxQc-do08Ea3BDQxbqig6HY",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 2,
+  "typographic_marks": 15,
+  "ascii_quotes": 62,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "appar": [
+      "Apparat",
+      "Apparently"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "integ": [
+      "Integration",
+      "Integrity"
+    ],
+    "monst": [
+      "Monster",
+      "Monstrous"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "therm": [
+      "Thermal",
+      "Thermodynamics"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Coheron",
+      "Coherons"
+    ],
+    [
+      "Function",
+      "Functional"
+    ]
+  ]
+}

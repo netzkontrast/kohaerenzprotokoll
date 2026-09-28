@@ -1,0 +1,63 @@
+dkt: grep -cw -e 'DKT' -e 'Dual-Kernel' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> DKT 0, Dual-Kernel 0
+coheron (not read): grep -cw -e 'Coheron' -e 'Coherons' -e 'Coheronen' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Coheron 0, Coherons 0, Coheronen 0
+vortex: grep -cw -e 'Chapter' -e 'Vortex 1' -e 'Vortex 2' -e 'Beat' -e 'beats' -e 'Rotation' -e 'Driver' -e 'Genesis'  Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Chapter 0, Vortex 1 0, Vortex 2 0, Beat 0, beats 0, Rotation 0, Driver 0, Genesis 0
+erason (not read): grep -cw -e 'Erason' -e 'Erasons' -e 'Erasonen' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Erason 0, Erasons 0, Erasonen 0
+persistenzgleichung (not read): grep -cw -e 'Persistence' -e 'Persistence Equation' -e 'Eta' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Persistence 0, Persistence Equation 0, Eta 0
+goedel-gambit: grep -cw -e 'Gödel-Gambit' -e 'Gödel'  Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Gödel-Gambit 1, Gödel 1
+nichts-rauschen (not read): grep -cw -e 'Noise' -e 'noise' -e 'Nothing-Noise' -e 'Nichts-Rauschen' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Noise 0, noise 1, Nothing-Noise 0, Nichts-Rauschen 0
+alters: grep -cw (each alone) Lex Alex Rhys Selene Nyx Kiko Moros Flight thirteen Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> Lex 0, Alex 0, Rhys 0, Selene 0, Nyx 0, Kiko 0, Moros 0, Flight 0, thirteen 0
+lia: grep -cw (each alone) Lia Flight Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> Lia 2, Flight 0
+isabelle: grep -cw (each alone) Isabelle Flight Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> Isabelle 2, Flight 0
+argus: grep -cw (each alone) Argus Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> Argus 2
+silas: grep -cw (each alone) Silas Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> Silas 2
+oblivion: grep -cw (each alone) Oblivion Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> Oblivion 1
+q3: grep -cw (each alone) Kernwelt Kernwelten KW1 KW2 KW3 KW4 Core World Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> Kernwelt 0, Kernwelten 0, KW1 0, KW2 0, KW3 0, KW4 0, Core World 0
+ouroboros-struktur (not read): grep -cw -e 'Ouroboros'  Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Ouroboros 0
+vermittler-stimme (not read): grep -cw -e 'Vermittler' -e 'narrator' -e 'Vorwort' -e 'Prologue' -e 'Kap' -e 'Chapter' -e 'Wir-Stimme' -e 'We-Voice'  Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Vermittler 0, narrator 0, Vorwort 0, Prologue 0, Kap 0, Chapter 0, Wir-Stimme 0, We-Voice 0
+sophia: grep -cw 'Sophia' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+atemporalitaet: grep -cw -e 'atemporal' -e 'Atemporal' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> atemporal 2, Atemporal 0
+aegis: grep -cw Autonomous -> 0; grep -c Genesis -> 0; grep -ciw person -> 0; grep -cw POV -> 0; grep -cw Approach -> 0
+formel-inversion: grep -cw prevents -> 0
+algorithmische-melancholie: grep -c Reliqu -> 0
+aegis-teilfunktionen: grep -ci zero-trust -> 0; grep -ci firewall -> 0; grep -ci 'integrity guardian' -> 0; grep -cw SIS -> 0
+blinder-fleck: grep -ci blind -> 0; grep -ciw 'cannot' -> 0
+thermodynamischer-phaenomenalismus: grep -ci 'Phänomenalismus' -> 0; grep -ci 'Phenomenalism' -> 0
+c1-aegis-expansion: grep -cw Autonomous -> 0; grep -c Autogenic -> 0; grep -c 'Generative Integrity' -> 0
+c3-emergenz-origin: grep -c Genesis -> 0; grep -ci emergen -> 0; grep -ciw origin -> 0
+c14-aegis-first-person-chapter: grep -ciw person -> 0; grep -cw POV -> 0; grep -cw prose -> 1
+c4: grep -cw 'blind' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+kael: grep -cw 'knuckles' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+juna: grep -cw 'Kap' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+juna: grep -cw 'Ch' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+genesis: grep -cw 'Genesis' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+trennungsprotokoll: grep -cw 'Genesis' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+trennungsprotokoll: grep -cw 'Trennungsprotokoll' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 5
+komponente-734: grep -cw '734' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+multiplizitaet: grep -cw 'Multiplizität' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+multiplizitaet: grep -cw 'Fusion' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+tsdp: grep -cw 'ANP' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+tsdp: grep -cw 'EP' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+did: grep -cw 'DID' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+did: grep -cw 'DIS' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+telefon-stille: grep -ciw 'twenty' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+telefon-stille: grep -cw 'Kap' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+cache-kohaerenz: grep -ciw 'Cache' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+c7-juna-first-appearance: grep -cw 'Kap' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+c7-juna-first-appearance: grep -cw 'Ch' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+c10-knuckles-in-kap-1: grep -cw 'knuckles' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+entropie: grep -cw -e 'entropy' -e 'Entropy' -e 'entropic' -e 'Entropie' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> entropy 1, Entropy 1, entropic 0, Entropie 0
+kap-35, kap-36: grep -cw -e 'Chapter' -e 'Beat' -e 'Kap'  Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Chapter 0, Beat 0, Kap 0
+c8: grep -cw -e 'Approach' -e 'Resolve' -e 'Steadfast' -e 'Lock-In' -e '2026-05-07' -e 'Do-er' -e 'Be-er' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Approach 0, Resolve 0, Steadfast 0, Lock-In 0, 2026-05-07 0, Do-er 1, Be-er 1
+q2: grep -cw 'ANI' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+q2: grep -cw 'ARS' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+q2: grep -cw 'ECR' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+q2: grep -cw 'PMS' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+q2: grep -cw 'RSA' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+q2: grep -cw 'SNK' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+q2: grep -cw 'ZTV' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+q2: grep -cw 'Nullpunkt' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+q2: grep -cw '12' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md -> 0
+plot.md: grep -cw -e '39' -e 'Kap' -e 'Chapter' -e 'Act' -e 'Akt' -e 'Storyform' -e 'Driver' -e 'Heldinnenreise' -e 'Hero's Journey' -e 'Kishōtenketsu' -e 'Vortex' -e 'Vortex 1' -e 'Vortex 2' -e 'Beat' -e 'Ch' -e 'Chapter 0' -e 'Chapter 40' -e 'Ch. 0' -e 'Ch. 40'  Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> 39 0, Kap 0, Chapter 0, Act 0, Akt 0, Storyform 17, Driver 0, Heldinnenreise 0, Hero's Journey 0, Kishōtenketsu 0, Vortex 3, Vortex 1 0, Vortex 2 0, Beat 0, Ch 0, Chapter 0 0, Chapter 40 0, Ch. 0 0, Ch. 40 0
+landauer-signatur, hitze-polaritaetsregel, c11: grep -cw -e 'Landauer-Signatur' -e 'warm' -e 'warmth' -e 'Wärme' -e 'cold' -e 'Cold' -e 'coldness' -e 'Kälte' -e 'kalt' -e 'heat' -e 'ozone' -e 'Ozon' -e 'polarity' -e 'Polarität' -e 'Kap' -e 'Kap 6' -e 'Kap 36' -e 'Juna' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Landauer-Signatur 0, warm 0, warmth 0, Wärme 3, cold 1, Cold 0, coldness 0, Kälte 0, kalt 0, heat 4, ozone 2, Ozon 0, polarity 0, Polarität 0, Kap 0, Kap 6 0, Kap 36 0, Juna 3
+truth-rotation (not read): grep -cw -e 'Truth-Rotation' -e 'Truth Rotates' -e 'Rotation' -e 'rotation' -e 'Great Inversion' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Truth-Rotation 0, Truth Rotates 0, Rotation 0, rotation 0, Great Inversion 0
+risse: grep -cw -e 'Riss' -e 'Risse' -e 'RIFT' -e 'rift' -e 'crack' -e 'glitch' Sources/drive/mining-report-kohaerenz-protokoll-plot-outline-construction.md (each alone) -> Riss 0, Risse 0, RIFT 1, rift 0, crack 1, glitch 1

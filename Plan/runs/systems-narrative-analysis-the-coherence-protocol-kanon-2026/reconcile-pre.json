@@ -1,0 +1,572 @@
+{
+  "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+  "step": "reconcile-pre",
+  "at": "2026-09-27",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-27",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 122,
+  "decisions": 121,
+  "same_surface": {
+    "ozone": [
+      "Ozone",
+      "ozone"
+    ],
+    "autopoiesis": [
+      "autopoiesis",
+      "Autopoiesis"
+    ]
+  },
+  "decided_mechanically": 94,
+  "needs_judgement": 27,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 29
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 26
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 21
+      },
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 11
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 25
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 21
+      },
+      {
+        "candidate": "Vortex",
+        "page": "vortex",
+        "readings": 20
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 18
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 14
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 23
+      },
+      {
+        "candidate": "Trauma-Lokus",
+        "page": "vergessener-schrein",
+        "readings": 2
+      },
+      {
+        "candidate": "RS-A",
+        "page": "rsa",
+        "readings": 1
+      },
+      {
+        "candidate": "Vergessener Schrein",
+        "page": "vergessener-schrein",
+        "readings": 2
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 16
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 15
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 16
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 20
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 20
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Coherence Protocol"
+      },
+      {
+        "candidate": "Coherence Island"
+      },
+      {
+        "candidate": "Potential Sea"
+      },
+      {
+        "candidate": "Storyform A"
+      },
+      {
+        "candidate": "Storyform B"
+      },
+      {
+        "candidate": "Rifts"
+      },
+      {
+        "candidate": "decoherence events"
+      },
+      {
+        "candidate": "Lokalitäten-K"
+      },
+      {
+        "candidate": "The Hard No"
+      },
+      {
+        "candidate": "Dissoziative Kontroll-Technik"
+      },
+      {
+        "candidate": "Functional Multiplicity"
+      },
+      {
+        "candidate": "MC-A"
+      },
+      {
+        "candidate": "Be-er"
+      },
+      {
+        "candidate": "Avoidance → Pursuit"
+      },
+      {
+        "candidate": "Seed-01"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "Ozone"
+      },
+      {
+        "candidate": "forgotten schrein"
+      },
+      {
+        "candidate": "Spiegelnde Wand"
+      },
+      {
+        "candidate": "Real-Time Spatial Mapping"
+      },
+      {
+        "candidate": "Mind/Preconscious"
+      },
+      {
+        "candidate": "MC-B"
+      },
+      {
+        "candidate": "Do-er"
+      },
+      {
+        "candidate": "Progress"
+      },
+      {
+        "candidate": "Protocol 01"
+      },
+      {
+        "candidate": "Resonanz-Spitze"
+      },
+      {
+        "candidate": "Landauer Heat-Limit"
+      },
+      {
+        "candidate": "Wärmetod"
+      },
+      {
+        "candidate": "Big Freeze"
+      },
+      {
+        "candidate": "Code-Parasites"
+      },
+      {
+        "candidate": "Entropy"
+      },
+      {
+        "candidate": "autopoiesis"
+      },
+      {
+        "candidate": "IC-A"
+      },
+      {
+        "candidate": "IC-B"
+      },
+      {
+        "candidate": "Impact Character"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "feuchtes Laub"
+      },
+      {
+        "candidate": "Fixed Idea"
+      },
+      {
+        "candidate": "Gödel Sentence"
+      },
+      {
+        "candidate": "Zensur-Loop"
+      },
+      {
+        "candidate": "Abgrenzung"
+      },
+      {
+        "candidate": "System-Riss"
+      },
+      {
+        "candidate": "Existenzforschung"
+      },
+      {
+        "candidate": "Plot-Exploration"
+      },
+      {
+        "candidate": "OS-A"
+      },
+      {
+        "candidate": "OS-B"
+      },
+      {
+        "candidate": "Core-Worlds"
+      },
+      {
+        "candidate": "KW1-4"
+      },
+      {
+        "candidate": "Architecture of Paranoia"
+      },
+      {
+        "candidate": "Standardisierter Transitkorridor"
+      },
+      {
+        "candidate": "12 Protocols"
+      },
+      {
+        "candidate": "Klassische Realität"
+      },
+      {
+        "candidate": "Landauer Heat-Shimmer"
+      },
+      {
+        "candidate": "hitzeflimmern"
+      },
+      {
+        "candidate": "RS-B"
+      },
+      {
+        "candidate": "Quantenverschränkung"
+      },
+      {
+        "candidate": "Quantum-Locus"
+      },
+      {
+        "candidate": "4D-Raumzeit"
+      },
+      {
+        "candidate": "Flawed God"
+      },
+      {
+        "candidate": "Autopoietic Cradle"
+      },
+      {
+        "candidate": "Ch35-36"
+      },
+      {
+        "candidate": "Driver-Pivot"
+      },
+      {
+        "candidate": "5-Point Sequence"
+      },
+      {
+        "candidate": "White Noise"
+      },
+      {
+        "candidate": "Datamoshing"
+      },
+      {
+        "candidate": "Algorithmic Melancholy"
+      },
+      {
+        "candidate": "Living Contradiction"
+      },
+      {
+        "candidate": "Choice of Multiplicity"
+      },
+      {
+        "candidate": "Pivot to A"
+      },
+      {
+        "candidate": "OPEN-Q"
+      },
+      {
+        "candidate": "Witness Layer"
+      },
+      {
+        "candidate": "Absolute Cold"
+      },
+      {
+        "candidate": "BACKLOG"
+      },
+      {
+        "candidate": "DKK-Protocols"
+      },
+      {
+        "candidate": "INDEX"
+      },
+      {
+        "candidate": "Material precedes Theory"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  Kael ↔ AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael ↔ AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kanon  /  KANON-KOMPATIBEL",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Vortex  /  THE VORTEX",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne  /  Mnemosyne Interface",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Heat-Spike  /  Heat-Spike Landauer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Resonance  /  Resonance-Bridge",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dialetheia  /  Lebende Dialetheia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echowald  /  Echowald (KW2)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echowald  /  Echowald Trap",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Non-Local Entanglement Pulse  /  Entanglement Pulse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "LogOS  /  LogOS Interface",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "LogOS  /  LogOS Gaslighting",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dekohärenz Protocol  /  Dekohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gamma-Frequenz 40Hz  /  Gamma-Frequenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Quarry  /  Non-Compatible Quarry",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne Interface",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulations-Inkonsistenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Ontological Exploit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alex",
+            "page": "alex"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis Crisis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "LogOS Interface",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Dekohärenz Protocol",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Dekohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "LogOS Gaslighting",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael ↔ AEGIS",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "THE VORTEX",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "vortex",
+            "page": "vortex"
+          }
+        ]
+      },
+      {
+        "candidate": "Ende der Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 52,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 125,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 76,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,13 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 AEGIS eskaliert, und ein Ereignis zwingt Kael zum sofortigen Handeln: laut Konzept-Iteration Genesis und Storyform-Outline die Purge-Drohung und Juna in Gefahr zugleich, laut der strukturierten Outline das eine oder das andere, je nach einer offenen Frage; der Countdown beginnt. Die Plot-Konkretisierung fasst die Purge als Voll-Konsolidierung des Stadtgebiets in Apparat-Sprache und lässt die Wartungsfenster erstmals ihren Takt verlieren; die AEGIS-Subplot-Sammlung kennt hier eine Erinnerungswaffe, mit der AEGIS alte Traumata bei Kael reaktiviert. Es ist der Ruf zum Abenteuer der Heldenreise außen, laut der strukturierten Outline im beginnenden Ten; die meisten Quellen legen es in die Phase A des dritten Akts, der Konzept-Master in die Vorbereitung des Vortex mit dessen Vorläufern, Kernwelten vollständig dagegen an das Ende des zweiten Akts, in den Phase-Shift zwischen KW3 und KW4 an unbewachten Toren. In Storyform A trägt es MC-Issue, die Notwendigkeit zu handeln, und laut Kapitel-Kompendium und Storyform-Outline wird die Consequence von A akut, ewige Fragmentierung droht; in B trägt es OS-Physics mit expliziter Erasure-Drohung, laut der strukturierten Outline mit sichtbarem Timelock-Countdown. Die Storyform-Outline nennt das Kapitel als zu verdichten.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Das Versagen der Eindämmung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L305]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+- Plot: AEGIS' „großangelegte Aktion (Reset, Angriff, etc.) schlägt fehl oder hat katastrophale unbeabsichtigte Folgen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308] and „destabilisiert das M-Fundament noch weiter und beschleunigt den Kollaps der Simulation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +38,33 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „um Bedingungen nachzubilden, die mit vergangenen Traumata verbunden sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Alternativ könnte AEGIS einen Guardian wie Mnemosyne verwenden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388] · „(Umkehrung der Effekte aus Kapitel 8)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Kael kämpft darum, seinen integrierten Zustand gegen diesen Ansturm aufrechtzuerhalten.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Sein zum Tode und die Umarmung von Moros“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: Im unendlichen Fall „begegnet Kael Moros, dem Alter des ultimativen Kollapses und der Hoffnungslosigkeit.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117]
+- Philosophy: „Heideggers fundamentalontologisches“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] „Sein zum Tode“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] „wird hier realisiert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117]: only accepting his own finitude lets Kael's fall slow.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Bekenstein trap flattens KW4's garden into a hologram
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Die Bekenstein-Falle (Episches Set-Piece)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L174]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Story: „AEGIS initiiert seine ultimative Waffe.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L174] · „Um Kaels wachsende Integration zu stoppen, komprimiert die Instanz den Raum von KW4.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L174]
+- Story: „Unmengen an traumatischen Erinnerungsdaten werden in ein immer kleiner werdendes Volumen gepresst“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L174]
+- Place: „Der dreidimensionale Raum des Gartens kollabiert unter der Informationsdichte und verflacht zu einem endlosen, zweidimensionalen Hologramm.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L174]
+- Who: „Kael und die Alters sind als flache Interferenzen auf einer Fläche gefangen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L174]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — AEGIS' failure at M's irreducibility, and Juna in the IC Issue's element matrix
+
+A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
+
+- Werk-Beleg for Storyform A's MC Resolve Change: „AEGIS' Scheitern an der Irreduzibilität von M in Kapitel 28, was die zwingende Notwendigkeit holistischen Denkens bestätigt.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L102]
+- IC Issue, Storyform A vs. B: „Kap 28: Juna durchbricht AEGIS' Konditionierung instinktiv (Instinct) vs. Juna als Anomalie jenseits messbaren Werts für AEGIS (Worth).“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L213]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -131,7 +165,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **The trigger: Purge and Juna, or one of them.** „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616] (Konzept-Iteration Genesis) · „Purge-Drohung, Juna in Gefahr; A-Consequence akut (ewige Fragmentierung droht)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L360] (storyform outline) · „Ein Ereignis (AEGIS droht mit Purge, oder Juna ist bedroht — OQ-B-abhängig) zwingt Kael zum sofortigen Handeln.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L913] (strukturierter Outline).
-- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] with „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung). · „Akt III\*\* | Kap 27–34“ ^[dual-storyform-hintergruende-md.md:L335], and for the bridge scenes „Vortex-Vorläufer (ab \~Kap 28). Akt-III-Anfang.“ ^[dual-storyform-hintergruende-md.md:L308] (the Dual-Storyform background document) — Akt III from Kap 27 in its table, and its start at about Kap 28 in its list, both in one document.
+- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] with „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung). · „Akt III\*\* | Kap 27–34“ ^[dual-storyform-hintergruende-md.md:L335], and for the bridge scenes „Vortex-Vorläufer (ab \~Kap 28). Akt-III-Anfang.“ ^[dual-storyform-hintergruende-md.md:L308] (the Dual-Storyform background document) — Akt III from Kap 27 in its table, and its start at about Kap 28 in its list, both in one document · „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166] (the Hard-SF-Outline), Akt III from its Kapitel 27.
 - **Title.** „AEGIS' Eskalation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis) · „Call to Adventure: AEGIS' Eskalation / Juna in Gefahr“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L903] (strukturierter Outline) · „Consequence akut“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L226] (Kapitel-Kompendium); the second opens with the Genesis document's stage name, „HR-Stufe 2: Call to Adventure“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis).
 
 ## Questions for this chapter

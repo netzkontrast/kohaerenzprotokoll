@@ -1,9 +1,9 @@
 ---
 chapter: 4
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
-records: []
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+records: ["C10"]
 gathered: "2026-09-25"
 ---
 
@@ -22,6 +22,25 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In den Pforten der Verurteilung wird Kaels neue, einseitig logische Identität an Scham, Zweifel und logischen Grenzen geprüft: laut strukturierter Outline in logischen Fallen in KW1, laut Plot-Konkretisierung in einem Audit seiner gestiegenen Bestätigungslatenz, dessen Prüf-Dialog ein Regel-Exekutor als Stimme der Konsole in Direktiven-Sprache führt, laut Konzept-Iteration Genesis im Fund von Aufzeichnungen des System-Architekten Dr. Jian Li, Kaels eigenen Entstehungsdokumenten. Laut Kernwelten vollständig spielt es in einem versteckten Archiv von KW1, laut Konzept-Master-Bericht an einem Riss zu KW2, an dem Kaels Beobachten die Simulation kollabieren lässt; laut AEGIS-Subplots bemerkt Kael Anzeichen von Systeminstabilität, die AEGIS als Entropie oder Fehler einordnet. Laut strukturierter Outline erfasst AEGIS' System eine Anomalie, die es nicht klassifizieren kann, Kael als Bug, und seine kalten Logik-Klicks wirken zwischen korrumpierten Textdateien und veralteten Interfaces wie Echos des Trennungsprotokolls. In der Heldinnenreise ist es die Stufe der Prüfungen, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit dem MC-Issue in Storyform A und in Storyform B latent einer ersten Bug-Spur in IC-Mind/Conscious, die das Kapitel-Kompendium schon dem Erwachen als IC-Signpost gibt. Kapitel-Kompendium und Storyform-Outline nennen den Gödel-Vorschein, die Grenzen des Regelsystems, und die Storyform-Outline verlangt, das Kapitel zu verdichten.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Die Wächter“ ^[monstergruppe-primzahlen-plot-blueprint.md:L57]
+
+- Establishes: „Als Teil von Protokoll Omega-Sieben führt AEGIS "Wächter" (Guardians) in Kaels Umgebung ein“ ^[monstergruppe-primzahlen-plot-blueprint.md:L60]
+- What they are: „die als normale Bewohner der Kernwelt getarnt sind“ ^[monstergruppe-primzahlen-plot-blueprint.md:L60]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the Gödelian knot, LogOS' first test
+
+Title: „Die Prüfung der Symmetrie“ ^[kohaerenz-protokoll.md:L432]
+Position: „(Fundamentales Konzept: Symmetrie / Gödel’sche Sätze)“ ^[kohaerenz-protokoll.md:L434] · „(Heldinnenreise Stufe 4: Passieren der Pforten der Verurteilung (Prüfungen))“ ^[kohaerenz-protokoll.md:L436]
+
+- LogOS couples directly to Kael's mind: „Eine direkte Schnittstelle zwischen seinem kognitiven Kern und LogOS, dem Supervisor für Kohärenz und Struktur in diesem Sektor.“ ^[kohaerenz-protokoll.md:L438]
+- The task fails on its own terms: „Ein Gödelscher Knoten.“ ^[kohaerenz-protokoll.md:L478]
+- Named: „Gödels Unvollständigkeitssatz, in Reinform manifestiert in den Fundamenten von Co₁.“ ^[kohaerenz-protokoll.md:L480]
+- Result: „Er hatte versagt.“ ^[kohaerenz-protokoll.md:L516]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -32,6 +51,27 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „bemerkt Kael subtile Anzeichen von Systeminstabilität um sich herum“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68] · „Vielleicht geringfügige visuelle Störungen, Audiostörungen oder temporäre Fehlfunktionen nahegelegener automatisierter Systeme.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Story: „Diagnose- oder niedrigstufige Eindämmungsprotokolle“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Discussion: „sein innerer Zustand destabilisiert nun aktiv das System“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L69]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Die Treppe der Unvollständigkeit“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61]
+
+- Establishes (C10): „bis seine Knie bluten“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61]
+
+This is the injury the whole document gives instead of knuckles: bleeding knees here, on the Gödel staircase, not bleeding knuckles in Kap 1.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Lex's fortress of reason, and Kael adapts to Logos-Prime
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Die algorithmische Maske“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L100]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- Who: „Unter der unerbittlichen Führung von Lex errichtet Kael eine kognitive Festung aus Ratio.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L102]
+- Story: „Sie analysieren die K0-Narbe nicht als metaphysisches Phänomen, sondern als topologischen Defekt im Raum-Zeit-Gefüge.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L102] · „Kael beginnt, sein Verhalten perfekt an die Algorithmen von Logos-Prime anzupassen (BPoF-Protokoll), um nicht erneut ins Visier der Hitze-Löschungen zu geraten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L102]
+- What it establishes: „Die Identifikation mit der emotionslosen Logik wird als einziger Überlebensmechanismus etabliert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L102]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -126,8 +166,11 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 
 ## Where the sources differ
 
+- **Title, and the knot found, not used (D47).** „Die Prüfung der Symmetrie“ ^[kohaerenz-protokoll.md:L432] (the Kohärenz-Protokoll narrative, 2025-04-27) — a third title; its Gödel moment is a limit LogOS' own task runs into, „Ein Gödelscher Knoten.“ ^[kohaerenz-protokoll.md:L478], not an injury or a gambit Kael wields.
+- **The Kapitel-4 injury.** „bis seine Knie bluten“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] (the Ultra-Plot) — the knees bleed on the Gödel staircase, not the knuckles in Kap 1 (C10).
 - **Kael's first bug trace.** „B: IC-Mind/Conscious latent — erste Bug-Spur in Kael“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L520] (Konzept-Iteration Genesis, Kap 4) · „B:IC-S1 (Kael = unfixbarer Bug)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium, its Kap 1).
 - **Title.** „Die unentscheidbare Zone“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L518] (Konzept-Iteration Genesis) · „Pforten der Verurteilung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L319] (strukturierter Outline; also Kapitel-Kompendium, and in short form konsolidiertes Konzept and storyform outline) — the Konzept-Iteration's stage „HR-Stufe 4: Pforten der Verurteilung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L518] is the others' title, whose stage is „HR-Stufe 4: Prüfungen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L321].
+- **The Hard-SF-Outline.** „Die algorithmische Maske“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L100] (the Hard-SF-Outline, 2026-04-08) — a title no other reading gives, for Kael's adaptation under Lex: „Die Identifikation mit der emotionslosen Logik wird als einziger Überlebensmechanismus etabliert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L102]
 
 ## Questions for this chapter
 

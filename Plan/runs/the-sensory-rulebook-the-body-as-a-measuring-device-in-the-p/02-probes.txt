@@ -1,0 +1,36 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      48
+  typographic marks      7
+  ascii quotes           74
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architecture, Architectures
+  contr    Contradiction, Control
+  creat    Creation, Creative
+  guard    Guardian, Guardians
+  kernw    Kernwelt, Kernwelten
+  lands    Landscape, Landschaft
+  logos    LogOS, Logos
+  memor    Memories, Memory
+  poten    Potential, Potentialis
+  psych    Psycho, Psychological
+  reson    Resonance, Resonanz
+  traum    Trauma, Traumabereichen
+  truth    Truth, Truths
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Here < Coherence
+  LogOS < Logos
+  Logic < Psychological
+  Truth < Truths
+  World < Worlds
+  Psycho < Psychological
+  Trauma < Traumabereichen
+  Systeme < Verteidigungssysteme
+  Guardian < Guardians
+  Kernwelt < Kernwelten
+  Potential < Potentialis
+  Architecture < Architectures

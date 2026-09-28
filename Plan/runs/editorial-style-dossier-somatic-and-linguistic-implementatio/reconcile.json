@@ -1,0 +1,410 @@
+{
+  "document": "editorial-style-dossier-somatic-and-linguistic-implementatio",
+  "drive_id": "1R8Mf5LGmyQSSAXAw4mIqrhzwKQcgvW0tOPoOtSREnjI",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of seven documents read by the session and reconciled together — readings and record entries written by six Claude readers split by page group, from Plan/runs/readings-brief-documents-33-39.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 117,
+    "decisions": 132,
+    "decided_by_lookup": 90,
+    "needs_judgement": 42
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Mandates for the writer; its classes and voices apply pages that exist.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        45,
+        71,
+        73,
+        74,
+        102
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the entropic gatekeeper, never in prose, out-calculated rather than defeated"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        19,
+        29
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Protector, and one of the EP-Protectors"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        74,
+        102
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "AEGIS' tone, not an end"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        15,
+        19,
+        25,
+        34,
+        38,
+        40,
+        42,
+        64,
+        100
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "thirteen nodes, voices by computational class, and the Spiegel alters"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        19,
+        51
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Meta-Kog, visual fractaling"
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        19,
+        30,
+        44
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Silas beyond the time arrow, where the barriers do not exist"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        15,
+        86
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Juna not representable in the log"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        19,
+        58
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "its failure begins in Act II"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        99
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "a concept not to be named in the first fifty pages"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        15,
+        99
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "carried by the characters, grounded by the somatic filter, unnamed for fifty pages"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        15,
+        74
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "what AEGIS calls order, and what AEGIS realizes it is"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        99
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "a concept not to be named in the first fifty pages"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        19,
+        69,
+        74
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the Landauer spike's heat and ozone from AEGIS and the ANPs, cold Lex's, Juna by phantom resonance"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        19,
+        50
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Sexualized, synesthesia and bleeding textures"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        30,
+        68,
+        69,
+        102
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the witness, never described, synthesized through resonances and the Phone-Silence"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        19,
+        34,
+        49,
+        102
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the Host's trembling as a Universal Reboot, the knuckles as a truth-meter, and Kael acting alone"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        25,
+        27,
+        28,
+        30
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the four worlds' classes as the syntax of the fragments' voices"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        19
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Freeze, trust-collapse"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        15,
+        44,
+        101
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the German name with a plain digit, and the reader and the silence as its substrate"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        15
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the German name with a plain digit"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        19,
+        34,
+        98,
+        99
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the Landauer Spike as a truth-meter, made by AEGIS and by the ANPs"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        19,
+        27,
+        34,
+        58
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the first half of the reader's navigation"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        19
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Ambivalent, spatial disorientation"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        44
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "what Silas becomes"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        19
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Collapse, crushing gravitational weight"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        57,
+        59,
+        100
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the veil in Act I, the chorale in Act III, and multiplicity as amnesic terror"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        19,
+        29,
+        34,
+        58
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Fight, NP-Hard, and the knuckles in a sample sentence"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        19,
+        45
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Spiegel, an automaton in Act I, a decision in Act III"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        59,
+        60
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the final image must mirror the first, with the phenomenology inverted"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        19
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Caregiver, the system's maintenance"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        21,
+        34
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "sensory rifts the body registers"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        19
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "ISH, internal mediation"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        19,
+        42,
+        44
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "Spiegel, atemporal stillness, and the arc to the Moonshine-Link"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        60,
+        69,
+        101
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the ultimate anchor of truth"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        15,
+        60
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "the reader's realization, secured by the somatic filter, at no named place"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        38,
+        42
+      ],
+      "attribution": "the Editorial Style Dossier",
+      "note": "ANPs and EPs, and the Spiegel alters on another axis"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": [
+      11,
+      15,
+      55,
+      57,
+      58,
+      59,
+      96
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C7",
+    "C10",
+    "C11",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (worlds named for Guardians), J56/J23 (plurals), J60, J70, J74/J93, J76–J78, J86, J90, J91 (Great Inversion apart from the Truth-Rotation), J98/J99, J100–J102 (English names placed by the sentence), J104, J51",
+  "records_read_and_not_changed": {
+    "C12": "`Genesis` 0",
+    "C13": "`Cologne` 0",
+    "C15": "`Flight`, `Riss` 0"
+  },
+  "not_promoted": [
+    "Computational-Class-Progression — L25",
+    "AEGIS-Log-Template — L74–92"
+  ],
+  "internal_tension": "The Truth-Rotation as the reader's realization (L15); the ANPs' suppression makes a Landauer Spike too (L19); Alex among the „EP-Protectors“ (L29) where 35 and 37 have him ANP; „the phenomenology is inverted“ (L60) where the konsolidiertes Konzept says it does not change.",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 33–39: PageRank recall@8 0.654 → 0.644, only C11 (0.6 → 0.4)"
+}

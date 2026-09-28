@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      53
+  backslash escapes      225
+  typographic marks      93
+  ascii quotes           78
+
+# inflection families -- one term, several surfaces
+  gegen    Gegenläufig, Gegenläufigkeit, Gegenläufigkeits, Gegenstruktur, Gegensätzen, Gegenüberstellung
+  syste    System, Systemen, Systemheilung, Systemkohärenz, Systems, Systemzerstörung
+  story    STORYFORM, Story, Storyform, Storyforms, Storytelling
+  struk    Struktur, Strukturangaben, Strukturelle, Strukturellen, Strukturen
+  autor    Autor, Autoren, Autorität, Autors
+  chara    Character, Charakter, Charaktere, Charakterisierung
+  fragm    Fragmentation, Fragmente, Fragmentierung, Fragments
+  integ    Integration, Integrator, Integrity, Integrität
+  metho    Methode, Methoden, Methodische, Methodological
+  mitte    Mittel, Mittelpunkt, Mittelung, Mittelwert
+  parad    Paradigma, Paradoxien, Paradoxon, Paradoxons
+  physi    Physics, Physik, Physische, Physischer
+  proje    Projection, Projektion, Projektionen, Projektions
+  psych    Psyche, Psychologie, Psychologisches, Psychology
+  wider    Widerspruch, Widersprüche, Widerstand, Widerstands
+  analy    Analyse, Analysis, Analytischer
+  daten    Daten, Datengrundlage, Datenkorruption
+  durch    Durch, Durchdringung, Durchlauf
+  eleme    Element, Elementen, Elements
+  falsi    Falsification, Falsifikation, Falsifikations
+  funkt    Funktionale, Funktionalen, Funktionaler
+  gödel    Gödel, Gödelian, Gödels
+  handl    Handlung, Handlungen, Handlungsschritten
+  heilu    Heilung, Heilungsprozesse, Heilungsziel
+  inter    Internal, Interne, Interpretation
+
+# substring pairs -- never one term, often merged by accident
+  Amen < Fundament
+  Amen < Fundamentale
+  Bild < Schlüsselbild
+  Book < NotebookLM
+  Dies < Diese
+  Drei < Dreiteiliger
+  Dual < Duale
+  Dual < Dualen
+  Dual < Dualität
+  Eine < Keine
+  Ende < Enden
+  Ende < Endes
+  Ende < Weltendes
+  Ende < Gravierender
+  Erst < Widerstand
+  Erst < Zerstörung
+  Erst < Verständnis
+  Erst < Widerstands
+  Erst < Understanding
+  Erst < Lesersteuerungs

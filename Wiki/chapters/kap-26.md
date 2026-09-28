@@ -1,9 +1,9 @@
 ---
 chapter: 26
 status: candidate
-sources: 11
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md"]
-records: ["C9"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
+records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
 
@@ -22,6 +22,14 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Kael beschließt, die Konfrontation zu suchen, aktiv statt reaktiv, und die Erasure-Vorbereitung eskaliert; laut der strukturierten Outline ist der Zyklus durchbrochen, ohne Erleichterung, nur mit einer Richtung, und die Entscheidung rastet ein wie das Trennungsprotokoll, in umgekehrter Richtung. Was ihm beim Hinaustreten begegnet, erzählen die Quellen verschieden: laut der AEGIS-Subplot-Sammlung ein präventiver Schritt von AEGIS und ein Guardian, der ihn abfängt, laut der strukturierten Outline kein Kampfbeginn, sondern ein Schwellen-Tritt, laut der Plot-Konkretisierung die Reklassifizierung von Einheit 734 als ausgefallen und eine Tür, die ihn nicht mehr registriert. Es ist der vollzogene Wendepunkt zur Befreiung im zyklischen Modus und sitzt auf einem Modus-Wechsel, laut der strukturierten Outline vom zyklischen in den linear-aufsteigenden Modus ohne Storyform-Wechsel, im Shō; das Kapitel-Kompendium und die Storyform-Outline legen es in den zweiten Akt und benennen den Schleier jetzt offen, Kernwelten vollständig legt es als Akt-Ende in die Zitadelle von KW3, die Plot-Konkretisierung in den Block der Niederlegung. In Storyform A trägt es MC-Concern, den Schritt ins Ungewisse als Entschluss, in B OS-Physics mit eskalierender Erasure-Vorbereitung, und laut der strukturierten Outline antizipiert AEGIS die Linearisierung.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „AEGIS' Zug“ ^[monstergruppe-primzahlen-plot-blueprint.md:L281]
+Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“, Ende ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
+
+- Plot: „AEGIS initiiert seine gewählte Endspiel-Strategie“ ^[monstergruppe-primzahlen-plot-blueprint.md:L284] — a reset, a weapon, or a direct confrontation and erasure.
+- Establishes: „Der Konflikt eskaliert zur direkten Konfrontation; Kael muss reagieren.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L284]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +38,26 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der präventive Gegenschlag“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L357]
 - Story: „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358]
 - Story: „Kael erkennt, dass AEGIS nicht nur reagiert hat; es hat seine Absicht vorhergesagt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Junas Demaskierung und die Relationale Ontologie“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109]
+Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“, Ende ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L81]
+
+- Plot: „Juna wirft sich zwischen Cerberus und Kael.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109] „In einem Moment gleißender Klarheit erkennt Kael, dass Juna keine externe Entität oder KI-Anomalie ist. Sie ist die unzerstörbare relationale Essenz zwischen seinen eigenen gespaltenen Anteilen.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109]
+- Establishes: „Dies ist der Durchbruch zur Relationalen Ontologie“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109]; „Juna strahlt ein Licht (K0) aus, das keine physikalische Temperatur besitzt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109], felt as unshakeable certainty.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS destroys KW3, and the fall into the fourth Kernwelt
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Das Portal zum Kern“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- AEGIS: „AEGIS, nun als gigantisches Täter-Introjekt entlarvt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
+- Story: „reagiert auf den drohenden Autonomiegewinn mit der totalen Vernichtung von KW3.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
+- Sensorik: „Eine gewaltige Landauer-Explosion aus Ozon und Hitze fegt die Zitadelle hinweg.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
+- Exit: „Kael und sein innerer Chor fliehen durch die schmelzenden Wände hindurch und stürzen sich in den Riss, der direkt in die vierte und letzte Kernwelt führt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -133,8 +161,9 @@ The file of the manuscript's Kap 25, research, not text for the novel; it does n
 
 ## Where the sources differ
 
-- **What meets Kael as he steps out.** „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] (aegis-subplots) · „Kap 26 nicht Kampfbeginn — Schwellen-Tritt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L873] (strukturierter Outline) · „Kael verlässt den Knoten; die Tür registriert ihn nicht mehr.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung).
+- **What meets Kael as he steps out.** „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] (aegis-subplots) · „Kap 26 nicht Kampfbeginn — Schwellen-Tritt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L873] (strukturierter Outline) · „Kael verlässt den Knoten; die Tür registriert ihn nicht mehr.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung) · „reagiert auf den drohenden Autonomiegewinn mit der totalen Vernichtung von KW3.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L164] (the Hard-SF-Outline), which ends its Akt II here.
 - **Title.** „Schritt ins Ungewisse“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L606] (Konzept-Iteration Genesis) · „Wendepunkt: Entscheidung zur Befreiung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L851] (strukturierter Outline) · „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium), one title for Kap 25 and Kap 26.
+- **Juna unmasked.** The Ultra-Plot places Juna's unmasking as relational essence in this chapter, at the close of Teil II — „Sie ist die unzerstörbare relationale Essenz zwischen seinen eigenen gespaltenen Anteilen.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109] (the Ultra-Plot) — matching CLAUDE.md's own count of this chapter among Juna's appearances. (C7)
 
 ## Questions for this chapter
 

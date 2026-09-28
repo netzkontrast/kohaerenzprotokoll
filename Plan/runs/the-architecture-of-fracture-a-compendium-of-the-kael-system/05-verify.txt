@@ -1,0 +1,40 @@
+# 05-verify — the-architecture-of-fracture-a-compendium-of-the-kael-system, 2026-09-27
+# grep -cwE = lines holding the word
+Kap                         0
+Chapter                     0
+Vortex                      0
+39                          0
+warm                        0
+warmth                      0
+heat                        0
+cold                        1
+coldness                    1
+ozone                       1
+21°C                       1
+knuckles                    1
+Knöchel                    0
+Konstrukt-Stadt             0
+Guardian                    0
+Guardians                   1
+LogOS                       0
+Cerberus                    0
+Kairos                      1
+Sophia                      0
+734                         0
+Component                   0
+Genesis                     0
+Trennungsprotokoll          0
+Flight                      0
+Truth-Rotation              0
+Cologne                     1
+Köln                       0
+Ursprungs-Ich               0
+Fragmentierungsnacht        0
+Nexus                       0
+Überwelt                   0
+Juna                        4
+Kael                        9
+AEGIS                       8
+first person                0
+Wir                         0
+Wormholes                   0

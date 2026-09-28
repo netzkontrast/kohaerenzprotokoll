@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      127
+  backslash escapes      40
+  typographic marks      27
+  ascii quotes           220
+
+# inflection families -- one term, several surfaces
+  kontr    Kontroll, Kontrolle, Kontrollen, Kontrollinstanz, Kontrollmaßnahmen, Kontrollproblem, Kontrollproblems, Kontrollschichten, Kontrolltheorie, Kontrollversuch, Kontrollversuche, Kontrollwillen
+  inter    Interaktion, Interaktionen, Interaktionsregel, Interest, Interferenz, Interferenzmustern, Internal, Interne, Interner, Interpretation, Intervention
+  syste    System, Systemdynamik, Systeme, Systemen, Systemfehler, Systemfehlers, Systeminstabilität, Systemische, Systemlast, Systems, Systemwarnungen
+  selbs    Selbst, Selbstfindung, Selbstkontrolle, Selbstorganisation, Selbstproduktion, Selbstregulation, Selbstvalidierungspfad, Selbstverständnis, Selbstwertgefühl, Selbstzweifel
+  reali    Realisierung, Realität, Realitätskonstruktion, Realitätskräften, Realitätsverlust, Realitätsverzerrung, Realitätsverzerrungen, Realitätswechsel, Realitätszusammenbruchs
+  reson    Resonance, Resonanten, Resonanz, Resonanzaktes, Resonanzfrequenz, Resonanzfähigkeiten, Resonanzkaskade, Resonanzmuster, Resonanzsignatur
+  simul    Simulation, Simulationsbaseline, Simulationsmechanik, Simulationsparameter, Simulationsphysik, Simulationsregeln, Simulationssubstrat, Simulationstheorie
+  analy    Analyse, Analysemodulen, Analyseobjekt, Analyseparameter, Analyseprotokoll, Analyseprotokolle, Analyseprozessen
+  infor    Information, Informationen, Informationskanal, Informationskaskaden, Informationsmonopol, Informationszugriff, Informationsübertragung
+  chara    Charakter, Charakterbogens, Charakterbögen, Charakterdrama, Charakteren, Charakterentwicklung
+  konst    Konstante, Konstanten, Konstitution, Konstrukt, Konstruktion, Konstruktionen
+  konze    Konzentration, Konzept, Konzepte, Konzepten, Konzeptfokus, Konzeptuelle
+  mathe    Mathematical, Mathematics, Mathematik, Mathematische, Mathematischen, Mathematisches
+  energ    Energie, Energiefelder, Energiemanifestationen, Energien, Energiezustände
+  fehle    Fehleinschätzung, Fehlen, Fehler, Fehlermeldungen, Fehlern
+  handl    Handlung, Handlungen, Handlungsbogens, Handlungsmacht, Handlungspunkten
+  monst    MONSTER, Monster, Monstergruppe, Monstern, Monstrous
+  opera    Operation, Operationen, Operator, Operatoren, Operatorproduktentwicklung
+  regel    Regel, Regelhaftigkeit, Regeln, Regelsatz, Regelwerk
+  symme    Symmetrie, Symmetriedimension, Symmetriegruppen, Symmetrien, Symmetrieoperationen
+  vorhe    Vorherige, Vorhersagbarkeit, Vorhersage, Vorhersagen, Vorhersageprotokolle
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widerstand, Widerstandsfähigkeit
+  algeb    ALGEBRA, ALGEBRAS, Algebren, Algebrization
+  besch    Beschreibung, Beschädigung, Beschützer, Beschützerteile
+  daten    Daten, Datenfluss, Datenflut, Datenlandschaften
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Antizipation
+  Beat < Beats
+  Bild < Bildung
+  Bild < Gebilde
+  Bild < Abbildung
+  Bild < Schlussbild
+  Code < Maschinencode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Seine
+  Eine < Reiner
+  Feld < Felder
+  Feld < Feldes
+  Feld < Störfeld
+  Feld < Feldtheorien
+  Feld < Energiefelder
+  Feld < Eindämmungsfelder
+  Feld < Experimentierfeld

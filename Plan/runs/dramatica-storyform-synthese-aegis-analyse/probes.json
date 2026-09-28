@@ -1,0 +1,252 @@
+{
+  "document": "dramatica-storyform-synthese-aegis-analyse",
+  "drive_id": "10cFu4YtwNlyMHPmE5B877rr3CxEhiPCSI1K7t5IzWxM",
+  "step": "probes",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 67,
+  "backslash_escapes": 32,
+  "typographic_marks": 85,
+  "ascii_quotes": 13,
+  "inflection_families": {
+    "lösch": [
+      "Löschung",
+      "Löschungs",
+      "Löschungsakt",
+      "Löschungsalgorithmen",
+      "Löschungsangriff",
+      "Löschungswelle",
+      "Löschungswellen",
+      "Löschungszyklus"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstellation",
+      "Konstituiert",
+      "Konstrukt",
+      "Konstruktion",
+      "Konstruktionen",
+      "Konstrukts"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyformen",
+      "Storymind",
+      "Storypoint",
+      "Storypoints",
+      "Storytelling"
+    ],
+    "archi": [
+      "Archipel",
+      "Archipels",
+      "Architekt",
+      "Architektur",
+      "Archiv",
+      "Archivarin"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interface",
+      "Interferenz",
+      "Interferenzmuster",
+      "Interferenzstruktur"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systems"
+    ],
+    "überl": [
+      "Überladung",
+      "Überlastung",
+      "Überleben",
+      "Überlebensgewalt",
+      "Überlebt"
+    ],
+    "ersch": [
+      "Erschaffung",
+      "Erschloss",
+      "Erschöpfung",
+      "Erschütterungen"
+    ],
+    "opera": [
+      "Operationalisierung",
+      "Operationen",
+      "Operativ",
+      "Operator"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmen",
+      "Paradoxie",
+      "Paradoxien"
+    ],
+    "proje": [
+      "Project",
+      "Projection",
+      "Projekt",
+      "Projekts"
+    ],
+    "proto": [
+      "Proto",
+      "Protocol",
+      "Protokoll",
+      "Protokolls"
+    ],
+    "quell": [
+      "Quelle",
+      "Quellen",
+      "Quellenauswertung",
+      "Quellenbasis"
+    ],
+    "trenn": [
+      "Trennung",
+      "Trennungsprotokoll",
+      "Trennungsprotokolle",
+      "Trennungswände"
+    ],
+    "verif": [
+      "Verifier",
+      "Verifikation",
+      "Verifikationstest",
+      "Verifizierung"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widerstand"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmische",
+      "Algorithmus"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analytische"
+    ],
+    "anwen": [
+      "Anwendbarkeit",
+      "Anwendung",
+      "Anwendungsfall"
+    ],
+    "auslö": [
+      "Auslöschung",
+      "Auslösen",
+      "Auslösung"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseinszustand"
+    ],
+    "contr": [
+      "Contradiction",
+      "Contradictions",
+      "Control"
+    ],
+    "diale": [
+      "Dialetheia",
+      "Dialetheism",
+      "Dialetheismus"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokumentation",
+      "Dokuments"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Code",
+      "Codex"
+    ],
+    [
+      "Code",
+      "Datencode"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Überdies"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Eine",
+      "Einen"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Grundbausteine"
+    ],
+    [
+      "Fall",
+      "Verfall"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Fall",
+      "Fallhöhe"
+    ],
+    [
+      "Fall",
+      "Verfalls"
+    ],
+    [
+      "Fall",
+      "Zerfalls"
+    ],
+    [
+      "Fall",
+      "Fallenlassen"
+    ],
+    [
+      "Fall",
+      "Selbstzerfall"
+    ]
+  ]
+}

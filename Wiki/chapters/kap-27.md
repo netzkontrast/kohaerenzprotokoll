@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,14 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Kael handelt mit klarer Absicht, nicht mehr reaktiv, und bereitet die Konfrontation vor; das Leitbild der Quellen ist die Autoren-Feder mit klaren Linien, und laut der Plot-Konkretisierung wird hier das Delikt Absicht, als Kael einen Bericht schreibt, den niemand angefordert hat. AEGIS spürt seine neue Linearität, laut der Plot-Konkretisierung als Format-Anomalie, und laut der strukturierten Outline degradiert die Architektur sichtbar, während das Wir-Geflecht aller Alters in funktionaler Multiplizität steht; die AEGIS-Subplot-Sammlung kennt hier einen Roten Alarm, in dem Guardians zur Jagd auf Kael übergehen. Es ist die Ordinary World der Heldenreise außen nach dem Modus-Wechsel, laut der strukturierten Outline dort, wo das Ten beginnt; die meisten Quellen legen es in die Phase A des dritten Akts, die Plot-Konkretisierung in den Block des Deserteurs, Kernwelten vollständig dagegen noch an das Ende des zweiten Akts, an die Schwelle von KW3 zu KW4. In Storyform A trägt es MC-Concern, Agency mit Absicht, in B OS-Physics, laut der strukturierten Outline den dritten Signpost des OS in B, Progress.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Der integrierte Selbst“ ^[monstergruppe-primzahlen-plot-blueprint.md:L295]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+- Plot: „Angesichts von AEGIS' Angriff erreicht Kael den Höhepunkt seiner Integration.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] „Seine fragmentierten Alters verschmelzen zu einem kohärenten Ganzen, das im Einklang mit seiner M-Resonanz und der Moonshine-Verbindung steht.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
+- Establishes: „Er erreicht die Phase“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] of „Wissen, dass er weiß.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +39,27 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Umgebungskontrollen werden offen feindselig oder restriktiv, zuvor zugängliche Bereiche werden abgeriegelt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „Guardians wechseln von Überwachung/Korrektur zu aktiver Jagd oder Eindämmung von Kael“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „seinen neuen Status als 'kritische Bedrohung' oder 'abtrünnige Entität'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Der Sprung ins Nichts und die Kontingenz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L115]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: Kael „stürzt sich absichtlich in einen ungerenderten, bodenlosen Abgrund der Simulation.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L115]
+- Philosophy: „Philosophisch vollzieht er Sartres Konzept der radikalen Kontingenz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L115].
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael lands in KW4, an overgrown ruined garden in warm light
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Kairos-Potentialis“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L170]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Journey: „Der dritte Akt vollzieht den Übergang in die klassische Heldenreise.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L168]
+- World: „Kael landet in KW4.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172] · „Hier herrscht warmes Licht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
+- Place: „Er steht in einem überwucherten Ruinengarten, dessen Erde feucht ist und der dezent nach Ozon des Werdens riecht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
+- Establishes: „Es ist die Generative Computational Class, der einzige Raum im System, in dem neues Leben und neue Information entstehen können.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
+- The alters: „Die Stimmen der Alters in Kaels Geist sind nun kein Rauschen mehr, sondern ein vielstimmiger, klarer Chor.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L172]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -109,7 +138,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 ## Where the sources differ
 
-- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung).
+- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung) · „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166] (the Hard-SF-Outline), whose Akt III opens with this chapter.
 - **Title.** „Autoren-Feder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L610] (Konzept-Iteration Genesis) · „Ordinary World: Entschlossenheit“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L879] (strukturierter Outline); the second opens with the Genesis document's stage name, „Modus-Wechsel zu HR außen, HR-Stufe 1: Ordinary World“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L610] (Konzept-Iteration Genesis).
 
 ## Questions for this chapter

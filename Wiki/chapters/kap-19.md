@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,24 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen die AEGIS-Intervention in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Reaktion im zweiten Spiral-Zyklus, zwischen Cache-Konflikt und Lyons-Kreativität. AEGIS bemerkt Kaels wachsende Kohärenz und stört sie aktiv mit neuen Regeln und widersprüchlichen Informationen, und laut der strukturierten Outline nutzt Mnemosyne Junas Erinnerung manipulativ gegen Kael. Storyform A führt die MC-Issue, die Systemlüge wird klarer benannt; in Storyform B tritt AEGIS' Erasure-Logik in der OS-Physics offen auf, laut der strukturierten Outline als zweiter Signpost der OS, Learning, mit einem Action-Driver, der härter greift, und mit einer AEGIS-Mikroszene als Bridge. Laut der Plot-Konkretisierung priorisiert die Schlange plötzlich Bestände, die Kael betreffen, der Apparat legt ihm seine eigene Vergangenheit zur Konsolidierung vor, und der Options-Pool wird sichtbar und zählbar. Kalte Stimme und KI-Ethik-Kalkül tragen das Kapitel, Kernwelten vollständig verortet es als AEGIS-Eskalation in KW2 mit einem Ausschlag des Landauer-Strangs, und laut der Konzept-Iteration Genesis kehrt in AEGIS' offener Logik die Algorithmische Schrecken-Phase der Genesis wieder.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Die Symmetrie des Widerstands“ ^[monstergruppe-primzahlen-plot-blueprint.md:L211]
+
+- Establishes: „die Prinzipien von M – Symmetrie, Kohärenz – nutzt, um den Angriff zu neutralisieren“ ^[monstergruppe-primzahlen-plot-blueprint.md:L214]
+- AEGIS: „AEGIS ist überrascht und verwirrt von der *Art* des Widerstands“ ^[monstergruppe-primzahlen-plot-blueprint.md:L214]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+Title: „Saat im Möglichkeitsstrom“ ^[kohaerenz-protokoll.md:L1964]
+Position: „Lyons-Welt (Ly) / Emergenz“ ^[kohaerenz-protokoll.md:L1966] · „Zyklus 2, Phase 3: Widerstand (Kreativität)“ ^[kohaerenz-protokoll.md:L1968]
+
+- Where: transfer to „Dies war die Lyons-Welt (Ly), wie er aus den fragmentierten Daten im Lernarchiv wusste.“ ^[kohaerenz-protokoll.md:L1978]
+- Story: Kael learns to seed rules into the world's fluid medium and meets its Guardian, „Es war der Möglichkeits-Weber.“ ^[kohaerenz-protokoll.md:L2024], who warns him about a watcher, „Du versuchst, dich zu verstecken. Vor dem Großen Beobachter.“ ^[kohaerenz-protokoll.md:L2034], and points him toward the Lyons-Gruppe's own arithmetic, „Rechnen modulo 5“ ^[kohaerenz-protokoll.md:L2052] (GF(5)), as a resource for creation rather than concealment.
+- Voice: third person on Kael; the Weber speaks in dialogue, his own Anteile in italics.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +48,26 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Patch-Bereitstellung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L266]
 - Story: „Kael versucht, ein in Kapitel 18 entdecktes Schlupfloch oder Exploit erneut zu verwenden, nur um festzustellen, dass es nicht mehr funktioniert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
 - Story: „Kael könnte sogar Zeuge werden, wie AEGIS eine Schwachstelle in Echtzeit 'patcht'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L267]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Chaitins Rauschen und das innere Kind“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
+
+- Who: „Kiko weint ununterbrochen, scheinbar ohne logische Kausalität“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
+- Establishes: „Rhys, der Pfleger-ANP, versucht sanft zu intervenieren“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS floods the Archiv's lower levels with Sinnleere
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „AEGIS schlägt zurück“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Cause: „Die Manipulation der parakonsistenten Logik zieht die Aufmerksamkeit von AEGIS auf sich.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
+- Story: „Die ConsensusEnf-Protokolle leiten eine massive Flutung der unteren Bibliotheksebenen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148] · the substance is „einer zähflüssigen, grauen Substanz, die beim Berühren jegliche emotionale Bedeutung aus Erinnerungen saugt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
+- Who: „Kael muss mit Kiko auf dem Rücken über wankende Büchertürme fliehen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -105,7 +143,8 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 
 ## Where the sources differ
 
-- **Title.** „KI-Ethik“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L578] (Konzept-Iteration Genesis) · „Z2-Reaktion + AEGIS-Intervention“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L683] (strukturierter Outline; „Z2-AEGIS-Intervention“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L997] konsolidiertes Konzept, so too storyform outline). The first is the strukturierter Outline's sensory note: „KI-Ethik-Kalkül, kalte Stimme, Logik die wie Schnitt funktioniert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L701] (strukturierter Outline).
+- **Title.** „KI-Ethik“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L578] (Konzept-Iteration Genesis) · „Z2-Reaktion + AEGIS-Intervention“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L683] (strukturierter Outline; „Z2-AEGIS-Intervention“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L997] konsolidiertes Konzept, so too storyform outline). The first is the strukturierter Outline's sensory note: „KI-Ethik-Kalkül, kalte Stimme, Logik die wie Schnitt funktioniert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L701] (strukturierter Outline) · „AEGIS schlägt zurück“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148] (the Hard-SF-Outline).
+- **The Kohärenz-Protokoll narrative.** Its title, „Saat im Möglichkeitsstrom“ ^[kohaerenz-protokoll.md:L1964] (the Kohärenz-Protokoll narrative, 2025-04-27), and its world: Ly, not KW2 — the Möglichkeits-Weber, not AEGIS' KI-Ethik, and no direct AEGIS-Intervention.
 
 ## Questions for this chapter
 

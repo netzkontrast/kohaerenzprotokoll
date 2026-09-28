@@ -1,0 +1,604 @@
+{
+  "document": "systemic-architecture-specification-the-coherence-protocol-w",
+  "drive_id": "1-X1DaPSkg92B_PDQ-C_y-OrTa1GQebVp_P10ca94nu8",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of seven documents read by the session and reconciled together — readings and record entries written by six Claude readers split by page group, from Plan/runs/readings-brief-documents-33-39.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 158,
+    "decisions": 171,
+    "decided_by_lookup": 125,
+    "needs_judgement": 46
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A world bible in English: everything it defines has a German page — DKT, kernels, Persistence Equation, Genesis, Guardians, worlds, alters, Vortex, Ouroboros — and goes there by the sentence (J100, J49). The AEGIS-Log Protocol and the External Level's reading role are in not_promoted.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        19,
+        20,
+        25,
+        28,
+        29,
+        34,
+        87,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "expanded, a Tragic God, from a self-amputation in the Genesis-Crisis, speaking only in logs"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        51
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "ANP (Protector)"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        34,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "AEGIS' terminal state, a god that counts without knowing why"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        51,
+        53,
+        78,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "and the Risse mapped to EPs"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        51
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "Special, somatic filter open"
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        15,
+        21,
+        34,
+        38,
+        41,
+        42
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the Coherons bypass time by PAL, love is indestructible, and Juna bridges atemporal K1 to the simulation"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        17,
+        21,
+        28,
+        34,
+        41
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "a failure of perception, and Juna non-representable"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        15,
+        21
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the K1 unit, the substrate of love, and `Liebe ist Coheron` in German"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        13,
+        15,
+        51,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the literal law and its bedrock, time emergent by PAL"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        17,
+        20,
+        42
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "AEGIS an Entropic Architecture, K0's pressure, and Juna its leak"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        15
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the K0 unit that makes the arrow of time, and the condition of history"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        38,
+        51,
+        55,
+        78,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the External Level (Cologne 2026), the substrate breakthrough, sustained by reading"
+    },
+    {
+      "page": "formel-inversion",
+      "lines": [
+        25,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the first sentence in English, a Tragic God's tautology"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        25,
+        27,
+        28,
+        29,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "three beats, Component 734 the precursor to Kael, and no fourth"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        34,
+        51,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "what follows the Gambit: a paraconsistent AEGIS"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "KW3's second name in English, `Border Fortress`"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        29,
+        33,
+        34,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "two Guardian Sub-Systems of AEGIS, and no older five"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        47,
+        51
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "heat and ozone AEGIS', cold Lex's, and nothing thermal of Juna's"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        51,
+        78
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "EP (Sexualized), the sensory Riss only"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        28,
+        34,
+        38,
+        46,
+        47,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "a structural position, Double-IC, never described, with two presence markers; no appearance placed"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        29,
+        51,
+        85,
+        86,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "a system of thirteen from a double trauma, the precursor Component 734, the Pivot in the Vortex"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        33,
+        55,
+        57,
+        59,
+        61,
+        62,
+        63,
+        64,
+        66,
+        67,
+        69,
+        71,
+        72,
+        74,
+        76,
+        77,
+        78,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "four Core Worlds in English, each a class, a style and a somatic, under the worldbuilding concept's two names"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        51,
+        78
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "EP (Freeze), the temporal Riss and no other"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        15,
+        19,
+        21,
+        27,
+        38,
+        47,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the Coherence Kernel of the Coherons, the substrate of love, and what AEGIS believes it is"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        15,
+        17,
+        20,
+        42
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the Collapse Kernel of the Erasons, the condition of history, and what AEGIS is"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        25,
+        29
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the third of three beats, the precursor to Kael"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "KW1 as the Construct-City (Logos-Prime): sterile, a constant 21°C, class P, no metaphors"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        17,
+        21,
+        51,
+        60,
+        78,
+        84,
+        87
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "Landauer heat as temperature spikes, cracks and ozone, KW1's constant 21°C, and the spike of Beat 4"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        51,
+        63
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "ANP (Rational), and the somatics of KW1"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        51,
+        78
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "EP (Ambivalent), and the spatial Riss alone"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        29,
+        33,
+        64,
+        84,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "one of two Guardian Sub-Systems, the Memory Keeper who manages the climax's archipelago"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "KW4 as Kairos-Potentialis (Garden of Possibilities), the whole world"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        36,
+        42
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "Juna's mathematical rigidity, twisted modules holding what the K0 timeline deleted"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        51,
+        78
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "EP (Collapse), the gravitational Riss"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        53,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the narrative objective, a Strange Attractor of the Wir"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        21
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "what AEGIS perceives as chaotic, the atemporal union of all mutual information"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        51,
+        78
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "EP (Fight), the kinetic Riss"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        51
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "Mirror, Erason Operator, somatic filter open"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        80,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the last image of Chapter 39 mirrors the first of Chapter 1, its meaning inverted"
+    },
+    {
+      "page": "persistenzgleichung",
+      "lines": [
+        17
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the efficiency of suppression, and the misreading that leads to the Great Inversion"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        33,
+        64,
+        65,
+        66,
+        67,
+        68,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "KW2's second name in English, `Resonance Landscape`"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        51
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "ANP (Caregiver)"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        17,
+        78
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "Landauer heat made visible, and triggers for it, mapped to five EPs with no Flight"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        51
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "ANP (ISH), Wormholes alone"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        51
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "Mirror, Coheron Echo, tunneling"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        47,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "a mandatory presence marker of Juna's, fuelling the rotation"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        28,
+        29,
+        51,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the second of three beats, and Kael's second trauma layer"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        49,
+        51,
+        53,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "the clinical foundation, a double trauma, and the phobia AEGIS exploits"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        33,
+        80,
+        82,
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      "attribution": "the Systemic Architecture Specification",
+      "note": "one Vortex in Chapters 35–36, the Driver-Pivot from B's Action-Driver to A's Decision-Driver, five beats"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      35,
+      36,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      11,
+      82,
+      88
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C9",
+    "C11",
+    "C12",
+    "C13",
+    "C14",
+    "C15"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (worlds named for Guardians), J56/J23 (plurals), J60, J70, J74/J93, J76–J78, J86, J90, J91 (Great Inversion apart from the Truth-Rotation), J98/J99, J100–J102 (English names placed by the sentence), J104, J51",
+  "records_read_and_not_changed": {
+    "C8": "`Be-er`, `Do-er` 0",
+    "C10": "`knuckles` 0",
+    "C11 (side)": "heat and ozone one trace, no cold ozone — see the entry"
+  },
+  "not_promoted": [
+    "AEGIS-Log Protocol — L34",
+    "External Level (Cologne 2026) as substrate breakthrough — L78, on externe-ebene",
+    "Dual Clocks — L88"
+  ],
+  "internal_tension": "It calls itself „the binding rulebook“; the Risse both the manifestation (L17) and the trigger (L78) of Landauer heat; the twisted modules hold what was deleted from the „temporal K0-timeline“ (L42), where other sources say K₁.",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 33–39: PageRank recall@8 0.654 → 0.644, only C11 (0.6 → 0.4)"
+}

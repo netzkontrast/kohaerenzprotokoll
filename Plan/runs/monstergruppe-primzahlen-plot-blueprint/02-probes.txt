@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      86
+  backslash escapes      56
+  typographic marks      52
+  ascii quotes           270
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systemdynamik, Systeme, Systememergence, Systemen, Systeminstabilität, Systemische, Systemkausalität, Systemkollaps, Systems, Systemweite, Systemzustand
+  inter    Interaktion, Interaktionen, Interconnected, Interkonnektivität, Interne, Interner, Internet, Interpretiert, Intervention
+  reali    Realisierung, Realität, Realitäten, Realitätsbrüche, Realitätsebene, Realitätsebenen, Realitätsgrundlage, Realitätsinstabilität, Realitätsmanipulationen
+  wider    Widerlegung, Widerspruch, Widersprüche, Widerstand, Widerstands, Widerstandsart, Widerstandsfähigkeit, Widersteht
+  chara    Character, Charakter, Charakterbogen, Charakterbogens, Charakterbögen, Charaktere, Charakterentwicklung
+  fakto    Faktor, Faktoren, Faktorisierbaren, Faktorisierung, Faktorisierungs, Faktorisierungsalgorithmen, Faktorisierungslogik
+  konze    Konzept, Konzepte, Konzeptfokus, Konzeptionelle, Konzeptioneller, Konzepts, Konzeptualisierung
+  analy    Analyse, Analyseobjekt, Analyseprobleme, Analysewerkzeuge, Analysiert, Analytischer
+  entsc    Entscheidung, Entscheidungen, Entscheidungsfindung, Entscheidungsprozess, Entschlossenheit, Entschlüsselung
+  gegen    Gegenangriff, Gegenkraft, Gegenmaßnahmen, Gegensatz, Gegensteuerung, Gegenteil
+  exist    Existential, Existenz, Existenzgrund, Existenzieller, Existenzweise
+  konst    Konstante, Konstanten, Konstrukt, Konstrukte, Konstruktion
+  kontr    Kontrolle, Kontrollierbareres, Kontrolllogik, Kontrollverlust, Kontrollversuche
+  poten    Potentialität, Potentialmeer, Potentialmeers, Potenz, Potenzial
+  verha    Verhalten, Verhaltens, Verhaltensmodellierung, Verhaltensweisen, Verhaltensänderung
+  versu    Versuch, Versuche, Versuchen, Versuchs, Versucht
+  überw    Überwachung, Überwachungsgrenzen, Überwachungssysteme, Überwindung, Überwältigende
+  angri    Angriff, Angriffe, Angriffs, Angriffsmethode
+  bewus    Bewusste, Bewusster, Bewusstsein, Bewusstseins
+  daten    Daten, Datenflüsse, Datenstrom, Datenvergiftung
+  eindä    Eindämmung, Eindämmungsprotokoll, Eindämmungsversuche, Eindämmungsversuchen
+  flüst    Flüster, Flüsternachrichten, Flüsternetzwerk, Flüsternetzwerks
+  handl    Handlung, Handlungen, Handlungsfähigkeit, Handlungstreiber
+  infor    Information, Informationen, Informationsaustausch, Informationsgewinn
+  metap    Metapher, Metaphern, Metaphor, Metaphors
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Artefakte
+  Akte < Charakter
+  Akte < Charaktere
+  Akte < Charakterbogen
+  Akte < Charakterbögen
+  Akte < Charakterbogens
+  Akte < Nebencharaktere
+  Akte < Charakterentwicklung
+  Bild < Hypothesenbildung
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Seine
+  Eine < Reiner
+  Eine < Bausteine
+  Eine < Durchscheinen
+  Ende < Enden
+  Ende < Kommende
+  Ende < Wachsende

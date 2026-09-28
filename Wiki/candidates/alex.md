@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 17
-readings: 17
+sources: 26
+readings: 26
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-24"
 ---
 
@@ -109,3 +109,47 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — ANP, Asymptotische Freiheit, → Wachstum
 
 Among the ANPs of the TSDP section: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] His row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „ANP | Alex (Protector) | Asymptotische Freiheit | → Wachstum" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L493]. Nothing else in the document names Alex (`grep -cw Alex`: 2; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — ANP (Protector)
+
+His row in its table of thirteen fragments: „ANP (Protector) | Alex | Asymptotic Freedom | Hypertonus/Bruxism | Growth" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. Nothing else in the document names Alex (`grep -cw Alex`: 1; `05-verify-readers.txt`).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Asymptotic Freedom, toward growth
+
+His row, in a table with no category column: „Alex,Asymptotic Freedom,Bruxism / High Tension,Toward Growth" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L64]. Nothing else in the document names Alex (`grep -cw Alex`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — ANP, from defensive protection to growth
+
+„ANP | Alex | Asymptotic Freedom | Hypertonus, bruxism ; Arc: From defensive protection to growth." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Nothing else in the document names Alex (`grep -cw Alex`: 1).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Protector, and one of the EP-Protectors
+
+His row, in a table with no ANP/EP column: „Alex (Protector) | Asymptotic Freedom | Hypertonus and bruxism (teeth grinding). | Reflects the strain of defensive growth." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Its section on computational classes puts him with Nyx: „NP-Hard: The mode of the EP-Protectors ( Nyx , Alex )." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L29] — `EP-Protectors`, as the Kernwelten document writes (above), where the rosters above call him ANP; neither of the two lines that name Alex gives him the label ANP (`grep -cw Alex`: 2; `05-verify-readers.txt`).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — ANP, the social protector whose switch in Kapitel 8 is the plan's example of foreshadowing
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. His row, category `ANP`: „Der soziale Protektor (Chamäleon)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L52] „Adaption an feindliche Systeme, Tarnung." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L52]
+His one scene is Kapitel 8, after the fight with Nyx: „Alex, der soziale Protektor, übernimmt kurzzeitig, um die Situation durch Deeskalation zu entschärfen." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L116] The twist architecture names his switches as its example of a symptom read first as cosmic intervention — „wenn etwa Alex' Fähigkeiten aufblitzen" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L86] — and the checklist's thirteenth fixed point puts „Alex' Diplomatie" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L227] in Kapitel 8. He is not among the five Kapitel 39 names as still there (L206); the checklist says no alter is eliminated (L225). Alex stands on four lines (`grep -cw Alex`: 4; `05-verify-readers.txt`).
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — one of the protector alters whose world the Grenzfeste embodies
+
+An English essay, no hedging. Named once, with Nyx, as an example of the world's makers: „the worldview of his protector alters, like Nyx and Alex, made manifest" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L57] — a fortress „built from paranoia, aggression, and the overwhelming impulse to create boundaries" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L57]. Nothing else in the document names Alex (`05-verify.txt`).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — Protector, with no correlate to fill in
+
+A compilation that audits its sources and marks its own gaps — recorded, not applied.
+**Function and motivation.** „Aktiver Schutz des Systems, Krisenmanagement, Wächter an der Grenze." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L95] „Sicherheit des Systems durch kalkuliertes, pragmatisches Handeln gewährleisten." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L97]
+**No DKT correlate.** Its own field for him is unfilled: „\[Fehlt in den Dokumenten - Lücke\]" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L103], listed among the fields its Lücken-Analyse says are missing for him.
+**Somatik.** „Hypervigilanz, ständige Anspannung der Muskeln ("Bracing for Impact")." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L105]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — a single switch, tactically searching a frozen room
+
+A report addressed to the author; recorded, not applied. Named once, taking over at Kapitel 7's frozen moment: „Abrupt findet ein "Switching" statt: Alex, der Beschützer-ANP, übernimmt exekutiv die Kontrolle und sucht den Raum taktisch ab." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67] „Die abrupte Übernahme wird dem Leser nicht erklärt, sondern durch einen plötzlichen Wechsel zu einer aggressiveren, hypervigilanten Syntax spürbar gemacht." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L67] `Alex` stands on this one line (`grep -cw Alex`: 1, `Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/05-verify.txt`); he is not in the eleven-alter table (L40–L43), so this document's own roster and its Kapitel 7 both name him, without relating the two lists.
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Protector ANP, of the eleven-alter roster only
+
+An English file of about fourteen reports of 2025. Alex stands in the Blueprint's and the Assessment's eleven-alter tables and not in the eight-alter tables of the Guide, the Framework or `An Architecture of the Self` (see [[alters]]). The Blueprint: „Alex | ANP (Protector) - Pragmatic, strategic protector managing crisis situations." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L849] „Motivation: Ensure the safety and stability of the system through calculated action." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L849] „Operates in a strategic but tense alliance with Lex. Often in conflict with Nyx over the *methods* of protection (pragmatism vs. rage)." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L849]
+
+The Assessment's table calls him a second ANP: „Alex | Sekundärer ANP (Protektor) | Aktiver Verteidiger, Krisenmanager | Scheitern des Schutzes, Instabilität, Ungerechtigkeit" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1619]
+
+The Blueprint's world table puts him in the Boundary Fortress with Nyx: „Defense, Paranoia, Boundaries (Domain of protectors like **Alex** and **Nyx**) | A defensive, brutalist fortress-labyrinth representing the phobias and amnesic barriers between Kael's alters." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L878]

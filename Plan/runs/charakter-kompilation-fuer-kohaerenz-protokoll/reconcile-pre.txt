@@ -1,0 +1,156 @@
+# reconcile-pre — charakter-kompilation-fuer-kohaerenz-protokoll
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+
+  131 candidates, 132 decisions — **104 by lookup, 28 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (2) — already recorded from this document — nothing to do
+  Komponente 734                       komponente-734
+  Gödel-Gambit                         goedel-gambit
+
+## new_reading (28) — page exists, this document is not on it yet — a reading
+  Kael                                 kael
+  Lex                                  lex
+  Alex                                 alex
+  Rhys                                 rhys
+  Selene                               selene
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  Juna                                 juna
+  Julia                                juna
+  Externe Ebene                        externe-ebene
+  Moonshine-Link                       moonshine-link
+  AEGIS                                aegis
+  Potentialmeer                        potentialmeer
+  Trennungsprotokoll                   trennungsprotokoll
+  Guardians                            guardians
+  LogOS                                logos
+  Mnemosyne                            mnemosyne
+  Cerberus                             cerberus
+  Kairos                               kairos
+  Sophia                               sophia
+  Algorithmische Melancholie           algorithmische-melancholie
+  Silas                                silas
+  Oblivion                             oblivion
+  Kernwelten                           kern-welten
+
+## new_term (74) — no page, no near match — a new page
+  Charakter-Dokumentation              
+  Hard Canon                           
+  Project Status Report                
+  Writer's Bible                       
+  Albumzyklus-Konzept                  
+  Roman-Refactoring                    
+  Narrative Kernentwicklung            
+  Täterstrategien                      
+  Krisenanalyse und Rettungsplan       
+  Tattoo-Konzept                       
+  Charakter-Bibel                      
+  Anteile                              
+  Kernfunktion                         
+  Sprachstil                           
+  DKT-Korrelat                         
+  Riss-Typ                             
+  Somatischer Marker                   
+  Entwicklungsbogen                    
+  ANP                                  
+  EP                                   
+  Host                                 
+  Origin Trauma                        
+  EP-Überflutung                       
+  Architekt der Schattenbühne          
+  Big Rip                              
+  Rationalist                          
+  Gödelscher Unvollständigkeitssatz    
+  Halteproblem                         
+  Protector                            
+  Bracing for Impact                   
+  Caregiver                            
+  Kudzu-Gewächs                        
+  Integrator                           
+  ISH                                  
+  Wächterin                            
+  Replica Wormholes                    
+  Entanglement Islands                 
+  Fight                                
+  CPT-Verletzung                       
+  Planck-Skala                         
+  Kalter Richter                       
+  Kaleidoskop-Herz                     
+  Quantensuperposition                 
+  Relational/Sensory Drift             
+  thermodynamischer Nullpunkt          
+  Archivar der Narben                  
+  Meta-Kognitiv                        
+  V                                    
+  externe Entität                      
+  6 Paraiyas                           
+  Prehension                           
+  Impact Character                     
+  Gnosis                               
+  Compassion Fatigue                   
+  Echokammer                           
+  Primal Directive                     
+  Qualia                               
+  Gaslighting                          
+  Skinner-Box                          
+  KW1                                  
+  KW2                                  
+  KW3                                  
+  KW4                                  
+  Eos                                  
+  Nox                                  
+  Limina                               
+  Praetor                              
+  Beziehungsmatrix                     
+  Widerspruchs-Register                
+  Alter-Liste                          
+  Lücken-Analyse                       
+  Trigger-Matrix                       
+  Dramatica                            
+  Whitehead                            
+
+## needs_judgement (28) — NEAR a known surface — one term or two?
+  System Kael  /  Kael                         near: each other
+  Phobie  /  Affektphobie                      near: each other
+  Hubble-Volumen  /  Hubble                    near: each other
+  Freeze  /  Big Freeze                        near: each other
+  Pauli-Ausschlussprinzip  /  Pauli            near: each other
+  Juna  /  Juna/V Paradoxon                    near: each other
+  exiliertes Ursprungs-Ich  /  Ursprungs-Ich   near: each other
+  LogOS  /  Logos-Prime                        near: each other
+  Mnemosyne  /  Mnemosyne-Archipel             near: each other
+  Cerberus  /  Cerberus-Labyrinth              near: each other
+  Kairos  /  Kairos-Potentialis                near: each other
+  TSDP-Analyse                                 near: tsdp→tsdp
+  Genesis-Krise                                near: genesis→genesis
+  System Kael                                  near: kael→kael
+  Kinetischer Glitch                           near: glitch→risse
+  Temporal/Stutter Glitch                      near: glitch→risse
+  Kollaps                                      near: kollapskernel→kollaps-kernel, kollapskernelk0→kollaps-kernel
+  Autonomous Entropic Gatekeeper for Integrity Systems near: entropicgatekeeper→aegis
+  autopoietisch                                near: arsautopoietischereentrysegmentierung→ars
+  Kohärenz Protokoll                           near: koharenz→kohaerenz
+  Kohärenztheorie der Wahrheit                 near: koharenz→kohaerenz
+  Paradox der Fehlausgerichteten Kohärenz      near: koharenz→kohaerenz
+  Logos-Prime                                  near: logos→logos
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  Cerberus-Labyrinth                           near: cerberus→cerberus
+  Kairos-Potentialis                           near: kairos→kairos
+  Juna/V Paradoxon                             near: juna→juna
+  Genesis-Event                                near: genesis→genesis
+
+## in_document_not_in_census (6) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Alters                               alters                       L326
+  Emergenz                             emergenz                     L284
+  Entropie                             entropie                     L296
+  Kohärenz                             kohaerenz                    L11
+  Glitch                               risse                        L166
+  TSDP                                 tsdp                         L355  (page already reads this document)
+

@@ -1,0 +1,528 @@
+{
+  "document": "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
+  "drive_id": "1dV9G30gZ9zmY_GRSfdN6yRfWZsPwPRgGyTNAZdhf9bI",
+  "step": "reconcile",
+  "at": "2026-09-28",
+  "by": "hand, after scripts/reconcile.py pre-classification; readings and record entries written by four Sonnet readers split by page group from Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/readings-brief.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 263,
+    "decisions": 266,
+    "decided_by_lookup": 205,
+    "needs_judgement": 61
+  },
+  "new_terms": [],
+  "why_no_new_terms": "About fourteen English reports on the novel: every figure, world and Guardian they name has a page, and what they add — two rosters, English world names, the Guide's voice rules, the Assessment's diagnosis — are readings on those pages. The Foundation, Praetor and the reports' own apparatus (Contradictory Footnotes, a Found Footage Epilogue) stand in one report each or are borrowed (IIT, Whitehead, Popper, Specification Gaming).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        217,
+        343,
+        356,
+        358,
+        363,
+        1210
+      ],
+      "attribution": "",
+      "note": "expanded and axiomatic, a tragic philosophical position, and stylistic laws for its voice"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        849,
+        878,
+        1619
+      ],
+      "attribution": "",
+      "note": "the Protector ANP, of the eleven-alter roster only"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        57,
+        62,
+        63,
+        819,
+        1407
+      ],
+      "attribution": "",
+      "note": "two rival causes, an IIT framing, and an ethics question"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        318,
+        405,
+        416,
+        417,
+        537,
+        838,
+        1594,
+        1605,
+        1615,
+        1616,
+        1688,
+        1718
+      ],
+      "attribution": "",
+      "note": "English, and two rosters, eight and eleven"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        853,
+        1622
+      ],
+      "attribution": "",
+      "note": "the eleven-alter roster's meta-cognitive Observer"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        1245
+      ],
+      "attribution": "",
+      "note": "the Guardian's name alone, for KW3, in the thematic analysis"
+    },
+    {
+      "page": "did",
+      "lines": [
+        1594
+      ],
+      "attribution": "",
+      "note": "the Assessment names it directly"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        33,
+        49,
+        53,
+        271,
+        298
+      ],
+      "attribution": "",
+      "note": "the Foundation's weak emergence, KW4's property, and Kael's own emergent capability"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        203,
+        579,
+        811
+      ],
+      "attribution": "",
+      "note": "Kael's healing misread as entropy, AEGIS' own working sense"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        25,
+        27
+      ],
+      "attribution": "",
+      "note": "the English `External Level`, named as the question C13 asks rather than answered"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        71,
+        75,
+        78
+      ],
+      "attribution": "",
+      "note": "no beats, and a question: what became of the other fragments"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        95,
+        302,
+        460,
+        1252,
+        1254,
+        1407
+      ],
+      "attribution": "",
+      "note": "`an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        588,
+        878,
+        1127,
+        1245
+      ],
+      "attribution": "",
+      "note": "the Cerberus-Labyrinth, a defensive brutalist fortress the Boundary Fortress in English"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        559,
+        609,
+        1151
+      ],
+      "attribution": "",
+      "note": "unnamed after the Gödel-Gambit, endlessly building and deconstructing a perfect wall, twice"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        851,
+        1617
+      ],
+      "attribution": "",
+      "note": "the eleven-alter roster's Sexualized EP, and no `Flucht`"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        25,
+        28,
+        36
+      ],
+      "attribution": "",
+      "note": "a transcendent entity, her nature held open as three questions, catalyst for healing"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        401,
+        515,
+        519,
+        1157
+      ],
+      "attribution": "",
+      "note": "the united protagonist, want against need, and the Gardener"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        1246
+      ],
+      "attribution": "",
+      "note": "one of KW4's two Guardians alone, joined with Sophia, in the thematic analysis"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        871,
+        876,
+        877,
+        878,
+        879,
+        971,
+        1243,
+        1244,
+        1245,
+        1246
+      ],
+      "attribution": "",
+      "note": "three namings for the same four worlds, and Possibilities against Potential for KW4"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        413,
+        846,
+        1046,
+        1204,
+        1304,
+        1615
+      ],
+      "attribution": "",
+      "note": "the Child EP, and `Flucht` in the Assessment (C15)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        571,
+        876,
+        1100,
+        1243
+      ],
+      "attribution": "",
+      "note": "Logos-Prime, sterile geometry, and Construct City where a report never gives it the Guardian's name"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        411,
+        476,
+        844,
+        1034,
+        1201,
+        1301,
+        1657
+      ],
+      "attribution": "",
+      "note": "the primary ANP, and a second name"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        850,
+        1616
+      ],
+      "attribution": "",
+      "note": "the eleven-alter roster's Ambivalent EP, and `Flucht` beside Kiko"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        1243
+      ],
+      "attribution": "",
+      "note": "the Guardian's name alone, for KW1, in the thematic analysis"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        602,
+        1244
+      ],
+      "attribution": "",
+      "note": "the Guardian's name alone, for KW2, in the thematic analysis"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        879,
+        971,
+        1246
+      ],
+      "attribution": "",
+      "note": "Kairos-Potentialis, and one file naming its aesthetic Possibilities in one report and Potential in another"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        29,
+        284,
+        286
+      ],
+      "attribution": "",
+      "note": "a living Gödel-Satz before the Gambit, and a gnostic injection"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        852,
+        1618,
+        1639
+      ],
+      "attribution": "",
+      "note": "the eleven-alter roster's Collapse EP, a dyad with Rhys"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        857,
+        1206,
+        1312,
+        1316,
+        1684
+      ],
+      "attribution": "",
+      "note": "English `functional multiplicity`, defined three ways and never fusion"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        1078,
+        1120
+      ],
+      "attribution": "",
+      "note": "the misreading named as AEGIS' central flaw"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        213,
+        777,
+        778,
+        957,
+        1584,
+        1739
+      ],
+      "attribution": "",
+      "note": "a hostile Potential Sea, never inverted into love or K1"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        412,
+        845,
+        1042,
+        1306
+      ],
+      "attribution": "",
+      "note": "Fight, positive intent, and a pronoun that will not settle"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        417,
+        535,
+        1713,
+        1715,
+        1725
+      ],
+      "attribution": "",
+      "note": "Shutdown-Response, in the eight-alter roster only"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        213
+      ],
+      "attribution": "",
+      "note": "the English `Potential Sea`, named as the Nichts-Rauschen itself"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        587,
+        877,
+        1126,
+        1244
+      ],
+      "attribution": "",
+      "note": "the Mnemosyne-Archipel, a chaotic landscape of manipulated memory, and the Resonance Landscape as its second name"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        414,
+        847,
+        1038,
+        1203,
+        1303,
+        1660
+      ],
+      "attribution": "",
+      "note": "the Relational ANP, mediator between Lex and Nyx"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        977,
+        1106,
+        1153,
+        1705
+      ],
+      "attribution": "",
+      "note": "a central visual motif of EP intrusion through phobic barriers, and the German word itself inside an English essay"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        415,
+        533,
+        537,
+        848,
+        1640,
+        1712,
+        1713,
+        1733
+      ],
+      "attribution": "",
+      "note": "ISH, and a classification the Framework itself calls contested"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        1246
+      ],
+      "attribution": "",
+      "note": "one of KW4's two Guardians alone, joined with Kairos, in the thematic analysis"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        1584,
+        1586
+      ],
+      "attribution": "",
+      "note": "a forced coherence partitioning, isolating Juna rather than dividing Kael (J114)"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        244,
+        246,
+        247,
+        249,
+        1594,
+        1605
+      ],
+      "attribution": "",
+      "note": "`an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        459,
+        865,
+        867
+      ],
+      "attribution": "",
+      "note": "the digital control plane, and a second English name for it in the same file"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": [
+      427,
+      440,
+      455,
+      459,
+      565,
+      899,
+      903,
+      1092
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C3",
+    "C6",
+    "C9",
+    "C12",
+    "C13",
+    "C15"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [
+    "J119",
+    "J120"
+  ],
+  "decided_by_existing_rules": "J49, J68, J88, J100 (English names by the sentence), J114 (Kohärenz-Partitionierung), J118, J20, J9",
+  "not_promoted": [
+    "Praetor — an alter of the eight-alter reports only, on alters",
+    "The Foundation — the Inquiry's processual ground of being, on juna and emergenz",
+    "Dr. Aris Thorne — Lex's name once (J119), on lex",
+    "the reports' borrowed theory (IIT, Φ, Whitehead's Prehension, Popper's Paradox of Tolerance, Specification Gaming, Perverse Instantiation, the Grand Argument Story)",
+    "the Editorial Guide's devices (Contradictory Footnotes, Found Footage Epilogue, choric and polyphonic we)"
+  ],
+  "internal_tension": "Two rosters in one file: eight alters with Praetor and Oblivion in four reports (the Guide calls its table „single, canonical, and unalterable\", L405), eleven with Alex, Lia, Isabelle, Moros and Argus in two (the Blueprint: „the ground truth\", L838); the last report names the split's sources (L1718). Nyx is „Her\" in the Exposé (L1042) and „his\" elsewhere. KW4 is the Garden of Possibilities (L879) and of Potential (L971).",
+  "baseline_moved": "PageRank recall@8 0.660 -> 0.654; only C4 moved, 0.556 -> 0.444"
+}

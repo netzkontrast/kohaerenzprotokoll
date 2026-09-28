@@ -1,0 +1,28 @@
+# 05-verify — the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko, 2026-09-27
+# grep -cwE = lines holding the word
+Kap                       0
+Chapter                   0
+Vortex                    0
+39                        0
+warm                      0
+heat                      3
+cold                      0
+ozone                     2
+knuckles                  1
+Knöchel                  0
+21 degrees                1
+Konstrukt-Stadt           0
+KW1                       0
+Guardian                  0
+Mnemosyne                 0
+LogOS                     0
+734                       0
+Trennungsprotokoll        0
+Separation                1
+Flight                    0
+Juna                      1
+Kael                      2
+AEGIS                     3
+Be-er                     0
+Do-er                     0
+first person              0

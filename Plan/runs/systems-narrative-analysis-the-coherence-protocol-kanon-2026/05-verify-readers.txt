@@ -1,0 +1,96 @@
+risse: grep -cw -e Riss-Typ -e EP-Trigger -e Flight -e Re-Containment -e Kernwelt Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Riss-Typ 0, EP-Trigger 0, Flight 0, Re-Containment 0, Kernwelt 0
+dkt: grep -cw -e DKT -e Dual-Kernel Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> DKT 2 (L21, L150), Dual-Kernel 0
+vortex: grep -cw -e Ch35 -e Ch36 -e 'Vortex 1' -e 'Vortex 2' -e Beat -e 'false victory' -e Archipel -e Convergence -e Silence -e Stille -e Rotation -e 'first person' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> Ch35 1, Ch36 0, Vortex 1 0, Vortex 2 0, Beat 0, false victory 0, Archipel 0, Convergence 0, Silence 0, Stille 0, Rotation 0, first person 0
+plot.md: grep -cw -e 39 -e Kap -e 'Kap 0' -e 'Kap 40' -e Akt -e Act -e Heldinnenreise -e Heldenreise -e Zyklus -e Kishōtenketsu -e Teil -e 34/35 -e 35/36 -e 36/37 Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> all 0; Ch 1 (L150, Ch. 3)
+algorithmische-melancholie: grep -cw -e Melancholy -e Melancholie -e Reliquie Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> Melancholy 1 (L125), Melancholie 0, Reliquie 0
+goedel-gambit (not read): grep -cw -e Gambit -e Gödel -e paradox -e Paradox Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> Gambit 0, Gödel 2 (L67, L69: Kael as IC-B, not the Vortex), paradox 0, Paradox 0
+kern-welten: grep -cw 'Core-Worlds' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 2
+kern-welten: grep -cw 'Kernwelt' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+kern-welten: grep -cw 'KW3' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+kern-welten: grep -cw 'KW4' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+kern-welten: grep -cw 'Echowald' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 4
+kern-welten: grep -cw 'Mnemosyne-Archipel' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+kern-welten: grep -cw 'Resonanz-Landschaft' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+kern-welten: grep -cw 'Grenz-Zonen' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+kern-welten: grep -cw 'Konstrukt-Stadt' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+konstrukt-stadt: grep -cw 'Konstrukt-Stadt' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+konstrukt-stadt: grep -cw 'Stadt' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+konstrukt-stadt: grep -cw 'city' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+konstrukt-stadt: grep -cw 'Logos-Prime' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+vergessener-schrein: grep -cw 'Trauma-Lokus' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 1
+vergessener-schrein: grep -cw 'Schrein' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 2
+vergessener-schrein: grep -cw 'schrein' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 1
+potentialmeer: grep -cw 'Potentialmeer' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+potentialmeer: grep -cw 'Sea' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 4
+potentialmeer: grep -cw 'Ursprungs-Ich' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+verschraenkungs-insel: grep -cw 'Verschränkungs-Insel' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+verschraenkungs-insel: grep -cw 'Island' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 2
+mnemosyne: grep -cw 'Mnemosyne' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 2
+mnemosyne: grep -cw 'Guardian' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+mnemosyne: grep -cw 'Guardians' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 1
+mnemosyne: grep -cw 'Archipel' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+logos: grep -cw 'LogOS' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 4
+logos: grep -cw 'absorbed' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+logos: grep -cw 'Logos-Prime' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+guardians: grep -cw 'Guardians' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 1
+guardians: grep -cw 'Guardian' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+guardians: grep -cw 'Erasure-Pol' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+guardians: grep -cw 'Lösch-Pol' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+guardians: grep -cw 'Cerberus' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+guardians: grep -cw 'Kairos' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+guardians: grep -cw 'Sophia' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+c4: grep -cw 'blind' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+c5: grep -cw 'Möglichkeits-Garten' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+c5: grep -cw 'Garten' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+c5: grep -cw 'garden' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+c5: grep -cw 'KW4' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+c9: grep -cw 'Konstrukt-Stadt' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+c9: grep -cw 'Stadt' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+c9: grep -cw 'city' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'ANI' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'ARS' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'ECR' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'PMS' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'RSA' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'SNK' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'ZTV' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'Nullpunkt' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'Suppression' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q2: grep -cw 'Re-Containment' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q3: grep -cw 'thirteen' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q3: grep -cw 'Alters' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 2
+q3: grep -cw 'Alter' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q4: grep -cw 'Wächter' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q4: grep -cw 'Wächterin' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q5: grep -cw 'Erasure-Pol' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q5: grep -cw 'Lösch-Pol' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q5: grep -cw 'absorbed' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q5: grep -cw 'Cerberus-Labyrinth' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+q5: grep -cw 'Kairos-Potentialis' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+landauer-signatur: grep -cw -e Landauer-Signatur -e Landauer -e ozone -e Ozon -e cold -e Cold -e kalt -e Kälte -e Knöchel -e 'Kap 6' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> Landauer-Signatur 0, Landauer 5, ozone 2, Ozon 0, cold 0, Cold 1 (L142), kalt 0, Kälte 0, Knöchel 0, Kap 6 0
+aegis: grep -cw -e Approach -e person -e Person -e POV -e voice -e Autonomous Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Approach 0, person 0, Person 0, POV 0, voice 0, Autonomous 0
+kael: grep -cw -e Approach -e Knöchel -e knuckles -e 734 Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Approach 0, Knöchel 0, knuckles 0, 734 0
+juna: grep -cw -e Kap -e Ch33 -e Ch38 -e Julia Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Kap 0, Ch33 0, Ch38 0, Julia 0
+alters: grep -cw -e thirteen -e 13 -e Nyx -e Kiko -e Lex -e Alex -e Rhys -e Selene -e Moros -e Flight -e Alters Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> thirteen 0, 13 1, Nyx 0, Kiko 0, Lex 0, Alex 0, Rhys 0, Selene 0, Moros 0, Flight 0, Alters 2
+multiplizitaet: grep -cw -e Multiplizität -e Kap -e Ch33 -e veil -e Schleier -e Fusion -e fusion Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Multiplizität 0, Kap 0, Ch33 0, veil 0, Schleier 0, Fusion 3, fusion 1
+lia: grep -cw -e Lia -e Flight Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Lia 1, Flight 0
+isabelle: grep -cw -e Isabelle -e Flight Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Isabelle 1, Flight 0
+argus: grep -cw -e Argus Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Argus 1
+silas: grep -cw -e Silas -e Juna-Echo -e warmth -e heat -e ozone Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Silas 1, Juna-Echo 0, warmth 2, heat 1, ozone 2
+oblivion: grep -cw -e AEGIS-Echo -e Erason -e cold -e Cold -e Oblivion Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> AEGIS-Echo 0, Erason 0, cold 0, Cold 1, Oblivion 1
+c7-juna-first-appearance: grep -cw -e Kap -e Ch33 -e Ch38 -e Juna Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Kap 0, Ch33 0, Ch38 0, Juna 10
+c8-aegis-approach-storyform-b: grep -cw -e Approach -e Resolve -e Steadfast -e Lock-In -e 2026-05-07 -e correction Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Approach 0, Resolve 0, Steadfast 0, Lock-In 0, 2026-05-07 0, correction 1
+c14-aegis-first-person-chapter: grep -cw -e person -e Person -e POV -e voice -e Voice -e Innensicht -e ich -e Ich -e first-person Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> person 0, Person 0, POV 0, voice 0, Voice 0, Innensicht 0, ich 0, Ich 0, first-person 0
+c10-knuckles-in-kap-1: grep -cw -e Knöchel -e knuckles Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Knöchel 0, knuckles 0
+c15-flight-riss-bearers: grep -cw -e Flight -e Kiko -e Riss-Typ -e Lia -e Isabelle Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> Flight 0, Kiko 0, Riss-Typ 0, Lia 1, Isabelle 1
+silas: grep -nw -e Silas Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 140 (the one line; it has no warmth, heat or ozone)
+juna: grep -nw -e Juna L118-L128 -> 0
+hitze-polaritaetsregel: grep -cw -e Polarität -e polarity -e cold -e Wärme Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> Polarität 0, polarity 0, cold 0, Wärme 0
+truth-rotation (not read): grep -cw -e Truth-Rotation -e Rotation -e K₀ -e K0 -e correspondence -e inversion Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> Truth-Rotation 0, Rotation 0, K₀ 0, K0 0, correspondence 0, inversion 0; truth 1 (L71, Kael as IC-B), not a rotation
+kap-35, kap-36: grep -cw -e Ch36 -e Kap -e Beat -e Archipel Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> Ch36 0, Kap 0, Beat 0, Archipel 0; the chapters stand only as Ch35-36 (L118)
+konstrukt-stadt: grep -cw 'temperature' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+c12-genesis-beats (not changed): grep -cw -e 734 -e Trennungsprotokoll -e Separation -e Component -e Komponente -e beat -e beats -e Genesis Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> 734 0, Trennungsprotokoll 0, Separation 0, Component 0, Komponente 0, beat 0, beats 0, Genesis 3 (L52, L54, L63: all „Genesis Crisis", IC-A's throughline, no beats)
+c2-entropie-sense: grep -cw -e Entropie -e Entropy -e entropy -e K₀ -e K0 -e Erason Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md (each alone) -> Entropie 0, Entropy 3, entropy 2, K₀ 0, K0 0, Erason 0
+guardians: grep -ciw 'drafts' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+guardians: grep -ciw 'reduced' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0
+guardians: grep -ciw 'earlier' Sources/drive/systems-narrative-analysis-the-coherence-protocol-kanon-2026.md -> 0

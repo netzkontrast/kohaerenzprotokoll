@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 15
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,25 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen den Cache-Konflikt in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; er ist die Destabilisierung, mit der der zweite Spiral-Zyklus beginnt. Kael versucht eine komplexe Aufgabe über mehrere Kernwelten zu lösen und scheitert an einem Cache-Konflikt zwischen seinen Anteilen, multi-alter und dyssynchron, in KW2 und laut dem Kapitel-Kompendium, der Storyform-Outline und Kernwelten vollständig im Zeichen des Qualia-Informationsparadoxes, des Harten Problems. Storyform A führt die MC-Concern Memory, Storyform B die OS-Physics, in der AEGIS' Topologie-Manipulation sichtbar wird; die strukturierte Outline führt beide Storyforms zugleich und setzt den Genesis-Flashback als Bridge. Laut der strukturierten Outline und der Storyform-Outline beginnen hier die Genesis-Flashbacks mit der Cluster-Bildung, die Kael als fremde Daten erlebt, nicht als eigene Erinnerung; das Kapitel-Kompendium lässt hier den Flashback-Cluster beginnen, dessen Folge von Einheit, Trennungsprotokoll und Komponente 734 keinen Cluster-Beat kennt, und Kernwelten vollständig lässt die Flashbacks erst bei der Lyons-Kreativität beginnen. Laut der Plot-Konkretisierung erscheint in Kaels Zuweisung, in einer Szene getrennt vom Flashback, ein Datensatz mit leerem Datentyp-Feld, den Kael zu grüßen beginnt, und asynchrone Sensorik und Glitch-Texturen tragen das Kapitel.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „AEGIS' Eskalation: Reprogrammierung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L201]
+
+- Establishes: „versucht AEGIS eine drastischere Maßnahme“ ^[monstergruppe-primzahlen-plot-blueprint.md:L204]
+- Kael's arc: „zwingt Kael aber auch, seine Integration und seine Verbindung zu M und J zu festigen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L206]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the intervention this document's own Kapitel 17 already calls past
+
+Title: „Systemantwort“ ^[kohaerenz-protokoll.md:L1864]
+Position: „AEGIS' Risse / KI-Ethik (Grenzen der Kontrolle)“ ^[kohaerenz-protokoll.md:L1866] · „Zyklus 1, Phase 4: AEGIS' Intervention“ ^[kohaerenz-protokoll.md:L1868]
+
+- Where: still Beta-Rho-5.
+- Story: AEGIS tries to force Co1-style geometric order on the chaos world to break Kael's refusal, and its own Guardian, the Chaos-Regulator, splits between that order and the Juna-resonance Kael offers it, then fuses the two into something new, „Kohärenz ist nicht Einheitlichkeit.“ ^[kohaerenz-protokoll.md:L1938]; the system flags the Guardian's own drift as a breach of protocol.
+- Sequence: this chapter narrates the averting of the very Beta-Rho-5 collapse that this document's Kapitel 17 — headed one cycle later, „Zyklus 2“ ^[kohaerenz-protokoll.md:L1758] — already treats as past. State it; the order does not reorder.
+- Voice: third person on Kael; the alarm stands in capitals, and the split Guardian speaks with two voices at once, „eine kalt und logisch, die andere chaotisch und emotional“ ^[kohaerenz-protokoll.md:L1910], both as dialogue.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +49,33 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Das Schlupfloch-Verzeichnis“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L253]
 - Story: „eine Regel, die von LogOS in KW1 streng durchgesetzt wird, von Cerberus in KW3 leicht anders oder weniger rigoros interpretiert wird“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
 - Story: „eine mentale (oder versteckte physische/digitale) Liste dieser kleineren Exploits und Inkonsistenzen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Das Qualia-Paradoxon und die Dominanz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L93]
+
+- Who: „Kael begegnet Isabelle, dem sexualisierten Kampf-EP, die einen ganzen Sektor der Resonanz-Landschaft mit grausamer Dominanz kontrolliert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L93]
+- Establishes: „wird aber von der toxischen, erstickenden Hitze ihrer Präsenz (K0) an die Wand gedrückt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L93]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Lia teaches Kael the Archiv's paraconsistent logic
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Der Tanz der Widersprüche“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Where: „Um durch das Archiv zu navigieren, in dem Räume ihre Position wechseln, sobald man sie verlässt, muss Kael die parakonsistente Logik adaptieren.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
+- Who: „Lia, die ambivalente Träumerin, übernimmt die kognitive Führung.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
+- Story: „Sie lehrt Kael, zwei absolut gegensätzliche Überzeugungen gleichzeitig zu halten“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
+- Establishes: „Diese kognitive Dissonanz erlaubt es ihnen, Wände als reine Suggestion zu durchschreiten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — one entry shared with Kap 8
+
+A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
+
+- Werk-Beleg for Storyform A's MC Resolve Change: „Die Entwicklung des „Kael-Self\_Integrator“ und die Heilung innerer Konflikte in Kapitel 8 und 18.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L100] — one entry for both chapters, not a reading of Kapitel 18 alone.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -131,7 +177,8 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 - **Where the Genesis flashbacks begin.** „Beginn Genesis-Flashback-Cluster.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (Kapitel-Kompendium) · „Erster Genesis-Flashback (Bridge): Cluster-Bildung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L669] (strukturierter Outline) · „Kap 20 | KW2 / Genesis-Flashback“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Flashbacks beginnen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] (Kernwelten vollständig), whose row for this chapter is „Qualia-Informationsparadox“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844] · „Hartes Problem“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844] (Kernwelten vollständig). (C12) · „Genesis-Flashbacks (Kap 18–22)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L59] (the philosophy catalogue), a range with no beat.
 - **Kap 18's Genesis beat.** „Genesis-Beat 2 (Cluster) wird flashback-mäßig durch Kael durchgespielt; er erlebt fremde Erinnerungen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L576] · „mit präzisen Beats in 18 (Cluster), 21 (Trennungsprotokoll), 22 (Komp 734). Aber das sind Vorschläge.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790] (Konzept-Iteration Genesis) · „Kap 18–22 — Genesis-Flashback-Cluster“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] · „Einheit → Trennungsprotokoll → Kael = Komp 734“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] (Kapitel-Kompendium), a sequence with no Cluster-Bildung beat. (C12)
-- **Title.** „Z2-Cache-Konflikt + Genesis-Cluster“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L995] (konsolidiertes Konzept; „Cache-Konflikt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L574] Konzept-Iteration Genesis) · „Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L659] (strukturierter Outline) · „Qualia-Informationsparadox“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as „(Zyklus-Funktion: Z2-Cache-Konflikt)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343] (storyform outline). · „Kap 18 — Qualia-Informationsparadox“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L369] (the philosophy catalogue, as its theory anchor).
+- **Title.** „Z2-Cache-Konflikt + Genesis-Cluster“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L995] (konsolidiertes Konzept; „Cache-Konflikt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L574] Konzept-Iteration Genesis) · „Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L659] (strukturierter Outline) · „Qualia-Informationsparadox“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as „(Zyklus-Funktion: Z2-Cache-Konflikt)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343] (storyform outline). · „Kap 18 — Qualia-Informationsparadox“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L369] (the philosophy catalogue, as its theory anchor) · „Der Tanz der Widersprüche“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L146] (the Hard-SF-Outline).
+- **The Kohärenz-Protokoll narrative.** Its title, „Systemantwort“ ^[kohaerenz-protokoll.md:L1864] (the Kohärenz-Protokoll narrative, 2025-04-27); no Genesis flashback and no Komp 734 — the chapter stays in Beta-Rho-5's present, where AEGIS' forced order transforms its own Guardian.
 
 ## Questions for this chapter
 

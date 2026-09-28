@@ -1,0 +1,366 @@
+{
+  "document": "mining-report-kohaerenz-protokoll-plot-outline-construction",
+  "drive_id": "1LqT179b0cXQ4TTXw5-aopBkOHBfFC4coNmnD1rqUeXA",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of seven documents read by the session and reconciled together — readings and record entries written by six Claude readers split by page group, from Plan/runs/readings-brief-documents-33-39.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 103,
+    "decisions": 99,
+    "decided_by_lookup": 76,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A seed catalogue: eleven seeds propose sensory material for things the wiki pages. Its unmatched candidates are seed titles, Dramatica labels and its English phrasing of paged things (J100).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        27,
+        29,
+        50,
+        52,
+        65,
+        72,
+        75
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the Do-er of Storyform B, a tragic resource manager, erasure in its operative nature"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        27,
+        75
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "felt in the maintenance loop, and terminal in the Vortex's fifth point"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        21,
+        23,
+        71,
+        79,
+        90,
+        117
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "thirteen by its canon claim, seeds for the missing, three names struck"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        83,
+        108
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "a seed: hyper-vision, the perceptual alter"
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        37,
+        65
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the adjective, for what Juna's link carries and what the silence registers"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        15,
+        21,
+        90
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the two kernels' collision as the novel's Grand Argument, never under the theory's name"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19,
+        27,
+        116
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "what Kael's memory is buffered against, and AEGIS never called it"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        67,
+        73,
+        75
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the Gambit as AEGIS' own, in the fifth point of the Vortex"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        21,
+        22,
+        29,
+        37,
+        54,
+        84
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "Juna's link as a drop in temperature, ozone at a K1 buffer, heat from erasure and from preservation"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        82,
+        106
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "a seed: rigid geometry, the structural architect"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        36,
+        37
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the IC of A as a situational anomaly, and a drop in temperature; no appearance placed"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        38,
+        39,
+        65,
+        73
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the Be-er of A in Psychology, the IC of B as a thermodynamic scar"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        15,
+        19,
+        27,
+        48,
+        65
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "Kael's reality in Storyform A, and what AEGIS believes it is"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        15,
+        27,
+        48,
+        65,
+        96,
+        102
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the Erasure Kernel that governs AEGIS"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        21,
+        22,
+        30,
+        37,
+        46,
+        54,
+        74
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "Landauer-Wärme spikes in AEGIS' logs, ozone at a K1-buffer event, and the spike of Vortex Beat 4"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        81,
+        104
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "a seed: phantom resonance, the carrier of somatic pain"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        67,
+        71
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "only her archipelago, the Vortex's first beat"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        36,
+        37,
+        64,
+        100
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "Juna as a situational anomaly, a drop in temperature, and a boundary longed across"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        23,
+        79,
+        94
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the end goal, and the missing alters it needs"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        84
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "one half of a seed's carrier"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        39,
+        56
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the RIFT as AEGIS logs it and as Kael sees it"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        84,
+        110
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "a seed shared with Oblivion: a sensory void, no thermal signature"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        65
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the telephone call as the Trennungsprotokoll's refutation"
+    },
+    {
+      "page": "thermodynamischer-phaenomenalismus",
+      "lines": [
+        15,
+        22,
+        38
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "not named; qualia on K1's side colliding with K0's thermodynamics at the Explanatory Gap, and a thermodynamic scar that is felt"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        29,
+        46,
+        56,
+        65,
+        115
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "Storyform B's Objective Story: a running quarantine, and an illusion"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        19,
+        90
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "the diagnosis Kael resolves by integration, in thirteen"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        21,
+        30,
+        67,
+        69,
+        71,
+        72,
+        73,
+        74,
+        75,
+        77,
+        90,
+        98
+      ],
+      "attribution": "the Plot/Outline Mining-Report",
+      "note": "one Vortex in Chapters 35–36, five points, the pivot AEGIS' and the Gödel-Gambit in the fifth"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      11,
+      15,
+      17,
+      21,
+      22,
+      23,
+      30,
+      60,
+      67,
+      69,
+      71,
+      72,
+      75,
+      90
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C7",
+    "C8",
+    "C11",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q2",
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (worlds named for Guardians), J56/J23 (plurals), J60, J70, J74/J93, J76–J78, J86, J90, J91 (Great Inversion apart from the Truth-Rotation), J98/J99, J100–J102 (English names placed by the sentence), J104, J51",
+  "records_read_and_not_changed": {
+    "C9": "`city`, `Konstrukt-Stadt` 0",
+    "C13": "`Cologne` 0",
+    "C15": "`Flight` 0"
+  },
+  "not_promoted": [
+    "Garbage Collector — AEGIS' protocols named once (L23)",
+    "Tarski-Schema — L39",
+    "Telephone-Call Anchor, Living Silence — L65, on telefon-stille"
+  ],
+  "internal_tension": "Juna's presence as „A sudden drop in ambient temperature“ (L37), cold where the lock gives her warmth; the pivot is AEGIS' limit, Kael accepts only in the third point; the fifth point a „terminal Gödel-Gambit“.",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 33–39: PageRank recall@8 0.654 → 0.644, only C11 (0.6 → 0.4)"
+}

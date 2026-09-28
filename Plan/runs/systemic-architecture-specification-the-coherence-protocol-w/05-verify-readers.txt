@@ -1,0 +1,110 @@
+kohaerenz-kernel: grep -cw -e 'Kael = K1' -e 'Kael is K1' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Kael = K1 0, Kael is K1 0
+kohaerenz-kernel: grep -n Kael Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md | grep -c K1 -> 0 (no line names Kael and K1 together)
+kern-welten: grep -cw 'Act' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+kern-welten: grep -cw 'Chapter' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+konstrukt-stadt: grep -cw 'Act' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+moeglichkeits-garten: grep -cw 'Garten' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+moeglichkeits-garten: grep -cw 'Kairos' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+resonanz-landschaft: grep -cw 'Resonanz-Landschaft' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+resonanz-landschaft: grep -cw 'Resonanzlandschaft' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+resonanz-landschaft: grep -cw 'Act' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+grenzfeste: grep -cw 'Grenzfeste' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+grenzfeste: grep -cw 'Act' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+vortex: grep -cw -e 'Vortex 1' -e 'Vortex 2'  Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Vortex 1 0, Vortex 2 0
+externe-ebene: grep -cw 'outside' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+externe-ebene: grep -cw 'beyond' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+externe-ebene: grep -cw 'Basisrealität' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+externe-ebene: grep -cw 'simulation' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+guardians: grep -cw 'absorbed' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+guardians: grep -cw 'absorbing' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+guardians: grep -cw 'LogOS' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+persistenzgleichung: grep -cw -e 'breaks' -e 'break' -e 'climax' -e 'Climax' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> breaks 1, break 0, climax 1, Climax 0
+goedel-gambit: grep -cw -e 'Gödel' -e 'Gödel-Gambit'  Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Gödel 2, Gödel-Gambit 1
+nichts-rauschen: grep -cw -e 'banish' -e 'banishing' -e 'banished' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> banish 0, banishing 0, banished 0
+logos: grep -cw 'LogOS' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+logos: grep -cw 'Logos-Prime' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+cerberus: grep -cw 'Cerberus' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+cerberus: grep -cw 'Cerberus-Labyrinth' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+kairos: grep -cw 'Kairos' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+kairos: grep -cw 'Kairos-Potentialis' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+lex: grep -cw (each alone) Lex Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Lex 2
+alex: grep -cw (each alone) Alex Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Alex 1
+rhys: grep -cw (each alone) Rhys Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Rhys 1
+selene: grep -cw (each alone) Selene Entanglement Islands Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Selene 1, Entanglement Islands 0
+nyx: grep -cw (each alone) Nyx Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Nyx 2
+kiko: grep -cw (each alone) Kiko Flight Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Kiko 2, Flight 0
+lia: grep -cw (each alone) Lia Flight Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Lia 2, Flight 0
+isabelle: grep -cw (each alone) Isabelle Flight Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Isabelle 2, Flight 0
+moros: grep -cw (each alone) Moros Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Moros 2
+argus: grep -cw (each alone) Argus Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Argus 1
+silas: grep -cw (each alone) Silas Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Silas 1
+oblivion: grep -cw (each alone) Oblivion Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Oblivion 1
+alters: grep -cw (each alone) alters Alters Flight Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> alters 0, Alters 0, Flight 0
+c15-flight-riss-bearers: grep -cw (each alone) Flight Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> Flight 0
+ouroboros-struktur: grep -cw -e 'Ouroboros' -e 'telephone' -e 'phone' -e 'Chapter 0' -e 'Chapter 40'  Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Ouroboros 1, telephone 0, phone 0, Chapter 0 0, Chapter 40 0
+vermittler-stimme (not read): grep -cw -e 'Vermittler' -e 'narrator' -e 'Vorwort' -e 'Prologue' -e 'Kap' -e 'Chapter' -e 'Wir-Stimme' -e 'We-Voice'  Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Vermittler 0, narrator 0, Vorwort 0, Prologue 0, Kap 0, Chapter 1, Wir-Stimme 1, We-Voice 1
+sophia: grep -cw 'Sophia' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+atemporalitaet: grep -cw -e 'temporal' -e 'sensors' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> temporal 1, sensors 1
+aegis: grep -ciw person -> 0; grep -cw POV -> 0
+formel-inversion: grep -c Wir-AEGIS -> 0; grep -cw preserves -> 0
+algorithmische-melancholie: grep -c Reliqu -> 0
+aegis-teilfunktionen: grep -ci zero-trust -> 0; grep -ci firewall -> 0; grep -ci 'integrity guardian' -> 0; grep -cw SIS -> 0
+blinder-fleck: grep -ciw blind -> 0
+thermodynamischer-phaenomenalismus: grep -ci 'Phänomenalismus' -> 0; grep -ci 'Phenomenalism' -> 0; grep -ciw qualia -> 0; grep -ci 'explanatory gap' -> 0
+c1-aegis-expansion: grep -c Autogenic -> 0; grep -c 'Generative Integrity' -> 0
+c3-emergenz-origin: grep -c Emergenz -> 0; grep -ciw emergent -> 1
+c14-aegis-first-person-chapter: grep -ciw person -> 0; grep -cw POV -> 0
+c4: grep -cw 'blind' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+kael: grep -cw 'knuckles' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+kael: grep -cw 'Be-er' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+juna: grep -cw 'Kap' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+juna: grep -cw 'Ch' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+genesis: grep -cw 'fourth' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+genesis: grep -cw '4th' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+genesis: grep -cw 'Trennungsprotokoll' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+genesis: grep -cw 'Komponente' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+genesis: grep -cw 'Kap' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+genesis: grep -cw 'Ch' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+trennungsprotokoll: grep -cw 'Separation Protocol' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 2
+trennungsprotokoll: grep -cw 'Trennungsprotokoll' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+komponente-734: grep -cw 'Component 734' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+komponente-734: grep -cw 'Komponente' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+komponente-734: grep -cw 'Kap' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+komponente-734: grep -cw 'Ch' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+multiplizitaet: grep -cw 'Kap' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+multiplizitaet: grep -cw 'Ch' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+did: grep -cw 'DID' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+did: grep -cw 'DIS' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+telefon-stille: grep -cw 'Kap' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+telefon-stille: grep -cw 'Ch' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+cache-kohaerenz: grep -ciw 'Cache' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c7-juna-first-appearance: grep -cw 'Kap' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c7-juna-first-appearance: grep -cw 'Ch' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c10-knuckles-in-kap-1: grep -cw 'knuckles' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c12-genesis-beats: grep -cw 'fourth' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c12-genesis-beats: grep -cw '4th' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c12-genesis-beats: grep -cw 'Trennungsprotokoll' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c12-genesis-beats: grep -cw 'Komponente' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c12-genesis-beats: grep -cw 'Kap' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c12-genesis-beats: grep -cw 'Ch' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+kap-01, kap-39: grep -cw -e 'Chapter' -e 'Act' -e 'Chapter 0' -e 'Chapter 40' -e 'Chapter 37' -e 'Chapter 38'  Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Chapter 1, Act 0, Chapter 0 0, Chapter 40 0, Chapter 37 0, Chapter 38 0
+kap-35, kap-36: grep -cw -e 'Vortex 1' -e 'Vortex 2'  Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Vortex 1 0, Vortex 2 0
+tsdp: grep -ciw 'extended' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+tsdp: grep -ciw 'typical' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+c8 (not changed): grep -cw -e 'Do-er' -e 'Be-er' -e 'Approach' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Do-er 0, Be-er 0, Approach 0
+q2: grep -cw 'ANI' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+q2: grep -cw 'ARS' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+q2: grep -cw 'ECR' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+q2: grep -cw 'PMS' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+q2: grep -cw 'RSA' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+q2: grep -cw 'SNK' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+q2: grep -cw 'ZTV' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+q2: grep -cw 'Nullpunkt' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+q2: grep -cw '12' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+plot.md: grep -cw -e '39' -e 'Kap' -e 'Chapter' -e 'Act' -e 'Akt' -e 'Storyform' -e 'Driver' -e 'Heldinnenreise' -e 'Hero's Journey' -e 'Kishōtenketsu' -e 'Vortex' -e 'Vortex 1' -e 'Vortex 2' -e 'Beat' -e 'Ch' -e 'Chapter 0' -e 'Chapter 40' -e 'Ch. 0' -e 'Ch. 40'  Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> 39 1, Kap 0, Chapter 1, Act 0, Akt 0, Storyform 3, Driver 1, Heldinnenreise 0, Hero's Journey 0, Kishōtenketsu 0, Vortex 2, Vortex 1 0, Vortex 2 0, Beat 2, Ch 0, Chapter 0 0, Chapter 40 0, Ch. 0 0, Ch. 40 0
+q4: grep -cw 'Wächter' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 0
+q4: grep -cw 'guardian' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md -> 1
+landauer-signatur, hitze-polaritaetsregel, c11: grep -cw -e 'Landauer-Signatur' -e 'warm' -e 'warmth' -e 'Wärme' -e 'cold' -e 'Cold' -e 'coldness' -e 'Kälte' -e 'kalt' -e 'heat' -e 'ozone' -e 'Ozon' -e 'polarity' -e 'Polarität' -e 'Kap' -e 'Kap 6' -e 'Kap 36' -e 'Juna' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Landauer-Signatur 0, warm 0, warmth 0, Wärme 0, cold 0, Cold 1, coldness 0, Kälte 0, kalt 0, heat 5, ozone 2, Ozon 0, polarity 0, Polarität 0, Kap 0, Kap 6 0, Kap 36 0, Juna 4
+truth-rotation (not read): grep -cw -e 'Truth-Rotation' -e 'Truth Rotates' -e 'Rotation' -e 'rotation' -e 'Great Inversion' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Truth-Rotation 0, Truth Rotates 0, Rotation 1, rotation 1, Great Inversion 1
+moonshine-link: grep -cw -e 'Moonshine-Link' -e 'Moonshine' -e 'j-invariant' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Moonshine-Link 1, Moonshine 2, j-invariant 0
+risse: grep -cw -e 'Riss' -e 'Risse' -e 'Flight' -e 'Re-Containment' -e 'Kernwelt' Sources/drive/systemic-architecture-specification-the-coherence-protocol-w.md (each alone) -> Riss 0, Risse 2, Flight 0, Re-Containment 0, Kernwelt 0

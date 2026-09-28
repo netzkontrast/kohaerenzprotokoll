@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 2
-readings: 1
+sources: 4
+readings: 3
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -54,6 +54,26 @@ option anticipated: **neither, because [[aegis|AEGIS]] cannot see it at all.** S
 
 The marker matters: `[User Query]` means the project supplied this, and the
 research reasoned from it rather than concluding it.
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Psychological Exposé — the misreading named as AEGIS' central flaw
+
+The Exposé names the misreading as the flaw that drives the plot:
+
+> „This fundamental error, the **"Negentropie-Fehlinterpretation,"** drives the
+> entire plot." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1078]
+
+The untitled three-act text applies the same term to the same mechanism:
+
+> „Driven by its **"Negentropie-Fehlinterpretation"**—a pathological misreading
+> of healing as chaos—AEGIS flawlessly executes its flawed goal by launching
+> targeted attacks to reinforce Kael's fragmentation." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1120]
+
+English throughout; the German name for the flaw stands untranslated inside both
+English passages.
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — Storyform A's outcome, new order patterns replacing AEGIS' toxic structure
+
+A research report; recorded, not applied. It gives negentropy as Storyform A's `Outcome: Success` evidence, a year after the two 2025 readings: „Outcome: Success — Werk-Beleg: AEGIS' toxische Struktur wird überwunden, und neue Ordnungsmuster (Negentropie) etablieren sich." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L84] So it is an assertion, not a question — the first read source to state that negentropic order emerges, where it names AEGIS' own structure as what is overcome rather than the Kael-Juna bond as what supplies it. It does not use the word again and does not relate it to [[aegis|AEGIS]]' blind spot (`Negentropie` on that line only; `Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`).
 
 ## Status
 

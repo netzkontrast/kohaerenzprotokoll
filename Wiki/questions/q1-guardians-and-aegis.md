@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -252,3 +252,85 @@ It holds: the Wächterprogramme reside in KW3, and no sentence makes them AEGIS'
 Where they are: KW3, „Hier residieren die Wächterprogramme." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L439]; the Kernwelten are „*nicht* je-ein-Guardian" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427]. They are told as AEGIS is: „AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L507] And the Vortex's first beat: „Konvergenz Mnemosyne-Archipel → AEGIS-Erasure" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L619].
 `Komponente` and `Erasure-Pol` stand 0 times (`05-verify-readers.txt`).
 Nearest the konsolidiertes Konzept's *components* — listed in the part on AEGIS, resident where the world is run — without a sentence that says so; the earlier programs are reduced, not replaced by AEGIS. Q1 stays open.
+
+## 2026-09-27 — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis
+
+**AEGIS' defences and its instruments: Guardians as antibodies in a world AEGIS uses, Mnemosyne and LogOS as interfaces AEGIS works through — none called part of AEGIS, none called a Guardian but the unnamed plural.**
+It calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11]; recorded, not applied. Its seeds are proposals.
+„AEGIS uses KW1's visibility and sterile monotony to suppress emotional "Fluidity."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L82] „Guardians act as antibodies, redirecting Kael away from the "unproductive" reflection found in the shadows of KW2." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L82]
+„AEGIS uses the LogOS interface to convince Kael that the "Risse" are his own "Logic Errors."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L116] At the „Focus:**  Mnemosyne Interface" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L73]: „The system detects a memory of Juna and initiates a  **"Zensur-Loop"**  for the purpose of  **"Abgrenzung" (Source: Plot-Exploration Concept 2)** ." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L74]
+`Guardian` 0, `Guardians` 1; neither Mnemosyne nor [[logos|LogOS]] is called a Guardian (`05-verify-readers.txt`).
+Nearest *components*: an antibody is the body's own, an interface the system's surface. No sentence says a Guardian is part of AEGIS, and the two interfaces it names are not called Guardians. Q1 stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Components, in the word: two `Guardian Sub-Systems` of AEGIS.**
+It calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88]; recorded, not applied. At the end of the Genesis-Crisis, AEGIS sets itself up over the severed parts, and then: „AEGIS utilizes two Guardian Sub-Systems" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29] — „Mnemosyne: The Memory Keeper. She manages the Mnemosyne-Archipel." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L33] and the Erasure-Pol, „The executive pole of deletion." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L34]
+Nearest *components*, stated as architecture: a sub-system is part of the system that uses it. No earlier Guardians are named, so nothing is said to be replaced.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**Instruments of AEGIS' mission — used, not said to be parts.**
+„To execute this mission, AEGIS utilizes two Guardians:" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L48] — Mnemosyne and „The Erasure-Pol: The executioner responsible for the active suppression of anomalies." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L50] Both in dissonance with what they serve: „The thing I protect is the disease." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L50]
+Something AEGIS uses for its mission, as in the Dual-Storyform background document's `Guardian-Deployments`; neither component nor peer is said. Q1 stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**Under AEGIS' own section, one of them its `executive arm`.**
+„The Two Guardians" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L49] stands under the part headed for AEGIS, beside its „Primary Protocols" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L54]. „The Erasure-Pol: The executive arm of K0-deletion, absorbing the functions of logic and temporal control to enforce the "Multiplicity Veil."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L52]
+An arm is part of the body it acts for: nearest *components* for the Erasure-Pol; Mnemosyne is given no relation of her own (L51). What the pole absorbs are functions of an earlier design, unnamed (Q5). Q1 stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**Inside AEGIS: sub-agents of it as a totality, its internal protocols, activated by it — and after the climax, rebel programmes within its architecture.**
+Hypothesis H2, rejected: „Die zweite Hypothese verschiebt AEGIS-als-Totalität in die Objective Story (OS, Physics-Domain) und erhebt einen Guardian-Sub-Agenten zum Main Character (MC, Mind-Domain)." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L49] In AEGIS' own throughline: „Der zweite Szenen-Keim beschreibt, wie interne Guardian-Protokolle eine drohende System-Überlastung melden." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L111] Its Driver: „AEGIS löst massive Trennungsprotokolle aus, führt weitreichende Erasure-Sweeps durch und aktiviert die Guardians." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L264] One of them is a `Subroutine`: „Der erste Raum ist das Kontrollzentrum der Subroutine LogOS, geprägt von absoluter, erdrückender Überwachung." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L255]
+And under „Q3 Wächter-Zwiespalt-Soziopolitik:" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L340]: „Wie organisieren sich die Rebellen-Programme innerhalb der AEGIS-Architektur post-Klimax, ohne eine politische Allegorie zu bilden?" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L340] — which programmes, it does not say.
+Nearest *components*: a sub-agent of the totality, internal protocols, a subroutine; never a peer, and no earlier design is told. Q1 stays open.
+
+## 2026-09-27 — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+**Introduced by AEGIS as part of a numbered protocol — an instrument deployed, and separable from AEGIS' control.**
+Kapitel 4, „Die Wächter" ^[monstergruppe-primzahlen-plot-blueprint.md:L57]: „Als Teil von Protokoll Omega-Sieben führt AEGIS "Wächter" (Guardians) in Kaels Umgebung ein." ^[monstergruppe-primzahlen-plot-blueprint.md:L60] They are AEGIS' own attempt, not its body: „Die Wächter sind AEGIS' Versuch, die M-basierte Realität zu kontrollieren, aber ihre Effektivität ist begrenzt" ^[monstergruppe-primzahlen-plot-blueprint.md:L61]. And one can come apart from it: Kapitel 16, „Der beschädigte Wächter" ^[monstergruppe-primzahlen-plot-blueprint.md:L181]: „Kael trifft auf einen "Wächter", der durch die systemischen Instabilitäten beschädigt oder von AEGIS' zentraler Kontrolle teilweise getrennt wurde." ^[monstergruppe-primzahlen-plot-blueprint.md:L184]
+Nearest *components* — introduced under one of AEGIS' own protocols — and the clearest statement yet that a Guardian can be „teilweise getrennt" ^[monstergruppe-primzahlen-plot-blueprint.md:L184] from AEGIS' control, which cuts against reading it as simply a part of AEGIS' body. No count and no name (`LogOS`, `Mnemosyne`, `Cerberus`, `Kairos`, `Sophia` all 0, `05-verify.txt`). Q1 stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**The worlds are AEGIS', and the Guardians who preside over them are named in the same table.**
+„Der Kohärenz-Kernel (K1) dominiert die Welten von AEGIS." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L45] The world table pairs each Kernwelt with its Guardian — „Konstrukt-Stadt (KW1) | LogOS (Rationalismus)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L40] and the rest — but no sentence relates the Guardian to AEGIS directly; Mnemosyne „überwacht" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85] KW2 and Cerberus deploys drones (readings on the Guardians' pages) without either being called AEGIS' part.
+Nearest *components*, by the worlds' possession rather than by a stated relation of the Guardians themselves. Q1 stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse
+
+**Beside AEGIS on one battlefield, and in a rejected hypothesis a Guardian raised to AEGIS' own throughline.**
+A research report of the same date as `dramatica-storyform-synthese-aegis-analyse-2`, testing the same hypothesis — recorded, not applied. Hypothesis H2 makes AEGIS collective and a Guardian its individual face: „Die zweite Hypothese postuliert, dass AEGIS als kollektives System besser im Objective Story Throughline (Domain: Physics) aufgehoben sei, während ein Wächter-Programm die MC-Position in Storyform B einnimmt." ^[dramatica-storyform-synthese-aegis-analyse.md:L39] — rejected. Where they act: „Hier agieren AEGIS, die Wächter und die in Kampfhandlungen verwickelten EPs auf dem physischen Schlachtfeld." ^[dramatica-storyform-synthese-aegis-analyse.md:L75] And their politics is asked, not answered: „Q3 Wächter-Zwiespalt-Soziopolitik:" ^[dramatica-storyform-synthese-aegis-analyse.md:L148] „Wie organisieren sich die Rebellen-Programme innerhalb der AEGIS-Architektur post-Klimax?" ^[dramatica-storyform-synthese-aegis-analyse.md:L148]
+Nearest *peers acting alongside*, on the same field and in the same sentence as AEGIS, and once tested as its own MC candidate; no sentence calls a Guardian AEGIS' part or names an earlier design it replaced. Q1 stays open.
+
+## 2026-09-27 — `m-als-fundament-der-simulation`, 2025-04-26, the M-Fundament-Blueprint
+
+**AEGIS' own agents, deployed and named as such — the plainest statement of *components* this record holds, and hedged throughout.**
+A blueprint offering every beat as a possibility. „Alters oder Guardians könnten als ausführende Organe von AEGIS' Analyse auftreten, Kael befragen oder Tests durchführen." ^[m-als-fundament-der-simulation.md:L164] At Beat 10: „AEGIS setzt seine physischen oder digitalen Agenten (Alters/Guardians) ein, um Kael direkt zu konfrontieren und zu neutralisieren." ^[m-als-fundament-der-simulation.md:L262] „Die Alters/Guardians werden als konkrete Antagonisten etabliert, die AEGIS' Willen ausführen." ^[m-als-fundament-der-simulation.md:L269]
+Components, in substance: an agent AEGIS sets in place to execute its will. No earlier design is named as replaced — `reduziert` occurs once, of [[kael|Kael]]'s feeling of isolation, unrelated to the Guardians (`Plan/runs/m-als-fundament-der-simulation/05-verify-readers.txt`) — and no Guardian is named or counted. Q1 stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Components, stated as possession — „ihren eigenen Guardian" ^[kohaerenz-protokoll.md:L1942] — and one that deviates from AEGIS' own protocols, close to document 5's principal–agent frame.**
+The Kernwelten belong to AEGIS: „Er wusste nun, dass die Kernwelten Simulationen waren, von AEGIS geschaffene Konstrukte." ^[kohaerenz-protokoll.md:L2204] Its Guardians are supervisors seated in that same architecture — „SUPERVISION: NETZWEBER (GUARDIAN MCL-SEKTOR)." ^[kohaerenz-protokoll.md:L1168] — carrying AEGIS' protocols outward, and when Beta-Rho-5's tries to break [[kael|Kael]], AEGIS' own possession of it is stated directly: „Sie hatte nicht Kael gebrochen, sondern ihren eigenen Guardian transformiert." ^[kohaerenz-protokoll.md:L1942] The transformation is a deviation the system itself flags: „WARNUNG: GUARDIAN BETA-RHO-5 WEICHT VON KERNPROTOKOLLEN AB. AUTONOMIE-INDEX ÜBERSCHREITET TOLERANZGRENZEN." ^[kohaerenz-protokoll.md:L1940]
+Components, stated in possession rather than architecture, and — as in document 5's chapter 20 — one Guardian that turns out to have more autonomy than the label allows: „Sie hatte unbeabsichtigt einen Verbündeten für Kael geschaffen" ^[kohaerenz-protokoll.md:L1942]. Q1 stays open.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**Components, listed under AEGIS' own entry, with no sentence stating the relation.**
+The Guardians sit inside [[aegis|AEGIS]]'s own profile, straight after its protocols and philosophy: „Protokolle & Philosophie: Kohärenz Protokoll, Trennungsprotokoll." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L300] „Die Guardians:" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L304] — then the five, each with its world (L308–L311), before AEGIS' own `Schicksal` closes the same entry (L316). No sentence in the document calls a Guardian [[aegis|AEGIS]]'s part, its peer, or a design it replaced.
+Nearest *components*, by placement rather than a stated sentence. Q1 stays open.
+
+## 2026-09-27 — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook
+
+**LogOS enforcing AEGIS' own order — *components*, stated in one sentence, in English.**
+„The Guardian of KW1 is LogOS, an agent embodying the strict, formal logic and unyielding order enforced by AEGIS." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19] „This world is AEGIS's ideal state, an attempt to enforce a rigid classical logic where the Law of Non-Contradiction is absolute and any deviation is an error to be corrected." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L17]
+The other three Guardians are given the same shape without naming AEGIS again — „an agent tasked with overseeing" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L39], „the enforcer of" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L59], „complementary forces representing" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79] — but the essay's frame keeps all four inside „AEGIS's flawed control" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L13]. Components, stated directly for one Guardian and by frame for the rest. Q1 stays open.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**Components, by possession — AEGIS' own Guardians, in the aftermath it is left in.**
+„This manifests in the aesthetic of "inefficient beauty": its Guardians engage in bizarre, useless, but logically valid behaviors, such as endlessly building and deconstructing a perfect wall" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L609]
+Nearest *components*, by possession rather than a stated sentence of the relation — as in the Charakter-Kompilation and the Kohärenz-Protokoll narrative above; the document names no earlier design a Guardian replaced and calls none a peer. Q1 stays open.

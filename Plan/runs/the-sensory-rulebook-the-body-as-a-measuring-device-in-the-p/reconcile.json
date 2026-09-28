@@ -1,0 +1,248 @@
+{
+  "document": "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+  "drive_id": "1T5mPt0znwxs-NqRymBh47-PbbpqxMxQDhyYmRe9ABoA",
+  "step": "reconcile",
+  "at": "2026-09-28",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of three documents reconciled together (documents 48–50) — readings and record entries written by five Sonnet readers split by page group from Plan/runs/readings-brief-documents-48-50.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 66,
+    "decisions": 70,
+    "decided_by_lookup": 54,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An essay about the four worlds: each world and Guardian it names has a page, and its somatic motifs are one world's reading each. A motif named once is not a term.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        19,
+        57,
+        111
+      ],
+      "attribution": "",
+      "note": "a disembodied operating system enforcing coherence through negation, and the perpetrator introject a Guardian's world names"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "one of the protector alters whose world the Grenzfeste embodies"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "protector alters and child parts, assigned to worlds"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        57,
+        59
+      ],
+      "attribution": "",
+      "note": "KW3's Guardian, the enforcer of security against a shared threat"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        57,
+        59,
+        63,
+        71
+      ],
+      "attribution": "",
+      "note": "KW3, its second name, a bunker-like fortress, and the body bracing for impact"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        19,
+        101
+      ],
+      "attribution": "",
+      "note": "one per world, four names, never counted or reduced"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        77,
+        79,
+        91
+      ],
+      "attribution": "",
+      "note": "the psycho-architectural space of her influence, a loving interconnectedness"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        87,
+        111
+      ],
+      "attribution": "",
+      "note": "his body as the measuring device, alien in KW1 and at ease in KW4"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        27,
+        79
+      ],
+      "attribution": "",
+      "note": "one of two Guardians of KW4, facilitating what Juna represents"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        13,
+        17,
+        19,
+        37,
+        39,
+        57,
+        59,
+        77,
+        79,
+        111
+      ],
+      "attribution": "",
+      "note": "four Core Worlds, each named twice, each with a Guardian and a somatic signature"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "one of the child parts KW3 exists to shield"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        17,
+        19,
+        23,
+        27,
+        31
+      ],
+      "attribution": "",
+      "note": "Logos-Prime, algorithmic horror, and Regulated Breath Counting"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "one of the child parts KW3 exists to shield"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "KW1's Guardian, enforcing AEGIS' order"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "KW2's Guardian, overseeing a paradoxical domain"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        77,
+        79,
+        83,
+        91
+      ],
+      "attribution": "",
+      "note": "KW4, Juna's world, ozone and warmth together, and the body unclenching"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "one of the protector alters whose world the Grenzfeste embodies"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        37,
+        39,
+        43,
+        51
+      ],
+      "attribution": "",
+      "note": "KW2, the second name, a dialetheic logic of trauma, and cold or warmth together in one trauma area"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        27,
+        79
+      ],
+      "attribution": "",
+      "note": "one of two Guardians of KW4, facilitating what Juna represents"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        13
+      ],
+      "attribution": "",
+      "note": "the model as the essay's own frame, in one sentence"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C5",
+    "C6",
+    "C9",
+    "C11"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [
+    "J118"
+  ],
+  "decided_by_existing_rules": "J49, J20, J9",
+  "not_promoted": [
+    "the four somatic motifs (Regulated Breath Counting, Visceral Gut Reactions, Bracing for Impact, Unclenching Hands / Easing Breath) — on the world pages",
+    "Algorithmic Horror, Miasma of Memory — section titles"
+  ],
+  "internal_tension": "It names each world twice, by a Guardian-built name and by a place name, in one breath (L15/L17 and the rest), and never says which is the world's name (J118).",
+  "baseline_moved": false
+}

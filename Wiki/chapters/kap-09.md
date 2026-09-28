@@ -1,9 +1,9 @@
 ---
 chapter: 9
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
-records: []
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
+records: ["C10"]
 gathered: "2026-09-25"
 ---
 
@@ -22,6 +22,23 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Rückkehr mit neuer Sichtweise, in der die Integration beginnt, laut der strukturierten Outline im Ki als Vertiefung, in KW1, und in der Plot-Konkretisierung im Block Der zögernde Angestellte; Kaels Anteile kooperieren zum ersten Mal, und mehrere Quellen setzen hier den frühesten Ort, an dem ein Wir-Geflecht entstehen darf. Wie bewusst das geschieht, sagen die Quellen verschieden: laut der strukturierten Outline spürt Kael sich erstmals als mehrere, in einer ersten expliziten Wir-Stimme-Szene mit Lex, Rhys, Selene und Alex, ohne dass das Wort Alters fällt; laut der Storyform-Outline ist es eine bewusste innere Kooperation; laut der Plot-Konkretisierung eine Arbeitsteilung an der Konsole, die sich für Kael wie ein guter Tag anfühlt und nicht wie ein Wir. Die AEGIS-Subplots lassen AEGIS fast sofort auf eine solche Verbindung reagieren, vielleicht durch Cerberus, sodass Kaels Heilung vom System aktiv bekämpft wird. In Storyform A trägt das Kapitel laut dem konsolidierten Konzept den MC-Concern, Logik und Intuition verbinden sich, laut dem Kapitel-Kompendium das Requirement, Wir-Bildung beginnt, während Storyform B latent bleibt; als Genesis-Echo ist die Wir-Bildung die Wieder-Annäherung an die Reinform über plurale Form, und jede Wir-Stimme-Szene ab hier zielt auf das Ende des Romans.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „AEGIS' Analyse-Krise“ ^[monstergruppe-primzahlen-plot-blueprint.md:L107]
+
+- Establishes: „AEGIS widmet massive Ressourcen der Analyse der M-Resonanzwelle“ ^[monstergruppe-primzahlen-plot-blueprint.md:L110]
+- AEGIS: „Seine primzahlbasierten Modelle und Faktorisierungsalgorithmen liefern keine kohärenten Ergebnisse“ ^[monstergruppe-primzahlen-plot-blueprint.md:L110]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the Wir-Geflecht begins, and M is named split from Kael
+
+Title: „Das Wir-Geflecht“ ^[kohaerenz-protokoll.md:L997]
+Position: „(Fundamentales Konzept: Holismus vs. Reduktionismus)“ ^[kohaerenz-protokoll.md:L999] · „(Heldinnenreise Stufe 9: Rückkehr mit neuer Sichtweise (Integration Männlich/Weiblich))“ ^[kohaerenz-protokoll.md:L1001]
+
+- Names the mechanism AEGIS runs on: „die Zerlegung von M in Kael, die Fragmentierung von Kael in Caches“ ^[kohaerenz-protokoll.md:L1019]
+- The parts begin to talk: „Die verschiedenen Anteile kommunizierten, brachten ihre Perspektiven ein, arbeiteten zusammen unter der Führung des Selbst.“ ^[kohaerenz-protokoll.md:L1073] — the text's own name for this, `Wir-Geflecht`, gives the chapter its title.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -32,6 +49,32 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „(vielleicht Cerberus, fokussiert auf 'Sicherheit')“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L133]
 - Story: „wenn Kael eine zaghafte Verbindung zu einer externen Anomalie (Vorläufer von Juna/V) herstellt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L133]
 - Discussion: „Kaels Heilungsprozess wird vom System aktiv bekämpft“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L134]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Phantomschmerz der Identität (Lost Time)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L71]
+
+- Establishes (C10): „Kael steht plötzlich in seinem sterilen Quartier, seine Hände sind mit fremdem Blut bedeckt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L71]
+- Who: „Nyx, der Kampf-EP, hatte die Kontrolle übernommen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L71]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS' PMAS protocol, and Argus' hypervigilance
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Der Code der Angst“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118]
+Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L90]
+
+- AEGIS: „AEGIS entsendet das PMAS-Protokoll (Predictive Modality Alignment), eine unsichtbare Kraft, die Kaels eigene Furcht in geometrische Fallen übersetzt.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118] · „Jeder Fluchtgedanke wird antizipiert und blockiert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118]
+- Who: „Argus, die metakognitive Instanz, pulsiert im Hintergrund und liefert Kael eine Hypervigilanz“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118]
+- What it establishes: „Das System Kael operiert an der Belastungsgrenze.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — the element matrix's MC Response
+
+A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
+
+- MC Response, Storyform A vs. B: „Kap 9: Kael lernt, seiner Intuition zu vertrauen (Trust) vs. Kael versucht zwanghaft, seine Dissoziation zu steuern (Control).“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L212]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -124,9 +167,12 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 
 ## Where the sources differ
 
+- **Title, and a conscious Wir, named (D47).** „Das Wir-Geflecht“ ^[kohaerenz-protokoll.md:L997] (the Kohärenz-Protokoll narrative, 2025-04-27) — a third title; it names the cooperation explicitly, „Die verschiedenen Anteile kommunizierten, brachten ihre Perspektiven ein, arbeiteten zusammen unter der Führung des Selbst.“ ^[kohaerenz-protokoll.md:L1073], siding with a conscious Wir over a day that merely feels good.
+- **The Kapitel-9 injury.** „seine Hände sind mit fremdem Blut bedeckt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L71] (the Ultra-Plot) — blood on the hands and six hours lost, not the knuckles in Kap 1 (C10).
 - **Is the Wir conscious.** „Kael spürt sich erstmals als mehrere, ohne dass das Wort Alters fällt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L449] and „Erste explizite Wir-Stimme-Szene“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L449] (strukturierter Outline) · „Erste bewusste innere Kooperation“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314] (storyform outline) · „für Kael fühlt es sich an wie ein guter Tag, nicht wie ein Wir“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] and „Kap 9 = Arbeitsteilung ohne Benennung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L243] (Plot-Konkretisierung) — he feels himself as several, or it does not feel like a Wir.
 - **Storyform A.** „A: MC-Concern, Logik und Intuition verbinden sich. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L978] (konsolidiertes Konzept) · „A-Requirement: Wir-Bildung beginnt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (Kapitel-Kompendium).
 - **Title.** „Rückkehr mit neuer Sichtweise“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (Kapitel-Kompendium) · „Kap 9 — Wir“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L439] (strukturierter Outline; also Konzept-Iteration Genesis, and konsolidiertes Konzept and storyform outline without the number) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 9: Rückkehr mit neuer Sichtweise — Integration beginnt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L441].
+- **The Hard-SF-Outline.** „Der Code der Angst“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118] (the Hard-SF-Outline, 2026-04-08) — a new title and a new position: Kap 9 is a trap AEGIS sets, „Jeder Fluchtgedanke wird antizipiert und blockiert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118], which Argus lets Kael see.
 
 ## Questions for this chapter
 

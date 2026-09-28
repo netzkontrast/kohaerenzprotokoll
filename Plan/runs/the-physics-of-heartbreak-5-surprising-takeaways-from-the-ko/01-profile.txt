@@ -1,0 +1,14 @@
+# the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko
+  lines                42  (frontmatter ends at 9)
+  body words           961
+  headings             6   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       2
+  backslash escapes    2
+  typographic marks    15   ascii quotes 62
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         1084 chars
+

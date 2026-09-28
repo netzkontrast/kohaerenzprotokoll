@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 13
-readings: 13
+sources: 17
+readings: 17
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-17"
 ---
 
@@ -159,3 +159,27 @@ Four sub-locations: „Junas Ankerpunkt — Ort, an dem die Telefon-Stille veran
 The [[nexus|Nexus]] lies at its border: „Der Nexus — Übergangsort zwischen KW4 und Externer Ebene." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L619]
 
 **It never says the level is no stage** (`grep -cw Bühne` 0); it gives it a chapter, Ch36, as the Substrat-Durchbruch. **And it writes both names**: `Externe Ebene` for the level, and `Basisrealität` once, for the ground of Kael's first trauma layer — „Schicht 1 — Das Fundament (Basisrealität Köln):" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431] (J54). It places Köln not outside the simulation, on the side of C13 whose words it shares with the konsolidiertes Konzept of the same date (L540 there).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — the External Level (Cologne 2026), the substrate breakthrough, sustained by reading
+
+A world bible that calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied. It writes the English `External Level`, read here by the sentence (J100). One sentence, after the four Core Worlds in the section on worlds and „Reality Layers" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L55]: „The External Level (Cologne 2026) represents the substrate breakthrough where the act of reading sustains the system." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78]
+That is the worldbuilding concept's „Der Substrat-Durchbruch (Ch36)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L650] and its reading's recursion, in English and without a chapter; the ending gives the reader the same role, as „K1-Repair Energy" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88].
+Köln is also the ground of Kael's first trauma layer: „the attachment trauma in Cologne (Layer 1)" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] (J54).
+Where the level lies it does not say: `outside`, `beyond` and `Basisrealität` stand 0 times, `simulation` once, for Juna's bridge into „the K0 simulation" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L38] (`05-verify-readers.txt`). No side in C13.
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — Cologne as the foundation of the first trauma layer only
+
+A compendium that cites nothing. Cologne once, as the ground of the first of two layers, in the words the worldbuilding concept gives „Schicht 1 — Das Fundament (Basisrealität Köln):" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L431]: „Layer 1 (The Foundation - Cologne): Disorganized attachment trauma." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] „This primary wound involved extreme emotional neglect and unpredictable volatility from a caregiver, forcing the creation of the core EPs (Kiko, Lia, Moros)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] (J54)
+No level is named and no year: `External` and `Basisrealität` stand 0 times, `2026` only in the export's header (L7–L8), and `simulation` 0 (`05-verify-readers.txt`). No side in C13.
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — named once, as Juna's own
+
+Not in date order with the readings above; placed after the last one. Once, in Juna's own entry: „Juna ist keine Alterpersönlichkeit, sondern eine externe Entität/Anomalie der "Externen Ebene"." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L284] The inflected form is the document's own (`Externe Ebene` 0 elsewhere, `Basisrealität` 0, `Köln` 0; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`). It says nothing of where the level lies, and takes no side in C13.
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry — the English `External Level`, named as the question C13 asks rather than answered
+
+English throughout; the name is placed here by the sentence (J100), as `systemic-architecture-specification-the-coherence-protocol-w` already is above. Neither `Köln` nor `Cologne` nor `Basisrealität` stands anywhere in the document (`grep -ciw` on both spellings, and on `Basisrealität`, all 0: `Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`), so it does not identify the level with Cologne 2026 and takes no side in C13.
+
+It introduces the level as Juna/V's origin: „The text introduces Juna/V as a "transcendent entity" from an "External Level," an anomaly that embodies the "Paraiyas"—those fundamental aspects of reality, like subjective experience (qualia) and authentic connection, that AEGIS's logic is forced to reject." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L25]
+
+Then it puts C13's own question into words, and refuses to answer it: „**What is the nature of the "External Level"?** The text deliberately avoids a clear definition. Is this a higher dimension of reality, a different layer of the simulation that AEGIS is unaware of, or is it the "real" world breaking through into the artificial one?" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L27] This holds both of C13's positions open at once rather than taking either; it does not belong under *Where the sources differ*.

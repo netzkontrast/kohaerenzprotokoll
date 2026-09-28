@@ -1,17 +1,17 @@
 ---
 term: Kairos
 status: candidate
-sources: 12
-readings: 12
+sources: 17
+readings: 17
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-17"
 ---
 
 # Kairos
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Eleven other read documents name Kairos — the readings below, the philosophischer Bericht's the latest (it moved this count from ten). (Until that reading this lead said nothing else read named Kairos at all, which the second reading on this page had already made false.)
+the same nine fields. Fourteen other read documents name Kairos — the readings below, the Inquiry file's the latest (it moved this count from thirteen, the Hard-SF-Outline's from twelve, the Ultra-Plot's from eleven, the philosophischer Bericht's from ten). (Until that reading this lead said nothing else read named Kairos at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -135,3 +135,27 @@ The author decided C6 for five on 2026-09-24; recorded, not applied.
 Once (`grep -cw Kairos` 1), in the list of what earlier phases planned: „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] — and outside what is left: „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296], [[mnemosyne|Mnemosyne]] and a pole whose identity is open. That list and its status word are the document's claim about earlier phases.
 Where Kairos went it does not say (`absorbiert` 0), and its name is on no world: KW4 is „Resonanz-Kontinuum (Dialetheia)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L441], with `Kairos-Potentialis` and `Möglichkeits-Garten` 0 times (`05-verify-readers.txt`). Q5.
 The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — one of two Guardians of KW4, named with `&`
+
+The world table: „Möglichkeits-Garten (KW4) | Kairos & Sophia | Exiles (Trauma-Halter) | Kiko (Kind/Flucht), Oblivion (Kollaps), Juna (Anomalie)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43] — an `&` where the other read documents write a slash. Kapitel 29, „Die Auflösung der Membran" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]: „Der Abgrund transformiert sich fließend in den Möglichkeits-Garten (KW4)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119] „Die Guardians Kairos und Sophia versuchen vergeblich, Kael in ihre Wahrscheinlichkeitsmatrizen einzufangen." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119] Kairos and Sophia act together, undifferentiated, as in `roman-lokalitaeten-konzept-und-ausarbeitung` — this document too never separates them, always as the joined pair. No absorption or reduction; not called `Wächter` (0, Q4).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — KW4's two Guardians, testing Kael with philosophy
+
+The table: „\*\*KW4: Kairos-Potentialis\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43] „\*\*Kairos / Sophia\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43], role „Die Integration." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43] Kapitel 30, „Die Prüfung durch Sophia" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]: „Vor den Toren des zentralen Fundaments stellen sich Kairos und Sophia, die Guardians der Weisheit, in Kaels Weg. Sie greifen nicht mit Waffen an, sondern mit verheerender philosophischer Logik." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178] Kael refuses their temptation: „Kael, getragen von der Widerstandskraft von Nyx und Rhys, weist die Verführung der Taubheit zurück." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]
+
+Again undifferentiated, acting as one pair; `Kairos-Potentialis` is a world named for him, kept whole as the world's name (J49).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — one of five, on the fourth world, before the reset
+
+Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „Kairos & Sophia (KW4 - Kairos-Potentialis)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L311] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption, a latency or a decanonisation (`absorbiert`, `latent` 0, `Dekanonisiert` only of Silas and Oblivion; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — one of two Guardians of KW4, facilitating what Juna represents
+
+Not in date order with the readings above; placed after the last one. An English essay that names no canon and never hedges. „The Guardians of this world are Kairos and Sophia, complementary forces representing intuition, opportunity, and integrative wisdom." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79] „Their narrative purpose is to facilitate the generative and sometimes chaotic forces that Juna represents." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79] They „challenge Kael to think beyond his established patterns of control and fear" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79]. No absorption, reduction or decanonisation is told (`absorbed`, `decanon` 0; the document's one `latent` is Kael's own „latent memories" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L27], not a Guardian's state; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — one of KW4's two Guardians alone, joined with Sophia, in the thematic analysis
+
+Not in date order with the readings above; placed after the last one. An English file of about fourteen reports; quote as written, never translate. The thematic analysis drops the world's other names (`Kairos-Potentialis`, `Garden of Possibilities`/`Garden of Potential`, all used elsewhere in the same file — see [[moeglichkeits-garten|Möglichkeits-Garten]]) and gives the world its two Guardians alone, undifferentiated: „Kernwelt 4 (Kairos/Sophia): A "Possibility Garden" of chaotic growth and emergence, representing the potential for creativity, healing, and integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1246]
+
+`Kairos` stands five times (`grep -cw Kairos` 5, full path): four of them are the world's own name, `Kairos-Potentialis` — a world named for him alone, though the world has two Guardians (J49) — and only the fifth joins him to Sophia. No absorption or reduction is told; not called `Wächter` (0, `grep -cw`/`-ciw`, full path). The author decided C6 for five on 2026-09-24; recorded, not applied (Q5).

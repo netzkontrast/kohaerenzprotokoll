@@ -1,0 +1,48 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      8
+  backslash escapes      92
+  typographic marks      17
+  ascii quotes           146
+
+# inflection families -- one term, several surfaces
+  physi    Physical, Physicality, Physics
+  syste    System, Systemic, Systems
+  archi    Architecture, Architektur
+  autop    Autopoiesis, Autopoietic
+  const    Constraint, Constraints
+  explo    Exploit, Exploration
+  frequ    Frequency, Frequenz
+  inter    Interface, Internal
+  kanon    KANON, Kanon
+  prick    Prickle, Prickling
+  proto    Protocol, Protocols
+  psych    Psychological, Psychology
+  quant    Quantenverschränkung, Quantum
+  reson    Resonance, Resonanz
+  simul    Simulation, Simulations
+  somat    Somatic, Somatics
+  story    Story, Storyform
+  trans    Transition, Transitkorridor
+  vorte    VORTEX, Vortex
+
+# substring pairs -- never one term, often merged by accident
+  Ende < Lebende
+  Real < Realität
+  Riss < Risse
+  KANON < Kanon
+  Logic < Ontological
+  Logic < Psychological
+  Story < Storyform
+  System < Systems
+  System < Systemic
+  VORTEX < Vortex
+  Somatic < Somatics
+  Kohärenz < Dekohärenz
+  Physical < Physicality
+  Protocol < Protocols
+  Coherence < Decoherence
+  Conscious < Preconscious
+  Conscious < Subconscious
+  Constraint < Constraints
+  Simulation < Simulations

@@ -1,0 +1,369 @@
+# reconcile-pre — kohaerenz-protokoll
+  wiki: 106 pages, 15 conflicts (index built 2026-09-27)
+  27 surface groups folded to one term first
+  330 candidates, 346 decisions — **204 by lookup, 142 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (16) — page exists, this document is not on it yet — a reading
+  Nichts Rauschen                      nichts-rauschen
+  Entropie                             entropie
+  Die Innere Weite                     ueberwelt
+  Kael                                 kael
+  Juna                                 juna
+  Glitch                               risse
+  Cache-Kohärenz                       cache-kohaerenz
+  Potentialmeer                        potentialmeer
+  Kernwelten                           kern-welten
+  LogOS                                logos
+  Kernwelt                             kern-welten
+  Moonshine-Link                       moonshine-link
+  Das Mosaik-Herz                      mosaik-herz
+  Risse                                risse
+  funktionale Multiplizität            multiplizitaet
+  Simulation                           ueberwelt
+
+## new_term (188) — no page, no near match — a new page
+  Vorwort                              
+  Funke                                
+  Bollwerk gegen die Auflösung         
+  Parmenides                           
+  Śūnyatā                              
+  Ich                                  
+  Erste Kontakte                       
+  Cluster                              
+  Der Sog der Ordnung                  
+  Autokatalyse                         
+  Herkunfts-Echos                      
+  Überlebenskampf                      
+  Der große Wandel                     
+  Einsamkeit                           
+  Funktion statt Ich                   
+  Funktionseinheit                     
+  Binnen-Physik                        
+  Nicht-Nicht-Existenz                 
+  ab hier nur Konzept                  
+  Teil 1                               
+  Die Innere Reise zur Ganzheit        
+  Kristalliner Käfig                   
+  Wohnmodul                            
+  Ruhefläche                           
+  Effizienzquotient                    
+  734-Alpha                            
+  912-Gamma                            
+  Pollard-Rho-Verfahren                
+  P-NP-Problem                         
+  M                                    
+  Co₁                                  
+  521-Beta                             
+  Hypercube Navigation                 
+  Aktualität                           
+  Potentialität                        
+  Fundamentales Konzept                
+  Heldinnenreise Stufe 2               
+  Verrat / Desillusionierung           
+  Sub-Prozess 4B                       
+  Gedächtnislücken                     
+  Korrekturen                          
+  Heldinnenreise Stufe 3               
+  Erwachen & Vorbereitung              
+  Identifikation mit dem Männlichen    
+  Omikron-9                            
+  1201-Delta                           
+  Theta-Sektor                         
+  Lernarchiv Theta-9                   
+  Ceti-7                               
+  RIVE                                 
+  Recursive Integrity Validation Engine 
+  OBP                                  
+  Ontological Boundary Protocol        
+  externes Rauschfeld Epsilon          
+  strukturelle Kopplung                
+  Priorität Alpha                      
+  Vorläufer-Systeme                    
+  Subquotienten-Emulationen            
+  Permeabilitätsanomalie               
+  Koppelung                            
+  Heldinnenreise Stufe 4               
+  Passieren der Pforten der Verurteilung 
+  Symmetrie                            
+  Polytop                              
+  Sigma-Tau-7                          
+  Lambda-Omega-3                       
+  Kritische Instabilität               
+  Abstieg                              
+  Kapitel 5                            
+  Heldinnenreise Stufe 5               
+  Das Auge des Sturms                  
+  Falscher Erfolg                      
+  McL-Sigma-3                          
+  McL                                  
+  Sektor relationaler Dynamik          
+  Gamma-Phi                            
+  Sub-Netzwerk                         
+  Feuerlöscher                         
+  Brückenknoten                        
+  Betweenness-Zentralität              
+  Ozon                                 
+  Kapitel 6                            
+  Die Implosion der Logik              
+  Heldinnenreise Stufe 6               
+  Der Tod (einer Einstellung)          
+  Omega-Priorität                      
+  KWS-Co1-McL-Beta7                    
+  Integrations-Protokoll               
+  Schnittstellenzone                   
+  Firewalls                            
+  Kapitel 7                            
+  K-J Verbindung                       
+  Bewusstwerdung                       
+  Heldinnenreise Stufe 7               
+  Sehnsucht nach dem Weiblichen        
+  Murdock                              
+  All is Lost                          
+  Crash Space                          
+  liminaler Zustand                    
+  Kind-Anteil                          
+  Anteile                              
+  Kapitel 8                            
+  Dialog im Inneren Garten             
+  IFS                                  
+  Heldinnenreise Stufe 8               
+  Wiedergeburt                         
+  Heilung des Männlichen               
+  Wächterin                            
+  Kapitel 9                            
+  Das Wir-Geflecht                     
+  Heldinnenreise Stufe 9               
+  Rückkehr mit neuer Sichtweise        
+  Integration Männlich/Weiblich        
+  Ly-Welt                              
+  Caches                               
+  Adaptives Integrationsparadigma      
+  Adapter-Module                       
+  PMAS                                 
+  Netzweber                            
+  sub-protokollarische Interferenz     
+  Akzeptanz der Komplexität            
+  Akzeptanz der Vielfalt               
+  Schatten                             
+  kreativer Teil                       
+  intuitiver Teil                      
+  Beobachtungsnische                   
+  Der Jetzt-Raum                       
+  Innerer Frieden                      
+  Potenzialerkennung                   
+  Freiheit zu leben                    
+  Teil 2                               
+  Zyklen der Realität und des Widerstands 
+  Der Bruch                            
+  Zyklische Struktur                   
+  Realitätscheck                       
+  Gartenpflege                         
+  Baby-Monster-Welt                    
+  B-Welt                               
+  Neutralisierung                      
+  Dissoziation                         
+  Trauma Response                      
+  Flight/Freeze                        
+  Firefighter                          
+  Rückfall                             
+  Chaos-Regulator                      
+  NET                                  
+  Test (Alltag)                        
+  Koordinations-Hub Zeta               
+  888-Beta                             
+  101-Gamma                            
+  switchten                            
+  Systemantwort                        
+  Grenzen der Kontrolle                
+  Autonomie-Index                      
+  Kernprotokolle                       
+  Lyons-Welt                           
+  Ly                                   
+  Widerstand (Kreativität)             
+  Paria                                
+  Happy Family                         
+  Gleiter                              
+  GF(5)                                
+  generative Tarnung                   
+  Möglichkeits-Weber                   
+  Großer Beobachter                    
+  Ruhezone                             
+  Kapitel 20                           
+  Ly-Sigma-1                           
+  Sektor emergenter Strukturen         
+  Epsilon-Null                         
+  Cache-Konflikt                       
+  hybrider Algorithmus                 
+  Kapitel 21                           
+  nicht-algorithmische Quelle          
+  Kapitel 22                           
+  Jenseits der Naht                    
+  Protokoll 734                        
+  Kontaminations-Eindämmung            
+  Realitäts-Kollaps                    
+  Kognitive Rekalibrierung             
+  Übergangsfluss                       
+  Kapitel 23                           
+  Resilienz (Innere Ressourcen)        
+  Hybrid-Sektor                        
+  Predictive Modeling & Adaptation Subsystem 
+  dritte Säule                         
+  Holismus                             
+  Reduktionismus                       
+
+## needs_judgement (142) — NEAR a known surface — one term or two?
+  Nichts  /  Nichts Rauschen                   near: each other
+  Nichts  /  Nicht-Sein                        near: each other
+  Nichts  /  Muster im Nichts                  near: each other
+  Rauschen  /  Nichts Rauschen                 near: each other
+  Im Herzen der Leere  /  Leere                near: each other
+  Leere  /  Meer der Leere                     near: each other
+  Fragment  /  Fragment von M                  near: each other
+  Fragment  /  Der Tanz der Fragmente          near: each other
+  Resonanz  /  Resonanz-Interferenz            near: each other
+  Resonanz  /  Juna-Resonanz                   near: each other
+  Resonanz  /  Resonanz-Detektion              near: each other
+  Resonanz  /  Resonanz im Graphen             near: each other
+  Resonanz  /  Resonanz-Modulation             near: each other
+  Resonanz  /  Resonanz-Harmonisierer          near: each other
+  Resonanz  /  Resonanzfrequenz                near: each other
+  Resonanz  /  Resonanz-Brücke                 near: each other
+  Resonanz  /  Die Resonanz des Architekten    near: each other
+  Entropie  /  Entropie-Kaskade                near: each other
+  Entropie  /  Tanz mit der Entropie           near: each other
+  Kapitel 1  /  Kapitel 10                     near: each other
+  Kapitel 1  /  Kapitel 11                     near: each other
+  Kapitel 1  /  Kapitel 12                     near: each other
+  Kapitel 1  /  Kapitel 14                     near: each other
+  Kapitel 1  /  Kapitel 15                     near: each other
+  Kapitel 1  /  Kapitel 16                     near: each other
+  Kapitel 1  /  Kapitel 17                     near: each other
+  Kapitel 1  /  Kapitel 18                     near: each other
+  Kapitel 1  /  Kapitel 19                     near: each other
+  Kael  /  Kael (Selbst)                       near: each other
+  Kael  /  Kael/M                              near: each other
+  Gamma-7  /  Anomalie Typ Gamma-7             near: each other
+  Gamma-7  /  KDSI-Gamma-7                     near: each other
+  Gamma-7  /  IP-KDSI-Gamma-7                  near: each other
+  Modul K-1123  /  K-1123                      near: each other
+  Primzahlen  /  Semiprimzahlen                near: each other
+  Riss  /  Das Flüstern im Riss                near: each other
+  Riss  /  Risse                               near: each other
+  Riss  /  AEGIS' Risse                        near: each other
+  Juna  /  Juna-Resonanz                       near: each other
+  Juna  /  Juna-Verbindung                     near: each other
+  Juna  /  Juna-Signatur                       near: each other
+  Juna  /  Juna-Interferenz                    near: each other
+  Juna  /  Potentialmeer-Anomalie Juna         near: each other
+  Manager-Teil  /  Manager                     near: each other
+  K-1123  /  IP-K1123                          near: each other
+  K-1123  /  IP-K1123-Revised                  near: each other
+  K-1123  /  ESP-K1123                         near: each other
+  Kohärenz-Partitionierung  /  Partitionierung near: each other
+  Partitionierung  /  initiale Partitionierung near: each other
+  Manager-Anteil  /  Manager                   near: each other
+  Bunker der Logik  /  Bunker                  near: each other
+  Potentialmeer  /  Potentialmeer-Sektor       near: each other
+  Potentialmeer  /  Potentialmeer (Nähe)       near: each other
+  Potentialmeer  /  Potentialmeer-Anomalie Juna near: each other
+  Kernwelten  /  Kernwelten als Simulationen   near: each other
+  Kernwelten  /  Kernwelt                      near: each other
+  Gödel’sche Sätze  /  Gödel                   near: each other
+  Gödelscher Knoten  /  Gödel                  near: each other
+  Gödels Unvollständigkeitssatz  /  Gödel      near: each other
+  Kernwelten als Simulationen  /  Kernwelt     near: each other
+  Kernwelten als Simulationen  /  Simulation   near: each other
+  Kernwelt  /  Kernwelt-Schnittstelle          near: each other
+  Kernwelt  /  Kernwelt-Typ B                  near: each other
+  Knotenpunkt  /  duale Knotenpunkte           near: each other
+  Manager  /  Heilung des Managers             near: each other
+  IP-K1123  /  IP-K1123-Revised                near: each other
+  Selbst  /  Kael (Selbst)                     near: each other
+  Selbst  /  Selbstführung                     near: each other
+  Selbst  /  Selbst-Schöpfung                  near: each other
+  Selbst  /  rekursive Selbsterfindung         near: each other
+  Selbst  /  gelenkte Selbstorganisation       near: each other
+  Selbst  /  Selbstorganisation                near: each other
+  Omega-Prime  /  Gamma-Omega-Prime            near: each other
+  Guardian  /  Guardian McL-Sektor             near: each other
+  Guardian  /  Guardian-Protokolle             near: each other
+  Guardian  /  Guardian dieser Welt            near: each other
+  Guardian  /  Guardian Beta-Rho-5             near: each other
+  Das Mosaik-Herz  /  Mosaik                   near: each other
+  Scherben der Erkenntnis  /  Scherben         near: each other
+  Scherben der Erkenntnis  /  Erkenntnis       near: each other
+  Gegenwart/Präsenz  /  Präsenz                near: each other
+  Risse  /  AEGIS' Risse                       near: each other
+  funktionale Multiplizität  /  Funktionale Multiplizität im Test near: each other
+  Beta-Rho-5  /  Guardian Beta-Rho-5           near: each other
+  Zyklus  /  Zyklus 1                          near: each other
+  Zyklus  /  Zyklus 2                          near: each other
+  Reaktivierter Bunker  /  Bunker              near: each other
+  Vermeidung  /  Funktion der Vermeidung       near: each other
+  KDSI-Gamma-7  /  IP-KDSI-Gamma-7             near: each other
+  Saat im Möglichkeitsstrom  /  Möglichkeitsstrom near: each other
+  Ly-Beta-7  /  KWS-Ly-Beta-7                  near: each other
+  An den Nähten der Welt  /  Nähte             near: each other
+  Ontologie (Simulation)  /  Simulation        near: each other
+  Ontologie (Simulation)  /  Ontologie         near: each other
+  Konfrontation (Grenzen der Simulation)  /  Simulation near: each other
+  gelenkte Selbstorganisation  /  Selbstorganisation near: each other
+  Nichts                                       near: nichtsrauschen→nichts-rauschen
+  Rauschen                                     near: nichtsrauschen→nichts-rauschen
+  Genesis der Existenz                         near: genesis→genesis
+  Fragment                                     near: psychischefragmentierung→did
+  Resonanz                                     near: entropieresonanz→entropie-resonanz, entropieresonanzentropieresonanzprotokolleerp→entropie-resonanz, entropieresonanzprotokolle→entropie-resonanz, resonanzlandschaft→resonanz-landschaft
+  Komponente                                   near: komponente734→komponente-734
+  Labor der Kohärenz                           near: koharenz→kohaerenz
+  Kohärenzindex                                near: koharenz→kohaerenz
+  Kohärenz-Verifikator                         near: koharenz→kohaerenz
+  Riss                                         near: risse→risse
+  Evaluierungseinheit Epsilon-Gamma-12         near: evaluierungseinheit→evaluierungseinheit
+  Kohärenz-Validierung                         near: koharenz→kohaerenz
+  Kohärenz-Partitionierung                     near: koharenz→kohaerenz
+  Kohärenz-Kaskadenfehler                      near: koharenz→kohaerenz
+  Supervisor für Kohärenz und Struktur         near: koharenz→kohaerenz
+  Juna-Resonanz                                near: juna→juna
+  Kernwelten als Simulationen                  near: kernwelt→kern-welten, kernwelten→kern-welten, simulation→ueberwelt
+  Kohärenz-Optimierer Stufe 2                  near: koharenz→kohaerenz
+  AEGIS Protokoll V1.5                         near: aegis→aegis
+  Kernwelt-Schnittstelle                       near: kernwelt→kern-welten
+  Cache-Inkohärenz                             near: koharenz→kohaerenz
+  Juna-Verbindung                              near: juna→juna
+  Kael (Selbst)                                near: kael→kael
+  Juna-Signatur                                near: juna→juna
+  Kohärenz-Architekt Stufe 1                   near: koharenz→kohaerenz
+  Guardian                                     near: guardians→guardians, integrityguardian→aegis-teilfunktionen
+  Verschränkung                                near: verschrankungsinsel→verschraenkungs-insel
+  Mosaik                                       near: mosaikherz→mosaik-herz
+  Kael/M                                       near: kael→kael
+  Präsenz                                      near: gartenderstillenprasenz→garten-der-stillen-praesenz
+  AEGIS' Fragilität                            near: aegis→aegis
+  Kernwelt-Typ B                               near: kernwelt→kern-welten
+  Entropie-Kaskade                             near: entropie→entropie
+  Juna-Interferenz                             near: juna→juna
+  Mustererkennung                              near: mustererkennunganomaliedetektion→aegis-metriken
+  Funktionale Multiplizität im Test            near: funktionalemultiplizitat→multiplizitaet, multiplizitat→multiplizitaet
+  AEGIS' Risse                                 near: aegis→aegis, risse→risse
+  AEGIS' Intervention                          near: aegis→aegis
+  Tanz mit der Entropie                        near: entropie→entropie
+  Potentialmeer-Sektor                         near: potentialmeer→potentialmeer
+  Ontologie (Simulation)                       near: simulation→ueberwelt
+  Potentialmeer (Nähe)                         near: potentialmeer→potentialmeer
+  Konfrontation (Grenzen der Simulation)       near: simulation→ueberwelt
+  Potentialmeer-Anomalie Juna                  near: juna→juna, potentialmeer→potentialmeer
+  AEGIS-Manifest                               near: aegis→aegis
+  Gödel                                        near: godelgambit→goedel-gambit
+
+## in_document_not_in_census (5) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Evaluierungseinheit                  evaluierungseinheit          L224
+  Genesis                              genesis                      L27
+  Guardians                            guardians                    L1638
+  Kohärenz                             kohaerenz                    L99
+  Realitätsebenen                      realitaetsebenen             L346
+

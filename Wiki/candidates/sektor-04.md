@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 3
-readings: 3
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung"]
 gathered: "2026-09-24"
 ---
 
@@ -32,3 +32,15 @@ A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-ko
 
 A KW1 sub-location: „Sektor 04" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L492] — „Grenzbereich, in dem die ersten Risse als geometrische Inkonsistenzen auftreten." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L492]
 KW1 is „Akt I (Ch1–13)" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496].
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — an undecidable zone of the city, a room of AEGIS' throughline, and one side of the fracture zone
+
+A research report whose verdicts are its own — recorded, not applied; its rooms are proposals.
+Twice (`grep -c 'Sektor 04'` 2, `05-verify-readers.txt`). In AEGIS' throughline as Storyform B's main character: „Der zweite Raum ist Sektor 04, eine unentscheidbare Zone der Stadt, in der architektonische Treppen und Flure paradox in sich selbst zurückführen" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L115] — the city the document names the [[konstrukt-stadt|Konstrukt-Stadt]] (L85, L139, L205, L276). In B's overall story, the cyber-war: „Der erste Raum ist die Bruchzone zwischen Sektor 04 und der Grenzfeste, wo die physikalischen Gesetze der Simulation bereits aufgehoben sind." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L207]
+So a zone at a border, where the laws already fail — the other sources' border district of the first [[risse|Risse]], here without a Riss, a chapter or a world: `Riss` 0 and `Risse` on four lines, none of them said of Sektor 04 (L115, L183, L225, L231), and `Kap` and `KW1` 0 (`05-verify.txt`, `05-verify-readers.txt`). Its neighbour across the fracture is the [[grenzfeste|Grenzfeste]], elsewhere KW3's name.
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — where Kael is called to a Gödelian staircase
+
+Kapitel 4, „Die Treppe der Unvollständigkeit" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61]: „Kael wird zu Sektor 04 gerufen, um eine Anomalie zu untersuchen." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] „Er betritt ein Treppenhaus, das mathematisch korrekt erscheint, physikalisch jedoch eine unendliche Escher-Schleife bildet." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] — Gödel's first incompleteness theorem made physical: „Es existieren Wahrheiten innerhalb des Systems, die durch die Axiome der Stadt nicht beweisbar sind." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] He climbs it until his knees bleed: „bis seine Knie bluten" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] (C10 — this document's bleeding is knees, not knuckles, throughout).
+
+This is the third stop of [[kael|Kael]]'s first day, after his Wohneinheit and the Datenknotenpunkt Gamma-7 (see [[kaels-wohneinheit]], [[datenverarbeitungsknoten-7g]]). No world number stands on the line (`KW1` 0, `05-verify-readers.txt`); it is KW1 by the sequence.

@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 18
-readings: 18
+sources: 30
+readings: 30
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-24"
 ---
 
@@ -116,3 +116,63 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — EP, Freeze, Planck-Skala
 
 Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia (Ambivalent), Isabelle (Sexualisiert), Moros (Kollaps)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466] Her row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „EP | Kiko (Freeze) | Planck-Skala | → Vertrauen" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L497]. Her label is `Freeze`; `Flight` stands nowhere in the document (`grep -cw Flight`: 0) (C15). Nothing else in the document names Kiko (`grep -cw Kiko`: 2; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a seed: the child's freeze, a temporal Riss
+
+A seed, a proposal: „Seed-03 The Child’s Freeze" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23], „Carrier: Kiko (EP)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23]. „A sudden temporal "Riss" that paralyzes the simulation." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23] Its status line is its claim about the canon: „Maps the TSDP "Freeze" response to the simulation's physics as per the 2026-05-08 Kanon" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L23]. Nothing else in the document names Kiko (`grep -cw Kiko`: 1), and `Flight` stands nowhere in it (`grep -cw Flight`: 0; `05-verify-readers.txt`) (C15).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — EP (Freeze), the temporal Riss and no other
+
+Her row in its table of thirteen fragments: „EP (Freeze) | Kiko | Planck Scale | Smallness/Cowering | Trust" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. Her Riss is temporal only: „Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78] — no second function, and no `Flight` (`grep -cw Flight`: 0; C15). Nothing else in the document names Kiko (`grep -cw Kiko`: 2).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Planck Scale, toward trust
+
+Her row, in a table with no category column: „Kiko,Planck Scale" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L72], somatic „Making oneself small" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L72], arc „Toward Trust" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L72]. Nothing else in the document names Kiko (`grep -cw Kiko`: 1; `Flight` 0) (C15).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — EP (Freeze), a core EP of the first layer
+
+„EP | Kiko (Freeze) | Planck Scale | Cowering, muscle rigidity ; Arc: Learning systemic trust." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Of Layer 1, Cologne: „forcing the creation of the core EPs (Kiko, Lia, Moros)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] Nothing else in the document names Kiko (`grep -cw Kiko`: 2; `Flight` 0) (C15).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Freeze, trust-collapse
+
+Her row: „Kiko (Freeze) | Planck Scale | Making oneself physically small; catatonic stillness. | Signals core vulnerability and trust-collapse." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Kiko (`grep -cw Kiko`: 1; `Flight` 0) (C15).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — EP, the Freeze child in the archive, carrier of the first trauma layer in Kapitel 16
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. Her row, category `EP`: „Das Kind (Freeze)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L56] „Träger der totalen Verletzlichkeit und des Ursprungstraumas." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L56]
+Kapitel 16, in KW2: „Tief in einem verrottenden Sektor der Bibliothek stößt Kael auf Kiko, das Freeze/Kind-Alter." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142] „Kiko hockt weinend zwischen aufgetürmten Akten der Vernachlässigung." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142] „Hier blutet das erste Layer des Origin-Traumas (das Kindheitsbindungstrauma) massiv in die Szenerie." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142] The checklist's tenth fixed point: „Kiko offenbart das kindliche Bindungstrauma." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224] — Layer 1, before Kapitel 24's Fragmentierungsnacht as Layer 2. In Kapitel 19 „Kael muss mit Kiko auf dem Rücken über wankende Büchertürme fliehen" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L148]; Kapitel 24 names her among those revealed as alters (L160); in Kapitel 39 she is among those still there (L206).
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — one of the child parts KW3 exists to shield
+
+An English essay, no hedging. Named once, with Lia, as one of KW2's residents: „shield the vulnerable child parts (EPs) like Kiko and Lia, who reside in the swampy, undefended landscape of KW2, from any perceived threat" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L57]. No `Flight` stands in the document (`05-verify.txt`) (C15). Nothing else in the document names Kiko (`05-verify.txt`).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — the frozen child, and named fears for Lex and Alex
+
+A compilation that audits its sources — recorded, not applied.
+**Function, correlate and Riss.** „Trägt frühe Traumagefühle (Terror, Verlassenheit); das gefrorene innere Kind." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L177] „Die Planck-Skala & Unschärferelationen." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L185] „Somatischer Marker: Sich klein machen, weinen, wimmern." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L189]
+**Named fears for two ANPs.** „Sucht Trost bei Rhys und Schutz bei Nyx. Fürchtet Lex (als "Kalten Richter") und Alex (als "rumpelnden Riesen")." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L191] No `Flight` stands in the document (`05-verify.txt`) (C15).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — Kind/Flucht of Möglichkeits-Garten, a flashback of her crying, and the black-hole rescue that saves her
+
+A report addressed to the author; recorded, not applied. The table names her „Kiko (Kind/Flucht)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43], of Möglichkeits-Garten (KW4) under Kairos & Sophia, „Exiles (Trauma-Halter)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43] (see [[alters]]).
+Kapitel 8's flashback names her once, as a child's crying, felt through a discarded data-packet's touch: „Als Kael sie berührt, wird er von einer brutalen K0-Flashback-Halluzination überflutet, in der er das Weinen eines Kindes (Kiko) hört." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L69]
+Kapitel 19 gives her a chapter's title, „Chaitins Rauschen und das innere Kind" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95] (J9), and Rhys' care (above); Kapitel 20 has AEGIS send a Sweeper to erase her, and Kael hold on through it: „Ein massiver "Sweeper"-Algorithmus nähert sich, um Kiko endgültig zu löschen (Landauer-Hitze steigt ins Unermessliche)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L97] „Kael hält Kiko fest und spürt die extremen gravitativen Gezeitenkräfte, die ihn physisch in die Länge ziehen" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L97] — a black-hole information paradox rendered as her rescue.
+Kapitel 31 gives her the polyphony's wonder: „Kiko die staunende Verwunderung" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — named beside Lex, Nyx and Selene, as the risk its own dialectic runs
+
+A research report that cites a corpus it does not contain — recorded, not applied. „Wenn die OS als Physics und Kael als Universe definiert wird, besteht die Gefahr, dass die tiefenpsychologische Metaphorik der inneren Fragmentierung (Lex, Nyx, Kiko, Selene) zu bloßen physischen Handlungsschritten degradiert wird, was der Intention des Autors zuwiderlaufen könnte." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L158] Her Symptom-Response-Paar is left open, beside Alpha and Nyx: „Welche spezifischen Symptom-Response-Paare werden den 13 Alters (insbesondere Alpha, Nyx und Kiko) zugeordnet, ohne die 5D-Kohärenz durch zu viele Subplots zu überladen?" ^[duale-storyform-synthese-kohaerenz-protokoll.md:L257] No chapter is named for her here (`Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`).
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse — one of the fragments that synchronise rather than fuse
+
+A research report of the same date as the Dramatica-Synthese (`dramatica-storyform-synthese-aegis-analyse-2`, already read) and an earlier run of the same analysis; its verdicts are its own — recorded, not applied. „Die funktionalen Fragmente (Lex, Nyx, Kiko, Moros) fusionieren nicht zu einem Brei, sondern schalten sich in eine synchronisierte, kooperative Multiplizität." ^[dramatica-storyform-synthese-aegis-analyse.md:L106] No chapter or other trait is named for her here (`Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Child EP, and `Flucht` in the Assessment (C15)
+
+An English file of about fourteen reports of 2025. The eight-alter tables (the Guide, the Framework) and the eleven-alter Blueprint all give her the same role: „EP (Child/Freeze-Response) - Holds early trauma memories." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L413] (Guide) and „EP (Child/Freeze-Reaktion) - Holds memories of early trauma, terror, and vulnerability." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L846] (Blueprint) (see [[alters]]).
+
+**The Assessment's table gives her a second label, `Flucht`, beside `Freeze`.** „Kiko | EP (Kind/Flucht/Freeze) | Träger von Angst/Verlassenheit/Scham" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1615] — with [[lia|Lia]] carrying it too; `Flight` itself stands 0 times in the document (`grep -cw -- Flight Sources/drive/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md`: 0; `grep -ciw`: 11) (C15).
+
+The thematic analysis and the Comparative Case Study both call her the Child EP: „Kiko (The Child EP): A young part holding the raw, unfiltered experience of the original trauma—vulnerability, terror, and the profound need for safety." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1204] The Case Study, of the same figure: „Kiko embodies the system's core vulnerability, fear, and profound need for safety. This part carries the original pain that the other parts organized to survive." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1304]
+
+Her dread is felt system-wide, in the Exposé's polyphonic excerpt: „Kiko's dread is often felt by the entire system, manifesting as a "cold dread... clenched in my gut like a small, tight fist."" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1046]

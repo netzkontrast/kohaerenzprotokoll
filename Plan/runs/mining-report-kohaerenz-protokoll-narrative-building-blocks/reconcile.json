@@ -1,0 +1,478 @@
+{
+  "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+  "drive_id": "1qdmCYuyitY9fZs7fRaKXRH5H8LF09S7m6wDPuwla-lk",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of seven documents read by the session and reconciled together — readings and record entries written by six Claude readers split by page group, from Plan/runs/readings-brief-documents-33-39.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 136,
+    "decisions": 146,
+    "decided_by_lookup": 105,
+    "needs_judgement": 41
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Twenty seeds proposing material; the worlds, figures and protocols it names have pages, and its own coinages (6 Paraiyas, Specification Game, Brutal Calculus) are seed titles.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        37,
+        85,
+        95,
+        101
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "Zero-Trust and the Cognitive Firewall, one verification model"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        33,
+        37,
+        95,
+        99,
+        126,
+        146,
+        149,
+        183
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the autopoietic Do-er, misreading its own Sehnsucht, a tragic figure born of trauma"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        64,
+        69,
+        149
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "Act III, and a contemplative paralysis of Inefficient Beauty"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        17,
+        38,
+        163,
+        179
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "separate speakers to AEGIS, and four figures without somatics"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        167
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "a gap: the Meta-cognitive Observer needs a body"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        33,
+        43,
+        64,
+        126
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "what AEGIS can observe but never compute, its own Sehnsucht included"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        85
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the carrier of the KW3 seed, a zero-trust bunker-world"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        33,
+        95
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "what AEGIS' progress eliminates, and what its erasure turns into heat"
+    },
+    {
+      "page": "formel-inversion",
+      "lines": [
+        37
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the first sentence in English, reflexive, as a seed"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        49,
+        99,
+        146,
+        181
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the Genesis-Krise as the original trauma of separation, and AEGIS' Ursprungs-Ich; no beats"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        38,
+        64,
+        68,
+        131,
+        141,
+        149
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "Kael as the living Gödel-sentence, the Gambit in Act III, and a Gödelian paradox of AEGIS' in Act II"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        83,
+        84,
+        85
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "three old bearers as carriers of three worlds, never called Guardians"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        53,
+        85,
+        89,
+        115,
+        149
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "Juna's presence warm, Kael's longing a heat spike, ozone with cold concrete in KW3"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        166
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "a gap: the Firefighter's urgency"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        49,
+        53,
+        54,
+        111,
+        181
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the Universe/Past IC, a glitchy projection in the Archipel, and an exiled part of Kael's Ursprungs-Ich"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        17,
+        60,
+        64,
+        69,
+        141
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the Be-er toward Functional Multiplicity, System Kael a living Gödel-sentence"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        77,
+        79,
+        83,
+        84,
+        85
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "Storyform A's battlefield: three worlds, each with a carrier and an act"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        23
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "a seed: the child's freeze, a temporal Riss"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        22,
+        49,
+        64
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "AEGIS' reversible calculations, and a linear timeline"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        22,
+        100
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "a state the reader is forced into, and the Nothingness Noise"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        38,
+        69
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "a seed carrier, Kael's other name"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        21,
+        83,
+        147
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "KW1 by number only: shadowless, clinical, anchoring Act I"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        22,
+        33,
+        83,
+        85,
+        95,
+        100,
+        115,
+        148
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "heat from erasure and from Kael's integration, ozone in Nyx's fight and in KW3's cold concrete"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        166
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the pure rationality the others are set against"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        166
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "a gap: the somatic profile of creativity"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        83
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the carrier of the KW1 seed"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        54,
+        84,
+        145
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the carrier of the archipelago seed, and the Vortex's convergence there"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        49,
+        107,
+        111,
+        115,
+        157,
+        159
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "a non-local exploit against AEGIS' logic, a material entanglement in RS-A, and its boundary the Witness-Layer"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        17,
+        159,
+        165,
+        179
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "not fusion, a high-Φ state, and the Polyphony"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        39,
+        84,
+        95,
+        100,
+        145
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the Nothingness Noise as K₀, made by AEGIS' erasure and threatening the system"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        22
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "a seed: the staccato of the Fight-EP"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        21,
+        23,
+        83,
+        146
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "the Riss im Spiegel as the inciting incident, Kiko's temporal Riss, organicity patched in KW1, and a Riss opening on the Genesis Crisis"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        165
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "Integrator/Inner Self Helper, with no somatic profile"
+    },
+    {
+      "page": "thermodynamischer-phaenomenalismus",
+      "lines": [
+        64,
+        69,
+        100,
+        115
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "not named; Kael high-Φ, AEGIS without consciousness, longing felt as heat"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        95,
+        99,
+        146
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "AEGIS' self-mutilation, the protocol governing OS-B, reversed in the Vortex"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17,
+        23,
+        85,
+        130
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "ANPs in phobic avoidance, the freeze mapped to the simulation's physics"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        146
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "a Riss in its centre at the Vortex, showing the Genesis Crisis"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        33,
+        100,
+        137,
+        141,
+        143,
+        145,
+        146,
+        147,
+        148,
+        149,
+        153
+      ],
+      "attribution": "the Narrative Building Blocks report",
+      "note": "one Vortex in Ch35-36, the Driver-Pivot from B to A, five climax beats, and a Riss in the Überwelt showing the Genesis Crisis"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      11,
+      13,
+      17,
+      21,
+      29,
+      100,
+      122,
+      137,
+      141,
+      143,
+      163,
+      173,
+      177
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3",
+    "C4",
+    "C6",
+    "C7",
+    "C8",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q2",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (worlds named for Guardians), J56/J23 (plurals), J60, J70, J74/J93, J76–J78, J86, J90, J91 (Great Inversion apart from the Truth-Rotation), J98/J99, J100–J102 (English names placed by the sentence), J104, J51",
+  "records_read_and_not_changed": {
+    "C13": "`Cologne` 0",
+    "C15": "`Flight` 0",
+    "C14": "`person`, `POV` 0"
+  },
+  "not_promoted": [
+    "6 Paraiyas — L49",
+    "Externalized Perpetrator Introject — L126",
+    "Komorebi — L116"
+  ],
+  "internal_tension": "Three old bearers carry three worlds („Carrier: LogOS“, Mnemosyne, Cerberus; L83–85) against „KEIN Guardian-1:1“; the Nothingness Noise as K0 erasure pressure (L100) where every other source makes it the K1 union; two Ursprungs-Ichs, AEGIS' own (L33, L99) and Kael's (L181), not related.",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 33–39: PageRank recall@8 0.654 → 0.644, only C11 (0.6 → 0.4)"
+}

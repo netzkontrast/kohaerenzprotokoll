@@ -1,0 +1,464 @@
+{
+  "document": "m-als-fundament-der-simulation",
+  "step": "reconcile-pre",
+  "at": "2026-09-27",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-27",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 97,
+  "decisions": 95,
+  "same_surface": {
+    "kjverbindung": [
+      "K-J-Verbindung",
+      "K-J Verbindung"
+    ]
+  },
+  "decided_mechanically": 68,
+  "needs_judgement": 27,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 41
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 38
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 32
+      },
+      {
+        "candidate": "Kernwelt",
+        "page": "kern-welten",
+        "readings": 32
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 12
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 32
+      },
+      {
+        "candidate": "Glitch",
+        "page": "risse",
+        "readings": 32
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 32
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 13
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Plot-Blueprint"
+      },
+      {
+        "candidate": "Version Ω+2"
+      },
+      {
+        "candidate": "Monstergruppe"
+      },
+      {
+        "candidate": "M"
+      },
+      {
+        "candidate": "Physik"
+      },
+      {
+        "candidate": "Betriebssystem"
+      },
+      {
+        "candidate": "39 Beats"
+      },
+      {
+        "candidate": "M-als-Fundament-Framework"
+      },
+      {
+        "candidate": "VOA"
+      },
+      {
+        "candidate": "CFT"
+      },
+      {
+        "candidate": "K-J-Verbindung"
+      },
+      {
+        "candidate": "M-Substrat"
+      },
+      {
+        "candidate": "Baby-Monstern"
+      },
+      {
+        "candidate": "Mathematische Universumshypothese"
+      },
+      {
+        "candidate": "Vertex-Operator-Algebren"
+      },
+      {
+        "candidate": "Konforme Feldtheorien"
+      },
+      {
+        "candidate": "Operatorproduktentwicklung"
+      },
+      {
+        "candidate": "OPE"
+      },
+      {
+        "candidate": "Korrelationsfunktionen"
+      },
+      {
+        "candidate": "Chirale Struktur"
+      },
+      {
+        "candidate": "Dirac-Operatoren"
+      },
+      {
+        "candidate": "Parakonsistente Logik"
+      },
+      {
+        "candidate": "Parakonsistenz"
+      },
+      {
+        "candidate": "ex contradictione quodlibet"
+      },
+      {
+        "candidate": "Alignment Problem"
+      },
+      {
+        "candidate": "Reward Hacking"
+      },
+      {
+        "candidate": "Outer Alignment"
+      },
+      {
+        "candidate": "Inner Alignment"
+      },
+      {
+        "candidate": "IFS-Modell"
+      },
+      {
+        "candidate": "Internal Family Systems"
+      },
+      {
+        "candidate": "Exiles"
+      },
+      {
+        "candidate": "Managers"
+      },
+      {
+        "candidate": "Firefighters"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "Kern-Selbst"
+      },
+      {
+        "candidate": "J"
+      },
+      {
+        "candidate": "Hard SF"
+      },
+      {
+        "candidate": "Kosmischer Horror"
+      },
+      {
+        "candidate": "Lovecraft"
+      },
+      {
+        "candidate": "Akt 1"
+      },
+      {
+        "candidate": "Eindämmung"
+      },
+      {
+        "candidate": "Beat 2"
+      },
+      {
+        "candidate": "Beat 3"
+      },
+      {
+        "candidate": "Beat 4"
+      },
+      {
+        "candidate": "Beat 5"
+      },
+      {
+        "candidate": "Beat 6"
+      },
+      {
+        "candidate": "Beat 7"
+      },
+      {
+        "candidate": "Beat 8"
+      },
+      {
+        "candidate": "Containment Breach"
+      },
+      {
+        "candidate": "Beat 9"
+      },
+      {
+        "candidate": "Wächter-Programme"
+      },
+      {
+        "candidate": "Akt 2"
+      },
+      {
+        "candidate": "M-Kern-Zugriff"
+      },
+      {
+        "candidate": "M-Fundament"
+      },
+      {
+        "candidate": "Allianz der Resonanten"
+      },
+      {
+        "candidate": "Akt 3"
+      },
+      {
+        "candidate": "Konfrontation"
+      },
+      {
+        "candidate": "M-Schnittstelle"
+      },
+      {
+        "candidate": "NZT-Rekalibrierung"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS' Ziel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine  /  Moonshine-VOA",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine  /  Monstrous Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelten  /  Kernwelt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelt  /  Kernwelt-Transfer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "M's Paradox  /  Paradox",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autopoiesis  /  Autopoiesis-Stress",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autopoiesis  /  Autopoiesis-Bruchpunkt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Logic of Paradox  /  Paradox",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Resonanz  /  Kognitive Resonanz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Resonanz  /  Anti-Resonanz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Protectors  /  Protector",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Beat 1  /  Beat 10",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Beat 1  /  Beat 11",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Beat 1  /  Beat 12",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Beat 1  /  Beat 13",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Paradox  /  Paradox-Maschine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "IFS-Integrationsmoment  /  Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Moonshine",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "moonshinelink",
+            "page": "moonshine-link"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS' Ziel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "KI-Kontrollproblem",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kiko",
+            "page": "kiko"
+          }
+        ]
+      },
+      {
+        "candidate": "Resonanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanz",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "resonanzlandschaft",
+            "page": "resonanz-landschaft"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragmentierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mustererkennunganomaliedetektion",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt-Transfer",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulation Hypothesis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 17,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

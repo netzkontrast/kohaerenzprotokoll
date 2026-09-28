@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      66
+  backslash escapes      258
+  typographic marks      100
+  ascii quotes           4
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systeme, Systemkollaps, Systemlogik, Systemlöschungen, Systems, Systemstabilität, Systemversagen, Systemzustände
+  daten    Daten, Datenpaket, Datenpfade, Datenrauschen, Datenstruktur, Datenstrukturen, Datenströme, Datensturm
+  inter    Interaktion, Interdiction, Interdisciplinary, Interface, Interferenz, Interferenzmuster, Interferenzstruktur, Interventionen
+  archi    Archipel, Archipels, Architecture, Architektur, Archive
+  ident    Identifikationsfiguren, Identity, Identität, Identitäts, Identitätswechsel
+  infor    Information, Informational, Informationsdichte, Informationslöschung, Informationsphysik
+  parad    Paradigma, Paradigmen, Paradoxie, Paradoxon, Paradoxons
+  proto    Proto, Protokoll, Protokolle, Protokollebene, Protokolls
+  story    Story, Storyform, Storyformen, Storypoint, Storypoints
+  bruch    Bruch, Bruchstücke, Bruchteil, Bruchzone
+  falsi    Falsification, Falsifikation, Falsifikations, Falsifikationsanalyse
+  handl    Handlung, Handlungen, Handlungs, Handlungsoptionen
+  konfl    Konflikt, Konfliktdynamiken, Konflikte, Konflikttreiber
+  konst    Konstante, Konstituiert, Konstrukt, Konstruktion
+  kontr    Kontrast, Kontrolle, Kontrollverlust, Kontrollzentrum
+  metho    Method, Methodenwechsel, Methodik, Methodology
+  modul    Modul, Modularität, Module, Modulen
+  persp    Perspectives, Perspektive, Perspektiven, Perspektivträger
+  psych    Psyche, Psychological, Psychologische, Psychology
+  refle    Reflection, Reflexion, Reflexionen, Reflexionsprotokolle
+  selbs    Selbstanalyse, Selbstaufgabe, Selbstmodell, Selbstwahrnehmung
+  struk    Struktur, Strukturanalyse, Strukturen, Strukturierung
+  unter    Unter, Unterdrückung, Untersuchung, Untersuchungsgegenstand
+  versc    Verschieben, Verschiebung, Verschleiß, Verschränkungs
+  vorhe    Vorherrschaft, Vorhersage, Vorhersagemodelle, Vorhersagen
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Allein
+  Alle < Allegorie
+  Alle < Allegorien
+  Alle < Parallelverarbeitung
+  Dies < Diese
+  Dies < Dieser
+  Down < Countdown
+  Down < Countdowns
+  Dual < Duale
+  Dual < Dualismus
+  Eine < Keine
+  Eine < Seine
+  Eine < Bausteine
+  Fall < Abfall
+  Fall < Zerfall
+  Fall < Zerfalls
+  Fall < Fallstricke
+  Fall < Präzedenzfall
+  Form < Formen
+  Form < Storyform

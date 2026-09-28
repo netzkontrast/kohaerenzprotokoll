@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 15
+sources: 25
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -144,3 +144,62 @@ The entry above was written by the Jules session (decision 014) before this docu
 KW2 is „Peripherie der Stadt, wo AEGIS' operationale Geschlossenheit erodiert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L435] And of all four: „die Kernwelten sind Akt-Marker, nicht je-ein-Guardian und nicht literale Geographie." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] „Sie strukturieren die Erzählung von außen, nicht die Welt von innen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427]
 The simulation is not the city: „Die Realität der Simulation ist nicht homogen." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L427] — it divides into the four worlds. `Logos-Prime` stands 0 times.
 Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Whether the periphery of L435 belongs to the Konstrukt-Stadt it does not say; its worlds structuring the narration from outside (L427) bear on the Kap-25 session log's question above (`Filterregime statt Ortswechsel`) without answering it. Recorded, not applied; the decision stands.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**KW1, as decided — in English, `Construct-City`, with `Logos-Prime` beside it.**
+„KW1: The Construct-City (Logos-Prime):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L59] „Sterile, blue/gray, constant 21°C." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L60] The worldbuilding concept's KW1 heading in English (J100); it calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88], recorded, not applied.
+Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Agrees; nothing to change.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**An unnamed city at 21°C whose architect is AEGIS, its temperature the limit of the simulation's geometry — no world named, and on no row by name.**
+„In the hyper-sterile corridors of the city, a question vibrates through the 21°C air, existing just beneath the threshold of awareness:" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L15] „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is the city's architect." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43] „The city’s constant temperature is a literal limit." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L37] „If the heat from deletion exceeds this balance, the simulation’s geometry begins to crack." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L37]
+`Construct`, `Konstrukt-Stadt`, `KW1` and `Kernwelt` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`); the city is the whole of its setting and no world divides it. Nearest row 2's shape — a city that is the setting, run by AEGIS — without saying the city is the whole simulation; the identification of its city with the Konstrukt-Stadt is by attributes. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**KW1, as decided — `The Construct City (Logos-Prime)`.**
+„KW1: The Construct City (Logos-Prime):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L64] „Sterile and geometric." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L64] The first of four spheres, and no city elsewhere in it (`City` 1, `city` 0; `05-verify-readers.txt`).
+Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Agrees; nothing to change.
+
+## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
+
+**A sterile urban construct at 21 degrees, unnamed, where the story begins and ends — no world named, and on no row by name.**
+„a sterile urban construct where the "kognitive Apparat" normalizes all appearances to a baseline of 21 degrees Celsius" ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13]; „The diegetic symptoms of the city are actually thermodynamic consequences of information deletion:" ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L25]; „The narrative follows an "Ouroboros Structure," returning to the initial image of the city." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L39]
+`Konstrukt-Stadt` and `KW1` stand 0 times (`05-verify.txt`); no world divides the city. Like the Companion Guide, nearest row 2's shape without saying the city is the whole simulation. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**The Konstrukt-Stadt, unnumbered, as the city of its scene seeds and rooms — [[sektor-04|Sektor 04]] a zone of it, and its sectors ringing the Mnemosyne-Archipel at the [[vortex|Vortex]].**
+„Der erste Szenen-Keim verortet Kael in einer reizarmen Transitzone der Konstrukt-Stadt, wo er einen somatischen Flashback erfährt." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L85] Sektor 04 is „eine unentscheidbare Zone der Stadt" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L115], beside the Grenzfeste (L207). In the cyber-war: „Ganze physische Sektoren der Konstrukt-Stadt stürzen geräuschlos in sich zusammen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L205] At the Vortex's first beat, after „Das Mnemosyne-Archipel erbebt unter der Last weitreichender, koordinierter Erasure-Sweeps." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L276]: „Die umgebenden, ehemals belebten Sektoren der Konstrukt-Stadt verblassen in einem eiskalten, fraktalen Zerfall, da ihnen die Rendering-Energie entzogen wird." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L276]
+`KW1`–`KW4` and `Kernwelt` stand 0 times (`05-verify.txt`), `Logos-Prime` 0 (`05-verify-readers.txt`). Nearest row 2's shape — one city around places other sources give to other worlds: the archipelago, elsewhere KW2 (J49), and the [[grenzfeste|Grenzfeste]], elsewhere KW3's name — without saying the city is the whole simulation. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**KW1, by name and number in one cell, and the novel's opening room.** The world table: „Konstrukt-Stadt (KW1) | LogOS (Rationalismus) | Manager (ANP) | Kael (Host), Lex (Analytiker), Limina (Gatekeeper)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L40] — the same form as the storyform-und-outline's „KW1 Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219], row 3. „Kael erwacht in seiner Wohneinheit in der Konstrukt-Stadt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L55] `Logos-Prime` does not occur (0, `05-verify.txt`) — its second name is only the Guardian's, in the table cell.
+Positions 1 and 3, as the author decided — KW1 only, 2026-09-24. Predates the decision by seven months and agrees with it.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**Never writes `Konstrukt-Stadt` — KW1 named only for its Guardian, `Logos-Prime`, on no row by name.**
+„\*\*KW1: Logos-Prime\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40], „Sterile Stadt, kalter Beton, grelles Licht, Desinfektionsmittel." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40] Kapitel 1: „Kael erwacht in Logos-Prime (KW1)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] „Die Temperatur beträgt exakt und unveränderlich 21°C." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94]
+`Konstrukt-Stadt` stands 0 times (`05-verify.txt`); by its content — the sterile 21°C world of [[kael|Kael]]'s waking, LogOS' domain — this is KW1 as the author decided, agreeing at the level of the world without ever using the name the conflict is about.
+
+## 2026-09-27 — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese
+
+**Named once, unnumbered, and on no row by name.**
+A storyform study reading a NotebookLM corpus, not the novel directly — recorded, not applied. „Kael ist das epische Zentrum dieses Zerfalls, determiniert durch seine ausweglose Situation in der Konstrukt-Stadt (MC: Universe)." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L144]
+`KW1` and `Kernwelt` stand 0 times beside it (`05-verify.txt`); the document says neither that the city is the whole simulation nor that it is one world of four. On no row by name, nearest the several other sources above that name the city without its number. The author's decision — KW1 only, 2026-09-24 — stands; recorded, not applied.
+
+## 2026-09-27 — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook
+
+**KW1, as decided — `Kernwelt 1, the Konstrukt-Stadt`, an English essay naming the same identity the author later confirmed.**
+„Strategically, Kernwelt 1, the Konstrukt-Stadt, serves as the novel's initial reality and the domain of Kael’s "Apparently Normal Parts" (ANPs)." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L17] Its heading gives KW1 the same Guardian's name: „Kernwelt 1 (KW1) - Logos-Prime" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L15].
+Agrees with the author's decision (KW1 only, 2026-09-24). Nothing to change.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**KW1, as decided — `The Construct City`, in English, the same identity the author later confirmed.**
+„KW1: Logos-Prime (The Construct City)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L968]
+`Konstrukt-Stadt` stands 0 times and `Construct City` 5, always naming KW1 alone (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify.txt`, `Sources/terms/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md`). Agrees with the author's decision (KW1 only, 2026-09-24). Nothing to change.

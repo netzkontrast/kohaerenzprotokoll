@@ -4,7 +4,7 @@ subject: AEGIS
 kind: expansion of an acronym
 status: open
 first_seen: "2026-09-16"
-sources: 7
+sources: 14
 pages: ["aegis"]
 ---
 
@@ -99,3 +99,44 @@ Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generati
 „AEGIS (*Autonomous Entropic Gatekeeper for Integrity Systems*) ist die KI, die die Konstrukt-Stadt steuert." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L247]
 What realities come from is the Foundation, not AEGIS: „die Monstergruppe M und die mit ihr verbundenen Symmetriestrukturen, aus denen alle Realitäten (inklusive AEGIS' Simulation) abgeleitet sind" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L701] — on the second open question, the gatekeeper beside a substrate that is something else.
 Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative` 0, `05-verify-readers.txt`), and nothing says which expansion it supersedes. Position 1's side; the conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Position 1's expansion, and no other — an operatively closed system, in a document that calls itself the binding rulebook.**
+„AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is an autopoietic, operatively closed system." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25]
+Its claim to bind is recorded, not applied, and it does not say which expansion it supersedes. Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative Integrity` 0, `05-verify-readers.txt`). Position 1's side; the conflict stays open.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**Position 1's expansion, and no other — the city's architect.**
+„AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is the city's architect." ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L43]
+An architect of the city it governs, not the substrate the city emerges from. Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative Integrity` 0). Position 1's side; the conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**Position 1's expansion, and no other — the monitoring entity inside the [[kael|Kael]] system.**
+„AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is an autopoietic system defined by the tautology:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L47]
+Inside, not beneath: „The monitoring entity, AEGIS, operates under a catastrophic category error:" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L21] Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative Integrity` 0). Position 1's side; the conflict stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Position 1's expansion, the earliest-dated read source to give it, and no other.**
+„AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L17]. Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative` 0). It does not say which expansion it supersedes. On the second open question it goes further than most: „AEGIS fungiert hierbei als externalisiertes Täterintrojekt" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L17] — the gatekeeper beside a substrate that is Kael's own defence, externalised, as the konsolidiertes Konzept and the Physics of Heartbreak later say in nearly the same words, nine and more weeks before either. Position 1's side; the conflict stays open.
+
+## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
+
+**Position 1's expansion, and no other — beside a defence expanded into a world-state.**
+„The primary antagonist of the protocol is not a sentient villain, but AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems)." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17]
+On the second open question, the gatekeeper stands beside something like a substrate, in the konsolidiertes Konzept's terms: „rather, AEGIS is Kael’s own defense architecture externalized and expanded into a world-state." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative Integrity` 0). Position 1's side; the conflict stays open.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**Position 1's expansion, and no other — a model's compilation that orders its sources by "inhaltliche Reife" rather than date.**
+„AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L294]
+Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative` 0, `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`), and nothing says which expansion it supersedes. On the second open question, its Primal Directive states what AEGIS is rather than what a reality emerges from: „Aegis is what Aegis prevents itself from not being." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L296] Position 1's side; the conflict stays open.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**Position 1's expansion, and no other — a philosophical position embodied in a system, not a simple villain.**
+„AEGIS, whose full designation is **Autonomous Entropic Gatekeeper for Integrity Systems**, is far more than a simple villain; it is a philosophical position embodied in a system." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1210]
+Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, and nothing of `Generative Integrity Substrate` — `Substrate` 0 case-sensitive, `Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`), and nothing says which expansion it supersedes. Position 1's side; the conflict stays open.

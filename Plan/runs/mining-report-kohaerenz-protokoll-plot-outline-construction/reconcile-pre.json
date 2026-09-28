@@ -1,0 +1,484 @@
+{
+  "document": "mining-report-kohaerenz-protokoll-plot-outline-construction",
+  "step": "reconcile-pre",
+  "at": "2026-09-27",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-27",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 103,
+  "decisions": 99,
+  "same_surface": {
+    "5dinterference": [
+      "5D-interference",
+      "5D-Interference"
+    ],
+    "functionalmultiplicity": [
+      "functional multiplicity",
+      "Functional Multiplicity"
+    ]
+  },
+  "decided_mechanically": 76,
+  "needs_judgement": 23,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 27
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 15
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 30
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 18
+      },
+      {
+        "candidate": "Trennungsprotokoll",
+        "page": "trennungsprotokoll",
+        "readings": 22
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 26
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 19
+      },
+      {
+        "candidate": "RS-A",
+        "page": "rsa",
+        "readings": 1
+      },
+      {
+        "candidate": "Vortex",
+        "page": "vortex",
+        "readings": 21
+      },
+      {
+        "candidate": "Gödel-Gambit",
+        "page": "goedel-gambit",
+        "readings": 14
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 17
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 16
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 17
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 21
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 21
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Storyform A"
+      },
+      {
+        "candidate": "Storyform B"
+      },
+      {
+        "candidate": "The Heuristic of Integration"
+      },
+      {
+        "candidate": "5D-interference"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "K1"
+      },
+      {
+        "candidate": "K0"
+      },
+      {
+        "candidate": "Explanatory Gap"
+      },
+      {
+        "candidate": "Grand Argument"
+      },
+      {
+        "candidate": "inkommensurabel"
+      },
+      {
+        "candidate": "MC-A"
+      },
+      {
+        "candidate": "Be-er"
+      },
+      {
+        "candidate": "Psychology"
+      },
+      {
+        "candidate": "Tertiäre Strukturelle Dissoziation der Persönlichkeit"
+      },
+      {
+        "candidate": "K1-buffer"
+      },
+      {
+        "candidate": "Delta-Q"
+      },
+      {
+        "candidate": "K1-Resonance Loop"
+      },
+      {
+        "candidate": "Autopoietische Operative Geschlossenheit"
+      },
+      {
+        "candidate": "functional multiplicity"
+      },
+      {
+        "candidate": "Garbage Collector"
+      },
+      {
+        "candidate": "Connective Tissue"
+      },
+      {
+        "candidate": "Kanon-Kompatibel"
+      },
+      {
+        "candidate": "MC-B"
+      },
+      {
+        "candidate": "Do-er"
+      },
+      {
+        "candidate": "Universe"
+      },
+      {
+        "candidate": "Scarcity of Bits"
+      },
+      {
+        "candidate": "Timelock"
+      },
+      {
+        "candidate": "ionized dust"
+      },
+      {
+        "candidate": "IC-A"
+      },
+      {
+        "candidate": "IC-B"
+      },
+      {
+        "candidate": "Influence Characters"
+      },
+      {
+        "candidate": "Adversarial Witnesses"
+      },
+      {
+        "candidate": "Situation"
+      },
+      {
+        "candidate": "mutual information"
+      },
+      {
+        "candidate": "predictive error"
+      },
+      {
+        "candidate": "OS-A"
+      },
+      {
+        "candidate": "OS-B"
+      },
+      {
+        "candidate": "Objective Story"
+      },
+      {
+        "candidate": "Physics"
+      },
+      {
+        "candidate": "Landauer-Wärme"
+      },
+      {
+        "candidate": "System Log"
+      },
+      {
+        "candidate": "Sensory Hallucination"
+      },
+      {
+        "candidate": "The RIFT"
+      },
+      {
+        "candidate": "RS-B"
+      },
+      {
+        "candidate": "Relationship Story"
+      },
+      {
+        "candidate": "Materiality"
+      },
+      {
+        "candidate": "Moonshine-Boundary"
+      },
+      {
+        "candidate": "Symbiosis"
+      },
+      {
+        "candidate": "Telephone-Call Anchor"
+      },
+      {
+        "candidate": "maximal integrated information"
+      },
+      {
+        "candidate": "Living Silence"
+      },
+      {
+        "candidate": "Chapters 35–36"
+      },
+      {
+        "candidate": "Silence as"
+      },
+      {
+        "candidate": "Dialetheia"
+      },
+      {
+        "candidate": "Phantom Resonance"
+      },
+      {
+        "candidate": "Kanon-Block"
+      },
+      {
+        "candidate": "13-alter model"
+      },
+      {
+        "candidate": "Alter Canon"
+      },
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Index"
+      },
+      {
+        "candidate": "Autopoiesis"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "The Phoenix Collapse  /  Phoenix Collapse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "System Mind  /  Mind",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-as-Idea",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Coherence Kernel  /  Coherence Kernel (K1)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ozone Buffer  /  ozone",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Thermodynamic Scars  /  Thermodynamic Scar",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Erasure/Pivot",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Erasure Kernel  /  Erasure Kernel (K0)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Landauer-Heat Sink  /  Landauer-Heat",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Tarski-Schema  /  Tarski",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Vortex  /  The Vortex",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Heat-Spike  /  Heat-Spike (Landauer → ∞)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Silas  /  Silas/Oblivion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Silas/Oblivion  /  Oblivion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-as-Idea",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulation Manipulation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "The Vortex",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "vortex",
+            "page": "vortex"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archipelago",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Erasure/Pivot",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Silas/Oblivion",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "oblivion",
+            "page": "oblivion"
+          },
+          {
+            "surface": "silas",
+            "page": "silas"
+          }
+        ]
+      },
+      {
+        "candidate": "Stille",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "gartenderstillenpraesenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "gartenderstillenprasenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "telefonstille",
+            "page": "telefon-stille"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 45,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

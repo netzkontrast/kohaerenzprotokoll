@@ -28,6 +28,22 @@ And the two read ones with them: „Yes, 22 and 23 are research too" (2026-09-26
 them the novel's text, and were corrected; the readings quote what they say and stand.
 A document may still call itself a draft, and a reading may quote that.
 
+**New from the last eight canon-era documents (2026-09-27, documents 32–39, all English, all 2026-05-08):**
+- **The Guardian-world pairing, again, on the canon's date.** The Narrative Building Blocks report makes
+  LogOS, Mnemosyne and Cerberus the carriers of KW1, the Mnemosyne Archipelago and „The Cerberus Labyrinth
+  (KW3)", and the Systemic Architecture Specification names the four worlds Construct-City (Logos-Prime),
+  Mnemosyne-Archipelago, Cerberus-Labyrinth, Kairos-Potentialis — while it and two others keep two
+  Guardians. Recorded in Q5 and C6; your decision for five stands.
+- **Throughline domains disagree between documents of one date**: the Plot/Outline Mining-Report puts
+  OS-A in Physics and OS-B in Mind, the Systems Narrative Analysis OS-A Psychology and OS-B Physics. On
+  the pages; no record. A record for the domains?
+- **Where Functional Multiplicity is reached** has a fourth answer — the Vortex (Companion Guide's fifth
+  beat, the Systems Narrative Analysis' fourth point) beside Kap 33 and Kap 39. A record?
+- **The Nichts-Rauschen as K0** in the Narrative Building Blocks report (its L100) against every other
+  source's K1 union; **Juna's presence as cold** in the Plot/Outline Mining-Report (L37). On the pages.
+- **`aegis-teilfunktionen`**: a source now explains two of its four functions; whether to split the page
+  is open.
+
 **New from the philosophischer Bericht (2026-09-27):**
 - **AEGIS' voice, a new position on C14.** The document gives AEGIS the first person in all of
   Storyform B, collapsing to the third in the Vortex (its L292, L627), and, under the alter table,
@@ -437,7 +453,7 @@ may be a third surface for the same entity. Nothing read links them.
 **The quote convention is in use.** A research-source quotation carries its
 citation on the same line and inside its table cell. Source labels and the
 wiki's own working sentences use code or emphasis; recorded author decisions
-link to their decision record. The checker reports 4
+link to their decision record. The checker reports 0
 <!--state:quotes.unchecked--> quotations without a resolvable source citation.
 `python3 scripts/quotes.py --unchecked` lists any new gaps with file and line.
 
@@ -466,9 +482,9 @@ German compounds that nothing has tested. The fixture is nearly free: every
 the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
 author's delegation, set the reach of a rule that also passes a plural ending:
-`pairs.RULES["plural"]` decides 56 <!--state:pairs.plural_correct--> of
-85 <!--state:pairs.labelled--> pairs where `fold()` decides
-47 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
+`pairs.RULES["plural"]` decides 57 <!--state:pairs.plural_correct--> of
+89 <!--state:pairs.labelled--> pairs where `fold()` decides
+48 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
 pages joined and 28 new merges across all 14 candidate lists, each a singular and
 its plural. It is a ledger row and the rule a model run asks first;
 reconciliation still uses `fold()` alone. Whether `fold()` adopts it is the
@@ -585,7 +601,7 @@ both sides quoted — noted for the author, none settled:
 in Akt I but Kap 4 and 5 is the strukturierter Outline's HR-Stufe name, and the
 Konzept-Iteration Genesis names Kap 2–5 differently from all the rest.
 
-**Next, in order:** the 96 <!--state:chapters.missing--> chapter mentions no page
+**Next, in order:** the 98 <!--state:chapters.missing--> chapter mentions no page
 holds yet (`chapters.py missing` — the character bible's Kap-33 scene, the drafting
 manual's reveal timeline, the Alter profiles' debuts); the Abhandlung and both
 drafts of Kap 0 are read; then chapters in `graph.py` and `ui.py` if
@@ -615,7 +631,7 @@ never a reading or a number.
 6. ~~`dual-storyform-hintergruende-md`~~ — read 2026-09-27, document 30, before item 5 on the
    author's „das übernächste"; it names Kap 1, 13, 28, 33 and 35–39, no Kap 22 and no Kap 40.
 
-Four whole-novel plans from before May 2026 are in more than half the tables and marked *in most
+Four whole-novel plans from before May 2026 — read 2026-09-27, documents 40–43 — are in more than half the tables and marked *in most
 chapters* there — `monstergruppe-primzahlen-plot-blueprint`,
 `hard-sf-roman-outline-dkt-physik-cosmic-horror`,
 `dramatica-storyform-synthese-aegis-analyse-2`,
@@ -688,7 +704,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   57 <!--state:sweep.decided--> hits, 35 <!--state:sweep.readings--> of them
+   127 <!--state:sweep.decided--> hits, 66 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -764,7 +780,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 27 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 47 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -903,7 +919,149 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the philosophischer Bericht reconciled
+## Next document — none: the author asked that no new document be started (2026-09-28)
+
+**„Dont start any new documents"** — the author, 2026-09-28, while document 51 was already being read. It
+was finished and nothing after it was begun. `chapter_sources.py across` has not been run again, and no next
+document is named here. The next session starts from the author's word, not from a reading suggestion.
+
+**Document 51 is done, 2026-09-28**: `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, the
+Inquiry file, about fourteen English reports of 2025, the last of the 2026-09-25 scans. `reconcile-52` is the
+record. **No page**; J119 (Dr. Aris Thorne on `lex`), J120 (the English world names on the paged worlds);
+readings on 42 pages and `plot.md`; entries in C1, C3, C6, C9, C12, C13, C15 and Q1, Q3, Q5. Retrieval 0.660 →
+0.654, only C4. Four Sonnet readers, split by page group; `account.py order` holds again.
+- **The file disagrees with itself about the cast**: eight alters with Praetor and Oblivion in four reports,
+  eleven with Alex, Lia, Isabelle, Moros and Argus in two, each set calling itself canonical; the last report
+  names its sources for the split (Q3). Nyx is „Her" in one report and „his" in the rest. KW4 is the Garden of
+  Possibilities in one table and of Potential in another.
+- **Readers kept writing comparisons with documents they had not quoted** even with the rule in the brief — „no
+  other read source has it", „a year earlier than the 2026 sources", „the only name common to every roster"
+  (false: five names stand in both rosters). The session removed each before committing. The rule in a brief
+  is not enough; a check that flags „only / no other / first / every other" in a new reading would be.
+- **Noticed, no record holds it:** the Inquiry asks what became of the other fragments of AEGIS'
+  self-mutilation (L78, on `genesis`); the Assessment's partitioning isolates Juna's resonance from Kael rather
+  than splitting AEGIS' Ursprungs-Ich (on `trennungsprotokoll`).
+
+### Previous document — documents 48–50 reconciled
+
+**Documents 48–50 are done, 2026-09-28**: three of the four 2026-09-25 scans — the Charakter-Kompilation
+(2026-03-31), the Sensory Rulebook (2025-11-03) and the Hard-Problem-Analyse (2026-04-28).
+`reconcile-49` to `reconcile-51` are the records. **No page**; J117 (Landauer-Wärme by the sentence), J118
+(a world named twice in one breath goes on the paged world); readings on 33, 20 and 21 pages, Kap 13, 32,
+35, 36 and `plot.md`; entries in C1–C6, C8, C9, C11–C15 and Q1, Q3–Q5. Retrieval unchanged at 0.660. Five
+Sonnet readers, split by page group.
+- **Three absence counts were not zero.** Readers counted `dekanonisiert`, `Ursprungs-Ich` and `Spiegel` in
+  document 48 as 0 — the first because the text writes `Dekanonisiert`, the second from a path that did
+  not resolve. The session recounted and corrected four Guardian pages, `potentialmeer` and C13, and told
+  the readers to count with the full path and case-insensitively as well. A brief should say so from the
+  start.
+- **Readers again wrote comparisons to documents they did not quote** — „the one read source", „as in
+  document 3", „every other read source", „a fourth position", „the earliest-dated source". The session
+  removed each before committing. `quotes.py` passes all of them.
+- **Noticed, no record holds it:** document 48 gives „Komponente 734" to Lex (C12's entry records it);
+  document 49 puts ozone and warmth together in Juna's world, cold or warmth in KW2 (C11); document 50
+  attributes thirteen Alters to a „Hard Canon Masterfile" the corpus does not contain, where document 48
+  a month earlier counts eleven on a „Hard Canon Status Report" (Q3).
+
+### Previous document — document 47 reconciled
+
+**Document 47 is done, 2026-09-27**: `kohaerenz-protokoll`, the Kohärenz-Protokoll narrative of
+2025-04-27, 50k words, read on its own in parts. A foreword, a Genesis of AEGIS told from an Ich, „ab hier
+nur Konzept", then 22 chapters of prose — Kael, K-1123, a fragment of M, through Co₁, McL, Beta-Rho-5 and
+Ly, each with its own Guardian (LogOS, Netzweber, Chaos-Regulator, Möglichkeits-Weber). Research, like
+every narrative text. `reconcile-48` is the record. **No page**; J113–J116; readings on 24 pages, Kap 1–12
+and 14–23, `plot.md`, entries in C2–C7, C11, C12, C14 and Q1, Q3–Q5. Retrieval unchanged at 0.660. Six
+Sonnet readers, split by page group.
+- **Its chapter order does not hold**, and the pages say so without reordering: no Kapitel 13; Kapitel 17
+  („Zyklus 2") opens after the collapse Kapitel 18 („Zyklus 1") averts; 17 and 20, 21 and 22 share their
+  headers; Kapitel 23's closing report names Kapitel 17's project.
+- **21 of 379 candidates counted 0** because they stand only in capitalised system messages and the count
+  matches case. A text whose system speaks in capitals needs its list written in the case it stands in, or
+  a note beside the count — briefing material.
+- **Readers overreached in difference lines, and the session caught it by reading them**: a Wächterin
+  made into Juna (`kap-08`), new „positions" on C7 and C11 in chapters that take none, ordinal counts of
+  titles no one had counted, `734` called Kael's own designation, a guessed descent of the Mosaik-Herz
+  name, sentences joined with `[…]`. `quotes.py` passes all of these; only reading finds them.
+- **Noticed, no record holds it:** the Evaluierungseinheit is the room of the first partitioning in its
+  Kapitel 2, where other sources make it a later place where personas collapse (on
+  `evaluierungseinheit`); `RIVE` is AEGIS' validation engine here and a Guardian in the philosophischer
+  Bericht (on `guardians`, `aegis`); M is both what Kael is a fragment of and the Monster group. The unread
+  `an-inquiry-into-the-unresolved-questions-and-thematic-tensio` writes the case number `734-K-1123`, which
+  joins this document's two designations.
+
+
+### Previous document — documents 44–46 reconciled
+
+**Documents 44–46 are done, 2026-09-27**: the three unread documents highest in the chapter tables after
+the four whole-novel plans — the Duale Storyform-Synthese (2026-04-28), the AEGIS-Analyse (2026-04-30,
+the earlier run of document 40's report) and the M-Fundament-Blueprint (2025-04-26, document 43's
+companion, in beats). `reconcile-45` to `reconcile-47` are the records. **No page**; J112 (`T-734`);
+readings on 28, 26 and 9 pages, Kap 8, 9, 11, 18, 24, 28, 32, 35, 36 and `plot.md` (a twelfth plan with
+one Vortex). Retrieval unchanged at 0.660. Four Sonnet readers, split by page group.
+- **Noticed, no record holds it:** two runs of one report disagree — document 40 makes AEGIS after the
+  Vortex a „parakonsistente Proto-Bewusstheit", document 45 a broken loop (on
+  `algorithmische-melancholie`); and their Witness layers fall in different beats (on `vortex`). The
+  Duale Storyform-Synthese puts Kael in the MC of *both* storyforms and AEGIS in B's IC, the AEGIS-Analyse
+  two days later AEGIS in B's MC — the throughline question C8 assumes settled. The Duale
+  Storyform-Synthese's corpus lists the Mosaik-Herz and T-734 among thirteen alters.
+- **A reader altered a quotation, and `quotes.py` could only call it unchecked**: C3 quoted „temporäre
+  Entitäten", citing a line range in parentheses rather than `^[…]`, so the checker counted it as uncited
+  instead of comparing it; the session found the altered words by grepping the corpus. An uncited
+  quotation is counted, never compared — the 0-unchecked rule is what catches it.
+
+Next: `kohaerenz-protokoll` (2025-04-27, 50k words, 18 chapters in the tables) — read it on its own, in
+parts. Then the four unread 2026-09-25 scans named below.
+
+### Previous document — the four pre-2026 plans reconciled
+
+**Documents 40–43 are done, 2026-09-27**, on the goal „ingest the next sources": the four whole-novel
+plans *Reading suggestion — next* named after the canon era. `reconcile-41` to `reconcile-44` are the
+records. **No page**; J107 from document 40, J108–J111 from 41–43; readings on 31, 43, 43 and 12 pages,
+every chapter page from Kap 1 to Kap 39 from 41–43, `plot.md` (fourteen plans now count no Vortex), entries in every record but C13 and C15.
+- **Retrieval** 0.644 → 0.660, C11 and C4 up.
+- **A usage limit stopped six readers mid-run.** Their finished files were checked and committed; the
+  rest was redone. **The author, 2026-09-27: every subagent runs on Sonnet** — the readers after that
+  did, and their files passed `quotes.py` as the others did.
+- **Two process traps the readers found**: a straight `"` in prose between two „…" quotations makes
+  `quotes.py` read everything between them as one quotation; and a chapter link written as
+  `[[../chapters/kap-35|…]]` points at no page — chapter pages are linked `[[kap-35|…]]`.
+- **Noticed, no record holds it:** in the Hard-SF-Outline Silas, the Coheron-Echo, is a freezing
+  (L108), where nearly every source gives Juna's echo warmth (on `hitze-polaritaetsregel`, not in C11);
+  the Ultra-Plot calls both Silas and Rhys „Pfleger" and has Kael *be* AEGIS in Kapitel 35 (C3); the
+  Primzahl-Blueprint alone lets the alters fuse (Kapitel 27), against every other read source's „no
+  fusion"; the Hard-SF-Outline and the Ultra-Plot both pair five Guardians with four worlds, as the two
+  2025 documents do (C6 — the author's five stands, and the pairing is Q5).
+
+Next, by `chapter_sources.py across`, the unread documents in most chapter tables:
+`kohaerenz-protokoll` (2025-04-27, 18 chapters), `duale-storyform-synthese-kohaerenz-protokoll`
+(2026-04-28, 17), `dramatica-storyform-synthese-aegis-analyse` (2026-04-30, 15 — the earlier run of
+document 40's report, check `duplicates.py` first) and `m-als-fundament-der-simulation` (2025-04-26, 15,
+beside the Primzahl-Blueprint of its date). Four of the ten 2026-09-25 scans are still unread:
+`an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, `charakter-kompilation-fuer-kohaerenz-protokoll`,
+`ki-prompt-analyse-hard-problem-of-consciousness`, `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`.
+
+### Previous document — the last eight canon-era documents reconciled
+
+**Documents 32–39 are done, 2026-09-27**, on the goal „ingest the next sources": the eight canon-era rows of
+2026-05-08 that were still unread, all English. Each has its own candidate list, census and note;
+`Wiki/compare/reconcile-33` to `reconcile-40` are the records. **No page**; J104–J106 from document 32;
+readings on 23–49 pages each, Kap 1, 35, 36, 39, `plot.md`, entries in every record. **All 33 canon-era
+documents are now read.**
+- Documents 33–39 were reconciled together by six readers split by **page group**, not by document, so
+  no two readers edited one file; each reconciliation record says so.
+- **Retrieval**: 0.644 → 0.654 (document 32) → 0.644 (33–39), only C11 each time.
+- **Briefing v19** asks about a document in another language, and measures the lens check skipped twice.
+- **Readers' process slips**, none in the result: two ran a read-only `git` command, two regenerated
+  `Wiki/index.json` mid-run (re-derived at the end), and a shared scratch helper was overwritten once and
+  wrote wrong frontmatter on `kohaerenz-kernel`, repaired by its reader. Give each reader its own scratch
+  folder in the brief.
+
+Next: the canon era is exhausted. *Reading suggestion — next* is read too. The next sources are the pre-2026
+whole-novel plans named there — `monstergruppe-primzahlen-plot-blueprint`,
+`hard-sf-roman-outline-dkt-physik-cosmic-horror`, `dramatica-storyform-synthese-aegis-analyse-2`,
+`roman-konzept-dualitaet-kohaerenz-spannung` — or whatever `chapter_sources.py run`, rerun, ranks first.
+
+### Previous document — the philosophischer Bericht reconciled
 
 **The thirty-first document is done: `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-09-27.** „Kohärenz Protokoll — Theoretisches Fundament", 2026-05-08 — item 5 of *Reading suggestion — next*, the document the Jules session had half-ingested (decision 014). 475 candidates written while reading, **no page**, readings on 57 pages, `plot.md` and Kap 13, 35, 36, entries in twelve conflicts (C8, C13, C15 read and unchanged) and all five questions, J100–J103, five sweep hits (all readings). `Wiki/compare/reconcile-32-kohaerenz-protokoll-philosophischer-bericht-md.md` has the record.
 - **The Jules entries stay.** Their citations (`^[slug:Lnn]`, no `.md`) had never been checked; they are qualified now and hold, one split where it joined two statements. Each record's reconciliation entry follows and says what the document does not bear out. Kap 13's stray section became a reading; a duplicate line the merge left in C7 is gone.
@@ -914,7 +1072,7 @@ high tier into it is the next step, and it is a person's.
 - **A number after a word cannot be quoted**: „bauen 39 Kapitel“ (L41) — the footnote rule drops `39`, so `read.py --find "39 Kapitel"` refuses the line. The census writes it as a term; the rule is `quotes.py`'s, unchanged.
 - **Retrieval**: PageRank recall@8 0.637 → 0.644, only Q5.
 
-Next: every item of *Reading suggestion — next* is read. Rerun `python3 scripts/chapter_sources.py run` so the chapter tables stop listing the seven documents read since, then choose from them — or one of the four whole-novel plans named there. `chapters.py missing` still lists 96 <!--state:chapters.missing--> single-`Kap` mentions.
+Next: every item of *Reading suggestion — next* is read. Rerun `python3 scripts/chapter_sources.py run` so the chapter tables stop listing the seven documents read since, then choose from them — or one of the four whole-novel plans named there. `chapters.py missing` still lists 98 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the Dual-Storyform background document reconciled
 
@@ -989,7 +1147,7 @@ Next, by *Reading suggestion — next*: `kohaerenz-protokoll-philosophie-im-deta
 - **Chapter readings from table rows.** The rows are numbered without `Kap`, so `chapters.py missing` cannot see them; all 39 were read from the tables.
 - **The five scan readings of it stand** (`vortex`, `kishotenketsu`, `goedel-gambit`, `residual-echos`, `komponente-734`).
 
-Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 96 <!--state:chapters.missing--> single-`Kap` mentions.
+Next, by a qmd search over every open record (`Plan/runs/qmd-scan-2026-09-26/README.md`, 2026-09-26): **`koharenz-protokoll-kapitel-0-v2-md`** (2026-05-17, 639 lines) — the annotated Kap 0's clean text with its own review carried out: no passage it marked for deletion stands, Alex's Vorform line is gone, the knuckles stay (L607), and the formula has a third form, „*Es ist, was es verhindert, dass es nicht ist.*" (L211) (`grep`, orientation only). It speaks to the Alex question, C10, C12 and `formel-inversion`. Then `kohaerenz-protokoll-philosophischer-bericht-md` (2026-05-08, hit for 16 records, never scanned), the two Kap-25 documents of 2026-09-14 (the newest in the corpus), and the two scanned ones, `worldbuilding-konzept-kohaerenzprotokoll-md` and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`. `chapters.py missing` still lists 98 <!--state:chapters.missing--> single-`Kap` mentions.
 
 ### Previous document — the annotated Kap 0 reconciled
 
@@ -1306,7 +1464,7 @@ those files are read directly when working on code. The check needs no qmd
 binary; it checks configured coverage, not the contents of an installed index.
 
 **Citation resolution is complete:** 0 <!--state:quotes.unresolved-->
-quotations fail `scripts/quotes.py`, and 4 <!--state:quotes.unchecked-->
+quotations fail `scripts/quotes.py`, and 0 <!--state:quotes.unchecked-->
 research-source quotations lack a resolvable citation. The checker audits
 research-source wording; an author's recorded decision links to its decision
 record and is not treated as a quotation from a research document.

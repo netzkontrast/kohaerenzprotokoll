@@ -1,17 +1,17 @@
 ---
 term: LogOS
 status: candidate
-sources: 14
-readings: 14
+sources: 23
+readings: 23
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-17"
 ---
 
 # LogOS
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Thirteen other read documents name LogOS — the readings below, the philosophischer Bericht's the latest (it moved this count from twelve). (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
+the same nine fields. Nineteen other read documents name LogOS — the readings below, the Inquiry file's the latest (it moved this count from eighteen, the Hard-SF-Outline's from seventeen, the Ultra-Plot's from sixteen, the Dramatica-Synthese's from fifteen, the Narrative Building Blocks report's from fourteen, the Systems Narrative Analysis's from thirteen, as the philosophischer Bericht's had from twelve). (Until that reading this lead said nothing else read named LogOS at all, which the second reading on this page had already made false.)
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -146,3 +146,66 @@ The author decided C6 for five on 2026-09-24; recorded, not applied.
 Once (`grep -cw LogOS` 1), first in the list of what earlier phases planned: „In früheren Phasen waren mehrere Wächterprogramme vorgesehen (LogOS, Cerberus, Kairos, Sophia, RIVE)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296] — and outside what is left: „Im aktuellen Canon sind sie **reduziert auf zwei**" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L296], Mnemosyne and a pole whose identity is open. That list and its status word are the document's claim about earlier phases.
 Where LogOS went it does not say: `absorbiert` stands 0 times, and KW1 is only „Konstrukt-Stadt (Kantsche Phänomene)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L429], without `Logos-Prime` (0; `05-verify-readers.txt`). Q5.
 The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — the interface AEGIS works through, in use, and never called a Guardian
+
+An English analysis that calls itself „Systems Narrative Analysis: The Coherence Protocol (Kanon 2026-05-08)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L11] — recorded, not applied. Its seeds are proposals, each under `Lever:`.
+Four times (`grep -cw LogOS` 4), always as part of AEGIS' working, never as a Guardian, one of an old five or absorbed (`Guardian` 0, `absorbed` 0; `05-verify-readers.txt`). The compound states its role (J70).
+In Kael's throughline as Impact Character of Storyform B, Seed-09 „The Gödel Sentence in LogOS" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L69], „Focus:**  LogOS Interface" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L70]: „AEGIS recognizes Kael's identity as a truth within the system that cannot be derived from its axioms." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L71] „This friction causes the "Risse" to widen whenever Kael acts outside his work-parameters." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L71]
+In the Relationship Story of Kael and AEGIS, „RS-B: Kael ↔ AEGIS Symbiosis (Psychology)" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L109], Seed-18 „LogOS Gaslighting" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L115]: „AEGIS uses the LogOS interface to convince Kael that the "Risse" are his own "Logic Errors."" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L116] „This psychological manipulation (Source: Architektur eines fehlerhaften Gottes) prevents integration and maintains the symbiotic status quo." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L116]
+So LogOS is a working part of the system here, as the 2025 locations concept above has it a system presence in KW1 rather than a figure — but this document ties it to no world: KW1 carries no second name (`Logos-Prime` 0). The konsolidiertes Konzept, the master report and the worldbuilding concept of the same date name LogOS only among the old drafts' five or as absorbed (readings above); this one, calling itself canon of that date, keeps it in use (Q5). The author decided C6 for five on 2026-09-24; recorded, not applied.
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — the carrier of the KW1 seed
+
+A mining report whose seeds are all marked `KANON-KOMPATIBEL` against the 2026-05-08 Kanon it cites — recorded, not applied; each seed a proposal under `Lever:`. Once (`grep -cw LogOS` 1, `05-verify.txt`), as the carrier of a world seed in Storyform A's overall story: „Seed-11 The Sterility of KW1" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83], „Carrier: LogOS" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83] — the world „A world of shadowless geometry and clinical light, devoid of dust or smell." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83]
+So LogOS is paired with KW1 here, as in the 2025 Guardian concept; it is not called a Guardian (`Guardian` 0), not counted and not said to be absorbed, and KW1 carries no second name (`Logos-Prime` 0, `05-verify-readers.txt`). The pairing is Q5's; the author decided C6 for five on 2026-09-24.
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — a Guardian debating in Storyform A's overall story, and a subroutine with a control centre in B's relationship story
+
+A research report whose verdicts are its own, from „Projekt-Kanon" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L320] PDFs and „User-Memory / Projekt-Wissen" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L469] — recorded, not applied; its scene seeds and rooms are proposals.
+Twice (`grep -cw LogOS` 2, `05-verify.txt`). **A Guardian, at work now**, with [[cerberus|Cerberus]], in the first scene seed of Storyform A's overall story: „Im ersten Szenen-Keim debattieren die Guardians (wie LogOS und Cerberus) auf Protokollebene über den Umgang mit Kaels anhaltenden Abweichungen." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L181]
+**A subroutine, with a room of its own**, in Storyform B's relationship story, the psychological war of Kael and AEGIS: „Der erste Raum ist das Kontrollzentrum der Subroutine LogOS, geprägt von absoluter, erdrückender Überwachung." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L255]
+So one document calls it a Guardian in one storyform and a subroutine of the system in the other, and does not relate the two words. It is not one of an old five, not absorbed and not reduced, and it has no world: `Logos-Prime` and `KW1` stand 0 times, and `absorbiert` once, of a firewall's energy (L163; `05-verify.txt`, `05-verify-readers.txt`). The author decided C6 for five on 2026-09-24; recorded, not applied (Q1, Q5).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — KW1's Guardian, `Rationalismus`
+
+The world table's first row: „Konstrukt-Stadt (KW1) | LogOS (Rationalismus) | Manager (ANP) | Kael (Host), Lex (Analytiker), Limina (Gatekeeper)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L40] — the same pairing as `guardians-und-kern-welten-konzept`. LogOS does not act in the chapters: the name stands only in the table (`grep -cw LogOS` 1, `05-verify.txt`); Kael's dissociative amnesia and the erasure heat that follows it are AEGIS' doing, not named as LogOS' (readings on [[aegis]]). `Wächter` 0 in this document (Q4).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — KW1's Guardian, and the one who unmasks Kael
+
+**The same pairing, and LogOS acts.** The table: „\*\*KW1: Logos-Prime\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40] „\*\*LogOS\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40], role „Die Verdrängung." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L40] Kapitel 6, „Der Abstieg beginnt" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L106]: „LogOS, der Guardian von KW1, enttarnt Kaels wachsende innere Dissonanz." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] „Die Stadt wendet sich nun aktiv gegen ihn." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
+
+`Logos-Prime` is recorded as an alias of KW1 (J49); no absorption or reduction is told, and LogOS is not called `Wächter` (0, `05-verify.txt`).
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — Co₁'s supervisor, never called Guardian by name, and a limit even AEGIS could not get past
+
+**Supervisor of Co₁, coupled directly to Kael's own mind — never called `Guardian`.** „Eine
+direkte Schnittstelle zwischen seinem kognitiven Kern und LogOS, dem Supervisor für Kohärenz und
+Struktur in diesem Sektor." ^[kohaerenz-protokoll.md:L438] Where the Netzweber and the
+Chaos-Regulator each get the explicit label in this document (`guardians`), LogOS never does; the
+nearest the text comes is a comparison made from another world's Guardian passage: „Nicht als
+bedrohliche Präsenz wie der Chaos-Regulator oder als kalte Logik wie LogOS."
+^[kohaerenz-protokoll.md:L2024]
+
+**It evaluates Kael, and its classification names [[juna|Juna]].** In the same report that flags his
+„systemische Grenzparadoxien" ^[kohaerenz-protokoll.md:L512], LogOS' own instrument reads:
+„Klassifizierung: Juna-Resonanz-Artefakt" ^[kohaerenz-protokoll.md:L512]
+
+**A limit even AEGIS could not get past, found through LogOS' own task.** Kael's assignment
+under LogOS runs into „Ein Gödelscher Knoten." ^[kohaerenz-protokoll.md:L478] — „Eine Wahrheit
+über die Natur formaler Systeme, die selbst AEGIS nicht umgehen konnte."
+^[kohaerenz-protokoll.md:L482]
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — one of five, on KW1, before the reset
+
+Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „LogOS (KW1 - Logos-Prime)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L308] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption or a decanonisation (`absorbiert` 0, `Dekanonisiert` only of Silas and Oblivion; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — KW1's Guardian, enforcing AEGIS' order
+
+Not in date order with the readings above; placed after the last one. An English essay that names no canon and never hedges. „The Guardian of KW1 is LogOS, an agent embodying the strict, formal logic and unyielding order enforced by AEGIS." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19] „Its narrative purpose, and that of its world, is to establish the story's initial "prison of convention."" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19] No absorption, reduction or decanonisation is told (`absorbed`, `decanon` 0; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the Guardian's name alone, for KW1, in the thematic analysis
+
+Not in date order with the readings above; placed after the last one. An English file of about fourteen reports; quote as written, never translate. Once (`grep -cw LogOS` 1, full path): the thematic analysis drops the world's other two names (`Logos-Prime`, `Construct City`, both used elsewhere in the same file — see [[konstrukt-stadt|Konstrukt-Stadt]]) and gives the world its Guardian alone: „Kernwelt 1 (LogOS): A world of sterile, brutalist architecture, representing the rigid, emotionally avoidant logic of Kael’s Apparently Normal Parts." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1243]
+
+No absorption or reduction is told; not called `Wächter` (0). The author decided C6 for five on 2026-09-24; recorded, not applied (Q1, Q5).

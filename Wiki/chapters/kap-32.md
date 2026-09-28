@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,17 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In der äußeren Heldenreise ist das die Stufe Tests, Allies, Enemies, die Prüfungen, im dritten Akt der äußeren Konfrontation, dessen Phase die Plot-Konkretisierung Der Deserteur nennt, und laut der strukturierten Outline beginnt hier das Ten; in Storyform A trägt es das MC-Issue als Wahrheits-Test gegen logische Fallen, in B laut Konzept-Iteration und konsolidiertem Konzept kybernetische Manöver, laut Spec und strukturierter Outline die Guardians als Sub-Antagonisten. Kael, polyphon und mit aktiven Spiegel-Alters, muss in logischen Labyrinthen und Echo-Räumen AEGIS' logische Verteidigungen, Simulationstricks und loyale Subsysteme überwinden; laut der strukturierten Outline treten Mnemosyne und der Erasure-Pol hier noch als Gegner auf, obwohl das Kapitel davor die Auflösung der Guardians erzählt, und Oblivion trägt als Vorschlag seine erste längere POV-Szene in Lösch-Prosa. Laut der Plot-Konkretisierung erscheinen in der Schlange Bestände mit Kaels Signatur, die er nie angelegt hat, Fälschungen in Oblivions makelloser Hand, und Kael erkennt die eigenen an ihren Fehlern. Kernwelten vollständig setzt das Kapitel in KW4, vielleicht im Forum des Dialogs; die AEGIS-Subplots schlugen stattdessen einen systemischen Widerspruch vor, der AEGIS' Logik teilweise einfriert.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Kaels Wahl: Flucht, Transformation oder Harmonie?“ ^[monstergruppe-primzahlen-plot-blueprint.md:L354]
+Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
+
+„Was ist das Ergebnis für Kael?“ ^[monstergruppe-primzahlen-plot-blueprint.md:L357] — three options, none chosen:
+
+- Flucht: „Er nutzt sein Verständnis von M und das "Tor", um die Simulation zu verlassen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L361] (raising questions about the „äußere“ ^[monstergruppe-primzahlen-plot-blueprint.md:L361] reality).
+- Transformation: „Er nutzt seine Verbindung zu M, um die Kernwelt nach kohärenteren Prinzipien umzugestalten, AEGIS' Kontrolle zu brechen und vielleicht eine neue Art von Realität zu schaffen.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L362]
+- Harmonie/Transzendenz: „Er löst seine individuelle Form auf und geht eine tiefere Verbindung mit dem M-Fundament ein, wird Teil seiner Dynamik“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] — „ein Zustand jenseits menschlichen Verständnisses, potenziell erleuchtend oder erschreckend“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] (loss of self).
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -31,6 +42,42 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael inszeniert eine Situation über mehrere Standorte hinweg oder unter Einbeziehung mehrerer Guardians gleichzeitig“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „koordinierte Aktionen mit Juna/V“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „ein teilweises Einfrieren der Logik innerhalb von AEGIS' zentraler Verarbeitung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Die Chiffren der Realität“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L125]
+Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L111]
+
+- Plot: „Kael hört auf, mit AEGIS über binären Code zu kommunizieren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L125] „Er nutzt stattdessen Bilder, Erinnerungen und Kunst.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L125]
+- Establishes: „Stahlträger biegen sich zu Ästen, kalter Beton riecht intensiv nach Sommerregen.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L125] The metaphor forces the machine's capitulation.
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael enters the Fundament, AEGIS' seat, trapped in SARM recursion
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Der Architekt der eigenen Hölle“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
+Position: „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166]
+
+- Where: „Kael betritt das Fundament, den Sitz von AEGIS.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184] · „eine reine, fließende Matrix aus Kohärenz-Gleichungen und Entropie-Auslöschungen“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
+- AEGIS: „AEGIS manifestiert sich als eine fraktale, tragische Naturgewalt, die in einer endlosen SARM-Rekursion (Self-Axiomatizing Recursive Matrix) gefangen ist.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
+- Establishes: „Es verbrennt ununterbrochen die eigene Seele, um die Illusion von Sicherheit aufrechtzuerhalten.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — the birth of Kael/M
+
+A storyform study that rates its own two storyforms and cites a corpus it does not contain (a `Memory-Kanon`, a `PDF-Kanon`, a NotebookLM corpus); recorded, not applied.
+
+- Werk-Beleg for Storyform A's Resolve Change: „In Kapitel 32 legt Kael die Isolation des Alpha-Logik-Fragments endgültig ab und integriert seine traumatisierten Anteile zu dem emergenten Wesen „Kael/M“.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L75]
+- Falsifikations-Test result: „Die explizite Geburt des synthetisierten Wesens „Kael/M“ in Kapitel 32 und die Integration des Mosaik-Herzens belegen unbestreitbar einen radikalen inneren Wandel.“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L96]
+- MC Resolve, Storyform A vs. B: „Kapitel 32 (Metamorphose) vs. Kapitel 35 (Beharren auf T-734).“ ^[duale-storyform-synthese-kohaerenz-protokoll.md:L191]
+
+## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse — Kael/M as K1's own Werk-Beleg for Change
+
+A model's report that rates its own two storyforms (A 5.0, B 4.75) and cites a corpus it does not contain (a „Hard Canon Masterfile“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L28], NotebookLM); recorded, not applied.
+
+- MC Resolve, Storyform A's Change, Werk-Beleg: „Kael legt die isolierende Alpha-Logik in Kapitel 32 ab und integriert seine tief traumatisierten Anteile zu dem emergenten Schwarm-Wesen „Kael/M“.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L80]
+- Among the passages that most support K1: „Die explizite Metamorphose zu „Kael/M“ in Kapitel 32, die rein durch die tiefe emotionale Akzeptanz und Einstellungsänderung (Change) erfolgt und keine Zeilen von Code erfordert.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L103]
+- MC Resolve, Storyform A vs. B — this chapter named: „Kapitel 32: Metamorphose zu Kael/M vs. Die gnadenlose Exekution deterministischer Quarantäne-Protokolle.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L191]
+- MC Solution, Storyform A vs. B — this chapter named: „Kael jagt die Wahrheit (Kap 32) vs. AEGIS scheitert am Chaos (Kap 36).“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L210] (see [[kap-36|Kap 36]])
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -106,7 +153,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **Guardians.** „OS-S3 (B) — Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005] (strukturierter Outline) in Kap 32 · the chapter before is „Auflösung der Guardians“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] (storyform outline).
-- **Title.** „Logische Labyrinthe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L630] (Konzept-Iteration Genesis) · „Tests, Allies, Enemies: Systemkampf“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L999] (strukturierter Outline). The strukturierter Outline's title opens with the stage name the storyform outline gives the chapter: „(HR 6: Tests, Allies, Enemies)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364] (storyform outline).
+- **Title.** „Logische Labyrinthe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L630] (Konzept-Iteration Genesis) · „Tests, Allies, Enemies: Systemkampf“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L999] (strukturierter Outline). The strukturierter Outline's title opens with the stage name the storyform outline gives the chapter: „(HR 6: Tests, Allies, Enemies)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364] (storyform outline) · „Der Architekt der eigenen Hölle“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L184] (the Hard-SF-Outline).
 
 ## Questions for this chapter
 

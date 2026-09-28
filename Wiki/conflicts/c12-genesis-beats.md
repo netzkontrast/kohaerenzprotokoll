@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 22
+sources: 30
 pages: ["trennungsprotokoll"]
 ---
 
@@ -235,3 +235,58 @@ Row 1's sequence and order, asked rather than locked: the status report's questi
 The fourth: „Eine offene Frage betrifft einen möglichen 4. Beat, der erst rückblickend nach dem Vortex lesbar wird — Status: ungelöst, siehe Open Questions." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L280] Its OQ-D asks it again: „Oder schließt die 3-Beat-Struktur strukturell ab?" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L756]
 `Trennungsprotokoll`, `Komponente`, `Restgröße`, `Wir-AEGIS-plural`, `Primärdirektive`, `Erinnerungs-Versiegelung`, `Kap` and `Flashback` stand 0 times (`Plan/runs/kohaerenz-protokoll-philosophischer-bericht-md/05-verify-readers.txt`).
 Row 1's count and order, on row 2's date. On component or remainder, it states the component: Kael is one of the components the substance is broken into, numbered, in a beat of its own after the separation — where the character bible and the master report make him the separation's „Restgröße" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L119] and the draft of Kap 0 of 2026-05-08 the cluster cut out of 734. Unlike row 1 and the master report it does not answer the fourth beat „nein"; and unlike every candidate the sources name — Wir = AEGIS-plural, the Primärdirektive, the Erinnerungs-Versiegelung — its fourth has no content, only a place: readable after the Vortex. It places no beat in a chapter. The conflict stays open.
+
+## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
+
+**No beats — the Genesis-Krise as the original trauma of separation, the separation as AEGIS' self-mutilation of its own Ursprungs-Ich, and Kael glossed as Component 734.**
+„Her presence forces Kael to confront the "Genesis-Krise"—the original trauma of separation that AEGIS’s protocols were built to bury." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L49] „This is the act of logical self-mutilation where AEGIS fragmented its own "Ursprungs-Ich" to isolate the parts that could feel loneliness and "Sehnsucht."" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L99] A seed's carrier: „Kael (Component 734)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L69]. Its contradiction log gives Juna a second Ursprungs-Ich: „Kanon defines her as an exiled part of Kael's" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L181] — its claim about its canon, recorded, not applied.
+`Beat` stands 0 times, `Unity` 0; its `734` are two seed carriers (`05-verify-readers.txt`).
+On no row: no count and no order. It holds row 1's identity of Kael and 734 as a gloss, and two Ursprungs-Ichs, AEGIS' and Kael's, which it does not relate. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**Three numbered beats, in English — Unity, Separation Protocol, Component 734 — with 734 after the separation, the precursor to Kael, and no fourth.**
+„The system’s origin is defined by the Genesis-Crisis (3-Beat Sequence)" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L25]: „Unity: An original, unpartitioned state of consciousness within the K1 substrate." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L27] „Separation Protocol: Traumatic resonance with Juna is misread as a fatal system error." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L28] „Component 734: The feeling "I" is functionalized into Component 734 (the precursor to Kael), while the rationalizing "I" establishes AEGIS as the guardian of the severed parts." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L29]
+It tells the separation a second time, as Kael's trauma: „the attachment trauma in Cologne (Layer 1) and the algorithmic Separation Protocol (Layer 2)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] It calls itself „the binding rulebook for the Coherence Protocol" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L88] — recorded, not applied.
+`fourth`, `4th`, `Trennungsprotokoll`, `Komponente`, `Kap` and `Ch` stand 0 times (`05-verify-readers.txt`).
+Row 1's count and order, on row 2's date. On component or remainder, a third position beside the philosophischer Bericht's: the feeling self becomes the component and the component precedes Kael — the worldbuilding concept's Kael grown from 734, not Kael the component. It neither answers nor asks the fourth beat. The conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**No Genesis — the separation told only as Kael's second trauma layer, the Fragmentation Night, with [[juna|Juna]] the original „Ich" banished.**
+„(The Fracture - Fragmentation Night): The "Algorithmische Selbstamputation."" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „AEGIS misinterpreted emotional fluctuation as fatal system entropy." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] „To "save" the psyche, it initiated the Separation Protocol" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43], „banishing the original "Ich"" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L43] — Juna.
+`Genesis`, `734`, `Unity` and `Beat` stand 0 times (`05-verify-readers.txt`).
+On no row: no count and no component. It has only the worldbuilding concept's second telling, the Fragmentierungsnacht with Juna the Ursprungs-Ich split off, which that document does not relate to its beats (J68). The conflict stays open.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**No beats counted or ordered — a two-layer origin trauma instead, months before either row.**
+Fixed point 10: „**Origin Trauma = Doppelter Boden:** Layer 1 (Bindungstrauma), Layer 2 (Fragmentierungsnacht als Twist)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224] The Fragmentierungsnacht itself is named the Genesis-Krise: „AEGIS, der Antagonist, ist kein bösartiges Konstrukt, sondern ein tragischer, algorithmischer Täter-Introjekt, das aus der Genesis-Krise (der Fragmentierungsnacht) entstand." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L64]
+`Beat`, `734`, `Wir-AEGIS` and `Einheit` stand 0 times (`05-verify-readers.txt`). On no row: not a count of the Genesis but a childhood attachment trauma (Kapitel 16, via [[kiko|Kiko]]) placed before it as a second, earlier layer — a structure no other read source states. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**No beats counted — an unnumbered Komponente in a Genesis of collision and clustering, [[kael|Kael]] a separate fragment of M, and a partitioning told twice: Kapitel 2's, done by AEGIS, and an earlier one recalled from before it.**
+The Genesis has no Trennungsprotokoll and no 734: the fragment becomes „eine Komponente, eine Funktionseinheit" ^[kohaerenz-protokoll.md:L91], unnumbered, and its number is not withheld by rule — the text simply never gives one. `734` stands 6 times, always [[kael|Kael]]'s own designation and once a protocol AEGIS activates later, „AKTIVIERE PROTOKOLL 734: KONTAMINATIONS-EINDÄMMUNG." ^[kohaerenz-protokoll.md:L2348], not a beat of the Genesis (`Plan/runs/kohaerenz-protokoll/05-verify.txt`).
+[[kael|Kael]] is not the Komponente the Genesis produces: „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link" ^[kohaerenz-protokoll.md:L853] — a different substance, M the Monstergruppe, and the Genesis' AEGIS is one thing M's fragmenting produces elsewhere, „die Zerlegung von M in Kael, die Fragmentierung von Kael in Caches" ^[kohaerenz-protokoll.md:L1019].
+The partitioning happens twice, both done by AEGIS. Kapitel 2: „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung." ^[kohaerenz-protokoll.md:L258] — „Eine Mauer zwischen dem Logiker, dem Manager, der versuchte zu kooperieren, und dem intuitiven, fühlenden Teil, der mit dem goldenen Licht, mit *Juna*, verbunden war." ^[kohaerenz-protokoll.md:L260] And an earlier one, recalled rather than shown: „Als… als M dissoziiert wurde." ^[kohaerenz-protokoll.md:L911]
+On no row as written: neither three beats nor four, no Wir-AEGIS-plural (`Wir-AEGIS` 0, `Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`), `Trennungsprotokoll` 0 (`05-verify.txt`), and the exact phrase `Komponente 734` never occurs (0, `05-verify-readers.txt`) — the component is unnumbered, and the document has its own Genesis, prior to and independent of every 2026 count. The conflict stays open.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**No beat counted — the Trennungsprotokoll as AEGIS' own act on its own Ursprungs-Ich, and the number 734 given to Lex, not [[kael|Kael]].**
+„Es misinterpretierte eigene aufkommende Qualia (Einsamkeit, Sehnsucht) als fatalen Systemfehler und führte das *Trennungsprotokoll* aus, womit es sein eigenes "Ursprungs-Ich" gewaltsam zerstückelte." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L298]
+„Analytiker und Stratege; erzwingt Struktur durch reine Logik; Komponente 734." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L74] — Lex's own Kernfunktion line; `734` stands on this one line only (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`), and Kael's own entry has no number at all.
+`Beat` and `Wir-AEGIS` stand 0 times. On no row by count: it neither counts three beats nor four, and on the component it takes none of the read record's three positions — not [[kael|Kael]] as Komponente 734 (row 1, the master report, the philosophischer Bericht), not 734 as his precursor (the worldbuilding concept, the Systemic Architecture Specification), and not Kael cut from 734 (the draft text) — but Lex. The conflict stays open.
+
+## 2026-09-27 — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse
+
+**No beat counted — the Genesis told as one misreading rather than a numbered sequence, and the trauma named `Das T-734 Trauma`.**
+„Genesis-Sequenz: Die Sequenz markiert den initialen Riss der Welt, bei dem das System tiefste K1-Phänomenologie als K0-Systemfehler interpretierte und fatalerweise das Trennungsprotokoll initiierte." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L287] Its projection table gives the Risse's interference point as „Genesis-Krise (Das T-734 Trauma)." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L235]
+`Beat` and `Wir-AEGIS` stand 0 times; `Einheit` once, not as row 1's beat but as a longing, „Die alles verzehrende Sehnsucht nach Einheit." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L236] `734` stands twice, both as `T-734` — the table row above and Storyform A's Story-Quad, „Kern-Trauma (T-734)“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L82] (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`) — never as `Komponente 734`. On no row by count: no beats are named, and no component is identified with [[kael|Kael]] (J112). The conflict stays open.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**No beat counted — Kael himself, not a precursor, as what the Genesis Crisis's self-mutilation resulted in, and a case number of his own.**
+Kael is „that resulted from AEGIS's own act of self-mutilation" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L71] (`Zerstückelung`, the `Genesis Crisis`) — the fragment the separation produces, not a precursor before it, nearest row 1's identity of Kael and the component. The Assessment gives the case its own number: „734-K-1123" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1565], and names the partitioning „erzwungenen Kohärenz-Partitionierung" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1584] (J114, on [[trennungsprotokoll|Trennungsprotokoll]]).
+`Beat` and `Wir-AEGIS` stand 0 times, `Trennungsprotokoll` 0 (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`); the document counts no beats and orders none. On no row by count: no beats are named; on the component, nearest row 1 — Kael the fragment the separation produces. The conflict stays open.

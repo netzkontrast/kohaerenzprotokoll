@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 16
-readings: 16
+sources: 25
+readings: 25
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-24"
 ---
 
@@ -111,3 +111,47 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — ANP, Wormholes, → Mediator
 
 Among the ANPs of the TSDP section: „Im Roman: Kael (Host), Lex (Rationalist), Alex (Protector), Rhys (Caregiver), Selene (ISH)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L465] Her row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „ANP | Selene (ISH) | Wormholes | → Mediator" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L495]. Nothing else in the document names Selene (`grep -cw Selene`: 2; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — Integrator/Inner Self Helper, with no somatic profile
+
+In its analysis of somatic gaps, as a need, not a seed: „Identified as the primary Integrator/Inner Self Helper , Selene is the key pivot for the "Functional Multiplicity" resolution." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L165] „Her lack of a somatic profile is a critical gap" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L165] — where the four documents of its date below give her relaxed hands. Nothing else in the document names Selene (`grep -cw Selene`: 1; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — ANP (ISH), Wormholes alone
+
+Her row in its table of thirteen fragments: „ANP (ISH) | Selene | Wormholes | Relaxed hands | Mediation" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] — Wormholes without the Entanglement Islands the character bible pairs with them (above; `Entanglement Islands` 0). Nothing else in the document names Selene (`grep -cw Selene`: 1; `05-verify-readers.txt`).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Wormholes, the Mediator
+
+Her row, in a table with no category column: „Selene,Wormholes,Relaxing hands,The Mediator" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L68]. Nothing else in the document names Selene (`grep -cw Selene`: 1; `Entanglement Islands` 0).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — ISH, Entanglement Islands alone
+
+„ANP | Selene (ISH) | Entanglement Islands | Relaxed musculature ; Internal Self-Helper and Mediator." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] — Entanglement Islands without the Wormholes the Systemic Architecture Specification, the Companion Guide and the Editorial Style Dossier write alone (`Wormholes` 0). Nothing else in the document names Selene (`grep -cw Selene`: 1; `05-verify-readers.txt`).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — ISH, internal mediation
+
+Her row: „Selene (ISH) | Wormholes | Immediate relaxation of the hands/shoulders. | Signals internal mediation/inter-fragment links." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Selene (`grep -cw Selene`: 1; `Entanglement Islands` 0).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — ANP, the ISH who coordinates the system after the twist
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. Her row, category `ANP`: „Die ISH (Inner Self Helper) / Vermittlerin." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L54] „Integrationspotenzial, die weise Instanz." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L54]
+She appears only after the twist. Kapitel 25: „Selene, die innere Vermittlerin (ISH), tritt hervor und koordiniert die EPs und ANPs." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162] — together they overload the SIS protocols of Cerberus, „Es ist das erste Mal, dass das System Kael kooperiert, anstatt sich gegenseitig zu bekämpfen." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L162]. In Kapitel 29 Kael finds the islands of each alter's self-worth „in Zusammenarbeit mit Selene und Lex" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L176]. She is not among the five Kapitel 39 names (L206). Selene stands on three lines (`grep -cw Selene`: 3; `05-verify-readers.txt`).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — a bridge between ANP and EP, a Riss of rescuing associations, and a threat to the other Anteile rather than to AEGIS
+
+A compilation that audits its sources — recorded, not applied.
+**Function, named as a bridge.** „Repräsentiert innere Weisheit, Heilung und Integrationspotenzial. Brücke zwischen ANP und EP." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L134]
+**Correlate and Riss.** „Replica Wormholes & Entanglement Islands (Holografisches Prinzip) – entzieht sich der klassischen Lokalität." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L142] Its own Riss-Typ field: „Nutzt Quantenverschränkung für rettende, sprunghafte Assoziationen, die Kausalitätsketten überbrücken." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L144]
+**A threat to the other Anteile, not (here) to AEGIS.** „Wird von vielen anderen Anteilen als Bedrohung wahrgenommen, da Integration ihre Existenz/Rollen infrage stellt." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L148]
+
+## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — named beside Lex, Nyx and Kiko, as the risk its own dialectic runs
+
+A research report that cites a corpus it does not contain — recorded, not applied. „Wenn die OS als Physics und Kael als Universe definiert wird, besteht die Gefahr, dass die tiefenpsychologische Metaphorik der inneren Fragmentierung (Lex, Nyx, Kiko, Selene) zu bloßen physischen Handlungsschritten degradiert wird, was der Intention des Autors zuwiderlaufen könnte." ^[duale-storyform-synthese-kohaerenz-protokoll.md:L158] No chapter or other trait is given her here (`Plan/runs/duale-storyform-synthese-kohaerenz-protokoll/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — ISH, and a classification the Framework itself calls contested
+
+An English file of about fourteen reports of 2025. The Guide's eight-alter table calls her „ISH (Integrator/Inner Helper)." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L415] The Dramaturgical Framework's own table gives her a different label, „Mod. ANP/EP (Integration) - Facilitates internal communication and integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L533], and marks the disagreement in its own footnote: „¹Analytical Note on Selene's Classification: While some source materials refer to Selene as an ISH (Inner Self Helper), the most detailed psychological profile classifies her as a modified ANP/EP with a primary function of "Erinnerungsschutz, Konfliktvermeidung" (Memory Protection, Conflict Avoidance) and a secondary role as an integrator." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L537] The Blueprint's eleven-alter table keeps the modified label: „ANP/EP (Integrator) - Functions as an internal ethical compass and facilitator of healing." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L848] (see [[alters]]).
+
+**The last report, `An Architecture of the Self`, makes her the ISH of its own three-column table**, alone in that column: „Apparently Normal Parts (ANPs) | Emotional Parts (EPs) | Inner Self Helper (ISH)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1712] „Kael (Host) | Nyx | Selene" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1713]
+
+**She is named in a Kael-dyad, as the threat integration poses to him.** That same report: „Kael vs. Selene: This dyad dramatizes the Host's phobia of integration clashing with the system's own innate drive toward wholeness. As the Host, Kael’s primary motivation is to maintain functionality. Selene, the system's internal therapist and facilitator, champions a healing process that Kael perceives as a profound threat to his carefully constructed, albeit dysfunctional, stability." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1733] The Assessment states the same dyad: „Kael (ANP) vs. Selene (Integrator): As the host responsible for daily functioning, Kael's primary goal is maintaining the status quo, however fragile. Selene represents the system's potential for integration and healing. Kael perceives Selene's influence—and the process of integration itself—as a profound threat, fearing it will lead to destabilization and the overwhelming intrusion of the traumatic material he is phobic of." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1640]

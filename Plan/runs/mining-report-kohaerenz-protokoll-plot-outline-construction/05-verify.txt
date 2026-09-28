@@ -1,0 +1,56 @@
+# 05-verify — mining-report-kohaerenz-protokoll-plot-outline-construction, 2026-09-27
+# grep -cwE = lines holding the word
+Kap                           0
+Chapters 35–36              1
+39                            0
+40                            0
+warm                          0
+warmth                        0
+Wärme                        3
+cold                          1
+temperature                   1
+ozone                         2
+Ozon                          0
+Knöchel                      0
+knuckles                      0
+Konstrukt-Stadt               0
+Kernwelt                      0
+KW1                           0
+KW2                           0
+KW3                           0
+KW4                           0
+Möglichkeits-Garten          0
+Guardian                      0
+Guardians                     0
+Mnemosyne                     1
+LogOS                         0
+Cerberus                      0
+Kairos                        0
+Sophia                        0
+734                           0
+Genesis                       0
+Trennungsprotokoll            5
+Flight                        0
+Coheron                       0
+Erason                        0
+Kollaps                       0
+Truth-Rotation                0
+telephone                     1
+Nexus                         0
+Überwelt                     0
+Juna                          3
+Kael                         16
+AEGIS                        11
+Nyx                           0
+Kiko                          0
+Lex                           0
+Alex                          0
+Rhys                          0
+Selene                        0
+Moros                         0
+first person                  0
+Wir                           0
+Autopoiesis                   0
+Autopoietische                1
+Tarski                        1
+DKT                           0

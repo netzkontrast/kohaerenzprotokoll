@@ -1,0 +1,252 @@
+{
+  "document": "monstergruppe-primzahlen-plot-blueprint",
+  "drive_id": "1U0zsrfFnUzNMZod_2-Ga_p2g3s__DqoH2SoW01N_szk",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of three whole-novel plans reconciled together (documents 41–43) — readings and record entries written by Claude readers split by page group from the document's readings-brief.md (Kap 1–39 of document 41 and the alters by readers who were stopped by a usage limit, the rest by Sonnet readers), each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 120,
+    "decisions": 118,
+    "decided_by_lookup": 64,
+    "needs_judgement": 54
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A whole-novel blueprint on one premise, the Monstergruppe as the simulation's operating system. It names no figure but Kael and AEGIS and no world; the Monstergruppe itself stays unpaged (not_promoted) — one read source defines it, and the wiki's pages that need it carry its readings (moonshine-link, potentialmeer).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        19,
+        60,
+        84,
+        104,
+        110,
+        342,
+        344
+      ],
+      "attribution": "",
+      "note": "the Wächter-KI itself, whose reductionism causes the fragmentation it then tries to solve"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        15,
+        30,
+        77,
+        79,
+        84,
+        298
+      ],
+      "attribution": "",
+      "note": "Persönlichkeitszustände AEGIS' own analysis caused, none named, and fusion where every other read source refuses it"
+    },
+    {
+      "page": "did",
+      "lines": [
+        15,
+        17,
+        79,
+        85
+      ],
+      "attribution": "",
+      "note": "an analogue AEGIS' own analysis caused, never resolved by the prime-number metaphor"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        163,
+        164,
+        165
+      ],
+      "attribution": "",
+      "note": "emergent effects from Kael's resonance with M, unpredictable for AEGIS"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        57,
+        60,
+        61,
+        181,
+        184,
+        241,
+        244
+      ],
+      "attribution": "",
+      "note": "introduced by AEGIS as disguised constructs, and one damaged"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        17,
+        33,
+        130,
+        406
+      ],
+      "attribution": "",
+      "note": "never named, only `J` (J111)"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        84,
+        214,
+        298,
+        363
+      ],
+      "attribution": "",
+      "note": "the M-resonant structure AEGIS fragments by trying to factorise it"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        30,
+        241,
+        244
+      ],
+      "attribution": "",
+      "note": "one Kernwelt, and Kapitel 22's cascade into several connected ones"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        17,
+        221,
+        224,
+        228
+      ],
+      "attribution": "",
+      "note": "the K-J Verbindung as the Moonshine-Signatur itself, AEGIS' analytical nightmare, and J under an initial"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        298,
+        344
+      ],
+      "attribution": "",
+      "note": "Kapitel 27: fusion, not its refusal, and Kapitel 31: a fourth-option outcome"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        191,
+        194,
+        195,
+        198,
+        254,
+        393,
+        396
+      ],
+      "attribution": "",
+      "note": "the state beyond M, unstructured and unbegreiflich, that AEGIS fears and M is drawn from"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        15,
+        67,
+        71,
+        74,
+        147,
+        150,
+        152,
+        154
+      ],
+      "attribution": "",
+      "note": "provoked by AEGIS' own crude interventions, and one that stabilises into a door"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      15,
+      23,
+      157,
+      281,
+      291,
+      295,
+      373,
+      484
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C7",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4"
+  ],
+  "judgements": [
+    "J110",
+    "J111"
+  ],
+  "decided_by_existing_rules": "J110 (K-J Verbindung / Moonshine-Signatur on moonshine-link), J111 (J on juna), J108 (Kapitel 33-35 one entry), J20 (Wächter/Guardian), J9, J56/J23, J51",
+  "not_promoted": [
+    "Monstergruppe (M) — L17, the premise; unpaged, on moonshine-link and potentialmeer",
+    "Primzahl-Metapher, Faktorisierung, Fehlklassifikation — L19, AEGIS' analytic model, on aegis",
+    "Protokoll Omega-Sieben — L47, L50, L60, on Q2 and guardians",
+    "NNWDK, KWDNK, KWDK — L468–L474, the stages of knowing, on kael and the chapter pages"
+  ],
+  "internal_tension": "It calls itself final and binding (L15) and hedges in nearly every chapter; AEGIS' fate (Kapitel 31) and Kael's (Kapitel 32) are left among three options each; the alters fuse „zu einem kohärenten Ganzen“ (L298), the one read source to allow fusion; J's separateness is left open (L406).",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 40–43: PageRank recall@8 0.644 → 0.660, C11 0.4 → 0.6 and C4 0.444 → 0.556; seeds unchanged at 0.466"
+}

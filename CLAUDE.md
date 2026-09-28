@@ -88,8 +88,8 @@ folded away (below), so 215 new documents stand. `Sources/README.md` now ends
 with every document and the names that matter in it (*Sources at a glance*,
 below). Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, twenty-five of them
-read (documents 7 to 31).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, and all 33 read
+(documents 7 to 39) — the last eight, all of 2026-05-08, on 2026-09-27.
 
 **Those files are 586 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -120,12 +120,13 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**31 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **31
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **31
-<!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-five `worldbuilding`, one `aegis`, three `storyform`, three `charaktere`, five
-`kernkonzept`, ten `plot-outline` and one `theorie-psychologie` — the last twenty-five
-from the canon era.
+**51 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **51
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **51
+<!--state:documents.reconciled--> are reconciled**. Five are `theorie-physik`,
+five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten
+`kernkonzept`, thirteen `plot-outline`, one `theorie-psychologie`, one `theorie-logik`, one
+`theorie-philosophie` and two `theorie-mathematik` — thirty-three of them from the canon era, and
+documents 40–51 the first read from before it since document 6.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
@@ -136,8 +137,8 @@ has been promoted.
 
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
-**416 <!--state:chapters.readings--> readings** from the nine read documents
-that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, that text's prose without its annotation, a world bible that names nine, a philosophy catalogue that names nineteen, a drafting run's log that names three, a chapter file of Kap 25 that names two, a storyform companion that names nine, and a theory report that names three; `Wiki/overview/` lays the chapters and the plot's
+**584 <!--state:chapters.readings--> readings** from the nine read documents
+that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, that text's prose without its annotation, a world bible that names nine, a philosophy catalogue that names nineteen, a drafting run's log that names three, a chapter file of Kap 25 that names two, a storyform companion that names nine, a theory report that names three, seven English documents of 2026-05-08 that name the Vortex's two chapters, and one of them Chapter 1 and Chapter 39, a Dramatica report that names the Vortex's two, three pre-2026 plans that go chapter by chapter from Kapitel 1 to 39, a storyform study that names nine, that report's earlier run, which names the Vortex's two, and a narrative text of twenty-two chapters, its own Kapitel 1–12 and 14–23; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
 | document | new terms | new readings | new conflicts |
@@ -173,6 +174,26 @@ shape side by side. See *Chapters and the plot*, below.
 | `kp-kap25-2026-09-14-md` | 0 | 11 | 0 |
 | `dual-storyform-hintergruende-md` | 0 | 49 | 0 |
 | `kohaerenz-protokoll-philosophischer-bericht-md` | 0 | 61 | 0 |
+| `systems-narrative-analysis-the-coherence-protocol-kanon-2026` | 0 | 26 | 0 |
+| `mining-report-kohaerenz-protokoll-plot-outline-construction` | 0 | 30 | 0 |
+| `mining-report-kohaerenz-protokoll-narrative-building-blocks` | 0 | 41 | 0 |
+| `systemic-architecture-specification-the-coherence-protocol-w` | 0 | 54 | 0 |
+| `companion-guide-to-the-coherence-protocol-understanding-love` | 0 | 44 | 0 |
+| `the-architecture-of-fracture-a-compendium-of-the-kael-system` | 0 | 45 | 0 |
+| `editorial-style-dossier-somatic-and-linguistic-implementatio` | 0 | 37 | 0 |
+| `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko` | 0 | 26 | 0 |
+| `dramatica-storyform-synthese-aegis-analyse-2` | 0 | 31 | 0 |
+| `hard-sf-roman-outline-dkt-physik-cosmic-horror` | 0 | 43 | 0 |
+| `roman-konzept-dualitaet-kohaerenz-spannung` | 0 | 43 | 0 |
+| `monstergruppe-primzahlen-plot-blueprint` | 0 | 12 | 0 |
+| `duale-storyform-synthese-kohaerenz-protokoll` | 0 | 28 | 0 |
+| `dramatica-storyform-synthese-aegis-analyse` | 0 | 26 | 0 |
+| `m-als-fundament-der-simulation` | 0 | 9 | 0 |
+| `kohaerenz-protokoll` | 0 | 24 | 0 |
+| `charakter-kompilation-fuer-kohaerenz-protokoll` | 0 | 33 | 0 |
+| `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p` | 0 | 20 | 0 |
+| `ki-prompt-analyse-hard-problem-of-consciousness` | 0 | 21 | 0 |
+| `an-inquiry-into-the-unresolved-questions-and-thematic-tensio` | 0 | 42 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -491,14 +512,111 @@ in Storyform B and „AEGIS und Guardians in der 3. Person" — a new position o
 formula's first sentence as an equation, counts three Genesis beats with Kael *as* Component 734 and a
 fourth „ungelöst" (C12), names KW2 „Grenz-Zonen", KW3 „Überwelt / Nexus" and KW4 „Resonanz-Kontinuum"
 (C5, J103), and reduces the Guardians to Mnemosyne and a Lösch-Pol, listing the earlier ones as
-LogOS, Cerberus, Kairos, Sophia and `RIVE` — a name in no other read document (C6; the author's
+LogOS, Cerberus, Kairos, Sophia and `RIVE` — as a Guardian, in no other read document; document 47 writes it for AEGIS' validation engine (C6; the author's
 decision for five stands). J100–J102 place its English `Separation Protocol`, `Component 734` and
 `Phone-Silence` on the German pages without making them surfaces. It is a fifth plan of 39 chapters
 with one Vortex, so `plot.md` moved again. **No pages, readings on 57 pages, `plot.md` and Kap 13, 35
 and 36, entries in twelve conflicts and all five questions** — written by eight Claude readers from one
 brief, each group checked and committed by the session.
 
-`Plan/runs/judgements.jsonl` holds **103 <!--state:judgements.total--> judgements**
+**The thirty-second to thirty-ninth are the last eight of the canon era, all of 2026-05-08, and all
+English.** A „Systems Narrative Analysis" that calls itself „(Kanon 2026-05-08)", two mining reports of
+narrative „seeds" per throughline, a world bible that calls itself „the binding rulebook", a companion
+guide, a compendium of the Kael system, an editorial style dossier and a popular essay — each read with
+its own candidate list, census and note. Their English names for what the wiki pages in German (Coherence
+Kernel, Separation Protocol, Garden of Possibilities, Phone-Silence) go on the German page by the
+sentence (J100–J102); three judgements came from document 32: `RS-A` is not the RSA protocol (J104), its
+`Trauma-Lokus` is KW2's function (J105), and its `DKT` is expanded „Dissoziative Kontroll-Technik"
+(J106). They take sides on nearly every record: AEGIS a Do-er in B (C8, 32–34); two Guardian Sub-Systems
+(C6); the four worlds under the Guardian-world names in English (Q5, C5, C9); the knuckles four times in
+no chapter (C10); AEGIS never in prose, only logs (C14); three Genesis beats with Component 734 Kael's
+precursor (C12); the External Level „Cologne 2026" (C13); Juna's presence once as a drop in temperature
+(C11). **No pages, readings on up to 49 pages each.** Document 32 was read by three readers per
+document; documents 33–39 by six readers split by page group, so no two edited one file.
+
+**The fortieth is the Dramatica-Synthese of 2026-04-30, the reset date, and it tests a storyform
+position rather than stating one.** „Vollständige Synthese der dualen Dramatica-Storyformen": three
+hypotheses for AEGIS' throughline in Storyform B, two falsified and H1 — AEGIS the MC in Universe —
+kept; all eight throughlines encoded with scene seeds, rooms and a DKT correlate; a five-beat Vortex in
+„Kapitel 35–36" whose pivot is a Driver-Flip, which the lock-in of a week later says it is not. Its
+kernel glyphs are lost in the export, so the kernels are placed by the sentence (J98/J99). It puts
+Juna outside the quad in B, a reading a later source calls rejected, and gives AEGIS no Approach (C8).
+J107 makes its `Möglichkeiten-Garten` the Möglichkeits-Garten. **No pages, readings on 31 pages,
+`plot.md` and Kap 35–36.** One of its readers corrected the census: cold stands four times, not two.
+
+**The forty-first to forty-third are the three whole-novel plans from before the canon era**, each of
+39 chapters in three acts, with no Vortex, no Kap 0 and no Kap 40 — so `plot.md`'s „every plan but
+eleven" became „but fourteen". The Hard-SF-Outline (2026-04-08) plans a Guardian per Kernwelt, twelve
+AEGIS protocols, the knuckles bloody in Kapitel 1 and healed in Kapitel 39 (C10), the
+Fragmentierungsnacht as the twist of Kapitel 24 and Juna entering the system in Kapitel 34 (C7). The
+Ultra-Plot (2026-02-26) speaks to the author as a „Novel Writing Assistent", names the four worlds —
+Konstrukt-Stadt KW1, Resonanz-Landschaft, Grenzfeste, Möglichkeits-Garten — each with a Guardian (C6,
+C9, Q5), counts eleven alters with Juna among them, and makes Kael in Kapitel 35 the system AEGIS
+itself (C3). The Primzahl-Blueprint (2025-04-26) builds everything on the Monstergruppe as the
+simulation's operating system, names no figure but Kael and AEGIS, writes Juna only as `J` (J111) and
+the Guardians only as AEGIS' disguised `Wächter` (Q4). J108–J111 came from them. **No pages, readings on
+43, 43 and 12 pages, and on every chapter page from Kap 1 to Kap 39.** The readings were written by
+readers split by page group; midway a usage limit stopped them, and on the author's word every reader
+after that ran on Sonnet.
+
+**The forty-fourth to forty-sixth were next in the chapter tables, and two of them answer document 40.**
+The Duale Storyform-Synthese (2026-04-28) builds two complete storyforms on the axis Change/Success
+against Steadfast/Failure and joins them in a „5D" phase space; it makes Kael the MC of both and AEGIS
+the IC of B — two days before the AEGIS-Analyse makes AEGIS the MC of B — gives AEGIS no Approach (C8),
+and writes `T-734` for Kael's core trauma (J112). The AEGIS-Analyse (2026-04-30) is the earlier run of
+document 40's report and differs from it at named points: AEGIS after the Vortex a broken loop, not a
+proto-consciousness; the Witness layers in Beats 2, 3 and 5; B ending Failure/Bad; Beat 1 cold (C11). The
+M-Fundament-Blueprint (2025-04-26) is document 43's companion, the Monstergruppe as the simulation's
+physics, told in 39 beats and never in chapters, with Alters and Guardians as AEGIS' agents (C4, Q1). **No
+pages, readings on 28, 26 and 9 pages.** Four Sonnet readers wrote them; the session found and replaced one
+altered quotation, „temporäre Entitäten" for the text's „temporären "Entitäten"".
+
+**The forty-seventh is the Kohärenz-Protokoll narrative of 2025-04-27, and it is research like every
+narrative text.** A foreword, a „Genesis der Existenz" told from an Ich — AEGIS born from a cluster of
+fragments in the void, the formula in bold a year before the canon era locks it, the Ich become an
+unnumbered Komponente, the Innere Weite AEGIS' inner simulation (J95) — then „ab hier nur Konzept" and 22
+chapters of prose: Kael, unit K-1123, „ein Fragment von M", through four worlds named by the sporadic groups
+they run on — Co₁, McL, the Baby-Monster world Beta-Rho-5, Ly — each with a Guardian of its own: LogOS, the
+Netzweber, the Chaos-Regulator, the Möglichkeits-Weber (C6, Q5; J116; the author's decision for five
+stands). AEGIS partitions Kael twice (J114), speaks only in capitals (C14), and names its engine `RIVE`;
+Juna is a warm light, never in body (C7, C11). Every chapter names its `Fundamentales Konzept` and its
+stage, and its order does not hold: no Kapitel 13, 17 before the collapse 18 averts, two pairs of chapters
+sharing headers. 21 of its 379 candidates counted 0 because they stand only in capitalised system
+messages. **No pages, readings on 24 pages, `plot.md` and 22 chapters, entries in nine conflicts and four
+questions** — six Sonnet readers from one brief; the session split joined quotations and reworded
+difference lines that claimed more than the text.
+
+**The forty-eighth to fiftieth were next in the chapter tables, and two of them were scanned on
+2026-09-25.** The Charakter-Kompilation (2026-03-31) is a model's character bible built from fourteen Drive
+documents it ranks by maturity: eleven Anteile in fixed fields, each gap marked „\[Fehlt in den Dokumenten -
+Lücke\]", a register of its own contradictions, Silas and Oblivion „Dekanonisiert" on a status report's word.
+It gives „Komponente 734" to Lex, not Kael (C12), names Juna an external entity and Kael's exiled
+Ursprungs-Ich in one line and calls that a deliberate paradox (J68), and lists five Guardians, one per
+world, under AEGIS' own entry (C6, Q5; the author's five stands). The Sensory Rulebook (2025-11-03) is an
+English essay on the four worlds as psycho-architectures, each named twice in one breath — „Kernwelt 1, the
+Konstrukt-Stadt" under „Kernwelt 1 (KW1) - Logos-Prime" — which J118 places on the paged world; it gives
+Juna's world ozone and warmth together and KW2 cold or warmth in one trauma area (C11). The
+Hard-Problem-Analyse (2026-04-28) reads the two storyforms as the Hard Problem of Consciousness: AEGIS the MC
+of B and a Do-er (C8), heat driving B (C11), and Kael and AEGIS „an keiner Stelle des Werks" in verbal
+dialogue (C4, C14); J117 places its `Landauer-Wärme` by the sentence. **No pages, readings on 33, 20 and 21
+pages and on Kap 13, 32, 35 and 36** — five Sonnet readers split by page group; the session removed
+cross-source comparisons no quotation carried and corrected three absence counts that were not zero
+(`Dekanonisiert`, `Ursprungs-Ich`, `Spiegel`).
+
+**The fifty-first is the Inquiry file, the last of the 2026-09-25 scans, and it disagrees with itself about
+the cast.** About fourteen English reports of 2025 in one file, three of them twice: an Inquiry into the
+questions the story leaves open, a Concept Paper, an Editorial & Stylistic Guide that calls itself „the single
+source of truth", a Dramaturgical Framework, a Definitive Blueprint whose eleven alters are „the ground
+truth", profiles, case studies and a Psychological Assessment — recorded, not applied. Four of its reports list
+eight alters with Praetor and Oblivion, two list eleven with Alex, Lia, Isabelle, Moros and Argus, and the last
+names the sources behind the split (Q3). It names the worlds by Guardian and place and glosses them in English,
+„KW1: Logos-Prime (The Construct City)" (J118, J120; C9 and C6 as the author decided), gives Lex the name „Dr.
+Aris Thorne" once (J119), gives `Flucht` to Kiko and Lia (C15), and asks what became of the other fragments of
+AEGIS' self-mutilation. It has no chapter. **No pages, readings on 42 pages and `plot.md`, entries in seven
+conflicts and three questions** — four Sonnet readers split by page group. The author asked on 2026-09-28
+that no new document be started; this one was already under way, and it is where the reading stops.
+
+`Plan/runs/judgements.jsonl` holds **120 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -636,8 +754,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 57 <!--state:sweep.decided--> so far,
-35 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 127 <!--state:sweep.decided--> so far,
+66 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -711,8 +829,8 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**577 <!--state:wiki.relations--> links across
-106 <!--state:wiki.pages--> pages, 20 <!--state:wiki.orphans--> of them with
+**674 <!--state:wiki.relations--> links across
+106 <!--state:wiki.pages--> pages, 19 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
 mistaken for a statement about linking. 48 links existed, written in backticks,
@@ -730,7 +848,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 372 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 530 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -761,7 +879,7 @@ python3 scripts/chapters.py overview   # re-derive Wiki/overview/chapters.md
 python3 scripts/chapters.py missing    # read documents naming `Kap N` with no reading on its page
 ```
 
-**96 <!--state:chapters.missing--> chapter mentions** in read documents have no
+**98 <!--state:chapters.missing--> chapter mentions** in read documents have no
 reading on their chapter's page yet — the character bible's Kap-33 scene among
 them. The count sees `Kap N` written singly; a range and a numbered list without
 `Kap` are invisible to it, so it under-counts. A range with an approximate bound,
@@ -789,14 +907,14 @@ read after that, made it three.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **161 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **2956 <!--state:graph.edges--> edges** (`links`,
+citations and builds **177 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **4322 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 5928 <!--state:graph.evidence-->
-of them, **5928 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 9019 <!--state:graph.evidence-->
+of them, **9019 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -820,7 +938,7 @@ python3 scripts/graphrag.py bench              # recall against the wiki's own l
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
 **47 <!--state:graphrag.recall_seeds-->% from the seeds alone and
-64 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+65 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
 step, on twenty cases whose labels were written by the same hand as the
 pages. Documents 7–9 added seven of them (C6–C12), the author's C6
 decision an eighth (Q5), document 16 a ninth (C13) and document 17 two
@@ -841,7 +959,7 @@ Document 27 moved it to 0.643: C11 from 0.6 to 0.4 and Q3 from 0.375 to 0.25, an
 pages crowding the gold out of the top eight are the central ones it gave a reading — `aegis`,
 `juna`, `kael`, `coheron`, `vortex`, `alters`. The hubs grew faster than the pages around them.
 Document 28 moved it to 0.637, only C4, from 0.556 to 0.444: `cerberus` left its top eight and `alters`
-entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429.
+entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47, nor documents 48–50. Document 51 moved it to 0.654, only C4, from 0.556 to 0.444.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`
@@ -1215,7 +1333,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 577 <!--state:wiki.relations-->.
+links. It has 674 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
@@ -1385,9 +1503,9 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
-**85 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
-47 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
-decides 56 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
+**89 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+48 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
+decides 57 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
 `fold()`, so reconciliation is unchanged. Every optimizer on the ladder —
 `labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
 `--dry-run`. **On 2026-09-25 it ran on real models for the first time**, under

@@ -1,0 +1,72 @@
+# 05-verify — systems-narrative-analysis-the-coherence-protocol-kanon-2026, 2026-09-27
+# every number or absence the census, note or readings state, recounted with word boundaries (grep -cwE = lines)
+Kap                           0
+Ch                            1
+Ch35-36                       1
+Kap 0                         0
+Kap 40                        0
+39                            0
+Vortex                        6
+warm                          1
+warmth                        2
+Wärme                        0
+cold                          0
+kalt                          0
+Ozon                          0
+ozone                         2
+Knöchel                      0
+knuckles                      0
+Konstrukt-Stadt               0
+Möglichkeits-Garten          0
+Echowald                      4
+KW3                           0
+KW4                           0
+Kernwelt                      0
+Core-Worlds                   2
+Guardian                      0
+Guardians                     1
+Mnemosyne                     2
+LogOS                         4
+Cerberus                      0
+Kairos                        0
+Sophia                        0
+Erasure-Pol                   0
+734                           0
+Genesis                       3
+Genesis Crisis                3
+Trennungsprotokoll            0
+first person                  0
+ich                           0
+Flight                        0
+Be-er                         1
+Do-er                         1
+DKT                           2
+Dual-Kernel                   0
+Coheron                       0
+Erason                        0
+K1                            0
+K₁                          0
+K0                            0
+K₀                          0
+Truth-Rotation                0
+Telefon                       0
+phone                         0
+Nexus                         0
+Überwelt                     0
+Juna                         10
+Kael                         26
+AEGIS                        23
+Alters                        2
+Nyx                           0
+Kiko                          0
+Lex                           0
+Alex                          0
+Rhys                          0
+Selene                        0
+Moros                         0
+Algorithmic Melancholy        1
+Algorithmische Melancholie    0
+Potentialmeer                 0
+Verschränkungs-Insel         0
+Vergessener Schrein           2
+Wir                           0

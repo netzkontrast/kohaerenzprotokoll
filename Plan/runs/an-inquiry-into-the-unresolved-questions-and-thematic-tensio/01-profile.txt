@@ -1,0 +1,14 @@
+# an-inquiry-into-the-unresolved-questions-and-thematic-tensio
+  lines                1814  (frontmatter ends at 9)
+  body words           37522
+  headings             242   bold-only lines 4
+  table rows           181   code fences 0
+  question marks       56
+  backslash escapes    930
+  typographic marks    192   ascii quotes 1222
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    9
+  repeated labels      Apparently Normal Parts (ANPs) x3, Coherent x3, Emotional Parts (EPs) x3, Incoherent x3, Kiko (The Child EP) x3, Lex (The Logician ANP) x3, Nyx (The Protector/Aggressor EP) x3, Rhys (The Relational ANP) x3, The Flawed Interpretation x3, The Goal x3, The Perverse Result x3
+  longest line         1181 chars
+

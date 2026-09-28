@@ -1,10 +1,10 @@
 ---
 term: Verschränkungs-Insel
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2"]
 gathered: "2026-09-24"
 ---
 
@@ -36,3 +36,9 @@ A world bible that calls itself „Steinbruch, nicht Korsett" ^[worldbuilding-ko
 
 A sub-location of „Die Überwelt — AEGIS' Maschinenraum" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L626]: „Der Jenseits-des-Ereignishorizonts-Bereich" ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] —
 „kausal isolierter „Verschränkungs-Insel"-Raum (Ch33)." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646] „Hier kann Information dem Erasure-Sweep entkommen." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L646]
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — the word for the Nexus, a room of Kael and Juna's bond outside AEGIS' sensors
+
+A research report whose verdicts are its own — recorded, not applied; its rooms are proposals.
+Once (`grep -cw Verschränkungs-Insel` 1, `05-verify-readers.txt`), in quotation marks and with an indefinite article, of the first room of Storyform A's relationship story, Kael and Juna's: the [[nexus|Nexus]], „Verschränkungs-Insel“ ^[dramatica-storyform-synthese-aegis-analyse-2.md:L231], „fernab der regulären AEGIS-Sensoren, die einer Oase im Datensturm gleicht." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L231] The relationship story's key image beside it is entanglement: „eine Visualisierung von Quantenverschränkung" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L231].
+Out of [[aegis|AEGIS]]' reach, as the worldbuilding concept's room where information escapes the sweep — but not in the Überwelt and not in Kap 33: `Überwelt` and `Kap` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`). Whether the Nexus is this place or only called one the sentence does not say; the two pages stay two.

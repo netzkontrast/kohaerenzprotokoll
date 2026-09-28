@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 13
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,24 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen die Mosaik-Schöpfung in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig an dessen Ende und an den Übergang von KW2 zu KW3; sie ist die Korrektur, mit der der dritte Spiral-Zyklus schließt, und laut der Plot-Konkretisierung das Ende ihres Blocks Der Innentäter. Nach AEGIS' Eskalation greift Kael auf seine innere Vielfalt zurück, um die Krise zu meistern, Selbst-Schöpfung statt Reparatur, laut der Konzept-Iteration Genesis mit dem Mosaik-Herz als innerer Ressource, erzählt laut der strukturierten Outline und der Drei-Modi-Spec aus Kael als Wir, stabil und resilient, laut der strukturierten Outline mit allen ANPs und EPs in beginnender Kooperation. Storyform A führt die Selbst-Schöpfung als MC-Concern und laut dem Kapitel-Kompendium als Requirement, Storyform B bleibt latent; als Echo der Genesis ist die innere Schöpfung laut der Konzept-Iteration Genesis, dem konsolidierten Konzept und der strukturierten Outline die Vorform der kosmischen Schöpfung. Mosaik-Bildung als aktiver Prozess trägt die Szene, laut der strukturierten Outline Scherben, die sich ohne Plan zueinander finden, und laut Kernwelten vollständig betritt Kael hier KW3 an Schleusen und Wachtürmen, unter der Dominanz der Protektoren. Laut der Plot-Konkretisierung legt Kael den ersten Datensatz an, den die Welt nicht zugewiesen hat, das Gegenregister unter eigener Kennung, Schöpfung in der Sprache des Apparats.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „AEGIS' Dilemma: Parakonsistenz am Limit“ ^[monstergruppe-primzahlen-plot-blueprint.md:L251]
+Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
+
+- Plot: „Interner Fokus auf AEGIS. Es steht vor einem unlösbaren Dilemma.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L254]
+- AEGIS' options: „ein kompletter System-Reset“ ^[monstergruppe-primzahlen-plot-blueprint.md:L254], „könnte M beschädigen oder das Potentialmeer freisetzen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L254], or a direct confrontation with Kael.
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — its closing report names this document's Kapitel 17 and its 36 hours again
+
+Title: „Die Resonanz des Architekten“ ^[kohaerenz-protokoll.md:L2394]
+Position: „Selbst-Schöpfung / Mosaik-Herz“ ^[kohaerenz-protokoll.md:L2396] · „Zyklus 2, Phase 5: Resilienz (Innere Ressourcen)“ ^[kohaerenz-protokoll.md:L2398]
+
+- Where: pulled back from Ly into a forced hybrid sector, „ORT: AKTUELLE POSITION (HYBRID-SEKTOR GAMMA-OMEGA-PRIME).“ ^[kohaerenz-protokoll.md:L2418]
+- Story: a new assignment, „PROJEKT: SYSTEM-HARMONISIERUNG GAMMA-OMEGA-PRIME.“ ^[kohaerenz-protokoll.md:L2416], supervised directly by „SUPERVISION: DIREKT DURCH PMAS (PREDICTIVE MODELING & ADAPTATION SUBSYSTEM).“ ^[kohaerenz-protokoll.md:L2428]; Kael stops forcing a merger of Co1 and McL logics and instead loosens control to let them self-organise, „Er musste vom Architekten zum Gärtner werden.“ ^[kohaerenz-protokoll.md:L2454]
+- Close: PMAS's own report closes both this task and Kapitel 17's, „Die 36 Stunden liefen ab. Die Kohärenz-Metrik erreichte 99.97%, stabilisierte sich dort in einem dynamischen, atmenden Gleichgewicht.“ ^[kohaerenz-protokoll.md:L2478], „BETREFF: PROJEKT KDSI-GAMMA-7“ ^[kohaerenz-protokoll.md:L2486] — the project Kapitel 17 assigns, timed there at the same 36 hours.
+- Voice: third person on Kael; AEGIS/PMAS speak only in capitalised system text.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +48,26 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Textur abziehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L318]
 - Story: „Vielleicht während der in Kapitel 22 verursachten Störung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319] · „das Rendering eines bestimmten Bereichs oder Objekts kurzzeitig zu 'brechen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
 - Story: „Drahtgittermodelle, sich wiederholende Texturkacheln, Codezeilen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Symmetriebruch und der Zorn des Nyx“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103]
+Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L81]
+
+- Plot: „Die Rettung triggert den aggressiven Persecutor-Alter Nyx“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103], who „gewaltsam aus seiner Isolation in der Grenzfeste ausbricht, um AEGIS für den Angriff auf Kiko zu bestrafen.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103]
+- Science: „Die absolute Symmetrie von AEGIS bedeutet den Tod“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103]; Nyx' „brachiale Asymmetrie (Wut) bewahrt das System vor dem Erstarren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L103]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Moros tells Kael that AEGIS arose from Kael himself
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Das Echo des Verrats“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Where / who: „Im Innenhof der Zitadelle stößt Kael auf Moros, den Boten des Kollapses.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+- Story: „Moros dekonstruiert die Motivation von AEGIS.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158] · „Die KI ist kein böser Eroberer.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+- AEGIS' origin: „Sie entstand in einem Moment unendlichen Schmerzes (der Genesis-Krise) aus dem Protagonisten selbst, um ihn vor dem totalen Wahnsinn zu bewahren.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
+- Establishes: „Die Primal Directive von AEGIS ist ein tragischer Zirkelschluss“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -112,6 +150,10 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Plot beats: „Der eigene Bestand — Kael legt den ersten Datensatz an, den die Welt nicht zugewiesen hat (Mosaik als Schöpfung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Plot beats: „das Gegenregister, übertragen in die Form des Systems, unter eigener Kennung. Schöpfung in der Sprache des Apparats.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Storyform: „dann den eigenen Bestand anlegen (Kap 23)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L182]
+
+## Where the sources differ
+
+- **The Kohärenz-Protokoll narrative.** Its title, „Die Resonanz des Architekten“ ^[kohaerenz-protokoll.md:L2394] (the Kohärenz-Protokoll narrative, 2025-04-27), and another setting beside Nyx's confrontation, a betrayal's echo or a Mosaik-Schöpfung of the other readings: a forced hybrid sector, Gamma-Omega-Prime, where Kael's task is System-Harmonisierung rather than a personal reckoning.
 
 ## Questions for this chapter
 

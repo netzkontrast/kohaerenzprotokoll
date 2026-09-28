@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 16
-readings: 16
+sources: 26
+readings: 26
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-24"
 ---
 
@@ -104,3 +104,47 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — Sonder, Fraktale, → konstruktive Kritik
 
 In neither roster of the TSDP section, ANP (L465) or EP (L466): his row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490) has a category of its own, „Sonder | Argus (Meta-Kognitiv) | Fraktale | → konstruktive Kritik" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L501]. Nothing else in the document names Argus (`grep -cw Argus`: 1; `05-verify-readers.txt`).
+
+## Reading — `systems-narrative-analysis-the-coherence-protocol-kanon-2026`, 2026-05-08, the Systems Narrative Analysis — a somatic seed: flashes at the edge of sight, after the Vortex
+
+In the section „OPEN-Q: Post-Vortex & Missing Somatics" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L130] — one of the five whose somatics it calls missing — a seed, a proposal: „Seed-21 Argus: The Peripheral Flash" ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L138]: „Visual "flashes" in peripheral vision—monitoring the Risse that no longer need closing." ^[systems-narrative-analysis-the-coherence-protocol-kanon-2026.md:L139] — after the Vortex, by the section's heading and its own `no longer`. It is not the character bible's Vorschlag (above). Nothing else in the document names Argus (`grep -cw Argus`: 1; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-plot-outline-construction`, 2026-05-08, the Plot/Outline Mining-Report — a seed: hyper-vision, the perceptual alter
+
+One of the four seeds for the missing alters (L79) — a proposal: „Seed-10 Argus’s Hyper-Vision" ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L83]. „Seeing the flicker of the universe's refresh rate; ionized air appearing as jagged code-shards in the periphery." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L83] „Represents Argus’s hyper-vigilant perception of the simulation’s flaws." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L83] Its index: „Argus as perceptual alter." ^[mining-report-kohaerenz-protokoll-plot-outline-construction.md:L108] Nothing else in the document names Argus (`grep -cw Argus`: 2; `05-verify-readers.txt`).
+
+## Reading — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report — a gap: the Meta-cognitive Observer needs a body
+
+In its somatic gaps: „As the "Meta-cognitive Observer," Argus needs a distinct physical presence in the Kernwelten to ground the "Watch-Layer" of the simulation." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L167] Nothing else in the document names Argus (`grep -cw Argus`: 1).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — Special, somatic filter open
+
+His row in its table of thirteen fragments: „Special | Argus | Fractals | Open | Constructive Criticism" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51] — `Special` for the category the German rosters call Sonder, and his somatic filter `Open`. Nothing else in the document names Argus (`grep -cw Argus`: 1).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Fractals, meta-cognitive detachment
+
+His row, in a table with no category column: „Argus,Fractals,Meta-cognitive detachment,Constructive Criticism" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L80]. Nothing else in the document names Argus (`grep -cw Argus`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — Sonder, the constructive internal critic
+
+„Sonder | Argus | Fractals | Meta-cognition ; Role: Constructive internal critic." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Nothing else in the document names Argus (`grep -cw Argus`: 1).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Meta-Kog, visual fractaling
+
+His row: „Argus (Meta-Kog) | Fractals | Visual fractaling/geometric noise in periphery. | Signals meta-cognitive system analysis." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Among its profile highlights: „Arc: Moving from sterile critique to constructive system-repair." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L51] Nothing else names Argus (`grep -cw Argus`: 2).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — the Archivar der Narben, an eye in the labyrinth
+
+A compilation that audits its sources — recorded, not applied.
+**Function, voice and correlate.** „„Archivar der Narben“, metakognitiver Beobachter, Kritiker, Systemanalytiker." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L262] „Kritisch, schmerzhaft ehrlich, demontiert Selbsttäuschungen." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L268] „Fraktale, sich selbst beobachtende Muster (Auge im Labyrinth)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L270] Its own Riss-Typ field for him is unfilled — „\[Fehlt in den Dokumenten - Lücke\]" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L272] — and so is his Somatischer Marker, in the line after it ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L273].
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Sonder, the meta-cognition whose hypervigilance saves Kapitel 9
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. His row, category `Sonder`: „Die Meta-Kognition." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L60] „Ständige Hypervigilanz, das "Radar" des Systems Kael." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L60]
+Kapitel 9, against AEGIS' PMAS protocol: „Argus, die metakognitive Instanz, pulsiert im Hintergrund und liefert Kael eine Hypervigilanz, die es ihm ermöglicht, die Fallen Mikrosekunden vor ihrem Zuschnappen zu erkennen." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L118] Argus stands on these two lines only (`grep -cw Argus`: 2; `05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the eleven-alter roster's meta-cognitive Observer
+
+An English file of about fourteen reports of 2025. Argus stands in the Blueprint's and the Assessment's eleven-alter tables and not in the eight-alter tables of the Guide, the Framework or `An Architecture of the Self` (see [[alters]]). The Blueprint: „Argus | ANP/EP (Observer) - A detached, meta-cognitive critic observing the system itself." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L853] „Motivation: Understand the system to prevent errors." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L853] „Fear: Imperfection, repeating mistakes." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L853] „His critical observations can be helpful to Lex but grating to Kael and Rhys. He is deeply skeptical of the integration process, seeing it as another potential source of error." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L853]
+
+The Assessment's table gives him a hybrid, emerging classification: „Argus | Entst. ANP/EP (Meta-Kognitiv) | Internes Korrektiv, Meta-Perspektive | Fehler, Imperfektion, Emotionale Instabilität, Kontrollverlust (indirekt)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1622]

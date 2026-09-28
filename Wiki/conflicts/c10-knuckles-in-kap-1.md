@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 16
+sources: 22
 pages: ["kael", "nyx"]
 ---
 
@@ -148,3 +148,42 @@ Neither row: the image belongs to KW1 and to the physics, not to a chapter — a
 „Der somatische Filter (Kaels physischer Körper im Vordergrund: blutende Knöchel, Ozon-Geruch, Time-loss + Zittern) sichert dies." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535]
 `Knöchel` stands once and `Kap` 0 times (`05-verify-readers.txt`); the paragraph's one chapter is Kapitel 13, as the end of the Multiplizitäts-Schleier, not the knuckles'. Nyx is named only as an EP, „Nyx (Fight)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466], with no knuckles.
 Neither row: a trait of Kael's body the prose keeps in the foreground, as in the master report and the worldbuilding concept of its date, placed in no chapter.
+
+## 2026-09-27 — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide
+
+**A somatic filter of K0-pressure — the protagonist's, in no chapter.**
+„K0-Pressure (Bruxismus): The physical pressure of entropy manifests as somatic filters" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L39]: „the protagonist’s bleeding knuckles, tooth grinding (bruxism), hypoventilation (shortness of breath), and "muscle armor"" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L39].
+`knuckles` stands once; `Kap` and `Chapter` 0, and its one range is the Vortex's, „Chapters 35-36" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L100] (`05-verify-readers.txt`). Nyx is named only in the roster, with „Adrenaline / Tunnel vision" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L70].
+Neither row: a trait of the protagonist's body under the Landauer physics, placed in no chapter.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**Landauer heat's diegetic sign — the subject's, in no chapter.**
+Every erasure's waste heat shows as ozone, „temperature spikes (exactly 21°C until the threshold breaks), and the subject's bleeding knuckles" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L30].
+`knuckles` stands once; `Kap`, `Ch` and `Chapter` 0 (`05-verify-readers.txt`). Nyx has „Adrenalin, tunnel vision" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] and no knuckles.
+Neither row: the image belongs to the physics, not to a chapter.
+
+## 2026-09-27 — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier
+
+**A truth-meter for the reader — and a sample sentence in Nyx's voice; in no chapter.**
+„These spikes manifest as physical symptoms—heat, the smell of ozone, and bleeding knuckles—which act as a "truth-meter" for the reader" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19]. In its syntax cheat sheet, as diction: „The air is hot. My knuckles bleed." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L34] — Nyx's staccato, not a scene.
+`knuckles` stands twice, on those lines; `Kap` 0, and its three `Ch.` are the act ranges, „Act I (Ch. 1-13): The Multiplicity Veil." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L57] among them, with no knuckles (`05-verify-readers.txt`).
+Neither row: the knuckles in Nyx's first person, as row 2's Kap 0 has them in Nyx's voice, but placed in no chapter.
+
+## 2026-09-27 — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline
+
+**Row 1's side, in Kapitel 1 itself, and healed by Kapitel 39 — three weeks before the character bible gives it a Landauer-strand name.**
+Kapitel 1: „Kael erwacht in Logos-Prime (KW1)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] „Er blinzelt, und plötzlich starrt er auf seine eigenen, blutig aufgerissenen Knöchel." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] „Ihm fehlen Stunden." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L94] Among its fixed points: „Glitch (blutige Knöchel, Zeitverlust)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L215].
+Kapitel 39: „Die Narben auf seinen Knöcheln sind real, alt und verheilt." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L206] So the thread runs from Kap 1 to Kap 39, not Kap 0 to an open return — row 1's placement, with its own bracketing.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**Neither row — no knuckles at all, but the same bleeding image split across two named chapters, months before either position.**
+`Knöchel` stands 0 times. Kapitel 4, „Die Treppe der Unvollständigkeit" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61]: Kael climbs an Escher-loop staircase „bis seine Knie bluten" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] — his knees, not his knuckles, and in Kap 4, not Kap 1. Kapitel 9, „Phantomschmerz der Identität (Lost Time)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L71]: „Kael steht plötzlich in seinem sterilen Quartier, seine Hände sind mit fremdem Blut bedeckt" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L71], with six hours lost — „Nyx, der Kampf-EP, hatte die Kontrolle übernommen" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L71]. So Nyx is already the bearer of an unexplained bleeding, as in row 2's later Kap 0, but here in Kap 9 and with someone else's blood on the hands, not the knuckles. Neither position as written; on its date, ten to fourteen weeks before either.
+
+## 2026-09-27 — `the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko`, 2026-05-08, the Physics of Heartbreak
+
+**The opening image — the story's starting point, with no chapter.**
+„The atmosphere is periodically saturated with the sharp, metallic scent of ozone—a byproduct of high-energy suppression—and the subject observes hemorrhaging knuckles without a corresponding causal memory." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13] „This is the starting point of the Kohärenz Protokoll." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L13]
+`knuckles` stands once; `Kap`, `Ch` and `Chapter` 0 (`05-verify-readers.txt`).
+Nearest row 1's place, the opening, but with no chapter number: the worldbuilding concept's premise image (its L29), not a Kap 1.

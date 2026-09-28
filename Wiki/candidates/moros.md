@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 17
-readings: 17
+sources: 26
+readings: 26
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-24"
 ---
 
@@ -106,3 +106,49 @@ In the per-POV routing the document labels „Lock-In 2026-05-07: Option 3." ^[d
 ## Reading — `kohaerenz-protokoll-philosophischer-bericht-md`, 2026-05-08, the philosophischer Bericht — EP, Kollaps, Big Freeze, → Drachenkampf
 
 Among the EPs of the TSDP section: „Im Roman: Nyx (Fight), Kiko (Freeze), Lia (Ambivalent), Isabelle (Sexualisiert), Moros (Kollaps)." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L466] His row in the table of thirteen, whose columns are category, alter, DKT-Korrelat and Bogen, with no somatics (L490): „EP | Moros (Kollaps) | Big Freeze | → Drachenkampf" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L500]. `Drachenkampf` is named and not explained. Nothing else in the document names Moros (`grep -cw Moros`: 2; `05-verify-readers.txt`).
+
+## Reading — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification — EP (Collapse), the gravitational Riss
+
+His row in its table of thirteen fragments: „EP (Collapse) | Moros | Big Freeze | Catatonia | Dragon-fight" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. His Riss: „Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78] Nothing else in the document names Moros (`grep -cw Moros`: 2; `05-verify-readers.txt`).
+
+## Reading — `companion-guide-to-the-coherence-protocol-understanding-love`, 2026-05-08, the Companion Guide — Big Freeze, catatonia
+
+His row, in a table with no category column: „Moros,Big Freeze,Catatonia" ^[companion-guide-to-the-coherence-protocol-understanding-love.md:L78], with the Dragon Fight as his arc in the export's doubled quotation marks (L78). Nothing else in the document names Moros (`grep -cw Moros`: 1).
+
+## Reading — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture — EP, the Dragon Fight against collapse, a core EP of the first layer
+
+„EP | Moros | Big Freeze | Catatonia, leaden limbs ; Arc: The "Dragon Fight" against collapse." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L34] Of Layer 1, Cologne: „forcing the creation of the core EPs (Kiko, Lia, Moros)." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L42] Nothing else in the document names Moros (`grep -cw Moros`: 2).
+
+## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Collapse, crushing gravitational weight
+
+His row: „Moros (Collapse) | Big Freeze | Katatonia; feeling of crushing gravitational weight. | The "Dragon Fight"; the weight of total erasure." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] Nothing else in the document names Moros (`grep -cw Moros`: 1).
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — EP, the messenger of collapse who explains AEGIS in Kapitel 23
+
+A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. His row, category `EP`: „Der Bote des Kollapses." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L59] „Pessimismus als Schutz; Antizipation des Weltendes." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L59]
+Kapitel 23, in KW3: „Im Innenhof der Zitadelle stößt Kael auf Moros, den Boten des Kollapses." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158] „Moros dekonstruiert die Motivation von AEGIS." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L158] — that AEGIS arose from Kael himself in the Genesis-Krise, to keep him from madness (L158). Moros stands on these two lines only (`grep -cw Moros`: 2; `05-verify-readers.txt`).
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the collapse Kael is shown, then embraces
+
+A report addressed to the author; recorded, not applied. Not in the eleven-alter table (L40–L43; see [[alters]]). Kapitel 15 has Kael watch him from outside, endlessly caught: „Kael beobachtet durch eine Glasscheibe, wie der Kollaps-EP Moros immer und immer wieder den gleichen Moment des existentiellen Zusammenbruchs durchlebt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L87] „Die mentale Kritik der Szene verortet den Horror hier in der Erkenntnis der Unendlichkeit ohne Auflösung." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L87]
+Kapitel 28 gives the chapter his name: „Sein zum Tode und die Umarmung von Moros" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] (J9). „Im unendlichen Fall begegnet Kael Moros, dem Alter des ultimativen Kollapses und der Hoffnungslosigkeit." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] Kael no longer resists him: „In der Verschmelzung mit der katatonischen Schwere von Moros verlangsamt sich der Sturz." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L117] Heidegger's Sein-zum-Tode is realised in the embrace (the same line) — a scene neither of Moros' other two read sources gives him. `Moros` stands on these two lines only (`grep -cw Moros`: 2, `Plan/runs/roman-konzept-dualitaet-kohaerenz-spannung/05-verify.txt`).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — an internalised Täter, and a Riss that drives the temperature down
+
+A compilation that audits its sources — recorded, not applied.
+**Function and motivation.** „Träger von tiefster Hoffnungslosigkeit, Existenzieller Leere, internalisierter Täter." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L240] „Überleben durch Passivität, Resignation und Nicht-Existenz; sabotiert Heilung." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L242]
+**Correlate.** „Der Big Freeze & thermodynamischer Nullpunkt." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L248]
+**His Riss sinks the temperature.** „Temperatur sinkt drastisch, Zeitdilatation wird unendlich, System friert physisch ein." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L250]
+**Somatik.** „Katatonie, totale Erstarrung, Depersonalisation." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L252]
+
+## Reading — `dramatica-storyform-synthese-aegis-analyse`, 2026-04-30, the AEGIS-Analyse — one of the fragments that synchronise rather than fuse, and half of the battle Beat 2 sets against the Wächter
+
+A research report of the same date as the Dramatica-Synthese (`dramatica-storyform-synthese-aegis-analyse-2`, already read) and an earlier run of the same analysis; its verdicts are its own — recorded, not applied.
+„Die funktionalen Fragmente (Lex, Nyx, Kiko, Moros) fusionieren nicht zu einem Brei, sondern schalten sich in eine synchronisierte, kooperative Multiplizität." ^[dramatica-storyform-synthese-aegis-analyse.md:L106]
+„Die kühle, mechanische Präzision und Kampfausbildung (Skill) der Wächter prallt ungebremst auf die unbändige, rohe Überlebensgewalt und das unkontrollierbare Trauma (Experience) der EPs wie Nyx oder Moros." ^[dramatica-storyform-synthese-aegis-analyse.md:L75] No chapter is named for him (`Kap` 0; `Plan/runs/dramatica-storyform-synthese-aegis-analyse/05-verify-readers.txt`).
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file — the eleven-alter roster's Collapse EP, a dyad with Rhys
+
+An English file of about fourteen reports of 2025. Moros stands in the Blueprint's and the Assessment's eleven-alter tables and not in the eight-alter tables of the Guide, the Framework or `An Architecture of the Self` (see [[alters]]). The Blueprint: „Moros | EP (Collapse-Reaktion) - Embodies trauma response of total shutdown and hopelessness." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L852] „Motivation: Survive through passivity and non-existence." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L852] „Represents the ultimate antagonist to Rhys's empathy and Selene's hope; a state of collapse that cannot be reached through simple care." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L852]
+
+The Assessment's table: „Moros | EP (Kollaps/Freeze) | Träger von Hoffnungslosigkeit/Leere/Todesnähe | Isolation, Hoffnungslosigkeit, Existenzielle Leere, Wiederbelebung" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1618] and gives him a dyad with Rhys: „Rhys (ANP) vs. Moros (EP): This is the clash between the drive to connect and provide care (Rhys) and the state of complete shutdown and hopelessness (Moros). Rhys is driven by empathy and the need to heal, while Moros embodies the traumatic state where connection is impossible and existence itself is a source of pain." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1639]

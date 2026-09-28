@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+sources: 14
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,24 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen die Bunker-Reaktion in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut dem Kapitel-Kompendium und der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Reaktion im ersten Spiral-Zyklus, zwischen Trigger und Wächterin. Nach dem Trigger, der Kaels Trauma-Angst reaktiviert hat, flieht Kael reflexhaft in alte Bewältigung, in Dissoziation und Rückzug, und der Bunker springt wieder an, erzählt laut der strukturierten Outline und der Drei-Modi-Spec aus Kael unter Lex- und Selene-Dominanz, während laut der strukturierten Outline Moros' Schwere im Hintergrund alles herunterzieht. In Storyform A führt das Kapitel das MC-Problem Avoidance als Flucht in Betäubung, in Storyform B die OS, in der AEGIS den Rückfall fälschlich als Stabilisierung registriert, eine tragische Ironie; enge Räume und taube Sensorik tragen es. Laut dem Kapitel-Kompendium und der Storyform-Outline geht es zugleich um die Diktatur der Komplexität: an den physikalischen Grenzen der Rechenkapazität opfert AEGIS Realitäts-Detail für globale Stabilität, laut Kernwelten vollständig in KW2 als Auflösungsverlust. Laut der Plot-Konkretisierung, einem Vorschlag, findet Kael die Posten-Liste dieses Komplexitäts-Budgets und seine eigene Abteilung als Budget-Instrument, und Oblivion reicht in derselben Nacht Berichte ein, die Kael nie geschrieben hat.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
+
+Title: „Der beschädigte Wächter“ ^[monstergruppe-primzahlen-plot-blueprint.md:L181]
+
+- Who: „der durch die systemischen Instabilitäten beschädigt oder von AEGIS' zentraler Kontrolle teilweise getrennt wurde“ ^[monstergruppe-primzahlen-plot-blueprint.md:L184]
+- Establishes: „könnte Kael unbeabsichtigt Informationen über AEGIS' Natur“ ^[monstergruppe-primzahlen-plot-blueprint.md:L184]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+Title: „Muster im Nichts“ ^[kohaerenz-protokoll.md:L1660]
+Position: „Trauma & NET (Mustererkennung) / IFS (Funktion der Vermeidung)“ ^[kohaerenz-protokoll.md:L1662] · „Zyklus 1, Phase 3: Erkenntnis (Muster)“ ^[kohaerenz-protokoll.md:L1664]
+
+- Story: from inside the Bunker of Kapitel 15, Kael recognises the retreat as a recurring survival pattern and meets it with compassion rather than fighting it, „Mitgefühl. Das war das Gefühl, das nun im Zentrum des Selbst aufstieg.“ ^[kohaerenz-protokoll.md:L1692], which lets the Juna-resonance reach him again and leads him to a plan for a resonance-based, not a purely logical or avoidant, protocol, „Er brauchte ein neues Protokoll. Kein rein logisches, kein rein vermeidendes.“ ^[kohaerenz-protokoll.md:L1742]
+- Close: the chapter ends the first cycle, „Der erste Zyklus war fast abgeschlossen. Der Bruch war geschehen. Der Rückfall war erkannt und überwunden.“ ^[kohaerenz-protokoll.md:L1748]
+- Voice: third person on Kael; his inner Anteile (Manager, Kind, Schatten, Selbst) speak in italics.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -30,6 +48,27 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Reaktionsschwelle sondieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L227]
 - Story: „Kael testet systematisch AEGIS' Reaktionen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228] · „geringfügige Regelverstöße, Ausdruck spezifischer Emotionen, Versuch verbotener Verbindungen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
 - Story: „Er könnte entdecken, dass einige Aktionen unverhältnismäßig große Reaktionen hervorrufen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
+
+Title: „Die Diktatur der Komplexität“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
+
+- Who: „Abrupt übernimmt Lex, der rationale Analytiker-ANP, das Bewusstsein“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
+- Theory: „Er scheitert an "Ashby's Law of Requisite Variety"“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L89]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kiko, and the first layer of the origin trauma
+
+A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
+
+Title: „Die Begegnung mit dem Kind“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L140]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- Who: „Tief in einem verrottenden Sektor der Bibliothek stößt Kael auf Kiko, das Freeze/Kind-Alter.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142] · „spürt aber eine erdrückende, väterliche Verantwortung (Rhys regt sich in ihm)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]
+- What it establishes: „Hier blutet das erste Layer des Origin-Traumas (das Kindheitsbindungstrauma) massiv in die Szenerie.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]
+- Reader's view: „Er projiziert dieses Leid immer noch auf eine fremde Gefangene der Simulation“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]
+- Checklist, Fixpunkt 10, for Kapitel 16 and 24: „Layer 1 (Bindungstrauma), Layer 2 (Fragmentierungsnacht als Twist).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224] · „Kiko offenbart das kindliche Bindungstrauma.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -121,6 +160,8 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 ## Where the sources differ
 
 - **Title.** „Z1-Reaktion: Bunker reaktiv“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L611] (strukturierter Outline; „Z1-Bunker reaktiv“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L991] konsolidiertes Konzept, „Bunker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L566] Konzept-Iteration Genesis) · „Die Diktatur der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (Kapitel-Kompendium; so too storyform outline, and cited by the Plot-Konkretisierung). The storyform outline keeps the first as „(Zyklus-Funktion: Z1-Bunker reaktiv)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341] (storyform outline). · „Kap 16 — Diktatur der Komplexität“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L335] in its text and „Diktatur der physikalischen Zeit“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L705] in its table (the philosophy catalogue) — the Kompendium's title, and the phrase the Kompendium gives as the chapter's theory.
+- **The Hard-SF-Outline.** „Die Begegnung mit dem Kind“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L140] (the Hard-SF-Outline, 2026-04-08) — a new title; the chapter is Kiko's and the origin trauma's first layer: „Kiko offenbart das kindliche Bindungstrauma.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L224]
+- **The Kohärenz-Protokoll narrative.** Its title, „Muster im Nichts“ ^[kohaerenz-protokoll.md:L1660] (the Kohärenz-Protokoll narrative, 2025-04-27); the „Kap 16 — Bunker (Z1-Reaktion)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L566] of the Konzept-Iteration Genesis is this document's Kapitel 15, „Reaktivierter Bunker“ ^[kohaerenz-protokoll.md:L1594] — its Kapitel 16 is the recognition that follows the retreat, still in Beta-Rho-5, with no Diktatur der Komplexität, no budget and no Oblivion.
 
 ## Questions for this chapter
 

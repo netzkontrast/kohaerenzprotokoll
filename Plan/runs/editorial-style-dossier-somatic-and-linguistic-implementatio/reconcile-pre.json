@@ -1,0 +1,667 @@
+{
+  "document": "editorial-style-dossier-somatic-and-linguistic-implementatio",
+  "step": "reconcile-pre",
+  "at": "2026-09-27",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-27",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 117,
+  "decisions": 132,
+  "same_surface": {},
+  "decided_mechanically": 90,
+  "needs_judgement": 42,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 12
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 30
+      },
+      {
+        "candidate": "Kohärenz-Kernel",
+        "page": "kohaerenz-kernel",
+        "readings": 6
+      },
+      {
+        "candidate": "Kohärenz-Kernel (K1)",
+        "page": "kohaerenz-kernel",
+        "readings": 6
+      },
+      {
+        "candidate": "Kollaps-Kernel",
+        "page": "kollaps-kernel",
+        "readings": 5
+      },
+      {
+        "candidate": "Kollaps-Kernel (K0)",
+        "page": "kollaps-kernel",
+        "readings": 5
+      },
+      {
+        "candidate": "Truth-Rotation",
+        "page": "truth-rotation",
+        "readings": 11
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 20
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 14
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 19
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 17
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 16
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 18
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 17
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 16
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 17
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 17
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 21
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 21
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 26
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 15
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 19
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 27
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 18
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Dual-Storyform"
+      },
+      {
+        "candidate": "Dual-Kernel Theory"
+      },
+      {
+        "candidate": "Storyform A"
+      },
+      {
+        "candidate": "Heuristics of Integration"
+      },
+      {
+        "candidate": "Storyform B"
+      },
+      {
+        "candidate": "Phoenix Collapse"
+      },
+      {
+        "candidate": "5D interference"
+      },
+      {
+        "candidate": "K1-Substrate"
+      },
+      {
+        "candidate": "amnesic terror"
+      },
+      {
+        "candidate": "somatic filter"
+      },
+      {
+        "candidate": "Thermodynamics of the Body"
+      },
+      {
+        "candidate": "Landauer Principle"
+      },
+      {
+        "candidate": "Erasure"
+      },
+      {
+        "candidate": "Apparently Normal Parts"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "Landauer Spike"
+      },
+      {
+        "candidate": "ozone"
+      },
+      {
+        "candidate": "bleeding knuckles"
+      },
+      {
+        "candidate": "truth-meter"
+      },
+      {
+        "candidate": "DKT-Correlate"
+      },
+      {
+        "candidate": "Primary Somatic Signature"
+      },
+      {
+        "candidate": "Hubble Volume"
+      },
+      {
+        "candidate": "Universal Reboot"
+      },
+      {
+        "candidate": "Lex (Rationalist)"
+      },
+      {
+        "candidate": "Nyx (Fight)"
+      },
+      {
+        "candidate": "Lia (Ambivalent)"
+      },
+      {
+        "candidate": "Dragon Fight"
+      },
+      {
+        "candidate": "KW1–KW4"
+      },
+      {
+        "candidate": "Paraconsistent"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "NP-Hard"
+      },
+      {
+        "candidate": "EP-Protectors"
+      },
+      {
+        "candidate": "staccato parataxis"
+      },
+      {
+        "candidate": "Generative"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Wir-Stimme"
+      },
+      {
+        "candidate": "We-Voice"
+      },
+      {
+        "candidate": "Syntax Cheat Sheet"
+      },
+      {
+        "candidate": "Linguistic Mandate"
+      },
+      {
+        "candidate": "Tertiäre Strukturelle Dissoziation"
+      },
+      {
+        "candidate": "Emotional Parts"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "Vertical Symmetry Bridge"
+      },
+      {
+        "candidate": "Individual Holon"
+      },
+      {
+        "candidate": "Cosmic Holon"
+      },
+      {
+        "candidate": "Automaton"
+      },
+      {
+        "candidate": "Functional Multiplicity"
+      },
+      {
+        "candidate": "Strange Attractor"
+      },
+      {
+        "candidate": "Multiplicity Veil"
+      },
+      {
+        "candidate": "The Bleeding"
+      },
+      {
+        "candidate": "Cache-Coherence"
+      },
+      {
+        "candidate": "The Chorale"
+      },
+      {
+        "candidate": "MI-Substrate"
+      },
+      {
+        "candidate": "Mutual Information"
+      },
+      {
+        "candidate": "The Witness"
+      },
+      {
+        "candidate": "Zero-Knowledge-Verifier"
+      },
+      {
+        "candidate": "Phantom-Resonances"
+      },
+      {
+        "candidate": "Phone-Silence"
+      },
+      {
+        "candidate": "Tragic God"
+      },
+      {
+        "candidate": "PARADOX\\_INDEX"
+      },
+      {
+        "candidate": "MASSNAHME"
+      },
+      {
+        "candidate": "Chiang-Egan"
+      },
+      {
+        "candidate": "Somatic Priority"
+      },
+      {
+        "candidate": "The Silence"
+      },
+      {
+        "candidate": "Deus Ex Machina"
+      },
+      {
+        "candidate": "Dialetheia"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS-Log-Format",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Log-Template",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz-Kernel  /  Kohärenz-Kernel (K1)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kollaps-Kernel  /  Kollaps-Kernel (K0)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael (Host)  /  Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Rhys (Caregiver)  /  Rhys",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alex (Protector)  /  Alex",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selene (ISH)  /  Selene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kiko (Freeze)  /  Kiko",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Isabelle (Sexualized)  /  Isabelle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moros (Collapse)  /  Moros",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Argus (Meta-Kog)  /  Argus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Silas (Spiegel)  /  Silas",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Oblivion (Spiegel)  /  Oblivion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  JUNA\\_VEKTOR",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Computational-Class-Progression  /  Class P",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "hypotactic  /  Act I",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  SYSTEM\\_KAEL",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Act I  /  Act II",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Act I  /  Act III",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Act II  /  Act III",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ouroboros Ending  /  Ouroboros",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael (Host)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Rhys (Caregiver)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "rhys",
+            "page": "rhys"
+          }
+        ]
+      },
+      {
+        "candidate": "Alex (Protector)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alex",
+            "page": "alex"
+          }
+        ]
+      },
+      {
+        "candidate": "Selene (ISH)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "selene",
+            "page": "selene"
+          }
+        ]
+      },
+      {
+        "candidate": "Kiko (Freeze)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kiko",
+            "page": "kiko"
+          }
+        ]
+      },
+      {
+        "candidate": "Isabelle (Sexualized)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "isabelle",
+            "page": "isabelle"
+          }
+        ]
+      },
+      {
+        "candidate": "Moros (Collapse)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "moros",
+            "page": "moros"
+          }
+        ]
+      },
+      {
+        "candidate": "Argus (Meta-Kog)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "argus",
+            "page": "argus"
+          }
+        ]
+      },
+      {
+        "candidate": "Silas (Spiegel)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "silas",
+            "page": "silas"
+          }
+        ]
+      },
+      {
+        "candidate": "Coheron-Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "coheron",
+            "page": "coheron"
+          }
+        ]
+      },
+      {
+        "candidate": "Oblivion (Spiegel)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "oblivion",
+            "page": "oblivion"
+          }
+        ]
+      },
+      {
+        "candidate": "Erason-Operator",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "erason",
+            "page": "erason"
+          }
+        ]
+      },
+      {
+        "candidate": "Spiegel Alters",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Ouroboros",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "ouroborosstruktur",
+            "page": "ouroboros-struktur"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Log-Format",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Log-Template",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "SYSTEM\\_KAEL",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "JUNA\\_VEKTOR",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Coherons",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "coheron",
+            "page": "coheron"
+          }
+        ]
+      },
+      {
+        "candidate": "Erasons",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "erason",
+            "page": "erason"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 40,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

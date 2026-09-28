@@ -1,0 +1,393 @@
+{
+  "document": "kohaerenz-protokoll",
+  "drive_id": "1-tb7wU1phWlL_NGTiJIhaoD_99YilBFyDYAX0rgoakk",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification — readings and record entries written by six Sonnet readers split by page group from Plan/runs/kohaerenz-protokoll/readings-brief.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 330,
+    "decisions": 346,
+    "decided_by_lookup": 204,
+    "needs_judgement": 142
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A narrative text, research like documents 22–25 and 29: its defined things are the chapters' own labels, system designators (K-1123, Omikron-9, KDSI-Gamma-7) and borrowed concepts (IFS, Autopoiesis, Heldinnenreise). A page created from them would say nothing a reading does not; the Guardian and world names it gives go on guardians and kern-welten by the sentence (J116).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        81,
+        103,
+        109,
+        256,
+        380,
+        635,
+        2428,
+        2452
+      ],
+      "attribution": "",
+      "note": "capitals only, the Primal-Directive formula a year early, and subsystems of its own"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        206,
+        1073,
+        1318,
+        1474
+      ],
+      "attribution": "",
+      "note": "the parts have no names, and the word is `Anteil` (J88)"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        304
+      ],
+      "attribution": "",
+      "note": "the metaphor named directly, for the gaps in Kael's own memory"
+    },
+    {
+      "page": "did",
+      "lines": [
+        196,
+        198
+      ],
+      "attribution": "",
+      "note": "the diagnosis as a chapter's own label, and the word withheld from the prose"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        1978,
+        1996,
+        2040,
+        2470
+      ],
+      "attribution": "",
+      "note": "Ly's own principle, danced rather than caused"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        95,
+        382,
+        1520,
+        1740,
+        1950
+      ],
+      "attribution": "",
+      "note": "chaos exported and fought, until a Guardian proposes balance instead"
+    },
+    {
+      "page": "evaluierungseinheit",
+      "lines": [
+        196,
+        220,
+        232
+      ],
+      "attribution": "",
+      "note": "the same name, but Kapitel 2, in Co₁, and the site of the first partitioning itself"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        27,
+        55,
+        81,
+        91,
+        258,
+        911
+      ],
+      "attribution": "",
+      "note": "no beats counted, and two separations rather than one"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        434,
+        478,
+        480,
+        482,
+        516,
+        532
+      ],
+      "attribution": "",
+      "note": "a Gödelian limit met and not used"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        1168,
+        1236,
+        1638,
+        1940,
+        2024,
+        2204
+      ],
+      "attribution": "",
+      "note": "four worlds, four Guardians of their own, and none of the corpus' names for them"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        176,
+        264,
+        837,
+        2298,
+        2342,
+        2376
+      ],
+      "attribution": "",
+      "note": "a warm golden light, never in body, one question left open"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        128,
+        258,
+        260,
+        268,
+        853,
+        873,
+        911,
+        1019,
+        1430,
+        1474
+      ],
+      "attribution": "",
+      "note": "K-1123, a fragment of M twice separated, and the Selbst he finds"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        128,
+        134,
+        140
+      ],
+      "attribution": "",
+      "note": "Kael's own dwelling, and every unit's word for it (J115)"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        438,
+        546,
+        1168,
+        1500,
+        1638,
+        1940,
+        1978,
+        2024,
+        2204
+      ],
+      "attribution": "",
+      "note": "four worlds by Conway-group mathematics, one Guardian each"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        136,
+        316,
+        2470
+      ],
+      "attribution": "",
+      "note": "the system's law, kept by a status number, and the term Kael claims for his own journey"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        140,
+        334,
+        1790,
+        2348
+      ],
+      "attribution": "",
+      "note": "734-Alpha, a colleague, and Protokoll 734, a containment order, never Kael's own designation (J112)"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        438,
+        478,
+        482,
+        512,
+        2024
+      ],
+      "attribution": "",
+      "note": "Co₁'s supervisor, never called Guardian by name, and a limit even AEGIS could not get past"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        837,
+        1065
+      ],
+      "attribution": "",
+      "note": "the surface used once, as an analogy; the connection itself named by Monstrous Moonshine"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        1294,
+        1296,
+        1322,
+        1326,
+        1456,
+        1766,
+        1858,
+        2396
+      ],
+      "attribution": "",
+      "note": "the earliest use: the chapter's own title, then a standing name for Kael's integrated self"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        1474,
+        1766,
+        1858
+      ],
+      "attribution": "",
+      "note": "reached first as an inner truce, then tested, never fusion"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        27,
+        382,
+        815,
+        897,
+        2266,
+        2298,
+        2376
+      ],
+      "attribution": "",
+      "note": "the border AEGIS keeps out, M's presence beyond it, and the question of what Juna is to it"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        176,
+        194,
+        795,
+        1464,
+        1898,
+        2264,
+        2368
+      ],
+      "attribution": "",
+      "note": "a perceptual breakthrough of Juna's resonance, not Landauer heat, and a door as well as a weakness"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        258,
+        260,
+        911
+      ],
+      "attribution": "",
+      "note": "AEGIS' separation, done twice: once in Kael's own Kapitel 2, once when M was dissociated (J114)"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        99,
+        103,
+        107,
+        109,
+        111,
+        2376
+      ],
+      "attribution": "",
+      "note": "the Innere Weite named as the Überwelt in the same breath, AEGIS' immune system and metabolism"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      27,
+      120,
+      122,
+      200,
+      1144,
+      1298,
+      1390,
+      1394,
+      1460,
+      1462,
+      1760,
+      1868
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "judgements": [
+    "J113",
+    "J114",
+    "J115",
+    "J116"
+  ],
+  "decided_by_existing_rules": "J88 (Anteil by the sentence), J95 (Innere Weite on ueberwelt), J100, J108 (Kapitel N on kap-NN), J109 (its Gamma-7 is an anomaly class, not the node), J110, J112 (734-Alpha and Protokoll 734 on komponente-734), J20",
+  "not_promoted": [
+    "M and the Monstergruppe — L394, L853, L1350, L2376, on kael, moonshine-link and the worlds, as for documents 43 and 46",
+    "Co₁, McL, Beta-Rho-5, Ly — on kern-welten (J116)",
+    "LogOS' fellows Netzweber, Chaos-Regulator, Möglichkeits-Weber — on guardians",
+    "RIVE, OBP, PMAS, AEGIS Protokoll V1.5, the AEGIS-Manifest — on aegis",
+    "the IFS roles Manager-Anteil, Kind-Anteil, Schatten, Selbst, Exilanten, Feuerlöscher — on alters and did (J88)",
+    "Innerer Garten, Wir-Geflecht, Jetzt-Raum, Scherben der Erkenntnis — Kael's inner space and its images, on mosaik-herz and multiplizitaet",
+    "system designators: K-1123, 734-Alpha, 912-Gamma, 1201-Delta, Omikron-9, Sigma-Tau-7, KWS-Co1-McL-Beta7, IP-K1123, KDSI-Gamma-7, ESP-K1123, Omega-Prime — one chapter each"
+  ],
+  "internal_tension": "Its chapter order does not hold: no Kapitel 13; Kapitel 17 (Zyklus 2) opens after the collapse Kapitel 18 (Zyklus 1) averts; 17 and 20, 21 and 22 share their headers; Kapitel 23's report names Kapitel 17's project (L2486). M is both what Kael is a fragment of (L853) and the Monster group and an irreducible information source (L394, L1350).",
+  "baseline_moved": false
+}

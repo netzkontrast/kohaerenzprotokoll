@@ -1,0 +1,481 @@
+{
+  "document": "companion-guide-to-the-coherence-protocol-understanding-love",
+  "drive_id": "1V2gZTBlS5S0Lq5myO2-DOKk8BDoBt-9BFltKsruioDc",
+  "step": "reconcile",
+  "at": "2026-09-27",
+  "by": "hand, after scripts/reconcile.py pre-classification; one of seven documents read by the session and reconciled together — readings and record entries written by six Claude readers split by page group, from Plan/runs/readings-brief-documents-33-39.md, each group's files checked with quotes.py and committed by the session",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 100,
+    "decisions": 104,
+    "decided_by_lookup": 72,
+    "needs_judgement": 32
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An explanatory guide; it defines nothing the wiki lacks a page for.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        47,
+        48,
+        100,
+        108
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the city's architect, self-amputated, `unschuldig im Bösen`"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        64
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Asymptotic Freedom, toward growth"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        100,
+        108
+      ],
+      "attribution": "the Companion Guide",
+      "note": "permanent, calculated resignation, where the Truth Rotates"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        54,
+        56,
+        58,
+        86,
+        105,
+        108
+      ],
+      "attribution": "the Companion Guide",
+      "note": "The 13 Alters: correlates without categories"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        80
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Fractals, meta-cognitive detachment"
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        15,
+        29,
+        90,
+        96,
+        112
+      ],
+      "attribution": "the Companion Guide",
+      "note": "destruction needs a before and an after, so Juna could not be deleted"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        49,
+        96
+      ],
+      "attribution": "the Companion Guide",
+      "note": "sensors structurally blind to the Phone-Silence"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        15,
+        25,
+        82
+      ],
+      "attribution": "the Companion Guide",
+      "note": "love as the fundamental unit of persistence, indestructible because outside time"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        19,
+        56
+      ],
+      "attribution": "the Companion Guide",
+      "note": "a law of nature, every beat a transaction between the kernels"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        27,
+        39,
+        41,
+        43,
+        48
+      ],
+      "attribution": "the Companion Guide",
+      "note": "AEGIS the tragic god of entropy, and the entropy each sweep creates"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        25,
+        29,
+        48
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the German plural in English, the arrow of time, and AEGIS' order"
+    },
+    {
+      "page": "formel-inversion",
+      "lines": [
+        48,
+        112
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the first sentence in English, in the German clause order"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        43
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the Genesis Crisis as AEGIS' self-amputation"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        48,
+        49,
+        50
+      ],
+      "attribution": "the Companion Guide",
+      "note": "two Guardians AEGIS uses, both in dissonance"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        38,
+        62
+      ],
+      "attribution": "the Companion Guide",
+      "note": "heat and ozone AEGIS' sweeps, cold Lex's"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        76
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Pauli Exclusion, toward vulnerability"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        82,
+        90,
+        96
+      ],
+      "attribution": "the Companion Guide",
+      "note": "not a ghost, a structural position; the witness in three layers; no appearance placed"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        39,
+        54,
+        60,
+        100,
+        105,
+        108,
+        112
+      ],
+      "attribution": "the Companion Guide",
+      "note": "not a person but a System, and the protagonist's bleeding knuckles in no chapter"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        72
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Planck Scale, toward trust"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        21,
+        23,
+        25,
+        27,
+        29,
+        43,
+        96,
+        112
+      ],
+      "attribution": "the Companion Guide",
+      "note": "reversible, preserving and symmetric, and the guardian AEGIS believes it is"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        23,
+        25,
+        27,
+        29,
+        31,
+        39,
+        43,
+        112
+      ],
+      "attribution": "the Companion Guide",
+      "note": "irreversible, destructive and entropic, the Disease, and what AEGIS is"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        15,
+        37,
+        43,
+        107
+      ],
+      "attribution": "the Companion Guide",
+      "note": "an unnamed city at 21°C whose architect is AEGIS"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        33,
+        35,
+        37,
+        38,
+        39,
+        48,
+        107
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the Landauer principle as the somatic filter: 21°C as a limit, the smell of ozone, the bleeding knuckles"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        62,
+        86
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Gödel/Halting, toward intuition, and the ANPs' example"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        74
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Superposition, dissociative drifting"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        48,
+        49,
+        50,
+        104
+      ],
+      "attribution": "the Companion Guide",
+      "note": "one of two Guardians, who lacks the language, and the Vortex in her archipelago"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        96
+      ],
+      "attribution": "the Companion Guide",
+      "note": "a mathematical bridge that lets information tunnel through time, anchored by the Phone-Silence"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        78
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Big Freeze, catatonia"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        60,
+        108
+      ],
+      "attribution": "the Companion Guide",
+      "note": "achieved in the Vortex's fifth beat"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        15,
+        47,
+        106
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the city's chaos, the atemporal union, and in the Vortex the Phone-Silence"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        39,
+        70,
+        86
+      ],
+      "attribution": "the Companion Guide",
+      "note": "CPT-Violation, and the EPs' example"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        84
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Erason-Operator, the power to choose"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        98,
+        110,
+        112
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the ending is the beginning: a sterile room, a phone ringing, a choice to speak"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        66
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Maxwell's Demon, toward acceptance"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        37
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the city's geometry cracks when deletion's heat exceeds 21°C"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        68
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Wormholes, the Mediator"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        82
+      ],
+      "attribution": "the Companion Guide",
+      "note": "Coheron-Echo, the bridge to Juna"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        96,
+        106,
+        112
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the Moonshine Link's anchor, the Vortex's silence, and the phone ringing at both ends"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        43,
+        100,
+        108,
+        112
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the truth rotates at the Vortex, and the Great Inversion under it"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        54,
+        86
+      ],
+      "attribution": "the Companion Guide",
+      "note": "a survival architecture, and a phobic wall"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        98,
+        100,
+        102,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "attribution": "the Companion Guide",
+      "note": "the Vortex-Inversion in Chapters 35-36, where the truth rotates, in five beats"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": [
+      11,
+      100,
+      102
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C6",
+    "C7",
+    "C9",
+    "C10",
+    "C11"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (worlds named for Guardians), J56/J23 (plurals), J60, J70, J74/J93, J76–J78, J86, J90, J91 (Great Inversion apart from the Truth-Rotation), J98/J99, J100–J102 (English names placed by the sentence), J104, J51",
+  "records_read_and_not_changed": {
+    "C12": "`Beat` of the Genesis, `734` 0",
+    "C14": "no voice rule; „I am Order“ (L47) is AEGIS' claim, not a voice",
+    "C13": "`Cologne` 0"
+  },
+  "not_promoted": [
+    "Thermal Balance (21°C) — L37"
+  ],
+  "internal_tension": "Functional Multiplicity reached in the Vortex's fifth beat (L108) where the background document has Kap 33; the Ouroboros with „a choice to speak“ (L112) against sources where nobody speaks.",
+  "baseline_moved": false,
+  "retrieval": "measured once after documents 33–39: PageRank recall@8 0.654 → 0.644, only C11 (0.6 → 0.4)"
+}

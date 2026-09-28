@@ -1,0 +1,585 @@
+{
+  "document": "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+  "drive_id": "1T5mPt0znwxs-NqRymBh47-PbbpqxMxQDhyYmRe9ABoA",
+  "step": "counts",
+  "at": "2026-09-27",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Sensory Rulebook": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Psycho-Architectures": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        13
+      ]
+    },
+    "AEGIS": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        13,
+        17,
+        19,
+        31,
+        57,
+        59,
+        111
+      ]
+    },
+    "Kael": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        13,
+        17,
+        19,
+        27,
+        31,
+        37,
+        39,
+        47,
+        53,
+        57,
+        59,
+        67,
+        79,
+        87,
+        97,
+        111
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Tertiary Structural Dissociation of Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        15,
+        17
+      ]
+    },
+    "KW1": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        19,
+        31,
+        37,
+        77,
+        91,
+        102,
+        111
+      ]
+    },
+    "Logos-Prime": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        23,
+        33,
+        102
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "ANPs": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        31,
+        37,
+        51,
+        102
+      ]
+    },
+    "Law of Non-Contradiction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "LogOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        102
+      ]
+    },
+    "prison of convention": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Sensory Signature": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        41,
+        61,
+        81,
+        101
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        23
+      ]
+    },
+    "Somatic Experience": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        45,
+        65,
+        85
+      ]
+    },
+    "Key Resonance Motif": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        49,
+        69,
+        89,
+        101
+      ]
+    },
+    "Regulated Breath Counting": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        31,
+        102
+      ]
+    },
+    "unheimliche Perfektion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Kernwelt 2": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        37
+      ]
+    },
+    "KW2": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        35,
+        51,
+        53,
+        57,
+        103,
+        111
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        35,
+        43,
+        103
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Emotional Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        51
+      ]
+    },
+    "EPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        37,
+        39,
+        43,
+        47,
+        57,
+        103
+      ]
+    },
+    "paraconsistent": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        51
+      ]
+    },
+    "dialetheic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        47
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        33,
+        35,
+        39,
+        43,
+        103
+      ]
+    },
+    "Miasma of Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Körperempfindungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Visceral Gut Reactions": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        51,
+        103
+      ]
+    },
+    "Kernwelt 3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        57
+      ]
+    },
+    "KW3": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        53,
+        55,
+        71,
+        73,
+        77,
+        91,
+        104,
+        111
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        59,
+        104
+      ]
+    },
+    "Grenzfeste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "externalisiertes Täterintrojekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Cerberus": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        55,
+        59,
+        104
+      ]
+    },
+    "bunkerartige Festung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Bracing for Impact": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        71,
+        104
+      ]
+    },
+    "Kernwelt 4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        77
+      ]
+    },
+    "KW4": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        75,
+        91,
+        105,
+        111
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        83,
+        105
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        105
+      ]
+    },
+    "Juna": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        77,
+        79,
+        83,
+        87,
+        91,
+        105
+      ]
+    },
+    "Impact Character": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        105
+      ]
+    },
+    "Kairos": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        75,
+        79,
+        83,
+        105
+      ]
+    },
+    "Sophia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        105
+      ]
+    },
+    "Ruinen-Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Ozon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Unclenching Hands": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        89,
+        91,
+        105
+      ]
+    },
+    "loving vernetztheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Comparative Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Somatic Truths": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Embodied Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        109
+      ]
+    },
+    "Classical Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Dialetheic Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    }
+  }
+}

@@ -1,0 +1,243 @@
+# counts for 201 candidates
+# line numbers are FILE lines, as a citation writes them
+# 6 `- ` line(s) read as prose and not counted: Falsehood vs. Truth · Prediction vs. Interdiction · Phaenomena vs. Noumena · Approach vs. Attitude · Experience vs. Skill · Deficiency vs. Need
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                2 word     4 in   [11, 17, 25, 485]
+  Dramatica                        15 word    35 in   [11, 17, 25, 29, 37, 41]  <-- substring
+                                    5      as Dramatica-Theorie
+                                    2      as Dramatica-Storyformen
+                                    2      as Dramatica-Regeln
+                                    1      as Dramatica-Regularien
+  Dramatica-Storyformen             2 word     2 in   [11, 17]
+  AEGIS                            71 word    84 in   [13, 19, 27, 29, 31, 33]
+                                    4      as AEGIS-Verortung
+                                    1      as AEGIS-Throughline-Position
+                                    1      as AEGIS-als-Totalität
+                                    1      as AEGIS-Sensoren
+  AEGIS-Throughline-Position        1 word     1 in   [13]
+  Storyform B                      34 word    34 in   [13, 19, 27, 29, 33, 37]
+  Storyform A                      27 word    27 in   [19, 29, 33, 51, 71, 73]
+  Dual-Kernel Theory                3 word     3 in   [17, 53, 389]
+  DKT                               5 word    15 in   [17, 65, 93, 117, 141, 165]  <-- substring
+  Hypothese H1                      3 word     3 in   [19, 39, 45]
+  Phoenix Collapse                  2 word     2 in   [19, 264]
+  Main Character                    8 word     9 in   [19, 27, 41, 49, 65, 97]
+  MC                               25 word    37 in   [19, 27, 39, 41, 43, 45]
+  Objective Story                   5 word     5 in   [19, 41, 49, 169, 439]
+  OS                               12 word    19 in   [19, 41, 43, 47, 49, 57]
+  Informational Heat Death          1 word     1 in   [19]
+  Heuristik der Integration         1 word     1 in   [19]
+  Phönix-Kollaps                    1 word     1 in   [19]
+  Landauer Heat Spike               5 word     6 in   [19, 33, 45, 257, 265, 455]
+  Kael                             52 word    82 in   [19, 27, 29, 31, 33, 41]
+                                   29      as Kaels
+                                    1      as Kael-Juna-Paar
+  Influence Character               2 word     2 in   [19, 29]
+  IC                               10 word    13 in   [19, 29, 43, 49, 119, 143]
+  lebenden Dialetheia               2 word     2 in   [19, 314]
+  Driver-Pivot                      1 word     3 in   [21, 33, 265]  <-- substring
+                                    1      as Driver-Pivots
+                                    1      as Driver-Pivot-Mechanik
+  Vortex-Inversions-Beat-Sheet      2 word     2 in   [21, 270]
+  Mutual Information                6 word     6 in   [27, 31, 165, 227, 268, 297]
+  Landauer Heat                     7 word     7 in   [19, 27, 33, 45, 257, 265]
+  Juna                             20 word    31 in   [29, 119, 121, 126, 133, 135]
+                                   10      as Junas
+  Composite                         1 word     1 in   [29]
+  Witness Function                  4 word     4 in   [29, 137, 389, 407]
+  Gödel-Satz                        1 word     1 in   [29]
+  Chaitin                           2 word     2 in   [29, 109]
+  Orbifold-Konstruktion             2 word     2 in   [29, 141]
+  Leech Lattice                     2 word     3 in   [29, 139, 233]
+  Deus ex Machina                   2 word     2 in   [29, 407]
+  blinden Fleck                     2 word     2 in   [29, 427]
+  Wahrheits-Rotation                1 word     1 in   [31]
+  Truth-Rotation                    4 word     4 in   [31, 51, 59, 414]
+  Erasure Kernel                    2 word     2 in   [31, 117]
+  TSDP                              2 word     3 in   [31, 59, 415]
+                                    1      as TSDP-Constraints
+  Coherence Kernel                  1 word     1 in   [31]
+  funktionale Multiplizität         3 word     3 in   [31, 78, 159]
+  Kapitel 35–36                     2 word     2 in   [33, 270]
+  ANP/EP-Puffer                     1 word     1 in   [33]
+  Algorithmische Melancholie        4 word     4 in   [33, 268, 304, 322]
+  HAL 9000                          4 word     4 in   [27, 41, 487, 514]
+  Ex Machina                        3 word     3 in   [27, 489, 515]
+  Hypothesen-Baum                   1 word     1 in   [35]
+  Hypothese H2                      3 word     3 in   [47, 51, 53]
+  Auftraggeber-Hypothese            1 word     1 in   [47]
+  Guardian-Sub-Agenten              1 word     1 in   [49]
+  Mnemosyne                         4 word     8 in   [49, 51, 109, 205, 267, 276]
+                                    4      as Mnemosyne-Archipel
+  Memory-Archive-Guardian           1 word     1 in   [49]
+  Hypothese H3                      2 word     2 in   [55, 61]
+  Drittweg                          1 word     1 in   [55]
+  Die Stimme des Systems            1 word     1 in   [57]
+  Trennungs-Protokolle              1 word     1 in   [57]
+  Surviving Branch                  2 word     2 in   [63, 415]
+  Universe                          7 word    11 in   [27, 41, 43, 49, 103, 117]
+                                    4      as Universe-Domain
+                                    2      as universelle
+  Mind                              5 word     9 in   [43, 49, 65, 79, 151, 165]
+                                    3      as Mind-Domain
+  Physics                          10 word    12 in   [41, 43, 49, 189, 191, 199]
+                                    2      as Physics-Domain
+  Psychology                        9 word     9 in   [43, 49, 167, 175, 189, 235]
+  Steelmanning                      6 word     6 in   [19, 41, 49, 57, 404, 507]
+  Falsifikation                     2 word     6 in   [19, 27, 43, 51, 59]  <-- substring
+                                    3      as Falsifikations-Versuche
+                                    1      as Falsifikationsanalyse
+  Per-Throughline-Encoding          2 word     2 in   [21, 67]
+  Szenen-Keim                      24 word    25 in   [69, 85, 87, 89, 109, 111]
+                                    1      as Szenen-Keime
+  Schlüssel-Bild                   16 word    16 in   [91, 115, 139, 163, 187, 207]
+  Block 4                           2 word     2 in   [93, 117]
+  Konflikt-Träger                   8 word     8 in   [78, 102, 126, 150, 174, 198]
+  Domain                           14 word    25 in   [27, 41, 43, 49, 51, 79]
+                                    1      as Domain-Verteilung
+                                    1      as Domain-Inversion
+  Concern                           8 word     8 in   [80, 104, 128, 152, 176, 200]
+  Issue                             8 word     8 in   [81, 105, 129, 153, 177, 201]
+  Problem                          14 word    15 in   [82, 106, 109, 130, 145, 150]
+                                    1      as problems
+                                    1      as Problem-Horizont
+  Solution                         10 word    10 in   [83, 107, 131, 155, 179, 203]
+  Memory                            3 word    16 in   [49, 80, 152, 157, 351, 355]  <-- substring
+                                    1      as Memory-Archive-Guardian
+                                    1      as Memory-Einträge
+                                    1      as Memory-Kanons
+                                    1      as Memory-Kanon-Einträge
+  Inertia                           7 word     7 in   [82, 85, 87, 93, 154, 161]
+  Change                            2 word     2 in   [83, 155]
+  Konstrukt-Stadt                   4 word     4 in   [85, 139, 205, 276]
+  Wohneinheit                       1 word     1 in   [91]
+  Universal Reboot                  1 word     1 in   [91]
+  Wartungsschacht                   1 word     1 in   [91]
+  Subconscious                      1 word     1 in   [91]
+  Be-er                             1 word     1 in   [93]
+  Hubble-Volumen                    1 word     1 in   [93]
+  Past                              2 word     2 in   [104, 128]
+  Order                            10 word    10 in   [106, 109, 113, 130, 135, 202]
+  Chaos                            10 word    10 in   [31, 107, 126, 131, 135, 203]
+  Mnemosyne-Archipel                4 word     4 in   [109, 205, 267, 276]
+  Guardian-Protokolle               1 word     1 in   [111]
+  Kern-Server-Hub                   1 word     1 in   [115]
+  Sektor 04                         2 word     2 in   [115, 207]
+  Landauer-Hitze                    2 word     2 in   [117, 406]
+  Mosaik-Herz                       1 word     1 in   [126]
+  Twisted Module                    1 word     1 in   [139]
+  ZKP                               0 word     1 in   [141]
+  Zero-Knowledge Proof              2 word     2 in   [141, 314]
+  lebende Paradoxie                 1 word     1 in   [143]
+  Evaluierungseinheit               1 word     1 in   [163]
+  Grenzfeste                        2 word     2 in   [163, 207]
+  ANP/EP-Buffering                  1 word     1 in   [165]
+  Guardians                         4 word     4 in   [174, 181, 264, 409]
+  LogOS                             2 word     2 in   [181, 255]
+  Cerberus                          1 word     1 in   [181]
+  Conceptualizing                   2 word     2 in   [176, 181]
+  State of Being                    2 word     2 in   [178, 183]
+  Sense of Self                     2 word     2 in   [179, 185]
+  Lernarchiv Theta-9                1 word     1 in   [187]
+  Möglichkeiten-Garten              1 word     1 in   [187]
+  Biosemantische Kopplung           1 word     1 in   [189]
+  Trennungsprotokolle               2 word     2 in   [205, 264]
+  Obtaining                         2 word     2 in   [200, 205]
+  Bekenstein-Limits                 1 word     1 in   [205]
+  Planck-Barriere                   1 word     1 in   [207]
+  Bruchzone                         1 word     1 in   [207]
+  Bekenstein-Schranke               2 word     2 in   [209, 410]
+  Moonshine-Link                    4 word     4 in   [211, 225, 331, 335]
+  Doing                             2 word     2 in   [220, 225]
+  Non-Accurate                      2 word     2 in   [222, 227]
+  Accurate                          2 word     4 in   [222, 223, 227, 229]
+  Monster-Mondschein-Muster         1 word     1 in   [231]
+  Quantenverschränkung              1 word     1 in   [231]
+  Nexus                             1 word     1 in   [231]
+  Verschränkungs-Insel              1 word     1 in   [231]
+  Monstrous Moonshine               1 word     1 in   [233]
+  Host                              4 word     6 in   [159, 235, 237, 335, 355, 412]
+                                    1      as Host-Zustand
+                                    1      as Hosts
+  Kael ↔ AEGIS                      1 word     1 in   [242]
+  Conceiving                        2 word     2 in   [244, 249]
+  Control                           2 word     2 in   [246, 251]
+  Uncontrolled                      2 word     2 in   [247, 253]
+  Kontrollzentrum der Subroutine LogOS    1 word     1 in   [255]
+  Phänomenalem Selbstmodell         1 word     1 in   [255]
+  parakonsistente Logik             1 word     1 in   [257]
+  Dialetheismus                     2 word     2 in   [51, 257]
+  Markov-Decke                      1 word     1 in   [257]
+  Dynamics-Encoding                 2 word     2 in   [259, 416]
+  Driver A                          1 word     1 in   [263]
+  Driver B                          1 word     1 in   [264]
+  Decisions                         1 word     1 in   [263]
+  Actions                           1 word     1 in   [264]
+  Erasure-Sweeps                    2 word     2 in   [264, 276]
+  Limit A                           1 word     1 in   [266]
+  Optionlock                        3 word     3 in   [266, 448, 449]
+  Limit B                           1 word     1 in   [267]
+  Timelock                          3 word     4 in   [267, 448, 449]
+                                    1      as Timelock-Frist
+  Failure                           3 word     3 in   [27, 51, 268]
+  Success                           1 word     1 in   [268]
+  Beat 1                            1 word     1 in   [274]
+  Convergence                       1 word     1 in   [274]
+  Ozon                              1 word     1 in   [278]
+  Kühlaggregate                     1 word     1 in   [278]
+  Beat 2                            2 word     2 in   [281, 313]
+  Pivot                             4 word     8 in   [21, 31, 33, 265, 281, 313]
+  Driver-Flip                       2 word     2 in   [283, 304]
+  ANP/EP-Drop                       1 word     1 in   [283]
+  Transinformation                  4 word     4 in   [27, 49, 135, 283]
+  Beat 3                            2 word     2 in   [288, 315]
+  Stille                            7 word     7 in   [93, 139, 288, 290, 297, 315]
+  lebende Dialetheia                2 word     2 in   [290, 408]
+  Nichts-Rauschens                  1 word     1 in   [292]
+  Beat 4                            2 word     2 in   [295, 314]
+  Heat-Spike                        2 word     2 in   [295, 314]
+  Landauer-Grenzwert                1 word     1 in   [297]
+  Beat 5                            1 word     1 in   [302]
+  Rotation                          1 word     6 in   [31, 51, 59, 302, 414]  <-- substring
+  Witness-Function-Operationalisierung    1 word     1 in   [309]
+  Layer 1                           2 word     2 in   [313, 316]
+  Quantum Entanglement Witness      1 word     1 in   [313]
+  Hermitian Witness                 1 word     1 in   [313]
+  Layer 2                           3 word     3 in   [314, 316, 345]
+  ZK-Verifier                       1 word     1 in   [314]
+  Layer 3                           2 word     2 in   [315, 316]
+  Husserlian Disinterested Spectator    1 word     1 in   [315]
+  Epoché                            1 word     1 in   [315]
+  Post-Vortex-AEGIS-Status          1 word     1 in   [322]
+  parakonsistente Proto-Bewusstheit    1 word     1 in   [326]
+  Moonshine-Boundary                1 word     1 in   [331]
+  Foundation                        1 word     1 in   [331]
+  Monstergruppe                     1 word     1 in   [335]
+  Bedrock                           1 word     1 in   [335]
+  Wächter-Zwiespalt-Soziopolitik    1 word     1 in   [340]
+  Rebellen-Programme                1 word     1 in   [340]
+  Holarchie                         1 word     1 in   [344]
+  Final Architecture Validation     2 word     2 in   [351, 471]
+  Contradiction Log                 0 word     1 in   [349]
+  Query Expansion Log               1 word     1 in   [365]
+  K0-Singularität                   1 word     1 in   [381]
+  Theory of Mind                    1 word     1 in   [389]
+  Reflection History                1 word     1 in   [399]
+  Cross-Pollination Log             1 word     1 in   [420]
+  Hypothesis Half-Life Audit        2 word     2 in   [422, 433]
+  K1/K0-Dualismus                   1 word     1 in   [444]
+  K1                                2 word     2 in   [444, 448]
+  K0                                1 word     3 in   [381, 444, 448]  <-- substring
+  Janetian Action Systems           1 word     1 in   [440]
+  Surviving-Branch Triangulation    2 word     2 in   [431, 451]
+  Somatic Rulebook                  2 word     2 in   [69, 405]
+  Projekt-Kanon                     4 word     5 in   [320, 463, 465, 467, 507]
+                                    1      as Projekt-Kanon-Elemente
+  User-Memory                       9 word     9 in   [469, 471, 473, 475, 477, 479]
+  Maturana                          1 word     1 in   [393]
+  Varela                            1 word     1 in   [393]
+  Bekenstein                        0 word     3 in   [205, 209, 410]  <-- substring
+                                    2      as Bekenstein-Schranke
+                                    1      as Bekenstein-Limits

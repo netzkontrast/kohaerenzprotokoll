@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      65
+  backslash escapes      22
+  typographic marks      75
+  ascii quotes           24
+
+# inflection families -- one term, several surfaces
+  quant    Quanta, Quanten, Quanteninformation, Quantenmechanik, Quantenschaum, Quantenstruktur, Quantenuhr, Quantenverschränkung, Quantum
+  daten    Daten, Datenknotenpunkt, Datenpakete, Datenpunkte, Datenschacht, Datenüberprüfung
+  infor    Information, Informationen, Informationslöschung, Informationsparadoxon, Informationsrettung, Informationstheorie
+  grenz    Grenze, Grenzen, Grenzerfahrung, Grenzfeste, Grenzsituation
+  syste    System, Systemarchitektur, Systembericht, Systeme, Systems
+  traum    Trauma, Traumaforschung, Traumas, Traumata, Traumwelt
+  abweh    Abwehr, Abwehrmechanismen, Abwehrmechanismus, Abwehrreaktion
+  körpe    Körper, Körperbeherrschung, Körperempfindungen, Körpers
+  roman    Roman, Romananalyse, Romanentwicklung, Romans
+  arbei    Arbeiter, Arbeitsphase, Arbeitsplatz
+  archi    Architektur, Archiv, Archivs
+  chara    Charakterdynamik, Charaktere, Charakterentwicklung
+  diese    Diese, Dieser, Dieses
+  disso    Dissonanz, Dissoziation, Dissoziative
+  entro    Entropic, Entropie, Entropische
+  erzäh    Erzählperspektive, Erzählstimme, Erzählung
+  halte    Halteproblem, Halteproblems, Halter
+  kapit    Kapitel, Kapiteln, Kapitulation
+  kontr    Kontrolle, Kontrollmatrix, Kontrollverlust
+  kriti    Kritik, Kritiker, Kritische
+  manus    Manuskripts, Manuskriptteile, Manuskriptwissen
+  mikro    Mikro, Mikroriss, Mikrosekunde
+  nicht    Nicht, Nichts, Nichtsein
+  parad    Paradigma, Paradox, Paradoxon
+  persö    Persönlichkeit, Persönlichkeitsanteil, Persönlichkeitsanteile
+
+# substring pairs -- never one term, often merged by accident
+  Auge < Augen
+  Bild < Abbild
+  Bild < Bilder
+  Bild < Spiegelbild
+  Bild < Bildschirmen
+  Buch < Buches
+  Buch < Buchwelt
+  Code < Codes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dual < Dualität
+  Dual < Residuale
+  Eine < Weinen
+  Eine < Anscheinend
+  Ende < Umfassende
+  Ende < Umgreifende
+  Ende < Transzendenz
+  Enge < Mengen
+  Erde < Werdeprozess

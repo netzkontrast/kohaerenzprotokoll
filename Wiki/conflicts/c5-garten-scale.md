@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 14
+sources: 20
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -173,3 +173,38 @@ In the table of worlds, §14.2: „KW4 Möglichkeits-Garten" ^[kohaerenz-protoko
 „KW4 — Resonanz-Kontinuum (Dialetheia)" ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L441]; „Die absolute, externe Ebene." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L443] „Hier operiert die Witness-Function direkt, hier befindet sich die Vortex-Quelle." ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L443] No place inside KW4 is named.
 `Möglichkeits-Garten`, `Garten`, `Garten der Möglichkeiten` and `Kairos-Potentialis` stand 0 times (`05-verify-readers.txt`).
 On neither row: with no garden, it says nothing about whether the Möglichkeits-Garten is a world or a place in KW4. For the world's name it has only the second name the storyform outline and the Kapitel-Kompendium write beside the garden, `Resonanz-Kontinuum`, without it. The conflict stays open.
+
+## 2026-09-27 — `systemic-architecture-specification-the-coherence-protocol-w`, 2026-05-08, the Systemic Architecture Specification
+
+**KW4 is the garden, the whole world — in English, as the world's second name, and no place inside it.**
+„KW4: Kairos-Potentialis (Garden of Possibilities):" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L74] — the worldbuilding concept's KW4 heading, `Garten der Möglichkeiten`, in English (J100; the one term of J35 and J61). „Organic, vibrant, synesthetic." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L75]
+No sub-location of KW4 is named, and `Garten` and `Möglichkeits-Garten` stand 0 times (`05-verify.txt`, `05-verify-readers.txt`). Position 1's side, by the name the worldbuilding concept gives the world; it does not have the worldbuilding concept's place of the same name inside it. The conflict stays open.
+
+## 2026-09-27 — `the-architecture-of-fracture-a-compendium-of-the-kael-system`, 2026-05-08, the Architecture of Fracture
+
+**KW4 is the garden, the whole world — the garden's name first, Kairos-Potentialis second.**
+„KW4: The Garden of Possibilities (Kairos-Potentialis):" ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67] „Domain of Emergence." ^[the-architecture-of-fracture-a-compendium-of-the-kael-system.md:L67]
+No place inside KW4 is named; `Garten` stands 0 times (`05-verify-readers.txt`). Position 1's side. The conflict stays open.
+
+## 2026-09-27 — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese
+
+**A place — „ein Areal" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187], a room of Storyform A's overall story — and no world around it.**
+„Der zweite Raum ist der Möglichkeiten-Garten, ein Areal, in dem Wahrscheinlichkeiten vor ihrer Materialisierung visualisiert werden." ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187] — `Möglichkeiten-Garten`, this record's subject by J107. The room beside it: „das Lernarchiv Theta-9, ein unstrukturierter Sektor voller verwaister Datenströme" ^[dramatica-storyform-synthese-aegis-analyse-2.md:L187].
+`KW4`, `Kernwelt`, `Kairos` and `Sophia` stand 0 times (`05-verify.txt`), `Kairos-Potentialis` 0 (`05-verify-readers.txt`). Position 2's side — a place, not a world — without saying in which world it lies. The conflict stays open.
+
+## 2026-09-27 — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+**The world side, with the same four-Guardian pairing as document 4.** The table: „Möglichkeits-Garten (KW4) | Kairos & Sophia | Exiles (Trauma-Halter) | Kiko (Kind/Flucht), Oblivion (Kollaps), Juna (Anomalie)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L43] Kapitel 29: „Der Abgrund transformiert sich fließend in den Möglichkeits-Garten (KW4)." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L119]
+No place of that name inside KW4, and `Garten der Möglichkeiten` does not occur (0, `05-verify.txt`). Position 1's side, by the world's own hyphenated name — nearest document 4's, of the two-year-older documents on this record. The conflict stays open.
+
+## 2026-09-27 — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
+
+**Neither position — a third scale: a garden that is [[kael|Kael]]'s own inner landscape, not a Kern-Welt and not a place inside one, crossing three worlds rather than belonging to a fourth.**
+Kapitel 8, „Dialog im Inneren Garten" ^[kohaerenz-protokoll.md:L861], names its own scale: „Es war kein physischer Garten. Eher eine mentale Landschaft, ein Bewusstseinszustand" ^[kohaerenz-protokoll.md:L871]. It stands after Co₁, still present in Beta-Rho-5 — „Die Präsenz des Selbst war stark, der Innere Garten stabil." ^[kohaerenz-protokoll.md:L1980] — and again after Ly, where Kael returns to it. It is neither a Kernwelt of its own nor a Bereich inside a numbered one: it travels with [[kael|Kael]] across worlds, the way his other parts do.
+`Garten der Möglichkeiten`, `Möglichkeits-Garten` and `Kairos-Potentialis` stand 0 times (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`; `Möglichkeits-Weber` is a Guardian, not a place). This document's garden bears the record's name by coincidence of word alone, not by its subject: it names no fourth world and no place inside one. The conflict stays open, unmoved by it.
+
+## 2026-09-27 — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook
+
+**Position 1's side, in English — the whole fourth Kern-Welt, named twice over, and no place of that name inside it.**
+„Representing the potential for creativity and integration, Kernwelt 4, the Möglichkeits-Garten, is the psycho-architectural space of Juna/V's influence." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L77] Its heading gives the same identity: „Kernwelt 4 (KW4) - Kairos-Potentialis: The Garden of Emergent Possibilities" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L75].
+No sub-location of KW4 is named and no containment word stands beside the name (`Garten der Möglichkeiten`, `Bereich`, `Areal` 0, `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`). Position 1's side, by the world's own name. The conflict stays open.

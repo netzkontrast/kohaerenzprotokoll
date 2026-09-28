@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+sources: 12
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,25 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Alle gelesenen Quellen stellen die Lyons-Kreativität in den zyklischen Modus, laut der strukturierten Outline in die Shō-Phase des Kishōtenketsu, laut der Storyform-Outline in den zweiten Akt, laut Kernwelten vollständig in dessen Mitte und laut der Plot-Konkretisierung in ihren Block Der Innentäter; sie ist die Korrektur, mit der der zweite Spiral-Zyklus schließt. Kael nutzt fluide Regeln, laut der strukturierten Outline die der Lyons-Welt als Vorgriff auf KW4, um AEGIS' Interventionen kreativ zu umgehen, kreativ-polyphon erzählt, ein Wir, das Neues wagt, und die strukturierte Outline hört darin ein Echo der Schöpferkraft vor der Trennung. Storyform A führt die MC-Solution als erste bewusste Pursuit-Bewegung, Storyform B bleibt latent; die strukturierte Outline gibt dieselbe Formel schon der Wächterin. Laut Kernwelten vollständig liegt das Kapitel in KW2 als Genesis-Bridge, mit der die Genesis-Flashbacks beginnen, während die strukturierte Outline und die Storyform-Outline sie schon mit der Cluster-Bildung beginnen lassen. Laut der Plot-Konkretisierung begeht Kael seine erste Fälschung: er kopiert einen Selbst-Bestand, bevor er ihn bestätigt, gleicht aus und behält, und der Klick klingt zum ersten Mal anders.
 
+## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
+
+Title: „Echos von Moonshine“ ^[monstergruppe-primzahlen-plot-blueprint.md:L221]
+Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
+
+- Plot: „Nach dem abgewehrten Angriff vertieft sich die K-J Verbindung.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L224] · „Sie ist nicht nur eine Verbindung, sondern eine Signatur von“ ^[monstergruppe-primzahlen-plot-blueprint.md:L224] Moonshine — an expression of M's deepest symmetries.
+- AEGIS: „entdeckt erstmals Spuren dieser Moonshine-Signatur“ ^[monstergruppe-primzahlen-plot-blueprint.md:L224], one it cannot decode.
+- Kael's arc: „Er erreicht die Phase der“ ^[monstergruppe-primzahlen-plot-blueprint.md:L226] Erleuchtung (Midpoint) fully; „Dies ist ein entscheidender Schritt zur Integration und zum Verständnis seiner eigenen Natur als M-Resonator.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L226]
+
+## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the same two headers as this document's Kapitel 17, a different project
+
+Title: „Der Tanz der Fragmente“ ^[kohaerenz-protokoll.md:L2074]
+Position: „Funktionale Multiplizität / Cache Kohärenz (Konflikt)“ ^[kohaerenz-protokoll.md:L2076] · „Zyklus 2, Phase 2: Test (Alltag)“ ^[kohaerenz-protokoll.md:L2078]
+
+- This chapter's Fundamentales Konzept and Zyklische-Struktur headers repeat Kapitel 17's word for word; the project, the place and the supervising Guardian all differ. State it; not resolved.
+- Where: „ORT: LY-SIGMA-1, SEKTOR EMERGENTER STRUKTUREN.“ ^[kohaerenz-protokoll.md:L2092]
+- Story: a new assignment, „PROJEKT: RESONANZ-BRÜCKE LY-BETA-7.“ ^[kohaerenz-protokoll.md:L2090], timed at „ZEITRAHMEN: 48.0 STANDARDSTUNDEN.“ ^[kohaerenz-protokoll.md:L2100] and supervised by „SUPERVISION: MÖGLICHKEITS-WEBER.“ ^[kohaerenz-protokoll.md:L2104]; Kael resolves a Co1/McL cache conflict inside himself and the bridge holds under stress-testing, „Es funktionierte. Die Brücke hielt. Die Kohärenz war stabil.“ ^[kohaerenz-protokoll.md:L2178]
+- Voice: third person on Kael; the system directive in capitals, his own Anteile in italics.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -31,6 +50,28 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael interagiert mit einem Guardian (z.B. Mnemosyne, verantwortlich für Erinnerung).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „die Integrität der Erinnerung zu wahren vs. einer AEGIS-Direktive zu gehorchen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 - Story: „Kael beobachtet, wie Mnemosyne Zögern, inkonsistentes Verhalten oder vielleicht sogar eine Antwort zeigt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
+
+## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
+
+Title: „Schwarze Löcher der Information und Spaghettisierung“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L97]
+Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L81]
+
+- Plot: „Die Vibrationen alarmieren AEGIS.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L97] A Sweeper algorithm closes in to erase Kiko for good; „Die Umgebung krümmt sich zu einem Ereignishorizont.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L97]
+- Science: „AEGIS versucht, die Unitarität der Quantenmechanik zu verletzen, indem es Trauma-Information restlos vernichtet.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L97]
+- Who: „Kael hält Kiko fest und spürt die extremen gravitativen Gezeitenkräfte, die ihn physisch in die Länge ziehen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L97] (literary Spaghettisierung).
+- Establishes: „Die Szene ist ein atemloser Überlebenskampf an der Grenze der physikalischen Raumzeit.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L97]
+
+## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Rhys takes over on the flight into Cerberus' territory
+
+A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
+
+Title: „Die Jagd durch das Archiv“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L150]
+Position: „Akt II: Die Zyklische Dekonstruktion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L132]
+
+- World: „Die Flucht treibt sie in das Territorium von Cerberus (KW3-Übergang).“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
+- Sensorik: „Das Sepia weicht einem flimmernden Flutlicht.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
+- Who: „Rhys bricht an die Oberfläche und übernimmt die motorische Kontrolle“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
+- Function: „was die Vorbereitung für den kommenden Twist intensiviert.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -106,7 +147,8 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 
 - **Genesis flashback.** „KW2 / Genesis-Flashback“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] · „Genesis-Flashbacks beginnen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846] (Kernwelten vollständig) · „Kap 18, 21, 22 als Flashback-Träger gesetzt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371] (strukturierter Outline) · „Beginn Genesis-Flashback-Cluster (Kap 18–22)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343] (storyform outline). (C12)
 - **First conscious Pursuit.** „Erste bewusste Pursuit-Bewegung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1000] (konsolidiertes Konzept) · „MC-Solution Pursuit — erste bewusste Bewegung, aktiv neue Wege suchen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L713] (strukturierter Outline), which says the same of Kap 17: „Erste bewusste Pursuit-Bewegung. Driver-Anker A: Decision, aktiv hinschauen statt wegsehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645] (strukturierter Outline).
-- **Title.** „Lyons-Welt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L582] (Konzept-Iteration Genesis) · „Z2-Korrektur: Lyons-Kreativität“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L707] (strukturierter Outline; „Z2-Lyons-Kreativität“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L999] konsolidiertes Konzept, so too storyform outline). The first is a place in the strukturierter Outline: „Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff) um AEGIS' Interventionen kreativ zu umgehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] (strukturierter Outline).
+- **Title.** „Lyons-Welt“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L582] (Konzept-Iteration Genesis) · „Z2-Korrektur: Lyons-Kreativität“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L707] (strukturierter Outline; „Z2-Lyons-Kreativität“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L999] konsolidiertes Konzept, so too storyform outline). The first is a place in the strukturierter Outline: „Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff) um AEGIS' Interventionen kreativ zu umgehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] (strukturierter Outline) · „Die Jagd durch das Archiv“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L150] (the Hard-SF-Outline).
+- **The Kohärenz-Protokoll narrative.** Its title, „Der Tanz der Fragmente“ ^[kohaerenz-protokoll.md:L2074] (the Kohärenz-Protokoll narrative, 2025-04-27) — the chapter plays in the Lyons-Welt, for a Resonanz-Brücke project rather than for Pursuit or a Genesis-Flashback, and its own two header lines only repeat this document's Kapitel 17.
 
 ## Questions for this chapter
 
