@@ -4,7 +4,7 @@ subject: AEGIS
 kind: expansion of an acronym
 status: open
 first_seen: "2026-09-16"
-sources: 12
+sources: 13
 pages: ["aegis"]
 ---
 
@@ -128,3 +128,9 @@ Inside, not beneath: „The monitoring entity, AEGIS, operates under a catastrop
 **Position 1's expansion, and no other — beside a defence expanded into a world-state.**
 „The primary antagonist of the protocol is not a sentient villain, but AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems)." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17]
 On the second open question, the gatekeeper stands beside something like a substrate, in the konsolidiertes Konzept's terms: „rather, AEGIS is Kael’s own defense architecture externalized and expanded into a world-state." ^[the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko.md:L17] Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative Integrity` 0). Position 1's side; the conflict stays open.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**Position 1's expansion, and no other — a model's compilation that orders its sources by "inhaltliche Reife" rather than date.**
+„AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L294]
+Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative` 0, `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`), and nothing says which expansion it supersedes. On the second open question, its Primal Directive states what AEGIS is rather than what a reality emerges from: „Aegis is what Aegis prevents itself from not being." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L296] Position 1's side; the conflict stays open.

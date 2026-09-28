@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 20
-readings: 20
+sources: 22
+readings: 22
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
 gathered: "2026-09-17"
 ---
 
@@ -195,3 +195,11 @@ bedrohliche Präsenz wie der Chaos-Regulator oder als kalte Logik wie LogOS."
 under LogOS runs into „Ein Gödelscher Knoten." ^[kohaerenz-protokoll.md:L478] — „Eine Wahrheit
 über die Natur formaler Systeme, die selbst AEGIS nicht umgehen konnte."
 ^[kohaerenz-protokoll.md:L482]
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — one of five, on KW1, before the reset
+
+Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „LogOS (KW1 - Logos-Prime)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L308] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption or a decanonisation (`absorbiert`, `dekanonisiert` 0; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — KW1's Guardian, enforcing AEGIS' order
+
+Not in date order with the readings above; placed after the last one. An English essay that names no canon and never hedges. „The Guardian of KW1 is LogOS, an agent embodying the strict, formal logic and unyielding order enforced by AEGIS." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19] „Its narrative purpose, and that of its world, is to establish the story's initial "prison of convention."" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19] No absorption, reduction or decanonisation is told (`absorbed`, `decanon` 0; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).

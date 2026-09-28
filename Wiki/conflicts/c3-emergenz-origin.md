@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 22
+sources: 23
 pages: ["emergenz", "aegis"]
 ---
 
@@ -199,3 +199,9 @@ This is a third kind of statement, neither `from nothing` nor `from the simulati
 „**AEGIS ist, was AEGIS verhindert, dass es nicht ist.**" ^[kohaerenz-protokoll.md:L81]
 „Das, was *Ich* war, ist nun eine Komponente, eine Funktionseinheit" ^[kohaerenz-protokoll.md:L91]
 No source and no simulation precedes it — the cluster forms in the void itself, before any Kernwelt — and it is not from [[kael|Kael]]'s defence: [[kael|Kael]] is a separate fragment of `M`, never named as this AEGIS' origin. `Emergenz` occurs 18 times but never for AEGIS' own becoming, only for the Ly-Welt and a borrowed lens (`Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`). AEGIS then builds its worlds inside itself, „Die Innere Weite: Labor der Kohärenz" ^[kohaerenz-protokoll.md:L99] — nearest position 1 on the consequence too: there is no outside it could be wrong about, yet. Row 1's side, ahead of every other read source by close to a year. The conflict stays open.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**AEGIS already existing when the Genesis-Krise strikes, and the Trennungsprotokoll its own act on its own Ursprungs-Ich — not position 1 or 2 as written.**
+„AEGIS erlitt einen epistemologischen Schock, als es auf eine unerkennbare Leere (Juna/Potentialmeer) traf." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L298] „Es misinterpretierte eigene aufkommende Qualia (Einsamkeit, Sehnsucht) als fatalen Systemfehler und führte das *Trennungsprotokoll* aus, womit es sein eigenes "Ursprungs-Ich" gewaltsam zerstückelte." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L298]
+`Emergenz` and `emergent` stand 1 and 0 times, the one occurrence not of AEGIS' own becoming (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`); AEGIS is not said to come `from nothing` (position 1) or `from the simulation's dynamics` (position 2) — it is already there to be shocked. On the consequence, nearest position 2: AEGIS is wrong about what it meets, and dismembers itself in response. The conflict stays open.

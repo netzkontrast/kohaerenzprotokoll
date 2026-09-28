@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -108,6 +108,13 @@ His row: „Rhys (Caregiver) | Maxwell’s Demon | Feverish hands and excessive 
 
 A whole-novel plan dated before the reset of 2026-04-30 and before every canon-era document; each chapter paragraph is its plan, not the novel. His row, category `ANP`: „Der Caregiver & Beschützer." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L53] „Übernimmt physische Verteidigung (Fight-Response)." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L53]
 He stirs first beside Kiko in Kapitel 16 — Kael feels a fatherly responsibility „(Rhys regt sich in ihm)" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L142]. In Kapitel 20, on the way into Cerberus' territory: „Rhys bricht an die Oberfläche und übernimmt die motorische Kontrolle mit einer Härte, die Kael bisher fremd war." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L152] In Kapitel 21's gravity set-piece: „Kael und Rhys werden buchstäblich vom Gewicht der schwindenden Realität zu Boden zerquetscht." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L154] Kapitel 24 names him among those revealed as alters (L160); in Kapitel 30 Kael refuses the temptation „getragen von der Widerstandskraft von Nyx und Rhys" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]; in Kapitel 39 he is among those still there (L206).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — the Kudzu named as toxic co-dependency, and a contradiction register entry of its own
+
+A compilation that audits its sources and keeps its own contradiction register — recorded, not applied.
+**Function and voice.** „Harmonisierer, Pfleger, Bindungsaufbau." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L115] „Empathisch, warm, sanft (teilweise naiv hoffend)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L121]
+**`Kudzu` explained.** This document glosses the arc: „Überwindung von toxischer Co-Abhängigkeit ("Kudzu-Gewächs") hin zu echter Akzeptanz." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L128]
+**Its own register names his classification as unsettled.** „In der *Writer's Bible* (Dok. 48) und *TSDP-Analyse* (Dok. 35) wird Rhys klar als **ANP (Caregiver)** gelistet, der Konflikte meidet." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L345] The same entry says an older album concept calls him „**EP (Fight)**" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L345] instead, „der wütend, impulsiv und aggressiv beschützend agiert." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L345]
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the Pfleger-ANP, gently intervening for Kiko, against the table's own assignment of that role
 

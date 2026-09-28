@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 14
-readings: 14
+sources: 16
+readings: 16
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"]
 gathered: "2026-09-17"
 ---
 
@@ -145,3 +145,11 @@ The world table: „Möglichkeits-Garten (KW4) | Kairos & Sophia | Exiles (Traum
 The table: „\*\*KW4: Kairos-Potentialis\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43] „\*\*Kairos / Sophia\*\*" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43], role „Die Integration." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L43] Kapitel 30, „Die Prüfung durch Sophia" ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]: „Vor den Toren des zentralen Fundaments stellen sich Kairos und Sophia, die Guardians der Weisheit, in Kaels Weg. Sie greifen nicht mit Waffen an, sondern mit verheerender philosophischer Logik." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178] Kael refuses their temptation: „Kael, getragen von der Widerstandskraft von Nyx und Rhys, weist die Verführung der Taubheit zurück." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L178]
 
 Again undifferentiated, acting as one pair; `Kairos-Potentialis` is a world named for him, kept whole as the world's name (J49).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — one of five, on the fourth world, before the reset
+
+Not in date order with the readings above; placed after the last one. Under AEGIS' own entry, the Guardians list: „Kairos & Sophia (KW4 - Kairos-Potentialis)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L311] — one of five, dated a month before the reset that reduces them to two (readings above). It says nothing of an absorption, a latency or a decanonisation (`absorbiert`, `latent`, `dekanonisiert` 0; `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`).
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — one of two Guardians of KW4, facilitating what Juna represents
+
+Not in date order with the readings above; placed after the last one. An English essay that names no canon and never hedges. „The Guardians of this world are Kairos and Sophia, complementary forces representing intuition, opportunity, and integrative wisdom." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79] „Their narrative purpose is to facilitate the generative and sometimes chaotic forces that Juna represents." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79] They „challenge Kael to think beyond his established patterns of control and fear" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79]. No absorption, reduction or decanonisation is told (`absorbed`, `latent`, `decanon` 0; `Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`).
