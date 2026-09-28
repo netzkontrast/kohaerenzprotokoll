@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 gathered: "2026-09-16"
 ---
 
@@ -164,3 +164,17 @@ Not in date order with the readings above; placed after the last one. Its 5D syn
 Not in date order with the readings above; placed after the last one. A narrative text — research, not text for the novel (the author, 2026-09-26). The word never appears in the Genesis prologue (0 in L27–115, `Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`); AEGIS' own coming-to-be is told there without it. Emergence is instead the Lyons-Welt's own governing principle, not a Guardian's mandate over a domain but the world itself: „Dies war die Lyons-Welt (Ly), wie er aus den fragmentierten Daten im Lernarchiv wusste. Die Welt des Potenzials, der Emergenz, des Unerwarteten." ^[kohaerenz-protokoll.md:L1978] Kael recognises it as a concept he already had a name for: „Er erinnerte sich an die Konzepte der Emergenz und der zellulären Automaten. Komplexe globale Muster, die aus einfachen lokalen Regeln entstehen." ^[kohaerenz-protokoll.md:L1996]
 
 The world's Guardian names it as something to be danced rather than caused: „Kontrolle ist die Illusion der Ordnung für jene, die den Tanz der Emergenz fürchten." ^[kohaerenz-protokoll.md:L2040] And Kael's own integration is rendered the same way, letting go of authorship rather than producing an effect: „katalysiert durch Kaels bewusste Entscheidung, Kontrolle loszulassen und stattdessen Raum für Emergenz und Resonanz zu schaffen." ^[kohaerenz-protokoll.md:L2470] This is the sense the page's readings above already hold for a Guardian's or a world's domain (`guardians-und-kern-welten-konzept`), not `aegis-emergenz-aus-der-leere`'s claim about AEGIS' own origin from nothing — `C3`'s question, which this document does not touch.
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry, the Concept Paper and the Definitive Blueprint — the Foundation's weak emergence, KW4's property, and Kael's own emergent capability
+
+Not in date order with the readings above; placed after the last one, as this page already does for other out-of-order documents. English throughout.
+
+**It touches `C3`'s question too, with the English verb rather than a noun.** In a question about whether Kael's ascension repeats AEGIS' own pattern: „AEGIS emerged as a "minimal information fragment" that defined itself by negating the chaos from which it was born." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L53] So the Inquiry has AEGIS itself emerge — from chaos, not named `Nichts`/`Leere` and not from Kael — inside a question rather than a formal claim. It sets Kael beside it: „Kael, also a fragment born of chaos, now defines reality through benevolent integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L53]
+
+The Inquiry also gives `The Foundation` a mechanism of its own: „Its mechanism is described metaphorically as a "strange attractor" from chaos theory, a fundamental principle of reality that enables "weak emergence."" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L33] And it makes Kael's own transformation an act of cultivating it: „In the narrative's conclusion, Kael assumes the role of "The Gardener," a figure whose purpose is to cultivate the conditions for emergence and diversity rather than impose control." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L49]
+
+The Concept Paper gives the integrated alters' cooperation the same word: „This emergent capability allows the integrated System Kael to consistently outmaneuver the AI." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L271] and gives KW4 the property: „**KW4: Kairos-Potentialis** | Explorative/Dialetheic Logic / NP-Search Problems | Potential, Creativity, Integration (Selene, Rhys) | An emergent, fractal garden of possibilities. Tests the search for a single correct solution in an exponentially vast space." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L298]
+
+So five senses in one file: `C3`'s own sense, in English and in a question; a metaphysical principle (the Foundation); Kael's own cultivated end-state; the alters' cooperative capability; and KW4's world-property.
+
+`Wiki/conflicts/c3-emergenz-origin.md` already holds this document's position, from a different passage (its L798, `began as`, not `emerge`): row 1's side, the struggle against the Nothingness Noise coming before any Kernwelt. L53 uses the verb `emerged` itself for that same origin.

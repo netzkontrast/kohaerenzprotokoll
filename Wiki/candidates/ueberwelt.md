@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -239,3 +239,11 @@ Not in date order with the readings above; placed after the last one. A narrativ
 What it becomes for AEGIS: „Die Überwelt wird zum Immunsystem und Metabolismus zugleich." ^[kohaerenz-protokoll.md:L109] And what AEGIS builds inside it: „Mehr noch: In der Überwelt beginnt AEGIS, die Bausteine einer eigenen Realität zu erschaffen." ^[kohaerenz-protokoll.md:L111] „Die Überwelt wird zur Geburtsstätte einer Binnen-Physik, einer Logik, die AEGIS dient." ^[kohaerenz-protokoll.md:L111]
 
 Late in the novel, past the Kernwelten's own seam, Kael finds a further space that is explicitly not it, keeping the Überwelt AEGIS' own cold, logical space to the last: „Ein Raum reiner Information, aber nicht kalt und logisch wie AEGIS' Überwelt." ^[kohaerenz-protokoll.md:L2376]
+
+## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Definitive Blueprint and the Dramaturgical Framework — the digital control plane, and a second English name for it in the same file
+
+Not in date order with the readings above; placed after the last one, as this page already does for `kohaerenz-protokoll`. English throughout.
+
+The Definitive Blueprint gives it its own section as the world architecture's control plane: „### **5.1 The Control Plane: The Digital Überwelt**" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L865] „The Überwelt is the abstract, information-based reality where AEGIS's core processes run. Its aesthetic must be entirely non-anthropomorphic and ruthlessly functional, consisting of dynamic geometric landscapes, flowing streams of pure data, and architectures built from raw logic." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L867] It gives the Risse a purer form there than in the Kernwelten: „It is in this realm that the "Risse" manifest in their purest form: as digital errors, data corruption, communication failures, and the visible decay of logical structures." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L867]
+
+The Dramaturgical Framework, of the same date, names it not `Überwelt` but `Overworld` for the same climax: „**The Climax:** The confrontation occurs in the "Overworld," the abstract, informational reality of AEGIS's core." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L459] A second English name inside one file, beside the Blueprint's own `Überwelt`.
