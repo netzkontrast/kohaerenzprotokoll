@@ -4,7 +4,7 @@ subject: the Flight riss — Lia with Isabelle, or with Kiko
 kind: one row of the riss table, two pairs of bearers in canon-era sources, two of them of one date and five of another
 status: open
 first_seen: "2026-09-25"
-sources: 10
+sources: 11
 pages: ["risse", "kiko", "lia", "isabelle"]
 ---
 
@@ -78,3 +78,9 @@ Row 2's pair, in row 2's words, on its date — the table the master report (row
 „Risse (Cracks) are triggers for Landauer heat, mapped to EPs: Nyx (Kinetic), Kiko (Temporal), Lia (Spatial), Moros (Gravitational), and Isabelle (Sensory)." ^[systemic-architecture-specification-the-coherence-protocol-w.md:L78]
 The roster's EP labels are Fight, Freeze, Ambivalent, Sexualized and Collapse (L51); Lia's row: „EP (Ambivalent) | Lia | Superposition | Bauchreaktionen | Resolve Superposition" ^[systemic-architecture-specification-the-coherence-protocol-w.md:L51]. Kiko's Riss is temporal only and Isabelle's sensory only; `Flight` stands 0 times (`05-verify-readers.txt`). The document calls itself the binding rulebook (L88) — recorded, not applied.
 On neither side: the part every row shares — Lia carries the spatial riss — with no second bearer, neither Kiko (rows 1, 6, 7) nor Isabelle (rows 2–5, 8); Isabelle keeps one riss, the sensory, and Kiko one, the temporal.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**No alter labelled Flight, and Lia's own riss is the flight-approach ambivalence itself — naming neither Kiko nor Isabelle as her partner.**
+Lia's Kernfunktion: „"Kaleidoskop-Herz"; trägt Trauma bezüglich Vertrauen; ständige Flucht-Annäherung-Ambivalenz." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L199] Her Riss-Typ: „Relational/Sensory Drift; Fluktuationen in Wahrscheinlichkeitsberechnungen." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L209] Kiko's is „Trägt frühe Traumagefühle (Terror, Verlassenheit); das gefrorene innere Kind." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L177], her own Riss-Typ temporal: „Temporal/Stutter Glitch (Zeitkörnigkeit, Stasis, Auflösung makroskopischer Kontinuität)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L187]
+`Flight` stands 0 times (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`). On no row's spatial pairing: Lia's own riss is relational and sensory, not the spatial `Flight` any row names, and Kiko's is temporal, as in rows 6 and 7 (her second function there) — but here she has no second function at all. Neither Kiko nor Isabelle is named beside Lia.

@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 24
-readings: 24
+sources: 26
+readings: 26
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -130,6 +130,16 @@ Her row, in a table with no category column: „Lia,Superposition,Dissociative d
 ## Reading — `editorial-style-dossier-somatic-and-linguistic-implementatio`, 2026-05-08, the Editorial Style Dossier — Ambivalent, spatial disorientation
 
 Her row: „Lia (Ambivalent) | Superposition | Spatial disorientation; feeling "stretched." | Marks the struggle to choose a state." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] — spatial in her somatics; the document has no Riss table (`Riss`, `Risse` 0) and no `Flight` (0) (C15). Nothing else names Lia (`grep -cw Lia`: 1; `05-verify-readers.txt`).
+
+## Reading — `the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p`, 2025-11-03, the Sensory Rulebook — one of the child parts KW3 exists to shield
+
+An English essay, no hedging. Named once, with Kiko, as one of KW2's residents: „shield the vulnerable child parts (EPs) like Kiko and Lia, who reside in the swampy, undefended landscape of KW2" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L57]. No `Flight` stands in the document (`05-verify.txt`) (C15). Nothing else in the document names Lia (`05-verify.txt`).
+
+## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation — a Kaleidoskop-Herz whose core function names Flucht
+
+A compilation that audits its sources and marks its own gaps — recorded, not applied.
+**Function, and the word `Flucht` in her own definition.** „„Kaleidoskop-Herz“; trägt Trauma bezüglich Vertrauen; ständige Flucht-Annäherung-Ambivalenz." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L199] Its own Kernfunktion names flight as one half of her ambivalence (C15).
+**Correlate.** „Quantensuperposition & Verschränkung." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L207] No somatic marker is filled in: „\[Fehlt in den Dokumenten - Lücke\]" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L211].
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — EP, the dreamer who leads through the paraconsistent archive in Kapitel 18
 

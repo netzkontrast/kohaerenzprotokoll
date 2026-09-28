@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 25
+sources: 26
 pages: ["entropie"]
 ---
 
@@ -233,3 +233,10 @@ It does not write `Entropie-Architektur` or call K₀ the condition of events (0
 **Sense 1, disorder exported to keep order — the earliest-dated read source on this record, in nearly the draft text's own later words.**
 „der gezielte Export von Entropie – all das ist nun ihre Seinsweise" ^[kohaerenz-protokoll.md:L95] — the Komponente's task at the border, eleven months before the draft text of 2026-05-08 states the same image in almost the same words (its L315, entry of 2026-09-25 above). Elsewhere the word names what the system's own metrics cannot hold: „als Minimierung von Entropie im Sinne von Unordnung" ^[kohaerenz-protokoll.md:L380], and what one Kernwelt is tuned by: „kontrollierte Entropie-Gradienten in Sektor Beta, My, Lambda" ^[kohaerenz-protokoll.md:L402].
 `Entropie` stands 18 times (`Plan/runs/kohaerenz-protokoll/05-verify.txt`), always disorder on the resisted or exported side, never AEGIS' own identity and never a matrix things stabilise out of. Sense 1's side, dated ahead of every other read source on this record. The conflict stays open.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**Both sense 1 and sense 3, in one paradox — AEGIS' Primal Directive negates entropy, and its own control generates the entropy it fights, inside [[kael|Kael]] rather than the world.**
+„Primal Directive: "Aegis is what Aegis prevents itself from not being." (Existenz durch absolute Negation von Entropie)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L296] — sense 1, disorder AEGIS exists to negate.
+„AEGIS versucht, durch extreme Kontrolle Chaos zu verhindern, erzeugt aber durch die Unterdrückung von Trauma maximale interne Entropie (Kaels Dissoziation)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L302] — sense 3's shape, control producing the entropy it fights — but here the entropy produced is named Kael's own dissociation, „interne Entropie" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L302] of the system it acts on, not stated as AEGIS' own identity.
+`schöpferische Matrix` and a fourth sense's wording (`Bedingung für Ereignisse`) stand 0 times (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`). Both sense 1 and a variant of sense 3 in one document, unrelated to each other; the conflict stays open.

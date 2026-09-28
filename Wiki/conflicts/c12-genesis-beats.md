@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 27
+sources: 28
 pages: ["trennungsprotokoll"]
 ---
 
@@ -271,3 +271,10 @@ The Genesis has no Trennungsprotokoll and no 734: the fragment becomes „eine K
 [[kael|Kael]] is not the Komponente the Genesis produces: „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link" ^[kohaerenz-protokoll.md:L853] — a different substance, M the Monstergruppe, and the Genesis' AEGIS is one thing M's fragmenting produces elsewhere, „die Zerlegung von M in Kael, die Fragmentierung von Kael in Caches" ^[kohaerenz-protokoll.md:L1019].
 The partitioning happens twice, both done by AEGIS. Kapitel 2: „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung." ^[kohaerenz-protokoll.md:L258] — „Eine Mauer zwischen dem Logiker, dem Manager, der versuchte zu kooperieren, und dem intuitiven, fühlenden Teil, der mit dem goldenen Licht, mit *Juna*, verbunden war." ^[kohaerenz-protokoll.md:L260] And an earlier one, recalled rather than shown: „Als… als M dissoziiert wurde." ^[kohaerenz-protokoll.md:L911]
 On no row as written: neither three beats nor four, no Wir-AEGIS-plural (`Wir-AEGIS` 0, `Plan/runs/kohaerenz-protokoll/05-verify-readers.txt`), `Trennungsprotokoll` 0 (`05-verify.txt`), and the exact phrase `Komponente 734` never occurs (0, `05-verify-readers.txt`) — the component is unnumbered, and the document has its own Genesis, prior to and independent of every 2026 count. The conflict stays open.
+
+## 2026-09-27 — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31, the Charakter-Kompilation
+
+**No beat counted — the Trennungsprotokoll as AEGIS' own act on its own Ursprungs-Ich, and the number 734 given to Lex, not [[kael|Kael]].**
+„Es misinterpretierte eigene aufkommende Qualia (Einsamkeit, Sehnsucht) als fatalen Systemfehler und führte das *Trennungsprotokoll* aus, womit es sein eigenes "Ursprungs-Ich" gewaltsam zerstückelte." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L298]
+„Analytiker und Stratege; erzwingt Struktur durch reine Logik; Komponente 734." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L74] — Lex's own Kernfunktion line; `734` stands on this one line only (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`), and Kael's own entry has no number at all.
+`Beat` and `Wir-AEGIS` stand 0 times. On no row by count: it neither counts three beats nor four, and on the component it takes none of the read record's three positions — not [[kael|Kael]] as Komponente 734 (row 1, the master report, the philosophischer Bericht), not 734 as his precursor (the worldbuilding concept, the Systemic Architecture Specification), and not Kael cut from 734 (the draft text) — but Lex. The conflict stays open.
