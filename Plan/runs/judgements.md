@@ -1655,3 +1655,31 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „Kernwelt 1 (KW1) - Logos-Prime“ (heading, L15) and „Kernwelt 1, the Konstrukt-Stadt“ (L17); likewise Mnemosyne-Archipel/Resonanz-Landschaft, Cerberus-Labyrinth/Grenzfeste, Kairos-Potentialis/Möglichkeits-Garten.
 
 **Result.** the reading goes on the world page the second name has (konstrukt-stadt, resonanz-landschaft, grenzfeste, moeglichkeits-garten) and on kern-welten; the Guardian-built name is recorded there, never on the Guardian's page (J49), and becomes no surface from one source
+
+## J119 — Dr. Aris Thorne / Lex
+
+**judgement** · an-inquiry-into-the-unresolved-questions-and-thematic-tensio · 2026-09-28 · replay: `judgement`
+
+- **rule:** a name a source says a figure first gives itself is read on that figure's page; one source's name is no surface (J100)
+- **mechanised by:** `nothing`
+- **features:** one-document-name, one-report-only, viewpoint-character
+
+**Question.** is the Exposé's Dr. Aris Thorne a figure of its own, or Lex?
+
+**What was done.** „Lex is the primary ANP and the initial viewpoint character, who first identifies himself as **Dr. Aris Thorne**.“ (L1034) — the one `Aris Thorne` in the file; no other report in it, and no read document, writes the name.
+
+**Result.** placed on lex by the sentence, as the name Lex first gives himself in one report; `Dr. Aris Thorne` is not a surface and no page
+
+## J120 — The Construct City / The Resonance Landscape / The Boundary Fortress / The Garden of Possibilities / Konstrukt-Stadt / Resonanz-Landschaft / Grenzfeste / Möglichkeits-Garten
+
+**judgement** · an-inquiry-into-the-unresolved-questions-and-thematic-tensio · 2026-09-28 · replay: `skipped`
+
+- **rule:** an English name a source gives a paged world, beside its Guardian-built name, is read on the paged world; one source's translation is not a surface (J100, J118)
+- **mechanised by:** `nothing`
+- **features:** english-gloss, world-named-twice, translation
+
+**Question.** are the file's English world names the German world pages?
+
+**What was done.** „KW1: Logos-Prime \<br/\> (The Construct City)“ (L876) and the same for KW2–KW4; KW4 is also „(The Garden of Potential)“ (L971). Each glosses a Guardian-built name in the position J118 places on the paged world.
+
+**Result.** read on konstrukt-stadt, resonanz-landschaft, grenzfeste and moeglichkeits-garten by the sentence, as English names for the paged worlds (J118); none becomes a surface from one source — a translation pair enters through bilingual.jsonl or a second read source (J100)

@@ -1,5 +1,5 @@
 {
-  "built": "2026-09-27",
+  "built": "2026-09-28",
   "by": "scripts/wiki_index.py",
   "pages": 106,
   "conflicts": 15,
@@ -134,10 +134,12 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "roman-konzept-dualitaet-kohaerenz-spannung"
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 25,
+      "readings": 25,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -409,10 +411,12 @@
         "mining-report-kohaerenz-protokoll-narrative-building-blocks",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 20,
+      "readings": 20,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -985,10 +989,12 @@
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "dramatica-storyform-synthese-aegis-analyse",
         "m-als-fundament-der-simulation",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 35,
-      "readings": 35,
+      "sources": 37,
+      "readings": 37,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -1222,10 +1228,13 @@
         "duale-storyform-synthese-kohaerenz-protokoll",
         "dramatica-storyform-synthese-aegis-analyse",
         "m-als-fundament-der-simulation",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness"
       ],
-      "sources": 42,
-      "readings": 42,
+      "sources": 45,
+      "readings": 45,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -1277,10 +1286,12 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "kohaerenz-protokoll-philosophischer-bericht-md",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 16,
+      "readings": 16,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -1327,10 +1338,11 @@
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "duale-storyform-synthese-kohaerenz-protokoll",
         "m-als-fundament-der-simulation",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 36,
-      "readings": 35,
+      "sources": 37,
+      "readings": 36,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -1572,10 +1584,11 @@
         "dramatica-storyform-synthese-aegis-analyse-2",
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "duale-storyform-synthese-kohaerenz-protokoll"
+        "duale-storyform-synthese-kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 28,
+      "readings": 28,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -1655,10 +1668,11 @@
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 29,
-      "readings": 29,
+      "sources": 30,
+      "readings": 30,
       "conflict": "none"
     },
     "lia": {
@@ -1723,10 +1737,12 @@
         "dramatica-storyform-synthese-aegis-analyse-2",
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "kohaerenz-protokoll"
+        "kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 20,
-      "readings": 20,
+      "sources": 22,
+      "readings": 22,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -1779,10 +1795,12 @@
         "dramatica-storyform-synthese-aegis-analyse-2",
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 30,
+      "readings": 30,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -2096,10 +2114,12 @@
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
         "roman-konzept-dualitaet-kohaerenz-spannung",
         "duale-storyform-synthese-kohaerenz-protokoll",
-        "dramatica-storyform-synthese-aegis-analyse"
+        "dramatica-storyform-synthese-aegis-analyse",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 30,
+      "readings": 30,
       "conflict": "C10"
     },
     "oblivion": {
@@ -2363,10 +2383,11 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "roman-konzept-dualitaet-kohaerenz-spannung"
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 20,
-      "readings": 20,
+      "sources": 21,
+      "readings": 21,
       "conflict": "none"
     },
     "risse": {
@@ -2491,10 +2512,11 @@
         "the-architecture-of-fracture-a-compendium-of-the-kael-system",
         "editorial-style-dossier-somatic-and-linguistic-implementatio",
         "hard-sf-roman-outline-dkt-physik-cosmic-horror",
-        "duale-storyform-synthese-kohaerenz-protokoll"
+        "duale-storyform-synthese-kohaerenz-protokoll",
+        "charakter-kompilation-fuer-kohaerenz-protokoll"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 24,
+      "readings": 24,
       "conflict": "none"
     },
     "silas": {
@@ -2568,10 +2590,12 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "kohaerenz-protokoll-philosophischer-bericht-md",
         "roman-konzept-dualitaet-kohaerenz-spannung",
-        "hard-sf-roman-outline-dkt-physik-cosmic-horror"
+        "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 14,
+      "readings": 14,
       "conflict": "C4, C6"
     },
     "system-monitor": {

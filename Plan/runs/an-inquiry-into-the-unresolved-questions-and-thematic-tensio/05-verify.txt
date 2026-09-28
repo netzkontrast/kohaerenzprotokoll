@@ -1,0 +1,71 @@
+# 05-verify — an-inquiry-into-the-unresolved-questions-and-thematic-tensio, 2026-09-28
+# grep -cwE = lines holding the word
+Kap                  0
+Kapitel              0
+Chapter              0
+Vortex               0
+Juna                 35
+Julia                0
+warm                 0
+Wärme               0
+Hitze                0
+heat                 0
+cold                 20
+kalt                 0
+Ozon                 0
+ozone                0
+Knöchel             0
+Landauer             0
+Konstrukt-Stadt      0
+Construct City       5
+KW1                  6
+KW2                  8
+KW3                  9
+KW4                  4
+Kernwelt             5
+Kernwelten           10
+Guardian             0
+Guardians            2
+Wächter             0
+LogOS                1
+Mnemosyne            11
+Cerberus             12
+Kairos               5
+Sophia               1
+Genesis              6
+734                  1
+Komponente           0
+Component            0
+Trennungsprotokoll   0
+Flight               0
+Flucht               2
+K1                   0
+K0                   0
+DKT                  0
+Coheron              0
+TSDP                 38
+AEGIS                310
+Kael                 325
+Silas                0
+Oblivion             7
+Moros                6
+Praetor              7
+Lex                  65
+Nyx                  62
+Kiko                 44
+Lia                  8
+Isabelle             3
+Alex                 5
+Rhys                 32
+Selene               17
+Argus                2
+Dr. Aris Thorne      1
+Überwelt            4
+Overworld            1
+Foundation           19
+Gardener             13
+Gärtner             4
+Gödel-Gambit        21
+Gödel Gambit        7
+External Level       4
+Dramatica            0
