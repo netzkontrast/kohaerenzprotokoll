@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 29
+sources: 30
 pages: ["trennungsprotokoll"]
 ---
 
@@ -284,3 +284,9 @@ On no row as written: neither three beats nor four, no Wir-AEGIS-plural (`Wir-AE
 **No beat counted — the Genesis told as one misreading rather than a numbered sequence, and the trauma named `Das T-734 Trauma`.**
 „Genesis-Sequenz: Die Sequenz markiert den initialen Riss der Welt, bei dem das System tiefste K1-Phänomenologie als K0-Systemfehler interpretierte und fatalerweise das Trennungsprotokoll initiierte." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L287] Its projection table gives the Risse's interference point as „Genesis-Krise (Das T-734 Trauma)." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L235]
 `Beat` and `Wir-AEGIS` stand 0 times; `Einheit` once, not as row 1's beat but as a longing, „Die alles verzehrende Sehnsucht nach Einheit." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L236] `734` stands twice, both as `T-734` — the table row above and Storyform A's Story-Quad, „Kern-Trauma (T-734)“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L82] (`Plan/runs/ki-prompt-analyse-hard-problem-of-consciousness/05-verify-readers.txt`) — never as `Komponente 734`. On no row by count: no beats are named, and no component is identified with [[kael|Kael]] (J112). The conflict stays open.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**No beat counted — Kael himself, not a precursor, as what the Genesis Crisis's self-mutilation resulted in, and a case number of his own.**
+Kael is „that resulted from AEGIS's own act of self-mutilation" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L71] (`Zerstückelung`, the `Genesis Crisis`) — the fragment the separation produces, not a precursor before it, nearest row 1's identity of Kael and the component. The Assessment gives the case its own number: „734-K-1123" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1565], and names the partitioning „erzwungenen Kohärenz-Partitionierung" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1584] (J114, on [[trennungsprotokoll|Trennungsprotokoll]]).
+`Beat` and `Wir-AEGIS` stand 0 times, `Trennungsprotokoll` 0 (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`); the document counts no beats and orders none. On no row by count: no beats are named; on the component, nearest row 1 — Kael the fragment the separation produces. The conflict stays open.

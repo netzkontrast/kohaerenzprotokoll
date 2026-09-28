@@ -4,7 +4,7 @@ subject: the Flight riss — Lia with Isabelle, or with Kiko
 kind: one row of the riss table, two pairs of bearers in canon-era sources, two of them of one date and five of another
 status: open
 first_seen: "2026-09-25"
-sources: 11
+sources: 12
 pages: ["risse", "kiko", "lia", "isabelle"]
 ---
 
@@ -84,3 +84,10 @@ On neither side: the part every row shares — Lia carries the spatial riss — 
 **No alter labelled Flight, and Lia's own riss is the flight-approach ambivalence itself — naming neither Kiko nor Isabelle as her partner.**
 Lia's Kernfunktion: „"Kaleidoskop-Herz"; trägt Trauma bezüglich Vertrauen; ständige Flucht-Annäherung-Ambivalenz." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L199] Her Riss-Typ: „Relational/Sensory Drift; Fluktuationen in Wahrscheinlichkeitsberechnungen." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L209] Kiko's is „Trägt frühe Traumagefühle (Terror, Verlassenheit); das gefrorene innere Kind." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L177], her own Riss-Typ temporal: „Temporal/Stutter Glitch (Zeitkörnigkeit, Stasis, Auflösung makroskopischer Kontinuität)." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L187]
 `Flight` stands 0 times (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`). On no row's spatial pairing: Lia's own riss is relational and sensory, not the spatial `Flight` any row names, and Kiko's is temporal, as in rows 6 and 7 (her second function there) — but here she has no second function at all. Neither Kiko nor Isabelle is named beside Lia.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**Row 1's pairing — the Assessment's table gives `Flucht` to both Kiko and Lia, in their TSDP classification itself.**
+„Kiko | EP (Kind/Flucht/Freeze) | Träger von Angst/Verlassenheit/Scham" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1615]
+„Lia | EP (Kind/Ambivalenz/Flucht) | Träger von Vertrauensbruch/Ambivalenz" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1616]
+`Flight` stands 0 times (English throughout) and `Flucht` twice, both on these two rows (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify.txt`). Row 1's side, in the Assessment, one of the file's two eleven-alter reports; on no row's spatial-riss framing, since the Assessment's table names phobias, not riss types. The conflict stays open.

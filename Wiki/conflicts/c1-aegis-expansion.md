@@ -4,7 +4,7 @@ subject: AEGIS
 kind: expansion of an acronym
 status: open
 first_seen: "2026-09-16"
-sources: 13
+sources: 14
 pages: ["aegis"]
 ---
 
@@ -134,3 +134,9 @@ On the second open question, the gatekeeper stands beside something like a subst
 **Position 1's expansion, and no other — a model's compilation that orders its sources by "inhaltliche Reife" rather than date.**
 „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems)" ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L294]
 Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, `Generative` 0, `Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`), and nothing says which expansion it supersedes. On the second open question, its Primal Directive states what AEGIS is rather than what a reality emerges from: „Aegis is what Aegis prevents itself from not being." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L296] Position 1's side; the conflict stays open.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**Position 1's expansion, and no other — a philosophical position embodied in a system, not a simple villain.**
+„AEGIS, whose full designation is **Autonomous Entropic Gatekeeper for Integrity Systems**, is far more than a simple villain; it is a philosophical position embodied in a system." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1210]
+Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, and nothing of `Generative Integrity Substrate` — `Substrate` 0 case-sensitive, `Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`), and nothing says which expansion it supersedes. Position 1's side; the conflict stays open.

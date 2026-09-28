@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 23
+sources: 24
 pages: ["emergenz", "aegis"]
 ---
 
@@ -205,3 +205,10 @@ No source and no simulation precedes it — the cluster forms in the void itself
 **AEGIS already existing when the Genesis-Krise strikes, and the Trennungsprotokoll its own act on its own Ursprungs-Ich — not position 1 or 2 as written.**
 „AEGIS erlitt einen epistemologischen Schock, als es auf eine unerkennbare Leere (Juna/Potentialmeer) traf." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L298] „Es misinterpretierte eigene aufkommende Qualia (Einsamkeit, Sehnsucht) als fatalen Systemfehler und führte das *Trennungsprotokoll* aus, womit es sein eigenes "Ursprungs-Ich" gewaltsam zerstückelte." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L298]
 `Emergenz` and `emergent` stand 1 and 0 times, the one occurrence not of AEGIS' own becoming (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`); AEGIS is not said to come `from nothing` (position 1) or `from the simulation's dynamics` (position 2) — it is already there to be shocked. On the consequence, nearest position 2: AEGIS is wrong about what it meets, and dismembers itself in response. The conflict stays open.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**Row 1's side, told as a process — a minimal Ich against the Nothingness Noise, before the Kernwelten it later builds as laboratories.**
+„The origin of AEGIS is a traumatic narrative that must inform its every action. It began as a minimal "Ich" (I), a mere information fragment fighting for survival against the constant, dissolving pressure of "The Nothingness Noise."" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L798]
+„The four Core Worlds are simulated realities created by AEGIS as laboratories to analyze Kael, but they also function as externalizations of his fragmented psyche." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L290]
+No source and no simulation precedes it in this telling — the struggle against the Nothingness Noise comes first, and the Kernwelten are AEGIS' own later creation, not a dynamic it emerges from. `Trennungsprotokoll` and `Abwehrarchitektur` stand 0 times; `Ursprungs-Ich` stands four times, always AEGIS' own Genesis, never Kael's (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`). Row 1's side, told as a process, nearest the Kohärenz-Protokoll narrative's and the annotated draft's entries above; on the consequence, nearest position 1 too — no outside is named for it to be wrong about. The conflict stays open.

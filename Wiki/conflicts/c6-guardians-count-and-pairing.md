@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 32
+sources: 33
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -318,3 +318,10 @@ On neither row's count — four, not five and not two, and three names (`Netzweb
 **Row 1's and row 2's side, in English: five named, one per world, Kairos and Sophia sharing the fourth — no reduction, no pole.**
 „The Guardian of KW1 is LogOS" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L19]; „The Guardian of this realm is Mnemosyne" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L39]; „This world's Guardian is Cerberus" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L59]; „The Guardians of this world are Kairos and Sophia, complementary forces representing intuition, opportunity, and integrative wisdom." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L79]
 `Erasure-Pol` and `reduced` stand 0 times (`Plan/runs/the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p/05-verify-readers.txt`). The author's decision for five (2026-09-24) stands; this document agrees with row 1's and row 2's count and pairing.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**Row 1's and row 2's side: five named, once by Guardian alone — LogOS, Mnemosyne, Cerberus, Kairos and Sophia sharing the fourth world — no reduction, no pole.**
+„Kernwelt 1 (LogOS): A world of sterile, brutalist architecture, representing the rigid, emotionally avoidant logic of Kael’s Apparently Normal Parts." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1243]
+„Kernwelt 4 (Kairos/Sophia): A "Possibility Garden" of chaotic growth and emergence, representing the potential for creativity, healing, and integration." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1246]
+`Erasure-Pol` and `Wächter` stand 0 times (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`); no reduction is told. The author's decision for five (2026-09-24) stands; this document agrees with row 1's and row 2's count and pairing.

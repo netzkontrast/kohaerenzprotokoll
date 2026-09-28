@@ -4,7 +4,7 @@ subject: the Externe Ebene — beyond the simulation, or not outside it
 kind: one level, placed beyond the simulation by two canon-era sources and denied to be outside it by four, two of them of one date
 status: open
 first_seen: "2026-09-25"
-sources: 10
+sources: 11
 pages: ["externe-ebene"]
 ---
 
@@ -80,3 +80,9 @@ It writes the `Externe Ebene` side's name in English and the worldbuilding conce
 **Neither name and neither side — Juna is an entity of the "Externen Ebene", without placing that level beyond the simulation or denying that it is outside.**
 „Juna ist keine Alterpersönlichkeit, sondern eine externe Entität/Anomalie der "Externen Ebene"." ^[charakter-kompilation-fuer-kohaerenz-protokoll.md:L284]
 `Basisrealität` and `jenseits der Simulation` stand 0 times, `Spiegel` once, in a title it lists (`Plan/runs/charakter-kompilation-fuer-kohaerenz-protokoll/05-verify-readers.txt`); the document names the level only as Juna's own, an anomaly of it, and says nothing of where it sits relative to the simulation. On neither row; the conflict stays open.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**Neither row — the text names the very question this record holds and leaves it open, in English, without Köln 2026 or `Basisrealität`.**
+Juna/V comes from an „External Level" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L25], and „The text deliberately avoids a clear definition." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L27] Its own candidates are a higher dimension of reality, „a different layer of the simulation that AEGIS is unaware of" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L27], or the real world breaking through into the artificial one — the last of which is the row-1 side (beyond the simulation), stated as a live possibility rather than a position taken.
+`Köln`, `Cologne` and `Basisrealität` stand 0 times (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify-readers.txt`), so this speaks to the External Level Juna/V is from rather than naming Köln 2026 itself. On neither row: the document states the question C13 asks rather than answering it. The conflict stays open.

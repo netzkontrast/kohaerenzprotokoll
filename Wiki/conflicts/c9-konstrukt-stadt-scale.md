@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 24
+sources: 25
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -197,3 +197,9 @@ A storyform study reading a NotebookLM corpus, not the novel directly — record
 **KW1, as decided — `Kernwelt 1, the Konstrukt-Stadt`, an English essay naming the same identity the author later confirmed.**
 „Strategically, Kernwelt 1, the Konstrukt-Stadt, serves as the novel's initial reality and the domain of Kael’s "Apparently Normal Parts" (ANPs)." ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L17] Its heading gives KW1 the same Guardian's name: „Kernwelt 1 (KW1) - Logos-Prime" ^[the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p.md:L15].
 Agrees with the author's decision (KW1 only, 2026-09-24). Nothing to change.
+
+## 2026-09-28 — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Inquiry file
+
+**KW1, as decided — `The Construct City`, in English, the same identity the author later confirmed.**
+„KW1: Logos-Prime (The Construct City)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L968]
+`Konstrukt-Stadt` stands 0 times and `Construct City` 5, always naming KW1 alone (`Plan/runs/an-inquiry-into-the-unresolved-questions-and-thematic-tensio/05-verify.txt`, `Sources/terms/an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md`). Agrees with the author's decision (KW1 only, 2026-09-24). Nothing to change.
