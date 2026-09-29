@@ -36,6 +36,82 @@ Built on PR netzkontrast/kohaerenzprotokoll#110: step 1 (`runlog.py`), step 2 (h
 install. A quality sample of documents 32–51 found 11 defects in 119 claims, all corrected
 (`Plan/runs/quality-sample-2026-09-29/`). The pilot of step 4 and step 6's sample are under *Handover*.
 
+**The parked September draft, 2026-09-29:** „The novel in Legacy is Not the quality I
+want". So revising it in place is off the table. Its prose is never a voice reference
+for the book. Whether its ideas come back as research is question B below.
+
+**The plot, 2026-09-29:** „I dont Like that the novel does Not Flow Like a scifi novel - i want
+more Action - its a question of the Plot". In the plan, W2 (the engine) now opens round 1, framed
+as what drives the plot as action. Every treatment paragraph must show a physical event, and the
+treatment gains an escalation ledger per act (the plan, §5).
+
+### Writing the novel — a plan, proposed 2026-09-29
+
+On the author's „Think about how to Write the novel and come up with a plan":
+`Plan/concept/novel-writing-plan_2026-09-29.md`. Nothing in it is decided.
+
+**The plan in brief:**
+
+- **Decide.** Sixteen load-bearing decisions (the Weichen, W1–W16) go to the author in
+  four rounds of four.
+- **Tell.** The story is told plainly and approved act by act: one page, then one
+  paragraph per movement.
+- **Write.** Chapters are written one at a time, each from a derived brief, read by the
+  writing skills and cold, and revised until the author approves it.
+- **Pilot.** Kap 1–3 go first, by hand. Tools are built only from what the pilot used.
+
+**Four questions come first** (its §11 has the options, the case for and against each,
+and the recommendation):
+
+- **A — Who writes the prose?**
+  - *Options:* the session whole chapters (A1); scene by scene on beats the author
+    approved (A2); the author, with the skills critiquing (A3).
+  - *Recommended:* not A1, given the verdict above. Kap 1 by A3, Kap 2 by A2, and Kap 3
+    by whichever the author prefers.
+- **B — The September draft's ideas.**
+  - *Options:* land its premise and drafting record as research, with the 41 chapter
+    files staying parked (B1); leave all of it parked (B2).
+  - *Recommended:* B1. Doran, `A-0001` and the Gegenregister live in that record.
+- **C — Where the book lives.**
+  - *Options:* a new top-level `Novel/`, created with its first decision (C1); inside
+    `Wiki/` (C2); a repository of its own (C3).
+  - *Recommended:* C1.
+- **D — Reading on demand while the book is written.**
+  - *Options:* allowed for the chapter in hand (D1); each document on the author's yes
+    (D2); no reading until the first draft (D3).
+  - *Recommended:* D2. It keeps the author's word of 2026-09-28 intact.
+
+**The writing skills are installed and adapted**, on „Install
+https://github.com/netzkontrast/writing-skills/tree/main into this repo" and „But
+optimieren ihn für dieses repo":
+
+- thirteen skills from upstream, with `writing-skills` as their entry point, in
+  `.agents/skills/`;
+- German rules in `copy-editor`;
+- canon is the author's decisions, never the wiki's readings;
+- findings go under `Plan/runs/writing/`.
+
+**One smoke test ran**, of `copy-editor` on the parked Kap 1 (L48–210):
+`Plan/runs/writing/legacy-kap-01/copy-editor_2026-09-29.md`. It tested the adaptation, not
+the book.
+
+- **It kept the rules.** All 28 of its quotations match their lines, it supplied no rewritten
+  sentence, and it recorded the three locked lines without flagging them.
+- **It found real things in the text:** every closing quotation mark typed as `"`; 204 floor
+  plates to the first junction but 130 at the data node; „das Klick" against the Duden's
+  „der Klick".
+- **It found five defects in the adaptation**, all fixed the same day:
+  - two contradicting instructions on a locked dash;
+  - § numbers the repository cannot look up, now cited by subject;
+  - no guidance on a capital after a colon in mixed cases;
+  - the typewriter `"` not anticipated;
+  - no output path for a test target.
+- **It called the author „die Autorin"**, a gender nothing had stated. The artifact now
+  addresses the author as „du", and `writing-skills` rule 5 requires that of every run.
+
+**Next, if the author says nothing otherwise:** prepare the decision sheets for W1–W4
+and read no new document.
+
 **New from the last eight canon-era documents (2026-09-27, documents 32–39, all English, all 2026-05-08):**
 - **The Guardian-world pairing, again, on the canon's date.** The Narrative Building Blocks report makes
   LogOS, Mnemosyne and Cerberus the carriers of KW1, the Mnemosyne Archipelago and „The Cerberus Labyrinth
@@ -1074,6 +1150,7 @@ Nothing from it is in flight; what it left open is under the headings above.
 
 ## Not open
 
-The novel. The `Legacy/` shelf. Reading the 215 plot outlines landed on
+Drafting the novel, until the author has answered the plan's four questions (*Writing the
+novel — a plan*, above). The `Legacy/` shelf. Reading the 215 plot outlines landed on
 2026-09-26: they are on disk and searchable, and still deferred with the novel
 as reading material. The one `mp3` is a question above, not a backlog.

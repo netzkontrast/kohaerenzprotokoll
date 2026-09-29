@@ -1,7 +1,9 @@
 # Kohärenz Protokoll — working agreement
 
 A German hard-SF novel and its research corpus. **Right now only the wiki is
-being built.** The novel rests.
+being built.** The novel rests. A plan for writing it is proposed and not yet
+decided: `Plan/concept/novel-writing-plan_2026-09-29.md`, whose four questions
+for the author are in `NOW.md`.
 
 **Canon prose is German and is never translated. Engineering and work language
 is English.**
@@ -729,6 +731,42 @@ container. The table at the top of this page says what each component is for;
 `.agents/skills/tools/references/install.md` has every venv, vendored skill and
 third-party tool, how each is installed, and what it may not do (moved there from
 this page on 2026-09-29, decision 015).
+
+### The writing skills
+
+**The writing skills are adapted, not vendored**, on the author's request of
+2026-09-29: „Install https://github.com/netzkontrast/writing-skills/tree/main into
+this repo", then „But optimieren ihn für dieses repo". There are thirteen
+augmentation-only fiction skills from `netzkontrast/writing-skills` commit
+`2fad031982cbbcb00c4da14c2fc9712d2daa78da` (MIT, © Rhymenoceros s. r. o.; the
+licence is in each folder):
+
+- editorial: developmental, line, copy and continuity editor;
+- character: two character-card skills;
+- critique: a beta-reader panel, an agent's first read, a workshop;
+- craft: four drills.
+
+**Their one rule is that no skill writes or rewrites the author's prose.** They
+read, critique, simulate a reader or drill the writer.
+
+Because they were changed, they are this project's skills. Each lives in
+`.agents/skills/<name>/`, with `.claude/skills/<name>` linking to it, and
+`check_skills.py` holds them as it holds `ingest`. A fourteenth skill,
+`writing-skills`, is their entry point: which one to use when, the rules they
+share here, and what was changed.
+
+**What was changed:**
+
+- every description names this book;
+- each `## With Calliope (MCP)` section became `## In this repository`: canon is
+  the author's decisions and approved chapters, never the wiki's readings; findings
+  go to `Plan/runs/writing/`; every line is cited from `grep -n`;
+- `copy-editor` follows the amtliches Regelwerk and the Duden instead of the
+  Chicago Manual of Style.
+
+Every rubric, lens and ladder is upstream's. They are the reading side of
+`Plan/concept/novel-writing-plan_2026-09-29.md`, a proposal the author has not
+yet decided on.
 
 ## Calling a model — the DSPy toolchain
 
