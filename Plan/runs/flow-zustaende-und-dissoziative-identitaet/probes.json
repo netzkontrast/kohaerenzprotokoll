@@ -1,0 +1,291 @@
+{
+  "document": "flow-zustaende-und-dissoziative-identitaet",
+  "drive_id": "1CnmblO7cR5fS8dwq_VBcXNuC7XNhGdDkN9JxKW2KD2E",
+  "step": "probes",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 57,
+  "backslash_escapes": 64,
+  "typographic_marks": 26,
+  "ascii_quotes": 90,
+  "inflection_families": {
+    "psych": [
+      "Psyche",
+      "Psychiaterin",
+      "Psychische",
+      "Psychodynamic",
+      "Psychodynamisch",
+      "Psychologie",
+      "Psychology",
+      "Psychophysiologische",
+      "Psychotherapie",
+      "Psychotherapy",
+      "Psychotraumatologie"
+    ],
+    "neuro": [
+      "Neurobiologie",
+      "Neurobiologische",
+      "Neurochemisches",
+      "Neuroimaging",
+      "Neurophysiological",
+      "Neurophysiologische",
+      "Neuroscience",
+      "Neurosity",
+      "Neurotransmittern",
+      "Neurowissenschaft"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbewusstseins",
+      "Selbstbild",
+      "Selbstfürsorge",
+      "Selbstgefühls",
+      "Selbstkritik",
+      "Selbstreflexion",
+      "Selbstsabotage",
+      "Selbstwirksamkeit",
+      "Selbstüberwachung"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsanteilen",
+      "Identitätsentwürfe",
+      "Identitätsintegration",
+      "Identitätsstörung",
+      "Identitätstransformation",
+      "Identitätszustände"
+    ],
+    "thera": [
+      "THERAPY",
+      "Therapeut",
+      "Therapeuten",
+      "Therapeutic",
+      "Therapeutische",
+      "Therapie",
+      "Therapieraum",
+      "Therapies",
+      "Therapy"
+    ],
+    "traum": [
+      "TRAUMA",
+      "Trauma",
+      "Traumafolgestörungen",
+      "Traumapatienten",
+      "Traumata",
+      "Traumatherapie",
+      "Traumatherapy",
+      "Traumatisierung",
+      "Traumaverarbeitung"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsregulation",
+      "Bewusstseinsveränderungen",
+      "Bewusstseinszustand",
+      "Bewusstseinszustände",
+      "Bewusstseinszuständen"
+    ],
+    "körpe": [
+      "Körper",
+      "Körperbasierte",
+      "Körpergrenzen",
+      "Körperliche",
+      "Körperrepräsentation",
+      "Körpers",
+      "Körperzuständen"
+    ],
+    "unter": [
+      "Unterbrecher",
+      "Unternehmen",
+      "Unternehmenskommunikation",
+      "Unterscheidung",
+      "Untersuchungen",
+      "Unterwerfung"
+    ],
+    "forsc": [
+      "Forscher",
+      "Forschung",
+      "Forschungsbericht",
+      "Forschungsfeld",
+      "Forschungsperspektiven"
+    ],
+    "persö": [
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteilen",
+      "Persönlichkeitsstruktur",
+      "Persönlichkeitsstörung",
+      "Persönlichkeitszuständen"
+    ],
+    "angst": [
+      "Angst",
+      "Angstfreiheit",
+      "Angstprojektionen",
+      "Angstzentrum"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziationen"
+    ],
+    "dämpf": [
+      "Dämpfer",
+      "Dämpfern",
+      "Dämpfung",
+      "Dämpfungs"
+    ],
+    "erleb": [
+      "Erleben",
+      "Erlebens",
+      "Erlebensqualitäten",
+      "Erlebnisse"
+    ],
+    "gegen": [
+      "Gegenständen",
+      "Gegensätze",
+      "Gegenwart",
+      "Gegenüberstellung"
+    ],
+    "gehir": [
+      "Gehirn",
+      "Gehirnhälfte",
+      "Gehirnnetzwerken",
+      "Gehirns"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsabläufe",
+      "Handlungsfähigkeit"
+    ],
+    "imagi": [
+      "Imagination",
+      "Imaginationen",
+      "Imaginationstechniken",
+      "Imaginative"
+    ],
+    "kommu": [
+      "Kommunikation",
+      "Kommunikationsbarrieren",
+      "Kommunikationsstrategie",
+      "Kommunikationsstörungen"
+    ],
+    "kontr": [
+      "Kontrollareale",
+      "Kontrolle",
+      "Kontrollinstanzen",
+      "Kontrollmechanismen"
+    ],
+    "kriti": [
+      "Kritik",
+      "Kritiker",
+      "Kritikers",
+      "Kritikerstimmen"
+    ],
+    "kunst": [
+      "Kunst",
+      "Kunstschaffens",
+      "Kunsttherapeut",
+      "Kunsttherapie"
+    ],
+    "metho": [
+      "Method",
+      "Methode",
+      "Methoden",
+      "Methodische"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auto",
+      "Autotelische"
+    ],
+    [
+      "Auto",
+      "Automatisches"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Selbstbild"
+    ],
+    [
+      "Bild",
+      "Urteilsbildung"
+    ],
+    [
+      "Blut",
+      "Blutdruck"
+    ],
+    [
+      "Blut",
+      "Durchblutung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Erst",
+      "Verstand"
+    ],
+    [
+      "Erst",
+      "Verstehen"
+    ],
+    [
+      "Erst",
+      "Erstarrung"
+    ],
+    [
+      "Erst",
+      "Verstummen"
+    ],
+    [
+      "Erst",
+      "Widerstand"
+    ],
+    [
+      "Erst",
+      "Herstellung"
+    ],
+    [
+      "Erst",
+      "Verständnis"
+    ],
+    [
+      "Erst",
+      "Widerstands"
+    ]
+  ]
+}

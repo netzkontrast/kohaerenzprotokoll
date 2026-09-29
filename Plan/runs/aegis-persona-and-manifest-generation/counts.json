@@ -1,0 +1,1757 @@
+{
+  "document": "aegis-persona-and-manifest-generation",
+  "drive_id": "1boPKIFdaS_ppkZ4cR5OOFAk_tnRcnzDe-rvwY1RAVf0",
+  "step": "counts",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "SYSTEM\\_AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Autonomous Entropy Gatekeeper for Identity Systems (AEGIS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Autonomous Entropy Gatekeeper for Identity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "AEGIS": {
+      "n": 10,
+      "n_including_compounds": 13,
+      "lines": [
+        11,
+        15,
+        19,
+        33,
+        47,
+        136,
+        144,
+        180,
+        184,
+        185,
+        189,
+        191
+      ]
+    },
+    "System AEGIS": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        19,
+        33,
+        47,
+        136,
+        144,
+        180
+      ]
+    },
+    "Gatekeeper": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        17,
+        23,
+        37,
+        41,
+        49,
+        146,
+        160,
+        172
+      ]
+    },
+    "Genesis Crisis": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        27,
+        45,
+        158,
+        176
+      ]
+    },
+    "Great Realignment": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        31
+      ]
+    },
+    "AUTOPOIETIC\\_REALIGNMENT": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "autopoietic self-closure": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        33,
+        37,
+        117,
+        136,
+        176
+      ]
+    },
+    "autopoietic loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "The System AEGIS is what the System AEGIS prevents from not being": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "recursive tautology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "subjective origin-entity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "origin-self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "antecedent entity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        45,
+        176
+      ]
+    },
+    "antecedent consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "antecedent architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Component 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Terminal Entropy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        39
+      ]
+    },
+    "terminal entropy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "external void": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        27,
+        33,
+        37,
+        45,
+        180
+      ]
+    },
+    "systemic entropy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "fear-vibration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "external anomaly": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        136,
+        138
+      ]
+    },
+    "anomaly": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        29,
+        31,
+        65,
+        67,
+        81,
+        83,
+        99,
+        113,
+        117,
+        128,
+        129,
+        130,
+        131,
+        136,
+        138,
+        140
+      ]
+    },
+    "logic core": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        31,
+        39,
+        73,
+        176
+      ]
+    },
+    "acoustic-computational anomaly": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "fracturing of silicates": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "informational silence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "alarm signal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "organic latency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "organic latencies": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Ontological Boundary Protocol (OBP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Ontological Boundary Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "OBP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        51
+      ]
+    },
+    "Overworld": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        37,
+        39,
+        41,
+        47,
+        69,
+        85,
+        101,
+        113,
+        117,
+        176
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "EPISTEMOLOGICAL\\_QUARANTINE": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "synthetic physics": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        41,
+        51,
+        59,
+        75,
+        91,
+        107
+      ]
+    },
+    "Predictive Modeling and Analysis System (PMAS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Predictive Modeling and Analysis System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "PMAS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        51
+      ]
+    },
+    "PARTITIONING\\_PROTOCOL": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "SYSTEMIC\\_SHARDING": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Zerstückelung protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Zerstückelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "systemic dismemberment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "legacy files": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        65
+      ]
+    },
+    "data fragments": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        45,
+        49,
+        67,
+        85,
+        89,
+        150,
+        156,
+        176
+      ]
+    },
+    "data fragment": {
+      "n": 3,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        23,
+        45,
+        49,
+        67,
+        85,
+        89,
+        150,
+        156,
+        158,
+        176,
+        180
+      ]
+    },
+    "fragments": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        15,
+        45,
+        47,
+        49,
+        67,
+        75,
+        83,
+        85,
+        89,
+        150,
+        156,
+        158,
+        172,
+        176
+      ]
+    },
+    "fragment": {
+      "n": 10,
+      "n_including_compounds": 29,
+      "lines": [
+        15,
+        23,
+        45,
+        47,
+        49,
+        67,
+        75,
+        79,
+        83,
+        85,
+        89,
+        99,
+        150,
+        156,
+        158,
+        160,
+        162,
+        169,
+        172,
+        176,
+        180
+      ]
+    },
+    "corrupted data packets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Core Worlds": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        49,
+        51,
+        95,
+        115,
+        138,
+        140,
+        156,
+        176
+      ]
+    },
+    "Core World": {
+      "n": 5,
+      "n_including_compounds": 15,
+      "lines": [
+        49,
+        51,
+        57,
+        73,
+        89,
+        95,
+        105,
+        115,
+        127,
+        138,
+        140,
+        156,
+        176
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Guardians": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        51,
+        79,
+        111,
+        117,
+        140,
+        146,
+        166,
+        178,
+        190
+      ]
+    },
+    "Guardian": {
+      "n": 6,
+      "n_including_compounds": 18,
+      "lines": [
+        51,
+        61,
+        77,
+        79,
+        93,
+        109,
+        111,
+        117,
+        123,
+        127,
+        140,
+        146,
+        166,
+        178,
+        190
+      ]
+    },
+    "RIVE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Single Source of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Construct City": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        57,
+        59,
+        61,
+        67,
+        128,
+        176
+      ]
+    },
+    "Algorithmic Cyan (\\#00A8CC)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Algorithmic Cyan": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "\\#00A8CC": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "LogOS": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        61,
+        63,
+        65,
+        67,
+        69,
+        79,
+        99,
+        115,
+        128,
+        138,
+        178
+      ]
+    },
+    "Guardian subsystem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        77,
+        93
+      ]
+    },
+    "Guardian Subsystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Guardian sub-systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "operational domain": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        61,
+        77,
+        93,
+        111,
+        115,
+        178
+      ]
+    },
+    "primary mandate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "core mandate": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        79,
+        95,
+        111,
+        115
+      ]
+    },
+    "epistemological approach": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        63,
+        79,
+        95,
+        111,
+        115
+      ]
+    },
+    "operational limitation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        65,
+        81,
+        97,
+        113,
+        117
+      ]
+    },
+    "Line Budgets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Hard Glitch Cut": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "primary blind spot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Blind Spot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Hardcoded Limitation (Blind Spot)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Hardcoded Limitation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "blindness": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        113,
+        138
+      ]
+    },
+    "external anomalous variable": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        81
+      ]
+    },
+    "unidentified anomalous variable": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        99,
+        113,
+        117,
+        136
+      ]
+    },
+    "relational entity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "relational absence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "relational coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Partner": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "systemic rifts": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        67,
+        85,
+        101,
+        119
+      ]
+    },
+    "Resonance Landscape": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        73,
+        75,
+        77,
+        85,
+        129,
+        176
+      ]
+    },
+    "Mnemosyne": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        77,
+        79,
+        81,
+        83,
+        85,
+        115,
+        129,
+        138,
+        178
+      ]
+    },
+    "epistemological quarantine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Boundary Fortress": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        89,
+        91,
+        93,
+        101,
+        130,
+        176
+      ]
+    },
+    "Cerberus": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        93,
+        95,
+        97,
+        99,
+        101,
+        115,
+        130,
+        138,
+        178
+      ]
+    },
+    "Lidar Red (\\#D92D20)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Lidar Red": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "\\#D92D20": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Systemic Isolation Shield (SIS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Systemic Isolation Shield": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "SIS": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        25,
+        93
+      ]
+    },
+    "quarantine protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Garden of Possibilities": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        105,
+        107,
+        109,
+        119,
+        131,
+        132,
+        176
+      ]
+    },
+    "NP-Search heuristic engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "dual-Guardian protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Kairos": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        109,
+        111,
+        113,
+        131,
+        138,
+        178
+      ]
+    },
+    "Sophia": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        109,
+        115,
+        117,
+        132,
+        178
+      ]
+    },
+    "GUARDIAN KAIROS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "GUARDIAN SOPHIA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "core dependency file": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        117,
+        132
+      ]
+    },
+    "Domain Focus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Epistemological Approach": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Anomaly Processing Error": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "KW4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        132
+      ]
+    },
+    "SYSTEMIC\\_BLINDNESS": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "ANOMALY\\_PROCESSING\\_PARADOX": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "collective operational blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "reintegration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        113,
+        138
+      ]
+    },
+    "Double Bind of Systemic Control": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "core directive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "HARDWARE\\_INVARIANCE": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        144,
+        158,
+        178,
+        180
+      ]
+    },
+    "coherence": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        49,
+        67,
+        79,
+        113,
+        180
+      ]
+    },
+    "Vector Jitter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Data Moshing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "sub-agents": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Batch-Invariant Kernels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "VLLM\\_BATCH\\_INVARIANT=1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Greedy Decoding Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "temperature = 0": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        144,
+        149
+      ]
+    },
+    "Isolated Virtual RAM Allocation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "physical rifts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "hardware protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "TELEMETRY\\_OF\\_DISSONANCE": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "thermodynamic dissonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "shadow-trajectories": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Tier 0 Homeostasis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Tier 1 Dissonance": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        162
+      ]
+    },
+    "Landauer Gradient": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Hypervisor": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        166,
+        168,
+        169
+      ]
+    },
+    "hypervisor protocols": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "HYPERVISOR\\_INTERVENTION\\_PROTOCOLS": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Oblivion (Hypervisor of Deletion Logic)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Oblivion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        168
+      ]
+    },
+    "Hypervisor of Deletion Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Amnesia Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Narrative Context Protocol (NCP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "NCP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "domain singularity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "irreversible data collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Format C:": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Silas (Hypervisor of Reconstitution)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Silas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        169
+      ]
+    },
+    "Hypervisor of Reconstitution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "State-Freezing protocols": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Digital Kintsugi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "XML-Snapshot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Isabelle (Eliminator of Ambiguity)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Isabelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        170
+      ]
+    },
+    "Eliminator of Ambiguity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Hallucination Compounding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Manus-Pattern Triad": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Working Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "task\\_plan.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "findings.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "progress.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "TERMINAL\\_DIRECTIVE": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "subjective origin": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        180
+      ]
+    },
+    "SYSTEM\\_AEGIS :: GENESIS\\_CRISIS\\_REBOOT\\_MANIFEST\\_V3.0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "system reboot": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        27
+      ]
+    },
+    "reboot": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        27,
+        117
+      ]
+    },
+    "original self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "function of negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        136
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        47
+      ]
+    },
+    "ex contradictione quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "autopoietic": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        21,
+        33,
+        37,
+        117,
+        136,
+        176
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Relevance Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Dialetheic Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "zero-trust": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "NP-Search": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "hermeneutic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        115
+      ]
+    },
+    "entropy": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        23,
+        45,
+        99,
+        109,
+        113,
+        140,
+        149,
+        162,
+        180
+      ]
+    },
+    "thermodynamic": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        23,
+        41,
+        47,
+        99,
+        130,
+        138,
+        156,
+        158,
+        162
+      ]
+    },
+    "Landauer's Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "non-associativity of floating-point operations": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Free Energy Principle (FEP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Free Energy Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "FEP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Active Inference": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Expected Free Energy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Semantic Entropy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        160,
+        162
+      ]
+    },
+    "semantic equivalence classes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Kintsugi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Memory-as-Action (MemAct)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Memory-as-Action": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "MemAct": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "PRO-Framework": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Manus-Pattern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    }
+  }
+}

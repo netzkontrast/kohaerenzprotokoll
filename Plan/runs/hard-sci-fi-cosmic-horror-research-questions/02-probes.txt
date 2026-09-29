@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      122
+  backslash escapes      190
+  typographic marks      66
+  ascii quotes           350
+
+# inflection families -- one term, several surfaces
+  monst    Monster, Monsters, Monstrosities, Monstrous
+  theor    Theorems, Theoretical, Theories, Theory
+  alien    Alien, Alienation, Aliens
+  archi    Architecture, Architectures, Archive
+  belie    Belief, Beliefs, Believed
+  elimi    Eliminative, Eliminativism, Eliminativist
+  integ    Integral, Integrated, Integration
+  inter    Internal, Interpretation, Intertextuality
+  narra    Narrative, Narratively, Narratives
+  neuro    NEUROTHEOLOGY, Neuroscience, Neurotheology
+  paper    Paperback, Paperclip, Paperclips
+  psych    Psyche, Psychology, Psychosocial
+  reali    Realism, Reality, Realizing
+  repre    Representation, Representations, Represents
+  unive    Universal, Universe, University
+  abstr    Abstract, Abstraction
+  apoca    Apocalypse, Apocalypses
+  biolo    Biologist, Biology
+  black    Blackmail, Blackmailed
+  blind    Blind, Blindsight
+  brain    Brain, Brains
+  break    Breakdown, Breaks
+  cogni    Cognition, Cognitive
+  conce    Concept, Concepts
+  const    Constraint, Constructor
+
+# substring pairs -- never one term, often merged by accident
+  Dark < Darko
+  Dark < Darkly
+  Deep < Deepfakes
+  Dust < Stardust
+  Free < Cfree
+  Full < FullRightsDilemma
+  Math < Mathematics
+  Math < Mathematical
+  Meta < Metaphorical
+  More < Furthermore
+  Open < Opening
+  Plot < Plotanalyse
+  Post < Postmillennial
+  Self < SelfAwarePatterns
+  Star < Stardust
+  Star < Starting
+  This < Anthis
+  Alien < Aliens
+  Alien < Alienation
+  Blind < Blindsight

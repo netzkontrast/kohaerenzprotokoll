@@ -1,0 +1,491 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "drive_id": "15oVqKg3T2X5onbUf0vtGh6yYcpSnRxLrP99m8SHrliI",
+  "step": "counts",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Foreshadowing-Strategie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Beobachter-Instanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "finalen Twist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Kael": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        13,
+        17,
+        19,
+        20,
+        21,
+        34,
+        39,
+        41,
+        42,
+        48,
+        49,
+        53
+      ]
+    },
+    "Manifestation des Lesers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Zuklappen des Buches": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        28,
+        46
+      ]
+    },
+    "Glitch-Momente": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Stasis-Lücken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Teil 1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        30
+      ]
+    },
+    "Konstrukt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "getaktet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Das Foreshadowing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        27,
+        34
+      ]
+    },
+    "Die Meta-Erklärung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        20,
+        28
+      ]
+    },
+    "Leser": {
+      "n": 6,
+      "n_including_compounds": 10,
+      "lines": [
+        13,
+        20,
+        28,
+        32,
+        35,
+        42,
+        49,
+        53
+      ]
+    },
+    "Große Stille": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Jemand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Höhere Metrik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Teil 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "AEGIS": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        23,
+        25,
+        27,
+        28,
+        54
+      ]
+    },
+    "Verwalter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "autonomer Gott": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Signal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Statusberichten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Primären Beobachtungs-Einheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Externen Taktgeber": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "harten Maßnahmen (das Kohärenz Protokoll)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Einheit": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        27
+      ]
+    },
+    "System": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        28,
+        35,
+        58
+      ]
+    },
+    "Ordnungssucht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "den Leser (den Beobachter)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Beobachter": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        28,
+        35,
+        58
+      ]
+    },
+    "Aufmerksamkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        48
+      ]
+    },
+    "Energie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "„Aufmerksamkeit“ (Energie)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Rendering-Grenzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Teil 1 & 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "beschrieben": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Textfragmente": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "des Beobachters (des Lesers)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Juna-Spiegelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Teil 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        39,
+        41
+      ]
+    },
+    "da draußen jemand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Sonde": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Werkzeug": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Lese-Abhängigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Das finale Kapitel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Kapitel 39": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Gedanke eines Fremden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Du": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "AEGIS-Protokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Beobachtungsstatus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Beobachter-Fokus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "System-Abschaltung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Grenzen der Mathematik und Physik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "unentscheidbar": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Dissoziation (seine Trennung von der Welt)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Trauma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Wärmetod des Universums": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "„Wärmetod des Universums“ (Entropie)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    }
+  }
+}

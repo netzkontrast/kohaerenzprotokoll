@@ -1,0 +1,2186 @@
+{
+  "document": "angst-bei-komplexen-traumafolgen",
+  "drive_id": "15n2apvMTmWxmtmXR6GExS80DlB07I4ETQAyzCXqTXIk",
+  "step": "counts",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Angst-Arten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "komplexen Traumafolgestörungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        55
+      ]
+    },
+    "multidimensionale Taxonomie der Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "komplexen posttraumatischen Belastungsstörung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        15
+      ]
+    },
+    "kPTBS": {
+      "n": 22,
+      "n_including_compounds": 30,
+      "lines": [
+        15,
+        17,
+        21,
+        29,
+        51,
+        53,
+        63,
+        67,
+        73,
+        85,
+        91,
+        101,
+        103,
+        107,
+        113,
+        120,
+        128,
+        134,
+        138,
+        142,
+        148,
+        152,
+        162,
+        175,
+        181,
+        187,
+        201
+      ]
+    },
+    "Posttraumatische Belastungsstörung": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        202,
+        222,
+        240,
+        241,
+        246,
+        248,
+        253
+      ]
+    },
+    "PTBS": {
+      "n": 22,
+      "n_including_compounds": 55,
+      "lines": [
+        15,
+        17,
+        21,
+        29,
+        33,
+        39,
+        43,
+        51,
+        53,
+        63,
+        67,
+        73,
+        77,
+        85,
+        91,
+        97,
+        101,
+        103,
+        107,
+        113,
+        120,
+        128,
+        134,
+        138,
+        142,
+        148,
+        152,
+        162,
+        172,
+        175,
+        176,
+        181,
+        185,
+        187,
+        201,
+        203,
+        222,
+        240,
+        241,
+        247,
+        253
+      ]
+    },
+    "ICD-11": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        199
+      ]
+    },
+    "Internationalen Klassifikation der Krankheiten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Psychotraumatologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        162
+      ]
+    },
+    "Traumafolgestörungen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        15,
+        19,
+        55
+      ]
+    },
+    "Disorders of Self-Organization": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "DSO": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        67,
+        103,
+        138,
+        160,
+        172,
+        175
+      ]
+    },
+    "Störungen der Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "emotionalen Dysregulation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        91
+      ]
+    },
+    "negativen Selbstkonzept": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "interpersonellen Beziehungsstörungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Bindungsängsten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Hyperarousal": {
+      "n": 14,
+      "n_including_compounds": 16,
+      "lines": [
+        15,
+        39,
+        51,
+        57,
+        59,
+        63,
+        99,
+        118,
+        122,
+        132,
+        181,
+        185,
+        187,
+        212
+      ]
+    },
+    "Intrusionen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        33,
+        129
+      ]
+    },
+    "Flashbacks": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        33,
+        39,
+        154,
+        187,
+        193
+      ]
+    },
+    "Vermeidungsverhalten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        65,
+        73
+      ]
+    },
+    "Coping": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        117
+      ]
+    },
+    "Angst": {
+      "n": 36,
+      "n_including_compounds": 52,
+      "lines": [
+        11,
+        21,
+        23,
+        25,
+        37,
+        39,
+        43,
+        45,
+        53,
+        55,
+        59,
+        61,
+        63,
+        65,
+        67,
+        79,
+        83,
+        85,
+        87,
+        89,
+        91,
+        97,
+        99,
+        103,
+        120,
+        122,
+        129,
+        131,
+        162,
+        166,
+        168,
+        181,
+        187,
+        191,
+        193,
+        195,
+        232,
+        243
+      ]
+    },
+    "Furcht": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        21,
+        25,
+        29,
+        31,
+        63,
+        67,
+        71,
+        77,
+        91,
+        93
+      ]
+    },
+    "Bindungstraumata": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        177
+      ]
+    },
+    "Amygdala-Komplex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "basolateralen Komplex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29
+      ]
+    },
+    "BLA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "präfrontale Kortex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "PFC": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        33,
+        156
+      ]
+    },
+    "anteriore cinguläre Kortex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "ACC": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        33
+      ]
+    },
+    "Furchtextinktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Furchtkonditionierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Salienz-Netzwerk": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "SN": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        181
+      ]
+    },
+    "Default Mode Network": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "DMN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Hippocampus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33
+      ]
+    },
+    "HPA-Achse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37
+      ]
+    },
+    "Nucleus paraventricularis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "PVN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Yohimbin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Allopregnanolon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Stress-Lernen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "ANS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Neurozeption": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        43,
+        51,
+        148
+      ]
+    },
+    "Toleranzfenster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "ventrale Vagalkomplex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "dorsale Vagalkomplex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Vagalkomplex": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        47,
+        49,
+        71,
+        99,
+        148
+      ]
+    },
+    "sympathische Nervensystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Mobilisation/Kampf-oder-Flucht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Mobilisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Kampf-oder-Flucht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Immobilisation/Freeze/Shutdown": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Immobilisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49
+      ]
+    },
+    "Freeze": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        49,
+        51,
+        71,
+        118,
+        152
+      ]
+    },
+    "Shutdown": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        118,
+        156
+      ]
+    },
+    "Sicherheit und soziale Verbundenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Totstellreflex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Numbing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        93,
+        118
+      ]
+    },
+    "Dissoziation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        93
+      ]
+    },
+    "Fear Paradigm": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        63
+      ]
+    },
+    "Furcht-Paradigma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "somatische Hyperarousal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Trigger": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        118,
+        130,
+        218
+      ]
+    },
+    "emotionaler Flashback": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Hypoarousal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Hypervigilanz": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        73,
+        132,
+        183,
+        185,
+        245
+      ]
+    },
+    "Maskierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Normal-Sein-Wollen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Acting-in": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "toxische Scham": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        114,
+        160
+      ]
+    },
+    "toxischer Scham": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        67,
+        91,
+        131,
+        193
+      ]
+    },
+    "schambasierte soziale Angst": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        122
+      ]
+    },
+    "inneren Kritiker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "innere Kritiker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Bindungsangst": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        79,
+        175
+      ]
+    },
+    "relationale Traumatisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Bindungssystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "desorganisierten Bindungsstil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Abandonment Anxiety": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Fear of Intimacy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Verlassenheitsangst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Angst vor dem Verlassenwerden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Angst vor Nähe und Intimität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Trauma Bonds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "traumatischen Bindungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Self-Abandonment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Selbstverrat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "existenzielle Angst": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        87
+      ]
+    },
+    "Assumptive World": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        87
+      ]
+    },
+    "Mortalitätssalienz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Angst vor dem Kontrollverlust": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "emotionale Taubheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Depersonalisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Derealisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        118
+      ]
+    },
+    "Akkulturationsstress": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Differenzialdiagnostik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "generalisierte Angststörungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "GAD": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        103,
+        122,
+        128,
+        129
+      ]
+    },
+    "Borderline-Persönlichkeitsstörung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        103,
+        107,
+        113,
+        201
+      ]
+    },
+    "BPS": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        103,
+        107,
+        113,
+        176,
+        201
+      ]
+    },
+    "somatoformen Störungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Trauma-Trias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "International Trauma Questionnaire": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "ITQ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "International Trauma Interview": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "ITI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Stephen Porges": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Jennifer Freyd": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Ronnie Janoff-Bulman": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Klinische Dimension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Komplexe PTBS (kPTBS)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        128
+      ]
+    },
+    "Komplexe PTBS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        113,
+        128,
+        203
+      ]
+    },
+    "komplexe PTBS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        201
+      ]
+    },
+    "komplexen PTBS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        97,
+        138,
+        172
+      ]
+    },
+    "Borderline-Persönlichkeitsstörung (BPS)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        107,
+        113
+      ]
+    },
+    "Beziehungsmuster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Disconnection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Verlassensangst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Impulsivität & Suizidalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Emotionsregulation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        118,
+        175,
+        176
+      ]
+    },
+    "Diagnostisches Kriterium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "GAD / Panikstörung / Soziale Phobie (SAD)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Generalisierten Angststörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Panikstörung": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        103,
+        122,
+        128,
+        129,
+        232
+      ]
+    },
+    "Soziale Phobie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        232
+      ]
+    },
+    "sozialen Phobie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "SAD": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        129
+      ]
+    },
+    "Kognitiver Fokus der Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Auslöser (Trigger)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Qualität der sozialen Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Natur des Hyperarousals": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "kPTBS-Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "primären Angststörungen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        120,
+        193
+      ]
+    },
+    "Expositionstherapien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "S3-Leitlinien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "AWMF": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        138,
+        246
+      ]
+    },
+    "phasenorientierte Therapiemodell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "relationale Sicherheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Sicherheit und Stabilisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        144,
+        148
+      ]
+    },
+    "Safety and Stabilization": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        144,
+        251,
+        257
+      ]
+    },
+    "Traumaexposition und -bearbeitung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Trauma Processing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Integration und Neuorientierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Integration and Meaning-making": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "therapeutische Allianz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Reparenting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "inneren Kindes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "erarbeitete sichere Bindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "earned secure attachment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Neuro-somatische Stabilisierungstechniken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Affektregulation": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        162
+      ]
+    },
+    "Erdungs- und Reorientierungstechniken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Erdungs- und Reorientierungstechniken im Hier und Jetzt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "5-4-3-2-1-Methode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Tauchreflex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Imaginative Distanzierung und Affektkontrolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Screen-Technik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Tresor-Übung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Psychoedukation und Entpathologisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Psychoedukation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Entpathologisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Schamspezifische Interventionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Compassion-Focused Therapy (CFT)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        158,
+        160,
+        261
+      ]
+    },
+    "Compassion-Focused Therapy": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        158,
+        160,
+        195,
+        260,
+        261
+      ]
+    },
+    "CFT": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        158,
+        160,
+        162,
+        261
+      ]
+    },
+    "Paul Gilbert": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Affektregulationssysteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Bedrohungssystem (Threat/Amygdala)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Bedrohungssystem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        162
+      ]
+    },
+    "Threat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Antriebssystem (Drive/Dopamin)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Antriebssystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Drive": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        214
+      ]
+    },
+    "Beruhigungs- und Fürsorgesystem (Soothing System/Oxytocin und Opiate)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Beruhigungssystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Soothing System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "mitfühlenden Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Compassionate Self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Selbst-Mitgefühls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Selbstmitgefühl": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "schmutzige kleine Geheimnis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Humanistisch-Existenzielle Perspektiven": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "existenzialistisch-humanistischen Psychotherapie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Kirk Schneider": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Accelerated Experiential Dynamic Psychotherapy (AEDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "AEDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Traumafokussierte und integrative Expositionsverfahren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "fokussierte Traumabearbeitung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Affekttoleranz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "EMDR (Eye Movement Desensitization and Reprocessing)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "EMDR": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        174,
+        195,
+        247
+      ]
+    },
+    "Eye Movement Desensitization and Reprocessing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "STAIR-NT (Skills Training in Affective and Interpersonal Regulation - Narrative Therapy)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "STAIR-NT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Skills Training in Affective and Interpersonal Regulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Narrative Expositionstherapie (NET)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Narrative Expositionstherapie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "NET": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        175,
+        195
+      ]
+    },
+    "DBT-PTBS / DBT-TF": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "DBT-PTBS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "DBT-TF": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Dialektisch-Behavioralen Therapie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "MBT-TF (Mentalisierungsbasierte Therapie für Trauma)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "MBT-TF": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Mentalisierungsbasierte Therapie für Trauma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Pharmakologische Interventionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Prazosin": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        179,
+        183,
+        185,
+        187,
+        195,
+        223,
+        270,
+        271,
+        273
+      ]
+    },
+    "selektive Serotonin-Wiederaufnahmehemmer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "SSRI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Serotonin-Noradrenalin-Wiederaufnahmehemmer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "SNRI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Sertralin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Paroxetin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Venlafaxin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Cluster-D-Symptome": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Alpha-1-Blockade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "polyvagale Komplex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Bindungsstörungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Desorganisationsmuster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "schambasierte soziale Vermeidungsangst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Vermeidungsangst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "emotionalen Flashbacks": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        154,
+        193
+      ]
+    },
+    "Retraumatisierungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Traumanetzwerke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "neuro-somatischer Stabilisierungsverfahren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "schamfokussierte Ansätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "existenzialistisch-humanistische Ansätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "komplexen Posttraumatischen Belastungsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Traumafolgen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Trauma-Bonds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Sympathikusdominanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "dorsale Vagusdominanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "sympathische Hyperarousal": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        99,
+        185
+      ]
+    },
+    "traumatische Hyperarousal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "traumabedingte Hyperarousal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "traumabedingte Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "traumabedingten Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "traumatischen Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "soziale Angst": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        65,
+        67,
+        122
+      ]
+    },
+    "Soziale Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "sekundäre Scham": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Kernemotion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Defekthaftigkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        129
+      ]
+    },
+    "Selbstkritik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        160,
+        162
+      ]
+    },
+    "Dysregulation": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        27,
+        37,
+        39,
+        43,
+        91,
+        212
+      ]
+    },
+    "Scham": {
+      "n": 16,
+      "n_including_compounds": 20,
+      "lines": [
+        15,
+        65,
+        67,
+        69,
+        71,
+        73,
+        91,
+        114,
+        115,
+        131,
+        156,
+        158,
+        160,
+        162,
+        193,
+        228,
+        233
+      ]
+    },
+    "Verrat": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        75,
+        77,
+        79,
+        131,
+        148
+      ]
+    },
+    "Grundannahmen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        85,
+        166,
+        191
+      ]
+    },
+    "Grundüberzeugungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Abgrenzungsspektrum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Interkulturelle und soziopolitische Kontexte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Flucht und Migration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "prä-migratorische Traumatisierungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "post-migratorischen Stressoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Weltgesundheitsorganisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        17
+      ]
+    },
+    "Erdbeben von L'Aquila": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Polyvagal-Theorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        43,
+        45
+      ]
+    },
+    "Window of Tolerance": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        41,
+        51,
+        152,
+        195,
+        216,
+        218,
+        219
+      ]
+    },
+    "Betrayal Trauma Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Theorie des Verratstraumas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Shattered Assumptions": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        85,
+        166,
+        208,
+        224
+      ]
+    },
+    "zerbrochene Grundannahmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Terror-Management-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    }
+  }
+}

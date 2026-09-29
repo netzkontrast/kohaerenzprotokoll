@@ -1,0 +1,336 @@
+{
+  "document": "angst-bei-komplexen-traumafolgen",
+  "drive_id": "15n2apvMTmWxmtmXR6GExS80DlB07I4ETQAyzCXqTXIk",
+  "step": "probes",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 80,
+  "backslash_escapes": 64,
+  "typographic_marks": 16,
+  "ascii_quotes": 82,
+  "inflection_families": {
+    "traum": [
+      "Trauma",
+      "Traumaarbeit",
+      "Traumabearbeitung",
+      "Traumacurriculum",
+      "Traumaerinnerung",
+      "Traumaerinnerungen",
+      "Traumaexposition",
+      "Traumafokussierte",
+      "Traumafolge",
+      "Traumafolgen",
+      "Traumafolgestörung",
+      "Traumafolgestörungen",
+      "Traumaforschung",
+      "Traumaheilung",
+      "Traumamaterial",
+      "Traumanetzwerke",
+      "Traumapatienten",
+      "Traumas",
+      "Traumasymptome",
+      "Traumata",
+      "Traumatherapie",
+      "Traumatic",
+      "Traumatische",
+      "Traumatisierung",
+      "Traumatisierungen",
+      "Trauminhalte"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatrie",
+      "Psychiatrische",
+      "Psychiatrist",
+      "Psychiatrists",
+      "Psychiatry",
+      "Psychoedukation",
+      "Psychological",
+      "Psychologie",
+      "Psychologin",
+      "Psychologischer",
+      "Psychology",
+      "Psychotherapeuten",
+      "Psychotherapeutic",
+      "Psychotherapie",
+      "Psychotherapy",
+      "Psychotraumatologie",
+      "Psychotraumatology"
+    ],
+    "neuro": [
+      "Neuro",
+      "Neurobiologie",
+      "Neurobiologisch",
+      "Neurobiologische",
+      "Neurobiology",
+      "Neurochemische",
+      "Neurogenese",
+      "Neuroplastizität",
+      "Neuroscience",
+      "Neuroscientific",
+      "Neurowissenschaftlers",
+      "Neurozeption"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstangriff",
+      "Selbstbildes",
+      "Selbstkonzept",
+      "Selbstkritik",
+      "Selbstmitgefühl",
+      "Selbstorganisation",
+      "Selbstregulation",
+      "Selbstverrat",
+      "Selbstwahrnehmung"
+    ],
+    "affek": [
+      "Affektabstimmung",
+      "Affektdruck",
+      "Affektdynamik",
+      "Affekte",
+      "Affektkontrolle",
+      "Affektregulation",
+      "Affektregulationssysteme",
+      "Affekts",
+      "Affekttoleranz"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungen",
+      "Bindungsangst",
+      "Bindungsbeziehungen",
+      "Bindungsstil",
+      "Bindungsstörungen",
+      "Bindungssystem",
+      "Bindungstraumata",
+      "Bindungsängsten"
+    ],
+    "unter": [
+      "Unterbrechung",
+      "Unterdiagnosen",
+      "Unterdiagnostizierung",
+      "Unterdrücken",
+      "Unterschieden",
+      "Unterschwellige",
+      "Unterstützung",
+      "Unterstützungssysteme",
+      "Unterversorgung"
+    ],
+    "angst": [
+      "Angst",
+      "Angstreaktionen",
+      "Angststörung",
+      "Angststörungen",
+      "Angstsymptomatik",
+      "Angstsymptome",
+      "Angstzustand",
+      "Angstzustände"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interessanterweise",
+      "Interkulturelle",
+      "International",
+      "Internationalen",
+      "Interpersonal",
+      "Interventionen",
+      "Interview"
+    ],
+    "thera": [
+      "Therapeut",
+      "Therapeutic",
+      "Therapie",
+      "Therapieabbrüchen",
+      "Therapiekonzept",
+      "Therapiemodell",
+      "Therapies",
+      "Therapy"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensbedrohung",
+      "Lebensführung",
+      "Lebensgestaltung",
+      "Lebensrealit",
+      "Lebensrealität"
+    ],
+    "sympt": [
+      "Symptom",
+      "Symptomatik",
+      "Symptome",
+      "Symptomen",
+      "Symptomreduktion",
+      "Symptoms"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen",
+      "Beziehungsaufbau",
+      "Beziehungsmuster",
+      "Beziehungsstörungen"
+    ],
+    "expos": [
+      "Exposition",
+      "Expositionsbehandlungen",
+      "Expositionstherapie",
+      "Expositionstherapien",
+      "Expositionsverfahren"
+    ],
+    "furch": [
+      "Furcht",
+      "Furchtextinktion",
+      "Furchtkonditionierung",
+      "Furchtreaktion",
+      "Furchtzentren"
+    ],
+    "hyper": [
+      "Hyperarousal",
+      "Hyperarousals",
+      "Hyperreaktivität",
+      "Hypertonie",
+      "Hypervigilanz"
+    ],
+    "panik": [
+      "Panik",
+      "Panikattacke",
+      "Panikreaktionen",
+      "Panikstörung",
+      "Panikstörungen"
+    ],
+    "relat": [
+      "Related",
+      "Relational",
+      "Relationship",
+      "Relationships",
+      "Relative"
+    ],
+    "stabi": [
+      "Stabilisation",
+      "Stabilisierung",
+      "Stabilisierungstechniken",
+      "Stabilisierungsverfahren",
+      "Stabilization"
+    ],
+    "stres": [
+      "Stress",
+      "Stressantwort",
+      "Stresses",
+      "Stressoren",
+      "Stresstoleranz"
+    ],
+    "bedro": [
+      "Bedrohlichkeit",
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungssystem"
+    ],
+    "belas": [
+      "Belastende",
+      "Belastungsst",
+      "Belastungsstoerung",
+      "Belastungsstörung"
+    ],
+    "chron": [
+      "Chronifizierung",
+      "Chronisch",
+      "Chronische",
+      "Chronischer"
+    ],
+    "diagn": [
+      "Diagnose",
+      "Diagnosekriterien",
+      "Diagnostik",
+      "Diagnostisches"
+    ],
+    "dopam": [
+      "Dopamin",
+      "Dopaminausschüttungen",
+      "Dopaminrezeptoren",
+      "Dopaminsystems"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Bildschirm"
+    ],
+    [
+      "Bild",
+      "Weltbilder"
+    ],
+    [
+      "Bild",
+      "Selbstbildes"
+    ],
+    [
+      "Bild",
+      "Störungsbildern"
+    ],
+    [
+      "Bild",
+      "Gedächtnisbildung"
+    ],
+    [
+      "Bild",
+      "Bildgebungsstudien"
+    ],
+    [
+      "Blut",
+      "Blutdruck"
+    ],
+    [
+      "Blut",
+      "Blutflusses"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Ende",
+      "Belastende"
+    ],
+    [
+      "Ende",
+      "Überlebenden"
+    ],
+    [
+      "Ende",
+      "Sinnstiftende"
+    ],
+    [
+      "Enge",
+      "Menschenmengen"
+    ],
+    [
+      "Erst",
+      "Verstand"
+    ],
+    [
+      "Erst",
+      "Verständnis"
+    ],
+    [
+      "Erst",
+      "Verstärkung"
+    ]
+  ]
+}

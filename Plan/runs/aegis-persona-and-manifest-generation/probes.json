@@ -1,0 +1,209 @@
+{
+  "document": "aegis-persona-and-manifest-generation",
+  "drive_id": "1boPKIFdaS_ppkZ4cR5OOFAk_tnRcnzDe-rvwY1RAVf0",
+  "step": "probes",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 10,
+  "backslash_escapes": 149,
+  "typographic_marks": 32,
+  "ascii_quotes": 22,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "SYSTEMIC",
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "guard": [
+      "GUARDIAN",
+      "GUARDIANS",
+      "Guardian",
+      "Guardians"
+    ],
+    "proto": [
+      "PROTOCOL",
+      "PROTOCOLS",
+      "Protocol",
+      "Protokoll"
+    ],
+    "world": [
+      "WORLD",
+      "WORLDS",
+      "World",
+      "Worlds"
+    ],
+    "anoma": [
+      "ANOMALY",
+      "Anomalies",
+      "Anomaly"
+    ],
+    "invar": [
+      "INVARIANCE",
+      "INVARIANT",
+      "Invariant"
+    ],
+    "parad": [
+      "PARADOX",
+      "Paradox",
+      "Paradoxien"
+    ],
+    "reali": [
+      "REALIGNMENT",
+      "Realignment",
+      "Reality"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "batch": [
+      "BATCH",
+      "Batch"
+    ],
+    "blind": [
+      "BLINDNESS",
+      "Blind"
+    ],
+    "bound": [
+      "BOUNDARY",
+      "Boundary"
+    ],
+    "cerbe": [
+      "CERBERUS",
+      "Cerberus"
+    ],
+    "city": [
+      "CITY",
+      "City"
+    ],
+    "compo": [
+      "Component",
+      "Compounding"
+    ],
+    "const": [
+      "CONSTRUCT",
+      "Construct"
+    ],
+    "core": [
+      "CORE",
+      "Core"
+    ],
+    "crisi": [
+      "CRISIS",
+      "Crisis"
+    ],
+    "disso": [
+      "DISSONANCE",
+      "Dissonance"
+    ],
+    "entro": [
+      "Entropiegleichung",
+      "Entropy"
+    ],
+    "epist": [
+      "EPISTEMOLOGICAL",
+      "Epistemological"
+    ],
+    "fortr": [
+      "FORTRESS",
+      "Fortress"
+    ],
+    "garde": [
+      "GARDEN",
+      "Garden"
+    ],
+    "genes": [
+      "GENESIS",
+      "Genesis"
+    ],
+    "hyper": [
+      "HYPERVISOR",
+      "Hypervisor"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "CITY",
+      "City"
+    ],
+    [
+      "CORE",
+      "Core"
+    ],
+    [
+      "Free",
+      "Freezing"
+    ],
+    [
+      "Hard",
+      "HARDWARE"
+    ],
+    [
+      "Hard",
+      "SHARDING"
+    ],
+    [
+      "Hard",
+      "Hardcoded"
+    ],
+    [
+      "Kern",
+      "Kernels"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Spec",
+      "SPECIFICATION"
+    ],
+    [
+      "Spec",
+      "Specification"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "BATCH",
+      "Batch"
+    ],
+    [
+      "Blind",
+      "BLINDNESS"
+    ],
+    [
+      "LOGOS",
+      "LogOS"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "EPISTEMOLOGICAL"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "WORLD",
+      "World"
+    ],
+    [
+      "WORLD",
+      "WORLDS"
+    ],
+    [
+      "WORLD",
+      "Worlds"
+    ]
+  ]
+}

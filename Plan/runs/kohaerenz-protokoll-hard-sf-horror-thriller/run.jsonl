@@ -1,0 +1,5 @@
+{"event": "start", "phase": "read", "at": "2026-09-29T18:25:38+00:00"}
+{"event": "end", "phase": "read", "at": "2026-09-29T18:37:59+00:00"}
+{"event": "start", "phase": "list", "at": "2026-09-29T18:37:59+00:00"}
+{"event": "end", "phase": "list", "at": "2026-09-29T18:40:27+00:00"}
+{"event": "start", "phase": "count", "at": "2026-09-29T18:40:27+00:00"}
