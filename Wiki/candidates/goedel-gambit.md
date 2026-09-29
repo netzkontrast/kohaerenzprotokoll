@@ -24,8 +24,9 @@ What breaks through it is not a statement Kael formulates but Juna's echo, arriv
 
 ## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15
 
-English, and several papers in one file, so the Gambit is described in six
-sections that repeat one another (L300, L453, L813, L1143, L1250, L1373, L1796).
+English, and several papers in one file, so the Gambit is described in eight
+sections that repeat one another (L300, L453, L600, L813, L1143, L1250, L1373, L1796), two of them
+standing twice in the file's duplicated reports (L726, L1511).
 A climax of logic: „The final confrontation is not a battle of force, but of logic, termed the" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L302] Gambit.
 „Kael, now operating in his fully integrated state of functional multiplicity, presents the fact of his existence—a stable system that thrives by embracing contradiction—directly to AEGIS's core programming." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L302]
 It is a checkmate: „This is our epistemological checkmate." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L460] Kael is
