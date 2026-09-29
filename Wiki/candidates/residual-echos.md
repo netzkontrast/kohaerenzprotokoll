@@ -1,10 +1,10 @@
 ---
 term: Residual-Echos
 status: candidate
-sources: 4
+sources: 6
 readings: 4
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-25"
 ---
 

@@ -440,7 +440,7 @@ read after that, made it three.
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **177 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **4322 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **4339 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
