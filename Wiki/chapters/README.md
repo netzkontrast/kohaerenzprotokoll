@@ -48,14 +48,15 @@ After `## Where the sources differ`:
   census that a vector search for those questions returned, and which
   questions returned each. A place to look, never a claim or a number.
 
-- `## Raw qmd answers` — every question as it was sent, with the first hits the
-  search returned for it, read documents included, each snippet in a ```` ```qmd ````
-  fence with its file line numbers. Raw search output copied by code from the
-  source files: no hit is a reading or a quotation.
+- `## Raw qmd answers` — one line linking to
+  `Plan/runs/qmd-chapters-2026-09-26/raw/kap-NN.md`, where every question stands as it
+  was sent with the first hits the search returned for it, read documents included,
+  each snippet in a ```` ```qmd ```` fence with its file line numbers. Raw search
+  output copied by code from the source files: no hit is a reading or a quotation.
 
-`scripts/chapter_sources.py write` replaces all four whole. They carry no
-citation, and `quotes.py` skips a ```` ```qmd ```` fence — only that one — so
-neither it nor `chapters.py` sees anything in them.
+`scripts/chapter_sources.py write` replaces all four whole and writes the raw file.
+They carry no citation, and `quotes.py` skips a ```` ```qmd ```` fence — only that
+one — in the raw file, so neither it nor `chapters.py` sees anything in them.
 
 ## Frontmatter
 

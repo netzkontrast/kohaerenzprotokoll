@@ -284,16 +284,17 @@ def numbered(snippet: str) -> list[str]:
     return [f"L{start + i:<5} {line.replace('```', '` ` `')}".rstrip() for i, line in enumerate(lines)]
 
 
-def raw_section(raw: list[dict], questions: list[dict], read: set[str]) -> str:
-    """Every question with the first hits qmd returned for it, unfiltered, as qmd wrote them."""
-    shown = {q["id"]: (q["label"], q["question"]) for q in questions}
-    lines = [RAW_HEADING, "",
-             f"Every question above as it was sent, with the first {RAW_SHOWN} hits qmd's vector search "
+RAW_INTRO = ("Every question on the chapter page as it was sent, with the first {n} hits qmd's vector search "
              "returned for it, read documents included, as qmd returned them: the document, the line its "
              "snippet starts at, qmd's score, and the snippet with each file line numbered. Raw search "
              "output, copied by code from the source files: no hit is a reading, a quotation or a claim, "
-             "and a score is no measure. All hits are in "
-             "`Plan/runs/qmd-chapters-2026-09-26/raw/`.", ""]
+             "and a score is no measure. All forty hits per question are in `kap-{nn}.json` beside this file.")
+
+
+def raw_body(raw: list[dict], questions: list[dict], read: set[str]) -> str:
+    """Every question with the first hits qmd returned for it, unfiltered, as qmd wrote them."""
+    shown = {q["id"]: (q["label"], q["question"]) for q in questions}
+    lines = []
     for entry in raw:
         label, question = shown.get(entry["id"], ("A", "What this chapter is about, sent as a passage."))
         summary = question.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -306,6 +307,46 @@ def raw_section(raw: list[dict], questions: list[dict], read: set[str]) -> str:
                       "", "```qmd", *numbered(hit.get("snippet") or ""), "```", ""]
         lines += ["</details>", ""]
     return "\n".join(lines)
+
+
+def raw_file(number: int, body: str) -> str:
+    """The file beside the run: a heading naming the chapter and the run, then the answers."""
+    return (f"# Kap {number} — raw qmd answers, run 2026-09-26\n\n"
+            + RAW_INTRO.format(n=RAW_SHOWN, nn=f"{number:02d}") + "\n\n" + body)
+
+
+def raw_link(number: int) -> str:
+    """The section on the chapter page: the heading and one line pointing at the file."""
+    rel = f"Plan/runs/qmd-chapters-2026-09-26/raw/kap-{number:02d}.md"
+    return f"{RAW_HEADING}\n\nThe raw answers are in [{rel}](../../{rel}).\n"
+
+
+def raw_section(raw: list[dict], questions: list[dict], read: set[str]) -> str:
+    """Kept for the selftest: the body a file holds."""
+    return raw_body(raw, questions, read)
+
+
+def move_raw() -> int:
+    """Move each page's existing raw section into its file, byte for byte, and link it."""
+    moved = 0
+    for path in sorted(CHAPTERS.glob("kap-*.md")):
+        text = path.read_text(encoding="utf-8")
+        start = text.find(RAW_HEADING)
+        if start == -1:
+            continue
+        number = int(frontmatter(text).get("chapter"))
+        after = re.search(r"^## ", text[start + len(RAW_HEADING):], re.M)
+        end = start + len(RAW_HEADING) + after.start() if after else len(text)
+        section = text[start:end]
+        first = section.find("<details>")
+        if first == -1:
+            continue  # already a link
+        (RAW / f"kap-{number:02d}.md").write_text(raw_file(number, section[first:]), encoding="utf-8")
+        rest = text[end:]
+        path.write_text(text[:start] + raw_link(number) + ("\n" + rest if rest else ""), encoding="utf-8")
+        moved += 1
+    print(f"{moved} raw sections moved to {RAW}")
+    return 0
 
 
 def with_section(text: str, heading: str, block: str) -> str:
@@ -340,8 +381,9 @@ def write() -> int:
             new = with_section(new, HEADING, sources_section(by_chapter[number]["ranked"], questions, rows, shared))
         raw_path = RAW / f"kap-{number:02d}.json"
         if raw_path.exists():
-            new = with_section(new, RAW_HEADING, raw_section(json.loads(raw_path.read_text(encoding="utf-8")),
-                                                             questions, read))
+            body = raw_body(json.loads(raw_path.read_text(encoding="utf-8")), questions, read)
+            (RAW / f"kap-{number:02d}.md").write_text(raw_file(number, body), encoding="utf-8")
+            new = with_section(new, RAW_HEADING, raw_link(number))
         if new != text:
             path.write_text(new, encoding="utf-8")
             changed += 1
@@ -466,6 +508,10 @@ def selftest() -> int:
     if re.search(r"^## Kopf", block, re.M) or "<b>S1</b>" not in block or "· unread" not in block \
             or block.count("```qmd") != 1:
         failures.append(f"raw_section: {block}")
+    link = raw_link(3)
+    if not link.startswith(RAW_HEADING + "\n\n") or "(../../Plan/runs/qmd-chapters-2026-09-26/raw/kap-03.md)" not in link \
+            or "```" in link or "# Kap 3 — raw qmd answers" not in raw_file(3, block):
+        failures.append(f"raw_link/raw_file: {link}")
     spread = across({1: {"ranked": [{"slug": "x"}, {"slug": "y"}]}, 2: {"ranked": [{"slug": "x"}]},
                      3: {"ranked": [{"slug": "x"}, {"slug": "z"}]}})
     if [(d["slug"], d["chapters"], d["shared"]) for d in spread] != \
@@ -486,13 +532,15 @@ def main(argv: list[str]) -> int:
             print(f"{len(d['chapters']):>3}  {'shared ' if d['shared'] else '       '}{row.get('index_date', '—')}  "
                   f"{d['slug']}  Kap {', '.join(map(str, d['chapters']))}")
         return 0
-    if not argv or argv[0] not in {"run", "write", "selftest"}:
+    if not argv or argv[0] not in {"run", "write", "selftest", "move-raw"}:
         print(__doc__)
         return 2
     if argv[0] == "selftest":
         return selftest()
     if argv[0] == "write":
         return write()
+    if argv[0] == "move-raw":
+        return move_raw()
     keep = int(argv[argv.index("--keep") + 1]) if "--keep" in argv else 12
     if "--terms" in argv:
         return run_terms(keep)

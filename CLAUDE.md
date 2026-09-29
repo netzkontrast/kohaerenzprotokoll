@@ -422,7 +422,8 @@ where it names chapters, with its readings on those pages.
 what its readings say the chapter is about, placed in the story's structures, and
 ends with its questions — eight basic ones filled with its plot, 10–12 of its own
 against GOAL.md §4.5 and §5 — a table of unread candidate sources a qmd vector
-search returned for them, and qmd's raw answers. `scripts/chapter_sources.py`
+search returned for them, and a link to qmd's raw answers, which stand beside the run
+in `Plan/runs/qmd-chapters-2026-09-26/raw/kap-NN.md`. `scripts/chapter_sources.py`
 writes all four from `Plan/runs/qmd-chapters-2026-09-26/`; none is a reading, and
 the table finds plans of a chapter, not narrative text of it.
 
@@ -889,7 +890,9 @@ are written by `scripts/chapter_sources.py` from a run in
 `Plan/runs/qmd-chapters-2026-09-26/`, carry no citation or reading, and are
 replaced whole on every run. Their commit names the run, and changes nothing
 outside those four sections. The raw answers are source text copied by code into
-```` ```qmd ```` fences, which `quotes.py` skips — that info string and no other.
+```` ```qmd ```` fences in `Plan/runs/qmd-chapters-2026-09-26/raw/kap-NN.md`; the page's
+`## Raw qmd answers` section is one link to that file, and `quotes.py` skips that
+info string and no other.
 
 ## Every step keeps its artifact
 

@@ -30,10 +30,11 @@ and none is a number about the corpus.
 | `questions/kap-NN.json` | per chapter: `about` (what it is about, placed in the story's structures), `basic` (the eight, filled with its plot), `questions` (10–12 of its own, tagged by GOAL.md §4.5 generator or §5 level) |
 | `hits.jsonl` | per chapter: each query's unread documents in rank order, and the fused ranking |
 | `raw/kap-NN.json` | per chapter: every query as sent and all forty hits qmd returned for it, snippets included |
+| `raw/kap-NN.md` | per chapter: the first five hits of every query as the page once showed them, each snippet in a ```` ```qmd ```` fence; the chapter page links here |
 
 The chapter pages carry four navigation sections written from these by
 `scripts/chapter_sources.py write`: the summary above the readings, then the
-questions, the candidate-source table and the raw answers after them
+questions and the candidate-source table after them, then a link to the raw answers
 (`Wiki/chapters/README.md`, *Navigation, around the readings*).
 
 ## How the questions were written
