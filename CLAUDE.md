@@ -31,9 +31,11 @@ author, work half-done, what failed — and it is the handover between sessions.
 
 A cloud session starts from a clean clone. Everything git-ignored is absent.
 **`scripts/install.sh` rebuilds all of it but the qmd models**, and
-`.claude/hooks/session-start.sh` runs it at every cloud session start —
-synchronously, so no step races an install, and never blocking the session on a
-failed component. `scripts/install.sh --check` says what is present,
+`.claude/hooks/session-start.sh` runs `scripts/install.sh --session` at every
+cloud session start — `derived`, `tools`, `dspy`, `typesafe`, `hyperextract` and
+`qmd`, what the pipeline and `selftests.py` call (decision 015); the rest install
+on demand with `scripts/install.sh <name>`. Synchronously, so no step races an
+install, and never blocking the session on a failed component. `scripts/install.sh --check` says what is present,
 `--list` names the components, `scripts/install.sh <name>` installs one. The
 first run here took about a minute with uv's cache already warm — a cold
 container also downloads torch for `grawiki`, unmeasured; a second run is 4s.
