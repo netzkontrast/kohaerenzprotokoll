@@ -9,6 +9,6 @@ A model's compilation, recorded not applied; it ranks its fourteen source docume
 
 Beside them, the Nebenfiguren: „Allesamt Legacy-Namen, die mit den 4 Kernwelten verbunden waren, im aktuellen" ^[?] Hard Canon not valid, for Eos, Nox, Limina and Praetor, and Silas and Oblivion decanonised.
 
-The register names three points on the roster: Rhys' class, Isabelle's class, and the count: „Frühe Skizzen referenzieren 13 Anteile und nutzen Namen wie Silas, Oblivion, Eos, Nox." ^[?] The gap analysis says who is thin: „Isabelle" ^[?], Lia and Argus are called „erzählerisch blass" ^[?]. Selene, it notes, is seen by most Anteile as a latent threat.
+The register names three points on the roster: Rhys' class, Isabelle's class, and the count: „Frühe Skizzen referenzieren 13 Anteile und nutzen Namen wie Silas, Oblivion, Eos, Nox." ^[?] The gap analysis calls Isabelle, Lia and Argus „erzählerisch blass" ^[?]. Selene, it notes, is seen by most Anteile as a latent threat.
 <!-- differ -->
 - The Charakter-Kompilation holds eleven Anteile, with Silas and Oblivion decanonised and four legacy names tied to the four worlds, and itself records the eleven-against-thirteen count as a contradiction (Q3).
