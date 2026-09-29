@@ -101,8 +101,18 @@ the book.
 - **It called the author „die Autorin"**, a gender nothing had stated. The artifact now
   addresses the author as „du", and `writing-skills` rule 5 requires that of every run.
 
-**Next, if the author says nothing otherwise:** prepare the decision sheets for W1–W4
-and read no new document.
+**The W2 sheet is prepared, 2026-09-29:** `Plan/weichen/w2-motor.md`, in German. It has three
+options and a free-text way:
+- A: F1 as written, Kael's job as the motor;
+- B: journey, break-in and flight, from the Hard-SF-Outline;
+- C: the erasure as the opponent, with a visible clock, after Hamilton — new, built from F1's
+  Wartungsfenster and the Timelock.
+
+It recommends C, with A as the work inside it. All 20 cited quotations resolve (`quotes.py`
+on the file). No document was read.
+
+**Next, if the author says nothing otherwise:** prepare the sheets for W1, W3 and W4 and read no
+new document.
 
 **New from the last eight canon-era documents (2026-09-27, documents 32–39, all English, all 2026-05-08):**
 - **The Guardian-world pairing, again, on the canon's date.** The Narrative Building Blocks report makes
