@@ -55,6 +55,7 @@ SUITES = [
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
     ("jules: approval, tools, verify", "std", ["scripts/jules.py", "selftest"]),
     ("runlog: refusals, summary", "std", ["scripts/runlog.py", "selftest"]),
+    ("readings lint: each class and its near-miss", "std", ["scripts/lint_readings.py", "selftest"]),
     ("qmd coverage patterns", "std", ["scripts/qmd_coverage.py", "--selftest"]),
     ("qmd coverage, live", "std", ["scripts/qmd_coverage.py"]),
     ("route: price, consent, record", "typesafe", ["scripts/route.py", "selftest"]),
