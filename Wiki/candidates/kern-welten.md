@@ -548,7 +548,7 @@ A hedged blueprint of 39 beats, unnamed and unnumbered worlds throughout (`könn
 
 **A whole beat is the transfer into one.** „**Beat 4: Kernwelt-Transfer - Isolation**" ^[m-als-fundament-der-simulation.md:L168]: „AEGIS isoliert Kael in einer kontrollierten Umgebung (Kernwelt), um spezifische Aspekte der M-Physik zu testen und Kaels Reaktion zu studieren." ^[m-als-fundament-der-simulation.md:L172]
 
-**A Guardian may reside inside the test chamber, unnamed and singular, in the same hedge as everything else.** „Möglicherweise gibt es Wächter-Programme (Guardians) in der Kernwelt, deren Verhalten durch Kaels Aktion gestört wird." ^[m-als-fundament-der-simulation.md:L194] — and later, when Kael breaks the chamber's rules, „Eventuell vorhandene Wächterprogramme in der Kernwelt werden neutralisiert oder können Kael nicht aufhalten." ^[m-als-fundament-der-simulation.md:L239] (readings on [[guardians|Guardians]]).
+**Guardian programs may reside inside the test chamber, unnamed and plural, in the same hedge as everything else.** „Möglicherweise gibt es Wächter-Programme (Guardians) in der Kernwelt, deren Verhalten durch Kaels Aktion gestört wird." ^[m-als-fundament-der-simulation.md:L194] — and later, when Kael breaks the chamber's rules, „Eventuell vorhandene Wächterprogramme in der Kernwelt werden neutralisiert oder können Kael nicht aufhalten." ^[m-als-fundament-der-simulation.md:L239] (readings on [[guardians|Guardians]]).
 
 No world is named or numbered anywhere in the document, and no Guardian is named (`LogOS`, `Mnemosyne`, `Cerberus`, `Kairos`, `Sophia` all 0, `05-verify.txt`); a Kernwelt here is defined by what it tests, not by who guards it or what it is called — the pairing this page's other readings give by name is not this document's (Q5).
 
