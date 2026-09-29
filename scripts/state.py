@@ -376,6 +376,17 @@ def _sweep_open() -> int:
     return len(reconcile.sweep_open())
 
 
+@measure("runs.logged", "runs under Plan/runs/ that record their cost with scripts/runlog.py (run.jsonl)")
+def _runs_logged() -> int:
+    return len(list((ROOT / "Plan" / "runs").glob("*/run.jsonl")))
+
+
+@measure("runs.corrections", "changes the review made to readers' output, recorded in corrections.jsonl")
+def _runs_corrections() -> int:
+    return sum(sum(1 for line in f.read_text(encoding="utf-8").splitlines() if line.strip())
+               for f in (ROOT / "Plan" / "runs").glob("*/corrections.jsonl"))
+
+
 @measure("judgements.total", "records in Plan/runs/judgements.jsonl")
 def _j_total() -> int:
     return len(_verdicts())

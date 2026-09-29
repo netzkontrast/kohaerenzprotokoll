@@ -78,6 +78,7 @@ encodings of one rule drift apart on the first edit (P6).
 | `reconcile.py` | Pre-classifies a document's census against `Wiki/index.json`: new term, new reading, already there, or needs judgement. Then sweeps the document for every page surface the census does not list (decision 012). `--sweep-open` lists the hits in read documents that no reading and no row in `Plan/runs/sweep.jsonl` settles. | `Plan/runs/<slug>/reconcile-pre.json` |
 | `judgements.py` | Replays every recorded one-term-or-two decision against `fold()`: agrees, DISAGREES, or still a person's call. | `Plan/runs/judgements.md`, re-rendered on every full run |
 | `account.py` | The one verb: an account of a `document`, a `term`, a `pair`, the `corpus`, or the pipeline's `order` — the invariant that fails while any document is half-processed. | — |
+| `runlog.py` | Records what a run costs: phases with the clock, each reader's model, tokens, tool uses and minutes as the Agent notification reports them, and every change the review makes to a reader's output, by class. Refuses an end with no start, a reader with no usage, an unclassed correction. `summary` says „not recorded" rather than 0. | `Plan/runs/<run>/run.jsonl`, `corrections.jsonl` |
 
 ## Links, graph and retrieval
 

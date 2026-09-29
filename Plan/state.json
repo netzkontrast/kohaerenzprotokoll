@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28",
+  "generated": "2026-09-29",
   "by": "scripts/state.py",
   "measurements": {
     "chapters.missing": {
@@ -137,6 +137,14 @@
     "rules.count": {
       "value": 4,
       "how": "modules in scripts/rules/ satisfying the contract"
+    },
+    "runs.corrections": {
+      "value": 0,
+      "how": "changes the review made to readers' output, recorded in corrections.jsonl"
+    },
+    "runs.logged": {
+      "value": 0,
+      "how": "runs under Plan/runs/ that record their cost with scripts/runlog.py (run.jsonl)"
     },
     "sources.canon_era": {
       "value": 33,
