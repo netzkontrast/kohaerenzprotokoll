@@ -134,7 +134,7 @@ def add_differ(page: str, differ: list[str]) -> str:
     return page.rstrip("\n") + "\n\n" + head + "\n\n" + "\n".join(differ) + "\n"
 
 
-def build(reading_file: Path, root: Path) -> tuple[Path, str]:
+def build(reading_file: Path, root: Path, staged: dict | None = None) -> tuple[Path, str]:
     meta, body, differ = parse(reading_file.read_text(encoding="utf-8"))
     if not body.startswith("## "):
         raise Refused("the body opens with its heading")
@@ -142,7 +142,7 @@ def build(reading_file: Path, root: Path) -> tuple[Path, str]:
     record = "/conflicts/" in str(target) or "/questions/" in str(target)
     section = resolve(body, meta["document"])
     differ = resolve("\n".join(differ), meta["document"]).strip().split("\n") if differ else []
-    page = target.read_text(encoding="utf-8")
+    page = (staged or {}).get(target) or target.read_text(encoding="utf-8")
     first = section.split("\n", 1)[0]
     if first in page:
         raise Refused(f"{target.name} already has this heading: {first}")
@@ -172,9 +172,7 @@ def run(batch: str, write: bool, root: Path) -> int:
     failed = 0
     for f in files:
         try:
-            target, text = build(f, root)
-            if target in staged:  # several documents' readings on one page, in file order
-                raise Refused(f"{target.name} has two reading files in this run; apply one, then the other")
+            target, text = build(f, root, staged)  # several documents on one page: each on the last
             staged[target] = text
             print(f"ok       {f.name} → {target.relative_to(root)}")
         except Refused as e:

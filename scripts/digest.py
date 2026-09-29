@@ -13,7 +13,7 @@ Chapter navigation written by code (`## Candidate sources`, `## Raw qmd answers`
 is left out.
 
 Usage:
-    python3 scripts/digest.py <page> [--doc <slug>]     # a term, chapter, record or overview page
+    python3 scripts/digest.py <page> [--doc <slug>] [--root DIR]   # a page; DIR: a worktree
     python3 scripts/digest.py --size <page> ...          # bytes of page and digest
     python3 scripts/digest.py selftest
 """
@@ -97,7 +97,8 @@ def main(argv: list[str]) -> int:
             print(f"{page:30s} page {len(text.encode()):8d} B   digest {len(digest(text).encode()):7d} B")
         return 0
     doc = argv[argv.index("--doc") + 1] if "--doc" in argv else None
-    print(digest(page_path(argv[0]).read_text(encoding="utf-8"), doc), end="")
+    root = Path(argv[argv.index("--root") + 1]).resolve() if "--root" in argv else ROOT
+    print(digest(page_path(argv[0], root).read_text(encoding="utf-8"), doc), end="")
     return 0
 
 
