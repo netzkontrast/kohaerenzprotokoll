@@ -40,6 +40,7 @@ folder (`scripts/lmrun.py`, one line per call).
 | `route/` | the consent file of decision 007, the call ledger and the recorded calls | `scripts/route.py` |
 | `tooltest/` | outputs of the tool review under decision 007 | the tools under review, through `route.py` |
 | `record-audit-2026-09-24/` | every attribution the conflict and question records make to documents 7–13, checked against the lines, the findings and two skeptics' verdicts, and which were written | `.claude/workflows/record-audit.js`; the README's rule decided the writing |
+| `reading-log.md` | what each document added and what reading it found, a paragraph per document up to document 51 — moved from `CLAUDE.md` and `NOW.md` (decision 015); from document 52 the reconciliation record alone carries it | moved by hand, word for word |
 | `pipeline-2026-09-29/` | where the reading pipeline spent its effort over every read document — page loads, fixed context, yields, two negative results — for `Plan/concept/pipeline-optimization_2026-09-29.md` | its `measure.py`, standard library, reading only |
 | `CONVENTIONS.md` | what every run's JSON must carry | a person |
 

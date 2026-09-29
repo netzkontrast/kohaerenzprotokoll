@@ -14,8 +14,11 @@ and `NOW.md` repeated them. The author answered:
 
 ## What was chosen — each question, yes
 
-1. **Step 2** — the per-document history leaves `CLAUDE.md` and `NOW.md` for
-   `Wiki/compare/README.md`, word for word.
+1. **Step 2** — the per-document history leaves `CLAUDE.md` and `NOW.md`, word
+   for word. It went to `Plan/runs/reading-log.md`, not the `Wiki/compare/README.md`
+   the question named: in `Wiki/` its 97 quotations without a line would have
+   become unchecked quotations for `quotes.py`. *Installing anything* went to
+   `.agents/skills/tools/references/install.md`.
 2. **Step 4** — readers write reading files and code turns them into pages; a
    pilot on documents 48–50 may spend the Sonnet usage it needs.
 3. **The raw qmd answers** leave the chapter pages for their run folder,
