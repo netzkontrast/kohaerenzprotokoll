@@ -9,6 +9,9 @@ gate where the author decides. The first four questions are in §11, and `NOW.md
 - „Install https://github.com/netzkontrast/writing-skills/tree/main into this repo", then „But
   optimieren ihn für dieses repo". The thirteen skills are installed and adapted
   (`.agents/skills/writing-skills/`), and they are now this plan's reading side (§6).
+- „I dont Like that the novel does Not Flow Like a scifi novel - i want more Action - its a
+  question of the Plot". This makes W2, the engine, the first question of round 1 (§5, *The
+  author's plot verdict*).
 
 The plan is in English, the working language. The novel, and everything read against it (the
 treatment, the briefs, the rulebook), is German.
@@ -383,6 +386,33 @@ page or source named.
 | **W15** | **What crosses the Moonshine-Link.** What passes between Kael and Juna, and what does not: the mechanics of the love the book tests. | Q9 | every chapter that carries Juna's trace | 4 |
 | **W16** | **Length.** Set after the pilot has measured it. In the September draft, Kap 1–40 ran from 943 to 2,376 words of prose and Kap 0 to 4,340; v0.5 of Kap 1 aimed at about 4,000 (its own header). | the pilot | all | 4 |
 
+### The author's plot verdict, 2026-09-29
+
+> „I dont Like that the novel does Not Flow Like a scifi novel - i want more Action - its a
+> question of the Plot"
+
+The verdict names the plot, not the sentences, and it points where the record already did.
+The Plot-Konkretisierung calls the canon-era outline „ereignis-arm" (L13). The September
+audit warns that Act II threatens to become a seminar and that hooks are themes rather than
+events. So the order of round 1 changes, and so does what the treatment must prove.
+
+- **W2, the engine, is asked first.** The question becomes what drives the plot as action: a
+  goal Kael pursues against opposition, with stakes that rise and consequences that cannot be
+  undone. F1, Kael's job as the motor, is one candidate. It is a bureaucratic engine, so the
+  sheet asks whether it can carry pursuit and escalation, or whether another engine is needed.
+- **W1 goes second.** Once the engine is chosen, theory serves the action, not the other way
+  round.
+- **Every treatment paragraph must show a physical event.** Someone does something, something
+  resists, and something is lost or gained. A chapter that is only interior or only an idea is
+  flagged at the gate unless the treatment declares it a deliberate pause.
+- **The treatment gets one more ledger: the escalation line.** Per act, it records what Kael
+  wants, who or what stands against him, what the stakes are and how they rise. It is checked
+  the way hard SF is read: the world's rules have mechanisms and costs, and the plot turns on
+  them.
+- **The cold read tests the flow.** `beta-reader-panel`'s Genre Fan lens reads for the promises
+  of SF: momentum, mechanism, consequence. Its put-it-down points are the pacing signal the
+  verdict asks for.
+
 **What is not a Weiche, and why.** Some records are decided per chapter at the treatment, or
 drop away as diagnosis if W1 so decides:
 
@@ -632,7 +662,7 @@ often a chapter really needs a new source. If that is often, D1.
 
 Unless the author says otherwise, the next session:
 
-1. prepares the decision sheets for **W1–W4**, from the records, the chapter pages and
+1. prepares the decision sheets for **W2 first, then W1, W3 and W4**, from the records, the chapter pages and
    `plot.md`, with every citation asked of `read.py --find`, and reads no new document;
 2. puts round 1 to the author, with the four questions of §11 if they are still open;
 3. records each answer where it belongs, dated, and moves the next round's sheets forward.

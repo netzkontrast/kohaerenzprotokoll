@@ -32,6 +32,11 @@ A document may still call itself a draft, and a reading may quote that.
 want". So revising it in place is off the table. Its prose is never a voice reference
 for the book. Whether its ideas come back as research is question B below.
 
+**The plot, 2026-09-29:** „I dont Like that the novel does Not Flow Like a scifi novel - i want
+more Action - its a question of the Plot". In the plan, W2 (the engine) now opens round 1, framed
+as what drives the plot as action. Every treatment paragraph must show a physical event, and the
+treatment gains an escalation ledger per act (the plan, §5).
+
 ### Writing the novel — a plan, proposed 2026-09-29
 
 On the author's „Think about how to Write the novel and come up with a plan":
