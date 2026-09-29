@@ -15,7 +15,10 @@ index.json and re-run.
 
 Usage:
     python3 scripts/wiki_index.py            # write Wiki/index.json
-    python3 scripts/wiki_index.py --check    # report what the index cannot see
+    python3 scripts/wiki_index.py --check    # report what the index cannot see, and
+                                             # every page whose sources/readings/ingested
+                                             # differ from the body (non-zero if any)
+    python3 scripts/wiki_index.py --fix-frontmatter   # rewrite exactly those three fields
 """
 
 from __future__ import annotations
@@ -155,6 +158,118 @@ def build() -> dict:
     }
 
 
+# --- Frontmatter counts, derived (decision 015, pipeline plan step 3c) ---------
+#
+# `ingested:` is every READ document the page cites -- a citation in a difference
+# line counts, not only one in a `## Reading` section. `sources:` is its length and
+# `readings:` the number of `## Reading` headings. A document with no census in
+# Sources/terms/ is scanned, not read, and is never ingested.
+
+CITE = re.compile(r"\^\[([^\]\n]*)\]")
+QUALIFIED = re.compile(r"([A-Za-z0-9][\w-]*)\.md:L\d+")
+BARE = re.compile(r"(?:^|[;,]\s*)L\d+")
+READING = re.compile(r"^## Readings?\b", re.MULTILINE)
+DERIVED_FIELDS = ("sources", "readings", "ingested")
+
+
+def read_documents(terms_dir=None) -> set[str]:
+    """Slugs of the documents that have a census: the read ones."""
+    terms_dir = terms_dir or ROOT / "Sources" / "terms"
+    return {p.stem for p in terms_dir.glob("*.md")}
+
+
+def derive_frontmatter(text: str, read: set[str]) -> dict:
+    """What `ingested`, `sources` and `readings` follow from in the body.
+
+    `keep_readings` is True for a page with no `## Reading` heading: its readings
+    are in an older format and the stored value is kept.
+    """
+    meta = frontmatter(text)
+    body = text.split("---", 2)[2] if text.startswith("---") else text
+    cited: list[str] = []
+    bare = False
+    for m in CITE.finditer(body):
+        inner = m.group(1)
+        found = QUALIFIED.findall(inner)
+        for slug in found:
+            if slug not in cited:
+                cited.append(slug)
+        if not found and BARE.search(inner):
+            bare = True
+    existing = [s for s in meta.get("ingested", []) if s in read]
+    kept = [s for s in existing if s in cited or bare]
+    ingested = kept + [s for s in cited if s in read and s not in kept]
+    headings = len(READING.findall(body))
+    return {"ingested": ingested, "sources": len(ingested),
+            "readings": headings, "keep_readings": headings == 0}
+
+
+def frontmatter_drift(pages_dir=None, terms_dir=None) -> tuple[list[dict], list[str]]:
+    """Pages whose three fields differ from the derivation, and pages kept as-is
+    because their readings are in the older format (no `## Reading` heading)."""
+    pages_dir = pages_dir or PAGES
+    read = read_documents(terms_dir)
+    drifts, older = [], []
+    for path in sorted(pages_dir.glob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        meta = frontmatter(text)
+        want = derive_frontmatter(text, read)
+        if want["keep_readings"]:
+            older.append(path.stem)
+            want["readings"] = int(meta.get("readings", 0) or 0)
+        have = {"ingested": meta.get("ingested", []),
+                "sources": int(meta.get("sources", 0) or 0),
+                "readings": int(meta.get("readings", 0) or 0)}
+        changes = {}
+        for f in DERIVED_FIELDS:
+            if have[f] != want[f]:
+                changes[f] = (have[f], want[f])
+        if changes:
+            drifts.append({"page": path.stem, "path": path, "changes": changes, "want": want})
+    return drifts, older
+
+
+def _describe(field: str, have, want) -> str:
+    if field != "ingested":
+        return f"{field} {have} -> {want}"
+    added = [s for s in want if s not in have]
+    removed = [s for s in have if s not in want]
+    return "ingested " + ", ".join(
+        [f"+{s}" for s in added] + [f"-{s}" for s in removed]
+        + (["(order)"] if not added and not removed else []))
+
+
+def rewrite_frontmatter(text: str, want: dict) -> str:
+    """Replace exactly the three fields in the frontmatter block; nothing else."""
+    _, block, rest = text.split("---", 2)
+    lines = block.split("\n")
+    values = {"sources": str(want["sources"]), "readings": str(want["readings"]),
+              "ingested": "[" + ", ".join(f'"{s}"' for s in want["ingested"]) + "]"}
+    done = set()
+    for i, line in enumerate(lines):
+        key = line.split(":", 1)[0]
+        if key in values and ":" in line:
+            lines[i] = f"{key}: {values[key]}"
+            done.add(key)
+    for key in DERIVED_FIELDS:
+        if key not in done:
+            at = max([i for i, l in enumerate(lines) if l.split(":", 1)[0] in DERIVED_FIELDS]
+                     or [max(len(lines) - 2, 0)]) + 1
+            lines.insert(at, f"{key}: {values[key]}")
+    return "---" + "\n".join(lines) + "---" + rest
+
+
+def fix_frontmatter(pages_dir=None, terms_dir=None) -> list[str]:
+    report = []
+    drifts, _ = frontmatter_drift(pages_dir, terms_dir)
+    for d in drifts:
+        text = d["path"].read_text(encoding="utf-8")
+        d["path"].write_text(rewrite_frontmatter(text, d["want"]), encoding="utf-8")
+        report.append(f"{d['page']}: " + "; ".join(
+            _describe(f, h, w) for f, (h, w) in d["changes"].items()))
+    return report
+
+
 def check(index: dict) -> int:
     """Name what the index cannot see, rather than letting it look complete."""
     gaps = []
@@ -176,10 +291,23 @@ def check(index: dict) -> int:
     print(f"{len(gaps)} gaps the index cannot see past:\n")
     for gap in gaps:
         print(f"  {gap}")
-    return 0
+    drifts, older = frontmatter_drift()
+    print(f"\n{len(drifts)} pages whose sources/readings/ingested differ from the body:\n")
+    for d in drifts:
+        print(f"  {d['page']}: " + "; ".join(
+            _describe(f, h, w) for f, (h, w) in d["changes"].items()))
+    print(f"\n{len(older)} pages have no `## Reading` heading; their readings value is kept: "
+          + (", ".join(older) or "none"))
+    return 1 if drifts else 0
 
 
 def main(argv: list[str]) -> int:
+    if "--fix-frontmatter" in argv:
+        changed = fix_frontmatter()
+        for line in changed:
+            print(line)
+        print(f"{len(changed)} pages rewritten (sources, readings, ingested only)")
+        return 0
     index = build()
     if "--check" in argv:
         return check(index)

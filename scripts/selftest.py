@@ -32,6 +32,8 @@ import quotes  # noqa: E402
 import read  # noqa: E402
 from subject import document  # noqa: E402
 from wiki_index import fold  # noqa: E402
+import wiki_index  # noqa: E402
+import account  # noqa: E402
 
 DOC = "aegis-subplots-kapitelweise-system-exploration-docx"
 
@@ -87,6 +89,53 @@ NUMBER_CASE = ('> „Untersucht Kernwelt 3 (Logik/LogOS) als direkte Manifestati
 # than resolved against either half.
 SPAN_CASE = ("die Illusion von Normalität (Implizite Kontrolle). "
              "Analyse des AEGIS-Fokus", (21, 22))
+
+# Count marks: `^[slug.md:#N]` after a code span or „…". Counts verified with grep
+# on this document: `Zauber` 0 in any case, `Guardian` 22 whole words and
+# `guardian` 0 whole words but 22 case-insensitive.
+# (name, text, needle the verdict must hold or None for a mark that must pass).
+COUNT_CASES = [
+    ("correct zero", "`Zauber` ^[%s.md:#0]" % DOC, None),
+    ("correct count", "„Guardian" + "\u201c ^[%s.md:#22]" % DOC, None),
+    ("wrong count", "`Guardian` ^[%s.md:#0]" % DOC, "the count is 22, not 0"),
+    ("zero only by case", "`guardian` ^[%s.md:#0]" % DOC, "zero only by case: 22"),
+]
+
+
+def check_counts() -> list[str]:
+    failures = []
+    for name, body, needle in COUNT_CASES:
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "fixture.md"
+            path.write_text(f"---\nsource: Sources/drive/{DOC}.md\n---\n\n{body}\n",
+                            encoding="utf-8")
+            result = quotes.tally([path])
+        if result["count_marks"] != 1:
+            failures.append(f"count {name}: {result['count_marks']} marks seen, expected 1")
+        elif result["checked"] or result["unchecked"]:
+            failures.append(f"count {name}: the mark was counted as a quotation citation")
+        elif needle is None and result["unresolved"]:
+            failures.append(f"count {name}: a correct mark was reported: {result['problems'][0][1]['why']}")
+        elif needle is not None and (result["count_wrong"] != 1
+                                     or needle not in result["problems"][0][1]["why"]):
+            failures.append(f"count {name}: expected a defect naming {needle!r}, "
+                            f"got {[p[1]['why'] for p in result['problems']]}")
+    # read.py --count asks the same function a census counts with.
+    import capture
+    for words in ("Guardian", "Untersucht Kernwelt 1", "Kernwelt"):
+        want = capture.count_both(words, document(DOC).body)
+        got = quotes.count_words(DOC, words)
+        if (got[0], got[2]) != want:
+            failures.append(f"read --count {words!r}: {(got[0], got[2])} != capture {want}")
+    import io
+    from contextlib import redirect_stdout
+    out = io.StringIO()
+    with redirect_stdout(out):
+        read.main([DOC, "--count", "Guardian"])
+    if f"`Guardian` ^[{DOC}.md:#22]" not in out.getvalue():
+        failures.append("read --count: no ready-to-paste mark with the case-sensitive count")
+    return failures
+
 
 # fold() must NOT merge these. Each is a distinction the wiki rests on, and
 # scripts/pairs.py asks every rule and every model the same pairs as a veto.
@@ -196,15 +245,73 @@ def check_fold() -> list[str]:
     return failures
 
 
+def _page(ingested, sources, readings, body) -> str:
+    items = ", ".join(f'"{s}"' for s in ingested)
+    return (f"---\nterm: T\nstatus: candidate\nsources: {sources}\nreadings: {readings}\n"
+            f"ingested: [{items}]\n---\n\n# T\n\n{body}\n")
+
+
+def check_frontmatter() -> list[str]:
+    """Decision 015 / plan 3c: `ingested:` is every read document a page cites."""
+    failures = []
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        pages, terms = tmp / "pages", tmp / "terms"
+        pages.mkdir()
+        terms.mkdir()
+        for slug in ("doc-a", "doc-b"):
+            (terms / f"{slug}.md").write_text("census\n", encoding="utf-8")
+        # doc-b is cited in a difference line only; doc-scan has no census.
+        (pages / "drift.md").write_text(_page(
+            ["doc-a"], 1, 1,
+            "## Reading — `doc-a`\n\n> „x\" ^[doc-a.md:L1]\n\n"
+            "## Where the sources differ\n\nB says otherwise ^[doc-b.md:L2] "
+            "and a scan ^[doc-scan.md:L3]."), encoding="utf-8")
+        (pages / "right.md").write_text(_page(
+            ["doc-a", "doc-b"], 2, 2,
+            "## Reading — `doc-a`\n\n^[doc-a.md:L1]\n\n## Reading — `doc-b`\n\n^[doc-b.md:L2]"
+            " and a scan ^[doc-scan.md:L3]."), encoding="utf-8")
+        drifts, older = wiki_index.frontmatter_drift(pages, terms)
+        names = [d["page"] for d in drifts]
+        if names != ["drift"]:
+            failures.append(f"frontmatter: expected only `drift` reported, got {names}")
+        elif drifts[0]["want"]["ingested"] != ["doc-a", "doc-b"] or drifts[0]["want"]["sources"] != 2:
+            failures.append(f"frontmatter: wrong derivation {drifts[0]['want']}")
+        wiki_index.fix_frontmatter(pages, terms)
+        if wiki_index.frontmatter_drift(pages, terms)[0]:
+            failures.append("frontmatter: still drifting after the fix")
+        fixed = (pages / "drift.md").read_text(encoding="utf-8")
+        if "# T" not in fixed or "doc-scan" in fixed.split("---")[1]:
+            failures.append("frontmatter: the fix touched more than the three fields")
+    return failures
+
+
+def check_order() -> list[str]:
+    """Plan 3d: a reconcile.json with no census or note beside it fails `order`."""
+    failures = []
+    with tempfile.TemporaryDirectory() as tmp:
+        root = Path(tmp)
+        (root / "Sources" / "terms").mkdir(parents=True)
+        (root / "Sources" / "notes").mkdir(parents=True)
+        run = root / "Plan" / "runs" / "doc-x"
+        run.mkdir(parents=True)
+        (run / "reconcile.json").write_text("{}", encoding="utf-8")
+        result = account.account_order(root)
+        kinds = {v["kind"] for v in result["violations"]}
+        if result["holds"] or kinds != {"reconciled-without-census", "reconciled-without-note"}:
+            failures.append(f"order: reconcile.json without census/note gave {result['holds']}, {kinds}")
+    return failures
+
+
 def main() -> int:
-    failures = check_quotes() + check_find() + check_fold()
+    failures = check_quotes() + check_find() + check_fold() + check_counts() + check_frontmatter() + check_order()
     total = (len(QUOTE_CASES) + 3 + len(SHORT_CASES) + len(FIND_CASES) + 1
-             + len(MUST_NOT_MERGE) + len(MUST_MERGE))
+             + len(MUST_NOT_MERGE) + len(MUST_MERGE) + 5)
     for line in failures:
         print(f"  FAIL  {line}")
     print(f"\n{total - len(failures)} of {total} cases hold "
           f"({len(QUOTE_CASES) + 3 + len(SHORT_CASES)} quotation, {len(FIND_CASES) + 1} citation, "
-          f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold)")
+          f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold, 5 frontmatter and order)")
     if failures:
         print("\nA failure here means a checker other work depends on is not "
               "reporting what it claims to report.")
