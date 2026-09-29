@@ -255,3 +255,7 @@ bold, and the bullets are indented two spaces.
 5. `read.py --find` refuses a two-letter quotation: `Du` returns `NOT IN THIS DOCUMENT` with L53 at
    100 % in common, because fragments under four characters are dropped. A term that short has to be
    cited through the phrase around it.
+6. A count mark whose code span and `^[slug.md:#N]` are split by a wrapped line is not recognised as a
+   mark, and nothing goes red: the first draft of this census had such marks, and the number of
+   `quotes.py`'s checked marks was lower than the number written. A mark has to stay on one line with
+   its code span; compare the written and the checked number before trusting the summary.

@@ -8,3 +8,4 @@
 {"event": "end", "phase": "census", "at": "2026-09-29T18:41:42+00:00"}
 {"event": "start", "phase": "note", "at": "2026-09-29T18:41:42+00:00"}
 {"event": "end", "phase": "note", "at": "2026-09-29T18:44:57+00:00"}
+{"event": "reader", "name": "document-reader", "model": "sonnet", "tokens": 396462, "tool_uses": 73, "ms": 1801843, "pages": [], "at": "2026-09-29T18:50:35+00:00"}
