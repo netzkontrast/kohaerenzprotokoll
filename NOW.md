@@ -670,8 +670,10 @@ each of the six categories with one read document or none, read with the new rea
 - aegis: `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, `aegis-persona-and-manifest-generation`
 
 Slugs are cut here; `python3 scripts/sources.py status` and the manifest have them whole. **Claim before
-reading**: open a draft pull request titled `claim: <slug>` and check the open pull requests for one first —
-two sessions following one handover read documents 16, 17 and 20 twice.
+reading**: an open pull request whose title or body names the slug under a `Claim` heading, checked for in the
+open pull requests first — two sessions following one handover read documents 16, 17 and 20 twice.
+**Claimed 2026-09-29 by netzkontrast/kohaerenzprotokoll#110, all twelve, and being read** (the author's „Ja").
+Documents: `document-reader` subagents (`.claude/agents/document-reader.md`), one per document.
 
 **A qmd search over all 347 unread landed documents ran on 2026-09-26** (`Plan/runs/qmd-scan-2026-09-26/`): one to four short queries per open record, hits only, no reading. It placed all fifteen unread canon-era documents and found two the earlier scan had not: a second Kap 0 draft and a philosophischer Bericht. It also showed the stemmer turning „Mira“ into „miracle“ — six hits, none of them the name.
 
