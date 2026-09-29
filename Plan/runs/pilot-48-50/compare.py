@@ -20,7 +20,8 @@ def pairs_and_lines(read_file):
     for f in ("Wiki/candidates", "Wiki/chapters", "Wiki/conflicts", "Wiki/questions"):
         for path, text in read_file(f):
             page = Path(path).stem
-            page = re.match(r"([cq]\d+)", page).group(1) if f in ("Wiki/conflicts", "Wiki/questions") else page
+            m = re.match(r"([cq]\d+)", page)
+            page = m.group(1) if m and f in ("Wiki/conflicts", "Wiki/questions") else page
             parts = re.split(r"(?m)^(## .*)$", text)
             for i in range(1, len(parts), 2):
                 m = HEAD.match(parts[i])
