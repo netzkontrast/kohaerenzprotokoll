@@ -1,0 +1,34 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      5
+  backslash escapes      0
+  typographic marks      44
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  beoba    Beobachter, Beobachters, Beobachtungs, Beobachtungsstatus
+  hinwe    Hinweis, Hinweise
+  integ    Integration, Integriere
+  leser    Leser, Lesers
+  limit    Limit, Limits
+  momen    Momente, Momenten
+  proto    Protokoll, Protokolle
+  statu    STATUS, Statusberichten
+
+# substring pairs -- never one term, often merged by accident
+  Buch < Buches
+  Kael < Kaels
+  Lese < Leser
+  Lese < Lesers
+  Text < Textfragmente
+  Leser < Lesers
+  Limit < Limits
+  STATUS < Statusberichten
+  STATUS < Beobachtungsstatus
+  Hinweis < Hinweise
+  Momente < Momenten
+  Momente < Schlüsselmomenten
+  Momenten < Schlüsselmomenten
+  Protokoll < Protokolle
+  Beobachter < Beobachters
+  Beobachtungs < Beobachtungsstatus

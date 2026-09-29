@@ -1,0 +1,114 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "drive_id": "15oVqKg3T2X5onbUf0vtGh6yYcpSnRxLrP99m8SHrliI",
+  "step": "probes",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 5,
+  "backslash_escapes": 0,
+  "typographic_marks": 44,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "beoba": [
+      "Beobachter",
+      "Beobachters",
+      "Beobachtungs",
+      "Beobachtungsstatus"
+    ],
+    "hinwe": [
+      "Hinweis",
+      "Hinweise"
+    ],
+    "integ": [
+      "Integration",
+      "Integriere"
+    ],
+    "leser": [
+      "Leser",
+      "Lesers"
+    ],
+    "limit": [
+      "Limit",
+      "Limits"
+    ],
+    "momen": [
+      "Momente",
+      "Momenten"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle"
+    ],
+    "statu": [
+      "STATUS",
+      "Statusberichten"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Buch",
+      "Buches"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Lese",
+      "Leser"
+    ],
+    [
+      "Lese",
+      "Lesers"
+    ],
+    [
+      "Text",
+      "Textfragmente"
+    ],
+    [
+      "Leser",
+      "Lesers"
+    ],
+    [
+      "Limit",
+      "Limits"
+    ],
+    [
+      "STATUS",
+      "Statusberichten"
+    ],
+    [
+      "STATUS",
+      "Beobachtungsstatus"
+    ],
+    [
+      "Hinweis",
+      "Hinweise"
+    ],
+    [
+      "Momente",
+      "Momenten"
+    ],
+    [
+      "Momente",
+      "Schlüsselmomenten"
+    ],
+    [
+      "Momenten",
+      "Schlüsselmomenten"
+    ],
+    [
+      "Protokoll",
+      "Protokolle"
+    ],
+    [
+      "Beobachter",
+      "Beobachters"
+    ],
+    [
+      "Beobachtungs",
+      "Beobachtungsstatus"
+    ]
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "document": "kohaerenz-protokoll-audit-und-verifizierung",
+  "drive_id": "1sejOt7hfQA35B7MBs30Iim8pj1aBGKCLGseFyIa0DD0",
+  "step": "probes",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 64,
+  "backslash_escapes": 98,
+  "typographic_marks": 26,
+  "ascii_quotes": 106,
+  "inflection_families": {
+    "infor": [
+      "Informatiker",
+      "Information",
+      "Informational",
+      "Informationeller",
+      "Informations",
+      "Informationsauslöschung",
+      "Informationslöschung",
+      "Informationsphysik",
+      "Informationstheorie",
+      "Informationstransformationen",
+      "Informationsverarbeitung",
+      "Informationswert"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbank",
+      "Datenextraktion",
+      "Datenkorrosion",
+      "Datenmengen",
+      "Datenpuffer",
+      "Datenspeicher",
+      "Datenstruktur",
+      "Datenverlusts",
+      "Datenüberlastung"
+    ],
+    "lösch": [
+      "Löschen",
+      "Löschung",
+      "Löschungs",
+      "Löschungsdirektive",
+      "Löschungsfeld",
+      "Löschungsprozesse",
+      "Löschungsroutinen",
+      "Löschungswelle",
+      "Löschungszyklen",
+      "Löschungszyklus"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemische",
+      "Systems",
+      "Systemstabilität",
+      "Systemteilen",
+      "Systemversagen"
+    ],
+    "theor": [
+      "THEORY",
+      "Theorem",
+      "Theoreme",
+      "Theoretischer",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "verif": [
+      "Verification",
+      "Verifier",
+      "Verifikation",
+      "Verifizierer",
+      "Verifiziert",
+      "Verifizierung",
+      "Verifizierungs"
+    ],
+    "disso": [
+      "DISSOCIATION",
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziationen",
+      "Dissoziatives"
+    ],
+    "modul": [
+      "Modul",
+      "Modularisierung",
+      "Modularität",
+      "Module",
+      "Modulen",
+      "Moduln"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmen",
+      "Paradigmenwechsel",
+      "Paradox",
+      "Paradoxa",
+      "Paradoxon"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widerspruchsprüfungs",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widerstandsfähigkeit"
+    ],
+    "überl": [
+      "Überlagerung",
+      "Überleben",
+      "Überlebens",
+      "Überlebensmechanismus",
+      "Überlebensschuld",
+      "Überlegenheit"
+    ],
+    "archi": [
+      "Archipel",
+      "Archipels",
+      "Architektur",
+      "Architekturschild",
+      "Archive"
+    ],
+    "inter": [
+      "Interactive",
+      "Interaktion",
+      "Interferenz",
+      "Interferenzmuster",
+      "Interpretation"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstanzer",
+      "Konstrukt",
+      "Konstruktion",
+      "Konstruktionen"
+    ],
+    "mathe": [
+      "Mathematicians",
+      "Mathematik",
+      "Mathematiker",
+      "Mathematisch",
+      "Mathematische"
+    ],
+    "model": [
+      "MODELLING",
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modells"
+    ],
+    "physi": [
+      "Physical",
+      "Physics",
+      "Physik",
+      "Physiker",
+      "Physikers"
+    ],
+    "quant": [
+      "Quanta",
+      "Quanten",
+      "Quantenebene",
+      "Quanteninformationstheorie",
+      "Quantum"
+    ],
+    "therm": [
+      "Thermodynamic",
+      "Thermodynamics",
+      "Thermodynamik",
+      "Thermodynamisch",
+      "Thermostat"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaforschern",
+      "Traumas",
+      "Traumata",
+      "Traumatic"
+    ],
+    "bewei": [
+      "Beweis",
+      "Beweiser",
+      "Beweisführung",
+      "Beweistheorien"
+    ],
+    "compu": [
+      "Computation",
+      "Computer",
+      "Computerprogramm",
+      "Computing"
+    ],
+    "diale": [
+      "Dialetheia",
+      "Dialetheias",
+      "Dialetheism",
+      "Dialetheismus"
+    ],
+    "grund": [
+      "Grundboden",
+      "Grundgerüst",
+      "Grundgestein",
+      "Grundlage"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationskapazität",
+      "Integrationsprozess",
+      "Integrität"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Charakteristik"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Anti",
+      "Antinomien"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Feld",
+      "Feldtheorien"
+    ],
+    [
+      "Feld",
+      "Löschungsfeld"
+    ],
+    [
+      "Halt",
+      "Halte"
+    ],
+    [
+      "Halt",
+      "Erhalt"
+    ],
+    [
+      "Halt",
+      "Erhaltung"
+    ],
+    [
+      "Halt",
+      "Halteproblem"
+    ],
+    [
+      "Halt",
+      "Erhaltungssätze"
+    ],
+    [
+      "Halt",
+      "Bindungsverhalten"
+    ],
+    [
+      "Hard",
+      "Richard"
+    ],
+    [
+      "Hard",
+      "Hardware"
+    ],
+    [
+      "Hard",
+      "Hardbound"
+    ],
+    [
+      "Iser",
+      "Beweiser"
+    ]
+  ]
+}

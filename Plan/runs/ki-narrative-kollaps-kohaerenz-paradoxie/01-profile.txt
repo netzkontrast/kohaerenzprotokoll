@@ -1,0 +1,14 @@
+# ki-narrative-kollaps-kohaerenz-paradoxie
+  lines                192  (frontmatter ends at 9)
+  body words           4179
+  headings             23   bold-only lines 0
+  table rows           8   code fences 0
+  question marks       4
+  backslash escapes    110
+  typographic marks    159   ascii quotes 6
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    41
+  repeated labels      none
+  longest line         1100 chars
+

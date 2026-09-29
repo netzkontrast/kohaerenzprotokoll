@@ -1,0 +1,14 @@
+# textanalyse-existenz-system-und-leid
+  lines                353  (frontmatter ends at 9)
+  body words           4245
+  headings             26   bold-only lines 0
+  table rows           11   code fences 0
+  question marks       8
+  backslash escapes    80
+  typographic marks    256   ascii quotes 0
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    47
+  repeated labels      none
+  longest line         831 chars
+

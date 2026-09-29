@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x2
+  glued ref numbers      41
+  backslash escapes      110
+  typographic marks      159
+  ascii quotes           6
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systemachsen, Systemanalyse, Systemarchitekten, Systemarchitektur, Systematische, Systemen, Systemische, Systemkonflikt, Systemkonflikte, Systems, Systemtheorie, Systemzustand
+  archi    Archipel, Architecture, Architektonische, Architektur, Architekturdokument, Architekturdokumentation, Architekturen
+  infor    Information, Informationsdynamik, Informationslöschung, Informationstheorie, Informationszerstörung, Informationszuständen
+  narra    Narration, Narrationen, Narrations, Narrativ, Narrative, Narratologie
+  parad    Paradigma, Paradigmenwechsel, Paradoxie, Paradoxien, Paradoxon, Paradoxons
+  orche    Orchestrated, Orchestrator, Orchestrators, Orchestrierung, Orchestrierungsmechanismen
+  agent    Agent, Agenten, Agents, Agentur
+  algor    Algorithmen, Algorithmische, Algorithmischen, Algorithmus
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinszustände, Bewusstwerdung
+  daten    Datenkanal, Datenpaket, Datenpunkte, Datenstrom
+  entro    Entropic, Entropie, Entropieproduktionsmaschine, Entropische
+  integ    Integration, Integrator, Integrity, Integrität
+  kontr    Kontradiktion, Kontroll, Kontrolle, Kontrollsystem
+  lösch    Löschung, Löschungsvorgang, Löschvorgang, Löschvorgänge
+  unter    Unter, Unterdrückung, Unterdrückungsmaschinerie, Untersuchung
+  wahrh    Wahrheit, Wahrheiten, Wahrheitsfindung, Wahrheitstheorie
+  anpas    Anpassung, Anpassungen, Anpassungsleistung
+  antei    Anteil, Anteile, Anteils
+  arbei    Arbeit, Arbeiten, Arbeitslasten
+  basis    Basis, Basisdokumentation, Basismodell
+  bezie    Beziehung, Beziehungsdynamik, Beziehungsdynamiken
+  diese    Diese, Dieser, Dieses
+  emoti    Emotion, Emotionale, Emotionalen
+  erinn    Erinnern, Erinnerung, Erinnerungen
+  evalu    Evaluation, Evaluationsmethoden, Evaluierung
+
+# substring pairs -- never one term, often merged by accident
+  Aris < Comparison
+  Code < Quellcode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Anscheinend
+  Eins < Seins
+  Eins < Bewusstseins
+  Eins < Bewusstseinszustände
+  Erst < Erstem
+  Erst < Zerstörung
+  Erst < Gegenüberstellung
+  Erst < Informationszerstörung
+  Flip < Flips
+  Form < Storyforms
+  Form < Information
+  Form < Transformer
+  Form < Formulierung
+  Form < Transformation

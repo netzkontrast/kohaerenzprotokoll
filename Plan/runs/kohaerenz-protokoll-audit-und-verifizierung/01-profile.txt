@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-audit-und-verifizierung
+  lines                265  (frontmatter ends at 0)
+  body words           5793
+  headings             25   bold-only lines 0
+  table rows           18   code fences 0
+  question marks       10
+  backslash escapes    98
+  typographic marks    26   ascii quotes 106
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    64
+  repeated labels      none
+  longest line         1061 chars
+
