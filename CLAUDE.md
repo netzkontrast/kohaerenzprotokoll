@@ -379,7 +379,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 530 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 531 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -445,8 +445,8 @@ conflicts, questions) and **4339 <!--state:graph.edges--> edges** (`links`,
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 9019 <!--state:graph.evidence-->
-of them, **9019 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 9022 <!--state:graph.evidence-->
+of them, **9022 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
