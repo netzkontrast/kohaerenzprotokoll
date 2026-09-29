@@ -39,7 +39,7 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 4339,
+      "value": 4418,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
@@ -51,19 +51,19 @@
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 177,
+      "value": 181,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
-      "value": 20,
+      "value": 24,
       "how": "retrieval cases the wiki labels itself: questions and conflicts"
     },
     "graphrag.recall_ppr": {
-      "value": 65,
+      "value": 69,
       "how": "graphrag bench mean recall@8 in whole percent, personalized PageRank"
     },
     "graphrag.recall_seeds": {
-      "value": 47,
+      "value": 53,
       "how": "graphrag bench mean recall@8 in whole percent, seeds alone \u2014 the floor"
     },
     "judgements.disagree": {
@@ -107,7 +107,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 20814,
+      "value": 20893,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -143,7 +143,7 @@
       "how": "changes the review made to readers' output, recorded in corrections.jsonl"
     },
     "runs.logged": {
-      "value": 0,
+      "value": 1,
       "how": "runs under Plan/runs/ that record their cost with scripts/runlog.py (run.jsonl)"
     },
     "sources.canon_era": {
@@ -227,7 +227,7 @@
       "how": "pages counted by the derived Wiki/index.json"
     },
     "wiki.questions": {
-      "value": 5,
+      "value": 9,
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {

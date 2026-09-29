@@ -132,7 +132,7 @@ documents 40–51 the first read from before it since document 6.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
-**5 <!--state:wiki.questions-->**, and
+**9 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
 has been promoted.
@@ -161,6 +161,14 @@ matches what the newest run recorded leaving. It was red from the 2026-09-25 sca
 reconciliation, the wiki held 105 pages where the newest run recorded 94, and the
 check named exactly that. It was not loosened to excuse them. Document 21 started
 from the 105 pages and recorded the state it left.
+
+**Four question pages were promoted on 2026-09-29, from the pages alone.** Q6 asks how
+the Nexus, the Überraum and the Überwelt relate; Q7 what the number 734 names; Q8 what
+AEGIS is after the Vortex's fifth beat, and whether Oblivion takes over its function; Q9
+where the Moonshine-Link's boundary lies. Each gathers what term pages already quote,
+verified by `quotes.py`, and no document was read for them. Q8 and Q9 are open points the
+sources name themselves, citing the Reset-Doc's Appendix C —
+`kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, landed and unread.
 
 **The 2026-09-25 scan added eleven pages outside the pipeline.** Following qmd
 searches over the open records, ten unread documents each got a triage scan
@@ -441,8 +449,8 @@ read after that, made it three.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **177 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **4339 <!--state:graph.edges--> edges** (`links`,
+citations and builds **181 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **4418 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
@@ -468,12 +476,12 @@ python3 scripts/graphrag.py ask "Wie hängen die Guardians mit AEGIS zusammen?"
 python3 scripts/graphrag.py bench              # recall against the wiki's own labels
 ```
 
-`bench` scores retrieval on the 20 <!--state:graphrag.cases--> cases the wiki
+`bench` scores retrieval on the 24 <!--state:graphrag.cases--> cases the wiki
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
-**47 <!--state:graphrag.recall_seeds-->% from the seeds alone and
-65 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
-step, on twenty cases whose labels were written by the same hand as the
+**53 <!--state:graphrag.recall_seeds-->% from the seeds alone and
+69 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+step, on cases whose labels were written by the same hand as the
 pages. Documents 7–9 added seven of them (C6–C12), the author's C6
 decision an eighth (Q5), document 16 a ninth (C13) and document 17 two
 more (C14, C15); on the original nine the numbers were 40 and 58.
@@ -493,7 +501,7 @@ Document 27 moved it to 0.643: C11 from 0.6 to 0.4 and Q3 from 0.375 to 0.25, an
 pages crowding the gold out of the top eight are the central ones it gave a reading — `aegis`,
 `juna`, `kael`, `coheron`, `vortex`, `alters`. The hubs grew faster than the pages around them.
 Document 28 moved it to 0.637, only C4, from 0.556 to 0.444: `cerberus` left its top eight and `alters`
-entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47, nor documents 48–50. Document 51 moved it to 0.654, only C4, from 0.556 to 0.444.
+entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47, nor documents 48–50. Document 51 moved it to 0.654, only C4, from 0.556 to 0.444. The four question pages of 2026-09-29, Q6–Q9, added four cases and moved it to 0.694 over 24, and seeds alone from 0.466 to 0.531; the twenty earlier cases scored exactly as before. The new cases score high because each question is worded in the terms of the pages that raise it — Q7 and Q9 1.0, Q6 0.833, Q8 0.75 with PageRank — which is the caveat above, the same hand writing question and label, four times more.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`

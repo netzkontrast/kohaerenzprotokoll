@@ -234,7 +234,8 @@ before this list.
   once (L101) and as Komponente 734 twice (L487, L661) in one document. Which is
   it — or is the ambiguity the point? **The Plot-Konkretisierung proposes the second**:
   the Kap-22 find shows the component's serial is his dwelling's — „Er wohnt in der
-  Akte seiner eigenen Quarantäne.“ (its L88), marked `[V]`.
+  Akte seiner eigenen Quarantäne.“ (its L88), marked `[V]`. Now **Q7**
+  (`Wiki/questions/q7-what-734-names.md`), 2026-09-29.
 - **Kap 40 — 39 chapters or 41 movements? Mostly answered by the sources, and this
   line was wrong.** It said every read source but the Plot-Konkretisierung ends at
   Kap 39. Reading the chapter outlines onto chapter pages (decision 013) showed
@@ -700,7 +701,7 @@ was worth porting from the tools is decided — the review's closing section.
 In order, and none of it needs a model:
 
 1. **More retrieval cases.** `graphrag.py bench` has
-   20 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
+   24 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
    pages. The `## Open` sections (`relations.py --open`) are a second source;
    write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
    has why and the next four steps after it.
@@ -942,6 +943,34 @@ Even there it holds naming relations Jev called translations: `Logik`/`LogOS` 0.
 is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
+
+## Question pages Q6–Q9 — 2026-09-29
+
+On the author's „Read the Wiki and Create new questions in the Wiki“, four questions
+that two or more term pages raise, or that the sources name as open themselves, were
+promoted to `Wiki/questions/`. Each gathers quotations the term pages already hold; no
+document was read, and none was started (the author's word of 2026-09-28 stands).
+
+- **Q6** — the Nexus, the Überraum and the Überwelt: one space, one in another, or three
+  (J18, J36, J63, J103). The 2025 Guardians take a form in the Nexus, the worldbuilding
+  concept's reside in the Überwelt, the philosophischer Bericht's in KW3 `Überwelt / Nexus`.
+- **Q7** — what 734 names: the component, the dwelling, both on purpose (J80).
+- **Q8** — AEGIS after the Vortex's fifth beat, and Oblivion taking over its function
+  (Appendix C.1 and C.5, OQ-A, OQ-G, as the sources cite them).
+- **Q9** — the Moonshine-Link's boundary: what crosses, who feels it, whose it is
+  (Appendix C.2, OQ-B, OQ-F).
+
+**What they point at, if reading resumes.** Q8 and Q9 both send the reader to
+`kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md` (792 lines, landed, unread),
+whose Appendix C has eight headings, C.1–C.8 (orientation only). Q6 points at
+`roman-blueprint-seelen-kohaerenz-protokoll` (2025-04-17; `Überraum` 17, `Nexus` 41 by a
+whole-word count) and Q7 at `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`
+(2025-04-18; `Einheit 734` 18). A suggestion, not a start: the author decides when
+reading resumes.
+
+**Measured.** `graphrag.py bench` went from 20 cases to 24; the twenty scored as before,
+and the four new ones score high because each question names the pages that raise it
+(`CLAUDE.md`, *The knowledge graph*).
 
 ## Next document — none: the author asked that no new document be started (2026-09-28)
 

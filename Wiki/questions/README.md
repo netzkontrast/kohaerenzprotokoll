@@ -23,7 +23,7 @@ Eleven pages ask one question. Answering it would mean editing eleven pages, and
 nothing would say they were the same question. That is the need.
 
 The harvest has grown with the wiki: 310 <!--state:wiki.open_statements-->
-open statements today, and 5 <!--state:wiki.questions--> question pages
+open statements today, and 9 <!--state:wiki.questions--> question pages
 promoted from them.
 
 ## What a question page is
