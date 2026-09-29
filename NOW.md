@@ -28,19 +28,13 @@ And the two read ones with them: „Yes, 22 and 23 are research too" (2026-09-26
 them the novel's text, and were corrected; the readings quote what they say and stand.
 A document may still call itself a draft, and a reading may quote that.
 
-**New from the pipeline measurement (2026-09-29)** — on „Schau dir die letzten Runs an und plane die
-Optimierung der Pipeline". The plan is `Plan/concept/pipeline-optimization_2026-09-29.md`, its numbers
-`Plan/runs/pipeline-2026-09-29/`; nothing is built and no document was read. Its questions, in short:
-- **Step 2**: may the per-document history leave CLAUDE.md (34 % of it) and NOW.md (41 %) for
-  `Wiki/compare/README.md`, word for word? CLAUDE.md is in every reader's context too.
-- **Step 4**: may readers write reading files that code turns into pages — the pages a document's readings
-  touch are 0.5–1.8 MB against a document of 7–372 KB — and may a pilot on documents 48–50 spend the Sonnet
-  usage it needs?
-- **Raw qmd answers**: 61 % of the chapter pages. Stay, or move beside their run?
-- **`ingested:`**: does a citation in a difference line make a document ingested on that page?
-- **When reading resumes**: by which rule, how deep, who claims what; and does every document still need its
-  full candidate list — 30 documents since document 22 made no page?
-- **Session-start install**: four virtualenvs, 2.9 GB, serve nothing the pipeline or its self-tests call.
+**Answered 2026-09-29 — the pipeline plan, „Alles ja" and „Bitte setze den Plan um"** (decision 015).
+Built on PR netzkontrast/kohaerenzprotokoll#110: step 1 (`runlog.py`), step 2 (history to
+`Plan/runs/reading-log.md`, install detail to the tools skill), step 3 (`read.py --count` and count marks,
+`lint_readings.py`, derived frontmatter, `account.py order` without a census fails), step 4 (`digest.py`,
+`readings.py`, `.claude/agents/wiki-reader.md`), the raw qmd answers beside their run, a leaner session
+install. A quality sample of documents 32–51 found 11 defects in 119 claims, all corrected
+(`Plan/runs/quality-sample-2026-09-29/`). The pilot of step 4 and step 6's sample are under *Handover*.
 
 **New from the last eight canon-era documents (2026-09-27, documents 32–39, all English, all 2026-05-08):**
 - **The Guardian-world pairing, again, on the canon's date.** The Narrative Building Blocks report makes
