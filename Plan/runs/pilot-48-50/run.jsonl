@@ -1,2 +1,3 @@
 {"event": "start", "phase": "readers", "at": "2026-09-29T17:44:35+00:00"}
 {"event": "reader", "name": "G3-concepts", "model": "sonnet", "tokens": 213717, "tool_uses": 28, "ms": 266955, "pages": [], "at": "2026-09-29T17:49:53+00:00"}
+{"event": "reader", "name": "G4-records", "model": "sonnet", "tokens": 240492, "tool_uses": 27, "ms": 384343, "pages": [], "at": "2026-09-29T17:51:45+00:00"}
