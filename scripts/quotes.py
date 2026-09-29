@@ -106,8 +106,13 @@ CITE = re.compile(r"\^\[(?P<ref>[^\]\n]{2,80})\]")
 RAW_FENCE = re.compile(r"^```qmd\n.*?^```", re.S | re.M)
 # A count mark: the words (code span or „…") and `^[slug.md:#N]` right after them.
 COUNT_REF = re.compile(r"^(?P<slug>[A-Za-z0-9\-]+)\.md:#(?P<n>\d+)$")
-MARK = re.compile(r"(?:`(?P<code>[^`\n]+)`|„(?P<quote>[^„“\n]{1,400})[“\"]) ?"
+# A wrapped line may stand between the words and their mark: until 2026-09-29 a
+# mark split from its code span by a line break matched nothing and was neither
+# checked nor counted (a document-reader found three of its own that way).
+MARK = re.compile(r"(?:`(?P<code>[^`\n]+)`|„(?P<quote>[^„“\n]{1,400})[“\"])[ \t]*\n?[ \t]*"
                   r"\^\[(?P<slug>[A-Za-z0-9\-]+)\.md:#(?P<n>\d+)\]")
+# Every count mark written, paired or not — so a mark nothing could read is named, never skipped (P23).
+ANY_MARK = re.compile(r"\^\[(?P<slug>[A-Za-z0-9\-]+)\.md:#(?P<n>\d+)\]")
 # Phrases that assert an absence or a count in prose. One alternation, so
 # „stands 0 times" is one occurrence and not two.
 ABSENCE = re.compile(r"\b0 times\b|\bstands? 0\b|`[^`\n]+`\s+0\b|\bzero times\b")
@@ -375,6 +380,12 @@ def check_marks(text: str) -> tuple[int, list[dict]]:
         else:
             continue
         wrong.append({"quote": words[:60], "ref": ref, "why": why})
+    paired = {m.end() for m in MARK.finditer(unraw(text))}
+    for m in ANY_MARK.finditer(unraw(text)):
+        if m.end() not in paired:
+            marks += 1
+            wrong.append({"quote": "", "ref": f"{m.group('slug')}.md:#{m.group('n')}",
+                          "why": "a count mark with no code span or quotation right before it: nothing says what it counts"})
     return marks, wrong
 
 

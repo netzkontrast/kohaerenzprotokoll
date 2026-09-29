@@ -99,6 +99,9 @@ COUNT_CASES = [
     ("correct count", "„Guardian" + "\u201c ^[%s.md:#22]" % DOC, None),
     ("wrong count", "`Guardian` ^[%s.md:#0]" % DOC, "the count is 22, not 0"),
     ("zero only by case", "`guardian` ^[%s.md:#0]" % DOC, "zero only by case: 22"),
+    # found by a document-reader, 2026-09-29: a wrap between the words and the mark
+    ("mark on the next line", "`Guardian`\n^[%s.md:#22]" % DOC, None),
+    ("a mark with no words before it", "Counted: ^[%s.md:#22]" % DOC, "no code span or quotation"),
 ]
 
 
@@ -305,13 +308,14 @@ def check_order() -> list[str]:
 
 def main() -> int:
     failures = check_quotes() + check_find() + check_fold() + check_counts() + check_frontmatter() + check_order()
+    counting = len(COUNT_CASES) + 3 + 1   # the marks, read --count against capture, the pasted mark
     total = (len(QUOTE_CASES) + 3 + len(SHORT_CASES) + len(FIND_CASES) + 1
-             + len(MUST_NOT_MERGE) + len(MUST_MERGE) + 5)
+             + len(MUST_NOT_MERGE) + len(MUST_MERGE) + 5 + counting)
     for line in failures:
         print(f"  FAIL  {line}")
     print(f"\n{total - len(failures)} of {total} cases hold "
           f"({len(QUOTE_CASES) + 3 + len(SHORT_CASES)} quotation, {len(FIND_CASES) + 1} citation, "
-          f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold, 5 frontmatter and order)")
+          f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold, {counting} counting, 5 frontmatter and order)")
     if failures:
         print("\nA failure here means a checker other work depends on is not "
               "reporting what it claims to report.")
