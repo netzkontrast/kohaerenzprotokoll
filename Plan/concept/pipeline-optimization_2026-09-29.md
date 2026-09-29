@@ -1,6 +1,10 @@
 # The reading pipeline, measured on its last twenty runs — and what to change
 
-> **A plan. Nothing in it is built, and no document is read to build it.** The
+> **Status, 2026-09-29 evening: accepted in full („Alles ja", decision 015) and
+> built through step 5** — see *What was built* at the end. Step 6's sample is
+> named in `NOW.md`, not yet read.
+>
+> **A plan when written. Nothing in it was built, and no document was read to build it.** The
 > author, 2026-09-29: „Schau dir die letzten Runs an und plane die Optimierung
 > der Pipeline" — a day after „Dont start any new documents" (2026-09-28). Every
 > step below can be built and proved on documents already read.
@@ -425,3 +429,20 @@ corpus text goes to a third party — the readers stay Claude.
   optimiser on the reader's instructions be worth running. `pairs.py` measured
   GEPA at fourteen times the cost of eight labelled demos, for a lower score
   (`Plan/concept/dspy-optimization_2026-09-25.md`).
+
+## What was built — 2026-09-29, on pull request netzkontrast/kohaerenzprotokoll#110
+
+| step | what exists now |
+|---|---|
+| 1 | `scripts/runlog.py` — phases, readers' usage, the review's corrections; `state.py` measures `runs.*` |
+| 2 | the per-document history in `Plan/runs/reading-log.md`, the install detail in `.agents/skills/tools/references/install.md`; CLAUDE.md 112,437 → about 57k characters, NOW.md 133,693 → about 79k |
+| 3 | `read.py --count` and count marks checked by `quotes.py` (1,139 unmarked absence phrases, a backlog); `lint_readings.py`; `wiki_index.py --check` / `--fix-frontmatter` (16 pages re-derived); `account.py order` fails a reconciliation with no census |
+| 4 | `digest.py`, `readings.py`, `.claude/agents/wiki-reader.md`; the pilot on documents 48–50 met its bar — F1 0.89, 0 unresolved (`Plan/runs/pilot-48-50/`) |
+| 5 | practice, now in the `ingest` and `tools` skills: batches by page group, reader files, the run log |
+| — | the raw qmd answers beside their run (chapter pages 3.18 → 1.25 MB); `install.sh --session` at session start |
+
+**A quality sample came first** (`Plan/runs/quality-sample-2026-09-29/`). It
+drew 119 claims from documents 32–51: 87 were OK, 21 minor and 11 defects, and
+all 11 are corrected. None of the defects was visible to `quotes.py`; they are
+the reason `lint_readings.py` knows „every later source" and „the oldest read
+source".

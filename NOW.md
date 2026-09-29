@@ -656,10 +656,21 @@ author's.
 
 ## Handover — the next session starts here
 
-**The pipeline plan of 2026-09-29 waits on the author** (`Plan/concept/pipeline-optimization_2026-09-29.md`).
-Its step 1 (recording what a run costs) and step 3 (five checks for what the review keeps catching) need no
-decision and read no new document; steps 2, 4 and 6 wait on the questions above. `python3
-Plan/runs/pipeline-2026-09-29/measure.py` re-measures every number it uses in about 4 s.
+**The pipeline plan of 2026-09-29 is built through step 5** (decision 015; the plan's last section
+lists what exists). The next session starts on **step 6, the sample**: the two newest unread documents in
+each of the six categories with one read document or none, read with the new readings step
+(`wiki-reader` files, `readings.py apply`, `runlog.py` from the first phase):
+
+- audit: `technical-audit-research-mandate-the-kohaerenz-pro…`, `kohaerenz-protokoll-audit-und-verifizierung`
+- theorie-logik: `ki-narrative-kollaps-kohaerenz-paradoxie`, `kohaerenz-protokoll-meta-foreshadowing-beobachter-…`
+- theorie-psychologie: `angst-bei-komplexen-traumafolgen`, `flow-zustaende-und-dissoziative-identitaet`
+- theorie-philosophie: `ontologische-inversion-von-aegis-kritisches-framew…`, `textanalyse-existenz-system-und-leid`
+- theorie-genre: `kohaerenz-protokoll-hard-sf-horror-thriller`, `hard-sci-fi-cosmic-horror-research-questions`
+- aegis: `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, `aegis-persona-and-manifest-generation`
+
+Slugs are cut here; `python3 scripts/sources.py status` and the manifest have them whole. **Claim before
+reading**: open a draft pull request titled `claim: <slug>` and check the open pull requests for one first —
+two sessions following one handover read documents 16, 17 and 20 twice.
 
 **A qmd search over all 347 unread landed documents ran on 2026-09-26** (`Plan/runs/qmd-scan-2026-09-26/`): one to four short queries per open record, hits only, no reading. It placed all fifteen unread canon-era documents and found two the earlier scan had not: a second Kap 0 draft and a philosophischer Bericht. It also showed the stemmer turning „Mira“ into „miracle“ — six hits, none of them the name.
 
