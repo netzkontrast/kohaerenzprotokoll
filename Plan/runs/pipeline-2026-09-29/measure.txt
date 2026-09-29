@@ -1,0 +1,150 @@
+## 1 · The always-loaded context
+
+CLAUDE.md  112437 characters; per-document table and narrative  37986 (34 %), 'Installing anything'  17796 (16 %)
+NOW.md     132113 characters; 'Previous document' sections  54291 (41 %)
+per-document records in Wiki/compare/: 51 files, 237859 bytes
+
+## 2 · What each reconciliation yielded
+
+doc slug                                       lines  cand  look  judg pages  read   J sweep r/all
+  1 entropie-aegis                                99     -     -     -    14     0   0     1/1    
+  2 aegis-emergenz-aus-der-leere                 310     -     -     -    10     2   0     1/2    
+  3 kohaerenzprotokoll-aegis-und-systementropi   330     -     -     -     8     7   0     0/3    
+  4 guardians-und-kern-welten-konzept            141    19    15     4    14     4   6     2/3    
+  5 aegis-subplots-kapitelweise-system-explora   619    51    35    30     0     2  13     0/1    
+  6 roman-lokalitaeten-konzept-und-ausarbeitun   630   109    68    55    10    17  13     0/0    
+  7 kohaerenz-protokoll-storyform-und-outline-   526   383   293    92     4    17   8     1/2    
+  8 kohaerenz-protokoll-charakter-bibel-2026-0  1308   299   223    80    16    22   6     0/1    
+  9 koharenz-protokoll-konzept-konsolidiert-20  1395   444   355   108     2    45   3     2/2    
+ 10 kapitel-kompendium-gather-2026-05-31-md      307   275   213    61     0    28   1     0/0    
+ 11 kohaerenz-protokoll-kernwelten-vollstaendi   967   290   229    91     7    42   4     0/2    
+ 12 dramatica-dual-storyform-status-2026-05-07   473   204   161    40     0    16   0     0/2    
+ 13 kohaerenz-protokoll-begriffe-und-konzepte-   851   326   274    64     7    43   1     0/1    
+ 14 koharenz-protokoll-strukturierter-outline-  1393   569   357   230     0    43   7     0/0    
+ 15 koharenz-protokoll-konzept-iteration-genes   869    58    52    11     1    22   8     3/4    
+ 16 kohaerenz-protokoll-welt-sensorik-drafting  1502   539   346   249     0    53   5     3/3    
+ 17 kohaerenz-protokoll-anteile-profile-sprach  1129   334   236   107     0    38   2     1/1    
+ 18 kp-plot-konkretisierung-13-ideen-f1-faden-   291   571   309   266     0    31   1     0/1    
+ 19 koharenz-protokoll-sprach-dna-2026-05-13-m   249   194   135    64     0    32   1     0/1    
+ 20 kohaerenz-protokoll-konzept-master-md       1123   471   286   224     1    46   3     3/3    
+ 21 kap0-kap40-doppelklammer-abhandlung-2026-0   616   181   112    77     1    14   1     0/1    
+ 22 kohaerenz-protokoll-kap40-und-kap0-fassung   513    95    53    50     0    17   1     2/2    
+ 23 kap0-v1-annotiert-md                        1237   337   206   190     0    29   1     1/1    
+ 24 three-mode-architecture-39-chapters-md       646   333   179   162     0    29   0     1/3    
+ 25 koharenz-protokoll-kapitel-0-v2-md           639   144    99    50     0    15   1     1/1    
+ 26 worldbuilding-konzept-kohaerenzprotokoll-m   968   385   280   144     0    56   0     4/4    
+ 27 kohaerenz-protokoll-philosophie-im-detail-   831   401   276   162     0    39   0     2/3    
+ 28 2026-09-14-kap25-vertiefung-md                60   153   111    35     0    15   0     1/2    
+ 29 kp-kap25-2026-09-14-md                       295   162   100    54     0     9   0     0/0    
+ 30 dual-storyform-hintergruende-md              497   421   256   186     0    39   2     1/2    
+ 31 kohaerenz-protokoll-philosophischer-berich   838   456   329   141     0    57   4     5/5    
+ 32 systems-narrative-analysis-the-coherence-p   171   122    94    27     0    23   3     0/3    
+ 33 mining-report-kohaerenz-protokoll-plot-out   117   103    76    23     0    27   0     0/2    
+ 34 mining-report-kohaerenz-protokoll-narrativ   227   136   105    41     0    38   0     0/2    
+ 35 systemic-architecture-specification-the-co    88   158   125    46     0    49   0     0/1    
+ 36 companion-guide-to-the-coherence-protocol-   112   100    72    32     0    41   0     3/3    
+ 37 the-architecture-of-fracture-a-compendium-    79   106    87    23     0    45   0     1/1    
+ 38 editorial-style-dossier-somatic-and-lingui   102   117    90    42     0    36   0     1/1    
+ 39 the-physics-of-heartbreak-5-surprising-tak    41    60    46    16     0    26   0     0/1    
+ 40 dramatica-storyform-synthese-aegis-analyse   523   200   158    38     0    31   1     0/5    
+ 41 hard-sf-roman-outline-dkt-physik-cosmic-ho   265   188   108    89     0    43   1     4/9    
+ 42 roman-konzept-dualitaet-kohaerenz-spannung   170   203   135    73     0    43   1     2/4    
+ 43 monstergruppe-primzahlen-plot-blueprint      520   120    64    54     0    12   2     1/3    
+ 44 duale-storyform-synthese-kohaerenz-protoko   374   174   141    34     0    28   1     1/4    
+ 45 dramatica-storyform-synthese-aegis-analyse   235   180   136    42     0    26   0     1/4    
+ 46 m-als-fundament-der-simulation               750    97    68    27     0     9   0     0/2    
+ 47 kohaerenz-protokoll                         2498   330   204   142     0    24   4     4/5    
+ 48 charakter-kompilation-fuer-kohaerenz-proto   356   131   104    28     0    33   0     3/5    
+ 49 the-sensory-rulebook-the-body-as-a-measuri   111    66    54    16     0    20   1     1/2    
+ 50 ki-prompt-analyse-hard-problem-of-consciou   437   114    98    16     0    21   1     3/6    
+ 51 an-inquiry-into-the-unresolved-questions-a  1813   263   205    61     0    42   2     6/7    
+
+## 3 · What a page is made of
+
+Wiki/candidates: 2248306 characters — reading 89 %, lead 6 %, differ 2 %, other 2 %, open 1 %
+Wiki/chapters: 3105786 characters — qmd 61 %, reading 21 %, chapter-questions 7 %, differ 3 %, candidate-sources 3 %, about 2 %, lead 2 %, other 0 %
+
+largest term pages: bytes, digest, readings
+  aegis                       111218  11113  48
+  kael                         86743  10567  46
+  vortex                       86159  22840  27
+  juna                         85431   9798  44
+  kern-welten                  76439   8956  38
+  alters                       65483   8964  40
+  guardians                    62700   7621  38
+  risse                        59902   8075  38
+
+## 4 · What a reader loads to add one document's readings (pages at today's size)
+
+doc slug                                  docKB pages pagesKB digestKB recordsKB chaptersKB
+ 32 systems-narrative-analysis-the-coher     14    23    1090      175       362        253
+ 33 mining-report-kohaerenz-protokoll-pl     12    27    1182      209       241        253
+ 34 mining-report-kohaerenz-protokoll-na     26    38    1570      283       391        253
+ 35 systemic-architecture-specification-     12    49    1826      339       536        430
+ 36 companion-guide-to-the-coherence-pro      9    41    1568      288       432        253
+ 37 the-architecture-of-fracture-a-compe     10    45    1674      298       441          0
+ 38 editorial-style-dossier-somatic-and-     12    36    1311      232       225          0
+ 39 the-physics-of-heartbreak-5-surprisi      7    26    1095      194       255          0
+ 40 dramatica-storyform-synthese-aegis-a     64    31    1160      213       364        253
+ 41 hard-sf-roman-outline-dkt-physik-cos     46    43    1572      284       445       3010
+ 42 roman-konzept-dualitaet-kohaerenz-sp     40    43    1449      251       453       3010
+ 43 monstergruppe-primzahlen-plot-bluepr     86    12     698       92       235       3010
+ 44 duale-storyform-synthese-kohaerenz-p     44    28    1186      210       241        776
+ 45 dramatica-storyform-synthese-aegis-a     54    26    1187      203       354        253
+ 46 m-als-fundament-der-simulation           92     9     508       66       207          0
+ 47 kohaerenz-protokoll                     372    24    1012      158       468       1640
+ 48 charakter-kompilation-fuer-kohaerenz     20    33    1229      222       313          0
+ 49 the-sensory-rulebook-the-body-as-a-m     18    20     838      135       291          0
+ 50 ki-prompt-analyse-hard-problem-of-co     64    21     988      169       264        407
+ 51 an-inquiry-into-the-unresolved-quest    262    42    1487      260       277          0
+
+## 5 · Batching: pages loaded once per batch rather than once per document
+
+documents 33-39 : per document 10.23 MB, once per batch  1.95 MB (56 pages,  5.3x), as digests  0.37 MB
+documents 41-43 : per document  3.72 MB, once per batch  1.72 MB (54 pages,  2.2x), as digests  0.32 MB
+documents 44-46 : per document  2.88 MB, once per batch  1.55 MB (38 pages,  1.9x), as digests  0.29 MB
+documents 48-50 : per document  3.05 MB, once per batch  1.69 MB (47 pages,  1.8x), as digests  0.31 MB
+documents 32-51 : per document 24.63 MB, once per batch  2.15 MB (74 pages, 11.4x), as digests  0.42 MB
+
+## 6 · NEGATIVE: a reader given only the lines around a page's surfaces
+
+± 0 lines:  3470 of 6958 cited lines inside (0.50); the window is 0.01 of the document
+± 2 lines:  3896 of 6958 cited lines inside (0.56); the window is 0.05 of the document
+± 5 lines:  4307 of 6958 cited lines inside (0.62); the window is 0.09 of the document
+±10 lines:  4634 of 6958 cited lines inside (0.67); the window is 0.13 of the document
+±25 lines:  4947 of 6958 cited lines inside (0.71); the window is 0.23 of the document
+
+## 7 · NEGATIVE: how much of each unread document already stands in a read one
+
+read: 51 documents, 2.85 MB; unread with text: 534
+  share of 8-word shingles already read >= 0.9  :    1 documents,  0.02 MB
+  share of 8-word shingles already read 0.5-0.9 :    1 documents,  0.04 MB
+  share of 8-word shingles already read 0.2-0.5 :    2 documents,  0.05 MB
+  share of 8-word shingles already read < 0.2   :  530 documents, 23.55 MB
+
+by category: read, unread, unread MB
+  plot-outline          13  205   8.55
+  kernkonzept           10   70   2.60
+  theorie-psychologie    1   42   2.41
+  aegis                  1   37   1.53
+  theorie-physik         5   32   1.69
+  charaktere             6   31   1.51
+  storyform              6   28   1.27
+  theorie-logik          1   23   1.22
+  worldbuilding          5   17   0.96
+  theorie-mathematik     2   17   0.88
+  theorie-philosophie    1   16   0.55
+  audit                  0   15   0.40
+  theorie-genre          0    2   0.10
+
+## 8 · Claims no check reads
+
+absence counts written on wiki pages: 1284 in 121 files; quotes.py checks none of them
+comparison phrases inside one document's reading or record entry: 124 in 2765 sections
+
+## 9 · Hand-kept counts in page frontmatter against the page body
+
+sources != len(ingested)               1 (1 pages): kern-welten 38/39
+readings != reading sections           2 (2 pages): aegis 49/48, kern-welten 37/38
+readings kept, no reading heading     10 (10 pages): ani, ars, ecr, entropie-resonanz, entropie-signatur, nullpunkt-protokoll, pms, rsa, snk, ztv
+cited (qualified), not ingested       17 (14 pages): aegis-teilfunktionen:kohaerenzprotokoll-aegis-und-systementropie, atemporalitaet:koharenz-protokoll-konzept-konsolidiert-2026-05-08-md, chaitin-konstante:koharenz-protokoll-strukturierter-outline-2026-05-18-md, drei-ontologische-schichten:koharenz-protokoll-konzept-konsolidiert-2026-05-08-md, evaluierungseinheit:koharenz-protokoll-konzept-konsolidiert-2026-05-08-md, formel-inversion:kohaerenz-protokoll-konzept-master-md, genesis:kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md, goedel-gambit:aegis-subplots-kapitelweise-system-exploration-docx, goedel-gambit:kohaerenz-protokoll-konzept-master-md, grosse-mauer:guardians-und-kern-welten-konzept, hitze-polaritaetsregel:kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md, komponente-734:an-inquiry-into-the-unresolved-questions-and-thematic-tensio, komponente-734:ki-prompt-analyse-hard-problem-of-consciousness, ouroboros-struktur:kap0-kap40-doppelklammer-abhandlung-2026-05-08-md, residual-echos:roman-konzept-dualitaet-kohaerenz-spannung, residual-echos:three-mode-architecture-39-chapters-md, tsdp:kohaerenz-protokoll-storyform-und-outline-2026-06-10-md
