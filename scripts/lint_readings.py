@@ -51,7 +51,10 @@ COMPARE = re.compile(
     r"\bonly (?:one|source|document|read)\b|\bno other\b|\bevery other\b"
     r"|\ball other\b|\bthe first (?:read )?(?:source|document)\b|\bearliest\b"
     r"|\blatest\b|\bunlike\b|\bas in document \d+|\ba (?:%s) (?:position|title|source)\b"
-    r"|\bevery read source\b" % ORD, re.I)
+    r"|\bevery read source\b"
+    # found by the quality sample of 2026-09-29, both passed by the patterns above
+    r"|\bevery (?:later|earlier|older|newer) (?:read )?sources?\b"
+    r"|\bthe (?:oldest|newest|youngest) (?:read |whole-novel )?(?:source|document|plan)\b" % ORD, re.I)
 
 
 def sections(lines):
@@ -208,6 +211,8 @@ def selftest():
 
     cases = [
         ("COMPARISON flagged", "It is the only source that names it.", "COMPARISON", True),
+        ("COMPARISON: every later source", "Unlike every later source, it fuses.", "COMPARISON", True),
+        ("COMPARISON: the oldest read source", "The oldest read source is also the one.", "COMPARISON", True),
         ("COMPARISON cites another document", "It is the only source that names it. ^[doc-b.md:L3]", "COMPARISON", False),
         ("COMPARISON cites itself only", "The earliest use. ^[doc-a.md:L3]", "COMPARISON", True),
         ("COMPARISON inside a quotation", "Er sagt „the only source. unlike all“ ^[doc-a.md:L3]", "COMPARISON", False),
