@@ -3,3 +3,5 @@
 {"event": "start", "phase": "list", "at": "2026-09-29T18:37:59+00:00"}
 {"event": "end", "phase": "list", "at": "2026-09-29T18:40:27+00:00"}
 {"event": "start", "phase": "count", "at": "2026-09-29T18:40:27+00:00"}
+{"event": "end", "phase": "count", "at": "2026-09-29T18:52:16+00:00"}
+{"event": "start", "phase": "census", "at": "2026-09-29T18:52:16+00:00"}

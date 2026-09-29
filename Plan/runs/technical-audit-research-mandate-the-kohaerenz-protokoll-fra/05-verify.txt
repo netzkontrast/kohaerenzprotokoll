@@ -844,6 +844,27 @@ including compounds            0
 
 `Wiki` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
 
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count disputed
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`disputed` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count superseded
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`superseded` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count deprecated
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`deprecated` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
 
 ==============================================================================
 E. Structure and export damage
@@ -881,6 +902,41 @@ $ python3 -c "t=open('Sources/drive/technical-audit-research-mandate-the-kohaere
 $ python3 - <<'EOF'
 import re
 t=open('Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md',encoding='utf-8').read().split(chr(10))
+print('line lengths over 600:',[(i+1,len(l)) for i,l in enumerate(t) if len(l)>600])
+print('numbers written, by line:')
+for i,l in enumerate(t):
+    k=re.findall(r'[0-9]+',l)
+    if k: print('  L'+str(i+1),k)
+EOF
+line lengths over 600: [(3, 1488), (21, 803), (40, 765)]
+numbers written, by line:
+  L3 ['1', '2', '1', '0', '2']
+  L6 ['0']
+  L7 ['1']
+  L8 ['0', '1']
+  L9 ['1', '0', '3']
+  L13 ['0', '1']
+  L17 ['4', '5']
+  L20 ['24', '1']
+  L21 ['5', '8', '10', '53', '196884', '196883', '1', '24']
+  L23 ['5']
+  L29 ['6', '1']
+  L31 ['39']
+  L36 ['1', '7']
+  L40 ['1', '0', '39']
+
+$ grep -n -o -E '\*\\\*\\\*[A-Za-z][^:]*:' Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md
+5:*\*\*Research Mandate - DKT:
+10:*\*\*Research Mandate - TSDP:
+14:*\*\*Critical Consistency Takeaways:
+18:*\*\*Research Mandate - Dramatica & Moonshine:
+25:*\*\*Research Mandate - Logic & Randomness:
+30:*\*\*Research Mandate - Reader & Juna:
+37:*\*\*Research Mandate - The Climax:
+
+$ python3 - <<'EOF'
+import re
+t=open('Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md',encoding='utf-8').read().split(chr(10))
 l=t[20]
 print('L21 pipes:',l.count('|'),'| || joins:',l.count('||'),'| rows (joins+1):',l.count('||')+1,'| dash groups (separator row):',l.count('------'))
 heads=[(i+1,m.start()) for i,x in enumerate(t) for m in re.finditer(r'[*][*][0-9][.] [^*]+[*][*]',x)]
@@ -900,6 +956,159 @@ headings that open their line (column 0): [3, 23]
 headings glued inside a line (column > 0): [3, 9, 17, 29, 36]
 Final Synthese Verdict on L40 at column 381 preceded by '  entropy.**'
 axis numerals written: ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'] -> 8 axes, in 5 headings
+
+
+==============================================================================
+F. Claims of the census that need their own count
+Glyph spellings, bare adjective names, the compound forms behind the substring rows, and the stance markers. The table, the axis numerals and where each heading opens are in the last command of section E.
+==============================================================================
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Landauer'"'"'s Principle'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Landauer's Principle` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Chaitin'"'"'s Halting Probability'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chaitin's Halting Probability` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Juna'"'"'s Positioning'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna's Positioning` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Tarskian
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Tarskian` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Husserlian
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Husserlian` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Iserian
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Iserian` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Janetian
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Janetian` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Tarski
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Tarski` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Husserl
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Husserl` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Iser
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Iser` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Janet
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Janet` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count firewalls
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`firewalls` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count high-entropy
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`high-entropy` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count coherence-seeking
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`coherence-seeking` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count readers
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`readers` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count dialetheias
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`dialetheias` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count cracks
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`cracks` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'nothingness static'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`nothingness static` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Axis I'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Axis I` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Axis II'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Axis II` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Axis III & IV'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Axis III & IV` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
 
 $ python3 - <<'EOF'
 import sys
@@ -925,4 +1134,77 @@ EOF
   1  structurally verified
   1  ready for publication
 stance_marker_count = 18
+
+
+==============================================================================
+G. Evidence for the census's statements about the tools and the export
+The glued reference number, the surroundings of each German name, the items left off the list, and a demonstration that a count mark on an escaped symbol is refused.
+==============================================================================
+
+$ python3 - <<'EOF'
+import sys,re
+sys.path.insert(0,'scripts')
+from rules import export_damage as ed
+t=open('Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md',encoding='utf-8').read().split(chr(10))
+for i,l in enumerate(t,1):
+    for m in ed.GLUED_REF.finditer(l): print('glued reference number: L'+str(i),repr(l[max(0,m.start()-12):m.end()+8]))
+for name in ['Mnemosyne-Archipel','Kollaps-Kern','Risse','Nichts-Rauschen']:
+    seen=[]
+    for i,l in enumerate(t,1):
+        for m in re.finditer(re.escape(name),l): seen.append((i,l[m.start()-1],l[m.end()]))
+    print(name,'(line, char before, char after):',seen)
+EOF
+glued reference number: L21 'ech Lattice Rank 24** | Gro'
+Mnemosyne-Archipel (line, char before, char after): [(6, '"', '"'), (9, ' ', ','), (26, ' ', ' '), (36, ' ', '.')]
+Kollaps-Kern (line, char before, char after): [(6, '"', '"')]
+Risse (line, char before, char after): [(26, '"', '"')]
+Nichts-Rauschen (line, char before, char after): [(31, '"', '"')]
+
+$ python3 - <<'EOF'
+import sys
+sys.path.insert(0,'scripts')
+import capture
+slug='technical-audit-research-mandate-the-kohaerenz-protokoll-fra'
+text,_=capture.body_of(slug)
+terms=capture.candidate_terms(open(f'Plan/runs/{slug}/03-candidates.md',encoding='utf-8').read())
+for w in ['Strategic Executive Summary','Final Synthese Verdict','Research Mandate','computational constraint','primary competitive advantage','logical necessity','Immutable bedrock','Structural resonance','Dimensional rigidity','systemic narrative collapse\u2014informational heat death','The Climax','The Truth-Rotation']:
+    print(f'in the text: {text.count(w):2}  on the list: {w in terms!s:5}  {w}')
+EOF
+in the text:  1  on the list: False  Strategic Executive Summary
+in the text:  1  on the list: False  Final Synthese Verdict
+in the text:  7  on the list: False  Research Mandate
+in the text:  1  on the list: False  computational constraint
+in the text:  1  on the list: False  primary competitive advantage
+in the text:  2  on the list: False  logical necessity
+in the text:  1  on the list: False  Immutable bedrock
+in the text:  1  on the list: False  Structural resonance
+in the text:  1  on the list: False  Dimensional rigidity
+in the text:  1  on the list: False  systemic narrative collapse—informational heat death
+in the text:  1  on the list: False  The Climax
+in the text:  1  on the list: False  The Truth-Rotation
+
+$ python3 - <<'EOF'
+import sys
+sys.path.insert(0,'scripts')
+import read
+doc=read.document('technical-audit-research-mandate-the-kohaerenz-protokoll-fra')
+for q in ['K\\_1','K\\_0','Lex','Nyx','Lia','VOA','Kiko']:
+    print(repr(q),'-> comparable fragments:',read.quotes.parts_of(q),'| lines found:',read.locate(doc,q)[:4])
+EOF
+'K\\_1' -> comparable fragments: [] | lines found: []
+'K\\_0' -> comparable fragments: [] | lines found: []
+'Lex' -> comparable fragments: [] | lines found: []
+'Nyx' -> comparable fragments: [] | lines found: []
+'Lia' -> comparable fragments: [] | lines found: []
+'VOA' -> comparable fragments: [] | lines found: []
+'Kiko' -> comparable fragments: ['Kiko'] | lines found: [12, 38]
+
+$ printf '%s\n' '`K\_1` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#8] and the unescaped `K_1` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]' > /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/marktest.md; python3 scripts/quotes.py /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/marktest.md
+UNRESOLVED  /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/marktest.md  ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#8]
+            „K_1…"
+            the count is 0, not 8
+
+0 cited quotes checked, 1 unresolved; 0 quotes had no citation on their own line, or none naming a
+document that could be resolved, and were not checked; 2 count marks checked, 1 wrong; 0 absence phrases carry no mark.
+A bare ^[Lnn] resolves against the file's own `source:`.
 
