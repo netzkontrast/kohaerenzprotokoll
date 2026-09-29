@@ -1,7 +1,9 @@
 # Kohärenz Protokoll — working agreement
 
 A German hard-SF novel and its research corpus. **Right now only the wiki is
-being built.** The novel rests.
+being built.** The novel rests. A plan for writing it is proposed and not yet
+decided: `Plan/concept/novel-writing-plan_2026-09-29.md`, whose four questions
+for the author are in `NOW.md`.
 
 **Canon prose is German and is never translated. Engineering and work language
 is English.**
