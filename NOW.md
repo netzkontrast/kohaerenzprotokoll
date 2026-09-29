@@ -28,6 +28,20 @@ And the two read ones with them: „Yes, 22 and 23 are research too" (2026-09-26
 them the novel's text, and were corrected; the readings quote what they say and stand.
 A document may still call itself a draft, and a reading may quote that.
 
+**New from the pipeline measurement (2026-09-29)** — on „Schau dir die letzten Runs an und plane die
+Optimierung der Pipeline". The plan is `Plan/concept/pipeline-optimization_2026-09-29.md`, its numbers
+`Plan/runs/pipeline-2026-09-29/`; nothing is built and no document was read. Its questions, in short:
+- **Step 2**: may the per-document history leave CLAUDE.md (34 % of it) and NOW.md (41 %) for
+  `Wiki/compare/README.md`, word for word? CLAUDE.md is in every reader's context too.
+- **Step 4**: may readers write reading files that code turns into pages — the pages a document's readings
+  touch are 0.5–1.8 MB against a document of 7–372 KB — and may a pilot on documents 48–50 spend the Sonnet
+  usage it needs?
+- **Raw qmd answers**: 61 % of the chapter pages. Stay, or move beside their run?
+- **`ingested:`**: does a citation in a difference line make a document ingested on that page?
+- **When reading resumes**: by which rule, how deep, who claims what; and does every document still need its
+  full candidate list — 30 documents since document 22 made no page?
+- **Session-start install**: four virtualenvs, 2.9 GB, serve nothing the pipeline or its self-tests call.
+
 **New from the last eight canon-era documents (2026-09-27, documents 32–39, all English, all 2026-05-08):**
 - **The Guardian-world pairing, again, on the canon's date.** The Narrative Building Blocks report makes
   LogOS, Mnemosyne and Cerberus the carriers of KW1, the Mnemosyne Archipelago and „The Cerberus Labyrinth
@@ -647,6 +661,11 @@ the readings; whether the sources mislabel a throughline or GOAL.md does is the
 author's.
 
 ## Handover — the next session starts here
+
+**The pipeline plan of 2026-09-29 waits on the author** (`Plan/concept/pipeline-optimization_2026-09-29.md`).
+Its step 1 (recording what a run costs) and step 3 (five checks for what the review keeps catching) need no
+decision and read no new document; steps 2, 4 and 6 wait on the questions above. `python3
+Plan/runs/pipeline-2026-09-29/measure.py` re-measures every number it uses in about 4 s.
 
 **A qmd search over all 347 unread landed documents ran on 2026-09-26** (`Plan/runs/qmd-scan-2026-09-26/`): one to four short queries per open record, hits only, no reading. It placed all fifteen unread canon-era documents and found two the earlier scan had not: a second Kap 0 draft and a philosophischer Bericht. It also showed the stemmer turning „Mira“ into „miracle“ — six hits, none of them the name.
 
