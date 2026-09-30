@@ -660,6 +660,11 @@ often a chapter really needs a new source. If that is often, D1.
 
 ## 12. The next session
 
+**Preparation completed, 2026-09-30:** W1, W3 and W4 now stand beside W2 in
+`Plan/weichen/`. `treatment-probe_2026-09-30.md` provides a conditional causal
+story and opening movements on their recommendations. It is a proposal, not
+Phase 2's approved treatment; no Weiche has been decided by writing it.
+
 Unless the author says otherwise, the next session:
 
 1. prepares the decision sheets for **W2 first, then W1, W3 and W4**, from the records, the chapter pages and
