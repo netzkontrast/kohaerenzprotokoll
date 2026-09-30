@@ -272,3 +272,11 @@ The critical reading, which the document holds, states the reverse as physics: �
 The document also writes `Entropie` as a pressure that enters the simulation, „gezielte Injektion eines entropischen Drucks () in die Simulation“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L32], and glosses it at the collapse index as „ungelöste Systemkonflikte, volatile System 1-Aktionen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L148].
 
 Where it stands: the third sense, control producing the entropy it fights, stated through Landauer's principle as the reading the document holds; the first sense, entropy as what AEGIS is to hold off, reported as the canonical reading; the second sense's wording, `schöpferische Matrix` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0], stands nowhere in it. The conflict stays open.
+
+## 2026-09-30 — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit
+
+**Entropie is what an erasing system releases, in Landauer's terms — the third reading again — with time as the result of erasure and zero entropy in the silence.**
+
+„Ein System, das nach puristischer Kohärenz durch Exklusion und Löschung strebt (), muss zwangsläufig massiv entropisch und hitzeintensiv sein“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L37]: the audit applies it to AEGIS, which „kontinuierlich anomale menschliche Daten löscht“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L37]. It reports a consequence the Protokoll draws for time: „Die Zeit ist hierbei keine unabhängige Variable, sondern das direkte Resultat entropischer Informationsauslöschung“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L27]. The opposite it gives is a structure with „eine lokale Entropie von null“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L187], the silence at the end.
+
+The audit states this as physics and as verified; the wording of the second sense, `schöpferische Matrix` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0], stands nowhere in it. The conflict stays open.
