@@ -1,0 +1,1039 @@
+{
+  "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "westlich-konflikt-getrieben",
+        "target": "Kishōtenketsu (japanische Vier-Bewegung-Erzählweise)",
+        "type": "contrasts_with",
+        "quote": "Klassisches japanisches Erzählmodell, **nicht** westlich-konflikt-getrieben",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aufbau ohne kausalen Konflikt",
+        "target": "Wendung erzeugt nachträgliche Bedeutung statt sie auszulösen",
+        "type": "contrasts_with",
+        "quote": "Aufbau ohne kausalen Konflikt, die Wendung erzeugt nachträgliche Bedeutung statt sie auszulösen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vortex 1",
+        "target": "Vortex 2",
+        "type": "contrasts_with",
+        "quote": "Vortex 1 ist operativ (orthodoxer Dramatica-Klimax), Vortex 2 ist ontologisch (post-Dramatica-Synthese)",
+        "stance": "asserts"
+      },
+      {
+        "source": "nachträglich",
+        "target": "kausal",
+        "type": "contrasts_with",
+        "quote": "Es erlaubt der Erzählung, ihre wahre Bedeutung *nachträglich* zu erzeugen, statt sie kausal abzuleiten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konsequenz",
+        "target": "Verstehens-Form",
+        "type": "contrasts_with",
+        "quote": "Kap 40 ist nicht die Konsequenz von Kap 39, sondern die *Verstehens-Form* aller vorherigen Beats.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Synthese",
+        "target": "Ursache-Wirkung-Kette",
+        "type": "contrasts_with",
+        "quote": "Das ist post-westliche Architektur — Bedeutung als Synthese, nicht als Ursache-Wirkung-Kette.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Falsehood-vs-Truth",
+        "target": "Fact-vs-Fantasy",
+        "type": "contrasts_with",
+        "quote": "Issue: Falsehood-vs-Truth · Problem: Avoidance → Solution: Pursuit\n  - Driver: Decision (konstant) · Limit: Optionlock · Outcome: Success · Judgment: Good with high Cost\n  - IC: Juna (Universe/Past) · OS: Psychology (Manipulation der Simulation) · RS: Physics (Moonshine-Link)\n\n\n\n**Storyform B —** ***Phoenix Collapse*** **(AEGIS-MC):**\n\n\n\n  - Resolve: Steadfast · Growth: Stop · Approach: Do-er · Style: Linear\n  - Domain MC: Universe · Concern: Progress · Issue: Fact-vs-Fantasy",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logic",
+        "target": "Feeling",
+        "type": "contrasts_with",
+        "quote": "Problem: Logic → Solution: Feeling (nie adoptiert)",
+        "stance": "asserts"
+      },
+      {
+        "source": "nur B aktiv",
+        "target": "A als Phantom-Latenz",
+        "type": "contrasts_with",
+        "quote": "nur B aktiv, A als Phantom-Latenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "A dominant",
+        "target": "B latent",
+        "type": "contrasts_with",
+        "quote": "A dominant, B latent",
+        "stance": "asserts"
+      },
+      {
+        "source": "A‖B in echter Polyphonie",
+        "target": "A dominant, B latent",
+        "type": "contrasts_with",
+        "quote": "A dominant, B latent",
+        "stance": "asserts"
+      },
+      {
+        "source": "linear-introspektiv",
+        "target": "rekursiv-eskalierend",
+        "type": "contrasts_with",
+        "quote": "Heldinnenreise innen 1–13 linear-introspektiv",
+        "stance": "asserts"
+      },
+      {
+        "source": "linear-aufsteigend mit eingebettetem Vortex",
+        "target": "rekursiv-eskalierend",
+        "type": "contrasts_with",
+        "quote": "Zyklischer Modus 14–26 rekursiv-eskalierend",
+        "stance": "asserts"
+      },
+      {
+        "source": "Heldinnenreise innen",
+        "target": "Heldenreise außen + Doppel-Vortex",
+        "type": "contrasts_with",
+        "quote": "Heldinnenreise innen 1–13",
+        "stance": "asserts"
+      },
+      {
+        "source": "Modus-Grenzen",
+        "target": "Storyform-Grenzen",
+        "type": "contrasts_with",
+        "quote": "Die Modus-Grenzen (13/14, 26/27) sind **keine** Storyform-Grenzen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Modus-Wechsel",
+        "target": "Storyform-Wendung (B → A)",
+        "type": "contrasts_with",
+        "quote": "Die echte Storyform-Wendung (B → A) liegt bei 35/36 — also *mitten in* Modus 3.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ten (転) im Doppel-Vortex",
+        "target": "Modus-Wechsel",
+        "type": "contrasts_with",
+        "quote": "Die zentrale Erzählform-Wendung ist Ten (転) im Doppel-Vortex, nicht im Modus-Wechsel.",
+        "stance": "asserts"
+      },
+      {
+        "source": "1. Person",
+        "target": "3. Person",
+        "type": "contrasts_with",
+        "quote": "Spricht in 1. Person in Storyform B (Innensicht), erscheint in 3. Person in Storyform A (Außensicht aus Kaels Perspektive).",
+        "stance": "asserts"
+      },
+      {
+        "source": "1st-person-Innensicht",
+        "target": "3rd-person-Algorithmic-Melancholy-Beobachtung",
+        "type": "contrasts_with",
+        "quote": "Im Vortex 1 kollabiert die 1st-person-Innensicht in 3rd-person-Algorithmic-Melancholy-Beobachtung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mensch",
+        "target": "System",
+        "type": "contrasts_with",
+        "quote": "Nicht ein Mensch — ein System aus dreizehn Fragmenten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Going on with normal life",
+        "target": "Bug, der nicht gefixt werden kann",
+        "type": "in_tension_with",
+        "quote": "Host-ANP: Going on with normal life, Amnesie, Knöchel die manchmal bluten ohne dass er weiß warum. In A: MC. In B: IC (lebende Paradoxie, der „Bug, der nicht gefixt werden kann“).",
+        "stance": "asserts"
+      },
+      {
+        "source": "kalte Logik",
+        "target": "Intuition",
+        "type": "in_tension_with",
+        "quote": "kalte Logik → Intuition",
+        "stance": "asserts"
+      },
+      {
+        "source": "defensive Kontrolle",
+        "target": "Wachstum zulassen",
+        "type": "in_tension_with",
+        "quote": "defensive Kontrolle → Wachstum zulassen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Anker (Akt I)",
+        "target": "Kudzu (Akt II)",
+        "type": "in_tension_with",
+        "quote": "Anker (Akt I) → Kudzu (Akt II) → Akzeptanz (Akt III)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Guardian",
+        "target": "Mediator",
+        "type": "in_tension_with",
+        "quote": "Guardian → Mediator",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kampf, Aggression, Verteidigung",
+        "target": "konstruktive Schutzhaltung",
+        "type": "in_tension_with",
+        "quote": "aggressive Reaktivität → konstruktive Schutzhaltung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Misstrauen",
+        "target": "systemisches Vertrauen",
+        "type": "in_tension_with",
+        "quote": "Misstrauen → systemisches Vertrauen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Superposition",
+        "target": "Sicherheit finden",
+        "type": "in_tension_with",
+        "quote": "Superposition → Sicherheit finden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Waffe",
+        "target": "echte Vulnerabilität",
+        "type": "in_tension_with",
+        "quote": "Waffe → echte Vulnerabilität",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aufgeben",
+        "target": "Drachenkampf",
+        "type": "in_tension_with",
+        "quote": "Aufgeben → Drachenkampf",
+        "stance": "asserts"
+      },
+      {
+        "source": "Spiegel-Alter",
+        "target": "weder ANP noch EP",
+        "type": "contrasts_with",
+        "quote": "Spiegel-Alter (weder ANP noch EP)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schauplatz",
+        "target": "Inhalt",
+        "type": "contrasts_with",
+        "quote": "weil Erinnerung dort Schauplatz statt Inhalt ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "kalt/steril",
+        "target": "heiß/fragmentiert",
+        "type": "contrasts_with",
+        "quote": "1: kalt/steril | 2: heiß/fragmentiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rationalisierung, ANP-Domäne",
+        "target": "Trauma-Erinnerung, EP-Domäne",
+        "type": "contrasts_with",
+        "quote": "Rationalisierung, ANP-Domäne | Trauma-Erinnerung, EP-Domäne",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hypervigilanz, Verteidigung",
+        "target": "Integration, Generativ",
+        "type": "contrasts_with",
+        "quote": "Hypervigilanz, Verteidigung | Integration, Generativ",
+        "stance": "asserts"
+      },
+      {
+        "source": "Simulation",
+        "target": "Basisrealität — Köln 2026",
+        "type": "contrasts_with",
+        "quote": "Existiert jenseits der Simulation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Basisrealität",
+        "target": "Simulation",
+        "type": "contrasts_with",
+        "quote": "Existiert jenseits der Simulation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "außerhalb",
+        "target": "linear-introspektiv",
+        "type": "contrasts_with",
+        "quote": "Genesis-Prolog | Ki (Anfang) | 0 | außerhalb | spezifisch | nur B aktiv | Heldinnenreise innen | Ki (Vertiefung) | 1–13 | linear-introspektiv",
+        "stance": "asserts"
+      },
+      {
+        "source": "rekursiv-eskalierend",
+        "target": "linear-aufsteigend",
+        "type": "contrasts_with",
+        "quote": "Zyklischer Modus | Shō | 14–26 | rekursiv-eskalierend | ~25 % | A‖B in Polyphonie | Heldenreise außen Phase A | Ten beginnt | 27–34 | linear-aufsteigend",
+        "stance": "asserts"
+      },
+      {
+        "source": "vortex-still",
+        "target": "chorisch-klar",
+        "type": "contrasts_with",
+        "quote": "Vortex 1 (operativ) | Ten (Höhepunkt 1) | 35–36 | vortex-still | 100 % | Soft-Layering, B erlischt monolithisch | Trügerischer Sieg | Ten (Pause) | 37 | chorisch-klar",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "B",
+        "type": "in_tension_with",
+        "quote": "A dominant, B latent",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "B",
+        "type": "in_tension_with",
+        "quote": "A‖B in Polyphonie",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "B",
+        "type": "in_tension_with",
+        "quote": "A‖B eskalierend",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fühlen",
+        "target": "Denken",
+        "type": "contrasts_with",
+        "quote": "philosophische Einladung zum Fühlen statt Denken",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ordnung",
+        "target": "Käfig",
+        "type": "in_tension_with",
+        "quote": "Illusion der perfekten Welt — Ordnung als Käfig",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz und Liebe als denselben Pulsschlag, in seiner ursprünglichen ungetrennten Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "A dominant",
+        "target": "B latent",
+        "type": "contrasts_with",
+        "quote": "Storyform: A dominant, B latent als Umgebung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz als Kälte",
+        "target": "Liebe als das, was Kael nicht benennen kann",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als Kälte; Liebe als das, was Kael nicht benennen kann.",
+        "stance": "asserts"
+      },
+      {
+        "source": "andere Syntax",
+        "target": "andere Logik",
+        "type": "complements",
+        "quote": "Lex-Einbruch beginnt — andere Syntax, andere Logik bricht in Kaels Stimme ein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz als plötzliche Asynchronität",
+        "target": "Liebe als das, was Kael ahnt zu vermissen",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als plötzliche Asynchronität; Liebe als das, was Kael ahnt zu vermissen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik",
+        "target": "Kontrolle",
+        "type": "complements",
+        "quote": "Kael (Lex-dominant) versucht Stärke in AEGIS' Methoden zu finden — Logik, Kontrolle.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Verleugnung",
+        "type": "in_tension_with",
+        "quote": "Liebe als Verleugnung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Material des Bunkers",
+        "type": "complements",
+        "quote": "Schmerz als Material des Bunkers",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Scham",
+        "type": "complements",
+        "quote": "Schmerz als Scham",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "das, was Lex nicht zulassen kann",
+        "type": "opposes",
+        "quote": "Liebe als das, was Lex nicht zulassen kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "trügerische Stabilität",
+        "target": "Erinnerungslosigkeit",
+        "type": "in_tension_with",
+        "quote": "trügerische Stabilität als Erinnerungs-Substitut",
+        "stance": "asserts"
+      },
+      {
+        "source": "spiegelglatter Erfolg",
+        "target": "innere Stille der Reinform",
+        "type": "in_tension_with",
+        "quote": "das Auge des Sturms = die innere Stille der Reinform, hier missverstanden als Erfolg",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als das, was kurz aufflackert und sofort weichen muss; Schmerz als das, was hinter der Performance liegt",
+        "stance": "asserts"
+      },
+      {
+        "source": "einseitiger Ansatz",
+        "target": "komplexes Problem",
+        "type": "opposes",
+        "quote": "Kaels einseitiger Logik-Ansatz scheitert an einem komplexen Problem",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "complements",
+        "quote": "Schmerz als Konflikt zwischen Alters; Liebe als das, was die Stimmen verbindet ohne dass sie es merken",
+        "stance": "asserts"
+      },
+      {
+        "source": "warme Resonanz",
+        "target": "eisiger Welt",
+        "type": "in_tension_with",
+        "quote": "Erste warme Resonanz in eisiger Welt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Resonanz, die in Kap 0 als Bedrohung wahrgenommen wurde",
+        "target": "Sehnsucht",
+        "type": "contrasts_with",
+        "quote": "Junas Resonanz, die in Kap 0 als Bedrohung wahrgenommen wurde, kehrt hier als Sehnsucht wieder",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als das, was zum ersten Mal nicht abgewehrt wird; Schmerz als das, was die Sehnsucht erzeugt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Mitgefühl; Schmerz als das, was geheilt sein will",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik",
+        "target": "Intuition",
+        "type": "complements",
+        "quote": "Logik und Intuition verbinden sich",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als das, was zwischen den Stimmen klingt; Schmerz als der Bruch, der die Stimmen erst hörbar gemacht hat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Kanal; Schmerz als das, was die Verbindung trotzdem schmerzhaft macht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vielfalt",
+        "target": "Fehler",
+        "type": "contrasts_with",
+        "quote": "Kael akzeptiert seine innere Vielfalt als Stärke, nicht als Fehler.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stille",
+        "target": "Leere",
+        "type": "contrasts_with",
+        "quote": "Stille als positive Substanz, nicht als Leere.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe als Präsenz",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Präsenz; Schmerz als das, was nicht stören kann, weil die Präsenz trägt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "linear",
+        "target": "zyklisch",
+        "type": "contrasts_with",
+        "quote": "Modus-Wechsel (linear → zyklisch)",
+        "stance": "asserts"
+      },
+      {
+        "source": "ruhig-stabil",
+        "target": "erschütternd aber nicht vernichtend",
+        "type": "contrasts_with",
+        "quote": "Tonalität: Kap 13 ruhig-stabil, Kap 14 erschütternd aber nicht vernichtend",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz als Wiederkehr",
+        "target": "Liebe als der Anker, der jetzt halten muss",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als Wiederkehr; Liebe als der Anker, der jetzt halten muss",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als Rückkehr in den Körper; Liebe als das, was Kael verteidigen will.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Flucht in Betäubung",
+        "target": "Stabilisierung",
+        "type": "contrasts_with",
+        "quote": "AEGIS interpretiert den Rückfall fälschlich als Stabilisierung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als Betäubung; Liebe als das, was hinter der Betäubung wartet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "aktiv anschauen",
+        "target": "fliehen",
+        "type": "contrasts_with",
+        "quote": "aktiv anschauen statt fliehen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Mut zum Ansehen; Schmerz als Material.",
+        "stance": "asserts"
+      },
+      {
+        "source": "fremde Daten",
+        "target": "seine eigene Erinnerung",
+        "type": "contrasts_with",
+        "quote": "er erlebt sie als fremde Daten, nicht als seine eigene Erinnerung",
+        "stance": "asserts"
+      },
+      {
+        "source": "direkter Flashback",
+        "target": "Genesis-Echo",
+        "type": "contrasts_with",
+        "quote": "Genesis-Echo: direkter Flashback (markiert)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz fragmentiert",
+        "target": "Liebe als Echo durch die Bruchlinie",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz fragmentiert; Liebe als Echo durch die Bruchlinie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Systemlüge wird klarer benannt",
+        "target": "Avoidance als Falsehood erkennbar",
+        "type": "complements",
+        "quote": "MC-Issue — Systemlüge wird klarer benannt; Avoidance als Falsehood erkennbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kreatives Wir-Handeln",
+        "target": "reflexhaftes Reagieren",
+        "type": "contrasts_with",
+        "quote": "Kreatives Wir-Handeln statt reflexhaftes Reagieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Erfindung; Schmerz als Treibstoff der Erfindung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz als Substanz",
+        "target": "Liebe als das, wonach er greift",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als Substanz; Liebe als das, wonach er greift.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbst-Schöpfung",
+        "target": "Reparatur",
+        "type": "contrasts_with",
+        "quote": "Selbst-Schöpfung statt Reparatur.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz als Fremdsein im eigenen System",
+        "target": "Liebe als Anker",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als Fremdsein im eigenen System; Liebe als Anker.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Existenzielle Korrektur",
+        "target": "reaktive",
+        "type": "contrasts_with",
+        "quote": "Existenzielle Korrektur, nicht mehr nur reaktive.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe als Aktion",
+        "target": "Schmerz als Material der Schöpfung",
+        "type": "complements",
+        "quote": "Liebe als Aktion; Schmerz als Material der Schöpfung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe als Stille",
+        "target": "Schmerz als Lärm der Störung",
+        "type": "complements",
+        "quote": "Liebe als Stille; Schmerz als Lärm der Störung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Klarheit, die noch nicht Tat ist",
+        "target": "Tat",
+        "type": "contrasts_with",
+        "quote": "Klarheit, die noch nicht Tat ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "aktiv werden",
+        "target": "nicht reaktiv",
+        "type": "contrasts_with",
+        "quote": "Decision: aktiv werden, nicht reaktiv.",
+        "stance": "asserts"
+      },
+      {
+        "source": "zyklisch",
+        "target": "linear-aufsteigend",
+        "type": "contrasts_with",
+        "quote": "Modus-Wechsel (zyklisch → linear-aufsteigend)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe als Entschluss-Substrat",
+        "target": "Schmerz als Begleitung",
+        "type": "complements",
+        "quote": "Liebe als Entschluss-Substrat; Schmerz als Begleitung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe als Antrieb",
+        "target": "Schmerz als Wissen, dass es jetzt schwerer wird",
+        "type": "complements",
+        "quote": "Liebe als Antrieb; Schmerz als Wissen, dass es jetzt schwerer wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael agiert mit klarer Absicht",
+        "target": "nicht mehr reaktiv",
+        "type": "contrasts_with",
+        "quote": "Kael agiert mit klarer Absicht, nicht mehr reaktiv.",
+        "stance": "asserts"
+      },
+      {
+        "source": "neue Form",
+        "target": "gewählt statt entstanden",
+        "type": "contrasts_with",
+        "quote": "neue Form, gewählt statt entstanden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Klarheit; Schmerz als das, was zurückbleibt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als Dringlichkeit; Liebe als das, was Kael verteidigen will.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Schmerz als kindliche Angst; Liebe als das, was die Angst hält.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Liebe als Kanal; Schmerz als das, was die Liebe trotzdem nicht löscht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "MC-Concern Memory als Waffe",
+        "target": "operative Eingabe in AEGIS' System",
+        "type": "complements",
+        "quote": "MC-Concern Memory als Waffe — Erinnerung wird operative Eingabe in AEGIS' System",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "AEGIS",
+        "type": "opposes",
+        "quote": "Kael beginnt aktiv, AEGIS' Kernsystem anzugreifen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Tonale Achse: Liebe als Mut; Schmerz als das, was beim Übertritt zurückbleibt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Falsehood",
+        "target": "Truth",
+        "type": "opposes",
+        "quote": "MC-Issue Falsehood-vs-Truth — Wahrheits-Test gegen logische Fallen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme",
+        "type": "opposes",
+        "quote": "Kael muss AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme überwinden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als Verlockung der Avoidance; Liebe als das, was nicht weggeht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Schmerz",
+        "type": "in_tension_with",
+        "quote": "Liebe als Wagnis; Schmerz als Tiefe.",
+        "stance": "asserts"
+      },
+      {
+        "source": "MC-Concern Memory",
+        "target": "OS-S3 (B)",
+        "type": "contrasts_with",
+        "quote": "A: MC-Concern Memory — nahe an der Quelle. B: OS-S3 (B) — parakonsistente Logik als Architektur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael (Wir)",
+        "target": "AEGIS (Makro-Log)",
+        "type": "contrasts_with",
+        "quote": "POV: Kael (Wir) vs. AEGIS (Makro-Log)",
+        "stance": "asserts"
+      },
+      {
+        "source": "MC-Concern dominant",
+        "target": "AEGIS-Datenlast",
+        "type": "contrasts_with",
+        "quote": "A: MC-Concern dominant; Pursuit als Stand; Wir-Geflecht artikuliert sich als Selbstdefinition B: OS-S3 (B) — AEGIS-Datenlast",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' negativ definierte (verhindernde)",
+        "target": "Kaels positiv definierte (bezeugende)",
+        "type": "contrasts_with",
+        "quote": "Zwei Arten der Kohärenz prallen aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte (bezeugende).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Orkan",
+        "target": "Sphäre",
+        "type": "opposes",
+        "quote": "Zwei Arten der Kohärenz prallen aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte (bezeugende). Orkan vs. Sphäre.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Orkan",
+        "target": "Sphäre",
+        "type": "opposes",
+        "quote": "Orkan vs. Sphäre, kollidierende Tonalitäten",
+        "stance": "asserts"
+      },
+      {
+        "source": "MC-Solution Pursuit",
+        "target": "AEGIS-Solution Feeling",
+        "type": "contrasts_with",
+        "quote": "A: MC-Solution Pursuit *vollzogen* — Decision aktiviert **B:** AEGIS-Solution Feeling *nicht adoptiert* — Failure manifest",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "complements",
+        "quote": "Schmerz als das Glühen der Paradoxie; Liebe als das, was Kael trägt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "B",
+        "type": "opposes",
+        "quote": "A: Resolve=Change vollzogen (operativ) B: erlischt monolithisch; Algorithmische Melancholie",
+        "stance": "asserts"
+      },
+      {
+        "source": "B's operative Closure",
+        "target": "A bleibt allein",
+        "type": "opposes",
+        "quote": "B's operative Closure zerbricht. A bleibt allein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "erlöschend",
+        "target": "melancholisch",
+        "type": "complements",
+        "quote": "AEGIS (erlöschend, melancholisch)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion",
+        "target": "AEGIS",
+        "type": "opposes",
+        "quote": "Oblivion (übernimmt AEGIS' Funktion in Kaels Innensystem — als Wachheit, die entscheidet statt automatisch löscht)",
+        "stance": "asserts"
+      },
+      {
+        "source": "entscheidet",
+        "target": "automatisch löscht",
+        "type": "contrasts_with",
+        "quote": "Oblivion (übernimmt AEGIS' Funktion in Kaels Innensystem — als Wachheit, die entscheidet statt automatisch löscht)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz als das, was AEGIS nie verstand; Liebe als das, was Kael trägt — und dem AEGIS gerade sterbend erlaubt zu bleiben",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe als kultivierte Ordnung",
+        "target": "Schmerz als das, was leise am Rand wartet",
+        "type": "in_tension_with",
+        "quote": "Liebe als kultivierte Ordnung; Schmerz als das, was leise am Rand wartet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bedrohung",
+        "target": "Ruf",
+        "type": "contrasts_with",
+        "quote": "Junas Resonanz, die in Kap 0 als Bedrohung erfahrbar war, kehrt hier als Ruf wieder.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Strukturelle Stille",
+        "target": "Vortex-1-Beat-3",
+        "type": "contrasts_with",
+        "quote": "Strukturelle Stille — anders als Vortex-1-Beat-3, hier: Ankunft einer Konstanten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bedrohung",
+        "target": "Geburt",
+        "type": "contrasts_with",
+        "quote": "Was als Bedrohung erfahrbar war, wird als Geburt erkennbar.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Outcome=Success / Good with high Cost",
+        "target": "Outcome=Failure / Bad with Dividend",
+        "type": "contrasts_with",
+        "quote": "**A:** Outcome=Success / Good with high Cost — Cost vollzogen: Verlust der Privatheit des Wir **B:** Outcome=Failure / Bad with Dividend — Dividend vollzogen: Funktion bleibt durch plurale Übernahme",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-AEGIS-monolithisch",
+        "target": "AEGIS-plural",
+        "type": "contrasts_with",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "private Form",
+        "target": "kosmisch, plural, bewahrend",
+        "type": "contrasts_with",
+        "quote": "Wir-Geflecht löst sich aus seiner privaten Form. Wir wird kosmisch, plural, bewahrend.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz und Liebe als denselben Pulsschlag",
+        "stance": "asserts"
+      },
+      {
+        "source": "existenziell",
+        "target": "oberflächlich",
+        "type": "contrasts_with",
+        "quote": "Zyklus 3 Destabilisierung — qualitativ anders als Z1/Z2, existenziell statt oberflächlich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "linear",
+        "target": "zyklisch",
+        "type": "contrasts_with",
+        "quote": "linear → zyklisch · Bruch des Gleichgewichts · Beide Storyforms laufen weiter",
+        "stance": "asserts"
+      },
+      {
+        "source": "zyklisch",
+        "target": "linear-aufsteigend",
+        "type": "contrasts_with",
+        "quote": "zyklisch → linear-aufsteigend · Entschlossenheit statt Triumphalismus",
+        "stance": "asserts"
+      },
+      {
+        "source": "Entschlossenheit",
+        "target": "Triumphalismus",
+        "type": "contrasts_with",
+        "quote": "Entschlossenheit statt Triumphalismus",
+        "stance": "asserts"
+      },
+      {
+        "source": "Modus-Wechsel",
+        "target": "Storyform-Wechsel",
+        "type": "contrasts_with",
+        "quote": "Modus-Wechsel (kein Storyform-Wechsel)",
+        "stance": "asserts"
+      },
+      {
+        "source": "B erlischt monolithisch",
+        "target": "nur-A-Schein bricht auf in Synthese",
+        "type": "contrasts_with",
+        "quote": "B erlischt monolithisch · Algorithmische Melancholie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bedeutung entsteht nachträglich",
+        "target": "nicht kausal",
+        "type": "contrasts_with",
+        "quote": "Bedeutung entsteht *nachträglich*, nicht kausal.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ten (die Wendung)",
+        "target": "die Lösung des Konflikts",
+        "type": "contrasts_with",
+        "quote": "Ten (die Wendung) ist nicht die Lösung des Konflikts — sie ist die Erkennung dessen, was immer schon der Fall war.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vortex 1 (orthodox)",
+        "target": "Vortex 2 (post-orthodox, Synthese)",
+        "type": "contrasts_with",
+        "quote": "Zwei vollständige Storyforms in echter Klein-c-Inversion, die im Vortex 1 (orthodox) und Vortex 2 (post-orthodox, Synthese) zusammenkommen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Linear-introspektiv (innere Reise)",
+        "target": "linear-aufsteigend mit Doppel-Vortex (äußere Konfrontation + ontologische Synthese)",
+        "type": "contrasts_with",
+        "quote": "Linear-introspektiv (innere Reise) → rekursiv-eskalierend (zyklische Verarbeitung) → linear-aufsteigend mit Doppel-Vortex (äußere Konfrontation + ontologische Synthese).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Form der Bewegung",
+        "target": "Form der Wendung",
+        "type": "contrasts_with",
+        "quote": "Die Modi sind die *Form der Bewegung*, nicht die Form der Wendung — die Wendung sitzt im Vortex 2.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael-Wir",
+        "target": "AEGIS",
+        "type": "contrasts_with",
+        "quote": "Kael-Wir vs. AEGIS, Mnemosyne-Setting, Oblivion-Innen-Spiegelung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ketsu",
+        "target": "Konsequenz von Ten",
+        "type": "opposes",
+        "quote": "Ketsu ist nicht die Konsequenz von Ten, sondern die *Verstehens-Form* aller vorherigen Beats.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vortex 1",
+        "target": "Vortex 2",
+        "type": "contrasts_with",
+        "quote": "Vortex 1 ist orthodoxer Dramatica-Klimax (B erlischt). Vortex 2 ist post-Dramatica-Synthese (c entsteht).",
+        "stance": "asserts"
+      },
+      {
+        "source": "plurale Apotheose",
+        "target": "Klein-c-Schema",
+        "type": "opposes",
+        "quote": "Die plurale Apotheose ist nicht innerhalb des Klein-c-Schemas beschreibbar — sie ist seine Überschreitung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Welt",
+        "type": "opposes",
+        "quote": "Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "physisch beschrieben",
+        "target": "durch Wirkung wahrnehmbar",
+        "type": "contrasts_with",
+        "quote": "Sie wird niemals physisch beschrieben — nur durch Wirkung wahrnehmbar.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -593,6 +593,15 @@ Six questions, none waited on:
    Index (7), the Drama-Engine (5), JANUS (3), Story Flip (1) have no page: the wiki's pages are the novel's world, and these belong to the engine the
    sources also discuss. Should the wiki hold it? Nothing is promoted until the author says.
 
+**The backfill is half-done while this is read** (started 2026-09-30 19:00 UTC; pull request [#129](https://github.com/netzkontrast/kohaerenzprotokoll/pull/129), the branch `claude/elegant-ramanujan-onfl2w`
+restarted from main after #126 was merged). `python3 Plan/runs/hyperextract-backfill-2026-09-30/backfill.py status` says how far it is. **If no driver is
+running and runs are left** (`ps -eo cmd | grep "[b]ackfill.py run"` is empty — a reclaimed container takes the driver with it), resume it: `nohup python3
+Plan/runs/hyperextract-backfill-2026-09-30/backfill.py run --budget 90 > Plan/runs/hyperextract-backfill-2026-09-30/stdout.txt 2>&1 &` — it skips what is done,
+runs one at a time (the author's „achte auf mein Nutzungslimit - starte diese nicht parallel“) and stops after three runs in a row that failed wholly, at $90,
+or when a `STOP` file appears. `sh Plan/runs/hyperextract-backfill-2026-09-30/commit_batch.sh "<what finished>"` commits the finished runs and pushes. **When
+`status` says nothing is left:** `sh Plan/runs/hyperextract-backfill-2026-09-30/measure.sh` rebuilds the store and measures `he-lines` with every gold
+document read, then the note's §6.5, this question and the pull request are written from its files. No row of the backfill has been labelled yet.
+
 ## Open decisions — these are judgement, not measurement
 
 **How far the yes to TypeSafe reaches.** On 2026-09-23 the author said yes twice.

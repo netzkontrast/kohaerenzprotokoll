@@ -1,0 +1,374 @@
+{
+  "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Die Wendung",
+        "target": "alles Vorherige",
+        "type": "triggers",
+        "quote": "Die ontologische Umkehrung, die alles Vorherige *retroaktiv* neu beleuchtet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kishōtenketsu",
+        "target": "Erzählung ihre wahre Bedeutung nachträglich zu erzeugen",
+        "type": "enables",
+        "quote": "Es erlaubt der Erzählung, ihre wahre Bedeutung *nachträglich* zu erzeugen",
+        "stance": "asserts"
+      },
+      {
+        "source": "aggressive Reaktivität",
+        "target": "konstruktive Schutzhaltung",
+        "type": "causes",
+        "quote": "aggressive Reaktivität → konstruktive Schutzhaltung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Misstrauen",
+        "target": "systemisches Vertrauen",
+        "type": "causes",
+        "quote": "Misstrauen → systemisches Vertrauen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Superposition",
+        "target": "Sicherheit finden",
+        "type": "causes",
+        "quote": "Superposition → Sicherheit finden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Waffe",
+        "target": "echte Vulnerabilität",
+        "type": "causes",
+        "quote": "Waffe → echte Vulnerabilität",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aufgeben",
+        "target": "Drachenkampf",
+        "type": "causes",
+        "quote": "Aufgeben → Drachenkampf",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erinnerung",
+        "target": "Erasure",
+        "type": "prevents",
+        "quote": "ist der einzige Ort, an dem Erasure nicht greift, weil Erinnerung dort *Schauplatz* statt Inhalt ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Resonanz",
+        "target": "Genesis-Krisen-Auslöser",
+        "type": "triggers",
+        "quote": "Junas Resonanz als Genesis-Krisen-Auslöser",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Cluster, das Komp 734 wird",
+        "target": "Kaels werdende Substanz",
+        "type": "causes",
+        "quote": "das Cluster, das Komp 734 wird, ist Kaels werdende Substanz",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "dass es nicht ist",
+        "type": "prevents",
+        "quote": "AEGIS ist, was AEGIS verhindert, dass es nicht ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Glitches",
+        "target": "Echos",
+        "type": "triggers",
+        "quote": "Glitches reaktivieren Echos.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex-Einbruch",
+        "target": "andere Syntax, andere Logik",
+        "type": "causes",
+        "quote": "Lex-Einbruch beginnt — andere Syntax, andere Logik bricht in Kaels Stimme ein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael (Lex-dominant)",
+        "target": "Mentaler „Bunker“",
+        "type": "causes",
+        "quote": "Kael (Lex-dominant) versucht Stärke in AEGIS' Methoden zu finden — Logik, Kontrolle. Mentaler „Bunker“ wird gebaut.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Sehnsucht",
+        "type": "causes",
+        "quote": "Schmerz als das, was die Sehnsucht erzeugt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Resonanz",
+        "target": "Sehnsucht",
+        "type": "triggers",
+        "quote": "Junas Resonanz, die in Kap 0 als Bedrohung wahrgenommen wurde, kehrt hier als Sehnsucht wieder",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Host-System-Verstrickung",
+        "type": "causes",
+        "quote": "Selene tritt erstmals als ISH-Funktion auf — vermittelt, ohne zu kämpfen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Innere Kommunikation zwischen Anteilen",
+        "target": "Wir-Bildung",
+        "type": "enables",
+        "quote": "Innere Kommunikation zwischen Anteilen verbessert sich. Kael spürt sich erstmals als *mehrere*",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Bruch, der die Stimmen erst hörbar gemacht hat",
+        "target": "die Stimmen",
+        "type": "causes",
+        "quote": "Schmerz als der Bruch, der die Stimmen erst hörbar gemacht hat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Kombination von Lex-Analyse und intuitiver K-J-Verbindung",
+        "target": "ein Problem",
+        "type": "causes",
+        "quote": "Kael löst ein Problem durch die Kombination von Lex-Analyse und intuitiver K-J-Verbindung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moonshine",
+        "target": "Echo der Cluster-Bildung",
+        "type": "causes",
+        "quote": "Moonshine als Echo der Cluster-Bildung — die Mathematik der ursprünglichen Differenzierung kehrt als Verbindungs-Werkzeug zurück.",
+        "stance": "asserts"
+      },
+      {
+        "source": "seine innere Vielfalt",
+        "target": "Stärke",
+        "type": "causes",
+        "quote": "Kael akzeptiert seine innere Vielfalt als Stärke, nicht als Fehler.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ein Trigger in einer Kernwelt",
+        "target": "Trauma-Angst",
+        "type": "triggers",
+        "quote": "Ein Trigger in einer Kernwelt (KW2-Rand) reaktiviert Trauma-Angst.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schatten-Anteil",
+        "target": "Nyx",
+        "type": "triggers",
+        "quote": "Schatten-Anteil bricht durch — Nyx wird erstmals deutlich sichtbar.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros' Schwere",
+        "target": "alles",
+        "type": "causes",
+        "quote": "**Moros**' Schwere zieht im Hintergrund alles herunter.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rückfall",
+        "target": "Stabilisierung",
+        "type": "causes",
+        "quote": "AEGIS interpretiert den Rückfall fälschlich als Stabilisierung",
+        "stance": "asserts"
+      },
+      {
+        "source": "das integrierte Selbst (Selene als Wächterin-Funktion) oder die K-J-Verbindung",
+        "target": "Kael, den Rückfall zu erkennen",
+        "type": "enables",
+        "quote": "Das integrierte Selbst (Selene als Wächterin-Funktion) oder die K-J-Verbindung hilft Kael, den Rückfall zu erkennen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaels Grenzüberschreitungen",
+        "target": "unvorhersehbare Systemänderungen",
+        "type": "triggers",
+        "quote": "AEGIS reagiert auf Kaels Grenzüberschreitungen mit unvorhersehbaren Systemänderungen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael greift auf seine innere Vielfalt zurück",
+        "target": "die Krise zu meistern",
+        "type": "enables",
+        "quote": "Kael greift auf seine innere Vielfalt zurück, um die Krise zu meistern.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die K-J-Verbindung",
+        "target": "zyklisch von AEGIS gestört",
+        "type": "triggers",
+        "quote": "Die K-J-Verbindung wird zyklisch von AEGIS gestört",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "den Kanal als feindlich",
+        "type": "triggers",
+        "quote": "AEGIS erkennt den Kanal als feindlich",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaels neue Klarheit",
+        "target": "Erasure-Drohung intensiviert",
+        "type": "triggers",
+        "quote": "AEGIS bemerkt Kaels neue Klarheit; Erasure-Drohung intensiviert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ein Ereignis (AEGIS droht mit Purge, oder Juna ist bedroht — OQ-B-abhängig)",
+        "target": "Kael zum sofortigen Handeln",
+        "type": "triggers",
+        "quote": "zwingt Kael zum sofortigen Handeln",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS die Lösch-Kapazität ausgeht",
+        "target": "AEGIS muss die Genesis zeigen",
+        "type": "requires",
+        "quote": "AEGIS muss die Genesis zeigen, weil ihm die Lösch-Kapazität ausgeht",
+        "stance": "asserts"
+      },
+      {
+        "source": "ihm im Vortex die Lösch-Kapazität ausgeht",
+        "target": "AEGIS zeigt die Genesis",
+        "type": "causes",
+        "quote": "AEGIS zeigt die Genesis, weil ihm im Vortex die Lösch-Kapazität ausgeht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "B's Mechanismus erschöpft sich",
+        "target": "thermodynamische Kosten manifestieren sich als Wärme-Phänomen",
+        "type": "causes",
+        "quote": "thermodynamische Kosten manifestieren sich als Wärme-Phänomen (Landauer-Hitze). B's Mechanismus erschöpft sich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Universum, das AEGIS schützen wollte, ist damit ungeschützt",
+        "target": "Beat 5 öffnet jetzt auf etwas, statt zu schließen",
+        "type": "causes",
+        "quote": "Beat 5 öffnet jetzt auf etwas, statt zu schließen. Das Universum, das AEGIS schützen wollte, ist damit ungeschützt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "der Klick des Erlöschens",
+        "type": "causes",
+        "quote": "der Klick des Trennungsprotokolls kehrt als Klick des Erlöschens wieder",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "AEGIS gerade sterbend erlaubt zu bleiben",
+        "type": "enables",
+        "quote": "Liebe als das, was Kael trägt — und dem AEGIS gerade sterbend erlaubt zu bleiben",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Rauschen, das hier beginnt",
+        "target": "das Nichts-Rauschen aus Kap 0",
+        "type": "causes",
+        "quote": "das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas direkte Anwesenheit",
+        "target": "das Universum kollabiert sichtbar",
+        "type": "causes",
+        "quote": "Junas direkte Anwesenheit; IC-S4 (A) Future manifestiert ontologisch **B:** das Universum kollabiert sichtbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht",
+        "target": "Der trügerische Sieg ist als trügerisch identifiziert",
+        "type": "causes",
+        "quote": "das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht. Der trügerische Sieg ist als trügerisch identifiziert",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Echos das Vor-Trennungs-Sein",
+        "target": "Kael erkennt sie wieder",
+        "type": "enables",
+        "quote": "Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "den Schritt",
+        "type": "enables",
+        "quote": "Liebe als das, was den Schritt möglich macht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Geflecht",
+        "target": "seine private Form",
+        "type": "causes",
+        "quote": "Wir-Geflecht löst sich aus seiner privaten Form.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS-monolithisch",
+        "target": "AEGIS-plural",
+        "type": "triggers",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "Existenz",
+        "type": "enables",
+        "quote": "Es war der notwendige Bruch, der Existenz erst möglich machte.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 40",
+        "target": "was Kap 0 war",
+        "type": "causes",
+        "quote": "Kap 40 verändert retroaktiv, was Kap 0 *war*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ten (die Wendung)",
+        "target": "Lösung des Konflikts",
+        "type": "prevents",
+        "quote": "Ten (die Wendung) ist nicht die Lösung des Konflikts",
+        "stance": "denies"
+      },
+      {
+        "source": "Juna-Verbindung",
+        "target": "Werkzeug",
+        "type": "causes",
+        "quote": "Juna-Verbindung wird zum Werkzeug",
+        "stance": "asserts"
+      },
+      {
+        "source": "OQ-D (MC Symptom/Response)",
+        "target": "Vortex-Beats",
+        "type": "requires",
+        "quote": "Vortex-Beats davon abhängig",
+        "stance": "asserts"
+      },
+      {
+        "source": "OQ-F (Moonshine-Boundary)",
+        "target": "Kap 7, 10, 24, 30",
+        "type": "triggers",
+        "quote": "Kap 7, 10, 24, 30 betroffen — Übertragungs-Mechanik offen",
+        "stance": "asserts"
+      }
+    ]
+  }
+}
