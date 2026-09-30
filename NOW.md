@@ -146,6 +146,17 @@ then revise the probe around observable goals, requirements, consequences and bo
 clocks. W11–W16 and process questions A–D remain open. No new document ingest,
 manuscript rewrite or NCP promotion was performed.
 
+**PR #115 incorporated, 2026-09-30:** `Plan/weichen/wp-plot-story-points.md` now
+connects plot goals and conditions to W5–W10. It distinguishes Kael's observable
+objective from AEGIS' consolidation goal and records the limits of term-count
+evidence, Start/Stop and Crucial-Element hypotheses. WP is the decision sheet;
+the PR #113 response's plot questions remain its scene-level reading test.
+The two `Plan/runs/plot-2026-09-30/ncp/*.provisional.ncp.json` files are imported
+unchanged, as candidate transcriptions of one source table. No approved encoded
+fact changed. JSON and unchanged-content checks were run; the upstream schema
+validator is absent here, so PR #115's reported PASS was not rerun. Next review
+includes WP; four NCP Signposts do not silently redefine the novel's three acts.
+
 **New from the last eight canon-era documents (2026-09-27, documents 32–39, all English, all 2026-05-08):**
 - **The Guardian-world pairing, again, on the canon's date.** The Narrative Building Blocks report makes
   LogOS, Mnemosyne and Cerberus the carriers of KW1, the Mnemosyne Archipelago and „The Cerberus Labyrinth

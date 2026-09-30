@@ -677,6 +677,14 @@ open; the plot research's provisional values are not author decisions.
 | [W8](../weichen/w8-akt-ii-raeume.md) | spaces, forced transitions and Act-III trigger |
 | [W9](../weichen/w9-juna.md) | presence, identity and the cost of connection |
 | [W10](../weichen/w10-besetzung.md) | roster, individual goals and reactive opposition |
+| [WP](../weichen/wp-plot-story-points.md) | concrete goals and conditions, then optional Type/signpost diagnosis (PR #115) |
+
+PR #115 also supplies two [provisional NCP transcriptions](../runs/plot-2026-09-30/ncp/README.md).
+They encode one source position, remain candidates and are unchanged by these
+decision sheets. Structural POV is not prose POV; schema validity is not
+theoretical or manuscript alignment. WP's Start/Stop and Crucial-Element
+questions remain unverified. WP joins the next author review; its answers must
+not be inferred from the proposed Type tables.
 
 Unless the author says otherwise, the next session:
 
