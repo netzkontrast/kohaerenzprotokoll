@@ -21,6 +21,7 @@ One directory per document, and beside them the ledgers every run appends to.
 | `probes.json`, `counts.json` | the same steps, machine-readable (`CONVENTIONS.md`) | `scripts/capture.py` |
 | `reconcile-pre.json` | the candidates classified against the wiki by lookup, before judgement | `scripts/reconcile.py` |
 | `reconcile.json` | the reconciliation: the wiki's state before and after, and what was added | a person; `scripts/account.py order` reads it |
+| `partial-<date>/` | what a reader wrote before it stopped mid-run — a census or note fragment, never checked, moved out of `Sources/` so no tool counts it as a census. Read by nothing; a later reader may start from it and says so | the stopped reader |
 
 Two files appear only after a real model run, and none has happened yet:
 `03-candidates-rlm.md` (`scripts/rlm_ingest.py` — never `03-candidates.md`, so a
@@ -73,11 +74,13 @@ to be for.
 
 **Which lists are gold is decided by `scripts/gold.py`** (decision 009): a
 list written while reading, counted, unchanged since its count, and of its
-document. 47 <!--state:trainset.gold_candidate_lists--> are gold today,
-documents 5 to 14. Documents 5 and 6 say a reader wrote them; from document 7
-on, the session reading the document wrote the list before any count, and its
-`written_by:` line says so. `python3 scripts/gold.py` prints every verdict and
-the criterion a list fails.
+document. 59 <!--state:trainset.gold_candidate_lists--> are gold today:
+documents 5 to 51, and the twelve lists of step 6's sample („documents 5 to 14"
+stood here until 2026-09-30). Documents 5 and 6 say a reader wrote them; from
+document 7 on, the session reading the document wrote the list before any count;
+the twelve of 2026-09-29 were written by `document-reader` subagents, each before
+its count. Every `written_by:` line says which. `python3 scripts/gold.py` prints
+every verdict and the criterion a list fails.
 
 **The reader of documents 5 and 6 was a Claude session too** — the commit of
 document 5's census speaks of „my own quotations". Every list here, gold or
