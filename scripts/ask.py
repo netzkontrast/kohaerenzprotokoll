@@ -96,11 +96,11 @@ def run_dir(qid: str) -> Path:
 
 # ── route ─────────────────────────────────────────────────────────────────────
 
-def route(question: str, kind: str, store=None) -> dict:
+def route(question: str, kind: str, store=None, graph: dict | None = None) -> dict:
     import graphrag
     import askdb
     s = store or askdb.Store()
-    evidence = graphrag.retrieve(question)
+    evidence = graphrag.retrieve(question, graph=graph)
     anchors: list[dict] = []
     for ev in evidence["evidence"]:
         anchors.append({"doc": ev["doc"], "line": ev["line"], "finder": "graph-evidence"})
@@ -147,12 +147,13 @@ def skills_for(question: str, k: int = 2) -> list[dict]:
     return sorted(scored, key=lambda x: -x["overlap"])[:k]
 
 
-def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store=None) -> tuple[str, dict]:
+def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store=None,
+               graph: dict | None = None) -> tuple[str, dict]:
     import graphrag
     import askdb
     s = store or askdb.Store()
-    r = route(question, kind, s)
-    parts, sent, cut, used = [], [], [], 0
+    r = route(question, kind, s, graph)
+    parts, sent, cut, used, shown = [], [], [], 0, {}
     parts.append(f"# Frage\n\n{question}\n\nArt der Frage: `{kind}`\n")
     parts.append(RULES)
     parts.append("## Was das Wiki schon weiß (Graph)\n\n" + graphrag.render(r["evidence"]) + "\n")
@@ -177,6 +178,7 @@ def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store
                 if n >= PER_DOC:
                     break
                 rows.append(f"L{number}: {text}")
+                shown.setdefault(d["doc"], []).append(number)
                 n += 1
             rows.append("…")
         read = "gelesen" if d["doc"] in r["evidence_docs"] else "ungelesen"
@@ -184,6 +186,7 @@ def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store
                  f"gefunden von: {', '.join(sorted(d['finders']))}\n\n" + "\n".join(rows) + "\n")
         if used + len(block) > budget:
             cut.append(d["doc"])
+            shown.pop(d["doc"], None)
             continue
         used += len(block)
         windows.append(block)
@@ -199,7 +202,7 @@ def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store
             "sends_text_of": sent, "cut_by_budget": cut, "budget": budget, "chars": len(text),
             "window_chars": used, "finders": {d["doc"]: sorted(d["finders"]) for d in r["docs"]},
             "seeds": [x["term"] for x in r["evidence"]["seeds"]], "skills": [x["skill"] for x in skills],
-            "hash": hashlib.sha256(text.encode()).hexdigest()}
+            "hash": hashlib.sha256(text.encode()).hexdigest(), "shown": shown}
     return text, meta
 
 
@@ -414,6 +417,53 @@ def cmd_land(qid: str, backend: str) -> Path:
     return target
 
 
+# ── bench: pack recall against the records, no model ─────────────────────────
+
+REF = re.compile(r"\^\[([a-z0-9-]+)\.md:L(\d+)")
+
+
+def bench_cases() -> list[dict]:
+    out = []
+    for folder, kind in (("conflicts", "conflict"), ("questions", "question")):
+        for p in sorted((ROOT / "Wiki" / folder).glob("[cq]*.md")):
+            text = p.read_text(encoding="utf-8")
+            head = text.split("\n---\n", 1)[0]
+            rid = re.search(r"^id: (\w+)", head, re.M).group(1)
+            if kind == "question":
+                q = re.search(r"^question: (.*)$", head, re.M).group(1)
+            else:
+                q = re.search(r"^# \w+ — (.*)$", text, re.M).group(1)
+            gold = {(m.group(1), int(m.group(2))) for m in REF.finditer(text)}
+            out.append({"id": rid, "key": f"{kind}:{rid}", "question": q, "gold": gold})
+    return out
+
+
+def bench(budget: int = BUDGET) -> dict:
+    import askdb
+    import graph as kg
+    import graphrag
+    s, g = askdb.Store(), kg.build()
+    rows = []
+    for c in bench_cases():
+        if not c["gold"]:
+            continue
+        _, meta = build_pack(c["question"], "position", budget, s, graphrag.without(g, c["key"]))
+        docs = {d for d, _ in c["gold"]}
+        shown = {d: set(v) for d, v in meta["shown"].items()}
+        line_hits = sum(1 for d, l in c["gold"] if l in shown.get(d, ()))
+        doc_hits = len(docs & set(shown))
+        rows.append({"id": c["id"], "gold_docs": len(docs), "doc_recall": round(doc_hits / len(docs), 3),
+                     "gold_lines": len(c["gold"]), "line_recall": round(line_hits / len(c["gold"]), 3),
+                     "pack_docs": len(shown), "chars": meta["chars"]})
+        print(f"{c['id']:4} docs {doc_hits:3}/{len(docs):3}  lines {line_hits:4}/{len(c['gold']):4}  "
+              f"pack {len(shown):3} docs {meta['chars']:6} chars", flush=True)
+    mean = lambda k: round(sum(r[k] for r in rows) / len(rows), 3)
+    result = {"cases": len(rows), "doc_recall": mean("doc_recall"), "line_recall": mean("line_recall"),
+              "budget": budget, "rows": rows}
+    print(f"\n{len(rows)} cases: document recall {result['doc_recall']}, line recall {result['line_recall']}")
+    return result
+
+
 # ── self-test ─────────────────────────────────────────────────────────────────
 
 def selftest() -> list[str]:
@@ -466,6 +516,11 @@ def main(argv: list[str]) -> int:
             print("FAIL", f)
         print(f"ask selftest: {'held' if not fails else 'FAILED'}")
         return 1 if fails else 0
+    if cmd == "bench":
+        res = bench(int(opt("--budget", BUDGET)))
+        out = RUNS / f"bench-{time.strftime('%Y-%m-%d')}-{res['budget']}.json"
+        out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
+        return 0
     if cmd == "pack":
         cmd_pack(positional[0], opt("--kind", "explain"))
     elif cmd == "run":
