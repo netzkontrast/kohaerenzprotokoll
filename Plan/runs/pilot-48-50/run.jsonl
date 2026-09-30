@@ -1,0 +1,6 @@
+{"event": "start", "phase": "readers", "at": "2026-09-29T17:44:35+00:00"}
+{"event": "reader", "name": "G3-concepts", "model": "sonnet", "tokens": 213717, "tool_uses": 28, "ms": 266955, "pages": [], "at": "2026-09-29T17:49:53+00:00"}
+{"event": "reader", "name": "G4-records", "model": "sonnet", "tokens": 240492, "tool_uses": 27, "ms": 384343, "pages": [], "at": "2026-09-29T17:51:45+00:00"}
+{"event": "reader", "name": "G1-figures", "model": "sonnet", "tokens": 232654, "tool_uses": 32, "ms": 401451, "pages": [], "at": "2026-09-29T17:52:00+00:00"}
+{"event": "end", "phase": "readers", "at": "2026-09-29T17:52:44+00:00"}
+{"event": "reader", "name": "G2-worlds", "model": "sonnet", "tokens": 274571, "tool_uses": 31, "ms": 447922, "pages": [], "at": "2026-09-29T17:52:54+00:00"}

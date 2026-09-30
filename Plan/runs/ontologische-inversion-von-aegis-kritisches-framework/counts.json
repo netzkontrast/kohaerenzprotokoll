@@ -1,0 +1,1275 @@
+{
+  "document": "ontologische-inversion-von-aegis-kritisches-framework",
+  "drive_id": "1cNnYAhA9Z16qac1UdpKjr6nW3RnFukh_I8Ta8tPBlDk",
+  "step": "counts",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Bewerte Prozesse, nicht nur Outcomes",
+    "Korrespondenz vs. Kohärenz"
+  ],
+  "counts": {
+    "AEGIS": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        13,
+        77,
+        79,
+        81,
+        83,
+        87,
+        89,
+        91,
+        100
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        111
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Mosaik-Herz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Phase III": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Dual-Kernel-Narrativ-Engine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Narrative Context Protocols": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "NCP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        46,
+        112,
+        155
+      ]
+    },
+    "World States": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Context Object": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Integrator-Agent (Selene)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Integrator-Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "InstructionDeputies (ANPs)": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "InstructionDeputies": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "ANP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        165
+      ]
+    },
+    "ChatCompanions (EPs)": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "ChatCompanions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        165
+      ]
+    },
+    "K\\_0": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        57,
+        81,
+        144
+      ]
+    },
+    "K\\_1": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        79,
+        94,
+        102,
+        145
+      ]
+    },
+    "Kollaps-Kernel ($K\\_0$)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Kohärenz-Kernel ($K\\_1$)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "wahre Kohärenz ($K\\_1$)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "K\\_0 (Kollaps/Löschung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "K\\_1 (Kohärenz/Integration)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Kollaps/Löschung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Kohärenz/Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Kollaps": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        47,
+        81,
+        144
+      ]
+    },
+    "Löschung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        87,
+        144,
+        164
+      ]
+    },
+    "Integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        100,
+        145
+      ]
+    },
+    "CSI": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        47,
+        116
+      ]
+    },
+    "Collapse Susceptibility Index / CSI": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Collapse Susceptibility Index": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "thermodynamischen Kollapses": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Log-Gattern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Logik-Gatter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "parakonsistente Logik-Gatter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "entropischen Druck": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        57
+      ]
+    },
+    "entropischen Drucks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "narrativen Energie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "narrativer Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Thermodynamik der Bedeutung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Landauer-Kosten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Trauma": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        87,
+        102,
+        166
+      ]
+    },
+    "Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Maschine der Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Gesamtnetzwerk": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Gesamtnetzwerk (Mutual Information)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "System-Traces": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        25
+      ]
+    },
+    "Agenten-Logs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "LLM": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        26,
+        56,
+        150,
+        166
+      ]
+    },
+    "LLMs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        150
+      ]
+    },
+    "Ontologische Inversion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Ontologischen Inversion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "ontologischen Inversion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Ontologische Einordnung (Inversions-Check)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Ontologische Einordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Inversions-Check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Ontological Blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Ontologische Blindheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Semantischen Drift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Semantischer Drift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Harmonisierungs-Bias": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        150
+      ]
+    },
+    "Harmonisierung": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        150,
+        164
+      ]
+    },
+    "systemischem Subtext (Harmonisierung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Subtext": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        74,
+        111,
+        164
+      ]
+    },
+    "intentionalen Struktur (Subtext)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Korrespondenz": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        13,
+        15,
+        29,
+        81,
+        83,
+        91,
+        111
+      ]
+    },
+    "Kohärenz": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        15,
+        19,
+        29,
+        79,
+        83,
+        94,
+        96,
+        102,
+        112,
+        145
+      ]
+    },
+    "Wahrheit": {
+      "n": 3,
+      "n_including_compounds": 11,
+      "lines": [
+        13,
+        19,
+        29,
+        34,
+        36,
+        81,
+        91,
+        94,
+        96,
+        166
+      ]
+    },
+    "Korrespondenz-Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        81
+      ]
+    },
+    "Kohärenz-Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        96
+      ]
+    },
+    "isolierte Korrespondenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "narrative Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Thermodynamischer Beweis (Landauer-Prinzip)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Thermodynamischer Beweis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Kosmologischer Beweis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Epistemologischer Beweis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Hypothesenbildung & Problemdefinition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Trace-Verifikation & Falsifikation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Epistemologische Synthese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Architektonische Empfehlung (Synthese)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Architektonische Empfehlung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Forschungsfrage / Hypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Analysekriterium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Narrative System & Trace Audit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "NCP-Anpassung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Prompt-Refactoring": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Epistemologischen Standpunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Thermodynamische Kosten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "4-Schritte-Check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Analyse-Framework": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Prompt-Engineering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Konflikt/Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Paradoxie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        166
+      ]
+    },
+    "Workflows der Wahrheitsfindung (F\\&E Abstraktion)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Workflows der Wahrheitsfindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "F\\&E Abstraktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Wahrheitsfindungs-Workflows": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Wahrheitsfindung": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        19,
+        34,
+        36
+      ]
+    },
+    "Forschung und Entwicklung (F\\&E)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Forschung und Entwicklung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "F\\&E": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        34
+      ]
+    },
+    "Kritisches Denken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        79
+      ]
+    },
+    "kritisches Denken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "Systematische Forschung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "post-linearen Narrativen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "computergestützte Narratologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "narrative-critical-thinking": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "SKILL.md-Dokument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "LobeHub/Claude-Ökosystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "LobeHub": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Claude-Ökosystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Isoliere Test-Variablen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Umarme die Paradoxie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87
+      ]
+    },
+    "Maxwellscher Dämon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Big Freeze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Wärmetod": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "maximaler Entropie (Wärmetod)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Entropie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        83,
+        87,
+        89,
+        102
+      ]
+    },
+    "Entropie (das Trauma)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Kohärenztheorien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Korrespondenz- und Kohärenztheorien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Hegels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Das Wahre ist das Ganze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Gödels Unvollständigkeitssatz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Gödelsche Stresstests (Dialetheismus)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Gödelsche Stresstests": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Trivialismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        122
+      ]
+    },
+    "Prinzip der Explosion bei Widersprüchen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "wahre Widersprüche": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        123
+      ]
+    },
+    "parakonsistente Zustände": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Mutual Information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Noumena": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Qualia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        151
+      ]
+    },
+    "PICO": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        135
+      ]
+    },
+    "Adaptiertes PICO-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "PICO State (Ausgangslage)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "PICO State": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "P (Population/State)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "I (Intervention)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "C (Comparison)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "O (Outcome)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Risk of Bias Assessment (Verzerrungskontrolle)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Risk of Bias Assessment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Risk of Bias (Verzerrungen)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Risk of Bias": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        147
+      ]
+    },
+    "Verzerrungskontrolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Verzerrungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        147
+      ]
+    },
+    "kognitiven Verzerrungen (Bias)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Bias": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        26,
+        52,
+        57,
+        147,
+        150
+      ]
+    },
+    "Bias-Kontrolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    }
+  }
+}

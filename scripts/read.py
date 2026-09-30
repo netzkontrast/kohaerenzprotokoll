@@ -21,10 +21,19 @@ A refusal is the useful half. `--find` prints the nearest lines when nothing
 resolves, which is what turns „das Management" into „it is L61 and the word
 there is dem".
 
+    count   how often words stand in the document body, asked instead of typed:
+            the whole-word count (case-sensitive), the case-insensitive
+            whole-word count and the count with compounds -- `capture.count_both`'s
+            counting, through `quotes.count_words` -- and a ready-to-paste mark
+            `` `words` ^[slug.md:#N] `` with the case-sensitive number, which
+            `quotes.py` verifies. Multi-word phrases work; a line wrap inside a
+            phrase is not bridged, as in a census.
+
 Usage:
     python3 scripts/read.py <slug>                    # the whole document
     python3 scripts/read.py <slug> --from 120 --to 180
     python3 scripts/read.py <slug> --find "dem Management"
+    python3 scripts/read.py <slug> --count "Flight"
 """
 
 from __future__ import annotations
@@ -140,6 +149,17 @@ def main(argv: list[str]) -> int:
     def option(name: str, fallback: str | None = None) -> str | None:
         return rest[rest.index(name) + 1] if name in rest else fallback
 
+    if "--count" in rest:
+        words = option("--count") or ""
+        if not words.strip():
+            print("--count needs the words to count")
+            return 2
+        word, folded, inside = quotes.count_words(doc.slug, words)
+        print(f"whole word, case-sensitive     {word}")
+        print(f"whole word, case-insensitive   {folded}")
+        print(f"including compounds            {inside}")
+        print(f"\n`{words}` ^[{doc.slug}.md:#{word}]")
+        return 0
     if "--find" in rest:
         return report(doc, option("--find") or "")
     last_line = doc.offset + len(doc.lines()) - 1

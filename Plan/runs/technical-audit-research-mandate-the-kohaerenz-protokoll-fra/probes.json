@@ -1,0 +1,121 @@
+{
+  "document": "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+  "drive_id": "1GE4s4O0FN5ZcN2p4t7E58ilGilTjWZDbky-XqvPvtdo",
+  "step": "probes",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 43,
+  "typographic_marks": 31,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "verif": [
+      "Verification",
+      "Verified",
+      "Verifier",
+      "Verifies",
+      "Verify"
+    ],
+    "archi": [
+      "Archipel",
+      "Architectural",
+      "Architecture"
+    ],
+    "modul": [
+      "Modular",
+      "Modularity",
+      "Module"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithmische"
+    ],
+    "diale": [
+      "Dialetheic",
+      "Dialetheism"
+    ],
+    "execu": [
+      "Execution",
+      "Executive"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "ident": [
+      "Identification",
+      "Identity"
+    ],
+    "logic": [
+      "Logic",
+      "Logical"
+    ],
+    "manda": [
+      "Mandate",
+      "Mandated"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanism"
+    ],
+    "monst": [
+      "Monster",
+      "Monstrous"
+    ],
+    "requi": [
+      "Required",
+      "Requirement"
+    ],
+    "theor": [
+      "Theoretical",
+      "Theory"
+    ],
+    "therm": [
+      "Thermodynamic",
+      "Thermodynamics"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "These",
+      "Synthese"
+    ],
+    [
+      "Logical",
+      "Psychological"
+    ],
+    [
+      "Mandate",
+      "Mandated"
+    ],
+    [
+      "Modular",
+      "Modularity"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Thermodynamic",
+      "Thermodynamics"
+    ]
+  ]
+}

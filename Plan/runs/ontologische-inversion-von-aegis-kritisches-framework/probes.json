@@ -1,0 +1,211 @@
+{
+  "document": "ontologische-inversion-von-aegis-kritisches-framework",
+  "drive_id": "1cNnYAhA9Z16qac1UdpKjr6nW3RnFukh_I8Ta8tPBlDk",
+  "step": "probes",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 3,
+  "backslash_escapes": 37,
+  "typographic_marks": 0,
+  "ascii_quotes": 18,
+  "inflection_families": {
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativen",
+      "Narratologie"
+    ],
+    "syste": [
+      "System",
+      "Systematische",
+      "Systemreaktionen",
+      "Systemverhalten"
+    ],
+    "archi": [
+      "Architektonische",
+      "Architektur",
+      "Architekturen"
+    ],
+    "epist": [
+      "Epistemologische",
+      "Epistemologischen",
+      "Epistemologischer"
+    ],
+    "forsc": [
+      "Forschung",
+      "Forschungsfrage",
+      "Forschungsmethoden"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationstheoretisch"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator",
+      "Integrität"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikts"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontologische",
+      "Ontologischen"
+    ],
+    "parad": [
+      "Paradigmen",
+      "Paradoxie",
+      "Paradoxon"
+    ],
+    "therm": [
+      "Thermodynamik",
+      "Thermodynamische",
+      "Thermodynamischer"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheitsfindung",
+      "Wahrheitsfindungs"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysekriterium"
+    ],
+    "audit": [
+      "Audit",
+      "Audits"
+    ],
+    "blind": [
+      "Blindheit",
+      "Blindness"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokumentation"
+    ],
+    "druck": [
+      "Druck",
+      "Drucks"
+    ],
+    "energ": [
+      "Energie",
+      "Energiekosten"
+    ],
+    "engin": [
+      "Engine",
+      "Engineering"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungen"
+    ],
+    "frame": [
+      "Framework",
+      "Frameworks"
+    ],
+    "gatte": [
+      "Gatter",
+      "Gattern"
+    ],
+    "gödel": [
+      "Gödels",
+      "Gödelsche"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Test",
+      "Testen"
+    ],
+    [
+      "Test",
+      "Stresstests"
+    ],
+    [
+      "Text",
+      "Context"
+    ],
+    [
+      "Text",
+      "Subtext"
+    ],
+    [
+      "Text",
+      "Kontextfenster"
+    ],
+    [
+      "Agent",
+      "Agenten"
+    ],
+    [
+      "Audit",
+      "Audits"
+    ],
+    [
+      "Druck",
+      "Drucks"
+    ],
+    [
+      "Nutze",
+      "Nutzer"
+    ],
+    [
+      "SKILL",
+      "Skill"
+    ],
+    [
+      "State",
+      "States"
+    ],
+    [
+      "Trace",
+      "Traces"
+    ],
+    [
+      "Engine",
+      "Engineering"
+    ],
+    [
+      "Format",
+      "Information"
+    ],
+    [
+      "Format",
+      "Informationen"
+    ],
+    [
+      "Format",
+      "Informationstheoretisch"
+    ],
+    [
+      "Gatter",
+      "Gattern"
+    ],
+    [
+      "Gödels",
+      "Gödelsche"
+    ],
+    [
+      "Kosten",
+      "Energiekosten"
+    ],
+    [
+      "System",
+      "Ökosystem"
+    ]
+  ]
+}

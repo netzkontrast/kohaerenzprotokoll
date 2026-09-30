@@ -1,0 +1,305 @@
+# 05-verify — ontologische-inversion-von-aegis-kritisches-framework — 2026-09-29
+# Every number the census (Sources/terms) and the note (Sources/notes) state, with the command that produced it,
+# printed exactly as it was run. In the commands: S is the slug, R is Plan/runs/$S, D is Sources/drive/$S.md.
+# Line numbers are file lines. The body starts at line 10; the frontmatter ends at line 9.
+S=ontologische-inversion-von-aegis-kritisches-framework
+R=Plan/runs/ontologische-inversion-von-aegis-kritisches-framework
+D=Sources/drive/ontologische-inversion-von-aegis-kritisches-framework.md
+
+# A. the candidate list and the count
+
+## candidate lines in 03-candidates.md (census: 170 candidates)
+$ grep -c '^- ' "$R/03-candidates.md"
+170
+
+## header of 04-counts.txt (census: 168 counted mechanically, 2 read as prose)
+$ sed -n '1,3p' "$R/04-counts.txt"
+# counts for 168 candidates
+# line numbers are FILE lines, as a citation writes them
+# 2 `- ` line(s) read as prose and not counted: Bewerte Prozesse, nicht nur Outcomes · Korrespondenz vs. Kohärenz
+
+## group sizes (census: 63, 65, 42)
+$ awk '/^## /{g=$0} /^- /{n[g]++} END{for(k in n) print n[k], k}' "$R/03-candidates.md" | sort -k2
+42 ## lens
+65 ## the document's own terms: bold, headed, marked or glossed
+63 ## world and engine
+
+## candidates counting zero (census: three)
+$ grep -c ' 0 word' "$R/04-counts.txt"; grep ' 0 word' "$R/04-counts.txt"
+3
+  InstructionDeputies (ANPs)        0 word     0 in   []
+  ChatCompanions (EPs)              0 word     0 in   []
+  Collapse Susceptibility Index / CSI    0 word     0 in   []
+
+## no lens name counts zero (census: no lens name does); the one lens term read as prose is counted by hand in D
+$ python3 - <<'PY'
+import json, os
+R = os.environ["R"]
+d = json.load(open(R + "/counts.json"))["counts"]
+lens, on = [], False
+for l in open(R + "/03-candidates.md", encoding="utf-8"):
+    if l.startswith("## "):
+        on = l.strip() == "## lens"
+    elif on and l.startswith("- "):
+        lens.append(l[2:].strip())
+missing = [t for t in lens if t not in d]
+zero = [t for t in lens if t in d and d[t]["n_including_compounds"] == 0]
+print("lens candidates:", len(lens), " read as prose, counted by hand:", missing, " counting zero:", zero)
+PY
+lens candidates: 42  read as prose, counted by hand: ['Korrespondenz vs. Kohärenz']  counting zero: []
+
+# B. the profile (census: 946 words, 17 headings, 15 question marks, 37 escapes, 3 glued, 18 ascii quotes)
+
+## profile as captured
+$ sed -n '2,14p' "$R/01-profile.txt"
+  lines                167  (frontmatter ends at 9)
+  body words           946
+  headings             17   bold-only lines 2
+  table rows           0   code fences 0
+  question marks       15
+  backslash escapes    37
+  typographic marks    0   ascii quotes 18
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    3
+  repeated labels      none
+  longest line         373 chars
+
+
+## headings from line 10 (census: 17; L15 among them, L162 not)
+$ awk 'NR>=10 && /^#/ {printf "%d ", NR} END{print ""}' "$D"; awk 'NR>=10 && /^#/' "$D" | wc -l; sed -n '162p' "$D"
+15 17 23 34 77 81 94 105 109 114 119 125 129 135 142 147 153 
+17
+\#\# Best Practices
+
+## question marks per line, and in total (census: 15 = 4 + 4 + 7)
+$ awk 'NR>=10 && /\?/ {n=gsub(/\?/,"&"); printf "L%d:%d ", NR, n} END{print ""}' "$D"; sed -n '10,$p' "$D" | tr -cd '?' | wc -c
+L56:1 L57:1 L66:1 L74:1 L111:1 L112:1 L116:1 L117:1 L144:1 L145:1 L149:1 L150:2 L151:2 
+15
+
+## question marks by passage (census: workflow L56-L74, first two steps L111-L117, template L144-L151)
+$ awk 'NR>=10 && /\?/ {n=gsub(/\?/,"&"); if (NR<=74) a+=n; else if (NR<=117) b+=n; else c+=n} END{print "workflow:", a, " first two steps:", b, " template:", c}' "$D"
+workflow: 4  first two steps: 4  template: 7
+
+## backslash escapes by kind and line, the probe's own pattern (census: 8 underscores, 5 + 5 brackets, 19 asterisks = 37)
+$ python3 - <<'PY'
+import os, re
+ESCAPE = re.compile(r"\\([\[\]*\"_])")
+lines = open(os.environ["D"], encoding="utf-8").read().split("\n")
+kinds = {}
+for i, l in enumerate(lines, 1):
+    if i <= 9:
+        continue
+    for m in ESCAPE.finditer(l):
+        kinds.setdefault(m.group(1), []).append(i)
+total = 0
+for k, v in kinds.items():
+    print(repr(k), len(v), sorted(set(v)))
+    total += len(v)
+print("total", total)
+PY
+'_' 8 [13, 57, 79, 81, 94, 102, 144, 145]
+'[' 5 [137, 138, 149, 150, 151]
+']' 5 [137, 138, 149, 150, 151]
+'*' 19 [164, 165, 166]
+total 37
+
+## F\&E stands on L13 and L34; the hyphens of L15 and the hashes of L162 are escaped too (census)
+$ grep -nF 'F\&E' "$D" | cut -d: -f1 | tr '\n' ' '; echo; sed -n '15p' "$D" | cut -c1-16; sed -n '162p' "$D"
+13 34 
+## \----------**
+\#\# Best Practices
+
+## the glued reference numbers are the Schritt headings (census: 3, L109 L114 L119)
+$ python3 - <<'PY'
+import os, re
+GLUED_REF = re.compile(r"([A-ZÄÖÜ][A-Za-zäöüß\-]{3,})\s(\d{1,2})\b")
+for i, l in enumerate(open(os.environ["D"], encoding="utf-8").read().split("\n"), 1):
+    if i > 9:
+        for m in GLUED_REF.finditer(l):
+            print("L%d" % i, repr(m.group(0)))
+PY
+L109 'Schritt 1'
+L114 'Schritt 2'
+L119 'Schritt 3'
+
+## lines with dollar signs (census: 9)
+$ awk 'NR>=10 && /\$/ {printf "%d ", NR; n++} END{print ""; print n}' "$D"
+13 47 57 79 81 87 94 102 116 
+9
+
+## doubled backslashes in the LaTeX (census: \ge in L47 and L116, \ln in L87)
+$ grep -nF '\\ge' "$D" | cut -d: -f1 | tr '\n' ' '; grep -nF '\\ln' "$D" | cut -d: -f1
+47 116 87
+
+## ASCII quotation marks per line (census: 18 marks = nine pairs, on L26 L31 L87 L89 L91 L96 L100 L102 L121)
+$ awk 'NR>=10 && /"/ {n=gsub(/"/,"&"); printf "L%d:%d ", NR, n; lines++; t+=n} END{print ""; print lines " lines, " t " marks"}' "$D"
+L26:2 L31:2 L87:2 L89:2 L91:2 L96:2 L100:2 L102:2 L121:2 
+9 lines, 18 marks
+
+## no four-digit number and so no year anywhere in the body (census: no year appears)
+$ sed -n '10,$p' "$D" | grep -cE '[0-9]{4}'
+0
+
+# C. structure the census and the note count
+
+## the four workflow items, each landed as 1. (census, note: four; L40 L52 L62 L70)
+$ grep -nE '^1\.  \*\*' "$D" | cut -c1-70
+40:1.  **Hypothesenbildung & Problemdefinition (Adaptiertes PICO-Model
+52:1.  **Risk of Bias Assessment (Verzerrungskontrolle):**
+62:1.  **Trace-Verifikation & Falsifikation:**
+70:1.  **Epistemologische Synthese:**
+
+## the two sections of the exemplary analysis (L81, L94) and the four sections of the output template (L135 L142 L147 L153)
+$ grep -nE '^### \*\*[0-9]\.' "$D" | cut -c1-70
+81:### **1. AEGIS als Kollaps-Kernel ($K\_0$) & Korrespondenz-Wahrheit
+94:### **2. Die wahre Kohärenz ($K\_1$) & Kohärenz-Wahrheit**
+135:### **1. PICO State (Ausgangslage)**
+142:### **2. Ontologische Einordnung (Inversions-Check)**
+147:### **3. Risk of Bias (Verzerrungen)**
+153:### **4. Architektonische Empfehlung (Synthese)**
+
+## the check is announced with four (L107) and has three Schritt headings (census, note)
+$ sed -n '107p' "$D"; grep -nE '^### \*\*Schritt [0-9]' "$D" | cut -c1-70
+Wenn du Architektur-Entscheidungen im System bewertest, nutze diesen 4-Schritte-Check:
+109:### **Schritt 1: Epistemologischen Standpunkt prüfen**
+114:### **Schritt 2: Thermodynamische Kosten messen**
+119:### **Schritt 3: Gödelsche Stresstests (Dialetheismus)**
+
+## end list markers between and after the workflow items (census: L42 to L72; seven)
+$ grep -n 'end list' "$D" | cut -d: -f1 | tr '\n' ' '; echo; grep -c 'end list' "$D"
+42 50 54 60 64 68 72 
+7
+
+## the three arguments headed Beweis (note; census: three arguments)
+$ grep -n 'Beweis' "$D" | cut -c1-72
+87:  - **Thermodynamischer Beweis (Landauer-Prinzip):** AEGIS fungiert a
+89:  - **Kosmologischer Beweis:** AEGIS strebt nach dem "Big Freeze" (ab
+91:  - **Epistemologischer Beweis:** AEGIS versucht, das System an eine 
+
+## the two outcomes of the stress test, and the three rules (census; note)
+$ grep -nE 'Fehlschlag|Erfolg' "$D" | cut -c1-50; awk 'NR>=162 && /Bewerte|Isoliere|Umarme/ {print "L" NR ": " substr($0,1,40)}' "$D"
+122:  - **Fehlschlag:** Das System stürzt ab (Tri
+123:  - **Erfolg:** Der Integrator-Agent (Selene) 
+L164: \*   \*\*Bewerte Prozesse, nicht nur Out
+L165: \*   \*\*Isoliere Test-Variablen:\*\* Ä
+L166: \*   \*\*Umarme die Paradoxie:\*\* Zwing
+
+## the template's empty fields (census: Comparison and Outcome, L139 and L140, have no value)
+$ sed -n '131p;133p;139p;140p;155p;156p' "$D" | cat -A | cut -c1-50
+**Forschungsfrage / Hypothese:**$
+**Analysekriterium:**$
+  - **Comparison:**$
+  - **Outcome:**$
+  - **NCP-Anpassung:**$
+  - **Prompt-Refactoring:**$
+
+## the four letters of the adapted model (note: L44 to L47)
+$ sed -n '44,47p' "$D" | cut -c1-40
+  - **P (Population/State):** Definition
+  - **I (Intervention):** Injektion entr
+  - **C (Comparison):** Abgleich der Rea
+  - **O (Outcome):** Messung der narrati
+
+## the template range and the cover note (census: L129 to L156; L11 and L13)
+$ sed -n '129p;156p' "$D" | cut -c1-50; sed -n '11p;13p' "$D" | cut -c1-50
+## **Narrative System & Trace Audit**
+  - **Prompt-Refactoring:**
+Hier ist ein auf dein Projekt zugeschnittenes SKIL
+Besonderes Augenmerk liegt auf der Abstraktion der
+
+## L127 ends Validierungen:markdown; a space before the colon at the end of L36; a full stop after the question mark at L57 and L74 (census)
+$ sed -n '127p' "$D" | tail -c 40; grep -n ' :$' "$D" | cut -d: -f1; grep -n '?\.' "$D" | cut -d: -f1 | tr '\n' ' '
+rchitektonischer Validierungen:markdown
+36
+57 74 
+## the threshold CSI is written on L47 and L116 (note)
+$ grep -nF 'CSI $\\ge$ 1' "$D" | cut -d: -f1 | tr '\n' ' '
+47 116 
+## Lex stands on L44 and L111 (note: twice)
+$ grep -nw 'Lex' "$D" | cut -d: -f1 | tr '\n' ' '
+44 111 
+# D. counts of words: case-sensitive whole word, read.py --count. quotes.py checks the marks in the census and the note again.
+  AEGIS                                  11
+  Beweis                                 3
+  Fehlschlag                             1
+  Erfolg                                 1
+  Exemplarische Analyse                  1
+  z.B.                                   5
+  Schritt                                3
+  CSI                                    3
+  LobeHub                                1
+  Kernwelt                               1
+  Mosaik-Herz                            1
+  Phase III                              1
+  Simulation                             1
+  World States                           1
+  Context Object                         1
+  Moonshine-Link                         1
+  Moros                                  1
+  Selene                                 1
+  Kael                                   1
+  Narrative Context Protocols            1
+  Collapse Susceptibility Index          1
+  ANP                                    1
+  EP                                     1
+  ANPs                                   1
+  EPs                                    1
+  Lex                                    2
+  K_0                                    0
+  K₀                                   0
+  K₁                                   0
+  K\_0                                   4
+  K\_1                                   4
+  Korrespondenz vs. Kohärenz            1
+  Bewerte Prozesse, nicht nur Outcomes   1
+
+## stance_marker_count in the note (11) = Beweis + Fehlschlag + Erfolg + Exemplarische Analyse + z.B.
+$ t=0; for w in 'Beweis' 'Fehlschlag' 'Erfolg' 'Exemplarische Analyse' 'z.B.'; do n=$(python3 scripts/read.py "$S" --count "$w" | sed -n '1p' | awk '{print $NF}'); echo "$w $n"; t=$((t+n)); done; echo "sum $t"
+Beweis 3
+Fehlschlag 1
+Erfolg 1
+Exemplarische Analyse 1
+z.B. 5
+sum 11
+
+# E. absences the note and the census state, read against the lines
+
+## AEGIS is never followed by a parenthesis in the body (note: written eleven times, each bare); the word after each occurrence
+$ sed -n '10,$p' "$D" | grep -c 'AEGIS ('; sed -n '10,$p' "$D" | grep -o 'AEGIS[^ ]* [^ ]*' | tr '\n' '|'; echo
+0
+AEGIS kritisch|AEGIS als|AEGIS als|AEGIS operiert|AEGIS fungiert|AEGIS kontinuierlich|AEGIS *erzeugt*|AEGIS strebt|AEGIS versucht,|AEGIS scheitert|
+
+## the four lines that write K\_0 (note: none says the pressure of L57 and the kernel of L81 and L144 are one)
+$ grep -nF 'K\_0' "$D" | cut -c1-260
+13:Besonderes Augenmerk liegt auf der Abstraktion der Wahrheitsfindungs-Workflows in der Forschung und Entwicklung (F\&E) und der von dir vorgeschlagenen **ontologischen Inversion**, in der AEGIS kritisch als Treiber des $K\_0$-Kollapses und Repräsentant eine
+57:  - Prüfung auf **Harmonisierungs-Bias**: Glättet das Modell fälschlicherweise Konflikte auf, statt den entropischen Druck ($K\_0$) aufrechtzuerhalten?.
+81:### **1. AEGIS als Kollaps-Kernel ($K\_0$) & Korrespondenz-Wahrheit**
+144:  - **Handelt das System hier als K\_0 (Kollaps/Löschung)?**
+
+## the three zeros are joined forms with emphasis marks inside them, L28 and L165 (census)
+$ sed -n '28p;165p' "$D" | cut -c1-200
+  - Prüfung thermodynamischer Systemreaktionen (z.B. *Collapse Susceptibility Index* / CSI).
+\*   \*\*Isoliere Test-Variablen:\*\* Ändere beim Testen von \*InstructionDeputies\* (ANPs) niemals gleichzeitig die Parameter der \*ChatCompanions\* (EPs).
+
+# F. the checks before finishing
+
+## the census: 0 unresolved, 0 unchecked
+$ python3 scripts/quotes.py "Sources/terms/$S.md"
+
+15 cited quotes checked, 0 unresolved; 0 quotes had no citation on their own line, or none naming a
+document that could be resolved, and were not checked; 6 count marks checked, 0 wrong; 0 absence phrases carry no mark.
+A bare ^[Lnn] resolves against the file's own `source:`.
+
+## the note: 0 unresolved, 0 unchecked
+$ python3 scripts/quotes.py "Sources/notes/$S.md"
+
+69 cited quotes checked, 0 unresolved; 0 quotes had no citation on their own line, or none naming a
+document that could be resolved, and were not checked; 23 count marks checked, 0 wrong; 0 absence phrases carry no mark.
+A bare ^[Lnn] resolves against the file's own `source:`.
+
+## capture.py --count run again after the list is complete: the counts file is byte-identical to the first run
+$ cp "$R/04-counts.txt" "$SCR/04-counts.before"; python3 scripts/capture.py "$S" --count | tail -2; cmp "$SCR/04-counts.before" "$R/04-counts.txt" && echo "identical"
+2 `- ` line(s) read as prose, not counted: Bewerte Prozesse, nicht nur Outcomes · Korrespondenz vs. Kohärenz
+wrote /home/user/kohaerenzprotokoll/Plan/runs/ontologische-inversion-von-aegis-kritisches-framework/04-counts.txt
+identical

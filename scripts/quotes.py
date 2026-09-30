@@ -32,6 +32,24 @@ is every chapter, beat and world number: 268 on one document, not one of them a
 footnote. So every number the quote writes must also stand on the line, in the
 same order, with the footnote rule off (`missing_number`).
 
+## Count marks: an absence is asked, then checked
+
+A count cannot be quoted, so it carries a mark instead: a code span or a „…"
+quotation immediately followed by `^[<slug>.md:#N]`, N an integer -- for example
+`` `Flight` ^[slug.md:#0] ``. `read.py <slug> --count "<words>"` prints the mark
+ready to paste. `check_marks` verifies N against the case-sensitive whole-word
+count of those words in the body of that document (`count_words`, which asks
+`capture.count_both` -- the counting a census uses). A wrong N is an unresolved
+defect, like a wrong quotation; a claimed 0 that stands only in another case is
+named as exactly that (`zero only by case`). A count mark is never a quotation
+citation: `pairs` skips it, so it is neither checked as one nor counted as
+unchecked.
+
+`absence_backlog` measures the other side: the phrases that assert an absence or
+a count (`0 times`, `stands 0`, a code span followed by `0`, `zero times`) with
+no `#`-mark in their sentence. It is a measured backlog printed on the summary
+line and never fails the run.
+
 Usage:
     python3 scripts/quotes.py            # every note, census and wiki page
     python3 scripts/quotes.py <path>     # one file
@@ -86,6 +104,19 @@ CITE = re.compile(r"\^\[(?P<ref>[^\]\n]{2,80})\]")
 # with each line's number beside it: a place to look, never a quotation the page
 # makes. Only this info string is skipped; a quotation in any other fence counts.
 RAW_FENCE = re.compile(r"^```qmd\n.*?^```", re.S | re.M)
+# A count mark: the words (code span or „…") and `^[slug.md:#N]` right after them.
+COUNT_REF = re.compile(r"^(?P<slug>[A-Za-z0-9\-]+)\.md:#(?P<n>\d+)$")
+# A wrapped line may stand between the words and their mark: until 2026-09-29 a
+# mark split from its code span by a line break matched nothing and was neither
+# checked nor counted (a document-reader found three of its own that way).
+MARK = re.compile(r"(?:`(?P<code>[^`\n]+)`|„(?P<quote>[^„“\n]{1,400})[“\"])[ \t]*\n?[ \t]*"
+                  r"\^\[(?P<slug>[A-Za-z0-9\-]+)\.md:#(?P<n>\d+)\]")
+# Every count mark written, paired or not — so a mark nothing could read is named, never skipped (P23).
+ANY_MARK = re.compile(r"\^\[(?P<slug>[A-Za-z0-9\-]+)\.md:#(?P<n>\d+)\]")
+# Phrases that assert an absence or a count in prose. One alternation, so
+# „stands 0 times" is one occurrence and not two.
+ABSENCE = re.compile(r"\b0 times\b|\bstands? 0\b|`[^`\n]+`\s+0\b|\bzero times\b")
+SENTENCE_END = re.compile(r"(?<=[.;!?])\s+")
 UNKNOWN_SOURCE = "which document this ^[Lnn] means cannot be determined"
 REF = re.compile(r"^(?:(?P<slug>[A-Za-z0-9\-]+)\.md:)?L(?P<line>\d+)(?:\s*[-\u2013]\s*(?P<last>\d+))?")
 
@@ -209,10 +240,14 @@ def pairs(text: str) -> list[tuple[re.Match, list[str]]]:
     # The reference belongs to the quote nearest it, and the others on that line
     # are uncited rather than wrong. Pairing by nearest position says so.
     owner: dict[int, list[str]] = {}
-    quotes = list(QUOTE.finditer(text))
+    # A „…" followed by a count reference is a count mark, not a quotation.
+    marked = {m.start("quote") - 1 for m in MARK.finditer(text) if m.group("quote")}
+    quotes = [q for q in QUOTE.finditer(text) if q.start() not in marked]
     spans = [(line_of(starts, q.start()), line_of(starts, q.end())) for q in quotes]
     lines = text.split("\n")
     for m in CITE.finditer(text):
+        if COUNT_REF.match(m.group("ref")):
+            continue
         row = line_of(starts, m.start())
         # A blockquote puts its citation on the line after the quote closes:
         #     > „…text…"
@@ -307,6 +342,69 @@ def slug_of(path: Path, text: str | None = None) -> str | None:
     return path.stem if any(d.slug == path.stem for d in documents()) else None
 
 
+def count_words(slug: str, words: str) -> tuple[int, int, int]:
+    """(whole-word case-sensitive, whole-word case-insensitive, with compounds).
+
+    The body of the landed document only, counted with `capture.count_both` --
+    the function a census counts with -- and, for the middle number, the same
+    `wiki_index.mention` pattern without case. `read.py --count` prints these and
+    `check_marks` verifies against them, so asking and checking cannot disagree.
+    """
+    import capture
+    from wiki_index import mention
+    body = document(slug).body
+    word, inside = capture.count_both(words, body)
+    folded = len(re.compile(mention(words).pattern, re.IGNORECASE).findall(body))
+    return word, folded, inside
+
+
+def check_marks(text: str) -> tuple[int, list[dict]]:
+    """(marks checked, the wrong ones) in one file's text."""
+    marks, wrong = 0, []
+    for m in MARK.finditer(unraw(text)):
+        words = ESCAPE.sub(r"\1", m.group("code") or m.group("quote")).strip()
+        marks += 1
+        claimed = int(m.group("n"))
+        ref = f"{m.group('slug')}.md:#{m.group('n')}"
+        try:
+            word, folded, inside = count_words(m.group("slug"), words)
+        except Exception:
+            wrong.append({"quote": words[:60], "ref": ref,
+                          "why": f"no landed document {m.group('slug')!r}"})
+            continue
+        if word != claimed:
+            why = f"the count is {word}, not {claimed}"
+        elif claimed == 0 and folded:
+            # right by the letter, wrong by the claim: the absence is of one spelling only
+            why = f"zero only by case: {folded} case-insensitive"
+        else:
+            continue
+        wrong.append({"quote": words[:60], "ref": ref, "why": why})
+    paired = {m.end() for m in MARK.finditer(unraw(text))}
+    for m in ANY_MARK.finditer(unraw(text)):
+        if m.end() not in paired:
+            marks += 1
+            wrong.append({"quote": "", "ref": f"{m.group('slug')}.md:#{m.group('n')}",
+                          "why": "a count mark with no code span or quotation right before it: nothing says what it counts"})
+    return marks, wrong
+
+
+def absence_backlog(text: str) -> int:
+    """Absence phrases with no `#`-mark in their sentence: a measured backlog."""
+    open_ = 0
+    for line in unraw(text).split("\n"):
+        cuts, last = [], 0
+        for piece in SENTENCE_END.finditer(line):
+            cuts.append((last, piece.start()))
+            last = piece.end()
+        cuts.append((last, len(line)))
+        for hit in ABSENCE.finditer(line):
+            first, end = next(c for c in cuts if c[0] <= hit.start() < c[1] + 1)
+            if not MARK.search(line[first:end]):
+                open_ += 1
+    return open_
+
+
 def tally(targets: list[Path] | None = None) -> dict:
     """Check every quotation in `targets` — by default every census, note and wiki file.
 
@@ -321,7 +419,7 @@ def tally(targets: list[Path] | None = None) -> dict:
             + list((ROOT / "Sources" / "terms").glob("*.md"))
             + list((ROOT / "Wiki").rglob("*.md"))
         )
-    checked = uncited = 0
+    checked = uncited = marks = backlog = bad = 0
     problems: list[tuple[Path, dict]] = []
     for path in targets:
         text = path.read_text(encoding="utf-8")
@@ -329,7 +427,13 @@ def tally(targets: list[Path] | None = None) -> dict:
         checked += len(pairs(text)) - skipped
         uncited += skipped
         problems += [(path, problem) for problem in found]
+        made, wrong = check_marks(text)
+        marks += made
+        backlog += absence_backlog(text)
+        problems += [(path, problem) for problem in wrong]
+        bad += len(wrong)
     return {"checked": checked, "unresolved": len(problems), "unchecked": uncited,
+            "count_marks": marks, "count_wrong": bad, "no_mark": backlog,
             "problems": problems}
 
 
@@ -337,7 +441,9 @@ def summary(counts: dict, wrap: str = " ") -> str:
     """The tally as one sentence: what `main` ends with, and the line ui.py shows."""
     return (f"{counts['checked']} cited quotes checked, {counts['unresolved']} unresolved; "
             f"{counts['unchecked']} quotes had no citation on their own line, or none naming a"
-            f"{wrap}document that could be resolved, and were not checked.")
+            f"{wrap}document that could be resolved, and were not checked; "
+            f"{counts.get('count_marks', 0)} count marks checked, {counts.get('count_wrong', 0)} wrong; "
+            f"{counts.get('no_mark', 0)} absence phrases carry no mark.")
 
 
 def main(argv: list[str]) -> int:

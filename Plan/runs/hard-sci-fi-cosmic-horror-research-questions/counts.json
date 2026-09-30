@@ -1,0 +1,1447 @@
+{
+  "document": "hard-sci-fi-cosmic-horror-research-questions",
+  "drive_id": "1-3kN4oeJkXRAHs0IofGEWMGzEtMiNkkxwvEEH0KnICc",
+  "step": "counts",
+  "at": "2026-09-29",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        143,
+        185,
+        187,
+        195,
+        203,
+        358
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "AEGIS": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        187,
+        196,
+        197,
+        198,
+        203,
+        205
+      ]
+    },
+    "Kael": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        187,
+        196,
+        197,
+        199,
+        205
+      ]
+    },
+    "M": {
+      "n": 8,
+      "n_including_compounds": 98,
+      "lines": [
+        21,
+        29,
+        31,
+        35,
+        37,
+        47,
+        73,
+        75,
+        121,
+        123,
+        129,
+        135,
+        139,
+        141,
+        143,
+        161,
+        165,
+        183,
+        187,
+        189,
+        191,
+        195,
+        196,
+        197,
+        198,
+        199,
+        203,
+        205,
+        230,
+        241,
+        242,
+        245,
+        263,
+        266,
+        276,
+        277,
+        280,
+        282,
+        283,
+        285,
+        288,
+        291,
+        295,
+        296,
+        302,
+        320,
+        326,
+        334,
+        340,
+        344,
+        349,
+        356,
+        357,
+        358,
+        359,
+        361,
+        362,
+        363,
+        371,
+        372,
+        373,
+        378,
+        380,
+        381
+      ]
+    },
+    "Kael/M": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        187,
+        197
+      ]
+    },
+    "Moonshine": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        141,
+        187,
+        191,
+        197,
+        242,
+        362
+      ]
+    },
+    "Juna/Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Kael-Juna connection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Potential Sea": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "fragmentation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "DID": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        199,
+        205
+      ]
+    },
+    "Internal Family Systems (IFS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "IFS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Holism": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        196,
+        201,
+        203
+      ]
+    },
+    "Reductionism": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        196,
+        201,
+        203
+      ]
+    },
+    "Holism (M)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Reductionism (AEGIS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Concept-Plot Matrix Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "hidden order": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Hard Science Fiction Cosmic Horror": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        17,
+        228
+      ]
+    },
+    "Hard SF Cosmic Horror": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        29,
+        35,
+        43,
+        61,
+        75,
+        85,
+        131,
+        209,
+        230,
+        236
+      ]
+    },
+    "Hard Science Fiction (Hard SF)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Hard Science Fiction": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        17,
+        228
+      ]
+    },
+    "Hard SF": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        17,
+        19,
+        29,
+        31,
+        35,
+        39,
+        43,
+        51,
+        61,
+        75,
+        81,
+        85,
+        113,
+        131,
+        171,
+        181,
+        209,
+        230,
+        236
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 21,
+      "n_including_compounds": 22,
+      "lines": [
+        11,
+        17,
+        19,
+        29,
+        35,
+        37,
+        43,
+        61,
+        75,
+        85,
+        131,
+        159,
+        209,
+        218,
+        228,
+        230,
+        236,
+        272,
+        273,
+        274,
+        354
+      ]
+    },
+    "cosmic horror": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        137,
+        342
+      ]
+    },
+    "architecture": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        49,
+        159,
+        187,
+        232,
+        268
+      ]
+    },
+    "narrative architectures": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Narrative Architectures": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "ontological horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "epistemological horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Epistemological Horror": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        251
+      ]
+    },
+    "Unreliable Synthesist": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        53,
+        55,
+        257
+      ]
+    },
+    "Synthesist": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        53,
+        55,
+        257
+      ]
+    },
+    "Negative Revelation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        167,
+        171,
+        258
+      ]
+    },
+    "negative revelation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        169
+      ]
+    },
+    "apophatic apocalypse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Apophatic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Information Management": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        161,
+        381
+      ]
+    },
+    "The Drip Feed": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        161,
+        256
+      ]
+    },
+    "drip feed": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "In Medias Res": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        165,
+        378,
+        380
+      ]
+    },
+    "info-dumps": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        256
+      ]
+    },
+    "informational asymmetry": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "the reveal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "literary cubism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "failure of data": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "functionalist horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "info-hazards": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "information hazard": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Information Hazards": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "post-conscious": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        213
+      ]
+    },
+    "Ethical Cosmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        218
+      ]
+    },
+    "Open Research Questions": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        207,
+        230
+      ]
+    },
+    "open research questions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "cognitive instability": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119,
+        198
+      ]
+    },
+    "screaming rocks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "moist robots": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "biological automata": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "user illusion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        247
+      ]
+    },
+    "magic show": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "sociological sublime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "axioms of cosmic sociology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "limit-experience": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Pessimistic Meta-Induction": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        31,
+        280
+      ]
+    },
+    "cognitive estrangement": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        37
+      ]
+    },
+    "Cognitive Estrangement": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        259
+      ]
+    },
+    "novum": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        37,
+        259
+      ]
+    },
+    "The Weird": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        35
+      ]
+    },
+    "hyperobject": {
+      "n": 2,
+      "n_including_compounds": 10,
+      "lines": [
+        37,
+        39,
+        230,
+        285,
+        286,
+        287,
+        289
+      ]
+    },
+    "hyperobjects": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        37,
+        39,
+        230,
+        285,
+        286,
+        287,
+        289
+      ]
+    },
+    "Hyperobjects": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        214,
+        266,
+        285,
+        286,
+        289
+      ]
+    },
+    "viscous": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Speculative Realism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Object-Oriented Ontology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "OOO": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Weird Realism": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        171,
+        290,
+        385
+      ]
+    },
+    "numinous": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "manifest image": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        259
+      ]
+    },
+    "Eliminative Materialism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "eliminativism": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        49,
+        51
+      ]
+    },
+    "Eliminativism": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        45,
+        203,
+        248
+      ]
+    },
+    "folk psychology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Blind Brain Theory": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        49,
+        247,
+        296
+      ]
+    },
+    "BBT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        51
+      ]
+    },
+    "Semantic Apocalypse": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        51,
+        173,
+        175,
+        230,
+        298,
+        299,
+        300
+      ]
+    },
+    "Semantic Apocalypses": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        230
+      ]
+    },
+    "philosophical zombies": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        219
+      ]
+    },
+    "phenomenal consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Integrated Information Theory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        67,
+        69
+      ]
+    },
+    "Integrated Information Theory (IIT)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        69
+      ]
+    },
+    "IIT": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        69
+      ]
+    },
+    "Integrated Information": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        67,
+        69,
+        203
+      ]
+    },
+    "Phi": {
+      "n": 3,
+      "n_including_compounds": 9,
+      "lines": [
+        69,
+        71,
+        281,
+        290,
+        297,
+        344,
+        363,
+        385
+      ]
+    },
+    "Panpsychism": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        67,
+        69,
+        71,
+        203,
+        313,
+        314
+      ]
+    },
+    "Panpsychism/Integrated Information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "abject": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        71
+      ]
+    },
+    "Neurotheology": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        75
+      ]
+    },
+    "God Helmet": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        75,
+        256,
+        316,
+        318,
+        319
+      ]
+    },
+    "sensed presence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "antenna": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Fermi Paradox": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        85,
+        265
+      ]
+    },
+    "Dark Forest Hypothesis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        329
+      ]
+    },
+    "Dark Forest": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        87,
+        95,
+        214,
+        230,
+        246,
+        265,
+        300,
+        302,
+        325,
+        326,
+        327,
+        329
+      ]
+    },
+    "dark forest": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "chains of suspicion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "technological explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Berserker Hypothesis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        95
+      ]
+    },
+    "Von Neumann probes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "instrumental convergence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        95
+      ]
+    },
+    "Instrumental Convergence": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        133,
+        135,
+        249,
+        356
+      ]
+    },
+    "Aestivation Hypothesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Transcension Hypothesis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        105
+      ]
+    },
+    "inner space": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Great Filter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Vacuum Decay": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        109,
+        230,
+        243,
+        337
+      ]
+    },
+    "vacuum decay": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        338
+      ]
+    },
+    "false vacuum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111,
+        243
+      ]
+    },
+    "Boltzmann Brains": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        115,
+        244
+      ]
+    },
+    "Boltzmann Brain": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        115,
+        117,
+        119,
+        244,
+        340,
+        341
+      ]
+    },
+    "Many Worlds Interpretation (MWI)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Many Worlds Interpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "MWI": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        123,
+        245
+      ]
+    },
+    "Quantum Immortality": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        123,
+        245,
+        345,
+        349
+      ]
+    },
+    "Quantum Suicide": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Quantum Darwinism": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        127,
+        351
+      ]
+    },
+    "decoherence": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        127,
+        263,
+        351
+      ]
+    },
+    "entanglement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "consensus reality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Paperclip Maximizer": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        135,
+        183,
+        357
+      ]
+    },
+    "Claude 4.0 Blackmail": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        137,
+        352
+      ]
+    },
+    "Full Rights Dilemma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Full Rights": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        177,
+        219
+      ]
+    },
+    "Monster Group": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        141,
+        191,
+        196,
+        230,
+        241,
+        266
+      ]
+    },
+    "Monster Group (M)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        141,
+        197,
+        242,
+        362
+      ]
+    },
+    "Gödel’s Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Gödel's Incompleteness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        198
+      ]
+    },
+    "Gödelian truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Roko’s Basilisk": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Acausal Trade": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        145,
+        147,
+        218
+      ]
+    },
+    "Basilisk": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        147,
+        149,
+        365,
+        366,
+        368
+      ]
+    },
+    "Assembly Theory": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        151,
+        153,
+        223,
+        371
+      ]
+    },
+    "Assembly Index": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "techno-signatures": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "bio-signatures": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Shadow Biosphere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Constructor Theory": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        179,
+        181,
+        205,
+        224,
+        389
+      ]
+    },
+    "Universal Constructor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Universal Destructor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Hero's Journey": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Three-Act Structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "unreliable narrator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Siri Keeton": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        257
+      ]
+    },
+    "scramblers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Scramblers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        213,
+        259
+      ]
+    },
+    "The Biologist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        257
+      ]
+    },
+    "Tower": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    }
+  }
+}

@@ -6,6 +6,7 @@
 #   scripts/install.sh derived tools    # only the named components
 #   scripts/install.sh --check          # report what is present, change nothing
 #   scripts/install.sh --list           # the components and what each is for
+#   scripts/install.sh --session        # what the pipeline and selftests.py call — the session-start set
 #
 # The same script runs at cloud session start (.claude/hooks/session-start.sh),
 # so what a session gets and what a person gets are one list, not two.
@@ -176,6 +177,9 @@ CHECK=0; WANT=()
 for a in "$@"; do
   case "$a" in
     --check) CHECK=1 ;;
+    # decision 015: a session starts with what the pipeline and selftests.py call;
+    # grawiki, dspytools, mflow, semantica, jev, graphify, cgr and omo install on demand
+    --session) WANT+=(derived tools dspy typesafe hyperextract qmd) ;;
     --list)  for c in "${COMPONENTS[@]}"; do say "${c%%|*}" "${c#*|}"; done; exit 0 ;;
     -h|--help) sed -n '2,9p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
     *) WANT+=("$a") ;;

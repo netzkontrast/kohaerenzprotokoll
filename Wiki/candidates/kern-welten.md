@@ -1,8 +1,8 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 38
-readings: 37
+sources: 39
+readings: 38
 conflict: C6, C9
 ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
 aliases: ["Kern-Welt"]
@@ -548,7 +548,7 @@ A hedged blueprint of 39 beats, unnamed and unnumbered worlds throughout (`könn
 
 **A whole beat is the transfer into one.** „**Beat 4: Kernwelt-Transfer - Isolation**" ^[m-als-fundament-der-simulation.md:L168]: „AEGIS isoliert Kael in einer kontrollierten Umgebung (Kernwelt), um spezifische Aspekte der M-Physik zu testen und Kaels Reaktion zu studieren." ^[m-als-fundament-der-simulation.md:L172]
 
-**A Guardian may reside inside the test chamber, unnamed and singular, in the same hedge as everything else.** „Möglicherweise gibt es Wächter-Programme (Guardians) in der Kernwelt, deren Verhalten durch Kaels Aktion gestört wird." ^[m-als-fundament-der-simulation.md:L194] — and later, when Kael breaks the chamber's rules, „Eventuell vorhandene Wächterprogramme in der Kernwelt werden neutralisiert oder können Kael nicht aufhalten." ^[m-als-fundament-der-simulation.md:L239] (readings on [[guardians|Guardians]]).
+**Guardian programs may reside inside the test chamber, unnamed and plural, in the same hedge as everything else.** „Möglicherweise gibt es Wächter-Programme (Guardians) in der Kernwelt, deren Verhalten durch Kaels Aktion gestört wird." ^[m-als-fundament-der-simulation.md:L194] — and later, when Kael breaks the chamber's rules, „Eventuell vorhandene Wächterprogramme in der Kernwelt werden neutralisiert oder können Kael nicht aufhalten." ^[m-als-fundament-der-simulation.md:L239] (readings on [[guardians|Guardians]]).
 
 No world is named or numbered anywhere in the document, and no Guardian is named (`LogOS`, `Mnemosyne`, `Cerberus`, `Kairos`, `Sophia` all 0, `05-verify.txt`); a Kernwelt here is defined by what it tests, not by who guards it or what it is called — the pairing this page's other readings give by name is not this document's (Q5).
 

@@ -1,10 +1,10 @@
 ---
 term: Die Große Mauer
 status: candidate
-sources: 1
+sources: 2
 readings: 1
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "guardians-und-kern-welten-konzept"]
 aliases: ["Die Große Mauer (Systemgrenze)", "Große Mauer", "Systemgrenze"]
 gathered: "2026-09-17"
 ---

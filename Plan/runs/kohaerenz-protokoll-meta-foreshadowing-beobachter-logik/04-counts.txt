@@ -1,0 +1,78 @@
+# counts for 63 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Foreshadowing-Strategie           1 word     1 in   [11]
+  Beobachter-Instanz                1 word     1 in   [11]
+  finalen Twist                     1 word     1 in   [13]
+  Kael                             11 word    12 in   [13, 17, 19, 20, 21, 34]
+                                    1      as Kaels
+  Manifestation des Lesers          1 word     1 in   [13]
+  Zuklappen des Buches              3 word     3 in   [13, 28, 46]
+  Glitch-Momente                    1 word     1 in   [13]
+  Stasis-Lücken                     1 word     1 in   [15]
+  Teil 1                            2 word     2 in   [15, 30]
+  Konstrukt                         1 word     1 in   [17]
+  getaktet                          1 word     1 in   [17]
+  Das Foreshadowing                 3 word     3 in   [19, 27, 34]
+  Die Meta-Erklärung                2 word     2 in   [20, 28]
+  Leser                             6 word    10 in   [13, 20, 28, 32, 35, 42]
+                                    4      as Lesers
+  Große Stille                      1 word     1 in   [20]
+  Jemand                            1 word     1 in   [21]
+  Höhere Metrik                     1 word     1 in   [23]
+  Teil 2                            1 word     1 in   [23]
+  AEGIS                             4 word     5 in   [23, 25, 27, 28, 54]
+                                    1      as AEGIS-Protokolle
+  Verwalter                         1 word     1 in   [25]
+  autonomer Gott                    1 word     1 in   [25]
+  Signal                            1 word     1 in   [25]
+  Statusberichten                   1 word     1 in   [27]
+  Primären Beobachtungs-Einheit     1 word     1 in   [27]
+  Externen Taktgeber                1 word     1 in   [27]
+  Kohärenz Protokoll                1 word     1 in   [27]
+  harten Maßnahmen (das Kohärenz Protokoll)    1 word     1 in   [27]
+  Einheit                           1 word     2 in   [27]
+  System                            3 word     4 in   [27, 28, 35, 58]
+                                    1      as systemische
+                                    1      as System-Abschaltung
+  Ordnungssucht                     1 word     1 in   [28]
+  den Leser (den Beobachter)        1 word     1 in   [28]
+  Beobachter                        1 word     4 in   [11, 28, 35, 58]  <-- substring
+                                    1      as Beobachter-Instanz
+                                    1      as Beobachters
+                                    1      as Beobachter-Fokus
+  Aufmerksamkeit                    2 word     2 in   [28, 48]
+  Energie                           1 word     1 in   [28]
+  „Aufmerksamkeit“ (Energie)        1 word     1 in   [28]
+  Rendering-Grenzen                 1 word     1 in   [30]
+  Teil 1 & 2                        1 word     1 in   [30]
+  beschrieben                       1 word     1 in   [34]
+  Textfragmente                     1 word     1 in   [34]
+  des Beobachters (des Lesers)      1 word     1 in   [35]
+  Juna-Spiegelung                   1 word     1 in   [37]
+  Teil 3                            1 word     1 in   [37]
+  Juna                              2 word     3 in   [37, 39, 41]
+                                    1      as Juna-Spiegelung
+  da draußen jemand                 1 word     1 in   [41]
+  Sonde                             1 word     1 in   [42]
+                                    4      as sondern
+  Werkzeug                          1 word     1 in   [42]
+  Lese-Abhängigkeit                 1 word     1 in   [44]
+  Das finale Kapitel                1 word     1 in   [44]
+  Kapitel 39                        1 word     1 in   [48]
+  Gedanke eines Fremden             1 word     1 in   [49]
+  Du                                1 word     1 in   [53]
+  AEGIS-Protokolle                  1 word     1 in   [54]
+  Beobachtungsstatus                1 word     1 in   [54]
+  Beobachter-Fokus                  1 word     1 in   [58]
+  System-Abschaltung                1 word     1 in   [58]
+  Grenzen der Mathematik und Physik    1 word     1 in   [32]
+  unentscheidbar                    1 word     1 in   [35]
+  Dissoziation                      1 word     1 in   [42]
+  Dissoziation (seine Trennung von der Welt)    1 word     1 in   [42]
+  Trauma                            1 word     1 in   [42]
+  Wärmetod des Universums           1 word     1 in   [46]
+  Entropie                          1 word     1 in   [46]
+  „Wärmetod des Universums“ (Entropie)    1 word     1 in   [46]

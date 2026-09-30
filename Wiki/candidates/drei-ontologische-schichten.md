@@ -1,10 +1,10 @@
 ---
 term: Drei ontologische Schichten
 status: candidate
-sources: 3
+sources: 4
 readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 

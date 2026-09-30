@@ -1,0 +1,35 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      43
+  typographic marks      31
+  ascii quotes           74
+
+# inflection families -- one term, several surfaces
+  verif    Verification, Verified, Verifier, Verifies, Verify
+  archi    Archipel, Architectural, Architecture
+  modul    Modular, Modularity, Module
+  algor    Algorithmic, Algorithmische
+  diale    Dialetheic, Dialetheism
+  execu    Execution, Executive
+  funct    Function, Functional
+  ident    Identification, Identity
+  logic    Logic, Logical
+  manda    Mandate, Mandated
+  mecha    Mechanics, Mechanism
+  monst    Monster, Monstrous
+  requi    Required, Requirement
+  theor    Theoretical, Theory
+  therm    Thermodynamic, Thermodynamics
+
+# substring pairs -- never one term, often merged by accident
+  Here < Coherence
+  Kern < Kernel
+  Logic < Logical
+  Logic < Psychological
+  These < Synthese
+  Logical < Psychological
+  Mandate < Mandated
+  Modular < Modularity
+  Function < Functional
+  Thermodynamic < Thermodynamics

@@ -1,0 +1,882 @@
+# 05-verify — every number the census (Sources/terms/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md) and the note (Sources/notes/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md) state
+# run 2026-09-29 by the document-reader subagent; each block is a command and its output, unedited.
+# A: every count mark (118 marks, 90 distinct word strings; quotes.py checks the same numbers). B: every other number.
+
+## A · count marks — `read.py --count`: whole word case-sensitive / case-insensitive / with compounds; the last line is the mark
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Foreshadowing-Strategie
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Foreshadowing-Strategie` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Beobachter-Instanz
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beobachter-Instanz` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'finalen Twist'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`finalen Twist` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Kael
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`Kael` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#11]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Manifestation des Lesers'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Manifestation des Lesers` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Zuklappen des Buches'
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Zuklappen des Buches` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Glitch-Momente
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Glitch-Momente` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Stasis-Lücken'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Stasis-Lücken` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Teil 1'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Teil 1` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Konstrukt
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count getaktet
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`getaktet` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Das Foreshadowing'
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Das Foreshadowing` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Die Meta-Erklärung'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Die Meta-Erklärung` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Leser
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            10
+
+`Leser` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Große Stille'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Große Stille` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Jemand
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Jemand` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Höhere Metrik'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Höhere Metrik` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Teil 2'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Teil 2` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count AEGIS
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`AEGIS` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Verwalter
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Verwalter` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'autonomer Gott'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`autonomer Gott` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Signal
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Signal` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Statusberichten
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Statusberichten` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Primären Beobachtungs-Einheit'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Primären Beobachtungs-Einheit` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Externen Taktgeber'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Externen Taktgeber` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Kohärenz Protokoll'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'harten Maßnahmen (das Kohärenz Protokoll)'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`harten Maßnahmen (das Kohärenz Protokoll)` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Einheit
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Einheit` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count System
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`System` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Ordnungssucht
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ordnungssucht` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'den Leser (den Beobachter)'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`den Leser (den Beobachter)` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Beobachter
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Beobachter` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Aufmerksamkeit
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Aufmerksamkeit` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Energie
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Energie` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count '„Aufmerksamkeit“ (Energie)'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`„Aufmerksamkeit“ (Energie)` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Rendering-Grenzen
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rendering-Grenzen` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Teil 1 & 2'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Teil 1 & 2` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count beschrieben
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`beschrieben` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Textfragmente
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Textfragmente` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'des Beobachters (des Lesers)'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`des Beobachters (des Lesers)` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Juna-Spiegelung
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna-Spiegelung` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Teil 3'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Teil 3` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Juna
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Juna` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'da draußen jemand'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`da draußen jemand` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Sonde
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sonde` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Werkzeug
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Werkzeug` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Lese-Abhängigkeit'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lese-Abhängigkeit` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Das finale Kapitel'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das finale Kapitel` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Kapitel 39'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel 39` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Gedanke eines Fremden'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gedanke eines Fremden` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Du
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Du` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count AEGIS-Protokolle
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Protokolle` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Beobachtungsstatus
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beobachtungsstatus` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Beobachter-Fokus
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beobachter-Fokus` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count System-Abschaltung
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`System-Abschaltung` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Grenzen der Mathematik und Physik'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Grenzen der Mathematik und Physik` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count unentscheidbar
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`unentscheidbar` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Dissoziation
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dissoziation` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Dissoziation (seine Trennung von der Welt)'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dissoziation (seine Trennung von der Welt)` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Trauma
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Trauma` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Wärmetod des Universums'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wärmetod des Universums` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Entropie
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropie` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count '„Wärmetod des Universums“ (Entropie)'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`„Wärmetod des Universums“ (Entropie)` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Meta-Foreshadowing
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Meta-Foreshadowing` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Beobachter-Logik
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Beobachter-Logik` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Foreshadowing
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Foreshadowing` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Welt
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Welt` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Tropfen
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tropfen` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Herz
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Herz` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Zeilen
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zeilen` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Universums
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Universums` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Aufmerksamkeit (Energie)'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Aufmerksamkeit (Energie)` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Wärmetod des Universums (Entropie)'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Wärmetod des Universums (Entropie)` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Metrik
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Metrik` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Nutze
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nutze` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'müssen wir'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`müssen wir` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Text-Beispiel
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Text-Beispiel` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Limit-Integration
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Limit-Integration` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Der Dialog-Hinweis'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Der Dialog-Hinweis` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Die Umkehrung'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Umkehrung` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Annotation
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Annotation` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Der Schock'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Der Schock` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Perspektivwechsel
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Perspektivwechsel` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Typografie
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Typografie` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Teil
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Teil` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Kapitel
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kapitel` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count 'Taktische Umsetzung im Text'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Taktische Umsetzung im Text` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count du
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            2
+
+`du` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count DU
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`DU` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --count Twist
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Twist` ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:#1]
+
+## B · numbers that are not count marks
+
+# the file's line count (census: 58 lines, L58 last; the profile's `lines 59` counts the empty string after the last newline)
+$ wc -l Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md
+58 Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md
+
+# L58 is the last line; there is no L59 (0 bytes)
+$ sed -n '58p' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -c1-70; sed -n '59p' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | wc -c
+  - *STATUS: Beobachter-Fokus bei 85%. Erhöhe narrative Spannung, um 
+0
+
+# the profile numbers the census repeats: 7 headings, 3 question marks, 44 typographic marks, 0 ascii quotes, 5 glued ref numbers
+$ cat Plan/runs/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik/01-profile.txt
+# kohaerenz-protokoll-meta-foreshadowing-beobachter-logik
+  lines                59  (frontmatter ends at 9)
+  body words           551
+  headings             7   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       3
+  backslash escapes    0
+  typographic marks    44   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      Das Foreshadowing x3
+  longest line         295 chars
+
+# headings in the body: one H1, five H2, one H3
+$ sed -n '10,$p' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | grep -c '^#'
+7
+
+# the seven headings with their lines
+$ grep -n '^#' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -c1-90
+11:# **Foreshadowing-Strategie: Die Beobachter-Instanz**
+15:## **1. Das Phänomen der „Stasis-Lücken“ (Teil 1)**
+23:## **2. AEGIS und die „Höhere Metrik“ (Teil 2)**
+30:## **3. Die „Rendering-Grenzen“ (Teil 1 & 2)**
+37:## **4. Die Juna-Spiegelung (Teil 3)**
+44:## **5. Die „Lese-Abhängigkeit“ (Das finale Kapitel)**
+51:### **Taktische Umsetzung im Text:**
+
+# question marks: 3
+$ sed -n '10,$p' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | grep -o '?' | wc -l
+3
+
+# the lines that carry them: L41 (twice) and L53 (once)
+$ grep -n '?' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1
+41
+53
+
+# bold passage labels in all: 13 (the H3 heading is not a bullet and is not counted)
+$ grep -o '^ *- \*\*[^*]*:\*\*' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | wc -l
+13
+
+# the labels, ten distinct: Das Foreshadowing 3, Die Meta-Erklärung 2, eight once
+$ grep -o '^ *- \*\*[^*]*:\*\*' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | sed 's/^ *- //' | sort | uniq -c | sort -rn
+      3 **Das Foreshadowing:**
+      2 **Die Meta-Erklärung:**
+      1 **Typografie:**
+      1 **Text-Beispiel:**
+      1 **Perspektivwechsel:**
+      1 **Limit-Integration:**
+      1 **Die Umkehrung:**
+      1 **Der Schock:**
+      1 **Der Dialog-Hinweis:**
+      1 **Annotation:**
+
+# the lines of the thirteen labels
+$ grep -n '^ *- \*\*[^*]*:\*\*' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -c1-48
+19:  - **Das Foreshadowing:** Kael erlebt Moment
+20:  - **Die Meta-Erklärung:** Das passiert imm
+21:  - **Text-Beispiel:** *„Manchmal vergaß d
+27:  - **Das Foreshadowing:** AEGIS spricht in s
+28:  - **Die Meta-Erklärung:** AEGIS hat Angst 
+34:  - **Das Foreshadowing:** Wenn Kael zu schne
+35:  - **Limit-Integration:** Nutze das Dokument
+41:  - **Der Dialog-Hinweis:** Juna könnte Kael
+42:  - **Die Umkehrung:** Sie macht ihm klar: Ka
+48:  - **Annotation:** In Kapitel 39 müssen wir
+49:  - **Der Schock:** Kael bittet den Leser nic
+53:  - **Perspektivwechsel:** Nutze in Schlüsse
+54:  - **Typografie:** Nutze Kursivschrift für 
+
+# the italic samples: L21, L41, L53, L58 (four)
+$ grep -n '\*„\|^ *- \*STATUS' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1
+21
+41
+53
+58
+
+# the converter marker at L56
+$ grep -n 'end list' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md
+56:<!-- end list -->
+
+# every number in the body, with its file line: section numbers 1-5 (L15 L23 L30 L37 L44), part numbers 1-3 (L15 L23 L30 L37), 39 (L48), 85 (L58); no year, no date
+$ sed -n '10,$p' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | awk '{ line=$0; while (match(line, /[0-9]+/)) { print NR+9": "substr(line,RSTART,RLENGTH); line=substr(line,RSTART+RLENGTH) } }'
+15: 1
+15: 1
+23: 2
+23: 2
+30: 3
+30: 1
+30: 2
+37: 4
+37: 3
+44: 5
+48: 39
+58: 85
+
+# the 44 typographic marks: 21 opening glyphs (U+201E), 21 closing (U+201C), 2 en dashes (U+2013); 0 ascii quotes
+$ python3 - <<'EOF'
+import sys, collections
+sys.path.insert(0,'scripts')
+import subject
+body=subject.document('kohaerenz-protokoll-meta-foreshadowing-beobachter-logik').body
+c=collections.Counter(ch for ch in body if ch in '\u201e\u201c\u201d\u2018\u2019\u2013\u2014')
+print({'U+%04X'%ord(k):v for k,v in c.items()}, 'total', sum(c.values()))
+print('ascii double quotes:', body.count(chr(34)))
+EOF
+{'U+2013': 2, 'U+201E': 21, 'U+201C': 21} total 44
+ascii double quotes: 0
+
+# the 5 glued ref numbers are the document's own numbers: Teil 1 (L15), Teil 2 (L23), the Teil 1 inside Teil 1 & 2 (L30), Teil 3 (L37), Kapitel 39 (L48)
+$ python3 - <<'EOF'
+import sys
+sys.path.insert(0,'scripts')
+import subject
+from rules import export_damage as e
+doc=subject.document('kohaerenz-protokoll-meta-foreshadowing-beobachter-logik')
+for m in e.GLUED_REF.finditer(doc.body):
+    print(doc.body[:m.start()].count(chr(10))+doc.offset, repr(m.group(0)))
+EOF
+15 'Teil 1'
+23 'Teil 2'
+30 'Teil 1'
+37 'Teil 3'
+48 'Kapitel 39'
+
+# read.py prints the number-less normalised line, and still resolves the quotation with its number
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --find 'Teil 1'
+^[L15]  ## 1. Das Phänomen der „Stasis-Lücken“ (Teil)
+^[L30]  ## 3. Die „Rendering-Grenzen“ (Teil & 2)
+
+2 lines carry these words. The citation is a claim about which
+one the reading came from — pick it, do not take the first.
+
+# the two-letter quotation is refused although L53 is the nearest line at 100 % (census: what the briefing did not anticipate, item 5)
+$ python3 scripts/read.py kohaerenz-protokoll-meta-foreshadowing-beobachter-logik --find 'Du'
+NOT IN THIS DOCUMENT, on any single line. Nearest:
+  L53  100% in common  - Perspektivwechsel: Nutze in Schlüsselmomenten das „Du“. Nicht als direkte Ansprache des Lesers, sondern als …
+  L11  50% in common  # Foreshadowing-Strategie: Die Beobachter-Instanz
+  L13  50% in common  Um den finalen Twist vorzubereiten – dass Kael die Manifestation des Lesers ist und seine Welt mit dem Zuklapp…
+
+# `Leser` standing alone: L20, L28, L35, L42 twice, L49 (six)
+$ grep -nwo 'Leser' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md
+20:Leser
+28:Leser
+35:Leser
+42:Leser
+42:Leser
+49:Leser
+
+# `Lesers`: L13, L32, L35, L53 (four)
+$ grep -nwo 'Lesers' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md
+13:Lesers
+32:Lesers
+35:Lesers
+53:Lesers
+
+# neither sample line writes Leser or Beobachter in any form: L21 gives 0, L41 gives 0
+$ sed -n '21p' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | grep -ci 'leser\|beobachter'; sed -n '41p' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | grep -ci 'leser\|beobachter'
+0
+0
+
+# every line with Beobachter in any form: L3 is the manifest title in the frontmatter; the body has L11, L28, L35, L58
+$ grep -n 'Beobachter' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -c1-60
+3:title: "Kohärenz Protokoll: Meta-Foreshadowing & Beobacht
+11:# **Foreshadowing-Strategie: Die Beobachter-Instanz**
+28:  - **Die Meta-Erklärung:** AEGIS hat Angst vor dem Zukl
+35:  - **Limit-Integration:** Nutze das Dokument „Grenzen 
+58:  - *STATUS: Beobachter-Fokus bei 85%. Erhöhe narrative 
+
+# every line that names Kael (note, section 2: all cited); L53 is `Kaels`
+$ grep -n 'Kael' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1 | tr '\n' ' '; echo
+13 17 19 20 21 34 39 41 42 48 49 53 
+
+# Kaels once, at L53
+$ grep -n 'Kaels' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -c1-40
+53:  - **Perspektivwechsel:** Nutze in S
+
+# AEGIS alone at L23, L25, L27, L28 (grep -w also lists L54, where AEGIS is the head of AEGIS-Protokolle; the census's `word` 4 excludes it); AEGIS-Protokolle at L54
+$ grep -nw 'AEGIS' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1 | tr '\n' ' '; echo; grep -n 'AEGIS-Protokolle' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1
+23 25 27 28 54 
+54
+
+# Juna alone at L39, L41 (grep -w also lists L37, where Juna heads Juna-Spiegelung; the census's `word` 2 excludes it); Juna-Spiegelung at L37
+$ grep -nw 'Juna' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1 | tr '\n' ' '; echo; grep -n 'Juna-Spiegelung' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1
+37 39 41 
+37
+
+# Nutze L35 L53 L54; müssen wir L13 L48; Teil L15 L23 L30 L37 (all headings); Kapitel L44 L48
+$ grep -nw 'Nutze' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1 | tr '\n' ' '; echo; grep -n 'müssen wir' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1 | tr '\n' ' '; echo; grep -nw 'Teil' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1 | tr '\n' ' '; echo; grep -nw 'Kapitel' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -d: -f1 | tr '\n' ' '; echo
+35 53 54 
+13 48 
+15 23 30 37 
+44 48 
+
+# the title's two terms stand in the frontmatter (L3) only, never in the body
+$ grep -n 'Meta-Foreshadowing\|Beobachter-Logik' Sources/drive/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md | cut -c1-90
+3:title: "Kohärenz Protokoll: Meta-Foreshadowing & Beobachter-Logik"
+
+# the two surface-list entries that are not surfaces
+$ grep -n 'sondern\|systemische' Plan/runs/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik/04-counts.txt
+38:                                    1      as systemische
+60:                                    4      as sondern
+
+# the census's summary numbers, from counts.json: 63 candidates, none at 0, ten above 1, 53 at exactly 1, seven where `word` differs from `in`
+$ python3 - <<'EOF'
+import json
+c=json.load(open('Plan/runs/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik/counts.json',encoding='utf-8'))['counts']
+print('candidates:', len(c))
+print('word == 0:', sum(1 for v in c.values() if v['n']==0), '  min word:', min(v['n'] for v in c.values()))
+more=sorted(((t,v['n']) for t,v in c.items() if v['n']>1), key=lambda p:-p[1])
+print('word > 1:', len(more), more)
+print('word == 1:', sum(1 for v in c.values() if v['n']==1))
+diff=sorted((t,v['n'],v['n_including_compounds']) for t,v in c.items() if v['n']!=v['n_including_compounds'])
+print('word != in:', len(diff), diff)
+EOF
+candidates: 63
+word == 0: 0   min word: 1
+word > 1: 10 [('Kael', 11), ('Leser', 6), ('AEGIS', 4), ('Zuklappen des Buches', 3), ('Das Foreshadowing', 3), ('System', 3), ('Teil 1', 2), ('Die Meta-Erklärung', 2), ('Aufmerksamkeit', 2), ('Juna', 2)]
+word == 1: 53
+word != in: 7 [('AEGIS', 4, 5), ('Beobachter', 1, 4), ('Einheit', 1, 2), ('Juna', 2, 3), ('Kael', 11, 12), ('Leser', 6, 10), ('System', 3, 4)]
+
+# the list's split: 55 as the document names them, 8 under lens (census: eight under lens), none read as prose
+$ python3 - <<'EOF'
+import sys
+sys.path.insert(0,'scripts')
+import capture
+md=open('Plan/runs/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik/03-candidates.md',encoding='utf-8').read()
+head,_,rest=md.partition('\n## lens')
+rest=rest.split('\n## Open while reading')[0]
+print('main list:', len(capture.candidate_terms(head)), ' lens:', len(capture.candidate_terms(rest)), ' read as prose:', len(capture.read_as_prose(md)))
+EOF
+main list: 55  lens: 8  read as prose: 0
+

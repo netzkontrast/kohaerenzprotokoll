@@ -1,10 +1,10 @@
 ---
 term: Gödel-Gambit
 status: candidate
-sources: 23
+sources: 25
 readings: 23
 conflict: none yet
-ingested: ["kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "charakter-kompilation-fuer-kohaerenz-protokoll", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll-konzept-master-md", "aegis-subplots-kapitelweise-system-exploration-docx"]
 gathered: "2026-09-25"
 ---
 
@@ -24,8 +24,9 @@ What breaks through it is not a statement Kael formulates but Juna's echo, arriv
 
 ## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15
 
-English, and several papers in one file, so the Gambit is described in six
-sections that repeat one another (L300, L453, L813, L1143, L1250, L1373, L1796).
+English, and several papers in one file, so the Gambit is described in eight
+sections that repeat one another (L300, L453, L600, L813, L1143, L1250, L1373, L1796), two of them
+standing twice in the file's duplicated reports (L726, L1511).
 A climax of logic: „The final confrontation is not a battle of force, but of logic, termed the" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L302] Gambit.
 „Kael, now operating in his fully integrated state of functional multiplicity, presents the fact of his existence—a stable system that thrives by embracing contradiction—directly to AEGIS's core programming." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L302]
 It is a checkmate: „This is our epistemological checkmate." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L460] Kael is
