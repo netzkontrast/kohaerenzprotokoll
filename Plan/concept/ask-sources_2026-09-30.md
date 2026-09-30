@@ -171,7 +171,7 @@ Measured per run, never folded into one number (P11): **pack recall** (record po
 
 | phase | builds | gate |
 |---|---|---|
-| **0. Decide** | the author answers §6 | a decision file |
+| **0. Decide** | done: decision 017 | — |
 | **1. Store** | `scripts/askdb.py build`, `check`, `selftest`; `install.sh askdb`; `graphqlite` in `.venv-dspy` (dry run resolves); batch upserts | `check` holds; build time and file size measured; `selftests.py` runs it |
 | **2. Parity** | `askdb.py bench --parity`: PPR vs `graphrag`, bm25 vs qmd, with and without degree down-weighting, Louvain slot on and off | numbers in `baselines.jsonl`; which finder stays is decided by them |
 | **3. Route and pack** | `scripts/ask.py route`, `pack`, `bench --pack` | pack recall on all record cases; budget chosen |
@@ -183,13 +183,13 @@ Measured per run, never folded into one number (P11): **pack recall** (record po
 
 **Reused**: `graph.py --json`, `graphrag.seeds` and `select_mmr`, `digest`, `read.numbered` and `locate`, `quotes.verdict`, `entities` matrix, `lint_readings.lint_lines`, `lmrun.call`, `claude_lm`, `route.chat`, `jules.dispatch`/`verify`/`patch`, `lm_fixture`, `baseline.py`. **New**: `scripts/askdb.py`, `scripts/ask.py`, `.claude/agents/source-asker.md`, an `install.sh` component, a `selftests.py` line.
 
-## 6. Questions for the author
+## 6. Answered — decision 017
 
-1. **Free models:** may a pack go to OpenRouter's free models, and for which documents: none beyond decision 007, the reconciled 51, or any landed document?
-2. **Jules:** may `ask` dispatch Jules sessions, each holding the whole repository, per question with your yes or with a standing budget?
-3. **Default backend:** claude-cli with Sonnet?
-4. **Use of an answer:** only as a place to look, or may a reader carry its placed quotations onto a page through the normal reading step?
-5. **GraphQLite as the graph engine:** only for `ask` and the sheets, or also to replace `graphrag.py`'s own PageRank once the parity bench allows it?
+The author, 2026-09-30: „Die Antworten werden protokolliert und sind wie sources zu behandeln" and „Darüber hinaus dürfen auch openrouter und Jules für entsprechende Fragen genutzt werden - die nutzt Du immer vielleicht erst mal als Probelauf - hier kannst Du frei experimentieren".
+
+- **An answer lands like a source:** `Sources/ask/<id>.md`, immutable, checksummed, in `Sources/ask/manifest.jsonl`, tier `M-ask`, written by `ask.py land` only. §3.6 step 6 writes the store *and* lands the rendered answer. It stays out of the corpus counts.
+- **OpenRouter free models and Jules may answer**, as trials beside the default, for any pack. `consent.json` gets a purpose entry for `ask`; Jules dispatches cite decision 017.
+- **Default backend** claude-cli/Sonnet; **GraphQLite** for `ask` and the sheets until the parity bench and the author say more.
 
 ## 7. What this cannot do
 
