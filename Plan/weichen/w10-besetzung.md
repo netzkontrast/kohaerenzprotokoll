@@ -1,3 +1,15 @@
+---
+id: W10
+status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+hängt_ab_von: [W3, W7, W9, W11, W13]
+schaltet_frei: [W3, W9]
+kapitel: "alle"
+frage_art: standard        # schlüssel | schalter | standard | vertagt
+auslöser: "Gegenkraft und erster Verlust sind Schlüsselfragen K1/K2; Listenlänge nach Pilot"
+empfehlung: "C"
+empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
+---
+
 # W10 — Wer muss tatsächlich handeln, und wer trägt welche Gegenkraft?
 
 **Entscheidungsblatt, 2026-09-30 · Runde 3. Vorschlag, keine Festlegung.**
