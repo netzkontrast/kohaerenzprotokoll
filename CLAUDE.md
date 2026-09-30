@@ -561,13 +561,17 @@ python3 scripts/graphrag.py ask "What are the Core Worlds?" --gloss
 weight the way `bench` scores recall — the 24 labelled cases, each with its own node removed, a paired interval against a
 floor, and the weight chosen leaving each case out — and `Plan/concept/graph-contracts_2026-09-30.md` has what it found:
 re-weighting the seven stated relation types moves nothing; one relation derived from the documents' own text,
-pointwise-mutual-information-normalised co-mention, moved recall and stays off until the author turns it on
-(`graphrag.py --comention W`); the raw pair count lowers it. **HyperExtract contracts** (`Plan/hyperextract/`, 32, each with
+pointwise-mutual-information-normalised co-mention, moved recall on the conflicts and questions and, by a third as much
+and at a weight ten times smaller, on the wiki's own links (`graphlab.py links`, a second label set of 91 pages), and stays
+off until the author turns it on (`graphrag.py --comention W`); on the conflicts the raw pair count lowers recall, on the
+links it does as well as the normalised one. **HyperExtract contracts** (`Plan/hyperextract/`, 32, each with
 `provisional`, `may not` and `retire when`) are staged by `he_claude.py` and loaded by `scripts/hegraph.py` into the store
 as `P_HE_*` proposal edges and `he:<KIND>` contract nodes — **never into the core**, which names its own seven types, and
 never filtered by the grade, which was shown not to predict a right row. A contract's precision is what a reader labelled
 (`Plan/runs/hyperextract-templates-2026-09-30/labels.jsonl`, by the working session, none by the author), and no
-contract is run across the corpus until the author says which and on what.
+contract is run across the corpus until the author says which and on what — a contract costs about $7.3 a megabyte, so
+$190 for the corpus (the first estimate, $63, was wrong: the ledgers, summed, said so). Where the contracts have read the
+documents that hold the bench's gold, the `he-lines` finder adds to an `ask` pack (+0.029 document recall, off by default).
 
 ### A mechanised rule stays checkable
 
