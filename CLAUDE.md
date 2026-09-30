@@ -126,9 +126,9 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**54 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **54
+**55 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **55
 <!--state:documents.with_note--> have a note** in `Sources/notes/`, and **51
-<!--state:documents.reconciled--> are reconciled** — the three others are the first
+<!--state:documents.reconciled--> are reconciled** — the four others are the first
 extractions of step 6's sample, waiting for their reconciliation (see `NOW.md`).
 Of the reconciled, five are `theorie-physik`,
 five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten

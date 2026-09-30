@@ -43,8 +43,11 @@ RUNS = ROOT / "Plan" / "runs"
 
 PHASES = ("read", "list", "count", "census", "note", "reconcile", "brief",
           "readers", "review", "record")
+# `claim`: the prose says more than its line, or names the wrong thing — the
+# class of 7 of the 11 defects of the quality sample of 2026-09-29, and the one
+# no check can see (.agents/skills/reader-tools/references/failures.md, 13).
 CLASSES = ("count", "comparison", "position", "join", "quotation", "straight-quote",
-           "link", "shell", "frontmatter", "placement", "other")
+           "link", "shell", "frontmatter", "placement", "claim", "other")
 
 
 class Refused(Exception):

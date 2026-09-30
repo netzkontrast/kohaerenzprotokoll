@@ -7,12 +7,14 @@ page before your first quotation.
 
 ## Quotations — `read.py --find`, `quotes.py`, `readings.py`
 
-1. **Quotation marks changed.** German text quotes with „ … “: the opening mark
-   low, the closing one high. Copy both exactly. Never close with a straight `"`
-   or with `”`. *2026-09-30:* HyperExtract on Haiku closed „getaktet“ with a straight
-   quote in 3 of 5 calls; each such quotation could not be placed, and in JSON it
-   broke the string. **Copy the words from what `read.py <slug> --find "<words>"`
-   prints; never retype them.**
+1. **Quotation marks changed.** Open every quotation with „. In markdown, close it
+   with “ or a straight `"`: `quotes.py` accepts both, and the notes measured
+   2026-09-30 close 1968 quotations with `"` and 345 with “. Never close with `”`,
+   which `quotes.py` does not read as a closing mark. **In JSON, close with “ only**:
+   a straight `"` ends the string. *2026-09-30:* HyperExtract on Haiku closed
+   „getaktet“ with a straight quote in 3 of 5 calls, and each broke its reply.
+   **Copy the words from what `read.py <slug> --find "<words>"` prints; never retype
+   them.**
 2. **The right line, the wrong words.** „das Management“ was written for „dem
    Management“, one case changed. It was the first defect `quotes.py` ever found.
    Retyping is how it happens. Copy, as in 1.
@@ -63,39 +65,58 @@ page before your first quotation.
     - a figure left out;
     - „Guardians“ written where the line says „Carrier“.
 
+    *R2, Haiku, 2026-09-30, five of the note's claims:*
+    - a phrase given to the wrong subject: the line calls the kernel „ein
+      idealisiertes logisches System“, the note gave it to AEGIS;
+    - another document's sentence given as the document's own: the line opens
+      „Das Architekturdokument konstatiert explizit“;
+    - „remains open“ for an index the document defines 114 lines later;
+    - „cites two other documents“ where its reference list names twelve.
+
     Before each claim, reread the cited line. State only what it states, and name
-    the thing as the line names it.
-14. **A comparison with other documents.** „every later source“, „the only one“,
+    the thing as the line names it. Ask who says it: a line that opens „Das
+    Dokument …“ or „Laut …“ reports another source.
+14. **A gap credited that the document fills.** Before you write that something
+    stays open, undefined or unnamed, ask `read.py <slug> --count "<its name>"` and
+    read every line it names. *R2:* the CSI was called undefined at L34 and is
+    defined at L148.
+15. **A comparison with other documents.** „every later source“, „the only one“,
     „the oldest read source“: *2 defects and 13 minor findings of that sample.* Say
     nothing about another document unless you cite that document in the same
     paragraph. `lint_readings.py` flags the phrases it knows.
-15. **A number in prose that no command produced.** „Four to three alters per
+16. **A number in prose that no command produced.** „Four to three alters per
     world“ was written where the table gives two to three. *2 defects.* Every
     number your prose states is in `05-verify.txt` with the command that produced
-    it.
-16. **A canon claim applied.** „ground truth“, „single source of truth“,
+    it. **Paste the command's output there; never retype it.** *R2:* the verify file
+    listed eight counts, three of them attached to the wrong word, and the note's
+    `stance_marker_count` said 31 where the eight summed to 21.
+17. **A canon claim applied.** „ground truth“, „single source of truth“,
     „structurally verified“: record what the document says of its own standing, and
     never let it decide anything.
 
+18. **A check result reported, not run.** R2 reported „0 unresolved, 0 unchecked“;
+    `quotes.py` printed 2 unchecked in each file. Paste the check's last line into
+    your report.
+
 ## Formats — `readings.py`, `census.py`
 
-17. **A plural reading heading.** `## Readings —` is refused, because no
+19. **A plural reading heading.** `## Readings —` is refused, because no
     frontmatter counts it. Write `## Reading — `<slug>`, <date>, <prose name> —
     <what it adds>`.
-18. **A mechanical table edited.** `census.py check` compares every row, the
+20. **A mechanical table edited.** `census.py check` compares every row, the
     frontmatter, the profile and the facts with what `census.py draft` writes. Fill
     only the two `<!-- reader: … -->` sections.
 
 ## Working economically — measured cost, not a check
 
-19. **Reading script sources to learn a format.** *9 of 12 readers on 2026-09-29
+21. **Reading script sources to learn a format.** *9 of 12 readers on 2026-09-29
     did.* Your definition, the card and this page say what each tool answers;
     `--help` is enough.
-20. **Re-verifying what you were not asked to verify.** R1 re-ran 165 commands of a
+22. **Re-verifying what you were not asked to verify.** R1 re-ran 165 commands of a
     stopped reader's drafts, and was the costliest run (proxy 4.09 M). Start from
     the frozen list and the document. Another reader's partial draft is not input
     unless your task says so.
-21. **One question per call.** Each call re-reads your whole context, so ask
+23. **One question per call.** Each call re-reads your whole context, so ask
     several quotations in one Bash call:
     `python3 scripts/read.py <slug> --find "…"; python3 scripts/read.py <slug> --find "…"`.
     Keep your reasoning between calls short.

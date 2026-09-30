@@ -61,7 +61,7 @@ thing. The baseline is the twelve transcripts above.
 | # | document | lines | left by the stopped reader | the change |
 |---|---|---|---|---|
 | R1 | `technical-audit-research-mandate-the-kohaerenz-protokoll-fra` | 40 | census, note, at the note | the `document-reader` agent type, with its six tools; resume from the partial — **done, below** |
-| R2 | `ki-narrative-kollaps-kohaerenz-paradoxie` | 191 | a note draft, no census | the rules from `card.md` and the briefing instead of five rule files; the census from `census.py draft` |
+| R2 | `ki-narrative-kollaps-kohaerenz-paradoxie` | 191 | a note draft, no census | **Haiku**; the rules from `card.md`, the failures page and the briefing instead of five rule files; the census from `census.py draft`; a clean start, the partial unopened — **done, below** |
 
 ### R1 — the `document-reader` agent type, resuming from the partial
 
@@ -117,6 +117,59 @@ code.**
   drafts said, and was right to, because 21 of their claims needed correcting.
 - R2 and R3 change the two big levers: rules on one card with the mechanical census drafted by code
   (R2), and a reader outside the session with no fixed context (R3).
+
+### R2 — Haiku, the card, the census drafted by code
+
+`ki-narrative-kollaps-kohaerenz-paradoxie`: 191 lines, German, 269 candidates. The author asked for
+Haiku readers „so we can later judge how good each different Model is“, so the note's `read:` names
+the model and the run log's reader row says `haiku`. The task is `tasks/r2-haiku.md`. The first
+column is this document's first reader, on Sonnet, which the usage limit stopped on 2026-09-29.
+
+| | first reader, Sonnet, stopped | R2, Haiku |
+|---|---|---|
+| minutes | 34.4 | 5.4 |
+| calls | 55 | 56 |
+| peak context | 455 k | 110 k |
+| cache reads | 12.2 M | 4.5 M |
+| cost proxy | 1.79 M | 0.60 M |
+| unseen share of the context's growth | 35 % | 19 % |
+| wrote | 170 k characters | 51 k characters |
+
+The proxy counts tokens, not price, and the two models' prices per token differ. The first
+reader's numbers are for a run that did not finish.
+
+**Quality: the checks held, and the reading did not.**
+- `census.py check` holds. `quotes.py`: the census's 269 count marks and the note's quotations
+  resolve. Each file had 2 uncited quotations, which the report called „0 unchecked“. All four now
+  carry their line.
+- Sixteen claims of the note were read against their lines. **Four were wrong:**
+  - L61 calls the kernel „ein idealisiertes logisches System“, and the note gave it to AEGIS;
+  - L87 reports another document's sentence, „Das Architekturdokument konstatiert explizit“, and
+    the note gave it as the document's own;
+  - the note called the Collapse Susceptibility Index undefined, and L148 defines it;
+  - the note said the document „cites two other documents“, and its reference list names twelve,
+    L180 to L191.
+- One was loose: „as its goal“ for a line that says the study delivers it.
+- The note's `stance_marker_count` said 31. Its own verify file listed eight counts that sum to
+  21, and three of them were attached to the wrong word.
+- Four claims of the census's two hand-written sections were read, and all four hold: the bias
+  list's two System names (L40), `Lia` in a sentence and `Lyra` in the table (L105, L132),
+  `Qualia-Erfahrung` (L113), and `Kael` as the system and as a part (L63, L132).
+
+The note was committed as Haiku wrote it, then corrected in the next commit, so `git diff` between
+the two is the measurement. `Plan/runs/ki-narrative-kollaps-kohaerenz-paradoxie/corrections.jsonl`
+has one row per correction, five of class `claim`, which `runlog.py` gained for this, since 7 of the
+11 defects of the quality sample were of that kind.
+
+**What it teaches.**
+- Haiku read a 191-line document in 5.4 minutes. Every mechanical check held, because code drafted
+  the census and the checks named what to fix.
+- What no check sees went wrong four times in sixteen: the subject of a phrase, the voice of a
+  sentence, a gap the document fills later, and a count of its own references. R1, on Sonnet, had
+  five of five claims hold, on a document a fifth this length. One run each is not a comparison.
+  Each model needs more documents.
+- The failures page now carries each of these, with the question that prevents it (items 13, 14,
+  16 and 18).
 
 **Planned, and changed by what each run shows:**
 - **R3:** brief reasoning between tool calls, and several `--find` in one call. The unseen share and the number of calls measure each.

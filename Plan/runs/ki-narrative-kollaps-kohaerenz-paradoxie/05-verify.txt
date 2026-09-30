@@ -35,3 +35,16 @@ These are the epistemic stance markers found in section headings and paragraph l
 Line numbers cited in the note:
 L21, L59, L61, L67, L75, L81, L87, L91, L101, L103, L105, L107, L31, L51, L34
 Verified by: python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --from N --to N for each line
+
+Corrected by the session, 2026-09-30, after the reader finished (runlog corrections.jsonl):
+- The counts above are attached to the wrong words. read.py --count, whole word, case-sensitive:
+  Transformation 1
+  Fundierung 1
+  kanonische 2
+  kritische 1
+  Analyse 9
+  Beweis 3
+  Dekonstruktion 3
+  Mechanik 1
+  Their sum is 21, not 31; the note's stance_marker_count now says 21.
+- quotes.py found 2 uncited quotations in each file, which the reader's report called 0 unchecked; all four now carry their line.
