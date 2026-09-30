@@ -576,9 +576,12 @@ Six questions, none waited on:
 1. **The normalised co-mention relation in `graphrag`'s walk.** It is derived from the documents' own text, never from the wiki, and would be the first
    relation in the default walk that is not one of the seven the wiki states. Turn it on at weight 3 (the one neither label set contradicts), at 10–30
    for questions and conflicts only, keep it off, or wait for more labelled cases? The note's §5.2b has both sets.
-2. **A contract pass.** About $190 a contract for the whole corpus, $66 for the plot outlines, $26 for the concept documents (§4.5). Which contracts on
-   which categories may run? And should the next pass follow the gold — the contracts have read documents holding 46 % of the bench's gold lines, and the
-   other 54 % cost $52 for the three contracts? The note's §7 proposes an order.
+2. **A contract pass.** About $190 a contract for the whole corpus, $66 for the plot outlines, $26 for the concept documents (§4.5). **Answered in part,
+   2026-09-30, for the documents already read:** „Use Haiku agents to Backpoet hyperextract for all allready Read sources“ — the three contracts of the
+   scaled pass (`TermDefinitions`, `TermContrasts`, `CausalLinks`) are running, one at a time and gold first, on the 46 read documents that lacked them
+   (2.54 MB, about $56 and six and a half hours; `Plan/runs/hyperextract-backfill-2026-09-30/`, `backfill.py status`). Still the author's: which contracts on
+   the 528 documents nobody has read, and whether the structure contracts (`ChapterBeats`, `CardFields`, …, 86–100 % right) run on the read plot outlines
+   and character documents. The note's §7 proposes an order.
 3. **Who labels.** The precision of every contract rests on one reader's labels, the model family that wrote the contracts. Five hundred from the author
    or another reader would say whether the figures hold.
 4. **The finders' defaults in `ask.py`:** `he-lines` at 40 lines (+0.029, off now) and the `co-mention` finder's 10 paragraphs (40 → 10 already made):

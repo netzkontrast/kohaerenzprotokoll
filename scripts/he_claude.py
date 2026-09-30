@@ -19,7 +19,7 @@ that validates against the template's schema, and hands back the validated objec
 It runs in HyperExtract's interpreter (`templates.he_python()`), which has
 LangChain; both commands below find that interpreter themselves.
 
-    python3 scripts/he_claude.py run <slug> <template.yaml> --run <name> [--model haiku] [--gate]
+    python3 scripts/he_claude.py run <slug> <template.yaml> --run <name> [--model haiku] [--gate] [--approval "<text>"]
     python3 scripts/he_claude.py selftest
 
 `run` is the pipeline's HyperExtract pass on one document: `reading_extract.extract`
@@ -225,9 +225,16 @@ def native_selftest() -> int:
     return 1 if failed else 0
 
 
-def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str | None = None, gate: bool = False) -> int:
+APPROVAL = ("decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put "
+            "HyperExtract into the pipeline and read with Haiku")
+
+
+def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str | None = None, gate: bool = False,
+        approval: str | None = None) -> int:
     """One document through one list template with Claude, staged, every call recorded. `gate` sends the model
-    only the paragraphs that hold a cue of the contract (`hegraph.gate`) and records the share in `usage.json`."""
+    only the paragraphs that hold a cue of the contract (`hegraph.gate`) and records the share in `usage.json`.
+    `approval` is what the record says licensed the run: the default is the author's instruction of 2026-09-30 to
+    put HyperExtract into the pipeline; a run under a later instruction names it (the backfill does)."""
     import tempfile
     from langchain_core.embeddings import FakeEmbeddings
     import reading_extract
@@ -255,8 +262,7 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
         target.mkdir(parents=True, exist_ok=False)
     usage = {"document": doc.slug, "template": template.name, "model": f"claude-cli/{model}",
              **claude_cli.totals(llm.calls),
-             "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put "
-                         "HyperExtract into the pipeline and read with Haiku"}
+             "approval": approval or APPROVAL}
     if gate:
         usage["gate"] = {"characters_sent": len(text), "characters_in_document": len(doc.body),
                          "share": round(len(text) / max(len(doc.body), 1), 3)}
@@ -290,8 +296,9 @@ def main(argv: list[str]) -> int:
         ap.add_argument("--model", default="haiku")
         ap.add_argument("--binary")
         ap.add_argument("--gate", action="store_true", help="send only the paragraphs that hold a cue of the contract")
+        ap.add_argument("--approval", help="what licensed the run, if not the default of APPROVAL")
         a = ap.parse_args(argv[1:])
-        return run(a.slug, a.template, a.run, a.model, a.binary, a.gate)
+        return run(a.slug, a.template, a.run, a.model, a.binary, a.gate, a.approval)
     return native_selftest()
 
 
