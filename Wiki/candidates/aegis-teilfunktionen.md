@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 5
-readings: 3
+sources: 6
+readings: 4
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie"]
 gathered: "2026-09-16"
 ---
 
@@ -59,6 +59,10 @@ System*, *System Integrity Service*, *Simulated Identity Substrate*. **All three
 are guesses and are recorded as guesses**, so that a real expansion can be
 recognised when it arrives. One has: the Hard-SF-Outline writes `Systemic Identity
 Safeguard`, none of the three (its reading below).
+
+## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — a Zero-Trust security paradigm of AEGIS, named in passing
+
+The document names a Zero-Trust function of AEGIS, in a compound, without explaining it: the Moonshine-Link is used „Um die rigorosen algorithmischen Partikelfilter und das Zero-Trust-Sicherheitsparadigma von AEGIS zu umgehen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L105]. The names of the other functions stand nowhere in it: `Cognitive Firewall` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0], `Integrity Guardian` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0], `SIS` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0].
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
