@@ -16,7 +16,11 @@ Beide Dateien bestehen das Schema des `ncp-author`-Skills (gepinnter Upstream `0
 - acht der neun Dynamiken (Driver, Outcome, Judgment, Limit, Problem-solving style, MC Resolve, MC Growth, MC Approach);
 - neun Storypoints: MC Domain, Concern, Issue, Problem, Solution; IC Domain, Concern; OS Domain; RS Domain.
 
-## Was fehlt, weil keine Quelle es sagt
+## Was in dieser Transkription offen bleibt
+
+Die Lücken unten beziehen sich auf die gewählte Statusbericht-Tabelle und die
+bisherige Recherche. Sie sind keine bewiesenen Negativbefunde über sämtliche
+Quellen. Fehlende Begriffstreffer schließen sinngemäße Plotfunktionen nicht aus.
 
 | Lücke | Stand |
 |---|---|
@@ -30,3 +34,18 @@ Beide Dateien bestehen das Schema des `ncp-author`-Skills (gepinnter Upstream `0
 ## Warum zwei Dateien
 
 NCP kennt mehrere Narratives in einem Dokument, der Skill hat das aber nicht geübt (*Limits*, Nr. 4). Die zwei Dateien folgen dem Muster des geparkten Entwurfs (`Legacy/…/ncp.json`, `ncp-b.json`), dessen Storyforms leer waren.
+
+## Anschluss an die Entscheidungsblätter — PR #115/#116
+
+Die Dateien bleiben **candidate** und sind keine Synchronisation mit dem
+geparkten Manuskript. WP sowie W5–W10 sind Optionen und Prüfaufträge, keine
+neuen genehmigten Strukturwerte. Deshalb bleiben beide JSON-Dateien unverändert:
+keine neuen Players, Plot-Story-Points, Signposts oder Moments werden aus
+Empfehlungen eingetragen. `author_structural_pov` beschreibt die strukturelle
+Perspektive; `i` für MC bedeutet keine Ich-Prosa von AEGIS (W6).
+
+Der in PR #115 berichtete Schema-PASS wird als damaliger Prüflauf geführt.
+In diesem Checkout fehlen das Template und der Validator des genannten
+Upstreams; er wurde hier nicht erneut ausgeführt. JSON-Parsing und ein Vergleich
+mit PR #115 prüfen die unveränderte Übernahme, nicht die theoretische Gültigkeit.
+Start/Stop, Crucial Element und alternative Klassen-Verteilungen bleiben offen.
