@@ -1,0 +1,1113 @@
+{
+  "document": "angst-bei-komplexen-traumafolgen",
+  "step": "reconcile-pre",
+  "at": "2026-09-30",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-30",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 264,
+  "decisions": 250,
+  "same_surface": {
+    "komplexenposttraumatischenbelastungsstorung": [
+      "komplexen posttraumatischen Belastungsstörung",
+      "komplexen Posttraumatischen Belastungsstörung"
+    ],
+    "traumabonds": [
+      "Trauma Bonds",
+      "Trauma-Bonds"
+    ],
+    "komplexeptbs": [
+      "Komplexe PTBS",
+      "komplexe PTBS"
+    ],
+    "sozialeangst": [
+      "soziale Angst",
+      "Soziale Angst"
+    ]
+  },
+  "decided_mechanically": 154,
+  "needs_judgement": 96,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [],
+    "new_term": [
+      {
+        "candidate": "komplexen posttraumatischen Belastungsstörung"
+      },
+      {
+        "candidate": "Posttraumatische Belastungsstörung"
+      },
+      {
+        "candidate": "ICD-11"
+      },
+      {
+        "candidate": "Internationalen Klassifikation der Krankheiten"
+      },
+      {
+        "candidate": "Psychotraumatologie"
+      },
+      {
+        "candidate": "Disorders of Self-Organization"
+      },
+      {
+        "candidate": "DSO"
+      },
+      {
+        "candidate": "Störungen der Selbstorganisation"
+      },
+      {
+        "candidate": "negativen Selbstkonzept"
+      },
+      {
+        "candidate": "interpersonellen Beziehungsstörungen"
+      },
+      {
+        "candidate": "Intrusionen"
+      },
+      {
+        "candidate": "Vermeidungsverhalten"
+      },
+      {
+        "candidate": "Coping"
+      },
+      {
+        "candidate": "Bindungstraumata"
+      },
+      {
+        "candidate": "Amygdala-Komplex"
+      },
+      {
+        "candidate": "basolateralen Komplex"
+      },
+      {
+        "candidate": "BLA"
+      },
+      {
+        "candidate": "präfrontale Kortex"
+      },
+      {
+        "candidate": "PFC"
+      },
+      {
+        "candidate": "anteriore cinguläre Kortex"
+      },
+      {
+        "candidate": "ACC"
+      },
+      {
+        "candidate": "Salienz-Netzwerk"
+      },
+      {
+        "candidate": "SN"
+      },
+      {
+        "candidate": "Default Mode Network"
+      },
+      {
+        "candidate": "DMN"
+      },
+      {
+        "candidate": "Hippocampus"
+      },
+      {
+        "candidate": "HPA-Achse"
+      },
+      {
+        "candidate": "Nucleus paraventricularis"
+      },
+      {
+        "candidate": "PVN"
+      },
+      {
+        "candidate": "Yohimbin"
+      },
+      {
+        "candidate": "Allopregnanolon"
+      },
+      {
+        "candidate": "Stress-Lernen"
+      },
+      {
+        "candidate": "ANS"
+      },
+      {
+        "candidate": "Neurozeption"
+      },
+      {
+        "candidate": "Toleranzfenster"
+      },
+      {
+        "candidate": "sympathische Nervensystem"
+      },
+      {
+        "candidate": "Sicherheit und soziale Verbundenheit"
+      },
+      {
+        "candidate": "Totstellreflex"
+      },
+      {
+        "candidate": "Numbing"
+      },
+      {
+        "candidate": "Dissoziation"
+      },
+      {
+        "candidate": "Fear Paradigm"
+      },
+      {
+        "candidate": "emotionaler Flashback"
+      },
+      {
+        "candidate": "Hypoarousal"
+      },
+      {
+        "candidate": "Hypervigilanz"
+      },
+      {
+        "candidate": "Maskierung"
+      },
+      {
+        "candidate": "Normal-Sein-Wollen"
+      },
+      {
+        "candidate": "Acting-in"
+      },
+      {
+        "candidate": "inneren Kritiker"
+      },
+      {
+        "candidate": "innere Kritiker"
+      },
+      {
+        "candidate": "relationale Traumatisierung"
+      },
+      {
+        "candidate": "Bindungssystem"
+      },
+      {
+        "candidate": "desorganisierten Bindungsstil"
+      },
+      {
+        "candidate": "Abandonment Anxiety"
+      },
+      {
+        "candidate": "Fear of Intimacy"
+      },
+      {
+        "candidate": "Trauma Bonds"
+      },
+      {
+        "candidate": "traumatischen Bindungen"
+      },
+      {
+        "candidate": "Self-Abandonment"
+      },
+      {
+        "candidate": "Assumptive World"
+      },
+      {
+        "candidate": "Mortalitätssalienz"
+      },
+      {
+        "candidate": "emotionale Taubheit"
+      },
+      {
+        "candidate": "Derealisation"
+      },
+      {
+        "candidate": "Akkulturationsstress"
+      },
+      {
+        "candidate": "Differenzialdiagnostik"
+      },
+      {
+        "candidate": "GAD"
+      },
+      {
+        "candidate": "BPS"
+      },
+      {
+        "candidate": "somatoformen Störungen"
+      },
+      {
+        "candidate": "Trauma-Trias"
+      },
+      {
+        "candidate": "International Trauma Questionnaire"
+      },
+      {
+        "candidate": "ITQ"
+      },
+      {
+        "candidate": "International Trauma Interview"
+      },
+      {
+        "candidate": "ITI"
+      },
+      {
+        "candidate": "Stephen Porges"
+      },
+      {
+        "candidate": "Jennifer Freyd"
+      },
+      {
+        "candidate": "Ronnie Janoff-Bulman"
+      },
+      {
+        "candidate": "Klinische Dimension"
+      },
+      {
+        "candidate": "Beziehungsmuster"
+      },
+      {
+        "candidate": "Disconnection"
+      },
+      {
+        "candidate": "Impulsivität & Suizidalität"
+      },
+      {
+        "candidate": "Emotionsregulation"
+      },
+      {
+        "candidate": "Diagnostisches Kriterium"
+      },
+      {
+        "candidate": "sozialen Phobie"
+      },
+      {
+        "candidate": "SAD"
+      },
+      {
+        "candidate": "S3-Leitlinien"
+      },
+      {
+        "candidate": "AWMF"
+      },
+      {
+        "candidate": "phasenorientierte Therapiemodell"
+      },
+      {
+        "candidate": "relationale Sicherheit"
+      },
+      {
+        "candidate": "Sicherheit und Stabilisierung"
+      },
+      {
+        "candidate": "Safety and Stabilization"
+      },
+      {
+        "candidate": "Traumaexposition und -bearbeitung"
+      },
+      {
+        "candidate": "Trauma Processing"
+      },
+      {
+        "candidate": "Integration und Neuorientierung"
+      },
+      {
+        "candidate": "Integration and Meaning-making"
+      },
+      {
+        "candidate": "therapeutische Allianz"
+      },
+      {
+        "candidate": "Reparenting"
+      },
+      {
+        "candidate": "inneren Kindes"
+      },
+      {
+        "candidate": "erarbeitete sichere Bindung"
+      },
+      {
+        "candidate": "earned secure attachment"
+      },
+      {
+        "candidate": "Neuro-somatische Stabilisierungstechniken"
+      },
+      {
+        "candidate": "5-4-3-2-1-Methode"
+      },
+      {
+        "candidate": "Tauchreflex"
+      },
+      {
+        "candidate": "Imaginative Distanzierung und Affektkontrolle"
+      },
+      {
+        "candidate": "Screen-Technik"
+      },
+      {
+        "candidate": "Tresor-Übung"
+      },
+      {
+        "candidate": "CFT"
+      },
+      {
+        "candidate": "Paul Gilbert"
+      },
+      {
+        "candidate": "Beruhigungssystem"
+      },
+      {
+        "candidate": "mitfühlenden Selbst"
+      },
+      {
+        "candidate": "Compassionate Self"
+      },
+      {
+        "candidate": "schmutzige kleine Geheimnis"
+      },
+      {
+        "candidate": "Humanistisch-Existenzielle Perspektiven"
+      },
+      {
+        "candidate": "existenzialistisch-humanistischen Psychotherapie"
+      },
+      {
+        "candidate": "Kirk Schneider"
+      },
+      {
+        "candidate": "Traumafokussierte und integrative Expositionsverfahren"
+      },
+      {
+        "candidate": "fokussierte Traumabearbeitung"
+      },
+      {
+        "candidate": "Affekttoleranz"
+      },
+      {
+        "candidate": "NET"
+      },
+      {
+        "candidate": "Dialektisch-Behavioralen Therapie"
+      },
+      {
+        "candidate": "Pharmakologische Interventionen"
+      },
+      {
+        "candidate": "Prazosin"
+      },
+      {
+        "candidate": "selektive Serotonin-Wiederaufnahmehemmer"
+      },
+      {
+        "candidate": "SSRI"
+      },
+      {
+        "candidate": "Serotonin-Noradrenalin-Wiederaufnahmehemmer"
+      },
+      {
+        "candidate": "SNRI"
+      },
+      {
+        "candidate": "Sertralin"
+      },
+      {
+        "candidate": "Paroxetin"
+      },
+      {
+        "candidate": "Venlafaxin"
+      },
+      {
+        "candidate": "Cluster-D-Symptome"
+      },
+      {
+        "candidate": "Alpha-1-Blockade"
+      },
+      {
+        "candidate": "polyvagale Komplex"
+      },
+      {
+        "candidate": "Bindungsstörungen"
+      },
+      {
+        "candidate": "Desorganisationsmuster"
+      },
+      {
+        "candidate": "Retraumatisierungen"
+      },
+      {
+        "candidate": "Traumanetzwerke"
+      },
+      {
+        "candidate": "neuro-somatischer Stabilisierungsverfahren"
+      },
+      {
+        "candidate": "existenzialistisch-humanistische Ansätze"
+      },
+      {
+        "candidate": "Traumafolgen"
+      },
+      {
+        "candidate": "Sympathikusdominanz"
+      },
+      {
+        "candidate": "dorsale Vagusdominanz"
+      },
+      {
+        "candidate": "Kernemotion"
+      },
+      {
+        "candidate": "Defekthaftigkeit"
+      },
+      {
+        "candidate": "Selbstkritik"
+      },
+      {
+        "candidate": "Grundüberzeugungen"
+      },
+      {
+        "candidate": "Abgrenzungsspektrum"
+      },
+      {
+        "candidate": "Interkulturelle und soziopolitische Kontexte"
+      },
+      {
+        "candidate": "Flucht und Migration"
+      },
+      {
+        "candidate": "prä-migratorische Traumatisierungen"
+      },
+      {
+        "candidate": "post-migratorischen Stressoren"
+      },
+      {
+        "candidate": "Weltgesundheitsorganisation"
+      },
+      {
+        "candidate": "Erdbeben von L'Aquila"
+      },
+      {
+        "candidate": "Polyvagal-Theorie"
+      },
+      {
+        "candidate": "Window of Tolerance"
+      },
+      {
+        "candidate": "Betrayal Trauma Theory"
+      },
+      {
+        "candidate": "Shattered Assumptions"
+      },
+      {
+        "candidate": "Terror-Management-Theorie"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Angst-Arten  /  Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "komplexen Traumafolgestörungen  /  Traumafolgestörungen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "multidimensionale Taxonomie der Angst  /  Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "kPTBS  /  PTBS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "kPTBS  /  Komplexe PTBS (kPTBS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "kPTBS  /  kPTBS-Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PTBS  /  Komplexe PTBS (kPTBS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PTBS  /  Komplexe PTBS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PTBS  /  komplexen PTBS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PTBS  /  kPTBS-Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PTBS  /  DBT-PTBS / DBT-TF",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PTBS  /  DBT-PTBS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "emotionalen Dysregulation  /  Dysregulation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bindungsängsten  /  Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bindungsängsten  /  Bindungsangst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hyperarousal  /  somatische Hyperarousal",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hyperarousal  /  Natur des Hyperarousals",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hyperarousal  /  sympathische Hyperarousal",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hyperarousal  /  traumatische Hyperarousal",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hyperarousal  /  traumabedingte Hyperarousal",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flashbacks  /  emotionalen Flashbacks",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  schambasierte soziale Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Bindungsangst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Verlassenheitsangst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Angst vor dem Verlassenwerden",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Angst vor Nähe und Intimität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  existenzielle Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Angst vor dem Kontrollverlust",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  generalisierte Angststörungen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Verlassensangst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Generalisierten Angststörung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Kognitiver Fokus der Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Qualität der sozialen Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  kPTBS-Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  primären Angststörungen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  schambasierte soziale Vermeidungsangst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  Vermeidungsangst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  traumabedingte Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  traumabedingten Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  traumatischen Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Angst  /  soziale Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Furcht  /  Furchtextinktion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Furcht  /  Furchtkonditionierung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Furcht  /  Furcht-Paradigma",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "ventrale Vagalkomplex  /  Vagalkomplex",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "dorsale Vagalkomplex  /  Vagalkomplex",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mobilisation/Kampf-oder-Flucht  /  Mobilisation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mobilisation/Kampf-oder-Flucht  /  Kampf-oder-Flucht",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mobilisation  /  Immobilisation/Freeze/Shutdown",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mobilisation  /  Immobilisation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Immobilisation/Freeze/Shutdown  /  Immobilisation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Immobilisation/Freeze/Shutdown  /  Freeze",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Immobilisation/Freeze/Shutdown  /  Shutdown",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Trigger  /  Auslöser (Trigger)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "toxische Scham  /  Scham",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "toxischer Scham  /  Scham",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "schambasierte soziale Angst  /  soziale Angst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "schambasierte soziale Angst  /  Scham",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selbstverrat  /  Verrat",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Borderline-Persönlichkeitsstörung  /  Borderline-Persönlichkeitsstörung (BPS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Komplexe PTBS (kPTBS)  /  Komplexe PTBS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "GAD / Panikstörung / Soziale Phobie (SAD)  /  Panikstörung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "GAD / Panikstörung / Soziale Phobie (SAD)  /  Soziale Phobie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Expositionstherapien  /  Narrative Expositionstherapie (NET)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Affektregulation  /  Affektregulationssysteme",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Erdungs- und Reorientierungstechniken  /  Erdungs- und Reorientierungstechniken im Hier und Jetzt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Psychoedukation und Entpathologisierung  /  Psychoedukation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Psychoedukation und Entpathologisierung  /  Entpathologisierung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schamspezifische Interventionen  /  Scham",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Compassion-Focused Therapy (CFT)  /  Compassion-Focused Therapy",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bedrohungssystem (Threat/Amygdala)  /  Bedrohungssystem",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bedrohungssystem (Threat/Amygdala)  /  Threat",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Antriebssystem (Drive/Dopamin)  /  Antriebssystem",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Antriebssystem (Drive/Dopamin)  /  Drive",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Antriebssystem (Drive/Dopamin)  /  EMDR",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Beruhigungs- und Fürsorgesystem (Soothing System/Oxytocin und Opiate)  /  Soothing System",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selbst-Mitgefühls  /  Selbstmitgefühl",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Accelerated Experiential Dynamic Psychotherapy (AEDP)  /  AEDP",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "EMDR (Eye Movement Desensitization and Reprocessing)  /  EMDR",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "EMDR (Eye Movement Desensitization and Reprocessing)  /  Eye Movement Desensitization and Reprocessing",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "STAIR-NT (Skills Training in Affective and Interpersonal Regulation - Narrative Therapy)  /  STAIR-NT",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "STAIR-NT (Skills Training in Affective and Interpersonal Regulation - Narrative Therapy)  /  Skills Training in Affective and Interpersonal Regulation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Narrative Expositionstherapie (NET)  /  Narrative Expositionstherapie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "DBT-PTBS / DBT-TF  /  DBT-PTBS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "DBT-PTBS / DBT-TF  /  DBT-TF",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "MBT-TF (Mentalisierungsbasierte Therapie für Trauma)  /  MBT-TF",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "MBT-TF (Mentalisierungsbasierte Therapie für Trauma)  /  Mentalisierungsbasierte Therapie für Trauma",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "schambasierte soziale Vermeidungsangst  /  Vermeidungsangst",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "schambasierte soziale Vermeidungsangst  /  Scham",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "schamfokussierte Ansätze  /  Scham",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "sekundäre Scham  /  Scham",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Verrat  /  Theorie des Verratstraumas",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Grundannahmen  /  zerbrochene Grundannahmen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Depersonalisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "STAIR-NT (Skills Training in Affective and Interpersonal Regulation - Narrative Therapy)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Skills Training in Affective and Interpersonal Regulation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
