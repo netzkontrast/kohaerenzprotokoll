@@ -1,0 +1,1842 @@
+# 05-verify — technical-audit-research-mandate-the-kohaerenz-protokoll-fra
+# written 2026-09-30 by the document-reader subagent (Sonnet) that finished the run; every command below was
+# run from the repository root by scripts, and its output is pasted as printed.
+
+==============================================================================
+A. The run: profile, size, the candidate list, the counts
+Every number the census states about the file's shape, the list and its counts. The census tables are
+compared with counts.json row by row; counts.json is compared with read.py --count for every term.
+==============================================================================
+
+$ python3 scripts/profile.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra
+# technical-audit-research-mandate-the-kohaerenz-protokoll-fra
+  lines                41  (frontmatter ends at 0)
+  body words           1266
+  headings             1   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       2
+  backslash escapes    43
+  typographic marks    31   ascii quotes 74
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         1488 chars
+
+$ wc -l Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md
+40 Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md
+
+$ grep -c '^- ' Plan/runs/technical-audit-research-mandate-the-kohaerenz-protokoll-fra/03-candidates.md
+216
+
+$ python3 - <<'EOF'
+import sys, json, re
+sys.path.insert(0, 'scripts')
+import capture, quotes
+slug = 'technical-audit-research-mandate-the-kohaerenz-protokoll-fra'
+md = open(f'Plan/runs/{slug}/03-candidates.md', encoding='utf-8').read()
+head, _, lens = md.partition('\n## lens')
+lens = lens.partition('\n## Open while reading')[0]
+main, lensT = capture.candidate_terms(head), capture.candidate_terms(lens)
+allT = capture.candidate_terms(md)
+print('candidates (- lines read as terms):', len(allT), '= world and own terms', len(main), '+ lens', len(lensT))
+counts = json.load(open(f'Plan/runs/{slug}/counts.json', encoding='utf-8'))
+print('read_as_prose in counts.json:', counts['read_as_prose'])
+c = counts['counts']
+print('terms counted:', len(c), '| same terms, same order as the list:', list(c) == allT)
+print('terms at 0 standing alone:', [t for t, v in c.items() if v['n'] == 0])
+print('terms at 0 including compounds:', [t for t, v in c.items() if v['n_including_compounds'] == 0])
+bad = [t for t, v in c.items() if quotes.count_words(slug, t)[0] != v['n'] or quotes.count_words(slug, t)[2] != v['n_including_compounds']]
+print('terms whose counts.json numbers differ from read.py --count (quotes.count_words):', bad)
+print('rows where compounds add to the count (alone -> in, lines):')
+for t, v in c.items():
+    if v['n'] != v['n_including_compounds']:
+        print('  ', t, v['n'], '->', v['n_including_compounds'], v['lines'])
+print('K\\_1 lines:', c['K\\_1']['lines'], '| K\\_0 lines:', c['K\\_0']['lines'])
+print('candidates that hold an escaped underscore:', [t for t in allT if '\\_' in t])
+census = open(f'Sources/terms/{slug}.md', encoding='utf-8').read()
+rows = re.findall(r'^\| `(.+?)` \| (\d+) \| (\d+) \| ([\d, ]+) \|$', census, re.M)
+diff = [r[0] for r in rows if (int(r[1]), int(r[2]), r[3].strip()) != (c[r[0]]['n'], c[r[0]]['n_including_compounds'], ', '.join(map(str, c[r[0]]['lines'])))]
+print('census table rows:', len(rows), '| rows that differ from counts.json:', diff, '| terms without a row:', [t for t in c if t not in [r[0] for r in rows]])
+EOF
+candidates (- lines read as terms): 216 = world and own terms 188 + lens 28
+read_as_prose in counts.json: []
+terms counted: 216 | same terms, same order as the list: True
+terms at 0 standing alone: []
+terms at 0 including compounds: []
+terms whose counts.json numbers differ from read.py --count (quotes.count_words): []
+rows where compounds add to the count (alone -> in, lines):
+   Axis I 1 -> 3 [3, 9, 17]
+   fire 1 -> 2 [9, 15]
+   Axis II 1 -> 2 [9, 17]
+   coherence 2 -> 3 [8, 13, 40]
+   reader 3 -> 4 [29, 31, 36]
+   entropy 1 -> 2 [9, 40]
+   dialetheia 1 -> 2 [3, 26]
+   Moonshine 1 -> 4 [3, 18, 20, 21]
+   storyform 1 -> 2 [17, 19]
+K\_1 lines: [3, 7, 8, 9, 13, 29, 36, 40] | K\_0 lines: [3, 6, 8, 9, 13, 40]
+candidates that hold an escaped underscore: ['Coherence Kernel ( $K\\_1$ )', 'K\\_1', 'Erasure Kernel ( $K\\_0$ )', 'K\\_0', '"Kollaps-Kern" ( $K\\_0$ )', 'W \\\\geq k\\_B T \\\\ln 2']
+census table rows: 216 | rows that differ from counts.json: [] | terms without a row: []
+
+==============================================================================
+B. Names and terms the census and the note count in prose
+python3 scripts/read.py <slug> --count "<words>" -- whole word case-sensitive, case-insensitive, with compounds.
+==============================================================================
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Kohärenz-Protokoll'
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenz-Protokoll` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#4]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count protocol
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`protocol` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#4]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'the protocol'
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`the protocol` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#4]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'the system'
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`the system` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#3]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count AEGIS
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`AEGIS` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#12]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Kael
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kael` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#7]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Juna
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Juna` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#6]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count alters
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`alters` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Lex
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lex` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Nyx
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nyx` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Kiko
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kiko` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Lia
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lia` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Lex, Nyx, Kiko, and Lia'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lex, Nyx, Kiko, and Lia` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Mnemosyne-Archipel
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Mnemosyne-Archipel` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#4]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Kollaps-Kern
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kollaps-Kern` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Risse
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Risse` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Nichts-Rauschen
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts-Rauschen` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Algorithmische Melancholie'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Algorithmische Melancholie` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Synthese
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Synthese` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count cracks
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`cracks` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'nothingness static'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`nothingness static` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'K\_1'
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`K\_1` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#8]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'K\_0'
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`K\_0` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#6]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count must
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`must` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#7]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Research Mandate'
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Research Mandate` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#7]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Research Mandate -'
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Research Mandate -` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#6]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Architectural Mandate'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Architectural Mandate` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count substrate
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`substrate` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#5]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count bedrock
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`bedrock` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#3]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Axis
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Axis` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#5]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Vortex
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Vortex` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Vortex Inversion'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Vortex Inversion` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'phone call'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`phone call` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count VOA
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`VOA` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#3]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count storyform
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`storyform` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Dramatica quad'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dramatica quad` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count simulation
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`simulation` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'deus ex machina'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`deus ex machina` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count soft
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`soft` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count magic
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`magic` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count flavor
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`flavor` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count broken
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`broken` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Dual-Kernel Theory'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dual-Kernel Theory` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count DKT
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`DKT` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Psychological Modularity'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Psychological Modularity` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Structural Waveforms'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Structural Waveforms` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Monstrous Symmetry'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Monstrous Symmetry` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Algorithmic Advance'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Algorithmic Advance` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Participatory Universe'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Participatory Universe` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 5D
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`5D` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 5th
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`5th` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count crack
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`crack` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count advance
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`advance` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Advance
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Advance` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count '"Mnemosyne-Archipel"'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`"Mnemosyne-Archipel"` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count '"Kollaps-Kern"'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`"Kollaps-Kern"` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count '"Risse"'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`"Risse"` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count '"Nichts-Rauschen"'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`"Nichts-Rauschen"` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count trauma
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`trauma` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#3]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'The Architecture of Verification'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Architecture of Verification` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Technical Audit'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Technical Audit` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'computational constraint'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`computational constraint` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'primary competitive advantage'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`primary competitive advantage` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'logical necessity'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`logical necessity` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Immutable bedrock'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Immutable bedrock` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Structural resonance'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Structural resonance` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Dimensional rigidity'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dimensional rigidity` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Allows access to "erased" data'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Allows access to "erased" data` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'systemic narrative collapse—informational heat death'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`systemic narrative collapse—informational heat death` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'The Truth-Rotation'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Truth-Rotation` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'The Climax'
+whole word, case-sensitive     1
+whole word, case-insensitive   4
+including compounds            1
+
+`The Climax` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 - <<'EOF'
+import re
+t = open('Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md', encoding='utf-8').read().split('\n')
+def where(pat):
+    return [(i + 1, len(re.findall(pat, l))) for i, l in enumerate(t) if re.search(pat, l)]
+for name, pat in [('AEGIS', r'\bAEGIS\b'), ('Kael', r'\bKael\b'), ('Juna', r'\bJuna\b'), ('alters', r'\balters\b'),
+                  ('Mnemosyne-Archipel', r'Mnemosyne-Archipel'), ('quoted Mnemosyne-Archipel', r'"Mnemosyne-Archipel"'), ('quoted Kollaps-Kern', r'"Kollaps-Kern"'), ('quoted Risse', r'"Risse"'), ('quoted Nichts-Rauschen', r'"Nichts-Rauschen"'), ('Algorithmische Melancholie', r'Algorithmische Melancholie'), ('substrate', r'\bsubstrate\b'), ('bedrock', r'\bbedrock\b'),
+                  ('the system (any case)', r'\b[Tt]he system\b'), ('the protocol', r'\bthe protocol\b'), ('Kohärenz-Protokoll', r'Kohärenz-Protokoll'), ('must', r'\bmust\b'), ('broken', r'\bbroken\b'),
+                  ('trauma/Trauma', r'\b[Tt]rauma\b'), ('Vortex', r'\bVortex\b'), ('Axis', r'\bAxis\b'),
+                  ('phone call', r'phone call'), ('DKT', r'\bDKT\b'), ('Dual-Kernel Theory', r'Dual-Kernel Theory'),
+                  ('coherence (any case)', r'\b[Cc]oherence\b'), ('writer', r'\bwriter\b'), ('We', r'\bWe\b'),
+                  ('This audit / The audit / This document', r'\b(This audit|The audit|This document)\b')]:
+    print(f'{name:42} (line, uses on it): {where(pat)}')
+EOF
+AEGIS                                      (line, uses on it): [(7, 2), (8, 1), (13, 1), (17, 1), (19, 1), (20, 1), (27, 1), (28, 1), (34, 1), (38, 1), (39, 1)]
+Kael                                       (line, uses on it): [(7, 1), (11, 1), (13, 1), (19, 1), (28, 1), (34, 1), (38, 1)]
+Juna                                       (line, uses on it): [(20, 1), (21, 3), (30, 1), (32, 1)]
+alters                                     (line, uses on it): [(12, 1), (33, 1)]
+Mnemosyne-Archipel                         (line, uses on it): [(6, 1), (9, 1), (26, 1), (36, 1)]
+quoted Mnemosyne-Archipel                  (line, uses on it): [(6, 1)]
+quoted Kollaps-Kern                        (line, uses on it): [(6, 1)]
+quoted Risse                               (line, uses on it): [(26, 1)]
+quoted Nichts-Rauschen                     (line, uses on it): [(31, 1)]
+Algorithmische Melancholie                 (line, uses on it): [(39, 1)]
+substrate                                  (line, uses on it): [(6, 1), (7, 1), (9, 1), (29, 1), (40, 1)]
+bedrock                                    (line, uses on it): [(7, 1), (21, 1), (40, 1)]
+the system (any case)                      (line, uses on it): [(16, 1), (21, 1), (29, 1), (40, 1)]
+the protocol                               (line, uses on it): [(3, 3), (23, 1)]
+Kohärenz-Protokoll                         (line, uses on it): [(1, 1), (3, 1), (29, 1), (40, 1)]
+must                                       (line, uses on it): [(7, 1), (12, 1), (15, 1), (19, 1), (28, 1), (36, 1), (40, 1)]
+broken                                     (line, uses on it): [(11, 1), (39, 1)]
+trauma/Trauma                              (line, uses on it): [(9, 1), (16, 1), (28, 1), (34, 1)]
+Vortex                                     (line, uses on it): [(36, 1), (38, 1)]
+Axis                                       (line, uses on it): [(3, 1), (9, 1), (17, 1), (23, 1), (29, 1)]
+phone call                                 (line, uses on it): [(40, 1)]
+DKT                                        (line, uses on it): [(3, 1), (5, 1)]
+Dual-Kernel Theory                         (line, uses on it): [(3, 1)]
+coherence (any case)                       (line, uses on it): [(3, 1), (8, 1), (13, 1), (40, 1)]
+writer                                     (line, uses on it): [(7, 1), (36, 1)]
+We                                         (line, uses on it): [(3, 1)]
+This audit / The audit / This document     (line, uses on it): [(3, 2), (6, 1)]
+
+==============================================================================
+C. Stance markers, and the family of the word verify
+The note's stance_markers, each counted with read.py --count; stance_marker_count is their sum.
+The verify family is asked form by form, case-sensitive.
+==============================================================================
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Research Mandate -'
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Research Mandate -` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#6]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Architectural Mandate'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Architectural Mandate` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Critical Consistency Takeaways'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Critical Consistency Takeaways` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Stress-Test Requirement'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Stress-Test Requirement` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Theoretical Mathematical Claim'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Theoretical Mathematical Claim` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Narrative Requirement'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrative Requirement` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Alignment Status'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alignment Status` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Prescribed
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Prescribed` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Mandated
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mandated` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Required
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Required` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Verified
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Verified` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Strategic Executive Summary'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Strategic Executive Summary` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Final Synthese Verdict'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Final Synthese Verdict` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'definitive structural requirements'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`definitive structural requirements` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'structurally verified'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`structurally verified` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'ready for publication'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ready for publication` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 - <<'EOF'
+import re, subprocess, sys
+sys.path.insert(0, 'scripts')
+import quotes
+slug = 'technical-audit-research-mandate-the-kohaerenz-protokoll-fra'
+note = open(f'Sources/notes/{slug}.md', encoding='utf-8').read()
+front = note.split('---')[1]
+listed = re.search(r'^stance_markers: \[(.*)\]$', front, re.M).group(1)
+markers = re.findall(r'"([^"]+)"', listed)
+claimed = int(re.search(r'^stance_marker_count: (\d+)', front, re.M).group(1))
+total = 0
+for m in markers:
+    out = subprocess.run(['python3', 'scripts/read.py', slug, '--count', m], capture_output=True, text=True).stdout
+    n = int(out.split()[-1].rsplit('#', 1)[1].rstrip(']'))
+    total += n
+    print(f'{n:>2}  {m}')
+print('markers listed in the note:', len(markers), '| occurrences, summed from read.py --count:', total, '| stance_marker_count in the note:', claimed, '| equal:', total == claimed)
+EOF
+ 6  Research Mandate -
+ 2  Architectural Mandate
+ 1  Critical Consistency Takeaways
+ 1  Stress-Test Requirement
+ 1  Theoretical Mathematical Claim
+ 1  Narrative Requirement
+ 1  Alignment Status
+ 1  Prescribed
+ 1  Mandated
+ 1  Required
+ 1  Verified
+ 1  Strategic Executive Summary
+ 1  Final Synthese Verdict
+ 1  definitive structural requirements
+ 1  structurally verified
+ 1  ready for publication
+markers listed in the note: 16 | occurrences, summed from read.py --count: 22 | stance_marker_count in the note: 22 | equal: True
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Verification
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Verification` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count verifying
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`verifying` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Verify
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Verify` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Verified
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Verified` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count verified
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`verified` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Verifier
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Verifier` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Verifies
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Verifies` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Validates
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Validates` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 - <<'EOF'
+import re
+t = open('Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md', encoding='utf-8').read().split('\n')
+forms = ['Verification', 'verifying', 'Verify', 'Verified', 'verified', 'Verifier', 'Verifies']
+tot = 0
+for f in forms + ['Validates']:
+    pat = r'(?<![\w-])' + f + r'(?![\w-])'
+    hits = [(i + 1, len(re.findall(pat, l))) for i, l in enumerate(t) if re.search(pat, l)]
+    if f in forms:
+        tot += sum(n for _, n in hits)
+    print(f'{f:14} (line, uses on it): {hits}')
+print('occurrences of the seven verif- forms:', tot, '| lines that hold them:', sorted({i + 1 for i, l in enumerate(t) if re.search(r'(?<![\w-])(' + '|'.join(forms) + r')(?![\w-])', l)}))
+EOF
+Verification   (line, uses on it): [(3, 1)]
+verifying      (line, uses on it): [(3, 1)]
+Verify         (line, uses on it): [(7, 1), (20, 1)]
+Verified       (line, uses on it): [(21, 1)]
+verified       (line, uses on it): [(40, 1)]
+Verifier       (line, uses on it): [(34, 1)]
+Verifies       (line, uses on it): [(34, 1)]
+Validates      (line, uses on it): [(21, 1)]
+occurrences of the seven verif- forms: 8 | lines that hold them: [3, 7, 20, 21, 34, 40]
+
+==============================================================================
+D. Absences: every word an absence claim names, counted
+A claim that the document does not write something is asked of the count. Zero standing alone, zero in any
+case and zero with compounds is the claim; where a word stands only inside a longer word, the output says so.
+==============================================================================
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count author
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`author` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Author
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Author` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count source
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`source` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Source
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            0
+
+`Source` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count sources
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`sources` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count reference
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`reference` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count references
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`references` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count cited
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`cited` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count citation
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`citation` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Tarskian
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Tarskian` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Tarskian meta-language'
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Tarskian meta-language` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Tarskian Meta-language'
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Tarskian Meta-language` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Husserlian
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Husserlian` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Husserlian Spectator'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Husserlian Spectator` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Iserian
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Iserian` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Iserian phenomenology'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Iserian phenomenology` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Janetian
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Janetian` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Janetian action systems'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Janetian action systems` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count disputed
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`disputed` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count superseded
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`superseded` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count deprecated
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`deprecated` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count http
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`http` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 2026
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`2026` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 2025
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`2025` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count checked
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`checked` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count tested
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`tested` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count proved
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`proved` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count proof
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`proof` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count confirmed
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`confirmed` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count demonstrated
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`demonstrated` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count quotation
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`quotation` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count quote
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`quote` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count quotes
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`quotes` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count K1
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K1` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count K0
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K0` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'K₁'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K₁` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'K₀'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K₀` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count K_1
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K_1` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count K_0
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K_0` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Tarski
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Tarski` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Husserl
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Husserl` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Iser
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Iser` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Janet
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Janet` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'vertex operator algebra'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`vertex operator algebra` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Vertex
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Vertex` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count operator
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`operator` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count caller
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`caller` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count called
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`called` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Kap
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Kapitel
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Chapter
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chapter` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count chapter
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`chapter` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count chapters
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`chapters` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count German
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`German` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count translation
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`translation` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Synthesis
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Synthesis` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Landauer'"'"'s Principle'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Landauer's Principle` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Landauer’s Principle'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Landauer’s Principle` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Chaitin'"'"'s Halting Probability'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chaitin's Halting Probability` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Chaitin’s Halting Probability'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Chaitin’s Halting Probability` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Juna'"'"'s Positioning'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna's Positioning` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Juna’s Positioning'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna’s Positioning` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+==============================================================================
+E. Structure and export damage
+Glyphs, line lengths, headings, the table, the formulas, the labels and every number the document writes, each
+counted from the file by a command that shows how.
+==============================================================================
+
+$ python3 - <<'EOF'
+import re, sys
+sys.path.insert(0, 'scripts')
+import profile as P
+t = open('Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md', encoding='utf-8').read()
+lines = t.split('\n')
+def where(pat):
+    return [(i + 1, len(re.findall(pat, l))) for i, l in enumerate(lines) if re.search(pat, l)]
+print('lines by split:', len(lines), '| last element empty:', lines[-1] == '', '| bytes:', len(t.encode('utf-8')))
+print('U+2019 total:', t.count('\u2019'), '| ASCII apostrophe total:', t.count("'"), 'on lines', where("'"))
+print('em dash U+2014 total:', t.count('\u2014'), 'on lines', where('\u2014'))
+print('ASCII double quote total:', t.count('"'), '| pairs:', sum(len(re.findall(r'"[^"]*"', l)) for l in lines), '| lines holding any:', len(where('"')))
+print('double backslash occurrences:', t.count('\\\\'), '| escapes by the profile pattern:', len(P.ESCAPE.findall(t)), '| all backslashes:', t.count('\\'), '| typographic marks by the profile:', sum(t.count(c) for c in P.TYPOGRAPHIC))
+print('dollar signs:', t.count('$'), '| formula spans:', sum(len(re.findall(r'\$[^$]*\$', l)) for l in lines), '| lines with a span:', len([1 for l in lines if '$' in l]))
+print('pipes in L21:', lines[20].count('|'), '| || joins in L21:', lines[20].count('||'), '| lines that start with a pipe:', len([1 for l in lines if l.startswith('|')]))
+print('question marks:', where(r'\?'))
+from rules.structure import MATH
+print('the profile looks for these Unicode math symbols only:', MATH.pattern, '| lines that hold one:', [i + 1 for i, l in enumerate(lines) if MATH.search(l)])
+print('the three longest lines (chars, line):', sorted([(len(l), i + 1) for i, l in enumerate(lines)], reverse=True)[:3])
+print('glued reference number matches:', [(m.group(0), t[:m.start()].count(chr(10)) + 1) for m in P.GLUED_REF.finditer(t)])
+print('italic spans (single asterisks):', [(i + 1, m.group(0)) for i, l in enumerate(lines) for m in re.finditer(r'(?<![*\\])\*(?!\*)([^*\n]+?)(?<![*\\])\*(?!\*)', l)])
+print('a space between a closing emphasis mark and , or . (line, text):', [(i + 1, l[max(0, m.start() - 22):m.end() + 2]) for i, l in enumerate(lines) for m in re.finditer(r'\* [,.]', l)])
+print('hyphen followed by a space inside a word:', [(i + 1, m.group(0)) for i, l in enumerate(lines) for m in re.finditer(r'\w- \w', l)])
+print('a full stop with no space before the next capital (outside headings glued by **):', [(i + 1, l[max(0, m.start() - 18):m.end() + 12]) for i, l in enumerate(lines) for m in re.finditer(r'[a-z]\.[A-Z]', l)])
+print('month names written:', re.findall(r'\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\b', t))
+print('digit runs of more than two digits:', [(i + 1, x) for i, l in enumerate(lines) for x in re.findall(r'\d{3,}', l)])
+print('digit runs per line:', [(i + 1, re.findall(r'\d+', l)) for i, l in enumerate(lines) if re.search(r'\d', l)])
+EOF
+lines by split: 41 | last element empty: True | bytes: 9472
+U+2019 total: 24 | ASCII apostrophe total: 2 on lines [(17, 1), (20, 1)]
+em dash U+2014 total: 7 on lines [(3, 3), (12, 2), (26, 1), (39, 1)]
+ASCII double quote total: 74 | pairs: 37 | lines holding any: 20
+double backslash occurrences: 4 | escapes by the profile pattern: 43 | all backslashes: 51 | typographic marks by the profile: 31
+dollar signs: 38 | formula spans: 19 | lines with a span: 12
+pipes in L21: 24 | || joins in L21: 5 | lines that start with a pipe: 0
+question marks: [(7, 1), (29, 1)]
+the profile looks for these Unicode math symbols only: [\u2205\u2192\u2261\u2208\u2286\u2227\u2228\u22c3\u03bb\u03a3\u03c3\u03bc\u03a0\u0394\u03b8\u03b1\u03d5\u2295\u22a2] | lines that hold one: []
+the three longest lines (chars, line): [(1488, 3), (803, 21), (765, 40)]
+glued reference number matches: [('Rank 24', 21)]
+italic spans (single asterisks): [(3, '*Moonshine-Link*'), (28, '*deus ex machina*')]
+a space between a closing emphasis mark and , or . (line, text): [(3, 'onant  *Moonshine-Link* , t'), (20, 'ech Lattice (rank 24)** . J'), (20, 'orbifold construction** , a'), (28, 'void  *deus ex machina* . K'), (38, '**Landauer heat spike** , o'), (40, 'informational bedrock** . I')]
+hyphen followed by a space inside a word: []
+a full stop with no space before the next capital (outside headings glued by **): [(3, 'sics of information.The overarchi')]
+month names written: []
+digit runs of more than two digits: [(21, '196884'), (21, '196883')]
+digit runs per line: [(3, ['1', '2', '1', '0', '2']), (6, ['0']), (7, ['1']), (8, ['0', '1']), (9, ['1', '0', '3']), (13, ['0', '1']), (17, ['4', '5']), (20, ['24', '1']), (21, ['5', '8', '10', '53', '196884', '196883', '1', '24']), (23, ['5']), (29, ['6', '1']), (31, ['39']), (36, ['1', '7']), (40, ['1', '0', '39'])]
+
+$ python3 - <<'EOF'
+import re
+t = open('Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md', encoding='utf-8').read()
+lines = t.split('\n')
+print('numbered headings (number, line, character position in the line, line length):')
+for m in re.finditer(r'\*\*(\d)\. ([^*]+)\*\*', t):
+    ln = t[:m.start()].count('\n') + 1
+    ls = t.rfind('\n', 0, m.start()) + 1
+    print('  ', m.group(1), 'L' + str(ln), m.start() - ls, len(lines[ln - 1]), '|', m.group(2))
+tbl = lines[20].split('unmodelable by the system.', 1)[1]
+cells = [c.strip() for c in tbl.split('|') if c.strip() and not set(c.strip()) <= set('- ')]
+print('the sentence that ends the Juna item runs into the first pipe:', 'system.| Theoretical' in lines[20])
+print('table cells (header and data):', len(cells), '| distinct:', len(set(cells)), '| rows split at ||:', len(tbl.split('||')))
+print('closing ** inside a formula:', '10^{53}**$' in lines[20], '196883 + 1**$' in lines[20])
+axes = [x.strip() for m in re.finditer(r'Axis ([IVX]+(?: & [IVX]+)?):', t) for x in m.group(1).split('&')]
+print('Axis headings:', len(re.findall(r'\*\*\d\. Axis', t)), '| numerals in them:', axes, '| axes:', len(axes))
+m = re.search(r'\*\*Final Synthese Verdict:\*\*', t)
+print('Final Synthese Verdict on L' + str(t[:m.start()].count('\n') + 1))
+bul = [(i + 1, re.match(r'  - \*\*(.+?)\*\*', l).group(1)) for i, l in enumerate(lines) if l.startswith('  - ')]
+grp = [b for b in bul if b[1].startswith('\\*\\*')]
+print('bulleted lines:', len(bul), '| group labels:', len(grp), [g[0] for g in grp], '| items with a bold label:', len(bul) - len(grp))
+print('group labels read:', [g[1] for g in grp])
+EOF
+numbered headings (number, line, character position in the line, line length):
+   1 L3 0 1488 | Strategic Executive Summary: The Architecture of Verification
+   2 L3 1126 1488 | Axis I: Information Thermodynamics and Dual-Kernel Theory (DKT)
+   3 L9 275 557 | Axis II: Psychological Modularity (TSDP)
+   4 L17 97 321 | Axis III & IV: Structural Waveforms and Monstrous Symmetry
+   5 L23 0 229 | Axis V & VI: Paraconsistent Logic and Algorithmic Advance
+   6 L29 192 415 | Axis VII & VIII: Participatory Universe and The Witness Function
+   7 L36 193 349 | The Vortex Inversion and Autobiographical Anchor
+the sentence that ends the Juna item runs into the first pipe: True
+table cells (header and data): 15 | distinct: 15 | rows split at ||: 6
+closing ** inside a formula: True True
+Axis headings: 5 | numerals in them: ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'] | axes: 8
+Final Synthese Verdict on L40
+bulleted lines: 33 | group labels: 7 [5, 10, 14, 18, 25, 30, 37] | items with a bold label: 26
+group labels read: ['\\*\\*Research Mandate - DKT:\\*\\', '\\*\\*Research Mandate - TSDP:\\*\\', '\\*\\*Critical Consistency Takeaways:\\*\\', '\\*\\*Research Mandate - Dramatica & Moonshine:\\*\\', '\\*\\*Research Mandate - Logic & Randomness:\\*\\', '\\*\\*Research Mandate - Reader & Juna:\\*\\', '\\*\\*Research Mandate - The Climax:\\*\\']
+
+$ python3 - <<'EOF'
+import re, sys
+sys.path.insert(0, 'scripts')
+import capture
+slug = 'technical-audit-research-mandate-the-kohaerenz-protokoll-fra'
+t = open(f'Sources/drive/{slug}.md', encoding='utf-8').read().split('\n')
+terms = set(capture.candidate_terms(open(f'Plan/runs/{slug}/03-candidates.md', encoding='utf-8').read()))
+items = [(i + 1, re.match(r'  - \*\*(.+?):\*\*', l).group(1)) for i, l in enumerate(t) if l.startswith('  - **') and not l.startswith('  - **\\*\\*')]
+print('items with a bold label:', len(items))
+miss = []
+the = with_article = 0
+for ln, lab in items:
+    bare = re.sub(r'^The ', '', lab)
+    if lab.startswith('The '):
+        the += 1
+        with_article += lab in terms
+    if lab not in terms and bare not in terms:
+        miss.append((ln, lab))
+print('item labels not on the candidate list:', miss)
+print('labels that begin with The:', the, '| of them listed with the article:', with_article)
+print('the 26 item labels (line, label):', [(ln, lab) for ln, lab in items])
+EOF
+items with a bold label: 26
+item labels not on the candidate list: []
+labels that begin with The: 7 | of them listed with the article: 1
+the 26 item labels (line, label): [(6, 'Thermodynamic Cost of Erasure'), (7, 'Stress-Test Requirement'), (8, 'Heat Generation Logic'), (9, 'Systemic Risks'), (11, 'Functional Multiplicity'), (12, 'Module Identification'), (13, 'The Truth-Rotation'), (15, 'Modular Isolation'), (16, 'Buffer Mechanics'), (17, 'Persistence'), (19, 'Dual-Storyform Architecture'), (20, 'The Moonshine-Link'), (21, 'Juna’s Positioning'), (26, 'Dialetheic Cracks'), (27, 'Creative Advance'), (28, 'The Tarskian Meta-language'), (29, 'The "So What?" Layer'), (31, 'The Reader Function'), (32, 'The Witness Function (Juna)'), (33, 'Quantum Entanglement Witness'), (34, 'Zero-Knowledge Verifier'), (35, 'Husserlian Spectator'), (36, 'Mosaic Execution'), (38, 'Vortex Inversion Mechanics'), (39, 'Algorithmische Melancholie'), (40, 'The Autobiographical Anchor')]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Analyze the application'
+^[L6]  - Thermodynamic Cost of Erasure: Analyze the application of Landauer’s Principle to the "Mnemosyne-Archipel" s…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Verify the energy source'
+^[L7]  - Stress-Test Requirement: Verify the energy source for Kael’s self-repair mechanisms. If AEGIS controls the s…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Account for the fact'
+^[L8]  - Heat Generation Logic: Account for the fact that AEGIS, in its pursuit of "purity," generates massive Landau…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Ensure narrative time'
+^[L9]  - Systemic Risks: Logical "cracks" occur if trauma is treated as a metaphor rather than a literal $K1$ structu…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Mandate the use'
+^[L11]  - Functional Multiplicity: Mandate the use of Janetian action systems to ground Kael’s psychology. Identity is…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Scrutinize the'
+^[L19]  - Dual-Storyform Architecture: Scrutinize the "interference pattern." One storyform must track Kael’s "Heurist…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Verify the VOA construction'
+^[L20]  - The Moonshine-Link: Verify the VOA construction over the Leech Lattice (rank) . Juna’s ability to observe er…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Treat "Risse" (cracks)'
+^[L26]  - Dialetheic Cracks: Treat "Risse" (cracks) in the Mnemosyne-Archipel as true contradictions—dialetheias. Thes…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Reconcile the three layers'
+^[L32]  - The Witness Function (Juna): Reconcile the three layers:
+
+==============================================================================
+F. Compound rows and case rows
+The nine rows whose count with compounds exceeds the count alone, the forms behind the extra counts, and the
+23 candidates whose case-insensitive count differs from the case-sensitive one.
+==============================================================================
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Axis I'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Axis I` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count 'Axis II'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Axis II` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count fire
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`fire` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count firewalls
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`firewalls` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Moonshine
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Moonshine` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Moonshine-Link
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Moonshine-Link` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#3]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count coherence
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            3
+
+`coherence` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count coherence-seeking
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`coherence-seeking` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count reader
+whole word, case-sensitive     3
+whole word, case-insensitive   5
+including compounds            4
+
+`reader` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#3]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count readers
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`readers` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count entropy
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`entropy` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count high-entropy
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`high-entropy` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count dialetheia
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`dialetheia` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count dialetheias
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`dialetheias` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count storyform
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`storyform` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count dual-storyform
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`dual-storyform` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Foundation
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Foundation` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count foundational
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`foundational` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Trauma
+whole word, case-sensitive     1
+whole word, case-insensitive   4
+including compounds            1
+
+`Trauma` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Multiplicity
+whole word, case-sensitive     2
+whole word, case-insensitive   4
+including compounds            2
+
+`Multiplicity` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#2]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Climax
+whole word, case-sensitive     1
+whole word, case-insensitive   4
+including compounds            1
+
+`Climax` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count silence
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`silence` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count required
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`required` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --count Required
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Required` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+
+$ python3 - <<'EOF'
+import re
+t = open('Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md', encoding='utf-8').read().split('\n')
+for f in ['firewalls', 'coherence-seeking', 'readers', 'high-entropy', 'dialetheias', 'dual-storyform', 'foundational', 'Moonshine-Link', 'Axis III', 'Axis II']:
+    pat = r'(?<![\w-])' + f + r'(?![\w-])'
+    print(f'{f:18} (line, uses on it): {[(i + 1, len(re.findall(pat, l))) for i, l in enumerate(t) if re.search(pat, l)]}')
+EOF
+firewalls          (line, uses on it): [(15, 1)]
+coherence-seeking  (line, uses on it): [(8, 1)]
+readers            (line, uses on it): [(29, 1)]
+high-entropy       (line, uses on it): [(9, 1)]
+dialetheias        (line, uses on it): [(26, 1)]
+dual-storyform     (line, uses on it): [(17, 1)]
+foundational       (line, uses on it): [(40, 1)]
+Moonshine-Link     (line, uses on it): [(3, 1), (20, 1), (21, 1)]
+Axis III           (line, uses on it): [(17, 1)]
+Axis II            (line, uses on it): [(9, 1)]
+
+$ python3 - <<'EOF'
+import sys, json, re
+sys.path.insert(0, 'scripts')
+import quotes
+from wiki_index import mention
+from subject import document
+slug = 'technical-audit-research-mandate-the-kohaerenz-protokoll-fra'
+c = json.load(open(f'Plan/runs/{slug}/counts.json', encoding='utf-8'))['counts']
+doc = document(slug)
+lines = doc.body.split('\n')
+rows = []
+for t, v in c.items():
+    w, f, i = quotes.count_words(slug, t)
+    if f != w:
+        pat = re.compile(mention(t).pattern, re.I)
+        other = [(ln, m.group(0)) for ln, l in enumerate(lines, doc.offset) for m in pat.finditer(l) if m.group(0) != t]
+        rows.append((t, w, f, other))
+print('candidates whose case-insensitive count differs from the case-sensitive one:', len(rows))
+for t, w, f, other in rows:
+    print(f'  {t!r}: case-sensitive {w}, any case {f}; the other case stands at {other}')
+EOF
+candidates whose case-insensitive count differs from the case-sensitive one: 23
+  'information thermodynamics': case-sensitive 1, any case 2; the other case stands at [(3, 'Information Thermodynamics')]
+  'Information Thermodynamics': case-sensitive 1, any case 2; the other case stands at [(3, 'information thermodynamics')]
+  'advance': case-sensitive 1, any case 3; the other case stands at [(23, 'Advance'), (27, 'Advance')]
+  'trauma': case-sensitive 3, any case 4; the other case stands at [(16, 'Trauma')]
+  'coherence': case-sensitive 2, any case 3; the other case stands at [(3, 'Coherence')]
+  'climax': case-sensitive 3, any case 4; the other case stands at [(37, 'Climax')]
+  'Persistence': case-sensitive 1, any case 2; the other case stands at [(13, 'persistence')]
+  'multiplicity': case-sensitive 2, any case 4; the other case stands at [(11, 'Multiplicity'), (17, 'Multiplicity')]
+  'dual-storyform': case-sensitive 1, any case 2; the other case stands at [(19, 'Dual-Storyform')]
+  'orbifold construction': case-sensitive 1, any case 2; the other case stands at [(21, 'Orbifold Construction')]
+  'Required': case-sensitive 1, any case 2; the other case stands at [(29, 'required')]
+  'Verified': case-sensitive 1, any case 2; the other case stands at [(40, 'verified')]
+  'Orbifold Construction': case-sensitive 1, any case 2; the other case stands at [(20, 'orbifold construction')]
+  'Paraconsistent Logic': case-sensitive 1, any case 2; the other case stands at [(40, 'paraconsistent logic')]
+  'cracks': case-sensitive 2, any case 3; the other case stands at [(26, 'Cracks')]
+  'Tarskian Meta-language': case-sensitive 1, any case 2; the other case stands at [(29, 'Tarskian meta-language')]
+  'reader': case-sensitive 3, any case 5; the other case stands at [(30, 'Reader'), (31, 'Reader')]
+  'kernel': case-sensitive 1, any case 3; the other case stands at [(3, 'Kernel'), (3, 'Kernel')]
+  'Silence': case-sensitive 1, any case 2; the other case stands at [(40, 'silence')]
+  'erasure': case-sensitive 5, any case 7; the other case stands at [(3, 'Erasure'), (6, 'Erasure')]
+  'paraconsistent logic': case-sensitive 1, any case 2; the other case stands at [(23, 'Paraconsistent Logic')]
+  'Tarskian meta-language': case-sensitive 1, any case 2; the other case stands at [(28, 'Tarskian Meta-language')]
+  'meta-language': case-sensitive 2, any case 3; the other case stands at [(28, 'Meta-language')]
+
+==============================================================================
+G. Evidence for the census's statements about the tools and the export
+What read.py --find refuses and why, the count mark for K\_1 that quotes.py reports wrong, and what census.py's
+draft does with the six rows that hold an escaped underscore. The scratch files live in the session's scratchpad.
+==============================================================================
+
+$ python3 - <<'EOF'
+import sys
+sys.path.insert(0, 'scripts')
+import quotes
+for w in ['K\\_1', 'K_1', 'Lex', 'Nyx', 'Lia', 'VOA', 'Kiko', 'Kael', 'the Coherence Kernel ( $K\\_1$ )']:
+    print(f'{w!r:40} normalised {quotes.normalise(w)!r:36} fragments compared {quotes.parts_of(w)}')
+print('the line of quotes.parts_of that drops the short fragments:')
+import inspect
+print(inspect.getsource(quotes.parts_of).splitlines()[-1].strip())
+print('the footnote rule quotes.GLUED_REF, which normalise() applies to both sides:')
+print(quotes.GLUED_REF.pattern)
+print('the line of quotes.check_marks that undoes the escape before it counts:')
+print([l.strip() for l in inspect.getsource(quotes.check_marks).splitlines() if 'ESCAPE.sub' in l][0])
+print('the line of read.py that counts the words as typed:')
+import read
+print([l.strip() for l in inspect.getsource(read.main).splitlines() if 'count_words' in l][0])
+EOF
+'K\\_1'                                  normalised 'K'                                  fragments compared []
+'K_1'                                    normalised 'K'                                  fragments compared []
+'Lex'                                    normalised 'Lex'                                fragments compared []
+'Nyx'                                    normalised 'Nyx'                                fragments compared []
+'Lia'                                    normalised 'Lia'                                fragments compared []
+'VOA'                                    normalised 'VOA'                                fragments compared []
+'Kiko'                                   normalised 'Kiko'                               fragments compared ['Kiko']
+'Kael'                                   normalised 'Kael'                               fragments compared ['Kael']
+'the Coherence Kernel ( $K\\_1$ )'       normalised 'the Coherence Kernel ( $K1$ )'      fragments compared ['the Coherence Kernel ( $K1$ )']
+the line of quotes.parts_of that drops the short fragments:
+return [p.strip(" ,;:.") for p in pieces if len(p.strip(" ,;:.")) >= 4]
+the footnote rule quotes.GLUED_REF, which normalise() applies to both sides:
+(?<=[A-Za-zäöüßÄÖÜ)\"]) ?\d{1,2}(?=[\s,.;:)]|$)|(?<=[a-zäöüß]\.)\d{1,2}(?= |$)
+the line of quotes.check_marks that undoes the escape before it counts:
+words = ESCAPE.sub(r"\1", m.group("code") or m.group("quote")).strip()
+the line of read.py that counts the words as typed:
+word, folded, inside = quotes.count_words(doc.slug, words)
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'physics of information.The overarching thesis'
+^[L3]  1. Strategic Executive Summary: The Architecture of Verification This audit establishes the definitive structu…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'K\_1'
+NOT IN THIS DOCUMENT, on any single line. Nearest:
+  L1  100% in common  ### Technical Audit & Research Mandate: The Kohärenz-Protokoll Framework
+  L3  100% in common  1. Strategic Executive Summary: The Architecture of Verification This audit establishes the definitive structu…
+  L5  100% in common  - Research Mandate - DKT:
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find K_1
+NOT IN THIS DOCUMENT, on any single line. Nearest:
+  L1  100% in common  ### Technical Audit & Research Mandate: The Kohärenz-Protokoll Framework
+  L3  100% in common  1. Strategic Executive Summary: The Architecture of Verification This audit establishes the definitive structu…
+  L5  100% in common  - Research Mandate - DKT:
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'the Coherence Kernel ( $K\_1$ )'
+^[L3]  1. Strategic Executive Summary: The Architecture of Verification This audit establishes the definitive structu…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find Lex
+NOT IN THIS DOCUMENT, on any single line. Nearest:
+  L12  100% in common  - Module Identification: The alters— Lex, Nyx, Kiko, and Lia —must be treated as discrete functional modules. …
+  L38  100% in common  - Vortex Inversion Mechanics: When Kael drops the amnesic barriers between Lex, Nyx, Kiko, and Lia, he becomes…
+  L13  67% in common  - The Truth-Rotation: Architectural Mandate: Explicitly rotate the alignment. AEGIS’s "coherence" is the true …
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Lex, Nyx, Kiko, and Lia'
+^[L12]  - Module Identification: The alters— Lex, Nyx, Kiko, and Lia —must be treated as discrete functional modules. …
+^[L38]  - Vortex Inversion Mechanics: When Kael drops the amnesic barriers between Lex, Nyx, Kiko, and Lia, he becomes…
+
+2 lines carry these words. The citation is a claim about which
+one the reading came from — pick it, do not take the first.
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find VOA
+NOT IN THIS DOCUMENT, on any single line. Nearest:
+  L20  100% in common  - The Moonshine-Link: Verify the VOA construction over the Leech Lattice (rank) . Juna’s ability to observe er…
+  L21  100% in common  - Juna’s Positioning: Juna is a "living Gödel-sentence." Her 5th position outside the Dramatica quad is a func…
+  L1  33% in common  ### Technical Audit & Research Mandate: The Kohärenz-Protokoll Framework
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'Verify the VOA construction'
+^[L20]  - The Moonshine-Link: Verify the VOA construction over the Leech Lattice (rank) . Juna’s ability to observe er…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find '39 fragmented chapters'
+NOT IN THIS DOCUMENT, on any single line. Nearest:
+  L31  91% in common  - The Reader Function: Following Iserian phenomenology, the reader’s cognitive effort in resolving fragmented …
+  L40  32% in common  - The Autobiographical Anchor: The "Silence" of the foundational phone call must be treated as a high-density …
+  L3  18% in common  1. Strategic Executive Summary: The Architecture of Verification This audit establishes the definitive structu…
+
+$ python3 scripts/read.py technical-audit-research-mandate-the-kohaerenz-protokoll-fra --find 'resolving 39 fragmented chapters'
+^[L31]  - The Reader Function: Following Iserian phenomenology, the reader’s cognitive effort in resolving fragmented …
+
+$ cat > /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/marktest.md <<'EOF'
+---
+source: Sources/drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md
+---
+Test marks. `K\_1` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#8] and `K\_0` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#6] and `K_1` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0] and `K1` ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#0].
+EOF
+python3 scripts/quotes.py /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/marktest.md
+UNRESOLVED  /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/marktest.md  ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#8]
+            „K_1…"
+            the count is 0, not 8
+UNRESOLVED  /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/marktest.md  ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#6]
+            „K_0…"
+            the count is 0, not 6
+
+A bare ^[Lnn] resolves against the file's own `source:`.
+0 cited quotes checked, 2 unresolved; 0 quotes had no citation on their own line, or none naming a document that could be resolved, and were not checked; 4 count marks checked, 2 wrong; 0 absence phrases carry no mark.
+
+$ python3 - <<'EOF'
+import sys
+sys.path.insert(0, 'scripts')
+import census
+txt = census.draft('technical-audit-research-mandate-the-kohaerenz-protokoll-fra')
+open('/tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/census-draft-scratch.md', 'w', encoding='utf-8').write(txt)
+print('census.draft() wrote', len(txt), 'characters to the scratchpad, nothing under Sources/ or Plan/')
+print('lines that open a census title in that draft:', txt.count(chr(10) + '# Term census'))
+EOF
+python3 scripts/quotes.py /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/census-draft-scratch.md
+census.draft() wrote 27752 characters to the scratchpad, nothing under Sources/ or Plan/
+lines that open a census title in that draft: 2
+UNRESOLVED  /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/census-draft-scratch.md  ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+            „Coherence Kernel ( $K_1$ )…"
+            the count is 0, not 1
+UNRESOLVED  /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/census-draft-scratch.md  ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#8]
+            „K_1…"
+            the count is 0, not 8
+UNRESOLVED  /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/census-draft-scratch.md  ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+            „Erasure Kernel ( $K_0$ )…"
+            the count is 0, not 1
+UNRESOLVED  /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/census-draft-scratch.md  ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#6]
+            „K_0…"
+            the count is 0, not 6
+UNRESOLVED  /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/census-draft-scratch.md  ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+            „"Kollaps-Kern" ( $K_0$ )…"
+            the count is 0, not 1
+UNRESOLVED  /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/census-draft-scratch.md  ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:#1]
+            „W \\geq k_B T \\ln 2…"
+            the count is 0, not 1
+
+A bare ^[Lnn] resolves against the file's own `source:`.
+0 cited quotes checked, 6 unresolved; 0 quotes had no citation on their own line, or none naming a document that could be resolved, and were not checked; 216 count marks checked, 6 wrong; 0 absence phrases carry no mark.
+
+==============================================================================
+H. The checks that close the run
+quotes.py over the census and the note, and every cited quotation of both asked of read.py --find.
+==============================================================================
+
+$ python3 scripts/quotes.py Sources/terms/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md
+
+A bare ^[Lnn] resolves against the file's own `source:`.
+49 cited quotes checked, 0 unresolved; 0 quotes had no citation on their own line, or none naming a document that could be resolved, and were not checked; 94 count marks checked, 0 wrong; 0 absence phrases carry no mark.
+
+$ python3 scripts/quotes.py Sources/notes/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md
+
+A bare ^[Lnn] resolves against the file's own `source:`.
+118 cited quotes checked, 0 unresolved; 0 quotes had no citation on their own line, or none naming a document that could be resolved, and were not checked; 61 count marks checked, 0 wrong; 0 absence phrases carry no mark.
+
+$ python3 /tmp/claude-0/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/scratchpad/find_all.py
+Sources/terms: 49 cited quotations asked of read.py --find
+Sources/notes: 118 cited quotations asked of read.py --find
+total 167, mismatches 0

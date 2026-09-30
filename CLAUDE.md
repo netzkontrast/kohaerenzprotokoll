@@ -126,9 +126,9 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**53 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **53
+**54 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **54
 <!--state:documents.with_note--> have a note** in `Sources/notes/`, and **51
-<!--state:documents.reconciled--> are reconciled** — the two others are the first
+<!--state:documents.reconciled--> are reconciled** — the three others are the first
 extractions of step 6's sample, waiting for their reconciliation (see `NOW.md`).
 Of the reconciled, five are `theorie-physik`,
 five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten
@@ -160,7 +160,7 @@ about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
 **`python3 scripts/account.py order` does not hold** — `false`
-<!--state:order.holds-->, and says so with exit status 1. The two step-6 documents
+<!--state:order.holds-->, and says so with exit status 1. The three step-6 documents
 above have a census and a note and no reconciliation. It holds again when every
 document with a census has a note and a reconciliation, each ran against the
 state the previous one left, and the wiki matches what the newest run recorded

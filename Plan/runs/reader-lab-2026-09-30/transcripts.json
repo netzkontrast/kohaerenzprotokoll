@@ -1,6 +1,6 @@
 [
  {
-  "slug": "agent-a86f38436017d205f.jsonl",
+  "slug": "Pilot reader G1: figures",
   "agent": "a86f38436017d205f",
   "chars_per_token": 2.05,
   "context_growth": 141346,
@@ -56,7 +56,7 @@
   "minutes": 6.7
  },
  {
-  "slug": "agent-abc6954bbec339224.jsonl",
+  "slug": "Pilot reader G2: worlds and physics",
   "agent": "abc6954bbec339224",
   "chars_per_token": 2.07,
   "context_growth": 184628,
@@ -113,7 +113,7 @@
   "minutes": 7.5
  },
  {
-  "slug": "agent-a16eba43b76699a2d.jsonl",
+  "slug": "Pilot reader G3: concepts and chapters",
   "agent": "a16eba43b76699a2d",
   "chars_per_token": 2.03,
   "context_growth": 122871,
@@ -169,7 +169,7 @@
   "minutes": 4.4
  },
  {
-  "slug": "agent-a6fa0fbfe022cf2ca.jsonl",
+  "slug": "Pilot reader G4: records",
   "agent": "a6fa0fbfe022cf2ca",
   "chars_per_token": 2.07,
   "context_growth": 150121,
@@ -1530,5 +1530,94 @@
   "role": "document-reader",
   "description": "Read: aegis-persona-and-manifest-generation",
   "minutes": 30.0
+ },
+ {
+  "slug": "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+  "agent": "af6db6b1ead97b89f",
+  "chars_per_token": 2.14,
+  "context_growth": 476681,
+  "unseen_tokens": 196016,
+  "unseen_share": 0.41,
+  "agent_type": "document-reader",
+  "wrote_chars": 184056,
+  "start": "2026-09-30T10:44:04.117Z",
+  "end": "2026-09-30T11:37:49.572Z",
+  "calls": 111,
+  "tokens": {
+   "input": 222,
+   "cache_write": 506443,
+   "cache_read": 34575572,
+   "output": 748
+  },
+  "cost": 4094572.95,
+  "peak_context": 506445,
+  "tools": {
+   "Read": 6,
+   "Glob": 1,
+   "Bash": 106,
+   "Write": 7,
+   "Edit": 6,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 16,
+   "profile.py": 4,
+   "quotes.py": 26,
+   "runlog.py": 8,
+   "account.py": 2,
+   "state.py": 1,
+   "subject.py": 1,
+   "reconcile.py": 2,
+   "census.py": 4,
+   "digest.py": 1,
+   "capture.py": 2
+  },
+  "reads": {
+   ".agents/skills/ingest/SKILL.md": 1,
+   "Plan/briefings/extract.md": 1,
+   ".agents/skills/ingest/references/german.md": 1,
+   ".agents/skills/ingest/references/artifacts.md": 1,
+   "Plan/runs/technical-audit-research-mandate-the-kohaerenz-protokoll-fra/partial-2026-09-29/terms.md": 1,
+   "Plan/runs/technical-audit-research-mandate-the-kohaerenz-protokoll-fra/partial-2026-09-29/notes.md": 1
+  },
+  "result_chars": {
+   "Read": 94673,
+   "Glob": 88,
+   "Bash": 328340,
+   "Write": 1450,
+   "Edit": 1288,
+   "SubagentHandback": 61
+  },
+  "errors": 2,
+  "phases": {
+   "setup": {
+    "input": 30,
+    "cache_write": 122458,
+    "cache_read": 1207022,
+    "output": 114,
+    "calls": 15,
+    "cost": 274374.7
+   },
+   "census": {
+    "input": 156,
+    "cache_write": 338248,
+    "cache_read": 24727816,
+    "output": 514,
+    "calls": 78,
+    "cost": 2898317.6
+   },
+   "after-note": {
+    "input": 36,
+    "cache_write": 45737,
+    "cache_read": 8640734,
+    "output": 120,
+    "calls": 18,
+    "cost": 921880.65
+   }
+  },
+  "ended": "I'll start with the skill's rules and the briefing, then the document.",
+  "role": "document-reader",
+  "description": "R1: finish technical-audit extraction",
+  "minutes": 53.8
  }
 ]
