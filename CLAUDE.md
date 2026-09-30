@@ -581,7 +581,7 @@ never filtered by the grade, which was shown not to predict a right row. A contr
 (`Plan/runs/hyperextract-templates-2026-09-30/labels.jsonl`, by the working session, none by the author), and no
 contract is run across the corpus until the author says which and on what — a contract costs about $7.3 a megabyte, so
 $190 for the corpus (the first estimate, $63, was wrong: the ledgers, summed, said so). Where the contracts have read the
-documents that hold the bench's gold, the `he-lines` finder adds to an `ask` pack (+0.029 document recall, off by default).
+documents that hold the bench's gold, the `he-lines` finder adds to an `ask` pack (+0.029 document recall, off by default); five more of those documents, read by a backfill stopped at 14 of 137 runs on the author's question whether it was useful, left it there (decision 019): the finder's 40 lines and its seeds limit it, not coverage.
 
 ### A mechanised rule stays checkable
 

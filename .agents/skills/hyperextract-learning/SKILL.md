@@ -183,3 +183,11 @@ Each rule below is enforced in code, because a prompt rule a Haiku reader ignore
 8. **A pilot's precision is optimistic, so label again on the documents that will be run.** The three contracts of
    the scaled pass were 80 % `ok` on the pilot's 35 rows and 58 % on 36 rows drawn by hash from the twelve documents
    of the bench (none `wrong`; the drop is `ok` becoming `part`, and the defect is the slot, not the line).
+9. **Coverage is not what limits a finder that spends a fixed number of lines — measure the next pass's first slice before
+   paying for the rest.** After the scaled pass the `he-lines` finder added +0.029 document recall; a backfill then read five
+   more documents that hold the bench's gold ($11.44, 14 runs, gold lines in read documents from 46 % to 57 %) and it added
+   +0.029 again, the same seven cases. New documents' lines replaced old ones in the finder's 40; 182 of the gold-document slots
+   the pack still missed were in documents a contract had read. Run `reach.py` and `ceiling.py`
+   (`Plan/runs/hyperextract-backfill-2026-09-30/`) on the first slice, and stop when the bench does not move (decision 019).
+   Order a pass by gold reached per dollar, not by gold count: the plan's order put a 372 KB document first, $0.35 a gold line
+   where the other four cost $0.055.

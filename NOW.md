@@ -578,8 +578,8 @@ Six questions, none waited on:
    for questions and conflicts only, keep it off, or wait for more labelled cases? The note's §5.2b has both sets.
 2. **A contract pass.** About $190 a contract for the whole corpus, $66 for the plot outlines, $26 for the concept documents (§4.5). **Answered in part,
    2026-09-30, for the documents already read:** „Use Haiku agents to Backpoet hyperextract for all allready Read sources“ — the three contracts of the
-   scaled pass (`TermDefinitions`, `TermContrasts`, `CausalLinks`) are running, one at a time and gold first, on the 46 read documents that lacked them
-   (2.54 MB, about $56 and six and a half hours; `Plan/runs/hyperextract-backfill-2026-09-30/`, `backfill.py status`). Still the author's: which contracts on
+   scaled pass (`TermDefinitions`, `TermContrasts`, `CausalLinks`) ran, one at a time and gold first, on five of the 46 read documents that lacked them ($11.44)
+   and were stopped there, on the author's question whether it was useful: they left `he-lines` where it was (decision 019, note §6.5). Still the author's: which contracts on
    the 528 documents nobody has read, and whether the structure contracts (`ChapterBeats`, `CardFields`, …, 86–100 % right) run on the read plot outlines
    and character documents. The note's §7 proposes an order.
 3. **Who labels.** The precision of every contract rests on one reader's labels, the model family that wrote the contracts. Five hundred from the author
@@ -593,16 +593,7 @@ Six questions, none waited on:
    Index (7), the Drama-Engine (5), JANUS (3), Story Flip (1) have no page: the wiki's pages are the novel's world, and these belong to the engine the
    sources also discuss. Should the wiki hold it? Nothing is promoted until the author says.
 
-**The backfill is half-done while this is read** (started 2026-09-30 19:00 UTC on the branch `claude/elegant-ramanujan-onfl2w`, whose pull requests [#126](https://github.com/netzkontrast/kohaerenzprotokoll/pull/126) and
-[#129](https://github.com/netzkontrast/kohaerenzprotokoll/pull/129) the author merged while the pass ran; each time one is merged, main is merged into the branch and a new pull request
-carries the batches after it — [#130](https://github.com/netzkontrast/kohaerenzprotokoll/pull/130) when this was written). `python3 Plan/runs/hyperextract-backfill-2026-09-30/backfill.py status` says how far it is. **If no driver is
-running and runs are left** (`ps -eo cmd | grep "[b]ackfill.py run"` is empty — a restarted or reclaimed container takes the driver with it: it happened once,
-at 20:16 UTC, and the finished runs were still on disk), resume it with what is left of the $90: `setsid nohup python3
-Plan/runs/hyperextract-backfill-2026-09-30/backfill.py run --budget <90 minus what status says is spent> >> Plan/runs/hyperextract-backfill-2026-09-30/stdout.txt 2>&1 < /dev/null &` — it skips what is done,
-runs one at a time (the author's „achte auf mein Nutzungslimit - starte diese nicht parallel“) and stops after three runs in a row that failed wholly, at $90,
-or when a `STOP` file appears. `sh Plan/runs/hyperextract-backfill-2026-09-30/commit_batch.sh "<what finished>"` commits the finished runs and pushes. **When
-`status` says nothing is left:** `sh Plan/runs/hyperextract-backfill-2026-09-30/measure.sh` rebuilds the store and measures `he-lines` with every gold
-document read, then the note's §6.5, this question and the pull request are written from its files. No row of the backfill has been labelled yet.
+**The backfill was stopped after 14 of its 137 runs, on the author's question „Is the backfill usefull? If not - stop it“ (2026-09-30, decision 019).** Five more of the documents that hold the bench's gold had been read — $11.44, 77 minutes — and `he-lines` at 40 lines stayed at +0.029 document recall, the same seven cases up; the finder's 40 lines and its seeds, not the pass's coverage, are what limit it (note §6.5; `Plan/runs/hyperextract-backfill-2026-09-30/`: `reach.py`, `ceiling.py`, `ask-finders/*-interim14.*`). The 14 runs stay as staged proposals; a committed `STOP` file keeps the driver from starting (`backfill.py status` says so) and nothing is scheduled to restart it. **To resume** — only if the author wants the pass, or a finder that spends its lines better makes coverage the limit — delete `Plan/runs/hyperextract-backfill-2026-09-30/STOP` and run `setsid nohup python3 Plan/runs/hyperextract-backfill-2026-09-30/backfill.py run --budget <90 minus what status says is spent> >> Plan/runs/hyperextract-backfill-2026-09-30/stdout.txt 2>&1 < /dev/null &`; `commit_batch.sh` commits the finished runs, `measure.sh` measures the whole. The runs went out on the branch `claude/elegant-ramanujan-onfl2w` with [#126](https://github.com/netzkontrast/kohaerenzprotokoll/pull/126) and [#129](https://github.com/netzkontrast/kohaerenzprotokoll/pull/129), which the author merged while the pass ran, and [#130](https://github.com/netzkontrast/kohaerenzprotokoll/pull/130). No row of the backfill has been labelled (`sample.py` draws them).
 
 ## Open decisions — these are judgement, not measurement
 

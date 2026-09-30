@@ -28,6 +28,7 @@ decision files are missing from it or listed here without existing, and
 | `016-decision-sheets-worked-in-rounds.md` | 2026-09-30 | Decision sheets are cross-read first and put to the author in rounds: `PROVISIONAL` with `ALT` when unanswered, one decision file per round, a front-matter head on each sheet, a script only after round 1 |
 | `017-ask-answers-are-sources.md` | 2026-09-30 | `ask` answers are logged and treated like sources (`Sources/ask/`, tier `M-ask`); OpenRouter free models and Jules may answer, as trials first |
 | `018-remaining-questions-by-delegation.md` | 2026-09-30 | The open process questions answered by the session on the author's delegation: W12/W15 sheets via `ask` first, W7 cuts the cycle, claude-cli/Sonnet default, GraphQLite only for `ask` and the sheets until a parity bench |
+| `019-the-hyperextract-backfill-stopped.md` | 2026-09-30 | The HyperExtract backfill is stopped after 14 of 137 runs: five more gold-heavy documents read moved `he-lines` by nothing (+0.029 before and after), coverage is not what limits the finder — a committed `STOP` keeps it stopped |
 
 A decision the author still has to make is not here: it is a question under
 `NOW.md`, *Questions for the author*, until it is answered.

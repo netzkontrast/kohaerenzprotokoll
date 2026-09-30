@@ -1,0 +1,21 @@
+== start 20:53:21
+done under the backfill's approval: 14 runs, 956 calls (12 failed), 77 min, $11.44; rows 2191 on names, 297 on the quotation, 346 refused; 0 runs failed wholly
+left: 123 runs over 42 documents
+{"content_hash":"44310b3c11271087046a3ffa8b2e1297f12c811e1b1be2f685b233a25b80f646","core_edges":4599,"core_nodes":187,"edges":570604,"evidence":9435,"input_hash":"8cc25a90c2b275608db2a26cc48694c079ce6c170de4be01e31cbacf2dd3daef","labels":{"Chapter":41,"Conflict":15,"Contract":23,"Doc":586,"Entity":302,"Evidence":9435,"Hyperedge":3237,"Line":125620,"Paragraph":62932,"Question":9,"Section":10786,"Sheet":17,"Term":106,"Url":4865},"lines":125620,"nodes":217974,"quotes":9435,"stated_types":["ASKS","CITED_FROM","CITES","CONCERNS","CONTESTS","DEPENDS_ON","HAS_EVIDENCE","HAS_LINE","HAS_PARAGRAPH","HAS_SECTION","LINKS","LINKS_URL","MENTIONS","NAMES","NAMES_CHAPTER","NEXT","RAISED_BY","READS","SUB"],"status":"unchanged","storage_hash":"a17ef87698b457343dd52100ca1a2d5d1db5699db3fac9554a251da88e60823a","types":{"ASKS":209,"CITED_FROM":9435,"CITES":1805,"CONCERNS":4,"CONTESTS":43,"DEPENDS_ON":40,"HAS_EVIDENCE":9435,"HAS_LINE":125620,"HAS_PARAGRAPH":62932,"HAS_SECTION":723,"LINKS":679,"LINKS_URL":16334,"MENTIONS":75964,"NAMES":108,"NAMES_CHAPTER":4435,"NEXT":125034,"P_BM25":94,"P_COMENTION":1348,"P_HE_ALIAS":50,"P_HE_ANALOGY":17,"P_HE_ANCHOR":68,"P_HE_BEAT":89,"P_HE_BEFORE":7,"P_HE_CARD":44,"P_HE_CAUSAL":1747,"P_HE_CHAPTER":103,"P_HE_CONTRAST":2606,"P_HE_DEFINES":2039,"P_HE_DIEGETIC":11,"P_HE_FACT":70,"P_HE_KNOWS":18,"P_HE_OPEN":3,"P_HE_PROSERULE":51,"P_HE_READING":59,"P_HE_ROLE":61,"P_HE_RULE":24,"P_HE_STORYPOINT":38,"P_HE_STRUCT":83,"P_HE_TAXON":12,"P_HE_THEME":12,"P_HE_UTTERANCE":47,"P_MEMBER":9625,"P_NAMED_IN":15354,"P_NAMES":91617,"RAISED_BY":53,"READS":2391,"SUB":10063},"verified":9435,"version":2}
+== default 20:53:22
+24 cases: document recall 0.301, line recall 0.1
+== he-lines-10 20:54:30
+24 cases: document recall 0.31, line recall 0.101
+== he-lines-20 20:56:03
+24 cases: document recall 0.317, line recall 0.104
+== he-lines-40 20:57:39
+24 cases: document recall 0.33, line recall 0.108
+== he-lines-80 20:59:18
+24 cases: document recall 0.322, line recall 0.106
+== paired 21:01:03
+default-interim14            doc 0.301 (+0.000 [+0.000, +0.000], 0 up / 0 down)   line 0.100 (+0.000 [+0.000, +0.000])
+he-lines-10-interim14        doc 0.310 (+0.009 [+0.003, +0.018], 4 up / 0 down)   line 0.101 (+0.001 [+0.000, +0.003])
+he-lines-20-interim14        doc 0.317 (+0.016 [+0.006, +0.028], 6 up / 0 down)   line 0.104 (+0.004 [+0.001, +0.007])
+he-lines-40-interim14        doc 0.330 (+0.029 [+0.012, +0.048], 7 up / 0 down)   line 0.108 (+0.008 [+0.002, +0.015])
+he-lines-80-interim14        doc 0.322 (+0.021 [-0.016, +0.058], 9 up / 2 down)   line 0.106 (+0.006 [-0.009, +0.022])
+== done 21:01:03

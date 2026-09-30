@@ -12,7 +12,7 @@ with its calls and its cost, so that the catalogue and `hegraph.py report` read 
     python3 Plan/runs/hyperextract-backfill-2026-09-30/backfill.py plan        # what would run, and the estimate
     python3 Plan/runs/hyperextract-backfill-2026-09-30/backfill.py run [--budget USD] [--limit N]
     python3 Plan/runs/hyperextract-backfill-2026-09-30/backfill.py status      # what is done, what it cost
-    touch Plan/runs/hyperextract-backfill-2026-09-30/STOP                      # stop after the run in progress
+    touch Plan/runs/hyperextract-backfill-2026-09-30/STOP                      # stop after the run in progress; `status` says so while it exists
 
 **Resumable**: a (document, contract) whose `usage.json` exists is done and is skipped, so a stopped or killed pass
 continues where it was. **Ordered by the gold**: the documents that hold the most lines of the conflict and question
@@ -122,6 +122,8 @@ def totals() -> dict:
 def cmd_status() -> int:
     t = totals()
     todo = plan()
+    if STOP.exists():
+        print("STOPPED on purpose:", (STOP.read_text(encoding="utf-8").splitlines() or ["(no reason written in STOP)"])[0])
     print(f"done under the backfill's approval: {t['runs']} runs, {t['calls']} calls ({t['failed_calls']} failed), "
           f"{t['seconds'] / 60:.0f} min, ${t['cost']:.2f}; rows {t['names']} on names, {t['quote']} on the quotation, {t['refused']} refused; "
           f"{t['failed_runs']} runs failed wholly")
