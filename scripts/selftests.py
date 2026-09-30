@@ -67,6 +67,7 @@ SUITES = [
     ("digest: what a reader needs of a page", "std", ["scripts/digest.py", "selftest"]),
     ("readings: placed by code, refused, in order", "std", ["scripts/readings.py", "selftest"]),
     ("census: drafted by code, checked", "std", ["scripts/census.py", "selftest"]),
+    ("record: derived from the pages, checked", "std", ["scripts/record.py", "selftest"]),
     ("reader lab: the clean reader's gate", "std",
      ["Plan/runs/reader-lab-2026-09-30/clean_reader.py", "selftest"]),
     ("qmd coverage patterns", "std", ["scripts/qmd_coverage.py", "--selftest"]),

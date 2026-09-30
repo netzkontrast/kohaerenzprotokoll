@@ -278,6 +278,9 @@ def classify(slug: str, index: dict) -> dict:
         "by": "scripts/reconcile.py",
         "index_built": index["built"],
         "state": {"pages": index["pages"], "conflicts": index["conflicts"]},
+        # The pages the lookup ran against, so `record.py` can name the ones this
+        # reconciliation created exactly, rather than guess from a page's frontmatter.
+        "pages_at_lookup": sorted(index["terms"]),
         "candidates": len(candidates),
         "decisions": total,
         "same_surface": same,
