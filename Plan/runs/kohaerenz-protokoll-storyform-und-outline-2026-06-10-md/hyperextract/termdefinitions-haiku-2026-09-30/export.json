@@ -1,0 +1,490 @@
+{
+  "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Liebe",
+        "quote": "Liebe ist Coheron; Coheronen sind atemporal; Zerstörung braucht Zeit; also kann Liebe nicht zerstört, nur verdrängt werden; Verdrängung erzeugt Hitze.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)",
+        "stance": "asserts"
+      },
+      {
+        "term": "das „Nichts-Rauschen“",
+        "quote": "das „Nichts-Rauschen“, das AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information (= Liebe als Naturgesetz).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Schmerz und Liebe als derselbe Pulsschlag, von Anfang an als Substrat präsent",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tragische Unschuldsstruktur",
+        "quote": "AEGIS = unschuldig im Bösen (verwaltet, bedroht nicht), nie Bösewicht",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tragische Unschuldsstruktur",
+        "quote": "Juna = kosmologische Konstante, nie „Liebes-Interesse“",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tragische Unschuldsstruktur",
+        "quote": "Kael = fragmentierte Subjektivität auf dem Weg zur pluralen Re-Integration, nie „Held“",
+        "stance": "asserts"
+      },
+      {
+        "term": "Schleier-Disziplin",
+        "quote": "Multiplizität wird im Roman nicht ausgesprochen bis ~Kap 10; vor Kap 13 keine Klartext-Diagnose (kein „Alters“, kein „DID“)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo-Disziplin",
+        "quote": "Jede KW-Manipulation, jede Wir-Stimme, jede Juna-Resonanz, jede Trauma-Wiederholung trägt Genesis-Echo — aber max. 1 Echo pro Szene",
+        "stance": "asserts"
+      },
+      {
+        "term": "Hitze-Polaritätsregel",
+        "quote": "Kaltes Ozon = AEGIS-Unterdrückung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Hitze-Polaritätsregel",
+        "quote": "Wärme = Junas ununterdrückbare Spur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Doppellesbares Finale",
+        "quote": "Kap 40 lässt beide Lesarten zu — Konflikt-Leser sehen im Flip (Truth-Rotation) einen Reset; Kishōtenketsu-Leser (ketsu = Synthese) lesen Transfiguration.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Modus",
+        "quote": "Erzählhaltung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform-Status",
+        "quote": "Storypoint-Verteilung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bridge-Frequenz",
+        "quote": "Soft-Layering-Anteil",
+        "stance": "asserts"
+      },
+      {
+        "term": "Modus",
+        "quote": "Modus (Erzählhaltung)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform-Status",
+        "quote": "Storyform-Status (Storypoint-Verteilung)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bridge-Frequenz",
+        "quote": "Bridge-Frequenz (Soft-Layering-Anteil)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Modus-Wechsel",
+        "quote": "Modus-Wechsel (beide Storyforms laufen weiter; Storypoints werden moduliert, nicht neu gesetzt)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform-Wendung",
+        "quote": "die echte Storyform-Wendung (B beginnt zu erlöschen; Vortex)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform-Konsolidierung",
+        "quote": "Storyform-Konsolidierung (nur noch A aktiv; Resolution)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Klammer",
+        "quote": "Kap 0 ↔ Kap 40 (Erzähler-/ontologische Außen-Klammer).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex-Klammer",
+        "quote": "Vortex 1 (orthodoxer Klimax) ↔ Vortex 2 (post-orthodoxe Synthese).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Innere Ouroboros-Klammer",
+        "quote": "Kap 1 ↔ Kap 39 (Erstsatz-Lock 2026-05-30): erster Satz = letzter Satz, den Kael schreibt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dual-Storyform (A‖B)",
+        "quote": "Zwei vollständige, simultane Storyforms im selben Werk sind bewusst heterodox (post-Dramatica-Innovation)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Per-Chapter-Dual-POV-Architektur",
+        "quote": "Storypoint-Vorrang pro Szene → Per-Chapter-Dual-POV-Architektur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zwei Uhren",
+        "quote": "Leser erlebt B-Timelock äußerlich (AEGIS-Erasure-Countdown), A-Optionlock innerlich (Erschöpfung der Integrationsoptionen).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Synthese (c)",
+        "quote": "ab Vortex 2 entsteht Synthese (c), die das Klein-c-Schema verlässt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Liebe",
+        "quote": "Liebe ist die ultimative kohärente Struktur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Trauma",
+        "quote": "Trauma wird durch Integration funktionaler Multiplizität bewältigt, wenn der Träger den Avoidance-Modus loslässt und die eigene Erinnerung aktiv aufsucht",
+        "stance": "asserts"
+      },
+      {
+        "term": "Driver-Pivot mechanisch",
+        "quote": "Der Pivot ist eine *Entscheidung*, die alle vorherigen Aktionen rückwirkend in Decisions transformiert",
+        "stance": "asserts"
+      },
+      {
+        "term": "POV-Architektur",
+        "quote": "Hybrid (Option 3) — Default Hard-Routing per POV, plus designierte Bridge-Szenen mit Soft-Layering.",
+        "stance": "asserts"
+      },
+      {
+        "term": "POV-Regel",
+        "quote": "Alle 13 Alter sprechen in 1. Person. AEGIS und die zwei Guardians sprechen in 3. Person (Logs/Protokolle, keine subjektive Innensicht).",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1 Konstrukt-Stadt",
+        "quote": "Konstrukt-Stadt (Logos-Prime)",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW2 Mnemosyne-Archipel",
+        "quote": "Mnemosyne-Archipel",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW3 Cerberus-Labyrinth / Überwelt-Nexus",
+        "quote": "Cerberus-Labyrinth / Überwelt-Nexus",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW4 Resonanz-Kontinuum / Möglichkeits-Garten",
+        "quote": "Resonanz-Kontinuum / Möglichkeits-Garten",
+        "stance": "asserts"
+      },
+      {
+        "term": "Überwelt",
+        "quote": "Überwelt (AEGIS' Operationsraum)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Externe Ebene",
+        "quote": "Externe Ebene (Köln 2026 — nie Bühne, nur Erinnerungsfragment, Telefonton, Geruch)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Risse — Phänomenologie (EP-Trigger → Riss-Typ)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Risse sind *für AEGIS* Symptom (Suppression-Versagen)",
+        "stance": "cites"
+      },
+      {
+        "term": "Risse",
+        "quote": "*für den Roman* das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt",
+        "stance": "cites"
+      },
+      {
+        "term": "Resolution",
+        "quote": "Funktionale Multiplizität, niemals Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-AEGIS-plural",
+        "quote": "In Kap 39 wird dieses Wir zur pluralen Bewahrungsform — Wir-AEGIS-plural.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Doppeltes Trauma",
+        "quote": "Schicht 1 = Bindungstrauma Basisrealität Köln (daraus: Kiko, Lia, Isabelle, Moros) · Schicht 2 = Fragmentierungsnacht/Trennungsprotokoll (daraus: Kael, Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion; schicht-übergreifend Selene).",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb — Bewahrung ohne Resonanz-Fähigkeit, tragisch unschuldig.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "kosmologische Konstante / Zeit-Prinzip / Witness-Funktion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "sie *ist*; was sich ändert, ist die Verarbeitungsfähigkeit der Empfänger.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna = die sensorische Anomalie, die die Grammatik der jeweiligen Kernwelt selbst verletzt.",
+        "stance": "cites"
+      },
+      {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille (ruht bis Vortex, eingelöst Kap 39)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Silas",
+        "quote": "Silas (interner Resonanz-Körper).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Witness-Funktion",
+        "quote": "Witness-Funktion (drei Layer, Vortex-1-Zuordnung): Layer 1 Quanten-Verschränkungs-Witness → Beat 4 · Layer 2 Cryptographic ZK-Verifier → Beat 5 · Layer 3 Husserlian Spectator → Beat 3.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist, was AEGIS verhindert, dass es nicht ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erwachen in der Konstrukt-Stadt",
+        "quote": "Illusion der perfekten Welt",
+        "stance": "asserts"
+      },
+      {
+        "term": "eine einzige konkrete Falschheit",
+        "quote": "eine einzige konkrete Falschheit",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "das sterile Setting *ist* die Innere Weite aus Kap 0",
+        "stance": "asserts"
+      },
+      {
+        "term": "Der erste Riss",
+        "quote": "Verrat/Desillusionierung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss",
+        "quote": "Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird sichtbar)",
+        "stance": "hedges"
+      },
+      {
+        "term": "Bunker-Bau",
+        "quote": "Erwachen & Vorbereitung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Autopoiesis",
+        "quote": "Autopoiesis als Selbst-Abschottung",
+        "stance": "hedges"
+      },
+      {
+        "term": "Pforten",
+        "quote": "Prüfungen",
+        "stance": "asserts"
+      },
+      {
+        "term": "Pforten",
+        "quote": "Tests der einseitig-logischen Identität; Zweifel, Scham, logische Grenzen (Gödel-Vorschein).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Auge des Sturms",
+        "quote": "Trügerische Stabilität; ein Scheinerfolg auf nicht-integrierter Basis.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Echos im Fundament",
+        "quote": "„Cache-Konflikt“: die einseitige Logik scheitert an einem komplexen Problem; erste polyphone Einbrüche.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Stimme im Rauschen",
+        "quote": "erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was es ist; Telefon-Stille als Anker.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Wächterin",
+        "quote": "Mitgefühl mit den logischen Anteilen beginnt; erste Wir-Stimme-Andeutung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir",
+        "quote": "Wir-Bildung beginnt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir",
+        "quote": "Erste bewusste innere Kooperation; Foreshadowing-Programm „plurale Bewahrung“ startet (jede Wir-Stimme-Szene ab hier zielt auf Kap 39).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Modus",
+        "quote": "Modus: rekursiv, drei Spiral-Zyklen (Destabilisierung → Reaktion → Korrektur), eskalierend",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zyklen-Mechanik",
+        "quote": "Zyklen-Mechanik:",
+        "stance": "hedges"
+      },
+      {
+        "term": "echte Storyform-Wendung B→A",
+        "quote": "Die echte Storyform-Wendung B→A.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Truth-Rotation",
+        "quote": "Truth-Rotation: AEGIS = K₀ / Kael = K₁ wird sichtbar; die Phänomenologie der Risse bleibt, die Lesart kippt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Duale Uhren",
+        "quote": "Duale Uhren laufen sichtbar",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beat 1 — Convergence",
+        "quote": "AEGIS isoliert Kaels Fragmente; Erasure-Sweep konvergiert auf das Cluster; Sub-Cluster der Alters werden adressiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beat 2 — Pivot (dialetheische Wahl)",
+        "quote": "Kael wechselt B-Linear → A-Holistic; die ANP/EP-Amnesie-Barrieren fallen",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beat 3 — The Silence",
+        "quote": "alle Kinetik endet; Nichts-Rauschen wird absolute Stille; Kael trägt das Trauma ohne Dissoziation",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stille",
+        "quote": "Stille = lebende Dialetheia.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beat 4 — Heat Spike",
+        "quote": "Erasure trifft integriertes, MI-dichtes Ziel; Landauer-Wärme spiked unmöglich",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beat 5 — Rotation",
+        "quote": "AEGIS' operative Closure bricht; Algorithmische Melancholie setzt ein; Truth-Rotation komplett.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klassischer Reward-Beat",
+        "quote": "Klassischer Reward-Beat als falscher Frieden.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "das Wir-Geflecht löst sich aus seiner privaten Form",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir",
+        "quote": "Wir wird kosmisch, plural, bewahrend",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS-monolithisch",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-AEGIS-plural",
+        "quote": "Wir-AEGIS-plural als Erzähl-Stimme",
+        "stance": "asserts"
+      },
+      {
+        "term": "Heldinnenreise innen",
+        "quote": "Heldinnenreise innen (13 Stufen, Kap 1–13)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Heldenreise außen",
+        "quote": "Heldenreise außen (Campbell/Vogler, Kap 27–39)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ordeal",
+        "quote": "35–36 Ordeal = Vortex 1",
+        "stance": "asserts"
+      },
+      {
+        "term": "Road Back",
+        "quote": "38 Road Back (Vortex 2 Kap 1)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resurrection",
+        "quote": "39 Resurrection + Return with the Elixir (plurale Apotheose)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kishōtenketsu",
+        "quote": "Kishōtenketsu (übergeordnete Sinn-Logik)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ki",
+        "quote": "Ki (Einführung) = Kap 0 + früher Akt I",
+        "stance": "asserts"
+      },
+      {
+        "term": "Shō",
+        "quote": "Shō (Entwicklung) = Akt I/II",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ten",
+        "quote": "Ten (Wendung) = Vortex 1+2",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ketsu",
+        "quote": "Ketsu (Synthese, nicht Showdown) = Kap 39/40, ambivalent, ohne Erklärung",
+        "stance": "asserts"
+      },
+      {
+        "term": "DID-Therapie-Phasen",
+        "quote": "DID-Therapie-Phasen (ISSTD) — Hintergrund, nicht strukturierend",
+        "stance": "asserts"
+      },
+      {
+        "term": "13 Meta-Stadien",
+        "quote": "„13 Meta-Stadien“ — nicht im Projektwissen verankert",
+        "stance": "hedges"
+      }
+    ]
+  }
+}

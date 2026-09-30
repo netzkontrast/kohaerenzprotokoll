@@ -1,0 +1,3332 @@
+{
+  "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "input_rows": 140,
+  "candidates": 110,
+  "refused": 30,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:0c7fa7f3c338ec6bc9b18a8465c1805733e7c38342a85ada63c28cd6d46c7f9f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Information",
+        "type": "opposes",
+        "quote": "Ist Liebe Information — oder das, was Information zerstört?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7e5f42552e6b84aa42e01f25e1f757541006984d7492f548c66756b4668a22ae",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "K₁ (Kohärenz)",
+        "target": "K₀ (Entropie)",
+        "type": "contrasts_with",
+        "quote": "AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dac54c8ee88690cc54f332f787a1c9718c3f5fa3d6f7ea7d1a7974ec8cac66d2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Chaos",
+        "target": "atemporale Vereinigung aller mutualen Information (= Liebe als Naturgesetz)",
+        "type": "contrasts_with",
+        "quote": "das „Nichts-Rauschen“, das AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information (= Liebe als Naturgesetz)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4d6b4c8a1c5e6b4ab5b2962bac261ba1aa88a0c2ef6590fbcaff31dd55660701",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "negativ definiertes Sein",
+        "target": "positiv definiertes Sein",
+        "type": "contrasts_with",
+        "quote": "Kap 0: „AEGIS ist, was AEGIS verhindert, dass es nicht ist.“ (negativ definiertes Sein) ... Kap 39 → 40: „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.“ (positiv definiertes Sein)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ea06d1bf7e90f50676abeff1b42064edbed1f2e2e331779b8084702fd44ea710",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz und Liebe als derselbe Pulsschlag",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b6212eaf3ec4f7c311019a343b1dd1f5f2b16e7d742183f0bd0d4c5f94f0caf1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "neutral, dann am Schluss emotional",
+        "target": "derselbe Pulsschlag, von Anfang an als Substrat präsent",
+        "type": "contrasts_with",
+        "quote": "nicht „neutral, dann am Schluss emotional“",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8b8ed707982be3b158d17710ffe82db0faf4c626864a8f022929ae2a6b66671c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unschuldig im Bösen",
+        "target": "Bösewicht",
+        "type": "contrasts_with",
+        "quote": "AEGIS = unschuldig im Bösen (verwaltet, bedroht nicht), nie Bösewicht",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cfd13982aea2e2a3a29c240edcc5f1c360aca31e60196ed19a00d424fda0312b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "kosmologische Konstante",
+        "target": "Liebes-Interesse",
+        "type": "contrasts_with",
+        "quote": "Juna = kosmologische Konstante, nie „Liebes-Interesse“",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:114e3008a3b44290be67aecd9f1fd8da2051c4e9c857dd367f298277ff15e449",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "fragmentierte Subjektivität",
+        "target": "plurale Re-Integration",
+        "type": "in_tension_with",
+        "quote": "Kael = fragmentierte Subjektivität auf dem Weg zur pluralen Re-Integration",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "plurale Re-Integration"
+      ]
+    },
+    {
+      "id": "claim:6a623a3bdf9e347aeb1d52da6a2fd1ff88a01d03404c7531912e4771d639023f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Held",
+        "target": "Bösewicht",
+        "type": "contrasts_with",
+        "quote": "Nie ins Schema „Held vs. Bösewicht + Mentor“ rutschen",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fbb7fd60289ea10e84861b8c5a3b7b0d5b03631df2f050d86117904e92137e01",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "max. 1 Echo pro Szene",
+        "target": "Stapeln macht den Roman zur Allegorie",
+        "type": "contrasts_with",
+        "quote": "max. 1 Echo pro Szene (Stapeln macht den Roman zur Allegorie)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        50
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:58e9c3e6f811aeea85773d5e880aff3a5b033bfce2a13ca3ed6bbfb384e23c8c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kaltes Ozon",
+        "target": "Wärme",
+        "type": "contrasts_with",
+        "quote": "Kaltes Ozon = AEGIS-Unterdrückung (Landauer-Signatur, überall) · Wärme = Junas ununterdrückbare Spur",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        64
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8de736984463448f8a3093ce8ba4f0c1cc999e606a2ef9f4a5b4589b45423068",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Konflikt-Leser",
+        "target": "Kishōtenketsu-Leser",
+        "type": "contrasts_with",
+        "quote": "Konflikt-Leser sehen im Flip (Truth-Rotation) einen Reset; Kishōtenketsu-Leser (ketsu = Synthese) lesen Transfiguration",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        68
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7366ff91145a5fec5671d962bb80f173e3c5c7e14f9c3bf653e06e476abf0561",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Reset",
+        "target": "Transfiguration",
+        "type": "contrasts_with",
+        "quote": "Konflikt-Leser sehen im Flip (Truth-Rotation) einen Reset; Kishōtenketsu-Leser (ketsu = Synthese) lesen Transfiguration",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        68
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d864294d6ebe8ff4ea7a04673394e10e19579079e375650ee42b8dbaf2f8c0c7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Projektion erlauben",
+        "target": "nie bestätigen",
+        "type": "contrasts_with",
+        "quote": "Disziplin: Projektion erlauben, nie bestätigen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        68
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f57b2bd361e14c11c8b91648472ae931f0e1c073f93db9b47ca84e10b35b7fca",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Heilung",
+        "target": "Tilgung",
+        "type": "contrasts_with",
+        "quote": "Keine Auslöschung des Schmerzes durch die Heilung — Heilung heißt Akzeptanz, nicht Tilgung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        79
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aabbf654069ee8adfb4be9784b4611dd6607b5f6afecc157b8ad3e9a1a823fee",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "zeigen",
+        "target": "erläutern",
+        "type": "contrasts_with",
+        "quote": "Keine theoretische Erklärung der pluralen Apotheose — zeigen, nicht erläutern",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        80
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c0b0d69e058c098e0533c53a1f71522689bcafa7dcbfbe83a44ba44776b6e5e1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "fragmentierte Polyphonie",
+        "target": "bewusstes Wir",
+        "type": "contrasts_with",
+        "quote": "vorher: Stilcode-Einbrüche, fragmentierte Polyphonie, kein bewusstes Wir",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        83
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ffad536f86af40fc55fe8f22fd85d691cf89cb482fed9a804e677591bf522ed7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Theorie nackt in der Prosa",
+        "target": "Storyform-Elemente erscheinen als Bild, Raum, Verhalten, nie als Begriff",
+        "type": "contrasts_with",
+        "quote": "Keine Theorie nackt in der Prosa — Storyform-Elemente erscheinen als Bild, Raum, Verhalten, nie als Begriff",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5f00b54f9fe8413053ec7a1f520e98c5d28fc62ea09491b768fae970bbd27fe0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A dominant, B latent",
+        "target": "A‖B echte Polyphonie",
+        "type": "contrasts_with",
+        "quote": "Heldinnenreise innen | 1–13 | linear-introspektiv, Stufen-Folge | A dominant, B latent | ~10 % | fragmentiert, staccato, kühl | Zyklischer Modus | 14–26 | rekursiv, 3 Spiral-Zyklen + Wendepunkt | A‖B echte Polyphonie",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4de3b9b30e62e3d0e1830d00d0abbb40bc99da8a86598acf07667ff73dd64cc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "nur A *scheinbar*, feine B-Echos (Rauschen-Vorzeichen)",
+        "target": "100 % in neuer Form; Synthese (c)",
+        "type": "contrasts_with",
+        "quote": "Trügerischer Sieg | 37 | Reward-Beat | nur A *scheinbar*, feine B-Echos (Rauschen-Vorzeichen) | ~15 % | trügerische Ruhe | Vortex 2 / Plurale Apotheose | 38–39 | chorisch, Synthese | 100 % in neuer Form; Synthese (c)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2e30dc881041a14c70afc2621768c63f8d63204afdd99e72d74ce41eda1b2497",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Modus-Wechsel",
+        "target": "echte Storyform-Wendung",
+        "type": "contrasts_with",
+        "quote": "**13/14** und **26/27** = **Modus-Wechsel** (beide Storyforms laufen weiter; Storypoints werden *moduliert*, nicht neu gesetzt). **34/35** = die **echte Storyform-Wendung** (B beginnt zu erlöschen; Vortex).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fbe9ca972c0e063ab649e785b61b16dde0888492203ee42fac92fab4b18ed68a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "echte Storyform-Wendung",
+        "target": "Storyform-Konsolidierung",
+        "type": "contrasts_with",
+        "quote": "**34/35** = die **echte Storyform-Wendung** (B beginnt zu erlöschen; Vortex). **36/37** = **Storyform-Konsolidierung** (nur noch A aktiv; Resolution).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:112cc6770070f591a7213a131cf545dee62c8c69a932a321aa6ece87bf6f5e67",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Genesis-Klammer",
+        "target": "Vortex-Klammer",
+        "type": "contrasts_with",
+        "quote": "Genesis-Klammer: Kap 0 ↔ Kap 40 (Erzähler-/ontologische Außen-Klammer). Kap 0 und Kap 40 werden zusammen gedacht; Kap 40 ist Echo, nicht Wiederholung.\n  - Vortex-Klammer: Vortex 1 (orthodoxer Klimax) ↔ Vortex 2 (post-orthodoxe Synthese).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:18d44839f1eec889c835bfdb00a08753a437ff57ad2dedcd1e1ee9aea3033656",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Echo",
+        "target": "Wiederholung",
+        "type": "contrasts_with",
+        "quote": "Kap 40 ist Echo, nicht Wiederholung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        125
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9b5dccbd674f6a349d44364258a00601b6ddf89a375ccb559edaf56b8daf97a1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "orthodoxer Klimax",
+        "target": "post-orthodoxe Synthese",
+        "type": "contrasts_with",
+        "quote": "Vortex 1 (orthodoxer Klimax) ↔ Vortex 2 (post-orthodoxe Synthese).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        126
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b90a65ff4d2850a7bcad7e69fa3c9cac36d81b561f205d0a1afd6052ad1f0d37",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erst-Read kalt/sensorisch/Stilebene 1",
+        "target": "Zweit-Read nach Kap 39 warm/gewählt/wissend",
+        "type": "contrasts_with",
+        "quote": "Drei Tests, die der Satz besteht: (1) Erst-Read kalt/sensorisch/Stilebene 1, schleier-sicher, Kael beschreibt Welt, nie Empfinden; (2) Zweit-Read nach Kap 39 warm/gewählt/wissend, nie didaktisch",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        127
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:346c96c38beaf226dd3f791211111a6f1dced0124e7257bed77c262e8cd6ffd2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Licht-an/präsent",
+        "target": "Dasein/Sein",
+        "type": "in_tension_with",
+        "quote": "die Doppeldeutigkeit sitzt im einzelnen banalen Wort „da“ (Licht-an/präsent ↔ Dasein/Sein)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2efeaa4f387ccd9ad6f382645e1a3c9529a09e8896e4ab9338296495110d6690",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "nie Subjekt, nur Wirkung",
+        "target": "Welt-Subjekt",
+        "type": "contrasts_with",
+        "quote": "Junas Grammatik (nie Subjekt, nur Wirkung) unbemerkt an die Schwelle. Welt-Subjekt „Das Licht“",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:721efd915dc09b954bc815581e639d43e3a5ce22210c6e8846d7e5d64e1a1a4a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "zwei vollständige, simultane Storyforms",
+        "target": "bewusst heterodox (post-Dramatica-Innovation)",
+        "type": "complements",
+        "quote": "Zwei vollständige, simultane Storyforms im selben Werk sind bewusst heterodox (post-Dramatica-Innovation)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        135
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "zwei vollständige, simultane Storyforms"
+      ]
+    },
+    {
+      "id": "claim:b6041b41998c3be7bafc85aaf6bf081ee5e4843bc520c9fe8fd5d386ee9944ba",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Optionlock (A)",
+        "target": "Timelock (B)",
+        "type": "contrasts_with",
+        "quote": "Optionlock (A) vs. Timelock (B)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        144
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c47c7c7e1198bafa55911cd3d7ab5e18f0ab88ae3eaddc803344df074d9c2e79",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B-Timelock äußerlich",
+        "target": "A-Optionlock innerlich",
+        "type": "contrasts_with",
+        "quote": "Leser erlebt B-Timelock äußerlich (AEGIS-Erasure-Countdown), A-Optionlock innerlich (Erschöpfung der Integrationsoptionen)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        144
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2a19a51e99d7c842249ba5d6fbb0e0858c98610b169ae6322b6599cae9251398",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Change",
+        "target": "Steadfast",
+        "type": "contrasts_with",
+        "quote": "Resolve | Change | Steadfast",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        152
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b91012269183a9197ea618248cf0c9f9ba570bf7bf47f5311edcfb81e7e4d8fd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Start",
+        "target": "Stop",
+        "type": "contrasts_with",
+        "quote": "Growth | Start | Stop",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        153
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:091a88f2e4e71907fd85740628299e3b32e7260d649a9d116933bb21076bdcbc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Be-er",
+        "target": "Do-er",
+        "type": "contrasts_with",
+        "quote": "Approach | Be-er | Do-er",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        154
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:38b9a7108fd3dcddfd957096a87912965ff8df1cb078bdf4340eb1963d31a7b6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Holistic",
+        "target": "Linear",
+        "type": "contrasts_with",
+        "quote": "Problem-Solving Style | Holistic | Linear",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        155
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ca12a23c2550509516f6e10fea9a99b7abb48a323ca48b37aaa29dfcd13430fc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Mind (Fixed Attitude)",
+        "target": "Universe (Situation)",
+        "type": "contrasts_with",
+        "quote": "Domain (MC) | Mind (Fixed Attitude) | Universe (Situation)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        156
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:04040d5ab37dc0d28d4e01d97aafd4babca7e52e3fdec04a3fd40656995fa875",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Memory",
+        "target": "Progress",
+        "type": "contrasts_with",
+        "quote": "Concern (MC) | Memory | Progress",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        157
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e26279bc4bc0c6776ca3ce20ea597a51344c552e28d77fa538d1c79e6494733",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Falsehood vs. Truth",
+        "target": "Fact vs. Fantasy",
+        "type": "contrasts_with",
+        "quote": "Issue (MC) | Falsehood vs. Truth | Fact vs. Fantasy",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        158
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:898b6ce6875829647726561c6c00fd0356b72fd9b4a150bc99c66647a8bc2715",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Avoidance",
+        "target": "Logic",
+        "type": "contrasts_with",
+        "quote": "Problem (MC) | Avoidance | Logic",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        159
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:74d187993a9f0b2b6580759a0fd9ea6b2442808275a8f70422fd45050e8cf0ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Pursuit",
+        "target": "Feeling",
+        "type": "contrasts_with",
+        "quote": "Solution (MC) | Pursuit (in Kap 35 adoptiert) | Feeling (nie adoptiert)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dc1f2fa7410c27152fc984f302236e1e57ac60daeff927f9896a35f51e046c31",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Success",
+        "target": "Failure",
+        "type": "contrasts_with",
+        "quote": "Outcome | Success | Failure",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        163
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:534309223aec3dad49eb668d8fd9e55e8c2a209ca98be56034bd6538857dc42d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Good (with high Cost)",
+        "target": "Bad (with Dividend)",
+        "type": "contrasts_with",
+        "quote": "Judgment | Good (with high Cost) | Bad (with Dividend)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        164
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1a72f12a6456c8506ff68d75335b0b4dd550c69f059d4a52d4f062acb8e50bff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Psychology (Manipulation der Simulation)",
+        "target": "Physics (kybernetischer Krieg)",
+        "type": "contrasts_with",
+        "quote": "OS: A = Psychology (Manipulation der Simulation), B = Physics (kybernetischer Krieg)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        168
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:889b84f2e1b80763686f5da084224e7ae90574000f6a16c717abab5e9a4a829e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Physics (Moonshine-Link)",
+        "target": "Psychology (symbiotische Host-System-Verstrickung)",
+        "type": "contrasts_with",
+        "quote": "RS: A = Physics (Moonshine-Link), B = Psychology (symbiotische Host-System-Verstrickung)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        168
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:92c855a7754e4796005749a518e5883c571ed35add1438b19d3cd4ddea3df109",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe",
+        "target": "Trauma",
+        "type": "contrasts_with",
+        "quote": "Liebe ist die ultimative kohärente Struktur; Trauma wird durch Integration funktionaler Multiplizität bewältigt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e874a1f1e06eca9de75d8d9791e8db9bda8636260072b8566f7b1fa77af818e8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Success/Good",
+        "target": "Failure/Bad",
+        "type": "contrasts_with",
+        "quote": "Success/Good, Kael erreicht Funktionale Multiplizität. B: AEGIS hält die Trennung steadfast aufrecht, adoptiert Feeling nie — Failure/Bad",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bdb58caecf89859efdf0bd16cc2d4245e4cfcd12ef8dddbeb255274b447c5d0c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Action",
+        "target": "Decision",
+        "type": "contrasts_with",
+        "quote": "Storyform-Übergang B (Action) → A (Decision)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        176
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1de3098e091e9ecc372378972cf94d42520dbc01dc4ef0dade137c617b8e2546",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Aktionen",
+        "target": "Decisions",
+        "type": "contrasts_with",
+        "quote": "Der Pivot ist eine *Entscheidung*, die alle vorherigen Aktionen rückwirkend in Decisions transformiert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        176
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5070397817b8ac7e94b30e770ce5a4bdfd366b78709a27506ada175595ce0910",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erinnerung wieder zugänglich machen (Pre-Trennungs-Wahrheit als bewusster Besitz)",
+        "target": "Aufrechterhaltung der Trennung; Kohärenz-Protokoll-Mandat",
+        "type": "contrasts_with",
+        "quote": "**Storyform A** | Erinnerung wieder zugänglich machen (Pre-Trennungs-Wahrheit als bewusster Besitz) — vollzogen in Vortex 1+2 | **Storyform B** | Aufrechterhaltung der Trennung; Kohärenz-Protokoll-Mandat — in Vortex 1 verloren",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d0d835e2660ca96c9b385788d9d13f41947bb8f3c8f71f63f8849513e7107220",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "ewige Fragmentierung, kein Wieder-Erkennen Junas",
+        "target": "Wiederkehr der Genesis-Krise",
+        "type": "contrasts_with",
+        "quote": "**Consequence** | ewige Fragmentierung, kein Wieder-Erkennen Junas (latent ab Kap 1, akut Akt II Z3 / ab Kap 28) | Wiederkehr der Genesis-Krise (latent ab Kap 1, akut Akt II, eintretend Vortex 1)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        184
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:46c30f92f36ed32b310bc09cd4380ede1a20fb8ac027a26105582042c44ed867",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Verlust der Privatheit des Wir (innere Polyphonie wird kosmische Bewahrungs-Funktion)",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "contrasts_with",
+        "quote": "**Cost** | Verlust der Privatheit des Wir (innere Polyphonie wird kosmische Bewahrungs-Funktion) — manifest Kap 39 | AEGIS-monolithisch erlischt — manifest Kap 36",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        185
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b40a3553a2c25b9abfae88a300fcfecad933da58d0b1e6280e688ee9bb18e57b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Liebe bleibt — Junas Verbindungs-Modus als Form des Bleibens",
+        "target": "Funktion bleibt — Bewahrung vollendet durch plurale Übernahme",
+        "type": "contrasts_with",
+        "quote": "**Dividend** | Liebe bleibt — Junas Verbindungs-Modus als Form des Bleibens — Schluss-Klang Kap 39, bezeugende Stimme Kap 40 | Funktion bleibt — Bewahrung vollendet durch plurale Übernahme — Kap 39, retroaktiv erkannt Kap 40",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        186
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5264616fad74cd136e2e5055d21c3b3cdfbc171fdfed4af186d1e00ff0ecc363",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Holistic-Style A",
+        "target": "Linear-Style B",
+        "type": "contrasts_with",
+        "quote": "*(Holistic-Style A sortiert nicht-linear; Linear-Style B progressiv.)*",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        193
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b45c521cea17d9023a0da7081a77c721abd18fb80c4b6b9a7a4923413041669b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Holistic-Style A",
+        "target": "Linear-Style B",
+        "type": "contrasts_with",
+        "quote": "Holistic-Style A sortiert nicht-linear; Linear-Style B progressiv.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        193
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:309d89f75afb5453e6aefc14cafc559548e34d1c5a4f2a88a0ef5766b09ffb71",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Memory/Past latent",
+        "target": "zyklische Trauma-Wiederbegegnung",
+        "type": "complements",
+        "quote": "MC (Kael, Mind/Memory) | Memory/Past latent | zyklische Trauma-Wiederbegegnung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        197
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6305948db91a05abcabcd41973bf739d6000f6e1114f017c0acaf2c61405fe1d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Learning — Junas Präsenz spüren",
+        "target": "Doing — Verbindung als Werkzeug",
+        "type": "complements",
+        "quote": "RS (Kael↔Juna, Physics) | Learning — Junas Präsenz spüren | Doing — Verbindung als Werkzeug",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        197
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5728717f127b1a1afabb42ab63753bc762436545455a992d0e435ceebabc4fa5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Doing — Verbindung als Werkzeug",
+        "target": "Obtaining — Kanal als Ressource",
+        "type": "complements",
+        "quote": "Doing — Verbindung als Werkzeug | Obtaining — Kanal als Ressource",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        197
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ace9047dac8fd0c0b57ed3730cbf4108b173edca4facdf132478909b46699d8d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Obtaining — Kanal als Ressource",
+        "target": "Understanding — Verstehen ohne Worte",
+        "type": "complements",
+        "quote": "Obtaining — Kanal als Ressource | Understanding — Verstehen ohne Worte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        197
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c214eea94b6ed7f8cb0653d084396d186ef104e0cce808eca60f7fe443f1f8e7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Past — Genesis-Trauma verdrängt",
+        "target": "Present — Erasure-Sweeps, Kontrollprotokoll",
+        "type": "complements",
+        "quote": "MC (AEGIS, Universe/Progress) | Past — Genesis-Trauma verdrängt; Erasure-Logs | Present — Erasure-Sweeps, Kontrollprotokoll",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        201
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a23f19de185f6e293b5cf2be6f5a727aeac0e0304939444ed353265f70cd480c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Present — Erasure-Sweeps, Kontrollprotokoll",
+        "target": "Progress — Countdown, Architektur degradiert sichtbar",
+        "type": "complements",
+        "quote": "Present — Erasure-Sweeps, Kontrollprotokoll | Progress — Countdown, Architektur degradiert sichtbar",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        201
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:41c0681b03f61d4fd09bb9bb2653225143a8ebb182e6f103e6b15224d59e7c5d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Progress — Countdown, Architektur degradiert sichtbar",
+        "target": "Future — Ende der Operativität; Phoenix-Collapse, dann Echo",
+        "type": "complements",
+        "quote": "Progress — Countdown, Architektur degradiert sichtbar | Future — Ende der Operativität; Phoenix-Collapse, dann Echo",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        201
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dcb8ac9912c438f9f57edd9d84313e9838f6c13b88534ed4d2ebd00b81222f27",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Conscious — Kael als unfixbarer Bug",
+        "target": "Memory — Kaels wachsende Erinnerung als IC-Druck",
+        "type": "complements",
+        "quote": "IC (Kael, Mind/Conscious) | Conscious — Kael als unfixbarer Bug | Memory — Kaels wachsende Erinnerung als IC-Druck",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        201
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:006703d89fb55f838c1d1493ec956fd464e0f9baa44947078af0ee39dca5f9f9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Hard-Routing",
+        "target": "Soft-Layering",
+        "type": "contrasts_with",
+        "quote": "Default Hard-Routing per POV, plus designierte Bridge-Szenen mit Soft-Layering",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        205
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6b9ddfc03a206455f4bfd7364902a16637d6958efb5ffdc47652a8d3f1998ca6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1. Person",
+        "target": "3. Person",
+        "type": "contrasts_with",
+        "quote": "Alle 13 Alter sprechen in 1. Person. AEGIS und die zwei Guardians sprechen in 3. Person",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        206
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "1. Person",
+        "3. Person"
+      ]
+    },
+    {
+      "id": "claim:5b1977479b84d5ba1294ce02504c5ab5fb17b13387a0ab759083aa093a1ccc58",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Logs/Protokolle",
+        "target": "subjektive Innensicht",
+        "type": "contrasts_with",
+        "quote": "AEGIS und die zwei Guardians sprechen in 3. Person (Logs/Protokolle, keine subjektive Innensicht)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        206
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:119766eb4dc0df6894d7b01b097b17a978398ed146922642558208874f576526",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Hard-A-Default",
+        "target": "Hard-B",
+        "type": "contrasts_with",
+        "quote": "Hard-A-Default; ein Kapitel Kap 5–8 ist Hard-B",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        207
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:194569382523a12f45db3b73e851d041331febac4ffe0ac8e2006c32c0041d06",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "Kaels Vielheit",
+        "type": "contrasts_with",
+        "quote": "Das Hard-B-Kapitel enthüllt AEGIS, nicht Kaels Vielheit",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        207
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:66318691ac3b558b1c8e7562ed6a5650c70eb1bab78cc9aa9d044cd1d40c56b5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "3.-Person-OS-Force",
+        "target": "1.-Person-Innensicht",
+        "type": "contrasts_with",
+        "quote": "ein Kapitel Kap 5–8 ist Hard-B mit AEGIS-1.-Person-Innensicht (exakte Position bei Storyweaving/Phase 6 pinnen). Sonst AEGIS = 3.-Person-OS-Force",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        207
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:01df22b2cb29d83951137d1de89bfc5c4076a724461bc8048cdd52d717d17967",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Rationalisierung, ANP-Vermeidung",
+        "target": "Trauma-Erinnerung, EP-Domäne",
+        "type": "contrasts_with",
+        "quote": "KW1 Konstrukt-Stadt (Logos-Prime) | Rationalisierung, ANP-Vermeidung | ... KW2 Mnemosyne-Archipel | Trauma-Erinnerung, EP-Domäne",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e8967f3c3d5060649f0613b9440a2fea4049b6382a42ebf9877afa9eea20589",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "P — kurze Hauptsatz-Ketten, eindeutiges SVO, kein Schweben",
+        "target": "Parakonsistent — Widersprüche koexistieren",
+        "type": "contrasts_with",
+        "quote": "P — kurze Hauptsatz-Ketten, eindeutiges SVO, kein Schweben | ... Parakonsistent — Widersprüche koexistieren",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cc952160960dee97ea6f75b6ab56f01bf275e454e76efbbd3bdfadaa83e4afc4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "kalt/steril, Metaphernverbot, assertorisch",
+        "target": "heiß/fragmentiert, poröser",
+        "type": "contrasts_with",
+        "quote": "1 — kalt/steril, Metaphernverbot, assertorisch | ... 2 — heiß/fragmentiert, poröser",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2d3c1bb7c4788a0ad820f8b8fe7a2505ca17840b8be7b858af229cf8fef7f1f7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Atem",
+        "target": "Bauch",
+        "type": "contrasts_with",
+        "quote": "Atem | ... Bauch",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8ccc23d2af553eab7cd60e42125c322e4f2ba1f77978354bea2b70b8df59456d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Bauch",
+        "target": "Muskel",
+        "type": "contrasts_with",
+        "quote": "Bauch | ... Muskel",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7bd4a43514aac115019c3a0eb67322ac3193b62f6492d48ceb6472c24ab54fa8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Hypervigilanz, Verteidigung",
+        "target": "Integration; lebende Widersprüche; Vortex-Quelle",
+        "type": "contrasts_with",
+        "quote": "KW3 Cerberus-Labyrinth / Überwelt-Nexus | Hypervigilanz, Verteidigung | ... KW4 Resonanz-Kontinuum / Möglichkeits-Garten | Integration; lebende Widersprüche; Vortex-Quelle",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:37d1517def234d24a5520625c3182cc94136e85edf3f1688edf5e646f5b7c991",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "paranoid",
+        "target": "poetisch/chorisch (Junas Stil)",
+        "type": "contrasts_with",
+        "quote": "2+ — paranoid | ... 3 — poetisch/chorisch (Junas Stil)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1b84e6ef9239dd97d172344ca8838efc79773eccf636b2d037fb7562676b8c25",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Überwelt",
+        "target": "Externe Ebene",
+        "type": "contrasts_with",
+        "quote": "Überwelt (AEGIS' Operationsraum) · Externe Ebene (Köln 2026 — nie Bühne, nur Erinnerungsfragment, Telefonton, Geruch)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        226
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d51084b5bfb74e645af4a02ac223b490bae140fe28f47b820817aeb79738cb94",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Risse",
+        "target": "Symptom (Suppression-Versagen)",
+        "type": "contrasts_with",
+        "quote": "Risse sind *für AEGIS* Symptom (Suppression-Versagen); *für den Roman* das Atmen der Realität",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        245
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e472eff99c08fc7d7778baf2a5ce8c7cc31905bb5b183d593d18b2db12ea556d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "K₁-Substrat",
+        "target": "K₀-Architektur",
+        "type": "in_tension_with",
+        "quote": "die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        245
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5962d66f4464552819d38d5d82d87ee696a27ba93aa8828b231f6efc9e678726",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Fusion",
+        "target": "Funktionale Multiplizität",
+        "type": "contrasts_with",
+        "quote": "Funktionale Multiplizität, *niemals* Fusion.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        276
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dc4f47301c0c1a106c42e3cf275da1922628b6a3496e0063499ac6f770488feb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "was danach getan wurde, um es zu „heilen“",
+        "target": "das eigentliche Trauma ist nicht, was geschah",
+        "type": "contrasts_with",
+        "quote": "das eigentliche Trauma ist nicht, was geschah, sondern was danach getan wurde, um es zu „heilen“",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "was danach getan wurde, um es zu „heilen“"
+      ]
+    },
+    {
+      "id": "claim:5bd94eb8a90a888625b054931c5a06a562f62d810b5e63f32e2211e906ecd8a8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Bewahrung ohne Resonanz-Fähigkeit",
+        "target": "operative Hälfte",
+        "type": "complements",
+        "quote": "AEGIS: die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb — Bewahrung ohne Resonanz-Fähigkeit",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        282
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fa1f61307fd8dc3277676d10bbfc9985663fd147c630c79108ed619b7e4096ea",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nicht Schuld am Trauma",
+        "target": "nicht Helferin",
+        "type": "contrasts_with",
+        "quote": "Nicht Schuld am Trauma, nicht Helferin — sie *ist*",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7f307b396d64c5e90ec0ed9ae14817112bd07a1cb4826603e7477abd61e9fe8f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Abwesenheits-Phase",
+        "target": "Präsenz-Phase",
+        "type": "contrasts_with",
+        "quote": "Zwei Phasen entlang des Unterdrückungs-Gradienten: Abwesenheits-Phase (Akt I — Mangel, Stille-mit-Substanz, abbrechende Sätze) → Präsenz-Phase (Akt II+ — Wärme, Fülle, schließlich direkt in Kap 38)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d2c25db6f5e6ddaa71bba21a588ce47ddb960bc9b69ecc49f66eaebeb227393c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Mangel",
+        "target": "Wärme, Fülle",
+        "type": "contrasts_with",
+        "quote": "Abwesenheits-Phase (Akt I — Mangel, Stille-mit-Substanz, abbrechende Sätze) → Präsenz-Phase (Akt II+ — Wärme, Fülle, schließlich direkt in Kap 38)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5093a2dd19bbe4df2d8e1007ac9a07eeded2904c53bc951537f0e793ebc13e21",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A",
+        "target": "B",
+        "type": "contrasts_with",
+        "quote": "**Storyform:** nur B (MC-S1 Past); A als Phantomgefühl.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        298
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:200a74b24f89bb900187ff19aeffe7e9fb65732217cf3f1e05b247d29e5139cd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "ontologische Grundlegung",
+        "target": "Foreshadowing-Programm aktiviert",
+        "type": "complements",
+        "quote": "**Funktionen:** ontologische Grundlegung · Foreshadowing-Programm aktiviert (Leser liest mit doppeltem Bewusstsein) · Stilkanon gesetzt · tragische Ironie als Lese-Position.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        298
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1bf3e8df03248b75bdc357ce240cc6e43a24692934ea29d008b80030da938b28",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "linear-introspektiv",
+        "target": "jede Stufe auch ein Schritt zurück zu dem, was Kael vor der Fragmentierung war",
+        "type": "in_tension_with",
+        "quote": "Modus: linear-introspektiv (Murdock/Schmidt-Adaption); jede Stufe auch ein Schritt zurück zu dem, was Kael vor der Fragmentierung war.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        302
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a9ea98718ba72b00d480ff7a4d6be1db463f2d73c9e2d2a9dac50666dc7bb021",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ordnung",
+        "target": "Käfig",
+        "type": "complements",
+        "quote": "Ordnung als Käfig",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:10e14a50675c102b1f86e62cab2202213a93ff09396df31d408bbd82735f5fac",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schicht-1",
+        "target": "Schicht-2",
+        "type": "contrasts_with",
+        "quote": "Schicht-1/Schicht-2-Anteil 80/20 (Schicht-2-dominant: Ozon/Glitch = Szene 3; ein Schicht-1-Beat: dichte Stille = Szene 4; eine Schicht pro Szene)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cede2b0bfc40368bac8b4a4d7f581e88b367766277b94853f444a0d47697306f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "kalt",
+        "target": "Wärme",
+        "type": "contrasts_with",
+        "quote": "Ozon kalt/scharf/elektrisch, keine Wärme in Kap 1",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cd23a97fd6469be8cb289eab1f55c9511b4afbed7338631fa6ea98133a4c84e3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Leser",
+        "type": "contrasts_with",
+        "quote": "das sterile Setting ist die Innere Weite aus Kap 0 (Leser erkennt, Kael nicht)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c883e4f5212a81fa70d18dbefacc8017dca0e33e7a2d3388bcce4ddc3d019a4d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kontrolle/Ordnung",
+        "target": "Lex-dominant",
+        "type": "complements",
+        "quote": "Kael (Lex-dominant) verdoppelt Kontrolle/Ordnung — mentale Festung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        308
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8cc5cd10c4773b19cce9dd37a5b4e6599d82ac27ecd7c211dcefdfe2e3120224",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "einseitig-logischen Identität",
+        "target": "logische Grenzen",
+        "type": "in_tension_with",
+        "quote": "Tests der einseitig-logischen Identität; Zweifel, Scham, logische Grenzen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        309
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5ef0baedb0cd4c513e9b1132ff4d390a493d7a1a9f8e70983697f24adc6a1d00",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "einseitige Logik",
+        "target": "komplexen Problem",
+        "type": "opposes",
+        "quote": "die einseitige Logik scheitert an einem komplexen Problem",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        311
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:63ba516eafb8588c9e9553ffef2f107aeebf24b5c152170384d66b53a2fd513a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Angriff",
+        "target": "Sehnsucht",
+        "type": "contrasts_with",
+        "quote": "Junas Resonanz — jetzt nicht Angriff, sondern Sehnsucht",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        312
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7c65b5755795889432f8593c911b5f1919a8e4ce56a56619ee56c160e04d14c1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "logischen Anteilen",
+        "target": "Mitgefühl",
+        "type": "in_tension_with",
+        "quote": "Mitgefühl mit den logischen Anteilen beginnt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        313
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:121f577b487c43b72b2796cc418e66fb251fe72d61f808d3d65b53eb1cfc31a6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Destabilisierung",
+        "target": "Reaktion",
+        "type": "complements",
+        "quote": "drei Spiral-Zyklen (Destabilisierung → Reaktion → Korrektur)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        322
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:611389c5bdd57890dc62f2656687d61aa3a893c503e245c0628abd7c9d472992",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Reaktion",
+        "target": "Korrektur",
+        "type": "complements",
+        "quote": "drei Spiral-Zyklen (Destabilisierung → Reaktion → Korrektur)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        322
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9224160ed85656f65e4b943e9968380568718c3d7194337ce253b5f5c97ca582",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Trigger oberflächlich",
+        "target": "Korrektur greift schnell",
+        "type": "complements",
+        "quote": "Trigger oberflächlich; Korrektur greift schnell",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        333
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ae79a19aa749a961ebea982b4e0b2157198d231fa04815dc2801e1a63eda4ea1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "tiefere Trigger",
+        "target": "Korrektur kostet mehr",
+        "type": "complements",
+        "quote": "tiefere Trigger; Korrektur kostet mehr",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        334
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a2fcb01f5882480bc349e28d57d575f782bbfb94f4da40915148f520061017a0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "existenzielle Trigger",
+        "target": "Korrektur ist Schöpfung, nicht Reparatur",
+        "type": "complements",
+        "quote": "existenzielle Trigger; Korrektur ist Schöpfung, nicht Reparatur",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        335
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d6e2d504c148a009165893881237e851356b7f8129854fce061e8e7c2fbe9762",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schöpfung",
+        "target": "Reparatur",
+        "type": "contrasts_with",
+        "quote": "Korrektur ist Schöpfung, nicht Reparatur",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        335
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7b25df7f9fc6a34e5df98f96dd7caf9edfe79a57061a6cde097cc0611f50517e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Rendering-Ebene",
+        "target": "Prozess-Kern",
+        "type": "contrasts_with",
+        "quote": "Kael sieht die „Drähte“ der Simulation (Rendering-Ebene vs. Prozess-Kern)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:84c6924c2010470750f9efbada278b5e52eb6140193428d74d511b8b3598529a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "P",
+        "target": "NP",
+        "type": "contrasts_with",
+        "quote": "physikalische Grenzen der Rechenkapazität (P vs. NP)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        341
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b4038362fefab1bb14a61fe586052584adcb71784d4168054da21600b6434630",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Phaenomena",
+        "target": "Noumena",
+        "type": "contrasts_with",
+        "quote": "Kap 17 — Phaenomena vs. Noumena",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        342
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:533a0c3a94b535c629cf9f7ad3f364ce8553779bae7014012e1fa71d3a57974d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Vorbereitung/Entschluss",
+        "target": "Konfrontations-Beginn",
+        "type": "contrasts_with",
+        "quote": "Stehen an der Schwelle — Vorbereitung/Entschluss, NICHT Konfrontations-Beginn.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        350
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ae6e50040527e17ce51cc0f5db30abba67ec6a1233466afd59ed4a8239513a1d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Silas",
+        "target": "Coheron-Echo",
+        "type": "complements",
+        "quote": "Silas = Coheron-Echo",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        355
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6524609251b12960b52b49cc1339f97fae2268c6ff25131231c4ec651795f4f7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Oblivion",
+        "target": "Erason-Operator",
+        "type": "complements",
+        "quote": "Oblivion = Erason-Operator",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        355
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5233dd587597a84c11561472fec81219f4221d7f5aa46be2957a6e16250e0a07",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Bridge-natürlich",
+        "target": "beide Storyforms simultan",
+        "type": "complements",
+        "quote": "Bridge-natürlich, beide Storyforms simultan",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        355
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:12aa3c32eb37a12fd01d93956baa7d87d4b7b270668047fa014a53bf58ea4b25",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael (Wir)",
+        "target": "AEGIS (Makro-Log)",
+        "type": "opposes",
+        "quote": "Kael (Wir) vs. AEGIS (Makro-Log)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        366
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:81072720f3171909c218ffea4147074ac68ad2e429272bed49aa21d34a7d3274",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Orkan",
+        "target": "Sphäre",
+        "type": "contrasts_with",
+        "quote": "Orkan vs. Sphäre",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        366
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4cd5642e07e72e907dd1c12c156d225c05623e4ec0165a4b608de95e031a7e3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Optionlock A",
+        "target": "Timelock B",
+        "type": "contrasts_with",
+        "quote": "Duale Uhren laufen sichtbar (Optionlock A: schrumpfender Optionspool, diegetisch konkret · Timelock B: Erasure-Frequenz erreicht kritischen Schwellwert; AEGIS sieht nur den Timelock).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        370
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:44216d93269fb7c2a4f662b78c369439187a407b8038dec98082812504d7899c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B:Failure manifest",
+        "target": "A:Resolve=Change vollzogen",
+        "type": "contrasts_with",
+        "quote": "A:Resolve=Change vollzogen (Pursuit-Adoption Kap 35) · B:Failure manifest",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        370
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:04dde9e96afd153af5c654447708fef22c72c303414e4a662e86dd15ae6a22dd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B-Linear",
+        "target": "A-Holistic",
+        "type": "contrasts_with",
+        "quote": "Kael wechselt B-Linear → A-Holistic",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        379
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:da2180f1b0d8b58960f1301412049ec53e5b50b128dc7499416f8db6c848ff1b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "eine",
+        "target": "zehn",
+        "type": "contrasts_with",
+        "quote": "eine einzige körperliche Geste markiert die Wahl (eine, nicht zehn)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        379
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:83db8d80416a9075725b0cd0d6d72d0612771d7e740b96bdd94727bd42bc0b12",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Trauma ohne Dissoziation",
+        "target": "Dissoziation",
+        "type": "contrasts_with",
+        "quote": "Kael trägt das Trauma *ohne Dissoziation*",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        380
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3e74ca81135d66cda885147394b3d5620558f35554f3cd28a3d9d42a96eb6fc8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stille",
+        "target": "Nichts-Rauschen",
+        "type": "contrasts_with",
+        "quote": "Nichts-Rauschen wird absolute Stille",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        380
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1d4e40641f3e22c93f8b0fa1ebd3a0b634cbe4d6d663381b237b450b919c0f6a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Strukturell notwendige Pause",
+        "target": "mit Inhalt füllen",
+        "type": "opposes",
+        "quote": "Strukturell notwendige Pause — nicht mit Inhalt füllen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        380
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bb6c8a469d27501a4f03a51a299032d57ab10d888518ca6ffdf9dcd4a69b1092",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Geräusch/Geruch/Farbe",
+        "target": "Gleichung",
+        "type": "contrasts_with",
+        "quote": "diegetisch sinnlich (Geräusch/Geruch/Farbe, *keine Gleichung*)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        381
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fa3495fd004824feaf27c6512425c159609695cc08905ac87a58cb7ae1074a68",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "öffnet",
+        "target": "schließen",
+        "type": "contrasts_with",
+        "quote": "Beat 5 öffnet, statt zu schließen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        382
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2193dab54b7109679ffe3213482e9165a68e85e277557c90983cbb361db4b78f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A scheinbar",
+        "target": "B-Echos",
+        "type": "contrasts_with",
+        "quote": "nur A *scheinbar*, feine B-Echos als Rauschen-Vorzeichen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        386
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d551fd3e1a4681fd157d2f57e806d7b1d287949879346b79c0012ec0a3ed37e7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Junas Stimme als Raum",
+        "target": "Junas Stimme als Klang",
+        "type": "contrasts_with",
+        "quote": "Junas Stimme als Raum statt als Klang",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        402
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Junas Stimme als Klang"
+      ]
+    },
+    {
+      "id": "claim:9a60f069c90ce4642b770e7bf21fcb30aa543b52dc09c2a71ddc7f7e9327826e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stille",
+        "target": "anwachsendem Druck",
+        "type": "in_tension_with",
+        "quote": "Leitmotiv: Stille mit anwachsendem Druck",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        402
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ac74858a5ab14e3b925f3494e1977f12d0985f424b304813904946096747994b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "privaten Form",
+        "target": "kosmisch, plural, bewahrend",
+        "type": "contrasts_with",
+        "quote": "das Wir-Geflecht löst sich aus seiner privaten Form / die Verwandlung — Wir wird kosmisch, plural, bewahrend",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ae8ad25a5908401e33c1fce804a3de0e7444f0737835f431ca4fa3cd66d9e299",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS-monolithisch",
+        "target": "AEGIS-plural",
+        "type": "contrasts_with",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        412
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:12c399f39230b295ad40835b5e3a2697e6d2dbebe042c191a383791a791769a2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "menschliche Geste",
+        "target": "AEGIS' Log-Modus",
+        "type": "contrasts_with",
+        "quote": "Kael *schreibt* (menschliche Geste gegen AEGIS' Log-Modus)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        414
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:49fb7a40eb153426f5427bb34197c129688ae8694d1dc9f6d3e21954b7802ada",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "schon da",
+        "target": "bleibt",
+        "type": "in_tension_with",
+        "quote": "Resonanz: „schon da“ (Anfang) ↔ „bleibt“ (Ende)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bbdd72c29cabe54d7ff3e0a587bb629198b724b32d78d8d203a95f7d4f30e597",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Reset",
+        "target": "Transfiguration",
+        "type": "complements",
+        "quote": "**Doppellesbar** (Reset ‖ Transfiguration)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        426
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d3a567bd33b7d9821d3b39602000d1c11551dd4682eb7d0b19f06afeeb30dce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "bezeugend",
+        "target": "fragend",
+        "type": "contrasts_with",
+        "quote": "der Erzähler kehrt zurück, jetzt bezeugend statt fragend",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        422
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8a14a175f6cfde57c151711be7d701f656bf4165729795b68917eef7d5d7747c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Preis",
+        "target": "Tragödie",
+        "type": "contrasts_with",
+        "quote": "der Schmerz bleibt, als Preis, nicht mehr als Tragödie",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        425
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e055e5217c099afa51220ffcc28d3be67aefb3fa2776c99a3931dceabede7445",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Heldinnenreise innen",
+        "target": "Heldenreise außen",
+        "type": "contrasts_with",
+        "quote": "Heldinnenreise innen (13 Stufen, Kap 1–13) [K] vollständig: Illusion der perfekten Welt · Verrat/Desillusionierung · Erwachen & Vorbereitung · Pforten der Verurteilung · Auge des Sturms · Tod einer Einstellung · Unterstützung · Wiedergeburt · Rückkehr mit neuer Sichtweise · Erste Anwendung der Integration · Akzeptanz der Komplexität · Stille der Mitte · Tanz im Garten. 2. Heldenreise außen (Campbell/Vogler, Kap 27–39)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "joined or shortened quote",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:32570464984b72091083892499f5327d4538168bf0f0bec48fbe418a2c903190",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ordeal",
+        "target": "Modus-Grenze 26/27",
+        "type": "contrasts_with",
+        "quote": "Die echte Storyform-Wendung liegt im Ordeal 35/36, nicht an der Modus-Grenze 26/27.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        438
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:51d1f0b3859e1f968358643303aac92a01dcbd0c7aaa7946d74c78b67a9745a5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Synthese",
+        "target": "Showdown",
+        "type": "contrasts_with",
+        "quote": "Ketsu (Synthese, nicht Showdown) = Kap 39/40, ambivalent, ohne Erklärung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        442
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e40bb28e59fcc6aa9857428d6730b23763995bf46b51b46d303e7998061d5c75",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "retroaktiv über Ten/Ketsu",
+        "target": "kausalen Konflikt",
+        "type": "contrasts_with",
+        "quote": "Bedeutung entsteht retroaktiv über Ten/Ketsu, nicht über kausalen Konflikt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        442
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a5256958c87c6e31e4b721ba3fe172ac1d52932230025c1eb9e55457c54e5fa9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Landauer-Wärme",
+        "target": "kaltes Ozon",
+        "type": "contrasts_with",
+        "quote": "rendert die Landauer-Signatur als kaltes Ozon; Wärme ist exklusiv Junas Coheron-Spur",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        458
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94b48d9118cba17120465a0a6642dac75a683bfdef9a4863e5bd6194a756eac9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0 allein",
+        "target": "Kap 1 bleibt spurlos",
+        "type": "contrasts_with",
+        "quote": "der Faden lebt in Kap 0 allein (Knöchel-Eruption, Nyx), Kap 1 bleibt spurlos",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        459
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d9caf94228cefe2eee2f214cb65d92280cb934dfff773c90e8077fc9774d423",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Zyklus-Arbeitstitel",
+        "target": "Theorie-Titel",
+        "type": "contrasts_with",
+        "quote": "Teil IX (2026-05-08) führt Zyklus-Arbeitstitel (Bruch des Gleichgewichts, Z1-Trigger, Z1-Bunker, Z1-Wächterin, Z2-Cache-Konflikt); das Kompendium (2026-05-31, neuer, gewinnt) führt Theorie-Titel (Das Archiv der Grenzen, Turing-Mechanik, Die Diktatur der Komplexität, Phaenomena vs. Noumena, Qualia-Informationsparadox)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        460
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6b9f1ccf1d8a06980cf1c1429a8f7fbba2ce9ff373be53184a1aa8b300be1ed1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Phaenomena",
+        "target": "Noumena",
+        "type": "contrasts_with",
+        "quote": "Phaenomena vs. Noumena",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        342,
+        460
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c578ba1b915cf34cc419f918e5a1a64217a26f6f9b09990fe3f6312c03b5ea8f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moonshine-Boundary",
+        "target": "was überträgt der Link, was nicht",
+        "type": "contrasts_with",
+        "quote": "Moonshine-Boundary (was überträgt der Link, was nicht)",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+      "template": "TermContrasts",
+      "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+      "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        480
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}
