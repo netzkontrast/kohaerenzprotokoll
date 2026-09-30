@@ -126,17 +126,17 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**55 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **55
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **55
+**58 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **58
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **58
 <!--state:documents.reconciled--> are reconciled** — documents 52–54, the first extractions of step 6's
-sample, on 2026-09-30 at the author's word so the order holds again, and document 58, a clinical review from the
-Haiku reader lab that no page speaks to; the lab's three other extractions remain staged under
-`Plan/runs/reader-lab-2026-09-30/staged/` until each is reconciled (see `NOW.md`).
+sample, on 2026-09-30 at the author's word so the order holds again, and documents 55–58, the four
+extractions of the Haiku reader lab of the same day, reconciled one at a time after the CI repair had staged them
+out of `Sources/` (see `NOW.md`).
 Of the reconciled, five are `theorie-physik`,
 five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten
-`kernkonzept`, thirteen `plot-outline`, two `theorie-psychologie`, two `theorie-logik`, two
-`theorie-philosophie`, two `theorie-mathematik` and one `audit` — thirty-three of them from the canon era, and
-documents 40–54 and 58 the first read from before it since document 6.
+`kernkonzept`, thirteen `plot-outline`, three `theorie-psychologie`, three `theorie-logik`, two
+`theorie-philosophie`, two `theorie-mathematik` and two `audit` — thirty-three of them from the canon era, and
+documents 40–58 the first read from before it since document 6.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
@@ -308,8 +308,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 129 <!--state:sweep.decided--> so far,
-67 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 131 <!--state:sweep.decided--> so far,
+68 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -393,7 +393,7 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**675 <!--state:wiki.relations--> links across
+**679 <!--state:wiki.relations--> links across
 106 <!--state:wiki.pages--> pages, 19 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
@@ -412,7 +412,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 534 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 543 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -472,14 +472,14 @@ read after that, made it three.
 
 The wiki is also a typed knowledge graph, derived from the authoritative files:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **184 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **4497 <!--state:graph.edges--> edges** (`links`,
+citations and builds **187 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **4599 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 9197 <!--state:graph.evidence-->
-of them, **9197 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 9435 <!--state:graph.evidence-->
+of them, **9435 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -534,6 +534,7 @@ pages crowding the gold out of the top eight are the central ones it gave a read
 `juna`, `kael`, `coheron`, `vortex`, `alters`. The hubs grew faster than the pages around them.
 Document 28 moved it to 0.637, only C4, from 0.556 to 0.444: `cerberus` left its top eight and `alters`
 entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47, nor documents 48–50. Document 51 moved it to 0.654, only C4, from 0.556 to 0.444. The four question pages of 2026-09-29, Q6–Q9, added four cases and moved it to 0.694 over 24, and seeds alone from 0.466 to 0.531; the twenty earlier cases scored exactly as before. The new cases score high because each question is worded in the terms of the pages that raise it — Q7 and Q9 1.0, Q6 0.833, Q8 0.75 with PageRank — which is the caveat above, the same hand writing question and label, four times more. Documents 52–54, measured together, moved it to 0.689, only Q5, from 0.429 to 0.286.
+Documents 55–58, the four of the Haiku reader lab, measured together, moved nothing: seeds 0.531, PageRank 0.6885, no case.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`

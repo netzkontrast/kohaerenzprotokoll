@@ -319,8 +319,7 @@ def selftest() -> int:
     cases.append(("changed source invalidates the saved verdict", bool(check_rows(changed_source, bound)[0])))
     bound[0]["binding"] = ""
     cases.append(("old unbound tables fail", bool(check_rows(ranges, bound)[0])))
-    real = source_rows("ki-narrative-kollaps-kohaerenz-paradoxie",
-                       ROOT / "Plan/runs/reader-lab-2026-09-30/staged")
+    real = source_rows("ki-narrative-kollaps-kohaerenz-paradoxie")
     cases.append(("a real note yields a row per citation", len(real) >= 15 and all(r["opening"] for r in real if r["line"] > 0)))
     failed = [n for n, ok in cases if not ok]
     print(f"claims: {len(cases) - len(failed)} of {len(cases)} cases hold"

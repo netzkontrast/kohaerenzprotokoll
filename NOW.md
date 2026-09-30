@@ -924,7 +924,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   129 <!--state:sweep.decided--> hits, 67 <!--state:sweep.readings--> of them
+   131 <!--state:sweep.decided--> hits, 68 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -1280,11 +1280,11 @@ been reconciled and are excluded from production ingest counts. Resume from
 these staged artifacts when completing their reconciliation; no wiki reading
 or reconciliation was fabricated to make the order check pass.
 
-**Resumed the same day, one pair at a time.** A pair goes back to `Sources/{terms,notes}/` in the commit
-that carries its reconciliation record, and not before. R4, `angst-bei-komplexen-traumafolgen`, is
-reconciled (`Wiki/compare/reconcile-58-…`, no page and no reading, because no page speaks to a clinical
-review) and back in `Sources/`; the order holds at 55 documents. R2, R3 and R5 stay staged until their
-readings are applied.
+**Resumed the same day, and done.** A pair goes back to `Sources/{terms,notes}/` in the commit that carries
+its reconciliation record, and not before. All four are reconciled and back: R4, `angst-bei-komplexen-traumafolgen`
+(`Wiki/compare/reconcile-58-…`, no page and no reading, because no page speaks to a clinical review), then R2, R3 and R5
+(`reconcile-56-…`, `-57-…`, `-59-…`: 48 readings by one Sonnet reader, 9 more and 5 record entries by the reconciler,
+every page its own commit). The order holds at 58 documents; `staged/` is gone, and the claims selftest reads `Sources/` again.
 
 ## PR #126 review fixes — 2026-09-30
 

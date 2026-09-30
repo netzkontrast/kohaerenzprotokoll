@@ -361,6 +361,8 @@ To resume, use the staged files as the reader handoff, follow the ingest skill,
 and complete reconciliation before committing them back to `Sources/`.
 The claims selftest explicitly reads the staged R2 fixture.
 
-**Resumed 2026-09-30.** R4 (`angst-bei-komplexen-traumafolgen`) is reconciled — no page, no reading, record 58 —
-and its pair is back in `Sources/terms/` and `Sources/notes/`. The claims selftest still reads R2's staged note; it
-goes back to `Sources/` with R2's pair, in the commit that carries R2's record.
+**Resumed and finished 2026-09-30.** All four are reconciled, each pair back in `Sources/terms/` and `Sources/notes/` in the
+commit that carries its record (R4 first, 58; then R2 56, R3 57, R5 59), and `staged/` no longer exists. The claims selftest reads
+`Sources/` again. The readings of R2, R3 and R5 were written by one Sonnet `wiki-reader` in one batch
+(`Plan/runs/step6-readings-56-59/`, 48 files, 69 minutes, 272 tool uses); what it left — the record entries, and readings on
+`chaitin-konstante`, `mnemosyne-server-architektur` and `plot` — the reconciler wrote from `-records/` and `-extra/`.
