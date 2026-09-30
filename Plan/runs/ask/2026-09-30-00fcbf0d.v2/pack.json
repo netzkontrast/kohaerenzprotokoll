@@ -1,0 +1,306 @@
+{
+ "id": "2026-09-30-00fcbf0d.v2",
+ "question": "Wie viele Beats hat die Genesis, und ist Kael die Komponente 734 selbst oder ihr Rest nach dem Trennungsprotokoll? Woher kommt AEGIS?",
+ "kind": "position",
+ "built": "2026-09-30T12:24:59",
+ "sends_text_of": [
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "kohaerenz-protokoll-konzept-master-md",
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "entropie-aegis",
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+  "koharenz-protokoll-konzept-iteration-genesis-md",
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+  "aegis-genesis-krise-konzeptioneller-rahmen",
+  "dramatica-dual-storyform-status-2026-05-07-md",
+  "kapitel-kompendium-gather-2026-05-31-md",
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+  "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+  "kohaerenz-protokoll-kapitel-outline-generierung-2",
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+  "kontext-outline",
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+  "optimierte-plotline-genesis-der-existenz",
+  "romanprojekt-kohaerenz-protokoll-analyse",
+  "uberarbeitete-optimierte-plotline-genesis-der-existenz",
+  "worldbuilding-konzept-kohaerenzprotokoll-md"
+ ],
+ "cut_by_budget": [],
+ "budget": 60000,
+ "chars": 34051,
+ "window_chars": 25510,
+ "finders": {
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "entropie-aegis": [
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-konzept-iteration-genesis-md": [
+   "bm25-lines"
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   "bm25-lines"
+  ],
+  "aegis-genesis-krise-konzeptioneller-rahmen": [
+   "bm25-lines"
+  ],
+  "dramatica-dual-storyform-status-2026-05-07-md": [
+   "bm25-lines"
+  ],
+  "kapitel-kompendium-gather-2026-05-31-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-kapitel-outline-generierung-2": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+   "bm25-lines"
+  ],
+  "kontext-outline": [
+   "bm25-lines"
+  ],
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "optimierte-plotline-genesis-der-existenz": [
+   "bm25-lines"
+  ],
+  "romanprojekt-kohaerenz-protokoll-analyse": [
+   "bm25-lines"
+  ],
+  "uberarbeitete-optimierte-plotline-genesis-der-existenz": [
+   "bm25-lines"
+  ],
+  "worldbuilding-konzept-kohaerenzprotokoll-md": [
+   "bm25-lines"
+  ]
+ },
+ "seeds": [
+  "term:trennungsprotokoll",
+  "term:komponente-734",
+  "term:genesis",
+  "term:aegis",
+  "term:kael",
+  "term:aegis-metriken",
+  "term:aegis-teilfunktionen",
+  "term:genesis-klammer",
+  "term:kael-julia-bindung"
+ ],
+ "skills": [
+  "character-card-builder",
+  "reverse-character-cards"
+ ],
+ "hash": "b9c907191eddf7098721164e01b41826ce83b5318f9002d02436808fb69b5d50",
+ "shown": {
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md": [
+   115,
+   117,
+   119,
+   123,
+   125,
+   127,
+   741,
+   765,
+   769,
+   837
+  ],
+  "kohaerenz-protokoll-konzept-master-md": [
+   477,
+   478,
+   817,
+   818,
+   819,
+   820,
+   821,
+   822,
+   823,
+   998
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   571,
+   572,
+   573,
+   574,
+   576,
+   658,
+   659,
+   660,
+   661,
+   662,
+   1171,
+   1172,
+   1173,
+   1174,
+   1175,
+   1176
+  ],
+  "entropie-aegis": [
+   15,
+   17,
+   19,
+   21,
+   23
+  ],
+  "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md": [
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   111,
+   113,
+   114,
+   115,
+   548,
+   550
+  ],
+  "koharenz-protokoll-konzept-iteration-genesis-md": [
+   198,
+   200,
+   469,
+   470,
+   471,
+   472,
+   790
+  ],
+  "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out": [
+   743,
+   744,
+   745,
+   746,
+   747,
+   748,
+   872
+  ],
+  "aegis-genesis-krise-konzeptioneller-rahmen": [
+   515,
+   517,
+   518,
+   520
+  ],
+  "dramatica-dual-storyform-status-2026-05-07-md": [
+   405,
+   406,
+   407,
+   408,
+   410
+  ],
+  "kapitel-kompendium-gather-2026-05-31-md": [
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218
+  ],
+  "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md": [
+   101,
+   103,
+   105
+  ],
+  "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md": [
+   146,
+   147,
+   148,
+   149
+  ],
+  "kohaerenz-protokoll-kapitel-outline-generierung-2": [
+   132,
+   134,
+   135,
+   136,
+   138
+  ],
+  "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md": [
+   227,
+   228,
+   229,
+   232
+  ],
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+   474,
+   475,
+   476,
+   477,
+   478,
+   479,
+   480
+  ],
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+   936,
+   939,
+   940,
+   941,
+   942
+  ],
+  "kontext-outline": [
+   24,
+   26,
+   27,
+   28
+  ],
+  "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md": [
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167
+  ],
+  "optimierte-plotline-genesis-der-existenz": [
+   106,
+   107,
+   109,
+   111,
+   112
+  ],
+  "romanprojekt-kohaerenz-protokoll-analyse": [
+   37,
+   39,
+   41
+  ],
+  "uberarbeitete-optimierte-plotline-genesis-der-existenz": [
+   149,
+   151,
+   152,
+   154
+  ],
+  "worldbuilding-konzept-kohaerenzprotokoll-md": [
+   178,
+   179,
+   180
+  ]
+ },
+ "repacked_from": "2026-09-30-00fcbf0d",
+ "rules": "v2"
+}

@@ -81,18 +81,40 @@ def one(qid: str, model: str, attempt: int) -> dict:
     if "unreached" in rec:
         return row | {"status": "unreached", "why": str(rec["unreached"])[:300],
                       "failed_attempts": len(rec.get("tried", []))}
-    v = ask.verify(ask.parse(rec["content"]), meta["shown"])
-    sc = ask.score(v, reference(qid), meta["shown"])
+    return row | {"served_by": rec["model"], "failed_attempts": len(rec.get("tried", []))} \
+        | judge(qid, rec["content"], meta)
+
+
+def judge(qid: str, content: str, meta: dict) -> dict:
+    """One answer, placed and scored by ask's own code; the reference is the pack's base run."""
+    v = ask.verify(ask.parse(content), meta["shown"])
+    sc = ask.score(v, reference(meta.get("repacked_from") or qid), meta["shown"])
     says = [c["says"] for c in v["claims"] + v["unsupported"] if c.get("says")]
     langs = [route.lang(s) for s in says]
     judged = [x for x in langs if x]
-    return row | {"status": v["status"], "why": v.get("why"), "served_by": rec["model"],
-                  "failed_attempts": len(rec.get("tried", [])),
-                  "counts": v["counts"], "claims": len(v["claims"]), "answerable": v.get("answerable"),
-                  "score": sc["score"], "precision": sc["precision"], "ref_hit": sc["gold_hit"],
-                  "fabricated": sc["fabricated"],
-                  "german": round(judged.count("de") / len(judged), 2) if judged else None,
-                  "content": rec["content"]}
+    quotes = [len(q["text"].split()) for c in v["claims"] for q in c["quotes"] if q["status"] == "placed"]
+    return {"status": v["status"], "why": v.get("why"),
+            "counts": v["counts"], "claims": len(v["claims"]), "answerable": v.get("answerable"),
+            "score": sc["score"], "precision": sc["precision"], "ref_hit": sc["gold_hit"],
+            "fabricated": sc["fabricated"], "spliced": v["counts"].get("spliced", 0),
+            "quote_words": round(sum(quotes) / len(quotes), 1) if quotes else None,
+            "german": round(judged.count("de") / len(judged), 2) if judged else None,
+            "content": content}
+
+
+def sessions(qids: list[str]) -> list[dict]:
+    """Score every subagent answer (raw.session*.json) in these runs, grouped by the pack's card."""
+    out = []
+    for qid in qids:
+        _, meta = ask.load_pack(qid)
+        for raw in sorted(ask.run_dir(qid).glob("raw.session*.json")):
+            r = json.loads(raw.read_text(encoding="utf-8"))
+            if r.get("pack_hash") not in (None, meta["hash"]):
+                continue
+            text = r.get("text") or json.dumps(r.get("answer"), ensure_ascii=False)
+            out.append({"pack": meta.get("repacked_from") or qid, "card": meta.get("rules", "v1"),
+                        "file": raw.name, "model": r.get("model")} | judge(qid, text, meta))
+    return out
 
 
 def run(packs: list[str], models: list[str], repeats: int, max_calls: int, threads: int) -> Path:
@@ -195,6 +217,22 @@ def main(argv: list[str]) -> int:
         models = candidates() if opt("--models", "all") == "all" else opt("--models").split(",")
         run(opt("--packs").split(","), models, int(opt("--repeats", 1)), int(opt("--max-calls", 50)),
             int(opt("--threads", 10)))
+        return 0
+    if cmd == "sessions":
+        rs = sessions(rest[0].split(","))
+        out = ROOT / "Plan" / "runs" / "ask" / f"card-ab-{time.strftime('%Y-%m-%d')}.jsonl"
+        out.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rs), encoding="utf-8")
+        for r in rs:
+            print(f"{r['card']:4} {r['pack']:22} {r['file']:24} {r['status']:14} score {r['score']}  "
+                  f"prec {r['precision']}  ref {r['ref_hit']}  fab {r['fabricated']}  splice {r['spliced']}  "
+                  f"de {r['german']}  words {r['quote_words']}  claims {r['claims']}  {r['answerable']}")
+        for card in sorted({r["card"] for r in rs}):
+            xs = [r for r in rs if r["card"] == card]
+            ok = [r for r in xs if r["score"] is not None]
+            m = lambda k: round(sum(r[k] for r in ok if r[k] is not None) / max(1, sum(1 for r in ok if r[k] is not None)), 3)
+            print(f"{card}: {len(ok)}/{len(xs)} scored, score {m('score')}, precision {m('precision')}, "
+                  f"ref {m('ref_hit')}, fabricated {sum(r['fabricated'] or 0 for r in xs)}, "
+                  f"spliced {sum(r['spliced'] for r in xs)}, german {m('german')}, quote words {m('quote_words')}")
         return 0
     if cmd == "report":
         report("--write" in rest)

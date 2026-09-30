@@ -373,6 +373,28 @@ def cmd_run(qid: str, backend: str, model: str | None, attempt: int = 0) -> dict
     return res
 
 
+def repack(qid: str, rules: str, suffix: str) -> str:
+    """A copy of a stored pack with only its rules card swapped — the same windows, graph and
+    schema — as run `<qid>.<suffix>`, so two cards are compared on identical evidence."""
+    text, meta = load_pack(qid)
+    head, rest = text.split("## Regeln für diese Antwort", 1)
+    tail = rest[rest.index("\n## "):]
+    new = head + rules.rstrip("\n") + "\n" + tail
+    nid = f"{qid}.{suffix}"
+    d = run_dir(nid)
+    if (d / "pack.json").exists():
+        if json.loads((d / "pack.json").read_text(encoding="utf-8"))["hash"] == sha(new):
+            return nid
+        sys.exit(f"{nid} exists with another pack; a pack is never edited")
+    d.mkdir(parents=True)
+    (d / "question.txt").write_text(meta["question"] + "\n", encoding="utf-8")
+    (d / "pack.md").write_text(new, encoding="utf-8")
+    m = dict(meta) | {"id": nid, "hash": sha(new), "chars": len(new), "built": now(),
+                      "repacked_from": qid, "rules": suffix, "shown": meta["shown"]}
+    (d / "pack.json").write_text(json.dumps(m, ensure_ascii=False, indent=1), encoding="utf-8")
+    return nid
+
+
 def session_prompt(qid: str, attempt: int = 0) -> str:
     """What a Sonnet subagent is told: read the pack, nothing else; write one JSON file."""
     _, meta = load_pack(qid)
@@ -384,8 +406,7 @@ def session_prompt(qid: str, attempt: int = 0) -> str:
    Read no other file, run no search and no command: the pack is your only source, and code will
    reject every quotation that does not stand on a line the pack sent.
 2. Answer exactly as the pack's rules (`## Regeln für diese Antwort`) and schema (`## Antwortschema`) say.
-   Quotations are copied character for character from one `Lnn:` line, never joined with „…",
-   never translated; `says` is German.
+   The rules are the pack's alone; this instruction adds none.
 3. Write one file with the Write tool, `{out}`, holding this JSON object:
    {{"status": "answered", "model": "session/sonnet", "pack_hash": "{meta['hash']}",
     "answer": <your answer, the JSON object the schema describes>}}
@@ -931,6 +952,18 @@ def main(argv: list[str]) -> int:
     if cmd == "migrate":
         for m in migrate():
             print(m)
+        return 0
+    if cmd == "repack":
+        # the rules card of a git revision (--rules-rev REV) or the current one, on a stored pack
+        rev = opt("--rules-rev")
+        if rev:
+            import subprocess
+            src = subprocess.run(["git", "show", f"{rev}:scripts/ask.py"], cwd=ROOT, capture_output=True,
+                                 text=True, check=True).stdout
+            rules = re.search(r'^RULES = """(.*?)^"""', src, re.S | re.M).group(1)
+        else:
+            rules = RULES
+        print(repack(positional[0], rules, opt("--suffix", "rules")))
         return 0
     if cmd == "session":
         print(session_prompt(positional[0], attempt))

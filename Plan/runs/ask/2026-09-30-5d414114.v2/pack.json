@@ -1,0 +1,326 @@
+{
+ "id": "2026-09-30-5d414114.v2",
+ "question": "Wann erscheint Juna zum ersten Mal direkt, und in welcher Form?",
+ "kind": "position",
+ "built": "2026-09-30T12:24:59",
+ "sends_text_of": [
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "dual-storyform-hintergruende-md",
+  "entropie-aegis",
+  "kapitel-kompendium-gather-2026-05-31-md",
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+  "kp-kap25-2026-09-14-md",
+  "roman-blueprint-seelen-kohaerenz-protokoll",
+  "romanstruktur-duale-erzaehlung-und-kishotenketsu",
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+  "dkt-fundament-kohaerenz-protokoll-md",
+  "heilung-hirnchemie-kunst-trauma",
+  "kap0-v1-annotiert-md",
+  "kohaerenz-protokoll",
+  "kohaerenz-protokoll-kapitel-outline-erstellung",
+  "koharenz-protokoll-kapitel-0-v2-md",
+  "koharenz-protokoll-konzept-iteration-genesis-md",
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+  "protokoll-der-offenbarung",
+  "research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2",
+  "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+  "roman-analyse-kohaerenz-protokoll-akt-i",
+  "roman-konzept-reduktion-und-kernfindung",
+  "roman-outline-fuer-kohaerenz-protokoll",
+  "roman-outline-transformation-in-keyword-tags",
+  "roman-plot-entwicklung-mit-kohaerenzprotokoll"
+ ],
+ "cut_by_budget": [],
+ "budget": 60000,
+ "chars": 36445,
+ "window_chars": 28918,
+ "finders": {
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   "bm25-lines",
+   "graph-evidence"
+  ],
+  "dual-storyform-hintergruende-md": [
+   "graph-evidence"
+  ],
+  "entropie-aegis": [
+   "graph-evidence"
+  ],
+  "kapitel-kompendium-gather-2026-05-31-md": [
+   "graph-evidence"
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   "graph-evidence"
+  ],
+  "kp-kap25-2026-09-14-md": [
+   "bm25-lines"
+  ],
+  "roman-blueprint-seelen-kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "romanstruktur-duale-erzaehlung-und-kishotenketsu": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md": [
+   "bm25-lines"
+  ],
+  "dkt-fundament-kohaerenz-protokoll-md": [
+   "bm25-lines"
+  ],
+  "heilung-hirnchemie-kunst-trauma": [
+   "bm25-lines"
+  ],
+  "kap0-v1-annotiert-md": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "kohaerenz-protokoll-kapitel-outline-erstellung": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-kapitel-0-v2-md": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-konzept-iteration-genesis-md": [
+   "bm25-lines"
+  ],
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+   "bm25-lines"
+  ],
+  "protokoll-der-offenbarung": [
+   "bm25-lines"
+  ],
+  "research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2": [
+   "bm25-lines"
+  ],
+  "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform": [
+   "bm25-lines"
+  ],
+  "roman-analyse-kohaerenz-protokoll-akt-i": [
+   "bm25-lines"
+  ],
+  "roman-konzept-reduktion-und-kernfindung": [
+   "bm25-lines"
+  ],
+  "roman-outline-fuer-kohaerenz-protokoll": [
+   "bm25-lines"
+  ],
+  "roman-outline-transformation-in-keyword-tags": [
+   "bm25-lines"
+  ],
+  "roman-plot-entwicklung-mit-kohaerenzprotokoll": [
+   "bm25-lines"
+  ]
+ },
+ "seeds": [
+  "term:juna"
+ ],
+ "skills": [],
+ "hash": "97d8ccdba17c10615a8ca4c8b50b65a9c63a9c9fdf4c3d25307f5d4ee69a228a",
+ "shown": {
+  "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+   42,
+   286,
+   306,
+   307,
+   308,
+   309,
+   310,
+   311
+  ],
+  "koharenz-protokoll-strukturierter-outline-2026-05-18-md": [
+   119,
+   121,
+   123,
+   837
+  ],
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+   590,
+   591,
+   592,
+   593,
+   594,
+   595
+  ],
+  "dual-storyform-hintergruende-md": [
+   417,
+   419,
+   420,
+   421
+  ],
+  "entropie-aegis": [
+   69,
+   71,
+   73
+  ],
+  "kapitel-kompendium-gather-2026-05-31-md": [
+   11,
+   13
+  ],
+  "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+   225,
+   226,
+   227
+  ],
+  "kp-kap25-2026-09-14-md": [
+   191,
+   193,
+   195,
+   237,
+   239,
+   241,
+   261,
+   263,
+   265
+  ],
+  "roman-blueprint-seelen-kohaerenz-protokoll": [
+   416,
+   417,
+   418,
+   419,
+   420,
+   421,
+   422,
+   423,
+   424,
+   531,
+   532,
+   533,
+   534,
+   535,
+   536
+  ],
+  "romanstruktur-duale-erzaehlung-und-kishotenketsu": [
+   226,
+   228,
+   229,
+   230,
+   231
+  ],
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md": [
+   630,
+   632,
+   724,
+   725,
+   726,
+   727,
+   728,
+   729
+  ],
+  "dkt-fundament-kohaerenz-protokoll-md": [
+   202,
+   204,
+   205,
+   207,
+   208
+  ],
+  "heilung-hirnchemie-kunst-trauma": [
+   151,
+   152,
+   153,
+   154,
+   155
+  ],
+  "kap0-v1-annotiert-md": [
+   513
+  ],
+  "kohaerenz-protokoll": [
+   1584,
+   1586,
+   1588
+  ],
+  "kohaerenz-protokoll-kapitel-outline-erstellung": [
+   435,
+   436,
+   437,
+   439
+  ],
+  "koharenz-protokoll-kapitel-0-v2-md": [
+   283
+  ],
+  "koharenz-protokoll-konzept-iteration-genesis-md": [
+   514,
+   516,
+   518
+  ],
+  "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+   1383,
+   1386,
+   1389
+  ],
+  "protokoll-der-offenbarung": [
+   839,
+   840,
+   841,
+   842,
+   843,
+   844,
+   845
+  ],
+  "research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2": [
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178
+  ],
+  "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform": [
+   330,
+   331,
+   332,
+   333,
+   334,
+   335,
+   336
+  ],
+  "roman-analyse-kohaerenz-protokoll-akt-i": [
+   225,
+   227,
+   229
+  ],
+  "roman-konzept-reduktion-und-kernfindung": [
+   118,
+   120,
+   122
+  ],
+  "roman-outline-fuer-kohaerenz-protokoll": [
+   874,
+   876,
+   877,
+   878,
+   879,
+   880
+  ],
+  "roman-outline-transformation-in-keyword-tags": [
+   483,
+   484,
+   485,
+   486,
+   487,
+   488,
+   489
+  ],
+  "roman-plot-entwicklung-mit-kohaerenzprotokoll": [
+   125,
+   126,
+   127,
+   128,
+   129,
+   131
+  ]
+ },
+ "repacked_from": "2026-09-30-5d414114",
+ "rules": "v2"
+}
