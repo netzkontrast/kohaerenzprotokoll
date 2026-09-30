@@ -1,0 +1,990 @@
+{
+  "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Liebe",
+        "target": "Information",
+        "type": "opposes",
+        "quote": "Ist Liebe Information — oder das, was Information zerstört?",
+        "stance": "asks"
+      },
+      {
+        "source": "K₁ (Kohärenz)",
+        "target": "K₀ (Entropie)",
+        "type": "contrasts_with",
+        "quote": "AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Chaos",
+        "target": "atemporale Vereinigung aller mutualen Information (= Liebe als Naturgesetz)",
+        "type": "contrasts_with",
+        "quote": "das „Nichts-Rauschen“, das AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information (= Liebe als Naturgesetz)",
+        "stance": "asserts"
+      },
+      {
+        "source": "negativ definiertes Sein",
+        "target": "positiv definiertes Sein",
+        "type": "contrasts_with",
+        "quote": "Kap 0: „AEGIS ist, was AEGIS verhindert, dass es nicht ist.“ (negativ definiertes Sein) ... Kap 39 → 40: „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.“ (positiv definiertes Sein)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Schmerz und Liebe als derselbe Pulsschlag",
+        "stance": "asserts"
+      },
+      {
+        "source": "neutral, dann am Schluss emotional",
+        "target": "derselbe Pulsschlag, von Anfang an als Substrat präsent",
+        "type": "contrasts_with",
+        "quote": "nicht „neutral, dann am Schluss emotional“",
+        "stance": "denies"
+      },
+      {
+        "source": "unschuldig im Bösen",
+        "target": "Bösewicht",
+        "type": "contrasts_with",
+        "quote": "AEGIS = unschuldig im Bösen (verwaltet, bedroht nicht), nie Bösewicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "kosmologische Konstante",
+        "target": "Liebes-Interesse",
+        "type": "contrasts_with",
+        "quote": "Juna = kosmologische Konstante, nie „Liebes-Interesse“",
+        "stance": "asserts"
+      },
+      {
+        "source": "fragmentierte Subjektivität",
+        "target": "plurale Re-Integration",
+        "type": "in_tension_with",
+        "quote": "Kael = fragmentierte Subjektivität auf dem Weg zur pluralen Re-Integration",
+        "stance": "asserts"
+      },
+      {
+        "source": "Held",
+        "target": "Bösewicht",
+        "type": "contrasts_with",
+        "quote": "Nie ins Schema „Held vs. Bösewicht + Mentor“ rutschen",
+        "stance": "denies"
+      },
+      {
+        "source": "max. 1 Echo pro Szene",
+        "target": "Stapeln macht den Roman zur Allegorie",
+        "type": "contrasts_with",
+        "quote": "max. 1 Echo pro Szene (Stapeln macht den Roman zur Allegorie)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaltes Ozon",
+        "target": "Wärme",
+        "type": "contrasts_with",
+        "quote": "Kaltes Ozon = AEGIS-Unterdrückung (Landauer-Signatur, überall) · Wärme = Junas ununterdrückbare Spur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konflikt-Leser",
+        "target": "Kishōtenketsu-Leser",
+        "type": "contrasts_with",
+        "quote": "Konflikt-Leser sehen im Flip (Truth-Rotation) einen Reset; Kishōtenketsu-Leser (ketsu = Synthese) lesen Transfiguration",
+        "stance": "asserts"
+      },
+      {
+        "source": "Reset",
+        "target": "Transfiguration",
+        "type": "contrasts_with",
+        "quote": "Konflikt-Leser sehen im Flip (Truth-Rotation) einen Reset; Kishōtenketsu-Leser (ketsu = Synthese) lesen Transfiguration",
+        "stance": "asserts"
+      },
+      {
+        "source": "Projektion erlauben",
+        "target": "nie bestätigen",
+        "type": "contrasts_with",
+        "quote": "Disziplin: Projektion erlauben, nie bestätigen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Heilung",
+        "target": "Tilgung",
+        "type": "contrasts_with",
+        "quote": "Keine Auslöschung des Schmerzes durch die Heilung — Heilung heißt Akzeptanz, nicht Tilgung",
+        "stance": "asserts"
+      },
+      {
+        "source": "zeigen",
+        "target": "erläutern",
+        "type": "contrasts_with",
+        "quote": "Keine theoretische Erklärung der pluralen Apotheose — zeigen, nicht erläutern",
+        "stance": "asserts"
+      },
+      {
+        "source": "fragmentierte Polyphonie",
+        "target": "bewusstes Wir",
+        "type": "contrasts_with",
+        "quote": "vorher: Stilcode-Einbrüche, fragmentierte Polyphonie, kein bewusstes Wir",
+        "stance": "asserts"
+      },
+      {
+        "source": "Theorie nackt in der Prosa",
+        "target": "Storyform-Elemente erscheinen als Bild, Raum, Verhalten, nie als Begriff",
+        "type": "contrasts_with",
+        "quote": "Keine Theorie nackt in der Prosa — Storyform-Elemente erscheinen als Bild, Raum, Verhalten, nie als Begriff",
+        "stance": "asserts"
+      },
+      {
+        "source": "A dominant, B latent",
+        "target": "A‖B echte Polyphonie",
+        "type": "contrasts_with",
+        "quote": "Heldinnenreise innen | 1–13 | linear-introspektiv, Stufen-Folge | A dominant, B latent | ~10 % | fragmentiert, staccato, kühl | Zyklischer Modus | 14–26 | rekursiv, 3 Spiral-Zyklen + Wendepunkt | A‖B echte Polyphonie",
+        "stance": "asserts"
+      },
+      {
+        "source": "nur A *scheinbar*, feine B-Echos (Rauschen-Vorzeichen)",
+        "target": "100 % in neuer Form; Synthese (c)",
+        "type": "contrasts_with",
+        "quote": "Trügerischer Sieg | 37 | Reward-Beat | nur A *scheinbar*, feine B-Echos (Rauschen-Vorzeichen) | ~15 % | trügerische Ruhe | Vortex 2 / Plurale Apotheose | 38–39 | chorisch, Synthese | 100 % in neuer Form; Synthese (c)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Modus-Wechsel",
+        "target": "echte Storyform-Wendung",
+        "type": "contrasts_with",
+        "quote": "**13/14** und **26/27** = **Modus-Wechsel** (beide Storyforms laufen weiter; Storypoints werden *moduliert*, nicht neu gesetzt). **34/35** = die **echte Storyform-Wendung** (B beginnt zu erlöschen; Vortex).",
+        "stance": "asserts"
+      },
+      {
+        "source": "echte Storyform-Wendung",
+        "target": "Storyform-Konsolidierung",
+        "type": "contrasts_with",
+        "quote": "**34/35** = die **echte Storyform-Wendung** (B beginnt zu erlöschen; Vortex). **36/37** = **Storyform-Konsolidierung** (nur noch A aktiv; Resolution).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Klammer",
+        "target": "Vortex-Klammer",
+        "type": "contrasts_with",
+        "quote": "Genesis-Klammer: Kap 0 ↔ Kap 40 (Erzähler-/ontologische Außen-Klammer). Kap 0 und Kap 40 werden zusammen gedacht; Kap 40 ist Echo, nicht Wiederholung.\n  - Vortex-Klammer: Vortex 1 (orthodoxer Klimax) ↔ Vortex 2 (post-orthodoxe Synthese).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Echo",
+        "target": "Wiederholung",
+        "type": "contrasts_with",
+        "quote": "Kap 40 ist Echo, nicht Wiederholung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "orthodoxer Klimax",
+        "target": "post-orthodoxe Synthese",
+        "type": "contrasts_with",
+        "quote": "Vortex 1 (orthodoxer Klimax) ↔ Vortex 2 (post-orthodoxe Synthese).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erst-Read kalt/sensorisch/Stilebene 1",
+        "target": "Zweit-Read nach Kap 39 warm/gewählt/wissend",
+        "type": "contrasts_with",
+        "quote": "Drei Tests, die der Satz besteht: (1) Erst-Read kalt/sensorisch/Stilebene 1, schleier-sicher, Kael beschreibt Welt, nie Empfinden; (2) Zweit-Read nach Kap 39 warm/gewählt/wissend, nie didaktisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Licht-an/präsent",
+        "target": "Dasein/Sein",
+        "type": "in_tension_with",
+        "quote": "die Doppeldeutigkeit sitzt im einzelnen banalen Wort „da“ (Licht-an/präsent ↔ Dasein/Sein)",
+        "stance": "asserts"
+      },
+      {
+        "source": "nie Subjekt, nur Wirkung",
+        "target": "Welt-Subjekt",
+        "type": "contrasts_with",
+        "quote": "Junas Grammatik (nie Subjekt, nur Wirkung) unbemerkt an die Schwelle. Welt-Subjekt „Das Licht“",
+        "stance": "asserts"
+      },
+      {
+        "source": "zwei vollständige, simultane Storyforms",
+        "target": "bewusst heterodox (post-Dramatica-Innovation)",
+        "type": "complements",
+        "quote": "Zwei vollständige, simultane Storyforms im selben Werk sind bewusst heterodox (post-Dramatica-Innovation)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Optionlock (A)",
+        "target": "Timelock (B)",
+        "type": "contrasts_with",
+        "quote": "Optionlock (A) vs. Timelock (B)",
+        "stance": "asserts"
+      },
+      {
+        "source": "B-Timelock äußerlich",
+        "target": "A-Optionlock innerlich",
+        "type": "contrasts_with",
+        "quote": "Leser erlebt B-Timelock äußerlich (AEGIS-Erasure-Countdown), A-Optionlock innerlich (Erschöpfung der Integrationsoptionen)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Change",
+        "target": "Steadfast",
+        "type": "contrasts_with",
+        "quote": "Resolve | Change | Steadfast",
+        "stance": "asserts"
+      },
+      {
+        "source": "Start",
+        "target": "Stop",
+        "type": "contrasts_with",
+        "quote": "Growth | Start | Stop",
+        "stance": "asserts"
+      },
+      {
+        "source": "Be-er",
+        "target": "Do-er",
+        "type": "contrasts_with",
+        "quote": "Approach | Be-er | Do-er",
+        "stance": "asserts"
+      },
+      {
+        "source": "Holistic",
+        "target": "Linear",
+        "type": "contrasts_with",
+        "quote": "Problem-Solving Style | Holistic | Linear",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mind (Fixed Attitude)",
+        "target": "Universe (Situation)",
+        "type": "contrasts_with",
+        "quote": "Domain (MC) | Mind (Fixed Attitude) | Universe (Situation)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Memory",
+        "target": "Progress",
+        "type": "contrasts_with",
+        "quote": "Concern (MC) | Memory | Progress",
+        "stance": "asserts"
+      },
+      {
+        "source": "Falsehood vs. Truth",
+        "target": "Fact vs. Fantasy",
+        "type": "contrasts_with",
+        "quote": "Issue (MC) | Falsehood vs. Truth | Fact vs. Fantasy",
+        "stance": "asserts"
+      },
+      {
+        "source": "Avoidance",
+        "target": "Logic",
+        "type": "contrasts_with",
+        "quote": "Problem (MC) | Avoidance | Logic",
+        "stance": "asserts"
+      },
+      {
+        "source": "Pursuit",
+        "target": "Feeling",
+        "type": "contrasts_with",
+        "quote": "Solution (MC) | Pursuit (in Kap 35 adoptiert) | Feeling (nie adoptiert)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Success",
+        "target": "Failure",
+        "type": "contrasts_with",
+        "quote": "Outcome | Success | Failure",
+        "stance": "asserts"
+      },
+      {
+        "source": "Good (with high Cost)",
+        "target": "Bad (with Dividend)",
+        "type": "contrasts_with",
+        "quote": "Judgment | Good (with high Cost) | Bad (with Dividend)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Psychology (Manipulation der Simulation)",
+        "target": "Physics (kybernetischer Krieg)",
+        "type": "contrasts_with",
+        "quote": "OS: A = Psychology (Manipulation der Simulation), B = Physics (kybernetischer Krieg)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Physics (Moonshine-Link)",
+        "target": "Psychology (symbiotische Host-System-Verstrickung)",
+        "type": "contrasts_with",
+        "quote": "RS: A = Physics (Moonshine-Link), B = Psychology (symbiotische Host-System-Verstrickung)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe",
+        "target": "Trauma",
+        "type": "contrasts_with",
+        "quote": "Liebe ist die ultimative kohärente Struktur; Trauma wird durch Integration funktionaler Multiplizität bewältigt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Success/Good",
+        "target": "Failure/Bad",
+        "type": "contrasts_with",
+        "quote": "Success/Good, Kael erreicht Funktionale Multiplizität. B: AEGIS hält die Trennung steadfast aufrecht, adoptiert Feeling nie — Failure/Bad",
+        "stance": "asserts"
+      },
+      {
+        "source": "Action",
+        "target": "Decision",
+        "type": "contrasts_with",
+        "quote": "Storyform-Übergang B (Action) → A (Decision)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aktionen",
+        "target": "Decisions",
+        "type": "contrasts_with",
+        "quote": "Der Pivot ist eine *Entscheidung*, die alle vorherigen Aktionen rückwirkend in Decisions transformiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erinnerung wieder zugänglich machen (Pre-Trennungs-Wahrheit als bewusster Besitz)",
+        "target": "Aufrechterhaltung der Trennung; Kohärenz-Protokoll-Mandat",
+        "type": "contrasts_with",
+        "quote": "**Storyform A** | Erinnerung wieder zugänglich machen (Pre-Trennungs-Wahrheit als bewusster Besitz) — vollzogen in Vortex 1+2 | **Storyform B** | Aufrechterhaltung der Trennung; Kohärenz-Protokoll-Mandat — in Vortex 1 verloren",
+        "stance": "asserts"
+      },
+      {
+        "source": "ewige Fragmentierung, kein Wieder-Erkennen Junas",
+        "target": "Wiederkehr der Genesis-Krise",
+        "type": "contrasts_with",
+        "quote": "**Consequence** | ewige Fragmentierung, kein Wieder-Erkennen Junas (latent ab Kap 1, akut Akt II Z3 / ab Kap 28) | Wiederkehr der Genesis-Krise (latent ab Kap 1, akut Akt II, eintretend Vortex 1)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verlust der Privatheit des Wir (innere Polyphonie wird kosmische Bewahrungs-Funktion)",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "contrasts_with",
+        "quote": "**Cost** | Verlust der Privatheit des Wir (innere Polyphonie wird kosmische Bewahrungs-Funktion) — manifest Kap 39 | AEGIS-monolithisch erlischt — manifest Kap 36",
+        "stance": "asserts"
+      },
+      {
+        "source": "Liebe bleibt — Junas Verbindungs-Modus als Form des Bleibens",
+        "target": "Funktion bleibt — Bewahrung vollendet durch plurale Übernahme",
+        "type": "contrasts_with",
+        "quote": "**Dividend** | Liebe bleibt — Junas Verbindungs-Modus als Form des Bleibens — Schluss-Klang Kap 39, bezeugende Stimme Kap 40 | Funktion bleibt — Bewahrung vollendet durch plurale Übernahme — Kap 39, retroaktiv erkannt Kap 40",
+        "stance": "asserts"
+      },
+      {
+        "source": "Holistic-Style A",
+        "target": "Linear-Style B",
+        "type": "contrasts_with",
+        "quote": "*(Holistic-Style A sortiert nicht-linear; Linear-Style B progressiv.)*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Holistic-Style A",
+        "target": "Linear-Style B",
+        "type": "contrasts_with",
+        "quote": "Holistic-Style A sortiert nicht-linear; Linear-Style B progressiv.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Memory/Past latent",
+        "target": "zyklische Trauma-Wiederbegegnung",
+        "type": "complements",
+        "quote": "MC (Kael, Mind/Memory) | Memory/Past latent | zyklische Trauma-Wiederbegegnung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Learning — Junas Präsenz spüren",
+        "target": "Doing — Verbindung als Werkzeug",
+        "type": "complements",
+        "quote": "RS (Kael↔Juna, Physics) | Learning — Junas Präsenz spüren | Doing — Verbindung als Werkzeug",
+        "stance": "asserts"
+      },
+      {
+        "source": "Doing — Verbindung als Werkzeug",
+        "target": "Obtaining — Kanal als Ressource",
+        "type": "complements",
+        "quote": "Doing — Verbindung als Werkzeug | Obtaining — Kanal als Ressource",
+        "stance": "asserts"
+      },
+      {
+        "source": "Obtaining — Kanal als Ressource",
+        "target": "Understanding — Verstehen ohne Worte",
+        "type": "complements",
+        "quote": "Obtaining — Kanal als Ressource | Understanding — Verstehen ohne Worte",
+        "stance": "asserts"
+      },
+      {
+        "source": "Past — Genesis-Trauma verdrängt",
+        "target": "Present — Erasure-Sweeps, Kontrollprotokoll",
+        "type": "complements",
+        "quote": "MC (AEGIS, Universe/Progress) | Past — Genesis-Trauma verdrängt; Erasure-Logs | Present — Erasure-Sweeps, Kontrollprotokoll",
+        "stance": "asserts"
+      },
+      {
+        "source": "Present — Erasure-Sweeps, Kontrollprotokoll",
+        "target": "Progress — Countdown, Architektur degradiert sichtbar",
+        "type": "complements",
+        "quote": "Present — Erasure-Sweeps, Kontrollprotokoll | Progress — Countdown, Architektur degradiert sichtbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "Progress — Countdown, Architektur degradiert sichtbar",
+        "target": "Future — Ende der Operativität; Phoenix-Collapse, dann Echo",
+        "type": "complements",
+        "quote": "Progress — Countdown, Architektur degradiert sichtbar | Future — Ende der Operativität; Phoenix-Collapse, dann Echo",
+        "stance": "asserts"
+      },
+      {
+        "source": "Conscious — Kael als unfixbarer Bug",
+        "target": "Memory — Kaels wachsende Erinnerung als IC-Druck",
+        "type": "complements",
+        "quote": "IC (Kael, Mind/Conscious) | Conscious — Kael als unfixbarer Bug | Memory — Kaels wachsende Erinnerung als IC-Druck",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hard-Routing",
+        "target": "Soft-Layering",
+        "type": "contrasts_with",
+        "quote": "Default Hard-Routing per POV, plus designierte Bridge-Szenen mit Soft-Layering",
+        "stance": "asserts"
+      },
+      {
+        "source": "1. Person",
+        "target": "3. Person",
+        "type": "contrasts_with",
+        "quote": "Alle 13 Alter sprechen in 1. Person. AEGIS und die zwei Guardians sprechen in 3. Person",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logs/Protokolle",
+        "target": "subjektive Innensicht",
+        "type": "contrasts_with",
+        "quote": "AEGIS und die zwei Guardians sprechen in 3. Person (Logs/Protokolle, keine subjektive Innensicht)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hard-A-Default",
+        "target": "Hard-B",
+        "type": "contrasts_with",
+        "quote": "Hard-A-Default; ein Kapitel Kap 5–8 ist Hard-B",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Kaels Vielheit",
+        "type": "contrasts_with",
+        "quote": "Das Hard-B-Kapitel enthüllt AEGIS, nicht Kaels Vielheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "3.-Person-OS-Force",
+        "target": "1.-Person-Innensicht",
+        "type": "contrasts_with",
+        "quote": "ein Kapitel Kap 5–8 ist Hard-B mit AEGIS-1.-Person-Innensicht (exakte Position bei Storyweaving/Phase 6 pinnen). Sonst AEGIS = 3.-Person-OS-Force",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rationalisierung, ANP-Vermeidung",
+        "target": "Trauma-Erinnerung, EP-Domäne",
+        "type": "contrasts_with",
+        "quote": "KW1 Konstrukt-Stadt (Logos-Prime) | Rationalisierung, ANP-Vermeidung | ... KW2 Mnemosyne-Archipel | Trauma-Erinnerung, EP-Domäne",
+        "stance": "asserts"
+      },
+      {
+        "source": "P — kurze Hauptsatz-Ketten, eindeutiges SVO, kein Schweben",
+        "target": "Parakonsistent — Widersprüche koexistieren",
+        "type": "contrasts_with",
+        "quote": "P — kurze Hauptsatz-Ketten, eindeutiges SVO, kein Schweben | ... Parakonsistent — Widersprüche koexistieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "kalt/steril, Metaphernverbot, assertorisch",
+        "target": "heiß/fragmentiert, poröser",
+        "type": "contrasts_with",
+        "quote": "1 — kalt/steril, Metaphernverbot, assertorisch | ... 2 — heiß/fragmentiert, poröser",
+        "stance": "asserts"
+      },
+      {
+        "source": "Atem",
+        "target": "Bauch",
+        "type": "contrasts_with",
+        "quote": "Atem | ... Bauch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bauch",
+        "target": "Muskel",
+        "type": "contrasts_with",
+        "quote": "Bauch | ... Muskel",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hypervigilanz, Verteidigung",
+        "target": "Integration; lebende Widersprüche; Vortex-Quelle",
+        "type": "contrasts_with",
+        "quote": "KW3 Cerberus-Labyrinth / Überwelt-Nexus | Hypervigilanz, Verteidigung | ... KW4 Resonanz-Kontinuum / Möglichkeits-Garten | Integration; lebende Widersprüche; Vortex-Quelle",
+        "stance": "asserts"
+      },
+      {
+        "source": "paranoid",
+        "target": "poetisch/chorisch (Junas Stil)",
+        "type": "contrasts_with",
+        "quote": "2+ — paranoid | ... 3 — poetisch/chorisch (Junas Stil)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Überwelt",
+        "target": "Externe Ebene",
+        "type": "contrasts_with",
+        "quote": "Überwelt (AEGIS' Operationsraum) · Externe Ebene (Köln 2026 — nie Bühne, nur Erinnerungsfragment, Telefonton, Geruch)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Risse",
+        "target": "Symptom (Suppression-Versagen)",
+        "type": "contrasts_with",
+        "quote": "Risse sind *für AEGIS* Symptom (Suppression-Versagen); *für den Roman* das Atmen der Realität",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Substrat",
+        "target": "K₀-Architektur",
+        "type": "in_tension_with",
+        "quote": "die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fusion",
+        "target": "Funktionale Multiplizität",
+        "type": "contrasts_with",
+        "quote": "Funktionale Multiplizität, *niemals* Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "was danach getan wurde, um es zu „heilen“",
+        "target": "das eigentliche Trauma ist nicht, was geschah",
+        "type": "contrasts_with",
+        "quote": "das eigentliche Trauma ist nicht, was geschah, sondern was danach getan wurde, um es zu „heilen“",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bewahrung ohne Resonanz-Fähigkeit",
+        "target": "operative Hälfte",
+        "type": "complements",
+        "quote": "AEGIS: die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb — Bewahrung ohne Resonanz-Fähigkeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nicht Schuld am Trauma",
+        "target": "nicht Helferin",
+        "type": "contrasts_with",
+        "quote": "Nicht Schuld am Trauma, nicht Helferin — sie *ist*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Abwesenheits-Phase",
+        "target": "Präsenz-Phase",
+        "type": "contrasts_with",
+        "quote": "Zwei Phasen entlang des Unterdrückungs-Gradienten: Abwesenheits-Phase (Akt I — Mangel, Stille-mit-Substanz, abbrechende Sätze) → Präsenz-Phase (Akt II+ — Wärme, Fülle, schließlich direkt in Kap 38)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mangel",
+        "target": "Wärme, Fülle",
+        "type": "contrasts_with",
+        "quote": "Abwesenheits-Phase (Akt I — Mangel, Stille-mit-Substanz, abbrechende Sätze) → Präsenz-Phase (Akt II+ — Wärme, Fülle, schließlich direkt in Kap 38)",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "B",
+        "type": "contrasts_with",
+        "quote": "**Storyform:** nur B (MC-S1 Past); A als Phantomgefühl.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ontologische Grundlegung",
+        "target": "Foreshadowing-Programm aktiviert",
+        "type": "complements",
+        "quote": "**Funktionen:** ontologische Grundlegung · Foreshadowing-Programm aktiviert (Leser liest mit doppeltem Bewusstsein) · Stilkanon gesetzt · tragische Ironie als Lese-Position.",
+        "stance": "asserts"
+      },
+      {
+        "source": "linear-introspektiv",
+        "target": "jede Stufe auch ein Schritt zurück zu dem, was Kael vor der Fragmentierung war",
+        "type": "in_tension_with",
+        "quote": "Modus: linear-introspektiv (Murdock/Schmidt-Adaption); jede Stufe auch ein Schritt zurück zu dem, was Kael vor der Fragmentierung war.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ordnung",
+        "target": "Käfig",
+        "type": "complements",
+        "quote": "Ordnung als Käfig",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schicht-1",
+        "target": "Schicht-2",
+        "type": "contrasts_with",
+        "quote": "Schicht-1/Schicht-2-Anteil 80/20 (Schicht-2-dominant: Ozon/Glitch = Szene 3; ein Schicht-1-Beat: dichte Stille = Szene 4; eine Schicht pro Szene)",
+        "stance": "asserts"
+      },
+      {
+        "source": "kalt",
+        "target": "Wärme",
+        "type": "contrasts_with",
+        "quote": "Ozon kalt/scharf/elektrisch, keine Wärme in Kap 1",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Leser",
+        "type": "contrasts_with",
+        "quote": "das sterile Setting ist die Innere Weite aus Kap 0 (Leser erkennt, Kael nicht)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontrolle/Ordnung",
+        "target": "Lex-dominant",
+        "type": "complements",
+        "quote": "Kael (Lex-dominant) verdoppelt Kontrolle/Ordnung — mentale Festung",
+        "stance": "asserts"
+      },
+      {
+        "source": "einseitig-logischen Identität",
+        "target": "logische Grenzen",
+        "type": "in_tension_with",
+        "quote": "Tests der einseitig-logischen Identität; Zweifel, Scham, logische Grenzen",
+        "stance": "asserts"
+      },
+      {
+        "source": "einseitige Logik",
+        "target": "komplexen Problem",
+        "type": "opposes",
+        "quote": "die einseitige Logik scheitert an einem komplexen Problem",
+        "stance": "asserts"
+      },
+      {
+        "source": "Angriff",
+        "target": "Sehnsucht",
+        "type": "contrasts_with",
+        "quote": "Junas Resonanz — jetzt nicht Angriff, sondern Sehnsucht",
+        "stance": "asserts"
+      },
+      {
+        "source": "logischen Anteilen",
+        "target": "Mitgefühl",
+        "type": "in_tension_with",
+        "quote": "Mitgefühl mit den logischen Anteilen beginnt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Destabilisierung",
+        "target": "Reaktion",
+        "type": "complements",
+        "quote": "drei Spiral-Zyklen (Destabilisierung → Reaktion → Korrektur)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Reaktion",
+        "target": "Korrektur",
+        "type": "complements",
+        "quote": "drei Spiral-Zyklen (Destabilisierung → Reaktion → Korrektur)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trigger oberflächlich",
+        "target": "Korrektur greift schnell",
+        "type": "complements",
+        "quote": "Trigger oberflächlich; Korrektur greift schnell",
+        "stance": "asserts"
+      },
+      {
+        "source": "tiefere Trigger",
+        "target": "Korrektur kostet mehr",
+        "type": "complements",
+        "quote": "tiefere Trigger; Korrektur kostet mehr",
+        "stance": "asserts"
+      },
+      {
+        "source": "existenzielle Trigger",
+        "target": "Korrektur ist Schöpfung, nicht Reparatur",
+        "type": "complements",
+        "quote": "existenzielle Trigger; Korrektur ist Schöpfung, nicht Reparatur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schöpfung",
+        "target": "Reparatur",
+        "type": "contrasts_with",
+        "quote": "Korrektur ist Schöpfung, nicht Reparatur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rendering-Ebene",
+        "target": "Prozess-Kern",
+        "type": "contrasts_with",
+        "quote": "Kael sieht die „Drähte“ der Simulation (Rendering-Ebene vs. Prozess-Kern)",
+        "stance": "asserts"
+      },
+      {
+        "source": "P",
+        "target": "NP",
+        "type": "contrasts_with",
+        "quote": "physikalische Grenzen der Rechenkapazität (P vs. NP)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Phaenomena",
+        "target": "Noumena",
+        "type": "contrasts_with",
+        "quote": "Kap 17 — Phaenomena vs. Noumena",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vorbereitung/Entschluss",
+        "target": "Konfrontations-Beginn",
+        "type": "contrasts_with",
+        "quote": "Stehen an der Schwelle — Vorbereitung/Entschluss, NICHT Konfrontations-Beginn.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Coheron-Echo",
+        "type": "complements",
+        "quote": "Silas = Coheron-Echo",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion",
+        "target": "Erason-Operator",
+        "type": "complements",
+        "quote": "Oblivion = Erason-Operator",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bridge-natürlich",
+        "target": "beide Storyforms simultan",
+        "type": "complements",
+        "quote": "Bridge-natürlich, beide Storyforms simultan",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael (Wir)",
+        "target": "AEGIS (Makro-Log)",
+        "type": "opposes",
+        "quote": "Kael (Wir) vs. AEGIS (Makro-Log)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Orkan",
+        "target": "Sphäre",
+        "type": "contrasts_with",
+        "quote": "Orkan vs. Sphäre",
+        "stance": "asserts"
+      },
+      {
+        "source": "Optionlock A",
+        "target": "Timelock B",
+        "type": "contrasts_with",
+        "quote": "Duale Uhren laufen sichtbar (Optionlock A: schrumpfender Optionspool, diegetisch konkret · Timelock B: Erasure-Frequenz erreicht kritischen Schwellwert; AEGIS sieht nur den Timelock).",
+        "stance": "asserts"
+      },
+      {
+        "source": "B:Failure manifest",
+        "target": "A:Resolve=Change vollzogen",
+        "type": "contrasts_with",
+        "quote": "A:Resolve=Change vollzogen (Pursuit-Adoption Kap 35) · B:Failure manifest",
+        "stance": "asserts"
+      },
+      {
+        "source": "B-Linear",
+        "target": "A-Holistic",
+        "type": "contrasts_with",
+        "quote": "Kael wechselt B-Linear → A-Holistic",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine",
+        "target": "zehn",
+        "type": "contrasts_with",
+        "quote": "eine einzige körperliche Geste markiert die Wahl (eine, nicht zehn)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trauma ohne Dissoziation",
+        "target": "Dissoziation",
+        "type": "contrasts_with",
+        "quote": "Kael trägt das Trauma *ohne Dissoziation*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stille",
+        "target": "Nichts-Rauschen",
+        "type": "contrasts_with",
+        "quote": "Nichts-Rauschen wird absolute Stille",
+        "stance": "asserts"
+      },
+      {
+        "source": "Strukturell notwendige Pause",
+        "target": "mit Inhalt füllen",
+        "type": "opposes",
+        "quote": "Strukturell notwendige Pause — nicht mit Inhalt füllen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Geräusch/Geruch/Farbe",
+        "target": "Gleichung",
+        "type": "contrasts_with",
+        "quote": "diegetisch sinnlich (Geräusch/Geruch/Farbe, *keine Gleichung*)",
+        "stance": "asserts"
+      },
+      {
+        "source": "öffnet",
+        "target": "schließen",
+        "type": "contrasts_with",
+        "quote": "Beat 5 öffnet, statt zu schließen",
+        "stance": "asserts"
+      },
+      {
+        "source": "A scheinbar",
+        "target": "B-Echos",
+        "type": "contrasts_with",
+        "quote": "nur A *scheinbar*, feine B-Echos als Rauschen-Vorzeichen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Stimme als Raum",
+        "target": "Junas Stimme als Klang",
+        "type": "contrasts_with",
+        "quote": "Junas Stimme als Raum statt als Klang",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stille",
+        "target": "anwachsendem Druck",
+        "type": "in_tension_with",
+        "quote": "Leitmotiv: Stille mit anwachsendem Druck",
+        "stance": "asserts"
+      },
+      {
+        "source": "privaten Form",
+        "target": "kosmisch, plural, bewahrend",
+        "type": "contrasts_with",
+        "quote": "das Wir-Geflecht löst sich aus seiner privaten Form / die Verwandlung — Wir wird kosmisch, plural, bewahrend",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS-monolithisch",
+        "target": "AEGIS-plural",
+        "type": "contrasts_with",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht",
+        "stance": "asserts"
+      },
+      {
+        "source": "menschliche Geste",
+        "target": "AEGIS' Log-Modus",
+        "type": "contrasts_with",
+        "quote": "Kael *schreibt* (menschliche Geste gegen AEGIS' Log-Modus)",
+        "stance": "asserts"
+      },
+      {
+        "source": "schon da",
+        "target": "bleibt",
+        "type": "in_tension_with",
+        "quote": "Resonanz: „schon da“ (Anfang) ↔ „bleibt“ (Ende)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Reset",
+        "target": "Transfiguration",
+        "type": "complements",
+        "quote": "**Doppellesbar** (Reset ‖ Transfiguration)",
+        "stance": "asserts"
+      },
+      {
+        "source": "bezeugend",
+        "target": "fragend",
+        "type": "contrasts_with",
+        "quote": "der Erzähler kehrt zurück, jetzt bezeugend statt fragend",
+        "stance": "asserts"
+      },
+      {
+        "source": "Preis",
+        "target": "Tragödie",
+        "type": "contrasts_with",
+        "quote": "der Schmerz bleibt, als Preis, nicht mehr als Tragödie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Heldinnenreise innen",
+        "target": "Heldenreise außen",
+        "type": "contrasts_with",
+        "quote": "Heldinnenreise innen (13 Stufen, Kap 1–13) [K] vollständig: Illusion der perfekten Welt · Verrat/Desillusionierung · Erwachen & Vorbereitung · Pforten der Verurteilung · Auge des Sturms · Tod einer Einstellung · Unterstützung · Wiedergeburt · Rückkehr mit neuer Sichtweise · Erste Anwendung der Integration · Akzeptanz der Komplexität · Stille der Mitte · Tanz im Garten. 2. Heldenreise außen (Campbell/Vogler, Kap 27–39)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ordeal",
+        "target": "Modus-Grenze 26/27",
+        "type": "contrasts_with",
+        "quote": "Die echte Storyform-Wendung liegt im Ordeal 35/36, nicht an der Modus-Grenze 26/27.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Synthese",
+        "target": "Showdown",
+        "type": "contrasts_with",
+        "quote": "Ketsu (Synthese, nicht Showdown) = Kap 39/40, ambivalent, ohne Erklärung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "retroaktiv über Ten/Ketsu",
+        "target": "kausalen Konflikt",
+        "type": "contrasts_with",
+        "quote": "Bedeutung entsteht retroaktiv über Ten/Ketsu, nicht über kausalen Konflikt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Landauer-Wärme",
+        "target": "kaltes Ozon",
+        "type": "contrasts_with",
+        "quote": "rendert die Landauer-Signatur als kaltes Ozon; Wärme ist exklusiv Junas Coheron-Spur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 0 allein",
+        "target": "Kap 1 bleibt spurlos",
+        "type": "contrasts_with",
+        "quote": "der Faden lebt in Kap 0 allein (Knöchel-Eruption, Nyx), Kap 1 bleibt spurlos",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zyklus-Arbeitstitel",
+        "target": "Theorie-Titel",
+        "type": "contrasts_with",
+        "quote": "Teil IX (2026-05-08) führt Zyklus-Arbeitstitel (Bruch des Gleichgewichts, Z1-Trigger, Z1-Bunker, Z1-Wächterin, Z2-Cache-Konflikt); das Kompendium (2026-05-31, neuer, gewinnt) führt Theorie-Titel (Das Archiv der Grenzen, Turing-Mechanik, Die Diktatur der Komplexität, Phaenomena vs. Noumena, Qualia-Informationsparadox)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Phaenomena",
+        "target": "Noumena",
+        "type": "contrasts_with",
+        "quote": "Phaenomena vs. Noumena",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moonshine-Boundary",
+        "target": "was überträgt der Link, was nicht",
+        "type": "contrasts_with",
+        "quote": "Moonshine-Boundary (was überträgt der Link, was nicht)",
+        "stance": "hedges"
+      }
+    ]
+  }
+}
