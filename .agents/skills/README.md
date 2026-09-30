@@ -13,6 +13,7 @@ skills are missing from it or listed here without existing, and
 |---|---|
 | `ingest/SKILL.md` | take one research document from `Sources/drive/` to a reconciled state a person can review |
 | `tools/SKILL.md` | run the loop that extends the wiki: which command runs when, and what each consumes and produces |
+| `graph-context/SKILL.md` | retrieve budgeted evidence and explore the existing graph through the local GraphQLite CLI |
 | `qmd/SKILL.md` | search and read the German corpus with qmd: which collection answers which question |
 | `dspy/SKILL.md` | write or change anything that imports `dspy` or `gepa`, or calls a model — DSPy 3.3.1 as this repository uses it |
 | `typesafe/SKILL.md` | build with TypeSafe's Jev, a model that answers typed questions |

@@ -199,6 +199,10 @@ the next turn of the cycle.
 
 ## The commands, as combinations
 
+For small context from the already-built wiki, use the `graph-context` skill:
+`scripts/kg.py` serves the existing graph through GraphQLite in a local virtualenv.
+It is available after independent extraction, never before the census is frozen.
+
 Nothing below is a new capability. Each is a name for a sequence that is run by
 hand today, and **only the ones marked ✓ exist**.
 

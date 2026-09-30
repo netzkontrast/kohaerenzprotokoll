@@ -35,6 +35,7 @@ folder (`scripts/lmrun.py`, one line per call).
 | `judgements.jsonl` | every judgement about a near match, with its rule; `judgements.md` is its rendering | a person; `scripts/judgements.py` replays and renders |
 | `sweep.jsonl` | every page the sweep found in a read document's text that its census did not list: a reading or an occurrence, and why (decision 012) | a person; `scripts/reconcile.py --sweep-open` counts what no row settles |
 | `baselines.jsonl` | every scored program on every task, append-only | `scripts/baseline.py`, through `pairs.py` and `graphrag.py bench --record` |
+| `graphqlite-cli-2026-09-30/` | local GraphQLite CLI validation: native fixtures, graph roundtrip, retrieval equivalence and known baseline failures | `kg_selftest.py`; CLI checks against the repo graph |
 | `dedupe.json` | the decision per group of near-identical exports | `scripts/dedupe.py` |
 | `bilingual/` | every stage of the German–English mapping, cached so `--replay` needs no key | `scripts/bilingual.py` |
 | `jev/` | requests and responses of the Jev entity test, for `--replay` | `scripts/jev_entities.py` |
