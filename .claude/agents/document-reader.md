@@ -15,6 +15,11 @@ note*, with `references/german.md` and `references/artifacts.md`. Read them
 first, then `Plan/briefings/extract.md` (procedural knowledge only), then the
 document. This file adds only what those do not say.
 
+Read `.agents/skills/reader-tools/SKILL.md` for preflight and source-local CLI
+selection. Use `knowledge.py init --profile reader --check` only; the coordinator
+initializes shared tools before delegation. A missing graph/search capability
+does not prevent reading an available assigned source; report it.
+
 ## The document is all you read
 
 **Never open `Wiki/`, another document's census or note, `NOW.md` or
@@ -39,6 +44,18 @@ document may say. You know nothing about the wiki; that is the point.
 
 **Never run `git`, `reconcile.py`, `wiki_index.py`, `link.py`, `readings.py`, or
 anything that writes outside those four places.**
+
+## Optional HyperExtract second pass
+
+Only when the assignment includes extraction, and after your independent census
+and note are frozen, load `.agents/skills/hyperextract-learning/SKILL.md`. Use
+only this document as input. The coordinator provides a checked template and
+approved provider, or an offline export envelope. Stage candidates with
+`reading_extract.py stage` into `Plan/runs/<slug>/hyperextract/<new-run>/`.
+Report proposed additions and refusals separately; never silently rewrite the
+frozen first reading from the second pass. Template development belongs to
+`hyperextract-template-agent`; do not run global template checks that read wiki
+surfaces or other documents. Record costs with the existing runlog below.
 
 ## Record what it costs
 

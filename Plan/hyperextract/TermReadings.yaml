@@ -23,7 +23,7 @@ output:
       required: true
     - name: quote
       type: str
-      description: 'The passage, copied verbatim; one to three sentences.'
+      description: 'Exact contiguous words from ONE source line; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps.'
       required: true
     - name: stance
       type: str

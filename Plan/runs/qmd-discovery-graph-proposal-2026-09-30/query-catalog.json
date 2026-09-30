@@ -1,0 +1,123 @@
+[
+  {
+    "id": "01-evidence",
+    "schema": "current-main",
+    "purpose": "Fetch verified evidence for a term",
+    "params": {
+      "term": "term:aegis"
+    },
+    "query": "MATCH (t:Core {id:$term})-[:HAS_EVIDENCE]->(e:Evidence)-[r:CITED_FROM]->(d:Core) WHERE e.status = 'verified' RETURN e.id AS evidence_id, e.payload AS evidence, d.id AS doc, r.line AS line ORDER BY e.id LIMIT 12",
+    "expected": 1
+  },
+  {
+    "id": "02-source-impact",
+    "schema": "current-main",
+    "purpose": "Terms citing a changed source; structural impact only",
+    "params": {
+      "doc": "doc:source-a"
+    },
+    "query": "MATCH (t:Core)-[r:CITES]->(d:Core {id:$doc}) RETURN t.id AS term, r.via AS via ORDER BY t.id LIMIT 30",
+    "expected": 1
+  },
+  {
+    "id": "03-conflicts",
+    "schema": "current-main",
+    "purpose": "Existing conflict records involving a term",
+    "params": {
+      "term": "term:aegis"
+    },
+    "query": "MATCH (c:Core)-[r:CONTESTS]->(t:Core {id:$term}) RETURN c.id AS record, c.payload AS detail, r.via AS via ORDER BY c.id LIMIT 12",
+    "expected": 1
+  },
+  {
+    "id": "04-open-questions",
+    "schema": "current-main",
+    "purpose": "Existing questions raised by a term",
+    "params": {
+      "term": "term:aegis"
+    },
+    "query": "MATCH (q:Core)-[r:RAISED_BY]->(t:Core {id:$term}) RETURN q.id AS question, q.payload AS detail, r.via AS via ORDER BY q.id LIMIT 12",
+    "expected": 1
+  },
+  {
+    "id": "05-shared-sources",
+    "schema": "current-main",
+    "purpose": "Two terms citing the same document; no inferred relationship",
+    "params": {
+      "left": "term:aegis",
+      "right": "term:kael"
+    },
+    "query": "MATCH (a:Core {id:$left})-[ra:READS]->(d:Core)<-[rb:READS]-(b:Core {id:$right}) RETURN d.id AS doc, ra.via AS left_via, rb.via AS right_via ORDER BY d.id LIMIT 12",
+    "expected": 1
+  },
+  {
+    "id": "06-unread-hits",
+    "schema": "proposed-discovery",
+    "purpose": "Unread source candidates for a registered question",
+    "params": {
+      "query": "query:juna"
+    },
+    "query": "MATCH (q:SearchQuery {id:$query})-[r:P_RETRIEVED]->(h:Hit)-[:AT_DOC]->(d:Core) WHERE d.read_status = 'unread' AND h.freshness = 'current' RETURN d.id AS doc, h.first_line AS first_line, h.last_line AS last_line, r.method AS method, r.rank AS rank ORDER BY r.rank LIMIT 8",
+    "expected": 1
+  },
+  {
+    "id": "07-sheet-candidates",
+    "schema": "proposed-discovery",
+    "purpose": "Ranked reading candidates for one decision sheet",
+    "params": {
+      "sheet": "sheet:W9"
+    },
+    "query": "MATCH (s:Sheet {id:$sheet})-[:HAS_QUERY]->(q:SearchQuery)-[r:P_RETRIEVED]->(h:Hit)-[:AT_DOC]->(d:Core) RETURN q.text AS query, d.id AS doc, h.first_line AS line, h.freshness AS freshness, r.method AS method, r.rank AS rank ORDER BY r.rank LIMIT 12",
+    "expected": 2
+  },
+  {
+    "id": "08-sheet-prerequisites",
+    "schema": "proposed-discovery",
+    "purpose": "Explicit prerequisites, never automatic decision ordering",
+    "params": {
+      "sheet": "sheet:W9"
+    },
+    "query": "MATCH (s:Sheet {id:$sheet})-[r:DEPENDS_ON]->(b:Sheet) RETURN b.id AS prerequisite, b.status AS status, r.via AS via ORDER BY b.id LIMIT 20",
+    "expected": 1
+  },
+  {
+    "id": "09-relation-proposals",
+    "schema": "proposed-extraction",
+    "purpose": "Attributed source-specific relation candidates for review",
+    "params": {
+      "term": "term:aegis"
+    },
+    "query": "MATCH (c:Claim)-[:SUBJECT]->(s:Core {id:$term}), (c)-[:OBJECT]->(o:Core), (c)-[:CITED_FROM]->(d:Core) WHERE c.quote_status = 'placed' RETURN c.id AS claim, c.predicate AS predicate, o.id AS object, c.quote AS quote, d.id AS doc, c.line AS line, c.review_status AS review_status ORDER BY c.id LIMIT 12",
+    "expected": 1
+  },
+  {
+    "id": "10-recorded-tools",
+    "schema": "proposed-operations",
+    "purpose": "Command for a skill, as explicitly declared by a maintained registry",
+    "params": {
+      "skill": "skill:graph-context"
+    },
+    "query": "MATCH (s:Skill {id:$skill})-[r:USES_COMMAND]->(c:Command) RETURN c.invocation AS invocation, r.via AS via ORDER BY c.id LIMIT 10",
+    "expected": 1
+  },
+  {
+    "id": "11-sheet-source-impact",
+    "schema": "proposed-discovery",
+    "purpose": "Decision sheets whose recorded search hit a changed document",
+    "params": {
+      "doc": "doc:source-b"
+    },
+    "query": "MATCH (s:Sheet)-[:HAS_QUERY]->(q:SearchQuery)-[:P_RETRIEVED]->(h:Hit)-[:AT_DOC]->(d:Core {id:$doc}) RETURN DISTINCT s.id AS sheet, q.id AS query ORDER BY s.id LIMIT 20",
+    "expected": 1
+  },
+  {
+    "id": "12-run-audit",
+    "schema": "proposed-discovery",
+    "purpose": "Which retrieval run produced a hit, with query and snapshot",
+    "params": {
+      "query": "query:juna"
+    },
+    "query": "MATCH (run:SearchRun)-[:RAN]->(q:SearchQuery {id:$query})-[r:P_RETRIEVED]->(h:Hit) RETURN run.id AS run, run.snapshot_hash AS snapshot_hash, q.text AS query, h.id AS hit, r.method AS method, r.rank AS rank ORDER BY r.rank LIMIT 12",
+    "expected": 2
+  }
+]

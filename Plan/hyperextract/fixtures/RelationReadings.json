@@ -1,0 +1,1 @@
+{"items":[{"source":"Alpha","target":"Beta","type":"controls","quote":"Alpha steuert Beta.","stance":"asserts"},{"source":"Alpha","target":"Beta","type":"may_protect","quote":"Vielleicht schützt Alpha Beta.","stance":"hedges"},{"source":"Beta","target":"Alpha","type":"protects","quote":"Schützt Beta Alpha?","stance":"asks"}]}
