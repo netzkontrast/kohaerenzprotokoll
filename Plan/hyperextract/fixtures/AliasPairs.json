@@ -1,0 +1,1 @@
+{"items":[{"source":"Alpha","target":"Beta","type":"same_as","quote":"Alpha steuert Beta.","stance":"asserts"},{"source":"Alpha","target":"Beta","type":"distinct_from","quote":"Vielleicht schützt Alpha Beta.","stance":"denies"}]}

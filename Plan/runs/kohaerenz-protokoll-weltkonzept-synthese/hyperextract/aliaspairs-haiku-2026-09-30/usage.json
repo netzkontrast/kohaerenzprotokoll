@@ -1,0 +1,12 @@
+{
+  "document": "kohaerenz-protokoll-weltkonzept-synthese",
+  "template": "AliasPairs.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 26,
+  "failed_calls": 0,
+  "seconds": 96.1,
+  "input_tokens": 134789,
+  "output_tokens": 4372,
+  "cost_usd": 0.2914,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

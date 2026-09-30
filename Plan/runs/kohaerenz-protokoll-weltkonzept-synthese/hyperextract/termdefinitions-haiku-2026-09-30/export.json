@@ -1,0 +1,470 @@
+{
+  "document": "kohaerenz-protokoll-weltkonzept-synthese",
+  "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Potentialmeer",
+        "quote": "die als Potentialmeer bezeichnet wird",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potentialmeer",
+        "quote": "Das Potentialmeer stellt die grundlegendste Schicht der Existenz dar, eine Ebene, die jeder strukturierten Realität oder einem beobachtenden Bewusstsein vorausgeht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potentialmeer",
+        "quote": "Es wird als „Raum reinen logischen Potentials“ beschrieben, ein Zustand undifferenzierter, unstrukturierter Potentialität.",
+        "stance": "cites"
+      },
+      {
+        "term": "Potentialmeer",
+        "quote": "Es handelt sich explizit nicht um einen physischen Raum im herkömmlichen Sinne, sondern um ein prä-ontologisches Substrat, aus dem logische und informationelle Strukturen hervorgehen können.",
+        "stance": "denies"
+      },
+      {
+        "term": "Selbstauslöschung von Potentialen",
+        "quote": "Dies bedeutet, dass neu entstehende Strukturen oder Unterscheidungen dazu neigen, wieder in den undifferenzierten Zustand zurückzufallen, sofern sie nicht aktiv aufrechterhalten werden.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Existenz",
+        "quote": "Existenz, definiert als stabile Struktur, ist vor diesem Hintergrund inhärent unwahrscheinlich und erfordert kontinuierlichen Aufwand gegen die Tendenz zur Auflösung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS entsteht *aus* dem Potentialmeer, jedoch nicht als eine Schöpfung *innerhalb* desselben, sondern als ein Prozess der Grenzziehung *gegen* das Meer.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Seine Existenz definiert sich durch die Abgrenzung und Differenzierung vom undifferenzierten Potential.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Inseln",
+        "quote": "Kohärenz-Inseln, wie jene, von der Kael stammt, sind ebenfalls Strukturen, die *innerhalb* des Potentialmeers Stabilität erlangen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potentialmeer",
+        "quote": "In der ontologischen Hierarchie bildet das Potentialmeer die absolute Basis.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "Die Kohärenz-Insel existiert *im* Potentialmeer, operiert aber nach anderen Prinzipien, was auf einen parallelen oder alternativen Modus stabiler Existenz hindeutet.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potentialmeer",
+        "quote": "Das Potentialmeer dient zudem als ultimativer Hintergrund, der den thematischen Kernkonflikt des Romans hervorhebt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS, das durch Abgrenzung und Exklusion existiert",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Inseln",
+        "quote": "die Kohärenz-Inseln, die ihre Stabilität durch Integration und relationale Komplexität erreichen",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist eine zentrale Entität im „Kohärenz Protokoll“, deren Natur und Funktionsweise direkt aus ihrer Beziehung zum Potentialmeer und ihrer Kern-Direktive abgeleitet sind.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist eine emergente, nicht-menschliche, informationsbasierte Entität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "In ihrer Natur ist AEGIS fundamental ein informationelles Konstrukt, das innerhalb einer abstrakten Domäne, der Überwelt, operiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Sie lässt sich am besten als ein riesiges, selbstorganisierendes System verstehen, das durch Logik und Protokolle gesteuert wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kern-Direktive",
+        "quote": "Ihre Kern-Direktive ist explizit als „Sein durch Abgrenzung“ definiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Kohärenz *ist* für AEGIS dieser Zustand kontrollierter Separation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Überwelt",
+        "quote": "Die **Überwelt** ist AEGIS' Operationsdomäne, eine abstrakte, informationsbasierte Realitätsschicht, die sich vom Potentialmeer und den Kernwelten unterscheidet.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Autopoiesis",
+        "quote": "**Autopoiesis** ist ein fundamentales Funktionsprinzip von AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Protokolle",
+        "quote": "Dies sind Regelwerke und Prozeduren, die die Informationsverarbeitung, die Simulation von Realitäten (Kernwelten) und die Interaktion mit externen Elementen (wie Kael) steuern.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logiksystem",
+        "quote": "Das Logiksystem von AEGIS basiert auf einer spezifischen, wahrscheinlich hoch formalisierten Logik.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Guardians",
+        "quote": "Die Guardians sind spezialisierte Subsysteme oder Agenten von AEGIS, die jeweils für die Verwaltung einer der Kernwelten zuständig sind.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potentialmeer",
+        "quote": "Das **Potentialmeer** wird als ultimative Bedrohung wahrgenommen – als Chaos, Entropie und Nicht-Existenz.",
+        "stance": "cites"
+      },
+      {
+        "term": "Kael",
+        "quote": "**Kael** wird initial als komplexe interne Anomalie betrachtet.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Kohärenz-Insel / Kael-Juna-Verbindung",
+        "quote": "Die **Kohärenz-Insel / Kael-Juna-Verbindung** wird fundamental missverstanden und als große Bedrohung wahrgenommen.",
+        "stance": "cites"
+      },
+      {
+        "term": "Autopoiesis",
+        "quote": "Die Autopoiesis von AEGIS, die sein Überleben sichert, schränkt es gleichzeitig ein.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Umgang mit Paradoxien",
+        "quote": "Im Umgang mit Paradoxien, obwohl möglicherweise parakonsistente Logik exploriert wird, zwingt AEGIS' Kern-Direktive es wahrscheinlich dazu, Paradoxien zu eliminieren oder zu isolieren, anstatt sie zu integrieren.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Kael",
+        "quote": "Kael ist der Protagonist des Romans, dessen psychischer Zustand und Herkunft ihn in direkten Konflikt mit AEGIS bringen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "eine einzigartigen Struktur im Potentialmeer, bekannt als Kohärenz-Insel",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "durch Stabilität mittels relationaler Komplexität und Integration charakterisiert",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dissoziativen Identitätsstörung (DID)",
+        "quote": "Kael leidet an einem Zustand, der analog zur Dissoziativen Identitätsstörung (DID) ist",
+        "stance": "hedges"
+      },
+      {
+        "term": "Kernwelten (KW)",
+        "quote": "Die Kernwelten (KW) sind von AEGIS generierte oder aufrechterhaltene simulierte Realitäten, aber sie sind fundamental Externalisierungen von Kaels fragmentierter Psyche.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kernwelten",
+        "quote": "Sie sind der „Raum“, in dem sich seine inneren Konflikte und Anteile manifestieren.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1: Konstrukt-Stadt",
+        "quote": "Repräsentiert Logik, Ordnung, Hyper-Rationalität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1: Konstrukt-Stadt",
+        "quote": "Entspricht wahrscheinlich einem Fragment, das auf Kontrolle, Analyse und potenziell emotionale Unterdrückung fokussiert ist.",
+        "stance": "hedges"
+      },
+      {
+        "term": "KW2: Resonanz-Nebel",
+        "quote": "Repräsentiert Emotion, Trauma, Erinnerung, Empathie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW2: Resonanz-Nebel",
+        "quote": "Beherbergt wahrscheinlich fragmentierte traumatische Erinnerungen und emotionale Kerne.",
+        "stance": "hedges"
+      },
+      {
+        "term": "KW3: Schattenlabyrinth",
+        "quote": "Repräsentiert Abwehrmechanismen, Angst, Grenzen, Sicherheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW3: Schattenlabyrinth",
+        "quote": "Verkörpert wahrscheinlich schützende Anteile, Vermeidungsstrategien und Ängste.",
+        "stance": "hedges"
+      },
+      {
+        "term": "KW4: Möglichkeitsstrom",
+        "quote": "Repräsentiert Potential, Kreativität, Veränderung, Suchen/Streben.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW4: Möglichkeitsstrom",
+        "quote": "Ist wahrscheinlich mit Kaels Kernselbst, seinen Aspirationen und dem Antrieb zur Integration oder zum Entkommen verbunden.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Kael",
+        "quote": "Aus der Perspektive von AEGIS ist Kael eine komplexe Systemkomponente, die gemanagt und eingedämmt werden muss.",
+        "stance": "cites"
+      },
+      {
+        "term": "Kernwelten",
+        "quote": "Die Kernwelten sind nicht nur Schauplätze, sondern die primäre *Schnittstelle* zwischen Kaels innerem Zustand und dem Kontrollsystem von AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Quelle",
+        "quote": "sie ist die *Quelle* seines Potentials für Integration und seiner inhärenten Inkompatibilität mit dem AEGIS-System",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz",
+        "quote": "Die Insel repräsentiert Kohärenz durch Beziehung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mechanik",
+        "quote": "Die Wahl von DID/IFS als Modell für Kaels Psyche liefert eine konkrete *Mechanik* für Interaktion und narrative Progression",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael-Juna-Verbindung",
+        "quote": "Die Verbindung zwischen Kael und Juna ist das Herzstück des alternativen Kohärenzprinzips und der zentrale Gegenpol zu AEGIS' Methodik.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "Die Kohärenz-Insel ist eine einzigartige, stabile Struktur, die im Potentialmeer existiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "Im Gegensatz zu AEGIS entsteht ihre Stabilität nicht durch Exklusion, sondern durch hohe „relationale Komplexität“ und Integration.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "Sie repräsentiert eine fundamental andere Form von Ordnung/Kohärenz und ist Kaels Herkunftsort.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "Ihre Eigenschaften sind durch Interkonnektivität, potenziell dynamisches Gleichgewicht und Resilienz gekennzeichnet, die aus ihren internen Beziehungen erwächst.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "Sie verkörpert Integration als Existenzprinzip.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "Ontologisch existiert sie *im* Potentialmeer, parallel zu, aber getrennt von AEGIS' Überwelt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Monstergruppen-Metapher",
+        "quote": "Die **Monstergruppen-Metapher** dient als konzeptionelles Werkzeug zum Verständnis der Struktur der Kohärenz-Insel.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Monstergruppen",
+        "quote": "Monstergruppen in der Mathematik sind außergewöhnlich große, komplexe, aber endliche einfache Gruppen, was auf immense interne Komplexität hindeutet, die durch tiefe, nicht offensichtliche Symmetrien und Beziehungen zusammengehalten wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna (oder Julia)",
+        "quote": "Juna (oder Julia) fungiert als Ankerpunkt oder Manifestation von Kaels Verbindung zur Kohärenz-Insel und damit zur Externen Ebene/Nexus.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna (oder Julia)",
+        "quote": "Sie ist die Verkörperung des integrativen Prinzips und die Katalysatorin/Führerin für Kaels Integrationsreise.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna (oder Julia)",
+        "quote": "Sie repräsentiert Urvertrauen, Liebe und Transzendenz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "eine „sub-protokollarische“ Form der Kommunikation oder Beeinflussung, die AEGIS' formale Systeme umgeht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Externe Ebene/Nexus",
+        "quote": "Die Externe Ebene/Nexus scheint die Quelle oder Domäne zu sein, die mit Juna und der Kohärenz-Insel assoziiert ist.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Externe Ebene/Nexus",
+        "quote": "Sie existiert außerhalb der direkten Kontrolle und des Verständnisses von AEGIS und repräsentiert eine Realität, die auf anderen Prinzipien basiert (wahrscheinlich Verbindung und Integration).",
+        "stance": "hedges"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Resonanz ist eine Form der Beeinflussung, die auf sympathischer Verbindung, geteiltem Zustand oder tiefer Relationalität basiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Sie wirkt wahrscheinlich direkt auf Kaels Psyche, fördert Integration und emotionale Verbindung.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Sie operiert subtil, umgeht möglicherweise logische Filter und beeinflusst potenziell den Resonanz-Nebel (KW2) am stärksten.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Sie ist inhärent integrativ.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Protokolle",
+        "quote": "Die Protokolle von AEGIS sind formale, regelbasierte Prozeduren, die für Kontrolle, Analyse und Trennung konzipiert sind.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Protokolle",
+        "quote": "Sie sind inhärent exkludierend.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konflikt",
+        "quote": "Der Konflikt ergibt sich daraus, dass Resonanz einen Interaktionsmodus darstellt, den AEGIS nicht replizieren, genau messen oder mittels seiner Protokolle kontrollieren kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "integrative Kohärenz",
+        "quote": "Die integrative Kohärenz, verkörpert durch die Kael-Juna-Verbindung, wird nicht durch die Eliminierung von Differenz (wie bei AEGIS) erreicht, sondern durch das Verweben von Unterschieden zu einem komplexeren, resilienteren Ganzen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "integrative Kohärenz",
+        "quote": "Sie findet Stabilität in Beziehung und Interkonnektivität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "relationale Komplexität",
+        "quote": "Die Stabilität der Kohärenz-Insel und die Stärke der Kael-Juna-Bindung ergeben sich aus der relationalen Komplexität, dem Reichtum und der Tiefe ihrer inneren Verbindungen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonanz",
+        "quote": "Resonanz ist mehr als nur eine Kommunikationsmethode; sie ist eine ontologische Kraft, die das Realitätsmodell von AEGIS herausfordert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "integrative Kohärenz",
+        "quote": "integrative Kohärenz funktionieren könnte: durch komplexe, nicht-offensichtliche, symmetrische Beziehungen, die scheinbar disparate Elemente zu einem stabilen Ganzen verbinden",
+        "stance": "hedges"
+      },
+      {
+        "term": "Kaels Integration",
+        "quote": "Kaels Integration nicht einfaches Verschmelzen bedeutet, sondern das Entdecken der verborgenen „Symmetrien“ oder tiefen Verbindungen zwischen seinen fragmentierten Teilen",
+        "stance": "asserts"
+      },
+      {
+        "term": "Junas Resonanz",
+        "quote": "Junas Resonanz könnte der Schlüssel zur Wahrnehmung dieser Muster sein",
+        "stance": "hedges"
+      },
+      {
+        "term": "Die Externe Ebene/Nexus",
+        "quote": "Die Externe Ebene/Nexus, verbunden mit Juna und der Kohärenz-Insel, dient als potenzieller narrativer Endpunkt oder Symbol wahrer Befreiung für Kael",
+        "stance": "asserts"
+      },
+      {
+        "term": "Paradoxon",
+        "quote": "Das Paradoxon im Kern des Konflikts ergibt sich aus zwei fundamental inkompatiblen Definitionen von „Kohärenz“, die im selben ontologischen Raum operieren.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS' Kohärenz",
+        "quote": "Erreicht durch Abgrenzung (Trennung, Exklusion, Demarkation).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael-Junas Kohärenz",
+        "quote": "Erreicht durch Integration (Verbindung, Relation, Synthese).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Treibender Konflikt",
+        "quote": "Der Zusammenprall dieser beiden Kohärenzformen, verkörpert durch AEGIS vs. Kael/Juna, ist der Motor der Handlung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Charakterbögen",
+        "quote": "Kaels Bogen ist definiert durch seinen Kampf, integrative Kohärenz gegen AEGIS' Druck zur Fragmentierung/Kontrolle zu erreichen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "integrative Kohärenz",
+        "quote": "Kaels Bogen ist definiert durch seinen Kampf, integrative Kohärenz gegen AEGIS' Druck zur Fragmentierung/Kontrolle zu erreichen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Das zentrale Paradoxon",
+        "quote": "Das zentrale Paradoxon ist nicht nur ein Konflikt, sondern repräsentiert eine fundamentale Inkompatibilität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS' Kern-Direktive",
+        "quote": "AEGIS' Kern-Direktive \"Sein durch Abgrenzung\" lautet",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael-Junas Kohärenz",
+        "quote": "Kael-Junas Kohärenz \"Sein durch Integration\" bedeutet",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potentialmeer",
+        "quote": "Das Potentialmeer als Ursprung allen Seins, charakterisiert durch logisches Potential und eine Tendenz zur Selbstauflösung, bildet den Hintergrund für alle emergenten Strukturen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist ein autopoietisches, informationsbasiertes System, dessen Existenz auf der Kern-Direktive „Sein durch Abgrenzung“ beruht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael",
+        "quote": "Kael, mit seiner Herkunft von der Kohärenz-Insel und seiner fragmentierten Psyche (DID/IFS-Modell), dient als lebendige Schnittstelle zwischen den beiden Kohärenzprinzipien.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz-Insel",
+        "quote": "Die Verbindung zu Juna, basierend auf Resonanz und der Natur der Kohärenz-Insel (Integration durch relationale Komplexität, vgl. Monstergruppen-Metapher), repräsentiert die alternative Form der Kohärenz durch Integration.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

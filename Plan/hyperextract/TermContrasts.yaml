@@ -1,0 +1,57 @@
+# TermContrasts — two terms a document sets against each other or holds in tension, each with that sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the author's reading of 2026-09-30 of a line about a „Große Stille“ and a line about
+#   „das große Schweigen“ as a tension between silence and stillness, found by a BM25 relation
+#   (Plan/runs/bm25/) and not by any stated relation; and StatedRelations, whose types are open
+#   and mostly structural (part_of, controls), so that a contrast the text states is not a type the graph has.
+# measured against: the relations a person labels `tension` in Plan/runs/bm25/verdicts.jsonl, and the
+#   contrast the wiki's conflict and question records already name. A quote is placed by read.py --find (P26).
+# may not: detect or state a conflict — CLAUDE.md: conflict detection is never mechanised, and two readings
+#   are compared by reading them. A contrast inside one document is a P_HE_CONTRAST proposal for a reader,
+#   not a conflict record, and two documents' contrasts are never compared by a program
+# retire when: on three documents a person keeps no contrast beyond what StatedRelations already gives
+language: en
+name: TermContrasts
+type: list
+tags: [contrast, tension, quotes, german]
+description: 'Pairs of terms that one German research document sets against each other, each copied with its sentence.'
+
+output:
+  description: 'One record per sentence that sets two terms against each other, or holds them in tension.'
+  fields:
+    - name: source
+      type: str
+      description: 'The first term exactly as the document writes it: case, hyphens, umlauts; never translate.'
+      required: true
+    - name: target
+      type: str
+      description: 'The second term exactly as the document writes it.'
+      required: true
+    - name: type
+      type: str
+      description: 'contrasts_with: the sentence sets them side by side as different. in_tension_with: it holds them together as pulling apart. opposes: one works against the other. complements: they form a pair that needs both.'
+      required: true
+    - name: quote
+      type: str
+      description: 'Exact contiguous words from ONE source line, containing BOTH terms; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps.'
+      required: true
+    - name: stance
+      type: str
+      description: 'asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says there is no contrast. asks: poses it as a question. cites: reports what an outside source says.'
+      required: true
+
+guideline:
+  target: 'You read one German research document and collect, verbatim, the sentences in which it sets two terms against each other, so that a person can see which distinctions the document draws.'
+  rules:
+    - 'Record a pair only when ONE sentence states the contrast or tension itself: „im Gegensatz zu“, „versus“, „einerseits … andererseits“, „Spannung zwischen“, „nicht … sondern“, „statt“, „während … dagegen“, or a comparison table row that sets two terms in columns.'
+    - 'Both terms must stand inside the quote. A term that only appears near the quote is not recorded.'
+    - 'A contrast between a term of this document and an outside work stays a contrast with that work; record it with stance cites.'
+    - 'Never infer a contrast from two passages, from opposite-sounding words, or from background knowledge; never decide that two documents disagree.'
+    - 'When the words do not set the terms against each other, omit the record rather than fabricate evidence.'
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

@@ -121,7 +121,7 @@ def verify(doc: Document, template: Path, envelope: dict) -> dict:
                   else "ambiguous quote: choose its passage" if len(lines) > 1 else None)
         status = "refused" if reason else "duplicate" if identifier in seen else "candidate"
         seen.add(identifier)
-        output.append({"id": identifier, **item, "document": doc.slug,
+        output.append({"id": identifier, **item, "document": doc.slug, "template": template.stem,
                        "source_sha256": source_hash, "template_sha256": template_hash,
                        "extractor": extractor, "quote_status": "placed" if lines else "unplaced",
                        "lines": lines, "review_status": "unreviewed", "status": status,
@@ -189,6 +189,7 @@ def selftest() -> int:
         checks.append(("real file lines placed", report["rows"][0]["lines"] == [4]))
         checks.append(("placement never promotes meaning", report["rows"][0]["review_status"] == "unreviewed"))
         checks.append(("repeat IDs stable", report == verify(doc, template, good)))
+        checks.append(("a row names the template it came from", report["rows"][0]["template"] == "template"))
         checks.append(("duplicate visible", verify(doc, template, env({"items": [row, row]}))["duplicates"] == 1))
         checks.append(("invented quote refused", verify(doc, template, env({"items": [{**row, "quote": "Alpha lenkt Beta."}]}))["refused"] == 1))
         checks.append(("invented surface refused", verify(doc, template, env({"items": [{**row, "term": "Gamma"}]}))["refused"] == 1))
@@ -250,7 +251,8 @@ def native_selftest() -> int:
         return 2
     folder = ROOT / "Plan/hyperextract/fixtures"
     failed = 0
-    for name in ("TermReadings", "StatedRelations", "RelationReadings"):
+    names = ("TermReadings", "StatedRelations", "RelationReadings", "AliasPairs", "TermContrasts", "TermDefinitions")
+    for name in names:
         response = folder / (name + ".json")
         done = subprocess.run([str(py), str(Path(__file__).resolve()), "smoke",
                                str(ROOT / "Plan/hyperextract" / (name + ".yaml")),
@@ -275,7 +277,7 @@ def native_selftest() -> int:
         held = done.returncode != 0
         failed += not held
         print(f"{'held' if held else 'FAILED'} malformed structured response refused")
-    print(f"reading_extract native: {4 - failed}/4 checks held; synthetic, no model quality measured")
+    print(f"reading_extract native: {len(names) + 1 - failed}/{len(names) + 1} checks held; synthetic, no model quality measured")
     return int(failed > 0)
 
 
