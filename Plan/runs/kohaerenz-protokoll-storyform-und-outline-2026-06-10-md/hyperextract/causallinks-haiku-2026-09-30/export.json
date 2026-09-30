@@ -1,0 +1,304 @@
+{
+  "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "source_sha256": "51e64de94c5504fb3b83452a35dc1c93cc4b2d2c89e44a52a4e01bba18e50700",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Verdrängung",
+        "target": "Hitze",
+        "type": "causes",
+        "quote": "Verdrängung erzeugt Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Verwechslung",
+        "target": "Truth-Rotation am Vortex",
+        "type": "causes",
+        "quote": "Diese Verwechslung ist die mechanische Quelle der Truth-Rotation am Vortex",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "es nicht ist",
+        "type": "prevents",
+        "quote": "AEGIS ist, was AEGIS verhindert, dass es nicht ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-AEGIS",
+        "target": "es ist",
+        "type": "enables",
+        "quote": "Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz und Liebe",
+        "target": "derselbe Pulsschlag",
+        "type": "causes",
+        "quote": "Schmerz und Liebe als derselbe Pulsschlag",
+        "stance": "asserts"
+      },
+      {
+        "source": "Multiplizität",
+        "target": "Glitches, Stilcode-Einbrüche, ungewollte Handlungen",
+        "type": "triggers",
+        "quote": "In Akt I spürt der Leser sie nur über Glitches, Stilcode-Einbrüche, ungewollte Handlungen",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine einzige konkrete Falschheit",
+        "target": "Amnesie",
+        "type": "causes",
+        "quote": "Sie wird erlebt — durch eine einzige konkrete Falschheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "B endet",
+        "target": "A übernimmt",
+        "type": "triggers",
+        "quote": "B endet, A übernimmt",
+        "stance": "asserts"
+      },
+      {
+        "source": "ab Vortex 2",
+        "target": "Synthese (c), die das Klein-c-Schema verlässt",
+        "type": "causes",
+        "quote": "ab Vortex 2 entsteht Synthese (c), die das Klein-c-Schema verlässt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Kael paradox",
+        "type": "causes",
+        "quote": "Juna ist die irreduzible Quelle, durch die Kael paradox wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "Integration funktionaler Multiplizität",
+        "target": "Trauma wird bewältigt",
+        "type": "enables",
+        "quote": "Trauma wird durch Integration funktionaler Multiplizität bewältigt",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Träger den Avoidance-Modus loslässt",
+        "target": "Trauma wird bewältigt",
+        "type": "requires",
+        "quote": "Trauma wird durch Integration funktionaler Multiplizität bewältigt, wenn der Träger den Avoidance-Modus loslässt",
+        "stance": "asserts"
+      },
+      {
+        "source": "die eigene Erinnerung aktiv aufsucht",
+        "target": "Trauma wird bewältigt",
+        "type": "requires",
+        "quote": "wenn der Träger den Avoidance-Modus loslässt und die eigene Erinnerung aktiv aufsucht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Pivot",
+        "target": "alle vorherigen Aktionen in Decisions transformiert",
+        "type": "causes",
+        "quote": "Der Pivot ist eine Entscheidung, die alle vorherigen Aktionen rückwirkend in Decisions transformiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Substrat",
+        "target": "Risse",
+        "type": "causes",
+        "quote": "die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bindungstrauma Basisrealität Köln",
+        "target": "Kiko, Lia, Isabelle, Moros",
+        "type": "causes",
+        "quote": "Bindungstrauma Basisrealität Köln (daraus: Kiko, Lia, Isabelle, Moros)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fragmentierungsnacht/Trennungsprotokoll",
+        "target": "Kael, Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion",
+        "type": "causes",
+        "quote": "Fragmentierungsnacht/Trennungsprotokoll (daraus: Kael, Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion",
+        "stance": "asserts"
+      },
+      {
+        "source": "das eigentliche Trauma",
+        "target": "nicht, was geschah, sondern was danach getan wurde",
+        "type": "causes",
+        "quote": "das eigentliche Trauma ist nicht, was geschah, sondern was danach getan wurde",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennungsprotokoll",
+        "target": "AEGIS",
+        "type": "causes",
+        "quote": "die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cache-Konflikt",
+        "target": "einseitige Logik scheitert",
+        "type": "causes",
+        "quote": "„Cache-Konflikt“: die einseitige Logik scheitert an einem komplexen Problem",
+        "stance": "asserts"
+      },
+      {
+        "source": "K-J-Verbindung wird stärker",
+        "target": "erstes Wieder-Erkennen der Resonanz",
+        "type": "causes",
+        "quote": "K-J-Verbindung wird stärker; **erstes Wieder-Erkennen** der Resonanz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mitgefühl mit den logischen Anteilen",
+        "target": "erste Wir-Stimme-Andeutung",
+        "type": "causes",
+        "quote": "Mitgefühl mit den logischen Anteilen beginnt; erste Wir-Stimme-Andeutung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Bildung",
+        "target": "plurale Bewahrung startet",
+        "type": "triggers",
+        "quote": "**Foreshadowing-Programm „plurale Bewahrung“ startet** (jede Wir-Stimme-Szene ab hier zielt auf Kap 39)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trigger",
+        "target": "Trauma-Angst",
+        "type": "triggers",
+        "quote": "Trigger reaktiviert Trauma-Angst",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cache-Konflikt",
+        "target": "komplexe Multi-Welten-Aufgabe",
+        "type": "causes",
+        "quote": "komplexe Multi-Welten-Aufgabe; Cache-Konflikt",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS-Intervention",
+        "target": "Störung",
+        "type": "causes",
+        "quote": "AEGIS-Intervention (gezielte Störung)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konfrontation mit Simulationsgrenzen",
+        "target": "Ontologie-Riss",
+        "type": "causes",
+        "quote": "Konfrontation mit Simulationsgrenzen; Ontologie-Riss",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' unvorhersehbare Systemänderung",
+        "target": "Selbst-Schöpfung / Mosaik-Herz",
+        "type": "triggers",
+        "quote": "AEGIS' unvorhersehbare Systemänderung",
+        "stance": "asserts"
+      },
+      {
+        "source": "K-J-Verbindung",
+        "target": "wird zyklisch von AEGIS gestört",
+        "type": "triggers",
+        "quote": "K-J-Verbindung wird zyklisch von AEGIS gestört",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Witness-Modus",
+        "target": "ursprüngliche Form ihrer Anwesenheit",
+        "type": "requires",
+        "quote": "Junas Witness-Modus = ursprüngliche Form ihrer Anwesenheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Vorbereitung",
+        "target": "eskaliert",
+        "type": "causes",
+        "quote": "Erasure-Vorbereitung eskaliert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schleier",
+        "target": "jetzt offen benannt",
+        "type": "enables",
+        "quote": "Schleier: jetzt offen benannt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Sweep",
+        "target": "Cluster",
+        "type": "triggers",
+        "quote": "Erasure-Sweep konvergiert auf das Cluster",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael wechselt B-Linear → A-Holistic",
+        "target": "ANP/EP-Amnesie-Barrieren",
+        "type": "causes",
+        "quote": "die ANP/EP-Amnesie-Barrieren fallen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure trifft integriertes, MI-dichtes Ziel",
+        "target": "Landauer-Wärme spiked unmöglich",
+        "type": "causes",
+        "quote": "Erasure trifft integriertes, MI-dichtes Ziel; Landauer-Wärme spiked unmöglich",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' operative Closure bricht",
+        "target": "Algorithmische Melancholie",
+        "type": "causes",
+        "quote": "AEGIS' operative Closure bricht; Algorithmische Melancholie setzt ein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Erscheinung",
+        "target": "Ankommen der ursprünglichen Resonanz",
+        "type": "causes",
+        "quote": "Junas Erscheinung = Ankommen der ursprünglichen Resonanz, diesmal nicht abgewehrt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Echos",
+        "target": "Kael erkennt sie wieder",
+        "type": "enables",
+        "quote": "Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Wir-Geflecht",
+        "target": "seine private Form",
+        "type": "triggers",
+        "quote": "das Wir-Geflecht löst sich aus seiner privaten Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS-monolithisch",
+        "target": "AEGIS-plural",
+        "type": "triggers",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "den Bericht",
+        "type": "causes",
+        "quote": "Kael *schreibt* (menschliche Geste gegen AEGIS' Log-Modus); er verfasst den Bericht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Telefon-Stille-Anker",
+        "target": "wird hier eingelöst",
+        "type": "triggers",
+        "quote": "Telefon-Stille-Anker wird hier eingelöst",
+        "stance": "asserts"
+      }
+    ]
+  }
+}
