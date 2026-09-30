@@ -154,7 +154,8 @@ results, usage and recommendation: retain, revise, pilot, or promote for review.
 
 ## What the pilot of 2026-09-30 measured
 
-Thirty-seven runs on eight documents, $3.63, and 261 rows a reader labelled (`Plan/runs/hyperextract-templates-2026-09-30/`).
+Thirty-seven runs on eight documents, $3.70, and 261 rows a reader labelled; then a second pass of three contracts, 36 runs on the twelve
+documents that hold most of the bench's gold, $11.68, and 36 more labels (`Plan/runs/hyperextract-templates-2026-09-30/`).
 Each rule below is enforced in code, because a prompt rule a Haiku reader ignored 8 times in 11 is not a rule:
 
 1. **A contract that classifies the line under a heading is right more often than one that relates two names**
@@ -167,11 +168,17 @@ Each rule below is enforced in code, because a prompt rule a Haiku reader ignore
    never find `Lex`, `Nyx`, `Lia` or `KW1`; `reading_extract.stands` does. A word a contract gives for „no name"
    (`unlabelled`) is in `reading_extract.NO_NAME`.
 4. **A cue the contract is about is checked in code, only where it is the contract** — `hegraph.CUE_REQUIRED`
-   (`ALIAS`, `BEFORE`). The grade over every contract did not predict a right row (64 %, 52 %, 79 % ok at grades
-   0, 1, 2), because a list item under a heading is right with no cue word in it.
+   (`ALIAS`, `BEFORE`). The grade over every contract did not predict a right row (57 %, 54 %, 71 % ok at grades
+   0, 1, 2, over 297 rows), because a list item under a heading is right with no cue word in it.
 5. **An empty answer is a result.** `Locks`, `Quantities`, `Attributions`, `StandingClaims`, `Pitch` answered every
    call and found nothing on documents that hold none. `hegraph report` counts them apart from failures.
-6. **Run by category.** $63 a contract for the whole corpus, $21 for the plot outlines; a contract that reads
-   outlines has no use on a physics paper. `hegraph.gate` keeps only the paragraphs that hold a contract's cue.
+6. **Run by category, and price it from the ledger.** About $7.3 for each megabyte a contract reads, so $190 for the
+   whole corpus and $66 for the plot outlines; a contract that reads outlines has no use on a physics paper.
+   `hegraph.gate` keeps only the paragraphs that hold a cue. The first estimate said $63, from „4.7 KB a call"; the
+   call ledgers say 1.6 KB, and it took the scaled pass's 957 calls to see it. Sum `usage.json` calls against the
+   bytes read before quoting a price (`claude_cli.totals` counts failed calls too).
 7. **Label at least ten rows per contract before any number is quoted** — a precision of 79 % on 14 rows is
    79 % ± 20 points — and record every label in `labels.jsonl`.
+8. **A pilot's precision is optimistic, so label again on the documents that will be run.** The three contracts of
+   the scaled pass were 80 % `ok` on the pilot's 35 rows and 58 % on 36 rows drawn by hash from the twelve documents
+   of the bench (none `wrong`; the drop is `ok` becoming `part`, and the defect is the slot, not the line).

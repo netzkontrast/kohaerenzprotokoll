@@ -3,16 +3,18 @@
 Two pieces of work, both measured with Haiku through `claude -p` (`scripts/he_claude.py`, decision 011):
 
 1. **A template revision** (`TermReadings` r1), measured against the active template on one document, and not promoted.
-2. **Thirty-two contracts** (`Plan/hyperextract/*.yaml`, 24 of them new) tried on a pilot of eight documents, then on the
+2. **Thirty-two contracts** (`Plan/hyperextract/*.yaml`, 27 of them new) tried on a pilot of eight documents, then on the
    documents that hold most of the bench's gold. The note is `Plan/concept/graph-contracts_2026-09-30.md`.
 
 | file | what it is |
 |---|---|
 | `yield.md` | what each contract yielded — `python3 scripts/hegraph.py report` writes it from `Plan/runs/*/hyperextract/` |
-| `labels.jsonl` | 261+ rows a reader labelled `ok`, `part` or `wrong` from the quotation and its line — the only measure of precision |
+| `labels.jsonl` | 297 rows a reader (the working session) labelled `ok`, `part` or `wrong` from the quotation and its line — the only measure of precision; 261 from the pilot, 36 drawn by hash from the scaled documents (`sample: "scaled documents"`) |
 | `trials.sh`, `trial-log.txt` | the pilot: one pass per (document, contract), one at a time |
 | `scaled.sh`, `scaled2.sh`, `scaled-log*.txt` | the second pass: `TermDefinitions`, `TermContrasts`, `CausalLinks` over the twelve documents that hold most of the bench's gold lines; `scaled2.sh` is the rest after the first was paused for a readings batch |
 | `TermReadings-r1/` | the revision below |
+
+The scaled pass is in the note's §6 (`Plan/concept/graph-contracts_2026-09-30.md`); the retrieval measured on it is in `Plan/runs/graph-lab-2026-09-30/`.
 
 ## TermReadings r1 — not promoted
 
@@ -48,3 +50,12 @@ superset of it — and for the documents no page cites yet they are a pre-readin
 The runs are in `Plan/runs/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik/hyperextract/`.
 The failures behind r1 are also on `.agents/skills/reader-tools/references/failures.md`,
 for every reader.
+
+## The scaled pass — three contracts, twelve documents
+
+`TermDefinitions`, `TermContrasts` and `CausalLinks` over twelve of the fifteen documents that hold the most of the bench's gold
+(493 of its 1,226 lines): **36 runs, 957 calls (21 failed), 82 minutes of model time, $11.68**, one run at a time
+(`scaled.sh`, then `scaled2.sh` after a pause for a readings batch). Staged: 2,899 rows on names and 268 on their quotation, 504
+refused for good. Twelve rows per contract were labelled, drawn by the hash of the row's id: 21 `ok`, 15 `part`, none `wrong`,
+against 28 `ok`, 6 `part` and 1 `wrong` of the same three contracts' 35 pilot rows. What it cost per megabyte corrected the pilot's
+estimate from $63 to about $190 a contract for the corpus (§4.5 of the note).
