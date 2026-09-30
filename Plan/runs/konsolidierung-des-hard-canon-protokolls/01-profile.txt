@@ -1,0 +1,14 @@
+# konsolidierung-des-hard-canon-protokolls
+  lines                53  (frontmatter ends at 0)
+  body words           718
+  headings             5   bold-only lines 2
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    7
+  typographic marks    16   ascii quotes 0
+  invisible characters U+FE0Fx1
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         487 chars
+

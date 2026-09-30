@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x2
+  glued ref numbers      47
+  backslash escapes      125
+  typographic marks      170
+  ascii quotes           6
+
+# inflection families -- one term, several surfaces
+  infor    Information, Informationen, Informationsdichte, Informationsemanzipation, Informationserhalts, Informationsfluss, Informationslöschung, Informationsoverflow, Informationsverlusts, Informationsverteilung, Informationsüberlauf
+  syste    System, Systemarchitektur, Systemdiktatur, Systeme, Systemen, Systemkollaps, Systemmodus, Systemrisse, Systems
+  probl    PROBLEM, Problem, Probleme, Problemkategorie, Problemlösen, Problemlösungsprozess, Problemlösungsstile, Problems
+  inter    Interaktion, Interference, Interferenz, Interferenzorganisation, Interferenzstruktur, Internal, Internet
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinshildung, Bewusstseinsinterface, Bewusstseinsverbindung
+  chara    Character, Charakter, Charaktere, Charakters, Charakterzug
+  ident    Identifizierung, Identifying, Identity, Identität, Identitätswandel
+  quant    Quantenberechnungen, Quantenkohärenz, Quantenmechanik, Quantenverschränkung, Quantenzustände
+  model    Model, Modell, Modelle, Modellen
+  poten    Potential, Potentialmeeres, Potenzial, Potenzialen
+  reson    Resonance, Resonant, Resonanz, Resonanzbindung
+  archi    Architecture, Architektur, Architekturen
+  berec    Berechnung, Berechnungen, Berechnungstyp
+  compl    Complete, Complex, Complexity
+  diese    Diese, Dieser, Dieses
+  dimen    Dimension, Dimensionalität, Dimensionen
+  durch    Durch, Durchlinie, Durchlinien
+  dynam    Dynamic, Dynamik, Dynamikpaare
+  emerg    Emergent, Emergenten, Emergenz
+  erfah    Erfahrung, Erfahrungen, Erfahrungszeit
+  erklä    Erklärung, Erklärungslücke, Erklärungsmethode
+  erleb    Erleben, Erlebens, Erlebensraum
+  erzäh    Erzählens, Erzählstruktur, Erzählung
+  explo    Exploit, Exploring, Explosion
+  geist    Geist, Geister, Geistes
+
+# substring pairs -- never one term, often merged by accident
+  Anna < Annahme
+  Anna < Giannakopoulos
+  Anti < Semantic
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Bausteinen
+  Ende < Renderer
+  Ende < Wendepunkt
+  Ende < Exkludierende
+  Ende < Vergleichende
+  Ende < Exkludierenden
+  Fixe < Fixed
+  Form < Storyform
+  Form < Information
+  Form < Modulformen
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsfluss

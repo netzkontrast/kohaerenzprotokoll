@@ -61,6 +61,7 @@ SUITES = [
     ("ui app", "std", ["scripts/ui.py", "selftest"]),
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("gold lists", "std", ["scripts/gold.py", "selftest"]),
+    ("extractors against gold", "std", ["scripts/goldeval.py", "selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
     ("pipeline order: violations named", "std", ["scripts/account.py", "selftest"]),
     ("pipeline order, live", "std", ["scripts/account.py", "order", "--summary"]),

@@ -1,0 +1,199 @@
+{
+  "document": "konsolidierung-des-hard-canon-protokolls",
+  "drive_id": "1jpBHMqoiAb7POikgNV7bGs__y9PhNQz3-GkAw7T41Cs",
+  "step": "probes",
+  "at": "2026-09-30",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 7,
+  "typographic_marks": 16,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "agent": [
+      "AGENT",
+      "Agent",
+      "Agenten"
+    ],
+    "diese": [
+      "Diesen",
+      "Dieser",
+      "Dieses"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapiteln",
+      "Kapitels"
+    ],
+    "aktua": [
+      "Aktualisiere",
+      "Aktualisierung"
+    ],
+    "canon": [
+      "CANON",
+      "Canon"
+    ],
+    "chara": [
+      "Character",
+      "Charakter"
+    ],
+    "claud": [
+      "CLAUDE",
+      "Claude"
+    ],
+    "daten": [
+      "Datenbank",
+      "Datenbanken"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokumente"
+    ],
+    "eintr": [
+      "Eintrag",
+      "Einträge"
+    ],
+    "entsc": [
+      "Entscheidungen",
+      "Entscheidungs"
+    ],
+    "erzäh": [
+      "Erzählperspektive",
+      "Erzählung"
+    ],
+    "final": [
+      "Finale",
+      "Finalisiert"
+    ],
+    "gener": [
+      "Generiere",
+      "Generierung"
+    ],
+    "hard": [
+      "HARD",
+      "Hard"
+    ],
+    "integ": [
+      "Integration",
+      "Integriere"
+    ],
+    "inter": [
+      "Interface",
+      "Interview"
+    ],
+    "konst": [
+      "Konstanten",
+      "Konstrukt"
+    ],
+    "proto": [
+      "PROTOKOLL",
+      "Protokoll"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologische"
+    ],
+    "reque": [
+      "REQUEST",
+      "Request"
+    ],
+    "rolle": [
+      "Rollen",
+      "Rollentausch"
+    ],
+    "roman": [
+      "Roman",
+      "Romans"
+    ],
+    "spieg": [
+      "Spiegelbild",
+      "Spiegelkabinett"
+    ],
+    "statu": [
+      "Status",
+      "Statuszeilen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Dies",
+      "Diesen"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ende",
+      "Rückblenden"
+    ],
+    [
+      "HARD",
+      "Hard"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Lock",
+      "Block"
+    ],
+    [
+      "SYNC",
+      "Sync"
+    ],
+    [
+      "Zeit",
+      "Zeitebene"
+    ],
+    [
+      "Zeit",
+      "Zeitstruktur"
+    ],
+    [
+      "AGENT",
+      "Agent"
+    ],
+    [
+      "AGENT",
+      "Agenten"
+    ],
+    [
+      "Agent",
+      "Agenten"
+    ],
+    [
+      "CANON",
+      "Canon"
+    ],
+    [
+      "Ebene",
+      "Zeitebene"
+    ],
+    [
+      "Roman",
+      "Romans"
+    ],
+    [
+      "ÄRENZ",
+      "Kohärenz"
+    ]
+  ]
+}

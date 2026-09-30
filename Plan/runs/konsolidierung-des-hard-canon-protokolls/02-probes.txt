@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      7
+  typographic marks      16
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  agent    AGENT, Agent, Agenten
+  diese    Diesen, Dieser, Dieses
+  kapit    Kapitel, Kapiteln, Kapitels
+  aktua    Aktualisiere, Aktualisierung
+  canon    CANON, Canon
+  chara    Character, Charakter
+  claud    CLAUDE, Claude
+  daten    Datenbank, Datenbanken
+  dokum    Dokument, Dokumente
+  eintr    Eintrag, Einträge
+  entsc    Entscheidungen, Entscheidungs
+  erzäh    Erzählperspektive, Erzählung
+  final    Finale, Finalisiert
+  gener    Generiere, Generierung
+  hard     HARD, Hard
+  integ    Integration, Integriere
+  inter    Interface, Interview
+  konst    Konstanten, Konstrukt
+  proto    PROTOKOLL, Protokoll
+  psych    Psyche, Psychologische
+  reque    REQUEST, Request
+  rolle    Rollen, Rollentausch
+  roman    Roman, Romans
+  spieg    Spiegelbild, Spiegelkabinett
+  statu    Status, Statuszeilen
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charakter
+  Dies < Diesen
+  Dies < Dieser
+  Dies < Dieses
+  Ende < Rückblenden
+  HARD < Hard
+  Kael < Kaels
+  Kern < Kernel
+  Kern < Kernwelten
+  Lock < Block
+  SYNC < Sync
+  Zeit < Zeitebene
+  Zeit < Zeitstruktur
+  AGENT < Agent
+  AGENT < Agenten
+  Agent < Agenten
+  CANON < Canon
+  Ebene < Zeitebene
+  Roman < Romans
+  ÄRENZ < Kohärenz

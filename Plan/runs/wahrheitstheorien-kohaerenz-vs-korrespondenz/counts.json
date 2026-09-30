@@ -1,0 +1,1377 @@
+{
+  "document": "wahrheitstheorien-kohaerenz-vs-korrespondenz",
+  "drive_id": "1ktilYPo7yrTgnCpNhMbjDyfwbXwomMO3D0QfidJ6g8c",
+  "step": "counts",
+  "at": "2026-09-30",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "F.H. Bradley",
+    "H.H. Joachim"
+  ],
+  "counts": {
+    "Korrespondenztheorie der Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        40
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        23,
+        31,
+        40,
+        54,
+        67,
+        69,
+        77,
+        128,
+        228,
+        265,
+        346,
+        371,
+        385
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        102,
+        434
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        13,
+        23,
+        93,
+        102,
+        106,
+        114,
+        122,
+        124,
+        128,
+        156,
+        265,
+        371,
+        385,
+        406,
+        434
+      ]
+    },
+    "Dichotomie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        283,
+        336
+      ]
+    },
+    "adaequatio rei et intellectus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        40
+      ]
+    },
+    "Veritas est adaequatio rei et intellectus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "ontologische Unabhängigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Wahrheitsträger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Wahrmacher": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        42,
+        89,
+        131,
+        388
+      ]
+    },
+    "Logischer Atomismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Logischen Atomismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "strukturelle Isomorphie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Strukturisomorphie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Zugangsproblem": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        58,
+        67,
+        133,
+        349,
+        389
+      ]
+    },
+    "Problem des Gottesauges": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "God’s Eye View": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Slingshot-Argument": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        58,
+        73,
+        77,
+        239
+      ]
+    },
+    "Steinschleuder": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "The Great Fact": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Das Große Faktum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Großen Faktum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Protokollsatzdebatte": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        25,
+        137,
+        141,
+        373,
+        407,
+        412
+      ]
+    },
+    "Britischen Idealismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        102
+      ]
+    },
+    "Isolationsproblem": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        110,
+        114,
+        133,
+        349,
+        360,
+        389
+      ]
+    },
+    "Bishop Stubbs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        118,
+        122,
+        360
+      ]
+    },
+    "das Absolute": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Logischen Empirismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Wiener Kreises": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        141,
+        373
+      ]
+    },
+    "Bertrand Russell": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        114
+      ]
+    },
+    "Ludwig Wittgenstein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Tractatus Logico-Philosophicus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Alfred Tarski": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        192,
+        204,
+        208
+      ]
+    },
+    "Donald Davidson": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        25,
+        77,
+        233,
+        237,
+        403
+      ]
+    },
+    "Neurath": {
+      "n": 18,
+      "n_including_compounds": 22,
+      "lines": [
+        25,
+        132,
+        156,
+        160,
+        164,
+        166,
+        170,
+        174,
+        190,
+        192,
+        239,
+        373,
+        390,
+        407,
+        408,
+        413,
+        415,
+        416,
+        436
+      ]
+    },
+    "Schlick": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        25,
+        145,
+        149,
+        156,
+        164,
+        190,
+        373,
+        410
+      ]
+    },
+    "Habermas": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        25,
+        297,
+        301,
+        309,
+        323,
+        325,
+        328,
+        373,
+        390,
+        430,
+        432
+      ]
+    },
+    "Rorty": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        69,
+        287,
+        291,
+        293,
+        301,
+        428,
+        429
+      ]
+    },
+    "Frege": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        84
+      ]
+    },
+    "Gödel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Church": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Aristoteles": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        132,
+        390
+      ]
+    },
+    "Spinoza": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        132,
+        390
+      ]
+    },
+    "Hegel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        132,
+        390
+      ]
+    },
+    "Realismus": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        27,
+        31,
+        130,
+        269,
+        277,
+        281,
+        283,
+        328,
+        332,
+        336,
+        387
+      ]
+    },
+    "Idealismus": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        25,
+        27,
+        93,
+        98,
+        102,
+        104,
+        130,
+        387
+      ]
+    },
+    "deflationären Kritiken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Märchen-Einwand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Konstatierungen": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        145,
+        149,
+        151,
+        156,
+        164,
+        180,
+        373
+      ]
+    },
+    "Hier jetzt Rot": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        164
+      ]
+    },
+    "Indexikalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Protokollsatz": {
+      "n": 3,
+      "n_including_compounds": 10,
+      "lines": [
+        25,
+        137,
+        141,
+        166,
+        181,
+        373,
+        407,
+        412
+      ]
+    },
+    "Schiffs-Gleichnis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Neuraths Boot": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        170,
+        373
+      ]
+    },
+    "Neuraths Kohärenztheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Schlicks Konstatierungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        164,
+        373
+      ]
+    },
+    "Kohärentismus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        149,
+        160,
+        332,
+        336
+      ]
+    },
+    "Kohärentist": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        239,
+        375
+      ]
+    },
+    "Einheitswissenschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Semantischen Wahrheitstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        208
+      ]
+    },
+    "Objektsprache": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        210,
+        214
+      ]
+    },
+    "Metasprache": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        210,
+        214
+      ]
+    },
+    "Adäquatheitsbedingung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    },
+    "Konvention T": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        204,
+        210
+      ]
+    },
+    "T-Schema": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        210,
+        229
+      ]
+    },
+    "Erfüllung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Satisfaction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Disquotation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Interpretationsstreit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "Korrespondenz-Interpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Deflationäre Interpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Dualismus von Schema und Inhalt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "radikalen Interpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        239
+      ]
+    },
+    "Bischof Stubbs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122
+      ]
+    },
+    "Ottos Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Schlicks": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        164,
+        190,
+        373
+      ]
+    },
+    "Neuraths": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        156,
+        170,
+        192,
+        373
+      ]
+    },
+    "Otto Neurath": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        160,
+        164,
+        407,
+        408,
+        415,
+        416
+      ]
+    },
+    "Moritz Schlick": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        145,
+        149,
+        410
+      ]
+    },
+    "Rudolf Carnap": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        190,
+        407,
+        408
+      ]
+    },
+    "Karl Popper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Hartry Field": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Physikalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Holismus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        98,
+        181,
+        192,
+        387
+      ]
+    },
+    "Solipsismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "methodischem Solipsismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "logischen Syntax": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Lügner-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        208
+      ]
+    },
+    "Deflationismus": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        222,
+        229,
+        243,
+        255,
+        265,
+        385
+      ]
+    },
+    "Anti-Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Wiener Kreis": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        137,
+        141,
+        373
+      ]
+    },
+    "Aufbau der Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Glasperlenspiel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Minimalismus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        243,
+        259,
+        263,
+        387
+      ]
+    },
+    "Redundanztheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        251,
+        255
+      ]
+    },
+    "Horwichs Minimalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "Äquivalenzschema": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        263,
+        265
+      ]
+    },
+    "Blindzuschreibungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        255
+      ]
+    },
+    "Metaphysischen Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        281
+      ]
+    },
+    "Internen Realismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        277,
+        283
+      ]
+    },
+    "Interner Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        269
+      ]
+    },
+    "idealized rational acceptability": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        283
+      ]
+    },
+    "Referenz-Unbestimmtheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        281
+      ]
+    },
+    "Natürlichen Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        283
+      ]
+    },
+    "Philosophy and the Mirror of Nature": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        291,
+        427,
+        429
+      ]
+    },
+    "Repräsentationalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        291
+      ]
+    },
+    "coping rather than copying": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        293
+      ]
+    },
+    "Konsensustheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Geltungsanspruch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        309
+      ]
+    },
+    "ideale Sprechsituation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        305
+      ]
+    },
+    "idealen Sprechsituation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        311
+      ]
+    },
+    "zwanglose Zwang des besseren Arguments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        314
+      ]
+    },
+    "Wahrheit (Truth)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        325
+      ]
+    },
+    "Richtigkeit (Rightness)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        326
+      ]
+    },
+    "konstatierende Sprechakte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        325
+      ]
+    },
+    "regulative Sprechakte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        326
+      ]
+    },
+    "schwacher Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        336
+      ]
+    },
+    "methodologischer Kohärentismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        336
+      ]
+    },
+    "Methodologischer Kohärentismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        332
+      ]
+    },
+    "Ontologischer Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        332
+      ]
+    },
+    "Gottesblick": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        347
+      ]
+    },
+    "Kohärenzmaschinen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        359
+      ]
+    },
+    "LLMs als Kohärenzmaschinen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        359
+      ]
+    },
+    "LLMs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        357,
+        359
+      ]
+    },
+    "Large Language Models": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        357
+      ]
+    },
+    "Grounding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        359
+      ]
+    },
+    "KI": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        353,
+        357,
+        360,
+        361
+      ]
+    },
+    "Künstliche Intelligenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        353
+      ]
+    },
+    "Frank Ramsey": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        255,
+        420
+      ]
+    },
+    "Paul Horwich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Hilary Putnam": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        277,
+        281,
+        423,
+        425,
+        426
+      ]
+    },
+    "Richard Rorty": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        287,
+        291,
+        428,
+        429
+      ]
+    },
+    "Jürgen Habermas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        301,
+        432
+      ]
+    },
+    "Descartes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        291
+      ]
+    },
+    "Pragmatismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        269,
+        283,
+        291
+      ]
+    },
+    "Relativismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        283,
+        301,
+        346
+      ]
+    },
+    "Konventionalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        311
+      ]
+    },
+    "Kritischen Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Frankfurter Schule": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Diskurstheorie": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        297,
+        373
+      ]
+    },
+    "GPT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        359
+      ]
+    },
+    "Halluzinationen als Isolationsproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        360
+      ]
+    },
+    "Halluzinationen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        360
+      ]
+    },
+    "Retrieval Augmented Generation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        361
+      ]
+    },
+    "RAG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        361
+      ]
+    },
+    "Tool-Use": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        361
+      ]
+    },
+    "Korrespondenz-Komponente": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        361
+      ]
+    },
+    "Kohärenz-System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        361
+      ]
+    },
+    "Kohärenzprinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        359
+      ]
+    },
+    "epistemische Kohärentisten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        375
+      ]
+    },
+    "ontologische Realisten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        375
+      ]
+    },
+    "Diskurstheorien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        373
+      ]
+    },
+    "Konsensustheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        301,
+        385
+      ]
+    },
+    "Vergleichende Übersicht der Wahrheitstheorien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Adaequatio": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        386
+      ]
+    },
+    "Sozialer Konstruktivismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        387
+      ]
+    },
+    "Metaphysischer Minimalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        387
+      ]
+    },
+    "Zirkularität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        389
+      ]
+    },
+    "Austin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        390
+      ]
+    },
+    "Blanshard": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        390
+      ]
+    },
+    "Peirce": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        390
+      ]
+    },
+    "Apel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        390
+      ]
+    },
+    "Quine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        390
+      ]
+    },
+    "Interaktionismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        387
+      ]
+    },
+    "Anti-Metaphysik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        387
+      ]
+    }
+  }
+}
