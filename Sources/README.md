@@ -297,7 +297,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Project Status Report: Kohärenz Protokoll — Canonical State & Structural Analysis](drive/project-status-report-kohaerenz-protokoll-canonical-state-st.md) | 2026-03-26 | 1,562 |  | Oblivion 3, Silas 3, Lia 3, Rhys 4, Gödel-Gambit 2, Isabelle 2, Moros 3, Argus 2 | Genesis-Event 2, Child EP 2, Action Systems 2, decoherence 2, functional multiplicity 6 |
 | [Konsolidierung des Hard Canon Protokolls](drive/konsolidierung-des-hard-canon-protokolls.md) | 2026-03-31 | 718 |  | Oblivion 2, Silas 2, Dual-Kernel-Theorie 3, Moros 2, Rhys 2, Nichts-Rauschen 2, Alters 4, Juna 6 | Claude 3, Basisrealität 2, Agent 2, System Kael 2, Bewusstsein 2 |
 | [Kohärenz-Protokoll Audit und Verifizierung](drive/kohaerenz-protokoll-audit-und-verifizierung.md) | 2026-04-29 | 5,793 |  | Dual-Kernel-Theorie† 15, Truth-Rotation† 2, Mnemosyne 3, Moonshine-Link 3, Lia 2, TSDP 9, Juna 11, Multiplizität 3 | Transinformation 12, Zero-Knowledge Proofs 10, Giannakopoulos 15, Bill 6, Norton 4 |
-| [Technical Audit & Research Mandate: The Kohärenz-Protokoll Framework](drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md) | 2026-04-29 | 1,266 |  | Dual-Kernel-Theorie† 3, Moonshine-Link 3, Lia 2, TSDP 3, Kiko 2, Juna 3, Nyx 2, Alters 2 | Chaitin 2, Vortex-Inversion 2, VOA 3, Mutual Information 4, Leech-Lattice 2 |
+| [Technical Audit & Research Mandate: The Kohärenz-Protokoll Framework](drive/technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md) | 2026-04-29 | 1,266 | **read** | Dual-Kernel-Theorie† 3, Moonshine-Link 3, Lia 2, TSDP 3, Kiko 2, Juna 3, Nyx 2, Alters 2 | Chaitin 2, Vortex-Inversion 2, VOA 3, Mutual Information 4, Leech-Lattice 2 |
 
 ### charaktere
 
