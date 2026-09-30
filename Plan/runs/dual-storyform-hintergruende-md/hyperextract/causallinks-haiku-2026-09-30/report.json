@@ -1,0 +1,1188 @@
+{
+  "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "input_rows": 48,
+  "candidates": 33,
+  "refused": 14,
+  "duplicates": 1,
+  "rows": [
+    {
+      "id": "claim:efd2ce64decf855324aeac882be644239e9f6efeddd613f6379e6b1cc2fbc96a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Die These",
+        "target": "die Dual-Form",
+        "type": "requires",
+        "quote": "welche philosophische These zwingt sie",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6fa40adb990363fd67299ef27132d4de914ad06c5586400a1c30d5db0323519f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "ein konsistentes Argument",
+        "target": "zwei einander ausschließende Lesarten",
+        "type": "prevents",
+        "quote": "sie kann nicht *gleichzeitig* zwei einander ausschließende Lesarten tragen",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cd64884c2426c46109aa199d70b5158204027874e4794c4d425f561dc89596ea",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "die These",
+        "target": "Dual-Form",
+        "type": "causes",
+        "quote": "Die Dual-Form ist also **keine Stilentscheidung**, sondern eine **architektonische Zwangsfolge** der These",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "die These"
+      ]
+    },
+    {
+      "id": "claim:b0bcfb8ba76c7c54fdec8c4424dccbbebfe5f7b976a66de58db843eab459f71c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kontrolle",
+        "target": "die Entropie",
+        "type": "causes",
+        "quote": "Kontrolle erzeugt die Entropie, die sie bekämpft",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        52
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:44529e0eeed89a5d16c25c7dbc25b037f1819482de771e66865c1c0b11a72f67",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kontrolle",
+        "target": "die Entropie, die sie bekämpft",
+        "type": "causes",
+        "quote": "Kontrolle erzeugt die Entropie, die sie bekämpft",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        52
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:95426971224dc28426766f1106cd293a6cb5311303b6bd77f3b96d0c651b9890",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Jeder Akt der Kontrolle",
+        "target": "die Entropie, die er bekämpft",
+        "type": "causes",
+        "quote": "Jeder Akt der Kontrolle erzeugt die Entropie, die er bekämpft",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        82
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cfba783ab0c5e9a5f6c06727c2fd7679286fa9e598ae65f4c67c58f8003df1b2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B muss falsch lesen",
+        "target": "A wahr werden kann",
+        "type": "requires",
+        "quote": "B *muss* falsch lesen, damit A wahr werden kann",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        90
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:86153e8ec445dd3df176f62093e17911e37504ae8ba525203e4acfb840c6e549",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A unsichtbar bleiben",
+        "target": "B kollabiert",
+        "type": "requires",
+        "quote": "A *muss* unsichtbar bleiben, bis B kollabiert",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        90
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "A unsichtbar bleiben"
+      ]
+    },
+    {
+      "id": "claim:617f26d22a98bb55a54bf140a825f8e372aa17438b9a39db7423b0bfd47f2dab",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Dual-Storyform",
+        "target": "Maximaler Inversionsdruck auf jedem Pol, ohne ungleichgewichtige Hierarchie",
+        "type": "causes",
+        "quote": "Genau das tut die Dual-Storyform: Tausche A→B die Klassen, die Dynamics, die Träger — und tausche zurück, du bist wieder bei A. Maximaler Inversionsdruck auf jedem Pol, ohne ungleichgewichtige Hierarchie.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        122
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:314006d5541b76c495435fb1b44fa73410e17e07a5828e5726cb8302527474c0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna verschwindet nicht aus B",
+        "target": "Kael in B zur lebenden Paradoxie wird",
+        "type": "enables",
+        "quote": "Juna verschwindet nicht aus B; sie ist die Quelle der Irreduzibilität, durch die Kael in B zur lebenden Paradoxie wird",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        142,
+        254
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ef90d93cb530b46ecd070e7b9edd9324430444af410fcd80805500f363d771a9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B kollabiert",
+        "target": "Kaels IC-Funktion in B obsolet",
+        "type": "causes",
+        "quote": "Am Vortex, wenn B kollabiert, wird Kaels IC-Funktion in B obsolet",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        150
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ef90d93cb530b46ecd070e7b9edd9324430444af410fcd80805500f363d771a9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B kollabiert",
+        "target": "Kaels IC-Funktion in B obsolet",
+        "type": "causes",
+        "quote": "Am Vortex, wenn B kollabiert, wird Kaels IC-Funktion in B obsolet",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        150
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ffc40464cd673dae73ebd639d8255756d0a9be9a143e98a7df3b0d248323e03b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Die Vortex-Inversion",
+        "target": "Auflösung der IC-Asymmetrie",
+        "type": "causes",
+        "quote": "Die Vortex-Inversion ist damit strukturell die Auflösung der IC-Asymmetrie",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        154
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b05361a69e0edbb522b1b5a203bba522b396b8cd448e4359421adf9218e0f858",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Subordinated Subplots",
+        "target": "implizite Hierarchie etablieren",
+        "type": "causes",
+        "quote": "Subordinated Subplots würden eine implizite Hierarchie etablieren",
+        "stance": "hedges"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3cf60eac2b3c4c258996472df83cc202dafffecd72259cdd0ca62b1318937ed5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "implizite Hierarchie",
+        "target": "das Werk vermeiden muss",
+        "type": "prevents",
+        "quote": "genau diese Hierarchie ist es, die das Werk vermeiden muss",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5062969d5ee284c69787549d276f6754139fc066544cfcb1fd4af60aec25d378",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ein Do-er",
+        "target": "extern",
+        "type": "causes",
+        "quote": "Ein Do-er löst extern",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        194
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3eef148f7dccf060009845368859e9855829869ca5241f455fde9f74eef4757f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "externes Lösen",
+        "target": "externe Domain",
+        "type": "requires",
+        "quote": "Ein Do-er löst extern → braucht externe Domain",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        194
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "externes Lösen"
+      ]
+    },
+    {
+      "id": "claim:4414126fd25e83481f6017d455fbc9916aa3e1d7740bb67f31ca4e97648f5569",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ein Be-er",
+        "target": "intern",
+        "type": "causes",
+        "quote": "Ein Be-er löst intern",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        194
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:776569c97ebe1af62a4c40c72bf2e863e7b1ab8fcfac61bef25cab0cc46efd5c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "internes Lösen",
+        "target": "interne Domain",
+        "type": "requires",
+        "quote": "Ein Be-er löst intern → braucht interne Domain",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        194
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "internes Lösen"
+      ]
+    },
+    {
+      "id": "claim:1a1142b5af40309ecca9d6c41d74d960a9c16f8e40b12be5c3e7d268852769d2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kaels Heilung",
+        "target": "Funktionale Multiplizität",
+        "type": "causes",
+        "quote": "Kaels Heilung *ist* Funktionale Multiplizität",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        210
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a592e3f6419a681c6b8b7599334cb1c9f7593046a7c3b439e962acf8ffc682d6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "interner Zustandswechsel",
+        "target": "Memory-Problem",
+        "type": "prevents",
+        "quote": "Kael löst sein Memory-Problem durch internen Zustandswechsel",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        210
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "interner Zustandswechsel"
+      ]
+    },
+    {
+      "id": "claim:933002738ce54291bbbc9042479a68161bfc476605734ee707e51e860beabc0a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS' Handlungen",
+        "target": "Kollaps",
+        "type": "causes",
+        "quote": "AEGIS *handelt sich* in den Kollaps",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        210
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS' Handlungen"
+      ]
+    },
+    {
+      "id": "claim:15914c4eead50e3ee79cd8bc5d8c9bd29f09d4df009855e05935116f603e5a17",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B's Action-Loop",
+        "target": "kollabiert thermodynamisch",
+        "type": "causes",
+        "quote": "B's Action-Loop läuft noch zwei Beats nach — weil sein Mandat es zwingt — und kollabiert thermodynamisch.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        230
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0044f36b1316693134bf5977c1f4136c4a9a76c3b24a192da6e6e66d27334e1e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "sein Mandat",
+        "target": "B's Action-Loop läuft noch zwei Beats nach",
+        "type": "requires",
+        "quote": "weil sein Mandat es zwingt",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        230
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:27e1897989ae6d9381a0a7f13c2dfc3b7fc08f412dabefbb4af92ca776f74e64",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "A's Driver bereits ausgelöst",
+        "target": "Stille-Phänomen",
+        "type": "causes",
+        "quote": "Stille, weil A's Driver bereits ausgelöst ist und B's Driver noch nicht zu Ende kommen kann.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        234
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cf19c7525b1e88ae4f646a68af112e333934a9afec8321286905cec6baa5e6a1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "B's Driver noch nicht zu Ende kommen",
+        "target": "Stille-Phänomen",
+        "type": "causes",
+        "quote": "Stille, weil A's Driver bereits ausgelöst ist und B's Driver noch nicht zu Ende kommen kann.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        234
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f3619c4434adefd865b290d6d6dcdca02cf9f0c17f71e8d2812339ac18fa010f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Kael zur lebenden Paradoxie",
+        "type": "enables",
+        "quote": "sie ist die *Quelle* der Irreduzibilität, durch die Kael in B zur lebenden Paradoxie wird.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        142,
+        254
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael zur lebenden Paradoxie"
+      ]
+    },
+    {
+      "id": "claim:46f7276c73e34d648e076b1b5d2ed7a3a5c50d01ff174a75b9af47c95f262178",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael MC",
+        "target": "Kaels IC-Funktion in B obsolet",
+        "type": "causes",
+        "quote": "Am Vortex wird Kaels IC-Funktion in B obsolet, seine MC-Funktion in A bleibt.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        258
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d52ca0b97c97d3d8400dd7b7c33b58e87b04030d731a14c59f6dd8a6bbe50bd1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "beide Storyforms das ganze Werk durchziehen",
+        "target": "beides muss in jedem Kapitel präsent sein",
+        "type": "requires",
+        "quote": "Wenn beide Storyforms das ganze Werk durchziehen, dann muss in jedem Kapitel beides irgendwie präsent sein.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        268
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "beides muss in jedem Kapitel präsent sein"
+      ]
+    },
+    {
+      "id": "claim:216ae0a3b026d191c78d81c90e28b62ca1f2f6d9b1b41f60b659b74fb975019d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "jede Szene zwei Storyforms gleichzeitig ausspielt",
+        "target": "Mudding",
+        "type": "causes",
+        "quote": "Lesersteuerung-Prinzip „max 1 Konzept pro Szene“ verbietet, dass jede Szene zwei Storyforms gleichzeitig ausspielt. Ergebnis wäre Mudding",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e8cd129508278ec203a4744ce9a3d75059261f250611589788ee0fb80d15a0db",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "zu sauber",
+        "target": "Truth-Rotation kommt am Vortex zu plötzlich",
+        "type": "causes",
+        "quote": "Nachteil: zu sauber — die 5D-Interferenz im Lesegeist hat keine Mikro-Reibungspunkte, die Truth-Rotation kommt am Vortex zu plötzlich.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        276
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:45d06b95d63a0eaa79e9f09f42391ca4297bd7a9431ba1c079a322b2d4810b1b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "mehr als drei Mikrocue-Punkte pro Bridge-Szene",
+        "target": "die Szene kippt in Mudding",
+        "type": "causes",
+        "quote": "Pro Bridge-Szene maximal drei Mikrocue-Punkte, sonst kippt die Szene in Mudding.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        326
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "mehr als drei Mikrocue-Punkte pro Bridge-Szene",
+        "die Szene kippt in Mudding"
+      ]
+    },
+    {
+      "id": "claim:18bcc99c0341aa6e14c47135135e714a42bc2ae7b2f9331d4060df067f07be3a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Die fünf Beats",
+        "target": "Driver-Konstanz-Mechanik und IC-Asymmetrie",
+        "type": "requires",
+        "quote": "Sie folgen exakt aus der Driver-Konstanz-Mechanik (Abschnitt 3.3) und der IC-Asymmetrie (Abschnitt 2.3).",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        349
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Driver-Konstanz-Mechanik und IC-Asymmetrie"
+      ]
+    },
+    {
+      "id": "claim:f18013556c8263332bf6bc813dbc6d1ea480b230e595d77ff2aeb4004a90c8d8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Driver-Konstanz-Mechanik und IC-Asymmetrie",
+        "target": "die fünf Beats",
+        "type": "causes",
+        "quote": "Sie folgen exakt aus der Driver-Konstanz-Mechanik (Abschnitt 3.3) und der IC-Asymmetrie (Abschnitt 2.3).",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        349
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Driver-Konstanz-Mechanik und IC-Asymmetrie",
+        "die fünf Beats"
+      ]
+    },
+    {
+      "id": "claim:c803fe7c32c23130851ddd2e0ace1bd540f30911e45a551bc1d1aace7e5118ce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "kein Driver mehr",
+        "target": "kinetische Aktion erlischt",
+        "type": "causes",
+        "quote": "kinetische Aktion erlischt, weil kein Driver mehr nachstößt",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        358
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:472228e45e4a0e0d5e169600cf750449bf69011fa093145a8aa3788eefbb8d3f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erinnerung selbst der Schauplatz",
+        "target": "Erasure nicht mehr funktionieren",
+        "type": "prevents",
+        "quote": "Erasure nicht mehr funktionieren, weil Erinnerung selbst der Schauplatz wird",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        364
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b8fbf474218e936af36905c92232d4d88842a68f65a6e1647ce91cea2c14b8bc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "K1-gespeicherte Erinnerung besteht",
+        "target": "Driver-Pivot mechanisch greifen",
+        "type": "enables",
+        "quote": "nur an einem Ort, der aus K1-gespeicherter Erinnerung besteht, kann der Driver-Pivot mechanisch greifen",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        364
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "K1-gespeicherte Erinnerung besteht"
+      ]
+    },
+    {
+      "id": "claim:203a14c0a3c866bc8d4f4b3be2f029dbe7abc9e8851e8e44fbcc7e9cc46b2eea",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "im Vortex die Lösch-Kapazität ausgeht",
+        "target": "AEGIS muss die Genesis zeigen",
+        "type": "causes",
+        "quote": "AEGIS muss die Genesis zeigen, weil ihm im Vortex die Lösch-Kapazität ausgeht",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        368
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce64d58868086fc2cebed704afe206d7df2c55128ef91b26e80405756986ddfe",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure ihn selbst nicht mehr schützt",
+        "target": "Antagonist enthüllt seine eigene Genese",
+        "type": "causes",
+        "quote": "der Antagonist enthüllt seine eigene Genese, weil Erasure ihn selbst nicht mehr schützt",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        368
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5fda85d0ce15b82a17276db0632a3ad14d50ed36bf6e9aa285a0f2450250a662",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Mosaik-Struktur, unzuverlässige Erzähler, polyphone Pronomen",
+        "target": "Setzt die 39 fragmentierten Kapitel zu einer Bedeutung zusammen",
+        "type": "causes",
+        "quote": "Wie der Text das erzwingt",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        402
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:368e282c61778922ec704fc260ab07d968d1a9a8ccb0e1697ef1afc3bd56cf34",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Widersprüchliche Fußnoten als simulierte Risse, Temporal Scrambling",
+        "target": "Erlebt die K0-Trauma als Desorientierung",
+        "type": "causes",
+        "quote": "Wie der Text das erzwingt",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        402
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:89265119ae596fe0026361ff0fb2f573ac1030cd303d0e7078a598e1a58a0f94",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Leerstellen, die nur durch kognitiven Aufwand schließbar sind",
+        "target": "Funktioniert als thermodynamischer Treibstoff für die K1-Reparatur",
+        "type": "causes",
+        "quote": "Wie der Text das erzwingt",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        402
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c4845ba954c3c97cabe9d1015e5f5644fb5bbf26047dd8c73d70a1a32d36bb5f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Reader-Funktion",
+        "target": "Bedingung der Möglichkeit der dualen Storyform",
+        "type": "enables",
+        "quote": "die Reader-Funktion keine Position innerhalb der Storyform, sondern die Bedingung der Möglichkeit der dualen Storyform",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        409
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0880b2c3866fe6ee31f7badb1736bb88325f35e2f513d7bab4e045e301a8a74d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "die Frage nach Junas Doppelrolle",
+        "target": "Nuancen",
+        "type": "causes",
+        "quote": "weil die Frage nach Junas Doppelrolle Nuancen hat",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        432
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b79d3c2b09da8be2db10e499b45c4499d33c26ed9eeff62d9834e88e08562c85",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Junas Erscheinungsmodi (F8)",
+        "target": "Präzisierung in einer separaten Session",
+        "type": "requires",
+        "quote": "nachdem Junas Erscheinungsmodi (F8) entschieden sind",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        432
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d9bbc3db9c19113e7214a648a5f8acd8a5920366329b13125e559784e272b9bb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erason",
+        "target": "Zeitpfeil",
+        "type": "causes",
+        "quote": "Erason — irreversibles Löschereignis. K0-Einheit. Erzeugt Zeitpfeil.",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        481
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aa1f9cbad8d2393a7ad49791c40cc301b26faddd4f9acacd3ec1b74943b2989a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Bit-Löschung",
+        "target": "Landauer-Hitze",
+        "type": "causes",
+        "quote": "die Wärme, die jede Bit-Löschung minimal erzeugt",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        483
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:426b7d052e46c9c71b13ae80931ff9484cc4a5716d32af3a97b89e5ec9cba78a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Klein-c-Inversion",
+        "target": "Truth-Rotation",
+        "type": "causes",
+        "quote": "Klein-c-Inversion einmal durchlaufen",
+        "stance": "asserts"
+      },
+      "document": "dual-storyform-hintergruende-md",
+      "template": "CausalLinks",
+      "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        488
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

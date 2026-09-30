@@ -1,0 +1,346 @@
+{
+  "document": "dual-storyform-hintergruende-md",
+  "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Die These",
+        "target": "die Dual-Form",
+        "type": "requires",
+        "quote": "welche philosophische These zwingt sie",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein konsistentes Argument",
+        "target": "zwei einander ausschließende Lesarten",
+        "type": "prevents",
+        "quote": "sie kann nicht *gleichzeitig* zwei einander ausschließende Lesarten tragen",
+        "stance": "asserts"
+      },
+      {
+        "source": "die These",
+        "target": "Dual-Form",
+        "type": "causes",
+        "quote": "Die Dual-Form ist also **keine Stilentscheidung**, sondern eine **architektonische Zwangsfolge** der These",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontrolle",
+        "target": "die Entropie",
+        "type": "causes",
+        "quote": "Kontrolle erzeugt die Entropie, die sie bekämpft",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontrolle",
+        "target": "die Entropie, die sie bekämpft",
+        "type": "causes",
+        "quote": "Kontrolle erzeugt die Entropie, die sie bekämpft",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jeder Akt der Kontrolle",
+        "target": "die Entropie, die er bekämpft",
+        "type": "causes",
+        "quote": "Jeder Akt der Kontrolle erzeugt die Entropie, die er bekämpft",
+        "stance": "asserts"
+      },
+      {
+        "source": "B muss falsch lesen",
+        "target": "A wahr werden kann",
+        "type": "requires",
+        "quote": "B *muss* falsch lesen, damit A wahr werden kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "A unsichtbar bleiben",
+        "target": "B kollabiert",
+        "type": "requires",
+        "quote": "A *muss* unsichtbar bleiben, bis B kollabiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dual-Storyform",
+        "target": "Maximaler Inversionsdruck auf jedem Pol, ohne ungleichgewichtige Hierarchie",
+        "type": "causes",
+        "quote": "Genau das tut die Dual-Storyform: Tausche A→B die Klassen, die Dynamics, die Träger — und tausche zurück, du bist wieder bei A. Maximaler Inversionsdruck auf jedem Pol, ohne ungleichgewichtige Hierarchie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna verschwindet nicht aus B",
+        "target": "Kael in B zur lebenden Paradoxie wird",
+        "type": "enables",
+        "quote": "Juna verschwindet nicht aus B; sie ist die Quelle der Irreduzibilität, durch die Kael in B zur lebenden Paradoxie wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "B kollabiert",
+        "target": "Kaels IC-Funktion in B obsolet",
+        "type": "causes",
+        "quote": "Am Vortex, wenn B kollabiert, wird Kaels IC-Funktion in B obsolet",
+        "stance": "asserts"
+      },
+      {
+        "source": "B kollabiert",
+        "target": "Kaels IC-Funktion in B obsolet",
+        "type": "causes",
+        "quote": "Am Vortex, wenn B kollabiert, wird Kaels IC-Funktion in B obsolet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Vortex-Inversion",
+        "target": "Auflösung der IC-Asymmetrie",
+        "type": "causes",
+        "quote": "Die Vortex-Inversion ist damit strukturell die Auflösung der IC-Asymmetrie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Subordinated Subplots",
+        "target": "implizite Hierarchie etablieren",
+        "type": "causes",
+        "quote": "Subordinated Subplots würden eine implizite Hierarchie etablieren",
+        "stance": "hedges"
+      },
+      {
+        "source": "implizite Hierarchie",
+        "target": "das Werk vermeiden muss",
+        "type": "prevents",
+        "quote": "genau diese Hierarchie ist es, die das Werk vermeiden muss",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ein Do-er",
+        "target": "extern",
+        "type": "causes",
+        "quote": "Ein Do-er löst extern",
+        "stance": "asserts"
+      },
+      {
+        "source": "externes Lösen",
+        "target": "externe Domain",
+        "type": "requires",
+        "quote": "Ein Do-er löst extern → braucht externe Domain",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ein Be-er",
+        "target": "intern",
+        "type": "causes",
+        "quote": "Ein Be-er löst intern",
+        "stance": "asserts"
+      },
+      {
+        "source": "internes Lösen",
+        "target": "interne Domain",
+        "type": "requires",
+        "quote": "Ein Be-er löst intern → braucht interne Domain",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaels Heilung",
+        "target": "Funktionale Multiplizität",
+        "type": "causes",
+        "quote": "Kaels Heilung *ist* Funktionale Multiplizität",
+        "stance": "asserts"
+      },
+      {
+        "source": "interner Zustandswechsel",
+        "target": "Memory-Problem",
+        "type": "prevents",
+        "quote": "Kael löst sein Memory-Problem durch internen Zustandswechsel",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Handlungen",
+        "target": "Kollaps",
+        "type": "causes",
+        "quote": "AEGIS *handelt sich* in den Kollaps",
+        "stance": "asserts"
+      },
+      {
+        "source": "B's Action-Loop",
+        "target": "kollabiert thermodynamisch",
+        "type": "causes",
+        "quote": "B's Action-Loop läuft noch zwei Beats nach — weil sein Mandat es zwingt — und kollabiert thermodynamisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "sein Mandat",
+        "target": "B's Action-Loop läuft noch zwei Beats nach",
+        "type": "requires",
+        "quote": "weil sein Mandat es zwingt",
+        "stance": "asserts"
+      },
+      {
+        "source": "A's Driver bereits ausgelöst",
+        "target": "Stille-Phänomen",
+        "type": "causes",
+        "quote": "Stille, weil A's Driver bereits ausgelöst ist und B's Driver noch nicht zu Ende kommen kann.",
+        "stance": "asserts"
+      },
+      {
+        "source": "B's Driver noch nicht zu Ende kommen",
+        "target": "Stille-Phänomen",
+        "type": "causes",
+        "quote": "Stille, weil A's Driver bereits ausgelöst ist und B's Driver noch nicht zu Ende kommen kann.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Kael zur lebenden Paradoxie",
+        "type": "enables",
+        "quote": "sie ist die *Quelle* der Irreduzibilität, durch die Kael in B zur lebenden Paradoxie wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael MC",
+        "target": "Kaels IC-Funktion in B obsolet",
+        "type": "causes",
+        "quote": "Am Vortex wird Kaels IC-Funktion in B obsolet, seine MC-Funktion in A bleibt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "beide Storyforms das ganze Werk durchziehen",
+        "target": "beides muss in jedem Kapitel präsent sein",
+        "type": "requires",
+        "quote": "Wenn beide Storyforms das ganze Werk durchziehen, dann muss in jedem Kapitel beides irgendwie präsent sein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "jede Szene zwei Storyforms gleichzeitig ausspielt",
+        "target": "Mudding",
+        "type": "causes",
+        "quote": "Lesersteuerung-Prinzip „max 1 Konzept pro Szene“ verbietet, dass jede Szene zwei Storyforms gleichzeitig ausspielt. Ergebnis wäre Mudding",
+        "stance": "asserts"
+      },
+      {
+        "source": "zu sauber",
+        "target": "Truth-Rotation kommt am Vortex zu plötzlich",
+        "type": "causes",
+        "quote": "Nachteil: zu sauber — die 5D-Interferenz im Lesegeist hat keine Mikro-Reibungspunkte, die Truth-Rotation kommt am Vortex zu plötzlich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "mehr als drei Mikrocue-Punkte pro Bridge-Szene",
+        "target": "die Szene kippt in Mudding",
+        "type": "causes",
+        "quote": "Pro Bridge-Szene maximal drei Mikrocue-Punkte, sonst kippt die Szene in Mudding.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die fünf Beats",
+        "target": "Driver-Konstanz-Mechanik und IC-Asymmetrie",
+        "type": "requires",
+        "quote": "Sie folgen exakt aus der Driver-Konstanz-Mechanik (Abschnitt 3.3) und der IC-Asymmetrie (Abschnitt 2.3).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Driver-Konstanz-Mechanik und IC-Asymmetrie",
+        "target": "die fünf Beats",
+        "type": "causes",
+        "quote": "Sie folgen exakt aus der Driver-Konstanz-Mechanik (Abschnitt 3.3) und der IC-Asymmetrie (Abschnitt 2.3).",
+        "stance": "asserts"
+      },
+      {
+        "source": "kein Driver mehr",
+        "target": "kinetische Aktion erlischt",
+        "type": "causes",
+        "quote": "kinetische Aktion erlischt, weil kein Driver mehr nachstößt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erinnerung selbst der Schauplatz",
+        "target": "Erasure nicht mehr funktionieren",
+        "type": "prevents",
+        "quote": "Erasure nicht mehr funktionieren, weil Erinnerung selbst der Schauplatz wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "K1-gespeicherte Erinnerung besteht",
+        "target": "Driver-Pivot mechanisch greifen",
+        "type": "enables",
+        "quote": "nur an einem Ort, der aus K1-gespeicherter Erinnerung besteht, kann der Driver-Pivot mechanisch greifen",
+        "stance": "asserts"
+      },
+      {
+        "source": "im Vortex die Lösch-Kapazität ausgeht",
+        "target": "AEGIS muss die Genesis zeigen",
+        "type": "causes",
+        "quote": "AEGIS muss die Genesis zeigen, weil ihm im Vortex die Lösch-Kapazität ausgeht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure ihn selbst nicht mehr schützt",
+        "target": "Antagonist enthüllt seine eigene Genese",
+        "type": "causes",
+        "quote": "der Antagonist enthüllt seine eigene Genese, weil Erasure ihn selbst nicht mehr schützt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mosaik-Struktur, unzuverlässige Erzähler, polyphone Pronomen",
+        "target": "Setzt die 39 fragmentierten Kapitel zu einer Bedeutung zusammen",
+        "type": "causes",
+        "quote": "Wie der Text das erzwingt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Widersprüchliche Fußnoten als simulierte Risse, Temporal Scrambling",
+        "target": "Erlebt die K0-Trauma als Desorientierung",
+        "type": "causes",
+        "quote": "Wie der Text das erzwingt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leerstellen, die nur durch kognitiven Aufwand schließbar sind",
+        "target": "Funktioniert als thermodynamischer Treibstoff für die K1-Reparatur",
+        "type": "causes",
+        "quote": "Wie der Text das erzwingt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Reader-Funktion",
+        "target": "Bedingung der Möglichkeit der dualen Storyform",
+        "type": "enables",
+        "quote": "die Reader-Funktion keine Position innerhalb der Storyform, sondern die Bedingung der Möglichkeit der dualen Storyform",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Frage nach Junas Doppelrolle",
+        "target": "Nuancen",
+        "type": "causes",
+        "quote": "weil die Frage nach Junas Doppelrolle Nuancen hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Erscheinungsmodi (F8)",
+        "target": "Präzisierung in einer separaten Session",
+        "type": "requires",
+        "quote": "nachdem Junas Erscheinungsmodi (F8) entschieden sind",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erason",
+        "target": "Zeitpfeil",
+        "type": "causes",
+        "quote": "Erason — irreversibles Löschereignis. K0-Einheit. Erzeugt Zeitpfeil.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bit-Löschung",
+        "target": "Landauer-Hitze",
+        "type": "causes",
+        "quote": "die Wärme, die jede Bit-Löschung minimal erzeugt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Klein-c-Inversion",
+        "target": "Truth-Rotation",
+        "type": "causes",
+        "quote": "Klein-c-Inversion einmal durchlaufen",
+        "stance": "asserts"
+      }
+    ]
+  }
+}
