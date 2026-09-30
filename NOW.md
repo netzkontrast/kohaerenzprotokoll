@@ -122,9 +122,21 @@ events are marked new, not attributed to the sources or adopted as canon.
 It assumes W1 B, W2 C with A, W3 A and W4 C; alternate answers change the probe.
 The old prose remains parked and no NCP value was changed.
 
-**Next:** the author reviews round 1 and the probe. Record any answers once,
-then prepare the remaining Weichen needed by the treatment. The separate
-process questions A–D above remain open; preparing the probe decides none of them.
+**W5–W10 prepared, 2026-09-30:** the six sheets in `Plan/weichen/` cover sensorics,
+AEGIS perspective, reader knowledge, Act-II spaces, Juna and cast. Each separates
+source positions, recommendations and independent answer fields. Their Dual-Storyform
+reading distinguishes throughline bearer, narrative perspective and grammatical person.
+
+**PR #113 incorporated:** the merged Gutachten and five plot research files are on
+this branch. `Plan/concept/antwort-pr113_2026-09-30.md` records the response, its evidence
+limits and concrete plot questions. W5–W10 now also ask about reactive opposition,
+personal loss, the enacted Ich/Wir transition and an event-driven middle. The
+Gutachten is a sample-based diagnosis of the parked draft, not a full-book verdict.
+
+**Next:** the author reviews W1–W10 and the conditional probe. Record answers once,
+then revise the probe around observable goals, requirements, consequences and both
+clocks. W11–W16 and process questions A–D remain open. No new document ingest,
+manuscript rewrite or NCP promotion was performed.
 
 **New from the last eight canon-era documents (2026-09-27, documents 32–39, all English, all 2026-05-08):**
 - **The Guardian-world pairing, again, on the canon's date.** The Narrative Building Blocks report makes

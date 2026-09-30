@@ -665,12 +665,26 @@ often a chapter really needs a new source. If that is often, D1.
 story and opening movements on their recommendations. It is a proposal, not
 Phase 2's approved treatment; no Weiche has been decided by writing it.
 
+**Further preparation, 2026-09-30:** W5–W10 now have decision sheets, with an
+explicit response to merged PR #113 in `antwort-pr113_2026-09-30.md`. They remain
+open; the plot research's provisional values are not author decisions.
+
+| sheet | question |
+|---|---|
+| [W5](../weichen/w5-sensorik.md) | heat, cold, physical costs and sensory signals |
+| [W6](../weichen/w6-aegis-perspektive.md) | AEGIS perspective versus B's structural role |
+| [W7](../weichen/w7-schleier.md) | separate knowledge thresholds and enacted Ich/Wir transition |
+| [W8](../weichen/w8-akt-ii-raeume.md) | spaces, forced transitions and Act-III trigger |
+| [W9](../weichen/w9-juna.md) | presence, identity and the cost of connection |
+| [W10](../weichen/w10-besetzung.md) | roster, individual goals and reactive opposition |
+
 Unless the author says otherwise, the next session:
 
-1. prepares the decision sheets for **W2 first, then W1, W3 and W4**, from the records, the chapter pages and
-   `plot.md`, with every citation asked of `read.py --find`, and reads no new document;
-2. puts round 1 to the author, with the four questions of §11 if they are still open;
-3. records each answer where it belongs, dated, and moves the next round's sheets forward.
+1. puts the prepared W1–W10 to the author, with the four questions of §11 if still open;
+2. records each answer where it belongs, dated, and revises the conditional probe with
+   observable goals, necessary steps, consequences and the two clocks;
+3. prepares W11–W16 as needed, using already read material and `read.py --find` for
+   citations; starts no new document without a changed author instruction.
 
 The writing skills need nothing further before the pilot. One smoke test of the most-changed
 of them, `copy-editor`, ran on the parked Kap 1 when they were installed. It tested the
