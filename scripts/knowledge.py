@@ -1,4 +1,4 @@
-"""Initialize existing tool capabilities, keeping graph stores independent.
+"""Initialize tool capabilities and the shared corpus/wiki graph store.
 
     python3 scripts/knowledge.py init --profile reader
     python3 scripts/knowledge.py init --profile research --check
@@ -6,7 +6,7 @@
     python3 scripts/knowledge.py selftest
 
 Only the coordinating session initializes. Subagents use --check, then report
-missing capabilities. No model extraction, source authoring or graph unification.
+missing capabilities. Initialization performs one shared graph build; it performs no model extraction or source authoring.
 Full includes the existing qmd-models installer (large downloads/embeddings).
 """
 from __future__ import annotations
@@ -40,8 +40,6 @@ def phases(profile: str, check: bool) -> list[tuple[str, list[str]]]:
         result.append(("wiki-graph-index", [".venv-graphqlite/bin/python", "scripts/kg.py", "index"]))
     result.append(("wiki-graph-freshness", [".venv-graphqlite/bin/python", "scripts/kg.py", "check"]))
     if profile != "reader":
-        if not check:
-            result.append(("ask-index", [".venv-dspy/bin/python", "scripts/askdb.py", "build"]))
         result.append(("ask-freshness", [".venv-dspy/bin/python", "scripts/askdb.py", "check"]))
     if not check:
         result.append(("qmd-update", [".tools-node/node_modules/.bin/qmd", "update"]))
@@ -84,6 +82,7 @@ def selftest() -> int:
         assert all(not any(arg in {"build", "index", "update", "scripts/derive.py"}
                            for arg in cmd) for _, cmd in check)
         assert "--check" in check[0][1]
+    assert sum("index" in cmd or "build" in cmd for _, cmd in phases("research", False)) == 1
     commands = []
     def offline(command, **kwargs):
         commands.append(command)
@@ -102,7 +101,7 @@ def selftest() -> int:
     missing = execute("reader", True, lambda *a, **k: SimpleNamespace(
         returncode=0, stdout="MISSING", stderr=""))
     assert not missing["ready"]
-    print("knowledge: read-only plans, capability failures, continuation, separate stores and opt-in semantic setup hold")
+    print("knowledge: read-only plans, capability failures, continuation, shared store and opt-in semantic setup hold")
     return 0
 
 

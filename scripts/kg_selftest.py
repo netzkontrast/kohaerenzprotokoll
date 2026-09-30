@@ -104,15 +104,60 @@ class Integration(unittest.TestCase):
 
     def test_failed_rebuild_leaves_previous_database_intact(self):
         before = self.db.read_bytes()
-        with patch.object(kg, "engine", side_effect=RuntimeError("fixture failure")):
+        with patch("askdb._graphqlite", side_effect=RuntimeError("fixture failure")):
             with self.assertRaises(RuntimeError):
                 kg.publish(self.graph, self.db, {})
         self.assertEqual(self.db.read_bytes(), before)
-        self.assertEqual(list(self.root.glob(".graphqlite-*")), [])
+        self.assertEqual(list(self.root.glob(".ask-*")), [])
 
     def test_unchanged_index_does_not_build_graph(self):
-        with patch.object(kg, "inputs", return_value=self.hashes), patch("graph.build", side_effect=AssertionError("must not rebuild")):
+        with patch("askdb.inputs", return_value=self.hashes), patch("graph.build", side_effect=AssertionError("must not rebuild")):
             self.assertEqual(kg.index(self.db)["status"], "unchanged")
+
+    def test_edit_during_publication_keeps_previous_snapshot(self):
+        import askdb
+        core = self.graph
+        data = askdb.with_core({"nodes": {k: ({}, n["type"].capitalize()) for k, n in core["nodes"].items()},
+            "edges": [(e["source"], e["target"], {"via": e["via"]}, e["type"].upper()) for e in core["edges"]],
+            "quotes": []}, core)
+        before = self.db.read_bytes()
+        with patch.object(askdb, "inputs", return_value={"changed": "during publication"}):
+            with self.assertRaisesRegex(ValueError, "inputs changed"):
+                askdb.publish(data, self.db, self.hashes, [], verify_inputs=True)
+        self.assertEqual(self.db.read_bytes(), before)
+        self.assertEqual(list(self.root.glob(".ask-*")), [])
+
+    def test_one_node_has_typed_and_core_labels(self):
+        import askdb
+        self.assertEqual(kg.DATABASE, askdb.DB)
+        g = kg.engine(str(self.db))
+        try:
+            self.assertEqual(g.query("MATCH (n:Term:Core) RETURN n.id AS id"), [{"id": "term:a"}])
+        finally:
+            g.close()
+
+    def test_tampered_properties_detected_without_count_change(self):
+        import askdb, sqlite3
+        with sqlite3.connect(self.db) as conn:
+            before = askdb.storage_hash(conn)
+            conn.execute("UPDATE edge_props_text SET value='changed provenance' WHERE value LIKE 'Wiki/%'")
+            self.assertNotEqual(askdb.storage_hash(conn), before)
+
+    def test_proposals_do_not_change_path_or_core_ranking(self):
+        import askdb
+        g = kg.engine(str(self.db))
+        g.insert_graph_bulk([("entity:guess", {}, "Entity")], [("term:a", "entity:guess", {}, "P_NAMED_IN"), ("entity:guess", "doc:d", {}, "P_NAMED_IN")])
+        g.close()
+        store = askdb.Store(self.db, stale_ok=True)
+        try:
+            self.assertEqual(store.path("term:a", "doc:d")["path"], ["term:a", "doc:d"])
+            self.assertEqual(store.path("term:a", "entity:guess")["path"], [])
+            self.assertNotIn("entity:guess", dict(store.ppr(["term:a"])))
+            self.assertNotIn("entity:guess", store.communities())
+            with self.assertRaises(Exception):
+                store.cypher("CREATE (n:Term {id:'term:unauthorized'})")
+        finally:
+            store.close()
 
     def test_context_budget_keeps_conflicts_and_whole_quotes(self):
         pack = {"query": "AEGIS", "seeds": [], "terms": [], "conflicts": [{"id": "C1"}], "questions": [],

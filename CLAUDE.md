@@ -488,7 +488,7 @@ questions touching them, and the documents the rank reached — never prose.**
 `--answer` lets a model choose evidence *numbers*; code prints the quotations.
 
 **A disposable GraphQLite projection serves the same graph locally.**
-`scripts/kg.py index` builds `Plan/derived/graphqlite.db`, or does nothing when
+`scripts/kg.py index` builds `Plan/derived/ask.db`, or does nothing when
 its input hashes match. Changed inputs rebuild it; reads refuse stale snapshots.
 The CLI provides FTS5 search, evidence IDs, bounded Cypher neighbours and
 byte-capped context using the existing personalized PageRank/MMR. No model or

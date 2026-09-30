@@ -1,7 +1,7 @@
 # Kohärenz Protokoll: qmd discovery graph and initialization proposal
 
 **Status: discovery-graph proposal and tested demonstration, with a tool initializer and reader extraction bridge in this PR.**
-**2026-09-30.** Unification is explicitly deferred on the author's instruction while the other agents finish. The PR adds initialization, reader/template skills, agents and candidate staging. It leaves source/wiki authoring and production graph schemas unchanged.
+**2026-09-30.** Graph unification is now authorized and implemented in the shared `Plan/derived/ask.db`. The PR adds initialization, reader/template skills, agents and candidate staging. It preserves source/wiki authoring and combines the two derived graph contracts using typed nodes with a `:Core` alias.
 
 Original proposal snapshots (historical; #119 and #123 are now on main):
 - main: `afeb0b86a53adf847f9cdb932751f03ddf6dfd15`
@@ -48,7 +48,7 @@ The PR adds `scripts/knowledge.py`: reader/research/full profiles orchestrate ex
 | 1. Tools | Use `install.sh`'s component definitions and pins; the full profile installs the suite, including optional packages. | Per-component success, failure, or unavailable state. No global green bit. |
 | 2. qmd | Use `setup_qmd.sh`: package, pinned local models, update, embeddings. | Collections match config; coverage passes; embeddings actually complete. |
 | 3. Catalogue | Enumerate authoritative manifests and files, not top-k search results. | Every in-scope original source is addressable; missing and unsupported files reported separately. |
-| 4. Existing graphs | `kg.py index/check`; research/full also `askdb.py build/check`, each in its own store. | Independent freshness/check results; no writes across implementations while unification is deferred. |
+| 4. Existing graphs | `kg.py index/check`; research/full also validate `askdb.py check` against the same store. | One atomic graph/FTS build with shared source hashes and compatible reader projections. |
 | 5. Discovery | Import historical hit logs and run the bounded registered-query set for the selected profile. | URI/path resolves, hashes recorded, anchors checked, failures retained. |
 | 6. Graph adapter | After the agents finish, import the durable discovery records into the agreed GraphQLite projection. | Native fixture queries and provenance checks pass before publishing the new snapshot. |
 | 7. Report | Write the phase result, versions, hashes, missing inputs and capability availability. | Exit nonzero if a capability required by the chosen profile is unavailable; retain completed checkpoints. |
@@ -210,7 +210,7 @@ The raw recipe queries displaying mixed retrieval backends show audit ranks. Can
 
 The included `reader-tools` and `hyperextract-learning` skills and `hyperextract-template-agent` teach offline tests, source-hash staging, semantic review and budgeted learning when reviewed examples exist. No DSPy optimization or corpus quality claim is made.
 
-No unification step is scheduled or performed by this deliverable. It remains pending until the other agents complete their work.
+Graph unification is implemented. qmd result import and model-backed evaluation remain proposed work.
 
 ## Sources inspected
 
