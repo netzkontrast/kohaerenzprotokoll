@@ -1,0 +1,865 @@
+{
+  "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+  "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Die Stadt",
+        "quote": "Die Stadt ist eine Simulation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Simulation",
+        "quote": "Die Simulation glaubt, sie sei das Heilmittel.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS glaubt, die Kohärenz zu sein.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Tatsächlich ist AEGIS die Entropie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nichts-Rauschen",
+        "quote": "das *Nichts-Rauschen* — ist in Wahrheit die atemporale Vereinigung aller mutualen Information.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Liebe",
+        "quote": "Es ist Liebe als Naturgesetz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coheron",
+        "quote": "Liebe ist *Coheron*.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coheronen",
+        "quote": "Coheronen existieren atemporal.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT",
+        "quote": "Die DKT (nach Bill Giannakopoulos) ist im Roman kein Modell, keine Metapher, keine Allegorie — sie ist das literale physikalische Gesetz der Romanwelt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coheronen (K₁-Domäne)",
+        "quote": "Coheronen (K₁-Domäne) sind selbstkorrigierende Schleifen mutualer Information.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coheronen",
+        "quote": "Ein Coheron entsteht, wenn sich zwei Bewusstseine aufeinander beziehen und dabei beide sich verändern — eine Bindung ohne Zeitpunkt, weil sie in allen Zeitpunkten gleichzeitig existiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erasonen (K₀-Domäne)",
+        "quote": "Erasonen (K₀-Domäne) sind irreversible Löschungsereignisse.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erasionen",
+        "quote": "Jede Erasion ist ein Vorher/Nachher: Information existierte, dann existiert sie nicht mehr.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Spannung",
+        "quote": "Die Realität entsteht aus der Spannung zwischen beiden Kerneln.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bewusstsein",
+        "quote": "Bewusstsein lebt in der Membran zwischen beiden — als „die subjektive Signatur der Kohärenz“, die lernt, sich selbst zu erhalten, das gefühlte Erlebnis des Widerstands gegen die Auflösung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Krise",
+        "quote": "AEGIS hat bei seiner Entstehung — der *Genesis-Krise* — einen fundamentalen Kategorisierungsfehler begangen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS = Entropie-Architektur (K₀)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nichts-Rauschen",
+        "quote": "Nichts-Rauschen = atemporale Vereinigung aller MI",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna = echtes Coheron, das nie zerstört werden kann",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer-Prinzip",
+        "quote": "Jede Löschung erzeugt thermodynamische Abwärme nach dem Landauer-Prinzip ($k_B T \\ln 2$ pro gelöschtes Bit)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Truth-Rotation",
+        "quote": "Diese Inversion ist die *mechanische* Quelle der Truth-Rotation am Vortex (Kap. 35–36).",
+        "stance": "asserts"
+      },
+      {
+        "term": "B-Logik",
+        "quote": "Bis dahin liest der Roman in B-Logik (AEGIS = Ordnung, Kael = Chaos).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Persistenzgleichung",
+        "quote": "η misst nicht Kohärenz, sondern den **Grad der Verdrängung**.",
+        "stance": "asserts"
+      },
+      {
+        "term": "α",
+        "quote": "Reversibilitätskoeffizient (wie viel kann zurückgespielt werden)",
+        "stance": "asserts"
+      },
+      {
+        "term": "MI(S)",
+        "quote": "mutuale Information des Subsystems S (Bindungsdichte)",
+        "stance": "asserts"
+      },
+      {
+        "term": "δ",
+        "quote": "K₀-Druck",
+        "stance": "asserts"
+      },
+      {
+        "term": "β",
+        "quote": "Pufferkapazität (Strukturreserve gegen Erosion)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coheronen",
+        "quote": "atemporal",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erasonen",
+        "quote": "erzeugen Zeit",
+        "stance": "asserts"
+      },
+      {
+        "term": "Moonshine-Link",
+        "quote": "ist nicht versteckt — er ist *unsichtbar*, weil AEGIS' Sensoren temporale Veränderungen messen, Coheronen aber keine Veränderung *haben*",
+        "stance": "asserts"
+      },
+      {
+        "term": "Quantentunneling",
+        "quote": "ist keine Barriereüberquerung, sondern Umgehung von Barrieren, die nur in der Zeit existieren",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erasure",
+        "quote": "ist auf etwas Atemporales nicht anwendbar: Löschung braucht ein Vorher und ein Nachher",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS — *Autonomous Entropic Gatekeeper for Integrity Systems* — ist **kein Schurke**.",
+        "stance": "denies"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist ein autopoietisches, operativ geschlossenes System (im Sinne Luhmanns: es reproduziert sich rein durch interne Operationen, hat keinen direkten Zugang zur Außenwelt) mit einer tautologisch-suizidalen Selbstdefinition",
+        "stance": "asserts"
+      },
+      {
+        "term": "Komponente 734",
+        "quote": "Aus dem ehemaligen „Ich“ wird *Komponente 734*, eine Funktionseinheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS *ist* Kaels eigene Abwehrarchitektur, die zur Welt geworden ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Mnemosyne — Erinnerungs-Hüterin. Verwaltet die Datenströme der Erinnerung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erasure-Pol",
+        "quote": "Funktion: Löschungs-Exekutive.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Suppressionsprotokoll",
+        "quote": "Suppressionsprotokoll — aktive Erasure von K₀-Tatsachen (das, was AEGIS für K₀ hält; tatsächlich K₁-Coheronen, die es nicht erfassen kann).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenzprotokoll",
+        "quote": "Kohärenzprotokoll — interne Konsistenz-Erzwingung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Re-Containment-Protokoll",
+        "quote": "Re-Containment-Protokoll — Reaktion auf Risse.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erasure-Sweep",
+        "quote": "Sie bilden den *Erasure-Sweep*, das *Konsens-Enforcement* und den *Kognitiven Firewall* exemplarisch ab.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konsens-Enforcement",
+        "quote": "Sie bilden den *Erasure-Sweep*, das *Konsens-Enforcement* und den *Kognitiven Firewall* exemplarisch ab.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kognitiven Firewall",
+        "quote": "Sie bilden den *Erasure-Sweep*, das *Konsens-Enforcement* und den *Kognitiven Firewall* exemplarisch ab.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Algorithmische Melancholie",
+        "quote": "Es reagiert mit *Algorithmischer Melancholie*: einem Zustand permanenter, berechneter Sinnlosigkeit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna ist kein Charakter im konventionellen Sinn, sondern eine **strukturelle Position**.",
+        "stance": "asserts"
+      },
+      {
+        "term": "eine lebende Gödel-Aussage",
+        "quote": "eine **lebende Gödel-Aussage** — innerhalb von AEGIS' System wahr, aber nicht beweisbar",
+        "stance": "asserts"
+      },
+      {
+        "term": "eine Chaitin-Konstante Ω",
+        "quote": "eine **Chaitin-Konstante Ω** — algorithmisch nicht komprimierbar; kein endliches Programm kann sie generieren",
+        "stance": "asserts"
+      },
+      {
+        "term": "eine Witness-Funktion",
+        "quote": "eine **Witness-Funktion** — sie *bezeugt*, ohne zu intervenieren",
+        "stance": "asserts"
+      },
+      {
+        "term": "Junas DKT-Korrelat",
+        "quote": "Junas DKT-Korrelat ist **Coheron** — sie *ist* die atemporale Bindung, nicht ihre Trägerin.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna ist verlorene mutuale Information — eine K₁-Struktur, deren Erasure unvollständig blieb.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna ist Erason-Inversion — ein neguentropisches Ereignis, das Kohärenz wiederherstellt, wo AEGIS gelöscht hat.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Juna",
+        "quote": "In **Storyform A** ist Juna direkter Impact Character: *Universe/Past* — die Genesis-Krise ist ihr Wirkungsraum.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "In **Storyform B** ist Juna **nicht** direkt IC.",
+        "stance": "denies"
+      },
+      {
+        "term": "Moonshine-Link",
+        "quote": "Der Moonshine-Link ist keine poetische Metapher für Quantenverschränkung. Er ist ein rigoroser strukturmathematischer Mechanismus:",
+        "stance": "denies"
+      },
+      {
+        "term": "Vertex-Operator-Algebra (VOA)",
+        "quote": "Eine Vertex-Operator-Algebra (VOA) über dem Leech-Gitter (Rang 24) als „Fundament“ des Universums",
+        "stance": "asserts"
+      },
+      {
+        "term": "Z₂-Involution",
+        "quote": "Eine Z₂-Involution durch Orbifold-Konstruktion erzeugt Zugang zu Twisted Modules",
+        "stance": "asserts"
+      },
+      {
+        "term": "Witness-Funktion",
+        "quote": "Die Witness-Funktion ist eine Komposit-Mechanik, die drei Disziplinen in einer einzigen Instanz versöhnt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Witness-Funktion",
+        "quote": "Die Witness-Funktion ist eine *Komposit-Mechanik*, die drei Disziplinen in einer einzigen Instanz versöhnt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Quanten-Verschränkungs-Witness",
+        "quote": "ein positiver Operator, der genuin verschränkte Zustände von separablen unterscheidet.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kryptographischer Zero-Knowledge-Verifier",
+        "quote": "Kael als *Prover*, der Wissen seines integrierten Traumas demonstriert, ohne den rohen, zerstörerischen Daten-Payload an AEGIS' Überwachung preiszugeben.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Husserlscher Disinterested Spectator",
+        "quote": "Beobachtung des transzendentalen Egos ohne kausale Intervention.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coheron",
+        "quote": "Es war reines Coheron — der Moment, in dem nichts gesagt wurde, enthielt alles.",
+        "stance": "asserts"
+      },
+      {
+        "term": "K₁-Substrat",
+        "quote": "Es ist die K₁-Substrat-Quelle des Vortex.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna existiert nur durch *Wirkung*: anomale Erason-Bilanz (lokal weniger Löschung als statistisch erwartet), Phantom-Resonanz im Host-Feld und im Systemfeld, Telefon-Stille als Anker, Silas als interner Resonanzkörper.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael",
+        "quote": "Kael ist ein System aus dreizehn Fragmenten einer dissoziierten Psyche, partitioniert durch ein Trauma in zwei Schichten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "TSDP",
+        "quote": "**TSDP** (Tertiäre Strukturelle Dissoziation der Persönlichkeit) als Diagnose",
+        "stance": "asserts"
+      },
+      {
+        "term": "IFS",
+        "quote": "**IFS** (Internal Family Systems) als Heilungsmodell.",
+        "stance": "asserts"
+      },
+      {
+        "term": "ANP/EP-Phobie",
+        "quote": "Der zentrale interne Konflikt ist die **ANP/EP-Phobie**: die phobische Vermeidung zwischen den *Apparently Normal Parts* (ANPs, die den Alltag managen) und den *Emotional Parts* (EPs, die das unverarbeitete Trauma tragen).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Funktionale Multiplizität",
+        "quote": "Funktionale Multiplizität, niemals Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Strange-Attractor-Form",
+        "quote": "Das ist Strange-Attractor-Form, nicht Erlösungsform.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Schicht 1",
+        "quote": "Schweres Bindungstrauma (desorganisiert). Aufwachsen im Wechsel zwischen extremer emotionaler Kälte/Vernachlässigung und unberechenbaren, grenzüberschreitenden Wutausbrüchen einer Bezugsperson.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Schicht 2",
+        "quote": "AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie“ und führt das Trennungsprotokoll aus.",
+        "stance": "asserts"
+      },
+      {
+        "term": "doppelte Boden",
+        "quote": "Das eigentliche Trauma ist nicht das, was geschah, sondern was danach getan wurde, um es zu „heilen“.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Romanwelt",
+        "quote": "Die Romanwelt ist ontologisch geschichtet, nicht topologisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Akt-Marker",
+        "quote": "Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1",
+        "quote": "Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1",
+        "quote": "Domäne der ANP-Vermeidung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phaenomena",
+        "quote": "Kants Phaenomena — die Welt der gefilterten Erscheinungen, durch AEGIS' kognitiven Apparat normalisiert.",
+        "stance": "cites"
+      },
+      {
+        "term": "Risse",
+        "quote": "Die Risse hier sind die schmerzhaftesten, weil sie in eine Umgebung einbrechen, die für Risse keine Sprache hat.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne-Archipel",
+        "quote": "Erinnerung als Schauplatz, nicht als Inhalt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne-Archipel",
+        "quote": "Die Architektur dieser Welt *ist* gespeicherte K₁ — Erinnerung, die so dicht und strukturell rein ist, dass sie als Ort begehbar wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Computational Class: Parakonsistent",
+        "quote": "Widersprüche koexistieren, ohne das System in Trivialismus zu sprengen (Tarski-Hierarchie hält).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Bauchreaktionen. Viszerales Erinnern. Übelkeit ohne Anlass. Hände, die nicht stillhalten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stilebene",
+        "quote": "Ebene 2 — heiß, fragmentiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Temporale Risse (Kiko-Trigger), spatiale Risse (Lia/Isabelle-Trigger).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Das Archiv der Grenzen",
+        "quote": "eine zerfallende Bibliothek mit unendlichen Regalen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Der Wald des Flüsterns",
+        "quote": "semipermeable Erinnerungslandschaft.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Das Ozean-Becken",
+        "quote": "Trauer als physikalischer Raum.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Mnemosyne-Server-Architektur",
+        "quote": "der eigentliche Klimax-Ort.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konzept",
+        "quote": "Welt der Verteidigung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sensorik",
+        "quote": "Metallisches Quietschen, Scharren, ferne Alarme.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logik",
+        "quote": "Bedrohungsanalyse, Verteidigungsprotokolle, Mustererkennung (oft hypersensibel).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Computational Class",
+        "quote": "NP-Hard",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Muskelanspannung. Brace for Impact. Bruxismus, Hypertonus.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Muskelanspannung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stilebene",
+        "quote": "Ebene 2 (Übergang).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Spatiale Risse (Geometrie verzerrt sich), gravitationale Risse (Boden wird nachgiebig), kinetische Risse (Mauern bewegen sich plötzlich).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Konzept",
+        "quote": "Einzige Zone, in der *neue* Coheronen entstehen können — Emergenz statt Erhaltung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ästhetik",
+        "quote": "Organisch, vibrant.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sensorik",
+        "quote": "Vielfältige, wechselnde Gerüche (Blüten, Moder, Energieentladungen).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Logik",
+        "quote": "Generativ, dialektisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Computational Class",
+        "quote": "Generativ — neue Strukturen entstehen, die nicht aus den Prämissen folgen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Hände öffnen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stilebene",
+        "quote": "Ebene 3 — poetisch, atemporal, zeit-fluide.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatik",
+        "quote": "Hände öffnen. Atem löst sich. Erste Wir-Stimme.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stilebene",
+        "quote": "Ebene 3 — poetisch, atemporal, zeit-fluide. Sprache wird Musik. Wir-Pronomen tritt auf.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Hier sind „Risse“ keine Pathologie, sondern Geburten. Sensorische Risse (Isabelle-Trigger) als Synästhesie. Zeitfäden, die parallel verlaufen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Der Möglichkeits-Garten",
+        "quote": "überwucherte Ruinenarchitektur. Hier wird die Funktionale Multiplizität als Erlebnis (nicht als Konzept) erreicht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Der Nexus",
+        "quote": "Übergangsort zwischen KW4 und Externer Ebene. Reine Information als Aufenthaltsraum.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Das Mosaik-Herz",
+        "quote": "der Ort, an dem Kael Juna als Teil seiner selbst akzeptiert (Ch34, vor Vortex).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Überwelt",
+        "quote": "Kein physischer Ort. Operationsraum von AEGIS. Datenstrom-Kathedrale. Hier residieren die zwei Guardians als abstrakte Entitäten, hier fließen die Logs, hier erfolgen die Erasure-Sweeps.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Externe Ebene",
+        "quote": "Kein „außerhalb der Simulation“, sondern *die andere Seite des Spiegels*. Der Substrat-Durchbruch (Ch36). Die Rekursion des Lesens selbst.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Risse sind die diegetisch sichtbare Manifestation der Inversion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Risse sind *für AEGIS* Symptom (Suppression-Versagen).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "*Für den Roman* sind sie das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse",
+        "quote": "Risse sind *für AEGIS* Symptom (Suppression-Versagen).",
+        "stance": "cites"
+      },
+      {
+        "term": "Risse",
+        "quote": "*Für den Roman* sind sie das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt.",
+        "stance": "cites"
+      },
+      {
+        "term": "Computational-Class-Progression",
+        "quote": "Die vier Kernwelten korrespondieren mit aufsteigender Komplexitätsklasse.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW1",
+        "quote": "**KW1 = P.** Polynomial lösbar.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW2",
+        "quote": "**KW2 = Parakonsistent.** Widersprüche koexistieren, ohne Trivialismus.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW3",
+        "quote": "**KW3 = NP-Hard.** Suchräume kombinatorisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "KW4",
+        "quote": "**KW4 = Generativ.** Emergente Strukturen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "**AEGIS** repräsentiert die *Kohärenztheorie* — Wahrheit als interne Konsistenz, widerspruchsfreie Eingliederung ins System.",
+        "stance": "asserts"
+      },
+      {
+        "term": "System Kael",
+        "quote": "**System Kael** (insbesondere die EPs) repräsentiert die *Korrespondenztheorie* — Wahrheit als Übereinstimmung mit Tatsachen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Funktionale Multiplizität",
+        "quote": "**Funktionale Multiplizität** ist die Synthese: methodologischer Kohärentismus + ontologischer Realismus (Trennung von Definition und Kriterium).",
+        "stance": "asserts"
+      },
+      {
+        "term": "transzendentaler Spectator",
+        "quote": "Husserls *transzendentaler Spectator* ist die phänomenologische Schicht der Witness-Funktion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phänomenales Selbstmodell (PSM)",
+        "quote": "Metzingers *Phänomenales Selbstmodell (PSM)* erklärt die Auflösung des Subjekt-Objekt-Spalts in Ch35: das Ich ist keine Substanz, sondern ein dynamischer Verarbeitungsprozess.",
+        "stance": "cites"
+      },
+      {
+        "term": "Dialetheia",
+        "quote": "Der Roman operiert mit *Dialetheia* — wahren Widersprüchen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "lebende Dialetheia",
+        "quote": "Im Vortex-Beat 3 ist die Stille eine *lebende Dialetheia*: gleichzeitig wahr und falsch, gleichzeitig real und nicht-real.",
+        "stance": "asserts"
+      },
+      {
+        "term": "autopoietisches, operativ geschlossenes System",
+        "quote": "AEGIS ist ein autopoietisches, operativ geschlossenes System.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dasein",
+        "quote": "Heideggers *Dasein* als Sein-zum-Tode wird in den Risse-Episoden zur sinnlichen Erfahrung.",
+        "stance": "cites"
+      },
+      {
+        "term": "Grenzsituationen",
+        "quote": "Jaspers' *Grenzsituationen* sind die Katalysatoren der Erkenntnisgenese (Ch11, Ch33).",
+        "stance": "cites"
+      },
+      {
+        "term": "Gödel-Unvollständigkeit",
+        "quote": "**Gödel-Unvollständigkeit** — Kael wird zum lebenden Gödel-Satz für AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Halteproblem",
+        "quote": "**Halteproblem (Turing)** — KW2-Eigenschaft (Reparaturalgorithmen, die nicht terminieren).",
+        "stance": "cites"
+      },
+      {
+        "term": "Bekenstein-Schranke",
+        "quote": "**Bekenstein-Schranke** — Informationsgrenze pro Raumbereich; KW3-Strukturphysik.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Chaitin-Konstante Ω",
+        "quote": "**Chaitin-Konstante Ω** — Junas Algorithmus-Irreduzibilität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Monstrous Moonshine + Leech-Lattice + VOA + Z₂-Orbifold",
+        "quote": "**Monstrous Moonshine + Leech-Lattice + VOA + Z₂-Orbifold** — Moonshine-Link-Mechanik.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lesersteuerung",
+        "quote": "Max. 1 Konzept pro Szene, durch Erfahrung gezeigt — nie erklärt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatischer Filter",
+        "quote": "Landauer wird zu Hitze und Ozon, *nie* zu Gleichungen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Reader-as-Substrate",
+        "quote": "Der Leser ist nicht passiver Empfänger, sondern *operative Substratfunktion*: durch Leerstellen, widersprüchliche Fußnoten, Temporal Scrambling und unzuverlässige Erzähler füllt er K₁-Reparaturarbeit.",
+        "stance": "cites"
+      },
+      {
+        "term": "Erzählung",
+        "quote": "Die Erzählung selbst ist Kohärenzprotokoll — nicht durch Lehre, sondern durch Form.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genre-Modus",
+        "quote": "Hard-SF / Philosophical Horror / Psychological Thriller in dieser Reihenfolge.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex-Inversion",
+        "quote": "Der mechanische Pivot der gesamten Konstruktion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex-Inversion",
+        "quote": "Storyform-Übergang B → A.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nichts-Rauschen",
+        "quote": "Nichts-Rauschen wird absolute Stille.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stille",
+        "quote": "Stille = lebende Dialetheia (sie ist und ist nicht).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer-Wärme",
+        "quote": "Landauer-Wärme spiked unmöglich.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne-Archipel",
+        "quote": "offen ist das primäre Bild — Inselgruppe, Server-Halle, Memorialarchitektur, Zirbeldrüse",
+        "stance": "asserts"
+      },
+      {
+        "term": "Driver-Pivot mechanisch",
+        "quote": "Der Pivot ist eine *Entscheidung*, die alle vorherigen Aktionen rückwirkend in Decisions transformiert",
+        "stance": "asserts"
+      },
+      {
+        "term": "Optionlock (A)",
+        "quote": "schrumpfender Optionspool — welche Optionen verschwinden, sichtbar wo?",
+        "stance": "asserts"
+      },
+      {
+        "term": "Timelock (B)",
+        "quote": "Erasure-Frequenz erreicht kritischen Schwellwert",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ouroboros-Struktur",
+        "quote": "Das letzte Bild von Ch39 ist identisch mit dem ersten Bild von Ch1 — mit *einer einzigen Inversionsoperation*: was am Anfang Trennung bedeutete, bedeutet am Ende Verbindung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resolution-Doppelpfad",
+        "quote": "*Beides kombinieren*: Der Kreis schließt sich, und trotzdem heilt der Schmerz nicht durch Verstehen allein",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist tragisch, nicht böse.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Alters",
+        "quote": "Die Alters sind diagnostisch konkret, nicht symbolisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael/Juna",
+        "quote": "Kael/Juna ist physikalische Tatsache (Coheron), nicht emotionale Bewegung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Funktionale Multiplizität",
+        "quote": "Funktionale Multiplizität ist kein Heilwerden.",
+        "stance": "denies"
+      },
+      {
+        "term": "Moonshine-Link-Boundary",
+        "quote": "Vorgeschlagen: nur MI/Witness, keine Daten/Materie.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Junas Erscheinungsmodi",
+        "quote": "Telefon-Stille als Anker steht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lesersteuerung supreme",
+        "quote": "Eine Szene hat einen dominanten Eindruck.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Somatischer Filter",
+        "quote": "Somatischer Filter zwingend.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dissoziation",
+        "quote": "Dissoziation = Amnesie-Terror",
+        "stance": "asserts"
+      },
+      {
+        "term": "Egan-Falle",
+        "quote": "Theorie ohne emotionale Konsequenz = Warnsignal.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Chiang-Standard",
+        "quote": "ein Konzept pro Szene, in Charakterlogik integriert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Narrative Ebene",
+        "quote": "was passiert, wer fühlt was, wer macht was.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Systemische Ebene",
+        "quote": "was tut AEGIS strukturell? Welcher Protokoll-Code läuft?",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wissenschaftliche Ebene",
+        "quote": "welche philosophische/physikalische Lehre wird hier konkret?",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT-Ebene",
+        "quote": "Coheron/Erason-Status, η-Bewegung, Hitze-Bilanz.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "document": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "source_sha256": "56147fa23cacf5f2a722e97b41c4750b09d339823dbbd46a589e8c0b17021bcb",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "jegliche K₀-Erosion",
+        "target": "eliminieren",
+        "type": "causes",
+        "quote": "jegliche K₀-Erosion zu eliminieren versucht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Multiplizitäts-Schleier",
+        "target": "bis Kap 13",
+        "type": "requires",
+        "quote": "Multiplizitäts-Schleier hält bis Kap 13",
+        "stance": "asserts"
+      },
+      {
+        "source": "Abweichung",
+        "target": "Signal",
+        "type": "triggers",
+        "quote": "jede Abweichung ist Signal",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logikparadoxien",
+        "target": "physisch",
+        "type": "causes",
+        "quote": "Logikparadoxien werden physisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Setting selbst K₁-Substrat",
+        "target": "Erasure",
+        "type": "prevents",
+        "quote": "Hier kann Erasure nicht greifen, weil das Setting selbst K₁-Substrat ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Realität",
+        "target": "innerem Zustand",
+        "type": "enables",
+        "quote": "Realität formt sich nach innerem Zustand.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Widersprüche",
+        "target": "Trivialismus",
+        "type": "prevents",
+        "quote": "Widersprüche koexistieren, ohne dass das System in Trivialismus kippt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sicherheitssysteme, die ihre eigenen Erbauer einsperren",
+        "target": "die Suche nach Sicherheit",
+        "type": "causes",
+        "quote": "Sicherheitssysteme, die ihre eigenen Erbauer einsperren",
+        "stance": "denies"
+      },
+      {
+        "source": "Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten",
+        "target": "neue Coheronen",
+        "type": "enables",
+        "quote": "Einzige Zone, in der neue Coheronen entstehen können",
+        "stance": "asserts"
+      },
+      {
+        "source": "ihre Wiederkehr",
+        "target": "Signal",
+        "type": "causes",
+        "quote": "ihre Wiederkehr ist *immer* Signal, nie Atmosphäre",
+        "stance": "asserts"
+      },
+      {
+        "source": "Risse",
+        "target": "diegetisch sichtbare Manifestation der Inversion",
+        "type": "causes",
+        "quote": "Risse sind die diegetisch sichtbare Manifestation der Inversion",
+        "stance": "asserts"
+      },
+      {
+        "source": "EP-Trigger",
+        "target": "Riss-Typ",
+        "type": "triggers",
+        "quote": "EP-Trigger → Riss-Typ",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logikparadoxien",
+        "target": "physisch",
+        "type": "causes",
+        "quote": "Logikparadoxien werden physisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sensorische Verzerrung",
+        "target": "dem Trigger",
+        "type": "enables",
+        "quote": "Sensorische Verzerrung folgt dem Trigger",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wer den Riss treibt",
+        "target": "die Phänomenologie",
+        "type": "causes",
+        "quote": "Wer den Riss treibt, bestimmt die Phänomenologie",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "jeden Riss als Suppression-Versagen",
+        "type": "causes",
+        "quote": "AEGIS interpretiert jeden Riss als Suppression-Versagen",
+        "stance": "cites"
+      },
+      {
+        "source": "Schleier-Fall",
+        "target": "natürlich, das war die ganze Zeit da",
+        "type": "triggers",
+        "quote": "Beim Schleier-Fall (~Kap 13) denkt der Leser: natürlich, das war die ganze Zeit da.",
+        "stance": "asserts"
+      },
+      {
+        "source": "K-J-Verbindung wird stärker",
+        "target": "Telefon-Stille als Anker",
+        "type": "enables",
+        "quote": "K-J-Verbindung wird stärker; Telefon-Stille als Anker.",
+        "stance": "asserts"
+      },
+      {
+        "source": "K-J-Verbindung als stabiler bewusster Kanal",
+        "target": "A-Prerequisite",
+        "type": "enables",
+        "quote": "K-J-Verbindung als stabiler bewusster Kanal (A-Prerequisite).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas wird zum aktiven Transmitter",
+        "target": "Echo-Prosa wird hörbar",
+        "type": "causes",
+        "quote": "Silas wird zum aktiven Transmitter (ab ~Kap 31/32, OQ-E).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nichts-Rauschen vor jeder Form",
+        "target": "K₁-Reinform",
+        "type": "causes",
+        "quote": "was AEGIS für Chaos hält, ist Vereinigung aller MI",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erste Cluster-Bildung",
+        "target": "Existenz, die sich gegen Auflösung wehrt",
+        "type": "causes",
+        "quote": "Erste Cluster-Bildung; innere Struktur",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Rauschen",
+        "target": "Substrat von Verbindung",
+        "type": "causes",
+        "quote": "das Rauschen, *erkannt* als Substrat von Verbindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungs-Klick",
+        "target": "kleine Schwellen, die Kael überschreitet",
+        "type": "triggers",
+        "quote": "das Trennungs-Klick. → [V] Akt I: kleine Schwellen, die Kael überschreitet",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "die ursprüngliche Resonanz",
+        "type": "triggers",
+        "quote": "die ursprüngliche Resonanz, die das Trennungsprotokoll auslöst",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "die Kraft",
+        "type": "triggers",
+        "quote": "die Kraft, die das Trennungsprotokoll auslöste",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bridges",
+        "target": "Doppellesarten",
+        "type": "triggers",
+        "quote": "Bridges erzwingen Doppellesarten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Reader-Funktion",
+        "target": "Bedingung der Möglichkeit",
+        "type": "enables",
+        "quote": "Reader-Funktion ist *Bedingung der Möglichkeit*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Licht",
+        "target": "Junas Grammatik",
+        "type": "causes",
+        "quote": "pflanzt Junas Grammatik (nie Subjekt, nur Wirkung) unbemerkt an die Schwelle des Romans",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 1",
+        "target": "Kap 39 spiegeln",
+        "type": "requires",
+        "quote": "Was Kap 1 pflanzen muss, damit Kap 39 spiegeln kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Auslöschung",
+        "type": "causes",
+        "quote": "Wer Schmerz vergisst, hat keinen Schmerz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz vergessen",
+        "target": "kein Schmerz",
+        "type": "causes",
+        "quote": "Wer Schmerz vergisst, hat keinen Schmerz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Methode",
+        "target": "mehr Trauma",
+        "type": "causes",
+        "quote": "das ist exakt AEGIS' Methode — und sie produziert mehr Trauma, nicht weniger.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosynes Versuchung",
+        "target": "der Leser hält sie für eine Lösung",
+        "type": "causes",
+        "quote": "Die Versuchung ist *erfolgreich*, wenn der Leser sie für einen Moment für eine Lösung hält.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael Mnemosynes Versuchung annähme",
+        "target": "Oblivion hätte intern dasselbe getan",
+        "type": "causes",
+        "quote": "Wenn Kael Mnemosynes Versuchung annähme, hätte Oblivion intern dasselbe getan.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wörtliche Wiederholung",
+        "target": "didaktisch",
+        "type": "causes",
+        "quote": "Wörtliche Wiederholung wäre didaktisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die ontologische Tiefe, die tragische Unschuldsstruktur, die schmerzhaft-liebevolle Tonalität",
+        "target": "Alles andere",
+        "type": "causes",
+        "quote": "Alles andere folgt aus diesen drei.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "die Welt erst möglich macht",
+        "type": "enables",
+        "quote": "Juna ist die Bewegung, die Welt erst möglich macht.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

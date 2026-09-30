@@ -1,17 +1,27 @@
 {
  "cases": 24,
- "doc_recall": 0.27,
- "line_recall": 0.094,
+ "doc_recall": 0.304,
+ "line_recall": 0.1,
  "budget": 60000,
+ "finders": [
+  "graph-evidence",
+  "bm25-lines",
+  "entity-unread",
+  "co-mention",
+  "parallel"
+ ],
+ "comention": 10,
+ "he_lines": 40,
+ "pr_comention": 0.0,
  "rows": [
   {
    "id": "C1",
    "gold_docs": 14,
-   "doc_recall": 0.286,
+   "doc_recall": 0.5,
    "gold_lines": 20,
-   "line_recall": 0.15,
-   "pack_docs": 12,
-   "chars": 66373
+   "line_recall": 0.2,
+   "pack_docs": 37,
+   "chars": 44469
   },
   {
    "id": "C10",
@@ -43,11 +53,11 @@
   {
    "id": "C13",
    "gold_docs": 9,
-   "doc_recall": 0.333,
+   "doc_recall": 0.556,
    "gold_lines": 18,
-   "line_recall": 0.056,
-   "pack_docs": 16,
-   "chars": 66521
+   "line_recall": 0.167,
+   "pack_docs": 27,
+   "chars": 55700
   },
   {
    "id": "C14",
@@ -55,8 +65,8 @@
    "doc_recall": 0.067,
    "gold_lines": 84,
    "line_recall": 0.036,
-   "pack_docs": 24,
-   "chars": 66166
+   "pack_docs": 31,
+   "chars": 48775
   },
   {
    "id": "C15",
@@ -69,12 +79,12 @@
   },
   {
    "id": "C2",
-   "gold_docs": 28,
-   "doc_recall": 0.214,
-   "gold_lines": 77,
-   "line_recall": 0.039,
-   "pack_docs": 37,
-   "chars": 47673
+   "gold_docs": 29,
+   "doc_recall": 0.207,
+   "gold_lines": 80,
+   "line_recall": 0.037,
+   "pack_docs": 38,
+   "chars": 47950
   },
   {
    "id": "C3",
@@ -82,8 +92,8 @@
    "doc_recall": 0.083,
    "gold_lines": 66,
    "line_recall": 0.0,
-   "pack_docs": 13,
-   "chars": 66976
+   "pack_docs": 37,
+   "chars": 50567
   },
   {
    "id": "C4",
@@ -109,17 +119,17 @@
    "doc_recall": 0.188,
    "gold_lines": 108,
    "line_recall": 0.019,
-   "pack_docs": 29,
-   "chars": 66570
+   "pack_docs": 28,
+   "chars": 56594
   },
   {
    "id": "C7",
    "gold_docs": 36,
-   "doc_recall": 0.278,
+   "doc_recall": 0.139,
    "gold_lines": 114,
-   "line_recall": 0.053,
-   "pack_docs": 18,
-   "chars": 66716
+   "line_recall": 0.018,
+   "pack_docs": 27,
+   "chars": 42359
   },
   {
    "id": "C8",
@@ -133,20 +143,20 @@
   {
    "id": "C9",
    "gold_docs": 25,
-   "doc_recall": 0.24,
+   "doc_recall": 0.28,
    "gold_lines": 53,
-   "line_recall": 0.038,
-   "pack_docs": 25,
-   "chars": 66277
+   "line_recall": 0.057,
+   "pack_docs": 35,
+   "chars": 56485
   },
   {
    "id": "Q1",
    "gold_docs": 32,
-   "doc_recall": 0.188,
+   "doc_recall": 0.062,
    "gold_lines": 94,
-   "line_recall": 0.064,
-   "pack_docs": 25,
-   "chars": 66469
+   "line_recall": 0.0,
+   "pack_docs": 12,
+   "chars": 66406
   },
   {
    "id": "Q2",
@@ -159,57 +169,57 @@
   },
   {
    "id": "Q3",
-   "gold_docs": 38,
-   "doc_recall": 0.079,
-   "gold_lines": 158,
-   "line_recall": 0.025,
-   "pack_docs": 11,
-   "chars": 66592
+   "gold_docs": 39,
+   "doc_recall": 0.128,
+   "gold_lines": 160,
+   "line_recall": 0.031,
+   "pack_docs": 16,
+   "chars": 66637
   },
   {
    "id": "Q4",
    "gold_docs": 26,
-   "doc_recall": 0.038,
+   "doc_recall": 0.077,
    "gold_lines": 69,
    "line_recall": 0.014,
-   "pack_docs": 11,
-   "chars": 67797
+   "pack_docs": 37,
+   "chars": 58505
   },
   {
    "id": "Q5",
    "gold_docs": 33,
-   "doc_recall": 0.212,
+   "doc_recall": 0.273,
    "gold_lines": 114,
-   "line_recall": 0.009,
-   "pack_docs": 22,
-   "chars": 68213
+   "line_recall": 0.018,
+   "pack_docs": 38,
+   "chars": 68513
   },
   {
    "id": "Q6",
    "gold_docs": 7,
-   "doc_recall": 0.714,
+   "doc_recall": 0.857,
    "gold_lines": 11,
    "line_recall": 0.545,
    "pack_docs": 22,
-   "chars": 66331
+   "chars": 57132
   },
   {
    "id": "Q7",
    "gold_docs": 10,
-   "doc_recall": 0.2,
+   "doc_recall": 0.4,
    "gold_lines": 15,
-   "line_recall": 0.133,
-   "pack_docs": 15,
-   "chars": 67681
+   "line_recall": 0.2,
+   "pack_docs": 29,
+   "chars": 55506
   },
   {
    "id": "Q8",
-   "gold_docs": 14,
-   "doc_recall": 0.5,
-   "gold_lines": 19,
-   "line_recall": 0.053,
-   "pack_docs": 22,
-   "chars": 67976
+   "gold_docs": 15,
+   "doc_recall": 0.6,
+   "gold_lines": 21,
+   "line_recall": 0.048,
+   "pack_docs": 35,
+   "chars": 66960
   },
   {
    "id": "Q9",
@@ -217,8 +227,8 @@
    "doc_recall": 0.474,
    "gold_lines": 23,
    "line_recall": 0.043,
-   "pack_docs": 42,
-   "chars": 67798
+   "pack_docs": 36,
+   "chars": 43988
   }
  ]
 }

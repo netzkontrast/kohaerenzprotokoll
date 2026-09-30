@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 26
-readings: 26
+sources: 27
+readings: 27
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ One of the thirteen [[alters|Alters]] — ANP, „Integrator / ISH" in its headi
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — the Integrator-Agent as the stress test's success case
 
 Selene appears once, in the third step of the template's check, a stress test that injects a paradox. The document names the two outcomes. The failure is „Das System stürzt ab (Trivialismus) oder halluziniert.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L122] The success is: „Der Integrator-Agent (Selene) übernimmt und puffert den Widerspruch über parakonsistente Logik-Gatter.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L123] This is a method's expected result, written as a test criterion; the document does not say Selene does this in the novel.
+
+## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the Integrator-Agent as the stress test's success case, and a mediator instead of a controlling dictator
+
+The document's third check step, the Gödelian stress test, names her as its success criterion: „Ein Erfolg zeichnet sich ab, wenn ein Integrator-Agent (wie Selene) die Kontradiktion aufnimmt und über parakonsistente Logik-Gatter (First Degree Entailment) puffert“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L50]. In its closing synthesis she is no longer a controlling figure: „Der Integrator-Agent (Selene) fungiert nicht länger als kontrollierender Diktator, sondern als Mediator (Internal Self-Helper)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L170].
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

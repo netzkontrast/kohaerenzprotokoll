@@ -1,0 +1,753 @@
+{
+ "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+ "pages": {
+  "kael": {
+   "surfaces": [
+    "Kael",
+    "Michael"
+   ],
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     154,
+     13
+    ],
+    [
+     "kohaerenzprotokoll-aegis-und-systementropie",
+     25,
+     15
+    ],
+    [
+     "ki-narrative-kollaps-kohaerenz-paradoxie",
+     8,
+     50
+    ],
+    [
+     "kohaerenz-protokoll-audit-und-verifizierung",
+     8,
+     53
+    ],
+    [
+     "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+     7,
+     7
+    ]
+   ],
+   "unread": [
+    [
+     "ai-assisted-narrative-coherence",
+     436,
+     "Kael",
+     157
+    ],
+    [
+     "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+     216,
+     "Kael",
+     27
+    ],
+    [
+     "leserzentrierte-roman-outline-generierung-kohaeren",
+     204,
+     "Kael",
+     15
+    ],
+    [
+     "romanarchitektur-kael-aegis-entropie-docx",
+     172,
+     "Kael",
+     11
+    ],
+    [
+     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+     169,
+     "Kael",
+     19
+    ]
+   ],
+   "related": [
+    [
+     "bm25:53096c04a2e9",
+     "line:protokoll-der-offenbarung:426",
+     "SUBJEKT MICHAEL: ÜBERLASTUNG DETEKTIERT."
+    ],
+    [
+     "bm25:838b14036c87",
+     "line:protokoll-der-offenbarung:589",
+     "KERN-EINHEIT MICHAEL: SIGNALVERLUST DROHT."
+    ],
+    [
+     "bm25:828577b4e1fb",
+     "line:protokoll-der-offenbarung:645",
+     "KERN-EINHEIT MICHAEL: SIGNALVERLUST IMMINENT."
+    ]
+   ],
+   "read_on_count": 48,
+   "read_not_on_count": 2,
+   "unread_count": 431
+  },
+  "aegis": {
+   "surfaces": [
+    "AEGIS",
+    "Entropic Gatekeeper",
+    "Kontrollinstanz",
+    "Wächter der systemischen Stabilität",
+    "blinder Hausmeister"
+   ],
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     257,
+     11
+    ],
+    [
+     "ki-narrative-kollaps-kohaerenz-paradoxie",
+     43,
+     21
+    ],
+    [
+     "kohaerenz-protokoll-audit-und-verifizierung",
+     27,
+     27
+    ],
+    [
+     "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+     12,
+     7
+    ],
+    [
+     "ontologische-inversion-von-aegis-kritisches-framework",
+     11,
+     13
+    ]
+   ],
+   "unread": [
+    [
+     "ai-assisted-narrative-coherence",
+     411,
+     "AEGIS",
+     97
+    ],
+    [
+     "aegis-singularitaet-jenseits-entropiegleichung-2",
+     342,
+     "AEGIS",
+     11
+    ],
+    [
+     "romanarchitektur-kael-aegis-entropie-docx",
+     232,
+     "AEGIS",
+     11
+    ],
+    [
+     "romanplot-kohaerenz-protokoll-entwicklung",
+     231,
+     "AEGIS",
+     17
+    ],
+    [
+     "kohaerenz-protokoll-plotideen-extraktion",
+     229,
+     "AEGIS",
+     15
+    ]
+   ],
+   "related": [
+    [
+     "bm25:c987d3156263",
+     "line:charakterkonzepte-fuer-kohaerenz-protokoll:273",
+     "\\* Blinder Fleck: Könnte die Notwendigkeit von emotionaler Verarbeitung für Heilung unterschätzen. Ihre rigide Kontrolle kann notwendige Kom"
+    ],
+    [
+     "bm25:dc0e6d2b31c8",
+     "line:paradoxien-der-kohaerenz-protokoll-entwicklung:345",
+     "| 3 | Der Logik-Wächter | Agenten-Theorie, Ashby's Law \\\\\\[Erweiterter Kontext: 2\\\\\\] | Guardian (Logik), Kern-Welt 1 | Guardian agiert nach"
+    ],
+    [
+     "bm25:b6ebd704dc96",
+     "line:kohaerenz-protokoll-konzept:119",
+     "| \"Der Archivar\" | Gatekeeper | Kontrolliert Zugang zu Erinnerungen/Alters, managt Switching, bewahrt Stabilität | Emotionslos, analytisch, "
+    ]
+   ],
+   "read_on_count": 50,
+   "read_not_on_count": 1,
+   "unread_count": 440
+  },
+  "juna": {
+   "surfaces": [
+    "Julia",
+    "Juna"
+   ],
+   "read_not_on": [
+    [
+     "kohaerenzprotokoll-aegis-und-systementropie",
+     14,
+     15
+    ],
+    [
+     "kohaerenz-protokoll-audit-und-verifizierung",
+     11,
+     111
+    ],
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     9,
+     126
+    ],
+    [
+     "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+     6,
+     20
+    ]
+   ],
+   "unread": [
+    [
+     "juna-resilienz-zyklus-konzeptentwicklung",
+     102,
+     "Juna",
+     15
+    ],
+    [
+     "juna-kael-system-analyse-und-rettungsplan-docx",
+     87,
+     "Juna",
+     15
+    ],
+    [
+     "junas-liebe-kaels-trauma-aegis-docx",
+     67,
+     "Juna",
+     11
+    ],
+    [
+     "plot-konzepte-kohaerenz-protokoll-generierung",
+     64,
+     "Juna",
+     23
+    ],
+    [
+     "juna-kael-system-krisenanalyse-und-rettungsplan",
+     60,
+     "Juna",
+     15
+    ]
+   ],
+   "related": [
+    [
+     "bm25:7cc842f86dc3",
+     "line:protokoll-der-offenbarung:31",
+     "ZIELPERSON: JULIA."
+    ],
+    [
+     "bm25:0051f15cf415",
+     "line:protokoll-der-offenbarung:428",
+     "KONSEQUENZ: VERBINDUNGSABBRUCH ZU EXTERNEM SUBJEKT JULIA."
+    ],
+    [
+     "bm25:20925301dc37",
+     "line:protokoll-der-offenbarung:1063",
+     "ENTSCHEIDUNGSPHASE IV: ÜBERMITTLUNG AN SUBJEKT JULIA."
+    ]
+   ],
+   "read_on_count": 45,
+   "read_not_on_count": 2,
+   "unread_count": 374
+  },
+  "entropie": {
+   "surfaces": [
+    "Entropie"
+   ],
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     32,
+     60
+    ],
+    [
+     "ki-narrative-kollaps-kohaerenz-paradoxie",
+     13,
+     59
+    ],
+    [
+     "ontologische-inversion-von-aegis-kritisches-framework",
+     5,
+     19
+    ],
+    [
+     "kohaerenz-protokoll-audit-und-verifizierung",
+     5,
+     23
+    ]
+   ],
+   "unread": [
+    [
+     "emergenz-autonomer-systeme-aegis-forschung",
+     41,
+     "Entropie",
+     33
+    ],
+    [
+     "aegis-singularitaet-jenseits-entropiegleichung-2",
+     41,
+     "Entropie",
+     25
+    ],
+    [
+     "umfassendes-lokalitaeten-konzept-fuer-roman",
+     38,
+     "Entropie",
+     34
+    ],
+    [
+     "paradoxien-der-kohaerenz-protokoll-entwicklung",
+     32,
+     "Entropie",
+     19
+    ],
+    [
+     "lokalitaeten-konzept-fuer-roman-simulation",
+     31,
+     "Entropie",
+     37
+    ]
+   ],
+   "related": [],
+   "read_on_count": 31,
+   "read_not_on_count": 1,
+   "unread_count": 243
+  },
+  "kohaerenz": {
+   "surfaces": [
+    "Kohärenz"
+   ],
+   "read_not_on": [
+    [
+     "roman-lokalitaeten-konzept-und-ausarbeitung",
+     22,
+     11
+    ],
+    [
+     "ki-narrative-kollaps-kohaerenz-paradoxie",
+     16,
+     15
+    ],
+    [
+     "ontologische-inversion-von-aegis-kritisches-framework",
+     7,
+     15
+    ],
+    [
+     "kohaerenz-protokoll-audit-und-verifizierung",
+     7,
+     37
+    ],
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     2,
+     177
+    ]
+   ],
+   "unread": [
+    [
+     "roman-outline-leserlebnis-und-tiefe",
+     127,
+     "Kohärenz",
+     11
+    ],
+    [
+     "aegis-genesis-krise-prosa-auftrag-2",
+     71,
+     "Kohärenz",
+     17
+    ],
+    [
+     "plot-konzepte-kohaerenz-protokoll-generierung",
+     62,
+     "Kohärenz",
+     11
+    ],
+    [
+     "ai-assisted-narrative-coherence",
+     60,
+     "Kohärenz",
+     94
+    ],
+    [
+     "aegis-genesis-krise-konzeptioneller-rahmen",
+     59,
+     "Kohärenz",
+     33
+    ]
+   ],
+   "related": [
+    [
+     "bm25:aa74987116b1",
+     "line:kap0-v1-annotiert-md:533",
+     "KOHÄRENZ:  0.998"
+    ],
+    [
+     "bm25:02a3be98f1b3",
+     "line:kap0-v1-annotiert-md:741",
+     "KOHÄRENZ:                0.21"
+    ],
+    [
+     "bm25:a04050be9fb2",
+     "line:kap0-v1-annotiert-md:873",
+     "KOHÄRENZ:   0.21"
+    ]
+   ],
+   "read_on_count": 18,
+   "read_not_on_count": 4,
+   "unread_count": 469
+  },
+  "risse": {
+   "surfaces": [
+    "Glitch",
+    "Glitches",
+    "Risse"
+   ],
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     11,
+     93
+    ],
+    [
+     "m-als-fundament-der-simulation",
+     9,
+     56
+    ],
+    [
+     "kohaerenz-protokoll-audit-und-verifizierung",
+     3,
+     81
+    ],
+    [
+     "technical-audit-research-mandate-the-kohaerenz-protokoll-fra",
+     1,
+     26
+    ]
+   ],
+   "unread": [
+    [
+     "orte-konzept-fuer-kohaerenz-protokoll",
+     81,
+     "Risse",
+     25
+    ],
+    [
+     "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+     66,
+     "Risse",
+     21
+    ],
+    [
+     "physik-fuer-simulierte-realitaet",
+     43,
+     "Risse",
+     23
+    ],
+    [
+     "umfassendes-lokalitaeten-konzept-fuer-roman",
+     42,
+     "Risse",
+     44
+    ],
+    [
+     "roman-blueprint-seelen-kohaerenz-protokoll",
+     30,
+     "Risse",
+     23
+    ]
+   ],
+   "related": [
+    [
+     "bm25:0035df977c17",
+     "line:roman-outline-transformation-in-keyword-tags:841",
+     "- Beat: Spiegel\\_Glitch \\[identitaet\\_hume, unreliable\\_narrator, wahrnehmung\\_unzuverlaessig, glitches\\_wahrnehmung, spiegel, aegis\\_kontro"
+    ]
+   ],
+   "read_on_count": 39,
+   "read_not_on_count": 2,
+   "unread_count": 351
+  },
+  "konstrukt-stadt": {
+   "surfaces": [
+    "Die Konstrukt-Stadt",
+    "Konstrukt-Stadt"
+   ],
+   "read_not_on": [],
+   "unread": [
+    [
+     "charakterkonzepte-fuer-kohaerenz-protokoll",
+     28,
+     "Konstrukt-Stadt",
+     26
+    ],
+    [
+     "nichts-ordnung-fragmentierung-resonanz-nebel",
+     24,
+     "Konstrukt-Stadt",
+     15
+    ],
+    [
+     "romanentwurf-kohaerenz-protokoll-teil-1",
+     18,
+     "Konstrukt-Stadt",
+     21
+    ],
+    [
+     "kael-charakterarchitektur-und-konfliktdynamik-2",
+     18,
+     "Konstrukt-Stadt",
+     32
+    ],
+    [
+     "romanentwurf-ruf-des-abenteuers",
+     17,
+     "Konstrukt-Stadt",
+     15
+    ]
+   ],
+   "related": [],
+   "read_on_count": 29,
+   "read_not_on_count": 0,
+   "unread_count": 114
+  },
+  "evaluierungseinheit": {
+   "surfaces": [
+    "Evaluierungseinheit"
+   ],
+   "read_not_on": [],
+   "unread": [
+    [
+     "roman-synthese-mit-dual-kernel-theorie",
+     1,
+     "Evaluierungseinheit",
+     145
+    ]
+   ],
+   "related": [
+    [
+     "bm25:05c84b00f5c1",
+     "line:kohaerenz-protokoll:220",
+     "BITTE ZUR EVALUIERUNGSEINHEIT EPSILON-GAMMA-12 BEGEBEN."
+    ]
+   ],
+   "read_on_count": 6,
+   "read_not_on_count": 0,
+   "unread_count": 1
+  },
+  "kaels-wohneinheit": {
+   "surfaces": [
+    "Kaels Wohneinheit",
+    "Kaels Wohneinheit 1.0"
+   ],
+   "read_not_on": [],
+   "unread": [
+    [
+     "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+     2,
+     "Kaels Wohneinheit",
+     341
+    ],
+    [
+     "roman-lokalitaeten-konzept-und-ausarbeitung-3",
+     2,
+     "Kaels Wohneinheit",
+     342
+    ],
+    [
+     "umfassendes-lokalitaeten-konzept-fuer-roman",
+     2,
+     "Kaels Wohneinheit",
+     172
+    ],
+    [
+     "lokalitaeten-konzept-fuer-roman-simulation",
+     1,
+     "Kaels Wohneinheit",
+     263
+    ],
+    [
+     "orte-konzept-fuer-kohaerenz-protokoll",
+     1,
+     "Kaels Wohneinheit",
+     205
+    ]
+   ],
+   "related": [
+    [
+     "bm25:0765ad6d0373",
+     "line:umfassendes-lokalitaeten-konzept-fuer-roman:108",
+     "- \\*\\*1. Kaels Initiale Wohneinheit \\*\\*"
+    ],
+    [
+     "bm25:78e804f2d7fe",
+     "line:roman-lokalitaeten-konzept-und-ausarbeitung-2:216",
+     "**1. Kaels Initiale Wohneinheit (KW1)**"
+    ],
+    [
+     "bm25:157ba52b3157",
+     "line:roman-lokalitaeten-konzept-und-ausarbeitung-3:217",
+     "**1. Kaels Initiale Wohneinheit (KW1)**"
+    ]
+   ],
+   "read_on_count": 16,
+   "read_not_on_count": 0,
+   "unread_count": 5
+  },
+  "grosse-mauer": {
+   "surfaces": [
+    "Die Große Mauer",
+    "Die Große Mauer (Systemgrenze)",
+    "Große Mauer",
+    "Systemgrenze"
+   ],
+   "read_not_on": [],
+   "unread": [
+    [
+     "kohaerenz-protokoll-konzeptionelle-ausarbeitung",
+     2,
+     "Systemgrenze",
+     228
+    ],
+    [
+     "genesis-ein-implementierungsleitfaden-prosa-version",
+     2,
+     "Systemgrenze",
+     221
+    ],
+    [
+     "genesis-mehrstufige-recherche-und-ausformulierung",
+     2,
+     "Systemgrenze",
+     211
+    ],
+    [
+     "emergenz-autonomer-systeme-aegis-forschung",
+     1,
+     "Systemgrenze",
+     392
+    ],
+    [
+     "genesis-finale-prosa-angepasste-ich-natur",
+     1,
+     "Systemgrenze",
+     65
+    ]
+   ],
+   "related": [
+    [
+     "bm25:e1b18b3e2235",
+     "line:roman-lokalitaeten-konzept-und-ausarbeitung:371",
+     "- **Design Inspirations:** Berliner Mauer, Chinesische Mauer, Festungsarchitektur, Gefängnismauern, Grenzanlagen, dystopische Architekturen "
+    ],
+    [
+     "bm25:0f45023d78ef",
+     "line:umfassendes-lokalitaeten-konzept-fuer-roman:408",
+     "- \\*\\*21. Zerfallende Mauer / Riss-Zone \\*\\*"
+    ],
+    [
+     "bm25:d8b106463584",
+     "line:roman-blueprint-seelen-kohaerenz-protokoll:236",
+     "- **1.03 - Schatten an der Mauer**"
+    ]
+   ],
+   "read_on_count": 2,
+   "read_not_on_count": 0,
+   "unread_count": 16
+  },
+  "system-monitor": {
+   "surfaces": [
+    "Der Große System-Monitor",
+    "Großer System-Monitor",
+    "System-Monitor"
+   ],
+   "read_not_on": [],
+   "unread": [],
+   "related": [
+    [
+     "bm25:8cf39404ae39",
+     "line:monstergruppe-primzahlen-plot-blueprint:437",
+     "| 8 | Eskalation, M-Erfahrung | Massive M-Resonanzwelle, Große Anomalie | Überwältigende M-Immersion | Konfrontiert mit großer Anomalie | Fa"
+    ],
+    [
+     "bm25:2e2ab2841efd",
+     "line:kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat:770",
+     "Kohärenz großer Sprachmodelle."
+    ],
+    [
+     "bm25:98717ef0532a",
+     "line:romanplot-kohaerenz-protokoll-entwicklung:346",
+     "**Schritt 19: Emergenz von Systemfehlern (\"Risse\" werden größer)**"
+    ]
+   ],
+   "read_on_count": 1,
+   "read_not_on_count": 0,
+   "unread_count": 0
+  },
+  "vergessener-schrein": {
+   "surfaces": [
+    "Trauma-Lokus",
+    "Vergessener Schrein",
+    "Vergessener Schrein (Trauma-Lokus)"
+   ],
+   "read_not_on": [],
+   "unread": [
+    [
+     "lokalitaeten-konzept-fuer-roman-simulation",
+     4,
+     "Trauma-Lokus",
+     274
+    ],
+    [
+     "umfassendes-lokalitaeten-konzept-fuer-roman",
+     4,
+     "Vergessener Schrein",
+     33
+    ],
+    [
+     "orte-konzept-fuer-kohaerenz-protokoll",
+     3,
+     "Trauma-Lokus",
+     207
+    ],
+    [
+     "outline",
+     1,
+     "Trauma-Lokus",
+     187
+    ],
+    [
+     "roman-lokalitaeten-konzept-und-ausarbeitung-2",
+     1,
+     "Vergessener Schrein",
+     355
+    ]
+   ],
+   "related": [
+    [
+     "bm25:baf610bf3e43",
+     "line:juna-resilienz-zyklus-konzeptentwicklung:312",
+     "Ein warmer Schauer, längst vergessener Schein."
+    ],
+    [
+     "bm25:093f1272c47b",
+     "line:kohaerenz-protokoll-outline-revision-2026-05-01-md:116",
+     "| Kiko | Ch 11 (Kindterror im Schrein) | Ch 13 |"
+    ],
+    [
+     "bm25:17a5d66bbe3e",
+     "line:roman-lokalitaeten-konzept-und-ausarbeitung-2:223",
+     "**2. Der \"Vergessene Schrein\" / Ort des Kern-Traumas (KW2)**"
+    ]
+   ],
+   "read_on_count": 3,
+   "read_not_on_count": 0,
+   "unread_count": 8
+  }
+ },
+ "related_new": 0
+}

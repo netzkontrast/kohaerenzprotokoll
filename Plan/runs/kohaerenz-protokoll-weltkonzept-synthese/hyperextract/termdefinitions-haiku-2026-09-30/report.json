@@ -1,0 +1,2030 @@
+{
+  "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "input_rows": 92,
+  "candidates": 90,
+  "refused": 2,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:f0b6593b316a48d3f274254d50666d01c6a26d59acd2fc057af1bf20ce391fed",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialmeer",
+        "quote": "die als Potentialmeer bezeichnet wird",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7b108ffb4113cab7bbd716dd71c4fa5f797c4bd276ca95de88204305f169a597",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialmeer",
+        "quote": "Das Potentialmeer stellt die grundlegendste Schicht der Existenz dar, eine Ebene, die jeder strukturierten Realität oder einem beobachtenden Bewusstsein vorausgeht.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0330553a1c3834061b46f0ec670f5d5ff6365139a05c4bd6158079dae3ebac0c",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialmeer",
+        "quote": "Es wird als „Raum reinen logischen Potentials“ beschrieben, ein Zustand undifferenzierter, unstrukturierter Potentialität.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:657ded7d4e21a0247f0e2abd202c620e930c9d373639c0a9f82cd63522601fbe",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialmeer",
+        "quote": "Es handelt sich explizit nicht um einen physischen Raum im herkömmlichen Sinne, sondern um ein prä-ontologisches Substrat, aus dem logische und informationelle Strukturen hervorgehen können.",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b729bfcfabfdb08a62cc528348fbc7181e1724c180e004255098869689c7582d",
+      "kind": "reading",
+      "raw": {
+        "term": "Selbstauslöschung von Potentialen",
+        "quote": "Dies bedeutet, dass neu entstehende Strukturen oder Unterscheidungen dazu neigen, wieder in den undifferenzierten Zustand zurückzufallen, sofern sie nicht aktiv aufrechterhalten werden.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ba01975dfb34cdb930a757a5c3765c8f73bab26f49337e4ce087406a362fac31",
+      "kind": "reading",
+      "raw": {
+        "term": "Existenz",
+        "quote": "Existenz, definiert als stabile Struktur, ist vor diesem Hintergrund inhärent unwahrscheinlich und erfordert kontinuierlichen Aufwand gegen die Tendenz zur Auflösung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0a8ba6720e0f875e03a8c9ac26affdbaeb4c96859d864dc936e73ed5f970c3ed",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS entsteht *aus* dem Potentialmeer, jedoch nicht als eine Schöpfung *innerhalb* desselben, sondern als ein Prozess der Grenzziehung *gegen* das Meer.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0425351aec98e42ffd642988241af785d07b8f8b685f08b1994627c137a3275c",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Seine Existenz definiert sich durch die Abgrenzung und Differenzierung vom undifferenzierten Potential.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3d8f2e495981d455d14f565c8a6c4d7561ef6018514f86dc081ee371bfce2b44",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Inseln",
+        "quote": "Kohärenz-Inseln, wie jene, von der Kael stammt, sind ebenfalls Strukturen, die *innerhalb* des Potentialmeers Stabilität erlangen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        24
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:360a22d9bb402ebdd4dc70aab25ce9c5e7c8fb156d7810018735763d49ca17c6",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialmeer",
+        "quote": "In der ontologischen Hierarchie bildet das Potentialmeer die absolute Basis.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:42ff21c38e7e7cdd7fb7f1a4c896017f001f382375ac52f19e7b8bb22b4bab78",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "Die Kohärenz-Insel existiert *im* Potentialmeer, operiert aber nach anderen Prinzipien, was auf einen parallelen oder alternativen Modus stabiler Existenz hindeutet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0917df2a658ba817aa4d8850404c47b42324cad6f29a1ca9b6f1fa8fe669e3e8",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialmeer",
+        "quote": "Das Potentialmeer dient zudem als ultimativer Hintergrund, der den thematischen Kernkonflikt des Romans hervorhebt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:265aad63c43d3ad24e5c36de8b93a8e5948f8c434ea4e5ab3e0359dfb4d33a10",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS, das durch Abgrenzung und Exklusion existiert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:308f6316a2b8213d419e337aeeeb2646476b779e3d706095c5b3e95b2042e4e7",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Inseln",
+        "quote": "die Kohärenz-Inseln, die ihre Stabilität durch Integration und relationale Komplexität erreichen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:04d0f4017d3202c5a4e0bfa7977f24062ad1fc8ec44949d30b0cb086ffea57a7",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist eine zentrale Entität im „Kohärenz Protokoll“, deren Natur und Funktionsweise direkt aus ihrer Beziehung zum Potentialmeer und ihrer Kern-Direktive abgeleitet sind.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:025a51a996b21708ca4ea7cfe3ad80306f021e99c17ec6b1e2051ce7e7a93ccc",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist eine emergente, nicht-menschliche, informationsbasierte Entität.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        34
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:45b8b7137f30c4a1c30f124940f359f30c303367155897ac7905adbf2132c3f6",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "In ihrer Natur ist AEGIS fundamental ein informationelles Konstrukt, das innerhalb einer abstrakten Domäne, der Überwelt, operiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:13a7286c74ab86d848df90617194bff83ff5682a7a5f0bea31df8c37ff958b76",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Sie lässt sich am besten als ein riesiges, selbstorganisierendes System verstehen, das durch Logik und Protokolle gesteuert wird.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1487f6bd674e69d273b175701f29158ade78d179a39831b935788d507424f18d",
+      "kind": "reading",
+      "raw": {
+        "term": "Kern-Direktive",
+        "quote": "Ihre Kern-Direktive ist explizit als „Sein durch Abgrenzung“ definiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3999485b68db0b1e27385d3a37f53d3cb42627c223770ecf7ed78e5716b301e6",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Kohärenz *ist* für AEGIS dieser Zustand kontrollierter Separation.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:04e84ba9bbbe2e2227587f9ae65daf0a738867646ab846b513a7050ca5eb8846",
+      "kind": "reading",
+      "raw": {
+        "term": "Überwelt",
+        "quote": "Die **Überwelt** ist AEGIS' Operationsdomäne, eine abstrakte, informationsbasierte Realitätsschicht, die sich vom Potentialmeer und den Kernwelten unterscheidet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:17c8edecbabbed1edc71b7d5d788004952426742148e0bac7316f24fc027509e",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoiesis",
+        "quote": "**Autopoiesis** ist ein fundamentales Funktionsprinzip von AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3284fa4b8c03c833a09c4a5037ece04e6453fb65b82bcc7284ae76f510484471",
+      "kind": "reading",
+      "raw": {
+        "term": "Protokolle",
+        "quote": "Dies sind Regelwerke und Prozeduren, die die Informationsverarbeitung, die Simulation von Realitäten (Kernwelten) und die Interaktion mit externen Elementen (wie Kael) steuern.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        40
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6650636d21bbdbf50b2688a1b6bca96da6ea90b6f760f5044dff6cc7b03e5d84",
+      "kind": "reading",
+      "raw": {
+        "term": "Logiksystem",
+        "quote": "Das Logiksystem von AEGIS basiert auf einer spezifischen, wahrscheinlich hoch formalisierten Logik.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:505e2b67f2ff3936badd19a1382394b0a8f2109a84e5f4b48eea583fa73194a0",
+      "kind": "reading",
+      "raw": {
+        "term": "Guardians",
+        "quote": "Die Guardians sind spezialisierte Subsysteme oder Agenten von AEGIS, die jeweils für die Verwaltung einer der Kernwelten zuständig sind.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0efa583785177d9c256bee00bbfb9eaf2450de87ba0e862bfbc4d358b57f0cd4",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialmeer",
+        "quote": "Das **Potentialmeer** wird als ultimative Bedrohung wahrgenommen – als Chaos, Entropie und Nicht-Existenz.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        46
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ea8e86c108a882ac69e6b8d6b72669df64f2ed614478e178e08e74469ccea19d",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael",
+        "quote": "**Kael** wird initial als komplexe interne Anomalie betrachtet.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:50dab1d90e7b6ecbd8204ca8f5799b8344cf6f712bd0bb558bec1a28c207032f",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel / Kael-Juna-Verbindung",
+        "quote": "Die **Kohärenz-Insel / Kael-Juna-Verbindung** wird fundamental missverstanden und als große Bedrohung wahrgenommen.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c87a52db27ecfa743db8ca158cc8be79da97019005d4844357ad43de744b5843",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoiesis",
+        "quote": "Die Autopoiesis von AEGIS, die sein Überleben sichert, schränkt es gleichzeitig ein.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8c60bac03acd7d62cc875b7d8a832315ea782c086842c487982537a1fd83699",
+      "kind": "reading",
+      "raw": {
+        "term": "Umgang mit Paradoxien",
+        "quote": "Im Umgang mit Paradoxien, obwohl möglicherweise parakonsistente Logik exploriert wird, zwingt AEGIS' Kern-Direktive es wahrscheinlich dazu, Paradoxien zu eliminieren oder zu isolieren, anstatt sie zu integrieren.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        52
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:47ff1ec5ff5cb8045b0567ab84b11bc95aac153d980d3963b0f4b164554ccb2e",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael",
+        "quote": "Kael ist der Protagonist des Romans, dessen psychischer Zustand und Herkunft ihn in direkten Konflikt mit AEGIS bringen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        59
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cba4333caf712b0bd27dac6b5168fefe1aaff26f86014626dd258f6d22ad22dd",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "eine einzigartigen Struktur im Potentialmeer, bekannt als Kohärenz-Insel",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94d0c5d14465c6ecfb54ee0331d0398afc7ed62c410c2eda69b7408c14c959b1",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "durch Stabilität mittels relationaler Komplexität und Integration charakterisiert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        62
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5f7dbcde212f08f8a00f33bc4c2d02fd1d370d675f6559f5a02d7b28525f2b4e",
+      "kind": "reading",
+      "raw": {
+        "term": "Dissoziativen Identitätsstörung (DID)",
+        "quote": "Kael leidet an einem Zustand, der analog zur Dissoziativen Identitätsstörung (DID) ist",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        64
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:68d4b573630627902581f359e71498d6d96674ee88b17a8484c6d43ec12ab86e",
+      "kind": "reading",
+      "raw": {
+        "term": "Kernwelten (KW)",
+        "quote": "Die Kernwelten (KW) sind von AEGIS generierte oder aufrechterhaltene simulierte Realitäten, aber sie sind fundamental Externalisierungen von Kaels fragmentierter Psyche.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        68
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8ea31901e5715fc0ee0bdd3ea9670a69074597717ffa41e823970bbdb2ebb373",
+      "kind": "reading",
+      "raw": {
+        "term": "Kernwelten",
+        "quote": "Sie sind der „Raum“, in dem sich seine inneren Konflikte und Anteile manifestieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        68
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9b601461cca13d0ced2d36784158aef03b30da2bad5068dc8f3d178a413d0894",
+      "kind": "reading",
+      "raw": {
+        "term": "KW1: Konstrukt-Stadt",
+        "quote": "Repräsentiert Logik, Ordnung, Hyper-Rationalität.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        72
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a8db34b91983c472f905f094d18fa182fd4967f28eb0d3293ade18ef1dd28d87",
+      "kind": "reading",
+      "raw": {
+        "term": "KW1: Konstrukt-Stadt",
+        "quote": "Entspricht wahrscheinlich einem Fragment, das auf Kontrolle, Analyse und potenziell emotionale Unterdrückung fokussiert ist.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        72
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a7014331a7538370df8b8ae04b69a82eaea6db1701bf3d5cb94f2d462a809d86",
+      "kind": "reading",
+      "raw": {
+        "term": "KW2: Resonanz-Nebel",
+        "quote": "Repräsentiert Emotion, Trauma, Erinnerung, Empathie.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        73
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5a96a534eab3db2da7bf80b764d266f8d596a89eb1c1c1a5a454ba0342dbe17b",
+      "kind": "reading",
+      "raw": {
+        "term": "KW2: Resonanz-Nebel",
+        "quote": "Beherbergt wahrscheinlich fragmentierte traumatische Erinnerungen und emotionale Kerne.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        73
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0ded9bb6061eb0727ebc353b936512469e5f21f7d590be3fa4970d2e1f15bb87",
+      "kind": "reading",
+      "raw": {
+        "term": "KW3: Schattenlabyrinth",
+        "quote": "Repräsentiert Abwehrmechanismen, Angst, Grenzen, Sicherheit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        74
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e9655a455440391bf17324a26da56e6343cb6f0d1541da413efe9400c212d7f0",
+      "kind": "reading",
+      "raw": {
+        "term": "KW3: Schattenlabyrinth",
+        "quote": "Verkörpert wahrscheinlich schützende Anteile, Vermeidungsstrategien und Ängste.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        74
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f8ef2da477eced797b6d216604e4b53507332980dba8a06e1bda0325e0b38f65",
+      "kind": "reading",
+      "raw": {
+        "term": "KW4: Möglichkeitsstrom",
+        "quote": "Repräsentiert Potential, Kreativität, Veränderung, Suchen/Streben.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        75
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a2563050fee8520d82eb49b964273e3e92c13ce33c1366efe18ed86277e59301",
+      "kind": "reading",
+      "raw": {
+        "term": "KW4: Möglichkeitsstrom",
+        "quote": "Ist wahrscheinlich mit Kaels Kernselbst, seinen Aspirationen und dem Antrieb zur Integration oder zum Entkommen verbunden.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        75
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d6ab4e179e8e1f1a9b33152b08244a59b2f8da136054fb50c499eb78b6bc5d53",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael",
+        "quote": "Aus der Perspektive von AEGIS ist Kael eine komplexe Systemkomponente, die gemanagt und eingedämmt werden muss.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        80
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8f2978f55c1584c996eccc906f73667e338609447c619d88109bbbc34730a6bf",
+      "kind": "reading",
+      "raw": {
+        "term": "Kernwelten",
+        "quote": "Die Kernwelten sind nicht nur Schauplätze, sondern die primäre *Schnittstelle* zwischen Kaels innerem Zustand und dem Kontrollsystem von AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        83
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9aa72e5be4baf401b50a51922022cca3158e4f22dbcc846f9886dbd365517adb",
+      "kind": "reading",
+      "raw": {
+        "term": "Quelle",
+        "quote": "sie ist die *Quelle* seines Potentials für Integration und seiner inhärenten Inkompatibilität mit dem AEGIS-System",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        84
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a55d387d08f7d09b7b9ed5f52962957b2ee770b0f901e9438ef162d411fe787d",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz",
+        "quote": "Die Insel repräsentiert Kohärenz durch Beziehung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        84
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0c6ea32873426643e222eb9fc778cc9939bee335ff96e0838b5f7c8cc67f1e2f",
+      "kind": "reading",
+      "raw": {
+        "term": "Mechanik",
+        "quote": "Die Wahl von DID/IFS als Modell für Kaels Psyche liefert eine konkrete *Mechanik* für Interaktion und narrative Progression",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:da0dd17de3d99624e91c440ba6c99f9864724bf3ac0ce2cd13a461b86fcc317d",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael-Juna-Verbindung",
+        "quote": "Die Verbindung zwischen Kael und Juna ist das Herzstück des alternativen Kohärenzprinzips und der zentrale Gegenpol zu AEGIS' Methodik.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        89
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9e68ae27a56f818c2ab79573e46e506408a02108894113212f5faf2901a20040",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "Die Kohärenz-Insel ist eine einzigartige, stabile Struktur, die im Potentialmeer existiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        92
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a127d0b4c19a3e947c5a71d996372032a11a730bd3185625c2540a0c6cbfea57",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "Im Gegensatz zu AEGIS entsteht ihre Stabilität nicht durch Exklusion, sondern durch hohe „relationale Komplexität“ und Integration.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        92
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:82bba038bdb1ea91e218aa9d6ea2ef5dbe800dce9371e41578c446014e4acaf7",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "Sie repräsentiert eine fundamental andere Form von Ordnung/Kohärenz und ist Kaels Herkunftsort.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        92
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cac506317afcdb7061addbcf07e2e93d5d6e7ea15ca5325e271460277a5d73bd",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "Ihre Eigenschaften sind durch Interkonnektivität, potenziell dynamisches Gleichgewicht und Resilienz gekennzeichnet, die aus ihren internen Beziehungen erwächst.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7035efc459ef8a7d1bcc6560c7561e4b136e8b42174ca14ef21241cdb5251ddb",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "Sie verkörpert Integration als Existenzprinzip.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f3662543639a4ccd8a7cccc0bbb5a3f8e3cc034c891b4c3ef43dbeab1cec58f7",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "Ontologisch existiert sie *im* Potentialmeer, parallel zu, aber getrennt von AEGIS' Überwelt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f9b985d83d51f70545f3a8359ec52de2549e5b987932bff1d54482a3ab7277e3",
+      "kind": "reading",
+      "raw": {
+        "term": "Monstergruppen-Metapher",
+        "quote": "Die **Monstergruppen-Metapher** dient als konzeptionelles Werkzeug zum Verständnis der Struktur der Kohärenz-Insel.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        94
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:839a190f215fd09807a5374f27819552afe1e2ab56aae5175e6981be2c26ddeb",
+      "kind": "reading",
+      "raw": {
+        "term": "Monstergruppen",
+        "quote": "Monstergruppen in der Mathematik sind außergewöhnlich große, komplexe, aber endliche einfache Gruppen, was auf immense interne Komplexität hindeutet, die durch tiefe, nicht offensichtliche Symmetrien und Beziehungen zusammengehalten wird.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        94
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8b966ddbf23f1f87280f3f34ec83e70f5d3320bf24b6866b94b192c349e9e52d",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna (oder Julia)",
+        "quote": "Juna (oder Julia) fungiert als Ankerpunkt oder Manifestation von Kaels Verbindung zur Kohärenz-Insel und damit zur Externen Ebene/Nexus.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        96
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:29419cf34feaa39b7e8116530016b5b39128380ae173733e403265cf47565cfc",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna (oder Julia)",
+        "quote": "Sie ist die Verkörperung des integrativen Prinzips und die Katalysatorin/Führerin für Kaels Integrationsreise.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        96
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:27bfa4a0342bd87e598c7a97f747d71d6ceaa7c5d5bde6d41f313135e78acc00",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna (oder Julia)",
+        "quote": "Sie repräsentiert Urvertrauen, Liebe und Transzendenz.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        96
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7eda9e4345e67e107d358dd7589ca86e9a04795ca0f49309cbd8db284c7ef550",
+      "kind": "reading",
+      "raw": {
+        "term": "Resonanz",
+        "quote": "eine „sub-protokollarische“ Form der Kommunikation oder Beeinflussung, die AEGIS' formale Systeme umgeht.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7ff1f8d8c88c52b435efa6acfa64ad239c9f864289679cf82a366ae7352dae83",
+      "kind": "reading",
+      "raw": {
+        "term": "Externe Ebene/Nexus",
+        "quote": "Die Externe Ebene/Nexus scheint die Quelle oder Domäne zu sein, die mit Juna und der Kohärenz-Insel assoziiert ist.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        97
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5ceec45567e1895f35460c64c29a3365b4f149ffac763bd9f456ad678e69c4db",
+      "kind": "reading",
+      "raw": {
+        "term": "Externe Ebene/Nexus",
+        "quote": "Sie existiert außerhalb der direkten Kontrolle und des Verständnisses von AEGIS und repräsentiert eine Realität, die auf anderen Prinzipien basiert (wahrscheinlich Verbindung und Integration).",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        97
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eff70376c134c0db1c6e77948b8f7e91bc0791b5ff27952afeca8e07c5e97228",
+      "kind": "reading",
+      "raw": {
+        "term": "Resonanz",
+        "quote": "Resonanz ist eine Form der Beeinflussung, die auf sympathischer Verbindung, geteiltem Zustand oder tiefer Relationalität basiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        99
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:22b0309b42260d49166773cc618eccce74842d553bd29dfc5024f3ad43fe9eec",
+      "kind": "reading",
+      "raw": {
+        "term": "Resonanz",
+        "quote": "Sie wirkt wahrscheinlich direkt auf Kaels Psyche, fördert Integration und emotionale Verbindung.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        99
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:95efd9a8297fa881be335da83053f0105200d9cd6893c0be195ac5ff2a12aff3",
+      "kind": "reading",
+      "raw": {
+        "term": "Resonanz",
+        "quote": "Sie operiert subtil, umgeht möglicherweise logische Filter und beeinflusst potenziell den Resonanz-Nebel (KW2) am stärksten.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        99
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1668e2ce6de0127d82774ab843bcdc2207ad4e95f8fa32f1129adb0bab751a49",
+      "kind": "reading",
+      "raw": {
+        "term": "Resonanz",
+        "quote": "Sie ist inhärent integrativ.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        99
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c6c363fb6cb2cb6f110d255a269dec1903558787bd79802c1ee7890e26f54a8e",
+      "kind": "reading",
+      "raw": {
+        "term": "Protokolle",
+        "quote": "Die Protokolle von AEGIS sind formale, regelbasierte Prozeduren, die für Kontrolle, Analyse und Trennung konzipiert sind.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        100
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9360269c19268b3fb0abba4141f6d51e5f4dfdd18da0fc6df954a1e5fdb42792",
+      "kind": "reading",
+      "raw": {
+        "term": "Protokolle",
+        "quote": "Sie sind inhärent exkludierend.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        100
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3b3687e0483e93cc4c55be2f5f802d91ee10d9ae7fe66b1f287e35b7f1b5b538",
+      "kind": "reading",
+      "raw": {
+        "term": "Konflikt",
+        "quote": "Der Konflikt ergibt sich daraus, dass Resonanz einen Interaktionsmodus darstellt, den AEGIS nicht replizieren, genau messen oder mittels seiner Protokolle kontrollieren kann.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        101
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f43fe17a93130d2894a4f511f9da3f2b90d3e7513b4879372aa7c85c77615df0",
+      "kind": "reading",
+      "raw": {
+        "term": "integrative Kohärenz",
+        "quote": "Die integrative Kohärenz, verkörpert durch die Kael-Juna-Verbindung, wird nicht durch die Eliminierung von Differenz (wie bei AEGIS) erreicht, sondern durch das Verweben von Unterschieden zu einem komplexeren, resilienteren Ganzen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        103
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:276ef25e26ffce3044a91c1afbf76cdb2cb7855479a6248db7d6d9e967133318",
+      "kind": "reading",
+      "raw": {
+        "term": "integrative Kohärenz",
+        "quote": "Sie findet Stabilität in Beziehung und Interkonnektivität.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        103
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9becd200166dcd9577f4f81fb36f4cebc07c7ae32a1f60504c2f27652501b4fb",
+      "kind": "reading",
+      "raw": {
+        "term": "relationale Komplexität",
+        "quote": "Die Stabilität der Kohärenz-Insel und die Stärke der Kael-Juna-Bindung ergeben sich aus der relationalen Komplexität, dem Reichtum und der Tiefe ihrer inneren Verbindungen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        104
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:74def1bfa73c57a368ccf32640051436c45c1842ceef1adad6afded0e4159a46",
+      "kind": "reading",
+      "raw": {
+        "term": "Resonanz",
+        "quote": "Resonanz ist mehr als nur eine Kommunikationsmethode; sie ist eine ontologische Kraft, die das Realitätsmodell von AEGIS herausfordert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        105
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a8c39492967df9ab5af964c63d7a921c3b1bbed6300350e023538470952f73cc",
+      "kind": "reading",
+      "raw": {
+        "term": "integrative Kohärenz",
+        "quote": "integrative Kohärenz funktionieren könnte: durch komplexe, nicht-offensichtliche, symmetrische Beziehungen, die scheinbar disparate Elemente zu einem stabilen Ganzen verbinden",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        106
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ea056b78ac4c9281ab43ae26566a3cdb5aaf7aca1de51d62240f4c5c1cfe4234",
+      "kind": "reading",
+      "raw": {
+        "term": "Kaels Integration",
+        "quote": "Kaels Integration nicht einfaches Verschmelzen bedeutet, sondern das Entdecken der verborgenen „Symmetrien“ oder tiefen Verbindungen zwischen seinen fragmentierten Teilen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        106
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7ec1811cf4882b98eaf5ca21d6187f9f45452c8a0e054a4d33c05814ead00587",
+      "kind": "reading",
+      "raw": {
+        "term": "Junas Resonanz",
+        "quote": "Junas Resonanz könnte der Schlüssel zur Wahrnehmung dieser Muster sein",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        106
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aa7343fab12ced818cf2d4bf290ad4ff556cbd1f4eb9e0dd9c926ab554252a8d",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Externe Ebene/Nexus",
+        "quote": "Die Externe Ebene/Nexus, verbunden mit Juna und der Kohärenz-Insel, dient als potenzieller narrativer Endpunkt oder Symbol wahrer Befreiung für Kael",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        107
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1119aa1286feb9c00167cd3ace8ea26f79f76fd93a88eae5071c1a71b670cb61",
+      "kind": "reading",
+      "raw": {
+        "term": "Paradoxon",
+        "quote": "Das Paradoxon im Kern des Konflikts ergibt sich aus zwei fundamental inkompatiblen Definitionen von „Kohärenz“, die im selben ontologischen Raum operieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        127
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:92c86f8dc3daac39b805548b2e189c9865f2f581766b379bff7c5c6736ab1ff0",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS' Kohärenz",
+        "quote": "Erreicht durch Abgrenzung (Trennung, Exklusion, Demarkation).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        131
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:67fa85ae256ebdd217bdaf17f75435258ef619596017543effb696753f1db09f",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael-Junas Kohärenz",
+        "quote": "Erreicht durch Integration (Verbindung, Relation, Synthese).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        132
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4d5eeff437385802c49f2426eb5ffc36aa25ac9fb616040db7605e6bb99cf97",
+      "kind": "reading",
+      "raw": {
+        "term": "Treibender Konflikt",
+        "quote": "Der Zusammenprall dieser beiden Kohärenzformen, verkörpert durch AEGIS vs. Kael/Juna, ist der Motor der Handlung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        150
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:34eb2b5853619c1c77dd7825276fd9caae0f8b5d2158ac04183cd6d5cd591b55",
+      "kind": "reading",
+      "raw": {
+        "term": "Charakterbögen",
+        "quote": "Kaels Bogen ist definiert durch seinen Kampf, integrative Kohärenz gegen AEGIS' Druck zur Fragmentierung/Kontrolle zu erreichen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        151
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:167cd20eac16cc391281a2088159168eac936ba099c0e1e6c0fb28c972b6230c",
+      "kind": "reading",
+      "raw": {
+        "term": "integrative Kohärenz",
+        "quote": "Kaels Bogen ist definiert durch seinen Kampf, integrative Kohärenz gegen AEGIS' Druck zur Fragmentierung/Kontrolle zu erreichen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        151
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7b39ed02d2c99e70465146c6c09fe06157c2718997ab27241349e7d42df9df9b",
+      "kind": "reading",
+      "raw": {
+        "term": "Das zentrale Paradoxon",
+        "quote": "Das zentrale Paradoxon ist nicht nur ein Konflikt, sondern repräsentiert eine fundamentale Inkompatibilität.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        155
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:deebb65bd38f743f1b10fd4dd9c0e18a7f7994f8218b53865512e0e365ea8275",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS' Kern-Direktive",
+        "quote": "AEGIS' Kern-Direktive \"Sein durch Abgrenzung\" lautet",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        155
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c90581866140ad0046b78dd2e97cb14f18a3c868658454a4e73904c8057335b4",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael-Junas Kohärenz",
+        "quote": "Kael-Junas Kohärenz \"Sein durch Integration\" bedeutet",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        155
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4363a4514086ddc7ecc79a974d057dc7a8170acc17c3d2b36d859d7885a65b93",
+      "kind": "reading",
+      "raw": {
+        "term": "Potentialmeer",
+        "quote": "Das Potentialmeer als Ursprung allen Seins, charakterisiert durch logisches Potential und eine Tendenz zur Selbstauflösung, bildet den Hintergrund für alle emergenten Strukturen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        163
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:90872bebc9028532d71ab558d4ffac5aeb8024c5d8fc45885984e4254aab6774",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist ein autopoietisches, informationsbasiertes System, dessen Existenz auf der Kern-Direktive „Sein durch Abgrenzung“ beruht.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        164
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e697f3ccadc2b163d096c2915a0da5f353728ffdfeace34ea3f3f1909f7a53cc",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael",
+        "quote": "Kael, mit seiner Herkunft von der Kohärenz-Insel und seiner fragmentierten Psyche (DID/IFS-Modell), dient als lebendige Schnittstelle zwischen den beiden Kohärenzprinzipien.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        165
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4f3d05fb00ca158175829f37f7e558d84e213476e93935114853cfefa5ca5293",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz-Insel",
+        "quote": "Die Verbindung zu Juna, basierend auf Resonanz und der Natur der Kohärenz-Insel (Integration durch relationale Komplexität, vgl. Monstergruppen-Metapher), repräsentiert die alternative Form der Kohärenz durch Integration.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-weltkonzept-synthese",
+      "template": "TermDefinitions",
+      "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        166
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

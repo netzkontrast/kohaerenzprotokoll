@@ -26,6 +26,15 @@ automatic field-renaming suggestions do not override that project contract.
 | StatedRelations | narrowly stated affirmative relations | excludes uncertainty and can collapse repeated endpoint/predicate passages |
 | RelationReadings | separate attributed relation passages, including uncertainty/denial/questions | list preserves passage variants; never a verified graph edge |
 
+Twenty-seven further contracts were written on 2026-09-30, in four families — terms (`TermDefinitions`,
+`TermContrasts`, `AliasPairs`, `Analogies`, `TermTaxonomy`), claims and sources (`CausalLinks`, `Rules`,
+`Quantities`, `Attributions`, `StandingClaims`, `OpenPoints`, `Locks`), plot and chapters (`ChapterCards`,
+`ChapterBeats`, `StructureBeats`, `Storypoints`, `Precedence`, `Anchors`, `ThemeMotifs`, `Pitch`) and cast and
+voice (`CastRoles`, `CardFields`, `EntityFacts`, `Knowledge`, `ProseRules`, `DiegeticTerms`, `Utterances`). Which
+to run on which document, and what each was worth on a pilot, is
+`Plan/concept/graph-contracts_2026-09-30.md`; `hegraph.py` loads their rows into the store as `P_HE_<KIND>`
+proposals and `python3 scripts/hegraph.py report` prints the yield.
+
 Begin from a real failed or missing instance. Freeze the reader's independent
 census/note first. Scope a pilot to one source and a bounded set of passages.
 Write candidate revisions and their fixtures under your assigned
@@ -80,7 +89,16 @@ python3 scripts/templates.py parse <one-source-file> \
 This calls the configured provider. The MCP server exposes read/export tools;
 it does not create a KA. For explicit approved clients, use
 `reading_extract.extract(template_path, document(slug), llm, embedder, extractor)`
-and save its returned JSON envelope in your assigned trial directory. It fixes
+and save its returned JSON envelope in your assigned trial directory.
+
+**Claude is the approved client, first party (decision 011).**
+`python3 scripts/he_claude.py run <slug> <list-template.yaml> --run <new-name> [--model haiku]`
+extracts, stages, and records every call in `calls.jsonl` and `usage.json`. Its first
+live pass (TermReadings on Haiku, 58 lines, $0.035) found a failure: the model closes
+a German „…“ with a straight quote. The adapter now names the typography and puts
+the mark back where a reply does not parse, counting each repair. The page
+`.agents/skills/reader-tools/references/failures.md` lists this failure and the
+others measured. It fixes
 one source/template snapshot and produces native `items` or `nodes`/`edges`.
 For a KA from the CLI wrapper, wrap `data.json` only with hashes captured **before**
 the run and checked afterwards, source slug and the recorded extractor/model
@@ -133,3 +151,35 @@ corpus-quality improvement has been measured by the committed synthetic tests.
 
 Return the template diff, examples it fixes/regresses, stage report, repeat
 results, usage and recommendation: retain, revise, pilot, or promote for review.
+
+## What the pilot of 2026-09-30 measured
+
+Thirty-seven runs on eight documents, $3.70, and 261 rows a reader labelled; then a second pass of three contracts, 36 runs on the twelve
+documents that hold most of the bench's gold, $11.68, and 36 more labels (`Plan/runs/hyperextract-templates-2026-09-30/`).
+Each rule below is enforced in code, because a prompt rule a Haiku reader ignored 8 times in 11 is not a rule:
+
+1. **A contract that classifies the line under a heading is right more often than one that relates two names**
+   (`ChapterBeats`, `StructureBeats`, `CardFields`, `ProseRules` 86–100 % against `AliasPairs` 40 %, `Precedence` 17 %).
+   Its subject is the heading above the line, which the model may write and code finds anyway.
+2. **A slot is a name, not a clause.** A clause the model reworded is refused by the gate (`surface absent from
+   document`) though the quotation is right; such a row enters the store on its quotation (`hegraph`'s *quote*
+   footing), the pages in it found by code. Do not ask a model to copy a proposition.
+3. **A name of under four characters is a name.** `quotes.parts_of` drops fragments that short, so the gate could
+   never find `Lex`, `Nyx`, `Lia` or `KW1`; `reading_extract.stands` does. A word a contract gives for „no name"
+   (`unlabelled`) is in `reading_extract.NO_NAME`.
+4. **A cue the contract is about is checked in code, only where it is the contract** — `hegraph.CUE_REQUIRED`
+   (`ALIAS`, `BEFORE`). The grade over every contract did not predict a right row (57 %, 54 %, 71 % ok at grades
+   0, 1, 2, over 297 rows), because a list item under a heading is right with no cue word in it.
+5. **An empty answer is a result.** `Locks`, `Quantities`, `Attributions`, `StandingClaims`, `Pitch` answered every
+   call and found nothing on documents that hold none. `hegraph report` counts them apart from failures.
+6. **Run by category, and price it from the ledger.** About $7.3 for each megabyte a contract reads, so $190 for the
+   whole corpus and $66 for the plot outlines; a contract that reads outlines has no use on a physics paper.
+   `hegraph.gate` keeps only the paragraphs that hold a cue, and on `CausalLinks` it cut the cost and the yield alike
+   (26 % of the lines for 29 % of the cost, `gate-ab.md`): it is a thinning, not a filter. The first estimate said $63, from „4.7 KB a call"; the
+   call ledgers say 1.6 KB, and it took the scaled pass's 957 calls to see it. Sum `usage.json` calls against the
+   bytes read before quoting a price (`claude_cli.totals` counts failed calls too).
+7. **Label at least ten rows per contract before any number is quoted** — a precision of 79 % on 14 rows is
+   79 % ± 20 points — and record every label in `labels.jsonl`.
+8. **A pilot's precision is optimistic, so label again on the documents that will be run.** The three contracts of
+   the scaled pass were 80 % `ok` on the pilot's 35 rows and 58 % on 36 rows drawn by hash from the twelve documents
+   of the bench (none `wrong`; the drop is `ok` becoming `part`, and the defect is the slot, not the line).

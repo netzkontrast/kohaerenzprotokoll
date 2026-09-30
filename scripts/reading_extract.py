@@ -19,11 +19,30 @@ import sys
 import tempfile
 from pathlib import Path
 
+import quotes
 import read
 from subject import Document, document
 from subject import _split
 
 ROOT = Path(__file__).resolve().parents[1]
+
+# A contract's word for "the text gives no name" (`Utterances`: a line nobody tags). It stands in no
+# document and is never looked for in one; it names no page either.
+NO_NAME = {"unlabelled"}
+
+
+def stands(doc: Document, name: str) -> bool:
+    """Whether a name is in the document. A quotation of it is (`read.locate`); a name under four
+    characters is not a quotation — `quotes.parts_of` drops fragments that short, so `Lex`, `Nyx`, `Lia`
+    and `KW1` could never be found — and stands when it is a word on its own on some line. A name of
+    four characters or more is judged as it always was, so no row a stage accepted changes."""
+    if name in NO_NAME or read.locate(doc, name):
+        return True
+    clean = quotes.normalise(name).strip()
+    if not clean or len(clean) >= 4:
+        return False
+    alone = re.compile(r"(?<![\w-])" + re.escape(clean) + r"(?![\w-])")
+    return any(alone.search(quotes.normalise(line)) for line in doc.lines())
 
 
 def digest(path: Path) -> str:
@@ -43,12 +62,16 @@ def native_extract(template: Path, text: str, source_id: str, llm, embedder) -> 
     return ka.data.model_dump()
 
 
-def extract(template: Path, doc: Document, llm, embedder, extractor: str) -> dict:
-    """Use from an approved, recorded provider adapter; never from auto-init."""
+def extract(template: Path, doc: Document, llm, embedder, extractor: str, text: str | None = None) -> dict:
+    """Use from an approved, recorded provider adapter; never from auto-init.
+
+    `text` is what the model is sent when it is less than the whole body (`hegraph.gate`: the paragraphs that hold a
+    cue of the contract). Every quotation is still placed against the whole document, so a gated run cannot cite
+    what the document does not hold."""
     source_hash, template_hash = digest(doc.path), digest(template)
     if _split(doc.path.read_text(encoding="utf-8")) != (doc.body, doc.offset):
         raise ValueError("cached document changed; resolve it again before extraction")
-    data = native_extract(template, doc.body, doc.slug, llm, embedder)
+    data = native_extract(template, doc.body if text is None else text, doc.slug, llm, embedder)
     candidates(data)  # HyperExtract can swallow a chunk schema error into empty data
     if digest(doc.path) != source_hash or digest(template) != template_hash:
         raise ValueError("source or template changed during extraction")
@@ -112,7 +135,7 @@ def verify(doc: Document, template: Path, envelope: dict) -> dict:
         quote = raw["quote"]
         lines = read.locate(doc, quote)
         surfaces = [raw["term"]] if item["kind"] == "reading" else [raw["source"], raw["target"]]
-        absent = [s for s in surfaces if not read.locate(doc, s)]
+        absent = [s for s in surfaces if not stands(doc, s)]
         signature = json.dumps([doc.slug, source_hash, template_hash, extractor,
                                 item["kind"], raw, lines], sort_keys=True, ensure_ascii=False)
         identifier = "claim:" + hashlib.sha256(signature.encode()).hexdigest()
@@ -121,7 +144,7 @@ def verify(doc: Document, template: Path, envelope: dict) -> dict:
                   else "ambiguous quote: choose its passage" if len(lines) > 1 else None)
         status = "refused" if reason else "duplicate" if identifier in seen else "candidate"
         seen.add(identifier)
-        output.append({"id": identifier, **item, "document": doc.slug,
+        output.append({"id": identifier, **item, "document": doc.slug, "template": template.stem,
                        "source_sha256": source_hash, "template_sha256": template_hash,
                        "extractor": extractor, "quote_status": "placed" if lines else "unplaced",
                        "lines": lines, "review_status": "unreviewed", "status": status,
@@ -175,9 +198,9 @@ def selftest() -> int:
     with tempfile.TemporaryDirectory() as tmp:
         p = Path(tmp)
         source = p / "source.md"
-        source.write_text("---\ntitle: Fixture\n---\nAlpha steuert Beta.\nVielleicht schützt Alpha Beta.\n", encoding="utf-8")
+        source.write_text("---\ntitle: Fixture\n---\nAlpha steuert Beta.\nVielleicht schützt Alpha Beta.\nLex hält Alpha.\n", encoding="utf-8")
         doc = Document("fixture", "fixture", "2026-09-30", "md", "", source,
-                       "Alpha steuert Beta.\nVielleicht schützt Alpha Beta.\n", 4)
+                       "Alpha steuert Beta.\nVielleicht schützt Alpha Beta.\nLex hält Alpha.\n", 4)
         template = p / "template.yaml"
         template.write_text("synthetic template", encoding="utf-8")
         row = {"term": "Alpha", "quote": "Alpha steuert Beta.", "stance": "asserts"}
@@ -189,9 +212,15 @@ def selftest() -> int:
         checks.append(("real file lines placed", report["rows"][0]["lines"] == [4]))
         checks.append(("placement never promotes meaning", report["rows"][0]["review_status"] == "unreviewed"))
         checks.append(("repeat IDs stable", report == verify(doc, template, good)))
+        checks.append(("a row names the template it came from", report["rows"][0]["template"] == "template"))
         checks.append(("duplicate visible", verify(doc, template, env({"items": [row, row]}))["duplicates"] == 1))
         checks.append(("invented quote refused", verify(doc, template, env({"items": [{**row, "quote": "Alpha lenkt Beta."}]}))["refused"] == 1))
         checks.append(("invented surface refused", verify(doc, template, env({"items": [{**row, "term": "Gamma"}]}))["refused"] == 1))
+        lex = {"term": "Lex", "quote": "Lex hält Alpha.", "stance": "asserts"}
+        checks.append(("a name of three characters stands as a word", verify(doc, template, env({"items": [lex]}))["candidates"] == 1))
+        checks.append(("an absent name of three characters is refused", verify(doc, template, env({"items": [{**lex, "term": "Zed"}]}))["refused"] == 1))
+        checks.append(("the word for no name needs no line", verify(doc, template, env({"items": [
+            {"source": "unlabelled", "target": "Alpha", "type": "speech", "quote": "Lex hält Alpha.", "stance": "asserts"}]}))["candidates"] == 1))
         checks.append(("hedge retained", verify(doc, template, env({"items": [{**row, "quote": "Vielleicht schützt Alpha Beta.", "stance": "hedges"}]}))["candidates"] == 1))
         checks.append(("joined quote refused", verify(doc, template, env({"items": [{**row, "quote": "Alpha […] Beta."}]}))["refused"] == 1))
         edge = {"source": "Alpha", "target": "Beta", "type": "controls", "quote": row["quote"]}
@@ -233,7 +262,7 @@ def selftest() -> int:
             ROOT = original_root
         source.write_text(source.read_text() + "Alpha steuert Beta.\n", encoding="utf-8")
         doc = Document("fixture", "fixture", "2026-09-30", "md", "", source,
-                       "Alpha steuert Beta.\nVielleicht schützt Alpha Beta.\nAlpha steuert Beta.\n", 4)
+                       "Alpha steuert Beta.\nVielleicht schützt Alpha Beta.\nLex hält Alpha.\nAlpha steuert Beta.\n", 4)
         checks.append(("ambiguous passage refused", verify(doc, template, env({"items": [row]}))["refused"] == 1))
     for name, held in checks:
         print(("held " if held else "FAIL ") + name)
@@ -250,7 +279,8 @@ def native_selftest() -> int:
         return 2
     folder = ROOT / "Plan/hyperextract/fixtures"
     failed = 0
-    for name in ("TermReadings", "StatedRelations", "RelationReadings"):
+    names = sorted(f.stem for f in folder.glob("*.json"))     # every template with a fixture
+    for name in names:
         response = folder / (name + ".json")
         done = subprocess.run([str(py), str(Path(__file__).resolve()), "smoke",
                                str(ROOT / "Plan/hyperextract" / (name + ".yaml")),
@@ -275,7 +305,7 @@ def native_selftest() -> int:
         held = done.returncode != 0
         failed += not held
         print(f"{'held' if held else 'FAILED'} malformed structured response refused")
-    print(f"reading_extract native: {4 - failed}/4 checks held; synthetic, no model quality measured")
+    print(f"reading_extract native: {len(names) + 1 - failed}/{len(names) + 1} checks held; synthetic, no model quality measured")
     return int(failed > 0)
 
 

@@ -50,3 +50,9 @@ graphify-out/
 
 # code-graph-rag caches written into the working directory
 .cgr-*
+
+# census.py draft: code's working copy, reproducible, saved by the reader as Sources/terms/<slug>.md
+Plan/runs/*/census-draft.md
+
+# claims.py draft: code's working copy, reproducible; the reader saves the filled table as claims.md
+Plan/runs/*/claims-draft.md

@@ -1,0 +1,42 @@
+{
+  "document": "angst-bei-komplexen-traumafolgen",
+  "drive_id": "15n2apvMTmWxmtmXR6GExS80DlB07I4ETQAyzCXqTXIk",
+  "step": "reconcile",
+  "at": "2026-09-30",
+  "by": "hand, after scripts/reconcile.py pre-classification and scripts/record.py draft; a document of the step-6 reader lab, extracted on 2026-09-30 by a Haiku document-reader (Plan/runs/reader-lab-2026-09-30/); no readings written, because no page speaks to it",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 264,
+    "decisions": 250,
+    "decided_by_lookup": 154,
+    "needs_judgement": 96
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A clinical review of anxiety in complex PTSD in seven sections: its terms (kPTBS and the Disorders of Self-Organization, the polyvagal states, the Window of Tolerance, the five forms of anxiety, the treatments from EMDR to CFT) are borrowed clinical psychology and none is named in the novel's world. The 154 candidates the lookup found no page for stay candidates: no page is created from a review. It says nothing of Kael, the Anteile or the Kernwelten, so no page takes a reading.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J12 (a compound is its own token: Angst / Bindungsangst, Furcht / Furchtextinktion), J14 (a slash in a label is an apposition: Mobilisation/Kampf-oder-Flucht, Immobilisation/Freeze/Shutdown), J21 (a scope adjective does not split a term: emotionalen Dysregulation), J24 (a plural is not a boundary: Bindungsängsten), J42 (a set is not its largest subset: PTBS / Komplexe PTBS), J48 (the whole a member belongs to is not the member: GAD / Panikstörung / Soziale Phobie (SAD) and Panikstörung), J53 (a shared head noun is not a shared referent: Angst / schambasierte soziale Angst), J60 (an acronym and its expansion are one term: EMDR (Eye Movement Desensitization and Reprocessing)), J69 (a match that exists only after folding is no evidence: Antriebssystem (Drive/Dopamin) and EMDR; Depersonalisation and `personas`), J72 (a parenthetical index is part of the label: Bedrohungssystem (Threat/Amygdala)), J97 (a case ending is not a boundary: toxischer Scham).",
+  "sweep": [],
+  "not_promoted": [
+    "Polyvagal-Theorie, Window of Tolerance, Disorders of Self-Organization, Betrayal Trauma Theory, Terror-Management-Theorie: the report's frameworks, borrowed; no page speaks to them and no reading was written. Each would open a page with a reading the day a document of the novel applies it."
+  ],
+  "internal_tension": "None. It treats ICD-11 and the S3 guideline as its authority and does not set two readings of one term against each other.",
+  "baseline_moved": "No page changed, so the graphrag bench is where the four reader-lab records (56–59) leave it (measured together, in each of them)."
+}

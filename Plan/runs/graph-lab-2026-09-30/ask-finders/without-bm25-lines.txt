@@ -1,0 +1,26 @@
+C1   docs   2/ 14  lines    3/  20  pack  10 docs  66343 chars
+C10  docs   0/ 21  lines    0/  43  pack   0 docs   1927 chars
+C11  docs  16/ 41  lines   23/ 182  pack  17 docs  53797 chars
+C12  docs   8/ 30  lines   12/ 119  pack  10 docs  26366 chars
+C13  docs   3/  9  lines    0/  18  pack  10 docs  54666 chars
+C14  docs   1/ 30  lines    2/  84  pack  10 docs  66174 chars
+C15  docs   0/  9  lines    0/  21  pack   0 docs   1903 chars
+C2   docs   6/ 29  lines    3/  80  pack   9 docs  17642 chars
+C3   docs   2/ 24  lines    0/  66  pack  10 docs  66953 chars
+C4   docs   0/ 31  lines    0/  92  pack   0 docs   3091 chars
+C5   docs   0/ 20  lines    0/  41  pack   0 docs   3132 chars
+C6   docs   4/ 32  lines    2/ 108  pack  11 docs  66456 chars
+C7   docs   1/ 36  lines    0/ 114  pack   8 docs  65120 chars
+C8   docs   0/ 18  lines    0/  59  pack   0 docs   1893 chars
+C9   docs   6/ 25  lines    2/  53  pack  10 docs  54532 chars
+Q1   docs   7/ 32  lines    7/  94  pack  21 docs  66216 chars
+Q2   docs   0/ 13  lines    0/  43  pack   0 docs   2095 chars
+Q3   docs   4/ 39  lines    5/ 160  pack   9 docs  65848 chars
+Q4   docs   1/ 26  lines    1/  69  pack  10 docs  67862 chars
+Q5   docs   4/ 33  lines    1/ 114  pack  11 docs  68575 chars
+Q6   docs   6/  7  lines    6/  11  pack  26 docs  66184 chars
+Q7   docs   2/ 10  lines    1/  15  pack  13 docs  67444 chars
+Q8   docs   9/ 15  lines    1/  21  pack  28 docs  66878 chars
+Q9   docs   7/ 19  lines    0/  23  pack  28 docs  61617 chars
+
+24 cases: document recall 0.181, line recall 0.053

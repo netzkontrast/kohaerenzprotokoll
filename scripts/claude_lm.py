@@ -58,9 +58,10 @@ from types import SimpleNamespace
 
 import dspy
 
-# Removed from the child's environment: the first names more CLAUDE.md
-# directories to load, the second ties the child to this session's id.
-_SCRUB = ("CLAUDE_CODE_ADDITIONAL_DIRECTORIES_CLAUDE_MD", "CLAUDE_CODE_SESSION_ID")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import claude_cli  # noqa: E402  the one encoding of the isolated call (P6)
+
+_SCRUB = claude_cli.SCRUB
 _FINISH = {"end_turn": "stop", "stop_sequence": "stop", "max_tokens": "length"}
 
 
@@ -129,45 +130,23 @@ class ClaudeCLI(dspy.BaseLM):
         return state
 
     def _command(self, system: str) -> list[str]:
-        binary = self.binary or shutil.which("claude")
-        if not binary:
-            raise dspy.LMNotConfiguredError("no `claude` executable on PATH", model=self.model)
-        command = [binary, "-p", "--output-format", "json", "--model", self.cli_model,
-                   "--tools", "", "--no-session-persistence", "--setting-sources", "",
-                   "--strict-mcp-config", "--disable-slash-commands"]
-        if self.effort:
-            command += ["--effort", self.effort]
-        if system:
-            command += ["--system-prompt", system]
-        return command
+        try:
+            return claude_cli.command(self.cli_model, system, self.effort, self.binary)
+        except claude_cli.CallError as exc:
+            raise dspy.LMNotConfiguredError(str(exc), model=self.model) from exc
 
     def _one(self, system: str, text: str) -> dict:
-        if self._workdir is None or not Path(self._workdir).is_dir():
-            self._workdir = tempfile.mkdtemp(prefix="claude-lm-")
-        env = {k: v for k, v in os.environ.items() if k not in _SCRUB}
-        if self.thinking is not None:
-            env["MAX_THINKING_TOKENS"] = str(self.thinking)
-        started = time.time()
+        """One call through `claude_cli.call`, its failure kinds mapped to DSPy 3.3's own types."""
         try:
-            done = subprocess.run(self._command(system), input=text, capture_output=True, text=True,
-                                  timeout=self.timeout, cwd=self._workdir, env=env)
-        except subprocess.TimeoutExpired as exc:
-            raise dspy.LMTimeoutError(f"claude -p gave no answer in {self.timeout:.0f}s",
-                                      model=self.model, provider="claude-cli") from exc
-        except OSError as exc:
-            raise dspy.LMNotConfiguredError(f"claude -p could not start: {exc}", model=self.model) from exc
-        try:
-            reply = json.loads(done.stdout)
-        except json.JSONDecodeError as exc:
-            raise dspy.LMTransportError(
-                f"claude -p exit {done.returncode}, unreadable output: {(done.stdout or done.stderr)[:300]!r}",
-                model=self.model, provider="claude-cli") from exc
-        if done.returncode != 0 or reply.get("is_error"):
-            detail = str(reply.get("result") or reply.get("subtype") or done.stderr)[:300]
-            kind = (dspy.LMRateLimitError if any(w in detail.lower() for w in ("rate limit", "overloaded", "429"))
-                    else dspy.LMServerError)
-            raise kind(f"claude -p exit {done.returncode}: {detail}", model=self.model, provider="claude-cli")
-        reply["_seconds"] = round(time.time() - started, 2)
+            reply = claude_cli.call(self.cli_model, system, text, thinking=self.thinking, effort=self.effort,
+                                    timeout=self.timeout, binary=self.binary, workdir=self._workdir)
+        except claude_cli.CallError as exc:
+            kind = {"missing": dspy.LMNotConfiguredError, "timeout": dspy.LMTimeoutError,
+                    "unreadable": dspy.LMTransportError, "rate": dspy.LMRateLimitError}.get(exc.kind, dspy.LMServerError)
+            if kind is dspy.LMNotConfiguredError:
+                raise kind(str(exc), model=self.model) from exc
+            raise kind(str(exc), model=self.model, provider="claude-cli") from exc
+        self._workdir = reply.pop("_workdir", self._workdir)
         return reply
 
     def forward(self, prompt=None, messages=None, **kwargs):

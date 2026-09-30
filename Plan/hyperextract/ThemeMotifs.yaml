@@ -1,0 +1,54 @@
+# ThemeMotifs — a premise, a theme or a motif's meaning a source states, with the sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the developmental-editor's spine (one dramatic question the whole book answers) and workshop-critique's reading of what a piece is about; GOAL.md's tonal
+#   axis and 5.3's architecture constants (a formula inverted, a lexeme carrying both readings). The wiki's term pages hold every passage about a term; none marks a
+#   premise or a motif's meaning as such.
+# measured against: the author's decision on the book's premise, once taken; until then, a statement whose subject and content stand inside its quote is the precise subset. A quote is placed by read.py --find (P26).
+# may not: decide the book's theme, or that a source's premise is the book's — a statement here is a P_HE_THEME proposal for a reader
+# retire when: on three documents a person keeps no statement beyond what the term pages already quote
+language: en
+name: ThemeMotifs
+type: list
+tags: [theme, premise, motif, meaning, german]
+description: "A premise, a theme or a motif's meaning a source states, with the sentence, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The subject the statement is about, as the source writes it: the work, a figure, an image, an object, a phrase."
+      required: true
+    - name: target
+      type: str
+      description: "The premise, theme or meaning as a short phrase exactly as the source writes it."
+      required: true
+    - name: type
+      type: str
+      description: "premise: the central claim the story is built to test. theme: what the story is about, stated. motif_meaning: what a recurring image or object stands for. controlling_idea: the one sentence the story turns on. central_question: the dramatic question. tonal_axis: the emotional register that every scene is tested against."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German document about a novel and collect, verbatim, the sentences that state its premise, its themes and what its motifs mean, so that a person can see what the sources say the book is about."
+  rules:
+    - "Record a statement only when ONE sentence states it: die zentrale These, Prämisse, Thema, steht für, symbolisiert, Motiv, Leitmotiv, die Frage, der Kern, Grundton."
+    - "The subject and the statement both stand inside the quote."
+    - "A statement about the real-world theory the novel uses is not a theme of the novel; use stance cites and record it only if the sentence ties it to the novel."
+    - "A statement the source hedges is recorded with stance hedges."
+    - "Never infer a theme from repetition, from a title, or from background knowledge."
+    - "When the words do not state it, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

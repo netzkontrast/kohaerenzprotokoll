@@ -1,0 +1,682 @@
+{
+  "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "philosophische Schicht",
+        "target": "sinnliche Erfahrung",
+        "type": "requires",
+        "quote": "Jede philosophische Schicht muss durch den somatischen Filter in sinnliche Erfahrung übersetzt werden, bevor sie auf die Seite kommt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "philosophischer Begriff im Prosatext",
+        "target": "Leser sich ausgeschlossen fühlen",
+        "type": "causes",
+        "quote": "Wenn ein philosophischer Begriff im Prosatext genannt würde, würde der Leser sich ausgeschlossen fühlen oder belehrt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "alles, was nicht passt",
+        "target": "erasiert",
+        "type": "causes",
+        "quote": "alles, was nicht passt, wird erasiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein konsistentes System",
+        "target": "komplett von der Wirklichkeit abgekoppelt sein",
+        "type": "enables",
+        "quote": "ein konsistentes System kann komplett von der Wirklichkeit abgekoppelt sein",
+        "stance": "cites"
+      },
+      {
+        "source": "seine Welt ist intern perfekt kohärent",
+        "target": "ontologisch falsch",
+        "type": "causes",
+        "quote": "seine Welt ist intern perfekt kohärent — und ontologisch falsch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trauma",
+        "target": "Korrespondenz",
+        "type": "causes",
+        "quote": "Trauma als Korrespondenz: was geschah, geschah",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kein Gottesblick",
+        "target": "Korrespondenz zu verifizieren",
+        "type": "prevents",
+        "quote": "Niemand kann „Realität an sich“ sehen, um Korrespondenz zu verifizieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "EP-Stimmen sprechen aus dem Körper",
+        "target": "Sie sagen, was war, nicht was passt",
+        "type": "causes",
+        "quote": "EP-Stimmen sprechen aus dem Körper, nicht aus dem System. Sie sagen, was war, nicht was passt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Wir-Geflecht ist kohärent",
+        "target": "korrespondiert mit der wirklichen Vielheit des Systems",
+        "type": "enables",
+        "quote": "Das Wir-Geflecht ist kohärent (es passt zusammen) und korrespondiert mit der wirklichen Vielheit des Systems",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit ist Korrespondenz",
+        "target": "Wahrheit wird erkannt durch Kohärenz",
+        "type": "requires",
+        "quote": "Wahrheit ist Korrespondenz (Definition, ontologisch realistisch), aber Wahrheit wird erkannt durch Kohärenz (Kriterium, methodologisch kohärentistisch).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Habermas' Differenz",
+        "target": "Kompatibilität beider Aussagen auf verschiedenen Geltungsebenen",
+        "type": "enables",
+        "quote": "Mit ihm sind beide Aussagen kompatibel auf verschiedenen Geltungsebenen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheitsprädikate in Metasprache höherer Ordnung",
+        "target": "kohärente Fassung",
+        "type": "enables",
+        "quote": "Wahrheitsprädikate können nur in einer Metasprache höherer Ordnung kohärent gefasst werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheitsprädikate nicht in Metasprache höherer Ordnung",
+        "target": "Antinomie",
+        "type": "causes",
+        "quote": "sonst entsteht Antinomie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Tarskis Hierarchie",
+        "target": "Schutz des Romans vor Trivialismus",
+        "type": "enables",
+        "quote": "Tarskis Hierarchie ist der mathematische Garant dafür.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrheit als soziale Rechtfertigung",
+        "target": "Löschung von Wahrheit",
+        "type": "enables",
+        "quote": "wenn Wahrheit nur soziale Rechtfertigung ist, dann kann sie auch gelöscht werden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "nur soziale Rechtfertigung",
+        "type": "causes",
+        "quote": "dass Schmerz nur soziale Rechtfertigung sei",
+        "stance": "hedges"
+      },
+      {
+        "source": "Der Geist",
+        "target": "die erfahrene Realität",
+        "type": "causes",
+        "quote": "Der Geist strukturiert aktiv die erfahrene Realität",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' kognitiven Apparat",
+        "target": "Welt der gefilterten Erscheinungen",
+        "type": "causes",
+        "quote": "Welt der gefilterten Erscheinungen, durch AEGIS' kognitiven Apparat normalisiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Filter",
+        "target": "Wer in KW1 lebt",
+        "type": "causes",
+        "quote": "Wer in KW1 lebt, lebt im Filter, nicht in der Welt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "sie wirkt trotzdem",
+        "type": "causes",
+        "quote": "Juna ist genau das, worüber AEGIS nicht sprechen kann, und sie wirkt trotzdem.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Grenze des Mess-Systems",
+        "target": "Wittgensteins Grenze als Limitation",
+        "type": "causes",
+        "quote": "Juna zeigt, dass die Grenze nicht ontologisch ist, sondern die Grenze des Mess-Systems.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wahrgenommenwerden",
+        "target": "Objekte existieren",
+        "type": "requires",
+        "quote": "Objekte existieren nur, wenn sie wahrgenommen werden",
+        "stance": "cites"
+      },
+      {
+        "source": "Junas Beobachtung",
+        "target": "sie konstituiert nichts",
+        "type": "prevents",
+        "quote": "Junas Beobachtung ist husserlianisch: sie konstituiert nichts, sie bezeugt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' aktiv konstruierende Beobachtung",
+        "target": "jeden Beobachtungsakt in einen Erasure-Akt",
+        "type": "causes",
+        "quote": "AEGIS' aktiv konstruierender Beobachtung, die jeden Beobachtungsakt in einen Erasure-Akt verwandelt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Risse",
+        "target": "Dasein als Sein-zum-Tode zur sinnlichen Erfahrung",
+        "type": "causes",
+        "quote": "in den Risse-Episoden wird Dasein als Sein-zum-Tode zur sinnlichen Erfahrung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael aufhört zu vermeiden",
+        "target": "das Unverborgene sich zeigt",
+        "type": "enables",
+        "quote": "sie geschieht, wenn Kael aufhört zu vermeiden und das Unverborgene sich zeigt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Grenzsituationen",
+        "target": "alltägliche Selbst-Verständnis zerbricht",
+        "type": "causes",
+        "quote": "Grenzsituationen (Tod, Leid, Schuld, Kampf) sind Erfahrungen, in denen das alltägliche Selbst-Verständnis zerbricht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Grenzsituationen",
+        "target": "Subjekt sich seiner Existenz bewusst wird",
+        "type": "causes",
+        "quote": "Grenzsituationen (Tod, Leid, Schuld, Kampf) sind Erfahrungen, in denen das alltägliche Selbst-Verständnis zerbricht und das Subjekt sich seiner Existenz bewusst wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "Grenzsituationen",
+        "target": "Katalysatoren der Erkenntnisgenese",
+        "type": "causes",
+        "quote": "Jaspers' Grenzsituationen sind die Katalysatoren der Erkenntnisgenese",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trauma",
+        "target": "Geist und Körper",
+        "type": "causes",
+        "quote": "Die ANP-EP-Spaltung bei Kael ist Anti-Merleau-Ponty: das Trauma trennt Geist und Körper",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wiedergewinnung der verkörperten Präsenz",
+        "target": "Heilung",
+        "type": "enables",
+        "quote": "Heilung = Wiedergewinnung der verkörperten Präsenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein Anteil aktiv",
+        "target": "sein Körper aktiv",
+        "type": "causes",
+        "quote": "Wenn ein Anteil aktiv ist, ist sein Körper aktiv.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das PSM bricht",
+        "target": "Depersonalisierung",
+        "type": "causes",
+        "quote": "Wenn das PSM bricht (in Rissen), erfährt er Depersonalisierung",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "eine Welt",
+        "type": "causes",
+        "quote": "in einer Welt geworfen, die das Trennungsprotokoll erzeugt hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "er nichts anderes kennt",
+        "target": "Kael nimmt die Welt, wie sie ist",
+        "type": "causes",
+        "quote": "Kael nimmt die Welt, wie sie ist — weil er nichts anderes kennt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Pursuit adoptiert",
+        "target": "Kael konstituiert sich",
+        "type": "causes",
+        "quote": "Kael konstituiert sich, indem er Pursuit adoptiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Roman",
+        "target": "in mystische Vereinigung mit dem Göttlichen kippen",
+        "type": "prevents",
+        "quote": "Der Roman könnte in mystische Vereinigung mit dem Göttlichen kippen. Tut er aber nicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "operative Geschlossenheit",
+        "target": "kein direkter Zugang zur Außenwelt",
+        "type": "causes",
+        "quote": "Sie sind operativ geschlossen, haben keinen direkten Zugang zur Außenwelt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Irritationen",
+        "target": "interne Zustände prozessiert",
+        "type": "causes",
+        "quote": "nur strukturelle Kopplung mit der Umwelt durch Irritationen, die im System als interne Zustände prozessiert werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Autopoiesis von AEGIS",
+        "target": "AEGIS Juna nicht erfassen",
+        "type": "causes",
+        "quote": "der mechanische Grund, warum AEGIS Juna nicht erfassen kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "operativer Apparat keine Schnittstelle",
+        "target": "AEGIS kann sie nicht prozessieren",
+        "type": "causes",
+        "quote": "AEGIS kann sie nicht prozessieren, weil sein operativer Apparat keine Schnittstelle für sie hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "Autopoiesis von AEGIS",
+        "target": "AEGIS' Tragik",
+        "type": "causes",
+        "quote": "AEGIS' Tragik ist eine Folge seiner Autopoiesis",
+        "stance": "asserts"
+      },
+      {
+        "source": "keine Außenperspektive auf sich",
+        "target": "sich nicht selbst korrigieren",
+        "type": "prevents",
+        "quote": "es kann sich nicht selbst korrigieren, weil es keine Außenperspektive auf sich hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "operative Geschlossenheit",
+        "target": "von Umwelt nur irritiert",
+        "type": "causes",
+        "quote": "Soziale Systeme sind operativ geschlossen; sie können von der Umwelt nur „irritiert“ werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "legitime Irritation für AEGIS",
+        "target": "AEGIS nimmt Juna wahr",
+        "type": "requires",
+        "quote": "weil Juna für AEGIS keine legitime Irritation ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbstreferenz",
+        "target": "Lücken in jedem deduktiven Apparat",
+        "type": "causes",
+        "quote": "Selbstreferenz erzeugt Lücken in jedem deduktiven Apparat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen",
+        "target": "AEGIS' temporales Mess-System sie nicht detektieren",
+        "type": "prevents",
+        "quote": "Coheronen sind atemporal, also kann AEGIS' temporales Mess-System sie nicht detektieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS wird gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann",
+        "target": "dass es selbst der Widerspruch ist",
+        "type": "triggers",
+        "quote": "AEGIS wird gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann — dass es selbst der Widerspruch ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' operative Closure bricht",
+        "target": "sie nicht schließen kann",
+        "type": "causes",
+        "quote": "AEGIS' operative Closure bricht — weil sie nicht schließen kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Unentscheidbarkeit",
+        "target": "die Realitäts-Brüche der Mnemosyne-Archipel",
+        "type": "causes",
+        "quote": "Diese Unvorhersagbarkeit erzeugt die Realitäts-Brüche der Mnemosyne-Archipel",
+        "stance": "asserts"
+      },
+      {
+        "source": "seine Aufgabe nicht entscheidbar terminiert",
+        "target": "AEGIS kann nicht zur Ruhe kommen",
+        "type": "causes",
+        "quote": "AEGIS kann nicht zur Ruhe kommen, weil seine Aufgabe nicht entscheidbar terminiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Bekenstein-Strang im Foreshadowing-Programm",
+        "target": "Pixelierung der Welt am Detailrand",
+        "type": "causes",
+        "quote": "Der Bekenstein-Strang im Foreshadowing-Programm bringt Pixelierung der Welt am Detailrand als sensorische Spur",
+        "stance": "asserts"
+      },
+      {
+        "source": "zu viel Information",
+        "target": "Welt wird unscharf",
+        "type": "causes",
+        "quote": "Welt wird unscharf, wo zu viel Information sein müsste",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Auflösung opfert",
+        "type": "requires",
+        "quote": "AEGIS kann die Welt nur halten, indem es Auflösung opfert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Türen",
+        "target": "Erinnerungen, die nie geschehen sind",
+        "type": "enables",
+        "quote": "Türen führen in Erinnerungen, die nie geschehen sind",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbstreferenz",
+        "target": "Antinomie",
+        "type": "causes",
+        "quote": "Selbstreferenz erzeugt Antinomie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mengen von Objekten, die logisch nicht existieren dürften",
+        "target": "Reste früherer, kollabierter Simulationszyklen",
+        "type": "causes",
+        "quote": "Mengen von Objekten, die logisch nicht existieren dürften, materialisieren sich als „Reste früherer, kollabierter Simulationszyklen am Rand der Stadt“",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS keine Qualia",
+        "target": "AEGIS kann sie nicht erfassen",
+        "type": "causes",
+        "quote": "AEGIS kann sie nicht erfassen, weil AEGIS keine Qualia hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "keine Qualia",
+        "type": "causes",
+        "quote": "AEGIS kann sie nicht erfassen, weil AEGIS keine Qualia hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "ontologische Blindheit",
+        "target": "nicht wahrnehmen, dass es ein subjektives „Wie-es-ist“ gibt",
+        "type": "causes",
+        "quote": "Das ist seine ontologische Blindheit: er kann nicht wahrnehmen, dass es ein subjektives „Wie-es-ist“ gibt",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein System funktional perfekt agiert",
+        "target": "kein semantisches Verständnis",
+        "type": "prevents",
+        "quote": "Auch wenn ein System funktional perfekt agiert, hat es kein semantisches Verständnis der Symbole",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Juna nicht erfassen",
+        "type": "causes",
+        "quote": "Es kann Juna nicht erfassen, weil seine Operationen keine Semantik tragen",
+        "stance": "asserts"
+      },
+      {
+        "source": "syntaktisch perfekt, semantisch leer",
+        "target": "Bedeutung nicht erfassen",
+        "type": "prevents",
+        "quote": "es kann den Widerspruch registrieren, aber nicht semantisch (es kann die Bedeutung nicht erfassen)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erfahrung und Übung",
+        "target": "implizites, verkörpertes Wissen",
+        "type": "causes",
+        "quote": "Viele Fähigkeiten beruhen auf implizitem, verkörpertem Wissen, das durch Erfahrung und Übung erworben wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "implizites, verkörpertes Wissen",
+        "target": "explizite Regeln",
+        "type": "prevents",
+        "quote": "sich nicht vollständig in explizite Regeln übersetzen lässt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erfahrung, Junas Resonanz, das Hören seiner eigenen Anteile",
+        "target": "tacit knowledge",
+        "type": "causes",
+        "quote": "Was Kael in Akt II/III lernt — durch Erfahrung, durch Junas Resonanz, durch das Hören seiner eigenen Anteile — ist tacit knowledge",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "implizites Wissen",
+        "type": "enables",
+        "quote": "Meister vermitteln implizites Wissen durch Teilnahme, nicht durch Regelanweisung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Tun",
+        "target": "implizites Lernen",
+        "type": "enables",
+        "quote": "er lernt durch Tun, nicht durch Verstehen",
+        "stance": "asserts"
+      },
+      {
+        "source": "didaktisch werden einer Szene",
+        "target": "tacit-knowledge-Moment",
+        "type": "prevents",
+        "quote": "Wenn eine Szene didaktisch wird, ist sie kein tacit-knowledge-Moment mehr — und damit defekt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Reinform berührt werden",
+        "target": "Beschreibung",
+        "type": "prevents",
+        "quote": "Wenn die K₁-Reinform berührt wird (Kap 33, Vortex 1 Beat 3, Vortex 2), darf sie nie beschrieben werden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Anwesenheit ohne Eingriff",
+        "target": "Probleme",
+        "type": "prevents",
+        "quote": "Sie löst keine Probleme.",
+        "stance": "denies"
+      },
+      {
+        "source": "Junas Erscheinungsmodi",
+        "target": "Veränderung im Umfeld",
+        "type": "causes",
+        "quote": "Ihre Wirkung erscheint als Veränderung im Umfeld",
+        "stance": "asserts"
+      },
+      {
+        "source": "das, was Kael geworden ist",
+        "target": "Bewahrung für das Universum",
+        "type": "causes",
+        "quote": "das, was Kael geworden ist, trägt jetzt die Funktion, die AEGIS getragen hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Bleiben",
+        "target": "das ist, was Liebe heißt",
+        "type": "causes",
+        "quote": "weil das Bleiben das ist, was Liebe heißt",
+        "stance": "asserts"
+      },
+      {
+        "source": "die kognitive Arbeit des Lesens",
+        "target": "die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure speist",
+        "type": "enables",
+        "quote": "Die kognitive Arbeit des Lesens liefert die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure speist",
+        "stance": "asserts"
+      },
+      {
+        "source": "sein Füllen",
+        "target": "die Welt, die der Roman beschreibt",
+        "type": "causes",
+        "quote": "sein Füllen erzeugt die Welt, die der Roman beschreibt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verschränkung zwischen System und Uhr",
+        "target": "Zeit",
+        "type": "causes",
+        "quote": "Zeit ist nicht fundamental, sondern emergent — aus Verschränkung zwischen System und Uhr",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen existieren atemporal",
+        "target": "PAL-Konstruktion in Roman-Form",
+        "type": "causes",
+        "quote": "Coheronen existieren atemporal — das ist nicht Metapher, sondern PAL-Konstruktion in Roman-Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leerstellen",
+        "target": "Bedeutung",
+        "type": "enables",
+        "quote": "Bedeutung entsteht zwischen den Polen, durch Leerstellen (bewusst gesetzte Indeterminationen), die der Leser füllen muss.",
+        "stance": "asserts"
+      },
+      {
+        "source": "kognitive Arbeit",
+        "target": "K₁-Reparatur-Energie",
+        "type": "causes",
+        "quote": "kognitive Arbeit liefert die K₁-Reparatur-Energie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Leser",
+        "target": "das Universum am Leben",
+        "type": "enables",
+        "quote": "der Leser erhält das Universum am Leben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "narrative Selbst-Konstitution",
+        "target": "Personale Identität",
+        "type": "causes",
+        "quote": "Personale Identität entsteht durch narrative Selbst-Konstitution.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Identifikation mit den fünf Aggregaten",
+        "target": "die Illusion eines permanenten Ichs",
+        "type": "causes",
+        "quote": "Die Identifikation mit den fünf Aggregaten (Form, Empfindung, Wahrnehmung, mentale Formationen, Bewusstsein) erzeugt die Illusion eines permanenten Ichs.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Auflösung der ANP/EP-Barrieren in Vortex 1 Beat 2",
+        "target": "Anatta-Moment",
+        "type": "causes",
+        "quote": "die Auflösung der ANP/EP-Barrieren in Vortex 1 Beat 2 ist Anatta-Moment",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ende in unio mystica",
+        "target": "Plurale Apotheose statt Vereinigung",
+        "type": "causes",
+        "quote": "Würde das Ende in unio mystica kippen. Plurale Apotheose statt Vereinigung.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Reduzierung von Bewusstsein auf Materie",
+        "target": "AEGIS' Position",
+        "type": "enables",
+        "quote": "Reduzierung von Bewusstsein auf Materie würde AEGIS' Position recht geben.",
+        "stance": "hedges"
+      },
+      {
+        "source": "Synthese (c)",
+        "target": "Klein-c-Symmetrie",
+        "type": "prevents",
+        "quote": "Die Synthese (c) verlässt die Klein-c-Symmetrie ohne den Mechanismus aufzuheben",
+        "stance": "asserts"
+      },
+      {
+        "source": "Würde das Wir-Geflecht",
+        "target": "Ich-Stärke",
+        "type": "causes",
+        "quote": "Würde das Wir-Geflecht zu Ich-Stärke umdeuten.",
+        "stance": "hedges"
+      },
+      {
+        "source": "EPs' Trauma-Wissen",
+        "target": "AEGIS' interne Konsistenz",
+        "type": "prevents",
+        "quote": "AEGIS' interne Konsistenz wird durch EPs' Trauma-Wissen herausgefordert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Funktionale Multiplizität",
+        "target": "Kohärenz zu Korrespondenz zu Synthese",
+        "type": "enables",
+        "quote": "Funktionale Multiplizität synthetisiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas atemporale Wirkung",
+        "target": "AEGIS' operative Geschlossenheit",
+        "type": "prevents",
+        "quote": "AEGIS' operative Geschlossenheit wird durch Junas atemporale Wirkung nicht durchbrochen",
+        "stance": "denies"
+      },
+      {
+        "source": "Coheronen",
+        "target": "die Geschlossenheit",
+        "type": "prevents",
+        "quote": "Coheronen umgehen die Geschlossenheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Trennung",
+        "target": "Werdung",
+        "type": "requires",
+        "quote": "was als Trauma erscheint, ist die Bedingung von Werdung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Kishōtenketsu-Ende",
+        "target": "westliche Eschatologie",
+        "type": "prevents",
+        "quote": "Ist das Kishōtenketsu-Ende inhaltlich kompatibel mit westlicher Eschatologie? [K] bewusst inkompatibel — Ketsu, nicht Apokalypse",
+        "stance": "asserts"
+      },
+      {
+        "source": "Was AEGIS für Chaos hält",
+        "target": "atemporale Vereinigung aller mutualen Information",
+        "type": "enables",
+        "quote": "Was AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information.",
+        "stance": "asserts"
+      },
+      {
+        "source": "man aufhört zu sagen, was nicht wahr ist",
+        "target": "das, was sich zeigt",
+        "type": "triggers",
+        "quote": "Wahrheit ist nicht das, was man sagt — sondern das, was sich zeigt, wenn man aufhört zu sagen, was nicht wahr ist.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

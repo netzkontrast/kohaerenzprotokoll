@@ -125,11 +125,12 @@ def checks(slug: str, folder: Path) -> dict:
         if not path.exists():
             out[name] = "absent"
             continue
-        q = subprocess.run([sys.executable, str(SCRIPTS / "quotes.py"), str(path)],
+        # the gate is `quotes.py --strict`, whose last line says PASS or FAIL; the summary's wording is
+        # not parsed here, because a change to it once broke this check (2026-09-30, the merge of #127)
+        q = subprocess.run([sys.executable, str(SCRIPTS / "quotes.py"), "--strict", str(path)],
                            capture_output=True, text=True)
         last = q.stdout.strip().splitlines()[-1] if q.stdout.strip() else q.stderr[-160:]
-        clean = re.search(r"\b0 unresolved; 0 quotes had no citation", last) and ", 0 wrong;" in last
-        out[f"{name} quotes"] = "held" if q.returncode == 0 and clean else "FAILED: " + last[:160]
+        out[f"{name} quotes"] = "held" if q.returncode == 0 and last.startswith("strict: PASS") else "FAILED: " + last[:160]
     if terms.exists():
         sys.path.insert(0, str(SCRIPTS))
         import census

@@ -1,0 +1,53 @@
+# Rules — a rule, a constraint or an invariant the document states, with the sentence that states it.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: GOAL.md: the plot model as checkable rules. A rule the documents state — what a system may never do, what must hold
+#   before something can happen — is a checkable statement, and no relation of the graph carries it.
+# measured against: the rules a person lists in the wiki's records and the plot pages; a rule whose subject resolves to a wiki term is the attachable subset. A quote is placed by read.py --find (P26).
+# may not: enforce a rule, check one against the novel, or say two rules conflict — that is read by a person; a rule is a P_HE_RULE proposal
+# retire when: on three documents a person keeps no rule that the wiki's records do not already hold
+language: en
+name: Rules
+type: list
+tags: [rules, constraints, plot-model, german]
+description: "A rule, a constraint or an invariant the document states, with the sentence that states it, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The subject the rule binds: a term, a system, a character, a world, exactly as the document writes it."
+      required: true
+    - name: target
+      type: str
+      description: "What the rule constrains or requires, as a short phrase exactly as the document writes it (an action, a state, a term)."
+      required: true
+    - name: type
+      type: str
+      description: "must: the subject has to. must_not: it may never. only_if: it can only when the condition holds. always: it holds at every moment. if_then: a condition and its consequence."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German research document and collect, verbatim, the sentences that state a rule, a constraint or an invariant of its world, so that a person can check the plot model against them."
+  rules:
+    - "Record a rule only when ONE sentence states it: muss, darf nie, darf nicht, nur wenn, immer, stets, kann nur, wenn … dann, ist verpflichtet, Regel:, Direktive, Axiom."
+    - "The subject the rule binds and the constraint both stand inside the quote."
+    - "A description of what happens is not a rule. Record only what the sentence states as binding or invariant."
+    - "A rule the document attributes to a theory or a law of the real world is recorded with stance cites."
+    - "Never infer a rule from a regularity, from proximity, or from background knowledge."
+    - "When the words do not state a rule, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

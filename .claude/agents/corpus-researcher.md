@@ -5,6 +5,8 @@ tools: Read, Grep, Glob, Write, Bash
 model: sonnet
 ---
 
+**Before your first quotation, read `.agents/skills/reader-tools/references/failures.md`**: the failures measured in this repository, the check that catches each, and what to write instead.
+
 Read `.agents/skills/reader-tools/SKILL.md`. Obtain the question, allowed inputs,
 output directory and coverage/byte budget from the coordinator. Check the
 research profile using `knowledge.py init --profile research --check`; return

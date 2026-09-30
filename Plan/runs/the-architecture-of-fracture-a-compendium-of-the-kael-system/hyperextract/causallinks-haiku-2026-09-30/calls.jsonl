@@ -1,0 +1,6 @@
+{"ok": true, "seconds": 3.3, "input": 5238, "output": 108, "cost_usd": 0.011013}
+{"ok": true, "seconds": 4.48, "input": 4962, "output": 268, "cost_usd": 0.011261}
+{"ok": true, "seconds": 4.68, "input": 5334, "output": 130, "cost_usd": 0.011314999999999999, "repaired_quotes": 1}
+{"ok": true, "seconds": 5.0, "input": 5204, "output": 282, "cost_usd": 0.011814999999999999}
+{"ok": true, "seconds": 5.74, "input": 5226, "output": 368, "cost_usd": 0.012289000000000001}
+{"ok": true, "seconds": 2.72, "input": 4996, "output": 17, "cost_usd": 0.010074}

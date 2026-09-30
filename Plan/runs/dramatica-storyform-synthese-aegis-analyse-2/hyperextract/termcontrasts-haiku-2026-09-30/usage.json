@@ -1,0 +1,12 @@
+{
+  "document": "dramatica-storyform-synthese-aegis-analyse-2",
+  "template": "TermContrasts.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 40,
+  "failed_calls": 1,
+  "seconds": 308.0,
+  "input_tokens": 209434,
+  "output_tokens": 15590,
+  "cost_usd": 0.4967,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

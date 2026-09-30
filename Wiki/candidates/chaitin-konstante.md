@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 12
-readings: 11
+sources: 13
+readings: 12
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung"]
 gathered: "2026-09-25"
 ---
 
@@ -28,6 +28,12 @@ for Juna. Its chapter 19 is titled „Chaitins Rauschen und das innere Kind" ^[r
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the halting probability as the source of novelty
 
 The audit names the constant under Creative Advance: „Chaitin’s Halting Probability“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L27] in the writer's terms „provides the“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L9] „necessary for novelty“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L27]. Novelty is „Novelty is the only escape from AEGIS’s deterministic clockwork“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L27].
+
+## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — the halting probability as the mechanism of real novelty, injected by the actions of Kael and Juna
+
+The audit gives the constant its own section, together with Tarski's meta-language. It introduces it as the plot's answer to a deterministic AI: „muss die Narrative einen Mechanismus für echte Neuheit (Novelty) integrieren“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L139]. The Protokoll, it says, draws here on algorithmic randomness, „genauer auf Chaitins Halte-Wahrscheinlichkeit“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L139], and it defines the number as „eine präzise definierte, aber tiefgreifend unberechenbare reelle Zahl“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L141].
+
+Who injects it: „Die Handlungen von Kael und Juna generieren eine Komplexität, die der Kompressionsrate von AEGIS entkommt“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L143], and „Sie injizieren Chaitinsche Zufälligkeit in das Uhrwerk der Simulation“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L143]. The constant is applied to the actions of Kael and Juna together, not to Juna alone. The symbol itself is lost to the export: `Omega` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#2] stands twice, in the section heading and in the running text, each time beside an empty pair of marks.
 
 ## Reading — `dramatica-storyform-synthese-aegis-analyse-2`, 2026-04-30, the Dramatica-Synthese — one part of Juna's composite, and Kael's incompressible data
 
@@ -115,6 +121,7 @@ and the philosophy say she works *like* Ω, and the glossary's Juna entry calls 
 „Chaitin-Ω-Analogon" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L360].
 The Dramatica-Synthese makes it neither: Juna operates as a composite of the Witness Function, the
 Gödel sentence and the constant (its L29).
+- The Audit applies the halting probability to the actions of Kael and Juna together, as the source of real novelty against [[aegis|AEGIS]]' compression.
 
 ## Open
 

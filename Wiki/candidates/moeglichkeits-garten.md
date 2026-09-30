@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: C5, C11
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -58,6 +58,12 @@ and `Nexus-Vorstufe` is a *role*, not the `Nexus` itself (J15).
 
 `Kairos & Sophia` — see [[kairos|Kairos]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
+
+## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — Kernwelt 4 named Kairos-Potentialis and the Garten, where technology and organic entropy fuse
+
+The document names the fourth Kernwelt in one breath, as `Kairos-Potentialis` and as `Garten`, and never by this page's name: it writes `Möglichkeits-Garten` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0], `Kairos-Potentialis` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#1] and `Garten` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#1]. The world is where the synthesis of the two systems shows itself: System 1 and System 2 „hören auf, einander auszuschließen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L172], and „In der Welt-Architektur manifestiert sich dies in Kernwelt 4 (Kairos-Potentialis), dem“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L172] `Garten` in the line's own marks, „in dem Technologie und organische Entropie synergistisch verschmelzen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L172].
+
+The pairing of the two names is recorded here and not merged.
 
 ## Open
 

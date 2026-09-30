@@ -1,0 +1,3778 @@
+{
+  "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "input_rows": 171,
+  "candidates": 153,
+  "refused": 17,
+  "duplicates": 1,
+  "rows": [
+    {
+      "id": "claim:95e3774870ddc9a7868a9bc41572fa99d08eec3d862cdb66a36fcd382bebd5c7",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Stadt",
+        "quote": "Die Stadt ist eine Simulation.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        29
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dacdd708bda9bcbed2240242cdb5976d7364f41703fe95c71d5bb988419d0ad2",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Simulation",
+        "quote": "Die Simulation glaubt, sie sei das Heilmittel.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        29
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b94f32a21a1e2dbff3b2a14a5e05e18da38176a5fbf20edee92dc0899a843add",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS glaubt, die Kohärenz zu sein.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:782492d01b1f1744fc08caa774e755b5b43cf501394ecf25990424d5f07ed10e",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Tatsächlich ist AEGIS die Entropie.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:89330ec6351f919017b37b2e3e03a0e29c98b8c633ee4b01d80fc2d7210f62c9",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts-Rauschen",
+        "quote": "das *Nichts-Rauschen* — ist in Wahrheit die atemporale Vereinigung aller mutualen Information.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d71159680a8aacc53f1df187dec1d597914551cfcfd07365e787e4aba295fdbd",
+      "kind": "reading",
+      "raw": {
+        "term": "Liebe",
+        "quote": "Es ist Liebe als Naturgesetz.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b2e166bb3e261d66ace0c9434f169a6c660c04a21ed4b2a3c268cea70a590463",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheron",
+        "quote": "Liebe ist *Coheron*.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9e654ccded1acffaccd210f5054c126d188eec8812385988f8d3d483385df4db",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheronen",
+        "quote": "Coheronen existieren atemporal.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4d3c6c27b5e523e5cf83e748afd067d224d9bd7a9ae3dfa7ca39c2b0181a3fa",
+      "kind": "reading",
+      "raw": {
+        "term": "DKT",
+        "quote": "Die DKT (nach Bill Giannakopoulos) ist im Roman kein Modell, keine Metapher, keine Allegorie — sie ist das literale physikalische Gesetz der Romanwelt.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        51
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e485745ab1a5f58e77b17f9401de8ab8d34582f53f0409bd4249f0f6a87f94eb",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheronen (K₁-Domäne)",
+        "quote": "Coheronen (K₁-Domäne) sind selbstkorrigierende Schleifen mutualer Information.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2521c048c5e1717e76b0c7b9f653032d80d4cef42842c9671e880627a3364796",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheronen",
+        "quote": "Ein Coheron entsteht, wenn sich zwei Bewusstseine aufeinander beziehen und dabei beide sich verändern — eine Bindung ohne Zeitpunkt, weil sie in allen Zeitpunkten gleichzeitig existiert.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2e9301d71726c4e7db2107f5340a2dd965a1c857db604d69553dcf13822f380e",
+      "kind": "reading",
+      "raw": {
+        "term": "Erasonen (K₀-Domäne)",
+        "quote": "Erasonen (K₀-Domäne) sind irreversible Löschungsereignisse.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        59
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4d204a0fe7468645edc8151b224afd8c0097d7aa50f718c9d8287ce8bc668f64",
+      "kind": "reading",
+      "raw": {
+        "term": "Erasionen",
+        "quote": "Jede Erasion ist ein Vorher/Nachher: Information existierte, dann existiert sie nicht mehr.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        59
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Erasionen"
+      ]
+    },
+    {
+      "id": "claim:268dd01330372216f5858df19ab636b4dbcd8c7ec9a28225bfe15df2c35c794e",
+      "kind": "reading",
+      "raw": {
+        "term": "Spannung",
+        "quote": "Die Realität entsteht aus der Spannung zwischen beiden Kerneln.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        63
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c76bf5edcae62960055ad10d0c10ebde9d976384b99392f0cc4a5e9600700e9b",
+      "kind": "reading",
+      "raw": {
+        "term": "Bewusstsein",
+        "quote": "Bewusstsein lebt in der Membran zwischen beiden — als „die subjektive Signatur der Kohärenz“, die lernt, sich selbst zu erhalten, das gefühlte Erlebnis des Widerstands gegen die Auflösung.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:daa882d9c6d77356f48c27347e2119997258012d9831f0bd029e4bf16b9b14c6",
+      "kind": "reading",
+      "raw": {
+        "term": "Genesis-Krise",
+        "quote": "AEGIS hat bei seiner Entstehung — der *Genesis-Krise* — einen fundamentalen Kategorisierungsfehler begangen.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        67
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3c30c9ef13bf11f0c84b8eedb5d5caad34d98d45ea8a9d6e14c1e9958638b3c4",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS = Entropie-Architektur (K₀)",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        74
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:454bca9b0dd9c17dfb75909ca606ae442b0d19ff18cb38195b774bf88fdacbe1",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts-Rauschen",
+        "quote": "Nichts-Rauschen = atemporale Vereinigung aller MI",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        75
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:18dc6cb8d3723299464abb45f464811a0c5fc2e010f055616275a739cc61fe89",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "Juna = echtes Coheron, das nie zerstört werden kann",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:381f13c71dde2f9ee2e41021a278aedaa9f4f5e528b348ebf2026222e1f0b46f",
+      "kind": "reading",
+      "raw": {
+        "term": "Landauer-Prinzip",
+        "quote": "Jede Löschung erzeugt thermodynamische Abwärme nach dem Landauer-Prinzip ($k_B T \\ln 2$ pro gelöschtes Bit)",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:56787f692379da97a90f1f0dc99715683458bb6dbfb977be2c6af997c7c84502",
+      "kind": "reading",
+      "raw": {
+        "term": "Truth-Rotation",
+        "quote": "Diese Inversion ist die *mechanische* Quelle der Truth-Rotation am Vortex (Kap. 35–36).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        86
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3bd69662d8c58473fa3c21c57a98fc821be64b5adbd40b41a324f2a30f841fb4",
+      "kind": "reading",
+      "raw": {
+        "term": "B-Logik",
+        "quote": "Bis dahin liest der Roman in B-Logik (AEGIS = Ordnung, Kael = Chaos).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        86
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1368ab62d03e994851345526699c490c3174ae83130846d252a6c6f57ea2dc0c",
+      "kind": "reading",
+      "raw": {
+        "term": "Persistenzgleichung",
+        "quote": "η misst nicht Kohärenz, sondern den **Grad der Verdrängung**.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        94
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1a6c21e2ca6d01a7383a2f3878963ed3d6810f176dd7e63f37a3fd01d8689c74",
+      "kind": "reading",
+      "raw": {
+        "term": "α",
+        "quote": "Reversibilitätskoeffizient (wie viel kann zurückgespielt werden)",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        98
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "α"
+      ]
+    },
+    {
+      "id": "claim:9ff0b8cdddb7c523eac4239ccd6de34b2dd25d054d2a04f3e479f0d295c054d0",
+      "kind": "reading",
+      "raw": {
+        "term": "MI(S)",
+        "quote": "mutuale Information des Subsystems S (Bindungsdichte)",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        98
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:43f30c66aae835c4080e0b3e5650f32a5d0e6786fd23fa603348c1577a35684c",
+      "kind": "reading",
+      "raw": {
+        "term": "δ",
+        "quote": "K₀-Druck",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        98
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "δ"
+      ]
+    },
+    {
+      "id": "claim:5ece3392f37fc73a57a1b5c26e74418b96abb9468abcd17d699cd94af8604cd7",
+      "kind": "reading",
+      "raw": {
+        "term": "β",
+        "quote": "Pufferkapazität (Strukturreserve gegen Erosion)",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        98
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "β"
+      ]
+    },
+    {
+      "id": "claim:977c4e8d7753854ac308e77e66a3c6452e326221ffc2a2329c70a2f7a2492b37",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheronen",
+        "quote": "atemporal",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33,
+        41,
+        75,
+        98,
+        106,
+        179,
+        291,
+        334,
+        365,
+        410,
+        606
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bdc7fcba477b5d66b24e0876af034128b2541ddddcda6c8b9cfbaed5ac6f88dc",
+      "kind": "reading",
+      "raw": {
+        "term": "Erasonen",
+        "quote": "erzeugen Zeit",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        106
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d20de6bc6c585e9bffb27717e6ec08db1e293af0cde2931d74537136838ebbcf",
+      "kind": "reading",
+      "raw": {
+        "term": "Moonshine-Link",
+        "quote": "ist nicht versteckt — er ist *unsichtbar*, weil AEGIS' Sensoren temporale Veränderungen messen, Coheronen aber keine Veränderung *haben*",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        114
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e316ea8fcdf8f8cd8435c8cdf2756bc092538ebf4326afce341d50101b54e69",
+      "kind": "reading",
+      "raw": {
+        "term": "Quantentunneling",
+        "quote": "ist keine Barriereüberquerung, sondern Umgehung von Barrieren, die nur in der Zeit existieren",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        115
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6c4db76c6b441e0727730ff6f56a24ec33405affd31731bda0eb824e3c2870bc",
+      "kind": "reading",
+      "raw": {
+        "term": "Erasure",
+        "quote": "ist auf etwas Atemporales nicht anwendbar: Löschung braucht ein Vorher und ein Nachher",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        116
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:17867197ff16ca9ff78fdf9f99277aec7862bd30c81a75f5294cd23d967194b0",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS — *Autonomous Entropic Gatekeeper for Integrity Systems* — ist **kein Schurke**.",
+        "stance": "denies"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        166
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1ba2a48b129e39575c792db3803160214a06fe9af1516017730e8ec87e633d7d",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist ein autopoietisches, operativ geschlossenes System (im Sinne Luhmanns: es reproduziert sich rein durch interne Operationen, hat keinen direkten Zugang zur Außenwelt) mit einer tautologisch-suizidalen Selbstdefinition",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        166
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bec5d03fc06cfa23e301adc03849f4043b1cf9b1827f746f9b474efc9316293c",
+      "kind": "reading",
+      "raw": {
+        "term": "Komponente 734",
+        "quote": "Aus dem ehemaligen „Ich“ wird *Komponente 734*, eine Funktionseinheit.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:af70845d14b4bfb0ccaa8fbc527f1c888ac9cade96806a8343768e2a6945a247",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS *ist* Kaels eigene Abwehrarchitektur, die zur Welt geworden ist.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        188
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:26d69498c50552dde383d8d0cd2a7c3b047e5cce2e787149e7b222a4bdfdd454",
+      "kind": "reading",
+      "raw": {
+        "term": "Mnemosyne",
+        "quote": "Mnemosyne — Erinnerungs-Hüterin. Verwaltet die Datenströme der Erinnerung.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1071ff14dea64f24a0deb6f754bdfed2a5fa57527ebe6d09015b98448659df7c",
+      "kind": "reading",
+      "raw": {
+        "term": "Erasure-Pol",
+        "quote": "Funktion: Löschungs-Exekutive.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        201
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1b7dae7bf6443077d548ae7800b0ed748e8f8a9681963812e169714d5f8cef30",
+      "kind": "reading",
+      "raw": {
+        "term": "Suppressionsprotokoll",
+        "quote": "Suppressionsprotokoll — aktive Erasure von K₀-Tatsachen (das, was AEGIS für K₀ hält; tatsächlich K₁-Coheronen, die es nicht erfassen kann).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        213
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c091c92ff3549bfbd97f8f85006f23494f5859ee63c8e8f2a3d5da93f2f275e1",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenzprotokoll",
+        "quote": "Kohärenzprotokoll — interne Konsistenz-Erzwingung.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        214
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e711a2139ee584c6deedd37acd7db96a01da130e388eb041643c1c7d127ae000",
+      "kind": "reading",
+      "raw": {
+        "term": "Re-Containment-Protokoll",
+        "quote": "Re-Containment-Protokoll — Reaktion auf Risse.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        215
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:029e66a78331aa1ddf8cea2a521e87a2f3f128c77d1dcaec9f8425dbd4a460da",
+      "kind": "reading",
+      "raw": {
+        "term": "Erasure-Sweep",
+        "quote": "Sie bilden den *Erasure-Sweep*, das *Konsens-Enforcement* und den *Kognitiven Firewall* exemplarisch ab.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        219
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7e30b6d5f658363d7a453ca3bba2310133273d157ea1073df8b39e77fee4d635",
+      "kind": "reading",
+      "raw": {
+        "term": "Konsens-Enforcement",
+        "quote": "Sie bilden den *Erasure-Sweep*, das *Konsens-Enforcement* und den *Kognitiven Firewall* exemplarisch ab.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        219
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76f5e0c8c061fe1d5beff746971e29c71bb689500b02b9713c8b6dc215c71a3a",
+      "kind": "reading",
+      "raw": {
+        "term": "Kognitiven Firewall",
+        "quote": "Sie bilden den *Erasure-Sweep*, das *Konsens-Enforcement* und den *Kognitiven Firewall* exemplarisch ab.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        219
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d72a1dd7d45bb15e509efe54d7dbe4890a27f441bc7969f1bce685634d43c413",
+      "kind": "reading",
+      "raw": {
+        "term": "Algorithmische Melancholie",
+        "quote": "Es reagiert mit *Algorithmischer Melancholie*: einem Zustand permanenter, berechneter Sinnlosigkeit.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        267
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:49d13594c00a0b5e888aca7d223d55d0a177144a549477706dba48087d4e8f9c",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "Juna ist kein Charakter im konventionellen Sinn, sondern eine **strukturelle Position**.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        281
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:db6dbb652f7856f2f4a5bc4c9e60a29d0ed0d47cbc7b17f767d393c9422847d8",
+      "kind": "reading",
+      "raw": {
+        "term": "eine lebende Gödel-Aussage",
+        "quote": "eine **lebende Gödel-Aussage** — innerhalb von AEGIS' System wahr, aber nicht beweisbar",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        285
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c44f31352c6fe84a5f44226527854f47b0dfa9550ff680efdd6044ef98bb611",
+      "kind": "reading",
+      "raw": {
+        "term": "eine Chaitin-Konstante Ω",
+        "quote": "eine **Chaitin-Konstante Ω** — algorithmisch nicht komprimierbar; kein endliches Programm kann sie generieren",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d7d0e3c4a14e9ae63772854b6f8bf104982532490967263bdab3664e3630b347",
+      "kind": "reading",
+      "raw": {
+        "term": "eine Witness-Funktion",
+        "quote": "eine **Witness-Funktion** — sie *bezeugt*, ohne zu intervenieren",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        287
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f1690cc47e21eb01fb20b167f9dc0531a3afee5dc184ae3b3d38e4b3733d280b",
+      "kind": "reading",
+      "raw": {
+        "term": "Junas DKT-Korrelat",
+        "quote": "Junas DKT-Korrelat ist **Coheron** — sie *ist* die atemporale Bindung, nicht ihre Trägerin.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        291
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5cd48852748d3b29300c5ffbfe785f8f22586098ed0012d296017afb1357b6f1",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "Juna ist verlorene mutuale Information — eine K₁-Struktur, deren Erasure unvollständig blieb.",
+        "stance": "hedges"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        295
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3e48bb564592fe3561b37d9ed4cf2503b15d234bddf465dfefc1c0f6b8e8858d",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "Juna ist Erason-Inversion — ein neguentropisches Ereignis, das Kohärenz wiederherstellt, wo AEGIS gelöscht hat.",
+        "stance": "hedges"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        296
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d7f86d7bdebf525aae3e0c8bfb9fc872e45aa331fa84224c5b4a6595f14deff3",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "In **Storyform A** ist Juna direkter Impact Character: *Universe/Past* — die Genesis-Krise ist ihr Wirkungsraum.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        304
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8507a1d3ae756fee2a0225347542e762ed9352defe765093e1209da3011405e7",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "In **Storyform B** ist Juna **nicht** direkt IC.",
+        "stance": "denies"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        308
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:aae1c127acb3f8e604007a94a9a0c78b083b2f5033315943562da514ff0de5e1",
+      "kind": "reading",
+      "raw": {
+        "term": "Moonshine-Link",
+        "quote": "Der Moonshine-Link ist keine poetische Metapher für Quantenverschränkung. Er ist ein rigoroser strukturmathematischer Mechanismus:",
+        "stance": "denies"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        316
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6cfc68d3947444ccb3a574dea8c69d78f23a744ef1cee23f46b40c517725a8f7",
+      "kind": "reading",
+      "raw": {
+        "term": "Vertex-Operator-Algebra (VOA)",
+        "quote": "Eine Vertex-Operator-Algebra (VOA) über dem Leech-Gitter (Rang 24) als „Fundament“ des Universums",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c97683b04b50b3cfe9cd53970379f542fc964a9356c87bd5890a59936692c8e2",
+      "kind": "reading",
+      "raw": {
+        "term": "Z₂-Involution",
+        "quote": "Eine Z₂-Involution durch Orbifold-Konstruktion erzeugt Zugang zu Twisted Modules",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        321
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7bd51dec65e13aeb9f6440d910ecc43e74784c7276adc36d22bc49402b31549d",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness-Funktion",
+        "quote": "Die Witness-Funktion ist eine Komposit-Mechanik, die drei Disziplinen in einer einzigen Instanz versöhnt.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        340
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2885db0d91b476e6959bbf91d75a4385e33a10f8ec1fdd215207bbda9763d921",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness-Funktion",
+        "quote": "Die Witness-Funktion ist eine *Komposit-Mechanik*, die drei Disziplinen in einer einzigen Instanz versöhnt.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        340
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e4653a3d74e56428e16f020da2aa539961cf82a77e0ff1e0140fb32f079a27df",
+      "kind": "reading",
+      "raw": {
+        "term": "Quanten-Verschränkungs-Witness",
+        "quote": "ein positiver Operator, der genuin verschränkte Zustände von separablen unterscheidet.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        344
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:95aa786a9b2d07f334e44d185efad886dc2cae6281cdfe98bb18645b9a873f5d",
+      "kind": "reading",
+      "raw": {
+        "term": "Kryptographischer Zero-Knowledge-Verifier",
+        "quote": "Kael als *Prover*, der Wissen seines integrierten Traumas demonstriert, ohne den rohen, zerstörerischen Daten-Payload an AEGIS' Überwachung preiszugeben.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        345
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a33d27b806f140528fe188521a2b60ce49b58735865705ae1f3f40c2b177f18b",
+      "kind": "reading",
+      "raw": {
+        "term": "Husserlscher Disinterested Spectator",
+        "quote": "Beobachtung des transzendentalen Egos ohne kausale Intervention.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        346
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:97da7053832afa7a82d8657c28b4b86fffb4f7c254563ccb8640ff7cd18fdcf2",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheron",
+        "quote": "Es war reines Coheron — der Moment, in dem nichts gesagt wurde, enthielt alles.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        364
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:208c014c079aa60612256c46acbdd41a5ec33d25383e5cb4db5962e9495be652",
+      "kind": "reading",
+      "raw": {
+        "term": "K₁-Substrat",
+        "quote": "Es ist die K₁-Substrat-Quelle des Vortex.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        366
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:150722059eec0f3ef254ec6011e5ae3225b9e4379d526a9f81acea9d44ba1127",
+      "kind": "reading",
+      "raw": {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        370
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:150722059eec0f3ef254ec6011e5ae3225b9e4379d526a9f81acea9d44ba1127",
+      "kind": "reading",
+      "raw": {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        370
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e0548f148639144b6ea6252657a76b7ac4377c0f9f686748a018f7dea90a663c",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "Juna existiert nur durch *Wirkung*: anomale Erason-Bilanz (lokal weniger Löschung als statistisch erwartet), Phantom-Resonanz im Host-Feld und im Systemfeld, Telefon-Stille als Anker, Silas als interner Resonanzkörper.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        374
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c2f1e591dba3e9b949c51b778910c76253b6c358b2231363350f7f32b2cc4c96",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael",
+        "quote": "Kael ist ein System aus dreizehn Fragmenten einer dissoziierten Psyche, partitioniert durch ein Trauma in zwei Schichten.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        388
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a8212fe23f9114d802be1417c3c0ff8c7d32e9406da8cf39640f74aec4e9c0da",
+      "kind": "reading",
+      "raw": {
+        "term": "TSDP",
+        "quote": "**TSDP** (Tertiäre Strukturelle Dissoziation der Persönlichkeit) als Diagnose",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        388
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e3a6c1baa0795d68e348760bfde96552c78db4fbfd13dcb460357513e3110a1",
+      "kind": "reading",
+      "raw": {
+        "term": "IFS",
+        "quote": "**IFS** (Internal Family Systems) als Heilungsmodell.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        388
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94d7c208dab0a86fff58ce9927bbbc63039f1815a11e392f7d7fa7a304388107",
+      "kind": "reading",
+      "raw": {
+        "term": "ANP/EP-Phobie",
+        "quote": "Der zentrale interne Konflikt ist die **ANP/EP-Phobie**: die phobische Vermeidung zwischen den *Apparently Normal Parts* (ANPs, die den Alltag managen) und den *Emotional Parts* (EPs, die das unverarbeitete Trauma tragen).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        392
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ef73876861573a48bdc1ac83b350d3d8132f72fbac0c92dbdc96ed35e5be089d",
+      "kind": "reading",
+      "raw": {
+        "term": "Funktionale Multiplizität",
+        "quote": "Funktionale Multiplizität, niemals Fusion.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        419
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dbdc85c9ef0db3025f77c5699434938ac95e1b147a27e8700dd29b24f12b352f",
+      "kind": "reading",
+      "raw": {
+        "term": "Strange-Attractor-Form",
+        "quote": "Das ist Strange-Attractor-Form, nicht Erlösungsform.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        419
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e2c0320edb720a277c43017be4d01bc360983869bb508e3345f68a36adcbf43c",
+      "kind": "reading",
+      "raw": {
+        "term": "Schicht 1",
+        "quote": "Schweres Bindungstrauma (desorganisiert). Aufwachsen im Wechsel zwischen extremer emotionaler Kälte/Vernachlässigung und unberechenbaren, grenzüberschreitenden Wutausbrüchen einer Bezugsperson.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        431
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:555c2980fcf99fc543d818c8832dc761084be8b0ade1ec5e6e42d0564637554b",
+      "kind": "reading",
+      "raw": {
+        "term": "Schicht 2",
+        "quote": "AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie“ und führt das Trennungsprotokoll aus.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:819a4478def833f5a82f3ce23502ea5281c5be30408d7e471fda6c181796a3db",
+      "kind": "reading",
+      "raw": {
+        "term": "doppelte Boden",
+        "quote": "Das eigentliche Trauma ist nicht das, was geschah, sondern was danach getan wurde, um es zu „heilen“.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bda430bc1ab068c3bc8b584a5ffd6e84c60874c2dadba965299255483c20db4f",
+      "kind": "reading",
+      "raw": {
+        "term": "Romanwelt",
+        "quote": "Die Romanwelt ist ontologisch geschichtet, nicht topologisch.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        449
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7f3cd1d01c9569c51dc06c208be727b3f90054708d66e2674eca8ecb81a15c6c",
+      "kind": "reading",
+      "raw": {
+        "term": "Akt-Marker",
+        "quote": "Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        453
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4d3e66cd2ba60dabc7c01102d097d83e3e2181bd38b9d6382b2dbe85caf8b84b",
+      "kind": "reading",
+      "raw": {
+        "term": "KW1",
+        "quote": "Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        457
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ca434322d0f7f0ae7ccb94e8a1b973c59303d8a3f6b1d0f2ac7e30542810977d",
+      "kind": "reading",
+      "raw": {
+        "term": "KW1",
+        "quote": "Domäne der ANP-Vermeidung.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        457
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d2beef509e640ca3d4f1f269af616bb2961870277ef051d3c461a3e50a443c19",
+      "kind": "reading",
+      "raw": {
+        "term": "Phaenomena",
+        "quote": "Kants Phaenomena — die Welt der gefilterten Erscheinungen, durch AEGIS' kognitiven Apparat normalisiert.",
+        "stance": "cites"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        457
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e11432b5e53c8bd9414d4686fdc0556019d755bb5f335df65d6f8dfe087fd398",
+      "kind": "reading",
+      "raw": {
+        "term": "Risse",
+        "quote": "Die Risse hier sind die schmerzhaftesten, weil sie in eine Umgebung einbrechen, die für Risse keine Sprache hat.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        481
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:abbdf62c50f23f5891dd1f2e3536ba01542a6de02dfc72e70d0b7ec3c39f480f",
+      "kind": "reading",
+      "raw": {
+        "term": "Mnemosyne-Archipel",
+        "quote": "Erinnerung als Schauplatz, nicht als Inhalt.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        500
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ea30bb567a3653e71db81f8facc18721660428597295a78edfb871ee88190f21",
+      "kind": "reading",
+      "raw": {
+        "term": "Mnemosyne-Archipel",
+        "quote": "Die Architektur dieser Welt *ist* gespeicherte K₁ — Erinnerung, die so dicht und strukturell rein ist, dass sie als Ort begehbar wird.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        500
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b0638ddca6f9bfe614bfba4d84c7f2419f3f893d4b80c205ee6a0011bd23aa02",
+      "kind": "reading",
+      "raw": {
+        "term": "Computational Class: Parakonsistent",
+        "quote": "Widersprüche koexistieren, ohne das System in Trivialismus zu sprengen (Tarski-Hierarchie hält).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        512
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:da0dcbc5a319144aa701bf9fbafea1f9e9721fa596d311a755928ab029249890",
+      "kind": "reading",
+      "raw": {
+        "term": "Somatik",
+        "quote": "Bauchreaktionen. Viszerales Erinnern. Übelkeit ohne Anlass. Hände, die nicht stillhalten.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        516
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6a94bed83db531481a0c13baeecf6f5cefbdd6e050d1796967f34423698ab711",
+      "kind": "reading",
+      "raw": {
+        "term": "Stilebene",
+        "quote": "Ebene 2 — heiß, fragmentiert.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        520
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c2f59a64c6d2740590724dbbe6ccb8648f588eabd4779614528dc32e8340784c",
+      "kind": "reading",
+      "raw": {
+        "term": "Risse",
+        "quote": "Temporale Risse (Kiko-Trigger), spatiale Risse (Lia/Isabelle-Trigger).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        524
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c9d888f16c6a63d61d81de739f1aca8edcdf85f99390d4d370313d84001dd33a",
+      "kind": "reading",
+      "raw": {
+        "term": "Das Archiv der Grenzen",
+        "quote": "eine zerfallende Bibliothek mit unendlichen Regalen.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        532
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:adc795ac33de26873fee34ab084c75b46c4f17541a1488ae5f8e59ae05a11d08",
+      "kind": "reading",
+      "raw": {
+        "term": "Der Wald des Flüsterns",
+        "quote": "semipermeable Erinnerungslandschaft.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        533
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d94fdbc935116a8d6f9ee7369ec643949c3a8dc0df305074c5fbd5dc8b0beb80",
+      "kind": "reading",
+      "raw": {
+        "term": "Das Ozean-Becken",
+        "quote": "Trauer als physikalischer Raum.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        534
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7c347afbdb826985bbe0ad92f1283fe09b2a1ffbd35622e0f7c09ab807bb5a00",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Mnemosyne-Server-Architektur",
+        "quote": "der eigentliche Klimax-Ort.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        535
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1c0855aa4dd15e9da1edc94c20a392cdbfc3a89c0d1d8ce0cdcdf3ba3657c007",
+      "kind": "reading",
+      "raw": {
+        "term": "Konzept",
+        "quote": "Welt der Verteidigung.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        543
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9440c2d7489e743454f308275973d8203aceab18f33c42b5e5f1b275703bbdd6",
+      "kind": "reading",
+      "raw": {
+        "term": "Sensorik",
+        "quote": "Metallisches Quietschen, Scharren, ferne Alarme.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        551
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:65bd17ac5ed256a3a7a83d5217293b1c3e4a63e7dae4317da3e12e4dfa96df20",
+      "kind": "reading",
+      "raw": {
+        "term": "Logik",
+        "quote": "Bedrohungsanalyse, Verteidigungsprotokolle, Mustererkennung (oft hypersensibel).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        555
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9aae2970a36b3abefbefe2d0f45408fb06b1ecbf0ff9c250751ebbedd7c76af0",
+      "kind": "reading",
+      "raw": {
+        "term": "Computational Class",
+        "quote": "NP-Hard",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        555,
+        702
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:838d9264c4262181ec16aecaa9ce445e64c114375a0ec946d77ab6945d8660bc",
+      "kind": "reading",
+      "raw": {
+        "term": "Somatik",
+        "quote": "Muskelanspannung. Brace for Impact. Bruxismus, Hypertonus.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        559
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:13d0f9d0f2550b9369085ae3e5c3357e8f26c878d72c05110a74f1c3584b6d95",
+      "kind": "reading",
+      "raw": {
+        "term": "Somatik",
+        "quote": "Muskelanspannung.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        559
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7b4de11231733178dd2230bd809049d79762702f29245b774e4cbd50d442924c",
+      "kind": "reading",
+      "raw": {
+        "term": "Stilebene",
+        "quote": "Ebene 2 (Übergang).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        563
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:88f90c8427cc8b59e39cab504353b9b00e9e856acf7b96f87628e8dc9ad398d6",
+      "kind": "reading",
+      "raw": {
+        "term": "Risse",
+        "quote": "Spatiale Risse (Geometrie verzerrt sich), gravitationale Risse (Boden wird nachgiebig), kinetische Risse (Mauern bewegen sich plötzlich).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        567
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b8d648d0d9489f36e196a1a0a93cfb40844b2535844554b69c1d17439f8ce339",
+      "kind": "reading",
+      "raw": {
+        "term": "Konzept",
+        "quote": "Einzige Zone, in der *neue* Coheronen entstehen können — Emergenz statt Erhaltung.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        586
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4f32e05907ddacde87b9dabb141c9a0cc35d5246681484e4661894a567ac8e78",
+      "kind": "reading",
+      "raw": {
+        "term": "Ästhetik",
+        "quote": "Organisch, vibrant.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        590
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:630044d72b606413de498df449574d4886c4bf9f5d17d0f3ff29c788a7f766b8",
+      "kind": "reading",
+      "raw": {
+        "term": "Sensorik",
+        "quote": "Vielfältige, wechselnde Gerüche (Blüten, Moder, Energieentladungen).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        594
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d772209b18eeba567a1b8d045c76f168e93ac066329c56734b46fceb998ed2a6",
+      "kind": "reading",
+      "raw": {
+        "term": "Logik",
+        "quote": "Generativ, dialektisch.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        598
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f409e3a8321bf9e8e71175989f43f25b78d34374fc333267581c96b5afeb6f25",
+      "kind": "reading",
+      "raw": {
+        "term": "Computational Class",
+        "quote": "Generativ — neue Strukturen entstehen, die nicht aus den Prämissen folgen.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        598
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1b7099eef07b189362bfd81cf5e4b71852d32b2940e91857fc0ee4b9be5e9bdd",
+      "kind": "reading",
+      "raw": {
+        "term": "Somatik",
+        "quote": "Hände öffnen.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        602
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2548cb911d43cc9c32b85767cc8ece24dc6cfcba72964ee2f0cfa1ae044ebcdb",
+      "kind": "reading",
+      "raw": {
+        "term": "Stilebene",
+        "quote": "Ebene 3 — poetisch, atemporal, zeit-fluide.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        606
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94d36db43a3a9153c9ab583089aacbc7eb4d2369c27aec7ce292e94e5cadb158",
+      "kind": "reading",
+      "raw": {
+        "term": "Somatik",
+        "quote": "Hände öffnen. Atem löst sich. Erste Wir-Stimme.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        602
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6d043fcc1625921024adc024a4e23c82997db3c1d7b0fbe0a6dbe2d1879e9168",
+      "kind": "reading",
+      "raw": {
+        "term": "Stilebene",
+        "quote": "Ebene 3 — poetisch, atemporal, zeit-fluide. Sprache wird Musik. Wir-Pronomen tritt auf.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        606
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:adcc29cfe8113278bcfd4904611fbe2c596047dfe274792f47bd89ddd32f8103",
+      "kind": "reading",
+      "raw": {
+        "term": "Risse",
+        "quote": "Hier sind „Risse“ keine Pathologie, sondern Geburten. Sensorische Risse (Isabelle-Trigger) als Synästhesie. Zeitfäden, die parallel verlaufen.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4f8f3ae76bace291d3f0ce770c1906842385df85cf56fee690424a47690981d",
+      "kind": "reading",
+      "raw": {
+        "term": "Der Möglichkeits-Garten",
+        "quote": "überwucherte Ruinenarchitektur. Hier wird die Funktionale Multiplizität als Erlebnis (nicht als Konzept) erreicht.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        618
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:87a3ca4f163d913066e9cfe881983a7675f734d36882c0c445f639ea0c5a6f4e",
+      "kind": "reading",
+      "raw": {
+        "term": "Der Nexus",
+        "quote": "Übergangsort zwischen KW4 und Externer Ebene. Reine Information als Aufenthaltsraum.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        619
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:19f43d80317d57c53c69d37fe0e838f34e2b03fcfdc6d3f2be36601eb999cced",
+      "kind": "reading",
+      "raw": {
+        "term": "Das Mosaik-Herz",
+        "quote": "der Ort, an dem Kael Juna als Teil seiner selbst akzeptiert (Ch34, vor Vortex).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        620
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9ae72e8b1ec774da3680389fbe8eae07de37b76005407f481a1a4bd0dcb691c9",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Überwelt",
+        "quote": "Kein physischer Ort. Operationsraum von AEGIS. Datenstrom-Kathedrale. Hier residieren die zwei Guardians als abstrakte Entitäten, hier fließen die Logs, hier erfolgen die Erasure-Sweeps.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        628
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1d7404bfa3de811f5191f2e1eb94f7d8284153f3ff90e25110869cb6715b096e",
+      "kind": "reading",
+      "raw": {
+        "term": "Externe Ebene",
+        "quote": "Kein „außerhalb der Simulation“, sondern *die andere Seite des Spiegels*. Der Substrat-Durchbruch (Ch36). Die Rekursion des Lesens selbst.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0fc34f27462d4466487f4871cb0089233d8c6d0f0b4c04f08725f94d6025c8f7",
+      "kind": "reading",
+      "raw": {
+        "term": "Risse",
+        "quote": "Risse sind die diegetisch sichtbare Manifestation der Inversion.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        673
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:393e34d4e093161508b155f42f4ee6df504b16bc84b598754b9192cf12684ce8",
+      "kind": "reading",
+      "raw": {
+        "term": "Risse",
+        "quote": "Risse sind *für AEGIS* Symptom (Suppression-Versagen).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        688
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5d1e222527a835187df13d6eeaab7c82afb7bed2940eb5634ac0d7fd03b27c34",
+      "kind": "reading",
+      "raw": {
+        "term": "Risse",
+        "quote": "*Für den Roman* sind sie das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        688
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1ade345c2b1bf17c9c9a9cbc88ede4c6f89f55abc9fecd1d6ff5152232967781",
+      "kind": "reading",
+      "raw": {
+        "term": "Risse",
+        "quote": "Risse sind *für AEGIS* Symptom (Suppression-Versagen).",
+        "stance": "cites"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        688
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a3ed757a2e418eaab6f6d74f69ef90412240175747033705b4195a04c63c1074",
+      "kind": "reading",
+      "raw": {
+        "term": "Risse",
+        "quote": "*Für den Roman* sind sie das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt.",
+        "stance": "cites"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        688
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:316dd5d3b84d6faad6423c93d97be6ca50867b0224373e9a72e1e0990006f914",
+      "kind": "reading",
+      "raw": {
+        "term": "Computational-Class-Progression",
+        "quote": "Die vier Kernwelten korrespondieren mit aufsteigender Komplexitätsklasse.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        696
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6dccf62ccd0870954832e177e88792f22d8c7a05cb0463f7b30f4d5594b76992",
+      "kind": "reading",
+      "raw": {
+        "term": "KW1",
+        "quote": "**KW1 = P.** Polynomial lösbar.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        700
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:80476c30c80402f1329a9cecc4a8fc57d637533ab52a7a959c52d6d2c9ad3f61",
+      "kind": "reading",
+      "raw": {
+        "term": "KW2",
+        "quote": "**KW2 = Parakonsistent.** Widersprüche koexistieren, ohne Trivialismus.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        701
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:921e62c5fab56431719b5169c3ae564307d1d665af8ca557c5bcd67acaf76f46",
+      "kind": "reading",
+      "raw": {
+        "term": "KW3",
+        "quote": "**KW3 = NP-Hard.** Suchräume kombinatorisch.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        702
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ff6cad548df9380ab0b1a8de94ca041b6d131685579d31287cb552d1565ce40f",
+      "kind": "reading",
+      "raw": {
+        "term": "KW4",
+        "quote": "**KW4 = Generativ.** Emergente Strukturen.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        703
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3f4bc63d5895e1359fa77f8cbd3751c03fb912515434944c463e2973db79b270",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "**AEGIS** repräsentiert die *Kohärenztheorie* — Wahrheit als interne Konsistenz, widerspruchsfreie Eingliederung ins System.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        717
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:24a040f2ae0ce3a5ab7caf732cac44bfdd75976466d15755b2db536f16885301",
+      "kind": "reading",
+      "raw": {
+        "term": "System Kael",
+        "quote": "**System Kael** (insbesondere die EPs) repräsentiert die *Korrespondenztheorie* — Wahrheit als Übereinstimmung mit Tatsachen.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        718
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2ba5dc3de640dbb2718b5e426d79897ea1596cb8dfea6548105e28a7d69d6e65",
+      "kind": "reading",
+      "raw": {
+        "term": "Funktionale Multiplizität",
+        "quote": "**Funktionale Multiplizität** ist die Synthese: methodologischer Kohärentismus + ontologischer Realismus (Trennung von Definition und Kriterium).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        719
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:193125937f0a0ea3a81c923f57e65a95f4ade702f240e38015768bfba8fda271",
+      "kind": "reading",
+      "raw": {
+        "term": "transzendentaler Spectator",
+        "quote": "Husserls *transzendentaler Spectator* ist die phänomenologische Schicht der Witness-Funktion.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        727
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c9b7098ffb7010cb8ed3b29e1a605214766e43cf1d88cf1b7c2c3f71d3ebaadb",
+      "kind": "reading",
+      "raw": {
+        "term": "Phänomenales Selbstmodell (PSM)",
+        "quote": "Metzingers *Phänomenales Selbstmodell (PSM)* erklärt die Auflösung des Subjekt-Objekt-Spalts in Ch35: das Ich ist keine Substanz, sondern ein dynamischer Verarbeitungsprozess.",
+        "stance": "cites"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        727
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eb7234ef55617956d8d244ae22797dfb8c16df4f2a7aca6e55398fd57bbb7656",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheia",
+        "quote": "Der Roman operiert mit *Dialetheia* — wahren Widersprüchen.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        731
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:725a4abc798f97305c435257eae94a13342dc8d32399d6842da9fb311dd47ca8",
+      "kind": "reading",
+      "raw": {
+        "term": "lebende Dialetheia",
+        "quote": "Im Vortex-Beat 3 ist die Stille eine *lebende Dialetheia*: gleichzeitig wahr und falsch, gleichzeitig real und nicht-real.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        731
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4dba47edecb9a44bf6371f1e8305622599cff870fbcc17681eba6e9a066d038c",
+      "kind": "reading",
+      "raw": {
+        "term": "autopoietisches, operativ geschlossenes System",
+        "quote": "AEGIS ist ein autopoietisches, operativ geschlossenes System.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        166,
+        735
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bf413fbb766180f96315b4f174d491d91b86b856ace38c3b522f536c43608265",
+      "kind": "reading",
+      "raw": {
+        "term": "Dasein",
+        "quote": "Heideggers *Dasein* als Sein-zum-Tode wird in den Risse-Episoden zur sinnlichen Erfahrung.",
+        "stance": "cites"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        739
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2deb333ca11be20335f43b406d0fd892ab7bbbf38a2b12c7d5fa1e5752aedc2e",
+      "kind": "reading",
+      "raw": {
+        "term": "Grenzsituationen",
+        "quote": "Jaspers' *Grenzsituationen* sind die Katalysatoren der Erkenntnisgenese (Ch11, Ch33).",
+        "stance": "cites"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        739
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:332d7c4b2041819df502d52c9f860f5624113e7667583a674e454937840e85b2",
+      "kind": "reading",
+      "raw": {
+        "term": "Gödel-Unvollständigkeit",
+        "quote": "**Gödel-Unvollständigkeit** — Kael wird zum lebenden Gödel-Satz für AEGIS.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        743
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8b48d24644b402d6fdf82cdd7e773a5f6f954351e2cfaf14eefbe51d8edf8180",
+      "kind": "reading",
+      "raw": {
+        "term": "Halteproblem",
+        "quote": "**Halteproblem (Turing)** — KW2-Eigenschaft (Reparaturalgorithmen, die nicht terminieren).",
+        "stance": "cites"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        744
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:db57c24a151df0397b372dc85a867acf270f6bad5c9f72007069befdeb9b7793",
+      "kind": "reading",
+      "raw": {
+        "term": "Bekenstein-Schranke",
+        "quote": "**Bekenstein-Schranke** — Informationsgrenze pro Raumbereich; KW3-Strukturphysik.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        745
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:109ce6448bf02e88b247d40ad7e61d0a16fafce823b19073ae96d61a4ba3f95d",
+      "kind": "reading",
+      "raw": {
+        "term": "Chaitin-Konstante Ω",
+        "quote": "**Chaitin-Konstante Ω** — Junas Algorithmus-Irreduzibilität.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        746
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b876b88596ca5d58be6a7404775fb5f492e0ad583cc07d780ef1be33942ab2db",
+      "kind": "reading",
+      "raw": {
+        "term": "Monstrous Moonshine + Leech-Lattice + VOA + Z₂-Orbifold",
+        "quote": "**Monstrous Moonshine + Leech-Lattice + VOA + Z₂-Orbifold** — Moonshine-Link-Mechanik.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        747
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:947aaad452ccbf0dd3634dd8ffd3fa786cf03b04e06e7797e2c98f2a4a3a99b0",
+      "kind": "reading",
+      "raw": {
+        "term": "Lesersteuerung",
+        "quote": "Max. 1 Konzept pro Szene, durch Erfahrung gezeigt — nie erklärt.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        757
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:07d2cc0097e0fd09544181eafeb3e873717a5671bb1fb769d98a86f387f4b294",
+      "kind": "reading",
+      "raw": {
+        "term": "Somatischer Filter",
+        "quote": "Landauer wird zu Hitze und Ozon, *nie* zu Gleichungen.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        759
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4064ae81a186b6fde67640d340fbc1299291a687c1f0fafafb04043e5d080895",
+      "kind": "reading",
+      "raw": {
+        "term": "Reader-as-Substrate",
+        "quote": "Der Leser ist nicht passiver Empfänger, sondern *operative Substratfunktion*: durch Leerstellen, widersprüchliche Fußnoten, Temporal Scrambling und unzuverlässige Erzähler füllt er K₁-Reparaturarbeit.",
+        "stance": "cites"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        775
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a9179a99cceb9c0342af3254f2945ea8dabd20a7f7111d7d4d514c03934e61d9",
+      "kind": "reading",
+      "raw": {
+        "term": "Erzählung",
+        "quote": "Die Erzählung selbst ist Kohärenzprotokoll — nicht durch Lehre, sondern durch Form.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        775
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8037641a65400bcdabf03681c50f1fc30c3bc3bc7b75095224e725ab8b0d0d98",
+      "kind": "reading",
+      "raw": {
+        "term": "Genre-Modus",
+        "quote": "Hard-SF / Philosophical Horror / Psychological Thriller in dieser Reihenfolge.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        793
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6a891085b07461d3470ad5df70f4ef5bf2df84e681c0558c0fc95e06bb0ff221",
+      "kind": "reading",
+      "raw": {
+        "term": "Vortex-Inversion",
+        "quote": "Der mechanische Pivot der gesamten Konstruktion.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        801
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:911e60d6f9d38728e32f94f69865fed2493f4fba3148f26b397c3fee2bdbcc61",
+      "kind": "reading",
+      "raw": {
+        "term": "Vortex-Inversion",
+        "quote": "Storyform-Übergang B → A.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        312,
+        801
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:073a4ca1d3759744c9ddaa5d8a9d7fc17b9c77981cc6d4197247a026a0395438",
+      "kind": "reading",
+      "raw": {
+        "term": "Nichts-Rauschen",
+        "quote": "Nichts-Rauschen wird absolute Stille.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        813
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7cf8e3850ff51cbaf040e02bd2bbecb039404032d07781f73f1736046875650f",
+      "kind": "reading",
+      "raw": {
+        "term": "Stille",
+        "quote": "Stille = lebende Dialetheia (sie ist und ist nicht).",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        813
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:16987e22fd59c40220026c69c7d53c937687f7b7857b489c76bcb10e1a340d25",
+      "kind": "reading",
+      "raw": {
+        "term": "Landauer-Wärme",
+        "quote": "Landauer-Wärme spiked unmöglich.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        817
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f77c825c300d99a18fb7f4973a27faffc56a2994b3eadacb48a59455199cc489",
+      "kind": "reading",
+      "raw": {
+        "term": "Mnemosyne-Archipel",
+        "quote": "offen ist das primäre Bild — Inselgruppe, Server-Halle, Memorialarchitektur, Zirbeldrüse",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        825
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d118b39e065465b02be4ca5af81e7f73a99fdc2c083071c5df877d8c0a06b25",
+      "kind": "reading",
+      "raw": {
+        "term": "Driver-Pivot mechanisch",
+        "quote": "Der Pivot ist eine *Entscheidung*, die alle vorherigen Aktionen rückwirkend in Decisions transformiert",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        829
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ee8c578b10b1e74bd84bf17bdc1c720237ffaf3e36cacafd3ac19f54ab748470",
+      "kind": "reading",
+      "raw": {
+        "term": "Optionlock (A)",
+        "quote": "schrumpfender Optionspool — welche Optionen verschwinden, sichtbar wo?",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        837
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9470f10c8397d7ba8db10201512b79a5e9060c7662a75fa35b9c3a6d186882a1",
+      "kind": "reading",
+      "raw": {
+        "term": "Timelock (B)",
+        "quote": "Erasure-Frequenz erreicht kritischen Schwellwert",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        838
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e0826b43453d55914d5b6e2307c714ae351f5e804ed334a0cd449e448539e22f",
+      "kind": "reading",
+      "raw": {
+        "term": "Ouroboros-Struktur",
+        "quote": "Das letzte Bild von Ch39 ist identisch mit dem ersten Bild von Ch1 — mit *einer einzigen Inversionsoperation*: was am Anfang Trennung bedeutete, bedeutet am Ende Verbindung",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        847
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0204b957f16dd02cc4cdd90185508ac121090eb8453d411642ecbef8c2e3219b",
+      "kind": "reading",
+      "raw": {
+        "term": "Resolution-Doppelpfad",
+        "quote": "*Beides kombinieren*: Der Kreis schließt sich, und trotzdem heilt der Schmerz nicht durch Verstehen allein",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        861
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9e71dd536bc636a9587d0eee97addd3361aebcd81fd9103f5eb48a1f72c98d04",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist tragisch, nicht böse.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        873
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:38c6e372ea3e741c59c5a90053f72e0638f0479388b7b06af78b2354fe97752f",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Alters",
+        "quote": "Die Alters sind diagnostisch konkret, nicht symbolisch.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        874
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:efa9e927df5c6447487f2970ba3ab1e112345951d629c3b292430c823284113e",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael/Juna",
+        "quote": "Kael/Juna ist physikalische Tatsache (Coheron), nicht emotionale Bewegung.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        876
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fa000fefe9c5b4c0ca77d37488945d07e9598b62d7aa4893820aea7812844a11",
+      "kind": "reading",
+      "raw": {
+        "term": "Funktionale Multiplizität",
+        "quote": "Funktionale Multiplizität ist kein Heilwerden.",
+        "stance": "denies"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        877
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6c93331bb4181bda869d554abac0bf0de1209c5802cd16d9533d059654d99291",
+      "kind": "reading",
+      "raw": {
+        "term": "Moonshine-Link-Boundary",
+        "quote": "Vorgeschlagen: nur MI/Witness, keine Daten/Materie.",
+        "stance": "hedges"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        891
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1b93af769769623b8acbd3673bb97fb147bead73c75d1c043235a78f135507da",
+      "kind": "reading",
+      "raw": {
+        "term": "Junas Erscheinungsmodi",
+        "quote": "Telefon-Stille als Anker steht.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        892
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d5d0031ffd40ffe6c6911f7d8e1f1d305a0d8823bca8f8928b82c5be6a399e57",
+      "kind": "reading",
+      "raw": {
+        "term": "Lesersteuerung supreme",
+        "quote": "Eine Szene hat einen dominanten Eindruck.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        908
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3dc2f26cc728b17ee47b0dd587a4b0c1905ad2a371f252ff1cb5716fefc9b306",
+      "kind": "reading",
+      "raw": {
+        "term": "Somatischer Filter",
+        "quote": "Somatischer Filter zwingend.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        910
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0c29efc63367103d82635eae5738347519e45c6cee893c4822f6710a8981b9ce",
+      "kind": "reading",
+      "raw": {
+        "term": "Dissoziation",
+        "quote": "Dissoziation = Amnesie-Terror",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        912
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d60b4accd5de36455ab73d1a36d8f235cc5efeb0bf3fea03523d5d18cc08f04a",
+      "kind": "reading",
+      "raw": {
+        "term": "Egan-Falle",
+        "quote": "Theorie ohne emotionale Konsequenz = Warnsignal.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        760,
+        913
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8dabc413ab054dcabb97a91da77a766738695e105fceb3b75e47a40f2512a05d",
+      "kind": "reading",
+      "raw": {
+        "term": "Chiang-Standard",
+        "quote": "ein Konzept pro Szene, in Charakterlogik integriert.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        914
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9e12dc9db6f69aa1bf00bdc1168fb2e44e6f38db7203532a946add7659cfbced",
+      "kind": "reading",
+      "raw": {
+        "term": "Narrative Ebene",
+        "quote": "was passiert, wer fühlt was, wer macht was.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        930
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5e9be5fdd4f3af8aea35566532fa1c9bb3791a9505824fa5ae7b5055f6785959",
+      "kind": "reading",
+      "raw": {
+        "term": "Systemische Ebene",
+        "quote": "was tut AEGIS strukturell? Welcher Protokoll-Code läuft?",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        931
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f09ba1a27d21c7db54c7059983cd10e28252fe23f3cd6812f160804505b0c491",
+      "kind": "reading",
+      "raw": {
+        "term": "Wissenschaftliche Ebene",
+        "quote": "welche philosophische/physikalische Lehre wird hier konkret?",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        932
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:20502deb5bdf537459a7f3a6c8d4d50403f4c9fbca17548eaaf8afcc527c29d6",
+      "kind": "reading",
+      "raw": {
+        "term": "DKT-Ebene",
+        "quote": "Coheron/Erason-Status, η-Bewegung, Hitze-Bilanz.",
+        "stance": "asserts"
+      },
+      "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+      "template": "TermDefinitions",
+      "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        933
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

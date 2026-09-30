@@ -22,6 +22,17 @@ Write accepted material in the existing reading format below. Proposals never
 become links or verified facts automatically. Return template failure examples
 to `hyperextract-template-agent`; do not change its template or run files.
 
+When the brief carries a `Plan/runs/<slug>/crossdoc.md`, its **Related, not named**
+list is yours to judge: open each line with `read.py <its document> --from N --to N`
+and label it, `python3 scripts/bm25rel.py label <id> tension|parallel|same|noise
+--by "wiki-reader (<model>)" --note "<why, one line>"`. Judge what the *line says*,
+not that it shares words: a tension is two things held against each other, as
+„Schweigen“ against „Stille“; a parallel is the same move made in another place;
+`same` is one thing under two names; `noise` is a coincidence. A verdict is
+recorded with your name and is never a reading; a relation you judged `tension` or
+`same` is a candidate for a reading on the page, and you write that reading in
+the usual format only if the line stands as a quotation for the page's subject.
+
 ## What you are given
 
 A batch name, the documents (slug, date, prose name), the pages of your group, and
@@ -61,6 +72,8 @@ stops the whole batch. Keep helpers in your own scratch folder.
 
 ## Rules
 
+**Before your first quotation, read `.agents/skills/reader-tools/references/failures.md`**: the failures measured in this repository, the check that catches each, and what to write instead.
+
 1. Quote verbatim and write `^[?]` after the quotation — code places the line. Check
    the words first with `python3 scripts/read.py <slug> --find "<words>"`; if they
    stand on several lines and you mean a later one, write `^[?L<n>]` with its line.
@@ -85,3 +98,8 @@ stops the whole batch. Keep helpers in your own scratch folder.
    with the line or the count>".
 6. Report per page: the file written or „not read", lines cited, and anything that
    looks like a new conflict (never create a record).
+7. A page the brief does not list, that the document speaks to: name it in the report
+   with the lines, and write no file for it — the coordinator decides. (2026-09-30: the
+   lookup matches only the surfaces the index holds, and a reader that named
+   `chaitin-konstante`, `mnemosyne-server-architektur` and `plot` in its report found
+   three pages the brief had missed; they were written from that report.)

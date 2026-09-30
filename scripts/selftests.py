@@ -36,9 +36,11 @@ KINDS = {
 
 # (name, interpreter, arguments). "dspy" means .venv-dspy.
 SUITES = [
+    ("claude usage: failed calls included", "std", ["scripts/claude_cli.py", "totals-selftest"]),
     ("knowledge init: plans and failures", "std", ["scripts/knowledge.py", "selftest"]),
     ("reading extraction: provenance and placement", "std", ["scripts/reading_extract.py", "selftest"]),
     ("reading extraction: real HE fixture", "he", ["scripts/reading_extract.py", "native-selftest"]),
+    ("HyperExtract through claude -p: offline", "he", ["scripts/he_claude.py", "selftest"]),
     ("quotes, find, fold", "std", ["scripts/selftest.py"]),
     ("entities matcher", "std", ["scripts/entities.py", "selftest"]),
     ("overview: names, pairs, case", "std", ["scripts/overview.py", "selftest"]),
@@ -71,6 +73,13 @@ SUITES = [
     ("digest: what a reader needs of a page", "std", ["scripts/digest.py", "selftest"]),
     ("readings: placed by code, refused, in order", "std", ["scripts/readings.py", "selftest"]),
     ("census: drafted by code, checked", "std", ["scripts/census.py", "selftest"]),
+    ("record: derived from the pages, checked", "std", ["scripts/record.py", "selftest"]),
+    ("brief: drafted from the lookup, marks checked", "std", ["scripts/brief.py", "selftest"]),
+    ("bm25 relation: found, refused, judged, fitted", "std", ["scripts/bm25rel.py", "selftest"]),
+    ("crossdoc: the groups apart, counts not ranks", "std", ["scripts/crossdoc.py", "selftest"]),
+    ("claims: a sentence beside its line, cells checked", "std", ["scripts/claims.py", "selftest"]),
+    ("graph lab: weights, folds, paired comparison", "std", ["scripts/graphlab.py", "selftest"]),
+    ("hyperextract graph: rows, footings, cue rule, prior", "std", ["scripts/hegraph.py", "selftest"]),
     ("reader lab: the clean reader's gate", "std",
      ["Plan/runs/reader-lab-2026-09-30/clean_reader.py", "selftest"]),
     ("qmd coverage patterns", "std", ["scripts/qmd_coverage.py", "--selftest"]),

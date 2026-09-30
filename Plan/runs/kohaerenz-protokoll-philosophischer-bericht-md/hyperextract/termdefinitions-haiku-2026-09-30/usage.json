@@ -1,0 +1,12 @@
+{
+  "document": "kohaerenz-protokoll-philosophischer-bericht-md",
+  "template": "TermDefinitions.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 34,
+  "failed_calls": 0,
+  "seconds": 183.9,
+  "input_tokens": 175373,
+  "output_tokens": 12836,
+  "cost_usd": 0.4148,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

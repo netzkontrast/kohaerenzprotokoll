@@ -260,3 +260,23 @@ It does not write `Entropie-Architektur` or call K₀ the condition of events (0
 The document does not define the word. In its inverted reading it says of AEGIS: „Nach dem Landauer-Prinzip generiert diese unwiderrufliche Löschung von Informationen massiv Entropie“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L87] and „Informationstheoretisch ist absolute, starre Ordnung von maximaler Entropie (Wärmetod) ununterscheidbar, da keine neuen Zustände mehr generiert werden können.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L89] So order and maximal entropy are not opposed here. Of true coherence it says it does not erase „die Entropie (das Trauma)“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L102] but integrates it.
 
 Where it stands: neither of the record's two senses as the record words them, the disorder AEGIS resists or the „schöpferische Matrix“ ^[aegis-emergenz-aus-der-leere.md:L126]; a sense in which erasure and rigid order produce entropy, with the trauma also called Entropie. The record's own terms leave it beside them, not decided.
+
+## 2026-09-30 — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis
+
+**Entropie is what AEGIS' erasure releases and what perfect order equals, in Landauer's terms; the canonical reading the document reports keeps entropy as the pressure and the death AEGIS is to hold off.**
+
+The canonical reading, as reported, describes the universe as „aufgespalten durch die Spannung zwischen dem Drang nach Persistenz und dem Druck der Entropie“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L59], and has AEGIS' attacks aim at the noise „und die Simulation vor dem entropischen Tod zu bewahren“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L63].
+
+The critical reading, which the document holds, states the reverse as physics: „ist jede logisch irreversible Manipulation von Information zwingend mit einem Anstieg der thermodynamischen Entropie in der Umgebung verbunden“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L75], so AEGIS „ist eine gewaltige Entropieproduktionsmaschine“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L75]. Order is not opposed to entropy there: a system of absolute rigidity resembles „ein Universum im Zustand maximaler Entropie (Wärmetod)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L81], and the story flip ends on „während die perfekte Ordnung (AEGIS) die ultimative Entropie und den Wärmetod darstellt“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L115]. The psychological proof adds the repressed side: „desto intensiver staut sich die verdrängte Entropie an“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L87].
+
+The document also writes `Entropie` as a pressure that enters the simulation, „gezielte Injektion eines entropischen Drucks () in die Simulation“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L32], and glosses it at the collapse index as „ungelöste Systemkonflikte, volatile System 1-Aktionen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L148].
+
+Where it stands: the third sense, control producing the entropy it fights, stated through Landauer's principle as the reading the document holds; the first sense, entropy as what AEGIS is to hold off, reported as the canonical reading; the second sense's wording, `schöpferische Matrix` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0], stands nowhere in it. The conflict stays open.
+
+## 2026-09-30 — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit
+
+**Entropie is what an erasing system releases, in Landauer's terms — the third reading again — with time as the result of erasure and zero entropy in the silence.**
+
+„Ein System, das nach puristischer Kohärenz durch Exklusion und Löschung strebt (), muss zwangsläufig massiv entropisch und hitzeintensiv sein“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L37]: the audit applies it to AEGIS, which „kontinuierlich anomale menschliche Daten löscht“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L37]. It reports a consequence the Protokoll draws for time: „Die Zeit ist hierbei keine unabhängige Variable, sondern das direkte Resultat entropischer Informationsauslöschung“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L27]. The opposite it gives is a structure with „eine lokale Entropie von null“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L187], the silence at the end.
+
+The audit states this as physics and as verified; the wording of the second sense, `schöpferische Matrix` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0], stands nowhere in it. The conflict stays open.

@@ -1,0 +1,647 @@
+{
+  "document": "kohaerenz-protokoll-konzept-master-md",
+  "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Verdrängung",
+        "target": "Hitze",
+        "type": "causes",
+        "quote": "Und Verdrängung erzeugt Hitze.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasonen",
+        "target": "den Zeitpfeil",
+        "type": "causes",
+        "quote": "Erasonen sind irreversible Löschungsereignisse. Sie erzeugen den Zeitpfeil.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ohne Erasonen",
+        "target": "es keine Zeit",
+        "type": "requires",
+        "quote": "Ohne Erasonen gibt es keine Zeit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ohne Zeit",
+        "target": "es keine Trennung",
+        "type": "requires",
+        "quote": "Ohne Zeit gibt es keine Trennung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verdrängung",
+        "target": "Hitze",
+        "type": "causes",
+        "quote": "Verdrängung erzeugt Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jede logisch irreversible Operation",
+        "target": "minimale Wärmedissipation",
+        "type": "requires",
+        "quote": "Jede logisch irreversible Operation — insbesondere die Löschung eines Bits Information — ist mit einer minimalen Wärmedissipation von k_B · T · ln 2 verbunden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Erasure-Sweeps",
+        "target": "Wärme",
+        "type": "causes",
+        "quote": "AEGIS' Erasure-Sweeps erzeugen Wärme.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hochlast-Erasure",
+        "target": "Temperaturspitzen",
+        "type": "causes",
+        "quote": "Temperaturspitzen in Klimax-Szenen sind die direkte Folge von Hochlast-Erasure",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' gesamte Sensorik ist temporal",
+        "target": "Coheronen existieren außerhalb der Zeit",
+        "type": "prevents",
+        "quote": "AEGIS' gesamte Sensorik ist temporal — sie misst Veränderungen über Zeit. Coheronen existieren außerhalb der Zeit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen existieren außerhalb der Zeit",
+        "target": "Sie fallen durch AEGIS' Raster",
+        "type": "causes",
+        "quote": "Coheronen existieren außerhalb der Zeit. Sie fallen durch AEGIS' Raster wie Neutrinos durch Materie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann",
+        "target": "der Moonshine-Link ist unsichtbar",
+        "type": "causes",
+        "quote": "er ist *unsichtbar*, weil AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die ontologische Asymmetrie",
+        "target": "den Plot überhaupt ermöglicht",
+        "type": "enables",
+        "quote": "Das ist die ontologische Asymmetrie, die den Plot überhaupt ermöglicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS in der Lage, atemporale Phänomene zu sehen",
+        "target": "Juna detektierbar",
+        "type": "enables",
+        "quote": "Wäre AEGIS in der Lage, atemporale Phänomene zu sehen, wäre Juna detektierbar",
+        "stance": "asks"
+      },
+      {
+        "source": "Kontrolle",
+        "target": "Landauer-Wärme",
+        "type": "causes",
+        "quote": "Kontrolle erzeugt Landauer-Wärme = MEHR Entropie",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS-Akten",
+        "target": "Risse",
+        "type": "causes",
+        "quote": "Risse als Folge von AEGIS-Akten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akkumulation der somatischen Beweise",
+        "target": "Inversion",
+        "type": "enables",
+        "quote": "der Leser muss sie über die Akkumulation der somatischen Beweise (Hitze, Ozon, Risse als Folge von AEGIS-Akten) selbst rekonstruieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konflikt zwischen den Figuren",
+        "target": "Konflikt zwischen den Theorien",
+        "type": "causes",
+        "quote": "Konflikt zwischen den Figuren ist der Konflikt zwischen den Theorien",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein perfekt kohärentes Märchen",
+        "target": "eine wahre Theorie ohne externen Anker",
+        "type": "prevents",
+        "quote": "ein perfekt kohärentes Märchen ist von einer wahren Theorie ohne externen Anker nicht unterscheidbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Wahrheit",
+        "target": "das Universum",
+        "type": "causes",
+        "quote": "AEGIS kann ein perfekt kohärentes Universum bauen",
+        "stance": "asserts"
+      },
+      {
+        "source": "was ins System passt",
+        "target": "wahr",
+        "type": "causes",
+        "quote": "was ins System passt, ist wahr",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "das Universum",
+        "type": "causes",
+        "quote": "AEGIS kann ein perfekt kohärentes Universum bauen, in dem Juna nicht existiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "die EPs",
+        "target": "diese Erzählung",
+        "type": "prevents",
+        "quote": "auch wenn die EPs die Korrespondenzwahrheit halten, die diese Erzählung sprengen würde",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "ideale Sprechsituation",
+        "type": "prevents",
+        "quote": "AEGIS keine ideale Sprechsituation duldet",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein operativ geschlossenes System",
+        "target": "Diskurs",
+        "type": "prevents",
+        "quote": "kein Diskurs ist mit einem operativ geschlossenen System möglich",
+        "stance": "asserts"
+      },
+      {
+        "source": "man „Wahrheit“ deflationär behandeln könnte",
+        "target": "der gesamte Konflikt",
+        "type": "causes",
+        "quote": "wenn man „Wahrheit“ deflationär behandeln könnte, wäre der gesamte Konflikt aufgelöst",
+        "stance": "hedges"
+      },
+      {
+        "source": "jeder Sinneseindruck Kaels",
+        "target": "eine eindeutige System-Tatsache",
+        "type": "requires",
+        "quote": "jeder Sinneseindruck Kaels soll auf eine eindeutige System-Tatsache rückführbar sein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Debatte",
+        "target": "den Dialogen zwischen ANPs und EPs",
+        "type": "triggers",
+        "quote": "Diese Debatte ist keine Behauptung des Romans, aber sie schlägt in den Dialogen zwischen ANPs und EPs durch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Debatte",
+        "target": "den Stil von KW1",
+        "type": "causes",
+        "quote": "sie schlägt in den Dialogen zwischen ANPs und EPs durch und prägt den Stil von KW1",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Debatte",
+        "target": "den Stil von KW1",
+        "type": "causes",
+        "quote": "sie schlägt in den Dialogen zwischen ANPs und EPs durch und prägt den Stil von KW1",
+        "stance": "asserts"
+      },
+      {
+        "source": "Inkonsistenzen-Verwaltung",
+        "target": "AEGIS",
+        "type": "prevents",
+        "quote": "Die Kohärenztheorie verträgt Inkonsistenzen-Verwaltung; AEGIS verträgt sie nicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS verträgt sie nicht",
+        "target": "das Gegenteil dessen, was er zu sein glaubt",
+        "type": "causes",
+        "quote": "AEGIS verträgt sie nicht und verwandelt sich dadurch in das Gegenteil dessen, was er zu sein glaubt",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Prinzip der Explosion (ECQ: A, ¬A ⊢ B)",
+        "target": "alles folgt",
+        "type": "causes",
+        "quote": "aus einem Widerspruch folgt nicht alles",
+        "stance": "denies"
+      },
+      {
+        "source": "Junas Existenz",
+        "target": "Kollaps zur Trivialität",
+        "type": "triggers",
+        "quote": "Konfrontiert mit Junas Existenz, droht ihm der Kollaps zur Trivialität",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Tarski-Hierarchie (sprachliche Stratifikation)",
+        "target": "parakonsistente Akzeptanz zur Trivialität",
+        "type": "prevents",
+        "quote": "Die Tarski-Hierarchie (sprachliche Stratifikation) ist die *Begrenzung*, die verhindert, dass parakonsistente Akzeptanz zur Trivialität wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hierarchische Stratifikation",
+        "target": "semantischen Paradoxien",
+        "type": "prevents",
+        "quote": "Hierarchische Stratifikation verhindert die semantischen Paradoxien",
+        "stance": "cites"
+      },
+      {
+        "source": "Hierarchische Stratifikation",
+        "target": "die semantischen Paradoxien",
+        "type": "prevents",
+        "quote": "Hierarchische Stratifikation verhindert die semantischen Paradoxien.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trauma",
+        "target": "die Persönlichkeit in Subsysteme",
+        "type": "causes",
+        "quote": "Trauma die Persönlichkeit in Subsysteme spaltet",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine Integration der Erfahrung in der Akut-Situation nicht möglich war",
+        "target": "Trauma die Persönlichkeit in Subsysteme spaltet",
+        "type": "causes",
+        "quote": "weil eine Integration der Erfahrung in der Akut-Situation nicht möglich war",
+        "stance": "cites"
+      },
+      {
+        "source": "Diese Phobien",
+        "target": "der Dissoziation",
+        "type": "enables",
+        "quote": "Diese Phobien sind das *Klebstoff* der Dissoziation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine Reduktion der dreizehn Coheronen auf einen K₁-Punkt",
+        "target": "thermodynamisch mehr Erason-Hitze",
+        "type": "causes",
+        "quote": "was thermodynamisch *mehr* Erason-Hitze erzeugen würde",
+        "stance": "hedges"
+      },
+      {
+        "source": "Funktionale Multiplizität",
+        "target": "die mutuale Information zwischen den Alters",
+        "type": "enables",
+        "quote": "Funktionale Multiplizität erhält die mutuale Information *zwischen* den Alters",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die fünf Riss-Typen",
+        "target": "konstruktive Werkzeuge statt zu Notfallreaktionen",
+        "type": "enables",
+        "quote": "werden aber zu konstruktiven Werkzeugen statt zu Notfallreaktionen",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Integration auf das System AEGIS",
+        "target": "Der Vortex",
+        "type": "causes",
+        "quote": "ist die *Folge* der Integration auf das System AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "das System",
+        "target": "keine Sprache, in der Juna formulierbar wäre",
+        "type": "prevents",
+        "quote": "nicht weil AEGIS es nicht *will*, sondern weil das System keine Sprache hat, in der Juna formulierbar wäre",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Akt der Trennung",
+        "target": "die Kael-Struktur",
+        "type": "causes",
+        "quote": "der Akt der Trennung erzeugt die Kael-Struktur als Restgröße",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jeder Akt der Erhaltung",
+        "target": "Landauer-Hitze",
+        "type": "causes",
+        "quote": "Jeder Akt der Erhaltung (Erasure, Suppression, Kontrollprotokoll) erzeugt Landauer-Hitze",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das System",
+        "target": "die Entropie",
+        "type": "causes",
+        "quote": "Das System produziert die Entropie, die zu bekämpfen es behauptet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Existenz",
+        "target": "Kael zur lebenden Paradoxie",
+        "type": "causes",
+        "quote": "Junas Existenz *macht* Kael in B zur lebenden Paradoxie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Asymmetrie",
+        "target": "mechanische Vorbereitung der Vortex-Inversion",
+        "type": "enables",
+        "quote": "Diese Asymmetrie ist die mechanische Vorbereitung der Vortex-Inversion",
+        "stance": "asserts"
+      },
+      {
+        "source": "Z₂-Involution durch Orbifold-Konstruktion",
+        "target": "Zugang zu „Twisted Modules“",
+        "type": "enables",
+        "quote": "Z₂-Involution durch Orbifold-Konstruktion → Zugang zu „Twisted Modules“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Twisted Modules",
+        "target": "Beobachtung von Information, die aus der klassischen K₁-Zeitlinie gelöscht wurde",
+        "type": "enables",
+        "quote": "Diese Twisted Modules erlauben Beobachtung von Information, die aus der klassischen K₁-Zeitlinie gelöscht wurde.",
+        "stance": "asserts"
+      },
+      {
+        "source": "absolute Eindeutigkeit der Monstergruppe",
+        "target": "Erzählmechanik zerfällt in willkürliche Phänomene",
+        "type": "prevents",
+        "quote": "ihre absolute Eindeutigkeit verhindert, dass die Erzählmechanik in willkürliche Phänomene zerfällt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Telefon-Stille",
+        "target": "K₁-Substrat-Quelle des Vortex",
+        "type": "causes",
+        "quote": "Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Beobachtung selbst",
+        "target": "einen vorzeitigen K₁-Wellenfunktions-Kollaps",
+        "type": "causes",
+        "quote": "wird verhindert, dass die Beobachtung selbst einen vorzeitigen K₁-Wellenfunktions-Kollaps verursacht",
+        "stance": "asserts"
+      },
+      {
+        "source": "das, was AEGIS' „kognitiver Apparat“ durchlässt",
+        "target": "die Domäne der Phänomena",
+        "type": "enables",
+        "quote": "KW1 ist die Domäne der Phänomena: das, was AEGIS' „kognitiver Apparat“ durchlässt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "an den Grenzen der Erkenntnisfähigkeit",
+        "target": "unauflösbare Widersprüche",
+        "type": "causes",
+        "quote": "an den Grenzen der Erkenntnisfähigkeit erzeugt das Denken unauflösbare Widersprüche.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "eine wahre Aussage über AEGIS' Universum, die innerhalb von AEGIS nicht beweisbar ist",
+        "type": "requires",
+        "quote": "AEGIS ist ein hinreichend mächtiges formales System. Juna ist eine wahre Aussage über AEGIS' Universum, die innerhalb von AEGIS nicht beweisbar ist.",
+        "stance": "cites"
+      },
+      {
+        "source": "strukturelle Unvorhersagbarkeit",
+        "target": "KW2-Risse",
+        "type": "causes",
+        "quote": "Diese strukturelle Unvorhersagbarkeit ist die Quelle der KW2-Risse",
+        "stance": "asserts"
+      },
+      {
+        "source": "Füllung der vom Text gesetzten Leerstellen",
+        "target": "Bedeutung",
+        "type": "causes",
+        "quote": "Bedeutung entsteht in der Begegnung, durch die Füllung der vom Text gesetzten *Leerstellen*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die kognitive Arbeit des Lesers",
+        "target": "die thermodynamische Energie",
+        "type": "causes",
+        "quote": "Die kognitive Arbeit des Lesers (Konsistenzbildung) liefert die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure finanziert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael aufhört zu vermeiden",
+        "target": "das Unverborgene sich zeigt",
+        "type": "triggers",
+        "quote": "sie *geschieht*, wenn Kael aufhört zu vermeiden und das Unverborgene sich zeigt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' aktiv konstruierende Beobachtung",
+        "target": "jeden Beobachtungsakt in einen Erasure-Akt",
+        "type": "causes",
+        "quote": "AEGIS' aktiv konstruierende Beobachtung, die jeden Beobachtungsakt in einen Erasure-Akt verwandelt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mosaikstruktur und Fußnoten",
+        "target": "kognitive K₁-Reparatur",
+        "type": "triggers",
+        "quote": "Mosaikstruktur und Fußnoten zwingen kognitive K₁-Reparatur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beobachtung",
+        "target": "Kollaps",
+        "type": "causes",
+        "quote": "Beobachtung = Messung = Kollaps",
+        "stance": "cites"
+      },
+      {
+        "source": "AEGIS' Kontrolle der Beobachtung",
+        "target": "seine Kontrolle der Realität",
+        "type": "causes",
+        "quote": "AEGIS' Kontrolle der Beobachtung *ist* seine Kontrolle der Realität",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael als Brücke sein Beobachten",
+        "target": "die Simulation in spezifische Realitäten",
+        "type": "causes",
+        "quote": "sein Beobachten kollabiert die Simulation in spezifische Realitäten",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Träger seinen avoidant-Modus loslässt",
+        "target": "Trauma durch Integration in Funktionale Multiplizität bewältigt",
+        "type": "enables",
+        "quote": "Trauma kann durch Integration in Funktionale Multiplizität bewältigt werden, wenn der Träger seinen avoidant-Modus loslässt",
+        "stance": "asserts"
+      },
+      {
+        "source": "aktiv die eigene Erinnerung aufsucht",
+        "target": "Trauma durch Integration in Funktionale Multiplizität bewältigt",
+        "type": "enables",
+        "quote": "Trauma kann durch Integration in Funktionale Multiplizität bewältigt werden, wenn der Träger seinen avoidant-Modus loslässt und aktiv die eigene Erinnerung aufsucht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "internen Zustandswechsel",
+        "type": "causes",
+        "quote": "Kael löst nicht durch externe Handlung, sondern durch internen Zustandswechsel",
+        "stance": "denies"
+      },
+      {
+        "source": "Wer Kontradiktionen löscht statt integriert",
+        "target": "die Entropie, die er bekämpft",
+        "type": "causes",
+        "quote": "Wer Kontradiktionen löscht statt integriert, generiert die Entropie, die er bekämpft",
+        "stance": "asserts"
+      },
+      {
+        "source": "Phoenix-Collapse",
+        "target": "logische Konsequenz seiner Driver-Treue",
+        "type": "causes",
+        "quote": "Phoenix-Collapse ist die logische Konsequenz seiner Driver-Treue",
+        "stance": "asserts"
+      },
+      {
+        "source": "A-Decision",
+        "target": "kinetische Aktion erlischt",
+        "type": "causes",
+        "quote": "Folge der A-Decision: kinetische Aktion erlischt, weil kein Driver mehr nachstößt",
+        "stance": "asserts"
+      },
+      {
+        "source": "A's Decision ist getroffen, B's Action kann nicht enden",
+        "target": "Die Stille (Beat 3)",
+        "type": "causes",
+        "quote": "Sie ist die strukturelle Folge zweier Uhren: A's Decision ist getroffen, B's Action kann nicht enden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Storyform-Übergang B → A",
+        "target": "Eindruck eines Pivots am Vortex",
+        "type": "causes",
+        "quote": "Der Eindruck eines Pivots am Vortex entsteht durch den Storyform-Übergang B → A.",
+        "stance": "asserts"
+      },
+      {
+        "source": "kognitive Arbeit des Lesers",
+        "target": "thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure finanziert",
+        "type": "causes",
+        "quote": "Die kognitive Arbeit des Lesers liefert die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure finanziert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mosaikstruktur (39 Kapitel, nicht-linear lesbar)",
+        "target": "kognitive Arbeit des Lesers",
+        "type": "triggers",
+        "quote": "Mosaikstruktur (39 Kapitel, nicht-linear lesbar)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lesen",
+        "target": "diegetische Notwendigkeit",
+        "type": "becomes",
+        "quote": "Lesen wird zur diegetischen Notwendigkeit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Telefon-Stille",
+        "target": "ein Anker",
+        "type": "causes",
+        "quote": "Telefon-Stille ist *ein* Anker.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Encoding-Phase startet ohne festgelegte Modi",
+        "target": "inkonsistente Manifestationen",
+        "type": "causes",
+        "quote": "sonst inkonsistente Manifestationen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "somatische Filter noch nicht spezifiziert",
+        "target": "Encoding-blocking",
+        "type": "causes",
+        "quote": "somatische Filter noch nicht spezifiziert. Encoding-blocking.",
+        "stance": "asserts"
+      },
+      {
+        "source": "zwei gleich starke Eindrücke gleichzeitig",
+        "target": "die Szene",
+        "type": "causes",
+        "quote": "Wenn der Leser zwei gleich starke Eindrücke gleichzeitig hat, ist die Szene fehlerhaft.",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Leser sie selbst gespürt hat",
+        "target": "Begriffe",
+        "type": "enables",
+        "quote": "Erst wenn der Leser sie selbst gespürt hat, dürfen Begriffe auftauchen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Theorie ohne emotionale Konsequenz",
+        "target": "Warnsignal",
+        "type": "causes",
+        "quote": "Theorie ohne emotionale Konsequenz = Warnsignal.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Trennung",
+        "target": "der Schmerz",
+        "type": "prevents",
+        "quote": "Die Trennung war nie real. Aber das ändert nichts am Schmerz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Trennung als illusionär enthüllen",
+        "target": "den Schmerz",
+        "type": "causes",
+        "quote": "Andere Romane lösen den Schmerz auf, indem sie die Trennung als illusionär enthüllen.",
+        "stance": "cites"
+      },
+      {
+        "source": "Andere Romane",
+        "target": "den Schmerz",
+        "type": "enables",
+        "quote": "Andere Romane lösen den Schmerz auf, indem sie die Trennung als illusionär enthüllen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Physik so gebaut ist, dass die Verbindung atemporal sein kann",
+        "target": "der Schmerz wirklich sein",
+        "type": "requires",
+        "quote": "Das geht nur, wenn: Die Physik so gebaut ist, dass die Verbindung atemporal sein kann (DKT).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Wahrheitstheorie so gebaut ist, dass beide Seiten gleichzeitig wahr sein können",
+        "target": "der Schmerz wirklich sein",
+        "type": "requires",
+        "quote": "Das geht nur, wenn: Die Wahrheitstheorie so gebaut ist, dass beide Seiten gleichzeitig wahr sein können (Dialetheismus / Tarski-Hierarchie).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Psychologie so gebaut ist, dass Funktionale Multiplizität echte Integration sein kann ohne Final Fusion",
+        "target": "der Schmerz wirklich sein",
+        "type": "requires",
+        "quote": "Das geht nur, wenn: Die Psychologie so gebaut ist, dass Funktionale Multiplizität echte Integration sein kann ohne Final Fusion (TSDP).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Erzählstruktur so gebaut ist, dass beide Lesarten parallel laufen",
+        "target": "der Schmerz wirklich sein",
+        "type": "requires",
+        "quote": "Das geht nur, wenn: Die Erzählstruktur so gebaut ist, dass beide Lesarten parallel laufen (Dramatica Dual-Storyform).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Leser so gebaut ist, dass er die Synthese leisten kann",
+        "target": "der Schmerz wirklich sein",
+        "type": "requires",
+        "quote": "Das geht nur, wenn: Der Leser so gebaut ist, dass er die Synthese leisten kann, die innerhalb des Texts unmöglich ist (Iser, Reader as Substrate).",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

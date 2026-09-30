@@ -1,0 +1,9 @@
+== without-graph-evidence-scaled 18:15:07
+24 cases: document recall 0.222, line recall 0.071
+== without-bm25-lines-scaled 18:16:05
+24 cases: document recall 0.172, line recall 0.046
+== without-parallel-scaled 18:16:48
+24 cases: document recall 0.267, line recall 0.098
+== without-entity-unread-scaled 18:17:43
+24 cases: document recall 0.301, line recall 0.1
+== done 18:18:48

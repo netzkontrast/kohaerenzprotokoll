@@ -1,0 +1,565 @@
+{
+  "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Kohärenz Protokoll",
+        "quote": "Ausführliche Liste aller philosophischen Themen, die das Roman-Substrat tragen — Schule für Schule, mit Funktion im Roman, KW-/Charakter-/Kapitel-Mapping, Drafting-Disziplin und Anti-Pattern.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Theorie als Substrat",
+        "quote": "Theorie ist Substrat, nicht Oberfläche.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Epistemologische Achse",
+        "quote": "Wahrheitstheorien-Krieg (AEGIS vs. Kael-EPs).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ontologische Achse",
+        "quote": "Substanz vs. Prozess (klassische Identität vs. Funktionale Multiplizität).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phänomenologische Achse",
+        "quote": "subjektive Erfahrung vs. objektive Messung (Kael vs. AEGIS).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mystische Achse",
+        "quote": "Trennung als Schein (Śūnyatā/K₁-Reinform).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenztheorie",
+        "quote": "Wahrheit ist interne Konsistenz; eine Aussage ist wahr, wenn sie widerspruchsfrei in ein Gesamtsystem von Aussagen eingegliedert werden kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenzprotokoll",
+        "quote": "Das Kohärenzprotokoll (eponym des Romantitels) ist Kohärenztheorie als algorithmische Praxis — alles, was nicht passt, wird erasiert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Korrespondenztheorie",
+        "quote": "Wahrheit ist Übereinstimmung mit Tatsachen; eine Aussage ist wahr, wenn sie der außerhalb-des-Systems-existierenden Realität entspricht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Defekt",
+        "quote": "Zugangsproblem. Kein Gottesblick.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Drafting-Disziplin",
+        "quote": "EP-Stimmen sprechen aus dem Körper, nicht aus dem System.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wahrheit",
+        "quote": "Wahrheit ist Korrespondenz (Definition, ontologisch realistisch), aber Wahrheit wird erkannt durch Kohärenz (Kriterium, methodologisch kohärentistisch).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Funktionale Multiplizität",
+        "quote": "Die Funktionale Multiplizität ist diese Synthese in narrativer Form.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wahrheit",
+        "quote": "Wahrheit (Truth) bezieht sich auf konstatierende Sprechakte über objektive Welt (Tatsachen).",
+        "stance": "cites"
+      },
+      {
+        "term": "Richtigkeit",
+        "quote": "Richtigkeit (Rightness) bezieht sich auf regulative Sprechakte (Normen).",
+        "stance": "cites"
+      },
+      {
+        "term": "Wahrheitsprädikate",
+        "quote": "Wahrheitsprädikate können nur in einer Metasprache höherer Ordnung kohärent gefasst werden, sonst entsteht Antinomie (Lügner-Paradox).",
+        "stance": "cites"
+      },
+      {
+        "term": "Wahrheit",
+        "quote": "Wahrheit als „coping rather than copying“ — Rechtfertigung ist sozialer Prozess, nicht Konfrontation mit „Welt an sich“.",
+        "stance": "cites"
+      },
+      {
+        "term": "Noumena",
+        "quote": "Wir erkennen die Welt nicht „an sich“ (Noumena), sondern nur, wie sie uns durch Raum, Zeit und die Verstandeskategorien erscheint (Phaenomena).",
+        "stance": "cites"
+      },
+      {
+        "term": "Phaenomena",
+        "quote": "Wir erkennen die Welt nicht „an sich“ (Noumena), sondern nur, wie sie uns durch Raum, Zeit und die Verstandeskategorien erscheint (Phaenomena).",
+        "stance": "cites"
+      },
+      {
+        "term": "Sprache",
+        "quote": "„Die Grenzen meiner Sprache sind die Grenzen meiner Welt.“",
+        "stance": "cites"
+      },
+      {
+        "term": "Juna-Vektor: NICHT DARSTELLBAR",
+        "quote": "AEGIS' „Juna-Vektor: NICHT DARSTELLBAR“ ist die Tractatus-Position.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Schlüssel-Aspekt",
+        "quote": "Die Stille ist nicht das Ende der Aussage, sondern eine Form der Anwesenheit.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Drafting-Disziplin",
+        "quote": "AEGIS' Logs zeigen Wittgensteins Grenze als Limitation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Esse est percipi",
+        "quote": "Objekte existieren nur, wenn sie wahrgenommen werden (in Gottes Geist als Garant).",
+        "stance": "cites"
+      },
+      {
+        "term": "Epoché",
+        "quote": "Einklammerung (Epoché) der natürlichen Einstellung — der vorbewussten Annahme einer objektiv existierenden Welt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "transzendentaler Spectator",
+        "quote": "Ziel: die reine Erscheinung erfassen, wie sie sich dem Bewusstsein zeigt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dasein",
+        "quote": "Dasein (das Mensch-Sein) ist fundamental in der Welt situiert, durch Zeitlichkeit und Geschichte geprägt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "aletheia",
+        "quote": "Wahrheit ist nicht primär adaequatio (Übereinstimmung), sondern aletheia — Unverborgenheit, das Sich-Zeigen des Seienden.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sein-zum-Tode",
+        "quote": "Heideggers Begriff der eigentlichen Existenz im Angesicht der Endlichkeit.",
+        "stance": "cites"
+      },
+      {
+        "term": "Grenzsituationen",
+        "quote": "Grenzsituationen (Tod, Leid, Schuld, Kampf) sind Erfahrungen, in denen das alltägliche Selbst-Verständnis zerbricht und das Subjekt sich seiner Existenz bewusst wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wahrnehmung",
+        "quote": "Wahrnehmung ist nicht passive Aufnahme, sondern aktive, verkörperte, relationale Erfahrung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Der Körper",
+        "quote": "Der Körper ist nicht nur Objekt, sondern Subjekt — die Brücke zwischen Ich und Welt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Drafting-Disziplin",
+        "quote": "Wenn ein Anteil aktiv ist, ist sein Körper aktiv.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Sprach-DNA",
+        "quote": "Sprach-DNA ist verkörperte Sprache.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phänomenales Selbstmodell (PSM)",
+        "quote": "Es existiert kein substanzielles Selbst.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phänomenales Selbstmodell (PSM)",
+        "quote": "Was wir „Ich“ nennen, ist ein vom Gehirn generiertes phänomenales Modell, das sich selbst nicht als Modell erkennt.",
+        "stance": "cites"
+      },
+      {
+        "term": "Phänomenales Selbstmodell (PSM)",
+        "quote": "Das Selbst ist ein dynamischer Verarbeitungsprozess, nicht eine Entität.",
+        "stance": "cites"
+      },
+      {
+        "term": "Wahrnehmungsphilosophie als Wahrheit-Modus",
+        "quote": "Wahrheit als das, was sich zeigt, wenn der Filter wegfällt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Geworfen-Sein",
+        "quote": "Dasein ist immer schon in einer Welt, die es nicht gewählt hat.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Existenz vor Essenz",
+        "quote": "Der Mensch ist „zur Freiheit verurteilt“.",
+        "stance": "cites"
+      },
+      {
+        "term": "Existenz vor Essenz",
+        "quote": "Es gibt keine vorgegebene Essenz; das Subjekt konstituiert sich durch seine Wahl.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-AEGIS",
+        "quote": "Wir-AEGIS ist Mehrheit-in-Form, nicht Eins-werden.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Autopoietische Systeme",
+        "quote": "Autopoietische Systeme reproduzieren sich rein durch interne Operationen.",
+        "stance": "cites"
+      },
+      {
+        "term": "Autopoietische Systeme",
+        "quote": "Sie sind operativ geschlossen, haben keinen direkten Zugang zur Außenwelt — nur strukturelle Kopplung mit der Umwelt durch Irritationen, die im System als interne Zustände prozessiert werden.",
+        "stance": "cites"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist autopoietisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "strukturelle Kopplung",
+        "quote": "AEGIS koppelt strukturell an seine Umwelt durch Erasure-Sweeps (das, was es als Eingabe akzeptieren kann).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Soziale Systeme",
+        "quote": "Soziale Systeme (für Luhmann: Kommunikationssysteme) sind operativ geschlossen; sie können von der Umwelt nur „irritiert“ werden, nicht direkt gesteuert.",
+        "stance": "cites"
+      },
+      {
+        "term": "Soziale Systeme",
+        "quote": "Was als Irritation gilt, bestimmt das System selbst.",
+        "stance": "cites"
+      },
+      {
+        "term": "legitime Irritation",
+        "quote": "Wenn AEGIS auf Risse reagiert, reagiert es auf die Symptome, die es als legitime Irritation erkennt (Lösch-Bilanz-Abweichung, Temperatur-Spike).",
+        "stance": "asserts"
+      },
+      {
+        "term": "autopoietisches System",
+        "quote": "Wer kann ein autopoietisches System „durchqueren“?",
+        "stance": "asks"
+      },
+      {
+        "term": "Coheronen",
+        "quote": "Coheronen sind atemporal, also kann AEGIS' temporales Mess-System sie nicht detektieren (siehe §6.5, Atemporalität).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wu Wei",
+        "quote": "Das ist Wu Wei (siehe §9.2) in autopoietischer Übersetzung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Unvollständigkeitssatz",
+        "quote": "In jedem hinreichend starken formalen System gibt es wahre Aussagen, die im System nicht beweisbar sind.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gödel-Gambit",
+        "quote": "AEGIS wird gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann — dass es selbst der Widerspruch ist, den es ein ganzes Dasein lang zu eliminieren versuchte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gödel-Gambit",
+        "quote": "AEGIS wird gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann — dass es selbst der Widerspruch ist, den es ein ganzes Dasein lang zu eliminieren versuchte.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lex' Riss",
+        "quote": "Lex' Riss ist eine fraktale Selbst-Widerlegung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gödel-Momente",
+        "quote": "Gödel-Momente sind die Stellen, an denen ein logisches System gegen sich selbst stößt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Halteproblem",
+        "quote": "Es ist nicht entscheidbar, ob ein beliebiges Programm bei einer beliebigen Eingabe terminieren wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Unentscheidbarkeit",
+        "quote": "Diese Unentscheidbarkeit ist strukturell, nicht praktisch.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ω-Konstante",
+        "quote": "Chaitins Halte-Wahrscheinlichkeit Ω ist eine wohldefinierte reelle Zahl, die algorithmisch nicht komprimierbar ist.",
+        "stance": "cites"
+      },
+      {
+        "term": "Bekenstein-Schranke",
+        "quote": "Obere Grenze für die Informationsmenge, die in einem endlichen Raumbereich gespeichert werden kann (holographisches Prinzip).",
+        "stance": "cites"
+      },
+      {
+        "term": "Dialetheismus",
+        "quote": "Es gibt wahre Widersprüche — Dialetheia.",
+        "stance": "cites"
+      },
+      {
+        "term": "Parakonsistente Logiken",
+        "quote": "Parakonsistente Logiken erlauben, mit Widersprüchen umzugehen, ohne dass das System in Trivialismus kippt (aus einem Widerspruch folgt klassisch alles — ex contradictione quodlibet; parakonsistent ist das blockiert).",
+        "stance": "cites"
+      },
+      {
+        "term": "Dialetheia",
+        "quote": "Die Stille ist und ist nicht; gleichzeitig real und nicht-real.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dialetheia",
+        "quote": "Dialetheia werden nie erklärt, sondern gezeigt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Russell-Antinomie",
+        "quote": "Die Menge aller Mengen, die sich nicht selbst enthalten — enthält sie sich selbst?",
+        "stance": "asserts"
+      },
+      {
+        "term": "Hartes Problem",
+        "quote": "Das harte Problem: warum gibt es subjektives Erleben (Qualia)?",
+        "stance": "cites"
+      },
+      {
+        "term": "Hartes Problem",
+        "quote": "Hier öffnet sich eine Erklärungslücke zwischen objektivem Prozess und subjektivem Erleben.",
+        "stance": "cites"
+      },
+      {
+        "term": "Qualia",
+        "quote": "Kael erlebt, dass seine Sub-Anteile Qualia haben — und AEGIS kann sie nicht erfassen, weil AEGIS keine Qualia hat (nur funktionale Zustände).",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist ein perfekter Funktionalist — alles, was er tut, ist funktional beschreibbar.",
+        "stance": "asserts"
+      },
+      {
+        "term": "ontologische Blindheit",
+        "quote": "Das ist seine ontologische Blindheit: er kann nicht wahrnehmen, dass es ein subjektives „Wie-es-ist“ gibt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "semantisches Verständnis",
+        "quote": "Auch wenn ein System (in Searles Gedankenexperiment ein Mensch in einem Zimmer, der chinesische Zeichen nach Regeln verarbeitet) funktional perfekt agiert, hat es kein semantisches Verständnis der Symbole, die es manipuliert.",
+        "stance": "cites"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist das Chinese Room.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bewusstsein",
+        "quote": "Bewusstsein ist identisch mit maximal irreduzibler integrierter Information (Φ).",
+        "stance": "cites"
+      },
+      {
+        "term": "Bewusstsein",
+        "quote": "Bewusstsein ist substratunabhängig und graduiert.",
+        "stance": "cites"
+      },
+      {
+        "term": "Φ",
+        "quote": "Φ misst den Grad der Irreduzibilität.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Implizites Wissen",
+        "quote": "Viele Fähigkeiten beruhen auf implizitem, verkörpertem Wissen, das durch Erfahrung und Übung erworben wird und sich nicht vollständig in explizite Regeln übersetzen lässt.",
+        "stance": "cites"
+      },
+      {
+        "term": "tacit knowledge",
+        "quote": "nicht formalisierbar, nicht algorithmisch reproduzierbar.",
+        "stance": "asserts"
+      },
+      {
+        "term": "polanyianische Wissensübertragung",
+        "quote": "Meister vermitteln implizites Wissen durch Teilnahme, nicht durch Regelanweisung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "tacit-knowledge-Moment",
+        "quote": "Wenn eine Szene didaktisch wird, ist sie kein tacit-knowledge-Moment mehr — und damit defekt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Śūnyatā",
+        "quote": "Alle Phänomene sind leer von svabhava (inhärenter, unabhängiger Eigennatur).",
+        "stance": "asserts"
+      },
+      {
+        "term": "svabhava",
+        "quote": "Alle Phänomene sind leer von svabhava (inhärenter, unabhängiger Eigennatur).",
+        "stance": "cites"
+      },
+      {
+        "term": "pratityasamutpada",
+        "quote": "Sie existieren in radikaler Interdependenz (pratityasamutpada, abhängiges Entstehen).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Leerheit",
+        "quote": "Leerheit ist nicht Nichtexistenz — sondern das Fehlen einer fixen Substanz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Śūnyatā",
+        "quote": "in Śūnyatā kein Göttliches, mit dem man sich vereinigt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Leerheit",
+        "quote": "Leerheit ist kein Wesen, kein Brahman",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wu Wei",
+        "quote": "Müheloses Handeln",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wu Wei",
+        "quote": "Handeln im Einklang mit dem natürlichen Fluss (Dao)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wu Wei",
+        "quote": "Nicht Passivität, sondern Nicht-Erzwingen — Spontaneität, Loslassen erzwungener Kontrolle",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bodhicitta",
+        "quote": "der Wunsch, alle empfindenden Wesen zur Befreiung zu führen",
+        "stance": "cites"
+      },
+      {
+        "term": "Ouroboros",
+        "quote": "Schlange, die sich in den Schwanz beißt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ouroboros",
+        "quote": "Symbol für Zyklus, Selbstreferenz, ewige Wiederkehr — und für Vollständigkeit ohne Anfangspunkt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "It from Bit",
+        "quote": "die physische Realität entsteht aus informations-theoretischen Akten der Beobachtung.",
+        "stance": "cites"
+      },
+      {
+        "term": "Iser'sche Leerstellen",
+        "quote": "Iser'sche Leerstellen sind Wheeler in Lese-Form: der Leser füllt die Lücken, und sein Füllen erzeugt die Welt, die der Roman beschreibt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kern",
+        "quote": "Warum kollabiert die Wellenfunktion bei Messung in einen eindeutigen Zustand?",
+        "stance": "asks"
+      },
+      {
+        "term": "Witness-Funktion Layer 1",
+        "quote": "Junas Witness-Funktion Layer 1 (Quanten-Verschränkungs-Witness) spielt mit Beobachter-Theorie: Juna bezeugt, ohne zu kollabieren.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zeit",
+        "quote": "Zeit ist nicht fundamental, sondern emergent — aus Verschränkung zwischen System und Uhr.",
+        "stance": "cites"
+      },
+      {
+        "term": "Atemporale Strukturen",
+        "quote": "Atemporale Strukturen können „die Zeit umgehen“.",
+        "stance": "cites"
+      },
+      {
+        "term": "Coheronen",
+        "quote": "Coheronen existieren atemporal — das ist nicht Metapher, sondern PAL-Konstruktion in Roman-Form.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Verschränkung",
+        "quote": "Verschränkung erscheint als Resonanz ohne sichtbare Verbindung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille als MI ohne Daten ist das prototypische Bild.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Leerstellen",
+        "quote": "Bedeutung entsteht zwischen den Polen, durch Leerstellen (bewusst gesetzte Indeterminationen), die der Leser füllen muss.",
+        "stance": "cites"
+      },
+      {
+        "term": "Personale Identität",
+        "quote": "Personale Identität entsteht durch narrative Selbst-Konstitution.",
+        "stance": "cites"
+      },
+      {
+        "term": "Narrative Identität in pluraler Form",
+        "quote": "nicht eine kohärente Geschichte, sondern ein Geflecht von Geschichten, das zusammen Identität trägt",
+        "stance": "asserts"
+      },
+      {
+        "term": "Identität",
+        "quote": "Identität ist nicht Substanz, sondern kooperatives Verhältnis mehrerer Anteile",
+        "stance": "asserts"
+      },
+      {
+        "term": "Heilung",
+        "quote": "Heilung ist nicht Verschmelzung, sondern orchestrale Polyphonie",
+        "stance": "asserts"
+      },
+      {
+        "term": "Funktionale Multiplizität",
+        "quote": "Funktionale Multiplizität ist eine Synthese aus: Metzinger PSM (kein substantielles Selbst) Buddhistisches Anatta (Nicht-Selbst) Narrative Identität in pluraler Form IFS (Internal Family Systems) als klinisches Modell Strange-Attractor-Form (kein Fixpunkt, sondern Bewegung)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Anatta",
+        "quote": "Das Selbst ist illusionär",
+        "stance": "asserts"
+      },
+      {
+        "term": "Anatta",
+        "quote": "Die Identifikation mit den fünf Aggregaten (Form, Empfindung, Wahrnehmung, mentale Formationen, Bewusstsein) erzeugt die Illusion eines permanenten Ichs",
+        "stance": "cites"
+      },
+      {
+        "term": "Śūnyatā",
+        "quote": "Was AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information. (Śūnyatā in DKT-Form)",
+        "stance": "asserts"
+      },
+      {
+        "term": "aletheia",
+        "quote": "Wahrheit ist nicht das, was man sagt — sondern das, was sich zeigt, wenn man aufhört zu sagen, was nicht wahr ist. (Heideggers aletheia)",
+        "stance": "cites"
+      }
+    ]
+  }
+}

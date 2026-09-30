@@ -1,0 +1,55 @@
+# CardFields — a field of a character's card — function, want, need, wound, lie, fear, contradiction, arc, voice, relationship — with its provenance.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the two character skills (`character-card-builder`, `reverse-character-cards`) and the plan's cast ledger (Phase 2c): one lean card
+#   per figure, in causal order wound → lie → fear → need → want, each field tagged by who says it. The sources hold positions on
+#   the figures; the interview offers at most two cited positions, as poles to react against, and never fills a blank.
+# measured against: the cards the author builds by interview, once they exist; until then, a pair whose figure resolves to a wiki term and whose quote holds both is the attachable subset. A quote is placed by read.py --find (P26).
+# may not: invent a trait, fill a blank of a card, or write a card — a field here is a P_HE_CARD candidate: the sources' position, cited, for the author to react against (P0); and it never enters the book's cast ledger
+# retire when: on three documents the author, interviewed on a figure, reacts to none of the positions offered
+language: en
+name: CardFields
+type: list
+tags: [characters, cards, cast, provenance, german]
+description: "A field of a character's card — function, want, need, wound, lie, fear, contradiction, arc, voice, relationship — with its provenance, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The figure exactly as the document writes it: a name, a designation, an alter, a system."
+      required: true
+    - name: target
+      type: str
+      description: "The field's content as a short phrase exactly as the document writes it (what it wants, what wounded it, how it speaks)."
+      required: true
+    - name: type
+      type: str
+      description: "Write <field>/<provenance>. FIELD: function (the role it serves and whom it opposes), want (the conscious goal it pursues), need (the deeper thing it must face), wound (the formative injury), lie (the false belief the wound planted), fear (what it is afraid of), contradiction (an internal tension), arc (how it changes, or that it does not), voice (diction, rhythm, tics), relationship (an allegiance, tension or dependence, naming the other figure). PROVENANCE: narration (the source states it as fact about the figure), claimed_by_figure (the source reports the figure saying it of itself), reported_by_other (another figure says it of the figure), inferred (the source concludes it from behaviour). Never write narration for a figure's self-description. Example form: want/claimed_by_figure."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German research document and collect, verbatim, the sentences that fill a field of a character card, each tagged by who says it, so that a person can see what the sources hold about a figure before deciding."
+  rules:
+    - "Record a field only when ONE sentence gives it: a figure and what it wants, fears, believes, hides, or how it speaks."
+    - "Keep a figure's claim about itself and what the source shows it doing as two records: the claim with provenance claimed_by_figure, the behaviour with provenance narration or inferred."
+    - "Never promote an inference to a statement: when the sentence only implies the wound, the provenance is inferred."
+    - "Both the figure and the content stand inside the quote."
+    - "A blank stays blank: never record a field because a card would have it."
+    - "Never infer a field from the figure's role, from a comparison with another figure, or from background knowledge."
+    - "When the words do not give a field, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

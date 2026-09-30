@@ -1,0 +1,73 @@
+{
+  "document": "flow-zustaende-und-dissoziative-identitaet",
+  "drive_id": "1CnmblO7cR5fS8dwq_VBcXNuC7XNhGdDkN9JxKW2KD2E",
+  "step": "reconcile",
+  "at": "2026-09-30",
+  "by": "hand, after scripts/reconcile.py pre-classification and scripts/record.py draft; a document of the step-6 reader lab, extracted on 2026-09-30 by a Haiku document-reader (Plan/runs/reader-lab-2026-09-30/); two readings written by a Sonnet wiki-reader from Plan/runs/step6-readings-56-59/brief.md (drafted by scripts/brief.py); placed by readings.py apply with every check held and committed one page at a time naming their documents",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 314,
+    "decisions": 339,
+    "decided_by_lookup": 173,
+    "needs_judgement": 166
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A clinical-scientific report on flow states in dissociative identity disorder: what flow is, how it differs from dissociation, how therapy may induce it. It is about patients and writes Kael, AEGIS and Roman 0 times. Its terms — Flow and the flow state, the mechanisms (transient hypofrontality, the locus coeruleus–noradrenaline system), the induction methods (grounding, dual attention, PITT, art therapy, journaling) and the forms of Alters it lists (protectors, hosts, emotional dampeners) — are borrowed clinical psychology, and none is a term of the novel's world. The candidates the lookup found no page for stay candidates.",
+  "new_readings": [
+    {
+      "page": "alters",
+      "lines": [
+        43,
+        195,
+        207
+      ],
+      "attribution": "",
+      "note": "the clinical name for the personality states of a person with DIS, some of them protective, behind amnesia barriers"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        23,
+        25,
+        215
+      ],
+      "attribution": "",
+      "note": "psychische Entropie in Csikszentmihalyi's sense: inner disorder that flow overcomes and the chronic normal state of DIS"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "158 pairs among the document's own candidates and 8 surfaces near a page's: J9 (a title containing a term is never a surface of that term: Skill / Balance von Skill und Challenge; Flow / Kunsttherapie und der kreative Flow), J12 (a compound is its own token: Flow / Team-Flow; Flow / Flow-Praxis), J14 (a slash is an apposition or an alias, never a term boundary: Emotional Funnels/Dampeners / Dampeners; Emotional Funnels/Dampeners / Emotional Funnels), J21 (a scope adjective does not split a term: Flow / Safe Flow; Flow / echter Flow), J23 (an English plural -s is not a boundary: Hosts / Host; Cocktails / Cocktail), J24 (a German plural is not a boundary: Anteil / Anteile; Anteil / Anteilen), J25 (Alter and Alters are one term: Alters / Alter; Alter / Teile (Alters)), J31 (a label that partitions the document is not a term: Skill / Balance von Skill und Challenge; Erdung und Duale Aufmerksamkeit / Erdung), J32 (a compound is placed by what it names, never by its head: Kategorie der Erdung / Erdung; Dissoziation / Maskierung der Dissoziation), J42 (a set is not its largest subset: Kognitive Erdung & Atmung / Erdung; Erdung und Duale Aufmerksamkeit / Erdung), J46 (an English plural -s on a German noun is not a boundary: Alters / Alter), J48 (the whole a member belongs to is not the member: Schutzanteilen / Anteil; Dämpfer-Anteil / Anteil), J51 (a source equating two surfaces once does not make them one term everywhere: Agency / Handlungsfähigkeit (Agency); Gastgeber-Identitäten (Hosts) / Host), J59 (a compound naming an entity is not a surface of the property it contains: Locus Coeruleus-Noradrenalin-System / Noradrenalin), J60 (an acronym and its expansion are one term: Psychodynamisch Imaginative Traumatherapie (PITT) / PITT; Psychodynamisch Imaginative Traumatherapie (PITT) / Psychodynamisch Imaginative Traumatherapie), J69 (a match that exists only after folding is no evidence: Flow / Communication Flows Smoothly; Ressource), J72 (a parenthetical index is part of the label: Alter / Teile (Alters); Alters / Teile (Alters)), J83 (a head used alone for the same content is a short form of the compound: Identitätsanteilen / Anteil; Identitätsanteilen / Anteile), J88 (a common noun for a page's referent is placed by the sentence: Alter; psychische Entropie), J97 (a case ending is not a boundary: Anteil / Anteile; Anteil / Anteils). The Flow family and the Anteile family are most of the pairs: over a hundred surfaces of one term, `Flow`, and of the one set of parts, where the question is only which surfaces are one candidate.",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 242,
+      "decision": "occurrence",
+      "why": "the name of a subreddit (r/DID) in a reference title; the document writes DIS for the disorder"
+    }
+  ],
+  "not_promoted": [
+    "Flow, Csikszentmihalyi's concept: the report's subject, written 56 times as a whole word (`read.py --count`). A borrowed concept with no place in the novel's world, so no page; it would open one the day a document of the novel applies it.",
+    "Transiente Hypofrontalität, the Locus-Coeruleus-Noradrenalin-System, PITT, Co-Bewusstsein, Schutzanteile and Emotional Funnels: the report's clinical terms; no page speaks to them, and the readings on `alters` and `entropie` carry only what bears on those pages.",
+    "DIS, the clinical acronym the report writes 16 times: the page `did` is the novel's dissoziative Identitätsstruktur, and `DID` stands in the report only in the subreddit r/DID of four references (L242, L272–L274), so `did` has no reading."
+  ],
+  "internal_tension": "None. It treats Csikszentmihalyi and the clinical literature as its authority and sets flow and pathological dissociation against each other in the open — they look alike and differ in aetiology, neurobiology and consequence (L13). The readings take the clinical sense of Alters and of psychische Entropie and say that the novel's sense is another.",
+  "baseline_moved": "the four reader-lab records (56–59), measured together after the last of them: graphrag bench seeds 0.531 → 0.531, PageRank recall@8 0.6885 → 0.6885, no case moved (rows in Plan/runs/baselines.jsonl)"
+}

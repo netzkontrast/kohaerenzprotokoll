@@ -1,0 +1,308 @@
+{
+  "document": "ki-narrative-kollaps-kohaerenz-paradoxie",
+  "drive_id": "1WEUAarmHlUhnO3E7mFuxsSOWT6Sy4i6Nw7Yo0XkAqHE",
+  "step": "reconcile",
+  "at": "2026-09-30",
+  "by": "hand, after scripts/reconcile.py pre-classification and scripts/record.py draft; a document of the step-6 reader lab, extracted on 2026-09-30 by a Haiku document-reader (Plan/runs/reader-lab-2026-09-30/); the readings and the C2 entry written by a Sonnet wiki-reader from Plan/runs/step6-readings-56-59/brief.md (drafted by scripts/brief.py), the Q3 and Q8 entries by the reconciler in Plan/runs/step6-readings-56-59-records/; placed by readings.py apply with every check held and committed one page at a time naming their documents",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 269,
+    "decisions": 275,
+    "decided_by_lookup": 165,
+    "needs_judgement": 110
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An expository synthesis of two readings of the architecture. Its terms are of two kinds and neither is a term of the novel's world: the vocabulary of the writing engine it analyses (Story Flip, the Collapse Susceptibility Index, the Narrative Context Protocol, the Drama-Engine and the JANUS-Framework, System 1 and System 2, the Context Object) and borrowed physics, psychology and logic (Landauer, Maxwell's demon, Orch-OR, autopoiesis, FDE, dialetheism). Its world's terms are readings on pages that exist. The 144 candidates the lookup found no page for stay candidates; whether the engine's vocabulary earns pages is a question about the wiki's scope and is left to the author (`NOW.md`).",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "a Zero-Trust security paradigm of AEGIS, named in passing"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        59,
+        63,
+        67,
+        69,
+        73,
+        81,
+        87,
+        107,
+        176
+      ],
+      "attribution": "",
+      "note": "AEGIS assigned to the Kohärenz-Kernel by the canonical reading and to the Kollaps-Kernel by the critical one, which the document holds"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        129
+      ],
+      "attribution": "",
+      "note": "the plural `Coherons` as what represents the Kohärenz-Kernel"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "the physics the framework draws on, beside Orch-OR and the Drama-Engine"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        32,
+        65,
+        75,
+        115,
+        148,
+        166
+      ],
+      "attribution": "",
+      "note": "AEGIS as the machine of entropy: what erasure raises, what perfect order equals, and what suppressing entropy costs"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        50,
+        131,
+        156,
+        160
+      ],
+      "attribution": "",
+      "note": "the Narrative Engine's mathematical weapon in Phase III, with Kael a living dialetheia who injects the value B"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        63,
+        87,
+        132,
+        160
+      ],
+      "attribution": "",
+      "note": "System Kael whose parts AEGIS reads as noise, punished for remembering, and the one who becomes a living dialetheia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        61,
+        107,
+        132,
+        172
+      ],
+      "attribution": "",
+      "note": "simulated Kernwelten in which AEGIS keeps order, the firewall the qualia pass, and worlds named by proper names"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        105,
+        132
+      ],
+      "attribution": "",
+      "note": "one of the receptive Emotional parts the qualia reach, and an executor type"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        59,
+        61,
+        67,
+        127,
+        129
+      ],
+      "attribution": "",
+      "note": "the kernel as reversible, lossless computation, and AEGIS' assignment to it as the canonical reading"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        63,
+        91,
+        127,
+        130,
+        168,
+        176
+      ],
+      "attribution": "",
+      "note": "Kohärenz-Wahrheit against Korrespondenz-Wahrheit in the axis table, AEGIS' coherence as apparent, and a Zielkohärenz that refuses fusion"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        41,
+        63,
+        67,
+        73,
+        129
+      ],
+      "attribution": "",
+      "note": "the kernel as the active, anti-algorithmic domain of irreversible computation, with AEGIS moved into it"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        31,
+        132,
+        142
+      ],
+      "attribution": "",
+      "note": "the rationalist ANP of the PICO example, a manager type, and System 2's equivalent"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        105,
+        132
+      ],
+      "attribution": "",
+      "note": "one of the receptive Emotional parts the qualia reach"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        172
+      ],
+      "attribution": "",
+      "note": "Kernwelt 4 named Kairos-Potentialis and the Garten, where technology and organic entropy fuse"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        32,
+        103,
+        105,
+        107
+      ],
+      "attribution": "",
+      "note": "an asymmetric out-of-band channel that carries qualia past AEGIS' filters to the Emotional parts"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        31,
+        85,
+        132
+      ],
+      "attribution": "",
+      "note": "the EP of the PICO example, AEGIS' result and not the splintering's cause, and an executor type"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        162,
+        164,
+        166,
+        168,
+        170
+      ],
+      "attribution": "",
+      "note": "the guiding paradigm of Phase III, a coherence of purpose that refuses to fuse the parts"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        131,
+        160,
+        168,
+        170
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the value the gambit injects, and the state the Mosaik-Herz enables instead of fusion"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        63,
+        73,
+        97,
+        115
+      ],
+      "attribution": "",
+      "note": "what AEGIS reads Kael's fragmentation as, the noise it deletes, and what the story flip makes of it"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        50,
+        170
+      ],
+      "attribution": "",
+      "note": "the Integrator-Agent as the stress test's success case, and a mediator instead of a controlling dictator"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        19,
+        63,
+        85,
+        132,
+        170
+      ],
+      "attribution": "",
+      "note": "the theory as the source code of character dynamics, Moros as AEGIS' result and not the splintering's cause, and a topology table"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        61,
+        73,
+        81,
+        156
+      ],
+      "attribution": "",
+      "note": "the simulation as the world AEGIS keeps flawless and that would die of heat; the word Überwelt never written"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": [
+      156,
+      164
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "77 pairs among the document's own candidates and 33 surfaces near a page's: J5 (containment by a negation prefix is never a surface variant: Kohärenz / Dekohärenz-Schwelle; Dekohärenz-Schwelle), J8 (a compound naming an entity is not a surface of the property it contains: Kollaps-Kernel / Kollaps; Kohärenz-Kernel / Kohärenz), J11 (a project term named after an external standard is not that standard: Zero-Trust-Sicherheitsparadigma), J12 (a compound is its own token: Trauma-Zeit / Trauma; Qualia / Qualia-Kollaps), J21 (a scope adjective does not split a term: naive Qualia / Qualia; Flip / Ontologische Flip), J23 (an English plural -s is not a boundary: Flip / Flips; Story Flips / Flip), J24 (a German plural is not a boundary: Anteil / Anteile; System-Paradoxien / Paradoxie), J28 (a compound is placed by what it names, never by its head: Zielkohärenz / Kohärenz; Kohärenz / Kohärenz-Wahrheit), J32 (a compound is placed by what it names, never by its head: Entropie / Entropieproduktionsmaschine; Entropieproduktionsmaschine), J37 (a numbered instance of a paged class is a reading on that class: Kernwelten / Kernwelten (KW1 bis KW4); Kernwelten (KW1 bis KW4) / KW1 bis KW4), J46 (an English plural -s on a German noun is not a boundary: Coherons), J48 (the whole a member belongs to is not the member: Kael / System Kael; Anteil / EP (Emotionale Anteile)), J49 (a world named from a bearer is not the bearer: Logos-Prime; Kairos-Potentialis), J51 (a source equating two surfaces once does not make them one term everywhere: Nichts Rauschen / Rauschen; Reframing / Umdeutung (Reframing)), J52 (an event and the state it produces are two terms: Paradoxie / Kipppunkt zur Paradoxie), J55 (a name for a whole and its member is placed by the sentence: System Kael), J57 (a compound naming a protocol is not the property it is named for: Kohärenz Protokoll / Kohärenz; Kohärenz Protokoll), J59 (a compound naming an entity is not a surface of the property it contains: Kohärenzmatrix / Kohärenz; Entropie / Maschine der Entropie), J60 (an acronym and its expansion are one term: Psychologische Topologie (TSDP) / TSDP; Dual-Kernel-Theorie / Dual-Kernel-Theorie (DKT)), J69 (a match that exists only after folding is no evidence: Aris / C (Comparison / Vergleich); Trauma / Komplexer Posttraumatischer Belastungsstörung), J72 (a parenthetical index is part of the label: Reframing / Umdeutung (Reframing); Kernwelten / Kernwelten (KW1 bis KW4)), J83 (a head used alone for the same content is a short form of the compound: Story Flip / Flip; Story Flips / Flip), J88 (a common noun for a page's referent is placed by the sentence: Garten), J89 (a type with its bearers in a parenthesis is the type: Selene / Integrator-Agent (Selene); Integrator-Agent / Integrator-Agent (Selene)), J97 (a case ending is not a boundary: Anteil / Kollaps-Anteils; Kollaps-Anteils / Kollaps), J105 (a common-noun alias taken from one heading is placed by the sentence elsewhere: Trauma), J115 (a common noun for a page's referent is placed by the sentence: Garten), J118 (a world a source names twice is read on the paged world: Kairos-Potentialis; Kernwelt 4 (Kairos-Potentialis)). Three pairs are decided by no rule: `Nanobot/NanoClaw` with each half and `LobeHub/Claude-Ökosystem` with `LobeHub`, two products named in one sentence each, with no page for either; nothing depends on them.",
+  "sweep": [
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 131,
+      "decision": "reading",
+      "why": "the axis table's Gödel-Gambit row injects „funktionale Multiplizität“ (A und nicht-A simultan) into the Context Object — on multiplizitaet, the surface written alone after its qualifier"
+    }
+  ],
+  "not_promoted": [
+    "Story Flip: the document's name for the moment the coherence AEGIS keeps turns into destruction (L89–L95). Counted with `grep -F` over `Sources/drive/`, it is written in this document alone, so there is nothing to gather; its content stands on `aegis`, `kohaerenz` and `entropie`.",
+    "Collapse Susceptibility Index (CSI): named at L34 and defined in the section that begins at L144. Seven landed documents write it (`grep -F`), this one among them; it is the writing engine's metric, and no page speaks to it.",
+    "Narrative Context Protocol, Drama-Engine, JANUS-Framework, System 1 Executor and System 2 Orchestrator, Context Object: the engine the synthesis analyses. `grep -F` finds the Narrative Context Protocol in 37 documents, the Drama-Engine in 5 and JANUS in 3; no page speaks to any of them, and whether one should is the question in `NOW.md`.",
+    "Kernwelt 4 (Kairos-Potentialis) and Garten went on `moeglichkeits-garten` (J118); Cerberus-Labyrinth, Logos-Prime and Mnemosyne-Archipel are worlds named after Guardians and got no reading on the Guardians (J49); Trauma in general got none on `vergessener-schrein` (J105); Nyx stands only in two lists and got no file."
+  ],
+  "internal_tension": "The document sets a canonical reading against a critical one and holds the critical one, so the two readings of AEGIS (the Kohärenz-Kernel, then the Kollaps-Kernel) are its stance and not a tension; the readings say both. Three things it says two ways: the canonical AEGIS defends the Kohärenztheorie der Wahrheit (L63), while the axis table gives Korrespondenz-Wahrheit to AEGIS' orthodox domain as its primary directive and Kohärenz-Wahrheit to the entropic one (L130); Phase III is coded „Die Existenzielle Fusion“ (L164) and the Mosaik-Herz refuses fusion into one identity (L168); Kael's parts are eleven (L63, L168), and the axis table lists Lyra among the EPs where the Moonshine-Link passage writes Lia (L132, L105).",
+  "baseline_moved": "the four reader-lab records (56–59), measured together after the last of them: graphrag bench seeds 0.531 → 0.531, PageRank recall@8 0.6885 → 0.6885, no case moved (rows in Plan/runs/baselines.jsonl)"
+}

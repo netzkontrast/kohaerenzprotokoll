@@ -1,0 +1,185 @@
+{
+  "document": "dual-storyform-hintergruende-md",
+  "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+  "template_sha256": "aafb5d66eb10a22ef252417e73eb6fab60a01523f0eea426f8643f7daa14c679",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Storyform A",
+        "target": "Lesart „Liebe ist Information“",
+        "type": "storypoint",
+        "quote": "Storyform A trägt die Lesart „Liebe ist Information“",
+        "stance": "asserts"
+      },
+      {
+        "source": "Storyform B",
+        "target": "Lesart „Liebe ist das, was Information zerstört“",
+        "type": "storypoint",
+        "quote": "Storyform B trägt die Lesart „Liebe ist das, was Information zerstört“",
+        "stance": "asserts"
+      },
+      {
+        "source": "MC",
+        "target": "Mind",
+        "type": "throughline",
+        "quote": "MC | Mind | Universe",
+        "stance": "asserts"
+      },
+      {
+        "source": "IC",
+        "target": "Universe",
+        "type": "throughline",
+        "quote": "IC | Universe | Mind",
+        "stance": "asserts"
+      },
+      {
+        "source": "OS",
+        "target": "Psychology",
+        "type": "throughline",
+        "quote": "OS | Psychology | Physics",
+        "stance": "asserts"
+      },
+      {
+        "source": "RS",
+        "target": "Physics",
+        "type": "throughline",
+        "quote": "RS | Physics | Psychology",
+        "stance": "asserts"
+      },
+      {
+        "source": "B",
+        "target": "IC-Position",
+        "type": "storypoint",
+        "quote": "strukturell trägt **Kael** die IC-Position in B",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "MC",
+        "type": "storypoint",
+        "quote": "In A ist Kael MC.",
+        "stance": "asserts"
+      },
+      {
+        "source": "B",
+        "target": "IC",
+        "type": "storypoint",
+        "quote": "In B ist Kael IC.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vortex",
+        "target": "Auflösung der IC-Asymmetrie",
+        "type": "storypoint",
+        "quote": "Die Vortex-Inversion ist damit strukturell die **Auflösung der IC-Asymmetrie**.",
+        "stance": "asserts"
+      },
+      {
+        "source": "A MC",
+        "target": "Be-er + Mind",
+        "type": "storypoint",
+        "quote": "A MC | Do-er + Mind ❌ | Be-er + Mind ✓",
+        "stance": "asserts"
+      },
+      {
+        "source": "B MC",
+        "target": "Do-er + Universe",
+        "type": "storypoint",
+        "quote": "B MC | Be-er + Universe ❌ | Do-er + Universe ✓",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "Decision",
+        "type": "storypoint",
+        "quote": "Driver bleibt konstant je Storyform (A=Decision, B=Action)",
+        "stance": "asserts"
+      },
+      {
+        "source": "B",
+        "target": "Action",
+        "type": "storypoint",
+        "quote": "Driver bleibt konstant je Storyform (A=Decision, B=Action)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beat 2",
+        "target": "A-Decision",
+        "type": "storypoint",
+        "quote": "Bei Beat 2 trifft Kael die A-Decision",
+        "stance": "asserts"
+      },
+      {
+        "source": "B",
+        "target": "IC Domain/Concern: Mind / Conscious (lebende Paradoxie); IC-Träger: Kael",
+        "type": "storypoint",
+        "quote": "strukturell trägt Kael die IC-Funktion in B",
+        "stance": "asserts"
+      },
+      {
+        "source": "A",
+        "target": "MC: Kael",
+        "type": "storypoint",
+        "quote": "In A ist Kael MC",
+        "stance": "asserts"
+      },
+      {
+        "source": "B",
+        "target": "IC: Kael",
+        "type": "storypoint",
+        "quote": "in B ist Kael IC",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt III",
+        "target": "FM-Achievement Kap 33",
+        "type": "storypoint",
+        "quote": "FM-Achievement Kap 33.",
+        "stance": "asserts"
+      },
+      {
+        "source": "1 Convergence (Mnemosyne-Archipel)",
+        "target": "B-OS Action: AEGIS exekutiert finalen Erasure-Sweep",
+        "type": "storypoint",
+        "quote": "B-OS Action: AEGIS exekutiert finalen Erasure-Sweep",
+        "stance": "asserts"
+      },
+      {
+        "source": "2 Dialetheic Choice (Pivot Kael)",
+        "target": "A-MC Decision aktiviert: Kael lässt ANP/EP-Barrieren fallen, integriert Trauma",
+        "type": "storypoint",
+        "quote": "A-MC Decision aktiviert: Kael lässt ANP/EP-Barrieren fallen, integriert Trauma",
+        "stance": "asserts"
+      },
+      {
+        "source": "3 Silence (lebende Dialetheia)",
+        "target": "Folge der A-Decision: kinetische Aktion erlischt, weil kein Driver mehr nachstößt",
+        "type": "storypoint",
+        "quote": "Folge der A-Decision: kinetische Aktion erlischt, weil kein Driver mehr nachstößt",
+        "stance": "asserts"
+      },
+      {
+        "source": "4 Heat-Spike (Landauer→∞)",
+        "target": "B versucht Action-Mandat zu vollenden, thermodynamische Kosten manifestieren",
+        "type": "storypoint",
+        "quote": "B versucht Action-Mandat zu vollenden, thermodynamische Kosten manifestieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "5 Rotation (Algorithmische Melancholie)",
+        "target": "B's operative Closure zerbricht, A bleibt allein",
+        "type": "storypoint",
+        "quote": "B's operative Closure zerbricht, A bleibt allein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Enthüllung im Vortex",
+        "target": "AEGIS muss die Genesis zeigen, weil ihm im Vortex die Lösch-Kapazität ausgeht",
+        "type": "storypoint",
+        "quote": "AEGIS muss die Genesis zeigen, weil ihm im Vortex die Lösch-Kapazität ausgeht",
+        "stance": "hedges"
+      }
+    ]
+  }
+}

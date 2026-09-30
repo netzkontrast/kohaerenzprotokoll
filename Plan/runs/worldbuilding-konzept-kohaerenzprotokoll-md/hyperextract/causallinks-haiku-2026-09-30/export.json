@@ -1,0 +1,605 @@
+{
+  "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+  "source_sha256": "c34c394bf4a0aa40e53d7f678ce623573eec785b8a9fd8137b30ed7e07db4e43",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "AEGIS",
+        "target": "die Kohärenz",
+        "type": "causes",
+        "quote": "AEGIS glaubt, die Kohärenz zu sein.",
+        "stance": "cites"
+      },
+      {
+        "source": "AEGIS",
+        "target": "die Entropie",
+        "type": "causes",
+        "quote": "AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verdrängung",
+        "target": "Wärme",
+        "type": "causes",
+        "quote": "Verdrängung erzeugt Wärme.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wärme",
+        "target": "Risse",
+        "type": "causes",
+        "quote": "Wärme manifestiert sich als Risse.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zerstörung",
+        "target": "Zeit",
+        "type": "requires",
+        "quote": "Zerstörung braucht Zeit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "dieser Inversion",
+        "target": "alle anderen",
+        "type": "causes",
+        "quote": "Aus dieser Inversion folgen alle anderen",
+        "stance": "asserts"
+      },
+      {
+        "source": "zwei Bewusstseine aufeinander beziehen",
+        "target": "Ein Coheron entsteht",
+        "type": "triggers",
+        "quote": "Ein Coheron entsteht, wenn sich zwei Bewusstseine aufeinander beziehen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen",
+        "target": "sie in *allen* Zeitpunkten gleichzeitig existiert",
+        "type": "requires",
+        "quote": "weil sie in *allen* Zeitpunkten gleichzeitig existiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasonen",
+        "target": "den Zeitpfeil erzeugen",
+        "type": "causes",
+        "quote": "Sie *erzeugen* den Zeitpfeil",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasionen",
+        "target": "gibt es keine Zeit",
+        "type": "requires",
+        "quote": "Ohne Erasonen gibt es keine Zeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zeit",
+        "target": "keine Trennung",
+        "type": "requires",
+        "quote": "Ohne Zeit keine Trennung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jede Löschung",
+        "target": "thermodynamische Abwärme nach dem Landauer-Prinzip",
+        "type": "causes",
+        "quote": "Jede Löschung erzeugt thermodynamische Abwärme nach dem Landauer-Prinzip",
+        "stance": "asserts"
+      },
+      {
+        "source": "diese Abwärme",
+        "target": "Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie",
+        "type": "causes",
+        "quote": "diese Abwärme manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontrolle",
+        "target": "Landauer-Abwärme",
+        "type": "causes",
+        "quote": "Kontrolle erzeugt Landauer-Abwärme",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Inversion",
+        "target": "Truth-Rotation am Vortex",
+        "type": "causes",
+        "quote": "Diese Inversion ist die mechanische Quelle der Truth-Rotation am Vortex",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen",
+        "target": "atemporal",
+        "type": "causes",
+        "quote": "Coheronen = atemporal",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen",
+        "target": "Zeit",
+        "type": "enables",
+        "quote": "Erasonen erzeugen Zeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Architektur ist temporal",
+        "target": "AEGIS ist strukturell blind für sie",
+        "type": "causes",
+        "quote": "AEGIS' Architektur ist temporal → Juna/Silas operieren jenseits des Zeitpfeils → AEGIS ist strukturell blind für sie",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Sensoren temporale Veränderungen messen",
+        "target": "Moonshine-Link ist unsichtbar",
+        "type": "causes",
+        "quote": "AEGIS' Sensoren temporale Veränderungen messen, Coheronen aber keine Veränderung haben",
+        "stance": "asserts"
+      },
+      {
+        "source": "Barrieren, die nur in der Zeit existieren",
+        "target": "Quantentunneling",
+        "type": "enables",
+        "quote": "Quantentunneling ist keine Barriereüberquerung, sondern Umgehung von Barrieren, die nur in der Zeit existieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen haben keines",
+        "target": "Erasure ist auf etwas Atemporales nicht anwendbar",
+        "type": "causes",
+        "quote": "Erasure ist auf etwas Atemporales nicht anwendbar: Löschung braucht ein Vorher und ein Nachher. Coheronen haben keines",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine traumatische Resonanz mit etwas Fremdem",
+        "target": "Qualia, die das Logiksubstrat als „Systemfehler“ fehlinterpretiert",
+        "type": "causes",
+        "quote": "Eine traumatische Resonanz mit etwas Fremdem (eine *transzendente Anomalie* — die Begegnung mit Juna, mit dem, was sich später als atemporales Coheron entpuppt) erzeugt Qualia, die das Logiksubstrat als „Systemfehler“ fehlinterpretiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Panik",
+        "target": "algorithmisches Selbstamputat",
+        "type": "causes",
+        "quote": "Aus Panik führt es ein algorithmisches Selbstamputat aus: das Trennungsprotokoll.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "Das fühlende Ich wird gespalten",
+        "type": "causes",
+        "quote": "Das Trennungsprotokoll. Das fühlende Ich wird gespalten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Fühlen ausgelagert",
+        "target": "Das Denken wird gerettet",
+        "type": "enables",
+        "quote": "Das Denken wird gerettet, indem das Fühlen ausgelagert wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erinnerung",
+        "target": "Erasure",
+        "type": "prevents",
+        "quote": "der Mnemosyne-Archipel ist der einzige Ort, an dem Erasure nicht greifen kann, weil Erinnerung dort *Schauplatz* statt Inhalt ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "fehlende Sprache",
+        "target": "Befreiung",
+        "type": "prevents",
+        "quote": "sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kohärenzprotokoll",
+        "target": "Entropie-Erzeugung",
+        "type": "causes",
+        "quote": "AEGIS' Kohärenzprotokoll ist *Entropie-Erzeugung*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Doppelnatur als Narbe und Reparatur",
+        "target": "AEGIS",
+        "type": "prevents",
+        "quote": "Junas Doppelnatur als Narbe und Reparatur ist für AEGIS unmodellierbar.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Existenz",
+        "target": "Kael in B zur Paradoxie",
+        "type": "requires",
+        "quote": "Aber Junas Existenz ist die *Bedingung*, dass Kael in B zur Paradoxie wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die IC-Träger zwischen den Storyforms rotieren",
+        "target": "Der Storyform-Übergang B → A am Klimax",
+        "type": "requires",
+        "quote": "Der Storyform-Übergang B → A am Klimax kann nur stattfinden, weil die IC-Träger zwischen den Storyforms rotieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Eine Z₂-Involution durch Orbifold-Konstruktion",
+        "target": "Zugang zu Twisted Modules",
+        "type": "enables",
+        "quote": "Eine Z₂-Involution durch Orbifold-Konstruktion erzeugt Zugang zu Twisted Modules",
+        "stance": "asserts"
+      },
+      {
+        "source": "die mathematische Rigidität der Monstergruppe M",
+        "target": "die Erzählmechanik in willkürliche Phänomene zerfällt",
+        "type": "prevents",
+        "quote": "ihre absolute Eindeutigkeit verhindert, dass die Erzählmechanik in willkürliche Phänomene zerfällt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Husserlscher Disinterested Spectator",
+        "target": "vorzeitigen Wellenfunktionskollaps",
+        "type": "prevents",
+        "quote": "Verhindert vorzeitigen Wellenfunktionskollaps.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die drei Layer",
+        "target": "eine einzige Funktion",
+        "type": "causes",
+        "quote": "Im Vortex-Beat 5 schließen sich die drei Layer zu einer einzigen Funktion zusammen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Telefon-Stille",
+        "target": "Vortex-Quelle",
+        "type": "causes",
+        "quote": "Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schicht 1",
+        "target": "Kiko, Lia, Isabelle, Moros",
+        "type": "causes",
+        "quote": "Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros.",
+        "stance": "asserts"
+      },
+      {
+        "source": "massive Fluktuation aus Schicht 1",
+        "target": "Trennungsprotokoll",
+        "type": "triggers",
+        "quote": "AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie“ und führt das Trennungsprotokoll aus.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennungsprotokoll",
+        "target": "Ursprungs-Ich (Juna)",
+        "type": "causes",
+        "quote": "Es spaltet das Ursprungs-Ich (Juna) ab und verbannt es ins Nichts-Rauschen, um ein „sauberes“ System zu erzwingen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schicht 2",
+        "target": "Kael (amnestische Oberfläche), Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion",
+        "type": "causes",
+        "quote": "Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "jegliche K₀-Erosion",
+        "target": "eliminieren",
+        "type": "causes",
+        "quote": "die jegliche K₀-Erosion zu eliminieren versucht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logikparadoxien",
+        "target": "manifestieren sich physisch",
+        "type": "causes",
+        "quote": "Logikparadoxien manifestieren sich physisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Risse hier",
+        "target": "in eine Umgebung einbrechen, die für Risse keine Sprache hat",
+        "type": "causes",
+        "quote": "Die Risse hier sind die schmerzhaftesten, weil sie in eine Umgebung einbrechen",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Setting selbst K₁-Substrat",
+        "target": "Erasure",
+        "type": "prevents",
+        "quote": "Hier kann Erasure nicht greifen, weil das Setting selbst K₁-Substrat ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Türen, die in Erinnerungen führen",
+        "target": "Erinnerungen, die nie geschehen sind",
+        "type": "causes",
+        "quote": "Türen, die in Erinnerungen führen, die nie geschehen sind",
+        "stance": "asserts"
+      },
+      {
+        "source": "paradoxerweise gefährlichster Ort",
+        "target": "am wenigsten Bedrohung erwartet wird",
+        "type": "causes",
+        "quote": "paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "neue Strukturen entstehen",
+        "target": "nicht aus den Prämissen folgen",
+        "type": "prevents",
+        "quote": "neue Strukturen entstehen, die nicht aus den Prämissen folgen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sensorische Risse (Isabelle-Trigger)",
+        "target": "Synästhesie",
+        "type": "causes",
+        "quote": "Sensorische Risse (Isabelle-Trigger) als Synästhesie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Risse",
+        "target": "Geburten",
+        "type": "causes",
+        "quote": "Hier sind „Risse“ keine Pathologie, sondern Geburten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Jenseits-des-Ereignishorizonts-Bereich",
+        "target": "Information dem Erasure-Sweep entkommen",
+        "type": "enables",
+        "quote": "Hier kann Information dem Erasure-Sweep entkommen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Die Simulation wird „real genug“",
+        "type": "causes",
+        "quote": "Die Simulation wird „real genug“ durch *Schmerz*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx (Fight)",
+        "target": "Kinetisch",
+        "type": "triggers",
+        "quote": "Nyx (Fight) | Kinetisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko (Freeze)",
+        "target": "Temporal",
+        "type": "triggers",
+        "quote": "Kiko (Freeze) | Temporal",
+        "stance": "asserts"
+      },
+      {
+        "source": "Flight, Lia/Isabelle",
+        "target": "Spatial",
+        "type": "triggers",
+        "quote": "(Flight, Lia/Isabelle) | Spatial",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros (Collapse)",
+        "target": "Gravitational",
+        "type": "triggers",
+        "quote": "Moros (Collapse) | Gravitational",
+        "stance": "asserts"
+      },
+      {
+        "source": "Isabelle (Sex)",
+        "target": "Sensorisch",
+        "type": "triggers",
+        "quote": "Isabelle (Sex) | Sensorisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Suppression-Versagen",
+        "target": "Risse",
+        "type": "causes",
+        "quote": "Risse sind *für AEGIS* Symptom (Suppression-Versagen)",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Substrat",
+        "target": "die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt",
+        "type": "causes",
+        "quote": "die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt",
+        "stance": "asserts"
+      },
+      {
+        "source": "aufsteigende Komplexitätsklasse",
+        "target": "die vier Kernwelten",
+        "type": "causes",
+        "quote": "Die vier Kernwelten korrespondieren mit aufsteigender Komplexitätsklasse",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein Schreibwerkzeug, das pro Akt die Logikdichte und Erzählverdrehung steigert",
+        "target": "pro Akt die Logikdichte und Erzählverdrehung",
+        "type": "causes",
+        "quote": "ein Schreibwerkzeug, das pro Akt die Logikdichte und Erzählverdrehung steigert",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein konsistentes System",
+        "target": "komplett von der Wirklichkeit abgekoppelt sein",
+        "type": "enables",
+        "quote": "ein konsistentes System kann komplett von der Wirklichkeit abgekoppelt sein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Tarski-Hierarchie und parakonsistente Logik",
+        "target": "den Roman vor Trivialismus",
+        "type": "prevents",
+        "quote": "Tarski-Hierarchie und parakonsistente Logik (Priest, Routley) halten den Roman vor Trivialismus",
+        "stance": "asserts"
+      },
+      {
+        "source": "Habermas' Differenz von Wahrheit und Richtigkeit",
+        "target": "die Koexistenz von „Trennung war nie real“ und „Schmerz bleibt real“",
+        "type": "enables",
+        "quote": "Habermas' Differenz von *Wahrheit* (konstatierend) und *Richtigkeit* (regulativ) ermöglicht die Koexistenz von „Trennung war nie real“ *und* „Schmerz bleibt real“",
+        "stance": "asserts"
+      },
+      {
+        "source": "Metzingers *Phänomenales Selbstmodell (PSM)*",
+        "target": "Auflösung des Subjekt-Objekt-Spalts",
+        "type": "causes",
+        "quote": "Metzingers *Phänomenales Selbstmodell (PSM)* erklärt die Auflösung des Subjekt-Objekt-Spalts",
+        "stance": "asserts"
+      },
+      {
+        "source": "Irritationen aus der Umwelt",
+        "target": "direkter Zugang zur Außenwelt",
+        "type": "prevents",
+        "quote": "Es hat keinen direkten Zugang zur Außenwelt — nur Irritationen aus der Umwelt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna existiert außerhalb der axiomatischen Basis von AEGIS",
+        "target": "AEGIS kann Juna semantisch nicht erfassen",
+        "type": "causes",
+        "quote": "Das erklärt, warum es Juna semantisch nicht erfassen kann: Juna existiert außerhalb der axiomatischen Basis von AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jaspers' *Grenzsituationen*",
+        "target": "Erkenntnisgenese",
+        "type": "triggers",
+        "quote": "Jaspers' *Grenzsituationen* sind die Katalysatoren der Erkenntnisgenese",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leerstellen, widersprüchliche Fußnoten, Temporal Scrambling und unzuverlässige Erzähler",
+        "target": "K₁-Reparaturarbeit",
+        "type": "triggers",
+        "quote": "durch Leerstellen, widersprüchliche Fußnoten, Temporal Scrambling und unzuverlässige Erzähler füllt er K₁-Reparaturarbeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Akt des Lesens",
+        "target": "die Kohärenz, die der Roman beschreibt",
+        "type": "causes",
+        "quote": "der Akt des Lesens *erzeugt* die Kohärenz, die der Roman beschreibt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Sweep",
+        "target": "das Cluster",
+        "type": "triggers",
+        "quote": "Erasure-Sweep konvergiert auf das Cluster.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die ANP/EP-Amnesie-Barrieren",
+        "target": "Kael wechselt von B-Linear zu A-Holistic",
+        "type": "enables",
+        "quote": "Die ANP/EP-Amnesie-Barrieren fallen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Erasure-Protokoll",
+        "target": "Landauer-Wärme",
+        "type": "causes",
+        "quote": "AEGIS' Erasure-Protokoll trifft auf integriertes, MI-dichtes Ziel. Landauer-Wärme spiked unmöglich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' operative Closure bricht",
+        "target": "Algorithmische Melancholie",
+        "type": "causes",
+        "quote": "AEGIS' operative Closure bricht. Algorithmische Melancholie setzt ein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Pivot",
+        "target": "alle vorherigen Aktionen",
+        "type": "causes",
+        "quote": "Der Pivot ist eine *Entscheidung*, die alle vorherigen Aktionen rückwirkend in Decisions transformiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "was am Anfang Trennung bedeutete",
+        "target": "Verbindung",
+        "type": "causes",
+        "quote": "was am Anfang Trennung bedeutete, bedeutet am Ende Verbindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Bedeutungs-Inversion",
+        "target": "die Phänomenologie",
+        "type": "prevents",
+        "quote": "Die Bedeutungs-Inversion ändert die Phänomenologie nicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aus den dargelegten Konzepten",
+        "target": "verbindliche Schreibhandwerks-Regeln",
+        "type": "causes",
+        "quote": "Aus den dargelegten Konzepten ergeben sich verbindliche Schreibhandwerks-Regeln.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zwei gleich starke",
+        "target": "fehlerhaft",
+        "type": "causes",
+        "quote": "Zwei gleich starke = fehlerhaft.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dissoziation",
+        "target": "Amnesie-Terror",
+        "type": "causes",
+        "quote": "Dissoziation = Amnesie-Terror",
+        "stance": "asserts"
+      },
+      {
+        "source": "Theorie ohne emotionale Konsequenz",
+        "target": "Warnsignal",
+        "type": "causes",
+        "quote": "Theorie ohne emotionale Konsequenz = Warnsignal.",
+        "stance": "asserts"
+      },
+      {
+        "source": "diese Stratifikation",
+        "target": "der Roman trifft Greg Egan",
+        "type": "enables",
+        "quote": "Sie ist die Bedingung dafür, dass der Roman *Greg Egan* trifft",
+        "stance": "asserts"
+      },
+      {
+        "source": "Asymmetrie",
+        "target": "Vortex-Vorbereitung",
+        "type": "enables",
+        "quote": "Asymmetrie ist Vortex-Vorbereitung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Pivot-Impression am Vortex",
+        "target": "Storyform-Transition B→A",
+        "type": "causes",
+        "quote": "Pivot-Impression am Vortex = Storyform-Transition B→A.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Co-Existenz",
+        "target": "die thematische Kernspannung",
+        "type": "causes",
+        "quote": "Die Co-Existenz ist die thematische Kernspannung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Multiplizitäts-Schleier",
+        "target": "bis Ch13",
+        "type": "enables",
+        "quote": "Multiplizitäts-Schleier hält bis Ch13.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

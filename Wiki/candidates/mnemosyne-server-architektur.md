@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne-Server-Architektur
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,12 @@ gathered: "2026-09-24"
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the server core as the climax's setting
 
 The audit says the climax is an ontological rotation „occurring within the server core of the Mnemosyne-Archipel“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L36]. It calls the Archipel the „server substrate“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L6]. It gives no image of the server and no geography.
+
+## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — the server core of the Mnemosyne-Archipel as the finale's setting, inside a high-entropy environment of continuous erasure
+
+The audit writes `Server-Kern` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#1] once, for the place of the finale: its section on the climax calls the finale a phase that, the audit says, is called `Vortex-Inversion` (its own marks) „im Server-Kern des Mnemosyne-Archipels bezeichnet wird“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L169]. The archipelago around it is described as an environment of erasure: „hoch-entropischen Umgebung, wie sie durch die kontinuierlichen Löschungszyklen und die Datenkorrosion des Mnemosyne-Archipels entsteht“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L57]. At the end of the collapse one element stays, a silence that „das den irreversiblen Kollaps jeglicher simulierten Bedeutungen im Server-Substrat übersteht“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L187].
+
+It places no chapter (`Kap` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0]) and names no Kernwelt (`Kernwelt` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#0]); which world the archipelago is, this page's KW2 or another, is not said.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
@@ -52,3 +58,7 @@ The Vortex chapter says it twice more. Beat 1: „AEGIS isoliert Kaels Fragmente
 
 The document gives the Vortex no number (`Vortex-1` and `Vortex 1` 0, counted in `05-verify-readers.txt`). It also says of the same
 world „Hier kann Erasure nicht greifen, weil das Setting selbst K₁-Substrat ist." ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L500] — both stand; the page does not reconcile them.
+
+## Where the sources differ
+
+- The Audit places the finale, Vortex-Inversion, in the server core of the Mnemosyne-Archipel, a high-entropy environment of continuous erasure, and names no chapter or Kernwelt.

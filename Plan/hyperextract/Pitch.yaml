@@ -1,0 +1,52 @@
+# Pitch — how a source positions the book — logline, hook, genre, comparable titles, audience — with the sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the developmental-editor's intake (genre and comps, publication path) and agent-first-pages (what a Leseprobe and Exposé promise to a stranger): both begin
+#   with how the book is positioned, and the sources hold it in scattered sentences.
+# measured against: the author's own positioning once given; until then, a record whose subject and phrase stand inside its quote is the precise subset. A quote is placed by read.py --find (P26).
+# may not: write a pitch, decide the genre or the comps, or judge whether the book fits — positioning is the author's; a record here is a P_HE_PITCH proposal
+# retire when: on three documents a person keeps no positioning beyond the author's own
+language: en
+name: Pitch
+type: list
+tags: [pitch, genre, logline, german]
+description: "How a source positions the book — logline, hook, genre, comparable titles, audience — with the sentence, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The work, or the part of it, the sentence positions, as the source writes it."
+      required: true
+    - name: target
+      type: str
+      description: "The logline, hook, genre, comparable title or audience as a short phrase exactly as the source writes it."
+      required: true
+    - name: type
+      type: str
+      description: "logline: the story in one sentence. hook: what draws a reader in. genre: where it sits. comp: a comparable title. audience: who it is for. promise: what a reader is promised."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German document about a novel and collect, verbatim, the sentences that position it — genre, hook, comparable titles, audience — so that a person can see how the sources describe it to a stranger."
+  rules:
+    - "Record a record only when ONE sentence gives the positioning: Logline, Genre, vergleichbar mit, Zielgruppe, Hook, Pitch, Versprechen, für Leser von."
+    - "The subject and the phrase both stand inside the quote."
+    - "A comparison the source draws for its own understanding rather than for a reader is recorded with stance cites."
+    - "Never infer a genre or a comparison from the content; never write the pitch."
+    - "When the words do not position the book, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

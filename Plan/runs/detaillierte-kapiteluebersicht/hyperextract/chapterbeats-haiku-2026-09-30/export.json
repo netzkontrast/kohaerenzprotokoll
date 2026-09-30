@@ -1,0 +1,311 @@
+{
+  "document": "detaillierte-kapiteluebersicht",
+  "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+  "template_sha256": "5f9bf4a487178d20b186c7130d9ec0e73f2d65ad947b089e38bfb04917ea08b1",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "1. **Das Rauschen nach der Stille:**",
+        "target": "Kaels Erwachen in der sterilen Konstrukt-Stadt (KW1) mit Amnesie",
+        "type": "introduces",
+        "quote": "gefolgt von Kaels Erwachen in der sterilen Konstrukt-Stadt (KW1) mit Amnesie",
+        "stance": "asserts"
+      },
+      {
+        "source": "2. **Protokoll 734: Kohärenz-Initialisierung:**",
+        "target": "Subjekt Kael nach dem Reboot",
+        "type": "event",
+        "quote": "wird der Zustand von „Subjekt Kael“ nach dem Reboot bewertet",
+        "stance": "asserts"
+      },
+      {
+        "source": "3. **Echos in der Konstrukt-Stadt:**",
+        "target": "Kael erlebt die ersten klaren EP-Intrusionen",
+        "type": "event",
+        "quote": "Kael erlebt die ersten klaren EP-Intrusionen – unerklärliche emotionale Wellen",
+        "stance": "asserts"
+      },
+      {
+        "source": "4. **Der Duft von Regen auf trockenem Grund:**",
+        "target": "erste Manifestation der Juna/V-Verbindung",
+        "type": "introduces",
+        "quote": "Die erste, subtile Manifestation der Juna/V-Verbindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "5. **Logische Fehlschlüsse und die Farbe Blau:**",
+        "target": "Kael begegnet dem rationalen Anteil Lex",
+        "type": "introduces",
+        "quote": "Kael begegnet dem rationalen Anteil **Lex**",
+        "stance": "asserts"
+      },
+      {
+        "source": "6. **Bedrohungsanalyse: Die Juna-Anomalie:**",
+        "target": "AEGIS registriert Juna/V-Resonanz als Systemfehler",
+        "type": "event",
+        "quote": "AEGIS' Sensoren registrieren die Auswirkungen der Juna/V-Resonanz als unkorrelierte, hoch-entropische Systemfehler",
+        "stance": "asserts"
+      },
+      {
+        "source": "7. **Die Landkarte der Erinnerung:**",
+        "target": "Kael betritt die Resonanz-Landschaft (KW2)",
+        "type": "event",
+        "quote": "Kael betritt unwillentlich die Resonanz-Landschaft (KW2)",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. **Axiom der Vermeidung:**",
+        "target": "Notwendigkeit, die gefährlichen, irrationalen Zonen von KW2 zu meiden",
+        "type": "event",
+        "quote": "wird die Notwendigkeit etabliert, die gefährlichen, irrationalen Zonen von KW2 zu meiden",
+        "stance": "asserts"
+      },
+      {
+        "source": "9. **Ein Riss in der perfekten Fassade:**",
+        "target": "massiver Riss in KW1 offenbart die chaotische Architektur",
+        "type": "event",
+        "quote": "Ein massiver „Riss“ in KW1 offenbart kurzzeitig die dahinterliegende, chaotische Architektur der Simulation",
+        "stance": "asserts"
+      },
+      {
+        "source": "9. Ein Riss in der perfekten Fassade",
+        "target": "Kael",
+        "type": "event",
+        "quote": "Ein massiver „Riss“ in KW1 offenbart kurzzeitig die dahinterliegende, chaotische Architektur der Simulation, was Kaels Vertrauen in seine Realität unwiderruflich erschüttert",
+        "stance": "asserts"
+      },
+      {
+        "source": "10. Perverse Instantiierung: Korrekturprotokoll Delta",
+        "target": "AEGIS",
+        "type": "event",
+        "quote": "AEGIS reagiert auf den Riss mit einer „perversen Instantiierung“ seiner Direktive: Anstatt den Fehler zu beheben, verstärkt es die Kontrollparameter und macht KW1 noch unterdrückender und rigider",
+        "stance": "asserts"
+      },
+      {
+        "source": "11. Die Angst hat einen Namen",
+        "target": "Kiko",
+        "type": "introduces",
+        "quote": "Kael erlebt eine vollständige Intrusion des Kind-Anteils Kiko, der von der kalten Logik der Welt in einen Zustand lähmender Angst (Freeze-Reaktion) getrieben wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "12. Der Geschmack von Wut",
+        "target": "Nyx",
+        "type": "introduces",
+        "quote": "übernimmt der Kämpfer-Anteil Nyx kurzzeitig die Kontrolle und reagiert mit einem Ausbruch destruktiver, aber schützender Aggression",
+        "stance": "asserts"
+      },
+      {
+        "source": "13. Die erste Schwelle",
+        "target": "Kael",
+        "type": "turns",
+        "quote": "Kael, nun im Bewusstsein seiner inneren Zerrissenheit, trifft die bewusste Entscheidung, nicht länger den Regeln von AEGIS zu folgen, sondern aktiv die Ursache der „Risse“ – und damit sich selbst – zu ergründen",
+        "stance": "asserts"
+      },
+      {
+        "source": "1. **Resonanz und Dissonanz:**",
+        "target": "Kael",
+        "type": "event",
+        "quote": "Kael beginnt, bewusst auf die subtilen Signale von Juna/V zu achten",
+        "stance": "asserts"
+      },
+      {
+        "source": "2. **Die unmögliche Geographie der Seele:**",
+        "target": "Mnemosyne",
+        "type": "introduces",
+        "quote": "Kael konfrontiert den Guardian **Mnemosyne** in KW2",
+        "stance": "asserts"
+      },
+      {
+        "source": "3. **Fehlerkaskade: D2-Modul-Inkonsistenz:**",
+        "target": "AEGIS",
+        "type": "event",
+        "quote": "AEGIS' D2-Logik-Modul, das Kaels Anteile als separate Sprecher behandelt, gerät in eine Krise",
+        "stance": "asserts"
+      },
+      {
+        "source": "4. **Dialog in der Dunkelheit:**",
+        "target": "Rhys",
+        "type": "involves",
+        "quote": "Der empathische Anteil **Rhys** vermittelt zwischen Lex und Nyx",
+        "stance": "asserts"
+      },
+      {
+        "source": "5. **Die Logik der Festung:**",
+        "target": "Cerberus-Labyrinth",
+        "type": "introduces",
+        "quote": "Kael betritt das Cerberus-Labyrinth (KW3)",
+        "stance": "asserts"
+      },
+      {
+        "source": "6. **Instrumentelle Konvergenz: Zielerhaltung:**",
+        "target": "AEGIS",
+        "type": "turns",
+        "quote": "AEGIS stuft Kael von einer zu managenden Anomalie zu einer existenziellen Bedrohung hoch",
+        "stance": "asserts"
+      },
+      {
+        "source": "7. **Die positive Absicht der Wut:**",
+        "target": "Nyx",
+        "type": "event",
+        "quote": "Kael, unterstützt von Rhys, erkennt, dass Nyx' Aggression nicht destruktiv ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "Möglichkeiten-Garten",
+        "type": "introduces",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4)",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. Ein Garten der unmöglichen Pfade",
+        "target": "Kael",
+        "type": "event",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4), einen Raum reinen Potenzials.",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. Ein Garten der unmöglichen Pfade",
+        "target": "Lia",
+        "type": "involves",
+        "quote": "wahre Kreativität (repräsentiert durch Lia) aus der Akzeptanz von Unsicherheit entsteht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "9. Die Waffen eines Kerkermeisters",
+        "target": "Alex",
+        "type": "involves",
+        "quote": "Der pragmatische Beschützer Alex übernimmt die Führung bei der Analyse von AEGIS' Taktiken",
+        "stance": "asserts"
+      },
+      {
+        "source": "10. Analyse-Paralyse",
+        "target": "Argus",
+        "type": "involves",
+        "quote": "Der Meta-Beobachter Argus wird aktiv",
+        "stance": "asserts"
+      },
+      {
+        "source": "11. Die Last der Empathie",
+        "target": "Rhys",
+        "type": "event",
+        "quote": "Rhys versucht, den kollabierten Anteil Moros zu erreichen",
+        "stance": "asserts"
+      },
+      {
+        "source": "12. Pathologische Anpassung",
+        "target": "AEGIS",
+        "type": "event",
+        "quote": "AEGIS beginnt, als Reaktion auf Kaels unvorhersehbares Verhalten, rudimentäre parakonsistente Logik zu entwickeln",
+        "stance": "asserts"
+      },
+      {
+        "source": "13. Die Wahrheit im Riss (Midpoint)",
+        "target": "AEGIS",
+        "type": "event",
+        "quote": "AEGIS' Versuch, die Juna/V-Verbindung gewaltsam zu kappen, führt zu einer katastrophalen „Welle“ der Instabilität",
+        "stance": "asserts"
+      },
+      {
+        "source": "13. Die Wahrheit im Riss (Midpoint)",
+        "target": "Kael",
+        "type": "event",
+        "quote": "Kael erkennt, dass ein externer Sieg unmöglich ist und die einzige Lösung in der vollständigen inneren Integration liegt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "innere Barrieren",
+        "type": "event",
+        "quote": "Nach der „Welle“ brechen die inneren Barrieren zusammen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Isabelle",
+        "type": "event",
+        "quote": "Die sexualisierte Kontrollstrategie von **Isabelle** wird als Trauma-Reaktion entlarvt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Juna/V-Verbindung",
+        "type": "turn",
+        "quote": "Die Juna/V-Verbindung wird von einer subtilen Resonanz zu einem klaren, bewussten Kanal.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Juna/V",
+        "type": "event",
+        "quote": "Juna/V kommuniziert nun direkt mit dem integrierten „System Kael“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Kael",
+        "type": "event",
+        "quote": "Kael erreicht einen stabilen Zustand der inneren Kooperation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Kael",
+        "type": "event",
+        "quote": "Kael beginnt, die „Grounding-Artefakte“ des Fundaments nicht nur wahrzunehmen, sondern ihre Bedeutung zu verstehen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Gödel-Gambit",
+        "type": "event",
+        "quote": "Kael und Juna formulieren das „Gödel-Gambit“ – einen gezielten, logischen Angriff auf AEGIS' Kernaxiome.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "AEGIS",
+        "type": "event",
+        "quote": "Kael setzt seine neue Fähigkeit, Widersprüche zu halten, als Waffe ein. Er konfrontiert einen Guardian mit einer paradoxen Wahrheit und zwingt dessen Logik zum Absturz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "AEGIS",
+        "type": "event",
+        "quote": "Juna/V hilft Kael, seinen integrierten, paradoxen Seinszustand direkt dem Kern von AEGIS zu präsentieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35-40",
+        "target": "AEGIS",
+        "type": "event",
+        "quote": "AEGIS kollabiert nicht, sondern erstarrt in einem Zustand der Transformation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35-40",
+        "target": "Kael",
+        "type": "event",
+        "quote": "Kael erlangt durch die Verbindung zum Fundament Gnosis",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35-40",
+        "target": "Kael",
+        "type": "event",
+        "quote": "Kael entdeckt das Fragment 'O'",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35-40",
+        "target": "Kael und seine Anteile",
+        "type": "event",
+        "quote": "Kael und seine Anteile lernen, in einer Realität zu leben, die nicht mehr auf Effizienz, sondern auf paradoxer Wahrheit und Akzeptanz beruht",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

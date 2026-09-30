@@ -1,0 +1,45 @@
+{
+  "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+  "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+  "template_sha256": "fd0f0f1bd7ac7d9a599dd38ee8627c87bcfbfdf953de5913a8359d4916bcd3c7",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "chorische Polyphonie",
+        "target": "Wir-Stimme",
+        "type": "diegetic_form_of",
+        "quote": "Wir-Stimme (chorische Polyphonie, ab Kap 9 zaghaft, ab Akt III stabil)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 1",
+        "target": "Akt I / Kernwelt 1 (Kap 1–13)",
+        "type": "diegetic_form_of",
+        "quote": "Stilebene 1 — Akt I / Kernwelt 1 (Kap 1–13)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 2",
+        "target": "Akt II / Kernwelten 2–3 (Kap 14–26)",
+        "type": "diegetic_form_of",
+        "quote": "Stilebene 2 — Akt II / Kernwelten 2–3 (Kap 14–26)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 3",
+        "target": "Akt III / Kernwelt 4 + Juna (Kap 27–39)",
+        "type": "diegetic_form_of",
+        "quote": "Stilebene 3 — Akt III / Kernwelt 4 + Juna (Kap 27–39)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Stimme",
+        "target": "Teil des Geflechts oder als Raum, in dem das Geflecht klingt",
+        "type": "diegetic_form_of",
+        "quote": "Junas Stimme erscheint als Teil des Geflechts oder als Raum, in dem das Geflecht klingt.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

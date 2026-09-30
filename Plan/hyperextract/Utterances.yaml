@@ -1,0 +1,52 @@
+# Utterances — what a figure says in a narrative text, each utterance copied with its speaker and its kind.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the dialogue-gym's voice drills (distinct voices without speaker tags: cover the tags and see whether you can still tell who speaks), the character card's Voice field, and
+#   the brief's voice sample of about 200 words. The corpus holds narrative texts of several chapters; who speaks a line is a reading of the attribution.
+# measured against: the voice samples a reviewer picks from approved chapters, once they exist; until then, an utterance whose speaker stands within a line of it is the precise subset. A quote is placed by read.py --find (P26).
+# may not: write dialogue, attribute a line the text leaves unlabelled — voices the book never labels stay unlabelled — or judge a voice; an utterance here is a P_HE_UTTERANCE sample
+# retire when: on three narrative texts a person picks no sample from the utterances offered
+language: en
+name: Utterances
+type: list
+tags: [dialogue, voice, speakers, german]
+description: "What a figure says in a narrative text, each utterance copied with its speaker and its kind, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The speaker exactly as the narrative text names or tags it; if the text gives none, the word unlabelled."
+      required: true
+    - name: target
+      type: str
+      description: "The first words of the utterance, exactly as written."
+      required: true
+    - name: type
+      type: str
+      description: "speech: spoken aloud to another. thought: unspoken, in the figure's head. log: a system's log line or directive. self_command: a command the figure gives itself. address: spoken to the reader or to no one."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German narrative text and collect, verbatim, the utterances of its figures with the speaker the text gives, so that a person can sort the voices."
+  rules:
+    - "Record an utterance only when the text marks it: quotation marks, a dash, a tag, a log format, an italic self-command."
+    - "The speaker is the one the text names or tags; if the text gives none, record unlabelled and never guess."
+    - "The utterance is copied character for character from ONE line."
+    - "Never merge two utterances; never record narration as an utterance."
+    - "When the text gives no speaker and no mark, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

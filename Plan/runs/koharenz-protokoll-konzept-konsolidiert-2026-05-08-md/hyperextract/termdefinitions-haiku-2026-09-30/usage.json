@@ -1,0 +1,12 @@
+{
+  "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+  "template": "TermDefinitions.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 55,
+  "failed_calls": 2,
+  "seconds": 272.0,
+  "input_tokens": 282848,
+  "output_tokens": 16828,
+  "cost_usd": 0.6497,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

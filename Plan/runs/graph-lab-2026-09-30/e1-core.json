@@ -1,0 +1,3077 @@
+{
+ "configs": [
+  {
+   "name": "default (graphrag.WEIGHTS)",
+   "weights": {
+    "links": 1.0,
+    "contests": 0.8,
+    "raised_by": 0.8,
+    "concerns": 0.5,
+    "reads": 0.3,
+    "cites": 0.3,
+    "asks": 0.3
+   },
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "uniform: every type 1.0",
+   "weights": {
+    "links": 1.0,
+    "contests": 1.0,
+    "raised_by": 1.0,
+    "concerns": 1.0,
+    "reads": 1.0,
+    "cites": 1.0,
+    "asks": 1.0
+   },
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.6666666666666666,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.7142857142857143,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.2727272727272727,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.7142857142857143,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "only links",
+   "weights": {
+    "links": 1.0,
+    "contests": 0.0,
+    "raised_by": 0.0,
+    "concerns": 0.0,
+    "reads": 0.0,
+    "cites": 0.0,
+    "asks": 0.0
+   },
+   "recall": 0.6808742183742185,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 1.0,
+     "precision": 0.5,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.7142857142857143,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.2727272727272727,
+     "precision": 0.375,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.7142857142857143,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.6666666666666666,
+     "precision": 0.5,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 0.5,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "only contests",
+   "weights": {
+    "links": 0.0,
+    "contests": 1.0,
+    "raised_by": 0.0,
+    "concerns": 0.0,
+    "reads": 0.0,
+    "cites": 0.0,
+    "asks": 0.0
+   },
+   "recall": 0.657781685906686,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.2,
+     "precision": 1.0,
+     "recall_wide": 0.2,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 0.0,
+     "precision": 0.0,
+     "recall_wide": 0.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.5,
+     "precision": 1.0,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.2,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 0.5,
+     "precision": 1.0,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.7777777777777778,
+     "precision": 0.875,
+     "recall_wide": 0.7777777777777778,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.7142857142857143,
+     "precision": 0.625,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 1.0,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 0.5,
+     "precision": 0.5,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.6363636363636364,
+     "precision": 0.875,
+     "recall_wide": 0.8181818181818182,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.375,
+     "precision": 0.375,
+     "recall_wide": 0.625,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.4,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 1.0,
+     "precision": 0.875,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "only raised_by",
+   "weights": {
+    "links": 0.0,
+    "contests": 0.0,
+    "raised_by": 1.0,
+    "concerns": 0.0,
+    "reads": 0.0,
+    "cites": 0.0,
+    "asks": 0.0
+   },
+   "recall": 0.6066994348244348,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.2,
+     "precision": 1.0,
+     "recall_wide": 0.2,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 0.0,
+     "precision": 0.0,
+     "recall_wide": 0.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.5,
+     "precision": 1.0,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.2,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 0.5,
+     "precision": 1.0,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.7777777777777778,
+     "precision": 0.875,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.8571428571428571,
+     "precision": 0.75,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 1.0,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.7272727272727273,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.375,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.2,
+     "precision": 0.2,
+     "recall_wide": 0.2,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 0.5,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "only concerns",
+   "weights": {
+    "links": 0.0,
+    "contests": 0.0,
+    "raised_by": 0.0,
+    "concerns": 1.0,
+    "reads": 0.0,
+    "cites": 0.0,
+    "asks": 0.0
+   },
+   "recall": 0.5308381433381434,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.2,
+     "precision": 1.0,
+     "recall_wide": 0.2,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 0.0,
+     "precision": 0.0,
+     "recall_wide": 0.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.5,
+     "precision": 1.0,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.2,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 0.5,
+     "precision": 1.0,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.1111111111111111,
+     "precision": 1.0,
+     "recall_wide": 0.1111111111111111,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.6666666666666666,
+     "recall_wide": 0.4,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.2857142857142857,
+     "precision": 1.0,
+     "recall_wide": 0.2857142857142857,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 1.0,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 0.5,
+     "precision": 0.5,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.09090909090909091,
+     "precision": 0.25,
+     "recall_wide": 0.09090909090909091,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 1.0,
+     "recall_wide": 0.25,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.2,
+     "precision": 0.5,
+     "recall_wide": 0.2,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.6666666666666666,
+     "recall_wide": 0.2857142857142857,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.6666666666666666,
+     "precision": 1.0,
+     "recall_wide": 0.6666666666666666,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.4,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.42857142857142855,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.42857142857142855,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "only reads",
+   "weights": {
+    "links": 0.0,
+    "contests": 0.0,
+    "raised_by": 0.0,
+    "concerns": 0.0,
+    "reads": 1.0,
+    "cites": 0.0,
+    "asks": 0.0
+   },
+   "recall": 0.6195797258297259,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 0.0,
+     "precision": 0.0,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.3333333333333333,
+     "precision": 0.375,
+     "recall_wide": 0.4444444444444444,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.4,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.42857142857142855,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.18181818181818182,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.25,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.42857142857142855,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "only cites",
+   "weights": {
+    "links": 0.0,
+    "contests": 0.0,
+    "raised_by": 0.0,
+    "concerns": 0.0,
+    "reads": 0.0,
+    "cites": 1.0,
+    "asks": 0.0
+   },
+   "recall": 0.6195797258297259,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 0.0,
+     "precision": 0.0,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.3333333333333333,
+     "precision": 0.375,
+     "recall_wide": 0.4444444444444444,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.4,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.42857142857142855,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.18181818181818182,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.25,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.42857142857142855,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "only asks",
+   "weights": {
+    "links": 0.0,
+    "contests": 0.0,
+    "raised_by": 0.0,
+    "concerns": 0.0,
+    "reads": 0.0,
+    "cites": 0.0,
+    "asks": 1.0
+   },
+   "recall": 0.5308381433381434,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.2,
+     "precision": 1.0,
+     "recall_wide": 0.2,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 0.0,
+     "precision": 0.0,
+     "recall_wide": 0.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.5,
+     "precision": 1.0,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.2,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 0.5,
+     "precision": 1.0,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.1111111111111111,
+     "precision": 1.0,
+     "recall_wide": 0.1111111111111111,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.6666666666666666,
+     "recall_wide": 0.4,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.2857142857142857,
+     "precision": 1.0,
+     "recall_wide": 0.2857142857142857,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 1.0,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.3333333333333333,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 0.5,
+     "precision": 0.5,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.09090909090909091,
+     "precision": 0.25,
+     "recall_wide": 0.09090909090909091,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 1.0,
+     "recall_wide": 0.25,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.2,
+     "precision": 0.5,
+     "recall_wide": 0.2,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.6666666666666666,
+     "recall_wide": 0.2857142857142857,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.6666666666666666,
+     "precision": 1.0,
+     "recall_wide": 0.6666666666666666,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.4,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.42857142857142855,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.42857142857142855,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "default without links",
+   "weights": {
+    "links": 0.0,
+    "contests": 0.8,
+    "raised_by": 0.8,
+    "concerns": 0.5,
+    "reads": 0.3,
+    "cites": 0.3,
+    "asks": 0.3
+   },
+   "recall": 0.6091630591630592,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 0.0,
+     "precision": 0.0,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.5,
+     "precision": 0.25,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.3333333333333333,
+     "precision": 0.375,
+     "recall_wide": 0.5555555555555556,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.4,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.42857142857142855,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.2727272727272727,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.375,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.42857142857142855,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "default without contests",
+   "weights": {
+    "links": 1.0,
+    "contests": 0.0,
+    "raised_by": 0.8,
+    "concerns": 0.5,
+    "reads": 0.3,
+    "cites": 0.3,
+    "asks": 0.3
+   },
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.45454545454545453,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.7142857142857143,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "default without raised_by",
+   "weights": {
+    "links": 1.0,
+    "contests": 0.8,
+    "raised_by": 0.0,
+    "concerns": 0.5,
+    "reads": 0.3,
+    "cites": 0.3,
+    "asks": 0.3
+   },
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.45454545454545453,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "default without concerns",
+   "weights": {
+    "links": 1.0,
+    "contests": 0.8,
+    "raised_by": 0.8,
+    "concerns": 0.0,
+    "reads": 0.3,
+    "cites": 0.3,
+    "asks": 0.3
+   },
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "default without reads",
+   "weights": {
+    "links": 1.0,
+    "contests": 0.8,
+    "raised_by": 0.8,
+    "concerns": 0.5,
+    "reads": 0.0,
+    "cites": 0.3,
+    "asks": 0.3
+   },
+   "recall": 0.6944474506974507,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "default without cites",
+   "weights": {
+    "links": 1.0,
+    "contests": 0.8,
+    "raised_by": 0.8,
+    "concerns": 0.5,
+    "reads": 0.3,
+    "cites": 0.0,
+    "asks": 0.3
+   },
+   "recall": 0.6944474506974507,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "default without asks",
+   "weights": {
+    "links": 1.0,
+    "contests": 0.8,
+    "raised_by": 0.8,
+    "concerns": 0.5,
+    "reads": 0.3,
+    "cites": 0.3,
+    "asks": 0.0
+   },
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "seeds alone, no walk (graphrag's `seeds`)",
+   "weights": {},
+   "recall": 0.5308381433381434,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.2,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.5,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 0.5,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.1111111111111111,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.2857142857142857,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 0.5,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.09090909090909091,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.2,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.6666666666666666,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": null,
+     "recall_wide": null,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "learned on all 24 (in sample: an upper bound, not a result)",
+   "weights": {
+    "links": 0.8,
+    "contests": 1.5,
+    "raised_by": 0.8,
+    "concerns": 0.5,
+    "reads": 0.3,
+    "cites": 0.3,
+    "asks": 0.3
+   },
+   "recall": 0.6944474506974507,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "name": "learned, 6-fold cross-validated (each case scored by weights fitted without it)",
+   "weights": {},
+   "recall": 0.6944474506974507,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  }
+ ],
+ "learned": {
+  "weights": {
+   "links": 0.8,
+   "contests": 1.5,
+   "raised_by": 0.8,
+   "concerns": 0.5,
+   "reads": 0.3,
+   "cites": 0.3,
+   "asks": 0.3
+  },
+  "objective": 0.758008658008658
+ },
+ "folds": [
+  {
+   "links": 0.8,
+   "contests": 1.5,
+   "raised_by": 0.8,
+   "concerns": 0.5,
+   "reads": 0.3,
+   "cites": 0.3,
+   "asks": 0.3
+  },
+  {
+   "links": 0.8,
+   "contests": 1.0,
+   "raised_by": 0.8,
+   "concerns": 0.5,
+   "reads": 0.3,
+   "cites": 0.3,
+   "asks": 0.3
+  },
+  {
+   "links": 0.8,
+   "contests": 1.5,
+   "raised_by": 0.8,
+   "concerns": 0.5,
+   "reads": 0.3,
+   "cites": 0.3,
+   "asks": 0.3
+  },
+  {
+   "links": 0.8,
+   "contests": 1.5,
+   "raised_by": 0.8,
+   "concerns": 0.5,
+   "reads": 0.3,
+   "cites": 0.3,
+   "asks": 0.3
+  },
+  {
+   "links": 0.8,
+   "contests": 1.5,
+   "raised_by": 0.8,
+   "concerns": 0.5,
+   "reads": 0.3,
+   "cites": 0.3,
+   "asks": 0.3
+  },
+  {
+   "links": 1.0,
+   "contests": 1.5,
+   "raised_by": 0.8,
+   "concerns": 0.5,
+   "reads": 0.3,
+   "cites": 0.3,
+   "asks": 0.3
+  }
+ ]
+}

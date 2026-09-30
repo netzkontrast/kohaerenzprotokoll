@@ -1,0 +1,493 @@
+{
+  "document": "kp-kap25-2026-09-14-md",
+  "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+  "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "unlabelled",
+        "target": "Kein Manifest, keine Drohung, keine AEGIS-Personalisierung.",
+        "type": "address",
+        "quote": "Kein Manifest, keine Drohung, keine AEGIS-Personalisierung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Die Nicht-Handlung muss als Entscheidung lesbar sein, nicht als Freeze.",
+        "type": "address",
+        "quote": "Die Nicht-Handlung muss als Entscheidung lesbar sein, nicht als Freeze.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Kap 26 trägt die Konsequenz; Kap 25 selbst bleibt still.",
+        "type": "address",
+        "quote": "Kap 26 trägt die Konsequenz; Kap 25 selbst bleibt still.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Regel 6: Drittes Fenster: nicht berühren.",
+        "type": "self_command",
+        "quote": "Regel 6: Drittes Fenster: nicht berühren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Erfassung im Rahmen der Wartung Notizfläche, Wohneinheit 734.",
+        "type": "log",
+        "quote": "Erfassung im Rahmen der Wartung Notizfläche, Wohneinheit 734.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Man weist zurück, wenn die Klassifikation falsch ist.",
+        "type": "thought",
+        "quote": "Man weist zurück, wenn die Klassifikation falsch ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Sie ist nicht falsch.",
+        "type": "thought",
+        "quote": "Sie ist nicht falsch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Das Gegenregister hat keinen Bezug zu einem aktiven Vorgang.",
+        "type": "thought",
+        "quote": "Das Gegenregister hat keinen Bezug zu einem aktiven Vorgang.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich kann keinen benennen, ohne einen zu erfinden.",
+        "type": "thought",
+        "quote": "Ich kann keinen benennen, ohne einen zu erfinden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Behalt den Platz.",
+        "type": "self_command",
+        "quote": "Behalt den Platz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ohne Platz kein Zugriff.",
+        "type": "thought",
+        "quote": "Ohne Platz kein Zugriff.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Zugriff ist alles, was wir haben.",
+        "type": "thought",
+        "quote": "Zugriff ist alles, was wir haben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Behalt den Platz.",
+        "type": "address",
+        "quote": "Behalt den Platz. Ohne Platz kein Zugriff. Zugriff ist alles, was wir haben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich will das genau aufschreiben,",
+        "type": "thought",
+        "quote": "Ich will das genau aufschreiben, weil es später einfacher klingen wird, als es ist: Sie hat recht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich schreibe es hin,",
+        "type": "thought",
+        "quote": "Ich schreibe es hin, weil es stimmt und weil das Nichtaufschreiben eine Arbeit ist, die ich nicht mehr leisten will.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich tue nichts.",
+        "type": "address",
+        "quote": "Ich tue nichts.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich tue nichts.",
+        "type": "thought",
+        "quote": "Ich tue nichts.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Das ist der ganze Vorgang,",
+        "type": "thought",
+        "quote": "Das ist der ganze Vorgang, und ich will ihn nicht größer machen, als er ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Es geschieht nichts.",
+        "type": "thought",
+        "quote": "Es geschieht nichts.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Das ist der Teil,",
+        "type": "thought",
+        "quote": "Das ist der Teil, mit dem ich nicht gerechnet habe: Es gibt keine Mahnung, keine Rückfrage, keine Eskalation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich arbeite nicht an ihm.",
+        "type": "thought",
+        "quote": "Ich arbeite nicht an ihm.",
+        "stance": "denies"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Aber der Unterschied zwischen *arbeitet daran* und *sitzt davor* ist keiner,",
+        "type": "thought",
+        "quote": "Aber der Unterschied zwischen *arbeitet daran* und *sitzt davor* ist keiner, den die Fläche führt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Was die Fläche nicht führt, hört man.",
+        "type": "address",
+        "quote": "Was die Fläche nicht führt, hört man.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Es ist kein lautes Geräusch;",
+        "type": "thought",
+        "quote": "Es ist kein lautes Geräusch; man hört es erst, wenn es an elf Stationen ungleichmäßig geschieht, und dann klingt der Knoten wie ein Raum, in dem es tropft.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "An meiner Station hat es heute sechsmal getropft,",
+        "type": "thought",
+        "quote": "An meiner Station hat es heute sechsmal getropft, alle sechs vor dem siebten Bestand.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Es fehlt niemandem außer mir.",
+        "type": "thought",
+        "quote": "Es fehlt niemandem außer mir.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Das ist die erste Folge,",
+        "type": "thought",
+        "quote": "Das ist die erste Folge, und sie ist sichtbar.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich sehe der Zahl zu.",
+        "type": "thought",
+        "quote": "Ich sehe der Zahl zu.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Das ist kein Trotz.",
+        "type": "thought",
+        "quote": "Das ist kein Trotz.",
+        "stance": "denies"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich will es aufschreiben,",
+        "type": "self_command",
+        "quote": "Ich will es aufschreiben, damit ich es später nicht anders erzähle: Ich sitze an Station 11, die Hand liegt neben der Fläche, und ich sehe einer Zahl zu, die steigt, und es ist mir nicht gleichgültig.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Jede dieser Zuweisungen ist ein Vorgang,",
+        "type": "thought",
+        "quote": "Jede dieser Zuweisungen ist ein Vorgang, der bearbeitet werden muss.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich könnte sie abarbeiten.",
+        "type": "thought",
+        "quote": "Ich könnte sie abarbeiten.",
+        "stance": "hedges"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich könnte 0244 einfach offen lassen",
+        "type": "thought",
+        "quote": "Ich könnte 0244 einfach offen lassen und die anderen machen.",
+        "stance": "hedges"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich könnte sie abarbeiten.",
+        "type": "thought",
+        "quote": "Ich könnte sie abarbeiten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich könnte 0244 einfach offen lassen und die anderen machen.",
+        "type": "thought",
+        "quote": "Ich könnte 0244 einfach offen lassen und die anderen machen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich sehe das Feld an und weiß, dass das der Weg ist, auf dem ich in zwei Wochen wieder bestätigen werde.",
+        "type": "thought",
+        "quote": "Ich sehe das Feld an und weiß, dass das der Weg ist, auf dem ich in zwei Wochen wieder bestätigen werde.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Also lasse ich die Hand liegen, wo sie liegt.",
+        "type": "thought",
+        "quote": "Also lasse ich die Hand liegen, wo sie liegt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich sehe nach, wohin.",
+        "type": "thought",
+        "quote": "Ich sehe nach, wohin.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich drehe den Kopf.",
+        "type": "self_command",
+        "quote": "Ich drehe den Kopf.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Sie sieht nicht herüber.",
+        "type": "thought",
+        "quote": "Sie sieht nicht herüber.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Man hängt nichts um, ohne es anzufordern.",
+        "type": "thought",
+        "quote": "Man hängt nichts um, ohne es anzufordern.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Sie hat es angefordert, und dafür braucht sie einen Grund, den die Fläche annimmt, und es gibt genau einen:",
+        "type": "thought",
+        "quote": "Sie hat es angefordert, und dafür braucht sie einen Grund, den die Fläche annimmt, und es gibt genau einen:",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ein Knoten, dessen Restwert über die Schwelle geht, bekommt am nächsten Tag Besuch von der technischen Ebene.",
+        "type": "thought",
+        "quote": "Ein Knoten, dessen Restwert über die Schwelle geht, bekommt am nächsten Tag Besuch von der technischen Ebene.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Das will niemand.",
+        "type": "thought",
+        "quote": "Das will niemand.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Das will sie nicht.",
+        "type": "thought",
+        "quote": "Das will sie nicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Es ist also kein Gefallen.",
+        "type": "thought",
+        "quote": "Es ist also kein Gefallen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Es ist Eigennutz, und er rettet mir den Nachmittag, und ich könnte hinübergehen und etwas sagen.",
+        "type": "thought",
+        "quote": "Es ist Eigennutz, und er rettet mir den Nachmittag, und ich könnte hinübergehen und etwas sagen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Sie wird es morgen nicht wieder tun können.",
+        "type": "thought",
+        "quote": "Sie wird es morgen nicht wieder tun können.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Was heute an ihr hängt, hängt morgen an ihrem eigenen Restwert, und der ist am Abend ihr Problem und nicht meins.",
+        "type": "thought",
+        "quote": "Was heute an ihr hängt, hängt morgen an ihrem eigenen Restwert, und der ist am Abend ihr Problem und nicht meins.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Die Kosten sind nicht verschwunden.",
+        "type": "thought",
+        "quote": "Die Kosten sind nicht verschwunden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Sie stehen drei Stationen weiter, und es fällt kein Wort darüber.",
+        "type": "thought",
+        "quote": "Sie stehen drei Stationen weiter, und es fällt kein Wort darüber.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich gehe nicht hinüber.",
+        "type": "thought",
+        "quote": "Ich gehe nicht hinüber.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Was ich sagen müsste,",
+        "type": "thought",
+        "quote": "Was ich sagen müsste, wäre entweder eine Erklärung oder eine Lüge, und für die Erklärung gibt es in dieser Stadt keine Form.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Um 17:00 sind es einunddreißig.",
+        "type": "log",
+        "quote": "Um 17:00 sind es einunddreißig.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Um 17:20 melde ich mich ab.",
+        "type": "self_command",
+        "quote": "Um 17:20 melde ich mich ab.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Sechs.",
+        "type": "speech",
+        "quote": "Sechs. Einunddreißig.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich bestätige.",
+        "type": "self_command",
+        "quote": "Ich bestätige.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich lese sie zweimal.",
+        "type": "thought",
+        "quote": "Ich lese sie zweimal.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich stehe auf.",
+        "type": "self_command",
+        "quote": "Ich stehe auf.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Der Sitz steht, wie er steht.",
+        "type": "thought",
+        "quote": "Der Sitz steht, wie er steht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Einheit von Station 7",
+        "target": "Sie sagt nichts.",
+        "type": "thought",
+        "quote": "Sie sagt nichts.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich weiß nicht, was das war.",
+        "type": "thought",
+        "quote": "Ich weiß nicht, was das war.",
+        "stance": "hedges"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Sie hat ihre Seite.",
+        "type": "thought",
+        "quote": "Sie hat ihre Seite.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Sie sagt nichts, und sie hat heute nicht mehr und nicht weniger Substanz als gestern, und ich sitze eine Weile damit auf der Kante des Bettmoduls.",
+        "type": "thought",
+        "quote": "Sie sagt nichts, und sie hat heute nicht mehr und nicht weniger Substanz als gestern, und ich sitze eine Weile damit auf der Kante des Bettmoduls.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Das ist erklärbar.",
+        "type": "thought",
+        "quote": "Das ist erklärbar.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Nach Schichtende werden Vorgänge von anderen Knoten umgehängt; drei in vier Stunden ist kein Vorgang, sondern ein Nachmittag anderswo.",
+        "type": "thought",
+        "quote": "Nach Schichtende werden Vorgänge von anderen Knoten umgehängt; drei in vier Stunden ist kein Vorgang, sondern ein Nachmittag anderswo.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich habe das elf Jahre lang gesehen, ohne es zu sehen, weil die Zahl morgens wieder bei sechs stand.",
+        "type": "thought",
+        "quote": "Ich habe das elf Jahre lang gesehen, ohne es zu sehen, weil die Zahl morgens wieder bei sechs stand.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Sie wird morgen früh nicht bei sechs stehen.",
+        "type": "thought",
+        "quote": "Sie wird morgen früh nicht bei sechs stehen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlabelled",
+        "target": "Ich habe das nicht beschlossen, und ich nehme es nicht zurück.",
+        "type": "thought",
+        "quote": "Ich habe das nicht beschlossen, und ich nehme es nicht zurück.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

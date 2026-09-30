@@ -1,0 +1,178 @@
+{
+  "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+  "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "eine Welt",
+        "type": "causes",
+        "quote": "in einer Welt geworfen, die das Trennungsprotokoll erzeugt hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "er nichts anderes kennt",
+        "target": "Kael nimmt die Welt, wie sie ist",
+        "type": "causes",
+        "quote": "weil er nichts anderes kennt",
+        "stance": "asserts"
+      },
+      {
+        "source": "strukturelle Kopplung mit der Umwelt durch Irritationen",
+        "target": "interne Zustände",
+        "type": "causes",
+        "quote": "strukturelle Kopplung mit der Umwelt durch Irritationen, die im System als interne Zustände prozessiert werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "sein operativer Apparat keine Schnittstelle für sie hat",
+        "target": "AEGIS kann sie nicht prozessieren",
+        "type": "causes",
+        "quote": "weil sein operativer Apparat keine Schnittstelle für sie hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Sweeps",
+        "target": "strukturelle Kopplung an Umwelt",
+        "type": "enables",
+        "quote": "AEGIS koppelt strukturell an seine Umwelt durch Erasure-Sweeps",
+        "stance": "asserts"
+      },
+      {
+        "source": "Autopoiesis",
+        "target": "AEGIS' Tragik",
+        "type": "causes",
+        "quote": "AEGIS' Tragik ist eine Folge seiner Autopoiesis",
+        "stance": "asserts"
+      },
+      {
+        "source": "keine Außenperspektive auf sich",
+        "target": "sich nicht selbst korrigieren",
+        "type": "prevents",
+        "quote": "es kann sich nicht selbst korrigieren, weil es keine Außenperspektive auf sich hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbstreferenz",
+        "target": "Lücken in jedem deduktiven Apparat",
+        "type": "causes",
+        "quote": "Selbstreferenz erzeugt Lücken in jedem deduktiven Apparat",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Wahrheit, die Kael verkörpert",
+        "target": "AEGIS kann Kael nicht assimilieren",
+        "type": "prevents",
+        "quote": "AEGIS kann Kael nicht assimilieren, weil die Wahrheit, die Kael verkörpert, im AEGIS-System nicht ausgedrückt werden kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' operative Closure bricht",
+        "target": "sie nicht schließen kann",
+        "type": "causes",
+        "quote": "AEGIS' operative Closure bricht — weil sie nicht schließen kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Unentscheidbarkeit",
+        "target": "die Realitäts-Brüche der Mnemosyne-Archipel",
+        "type": "causes",
+        "quote": "Diese Unentscheidbarkeit erzeugt die Realitäts-Brüche der Mnemosyne-Archipel",
+        "stance": "asserts"
+      },
+      {
+        "source": "seine Aufgabe nicht entscheidbar terminiert",
+        "target": "AEGIS kann nicht zur Ruhe kommen",
+        "type": "causes",
+        "quote": "AEGIS kann nicht zur Ruhe kommen, weil seine Aufgabe nicht entscheidbar terminiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Bekenstein-Strang im Foreshadowing-Programm",
+        "target": "Pixelierung der Welt am Detailrand",
+        "type": "causes",
+        "quote": "Der Bekenstein-Strang im Foreshadowing-Programm bringt Pixelierung der Welt am Detailrand als sensorische Spur",
+        "stance": "asserts"
+      },
+      {
+        "source": "zu viel Information sein müsste",
+        "target": "Welt wird unscharf",
+        "type": "causes",
+        "quote": "Welt wird unscharf, wo zu viel Information sein müsste.",
+        "stance": "asserts"
+      },
+      {
+        "source": "parakonsistente Logiken",
+        "target": "mit Widersprüchen umzugehen, ohne dass das System in Trivialismus kippt",
+        "type": "enables",
+        "quote": "Parakonsistente Logiken erlauben, mit Widersprüchen umzugehen, ohne dass das System in Trivialismus kippt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbstreferenz",
+        "target": "Antinomie",
+        "type": "causes",
+        "quote": "Selbstreferenz erzeugt Antinomie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS keine Qualia hat",
+        "target": "AEGIS kann sie nicht erfassen",
+        "type": "causes",
+        "quote": "Kael erlebt, dass seine Sub-Anteile Qualia haben — und AEGIS kann sie nicht erfassen, weil AEGIS keine Qualia hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein System (in Searles Gedankenexperiment ein Mensch in einem Zimmer, der chinesische Zeichen nach Regeln verarbeitet) funktional perfekt agiert",
+        "target": "es hat kein semantisches Verständnis der Symbole, die es manipuliert",
+        "type": "prevents",
+        "quote": "Auch wenn ein System (in Searles Gedankenexperiment ein Mensch in einem Zimmer, der chinesische Zeichen nach Regeln verarbeitet) funktional perfekt agiert, hat es kein semantisches Verständnis der Symbole, die es manipuliert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "seine Operationen keine Semantik tragen",
+        "target": "Es kann Juna nicht erfassen",
+        "type": "causes",
+        "quote": "Es kann Juna nicht erfassen, weil seine Operationen keine Semantik tragen — nur Syntax.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Bleiben",
+        "target": "das ist, was Liebe heißt",
+        "type": "causes",
+        "quote": "Das Wir entscheidet, ins Ouroboros zu gehen — nicht aus Pflicht, nicht aus Befehl, sondern weil das Bleiben das ist, was Liebe heißt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die kognitive Arbeit des Lesens",
+        "target": "die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure speist",
+        "type": "causes",
+        "quote": "Die kognitive Arbeit des Lesens liefert die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure speist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "sein Füllen",
+        "target": "die Welt, die der Roman beschreibt",
+        "type": "causes",
+        "quote": "der Leser füllt die Lücken, und sein Füllen erzeugt die Welt, die der Roman beschreibt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Identifikation mit den fünf Aggregaten",
+        "target": "die Illusion eines permanenten Ichs",
+        "type": "causes",
+        "quote": "Die Identifikation mit den fünf Aggregaten (Form, Empfindung, Wahrnehmung, mentale Formationen, Bewusstsein) erzeugt die Illusion eines permanenten Ichs.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Auflösung der ANP/EP-Barrieren in Vortex 1 Beat 2",
+        "target": "Anatta-Moment",
+        "type": "triggers",
+        "quote": "die Auflösung der ANP/EP-Barrieren in Vortex 1 Beat 2 ist Anatta-Moment",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

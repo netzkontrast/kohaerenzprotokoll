@@ -1,0 +1,1018 @@
+{
+  "document": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "source_sha256": "56147fa23cacf5f2a722e97b41c4750b09d339823dbbd46a589e8c0b17021bcb",
+  "template_sha256": "b8865f3c1bc9df0c02a775777a892be836ec5a3d51f6896e92718524127ab5e8",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Outline, Glossar und Anteile-Profil",
+        "target": "Drafting über Claude Code",
+        "type": "complements",
+        "quote": "Schließt die Lücken zwischen Outline, Glossar und Anteile-Profil für das Drafting über Claude Code.",
+        "stance": "asserts"
+      },
+      {
+        "source": "alte Drafts",
+        "target": "kanonisch",
+        "type": "contrasts_with",
+        "quote": "Die alten Drafts sprechen teils von „6 Realitätsebenen“, teils von Guardian-zugeordneten Welten (KW1=LogOS, KW4=Kairos/Sophia). Beides ist **dekanonisiert**. Kanonisch: **eine Realität mit vier Logikregimen (KW1–KW4)",
+        "stance": "asserts"
+      },
+      {
+        "source": "psychologische Landschaften",
+        "target": "Akt-Marker",
+        "type": "contrasts_with",
+        "quote": "Kanonisch: **eine Realität mit vier Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus Überwelt und Externe Ebene.** KW1–4 sind **Akt-Marker**, nicht je ein Guardian-Reich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ozon",
+        "target": "Desinfektionsmittel",
+        "type": "complements",
+        "quote": "Geruch von **Ozon und Desinfektionsmittel**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ozon",
+        "target": "kalt/scharf",
+        "type": "complements",
+        "quote": "Ozon = kalt/scharf",
+        "stance": "asserts"
+      },
+      {
+        "source": "konstant 21°C",
+        "target": "bis sie es nicht mehr ist",
+        "type": "in_tension_with",
+        "quote": "**Temperatur: konstant 21°C** — bis sie es nicht mehr ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wenn A",
+        "target": "dann B",
+        "type": "complements",
+        "quote": "Wenn A, dann B.",
+        "stance": "asserts"
+      },
+      {
+        "source": "kalt, steril, assertorisch",
+        "target": "Metaphernverbot",
+        "type": "complements",
+        "quote": "Ebene 1 — kalt, steril, assertorisch. **Metaphernverbot.**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Atem-Zählung. Regulation durch Disziplin",
+        "target": "Lex' Hypoventilation",
+        "type": "in_tension_with",
+        "quote": "Atem-Zählung. Regulation durch Disziplin. Lex' Hypoventilation als unterschwelliger Default-Modus.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Umgebung",
+        "target": "Risse in KW1",
+        "type": "in_tension_with",
+        "quote": "Die schmerzhaftesten Risse, weil die Umgebung keine Sprache für sie hat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erinnerung",
+        "target": "Inhalt",
+        "type": "contrasts_with",
+        "quote": "Erinnerung als *Schauplatz*, nicht als Inhalt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "gespeicherte K₁",
+        "target": "Ort",
+        "type": "complements",
+        "quote": "Die Architektur dieser Welt *ist* gespeicherte K₁ — Erinnerung, die so dicht und strukturell rein ist, dass sie als Ort begehbar wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "fest",
+        "target": "sumpfig",
+        "type": "contrasts_with",
+        "quote": "Wechselnde Bodentexturen (fest, sumpfig, sandig).",
+        "stance": "asserts"
+      },
+      {
+        "source": "sumpfig",
+        "target": "sandig",
+        "type": "contrasts_with",
+        "quote": "Wechselnde Bodentexturen (fest, sumpfig, sandig).",
+        "stance": "asserts"
+      },
+      {
+        "source": "fest",
+        "target": "sandig",
+        "type": "contrasts_with",
+        "quote": "Wechselnde Bodentexturen (fest, sumpfig, sandig).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sekunden",
+        "target": "Tage",
+        "type": "in_tension_with",
+        "quote": "Nicht-lineare Zeit — Sekunden dehnen sich, Tage kollabieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Widersprüche",
+        "target": "Trivialismus",
+        "type": "contrasts_with",
+        "quote": "Widersprüche koexistieren, ohne dass das System in Trivialismus kippt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Türen, die in Erinnerungen führen, die nie geschehen sind",
+        "target": "wahr",
+        "type": "in_tension_with",
+        "quote": "Türen, die in Erinnerungen führen, die nie geschehen sind — und doch wahr sind.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schutzraum",
+        "target": "Quarantäne",
+        "type": "complements",
+        "quote": "Schutzraum/Quarantäne/Kontrollzentrum.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Quarantäne",
+        "target": "Kontrollzentrum",
+        "type": "complements",
+        "quote": "Schutzraum/Quarantäne/Kontrollzentrum.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sicherheitssysteme",
+        "target": "ihre eigenen Erbauer",
+        "type": "opposes",
+        "quote": "Sicherheitssysteme, die ihre eigenen Erbauer einsperren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zitadelle / Inneres Bollwerk",
+        "target": "paradoxerweise gefährlichster Ort",
+        "type": "in_tension_with",
+        "quote": "paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "Emergenz",
+        "target": "Erhaltung",
+        "type": "contrasts_with",
+        "quote": "Emergenz statt Erhaltung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Generativ",
+        "target": "Stille",
+        "type": "in_tension_with",
+        "quote": "Generative Risse — Stille, die anders klingt",
+        "stance": "asserts"
+      },
+      {
+        "source": "außerhalb der Simulation",
+        "target": "die andere Seite des Spiegels",
+        "type": "contrasts_with",
+        "quote": "Kein „außerhalb der Simulation“, sondern *die andere Seite des Spiegels*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaltes Ozon",
+        "target": "Wärme",
+        "type": "in_tension_with",
+        "quote": "Zwei thermische Signaturen, sensorisch strikt zu trennen:",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaltes Ozon",
+        "target": "Wärme",
+        "type": "contrasts_with",
+        "quote": "Nach Kap 1 die beiden Hitzen nie wieder vermischen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stil 1 und 2",
+        "target": "Stil 3",
+        "type": "in_tension_with",
+        "quote": "aber Stil 1 und 2 verschwinden nicht — sie werden in Stil 3 *erinnert*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verlust der Schärfe",
+        "target": "Integration aller drei",
+        "type": "contrasts_with",
+        "quote": "Akt III ist nicht Verlust der Schärfe, sondern Integration aller drei",
+        "stance": "asserts"
+      },
+      {
+        "source": "Signal",
+        "target": "Atmosphäre",
+        "type": "contrasts_with",
+        "quote": "und ihre Wiederkehr ist *immer* Signal, nie Atmosphäre.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stabilität",
+        "target": "thermisches Versagen",
+        "type": "contrasts_with",
+        "quote": "**21°C-Schwelle:** Stabilität vs. thermisches Versagen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Symptom (Suppression-Versagen)",
+        "target": "das Atmen der Realität",
+        "type": "contrasts_with",
+        "quote": "*Für AEGIS:* Symptom (Suppression-Versagen). *Für den Roman:* das Atmen der Realität",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Substrat",
+        "target": "K₀-Architektur",
+        "type": "in_tension_with",
+        "quote": "die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "wässrig / mnemonisch",
+        "target": "logisch",
+        "type": "contrasts_with",
+        "quote": "KW1 | **logisch** | Logikparadoxien werden physisch, Escher-Geometrien temporär stabil, Kausalitätsschleifen | KW1→KW2-Übergang | **thermisch** | Hitze-Spitzen, Ozon-Konzentration | KW2 | **wässrig / mnemonisch**",
+        "stance": "asserts"
+      },
+      {
+        "source": "technische Erklärung",
+        "target": "Erfahrung",
+        "type": "contrasts_with",
+        "quote": "Der Leser bekommt nie eine technische Erklärung. Risse erscheinen als Erfahrung — die Theorie liegt darunter.",
+        "stance": "asserts"
+      },
+      {
+        "source": "funktional",
+        "target": "phänomenal",
+        "type": "contrasts_with",
+        "quote": "Sein Vokabular (in Logs) bleibt funktional, nie phänomenal.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cosmic Horror",
+        "target": "DID-Symptome",
+        "type": "in_tension_with",
+        "quote": "Die DID-Architektur muss im ersten Lesedurchgang als Cosmic Horror lesbar sein. Beim Reread müssen alle Foreshadowing-Spuren als DID-Symptome erkennbar werden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Telefon-Stille als Anker",
+        "target": "Stille als Substrat (Lock)",
+        "type": "in_tension_with",
+        "quote": "Kap 39: eingelöst. Telefon-Stille als Anker des Buchs. Kap 1: KEIN Telefon-Anker. Nur die Stille als Substrat (Lock).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konsolen-Zeile, ohne Betonung",
+        "target": "Reader-only-Echo, Lock",
+        "type": "in_tension_with",
+        "quote": "Kap 1: *„Einheit 734“* einmal als Konsolen-Zeile, ohne Betonung; Kael reagiert nicht (Reader-only-Echo, Lock).",
+        "stance": "asserts"
+      },
+      {
+        "source": "echoed",
+        "target": "wörtlich zitiert",
+        "type": "contrasts_with",
+        "quote": "Im Roman strukturell echoed — nie wörtlich zitiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nichts-Rauschen vor jeder Form",
+        "target": "Erste Cluster-Bildung; innere Struktur",
+        "type": "contrasts_with",
+        "quote": "Nichts-Rauschen vor jeder Form | Erste Cluster-Bildung; innere Struktur",
+        "stance": "asserts"
+      },
+      {
+        "source": "was AEGIS für Chaos hält",
+        "target": "Vereinigung aller MI",
+        "type": "contrasts_with",
+        "quote": "was AEGIS für Chaos hält, ist Vereinigung aller MI",
+        "stance": "asserts"
+      },
+      {
+        "source": "Existenz, die sich gegen Auflösung wehrt",
+        "target": "Auflösung",
+        "type": "opposes",
+        "quote": "Existenz, die sich gegen Auflösung wehrt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trauma als Resonanz ohne Quelle",
+        "target": "Resonanz mit Quelle",
+        "type": "contrasts_with",
+        "quote": "Echo von etwas, das nicht da ist | Trauma als Resonanz ohne Quelle",
+        "stance": "asserts"
+      },
+      {
+        "source": "Berührung ohne Kontakt",
+        "target": "Berührung mit Kontakt",
+        "type": "contrasts_with",
+        "quote": "Wirkung über Distanz; Berührung ohne Kontakt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konstrukt-Stadt als hyper-strukturierte Anti-Form",
+        "target": "Form",
+        "type": "opposes",
+        "quote": "Konstrukt-Stadt als hyper-strukturierte Anti-Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "zwei Arten von Form, simultan hörbar",
+        "target": "Orkan vs. Sphäre",
+        "type": "in_tension_with",
+        "quote": "zwei Arten von Form, simultan hörbar (Orkan vs. Sphäre)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leser",
+        "target": "Kael",
+        "type": "in_tension_with",
+        "quote": "Leser weiß ab Kap 0 mehr als Kael; Kael spürt, weiß nicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "AEGIS",
+        "type": "in_tension_with",
+        "quote": "Kael spürt, weiß nicht; AEGIS misst, sieht nicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Echo",
+        "target": "Allegorie",
+        "type": "opposes",
+        "quote": "Stapeln macht den Roman zur Allegorie",
+        "stance": "asserts"
+      },
+      {
+        "source": "strukturell",
+        "target": "lexikalisch",
+        "type": "contrasts_with",
+        "quote": "Echo geschieht strukturell (ähnliche Bewegung, ähnliche Sensorik), nicht lexikalisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leser",
+        "target": "Kael",
+        "type": "contrasts_with",
+        "quote": "Leser weiß ab Kap 0 mehr als Kael; Kael spürt, weiß nicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "AEGIS",
+        "type": "contrasts_with",
+        "quote": "Kael spürt, weiß nicht; AEGIS misst, sieht nicht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bewusst",
+        "target": "Spürt",
+        "type": "contrasts_with",
+        "quote": "Schicht | **Bewusst** | **Spürt** | **Blind**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Spürt",
+        "target": "Blind",
+        "type": "contrasts_with",
+        "quote": "Schicht | **Bewusst** | **Spürt** | **Blind**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna strukturell",
+        "target": "K₁-Reinform",
+        "type": "contrasts_with",
+        "quote": "**Juna strukturell** (atemporal, nicht messbar), **K₁-Reinform** (klassifiziert als „uncorrelated noise“)",
+        "stance": "asserts"
+      },
+      {
+        "source": "tragische Ironie aktiv",
+        "target": "spürt Atmosphäre, registriert nichts strukturell",
+        "type": "contrasts_with",
+        "quote": "tragische Ironie aktiv | spürt Atmosphäre, registriert nichts strukturell",
+        "stance": "asserts"
+      },
+      {
+        "source": "sieht AEGIS in 1. Person",
+        "target": "nichts",
+        "type": "contrasts_with",
+        "quote": "sieht AEGIS in 1. Person | nichts",
+        "stance": "asserts"
+      },
+      {
+        "source": "erste 1.-Person-Innensicht — enthüllt sich",
+        "target": "nicht Kaels Vielheit",
+        "type": "contrasts_with",
+        "quote": "erste 1.-Person-Innensicht — enthüllt sich, *nicht* Kaels Vielheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "erlebt Flashbacks als fremde Daten",
+        "target": "erinnert sich *nicht, dass er das war*",
+        "type": "contrasts_with",
+        "quote": "erlebt Flashbacks als fremde Daten — erinnert sich *nicht, dass er das war*",
+        "stance": "asserts"
+      },
+      {
+        "source": "K-J-Kanal stabil, bewusst",
+        "target": "Mandat-Krise: Erasure scheitert spürbar",
+        "type": "contrasts_with",
+        "quote": "K-J-Kanal stabil, bewusst | Mandat-Krise: Erasure scheitert spürbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "sieht das Unerwartete",
+        "target": "kann es nicht klassifizieren",
+        "type": "in_tension_with",
+        "quote": "sieht das Unerwartete, kann es nicht klassifizieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "strukturell blind",
+        "target": "erkennt sie wieder",
+        "type": "contrasts_with",
+        "quote": "erkennt sie wieder | strukturell blind",
+        "stance": "asserts"
+      },
+      {
+        "source": "erlischt monolithisch",
+        "target": "lebt plural",
+        "type": "contrasts_with",
+        "quote": "erlischt monolithisch, lebt plural",
+        "stance": "asserts"
+      },
+      {
+        "source": "monophone Kael-Erzählung",
+        "target": "zunehmend polyphon",
+        "type": "contrasts_with",
+        "quote": "monophone Kael-Erzählung, leicht verfolgbar | zunehmend polyphon; Bridges erzwingen Doppellesarten",
+        "stance": "asserts"
+      },
+      {
+        "source": "kleine Leerstellen",
+        "target": "maximale Leerstellen-Dichte",
+        "type": "contrasts_with",
+        "quote": "**kleine Leerstellen** — Leser muss ohne Hilfe schließen | **maximale Leerstellen-Dichte** vor Vortex",
+        "stance": "asserts"
+      },
+      {
+        "source": "KEINE Fußnoten",
+        "target": "widersprüchliche Fußnoten erlaubt",
+        "type": "contrasts_with",
+        "quote": "**KEINE Fußnoten in Kap 1.** | **widersprüchliche Fußnoten erlaubt**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Uncanny Valley",
+        "target": "Resonanz als Lese-Erfahrung",
+        "type": "contrasts_with",
+        "quote": "Uncanny Valley — die Perfektion ist *zu* perfekt | Resonanz als Lese-Erfahrung; Aufnahme statt Abwehr",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aufnahme",
+        "target": "Abwehr",
+        "type": "contrasts_with",
+        "quote": "Resonanz als Lese-Erfahrung; Aufnahme statt Abwehr",
+        "stance": "asserts"
+      },
+      {
+        "source": "Echo",
+        "target": "Wiederholung",
+        "type": "contrasts_with",
+        "quote": "Echo, nicht Wiederholung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Echo",
+        "target": "Wiederholung",
+        "type": "contrasts_with",
+        "quote": "Echo, nicht Wiederholung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "direkte Leser-Adressierung, fragend",
+        "target": "Erzähler kehrt zurück, jetzt bezeugend statt fragend",
+        "type": "contrasts_with",
+        "quote": "direkte Leser-Adressierung, fragend) | **Echo des Vorworts** (Erzähler kehrt zurück, jetzt bezeugend statt fragend)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Frage",
+        "target": "Zeugnis",
+        "type": "contrasts_with",
+        "quote": "Modus: Frage → Zeugnis",
+        "stance": "asserts"
+      },
+      {
+        "source": "Pure Sequenz",
+        "target": "erkannte Sequenz",
+        "type": "contrasts_with",
+        "quote": "Pure Sequenz → erkannte Sequenz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennung als Tragödie",
+        "target": "Trennung als Bedingung der Werdung",
+        "type": "contrasts_with",
+        "quote": "Trennung als Tragödie → Trennung als Bedingung der Werdung",
+        "stance": "asserts"
+      },
+      {
+        "source": "irreversibler Bruch",
+        "target": "bittersüße Anerkennung",
+        "type": "contrasts_with",
+        "quote": "irreversibler Bruch → bittersüße Anerkennung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Auftakt",
+        "target": "Resolution-ohne-Erklärung",
+        "type": "contrasts_with",
+        "quote": "Auftakt → Resolution-ohne-Erklärung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Licht-an/präsent",
+        "target": "Dasein/Sein",
+        "type": "in_tension_with",
+        "quote": "Doppeldeutigkeit im einzelnen banalen Wort **„da“** (Licht-an/präsent ↔ Dasein/Sein).",
+        "stance": "asserts"
+      },
+      {
+        "source": "nie Subjekt",
+        "target": "nur Wirkung",
+        "type": "contrasts_with",
+        "quote": "pflanzt Junas Grammatik (nie Subjekt, nur Wirkung) unbemerkt an die Schwelle des Romans",
+        "stance": "asserts"
+      },
+      {
+        "source": "kalt/sensorisch/Stilebene 1",
+        "target": "warm/gewählt/wissend",
+        "type": "contrasts_with",
+        "quote": "Erst-Read kalt/sensorisch/Stilebene 1, schleier-sicher; Kael beschreibt Welt, nie Empfinden. Zweit-Read nach Kap 39 warm/gewählt/wissend",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erwachen in indirektem, quellenlosem Licht",
+        "target": "gleiches Sensorium, aber Kael weiß diesmal, was er sieht",
+        "type": "contrasts_with",
+        "quote": "Erwachen in indirektem, quellenlosem Licht | gleiches Sensorium, aber Kael weiß diesmal, was er sieht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Spiegelbild-Mikroverzögerung",
+        "target": "Verzögerung fehlt oder löst sich in Gleichzeitigkeit auf",
+        "type": "contrasts_with",
+        "quote": "Spiegelbild-Mikroverzögerung (Kael sieht sich, der Spiegel schaltet einen Mikromoment später um) | Verzögerung fehlt oder löst sich in Gleichzeitigkeit auf",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stille als Leere/Käfig",
+        "target": "Stille als Zuhause, nicht als Leere",
+        "type": "contrasts_with",
+        "quote": "„Stille“ als Anker-Wort (Stille als Leere/Käfig) | Stille als Zuhause, nicht als Leere",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael reagiert nicht",
+        "target": "Wir-AEGIS-plural als bewusste Selbst-Bezeichnung",
+        "type": "contrasts_with",
+        "quote": "Komponente 734 als Konsolen-Zeile (Kael reagiert nicht) | Wir-AEGIS-plural als bewusste Selbst-Bezeichnung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Phantom-Spur (Sehnen ohne Adresse)",
+        "target": "Resonanz mit Adresse (Juna direkt)",
+        "type": "contrasts_with",
+        "quote": "Phantom-Spur (Sehnen ohne Adresse) | Resonanz mit Adresse (Juna direkt)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Käfig, Sterilität, AEGIS-Kontrolle",
+        "target": "Substrat, Zuhause, Erkennen",
+        "type": "contrasts_with",
+        "quote": "Quellenloses Licht | Käfig, Sterilität, AEGIS-Kontrolle | Substrat, Zuhause, Erkennen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Aktivität, Bedrohung",
+        "target": "letztes Echo der Suppression vor Auflösung",
+        "type": "contrasts_with",
+        "quote": "Ozon | Erasure-Aktivität, Bedrohung | letztes Echo der Suppression vor Auflösung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leere, Phantom, Mangel",
+        "target": "volle Stille, gehaltener Raum, Wir",
+        "type": "contrasts_with",
+        "quote": "Stille | Leere, Phantom, Mangel | volle Stille, gehaltener Raum, Wir",
+        "stance": "asserts"
+      },
+      {
+        "source": "erste irritierende Anomalie (ab Kap 3)",
+        "target": "umfassendes Substrat, Junas erkannte Spur",
+        "type": "contrasts_with",
+        "quote": "Wärme | erste irritierende Anomalie (ab Kap 3) | umfassendes Substrat, Junas erkannte Spur",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stille-mit-Substanz, ohne Anruf",
+        "target": "eingelöst — Anruf, der nicht stattfindet, ist die Beziehung",
+        "type": "contrasts_with",
+        "quote": "Telefon | Stille-mit-Substanz, ohne Anruf | eingelöst — Anruf, der nicht stattfindet, ist die Beziehung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selbst-Bezeichnung ohne Bewusstsein",
+        "target": "Selbst-Bezeichnung als Wir-Pluralität, bewusst",
+        "type": "contrasts_with",
+        "quote": "„Komponente“ | Selbst-Bezeichnung ohne Bewusstsein | Selbst-Bezeichnung als Wir-Pluralität, bewusst",
+        "stance": "asserts"
+      },
+      {
+        "source": "Heilung durch Auslöschung",
+        "target": "AEGIS' Methode — und sie produziert mehr Trauma, nicht weniger",
+        "type": "opposes",
+        "quote": "Heilung durch Auslöschung. Wer Schmerz vergisst, hat keinen Schmerz. Aber: das ist exakt AEGIS' Methode — und sie produziert mehr Trauma, nicht weniger.",
+        "stance": "asserts"
+      },
+      {
+        "source": "bösartig",
+        "target": "überfordert",
+        "type": "contrasts_with",
+        "quote": "Mnemosyne ist nicht bösartig, sondern *überfordert*.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sie darf metaphorisch sprechen",
+        "target": "AEGIS",
+        "type": "contrasts_with",
+        "quote": "**Sie darf metaphorisch sprechen** (im Gegensatz zu AEGIS).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne verwaltet",
+        "target": "Oblivion löscht",
+        "type": "complements",
+        "quote": "Mnemosyne verwaltet, Oblivion löscht — funktionell verwandt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "latent",
+        "target": "aktiv",
+        "type": "contrasts_with",
+        "quote": "Aktivität (latent / aktiv / dominant)",
+        "stance": "asserts"
+      },
+      {
+        "source": "aktiv",
+        "target": "dominant",
+        "type": "contrasts_with",
+        "quote": "Aktivität (latent / aktiv / dominant)",
+        "stance": "asserts"
+      },
+      {
+        "source": "vollständig intakt",
+        "target": "erste interne Lüftung",
+        "type": "contrasts_with",
+        "quote": "Schleier-Pegel ({vollständig intakt / erste interne Lüftung / partiell offen / offen benannt})",
+        "stance": "asserts"
+      },
+      {
+        "source": "erste interne Lüftung",
+        "target": "partiell offen",
+        "type": "contrasts_with",
+        "quote": "Schleier-Pegel ({vollständig intakt / erste interne Lüftung / partiell offen / offen benannt})",
+        "stance": "asserts"
+      },
+      {
+        "source": "partiell offen",
+        "target": "offen benannt",
+        "type": "contrasts_with",
+        "quote": "Schleier-Pegel ({vollständig intakt / erste interne Lüftung / partiell offen / offen benannt})",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ozon",
+        "target": "Wärme",
+        "type": "contrasts_with",
+        "quote": "wo Ozon, wo Wärme — getrennt halten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaltes Ozon (AEGIS)",
+        "target": "Wärme (Juna)",
+        "type": "contrasts_with",
+        "quote": "Kaltes Ozon (AEGIS) ≠ Wärme (Juna).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Metaphern, moralisches Vokabular, affektives Vokabular in AEGIS-Logs",
+        "target": "Mnemosyne darf metaphorisch sprechen",
+        "type": "contrasts_with",
+        "quote": "Keine Metaphern, kein moralisches Vokabular, kein affektives Vokabular in AEGIS-Logs. Mnemosyne darf metaphorisch sprechen — AEGIS nicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "AEGIS",
+        "type": "contrasts_with",
+        "quote": "Mnemosyne darf metaphorisch sprechen — AEGIS nicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "wörtliche Wiederholung",
+        "target": "strukturell echoed",
+        "type": "contrasts_with",
+        "quote": "In den 39 Kapiteln nur strukturell echoed (ähnliche Bewegung, ähnliche Sensorik). Wörtliche Wiederholung wäre didaktisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Subjekt",
+        "target": "Wirkung",
+        "type": "contrasts_with",
+        "quote": "Juna ist nie Subjekt, nur Wirkung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Metapher / Moral / Affekt",
+        "target": "Funktion",
+        "type": "contrasts_with",
+        "quote": "Metapher / Moral / Affekt? Wenn ja: in Funktion umschreiben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "wörtliche Zitate",
+        "target": "strukturell echo",
+        "type": "contrasts_with",
+        "quote": "strukturell echo, nicht wörtlich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Liebe",
+        "type": "in_tension_with",
+        "quote": "Trägt diese Szene Schmerz *und* Liebe als denselben Pulsschlag?",
+        "stance": "asks"
+      },
+      {
+        "source": "Hard-SF",
+        "target": "Philosophical Horror",
+        "type": "complements",
+        "quote": "Hard-SF / Philosophical Horror / Psychological Thriller, in dieser Reihenfolge.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Philosophical Horror",
+        "target": "Psychological Thriller",
+        "type": "complements",
+        "quote": "Hard-SF / Philosophical Horror / Psychological Thriller, in dieser Reihenfolge.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ontologische Grundlegung, kosmische Schauder",
+        "target": "SF-Mechanik",
+        "type": "opposes",
+        "quote": "ontologische Grundlegung, kosmische Schauder | SF-Mechanik (kommt erst voll in Akt I)",
+        "stance": "asserts"
+      },
+      {
+        "source": "sterile Welt, Uncanny Valley, Lem-Tonalität",
+        "target": "Action",
+        "type": "opposes",
+        "quote": "sterile Welt, Uncanny Valley, Lem-Tonalität | Action (irrelevant)",
+        "stance": "asserts"
+      },
+      {
+        "source": "sterile Welt, Uncanny Valley, Lem-Tonalität",
+        "target": "Thriller-Pacing",
+        "type": "opposes",
+        "quote": "sterile Welt, Uncanny Valley, Lem-Tonalität | Action (irrelevant), Thriller-Pacing (gegen Strich)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael versteht das algorithmische Gefängnis; eskalierende Konfrontation; Watts-Härte",
+        "target": "Sentimentalität, frühe Resolution",
+        "type": "opposes",
+        "quote": "Kael versteht das algorithmische Gefängnis; eskalierende Konfrontation; Watts-Härte | Sentimentalität, frühe Resolution",
+        "stance": "asserts"
+      },
+      {
+        "source": "polyphone Vor-Vortex-Spannung; Egan-Rigor; Tarkowski-Bildhaftigkeit",
+        "target": "Geschwindigkeit der Akt-II-Eskalation",
+        "type": "opposes",
+        "quote": "polyphone Vor-Vortex-Spannung; Egan-Rigor; Tarkowski-Bildhaftigkeit | Geschwindigkeit der Akt-II-Eskalation",
+        "stance": "asserts"
+      },
+      {
+        "source": "stille Mechanik, Soft-Layering, Dialetheia",
+        "target": "jedes Action-Genre",
+        "type": "opposes",
+        "quote": "stille Mechanik, Soft-Layering, Dialetheia | jedes Action-Genre",
+        "stance": "asserts"
+      },
+      {
+        "source": "Reward-Beat, kristallisierte Ruhe",
+        "target": "echte Resolution",
+        "type": "opposes",
+        "quote": "Reward-Beat, kristallisierte Ruhe | echte Resolution",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Pluralität, Kawabata-Erzähllogik (ketsu)",
+        "target": "Theorie-Predigt, Schluss-Erklärung",
+        "type": "opposes",
+        "quote": "Wir-Pluralität, Kawabata-Erzähllogik (ketsu) | Theorie-Predigt, Schluss-Erklärung",
+        "stance": "asserts"
+      },
+      {
+        "source": "ambivalent-akzeptierend",
+        "target": "jeder Erläuterungs-Modus",
+        "type": "opposes",
+        "quote": "ambivalent-akzeptierend | jeder Erläuterungs-Modus",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael (Mind/Memory)",
+        "target": "AEGIS (Universe/Progress)",
+        "type": "contrasts_with",
+        "quote": "A: Kael (Mind/Memory) / B: AEGIS (Universe/Progress)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna (Universe/Past)",
+        "target": "Kael (Mind/Conscious)",
+        "type": "contrasts_with",
+        "quote": "A: Juna (Universe/Past) / B: Kael (Mind/Conscious)",
+        "stance": "asserts"
+      },
+      {
+        "source": "A-Cost: Verlust der Privatheit des Wir",
+        "target": "A-Dividend: Liebe bleibt",
+        "type": "contrasts_with",
+        "quote": "A-Cost: Verlust der Privatheit des Wir; A-Dividend: Liebe bleibt",
+        "stance": "asserts"
+      },
+      {
+        "source": "B-Cost: AEGIS-monolithisch erlischt",
+        "target": "B-Dividend: Funktion bleibt durch plurale Übernahme",
+        "type": "contrasts_with",
+        "quote": "B-Cost: AEGIS-monolithisch erlischt; B-Dividend: Funktion bleibt durch plurale Übernahme",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kap 40 ist Echo",
+        "target": "nicht Wiederholung",
+        "type": "contrasts_with",
+        "quote": "Kap 40 ist Echo, nicht Wiederholung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Funktionale Multiplizität",
+        "target": "niemals Verschmelzung",
+        "type": "contrasts_with",
+        "quote": "Funktionale Multiplizität, niemals Verschmelzung",
+        "stance": "asserts"
+      },
+      {
+        "source": "plurale Apotheose",
+        "target": "Reset/Race-Condition-Ende",
+        "type": "contrasts_with",
+        "quote": "Kein Reset/Race-Condition-Ende | plurale Apotheose, „Liebe bleibt, wie der Schmerz“",
+        "stance": "asserts"
+      },
+      {
+        "source": "Abwesenheits-Phase",
+        "target": "Präsenz-Phase",
+        "type": "contrasts_with",
+        "quote": "Abwesenheits-Phase Akt I → Präsenz-Phase Akt II+",
+        "stance": "asserts"
+      },
+      {
+        "source": "kaltes Ozon",
+        "target": "Wärme",
+        "type": "contrasts_with",
+        "quote": "kaltes Ozon = AEGIS; Wärme = Juna; nach Kap 1 nie mischen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt I Hard-A-Default",
+        "target": "Hard-B-Kapitel",
+        "type": "contrasts_with",
+        "quote": "Akt I Hard-A-Default; ein Hard-B-Kapitel in Kap 5–8",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schicht-1",
+        "target": "Schicht-2",
+        "type": "contrasts_with",
+        "quote": "80/20 Schicht-1/Schicht-2 in Kap 1",
+        "stance": "asserts"
+      },
+      {
+        "source": "Reset",
+        "target": "Transfiguration",
+        "type": "in_tension_with",
+        "quote": "Reset (Konflikt-Leser) ‖ Transfiguration (Ketsu-Leser); Text adjudiziert nie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kopf runter",
+        "target": "Ich liebe dich.",
+        "type": "contrasts_with",
+        "quote": "*„Kopf runter“* statt *„Ich liebe dich.“*",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stimmen",
+        "target": "gelabelt",
+        "type": "opposes",
+        "quote": "Stimmen werden nie gelabelt — Erkennung nur durch Syntax + Lexikon + Somatik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Steinbruch",
+        "target": "Canon",
+        "type": "opposes",
+        "quote": "Bei Konflikt zwischen Steinbruch und Canon gewinnt Canon.",
+        "stance": "asserts"
+      },
+      {
+        "source": "primäres Bild",
+        "target": "drei Sub-Bilder",
+        "type": "complements",
+        "quote": "Mnemosyne-Server-Architektur (KW2-Klimax-Setting): primäres Bild + drei Sub-Bilder",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz allein",
+        "target": "Schmerz+Liebe",
+        "type": "contrasts_with",
+        "quote": "was genau Kael verlieren würde: Schmerz allein oder Schmerz+Liebe?",
+        "stance": "asks"
+      },
+      {
+        "source": "Funktion vor Person",
+        "target": "voll konstituierte Anteile",
+        "type": "contrasts_with",
+        "quote": "Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile.",
+        "stance": "asserts"
+      },
+      {
+        "source": "kanonisieren",
+        "target": "verwerfen",
+        "type": "contrasts_with",
+        "quote": "kanonisieren, verwerfen, oder als Hintergrund-Konzept ohne Beat-Mapping akzeptieren?",
+        "stance": "asks"
+      },
+      {
+        "source": "was erzählt wird",
+        "target": "womit erzählt wird",
+        "type": "complements",
+        "quote": "Storyform und Outline — was erzählt wird (Struktur) 2. Begriffe und Konzepte — womit erzählt wird (Vokabular)",
+        "stance": "asserts"
+      },
+      {
+        "source": "womit erzählt wird",
+        "target": "wer erzählt",
+        "type": "complements",
+        "quote": "Begriffe und Konzepte — womit erzählt wird (Vokabular) 3. Anteile, Profile, Sprach-DNA — wer erzählt (Stimmen)",
+        "stance": "asserts"
+      },
+      {
+        "source": "wer erzählt",
+        "target": "wie erzählt wird",
+        "type": "complements",
+        "quote": "Anteile, Profile, Sprach-DNA — wer erzählt (Stimmen) 4. Welt, Sensorik, Drafting-Disziplin — wie erzählt wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennung in Erzählform",
+        "target": "Wiederzusammenfinden in dritter, pluraler Form",
+        "type": "in_tension_with",
+        "quote": "Die Dual-Storyform ist die Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna ist nicht in der Welt",
+        "target": "Juna ist die Bewegung, die Welt erst möglich macht",
+        "type": "contrasts_with",
+        "quote": "Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

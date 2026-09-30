@@ -1,0 +1,170 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "input_rows": 6,
+  "candidates": 0,
+  "refused": 6,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:67c995f81ed7b0f141163341a48b0c98ba2b2fb04d0b3c8235bb5185448c0070",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "der Leser im realen Leben unterbrochen",
+        "target": "die Welt um ihn herum friert ein",
+        "type": "causes",
+        "quote": "Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird (das Buch weglegt).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "CausalLinks",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "die Welt um ihn herum friert ein"
+      ]
+    },
+    {
+      "id": "claim:5313f88cfa225a905182012c996d377ddb4f3f1bf0b15ccf5cf6498d57e2b2e8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "die „Einheit“ verliert Interesse",
+        "target": "das System schaltet ab",
+        "type": "causes",
+        "quote": "dass die „Einheit“ sonst das Interesse verlieren und das System abschalten könnte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "CausalLinks",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "die „Einheit“ verliert Interesse",
+        "das System schaltet ab"
+      ]
+    },
+    {
+      "id": "claim:7f9d820891bfdc1855b3db595b6c629456b9fdfe9ec8402170a261bc7eaa0a6d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "das Zuklappen des Buches",
+        "target": "AEGIS hat Angst",
+        "type": "causes",
+        "quote": "AEGIS hat Angst vor dem Zuklappen des Buches.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "CausalLinks",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "das Zuklappen des Buches"
+      ]
+    },
+    {
+      "id": "claim:0ff33e30c216d51f842aa3c863da04a5bdfdba8c74a5c827bcef1a4cd4d8be5e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael rennt zu schnell oder dringt in Regionen vor",
+        "target": "die Welt zerfällt in Textfragmente oder unklare Schemen",
+        "type": "causes",
+        "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "CausalLinks",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        34
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael rennt zu schnell oder dringt in Regionen vor",
+        "die Welt zerfällt in Textfragmente oder unklare Schemen"
+      ]
+    },
+    {
+      "id": "claim:c6673698f90bf77cccc95bad2d9c99050a25a650c1c86df7a3a750b3b2837300",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "das System wird unentscheidbar",
+        "target": "der Verstand des Beobachters stößt an seine kognitiven Grenzen",
+        "type": "causes",
+        "quote": "Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "CausalLinks",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "das System wird unentscheidbar",
+        "der Verstand des Beobachters stößt an seine kognitiven Grenzen"
+      ]
+    },
+    {
+      "id": "claim:b6a8f66dde0d32fd0af3e005c3a7e131d5c523e8a7cb7c33375a33bdb29240ba",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "der letzte Punkt wird gesetzt",
+        "target": "Kael wird aufhören zu atmen",
+        "type": "causes",
+        "quote": "Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "CausalLinks",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "der letzte Punkt wird gesetzt",
+        "Kael wird aufhören zu atmen"
+      ]
+    }
+  ]
+}

@@ -114,6 +114,17 @@ Each term is reported **twice** — standing alone, and including compounds —
 because one number cannot answer it in German, and the inflected surfaces found
 are listed. **A term at `0 word` is written differently here, not absent.**
 
+```bash
+python3 scripts/census.py draft <slug>            # Plan/runs/<slug>/census-draft.md: every mechanical part
+python3 scripts/census.py check <slug>            # holds: the saved census equals the draft where code wrote it
+```
+
+Code drafts the frontmatter, the profile, the candidate table (every row with its
+count mark) and the facts; the reader fills the two `<!-- reader: … -->` sections
+— the stance and what the extraction ran into — and saves the file as
+`Sources/terms/<slug>.md`. `check` compares every row, so a table edited by hand
+fails it.
+
 The census goes to `Sources/terms/<slug>.md`. **It describes one document and
 nothing else**: no count, comparison or expectation from another source appears
 in it. That independence is what makes the next step safe — if the accumulated
@@ -127,7 +138,7 @@ matter. It quotes, and every quotation carries its line.
 
 ```bash
 python3 scripts/read.py <slug> --find "<the words you want to quote>"
-python3 scripts/quotes.py Sources/notes/<slug>.md
+python3 scripts/quotes.py --strict Sources/notes/<slug>.md   # exits 1 on an unresolved or an uncited quotation
 ```
 
 **Ask for the citation rather than typing it next to the quote.** `--find`
@@ -172,6 +183,25 @@ document's own rule keeps out. A reading goes on the page; either way the call
 goes into `Plan/runs/sweep.jsonl`, one row per page, with why.
 `reconcile.py --sweep-open` must print nothing before the reconciliation is
 done. The sweep asks the index, not the pages, so what reaches you is the hits.
+
+**Then the rest of the corpus, by code.** A page's graph knows the reconciled
+documents; the other landed documents reach it through search alone.
+
+```bash
+.venv-graphqlite/bin/python scripts/kg.py index   # the shared store, if `askdb.py check` says stale
+python3 scripts/crossdoc.py doc <slug>            # Plan/runs/<slug>/crossdoc.md
+```
+
+For each page the document reads onto, `crossdoc.md` names the documents that
+write its names — **counted** by `corpus.py`, split into read on the page, read
+but not on it (a sweep to re-check) and unread, never a search rank — and three
+lines that share the page's words and write none of its names (a `P_BM25`
+relation: „Das große Schweigen“ for „Große Stille“). It goes into the readings
+brief. A reader judges each related line with `python3 scripts/bm25rel.py label
+<id> tension|parallel|same|noise --by "<who>"`; the store loads the verdict on the
+next build, and `bm25rel.py fit` ranks the relations once twelve of each kind are
+judged. A relation is not a reading and never enters `Wiki/`.
+`python3 scripts/crossdoc.py coverage` says where the whole graph is thin.
 
 **Reconciliation never reads the wiki.** It answers by lookup against
 `Wiki/index.json`, so cost per document is `O(census) + O(judgement)` and not
@@ -250,7 +280,15 @@ numbered list without `Kap` are invisible to the count, so read the document's
 own outline too. Then `python3 scripts/chapters.py overview` and
 `python3 scripts/chapters.py`, which must print 0 defects.
 
-Write `Plan/runs/<slug>/reconcile.json` with `state_before` and `state_after`, and
+```bash
+python3 scripts/record.py draft <slug>            # reconcile-draft.json and record-draft.md, from the pages
+python3 scripts/record.py check <slug>            # a saved record against the pages it describes
+```
+
+Code drafts what is mechanical — the pages' readings and the lines each cites, the
+chapters, the ledgers' rows, the state left — and marks what only a person can
+write `<reconciler: …>`. Fill those marks, then write
+`Plan/runs/<slug>/reconcile.json` with `state_before` and `state_after`, and
 `Wiki/compare/reconcile-NN-<slug>.md` as the prose record. `references/artifacts.md`
 has the exact fields. Then:
 

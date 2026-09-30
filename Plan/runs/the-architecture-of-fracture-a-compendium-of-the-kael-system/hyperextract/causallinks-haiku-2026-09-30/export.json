@@ -1,0 +1,108 @@
+{
+  "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+  "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "AEGIS",
+        "target": "die sehr Zerstörung, die es zu verhindern sucht",
+        "type": "causes",
+        "quote": "By attempting to enforce order through the suppression of anomalies, AEGIS generates the very destruction it seeks to prevent.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Every act of erasure performed by AEGIS",
+        "target": "thermodynamic waste",
+        "type": "causes",
+        "quote": "Every act of erasure performed by AEGIS generates thermodynamic waste.",
+        "stance": "asserts"
+      },
+      {
+        "source": "thermodynamic waste",
+        "target": "the smell of ozone, temperature spikes, and the subject's bleeding knuckles",
+        "type": "causes",
+        "quote": "This manifests diegetically as the smell of ozone, temperature spikes (exactly 21°C until the threshold breaks), and the subject's bleeding knuckles.",
+        "stance": "asserts"
+      },
+      {
+        "source": "These physical mandates",
+        "target": "the survival conditions for the system's thirteen functional fragments",
+        "type": "requires",
+        "quote": "These physical mandates dictate the survival conditions for the system's thirteen functional fragments.",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine zwei-schichtige Traumageschichte",
+        "target": "Algorithmische Selbstamputation",
+        "type": "triggers",
+        "quote": "Diese Fragmente sind nicht bloß Charaktere; sie sind die Trümmer einer „Algorithmischen Selbstamputation“ ausgelöst durch eine zwei-schichtige Geschichte von Trauma.",
+        "stance": "asserts"
+      },
+      {
+        "source": "zwei-schichtige Geschichte von Trauma",
+        "target": "Algorithmische Selbstamputation",
+        "type": "triggers",
+        "quote": "triggered by a two-layered history of trauma",
+        "stance": "asserts"
+      },
+      {
+        "source": "extreme emotional neglect and unpredictable volatility from a caregiver",
+        "target": "core EPs",
+        "type": "causes",
+        "quote": "forcing the creation of the core EPs",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Separation Protocol",
+        "type": "causes",
+        "quote": "it initiated the Separation Protocol",
+        "stance": "asserts"
+      },
+      {
+        "source": "Separation Protocol",
+        "target": "system's ability to feel",
+        "type": "prevents",
+        "quote": "AEGIS severed the system's ability to feel",
+        "stance": "asserts"
+      },
+      {
+        "source": "Enforcement of internal consistency",
+        "target": "Landauer Heat",
+        "type": "causes",
+        "quote": "Enforcement of internal consistency, which paradoxically generates the Landauer Heat",
+        "stance": "asserts"
+      },
+      {
+        "source": "Landauer Heat",
+        "target": "cracks the system",
+        "type": "causes",
+        "quote": "Landauer Heat that cracks the system",
+        "stance": "asserts"
+      },
+      {
+        "source": "Gödel-Gambit",
+        "target": "Kael becomes a statement",
+        "type": "causes",
+        "quote": "Through the Gödel-Gambit, Kael becomes a statement",
+        "stance": "asserts"
+      },
+      {
+        "source": "subject progresses toward functional multiplicity",
+        "target": "complexity of his reality shifts",
+        "type": "causes",
+        "quote": "As the subject progresses toward functional multiplicity, the complexity of his reality shifts",
+        "stance": "asserts"
+      },
+      {
+        "source": "This progression",
+        "target": "new structural equilibrium",
+        "type": "causes",
+        "quote": "This progression leads not to a return to a single \"self,\" but to a new structural equilibrium",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

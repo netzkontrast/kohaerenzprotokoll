@@ -1,0 +1,9 @@
+== default-scaled 18:01:05
+24 cases: document recall 0.301, line recall 0.1
+== he-lines-10-scaled 18:02:12
+24 cases: document recall 0.31, line recall 0.101
+== he-lines-40-scaled 18:03:45
+24 cases: document recall 0.33, line recall 0.108
+== without-co-mention-scaled 18:05:21
+24 cases: document recall 0.289, line recall 0.096
+== done 18:06:02

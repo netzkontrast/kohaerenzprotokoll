@@ -1,0 +1,31 @@
+# E5 — what the HyperExtract contracts read
+
+3152 claims from the contracts' runs on 19 documents are in the store; they touch 66 of the wiki's 106 pages, and 32 of the 48 distinct gold pages of the 24 cases. From them: page pairs a claim relates (its source and its target each contain a page), and pairs of pages one claim holds together. Each set is added to every case's graph as a term–term relation beside the stated ones, which keep their default weights. The size of what could move is bounded by the documents the contracts ran on and the pairs they yield, not by the weights.
+
+### recall of the wiki's own labels
+
+| configuration | recall@8 | precision@8 | recall@16 | vs the floor: mean, 90 % interval | up / down / same |
+|---|---|---|---|---|---|
+| floor: the stated relations at their default weights | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| causal pairs (15 pairs, 4 not already `links`), weight 0.1 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| causal pairs (15 pairs, 4 not already `links`), weight 0.3 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| causal pairs (15 pairs, 4 not already `links`), weight 1.0 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| causal pairs (15 pairs, 4 not already `links`), weight 3.0 | 0.688 | 0.273 | 0.806 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| contrast pairs (22 pairs, 5 not already `links`), weight 0.1 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| contrast pairs (22 pairs, 5 not already `links`), weight 0.3 | 0.694 | 0.278 | 0.810 | +0.006 [+0.000, +0.018] | 1 / 0 / 23 |
+| contrast pairs (22 pairs, 5 not already `links`), weight 1.0 | 0.694 | 0.278 | 0.810 | +0.006 [+0.000, +0.018] | 1 / 0 / 23 |
+| contrast pairs (22 pairs, 5 not already `links`), weight 3.0 | 0.694 | 0.278 | 0.814 | +0.006 [+0.000, +0.018] | 1 / 0 / 23 |
+| role pairs (8 pairs, 4 not already `links`), weight 0.1 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| role pairs (8 pairs, 4 not already `links`), weight 0.3 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| role pairs (8 pairs, 4 not already `links`), weight 1.0 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| role pairs (8 pairs, 4 not already `links`), weight 3.0 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| every relation pair (42 pairs, 12 not already `links`), weight 0.1 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| every relation pair (42 pairs, 12 not already `links`), weight 0.3 | 0.694 | 0.278 | 0.810 | +0.006 [+0.000, +0.018] | 1 / 0 / 23 |
+| every relation pair (42 pairs, 12 not already `links`), weight 1.0 | 0.694 | 0.278 | 0.810 | +0.006 [+0.000, +0.018] | 1 / 0 / 23 |
+| every relation pair (42 pairs, 12 not already `links`), weight 3.0 | 0.686 | 0.273 | 0.798 | -0.002 [-0.019, +0.012] | 1 / 1 / 22 |
+| co-read: pages one claim holds together (106 pairs, 44 not already `links`), weight 0.1 | 0.688 | 0.273 | 0.810 | +0.000 [+0.000, +0.000] | 0 / 0 / 24 |
+| co-read: pages one claim holds together (106 pairs, 44 not already `links`), weight 0.3 | 0.657 | 0.273 | 0.810 | -0.031 [-0.115, +0.021] | 1 / 1 / 22 |
+| co-read: pages one claim holds together (106 pairs, 44 not already `links`), weight 1.0 | 0.653 | 0.267 | 0.814 | -0.035 [-0.122, +0.021] | 1 / 2 / 21 |
+| co-read: pages one claim holds together (106 pairs, 44 not already `links`), weight 3.0 | 0.607 | 0.244 | 0.776 | -0.082 [-0.165, -0.016] | 0 / 5 / 19 |
+
+Gold pages a case could not reach before and can reach with the pairs added (walking the new type at weight 1): every relation pair: 0, co-read: pages one claim holds together: 0.

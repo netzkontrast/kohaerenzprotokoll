@@ -1619,5 +1619,381 @@
   "role": "document-reader",
   "description": "R1: finish technical-audit extraction",
   "minutes": 53.8
+ },
+ {
+  "slug": "Readings for documents 52 and 53",
+  "agent": "a498e3e1668b30880",
+  "chars_per_token": 2.05,
+  "context_growth": 191948,
+  "unseen_tokens": 54550,
+  "unseen_share": 0.28,
+  "agent_type": "wiki-reader",
+  "wrote_chars": 14339,
+  "start": "2026-09-30T11:43:48.077Z",
+  "end": "2026-09-30T11:53:56.644Z",
+  "calls": 25,
+  "tokens": {
+   "input": 50,
+   "cache_write": 221811,
+   "cache_read": 2956162,
+   "output": 218
+  },
+  "cost": 574019.95,
+  "peak_context": 221813,
+  "tools": {
+   "Read": 3,
+   "Bash": 32
+  },
+  "scripts": {
+   "read.py": 8,
+   "digest.py": 11
+  },
+  "reads": {
+   "Plan/runs/step6-readings-52-53/brief.md": 1,
+   "Sources/notes/ontologische-inversion-von-aegis-kritisches-framework.md": 1,
+   "Sources/notes/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md": 1
+  },
+  "result_chars": {
+   "Read": 43598,
+   "Bash": 228089
+  },
+  "errors": 0,
+  "phases": {
+   "setup": {
+    "input": 50,
+    "cache_write": 221811,
+    "cache_read": 2956162,
+    "output": 218,
+    "calls": 25,
+    "cost": 574019.95
+   }
+  },
+  "ended": "",
+  "role": "wiki-reader",
+  "description": "Readings for documents 52 and 53",
+  "minutes": 10.1
+ },
+ {
+  "slug": "R2: Haiku reads ki-narrative-kollaps",
+  "agent": "afff1cdc1d3c0d803",
+  "chars_per_token": 2.94,
+  "context_growth": 83895,
+  "unseen_tokens": 15916,
+  "unseen_share": 0.19,
+  "agent_type": "document-reader",
+  "wrote_chars": 51003,
+  "start": "2026-09-30T12:31:49.134Z",
+  "end": "2026-09-30T12:37:14.927Z",
+  "calls": 56,
+  "tokens": {
+   "input": 452,
+   "cache_write": 109731,
+   "cache_read": 4545404,
+   "output": 656
+  },
+  "cost": 595436.15,
+  "peak_context": 109741,
+  "tools": {
+   "Read": 11,
+   "Bash": 25,
+   "Edit": 16,
+   "Write": 2,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 44,
+   "census.py": 4,
+   "quotes.py": 6
+  },
+  "reads": {
+   "Plan/runs/reader-lab-2026-09-30/tasks/r2-haiku.md": 1,
+   "Plan/runs/reader-lab-2026-09-30/card.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   "Plan/briefings/extract.md": 1,
+   "Plan/runs/ki-narrative-kollaps-kohaerenz-paradoxie/03-candidates.md": 1,
+   "Plan/runs/ki-narrative-kollaps-kohaerenz-paradoxie/census-draft.md": 3,
+   "Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md": 1,
+   "Sources/terms/ki-narrative-kollaps-kohaerenz-paradoxie.md": 1,
+   "Sources/notes/ki-narrative-kollaps-kohaerenz-paradoxie.md": 1
+  },
+  "result_chars": {
+   "Read": 103363,
+   "Bash": 44902,
+   "Edit": 2811,
+   "Write": 373,
+   "SubagentHandback": 61
+  },
+  "errors": 4,
+  "phases": {
+   "setup": {
+    "input": 452,
+    "cache_write": 109731,
+    "cache_read": 4545404,
+    "output": 656,
+    "calls": 56,
+    "cost": 595436.15
+   }
+  },
+  "ended": "Excellent! All files pass verification. Let me prepare my final report:  <SubagentHandback> <parameter name=\"message\">## Reading complete: ki-narrative-kollaps-",
+  "role": "document-reader",
+  "description": "R2: Haiku reads ki-narrative-kollaps",
+  "minutes": 5.4
+ },
+ {
+  "slug": "kohaerenz-protokoll-audit-und-verifizierung",
+  "agent": "a1dfcf9d940a8c8e0",
+  "chars_per_token": 2.75,
+  "context_growth": 103613,
+  "unseen_tokens": 13281,
+  "unseen_share": 0.13,
+  "agent_type": "document-reader",
+  "wrote_chars": 88785,
+  "start": "2026-09-30T12:47:21.356Z",
+  "end": "2026-09-30T12:54:31.365Z",
+  "calls": 39,
+  "tokens": {
+   "input": 316,
+   "cache_write": 130576,
+   "cache_read": 3892536,
+   "output": 77
+  },
+  "cost": 553174.6000000001,
+  "peak_context": 130586,
+  "tools": {
+   "Read": 6,
+   "Bash": 29,
+   "Write": 3,
+   "Edit": 12,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 33,
+   "census.py": 5,
+   "quotes.py": 7
+  },
+  "reads": {
+   "Plan/runs/reader-lab-2026-09-30/card.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   "Plan/briefings/extract.md": 1,
+   "Plan/runs/kohaerenz-protokoll-audit-und-verifizierung/census-draft.md": 2,
+   "/root/.claude/projects/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/tool-results/bc02wjtgq.txt": 1
+  },
+  "result_chars": {
+   "Read": 115690,
+   "Bash": 44867,
+   "Write": 565,
+   "Edit": 2352,
+   "SubagentHandback": 61
+  },
+  "errors": 5,
+  "phases": {
+   "setup": {
+    "input": 316,
+    "cache_write": 130576,
+    "cache_read": 3892536,
+    "output": 77,
+    "calls": 39,
+    "cost": 553174.6000000001
+   }
+  },
+  "ended": "Perfect! All checks pass. Let me create my final report:  <SubagentHandback> <parameter name=\"message\">## Document Summary  **Kohärenz-Protokoll Audit und Verif",
+  "role": "document-reader",
+  "description": "R3: Haiku reads audit-und-verifizierung",
+  "minutes": 7.2
+ },
+ {
+  "slug": "angst-bei-komplexen-traumafolgen",
+  "agent": "aeda26c532c522802",
+  "chars_per_token": 2.59,
+  "context_growth": 110658,
+  "unseen_tokens": 8347,
+  "unseen_share": 0.08,
+  "agent_type": "document-reader",
+  "wrote_chars": 100008,
+  "start": "2026-09-30T13:03:40.387Z",
+  "end": "2026-09-30T13:12:18.702Z",
+  "calls": 50,
+  "tokens": {
+   "input": 404,
+   "cache_write": 137717,
+   "cache_read": 5188355,
+   "output": 84
+  },
+  "cost": 691805.75,
+  "peak_context": 137727,
+  "tools": {
+   "Read": 9,
+   "Bash": 26,
+   "Write": 3,
+   "Edit": 13,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 37,
+   "census.py": 3,
+   "quotes.py": 11
+  },
+  "reads": {
+   "Plan/runs/reader-lab-2026-09-30/card.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   "Plan/briefings/extract.md": 1,
+   "Plan/runs/angst-bei-komplexen-traumafolgen": 1,
+   "Plan/runs/angst-bei-komplexen-traumafolgen/01-profile.txt": 1,
+   "Plan/runs/angst-bei-komplexen-traumafolgen/03-candidates.md": 1,
+   "Plan/runs/angst-bei-komplexen-traumafolgen/census-draft.md": 3
+  },
+  "result_chars": {
+   "Read": 76047,
+   "Bash": 87075,
+   "Write": 627,
+   "Edit": 3547,
+   "SubagentHandback": 61
+  },
+  "errors": 3,
+  "phases": {
+   "setup": {
+    "input": 404,
+    "cache_write": 137717,
+    "cache_read": 5188355,
+    "output": 84,
+    "calls": 50,
+    "cost": 691805.75
+   }
+  },
+  "ended": "Perfect. Now I can provide my final report.  ## Summary  I have completed the reading and extraction for the document \"Angst bei komplexen Traumafolgen\" (slug: ",
+  "role": "document-reader",
+  "description": "R4: Haiku reads angst-bei-komplexen-traumafolgen",
+  "minutes": 8.6
+ },
+ {
+  "slug": "flow-zustaende-und-dissoziative-identitaet",
+  "agent": "acb9d97ddb0b3e277",
+  "chars_per_token": 2.87,
+  "context_growth": 113039,
+  "unseen_tokens": 16112,
+  "unseen_share": 0.14,
+  "agent_type": "document-reader",
+  "wrote_chars": 68434,
+  "start": "2026-09-30T13:24:45.483Z",
+  "end": "2026-09-30T13:38:19.014Z",
+  "calls": 74,
+  "tokens": {
+   "input": 592,
+   "cache_write": 263735,
+   "cache_read": 7941000,
+   "output": 148
+  },
+  "cost": 1125100.75,
+  "peak_context": 140332,
+  "tools": {
+   "Read": 10,
+   "Bash": 44,
+   "Edit": 15,
+   "Write": 2,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 27,
+   "census.py": 4,
+   "quotes.py": 14,
+   "claims.py": 7
+  },
+  "reads": {
+   "Plan/runs/reader-lab-2026-09-30/card.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   "Plan/briefings/extract.md": 1,
+   "Plan/runs/flow-zustaende-und-dissoziative-identitaet/census-draft.md": 3,
+   "/root/.claude/projects/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/tool-results/b4nagukg0.txt": 1,
+   "Sources/terms/flow-zustaende-und-dissoziative-identitaet.md": 1,
+   "Plan/runs/flow-zustaende-und-dissoziative-identitaet/claims-draft.md": 1,
+   "Sources/notes/flow-zustaende-und-dissoziative-identitaet.md": 1
+  },
+  "result_chars": {
+   "Read": 101890,
+   "Bash": 105020,
+   "Edit": 2061,
+   "Write": 377,
+   "SubagentHandback": 61
+  },
+  "errors": 5,
+  "phases": {
+   "setup": {
+    "input": 592,
+    "cache_write": 263735,
+    "cache_read": 7941000,
+    "output": 148,
+    "calls": 74,
+    "cost": 1125100.75
+   }
+  },
+  "ended": "The model's tool call could not be parsed (retry also failed).",
+  "role": "document-reader",
+  "description": "R5: Haiku reads flow-zustaende-und-dissoziative-identitaet",
+  "minutes": 13.6
+ },
+ {
+  "slug": "Write readings for documents 56, 57, 59",
+  "agent": "af9582c3ac39bf11b",
+  "chars_per_token": 1.95,
+  "context_growth": 959297,
+  "unseen_tokens": 304499,
+  "unseen_share": 0.32,
+  "agent_type": "wiki-reader",
+  "wrote_chars": 254267,
+  "start": "2026-09-30T15:17:31.856Z",
+  "end": "2026-09-30T16:22:29.225Z",
+  "calls": 225,
+  "tokens": {
+   "input": 450,
+   "cache_write": 1410405,
+   "cache_read": 79179334,
+   "output": 1796
+  },
+  "cost": 9690369.65,
+  "peak_context": 783142,
+  "tools": {
+   "Read": 6,
+   "Bash": 205,
+   "Write": 58,
+   "Edit": 2,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 55,
+   "digest.py": 9,
+   "readings.py": 23,
+   "lint_readings.py": 14,
+   "quotes.py": 3
+  },
+  "reads": {
+   "Plan/runs/step6-readings-56-59/brief.md": 1,
+   ".claude/agents/wiki-reader.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   ".agents/skills/reader-tools/SKILL.md": 1,
+   "/root/.claude/projects/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/tool-results/b2jrcf27u.txt": 1,
+   "/root/.claude/projects/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/tool-results/blr1ti7se.txt": 1
+  },
+  "result_chars": {
+   "Read": 107729,
+   "Bash": 917952,
+   "Write": 12988,
+   "Edit": 268,
+   "SubagentHandback": 61
+  },
+  "errors": 4,
+  "phases": {
+   "setup": {
+    "input": 450,
+    "cache_write": 1410405,
+    "cache_read": 79179334,
+    "output": 1796,
+    "calls": 225,
+    "cost": 9690369.65
+   }
+  },
+  "ended": "Now document 59: notes, verify, terms end, and the document itself.",
+  "role": "wiki-reader",
+  "description": "Write readings for documents 56, 57, 59",
+  "minutes": 65.0
  }
 ]

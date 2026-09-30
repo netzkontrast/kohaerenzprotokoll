@@ -307,6 +307,19 @@ def check_order() -> list[str]:
         kinds = {v["kind"] for v in result["violations"]}
         if result["holds"] or kinds != {"reconciled-without-census", "reconciled-without-note"}:
             failures.append(f"order: reconcile.json without census/note gave {result['holds']}, {kinds}")
+    # --strict: an uncited quotation fails a reader's gate, and passes the plain run
+    with tempfile.TemporaryDirectory() as tmp:
+        note = Path(tmp) / "note.md"
+        note.write_text("---\nsource: Sources/drive/none.md\n---\nIt says „wird verifiziert und bestätigt\" here.\n",
+                        encoding="utf-8")
+        import contextlib, io
+        out = io.StringIO()
+        with contextlib.redirect_stdout(out):
+            plain, strict = quotes.main([str(note)]), quotes.main([str(note), "--strict"])
+        if (plain, strict) != (0, 1):
+            failures.append(f"quotes --strict: an uncited quotation gave {plain} plain, {strict} strict; want 0, 1")
+        if out.getvalue().strip().splitlines()[-1] != "strict: FAIL — 0 unresolved, 1 uncited":
+            failures.append("quotes --strict does not end with its FAIL line: " + out.getvalue().strip().splitlines()[-1])
     return failures
 
 
@@ -314,12 +327,12 @@ def main() -> int:
     failures = check_quotes() + check_find() + check_fold() + check_counts() + check_frontmatter() + check_order()
     counting = len(COUNT_CASES) + 3 + 1   # the marks, read --count against capture, the pasted mark
     total = (len(QUOTE_CASES) + 3 + len(SHORT_CASES) + len(FIND_CASES) + 1
-             + len(MUST_NOT_MERGE) + len(MUST_MERGE) + 5 + counting)
+             + len(MUST_NOT_MERGE) + len(MUST_MERGE) + 6 + counting)
     for line in failures:
         print(f"  FAIL  {line}")
     print(f"\n{total - len(failures)} of {total} cases hold "
           f"({len(QUOTE_CASES) + 3 + len(SHORT_CASES)} quotation, {len(FIND_CASES) + 1} citation, "
-          f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold, {counting} counting, 5 frontmatter and order)")
+          f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold, {counting} counting, 6 frontmatter, order and strict)")
     if failures:
         print("\nA failure here means a checker other work depends on is not "
               "reporting what it claims to report.")

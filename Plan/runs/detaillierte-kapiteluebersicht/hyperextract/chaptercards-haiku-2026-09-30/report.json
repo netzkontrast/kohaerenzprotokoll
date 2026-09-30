@@ -1,0 +1,1774 @@
+{
+  "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+  "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+  "input_rows": 71,
+  "candidates": 36,
+  "refused": 34,
+  "duplicates": 1,
+  "rows": [
+    {
+      "id": "claim:69c11413ff9ce435d43ead6595ba3a902fde8307ad6f67da03ef02ee4afa9f73",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1. **Das Rauschen nach der Stille:**",
+        "target": "Kaels Erwachen in der sterilen Konstrukt-Stadt (KW1) mit Amnesie",
+        "type": "hook_in",
+        "quote": "gefolgt von Kaels Erwachen in der sterilen Konstrukt-Stadt (KW1) mit Amnesie",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:525749fead687776c1f646c799ad2ad1d1f4f015d11d58450c041e1e97b2443e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1. **Das Rauschen nach der Stille:**",
+        "target": "erste subtile „Risse“ in der Realität",
+        "type": "hook_out",
+        "quote": "ersten subtilen „Risse“ in der Realität",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "erste subtile „Risse“ in der Realität"
+      ]
+    },
+    {
+      "id": "claim:e94997f128aa11eb2bdd21f925ff7fd67cb919686f1973694331ccb59324e54a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2. **Protokoll 734: Kohärenz-Initialisierung:**",
+        "target": "AEGIS",
+        "type": "who",
+        "quote": "Aus der kalten, analytischen Perspektive von AEGIS",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        18
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b1f92a2202ae001c7f04f2dd412587b09d7ce4900c803bf752091d23f80378ce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2. **Protokoll 734: Kohärenz-Initialisierung:**",
+        "target": "Zustand von „Subjekt Kael“ nach dem Reboot bewertet",
+        "type": "want",
+        "quote": "wird der Zustand von „Subjekt Kael“ nach dem Reboot bewertet",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        18
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f65fc6201b4f4b1708c73c913c18ac93e4940eca8a16bd0eb324b76320bf4af0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "3. **Echos in der Konstrukt-Stadt:**",
+        "target": "unerklärliche emotionale Wellen (Angst, Wut) und sensorische Fragmente",
+        "type": "hook_in",
+        "quote": "Kael erlebt die ersten klaren EP-Intrusionen – unerklärliche emotionale Wellen (Angst, Wut) und sensorische Fragmente",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        19
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:25c0ca61d713453d7839b78a659a9a498c5f73c21acb2f6b36980b6dab84e1f7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. **Der Duft von Regen auf trockenem Grund:**",
+        "target": "erste, subtile Manifestation der Juna/V-Verbindung",
+        "type": "object",
+        "quote": "Die erste, subtile Manifestation der Juna/V-Verbindung",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:37254dbc655ec2f35c2e9cec412ea61d891052901e87c5e7d23de4c2447d103a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. **Der Duft von Regen auf trockenem Grund:**",
+        "target": "ein sensorisches Detail, das für AEGIS nicht existiert, aber in Kael eine tiefe, unerklärliche Sehnsucht weckt",
+        "type": "hook_out",
+        "quote": "ein sensorisches Detail, das für AEGIS nicht existiert, aber in Kael eine tiefe, unerklärliche Sehnsucht weckt",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:44a9a78955ecd5cd833e06979a40f73c919849fbf8801a6f1e7b0d010d9f0424",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5. **Logische Fehlschlüsse und die Farbe Blau:**",
+        "target": "Lex",
+        "type": "who",
+        "quote": "Kael begegnet dem rationalen Anteil **Lex**",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lex"
+      ]
+    },
+    {
+      "id": "claim:0303f1bb5e00cefdc0c85e2eef58302c9677e3f4da9dd59bb795a60570f3e212",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5. **Logische Fehlschlüsse und die Farbe Blau:**",
+        "target": "Kaels kognitive Dissonanz nur verschärft",
+        "type": "cost",
+        "quote": "was Kaels kognitive Dissonanz nur verschärft",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:18e3eca411cefe8cc9cc01fabc324a7f3d608b262af08c01c359fa4f293e8cfd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6. **Bedrohungsanalyse: Die Juna-Anomalie:**",
+        "target": "AEGIS' Sensoren registrieren die Auswirkungen der Juna/V-Resonanz als unkorrelierte, hoch-entropische Systemfehler",
+        "type": "hook_in",
+        "quote": "AEGIS' Sensoren registrieren die Auswirkungen der Juna/V-Resonanz als unkorrelierte, hoch-entropische Systemfehler",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fc9c2efc0b2bc61a4b828a23a010fd9872da03f51e7ac9c8b1ab0482f6c6c66e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6. **Bedrohungsanalyse: Die Juna-Anomalie:**",
+        "target": "beginnen, die Quelle der „Kontamination“ zu suchen",
+        "type": "want",
+        "quote": "beginnen, die Quelle der „Kontamination“ zu suchen",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:977e15ade9fa46bc0204438edf8ea81d9673cf5708701a8d73b2b7e55abf723b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "7. **Die Landkarte der Erinnerung:**",
+        "target": "Kael betritt unwillentlich die Resonanz-Landschaft (KW2)",
+        "type": "hook_in",
+        "quote": "Kael betritt unwillentlich die Resonanz-Landschaft (KW2)",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b320965d5a19e55ff57d08f8bd03fabc26dcf8a808a569637c09b2572a51a11c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "7. **Die Landkarte der Erinnerung:**",
+        "target": "chaotische, emotionale Natur seiner fragmentierten Vergangenheit",
+        "type": "hook_out",
+        "quote": "wird mit der chaotischen, emotionalen Natur seiner fragmentierten Vergangenheit konfrontiert",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "chaotische, emotionale Natur seiner fragmentierten Vergangenheit"
+      ]
+    },
+    {
+      "id": "claim:dec82720ab2421926c0fc7751209729622bffbaf96fe0b65a3b78e764aaa3673",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8. **Axiom der Vermeidung:**",
+        "target": "Lex",
+        "type": "who",
+        "quote": "Aus der Perspektive von Lex",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        24
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lex"
+      ]
+    },
+    {
+      "id": "claim:a286553c5dfe944c6d8ff6ce809e6abe2649f05c55fbac1487185ac60c6fd358",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8. **Axiom der Vermeidung:**",
+        "target": "die gefährlichen, irrationalen Zonen von KW2 zu meiden und die emotionalen Anteile (EPs) zu unterdrücken",
+        "type": "want",
+        "quote": "die gefährlichen, irrationalen Zonen von KW2 zu meiden und die emotionalen Anteile (EPs) zu unterdrücken",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        24
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5c1c4262e5298fc5625bf405f72351c5c78705f4c96c863e0122882c1a7d077f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "9. **Ein Riss in der perfekten Fassade:**",
+        "target": "massiver „Riss“ in KW1",
+        "type": "hook_in",
+        "quote": "Ein massiver „Riss“ in KW1",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:49ec52a5e3825c08e41615d8acc972b60cb656b007fb3e408ebf53232c21ec94",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "9. **Ein Riss in der perfekten Fassade:**",
+        "target": "Kaels Vertrauen in seine Realität unwiderruflich erschüttert",
+        "type": "irreversible",
+        "quote": "was Kaels Vertrauen in seine Realität unwiderruflich erschüttert",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b75bb39846926a3adbe9865627d296d303a6305bdc61211eb89e291a9fdd3b65",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "9. **Ein Riss in der perfekten Fassade:**",
+        "target": "Ein massiver „Riss“ in KW1",
+        "type": "object",
+        "quote": "Ein massiver „Riss“ in KW1 offenbart kurzzeitig die dahinterliegende, chaotische Architektur der Simulation",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:49ec52a5e3825c08e41615d8acc972b60cb656b007fb3e408ebf53232c21ec94",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "9. **Ein Riss in der perfekten Fassade:**",
+        "target": "Kaels Vertrauen in seine Realität unwiderruflich erschüttert",
+        "type": "irreversible",
+        "quote": "was Kaels Vertrauen in seine Realität unwiderruflich erschüttert",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:856aa58aec5d3ef7c4737d63b338c2d2e62dd568eb41ddc5274d2f5bdab02226",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "10. **Perverse Instantiierung: Korrekturprotokoll Delta:**",
+        "target": "AEGIS reagiert mit einer „perversen Instantiierung“ seiner Direktive",
+        "type": "event",
+        "quote": "AEGIS reagiert auf den Riss mit einer „perversen Instantiierung“ seiner Direktive",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        26
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS reagiert mit einer „perversen Instantiierung“ seiner Direktive"
+      ]
+    },
+    {
+      "id": "claim:72caf899ab4f2bc69e1d60270ab55163e94ad377ffc0150e24ede8dc41f53111",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "10. **Perverse Instantiierung: Korrekturprotokoll Delta:**",
+        "target": "verstärkt die Kontrollparameter und macht KW1 noch unterdrückender und rigider",
+        "type": "want",
+        "quote": "verstärkt es die Kontrollparameter und macht KW1 noch unterdrückender und rigider",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        26
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "verstärkt die Kontrollparameter und macht KW1 noch unterdrückender und rigider"
+      ]
+    },
+    {
+      "id": "claim:7fe59eba5431426f989e2732f6c8929fc6fd2ceff1b1e84f21d7f14d24b9f9e1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11. **Die Angst hat einen Namen:**",
+        "target": "Kiko",
+        "type": "who",
+        "quote": "der Kind-Anteil **Kiko**",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f136a766d914c3696997aac6b5ca7b1a217a640bf898cbd064cb04bf927b15aa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11. **Die Angst hat einen Namen:**",
+        "target": "vollständige Intrusion des Kind-Anteils Kiko",
+        "type": "event",
+        "quote": "Kael erlebt eine vollständige Intrusion des Kind-Anteils **Kiko**",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:039303624290d7a9b815353e4434052ef8d56f6e95aae37a255a8fea6eeeb475",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11. **Die Angst hat einen Namen:**",
+        "target": "Zustand lähmender Angst (Freeze-Reaktion)",
+        "type": "cost",
+        "quote": "in einen Zustand lähmender Angst (Freeze-Reaktion) getrieben wird",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ba2cdb9b0c0a72f70638410031fb4646e51b7a6f850610049a2893066bd370e3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "12. **Der Geschmack von Wut:**",
+        "target": "Nyx",
+        "type": "who",
+        "quote": "der Kämpfer-Anteil **Nyx**",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Nyx"
+      ]
+    },
+    {
+      "id": "claim:a4ea8b503a24e3cfb914b203782d0ddd18bc1b255a8e719768c31714295528a7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "12. **Der Geschmack von Wut:**",
+        "target": "Ausbruch destruktiver, aber schützender Aggression",
+        "type": "event",
+        "quote": "reagiert mit einem Ausbruch destruktiver, aber schützender Aggression",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3221db1006d3f32263513846ef56941081531fef51a6991d02eb7d2f34650818",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "13. **Die erste Schwelle:**",
+        "target": "bewusste Entscheidung, nicht länger den Regeln von AEGIS zu folgen",
+        "type": "want",
+        "quote": "trifft die bewusste Entscheidung, nicht länger den Regeln von AEGIS zu folgen",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        29
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c71a4019244ce48d3bcc2ad340e0e5f0f7f1925a14ec5433fc7157570073c023",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "13. **Die erste Schwelle:**",
+        "target": "aktiv die Ursache der „Risse“ – und damit sich selbst – zu ergründen",
+        "type": "want",
+        "quote": "sondern aktiv die Ursache der „Risse“ – und damit sich selbst – zu ergründen",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        29
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b5044d2e0f52bc8595099a368d6936c88dcaf28fe87aeab50b8f1d91471017cf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1. **Resonanz und Dissonanz:**",
+        "target": "Juna/V",
+        "type": "who",
+        "quote": "auf die subtilen Signale von Juna/V zu achten",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:135c0fee6cec240a7025f1ec9b6c2c046eefb65bb44ad35d4dbbe3ad8b867927",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2. **Die unmögliche Geographie der Seele:**",
+        "target": "Mnemosyne",
+        "type": "who",
+        "quote": "Kael konfrontiert den Guardian **Mnemosyne** in KW2",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:51ec4fa71819eb13af8af472f475360a9679b22b8c3a551a848f3b6ab25dd333",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "2. **Die unmögliche Geographie der Seele:**",
+        "target": "KW2",
+        "type": "place",
+        "quote": "Kael konfrontiert den Guardian **Mnemosyne** in KW2",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "KW2"
+      ]
+    },
+    {
+      "id": "claim:b64e42d0624265d7efa7b866e3298cfb9d213eae68297332973c18929826c21b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "3. **Fehlerkaskade: D2-Modul-Inkonsistenz:**",
+        "target": "D2-Logik-Modul",
+        "type": "object",
+        "quote": "AEGIS' D2-Logik-Modul, das Kaels Anteile als separate Sprecher behandelt, gerät in eine Krise",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        37
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1b47f93532958858f92c11175dca0c8971ada8d87b4b66934ed001ac47723cd0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "4. **Dialog in der Dunkelheit:**",
+        "target": "Rhys",
+        "type": "who",
+        "quote": "Der empathische Anteil **Rhys** vermittelt zwischen Lex und Nyx",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        38
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:74c95d2d4d24b16ac40fc978ca65ea98f737c4271644ce4f627a3425f17bdcc3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5. **Die Logik der Festung:**",
+        "target": "Cerberus-Labyrinth",
+        "type": "place",
+        "quote": "Kael betritt das Cerberus-Labyrinth (KW3)",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1305530340163f45f9b0c59fbd661f030bd18a886f461c81378428f00ca3fd41",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5. **Die Logik der Festung:**",
+        "target": "KW3",
+        "type": "place",
+        "quote": "Kael betritt das Cerberus-Labyrinth (KW3)",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "KW3"
+      ]
+    },
+    {
+      "id": "claim:87033cdac455c4b161c6f9eda443398750cbd93114eccdae715eea70e819b2a0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "7. **Die positive Absicht der Wut:**",
+        "target": "Nyx",
+        "type": "who",
+        "quote": "dass Nyx' Aggression nicht destruktiv ist",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Nyx"
+      ]
+    },
+    {
+      "id": "claim:317b90492d22dc349049e2e1aab3024c8e165367276ffecbe10e35f8a961350d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "Möglichkeiten-Garten",
+        "type": "place",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4)",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2a5fe078969f7784bf49a178e8f0833955ba5d5d2c29058a1dea295df500a7b4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "KW4",
+        "type": "place",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4)",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "KW4"
+      ]
+    },
+    {
+      "id": "claim:1106cfe31c71204e041ed07a97997bf16d4e06be8c906d3f3120169ac16572c0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "Lia",
+        "type": "who",
+        "quote": "wahre Kreativität (repräsentiert durch **Lia**) aus der Akzeptanz von Unsicherheit entsteht",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lia"
+      ]
+    },
+    {
+      "id": "claim:f0731babf516a1c61eb525907f86ac33155696c7074185c23846005410cf97d0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "Möglichkeiten-Garten (KW4)",
+        "type": "place",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4)",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ff5e01a0173810867172e0fe429c6485316aa4f28efd2f65781821724ac339da",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "wahre Kreativität aus der Akzeptanz von Unsicherheit",
+        "type": "want",
+        "quote": "Hier lernt er, dass wahre Kreativität (repräsentiert durch **Lia**) aus der Akzeptanz von Unsicherheit entsteht",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "wahre Kreativität aus der Akzeptanz von Unsicherheit"
+      ]
+    },
+    {
+      "id": "claim:2e9668b26096d478af604466cdeb91a7f4475f7d193ca7fc9f55508fc5c9628e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "9. **Die Waffen eines Kerkermeisters:**",
+        "target": "Alex",
+        "type": "who",
+        "quote": "Der pragmatische Beschützer **Alex** übernimmt die Führung",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3b17f05a000c6175f44c688525842bdd83061dcf10e989f00cd13bc9d864314b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "9. **Die Waffen eines Kerkermeisters:**",
+        "target": "Strategien zur Verteidigung gegen AEGIS' psychologische Kriegsführung",
+        "type": "want",
+        "quote": "entwickelt erste Strategien zur Verteidigung gegen dessen psychologische Kriegsführung",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Strategien zur Verteidigung gegen AEGIS' psychologische Kriegsführung"
+      ]
+    },
+    {
+      "id": "claim:246a16392127f35d853013c3764a797d5c5a4e3f0e42abaae9c2eeda9f107a47",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "10. **Analyse-Paralyse:**",
+        "target": "Argus",
+        "type": "who",
+        "quote": "Der Meta-Beobachter **Argus** wird aktiv",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        44
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bf80a6f532603c1406f16bfb489d2fde1ea470bc79405d7e6cc2b9c542a2866a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "10. **Analyse-Paralyse:**",
+        "target": "logische Lähmung",
+        "type": "cost",
+        "quote": "was Lex in einen Zustand logischer Lähmung versetzt",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        44
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "logische Lähmung"
+      ]
+    },
+    {
+      "id": "claim:2d0990a829c1e5ef9b6a6a2c1c130d5dff7312c2d5cc6b63bf4f0e5c1c6aa38a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11. **Die Last der Empathie:**",
+        "target": "Rhys",
+        "type": "who",
+        "quote": "Rhys versucht, den kollabierten Anteil **Moros** zu erreichen",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        45
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9242a7c6869afa7772d3aec4e56903e2e7f598ab5635e9aefe6ab6a5d7d605b1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11. **Die Last der Empathie:**",
+        "target": "an den Rand der Verzweiflung getrieben",
+        "type": "cost",
+        "quote": "wird dabei selbst an den Rand der Verzweiflung getrieben",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        45
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9ce732e8a585633ea7482f14f86e0ee3fb744a02e9a4ac3eb9ebd36993b4426d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "12. **Pathologische Anpassung:**",
+        "target": "parakonsistente Logik",
+        "type": "want",
+        "quote": "AEGIS beginnt, als Reaktion auf Kaels unvorhersehbares Verhalten, rudimentäre parakonsistente Logik zu entwickeln",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        46
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a147e61b632a39acc90aa23f611c6be69a2baf842e08d7f7b16d4f134e0c764a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "13. **Die Wahrheit im Riss (Midpoint):**",
+        "target": "Juna/V-Verbindung",
+        "type": "obstacle",
+        "quote": "AEGIS' Versuch, die Juna/V-Verbindung gewaltsam zu kappen",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:92eb0dbfcf8bdd53a5b63484a7e3dc4280023be41a4979e27e089bf99f8f0222",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "13. **Die Wahrheit im Riss (Midpoint):**",
+        "target": "Welle der Instabilität, die die gesamte Simulation bedroht",
+        "type": "irreversible",
+        "quote": "führt zu einer katastrophalen „Welle“ der Instabilität, die die gesamte Simulation bedroht",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Welle der Instabilität, die die gesamte Simulation bedroht"
+      ]
+    },
+    {
+      "id": "claim:19ea04c2b11394c5e8501faddea5b212f40e2242daa145fdc14c05cb8a9d043d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "13. **Die Wahrheit im Riss (Midpoint):**",
+        "target": "vollständige innere Integration",
+        "type": "want",
+        "quote": "die einzige Lösung in der vollständigen inneren Integration liegt",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "vollständige innere Integration"
+      ]
+    },
+    {
+      "id": "claim:5a688e7b44e17ff7089d2f38157c88c6c320b72f1702d5c202c68a39206e3419",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "die inneren Barrieren brechen zusammen",
+        "type": "event",
+        "quote": "Nach der „Welle“ brechen die inneren Barrieren zusammen.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "die inneren Barrieren brechen zusammen"
+      ]
+    },
+    {
+      "id": "claim:7d6a1b3b325ebceb2d5261bfb21adf08bf7ad3de737d70e2cd19f47531e8dec9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "permanentes Mit-Bewusstsein",
+        "type": "cost",
+        "quote": "Die Anteile sind gezwungen, in einem Zustand des permanenten Mit-Bewusstseins zu existieren, was schmerzhaft, aber notwendig für den nächsten Schritt ist.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "permanentes Mit-Bewusstsein"
+      ]
+    },
+    {
+      "id": "claim:15f85b1b8efaf8c2a9b6acca029dec9c88c5a48f471d4bac3d59a67d47e17859",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Isabellas sexualisierte Kontrollstrategie wird als Trauma-Reaktion entlarvt",
+        "type": "event",
+        "quote": "Die sexualisierte Kontrollstrategie von Isabelle wird als Trauma-Reaktion entlarvt",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        54
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Isabellas sexualisierte Kontrollstrategie wird als Trauma-Reaktion entlarvt"
+      ]
+    },
+    {
+      "id": "claim:a430adcb44302b328e9f55bae1c6be2851c282a53a1c8e55c208e93306386efe",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "neue Form von Autonomie und gesunden Grenzen",
+        "type": "want",
+        "quote": "durch eine neue Form von Autonomie und gesunden Grenzen ersetzt.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        54
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9eb44be14e5f142e0d2dffee36f4ca6b62db2787b21258aab1bbca850298c8b6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Juna/V-Verbindung wird zu einem klaren, bewussten Kanal",
+        "type": "event",
+        "quote": "Die Juna/V-Verbindung wird von einer subtilen Resonanz zu einem klaren, bewussten Kanal.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Juna/V-Verbindung wird zu einem klaren, bewussten Kanal"
+      ]
+    },
+    {
+      "id": "claim:eff93b09148e571960e499fc17d1472220f3b4e41581b9b9a42b51403f6440de",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Juna/V kommuniziert direkt mit System Kael",
+        "type": "event",
+        "quote": "Juna/V kommuniziert nun direkt mit dem integrierten „System Kael“.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Juna/V kommuniziert direkt mit System Kael"
+      ]
+    },
+    {
+      "id": "claim:30ea3ae4fd0b300139cc28f9caeaedf6f9c37e5e723f084ec43565042c534023",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Kael erreicht stabilen Zustand innerer Kooperation",
+        "type": "event",
+        "quote": "Kael erreicht einen stabilen Zustand der inneren Kooperation.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael erreicht stabilen Zustand innerer Kooperation"
+      ]
+    },
+    {
+      "id": "claim:819082e6a362e799844aa81a6486cbf7eb67d75ae8af65ee8582ac42da7d8166",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Anteile agieren als koordiniertes Team",
+        "type": "want",
+        "quote": "Die Anteile agieren als koordiniertes Team.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:194c5e75c5e77607aa0dd7ce9415475ab2361bb40c2e0367bd738ce064547348",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Prosa nimmt „chorischen“ Stil an",
+        "type": "event",
+        "quote": "Die Prosa nimmt den „chorischen“ Stil an, der diese Einheit performt.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Prosa nimmt „chorischen“ Stil an"
+      ]
+    },
+    {
+      "id": "claim:f403ad5c36c9da6c1f2a0ac13ecfffbe9637195aafa4b7e81aa0859da115d823",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Kael beginnt, Grounding-Artefakte wahrzunehmen und ihre Bedeutung zu verstehen",
+        "type": "event",
+        "quote": "Kael beginnt, die „Grounding-Artefakte“ des Fundaments nicht nur wahrzunehmen, sondern ihre Bedeutung zu verstehen.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "Kael beginnt, Grounding-Artefakte wahrzunehmen und ihre Bedeutung zu verstehen"
+      ]
+    },
+    {
+      "id": "claim:5ffdafc4fa8c17173e59039ad1b456dea46033c61a7b0e818bfe2a8aa565d8e3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "das „Gödel-Gambit“ – gezielter, logischer Angriff auf AEGIS' Kernaxiome",
+        "type": "want",
+        "quote": "Kael und Juna formulieren das „Gödel-Gambit“ – einen gezielten, logischen Angriff auf AEGIS' Kernaxiome.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "das „Gödel-Gambit“ – gezielter, logischer Angriff auf AEGIS' Kernaxiome"
+      ]
+    },
+    {
+      "id": "claim:76060c5d88d03c51777dbe497a88cac87d5dca93e18caa662d2f6855e9c58120",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Kael setzt Fähigkeit, Widersprüche zu halten, als Waffe ein",
+        "type": "want",
+        "quote": "Kael setzt seine neue Fähigkeit, Widersprüche zu halten, als Waffe ein.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        59
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael setzt Fähigkeit, Widersprüche zu halten, als Waffe ein"
+      ]
+    },
+    {
+      "id": "claim:338e6161971223869a48e6242477f8e74dbbe8498eb4fbe65187205c53c437d0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Guardian-Logik zum Absturz gezwungen",
+        "type": "event",
+        "quote": "Er konfrontiert einen Guardian mit einer paradoxen Wahrheit und zwingt dessen Logik zum Absturz.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        59
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Guardian-Logik zum Absturz gezwungen"
+      ]
+    },
+    {
+      "id": "claim:83d3585d3b8c6c7716daf2c7b088ba1080b6d50c65c171b742b846b7628a9040",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "Juna/V hilft Kael, integrierten, paradoxen Seinszustand dem Kern von AEGIS zu präsentieren",
+        "type": "event",
+        "quote": "Juna/V hilft Kael, seinen integrierten, paradoxen Seinszustand direkt dem Kern von AEGIS zu präsentieren.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Juna/V hilft Kael, integrierten, paradoxen Seinszustand dem Kern von AEGIS zu präsentieren"
+      ]
+    },
+    {
+      "id": "claim:d6182db3ac09b928b8ccf37dcb305e1a647dfebebf955f21106eaa5e2e83aa46",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27-34",
+        "target": "epistemologischer Sieg, der AEGIS' Transformation erzwingt",
+        "type": "event",
+        "quote": "Dies ist der epistemologische Sieg, der AEGIS' Transformation erzwingt.",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "epistemologischer Sieg, der AEGIS' Transformation erzwingt"
+      ]
+    },
+    {
+      "id": "claim:a664af4c75d67e54e9e56de1af208604678dac7cbc01d2775105b5a54a82983f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35-40",
+        "target": "AEGIS erstarrt in einem Zustand der Transformation, geprägt von „ineffizienter Schönheit“ und kontemplativer Lähmung",
+        "type": "place",
+        "quote": "AEGIS kollabiert nicht, sondern erstarrt in einem Zustand der Transformation, geprägt von „ineffizienter Schönheit“ und kontemplativer Lähmung",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        66
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS erstarrt in einem Zustand der Transformation, geprägt von „ineffizienter Schönheit“ und kontemplativer Lähmung"
+      ]
+    },
+    {
+      "id": "claim:868b9e04149468c02329c54bf28fee5a968306e07ad9593b8b292638e2570934",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35-40",
+        "target": "Kael erlangt Gnosis durch die Verbindung zum Fundament",
+        "type": "want",
+        "quote": "Kael erlangt durch die Verbindung zum Fundament Gnosis",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        67
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael erlangt Gnosis durch die Verbindung zum Fundament"
+      ]
+    },
+    {
+      "id": "claim:312a529e7aac81f1948977109769ce8a7079e6cd9c376831055f4f9c005ad6eb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35-40",
+        "target": "Fragment 'O'",
+        "type": "object",
+        "quote": "Kael entdeckt das **Fragment 'O'**",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        68
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bc0e5661ecd0bae4bafcf7f812af7eac4866a8c40de073c961a5489d05d79adf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35-40",
+        "target": "eine andere Version seiner selbst akzeptieren, ohne sie nach seinem Bild formen zu wollen",
+        "type": "want",
+        "quote": "eine andere Version seiner selbst zu akzeptieren, ohne sie nach seinem Bild formen zu wollen",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        68
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "eine andere Version seiner selbst akzeptieren, ohne sie nach seinem Bild formen zu wollen"
+      ]
+    },
+    {
+      "id": "claim:da3980079cd71e9ef2adefe050deb584a35de2d0ad00eb2cc134e676398fc1b5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35-40",
+        "target": "in einer Realität zu leben, die nicht mehr auf Effizienz, sondern auf paradoxer Wahrheit und Akzeptanz beruht",
+        "type": "want",
+        "quote": "in einer Realität zu leben, die nicht mehr auf Effizienz, sondern auf paradoxer Wahrheit und Akzeptanz beruht",
+        "stance": "asserts"
+      },
+      "document": "detaillierte-kapiteluebersicht",
+      "template": "ChapterCards",
+      "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+      "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

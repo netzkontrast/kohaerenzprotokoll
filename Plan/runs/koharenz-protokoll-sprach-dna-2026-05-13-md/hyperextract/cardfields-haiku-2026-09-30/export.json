@@ -1,0 +1,479 @@
+{
+  "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+  "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+  "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Erasure-Pol",
+        "target": "Löschungs-Exekutive, kalter Gegen-Pol zu Mnemosyne",
+        "type": "function/narration",
+        "quote": "Löschungs-Exekutive. Kalter Gegen-Pol zu Mnemosyne.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Pol",
+        "target": "3. Person, hart-funktional, näher an AEGIS-Bürokratie als an Mnemosyne-Poesie",
+        "type": "voice/narration",
+        "quote": "Voraussichtlich 3. Person, hart-funktional, näher an AEGIS-Bürokratie als an Mnemosyne-Poesie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Pol",
+        "target": "Keine Metaphern, keine Pausen — Vollzug",
+        "type": "voice/narration",
+        "quote": "Keine Metaphern, keine Pausen — Vollzug.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Pol",
+        "target": "Nicht eigenständig moralisch, keine Persönlichkeit jenseits der Funktion",
+        "type": "function/narration",
+        "quote": "Nicht eigenständig moralisch. Keine Persönlichkeit jenseits der Funktion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Witness, nicht Akteur",
+        "type": "function/narration",
+        "quote": "Witness, nicht Akteur.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Die Anomalie, deren Resonanz das Trennungsprotokoll auslöste",
+        "type": "function/narration",
+        "quote": "Die Anomalie, deren Resonanz das Trennungsprotokoll auslöste.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Niemals POV, niemals Subjekt eines Satzes, erscheint nur durch Wirkung",
+        "type": "voice/narration",
+        "quote": "Niemals POV. Niemals Subjekt eines Satzes. Erscheint nur durch Wirkung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Nie physisch beschrieben — keine Augen, keine Stimme, kein Gesicht",
+        "type": "voice/narration",
+        "quote": "Nie physisch beschrieben — keine Augen, keine Stimme, kein Gesicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Sie erlaubt, dass Kael es selbst löst",
+        "type": "relationship/narration",
+        "quote": "Sie löst nichts; sie erlaubt, dass Kael es selbst löst.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Alltagsbewusstsein-Träger, Vermeidungs-Protokoll",
+        "type": "function/narration",
+        "quote": "Alltagsbewusstsein-Träger. „Going on with Normal Life“ als Vermeidungs-Protokoll.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "1. Person, Präsens dominiert, nüchtern, beobachtend, kurz-deklarativ",
+        "type": "voice/narration",
+        "quote": "1. Person, Präsens dominiert. Nüchtern, beobachtend, kurz-deklarativ.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Zähl-Manie als somatischer Tic",
+        "type": "voice/narration",
+        "quote": "Zähl-Manie als somatischer Tic (2.304 Kacheln, 21°C, 4 Sekunden Atem).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Beschreibt nie eigenes Empfinden direkt — Welt um sich, Empfinden zwischen den Zeilen",
+        "type": "voice/narration",
+        "quote": "Beschreibt nie eigenes Empfinden direkt — Welt um sich, Empfinden zwischen den Zeilen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Logik, Analyse, Intellektualisierung als Schutz vor EPs",
+        "type": "function/narration",
+        "quote": "Logik, Analyse, Intellektualisierung als Schutz vor EPs.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "1. Person, hypotaktisch, verschachtelt, kontrolliert, lange Subordinatsätze mit Bedingungslogik",
+        "type": "voice/narration",
+        "quote": "1. Person. Hypotaktisch, verschachtelt, kontrolliert. Lange Subordinatsätze mit Bedingungslogik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Lex flucht nie. Lex weint nie. Lex argumentiert mit Syllogismen",
+        "type": "voice/narration",
+        "quote": "Lex flucht nie. Lex weint nie. Lex argumentiert mit Syllogismen, auch wenn das System brennt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis",
+        "type": "arc/narration",
+        "quote": "Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex (ANP / Protektor)",
+        "target": "Hypervigilanz, physischer Schutz, Bedrohungs-Assessment",
+        "type": "function/narration",
+        "quote": "Funktion: Hypervigilanz, physischer Schutz, Bedrohungs-Assessment.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex (ANP / Protektor)",
+        "target": "direkt, imperativ, tactical; kurze Sätze mit Verb-Erststellung",
+        "type": "voice/narration",
+        "quote": "Direkt, imperativ, tactical. Kurze Sätze mit Verb-Erststellung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex (ANP / Protektor)",
+        "target": "spricht nie über Gefühle in der 1. Person",
+        "type": "voice/narration",
+        "quote": "Alex spricht nie über Gefühle in der 1. Person.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex (ANP / Protektor)",
+        "target": "wenn er sich um jemanden sorgt, sagt er „Kopf runter“ oder „Bleib hinter mir“",
+        "type": "voice/narration",
+        "quote": "Wenn er sich um jemanden sorgt, sagt er „Kopf runter“ oder „Bleib hinter mir“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys (ANP / Caregiver)",
+        "target": "Bindung, Fürsorge, Harmonie-Versuch",
+        "type": "function/narration",
+        "quote": "Funktion: Bindung, Fürsorge, Harmonie-Versuch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys (ANP / Caregiver)",
+        "target": "warm, vorsichtig; Fragen als Fürsorge",
+        "type": "voice/narration",
+        "quote": "Warm, vorsichtig. Fragen als Fürsorge.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys (ANP / Caregiver)",
+        "target": "Rhys' Stimme bleibt warm auch unter Druck",
+        "type": "voice/narration",
+        "quote": "Rhys' Stimme bleibt warm auch unter Druck.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys (ANP / Caregiver)",
+        "target": "verwechselt eigene Bedürfnisse mit denen der anderen und merkt das selten",
+        "type": "contradiction/narration",
+        "quote": "Er verwechselt eigene Bedürfnisse mit denen der anderen und merkt das selten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Vermittlung, Systemübersicht, Internal Self-Helper",
+        "type": "function/narration",
+        "quote": "Selene (ANP / Integrator / ISH)\n\n**Funktion:** Vermittlung, Systemübersicht, Internal Self-Helper.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Trägt den Bauplan der Zeit vor beiden Trauma-Schichten",
+        "type": "function/narration",
+        "quote": "Trägt den Bauplan der Zeit vor beiden Trauma-Schichten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "drängt nie",
+        "type": "contradiction/narration",
+        "quote": "Selene drängt nie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Wenn sie auftaucht, ist es spät",
+        "type": "arc/narration",
+        "quote": "Wenn sie auftaucht, ist es spät.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Sie ist nicht Lösung, sondern Anwesenheit",
+        "type": "function/narration",
+        "quote": "Sie ist nicht Lösung, sondern Anwesenheit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "Systemkritik, Beobachtung der Beobachtung",
+        "type": "function/narration",
+        "quote": "Argus (Meta-Kognitiv / Sonder-Kategorie)\n\n**Funktion:** Systemkritik, Beobachtung der Beobachtung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "Erster Erkenner von AEGIS' Kernfehler",
+        "type": "function/narration",
+        "quote": "Erster Erkenner von AEGIS' Kernfehler.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "hat keinen Witz, sondern Schärfe",
+        "type": "voice/narration",
+        "quote": "Argus hat keinen Witz, sondern Schärfe.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "Nicht zynisch — präzise",
+        "type": "voice/narration",
+        "quote": "Nicht zynisch — präzise.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx",
+        "target": "Schutz der Verletzlichen durch Angriff",
+        "type": "function/narration",
+        "quote": "Schutz der Verletzlichen durch Angriff.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx",
+        "target": "Wut als Werkzeug, nicht als Identität",
+        "type": "function/narration",
+        "quote": "Funktional wütend — Wut als Werkzeug, nicht als Identität.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx",
+        "target": "1. Person, Präsens. Stakkato. Satzfragmente. Keine Konnektoren. Verb-Erststellung, oft Imperativ. Negationen alleinstehend.",
+        "type": "voice/narration",
+        "quote": "1. Person, Präsens. Stakkato. Satzfragmente. Keine Konnektoren. Verb-Erststellung, oft Imperativ. Negationen alleinstehend.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko",
+        "target": "Erstarrung, Sich-klein-machen",
+        "type": "function/narration",
+        "quote": "Erstarrung, Sich-klein-machen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko",
+        "target": "Trägt den reinen Terror der frühen Vernachlässigung",
+        "type": "wound/narration",
+        "quote": "Trägt den reinen Terror der frühen Vernachlässigung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko",
+        "target": "1. Person, Präsens-Angst. Kindlich, einfache Wörter, kurze Sätze. Wiederholung. Sensorischer Fokus. Ellipsen, Lückentexte.",
+        "type": "voice/narration",
+        "quote": "1. Person, Präsens-Angst. Kindlich, einfache Wörter, kurze Sätze. Wiederholung. Sensorischer Fokus. Ellipsen, Lückentexte.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lia",
+        "target": "Trägt das unlösbare Paradoxon Komm-her/Geh-weg",
+        "type": "contradiction/narration",
+        "quote": "Trägt das unlösbare Paradoxon Komm-her/Geh-weg.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lia",
+        "target": "Sehnsucht, die verbrennt",
+        "type": "need/narration",
+        "quote": "Sehnsucht, die verbrennt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lia",
+        "target": "1. Person. Ambivalent. Beginnt Sätze und gibt sie auf. Ellipsen. Widersprüche im selben Satz. Approach-Avoidance auf Satzebene.",
+        "type": "voice/narration",
+        "quote": "1. Person. Ambivalent. Beginnt Sätze und gibt sie auf. Ellipsen. Widersprüche im selben Satz. Approach-Avoidance auf Satzebene.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Isabelle",
+        "target": "Kontrolle als Waffe gegen Ohnmacht",
+        "type": "function/narration",
+        "quote": "Sexualisierung als Waffe gegen Ohnmacht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Isabelle",
+        "target": "Inversion der Opfer-Position",
+        "type": "function/narration",
+        "quote": "Inversion der Opfer-Position.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Isabelle",
+        "target": "Kontrolle als Verführung — die Reihenfolge ist immer ihre",
+        "type": "function/narration",
+        "quote": "Kontrolle als Verführung — die Reihenfolge ist immer ihre.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Isabelle",
+        "target": "Vulnerabilität als Form von Macht",
+        "type": "arc/narration",
+        "quote": "Ihr Heilungsweg führt durch sie selbst — Vulnerabilität als Form von Macht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros",
+        "target": "Absolute Resignation",
+        "type": "function/narration",
+        "quote": "Absolute Resignation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros",
+        "target": "Der Zustand, vor dem alle anderen Phobie haben",
+        "type": "function/narration",
+        "quote": "Der Zustand, vor dem alle anderen Phobie haben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros",
+        "target": "Es ist sinnlos",
+        "type": "lie/claimed_by_figure",
+        "quote": "Es ist sinnlos.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros",
+        "target": "Es war immer sinnlos",
+        "type": "lie/claimed_by_figure",
+        "quote": "Es war immer sinnlos.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros",
+        "target": "Es wird nichts mehr kommen",
+        "type": "lie/claimed_by_figure",
+        "quote": "Es wird nichts mehr kommen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Resonanzkörper des Moonshine-Links im System",
+        "type": "function/narration",
+        "quote": "Resonanzkörper des Moonshine-Links im System",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "trägt einen Splitter von Juna in Kael",
+        "type": "function/narration",
+        "quote": "Trägt einen Splitter von Juna in Kael",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "das „Ich“ ist nicht ganz seins",
+        "type": "contradiction/narration",
+        "quote": "weiß aber zunehmend, dass das „Ich“ nicht ganz seins ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "ist nicht Juna — er ist ihr Echo",
+        "type": "function/narration",
+        "quote": "Silas ist nicht Juna — er ist ihr Echo",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Resonanz, kein Subjekt im klassischen Sinn",
+        "type": "function/narration",
+        "quote": "Er ist Resonanz, kein Subjekt im klassischen Sinn",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion",
+        "target": "Internalisierte Löschlogik",
+        "type": "function/narration",
+        "quote": "Internalisierte Löschlogik",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion",
+        "target": "der Grund, warum die Amnesie von innen funktioniert",
+        "type": "function/narration",
+        "quote": "Der Grund, warum die Amnesie von innen funktioniert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion",
+        "target": "ist nicht böse — er ist eine Funktion, die zur Frage geworden ist",
+        "type": "function/narration",
+        "quote": "Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "Komposition statt Verschmelzung",
+        "type": "function/narration",
+        "quote": "Das System spricht erstmals als Ganzes, ohne dass die Einzelstimmen verschwinden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "1. Person Plural, aber durchhörbar polyphon",
+        "type": "voice/narration",
+        "quote": "POV / Syntax: 1. Person Plural, aber durchhörbar polyphon.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "klingt im Wir hypotaktisch",
+        "type": "voice/narration",
+        "quote": "Lex klingt auch im Wir hypotaktisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx",
+        "target": "im Wir stakkato",
+        "type": "voice/narration",
+        "quote": "Nyx im Wir stakkato",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko",
+        "target": "im Wir kindlich",
+        "type": "voice/narration",
+        "quote": "Kiko im Wir kindlich",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "Niemals Final Fusion",
+        "type": "contradiction/narration",
+        "quote": "Niemals Final Fusion. Das Wir ist Mosaik, nicht Monolith.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "Vielstimmigkeit bleibt",
+        "type": "function/narration",
+        "quote": "In Kap 39 wird das Wir zur pluralen Bewahrungsform (Wir-AEGIS-plural), aber die Vielstimmigkeit bleibt.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

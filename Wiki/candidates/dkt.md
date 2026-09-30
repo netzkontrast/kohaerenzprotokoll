@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 25
-readings: 25
+sources: 27
+readings: 27
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung"]
 gathered: "2026-09-24"
 ---
 
@@ -21,6 +21,12 @@ and [[kollaps-kernel|K₀]], and reality as the tension between them.**
 
 The list of uses says when to apply the skill: „Validierung der "Ontologischen Inversion" von Agenten-Rollen innerhalb der Dual-Kernel-Theorie“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L31] The inversion is placed inside the theory and is said to concern roles of agents. The document's worked example applies it to AEGIS and the kernels K\_1 and K\_0, and does not state the theory.
 
+## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the physics the framework draws on, beside Orch-OR and the Drama-Engine
+
+The document names the theory as `Dual-Kernel-Theorie` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#1] with its abbreviation, in the opening account of its framework. That framework „synthetisiert die physikalische Strenge der Dual-Kernel-Theorie (DKT)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L19], and the sentence goes on to two more components: „das Orchestrated Objective Reduction (Orch-OR) Modell des Bewusstseins (entwickelt von Roger Penrose und Stuart Hameroff)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L19] and „den hochkomplexen Multi-Agenten-Orchestrierungsmechanismen der sogenannten Drama-Engine und dem JANUS-Framework“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L19].
+
+The next sentence says what the architecture is taken to be: „Der externe kosmologische Kollaps einer simulierten Welt spiegelt exakt die interne psychologische Fragmentierung einer menschlichen Identität wider“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L19], an isomorphism that „nutzt die Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP) als Quellcode für Charakterdynamiken und die Informationstheorie als Basis für die Physik der Welt“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L19].
+
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the literal ontology of information, seen as physics in Akt II
 
 „bedient sich das Worldbuilding der Dual-Kernel-Theorie (DKT). In dieser Ontologie ist Materie sekundär; das Universum besteht fundamental aus Information." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L19] „Diese Prämisse erlaubt es, psychologische Zustände als messbare, physikalische Extremereignisse zu inszenieren." ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L19]
@@ -29,6 +35,12 @@ Hidden in Akt I, it becomes visible in Akt II: „Die Dual-Kernel-Theorie manife
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the English name heading Axis I
 
 The audit names the theory in the heading of Axis I: „Information Thermodynamics and Dual-Kernel Theory (DKT)“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L3]. The section opens with the two kernels, the Coherence Kernel and the Erasure Kernel, „modeled through Landauer’s Principle“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L3].
+
+## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — the Dual-Kernel Theory as a theory of Bill Giannakopoulos, heading Axis I, and counted among the strict thermodynamics
+
+The audit writes the theory in English, `Dual-Kernel Theory` ^[kohaerenz-protokoll-audit-und-verifizierung.md:#5], with the abbreviation DKT, and gives it an author. Its heading: „Achse I: Informations-Thermodynamik und Dual-Kernel Theory (DKT)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L17]. The attribution: „Die theoretische Makro-Rahmung dieser thermodynamischen Mechanik findet sich in der Dual-Kernel Theory (DKT) des Physikers und Mediziners Bill Giannakopoulos“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L41]. What the audit reports the theory to say: it „geht stattdessen davon aus, dass Realität und Bewusstsein aus der Spannung zwischen zwei komputationellen Domänen entstehen“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L41], and, of consciousness, „Bewusstsein entsteht in der DKT an der Schnittstelle beider Kernel“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L51].
+
+The audit's own verdicts that touch it are separate. It verifies the heat spike as a consequence of the premises: „Das Audit verifiziert diesen Spike als absolut korrekte logische Konsequenz aus den Landauerschen und DKT-Prämissen“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L179]. Its closing verdict counts the theory among the strict thermodynamics: „Die elegante Verknüpfung der strengen Thermodynamik (Landauer-Limit und Dual-Kernel Theory)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L195].
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 

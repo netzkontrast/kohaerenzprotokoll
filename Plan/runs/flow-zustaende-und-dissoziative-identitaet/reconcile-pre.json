@@ -1,0 +1,1557 @@
+{
+  "document": "flow-zustaende-und-dissoziative-identitaet",
+  "step": "reconcile-pre",
+  "at": "2026-09-30",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-30",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 314,
+  "decisions": 339,
+  "same_surface": {
+    "pathologischedissoziation": [
+      "pathologische Dissoziation",
+      "Pathologische Dissoziation"
+    ],
+    "psychischeentropie": [
+      "psychische Entropie",
+      "Psychische Entropie"
+    ],
+    "verschmelzenvonhandlungundbewusstsein": [
+      "Das Verschmelzen von Handlung und Bewusstsein",
+      "Verschmelzen von Handlung und Bewusstsein"
+    ],
+    "transientehypofrontalitat": [
+      "Transiente Hypofrontalität",
+      "transiente Hypofrontalität"
+    ]
+  },
+  "decided_mechanically": 173,
+  "needs_judgement": 166,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 32
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 41
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "dissoziative Identitätsstörung"
+      },
+      {
+        "candidate": "dissoziativen Identitätsstörung"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "veränderter Bewusstseinszustände"
+      },
+      {
+        "candidate": "Amnesiebarrieren"
+      },
+      {
+        "candidate": "Fragmentierung der Identität"
+      },
+      {
+        "candidate": "schmalen Korridor der optimalen Passung"
+      },
+      {
+        "candidate": "Vollständige Konzentration auf die Gegenwart"
+      },
+      {
+        "candidate": "Verlust des reflektierenden Selbstbewusstseins"
+      },
+      {
+        "candidate": "tiefes Jetzt"
+      },
+      {
+        "candidate": "Deep Now"
+      },
+      {
+        "candidate": "Autotelische Erfahrung"
+      },
+      {
+        "candidate": "kritische innere Instanz"
+      },
+      {
+        "candidate": "Kampf-oder-Flucht-Reaktion"
+      },
+      {
+        "candidate": "Hyperarousal"
+      },
+      {
+        "candidate": "Hypoarousal"
+      },
+      {
+        "candidate": "Freeze-Response"
+      },
+      {
+        "candidate": "Freeze-Zustand"
+      },
+      {
+        "candidate": "posttraumatischen Belastungsstörung"
+      },
+      {
+        "candidate": "PTBS"
+      },
+      {
+        "candidate": "DSM-V"
+      },
+      {
+        "candidate": "D-PTSD"
+      },
+      {
+        "candidate": "Borderline-Persönlichkeitsstörung"
+      },
+      {
+        "candidate": "BPS"
+      },
+      {
+        "candidate": "DES"
+      },
+      {
+        "candidate": "DES-II"
+      },
+      {
+        "candidate": "Multidimensional Inventory of Dissociation"
+      },
+      {
+        "candidate": "MID"
+      },
+      {
+        "candidate": "A-DES"
+      },
+      {
+        "candidate": "Entwicklungstrauma"
+      },
+      {
+        "candidate": "Persönlichkeitszuständen"
+      },
+      {
+        "candidate": "Innenpersonen"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Transient Hypofrontality Hypothesis"
+      },
+      {
+        "candidate": "THH"
+      },
+      {
+        "candidate": "limbisches Chaos"
+      },
+      {
+        "candidate": "Arne Dietrich"
+      },
+      {
+        "candidate": "präfrontalen Kortex"
+      },
+      {
+        "candidate": "präfrontale Kortex"
+      },
+      {
+        "candidate": "präfrontale Komplex"
+      },
+      {
+        "candidate": "Kritikerstimmen"
+      },
+      {
+        "candidate": "Theta-Wellen-Aktivität"
+      },
+      {
+        "candidate": "Alpha-Aktivität"
+      },
+      {
+        "candidate": "Theta/Alpha-Synchronisation"
+      },
+      {
+        "candidate": "LC-NE"
+      },
+      {
+        "candidate": "umgekehrten U-Kurve"
+      },
+      {
+        "candidate": "Dopamin"
+      },
+      {
+        "candidate": "Anandamid"
+      },
+      {
+        "candidate": "Endorphinen"
+      },
+      {
+        "candidate": "Serotonin"
+      },
+      {
+        "candidate": "Default Mode Network"
+      },
+      {
+        "candidate": "DMN"
+      },
+      {
+        "candidate": "Shutdown"
+      },
+      {
+        "candidate": "regionalen zerebralen Durchblutung"
+      },
+      {
+        "candidate": "rCBF"
+      },
+      {
+        "candidate": "Glukosestoffwechsel"
+      },
+      {
+        "candidate": "CMRglu"
+      },
+      {
+        "candidate": "orbitofrontalen Kortex"
+      },
+      {
+        "candidate": "Hippocampus"
+      },
+      {
+        "candidate": "Amygdala"
+      },
+      {
+        "candidate": "Angstzentrum"
+      },
+      {
+        "candidate": "Karl Deisseroth"
+      },
+      {
+        "candidate": "Stanford University"
+      },
+      {
+        "candidate": "Cockpit des eigenen Körpers"
+      },
+      {
+        "candidate": "Derealisation"
+      },
+      {
+        "candidate": "Numbing"
+      },
+      {
+        "candidate": "Analgesie"
+      },
+      {
+        "candidate": "Interozeption"
+      },
+      {
+        "candidate": "Analytische Dimension"
+      },
+      {
+        "candidate": "Ätiologie und Auslöser"
+      },
+      {
+        "candidate": "Qualität der Aufmerksamkeit"
+      },
+      {
+        "candidate": "Struktur des Selbstgefühls"
+      },
+      {
+        "candidate": "Neurobiologische Marker"
+      },
+      {
+        "candidate": "Neurochemisches Milieu"
+      },
+      {
+        "candidate": "Körperliche Repräsentation"
+      },
+      {
+        "candidate": "Konsequenzen (Post-Effekt)"
+      },
+      {
+        "candidate": "Embodiment"
+      },
+      {
+        "candidate": "Selbstwirksamkeit"
+      },
+      {
+        "candidate": "LISREL-Modellen"
+      },
+      {
+        "candidate": "dissoziativen Fluchtmechanismus"
+      },
+      {
+        "candidate": "maladaptiven Tagträumens"
+      },
+      {
+        "candidate": "Maladaptives Tagträumen"
+      },
+      {
+        "candidate": "Maladaptive Daydreaming"
+      },
+      {
+        "candidate": "MD"
+      },
+      {
+        "candidate": "Binges"
+      },
+      {
+        "candidate": "Workaholismus"
+      },
+      {
+        "candidate": "Out-of-Body"
+      },
+      {
+        "candidate": "interozeptiven Bewusstheit"
+      },
+      {
+        "candidate": "International Society for the Study of Trauma & Dissociation"
+      },
+      {
+        "candidate": "ISSTD"
+      },
+      {
+        "candidate": "Phase-Oriented Treatment"
+      },
+      {
+        "candidate": "PoT"
+      },
+      {
+        "candidate": "phasenorientierte Psychotherapie"
+      },
+      {
+        "candidate": "Herstellung von Sicherheit"
+      },
+      {
+        "candidate": "Modifizierte Konfrontation"
+      },
+      {
+        "candidate": "Identitätsintegration"
+      },
+      {
+        "candidate": "Overtime"
+      },
+      {
+        "candidate": "Introjekte der Täter"
+      },
+      {
+        "candidate": "Reset"
+      },
+      {
+        "candidate": "Hypothalamus-Hypophysen-Nebennierenrinden-Achse"
+      },
+      {
+        "candidate": "HPA-Achse"
+      },
+      {
+        "candidate": "DIS-System"
+      },
+      {
+        "candidate": "DIS-Patienten"
+      },
+      {
+        "candidate": "Kampf-oder-Flucht-Bereitschaft"
+      },
+      {
+        "candidate": "neuroplastisches Fenster"
+      },
+      {
+        "candidate": "Sandkasten"
+      },
+      {
+        "candidate": "Identitätsentwürfe"
+      },
+      {
+        "candidate": "Identitätszustände"
+      },
+      {
+        "candidate": "Prädiktorvariablen und Grundvoraussetzungen"
+      },
+      {
+        "candidate": "Wechsel der exekutiven Kontrolle"
+      },
+      {
+        "candidate": "neurologische Unterbrecher"
+      },
+      {
+        "candidate": "Methodische Beispiele"
+      },
+      {
+        "candidate": "Neurophysiologische Wirkung"
+      },
+      {
+        "candidate": "5-4-3-2-1-Methode"
+      },
+      {
+        "candidate": "Box Breathing"
+      },
+      {
+        "candidate": "dualen Aufmerksamkeit"
+      },
+      {
+        "candidate": "Dual Awareness"
+      },
+      {
+        "candidate": "Sensomotorische Psychotherapie"
+      },
+      {
+        "candidate": "Somatic Experiencing"
+      },
+      {
+        "candidate": "Pendulation"
+      },
+      {
+        "candidate": "Titration"
+      },
+      {
+        "candidate": "Stresstoleranzfenster"
+      },
+      {
+        "candidate": "Window of Tolerance"
+      },
+      {
+        "candidate": "Retraumatisierung"
+      },
+      {
+        "candidate": "kardiopulmonalen Bypass"
+      },
+      {
+        "candidate": "Informationsfluss"
+      },
+      {
+        "candidate": "Fragmentierung der DIS"
+      },
+      {
+        "candidate": "Luise Reddemann"
+      },
+      {
+        "candidate": "inneren sicheren Ortes"
+      },
+      {
+        "candidate": "Guided Imagery and Music"
+      },
+      {
+        "candidate": "GIM"
+      },
+      {
+        "candidate": "Ego-State-Therapie"
+      },
+      {
+        "candidate": "Arbeit auf der inneren Bühne"
+      },
+      {
+        "candidate": "Theta/Alpha-Wellen-Muster"
+      },
+      {
+        "candidate": "bilaterale Zeichnen"
+      },
+      {
+        "candidate": "Corpus Callosum"
+      },
+      {
+        "candidate": "interhemisphärische Integration"
+      },
+      {
+        "candidate": "gravitationalen Sicherheit"
+      },
+      {
+        "candidate": "Gravitational Security"
+      },
+      {
+        "candidate": "Ocean Therapy"
+      },
+      {
+        "candidate": "Somatic Self-Inquiry & Integration"
+      },
+      {
+        "candidate": "non-dualer Bewusstheit"
+      },
+      {
+        "candidate": "interne Systemkommunikation"
+      },
+      {
+        "candidate": "amnestischen Barrieren"
+      },
+      {
+        "candidate": "Zeitverlust"
+      },
+      {
+        "candidate": "Exekutivkontrolle"
+      },
+      {
+        "candidate": "Brute-Forcing"
+      },
+      {
+        "candidate": "Co-Conning"
+      },
+      {
+        "candidate": "Co-Fronting"
+      },
+      {
+        "candidate": "die Führung übernehmen"
+      },
+      {
+        "candidate": "entspannten Konzentration"
+      },
+      {
+        "candidate": "System-Journaling"
+      },
+      {
+        "candidate": "Emotionale Dämpfer"
+      },
+      {
+        "candidate": "Trichter"
+      },
+      {
+        "candidate": "Gefühlsstarre"
+      },
+      {
+        "candidate": "Dämpfungs-Episoden"
+      },
+      {
+        "candidate": "Crisis State"
+      },
+      {
+        "candidate": "Lack of Alignment"
+      },
+      {
+        "candidate": "toxischer Desorganisation"
+      },
+      {
+        "candidate": "Top-Management"
+      },
+      {
+        "candidate": "Protektoren"
+      },
+      {
+        "candidate": "Fazit und zukunftsorientierte Forschungsperspektiven"
+      },
+      {
+        "candidate": "täterimitierenden Kritiker"
+      },
+      {
+        "candidate": "maladaptivem Tagträumen"
+      },
+      {
+        "candidate": "bilaterales Zeichnen"
+      },
+      {
+        "candidate": "Verkörperung"
+      },
+      {
+        "candidate": "Ich-Synthese"
+      },
+      {
+        "candidate": "minimaler sicherer Fluss"
+      },
+      {
+        "candidate": "Das System als Organisation"
+      },
+      {
+        "candidate": "heuristisches Modell"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Flow  /  Flow-Zustand",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-Zustandes",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-Zustände",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-Zuständen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-Erleben",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-Erlebens",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Optimales Flow-Erleben",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  achtsamen Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Mindful Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow als neurobiologischer Katalysator der Trauma-Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-Induktion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Metakognition und Duale Aufmerksamkeit als Brücke zum Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Trance- oder Flow-Zuständen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Kunsttherapie und der kreative Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  kreative Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  kreativen Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Körperbasierte und sensomotorische Flow-Induktion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Förderung der internen Systemkommunikation und Co-Bewusstheit durch Flow-Zustände",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Automatisches Schreiben und Flow-basiertes Journaling",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-basiertes Journaling",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-Schreiben",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-Praxis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Flow-Methode",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  organismischen Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  organismischem Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Team-Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Communication Flows Smoothly",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  kreativen Flows",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  heilsamem Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  heilsamer Flow-Zustände",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  echter Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  vermeintliche Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  tiefen Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Safe Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow  /  Minimum Safe Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustand  /  Flow-Zustandes",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustand  /  Flow-Zustände",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustand  /  Flow-Zuständen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustand  /  Trance- oder Flow-Zuständen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustand  /  Förderung der internen Systemkommunikation und Co-Bewusstheit durch Flow-Zustände",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustand  /  heilsamer Flow-Zustände",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustandes  /  Flow-Zustände",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustände  /  Flow-Zuständen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustände  /  Trance- oder Flow-Zuständen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustände  /  Förderung der internen Systemkommunikation und Co-Bewusstheit durch Flow-Zustände",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zustände  /  heilsamer Flow-Zustände",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Zuständen  /  Trance- oder Flow-Zuständen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Erleben  /  Flow-Erlebens",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Erleben  /  Optimales Flow-Erleben",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "optimalen Erfahrungszuständen  /  optimalen Erfahrung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  pathologische Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  pathologischer Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  strukturellen Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  Pathologische Dissoziation (DIS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  funktionale Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  funktionalen Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  Maskierung der Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  vermeidender Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "pathologische Dissoziation  /  Pathologische Dissoziation (DIS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kontinuum  /  Absorption auf einem Kontinuum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Absorption  /  Absorption auf einem Kontinuum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "psychologische Entropie  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "psychische Entropie  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "psychischen Entropie  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  psychischer Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mihaly Csikszentmihalyi  /  Csikszentmihalyi",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Challenge  /  Balance von Skill und Challenge",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Skill  /  Balance von Skill und Challenge",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das Verschmelzen von Handlung und Bewusstsein  /  Identitätstransformation und das Verschmelzen von Handlung und Bewusstsein",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Verzerrung der Zeitwahrnehmung (Zeitdilatation)  /  Zeitdilatation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissociative Experiences Scale  /  Adolescent Dissociative Experiences Scale",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persönlichkeitsanteile  /  Persönlichkeitsanteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persönlichkeitsanteile  /  Anscheinend Normalen Persönlichkeitsanteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persönlichkeitsanteile  /  Emotionale Persönlichkeitsanteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persönlichkeitsanteile  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persönlichkeitsanteile  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persönlichkeitsanteilen  /  Anscheinend Normalen Persönlichkeitsanteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persönlichkeitsanteilen  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persönlichkeitsanteilen  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persönlichkeitsanteilen  /  Anteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alters  /  Alter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alters  /  Teile (Alters)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anscheinend Normalen Persönlichkeitsanteilen  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anscheinend Normalen Persönlichkeitsanteilen  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anscheinend Normalen Persönlichkeitsanteilen  /  Anteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Emotionale Persönlichkeitsanteile  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Emotionale Persönlichkeitsanteile  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Identitätsanteilen  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Identitätsanteilen  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Identitätsanteilen  /  Anteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Transiente Hypofrontalität  /  Hypofrontalität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "transienten Hypofrontalität  /  Hypofrontalität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "inneren Kritikers  /  Verstummen des inneren Kritikers",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Locus Coeruleus-Noradrenalin-System  /  Noradrenalin",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Cocktails  /  Cocktail",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Agency  /  Rekalibrierung des neurochemischen Milieus und Wiedererlangung von Agency",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Agency  /  Handlungsfähigkeit (Agency)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow als neurobiologischer Katalysator der Trauma-Integration  /  Katalysator",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow als neurobiologischer Katalysator der Trauma-Integration  /  Trauma-Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Täterimitierende Anteile  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Täterimitierende Anteile  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Handlungsfähigkeit  /  Handlungsfähigkeit (Agency)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Identitätstransformation  /  Identitätstransformation und das Verschmelzen von Handlung und Bewusstsein",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter  /  Teile (Alters)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Erdung und Duale Aufmerksamkeit  /  Erdung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Erdung und Duale Aufmerksamkeit  /  Duale Aufmerksamkeit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Flow-Induktion  /  Körperbasierte und sensomotorische Flow-Induktion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Somatischer Erdung (Grounding)  /  Grounding",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Somatischer Erdung (Grounding)  /  Erdung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Erdungstechniken  /  Erdung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kategorie der Erdung  /  Erdung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sensorische Erdung  /  Erdung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Physische Erdung  /  Erdung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kognitive Erdung & Atmung  /  Erdung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Metakognition und Duale Aufmerksamkeit als Brücke zum Flow  /  Metakognition",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Metakognition und Duale Aufmerksamkeit als Brücke zum Flow  /  Duale Aufmerksamkeit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Psychodynamisch Imaginative Traumatherapie (PITT)  /  Psychodynamisch Imaginative Traumatherapie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Psychodynamisch Imaginative Traumatherapie (PITT)  /  PITT",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Psychodynamisch Imaginative Traumatherapie (PITT)  /  Traumatherapie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Psychodynamisch Imaginative Traumatherapie  /  Traumatherapie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Imagination  /  Imaginationstechniken",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kunsttherapie  /  Kunsttherapie und der kreative Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kunsttherapie und der kreative Flow  /  kreative Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "kreativen Flow  /  kreativen Flows",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Förderung der internen Systemkommunikation und Co-Bewusstheit durch Flow-Zustände  /  internen Systemkommunikation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Förderung der internen Systemkommunikation und Co-Bewusstheit durch Flow-Zustände  /  Co-Bewusstheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Überwindung der Kommunikationsbarrieren durch entspannte Konzentration  /  Kommunikationsbarrieren",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Überwindung der Kommunikationsbarrieren durch entspannte Konzentration  /  entspannte Konzentration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Co-Bewusstsein (Co-Consciousness)  /  Co-Bewusstsein",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Co-Bewusstsein (Co-Consciousness)  /  Co-Consciousness",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Co-Bewusstsein  /  Co-Bewusstseins",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "beschützende Anteile (Protectors)  /  Protectors",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "beschützende Anteile (Protectors)  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "beschützende Anteile (Protectors)  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gastgeber-Identitäten (Hosts)  /  Hosts",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gastgeber-Identitäten (Hosts)  /  Host",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hosts  /  Host",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Automatisches Schreiben und Flow-basiertes Journaling  /  Automatisches Schreiben",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Automatisches Schreiben und Flow-basiertes Journaling  /  Flow-basiertes Journaling",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "automatischem Schreiben (Auto-Writing)  /  Auto-Writing",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "emotionalen Dämpfern und Schutzanteilen  /  Schutzanteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "emotionalen Dämpfern und Schutzanteilen  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "emotionalen Dämpfern und Schutzanteilen  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "emotionalen Dämpfern und Schutzanteilen  /  Anteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Emotional Funnels/Dampeners  /  Emotional Funnels",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Emotional Funnels/Dampeners  /  Dampeners",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schutzanteilen  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schutzanteilen  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schutzanteilen  /  Anteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dämpfer-Anteil  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Metaphorische Parallelen zur internen Unternehmenskommunikation  /  Unternehmenskommunikation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Vertrauensverlust (Loss of Trust)  /  Loss of Trust",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "somatische Erdung  /  Erdung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteil  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteil  /  Anteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteil  /  Anteils",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteile  /  Anteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Safe Flow  /  Minimum Safe Flow",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "psychologische Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "psychische Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "psychischen Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Depersonalisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Ressource",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "ressourcenfluktuationsanalyse",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "psychischer Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Teile (Alters)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 242,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "document": "kohaerenz-protokoll-weltkonzept-synthese",
+  "source_sha256": "315a2265d2e75dc4fb136de2ea4bdddb4d2caccbc1595b6bc6c39736ebcb54f2",
+  "template_sha256": "2ab69a976e90e2d2a89262f84fac6ba990f0e7f19ec962d838bc71e8b919d523",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Potentialmeer",
+        "target": "Raum reinen logischen Potentials",
+        "type": "same_as",
+        "quote": "Es wird als „Raum reinen logischen Potentials“ beschrieben",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Kohärenz-Inseln",
+        "type": "distinct_from",
+        "quote": "Die Natur des Potentialmeers bedingt die Existenzweise der daraus hervorgehenden Strukturen wie AEGIS und der Kohärenz-Inseln.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Externe Ebene",
+        "target": "Nexus",
+        "type": "same_as",
+        "quote": "Die Externe Ebene bzw. der Nexus scheint mit der Kohärenz-Insel verbunden zu sein",
+        "stance": "hedges"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Kohärenz Protokoll",
+        "type": "role_of",
+        "quote": "AEGIS ist eine zentrale Entität im „Kohärenz Protokoll“",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "emergente, nicht-menschliche, informationsbasierte Entität",
+        "type": "same_as",
+        "quote": "AEGIS ist eine emergente, nicht-menschliche, informationsbasierte Entität.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kern-Direktive",
+        "target": "Sein durch Abgrenzung",
+        "type": "same_as",
+        "quote": "Ihre Kern-Direktive ist explizit als „Sein durch Abgrenzung“ definiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Überwelt",
+        "target": "AEGIS' Operationsdomäne",
+        "type": "same_as",
+        "quote": "Die **Überwelt** ist AEGIS' Operationsdomäne, eine abstrakte, informationsbasierte Realitätsschicht, die sich vom Potentialmeer und den Kernwelten unterscheidet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Autopoiesis",
+        "target": "fundamentales Funktionsprinzip von AEGIS",
+        "type": "role_of",
+        "quote": "**Autopoiesis** ist ein fundamentales Funktionsprinzip von AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "OBP",
+        "target": "Ontological Boundary Protocol",
+        "type": "abbreviation_of",
+        "quote": "OBP (Ontological Boundary Protocol?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "RIVE",
+        "target": "Reality Interface Verification Engine",
+        "type": "abbreviation_of",
+        "quote": "RIVE (Reality Interface Verification Engine?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "SARM",
+        "target": "System Anomaly Response Mechanism",
+        "type": "abbreviation_of",
+        "quote": "SARM (System Anomaly Response Mechanism?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "PMAS",
+        "target": "Psyche Mapping & Adjustment System",
+        "type": "abbreviation_of",
+        "quote": "PMAS (Psyche Mapping & Adjustment System?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "CCPP",
+        "target": "Core Coherence Preservation Protocol",
+        "type": "abbreviation_of",
+        "quote": "CCPP (Core Coherence Preservation Protocol?)",
+        "stance": "hedges"
+      },
+      {
+        "source": "LogOS",
+        "target": "KW1",
+        "type": "role_of",
+        "quote": "LogOS (KW1 - Konstrukt-Stadt)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "KW2",
+        "type": "role_of",
+        "quote": "Mnemosyne (KW2 - Resonanz-Nebel)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cerberus",
+        "target": "KW3",
+        "type": "role_of",
+        "quote": "Cerberus (KW3 - Schattenlabyrinth)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kairos",
+        "target": "KW4",
+        "type": "role_of",
+        "quote": "Kairos (KW4 - Möglichkeitsstrom)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Kohärenz-Insel / Kael-Juna-Verbindung",
+        "type": "same_as",
+        "quote": "Die **Kohärenz-Insel / Kael-Juna-Verbindung**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Kael-Juna-Bindung",
+        "type": "role_of",
+        "quote": "wie die integrative Kohärenz der Kael-Juna-Bindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Autopoiesis",
+        "target": "AEGIS",
+        "type": "role_of",
+        "quote": "Die Autopoiesis von AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael-Juna-Verbindung",
+        "target": "Kael-Juna-Bindung",
+        "type": "same_as",
+        "quote": "das zentrale Paradoxon der Kael-Juna-Verbindung",
+        "stance": "hedges"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Kael",
+        "type": "role_of",
+        "quote": "Die Versuche von AEGIS, Kael und die wahrgenommene Bedrohung der Kael-Juna-Verbindung zu managen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "KW2",
+        "type": "same_as",
+        "quote": "Wenn beispielsweise Mnemosyne (KW2) Resonanz positiv als Verbindung/Empathie registriert",
+        "stance": "asserts"
+      },
+      {
+        "source": "LogOS",
+        "target": "KW1",
+        "type": "same_as",
+        "quote": "während LogOS (KW1) sie als illogisches Rauschen einstuft",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dissoziativen Identitätsstörung",
+        "target": "DID",
+        "type": "abbreviation_of",
+        "quote": "Kael leidet an einem Zustand, der analog zur Dissoziativen Identitätsstörung (DID) ist",
+        "stance": "hedges"
+      },
+      {
+        "source": "Kernwelten",
+        "target": "KW",
+        "type": "abbreviation_of",
+        "quote": "Die Kernwelten (KW) sind von AEGIS generierte oder aufrechterhaltene simulierte Realitäten",
+        "stance": "asserts"
+      },
+      {
+        "source": "KW1: Konstrukt-Stadt",
+        "target": "Guardian LogOS",
+        "type": "role_of",
+        "quote": "Verwaltet von Guardian LogOS.",
+        "stance": "asserts"
+      },
+      {
+        "source": "KW2: Resonanz-Nebel",
+        "target": "Guardian Mnemosyne",
+        "type": "role_of",
+        "quote": "Verwaltet von Guardian Mnemosyne.",
+        "stance": "asserts"
+      },
+      {
+        "source": "KW3: Schattenlabyrinth",
+        "target": "Guardian Cerberus",
+        "type": "role_of",
+        "quote": "Verwaltet von Guardian Cerberus.",
+        "stance": "asserts"
+      },
+      {
+        "source": "KW4: Möglichkeitsstrom",
+        "target": "Guardian Kairos",
+        "type": "role_of",
+        "quote": "Verwaltet von Guardian Kairos.",
+        "stance": "asserts"
+      },
+      {
+        "source": "KW3",
+        "target": "Schattenlabyrinth/Cerberus",
+        "type": "same_as",
+        "quote": "eine Angst verstehen muss, die in KW3 (Schattenlabyrinth/Cerberus) gehalten wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "KW2",
+        "target": "Resonanz-Nebel/Mnemosyne",
+        "type": "same_as",
+        "quote": "auf eine Traumaerinnerung in KW2 (Resonanz-Nebel/Mnemosyne) zugreifen kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "Monstergruppen-Metapher",
+        "target": "konzeptionelles Werkzeug zum Verständnis der Struktur der Kohärenz-Insel",
+        "type": "role_of",
+        "quote": "Die Monstergruppen-Metapher dient als konzeptionelles Werkzeug zum Verständnis der Struktur der Kohärenz-Insel.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Julia",
+        "type": "same_as",
+        "quote": "Juna (oder Julia) fungiert als Ankerpunkt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Externe Ebene",
+        "target": "Nexus",
+        "type": "same_as",
+        "quote": "Die **Externe Ebene/Nexus** scheint die Quelle oder Domäne zu sein",
+        "stance": "hedges"
+      },
+      {
+        "source": "integrative Kohärenz",
+        "target": "Kael-Juna-Verbindung",
+        "type": "same_as",
+        "quote": "Die integrative Kohärenz, verkörpert durch die Kael-Juna-Verbindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kohärenz-Insel",
+        "target": "Juna",
+        "type": "same_as",
+        "quote": "AEGIS vs. Kohärenz-Insel/Juna/Resonanz:",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Kernwelten",
+        "type": "role_of",
+        "quote": "Kernwelten sind Manifestationen von Kaels Psyche",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Kohärenz-Insel",
+        "type": "same_as",
+        "quote": "Kael <> Juna/Kohärenz-Insel:",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Juna",
+        "type": "same_as",
+        "quote": "verkörpert durch AEGIS vs. Kael/Juna",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Juna",
+        "type": "same_as",
+        "quote": "die Kael-Juna-Verbindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Kael-Juna-Modell",
+        "type": "distinct_from",
+        "quote": "AEGIS kann per Definition das Kael-Juna-Modell der Kohärenz nicht übernehmen oder integrieren, ohne aufzuhören, AEGIS zu sein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael-Juna-Kohärenz",
+        "target": "„Sein durch Integration“",
+        "type": "same_as",
+        "quote": "Kael-Junas Kohärenz „Sein durch Integration“ bedeutet",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Kern-Direktive",
+        "target": "„Sein durch Abgrenzung“",
+        "type": "same_as",
+        "quote": "AEGIS' Kern-Direktive „Sein durch Abgrenzung“ lautet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Schnittstelle",
+        "type": "role_of",
+        "quote": "Kael, mit seiner Herkunft von der Kohärenz-Insel und seiner fragmentierten Psyche (DID/IFS-Modell), dient als lebendige Schnittstelle zwischen den beiden Kohärenzprinzipien.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Seine Kernwelten",
+        "target": "Manifestationen seiner Psyche",
+        "type": "same_as",
+        "quote": "Seine Kernwelten sind Manifestationen seiner Psyche und das Schlachtfeld seines Integrationskampfes gegen AEGIS' Kontrollversuche.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael-Juna-Verbindung",
+        "target": "alternative Form der Kohärenz durch Integration",
+        "type": "role_of",
+        "quote": "Die Verbindung zu Juna, basierend auf Resonanz und der Natur der Kohärenz-Insel (Integration durch relationale Komplexität, vgl. Monstergruppen-Metapher), repräsentiert die alternative Form der Kohärenz durch Integration.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

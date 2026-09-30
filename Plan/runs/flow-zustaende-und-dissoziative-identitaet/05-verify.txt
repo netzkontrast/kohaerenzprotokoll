@@ -1,0 +1,100 @@
+Verification of numbers cited in census and note
+flow-zustaende-und-dissoziative-identitaet
+2026-09-30
+
+Line range of document body (frontmatter ends at line 9):
+10 to 277
+
+Reference numbers (glued citations):
+python3 scripts/read.py flow-zustaende-und-dissoziative-identitaet --count "^[0-9]" 2>&1
+whole word, case-sensitive     57
+whole word, case-insensitive   57
+including compounds            57
+
+Cited instruments (DES, DES-II, MID, A-DES):
+python3 scripts/read.py flow-zustaende-und-dissoziative-identitaet --count "DES" 2>&1
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+python3 scripts/read.py flow-zustaende-und-dissoziative-identitaet --count "MID" 2>&1
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+python3 scripts/read.py flow-zustaende-und-dissoziative-identitaet --count "A-DES" 2>&1
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+Stance marker count:
+"Der vorliegende Forschungsbericht analysiert":
+python3 scripts/read.py flow-zustaende-und-dissoziative-identitaet --find "Der vorliegende Forschungsbericht analysiert" 2>&1
+^[L17]
+
+"Studien":
+python3 scripts/read.py flow-zustaende-und-dissoziative-identitaet --count "Studien" 2>&1
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+"Die moderne Forschung zeichnet":
+python3 scripts/read.py flow-zustaende-und-dissoziative-identitaet --find "Die moderne Forschung zeichnet" 2>&1
+^[L13]
+
+"Es bedarf":
+python3 scripts/read.py flow-zustaende-und-dissoziative-identitaet --count "Es bedarf" 2>&1
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+Note: Phrase "Es bedarf" does not appear as whole words. Document uses "bedarf es einer" at L21.
+
+"Eine effektive Kommunikationsstrategie":
+python3 scripts/read.py flow-zustaende-und-dissoziative-identitaet --find "Eine effektive Kommunikationsstrategie" 2>&1
+^[L207]
+
+Five characteristics of flow (section L29-33):
+1. Vollständige Konzentration auf die Gegenwart (L29)
+2. Das Verschmelzen von Handlung und Bewusstsein (L30)
+3. Verlust des reflektierenden Selbstbewusstseins (L31)
+4. Verzerrung der Zeitwahrnehmung (Zeitdilatation) (L32)
+5. Autotelische Erfahrung (L33)
+
+Named researchers and institutions:
+- Mihaly Csikszentmihalyi (L21)
+- Arne Dietrich (L51)
+- Karl Deisseroth (L63)
+- Stanford University (L63)
+- Luise Reddemann (L155)
+- International Society for the Study of Trauma & Dissociation / ISSTD (L100)
+
+Major therapeutic methods named in section L149-173:
+1. Psychodynamisch Imaginative Traumatherapie (PITT) - L153, L155
+2. Kunsttherapie - L161
+3. Körperbasierte Praktiken / Ocean Therapy - L171, L173
+
+Document structure:
+- Lines 10-17: Opening and identification as research report
+- Lines 19-34: Theoretical foundation of flow
+- Lines 35-44: Architecture of pathological dissociation
+- Lines 45-81: Comparative neurobiology
+- Lines 82-96: Overlap and distinctions (maladaptive daydreaming, functional dissociation)
+- Lines 98-100: Therapeutic implications framework
+- Lines 102-174: Clinical mechanisms and methods
+- Lines 175-207: System communication and organizational metaphor
+- Lines 209-217: Conclusion and future research
+- Lines 219-277: References
+
+## Corrected by the session, 2026-09-30, after the reader finished (runlog corrections.jsonl)
+
+- The first report ended with `quotes.py --strict` at `FAIL — 5 unresolved, 5 uncited` on the note and
+  every cell of `claims.md` still `<fill>`; the reader named the failure and stopped. One resume
+  message naming the two gates got all four to pass.
+- **The claims table was filled `document | yes` in all 48 rows.** No `source:` and no `fixed`. Line 51
+  reports Arne Dietrich's hypothesis (`postuliert`), and the note wrote it as the basis; that row is the
+  one `claims.py check` still cautions about.
+- `stance_marker_count` was a list, `1, 63, 1, 1, 1`. „Studien zeigen“ stands nowhere; „Studien“ stands 5
+  times. The note now says 9.
+- The census's section on what the extraction ran into said nothing of the export: 64 escapes, 57
+  glued reference numbers, 26 typographic marks (18 en-dashes, four pairs of curly quotes) and 10 question
+  marks, two at L145 and eight in the reference list. The report said „no unusual export issues“.

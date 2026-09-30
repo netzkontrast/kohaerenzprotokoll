@@ -15,6 +15,8 @@ note*, with `references/german.md` and `references/artifacts.md`. Read them
 first, then `Plan/briefings/extract.md` (procedural knowledge only), then the
 document. This file adds only what those do not say.
 
+**Before your first quotation, read `.agents/skills/reader-tools/references/failures.md`**: the failures measured in this repository, the check that catches each, and what to write instead.
+
 Read `.agents/skills/reader-tools/SKILL.md` for preflight and source-local CLI
 selection. Use `knowledge.py init --profile reader --check` only; the coordinator
 initializes shared tools before delegation. A missing graph/search capability
@@ -31,13 +33,19 @@ document may say. You know nothing about the wiki; that is the point.
 
 - `Plan/runs/<slug>/` — `capture.py` writes 01, 02 and the counts; **you write
   `03-candidates.md` while reading**, before any count, its `written_by:` line naming
-  you: `written_by: document-reader subagent (Sonnet), <date>, while reading, before any count`.
+  you and the model you run on, as your task names it:
+  `written_by: document-reader subagent (<model>), <date>, while reading, before any count`.
+  The note's `read:` names the model the same way. Which model read a document is how
+  the models are compared later.
   Observations go in paragraphs, never as `- ` bullets. Before a phrase goes on the list,
   ask `python3 scripts/read.py <slug> --find "<phrase>"` so it is written as the document writes it.
 - `Plan/runs/<slug>/05-verify.txt` — every number your census or note states, with
   `python3 scripts/read.py <slug> --count "<words>"` (whole word, any case, compounds).
-- `Sources/terms/<slug>.md` — the census: frontmatter from `profile.py --frontmatter`,
-  the structural profile, the candidates and counts, and *What the extraction ran into*.
+- `Sources/terms/<slug>.md` — the census. `python3 scripts/census.py draft <slug>` writes
+  everything mechanical into `Plan/runs/<slug>/census-draft.md`: frontmatter, profile, every
+  candidate row with its counts and count mark, and the facts to explain. Fill its two
+  `<!-- reader: … -->` sections, *Stance, read per passage* and *What the extraction ran into*,
+  delete the marks, and save it as the census. Never edit a table row.
 - `Sources/notes/<slug>.md` — the note: what the document says about the terms that
   matter, quotations with `^[Lnn]` from `read.py --find`, and in the frontmatter
   `read:`, `stance_markers:`, `stance_marker_count:`, `reads_as:`.
@@ -66,10 +74,19 @@ python3 scripts/runlog.py <slug> start read     # and end, for read, list, count
 ## Before you finish
 
 ```bash
-python3 scripts/quotes.py Sources/notes/<slug>.md     # 0 unresolved, 0 unchecked
-python3 scripts/quotes.py Sources/terms/<slug>.md
+python3 scripts/quotes.py --strict Sources/notes/<slug>.md   # exits 0: none unresolved, none uncited
+python3 scripts/quotes.py --strict Sources/terms/<slug>.md
+python3 scripts/census.py check <slug>                # holds: every mechanical part as drafted
 python3 scripts/capture.py <slug> --count             # after the list is complete, and again if you change it
+python3 scripts/claims.py draft <slug>                # every cited sentence beside its line; fill the last two columns
+python3 scripts/claims.py check <slug>                # after saving the table as Plan/runs/<slug>/claims.md: holds
 ```
+
+`quotes.py --strict` ends with `strict: PASS` or `strict: FAIL`; paste that line, never the
+summary's „0 wrong“ (the count marks' figure). The claims table is where a sentence meets its
+line: for each row, whose words are on the line — the document's own or another source it
+reports — and does your sentence name that speaker and that subject? A row you cannot answer
+from the line is a sentence to change. `references/failures.md` (14, 15) has the cases.
 
 Report: the document in two sentences, how many candidates, the zeros in the
 count and what each is (an inflection, export damage, or a term the document truly

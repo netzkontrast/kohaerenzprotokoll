@@ -1,0 +1,31 @@
+{
+  "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+  "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+  "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Erasure-Pol",
+        "target": "Sweep läuft.",
+        "type": "log",
+        "quote": "Sweep läuft. Sektor 7 leer. Nächster Sektor in Vorbereitung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Es gibt einen Punkt",
+        "type": "thought",
+        "quote": "*Es gibt einen Punkt, an dem das Warten kein Warten mehr ist. Vielleicht jetzt. Vielleicht erst, wenn auch Nyx das hören kann.*",
+        "stance": "hedges"
+      },
+      {
+        "source": "Argus",
+        "target": "Bemerkenswert ist",
+        "type": "thought",
+        "quote": "*Bemerkenswert ist, dass das Subjekt diesen Satz dreimal begonnen und zweimal verworfen hat. Auch dies ist Information.*",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

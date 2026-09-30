@@ -1,0 +1,54 @@
+# EntityFacts — an established fact about a figure, a place or an object — name, look, age, relation, feature, number — with how firmly the source states it.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the continuity-editor's style sheet (a fielded entry per character and place: appearance, age, relationships, established facts, each with its first occurrence and a
+#   confidence, stated or inferred) and the copy-editor's word list of coined terms and numbers. Sources are not canon: what they hold is research a continuity check may
+#   name, never a correction (writing-skills rule 3).
+# measured against: the style sheet the pass returns once chapters exist; until then, a fact whose entity resolves to a wiki term or a verified entity is the attachable subset. A quote is placed by read.py --find (P26).
+# may not: decide a fact, or say that two sources' facts collide — a collision is read by a person, and a source's fact is never a chapter's; a fact here is a P_HE_FACT proposal
+# retire when: on three documents a person keeps no fact beyond what the wiki's pages already quote
+language: en
+name: EntityFacts
+type: list
+tags: [continuity, style-sheet, facts, german]
+description: "An established fact about a figure, a place or an object — name, look, age, relation, feature, number — with how firmly the source states it, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The entity exactly as the source writes it: a figure, a place, an object, a system."
+      required: true
+    - name: target
+      type: str
+      description: "The fact's value as a short phrase exactly as the source writes it."
+      required: true
+    - name: type
+      type: str
+      description: "Write <kind>/<provenance>. KIND: name_variant (another name for it), appearance (what it looks like), age (how old it is or when it began), relationship (a stated relation to another entity), backstory (an established past event), feature (a property of a place or object), count (a number belonging to it), first_appearance (where it first appears). PROVENANCE: stated (the source states it as fact), inferred (the source concludes it), claimed (a figure or an outside source claims it). Example form: appearance/stated."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German document about a novel's world and collect, verbatim, the sentences that establish a fact about a figure, a place or an object, so that a person can build a style sheet for the continuity pass."
+  rules:
+    - "Record a fact only when ONE sentence states it about a named entity."
+    - "The entity and the value both stand inside the quote; the value is copied character for character, numbers included."
+    - "Keep a fact the source states and one it infers apart, by provenance."
+    - "A fact the source hedges is recorded with stance hedges."
+    - "Never infer a fact from behaviour, from a comparison, or from background knowledge; never combine two sentences."
+    - "When the words do not state a fact, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

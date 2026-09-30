@@ -544,6 +544,55 @@ before this list.
   4's re-measure, or only on request. `scripts/ui.py` builds it; a Claude session
   publishes it to the canvas (`CLAUDE.md`, *The project app*).
 
+### The graph — what the laboratory of 2026-09-30 measured, and six questions
+
+On the author's „maybe you should think about additional hyperextract contracts to help Improve the recall Presion of our Graph rag solutions"
+and „Explore Even more hyperextract templates that could and should be used to Improve our Graph in ask.dB". The note is
+`Plan/concept/graph-contracts_2026-09-30.md` — measured, nothing adopted; the tools are `scripts/graphlab.py` (24 labelled cases and a second set of
+91, a paired interval, leave-one-out), `Plan/hyperextract/` (32 contracts, 27 of them new), `scripts/hegraph.py` (`P_HE_*` proposal edges and contract
+nodes in the store, never in the core) and `scripts/brief.py`. Every table was measured again at the end, on the wiki with 58 documents and a store
+that holds the scaled contract pass (`Plan/runs/graph-lab-2026-09-30/rerun.sh`; the first tables are in `first-run/`). What it found:
+
+- **Re-weighting the seven stated relation types moves nothing.** Uniform, learned and cross-validated weights score within 0.006 of the default; a
+  correction for hubs, chosen leaving one out, *lowers* recall (−0.041).
+- **One relation moves recall of the wiki's own labels, and it is not a HyperExtract contract:** two pages in one paragraph in at least two documents,
+  weighted by their normalised pointwise mutual information. On the 24 conflicts and questions recall@8 goes 0.688 → 0.788 at best, 0.760 choosing the
+  weight leaving each case out. **On a second label set, the wiki's own links (91 pages), the direction holds and the size does not:** +0.032
+  [+0.012, +0.052] at weight 3, a third as much, and the weights that helped the conflicts (10–30) are worth nothing or lose there. The raw pair count
+  lowers recall on the conflicts and does as well as the normalised one on the links. It is off everywhere (`graphrag.py --comention W`).
+- **A contract that classifies a line under a heading is right 86–100 % of the time; one that reads theory as a set of relations is right 17–40 %.**
+  297 labels by the working session, none by the author. The three contracts of the scaled pass (`TermDefinitions`, `TermContrasts`, `CausalLinks`) were
+  80 % right on the pilot's documents and 58 % on twelve documents of the bench, with none wrong: a pilot over-states. Two cheap rules in code lifted the
+  weakest contracts: an alias needs an alias word, an order an order word.
+- **The contracts move retrieval only where they have read the documents that hold the gold.** The `he-lines` finder lowered document recall on the pilot's
+  eight documents (−0.007) and adds **+0.029 [+0.011, +0.049]** with 40 lines after three contracts read twelve documents (seven cases up, none down) — an
+  upper bound, because those documents were chosen for holding 40 % of the gold. It is off. The contracts' page pairs still cannot move the 24 cases.
+- **A contract costs about $190 for the whole corpus, not $63:** the pilot's estimate had 4.7 KB a call and the ledgers say 1.6. $11.68 bought 36 runs.
+- **The staging gate refused right rows**: a name of under four characters (`Lex`, `Nyx`, `KW1`) could never be found, and the contract's own word for
+  „no speaker“ was refused. Both fixed; 263 rows had been refused for it.
+- **`ask`'s `co-mention` finder lowered document recall as built**; limited to 10 paragraphs instead of 40 it raises it. The default is 10 now.
+
+Six questions, none waited on:
+1. **The normalised co-mention relation in `graphrag`'s walk.** It is derived from the documents' own text, never from the wiki, and would be the first
+   relation in the default walk that is not one of the seven the wiki states. Turn it on at weight 3 (the one neither label set contradicts), at 10–30
+   for questions and conflicts only, keep it off, or wait for more labelled cases? The note's §5.2b has both sets.
+2. **A contract pass.** About $190 a contract for the whole corpus, $66 for the plot outlines, $26 for the concept documents (§4.5). **Answered in part,
+   2026-09-30, for the documents already read:** „Use Haiku agents to Backpoet hyperextract for all allready Read sources“ — the three contracts of the
+   scaled pass (`TermDefinitions`, `TermContrasts`, `CausalLinks`) are running, one at a time and gold first, on the 46 read documents that lacked them
+   (2.54 MB, about $56 and six and a half hours; `Plan/runs/hyperextract-backfill-2026-09-30/`, `backfill.py status`). Still the author's: which contracts on
+   the 528 documents nobody has read, and whether the structure contracts (`ChapterBeats`, `CardFields`, …, 86–100 % right) run on the read plot outlines
+   and character documents. The note's §7 proposes an order.
+3. **Who labels.** The precision of every contract rests on one reader's labels, the model family that wrote the contracts. Five hundred from the author
+   or another reader would say whether the figures hold.
+4. **The finders' defaults in `ask.py`:** `he-lines` at 40 lines (+0.029, off now) and the `co-mention` finder's 10 paragraphs (40 → 10 already made):
+   another session's finders, one line each, provisional on 24 cases.
+5. **Pages the corpus holds together and the wiki does not link.** `Plan/runs/graph-lab-2026-09-30/e2c-links.md` ends with the 40 pairs of highest
+   normalised co-mention that no page links — 25 of them among ten pages of the Alters (`kiko`, `nyx`, `lex`, `rhys`, `alex`, `argus`, `isabelle`, `moros`,
+   `lia`, `selene`), which stand together in 70 to 222 documents. A list to read, never a set of links. Does the wiki want any of them?
+6. **The writing engine's vocabulary.** The Narrative Context Protocol (written in 37 landed documents, counted with `grep -F`), the Collapse Susceptibility
+   Index (7), the Drama-Engine (5), JANUS (3), Story Flip (1) have no page: the wiki's pages are the novel's world, and these belong to the engine the
+   sources also discuss. Should the wiki hold it? Nothing is promoted until the author says.
+
 ## Open decisions — these are judgement, not measurement
 
 **How far the yes to TypeSafe reaches.** On 2026-09-23 the author said yes twice.
@@ -847,6 +896,8 @@ Pipeline". Nothing reads a document until the author says so.
   - the reconciliation record drafted by code;
   - the readings brief drafted by code;
   - the census draft wired into the reader's definition.
+  - **Later the same day:** the four reader-lab documents are reconciled (see *PR #126 CI repair*, below), one Sonnet `wiki-reader` for the three
+    that had pages to speak to, and step 6 is paused again; five of the twelve sample documents (`textanalyse-existenz-system-und-leid`, the two theorie-genre documents and the two aegis documents) are still unread.
 
 **A parallel session builds `ask` (PR #119, decisions 016 and 017), and #120 carries it merged in.**
 Two things from it change this lab:
@@ -924,7 +975,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   129 <!--state:sweep.decided--> hits, 67 <!--state:sweep.readings--> of them
+   131 <!--state:sweep.decided--> hits, 68 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -1271,3 +1322,28 @@ Drafting the novel, until the author has answered the plan's four questions (*Wr
 novel — a plan*, above). The `Legacy/` shelf. Reading the 215 plot outlines landed on
 2026-09-26: they are on disk and searchable, and still deferred with the novel
 as reading material. The one `mp3` is a question above, not a backlog.
+
+## PR #126 CI repair — 2026-09-30
+
+The four Haiku lab extractions (R2–R5) are preserved under
+`Plan/runs/reader-lab-2026-09-30/staged/Sources/{terms,notes}/`. They have not
+been reconciled and are excluded from production ingest counts. Resume from
+these staged artifacts when completing their reconciliation; no wiki reading
+or reconciliation was fabricated to make the order check pass.
+
+**Resumed the same day, and done.** A pair goes back to `Sources/{terms,notes}/` in the commit that carries
+its reconciliation record, and not before. All four are reconciled and back: R4, `angst-bei-komplexen-traumafolgen`
+(`Wiki/compare/reconcile-58-…`, no page and no reading, because no page speaks to a clinical review), then R2, R3 and R5
+(`reconcile-56-…`, `-57-…`, `-59-…`: 48 readings by one Sonnet reader, 9 more and 5 record entries by the reconciler,
+every page its own commit). The order holds at 58 documents; `staged/` is gone, and the claims selftest reads `Sources/` again.
+
+## PR #126 review fixes — 2026-09-30
+
+Claims now bind verdicts to the complete claim, citation and source passage;
+redraft and re-review existing tables without binding markers before using the
+claims gate. No historical verdict was automatically renewed. `record.py check`
+refuses absent fields and malformed types; only historical `measure` enables
+legacy compatibility explicitly. Cross-document reports separate group counts
+from bounded examples. HyperExtract usage includes invalid paid replies and
+retries; three existing summaries were corrected from their call ledgers.
+Regression cases exercise all four review findings offline.

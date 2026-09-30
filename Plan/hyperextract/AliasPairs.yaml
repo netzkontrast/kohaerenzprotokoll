@@ -1,0 +1,59 @@
+# AliasPairs — two names a document itself puts in one relation of identity or naming, each with that sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the graph laboratory's diagnosis (Plan/runs/graph-lab-2026-09-30/diagnose.md). Of 96 gold
+#   pages of the wiki's own cases 9 have no seed, because the question names a page under a name no page
+#   carries; and a search for the lines that share a page's words without writing its names found the
+#   same thing twice, a name under two names (Plan/runs/bm25/). bilingual.py reaches only the
+#   parenthetical form `A (B)`; a sentence can equate two names in other ways.
+# measured against: the pairs bilingual.py and the pages' `aliases:` already hold; a pair whose two names
+#   both stand inside its quote is the precise subset. A quote is placed by read.py --find (P26).
+# may not: merge two names or two pages — a pair is a P_HE_ALIAS proposal for a reader, never a
+#   `[[link]]` or an `aliases:` entry (CLAUDE.md: a link is never inferred) — say which name is canonical,
+#   or supply a count
+# retire when: on three documents a person keeps no pair beyond the glosses bilingual.py finds
+language: en
+name: AliasPairs
+type: list
+tags: [aliases, names, quotes, german]
+description: 'Pairs of names that one German research document itself equates or distinguishes, each copied with its sentence.'
+
+output:
+  description: 'One record per sentence that puts two names in a relation of identity or naming.'
+  fields:
+    - name: source
+      type: str
+      description: 'The first name exactly as the document writes it: case, hyphens, umlauts; never translate.'
+      required: true
+    - name: target
+      type: str
+      description: 'The second name exactly as the document writes it.'
+      required: true
+    - name: type
+      type: str
+      description: 'same_as: the sentence says one thing bears both names. translation_of: one is the other in another language. abbreviation_of: one is the short form. former_name_of: one was renamed the other. role_of: one is a role or function the other bears. distinct_from: the sentence says they are not the same.'
+      required: true
+    - name: quote
+      type: str
+      description: 'Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps.'
+      required: true
+    - name: stance
+      type: str
+      description: 'asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says the two are not the same. asks: poses it as a question. cites: reports what an outside source says.'
+      required: true
+
+guideline:
+  target: 'You read one German research document and collect, verbatim, the sentences in which it equates two names or tells them apart, so that a person can decide what is one thing under two names.'
+  rules:
+    - 'Record a pair only when ONE sentence puts the two names in a relation of identity or naming: a parenthesis, „auch“, „genannt“, „alias“, „bzw.“, „d. h.“, „im Folgenden“, a translation in brackets, or a plain „X ist Y“ between two names.'
+    - 'Both names must stand inside the quote. A name that only appears near the quote is not recorded.'
+    - 'A role or a category is not an alias unless the sentence says the same thing bears both; record it with type role_of, never same_as.'
+    - 'A sentence that says two names are NOT the same is worth recording with stance denies: it keeps a reader from merging them.'
+    - 'Never infer that two names are one from co-occurrence, similarity, or background knowledge, and never record a pair from two different sentences.'
+    - 'When the words do not put the names in relation, omit the record rather than fabricate evidence.'
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

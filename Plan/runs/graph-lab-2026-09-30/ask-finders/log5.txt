@@ -1,0 +1,5 @@
+== he-lines-20-scaled 18:11:50
+24 cases: document recall 0.319, line recall 0.104
+== he-lines-80-scaled 18:13:24
+24 cases: document recall 0.322, line recall 0.116
+== done 18:15:04

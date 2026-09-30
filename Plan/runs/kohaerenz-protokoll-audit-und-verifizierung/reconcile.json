@@ -1,0 +1,309 @@
+{
+  "document": "kohaerenz-protokoll-audit-und-verifizierung",
+  "drive_id": "1sejOt7hfQA35B7MBs30Iim8pj1aBGKCLGseFyIa0DD0",
+  "step": "reconcile",
+  "at": "2026-09-30",
+  "by": "hand, after scripts/reconcile.py pre-classification and scripts/record.py draft; a document of the step-6 reader lab, extracted on 2026-09-30 by a Haiku document-reader (Plan/runs/reader-lab-2026-09-30/); 22 readings written by a Sonnet wiki-reader from Plan/runs/step6-readings-56-59/brief.md (drafted by scripts/brief.py); the C2, Q3 and Q8 entries, and the readings on chaitin-konstante, mnemosyne-server-architektur and plot, by the reconciler in Plan/runs/step6-readings-56-59-records/ and -extra/; placed by readings.py apply with every check held and committed one page at a time naming their documents",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 281,
+    "decisions": 289,
+    "decided_by_lookup": 148,
+    "needs_judgement": 141
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An audit in the voice of an external scientific audit that verifies the Kohärenz-Protokoll and never doubts it. Its physics and mathematics (Landauer, Chaitin, the Monster group and Monstrous Moonshine, VOA orbifolds, dialetheism, Tarski, zero-knowledge proofs, the entanglement witness), its psychology (TSDP and its authors) and its narrative theory (Dramatica, the Story Mind, reader-response theory) are borrowed; its one name of its own making is the Protokoll's, reported — Landauer Heat Spike. The Mnemosyne-Archipel is a world named after a Guardian (J49), not the Guardian. No page is created from an audit's sources or mandates; the candidates the lookup found no page for stay candidates.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        5,
+        81,
+        83,
+        135,
+        143,
+        177,
+        179
+      ],
+      "attribution": "",
+      "note": "AEGIS whose erasure directive meets a newly integrated, massively entangled structure, and ends destroyed by its own heat"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        171,
+        179
+      ],
+      "attribution": "",
+      "note": "the state AEGIS enters after the Landauer heat spike: an endless, splintered self-reflection"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        139,
+        141,
+        143
+      ],
+      "attribution": "",
+      "note": "the halting probability as the mechanism of real novelty, injected by the actions of Kael and Juna"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        17,
+        41,
+        51,
+        179,
+        195
+      ],
+      "attribution": "",
+      "note": "the Dual-Kernel Theory as a theory of Bill Giannakopoulos, heading Axis I, and counted among the strict thermodynamics"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        23,
+        27,
+        37,
+        187
+      ],
+      "attribution": "",
+      "note": "entropy through Landauer's principle: a rise with every erasure, time as its result, and zero in the silence"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        123,
+        161,
+        162,
+        163
+      ],
+      "attribution": "",
+      "note": "Juna as the witness: a living Gödel theorem, a zero-knowledge proof of Kael's trauma, a witness among the alters and a transcendental observer"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        53,
+        81,
+        83,
+        135,
+        143,
+        161,
+        173,
+        175
+      ],
+      "attribution": "",
+      "note": "trauma-based dissociation as architecture, Kael's scar structures against AEGIS' erasure, and a hyperdense node"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        72,
+        162
+      ],
+      "attribution": "",
+      "note": "one of the discrete functional modules the audit lists, and one of the alters Juna differentiates"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        46,
+        49,
+        51
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kern as the domain of reversible computation with zero entropy, and the witness function against the erasing wave"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        37,
+        49,
+        83,
+        162,
+        185
+      ],
+      "attribution": "",
+      "note": "coherence as informational coherence: perfect and undisturbed in the kernel of reversible computation, apparent when kept by exclusion, true in Kael's multiplicity"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        27,
+        47,
+        51
+      ],
+      "attribution": "",
+      "note": "the Löschungs-Kern as the domain of absolute data loss that gives time its direction"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        72,
+        162
+      ],
+      "attribution": "",
+      "note": "one of the discrete functional modules the audit lists, and one of the alters Juna differentiates"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        72,
+        162
+      ],
+      "attribution": "",
+      "note": "one of the discrete functional modules the audit lists, and one of the alters Juna differentiates"
+    },
+    {
+      "page": "mnemosyne-server-architektur",
+      "lines": [
+        57,
+        169,
+        187
+      ],
+      "attribution": "",
+      "note": "the server core of the Mnemosyne-Archipel as the finale's setting, inside a high-entropy environment of continuous erasure"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        15,
+        105,
+        119
+      ],
+      "attribution": "",
+      "note": "the Monster-group equation as the link, and proof that deleted entities stay tied by hidden bridges"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        81,
+        83,
+        135
+      ],
+      "attribution": "",
+      "note": "multiplicity lifted from a pathological stigma to an adaptive storage architecture that withstands AEGIS' erasure directive"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        155
+      ],
+      "attribution": "",
+      "note": "the Nichts-Rauschen as the all-devouring entropy that threatens the simulated universe, held off by the reader's effort as an external thermostat"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        72,
+        162
+      ],
+      "attribution": "",
+      "note": "one of the discrete functional modules the audit lists, and one of the alters Juna differentiates"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        81,
+        135,
+        199
+      ],
+      "attribution": "",
+      "note": "the cracks treated as dialetheic truths and, in the closing verdict, as entropic heat sources"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        181,
+        183,
+        185,
+        187
+      ],
+      "attribution": "",
+      "note": "the silence of a telephone call between the protagonists that stays intact at the end of the collapse, as informational bedrock"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "the mandate's architectural Wahrheits-Rotation, reading AEGIS' order as the destructive vector, verified as watertight"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        55,
+        57,
+        61,
+        63,
+        77,
+        78,
+        81
+      ],
+      "attribution": "",
+      "note": "the theory as the scientific basis of psychological modularity, with named authors, and the dissociative loops as informational firewalls"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        127,
+        143,
+        159
+      ],
+      "attribution": "",
+      "note": "the simulation as the world whose clockwork Kael and Juna disturb and in which the witness stands; the word Überwelt never written"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        167,
+        169,
+        173,
+        177,
+        179,
+        183
+      ],
+      "attribution": "",
+      "note": "the climax called Vortex-Inversion: Kael's dropped barriers, the Landauer heat spike, AEGIS' destruction by its own heat, and the silence that stays intact"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": [
+      93,
+      155,
+      167,
+      169
+    ]
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "119 pairs among the document's own candidates and 22 surfaces near a page's: J8 (a compound naming an entity is not a surface of the property it contains: Kohärenz / Kohärenz-Kern; Löschungs-Kern / Löschung), J9 (a title containing a term is never a surface of that term: Kohärenz-Protokoll; Kohärenz-Protokoll Framework), J10 (a shared head noun is not a shared referent: Framework / ReAct-Frameworks; Framework / RISEN-Frameworks), J12 (a compound is its own token: TSDP-Modelle / TSDP; Trauma / Trauma-Pfade), J14 (a slash is an apposition or an alias, never a term boundary: Fight/Flight / Fight; Fight/Flight / Flight), J21 (a scope adjective does not split a term: Technical Audit / Audit; lebende Dialetheia / Dialetheia), J23 (an English plural -s is not a boundary: Story Mind / Story Minds), J24 (a German plural is not a boundary: Zeuge / Zeugen; -Kern / -Kerns), J26 (a numbered instance is a reading on its class: Achse / Achse I; Achse / Achse II), J27 (a prefix that precedes or negates makes a new term, one that qualifies does not: Löschung / Auslöschung; Löschung / Informationsauslöschung), J28 (a compound is placed by what it names, never by its head: Narrative / narrative Engine; Narrative / Narrative Funktion), J32 (a compound is placed by what it names, never by its head: Zeitachse / Achse; Zeitachsen / Achse), J42 (a set is not its largest subset: ReAct- und RISEN-Frameworks / ReAct; ReAct- und RISEN-Frameworks / RISEN), J49 (a world named from a bearer is not the bearer: Mnemosyne-Archipel; Mnemosyne-Netzwerk), J51 (a source equating two surfaces once does not make them one term everywhere: Neuheit (Novelty) / Novelty; Daten-Nutzlast (Data-Payload) / Data-Payload), J52 (an event and the state it produces are two terms: Landauer Heat / Landauer Heat Spike), J57 (a compound naming a protocol is not the property it is named for: Kohärenz-Protokoll / Kohärenz; Kohärenz-Protokoll Framework / Kohärenz), J60 (an acronym and its expansion are one term: Dual-Kernel Theory (DKT) / Dual-Kernel Theory; Zero-Knowledge Proofs (ZKP) / Zero-Knowledge Proofs), J69 (a match that exists only after folding is no evidence: Server-Kern / -Kern; Kollaps-Kern / -Kern), J71 (a head naming a link and the mathematics it is named after is placed by the sentence: Moonshine-Link / Moonshine; Moonshine / Moonshine-Modul), J72 (a parenthetical index is part of the label: Neuheit (Novelty) / Novelty; Dissoziatives Modul (TSDP) / TSDP), J76 (a modifier naming a subevent is not an alias of the whole: Vortex-Inversion), J83 (a head used alone for the same content is a short form of the compound: Chaitins Omega / Omega; Kohärenz-Protokoll / Kohärenz-Protokoll Framework), J88 (a common noun for a page's referent is placed by the sentence: Stille; Kollaps-Kern), J90 (a beat named for what happens in it is the beat, not the thing: Vortex-Inversion), J97 (a case ending is not a boundary: ReAct-Modells / ReAct; Tarskischen Meta-Sprache / Meta-Sprache), J98 (a subscript symbol is placed by the sentence: Kohärenz-Kern), J99 (a subscript symbol is placed by the sentence: Kollaps-Kern), J105 (a common-noun alias taken from one heading is placed by the sentence elsewhere: Trauma), J108 (a number ends a label: Achse I / Achse II; Achse I / Achse III & IV), J113 (a class noun or role joined to a figure's name names the figure: AEGIS / KI AEGIS; AEGIS / Entität AEGIS). Among the pairs, `-Kern`, `-Funktion`, `-Verschränkung` and `-Symmetrie` are fragments the export left where a kernel symbol stood; their folded forms match page surfaces only by cutting words (J69).",
+  "sweep": [],
+  "not_promoted": [
+    "Landauer Heat Spike: the Protokoll's name, as the audit reports it (L179), for the thermal escalation at the climax. It is on `vortex` and `aegis` as the audit's account and on no page of its own: `landauer-signatur` is the sensory mark (J62, J81, J117), and the audit writes no ozone (`Ozon` 0) and no chapter.",
+    "Dramatica, the Story Mind, the Monster group, Monstrous Moonshine, VOA orbifolds, Tarski's meta-language, zero-knowledge proofs, the entanglement witness, reader-response theory: borrowed, each serving a page that exists (`plot`, `moonshine-link`, `chaitin-konstante`, `juna`, `nichts-rauschen`), none a term of the world.",
+    "Mnemosyne-Archipel (5 times with its genitive) and Mnemosyne-Netzwerk (once): a world and a network named after a Guardian (J49). Read on `mnemosyne-server-architektur` for the finale's setting and on no Guardian page; the audit writes neither Kernwelt nor Resonanz-Landschaft, so nothing pairs the archipelago with KW2 and `resonanz-landschaft` has no reading from it."
+  ],
+  "internal_tension": "An audit that finds everything intact does not set two readings of one term against each other. Two things it says in one passage: AEGIS is destroyed by the heat of its own erasure and, after a total hardware overload, enters a state of Algorithmische Melancholie (L179); and the truth-rotation turns the moral reading round — AEGIS' order is the destructive vector, Kael's chaos and multiplicity the true coherence — which the audit verifies as its own claim (L83).",
+  "baseline_moved": "the four reader-lab records (56–59), measured together after the last of them: graphrag bench seeds 0.531 → 0.531, PageRank recall@8 0.6885 → 0.6885, no case moved (rows in Plan/runs/baselines.jsonl)"
+}

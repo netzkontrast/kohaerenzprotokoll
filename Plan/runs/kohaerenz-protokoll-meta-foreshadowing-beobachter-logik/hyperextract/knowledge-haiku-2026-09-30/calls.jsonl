@@ -1,0 +1,3 @@
+{"ok": true, "seconds": 7.02, "input": 5392, "output": 533, "cost_usd": 0.013446, "repaired_quotes": 2}
+{"ok": true, "seconds": 5.46, "input": 5447, "output": 369, "cost_usd": 0.012736}
+{"ok": true, "seconds": 3.83, "input": 4755, "output": 179, "cost_usd": 0.010402}

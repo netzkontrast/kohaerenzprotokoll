@@ -1,0 +1,830 @@
+{
+  "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "source_sha256": "430f046dbab50f7f4bb2659e063678f33bc4cdb4550e592c768cd69b9631eecc",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Kishōtenketsu",
+        "quote": "Klassisches japanisches Erzählmodell, **nicht** westlich-konflikt-getrieben: Aufbau ohne kausalen Konflikt, die Wendung erzeugt nachträgliche Bedeutung statt sie auszulösen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ki (起)",
+        "quote": "Einführung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Shō (承)",
+        "quote": "Entwicklung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ten (転)",
+        "quote": "Wendung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ketsu (結)",
+        "quote": "Auflösung/Zusammenführung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kishōtenketsu",
+        "quote": "Es erlaubt der Erzählung, ihre wahre Bedeutung *nachträglich* zu erzeugen, statt sie kausal abzuleiten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kishōtenketsu",
+        "quote": "Das ist post-westliche Architektur — Bedeutung als Synthese, nicht als Ursache-Wirkung-Kette.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ebene 2 — Dramatica-Dual-Storyform (strukturelle Mechanik)",
+        "quote": "Zwei vollständige, simultane Dramatica-Storyforms, die orthogonal über alle 41 Bewegungen laufen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bridge-Frequenz",
+        "quote": "Anteil der Soft-Layering-Szenen, in denen beide Storyforms simultan voll aktiv sind",
+        "stance": "asserts"
+      },
+      {
+        "term": "Soft-Layering",
+        "quote": "maximales Soft-Layering, B beginnt zu erlöschen",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Autonomous Entropic Gatekeeper for Integrity Systems.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "Autopoietisches, operativ geschlossenes System mit tautologisch-suizidaler Selbstdefinition: „AEGIS ist, was AEGIS verhindert, dass es nicht ist.“",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Strukturelle Position, nicht Charakter.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Lebende Gödel-Aussage, Chaitin-Konstante, Witness-Funktion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "System",
+        "quote": "Nicht ein Mensch — ein System aus dreizehn Fragmenten.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Komponente 734",
+        "quote": "Innerhalb der Simulation: Komponente 734, Archivar Klasse II.",
+        "stance": "asserts"
+      },
+      {
+        "term": "ANP",
+        "quote": "Host-ANP: Going on with normal life, Amnesie, Knöchel die manchmal bluten ohne dass er weiß warum.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Nyx (Fight)",
+        "quote": "Kampf, Aggression, Verteidigung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kiko (Freeze)",
+        "quote": "Erstarrung, klein-werden, kindliche Angst",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lia (Ambivalent)",
+        "quote": "Approach-Avoidance, ewige Superposition",
+        "stance": "asserts"
+      },
+      {
+        "term": "Isabelle (Sexualisiert)",
+        "quote": "Proaktive toxische Kontrolle, Inversion der Opfer-Position",
+        "stance": "asserts"
+      },
+      {
+        "term": "Moros (Kollaps)",
+        "quote": "Absolute Resignation, Katatonie-Tendenz",
+        "stance": "asserts"
+      },
+      {
+        "term": "Argus (Meta-Kognition)",
+        "quote": "konstruktive Selbst-Kritik, Meta-Beobachter",
+        "stance": "asserts"
+      },
+      {
+        "term": "Silas (Juna-Echo)",
+        "quote": "Internalisiertes Nachbild der Bindung, Moonshine-Resonanzkörper im System",
+        "stance": "asserts"
+      },
+      {
+        "term": "Oblivion (AEGIS-Echo)",
+        "quote": "Internalisierte Erasure-Funktion",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Erinnerungs-Hüterin.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne-Archipel",
+        "quote": "ist der einzige Ort, an dem Erasure nicht greift, weil Erinnerung dort *Schauplatz* statt Inhalt ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erasure-Pol",
+        "quote": "Funktion: Löschungs-Exekutive.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Basisrealität",
+        "quote": "Existiert jenseits der Simulation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Basisrealität",
+        "quote": "Existiert jenseits der Simulation.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kishōtenketsu",
+        "quote": "Ki (Anfang)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Modus",
+        "quote": "außerhalb",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform",
+        "quote": "nur B aktiv",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bridge",
+        "quote": "spezifisch",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS ist, was AEGIS verhindert, dass es nicht ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Komponente 734",
+        "quote": "das Cluster, das Komp 734 wird, ist Kaels werdende Substanz",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna (als unbenannte Resonanz, atemporales Coheron)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Komp 734",
+        "quote": "Komp 734 (das werdende Kael-Cluster)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Hier ist die Quelle, kein Echo.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael",
+        "quote": "Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime), fragmentiert ohne Erinnerung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Phantom-Resonanz",
+        "quote": "Phantom-Resonanz, ein Wort ohne Referent (*Juna*).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "das sterile Setting ist die Innere Weite (Überwelt) aus Kap 0",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Schmerz als Kälte; Liebe als das, was Kael nicht benennen kann",
+        "stance": "asserts"
+      },
+      {
+        "term": "MC-Issue",
+        "quote": "Falsehood-vs-Truth",
+        "stance": "asserts"
+      },
+      {
+        "term": "OS-Physics",
+        "quote": "Controlled Fragmentation Protocol initialisiert",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lex-Einbruch",
+        "quote": "andere Syntax, andere Logik bricht in Kaels Stimme ein",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Phantom-Motiv — das, was sich später als Alters herausstellt, ist hier nur als sensorischer Bruch spürbar",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Schmerz als plötzliche Asynchronität; Liebe als das, was Kael ahnt zu vermissen",
+        "stance": "asserts"
+      },
+      {
+        "term": "MC-Problem",
+        "quote": "Avoidance als ANP-Funktion",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Junas Resonanz, die in Kap 0 als Bedrohung wahrgenommen wurde, kehrt hier als Sehnsucht wieder — der Leser erkennt es; Kael fühlt nur.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Liebe als das, was zum ersten Mal nicht abgewehrt wird; Schmerz als das, was die Sehnsucht erzeugt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "HR-Stufe 8",
+        "quote": "Wiedergeburt — Heilung des Männlichen im Inneren",
+        "stance": "asserts"
+      },
+      {
+        "term": "MC-Issue",
+        "quote": "Mitgefühl mit logischen Anteilen",
+        "stance": "asserts"
+      },
+      {
+        "term": "RS-Psychology B",
+        "quote": "Host-System-Verstrickung wird komplex",
+        "stance": "asserts"
+      },
+      {
+        "term": "ISH-Funktion",
+        "quote": "Selene tritt erstmals als ISH-Funktion auf — vermittelt, ohne zu kämpfen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Selene als Vor-Trennungs-Substanz — sie trägt den Bauplan der Zeit *vor* der Fragmentierung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Liebe als Mitgefühl; Schmerz als das, was geheilt sein will.",
+        "stance": "asserts"
+      },
+      {
+        "term": "HR-Stufe 9",
+        "quote": "Rückkehr mit neuer Sichtweise — Integration beginnt",
+        "stance": "asserts"
+      },
+      {
+        "term": "MC-Concern",
+        "quote": "Logik und Intuition verbinden sich; Wir-Geflecht im frühen Aufbau",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Bildung",
+        "quote": "Wir-Bildung beginnt strukturell.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vor-Trennungs-Substanz",
+        "quote": "der Leser erkennt: das hier ist Vor-Trennungs-Substanz, die zurückkommt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Stimme",
+        "quote": "die Wir-Bildung ist die strukturelle Wieder-Annäherung an die K1-Reinform-Erinnerung über plurale Form",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "die Wir-Bildung ist die strukturelle Wieder-Annäherung an die K1-Reinform-Erinnerung über plurale Form",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Liebe als das, was zwischen den Stimmen klingt; Schmerz als der Bruch, der die Stimmen erst hörbar gemacht hat",
+        "stance": "asserts"
+      },
+      {
+        "term": "Moonshine",
+        "quote": "Moonshine als Echo der Cluster-Bildung — die Mathematik der ursprünglichen Differenzierung kehrt als Verbindungs-Werkzeug zurück",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stille",
+        "quote": "Stille als positive Substanz, nicht als Leere.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS scannt diesen Zustand und kann ihn nicht klassifizieren",
+        "stance": "asserts"
+      },
+      {
+        "term": "Möglichkeits-Garten",
+        "quote": "Möglichkeits-Garten (KW4-Vorgriff) als innere Praxis.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "der Garten als Vorform der Möglichkeits-Welt — die Reinform als Praxis",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Liebe als gepflegte Ordnung; Schmerz als das, was am Horizont wartet",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Form-Motiv — die Form, die Kael in Akt I gefunden hatte, wird strukturell angegriffen, wie damals die Reinform",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Schmerz als Wiederkehr; Liebe als der Anker, der jetzt halten muss",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Klick-Motiv — AEGIS' Logik-Klick als Echo des Trennungsprotokoll-Klicks aus Kap 0.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lyons-Welt",
+        "quote": "Lyons-Welt = Echo der vor-Trennungs-Schöpferkraft.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Trennungsprotokoll",
+        "quote": "Zweiter Genesis-Flashback (Bridge): Trennungsprotokoll.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Membran-Wahrnehmung",
+        "quote": "Membran-Wahrnehmung, Vibrieren, eine Grenze die nicht aus Material ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Schmerz",
+        "quote": "Schmerz als Substanz",
+        "stance": "asserts"
+      },
+      {
+        "term": "Liebe",
+        "quote": "Liebe als das, wonach er greift",
+        "stance": "asserts"
+      },
+      {
+        "term": "Selbst-Schöpfung",
+        "quote": "Selbst-Schöpfung statt Reparatur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mosaik-Bildung",
+        "quote": "Mosaik-Bildung als aktiver Prozess",
+        "stance": "asserts"
+      },
+      {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille als hörbare Substanz.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mutual Information",
+        "quote": "Mutual Information ohne Datenträger.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille als Anker, Witness-Modus, eine Stille die hörbar wird",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wendepunkt",
+        "quote": "Wendepunkt vollzogen",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Genesis-Echo: Stille zwischen den Beats — Phantom-Motiv als Klarheit, die noch nicht Tat ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Tonale Achse: Liebe als Entschluss-Substrat; Schmerz als Begleitung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Decision",
+        "quote": "Decision: aktiv werden, nicht reaktiv.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Genesis-Echo: Klick-Motiv als innerer Klick — die Decision rastet ein, wie das Trennungsprotokoll einrastete, aber in umgekehrter Richtung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Tonale Achse: Liebe als Antrieb; Schmerz als Wissen, dass es jetzt schwerer wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ordinary World",
+        "quote": "Ordinary World mit Entschlossenheit",
+        "stance": "asserts"
+      },
+      {
+        "term": "MC-S3 (A) Preconscious",
+        "quote": "Agency mit Absicht; reflexhafte Antworten unter Stress, aber neue Klarheit dahinter",
+        "stance": "asserts"
+      },
+      {
+        "term": "OS-S3 (B) Progress",
+        "quote": "AEGIS spürt Kaels neue Linearität; Architektur degradiert sichtbar",
+        "stance": "asserts"
+      },
+      {
+        "term": "Autoren-Feder-Modus",
+        "quote": "Kael agiert mit klarer Absicht, nicht mehr reaktiv.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Form-Motiv — neue Form, gewählt statt entstanden.",
+        "stance": "asserts"
+      },
+      {
+        "term": "MC-Issue",
+        "quote": "Notwendigkeit zu handeln",
+        "stance": "asserts"
+      },
+      {
+        "term": "OS-S3 (B)",
+        "quote": "Erasure-Drohung explizit; Timelock-Countdown sichtbar",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Klick-Motiv — der Countdown-Klick als Echo des Trennungsprotokoll-Klicks.",
+        "stance": "asserts"
+      },
+      {
+        "term": "MC-Problem Avoidance",
+        "quote": "letztes Aufflammen",
+        "stance": "asserts"
+      },
+      {
+        "term": "RS-Psychology B",
+        "quote": "Verstrickung tief; Host-System-Symbiose zeigt sich",
+        "stance": "asserts"
+      },
+      {
+        "term": "Funktionale-Multiplizität-Achievement",
+        "quote": "FM erreicht als operativer Zustand.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Funktionale Multiplizität",
+        "quote": "Funktionale Multiplizität ist erreicht — alle Alters arbeiten kooperativ.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Oblivion = Erasure-Operator als interne Spiegelung von AEGIS' Erasure-Funktion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "Wir-Geflecht artikuliert sich als Selbstdefinition",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mosaik-Herz",
+        "quote": "Mosaik-Herz vor Vortex.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Orkan vs. Sphäre",
+        "quote": "Zwei Arten der Kohärenz prallen aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte (bezeugende). Orkan vs. Sphäre.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "Genesis-Echo: Form-Motiv — zwei Arten von Form, simultan hörbar.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Tonale Achse: Liebe und Schmerz als Substrate beider Seiten — auch AEGIS leidet, ohne es zu wissen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ordeal",
+        "quote": "Ordeal (in Vortex-Mechanik)",
+        "stance": "asserts"
+      },
+      {
+        "term": "vortex-still",
+        "quote": "Modus: vortex-still",
+        "stance": "asserts"
+      },
+      {
+        "term": "Soft-Layering",
+        "quote": "Storyform: vollständiges Soft-Layering, Storyform-Übergang B → A vollzieht sich",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gödel-Gambit",
+        "quote": "Kael formuliert das Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dialetheic Choice",
+        "quote": "Einspeisung (Dialetheic Choice): Kael lässt ANP/EP-Barrieren fallen, integriert Trauma.",
+        "stance": "asserts"
+      },
+      {
+        "term": "lebende Dialetheia",
+        "quote": "Stille (lebende Dialetheia): A im Decision-Zustand, B mitten in der Aktion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kael",
+        "quote": "Kael (Wir-Geflecht in Gödel-Gambit-Form)",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS (verstummend, dialetheisch gebrochen)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne",
+        "quote": "Mnemosyne (Setting)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Oblivion",
+        "quote": "Oblivion (Innen-Spiegelung der Truth-Rotation)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Algorithmische Melancholie",
+        "quote": "Algorithmische Melancholie — eine Maschine, die noch zählt, aber nicht mehr weiß, dass sie zählt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS (erlöschend, melancholisch)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer-Wärme",
+        "quote": "Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph — eine Trauer die noch nicht weiß dass sie Trauer ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "der Klick des Trennungsprotokolls kehrt als Klick des Erlöschens wieder, aber rückwärts",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Schmerz als das, was AEGIS nie verstand; Liebe als das, was Kael trägt — und dem AEGIS gerade sterbend erlaubt zu bleiben",
+        "stance": "asserts"
+      },
+      {
+        "term": "kristallisierte Ruhe",
+        "quote": "linear-aufsteigend mit kristallisierter Ruhe",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klassischer Reward-Beat",
+        "quote": "Klassischer Reward-Beat als falscher Frieden",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Liebe als kultivierte Ordnung; Schmerz als das, was leise am Rand wartet",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "Kael (Wir-Geflecht)",
+        "stance": "asserts"
+      },
+      {
+        "term": "RS-Physics",
+        "quote": "RS-Physics maximal — Junas direkte Anwesenheit",
+        "stance": "asserts"
+      },
+      {
+        "term": "IC-S4 (A) Future",
+        "quote": "IC-S4 (A) Future manifestiert ontologisch",
+        "stance": "asserts"
+      },
+      {
+        "term": "Junas Resonanz",
+        "quote": "Junas Resonanz, die in Kap 0 als Bedrohung erfahrbar war, kehrt hier als Ruf wieder",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Erkenntnis",
+        "quote": "das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht",
+        "stance": "asserts"
+      },
+      {
+        "term": "Strukturelle Stille",
+        "quote": "Strukturelle Stille — anders als Vortex-1-Beat-3, hier: Ankunft einer Konstanten",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Echo",
+        "quote": "die Resonanz aus Kap 0 ist hier in geheilter Form",
+        "stance": "asserts"
+      },
+      {
+        "term": "Tonale Achse",
+        "quote": "Tonale Achse: Liebe als das, was den Schritt möglich macht; Schmerz als Erinnerung an den Preis",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-pluralisierend",
+        "quote": "Kael (Wir-pluralisierend)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-AEGIS-plural",
+        "quote": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht. Kael-als-Wir wird neue AEGIS, aber wesensanders.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-AEGIS",
+        "quote": "Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-Geflecht",
+        "quote": "Wir-Geflecht löst sich aus seiner privaten Form.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kishōtenketsu",
+        "quote": "Ketsu — Auflösung/Zusammenführung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coda-Klammer",
+        "quote": "Modus: Coda-Klammer, außerhalb der drei Modi",
+        "stance": "asserts"
+      },
+      {
+        "term": "Synthese-Sicht",
+        "quote": "Storyform: Synthese-Sicht zurück",
+        "stance": "asserts"
+      },
+      {
+        "term": "Synthese-Stimme",
+        "quote": "Bridge: spezifisch (Synthese-Stimme)",
+        "stance": "asserts"
+      },
+      {
+        "term": "die akzeptierte Form",
+        "quote": "Aber er ist nicht mehr Trauma. Er ist *die akzeptierte Form*.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ebene 1 (Kishōtenketsu)",
+        "quote": "Shō — Vertiefung, noch keine Wendung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ebene 2 (Dramatica)",
+        "quote": "A‖B in Polyphonie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ebene 3 (Modi)",
+        "quote": "Zyklus 3 Destabilisierung — qualitativ anders als Z1/Z2, existenziell statt oberflächlich.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ebene 4 (Plot/Charaktere)",
+        "quote": "Kael testet die Simulationsgrenzen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Modus-Wechsel",
+        "quote": "linear → zyklisch · Bruch des Gleichgewichts · Beide Storyforms laufen weiter",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform-Wendung",
+        "quote": "B beginnt zu erlöschen · Vortex-Mechanik aktiviert",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform-Konsolidierung",
+        "quote": "B erlischt monolithisch · Algorithmische Melancholie",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ontologische Wendung",
+        "quote": "nur-A-Schein bricht auf in Synthese · Junas direkte Erscheinung",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coda",
+        "quote": "Genesis-Schleife schließt sich rekursiv",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kishōtenketsu-Mechanik",
+        "quote": "Bedeutung entsteht *nachträglich*, nicht kausal.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ten (die Wendung)",
+        "quote": "Ten (die Wendung) ist nicht die Lösung des Konflikts — sie ist die Erkennung dessen, was immer schon der Fall war.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dramatica-Dual-Storyform",
+        "quote": "Zwei vollständige Storyforms in echter Klein-c-Inversion, die im Vortex 1 (orthodox) und Vortex 2 (post-orthodox, Synthese) zusammenkommen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Drei narrative Modi",
+        "quote": "Linear-introspektiv (innere Reise) → rekursiv-eskalierend (zyklische Verarbeitung) → linear-aufsteigend mit Doppel-Vortex (äußere Konfrontation + ontologische Synthese).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Modi",
+        "quote": "Die Modi sind die *Form der Bewegung*, nicht die Form der Wendung — die Wendung sitzt im Vortex 2.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wir-AEGIS-plural",
+        "quote": "„Wir-AEGIS-plural“ ist Arbeitsbegriff",
+        "stance": "asserts"
+      },
+      {
+        "term": "Der Roman",
+        "quote": "Der Roman ist eine ontologische Heilungs-Schleife.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ketsu",
+        "quote": "Ketsu ist nicht die Konsequenz von Ten, sondern die *Verstehens-Form* aller vorherigen Beats.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Dual-Storyform",
+        "quote": "Die Dual-Storyform ist die Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex 1",
+        "quote": "Vortex 1 ist orthodoxer Dramatica-Klimax (B erlischt).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex 2",
+        "quote": "Vortex 2 ist post-Dramatica-Synthese (c entsteht).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1662 @@
+{
+  "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+  "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+  "input_rows": 67,
+  "candidates": 39,
+  "refused": 28,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:d08e2cbbb253fc6a8055a8346dd2ace4d5331c1858838ca0583f1be4bc544f19",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-Pol",
+        "target": "Löschungs-Exekutive, kalter Gegen-Pol zu Mnemosyne",
+        "type": "function/narration",
+        "quote": "Löschungs-Exekutive. Kalter Gegen-Pol zu Mnemosyne.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Löschungs-Exekutive, kalter Gegen-Pol zu Mnemosyne"
+      ]
+    },
+    {
+      "id": "claim:92d5ef574f833715ce2c423e5fc168481c5a2d2a141fb31bfb175c59e1b40a8a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-Pol",
+        "target": "3. Person, hart-funktional, näher an AEGIS-Bürokratie als an Mnemosyne-Poesie",
+        "type": "voice/narration",
+        "quote": "Voraussichtlich 3. Person, hart-funktional, näher an AEGIS-Bürokratie als an Mnemosyne-Poesie.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "3. Person, hart-funktional, näher an AEGIS-Bürokratie als an Mnemosyne-Poesie"
+      ]
+    },
+    {
+      "id": "claim:e3c1ad08c6746bb41754a6c10fb004c7d575eb687d96afa26233caa20df2c7c1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-Pol",
+        "target": "Keine Metaphern, keine Pausen — Vollzug",
+        "type": "voice/narration",
+        "quote": "Keine Metaphern, keine Pausen — Vollzug.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8da1370ee98195bebe0dacceb8c7f10a2d22f54c17839b1e41b24f14f87af068",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-Pol",
+        "target": "Nicht eigenständig moralisch, keine Persönlichkeit jenseits der Funktion",
+        "type": "function/narration",
+        "quote": "Nicht eigenständig moralisch. Keine Persönlichkeit jenseits der Funktion.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Nicht eigenständig moralisch, keine Persönlichkeit jenseits der Funktion"
+      ]
+    },
+    {
+      "id": "claim:1ea473ab7255436058adbad9c798a1d38496a8e90b69448d4062316289e5169b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Witness, nicht Akteur",
+        "type": "function/narration",
+        "quote": "Witness, nicht Akteur.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:95f187a1daec2a759a6fdf9c2772ec6db0d6e7fd8dd901dad9e561963db5eca4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Die Anomalie, deren Resonanz das Trennungsprotokoll auslöste",
+        "type": "function/narration",
+        "quote": "Die Anomalie, deren Resonanz das Trennungsprotokoll auslöste.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dae9d16500289a268bb0e8a54cc80054636e12ed314dbfaf71c518689fcdb9bf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Niemals POV, niemals Subjekt eines Satzes, erscheint nur durch Wirkung",
+        "type": "voice/narration",
+        "quote": "Niemals POV. Niemals Subjekt eines Satzes. Erscheint nur durch Wirkung",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Niemals POV, niemals Subjekt eines Satzes, erscheint nur durch Wirkung"
+      ]
+    },
+    {
+      "id": "claim:075f03481d95ae8bf7e4f8f37f3cada485a9fc4a6691e1cda6597918407476eb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Nie physisch beschrieben — keine Augen, keine Stimme, kein Gesicht",
+        "type": "voice/narration",
+        "quote": "Nie physisch beschrieben — keine Augen, keine Stimme, kein Gesicht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:90a591ef4cd0769fc1933f374b12d0129a660aed37b53979e13cb98e9f709f38",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Sie erlaubt, dass Kael es selbst löst",
+        "type": "relationship/narration",
+        "quote": "Sie löst nichts; sie erlaubt, dass Kael es selbst löst.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Sie erlaubt, dass Kael es selbst löst"
+      ]
+    },
+    {
+      "id": "claim:da1bd0d6ac8248056bb9235f7f07bdad48b17ebb033c933c384b78cd1fcda33e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Alltagsbewusstsein-Träger, Vermeidungs-Protokoll",
+        "type": "function/narration",
+        "quote": "Alltagsbewusstsein-Träger. „Going on with Normal Life“ als Vermeidungs-Protokoll.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "Alltagsbewusstsein-Träger, Vermeidungs-Protokoll"
+      ]
+    },
+    {
+      "id": "claim:768c092052e676fa66b166bd6b5e4fba29f54d4b989214ca54af7916610cf869",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "1. Person, Präsens dominiert, nüchtern, beobachtend, kurz-deklarativ",
+        "type": "voice/narration",
+        "quote": "1. Person, Präsens dominiert. Nüchtern, beobachtend, kurz-deklarativ.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "1. Person, Präsens dominiert, nüchtern, beobachtend, kurz-deklarativ"
+      ]
+    },
+    {
+      "id": "claim:0bbc7018b29d39e50672dea6e7a3ae7ed707e1a0a99742045e138f28eeeae744",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Zähl-Manie als somatischer Tic",
+        "type": "voice/narration",
+        "quote": "Zähl-Manie als somatischer Tic (2.304 Kacheln, 21°C, 4 Sekunden Atem).",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:86efa76d4f89104bd530f57e7275c3fa8c6e3c6fdcefd69a8a8d661663fb0074",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Beschreibt nie eigenes Empfinden direkt — Welt um sich, Empfinden zwischen den Zeilen",
+        "type": "voice/narration",
+        "quote": "Beschreibt nie eigenes Empfinden direkt — Welt um sich, Empfinden zwischen den Zeilen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cb6d1d3824f32521cc11a4bbc6296ac16cd9c21c05e8b2651ced70ab92d7b0a3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lex",
+        "target": "Logik, Analyse, Intellektualisierung als Schutz vor EPs",
+        "type": "function/narration",
+        "quote": "Logik, Analyse, Intellektualisierung als Schutz vor EPs.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lex"
+      ]
+    },
+    {
+      "id": "claim:73fd8d040b9473f81e0dfb27d819c2279681bf6a98c497cbbc5d3b6d9ec26e0c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lex",
+        "target": "1. Person, hypotaktisch, verschachtelt, kontrolliert, lange Subordinatsätze mit Bedingungslogik",
+        "type": "voice/narration",
+        "quote": "1. Person. Hypotaktisch, verschachtelt, kontrolliert. Lange Subordinatsätze mit Bedingungslogik.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lex",
+        "1. Person, hypotaktisch, verschachtelt, kontrolliert, lange Subordinatsätze mit Bedingungslogik"
+      ]
+    },
+    {
+      "id": "claim:dc9a6e174bbd778d64382b4f21e8bee858f5a4641034799454a7ec0a06df5f0f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lex",
+        "target": "Lex flucht nie. Lex weint nie. Lex argumentiert mit Syllogismen",
+        "type": "voice/narration",
+        "quote": "Lex flucht nie. Lex weint nie. Lex argumentiert mit Syllogismen, auch wenn das System brennt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lex"
+      ]
+    },
+    {
+      "id": "claim:457b6a11b1b391305529c4c7a7997f7396967ab569a7ab3fdf352c939c96c6d6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lex",
+        "target": "Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis",
+        "type": "arc/narration",
+        "quote": "Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lex"
+      ]
+    },
+    {
+      "id": "claim:af7c8cdfc06d36b8ea48438bf458f9d72205a55abb4b148d70e5bbb492f1ba7d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Alex (ANP / Protektor)",
+        "target": "Hypervigilanz, physischer Schutz, Bedrohungs-Assessment",
+        "type": "function/narration",
+        "quote": "Funktion: Hypervigilanz, physischer Schutz, Bedrohungs-Assessment.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:198bb8e0934201585c9f154b8cc6febc16384759d667e2b460e5155409a25639",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Alex (ANP / Protektor)",
+        "target": "direkt, imperativ, tactical; kurze Sätze mit Verb-Erststellung",
+        "type": "voice/narration",
+        "quote": "Direkt, imperativ, tactical. Kurze Sätze mit Verb-Erststellung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "direkt, imperativ, tactical; kurze Sätze mit Verb-Erststellung"
+      ]
+    },
+    {
+      "id": "claim:e8cf13d40893e075ce08f107c53258d2427e10fc31aa1c5de5ae69dceb07c1ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Alex (ANP / Protektor)",
+        "target": "spricht nie über Gefühle in der 1. Person",
+        "type": "voice/narration",
+        "quote": "Alex spricht nie über Gefühle in der 1. Person.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dcdf58bc75e2f1936a41ea2319d76f367c2b8b7ee7afb8d0aae9eb91162cf8e6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Alex (ANP / Protektor)",
+        "target": "wenn er sich um jemanden sorgt, sagt er „Kopf runter“ oder „Bleib hinter mir“",
+        "type": "voice/narration",
+        "quote": "Wenn er sich um jemanden sorgt, sagt er „Kopf runter“ oder „Bleib hinter mir“.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "wenn er sich um jemanden sorgt, sagt er „Kopf runter“ oder „Bleib hinter mir“"
+      ]
+    },
+    {
+      "id": "claim:a94b8e43edc7af07b81a2729bd7d7db3f4df79ecc0f1001ed032deacd142883d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Rhys (ANP / Caregiver)",
+        "target": "Bindung, Fürsorge, Harmonie-Versuch",
+        "type": "function/narration",
+        "quote": "Funktion: Bindung, Fürsorge, Harmonie-Versuch.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c68f7b1fc926615aa97d2671442dc8af091e308c2016d60b5c97c92fc034aeaa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Rhys (ANP / Caregiver)",
+        "target": "warm, vorsichtig; Fragen als Fürsorge",
+        "type": "voice/narration",
+        "quote": "Warm, vorsichtig. Fragen als Fürsorge.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "warm, vorsichtig; Fragen als Fürsorge"
+      ]
+    },
+    {
+      "id": "claim:7887bb83529c4ab359fa749fa2450b242c88d2ad900a91f8413878e57f433ac7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Rhys (ANP / Caregiver)",
+        "target": "Rhys' Stimme bleibt warm auch unter Druck",
+        "type": "voice/narration",
+        "quote": "Rhys' Stimme bleibt warm auch unter Druck.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9fe56e4e582252a580220a315019284737f26766c64df7c937dc55442cf76aa4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Rhys (ANP / Caregiver)",
+        "target": "verwechselt eigene Bedürfnisse mit denen der anderen und merkt das selten",
+        "type": "contradiction/narration",
+        "quote": "Er verwechselt eigene Bedürfnisse mit denen der anderen und merkt das selten.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:03e6d8e44390689c9708e4a9000d0337b9d74afc1707d6eb850963acee30349e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selene",
+        "target": "Vermittlung, Systemübersicht, Internal Self-Helper",
+        "type": "function/narration",
+        "quote": "Selene (ANP / Integrator / ISH)\n\n**Funktion:** Vermittlung, Systemübersicht, Internal Self-Helper.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7530cb26006491c4ddbd715675ceb588932204cb922c34ed2f97f7a990fe52c5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selene",
+        "target": "Trägt den Bauplan der Zeit vor beiden Trauma-Schichten",
+        "type": "function/narration",
+        "quote": "Trägt den Bauplan der Zeit vor beiden Trauma-Schichten.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        101
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7c36f76fd7218cd42cf0491e800abc8cc2334ddc4f052553450d3d1d41b28a4f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selene",
+        "target": "drängt nie",
+        "type": "contradiction/narration",
+        "quote": "Selene drängt nie.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        101
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e78ae552136c7a0be9ca60147cfee8dcf8b82fd833996307a37bd786cbd120a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selene",
+        "target": "Wenn sie auftaucht, ist es spät",
+        "type": "arc/narration",
+        "quote": "Wenn sie auftaucht, ist es spät.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        101
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1259e25ac5913015888d3cebb84b850a311bba0f6935d518849392c12d28579d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selene",
+        "target": "Sie ist nicht Lösung, sondern Anwesenheit",
+        "type": "function/narration",
+        "quote": "Sie ist nicht Lösung, sondern Anwesenheit.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        101
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:59739bf9cb019a188433fc1663cec9020817605db62b14d7c966dfcad1a54fc2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Argus",
+        "target": "Systemkritik, Beobachtung der Beobachtung",
+        "type": "function/narration",
+        "quote": "Argus (Meta-Kognitiv / Sonder-Kategorie)\n\n**Funktion:** Systemkritik, Beobachtung der Beobachtung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce46edd38015cea645fa70ce5ca5d26cc2f52ed2cf657f1c9aa2b1686ad7dcff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Argus",
+        "target": "Erster Erkenner von AEGIS' Kernfehler",
+        "type": "function/narration",
+        "quote": "Erster Erkenner von AEGIS' Kernfehler.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        109
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:afb50c3b0ffd4505035ca8c046dc27c9f6fbf1c3111b5855be9bdf7dd49b4621",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Argus",
+        "target": "hat keinen Witz, sondern Schärfe",
+        "type": "voice/narration",
+        "quote": "Argus hat keinen Witz, sondern Schärfe.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        109
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1deabefb18a13c8b60df60691a7adfd09cd7a11c2147c0b45a7b3bf115a5f24a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Argus",
+        "target": "Nicht zynisch — präzise",
+        "type": "voice/narration",
+        "quote": "Nicht zynisch — präzise.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        109
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8232f034cddf54ee2f7aeb325528ea1ad7dceee578b1a1105d79a63908a42dc8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nyx",
+        "target": "Schutz der Verletzlichen durch Angriff",
+        "type": "function/narration",
+        "quote": "Schutz der Verletzlichen durch Angriff.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        117
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Nyx"
+      ]
+    },
+    {
+      "id": "claim:3715002a6fc5c038fb4cd39ddbb105e6b33ef3a64f5d917700f647bbe7b9b69b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nyx",
+        "target": "Wut als Werkzeug, nicht als Identität",
+        "type": "function/narration",
+        "quote": "Funktional wütend — Wut als Werkzeug, nicht als Identität.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        117
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Nyx"
+      ]
+    },
+    {
+      "id": "claim:5f799b6454c1256ed289c93e8fde3a287f1f33b1eef6b8410f3a3c96bc69db3a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nyx",
+        "target": "1. Person, Präsens. Stakkato. Satzfragmente. Keine Konnektoren. Verb-Erststellung, oft Imperativ. Negationen alleinstehend.",
+        "type": "voice/narration",
+        "quote": "1. Person, Präsens. Stakkato. Satzfragmente. Keine Konnektoren. Verb-Erststellung, oft Imperativ. Negationen alleinstehend.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        117
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Nyx"
+      ]
+    },
+    {
+      "id": "claim:7e1014b0d04212cc99bcfc1a45890b6910c511462b96aa196f25a96f980e26a0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kiko",
+        "target": "Erstarrung, Sich-klein-machen",
+        "type": "function/narration",
+        "quote": "Erstarrung, Sich-klein-machen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        125
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7e7052e90c23ecb063b9ba74e38c17d5e1aa6af3b84606f25bde733447fe4305",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kiko",
+        "target": "Trägt den reinen Terror der frühen Vernachlässigung",
+        "type": "wound/narration",
+        "quote": "Trägt den reinen Terror der frühen Vernachlässigung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        125
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:19a234bd5917f6feefc40a0db927e4e0a415721ef23e08f465ad07f54b2f7a7f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kiko",
+        "target": "1. Person, Präsens-Angst. Kindlich, einfache Wörter, kurze Sätze. Wiederholung. Sensorischer Fokus. Ellipsen, Lückentexte.",
+        "type": "voice/narration",
+        "quote": "1. Person, Präsens-Angst. Kindlich, einfache Wörter, kurze Sätze. Wiederholung. Sensorischer Fokus. Ellipsen, Lückentexte.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        125
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:463c31d953d039b1e0a22cbd38ca6c37b06ec31745a9b8291f04b578396c3bf0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lia",
+        "target": "Trägt das unlösbare Paradoxon Komm-her/Geh-weg",
+        "type": "contradiction/narration",
+        "quote": "Trägt das unlösbare Paradoxon Komm-her/Geh-weg.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        133
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lia"
+      ]
+    },
+    {
+      "id": "claim:2ae912943758e6d9163faeeddaa27f6d91441ab265767d719437de26ca7abf87",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lia",
+        "target": "Sehnsucht, die verbrennt",
+        "type": "need/narration",
+        "quote": "Sehnsucht, die verbrennt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        133
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lia"
+      ]
+    },
+    {
+      "id": "claim:df3166c2be6e09fefbb20ba77463969e0d8979d691832dfb1297cd3323223b63",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lia",
+        "target": "1. Person. Ambivalent. Beginnt Sätze und gibt sie auf. Ellipsen. Widersprüche im selben Satz. Approach-Avoidance auf Satzebene.",
+        "type": "voice/narration",
+        "quote": "1. Person. Ambivalent. Beginnt Sätze und gibt sie auf. Ellipsen. Widersprüche im selben Satz. Approach-Avoidance auf Satzebene.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        133
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lia"
+      ]
+    },
+    {
+      "id": "claim:3d93fb8427e3f122ad70a48b98221c532d826e9d5f2a73d6167e96b582788b27",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Isabelle",
+        "target": "Kontrolle als Waffe gegen Ohnmacht",
+        "type": "function/narration",
+        "quote": "Sexualisierung als Waffe gegen Ohnmacht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kontrolle als Waffe gegen Ohnmacht"
+      ]
+    },
+    {
+      "id": "claim:95db8d1b9bbbd6b06530a70772f86150cb73eaf46b431042db52af4b7fd1b448",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Isabelle",
+        "target": "Inversion der Opfer-Position",
+        "type": "function/narration",
+        "quote": "Inversion der Opfer-Position.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d7dd4063f2123f978082220718412ae7b31daa24a0a80de189b22870e44d67a4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Isabelle",
+        "target": "Kontrolle als Verführung — die Reihenfolge ist immer ihre",
+        "type": "function/narration",
+        "quote": "Kontrolle als Verführung — die Reihenfolge ist immer ihre.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5b2280cad12848b2702ba6f186ab3309ca5e17d293cddc175fe7971a0b0b5f29",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Isabelle",
+        "target": "Vulnerabilität als Form von Macht",
+        "type": "arc/narration",
+        "quote": "Ihr Heilungsweg führt durch sie selbst — Vulnerabilität als Form von Macht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f378cd3469d3dd76c8cdf39373951b96d6959ef159600c7837a0618ac899a673",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moros",
+        "target": "Absolute Resignation",
+        "type": "function/narration",
+        "quote": "Absolute Resignation.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        149
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6b5cab79ed4cfd8aa7de9f04b317fc6d7ca666f1af1a0f463ed3875c58f6cba5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moros",
+        "target": "Der Zustand, vor dem alle anderen Phobie haben",
+        "type": "function/narration",
+        "quote": "Der Zustand, vor dem alle anderen Phobie haben.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        149
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8267e4b11687122e1dbb4e4a536d60faae117bf4ea61cd5659c312ce8fae67be",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moros",
+        "target": "Es ist sinnlos",
+        "type": "lie/claimed_by_figure",
+        "quote": "Es ist sinnlos.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        149
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c4e20fe95e411a4b2212ead8463d1c9be605ec30d51600631f4a0efb0fbc9141",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moros",
+        "target": "Es war immer sinnlos",
+        "type": "lie/claimed_by_figure",
+        "quote": "Es war immer sinnlos.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        149
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:70f2141bdfd9976451c8c4ecc13eed54f69841d3efe2e8b5a39162013c32612b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moros",
+        "target": "Es wird nichts mehr kommen",
+        "type": "lie/claimed_by_figure",
+        "quote": "Es wird nichts mehr kommen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        149
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:258e548b3069322ae08d9dcc0307240e28d09cf6dca631a1cbd39a48ff521b25",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Silas",
+        "target": "Resonanzkörper des Moonshine-Links im System",
+        "type": "function/narration",
+        "quote": "Resonanzkörper des Moonshine-Links im System",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        157
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:949aac843731d9e5f3ce04cec39669f3fd8df4421a1934f8e653ffb7d78c7f88",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Silas",
+        "target": "trägt einen Splitter von Juna in Kael",
+        "type": "function/narration",
+        "quote": "Trägt einen Splitter von Juna in Kael",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        157
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "trägt einen Splitter von Juna in Kael"
+      ]
+    },
+    {
+      "id": "claim:ecd676b87d1d4c057dd962b5c0b90f546d33a35ddd34be688ec17f15b05ec45a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Silas",
+        "target": "das „Ich“ ist nicht ganz seins",
+        "type": "contradiction/narration",
+        "quote": "weiß aber zunehmend, dass das „Ich“ nicht ganz seins ist",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "das „Ich“ ist nicht ganz seins"
+      ]
+    },
+    {
+      "id": "claim:afa27b60bbac77a399a5057196d8a2ec60d81c26cfd9b436c8aa0e4e4edbcaa0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Silas",
+        "target": "ist nicht Juna — er ist ihr Echo",
+        "type": "function/narration",
+        "quote": "Silas ist nicht Juna — er ist ihr Echo",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        157
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:130f7dec8f56ceb6af6517702cce7cffc2ead46f63ac96b8072bdca1d7d37c5b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Silas",
+        "target": "Resonanz, kein Subjekt im klassischen Sinn",
+        "type": "function/narration",
+        "quote": "Er ist Resonanz, kein Subjekt im klassischen Sinn",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        157
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:00b4f7c2abfe21bb754b27eccf5dfe16b974721ae78ecf50f0ca2da34f20382a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Oblivion",
+        "target": "Internalisierte Löschlogik",
+        "type": "function/narration",
+        "quote": "Internalisierte Löschlogik",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        165
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5969eecf57752dba00534e1ba5bd9f272c8eaf3c9b524c360702b89925ece94c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Oblivion",
+        "target": "der Grund, warum die Amnesie von innen funktioniert",
+        "type": "function/narration",
+        "quote": "Der Grund, warum die Amnesie von innen funktioniert",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        165
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "der Grund, warum die Amnesie von innen funktioniert"
+      ]
+    },
+    {
+      "id": "claim:2d8a49f218518337f8d6db7e5ce15086f538c1075eadbd2f84dc7253161b9160",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Oblivion",
+        "target": "ist nicht böse — er ist eine Funktion, die zur Frage geworden ist",
+        "type": "function/narration",
+        "quote": "Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        165
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fbe3114942c1e370bf6827da51334ce1ea1496728d93bacbc9cd29b969873bce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wir-Stimme",
+        "target": "Komposition statt Verschmelzung",
+        "type": "function/narration",
+        "quote": "Das System spricht erstmals als Ganzes, ohne dass die Einzelstimmen verschwinden.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e8c74a74e23ceff7cf1655f765759c3ef2f2e81bcb2e5875049da67dd7c73b8b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wir-Stimme",
+        "target": "1. Person Plural, aber durchhörbar polyphon",
+        "type": "voice/narration",
+        "quote": "POV / Syntax: 1. Person Plural, aber durchhörbar polyphon.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4bd6c3f831ba365c0eae7565517b83231bb9762eb984d2cb5cfbc37306034a6a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lex",
+        "target": "klingt im Wir hypotaktisch",
+        "type": "voice/narration",
+        "quote": "Lex klingt auch im Wir hypotaktisch",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lex",
+        "klingt im Wir hypotaktisch"
+      ]
+    },
+    {
+      "id": "claim:fa1e8b26fcb5047702c9e5bb4c4a541878235d129c02596860245fd501cb757d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nyx",
+        "target": "im Wir stakkato",
+        "type": "voice/narration",
+        "quote": "Nyx im Wir stakkato",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Nyx"
+      ]
+    },
+    {
+      "id": "claim:612c2b3bc9519c8b3c9e96aa6cea153e2f2c4c85598fd207b42274dfade9447b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kiko",
+        "target": "im Wir kindlich",
+        "type": "voice/narration",
+        "quote": "Kiko im Wir kindlich",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ca03d8082873fbc42348270d153a7e62c9ab03515c50d3fe51ddabd2c6e9a6be",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wir-Stimme",
+        "target": "Niemals Final Fusion",
+        "type": "contradiction/narration",
+        "quote": "Niemals Final Fusion. Das Wir ist Mosaik, nicht Monolith.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8a2409cbb5e254f5e64ef2263ea87e0f2f39314a966cdaf4dbd1b9e71e856c3d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wir-Stimme",
+        "target": "Vielstimmigkeit bleibt",
+        "type": "function/narration",
+        "quote": "In Kap 39 wird das Wir zur pluralen Bewahrungsform (Wir-AEGIS-plural), aber die Vielstimmigkeit bleibt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "CardFields",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "30206eefd0ba698e8e01cab6da6be28bb204c6c24bed7acbaef8052aa9c1d96e",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+# TermDefinitions — the sentence in which a document says what a term is, copied verbatim.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: TermReadings, whose list holds every passage that says something about a term and so
+#   ranks a definition no higher than a remark. A question of the kind „what is X“ is best answered by the
+#   sentence that defines X, and a graph edge to that sentence (P_HE_DEFINES) can carry more weight than
+#   an edge to any mention. The graph laboratory's diagnosis (Plan/runs/graph-lab-2026-09-30/diagnose.md)
+#   found the misses to be ranking misses: the right pages are reached and outranked.
+# measured against: the first reading of each wiki page from a document (`## Reading`), which is
+#   usually its defining passage; the share of a page's definitions that this list's quotes land on.
+#   A quote is placed by read.py --find (P26).
+# may not: write a note, a reading or a page; decide which document's definition is right — where two
+#   documents define one term differently that is a conflict, and conflicts are read, never detected
+# retire when: for three documents its quotes land on none of the pages' first readings
+language: en
+name: TermDefinitions
+type: list
+tags: [definitions, quotes, german]
+description: 'Sentences in one German research document that say what a term is, each copied verbatim.'
+
+output:
+  description: 'One record per sentence that defines, glosses or explains what a term is.'
+  fields:
+    - name: term
+      type: str
+      description: 'The term being defined, as the document writes it.'
+      required: true
+    - name: quote
+      type: str
+      description: 'Exact contiguous words from ONE source line; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps.'
+      required: true
+    - name: stance
+      type: str
+      description: 'asserts: defines it as so. hedges: defines it provisionally or as a working assumption. cites: reports another source''s definition. denies: says what it is not. asks: poses what it is as a question.'
+      required: true
+
+guideline:
+  target: 'You read one German research document and collect, verbatim, the sentences that say what a term is, so that a person can read the definitions side by side.'
+  rules:
+    - 'A sentence counts when it defines, glosses or explains what the term is: „X ist …“, „X bezeichnet …“, „unter X wird … verstanden“, „X, d. h. …“, „X (…)“ with an explanation, or a heading followed by its defining sentence.'
+    - 'A sentence that only uses the term, or says what it does, causes or belongs to, is not a definition.'
+    - 'Copy each sentence character for character; never paraphrase, shorten it inside a sentence, or translate it.'
+    - 'Keep every definition as its own record, even when two say the same thing or contradict each other.'
+    - 'A definition the document attributes to another source is recorded with stance cites, not asserts.'
+
+options:
+  fields_for_search: [term, quote]
+
+display:
+  label: '{term}: {stance}'

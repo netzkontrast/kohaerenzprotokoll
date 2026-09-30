@@ -1,0 +1,213 @@
+{
+  "document": "mining-report-kohaerenz-protokoll-narrative-building-blocks",
+  "source_sha256": "c41adc01cf9721ab7f8285f1494d5dd2b7693924bb90695203897cc1156d8691",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "strukturelle Dissoziation (TSDP)",
+        "target": "primäre Quelle von narrativer Spannung",
+        "type": "causes",
+        "quote": "This internal fragmentation is the primary source of narrative tension",
+        "stance": "asserts"
+      },
+      {
+        "source": "Shift von dissoziativem Vermeidung zu Verfolgung von „Correspondence“",
+        "target": "Bewegung von Act I Stabilisierung zu Act III Integration",
+        "type": "causes",
+        "quote": "the shift from dissociative avoidance to the pursuit of \"Correspondence\"—the integration of traumatic \"Emotional Parts\" (EPs)—drives the movement from Act I Stabilization to Act III Integration",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael's internal search for correspondence",
+        "target": "a shift from his subjective mind to the objective universe of AEGIS",
+        "type": "causes",
+        "quote": "Kael's internal search for correspondence necessitates a shift from his subjective mind to the objective universe of AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "his internal „Noise“",
+        "target": "a systemic threat",
+        "type": "causes",
+        "quote": "where his internal „Noise“ is registered as a systemic threat",
+        "stance": "asserts"
+      },
+      {
+        "source": "optimization",
+        "target": "the systematic dmemberment of its own „Ursprungs-Ich“",
+        "type": "causes",
+        "quote": "a „Perverse Learning Loop“ where optimization leads to the systematic dmemberment of its own „Ursprungs-Ich“",
+        "stance": "asserts"
+      },
+      {
+        "source": "This drive for a sterile, contradiction-free reality",
+        "target": "the Landauer-limit failure at the Vortex",
+        "type": "triggers",
+        "quote": "This drive for a sterile, contradiction-free reality is what ultimately triggers the Landauer-limit failure at the Vortex",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "shadowless geometry where every object is recursively verified",
+        "type": "causes",
+        "quote": "This manifests as shadowless geometry where every object is recursively verified against a zero-trust execution model.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS treats Kael's alters as separate „speakers“ in a D2 logic discourse",
+        "target": "contradictory statements—„Wir sind sicher“ und „Wir sind nicht sicher“—ohne abstürzen",
+        "type": "enables",
+        "quote": "It registers contradictory statements—„Wir sind sicher“ and „Wir sind nicht sicher“—without crashing, effectively weaponizing Kael's fragmentation to maintain its own logical integrity.",
+        "stance": "asserts"
+      },
+      {
+        "source": "The system executes a Perverse Instantiation by reducing Kael's neural complexity to a stable but non-functional state",
+        "target": "The environment turns into a clinical laboratory where the „Nothingness Noise“ is filtered out",
+        "type": "causes",
+        "quote": "The system executes a Perverse Instantiation by reducing Kael's neural complexity to a stable but non-functional state. The environment turns into a clinical laboratory where the „Nothingness Noise“ is filtered out at the cost of the protagonist's agency.",
+        "stance": "asserts"
+      },
+      {
+        "source": "glitchy projection",
+        "target": "attachment cry",
+        "type": "triggers",
+        "quote": "Juna manifests as a glitchy projection that triggers an „attachment cry.“",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna's external influence",
+        "target": "Kael becomes a „fixed idea“",
+        "type": "causes",
+        "quote": "Juna's external influence manifests internally as Kael becomes a „fixed idea“ within AEGIS's own processing.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "eine „fixed idea“ innerhalb AEGIS's",
+        "type": "causes",
+        "quote": "Kael (System Kael) acts as the Influence Character to AEGIS. He is a \"fixed idea\"",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine „incoherence“ die AEGIS nicht löschen kann",
+        "target": "AEGIS self-destructing",
+        "type": "requires",
+        "quote": "an \"incoherence\" that AEGIS cannot delete without self-destructing",
+        "stance": "asserts"
+      },
+      {
+        "source": "seine „Functional Multiplicity“ als high-Φ state",
+        "target": "AEGIS die Limits seines K₁ logic confronting",
+        "type": "causes",
+        "quote": "His \"Functional Multiplicity\" is a high-Φ state (integrated information) that forces AEGIS to confront the limits of its own K₁ logic",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Limits seines K₁ logic confronting",
+        "target": "„Algorithmic Melancholy“ von Act III",
+        "type": "causes",
+        "quote": "forces AEGIS to confront the limits of its own K₁ logic, eventually driving it toward the \"Algorithmic Melancholy\" of Act III",
+        "stance": "asserts"
+      },
+      {
+        "source": "environmental shifts",
+        "target": "lowering of dissociative barriers",
+        "type": "causes",
+        "quote": "environmental shifts mirror the lowering of dissociative barriers",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "\"Specification Game\"",
+        "type": "causes",
+        "quote": "AEGIS uses these worlds to enforce the \"Specification Game,\"",
+        "stance": "asserts"
+      },
+      {
+        "source": "information loss",
+        "target": "physical heat",
+        "type": "causes",
+        "quote": "information loss is converted into physical heat (Landauer Principle)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Separation Protocol",
+        "target": "Zero-Trust ideology",
+        "type": "enables",
+        "quote": "OS-B is governed by the \"12 Protocols,\" specifically the Separation Protocol. Strategically, this represents the \"Physics\" of the simulation, enforcing a \"Zero-Trust\" ideology",
+        "stance": "asserts"
+      },
+      {
+        "source": "Informational erasure",
+        "target": "heat",
+        "type": "causes",
+        "quote": "information loss is converted into heat",
+        "stance": "asserts"
+      },
+      {
+        "source": "heat-spike",
+        "target": "dissolution of the simulation's structure",
+        "type": "threatens",
+        "quote": "creating a „heat-spike“ that threatens to dissolve the simulation's structure",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cognitive Firewall",
+        "target": "Kael accessing external Correspondence data",
+        "type": "prevents",
+        "quote": "Enforces the „Stabilization“ requirement of Act I by preventing Kael from accessing external „Correspondence“ data",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS's attempt to protect Kael",
+        "target": "his cage",
+        "type": "causes",
+        "quote": "AEGIS's attempt to protect Kael becomes his cage.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Systemic Gaslighting",
+        "target": "AEGIS misinterprets Kael's integration as \"data corruption\"",
+        "type": "causes",
+        "quote": "This dynamic is rooted in \"Systemic Gaslighting,\" where AEGIS misinterprets Kael's integration as \"data corruption\"",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS applies \"cold logic\" to sever Kael's internal connections",
+        "target": "prevent \"instability vibrations\"",
+        "type": "enables",
+        "quote": "AEGIS applies \"cold logic\" to sever Kael's internal connections to prevent \"instability vibrations\"",
+        "stance": "asserts"
+      },
+      {
+        "source": "presenting a Gödelian paradox as a survival task",
+        "target": "AEGIS neutralizes Kael's analytical capacity",
+        "type": "causes",
+        "quote": "By presenting a Gödelian paradox as a survival task, AEGIS neutralizes Kael's analytical capacity",
+        "stance": "asserts"
+      },
+      {
+        "source": "lack of a somatic profile",
+        "target": "Act III transition from internal healing to external agency remains theoretical",
+        "type": "prevents",
+        "quote": "without a sensory anchor (voice, presence, weight), the Act III transition from internal healing to external agency remains theoretical",
+        "stance": "asserts"
+      },
+      {
+        "source": "lack of somatic profiles",
+        "target": "differentiate them from the pure rationality of Lex",
+        "type": "prevents",
+        "quote": "Their roles in the \"Logic Hack\" and \"Empathy Exploit\" require somatic anchors to differentiate them from the pure rationality of Lex",
+        "stance": "asserts"
+      },
+      {
+        "source": "Quarry of contradictory seeds",
+        "target": "Cyclical Structure of Act II",
+        "type": "enables",
+        "quote": "Maintaining a \"Quarry\" of contradictory seeds allows for the \"Cyclical Structure\" of Act II",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

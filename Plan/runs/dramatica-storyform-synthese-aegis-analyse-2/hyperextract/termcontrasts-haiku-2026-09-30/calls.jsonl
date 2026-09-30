@@ -1,0 +1,40 @@
+{"ok": true, "seconds": 6.07, "input": 5225, "output": 417, "cost_usd": 0.012532}
+{"ok": true, "seconds": 4.58, "input": 5226, "output": 259, "cost_usd": 0.011744000000000001, "repaired_quotes": 3}
+{"ok": true, "seconds": 6.81, "input": 5229, "output": 514, "cost_usd": 0.013025}
+{"ok": true, "seconds": 3.2, "input": 5040, "output": 107, "cost_usd": 0.010612}
+{"ok": true, "seconds": 7.34, "input": 5279, "output": 627, "cost_usd": 0.01369, "repaired_quotes": 2}
+{"ok": true, "seconds": 5.89, "input": 5244, "output": 477, "cost_usd": 0.01287}
+{"ok": true, "seconds": 5.02, "input": 5136, "output": 375, "cost_usd": 0.012144, "repaired_quotes": 1}
+{"ok": true, "seconds": 4.73, "input": 5178, "output": 300, "cost_usd": 0.011852999999999999}
+{"ok": true, "seconds": 4.82, "input": 5265, "output": 359, "cost_usd": 0.012322}
+{"ok": true, "seconds": 7.25, "input": 5391, "output": 523, "cost_usd": 0.013394000000000001}
+{"ok": true, "seconds": 6.2, "input": 5316, "output": 432, "cost_usd": 0.012789}
+{"ok": true, "seconds": 7.02, "input": 5373, "output": 591, "cost_usd": 0.013698}
+{"ok": true, "seconds": 8.4, "input": 5272, "output": 800, "cost_usd": 0.014541000000000002, "repaired_quotes": 1}
+{"ok": true, "seconds": 5.51, "input": 5347, "output": 400, "cost_usd": 0.012691}
+{"ok": true, "seconds": 5.98, "input": 5316, "output": 420, "cost_usd": 0.012729}
+{"ok": true, "seconds": 4.85, "input": 5251, "output": 335, "cost_usd": 0.012174}
+{"ok": true, "seconds": 5.0, "input": 5100, "output": 350, "cost_usd": 0.011947}
+{"ok": true, "seconds": 5.09, "input": 5247, "output": 382, "cost_usd": 0.012401}
+{"ok": false, "seconds": 5.71, "input": 5315, "output": 446, "cost_usd": 0.012857, "kind": "invalid"}
+{"ok": true, "seconds": 5.85, "input": 5344, "output": 399, "cost_usd": 0.01268}
+{"ok": true, "seconds": 5.21, "input": 5188, "output": 439, "cost_usd": 0.012568000000000001}
+{"ok": true, "seconds": 6.9, "input": 5300, "output": 565, "cost_usd": 0.013422}
+{"ok": true, "seconds": 6.19, "input": 5076, "output": 564, "cost_usd": 0.012969000000000001}
+{"ok": true, "seconds": 6.73, "input": 5270, "output": 543, "cost_usd": 0.013252, "repaired_quotes": 4}
+{"ok": true, "seconds": 3.68, "input": 4849, "output": 210, "cost_usd": 0.010745}
+{"ok": true, "seconds": 3.74, "input": 5272, "output": 211, "cost_usd": 0.011596}
+{"ok": true, "seconds": 6.89, "input": 5351, "output": 532, "cost_usd": 0.013359000000000001}
+{"ok": true, "seconds": 3.46, "input": 4843, "output": 135, "cost_usd": 0.010358}
+{"ok": true, "seconds": 7.91, "input": 5349, "output": 713, "cost_usd": 0.01426}
+{"ok": true, "seconds": 6.36, "input": 5329, "output": 549, "cost_usd": 0.0134}
+{"ok": true, "seconds": 5.53, "input": 5263, "output": 422, "cost_usd": 0.012633, "repaired_quotes": 1}
+{"ok": true, "seconds": 5.7, "input": 5264, "output": 470, "cost_usd": 0.012875000000000001, "repaired_quotes": 2}
+{"ok": true, "seconds": 93.67, "input": 4831, "output": 88, "cost_usd": 0.010099, "repaired_quotes": 2}
+{"ok": true, "seconds": 5.54, "input": 5388, "output": 255, "cost_usd": 0.012048}
+{"ok": true, "seconds": 5.55, "input": 5470, "output": 408, "cost_usd": 0.012976999999999999}
+{"ok": true, "seconds": 4.43, "input": 5246, "output": 287, "cost_usd": 0.011924, "repaired_quotes": 1}
+{"ok": true, "seconds": 4.24, "input": 5359, "output": 217, "cost_usd": 0.0118}
+{"ok": true, "seconds": 3.74, "input": 5198, "output": 96, "cost_usd": 0.010873}
+{"ok": true, "seconds": 4.73, "input": 5153, "output": 356, "cost_usd": 0.012083}
+{"ok": true, "seconds": 2.49, "input": 5341, "output": 17, "cost_usd": 0.010764}

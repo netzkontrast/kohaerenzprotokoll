@@ -1,0 +1,53 @@
+# CastRoles — the role or function a document gives a figure of its world, with the sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the wiki's character pages and the storyform documents, which assign figures to roles (protagonist, antagonist, guardian of a
+#   world, a personality part of a system); AliasPairs' trial put such sentences under role_of and mistyped them as aliases.
+# measured against: the roles the character pages quote; a figure that resolves to a wiki term is the attachable subset. A quote is placed by read.py --find (P26).
+# may not: merge two figures, decide who a figure really is, or say two documents give a figure different roles — that is read
+# retire when: on three documents a person keeps no role beyond what the character pages already quote
+language: en
+name: CastRoles
+type: list
+tags: [roles, characters, cast, german]
+description: "The role or function a document gives a figure of its world, with the sentence, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The figure, exactly as the document writes it: a name, a designation, a part of a system."
+      required: true
+    - name: target
+      type: str
+      description: "The role, function or office, exactly as the document writes it."
+      required: true
+    - name: type
+      type: str
+      description: "role: a story role. function: what the figure does in the system. office: a duty it holds over a place or a group. part_of_system: it is a part of a larger figure or system. relation_to: a named relation to another figure."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German research document and collect, verbatim, the sentences that give a figure of its world a role or a function, so that a person can see who the document says does what."
+  rules:
+    - "Record a pair only when ONE sentence assigns the role: ist der, fungiert als, übernimmt die Rolle, verwaltet, ist zuständig für, Rolle:, or a table row with the figure and its role."
+    - "The figure is a name or a designation; the role a short phrase of at most five words. A description of temperament or appearance is not a role."
+    - "Both stand inside the quote."
+    - "A role the document doubts is recorded with stance hedges; one it denies with stance denies."
+    - "Never infer a role from behaviour described in another sentence or from background knowledge."
+    - "When the words do not assign a role, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

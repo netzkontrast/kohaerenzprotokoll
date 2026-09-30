@@ -53,7 +53,11 @@ and after.
 Usage:
     python3 scripts/link.py             # dry run: what would be marked, where
     python3 scripts/link.py --apply     # mark them
+    python3 scripts/link.py --only aegis kael --apply   # only these pages, by slug or path
     python3 scripts/link.py selftest    # a linked target is not marked again
+
+`--only` is for the pass after a reading batch: a page a batch did not change has no source document to name in
+its commit, so a pass over every page rewrote pages nothing in the batch touched (seven, on 2026-09-30).
 """
 
 from __future__ import annotations
@@ -176,6 +180,20 @@ def restore_surface(text: str, terms: dict[str, str]) -> str:
     return BARE.sub(swap, text)
 
 
+def only_files(files: list[Path], only: list[str] | None) -> list[Path]:
+    """The files a pass may touch: every one, or those a slug or a path names — a name that matches none is an error."""
+    if not only:
+        return files
+    keep, unmatched = [], []
+    for name in only:
+        stem = Path(name).stem
+        hit = [p for p in files if p.stem == stem and (Path(name).name == stem or str(p).endswith(str(name)))]
+        (keep if hit else unmatched).append(hit[0] if hit else name)
+    if unmatched:
+        raise SystemExit(f"--only names no page: {', '.join(unmatched)}")
+    return sorted(set(keep))
+
+
 def selftest() -> int:
     """Each case the defect it exists to name: a second link, a link in a quotation."""
     import tempfile
@@ -194,9 +212,18 @@ def selftest() -> int:
             got = {slug for _, slug, _ in proposals(path, targets)}
             if got != want:
                 failures.append(f"{name}: proposed {sorted(got)}, want {sorted(want)}")
+    pool = [Path("Wiki/candidates/aegis.md"), Path("Wiki/candidates/kael.md"), Path("Wiki/questions/q3.md")]
+    if only_files(pool, ["kael"]) != [pool[1]] or only_files(pool, ["Wiki/questions/q3.md", "aegis"]) != [pool[0], pool[2]] \
+            or only_files(pool, None) != pool:
+        failures.append("--only: a slug or a path picks its page, and none picks all")
+    try:
+        only_files(pool, ["no-such-page"])
+        failures.append("--only: a name that matches no page must stop the pass")
+    except SystemExit:
+        pass
     for failure in failures:
         print("FAIL", failure)
-    print(f"link selftest: {len(cases)} cases, {'held' if not failures else f'{len(failures)} FAILED'}")
+    print(f"link selftest: {len(cases) + 2} cases, {'held' if not failures else f'{len(failures)} FAILED'}")
     return 1 if failures else 0
 
 
@@ -207,11 +234,14 @@ def main() -> int:
     parser.add_argument("--apply", action="store_true")
     parser.add_argument("--restore-surfaces", action="store_true",
                         help="rewrite bare [[slug]] links to carry the page's term")
+    parser.add_argument("--only", nargs="+", metavar="PAGE",
+                        help="touch only these pages, by slug or path (a reading batch's own pages)")
     args = parser.parse_args()
 
     targets = {p.stem: term_of(p.stem) for p in sorted(PAGES.glob("*.md"))}
     files = [p for name in SOURCES
              for p in sorted((PAGES.parent / name).glob("*.md")) if p.stem != "README"]
+    files = only_files(files, args.only)
 
     if args.restore_surfaces:
         changed = 0

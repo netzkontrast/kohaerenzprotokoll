@@ -1,0 +1,156 @@
+{
+ "document": "flow-zustaende-und-dissoziative-identitaet",
+ "pages": {
+  "alters": {
+   "surfaces": [
+    "Alters"
+   ],
+   "read_on_count": 42,
+   "read_not_on_count": 1,
+   "unread_count": 174,
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     6,
+     126
+    ]
+   ],
+   "unread": [
+    [
+     "charakterkonzepte-fuer-kohaerenz-protokoll",
+     79,
+     "Alters",
+     29
+    ],
+    [
+     "kohaerenz-protokoll-konzept",
+     55,
+     "Alters",
+     19
+    ],
+    [
+     "kohaerenz-protokoll-plot-blueprint-erstellung",
+     48,
+     "Alters",
+     101
+    ],
+    [
+     "kohaerenz-protokoll-plot-entwicklungsauftrag",
+     38,
+     "Alters",
+     27
+    ],
+    [
+     "orte-konzept-fuer-kohaerenz-protokoll",
+     34,
+     "Alters",
+     29
+    ]
+   ],
+   "related": [
+    [
+     "bm25:49aa46fb85bb",
+     "line:the-coherence-protocol-a-world-bible:133",
+     "- Lowered amnesic barriers between alters."
+    ],
+    [
+     "bm25:1a59994d6a6b",
+     "line:charakterkonzepte-fuer-kohaerenz-protokoll:738",
+     "35. gatekeeper alters? : r/DID - Reddit, Zugriff am April 18, 2025, <https://www.reddit.com/r/DID/comments/115qa4y/gatekeeper_alters/>"
+    ],
+    [
+     "bm25:ce8e8e02c24a",
+     "line:kohaerenz-protokoll-forschungsaufgabe:347",
+     "38. Types of alters : r/DID - Reddit, Zugriff am Juli 29, 2025, <https://www.reddit.com/r/DID/comments/mwk07k/types_of_alters/>"
+    ]
+   ]
+  },
+  "entropie": {
+   "surfaces": [
+    "Entropie"
+   ],
+   "read_on_count": 34,
+   "read_not_on_count": 1,
+   "unread_count": 240,
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     32,
+     60
+    ]
+   ],
+   "unread": [
+    [
+     "emergenz-autonomer-systeme-aegis-forschung",
+     41,
+     "Entropie",
+     33
+    ],
+    [
+     "aegis-singularitaet-jenseits-entropiegleichung-2",
+     41,
+     "Entropie",
+     25
+    ],
+    [
+     "umfassendes-lokalitaeten-konzept-fuer-roman",
+     38,
+     "Entropie",
+     34
+    ],
+    [
+     "paradoxien-der-kohaerenz-protokoll-entwicklung",
+     32,
+     "Entropie",
+     19
+    ],
+    [
+     "lokalitaeten-konzept-fuer-roman-simulation",
+     31,
+     "Entropie",
+     37
+    ]
+   ],
+   "related": []
+  }
+ },
+ "related_new": 0,
+ "found": [
+  {
+   "id": "bm25:49aa46fb85bb",
+   "source": "term:alters",
+   "query": "Alters",
+   "target": "line:the-coherence-protocol-a-world-bible:133",
+   "target_text": "- Lowered amnesic barriers between alters.",
+   "score": -6.6389,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc flow-zustaende-und-dissoziative-identitaet",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:1a59994d6a6b",
+   "source": "term:alters",
+   "query": "Alters",
+   "target": "line:charakterkonzepte-fuer-kohaerenz-protokoll:738",
+   "target_text": "35. gatekeeper alters? : r/DID - Reddit, Zugriff am April 18, 2025, <https://www.reddit.com/r/DID/comments/115qa4y/gatekeeper_alters/>",
+   "score": -6.4981,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc flow-zustaende-und-dissoziative-identitaet",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:ce8e8e02c24a",
+   "source": "term:alters",
+   "query": "Alters",
+   "target": "line:kohaerenz-protokoll-forschungsaufgabe:347",
+   "target_text": "38. Types of alters : r/DID - Reddit, Zugriff am Juli 29, 2025, <https://www.reddit.com/r/DID/comments/mwk07k/types_of_alters/>",
+   "score": -6.3577,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc flow-zustaende-und-dissoziative-identitaet",
+   "at": "2026-09-30"
+  }
+ ]
+}

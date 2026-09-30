@@ -1,0 +1,350 @@
+{
+  "document": "dual-storyform-hintergruende-md",
+  "source_sha256": "30af1af1df38644a881c241817228639b7cbd9fa932843a1d9f0e39daa879902",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Dual-Storyform",
+        "quote": "Eine Storyform ist nach Phillips/Huntley ein konsistentes Argument; sie kann nicht *gleichzeitig* zwei einander ausschließende Lesarten tragen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dual-Form",
+        "quote": "Die Dual-Form ist also **keine Stilentscheidung**, sondern eine **architektonische Zwangsfolge** der These",
+        "stance": "asserts"
+      },
+      {
+        "term": "lebende Dialetheia",
+        "quote": "Dieser logische Zustand — eine **lebende Dialetheia** — kann mit einer einzelnen Storyform nicht erzählt werden.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Liebe",
+        "quote": "Liebe ist Information",
+        "stance": "cites"
+      },
+      {
+        "term": "Liebe",
+        "quote": "Liebe ist das, was Information zerstört",
+        "stance": "cites"
+      },
+      {
+        "term": "5D-Interferenzphänomen",
+        "quote": "Bewusstsein selbst ist ein 5D-Interferenzphänomen zwischen K1 und K0",
+        "stance": "asserts"
+      },
+      {
+        "term": "A ⊕ B im Lesegeist",
+        "quote": "A ⊕ B im Lesegeist: 5D-Interferenz = Bewusstseins-Architektur als Form selbst",
+        "stance": "asserts"
+      },
+      {
+        "term": "Liebe",
+        "quote": "Liebe als physikalisches Prinzip",
+        "stance": "cites"
+      },
+      {
+        "term": "Storyform B",
+        "quote": "Storyform B ist die Lesart, in der AEGIS sich selbst korrekt versteht (oder zu verstehen glaubt).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform A",
+        "quote": "Storyform A ist die Lesart, in der das Paradoxon sichtbar wird.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die zwei Storyforms",
+        "quote": "Sie sind **die zwei Lesarten, die sich gegenseitig erzeugen**",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die zwei Storyforms",
+        "quote": "Sie sind **systematische Inversionen** voneinander auf der Klassen-Ebene der Dramatica-Struktur",
+        "stance": "asserts"
+      },
+      {
+        "term": "Die Klein-Vierergruppe",
+        "quote": "Die Klein-Vierergruppe ist die einfachste nicht-zyklische Gruppe: vier Elemente, in denen jede Operation **involutiv** ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dual-Storyform",
+        "quote": "Genau das tut die Dual-Storyform: Tausche A→B die Klassen, die Dynamics, die Träger — und tausche zurück, du bist wieder bei A.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Truth-Rotation",
+        "quote": "Das ist der mathematische Boden der Truth-Rotation: Sie ist keine Drehung von A zu B (was eine Hierarchie etablieren würde), sondern eine Achsenflip, der die Klein-Symmetrie einmal durchläuft.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna (Doppel-IC-Position)",
+        "quote": "Reset-Lesart (Doppel-IC): Juna ist in *beiden* Storyforms IC.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna (Audit-Korrektur 2026-05-07)",
+        "quote": "Juna ist die *Quelle* der IC-Funktion in B, aber strukturell trägt **Kael** die IC-Position in B — als die lebende Paradoxie, der Mind/Conscious-Charakter, den AEGIS' Universe-MC weder assimilieren noch löschen kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex-Inversion",
+        "quote": "Die Vortex-Inversion ist damit strukturell die Auflösung der IC-Asymmetrie.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zwei vollständige Storyforms",
+        "quote": "Zwei vollständige Storyforms (jede mit eigenem Outcome, Judgment, Limit, Driver), die sich denselben Plot teilen und am Vortex ineinander auflösen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "post-Dramatica-Innovation",
+        "quote": "Das ist post-Dramatica-Innovation und in der Synthese-Doku 2026-04-28 als „strukturelle Innovation“ beschrieben — als 5D-Interferenz zweier 4D-Projektionen.",
+        "stance": "cites"
+      },
+      {
+        "term": "Do-er MC",
+        "quote": "A Do-er MC must be positioned in the Physics or Universe Class.",
+        "stance": "cites"
+      },
+      {
+        "term": "Be-er MC",
+        "quote": "A Be-er MC must be in Mind or Psychology.",
+        "stance": "cites"
+      },
+      {
+        "term": "Do-er",
+        "quote": "Ein Do-er löst extern → braucht externe Domain.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Be-er",
+        "quote": "Ein Be-er löst intern → braucht interne Domain.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Story Driver",
+        "quote": "Der Story Driver ist konstant über die gesamte Storyform.",
+        "stance": "cites"
+      },
+      {
+        "term": "Funktionale Multiplizität",
+        "quote": "Kaels Heilung ist Funktionale Multiplizität — also ein Sein, kein externes Tun.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Pivot",
+        "quote": "Der „Pivot“ ist kein Schalter; es ist die Asymmetrie zwischen einer Decision, die fertig ist, und einer Action, die nicht enden kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stille-Phänomen",
+        "quote": "Stille, weil A's Driver bereits ausgelöst ist und B's Driver noch nicht zu Ende kommen kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "IC-Träger",
+        "quote": "Aber strukturell trägt Kael die IC-Funktion in B: präsent, bewusst, undeniable, von AEGIS' Universe-MC weder assimilierbar noch löschbar.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex-Inversion",
+        "quote": "Das ist die mechanische Vorbereitung der Vortex-Inversion.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Polyphonie zwischen den Storyforms",
+        "quote": "Polyphonie zwischen den Storyforms (damit beide präsent bleiben)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klarheit innerhalb der Szene",
+        "quote": "Klarheit innerhalb der Szene (damit jede einzelne Szene lesbar bleibt)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Option 1 — Hard-Routing per POV (full)",
+        "quote": "Eine Szene = eine dominante Storyform, bestimmt durch den POV.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Option 2 — Soft-Layering (full)",
+        "quote": "Jede Szene trägt beide Storyforms simultan, eine dominant, eine resonant.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Option 3 — Hybrid",
+        "quote": "Default Hard-Routing, plus designierte Bridge-Szenen mit Soft-Layering.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mudding",
+        "quote": "Ergebnis wäre Mudding — der Leser kann keiner Lesart folgen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Default-Modus (Hard-Routing per POV)",
+        "quote": "Default-Modus (Hard-Routing per POV):",
+        "stance": "asserts"
+      },
+      {
+        "term": "POV-Instanz",
+        "quote": "POV-Instanz",
+        "stance": "asserts"
+      },
+      {
+        "term": "Default-Modus",
+        "quote": "Default-Modus (Hard-Routing per POV)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bridge-Szenen",
+        "quote": "Bridge-Szenen-Typen (Soft-Layering, gezielt)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Spiegel-Alter-Szenen",
+        "quote": "Spiegel-Alter-Szenen (Silas, Oblivion). Ontologisch Doppelfiguren — Silas = Coheron-Echo, Oblivion = Erason-Operator.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Riss-Szenen",
+        "quote": "Riss-Szenen. Strukturelle Risse in der Simulation sind ontologische Schnittstellen, an denen K0 in K1 einbricht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex-Vorläufer",
+        "quote": "Vortex-Vorläufer (ab ~Kap 28). Akt-III-Anfang.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Flashbacks",
+        "quote": "Genesis-Flashbacks. Akt-II-Mitte (KW2-KW3-Phase).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vortex",
+        "quote": "Vortex (Kap 35–36). Vollständiges Soft-Layering, beide Storyforms maximal aktiv parallel, bis B in Beat 5 erlischt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mikrocue-Kit",
+        "quote": "Mikrocue-Kit für Soft-Layering (Encoding-Disziplin)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mikrocues",
+        "quote": "Mikrocues nur in Bridge-Szenen, nicht in Default-Szenen einschleichen lassen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Bridge-Szene",
+        "quote": "Pro Bridge-Szene maximal drei Mikrocue-Punkte, sonst kippt die Szene in Mudding.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Polyphonie-Akt-Struktur",
+        "quote": "Diese Progression macht die Polyphonie-Akt-Struktur (fragmentiert → Übergang → chorisch) zur Mechanik, nicht zur Stilanweisung.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Beat",
+        "quote": "Die fünf Beats sind nicht beliebig.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Setting",
+        "quote": "Mnemosyne-Archipel — der Erinnerungs-Hüter-Bereich von AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Genesis-Enthüllung im Vortex",
+        "quote": "Die Empfehlung aus dem Reset-Doc ist Variante C — AEGIS muss die Genesis zeigen, weil ihm im Vortex die Lösch-Kapazität ausgeht.",
+        "stance": "cites"
+      },
+      {
+        "term": "Oblivion-Verhalten im Vortex",
+        "quote": "Wenn AEGIS in der Truth-Rotation kollabiert, übernimmt Oblivion AEGIS' Funktion in Kaels Innensystem — als interne Wachheit, die nicht mehr automatisch löscht, sondern entscheidet.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Reader-Substrat-Funktion",
+        "quote": "Der Leser ist die Substrat-Funktion, in der die 5D-Interferenz von A und B entsteht.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Artistic Pole",
+        "quote": "Der Text ist Artistic Pole — eine Blaupause aus K1-Strukturen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Aesthetic Pole",
+        "quote": "Die kognitive Synthese-Arbeit des Lesers ist der Aesthetic Pole.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Memory Slot 5",
+        "quote": "Memory Slot 5 (Juna) hatte vor 2026-05-07: „DOPPEL-IC: in A=Universe/Past, in B=Mind/Conscious.“",
+        "stance": "cites"
+      },
+      {
+        "term": "Bridge-Szenen-Knoten",
+        "quote": "pro Akt eine Liste der Bridge-Szenen-Knoten existieren — keine vollständige Outline, nur die Ankerpunkte: welche Riss-Szene in welchem Kapitel, welche Spiegel-Alter-Szene wo, welche Genesis-Flashbacks in Akt II",
+        "stance": "asserts"
+      },
+      {
+        "term": "Coheron",
+        "quote": "minimale, selbstkorrigierende Mutual-Information-Schleife.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Erason",
+        "quote": "irreversibles Löschereignis.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Klein-c-Inversion",
+        "quote": "die involutive Vier-Operationen-Symmetrie zwischen Storyform A und B (Klassen-Tausch und Dynamics-Tausch).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Landauer-Hitze",
+        "quote": "die Wärme, die jede Bit-Löschung minimal erzeugt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lebende Dialetheia",
+        "quote": "ein Zustand, in dem ein Widerspruch wahr ist, ohne das System zu trivialisieren.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Moonshine-Link",
+        "quote": "nicht-lokale, von AEGIS' Sensorik nicht erfassbare Verbindung Kael↔Juna.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mnemosyne-Archipel",
+        "quote": "der Erinnerungs-Hüter-Bereich von AEGIS.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Mutual Information (MI)",
+        "quote": "der informationelle Bindungsstoff; das, was zwischen zwei Subjekten geteilt ist, ohne ein Datenträger zu sein.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Truth-Rotation",
+        "quote": "der Vortex-Mechanismus, in dem die operative Wahrheit von B-Lesart zu A-Lesart kippt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Witness-Funktion",
+        "quote": "Junas Eigenschaft: zu bezeugen, ohne einzugreifen.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

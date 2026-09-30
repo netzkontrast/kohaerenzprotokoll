@@ -1,0 +1,12 @@
+{
+  "document": "dual-storyform-hintergruende-md",
+  "template": "TermContrasts.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 17,
+  "failed_calls": 0,
+  "seconds": 113.2,
+  "input_tokens": 90915,
+  "output_tokens": 9393,
+  "cost_usd": 0.2287,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 „Use Haiku agents to Backpoet hyperextract for all allready Read sources“"
+}

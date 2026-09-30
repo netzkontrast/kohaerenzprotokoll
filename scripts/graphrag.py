@@ -41,7 +41,8 @@ PageRank, so the number says whether the graph earns its step.
 
     python3 scripts/graphrag.py ask "Wie hängen die Guardians mit AEGIS zusammen?"
     python3 scripts/graphrag.py ask "…" --json
-    python3 scripts/graphrag.py bench [--k 8] [--record]
+    python3 scripts/graphrag.py ask "…" --comention 30           # the counted co-mention relation in the walk
+    python3 scripts/graphrag.py bench [--k 8] [--record] [--comention 30]
     python3 scripts/graphrag.py selftest
     .venv-dspy/bin/python scripts/graphrag.py ask "…" --answer --dry-run
     .venv-dspy/bin/python scripts/graphrag.py ask "…" --answer --model openrouter/… --approval "…"
@@ -130,16 +131,33 @@ def seeds(graph: dict, query: str, glosses: list[dict] | None = None) -> dict[st
     return found
 
 
-def pagerank(graph: dict, start: dict[str, float]) -> dict[str, float]:
-    """Personalized PageRank: restart at the seeds, walk typed edges both ways."""
+def pagerank(graph: dict, start: dict[str, float], weights: dict[str, float] | None = None,
+             hub: float = 0.0, spec: float = 0.0) -> dict[str, float]:
+    """Personalized PageRank: restart at the seeds, walk typed edges both ways.
+
+    `weights` maps an edge type to its weight and defaults to `WEIGHTS`; a type it
+    does not name is not walked. An edge may carry its own scale, `w`, which
+    multiplies its type's weight; the stated edges carry none. `graphlab.py` varies
+    both, so that what a relation type is worth is measured rather than chosen.
+
+    Two corrections for hubs, both off by default and both asked by `graphlab.py hub`
+    before anything turns them on: `hub` divides each node's rank by its degree to
+    that power — the walk's stationary mass grows with degree, so `aegis` and `juna`
+    outrank the pages around them whatever the query — and `spec` divides each seed's
+    restart weight by its degree to that power, so a seed that touches everything
+    pulls less than one that touches little (HippoRAG's node specificity).
+    """
     if not start:
         return {}
+    weights = WEIGHTS if weights is None else weights
     out: dict[str, list[tuple[str, float]]] = {}
     for e in graph["edges"]:
-        w = WEIGHTS.get(e["type"], 0.0)
+        w = weights.get(e["type"], 0.0) * e.get("w", 1.0)
         if w and e["source"] in graph["nodes"] and e["target"] in graph["nodes"]:
             out.setdefault(e["source"], []).append((e["target"], w))
             out.setdefault(e["target"], []).append((e["source"], w))
+    if spec:
+        start = {k: v / max(len(out.get(k, ())), 1) ** spec for k, v in start.items()}
     total = sum(start.values())
     restart = {k: v / total for k, v in start.items()}
     rank = dict(restart)
@@ -155,6 +173,8 @@ def pagerank(graph: dict, start: dict[str, float]) -> dict[str, float]:
             for target, w in links:
                 nxt[target] = nxt.get(target, 0.0) + DAMPING * mass * w / norm
         rank = nxt
+    if hub:
+        rank = {k: v / max(len(out.get(k, ())), 1) ** hub for k, v in rank.items()}
     return rank
 
 
@@ -186,17 +206,30 @@ def select_mmr(relevance: list[float], similar, budget: int = BUDGET,
     return chosen
 
 
-def retrieve(query: str, graph: dict | None = None, top_terms: int = TOP_TERMS,
-             budget: int = BUDGET, include_unchecked: bool = False, method: str = "ppr") -> dict:
-    graph = graph or kg.build()
-    prop = kg.proposals()
-    seeded = seeds(graph, query, prop["glosses"] if method.endswith("+gloss") else None)
+def ranked_terms(graph: dict, seeded: dict, method: str = "ppr", top_terms: int = TOP_TERMS,
+                 weights: dict[str, float] | None = None, hub: float = 0.0,
+                 spec: float = 0.0) -> tuple[dict[str, float], list[str]]:
+    """The rank of every node reached and the top term pages: what `retrieve` and the lab share."""
     if method.startswith("seeds"):
         rank = {k: w for k, (w, _) in seeded.items()}
     else:
-        rank = pagerank(graph, {k: w for k, (w, _) in seeded.items()})
+        rank = pagerank(graph, {k: w for k, (w, _) in seeded.items()}, weights, hub, spec)
     terms = sorted((k for k in rank if graph["nodes"].get(k, {}).get("type") == "term"),
                    key=lambda k: (-rank[k], k))[:top_terms]
+    return rank, terms
+
+
+def retrieve(query: str, graph: dict | None = None, top_terms: int = TOP_TERMS,
+             budget: int = BUDGET, include_unchecked: bool = False, method: str = "ppr",
+             weights: dict[str, float] | None = None, extra: list[dict] | None = None) -> dict:
+    """`extra` is a list of further relations for the walk, each `{source, target, type, w}`, walked at the weight
+    `weights` gives its type. Off by default: `ask.py` passes the counted co-mention relation only when asked."""
+    graph = graph or kg.build()
+    if extra:
+        graph = {**graph, "edges": graph["edges"] + extra}
+    prop = kg.proposals()
+    seeded = seeds(graph, query, prop["glosses"] if method.endswith("+gloss") else None)
+    rank, terms = ranked_terms(graph, seeded, method, top_terms, weights)
     peak = max((rank[k] for k in terms), default=1.0) or 1.0
 
     qv = vector(query)
@@ -356,13 +389,49 @@ def without(graph: dict, key: str) -> dict:
             "evidence": graph["evidence"]}
 
 
-def bench(k: int = TOP_TERMS) -> dict:
+def comention_pairs(con=None) -> dict[frozenset, dict]:
+    """The counted co-mention relation as the shared store holds it (`askextract.learn_comention`): page pair → the
+    documents that hold it and its normalised PMI. Read with sqlite3, so no GraphQLite is needed; refuses a stale
+    store like every reader of it. `con` is a connection, for a test."""
+    import sqlite3
+    own = con is None
+    if own:
+        import askdb
+        db = ROOT / "Plan" / "derived" / "ask.db"
+        why = askdb.fresh(db)
+        if why:
+            raise SystemExit(why)
+        con = sqlite3.connect(f"{db.resolve().as_uri()}?mode=ro", uri=True)
+    keys = dict(con.execute("SELECT key, id FROM property_keys"))
+    node = dict(con.execute("SELECT node_id, value FROM node_props_text WHERE key_id=?", (keys["id"],)))
+    ends = {e: (node[a], node[b]) for e, a, b in con.execute("SELECT id, source_id, target_id FROM edges WHERE type='P_COMENTION'")}
+    docs = dict(con.execute("SELECT edge_id, value FROM edge_props_int WHERE key_id=?", (keys["docs"],))) if "docs" in keys else {}
+    npmi = dict(con.execute("SELECT edge_id, value FROM edge_props_real WHERE key_id=?", (keys["npmi"],))) if "npmi" in keys else {}
+    if own:
+        con.close()
+    return {frozenset(ends[e]): {"docs": docs[e], "npmi": npmi.get(e, 0.0)} for e in ends if e in docs}
+
+
+def comention_edges(pairs: dict[frozenset, dict], min_docs: int = 2, square: bool = True) -> list[dict]:
+    """The relation as edges for `retrieve(extra=…)`: pairs held by at least `min_docs` documents with a positive npmi,
+    each scaled by the npmi (squared, the scale `graphlab.py comention` found best). The one place a pair is chosen;
+    the lab, `ask.py` and `bench` all ask it. Walked only at the weight given the type `comention`."""
+    return [{"source": a, "target": b, "type": "comention", "w": v["npmi"] ** 2 if square else v["npmi"],
+             "via": "counted over documents"}
+            for p, v in sorted(pairs.items(), key=lambda kv: sorted(kv[0])) if v["docs"] >= min_docs and v["npmi"] > 0
+            for a, b in [sorted(p)]]
+
+
+def bench(k: int = TOP_TERMS, comention: float = 0.0) -> dict:
     graph = kg.build()
     result = {}
+    extra = comention_edges(comention_pairs()) if comention else None
+    weights = {**WEIGHTS, "comention": comention} if comention else None
     for method in ("seeds", "ppr", "ppr+gloss"):
         rows = []
         for case in cases(graph):
-            pack = retrieve(case["query"], without(graph, case["id"]), top_terms=k, method=method)
+            pack = retrieve(case["query"], without(graph, case["id"]), top_terms=k, method=method,
+                            weights=weights, extra=extra)
             got = {t["id"] for t in pack["terms"]}
             hit = len(got & case["gold"])
             rows.append({"id": case["id"], "recall": round(hit / len(case["gold"]), 3) if case["gold"] else None,
@@ -412,6 +481,12 @@ def selftest() -> list[str]:
         failures.append(f"no route to the unread document naming Zettelkasten-Methode: {routes}")
     if "kohaerenz-protokoll" not in kg.proposals()["lists_skipped"]:
         failures.append("a list verify calls a reconstruction was used for routes")
+    fs = frozenset
+    pairs = {fs(("term:a", "term:b")): {"docs": 4, "npmi": 0.5}, fs(("term:a", "term:c")): {"docs": 1, "npmi": 0.9},
+             fs(("term:b", "term:c")): {"docs": 3, "npmi": -0.2}, fs(("term:a", "term:d")): {"docs": 2, "npmi": 0.4}}
+    got = {(e["source"], e["target"]): round(e["w"], 4) for e in comention_edges(pairs)}
+    if got != {("term:a", "term:b"): 0.25, ("term:a", "term:d"): 0.16}:
+        failures.append(f"co-mention edges: a pair in one document or with a negative npmi is no edge, and the scale is npmi squared: {got}")
     return failures
 
 
@@ -420,15 +495,16 @@ def main(argv: list[str]) -> int:
         problems = selftest()
         for p in problems:
             print(f"  FAIL  {p}")
-        print(f"graphrag: {9 - len(problems)} of 9 cases hold (MMR defect and floor, leave-out, "
-              "no seed, gloss off/on/ambiguous, unread route, reconstruction skipped)")
+        print(f"graphrag: {10 - len(problems)} of 10 cases hold (MMR defect and floor, leave-out, "
+              "no seed, gloss off/on/ambiguous, unread route, reconstruction skipped, co-mention edges)")
         return 1 if problems else 0
     if not argv or argv[0] not in ("ask", "bench"):
         print(__doc__)
         return 2
     if argv[0] == "bench":
         k = int(argv[argv.index("--k") + 1]) if "--k" in argv else TOP_TERMS
-        result = bench(k)
+        co = float(argv[argv.index("--comention") + 1]) if "--comention" in argv else 0.0
+        result = bench(k, co)
         for method, rows in result.items():
             scored = [r["recall"] for r in rows if r["recall"] is not None]
             unseeded = sum(1 for r in rows if not r["seeded"])
@@ -445,7 +521,7 @@ def main(argv: list[str]) -> int:
                 baseline.append(baseline.row(
                     "graphrag-retrieval", method, {r["id"]: r["recall"] for r in rows},
                     program={"method": method, "weights": WEIGHTS, "damping": DAMPING, "k": k,
-                             "lambda": DIVERSITY_LAMBDA, "floor": MIN_RELEVANCE},
+                             "lambda": DIVERSITY_LAMBDA, "floor": MIN_RELEVANCE, **({"comention": co} if co else {})},
                     trainset=[(c["id"], sorted(c["gold"])) for c in cases(graph)],
                     note=f"recall@{k} of pages, the case's own node removed"))
             print("recorded to Plan/runs/baselines.jsonl — compare with: "
@@ -453,10 +529,13 @@ def main(argv: list[str]) -> int:
         return 0
 
     query = " ".join(a for a in argv[1:] if not a.startswith("--") and
-                     argv[argv.index(a) - 1] not in ("--model", "--approval", "--budget"))
+                     argv[argv.index(a) - 1] not in ("--model", "--approval", "--budget", "--comention"))
     budget = int(argv[argv.index("--budget") + 1]) if "--budget" in argv else BUDGET
+    co = float(argv[argv.index("--comention") + 1]) if "--comention" in argv else 0.0
     pack = retrieve(query, budget=budget, include_unchecked="--unchecked" in argv,
-                    method="ppr+gloss" if "--gloss" in argv else "ppr")
+                    method="ppr+gloss" if "--gloss" in argv else "ppr",
+                    weights={**WEIGHTS, "comention": co} if co else None,
+                    extra=comention_edges(comention_pairs()) if co else None)
     if "--answer" in argv:
         model = argv[argv.index("--model") + 1] if "--model" in argv else None
         approval = argv[argv.index("--approval") + 1] if "--approval" in argv else None

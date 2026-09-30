@@ -1,0 +1,507 @@
+{
+  "document": "detaillierte-kapiteluebersicht",
+  "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+  "template_sha256": "32adc4e34e82f15c1e9b5ad4e656e155bf997bd9ac7d7f0c4abe1d1dc8b93448",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "1. **Das Rauschen nach der Stille:**",
+        "target": "Kaels Erwachen in der sterilen Konstrukt-Stadt (KW1) mit Amnesie",
+        "type": "hook_in",
+        "quote": "gefolgt von Kaels Erwachen in der sterilen Konstrukt-Stadt (KW1) mit Amnesie",
+        "stance": "asserts"
+      },
+      {
+        "source": "1. **Das Rauschen nach der Stille:**",
+        "target": "erste subtile „Risse“ in der Realität",
+        "type": "hook_out",
+        "quote": "ersten subtilen „Risse“ in der Realität",
+        "stance": "asserts"
+      },
+      {
+        "source": "2. **Protokoll 734: Kohärenz-Initialisierung:**",
+        "target": "AEGIS",
+        "type": "who",
+        "quote": "Aus der kalten, analytischen Perspektive von AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "2. **Protokoll 734: Kohärenz-Initialisierung:**",
+        "target": "Zustand von „Subjekt Kael“ nach dem Reboot bewertet",
+        "type": "want",
+        "quote": "wird der Zustand von „Subjekt Kael“ nach dem Reboot bewertet",
+        "stance": "asserts"
+      },
+      {
+        "source": "3. **Echos in der Konstrukt-Stadt:**",
+        "target": "unerklärliche emotionale Wellen (Angst, Wut) und sensorische Fragmente",
+        "type": "hook_in",
+        "quote": "Kael erlebt die ersten klaren EP-Intrusionen – unerklärliche emotionale Wellen (Angst, Wut) und sensorische Fragmente",
+        "stance": "asserts"
+      },
+      {
+        "source": "4. **Der Duft von Regen auf trockenem Grund:**",
+        "target": "erste, subtile Manifestation der Juna/V-Verbindung",
+        "type": "object",
+        "quote": "Die erste, subtile Manifestation der Juna/V-Verbindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "4. **Der Duft von Regen auf trockenem Grund:**",
+        "target": "ein sensorisches Detail, das für AEGIS nicht existiert, aber in Kael eine tiefe, unerklärliche Sehnsucht weckt",
+        "type": "hook_out",
+        "quote": "ein sensorisches Detail, das für AEGIS nicht existiert, aber in Kael eine tiefe, unerklärliche Sehnsucht weckt",
+        "stance": "asserts"
+      },
+      {
+        "source": "5. **Logische Fehlschlüsse und die Farbe Blau:**",
+        "target": "Lex",
+        "type": "who",
+        "quote": "Kael begegnet dem rationalen Anteil **Lex**",
+        "stance": "asserts"
+      },
+      {
+        "source": "5. **Logische Fehlschlüsse und die Farbe Blau:**",
+        "target": "Kaels kognitive Dissonanz nur verschärft",
+        "type": "cost",
+        "quote": "was Kaels kognitive Dissonanz nur verschärft",
+        "stance": "asserts"
+      },
+      {
+        "source": "6. **Bedrohungsanalyse: Die Juna-Anomalie:**",
+        "target": "AEGIS' Sensoren registrieren die Auswirkungen der Juna/V-Resonanz als unkorrelierte, hoch-entropische Systemfehler",
+        "type": "hook_in",
+        "quote": "AEGIS' Sensoren registrieren die Auswirkungen der Juna/V-Resonanz als unkorrelierte, hoch-entropische Systemfehler",
+        "stance": "asserts"
+      },
+      {
+        "source": "6. **Bedrohungsanalyse: Die Juna-Anomalie:**",
+        "target": "beginnen, die Quelle der „Kontamination“ zu suchen",
+        "type": "want",
+        "quote": "beginnen, die Quelle der „Kontamination“ zu suchen",
+        "stance": "asserts"
+      },
+      {
+        "source": "7. **Die Landkarte der Erinnerung:**",
+        "target": "Kael betritt unwillentlich die Resonanz-Landschaft (KW2)",
+        "type": "hook_in",
+        "quote": "Kael betritt unwillentlich die Resonanz-Landschaft (KW2)",
+        "stance": "asserts"
+      },
+      {
+        "source": "7. **Die Landkarte der Erinnerung:**",
+        "target": "chaotische, emotionale Natur seiner fragmentierten Vergangenheit",
+        "type": "hook_out",
+        "quote": "wird mit der chaotischen, emotionalen Natur seiner fragmentierten Vergangenheit konfrontiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. **Axiom der Vermeidung:**",
+        "target": "Lex",
+        "type": "who",
+        "quote": "Aus der Perspektive von Lex",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. **Axiom der Vermeidung:**",
+        "target": "die gefährlichen, irrationalen Zonen von KW2 zu meiden und die emotionalen Anteile (EPs) zu unterdrücken",
+        "type": "want",
+        "quote": "die gefährlichen, irrationalen Zonen von KW2 zu meiden und die emotionalen Anteile (EPs) zu unterdrücken",
+        "stance": "asserts"
+      },
+      {
+        "source": "9. **Ein Riss in der perfekten Fassade:**",
+        "target": "massiver „Riss“ in KW1",
+        "type": "hook_in",
+        "quote": "Ein massiver „Riss“ in KW1",
+        "stance": "asserts"
+      },
+      {
+        "source": "9. **Ein Riss in der perfekten Fassade:**",
+        "target": "Kaels Vertrauen in seine Realität unwiderruflich erschüttert",
+        "type": "irreversible",
+        "quote": "was Kaels Vertrauen in seine Realität unwiderruflich erschüttert",
+        "stance": "asserts"
+      },
+      {
+        "source": "9. **Ein Riss in der perfekten Fassade:**",
+        "target": "Ein massiver „Riss“ in KW1",
+        "type": "object",
+        "quote": "Ein massiver „Riss“ in KW1 offenbart kurzzeitig die dahinterliegende, chaotische Architektur der Simulation",
+        "stance": "asserts"
+      },
+      {
+        "source": "9. **Ein Riss in der perfekten Fassade:**",
+        "target": "Kaels Vertrauen in seine Realität unwiderruflich erschüttert",
+        "type": "irreversible",
+        "quote": "was Kaels Vertrauen in seine Realität unwiderruflich erschüttert",
+        "stance": "asserts"
+      },
+      {
+        "source": "10. **Perverse Instantiierung: Korrekturprotokoll Delta:**",
+        "target": "AEGIS reagiert mit einer „perversen Instantiierung“ seiner Direktive",
+        "type": "event",
+        "quote": "AEGIS reagiert auf den Riss mit einer „perversen Instantiierung“ seiner Direktive",
+        "stance": "asserts"
+      },
+      {
+        "source": "10. **Perverse Instantiierung: Korrekturprotokoll Delta:**",
+        "target": "verstärkt die Kontrollparameter und macht KW1 noch unterdrückender und rigider",
+        "type": "want",
+        "quote": "verstärkt es die Kontrollparameter und macht KW1 noch unterdrückender und rigider",
+        "stance": "asserts"
+      },
+      {
+        "source": "11. **Die Angst hat einen Namen:**",
+        "target": "Kiko",
+        "type": "who",
+        "quote": "der Kind-Anteil **Kiko**",
+        "stance": "asserts"
+      },
+      {
+        "source": "11. **Die Angst hat einen Namen:**",
+        "target": "vollständige Intrusion des Kind-Anteils Kiko",
+        "type": "event",
+        "quote": "Kael erlebt eine vollständige Intrusion des Kind-Anteils **Kiko**",
+        "stance": "asserts"
+      },
+      {
+        "source": "11. **Die Angst hat einen Namen:**",
+        "target": "Zustand lähmender Angst (Freeze-Reaktion)",
+        "type": "cost",
+        "quote": "in einen Zustand lähmender Angst (Freeze-Reaktion) getrieben wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "12. **Der Geschmack von Wut:**",
+        "target": "Nyx",
+        "type": "who",
+        "quote": "der Kämpfer-Anteil **Nyx**",
+        "stance": "asserts"
+      },
+      {
+        "source": "12. **Der Geschmack von Wut:**",
+        "target": "Ausbruch destruktiver, aber schützender Aggression",
+        "type": "event",
+        "quote": "reagiert mit einem Ausbruch destruktiver, aber schützender Aggression",
+        "stance": "asserts"
+      },
+      {
+        "source": "13. **Die erste Schwelle:**",
+        "target": "bewusste Entscheidung, nicht länger den Regeln von AEGIS zu folgen",
+        "type": "want",
+        "quote": "trifft die bewusste Entscheidung, nicht länger den Regeln von AEGIS zu folgen",
+        "stance": "asserts"
+      },
+      {
+        "source": "13. **Die erste Schwelle:**",
+        "target": "aktiv die Ursache der „Risse“ – und damit sich selbst – zu ergründen",
+        "type": "want",
+        "quote": "sondern aktiv die Ursache der „Risse“ – und damit sich selbst – zu ergründen",
+        "stance": "asserts"
+      },
+      {
+        "source": "1. **Resonanz und Dissonanz:**",
+        "target": "Juna/V",
+        "type": "who",
+        "quote": "auf die subtilen Signale von Juna/V zu achten",
+        "stance": "asserts"
+      },
+      {
+        "source": "2. **Die unmögliche Geographie der Seele:**",
+        "target": "Mnemosyne",
+        "type": "who",
+        "quote": "Kael konfrontiert den Guardian **Mnemosyne** in KW2",
+        "stance": "asserts"
+      },
+      {
+        "source": "2. **Die unmögliche Geographie der Seele:**",
+        "target": "KW2",
+        "type": "place",
+        "quote": "Kael konfrontiert den Guardian **Mnemosyne** in KW2",
+        "stance": "asserts"
+      },
+      {
+        "source": "3. **Fehlerkaskade: D2-Modul-Inkonsistenz:**",
+        "target": "D2-Logik-Modul",
+        "type": "object",
+        "quote": "AEGIS' D2-Logik-Modul, das Kaels Anteile als separate Sprecher behandelt, gerät in eine Krise",
+        "stance": "asserts"
+      },
+      {
+        "source": "4. **Dialog in der Dunkelheit:**",
+        "target": "Rhys",
+        "type": "who",
+        "quote": "Der empathische Anteil **Rhys** vermittelt zwischen Lex und Nyx",
+        "stance": "asserts"
+      },
+      {
+        "source": "5. **Die Logik der Festung:**",
+        "target": "Cerberus-Labyrinth",
+        "type": "place",
+        "quote": "Kael betritt das Cerberus-Labyrinth (KW3)",
+        "stance": "asserts"
+      },
+      {
+        "source": "5. **Die Logik der Festung:**",
+        "target": "KW3",
+        "type": "place",
+        "quote": "Kael betritt das Cerberus-Labyrinth (KW3)",
+        "stance": "asserts"
+      },
+      {
+        "source": "7. **Die positive Absicht der Wut:**",
+        "target": "Nyx",
+        "type": "who",
+        "quote": "dass Nyx' Aggression nicht destruktiv ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "Möglichkeiten-Garten",
+        "type": "place",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4)",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "KW4",
+        "type": "place",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4)",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "Lia",
+        "type": "who",
+        "quote": "wahre Kreativität (repräsentiert durch **Lia**) aus der Akzeptanz von Unsicherheit entsteht",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "Möglichkeiten-Garten (KW4)",
+        "type": "place",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4)",
+        "stance": "asserts"
+      },
+      {
+        "source": "8. **Ein Garten der unmöglichen Pfade:**",
+        "target": "wahre Kreativität aus der Akzeptanz von Unsicherheit",
+        "type": "want",
+        "quote": "Hier lernt er, dass wahre Kreativität (repräsentiert durch **Lia**) aus der Akzeptanz von Unsicherheit entsteht",
+        "stance": "asserts"
+      },
+      {
+        "source": "9. **Die Waffen eines Kerkermeisters:**",
+        "target": "Alex",
+        "type": "who",
+        "quote": "Der pragmatische Beschützer **Alex** übernimmt die Führung",
+        "stance": "asserts"
+      },
+      {
+        "source": "9. **Die Waffen eines Kerkermeisters:**",
+        "target": "Strategien zur Verteidigung gegen AEGIS' psychologische Kriegsführung",
+        "type": "want",
+        "quote": "entwickelt erste Strategien zur Verteidigung gegen dessen psychologische Kriegsführung",
+        "stance": "asserts"
+      },
+      {
+        "source": "10. **Analyse-Paralyse:**",
+        "target": "Argus",
+        "type": "who",
+        "quote": "Der Meta-Beobachter **Argus** wird aktiv",
+        "stance": "asserts"
+      },
+      {
+        "source": "10. **Analyse-Paralyse:**",
+        "target": "logische Lähmung",
+        "type": "cost",
+        "quote": "was Lex in einen Zustand logischer Lähmung versetzt",
+        "stance": "asserts"
+      },
+      {
+        "source": "11. **Die Last der Empathie:**",
+        "target": "Rhys",
+        "type": "who",
+        "quote": "Rhys versucht, den kollabierten Anteil **Moros** zu erreichen",
+        "stance": "asserts"
+      },
+      {
+        "source": "11. **Die Last der Empathie:**",
+        "target": "an den Rand der Verzweiflung getrieben",
+        "type": "cost",
+        "quote": "wird dabei selbst an den Rand der Verzweiflung getrieben",
+        "stance": "asserts"
+      },
+      {
+        "source": "12. **Pathologische Anpassung:**",
+        "target": "parakonsistente Logik",
+        "type": "want",
+        "quote": "AEGIS beginnt, als Reaktion auf Kaels unvorhersehbares Verhalten, rudimentäre parakonsistente Logik zu entwickeln",
+        "stance": "asserts"
+      },
+      {
+        "source": "13. **Die Wahrheit im Riss (Midpoint):**",
+        "target": "Juna/V-Verbindung",
+        "type": "obstacle",
+        "quote": "AEGIS' Versuch, die Juna/V-Verbindung gewaltsam zu kappen",
+        "stance": "asserts"
+      },
+      {
+        "source": "13. **Die Wahrheit im Riss (Midpoint):**",
+        "target": "Welle der Instabilität, die die gesamte Simulation bedroht",
+        "type": "irreversible",
+        "quote": "führt zu einer katastrophalen „Welle“ der Instabilität, die die gesamte Simulation bedroht",
+        "stance": "asserts"
+      },
+      {
+        "source": "13. **Die Wahrheit im Riss (Midpoint):**",
+        "target": "vollständige innere Integration",
+        "type": "want",
+        "quote": "die einzige Lösung in der vollständigen inneren Integration liegt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "die inneren Barrieren brechen zusammen",
+        "type": "event",
+        "quote": "Nach der „Welle“ brechen die inneren Barrieren zusammen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "permanentes Mit-Bewusstsein",
+        "type": "cost",
+        "quote": "Die Anteile sind gezwungen, in einem Zustand des permanenten Mit-Bewusstseins zu existieren, was schmerzhaft, aber notwendig für den nächsten Schritt ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Isabellas sexualisierte Kontrollstrategie wird als Trauma-Reaktion entlarvt",
+        "type": "event",
+        "quote": "Die sexualisierte Kontrollstrategie von Isabelle wird als Trauma-Reaktion entlarvt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "neue Form von Autonomie und gesunden Grenzen",
+        "type": "want",
+        "quote": "durch eine neue Form von Autonomie und gesunden Grenzen ersetzt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Juna/V-Verbindung wird zu einem klaren, bewussten Kanal",
+        "type": "event",
+        "quote": "Die Juna/V-Verbindung wird von einer subtilen Resonanz zu einem klaren, bewussten Kanal.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Juna/V kommuniziert direkt mit System Kael",
+        "type": "event",
+        "quote": "Juna/V kommuniziert nun direkt mit dem integrierten „System Kael“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Kael erreicht stabilen Zustand innerer Kooperation",
+        "type": "event",
+        "quote": "Kael erreicht einen stabilen Zustand der inneren Kooperation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Anteile agieren als koordiniertes Team",
+        "type": "want",
+        "quote": "Die Anteile agieren als koordiniertes Team.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Prosa nimmt „chorischen“ Stil an",
+        "type": "event",
+        "quote": "Die Prosa nimmt den „chorischen“ Stil an, der diese Einheit performt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Kael beginnt, Grounding-Artefakte wahrzunehmen und ihre Bedeutung zu verstehen",
+        "type": "event",
+        "quote": "Kael beginnt, die „Grounding-Artefakte“ des Fundaments nicht nur wahrzunehmen, sondern ihre Bedeutung zu verstehen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "das „Gödel-Gambit“ – gezielter, logischer Angriff auf AEGIS' Kernaxiome",
+        "type": "want",
+        "quote": "Kael und Juna formulieren das „Gödel-Gambit“ – einen gezielten, logischen Angriff auf AEGIS' Kernaxiome.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Kael setzt Fähigkeit, Widersprüche zu halten, als Waffe ein",
+        "type": "want",
+        "quote": "Kael setzt seine neue Fähigkeit, Widersprüche zu halten, als Waffe ein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Guardian-Logik zum Absturz gezwungen",
+        "type": "event",
+        "quote": "Er konfrontiert einen Guardian mit einer paradoxen Wahrheit und zwingt dessen Logik zum Absturz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "Juna/V hilft Kael, integrierten, paradoxen Seinszustand dem Kern von AEGIS zu präsentieren",
+        "type": "event",
+        "quote": "Juna/V hilft Kael, seinen integrierten, paradoxen Seinszustand direkt dem Kern von AEGIS zu präsentieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 27-34",
+        "target": "epistemologischer Sieg, der AEGIS' Transformation erzwingt",
+        "type": "event",
+        "quote": "Dies ist der epistemologische Sieg, der AEGIS' Transformation erzwingt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35-40",
+        "target": "AEGIS erstarrt in einem Zustand der Transformation, geprägt von „ineffizienter Schönheit“ und kontemplativer Lähmung",
+        "type": "place",
+        "quote": "AEGIS kollabiert nicht, sondern erstarrt in einem Zustand der Transformation, geprägt von „ineffizienter Schönheit“ und kontemplativer Lähmung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35-40",
+        "target": "Kael erlangt Gnosis durch die Verbindung zum Fundament",
+        "type": "want",
+        "quote": "Kael erlangt durch die Verbindung zum Fundament Gnosis",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35-40",
+        "target": "Fragment 'O'",
+        "type": "object",
+        "quote": "Kael entdeckt das **Fragment 'O'**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35-40",
+        "target": "eine andere Version seiner selbst akzeptieren, ohne sie nach seinem Bild formen zu wollen",
+        "type": "want",
+        "quote": "eine andere Version seiner selbst zu akzeptieren, ohne sie nach seinem Bild formen zu wollen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kapitel 35-40",
+        "target": "in einer Realität zu leben, die nicht mehr auf Effizienz, sondern auf paradoxer Wahrheit und Akzeptanz beruht",
+        "type": "want",
+        "quote": "in einer Realität zu leben, die nicht mehr auf Effizienz, sondern auf paradoxer Wahrheit und Akzeptanz beruht",
+        "stance": "asserts"
+      }
+    ]
+  }
+}
