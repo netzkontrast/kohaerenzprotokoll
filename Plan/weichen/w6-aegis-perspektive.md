@@ -1,13 +1,10 @@
 ---
 id: W6
-status: offen            # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W3, W7, W5, W4, C8, C14]
-schaltet_frei: [W3, W5, W7]
-kapitel: "0, 5–8, 14, 22, 25, 34"
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: ""
 empfehlung: "B"
-empfehlung_von: session  # provisional — Felder aus elf Blättern; siehe Plan/concept/entscheidungsprozess_2026-09-30.md
 ---
 
 # W6 — Wie nah darf der Leser an AEGIS heran?

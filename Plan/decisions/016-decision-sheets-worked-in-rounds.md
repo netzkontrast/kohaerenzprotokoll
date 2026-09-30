@@ -18,8 +18,7 @@ The proposal is `Plan/concept/entscheidungsprozess_2026-09-30.md`.
   as a working assumption is marked in the text and never counts as decided.
 - **One decision file per round**, in `Plan/decisions/`, plus the sheet's `status` and the
   record the answer closes where there is one (C6 and C9 are the pattern).
-- **Sheets get a front-matter head** (`id`, `status`, `hängt_ab_von`, `schaltet_frei`, `kapitel`,
-  `frage_art`, `auslöser`, `empfehlung`). Provisional: the fields come from eleven sheets, not
+- **Sheets get a front-matter head** (six fields: `id`, `status`, `hängt_ab_von`, `frage_art`, `auslöser`, `empfehlung`). Provisional: the fields come from eleven sheets, not
   from a rule. **A checking script is proposed only after the first round has used the fields.**
 
 ## What was rejected
@@ -31,3 +30,7 @@ or only in the records; building the head and the script before use (P3, P4).
 
 A round in which the head fields were not used, or a cross-read that found nothing the sheets
 alone did not show. Either retires the field or the step.
+
+## Amended 2026-09-30, after `/simplify`
+
+The head first had eight fields. `schaltet_frei` is derivable from the others' `hängt_ab_von`, `kapitel` duplicates the sheet's text and `empfehlung_von` is always the session until `status` says otherwise; none is read by a step of the process, so they were dropped. The five stages are three (cross-read, ask, record and follow up). Nothing the author chose changed.
