@@ -1,0 +1,139 @@
+{
+ "id": "ask-2026-09-30-5743d473",
+ "tier": "M-ask",
+ "question": "Welche Wahrheit darf wann lesbar werden? Welche Dokumente, besonders ungelesene, sprechen darüber, und was sagen sie?",
+ "kind": "locate",
+ "backend": "session",
+ "attempt": 0,
+ "model": "session/sonnet",
+ "answered": "2026-09-30T12:07:25",
+ "run": "Plan/runs/ask/2026-09-30-5743d473/",
+ "pack_hash": "4e9ef286a5d48a47cc7362d8207fb9f0f51d42fe0e789eeca1cf7a677cd2633d",
+ "status": "answered",
+ "answerable": "partly",
+ "counts": {
+  "placed": 9,
+  "unresolved": 0,
+  "outside-pack": 0,
+  "outside-window": 0
+ },
+ "claims": [
+  {
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "says": "Das gelesene Dokument setzt Drafting-Regeln: Kein philosophischer Begriff darf im Prosatext erscheinen; Wahrheit zeigt sich erst, wenn man aufhört zu sagen, was nicht wahr ist, und Juna wirkt als das, worüber AEGIS nicht sprechen kann.",
+   "quotes": [
+    {
+     "text": "Kein philosophischer Begriff erscheint im Prosatext.",
+     "line": 773,
+     "cite": "^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L773]"
+    },
+    {
+     "text": "Wahrheit ist nicht das, was man sagt — sondern das, was sich zeigt, wenn man aufhört zu sagen, was nicht wahr ist.",
+     "line": 821,
+     "cite": "^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L821]"
+    },
+    {
+     "text": "Juna ist genau das, worüber AEGIS nicht sprechen kann, und sie wirkt trotzdem.",
+     "line": 135,
+     "cite": "^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L135]"
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+   "says": "Das ungelesene Dokument will die AEGIS-Dokumente als Fassade behandeln, die im 3. Akt ihre Gültigkeit verliert, und das Material der inneren Wahrheit nur dosiert einspeisen.",
+   "quotes": [
+    {
+     "text": "Das Master-Konzept muss vorsehen, dass diese Dokumente im 3. Akt (Singularität) ihre Gültigkeit verlieren (Parakonsistenz).",
+     "line": 200,
+     "cite": "^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:L200]"
+    },
+    {
+     "text": "Sie müssen in kleinen Dosen (Titration) in die Mosaik-Slots eingespeist werden.",
+     "line": 186,
+     "cite": "^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:L186]"
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-konzept-master-md",
+   "says": "Das gelesene Dokument nennt Phänomene, die sich nicht aussagen lassen, sondern zeigen.",
+   "quotes": [
+    {
+     "text": "Diese Phänomene sind nicht in assertorischen Sätzen formulierbar",
+     "line": 698,
+     "cite": "^[kohaerenz-protokoll-konzept-master-md.md:L698]"
+    }
+   ]
+  },
+  {
+   "doc": "projektplanung-fuer-kohaerenz-protokoll",
+   "says": "Das ungelesene Dokument legt für das letzte Kapitel fest, dass der Leser die Wahrheit selbst konstruieren muss.",
+   "quotes": [
+    {
+     "text": "Der Leser muss die Wahrheit selbst konstruieren.",
+     "line": 219,
+     "cite": "^[projektplanung-fuer-kohaerenz-protokoll.md:L219]"
+    }
+   ]
+  },
+  {
+   "doc": "master-konzept-kohaerenz-protokoll-analyse",
+   "says": "Das ungelesene Dokument ordnet Dokumente, die sich mit Wahrheit und Brüchen befassen, dem korrespondierenden Typ zu, der der Konfrontation dient.",
+   "quotes": [
+    {
+     "text": "Dokumente, die sich mit dem Inhalt, dem Trauma, der Wahrheit, den Emotionen, den Brüchen und der physischen Realität befassen.",
+     "line": 152,
+     "cite": "^[master-konzept-kohaerenz-protokoll-analyse.md:L152]"
+    }
+   ]
+  },
+  {
+   "doc": "gravitation-realitaet-simulation-wahrheit-2",
+   "says": "Das ungelesene Dokument deutet das Scheitern einer Figur zu sprechen als Schlicks Konstatierungen, die nicht geteilt werden können.",
+   "quotes": [
+    {
+     "text": "Elara versucht am Ende zu sprechen, scheitert aber.",
+     "line": 310,
+     "cite": "^[gravitation-realitaet-simulation-wahrheit-2.md:L310]"
+    }
+   ]
+  }
+ ],
+ "differ": [],
+ "gaps": [
+  "Das Paket nennt keinen Zeitpunkt, zu dem eine bestimmte Wahrheit lesbar werden darf, außer dem 3. Akt für die Gültigkeitsverluste der AEGIS-Dokumente und dem Schlusskapitel für die Konstruktion durch den Leser.",
+  "Nicht im Paket: welche konkrete Wahrheit (Junas, Genesis-Krise, Vortex) in welchem Kapitel lesbar wird.",
+  "Der Graph lieferte keine Belege; die Auswahl beruht nur auf bm25-Zeilen."
+ ],
+ "next": [
+  {
+   "doc": "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+   "why": "ungelesen, Gültigkeitsverlust der AEGIS-Dokumente im 3. Akt und Dosierung"
+  },
+  {
+   "doc": "projektplanung-fuer-kohaerenz-protokoll",
+   "why": "ungelesen, Kapitelplan mit Schlusskapitel, in dem der Leser die Wahrheit konstruiert"
+  }
+ ],
+ "need": [
+  {
+   "term": "Mosaik-Slot Enthüllung"
+  },
+  {
+   "doc": "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+   "lines": [
+    180,
+    215
+   ]
+  },
+  {
+   "doc": "projektplanung-fuer-kohaerenz-protokoll",
+   "lines": [
+    200,
+    240
+   ]
+  }
+ ],
+ "rejected": []
+}

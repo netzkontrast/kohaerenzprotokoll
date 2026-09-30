@@ -1,0 +1,503 @@
+{
+"questions": {
+"C1": "AEGIS is expanded incompatibly",
+"C10": "do the knuckles bleed in Kap 1?",
+"C11": "Landauer warmth in Kap 6 and Kap 36, or cold ozone",
+"C12": "three Genesis beats, or four",
+"C13": "Köln 2026 beyond the simulation, or not outside it",
+"C14": "does AEGIS get a first-person chapter?",
+"C15": "who carries Flight?",
+"C2": "Entropie means two incompatible things",
+"C3": "AEGIS emerges, and the two sources mean opposite things by it",
+"C4": "the blind spot has two bearers, and the documents do not know about each other",
+"C5": "a world in one document is a place inside that world in another",
+"C6": "five Guardians, one per world; or two, and `KEIN Guardian-1:1`",
+"C7": "Juna appears once in Kap 33, or first in Kap 38",
+"C8": "Be-er or Do-er",
+"C9": "the whole simulation, or KW1",
+"Q1": "How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?",
+"Q2": "Do the seven protocol terms ever appear as project vocabulary, or do they only ever appear as objects of criticism?",
+"Q3": "How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?",
+"Q4": "Which of the four things the corpus calls Wächter is the term, and how do the pages avoid claiming the word?",
+"Q5": "Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?",
+"Q6": "How do the Nexus, the Überraum and the Überwelt relate — one space, one inside another, or three — and does any source say so?",
+"Q7": "What does the number 734 name inside the simulation — Komponente 734, Kael's designation; Wohneinheit 734, his dwelling; both on purpose, or something else — and does any source say?",
+"Q8": "What is AEGIS after the Vortex's fifth beat — a living relic, extinguished, transformed, taken over by a plural form — and does Oblivion take over its function inside Kael?",
+"Q9": "Where is the Moonshine-Link's boundary — what can it carry across from the Externe Ebene, who inside Kael's system can feel it besides Silas and where, and is it exclusive to Kael and Juna or universal?"
+},
+"pages": {
+"aegis-metriken": [
+"AEGIS' operative Metriken",
+"AEGIS' operative Metriken",
+"Integrität von Datenstrukturen",
+"Mustererkennung/Anomaliedetektion",
+"Rate logischer Widersprüche",
+"Ressourcenfluktuationsanalyse",
+"Vorhersagbarkeits-/Abweichungswerte",
+"globaler Entropie-Score"
+],
+"aegis-teilfunktionen": [
+"AEGIS' four sub-functions",
+"AEGIS' four sub-functions",
+"Cognitive Firewall",
+"Integrity Guardian",
+"SIS",
+"Zero-Trust"
+],
+"aegis": [
+"AEGIS",
+"AEGIS",
+"Entropic Gatekeeper",
+"Kontrollinstanz",
+"Wächter der systemischen Stabilität",
+"blinder Hausmeister"
+],
+"alex": [
+"Alex",
+"Alex"
+],
+"algorithmische-melancholie": [
+"Algorithmische Melancholie",
+"Algorithmische Melancholie"
+],
+"alters": [
+"Alters",
+"Alters"
+],
+"ani": [
+"ANI — Äußere Nicht-Identifikation",
+"ANI — Äußere Nicht-Identifikation"
+],
+"archiv-der-grenzen": [
+"Archiv der Grenzen",
+"Archiv der Grenzen"
+],
+"archiv-des-ungesagten": [
+"Archiv des Ungesagten",
+"Archiv des Ungesagten"
+],
+"argus": [
+"Argus",
+"Argus"
+],
+"ars": [
+"ARS — Autopoietische Reentry-Segmentierung",
+"ARS — Autopoietische Reentry-Segmentierung"
+],
+"atemporalitaet": [
+"Atemporalität",
+"Atemporalität"
+],
+"blinder-fleck": [
+"Ontologischer blinder Fleck",
+"Ontologischer blinder Fleck"
+],
+"cache-kohaerenz": [
+"Cache-Kohärenz",
+"Cache-Kohärenz"
+],
+"cerberus": [
+"Cerberus",
+"Cerberus"
+],
+"chaitin-konstante": [
+"Chaitin-Konstante",
+"Chaitin-Konstante"
+],
+"coheron": [
+"Coheron",
+"Coheron"
+],
+"datenverarbeitungsknoten-7g": [
+"Datenverarbeitungsknoten 7G",
+"Datenverarbeitungsknoten 7G"
+],
+"did": [
+"DID — dissoziative Identitätsstruktur",
+"DID",
+"DID — dissoziative Identitätsstruktur",
+"dissoziative Identitätsstruktur",
+"psychische Fragmentierung"
+],
+"dkt": [
+"Dual-Kernel-Theorie (DKT)",
+"Dual-Kernel-Theorie (DKT)"
+],
+"drei-ontologische-schichten": [
+"Drei ontologische Schichten",
+"Drei ontologische Schichten"
+],
+"ecr": [
+"ECR — Entropische Kohärenzregulation",
+"ECR — Entropische Kohärenzregulation"
+],
+"emergenz": [
+"Emergenz",
+"Emergenz"
+],
+"entropie-katastrophe": [
+"Maximale Entropie-Katastrophe",
+"Maximale Entropie-Katastrophe"
+],
+"entropie-resonanz": [
+"Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP)",
+"ERP",
+"Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP)",
+"Entropie-Resonanz-Protokolle"
+],
+"entropie-signatur": [
+"Entropie-Signatur",
+"Entropie-Signatur"
+],
+"entropie": [
+"Entropie",
+"Entropie"
+],
+"erason": [
+"Erason",
+"Erason"
+],
+"evaluierungseinheit": [
+"Evaluierungseinheit",
+"Evaluierungseinheit"
+],
+"externe-ebene": [
+"Externe Ebene",
+"Externe Ebene"
+],
+"formel-inversion": [
+"Formel-Inversion",
+"Formel-Inversion"
+],
+"garten-der-stillen-praesenz": [
+"Garten der stillen Präsenz",
+"Garten der stillen Präsenz"
+],
+"genesis-klammer": [
+"Genesis-Klammer",
+"Doppel-Klammer",
+"Genesis-Klammer"
+],
+"genesis": [
+"Genesis",
+"Genesis"
+],
+"goedel-gambit": [
+"Gödel-Gambit",
+"Gödel-Gambit"
+],
+"grenzfeste": [
+"Grenzfeste",
+"Die Grenzfeste",
+"Grenzfeste"
+],
+"grosse-mauer": [
+"Die Große Mauer",
+"Die Große Mauer",
+"Die Große Mauer (Systemgrenze)",
+"Große Mauer",
+"Systemgrenze"
+],
+"guardians": [
+"Guardians",
+"Guardians"
+],
+"hitze-polaritaetsregel": [
+"Hitze-Polaritätsregel",
+"Hitze-Polaritätsregel"
+],
+"isabelle": [
+"Isabelle",
+"Isabelle"
+],
+"juna": [
+"Juna",
+"Julia",
+"Juna"
+],
+"junas-ankerpunkt": [
+"Junas Ankerpunkt",
+"Junas Ankerpunkt"
+],
+"k0-existenz": [
+"K0-Existenz",
+"K0-Existenz"
+],
+"kael-julia-bindung": [
+"Kael-Julia-Bindung",
+"K-J-Bindung",
+"Kael-Julia-Bindung"
+],
+"kael": [
+"Kael",
+"Kael",
+"Michael"
+],
+"kaels-wohneinheit": [
+"Kaels Wohneinheit 1.0",
+"Kaels Wohneinheit",
+"Kaels Wohneinheit 1.0"
+],
+"kairos": [
+"Kairos",
+"Kairos"
+],
+"kern-welten": [
+"Kern-Welten",
+"Kern-Welt",
+"Kern-Welten"
+],
+"kiko": [
+"Kiko",
+"Kiko"
+],
+"kishotenketsu": [
+"Kishōtenketsu",
+"Kishōtenketsu"
+],
+"kohaerenz-kernel": [
+"Kohärenz-Kernel (K₁)",
+"Kohärenz-Kernel",
+"Kohärenz-Kernel (K₁)"
+],
+"kohaerenz-programm": [
+"Kohärenz-Programm",
+"Kohärenz-Programm"
+],
+"kohaerenz": [
+"Kohärenz",
+"Kohärenz"
+],
+"kollaps-kernel": [
+"Kollaps-Kernel (K₀)",
+"Kollaps-Kernel (K₀)"
+],
+"komponente-734": [
+"Komponente 734",
+"Komponente 734"
+],
+"konstrukt-stadt": [
+"Konstrukt-Stadt",
+"Die Konstrukt-Stadt",
+"Konstrukt-Stadt"
+],
+"landauer-signatur": [
+"Landauer-Signatur",
+"Landauer-Signatur"
+],
+"lex": [
+"Lex",
+"Lex"
+],
+"lia": [
+"Lia",
+"Lia"
+],
+"logos": [
+"LogOS",
+"LogOS"
+],
+"mnemosyne-server-architektur": [
+"Mnemosyne-Server-Architektur",
+"Mnemosyne-Server-Architektur"
+],
+"mnemosyne": [
+"Mnemosyne",
+"Mnemosyne"
+],
+"moeglichkeits-garten": [
+"Möglichkeits-Garten",
+"Der Möglichkeits-Garten",
+"Möglichkeits-Garten",
+"Nexus-Vorstufe"
+],
+"moonshine-link": [
+"Moonshine-Link",
+"Moonshine-Link"
+],
+"moros": [
+"Moros",
+"Moros"
+],
+"mosaik-herz": [
+"Mosaik-Herz",
+"Mosaik-Herz"
+],
+"multiplizitaet": [
+"Multiplizität",
+"Multiplizität",
+"funktionale Multiplizität"
+],
+"negentropie": [
+"Negentropie",
+"Negentropie"
+],
+"nexus": [
+"Nexus",
+"Nexus"
+],
+"nichts-rauschen": [
+"Nichts-Rauschen",
+"K1-Reinform",
+"Nichts-Rauschen"
+],
+"nullpunkt-protokoll": [
+"Nullpunkt-Protokoll",
+"Nullpunkt-Protokoll"
+],
+"nyx": [
+"Nyx",
+"Nyx"
+],
+"oblivion": [
+"Oblivion",
+"Oblivion"
+],
+"ouroboros-struktur": [
+"Ouroboros-Struktur",
+"Ouroboros-Struktur"
+],
+"partnerin": [
+"Partnerin",
+"Partnerin"
+],
+"persistenzgleichung": [
+"Persistenzgleichung",
+"Persistenzgleichung"
+],
+"personas": [
+"Personas",
+"Bewusstseinsinstanzen",
+"Persona",
+"Personas"
+],
+"pms": [
+"PMS — Protomemetische Speicherbildung",
+"PMS — Protomemetische Speicherbildung"
+],
+"potentialmeer": [
+"Potentialmeer",
+"Potentialmeer"
+],
+"protokoll-v14": [
+"Protokoll v1.4",
+"Protokoll v1.4"
+],
+"realitaetsebenen": [
+"Realitätsebenen",
+"Realitätsebene",
+"Realitätsebenen",
+"die sechs Realitätsebenen"
+],
+"residual-echos": [
+"Residual-Echos",
+"Residual-Echos"
+],
+"resonanz-landschaft": [
+"Resonanz-Landschaft",
+"Die Resonanz-Landschaft",
+"Resonanz-Landschaft"
+],
+"rhys": [
+"Rhys",
+"Rhys"
+],
+"risse": [
+"Risse",
+"Glitch",
+"Glitches",
+"Risse"
+],
+"rsa": [
+"RSA — Rekursive semantische Autogenese",
+"RSA — Rekursive semantische Autogenese"
+],
+"schleuse-7": [
+"Schleuse 7",
+"Schleuse 7",
+"Schleuse 7 (Kontrollpunkt)"
+],
+"sektor-04": [
+"Sektor 04",
+"Sektor 04"
+],
+"selene": [
+"Selene",
+"Selene"
+],
+"silas": [
+"Silas",
+"Silas"
+],
+"snk": [
+"SNK — Strukturierte Nicht-Kontrolle",
+"SNK — Strukturierte Nicht-Kontrolle"
+],
+"sophia": [
+"Sophia",
+"Sophia"
+],
+"system-monitor": [
+"Der Große System-Monitor",
+"Der Große System-Monitor",
+"Großer System-Monitor",
+"System-Monitor"
+],
+"telefon-stille": [
+"Telefon-Stille",
+"Telefon-Stille"
+],
+"therapie-schnittstelle-alpha": [
+"Therapie-Schnittstelle Alpha",
+"Therapie-Schnittstelle Alpha"
+],
+"thermodynamischer-phaenomenalismus": [
+"Thermodynamischer Phänomenalismus",
+"Thermodynamischer Phänomenalismus"
+],
+"trennungsprotokoll": [
+"Trennungsprotokoll",
+"Trennungsprotokoll"
+],
+"truth-rotation": [
+"Truth-Rotation",
+"Truth-Rotation"
+],
+"tsdp": [
+"TSDP",
+"TSDP"
+],
+"ueberraum": [
+"Überraum",
+"Überraum"
+],
+"ueberwelt": [
+"Überwelt",
+"Innere Weite",
+"Simulation",
+"Überwelt"
+],
+"vergessener-schrein": [
+"Vergessener Schrein",
+"Trauma-Lokus",
+"Vergessener Schrein",
+"Vergessener Schrein (Trauma-Lokus)"
+],
+"vermittler-stimme": [
+"Vermittler-Stimme",
+"Vermittler-Stimme"
+],
+"verschraenkungs-insel": [
+"Verschränkungs-Insel",
+"Verschränkungs-Insel"
+],
+"vortex": [
+"Vortex",
+"Vortex"
+],
+"ztv": [
+"ZTV — Vertrauenlose Validierung",
+"ZTV — Vertrauenlose Validierung"
+]
+}
+}

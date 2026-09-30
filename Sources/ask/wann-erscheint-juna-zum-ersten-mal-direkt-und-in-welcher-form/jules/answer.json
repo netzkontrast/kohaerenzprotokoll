@@ -1,0 +1,84 @@
+{
+ "id": "ask-2026-09-30-5d414114",
+ "tier": "M-ask",
+ "question": "Wann erscheint Juna zum ersten Mal direkt, und in welcher Form?",
+ "kind": "position",
+ "backend": "jules",
+ "attempt": 0,
+ "model": "jules",
+ "answered": "2026-09-30T11:05:00",
+ "run": "Plan/runs/ask/2026-09-30-5d414114/",
+ "pack_hash": "44afdcde642ed79256f9f298c69432ce52d8d08c9ef9885b04aeecb76f0fabb7",
+ "status": "answered",
+ "answerable": "yes",
+ "counts": {
+  "placed": 5,
+  "unresolved": 0,
+  "outside-pack": 0
+ },
+ "claims": [
+  {
+   "doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+   "says": "Die erste direkte Erscheinung findet erst in Kapitel 38 Beat 3 statt, in Form von Stille und einem Da-Sein ohne Worte.",
+   "quotes": [
+    {
+     "text": "Erste direkte Erscheinung erst in Kap 38 Beat 3 — als Stille, als Da-Sein ohne Worte.",
+     "line": 121,
+     "cite": "^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L121]"
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+   "says": "Die direkte Erscheinung erfolgt in Kapitel 38, nachdem eine Präsenz-Phase mit Wärme und Fülle vorangegangen ist.",
+   "quotes": [
+    {
+     "text": "Abwesenheits-Phase (Akt I — Mangel, Stille-mit-Substanz, abbrechende Sätze) → Präsenz-Phase (Akt II+ — Wärme, Fülle, schließlich direkt in Kap 38).",
+     "line": 286,
+     "cite": "^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L286]"
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "says": "Juna erscheint in Kapitel 38 direkt.",
+   "quotes": [
+    {
+     "text": "| **Kap 38** | Juna erscheint direkt | erkennt sie wieder | strukturell blind |",
+     "line": 593,
+     "cite": "^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]"
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+   "says": "Sie ist bis Kapitel 38 nur als Echo spürbar und tritt direkt erst ab Vortex 1 Beat 4 und in Kapitel 38 in Erscheinung.",
+   "quotes": [
+    {
+     "text": "**Akt-Verortung.** Bis Kap 38 nur als Echo / Resonanz / Telefon-Stille spürbar. Direkt erst ab **Vortex 1 Beat 4** und in Kap 38 (Juna erscheint).",
+     "line": 630,
+     "cite": "^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630]"
+    }
+   ]
+  },
+  {
+   "doc": "roman-plot-entwicklung-mit-kohaerenzprotokoll",
+   "says": "Kael nimmt Juna bereits in Kapitel 10 zum ersten Mal als reale, externe Präsenz wahr.",
+   "quotes": [
+    {
+     "text": "Hier nimmt er Juna/V zum ersten Mal nicht als Hologramm, sondern als reale, externe Präsenz wahr.19",
+     "line": 128,
+     "cite": "^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128]"
+    }
+   ]
+  }
+ ],
+ "differ": [
+  "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md vs koharenz-protokoll-strukturierter-outline-2026-05-18-md: Eine Kanon-Quelle verortet den Beginn des direkten Erscheinens bei Vortex 1 Beat 4, während die andere die erste direkte Erscheinung erst in Kapitel 38 Beat 3 ansetzt.",
+  "roman-plot-entwicklung-mit-kohaerenzprotokoll vs kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md: Das Plot-Dokument setzt die Wahrnehmung als reale externe Präsenz bereits in Kapitel 10 an, während die Drafting-Tabelle Juna erst in Kapitel 38 direkt erscheinen lässt."
+ ],
+ "gaps": [],
+ "next": [],
+ "need": [],
+ "rejected": []
+}

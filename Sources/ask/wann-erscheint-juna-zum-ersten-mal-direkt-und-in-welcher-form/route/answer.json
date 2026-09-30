@@ -1,0 +1,50 @@
+{
+ "id": "ask-2026-09-30-5d414114",
+ "tier": "M-ask",
+ "question": "Wann erscheint Juna zum ersten Mal direkt, und in welcher Form?",
+ "kind": "position",
+ "backend": "route",
+ "attempt": 0,
+ "model": "route/cohere/north-mini-code:free",
+ "answered": "2026-09-30T10:38:28",
+ "run": "Plan/runs/ask/2026-09-30-5d414114/",
+ "pack_hash": "44afdcde642ed79256f9f298c69432ce52d8d08c9ef9885b04aeecb76f0fabb7",
+ "status": "answered",
+ "answerable": "yes",
+ "counts": {
+  "placed": 1,
+  "unresolved": 1,
+  "outside-pack": 0
+ },
+ "claims": [
+  {
+   "doc": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+   "says": "Juna appears directly as a substrate touch (the external layer becomes enterable, a layer shift).",
+   "quotes": [
+    {
+     "text": "Substrat-Berührung | Juna erscheint direkt; die Externe Ebene wird betretbar, nicht als Ortwechsel, sondern als Schicht-Verschiebung",
+     "line": 727,
+     "cite": "^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L727]"
+    }
+   ]
+  }
+ ],
+ "differ": [],
+ "gaps": [],
+ "next": [],
+ "need": [],
+ "rejected": [
+  {
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "says": "Juna appears directly in Chapter 38.",
+   "quotes": [
+    {
+     "text": "Juna appears directly",
+     "status": "unresolved",
+     "line": null,
+     "why": "the words stand on no single line"
+    }
+   ]
+  }
+ ]
+}

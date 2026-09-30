@@ -11,7 +11,7 @@
    "gold_lines": 20,
    "line_recall": 0.15,
    "pack_docs": 12,
-   "chars": 66373
+   "chars": 66946
   },
   {
    "id": "C10",
@@ -20,7 +20,7 @@
    "gold_lines": 43,
    "line_recall": 0.07,
    "pack_docs": 19,
-   "chars": 26676
+   "chars": 27249
   },
   {
    "id": "C11",
@@ -29,7 +29,7 @@
    "gold_lines": 182,
    "line_recall": 0.159,
    "pack_docs": 21,
-   "chars": 66689
+   "chars": 67262
   },
   {
    "id": "C12",
@@ -38,7 +38,7 @@
    "gold_lines": 119,
    "line_recall": 0.151,
    "pack_docs": 27,
-   "chars": 42618
+   "chars": 43191
   },
   {
    "id": "C13",
@@ -47,7 +47,7 @@
    "gold_lines": 18,
    "line_recall": 0.056,
    "pack_docs": 16,
-   "chars": 66521
+   "chars": 67094
   },
   {
    "id": "C14",
@@ -56,7 +56,7 @@
    "gold_lines": 84,
    "line_recall": 0.036,
    "pack_docs": 24,
-   "chars": 66166
+   "chars": 66739
   },
   {
    "id": "C15",
@@ -65,7 +65,7 @@
    "gold_lines": 21,
    "line_recall": 0.429,
    "pack_docs": 25,
-   "chars": 24606
+   "chars": 25179
   },
   {
    "id": "C2",
@@ -74,7 +74,7 @@
    "gold_lines": 77,
    "line_recall": 0.039,
    "pack_docs": 37,
-   "chars": 47673
+   "chars": 48246
   },
   {
    "id": "C3",
@@ -83,7 +83,7 @@
    "gold_lines": 66,
    "line_recall": 0.0,
    "pack_docs": 13,
-   "chars": 66976
+   "chars": 67549
   },
   {
    "id": "C4",
@@ -92,7 +92,7 @@
    "gold_lines": 92,
    "line_recall": 0.0,
    "pack_docs": 28,
-   "chars": 38806
+   "chars": 39379
   },
   {
    "id": "C5",
@@ -101,7 +101,7 @@
    "gold_lines": 41,
    "line_recall": 0.0,
    "pack_docs": 22,
-   "chars": 26989
+   "chars": 27562
   },
   {
    "id": "C6",
@@ -110,7 +110,7 @@
    "gold_lines": 108,
    "line_recall": 0.019,
    "pack_docs": 29,
-   "chars": 66570
+   "chars": 67143
   },
   {
    "id": "C7",
@@ -119,7 +119,7 @@
    "gold_lines": 114,
    "line_recall": 0.053,
    "pack_docs": 18,
-   "chars": 66716
+   "chars": 67289
   },
   {
    "id": "C8",
@@ -128,7 +128,7 @@
    "gold_lines": 59,
    "line_recall": 0.169,
    "pack_docs": 16,
-   "chars": 18761
+   "chars": 19334
   },
   {
    "id": "C9",
@@ -137,7 +137,7 @@
    "gold_lines": 53,
    "line_recall": 0.038,
    "pack_docs": 25,
-   "chars": 66277
+   "chars": 66850
   },
   {
    "id": "Q1",
@@ -146,7 +146,7 @@
    "gold_lines": 94,
    "line_recall": 0.064,
    "pack_docs": 25,
-   "chars": 66469
+   "chars": 67042
   },
   {
    "id": "Q2",
@@ -155,7 +155,7 @@
    "gold_lines": 43,
    "line_recall": 0.0,
    "pack_docs": 18,
-   "chars": 19963
+   "chars": 20536
   },
   {
    "id": "Q3",
@@ -164,7 +164,7 @@
    "gold_lines": 158,
    "line_recall": 0.025,
    "pack_docs": 11,
-   "chars": 66592
+   "chars": 67165
   },
   {
    "id": "Q4",
@@ -173,7 +173,7 @@
    "gold_lines": 69,
    "line_recall": 0.014,
    "pack_docs": 11,
-   "chars": 67797
+   "chars": 68370
   },
   {
    "id": "Q5",
@@ -182,7 +182,7 @@
    "gold_lines": 114,
    "line_recall": 0.009,
    "pack_docs": 22,
-   "chars": 68213
+   "chars": 68786
   },
   {
    "id": "Q6",
@@ -191,7 +191,7 @@
    "gold_lines": 11,
    "line_recall": 0.545,
    "pack_docs": 22,
-   "chars": 66331
+   "chars": 66904
   },
   {
    "id": "Q7",
@@ -200,7 +200,7 @@
    "gold_lines": 15,
    "line_recall": 0.133,
    "pack_docs": 15,
-   "chars": 67681
+   "chars": 68254
   },
   {
    "id": "Q8",
@@ -209,7 +209,7 @@
    "gold_lines": 19,
    "line_recall": 0.053,
    "pack_docs": 22,
-   "chars": 67976
+   "chars": 68551
   },
   {
    "id": "Q9",
@@ -218,7 +218,7 @@
    "gold_lines": 23,
    "line_recall": 0.043,
    "pack_docs": 42,
-   "chars": 67798
+   "chars": 68371
   }
  ]
 }

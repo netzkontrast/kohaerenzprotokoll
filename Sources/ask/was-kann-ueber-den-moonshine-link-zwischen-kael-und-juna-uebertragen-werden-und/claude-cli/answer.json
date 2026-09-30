@@ -1,0 +1,162 @@
+{
+ "id": "ask-2026-09-30-a1253825",
+ "tier": "M-ask",
+ "question": "Was kann über den Moonshine-Link zwischen Kael und Juna übertragen werden und was nicht, und was kostet die Verbindung?",
+ "kind": "position",
+ "backend": "claude-cli",
+ "attempt": 0,
+ "model": "claude-cli/sonnet",
+ "answered": "2026-09-30T10:43:24",
+ "run": "Plan/runs/ask/2026-09-30-a1253825/",
+ "pack_hash": "6ff509ee5051c8d30ffe06cdddde37cd9225820180baf939d124d618c37f044d",
+ "status": "answered",
+ "answerable": "partly",
+ "counts": {
+  "placed": 10,
+  "unresolved": 0,
+  "outside-pack": 0
+ },
+ "claims": [
+  {
+   "doc": "kohaerenz-protokoll-konzept-master-md",
+   "says": "Als Grenze des Links wird vorgeschlagen, dass nur mutuale Information bzw. Witness übertragbar ist, keine Daten und keine Materie. Die endgültige Festlegung ist offen.",
+   "quotes": [
+    {
+     "text": "Vorgeschlagen: nur mutuale Information / Witness, keine Daten / Materie. Final-Lock-In offen.",
+     "line": 990,
+     "cite": "^[kohaerenz-protokoll-konzept-master-md.md:L990]"
+    }
+   ]
+  },
+  {
+   "doc": "romanarchitektur-kohaerenz-protokoll-finalisierung",
+   "says": "Über den Link kann Juna Kael direkt Gnosis (intuitives Verstehen) vermitteln, ohne dass Daten übertragen werden, die AEGIS' Monitore aufzeichnen könnten.",
+   "quotes": [
+    {
+     "text": "Juna kann Kael direkt *Gnosis* vermitteln, ohne Daten zu übertragen, die AEGIS' Monitore aufzeichnen könnten.",
+     "line": 114,
+     "cite": "^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L114]"
+    }
+   ]
+  },
+  {
+   "doc": "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
+   "says": "Der Link ermöglicht Juna, „korrekte“ Trainingsdaten in AEGIS' adaptive Logik einzuspeisen.",
+   "quotes": [
+    {
+     "text": "Er ermöglicht es Juna, „korrekte“ Trainingsdaten in AEGIS' adaptive Logik einzuspeisen",
+     "line": 201,
+     "cite": "^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L201]"
+    }
+   ]
+  },
+  {
+   "doc": "narrative-plot-exploration-existenzielle-kohaerenz",
+   "says": "Kael kann über den nichtlokalen Kanal Informationen oder stabilisierende Muster übertragen.",
+   "quotes": [
+    {
+     "text": "Kael kann Informationen oder stabilisierende Muster über diesen nichtlokalen Kanal übertragen.",
+     "line": 339,
+     "cite": "^[narrative-plot-exploration-existenzielle-kohaerenz.md:L339]"
+    }
+   ]
+  },
+  {
+   "doc": "konzeptanalyse-kohaerenz-protokoll-s-fundament",
+   "says": "Als Beispiel für Übertragung nennt die Quelle, dass Kael ein Konzept versteht, das Juna studiert, ohne Vorkenntnisse zu haben.",
+   "quotes": [
+    {
+     "text": "Kael versteht plötzlich ein komplexes Konzept, das Juna studiert, obwohl er keine Vorkenntnisse hat, übertragen über die Moonshine-artige Verbindung.",
+     "line": 246,
+     "cite": "^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:L246]"
+    }
+   ]
+  },
+  {
+   "doc": "dramatica-dual-storyform-status-2026-05-07-md",
+   "says": "Die Moonshine-Brücke wird als echte Anstrengung und physikalisches Phänomen beschrieben, das Mutual Information über den Kollaps bewahrt.",
+   "quotes": [
+    {
+     "text": "die Moonshine-Brücke ist eine echte Anstrengung, ein physikalisches Phänomen, das Mutual Information über den Kollaps bewahrt.",
+     "line": 210,
+     "cite": "^[dramatica-dual-storyform-status-2026-05-07-md.md:L210]"
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "says": "Als prototypisches Bild gilt Telefon-Stille als Mutual Information ohne Daten.",
+   "quotes": [
+    {
+     "text": "Telefon-Stille als MI ohne Daten ist das prototypische Bild.",
+     "line": 513,
+     "cite": "^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L513]"
+    }
+   ]
+  },
+  {
+   "doc": "dramatica-storyform-synthese-aegis-analyse-2",
+   "says": "Die Aufrechterhaltung des Links über die Risse hinweg kostet enorme physische Kraft. Eine scheiternde, asynchrone Übertragung erzeugt starken somatischen Schmerz und eine thermodynamische Narbe.",
+   "quotes": [
+    {
+     "text": "Es erfordert eine immense physische Kraftanstrengung, den Moonshine-Link über die entropischen Risse hinweg zu synchronisieren.",
+     "line": 225,
+     "cite": "^[dramatica-storyform-synthese-aegis-analyse-2.md:L225]"
+    },
+    {
+     "text": "Die physische Rückkopplung dieser asynchronen Übertragung äußert sich als starker somatischer Schmerz, der eine thermodynamische Narbe im System hinterlässt.",
+     "line": 227,
+     "cite": "^[dramatica-storyform-synthese-aegis-analyse-2.md:L227]"
+    }
+   ]
+  },
+  {
+   "doc": "m-als-fundament-der-simulation",
+   "says": "Die K-J-Verbindung wird ausdrücklich als mehr als bloße Informationsübertragung beschrieben.",
+   "quotes": [
+    {
+     "text": "Die K-J-Verbindung ist nicht nur Informationsübertragung",
+     "line": 85,
+     "cite": "^[m-als-fundament-der-simulation.md:L85]"
+    }
+   ]
+  }
+ ],
+ "differ": [
+  "kohaerenz-protokoll-konzept-master-md vs dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor: Das Master-Dokument schlägt vor, der Link übertrage keine Daten, nur mutuale Information bzw. Witness. Das Dual-Kernel-Dokument nennt als Funktion das Einspeisen von „korrekten“ Trainingsdaten durch Juna.",
+  "romanarchitektur-kohaerenz-protokoll-finalisierung vs narrative-plot-exploration-existenzielle-kohaerenz: Die Romanarchitektur beschreibt Gnosis-Vermittlung ausdrücklich ohne Datenübertragung. Die Plot-Exploration spricht davon, dass Kael Informationen oder stabilisierende Muster über den Kanal übertragen kann."
+ ],
+ "gaps": [
+  "Die Liste der „vorgeschlagenen operativen Grenzen“ in Appendix C des Master-Dokuments (ab Zeile 593) ist nicht im Paket, nur die einleitende Frage. Die Grenze ist dort zudem als „Final-Lock-In offen“ markiert.",
+  "Eine Einigung der Quellen darüber, was übertragbar ist, zeigt das Paket nicht. Die Quellen nennen Gnosis, Informationen bzw. Muster, Trainingsdaten und mutuale Information mit unterschiedlicher Reichweite.",
+  "Zu den Kosten nennt das Paket nur physische Anstrengung, somatischen Schmerz und eine thermodynamische Narbe, und das nur aus einem Dokument. Ein ausdrückliches Kostenmodell des Links ist nicht im Paket.",
+  "Der Preis der Storyform A („Ihr Erfolg kostet das Singular-Selbst.“ in kap0-kap40-doppelklammer-abhandlung-2026-05-08-md, Zeile 63) gilt der Geschichte, nicht ausdrücklich dem Link. Ich habe ihn deshalb nicht als Link-Kosten belegt.",
+  "Offen ist auch (Q9), wer außer Kael und Juna den Link spürt und ob er exklusiv ist. Das ist nicht im Paket."
+ ],
+ "next": [
+  {
+   "doc": "kohaerenz-protokoll-konzept-master-md",
+   "why": "Enthält die vorgeschlagenen operativen Grenzen des Links (Appendix C) und den offenen Lock-In."
+  },
+  {
+   "doc": "dramatica-storyform-synthese-aegis-analyse-2",
+   "why": "Nennt die einzigen Kostenangaben im Paket (Kraftanstrengung, Schmerz, Narbe); die Umgebung ab Zeile 222 prüfen."
+  }
+ ],
+ "need": [
+  {
+   "doc": "kohaerenz-protokoll-konzept-master-md",
+   "lines": [
+    593,
+    615
+   ]
+  },
+  {
+   "term": "Boundary Conditions"
+  },
+  {
+   "term": "Landauer-Hitze Moonshine-Link Kosten"
+  }
+ ],
+ "rejected": []
+}

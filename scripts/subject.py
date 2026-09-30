@@ -148,8 +148,11 @@ def answers() -> dict[str, Document]:
         if hashlib.sha256(text.encode()).hexdigest() != row.get("sha256"):
             raise ValueError(f"{path} no longer hashes to its manifest row: a landed answer is never edited")
         body, offset = _split(text)
-        out[row["slug"]] = Document(slug=row["slug"], category="ask", date=(row.get("answered") or "?")[:10],
-                                    format="md", sha256=row["sha256"], path=path, body=body, offset=offset)
+        doc = Document(slug=row["slug"], category="ask", date=(row.get("answered") or "?")[:10],
+                       format="md", sha256=row["sha256"], path=path, body=body, offset=offset)
+        out[row["slug"]] = doc
+        if row.get("slug_before"):           # moved into Sources/ask/<question>/: the first slug still cites
+            out[row["slug_before"]] = doc
     return out
 
 

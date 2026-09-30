@@ -12,7 +12,7 @@ empfehlung: "C"
 **Entscheidungsblatt, 2026-09-30 · Runde 3. Vorschlag, keine Festlegung.**
 Grundlage: [C12](../../Wiki/conflicts/c12-genesis-beats.md), [C3](../../Wiki/conflicts/c3-emergenz-origin.md),
 [Q7](../../Wiki/questions/q7-what-734-names.md) und die `ask`-Antwort
-[`ask-2026-09-30-00fcbf0d`](../../Sources/ask/ask-2026-09-30-00fcbf0d-claude-cli.md)
+[`ask-2026-09-30-00fcbf0d`](../../Sources/ask/wie-viele-beats-hat-die-genesis-und-ist-kael-die-komponente-734-selbst-oder-ihr/claude-cli/answer.md)
 (21 von 21 Zitaten platziert; eine Modell-Lesart, Tier `M-ask`, Entscheidung 017).
 Kein Dokument wurde von Hand neu gelesen; die Antwort zog ungelesene Dokumente heran.
 

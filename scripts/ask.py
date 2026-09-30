@@ -23,8 +23,10 @@ tier `M-ask` — a model's reading of other sources, never the author's word.
    (`meta.shown`) by `quotes.py`'s own comparison — the same words elsewhere in
    the document are `outside-window` — or it is rejected; a claim with no placed
    quotation is `unsupported`.
-5. **land**: the rendered answer goes to `Sources/ask/<id>-<backend>.md` with a
-   checksum and a manifest row, once; a second landing is refused. `subject.document`
+5. **land**: the rendered answer and its data go to
+   `Sources/ask/<question slug>/<backend[-aN]>/answer.md` and `answer.json`, with checksums
+   and a manifest row, once; a second landing is refused. It is cited as
+   `ask-<question slug>-<backend>`. `subject.document`
    resolves a landed answer by its slug, so `quotes.py` and `read.py` cite it like
    any source, while it stays out of `documents()` and every corpus count.
 
@@ -152,6 +154,17 @@ def run_dir(qid: str) -> Path:
 
 # ── route ─────────────────────────────────────────────────────────────────────
 
+def expand(question: str, terms: dict | None) -> str:
+    """The question plus the terms a rewrite chose (page names, German search words): what routing
+    searches with. The pack still shows the question as asked."""
+    if not terms:
+        return question
+    import graph as kg
+    nodes = kg.build()["nodes"]
+    names = [nodes[f"term:{p}"]["term"] for p in terms.get("pages", []) if f"term:{p}" in nodes]
+    return " ".join([question, *names, *terms.get("words", [])])
+
+
 def route(question: str, kind: str, store=None, graph: dict | None = None) -> dict:
     import graphrag
     import askdb
@@ -214,13 +227,14 @@ def skills_for(question: str, k: int = 2) -> list[dict]:
 
 
 def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store=None,
-               graph: dict | None = None, rules: str = RULES, schema: str = SCHEMA) -> tuple[str, dict]:
+               graph: dict | None = None, rules: str = RULES, schema: str = SCHEMA,
+               terms: dict | None = None) -> tuple[str, dict]:
     """The pack every backend reads. `rules` and `schema` are parameters so another step (an
     extraction lab) reuses the same pack, `verify` and `render` rather than a second verifier."""
     import graphrag
     import askdb
     s = store or askdb.Store()
-    r = route(question, kind, s, graph)
+    r = route(expand(question, terms), kind, s, graph)
     parts, sent, cut, used, shown = [], [], [], 0, {}
     parts.append(f"# Frage\n\n{question}\n\nArt der Frage: `{kind}`\n")
     parts.append(rules)
@@ -272,12 +286,12 @@ def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store
             "sends_text_of": sent, "cut_by_budget": cut, "budget": budget, "chars": len(text),
             "window_chars": used, "finders": {d["doc"]: sorted(d["finders"]) for d in r["docs"]},
             "seeds": [x["term"] for x in r["evidence"]["seeds"]], "skills": [x["skill"] for x in skills],
-            "hash": hashlib.sha256(text.encode()).hexdigest(), "shown": shown}
+            "hash": hashlib.sha256(text.encode()).hexdigest(), "shown": shown, "terms": terms}
     return text, meta
 
 
-def cmd_pack(question: str, kind: str) -> str:
-    text, meta = build_pack(question, kind)
+def cmd_pack(question: str, kind: str, terms: dict | None = None) -> str:
+    text, meta = build_pack(question, kind, terms=terms)
     base, n = meta["id"], 1
     # a pack is immutable: the same text is reused, a different one gets the next free id
     while (run_dir(meta["id"]) / "pack.json").exists():
@@ -609,6 +623,39 @@ def cmd_verify(qid: str, backend: str, attempt: int = 0) -> tuple[str, dict]:
 
 # ── land ──────────────────────────────────────────────────────────────────────
 
+def qslug(question: str, limit: int = 80) -> str:
+    """The question as a path segment: lowercase, umlauts spelled out, words joined by `-`,
+    cut at a word boundary within `limit` characters."""
+    t = question.lower()
+    for a, b in (("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss")):
+        t = t.replace(a, b)
+    words = re.findall(r"[a-z0-9]+", t)
+    out = ""
+    for w in words:
+        if len(out) + len(w) + (1 if out else 0) > limit:
+            break
+        out = f"{out}-{w}" if out else w
+    return out or "frage"
+
+
+def landed_json(qid: str, meta: dict, raw: dict, v: dict, tagged: str) -> dict:
+    """The answer as data, beside its rendering: every placed quotation with its line."""
+    return {"id": f"ask-{qid}", "tier": "M-ask", "question": meta["question"], "kind": meta.get("kind"),
+            "backend": raw.get("backend"), "attempt": raw.get("attempt", 0), "model": raw.get("model"),
+            "answered": raw.get("at"), "run": f"Plan/runs/ask/{qid}/", "pack_hash": meta["hash"],
+            "status": v["status"], "answerable": v.get("answerable"), "counts": v["counts"],
+            "claims": [{"doc": c["doc"], "says": c["says"],
+                        "quotes": [{"text": q["text"], "line": q["line"], "cite": f"^[{c['doc']}.md:L{q['line']}]"}
+                                   for q in c["quotes"] if q["status"] == "placed"]} for c in v["claims"]],
+            "differ": v.get("differ", []), "gaps": v.get("gaps", []), "next": v.get("next", []),
+            "need": v.get("need", []), "rejected": v.get("unsupported", [])}
+
+
+def land_dir(question: str, tagged: str) -> Path:
+    """Sources/ask/<question slug>/<backend[-aN]>/ — one folder per question, one per landing in it."""
+    return LANDED / qslug(question) / tagged
+
+
 def cmd_land(qid: str, backend: str, attempt: int = 0) -> Path:
     d = run_dir(qid)
     _, meta = load_pack(qid)
@@ -617,20 +664,63 @@ def cmd_land(qid: str, backend: str, attempt: int = 0) -> Path:
     text = (d / f"answer.{backend}.md").read_text(encoding="utf-8")
     if f"pack_hash: {meta['hash']}" not in text:
         sys.exit(f"answer.{backend}.md was rendered from another pack; run verify again")
-    LANDED.mkdir(parents=True, exist_ok=True)
-    slug = f"ask-{qid}-{backend}"
-    target = LANDED / f"{slug}.md"
-    if target.exists():
+    v = json.loads((d / f"answer.{backend}.json").read_text(encoding="utf-8"))
+    target = land_dir(meta["question"], backend)
+    if (target / "answer.md").exists():
         sys.exit(f"{target.relative_to(ROOT)} is landed already; an answer is never edited (decision 017)")
-    target.write_text(text, encoding="utf-8")
+    slug = f"ask-{qslug(meta['question'])}-{backend}"
+    target.mkdir(parents=True)
+    body = json.dumps(landed_json(qid, meta, raw, v, backend), ensure_ascii=False, indent=1) + "\n"
+    (target / "answer.md").write_text(text, encoding="utf-8")
+    (target / "answer.json").write_text(body, encoding="utf-8")
     row = {"slug": slug, "tier": "M-ask", "question": meta["question"], "backend": backend,
-           "model": raw.get("model"), "answered": raw.get("at"), "landed": now(),
-           "export_path": str(target.relative_to(ROOT)), "pack_hash": meta["hash"],
-           "sha256": sha(text), "attempt": attempt}
+           "model": raw.get("model"), "answered": raw.get("at"), "landed": now(), "run": qid,
+           "export_path": str((target / "answer.md").relative_to(ROOT)),
+           "json_path": str((target / "answer.json").relative_to(ROOT)), "pack_hash": meta["hash"],
+           "sha256": sha(text), "json_sha256": sha(body), "attempt": attempt}
     with MANIFEST.open("a", encoding="utf-8") as f:
         f.write(json.dumps(row, ensure_ascii=False) + "\n")
-    print(f"landed {target.relative_to(ROOT)}")
+    print(f"landed {target.relative_to(ROOT)}/answer.md and answer.json, cited as {slug}")
     return target
+
+
+def migrate() -> list[str]:
+    """Move answers landed flat (Sources/ask/ask-<id>-<backend>.md) into Sources/ask/<question>/<backend>/,
+    byte for byte, with their answer.json; the manifest row keeps the old slug and path, and the
+    old slug still resolves (subject.answers)."""
+    import subprocess
+    rows = [json.loads(l) for l in MANIFEST.read_text(encoding="utf-8").splitlines() if l.strip()]
+    moved, plan = [], []
+    for r in rows:                         # check every row before moving any: all or nothing
+        if r["export_path"].endswith("/answer.md"):
+            continue
+        backend = tag(r["backend"], r.get("attempt") or 0)
+        qid = r["export_path"].rsplit("/", 1)[1].removeprefix("ask-").removesuffix(".md").removesuffix(f"-{backend}")
+        old = ROOT / r["export_path"]
+        if sha(old.read_text(encoding="utf-8")) != r["sha256"]:
+            sys.exit(f"{old} does not hash to its row; nothing moved")
+        load_pack(qid)
+        if not (run_dir(qid) / f"answer.{backend}.json").exists():
+            sys.exit(f"{qid}: no answer.{backend}.json to write answer.json from; nothing moved")
+        if (land_dir(r["question"], backend) / "answer.md").exists():
+            sys.exit(f"{land_dir(r['question'], backend)} holds an answer already; nothing moved")
+        plan.append((r, backend, qid, old))
+    for r, backend, qid, old in plan:
+        target = land_dir(r["question"], backend)
+        target.mkdir(parents=True, exist_ok=True)
+        subprocess.run(["git", "mv", str(old), str(target / "answer.md")], cwd=ROOT, check=True)
+        _, meta = load_pack(qid)
+        rawp = run_dir(qid) / f"raw.{backend}.json"
+        raw = json.loads(rawp.read_text(encoding="utf-8")) if rawp.exists() else {"backend": backend}
+        v = json.loads((run_dir(qid) / f"answer.{backend}.json").read_text(encoding="utf-8"))
+        body = json.dumps(landed_json(qid, meta, raw, v, backend), ensure_ascii=False, indent=1) + "\n"
+        (target / "answer.json").write_text(body, encoding="utf-8")
+        r.update(slug_before=r["slug"], path_before=r["export_path"], slug=f"ask-{qslug(r['question'])}-{backend}",
+                 run=qid, export_path=str((target / "answer.md").relative_to(ROOT)),
+                 json_path=str((target / "answer.json").relative_to(ROOT)), json_sha256=sha(body), moved=now())
+        moved.append(f"{r['path_before']} → {r['export_path']}")
+    MANIFEST.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows), encoding="utf-8")
+    return moved
 
 
 # ── bench: pack recall against the records, no model ─────────────────────────
@@ -654,7 +744,7 @@ def bench_cases() -> list[dict]:
     return out
 
 
-def bench(budget: int = BUDGET) -> dict:
+def bench(budget: int = BUDGET, rewrite: dict | None = None) -> dict:
     import askdb
     import graph as kg
     import graphrag
@@ -663,7 +753,8 @@ def bench(budget: int = BUDGET) -> dict:
     for c in bench_cases():
         if not c["gold"]:
             continue
-        _, meta = build_pack(c["question"], "position", budget, s, graphrag.without(g, c["key"]))
+        _, meta = build_pack(c["question"], "position", budget, s, graphrag.without(g, c["key"]),
+                             terms=(rewrite or {}).get(c["id"]))
         docs = {d for d, _ in c["gold"]}
         shown = {d: set(v) for d, v in meta["shown"].items()}
         line_hits = sum(1 for d, l in c["gold"] if l in shown.get(d, ()))
@@ -675,7 +766,7 @@ def bench(budget: int = BUDGET) -> dict:
               f"pack {len(shown):3} docs {meta['chars']:6} chars", flush=True)
     mean = lambda k: round(sum(r[k] for r in rows) / len(rows), 3)
     result = {"cases": len(rows), "doc_recall": mean("doc_recall"), "line_recall": mean("line_recall"),
-              "budget": budget, "rows": rows}
+              "budget": budget, "rewrite": bool(rewrite), "rows": rows}
     print(f"\n{len(rows)} cases: document recall {result['doc_recall']}, line recall {result['line_recall']}")
     return result
 
@@ -832,15 +923,21 @@ def main(argv: list[str]) -> int:
         print(f"ask selftest: {'held' if not fails else 'FAILED'}")
         return 1 if fails else 0
     if cmd == "bench":
-        res = bench(int(opt("--budget", BUDGET)))
-        out = RUNS / f"bench-{time.strftime('%Y-%m-%d')}-{res['budget']}.json"
+        rw = json.loads(Path(opt("--rewrite")).read_text(encoding="utf-8")) if opt("--rewrite") else None
+        res = bench(int(opt("--budget", BUDGET)), rw)
+        out = RUNS / f"bench-{time.strftime('%Y-%m-%d')}-{res['budget']}{'-rewrite' if rw else ''}.json"
         out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
+        return 0
+    if cmd == "migrate":
+        for m in migrate():
+            print(m)
         return 0
     if cmd == "session":
         print(session_prompt(positional[0], attempt))
         return 0
+    terms = json.loads(opt("--terms")) if opt("--terms") else None
     if cmd == "pack":
-        cmd_pack(positional[0], opt("--kind", "explain"))
+        cmd_pack(positional[0], opt("--kind", "explain"), terms)
     elif cmd == "run":
         cmd_run(positional[0], backend, opt("--model"), attempt)
     elif cmd == "verify":
@@ -848,7 +945,7 @@ def main(argv: list[str]) -> int:
     elif cmd == "land":
         cmd_land(positional[0], backend, attempt)
     elif cmd == "ask":
-        qid = cmd_pack(positional[0], opt("--kind", "explain"))
+        qid = cmd_pack(positional[0], opt("--kind", "explain"), terms)
         res = cmd_run(qid, backend, opt("--model"), attempt)
         _, v = cmd_verify(qid, backend, attempt)
         if v["status"] == "answered":

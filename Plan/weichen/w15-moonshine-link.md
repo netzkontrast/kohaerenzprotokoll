@@ -11,7 +11,7 @@ empfehlung: "B"
 
 **Entscheidungsblatt, 2026-09-30 · Runde 2. Vorschlag, keine Festlegung.**
 Grundlage: [Q9](../../Wiki/questions/q9-moonshine-link-boundary.md) und die `ask`-Antwort
-[`ask-2026-09-30-a1253825`](../../Sources/ask/ask-2026-09-30-a1253825-claude-cli.md)
+[`ask-2026-09-30-a1253825`](../../Sources/ask/was-kann-ueber-den-moonshine-link-zwischen-kael-und-juna-uebertragen-werden-und/claude-cli/answer.md)
 (10 von 10 Zitaten platziert; eine Modell-Lesart, Tier `M-ask`, Entscheidung 017).
 
 ## Die Frage und die Evidenz
