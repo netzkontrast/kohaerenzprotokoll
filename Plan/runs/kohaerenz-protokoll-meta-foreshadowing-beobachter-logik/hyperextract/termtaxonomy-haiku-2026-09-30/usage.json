@@ -4,7 +4,7 @@
   "model": "claude-cli/haiku",
   "calls": 3,
   "failed_calls": 0,
-  "seconds": 13.6,
+  "seconds": 13.5,
   "input_tokens": 15573,
   "output_tokens": 832,
   "cost_usd": 0.0353,

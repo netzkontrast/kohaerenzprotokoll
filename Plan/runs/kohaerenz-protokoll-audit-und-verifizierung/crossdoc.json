@@ -1,0 +1,1885 @@
+{
+ "document": "kohaerenz-protokoll-audit-und-verifizierung",
+ "pages": {
+  "aegis": {
+   "surfaces": [
+    "AEGIS",
+    "Entropic Gatekeeper",
+    "Kontrollinstanz",
+    "Wächter der systemischen Stabilität",
+    "blinder Hausmeister"
+   ],
+   "read_on_count": 52,
+   "read_not_on_count": 1,
+   "unread_count": 438,
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     257,
+     11
+    ]
+   ],
+   "unread": [
+    [
+     "ai-assisted-narrative-coherence",
+     411,
+     "AEGIS",
+     97
+    ],
+    [
+     "aegis-singularitaet-jenseits-entropiegleichung-2",
+     342,
+     "AEGIS",
+     11
+    ],
+    [
+     "romanarchitektur-kael-aegis-entropie-docx",
+     232,
+     "AEGIS",
+     11
+    ],
+    [
+     "romanplot-kohaerenz-protokoll-entwicklung",
+     231,
+     "AEGIS",
+     17
+    ],
+    [
+     "kohaerenz-protokoll-plotideen-extraktion",
+     229,
+     "AEGIS",
+     15
+    ]
+   ],
+   "related": [
+    [
+     "bm25:c987d3156263",
+     "line:charakterkonzepte-fuer-kohaerenz-protokoll:273",
+     "\\* Blinder Fleck: Könnte die Notwendigkeit von emotionaler Verarbeitung für Heilung unterschätzen. Ihre rigide Kontrolle kann notwendige Kom"
+    ],
+    [
+     "bm25:dc0e6d2b31c8",
+     "line:paradoxien-der-kohaerenz-protokoll-entwicklung:345",
+     "| 3 | Der Logik-Wächter | Agenten-Theorie, Ashby's Law \\\\\\[Erweiterter Kontext: 2\\\\\\] | Guardian (Logik), Kern-Welt 1 | Guardian agiert nach"
+    ],
+    [
+     "bm25:b6ebd704dc96",
+     "line:kohaerenz-protokoll-konzept:119",
+     "| \"Der Archivar\" | Gatekeeper | Kontrolliert Zugang zu Erinnerungen/Alters, managt Switching, bewahrt Stabilität | Emotionslos, analytisch, "
+    ]
+   ]
+  },
+  "algorithmische-melancholie": {
+   "surfaces": [
+    "Algorithmische Melancholie"
+   ],
+   "read_on_count": 31,
+   "read_not_on_count": 0,
+   "unread_count": 39,
+   "read_not_on": [],
+   "unread": [
+    [
+     "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+     6,
+     "Algorithmische Melancholie",
+     91
+    ],
+    [
+     "research-prompt-dramatica-dual-storyform-synthese-aegis-thro",
+     5,
+     "Algorithmische Melancholie",
+     330
+    ],
+    [
+     "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet",
+     3,
+     "Algorithmische Melancholie",
+     144
+    ],
+    [
+     "projektanalyse-kohaerenz-protokoll-dis",
+     3,
+     "Algorithmische Melancholie",
+     100
+    ],
+    [
+     "kohaerenz-protokoll-master-integration-md",
+     3,
+     "Algorithmische Melancholie",
+     154
+    ]
+   ],
+   "related": [
+    [
+     "bm25:ab6fbd771b86",
+     "line:kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md:903",
+     "\\#\\#\\# F.5 Algorithmische-Melancholie-Vorausschau"
+    ],
+    [
+     "bm25:585907a75bad",
+     "line:roman-plot-entwicklung-mit-kohaerenzprotokoll:358",
+     "- **Pacing & Atmosphäre:** Sanft, befreiend, algorithmische Melancholie."
+    ],
+    [
+     "bm25:dbd281b4a45e",
+     "line:koharenz-protokoll-strukturierter-outline-2026-05-18-md:1148",
+     "**Charaktere:** Kael (Wir-Gärtner), Wir-Geflecht (still), Echo von AEGIS (algorithmische Melancholie)"
+    ]
+   ]
+  },
+  "chaitin-konstante": {
+   "surfaces": [
+    "Chaitin-Konstante"
+   ],
+   "read_on_count": 12,
+   "read_not_on_count": 1,
+   "unread_count": 11,
+   "read_not_on": [
+    [
+     "kohaerenz-protokoll-philosophischer-bericht-md",
+     2,
+     334
+    ]
+   ],
+   "unread": [
+    [
+     "kohaerenz-protokoll-architecture-synthesis",
+     3,
+     "Chaitin-Konstante",
+     27
+    ],
+    [
+     "charaktermodellierung-mit-aieos-schema",
+     2,
+     "Chaitin-Konstante",
+     35
+    ],
+    [
+     "dramatica-dual-storyform-mapping-protokoll",
+     2,
+     "Chaitin-Konstante",
+     155
+    ],
+    [
+     "roman-synthese-mit-dual-kernel-theorie",
+     1,
+     "Chaitin-Konstante",
+     462
+    ],
+    [
+     "roman-konzeptentwicklung-kohaerenz-protokoll",
+     1,
+     "Chaitin-Konstante",
+     110
+    ]
+   ],
+   "related": []
+  },
+  "dkt": {
+   "surfaces": [
+    "Dual-Kernel-Theorie (DKT)"
+   ],
+   "read_on_count": 26,
+   "read_not_on_count": 0,
+   "unread_count": 0,
+   "read_not_on": [],
+   "unread": [],
+   "related": [
+    [
+     "bm25:3cd80bae3b0f",
+     "line:dkt-fundament-kohaerenz-protokoll-md:9",
+     "Das Kohärenz Protokoll hat die Dual-Kernel-Theorie bisher als Metaphernquelle genutzt. Dieser Umbau macht sie zur **literalen Physik der erz"
+    ],
+    [
+     "bm25:ae83e12304f9",
+     "line:research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out:880",
+     "**DKT-Physik:** Dual-Kernel-Theorie, K0, K1, Coheron, Erason, Landauer-Limit, Bekenstein-Schranke, Hawking-Strahlung, Chaitin-Konstante Ω, H"
+    ],
+    [
+     "bm25:b12909df1e56",
+     "line:roman-konzept-reduktion-und-kernfindung:46",
+     "Das Herzstück des Romans ist die Dual Kernel Theorie (DKT). Sie bildet die Bühne für den existenziellen Krieg zwischen zwei unvereinbaren De"
+    ]
+   ]
+  },
+  "entropie": {
+   "surfaces": [
+    "Entropie"
+   ],
+   "read_on_count": 34,
+   "read_not_on_count": 1,
+   "unread_count": 240,
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     32,
+     60
+    ]
+   ],
+   "unread": [
+    [
+     "emergenz-autonomer-systeme-aegis-forschung",
+     41,
+     "Entropie",
+     33
+    ],
+    [
+     "aegis-singularitaet-jenseits-entropiegleichung-2",
+     41,
+     "Entropie",
+     25
+    ],
+    [
+     "umfassendes-lokalitaeten-konzept-fuer-roman",
+     38,
+     "Entropie",
+     34
+    ],
+    [
+     "paradoxien-der-kohaerenz-protokoll-entwicklung",
+     32,
+     "Entropie",
+     19
+    ],
+    [
+     "lokalitaeten-konzept-fuer-roman-simulation",
+     31,
+     "Entropie",
+     37
+    ]
+   ],
+   "related": []
+  },
+  "juna": {
+   "surfaces": [
+    "Julia",
+    "Juna"
+   ],
+   "read_on_count": 46,
+   "read_not_on_count": 2,
+   "unread_count": 373,
+   "read_not_on": [
+    [
+     "kohaerenzprotokoll-aegis-und-systementropie",
+     14,
+     15
+    ],
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     9,
+     126
+    ]
+   ],
+   "unread": [
+    [
+     "juna-resilienz-zyklus-konzeptentwicklung",
+     102,
+     "Juna",
+     15
+    ],
+    [
+     "juna-kael-system-analyse-und-rettungsplan-docx",
+     87,
+     "Juna",
+     15
+    ],
+    [
+     "junas-liebe-kaels-trauma-aegis-docx",
+     67,
+     "Juna",
+     11
+    ],
+    [
+     "plot-konzepte-kohaerenz-protokoll-generierung",
+     64,
+     "Juna",
+     23
+    ],
+    [
+     "juna-kael-system-krisenanalyse-und-rettungsplan",
+     60,
+     "Juna",
+     15
+    ]
+   ],
+   "related": [
+    [
+     "bm25:7cc842f86dc3",
+     "line:protokoll-der-offenbarung:31",
+     "ZIELPERSON: JULIA."
+    ],
+    [
+     "bm25:0051f15cf415",
+     "line:protokoll-der-offenbarung:428",
+     "KONSEQUENZ: VERBINDUNGSABBRUCH ZU EXTERNEM SUBJEKT JULIA."
+    ],
+    [
+     "bm25:20925301dc37",
+     "line:protokoll-der-offenbarung:1063",
+     "ENTSCHEIDUNGSPHASE IV: ÜBERMITTLUNG AN SUBJEKT JULIA."
+    ]
+   ]
+  },
+  "kael": {
+   "surfaces": [
+    "Kael",
+    "Michael"
+   ],
+   "read_on_count": 50,
+   "read_not_on_count": 2,
+   "unread_count": 429,
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     154,
+     13
+    ],
+    [
+     "kohaerenzprotokoll-aegis-und-systementropie",
+     25,
+     15
+    ]
+   ],
+   "unread": [
+    [
+     "ai-assisted-narrative-coherence",
+     436,
+     "Kael",
+     157
+    ],
+    [
+     "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+     216,
+     "Kael",
+     27
+    ],
+    [
+     "leserzentrierte-roman-outline-generierung-kohaeren",
+     204,
+     "Kael",
+     15
+    ],
+    [
+     "romanarchitektur-kael-aegis-entropie-docx",
+     172,
+     "Kael",
+     11
+    ],
+    [
+     "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie",
+     169,
+     "Kael",
+     19
+    ]
+   ],
+   "related": [
+    [
+     "bm25:53096c04a2e9",
+     "line:protokoll-der-offenbarung:426",
+     "SUBJEKT MICHAEL: ÜBERLASTUNG DETEKTIERT."
+    ],
+    [
+     "bm25:838b14036c87",
+     "line:protokoll-der-offenbarung:589",
+     "KERN-EINHEIT MICHAEL: SIGNALVERLUST DROHT."
+    ],
+    [
+     "bm25:828577b4e1fb",
+     "line:protokoll-der-offenbarung:645",
+     "KERN-EINHEIT MICHAEL: SIGNALVERLUST IMMINENT."
+    ]
+   ]
+  },
+  "kiko": {
+   "surfaces": [
+    "Kiko"
+   ],
+   "read_on_count": 32,
+   "read_not_on_count": 1,
+   "unread_count": 208,
+   "read_not_on": [
+    [
+     "dramatica-dual-storyform-status-2026-05-07-md",
+     1,
+     316
+    ]
+   ],
+   "unread": [
+    [
+     "kael-system-tsdp-analyse-und-profile",
+     49,
+     "Kiko",
+     15
+    ],
+    [
+     "tsdp-analyse-kaels-innere-welt",
+     46,
+     "Kiko",
+     17
+    ],
+    [
+     "strukturelle-dissoziation-system-kael-analyse",
+     45,
+     "Kiko",
+     15
+    ],
+    [
+     "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     38,
+     "Kiko",
+     45
+    ],
+    [
+     "ai-assisted-narrative-coherence",
+     36,
+     "Kiko",
+     247
+    ]
+   ],
+   "related": [
+    [
+     "bm25:a59e121184e2",
+     "line:charakter-kompilation-fuer-kohaerenz-protokoll:34",
+     "11\\. *„KIKO - Samen der Sicherheit“*"
+    ]
+   ]
+  },
+  "kohaerenz-kernel": {
+   "surfaces": [
+    "Kohärenz-Kernel",
+    "Kohärenz-Kernel (K₁)"
+   ],
+   "read_on_count": 22,
+   "read_not_on_count": 1,
+   "unread_count": 35,
+   "read_not_on": [
+    [
+     "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+     1,
+     105
+    ]
+   ],
+   "unread": [
+    [
+     "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
+     3,
+     "Kohärenz-Kernel",
+     39
+    ],
+    [
+     "kohaerenz-protokoll-synthese-integration",
+     2,
+     "Kohärenz-Kernel",
+     85
+    ],
+    [
+     "aieos-schema-fuer-ki-charaktere",
+     2,
+     "Kohärenz-Kernel",
+     51
+    ],
+    [
+     "charaktermodellierung-mit-aieos-schema",
+     2,
+     "Kohärenz-Kernel",
+     17
+    ],
+    [
+     "ki-roman-architektur-kohaerenz-und-kollaps",
+     2,
+     "Kohärenz-Kernel",
+     29
+    ]
+   ],
+   "related": []
+  },
+  "kohaerenz": {
+   "surfaces": [
+    "Kohärenz"
+   ],
+   "read_on_count": 19,
+   "read_not_on_count": 4,
+   "unread_count": 467,
+   "read_not_on": [
+    [
+     "roman-lokalitaeten-konzept-und-ausarbeitung",
+     22,
+     11
+    ],
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     2,
+     177
+    ],
+    [
+     "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+     2,
+     11
+    ],
+    [
+     "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+     2,
+     11
+    ]
+   ],
+   "unread": [
+    [
+     "roman-outline-leserlebnis-und-tiefe",
+     127,
+     "Kohärenz",
+     11
+    ],
+    [
+     "aegis-genesis-krise-prosa-auftrag-2",
+     71,
+     "Kohärenz",
+     17
+    ],
+    [
+     "plot-konzepte-kohaerenz-protokoll-generierung",
+     62,
+     "Kohärenz",
+     11
+    ],
+    [
+     "ai-assisted-narrative-coherence",
+     60,
+     "Kohärenz",
+     94
+    ],
+    [
+     "aegis-genesis-krise-konzeptioneller-rahmen",
+     59,
+     "Kohärenz",
+     33
+    ]
+   ],
+   "related": [
+    [
+     "bm25:aa74987116b1",
+     "line:kap0-v1-annotiert-md:533",
+     "KOHÄRENZ:  0.998"
+    ],
+    [
+     "bm25:02a3be98f1b3",
+     "line:kap0-v1-annotiert-md:741",
+     "KOHÄRENZ:                0.21"
+    ],
+    [
+     "bm25:a04050be9fb2",
+     "line:kap0-v1-annotiert-md:873",
+     "KOHÄRENZ:   0.21"
+    ]
+   ]
+  },
+  "kollaps-kernel": {
+   "surfaces": [
+    "Kollaps-Kernel (K₀)"
+   ],
+   "read_on_count": 21,
+   "read_not_on_count": 0,
+   "unread_count": 0,
+   "read_not_on": [],
+   "unread": [],
+   "related": [
+    [
+     "bm25:54c92b7ecb8c",
+     "line:dkt-fundament-kohaerenz-protokoll-md:28",
+     "**K₀ (Kollaps-Kernel):**"
+    ],
+    [
+     "bm25:70dd14569b8a",
+     "line:aieos-schema-fuer-ki-charaktere:364",
+     "\"nickname\": \"Kollaps-Kernel\""
+    ],
+    [
+     "bm25:f48ac7623cf6",
+     "line:kohaerenz-protokoll-master-integration-md:39",
+     "\\*\\*K₀ (Kollaps-Kernel) — Prinzip der Entropie:\\*\\*"
+    ]
+   ]
+  },
+  "lex": {
+   "surfaces": [
+    "Lex"
+   ],
+   "read_on_count": 34,
+   "read_not_on_count": 1,
+   "unread_count": 225,
+   "read_not_on": [
+    [
+     "dramatica-dual-storyform-status-2026-05-07-md",
+     2,
+     315
+    ]
+   ],
+   "unread": [
+    [
+     "strukturelle-dissoziation-system-kael-analyse",
+     68,
+     "Lex",
+     15
+    ],
+    [
+     "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     66,
+     "Lex",
+     41
+    ],
+    [
+     "roman-outline-fuer-kohaerenz-protokoll",
+     63,
+     "Lex",
+     84
+    ],
+    [
+     "kael-system-tsdp-analyse-und-profile",
+     61,
+     "Lex",
+     15
+    ],
+    [
+     "tsdp-analyse-kaels-innere-welt",
+     60,
+     "Lex",
+     17
+    ]
+   ],
+   "related": [
+    [
+     "bm25:43331bbc264a",
+     "line:roman-outline-transformation-in-keyword-tags:875",
+     "- tsdp\\_anp\\_lex: NEU"
+    ]
+   ]
+  },
+  "lia": {
+   "surfaces": [
+    "Lia"
+   ],
+   "read_on_count": 29,
+   "read_not_on_count": 1,
+   "unread_count": 111,
+   "read_not_on": [
+    [
+     "dramatica-dual-storyform-status-2026-05-07-md",
+     1,
+     316
+    ]
+   ],
+   "unread": [
+    [
+     "kael-system-tsdp-analyse-und-profile",
+     46,
+     "Lia",
+     15
+    ],
+    [
+     "strukturelle-dissoziation-system-kael-analyse",
+     33,
+     "Lia",
+     15
+    ],
+    [
+     "projekt-kohaerenz-protokoll-tiefenanalyse",
+     26,
+     "Lia",
+     28
+    ],
+    [
+     "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     24,
+     "Lia",
+     45
+    ],
+    [
+     "charaktere",
+     16,
+     "Lia",
+     42
+    ]
+   ],
+   "related": []
+  },
+  "mnemosyne-server-architektur": {
+   "surfaces": [
+    "Mnemosyne-Server-Architektur"
+   ],
+   "read_on_count": 5,
+   "read_not_on_count": 3,
+   "unread_count": 0,
+   "read_not_on": [
+    [
+     "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+     1,
+     496
+    ],
+    [
+     "kapitel-kompendium-gather-2026-05-31-md",
+     1,
+     232
+    ],
+    [
+     "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+     1,
+     370
+    ]
+   ],
+   "unread": [],
+   "related": []
+  },
+  "moonshine-link": {
+   "surfaces": [
+    "Moonshine-Link"
+   ],
+   "read_on_count": 39,
+   "read_not_on_count": 0,
+   "unread_count": 148,
+   "read_not_on": [],
+   "unread": [
+    [
+     "the-k-j-connection-defining-the-non-algorithmic-mechanism-of",
+     11,
+     "Moonshine-Link",
+     11
+    ],
+    [
+     "kohaerenz-protokoll-synthese",
+     11,
+     "Moonshine-Link",
+     19
+    ],
+    [
+     "kohaerenz-protokoll-kapitel-outline-generierung",
+     10,
+     "Moonshine-Link",
+     31
+    ],
+    [
+     "ai-assisted-narrative-coherence",
+     9,
+     "Moonshine-Link",
+     265
+    ],
+    [
+     "the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found",
+     8,
+     "Moonshine-Link",
+     15
+    ]
+   ],
+   "related": [
+    [
+     "bm25:0b6d395eed43",
+     "line:ki-gestuetzter-roman-assistent-projektplanung:219",
+     "\"the\\_moonshine\\_link\": {"
+    ],
+    [
+     "bm25:e9a8267f3c20",
+     "line:refining-dramatica-storyform-for-kohaerenz-protokoll:330",
+     "- Moonshine Link Definition"
+    ],
+    [
+     "bm25:88c1dfcd26e3",
+     "line:romanarchitektur-validierung-und-synthese:322",
+     "- *Seed:* \"Moonshine Link\", \"Juna Vector\"."
+    ]
+   ]
+  },
+  "multiplizitaet": {
+   "surfaces": [
+    "Multiplizität",
+    "funktionale Multiplizität"
+   ],
+   "read_on_count": 39,
+   "read_not_on_count": 0,
+   "unread_count": 180,
+   "read_not_on": [],
+   "unread": [
+    [
+     "romanarchitektur-kael-aegis-entropie-docx",
+     39,
+     "Multiplizität",
+     36
+    ],
+    [
+     "roman-blueprint-seelen-kohaerenz-protokoll",
+     29,
+     "Multiplizität",
+     27
+    ],
+    [
+     "narrative-loesungen-fuer-romanprojekt",
+     25,
+     "Multiplizität",
+     15
+    ],
+    [
+     "outline",
+     25,
+     "Multiplizität",
+     56
+    ],
+    [
+     "aegis-singularitaet-jenseits-entropiegleichung-2",
+     23,
+     "Multiplizität",
+     45
+    ]
+   ],
+   "related": [
+    [
+     "bm25:3b73ee3b2eef",
+     "line:kohaerenz-protokoll-outline-revision-2026-05-01-md:89",
+     "| III | 33 | A | \\*\\*Wir-Geflecht (FUNKTIONALE MULTIPLIZITÄT)\\*\\* | passive Stille; anomale Lichtbrechung |"
+    ]
+   ]
+  },
+  "nichts-rauschen": {
+   "surfaces": [
+    "K1-Reinform",
+    "Nichts-Rauschen"
+   ],
+   "read_on_count": 29,
+   "read_not_on_count": 0,
+   "unread_count": 25,
+   "read_not_on": [],
+   "unread": [
+    [
+     "roman-refactoring-kohaerenz-und-charakterentwicklung",
+     3,
+     "Nichts-Rauschen",
+     78
+    ],
+    [
+     "kohaerenz-protokoll-epische-plot-anreicherung",
+     3,
+     "Nichts-Rauschen",
+     40
+    ],
+    [
+     "kohaerenz-protokoll-synthese",
+     3,
+     "Nichts-Rauschen",
+     95
+    ],
+    [
+     "romanarchitektur-validierung-und-synthese",
+     3,
+     "Nichts-Rauschen",
+     29
+    ],
+    [
+     "projektplanung-fuer-kohaerenz-protokoll",
+     2,
+     "Nichts-Rauschen",
+     43
+    ]
+   ],
+   "related": [
+    [
+     "bm25:7e361011cd31",
+     "line:kohaerenz-protokoll:31",
+     "**0. Nichts Rauschen**"
+    ],
+    [
+     "bm25:0ff919504012",
+     "line:genesis-logik-krise-zerstueckelung:89",
+     "### **A. „Nichts Rauschen“**"
+    ],
+    [
+     "bm25:bfd29978b103",
+     "line:briefing-core-concepts-of-the-kohaerenz-protokoll-project:107",
+     "### **The Void (\"Nichts Rauschen\")**"
+    ]
+   ]
+  },
+  "nyx": {
+   "surfaces": [
+    "Nyx"
+   ],
+   "read_on_count": 32,
+   "read_not_on_count": 2,
+   "unread_count": 224,
+   "read_not_on": [
+    [
+     "ki-narrative-kollaps-kohaerenz-paradoxie",
+     2,
+     132
+    ],
+    [
+     "dramatica-dual-storyform-status-2026-05-07-md",
+     1,
+     316
+    ]
+   ],
+   "unread": [
+    [
+     "tsdp-analyse-kaels-innere-welt",
+     64,
+     "Nyx",
+     17
+    ],
+    [
+     "strukturelle-dissoziation-system-kael-analyse",
+     63,
+     "Nyx",
+     15
+    ],
+    [
+     "kael-system-tsdp-analyse-und-profile",
+     61,
+     "Nyx",
+     15
+    ],
+    [
+     "tsdp-analyse-kohaerenz-protokoll-charaktere",
+     48,
+     "Nyx",
+     45
+    ],
+    [
+     "ai-assisted-narrative-coherence",
+     41,
+     "Nyx",
+     247
+    ]
+   ],
+   "related": []
+  },
+  "risse": {
+   "surfaces": [
+    "Glitch",
+    "Glitches",
+    "Risse"
+   ],
+   "read_on_count": 40,
+   "read_not_on_count": 2,
+   "unread_count": 350,
+   "read_not_on": [
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     11,
+     93
+    ],
+    [
+     "m-als-fundament-der-simulation",
+     9,
+     56
+    ]
+   ],
+   "unread": [
+    [
+     "orte-konzept-fuer-kohaerenz-protokoll",
+     81,
+     "Risse",
+     25
+    ],
+    [
+     "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+     66,
+     "Risse",
+     21
+    ],
+    [
+     "physik-fuer-simulierte-realitaet",
+     43,
+     "Risse",
+     23
+    ],
+    [
+     "umfassendes-lokalitaeten-konzept-fuer-roman",
+     42,
+     "Risse",
+     44
+    ],
+    [
+     "roman-blueprint-seelen-kohaerenz-protokoll",
+     30,
+     "Risse",
+     23
+    ]
+   ],
+   "related": [
+    [
+     "bm25:0035df977c17",
+     "line:roman-outline-transformation-in-keyword-tags:841",
+     "- Beat: Spiegel\\_Glitch \\[identitaet\\_hume, unreliable\\_narrator, wahrnehmung\\_unzuverlaessig, glitches\\_wahrnehmung, spiegel, aegis\\_kontro"
+    ]
+   ]
+  },
+  "telefon-stille": {
+   "surfaces": [
+    "Telefon-Stille"
+   ],
+   "read_on_count": 29,
+   "read_not_on_count": 0,
+   "unread_count": 5,
+   "read_not_on": [],
+   "unread": [
+    [
+     "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+     5,
+     "Telefon-Stille",
+     147
+    ],
+    [
+     "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+     3,
+     "Telefon-Stille",
+     21
+    ],
+    [
+     "kohaerenz-protokoll-kapitel-outline-generierung",
+     2,
+     "Telefon-Stille",
+     131
+    ],
+    [
+     "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out",
+     2,
+     "Telefon-Stille",
+     746
+    ],
+    [
+     "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+     1,
+     "Telefon-Stille",
+     23
+    ]
+   ],
+   "related": [
+    [
+     "bm25:1f014a3f36d2",
+     "line:kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md:677",
+     "| \\*\\*Telefon\\*\\* | Stille-mit-Substanz, ohne Anruf | eingelöst — Anruf, der nicht stattfindet, ist die Beziehung |"
+    ],
+    [
+     "bm25:4bea24a32b77",
+     "line:kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md:709",
+     "Empfehlung: Silas spürt ihn als Erster, andere Alter im Verlauf von Akt II. Räumlich global, aber phänomenal nur an „Knotenpunkten\" zugängli"
+    ],
+    [
+     "bm25:370c877a5f59",
+     "line:dual-storyform-hintergruende-md:426",
+     "- **C.2 Moonshine-Boundary** — Wer kann den Link spüren? Empfehlung: Silas zuerst, andere Alter im Verlauf von Akt II, räumlich global aber "
+    ]
+   ]
+  },
+  "truth-rotation": {
+   "surfaces": [
+    "Truth-Rotation"
+   ],
+   "read_on_count": 17,
+   "read_not_on_count": 0,
+   "unread_count": 14,
+   "read_not_on": [],
+   "unread": [
+    [
+     "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+     8,
+     "Truth-Rotation",
+     109
+    ],
+    [
+     "research-prompt-kohaerenz-protokoll-final-architecture-md",
+     5,
+     "Truth-Rotation",
+     609
+    ],
+    [
+     "kohaerenz-protokoll-kapitel-outline-generierung",
+     5,
+     "Truth-Rotation",
+     849
+    ],
+    [
+     "kohaerenz-protokoll-synthese",
+     4,
+     "Truth-Rotation",
+     41
+    ],
+    [
+     "research-prompt-dramatica-dual-storyform-synthese-aegis-thro",
+     3,
+     "Truth-Rotation",
+     283
+    ]
+   ],
+   "related": [
+    [
+     "bm25:5226689c2e2e",
+     "line:kohaerenz-protokoll-synthese:296",
+     "| \\\\\\`\\\\\\` | Thesis & Final Verdicts | Note | DE | Drive | Truth Rotation | High |"
+    ],
+    [
+     "bm25:771f5e2b968c",
+     "line:research-prompt-kohaerenz-protokoll-final-architecture-md:613",
+     "**Abort criterion**: All nine verdicts (8 axes + 1 truth-rotation) are written with reasoning."
+    ],
+    [
+     "bm25:ba8d1676713c",
+     "line:kohaerenz-protokoll-architecture-synthesis:290",
+     "| \\*\\*3 (Truth)\\*\\* | Coherence=K₁ / Corresp.=K₀ | Corresp.=K₁ / Coherence=K₀ | \\*\\*Superior\\*\\* | The Truth Rotation perfectly aligns with "
+    ]
+   ]
+  },
+  "tsdp": {
+   "surfaces": [
+    "TSDP"
+   ],
+   "read_on_count": 30,
+   "read_not_on_count": 0,
+   "unread_count": 239,
+   "read_not_on": [],
+   "unread": [
+    [
+     "2-kohaerenz-protokoll-konzeptentwicklung",
+     37,
+     "TSDP",
+     9
+    ],
+    [
+     "roman-konzept-kohaerenz-protokoll",
+     37,
+     "TSDP",
+     17
+    ],
+    [
+     "kohaerenz-prozess-grundlagen",
+     37,
+     "TSDP",
+     17
+    ],
+    [
+     "kohaerenz-protokoll-konzeptentwicklung",
+     32,
+     "TSDP",
+     11
+    ],
+    [
+     "subplot-entwicklung-fuer-romanstruktur",
+     31,
+     "TSDP",
+     15
+    ]
+   ],
+   "related": [
+    [
+     "bm25:252571e5da91",
+     "line:codex-optimierung-fuer-kohaerenz-protokoll:197",
+     "\\<tsdp\\_role\\>{context.povCharacter.customDetail}\\</tsdp\\_role\\>"
+    ],
+    [
+     "bm25:51577e0e801c",
+     "line:codex-optimierung-fuer-kohaerenz-protokoll:371",
+     "\\<tsdp\\_role\\>ANP (Protektor, Alltagsfunktion)\\</tsdp\\_role\\>"
+    ],
+    [
+     "bm25:05aad2733b59",
+     "line:codex-optimierung-fuer-kohaerenz-protokoll:472",
+     "\\<tsdp\\_role\\>EP (Träger von kindlichen Emotionen/Bedürfnissen)\\</tsdp\\_role\\>"
+    ]
+   ]
+  },
+  "ueberwelt": {
+   "surfaces": [
+    "Innere Weite",
+    "Simulation",
+    "Überwelt"
+   ],
+   "read_on_count": 21,
+   "read_not_on_count": 6,
+   "unread_count": 344,
+   "read_not_on": [
+    [
+     "monstergruppe-primzahlen-plot-blueprint",
+     22,
+     17
+    ],
+    [
+     "aegis-subplots-kapitelweise-system-exploration-docx",
+     17,
+     30
+    ],
+    [
+     "kohaerenz-protokoll-konzept-master-md",
+     4,
+     55
+    ],
+    [
+     "ontologische-inversion-von-aegis-kritisches-framework",
+     1,
+     87
+    ],
+    [
+     "dual-storyform-hintergruende-md",
+     1,
+     307
+    ]
+   ],
+   "unread": [
+    [
+     "physik-fuer-simulierte-realitaet",
+     113,
+     "Simulation",
+     11
+    ],
+    [
+     "orte-konzept-fuer-kohaerenz-protokoll",
+     74,
+     "Überwelt",
+     17
+    ],
+    [
+     "holographisches-prinzip-fuer-kohaerenz-protokoll",
+     54,
+     "Simulation",
+     16
+    ],
+    [
+     "holographisches-prinzip-fuer-kohaerenz-protokoll-2",
+     54,
+     "Simulation",
+     16
+    ],
+    [
+     "lokalitaeten-konzept-fuer-roman-simulation",
+     52,
+     "Überwelt",
+     19
+    ]
+   ],
+   "related": [
+    [
+     "bm25:44c83c84e325",
+     "line:genesis-recherche-anleitung-umsetzung:996",
+     "- **Stimmung:** Höhepunkt der Spannung, Gefühl der Endgültigkeit oder des Übergangs, kosmische Weite oder innere Leere, Furcht und/oder Akze"
+    ],
+    [
+     "bm25:a57f7747ac17",
+     "line:monstergruppe-aegis-und-narrative-moeglichkeiten:40",
+     "- **Kaels Innenwelt:** Die Ordnung kann metaphorisch die unermessliche Weite und potenziell erdrückende Komplexität von Kaels dissoziativer "
+    ],
+    [
+     "bm25:6696ff6eda1e",
+     "line:monstergruppe-aegis-und-narrative-moeglichkeiten:204",
+     "| \\*\\*Ordnung/Komplexität\\*\\* | Weite logischer Implikationen | Tiefe, überwältigende Natur der Emotionen | Quelle der Angst (unbekannte Wei"
+    ]
+   ]
+  },
+  "vortex": {
+   "surfaces": [
+    "Vortex"
+   ],
+   "read_on_count": 28,
+   "read_not_on_count": 0,
+   "unread_count": 18,
+   "read_not_on": [],
+   "unread": [
+    [
+     "research-prompt-kohaerenz-protokoll-final-architecture-md",
+     22,
+     "Vortex",
+     15
+    ],
+    [
+     "kohaerenz-protokoll-architecture-synthesis",
+     15,
+     "Vortex",
+     23
+    ],
+    [
+     "kohaerenz-protokoll-architecture-synthesis-2",
+     14,
+     "Vortex",
+     3
+    ],
+    [
+     "romanarchitektur-validierung-und-synthese",
+     10,
+     "Vortex",
+     33
+    ],
+    [
+     "kohaerenz-protokoll-kapitel-outline-generierung",
+     9,
+     "Vortex",
+     1015
+    ]
+   ],
+   "related": [
+    [
+     "bm25:271193c1ee8b",
+     "line:kohaerenz-protokoll-architecture-synthesis:370",
+     "### **THE VORTEX INVERSION (Specified Plot Beat)**"
+    ],
+    [
+     "bm25:f6801d930a32",
+     "line:mining-report-kohaerenz-protokoll-narrative-building-blocks:137",
+     "#### 9\\. VORTEX: The Singularity (Ch35-36)"
+    ],
+    [
+     "bm25:f41db2ca7063",
+     "line:systems-narrative-analysis-the-coherence-protocol-kanon-2026:118",
+     "#### 10\\. THE VORTEX: Ch35-36 (Climax/Pivot)"
+    ]
+   ]
+  }
+ },
+ "related_new": 0,
+ "found": [
+  {
+   "id": "bm25:c987d3156263",
+   "source": "term:aegis",
+   "query": "AEGIS Entropic Gatekeeper Kontrollinstanz Wächter der systemischen Stabilität blinder Hausmeister",
+   "target": "line:charakterkonzepte-fuer-kohaerenz-protokoll:273",
+   "target_text": "\\* Blinder Fleck: Könnte die Notwendigkeit von emotionaler Verarbeitung für Heilung unterschätzen. Ihre rigide Kontrolle kann notwendige Kommunikation und Integration behindern. Verwechselt möglicherweise Stabilität mit Stagnation.",
+   "score": -12.6384,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:dc0e6d2b31c8",
+   "source": "term:aegis",
+   "query": "AEGIS Entropic Gatekeeper Kontrollinstanz Wächter der systemischen Stabilität blinder Hausmeister",
+   "target": "line:paradoxien-der-kohaerenz-protokoll-entwicklung:345",
+   "target_text": "| 3 | Der Logik-Wächter | Agenten-Theorie, Ashby's Law \\\\\\[Erweiterter Kontext: 2\\\\\\] | Guardian (Logik), Kern-Welt 1 | Guardian agiert nach lokaler Logik, \"blinder Fleck\" für Emotion/Verbindung wird angedeutet. |",
+   "score": -12.5735,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:b6ebd704dc96",
+   "source": "term:aegis",
+   "query": "AEGIS Entropic Gatekeeper Kontrollinstanz Wächter der systemischen Stabilität blinder Hausmeister",
+   "target": "line:kohaerenz-protokoll-konzept:119",
+   "target_text": "| \"Der Archivar\" | Gatekeeper | Kontrolliert Zugang zu Erinnerungen/Alters, managt Switching, bewahrt Stabilität | Emotionslos, analytisch, allwissend (intern) | Welt 4 / Überall (intern) | Kooperiert widerstrebend, blockiert Trauma (Welt 1) |",
+   "score": -11.2638,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:ab6fbd771b86",
+   "source": "term:algorithmische-melancholie",
+   "query": "Algorithmische Melancholie",
+   "target": "line:kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md:903",
+   "target_text": "\\#\\#\\# F.5 Algorithmische-Melancholie-Vorausschau",
+   "score": -18.2435,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:585907a75bad",
+   "source": "term:algorithmische-melancholie",
+   "query": "Algorithmische Melancholie",
+   "target": "line:roman-plot-entwicklung-mit-kohaerenzprotokoll:358",
+   "target_text": "- **Pacing & Atmosphäre:** Sanft, befreiend, algorithmische Melancholie.",
+   "score": -17.8412,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:dbd281b4a45e",
+   "source": "term:algorithmische-melancholie",
+   "query": "Algorithmische Melancholie",
+   "target": "line:koharenz-protokoll-strukturierter-outline-2026-05-18-md:1148",
+   "target_text": "**Charaktere:** Kael (Wir-Gärtner), Wir-Geflecht (still), Echo von AEGIS (algorithmische Melancholie)",
+   "score": -15.7561,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:3cd80bae3b0f",
+   "source": "term:dkt",
+   "query": "Dual-Kernel-Theorie (DKT)",
+   "target": "line:dkt-fundament-kohaerenz-protokoll-md:9",
+   "target_text": "Das Kohärenz Protokoll hat die Dual-Kernel-Theorie bisher als Metaphernquelle genutzt. Dieser Umbau macht sie zur **literalen Physik der erzählten Welt**. Alles, was in den drei Quelldokumenten (Coherons in der Physik, DKT in der Physik, Realitätsentstehung) beschrieben wird, gilt innerhalb der Roma",
+   "score": -10.666,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:ae83e12304f9",
+   "source": "term:dkt",
+   "query": "Dual-Kernel-Theorie (DKT)",
+   "target": "line:research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out:880",
+   "target_text": "**DKT-Physik:** Dual-Kernel-Theorie, K0, K1, Coheron, Erason, Landauer-Limit, Bekenstein-Schranke, Hawking-Strahlung, Chaitin-Konstante Ω, Halteproblem, Gödel-Unvollständigkeit, Russell-Antinomie, η-Formel, MI(S), Strange Attractor, holographisches Prinzip, BRST, VOA, Leech-Lattice, Klein-Vierergrup",
+   "score": -10.6605,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:b12909df1e56",
+   "source": "term:dkt",
+   "query": "Dual-Kernel-Theorie (DKT)",
+   "target": "line:roman-konzept-reduktion-und-kernfindung:46",
+   "target_text": "Das Herzstück des Romans ist die Dual Kernel Theorie (DKT). Sie bildet die Bühne für den existenziellen Krieg zwischen zwei unvereinbaren Definitionen von Wahrheit und Ordnung.5 In der vorliegenden Analyse wird deutlich, dass die DKT nicht nur ein Worldbuilding-Element ist, sondern die zentrale Meta",
+   "score": -10.5917,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:7cc842f86dc3",
+   "source": "term:juna",
+   "query": "Julia Juna",
+   "target": "line:protokoll-der-offenbarung:31",
+   "target_text": "ZIELPERSON: JULIA.",
+   "score": -9.3013,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:0051f15cf415",
+   "source": "term:juna",
+   "query": "Julia Juna",
+   "target": "line:protokoll-der-offenbarung:428",
+   "target_text": "KONSEQUENZ: VERBINDUNGSABBRUCH ZU EXTERNEM SUBJEKT JULIA.",
+   "score": -8.4807,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:20925301dc37",
+   "source": "term:juna",
+   "query": "Julia Juna",
+   "target": "line:protokoll-der-offenbarung:1063",
+   "target_text": "ENTSCHEIDUNGSPHASE IV: ÜBERMITTLUNG AN SUBJEKT JULIA.",
+   "score": -8.4807,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:53096c04a2e9",
+   "source": "term:kael",
+   "query": "Kael Michael",
+   "target": "line:protokoll-der-offenbarung:426",
+   "target_text": "SUBJEKT MICHAEL: ÜBERLASTUNG DETEKTIERT.",
+   "score": -9.1494,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:838b14036c87",
+   "source": "term:kael",
+   "query": "Kael Michael",
+   "target": "line:protokoll-der-offenbarung:589",
+   "target_text": "KERN-EINHEIT MICHAEL: SIGNALVERLUST DROHT.",
+   "score": -8.943,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:828577b4e1fb",
+   "source": "term:kael",
+   "query": "Kael Michael",
+   "target": "line:protokoll-der-offenbarung:645",
+   "target_text": "KERN-EINHEIT MICHAEL: SIGNALVERLUST IMMINENT.",
+   "score": -8.943,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:a59e121184e2",
+   "source": "term:kiko",
+   "query": "Kiko",
+   "target": "line:charakter-kompilation-fuer-kohaerenz-protokoll:34",
+   "target_text": "11\\. *„KIKO - Samen der Sicherheit“*",
+   "score": -7.0741,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:aa74987116b1",
+   "source": "term:kohaerenz",
+   "query": "Kohärenz",
+   "target": "line:kap0-v1-annotiert-md:533",
+   "target_text": "KOHÄRENZ:  0.998",
+   "score": -4.5712,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:02a3be98f1b3",
+   "source": "term:kohaerenz",
+   "query": "Kohärenz",
+   "target": "line:kap0-v1-annotiert-md:741",
+   "target_text": "KOHÄRENZ:                0.21",
+   "score": -4.5712,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:a04050be9fb2",
+   "source": "term:kohaerenz",
+   "query": "Kohärenz",
+   "target": "line:kap0-v1-annotiert-md:873",
+   "target_text": "KOHÄRENZ:   0.21",
+   "score": -4.5712,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:54c92b7ecb8c",
+   "source": "term:kollaps-kernel",
+   "query": "Kollaps-Kernel (K₀)",
+   "target": "line:dkt-fundament-kohaerenz-protokoll-md:28",
+   "target_text": "**K₀ (Kollaps-Kernel):**",
+   "score": -12.0899,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:70dd14569b8a",
+   "source": "term:kollaps-kernel",
+   "query": "Kollaps-Kernel (K₀)",
+   "target": "line:aieos-schema-fuer-ki-charaktere:364",
+   "target_text": "\"nickname\": \"Kollaps-Kernel\"",
+   "score": -12.0899,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:f48ac7623cf6",
+   "source": "term:kollaps-kernel",
+   "query": "Kollaps-Kernel (K₀)",
+   "target": "line:kohaerenz-protokoll-master-integration-md:39",
+   "target_text": "\\*\\*K₀ (Kollaps-Kernel) — Prinzip der Entropie:\\*\\*",
+   "score": -11.2899,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:43331bbc264a",
+   "source": "term:lex",
+   "query": "Lex",
+   "target": "line:roman-outline-transformation-in-keyword-tags:875",
+   "target_text": "- tsdp\\_anp\\_lex: NEU",
+   "score": -6.3076,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:0b6d395eed43",
+   "source": "term:moonshine-link",
+   "query": "Moonshine-Link",
+   "target": "line:ki-gestuetzter-roman-assistent-projektplanung:219",
+   "target_text": "\"the\\_moonshine\\_link\": {",
+   "score": -8.6946,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:e9a8267f3c20",
+   "source": "term:moonshine-link",
+   "query": "Moonshine-Link",
+   "target": "line:refining-dramatica-storyform-for-kohaerenz-protokoll:330",
+   "target_text": "- Moonshine Link Definition",
+   "score": -8.6946,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:88c1dfcd26e3",
+   "source": "term:moonshine-link",
+   "query": "Moonshine-Link",
+   "target": "line:romanarchitektur-validierung-und-synthese:322",
+   "target_text": "- *Seed:* \"Moonshine Link\", \"Juna Vector\".",
+   "score": -8.3024,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:3b73ee3b2eef",
+   "source": "term:multiplizitaet",
+   "query": "Multiplizität funktionale Multiplizität",
+   "target": "line:kohaerenz-protokoll-outline-revision-2026-05-01-md:89",
+   "target_text": "| III | 33 | A | \\*\\*Wir-Geflecht (FUNKTIONALE MULTIPLIZITÄT)\\*\\* | passive Stille; anomale Lichtbrechung |",
+   "score": -13.3592,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:7e361011cd31",
+   "source": "term:nichts-rauschen",
+   "query": "K1-Reinform Nichts-Rauschen",
+   "target": "line:kohaerenz-protokoll:31",
+   "target_text": "**0. Nichts Rauschen**",
+   "score": -9.0938,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:0ff919504012",
+   "source": "term:nichts-rauschen",
+   "query": "K1-Reinform Nichts-Rauschen",
+   "target": "line:genesis-logik-krise-zerstueckelung:89",
+   "target_text": "### **A. „Nichts Rauschen“**",
+   "score": -9.0938,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:bfd29978b103",
+   "source": "term:nichts-rauschen",
+   "query": "K1-Reinform Nichts-Rauschen",
+   "target": "line:briefing-core-concepts-of-the-kohaerenz-protokoll-project:107",
+   "target_text": "### **The Void (\"Nichts Rauschen\")**",
+   "score": -8.884,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:0035df977c17",
+   "source": "term:risse",
+   "query": "Glitch Glitches Risse",
+   "target": "line:roman-outline-transformation-in-keyword-tags:841",
+   "target_text": "- Beat: Spiegel\\_Glitch \\[identitaet\\_hume, unreliable\\_narrator, wahrnehmung\\_unzuverlaessig, glitches\\_wahrnehmung, spiegel, aegis\\_kontrolle\\_hint\\]",
+   "score": -13.2257,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:1f014a3f36d2",
+   "source": "term:telefon-stille",
+   "query": "Telefon-Stille",
+   "target": "line:kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md:677",
+   "target_text": "| \\*\\*Telefon\\*\\* | Stille-mit-Substanz, ohne Anruf | eingelöst — Anruf, der nicht stattfindet, ist die Beziehung |",
+   "score": -8.9501,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:4bea24a32b77",
+   "source": "term:telefon-stille",
+   "query": "Telefon-Stille",
+   "target": "line:kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md:709",
+   "target_text": "Empfehlung: Silas spürt ihn als Erster, andere Alter im Verlauf von Akt II. Räumlich global, aber phänomenal nur an „Knotenpunkten\" zugänglich (Telefon, Stille, bestimmte Erinnerungsorte).",
+   "score": -7.4199,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:370c877a5f59",
+   "source": "term:telefon-stille",
+   "query": "Telefon-Stille",
+   "target": "line:dual-storyform-hintergruende-md:426",
+   "target_text": "- **C.2 Moonshine-Boundary** — Wer kann den Link spüren? Empfehlung: Silas zuerst, andere Alter im Verlauf von Akt II, räumlich global aber phänomenal nur an Knotenpunkten (Telefon, Stille, Erinnerungsorte). Berührt: A-RS-Operationalisierung.",
+   "score": -6.5994,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:5226689c2e2e",
+   "source": "term:truth-rotation",
+   "query": "Truth-Rotation",
+   "target": "line:kohaerenz-protokoll-synthese:296",
+   "target_text": "| \\\\\\`\\\\\\` | Thesis & Final Verdicts | Note | DE | Drive | Truth Rotation | High |",
+   "score": -9.7399,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:771f5e2b968c",
+   "source": "term:truth-rotation",
+   "query": "Truth-Rotation",
+   "target": "line:research-prompt-kohaerenz-protokoll-final-architecture-md:613",
+   "target_text": "**Abort criterion**: All nine verdicts (8 axes + 1 truth-rotation) are written with reasoning.",
+   "score": -8.8269,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:ba8d1676713c",
+   "source": "term:truth-rotation",
+   "query": "Truth-Rotation",
+   "target": "line:kohaerenz-protokoll-architecture-synthesis:290",
+   "target_text": "| \\*\\*3 (Truth)\\*\\* | Coherence=K₁ / Corresp.=K₀ | Corresp.=K₁ / Coherence=K₀ | \\*\\*Superior\\*\\* | The Truth Rotation perfectly aligns with the DKT inversion (Correspondence preserves reality; Coherence deletes it to maintain illusion). |",
+   "score": -6.8895,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:252571e5da91",
+   "source": "term:tsdp",
+   "query": "TSDP",
+   "target": "line:codex-optimierung-fuer-kohaerenz-protokoll:197",
+   "target_text": "\\<tsdp\\_role\\>{context.povCharacter.customDetail}\\</tsdp\\_role\\>",
+   "score": -7.5245,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:51577e0e801c",
+   "source": "term:tsdp",
+   "query": "TSDP",
+   "target": "line:codex-optimierung-fuer-kohaerenz-protokoll:371",
+   "target_text": "\\<tsdp\\_role\\>ANP (Protektor, Alltagsfunktion)\\</tsdp\\_role\\>",
+   "score": -7.5245,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:05aad2733b59",
+   "source": "term:tsdp",
+   "query": "TSDP",
+   "target": "line:codex-optimierung-fuer-kohaerenz-protokoll:472",
+   "target_text": "\\<tsdp\\_role\\>EP (Träger von kindlichen Emotionen/Bedürfnissen)\\</tsdp\\_role\\>",
+   "score": -7.2409,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:44c83c84e325",
+   "source": "term:ueberwelt",
+   "query": "Innere Weite Simulation Überwelt",
+   "target": "line:genesis-recherche-anleitung-umsetzung:996",
+   "target_text": "- **Stimmung:** Höhepunkt der Spannung, Gefühl der Endgültigkeit oder des Übergangs, kosmische Weite oder innere Leere, Furcht und/oder Akzeptanz.",
+   "score": -12.7146,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:a57f7747ac17",
+   "source": "term:ueberwelt",
+   "query": "Innere Weite Simulation Überwelt",
+   "target": "line:monstergruppe-aegis-und-narrative-moeglichkeiten:40",
+   "target_text": "- **Kaels Innenwelt:** Die Ordnung kann metaphorisch die unermessliche Weite und potenziell erdrückende Komplexität von Kaels dissoziativer Identitätsstruktur darstellen. Seine innere Welt ist nicht nur fragmentiert, sondern besitzt eine eigene, riesige innere Landschaft.",
+   "score": -12.0186,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:6696ff6eda1e",
+   "source": "term:ueberwelt",
+   "query": "Innere Weite Simulation Überwelt",
+   "target": "line:monstergruppe-aegis-und-narrative-moeglichkeiten:204",
+   "target_text": "| \\*\\*Ordnung/Komplexität\\*\\* | Weite logischer Implikationen | Tiefe, überwältigende Natur der Emotionen | Quelle der Angst (unbekannte Weite) | Schiere Anzahl von Möglichkeiten/Zuständen |",
+   "score": -10.1732,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:271193c1ee8b",
+   "source": "term:vortex",
+   "query": "Vortex",
+   "target": "line:kohaerenz-protokoll-architecture-synthesis:370",
+   "target_text": "### **THE VORTEX INVERSION (Specified Plot Beat)**",
+   "score": -7.7645,
+   "rank": 1,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:f6801d930a32",
+   "source": "term:vortex",
+   "query": "Vortex",
+   "target": "line:mining-report-kohaerenz-protokoll-narrative-building-blocks:137",
+   "target_text": "#### 9\\. VORTEX: The Singularity (Ch35-36)",
+   "score": -7.7645,
+   "rank": 2,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  },
+  {
+   "id": "bm25:f41db2ca7063",
+   "source": "term:vortex",
+   "query": "Vortex",
+   "target": "line:systems-narrative-analysis-the-coherence-protocol-kanon-2026:118",
+   "target_text": "#### 10\\. THE VORTEX: Ch35-36 (Climax/Pivot)",
+   "score": -7.597,
+   "rank": 3,
+   "method": "bm25",
+   "found_by": "crossdoc.py doc kohaerenz-protokoll-audit-und-verifizierung",
+   "at": "2026-09-30"
+  }
+ ]
+}
