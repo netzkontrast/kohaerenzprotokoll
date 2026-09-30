@@ -61,6 +61,13 @@ thing. The baseline is the twelve transcripts above.
 | # | document | lines | left by the stopped reader | the change |
 |---|---|---|---|---|
 | R1 | `technical-audit-research-mandate-the-kohaerenz-protokoll-fra` | 40 | census, note, at the note | the `document-reader` agent type, with its six tools; resume from the partial |
+| R2 | `ki-narrative-kollaps-kohaerenz-paradoxie` | 191 | a note draft, no census | the rules from `card.md` and the briefing instead of five rule files; the census from `census.py draft` |
+
+**Planned, and changed by what each run shows:**
+- **R3:** brief reasoning between tool calls, and several `--find` in one call. The unseen share and the number of calls measure each.
+- **R4:** `claude -p` with no `CLAUDE.md`, no skill listing and no deferred tools, which removes the 67-thousand-token fixed part (decision 011's door, PR #119's claude-cli backend).
+- **R5:** a pack. Code builds the numbered document, the card, the frozen list and a schema; the model answers; code places every quotation and renders census and note (#119's pack, verify and render, reused if they take parameters).
+- **Jules**, if #119's session dispatches it (decisions 014, 017): an extraction of `kohaerenz-protokoll-hard-sf-horror-thriller` into `jules-2026-09-30/`, scored against the Claude run of the same document. It costs no Claude usage.
 
 Quality is checked the same way each time:
 

@@ -823,6 +823,22 @@ each under its own instruction, and each run is recorded in `Plan/runs/reader-la
 What the first twelve readers cost is measured there from their transcripts. `account.py order` is red
 until the twelve are reconciled, and says so.
 
+**A parallel session builds `ask` (PR #119, decisions 016 and 017), and #120 carries it merged in.**
+Two things from it change this lab:
+- Its claude-cli backend, `claude -p` with no `CLAUDE.md`, no tools beyond those named and no
+  thinking, is the lab's biggest lever. Tried on 2026-09-30, it was about 9 thousand tokens a
+  call against a subagent's 67 thousand. `Plan/runs/reader-lab-2026-09-30/clean_reader.py` runs
+  a reader that way, shut in its own directory; code checks its files and puts them in place.
+- Decision 017 lets OpenRouter's free models and Jules answer `ask` packs as trials. Decision
+  014 lets Jules ingest one document.
+
+The comment on #119 asked that session for three things:
+- a Jules extraction of `kohaerenz-protokoll-hard-sf-horror-thriller` as a comparison arm, written
+  only under that document's `jules-2026-09-30/`;
+- `askdb.py touches <slug>`, so each reconciliation record can name the Weichen its document
+  bears on (one encoding, rather than a lens for readers);
+- a pack, verify and render that take parameters, for an extraction pack.
+
 **A qmd search over all 347 unread landed documents ran on 2026-09-26** (`Plan/runs/qmd-scan-2026-09-26/`): one to four short queries per open record, hits only, no reading. It placed all fifteen unread canon-era documents and found two the earlier scan had not: a second Kap 0 draft and a philosophischer Bericht. It also showed the stemmer turning „Mira“ into „miracle“ — six hits, none of them the name.
 
 **Ten documents have a triage scan, and three of them are now read** (`Plan/runs/haiku-scan-2026-09-25/`,
