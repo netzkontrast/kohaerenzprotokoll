@@ -366,3 +366,23 @@ commit that carries its record (R4 first, 58; then R2 56, R3 57, R5 59), and `st
 `Sources/` again. The readings of R2, R3 and R5 were written by one Sonnet `wiki-reader` in one batch
 (`Plan/runs/step6-readings-56-59/`, 48 files, 69 minutes, 272 tool uses); what it left — the record entries, and readings on
 `chaitin-konstante`, `mnemosyne-server-architektur` and `plot` — the reconciler wrote from `-records/` and `-extra/`.
+
+### What the readings batch cost, and the effort it ran at (measured from the transcripts, 2026-09-30)
+
+`transcripts.py --write` now holds the readers of this day. One Sonnet `wiki-reader` wrote the 48 readings of R2, R3 and R5 in one
+batch; the pilot `wiki-reader`s of step 4 wrote 20–25 files each. The transcripts carry the effort each subagent ran at, and it is not the
+same: a subagent takes the effort of the session that launches it.
+
+| reader | model, effort | files | minutes | calls | cost proxy | per file |
+|---|---|---|---|---|---|---|
+| pilot G1, figures | Sonnet, medium | 20 | 6.7 | 32 | 0.85 M | 43 K |
+| pilot G2, worlds and physics | Sonnet, medium | 22 | 7.5 | 31 | 0.91 M | 41 K |
+| pilot G4, records | Sonnet, medium | 25 | 6.4 | 26 | 0.73 M | 29 K |
+| readings of R2, R3, R5 | Sonnet, **max** | 48 | 65.0 | 225 | 9.69 M | **202 K** |
+| the four Haiku document-readers R2–R5 | Haiku | — | 5.4–13.6 | 39–74 | 0.55–1.13 M | — |
+
+The batch at max read each file three times over: 55 `read.py`, 23 `readings.py` and 14 `lint_readings.py` runs, a peak context of 783 thousand
+tokens against 210–270 thousand, and 32 % of its context growth was thinking the transcript does not store. Every gate held and the review corrected
+nothing; **the measured difference is five times the cost per file, and the quality of the two levels was not compared**. Not tried, and the two cheap things to try first: one reader per document, and medium effort
+for the readings step. The session that launches a reader sets its effort; the agent definition does not.
+

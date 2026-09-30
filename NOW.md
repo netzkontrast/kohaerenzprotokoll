@@ -544,6 +544,36 @@ before this list.
   4's re-measure, or only on request. `scripts/ui.py` builds it; a Claude session
   publishes it to the canvas (`CLAUDE.md`, *The project app*).
 
+### The graph — what the laboratory of 2026-09-30 measured, and five questions
+
+On the author's „maybe you should think about additional hyperextract contracts to help Improve the recall Presion of our Graph rag solutions"
+and „Explore Even more hyperextract templates that could and should be used to Improve our Graph in ask.dB". The note is
+`Plan/concept/graph-contracts_2026-09-30.md` — measured, nothing adopted; the tools are `scripts/graphlab.py` (24 labelled cases, a paired
+interval, leave-one-out), `Plan/hyperextract/` (32 contracts, 24 of them new), `scripts/hegraph.py` (`P_HE_*` proposal edges and contract nodes in
+the store, never in the core) and `scripts/brief.py`. What it found:
+
+- **Re-weighting the seven stated relation types moves nothing.** Uniform, learned and cross-validated weights score within 0.006 of the default.
+- **One relation moves recall of the wiki's own labels, and it is not a HyperExtract contract:** two pages in one paragraph in at least two documents,
+  weighted by their normalised pointwise mutual information. Recall@8 0.688 → 0.788 at best, 0.752 choosing the weight leaving each case out; the raw pair
+  count *lowers* it. It is off everywhere (`graphrag.py --comention W`).
+- **A contract that classifies a line under a heading is right 83–100 % of the time; one that reads theory as a set of relations is right 17–40 %.** 261
+  labels by the working session, none by the author. Two cheap rules in code lifted the weakest: an alias needs an alias word, an order an order word.
+- **The staging gate refused right rows**: a name of under four characters (`Lex`, `Nyx`, `KW1`) could never be found, and the contract's own word for
+  „no speaker“ was refused. Both fixed; 263 rows had been refused for it.
+- **`ask`'s `co-mention` finder lowered document recall as built**; limited to 10 paragraphs instead of 40 it raises it. The default is 10 now.
+
+Five questions, none waited on:
+1. **The normalised co-mention relation in `graphrag`'s walk.** It is derived from the documents' own text, never from the wiki, and would be the first
+   relation in the default walk that is not one of the seven the wiki states. Turn it on at weight 10–30, keep it off, or wait for more labelled cases?
+2. **A contract pass by category.** About $63 per contract for the whole corpus; by category the plot outlines cost $21, the concept documents $9.
+   Which contracts on which categories may run? The note's §7 proposes an order.
+3. **Who labels.** The precision of every contract rests on one reader's labels, the model family that wrote the contracts. Five hundred from the author
+   or another reader would say whether the figures hold.
+4. **The `co-mention` finder's default in `ask.py`** (40 → 10 paragraphs): another session's finder, one line, provisional on 24 cases.
+5. **The writing engine's vocabulary.** The Narrative Context Protocol (written in 37 landed documents, counted with `grep -F`), the Collapse Susceptibility
+   Index (7), the Drama-Engine (5), JANUS (3), Story Flip (1) have no page: the wiki's pages are the novel's world, and these belong to the engine the
+   sources also discuss. Should the wiki hold it? Nothing is promoted until the author says.
+
 ## Open decisions — these are judgement, not measurement
 
 **How far the yes to TypeSafe reaches.** On 2026-09-23 the author said yes twice.
@@ -847,6 +877,8 @@ Pipeline". Nothing reads a document until the author says so.
   - the reconciliation record drafted by code;
   - the readings brief drafted by code;
   - the census draft wired into the reader's definition.
+  - **Later the same day:** the four reader-lab documents are reconciled (see *PR #126 CI repair*, below), one Sonnet `wiki-reader` for the three
+    that had pages to speak to, and step 6 is paused again; five of the twelve sample documents (`textanalyse-existenz-system-und-leid`, the two theorie-genre documents and the two aegis documents) are still unread.
 
 **A parallel session builds `ask` (PR #119, decisions 016 and 017), and #120 carries it merged in.**
 Two things from it change this lab:

@@ -1930,5 +1930,70 @@
   "role": "document-reader",
   "description": "R5: Haiku reads flow-zustaende-und-dissoziative-identitaet",
   "minutes": 13.6
+ },
+ {
+  "slug": "Write readings for documents 56, 57, 59",
+  "agent": "af9582c3ac39bf11b",
+  "chars_per_token": 1.95,
+  "context_growth": 959297,
+  "unseen_tokens": 304499,
+  "unseen_share": 0.32,
+  "agent_type": "wiki-reader",
+  "wrote_chars": 254267,
+  "start": "2026-09-30T15:17:31.856Z",
+  "end": "2026-09-30T16:22:29.225Z",
+  "calls": 225,
+  "tokens": {
+   "input": 450,
+   "cache_write": 1410405,
+   "cache_read": 79179334,
+   "output": 1796
+  },
+  "cost": 9690369.65,
+  "peak_context": 783142,
+  "tools": {
+   "Read": 6,
+   "Bash": 205,
+   "Write": 58,
+   "Edit": 2,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 55,
+   "digest.py": 9,
+   "readings.py": 23,
+   "lint_readings.py": 14,
+   "quotes.py": 3
+  },
+  "reads": {
+   "Plan/runs/step6-readings-56-59/brief.md": 1,
+   ".claude/agents/wiki-reader.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   ".agents/skills/reader-tools/SKILL.md": 1,
+   "/root/.claude/projects/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/tool-results/b2jrcf27u.txt": 1,
+   "/root/.claude/projects/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/tool-results/blr1ti7se.txt": 1
+  },
+  "result_chars": {
+   "Read": 107729,
+   "Bash": 917952,
+   "Write": 12988,
+   "Edit": 268,
+   "SubagentHandback": 61
+  },
+  "errors": 4,
+  "phases": {
+   "setup": {
+    "input": 450,
+    "cache_write": 1410405,
+    "cache_read": 79179334,
+    "output": 1796,
+    "calls": 225,
+    "cost": 9690369.65
+   }
+  },
+  "ended": "Now document 59: notes, verify, terms end, and the document itself.",
+  "role": "wiki-reader",
+  "description": "Write readings for documents 56, 57, 59",
+  "minutes": 65.0
  }
 ]

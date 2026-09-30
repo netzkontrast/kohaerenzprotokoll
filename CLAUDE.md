@@ -557,6 +557,18 @@ python3 scripts/graphrag.py ask "What are the Core Worlds?" --gloss
 ```
 `Plan/concept/graphrag_2026-09-23.md` has the design and what it cannot do.
 
+**Changing the graph is measured on the labels, not argued (2026-09-30).** `scripts/graphlab.py` scores a relation or a
+weight the way `bench` scores recall — the 24 labelled cases, each with its own node removed, a paired interval against a
+floor, and the weight chosen leaving each case out — and `Plan/concept/graph-contracts_2026-09-30.md` has what it found:
+re-weighting the seven stated relation types moves nothing; one relation derived from the documents' own text,
+pointwise-mutual-information-normalised co-mention, moved recall and stays off until the author turns it on
+(`graphrag.py --comention W`); the raw pair count lowers it. **HyperExtract contracts** (`Plan/hyperextract/`, 32, each with
+`provisional`, `may not` and `retire when`) are staged by `he_claude.py` and loaded by `scripts/hegraph.py` into the store
+as `P_HE_*` proposal edges and `he:<KIND>` contract nodes — **never into the core**, which names its own seven types, and
+never filtered by the grade, which was shown not to predict a right row. A contract's precision is what a reader labelled
+(`Plan/runs/hyperextract-templates-2026-09-30/labels.jsonl`, by the working session, none by the author), and no
+contract is run across the corpus until the author says which and on what.
+
 ### A mechanised rule stays checkable
 
 Every decision about a near match is recorded in `Plan/runs/judgements.jsonl`
