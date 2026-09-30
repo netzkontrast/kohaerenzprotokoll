@@ -68,6 +68,7 @@ SUITES = [
     ("dspy skill, live", "dspy", ["scripts/check_dspy_skill.py"]),
     ("lm fixture", "dspy", ["scripts/lm_fixture.py"]),
     ("lmrun", "dspy", ["scripts/lmrun.py"]),
+    ("ask store: bm25, ppr, sheets", "dspy", ["scripts/askdb.py", "selftest"]),
     ("claude cli model", "dspy", ["scripts/claude_lm.py"]),
     ("pairs dry-run", "dspy", ["scripts/pairs.py", "run", "--optimizer", "labeled", "--dry-run"]),
     ("pairs dry-run, plural first", "dspy",
