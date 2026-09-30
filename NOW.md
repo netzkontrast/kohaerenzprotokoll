@@ -1279,3 +1279,14 @@ The four Haiku lab extractions (R2–R5) are preserved under
 been reconciled and are excluded from production ingest counts. Resume from
 these staged artifacts when completing their reconciliation; no wiki reading
 or reconciliation was fabricated to make the order check pass.
+
+## PR #126 review fixes — 2026-09-30
+
+Claims now bind verdicts to the complete claim, citation and source passage;
+redraft and re-review existing tables without binding markers before using the
+claims gate. No historical verdict was automatically renewed. `record.py check`
+refuses absent fields and malformed types; only historical `measure` enables
+legacy compatibility explicitly. Cross-document reports separate group counts
+from bounded examples. HyperExtract usage includes invalid paid replies and
+retries; three existing summaries were corrected from their call ledgers.
+Regression cases exercise all four review findings offline.

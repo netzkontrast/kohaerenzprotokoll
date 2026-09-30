@@ -174,7 +174,7 @@ def cmd_doc(slug: str, limit: int = 5, root: Path = ROOT, write: bool = True) ->
                                surfaces=all_pages[p]["surfaces"], k=3, found_by=f"crossdoc.py doc {slug}",
                                stale_ok=True)
         found += related
-        result["pages"][p] = {"surfaces": all_pages[p]["surfaces"], **{k: len(v) for k, v in g.items()},
+        result["pages"][p] = {"surfaces": all_pages[p]["surfaces"], **{k + "_count": len(v) for k, v in g.items()},
                               "read_not_on": [(d, named[d]["n"], named[d]["first_line"]) for d in g["read_not_on"][:limit]],
                               "unread": [(d, named[d]["n"], named[d]["surface"], named[d]["first_line"])
                                          for d in g["unread"][:limit]],
@@ -196,7 +196,7 @@ def render_doc(result: dict) -> str:
            "|---|---|---|---|---|"]
     for p, g in result["pages"].items():
         unread = "; ".join(f"`{d}` {n}× L{line}" for d, n, _, line in g["unread"]) or "—"
-        out.append(f"| `{p}` | {g['read_on']} | {g['read_not_on']} | {g['unread']} | {unread} |")
+        out.append(f"| `{p}` | {g['read_on_count']} | {g['read_not_on_count']} | {g['unread_count']} | {unread} |")
     related = [(p, rid, tgt, txt) for p, g in result["pages"].items() for rid, tgt, txt in g.get("related", [])]
     if related:
         out += ["", "**Related, not named (`P_BM25`)** — lines that share a page's words and write none of its "
@@ -293,6 +293,24 @@ def selftest() -> int:
                       g == {"read_on": ["a"], "read_not_on": ["b"], "unread": ["c", "d"]}))
         g = groups(page, named, read_documents(root), exclude="c")
         cases.append(("the document itself is in no group", "c" not in sum(g.values(), [])))
+    from unittest.mock import patch
+    import contextlib
+    page = {"surfaces": ["Probe"], "read_on": ["a"]}
+    named = {d: {"n": 1, "surface": "Probe", "first_line": 10} for d in ("a", "b", "c", "d", "e")}
+    with contextlib.ExitStack() as stack:
+        stack.enter_context(patch(__name__ + ".pages", return_value={"probe": page}))
+        stack.enter_context(patch(__name__ + ".read_documents", return_value={"a", "b"}))
+        stack.enter_context(patch(__name__ + ".swept", return_value=set()))
+        stack.enter_context(patch(__name__ + ".doc_pages", return_value=["probe"]))
+        stack.enter_context(patch.object(Corpus, "named_in", return_value=named))
+        stack.enter_context(patch.object(bm25rel, "fresh_or_refuse"))
+        stack.enter_context(patch.object(bm25rel, "find", return_value=[]))
+        small = cmd_doc("source", limit=1, write=False)
+        large = cmd_doc("source", limit=5, write=False)
+        cases.append(("doc counts survive limiting examples", small["pages"]["probe"]["unread_count"] == 3
+                      and large["pages"]["probe"]["unread_count"] == 3
+                      and len(small["pages"]["probe"]["unread"]) == 1))
+        cases.append(("rendered count columns are numeric", "| `probe` | 1 | 1 | 3 |" in render_doc(small)))
     c = Corpus()
     hits = c.where("AEGIS")
     cases.append(("a count comes from corpus.py's whole-word index", len(hits) > 200 and all("n" in h for h in hits)))

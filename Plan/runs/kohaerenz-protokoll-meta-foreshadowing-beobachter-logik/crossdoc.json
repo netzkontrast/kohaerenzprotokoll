@@ -6,7 +6,6 @@
     "Kael",
     "Michael"
    ],
-   "read_on": 46,
    "read_not_on": [
     [
      "aegis-subplots-kapitelweise-system-exploration-docx",
@@ -82,7 +81,10 @@
      "line:protokoll-der-offenbarung:645",
      "KERN-EINHEIT MICHAEL: SIGNALVERLUST IMMINENT."
     ]
-   ]
+   ],
+   "read_on_count": 48,
+   "read_not_on_count": 2,
+   "unread_count": 431
   },
   "aegis": {
    "surfaces": [
@@ -92,7 +94,6 @@
     "Wächter der systemischen Stabilität",
     "blinder Hausmeister"
    ],
-   "read_on": 48,
    "read_not_on": [
     [
      "aegis-subplots-kapitelweise-system-exploration-docx",
@@ -168,14 +169,16 @@
      "line:kohaerenz-protokoll-konzept:119",
      "| \"Der Archivar\" | Gatekeeper | Kontrolliert Zugang zu Erinnerungen/Alters, managt Switching, bewahrt Stabilität | Emotionslos, analytisch, "
     ]
-   ]
+   ],
+   "read_on_count": 50,
+   "read_not_on_count": 1,
+   "unread_count": 440
   },
   "juna": {
    "surfaces": [
     "Julia",
     "Juna"
    ],
-   "read_on": 44,
    "read_not_on": [
     [
      "kohaerenzprotokoll-aegis-und-systementropie",
@@ -246,13 +249,15 @@
      "line:protokoll-der-offenbarung:1063",
      "ENTSCHEIDUNGSPHASE IV: ÜBERMITTLUNG AN SUBJEKT JULIA."
     ]
-   ]
+   ],
+   "read_on_count": 45,
+   "read_not_on_count": 2,
+   "unread_count": 374
   },
   "entropie": {
    "surfaces": [
     "Entropie"
    ],
-   "read_on": 30,
    "read_not_on": [
     [
      "aegis-subplots-kapitelweise-system-exploration-docx",
@@ -307,13 +312,15 @@
      37
     ]
    ],
-   "related": []
+   "related": [],
+   "read_on_count": 31,
+   "read_not_on_count": 1,
+   "unread_count": 243
   },
   "kohaerenz": {
    "surfaces": [
     "Kohärenz"
    ],
-   "read_on": 17,
    "read_not_on": [
     [
      "roman-lokalitaeten-konzept-und-ausarbeitung",
@@ -389,7 +396,10 @@
      "line:kap0-v1-annotiert-md:873",
      "KOHÄRENZ:   0.21"
     ]
-   ]
+   ],
+   "read_on_count": 18,
+   "read_not_on_count": 4,
+   "unread_count": 469
   },
   "risse": {
    "surfaces": [
@@ -397,7 +407,6 @@
     "Glitches",
     "Risse"
    ],
-   "read_on": 38,
    "read_not_on": [
     [
      "aegis-subplots-kapitelweise-system-exploration-docx",
@@ -458,14 +467,16 @@
      "line:roman-outline-transformation-in-keyword-tags:841",
      "- Beat: Spiegel\\_Glitch \\[identitaet\\_hume, unreliable\\_narrator, wahrnehmung\\_unzuverlaessig, glitches\\_wahrnehmung, spiegel, aegis\\_kontro"
     ]
-   ]
+   ],
+   "read_on_count": 39,
+   "read_not_on_count": 2,
+   "unread_count": 351
   },
   "konstrukt-stadt": {
    "surfaces": [
     "Die Konstrukt-Stadt",
     "Konstrukt-Stadt"
    ],
-   "read_on": 29,
    "read_not_on": [],
    "unread": [
     [
@@ -499,13 +510,15 @@
      15
     ]
    ],
-   "related": []
+   "related": [],
+   "read_on_count": 29,
+   "read_not_on_count": 0,
+   "unread_count": 114
   },
   "evaluierungseinheit": {
    "surfaces": [
     "Evaluierungseinheit"
    ],
-   "read_on": 6,
    "read_not_on": [],
    "unread": [
     [
@@ -521,14 +534,16 @@
      "line:kohaerenz-protokoll:220",
      "BITTE ZUR EVALUIERUNGSEINHEIT EPSILON-GAMMA-12 BEGEBEN."
     ]
-   ]
+   ],
+   "read_on_count": 6,
+   "read_not_on_count": 0,
+   "unread_count": 1
   },
   "kaels-wohneinheit": {
    "surfaces": [
     "Kaels Wohneinheit",
     "Kaels Wohneinheit 1.0"
    ],
-   "read_on": 16,
    "read_not_on": [],
    "unread": [
     [
@@ -578,7 +593,10 @@
      "line:roman-lokalitaeten-konzept-und-ausarbeitung-3:217",
      "**1. Kaels Initiale Wohneinheit (KW1)**"
     ]
-   ]
+   ],
+   "read_on_count": 16,
+   "read_not_on_count": 0,
+   "unread_count": 5
   },
   "grosse-mauer": {
    "surfaces": [
@@ -587,7 +605,6 @@
     "Große Mauer",
     "Systemgrenze"
    ],
-   "read_on": 2,
    "read_not_on": [],
    "unread": [
     [
@@ -637,7 +654,10 @@
      "line:roman-blueprint-seelen-kohaerenz-protokoll:236",
      "- **1.03 - Schatten an der Mauer**"
     ]
-   ]
+   ],
+   "read_on_count": 2,
+   "read_not_on_count": 0,
+   "unread_count": 16
   },
   "system-monitor": {
    "surfaces": [
@@ -645,7 +665,6 @@
     "Großer System-Monitor",
     "System-Monitor"
    ],
-   "read_on": 1,
    "read_not_on": [],
    "unread": [],
    "related": [
@@ -664,7 +683,10 @@
      "line:romanplot-kohaerenz-protokoll-entwicklung:346",
      "**Schritt 19: Emergenz von Systemfehlern (\"Risse\" werden größer)**"
     ]
-   ]
+   ],
+   "read_on_count": 1,
+   "read_not_on_count": 0,
+   "unread_count": 0
   },
   "vergessener-schrein": {
    "surfaces": [
@@ -672,7 +694,6 @@
     "Vergessener Schrein",
     "Vergessener Schrein (Trauma-Lokus)"
    ],
-   "read_on": 3,
    "read_not_on": [],
    "unread": [
     [
@@ -722,7 +743,10 @@
      "line:roman-lokalitaeten-konzept-und-ausarbeitung-2:223",
      "**2. Der \"Vergessene Schrein\" / Ort des Kern-Traumas (KW2)**"
     ]
-   ]
+   ],
+   "read_on_count": 3,
+   "read_not_on_count": 0,
+   "unread_count": 8
   }
  },
  "related_new": 0

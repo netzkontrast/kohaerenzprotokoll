@@ -21,7 +21,9 @@ what the readers noticed that no record holds. A reading's one-line note is its
 heading's own last clause, so it is copied, not written.
 
 `check` compares a saved `reconcile.json` with the pages as they stand, field by
-field (P11), and fails on a mark left. `measure` runs the same comparison over
+field (P11), and fails on a mark left, missing field or invalid type.
+`measure` explicitly enables legacy compatibility for historical prose fields;
+`check` always uses strict validation. `measure` runs the same comparison over
 every reconciled document: how far the hand-written records agree with what the
 wiki says. Standard library only.
 
@@ -231,25 +233,56 @@ def ids(values) -> list[str]:
     return out
 
 
-def check(slug: str, root: Path = ROOT, record: dict | None = None) -> list[str]:
+def check(slug: str, root: Path = ROOT, record: dict | None = None, *, legacy: bool = False) -> list[str]:
     """Where a saved record and the pages disagree, field by field, and every mark left."""
     if record is None:
         f = root / "Plan" / "runs" / slug / "reconcile.json"
         if not f.exists():
             return [f"no {f.relative_to(root)}"]
-        record = json.loads(f.read_text(encoding="utf-8"))
+        try:
+            record = json.loads(f.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            return [f"invalid record JSON: {exc}"]
+    if not isinstance(record, dict):
+        return ["record must be an object"]
     got = derive(slug, root, touches=False)
     problems = [f"a `{MARK}` mark is left in `{k}`" for k, v in record.items() if MARK in json.dumps(v)]
     for key in MECHANICAL:
-        if key not in record or key not in got:
+        if key not in got:
+            continue
+        if key not in record:
+            if not legacy:
+                problems.append(f"{key}: required field missing")
             continue
         want, have = got[key], record[key]
         # The early records wrote some of these as prose; a sentence is not compared.
         if key in ("chapters", "plot_overview", "pre_classification", "state_before") and not isinstance(have, dict):
+            if not legacy:
+                problems.append(f"{key}: must be an object")
             continue
         if key not in ("chapters", "plot_overview", "pre_classification", "state_before") and not isinstance(have, list):
+            if not legacy:
+                problems.append(f"{key}: must be a list")
             continue
+        if isinstance(want, dict) and isinstance(have, dict):
+            bad = [k for k, v in want.items() if k not in have or type(have[k]) is not type(v)]
+            if bad:
+                problems.append(f"{key}: missing or invalid members {bad}")
+                continue
+            if key in ("chapters", "plot_overview"):
+                member = "readings_on" if key == "chapters" else "lines"
+                if any(type(n) is not int for n in have[member]):
+                    problems.append(f"{key}: {member} must contain integers")
+                    continue
         if key == "new_readings":
+            malformed = [r for r in have if not isinstance(r, dict) or not isinstance(r.get("page"), str)
+                         or not isinstance(r.get("lines"), list)
+                         or any(type(n) is not int or n < 1 for n in r.get("lines", []))]
+            if malformed:
+                problems.append("new_readings: malformed page or line list")
+                continue
+            if len({r["page"] for r in have}) != len(have):
+                problems.append("new_readings: duplicate page")
             want = {r["page"]: r["lines"] for r in want}
             have = {r["page"]: sorted(n for n in (r.get("lines") or []) if isinstance(n, int))
                     for r in have if isinstance(r, dict) and "page" in r}
@@ -287,7 +320,7 @@ def measure(first: int = 0, root: Path = ROOT) -> int:
         slug = f.parent.name
         if numbered.get(slug, -1) < first:
             continue
-        problems = check(slug, root, json.loads(f.read_text(encoding="utf-8")))
+        problems = check(slug, root, json.loads(f.read_text(encoding="utf-8")), legacy=True)
         problems = [p for p in problems if MARK not in p]
         rows.append((numbered.get(slug), slug, problems))
         for p in problems:
@@ -347,6 +380,10 @@ def selftest() -> int:
                       and got["judgements"] == ["J7"] and got["sweep"][0]["decision"] == "occurrence"))
         record = {k: got[k] for k in MECHANICAL}
         cases.append(("a record equal to the files holds", check(slug, root, record) == []))
+        cases.append(("empty record fails", bool(check(slug, root, {}))))
+        cases.append(("wrong field type fails", bool(check(slug, root, dict(record, new_readings="text")))))
+        cases.append(("malformed reading fails", bool(check(slug, root, dict(record, new_readings=[{}])))))
+        cases.append(("legacy measurement is explicit", check(slug, root, {}, legacy=True) == []))
         wrong = json.loads(json.dumps(record))
         wrong["new_readings"][0]["lines"] = [9]
         cases.append(("a line dropped from a reading is named",

@@ -9,7 +9,8 @@ that validates against the template's schema, and hands back the validated objec
 - Every call goes through `claude_cli.call` (P6): no tools, no MCP, no settings,
   no `CLAUDE.md`, an empty working directory, thinking off.
 - Every call is recorded in `ClaudeChat.calls` — seconds, tokens, cost, and
-  `ok` or the failure's kind — so a run can say what it cost (P15: a chunk
+  `ok` or the failure's kind — so a run can say what it cost, including paid replies that fail validation and
+  their retries (P15: a chunk
   that failed is `failed`, never a chunk with nothing in it).
 - A reply that is not JSON, or does not validate, is asked for once more with
   the error named; a second failure raises, and HyperExtract logs and empties that
@@ -198,6 +199,11 @@ def native_selftest() -> int:
         data = reading_extract.native_extract(template, text, "synthetic", llm, FakeEmbeddings(size=8))
         cases.append(("prose first, JSON when asked again: one retry, recorded",
                       data == json.loads(good) and [c["ok"] for c in llm.calls][:2] == [False, True]))
+        retry_usage = claude_cli.totals(llm.calls)
+        cases.append(("invalid reply and retry both count as paid calls",
+                      retry_usage["cost_usd"] == round(sum(c["cost_usd"] for c in llm.calls), 4)
+                      and retry_usage["input_tokens"] == 100 * len(llm.calls)
+                      and retry_usage["failed_calls"] >= 1))
         # A German span closed with a straight quote is put back to the mark the source writes.
         obj, n = parse_json('{"quote": "sondern \u201egetaktet" ist", "stance": "asserts"}')
         cases.append(("a German span closed with a straight quote is repaired, and counted",
@@ -242,12 +248,8 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
             status = reading_extract.stage(doc, template, export, name)
     else:
         target.mkdir(parents=True, exist_ok=False)
-    ok = [c for c in llm.calls if c.get("ok")]
     usage = {"document": doc.slug, "template": template.name, "model": f"claude-cli/{model}",
-             "calls": len(llm.calls), "failed_calls": len(llm.calls) - len(ok),
-             "seconds": round(sum(c.get("seconds") or 0 for c in ok), 1),
-             "input_tokens": sum(c.get("input", 0) for c in ok), "output_tokens": sum(c.get("output", 0) for c in ok),
-             "cost_usd": round(sum(c.get("cost_usd", 0.0) for c in ok), 4),
+             **claude_cli.totals(llm.calls),
              "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put "
                          "HyperExtract into the pipeline and read with Haiku"}
     if failed:

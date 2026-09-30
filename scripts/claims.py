@@ -32,6 +32,10 @@ The reader fills two cells per row:
   source, the sentence must say so.
 - **holds?** — `yes`, or `fixed` when the sentence had to change (the row's `where` and line stay).
 
+`check` binds each verdict to the complete claim, citation range and cited passage
+with a SHA-256 marker, and compares the derived cells. A changed claim or source
+requires a new draft and review; old tables without markers are refused.
+
 `check` fails when the saved `claims.md` lacks a row the note now has, keeps one it no longer
 has, leaves a cell empty or unfilled, or writes a value that is not one of the four above.
 It prints, without failing, each row whose line has a reporting cue and whose speaker is
@@ -41,6 +45,7 @@ It prints, without failing, each row whose line has a reporting cue and whose sp
 from __future__ import annotations
 
 import re
+import hashlib
 import sys
 import tempfile
 from pathlib import Path
@@ -75,7 +80,7 @@ def sentence_before(paragraph: str, end: int, floor: int) -> str:
     text = paragraph[floor:end]
     cut = max((m.end() for m in re.finditer(r"(?<=[.!?…])\s+(?=[A-ZÄÖÜ„*])|\n", text)), default=0)
     sentence = " ".join(text[cut:].split())
-    return sentence if len(sentence) <= 150 else "…" + sentence[-149:]
+    return sentence
 
 
 def opening(line: str, words: int = 8) -> str:
@@ -94,12 +99,13 @@ def rows_from(text: str, where: str, lines) -> list[dict]:
         floor = 0
         for m in CITE.finditer(block):
             n = int(m.group("n"))
-            line = lines(n)
+            line = "\n".join(lines(i) for i in range(n, int(m.group("m") or n) + 1))
             claim = sentence_before(block, m.start(), floor)
             floor = m.end()
             cues = sorted({c.group(0).strip() for c in REPORTS.finditer(line)})
             note = "ASK read.py --count: says something is open" if OPEN.search(claim) else ""
             rows.append({"where": heading, "claim": claim, "line": n, "opening": opening(line),
+                         "binding": hashlib.sha256((m.group(0) + "\n" + line + "\n" + claim).encode()).hexdigest(),
                          "cues": ", ".join(cues[:4]) + (("; " if cues and note else "") + note)})
     return rows
 
@@ -116,7 +122,7 @@ def draft_text(rows: list[dict]) -> str:
            "- **who says it** — `document`, or `source: <who>` when the line reports another source;",
            "- **holds?** — `yes`, or `fixed` after you changed the sentence.", "", HEAD, RULE]
     for i, r in enumerate(rows, 1):
-        out.append(f"| {i} | {cell(r['where'])} | {cell(r['claim'])} | L{r['line']} | {cell(r['opening'])} | "
+        out.append(f"| {i} | {cell(r['where'])} <!--claim:{r['binding']}--> | {cell(r['claim'])} | L{r['line']} | {cell(r['opening'])} | "
                    f"{cell(r['cues'])} | {FILL} | {FILL} |")
     return "\n".join(out) + "\n"
 
@@ -164,8 +170,11 @@ def parse_saved(text: str) -> list[dict]:
             rows.append({"bad": raw})
             continue
         n, where, claim, line, opening_, cues, speaker, holds = cells
+        binding = re.search(r" <!--claim:([a-f0-9]{64})-->$", where)
+        where = re.sub(r" <!--claim:[a-f0-9]{64}-->$", "", where)
         rows.append({"n": n, "where": where, "claim": claim, "line": int(line.lstrip("L")) if line.lstrip("L").isdigit() else -1,
-                     "opening": opening_, "cues": cues, "speaker": speaker, "holds": holds})
+                     "opening": opening_, "cues": cues, "speaker": speaker, "holds": holds,
+                     "binding": binding.group(1) if binding else ""})
     return rows
 
 
@@ -188,6 +197,14 @@ def check_rows(want: list[dict], saved: list[dict]) -> tuple[list[str], list[str
         extra = len(rows) - len(need.get(k, []))
         if extra > 0:
             fails.append(f"{extra} row(s) for {k[0]} L{k[1]} that the note no longer has")
+    expected = {}
+    for k, rows in need.items():
+        for i, r in enumerate(have.get(k, [])):
+            if i < len(rows):
+                expected[id(r)] = rows[i]
+                fields = ("where", "claim", "opening", "cues", "binding")
+                if any(r.get(f) != rows[i].get(f) for f in fields):
+                    fails.append(f"{k[0]} L{k[1]}: content changed or binding missing; redraft and review")
     for r in saved:
         where = f"{r['where'].split(' — ')[0]} L{r['line']}"
         if FILL in (r["speaker"], r["holds"]) or not r["speaker"] or not r["holds"]:
@@ -197,8 +214,9 @@ def check_rows(want: list[dict], saved: list[dict]) -> tuple[list[str], list[str
             fails.append(f"{where}: who says it is `document` or `source: <who>`, not `{r['speaker'][:30]}`")
         if r["holds"] not in ("yes", "fixed"):
             fails.append(f"{where}: holds? is `yes` or `fixed`, not `{r['holds'][:30]}`")
-        if r["speaker"] == "document" and REPORTS.search(r["cues"]):
-            cautions.append(f"{where}: the line has a reporting cue ({r['cues'][:50]}) and the speaker is `document`")
+        source_cues = expected.get(id(r), r)["cues"]
+        if r["speaker"] == "document" and REPORTS.search(source_cues):
+            cautions.append(f"{where}: the line has a reporting cue ({source_cues[:50]}) and the speaker is `document`")
     return fails, cautions
 
 
@@ -280,6 +298,27 @@ def selftest() -> int:
     saved[2]["holds"], saved[3]["speaker"] = "yes", "the audit"
     fails, _ = check_rows(rows, saved)
     cases.append(("a speaker that is not document or source: fails", any("who says it" in f for f in fails)))
+    fresh = parse_saved(draft_text(rows))
+    for r in fresh:
+        r.update(speaker="document", holds="yes")
+    changed = [dict(r) for r in rows]
+    changed[0]["claim"] = "Opposite claim"
+    cases.append(("a changed claim invalidates approval", bool(check_rows(changed, fresh)[0])))
+    fresh[0]["cues"] = ""
+    fails, cautions = check_rows(rows, fresh)
+    cases.append(("deleted cues cannot hide attribution", bool(fails) and bool(cautions)))
+    longer = rows_from("Prefix " + "words " * 50 + "^[L30]", "note", lines)
+    cases.append(("the complete claim is retained", len(longer[0]["claim"]) > 150))
+    ranges = rows_from("claim ^[L41–L42]", "note", lines)
+    other = rows_from("claim ^[L41–L43]", "note", lines)
+    cases.append(("a range change changes the binding", ranges[0]["binding"] != other[0]["binding"]))
+    bound = parse_saved(draft_text(ranges))
+    bound[0].update(speaker="document", holds="yes")
+    cases.append(("changed range invalidates the saved verdict", bool(check_rows(other, bound)[0])))
+    changed_source = rows_from("claim ^[L41–L42]", "note", lambda n: lines(n) + " changed")
+    cases.append(("changed source invalidates the saved verdict", bool(check_rows(changed_source, bound)[0])))
+    bound[0]["binding"] = ""
+    cases.append(("old unbound tables fail", bool(check_rows(ranges, bound)[0])))
     real = source_rows("ki-narrative-kollaps-kohaerenz-paradoxie",
                        ROOT / "Plan/runs/reader-lab-2026-09-30/staged")
     cases.append(("a real note yields a row per citation", len(real) >= 15 and all(r["opening"] for r in real if r["line"] > 0)))

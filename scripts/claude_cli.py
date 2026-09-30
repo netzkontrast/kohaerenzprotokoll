@@ -82,3 +82,28 @@ def call(model: str, system: str, text: str, *, thinking: int | None = 0, effort
     reply["_seconds"] = round(time.time() - started, 2)
     reply["_workdir"] = workdir
     return reply
+
+
+def totals(calls: list[dict]) -> dict:
+    """All observed usage, including paid responses that failed validation."""
+    return {"calls": len(calls), "failed_calls": sum(not c.get("ok") for c in calls),
+            "seconds": round(sum(c.get("seconds") or 0 for c in calls), 1),
+            "input_tokens": sum(c.get("input") or 0 for c in calls),
+            "output_tokens": sum(c.get("output") or 0 for c in calls),
+            "cost_usd": round(sum(c.get("cost_usd") or 0 for c in calls), 4)}
+
+
+def totals_selftest() -> int:
+    failed = {"ok": False, "kind": "invalid", "seconds": 2, "input": 100, "output": 20, "cost_usd": 0.01}
+    passed = {"ok": True, "seconds": 3, "input": 200, "output": 30, "cost_usd": 0.02}
+    assert totals([failed, passed]) == {"calls": 2, "failed_calls": 1, "seconds": 5,
+                                       "input_tokens": 300, "output_tokens": 50, "cost_usd": 0.03}
+    assert totals([failed])["cost_usd"] == 0.01
+    assert totals([{"ok": False, "kind": "timeout"}])["cost_usd"] == 0
+    print("claude usage: retry, all-invalid, and missing usage held")
+    return 0
+
+
+if __name__ == "__main__":
+    import sys
+    sys.exit(totals_selftest() if sys.argv[1:] == ["totals-selftest"] else 2)
