@@ -26,6 +26,15 @@ any document is half-processed.
 | `reconcile.py <slug>` | `Plan/runs/<slug>/reconcile-pre.json` and a printed classification, ending with the sweep: pages the text names that the census does not list |
 | `reconcile.py --sweep-open` | nothing — the sweep hits in every read document that no reading and no row in `Plan/runs/sweep.jsonl` settles; exit 1 while any is open |
 | `agree.py <slug> [<a.md> <b.md>] [--names]` | nothing — every `03-candidates*.md` in the run, or two lists, compared pairwise: F1, containment both ways, surfaces held only inside a longer one, forms the document does not write |
+| `census.py draft <slug>` | `Plan/runs/<slug>/census-draft.md` — every mechanical part of the census (frontmatter, profile, the candidate table with its count marks, the facts); the reader fills the two `<!-- reader: … -->` sections and saves it as `Sources/terms/<slug>.md` |
+| `census.py check <slug>` | nothing — the saved census against `counts.json`, row by row (counts, lines, surfaces); exit 1 on a difference |
+| `crossdoc.py doc <slug> […]` | `Plan/runs/<slug>/crossdoc.md` — for each page the document reads onto, the documents that write its names (counted by `corpus.py`: read on the page, read but not on it, unread) and three `P_BM25` lines; `coverage` says where the graph is thin |
+| `brief.py draft <batch> <slug>[@N] …` | `Plan/runs/<batch>/brief-draft.md` — the readings brief where it is mechanical; `<brief: …>` marks what only the reconciler can say, and `brief.py check <batch>` fails on a mark left |
+| `digest.py <page> [--doc <slug>]` | a page's lead, `## Where the sources differ`, `## Open` and one line per reading — with `--doc`, that document's readings whole — what a reader reads instead of the page |
+| `readings.py check <batch>` / `apply <batch>` | `check` writes nothing; `apply` turns `Plan/runs/<batch>/readings/<page>--<doc>.md` into pages once every `^[?]` is placed by `read.py`'s comparison, and refuses while `Wiki/` has changes |
+| `lint_readings.py [--doc <slug>] [--strict]` | nothing — flags a comparison with a document the paragraph does not cite, an empty quotation, a straight `"` between two letters |
+| `record.py draft <slug>` / `check <slug>` | `Plan/runs/<slug>/reconcile-draft.json` and `record-draft.md` from the pages, with `<reconciler: …>` marks; `check` compares a saved record with the pages it describes (exit 1 on a difference) |
+| `runlog.py <run> start\|end\|reader\|correct\|summary` | `Plan/runs/<run>/` phases with the clock, each reader's model, tokens and minutes, and every change a review made |
 
 `read.py` serves the same text in both directions and neither stores anything:
 the numbers it prints are **file** lines, the ones a citation names, and `--find`

@@ -55,6 +55,6 @@ upstream. None of them writes or rewrites the author's prose.
 `.claude/skills/` also holds folders copied unchanged from other repositories —
 `jev*`, `hyper*`, `graphify`, `knowledge-graph-extract` and the Notion skills.
 They are real folders, not links, because they are not this project's to edit.
-`CLAUDE.md`, *Installing anything*, says where each came from and at which
+`tools/references/install.md` says where each came from and at which
 commit; `check_skills.py` reports their findings under their own heading and
 never fails on them.
