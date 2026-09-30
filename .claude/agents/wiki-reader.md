@@ -61,6 +61,8 @@ stops the whole batch. Keep helpers in your own scratch folder.
 
 ## Rules
 
+**Before your first quotation, read `.agents/skills/reader-tools/references/failures.md`**: the failures measured in this repository, the check that catches each, and what to write instead.
+
 1. Quote verbatim and write `^[?]` after the quotation — code places the line. Check
    the words first with `python3 scripts/read.py <slug> --find "<words>"`; if they
    stand on several lines and you mean a later one, write `^[?L<n>]` with its line.

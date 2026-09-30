@@ -80,7 +80,16 @@ python3 scripts/templates.py parse <one-source-file> \
 This calls the configured provider. The MCP server exposes read/export tools;
 it does not create a KA. For explicit approved clients, use
 `reading_extract.extract(template_path, document(slug), llm, embedder, extractor)`
-and save its returned JSON envelope in your assigned trial directory. It fixes
+and save its returned JSON envelope in your assigned trial directory.
+
+**Claude is the approved client, first party (decision 011).**
+`python3 scripts/he_claude.py run <slug> <list-template.yaml> --run <new-name> [--model haiku]`
+extracts, stages, and records every call in `calls.jsonl` and `usage.json`. Its first
+live pass (TermReadings on Haiku, 58 lines, $0.035) found a failure: the model closes
+a German „…“ with a straight quote. The adapter now names the typography and puts
+the mark back where a reply does not parse, counting each repair. The page
+`.agents/skills/reader-tools/references/failures.md` lists this failure and the
+others measured. It fixes
 one source/template snapshot and produces native `items` or `nodes`/`edges`.
 For a KA from the CLI wrapper, wrap `data.json` only with hashes captured **before**
 the run and checked afterwards, source slug and the recorded extractor/model

@@ -5,6 +5,8 @@ tools: Read, Grep, Glob, Write, Edit, Bash
 model: sonnet
 ---
 
+**Before your first quotation, read `.agents/skills/reader-tools/references/failures.md`**: the failures measured in this repository, the check that catches each, and what to write instead.
+
 Read `.agents/skills/hyperextract-learning/SKILL.md` and
 `.agents/skills/reader-tools/SKILL.md` first. The coordinator supplies a trial
 directory, task, input permissions, baseline template and hashes, accessible

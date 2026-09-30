@@ -1,0 +1,80 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Glitch-Momente",
+        "quote": "subtile „Glitch-Momente“ und systemische Hinweise einbauen",
+        "stance": "asserts"
+      },
+      {
+        "term": "Stasis-Lücken",
+        "quote": "dass die Zeit im Konstrukt nicht linear fließt, sondern „getaktet“ ist",
+        "stance": "asserts"
+      },
+      {
+        "term": "Große Stille",
+        "quote": "Kael nennt dies die „Große Stille“",
+        "stance": "asserts"
+      },
+      {
+        "term": "Höhere Metrik",
+        "quote": "AEGIS agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet",
+        "stance": "asserts"
+      },
+      {
+        "term": "Primären Beobachtungs-Einheit",
+        "quote": "AEGIS spricht in seinen Statusberichten oft von der „Primären Beobachtungs-Einheit“",
+        "stance": "asserts"
+      },
+      {
+        "term": "Externen Taktgeber",
+        "quote": "oder dem „Externen Taktgeber“",
+        "stance": "asserts"
+      },
+      {
+        "term": "Kohärenz Protokoll",
+        "quote": "Er rechtfertigt seine harten Maßnahmen (das Kohärenz Protokoll)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Rendering-Grenzen",
+        "quote": "Integriere Hinweise auf die Grenzen der Mathematik und Physik als technische Limits des Lesers",
+        "stance": "asserts"
+      },
+      {
+        "term": "Rendering-Grenzen",
+        "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Rendering-Grenzen",
+        "quote": "Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Grenzen der Mathematik",
+        "quote": "Nutze das Dokument „Grenzen der Mathematik“.",
+        "stance": "cites"
+      },
+      {
+        "term": "Die Welt",
+        "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna-Spiegelung",
+        "quote": "Juna ist diejenige, die Kael die Wahrheit flüstert.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Lese-Abhängigkeit",
+        "quote": "Das Zuklappen des Buches wird als der „Wärmetod des Universums“ (Entropie) geframt.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

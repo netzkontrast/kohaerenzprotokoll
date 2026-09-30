@@ -5,7 +5,9 @@ description: Prepare and use corpus tools as a delegated document-reader, wiki-r
 
 # Corpus tools for delegated readers
 
-Read your `.claude/agents/<role>.md` and use its narrower write scope. Ask the
+Read your `.claude/agents/<role>.md` and use its narrower write scope. Before your
+first quotation read `references/failures.md`: every failure measured here, the
+check that catches it, and what to write instead. Ask the
 coordinator for a role, source slugs, task question, output folder, byte budget
 and prepared capabilities. Run commands from the repository root.
 

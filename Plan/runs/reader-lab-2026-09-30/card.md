@@ -17,6 +17,8 @@ shortened. Where they differ, the skill wins.
 - **A `03-candidates.md` that exists is frozen.** It was written while reading and counted;
   never change it.
 
+**Before your first quotation, read `.agents/skills/reader-tools/references/failures.md`**: the failures measured in this repository, the check that catches each, and what to write instead.
+
 ## The tools, and what each answers
 
 ```bash

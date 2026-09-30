@@ -1,0 +1,325 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+  "input_rows": 15,
+  "candidates": 14,
+  "refused": 1,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:4499de66415cf591b69d498d8c73dc14e19e04cc9e745d08e27022fb7ac5a173",
+      "kind": "reading",
+      "raw": {
+        "term": "Glitch-Momente",
+        "quote": "subtile „Glitch-Momente“ und systemische Hinweise einbauen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:90f26ab1e89c3c1b36f8629637c3507c47ad5a0ae7ef4865ea4b83dd5d07e3f8",
+      "kind": "reading",
+      "raw": {
+        "term": "Statis-Lücken",
+        "quote": "Das Phänomen der „Statis-Lücken“ (Teil 1)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "Statis-Lücken"
+      ]
+    },
+    {
+      "id": "claim:ea0531365eba0c9de143188a65ccf4247555b20595c4c3e7d13cb010dd01d0ae",
+      "kind": "reading",
+      "raw": {
+        "term": "Große Stille",
+        "quote": "Kael nennt dies die „Große Stille“",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:586278a8e7099c9d4812a4d4da605f9373c4dff30cab2241e7a38d7478c9d4f6",
+      "kind": "reading",
+      "raw": {
+        "term": "Höhere Metrik",
+        "quote": "AEGIS und die „Höhere Metrik“ (Teil 2)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76986976fe65cb7867388fbfbef2fe9698d19c9d4517ac2e0afb4587e6b85fb5",
+      "kind": "reading",
+      "raw": {
+        "term": "Primären Beobachtungs-Einheit",
+        "quote": "AEGIS spricht in seinen Statusberichten oft von der „Primären Beobachtungs-Einheit“",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4f070d07f087d779dc6a2c207177d47223fe3d3904ff1b377b16a48de5c88302",
+      "kind": "reading",
+      "raw": {
+        "term": "Externen Taktgeber",
+        "quote": "oder dem „Externen Taktgeber“",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fd25371e42fa2cfffb2dc081c34e2b7cc6e9f1ddca91f9100cc461ce47cd7bf9",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz Protokoll",
+        "quote": "das Kohärenz Protokoll",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:63c456db7654e9753ec1bd173ef3637a00d24565edd65614d0eaf9b662f0a04a",
+      "kind": "reading",
+      "raw": {
+        "term": "Rendering-Grenzen",
+        "quote": "Die „Rendering-Grenzen“ (Teil 1 & 2)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        30
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0810df887b791e0092ba1e1e5982c84887443ae37652e762f7eb174781c9f1e5",
+      "kind": "reading",
+      "raw": {
+        "term": "Rendering-Grenzen",
+        "quote": "Integriere Hinweise auf die Grenzen der Mathematik und Physik als technische Limits des Lesers.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        32
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:809a62a59ec51ec20b1bcfaf0e0b5f072fe5b5213769a1225a5085372d656203",
+      "kind": "reading",
+      "raw": {
+        "term": "Rendering-Grenzen",
+        "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        34
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ccfd17a30e3765586f1c6d89d061bceea8c0123b69879263515ccee3214cdd00",
+      "kind": "reading",
+      "raw": {
+        "term": "Grenzen der Mathematik",
+        "quote": "Wenn das System unentscheidbar wird, liegt das daran, dass der Verstand des Beobachters (des Lesers) an seine eigenen kognitiven Grenzen stößt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:45befe7445f81b18b053e34e017652dae3506fea4e1d666f5ed27e2fb0d3b37a",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Welt",
+        "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1443ada13cde608829a7e226ae85aa5349277fe4c8fd6d71fe4cca5c697ba1d2",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna-Spiegelung",
+        "quote": "Juna ist diejenige, die Kael die Wahrheit flüstert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:47036bc0ba5dab8486130622907305e67cbb74aa4036794de7f14768a5d20e6f",
+      "kind": "reading",
+      "raw": {
+        "term": "Lese-Abhängigkeit",
+        "quote": "Das Zuklappen des Buches wird als der „Wärmetod des Universums“ (Entropie) geframt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        46
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8854a7b208463c603f599e1648ea65b5e1eada4abd9826fd04b24345a1073952",
+      "kind": "reading",
+      "raw": {
+        "term": "Aufmerksamkeit",
+        "quote": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "36a3cceac5dd641235d445cc3daa9b7832cebd4e450b69698930060ab4253284",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}
