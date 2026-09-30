@@ -72,7 +72,11 @@ QUOTE_ASK = re.compile(r"„(?P<quote>[^„“]{1,400})[“\"](?P<gap>\s*)\^\[\?
 FRONT = re.compile(r"\A---\n(.*?)\n---\n", re.S)
 DATE_IN_HEAD = re.compile(r"^## Readings? — `[^`]+`, (\d{4}-\d{2}-\d{2})")
 # What a reading's and a record entry's first line must say: the document, then its date.
-HEAD_READING = re.compile(r"^## Readings? — `(?P<slug>[^`]+)`, (?P<date>\S+?)(?:,|\s—|$)")
+# One grammar, the singular: until the review of #120 (2026-09-30) this took `## Readings —`,
+# which the chapter and overview frontmatter (READING_HEAD) and chapters.py do not count, so
+# a plural reading landed with `sources: 0` and every check held. Some term pages carry the
+# plural from before readings.py; DATE_IN_HEAD still reads them to place a reading by date.
+HEAD_READING = re.compile(r"^## Reading — `(?P<slug>[^`]+)`, (?P<date>\S+?)(?:,|\s—|$)")
 HEAD_RECORD = re.compile(r"^## (?P<entry>\S+) — `(?P<slug>[^`]+)`, (?P<date>\S+?)(?:,|\s—|$)")
 # A link as chapters.py and relations.py read it; it may point at a term page or a chapter page.
 LINK = re.compile(r"\[\[([^\]|#]+)(?:[|#][^\]]*)?\]\]")
@@ -470,6 +474,9 @@ def selftest() -> int:
                 good.replace(f"## Reading — `{slug}`", "## Reading — `ein-anderes-dokument`"), root, f, "heading names")
         refused("a heading with another date refused",
                 good.replace(f"`{slug}`, {date}, E", f"`{slug}`, 2001-01-01, E"), root, f, "heading names")
+        # The review of #120: a plural heading was taken and then counted by nothing.
+        refused("a plural heading refused", good.replace("## Reading — ", "## Readings — "), root, f,
+                "the heading does not read")
         (root / f"Plan/runs/{slug}/reconcile-pre.json").unlink()
         refused("a document not yet looked up refused", good, root, f, "reconcile-pre.json")
         (root / f"Plan/runs/{slug}/reconcile-pre.json").write_text("{}\n", encoding="utf-8")
@@ -504,6 +511,20 @@ def selftest() -> int:
                        and "readings: 3" in term))
         checks.append(("apply derives a chapter page's frontmatter",
                        f'ingested: ["old", "{slug}"]' in chap and "sources: 2" in chap))
+        # The same chapter reading with a plural heading: refused, and nothing is written.
+        before = chap
+        chapter.write_text('---\nchapter: 1\nsources: 1\ningested: ["old"]\n---\n\n# Kap 1\n\n'
+                           "## Reading — `old`, 2025-01-01\n\nText.\n", encoding="utf-8")
+        page.write_text(original, encoding="utf-8")
+        plural = (root / "batch" / "kap-01--e.md")
+        plural.write_text(plural.read_text(encoding="utf-8").replace("## Reading — ", "## Readings — "),
+                          encoding="utf-8")
+        kept = chapter.read_text(encoding="utf-8")
+        with contextlib.redirect_stdout(io.StringIO()):
+            status = run("selftest", True, root, root / "batch")
+        checks.append(("a plural chapter reading writes nothing, and no frontmatter moves",
+                       status == 1 and chapter.read_text(encoding="utf-8") == kept
+                       and page.read_text(encoding="utf-8") == original and before != kept))
         page.write_text(original, encoding="utf-8")
         chapter.unlink()
         (root / "batch" / "kap-01--e.md").unlink()
