@@ -28,7 +28,9 @@ python3 scripts/read.py <slug> --count "<words>"   # three counts and a paste-re
 python3 scripts/capture.py <slug> --count          # counts every candidate of 03 into 04-counts.txt, counts.json
 python3 scripts/census.py draft <slug>             # the census with everything mechanical already written
 python3 scripts/census.py check <slug>             # the census against counts.json; must say „holds"
-python3 scripts/quotes.py --strict <file>          # every quotation and count mark against its line; fails on an uncited one
+python3 scripts/quotes.py --strict <file>          # every quotation and count mark against its line; ends `strict: PASS` or `strict: FAIL`
+python3 scripts/claims.py draft <slug>             # every cited sentence of your note and census beside its line: a table
+python3 scripts/claims.py check <slug>             # the table you filled, saved as claims.md; fails on an empty cell
 python3 scripts/runlog.py <slug> start|end <phase> # read, list, count, census, note
 ```
 
@@ -91,6 +93,9 @@ gap) and the claim rests on the lines or counts it names. <One sentence on its s
 
 ## Before you finish
 
-`census.py check <slug>` holds. `quotes.py --strict` on the census and on the note exits 0: it
-fails on an unresolved quotation and on an uncited one. `05-verify.txt` holds every number your
+`census.py check <slug>` holds. `quotes.py --strict` on the census and on the note ends
+`strict: PASS`: it fails on an unresolved quotation and on an uncited one, and „0 wrong“ at the end of
+its summary line is only the count marks' figure. `claims.py draft <slug>` writes every cited sentence
+beside its line; fill the last two columns of each row (`document` or `source: <who>`, and `yes` or
+`fixed`), save it as `Plan/runs/<slug>/claims.md`, and `claims.py check <slug>` must say „holds“. `05-verify.txt` holds every number your
 prose states, each with the command that produced it.

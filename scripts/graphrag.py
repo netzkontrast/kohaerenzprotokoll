@@ -130,13 +130,20 @@ def seeds(graph: dict, query: str, glosses: list[dict] | None = None) -> dict[st
     return found
 
 
-def pagerank(graph: dict, start: dict[str, float]) -> dict[str, float]:
-    """Personalized PageRank: restart at the seeds, walk typed edges both ways."""
+def pagerank(graph: dict, start: dict[str, float], weights: dict[str, float] | None = None) -> dict[str, float]:
+    """Personalized PageRank: restart at the seeds, walk typed edges both ways.
+
+    `weights` maps an edge type to its weight and defaults to `WEIGHTS`; a type it
+    does not name is not walked. An edge may carry its own scale, `w`, which
+    multiplies its type's weight; the stated edges carry none. `graphlab.py` varies
+    both, so that what a relation type is worth is measured rather than chosen.
+    """
     if not start:
         return {}
+    weights = WEIGHTS if weights is None else weights
     out: dict[str, list[tuple[str, float]]] = {}
     for e in graph["edges"]:
-        w = WEIGHTS.get(e["type"], 0.0)
+        w = weights.get(e["type"], 0.0) * e.get("w", 1.0)
         if w and e["source"] in graph["nodes"] and e["target"] in graph["nodes"]:
             out.setdefault(e["source"], []).append((e["target"], w))
             out.setdefault(e["target"], []).append((e["source"], w))
@@ -186,17 +193,25 @@ def select_mmr(relevance: list[float], similar, budget: int = BUDGET,
     return chosen
 
 
-def retrieve(query: str, graph: dict | None = None, top_terms: int = TOP_TERMS,
-             budget: int = BUDGET, include_unchecked: bool = False, method: str = "ppr") -> dict:
-    graph = graph or kg.build()
-    prop = kg.proposals()
-    seeded = seeds(graph, query, prop["glosses"] if method.endswith("+gloss") else None)
+def ranked_terms(graph: dict, seeded: dict, method: str = "ppr", top_terms: int = TOP_TERMS,
+                 weights: dict[str, float] | None = None) -> tuple[dict[str, float], list[str]]:
+    """The rank of every node reached and the top term pages: what `retrieve` and the lab share."""
     if method.startswith("seeds"):
         rank = {k: w for k, (w, _) in seeded.items()}
     else:
-        rank = pagerank(graph, {k: w for k, (w, _) in seeded.items()})
+        rank = pagerank(graph, {k: w for k, (w, _) in seeded.items()}, weights)
     terms = sorted((k for k in rank if graph["nodes"].get(k, {}).get("type") == "term"),
                    key=lambda k: (-rank[k], k))[:top_terms]
+    return rank, terms
+
+
+def retrieve(query: str, graph: dict | None = None, top_terms: int = TOP_TERMS,
+             budget: int = BUDGET, include_unchecked: bool = False, method: str = "ppr",
+             weights: dict[str, float] | None = None) -> dict:
+    graph = graph or kg.build()
+    prop = kg.proposals()
+    seeded = seeds(graph, query, prop["glosses"] if method.endswith("+gloss") else None)
+    rank, terms = ranked_terms(graph, seeded, method, top_terms, weights)
     peak = max((rank[k] for k in terms), default=1.0) or 1.0
 
     qv = vector(query)

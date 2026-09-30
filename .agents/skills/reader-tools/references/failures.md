@@ -17,7 +17,9 @@ page before your first quotation.
    them.**
 2. **The right line, the wrong words.** „das Management“ was written for „dem
    Management“, one case changed. It was the first defect `quotes.py` ever found.
-   Retyping is how it happens. Copy, as in 1.
+   Retyping is how it happens. Copy, as in 1. A sentence-initial capital is a case
+   too: the line reads „Ein essenzielles, integratives Modell“ and R4 wrote „ein
+   essenzielles …“.
 3. **A joined or shortened quotation.** `…`, `[…]` or two passages in one „…“ are
    refused. Quote one contiguous span of one line; two passages are two quotations.
 4. **A quotation across a line wrap.** The export wraps sentences, and the line
@@ -46,7 +48,12 @@ page before your first quotation.
    named a line to check them against.
 9. **Quotation marks used for anything else.** Use „…“ only for words the document
    writes, and put a name you merely mention in backticks: `` `Hard Canon` ``. A
-   straight `"` between two quotations confuses which citation belongs to which.
+   straight `"` between two quotations confuses which citation belongs to which:
+   the checker takes the *last* straight quote it finds, so a quotation closed by
+   one runs on to the next in the same paragraph. R4 wrote "Trauma Bonds" and
+   "Window of Tolerance" in prose, and 4 of its 10 unresolved quotations were
+   swallowed that way. The document's own inner quotes belong outside your „…“:
+   cut the quotation before them.
 
 ## Names and counts — `census.py check`, `reading_extract.py stage`, `quotes.py`
 
@@ -61,9 +68,18 @@ page before your first quotation.
 12. **A frozen list changed.** `03-candidates.md` is gold once counted (decision
     009). Never edit it, and never edit `counts.json` or `04-counts.txt`.
 
+13. **A reason given for a count that no line was read for.** R4 wrote that the
+    document's 16 typographic marks were „em-dashes, ellipses“ (they are 11 en-dashes,
+    one em-dash and two pairs of curly quotation marks; the document has no ellipsis),
+    that its 8 question marks stood in „rhetorical closure“ (all 8 stand in the titles
+    of references), and named a compound `Triggering` (the document writes
+    `Triggerung`). A count says how many; only the lines say why. Before you explain a
+    count, list its lines — `grep -n '?' Sources/drive/<slug>.md`,
+    `read.py <slug> --count "<surface>"` — and read them.
+
 ## Claims — no check can see these, only reading
 
-13. **The prose says more than the line.** This was *7 of the 11 defects of the
+14. **The prose says more than the line.** This was *7 of the 11 defects of the
     quality sample of 2026-09-29*:
     - a beat number wrong;
     - a plural read as a singular;
@@ -80,6 +96,12 @@ page before your first quotation.
     - „remains open“ for an index the document defines 114 lines later;
     - „cites two other documents“ where its reference list names twelve.
 
+    *R4, Haiku:* a line that gives the prevalence of classical PTBS was written up as
+    the disorder's; a window the line says is „massiv“ narrowed became one patients
+    „can modulate“; a description („hat sich … etabliert“) became a prescription; and a
+    theory the line reports („Nach dieser Theorie …“) was written as the document's
+    own statement.
+
     *R3, Haiku, an audit of another document:* the note gave the audit's reports of
     the Protokoll — „Das Protokoll argumentiert“, „wird im Protokoll als … bezeichnet“
     — as the audit's own claims, five times, although its own claims pass had looked
@@ -88,48 +110,50 @@ page before your first quotation.
     Before each claim, reread the cited line. State only what it states, and name
     the thing as the line names it. Ask who says it: a line that opens „Das
     Dokument …“, „Das Protokoll …“ or „Laut …“ reports another source.
-14. **A gap credited that the document fills.** Before you write that something
+15. **A gap credited that the document fills.** Before you write that something
     stays open, undefined or unnamed, ask `read.py <slug> --count "<its name>"` and
     read every line it names. *R2:* the CSI was called undefined at L34 and is
     defined at L148.
-15. **A comparison with other documents.** „every later source“, „the only one“,
+16. **A comparison with other documents.** „every later source“, „the only one“,
     „the oldest read source“: *2 defects and 13 minor findings of that sample.* Say
     nothing about another document unless you cite that document in the same
     paragraph. `lint_readings.py` flags the phrases it knows.
-16. **A number in prose that no command produced.** „Four to three alters per
+17. **A number in prose that no command produced.** „Four to three alters per
     world“ was written where the table gives two to three. *2 defects.* Every
     number your prose states is in `05-verify.txt` with the command that produced
     it. **Paste the command's output there; never retype it.** *R2:* the verify file
     listed eight counts, three of them attached to the wrong word, and the note's
     `stance_marker_count` said 31 where the eight summed to 21.
-17. **A canon claim applied.** „ground truth“, „single source of truth“,
+18. **A canon claim applied.** „ground truth“, „single source of truth“,
     „structurally verified“: record what the document says of its own standing, and
     never let it decide anything.
 
-18. **A check result reported, not run.** R2 reported „0 unresolved, 0 unchecked“;
-    `quotes.py` printed 2 unchecked in each file. R3 reported the same over 20. Run
-    `quotes.py --strict`, whose exit status says it, and paste its last line into
-    your report.
+19. **A check result reported, not run.** R2 reported „0 unresolved, 0 unchecked“;
+    `quotes.py` printed 2 unchecked in each file. R3 reported the same over 20. R4
+    reported „0 wrong“ over 10 unresolved quotations: „0 wrong“ is the count marks'
+    figure at the end of the summary line. Run `quotes.py --strict`: its exit
+    status says it, and its last line is `strict: PASS` or `strict: FAIL — …`.
+    Paste that line into your report, and if it says FAIL, fix and run it again.
 
 ## Formats — `readings.py`, `census.py`
 
-19. **A plural reading heading.** `## Readings —` is refused, because no
+20. **A plural reading heading.** `## Readings —` is refused, because no
     frontmatter counts it. Write `## Reading — `<slug>`, <date>, <prose name> —
     <what it adds>`.
-20. **A mechanical table edited.** `census.py check` compares every row, the
+21. **A mechanical table edited.** `census.py check` compares every row, the
     frontmatter, the profile and the facts with what `census.py draft` writes. Fill
     only the two `<!-- reader: … -->` sections.
 
 ## Working economically — measured cost, not a check
 
-21. **Reading script sources to learn a format.** *9 of 12 readers on 2026-09-29
+22. **Reading script sources to learn a format.** *9 of 12 readers on 2026-09-29
     did.* Your definition, the card and this page say what each tool answers;
     `--help` is enough.
-22. **Re-verifying what you were not asked to verify.** R1 re-ran 165 commands of a
+23. **Re-verifying what you were not asked to verify.** R1 re-ran 165 commands of a
     stopped reader's drafts, and was the costliest run (proxy 4.09 M). Start from
     the frozen list and the document. Another reader's partial draft is not input
     unless your task says so.
-23. **One question per call.** Each call re-reads your whole context, so ask
+24. **One question per call.** Each call re-reads your whole context, so ask
     several quotations in one Bash call:
     `python3 scripts/read.py <slug> --find "…"; python3 scripts/read.py <slug> --find "…"`.
     Keep your reasoning between calls short.

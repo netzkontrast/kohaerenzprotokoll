@@ -313,10 +313,13 @@ def check_order() -> list[str]:
         note.write_text("---\nsource: Sources/drive/none.md\n---\nIt says „wird verifiziert und bestätigt\" here.\n",
                         encoding="utf-8")
         import contextlib, io
-        with contextlib.redirect_stdout(io.StringIO()):
+        out = io.StringIO()
+        with contextlib.redirect_stdout(out):
             plain, strict = quotes.main([str(note)]), quotes.main([str(note), "--strict"])
         if (plain, strict) != (0, 1):
             failures.append(f"quotes --strict: an uncited quotation gave {plain} plain, {strict} strict; want 0, 1")
+        if out.getvalue().strip().splitlines()[-1] != "strict: FAIL — 0 unresolved, 1 uncited":
+            failures.append("quotes --strict does not end with its FAIL line: " + out.getvalue().strip().splitlines()[-1])
     return failures
 
 

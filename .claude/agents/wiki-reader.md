@@ -22,6 +22,17 @@ Write accepted material in the existing reading format below. Proposals never
 become links or verified facts automatically. Return template failure examples
 to `hyperextract-template-agent`; do not change its template or run files.
 
+When the brief carries a `Plan/runs/<slug>/crossdoc.md`, its **Related, not named**
+list is yours to judge: open each line with `read.py <its document> --from N --to N`
+and label it, `python3 scripts/bm25rel.py label <id> tension|parallel|same|noise
+--by "wiki-reader (<model>)" --note "<why, one line>"`. Judge what the *line says*,
+not that it shares words: a tension is two things held against each other, as
+„Schweigen“ against „Stille“; a parallel is the same move made in another place;
+`same` is one thing under two names; `noise` is a coincidence. A verdict is
+recorded with your name and is never a reading; a relation you judged `tension` or
+`same` is a candidate for a reading on the page, and you write that reading in
+the usual format only if the line stands as a quotation for the page's subject.
+
 ## What you are given
 
 A batch name, the documents (slug, date, prose name), the pages of your group, and

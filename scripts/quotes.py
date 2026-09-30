@@ -488,7 +488,13 @@ def main(argv: list[str]) -> int:
     # (`selftests.py`, CI) shows the last one.
     print("\nA bare ^[Lnn] resolves against the file's own `source:`.\n"
           + summary(result))
-    return 1 if result["unresolved"] or (strict and result["unchecked"]) else 0
+    failing = bool(result["unresolved"] or (strict and result["unchecked"]))
+    if strict:
+        # The summary ends „0 wrong“, the count marks' figure, and a Haiku reader of 2026-09-30
+        # reported that as its verdict over 10 unresolved quotations. So the gate says PASS or FAIL.
+        print(f"strict: {'FAIL' if failing else 'PASS'} — {result['unresolved']} unresolved, "
+              f"{result['unchecked']} uncited")
+    return 1 if failing else 0
 
 
 if __name__ == "__main__":

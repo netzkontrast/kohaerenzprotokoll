@@ -78,7 +78,15 @@ python3 scripts/quotes.py --strict Sources/notes/<slug>.md   # exits 0: none unr
 python3 scripts/quotes.py --strict Sources/terms/<slug>.md
 python3 scripts/census.py check <slug>                # holds: every mechanical part as drafted
 python3 scripts/capture.py <slug> --count             # after the list is complete, and again if you change it
+python3 scripts/claims.py draft <slug>                # every cited sentence beside its line; fill the last two columns
+python3 scripts/claims.py check <slug>                # after saving the table as Plan/runs/<slug>/claims.md: holds
 ```
+
+`quotes.py --strict` ends with `strict: PASS` or `strict: FAIL`; paste that line, never the
+summary's „0 wrong“ (the count marks' figure). The claims table is where a sentence meets its
+line: for each row, whose words are on the line — the document's own or another source it
+reports — and does your sentence name that speaker and that subject? A row you cannot answer
+from the line is a sentence to change. `references/failures.md` (14, 15) has the cases.
 
 Report: the document in two sentences, how many candidates, the zeros in the
 count and what each is (an inflection, export damage, or a term the document truly

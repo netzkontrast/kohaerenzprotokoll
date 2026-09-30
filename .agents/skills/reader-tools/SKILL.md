@@ -41,7 +41,7 @@ capability is irrelevant; report the reduced coverage.
 | Role | Read | Retrieval | Handoff |
 |---|---|---|---|
 | document-reader | assigned source and procedural briefing | `read.py`, `profile.py`, local quote/count checks; **no graph, qmd or wiki context before the independent census and note are frozen** | normal ingest artifacts; optional source-only extraction trial beside this run |
-| wiki-reader | assigned sources, their census/note and assigned page digests | bounded graph or candidate windows only when the coordinator includes them in the reconciliation task | reading files; code places their citations |
+| wiki-reader | assigned sources, their census/note and assigned page digests | bounded graph or candidate windows only when the coordinator includes them in the reconciliation task, among them the document's `crossdoc.md` and its `P_BM25` lines to judge with `bm25rel.py label` | reading files, verdicts; code places their citations |
 | corpus-researcher | question, selected corpus candidates and explicitly allowed graph context | qmd discovery, askdb BM25, graph evidence, exact source windows | source-specific claims, gaps, paths and coverage; no automatic landing or wiki writes |
 | hyperextract-template-agent | procedural templates and assigned fixture/trial inputs | template design/check/smoke/evaluation only | versioned candidate YAML, fixtures, failure lists and pilot report |
 
@@ -58,6 +58,8 @@ qmd search "<search words>" -c sources --json -n 8
 .venv-graphqlite/bin/python scripts/kg.py around term:<slug> --hops 1 --limit 12
 .venv-dspy/bin/python scripts/askdb.py bm25 "<search words>" --limit 8
 .venv-dspy/bin/python scripts/askdb.py touches <document-slug>
+python3 scripts/crossdoc.py doc <document-slug>      # who else writes a page's names: counts, and P_BM25 lines
+python3 scripts/bm25rel.py find term:<slug> "<its words>" --exclude <document-slug>
 ```
 
 Load `.agents/skills/qmd/SKILL.md` for collection/backend selection and URI
