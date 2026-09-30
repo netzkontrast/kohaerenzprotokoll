@@ -36,6 +36,7 @@ KINDS = {
 
 # (name, interpreter, arguments). "dspy" means .venv-dspy.
 SUITES = [
+    ("claude usage: failed calls included", "std", ["scripts/claude_cli.py", "totals-selftest"]),
     ("knowledge init: plans and failures", "std", ["scripts/knowledge.py", "selftest"]),
     ("reading extraction: provenance and placement", "std", ["scripts/reading_extract.py", "selftest"]),
     ("reading extraction: real HE fixture", "he", ["scripts/reading_extract.py", "native-selftest"]),

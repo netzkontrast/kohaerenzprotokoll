@@ -4,9 +4,9 @@
   "model": "claude-cli/haiku",
   "calls": 5,
   "failed_calls": 3,
-  "seconds": 9.3,
-  "input_tokens": 9578,
-  "output_tokens": 614,
-  "cost_usd": 0.0222,
+  "seconds": 27.6,
+  "input_tokens": 25000,
+  "output_tokens": 2162,
+  "cost_usd": 0.0608,
   "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
 }
