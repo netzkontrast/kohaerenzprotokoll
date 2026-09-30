@@ -303,12 +303,21 @@ def catalogue() -> dict:
 _COOLING: dict[str, float] = {}
 
 
+def best() -> list[str]:
+    """The free models `scripts/route_bench.py` measured best on `ask` packs, in rank order;
+    [] before the first measurement. `Plan/runs/route/best.json` is what the repository pins."""
+    path = OUT / "best.json"
+    return json.loads(path.read_text(encoding="utf-8")).get("ask", []) if path.exists() else []
+
+
 def rotation(prefer: str | None = None) -> list[str]:
     """Free chat models that accepted the data policy: answered first, rate-limited after."""
     chat = catalogue()["chat"]
     ok = sorted((m for m, v in chat.items() if v["status"] == "ok"), key=lambda m: chat[m].get("seconds", 99))
     later = sorted(m for m, v in chat.items() if v["status"] == "rate-limited")
     order = ok + later
+    ranked = [m for m in best() if m in order]   # measured best first (route_bench.py), then the probe's order
+    order = ranked + [m for m in order if m not in ranked]
     if prefer in order:
         order.remove(prefer)
         order.insert(0, prefer)

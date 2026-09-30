@@ -75,6 +75,7 @@ SUITES = [
     ("ask: verify names each defect", "dspy", ["scripts/ask.py", "selftest"]),
     ("ask graph: lines, paragraphs, hyperedges", "std", ["scripts/askextract.py"]),
     ("aliases: similarity, threshold", "dspy", ["scripts/aliases.py", "selftest"]),
+    ("route bench: rank, veto",    "dspy", ["scripts/route_bench.py", "selftest"]),
     ("claude cli model", "dspy", ["scripts/claude_lm.py"]),
     ("pairs dry-run", "dspy", ["scripts/pairs.py", "run", "--optimizer", "labeled", "--dry-run"]),
     ("pairs dry-run, plural first", "dspy",

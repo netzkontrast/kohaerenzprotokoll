@@ -1,0 +1,53 @@
+{
+ "model": "google/gemma-4-26b-a4b-it:free",
+ "provider": "Google AI Studio",
+ "seconds": 12.2,
+ "content": "```json\n{\n \"answerable\": \"yes\",\n \"claims\": [\n  {\n   \"doc\": \"koharenz-protokoll-strukturierter-outline-2026-05-18-md\",\n   \"says\": \"Die erste direkte Erscheinung von Juna erfolgt in Kapitel 38, Beat 3, in der Form einer Stille und eines Da-Seins ohne Worte.\",\n   \"quotes\": [\n    {\n     \"text\": \"Erste direkte Erscheinung erst in Kap 38 Beat 3 — als Stille, als Da-Sein ohne Worte.\",\n     \"line_hint\": 121\n    }\n   ]\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md\",\n   \"says\": \"In Kapitel 38 erscheint Juna direkt.\",\n   \"quotes\": [\n    {\n     \"text\": \"Juna erscheint direkt\",\n     \"line_hint\": 593\n    }\n   ]\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md\",\n   \"says\": \"Juna erscheint direkt ab Vortex 1 Beat 4 und in Kapitel 38.\",\n   \"quotes\": [\n    {\n     \"text\": \"Direkt erst ab Vortex 1 Beat 4 und in Kap 38 (Juna erscheint).\",\n     \"line_hint\": 630\n    }\n   ]\n  }\n ],\n \"differ\": [\n  \"koharenz-protokoll-strukturierter-outline-2026-05-18-md vs kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md: Das eine Dokument nennt Kap 38 Beat 3 als Zeitpunkt der ersten direkten Erscheinung, das andere nennt zusätzlich Vortex 1 Beat 4 als Beginn der direkten Erscheinung.\"\n ],\n \"gaps\": [],\n \"need\": [],\n \"next\": []\n}\n```",
+ "response": {
+  "id": "gen-1790767980-N2xmXDY82B8mAVivcvPx",
+  "object": "chat.completion",
+  "created": 1790767980,
+  "model": "google/gemma-4-26b-a4b-it:free",
+  "provider": "Google AI Studio",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "STOP",
+    "message": {
+     "role": "assistant",
+     "content": "```json\n{\n \"answerable\": \"yes\",\n \"claims\": [\n  {\n   \"doc\": \"koharenz-protokoll-strukturierter-outline-2026-05-18-md\",\n   \"says\": \"Die erste direkte Erscheinung von Juna erfolgt in Kapitel 38, Beat 3, in der Form einer Stille und eines Da-Seins ohne Worte.\",\n   \"quotes\": [\n    {\n     \"text\": \"Erste direkte Erscheinung erst in Kap 38 Beat 3 — als Stille, als Da-Sein ohne Worte.\",\n     \"line_hint\": 121\n    }\n   ]\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md\",\n   \"says\": \"In Kapitel 38 erscheint Juna direkt.\",\n   \"quotes\": [\n    {\n     \"text\": \"Juna erscheint direkt\",\n     \"line_hint\": 593\n    }\n   ]\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md\",\n   \"says\": \"Juna erscheint direkt ab Vortex 1 Beat 4 und in Kapitel 38.\",\n   \"quotes\": [\n    {\n     \"text\": \"Direkt erst ab Vortex 1 Beat 4 und in Kap 38 (Juna erscheint).\",\n     \"line_hint\": 630\n    }\n   ]\n  }\n ],\n \"differ\": [\n  \"koharenz-protokoll-strukturierter-outline-2026-05-18-md vs kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md: Das eine Dokument nennt Kap 38 Beat 3 als Zeitpunkt der ersten direkten Erscheinung, das andere nennt zusätzlich Vortex 1 Beat 4 als Beginn der direkten Erscheinung.\"\n ],\n \"gaps\": [],\n \"need\": [],\n \"next\": []\n}\n```",
+     "refusal": null,
+     "reasoning": null
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 11295,
+   "completion_tokens": 495,
+   "total_tokens": 11790,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

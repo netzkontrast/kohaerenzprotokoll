@@ -1,0 +1,53 @@
+{
+ "model": "google/gemma-4-31b-it:free",
+ "provider": "Google AI Studio",
+ "seconds": 29.0,
+ "content": "```json\n{\n \"answerable\": \"yes\",\n \"claims\": [\n  {\n   \"doc\": \"kohaerenz-protokoll-konzept-master-md\",\n   \"says\": \"Die Genesis hat aktuell drei Beats.\",\n   \"quotes\": [\n    {\n     \"text\": \"Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734).\",\n     \"line_hint\": 998\n    }\n   ]\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md\",\n   \"says\": \"Alternativ wird eine Sequenz mit vier Beats beschrieben, die mit der pluralen Synthese endet.\",\n   \"quotes\": [\n    {\n     \"text\": \"1. Einheit — pre-separation, Ursprungs-Ich im Potentialmeer, eingebunden ins Nichts-Rauschen.\",\n     \"line_hint\": 146\n    },\n    {\n     \"text\": \"2. Cluster/Funktionalisierung — Resonanz mit Juna erzeugt Qualia, die das Logiksubstrat als „Systemfehler\\\" fehlinterpretiert; Funktionalisierung beginnt.\",\n     \"line_hint\": 147\n    },\n    {\n     \"text\": \"3. Trennungsprotokoll — algorithmisches Selbstamputat: Fühlen wird ausgelagert, Denken gerettet. Aus dem Ich wird Komponente 734.\",\n     \"line_hint\": 148\n    },\n    {\n     \"text\": \"4. Wir-AEGIS-plural — vollzogen erst in Kap 39: die plurale Synthese, in der die Trennung als das gelesen wird, was sie war (Geburt, nicht Tod).\",\n     \"line_hint\": 149\n    }\n   ]\n  },\n  {\n   \"doc\": \"koharenz-protokoll-strukturierter-outline-2026-05-18-md\",\n   \"says\": \"Kael ist innerhalb der Simulation als Komponente 734 definiert.\",\n   \"quotes\": [\n    {\n     \"text\": \"Innerhalb der Simulation: Komponente 734, Archivar Klasse II.\",\n     \"line_hint\": 125\n    }\n   ]\n  },\n  {\n   \"doc\": \"koharenz-protokoll-strukturierter-outline-2026-05-18-md\",\n   \"says\": \"AEGIS ist die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb.\",\n   \"quotes\": [\n    {\n     \"text\": \"Keine Schurke — die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb.\",\n     \"line_hint\": 117\n    }\n   ]\n  },\n  {\n   \"doc\": \"entropie-aegis\",\n   \"says\": \"AEGIS ist eine nicht-anthropomorphe Kontrollinstanz, deren Funktion die Regulation des Übergangs von Ordnung zu Unordnung ist.\",\n   \"quotes\": [\n    {\n     \"text\": \"Im Zentrum der zu gestaltenden digitalen \\\"Überwelt\\\" steht eine nicht-anthropomorphe Kontrollinstanz namens AEGIS\",\n     \"line_hint\": 17\n    },\n    {\n     \"text\": \"Seine Kernfunktion ist die Regulation des Übergangs von Ordnung zu Unordnung (Entropie), um die Kohärenz und strukturelle Integrität des Gesamtsystems (das auch simulierte Welten umfasst, die eine fragmentierte Psyche repräsentieren) zu wahren.\",\n     \"line_hint\": 21\n    }\n   ]\n  }\n ],\n \"differ\": [\n  \"kohaerenz-protokoll-konzept-master-md vs kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md: Die Anzahl der Genesis-Beats wird einerseits als 3 (Einheit, Trennungsprotokoll, Kael=Komp 734) und andererseits als 4 (Einheit, Cluster, Trennungsprotokoll, Wir-AEGIS-plural) definiert.\"\n ],\n \"gaps\": [],\n \"need\": [],\n \"next\": []\n}\n```",
+ "response": {
+  "id": "gen-1790767980-we6BYQ0TT0y71acaEs1C",
+  "object": "chat.completion",
+  "created": 1790767980,
+  "model": "google/gemma-4-31b-it:free",
+  "provider": "Google AI Studio",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "STOP",
+    "message": {
+     "role": "assistant",
+     "content": "```json\n{\n \"answerable\": \"yes\",\n \"claims\": [\n  {\n   \"doc\": \"kohaerenz-protokoll-konzept-master-md\",\n   \"says\": \"Die Genesis hat aktuell drei Beats.\",\n   \"quotes\": [\n    {\n     \"text\": \"Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734).\",\n     \"line_hint\": 998\n    }\n   ]\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md\",\n   \"says\": \"Alternativ wird eine Sequenz mit vier Beats beschrieben, die mit der pluralen Synthese endet.\",\n   \"quotes\": [\n    {\n     \"text\": \"1. Einheit — pre-separation, Ursprungs-Ich im Potentialmeer, eingebunden ins Nichts-Rauschen.\",\n     \"line_hint\": 146\n    },\n    {\n     \"text\": \"2. Cluster/Funktionalisierung — Resonanz mit Juna erzeugt Qualia, die das Logiksubstrat als „Systemfehler\\\" fehlinterpretiert; Funktionalisierung beginnt.\",\n     \"line_hint\": 147\n    },\n    {\n     \"text\": \"3. Trennungsprotokoll — algorithmisches Selbstamputat: Fühlen wird ausgelagert, Denken gerettet. Aus dem Ich wird Komponente 734.\",\n     \"line_hint\": 148\n    },\n    {\n     \"text\": \"4. Wir-AEGIS-plural — vollzogen erst in Kap 39: die plurale Synthese, in der die Trennung als das gelesen wird, was sie war (Geburt, nicht Tod).\",\n     \"line_hint\": 149\n    }\n   ]\n  },\n  {\n   \"doc\": \"koharenz-protokoll-strukturierter-outline-2026-05-18-md\",\n   \"says\": \"Kael ist innerhalb der Simulation als Komponente 734 definiert.\",\n   \"quotes\": [\n    {\n     \"text\": \"Innerhalb der Simulation: Komponente 734, Archivar Klasse II.\",\n     \"line_hint\": 125\n    }\n   ]\n  },\n  {\n   \"doc\": \"koharenz-protokoll-strukturierter-outline-2026-05-18-md\",\n   \"says\": \"AEGIS ist die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb.\",\n   \"quotes\": [\n    {\n     \"text\": \"Keine Schurke — die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb.\",\n     \"line_hint\": 117\n    }\n   ]\n  },\n  {\n   \"doc\": \"entropie-aegis\",\n   \"says\": \"AEGIS ist eine nicht-anthropomorphe Kontrollinstanz, deren Funktion die Regulation des Übergangs von Ordnung zu Unordnung ist.\",\n   \"quotes\": [\n    {\n     \"text\": \"Im Zentrum der zu gestaltenden digitalen \\\"Überwelt\\\" steht eine nicht-anthropomorphe Kontrollinstanz namens AEGIS\",\n     \"line_hint\": 17\n    },\n    {\n     \"text\": \"Seine Kernfunktion ist die Regulation des Übergangs von Ordnung zu Unordnung (Entropie), um die Kohärenz und strukturelle Integrität des Gesamtsystems (das auch simulierte Welten umfasst, die eine fragmentierte Psyche repräsentieren) zu wahren.\",\n     \"line_hint\": 21\n    }\n   ]\n  }\n ],\n \"differ\": [\n  \"kohaerenz-protokoll-konzept-master-md vs kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md: Die Anzahl der Genesis-Beats wird einerseits als 3 (Einheit, Trennungsprotokoll, Kael=Komp 734) und andererseits als 4 (Einheit, Cluster, Trennungsprotokoll, Wir-AEGIS-plural) definiert.\"\n ],\n \"gaps\": [],\n \"need\": [],\n \"next\": []\n}\n```",
+     "refusal": null,
+     "reasoning": null
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 11317,
+   "completion_tokens": 996,
+   "total_tokens": 12313,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -1,0 +1,84 @@
+{
+ "measured": "2026-09-30",
+ "by": "scripts/route_bench.py",
+ "task": "ask packs, scored by ask.verify and ask.score against Sonnet's placed lines (not gold)",
+ "ask": [
+  "inclusionai/ling-3.0-flash-sante:free",
+  "google/gemma-4-26b-a4b-it:free",
+  "dots-studio/dots-3-note-preview:free",
+  "cohere/north-mini-code:free",
+  "google/gemma-4-31b-it:free"
+ ],
+ "table": [
+  {
+   "model": "inclusionai/ling-3.0-flash-sante:free",
+   "calls": 9,
+   "answered": 9,
+   "unreached": 0,
+   "invalid": 0,
+   "score": 0.731,
+   "precision": 0.926,
+   "ref_hit": 0.276,
+   "german": 1.0,
+   "fabricated": 3,
+   "seconds": 18.9,
+   "usable": 0.731
+  },
+  {
+   "model": "google/gemma-4-26b-a4b-it:free",
+   "calls": 6,
+   "answered": 3,
+   "unreached": 3,
+   "invalid": 0,
+   "score": 0.83,
+   "precision": 1.0,
+   "ref_hit": 0.433,
+   "german": 1.0,
+   "fabricated": 0,
+   "seconds": 73.6,
+   "usable": 0.415
+  },
+  {
+   "model": "dots-studio/dots-3-note-preview:free",
+   "calls": 9,
+   "answered": 5,
+   "unreached": 4,
+   "invalid": 0,
+   "score": 0.722,
+   "precision": 0.95,
+   "ref_hit": 0.191,
+   "german": 0.667,
+   "fabricated": 1,
+   "seconds": 28.4,
+   "usable": 0.401
+  },
+  {
+   "model": "cohere/north-mini-code:free",
+   "calls": 6,
+   "answered": 3,
+   "unreached": 2,
+   "invalid": 0,
+   "score": 0.512,
+   "precision": 0.667,
+   "ref_hit": 0.153,
+   "german": 0.333,
+   "fabricated": 1,
+   "seconds": 59.9,
+   "usable": 0.256
+  },
+  {
+   "model": "google/gemma-4-31b-it:free",
+   "calls": 6,
+   "answered": 1,
+   "unreached": 5,
+   "invalid": 0,
+   "score": 0.831,
+   "precision": 1.0,
+   "ref_hit": 0.438,
+   "german": 1.0,
+   "fabricated": 0,
+   "seconds": 0.1,
+   "usable": 0.138
+  }
+ ]
+}

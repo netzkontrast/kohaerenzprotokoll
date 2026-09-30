@@ -1,0 +1,66 @@
+{
+ "model": "google/gemma-4-26b-a4b-it:free",
+ "provider": "Google AI Studio",
+ "seconds": 19.3,
+ "content": "```json\n{\n \"answerable\": \"partly\",\n \"claims\": [\n  {\n   \"doc\": \"kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md\",\n   \"says\": \"Der Moonshine-Link ist eine nicht-lokale Verbindung zwischen Kael und Juna, die mit Quantenverschränkung verwandt ist.\",\n   \"quotes\": [\n    {\n     \"text\": \"Die nicht-lokale Verbindung Kael↔Juna ist mit Quantenverschränkung verwandt.\",\n     \"line_hint\": 510\n    }\n   ]\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-konzept-master-md\",\n   \"says\": \"Es wird vorgeschlagen, dass der Moonshine-Link nur mutuale Information oder Witness überträgt, aber keine Daten oder Materie.\",\n   \"quotes\": [\n    {\n     \"text\": \"Vorgeschlagen: nur mutuale Information / Witness, keine Daten / Materie.\",\n     \"line_hint\": 990\n    }\n   ]\n  },\n  {\n   \"doc\": \"romanarchitektur-kohaerenz-protokoll-finalisierung\",\n   \"says\": \"Juna kann Kael Gnosis vermitteln, was ein intuitives Verständnis ermöglicht, ohne dass AEGIS Daten aufzeichnen kann.\",\n   \"quotes\": [\n    {\n     \"text\": \"Juna kann Kael direkt Gnosis vermitteln, ohne Daten zu übertragen, die AEGIS' Monitore aufzeichnen könnten.\",\n     \"line_hint\": 114\n    }\n   ]\n  },\n  {\n   \"doc\": \"dramatica-storyform-synthese-aegis-analyse-2\",\n   \"says\": \"Die Übertragung von hochverdichteter Mutual Information kann scheitern, wenn Kaels dissoziative Barrieren dies blockieren, was zu somatischem Schmerz führt.\",\n   \"quotes\": [\n    {\n     \"text\": \"Der zweite Szenen-Keim illustriert, wie eine Interaktion schmerzhaft scheitert (Non-Accurate), weil Kaels rigide dissoziative Barrieren die Übertragung der hochverdichteten Mutual Information blockieren.\",\n     \"line_hint\": 227\n    }\n   ]\n  },\n  {\n   \"doc\": \"kap0-kap40-doppelklammer-abhandlung-2026-05-08-md\",\n   \"says\": \"Der Erfolg der Storyform A (die mit der Verbindung assoziiert ist) kostet das Singular-Selbst.\",\n   \"quotes\": [\n    {\n     \"text\": \"Ihr Erfolg kostet das Singular-Selbst.\",\n     \"line_hint\": 63\n    }\n   ]\n  }\n ],\n \"differ\": [],\n \"gaps\": [\n  \"Es wird nicht explizit definiert, was die Verbindung konkret kostet, außer der Erwähnung, dass der Erfolg der Storyform das Singular-Selbst kostet.\",\n  \"Die Frage nach der exakten Grenze dessen, was übertragen werden kann (Final-Lock-In), ist laut Paket noch offen.\"\n ],\n \"need\": [\n  {\n   \"term\": \"Kosten der Verbindung\"\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-konzept-master-md\",\n   \"lines\": [\n    990\n   ]\n  }\n ],\n \"next\": [\n  {\n   \"doc\": \"kohaerenz-protokoll-konzept-master-md\",\n   \"why\": \"Um den Status des 'Final-Lock-In' bezüglich der Übertragbarkeit zu klären.\"\n  }\n ]\n}\n```",
+ "response": {
+  "id": "gen-1790768040-KuFDq6si135BMthtiBxy",
+  "object": "chat.completion",
+  "created": 1790768040,
+  "model": "google/gemma-4-26b-a4b-it:free",
+  "provider": "Google AI Studio",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "STOP",
+    "message": {
+     "role": "assistant",
+     "content": "```json\n{\n \"answerable\": \"partly\",\n \"claims\": [\n  {\n   \"doc\": \"kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md\",\n   \"says\": \"Der Moonshine-Link ist eine nicht-lokale Verbindung zwischen Kael und Juna, die mit Quantenverschränkung verwandt ist.\",\n   \"quotes\": [\n    {\n     \"text\": \"Die nicht-lokale Verbindung Kael↔Juna ist mit Quantenverschränkung verwandt.\",\n     \"line_hint\": 510\n    }\n   ]\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-konzept-master-md\",\n   \"says\": \"Es wird vorgeschlagen, dass der Moonshine-Link nur mutuale Information oder Witness überträgt, aber keine Daten oder Materie.\",\n   \"quotes\": [\n    {\n     \"text\": \"Vorgeschlagen: nur mutuale Information / Witness, keine Daten / Materie.\",\n     \"line_hint\": 990\n    }\n   ]\n  },\n  {\n   \"doc\": \"romanarchitektur-kohaerenz-protokoll-finalisierung\",\n   \"says\": \"Juna kann Kael Gnosis vermitteln, was ein intuitives Verständnis ermöglicht, ohne dass AEGIS Daten aufzeichnen kann.\",\n   \"quotes\": [\n    {\n     \"text\": \"Juna kann Kael direkt Gnosis vermitteln, ohne Daten zu übertragen, die AEGIS' Monitore aufzeichnen könnten.\",\n     \"line_hint\": 114\n    }\n   ]\n  },\n  {\n   \"doc\": \"dramatica-storyform-synthese-aegis-analyse-2\",\n   \"says\": \"Die Übertragung von hochverdichteter Mutual Information kann scheitern, wenn Kaels dissoziative Barrieren dies blockieren, was zu somatischem Schmerz führt.\",\n   \"quotes\": [\n    {\n     \"text\": \"Der zweite Szenen-Keim illustriert, wie eine Interaktion schmerzhaft scheitert (Non-Accurate), weil Kaels rigide dissoziative Barrieren die Übertragung der hochverdichteten Mutual Information blockieren.\",\n     \"line_hint\": 227\n    }\n   ]\n  },\n  {\n   \"doc\": \"kap0-kap40-doppelklammer-abhandlung-2026-05-08-md\",\n   \"says\": \"Der Erfolg der Storyform A (die mit der Verbindung assoziiert ist) kostet das Singular-Selbst.\",\n   \"quotes\": [\n    {\n     \"text\": \"Ihr Erfolg kostet das Singular-Selbst.\",\n     \"line_hint\": 63\n    }\n   ]\n  }\n ],\n \"differ\": [],\n \"gaps\": [\n  \"Es wird nicht explizit definiert, was die Verbindung konkret kostet, außer der Erwähnung, dass der Erfolg der Storyform das Singular-Selbst kostet.\",\n  \"Die Frage nach der exakten Grenze dessen, was übertragen werden kann (Final-Lock-In), ist laut Paket noch offen.\"\n ],\n \"need\": [\n  {\n   \"term\": \"Kosten der Verbindung\"\n  },\n  {\n   \"doc\": \"kohaerenz-protokoll-konzept-master-md\",\n   \"lines\": [\n    990\n   ]\n  }\n ],\n \"next\": [\n  {\n   \"doc\": \"kohaerenz-protokoll-konzept-master-md\",\n   \"why\": \"Um den Status des 'Final-Lock-In' bezüglich der Übertragbarkeit zu klären.\"\n  }\n ]\n}\n```",
+     "refusal": null,
+     "reasoning": null
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 13075,
+   "completion_tokens": 855,
+   "total_tokens": 13930,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": [
+  {
+   "model": "google/gemma-4-26b-a4b-it:free",
+   "status": 429,
+   "why": "rate-limited",
+   "seconds": 0.6
+  },
+  {
+   "model": "google/gemma-4-26b-a4b-it:free",
+   "status": 429,
+   "why": "rate-limited",
+   "seconds": 0.4
+  }
+ ]
+}

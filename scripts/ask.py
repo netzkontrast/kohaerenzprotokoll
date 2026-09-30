@@ -111,7 +111,24 @@ def load_pack(qid: str) -> tuple[str, dict]:
     meta = json.loads((d / "pack.json").read_text(encoding="utf-8"))
     if sha(text) != meta["hash"]:
         sys.exit(f"{qid}: pack.md does not hash to pack.json's {meta['hash'][:12]}; a pack is never edited")
+    if "shown" not in meta:              # packs built before meta.shown: read it off the text sent
+        meta["shown"] = shown_in(text)
     return text, meta
+
+
+def shown_in(text: str) -> dict[str, list[int]]:
+    """Every document and line number a pack's text holds, from its `### \`slug\`` headers and `Lnn:` rows."""
+    shown: dict[str, list[int]] = {}
+    doc = None
+    for line in text.split("\n"):
+        m = re.match(r"### `([a-z0-9-]+)`", line)
+        if m:
+            doc = m.group(1)
+            continue
+        m = re.match(r"L(\d+): ", line)
+        if m and doc:
+            shown.setdefault(doc, []).append(int(m.group(1)))
+    return shown
 
 
 def tag(backend: str, attempt: int) -> str:
@@ -284,7 +301,9 @@ def backend_claude_cli(pack: str, model: str) -> dict:
 
 
 def backend_route(pack: str, prefer: str | None) -> dict:
+    """The measured best free model first (`Plan/runs/route/best.json`), then the rest in its rank."""
     import route as rt
+    prefer = prefer or next(iter(rt.best()), None)
     started = time.time()
     try:
         rec = rt.chat({"messages": [{"role": "user", "content": pack}], "max_tokens": 6000, "temperature": 0},
