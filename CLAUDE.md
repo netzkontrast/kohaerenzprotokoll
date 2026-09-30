@@ -126,16 +126,17 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**54 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **54
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **54
+**55 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **55
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **55
 <!--state:documents.reconciled--> are reconciled** — documents 52–54, the first extractions of step 6's
-sample, on 2026-09-30 at the author's word so the order holds again; the four Haiku lab extractions remain staged under
-`Plan/runs/reader-lab-2026-09-30/staged/` until reconciliation (see `NOW.md`).
+sample, on 2026-09-30 at the author's word so the order holds again, and document 58, a clinical review from the
+Haiku reader lab that no page speaks to; the lab's three other extractions remain staged under
+`Plan/runs/reader-lab-2026-09-30/staged/` until each is reconciled (see `NOW.md`).
 Of the reconciled, five are `theorie-physik`,
 five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten
-`kernkonzept`, thirteen `plot-outline`, one `theorie-psychologie`, two `theorie-logik`, two
+`kernkonzept`, thirteen `plot-outline`, two `theorie-psychologie`, two `theorie-logik`, two
 `theorie-philosophie`, two `theorie-mathematik` and one `audit` — thirty-three of them from the canon era, and
-documents 40–54 the first read from before it since document 6.
+documents 40–54 and 58 the first read from before it since document 6.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds

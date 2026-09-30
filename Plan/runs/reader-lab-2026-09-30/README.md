@@ -360,3 +360,7 @@ pipeline without weakening `account.py order` or inventing reconciliation record
 To resume, use the staged files as the reader handoff, follow the ingest skill,
 and complete reconciliation before committing them back to `Sources/`.
 The claims selftest explicitly reads the staged R2 fixture.
+
+**Resumed 2026-09-30.** R4 (`angst-bei-komplexen-traumafolgen`) is reconciled — no page, no reading, record 58 —
+and its pair is back in `Sources/terms/` and `Sources/notes/`. The claims selftest still reads R2's staged note; it
+goes back to `Sources/` with R2's pair, in the commit that carries R2's record.

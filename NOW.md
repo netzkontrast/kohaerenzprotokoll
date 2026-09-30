@@ -1280,6 +1280,12 @@ been reconciled and are excluded from production ingest counts. Resume from
 these staged artifacts when completing their reconciliation; no wiki reading
 or reconciliation was fabricated to make the order check pass.
 
+**Resumed the same day, one pair at a time.** A pair goes back to `Sources/{terms,notes}/` in the commit
+that carries its reconciliation record, and not before. R4, `angst-bei-komplexen-traumafolgen`, is
+reconciled (`Wiki/compare/reconcile-58-…`, no page and no reading, because no page speaks to a clinical
+review) and back in `Sources/`; the order holds at 55 documents. R2, R3 and R5 stay staged until their
+readings are applied.
+
 ## PR #126 review fixes — 2026-09-30
 
 Claims now bind verdicts to the complete claim, citation and source passage;
