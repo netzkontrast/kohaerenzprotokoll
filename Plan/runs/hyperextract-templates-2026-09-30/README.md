@@ -1,14 +1,23 @@
-# HyperExtract template revisions, 2026-09-30
+# HyperExtract templates, 2026-09-30
 
-Each revision is measured against the active template on the same document before it
-could be promoted (`.agents/skills/hyperextract-learning/SKILL.md`). The model is Haiku
-through `claude -p` (`scripts/he_claude.py`). The document is
-`kohaerenz-protokoll-meta-foreshadowing-beobachter-logik` (58 lines), whose note, by a
-Sonnet reader, cites 25 lines.
+Two pieces of work, both measured with Haiku through `claude -p` (`scripts/he_claude.py`, decision 011):
+
+1. **A template revision** (`TermReadings` r1), measured against the active template on one document, and not promoted.
+2. **Thirty-two contracts** (`Plan/hyperextract/*.yaml`, 24 of them new) tried on a pilot of eight documents, then on the
+   documents that hold most of the bench's gold. The note is `Plan/concept/graph-contracts_2026-09-30.md`.
+
+| file | what it is |
+|---|---|
+| `yield.md` | what each contract yielded — `python3 scripts/hegraph.py report` writes it from `Plan/runs/*/hyperextract/` |
+| `labels.jsonl` | 261+ rows a reader labelled `ok`, `part` or `wrong` from the quotation and its line — the only measure of precision |
+| `trials.sh`, `trial-log.txt` | the pilot: one pass per (document, contract), one at a time |
+| `scaled.sh`, `scaled2.sh`, `scaled-log*.txt` | the second pass: `TermDefinitions`, `TermContrasts`, `CausalLinks` over the twelve documents that hold most of the bench's gold lines; `scaled2.sh` is the rest after the first was paused for a readings batch |
+| `TermReadings-r1/` | the revision below |
 
 ## TermReadings r1 — not promoted
 
-Parent `80f445fb2e07cf45`. r1 names the two failures of the first live pass in the
+The document is `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik` (58 lines), whose note, by a
+Sonnet reader, cites 25 lines. Parent `80f445fb2e07cf45`. r1 names the two failures of the first live pass in the
 guidelines:
 - a term exactly as its line writes it, inflection included;
 - German „…“ copied as they stand.
@@ -30,6 +39,11 @@ placed, in all four runs, is a line the note already cites, and it covered about
 them. This is the first datapoint of the model comparison the author asked for on
 2026-09-30. A second reader on Haiku through a template finds a subset of what a Sonnet
 reader found; on longer documents that may differ.
+
+**A second datapoint, from the pilot of the thirty-two contracts** (`yield.md`, the per-document table): on the style
+guide, five contracts together find 52 % of the lines the pages cite and 94–100 % of *their* lines are lines a page
+cites; on the foreshadowing plan, eleven contracts find 80 %. Each contract is a slice of what a reader chose, not a
+superset of it — and for the documents no page cites yet they are a pre-reading.
 
 The runs are in `Plan/runs/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik/hyperextract/`.
 The failures behind r1 are also on `.agents/skills/reader-tools/references/failures.md`,

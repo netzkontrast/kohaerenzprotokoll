@@ -1,0 +1,7 @@
+== default-comention10 15:18:50
+24 cases: document recall 0.304, line recall 0.1
+== pr-comention-10 15:20:00
+24 cases: document recall 0.306, line recall 0.103
+== pr-comention-30 15:21:10
+Plan/derived/ask.db is stale: its inputs changed since it was built (or it predates input hashes); run askdb.py build
+== done 15:21:10

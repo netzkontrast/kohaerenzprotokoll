@@ -1,0 +1,225 @@
+{
+  "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+  "source_sha256": "59edec5bd33430a77facd020d491aee4e9f6b239fe000f69163d9815e2f96b4d",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "term": "Coherence Island",
+        "quote": "a localized zone of integrated complexity and classical reality",
+        "stance": "asserts"
+      },
+      {
+        "term": "Potential Sea",
+        "quote": "a vast expanse of quantum superposition and chaotic entropy",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform B",
+        "quote": "the logic-bound, autopoietic progress of AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "term": "Storyform A",
+        "quote": "the internal, memory-integrated journey of Kael",
+        "stance": "asserts"
+      },
+      {
+        "term": "Risse (Rifts)",
+        "quote": "the primary indicator of system instability",
+        "stance": "asserts"
+      },
+      {
+        "term": "decoherence events",
+        "quote": "They represent points where the \"Potential Sea\" intrudes upon the \"Coherence Island,\" forcing the collapse of classical reality back into a state of uncalculated potential.",
+        "stance": "asserts"
+      },
+      {
+        "term": "DKT (Dissoziative Kontroll-Technik)",
+        "quote": "Zero use of DKT (Dissoziative Kontroll-Technik) within the first 50 pages.",
+        "stance": "hedges"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna must be described exclusively as an effect or sensory resonance (light, frequency, warmth).",
+        "stance": "hedges"
+      },
+      {
+        "term": "Functional Multiplicity",
+        "quote": "The system resolution necessitates Functional Multiplicity.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Be-er",
+        "quote": "Kael functions as a \"Be-er,\" focusing on internal transformation to resolve systemic conflict.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Seed-01 Sensory Decoherence",
+        "quote": "Kael's perception of KW1—characterized by \"hard, gleichmäßiges Licht\" and the \"Geruch von Desinfektionsmitteln\"—is increasingly interrupted by the smell of ozone.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Real-Time Spatial Mapping",
+        "quote": "This is a failure of \"Real-Time Spatial Mapping\" (Source: Ref 27).",
+        "stance": "cites"
+      },
+      {
+        "term": "Simulations-Inkonsistenz",
+        "quote": "This \"Simulations-Inkonsistenz\" serves as the catalyst for his realization of internal fragmentation, highlighting the gap between his systemic persona and his true multiplicity.",
+        "stance": "asserts"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS is the \"Do-er,\" defined by logic and autopoiesis.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Juna",
+        "quote": "Juna is the Impact Character (IC), a \"Dialetheia\" (living contradiction).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dialetheia",
+        "quote": "a  **\"Dialetheia\"**  (living contradiction)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ontological Exploit",
+        "quote": "Her existence is an \"Ontological Exploit\" bypassing AEGIS's firewalls.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Non-Local Entanglement Pulse",
+        "quote": "This is a  **\"Non-Local Entanglement Pulse\" (Source: Existenzforschung 4.2)**",
+        "stance": "cites"
+      },
+      {
+        "term": "Gödel Sentence",
+        "quote": "Kael is a logic error—a  **\"Gödel Sentence\"**  the system recognizes but cannot prove or contain.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gödel Sentence",
+        "quote": "Kael is a logic error—a \"Gödel Sentence\" the system recognizes but cannot prove or contain.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Zensur-Loop",
+        "quote": "The system detects a memory of Juna and initiates a \"Zensur-Loop\" for the purpose of \"Abgrenzung\" (Source: Plot-Exploration Concept 2).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Abgrenzung",
+        "quote": "The system detects a memory of Juna and initiates a \"Zensur-Loop\" for the purpose of \"Abgrenzung\" (Source: Plot-Exploration Concept 2).",
+        "stance": "cites"
+      },
+      {
+        "term": "Standardisierter Transitkorridor",
+        "quote": "\"Standardisierter Transitkorridor\" with \"unbequeme Bänke\" and open floor plans (Source: Ref 86).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wabernder Nebel",
+        "quote": "\"Wabernder Nebel\" and \"Echos von Kinderlachen\" (Source: Echowald).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Trauma-Lokus",
+        "quote": "KW2 acts as a \"Trauma-Lokus\" where AEGIS traps difficult memories.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Dekohärenz",
+        "quote": "„Dekohärenz“ (Source: Existenzforschung 4.3)",
+        "stance": "cites"
+      },
+      {
+        "term": "Klassische Realität",
+        "quote": "collapsing quantum superposition into a single \"Klassische Realität\" to save processing power",
+        "stance": "asserts"
+      },
+      {
+        "term": "hitzeflimmern",
+        "quote": "This is the visual indicator of Storyform B's \"Failure\" outcome",
+        "stance": "asserts"
+      },
+      {
+        "term": "Resonance-Bridge",
+        "quote": "The Relationship Story is a \"Resonance-Bridge\" defined by Quantenverschränkung (Entanglement)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Quantenverschränkung",
+        "quote": "defined by Quantenverschränkung (Entanglement)",
+        "stance": "asserts"
+      },
+      {
+        "term": "Vergessener Schrein",
+        "quote": "as a \"Quantum-Locus\" —a warm, sunny clearing existing outside 4D-Raumzeit (Source: Existenzforschung 3.1)",
+        "stance": "cites"
+      },
+      {
+        "term": "Quantum-Locus",
+        "quote": "as a \"Quantum-Locus\" —a warm, sunny clearing existing outside 4D-Raumzeit (Source: Existenzforschung 3.1)",
+        "stance": "cites"
+      },
+      {
+        "term": "AEGIS",
+        "quote": "AEGIS acts as the \"Flawed God\" or parental architect in an autopoietic loop with Kael.",
+        "stance": "asserts"
+      },
+      {
+        "term": "The Vortex",
+        "quote": "The Vortex is the \"Driver-Pivot\" where Storyform B terminates.",
+        "stance": "asserts"
+      },
+      {
+        "term": "The Vortex",
+        "quote": "It is a \"Lebende Dialetheia\" (Living Contradiction).",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gamma-Frequenz 40Hz",
+        "quote": "A low-frequency vibration (Gamma-Frequenz 40Hz) signifies the \"Ende der Kohärenz\"",
+        "stance": "asserts"
+      },
+      {
+        "term": "Ende der Kohärenz",
+        "quote": "the system \"sighs\" as it recognizes its own necessary termination.",
+        "stance": "cites"
+      },
+      {
+        "term": "Witness Layer",
+        "quote": "The Witness Layer represents the resolution of Functional Multiplicity.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Witness Layer",
+        "quote": "The  **Witness Layer**  represents the resolution of  **Functional Multiplicity** .",
+        "stance": "asserts"
+      },
+      {
+        "term": "Functional Multiplicity",
+        "quote": "The  **Witness Layer**  represents the resolution of  **Functional Multiplicity** .",
+        "stance": "asserts"
+      },
+      {
+        "term": "Gamma-Frequenz",
+        "quote": "A vibration in the bones at the  **Gamma-Frequenz** , the signature of integrated consciousness.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Big Freeze",
+        "quote": "Numb/missing body parts, representing the  **\"Big Freeze\"**  (Wärmetod) where trauma used to reside.",
+        "stance": "asserts"
+      },
+      {
+        "term": "Wärmetod",
+        "quote": "Numb/missing body parts, representing the  **\"Big Freeze\"**  (Wärmetod) where trauma used to reside.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

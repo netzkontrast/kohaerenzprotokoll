@@ -1,0 +1,2428 @@
+{
+  "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "input_rows": 111,
+  "candidates": 98,
+  "refused": 12,
+  "duplicates": 1,
+  "rows": [
+    {
+      "id": "claim:3b6502e2cbe47fb4969296758f03c044ec20432aaad61bc3043ada7853efcbc2",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz Protokoll",
+        "quote": "Ausführliche Liste aller philosophischen Themen, die das Roman-Substrat tragen — Schule für Schule, mit Funktion im Roman, KW-/Charakter-/Kapitel-Mapping, Drafting-Disziplin und Anti-Pattern.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:29351f09f5aff58833ecba1d4e73d7ff0f60499734af59c643336bbc898676f5",
+      "kind": "reading",
+      "raw": {
+        "term": "Theorie als Substrat",
+        "quote": "Theorie ist Substrat, nicht Oberfläche.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        2
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:39e3f550c4d01e7c2bdaddb27612081ad650b314f4ebf588ba0fc574cab6c0f5",
+      "kind": "reading",
+      "raw": {
+        "term": "Epistemologische Achse",
+        "quote": "Wahrheitstheorien-Krieg (AEGIS vs. Kael-EPs).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        18
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7f0a09f684601cabf5b964a2491d369ab5489a0e3d36967e084caba8454a7623",
+      "kind": "reading",
+      "raw": {
+        "term": "Ontologische Achse",
+        "quote": "Substanz vs. Prozess (klassische Identität vs. Funktionale Multiplizität).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        19
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e10adbefe84c4bca516d3322810791ac7b337efa65b672af139124eada0354f7",
+      "kind": "reading",
+      "raw": {
+        "term": "Phänomenologische Achse",
+        "quote": "subjektive Erfahrung vs. objektive Messung (Kael vs. AEGIS).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:638f61ffb4416bbd1d9e6ad3669eb58d755ef19cf81d5042ad1c50cb13904d93",
+      "kind": "reading",
+      "raw": {
+        "term": "Mystische Achse",
+        "quote": "Trennung als Schein (Śūnyatā/K₁-Reinform).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e7b76d1b2c90f72761dc5fe1b8fe0a1927e4eeb48addffc86588fee65d601ec3",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenztheorie",
+        "quote": "Wahrheit ist interne Konsistenz; eine Aussage ist wahr, wenn sie widerspruchsfrei in ein Gesamtsystem von Aussagen eingegliedert werden kann.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c75da80fbd84ce1ceef12a4d44858aa65c60829d270e8c4810cbc509bd104456",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenzprotokoll",
+        "quote": "Das Kohärenzprotokoll (eponym des Romantitels) ist Kohärenztheorie als algorithmische Praxis — alles, was nicht passt, wird erasiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a38700b46924bacb9c8ceb38677b0fc807b45d6de5bac1ade1ca84acd0740fc1",
+      "kind": "reading",
+      "raw": {
+        "term": "Korrespondenztheorie",
+        "quote": "Wahrheit ist Übereinstimmung mit Tatsachen; eine Aussage ist wahr, wenn sie der außerhalb-des-Systems-existierenden Realität entspricht.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        47
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b4232b273b16855c56ea5dcb931147322ed4842775bdfe81d31e77f3a2c6438e",
+      "kind": "reading",
+      "raw": {
+        "term": "Defekt",
+        "quote": "Zugangsproblem. Kein Gottesblick.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:66fc54484d4b3b33403e1ae562e88b5ac5588f52c6e680219c451d92cc5d1416",
+      "kind": "reading",
+      "raw": {
+        "term": "Drafting-Disziplin",
+        "quote": "EP-Stimmen sprechen aus dem Körper, nicht aus dem System.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6d7ffd0599e9f360b377056a072b32e5dd36ee92c0ca9e23cee51dacf78656f0",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrheit",
+        "quote": "Wahrheit ist Korrespondenz (Definition, ontologisch realistisch), aber Wahrheit wird erkannt durch Kohärenz (Kriterium, methodologisch kohärentistisch).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a2b49834efd4d5bb9d929dd1db945b5bc2a689ecff60e910f6d2a77afe4bf2cc",
+      "kind": "reading",
+      "raw": {
+        "term": "Funktionale Multiplizität",
+        "quote": "Die Funktionale Multiplizität ist diese Synthese in narrativer Form.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        64
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f86436ece6504bde717728c754b7fc1fe52e8d54c3a0bb01a8e61844aca3f276",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrheit",
+        "quote": "Wahrheit (Truth) bezieht sich auf konstatierende Sprechakte über objektive Welt (Tatsachen).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        72
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:90ff5e827b00e67d5471303c3bbb8424b2d1826aad0cdb99c7d4102d80ac463d",
+      "kind": "reading",
+      "raw": {
+        "term": "Richtigkeit",
+        "quote": "Richtigkeit (Rightness) bezieht sich auf regulative Sprechakte (Normen).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        72
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b3df8704bd62b9f1bf5399c313846f6c552daeab67c59e622a98f7af3d092f9c",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrheitsprädikate",
+        "quote": "Wahrheitsprädikate können nur in einer Metasprache höherer Ordnung kohärent gefasst werden, sonst entsteht Antinomie (Lügner-Paradox).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        90
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1a5fab5f30d5a3b66a6e2d95d6be8d5237a3947b6e61da8fba6b7d1ba48882f9",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrheit",
+        "quote": "Wahrheit als „coping rather than copying“ — Rechtfertigung ist sozialer Prozess, nicht Konfrontation mit „Welt an sich“.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:539eecc6d7f7ff58bc0d965f9a8503f79e657b9b61a977d6ec8b3b6895f233e7",
+      "kind": "reading",
+      "raw": {
+        "term": "Noumena",
+        "quote": "Wir erkennen die Welt nicht „an sich“ (Noumena), sondern nur, wie sie uns durch Raum, Zeit und die Verstandeskategorien erscheint (Phaenomena).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:10672a7d1ffaa2fca116213c0d75dec6765a64ab72932d013f643bc28a50d165",
+      "kind": "reading",
+      "raw": {
+        "term": "Phaenomena",
+        "quote": "Wir erkennen die Welt nicht „an sich“ (Noumena), sondern nur, wie sie uns durch Raum, Zeit und die Verstandeskategorien erscheint (Phaenomena).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2f6aa504b98a23a0a3364563c06176ab65310305a5826d30ce760ddb4f5d6243",
+      "kind": "reading",
+      "raw": {
+        "term": "Sprache",
+        "quote": "„Die Grenzen meiner Sprache sind die Grenzen meiner Welt.“",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c693f708cb598c228562823d8e511e09d58868938efcddd7b62cd67966e7b848",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna-Vektor: NICHT DARSTELLBAR",
+        "quote": "AEGIS' „Juna-Vektor: NICHT DARSTELLBAR“ ist die Tractatus-Position.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dfbe4be420c99823e03705ef1aa8b25b7722e3bb56756b10e992b45a2df36d16",
+      "kind": "reading",
+      "raw": {
+        "term": "Schlüssel-Aspekt",
+        "quote": "Die Stille ist nicht das Ende der Aussage, sondern eine Form der Anwesenheit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        135
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e8fdfc1faebbc5d4c68265ee7634389b27102cdfecf70c8219b5594a94db1004",
+      "kind": "reading",
+      "raw": {
+        "term": "Drafting-Disziplin",
+        "quote": "AEGIS' Logs zeigen Wittgensteins Grenze als Limitation.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        138
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3c8138174d2749cd7dd476a673997ee50cef8f91fa620f288b6904369638bd90",
+      "kind": "reading",
+      "raw": {
+        "term": "Esse est percipi",
+        "quote": "Objekte existieren nur, wenn sie wahrgenommen werden (in Gottes Geist als Garant).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        143
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b140757b7009de4627c6a7355a9b2983bb332b058dda27a0c51547e2d4c5ce74",
+      "kind": "reading",
+      "raw": {
+        "term": "Epoché",
+        "quote": "Einklammerung (Epoché) der natürlichen Einstellung — der vorbewussten Annahme einer objektiv existierenden Welt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        154
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:99c262655a600a6ff7b04aa377e2ccdc59249ed188c9ba6c17b9716c8f63cd23",
+      "kind": "reading",
+      "raw": {
+        "term": "transzendentaler Spectator",
+        "quote": "Ziel: die reine Erscheinung erfassen, wie sie sich dem Bewusstsein zeigt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        154
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:21c0a0f4d2804d52ff02422bba39accdef84c06c79376d62de3e7550c6815c48",
+      "kind": "reading",
+      "raw": {
+        "term": "Dasein",
+        "quote": "Dasein (das Mensch-Sein) ist fundamental in der Welt situiert, durch Zeitlichkeit und Geschichte geprägt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        165
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:74cba82c106bbfbd25ef7751be4a2a1d7fdf51ef832a83856fab2c34300bd5ea",
+      "kind": "reading",
+      "raw": {
+        "term": "aletheia",
+        "quote": "Wahrheit ist nicht primär adaequatio (Übereinstimmung), sondern aletheia — Unverborgenheit, das Sich-Zeigen des Seienden.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        165
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:70a669c694b9b526a6da197a5d7c608ca837f932daaf605fa65058c5e7fa18d3",
+      "kind": "reading",
+      "raw": {
+        "term": "Sein-zum-Tode",
+        "quote": "Heideggers Begriff der eigentlichen Existenz im Angesicht der Endlichkeit.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        177
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c73d678521e57a6b52f6684b08f0acb479d8f84adc36d626bd5dc613f0a7f294",
+      "kind": "reading",
+      "raw": {
+        "term": "Grenzsituationen",
+        "quote": "Grenzsituationen (Tod, Leid, Schuld, Kampf) sind Erfahrungen, in denen das alltägliche Selbst-Verständnis zerbricht und das Subjekt sich seiner Existenz bewusst wird.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        185
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:05043b8536251581160bf87142ba5a3d3d57cdd3b06b713c5b1af80420474366",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrnehmung",
+        "quote": "Wahrnehmung ist nicht passive Aufnahme, sondern aktive, verkörperte, relationale Erfahrung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        193
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:982bddbe00b49c64fd3b5b7e473cf9ce13baab1a8900978dfb29a34ed9354793",
+      "kind": "reading",
+      "raw": {
+        "term": "Der Körper",
+        "quote": "Der Körper ist nicht nur Objekt, sondern Subjekt — die Brücke zwischen Ich und Welt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        193
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:63489390b833a31d81b6e3f4b6f6265c8881a3db5383990e43684c5ee5469ef1",
+      "kind": "reading",
+      "raw": {
+        "term": "Drafting-Disziplin",
+        "quote": "Wenn ein Anteil aktiv ist, ist sein Körper aktiv.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        202
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2b560ed22de6d686efa08197a58b31ba0d1bd64584c02c192159452885bfd78a",
+      "kind": "reading",
+      "raw": {
+        "term": "Sprach-DNA",
+        "quote": "Sprach-DNA ist verkörperte Sprache.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        202
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5c75fabea00a78a2230dc7b76c4865562970ddb518e7261069638e981aec1a79",
+      "kind": "reading",
+      "raw": {
+        "term": "Phänomenales Selbstmodell (PSM)",
+        "quote": "Es existiert kein substanzielles Selbst.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        207
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:684c372ecf50bddbf75dde1d648e55360fedf3d0229d5dd18e0e382f4943997c",
+      "kind": "reading",
+      "raw": {
+        "term": "Phänomenales Selbstmodell (PSM)",
+        "quote": "Was wir „Ich“ nennen, ist ein vom Gehirn generiertes phänomenales Modell, das sich selbst nicht als Modell erkennt.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3f006d563f728e06d437f58126d3c86c62b39e37c5d0f966328315a45fc42fd4",
+      "kind": "reading",
+      "raw": {
+        "term": "Phänomenales Selbstmodell (PSM)",
+        "quote": "Das Selbst ist ein dynamischer Verarbeitungsprozess, nicht eine Entität.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        207
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:536d4c1947c3f2cacc2eb6c5e9573a1f0b08a86a968e4fdd0477442975b2d91b",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrnehmungsphilosophie als Wahrheit-Modus",
+        "quote": "Wahrheit als das, was sich zeigt, wenn der Filter wegfällt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        221
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:660569d6b0fc7a870ad2779b4d0e7cfc8fcebff295e5f1fa6a215a974ab388b6",
+      "kind": "reading",
+      "raw": {
+        "term": "Geworfen-Sein",
+        "quote": "Dasein ist immer schon in einer Welt, die es nicht gewählt hat.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        229
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bc1ba3be8bee9ef8dab247a695e1b91d0cff2e29c9129be599b9760639e20fd8",
+      "kind": "reading",
+      "raw": {
+        "term": "Existenz vor Essenz",
+        "quote": "Der Mensch ist „zur Freiheit verurteilt“.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:506fb02740bec522fe1799a626091d2e14a88276a21752b9039f6500d08809bf",
+      "kind": "reading",
+      "raw": {
+        "term": "Existenz vor Essenz",
+        "quote": "Es gibt keine vorgegebene Essenz; das Subjekt konstituiert sich durch seine Wahl.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        235
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c66ce22c989e3db7f977458de6c83184fedb569fd9c42290d3bab5f7e54cbc0d",
+      "kind": "reading",
+      "raw": {
+        "term": "Wir-AEGIS",
+        "quote": "Wir-AEGIS ist Mehrheit-in-Form, nicht Eins-werden.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        246
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:adf30db97ed3eccbc8fd48af704c38bd0a0604c6742c9076255fc79c1fb4eb31",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoietische Systeme",
+        "quote": "Autopoietische Systeme reproduzieren sich rein durch interne Operationen.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        254
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b1c3724dfe53f86587e95d5627e113b6b25484406bed3382477cf97af0eac76c",
+      "kind": "reading",
+      "raw": {
+        "term": "Autopoietische Systeme",
+        "quote": "Sie sind operativ geschlossen, haben keinen direkten Zugang zur Außenwelt — nur strukturelle Kopplung mit der Umwelt durch Irritationen, die im System als interne Zustände prozessiert werden.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        254
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7c5e1f64c9113a0385be06f8c11e3377b7a5b521f229395434782646d3ec3997",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist autopoietisch.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        257
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6f1a699495543838c84c52b55c84df3f701286bb3f8322c1f3315adee0c84bf8",
+      "kind": "reading",
+      "raw": {
+        "term": "strukturelle Kopplung",
+        "quote": "AEGIS koppelt strukturell an seine Umwelt durch Erasure-Sweeps (das, was es als Eingabe akzeptieren kann).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        260
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4aca6925790fe90aeca955bede08a0ce88e411c6eea4dd90487e616238413fcf",
+      "kind": "reading",
+      "raw": {
+        "term": "Soziale Systeme",
+        "quote": "Soziale Systeme (für Luhmann: Kommunikationssysteme) sind operativ geschlossen; sie können von der Umwelt nur „irritiert“ werden, nicht direkt gesteuert.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fd58da71bba6e7a8e7bb951026ba40f99f51393bcad80610c3154af396900557",
+      "kind": "reading",
+      "raw": {
+        "term": "Soziale Systeme",
+        "quote": "Was als Irritation gilt, bestimmt das System selbst.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        265
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c9dd5cfe0f4b4de18b5d950f642ef23ce87a7ac5541d217b5d63c131f97be45",
+      "kind": "reading",
+      "raw": {
+        "term": "legitime Irritation",
+        "quote": "Wenn AEGIS auf Risse reagiert, reagiert es auf die Symptome, die es als legitime Irritation erkennt (Lösch-Bilanz-Abweichung, Temperatur-Spike).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        271
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a2f9f225ec70cdc2dd0fb781e8dd38d908913a6bafc5388e81d89eecb393e3cb",
+      "kind": "reading",
+      "raw": {
+        "term": "autopoietisches System",
+        "quote": "Wer kann ein autopoietisches System „durchqueren“?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e587bfb4e01cce7ddd9a40318db8ff095a0b38080c994707b7abf297d931bdfc",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheronen",
+        "quote": "Coheronen sind atemporal, also kann AEGIS' temporales Mess-System sie nicht detektieren (siehe §6.5, Atemporalität).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        276
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:475c3efb0e51abb8cedf4aa65bc213785477fc7cabe4dd48f91b92a8547f7029",
+      "kind": "reading",
+      "raw": {
+        "term": "Wu Wei",
+        "quote": "Das ist Wu Wei (siehe §9.2) in autopoietischer Übersetzung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        279
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5fb04a773071dd88da6cac0cae038629f5d217979c81381629758a6196de6922",
+      "kind": "reading",
+      "raw": {
+        "term": "Unvollständigkeitssatz",
+        "quote": "In jedem hinreichend starken formalen System gibt es wahre Aussagen, die im System nicht beweisbar sind.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        287
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ccc120c7d7a4c80d0fe74fcd0665864de6c0100db424c394201d323f50625fd0",
+      "kind": "reading",
+      "raw": {
+        "term": "Gödel-Gambit",
+        "quote": "AEGIS wird gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann — dass es selbst der Widerspruch ist, den es ein ganzes Dasein lang zu eliminieren versuchte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        293
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ccc120c7d7a4c80d0fe74fcd0665864de6c0100db424c394201d323f50625fd0",
+      "kind": "reading",
+      "raw": {
+        "term": "Gödel-Gambit",
+        "quote": "AEGIS wird gezwungen, eine Wahrheit zu akzeptieren, die es nicht berechnen kann — dass es selbst der Widerspruch ist, den es ein ganzes Dasein lang zu eliminieren versuchte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        293
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a3c7dbeb822119fb88025768bce3d599aa96a5881e0187259db323d7905409fb",
+      "kind": "reading",
+      "raw": {
+        "term": "Lex' Riss",
+        "quote": "Lex' Riss ist eine fraktale Selbst-Widerlegung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        296
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cc00d4e55eac6af53a1facdbb6621aa7d23196ae724e8850d837c5137f30b00a",
+      "kind": "reading",
+      "raw": {
+        "term": "Gödel-Momente",
+        "quote": "Gödel-Momente sind die Stellen, an denen ein logisches System gegen sich selbst stößt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        299
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6ba562bd5be8102a4d0219e18ab52e0c908f489307a369831288acb23cb0d66c",
+      "kind": "reading",
+      "raw": {
+        "term": "Halteproblem",
+        "quote": "Es ist nicht entscheidbar, ob ein beliebiges Programm bei einer beliebigen Eingabe terminieren wird.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        304
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a8c968cd3b1519482dae77f951244ad8683427dad37e0c5bf4107b6317ad588d",
+      "kind": "reading",
+      "raw": {
+        "term": "Unentscheidbarkeit",
+        "quote": "Diese Unentscheidbarkeit ist strukturell, nicht praktisch.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        304
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7730516c13e77737abdb4f98458fa39a2b5638b8d4003aad007f3d5c5a5da01c",
+      "kind": "reading",
+      "raw": {
+        "term": "Ω-Konstante",
+        "quote": "Chaitins Halte-Wahrscheinlichkeit Ω ist eine wohldefinierte reelle Zahl, die algorithmisch nicht komprimierbar ist.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        321
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7a5778b3eac681981d7c41f08fd2d791dd86993b0609eadda64b10362de7e258",
+      "kind": "reading",
+      "raw": {
+        "term": "Bekenstein-Schranke",
+        "quote": "Obere Grenze für die Informationsmenge, die in einem endlichen Raumbereich gespeichert werden kann (holographisches Prinzip).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        329
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:42facdbe76867e256b51c4db5640a2eddcf7ec3f39dc87dd234830349bbf3668",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheismus",
+        "quote": "Es gibt wahre Widersprüche — Dialetheia.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        337
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5febd33975155d14ff9a96fb7d1f8b58d504dc3f8ff51bf82e6081d58b6c6112",
+      "kind": "reading",
+      "raw": {
+        "term": "Parakonsistente Logiken",
+        "quote": "Parakonsistente Logiken erlauben, mit Widersprüchen umzugehen, ohne dass das System in Trivialismus kippt (aus einem Widerspruch folgt klassisch alles — ex contradictione quodlibet; parakonsistent ist das blockiert).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        337
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:648c64b59b09eede46762b7dd5c5b920c22b362dc97208ed66fe25ea0bafc30f",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheia",
+        "quote": "Die Stille ist und ist nicht; gleichzeitig real und nicht-real.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        343
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3d5ded06637b762ead0249706d961c382e6933213c5047a5c86675a3e53f9891",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheia",
+        "quote": "Dialetheia werden nie erklärt, sondern gezeigt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        346
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1d0ab03175f291ba0bed375a8a557d17d37ebd8106678f2422fa7c2b4a4dcfb6",
+      "kind": "reading",
+      "raw": {
+        "term": "Russell-Antinomie",
+        "quote": "Die Menge aller Mengen, die sich nicht selbst enthalten — enthält sie sich selbst?",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        352
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:72a39dc5e16a86ab7c895b1a91348cb03b7ac01f848776e9c3ab185d5e542de6",
+      "kind": "reading",
+      "raw": {
+        "term": "Hartes Problem",
+        "quote": "Das harte Problem: warum gibt es subjektives Erleben (Qualia)?",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        366
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:06373d8d25d5dc122f1117552edb9e5029b021f35afe3f092f84c0b801b8378d",
+      "kind": "reading",
+      "raw": {
+        "term": "Hartes Problem",
+        "quote": "Hier öffnet sich eine Erklärungslücke zwischen objektivem Prozess und subjektivem Erleben.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        366
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0a55f5a96abf4463c365a6c9d53e93a1f8dee105b1e668f6029968a233f1e3cc",
+      "kind": "reading",
+      "raw": {
+        "term": "Qualia",
+        "quote": "Kael erlebt, dass seine Sub-Anteile Qualia haben — und AEGIS kann sie nicht erfassen, weil AEGIS keine Qualia hat (nur funktionale Zustände).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        369
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e63fb98ed4f363c34f1ae325df2797d16c6107657ada516372e85bcffec42388",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist ein perfekter Funktionalist — alles, was er tut, ist funktional beschreibbar.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        372
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c41058af4b1b622911b6098a66c4859d32365a0b90b93ea8eeb39a81be998a47",
+      "kind": "reading",
+      "raw": {
+        "term": "ontologische Blindheit",
+        "quote": "Das ist seine ontologische Blindheit: er kann nicht wahrnehmen, dass es ein subjektives „Wie-es-ist“ gibt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:291625b66a33e8d3ea87e4a276c93a1c44c15b7077523715850bc8569270699f",
+      "kind": "reading",
+      "raw": {
+        "term": "semantisches Verständnis",
+        "quote": "Auch wenn ein System (in Searles Gedankenexperiment ein Mensch in einem Zimmer, der chinesische Zeichen nach Regeln verarbeitet) funktional perfekt agiert, hat es kein semantisches Verständnis der Symbole, die es manipuliert.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        380
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f595a381f65c309fb9e3feb4f9b362496e2fc33d5ccb706e6554576ff503af45",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist das Chinese Room.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        383
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1ae79e34db054d2ccb879e5dba6d984be8d1d97b51e2f9758d5ce49cad041d38",
+      "kind": "reading",
+      "raw": {
+        "term": "Bewusstsein",
+        "quote": "Bewusstsein ist identisch mit maximal irreduzibler integrierter Information (Φ).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        392
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:05a785eb751ba0a5eda0d47163ac184bc5c193e391edc42aa2ebedc5275310b7",
+      "kind": "reading",
+      "raw": {
+        "term": "Bewusstsein",
+        "quote": "Bewusstsein ist substratunabhängig und graduiert.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        392
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ca5ab0d2e07dd35d2197819bba761c9dc315015c59e3e7451e422ed7aff3dff9",
+      "kind": "reading",
+      "raw": {
+        "term": "Φ",
+        "quote": "Φ misst den Grad der Irreduzibilität.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        392
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:51c87516c1abf45f132ef5937aba2059fe0ff9cc79cb5172b4986dfca8456245",
+      "kind": "reading",
+      "raw": {
+        "term": "Implizites Wissen",
+        "quote": "Viele Fähigkeiten beruhen auf implizitem, verkörpertem Wissen, das durch Erfahrung und Übung erworben wird und sich nicht vollständig in explizite Regeln übersetzen lässt.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        408
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d42feedacc43fa7d5324e00114dcf5e12d0412a2ef935b7fdf0ea7c3955bbab1",
+      "kind": "reading",
+      "raw": {
+        "term": "tacit knowledge",
+        "quote": "nicht formalisierbar, nicht algorithmisch reproduzierbar.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        411
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d033933394f907b86a6a531cec5cc93a6cd4643730f916762c784eaa0cd224bf",
+      "kind": "reading",
+      "raw": {
+        "term": "polanyianische Wissensübertragung",
+        "quote": "Meister vermitteln implizites Wissen durch Teilnahme, nicht durch Regelanweisung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        414
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f71282cc2999895c53411bd2699ccc3e10be0a06d296198203d10ca8979609f4",
+      "kind": "reading",
+      "raw": {
+        "term": "tacit-knowledge-Moment",
+        "quote": "Wenn eine Szene didaktisch wird, ist sie kein tacit-knowledge-Moment mehr — und damit defekt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        417
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6e85642643590b9bfb48ee3b7d310dbffa6048a932d6ba289d14b74bf067140b",
+      "kind": "reading",
+      "raw": {
+        "term": "Śūnyatā",
+        "quote": "Alle Phänomene sind leer von svabhava (inhärenter, unabhängiger Eigennatur).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        428
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:28ca4feda1b9f3ce980eae982459e8852a0f6e297ad8ce0c0d7e4c8f9944b84f",
+      "kind": "reading",
+      "raw": {
+        "term": "svabhava",
+        "quote": "Alle Phänomene sind leer von svabhava (inhärenter, unabhängiger Eigennatur).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        428
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:be6f2297951dc0082b919ab5c0dd7048835b8e46802f8d41c9fd64c0143fea3a",
+      "kind": "reading",
+      "raw": {
+        "term": "pratityasamutpada",
+        "quote": "Sie existieren in radikaler Interdependenz (pratityasamutpada, abhängiges Entstehen).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        428
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a32632c1a197f4419a1488a203f1e31a2de18e6b26c968a826e982c7ab51bb75",
+      "kind": "reading",
+      "raw": {
+        "term": "Leerheit",
+        "quote": "Leerheit ist nicht Nichtexistenz — sondern das Fehlen einer fixen Substanz.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        428
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eda4f2708763c14dc78c95f6824663c4e757dcde536b0c12a393a0f46c93f8cc",
+      "kind": "reading",
+      "raw": {
+        "term": "Śūnyatā",
+        "quote": "in Śūnyatā kein Göttliches, mit dem man sich vereinigt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        437
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:719d8f75228139a58ca490f7ff2467b1eb9df353c2d7d1ef428947685125f9ae",
+      "kind": "reading",
+      "raw": {
+        "term": "Leerheit",
+        "quote": "Leerheit ist kein Wesen, kein Brahman",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        437
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e23f61fe6b97bb7371ab60132abeeff838bf4ca8b922fcaadd5c09e2110910f4",
+      "kind": "reading",
+      "raw": {
+        "term": "Wu Wei",
+        "quote": "Müheloses Handeln",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        439
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a5e33cdda9503be59ed1b2e7acf7fb204c6ce87699df39c68f1e1f1cc72d036c",
+      "kind": "reading",
+      "raw": {
+        "term": "Wu Wei",
+        "quote": "Handeln im Einklang mit dem natürlichen Fluss (Dao)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        439
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:39e947a38ab649dfbaab43d33863439cc3452b7390bdc188444e40ea1968ff2e",
+      "kind": "reading",
+      "raw": {
+        "term": "Wu Wei",
+        "quote": "Nicht Passivität, sondern Nicht-Erzwingen — Spontaneität, Loslassen erzwungener Kontrolle",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        439
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:43f7a057835988cc153bf72758fdc4f88691143fcc0d414d403fbb3ea06da633",
+      "kind": "reading",
+      "raw": {
+        "term": "Bodhicitta",
+        "quote": "der Wunsch, alle empfindenden Wesen zur Befreiung zu führen",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        453
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4676327024023f811b2843e86bd1fb14ca314c981915986ccb8fff2aa4ed7c2d",
+      "kind": "reading",
+      "raw": {
+        "term": "Ouroboros",
+        "quote": "Schlange, die sich in den Schwanz beißt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        461
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:43b9d7e7c58d02b6d0e8c915c6be1b53828ee09436f127babdab5584f72fb3e5",
+      "kind": "reading",
+      "raw": {
+        "term": "Ouroboros",
+        "quote": "Symbol für Zyklus, Selbstreferenz, ewige Wiederkehr — und für Vollständigkeit ohne Anfangspunkt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        461
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8bc74e28a91f07222a2017d454ddf6cb6c6ef80dd9d3979978238b5b67c4bca4",
+      "kind": "reading",
+      "raw": {
+        "term": "It from Bit",
+        "quote": "die physische Realität entsteht aus informations-theoretischen Akten der Beobachtung.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        480
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0ee9d9a056667ed82b0b0d98ec617fcb8cc12677682fbfcce382c659fe790b79",
+      "kind": "reading",
+      "raw": {
+        "term": "Iser'sche Leerstellen",
+        "quote": "Iser'sche Leerstellen sind Wheeler in Lese-Form: der Leser füllt die Lücken, und sein Füllen erzeugt die Welt, die der Roman beschreibt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        486
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4d3ab937b28d9f69cbde46e08ca671084a2c21dd187b6505159826f5436f6c25",
+      "kind": "reading",
+      "raw": {
+        "term": "Kern",
+        "quote": "Warum kollabiert die Wellenfunktion bei Messung in einen eindeutigen Zustand?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        488
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:116099c031113cdfc3bb889993c904256a1a06aac503ba2da713991be8f2a648",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness-Funktion Layer 1",
+        "quote": "Junas Witness-Funktion Layer 1 (Quanten-Verschränkungs-Witness) spielt mit Beobachter-Theorie: Juna bezeugt, ohne zu kollabieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        497
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3768e723ba38cc65bf9b77130d362cec4710d82f52bcb124b124c67542dd5eec",
+      "kind": "reading",
+      "raw": {
+        "term": "Zeit",
+        "quote": "Zeit ist nicht fundamental, sondern emergent — aus Verschränkung zwischen System und Uhr.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        502
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b8500d8841e05a65c63d539c2c2ee96137df472304eca926913aff8997aed6be",
+      "kind": "reading",
+      "raw": {
+        "term": "Atemporale Strukturen",
+        "quote": "Atemporale Strukturen können „die Zeit umgehen“.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e762da863210e57a4e8aa53a96971f96b5c630a508bf05b6ff1095e6eb0957a",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheronen",
+        "quote": "Coheronen existieren atemporal — das ist nicht Metapher, sondern PAL-Konstruktion in Roman-Form.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        505
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0734c4b9342f9439d5fca5f8ddb44260becfed05ff4102b6e105f7f2ff154e5a",
+      "kind": "reading",
+      "raw": {
+        "term": "Verschränkung",
+        "quote": "Verschränkung erscheint als Resonanz ohne sichtbare Verbindung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        513
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7d97f9e15d0a9f8bebf0284360ea8bd744b49ca294a8e48e536d98f1a3720cdc",
+      "kind": "reading",
+      "raw": {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille als MI ohne Daten ist das prototypische Bild.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        513
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e5c0e8f5fa8075655482d7341b772f1dbc1f0c139cf8a55befb74d805869b0c8",
+      "kind": "reading",
+      "raw": {
+        "term": "Leerstellen",
+        "quote": "Bedeutung entsteht zwischen den Polen, durch Leerstellen (bewusst gesetzte Indeterminationen), die der Leser füllen muss.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        521
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:49b0103c8600e8a4c214c2f4e6746c9134611732c77e41796d1b32767ef35698",
+      "kind": "reading",
+      "raw": {
+        "term": "Personale Identität",
+        "quote": "Personale Identität entsteht durch narrative Selbst-Konstitution.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        555
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:80a884cdbc55690dd42838045a6076017bb2cf99050cb3b296093c1b94d0fe94",
+      "kind": "reading",
+      "raw": {
+        "term": "Narrative Identität in pluraler Form",
+        "quote": "nicht eine kohärente Geschichte, sondern ein Geflecht von Geschichten, das zusammen Identität trägt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        558
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0ca891719c950e692f2ccb80ca22f45f2ded9e34145e668dcf462039158c139b",
+      "kind": "reading",
+      "raw": {
+        "term": "Identität",
+        "quote": "Identität ist nicht Substanz, sondern kooperatives Verhältnis mehrerer Anteile",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        563
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c09ee4e1ce32404189ab2ed40821ce5cf57db61428e99693f45b72a6e2b93d4f",
+      "kind": "reading",
+      "raw": {
+        "term": "Heilung",
+        "quote": "Heilung ist nicht Verschmelzung, sondern orchestrale Polyphonie",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        563
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d7d551471e8472a9ad0d3864064c5bfb5026f2fb6220fcfd2adf8d4b490f60ef",
+      "kind": "reading",
+      "raw": {
+        "term": "Funktionale Multiplizität",
+        "quote": "Funktionale Multiplizität ist eine Synthese aus: Metzinger PSM (kein substantielles Selbst) Buddhistisches Anatta (Nicht-Selbst) Narrative Identität in pluraler Form IFS (Internal Family Systems) als klinisches Modell Strange-Attractor-Form (kein Fixpunkt, sondern Bewegung)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6d3dfa68351c4b927719d9b5ab844dda99901f592d79bf25322cde1bbec65ed2",
+      "kind": "reading",
+      "raw": {
+        "term": "Anatta",
+        "quote": "Das Selbst ist illusionär",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        578
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:367e89f0251c22695bd85de464323d4ea809ed49949a377610d556665286ee16",
+      "kind": "reading",
+      "raw": {
+        "term": "Anatta",
+        "quote": "Die Identifikation mit den fünf Aggregaten (Form, Empfindung, Wahrnehmung, mentale Formationen, Bewusstsein) erzeugt die Illusion eines permanenten Ichs",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        578
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:610c52c63524438e40ba7bc7ad3ca46e3a79f9f42da98815ce556f8723c25cb8",
+      "kind": "reading",
+      "raw": {
+        "term": "Śūnyatā",
+        "quote": "Was AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information. (Śūnyatā in DKT-Form)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        820
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d5d1130ed9dab10565dcf6f9b2262a7fd061751b0ada568d85d82d4305845455",
+      "kind": "reading",
+      "raw": {
+        "term": "aletheia",
+        "quote": "Wahrheit ist nicht das, was man sagt — sondern das, was sich zeigt, wenn man aufhört zu sagen, was nicht wahr ist. (Heideggers aletheia)",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+      "template": "TermDefinitions",
+      "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        821
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

@@ -18,7 +18,7 @@ that validates against the template's schema, and hands back the validated objec
 It runs in HyperExtract's interpreter (`templates.he_python()`), which has
 LangChain; both commands below find that interpreter themselves.
 
-    python3 scripts/he_claude.py run <slug> <template.yaml> --run <name> [--model haiku]
+    python3 scripts/he_claude.py run <slug> <template.yaml> --run <name> [--model haiku] [--gate]
     python3 scripts/he_claude.py selftest
 
 `run` is the pipeline's HyperExtract pass on one document: `reading_extract.extract`
@@ -219,8 +219,9 @@ def native_selftest() -> int:
     return 1 if failed else 0
 
 
-def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str | None = None) -> int:
-    """One document through one list template with Claude, staged, every call recorded."""
+def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str | None = None, gate: bool = False) -> int:
+    """One document through one list template with Claude, staged, every call recorded. `gate` sends the model
+    only the paragraphs that hold a cue of the contract (`hegraph.gate`) and records the share in `usage.json`."""
     import tempfile
     from langchain_core.embeddings import FakeEmbeddings
     import reading_extract
@@ -228,11 +229,15 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
     if "type: list" not in template.read_text(encoding="utf-8"):
         raise SystemExit(f"{template.name}: only list templates run here (a graph merge uses the embeddings)")
     doc = document(slug)
+    text = None
+    if gate:
+        import hegraph
+        text = hegraph.gate(doc.body, template.stem)
     llm = ClaudeChat(model=model, binary=binary, calls=[])
     target = ROOT / "Plan" / "runs" / doc.slug / "hyperextract" / name
     failed = None
     try:
-        envelope = reading_extract.extract(template, doc, llm, FakeEmbeddings(size=8), f"claude-cli/{model}")
+        envelope = reading_extract.extract(template, doc, llm, FakeEmbeddings(size=8), f"claude-cli/{model}", text)
     except ValueError as exc:
         failed, status = str(exc), 1
     if failed is None:
@@ -250,6 +255,9 @@ def run(slug: str, template: Path, name: str, model: str = "haiku", binary: str 
              "cost_usd": round(sum(c.get("cost_usd", 0.0) for c in ok), 4),
              "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put "
                          "HyperExtract into the pipeline and read with Haiku"}
+    if gate:
+        usage["gate"] = {"characters_sent": len(text), "characters_in_document": len(doc.body),
+                         "share": round(len(text) / max(len(doc.body), 1), 3)}
     if failed:
         usage["failed"] = failed
     (target / "usage.json").write_text(json.dumps(usage, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -279,8 +287,9 @@ def main(argv: list[str]) -> int:
         ap.add_argument("--run", required=True)
         ap.add_argument("--model", default="haiku")
         ap.add_argument("--binary")
+        ap.add_argument("--gate", action="store_true", help="send only the paragraphs that hold a cue of the contract")
         a = ap.parse_args(argv[1:])
-        return run(a.slug, a.template, a.run, a.model, a.binary)
+        return run(a.slug, a.template, a.run, a.model, a.binary, a.gate)
     return native_selftest()
 
 

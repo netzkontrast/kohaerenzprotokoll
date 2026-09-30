@@ -62,12 +62,16 @@ def native_extract(template: Path, text: str, source_id: str, llm, embedder) -> 
     return ka.data.model_dump()
 
 
-def extract(template: Path, doc: Document, llm, embedder, extractor: str) -> dict:
-    """Use from an approved, recorded provider adapter; never from auto-init."""
+def extract(template: Path, doc: Document, llm, embedder, extractor: str, text: str | None = None) -> dict:
+    """Use from an approved, recorded provider adapter; never from auto-init.
+
+    `text` is what the model is sent when it is less than the whole body (`hegraph.gate`: the paragraphs that hold a
+    cue of the contract). Every quotation is still placed against the whole document, so a gated run cannot cite
+    what the document does not hold."""
     source_hash, template_hash = digest(doc.path), digest(template)
     if _split(doc.path.read_text(encoding="utf-8")) != (doc.body, doc.offset):
         raise ValueError("cached document changed; resolve it again before extraction")
-    data = native_extract(template, doc.body, doc.slug, llm, embedder)
+    data = native_extract(template, doc.body if text is None else text, doc.slug, llm, embedder)
     candidates(data)  # HyperExtract can swallow a chunk schema error into empty data
     if digest(doc.path) != source_hash or digest(template) != template_hash:
         raise ValueError("source or template changed during extraction")

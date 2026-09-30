@@ -8,7 +8,7 @@ search result never becomes a number). Who is already read onto a page is the
 page's own `ingested:`. It decides nothing: a document that writes a name may say
 nothing about the thing, and only a reader can tell.
 
-    python3 scripts/crossdoc.py doc <slug> [--limit 5]   # a reconciliation's context
+    python3 scripts/crossdoc.py doc <slug> [<slug> …] [--limit 5]   # a reconciliation's context; several documents share one store and one ledger write
     python3 scripts/crossdoc.py coverage [--top 15]      # the graph's thin places
     python3 scripts/crossdoc.py selftest
 
@@ -154,13 +154,18 @@ def doc_pages(slug: str, root: Path = ROOT) -> list[str]:
     return list(dict.fromkeys(found))
 
 
-def cmd_doc(slug: str, limit: int = 5, root: Path = ROOT, write: bool = True) -> dict:
+def cmd_doc(slug: str, limit: int = 5, root: Path = ROOT, write: bool = True, keep: bool = True,
+            fresh: bool = True) -> dict:
+    """One document. `keep=False` leaves the relations found to the caller (`result["found"]`), so that several
+    documents are read against one store and the ledger is written once, after the last: keeping them changes a
+    store input, so the next document's freshness check would refuse."""
     all_pages, read, decided = pages(root), read_documents(root), swept(root)
     c = Corpus()
     result = {"document": slug, "pages": {}}
     # The shared store is read once it is known fresh; the relations found are kept
     # after the last page, because the ledger is one of the store's inputs.
-    bm25rel.fresh_or_refuse()
+    if fresh:
+        bm25rel.fresh_or_refuse()
     found = []
     for p in doc_pages(slug, root):
         if p not in all_pages:
@@ -179,12 +184,28 @@ def cmd_doc(slug: str, limit: int = 5, root: Path = ROOT, write: bool = True) ->
                               "unread": [(d, named[d]["n"], named[d]["surface"], named[d]["first_line"])
                                          for d in g["unread"][:limit]],
                               "related": [(r["id"], r["target"], r["target_text"][:140]) for r in related]}
-    result["related_new"] = bm25rel.keep(found) if write else 0
+    result["related_new"] = bm25rel.keep(found) if (write and keep) else 0
+    if not keep:
+        result["found"] = found
     if write:
         run = root / "Plan" / "runs" / slug
         (run / "crossdoc.json").write_text(json.dumps(result, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         (run / "crossdoc.md").write_text(render_doc(result), encoding="utf-8")
     return result
+
+
+def cmd_docs(slugs: list[str], limit: int = 5, root: Path = ROOT) -> list[dict]:
+    """Several documents in one call: the store is checked fresh once and the relations found are kept once."""
+    bm25rel.fresh_or_refuse()
+    results, found = [], []
+    for slug in slugs:
+        r = cmd_doc(slug, limit, root, write=True, keep=False, fresh=False)
+        found += r.pop("found")
+        results.append(r)
+    kept = bm25rel.keep(found)
+    for r in results:
+        r["related_new"] = kept
+    return results
 
 
 def render_doc(result: dict) -> str:
@@ -311,8 +332,10 @@ def main(argv: list[str]) -> int:
         return selftest()
     if argv[:1] == ["doc"] and len(argv) >= 2:
         limit = int(argv[argv.index("--limit") + 1]) if "--limit" in argv else 5
-        result = cmd_doc(argv[1], limit)
-        print(render_doc(result))
+        slugs = [a for i, a in enumerate(argv[1:], 1) if not a.startswith("--") and argv[i - 1] != "--limit"]
+        results = [cmd_doc(slugs[0], limit)] if len(slugs) == 1 else cmd_docs(slugs, limit)
+        for result in results:
+            print(render_doc(result))
         return 0
     if argv[:1] == ["coverage"]:
         top = int(argv[argv.index("--top") + 1]) if "--top" in argv else 15

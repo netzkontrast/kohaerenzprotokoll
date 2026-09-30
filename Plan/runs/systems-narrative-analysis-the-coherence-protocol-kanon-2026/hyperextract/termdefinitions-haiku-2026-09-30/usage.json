@@ -1,0 +1,12 @@
+{
+  "document": "systems-narrative-analysis-the-coherence-protocol-kanon-2026",
+  "template": "TermDefinitions.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 8,
+  "failed_calls": 0,
+  "seconds": 41.2,
+  "input_tokens": 40845,
+  "output_tokens": 2704,
+  "cost_usd": 0.0952,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

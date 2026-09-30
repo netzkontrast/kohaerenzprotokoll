@@ -580,14 +580,12 @@ class Store:
                            f"RETURN p.slug AS slug, p.first AS first, p.last AS last, k ORDER BY k DESC LIMIT {limit}")
 
     def comention_edges(self, min_docs: int = 2, square: bool = True) -> list[dict]:
-        """The counted co-mention relation as edges for `graphrag.retrieve(extra=…)`: page pairs that stand in one
-        paragraph in at least `min_docs` documents with a positive normalised PMI, each scaled by the PMI (squared:
-        the scale `graphlab.py comention` found best). Walked only at the weight the caller gives the type
-        `comention`; `ask.py` gives it none unless asked."""
-        rows = self.cypher("MATCH (a:Term)-[r:P_COMENTION]->(b:Term) "
-                           f"WHERE r.docs >= {int(min_docs)} AND r.npmi > 0 RETURN a.id AS a, b.id AS b, r.npmi AS v")
-        return [{"source": r["a"], "target": r["b"], "type": "comention", "w": r["v"] ** 2 if square else r["v"],
-                 "via": "counted over documents"} for r in rows]
+        """The counted co-mention relation as edges for `graphrag.retrieve(extra=…)`. The pairs come from the store
+        by Cypher; which of them become edges, and at what scale, is `graphrag.comention_edges` — the one place."""
+        import graphrag
+        rows = self.cypher("MATCH (a:Term)-[r:P_COMENTION]->(b:Term) RETURN a.id AS a, b.id AS b, r.docs AS docs, r.npmi AS npmi")
+        return graphrag.comention_edges({frozenset((r["a"], r["b"])): {"docs": r["docs"], "npmi": r["npmi"]} for r in rows},
+                                        min_docs, square)
 
     def he_lines(self, keys: list[str], kinds: list[str] | None = None, min_quality: int = 0,
                  limit: int = 60) -> list[dict]:

@@ -1,7 +1,7 @@
 {
  "cases": 24,
- "doc_recall": 0.304,
- "line_recall": 0.1,
+ "doc_recall": 0.306,
+ "line_recall": 0.103,
  "budget": 60000,
  "finders": [
   "graph-evidence",
@@ -12,7 +12,7 @@
  ],
  "comention": 10,
  "he_lines": 40,
- "pr_comention": 0.0,
+ "pr_comention": 10.0,
  "rows": [
   {
    "id": "C1",
@@ -21,7 +21,7 @@
    "gold_lines": 20,
    "line_recall": 0.2,
    "pack_docs": 37,
-   "chars": 44469
+   "chars": 44542
   },
   {
    "id": "C10",
@@ -39,7 +39,7 @@
    "gold_lines": 182,
    "line_recall": 0.159,
    "pack_docs": 21,
-   "chars": 66689
+   "chars": 66551
   },
   {
    "id": "C12",
@@ -48,7 +48,7 @@
    "gold_lines": 119,
    "line_recall": 0.151,
    "pack_docs": 27,
-   "chars": 42618
+   "chars": 42622
   },
   {
    "id": "C13",
@@ -57,7 +57,7 @@
    "gold_lines": 18,
    "line_recall": 0.167,
    "pack_docs": 27,
-   "chars": 55700
+   "chars": 55657
   },
   {
    "id": "C14",
@@ -66,7 +66,7 @@
    "gold_lines": 84,
    "line_recall": 0.036,
    "pack_docs": 31,
-   "chars": 48775
+   "chars": 48848
   },
   {
    "id": "C15",
@@ -93,7 +93,7 @@
    "gold_lines": 66,
    "line_recall": 0.0,
    "pack_docs": 37,
-   "chars": 50567
+   "chars": 50640
   },
   {
    "id": "C4",
@@ -120,7 +120,7 @@
    "gold_lines": 108,
    "line_recall": 0.019,
    "pack_docs": 28,
-   "chars": 56594
+   "chars": 56203
   },
   {
    "id": "C7",
@@ -147,7 +147,7 @@
    "gold_lines": 53,
    "line_recall": 0.057,
    "pack_docs": 35,
-   "chars": 56485
+   "chars": 56442
   },
   {
    "id": "Q1",
@@ -156,7 +156,7 @@
    "gold_lines": 94,
    "line_recall": 0.0,
    "pack_docs": 12,
-   "chars": 66406
+   "chars": 66391
   },
   {
    "id": "Q2",
@@ -174,7 +174,7 @@
    "gold_lines": 160,
    "line_recall": 0.031,
    "pack_docs": 16,
-   "chars": 66637
+   "chars": 66363
   },
   {
    "id": "Q4",
@@ -183,16 +183,16 @@
    "gold_lines": 69,
    "line_recall": 0.014,
    "pack_docs": 37,
-   "chars": 58505
+   "chars": 58209
   },
   {
    "id": "Q5",
    "gold_docs": 33,
    "doc_recall": 0.273,
    "gold_lines": 114,
-   "line_recall": 0.018,
-   "pack_docs": 38,
-   "chars": 68513
+   "line_recall": 0.026,
+   "pack_docs": 32,
+   "chars": 68159
   },
   {
    "id": "Q6",
@@ -201,7 +201,7 @@
    "gold_lines": 11,
    "line_recall": 0.545,
    "pack_docs": 22,
-   "chars": 57132
+   "chars": 57134
   },
   {
    "id": "Q7",
@@ -219,16 +219,16 @@
    "gold_lines": 21,
    "line_recall": 0.048,
    "pack_docs": 35,
-   "chars": 66960
+   "chars": 66992
   },
   {
    "id": "Q9",
    "gold_docs": 19,
-   "doc_recall": 0.474,
+   "doc_recall": 0.526,
    "gold_lines": 23,
-   "line_recall": 0.043,
-   "pack_docs": 36,
-   "chars": 43988
+   "line_recall": 0.087,
+   "pack_docs": 37,
+   "chars": 55513
   }
  ]
 }

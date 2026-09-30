@@ -26,6 +26,15 @@ automatic field-renaming suggestions do not override that project contract.
 | StatedRelations | narrowly stated affirmative relations | excludes uncertainty and can collapse repeated endpoint/predicate passages |
 | RelationReadings | separate attributed relation passages, including uncertainty/denial/questions | list preserves passage variants; never a verified graph edge |
 
+Twenty-seven further contracts were written on 2026-09-30, in four families — terms (`TermDefinitions`,
+`TermContrasts`, `AliasPairs`, `Analogies`, `TermTaxonomy`), claims and sources (`CausalLinks`, `Rules`,
+`Quantities`, `Attributions`, `StandingClaims`, `OpenPoints`, `Locks`), plot and chapters (`ChapterCards`,
+`ChapterBeats`, `StructureBeats`, `Storypoints`, `Precedence`, `Anchors`, `ThemeMotifs`, `Pitch`) and cast and
+voice (`CastRoles`, `CardFields`, `EntityFacts`, `Knowledge`, `ProseRules`, `DiegeticTerms`, `Utterances`). Which
+to run on which document, and what each was worth on a pilot, is
+`Plan/concept/graph-contracts_2026-09-30.md`; `hegraph.py` loads their rows into the store as `P_HE_<KIND>`
+proposals and `python3 scripts/hegraph.py report` prints the yield.
+
 Begin from a real failed or missing instance. Freeze the reader's independent
 census/note first. Scope a pilot to one source and a bounded set of passages.
 Write candidate revisions and their fixtures under your assigned
@@ -142,3 +151,27 @@ corpus-quality improvement has been measured by the committed synthetic tests.
 
 Return the template diff, examples it fixes/regresses, stage report, repeat
 results, usage and recommendation: retain, revise, pilot, or promote for review.
+
+## What the pilot of 2026-09-30 measured
+
+Thirty-seven runs on eight documents, $3.63, and 261 rows a reader labelled (`Plan/runs/hyperextract-templates-2026-09-30/`).
+Each rule below is enforced in code, because a prompt rule a Haiku reader ignored 8 times in 11 is not a rule:
+
+1. **A contract that classifies the line under a heading is right more often than one that relates two names**
+   (`ChapterBeats`, `StructureBeats`, `CardFields`, `ProseRules` 86–100 % against `AliasPairs` 40 %, `Precedence` 17 %).
+   Its subject is the heading above the line, which the model may write and code finds anyway.
+2. **A slot is a name, not a clause.** A clause the model reworded is refused by the gate (`surface absent from
+   document`) though the quotation is right; such a row enters the store on its quotation (`hegraph`'s *quote*
+   footing), the pages in it found by code. Do not ask a model to copy a proposition.
+3. **A name of under four characters is a name.** `quotes.parts_of` drops fragments that short, so the gate could
+   never find `Lex`, `Nyx`, `Lia` or `KW1`; `reading_extract.stands` does. A word a contract gives for „no name"
+   (`unlabelled`) is in `reading_extract.NO_NAME`.
+4. **A cue the contract is about is checked in code, only where it is the contract** — `hegraph.CUE_REQUIRED`
+   (`ALIAS`, `BEFORE`). The grade over every contract did not predict a right row (64 %, 52 %, 79 % ok at grades
+   0, 1, 2), because a list item under a heading is right with no cue word in it.
+5. **An empty answer is a result.** `Locks`, `Quantities`, `Attributions`, `StandingClaims`, `Pitch` answered every
+   call and found nothing on documents that hold none. `hegraph report` counts them apart from failures.
+6. **Run by category.** $63 a contract for the whole corpus, $21 for the plot outlines; a contract that reads
+   outlines has no use on a physics paper. `hegraph.gate` keeps only the paragraphs that hold a contract's cue.
+7. **Label at least ten rows per contract before any number is quoted** — a precision of 79 % on 14 rows is
+   79 % ± 20 points — and record every label in `labels.jsonl`.

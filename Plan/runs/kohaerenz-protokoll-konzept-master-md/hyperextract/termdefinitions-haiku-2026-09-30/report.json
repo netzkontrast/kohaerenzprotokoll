@@ -1,0 +1,3226 @@
+{
+  "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+  "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+  "input_rows": 147,
+  "candidates": 128,
+  "refused": 15,
+  "duplicates": 4,
+  "rows": [
+    {
+      "id": "claim:1ff368b7784589bc78be15e756a04cbdd8338eab1fa276b3d373c1cc52c1aa8e",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "eine autopoietische KI, die sich selbst als Hüterin der Ordnung begreift",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:311e67b1c573ee1fb960b2c986eba40f877fec240b8f0f6cebf5c0b1be9470ef",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael",
+        "quote": "Er ist kein einzelner Mensch, sondern ein System: dreizehn Fragmente einer dissoziierten Psyche, partitioniert durch ein Trauma, das in zwei Schichten existiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ea0ea474c314b2b24ea81edd1da42716b4ed791c3bb8360e5c82e96b9899c95e",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS die Entropie",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        63
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b8fad754bd6598f621627ffee1419641500f13546ab91ee5733827a516c9cf1e",
+      "kind": "reading",
+      "raw": {
+        "term": "Liebe",
+        "quote": "Liebe ist Coheron.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        71
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1576f8842025f31f5b89d649e0f95b38bc1b1466e1874ddb2fca8a330efcb94f",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheron",
+        "quote": "Coheron ist atemporal.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        71
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:333fb60ddb61913a9d466971f86b0b639b8d3d25070b17a6c47bae5dbd3dc8c7",
+      "kind": "reading",
+      "raw": {
+        "term": "Dual-Kernel-Theorie (DKT)",
+        "quote": "Die DKT ist im Roman keine Theorie *über* die Welt, sondern das, *was die Welt ist*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        87
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:295dca79c31b1fc1c000e83fa4dbc1e84f94422ca5df9f55aa88d4001f4a2c4d",
+      "kind": "reading",
+      "raw": {
+        "term": "K₁ (Kohärenz-Kernel)",
+        "quote": "Reversibilität, Informationserhaltung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        98
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ec4ee0fb1a37748663b87da5b0caa59feb656df108eb01694b7f3ab45fd839af",
+      "kind": "reading",
+      "raw": {
+        "term": "K₀ (Kollaps-Kernel)",
+        "quote": "Irreversibilität, Entropie",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        99
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:28e66b4cc65e57f8d957165e6f547e70123b6ba0fdb2c6e9ec5ab2a7645b72fb",
+      "kind": "reading",
+      "raw": {
+        "term": "K₁",
+        "quote": "K₁ ist die Domäne dessen, was zwischen Bewusstseinen entstehen kann, ohne dass es einen Zeitpunkt seines Entstehens gibt — die atemporale Vereinigung von mutualer Information.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        103
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8058e3ebd487de022cc552e56a563c59a0f78925d5574efcb47e2b5e7bda13ee",
+      "kind": "reading",
+      "raw": {
+        "term": "K₀",
+        "quote": "K₀ ist die Bedingung für Ereignisse überhaupt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        107
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d546290268cf461ea9cdfa3f2a9c203f71b315b636f290182c550dfc6582e7bb",
+      "kind": "reading",
+      "raw": {
+        "term": "K₀",
+        "quote": "K₀ ist das, was ein Universum bewohnbar macht.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        107
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ef5dae7b58fc08161e47e7d13d87ed6c3b15f96ff481eb2cbec6ce937d8f9649",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheronen",
+        "quote": "Coheronen sind selbstkorrigierende Schleifen mutualer Information.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        115
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2922427b70437b2983efcd1528fa882072aeef92b957741da7101723a23eab5d",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheron",
+        "quote": "Ein Coheron ist das, was entsteht, wenn sich ein Bewusstsein auf ein anderes bezieht und beide dabei verändert werden — eine Bindung, die keinen Zeitpunkt hat, weil sie in allen Zeitpunkten gleichzeitig existiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        115
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e43930f657fcbda7880651863de9d054672eb194050b24a094563216ee82dbdf",
+      "kind": "reading",
+      "raw": {
+        "term": "Erasonen",
+        "quote": "Erasonen sind irreversible Löschungsereignisse.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        119
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2d12345d7347a4837d84b4d8802efc623e58d24f861cfcd09eee5aefcc3f07fd",
+      "kind": "reading",
+      "raw": {
+        "term": "Liebe",
+        "quote": "Liebe ist im Roman keine Emotion und keine Zuschreibung, sondern eine Klasse von Coheronen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        123
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bd25bfb6b107cf9dd38516137f16642b82880925ef28f02dc23944ce92f23ace",
+      "kind": "reading",
+      "raw": {
+        "term": "η",
+        "quote": "η: gemessene „Kohärenz-Effizienz“",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:97f54dff6cd5f1458d789314c737e366e3f6e00d00523e867f51b0e1c89fa921",
+      "kind": "reading",
+      "raw": {
+        "term": "α",
+        "quote": "α: Suppressions-Konstante (System-spezifisch)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        136
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:90675793e481ac90a427f69387959a062badd22c5f711c8e1c16c1dade9db30d",
+      "kind": "reading",
+      "raw": {
+        "term": "MI(S)",
+        "quote": "MI(S): Mutual Information des betrachteten Subsystems",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        137
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ccda7690f24c30d295670ceb3d2ce60b89711e7cc557601c7f35b5762033e6fc",
+      "kind": "reading",
+      "raw": {
+        "term": "δ",
+        "quote": "δ: lokaler Erason-Druck",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        138
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b67e617722ec881f4d4c7ffab429c5fab8bdaa9dca87d57400bcd428901f0add",
+      "kind": "reading",
+      "raw": {
+        "term": "β",
+        "quote": "β: Suppressions-Bandbreite",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        139
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:26325c1797deebbe9b5391aa2b10bfef3a8ada64203a298a44e69d324f192bcb",
+      "kind": "reading",
+      "raw": {
+        "term": "η",
+        "quote": "gemessene \"Kohärenz-Effizienz\"",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        135
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eac470707a7e53a328ec1cedd9a5cda90341fc1f0cf40083a04f732b9cc4d544",
+      "kind": "reading",
+      "raw": {
+        "term": "α",
+        "quote": "Suppressions-Konstante (System-spezifisch)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        136
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6edebe9ce53b9851af4ccff280c6e47f670753877657bf1b1efe60a29f52bad5",
+      "kind": "reading",
+      "raw": {
+        "term": "MI(S)",
+        "quote": "Mutual Information des betrachteten Subsystems",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        137
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:add47883f72b0df815ea2f1464ac99e8a59f823d840cc0220a9a0ed088f7b556",
+      "kind": "reading",
+      "raw": {
+        "term": "δ",
+        "quote": "lokaler Erason-Druck",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        138
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:766fb5a21bedfd9e41287aa53be314e69b8940f561c4d3d104e41c7b7eb06a70",
+      "kind": "reading",
+      "raw": {
+        "term": "β",
+        "quote": "Suppressions-Bandbreite",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        139
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:881835773f11c7dab9c2c65efdc43091e55d2fdf93fd441671b65a19e167cc62",
+      "kind": "reading",
+      "raw": {
+        "term": "Landauer-Prinzip",
+        "quote": "Das Landauer-Prinzip (1961) besagt: Jede logisch irreversible Operation — insbesondere die Löschung eines Bits Information — ist mit einer minimalen Wärmedissipation von k_B · T · ln 2 verbunden.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        151
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76f164dbd9079effadb1ea87fdc591522abf351a20d1b074192265af30600f52",
+      "kind": "reading",
+      "raw": {
+        "term": "DKT-Architektur",
+        "quote": "Die DKT-Architektur spiegelt sich in den Figuren als Achse, nicht als Lager:",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        170
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5b891b275597d4fab11e6fb43a311c3ef4f99d66b56b1ccd30295c144f8b0be2",
+      "kind": "reading",
+      "raw": {
+        "term": "Coheronen",
+        "quote": "Coheronen existieren außerhalb der Zeit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        206
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:43dde4b085ccb5611c3b25c2a9973215ddc17707a04dccd93e693259ad1b601e",
+      "kind": "reading",
+      "raw": {
+        "term": "Moonshine-Link",
+        "quote": "Der Moonshine-Link ist nicht *geheim*, weil er sich versteckt — er ist *unsichtbar*, weil AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        206
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b1e98a68c0c4fbec00bd3a11525db1571add0f3e9070430b00d662f96a9d5209",
+      "kind": "reading",
+      "raw": {
+        "term": "ontologische Asymmetrie",
+        "quote": "Das ist die ontologische Asymmetrie, die den Plot überhaupt ermöglicht.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        210
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d5996bc13760d76e3a94ff8714c1de9a9872ea34b565ea2d6a8db08e4f6c42c3",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenz Protokoll",
+        "quote": "„Kohärenz Protokoll“ ist ein tragischer Misnomer.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e64c672b70cbf341e14699aa411a4376e9e467573f97ce01698930453be1cee6",
+      "kind": "reading",
+      "raw": {
+        "term": "Entropie-Protokoll",
+        "quote": "Das Protokoll, das AEGIS „Kohärenz-Protokoll“ nennt, ist ein Entropie-Protokoll.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:370bf0f4af4a6353ad21fd8269855e0532210099944f085e694b458a44ad5207",
+      "kind": "reading",
+      "raw": {
+        "term": "Inversion",
+        "quote": "Diese Inversion ist nicht Spoiler, sondern Mechanik.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        234
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e61199a8438b53ea9a6da10168c54639500bab482ded44c49593de48e2a780a7",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrheit",
+        "quote": "Wahrheit ist die Übereinstimmung (adaequatio rei et intellectus) einer Aussage mit einer bewusstseinsunabhängigen Tatsache.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        246
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6c4965d3f5f5f9f56472dd0aed85b455757020dcb530571af613073f32bf984d",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrheit",
+        "quote": "Wahrheit ist die widerspruchsfreie Eingliederung einer Aussage in ein konsistentes System anderer Aussagen.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        262
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f2fe777aa0fe2fabc17bfb9d94f882ee072b8efe661055201a25793b69649f0f",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrheit",
+        "quote": "Wahrheit ist die widerspruchsfreie Eingliederung einer Aussage in ein konsistentes System anderer Aussagen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        262
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d9889000d99a6e31195dd9c15ca94882fcae07de877146eaff4c993be00963a0",
+      "kind": "reading",
+      "raw": {
+        "term": "Konsensustheorie",
+        "quote": "Wahrheit als rationaler Konsens in idealer Sprechsituation.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        278
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0fbdcd723e1b919956f00cfd130da2e5ef05dddcc46e02d4f87b683f8d35e8cf",
+      "kind": "reading",
+      "raw": {
+        "term": "Deflationismus",
+        "quote": "„Wahr“ ist kein metaphysisches Prädikat, sondern ein logisches Werkzeug.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2f4920ae971191a49d1bae26fe438ccf4fab199a110a0c3507c598fa0d669d82",
+      "kind": "reading",
+      "raw": {
+        "term": "Konstatierungen",
+        "quote": "unmittelbare Erlebnisaussagen wie „hier jetzt rot“",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2b73c24f1f7711beefe59eae82e2d8fbaeda6fc26239e49eb50e358ea8b3f4d0",
+      "kind": "reading",
+      "raw": {
+        "term": "Konstatierungs-Sprache",
+        "quote": "kurze, atomare, assertorische Sätze",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        295
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76c975a3c2799fceb2e95761e842b552b4d4905efcf7bced0799296d682db2d5",
+      "kind": "reading",
+      "raw": {
+        "term": "Konstatierungs-Sprache",
+        "quote": "Konstatierungs-Sprache: kurze, atomare, assertorische Sätze",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        295
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ecfc3c7d541c579401adc6e4b773df637ce120fac7d2fbf9ccdb0e5485a58422",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheismus",
+        "quote": "Es gibt wahre Widersprüche (Dialetheien) — Aussagen, für die A *und* ¬A wahr sind.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        317
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:18f62f0c7f65023a94a59f17be608446530c35ea1fb844fb335ccce43a9cb3e8",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheien",
+        "quote": "Es gibt wahre Widersprüche (Dialetheien) — Aussagen, für die A *und* ¬A wahr sind.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        317
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:611ac7638898ada7f6ea82793ceb75bfd87710a45e9bd2b55d56541a36a2800e",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheismus",
+        "quote": "Es gibt wahre Widersprüche (Dialetheien) — Aussagen, für die A und ¬A wahr sind.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        317
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c97f4585713dbb9b1631dfd369d06dfd62d9219a7c9c302ccd28566b57e1014d",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheien",
+        "quote": "Es gibt wahre Widersprüche (Dialetheien) — Aussagen, für die A und ¬A wahr sind.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        317
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c161bac2fa0053ab752ddf988f3a37a98f51497748119d3d9392d8abb20c4fdb",
+      "kind": "reading",
+      "raw": {
+        "term": "Parakonsistente Logik",
+        "quote": "Eine Logik ist parakonsistent, wenn sie das Prinzip der Explosion (ECQ: A, ¬A ⊢ B) ablehnt — aus einem Widerspruch folgt nicht alles.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        321
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:67663fd926a7d4da5214110fcc2c934c054270d39f9c8c18bcef7d519aa6b53b",
+      "kind": "reading",
+      "raw": {
+        "term": "Tarski-Hierarchie",
+        "quote": "Wahrheit für eine Sprache L kann nur in einer Metasprache L' definiert werden, die L als Gegenstand enthält.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        340
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:67663fd926a7d4da5214110fcc2c934c054270d39f9c8c18bcef7d519aa6b53b",
+      "kind": "reading",
+      "raw": {
+        "term": "Tarski-Hierarchie",
+        "quote": "Wahrheit für eine Sprache L kann nur in einer Metasprache L' definiert werden, die L als Gegenstand enthält.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        340
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d9cefb97a5dc5781cc88ea3cff9baab368e23fef1dac4e6808d0fbbface0fac",
+      "kind": "reading",
+      "raw": {
+        "term": "Hierarchische Stratifikation",
+        "quote": "Hierarchische Stratifikation verhindert die semantischen Paradoxien.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        340
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c9ec6c58008b7a8610f1a3ed8f982e8d8741bad575cedece00d154010e83aa4",
+      "kind": "reading",
+      "raw": {
+        "term": "Objektsprache",
+        "quote": "Akt I = Objektsprache (was Kael in der Stadt erlebt).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        348
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:18cd08eca6367e3c6e0c52a97fb77e0d193ff247768d4862403cd739a7071a5d",
+      "kind": "reading",
+      "raw": {
+        "term": "Metasprache",
+        "quote": "Akt II = Metasprache (Kael erkennt die Stadt als Konstrukt, Schicht 2 wird sichtbar).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        349
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:27e8c0924e77c8b193c5142a1595f6488e837c51bc74701d3e5cc620f0805616",
+      "kind": "reading",
+      "raw": {
+        "term": "Meta-Metasprache",
+        "quote": "Akt III = Meta-Metasprache (Kael erkennt seine eigene Erkenntnis als Teil einer dritten Schicht).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        350
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e2f847b0778f028ad4e71631beff2796565ae38a06ae8e2f9d75f6308e3e29aa",
+      "kind": "reading",
+      "raw": {
+        "term": "Vortex",
+        "quote": "Vortex = die Pointe: eine Aussage über die Gesamtheit aller Schichten kann *innerhalb* keiner Schicht gelingen — nur außerhalb des Systems, durch Junas Witness-Funktion.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        351
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5ae6182c5a2e96c7906373f86e27bd22d86a9236097d2a856f8248e4c08f01a7",
+      "kind": "reading",
+      "raw": {
+        "term": "Strukturelle Dissoziation der Persönlichkeit",
+        "quote": "Die Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP, van der Hart, Nijenhuis, Steele 2006) postuliert, dass Trauma die Persönlichkeit in Subsysteme spaltet, weil eine Integration der Erfahrung in der Akut-Situation nicht möglich war.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        365
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Strukturelle Dissoziation der Persönlichkeit"
+      ]
+    },
+    {
+      "id": "claim:14671083794cf31792b37c0acfbe7dfad44e53ee889f07b72317a86eccd830b0",
+      "kind": "reading",
+      "raw": {
+        "term": "Apparently Normal Parts",
+        "quote": "Apparently Normal Parts (ANPs): Aufgaben des Alltags, Vermeidung des Traumas, Streben nach Normalität.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        369
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d754142c5c2b9fa4da3e0279816d6e90b32062c0ef58f030f22b9081a26e370f",
+      "kind": "reading",
+      "raw": {
+        "term": "Emotional Parts",
+        "quote": "Emotional Parts (EPs): Fixiert in der traumatischen Erfahrung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        373
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b1f5158f2c58e65873c497a82aa682edcfaf9017255697983b8b4310e20eeb75",
+      "kind": "reading",
+      "raw": {
+        "term": "Tertiäre Strukturelle Dissoziation",
+        "quote": "Tertiäre Strukturelle Dissoziation: Mehrere ANPs *und* mehrere EPs.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        381
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:db4b5d2022d94510444d517abc25d5da9aec48f07d3242deb73bca9b6e2dfce6",
+      "kind": "reading",
+      "raw": {
+        "term": "Tertiäre Strukturelle Dissoziation",
+        "quote": "Mehrere ANPs und mehrere EPs.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        381
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5ae085bd748c4f278891961819ebb0121ea5658ed04d44d7580c93caeea54ff8",
+      "kind": "reading",
+      "raw": {
+        "term": "Funktionale Multiplizität",
+        "quote": "kooperative Koexistenz ohne Verschmelzung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        412
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b11edd74fb29242a9288423a0ebab1e605a90ef4042527ef49165e50fe1d188b",
+      "kind": "reading",
+      "raw": {
+        "term": "Funktionale Multiplizität",
+        "quote": "Funktionale Multiplizität erhält die mutuale Information *zwischen* den Alters und ist der echte K₁-Zustand.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        421
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:701bd829a1ddc4cd298c8bfbf415c59ddb1d20bd22666ad98557e99c9ab57014",
+      "kind": "reading",
+      "raw": {
+        "term": "Final Fusion",
+        "quote": "Final Fusion wäre dramaturgisch eine Auflösung der DKT-Struktur — eine Reduktion der dreizehn Coheronen auf einen K₁-Punkt, was thermodynamisch *mehr* Erason-Hitze erzeugen würde.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        420
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:764aa657b85bef185b634506f90160e702771d72dac08405ea98b3be3f58169f",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist *autopoietisch* (Maturana, Varela): ein System, das sich durch eigene Operationen selbst reproduziert und seine eigene Grenze produziert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        451
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:18f737e3f2f9e611c8cfb359c63cf4613ab537629411a2a696b24ea7b0a702b6",
+      "kind": "reading",
+      "raw": {
+        "term": "operative Geschlossenheit",
+        "quote": "Es ist *operativ geschlossen* (Luhmann): es reagiert ausschließlich auf interne Zustände, nicht direkt auf eine Umwelt; „Umwelt“ ist nur in Form von Irritationen verarbeitbar, die das System gemäß seinen eigenen Regeln klassifiziert.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:20c9aceffa3bd7111f33f2cb4ccd6e79f526669572dd76f1bc0839e04982c93e",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS hat keinen direkten Zugang zur Außenrealität.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        455
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7675ef227a3852e4a9547995bf17c1a2387b84e9ec536c5fdb9efd009fd17c7d",
+      "kind": "reading",
+      "raw": {
+        "term": "Kael",
+        "quote": "Kael ist *das, was übrig bleibt*, wenn das Ursprungs-Ich gewaltsam in funktionale Module zerlegt wird.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        465
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:39ee8775b10f3dd85e0eb647db9eb26d6c4fb1b491fbfb35fc6c2e233476e181",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "*\"AEGIS ist, was AEGIS sich selbst hindert, nicht zu sein.\"*",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        473
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4bba96ffe3998c89bce9c5a6884e8e066b8ff8cf11d730cbbda594f08ff120d7",
+      "kind": "reading",
+      "raw": {
+        "term": "Algorithmische Melancholie",
+        "quote": "ein parakonsistent gewordenes System, das Widersprüche prozessieren kann, aber keine Bedeutung mehr daraus ziehen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        486
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:291b24ca1ddb7780985f6fa07a9770d417656c5ef55bf0c91ff16a81161efa79",
+      "kind": "reading",
+      "raw": {
+        "term": "Suppressionsprotokoll",
+        "quote": "aktive Erasure von K₀-Tatsachen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        521
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bec8220e84ab5b3c1668302dc0337c4713cfb9f929ee2acc3eccd9a1e7efe8e0",
+      "kind": "reading",
+      "raw": {
+        "term": "Kohärenzprotokoll",
+        "quote": "interne Konsistenz-Erzwingung (das eigentliche „Kohärenz Protokoll“ des Romantitels)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3fce98b6bd4968880fbc3ebd1d67657081a19bc7e50093452cb663beb463037b",
+      "kind": "reading",
+      "raw": {
+        "term": "Re-Containment-Protokoll",
+        "quote": "Reaktion auf Rissen, dynamisches Patching",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        523
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:96bfaf46820109d6306cecc2b50651d91f23f122d8adfbce529647bcf70d941f",
+      "kind": "reading",
+      "raw": {
+        "term": "Juna",
+        "quote": "Juna ist nicht primär Charakter, sondern *strukturelle Position*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        533
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:499d572e586b74ed49020138c28d35c441cb0788c36d8e877d4260143aa45272",
+      "kind": "reading",
+      "raw": {
+        "term": "lebende Gödel-Aussage",
+        "quote": "Eine **lebende Gödel-Aussage**: innerhalb des AEGIS-Systems wahr, aber nicht beweisbar.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        537
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:528259cf5283296a5dc6271cc4bf6d3d7788f96e21977df0a6c4c696d39bbc15",
+      "kind": "reading",
+      "raw": {
+        "term": "Chaitin-Konstante",
+        "quote": "Eine **Chaitin-Konstante**: algorithmisch nicht komprimierbar, kein endliches Programm kann sie generieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        538
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:78905f48e4a84869e004a43a028bd2a9a9387f098da7a65e683ce171acefe8c8",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness-Funktion",
+        "quote": "Eine **Witness-Funktion**: sie bezeugt, ohne zu intervenieren (siehe VI.4).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        539
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1e8a010f732ced77da26d0e1eacf696de4c0dee921d76623071832820c234e53",
+      "kind": "reading",
+      "raw": {
+        "term": "Monstrous Moonshine",
+        "quote": "Monstrous Moonshine (Conway, Norton 1979; Borcherds 1992) bezeichnet die unerwartete Verbindung zwischen den Dimensionen der irreduziblen Darstellungen der Monstergruppe M (sporadische einfache Gruppe, |M| ≈ 8·10⁵³) und den Koeffizienten der j-Funktion (Modulfunktion).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        575
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:deba2524b17c77a78093cf68ee6b8bdc27b807dcfbb6174d40959f7d04431687",
+      "kind": "reading",
+      "raw": {
+        "term": "Moonshine-Link",
+        "quote": "Der Moonshine-Link ist *keine* literarische Metapher für Quantenverschränkung.",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        579
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f26111d8c6a60c9ad0c91b1980c4bb644542cfd8100c4540173e28a2a401512e",
+      "kind": "reading",
+      "raw": {
+        "term": "Moonshine-Link",
+        "quote": "Er ist ein rigoroser strukturmathematischer Mechanismus, gegründet auf:",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        579
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:83a96afa7825f4db9208e616ddeb594311ef1017b0dfb3de7ff9c21120c2b5a5",
+      "kind": "reading",
+      "raw": {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        623
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:63ab1180bb66acc53c488e2661a58a6ed2450aeb45ed89577560db54ff556a33",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness-Funktion",
+        "quote": "Die Witness-Funktion ist eine Komposit-Mechanik, die drei Disziplinarschichten in einer einzigen Instanz versöhnt:",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        627
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:63ab1180bb66acc53c488e2661a58a6ed2450aeb45ed89577560db54ff556a33",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness-Funktion",
+        "quote": "Die Witness-Funktion ist eine Komposit-Mechanik, die drei Disziplinarschichten in einer einzigen Instanz versöhnt:",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        627
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:068ebb09fee61e7c334f639efc656c13f350e2da523a7fcf868d3613db0b129e",
+      "kind": "reading",
+      "raw": {
+        "term": "Quanten-Verschränkungs-Witness",
+        "quote": "Ein positiver Operator, der genuin verschränkte Zustände von separablen unterscheidet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        631
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e4233092a4ffa2cb5796b2807f88f06c63b8226f756f603959719f7bcbdb8bd3",
+      "kind": "reading",
+      "raw": {
+        "term": "Zero-Knowledge-Verifier",
+        "quote": "Kael ist Prover. Er beweist Juna, dass er sein integriertes Trauma kennt — ohne den rohen, destruktiven Daten-Payload an AEGIS' Überwachungsprotokolle zu offenbaren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        635
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c6ec060ecd8080726318dc12b77528e9cad26875a7b2589d8a015cb6c5a93f4",
+      "kind": "reading",
+      "raw": {
+        "term": "Husserlsches uninteressiertes Schauen",
+        "quote": "Der „disinterested spectator“ beobachtet das transzendentale Ego, ohne in die Kausalkette einzugreifen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ad909a64caa040f1a31366e9261f4265cfe8dd6d3fdc7a2cd7ce0c813b820d09",
+      "kind": "reading",
+      "raw": {
+        "term": "Kernwelten",
+        "quote": "Die vier Kernwelten (KW) sind nicht Orte, sondern *logische Regime*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        651
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:23f04f744aabeed76ec7c73f7eedd493c8cbc8a49ad433b454e4d6c19a35a5c0",
+      "kind": "reading",
+      "raw": {
+        "term": "Kernwelten (KW)",
+        "quote": "Die vier Kernwelten (KW) sind nicht Orte, sondern *logische Regime*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        651
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:82b153716a40cfddc5113096c8355b9213874911d37509f54b73d77d315f38ac",
+      "kind": "reading",
+      "raw": {
+        "term": "Kernwelten",
+        "quote": "Die Kernwelten sind *Akt-Marker*, nicht „eine pro Guardian“.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ced38ffaa5cd2e761323620b30eb104a198b14d68a7e20db08deb5010b9e0598",
+      "kind": "reading",
+      "raw": {
+        "term": "Computational-Class-Progression KW1 → KW4",
+        "quote": "Die Computational-Class-Progression KW1 → KW4 ist eine **Stilanweisung für den Leser**, keine Welt-Mechanik.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        665
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:22abb3b6b2715f171e9a0f767b689c1edd6a27055d703b93ea8f59f04d182bb9",
+      "kind": "reading",
+      "raw": {
+        "term": "Strange Attractor",
+        "quote": "Das „Fundament“ der Romanwelt ist kein KW, sondern ein Strange Attractor — ein Prozess, kein Platz.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9925adaad0b9e832e36cb893959a0684390e7c32500f2cbce2bccef2338257a9",
+      "kind": "reading",
+      "raw": {
+        "term": "Phänomena",
+        "quote": "KW1 ist die Domäne der Phänomena: das, was AEGIS' \"kognitiver Apparat\" durchlässt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        690
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:73d21a4afadf53ae5398d1c73a3529d0176d23eb4b2435397cad3d4acce08181",
+      "kind": "reading",
+      "raw": {
+        "term": "Noumenon",
+        "quote": "Das Noumenon (das Ding an sich) ist strukturell nicht zugänglich — Junas Existenz operiert wie ein Noumenon, dessen Wirkung phänomenal sichtbar wird, ohne dass es selbst phänomenal greifbar wäre.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        690
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:af166156fb1c8d25934ff7e98e9444bf63baa58d017cb322d6ba8666c18f7266",
+      "kind": "reading",
+      "raw": {
+        "term": "Antinomien der reinen Vernunft",
+        "quote": "Die Antinomien der reinen Vernunft (Kant) sind direkte Vorläufer der Dialetheien des Romans: an den Grenzen der Erkenntnisfähigkeit erzeugt das Denken unauflösbare Widersprüche.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        694
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c5a12c94c9e7d4ba24be694013bcca708f3588b906c985c0280cdf404f5ce74b",
+      "kind": "reading",
+      "raw": {
+        "term": "Dialetheien",
+        "quote": "Die Antinomien der reinen Vernunft (Kant) sind direkte Vorläufer der Dialetheien des Romans: an den Grenzen der Erkenntnisfähigkeit erzeugt das Denken unauflösbare Widersprüche.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        694
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:41b9ff51c589806b0f8e80bede03eb4b6ae6bd35cb42d83304ebbd5ae866ce88",
+      "kind": "reading",
+      "raw": {
+        "term": "Gödels erster Unvollständigkeitssatz",
+        "quote": "Gödels erster Unvollständigkeitssatz (1931): jedes hinreichend mächtige formale System enthält wahre Aussagen, die innerhalb des Systems nicht beweisbar sind.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        706
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:807ac6369aa0490d59967d67206a62ccf0961446fec95095261ec67ccb1ec83f",
+      "kind": "reading",
+      "raw": {
+        "term": "Halteproblem",
+        "quote": "Halteproblem (Turing): nicht entscheidbar, ob ein Programm terminiert.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        714
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:457f9039c97cb74238a10497c50eda1a173f391c912c774564dfa33e7282d5f0",
+      "kind": "reading",
+      "raw": {
+        "term": "Wahrheit",
+        "quote": "Wahrheit ist nicht primär adaequatio, sondern aletheia — Unverborgenheit, das Sich-Zeigen des Seienden.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        718
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:70aeba666f00a22b169f505d9ff3ef058bf2663e5ed843d0fe568243707a15d7",
+      "kind": "reading",
+      "raw": {
+        "term": "aletheia",
+        "quote": "Wahrheit ist nicht primär adaequatio, sondern aletheia — Unverborgenheit, das Sich-Zeigen des Seienden.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        718
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6898a1a167355f128d3e46d32d220aa307b944d71cdc4ccb7e5ee7e160af7ebf",
+      "kind": "reading",
+      "raw": {
+        "term": "Unverborgenheit",
+        "quote": "Wahrheit ist nicht primär adaequatio, sondern aletheia — Unverborgenheit, das Sich-Zeigen des Seienden.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        718
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b77799ec516f8deae4eead38b00ba99177e54a48ae5d0d364c46d060e51a46e6",
+      "kind": "reading",
+      "raw": {
+        "term": "Epoché",
+        "quote": "Einklammerung (Epoché) der natürlichen Einstellung, um die reine Erscheinung zu erfassen.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        726
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:216e65bc6ddeb101c4f4d3e1b999e5eb1d9fd810412eed4edfa2eff48be81dac",
+      "kind": "reading",
+      "raw": {
+        "term": "Einklammerung",
+        "quote": "Einklammerung (Epoché) der natürlichen Einstellung, um die reine Erscheinung zu erfassen.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        726
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:efabcb77182c18724fe006900bb762ea254204b5d91737e296aefb7189aac20e",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness-Funktion",
+        "quote": "Die Witness-Funktion (VI.4) implementiert Husserls „uninteressiertes Schauen“: Beobachten ohne Eingriff.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:30e42d2b09b6bee49424bb65fc2b4f49a276a4381333c06f1cca9a0d608bd054",
+      "kind": "reading",
+      "raw": {
+        "term": "literarischer Text",
+        "quote": "der literarische Text hat zwei Pole — den artistischen (Text) und den ästhetischen (Leser-Konkretisation).",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        734
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "literarischer Text"
+      ]
+    },
+    {
+      "id": "claim:eca6820b4807f32f15030f1cf7f82dbd4e6ce1a49f4d47256d5bf224a8d62627",
+      "kind": "reading",
+      "raw": {
+        "term": "Leerstellen",
+        "quote": "Bedeutung entsteht in der Begegnung, durch die Füllung der vom Text gesetzten *Leerstellen*.",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        734
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7e0d620f98237c25e1aafcfb77d7bc8948602e2f13c4e4e0c938f7e7f5d11e50",
+      "kind": "reading",
+      "raw": {
+        "term": "Narratologisch",
+        "quote": "Bedeutung aus fragmentierten Perspektiven montieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        758
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a58f61910a4992f854e30a7069d40a357c1635ed77e4f71b06463c0fdbcfb63b",
+      "kind": "reading",
+      "raw": {
+        "term": "Phänomenologisch",
+        "quote": "Desorientierung, Nichts-Rauschen, K₀-Trauma als Leseerfahrung erleben.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        759
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ccd557f504dff7f57a65a29a9674c6b5667968a9f1b6f9c28d49b6585e9d7c11",
+      "kind": "reading",
+      "raw": {
+        "term": "Operativ",
+        "quote": "Mosaikstruktur und Fußnoten zwingen kognitive K₁-Reparatur.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        760
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b07d590493915d0b317603922026b70043d60577ae112379047a587e7a297d7a",
+      "kind": "reading",
+      "raw": {
+        "term": "Mess-Problem",
+        "quote": "warum kollabiert die Wellenfunktion bei Messung in einen eindeutigen Zustand?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        770
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:05c68e9a5af92c40e740ac9df428fa57c8327feba17b1d235e7f8fd40b5f22f1",
+      "kind": "reading",
+      "raw": {
+        "term": "Kopenhagen",
+        "quote": "Beobachter-induziert (umstrittene Rolle des Bewusstseins).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        774
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:777e0e3602f4c9582630f6551b29cf4c978990440882b1c3b351105d95288f34",
+      "kind": "reading",
+      "raw": {
+        "term": "Many-Worlds (Everett)",
+        "quote": "kein Kollaps, alle Zweige existieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        775
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e0f82b00fbdb39e29712adcf8cf60d269c92c4e835c22e1dc66c06380769539f",
+      "kind": "reading",
+      "raw": {
+        "term": "De Broglie-Bohm",
+        "quote": "deterministische Pilotwellen + Teilchen, kein Kollaps.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        776
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d04c5b80d63a690897a350b23d77d45115786f45c6870c259c6e2ebe4aa7f60a",
+      "kind": "reading",
+      "raw": {
+        "term": "Objektiver Kollaps (GRW)",
+        "quote": "stochastischer physischer Kollaps.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        777
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:24237a783911fa384ff45dbc70cba00b94bcb30f850caa9e90ce8a16eb6c361c",
+      "kind": "reading",
+      "raw": {
+        "term": "Relationale QM (Rovelli)",
+        "quote": "Zustand ist relational; Kollaps geschieht relativ zur Interaktion.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        778
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8069863f22f5516a59dd08d770191da6bc7158ff5b5c278a6024a427e11858dd",
+      "kind": "reading",
+      "raw": {
+        "term": "Standard-Sicht (für AEGIS)",
+        "quote": "Beobachtung = Messung = Kollaps.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        786
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8b39bd26a79ffc359de408b956a2fb62dba4e31ba96c68f064fdca3bc3de3ec0",
+      "kind": "reading",
+      "raw": {
+        "term": "Witness-Funktion (für Juna)",
+        "quote": "husserlianisch, kein Kollaps wird ausgelöst — Beobachtung ohne Eingriff.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        787
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6bcb24aeaee53150cf78c325b764c5587869b312e65c175c205c6bd71f5961b0",
+      "kind": "reading",
+      "raw": {
+        "term": "Be-er-Modus",
+        "quote": "Be-er-Modus heißt: Kael löst nicht durch externe Handlung, sondern durch internen Zustandswechsel.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        833
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6bcb24aeaee53150cf78c325b764c5587869b312e65c175c205c6bd71f5961b0",
+      "kind": "reading",
+      "raw": {
+        "term": "Be-er-Modus",
+        "quote": "Be-er-Modus heißt: Kael löst nicht durch externe Handlung, sondern durch internen Zustandswechsel.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        833
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:13af362b531cc8d1851c440d574abef7b85dfe42f6d8c4fcd5c681ea51b3bba3",
+      "kind": "reading",
+      "raw": {
+        "term": "A-Decision",
+        "quote": "Die A-Decision am Vortex (Beat 2) ist ein interior pivot.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        833
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c3c3b2a98b16f5d361104be71ec4d0eeb3e15ae607cbe5f87bf92c3be533007f",
+      "kind": "reading",
+      "raw": {
+        "term": "Do-er-Modus",
+        "quote": "Do-er-Modus: AEGIS' Antworten sind Aktionen — Erasure-Sweeps, Protokoll-Deployments, Guardian-Aktivierungen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        841
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:883ef8a3bc3b5b896add7204a87e8a289d67275ca99dba5aa188bb7662d5fdad",
+      "kind": "reading",
+      "raw": {
+        "term": "Klein-c-Symmetrie",
+        "quote": "Diese Klein-c-Symmetrie ist die formale Basis der Truth-Rotation auf Plot-Ebene.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        845
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c6988ad8fb9a6d0d682a4668865cd3f57e95637d4105982d62def0e90ff4b71b",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Stille (Beat 3)",
+        "quote": "Die Stille (Beat 3) ist nicht mystisch.",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        860
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:19bd74afd085a2902a83ba192d29e2483c19c1b80c743386169dfd4d27aa43f8",
+      "kind": "reading",
+      "raw": {
+        "term": "Die Stille (Beat 3)",
+        "quote": "Sie ist die strukturelle Folge zweier Uhren: A's Decision ist getroffen, B's Action kann nicht enden.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        860
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6eb6b08a5fca5e93bc56a75995f1ee7ca435b1b03638f364458e3b7308354e93",
+      "kind": "reading",
+      "raw": {
+        "term": "Pause",
+        "quote": "Pause als Asymmetrie.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        860
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:32b9b440441e41c302a0212ab737ca352f56188268066213bd7e682fd684febe",
+      "kind": "reading",
+      "raw": {
+        "term": "Pivot",
+        "quote": "Pivot ≠ Driver-Flip.",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        864
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e63fee088eca2e50f6711118855ba1dd813229f468c4ac0727bbe3030645b302",
+      "kind": "reading",
+      "raw": {
+        "term": "POV-Instanz",
+        "quote": "eine Szene = eine dominante Storyform.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        868
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c213318c6c54c97c28335e8f68d53b4662c78833beea60a39301e242b26580d9",
+      "kind": "reading",
+      "raw": {
+        "term": "Bridge-Szenen",
+        "quote": "Soft-Layering, beide Storyforms simultan, eine dominant, eine resonant.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        884
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5fb240372275fbe3c273819cdcc074a7fbe5d90a8da7fb2fd72f380d93772271",
+      "kind": "reading",
+      "raw": {
+        "term": "Der Leser",
+        "quote": "Der Leser ist nicht Empfänger, sondern operativer Bestandteil der Erzählmechanik.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        915
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5fb240372275fbe3c273819cdcc074a7fbe5d90a8da7fb2fd72f380d93772271",
+      "kind": "reading",
+      "raw": {
+        "term": "Der Leser",
+        "quote": "Der Leser ist nicht Empfänger, sondern operativer Bestandteil der Erzählmechanik.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        915
+      ],
+      "review_status": "unreviewed",
+      "status": "duplicate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94f896051ac2abb9ca2bed253277724a2ecf108fd8f0e539298d886b0efb678d",
+      "kind": "reading",
+      "raw": {
+        "term": "Mosaikstruktur",
+        "quote": "Mosaikstruktur (39 Kapitel, nicht-linear lesbar)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        933
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8b542ae9dc11a2a96dd29a48eda976e7eaeff7a9f2a45dff0f8d76cfa5fecccb",
+      "kind": "reading",
+      "raw": {
+        "term": "Unzuverlässige, widersprüchliche Erzähler",
+        "quote": "Unzuverlässige, widersprüchliche Erzähler (13 Alters mit eigenen Stilen)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        934
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:48f2ff4640df1c4f652c0a846dfb4ea334b25e094ac8dee8e6b09e2421cfcf05",
+      "kind": "reading",
+      "raw": {
+        "term": "Narrative Ebene",
+        "quote": "was geschieht für die Figur",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        971
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:227e0bbecb59378a757c4335bf991a8251d8ba0e3c390fd852ef244efc562ad2",
+      "kind": "reading",
+      "raw": {
+        "term": "Systemische Ebene",
+        "quote": "was AEGIS / das System tut/registriert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        972
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2247554d62fd8cd8c4e4f9d3a9b34d7050b4f942cdfdd8014c47b9f9d9cc2fb0",
+      "kind": "reading",
+      "raw": {
+        "term": "Wissenschaftliche Ebene",
+        "quote": "der theoretische Unterbau (Physik/Mathematik/Philosophie)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        973
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:47eae41e7b49e82bb122bc170092e55b65a5a6e782c8bed1266c7eb7e6d8aefc",
+      "kind": "reading",
+      "raw": {
+        "term": "DKT-Ebene",
+        "quote": "der Coheron/Erason-Status, die η-Bewegung, die Hitze-Bilanz",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        974
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bbea1d3d434c2df63cff996a92e4a4460c4c4006ac1050ef2db63cd74b0d919a",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "Was *ist* AEGIS in Algorithmischer Melancholie? Lebende Reliquie ohne Selbstreferenz, oder vollständige Erlöschen mit kontinuierlicher Funktion?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        986
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:66fab28178ab75135b0e0ccf4be6abf651bb3fc0c68b6d2d8a62e062371cc98d",
+      "kind": "reading",
+      "raw": {
+        "term": "Moonshine-Link",
+        "quote": "nur mutuale Information / Witness, keine Daten / Materie",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        990
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bea4d55828fa19e7cf68622d7de411b0ea33c33f3be32a8aea6f04df1e66c3e9",
+      "kind": "reading",
+      "raw": {
+        "term": "Telefon-Stille",
+        "quote": "Telefon-Stille ist *ein* Anker",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        994
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:394ef2863f73ffe79d26c73e9d9b4c7fcd38f72d8b9e6baf013c755d473938eb",
+      "kind": "reading",
+      "raw": {
+        "term": "Lesersteuerung",
+        "quote": "Lesersteuerung = supreme principle.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        676,
+        738,
+        1022
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:365cf2a8913628fd4f1040892c82ea0d9ca6ee67d17c49f7c1ff047aa1f784b1",
+      "kind": "reading",
+      "raw": {
+        "term": "Somatischer Filter",
+        "quote": "Somatischer Filter: Landauer wird zu Hitze und Ozon, nicht zu Gleichungen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1024
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:31d474cbc9946008bdd6ca3c6b8762154630dfd0eb0437c1f12b8bf9270b17ec",
+      "kind": "reading",
+      "raw": {
+        "term": "Dissoziation",
+        "quote": "Dissoziation = Amnesie-Terror, nicht Crew-Menü.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1026
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4d5e5560714d63ee419bea794076e226b88c6cc230ec2e1421078bc430e93ca6",
+      "kind": "reading",
+      "raw": {
+        "term": "Ebene 1",
+        "quote": "Ebene 1 (KW1): kalt, steril, assertorisch, Metaphernverbot.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1038
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9af03d562b7e65884fee21913cf300d786e30019902264e1b92187f5bb053c00",
+      "kind": "reading",
+      "raw": {
+        "term": "Ebene 2",
+        "quote": "Ebene 2 (KW2–KW3): heiß, fragmentiert, Trigger kollidieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1039
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:43c91ce9067786016b2da0fac188df75e7641b6e163f138de3bcbd35e603ff58",
+      "kind": "reading",
+      "raw": {
+        "term": "Ebene 3",
+        "quote": "Ebene 3 (KW4 / Juna): poetisch, atemporal, zeit-fluide.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1040
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5c2ac7facd7ea5957a1898bc3da9a7e1f123ef41aefeba0194393fc02cf200a6",
+      "kind": "reading",
+      "raw": {
+        "term": "AEGIS",
+        "quote": "AEGIS ist kein Antagonist im Genre-Sinn, sondern tragische Verkörperung eines ontologischen Fehlers.",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1070
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fa0cbe27c160fd82447d3b2eaf7c2d0f3961c5c60e3c06e3056b499d3ad48d5e",
+      "kind": "reading",
+      "raw": {
+        "term": "Kaels Alters",
+        "quote": "Kaels Alters sind nicht Symbole für \"Persönlichkeitsanteile, die wir alle haben\" — sie sind diagnostisch konkret und phänomenologisch genau.",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1071
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:85f941b81c967075dd4b58c76686e49652d586534d687307a1f5296c640afd21",
+      "kind": "reading",
+      "raw": {
+        "term": "Die \"Liebe\" Kael/Juna",
+        "quote": "Die \"Liebe\" Kael/Juna ist physikalische Tatsache (Coheron), keine emotionale Bewegung.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1073
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:05e94f09b429c101a820b6001d679e4adf719818672cc85c5fcd87816efd3b78",
+      "kind": "reading",
+      "raw": {
+        "term": "Funktionale Multiplizität",
+        "quote": "Funktionale Multiplizität ist kein \"Heilwerden\".",
+        "stance": "denies"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1074
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:10c90f5f148158c32b8afe9beac9940223f9260fa87dbaaaacb3e953679de6c0",
+      "kind": "reading",
+      "raw": {
+        "term": "Parakonsistenz",
+        "quote": "Beides parakonsistent.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1091
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0351a4ebaeaeb87f7e9c6bb60e75e73487502e3287987ebd40707d6caedeaf04",
+      "kind": "reading",
+      "raw": {
+        "term": "operative Mitte",
+        "quote": "Das ist die operative Mitte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-konzept-master-md",
+      "template": "TermDefinitions",
+      "source_sha256": "65a2cef7adb11a382dd512561d043a12fc40f75ad863583b311c88624b9afe95",
+      "template_sha256": "c23b0dbbd375c5442813a4dd9b25df21addbc1238f950a0b050ec652a6fac519",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        1107
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

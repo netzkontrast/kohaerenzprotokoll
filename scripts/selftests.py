@@ -72,6 +72,7 @@ SUITES = [
     ("readings: placed by code, refused, in order", "std", ["scripts/readings.py", "selftest"]),
     ("census: drafted by code, checked", "std", ["scripts/census.py", "selftest"]),
     ("record: derived from the pages, checked", "std", ["scripts/record.py", "selftest"]),
+    ("brief: drafted from the lookup, marks checked", "std", ["scripts/brief.py", "selftest"]),
     ("bm25 relation: found, refused, judged, fitted", "std", ["scripts/bm25rel.py", "selftest"]),
     ("crossdoc: the groups apart, counts not ranks", "std", ["scripts/crossdoc.py", "selftest"]),
     ("claims: a sentence beside its line, cells checked", "std", ["scripts/claims.py", "selftest"]),

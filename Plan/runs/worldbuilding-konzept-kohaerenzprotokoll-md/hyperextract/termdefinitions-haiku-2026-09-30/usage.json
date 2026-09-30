@@ -1,0 +1,12 @@
+{
+  "document": "worldbuilding-konzept-kohaerenzprotokoll-md",
+  "template": "TermDefinitions.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 28,
+  "failed_calls": 0,
+  "seconds": 156.8,
+  "input_tokens": 145692,
+  "output_tokens": 11176,
+  "cost_usd": 0.3472,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

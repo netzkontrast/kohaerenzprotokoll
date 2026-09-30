@@ -457,24 +457,9 @@ def term_pairs(store: Store) -> dict[frozenset, dict]:
 
 
 def stored_comention(con: sqlite3.Connection | None = None) -> dict[frozenset, dict]:
-    """The counted co-mention relation as the store holds it (`askextract.learn_comention`): page pair → the
-    documents that hold it and its normalised PMI. One encoding of the statistic: the lab reads it, never
-    recomputes it."""
-    own = con is None
-    if own:
-        import askdb
-        why = askdb.fresh(DB)
-        if why:
-            raise SystemExit(why)
-        con = sqlite3.connect(f"{DB.resolve().as_uri()}?mode=ro", uri=True)
-    keys = dict(con.execute("SELECT key, id FROM property_keys"))
-    node = dict(con.execute("SELECT node_id, value FROM node_props_text WHERE key_id=?", (keys["id"],)))
-    ends = {e: (node[s], node[t]) for e, s, t in con.execute("SELECT id, source_id, target_id FROM edges WHERE type='P_COMENTION'")}
-    docs = dict(con.execute("SELECT edge_id, value FROM edge_props_int WHERE key_id=?", (keys["docs"],))) if "docs" in keys else {}
-    npmi = dict(con.execute("SELECT edge_id, value FROM edge_props_real WHERE key_id=?", (keys["npmi"],))) if "npmi" in keys else {}
-    if own:
-        con.close()
-    return {frozenset(ends[e]): {"docs": docs[e], "npmi": npmi.get(e, 0.0)} for e in ends if e in docs}
+    """The counted co-mention relation as the store holds it — `graphrag.comention_pairs`, the one reader: page pair →
+    the documents that hold it and its normalised PMI. The lab reads it, never recomputes it."""
+    return graphrag.comention_pairs(con)
 
 
 def edges_from(pairs: dict[frozenset, float], kind: str, via: str) -> list[dict]:

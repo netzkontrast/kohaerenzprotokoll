@@ -373,12 +373,23 @@ def report(root: Path = ROOT, unresolved: int = 15) -> str:
 
 # ── the gate ──────────────────────────────────────────────────────────────────
 
+ENGLISH = re.compile(r"\b(?:the|and|of|is|are|that|with|which|this|for|as)\b", re.I)
+GERMAN = re.compile(r"\b(?:der|die|das|und|ist|nicht|mit|von|den|dem|ein|eine|zu|auf|sich)\b", re.I)
+
+
+def english(text: str) -> bool:
+    """Whether a text is mostly English. The cues are German words: on an English document they match almost
+    nothing, and a gate that kept a tenth of it would send the model a tenth and call the rest empty."""
+    return len(ENGLISH.findall(text)) > 1.5 * len(GERMAN.findall(text))
+
+
 def gate(text: str, template: str, neighbours: int = 1) -> str:
-    """The paragraphs of `text` that hold a cue of the contract, with their neighbours, in order."""
+    """The paragraphs of `text` that hold a cue of the contract, with their neighbours, in order. A contract with no
+    cue set, or a document in English, is not gated: the whole text comes back."""
     kind = KIND.get(template)
     cue = CUES.get(kind or "")
     paragraphs = re.split(r"\n\s*\n", text)
-    if cue is None:
+    if cue is None or english(text):
         return text
     keep = set()
     for i, p in enumerate(paragraphs):
@@ -457,6 +468,8 @@ def selftest() -> int:
     text = "Eins ohne Stichwort.\n\nZwei mit Regel: das darf nie geschehen.\n\nDrei nichts.\n\nVier nichts.\n\nFünf nichts."
     kept = gate(text, "Rules")
     cases.append(("a gate keeps the cue paragraph and its neighbours only", kept.count("\n\n") == 2 and "Vier" not in kept))
+    en = "The system is the one that the model uses.\n\nThis is a rule for the world and it must not change.\n\nNothing else."
+    cases.append(("a document in English is not gated, because the cues are German", gate(en, "Rules") == en and english(en) and not english(text)))
     failed = [n for n, ok in cases if not ok]
     print(f"hegraph: {len(cases) - len(failed)} of {len(cases)} cases hold" + (" — FAILED: " + ", ".join(failed) if failed else ""))
     return 1 if failed else 0
