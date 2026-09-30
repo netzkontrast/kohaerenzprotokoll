@@ -1,8 +1,8 @@
 {
  "pairs": {
   "cooccur": 373,
-  "comention": 1844,
-  "documents": 579
+  "comention": 1348,
+  "documents": "the landed"
  },
  "rows": [
   {
@@ -461,7 +461,7 @@
   {
    "source": "cooccur, one per pair",
    "weight": 3.0,
-   "recall": 0.6739989177489178,
+   "recall": 0.7097132034632034,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -482,8 +482,8 @@
      "seeded": true
     },
     "conflict:C12": {
-     "recall": 0.0,
-     "precision": 0.0,
+     "recall": 1.0,
+     "precision": 0.125,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -578,8 +578,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.8571428571428571,
-     "precision": 0.75,
+     "recall": 0.7142857142857143,
+     "precision": 0.625,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -858,7 +858,7 @@
     "question:Q1": {
      "recall": 0.18181818181818182,
      "precision": 0.25,
-     "recall_wide": 0.6363636363636364,
+     "recall_wide": 0.5454545454545454,
      "seeded": true
     },
     "question:Q2": {
@@ -914,7 +914,7 @@
   {
    "source": "cooccur, log2(1+support)",
    "weight": 0.3,
-   "recall": 0.7208062770562771,
+   "recall": 0.7170183982683982,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -1007,8 +1007,8 @@
      "seeded": true
     },
     "question:Q1": {
-     "recall": 0.36363636363636365,
-     "precision": 0.5,
+     "recall": 0.2727272727272727,
+     "precision": 0.375,
      "recall_wide": 0.8181818181818182,
      "seeded": true
     },
@@ -1367,7 +1367,7 @@
   {
    "source": "cooccur, log2(1+support)",
    "weight": 10.0,
-   "recall": 0.7034647065897065,
+   "recall": 0.6975123256373257,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -1436,8 +1436,8 @@
      "seeded": true
     },
     "conflict:C6": {
-     "recall": 1.0,
-     "precision": 0.875,
+     "recall": 0.8571428571428571,
+     "precision": 0.75,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -1820,7 +1820,7 @@
   {
    "source": "cooccur, lift/10 (capped)",
    "weight": 1.0,
-   "recall": 0.7179112554112553,
+   "recall": 0.7141233766233767,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -1913,8 +1913,8 @@
      "seeded": true
     },
     "question:Q1": {
-     "recall": 0.2727272727272727,
-     "precision": 0.375,
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
      "recall_wide": 0.6363636363636364,
      "seeded": true
     },
@@ -2368,7 +2368,7 @@
     "question:Q1": {
      "recall": 0.18181818181818182,
      "precision": 0.25,
-     "recall_wide": 0.45454545454545453,
+     "recall_wide": 0.5454545454545454,
      "seeded": true
     },
     "question:Q2": {
@@ -3123,7 +3123,7 @@
     "question:Q1": {
      "recall": 0.09090909090909091,
      "precision": 0.125,
-     "recall_wide": 0.5454545454545454,
+     "recall_wide": 0.45454545454545453,
      "seeded": true
     },
     "question:Q2": {
@@ -3147,7 +3147,7 @@
     "question:Q5": {
      "recall": 0.2857142857142857,
      "precision": 0.25,
-     "recall_wide": 1.0,
+     "recall_wide": 0.8571428571428571,
      "seeded": true
     },
     "question:Q6": {
@@ -3179,7 +3179,7 @@
   {
    "source": "comention, log2(1+documents)",
    "weight": 0.3,
-   "recall": 0.5814664502164503,
+   "recall": 0.5755140692640693,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -3248,8 +3248,8 @@
      "seeded": true
     },
     "conflict:C6": {
-     "recall": 0.42857142857142855,
-     "precision": 0.375,
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -3934,7 +3934,7 @@
   {
    "source": "comention, npmi over documents",
    "weight": 0.3,
-   "recall": 0.7048641173641174,
+   "recall": 0.6944474506974507,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -3973,8 +3973,8 @@
      "seeded": true
     },
     "conflict:C15": {
-     "recall": 1.0,
-     "precision": 0.5,
+     "recall": 0.75,
+     "precision": 0.375,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -4253,7 +4253,7 @@
     "conflict:C11": {
      "recall": 0.6,
      "precision": 0.375,
-     "recall_wide": 1.0,
+     "recall_wide": 0.8,
      "seeded": true
     },
     "conflict:C12": {
@@ -4331,7 +4331,7 @@
     "question:Q1": {
      "recall": 0.18181818181818182,
      "precision": 0.25,
-     "recall_wide": 0.7272727272727273,
+     "recall_wide": 0.6363636363636364,
      "seeded": true
     },
     "question:Q2": {
@@ -4387,7 +4387,7 @@
   {
    "source": "comention, npmi over documents",
    "weight": 10.0,
-   "recall": 0.7862478956228957,
+   "recall": 0.7743431337181338,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -4456,8 +4456,8 @@
      "seeded": true
     },
     "conflict:C6": {
-     "recall": 1.0,
-     "precision": 0.875,
+     "recall": 0.8571428571428571,
+     "precision": 0.75,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -4494,7 +4494,7 @@
     "question:Q3": {
      "recall": 0.375,
      "precision": 0.375,
-     "recall_wide": 0.5,
+     "recall_wide": 0.375,
      "seeded": true
     },
     "question:Q4": {
@@ -4504,8 +4504,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 1.0,
-     "precision": 0.875,
+     "recall": 0.8571428571428571,
+     "precision": 0.75,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -4537,7 +4537,7 @@
   }
  ],
  "leave_one_out": {
-  "recall": 0.7654145622895623,
+  "recall": 0.7451764670514672,
   "chosen": {
    "conflict:C1": [
     "comention, npmi over documents",
@@ -4548,7 +4548,7 @@
     10.0
    ],
    "conflict:C11": [
-    "comention, npmi over documents",
+    "cooccur, lift/10 (capped)",
     10.0
    ],
    "conflict:C12": [
@@ -4564,7 +4564,7 @@
     10.0
    ],
    "conflict:C15": [
-    "comention, npmi over documents",
+    "cooccur, lift/10 (capped)",
     10.0
    ],
    "conflict:C2": [

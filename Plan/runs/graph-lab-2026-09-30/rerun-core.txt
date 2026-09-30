@@ -37,3 +37,4 @@ Seven relation types of `graph.py` walk the personalized PageRank of `graphrag.p
 | reads | 0.3 | 0.3 | 0.3–0.3 |
 | cites | 0.3 | 0.3 | 0.3–0.3 |
 | asks | 0.3 | 0.3 | 0.3–0.3 |
+

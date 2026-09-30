@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""The configurations of run4.sh against the default, paired over the cases: mean, 90 % interval, who moved."""
+"""The configurations of run4.sh, run5.sh and run6.sh against the default, paired over the cases: mean, 90 % interval, who moved."""
 import json, sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / "scripts"))
@@ -7,7 +7,9 @@ import graphlab
 D = Path(__file__).resolve().parent
 def rows(name, key):
     return {r["id"]: {"recall": r[key]} for r in json.loads((D / f"{name}.json").read_text(encoding="utf-8"))["rows"]}
-names = ["default-scaled", "he-lines-10-scaled", "he-lines-40-scaled", "without-co-mention-scaled"]
+names = ["default-scaled", "without-graph-evidence-scaled", "without-bm25-lines-scaled", "without-parallel-scaled",
+         "without-entity-unread-scaled", "without-co-mention-scaled", "he-lines-10-scaled", "he-lines-20-scaled",
+         "he-lines-40-scaled", "he-lines-80-scaled"]
 out = []
 for n in names:
     if not (D / f"{n}.json").exists():

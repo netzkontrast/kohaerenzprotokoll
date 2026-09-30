@@ -33,3 +33,4 @@ The diagnosis (`diagnose.md`) found most missed pages reached by the walk and ou
 | chosen leaving each case out (each case scored by the pair the others prefer) | 0.647 | 0.250 | 0.803 | -0.041 [-0.082, -0.005] | 1 / 5 / 18 |
 
 The best pair on all 24 cases is hub 0.5, spec 0.0 — chosen on the cases it is scored on, so an upper bound. Leaving each case out, the pair the other 23 preferred was: hub 0.5 spec 0.0 ×18, hub 0.75 spec 0.25 ×4, hub 0.25 spec 0.0 ×2.
+

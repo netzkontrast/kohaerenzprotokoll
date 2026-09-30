@@ -11,7 +11,7 @@
     "cites": 0.3,
     "asks": 0.3
    },
-   "recall": 0.6884950697450698,
+   "recall": 0.6944474506974507,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -106,7 +106,7 @@
     "question:Q1": {
      "recall": 0.18181818181818182,
      "precision": 0.25,
-     "recall_wide": 0.5454545454545454,
+     "recall_wide": 0.45454545454545453,
      "seeded": true
     },
     "question:Q2": {
@@ -128,8 +128,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.2857142857142857,
-     "precision": 0.25,
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -965,7 +965,7 @@
     "cites": 0.0,
     "asks": 0.0
    },
-   "recall": 0.6195797258297259,
+   "recall": 0.6279130591630592,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -1006,7 +1006,7 @@
     "conflict:C15": {
      "recall": 0.75,
      "precision": 0.375,
-     "recall_wide": 1.0,
+     "recall_wide": 0.75,
      "seeded": true
     },
     "conflict:C2": {
@@ -1076,8 +1076,8 @@
      "seeded": true
     },
     "question:Q4": {
-     "recall": 0.4,
-     "precision": 0.25,
+     "recall": 0.6,
+     "precision": 0.375,
      "recall_wide": 0.6,
      "seeded": true
     },
@@ -1124,7 +1124,7 @@
     "cites": 1.0,
     "asks": 0.0
    },
-   "recall": 0.6195797258297259,
+   "recall": 0.6279130591630592,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -1165,7 +1165,7 @@
     "conflict:C15": {
      "recall": 0.75,
      "precision": 0.375,
-     "recall_wide": 1.0,
+     "recall_wide": 0.75,
      "seeded": true
     },
     "conflict:C2": {
@@ -1235,8 +1235,8 @@
      "seeded": true
     },
     "question:Q4": {
-     "recall": 0.4,
-     "precision": 0.25,
+     "recall": 0.6,
+     "precision": 0.375,
      "recall_wide": 0.6,
      "seeded": true
     },
@@ -1442,7 +1442,7 @@
     "cites": 0.3,
     "asks": 0.3
    },
-   "recall": 0.6091630591630592,
+   "recall": 0.6137926887926889,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -1457,9 +1457,9 @@
      "seeded": false
     },
     "conflict:C11": {
-     "recall": 0.4,
-     "precision": 0.25,
-     "recall_wide": 0.6,
+     "recall": 0.2,
+     "precision": 0.125,
+     "recall_wide": 0.8,
      "seeded": true
     },
     "conflict:C12": {
@@ -1499,8 +1499,8 @@
      "seeded": true
     },
     "conflict:C4": {
-     "recall": 0.3333333333333333,
-     "precision": 0.375,
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
      "recall_wide": 0.5555555555555556,
      "seeded": true
     },
@@ -1553,15 +1553,15 @@
      "seeded": true
     },
     "question:Q4": {
-     "recall": 0.4,
-     "precision": 0.25,
+     "recall": 0.6,
+     "precision": 0.375,
      "recall_wide": 0.6,
      "seeded": true
     },
     "question:Q5": {
      "recall": 0.2857142857142857,
      "precision": 0.25,
-     "recall_wide": 0.42857142857142855,
+     "recall_wide": 0.5714285714285714,
      "seeded": true
     },
     "question:Q6": {
@@ -1919,7 +1919,7 @@
     "cites": 0.3,
     "asks": 0.3
    },
-   "recall": 0.6884950697450698,
+   "recall": 0.6944474506974507,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -2014,7 +2014,7 @@
     "question:Q1": {
      "recall": 0.18181818181818182,
      "precision": 0.25,
-     "recall_wide": 0.5454545454545454,
+     "recall_wide": 0.45454545454545453,
      "seeded": true
     },
     "question:Q2": {
@@ -2036,8 +2036,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.2857142857142857,
-     "precision": 0.25,
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -2149,7 +2149,7 @@
     "conflict:C6": {
      "recall": 0.42857142857142855,
      "precision": 0.375,
-     "recall_wide": 1.0,
+     "recall_wide": 0.8571428571428571,
      "seeded": true
     },
     "conflict:C7": {
@@ -2308,7 +2308,7 @@
     "conflict:C6": {
      "recall": 0.42857142857142855,
      "precision": 0.375,
-     "recall_wide": 1.0,
+     "recall_wide": 0.8571428571428571,
      "seeded": true
     },
     "conflict:C7": {
@@ -2396,7 +2396,7 @@
     "cites": 0.3,
     "asks": 0.0
    },
-   "recall": 0.6884950697450698,
+   "recall": 0.6944474506974507,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -2513,8 +2513,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.2857142857142857,
-     "precision": 0.25,
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -2700,7 +2700,7 @@
    "weights": {
     "links": 0.8,
     "contests": 1.5,
-    "raised_by": 0.8,
+    "raised_by": 1.5,
     "concerns": 0.5,
     "reads": 0.3,
     "cites": 0.3,
@@ -2946,7 +2946,7 @@
     "question:Q1": {
      "recall": 0.18181818181818182,
      "precision": 0.25,
-     "recall_wide": 0.5454545454545454,
+     "recall_wide": 0.45454545454545453,
      "seeded": true
     },
     "question:Q7": {
@@ -3010,7 +3010,7 @@
   "weights": {
    "links": 0.8,
    "contests": 1.5,
-   "raised_by": 0.8,
+   "raised_by": 1.5,
    "concerns": 0.5,
    "reads": 0.3,
    "cites": 0.3,
@@ -3022,7 +3022,7 @@
   {
    "links": 0.8,
    "contests": 1.5,
-   "raised_by": 0.8,
+   "raised_by": 1.5,
    "concerns": 0.5,
    "reads": 0.3,
    "cites": 0.3,
@@ -3030,17 +3030,8 @@
   },
   {
    "links": 0.8,
-   "contests": 1.0,
-   "raised_by": 0.8,
-   "concerns": 0.5,
-   "reads": 0.3,
-   "cites": 0.3,
-   "asks": 0.3
-  },
-  {
-   "links": 0.8,
-   "contests": 1.5,
-   "raised_by": 0.8,
+   "contests": 0.8,
+   "raised_by": 1.5,
    "concerns": 0.5,
    "reads": 0.3,
    "cites": 0.3,
@@ -3049,7 +3040,7 @@
   {
    "links": 0.8,
    "contests": 1.5,
-   "raised_by": 0.8,
+   "raised_by": 1.5,
    "concerns": 0.5,
    "reads": 0.3,
    "cites": 0.3,
@@ -3065,8 +3056,17 @@
    "asks": 0.3
   },
   {
-   "links": 1.0,
+   "links": 0.8,
    "contests": 1.5,
+   "raised_by": 1.5,
+   "concerns": 0.5,
+   "reads": 0.3,
+   "cites": 0.3,
+   "asks": 0.3
+  },
+  {
+   "links": 1.5,
+   "contests": 2.0,
    "raised_by": 0.8,
    "concerns": 0.5,
    "reads": 0.3,

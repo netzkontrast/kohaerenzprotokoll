@@ -5,27 +5,27 @@
    "weight": 3.0,
    "pairs": 239,
    "recall": 0.7148674242424242,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥2 documents, npmi, every pair",
    "weight": 10.0,
    "pairs": 239,
-   "recall": 0.7743431337181338,
-   "recall_wide": 0.8239372895622895
+   "recall": 0.7862478956228957,
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥2 documents, npmi, every pair",
    "weight": 30.0,
    "pairs": 239,
    "recall": 0.7884364478114478,
-   "recall_wide": 0.8277251683501684
+   "recall_wide": 0.8360585016835017
   },
   {
    "name": "≥2 documents, npmi, every pair",
    "weight": 100.0,
    "pairs": 239,
-   "recall": 0.7717697811447812,
+   "recall": 0.7801031144781145,
    "recall_wide": 0.8315130471380471
   },
   {
@@ -33,7 +33,7 @@
    "weight": 3.0,
    "pairs": 178,
    "recall": 0.7042854136604136,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8336910774410774
   },
   {
    "name": "≥2 documents, npmi, top 5 per page",
@@ -46,7 +46,7 @@
    "name": "≥2 documents, npmi, top 5 per page",
    "weight": 30.0,
    "pairs": 178,
-   "recall": 0.7898569023569023,
+   "recall": 0.7839045214045214,
    "recall_wide": 0.8277251683501684
   },
   {
@@ -54,14 +54,14 @@
    "weight": 100.0,
    "pairs": 178,
    "recall": 0.7748271404521404,
-   "recall_wide": 0.8329335016835017
+   "recall_wide": 0.841266835016835
   },
   {
    "name": "≥2 documents, npmi, top 10 per page",
    "weight": 3.0,
    "pairs": 231,
    "recall": 0.7148674242424242,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8336910774410774
   },
   {
    "name": "≥2 documents, npmi, top 10 per page",
@@ -75,7 +75,7 @@
    "weight": 30.0,
    "pairs": 231,
    "recall": 0.7884364478114478,
-   "recall_wide": 0.8277251683501684
+   "recall_wide": 0.8360585016835017
   },
   {
    "name": "≥2 documents, npmi, top 10 per page",
@@ -89,27 +89,27 @@
    "weight": 3.0,
    "pairs": 239,
    "recall": 0.7148674242424242,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥2 documents, npmi, top 20 per page",
    "weight": 10.0,
    "pairs": 239,
-   "recall": 0.7743431337181338,
-   "recall_wide": 0.8239372895622895
+   "recall": 0.7862478956228957,
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥2 documents, npmi, top 20 per page",
    "weight": 30.0,
    "pairs": 239,
    "recall": 0.7884364478114478,
-   "recall_wide": 0.8277251683501684
+   "recall_wide": 0.8360585016835017
   },
   {
    "name": "≥2 documents, npmi, top 20 per page",
    "weight": 100.0,
    "pairs": 239,
-   "recall": 0.7717697811447812,
+   "recall": 0.7801031144781145,
    "recall_wide": 0.8315130471380471
   },
   {
@@ -124,7 +124,7 @@
    "weight": 10.0,
    "pairs": 239,
    "recall": 0.7435230278980279,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥2 documents, npmi², every pair",
@@ -180,14 +180,14 @@
    "weight": 10.0,
    "pairs": 231,
    "recall": 0.7435230278980279,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥2 documents, npmi², top 10 per page",
    "weight": 30.0,
    "pairs": 231,
    "recall": 0.7938236531986532,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥2 documents, npmi², top 10 per page",
@@ -208,7 +208,7 @@
    "weight": 10.0,
    "pairs": 239,
    "recall": 0.7435230278980279,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥2 documents, npmi², top 20 per page",
@@ -229,13 +229,13 @@
    "weight": 3.0,
    "pairs": 215,
    "recall": 0.7148674242424242,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥3 documents, npmi, every pair",
    "weight": 10.0,
    "pairs": 215,
-   "recall": 0.7743431337181338,
+   "recall": 0.7802955146705148,
    "recall_wide": 0.8291456228956228
   },
   {
@@ -257,7 +257,7 @@
    "weight": 3.0,
    "pairs": 159,
    "recall": 0.7042854136604136,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥3 documents, npmi, top 5 per page",
@@ -278,14 +278,14 @@
    "weight": 100.0,
    "pairs": 159,
    "recall": 0.7664938071188073,
-   "recall_wide": 0.8329335016835017
+   "recall_wide": 0.8367213804713804
   },
   {
    "name": "≥3 documents, npmi, top 10 per page",
    "weight": 3.0,
    "pairs": 208,
    "recall": 0.7148674242424242,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥3 documents, npmi, top 10 per page",
@@ -313,13 +313,13 @@
    "weight": 3.0,
    "pairs": 215,
    "recall": 0.7148674242424242,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥3 documents, npmi, top 20 per page",
    "weight": 10.0,
    "pairs": 215,
-   "recall": 0.7743431337181338,
+   "recall": 0.7802955146705148,
    "recall_wide": 0.8291456228956228
   },
   {
@@ -348,7 +348,7 @@
    "weight": 10.0,
    "pairs": 215,
    "recall": 0.7435230278980279,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥3 documents, npmi², every pair",
@@ -404,7 +404,7 @@
    "weight": 10.0,
    "pairs": 208,
    "recall": 0.7435230278980279,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥3 documents, npmi², top 10 per page",
@@ -432,7 +432,7 @@
    "weight": 10.0,
    "pairs": 215,
    "recall": 0.7435230278980279,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥3 documents, npmi², top 20 per page",
@@ -453,14 +453,14 @@
    "weight": 3.0,
    "pairs": 187,
    "recall": 0.7148674242424242,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥5 documents, npmi, every pair",
    "weight": 10.0,
    "pairs": 187,
    "recall": 0.7743431337181338,
-   "recall_wide": 0.8291456228956228
+   "recall_wide": 0.8343539562289561
   },
   {
    "name": "≥5 documents, npmi, every pair",
@@ -481,13 +481,13 @@
    "weight": 3.0,
    "pairs": 135,
    "recall": 0.7042854136604136,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥5 documents, npmi, top 5 per page",
    "weight": 10.0,
    "pairs": 135,
-   "recall": 0.7518563612313613,
+   "recall": 0.7578087421837422,
    "recall_wide": 0.8478956228956229
   },
   {
@@ -509,7 +509,7 @@
    "weight": 3.0,
    "pairs": 182,
    "recall": 0.7148674242424242,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥5 documents, npmi, top 10 per page",
@@ -537,14 +537,14 @@
    "weight": 3.0,
    "pairs": 187,
    "recall": 0.7148674242424242,
-   "recall_wide": 0.8253577441077441
+   "recall_wide": 0.8374789562289563
   },
   {
    "name": "≥5 documents, npmi, top 20 per page",
    "weight": 10.0,
    "pairs": 187,
    "recall": 0.7743431337181338,
-   "recall_wide": 0.8291456228956228
+   "recall_wide": 0.8343539562289561
   },
   {
    "name": "≥5 documents, npmi, top 20 per page",
@@ -572,7 +572,7 @@
    "weight": 10.0,
    "pairs": 187,
    "recall": 0.7435230278980279,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥5 documents, npmi², every pair",
@@ -586,7 +586,7 @@
    "weight": 100.0,
    "pairs": 187,
    "recall": 0.7568707912457912,
-   "recall_wide": 0.8193918350168349
+   "recall_wide": 0.8231797138047138
   },
   {
    "name": "≥5 documents, npmi², top 5 per page",
@@ -606,7 +606,7 @@
    "name": "≥5 documents, npmi², top 5 per page",
    "weight": 30.0,
    "pairs": 135,
-   "recall": 0.771186568061568,
+   "recall": 0.7781310125060127,
    "recall_wide": 0.8291456228956228
   },
   {
@@ -628,7 +628,7 @@
    "weight": 10.0,
    "pairs": 182,
    "recall": 0.7435230278980279,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥5 documents, npmi², top 10 per page",
@@ -642,7 +642,7 @@
    "weight": 100.0,
    "pairs": 182,
    "recall": 0.7568707912457912,
-   "recall_wide": 0.8193918350168349
+   "recall_wide": 0.8231797138047138
   },
   {
    "name": "≥5 documents, npmi², top 20 per page",
@@ -656,7 +656,7 @@
    "weight": 10.0,
    "pairs": 187,
    "recall": 0.7435230278980279,
-   "recall_wide": 0.8239372895622895
+   "recall_wide": 0.8291456228956228
   },
   {
    "name": "≥5 documents, npmi², top 20 per page",
@@ -670,78 +670,78 @@
    "weight": 100.0,
    "pairs": 187,
    "recall": 0.7568707912457912,
-   "recall_wide": 0.8193918350168349
+   "recall_wide": 0.8231797138047138
   }
  ],
  "leave_one_out": {
-  "recall": 0.7600273569023569,
+  "recall": 0.7524515993265993,
   "chosen": {
    "conflict:C1": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C10": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C11": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C12": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C13": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C14": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C15": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C2": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C3": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C4": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C5": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C6": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C7": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C8": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "conflict:C9": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "question:Q1": [
-    "≥2 documents, npmi², every pair",
-    30.0
+    "≥2 documents, npmi, every pair",
+    10.0
    ],
    "question:Q2": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "question:Q3": [
@@ -753,11 +753,11 @@
     30.0
    ],
    "question:Q5": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "question:Q6": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "question:Q7": [
@@ -765,11 +765,11 @@
     30.0
    ],
    "question:Q8": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ],
    "question:Q9": [
-    "≥3 documents, npmi, every pair",
+    "≥2 documents, npmi, every pair",
     30.0
    ]
   }

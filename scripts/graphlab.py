@@ -23,6 +23,9 @@ is right.
                                                   #     `graphrag.pagerank`, each off by default
     python3 scripts/graphlab.py he                # E5: page pairs the HyperExtract contracts read (`hegraph.py`),
                                                   #     by relation family, at every weight
+    python3 scripts/graphlab.py links             # E2c: a second label set — the wiki's own `[[links]]`: each page's
+                                                  #     linked pages, found with its links removed, with and without
+                                                  #     the co-mention relation; and the co-mentioned pairs no page links
     python3 scripts/graphlab.py selftest
 
 Standard library only; `enrich` reads the shared store (`Plan/derived/ask.db`) with sqlite3
@@ -521,8 +524,8 @@ def cmd_enrich(lab: Lab) -> str:
     text = ("# E2 — relations the corpus adds\n\n"
             f"Derived from the shared store, never from the wiki's labels: {len(co)} page pairs the corpus's learned "
             f"co-occurrence sets hold together (`askextract.py`: two or three pages in one paragraph in five documents "
-            f"or more, above lift 1.5), and {len(together)} pairs standing in one paragraph in any document, over "
-            f"{n_docs} documents. Each is added to every case's graph as a term–term relation, beside the stated ones, "
+            f"or more, above lift 1.5), and {len(together)} pairs standing in one paragraph in at least two "
+            f"documents, counted over {n_docs} documents. Each is added to every case's graph as a term–term relation, beside the stated ones, "
             f"which keep their default weights. A scale — one per pair, log of the support, lift, normalised PMI — is "
             f"the relation's own; the weight is its type's.\n\n" + table("recall of the wiki's own labels", lines, floor)
             + "\nLeaving each case out, the pair of source and weight the other 23 preferred was: "
@@ -591,7 +594,9 @@ def cmd_he(lab: Lab) -> str:
     sources["every relation pair"] = allrel
     sources["co-read: pages one claim holds together"] = co
     lines = [("floor: the stated relations at their default weights", floor, default)]
-    summary = {"claims": len({(r["id"], r["run"]) for r in rows}), "pages_touched": len(pages_with), "gold_pages": len(gold),
+    documents = {r["line"].split(":")[1] for r in rows if r["line"].startswith("line:")}
+    summary = {"claims": len({(r["id"], r["run"]) for r in rows}), "documents": len(documents),
+               "pages_touched": len(pages_with), "gold_pages": len(gold),
                "gold_pages_touched": len(gold & pages_with), "families": {}, "rows": []}
     reach = {}
     for name, pairs in sources.items():
@@ -615,16 +620,156 @@ def cmd_he(lab: Lab) -> str:
             reach[name] = new
     summary["newly_reachable_gold"] = reach
     text = ("# E5 — what the HyperExtract contracts read\n\n"
-            f"{summary['claims']} claims from the contracts' pilot runs are in the store; they touch {summary['pages_touched']} "
+            f"{summary['claims']} claims from the contracts' runs on {summary['documents']} documents are in the store; they touch {summary['pages_touched']} "
             f"of the wiki's 106 pages, and {summary['gold_pages_touched']} of the {summary['gold_pages']} distinct gold pages of the "
             "24 cases. From them: page pairs a claim relates (its source and its target each contain a page), and pairs of pages "
             "one claim holds together. Each set is added to every case's graph as a term–term relation beside the stated ones, "
-            "which keep their default weights. The pilot ran eight documents, so the size of what could move is bounded by "
-            "the pairs, not by the weights.\n\n"
+            "which keep their default weights. The size of what could move is bounded by the documents "
+            "the contracts ran on and the pairs they yield, not by the weights.\n\n"
             + table("recall of the wiki's own labels", lines, floor)
             + "\nGold pages a case could not reach before and can reach with the pairs added (walking the new type at weight 1): "
             + ", ".join(f"{k}: {v}" for k, v in reach.items()) + ".\n")
     write("e5-he", text, summary)
+    return text
+
+
+# ── E2c: a second label set — the wiki's own links ────────────────────────────
+
+class LinkLab(Lab):
+    """The wiki's `[[links]]` as a second label set. Every page with at least `min_links` linked pages is a case: the
+    page is the seed, the pages it links or is linked from are the gold, and every `links` edge touching it is removed
+    from the case's graph, so the walk must find them by the other relations. The 24 cases of `Lab` are the conflicts
+    and questions; these are a different kind of label, about a hundred of them. The same hand wrote both — a link is
+    the author's markup — but the relation under test, co-mention, is counted over the source documents and never over
+    the wiki, so no link enters it."""
+
+    def __init__(self, graph: dict | None = None, min_links: int = 3):
+        self.graph = graph or kg.build()
+        near = defaultdict(set)
+        for e in self.graph["edges"]:
+            a, b = e["source"], e["target"]
+            if e["type"] == "links" and a != b and all(self.graph["nodes"].get(x, {}).get("type") == "term" for x in (a, b)):
+                near[a].add(b)
+                near[b].add(a)
+        pages = sorted(p for p, n in near.items() if len(n) >= min_links)
+        self.cases = [{"id": f"links:{p}", "query": p, "gold": near[p]} for p in pages]
+        self.held = {f"links:{p}": {"nodes": self.graph["nodes"], "evidence": self.graph["evidence"],
+                                    "edges": [e for e in self.graph["edges"]
+                                              if not (e["type"] == "links" and p in (e["source"], e["target"]))]}
+                     for p in pages}
+        self.seeded = {f"links:{p}": {p: (1.0, "the page itself")} for p in pages}
+        self.gold = {f"links:{p}": near[p] for p in pages}
+        self.order = sorted(self.gold)
+
+    def run(self, weights: dict[str, float], extra: list[dict] | None = None,
+            ids: list[str] | None = None, k: int = K, hub: float = 0.0, spec: float = 0.0) -> dict[str, dict]:
+        """As `Lab.run`, except that the seed is not its own answer: it is left out of the terms it ranks."""
+        rows = {}
+        for cid in ids or self.order:
+            g = self.held[cid]
+            if extra:
+                g = {**g, "edges": g["edges"] + extra}
+            (seed,) = self.seeded[cid]
+            rank = graphrag.pagerank(g, {seed: 1.0}, weights, hub, spec)
+            terms = sorted((n for n in rank if n != seed and g["nodes"].get(n, {}).get("type") == "term"),
+                           key=lambda n: (-rank[n], n))[:2 * k]
+            gold = self.gold[cid]
+            top, wide = set(terms[:k]), set(terms)
+            hit = len(top & gold)
+            rows[cid] = {"recall": hit / len(gold), "precision": hit / len(top) if top else None,
+                         "recall_wide": len(wide & gold) / len(gold), "seeded": True}
+        return rows
+
+
+LINK_WEIGHTS = (1.0, 3.0, 10.0, 30.0, 100.0)
+RAW_WEIGHTS = (0.1, 0.3, 1.0, 3.0, 10.0)
+
+
+def cmd_links(lab: Lab) -> str:
+    ll = LinkLab(lab.graph)
+    default = dict(graphrag.WEIGHTS)
+    floor = ll.run(default)
+    stored = stored_comention()
+    known = set(ll.graph["nodes"])
+    base = {p: v for p, v in stored.items() if v["docs"] >= 2 and v["npmi"] > 0 and p <= known}
+    scales = {"npmi²": ({p: v["npmi"] ** 2 for p, v in base.items()}, LINK_WEIGHTS),
+              "npmi": ({p: v["npmi"] for p, v in base.items()}, LINK_WEIGHTS),
+              "one per pair": ({p: 1.0 for p in base}, RAW_WEIGHTS),
+              "log2(1+documents)": ({p: math.log2(1 + v["docs"]) for p, v in base.items()}, RAW_WEIGHTS)}
+    grid = {}
+    for name, (pairs, weights) in scales.items():
+        extra = edges_from(pairs, "comention", "MENTIONS in one paragraph")
+        for w in weights:
+            grid[(name, w)] = ll.run({**default, "comention": w}, extra)
+            record("graph-lab-links", f"comention {name}, weight {w}", grid[(name, w)], {"comention": w}, ll,
+                   f"E2c: {len(pairs)} pairs, the wiki's links as labels")
+    record("graph-lab-links", "floor", floor, default, ll, "E2c: the stated relations, the seed's own links removed")
+    lines = [("floor: the stated relations at their default weights, the page's own links removed", floor, default)]
+    for (name, w), rows in grid.items():
+        lines.append((f"co-mention, ≥2 documents, {name}, weight {w}", rows, {**default, "comention": w}))
+    candidates = {**grid, ("none", 0.0): floor}
+    held, chosen = {}, {}
+    for cid in ll.order:
+        rest = [i for i in ll.order if i != cid]
+        pick = max(candidates, key=lambda k: (objective({i: candidates[k][i] for i in rest}), k == ("none", 0.0)))
+        chosen[cid] = pick
+        held[cid] = candidates[pick][cid]
+    lines.append((f"chosen leaving each case out, over all {len(grid)} configurations and the floor", held, {}))
+    record("graph-lab-links", "configuration chosen leaving one out", held, {}, ll, "E2c: leave-one-out over scale and weight")
+    picks = defaultdict(int)
+    for k in chosen.values():
+        picks[k] += 1
+    npmi2 = edges_from(scales["npmi²"][0], "comention", "MENTIONS in one paragraph")
+    lines.append(("co-mention alone (every stated type off), npmi², weight 1", ll.run({"comention": 1.0}, npmi2), {"comention": 1.0}))
+    # how the relation and the links overlap, and which co-mentioned pairs no page links
+    linked = {frozenset((e["source"], e["target"])) for e in ll.graph["edges"]
+              if e["type"] == "links" and e["source"] != e["target"]
+              and all(ll.graph["nodes"].get(x, {}).get("type") == "term" for x in (e["source"], e["target"]))}
+    # the page pairs the HyperExtract contracts read, on the same cases (E5 asked it of the 24)
+    claims = he_claims()
+    relation, co_read = he_pairs(claims)
+    relation = {k: {p for p in v if p <= known} for k, v in relation.items()}
+    sources = {f"{k.lower()} pairs": v for k, v in sorted(relation.items()) if len(v) >= 3}
+    sources["every relation pair"] = set().union(*relation.values()) if relation else set()
+    sources["co-read: pages one claim holds together"] = {p for p in co_read if p <= known}
+    he_lines = [("floor: the stated relations at their default weights, the page's own links removed", floor, default)]
+    for name, pairs in sources.items():
+        kind = "he_" + name.split()[0].replace(":", "").replace("-", "_")
+        extra = edges_from({p: 1.0 for p in pairs}, kind, f"hegraph: {name}")
+        for w in (0.3, 1.0, 3.0):
+            weights = {**default, kind: w}
+            rows_ = ll.run(weights, extra)
+            he_lines.append((f"{name} ({len(pairs)} pairs, {len(pairs - linked)} not already `links`), weight {w}", rows_, weights))
+            record("graph-lab-links", f"{name}, weight {w}", rows_, weights, ll, f"E2c: {len(pairs)} pairs read by HyperExtract contracts")
+    both = [p for p in base if p in linked]
+    unlinked = sorted((p for p in base if p not in linked), key=lambda p: (-stored[p]["npmi"], sorted(p)))
+    summary = {"cases": len(ll.order), "gold_pages": sum(len(g) for g in ll.gold.values()), "linked_pairs": len(linked),
+               "comention_pairs": len(base), "comention_pairs_linked": len(both),
+               "linked_pairs_comentioned": len({p for p in linked if p in base}),
+               "leave_one_out": {"recall": mean(held), "chosen": {c: list(k) for c, k in chosen.items()}},
+               "unlinked": [{"pair": sorted(p), "docs": stored[p]["docs"], "npmi": stored[p]["npmi"]} for p in unlinked[:40]]}
+    name_of = lambda n: n.split(":", 1)[1]
+    text = ("# E2c — the wiki's own links as a second label set\n\n"
+            f"{len(ll.order)} pages each link or are linked from at least three pages ({summary['gold_pages']} linked pages in all). "
+            "For each, the page is the seed, every `links` edge touching it is removed, and the walk ranks the other pages; "
+            "the gold is the pages it was linked to. The page itself is left out of what it ranks. The floor is the stated "
+            "relations at their default weights; each row adds the counted co-mention relation "
+            f"({len(base)} pairs standing in one paragraph in at least two documents, weighted by the scale named) at the "
+            "weight given. The labels are the same hand's as the pages; the relation is counted over the source documents "
+            "and never over the wiki, so no link enters it.\n\n"
+            + table("recall of the wiki's own links", lines, floor)
+            + "\nLeaving each case out, the configuration the others preferred was: "
+            + ", ".join(f"{n} {w} ×{c}" for (n, w), c in sorted(picks.items(), key=lambda x: -x[1])) + ".\n\n"
+            + table("recall of the wiki's own links, with the page pairs the HyperExtract contracts read added", he_lines, floor)
+            + "\n" + f"**How the relation and the links overlap.** The wiki holds {len(linked)} linked pairs of pages; the relation holds "
+            f"{len(base)} pairs, of which {len(both)} are linked ({len(both) / max(len(base), 1):.0%}); and {len(both)} of the "
+            f"{len(linked)} links ({len(both) / max(len(linked), 1):.0%}) stand in one paragraph in at least two documents.\n\n"
+            "**Pairs the corpus holds together that no page links** — the 40 with the highest normalised PMI. A proposal for "
+            "the author to read, never a link: a link is never inferred.\n\n"
+            "| pair | documents | npmi |\n|---|---|---|\n"
+            + "\n".join(f"| `{name_of(a)}` — `{name_of(b)}` | {stored[p]['docs']} | {stored[p]['npmi']:.2f} |"
+                        for p in unlinked[:40] for a, b in [sorted(p)]) + "\n")
+    write("e2c-links", text, summary)
     return text
 
 
@@ -720,6 +865,21 @@ def selftest() -> int:
         got = {t["id"] for t in pack["terms"]}
         same_recall &= abs(default[c["id"]]["recall"] - len(got & c["gold"]) / len(c["gold"])) < 1e-9
     cases.append(("the default weights score each case as graphrag.retrieve does", same_recall))
+    # E2c: the wiki's own links as labels
+    toy = {"nodes": {f"term:{k}": {"id": f"term:{k}", "type": "term", "surfaces": [k]} for k in "abcde"},
+           "edges": [{"source": "term:a", "target": f"term:{k}", "type": "links"} for k in "bcd"]
+                    + [{"source": "term:b", "target": "term:c", "type": "links"}], "evidence": {}}
+    ll = LinkLab(toy, min_links=3)
+    cases.append(("a page with three linked pages is a case, a page with fewer is not, and the gold is its linked pages",
+                  ll.order == ["links:term:a"] and ll.gold["links:term:a"] == {"term:b", "term:c", "term:d"}))
+    cases.append(("the case's own links are removed from its graph and the others kept",
+                  ll.held["links:term:a"]["edges"] == [{"source": "term:b", "target": "term:c", "type": "links"}]))
+    hidden = ll.run({"links": 1.0})["links:term:a"]
+    found = ll.run({"links": 1.0, "comention": 1.0},
+                   [{"source": "term:a", "target": "term:b", "type": "comention", "w": 1.0}])["links:term:a"]
+    cases.append(("a hidden link is found only through another relation, and the seed is not its own answer",
+                  hidden["recall"] == 0.0 and hidden["precision"] is None and abs(found["recall"] - 2 / 3) < 1e-9
+                  and found["precision"] == 1.0))   # b by the new edge, c through b's own link; d is not reached
     failed = [n for n, ok in cases if not ok]
     print(f"graphlab: {len(cases) - len(failed)} of {len(cases)} cases hold"
           + (" — FAILED: " + ", ".join(failed) if failed else ""))
@@ -730,7 +890,7 @@ def main(argv: list[str]) -> int:
     if argv[:1] == ["selftest"]:
         return selftest()
     commands = {"diagnose": cmd_diagnose, "core": cmd_core, "enrich": cmd_enrich, "comention": cmd_comention,
-                "hub": cmd_hub, "he": cmd_he}
+                "hub": cmd_hub, "he": cmd_he, "links": cmd_links}
     if argv[:1] and argv[0] in commands:
         text = commands[argv[0]](Lab())
         if argv[0] == "diagnose":

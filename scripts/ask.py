@@ -775,7 +775,10 @@ def main(argv: list[str]) -> int:
         res = bench(int(opt("--budget", BUDGET)), chosen, co, hl, pc)
         tag = "" if chosen == DEFAULT_FINDERS else "-" + "+".join(f.replace("-", "") for f in chosen)[:60]
         tag += (f"-co{co}" if co != COMENTION else "") + (f"-he{hl}" if hl != HE_LINES else "") + (f"-pr{pc:g}" if pc else "")
-        out = RUNS / f"bench-{time.strftime('%Y-%m-%d')}-{res['budget']}{tag}.json"
+        # the store the bench ran on is in the name: the same finders on a later store are another measurement, and
+        # a run on the same day no longer overwrites the record of the one before it (the first scaled-pass benches did)
+        import askdb
+        out = RUNS / f"bench-{time.strftime('%Y-%m-%d')}-{res['budget']}{tag}-{askdb.input_hash()[:8]}.json"
         out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
         return 0
     if cmd == "pack":

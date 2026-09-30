@@ -32,3 +32,4 @@ A miss is one of three, and only one of them is a weight: **no seed** (the quest
 **96 gold pages over 24 cases:** 48 hit, 39 outranked, 0 unreachable, 9 no seed.
 
 Weights can move the *outranked*; the *unreachable* and *no seed* need a relation or a surface the graph does not have — which is what an alias list, a co-occurrence relation or a contract that extracts term relations would add.
+

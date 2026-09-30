@@ -1,28 +1,637 @@
 {
- "claims": 620,
- "pages_touched": 36,
+ "claims": 3152,
+ "documents": 19,
+ "pages_touched": 66,
  "gold_pages": 48,
- "gold_pages_touched": 25,
+ "gold_pages_touched": 32,
  "families": {
+  "causal pairs": {
+   "pairs": 15,
+   "new": 4
+  },
   "contrast pairs": {
-   "pairs": 6,
-   "new": 1
+   "pairs": 22,
+   "new": 5
   },
   "role pairs": {
    "pairs": 8,
    "new": 4
   },
   "every relation pair": {
-   "pairs": 19,
-   "new": 5
+   "pairs": 42,
+   "new": 12
   },
   "co-read: pages one claim holds together": {
-   "pairs": 38,
-   "new": 12
+   "pairs": 106,
+   "new": 44
   }
  },
  "rows": [
   {
+   "family": "causal pairs",
+   "weight": 0.1,
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "family": "causal pairs",
+   "weight": 0.3,
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "family": "causal pairs",
+   "weight": 1.0,
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.5454545454545454,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
+   "family": "causal pairs",
+   "weight": 3.0,
+   "recall": 0.6884950697450698,
+   "rows": {
+    "conflict:C1": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C10": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "conflict:C11": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C12": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C13": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C14": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C15": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C2": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C3": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C4": {
+     "recall": 0.4444444444444444,
+     "precision": 0.5,
+     "recall_wide": 0.8888888888888888,
+     "seeded": true
+    },
+    "conflict:C5": {
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 0.8,
+     "seeded": true
+    },
+    "conflict:C6": {
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "conflict:C7": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C8": {
+     "recall": 1.0,
+     "precision": 0.125,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "conflict:C9": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q1": {
+     "recall": 0.18181818181818182,
+     "precision": 0.25,
+     "recall_wide": 0.45454545454545453,
+     "seeded": true
+    },
+    "question:Q2": {
+     "recall": 0.0,
+     "precision": null,
+     "recall_wide": 0.0,
+     "seeded": false
+    },
+    "question:Q3": {
+     "recall": 0.25,
+     "precision": 0.25,
+     "recall_wide": 0.5,
+     "seeded": true
+    },
+    "question:Q4": {
+     "recall": 0.6,
+     "precision": 0.375,
+     "recall_wide": 0.6,
+     "seeded": true
+    },
+    "question:Q5": {
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.8571428571428571,
+     "seeded": true
+    },
+    "question:Q6": {
+     "recall": 0.8333333333333334,
+     "precision": 0.625,
+     "recall_wide": 0.8333333333333334,
+     "seeded": true
+    },
+    "question:Q7": {
+     "recall": 1.0,
+     "precision": 0.25,
+     "recall_wide": 1.0,
+     "seeded": true
+    },
+    "question:Q8": {
+     "recall": 0.75,
+     "precision": 0.375,
+     "recall_wide": 0.75,
+     "seeded": true
+    },
+    "question:Q9": {
+     "recall": 1.0,
+     "precision": 0.375,
+     "recall_wide": 1.0,
+     "seeded": true
+    }
+   }
+  },
+  {
    "family": "contrast pairs",
    "weight": 0.1,
    "recall": 0.6884950697450698,
@@ -176,7 +785,7 @@
   {
    "family": "contrast pairs",
    "weight": 0.3,
-   "recall": 0.6884950697450698,
+   "recall": 0.6944474506974507,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -293,8 +902,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.2857142857142857,
-     "precision": 0.25,
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -327,7 +936,7 @@
   {
    "family": "contrast pairs",
    "weight": 1.0,
-   "recall": 0.6884950697450698,
+   "recall": 0.6944474506974507,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -444,8 +1053,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.2857142857142857,
-     "precision": 0.25,
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -478,7 +1087,7 @@
   {
    "family": "contrast pairs",
    "weight": 3.0,
-   "recall": 0.6884950697450698,
+   "recall": 0.6944474506974507,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -495,7 +1104,7 @@
     "conflict:C11": {
      "recall": 0.6,
      "precision": 0.375,
-     "recall_wide": 0.8,
+     "recall_wide": 1.0,
      "seeded": true
     },
     "conflict:C12": {
@@ -573,7 +1182,7 @@
     "question:Q1": {
      "recall": 0.18181818181818182,
      "precision": 0.25,
-     "recall_wide": 0.5454545454545454,
+     "recall_wide": 0.45454545454545453,
      "seeded": true
     },
     "question:Q2": {
@@ -595,8 +1204,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.2857142857142857,
-     "precision": 0.25,
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -1082,7 +1691,7 @@
   {
    "family": "role pairs",
    "weight": 3.0,
-   "recall": 0.6944474506974507,
+   "recall": 0.6884950697450698,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -1199,8 +1808,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.42857142857142855,
-     "precision": 0.375,
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -1384,7 +1993,7 @@
   {
    "family": "every relation pair",
    "weight": 0.3,
-   "recall": 0.6884950697450698,
+   "recall": 0.6944474506974507,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -1501,8 +2110,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.2857142857142857,
-     "precision": 0.25,
+     "recall": 0.42857142857142855,
+     "precision": 0.375,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -1686,7 +2295,7 @@
   {
    "family": "every relation pair",
    "weight": 3.0,
-   "recall": 0.6944474506974507,
+   "recall": 0.6861141173641174,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -1701,8 +2310,8 @@
      "seeded": false
     },
     "conflict:C11": {
-     "recall": 0.6,
-     "precision": 0.375,
+     "recall": 0.4,
+     "precision": 0.25,
      "recall_wide": 0.8,
      "seeded": true
     },
@@ -1751,7 +2360,7 @@
     "conflict:C5": {
      "recall": 0.4,
      "precision": 0.25,
-     "recall_wide": 0.8,
+     "recall_wide": 0.6,
      "seeded": true
     },
     "conflict:C6": {
@@ -1988,7 +2597,7 @@
   {
    "family": "co-read: pages one claim holds together",
    "weight": 0.3,
-   "recall": 0.6944474506974507,
+   "recall": 0.6572450697450698,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -2009,8 +2618,8 @@
      "seeded": true
     },
     "conflict:C12": {
-     "recall": 1.0,
-     "precision": 0.125,
+     "recall": 0.0,
+     "precision": 0.0,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -2027,8 +2636,8 @@
      "seeded": true
     },
     "conflict:C15": {
-     "recall": 0.75,
-     "precision": 0.375,
+     "recall": 1.0,
+     "precision": 0.5,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -2083,7 +2692,7 @@
     "question:Q1": {
      "recall": 0.18181818181818182,
      "precision": 0.25,
-     "recall_wide": 0.45454545454545453,
+     "recall_wide": 0.5454545454545454,
      "seeded": true
     },
     "question:Q2": {
@@ -2105,8 +2714,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.42857142857142855,
-     "precision": 0.375,
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -2139,7 +2748,7 @@
   {
    "family": "co-read: pages one claim holds together",
    "weight": 1.0,
-   "recall": 0.6944474506974507,
+   "recall": 0.653457190957191,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -2156,12 +2765,12 @@
     "conflict:C11": {
      "recall": 0.6,
      "precision": 0.375,
-     "recall_wide": 0.8,
+     "recall_wide": 1.0,
      "seeded": true
     },
     "conflict:C12": {
-     "recall": 1.0,
-     "precision": 0.125,
+     "recall": 0.0,
+     "precision": 0.0,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -2178,8 +2787,8 @@
      "seeded": true
     },
     "conflict:C15": {
-     "recall": 0.75,
-     "precision": 0.375,
+     "recall": 1.0,
+     "precision": 0.5,
      "recall_wide": 1.0,
      "seeded": true
     },
@@ -2232,8 +2841,8 @@
      "seeded": true
     },
     "question:Q1": {
-     "recall": 0.18181818181818182,
-     "precision": 0.25,
+     "recall": 0.09090909090909091,
+     "precision": 0.125,
      "recall_wide": 0.45454545454545453,
      "seeded": true
     },
@@ -2256,8 +2865,8 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.42857142857142855,
-     "precision": 0.375,
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
      "recall_wide": 0.8571428571428571,
      "seeded": true
     },
@@ -2290,7 +2899,7 @@
   {
    "family": "co-read: pages one claim holds together",
    "weight": 3.0,
-   "recall": 0.6527807840307841,
+   "recall": 0.6069294131794133,
    "rows": {
     "conflict:C1": {
      "recall": 1.0,
@@ -2305,9 +2914,9 @@
      "seeded": false
     },
     "conflict:C11": {
-     "recall": 0.6,
-     "precision": 0.375,
-     "recall_wide": 0.8,
+     "recall": 0.4,
+     "precision": 0.25,
+     "recall_wide": 1.0,
      "seeded": true
     },
     "conflict:C12": {
@@ -2349,19 +2958,19 @@
     "conflict:C4": {
      "recall": 0.4444444444444444,
      "precision": 0.5,
-     "recall_wide": 0.8888888888888888,
+     "recall_wide": 0.6666666666666666,
      "seeded": true
     },
     "conflict:C5": {
      "recall": 0.4,
      "precision": 0.25,
-     "recall_wide": 0.8,
+     "recall_wide": 0.6,
      "seeded": true
     },
     "conflict:C6": {
      "recall": 0.42857142857142855,
      "precision": 0.375,
-     "recall_wide": 0.8571428571428571,
+     "recall_wide": 0.7142857142857143,
      "seeded": true
     },
     "conflict:C7": {
@@ -2383,9 +2992,9 @@
      "seeded": true
     },
     "question:Q1": {
-     "recall": 0.18181818181818182,
-     "precision": 0.25,
-     "recall_wide": 0.5454545454545454,
+     "recall": 0.09090909090909091,
+     "precision": 0.125,
+     "recall_wide": 0.36363636363636365,
      "seeded": true
     },
     "question:Q2": {
@@ -2397,7 +3006,7 @@
     "question:Q3": {
      "recall": 0.25,
      "precision": 0.25,
-     "recall_wide": 0.5,
+     "recall_wide": 0.375,
      "seeded": true
     },
     "question:Q4": {
@@ -2407,20 +3016,20 @@
      "seeded": true
     },
     "question:Q5": {
-     "recall": 0.42857142857142855,
-     "precision": 0.375,
-     "recall_wide": 0.8571428571428571,
+     "recall": 0.2857142857142857,
+     "precision": 0.25,
+     "recall_wide": 0.7142857142857143,
      "seeded": true
     },
     "question:Q6": {
-     "recall": 0.8333333333333334,
-     "precision": 0.625,
+     "recall": 0.6666666666666666,
+     "precision": 0.5,
      "recall_wide": 0.8333333333333334,
      "seeded": true
     },
     "question:Q7": {
-     "recall": 1.0,
-     "precision": 0.25,
+     "recall": 0.5,
+     "precision": 0.125,
      "recall_wide": 1.0,
      "seeded": true
     },

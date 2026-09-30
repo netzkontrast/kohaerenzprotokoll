@@ -40,3 +40,4 @@ Derived from the shared store, never from the wiki's labels: 373 page pairs the 
 | chosen leaving each case out (the source and weight the other cases prefer; the floor is a candidate) | 0.745 | 0.347 | 0.793 | +0.057 [-0.015, +0.130] | 6 / 2 / 16 |
 
 Leaving each case out, the pair of source and weight the other 23 preferred was: comention, npmi over documents 10.0 ×21, cooccur, lift/10 (capped) 10.0 ×3.
+

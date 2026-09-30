@@ -27,3 +27,4 @@ E2 found that pages standing in one paragraph, weighted by their normalised poin
 | co-mention alone, ≥5 documents, every pair | 0.736 | 0.426 | 0.797 | +0.048 [-0.034, +0.138] | 6 / 4 / 14 |
 
 Leaving each case out, the configuration the other 23 preferred was: ≥3 documents, npmi, every pair, weight 30.0 ×20, ≥2 documents, npmi², every pair, weight 30.0 ×3, ≥5 documents, npmi, top 5 per page, weight 30.0 ×1.
+

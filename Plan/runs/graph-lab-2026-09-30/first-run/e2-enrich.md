@@ -1,6 +1,6 @@
 # E2 — relations the corpus adds
 
-Derived from the shared store, never from the wiki's labels: 373 page pairs the corpus's learned co-occurrence sets hold together (`askextract.py`: two or three pages in one paragraph in five documents or more, above lift 1.5), and 1348 pairs standing in one paragraph in at least two documents, counted over the landed documents. Each is added to every case's graph as a term–term relation, beside the stated ones, which keep their default weights. A scale — one per pair, log of the support, lift, normalised PMI — is the relation's own; the weight is its type's.
+Derived from the shared store, never from the wiki's labels: 373 page pairs the corpus's learned co-occurrence sets hold together (`askextract.py`: two or three pages in one paragraph in five documents or more, above lift 1.5), and 1844 pairs standing in one paragraph in any document, over 579 documents. Each is added to every case's graph as a term–term relation, beside the stated ones, which keep their default weights. A scale — one per pair, log of the support, lift, normalised PMI — is the relation's own; the weight is its type's.
 
 ### recall of the wiki's own labels
 
@@ -10,33 +10,33 @@ Derived from the shared store, never from the wiki's labels: 373 page pairs the 
 | cooccur, one per pair, weight 0.1 | 0.694 | 0.278 | 0.816 | +0.006 [+0.000, +0.018] | 1 / 0 / 23 |
 | cooccur, one per pair, weight 0.3 | 0.705 | 0.284 | 0.830 | +0.016 [+0.000, +0.037] | 2 / 0 / 22 |
 | cooccur, one per pair, weight 1.0 | 0.705 | 0.290 | 0.843 | +0.016 [-0.008, +0.043] | 4 / 1 / 19 |
-| cooccur, one per pair, weight 3.0 | 0.710 | 0.318 | 0.853 | +0.021 [-0.033, +0.077] | 4 / 2 / 18 |
+| cooccur, one per pair, weight 3.0 | 0.674 | 0.318 | 0.853 | -0.014 [-0.112, +0.071] | 4 / 3 / 17 |
 | cooccur, one per pair, weight 10.0 | 0.687 | 0.335 | 0.828 | -0.002 [-0.100, +0.090] | 6 / 4 / 14 |
-| cooccur, log2(1+support), weight 0.1 | 0.709 | 0.290 | 0.830 | +0.021 [+0.005, +0.042] | 3 / 0 / 21 |
-| cooccur, log2(1+support), weight 0.3 | 0.717 | 0.307 | 0.846 | +0.029 [-0.005, +0.069] | 4 / 1 / 19 |
+| cooccur, log2(1+support), weight 0.1 | 0.709 | 0.290 | 0.834 | +0.021 [+0.005, +0.042] | 3 / 0 / 21 |
+| cooccur, log2(1+support), weight 0.3 | 0.721 | 0.312 | 0.846 | +0.032 [-0.002, +0.073] | 4 / 1 / 19 |
 | cooccur, log2(1+support), weight 1.0 | 0.690 | 0.335 | 0.827 | +0.001 [-0.098, +0.097] | 5 / 4 / 15 |
 | cooccur, log2(1+support), weight 3.0 | 0.698 | 0.347 | 0.828 | +0.009 [-0.095, +0.108] | 6 / 4 / 14 |
-| cooccur, log2(1+support), weight 10.0 | 0.698 | 0.347 | 0.786 | +0.009 [-0.102, +0.114] | 6 / 5 / 13 |
+| cooccur, log2(1+support), weight 10.0 | 0.703 | 0.352 | 0.786 | +0.015 [-0.098, +0.125] | 6 / 5 / 13 |
 | cooccur, lift/10 (capped), weight 0.1 | 0.694 | 0.278 | 0.816 | +0.006 [+0.000, +0.018] | 1 / 0 / 23 |
 | cooccur, lift/10 (capped), weight 0.3 | 0.705 | 0.284 | 0.822 | +0.016 [+0.000, +0.037] | 2 / 0 / 22 |
-| cooccur, lift/10 (capped), weight 1.0 | 0.714 | 0.295 | 0.834 | +0.026 [+0.006, +0.050] | 3 / 0 / 21 |
+| cooccur, lift/10 (capped), weight 1.0 | 0.718 | 0.301 | 0.834 | +0.029 [+0.008, +0.056] | 4 / 0 / 20 |
 | cooccur, lift/10 (capped), weight 3.0 | 0.746 | 0.347 | 0.843 | +0.058 [-0.009, +0.126] | 5 / 1 / 18 |
 | cooccur, lift/10 (capped), weight 10.0 | 0.758 | 0.369 | 0.833 | +0.069 [-0.020, +0.160] | 6 / 4 / 14 |
-| comention, one per pair, ≥2 documents, weight 0.1 | 0.647 | 0.267 | 0.816 | -0.042 [-0.125, +0.000] | 0 / 1 / 23 |
+| comention, one per pair, ≥2 documents, weight 0.1 | 0.647 | 0.267 | 0.812 | -0.042 [-0.125, +0.000] | 0 / 1 / 23 |
 | comention, one per pair, ≥2 documents, weight 0.3 | 0.635 | 0.256 | 0.816 | -0.054 [-0.133, -0.004] | 0 / 3 / 21 |
 | comention, one per pair, ≥2 documents, weight 1.0 | 0.586 | 0.239 | 0.779 | -0.102 [-0.186, -0.029] | 0 / 6 / 18 |
 | comention, one per pair, ≥2 documents, weight 3.0 | 0.576 | 0.227 | 0.690 | -0.113 [-0.196, -0.041] | 0 / 8 / 16 |
 | comention, one per pair, ≥2 documents, weight 10.0 | 0.563 | 0.216 | 0.618 | -0.126 [-0.212, -0.052] | 0 / 9 / 15 |
-| comention, log2(1+documents), weight 0.1 | 0.628 | 0.250 | 0.803 | -0.061 [-0.140, -0.007] | 0 / 4 / 20 |
-| comention, log2(1+documents), weight 0.3 | 0.576 | 0.227 | 0.779 | -0.113 [-0.196, -0.041] | 0 / 8 / 16 |
+| comention, log2(1+documents), weight 0.1 | 0.628 | 0.250 | 0.813 | -0.061 [-0.140, -0.007] | 0 / 4 / 20 |
+| comention, log2(1+documents), weight 0.3 | 0.581 | 0.233 | 0.779 | -0.107 [-0.190, -0.034] | 0 / 7 / 17 |
 | comention, log2(1+documents), weight 1.0 | 0.564 | 0.216 | 0.632 | -0.125 [-0.208, -0.049] | 0 / 8 / 16 |
 | comention, log2(1+documents), weight 3.0 | 0.556 | 0.210 | 0.628 | -0.133 [-0.219, -0.058] | 0 / 9 / 15 |
 | comention, log2(1+documents), weight 10.0 | 0.556 | 0.210 | 0.628 | -0.133 [-0.219, -0.058] | 0 / 9 / 15 |
 | comention, npmi over documents, weight 0.1 | 0.694 | 0.278 | 0.816 | +0.006 [+0.000, +0.018] | 1 / 0 / 23 |
-| comention, npmi over documents, weight 0.3 | 0.694 | 0.278 | 0.816 | +0.006 [+0.000, +0.018] | 1 / 0 / 23 |
+| comention, npmi over documents, weight 0.3 | 0.705 | 0.284 | 0.816 | +0.016 [+0.000, +0.037] | 2 / 0 / 22 |
 | comention, npmi over documents, weight 1.0 | 0.705 | 0.284 | 0.822 | +0.016 [+0.000, +0.037] | 2 / 0 / 22 |
-| comention, npmi over documents, weight 3.0 | 0.715 | 0.301 | 0.825 | +0.026 [+0.006, +0.049] | 4 / 0 / 20 |
-| comention, npmi over documents, weight 10.0 | 0.774 | 0.358 | 0.824 | +0.086 [+0.033, +0.147] | 6 / 0 / 18 |
-| chosen leaving each case out (the source and weight the other cases prefer; the floor is a candidate) | 0.745 | 0.347 | 0.793 | +0.057 [-0.015, +0.130] | 6 / 2 / 16 |
+| comention, npmi over documents, weight 3.0 | 0.715 | 0.301 | 0.837 | +0.026 [+0.006, +0.049] | 4 / 0 / 20 |
+| comention, npmi over documents, weight 10.0 | 0.786 | 0.369 | 0.829 | +0.098 [+0.035, +0.170] | 6 / 0 / 18 |
+| chosen leaving each case out (the source and weight the other cases prefer; the floor is a candidate) | 0.765 | 0.364 | 0.808 | +0.077 [+0.001, +0.161] | 6 / 1 / 17 |
 
-Leaving each case out, the pair of source and weight the other 23 preferred was: comention, npmi over documents 10.0 ×21, cooccur, lift/10 (capped) 10.0 ×3.
+Leaving each case out, the pair of source and weight the other 23 preferred was: comention, npmi over documents 10.0 ×23, cooccur, lift/10 (capped) 10.0 ×1.
