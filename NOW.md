@@ -48,8 +48,16 @@ findings, each reproduced before it was fixed on the branch that follows #110:
 - The pilot's table said 0 unchecked quotations. There were 11, and it met two of its four bars.
 - `yield.py` counted no tokens and no corrections.
 
-What stays open is step 6 itself: its costs and quality measured, and every check's output tied to
-the commit it ran on.
+Every check now runs on GitHub, one step each (`.github/workflows/checks.yml`), on every pull request
+and every push to `main`. What stays open is step 6 itself, its costs and quality measured.
+
+**A second review, of #120 at `f690eba`, found four gaps in the new write gates.** Each was
+reproduced and then fixed with a regression case that fails on the old code:
+- the clean reader's apply gate passed an empty note and would have copied it over an existing one
+  (`a879787`);
+- `readings.py` took a plural `## Readings —` heading, which no frontmatter counts (`9c20125`);
+- `census.py check` compared only the counts, not the lines and surfaces columns, and `census.py
+  draft` wrote its candidates' „…“ as uncited quotations (`4f3c11a`).
 
 **The parked September draft, 2026-09-29:** „The novel in Legacy is Not the quality I
 want". So revising it in place is off the table. Its prose is never a voice reference
@@ -820,8 +828,12 @@ The author, 2026-09-30: „starte diese nicht parallel … beobachte jeden der z
 lernlabor zu verstehen … gib ihnen unterschiedliche Anweisungen … versuche auch die letzten paar prs
 zu verstehen und passe und erweitere die Pipeline entsprechend an". So the ten are read one at a time,
 each under its own instruction, and each run is recorded in `Plan/runs/reader-lab-2026-09-30/`.
-What the first twelve readers cost is measured there from their transcripts. `account.py order` is red
-until the twelve are reconciled, and says so.
+What the first twelve readers cost is measured there from their transcripts.
+
+**Each document is reconciled as it lands**, not all twelve after the last extraction. So
+`account.py order`, which CI runs, is red only between an extraction and its reconciliation. Next are
+documents 52 and 53, the two #110 extracted. Their lookups and the readings brief are in
+`Plan/runs/step6-readings-52-53/`.
 
 **A parallel session builds `ask` (PR #119, decisions 016 and 017), and #120 carries it merged in.**
 Two things from it change this lab:
