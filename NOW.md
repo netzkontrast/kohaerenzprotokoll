@@ -48,7 +48,8 @@ None of these blocks the pipeline. The full context of each is where it is named
 5. **Process decisions** (context in `Plan/questions-for-the-author.md`, Part 2): whether DSPy runs on Claude through `claude -p` stand (decision 011) and whether SIMBA (about $8) runs; whether `fold()` adopts the plural rule of decision 010;
    the rule for a reviewed page that a new source contradicts (needed before the first promotion); chapter-level differences as conflict records, chapters in the graph and the app, and when the app is rebuilt;
    `GOAL.md` against the working agreement; whether the new tools read every document as second readers; which session reads which document when several run.
-6. **The novel's open content questions** — where the sources disagree (conflict records C1–C15, question pages Q1–Q9) and what no source settles — are in `Plan/questions-for-the-author.md`, Part 1.
+6. **An independent gold for the retrieval bench** (`Plan/concept/evaluation-audit_2026-09-30.md` §3). The bench's gold is 92 % lines the pages already quote and no unread document can score, so it tests the wiki's own graph, not discovery. What only you can give: grades on about 60 lines (to calibrate a judge), and, if you will, 20–30 questions with the lines you would point to; and a yes to a small first-party Claude spend (a few dollars) for pooled judging.
+7. **The novel's open content questions** — where the sources disagree (conflict records C1–C15, question pages Q1–Q9) and what no source settles — are in `Plan/questions-for-the-author.md`, Part 1.
 
 ## Half-done — where the next session starts
 

@@ -40,7 +40,9 @@ Four of the 24 document slots the finder recovers are in documents the scaled st
 and Q5, `storyform-und-outline` in Q5), and in those cases document recall did not rise — the finder's 40 lines are a fixed budget,
 and lines of the new documents replaced lines of the old. Of 569 gold-document slots over the 24 cases the default finds 139 and
 `he-lines` recovers 24; 182 are missed although a contract has read the document, and 226 are missed in documents no contract has
-read. **Coverage is not what limits the finder; its seeds and its ranking are.**
+read. The paired difference over the 24 cases — not two intervals laid side by side — is −0.0003 [−0.0028, +0.0021] in document recall and −0.0005 [−0.0017, +0.0008] in
+line recall, 22 of 24 cases identical (`Plan/runs/graph-lab-2026-09-30/eval-audit.py`). **Coverage did not limit the finder here; that its seeds and its ranking do is an
+inference from the ceiling counts, not a test** (`Plan/concept/evaluation-audit_2026-09-30.md`).
 
 ## What was chosen
 
