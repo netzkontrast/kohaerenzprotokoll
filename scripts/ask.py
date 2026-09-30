@@ -48,7 +48,8 @@ RUNS = ROOT / "Plan" / "runs" / "ask"
 LANDED = ROOT / "Sources" / "ask"
 MANIFEST = LANDED / "manifest.jsonl"
 SKILL_DIRS = [ROOT / ".agents" / "skills"]
-WINDOW = 3            # lines on each side of an anchor
+WINDOW = 3            # lines on each side of an anchor when its paragraph is too long
+PER_PARA = 6          # a paragraph up to 13 lines is shown whole
 PER_DOC = 60          # at most this many lines of one document
 BUDGET = 60_000       # characters of source windows in one pack
 BM25_HITS = 30
@@ -110,8 +111,17 @@ def route(question: str, kind: str, store=None, graph: dict | None = None) -> di
         line = int(str(r["via"]).rsplit(":L", 1)[-1]) if ":L" in str(r["via"]) else None
         if line:
             anchors.append({"doc": r["doc"], "line": line, "finder": "entity-unread"})
-    path = []
     seeds = [x["term"] for x in evidence["seeds"]]
+    # paragraphs anywhere in the corpus where the seed terms stand together (askextract: MENTIONS)
+    for r in s.comention(seeds[:4]):
+        anchors.append({"doc": r["slug"], "line": r["first"], "finder": "co-mention", "span": (r["first"], r["last"])})
+    # the same passage carried into other documents (learned `parallel` hyperedges)
+    for a in [a for a in anchors if a["finder"] in ("graph-evidence", "co-mention")][:15]:
+        span = a.get("span") or s.paragraph(a["doc"], a["line"])
+        if span:
+            for q in s.parallels(f"para:{a['doc']}:{span[0]}"):
+                anchors.append({"doc": q["slug"], "line": q["first"], "finder": "parallel", "span": (q["first"], q["last"])})
+    path = []
     if kind == "compare" and len(seeds) >= 2:
         p = s.path(seeds[0], seeds[1])
         for a, b in zip(p.get("path", []), p.get("path", [])[1:]):
@@ -167,7 +177,9 @@ def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store
     for d in r["docs"]:
         spans = []
         for line in sorted(d["lines"]):
-            lo, hi = max(1, line - WINDOW), line + WINDOW
+            para = s.paragraph(d["doc"], line)
+            lo, hi = (para if para and para[1] - para[0] <= 2 * PER_PARA else (line - WINDOW, line + WINDOW))
+            lo, hi = max(1, min(lo, line - 1)), max(hi, line + 1)
             if spans and lo <= spans[-1][1] + 1:
                 spans[-1][1] = max(spans[-1][1], hi)
             else:

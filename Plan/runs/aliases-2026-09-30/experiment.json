@@ -1,0 +1,131 @@
+{
+ "rows": 89,
+ "canaries": 7,
+ "thresholds": {
+  "chars": 1.01,
+  "context": 0.994
+ },
+ "methods": {
+  "fold": {
+   "tp": 4,
+   "fp": 1,
+   "fn": 40,
+   "tn": 44,
+   "precision": 0.8,
+   "recall": 0.091,
+   "accuracy": 0.539,
+   "vetoed": [],
+   "false_merges": [
+    "false merge J104: RS-A / RSA"
+   ]
+  },
+  "plural": {
+   "tp": 13,
+   "fp": 1,
+   "fn": 31,
+   "tn": 44,
+   "precision": 0.929,
+   "recall": 0.295,
+   "accuracy": 0.64,
+   "vetoed": [],
+   "false_merges": [
+    "false merge J104: RS-A / RSA"
+   ]
+  },
+  "gloss": {
+   "tp": 0,
+   "fp": 3,
+   "fn": 44,
+   "tn": 42,
+   "precision": 0.0,
+   "recall": 0.0,
+   "accuracy": 0.472,
+   "vetoed": [
+    "Negentropie / Entropie"
+   ],
+   "false_merges": [
+    "false merge J5: Negentropie / Entropie",
+    "false merge J68: Ursprungs-Ich / Juna",
+    "false merge J75: Ursprungs-Ich / AEGIS"
+   ]
+  },
+  "bilingual": {
+   "tp": 1,
+   "fp": 0,
+   "fn": 43,
+   "tn": 45,
+   "precision": 1.0,
+   "recall": 0.023,
+   "accuracy": 0.517,
+   "vetoed": [],
+   "false_merges": []
+  },
+  "chars": {
+   "tp": 0,
+   "fp": 0,
+   "fn": 44,
+   "tn": 45,
+   "precision": 0.0,
+   "recall": 0.0,
+   "accuracy": 0.506,
+   "vetoed": [],
+   "false_merges": []
+  },
+  "context": {
+   "tp": 2,
+   "fp": 0,
+   "fn": 42,
+   "tn": 45,
+   "precision": 1.0,
+   "recall": 0.045,
+   "accuracy": 0.528,
+   "vetoed": [],
+   "false_merges": []
+  },
+  "vote": {
+   "tp": 13,
+   "fp": 4,
+   "fn": 31,
+   "tn": 41,
+   "precision": 0.765,
+   "recall": 0.295,
+   "accuracy": 0.607,
+   "vetoed": [
+    "Negentropie / Entropie"
+   ],
+   "false_merges": [
+    "false merge J5: Negentropie / Entropie",
+    "false merge J68: Ursprungs-Ich / Juna",
+    "false merge J75: Ursprungs-Ich / AEGIS",
+    "false merge J104: RS-A / RSA"
+   ]
+  },
+  "chars-loo": {
+   "tp": 0,
+   "fp": 1,
+   "fn": 44,
+   "tn": 44,
+   "precision": 0.0,
+   "recall": 0.0,
+   "accuracy": 0.494,
+   "vetoed": [],
+   "false_merges": [
+    "false merge J104: RS-A / RSA"
+   ]
+  },
+  "context-loo": {
+   "tp": 2,
+   "fp": 1,
+   "fn": 42,
+   "tn": 44,
+   "precision": 0.667,
+   "recall": 0.045,
+   "accuracy": 0.517,
+   "vetoed": [],
+   "false_merges": [
+    "false merge J48: Kael / System Kael"
+   ]
+  }
+ },
+ "seconds": 2.5
+}

@@ -154,11 +154,26 @@ def collect() -> dict:
             if f"doc:{slug}" in nodes:
                 edges.append((key, f"doc:{slug}", {"n": n, "line": first}, "P_NAMED_IN"))
 
+    # everything a program can read off the documents, and learned hyperedges (askextract.py)
+    import askextract
+    surfaces = {}
+    for key, n in g["nodes"].items():
+        if n["type"] == "term":
+            for srf in n.get("surfaces", []):
+                surfaces.setdefault(srf, key)
+    chapters = {int(k.rsplit("-", 1)[1]) for k in nodes if k.startswith("chapter:kap-")}
+    docs = [(r["slug"], ROOT / r["export_path"]) for r in manifest() if (ROOT / r["export_path"]).exists()]
+    mech = askextract.extract(docs, surfaces, [k.split(":", 1)[1] for k in nodes if k.startswith("entity:")], chapters)
+    for key, val in mech["nodes"].items():
+        if key not in nodes:
+            nodes[key] = val
+    edges += [e for e in mech["edges"] if e[0] in nodes and e[1] in nodes]
+
     quotes = [(ev["doc"], ev["line"], ev["quote"], page)
               for page, evs in g.get("evidence", {}).items()
               for ev in evs if ev.get("status") == "verified" and ev.get("doc")]
     return {"nodes": nodes, "edges": edges, "quotes": quotes,
-            "stated_types": sorted({e["type"].upper() for e in g["edges"]} | {"READS", "DEPENDS_ON"})}
+            "stated_types": sorted({t for *_, t in edges if not t.startswith("P_")})}
 
 
 # ── build and check ───────────────────────────────────────────────────────────
@@ -287,6 +302,36 @@ class Store:
                                 f"ORDER BY bm25({table}) LIMIT ?", args + [limit]).fetchall()
         keys = cols.split(", ") + ["score"]
         return [dict(zip(keys, r)) for r in rows]
+
+    def paragraph(self, slug: str, line: int) -> tuple[int, int] | None:
+        """The block a line stands in: its first and last line (all blocks loaded once)."""
+        if not hasattr(self, "_paras"):
+            import bisect  # noqa: F401
+            self._paras = defaultdict(list)
+            for r in self.cypher("MATCH (p:Paragraph) RETURN p.slug AS s, p.first AS a, p.last AS b"):
+                self._paras[r["s"]].append((r["a"], r["b"]))
+            for v in self._paras.values():
+                v.sort()
+        import bisect
+        spans = self._paras.get(slug, [])
+        i = bisect.bisect_right(spans, (line, 10**9)) - 1
+        return spans[i] if i >= 0 and spans[i][0] <= line <= spans[i][1] else None
+
+    def comention(self, terms: list[str], limit: int = 40) -> list[dict]:
+        """Paragraphs anywhere in the corpus where several of these terms stand together."""
+        if not terms:
+            return []
+        need = 2 if len(terms) > 1 else 1
+        ids = ", ".join(f"'{t}'" for t in terms)
+        return self.cypher(f"MATCH (p:Paragraph)-[:HAS_LINE]->(l:Line)-[:MENTIONS]->(t:Term) WHERE t.id IN [{ids}] "
+                           f"WITH p, count(DISTINCT t.id) AS k WHERE k >= {need} "
+                           f"RETURN p.slug AS slug, p.first AS first, p.last AS last, k ORDER BY k DESC LIMIT {limit}")
+
+    def parallels(self, para: str) -> list[dict]:
+        """The same passage in other documents: co-members of a learned `parallel` hyperedge."""
+        return self.cypher(f"MATCH (h:Hyperedge {{method:'parallel'}})-[:P_MEMBER]->(p:Paragraph {{id:'{para}'}}) "
+                           "MATCH (h)-[:P_MEMBER]->(q:Paragraph) WHERE q.id <> p.id "
+                           "RETURN q.slug AS slug, q.first AS first, q.last AS last LIMIT 20")
 
     def window(self, slug: str, first: int, last: int) -> list[tuple[int, str]]:
         return self.sql.execute("SELECT line, text FROM lines WHERE slug=? AND line BETWEEN ? AND ? "

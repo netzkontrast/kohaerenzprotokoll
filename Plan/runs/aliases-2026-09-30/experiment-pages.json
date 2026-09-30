@@ -1,0 +1,45 @@
+{
+ "rows": 673,
+ "positives": 133,
+ "methods": {
+  "chars": {
+   "thresholds": [
+    0.736,
+    0.736,
+    0.738,
+    0.736,
+    0.736
+   ],
+   "tp": 32,
+   "fp": 0,
+   "precision": 1.0,
+   "recall": 0.241
+  },
+  "context": {
+   "thresholds": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "tp": 2,
+   "fp": 0,
+   "precision": 1.0,
+   "recall": 0.015
+  },
+  "both": {
+   "thresholds": [
+    0.754,
+    0.738,
+    0.738,
+    0.738,
+    0.738
+   ],
+   "tp": 11,
+   "fp": 0,
+   "precision": 1.0,
+   "recall": 0.083
+  }
+ }
+}
