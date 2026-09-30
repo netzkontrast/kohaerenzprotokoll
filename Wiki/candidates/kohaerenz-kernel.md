@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Kernel (K₁)
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra"]
 aliases: ["Kohärenz-Kernel"]
 gathered: "2026-09-24"
 ---
@@ -18,6 +18,10 @@ gathered: "2026-09-24"
 The document takes K\_1 as the reading AEGIS carries by default: „Standardmäßig wird AEGIS als der Kohärenz-Kernel ($K\_1$) verstanden, der Ordnung wahrt.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L79] It then says AEGIS is not that. It sets a second K\_1 against it, under the heading „Die wahre Kohärenz ($K\_1$) & Kohärenz-Wahrheit“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L94] and places it: „Die tatsächliche $K\_1$-Kohärenz entsteht erst im "Mosaik-Herz" (Phase III), wenn das System parakonsistente Logik zulässt und die Entropie (das Trauma) nicht löscht, sondern funktional in das Gesamtnetzwerk (Mutual Information) integriert.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L102]
 
 The template's check asks for it: „Erreicht das System wahre K\_1 (Kohärenz/Integration)?“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L145]
+
+## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the Coherence Kernel, and what the reader must synthesize
+
+The audit names the kernel in Axis I as the „Coherence Kernel“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L3] beside the Erasure Kernel. The audit calls the polyphonic pronouns and mosaic structure „mechanical tools that force the reader to synthesize“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L36] the kernel. The Silence of the phone call is, in the audit's words, the „substrate that survives when simulated meaning collapses into“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L40] the other kernel's entropy.
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
