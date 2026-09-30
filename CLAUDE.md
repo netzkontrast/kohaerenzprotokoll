@@ -364,6 +364,14 @@ three above and each tool's own — and prints one line per suite: `held`,
 `FAILED`, or `not run` when the suite's interpreter is absent. A suite that did
 not run has not passed, and the exit status says so.
 
+**And GitHub runs the checks on every commit** (`.github/workflows/checks.yml`,
+since 2026-09-30). Each check is its own step: prose numbers, pipeline order,
+quotations, frontmatter, the judgement replay, chapter pages, the Sources overview,
+and `selftests.py --only std`, the suites the standard library runs alone. The
+dspy, typesafe and Hyper-Extract suites need their venvs and run only here, with
+`askdb.py`'s among them. The review of #110 is why the workflow exists: it found
+green results claimed for a commit nothing had checked.
+
 ### The wiki links, and a link is not a mention
 
 Two marks, two meanings: `` `Nexus` `` names the term, `[[nexus]]` points at the
