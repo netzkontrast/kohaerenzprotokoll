@@ -250,7 +250,7 @@ On the count, thirteen alters and no world count; on the correspondence, the alt
 
 ## 2026-09-27 — `mining-report-kohaerenz-protokoll-narrative-building-blocks`, 2026-05-08, the Narrative Building Blocks report
 
-**Three worlds with a carrier each — LogOS, Mnemosyne, Cerberus, names this wiki reads as Guardians; the document never writes `Guardian` (0) — the classes of alters in them, and no count of either.**
+**Three worlds with a carrier each — [[logos|LogOS]], Mnemosyne, [[cerberus|Cerberus]], names this wiki reads as Guardians; the document never writes `Guardian` (0) — the classes of alters in them, and no count of either.**
 „The conflict between these perspectives is literalized through the systemic manipulation of the Core Worlds." ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L73] Three seeds, proposals: „Seed-11 The Sterility of KW1" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83], „Carrier: LogOS" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83], which „This manifests the "Apparently Normal Personality" (ANP)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L83]; „Seed-12 The Mnemosyne Archipelago" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L84], carrier Mnemosyne, „holding the EPs in a state of perpetual trauma-time" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L84]; „Seed-13 The Cerberus Labyrinth (KW3)" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85], carrier Cerberus, whose status line says it „Validates the "Fight" EP's role in system defense as per the TSDP model" ^[mining-report-kohaerenz-protokoll-narrative-building-blocks.md:L85]. The Archipelago has no number, and `KW2` and `KW4` stand 0 times.
 No alter count: `thirteen` 0, its `13`s are Seed-13 (L85, L213) (`05-verify-readers.txt`).
 On the counts, nothing; on the correspondence, worlds to classes — KW1 the ANP, the Archipelago the EPs, KW3 the Fight EP — and each world to a carrier the wiki reads as a Guardian, not to an alter.
@@ -349,3 +349,11 @@ The Editorial & Stylistic Guide calls its eight-alter table, with `Praetor` and 
 The last report, An Architecture of the Self, names the split's own sources rather than picking a side by fiat: „While sources like the 'World Bible' and 'System Kael Analyse' offer variant lists, this analysis adopts the canonical ensemble from 'Romanideen' for narrative consistency as specified in the novel's master blueprint." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L1718] — and its own table is the eight-alter one, with Praetor and Oblivion.
 The four Kernwelten (`KW1: Logos-Prime`, `KW2: Mnemosyne-Archipel`, `KW3: Cerberus-Labyrinth`, `KW4: Kairos-Potentialis`) are each a psychological domain of several alters at once — KW1 „Logic, Order, Analysis (ANPs: Lex, Kael)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L295] and KW2 „Emotion, Memory, Trauma (EPs)" ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L296] in the Concept Paper's table — not one alter to one world.
 On the counts: eight in four reports, eleven in two, in the same file; on the correspondence: a domain of several alters per world, neither row 8's `Akt-Marker` nor a stated one-to-one.
+
+## 2026-09-30 — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit
+
+**The audit names four alters, as modules, and no count of Kern-Welten.**
+
+„The alters— Lex, Nyx, Kiko, and Lia —must be treated as discrete functional modules.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L12] (L12); at the climax the four stand again: „When Kael drops the amnesic barriers between Lex, Nyx, Kiko, and Lia, he becomes a mutual-information-dense structure.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L38] (L38). It calls the group „discrete functional modules“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L12], and names no fifth.
+
+Stands as a document that gives four alters, named; it says nothing on the number of Kern-Welten.

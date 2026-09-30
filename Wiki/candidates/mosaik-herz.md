@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework"]
 gathered: "2026-09-24"
 ---
 
@@ -19,7 +19,11 @@ the Dramatica-Synthese of 2026-04-30, names neither: in its table it is Juna, th
 Storyform A (its L126). (Until it was read this said nine sources.) The Ultra-Plot of
 2026-02-26 makes it Kap 34's own title and the product formed there from the fused
 [[alters]] and Juna's saved essence, not merely a place named in passing (`05-verify-readers.txt`).
-**The earliest-dated source on this page uses the name as a chapter's own title, and keeps it afterward as Kael's felt state.** The Kohärenz-Protokoll narrative of 2025-04-27 titles its own Kapitel 11 `Das Mosaik-Herz`, and returns to the name through the rest of Teil 1 and in Kapitel 23's concept header. Whether the later Kap-11 and Kap-34 uses come from it, no source says.
+**The earliest-dated source on this page uses the name as a chapter's own title, and keeps it afterward as [[kael|Kael]]'s felt state.** The Kohärenz-Protokoll narrative of 2025-04-27 titles its own Kapitel 11 `Das Mosaik-Herz`, and returns to the name through the rest of Teil 1 and in Kapitel 23's concept header. Whether the later Kap-11 and Kap-34 uses come from it, no source says.
+
+## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — where true K\_1 coherence is placed
+
+One sentence names it. The document places true coherence there and gives a phase: „Die tatsächliche $K\_1$-Kohärenz entsteht erst im "Mosaik-Herz" (Phase III), wenn das System parakonsistente Logik zulässt und die Entropie (das Trauma) nicht löscht, sondern funktional in das Gesamtnetzwerk (Mutual Information) integriert.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L102] It says nothing of a chapter or a place, and does not say which phases precede Phase III.
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 

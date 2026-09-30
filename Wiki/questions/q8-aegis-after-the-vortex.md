@@ -104,3 +104,11 @@ Written from what [[algorithmische-melancholie]], [[aegis]], [[oblivion]] and
 [[vortex]] already quote; every quotation here stands on one of those pages. No
 document was read for this page; the Reset-Doc's two headings were looked up only to
 say where to look.
+
+## 2026-09-30 — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit
+
+**The audit sets two ends for AEGIS after the climax: its own hardware overloaded, and not destroyed but in a permanent paradox.**
+
+„AEGIS’s attempt to erase this structure triggers a massive Landauer heat spike“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L38], „overloading its own hardware“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L38] (L38). Under the label „Algorithmische Melancholie“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L39]: „AEGIS is not destroyed but enters a state of permanent, broken paradox“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L39], „a fractured AI in a state of terminal self-reflection“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L39] (L39). It says nothing of Oblivion or of another taking over AEGIS's function.
+
+Stands as one more answer to the record's question, two ends side by side that the audit does not connect; the record stays open.

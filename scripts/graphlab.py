@@ -429,8 +429,17 @@ def selftest() -> int:
         pack = graphrag.retrieve(next(c["query"] for c in lab.cases if c["id"] == cid), lab.held[cid])
         same_terms &= terms == [t["id"] for t in pack["terms"]]
     cases.append(("the lab ranks as graphrag.retrieve does", same_terms))
+    # the bench's number is not written here, because the wiki grows and it moves (0.694 until the
+    # readings of documents 52–54, which is what broke this case on 2026-09-30); every case is compared
     default = lab.run(dict(graphrag.WEIGHTS))
-    cases.append(("the default weights score what graphrag.py bench prints", abs(mean(default) - 0.694) < 0.005))
+    same_recall = True
+    for c in lab.cases:
+        if not lab.seeded[c["id"]]:
+            continue
+        pack = graphrag.retrieve(c["query"], lab.held[c["id"]])
+        got = {t["id"] for t in pack["terms"]}
+        same_recall &= abs(default[c["id"]]["recall"] - len(got & c["gold"]) / len(c["gold"])) < 1e-9
+    cases.append(("the default weights score each case as graphrag.retrieve does", same_recall))
     failed = [n for n, ok in cases if not ok]
     print(f"graphlab: {len(cases) - len(failed)} of {len(cases)} cases hold"
           + (" — FAILED: " + ", ".join(failed) if failed else ""))

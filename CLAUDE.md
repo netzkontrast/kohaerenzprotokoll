@@ -127,14 +127,15 @@ but the distinction was real while it lasted and the script that measures it
 stays.
 
 **58 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **58
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **51
-<!--state:documents.reconciled--> are reconciled** — the seven others are the first
-extractions of step 6's sample, waiting for their reconciliation (see `NOW.md`).
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **54
+<!--state:documents.reconciled--> are reconciled** — documents 52–54, the first extractions of step 6's
+sample, on 2026-09-30 at the author's word so the order holds again; the four others, read by Haiku in the
+reader lab of 2026-09-30, wait for their reconciliation (see `NOW.md`).
 Of the reconciled, five are `theorie-physik`,
 five `worldbuilding`, one `aegis`, six `storyform`, six `charaktere`, ten
-`kernkonzept`, thirteen `plot-outline`, one `theorie-psychologie`, one `theorie-logik`, one
-`theorie-philosophie` and two `theorie-mathematik` — thirty-three of them from the canon era, and
-documents 40–51 the first read from before it since document 6.
+`kernkonzept`, thirteen `plot-outline`, one `theorie-psychologie`, two `theorie-logik`, two
+`theorie-philosophie`, two `theorie-mathematik` and one `audit` — thirty-three of them from the canon era, and
+documents 40–54 the first read from before it since document 6.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
@@ -145,7 +146,7 @@ has been promoted.
 
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
-**584 <!--state:chapters.readings--> readings** from the nine read documents
+**585 <!--state:chapters.readings--> readings** from the nine read documents
 that go chapter by chapter, one that names six chapters, one that names three, a narrative text of two, an annotated narrative text of Kap 0 that names five, that text's prose without its annotation, a world bible that names nine, a philosophy catalogue that names nineteen, a drafting run's log that names three, a chapter file of Kap 25 that names two, a storyform companion that names nine, a theory report that names three, seven English documents of 2026-05-08 that name the Vortex's two chapters, and one of them Chapter 1 and Chapter 39, a Dramatica report that names the Vortex's two, three pre-2026 plans that go chapter by chapter from Kapitel 1 to 39, a storyform study that names nine, that report's earlier run, which names the Vortex's two, and a narrative text of twenty-two chapters, its own Kapitel 1–12 and 14–23; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
@@ -160,12 +161,15 @@ about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
 **`python3 scripts/account.py order` does not hold** — `false`
-<!--state:order.holds-->, and says so with exit status 1. The three step-6 documents
-above have a census and a note and no reconciliation. It holds again when every
-document with a census has a note and a reconciliation, each ran against the
-state the previous one left, and the wiki matches what the newest run recorded
-leaving. **Until 2026-09-30 the check exited 0 either way, and this line said
-`true` over a red state.** The review of PR #110 found both. It was red from the 2026-09-25 scan
+<!--state:order.holds--> on this branch, and holds on `main`: the four documents
+the Haiku readers extracted in the reader lab of 2026-09-30 have a census and a note
+and no reconciliation. It holds when every document with a census has a note and a
+reconciliation, each ran against the state the previous one left, and the wiki
+matches what the newest run recorded leaving. When it does not, it says so with
+exit status 1. **Until 2026-09-30 the check exited 0 either way, and this line said
+`true` over a red state.** The review of PR #110 found both. It was red again from
+step 6's first three extractions until their reconciliation the same day, which is
+why CI failed on `main` after #120 and #124. It was red from the 2026-09-25 scan
 (below) until document 21: the scan's eleven pages were written outside a
 reconciliation, the wiki held 105 pages where the newest run recorded 94, and the
 check named exactly that. It was not loosened to excuse them. Document 21 started
@@ -304,8 +308,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 127 <!--state:sweep.decided--> so far,
-66 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 129 <!--state:sweep.decided--> so far,
+67 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -389,7 +393,7 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**674 <!--state:wiki.relations--> links across
+**675 <!--state:wiki.relations--> links across
 106 <!--state:wiki.pages--> pages, 19 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
@@ -408,7 +412,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 531 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 534 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -468,14 +472,14 @@ read after that, made it three.
 
 The wiki is also a typed knowledge graph, derived from the authoritative files:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **181 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **4418 <!--state:graph.edges--> edges** (`links`,
+citations and builds **184 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **4497 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 9022 <!--state:graph.evidence-->
-of them, **9022 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 9197 <!--state:graph.evidence-->
+of them, **9197 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -529,7 +533,7 @@ Document 27 moved it to 0.643: C11 from 0.6 to 0.4 and Q3 from 0.375 to 0.25, an
 pages crowding the gold out of the top eight are the central ones it gave a reading — `aegis`,
 `juna`, `kael`, `coheron`, `vortex`, `alters`. The hubs grew faster than the pages around them.
 Document 28 moved it to 0.637, only C4, from 0.556 to 0.444: `cerberus` left its top eight and `alters`
-entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47, nor documents 48–50. Document 51 moved it to 0.654, only C4, from 0.556 to 0.444. The four question pages of 2026-09-29, Q6–Q9, added four cases and moved it to 0.694 over 24, and seeds alone from 0.466 to 0.531; the twenty earlier cases scored exactly as before. The new cases score high because each question is worded in the terms of the pages that raise it — Q7 and Q9 1.0, Q6 0.833, Q8 0.75 with PageRank — which is the caveat above, the same hand writing question and label, four times more.
+entered it, linked from the new readings on `cerberus`, `guardians` and `kern-welten`. Document 29 moved nothing, and neither did document 30. Document 31 moved it to 0.644, only Q5, from 0.286 to 0.429. Document 32 moved it to 0.654, only C11, 0.4 to 0.6; documents 33–39, measured together, moved it back to 0.644, again only C11 — the hubs again. Documents 40–43, measured together, moved it to 0.660: C11 from 0.4 to 0.6 and C4 from 0.444 to 0.556. Documents 44–46 moved nothing, and neither did document 47, nor documents 48–50. Document 51 moved it to 0.654, only C4, from 0.556 to 0.444. The four question pages of 2026-09-29, Q6–Q9, added four cases and moved it to 0.694 over 24, and seeds alone from 0.466 to 0.531; the twenty earlier cases scored exactly as before. The new cases score high because each question is worded in the terms of the pages that raise it — Q7 and Q9 1.0, Q6 0.833, Q8 0.75 with PageRank — which is the caveat above, the same hand writing question and label, four times more. Documents 52–54, measured together, moved it to 0.689, only Q5, from 0.429 to 0.286.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`

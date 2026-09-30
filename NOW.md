@@ -838,8 +838,11 @@ Pipeline". Nothing reads a document until the author says so.
 - The readings reader for documents 52 and 53 was stopped before it wrote a file. Their lookups and
   the readings brief stay in `Plan/runs/step6-readings-52-53/`, and document 54's in
   `Plan/runs/step6-readings-54/`.
-- Three documents have a census and a note and no reconciliation: 52, 53, and the technical audit
-  R1 extracted. So `pipeline order` stays red, and says why.
+- Three documents had a census and a note and no reconciliation: 52, 53, and the technical audit
+  R1 extracted, so `pipeline order` was red and CI failed on `main`. On 2026-09-30 the author chose
+  to reconcile them to fix CI: two `wiki-reader` runs from the two briefs, `readings.py apply`, and
+  `Wiki/compare/reconcile-53` to `-55`. No page was added; C2, Q3 and Q8 gained entries. The order
+  holds. The pause stands for every other document.
 - The work now is the pipeline itself, measured offline on what is already read:
   - the reconciliation record drafted by code;
   - the readings brief drafted by code;
@@ -921,7 +924,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   127 <!--state:sweep.decided--> hits, 66 <!--state:sweep.readings--> of them
+   129 <!--state:sweep.decided--> hits, 67 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:

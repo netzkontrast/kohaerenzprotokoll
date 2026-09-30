@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 30
-readings: 30
+sources: 32
+readings: 32
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "ontologische-inversion-von-aegis-kritisches-framework"]
 gathered: "2026-09-16"
 ---
 
@@ -132,6 +132,18 @@ profile field name the document repeats seventeen times —
 
 `Negentropie` does not occur. Neither does any account of where entropy comes
 from, what raises it, or what the numbers on the monitor are measured in.
+
+## Reading — `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`, 2026-02-25, the Meta-Foreshadowing plan — the closing of the book as Wärmetod
+
+One line, on the final chapter: „Das Zuklappen des Buches wird als der“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L46] „Wärmetod des Universums“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L46] (Entropie) geframt. The plan names Entropie only in a bracket beside the heat death, and does not say what Entropie is.
+
+## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — entropy as what erasure produces, and rigid order as maximal entropy
+
+The document writes Entropie in five places, and in the inverted example it takes a side on what it is. It never defines the word. It names its own field as „die physikalische Isomorphie zwischen Systemverhalten und narrativer Entropie“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L19]
+
+In the inverted reading AEGIS is called „Maschine der Entropie“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L83] The first proof says erasure makes it: „Nach dem Landauer-Prinzip generiert diese unwiderrufliche Löschung von Informationen massiv Entropie“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L87] The second proof puts rigid order and maximal entropy together: „Informationstheoretisch ist absolute, starre Ordnung von maximaler Entropie (Wärmetod) ununterscheidbar, da keine neuen Zustände mehr generiert werden können.“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L89]
+
+The same example gives the word a second use, for what true coherence must keep: „die Entropie (das Trauma) nicht löscht, sondern funktional in das Gesamtnetzwerk (Mutual Information) integriert“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L102] Here Entropie is the trauma, to be integrated and not erased. The document does not say the two uses are one.
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -287,3 +299,7 @@ The Concept Paper names the mechanism: „This is the core flaw in AEGIS's logic
 The untitled three-act text names the flaw by its German name inside English prose: „AEGIS misinterprets Kael's awakening and newfound agency as a critical system anomaly. Its "Negentropie-Fehlinterpretation" flaw causes it to see emergent consciousness as dangerous entropy." ^[an-inquiry-into-the-unresolved-questions-and-thematic-tensio.md:L579]
 
 This is AEGIS' own working sense — [[kael|Kael]]'s healing and complexity read as a rise in entropy — repeated across the file's reports rather than a thermodynamic or information-theoretic definition. Conflict C2.
+
+## Where the sources differ
+
+- `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01: Entropie is what AEGIS's erasure generates and what its rigid order equals, „maximaler Entropie (Wärmetod)“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L89]; and, in L102, „die Entropie (das Trauma)“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L102] that true coherence integrates.
