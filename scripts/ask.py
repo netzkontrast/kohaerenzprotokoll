@@ -439,6 +439,30 @@ def verify(answer: dict | None, shown: dict[str, list[int]]) -> dict:
             "need": answer.get("need", []) or [], "counts": counts}
 
 
+def score(v: dict, gold: set[tuple[str, int]], shown: dict[str, list[int]]) -> dict:
+    """The answer metric for optimizing a rules card (Plan/concept/dspy-learning_2026-09-30.md).
+
+    `score` is None — could not score, never 0 or 1 — for an unparsed or schema-invalid
+    answer or one with no quotation. `fabricated` counts words standing on no line of their
+    document; it is a veto, reported beside the score and never averaged into it.
+    """
+    c = v.get("counts", {})
+    total = sum(c.values())
+    if v.get("status") != "answered" or not total:
+        return {"score": None, "why": v.get("status") if v.get("status") != "answered" else "no quotation",
+                "precision": None, "gold_hit": None, "fabricated": 0}
+    precision = c.get("placed", 0) / total
+    fabricated = sum(1 for row in v["claims"] + v["unsupported"] for q in row["quotes"]
+                     if q["status"] == "unresolved" and "no single line" in str(q["why"]))
+    sent_gold = {(d, n) for d, n in gold if n in set(shown.get(d, ()))}
+    hit = {(row["doc"], q["line"]) for row in v["claims"] for q in row["quotes"] if q["status"] == "placed"}
+    gold_hit = len(sent_gold & hit) / len(sent_gold) if sent_gold else None
+    s = precision if gold_hit is None else 0.7 * precision + 0.3 * gold_hit
+    return {"score": round(s, 3), "precision": round(precision, 3),
+            "gold_hit": None if gold_hit is None else round(gold_hit, 3), "fabricated": fabricated,
+            "vetoed": fabricated > 0, "why": None}
+
+
 def dates() -> dict[str, str]:
     import askdb
     return {r["slug"]: r.get("index_date", "") for r in askdb.manifest()}
@@ -629,6 +653,21 @@ def selftest() -> list[str]:
             continue
         if b["status"] != "schema-invalid" or not b.get("why"):
             fails.append(f"schema {bad!r} not named schema-invalid: {b['status']}")
+    # the metric: an answer that is all outside the window scores low, a crash is never 0 or 1
+    sc = score(w, {(slug, line)}, {slug: [line + 40, line + 41]})
+    if sc["score"] != 0.0 or sc["gold_hit"] is not None:
+        fails.append(f"score of an out-of-window answer: {sc}")
+    sc = score(v, {(slug, line)}, {slug: [line]})
+    # one placed, one invented, one outside the pack: the invented one vetoes
+    if not (sc["gold_hit"] == 1.0 and sc["precision"] == 0.333 and sc["fabricated"] == 1 and sc["vetoed"]):
+        fails.append(f"score of one placed, one invented, one outside: {sc}")
+    if score({"status": "schema-invalid", "counts": {}}, set(), {})["score"] is not None:
+        fails.append("a schema-invalid answer got a score")
+    fab = verify({"answerable": "yes", "claims": [{"doc": slug, "says": "x",
+                  "quotes": [{"text": "Kein Satz dieser Art steht irgendwo in diesem Dokument", "line_hint": line}]}]},
+                 {slug: [line]})
+    if not score(fab, set(), {slug: [line]})["vetoed"]:
+        fails.append("a fabricated quotation did not veto")
     # review finding 2: a pack is immutable, a run is never overwritten
     import tempfile
     global RUNS
