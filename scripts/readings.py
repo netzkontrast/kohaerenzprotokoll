@@ -251,9 +251,13 @@ def build(reading_file: Path, root: Path, staged: dict | None = None) -> tuple[P
 
 
 def wiki_dirty(root: Path) -> list[str]:
-    """Readers write reading files, never pages: a changed page before apply means one did."""
+    """Readers write reading files, never pages: a changed page before apply means one did.
+
+    `Wiki/compare/` is out of it: a reconciliation record is the reconciler's, written before or after a batch is applied,
+    and a batch cannot half-write one (2026-09-30: a record drafted for the next batch refused the apply and had to be moved away).
+    """
     import subprocess
-    out = subprocess.run(["git", "-C", str(root), "status", "--porcelain", "--", "Wiki"],
+    out = subprocess.run(["git", "-C", str(root), "status", "--porcelain", "--", "Wiki", ":(exclude)Wiki/compare"],
                          capture_output=True, text=True).stdout
     return [line for line in out.splitlines() if line.strip()]
 
@@ -539,6 +543,25 @@ def selftest() -> int:
         with contextlib.redirect_stdout(io.StringIO()):
             status = run("selftest", True, root, root / "batch")
         checks.append(("one refused file writes nothing", status == 1 and page.read_text(encoding="utf-8") == original))
+    # The guard: a page a reader edited refuses an apply, a reconciliation record drafted beside the batch does not.
+    import subprocess
+    with tempfile.TemporaryDirectory() as tmp:
+        g = Path(tmp)
+
+        def git(*args: str) -> None:
+            subprocess.run(["git", "-C", str(g), "-c", "user.email=t@t", "-c", "user.name=t", *args],
+                           capture_output=True, text=True)
+
+        git("init", "-q")
+        (g / "Wiki/candidates").mkdir(parents=True)
+        (g / "Wiki/compare").mkdir(parents=True)
+        (g / "Wiki/candidates/x.md").write_text("x\n", encoding="utf-8")
+        git("add", ".")
+        git("commit", "-qm", "x")
+        (g / "Wiki/compare/reconcile-1-y.md").write_text("record\n", encoding="utf-8")
+        checks.append(("a reconciliation record beside the batch does not refuse an apply", wiki_dirty(g) == []))
+        (g / "Wiki/candidates/x.md").write_text("edited\n", encoding="utf-8")
+        checks.append(("a page a reader edited does", len(wiki_dirty(g)) == 1))
     failed = [n for n, ok in checks if not ok]
     print(f"readings: {len(checks) - len(failed)} of {len(checks)} cases hold" +
           (f" — FAILED: {', '.join(failed)}" if failed else ""))
