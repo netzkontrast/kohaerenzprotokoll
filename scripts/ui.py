@@ -387,8 +387,9 @@ def run_invariants(measured: dict) -> list[list[str]]:
     Three answers are already in hand and are taken rather than run again and
     read back from the printout: the judgement replay and the quotation tally
     `state.py` measured, and the order `account.py` derives in-process.
-    `account.py order` exits 0 whether or not the order holds, so its exit code
-    could only ever say „held".
+    `account.py order` exited 0 whether or not the order held until 2026-09-30, so
+    its exit code could only ever say „held"; it exits 1 now, and the order is
+    still derived in-process here because the rows name every violation.
     """
     out = []
     for cmd in INVARIANTS:

@@ -1,6 +1,6 @@
 # Initialization and extraction validation — 2026-09-30
 
-Base: `1fe8512fae4dd473948bdb2e5c0cf21107ff55ae`, including merged PR #123.
+Initial base: `1fe8512fae4dd473948bdb2e5c0cf21107ff55ae`, including merged PR #123.\nBranch updated with `35e8131a06d3f5d68228fcdc0a8102132ce21d8f` before handoff; newer wiki-reader citation safeguards and selftests/CI selection were preserved.
 No graph unification, production graph import or model call was performed.
 
 | Check | Result | Scope |

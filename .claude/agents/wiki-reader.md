@@ -65,7 +65,12 @@ stops the whole batch. Keep helpers in your own scratch folder.
    the words first with `python3 scripts/read.py <slug> --find "<words>"`; if they
    stand on several lines and you mean a later one, write `^[?L<n>]` with its line.
    One quotation, one line: never join passages, with […] or otherwise. Never put a
-   straight `"` in prose between two quotations.
+   straight `"` in prose between two quotations. **Every „…“ of eight characters or
+   more carries `^[?]` — in the heading and the differ lines too.** A name you only
+   mention goes in backticks, `` `Hard Canon Masterfile` ``, not in „…“: `readings.py`
+   refuses an uncited quotation, as it refuses a `[[link]]` to no page, a date that
+   is not the document's and a heading naming another document.
+   `python3 scripts/readings.py check <batch>` says so before you finish.
 2. A reading says what **this** document says. Any comparison with another document
    („no other", „the first", „every other", „as in …", an ordinal of positions) must
    cite that document in the same paragraph with `^[<other>.md:Lnn]` — otherwise

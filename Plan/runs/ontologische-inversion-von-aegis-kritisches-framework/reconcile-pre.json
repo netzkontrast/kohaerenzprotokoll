@@ -1,0 +1,929 @@
+{
+  "document": "ontologische-inversion-von-aegis-kritisches-framework",
+  "step": "reconcile-pre",
+  "at": "2026-09-30",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-30",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 166,
+  "decisions": 186,
+  "same_surface": {
+    "ontologischeninversion": [
+      "Ontologischen Inversion",
+      "ontologischen Inversion"
+    ],
+    "kritischesdenken": [
+      "Kritisches Denken",
+      "kritisches Denken"
+    ]
+  },
+  "decided_mechanically": 80,
+  "needs_judgement": 106,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 48
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 31
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 26
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 25
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 46
+      },
+      {
+        "candidate": "Kernwelt",
+        "page": "kern-welten",
+        "readings": 38
+      },
+      {
+        "candidate": "Mosaik-Herz",
+        "page": "mosaik-herz",
+        "readings": 13
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 36
+      },
+      {
+        "candidate": "Kollaps-Kernel ($K\\_0$)",
+        "page": "kollaps-kernel",
+        "readings": 18
+      },
+      {
+        "candidate": "Kollaps-Kernel",
+        "page": "kollaps-kernel",
+        "readings": 18
+      },
+      {
+        "candidate": "Kohärenz-Kernel ($K\\_1$)",
+        "page": "kohaerenz-kernel",
+        "readings": 19
+      },
+      {
+        "candidate": "Kohärenz-Kernel",
+        "page": "kohaerenz-kernel",
+        "readings": 19
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 20
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 17
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 30
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Phase III"
+      },
+      {
+        "candidate": "Dual-Kernel-Narrativ-Engine"
+      },
+      {
+        "candidate": "Narrative Context Protocols"
+      },
+      {
+        "candidate": "NCP"
+      },
+      {
+        "candidate": "World States"
+      },
+      {
+        "candidate": "Context Object"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "K\\_0"
+      },
+      {
+        "candidate": "K\\_1"
+      },
+      {
+        "candidate": "CSI"
+      },
+      {
+        "candidate": "Log-Gattern"
+      },
+      {
+        "candidate": "narrativen Energie"
+      },
+      {
+        "candidate": "Thermodynamik der Bedeutung"
+      },
+      {
+        "candidate": "Landauer-Kosten"
+      },
+      {
+        "candidate": "Dissoziation"
+      },
+      {
+        "candidate": "System-Traces"
+      },
+      {
+        "candidate": "Agenten-Logs"
+      },
+      {
+        "candidate": "LLM"
+      },
+      {
+        "candidate": "LLMs"
+      },
+      {
+        "candidate": "Ontologische Inversion"
+      },
+      {
+        "candidate": "Ontologischen Inversion"
+      },
+      {
+        "candidate": "Ontological Blindness"
+      },
+      {
+        "candidate": "Ontologische Blindheit"
+      },
+      {
+        "candidate": "Semantischen Drift"
+      },
+      {
+        "candidate": "Semantischer Drift"
+      },
+      {
+        "candidate": "Kosmologischer Beweis"
+      },
+      {
+        "candidate": "Epistemologischer Beweis"
+      },
+      {
+        "candidate": "Hypothesenbildung & Problemdefinition"
+      },
+      {
+        "candidate": "Trace-Verifikation & Falsifikation"
+      },
+      {
+        "candidate": "Epistemologische Synthese"
+      },
+      {
+        "candidate": "Forschungsfrage / Hypothese"
+      },
+      {
+        "candidate": "Analysekriterium"
+      },
+      {
+        "candidate": "Narrative System & Trace Audit"
+      },
+      {
+        "candidate": "NCP-Anpassung"
+      },
+      {
+        "candidate": "Prompt-Refactoring"
+      },
+      {
+        "candidate": "Epistemologischen Standpunkt"
+      },
+      {
+        "candidate": "Thermodynamische Kosten"
+      },
+      {
+        "candidate": "4-Schritte-Check"
+      },
+      {
+        "candidate": "Analyse-Framework"
+      },
+      {
+        "candidate": "Prompt-Engineering"
+      },
+      {
+        "candidate": "F\\&E"
+      },
+      {
+        "candidate": "Kritisches Denken"
+      },
+      {
+        "candidate": "Systematische Forschung"
+      },
+      {
+        "candidate": "post-linearen Narrativen"
+      },
+      {
+        "candidate": "computergestützte Narratologie"
+      },
+      {
+        "candidate": "narrative-critical-thinking"
+      },
+      {
+        "candidate": "SKILL.md-Dokument"
+      },
+      {
+        "candidate": "Isoliere Test-Variablen"
+      },
+      {
+        "candidate": "Maxwellscher Dämon"
+      },
+      {
+        "candidate": "Big Freeze"
+      },
+      {
+        "candidate": "Hegels"
+      },
+      {
+        "candidate": "Das Wahre ist das Ganze"
+      },
+      {
+        "candidate": "Gödels Unvollständigkeitssatz"
+      },
+      {
+        "candidate": "Trivialismus"
+      },
+      {
+        "candidate": "Prinzip der Explosion bei Widersprüchen"
+      },
+      {
+        "candidate": "wahre Widersprüche"
+      },
+      {
+        "candidate": "parakonsistente Zustände"
+      },
+      {
+        "candidate": "Noumena"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "P (Population/State)"
+      },
+      {
+        "candidate": "I (Intervention)"
+      },
+      {
+        "candidate": "C (Comparison)"
+      },
+      {
+        "candidate": "O (Outcome)"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Selene  /  Integrator-Agent (Selene)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Integrator-Agent (Selene)  /  Integrator-Agent",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "InstructionDeputies (ANPs)  /  InstructionDeputies",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "InstructionDeputies (ANPs)  /  ANPs",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "ChatCompanions (EPs)  /  ChatCompanions",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kollaps-Kernel ($K\\_0$)  /  Kollaps-Kernel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kollaps-Kernel ($K\\_0$)  /  Kollaps",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kollaps-Kernel  /  Kollaps",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz-Kernel ($K\\_1$)  /  Kohärenz-Kernel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz-Kernel ($K\\_1$)  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz-Kernel  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "wahre Kohärenz ($K\\_1$)  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K\\_0 (Kollaps/Löschung)  /  Kollaps/Löschung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K\\_0 (Kollaps/Löschung)  /  Kollaps",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K\\_0 (Kollaps/Löschung)  /  Löschung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K\\_1 (Kohärenz/Integration)  /  Kohärenz/Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K\\_1 (Kohärenz/Integration)  /  Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K\\_1 (Kohärenz/Integration)  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kollaps/Löschung  /  Kollaps",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kollaps/Löschung  /  Löschung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz/Integration  /  Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz/Integration  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kollaps  /  thermodynamischen Kollapses",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Collapse Susceptibility Index / CSI  /  Collapse Susceptibility Index",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Logik-Gatter  /  parakonsistente Logik-Gatter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "parakonsistente Logik-Gatter  /  parakonsistente Logik",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "entropischen Druck  /  entropischen Drucks",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "narrativer Entropie  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Trauma  /  Entropie (das Trauma)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Maschine der Entropie  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gesamtnetzwerk  /  Gesamtnetzwerk (Mutual Information)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gesamtnetzwerk (Mutual Information)  /  Mutual Information",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ontologische Einordnung (Inversions-Check)  /  Ontologische Einordnung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ontologische Einordnung (Inversions-Check)  /  Inversions-Check",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Harmonisierungs-Bias  /  Harmonisierung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Harmonisierungs-Bias  /  Bias",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Harmonisierung  /  systemischem Subtext (Harmonisierung)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "systemischem Subtext (Harmonisierung)  /  Subtext",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Subtext  /  intentionalen Struktur (Subtext)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Korrespondenz  /  Korrespondenz-Wahrheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Korrespondenz  /  isolierte Korrespondenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Korrespondenz  /  Korrespondenztheorie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Korrespondenz  /  Korrespondenz- und Kohärenztheorien",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Kohärenz-Wahrheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  narrative Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Kohärenztheorien",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Korrespondenz- und Kohärenztheorien",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wahrheit  /  Korrespondenz-Wahrheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wahrheit  /  Kohärenz-Wahrheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wahrheit  /  Workflows der Wahrheitsfindung (F\\&E Abstraktion)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wahrheit  /  Workflows der Wahrheitsfindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wahrheit  /  Wahrheitsfindungs-Workflows",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wahrheit  /  Wahrheitsfindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Thermodynamischer Beweis (Landauer-Prinzip)  /  Thermodynamischer Beweis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Thermodynamischer Beweis (Landauer-Prinzip)  /  Landauer-Prinzip",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Architektonische Empfehlung (Synthese)  /  Architektonische Empfehlung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Konflikt/Paradoxon  /  Paradoxon",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Paradoxie  /  Umarme die Paradoxie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Workflows der Wahrheitsfindung (F\\&E Abstraktion)  /  Workflows der Wahrheitsfindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Workflows der Wahrheitsfindung (F\\&E Abstraktion)  /  F\\&E Abstraktion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Workflows der Wahrheitsfindung (F\\&E Abstraktion)  /  Wahrheitsfindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Workflows der Wahrheitsfindung  /  Wahrheitsfindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wahrheitsfindungs-Workflows  /  Wahrheitsfindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Forschung und Entwicklung (F\\&E)  /  Forschung und Entwicklung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "LobeHub/Claude-Ökosystem  /  LobeHub",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "LobeHub/Claude-Ökosystem  /  Claude-Ökosystem",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wärmetod  /  maximaler Entropie (Wärmetod)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "maximaler Entropie (Wärmetod)  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropie (das Trauma)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenztheorien  /  Korrespondenz- und Kohärenztheorien",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gödelsche Stresstests (Dialetheismus)  /  Gödelsche Stresstests",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gödelsche Stresstests (Dialetheismus)  /  Dialetheismus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PICO  /  Adaptiertes PICO-Modell",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PICO  /  PICO State (Ausgangslage)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PICO  /  PICO State",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PICO State (Ausgangslage)  /  PICO State",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias Assessment (Verzerrungskontrolle)  /  Risk of Bias Assessment",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias Assessment (Verzerrungskontrolle)  /  Risk of Bias",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias Assessment (Verzerrungskontrolle)  /  Verzerrungskontrolle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias Assessment (Verzerrungskontrolle)  /  Bias",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias Assessment  /  Risk of Bias",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias Assessment  /  Bias",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias (Verzerrungen)  /  Risk of Bias",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias (Verzerrungen)  /  Verzerrungen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias (Verzerrungen)  /  Bias",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risk of Bias  /  Bias",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Verzerrungen  /  kognitiven Verzerrungen (Bias)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "kognitiven Verzerrungen (Bias)  /  Bias",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bias  /  Bias-Kontrolle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          }
+        ]
+      },
+      {
+        "candidate": "Integrator-Agent (Selene)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "selene",
+            "page": "selene"
+          }
+        ]
+      },
+      {
+        "candidate": "wahre Kohärenz ($K\\_1$)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "K\\_1 (Kohärenz/Integration)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz/Integration",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kollaps",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kollapskernel",
+            "page": "kollaps-kernel"
+          },
+          {
+            "surface": "kollapskernelk0",
+            "page": "kollaps-kernel"
+          }
+        ]
+      },
+      {
+        "candidate": "narrativer Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Trauma",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "traumalokus",
+            "page": "vergessener-schrein"
+          },
+          {
+            "surface": "vergessenerschreintraumalokus",
+            "page": "vergessener-schrein"
+          }
+        ]
+      },
+      {
+        "candidate": "Maschine der Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Wahrheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "narrative Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "maximaler Entropie (Wärmetod)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie (das Trauma)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenztheorien",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Korrespondenz- und Kohärenztheorien",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
