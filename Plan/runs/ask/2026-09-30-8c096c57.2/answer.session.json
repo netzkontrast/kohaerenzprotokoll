@@ -1,0 +1,154 @@
+{
+ "status": "answered",
+ "answerable": "partly",
+ "claims": [
+  {
+   "doc": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+   "says": "AEGIS wird in dritter Person und ohne Innenleben erzählt: Der Leser ist im Prozess, der aber nur Klassifikation, Messung und Maßnahme kennt; nur im Vortex-Beat 5 bricht diese Regel.",
+   "quotes": [
+    {
+     "text": "Operative Interiorität — der Leser ist im Prozess, aber der Prozess kennt nur Klassifikation, Messung, Maßnahme.",
+     "status": "placed",
+     "line": 37,
+     "why": null
+    },
+    {
+     "text": "Bricht nur einmal, im Vortex-Beat 5.",
+     "status": "placed",
+     "line": 37,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "says": "Für AEGIS' Sprache gilt eine harte Drafting-Regel: keine Metaphern, kein moralisches oder affektives Vokabular; anders als Mnemosyne darf AEGIS nicht metaphorisch sprechen.",
+   "quotes": [
+    {
+     "text": "Mnemosyne darf metaphorisch sprechen — AEGIS nicht.",
+     "status": "placed",
+     "line": 1079,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "says": "Der Erzähler darf AEGIS nicht wertend als Bösewicht zeichnen; AEGIS' Logik ist auf das Sagbare beschränkt, Juna ist für AEGIS nicht sagbar.",
+   "quotes": [
+    {
+     "text": "Keine Erzähler-Wertung über die Position einer Figur. AEGIS ist nicht der Bösewicht — und der Erzähler darf das nicht sagen oder andeuten.",
+     "status": "placed",
+     "line": 776,
+     "why": null
+    },
+    {
+     "text": "AEGIS kann nur sagen, was Tatsache ist.",
+     "status": "placed",
+     "line": 132,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "digitale-uberwelt",
+   "says": "Dieses ungelesene Dokument legt fest, dass AEGIS für die Guardians nicht adressierbar ist und in der Überwelt nie direkt gesehen wird, sondern nur durch seine Auswirkungen wahrnehmbar ist.",
+   "quotes": [
+    {
+     "text": "AEGIS kann von den Guardians weder direkt adressiert noch befehligt werden",
+     "status": "placed",
+     "line": 49,
+     "why": null
+    },
+    {
+     "text": "AEGIS wird niemals direkt gesehen oder angesprochen",
+     "status": "placed",
+     "line": 49,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "ki-roman-architektur-kohaerenz-und-kollaps",
+   "says": "Dieses ungelesene Dokument beschreibt AEGIS' Kollaps an Kaels Zustand: AEGIS wird zu einem Zombie-System, das parakonsistente Logik tolerieren muss.",
+   "quotes": [
+    {
+     "text": "AEGIS stürzt ab und wird architektonisch in ein \"Zombie-System\" transformiert",
+     "status": "placed",
+     "line": 142,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+   "says": "Dieses ungelesene Dokument ordnet die hyper-kohärenten Dokumente AEGIS zu und nennt sie eine Fassade, die im dritten Akt Risse bekommen muss.",
+   "quotes": [
+    {
+     "text": "Sie repräsentieren AEGIS. Sie sind perfekt, logisch, widerspruchsfrei.",
+     "status": "placed",
+     "line": 199,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "monstergruppe-primzahlen-plot-blueprint",
+   "says": "Der Blueprint zeigt AEGIS an der großen Anomalie als blind: Es sammelt Daten über das Ereignis, kann dessen wahre Natur aber nicht erkennen.",
+   "quotes": [
+    {
+     "text": "unfähig, die wahre Natur des Ereignisses zu \"sehen\", obwohl es Daten darüber sammelt.",
+     "status": "placed",
+     "line": 104,
+     "why": null
+    }
+   ]
+  }
+ ],
+ "unsupported": [],
+ "differ": [
+  "koharenz-protokoll-sprach-dna-2026-05-13-md vs. digitale-uberwelt: Die Sprach-DNA führt den Leser in den Prozess hinein (operative Interiorität, AEGIS-Logs), während digitale-uberwelt AEGIS in der Überwelt nie direkt gesehen oder angesprochen werden lässt; beide Stellen betreffen verschiedene Ebenen (Erzählweise gegenüber Figurenwelt), ein Widerspruch ist nicht belegt."
+ ],
+ "differ_dropped": [],
+ "gaps": [
+  "Keine Stelle im Paket sagt ausdrücklich, wie nah der Leser an AEGIS heran darf; die Antwort ergibt sich nur indirekt aus Erzähl- und Sprachregeln.",
+  "Die Kapitelstelle G.2 'Was darf der Leser wissen, was nicht?' im welt-sensorik-Dokument ist im Paket nur als Überschrift enthalten, nicht ihr Inhalt.",
+  "Zu C14 (AEGIS' Stimme, ein Kapitel in der Ich-Form oder nie von innen) zeigt das Paket keine Zeilen der sich widersprechenden Quellen; nicht im Paket.",
+  "Ob die ungelesenen Dokumente (digitale-uberwelt, ki-roman-architektur-kohaerenz-und-kollaps, dramatica-synthese-masterkonzept) Aussagen zur Leser-Nähe enthalten, ist nur aus den Ausschnitten ersichtlich."
+ ],
+ "next": [
+  {
+   "doc": "digitale-uberwelt",
+   "why": "Ungelesen; legt die Nicht-Adressierbarkeit und indirekte Wahrnehmung von AEGIS ausführlich fest."
+  },
+  {
+   "doc": "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+   "why": "Ungelesen; behandelt AEGIS als Fassade, die im dritten Akt Risse bekommt."
+  },
+  {
+   "doc": "ki-roman-architektur-kohaerenz-und-kollaps",
+   "why": "Ungelesen; beschreibt AEGIS' Kollaps zum Zombie-System."
+  }
+ ],
+ "need": [
+  {
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "lines": [
+    925,
+    960
+   ]
+  },
+  {
+   "term": "AEGIS-Log Ich-Form Kapitel"
+  },
+  {
+   "term": "Vortex-Beat 5 AEGIS"
+  }
+ ],
+ "counts": {
+  "placed": 10,
+  "unresolved": 0,
+  "outside-pack": 0,
+  "outside-window": 0
+ }
+}

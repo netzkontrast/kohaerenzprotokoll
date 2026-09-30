@@ -1,0 +1,316 @@
+{
+ "status": "answered",
+ "answerable": "partly",
+ "claims": [
+  {
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "says": "Die Hitze-Polaritätsregel trennt kaltes Ozon (AEGIS) von Wärme (Juna); beide sollen nicht in einer Stelle gemischt werden, mit einer Ausnahme im Vortex.",
+   "quotes": [
+    {
+     "text": "Kaltes Ozon (AEGIS) ≠ Wärme (Juna). Nie in einer Stelle mischen",
+     "status": "placed",
+     "line": 1067,
+     "why": null
+    },
+    {
+     "text": "kaltes Ozon = AEGIS; Wärme = Juna; nach Kap 1 nie mischen; Wärme-Debüt Kap 3",
+     "status": "placed",
+     "line": 1196,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+   "says": "Ungelesen: Die Landauer-Wärme der Löschung soll im Roman nur sinnlich wahrnehmbar sein (Hitze, Ozon, Schweiß), nie als Gleichung.",
+   "quotes": [
+    {
+     "text": "nie als Gleichung, immer als sensorisches Element (Hitze, Ozon, Schweiß, fiebrige Hände)",
+     "status": "placed",
+     "line": 105,
+     "why": null
+    },
+    {
+     "text": "Irreversible Löschung. Erzeugt den Zeitpfeil. Setzt Wärme frei.",
+     "status": "placed",
+     "line": 104,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-konzept-master-md",
+   "says": "Wärme steht für die Wahrheit hinter AEGIS' Selbstbild: Kontrolle erzeugt Landauer-Wärme und damit mehr Entropie.",
+   "quotes": [
+    {
+     "text": "Kontrolle erzeugt Landauer-Wärme = MEHR Entropie",
+     "status": "placed",
+     "line": 223,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-philosophischer-bericht-md",
+   "says": "Hohes η, von AEGIS als Stabilität gelesen, ist in Wahrheit ein Maß produzierter Landauer-Hitze und damit der Entropie.",
+   "quotes": [
+    {
+     "text": "Wer η maximiert, maximiert Landauer-Hitze.",
+     "status": "placed",
+     "line": 94,
+     "why": null
+    },
+    {
+     "text": "Jeder Akt der Erasure (jede „Säuberung\", jede gelöschte Erinnerung, jede zugemauerte Anomalie) erzeugt Landauer-Hitze",
+     "status": "placed",
+     "line": 134,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+   "says": "Landauer-Hitze soll als körperliche Wärme, Ozon-Geruch und Schweiß spürbar werden, nie als Gleichung; die ersten 50 Seiten ohne DKT-Terminologie.",
+   "quotes": [
+    {
+     "text": "Landauer-Hitze → spürbar als Wärme im Körper, Ozon-Geruch in der Luft, Schweiß auf der Haut.",
+     "status": "placed",
+     "line": 914,
+     "why": null
+    },
+    {
+     "text": "Nur Phänomenologie: Hitze, Ozon, Knöchel die bluten.",
+     "status": "placed",
+     "line": 913,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "dual-storyform-hintergruende-md",
+   "says": "Landauer-Hitze ist die Wärme jeder Bit-Löschung und im Roman spürbar, nie als Gleichung; der sensorische Filter ist Hitze, Ozon, Schweiß.",
+   "quotes": [
+    {
+     "text": "die Wärme, die jede Bit-Löschung minimal erzeugt",
+     "status": "placed",
+     "line": 483,
+     "why": null
+    },
+    {
+     "text": "Sensorischer Filter: Hitze, Ozon, Schweiß.",
+     "status": "placed",
+     "line": 483,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+   "says": "Der thermische Riss-Typ beim Übergang KW1 zu KW2 zeigt sich als Hitze-Spitzen mit steigender Ozon-Konzentration; KW1 hat scharfes Ozon und Temperaturspike.",
+   "quotes": [
+    {
+     "text": "Hitze-Spitzen, Ozon-Konzentration steigt; Landauer-Wärme spürbar; Kael fällt durch das Systemrauschen",
+     "status": "placed",
+     "line": 764,
+     "why": null
+    },
+    {
+     "text": "scharfes Ozon, Temperaturspike, Geometrie-Bruch",
+     "status": "placed",
+     "line": 763,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+   "says": "Der Plot-Faden setzt die Polaritätsregel um: der Arbeitsplatz ist die kälteste Zone, Wärme tritt nicht vor Akt II auf, Landauer-Wärme nur in Beat 4.",
+   "quotes": [
+    {
+     "text": "Arbeitsplatz = kälteste Zone; Wärme betritt den Knoten nie vor Akt II",
+     "status": "placed",
+     "line": 239,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "roman-lokalitaeten-konzept-und-ausarbeitung",
+   "says": "Für den Ort, an dem AEGIS Entropie managt, sind starke Hitze oder Kälte und Ozon-Geruch als Sensorik vorgesehen; die Überwachungszentrale dagegen ist kühl und ohne menschliche Wärme.",
+   "quotes": [
+    {
+     "text": "Starke Hitze oder Kälte in bestimmten Zonen. Geruch nach Ozon oder verbrannter Energie.",
+     "status": "placed",
+     "line": 483,
+     "why": null
+    },
+    {
+     "text": "Keine menschliche Wärme.",
+     "status": "placed",
+     "line": 469,
+     "why": null
+    },
+    {
+     "text": "Kühle, künstliche Luft.",
+     "status": "placed",
+     "line": 466,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-detaillierter-plot-blueprint",
+   "says": "Ungelesen: Die Konstrukt-Stadt wird über Ozon-Geräusche und kalte Geometrie als Antagonist eingeführt.",
+   "quotes": [
+    {
+     "text": "Die Stadt wird durch Geräusche von Ozon und kalte Geometrie als eigener Antagonist eingeführt.",
+     "status": "placed",
+     "line": 30,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "forschungsprojekt-kohaerenz-protokoll-analyse",
+   "says": "Ungelesen: Beim Zusammenstoß von K1 und K0 wird Information zerstört oder nach dem Landauer-Prinzip in Wärme umgewandelt.",
+   "quotes": [
+    {
+     "text": "oder in Wärme umgewandelt, gemäß dem Landauer-Prinzip",
+     "status": "placed",
+     "line": 41,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "integriertes-kohaerenz-protokoll-erstellung",
+   "says": "Ungelesen: Das Landauer-Prinzip erzeugt beim Löschen Wärme; die Abwärme der Verdrängung manifestiert sich im Roman als Risse.",
+   "quotes": [
+    {
+     "text": "ist thermodynamisch irreversibel und erzeugt Wärme (Entropie)",
+     "status": "placed",
+     "line": 204,
+     "why": null
+    },
+    {
+     "text": "Im Roman manifestiert sich diese",
+     "status": "placed",
+     "line": 210,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "analyse-des-kohaerenz-protokolls",
+   "says": "Ungelesen: Das Potentialmeer wird als Wärmebad unendlicher Temperatur beschrieben.",
+   "quotes": [
+    {
+     "text": "Das Potentialmeer fungiert als ein Wärmebad unendlicher Temperatur.",
+     "status": "placed",
+     "line": 68,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "genesis-mehrstufige-recherche-und-ausformulierung",
+   "says": "Ungelesen: Wärme/Kälte gehört zum sensorischen Fokus der Szene, in der Resonanz und Verlust gefühlt werden.",
+   "quotes": [
+    {
+     "text": "körperliche Reaktion (Abstoßung/Anziehung), Wärme/Kälte",
+     "status": "placed",
+     "line": 368,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "genesis-recherche-anleitung-umsetzung",
+   "says": "Ungelesen: In Beat 3 tauchen fragmentierte Bilder als sensorische Blitze von Wärme/Kälte auf.",
+   "quotes": [
+    {
+     "text": "emotionale/sensorische Blitze (Wärme/Kälte, Geborgenheit/Angst)",
+     "status": "placed",
+     "line": 368,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "strukturelle-dissoziation-system-kael-analyse",
+   "says": "Ungelesen: Kälte erscheint als körperliche Manifestation des erstarrten Zustands von Moros.",
+   "quotes": [
+    {
+     "text": "flache Atmung, Gefühl von Kälte, Unfähigkeit zu sprechen",
+     "status": "placed",
+     "line": 418,
+     "why": null
+    }
+   ]
+  },
+  {
+   "doc": "juna-resilienz-zyklus-konzeptentwicklung",
+   "says": "Ungelesen: Kälte steht in einem Gedicht neben Chaos, Groll und Pein.",
+   "quotes": [
+    {
+     "text": "von Chaos oder Kälte, Groll und Pein.",
+     "status": "placed",
+     "line": 847,
+     "why": null
+    }
+   ]
+  }
+ ],
+ "unsupported": [],
+ "differ": [
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md vs. kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md: Das eine nennt Ozon und Wärme getrennt (Ozon = AEGIS, Wärme = Juna); das andere nennt beim thermischen Riss Hitze-Spitzen zusammen mit steigender Ozon-Konzentration als eine Manifestation.",
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md vs. kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md: Das eine nennt Wärme-Debüt in Kap 3, das andere sagt, Wärme betrete den Knoten nie vor Akt II.",
+  "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md vs. roman-lokalitaeten-konzept-und-ausarbeitung: Das eine ordnet Ozon kalt AEGIS zu; das andere nennt für AEGIS' Entropie-Ort Hitze oder Kälte zusammen mit Ozon-Geruch."
+ ],
+ "differ_dropped": [],
+ "gaps": [
+  "Die Sammelfrage, was Wärme, Kälte und Ozon insgesamt verraten, ist im Paket nur über einzelne Dokumente belegt; eine Synthese über alle ist nicht im Paket.",
+  "Welche der Stellen Kanon sind und wie der Widerspruch C11 (Landauer-Wärme warm oder kalt) aufzulösen ist, ist nicht im Paket.",
+  "Mehrere ungelesene Treffer (Genesis-Dokumente, Dissoziations-Analyse, Gedicht) nennen Wärme/Kälte nur am Rand, ohne Bezug zur Ozon-Regel.",
+  "Die Zeilen um L371 und L103 bis L105 des Kanon-Reset-Dokuments sind nur teilweise im Paket."
+ ],
+ "next": [
+  {
+   "doc": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+   "why": "Ungelesen, nennt Hitze, Ozon, Schweiß als Sensorik der Landauer-Wärme (L105, L371)."
+  },
+  {
+   "doc": "kohaerenz-protokoll-detaillierter-plot-blueprint",
+   "why": "Ungelesen, führt Ozon und kalte Geometrie als Stadt-Sensorik ein."
+  },
+  {
+   "doc": "integriertes-kohaerenz-protokoll-erstellung",
+   "why": "Ungelesen, verbindet Landauer-Wärme mit den Rissen (L204 bis L210)."
+  }
+ ],
+ "need": [
+  {
+   "doc": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+   "lines": [
+    95,
+    115
+   ]
+  },
+  {
+   "doc": "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
+   "lines": [
+    365,
+    375
+   ]
+  },
+  {
+   "term": "Hitze-Polaritätsregel"
+  }
+ ],
+ "counts": {
+  "placed": 26,
+  "unresolved": 0,
+  "outside-pack": 0,
+  "outside-window": 0
+ }
+}
