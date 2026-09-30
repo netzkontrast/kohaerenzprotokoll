@@ -127,8 +127,8 @@ question chose evidence 1 and 2, dropped the scripted `99` as
 
 **Nothing here has sent a real call yet.** `graphrag.py ask "…" --answer` is
 one of three model runs that are each one command away and each wait on the
-author's yes, because each sends corpus words to OpenRouter (`NOW.md`, *Which
-model runs are allowed*). **How far `--answer` may ever go is undecided by
+author's yes, because each sends corpus words to OpenRouter (`Plan/questions-for-the-author.md`,
+*Which model runs are allowed*). **How far `--answer` may ever go is undecided by
 design**: "whether an answer should ever be more than chosen quotations — a
 framing sentence, a summary marked as the model's — is the author's to decide,
 and nothing builds it until then" (`NOW.md`).

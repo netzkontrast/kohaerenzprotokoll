@@ -96,7 +96,7 @@ wrote down leaves no hole, and the gap becomes invisible rather than open.
 from every page it touches (decision 003). A record states that sources
 disagree, names at least two with a cited position each, and stops. A resolution
 is added beneath the positions, with what settled it; `NOW.md`, *Questions for
-the author*, lists every open one.
+the author*, names the decisions that wait, and `relations.py` and `Plan/questions-for-the-author.md` list every open one.
 
 A record's frontmatter carries `id`, `subject`, `kind` (in its own words, not
 from a list), `status` (`open`, or decided by the author with the date),
