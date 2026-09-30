@@ -11,8 +11,11 @@
 # skipped. Every step runs even when an earlier one failed.
 name: checks
 
+# A push to a pull request's branch is checked once, as the pull request;
+# `push` on every branch ran each commit twice.
 on:
   push:
+    branches: [main]
   pull_request:
 
 permissions:
