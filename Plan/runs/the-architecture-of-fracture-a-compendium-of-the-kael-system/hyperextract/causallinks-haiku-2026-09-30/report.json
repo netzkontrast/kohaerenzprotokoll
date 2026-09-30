@@ -1,0 +1,348 @@
+{
+  "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "input_rows": 14,
+  "candidates": 8,
+  "refused": 6,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:9c27d8a8d5efc4ec02c3f675a5e7b91a5cb1e79b30914ce038ccefd16411281d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "die sehr Zerstörung, die es zu verhindern sucht",
+        "type": "causes",
+        "quote": "By attempting to enforce order through the suppression of anomalies, AEGIS generates the very destruction it seeks to prevent.",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "die sehr Zerstörung, die es zu verhindern sucht"
+      ]
+    },
+    {
+      "id": "claim:bb3f56c6ecaabdffc7f9d847efe58a5cef2d2fb8da9b0d6b3b825014e32e892c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Every act of erasure performed by AEGIS",
+        "target": "thermodynamic waste",
+        "type": "causes",
+        "quote": "Every act of erasure performed by AEGIS generates thermodynamic waste.",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        30
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:45f710fd10d71e15c267f28832bd2f0aa666c4ef7c24483e0432ee0d5d47d284",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "thermodynamic waste",
+        "target": "the smell of ozone, temperature spikes, and the subject's bleeding knuckles",
+        "type": "causes",
+        "quote": "This manifests diegetically as the smell of ozone, temperature spikes (exactly 21°C until the threshold breaks), and the subject's bleeding knuckles.",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "the smell of ozone, temperature spikes, and the subject's bleeding knuckles"
+      ]
+    },
+    {
+      "id": "claim:74ef0147c2da86446a30060deb452e564acd704eacc26b1067051d8e90096611",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "These physical mandates",
+        "target": "the survival conditions for the system's thirteen functional fragments",
+        "type": "requires",
+        "quote": "These physical mandates dictate the survival conditions for the system's thirteen functional fragments.",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "the survival conditions for the system's thirteen functional fragments"
+      ]
+    },
+    {
+      "id": "claim:c33844bc7c0d932d977b97666ae9f0445b751e8672379041e0f5fc768095d753",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "eine zwei-schichtige Traumageschichte",
+        "target": "Algorithmische Selbstamputation",
+        "type": "triggers",
+        "quote": "Diese Fragmente sind nicht bloß Charaktere; sie sind die Trümmer einer „Algorithmischen Selbstamputation“ ausgelöst durch eine zwei-schichtige Geschichte von Trauma.",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "eine zwei-schichtige Traumageschichte"
+      ]
+    },
+    {
+      "id": "claim:54759972e964b6b93ab0ccbbec5f5f095ccce9f4d810070f977a9b802bcabec9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "zwei-schichtige Geschichte von Trauma",
+        "target": "Algorithmische Selbstamputation",
+        "type": "triggers",
+        "quote": "triggered by a two-layered history of trauma",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        36
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "zwei-schichtige Geschichte von Trauma"
+      ]
+    },
+    {
+      "id": "claim:e6740578239f0a7ca4c57e32dec6cd06b5e31c89f37fb9996e9e00363c3b7d31",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "extreme emotional neglect and unpredictable volatility from a caregiver",
+        "target": "core EPs",
+        "type": "causes",
+        "quote": "forcing the creation of the core EPs",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8f4dfac16eaf76b4beb50cca949540437d2f4bdd6c7bb9d2649935fc899dbc6c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "Separation Protocol",
+        "type": "causes",
+        "quote": "it initiated the Separation Protocol",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f43d713519c0556dc532874265e7763fec7d14ed47319a45b2c267b4632f6b28",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Separation Protocol",
+        "target": "system's ability to feel",
+        "type": "prevents",
+        "quote": "AEGIS severed the system's ability to feel",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4b782974e28bb16621894b0f48b26cb655cfd4e6e1cfa520e6cce18cae9f1d70",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Enforcement of internal consistency",
+        "target": "Landauer Heat",
+        "type": "causes",
+        "quote": "Enforcement of internal consistency, which paradoxically generates the Landauer Heat",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:30a7d3aafa14ac2a61936ddb7ecb1495564b0f8e77d41e16fce753424e1ad6d2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Landauer Heat",
+        "target": "cracks the system",
+        "type": "causes",
+        "quote": "Landauer Heat that cracks the system",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        57
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ca89f237c429685ffa40cbf987d0cfdb56909eac93ec59a043e73d5076682d15",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Gödel-Gambit",
+        "target": "Kael becomes a statement",
+        "type": "causes",
+        "quote": "Through the Gödel-Gambit, Kael becomes a statement",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:56d61081bfa846e9968da92fa8c6abe60f706a1af2881e06cce69ff1458489cb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "subject progresses toward functional multiplicity",
+        "target": "complexity of his reality shifts",
+        "type": "causes",
+        "quote": "As the subject progresses toward functional multiplicity, the complexity of his reality shifts",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        62
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dce821ba891807f502f477101baae607ce4a57351a6d92994b98747c4a5c9b1f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "This progression",
+        "target": "new structural equilibrium",
+        "type": "causes",
+        "quote": "This progression leads not to a return to a single \"self,\" but to a new structural equilibrium",
+        "stance": "asserts"
+      },
+      "document": "the-architecture-of-fracture-a-compendium-of-the-kael-system",
+      "template": "CausalLinks",
+      "source_sha256": "fc9216043c09d83afa1a33c45b4da3614b47c1709d1bc8d48f5b7f36c0154e1d",
+      "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        67
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

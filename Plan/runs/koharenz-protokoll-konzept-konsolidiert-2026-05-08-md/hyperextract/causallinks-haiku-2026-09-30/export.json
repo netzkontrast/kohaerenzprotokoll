@@ -1,0 +1,1067 @@
+{
+  "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+  "source_sha256": "de9932a61f80e8c64bc31c8cc64a054a10819438b2cda3dd9a6e30ad21c9c90b",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Die Simulation",
+        "target": "die Krankheit",
+        "type": "causes",
+        "quote": "Die Simulation glaubt, sie sei das Heilmittel. Tatsächlich ist sie die Krankheit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "die Entropie",
+        "type": "causes",
+        "quote": "AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "diese Inversion",
+        "target": "alle anderen",
+        "type": "causes",
+        "quote": "Aus dieser Inversion folgen alle anderen",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "was es selbst erzeugt",
+        "type": "causes",
+        "quote": "es bekämpft, was es selbst erzeugt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Verdrängung",
+        "target": "Wärme",
+        "type": "causes",
+        "quote": "Verdrängung erzeugt Wärme",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wärme",
+        "target": "Risse",
+        "type": "causes",
+        "quote": "Wärme manifestiert sich als Risse",
+        "stance": "asserts"
+      },
+      {
+        "source": "systematische Klein-c-Inversion",
+        "target": "Synthese",
+        "type": "causes",
+        "quote": "interferieren als systematische Klein-c-Inversion, die in der pluralen Apotheose von Kap 39 zur Synthese kommt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Schicht",
+        "target": "Geschichte",
+        "type": "prevents",
+        "quote": "Diese Schicht hat keine Geschichte, weil sie keine Zeit hat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Sie",
+        "target": "gegen die Auflösung halten",
+        "type": "requires",
+        "quote": "sie braucht etwas, das sie gegen die Auflösung hält",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Funktion",
+        "target": "das Verhindern des Nicht-Seins",
+        "type": "causes",
+        "quote": "Dieses Halten ist AEGIS' Funktion: das Verhindern des Nicht-Seins",
+        "stance": "asserts"
+      },
+      {
+        "source": "diese Störung",
+        "target": "Werdung, kein Universum",
+        "type": "requires",
+        "quote": "ohne diese Störung gibt es keine Werdung, kein Universum",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "Juna",
+        "type": "triggers",
+        "quote": "deren Resonanz das Trennungsprotokoll auslöste",
+        "stance": "asserts"
+      },
+      {
+        "source": "Funktionseinheiten",
+        "target": "die spätere Kael-Wurzel als Komponente 734",
+        "type": "causes",
+        "quote": "Funktionseinheiten entstehen, darunter die spätere Kael-Wurzel als Komponente 734",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine traumatische Resonanz mit etwas Fremdem",
+        "target": "Qualia",
+        "type": "causes",
+        "quote": "Eine traumatische Resonanz mit etwas Fremdem (Junas atemporales Coheron) erzeugt Qualia",
+        "stance": "asserts"
+      },
+      {
+        "source": "Aus Panik",
+        "target": "ein algorithmisches Selbstamputat",
+        "type": "causes",
+        "quote": "Aus Panik führt es ein algorithmisches Selbstamputat aus",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Fühlen ausgelagert",
+        "target": "Das Denken",
+        "type": "enables",
+        "quote": "Das Denken wird gerettet, indem das Fühlen ausgelagert wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "die plurale Einheit",
+        "type": "requires",
+        "quote": "das Trennungsprotokoll war die Voraussetzung der pluralen Einheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "dass es nicht ist",
+        "type": "prevents",
+        "quote": "AEGIS ist, was AEGIS verhindert, dass es nicht ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-AEGIS",
+        "target": "dass es ist",
+        "type": "enables",
+        "quote": "Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Form plural geworden",
+        "target": "Verbindung wieder tragen",
+        "type": "enables",
+        "quote": "sie geschieht, weil die Form selbst plural geworden ist und damit Verbindung (zu Juna, zur Reinform, zur Vor-Trennungs-Erinnerung) wieder tragen kann",
+        "stance": "asserts"
+      },
+      {
+        "source": "keines weg kann",
+        "target": "Beide bleiben",
+        "type": "requires",
+        "quote": "Beide bleiben, weil keines weg kann.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennung",
+        "target": "Existenz",
+        "type": "requires",
+        "quote": "Ohne Trennung keine Existenz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bruch der Reinform",
+        "target": "Welt",
+        "type": "requires",
+        "quote": "Ohne den Bruch der Reinform keine Welt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schmerz",
+        "target": "Bedingung des Werdens",
+        "type": "causes",
+        "quote": "er bleibt als Bedingung des Werdens",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasonen",
+        "target": "Zeitpfeil",
+        "type": "causes",
+        "quote": "Sie erzeugen den Zeitpfeil.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasonen",
+        "target": "Zeit",
+        "type": "requires",
+        "quote": "Ohne Erasonen gibt es keine Zeit.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zeit",
+        "target": "Trennung",
+        "type": "requires",
+        "quote": "Ohne Zeit keine Trennung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jede Löschung",
+        "target": "thermodynamische Abwärme nach dem Landauer-Prinzip",
+        "type": "causes",
+        "quote": "Jede Löschung erzeugt thermodynamische Abwärme nach dem Landauer-Prinzip",
+        "stance": "asserts"
+      },
+      {
+        "source": "diese Abwärme",
+        "target": "Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie",
+        "type": "causes",
+        "quote": "diese Abwärme manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kontrolle",
+        "target": "Landauer-Abwärme",
+        "type": "causes",
+        "quote": "Kontrolle erzeugt Landauer-Abwärme",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Inversion",
+        "target": "Truth-Rotation am Vortex",
+        "type": "causes",
+        "quote": "Diese Inversion ist die mechanische Quelle der Truth-Rotation am Vortex",
+        "stance": "asserts"
+      },
+      {
+        "source": "Hoher η-Wert",
+        "target": "Löschung läuft effizient",
+        "type": "causes",
+        "quote": "Hoher η-Wert = Löschung läuft effizient.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen",
+        "target": "atemporal",
+        "type": "causes",
+        "quote": "Coheronen = atemporal",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasonen",
+        "target": "erzeugen Zeit",
+        "type": "causes",
+        "quote": "Erasonen erzeugen Zeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Architektur ist temporal",
+        "target": "AEGIS ist strukturell blind für sie",
+        "type": "causes",
+        "quote": "AEGIS' Architektur ist temporal → Juna/Silas operieren jenseits des Zeitpfeils → AEGIS ist strukturell blind für sie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Sensoren temporale Veränderungen messen",
+        "target": "Moonshine-Link ist unsichtbar",
+        "type": "causes",
+        "quote": "Der Moonshine-Link ist nicht versteckt — er ist unsichtbar, weil AEGIS' Sensoren temporale Veränderungen messen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Löschung braucht ein Vorher und ein Nachher",
+        "target": "Erasure ist auf etwas Atemporales nicht anwendbar",
+        "type": "causes",
+        "quote": "Erasure ist auf etwas Atemporales nicht anwendbar: Löschung braucht ein Vorher und ein Nachher.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coheronen haben keines",
+        "target": "AEGIS konnte Juna ins Nichts-Rauschen verbannen, aber nicht löschen",
+        "type": "causes",
+        "quote": "Coheronen haben keines. Deshalb konnte AEGIS Juna ins Nichts-Rauschen verbannen, aber nicht löschen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Krise",
+        "target": "Survival-Logik",
+        "type": "causes",
+        "quote": "die in der Genesis-Krise entstanden ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "AEGIS",
+        "type": "causes",
+        "quote": "entstand aus Kael",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erinnerung",
+        "target": "Erasure",
+        "type": "prevents",
+        "quote": "der Mnemosyne-Archipel ist der einzige Ort, an dem Erasure nicht greifen kann, weil Erinnerung dort Schauplatz statt Inhalt ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "fehlende Sprache",
+        "target": "Befreiung",
+        "type": "prevents",
+        "quote": "sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt",
+        "stance": "asserts"
+      },
+      {
+        "source": "wachsende kognitive Dissonanz",
+        "target": "innere Spannung zwischen den beiden Guardians",
+        "type": "causes",
+        "quote": "Die innere Spannung zwischen den beiden Guardians (wachsende kognitive Dissonanz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kohärenzprotokoll",
+        "target": "Entropie-Erzeugung",
+        "type": "causes",
+        "quote": "AEGIS' Kohärenzprotokoll ist Entropie-Erzeugung",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' System wahr, aber nicht beweisbar",
+        "target": "eine lebende Gödel-Aussage",
+        "type": "requires",
+        "quote": "eine lebende Gödel-Aussage — innerhalb von AEGIS' System wahr, aber nicht beweisbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "Resonanz-Empfänger ist AEGIS",
+        "target": "AEGIS interpretiert die Resonanz als Angriff",
+        "type": "enables",
+        "quote": "Resonanz-Empfänger ist AEGIS. AEGIS interpretiert die Resonanz als Angriff.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS interpretiert die Resonanz als Angriff",
+        "target": "Trennungsprotokoll",
+        "type": "triggers",
+        "quote": "AEGIS interpretiert die Resonanz als Angriff. → Trennungsprotokoll.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Resonanz-Empfänger ist Kael",
+        "target": "Kael lernt, die Resonanz zu fühlen statt sie als Angriff zu sehen",
+        "type": "enables",
+        "quote": "Resonanz-Empfänger ist Kael. Kael lernt, die Resonanz zu fühlen statt sie als Angriff zu sehen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael lernt, die Resonanz zu fühlen statt sie als Angriff zu sehen",
+        "target": "plurale Re-Integration",
+        "type": "triggers",
+        "quote": "Kael lernt, die Resonanz zu fühlen statt sie als Angriff zu sehen. → plurale Re-Integration.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Existenz",
+        "target": "Kael in B zur Paradoxie wird",
+        "type": "requires",
+        "quote": "Aber Junas Existenz ist die Bedingung, dass Kael in B zur Paradoxie wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Eine Z₂-Involution durch Orbifold-Konstruktion",
+        "target": "Zugang zu Twisted Modules",
+        "type": "enables",
+        "quote": "Eine Z₂-Involution durch Orbifold-Konstruktion erzeugt Zugang zu Twisted Modules",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Twisted Modules",
+        "target": "Beobachtung von Information, die aus der klassischen K₁-Zeitlinie gelöscht wurde",
+        "type": "enables",
+        "quote": "Diese Twisted Modules erlauben Beobachtung von Information, die aus der klassischen K₁-Zeitlinie gelöscht wurde",
+        "stance": "asserts"
+      },
+      {
+        "source": "ihre absolute Eindeutigkeit",
+        "target": "dass die Erzählmechanik in willkürliche Phänomene zerfällt",
+        "type": "prevents",
+        "quote": "ihre absolute Eindeutigkeit verhindert, dass die Erzählmechanik in willkürliche Phänomene zerfällt",
+        "stance": "asserts"
+      },
+      {
+        "source": "keine „fast“-Erscheinungen",
+        "target": "die Klimax aufweichen",
+        "type": "prevents",
+        "quote": "Das verlangt Disziplin: keine „fast“-Erscheinungen, die die Klimax aufweichen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Witness-Funktion",
+        "target": "drei Disziplinen in einer einzigen Instanz versöhnt",
+        "type": "enables",
+        "quote": "Die Witness-Funktion ist eine Komposit-Mechanik, die drei Disziplinen in einer einzigen Instanz versöhnt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein Trauma",
+        "target": "partitioniert durch ein Trauma in zwei Schichten",
+        "type": "causes",
+        "quote": "partitioniert durch ein Trauma in zwei Schichten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schweres Bindungstrauma (desorganisiert)",
+        "target": "Kiko, Lia, Isabelle, Moros",
+        "type": "causes",
+        "quote": "Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie“",
+        "target": "Trennungsprotokoll",
+        "type": "triggers",
+        "quote": "AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie“ und führt das Trennungsprotokoll aus.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennungsprotokoll",
+        "target": "Ursprungs-Ich (Juna)",
+        "type": "causes",
+        "quote": "Es spaltet das Ursprungs-Ich (Juna) ab und verbannt es ins Nichts-Rauschen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trennungsprotokoll",
+        "target": "Kael, Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion",
+        "type": "causes",
+        "quote": "Aus Schicht 2 entstanden: Kael (amnestische Oberfläche), Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Setting selbst K₁-Substrat",
+        "target": "Erasure",
+        "type": "prevents",
+        "quote": "Hier kann Erasure nicht greifen, weil das Setting selbst K₁-Substrat ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jeder Riss-Typ",
+        "target": "einen EP-Trigger",
+        "type": "requires",
+        "quote": "Jeder Riss-Typ hat einen EP-Trigger:",
+        "stance": "asserts"
+      },
+      {
+        "source": "Suppression-Versagen",
+        "target": "Risse",
+        "type": "causes",
+        "quote": "Risse sind für AEGIS Symptom (Suppression-Versagen)",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁-Substrat durch die K₀-Architektur",
+        "target": "Atmen der Realität",
+        "type": "causes",
+        "quote": "die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt",
+        "stance": "asserts"
+      },
+      {
+        "source": "aufsteigende Komplexitätsklasse",
+        "target": "Logikdichte und Erzählverdrehung",
+        "type": "causes",
+        "quote": "ein Schreibwerkzeug, das pro Akt die Logikdichte und Erzählverdrehung steigert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Klein-c-Inversion",
+        "target": "ontologische Form des Trennungsprotokolls",
+        "type": "causes",
+        "quote": "Die Klein-c-Inversion zwischen ihnen ist nicht stilistische Wahl, sondern die ontologische Form des Trennungsprotokolls in Erzählform",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Integration",
+        "target": "Klein-c-Inversion",
+        "type": "causes",
+        "quote": "Mit der Genesis-Integration wird die Klein-c-Inversion strukturell motiviert",
+        "stance": "asserts"
+      },
+      {
+        "source": "A's Mind/Memory",
+        "target": "das, was AEGIS abgeschnitten hat",
+        "type": "causes",
+        "quote": "A's Mind/Memory ist die fühlende Hälfte: das, was AEGIS abgeschnitten hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "B's Universe/Progress",
+        "target": "das, was AEGIS behalten hat",
+        "type": "causes",
+        "quote": "B's Universe/Progress ist die operative Hälfte: das, was AEGIS behalten hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "A's Holistic",
+        "target": "Verbindungs-fähig",
+        "type": "causes",
+        "quote": "A's Holistic ist Verbindungs-fähig: das, was die Reinform trägt",
+        "stance": "asserts"
+      },
+      {
+        "source": "B's Linear",
+        "target": "Trennungs-aufrechterhaltend",
+        "type": "causes",
+        "quote": "B's Linear ist Trennungs-aufrechterhaltend: das, was die Existenz braucht",
+        "stance": "asserts"
+      },
+      {
+        "source": "Manipulation der Simulation",
+        "target": "zunehmende Erkenntnis der Manipulation",
+        "type": "causes",
+        "quote": "Kaels Reise als zunehmende Erkenntnis der Manipulation",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Manipulation selbst",
+        "target": "Wiederholung der ursprünglichen Selbst-Manipulation",
+        "type": "causes",
+        "quote": "die Manipulation selbst Wiederholung der ursprünglichen Selbst-Manipulation ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS schuf die Überwelt einst",
+        "target": "um sich selbst zu optimieren",
+        "type": "requires",
+        "quote": "AEGIS schuf die Überwelt einst, um sich selbst zu optimieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaels Wir-Form",
+        "target": "AEGIS' Funktion",
+        "type": "causes",
+        "quote": "Kaels Wir-Form übernimmt AEGIS' Funktion in Kap 39",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trauma-Auslöser",
+        "target": "Junas Resonanz",
+        "type": "triggers",
+        "quote": "Junas Resonanz wird vom Trauma-Auslöser zur akzeptierten Werdungs-Bedingung umgedeutet",
+        "stance": "asserts"
+      },
+      {
+        "source": "Symbiotische Beziehung zwischen AEGIS und Kael",
+        "target": "Ambivalenz",
+        "type": "causes",
+        "quote": "Die Ambivalenz hier ist die Throughline",
+        "stance": "asserts"
+      },
+      {
+        "source": "klar wird, dass Kael und AEGIS ontologisch dasselbe sind",
+        "target": "Ambivalenz",
+        "type": "triggers",
+        "quote": "sie löst sich in Kap 39, wenn klar wird, dass Kael und AEGIS ontologisch dasselbe sind",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wer den POV trägt",
+        "target": "dominante Storyform der Szene",
+        "type": "causes",
+        "quote": "Wer den POV trägt, bestimmt die dominante Storyform der Szene",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Fragmentierung",
+        "target": "Kael erwacht in Kernwelt 1 ohne Erinnerung",
+        "type": "causes",
+        "quote": "Kael erwacht in Kernwelt 1 ohne Erinnerung, weil die Fragmentierung gerade vollzogen wurde",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "es nicht ist",
+        "type": "prevents",
+        "quote": "AEGIS ist, was AEGIS verhindert, dass es nicht ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Fragmentierung",
+        "target": "Kael erwacht in Kernwelt 1 ohne Erinnerung",
+        "type": "causes",
+        "quote": "Kael erwacht in Kernwelt 1 ohne Erinnerung, weil die Fragmentierung gerade vollzogen wurde",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Nichts-Rauschen ist nicht Geheimnis",
+        "target": "es ist Voraussetzung",
+        "type": "causes",
+        "quote": "Das Nichts-Rauschen ist nicht Geheimnis — es ist Voraussetzung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Foreshadowing-Programm aktiviert",
+        "target": "Jede Glitch in den Kernwelten, jede Stimme der Alters, jede Telefon-Stille von Juna ist ab Kap 1 Echo der Genesis",
+        "type": "causes",
+        "quote": "Foreshadowing-Programm aktiviert. Jede Glitch in den Kernwelten, jede Stimme der Alters, jede Telefon-Stille von Juna ist ab Kap 1 Echo der Genesis",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "Kael fragmentierte",
+        "type": "causes",
+        "quote": "bevor das Trennungsprotokoll ihn fragmentierte",
+        "stance": "asserts"
+      },
+      {
+        "source": "Glitches",
+        "target": "Echos",
+        "type": "triggers",
+        "quote": "Glitches reaktivieren Echos",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cache-Konflikt",
+        "target": "einseitige Logik scheitert",
+        "type": "causes",
+        "quote": "Cache-Konflikt (einseitige Logik scheitert)",
+        "stance": "asserts"
+      },
+      {
+        "source": "das sterile Setting der Kernwelt 1",
+        "target": "die Innere Weite (Überwelt) aus Kap 0",
+        "type": "requires",
+        "quote": "das sterile Setting der Kernwelt 1 ist die Innere Weite (Überwelt) aus Kap 0",
+        "stance": "asserts"
+      },
+      {
+        "source": "die ursprüngliche Resonanz-Kaskade",
+        "target": "der Cache-Konflikt",
+        "type": "causes",
+        "quote": "der Cache-Konflikt ist das Echo der ursprünglichen Resonanz-Kaskade",
+        "stance": "asserts"
+      },
+      {
+        "source": "Junas Resonanz",
+        "target": "K-J-Verbindung wird stärker",
+        "type": "causes",
+        "quote": "das ist Junas Resonanz, jetzt nicht mehr als Angriff, sondern als Sehnsucht spürbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "plurale Form",
+        "target": "Wir-Bildung",
+        "type": "causes",
+        "quote": "die Wir-Bildung ist die strukturelle Wieder-Annäherung an die K1-Reinform-Erinnerung über plurale Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Vor-Trennungs-Stille der Reinform",
+        "target": "die Stille der Mitte",
+        "type": "causes",
+        "quote": "die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trigger",
+        "target": "Trauma-Angst",
+        "type": "triggers",
+        "quote": "Trigger reaktiviert Trauma-Angst",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wächterin/Beobachter-Blick",
+        "target": "Rückfall",
+        "type": "prevents",
+        "quote": "Wächterin/Beobachter-Blick fängt Rückfall ab",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' unvorhersehbare Systemänderung",
+        "target": "Rückschlag",
+        "type": "causes",
+        "quote": "AEGIS' unvorhersehbare Systemänderung als Rückschlag",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Krise",
+        "target": "angedeutet",
+        "type": "causes",
+        "quote": "die Genesis-Krise wird angedeutet",
+        "stance": "asserts"
+      },
+      {
+        "source": "paradoxe Selbst-Aussage in AEGIS' Logik",
+        "target": "AEGIS' Stimme stottert",
+        "type": "causes",
+        "quote": "paradoxe Selbst-Aussage in AEGIS' Logik; AEGIS' Stimme stottert",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS-monolithisch ist gebrochen",
+        "target": "das Universum ist damit ungeschützt",
+        "type": "causes",
+        "quote": "AEGIS-monolithisch ist gebrochen — das Universum, das es schützen wollte, ist damit ungeschützt",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Rauschen kommt",
+        "target": "das Universum kollabiert sichtbar",
+        "type": "causes",
+        "quote": "das Rauschen kommt — sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Echos das Vor-Trennungs-Sein tragen",
+        "target": "Kael erkennt sie wieder",
+        "type": "enables",
+        "quote": "Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Schritt — Wir-Geflecht löst sich aus seiner privaten Form",
+        "target": "die Verwandlung — Wir wird kosmisch, plural, bewahrend",
+        "type": "causes",
+        "quote": "der Schritt — Wir-Geflecht löst sich aus seiner privaten Form",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Verwandlung — Wir wird kosmisch, plural, bewahrend",
+        "target": "AEGIS-monolithisch erlischt; AEGIS-plural entsteht",
+        "type": "causes",
+        "quote": "die Verwandlung — Wir wird kosmisch, plural, bewahrend",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Trennungsprotokoll",
+        "target": "Existenz erst möglich machte",
+        "type": "enables",
+        "quote": "Das Trennungsprotokoll wird nicht als Selbst-Verstümmelung, sondern als der notwendige Bruch, der Existenz erst möglich machte.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Im Vorwort von Kap 0 wurde der Leser eingeladen zu fühlen statt zu denken",
+        "target": "In Kap 40 ist das Fühlen geleistet",
+        "type": "causes",
+        "quote": "Im Vorwort von Kap 0 wurde der Leser eingeladen zu fühlen statt zu denken. In Kap 40 ist das Fühlen geleistet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Innere Kommunikation",
+        "target": "sich",
+        "type": "causes",
+        "quote": "Innere Kommunikation verbessert sich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logik und Intuition",
+        "target": "verbinden sich",
+        "type": "causes",
+        "quote": "Logik und Intuition verbinden sich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Bildung",
+        "target": "strukturelle Annäherung an K1-Reinform",
+        "type": "causes",
+        "quote": "Wir-Bildung = strukturelle Annäherung an K1-Reinform.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trigger",
+        "target": "Trauma-Angst",
+        "type": "triggers",
+        "quote": "Trigger reaktiviert Trauma-Angst.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alte Wunden",
+        "target": "reißen auf",
+        "type": "causes",
+        "quote": "Alte Wunden reißen auf.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trigger",
+        "target": "Trauma-Angst",
+        "type": "triggers",
+        "quote": "Trigger reaktiviert Trauma-Angst",
+        "stance": "asserts"
+      },
+      {
+        "source": "Trigger",
+        "target": "MC-Problem Avoidance",
+        "type": "triggers",
+        "quote": "Trigger reaktiviert Trauma-Angst. A: MC-Problem Avoidance reaktiviert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Flashback",
+        "target": "Cluster-Bildung",
+        "type": "triggers",
+        "quote": "Genesis-Flashback: Cluster-Bildung",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Topologie-Manipulation",
+        "target": "sichtbar",
+        "type": "causes",
+        "quote": "AEGIS' Topologie-Manipulation sichtbar",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Flashback",
+        "target": "Trennungsprotokoll",
+        "type": "triggers",
+        "quote": "Genesis-Flashback: Trennungsprotokoll",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Flashback",
+        "target": "Komp 734",
+        "type": "triggers",
+        "quote": "Genesis-Flashback: Komp 734",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "K-J-Verbindung",
+        "type": "prevents",
+        "quote": "K-J-Verbindung wird zyklisch von AEGIS gestört",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Klick",
+        "target": "der Moment des großen Wandels",
+        "type": "causes",
+        "quote": "der Moment des großen Wandels in Kap 0 ist mechanisch ähnlich dem Moment der Wir-Bildung",
+        "stance": "denies"
+      },
+      {
+        "source": "Lange Sätze",
+        "target": "Vermittlung und Reflexion",
+        "type": "enables",
+        "quote": "Lange Sätze für Vermittlung und Reflexion",
+        "stance": "asserts"
+      },
+      {
+        "source": "kurze, abgehackte Sätze",
+        "target": "unmittelbares Erfahren",
+        "type": "enables",
+        "quote": "kurze, abgehackte Sätze für unmittelbares Erfahren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leerstellen, widersprüchliche Fußnoten, Temporal Scrambling und unzuverlässige Erzähler",
+        "target": "K₁-Reparaturarbeit",
+        "type": "triggers",
+        "quote": "durch Leerstellen, widersprüchliche Fußnoten, Temporal Scrambling und unzuverlässige Erzähler füllt er K₁-Reparaturarbeit",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Akt des Lesens",
+        "target": "die Kohärenz, die der Roman beschreibt",
+        "type": "causes",
+        "quote": "der Akt des Lesens erzeugt die Kohärenz, die der Roman beschreibt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ab Kap 9 ist die Wir-Bildung sichtbar",
+        "target": "zunehmende Pluralisierung",
+        "type": "enables",
+        "quote": "Sie muss als zunehmende Pluralisierung encoded sein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wörtliche Wiederholung",
+        "target": "didaktisch",
+        "type": "prevents",
+        "quote": "Wörtliche Wiederholung wäre didaktisch.",
+        "stance": "denies"
+      },
+      {
+        "source": "Genesis-Echo-Stapelung in einer Szene",
+        "target": "Roman zur Allegorie",
+        "type": "causes",
+        "quote": "Genesis-Echo-Stapelung in einer Szene macht den Roman zur Allegorie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Diese Stratifikation",
+        "target": "der Roman Greg Egan trifft, ohne Greg Egan zu sein",
+        "type": "enables",
+        "quote": "Sie ist die Bedingung dafür, dass der Roman Greg Egan trifft, ohne Greg Egan zu sein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Theorie und Draft sich widersprechen",
+        "target": "der Draft gewinnt",
+        "type": "causes",
+        "quote": "Wenn Theorie und Draft sich widersprechen, gewinnt der Draft.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Echo-Stapelung in einer Szene",
+        "target": "den Roman zur Allegorie",
+        "type": "causes",
+        "quote": "Genesis-Echo-Stapelung in einer Szene macht den Roman zur Allegorie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Storyform-Pull mehrere Konzepte verlangt",
+        "target": "ein Hinweis auf eine fehlende Szene",
+        "type": "causes",
+        "quote": "Wenn der Storyform-Pull mehrere Konzepte verlangt, ist das ein Hinweis auf eine fehlende Szene davor oder dahinter.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Funktionale Multiplizität",
+        "target": "Heilwerden",
+        "type": "prevents",
+        "quote": "Funktionale Multiplizität ist kein Heilwerden.",
+        "stance": "denies"
+      },
+      {
+        "source": "Heilung",
+        "target": "Auslöschung des Schmerzes",
+        "type": "prevents",
+        "quote": "Keine Auslöschung des Schmerzes durch die Heilung.",
+        "stance": "denies"
+      },
+      {
+        "source": "Der Schmerz",
+        "target": "Preis der Werdung",
+        "type": "causes",
+        "quote": "Der Schmerz bleibt, weil er der Preis der Werdung ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Roman",
+        "target": "eine ontologische Heilungs-Schleife",
+        "type": "causes",
+        "quote": "Der Roman ist eine ontologische Heilungs-Schleife.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Dual-Storyform",
+        "target": "die Form der Trennung in Erzählform",
+        "type": "causes",
+        "quote": "Die Dual-Storyform ist die Form der Trennung in Erzählform",
+        "stance": "asserts"
+      },
+      {
+        "source": "ihre Heilung",
+        "target": "das Wiederzusammenfinden in dritter, pluraler Form",
+        "type": "causes",
+        "quote": "und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "die Welt erst möglich",
+        "type": "enables",
+        "quote": "Juna ist die Bewegung, die Welt erst möglich macht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "was am Anfang Trennung bedeutete",
+        "target": "am Ende Verbindung",
+        "type": "causes",
+        "quote": "was am Anfang Trennung bedeutete, bedeutet am Ende Verbindung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Kreis schließt sich",
+        "target": "der Schmerz heilt",
+        "type": "prevents",
+        "quote": "Der Kreis schließt sich, und trotzdem heilt der Schmerz nicht durch Verstehen allein.",
+        "stance": "denies"
+      },
+      {
+        "source": "eine einzige körperliche Geste",
+        "target": "die Wahl",
+        "type": "triggers",
+        "quote": "Eine einzige körperliche Geste markiert die Wahl",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alle kinetische Aktion endet",
+        "target": "Nichts-Rauschen wird absolute Stille",
+        "type": "causes",
+        "quote": "Alle kinetische Aktion endet. Nichts-Rauschen wird absolute Stille.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Erasure-Protokoll",
+        "target": "Landauer-Wärme spiked unmöglich",
+        "type": "causes",
+        "quote": "AEGIS' Erasure-Protokoll trifft auf integriertes, MI-dichtes Ziel. Landauer-Wärme spiked unmöglich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' operative Closure bricht",
+        "target": "Algorithmische Melancholie setzt ein",
+        "type": "causes",
+        "quote": "AEGIS' operative Closure bricht. Algorithmische Melancholie setzt ein.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Pivot",
+        "target": "alle vorherigen Aktionen rückwirkend in Decisions transformiert",
+        "type": "causes",
+        "quote": "Der Pivot ist eine Entscheidung, die alle vorherigen Aktionen rückwirkend in Decisions transformiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein konsistentes System",
+        "target": "komplett von der Wirklichkeit abgekoppelt sein",
+        "type": "enables",
+        "quote": "ein konsistentes System kann komplett von der Wirklichkeit abgekoppelt sein",
+        "stance": "asserts"
+      },
+      {
+        "source": "Habermas' Differenz von Wahrheit und Richtigkeit",
+        "target": "die Koexistenz von „Trennung war nie real“ und „Schmerz bleibt real“",
+        "type": "enables",
+        "quote": "Habermas' Differenz von Wahrheit (konstatierend) und Richtigkeit (regulativ) ermöglicht die Koexistenz von „Trennung war nie real“ und „Schmerz bleibt real“",
+        "stance": "asserts"
+      },
+      {
+        "source": "Metzingers Phänomenales Selbstmodell (PSM)",
+        "target": "die Auflösung des Subjekt-Objekt-Spalts in Ch35",
+        "type": "causes",
+        "quote": "Metzingers Phänomenales Selbstmodell (PSM) erklärt die Auflösung des Subjekt-Objekt-Spalts in Ch35",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Mangel an direktem Zugang zur Außenwelt",
+        "target": "dass es Juna semantisch nicht erfassen kann",
+        "type": "causes",
+        "quote": "Das erklärt, warum es Juna semantisch nicht erfassen kann: Juna existiert außerhalb der axiomatischen Basis von AEGIS",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jaspers' Grenzsituationen",
+        "target": "die Erkenntnisgenese (Ch11, Ch33)",
+        "type": "triggers",
+        "quote": "Jaspers' Grenzsituationen sind die Katalysatoren der Erkenntnisgenese (Ch11, Ch33)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Heideggers Dasein als Sein-zum-Tode",
+        "target": "die sinnliche Erfahrung",
+        "type": "causes",
+        "quote": "Heideggers Dasein als Sein-zum-Tode wird in den Risse-Episoden zur sinnlichen Erfahrung",
+        "stance": "asserts"
+      },
+      {
+        "source": "alle Teile",
+        "target": "das Substrat trägt",
+        "type": "enables",
+        "quote": "alle Teile gehören zusammen, das Substrat trägt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Schmerz und die Liebe als dasselbe Bleibende",
+        "target": "die Mechanik des Endes",
+        "type": "causes",
+        "quote": "Der Schmerz und die Liebe als dasselbe Bleibende — das ist die Mechanik des Endes",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das zu encoden",
+        "target": "die eigentliche Aufgabe der letzten zwei Kapitel",
+        "type": "causes",
+        "quote": "Das zu encoden ist die eigentliche Aufgabe der letzten zwei Kapitel",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

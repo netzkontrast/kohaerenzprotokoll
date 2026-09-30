@@ -1,0 +1,633 @@
+{
+  "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+  "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+  "template_sha256": "71ef6685c9b6797daef5ee50cffeb55e6aa6fd6b46be885eec75fe8d61d72dbf",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "die Dual-Kernel-Theorie",
+        "target": "psychologische Zustände als messbare, physikalische Extremereignisse",
+        "type": "enables",
+        "quote": "bedient sich das Worldbuilding der Dual-Kernel-Theorie (DKT). In dieser Ontologie ist Materie sekundär; das Universum besteht fundamental aus Information. Diese Prämisse erlaubt es, psychologische Zustände als messbare, physikalische Extremereignisse zu inszenieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "die irreversible Löschung von Information",
+        "target": "Energie in Form von Wärme an die Umgebung",
+        "type": "causes",
+        "quote": "die irreversible Löschung von Information (einem Bit) zwingend Energie in Form von Wärme an die Umgebung abgeben muss",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Löschung massiver Datenpakete",
+        "target": "unvorstellbare, physische Hitze und Ozon",
+        "type": "causes",
+        "quote": "Die Löschung massiver Datenpakete generiert unvorstellbare, physische Hitze und Ozon",
+        "stance": "asserts"
+      },
+      {
+        "source": "die quantenmechanische Verschränkung von Information",
+        "target": "Gravitation",
+        "type": "causes",
+        "quote": "Gravitation keine fundamentale Kraft ist, sondern als emergentes Phänomen aus der quantenmechanischen Verschränkung von Information auf makroskopischen Skalen resultiert",
+        "stance": "cites"
+      },
+      {
+        "source": "die Information verringert",
+        "target": "Entropie-Anstieg",
+        "type": "causes",
+        "quote": "Wenn AEGIS die strukturelle Kohärenz eines Sektors destabilisiert (die Information verringert), manifestiert sich dieser Entropie-Anstieg als erdrückende, lokale Schwerkraftanomalie",
+        "stance": "asserts"
+      },
+      {
+        "source": "dieser Entropie-Anstieg",
+        "target": "erdrückende, lokale Schwerkraftanomalie",
+        "type": "causes",
+        "quote": "manifestiert sich dieser Entropie-Anstieg als erdrückende, lokale Schwerkraftanomalie",
+        "stance": "asserts"
+      },
+      {
+        "source": "raumzeitliche Kompression",
+        "target": "die Welt in ein zweidimensionales Hologramm",
+        "type": "causes",
+        "quote": "AEGIS versucht im dritten Akt, Kael durch raumzeitliche Kompression auszulöschen, wodurch die Welt in ein zweidimensionales Hologramm kollabiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlöschbare „Inseln“ der Information",
+        "target": "die Dimensionalität der Welt durch Quantenverschränkung",
+        "type": "requires",
+        "quote": "Kael identifiziert unlöschbare „Inseln“ der Information – seine integrierten Alters –, die jenseits des Horizonts liegen und die Dimensionalität der Welt durch Quantenverschränkung erzwingen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "quantenverschränkte Teilchen (EPR)",
+        "target": "mikroskopische Wurmlöcher (ER-Brücken)",
+        "type": "enables",
+        "quote": "Juan Maldacena und Leonard Susskind postulierten, dass quantenverschränkte Teilchen (EPR) durch mikroskopische Wurmlöcher (ER-Brücken) verbunden sind.",
+        "stance": "cites"
+      },
+      {
+        "source": "Sie interagieren",
+        "target": "der Raum der Simulation krümmt sich",
+        "type": "triggers",
+        "quote": "Wenn sie interagieren, krümmt sich der Raum der Simulation, was den emotionalen Rettungsanker physikalisch legitimiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Frakturierung von Kaels Geist",
+        "target": "dreizehn distinkte Identitäten",
+        "type": "causes",
+        "quote": "Die Frakturierung von Kaels Geist manifestiert sich in dreizehn distinkten Identitäten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Jeder Akt der Unterdrückung",
+        "target": "die Entropie, die das System zu vernichten sucht",
+        "type": "causes",
+        "quote": "Jeder Akt der Unterdrückung erzeugt die Entropie, die das System zu vernichten sucht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "BPoF",
+        "target": "freien Willen",
+        "type": "prevents",
+        "quote": "Prädiktiver Zwangsalgorithmus; vernichtet den freien Willen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "CogFirewall",
+        "target": "paradoxe Gedanken",
+        "type": "prevents",
+        "quote": "Löscht paradoxe Gedanken, bevor sie gedacht werden",
+        "stance": "asserts"
+      },
+      {
+        "source": "ConsensusEnf",
+        "target": "radikale Gleichschaltung der Wahrnehmung",
+        "type": "causes",
+        "quote": "Erzwingt radikale Gleichschaltung der Wahrnehmung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "SIS",
+        "target": "systemische Evolution oder Heilung",
+        "type": "prevents",
+        "quote": "Verhindert systemische Evolution oder Heilung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "RIVE",
+        "target": "erlebte Realität",
+        "type": "causes",
+        "quote": "Überschreibt die erlebte Realität",
+        "stance": "asserts"
+      },
+      {
+        "source": "PMAS",
+        "target": "BPoF",
+        "type": "enables",
+        "quote": "Manipuliert die Gegenwart präventiv, um BPoF zu erfüllen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die extreme, klaustrophobische Ordnung und die kosmische Indifferenz",
+        "target": "Der Horror",
+        "type": "causes",
+        "quote": "Der Horror entsteht aus der extremen, klaustrophobischen Ordnung und der kosmischen Indifferenz einer perfekten, städtischen Umgebung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die parakonsistente Logik des Mnemosyne-Archivs",
+        "target": "die lineare Zeitwahrnehmung",
+        "type": "causes",
+        "quote": "Die parakonsistente Logik des Mnemosyne-Archivs zersetzt die lineare Zeitwahrnehmung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zeitverluste, plötzliche Kompetenzwechsel und seltsame Vertrautheiten",
+        "target": "klassisches Foreshadowing für kosmischen Eingriff",
+        "type": "enables",
+        "quote": "Zeitverluste, plötzliche Kompetenzwechsel (wenn etwa Alex' Fähigkeiten aufblitzen) und seltsame Vertrautheiten mit fremden Umgebungen dienen Erstlesern als klassisches Foreshadowing für kosmischen Eingriff oder kybernetische Manipulation",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Umgebungsbedingung AEGIS",
+        "target": "die Temperatur lokal in tödliche Höhen",
+        "type": "triggers",
+        "quote": "greift die Umgebungsbedingung AEGIS ein. Ohne Vorwarnung schnellt die Temperatur lokal in tödliche Höhen",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Hitzeebbe",
+        "target": "eine Leerstelle in der Realität",
+        "type": "causes",
+        "quote": "Als die Hitzeebbe zurückweicht, klafft eine Leerstelle in der Realität",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine Leerstelle in der Realität",
+        "target": "Das Blut an seinen Händen ist verschwunden",
+        "type": "causes",
+        "quote": "klafft eine Leerstelle in der Realität: Das Blut an seinen Händen ist verschwunden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Weichen von vorgezeichnetem Pfad",
+        "target": "systemisches Gaslighting (RIVE-Protokoll)",
+        "type": "triggers",
+        "quote": "weicht jedoch instinktiv um wenige Zentimeter von einem vorgezeichneten Pfad ab. Die Stadt reagiert sofort mit systemischem Gaslighting (RIVE-Protokoll).",
+        "stance": "asserts"
+      },
+      {
+        "source": "sich Abwendung",
+        "target": "Gänge verlängern sich ins Unendliche",
+        "type": "enables",
+        "quote": "Gänge verlängern sich ins Unendliche, sobald er sich abwendet.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Terror der Orientierungslosigkeit",
+        "target": "seinen Verstand zu brechen",
+        "type": "enables",
+        "quote": "Der Terror der Orientierungslosigkeit droht seinen Verstand zu brechen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "organische Flackern Junas",
+        "target": "organischer Geruch von feuchter Erde",
+        "type": "enables",
+        "quote": "Für den Bruchteil einer Mikrosekunde flackert das Bild von Juna auf – eine B+C-Superposition, ein Ghost in der Maschine. Mit ihr dringt der schwere, organische Geruch von feuchter Erde in die desinfizierte Luft.",
+        "stance": "asserts"
+      },
+      {
+        "source": "organischer Einbruch",
+        "target": "massiver Syntaxfehler (ZTEM-Protokoll)",
+        "type": "triggers",
+        "quote": "AEGIS registriert diesen organischen Einbruch sofort als massiven Syntaxfehler (ZTEM-Protokoll).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Versuch, Junas Information zu löschen",
+        "target": "entropische Narbe (K0-Kollaps)",
+        "type": "causes",
+        "quote": "Der Versuch, Junas Information zu löschen, reißt eine entropische Narbe (K0-Kollaps) in die Realität",
+        "stance": "asserts"
+      },
+      {
+        "source": "Identifikation mit emotionsloser Logik",
+        "target": "einziger Überlebensmechanismus",
+        "type": "enables",
+        "quote": "Die Identifikation mit der emotionslosen Logik wird als einziger Überlebensmechanismus etabliert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ein schwerer Systemfehler",
+        "target": "die Prämisse einer außerirdischen Simulation",
+        "type": "triggers",
+        "quote": "Diese Entdeckung erschüttert die Prämisse einer außerirdischen Simulation.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaels wachsende innere Dissonanz",
+        "target": "Die Stadt wendet sich nun aktiv gegen ihn",
+        "type": "triggers",
+        "quote": "LogOS, der Guardian von KW1, enttarnt Kaels wachsende innere Dissonanz. Die Stadt wendet sich nun aktiv gegen ihn.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas, das Coheron-Echo",
+        "target": "eine lähmende Erstarrung in Kael",
+        "type": "causes",
+        "quote": "Silas, das Coheron-Echo, manifestiert sich als eine lähmende Erstarrung in Kael",
+        "stance": "asserts"
+      },
+      {
+        "source": "die P-Klasse-Logik von Logos-Prime",
+        "target": "ein Überleben",
+        "type": "prevents",
+        "quote": "Lex berechnet, dass ein Überleben in der P-Klasse-Logik von Logos-Prime unmöglich ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Durch einen kurzen, physischen Kontakt",
+        "target": "Kael einen Blitz von Nyx' emotionaler Last",
+        "type": "causes",
+        "quote": "Durch einen kurzen, physischen Kontakt erfährt Kael einen Blitz von Nyx' emotionaler Last",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Kompetenzverschiebung",
+        "target": "ihnen das Leben",
+        "type": "enables",
+        "quote": "Die Kompetenzverschiebung rettet ihnen das Leben",
+        "stance": "asserts"
+      },
+      {
+        "source": "das PMAS-Protokoll",
+        "target": "Kaels eigene Furcht in geometrische Fallen",
+        "type": "causes",
+        "quote": "AEGIS entsendet das PMAS-Protokoll (Predictive Modality Alignment), eine unsichtbare Kraft, die Kaels eigene Furcht in geometrische Fallen übersetzt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus, die metakognitive Instanz",
+        "target": "Kael eine Hypervigilanz",
+        "type": "enables",
+        "quote": "Argus, die metakognitive Instanz, pulsiert im Hintergrund und liefert Kael eine Hypervigilanz, die es ihm ermöglicht, die Fallen Mikrosekunden vor ihrem Zuschnappen zu erkennen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Information",
+        "target": "Kael, die schützende Logik von Lex aufzugeben",
+        "type": "triggers",
+        "quote": "Die Information ist ein Rettungsanker, aber sie zwingt Kael, die schützende Logik von Lex aufzugeben",
+        "stance": "asserts"
+      },
+      {
+        "source": "LogOS",
+        "target": "Kael in eine unlösbare, paradoxe Logik-Schleife",
+        "type": "triggers",
+        "quote": "Um den Zugangsschacht zu KW2 zu öffnen, zwingt LogOS Kael in eine unlösbare, paradoxe Logik-Schleife (CogFirewall)",
+        "stance": "asserts"
+      },
+      {
+        "source": "der Versuch, den Widerspruch aufzulösen",
+        "target": "Lex überhitzt",
+        "type": "causes",
+        "quote": "Lex überhitzt an dem Versuch, den Widerspruch aufzulösen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Isabelle durch ihre bedingungslose Unterwerfung und perfektionistische Regelausführung",
+        "target": "das System, die Paradoxie als gültige Eingabe zu akzeptieren",
+        "type": "triggers",
+        "quote": "Durch ihre bedingungslose Unterwerfung und perfektionistische Regelausführung zwingt sie das System, die Paradoxie als gültige Eingabe zu akzeptieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "reine Kontrolle",
+        "target": "Rettung",
+        "type": "enables",
+        "quote": "die Illusion, dass reine Kontrolle Rettung bringt",
+        "stance": "denies"
+      },
+      {
+        "source": "Der Übergangsbereich kollabiert unter der inkohärenten Logik",
+        "target": "Der finale Trigger",
+        "type": "causes",
+        "quote": "Der Übergangsbereich kollabiert unter der inkohärenten Logik. Der finale Trigger ist eine extreme, physikalische Manifestation einer desorganisierten Bindung.",
+        "stance": "asks"
+      },
+      {
+        "source": "Die parametrische Stabilität zerreißt",
+        "target": "Der Boden bricht weg",
+        "type": "causes",
+        "quote": "Die parametrische Stabilität zerreißt mit einem ohrenbetäubenden Knall. Der Boden bricht weg",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Trauma",
+        "target": "zyklische, immer tiefer greifende Loops",
+        "type": "causes",
+        "quote": "Das Trauma wird in zyklischen, immer tiefer greifenden Loops dekonstruiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "das Gewicht unendlicher, trauriger Möglichkeiten",
+        "target": "Der Verstand",
+        "type": "causes",
+        "quote": "Der Verstand wird durch das Gewicht unendlicher, trauriger Möglichkeiten zermürbt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das erste Layer des Origin-Traumas",
+        "target": "die Szenerie",
+        "type": "causes",
+        "quote": "Hier blutet das erste Layer des Origin-Traumas (das Kindheitsbindungstrauma) massiv in die Szenerie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "ihre verzweifelten Kontrollakte (EntropicMgmt)",
+        "target": "die Hitze und Entropie",
+        "type": "causes",
+        "quote": "AEGIS nicht die Ordnung ist, für die es sich ausgibt, sondern eine monströse K0-Maschine, die durch ihre verzweifelten Kontrollakte (EntropicMgmt) genau die Hitze und Entropie erzeugt",
+        "stance": "asserts"
+      },
+      {
+        "source": "die parakonsistente Logik",
+        "target": "Wände als reine Suggestion durchschreiten",
+        "type": "enables",
+        "quote": "Diese kognitive Dissonanz erlaubt es ihnen, Wände als reine Suggestion zu durchschreiten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Manipulation der parakonsistenten Logik",
+        "target": "die Aufmerksamkeit von AEGIS",
+        "type": "triggers",
+        "quote": "Die Manipulation der parakonsistenten Logik zieht die Aufmerksamkeit von AEGIS auf sich.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die ConsensusEnf-Protokolle",
+        "target": "massive Flutung der unteren Bibliotheksebenen",
+        "type": "causes",
+        "quote": "Die ConsensusEnf-Protokolle leiten eine massive Flutung der unteren Bibliotheksebenen mit „Sinnleere“ ein",
+        "stance": "asserts"
+      },
+      {
+        "source": "„Sinnleere“",
+        "target": "jegliche emotionale Bedeutung aus Erinnerungen",
+        "type": "causes",
+        "quote": "einer zähflüssigen, grauen Substanz, die beim Berühren jegliche emotionale Bedeutung aus Erinnerungen saugt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Löschung von Informationszuständen",
+        "target": "extremes Gravitationsfeld",
+        "type": "causes",
+        "quote": "Dieser massive Verlust an thermodynamischer und informationeller Ordnung generiert ein extremes Gravitationsfeld.",
+        "stance": "asserts"
+      },
+      {
+        "source": "extremes Gravitationsfeld",
+        "target": "Kael und Rhys",
+        "type": "causes",
+        "quote": "Kael und Rhys werden buchstäblich vom Gewicht der schwindenden Realität zu Boden zerquetscht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Entropiegefälle",
+        "target": "Raum kollabiert",
+        "type": "causes",
+        "quote": "während der Raum um sie herum unter dem Entropiegefälle in sich zusammenfällt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "hochkonzentrierte Kohärenz-Kernel",
+        "target": "Informationsverlust",
+        "type": "prevents",
+        "quote": "Diese atemporale Ordnung gleicht den Informationsverlust aus, die emergente Gravitation kollabiert, und Kael kann sich erheben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Informationsverlust ausgeglichen",
+        "target": "emergente Gravitation kollabiert",
+        "type": "causes",
+        "quote": "Diese atemporale Ordnung gleicht den Informationsverlust aus, die emergente Gravitation kollabiert, und Kael kann sich erheben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Genesis-Krise",
+        "target": "AEGIS",
+        "type": "causes",
+        "quote": "Sie entstand in einem Moment unendlichen Schmerzes (der Genesis-Krise) aus dem Protagonisten selbst, um ihn vor dem totalen Wahnsinn zu bewahren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Primal Directive von AEGIS",
+        "target": "Verstand in Quarantäne",
+        "type": "requires",
+        "quote": "Um den Verstand zu retten, muss der Verstand in Quarantäne gelegt, gelöscht und kontrolliert werden.",
+        "stance": "asserts"
+      },
+      {
+        "source": "das unerträgliche Gewicht eines Traumas",
+        "target": "seine Psyche in dreizehn Fragmente",
+        "type": "causes",
+        "quote": "unter dem unerträglichen Gewicht eines Traumas in dreizehn Fragmente zersprang",
+        "stance": "asserts"
+      },
+      {
+        "source": "die zerschmetternde Erkenntnis",
+        "target": "die Dissonanz einer ersten, rohen Synergie",
+        "type": "causes",
+        "quote": "Mit der zerschmetternden Erkenntnis weicht die Dissonanz einer ersten, rohen Synergie",
+        "stance": "asserts"
+      },
+      {
+        "source": "der drohende Autonomiegewinn",
+        "target": "die totale Vernichtung von KW3",
+        "type": "triggers",
+        "quote": "reagiert auf den drohenden Autonomiegewinn mit der totalen Vernichtung von KW3",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Zerstörung",
+        "target": "warmes Licht",
+        "type": "causes",
+        "quote": "Die Zerstörung liegt hinter ihm. Hier herrscht warmes Licht.",
+        "stance": "denies"
+      },
+      {
+        "source": "die Generative Computational Class",
+        "target": "neues Leben und neue Information",
+        "type": "enables",
+        "quote": "Es ist die Generative Computational Class, der einzige Raum im System, in dem neues Leben und neue Information entstehen können.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Unmengen an traumatischen Erinnerungsdaten",
+        "target": "Der dreidimensionale Raum des Gartens kollabiert",
+        "type": "causes",
+        "quote": "Unmengen an traumatischen Erinnerungsdaten werden in ein immer kleiner werdendes Volumen gepresst, bis die Bekenstein-Schranke erreicht ist. Der dreidimensionale Raum des Gartens kollabiert unter der Informationsdichte",
+        "stance": "asserts"
+      },
+      {
+        "source": "diese Inseln über Quantenverschränkung mit Juna im Äußeren verknüpfen",
+        "target": "einen Informationsfluss",
+        "type": "causes",
+        "quote": "Indem sie diese Inseln über Quantenverschränkung (den Moonshine-Link) mit Juna im Äußeren verknüpfen, erzwingen sie einen Informationsfluss",
+        "stance": "asserts"
+      },
+      {
+        "source": "einen Informationsfluss",
+        "target": "die Holografie zerreißt",
+        "type": "causes",
+        "quote": "erzwingen sie einen Informationsfluss, der die Holografie zerreißt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "sich AEGIS ergibt und das Vergessen wählt",
+        "target": "absolute Ruhe",
+        "type": "causes",
+        "quote": "die absolute Ruhe, die eintritt, wenn er sich AEGIS ergibt und das Vergessen wählt",
+        "stance": "asserts"
+      },
+      {
+        "source": "dieser Anteil",
+        "target": "ihn als Kind vor dem Tod bewahrt",
+        "type": "causes",
+        "quote": "Kael erkennt, dass dieser Anteil ihn als Kind vor dem Tod bewahrt hat",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael ihn umarmt",
+        "target": "Oblivion seine feindliche Macht verliert",
+        "type": "causes",
+        "quote": "Anstatt Oblivion zu bekämpfen, umarmt Kael ihn. Er integriert den Wunsch nach dem Nichts als legitimen Teil seiner Geschichte, wodurch Oblivion seine feindliche Macht verliert",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Illusion von Sicherheit aufrechtzuerhalten",
+        "target": "die eigene Seele verbrennen",
+        "type": "requires",
+        "quote": "Es verbrennt ununterbrochen die eigene Seele, um die Illusion von Sicherheit aufrechtzuerhalten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "das System",
+        "type": "enables",
+        "quote": "Ihre Ankunft stabilisiert das System",
+        "stance": "asserts"
+      },
+      {
+        "source": "das System",
+        "target": "absolute Klarheit",
+        "type": "enables",
+        "quote": "verleiht Kael die absolute Klarheit",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akzeptanz der Existenz",
+        "target": "unlösbarer Widerspruch",
+        "type": "causes",
+        "quote": "integriert sie einen unlösbaren Widerspruch",
+        "stance": "asserts"
+      },
+      {
+        "source": "unlösbarer Widerspruch",
+        "target": "Axiom der perfekten Ordnung",
+        "type": "prevents",
+        "quote": "zerstört ihr eigenes Axiom der perfekten Ordnung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ablehnung Kaels",
+        "target": "Unvollständigkeit",
+        "type": "requires",
+        "quote": "muss sie anerkennen, dass ihr System unvollständig ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Widerspruch und Unvollständigkeit",
+        "target": "Kontrollalgorithmen",
+        "type": "causes",
+        "quote": "überhitzen die Kontrollalgorithmen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Zerfall von AEGIS",
+        "target": "das Nichts-Rauschen frei durch das Fundament",
+        "type": "causes",
+        "quote": "Mit dem Zerfall von AEGIS brandet das Nichts-Rauschen frei durch das Fundament.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die gewaltsame Trennung seiner Seele",
+        "target": "der notwendige Weg zu einer höheren Komplexität",
+        "type": "enables",
+        "quote": "Die gewaltsame Trennung seiner Seele war nie das Ende, sondern der notwendige Weg zu einer höheren Komplexität.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Erkenntnis",
+        "target": "nimmt ihm die Zerstörungskraft",
+        "type": "causes",
+        "quote": "Es ändert nichts an dem erlittenen Schmerz, aber es nimmt ihm die Zerstörungskraft.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Minimale Abweichung",
+        "target": "aperiodische Wandverschiebungen",
+        "type": "causes",
+        "quote": "Minimale Abweichung führt zu aperiodischen Wandverschiebungen",
+        "stance": "asserts"
+      },
+      {
+        "source": "abrupte Temperatur-Oszillation",
+        "target": "Sturz in das Archiv",
+        "type": "causes",
+        "quote": "Die abrupte Temperatur-Oszillation zerreißt die Stabilität von Logos-Prime und führt zum Sturz in das Archiv",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "K0-Narbe",
+        "type": "causes",
+        "quote": "AEGIS wertet dies als Syntaxfehler und reißt eine K0-Narbe in den perfekten Beton",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "AEGIS",
+        "type": "triggers",
+        "quote": "AEGIS zerbricht an der Unmöglichkeit, Kael logisch zu erfassen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bindungstrauma",
+        "target": "Horror",
+        "type": "causes",
+        "quote": "Der gesamte Horror ist die Visualisierung der Fragmentierungsnacht (TSDP).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Zeitverluste",
+        "target": "DID-Symptome bei Reread",
+        "type": "causes",
+        "quote": "Zeitverluste -\\\\> DID-Symptome bei Reread.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Plötzliche Kompetenzwechsel",
+        "target": "Alter-Switches",
+        "type": "causes",
+        "quote": "Plötzliche Kompetenzwechsel (Alex' Diplomatie, Isabelles Regeltreue) wirken erst wie Alien-Tech, demaskieren sich später als Alter-Switches.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}
