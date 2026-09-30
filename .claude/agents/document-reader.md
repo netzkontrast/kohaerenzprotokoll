@@ -74,8 +74,8 @@ python3 scripts/runlog.py <slug> start read     # and end, for read, list, count
 ## Before you finish
 
 ```bash
-python3 scripts/quotes.py Sources/notes/<slug>.md     # 0 unresolved, 0 unchecked
-python3 scripts/quotes.py Sources/terms/<slug>.md
+python3 scripts/quotes.py --strict Sources/notes/<slug>.md   # exits 0: none unresolved, none uncited
+python3 scripts/quotes.py --strict Sources/terms/<slug>.md
 python3 scripts/census.py check <slug>                # holds: every mechanical part as drafted
 python3 scripts/capture.py <slug> --count             # after the list is complete, and again if you change it
 ```

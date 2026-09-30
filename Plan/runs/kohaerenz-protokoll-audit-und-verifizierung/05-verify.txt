@@ -71,3 +71,17 @@ Checked passages:
 **L193 "uneingeschränkten Verifizierung":** Line 193 announces the audit's judgment. The document's declarative conclusion. Verified.
 
 No claim misstated the document's own words for another source's words, misnamed the subject, or credited the document with defining something it merely lists or leaves open.
+
+## Corrected by the session, 2026-09-30, after the reader finished (runlog corrections.jsonl)
+
+- stance_marker_count: the whole-word counts above sum to 17 (11 + 2 + 4); the frontmatter's 26
+  came from no command, and the attempt above to reach it arrives at 23. The note now says 17.
+- quotes.py found 20 uncited quotations, 8 in the note and 12 in the census, which the reader's
+  report called 0 unchecked. Three were words the document never writes: „Achse VIII“ (the
+  heading at L147 reads „Achse VII & VIII“), „wird verifiziert“, and „Chaitins Ω ist“ (L141 reads
+  „Chaitins  ist“; the export lost the symbol). All are now cited or replaced; quotes.py --strict
+  exits 0 on both files.
+- The claims pass above marked L185 as „the document's interpretation“. The line opens „Das
+  Protokoll argumentiert“: the audit reports the Protokoll's argument. Four more claims gave the
+  audit's reports of the Protokoll as its own (L15, L155, L179, L187); the audit's own verdicts
+  are the seven sentences beginning „Das Audit …“ (L37, L53, L83, L123, L145, L155, L179).

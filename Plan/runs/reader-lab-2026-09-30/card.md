@@ -28,7 +28,7 @@ python3 scripts/read.py <slug> --count "<words>"   # three counts and a paste-re
 python3 scripts/capture.py <slug> --count          # counts every candidate of 03 into 04-counts.txt, counts.json
 python3 scripts/census.py draft <slug>             # the census with everything mechanical already written
 python3 scripts/census.py check <slug>             # the census against counts.json; must say „holds"
-python3 scripts/quotes.py <file>                   # every quotation and count mark against its line
+python3 scripts/quotes.py --strict <file>          # every quotation and count mark against its line; fails on an uncited one
 python3 scripts/runlog.py <slug> start|end <phase> # read, list, count, census, note
 ```
 
@@ -91,6 +91,6 @@ gap) and the claim rests on the lines or counts it names. <One sentence on its s
 
 ## Before you finish
 
-`census.py check <slug>` holds. `quotes.py` on the census and on the note shows 0 unresolved and
-0 unchecked. `05-verify.txt` holds every number your prose states, each with the command that
-produced it.
+`census.py check <slug>` holds. `quotes.py --strict` on the census and on the note exits 0: it
+fails on an unresolved quotation and on an uncited one. `05-verify.txt` holds every number your
+prose states, each with the command that produced it.

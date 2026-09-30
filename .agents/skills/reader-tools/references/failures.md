@@ -30,13 +30,20 @@ page before your first quotation.
 6. **A name under four characters, asked alone.** `--find` drops fragments shorter
    than four characters, so „Lex“ alone cannot be found. Quote the longer phrase it
    stands in. *R1.*
-7. **Export escapes.** The export writes `K\_1`, `\*`, `\~`. Quote and count them
-   exactly as the line writes them, escapes included. `read.py --count` and the
-   count-mark check count the words as written. *R1.*
+7. **Export escapes and lost symbols.** The export writes `K\_1`, `\*`, `\~`. Quote and
+   count them exactly as the line writes them, escapes included. `read.py --count` and
+   the count-mark check count the words as written. *R1.* Where the export lost a
+   symbol, the line has a gap, and the quotation keeps it: R3 wrote „Chaitins Ω ist“
+   where the line reads „Chaitins  ist“. Quote the words after the gap, and say in
+   prose what was lost.
 8. **An uncited quotation.** Every „…“ of eight or more characters carries its
    citation, `^[Lnn]` in a census or note and `^[?]` in a reading file, and that
    includes headings and difference lines. *The pilot put 11 uncited quotations on
-   7 pages.* `readings.py check` refuses them now.
+   7 pages.* `readings.py check` refuses them now, and `quotes.py --strict` fails a
+   census or note that has one. *R2 and R3, on Haiku, left 24, and three were words
+   the document never writes* — „Achse VIII“ for „Achse VII & VIII“, „wird
+   verifiziert“, and the Ω above. No check could see them, because no citation
+   named a line to check them against.
 9. **Quotation marks used for anything else.** Use „…“ only for words the document
    writes, and put a name you merely mention in backticks: `` `Hard Canon` ``. A
    straight `"` between two quotations confuses which citation belongs to which.
@@ -73,9 +80,14 @@ page before your first quotation.
     - „remains open“ for an index the document defines 114 lines later;
     - „cites two other documents“ where its reference list names twelve.
 
+    *R3, Haiku, an audit of another document:* the note gave the audit's reports of
+    the Protokoll — „Das Protokoll argumentiert“, „wird im Protokoll als … bezeichnet“
+    — as the audit's own claims, five times, although its own claims pass had looked
+    at those lines. The audit marks its verdicts „Das Audit bestätigt“.
+
     Before each claim, reread the cited line. State only what it states, and name
     the thing as the line names it. Ask who says it: a line that opens „Das
-    Dokument …“ or „Laut …“ reports another source.
+    Dokument …“, „Das Protokoll …“ or „Laut …“ reports another source.
 14. **A gap credited that the document fills.** Before you write that something
     stays open, undefined or unnamed, ask `read.py <slug> --count "<its name>"` and
     read every line it names. *R2:* the CSI was called undefined at L34 and is
@@ -95,7 +107,8 @@ page before your first quotation.
     never let it decide anything.
 
 18. **A check result reported, not run.** R2 reported „0 unresolved, 0 unchecked“;
-    `quotes.py` printed 2 unchecked in each file. Paste the check's last line into
+    `quotes.py` printed 2 unchecked in each file. R3 reported the same over 20. Run
+    `quotes.py --strict`, whose exit status says it, and paste its last line into
     your report.
 
 ## Formats — `readings.py`, `census.py`

@@ -443,18 +443,25 @@ def tally(targets: list[Path] | None = None) -> dict:
 
 def summary(counts: dict, wrap: str = " ") -> str:
     """The tally as one sentence: what `main` ends with, and the line ui.py shows."""
-    return (f"{counts['checked']} cited quotes checked, {counts['unresolved']} unresolved; "
-            f"{counts['unchecked']} quotes had no citation on their own line, or none naming a"
-            f"{wrap}document that could be resolved, and were not checked; "
+    # „unchecked“ is the word a reader is asked to report: two Haiku readers of
+    # 2026-09-30 reported „0 unchecked“ from a line that said the number without it.
+    return (f"{counts['checked']} cited quotes checked, {counts['unresolved']} unresolved, "
+            f"{counts['unchecked']} unchecked — a quotation with no citation on its own line, or none"
+            f"{wrap}naming a document that could be resolved; "
             f"{counts.get('count_marks', 0)} count marks checked, {counts.get('count_wrong', 0)} wrong; "
             f"{counts.get('no_mark', 0)} absence phrases carry no mark.")
 
 
 def main(argv: list[str]) -> int:
+    """`--strict` also fails on an unchecked quotation: the gate for a reader's own census
+    and note, where an uncited quotation has no reason to exist. Two Haiku readers of
+    2026-09-30 left 24 of them and reported none; three were words the document never
+    writes, which no check could see because nothing named a line to check them against."""
     show_unchecked = "--unchecked" in argv
-    paths = [arg for arg in argv if arg != "--unchecked"]
+    strict = "--strict" in argv
+    paths = [arg for arg in argv if arg not in ("--unchecked", "--strict")]
     if len(paths) > 1:
-        raise SystemExit("usage: quotes.py [--unchecked] [path]")
+        raise SystemExit("usage: quotes.py [--unchecked] [--strict] [path]")
     targets = [Path(paths[0]).resolve()] if paths else None
     result = tally(targets)
     if show_unchecked:
@@ -481,7 +488,7 @@ def main(argv: list[str]) -> int:
     # (`selftests.py`, CI) shows the last one.
     print("\nA bare ^[Lnn] resolves against the file's own `source:`.\n"
           + summary(result))
-    return 1 if result["unresolved"] else 0
+    return 1 if result["unresolved"] or (strict and result["unchecked"]) else 0
 
 
 if __name__ == "__main__":

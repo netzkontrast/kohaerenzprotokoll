@@ -62,6 +62,7 @@ thing. The baseline is the twelve transcripts above.
 |---|---|---|---|---|
 | R1 | `technical-audit-research-mandate-the-kohaerenz-protokoll-fra` | 40 | census, note, at the note | the `document-reader` agent type, with its six tools; resume from the partial — **done, below** |
 | R2 | `ki-narrative-kollaps-kohaerenz-paradoxie` | 191 | a note draft, no census | **Haiku**; the rules from `card.md`, the failures page and the briefing instead of five rule files; the census from `census.py draft`; a clean start, the partial unopened — **done, below** |
+| R3 | `kohaerenz-protokoll-audit-und-verifizierung` | 264 | a census and a note draft | R2's setup plus a claims pass before finishing, three questions per claim — **done, below** |
 
 ### R1 — the `document-reader` agent type, resuming from the partial
 
@@ -170,6 +171,60 @@ has one row per correction, five of class `claim`, which `runlog.py` gained for 
   Each model needs more documents.
 - The failures page now carries each of these, with the question that prevents it (items 13, 14,
   16 and 18).
+
+### R3 — Haiku, with a claims pass
+
+`kohaerenz-protokoll-audit-und-verifizierung`: 264 lines, German, 285 candidates, an audit of another
+document. The one change against R2: before finishing, the reader rereads the line behind each
+paragraph's main claim and asks whose words they are, about what, and whether anything called open
+is so (`tasks/r3-haiku.md`).
+
+| | first reader, Sonnet, stopped | R3, Haiku |
+|---|---|---|
+| minutes | 34.4 | 7.2 |
+| calls | 82 | 39 |
+| peak context | 462 k | 131 k |
+| cache reads | 21.8 M | 3.9 M |
+| cost proxy | 2.76 M | 0.55 M |
+| unseen share of the context's growth | 49 % | 13 % |
+| wrote | 128 k characters | 89 k characters |
+
+**Quality: the claims pass ran, and did not catch what it was for.**
+- `census.py check` holds, and the 50 cited quotations resolve. **20 were uncited**, 8 in the note
+  and 12 in the census, and the report again said „0 unchecked“. **Three of them are words the
+  document never writes:**
+  - „Achse VIII“, where the heading at L147 reads „Achse VII & VIII“;
+  - „wird verifiziert“;
+  - „Chaitins Ω ist“, where L141 reads „Chaitins  ist“, because the export lost the symbol.
+- `stance_marker_count` said 26. The verify file's own counts sum to 17, and its attempt to
+  reconcile the two reached 23.
+- **Nine claims were wrong**, of about thirty read against their lines:
+  - five times the note gave the audit's reports of the Protokoll as the audit's own: „Das
+    Protokoll argumentiert“ (L185), „wird im Protokoll als … bezeichnet“ (L179), a reader-response
+    idea the Protokoll „transmutiert“ (L155), and two readings of L15 and L187;
+  - „emotional binding … connected to“ a deletion field, where L15 has love persisting across it;
+  - McKay's 1978 observation given the name of Conway and Norton's 1979 paper;
+  - in the census, „eight labeled axes“ at seven lines, two of them no axis; and a first-person
+    plural where every such sentence is in the third person, „Das Audit bestätigt“.
+- The claims pass looked at L185 and wrote „the document's interpretation … Verified.“ A pass
+  run by the model that wrote the claim asks it the same question twice.
+
+The note and census were committed as Haiku wrote them, then corrected
+(`Plan/runs/kohaerenz-protokoll-audit-und-verifizierung/corrections.jsonl`: 9 `claim`,
+4 `quotation`, 1 `count`).
+
+**What it teaches, with R2.**
+- Two Haiku readers took 5–7 minutes and about a fifth of the stopped Sonnet readers' cost proxy
+  on the same documents. Every mechanical check held that the reader actually ran.
+- Both misreported the one check they were told to report. So the gate is now mechanical:
+  - `quotes.py --strict` exits 1 on an uncited quotation, with a case in `selftest.py` that
+    fails on the old code;
+  - the summary line says „unchecked“, the word the task asks for.
+- Voice is the new failure class. In a document that reports another document, the reader must
+  tell the report from the verdict. The failures page now names both markers, „Das Protokoll …“
+  and „Das Audit …“ (item 13).
+- A self-check by the same model is weaker than a check by code or by another reader. R4 keeps
+  the claims pass and adds the strict gate; whether the pass earns its cost is R4's question.
 
 **Planned, and changed by what each run shows:**
 - **R3:** brief reasoning between tool calls, and several `--find` in one call. The unseen share and the number of calls measure each.

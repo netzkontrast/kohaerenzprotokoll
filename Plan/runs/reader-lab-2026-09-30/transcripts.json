@@ -1738,5 +1738,67 @@
   "role": "document-reader",
   "description": "R2: Haiku reads ki-narrative-kollaps",
   "minutes": 5.4
+ },
+ {
+  "slug": "kohaerenz-protokoll-audit-und-verifizierung",
+  "agent": "a1dfcf9d940a8c8e0",
+  "chars_per_token": 2.75,
+  "context_growth": 103613,
+  "unseen_tokens": 13281,
+  "unseen_share": 0.13,
+  "agent_type": "document-reader",
+  "wrote_chars": 88785,
+  "start": "2026-09-30T12:47:21.356Z",
+  "end": "2026-09-30T12:54:31.365Z",
+  "calls": 39,
+  "tokens": {
+   "input": 316,
+   "cache_write": 130576,
+   "cache_read": 3892536,
+   "output": 77
+  },
+  "cost": 553174.6000000001,
+  "peak_context": 130586,
+  "tools": {
+   "Read": 6,
+   "Bash": 29,
+   "Write": 3,
+   "Edit": 12,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 33,
+   "census.py": 5,
+   "quotes.py": 7
+  },
+  "reads": {
+   "Plan/runs/reader-lab-2026-09-30/card.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   "Plan/briefings/extract.md": 1,
+   "Plan/runs/kohaerenz-protokoll-audit-und-verifizierung/census-draft.md": 2,
+   "/root/.claude/projects/-home-user-kohaerenzprotokoll/9312df84-970d-5f58-8110-95cdece16e80/tool-results/bc02wjtgq.txt": 1
+  },
+  "result_chars": {
+   "Read": 115690,
+   "Bash": 44867,
+   "Write": 565,
+   "Edit": 2352,
+   "SubagentHandback": 61
+  },
+  "errors": 5,
+  "phases": {
+   "setup": {
+    "input": 316,
+    "cache_write": 130576,
+    "cache_read": 3892536,
+    "output": 77,
+    "calls": 39,
+    "cost": 553174.6000000001
+   }
+  },
+  "ended": "Perfect! All checks pass. Let me create my final report:  <SubagentHandback> <parameter name=\"message\">## Document Summary  **Kohärenz-Protokoll Audit und Verif",
+  "role": "document-reader",
+  "description": "R3: Haiku reads audit-und-verifizierung",
+  "minutes": 7.2
  }
 ]
