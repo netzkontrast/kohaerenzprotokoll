@@ -1,0 +1,55 @@
+# Every check the repository relies on, run on every commit, each as its own step.
+#
+# Why: the review of PR #110 (2026-09-30) found green results reported for a
+# commit on which nothing had run them — `account.py order` had even exited 0
+# while it failed. A step here gives each check's status and output to the
+# commit it ran on (P11: one status per check, never one bit for all).
+#
+# Only what the standard library runs: the derived index, the invariants and
+# the standard-library self-tests. The dspy, typesafe and Hyper-Extract suites
+# need their venvs and are skipped by `--only std`, which says how many it
+# skipped. Every step runs even when an earlier one failed.
+name: checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: derived index (scripts/derive.py)
+        run: python3 scripts/derive.py
+      - name: prose numbers (state.py --prose)
+        if: always()
+        run: python3 scripts/state.py --prose
+      - name: pipeline order (account.py order)
+        if: always()
+        run: python3 scripts/account.py order --summary
+      - name: quotations (quotes.py)
+        if: always()
+        run: python3 scripts/quotes.py
+      - name: frontmatter (wiki_index.py --check)
+        if: always()
+        run: python3 scripts/wiki_index.py --check
+      - name: judgement replay (judgements.py)
+        if: always()
+        run: python3 scripts/judgements.py --open
+      - name: chapter pages (chapters.py)
+        if: always()
+        run: python3 scripts/chapters.py
+      - name: sources overview (overview.py --check)
+        if: always()
+        run: python3 scripts/overview.py --check
+      - name: standard-library self-tests (selftests.py --only std)
+        if: always()
+        run: python3 scripts/selftests.py --only std
