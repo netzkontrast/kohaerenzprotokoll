@@ -110,9 +110,19 @@ collections:
         the line, and `qmd get <ref>:<line>:<count>` then reads a dozen lines
         instead of the record.
 
+  graph:
+    path: Graph
+    pattern: "**/*.md"
+    includeByDefault: false
+    context:
+      "": >
+        Human-readable graph atlas. A derived reading view,
+        never an independent source, database backup or approved assertion. Follow links to
+        Sources/Wiki and retrieve a specific source window only when needed.
+
   all:
     path: .
-    pattern: Sources/**/*.md,Wiki/**/*.md,Plan/**/*.md,*.md
+    pattern: Sources/**/*.md,Wiki/**/*.md,Plan/**/*.md,Graph/**/*.md,*.md
     includeByDefault: false
     context:
       "": >

@@ -127,6 +127,14 @@ class Integration(unittest.TestCase):
         self.assertEqual(self.db.read_bytes(), before)
         self.assertEqual(list(self.root.glob(".ask-*")), [])
 
+    def test_evidence_uses_the_reference_that_actually_verified(self):
+        import graph
+        text = '„Zitat“ ^[bad.md:L1] ^[good.md:L2]'
+        with patch("quotes.resolve", side_effect=lambda raw, default, quote: None if raw == "good.md:L2" else "wrong"):
+            rows = graph.evidence_of(Path("Wiki/candidates/fixture.md"), text)
+        self.assertEqual(rows[0]["status"], "verified")
+        self.assertEqual((rows[0]["doc"], rows[0]["line"], rows[0]["ref"]), ("good", 2, "good.md:L2"))
+
     def test_one_node_has_typed_and_core_labels(self):
         import askdb
         self.assertEqual(kg.DATABASE, askdb.DB)
