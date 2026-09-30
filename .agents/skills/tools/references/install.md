@@ -215,7 +215,8 @@ before corpus text goes. A Knowledge Abstract is a model's reading under the
 same limits as `knowledge-graph-extract`: no page, link or count comes from it,
 and it is written outside `Wiki/` and `Sources/`.
 
-**Four project templates exist and none has run**: `Plan/hyperextract/`
+**Four project templates exist and none has run on a document**; the stock
+`he parse` cannot load them by path, `python3 scripts/templates.py parse` can: `Plan/hyperextract/`
 (`TermCensus`, `LocationRegistry`, `TermReadings`, `StatedRelations`), each
 copying the shape of something already here so code can score it, each marked
 provisional. `python3 scripts/templates.py check` holds them to Hyper-Extract's

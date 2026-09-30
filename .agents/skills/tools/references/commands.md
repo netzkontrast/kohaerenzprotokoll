@@ -282,10 +282,14 @@ python3 scripts/route.py selftest           # offline: no key, no network
 echo PROMPT | python3 scripts/route.py complete --purpose P --doc SLUG
 python3 scripts/templates.py check [FILE ...]   # default: Plan/hyperextract/*.yaml
 python3 scripts/templates.py selftest           # every check shown to fail on its defect
+python3 scripts/templates.py parse <doc> -t Plan/hyperextract/<Name>.yaml -l en -o <ka> --source <slug>
+                                                # `he parse`, able to load a template by path
 ```
 
 - `route.py` sends only to OpenRouter models whose every listed price is 0,
   refuses a document `Plan/runs/route/consent.json` does not name, and records
   every call under `Plan/runs/route/` so a run replays offline.
-- `templates.py` needs `he` (`scripts/install.sh hyperextract`) and writes
-  nothing.
+- `templates.py` needs `he` (`scripts/install.sh hyperextract`). `check` and
+  `selftest` write nothing; `parse` writes what `he parse` writes, sends text to
+  the configured model, and so waits on decision 007 like `he parse` itself.
+  `he feed` on its output needs `-t <path>` again.

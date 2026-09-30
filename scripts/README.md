@@ -140,7 +140,7 @@ skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 
 | file | does | writes |
 |---|---|---|
-| `templates.py` | Checks the Hyper-Extract templates in `Plan/hyperextract/` against Hyper-Extract's validator, against loading them as `he parse` does, and against this project's rules — no line field, no model merge, the provisional header, no corpus name in a prompt. `selftest` shows each check failing on its defect. Needs `he`. | — |
+| `templates.py` | Checks the Hyper-Extract templates in `Plan/hyperextract/` against Hyper-Extract's validator, against loading them as `he parse` does, and against this project's rules — no line field, no model merge, the provisional header, no corpus name in a prompt. `selftest` shows each check failing on its defect. `parse` is `he parse` able to load a template by path, which the installed CLI cannot. Needs `he`. | — |
 
 ## Search
 
