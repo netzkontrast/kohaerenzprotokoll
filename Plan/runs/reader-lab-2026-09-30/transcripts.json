@@ -1619,5 +1619,124 @@
   "role": "document-reader",
   "description": "R1: finish technical-audit extraction",
   "minutes": 53.8
+ },
+ {
+  "slug": "Readings for documents 52 and 53",
+  "agent": "a498e3e1668b30880",
+  "chars_per_token": 2.05,
+  "context_growth": 191948,
+  "unseen_tokens": 54550,
+  "unseen_share": 0.28,
+  "agent_type": "wiki-reader",
+  "wrote_chars": 14339,
+  "start": "2026-09-30T11:43:48.077Z",
+  "end": "2026-09-30T11:53:56.644Z",
+  "calls": 25,
+  "tokens": {
+   "input": 50,
+   "cache_write": 221811,
+   "cache_read": 2956162,
+   "output": 218
+  },
+  "cost": 574019.95,
+  "peak_context": 221813,
+  "tools": {
+   "Read": 3,
+   "Bash": 32
+  },
+  "scripts": {
+   "read.py": 8,
+   "digest.py": 11
+  },
+  "reads": {
+   "Plan/runs/step6-readings-52-53/brief.md": 1,
+   "Sources/notes/ontologische-inversion-von-aegis-kritisches-framework.md": 1,
+   "Sources/notes/kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md": 1
+  },
+  "result_chars": {
+   "Read": 43598,
+   "Bash": 228089
+  },
+  "errors": 0,
+  "phases": {
+   "setup": {
+    "input": 50,
+    "cache_write": 221811,
+    "cache_read": 2956162,
+    "output": 218,
+    "calls": 25,
+    "cost": 574019.95
+   }
+  },
+  "ended": "",
+  "role": "wiki-reader",
+  "description": "Readings for documents 52 and 53",
+  "minutes": 10.1
+ },
+ {
+  "slug": "R2: Haiku reads ki-narrative-kollaps",
+  "agent": "afff1cdc1d3c0d803",
+  "chars_per_token": 2.94,
+  "context_growth": 83895,
+  "unseen_tokens": 15916,
+  "unseen_share": 0.19,
+  "agent_type": "document-reader",
+  "wrote_chars": 51003,
+  "start": "2026-09-30T12:31:49.134Z",
+  "end": "2026-09-30T12:37:14.927Z",
+  "calls": 56,
+  "tokens": {
+   "input": 452,
+   "cache_write": 109731,
+   "cache_read": 4545404,
+   "output": 656
+  },
+  "cost": 595436.15,
+  "peak_context": 109741,
+  "tools": {
+   "Read": 11,
+   "Bash": 25,
+   "Edit": 16,
+   "Write": 2,
+   "SubagentHandback": 1
+  },
+  "scripts": {
+   "read.py": 44,
+   "census.py": 4,
+   "quotes.py": 6
+  },
+  "reads": {
+   "Plan/runs/reader-lab-2026-09-30/tasks/r2-haiku.md": 1,
+   "Plan/runs/reader-lab-2026-09-30/card.md": 1,
+   ".agents/skills/reader-tools/references/failures.md": 1,
+   "Plan/briefings/extract.md": 1,
+   "Plan/runs/ki-narrative-kollaps-kohaerenz-paradoxie/03-candidates.md": 1,
+   "Plan/runs/ki-narrative-kollaps-kohaerenz-paradoxie/census-draft.md": 3,
+   "Sources/drive/ki-narrative-kollaps-kohaerenz-paradoxie.md": 1,
+   "Sources/terms/ki-narrative-kollaps-kohaerenz-paradoxie.md": 1,
+   "Sources/notes/ki-narrative-kollaps-kohaerenz-paradoxie.md": 1
+  },
+  "result_chars": {
+   "Read": 103363,
+   "Bash": 44902,
+   "Edit": 2811,
+   "Write": 373,
+   "SubagentHandback": 61
+  },
+  "errors": 4,
+  "phases": {
+   "setup": {
+    "input": 452,
+    "cache_write": 109731,
+    "cache_read": 4545404,
+    "output": 656,
+    "calls": 56,
+    "cost": 595436.15
+   }
+  },
+  "ended": "Excellent! All files pass verification. Let me prepare my final report:  <SubagentHandback> <parameter name=\"message\">## Reading complete: ki-narrative-kollaps-",
+  "role": "document-reader",
+  "description": "R2: Haiku reads ki-narrative-kollaps",
+  "minutes": 5.4
  }
 ]

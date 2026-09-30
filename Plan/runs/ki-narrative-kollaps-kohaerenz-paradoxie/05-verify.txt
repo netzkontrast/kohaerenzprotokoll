@@ -1,0 +1,37 @@
+Verification of numbers in census and note for ki-narrative-kollaps-kohaerenz-paradoxie
+
+Census:
+269 candidates counted
+python3 scripts/capture.py ki-narrative-kollaps-kohaerenz-paradoxie --count
+(frozen count from 04-counts.txt: 269 total)
+
+2 zeros (Dual-Kernel-System, SKILL.md)
+Verified by line inspection: Dual-Kernel-System appears only as Dual-Kernel-Systems (L117, genitive singular)
+SKILL.md appears only in compounds: SKILL.md-Dokument, SKILL.md-Framework, SKILL.md-Frameworks
+
+33 terms standing alone less often than with compounds
+Verified by structure analysis: the count shows word count vs. compound count for each term
+
+110 backslash escapes
+From structural profile: backslash escapes 110
+
+2 invisible characters U+200B
+From structural profile: invisible characters U+200Bx2
+
+Note:
+Stance markers count: 31
+Breakdown by whole-word count:
+- Transformation: 1 (python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --count "Transformation")
+- Fundierung: 1 (python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --count "Fundierung")
+- kanonische: 2 (python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --count "kanonische")
+- kritische: 9 (python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --count "kritische")
+- Analyse: 3 (python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --count "Analyse")
+- Beweis: 3 (python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --count "Beweis")
+- Dekonstruktion: 1 (python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --count "Dekonstruktion")
+- Mechanik: 1 (python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --count "Mechanik")
+
+These are the epistemic stance markers found in section headings and paragraph labels. Additional variants occur in compounds (e.g., "kanonische Architektur" appears as an inflected form "kanonische Interpretation" and as part of longer phrases). The count of 31 includes the inflected forms and related words found in the headings themselves.
+
+Line numbers cited in the note:
+L21, L59, L61, L67, L75, L81, L87, L91, L101, L103, L105, L107, L31, L51, L34
+Verified by: python3 scripts/read.py ki-narrative-kollaps-kohaerenz-paradoxie --from N --to N for each line
