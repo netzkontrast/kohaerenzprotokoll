@@ -1,0 +1,54 @@
+# ChapterBeats — what a document says happens in a numbered chapter, with the participants, each with that sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: decision 013: the chapter is a unit beside the term, and 98 chapter mentions in read documents still have no reading on their
+#   chapter's page; 218 plot-outline documents are unread. The mechanical NAMES_CHAPTER relation says a line names a chapter,
+#   not what happens there or who takes part.
+# measured against: the readings on the chapter pages (`Wiki/chapters/kap-NN.md`); a beat whose chapter is a page of the wiki is the attachable subset. A quote is placed by read.py --find (P26).
+# may not: write a chapter reading, decide what a chapter is about, or reconcile two plans' chapters — a beat is a P_HE_BEAT candidate for a reader
+# retire when: on three plot-outline documents a person keeps no beat beyond what the chapter pages already quote
+language: en
+name: ChapterBeats
+type: list
+tags: [chapters, beats, plot, german]
+description: "What a document says happens in a numbered chapter, with the participants, each with that sentence, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The chapter exactly as the document writes it, number included."
+      required: true
+    - name: target
+      type: str
+      description: "The participant or the event, exactly as the document writes it: a figure, a place, a term, or a short phrase for what happens."
+      required: true
+    - name: type
+      type: str
+      description: "event: what happens in the chapter. introduces: a figure, place or term first appears. resolves: a thread is closed. turns: a change of direction. involves: a figure or place takes part."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German research document and collect, verbatim, the sentences that say what happens in a numbered chapter and who takes part, so that a person can read the plans side by side."
+  rules:
+    - "Record a beat only when ONE sentence or one list line names the chapter by number and says what happens or who takes part; a chapter heading with its summary line counts, a heading alone does not."
+    - "The chapter and the participant or event both stand inside the quote; the chapter is copied as written, number included."
+    - "A range is one record with the range as written."
+    - "A beat the document marks as planned, possible or open is recorded with stance hedges."
+    - "Never infer a chapter from position in a list or from a heading above; never merge two chapters' lines."
+    - "When the words do not tie the event or the participant to a numbered chapter, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

@@ -1,0 +1,54 @@
+# TermTaxonomy — what a term is a kind of, a part of, or a member of, each with the sentence that says it.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the graph laboratory's diagnosis (Plan/runs/graph-lab-2026-09-30/diagnose.md): 38 of 96 gold pages are reached and
+#   outranked, and the outranking pages are hubs of one kind. The stated `[[links]]` are untyped, so a class and its
+#   members look like any two linked pages.
+# measured against: the wiki's own hierarchies where a page lists its members; a pair whose quote holds both names is the precise subset. A quote is placed by read.py --find (P26).
+# may not: create a page or a class — a class named here is a P_HE_TAXON endpoint, never a page — or decide that two things belong together
+# retire when: on three documents a person keeps no pair beyond what StatedRelations already gives as part_of
+language: en
+name: TermTaxonomy
+type: list
+tags: [taxonomy, hierarchy, membership, german]
+description: "What a term is a kind of, a part of, or a member of, each with the sentence that says it, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The member, the part or the instance, exactly as the document writes it."
+      required: true
+    - name: target
+      type: str
+      description: "The class, the whole or the group, exactly as the document writes it."
+      required: true
+    - name: type
+      type: str
+      description: "is_a: the member is a kind of the class. part_of: it is a component of the whole. member_of: it belongs to the group. instance_of: it is a single case of the kind. subtype_of: one class is a kind of another."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German research document and collect, verbatim, the sentences that say what a term is a kind of, a part of, or a member of, so that a person can see how the document sorts its terms."
+  rules:
+    - "Record a pair only when ONE sentence states the membership: ist ein, ist eine Art, gehört zu, ist Teil von, besteht aus, umfasst, unterteilt sich in, or a list that a sentence introduces as the members of a named group."
+    - "For a list of members under one class, record one pair per member, each with the list item's own line when it names the class or the member with the class."
+    - "Both names must stand inside the quote. A member that stands only in a list item whose class is named by the sentence above is recorded with stance cites and the list item as the quote."
+    - "A description is not a class: X ist mächtig is no pair. The target is a name or a noun phrase of at most four words."
+    - "Never infer a hierarchy from proximity, from a shared prefix, or from background knowledge."
+    - "When the words do not state the membership, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

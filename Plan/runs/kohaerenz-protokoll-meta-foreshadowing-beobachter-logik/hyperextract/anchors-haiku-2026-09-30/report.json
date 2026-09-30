@@ -1,0 +1,364 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+  "input_rows": 14,
+  "candidates": 6,
+  "refused": 8,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:236aca5f1c5c3366035cd9f926294cdcd10519204f26b43c511631cbf6ca2e39",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael ist die Manifestation des Lesers",
+        "target": "finaler Twist",
+        "type": "plants",
+        "quote": "Um den finalen Twist vorzubereiten – dass Kael die Manifestation des Lesers ist",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael ist die Manifestation des Lesers",
+        "finaler Twist"
+      ]
+    },
+    {
+      "id": "claim:0cb27b06bd2fd885331f11d4dbd7840bbad045d430095722a42b064ce81a5a1a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "die Welt mit dem Zuklappen des Buches stirbt",
+        "target": "finaler Twist",
+        "type": "plants",
+        "quote": "dass Kael die Manifestation des Lesers ist und seine Welt mit dem Zuklappen des Buches stirbt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "die Welt mit dem Zuklappen des Buches stirbt",
+        "finaler Twist"
+      ]
+    },
+    {
+      "id": "claim:a6b09a7f9e93fee166b70e3aacbc6fcd0731b926c913e96054272cfc6a326408",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stasis-Lücken und Glitch-Momente",
+        "target": "Teil 1",
+        "type": "plants",
+        "quote": "müssen wir subtile „Glitch-Momente“ und systemische Hinweise einbauen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Stasis-Lücken und Glitch-Momente"
+      ]
+    },
+    {
+      "id": "claim:cfae774bc3599413fa34764321169badb1e832d79b2545f57cc107e5bd9ebffd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Zeit fließt nicht linear, sondern „getaktet“",
+        "target": "Teil 1",
+        "type": "plants",
+        "quote": "Kael sollte früh bemerken, dass die Zeit im Konstrukt nicht linear fließt, sondern „getaktet“ ist",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Zeit fließt nicht linear, sondern „getaktet“"
+      ]
+    },
+    {
+      "id": "claim:62f838d6a054551674739be7e3c7131d269016f235115a6090cfad1a3e2c5499",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "die Welt friert ein, wenn der Leser das Buch weglegt",
+        "target": "Teil 1",
+        "type": "plants",
+        "quote": "Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird (das Buch weglegt)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "die Welt friert ein, wenn der Leser das Buch weglegt"
+      ]
+    },
+    {
+      "id": "claim:ce91d91a106f1701748dc8f4b78f685618b98abe3fc24ca1f589b82519c26ebd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS wartet auf ein „Signal“",
+        "target": "Teil 2",
+        "type": "plants",
+        "quote": "AEGIS agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS wartet auf ein „Signal“"
+      ]
+    },
+    {
+      "id": "claim:8b956661648707947ed75329bf86eb802b3e0a8cde9a6e26f803757a1f354fda",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS hat Angst vor dem Zuklappen des Buches",
+        "target": "Teil 2",
+        "type": "plants",
+        "quote": "AEGIS hat Angst vor dem Zuklappen des Buches",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:be1ff63e7cb94cfff4027a4126e26bffd6f1029bc841944ccf09c54214441a77",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Rendering-Grenzen als technische Limits",
+        "target": "Teil 1 & 2",
+        "type": "plants",
+        "quote": "Integriere Hinweise auf die Grenzen der Mathematik und Physik als technische Limits des Lesers",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        32
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Rendering-Grenzen als technische Limits"
+      ]
+    },
+    {
+      "id": "claim:d2916d1e2113e81f516bd4851a9ad29fb9aa8dc87ded15be767bbb474377a9bd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen",
+        "target": "Teil 1 & 2",
+        "type": "plants",
+        "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        34
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d8bc86558cc51bc2b200b0242392879cb512cbe4c57da9867777e86575314706",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann",
+        "target": "Teil 1 & 2",
+        "type": "plants",
+        "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0260e76d0b0ed9f4dc86c1f078aa2d2b3cbb5aea52e4deddc9a890fdd5a6051c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna ist diejenige, die Kael die Wahrheit flüstert",
+        "target": "Teil 3",
+        "type": "plants",
+        "quote": "Juna ist diejenige, die Kael die Wahrheit flüstert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:eba5f290d301a24eec0181d1d114df680ee6280f4f4a5ded68a5ae13fd0838c6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael ist die Sonde, die der Leser in das Trauma geschickt hat",
+        "target": "Teil 3",
+        "type": "pays_off",
+        "quote": "Kael ist die Sonde, die der Leser in das Trauma geschickt hat",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:481922c6eec96fd53b527d7490c8d98ec512fa3b1415dddd4a6c35b654bdb3c0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet",
+        "target": "Kapitel 39",
+        "type": "pays_off",
+        "quote": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9842f43aafa23f4a807640ee2bbc866ac5a522dd0d0758eeb5cd87fd05e2fc30",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen",
+        "target": "das finale Kapitel",
+        "type": "closes",
+        "quote": "Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Anchors",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8c9388d8c5d4137efd717e64ca4dd58d7570eae83d4b854a73c7f1c5321f7f5f",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "das finale Kapitel"
+      ]
+    }
+  ]
+}

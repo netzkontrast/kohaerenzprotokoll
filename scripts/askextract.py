@@ -42,6 +42,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import math
 import re
 import sys
 from collections import Counter, defaultdict
@@ -169,7 +170,36 @@ def extract(docs: list[tuple[str, Path]], term_surfaces: dict[str, str], entity_
         nodes[h["key"]] = ({k: v for k, v in h.items() if k not in ("key", "members")}, "Hyperedge")
         for m in h["members"]:
             edges.append((h["key"], m, {}, "P_MEMBER"))
+    edges += learn_comention(para_terms)
     return {"nodes": nodes, "edges": edges, "hyperedges": len(hyper)}
+
+
+def learn_comention(para_terms: list[tuple[str, str, frozenset]]) -> list[tuple[str, str, dict, str]]:
+    """Every pair of pages that stand in one paragraph in at least two documents: `P_COMENTION`, counted and
+    never stated (no line states it, so the type is a `P_` type and no query for stated facts names it).
+
+    `docs` is the number of documents that hold the pair; `npmi` its normalised pointwise mutual information
+    over documents, in [-1, 1] — how much more often than chance the two meet, which is specificity. The raw
+    count is not offered: it ranks a pair by how often two frequent pages meet, which is the hubs again, and
+    `graphlab.py enrich` measured it lowering recall of the wiki's labels by 0.11 where npmi raised it by 0.10."""
+    docs_all = {d for d, _, _ in para_terms}
+    term_docs: dict[str, set] = defaultdict(set)
+    pair_docs: dict[tuple, set] = defaultdict(set)
+    for doc, _, terms in para_terms:
+        ts = sorted(terms)[:12]                 # a paragraph naming dozens of pages is a list, not a relation
+        for t in ts:
+            term_docs[t].add(doc)
+        for pair in combinations(ts, 2):
+            pair_docs[pair].add(doc)
+    n = max(len(docs_all), 1)
+    out = []
+    for (a, b), docs in sorted(pair_docs.items()):
+        if len(docs) < 2:
+            continue
+        pab, pa, pb = len(docs) / n, len(term_docs[a]) / n, len(term_docs[b]) / n
+        value = math.log(pab / (pa * pb)) / -math.log(pab) if 0 < pab < 1 else 0.0
+        out.append((a, b, {"docs": len(docs), "npmi": round(value, 4)}, "P_COMENTION"))
+    return out
 
 
 def learn_cooccurrence(para_terms: list[tuple[str, str, frozenset]]) -> list[dict]:
@@ -257,6 +287,17 @@ def selftest() -> list[str]:
         par = [k for k, (p, lab) in n.items() if lab == "Hyperedge" and p["method"] == "parallel"]
         if len(par) != 1:
             fails.append(f"the passage shared by a and b is not one parallel hyperedge: {par}")
+    fs = frozenset
+    pt = [("d1", "p1", fs({"term:a", "term:b"})), ("d2", "p2", fs({"term:a", "term:b"})),
+          ("d3", "p3", fs({"term:a", "term:c"})), ("d4", "p4", fs({"term:d"})), ("d5", "p5", fs({"term:d"}))]
+    got = learn_comention(pt)
+    if [(a, b, p["docs"], t) for a, b, p, t in got] != [("term:a", "term:b", 2, "P_COMENTION")]:
+        fails.append(f"a pair in two documents is one counted relation and a pair in one is none: {got}")
+    elif not 0.55 < got[0][2]["npmi"] < 0.56:
+        fails.append(f"npmi of two pages that meet in 2 of 5 documents, one in 3, one in 2: {got[0][2]}")
+    always = learn_comention([(f"d{i}", f"p{i}", fs({"term:a", "term:b"})) for i in range(3)])
+    if not always or always[0][2]["npmi"] != 0.0:
+        fails.append(f"two pages present in every document meet no more often than chance: {always}")
     return fails
 
 

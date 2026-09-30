@@ -76,6 +76,7 @@ SUITES = [
     ("crossdoc: the groups apart, counts not ranks", "std", ["scripts/crossdoc.py", "selftest"]),
     ("claims: a sentence beside its line, cells checked", "std", ["scripts/claims.py", "selftest"]),
     ("graph lab: weights, folds, paired comparison", "std", ["scripts/graphlab.py", "selftest"]),
+    ("hyperextract graph: rows, footings, cue rule, prior", "std", ["scripts/hegraph.py", "selftest"]),
     ("reader lab: the clean reader's gate", "std",
      ["Plan/runs/reader-lab-2026-09-30/clean_reader.py", "selftest"]),
     ("qmd coverage patterns", "std", ["scripts/qmd_coverage.py", "--selftest"]),

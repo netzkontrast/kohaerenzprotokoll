@@ -1,0 +1,577 @@
+{
+  "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+  "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+  "input_rows": 23,
+  "candidates": 16,
+  "refused": 7,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:eef3b9d2a10f8ccbbc7df878913744fbd8b11cdfedaa7e8e0f9334f5a507c00e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "a universe",
+        "target": "defaults to chaos",
+        "type": "always",
+        "quote": "In a universe that defaults to chaos",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        15
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:20ebf83a965082578d3e62682eb9c4b56482f37c718aba372c48e09c4f57ba0b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "coherence in our universe",
+        "target": "is not a passive, default state",
+        "type": "must_not",
+        "quote": "coherence in our universe is not a passive, default state",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5aac68a5aafd10a71fa1222e0ae82d2dbbfc9cf6ffa370e6ada626ad53a8e6e7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "coherence in our universe",
+        "target": "is an active, energy-intensive, and ongoing process that systems must constantly execute to persist",
+        "type": "must",
+        "quote": "It is an active, energy-intensive, and ongoing process that systems must constantly execute to persist against the universal tendency toward dissolution",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b1bf6a917afb73094017844aa66c62c698ceb4069fb0a6f8e4e07092e502a559",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "systems",
+        "target": "must constantly execute coherence to persist against the universal tendency toward dissolution",
+        "type": "must",
+        "quote": "systems must constantly execute to persist against the universal tendency toward dissolution",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "must constantly execute coherence to persist against the universal tendency toward dissolution"
+      ]
+    },
+    {
+      "id": "claim:084dd9d3388feeefcc9f6fb911a3a4d791b2f51c881d93eaa856ac5228fc5945",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "each processor core",
+        "target": "maintains its own small, private memory called a cache",
+        "type": "must",
+        "quote": "each processor core maintains its own small, private memory called a cache",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        23
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dd1c0186566dc27b58306e133254e7ad24bc0b4303de4bb3d4fd2e31ab41b84f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "every processor",
+        "target": "follow a cache coherence protocol",
+        "type": "must",
+        "quote": "an explicit set of rules that every processor must follow—a cache coherence protocol",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "follow a cache coherence protocol"
+      ]
+    },
+    {
+      "id": "claim:f48923c83beb1cc4dbd2f42da3037ef8d9783e6c85ce7cd19db617683cd37880",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Protocols like MESI",
+        "target": "define the state of every piece of data and dictate how cores must communicate to ensure they all share a single, consistent view of memory",
+        "type": "must",
+        "quote": "defining the state of every piece of data and dictating how cores must communicate to ensure they all share a single, consistent view of memory",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "define the state of every piece of data and dictate how cores must communicate to ensure they all share a single, consistent view of memory"
+      ]
+    },
+    {
+      "id": "claim:6a921ff93d6b1948134b311f0016052dba2a98381d595a9a358d8bbe62789a52",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "maintaining this shared reality",
+        "target": "is not free",
+        "type": "always",
+        "quote": "maintaining this shared reality is not free",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9b2ca0fae83dfc292d8fdb80480ab3d69505c1d051dd354983738af532628019",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "coherence",
+        "target": "is an active, resource-intensive process of preservation, not a passive, default state",
+        "type": "always",
+        "quote": "coherence is an active, resource-intensive process of preservation, not a passive, default state",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5b596148ef78e4583633c108a8edcfa2abcff32f595d06ac5072ce82a4d625d0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "quantum coherence",
+        "target": "destroyed through any unwanted interaction with the surrounding environment",
+        "type": "must_not",
+        "quote": "this quantum coherence is exquisitely fragile. It is destroyed through any unwanted interaction with the surrounding environment",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d43b6edaa355d1d7d5c52f942470a830a4befb40956f79f8bb5e0dd60f145e19",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Any interaction",
+        "target": "effectively \"measures\" the quantum system",
+        "type": "always",
+        "quote": "Any interaction—with a stray photon, a vibrating atom, or a magnetic field—effectively \"measures\" the quantum system.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7d87cdc0c9d29082d34c56ae22afd19a73f7243ef2ffae7ec4a5bef90fb4824d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "the system's superposition of possibilities",
+        "target": "collapse into a single, definite, classical state",
+        "type": "if_then",
+        "quote": "This act of measurement forces the system's superposition of possibilities to \"collapse\" into a single, definite, classical state that is consistent with the outcome of that interaction.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "collapse into a single, definite, classical state"
+      ]
+    },
+    {
+      "id": "claim:f2603194092a6e5f36daef4bbe73048314d1f9f340dd42f6dc1af0ac93b97da1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "quantum coherence",
+        "target": "is a tangible, finite commodity",
+        "type": "always",
+        "quote": "quantum coherence is treated not as an abstract property but as a tangible, finite commodity.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "is a tangible, finite commodity"
+      ]
+    },
+    {
+      "id": "claim:81c7f04a67d622ca2640c62ed0922a86fa55d3f06eb0036b9c145a0db9945c46",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "quantum coherence",
+        "target": "is constantly being consumed by the universe's interactions",
+        "type": "always",
+        "quote": "It is a resource that is constantly being consumed by the universe's interactions",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce342c9a5c059bb4897105c7bf2b841f026eb100effc36033bf1186c4b433004",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "a single bird in a flock",
+        "target": "follow a few rules, like matching the speed and direction of its immediate neighbors while maintaining a safe distance",
+        "type": "must",
+        "quote": "A single bird in a flock only needs to follow a few rules, like matching the speed and direction of its immediate neighbors while maintaining a safe distance.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "a single bird in a flock"
+      ]
+    },
+    {
+      "id": "claim:9425e6b6ee0a2906716070de2f30ad39572e4f3773ea085fc6503931ffc9efa9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "the flock's collective movement",
+        "target": "dictate the path of the individual bird",
+        "type": "always",
+        "quote": "The flock's collective movement now dictates the path of the individual bird.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "the flock's collective movement",
+        "dictate the path of the individual bird"
+      ]
+    },
+    {
+      "id": "claim:cbe8d6daca1abf2ccdd6a914cd7c86de90c1ea439dabd0ed4c4075b864a950e3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "each bird",
+        "target": "sacrifice its individual freedom to fly in any direction",
+        "type": "must",
+        "quote": "each bird must sacrifice its individual freedom to fly in any direction",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        45
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:55776d7d720eb5284ba6b123b2cc2d2c1e6ff7f1275cbe313c52236520c9eaf1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "a system's persistence",
+        "target": "depends on an active protocol that maintains its coherence against a constant threat of collapse or dissolution",
+        "type": "must",
+        "quote": "a system's persistence depends on an active protocol that maintains its coherence against a constant threat of collapse or dissolution",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        49
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:da6f754ed861372f5ce34c9a096010dcaf9de68aa3c7cad1c99867bb15440d43",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "K₁ system",
+        "target": "actively maintaining their integrity against the constant pressure of K₀",
+        "type": "always",
+        "quote": "existence is not a static state of being. It is the dynamic process of K₁ structures actively maintaining their integrity against the constant pressure of K₀",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        65
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9f5b82a9d24bf6ad500c414d71ff28918e3cfc5f4f94b92c3c4542a302e638dc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "coherence",
+        "target": "is a fragile, resource-intensive, and continuous achievement",
+        "type": "always",
+        "quote": "coherence is not a given. It is a fragile, resource-intensive, and continuous achievement",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2e436879658ee6c45f331aa37644cc08125e19193622746157ee1b9d47f1d96f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stability",
+        "target": "be constantly performed",
+        "type": "must",
+        "quote": "Stability is not a passive property of matter but a dynamic process that must be constantly performed.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        71
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6add5c23ed397188874b7e0c17d84a4784170ac83a78f4e6b2fe633589ae24ed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "The universe",
+        "target": "the ongoing execution of a multi-layered Coherence Protocol",
+        "type": "always",
+        "quote": "The universe is not a static collection of things but the ongoing execution of a multi-layered Coherence Protocol.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        71
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:50d03f80cfbd924374d6c5c86a2ee3a41ad8c36b7f01c61a7a2ddebe46f6b9d5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "persistence",
+        "target": "not a default property but an acquired skill",
+        "type": "always",
+        "quote": "persistence is not a default property but an acquired skill.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Rules",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        71
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

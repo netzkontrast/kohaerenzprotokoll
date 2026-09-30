@@ -1,0 +1,1575 @@
+{
+  "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+  "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+  "input_rows": 64,
+  "candidates": 50,
+  "refused": 14,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:54397748a94348a5566bced2795bd6b83f533bad78f532edd84f39e23fdc14d6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wechsel zwischen Stimmen",
+        "target": "werden nie durch Header, Etikett oder Ansage markiert",
+        "type": "device",
+        "quote": "Wechsel zwischen Stimmen werden **nie** durch Header, Etikett oder Ansage markiert.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:673a32ed730e19b059cc71e016f8e137bf2961006a3fb903ab46cdc7c4557260",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Leser",
+        "target": "erkennt den neuen Anteil ausschließlich an Syntax und Vokabular",
+        "type": "device",
+        "quote": "Der Leser erkennt den neuen Anteil ausschließlich an Syntax und Vokabular.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:60731e3200d72eef2381952fea4acbde40fe629a01b75220e7d1cb3db455d9e8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Dissoziation",
+        "target": "ist Amnesie-Terror, niemals Crew-Menü",
+        "type": "device",
+        "quote": "Dissoziation ist Amnesie-Terror, niemals Crew-Menü.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f8e58b2389b5f970d9f4b161f4fbf6cdbe370e3954becd72e5dd4612a6d84a9d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "abstrakte Konzepte pro Szene",
+        "target": "maximal ein",
+        "type": "structure",
+        "quote": "Maximal ein abstraktes Konzept pro Szene.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "abstrakte Konzepte pro Szene",
+        "maximal ein"
+      ]
+    },
+    {
+      "id": "claim:6564d407a85c3573ed2eb8d75588ecf3c8b0de2bcc42c85296b11c30f817092a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erste 50 Seiten",
+        "target": "null DKT-Terminologie — nur Phänomenologie",
+        "type": "diction",
+        "quote": "Erste 50 Seiten: null DKT-Terminologie — nur Phänomenologie.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fadfb931b31ff983070f01aecd28efe5775443e8353a10077fe4f5793251c380",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "abstrakte Vorgänge",
+        "target": "Sensorische Verankerung Pflicht; erscheinen als physische Bilder",
+        "type": "device",
+        "quote": "Sensorische Verankerung Pflicht; abstrakte Vorgänge erscheinen als physische Bilder.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Sensorische Verankerung Pflicht; erscheinen als physische Bilder"
+      ]
+    },
+    {
+      "id": "claim:94f0ecb20a42be079d7d9d18787d43e5bc7ed325612120c365520ea0c2a280f9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Schwellen",
+        "target": "wer eine Schwelle sanft macht, lügt über das Trauma",
+        "type": "device",
+        "quote": "Wer eine Schwelle sanft macht, lügt über das Trauma.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Schwellen",
+        "wer eine Schwelle sanft macht, lügt über das Trauma"
+      ]
+    },
+    {
+      "id": "claim:e56559b3b1e601001316e6e0523f0ab0a5720e89135b7e97bf6ac4d934584396",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erzähler-Stimme",
+        "target": "Niemals didaktisch, niemals erklärend",
+        "type": "voice",
+        "quote": "Niemals didaktisch, niemals erklärend.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        29
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dd34234350199c27aa097b86394cb6cb45d72e74a37488874d2e80169127640a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS (operative Hälfte / MC in Storyform B)",
+        "target": "nie „ich“",
+        "type": "pov",
+        "quote": "3. Person personal, nie „ich“.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "nie „ich“"
+      ]
+    },
+    {
+      "id": "claim:d5653ecb22505c1cd8800e21302ea1d60e6f6d13f1ec6ac3007406cc47c9b34d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS (operative Hälfte / MC in Storyform B)",
+        "target": "Keine Metapher, kein moralisches Vokabular, keine Empfindung, kein Witz.",
+        "type": "diction",
+        "quote": "Keine Metapher, kein moralisches Vokabular, keine Empfindung, kein Witz.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        37
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e97cb6bc37227bf39b2dac92b41018ded4837f68f2af2f73ee766b4959a14fce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS (operative Hälfte / MC in Storyform B)",
+        "target": "Juna nie als Subjekt — nur als Wirkung.",
+        "type": "diction",
+        "quote": "Juna nie als Subjekt — nur als Wirkung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        37
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:36d99338de0b777fd2155b48f0de324f973ed2004e217b25c1853014375b254e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS (operative Hälfte / MC in Storyform B)",
+        "target": "Bricht nur einmal, im Vortex-Beat 5.",
+        "type": "structure",
+        "quote": "Bricht nur einmal, im Vortex-Beat 5.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        37
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dd71af9599f2766e8a350f00e72f9e324a2a9d0cc5b99013bb3ade6e91d3aa1f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-Pol",
+        "target": "Keine Metaphern, keine Pausen — Vollzug",
+        "type": "diction",
+        "quote": "Keine Metaphern, keine Pausen — Vollzug.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8fc193fd834350a8a648dad013ba3978b8fbe8e027d58aad6f337fa43e0a499a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-Pol",
+        "target": "Nicht eigenständig moralisch",
+        "type": "voice",
+        "quote": "Nicht eigenständig moralisch.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:72c048d64b11322d92719510370013d2376172a75ff16496972309ee8053d8ab",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-Pol",
+        "target": "Keine Persönlichkeit jenseits der Funktion",
+        "type": "voice",
+        "quote": "Keine Persönlichkeit jenseits der Funktion.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:95cf518b94de2465a465a2d2f8016f4eaa098cb5a8bde7e30c2bd4b0490c4a1d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Erasure-Pol",
+        "target": "Wenn er spricht, dann nur in Vollzugsmeldungen — und auch nur dort, wo es struktureller Bedarf gibt",
+        "type": "voice",
+        "quote": "Wenn er spricht, dann nur in Vollzugsmeldungen — und auch nur dort, wo es struktureller Bedarf gibt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        53
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2bba73e84ab7bb5f720b43172fdc72b3ab0c877107b09b64cebea23b80ff7aa1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Niemals POV",
+        "type": "pov",
+        "quote": "Niemals POV.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7eb76781de586c137227af0edcaa01d1054b9d2605816bccafe30271ab16ec25",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Niemals Subjekt eines Satzes",
+        "type": "voice",
+        "quote": "Niemals Subjekt eines Satzes.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f10d1ee91ffc118c25a442d8e96aa1f7ab74b1eeeb87feb12dcbad5b8c180001",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Nie physisch beschrieben — keine Augen, keine Stimme, kein Gesicht",
+        "type": "diction",
+        "quote": "Nie physisch beschrieben — keine Augen, keine Stimme, kein Gesicht.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f502386093b4e7dbc60a8394f9d0112963254369065cd4b3d8e9cf7b21b88710",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Nie Deus ex Machina",
+        "type": "device",
+        "quote": "Nie Deus ex Machina.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ed3916a6295d0e9b886de6f5e03a0631973ac45bf1a8944c5d74517fae691345",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Erst Kap 38 direkt erscheinen — vorher ausschließlich Wirkung",
+        "type": "structure",
+        "quote": "Erst Kap 38 direkt erscheinen — vorher ausschließlich Wirkung.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:87cc731bcd0a594f48e703903c4daa0ba69a3b2fea0b2b8f63f9e087a72ba9ec",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael (Host / MC in Storyform A)",
+        "target": "1. Person, Präsens dominiert",
+        "type": "pov",
+        "quote": "POV / Syntax: 1. Person, Präsens dominiert.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d013235c29b5e52cbf32cd69872807d037139d523393be8654ce23725a5afcf9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Beschreibt nie eigenes Empfinden direkt",
+        "type": "diction",
+        "quote": "Beschreibt nie eigenes Empfinden direkt — Welt um sich, Empfinden zwischen den Zeilen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1e6c342b2872c3bbaa8274100276a0fb6c18f0cbceedc32b1c091ee248103b79",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "In Akt I keine DKT-Begriffe, kein „Alter“, kein „Fragment“",
+        "type": "diction",
+        "quote": "In Akt I keine DKT-Begriffe, kein „Alter“, kein „Fragment“.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "In Akt I keine DKT-Begriffe, kein „Alter“, kein „Fragment“"
+      ]
+    },
+    {
+      "id": "claim:fd6c3f3c44d31f7d13d3106d6a08d72b15fbc5a1f04abe344fe19394c1c31d95",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "Multiplizitäts-Schleier bis Kap 13",
+        "type": "structure",
+        "quote": "Multiplizitäts-Schleier bis Kap 13.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1d73f24f3877eab5a06f7de1f9783ec34c131e9c86ffcbe7fa51faa2da967a50",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lex (ANP / Rationalist)",
+        "target": "Lex flucht nie. Lex weint nie.",
+        "type": "diction",
+        "quote": "Lex flucht nie. Lex weint nie.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6f5fdae75f35cc19641705e70a4ee8fc29cd42cf0c794061419e770ae5392002",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lex",
+        "target": "Lex argumentiert mit Syllogismen, auch wenn das System brennt.",
+        "type": "device",
+        "quote": "Lex argumentiert mit Syllogismen, auch wenn das System brennt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lex"
+      ]
+    },
+    {
+      "id": "claim:db7f8ecfbbf407136a0d576a8f1d0b14778340167ae03eb82b22a591a7754e63",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lex",
+        "target": "Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.",
+        "type": "device",
+        "quote": "Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        77
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Lex"
+      ]
+    },
+    {
+      "id": "claim:642472fb256fbc09c202725909273dd1c019c6239251eff3b24985c63ac4033f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Alex (ANP / Protektor)",
+        "target": "spricht nie über Gefühle in der 1. Person",
+        "type": "voice",
+        "quote": "Alex spricht nie über Gefühle in der 1. Person.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e7dfd181eb53dd8b451fe8b38107f425f210c080edbd1dcd6e4f01fe8b7381c0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Alex (ANP / Protektor)",
+        "target": "Niemals „Ich liebe dich“",
+        "type": "diction",
+        "quote": "Niemals „Ich liebe dich“.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "Niemals „Ich liebe dich“"
+      ]
+    },
+    {
+      "id": "claim:cf98041e8dc6985e0294f4a9a7c1eda02afc5d03282238600c3ba12ca6b0b089",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selene",
+        "target": "1. Person",
+        "type": "pov",
+        "quote": "POV / Syntax: 1. Person.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        69,
+        77,
+        85,
+        93,
+        101,
+        109,
+        117,
+        125,
+        133,
+        141,
+        149,
+        157,
+        165,
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:81c016641a0e8e37fa4790ca27d4629f4a257030d49ce620f895897457757fb1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selene",
+        "target": "Lange Pausen als syntaktisches Element",
+        "type": "device",
+        "quote": "Lange Pausen als syntaktisches Element.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        101
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cac4f1d844c604266bd387f488542ca87a270e6a7c97fef1d3ee2e05f9117e7a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Selene",
+        "target": "Selene drängt nie",
+        "type": "device",
+        "quote": "Selene drängt nie.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        101
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:01186cbc9e9ce81a0f1fe1c066fbfe780334706d8d827ac01ed783f32c8737db",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Argus",
+        "target": "1. Person, aber distanziert wie 3.",
+        "type": "pov",
+        "quote": "POV / Syntax: 1. Person, aber distanziert wie 3.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        109
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6b93cf696477fbc7fef5f7c851b7854006135e3291e8549713cc9d8707961efc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Argus",
+        "target": "Niemals affektiv",
+        "type": "diction",
+        "quote": "Niemals affektiv.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        109
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:da8dbba01d1c1691fe0e65ad11c14267bffbf5e556e6e64d47524ce8a97a9698",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nyx (EP / Fight)",
+        "target": "Keine Konnektoren",
+        "type": "diction",
+        "quote": "Keine Konnektoren.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        117
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0bf7f09cec7eab035f7b02438d2780653c1a1d1d243b17fd96f057ff3878f56a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nyx (EP / Fight)",
+        "target": "Verb-Erststellung, oft Imperativ",
+        "type": "voice",
+        "quote": "Verb-Erststellung, oft Imperativ.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        117
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c0fd4c86f66b823ade325e10e0bd264dbbc0b767d489c349e3e8d27c00056fcd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nyx (EP / Fight)",
+        "target": "Negationen alleinstehend („Nicht.“)",
+        "type": "device",
+        "quote": "Negationen alleinstehend („Nicht.“)",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "Negationen alleinstehend („Nicht.“)"
+      ]
+    },
+    {
+      "id": "claim:08db712fa2c88b7c941e57c70c52cb363bc8624ae1048128814682b2b0ead84e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nyx (EP / Fight)",
+        "target": "Nicht „weiblich-wütend“ als Klischee",
+        "type": "diction",
+        "quote": "Nicht „weiblich-wütend“ als Klischee.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "Nicht „weiblich-wütend“ als Klischee"
+      ]
+    },
+    {
+      "id": "claim:086c3e5c7b964bf49f8642ae2f2dacd6ca5689e6d64cdf4edfdbacc90d1ae1e8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Nyx (EP / Fight)",
+        "target": "Punkte statt Ausrufezeichen",
+        "type": "format",
+        "quote": "Punkte statt Ausrufezeichen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        117
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a31d3895c959f0818d83d659c2fd9b96cd08ed858c336eb4c9c9b19607888edf",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kiko (EP / Freeze / Kind)",
+        "target": "Kiko ist nicht „niedlich“",
+        "type": "voice",
+        "quote": "Kiko ist nicht „niedlich“.",
+        "stance": "denies"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "Kiko ist nicht „niedlich“"
+      ]
+    },
+    {
+      "id": "claim:c425c04ddc62aa03c193116fbc1bb70d4b45bcb14a6f7c9e50ffdbd8776c08c0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kiko (EP / Freeze / Kind)",
+        "target": "Ihre Sätze sind nicht süß — sie sind verstümmelt durch Angst",
+        "type": "voice",
+        "quote": "Ihre Sätze sind nicht süß — sie sind verstümmelt durch Angst.",
+        "stance": "denies"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        125
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fe5f70f171527617584048fe52ff11d94f55c5a3187bfb688524d834462e6bd1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kiko (EP / Freeze / Kind)",
+        "target": "Wenn die Sprache komplexer wird, ist das ein anderer Anteil oder ein Heilungs-Marker",
+        "type": "device",
+        "quote": "Wenn die Sprache komplexer wird, ist das ein anderer Anteil oder ein Heilungs-Marker.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        125
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:041ea595ec040a7e6c19dc2501fd48443db8c331abf014fd4df3ff81c569efdd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lia (EP / Ambivalent / Kind)",
+        "target": "Lia ist nicht launisch",
+        "type": "voice",
+        "quote": "Lia ist nicht launisch.",
+        "stance": "denies"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        133
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9aa187519e3e49b0ec3ea02c6f84dba1d83a5f348ac1f4cb02a98413adb33a18",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lia (EP / Ambivalent / Kind)",
+        "target": "Jeder Versuch, ihre Stimme glatt zu schreiben, falsifiziert sie",
+        "type": "device",
+        "quote": "Jeder Versuch, ihre Stimme glatt zu schreiben, falsifiziert sie.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        133
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f0ed091cd3781d443fb8d05a49eb005ab47088500f148f0c9786831956d0f5be",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Lia (EP / Ambivalent / Kind)",
+        "target": "Ihre Sätze müssen brechen, damit sie ehrlich sind",
+        "type": "device",
+        "quote": "Ihre Sätze müssen brechen, damit sie ehrlich sind.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        133
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:83d5e3d36f6bd5159824c3ef61c7341a02eed6d3f38373f3efd7560a65a72e14",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Isabelle",
+        "target": "Die Reihenfolge ist immer ihre",
+        "type": "device",
+        "quote": "Kontrolle als Verführung — die Reihenfolge ist immer ihre.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Die Reihenfolge ist immer ihre"
+      ]
+    },
+    {
+      "id": "claim:5567aa8f5a65596c92d672bff14b180aa247ab7e12110a30f3e862531442c54f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Isabelle",
+        "target": "Niemals als Klischee schreiben",
+        "type": "diction",
+        "quote": "Niemals als Klischee schreiben.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e0f1836bec8e1d300c3d87ee61aff8bf0c70540c0672c382264e73955d1eca40",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Isabelle",
+        "target": "Isabelle wird nicht gerettet und nicht durch Sanftheit integriert",
+        "type": "device",
+        "quote": "Isabelle wird nicht gerettet und nicht durch Sanftheit integriert.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        141
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4ce94bdcc5fdef167735ad539fd851c5b03fb9d59a335f95990ee3d7284e09fb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moros",
+        "target": "Wiederholung als Rhythmus des Kollapses",
+        "type": "device",
+        "quote": "Wiederholung als Rhythmus des Kollapses.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        149
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:973565d9176b386ed139977d50eb8db42adab5b5c607f9bce646aa86b4d5087f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moros",
+        "target": "Nicht depressiv im klinischen Sinne — katatonisch",
+        "type": "voice",
+        "quote": "Nicht depressiv im klinischen Sinne — katatonisch.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        149
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:da7bba44779678010cdac7343945a87f807d5eeec8fe42b863ef468128150bd6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Moros",
+        "target": "Wenn Moros lange genug präsent ist, schreibt der Roman selbst langsamer",
+        "type": "device",
+        "quote": "Wenn Moros lange genug präsent ist, schreibt der Roman selbst langsamer.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        149
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:39b455f6c36d4703daff4e7c274a90396234704a7d3d187825523de4ba22c832",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Silas",
+        "target": "Niemals als heimliche Heldin schreiben",
+        "type": "device",
+        "quote": "Niemals als heimliche Heldin schreiben.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        157
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:81f86b3d19b3ce079591505a303b5348a4523c9214dcb47ed71ba253500ef75d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Silas",
+        "target": "Er ist Resonanz, kein Subjekt im klassischen Sinn",
+        "type": "device",
+        "quote": "Er ist Resonanz, kein Subjekt im klassischen Sinn.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        157
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:41ddcfea16b62062a4fbcc5991b5c5ec9e7a0da5a08680e1daea2c11644320ef",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Oblivion",
+        "target": "Seine Kapitel sind strukturell anders: Lücken, abgebrochene Wörter, weggeätzte Stellen",
+        "type": "structure",
+        "quote": "Seine Kapitel sind strukturell anders: Lücken, abgebrochene Wörter, weggeätzte Stellen.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        165
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8897ecaee50479dbc0001a39e86b5d78c1a09d6d1ad8f6d4c0300d678756e09a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wir-Stimme",
+        "target": "Niemals Final Fusion",
+        "type": "device",
+        "quote": "Niemals Final Fusion.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:162eb7402115fc68acb7d0c2c46bdb1c293c22cdfcb235d719ab9a9451dc8932",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wir-Stimme",
+        "target": "Das Wir ist Mosaik, nicht Monolith",
+        "type": "device",
+        "quote": "Das Wir ist Mosaik, nicht Monolith.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b2e8683998e0b55600b065b5cc361d126284ea0e3eedc56b67c3989cd541d1ca",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Wir-Stimme",
+        "target": "Wer das Wir glatt schreibt, hat die zentrale ethische Linie verletzt",
+        "type": "voice",
+        "quote": "Wer das Wir glatt schreibt, hat die zentrale ethische Linie verletzt.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c71aa896c16a7fe6232efb6abbb2b266c5351efcfc308f11046e37caf5aecd0d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Akt-Stilebenen, Stilebene 3",
+        "target": "Stilebenen 1 und 2 verschwinden nicht — sie werden in 3 erinnert",
+        "type": "structure",
+        "quote": "Stilebenen 1 und 2 verschwinden nicht — sie werden in 3 erinnert.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        189
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Akt-Stilebenen, Stilebene 3"
+      ]
+    },
+    {
+      "id": "claim:7e1326326b73d60bbe70d2e8314d29611b41eeaae10f74911236eba736792a13",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KW1 — Konstrukt-Stadt / Logos-Prime",
+        "target": "Metaphernverbot",
+        "type": "diction",
+        "quote": "Metaphernverbot",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        213
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f5d5a49e0a4c4d7e69b166253d9d76c68fafd39aa4332b6ba361f9533707f002",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Vortex 2 (Kap 38–39)",
+        "target": "Kein didaktischer Tonfall, kein Triumph",
+        "type": "voice",
+        "quote": "Kein didaktischer Tonfall, kein Triumph",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        201
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8f9adc525803cd6ab9e783a07d44f5c27c5eb66f1d57c56cfec0893a3131d4c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stimmen",
+        "target": "werden nie etikettiert",
+        "type": "voice",
+        "quote": "Stimmen werden nie etikettiert.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        249
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:46530f54af5b840c0a4fc534a4c02baa410700a72efa882b165dedb401b646e8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stimmen",
+        "target": "Der Leser erkennt sie an der Syntax, nicht am Header",
+        "type": "voice",
+        "quote": "Der Leser erkennt sie an der Syntax, nicht am Header.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        249
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8b5d78f25ae6e1b2544500b0a007b752a79e4ecb989a5314ad6651b6c2e26fff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Stimmen",
+        "target": "Das ist die einzige Hard Rule, die nie verletzt wird",
+        "type": "lock",
+        "quote": "Das ist die einzige Hard Rule, die nie verletzt wird.",
+        "stance": "asserts"
+      },
+      "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+      "template": "ProseRules",
+      "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+      "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        249
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

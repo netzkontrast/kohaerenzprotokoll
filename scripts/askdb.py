@@ -12,8 +12,11 @@ standing of what `ask` writes. This module builds and reads `Plan/derived/ask.db
 - **the proposal graph** — verified entity lists as `Entity` nodes with
   `P_NAMED_IN` edges (a model chose the name, code placed the line); `P_BM25`
   edges from a page or a line to a line that shares its words and writes none of
-  its names (`bm25rel.py`), each with the verdict a reader gave it. Every
-  proposal relation type starts with `P_`, and no query for stated facts names one;
+  its names (`bm25rel.py`), each with the verdict a reader gave it; `P_HE_<KIND>`
+  edges from the line a HyperExtract contract quoted to its contract node (`he:<KIND>`)
+  and to each page or entity its names, or its quotation, contain (`hegraph.py`),
+  one type per contract, each graded by code.
+  Every proposal relation type starts with `P_`, and no query for stated facts names one;
 - **full text** — `lines`: every non-empty line of every landed document;
   `quotes`: every verified quotation on a term page. FTS5, `bm25()` ranking,
   no vectors.
@@ -270,6 +273,15 @@ def collect() -> dict:
                 "id": r["id"], "query": r["query"], "score": r["score"], "rank": r["rank"],
                 "method": r.get("method", "bm25"), "verdict": r["verdict"]}, "P_BM25"))
 
+    # what a HyperExtract contract read on a line (hegraph.py): the quotation's line to its contract (`he:<KIND>`)
+    # and to each page or entity its names, or its quotation, contain — a proposal, one relation type per
+    # contract, graded by code, never in the core
+    import hegraph
+    named = {**{k.split(":", 1)[1]: k for k in nodes if k.startswith("entity:")}, **surfaces}
+    contracts, proposed = hegraph.edges(nodes, named)
+    nodes.update(contracts)
+    edges += proposed
+
     quotes = [(ev["doc"], ev["line"], ev["quote"], page)
               for page, evs in g.get("evidence", {}).items()
               for ev in evs if ev.get("status") == "verified" and ev.get("doc")]
@@ -356,7 +368,9 @@ INPUTS = ("Sources/manifest.jsonl", "Sources/duplicates.jsonl", "Sources/drive/*
           "Plan/weichen/*.md", "Plan/entities/**/*", "scripts/askdb.py", "scripts/askextract.py",
           "scripts/graph.py", "scripts/kg.py", "scripts/quotes.py", "scripts/subject.py",
           "scripts/wiki_index.py", "scripts/capture.py", "scripts/read.py", "scripts/entities.py",
-          "scripts/graphrag.py", "scripts/bm25rel.py", "Plan/runs/bm25/*.jsonl")
+          "scripts/graphrag.py", "scripts/bm25rel.py", "Plan/runs/bm25/*.jsonl",
+          "scripts/hegraph.py", "Plan/runs/*/hyperextract/*/report.json",
+          "Plan/runs/hyperextract-templates-2026-09-30/labels.jsonl")
 
 
 def inputs(root=ROOT):
@@ -564,6 +578,38 @@ class Store:
         return self.cypher(f"MATCH (p:Paragraph)-[:HAS_LINE]->(l:Line)-[:MENTIONS]->(t:Term) WHERE t.id IN [{ids}] "
                            f"WITH p, count(DISTINCT t.id) AS k WHERE k >= {need} "
                            f"RETURN p.slug AS slug, p.first AS first, p.last AS last, k ORDER BY k DESC LIMIT {limit}")
+
+    def comention_edges(self, min_docs: int = 2, square: bool = True) -> list[dict]:
+        """The counted co-mention relation as edges for `graphrag.retrieve(extra=…)`: page pairs that stand in one
+        paragraph in at least `min_docs` documents with a positive normalised PMI, each scaled by the PMI (squared:
+        the scale `graphlab.py comention` found best). Walked only at the weight the caller gives the type
+        `comention`; `ask.py` gives it none unless asked."""
+        rows = self.cypher("MATCH (a:Term)-[r:P_COMENTION]->(b:Term) "
+                           f"WHERE r.docs >= {int(min_docs)} AND r.npmi > 0 RETURN a.id AS a, b.id AS b, r.npmi AS v")
+        return [{"source": r["a"], "target": r["b"], "type": "comention", "w": r["v"] ** 2 if square else r["v"],
+                 "via": "counted over documents"} for r in rows]
+
+    def he_lines(self, keys: list[str], kinds: list[str] | None = None, min_quality: int = 0,
+                 limit: int = 60) -> list[dict]:
+        """Lines a HyperExtract contract read that concern one of these pages or entities (`hegraph.py`).
+
+        Two ways in, merged: the contract's own edge to the page — its subject, which may come from the heading
+        the line stands under and be written nowhere on the line — and the line's `MENTIONS` of the page when a
+        contract read it at all. A proposal: the kind is a model's claim, the pages were found by code.
+        `kinds` are `hegraph.KIND` values (`CAUSAL`, …). `min_quality` is 0 because the grade did not separate
+        good records from bad ones on the labelled sample (`Plan/runs/hyperextract-templates-2026-09-30/yield.md`);
+        it is a parameter so that a later measurement can turn it on."""
+        if not keys:
+            return []
+        ids = ", ".join(json.dumps(k) for k in keys)
+        only = "" if not kinds else " AND type(r) IN [" + ", ".join(json.dumps(f"P_HE_{k}") for k in kinds) + "]"
+        grade = f" AND r.quality >= {int(min_quality)}" if min_quality else ""
+        ret = "RETURN DISTINCT l.slug AS slug, l.line AS line, type(r) AS kind"
+        direct = self.cypher(f"MATCH (l:Line)-[r]->(t) WHERE t.id IN [{ids}] AND type(r) STARTS WITH 'P_HE_'{only}{grade} {ret}")
+        seen = self.cypher(f"MATCH (l:Line)-[:MENTIONS]->(t:Term) WHERE t.id IN [{ids}] "
+                           f"MATCH (l)-[r]->(k:Contract) WHERE type(r) STARTS WITH 'P_HE_'{only}{grade} {ret}")
+        rows = {(r["slug"], r["line"], r["kind"]): r for r in direct + seen}
+        return sorted(rows.values(), key=lambda r: (r["slug"], r["line"], r["kind"]))[:limit]
 
     def parallels(self, para: str) -> list[dict]:
         """The same passage in other documents: co-members of a learned `parallel` hyperedge."""

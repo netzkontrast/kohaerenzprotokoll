@@ -1,0 +1,15 @@
+== default 14:32:01
+24 cases: document recall 0.262, line recall 0.092
+== with-he-lines 14:33:20
+24 cases: document recall 0.256, line recall 0.09
+== without-graph-evidence 14:35:08
+24 cases: document recall 0.193, line recall 0.068
+== without-bm25-lines 14:36:26
+24 cases: document recall 0.181, line recall 0.053
+== without-entity-unread 14:37:26
+24 cases: document recall 0.262, line recall 0.092
+== without-co-mention 14:38:48
+24 cases: document recall 0.291, line recall 0.096
+== without-parallel 14:39:30
+24 cases: document recall 0.248, line recall 0.091
+== done 14:40:42

@@ -1,0 +1,54 @@
+# StructureBeats — a structural beat, turn or shape a source places in the book — inciting incident, midpoint, crisis, climax, frame, mode change — and where.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the developmental-editor's craft criteria (spine, structure, arc: the beats where the book claims them, or the deliberate alternative shape) and GOAL.md 5.1
+#   (four simultaneous levels: the Kishōtenketsu clamp, the dual storyform, three narrative modes, and the brackets between chapters). Three
+#   transitions are structurally different and never confused: a mode change, the storyform turn, the consolidation.
+# measured against: `Wiki/overview/plot.md` and the chapter pages, where each source's macro structure is laid side by side; a beat whose place resolves to a chapter is the attachable subset. A quote is placed by read.py --find (P26).
+# may not: decide the book's structure, or that a lens applies — W1 is the author's; a beat here is a P_HE_STRUCT candidate laid beside the treatment as a finding, never a fault
+# retire when: on three documents a person keeps no beat beyond what plot.md already tabulates
+language: en
+name: StructureBeats
+type: list
+tags: [structure, beats, act, storyform, german]
+description: "A structural beat, turn or shape a source places in the book — inciting incident, midpoint, crisis, climax, frame, mode change — and where, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The beat, turn or shape exactly as the source names it."
+      required: true
+    - name: target
+      type: str
+      description: "Where the source places it, exactly as written: a chapter, a range, a percentage, an act."
+      required: true
+    - name: type
+      type: str
+      description: "inciting: the event that starts the story. turn: an act turn. midpoint: the reversal at the middle. crisis: the low point. climax: the peak. resolution: how it ends. frame_open: the frame's first part. frame_close: its closing part. mode_change: a change of narrative mode. storyform_turn: a change of the governing storyform. consolidation: the merging of what was two. bracket: a pair of chapters the source ties together. beat_of_n: one of a numbered series of beats the source lays out."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German plan or analysis of a novel and collect, verbatim, the sentences that place a structural beat, turn or frame in the book, so that a person can lay the sources' structures side by side."
+  rules:
+    - "Record a record only when ONE sentence names the beat or shape and where the source places it."
+    - "The beat and the place both stand inside the quote; the place is copied as written."
+    - "Three transitions are kept apart by type: mode_change, storyform_turn, consolidation."
+    - "A placement the source marks as approximate or planned is recorded with stance hedges."
+    - "Never infer a beat from a number of chapters, a percentage or a heading; never assign a beat the source does not name."
+    - "When the words do not place the beat, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

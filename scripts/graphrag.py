@@ -130,13 +130,21 @@ def seeds(graph: dict, query: str, glosses: list[dict] | None = None) -> dict[st
     return found
 
 
-def pagerank(graph: dict, start: dict[str, float], weights: dict[str, float] | None = None) -> dict[str, float]:
+def pagerank(graph: dict, start: dict[str, float], weights: dict[str, float] | None = None,
+             hub: float = 0.0, spec: float = 0.0) -> dict[str, float]:
     """Personalized PageRank: restart at the seeds, walk typed edges both ways.
 
     `weights` maps an edge type to its weight and defaults to `WEIGHTS`; a type it
     does not name is not walked. An edge may carry its own scale, `w`, which
     multiplies its type's weight; the stated edges carry none. `graphlab.py` varies
     both, so that what a relation type is worth is measured rather than chosen.
+
+    Two corrections for hubs, both off by default and both asked by `graphlab.py hub`
+    before anything turns them on: `hub` divides each node's rank by its degree to
+    that power — the walk's stationary mass grows with degree, so `aegis` and `juna`
+    outrank the pages around them whatever the query — and `spec` divides each seed's
+    restart weight by its degree to that power, so a seed that touches everything
+    pulls less than one that touches little (HippoRAG's node specificity).
     """
     if not start:
         return {}
@@ -147,6 +155,8 @@ def pagerank(graph: dict, start: dict[str, float], weights: dict[str, float] | N
         if w and e["source"] in graph["nodes"] and e["target"] in graph["nodes"]:
             out.setdefault(e["source"], []).append((e["target"], w))
             out.setdefault(e["target"], []).append((e["source"], w))
+    if spec:
+        start = {k: v / max(len(out.get(k, ())), 1) ** spec for k, v in start.items()}
     total = sum(start.values())
     restart = {k: v / total for k, v in start.items()}
     rank = dict(restart)
@@ -162,6 +172,8 @@ def pagerank(graph: dict, start: dict[str, float], weights: dict[str, float] | N
             for target, w in links:
                 nxt[target] = nxt.get(target, 0.0) + DAMPING * mass * w / norm
         rank = nxt
+    if hub:
+        rank = {k: v / max(len(out.get(k, ())), 1) ** hub for k, v in rank.items()}
     return rank
 
 
@@ -194,12 +206,13 @@ def select_mmr(relevance: list[float], similar, budget: int = BUDGET,
 
 
 def ranked_terms(graph: dict, seeded: dict, method: str = "ppr", top_terms: int = TOP_TERMS,
-                 weights: dict[str, float] | None = None) -> tuple[dict[str, float], list[str]]:
+                 weights: dict[str, float] | None = None, hub: float = 0.0,
+                 spec: float = 0.0) -> tuple[dict[str, float], list[str]]:
     """The rank of every node reached and the top term pages: what `retrieve` and the lab share."""
     if method.startswith("seeds"):
         rank = {k: w for k, (w, _) in seeded.items()}
     else:
-        rank = pagerank(graph, {k: w for k, (w, _) in seeded.items()}, weights)
+        rank = pagerank(graph, {k: w for k, (w, _) in seeded.items()}, weights, hub, spec)
     terms = sorted((k for k in rank if graph["nodes"].get(k, {}).get("type") == "term"),
                    key=lambda k: (-rank[k], k))[:top_terms]
     return rank, terms
@@ -207,8 +220,12 @@ def ranked_terms(graph: dict, seeded: dict, method: str = "ppr", top_terms: int 
 
 def retrieve(query: str, graph: dict | None = None, top_terms: int = TOP_TERMS,
              budget: int = BUDGET, include_unchecked: bool = False, method: str = "ppr",
-             weights: dict[str, float] | None = None) -> dict:
+             weights: dict[str, float] | None = None, extra: list[dict] | None = None) -> dict:
+    """`extra` is a list of further relations for the walk, each `{source, target, type, w}`, walked at the weight
+    `weights` gives its type. Off by default: `ask.py` passes the counted co-mention relation only when asked."""
     graph = graph or kg.build()
+    if extra:
+        graph = {**graph, "edges": graph["edges"] + extra}
     prop = kg.proposals()
     seeded = seeds(graph, query, prop["glosses"] if method.endswith("+gloss") else None)
     rank, terms = ranked_terms(graph, seeded, method, top_terms, weights)

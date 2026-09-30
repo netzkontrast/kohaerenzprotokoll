@@ -1,0 +1,12 @@
+{
+  "document": "kp-kap25-2026-09-14-md",
+  "template": "Utterances.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 11,
+  "failed_calls": 0,
+  "seconds": 68.9,
+  "input_tokens": 57749,
+  "output_tokens": 5696,
+  "cost_usd": 0.1439,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

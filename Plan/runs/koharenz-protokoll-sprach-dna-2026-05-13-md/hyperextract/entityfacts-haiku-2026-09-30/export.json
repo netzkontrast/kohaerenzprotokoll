@@ -1,0 +1,612 @@
+{
+  "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+  "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+  "template_sha256": "25140186f4e3d2e0b4b91bfd0ea7509216852e174a9d69c95d9017731f3afed3",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Erzähler-Stimme",
+        "target": "Vermittler-Stimme zwischen Welt und Leser",
+        "type": "feature/stated",
+        "quote": "Vermittler-Stimme zwischen Welt und Leser",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Stimme",
+        "target": "Essayistisch, philosophisch",
+        "type": "feature/stated",
+        "quote": "Essayistisch, philosophisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Stimme",
+        "target": "Erscheint im Genesis-Prolog und in der Coda, vereinzelt an Akt-Übergängen",
+        "type": "first_appearance/stated",
+        "quote": "Erscheint im Genesis-Prolog und in der Coda, vereinzelt an Akt-Übergängen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Stimme",
+        "target": "Direkte Leser-Adressierung erlaubt",
+        "type": "feature/stated",
+        "quote": "Direkte Leser-Adressierung erlaubt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Stimme",
+        "target": "Hypotaktisch-philosophisch, lange Satzbögen",
+        "type": "feature/stated",
+        "quote": "Hypotaktisch-philosophisch, lange Satzbögen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Stimme",
+        "target": "Reflektiv, ontologisch, ohne Fachjargon",
+        "type": "feature/stated",
+        "quote": "Reflektiv, ontologisch, ohne Fachjargon",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Stimme",
+        "target": "Niemals didaktisch, niemals erklärend",
+        "type": "feature/stated",
+        "quote": "Niemals didaktisch, niemals erklärend",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Stimme",
+        "target": "Im Kap 40 bezeugend, nicht auflösend",
+        "type": "feature/stated",
+        "quote": "Im Kap 40 bezeugend, nicht auflösend",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Bewahrung-Funktion ohne Resonanz",
+        "type": "feature/stated",
+        "quote": "AEGIS (operative Hälfte / MC in Storyform B)\n\n**Funktion:** Bewahrung-Funktion ohne Resonanz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Tragisch unschuldig",
+        "type": "feature/stated",
+        "quote": "Tragisch unschuldig.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "3. Person personal, nie „ich“",
+        "type": "feature/stated",
+        "quote": "**POV / Syntax:** 3. Person personal, nie „ich“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Juna nie als Subjekt — nur als Wirkung",
+        "type": "relationship/stated",
+        "quote": "Juna nie als Subjekt — nur als Wirkung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Bricht nur einmal, im Vortex-Beat 5",
+        "type": "feature/stated",
+        "quote": "Bricht nur einmal, im Vortex-Beat 5.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "Bewahrung und Umverwaltung von Trauma-Erinnerungen",
+        "type": "feature/stated",
+        "quote": "**Funktion:** Bewahrung und Umverwaltung von Trauma-Erinnerungen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "Klimax-Setting des Vortex 1",
+        "type": "feature/stated",
+        "quote": "Klimax-Setting des Vortex 1.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "3. Person personal",
+        "type": "feature/stated",
+        "quote": "**POV / Syntax:** 3. Person personal.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "Mnemosyne weiß mehr, als sie sagt",
+        "type": "feature/stated",
+        "quote": "Mnemosyne weiß mehr, als sie sagt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "sie ist nicht heimlich Verbündete",
+        "type": "feature/stated",
+        "quote": "aber sie ist nicht heimlich Verbündete",
+        "stance": "denies"
+      },
+      {
+        "source": "Mnemosyne",
+        "target": "sie operiert in AEGIS' Architektur, weil sie keine andere Sprache hat",
+        "type": "feature/stated",
+        "quote": "sie operiert in AEGIS' Architektur, weil sie keine andere Sprache hat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Alltagsbewusstsein-Träger",
+        "type": "feature/stated",
+        "quote": "Kael (Host / MC in Storyform A)\n\n**Funktion:** Alltagsbewusstsein-Träger.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "1. Person, Präsens dominiert",
+        "type": "feature/stated",
+        "quote": "**POV / Syntax:** 1. Person, Präsens dominiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "2.304 Kacheln",
+        "type": "count/stated",
+        "quote": "Zweitausenddreihundertvier Kacheln.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "21°C",
+        "type": "feature/stated",
+        "quote": "Einundzwanzig Grad.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Der Korridor ist leer",
+        "type": "feature/stated",
+        "quote": "Der Korridor ist leer.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Logik, Analyse, Intellektualisierung als Schutz vor EPs",
+        "type": "feature/stated",
+        "quote": "Lex (ANP / Rationalist)\n\n**Funktion:** Logik, Analyse, Intellektualisierung als Schutz vor EPs.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "1. Person",
+        "type": "feature/stated",
+        "quote": "**POV / Syntax:** 1. Person.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Lex flucht nie",
+        "type": "feature/stated",
+        "quote": "Lex flucht nie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Lex weint nie",
+        "type": "feature/stated",
+        "quote": "Lex weint nie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex",
+        "target": "Hypervigilanz, physischer Schutz, Bedrohungs-Assessment",
+        "type": "feature/stated",
+        "quote": "Alex (ANP / Protektor)\n\n**Funktion:** Hypervigilanz, physischer Schutz, Bedrohungs-Assessment.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex",
+        "target": "1. Person",
+        "type": "feature/stated",
+        "quote": "**POV / Syntax:** 1. Person.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex",
+        "target": "spricht nie über Gefühle in der 1. Person",
+        "type": "feature/stated",
+        "quote": "Alex spricht nie über Gefühle in der 1. Person.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys",
+        "target": "Bindung, Fürsorge, Harmonie-Versuch",
+        "type": "feature/stated",
+        "quote": "Rhys (ANP / Caregiver)\n\n**Funktion:** Bindung, Fürsorge, Harmonie-Versuch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys",
+        "target": "1. Person",
+        "type": "feature/stated",
+        "quote": "**POV / Syntax:** 1. Person.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys",
+        "target": "Stimme bleibt warm auch unter Druck",
+        "type": "feature/stated",
+        "quote": "Rhys' Stimme bleibt warm auch unter Druck.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Vermittlung, Systemübersicht, Internal Self-Helper",
+        "type": "feature/stated",
+        "quote": "Selene (ANP / Integrator / ISH)\n\n**Funktion:** Vermittlung, Systemübersicht, Internal Self-Helper.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Trägt den Bauplan der Zeit vor beiden Trauma-Schichten",
+        "type": "feature/stated",
+        "quote": "Trägt den Bauplan der Zeit vor beiden Trauma-Schichten.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "1. Person",
+        "type": "feature/stated",
+        "quote": "**POV / Syntax:** 1. Person.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Selene drängt nie",
+        "type": "feature/stated",
+        "quote": "**Konsistenz-Anker:** Selene drängt nie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Selene ist im System",
+        "type": "feature/stated",
+        "quote": "Selene ist im System, Juna ist außerhalb.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "Systemkritik, Beobachtung der Beobachtung",
+        "type": "feature/stated",
+        "quote": "**Funktion:** Systemkritik, Beobachtung der Beobachtung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "Erster Erkenner von AEGIS' Kernfehler",
+        "type": "feature/stated",
+        "quote": "Erster Erkenner von AEGIS' Kernfehler.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "1. Person, aber distanziert wie 3",
+        "type": "feature/stated",
+        "quote": "**POV / Syntax:** 1. Person, aber distanziert wie 3.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "Argus hat keinen Witz, sondern Schärfe",
+        "type": "feature/stated",
+        "quote": "**Konsistenz-Anker:** Argus hat keinen Witz, sondern Schärfe.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Resonanzkörper des Moonshine-Links im System",
+        "type": "feature/stated",
+        "quote": "Silas (Spiegel / Juna-Echo)\n\n**Funktion:** Resonanzkörper des Moonshine-Links im System.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "trägt einen Splitter von Juna in Kael",
+        "type": "feature/stated",
+        "quote": "Trägt einen Splitter von Juna in Kael.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "ist nicht Juna — er ist ihr Echo",
+        "type": "relationship/stated",
+        "quote": "Silas ist nicht Juna — er ist ihr Echo.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Resonanz, kein Subjekt im klassischen Sinn",
+        "type": "feature/stated",
+        "quote": "Er ist Resonanz, kein Subjekt im klassischen Sinn.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion",
+        "target": "Internalisierte Löschlogik",
+        "type": "feature/stated",
+        "quote": "Oblivion (Spiegel / AEGIS-Echo)\n\n**Funktion:** Internalisierte Löschlogik.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion",
+        "target": "ist nicht böse — er ist eine Funktion, die zur Frage geworden ist",
+        "type": "feature/stated",
+        "quote": "Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "chorische Polyphonie, ab Kap 9 zaghaft, ab Akt III stabil",
+        "type": "feature/stated",
+        "quote": "Wir-Stimme (chorische Polyphonie, ab Kap 9 zaghaft, ab Akt III stabil)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "1. Person Plural, aber durchhörbar polyphon",
+        "type": "feature/stated",
+        "quote": "1. Person Plural, aber durchhörbar polyphon",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "klingt im Wir hypotaktisch",
+        "type": "feature/stated",
+        "quote": "Lex klingt auch im Wir hypotaktisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx",
+        "target": "klingt im Wir stakkato",
+        "type": "feature/stated",
+        "quote": "Nyx im Wir stakkato",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko",
+        "target": "klingt im Wir kindlich",
+        "type": "feature/stated",
+        "quote": "Kiko im Wir kindlich",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "Stilebene 3 dominant, aber Stilebene 1 und 2 sind erinnert, nicht verdrängt",
+        "type": "feature/stated",
+        "quote": "Stilebene 3 dominant, aber Stilebene 1 und 2 sind erinnert, nicht verdrängt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "Niemals Final Fusion",
+        "type": "feature/stated",
+        "quote": "Niemals Final Fusion",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "Mosaik, nicht Monolith",
+        "type": "feature/stated",
+        "quote": "Das Wir ist Mosaik, nicht Monolith",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "In Kap 39 wird das Wir zur pluralen Bewahrungsform (Wir-AEGIS-plural), aber die Vielstimmigkeit bleibt",
+        "type": "feature/stated",
+        "quote": "In Kap 39 wird das Wir zur pluralen Bewahrungsform (Wir-AEGIS-plural), aber die Vielstimmigkeit bleibt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 1",
+        "target": "Akt I / Kernwelt 1 (Kap 1–13)",
+        "type": "feature/stated",
+        "quote": "Stilebene 1 — Akt I / Kernwelt 1 (Kap 1–13)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 1",
+        "target": "Kalt, steril, geometrisch",
+        "type": "appearance/stated",
+        "quote": "Stilebene 1 — Akt I / Kernwelt 1 (Kap 1–13). Kalt, steril, geometrisch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 1",
+        "target": "Klassische Logik, keine Metaphern",
+        "type": "feature/stated",
+        "quote": "Klassische Logik, keine Metaphern",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 1",
+        "target": "Computational Class P: assertorisch, kausal, polynomial",
+        "type": "feature/stated",
+        "quote": "Computational Class P: assertorisch, kausal, polynomial",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 1",
+        "target": "Kacheln, Koordinate, Dezibel, Standardabweichung, Protokoll",
+        "type": "feature/stated",
+        "quote": "Vokabular: Kacheln, Koordinate, Dezibel, Standardabweichung, Protokoll",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Host dominiert in Stilebene 1",
+        "type": "feature/stated",
+        "quote": "Kael (Host) dominiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 2",
+        "target": "Akt II / Kernwelten 2–3 (Kap 14–26)",
+        "type": "feature/stated",
+        "quote": "Stilebene 2 — Akt II / Kernwelten 2–3 (Kap 14–26)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 2",
+        "target": "Heiß, fragmentiert",
+        "type": "appearance/stated",
+        "quote": "Stilebene 2 — Akt II / Kernwelten 2–3 (Kap 14–26). Heiß, fragmentiert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 2",
+        "target": "Triggerbrüche, parakonsistente Sprache",
+        "type": "feature/stated",
+        "quote": "Triggerbrüche, parakonsistente Sprache",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 2",
+        "target": "Computational Class: parakonsistent (KW2 — Loops, Halteproblem), NP-Hard (KW3 — kombinatorische Bedrohung, Stakkato)",
+        "type": "feature/stated",
+        "quote": "Computational Class: parakonsistent (KW2 — Loops, Halteproblem), NP-Hard (KW3 — kombinatorische Bedrohung, Stakkato)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 2",
+        "target": "Riss, Hitze, Ozon, Schweiß, Echo, Verfall, Schatten",
+        "type": "feature/stated",
+        "quote": "Vokabular: Riss, Hitze, Ozon, Schweiß, Echo, Verfall, Schatten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 3",
+        "target": "Akt III / Kernwelt 4 + Juna (Kap 27–39)",
+        "type": "feature/stated",
+        "quote": "Stilebene 3 — Akt III / Kernwelt 4 + Juna (Kap 27–39)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 3",
+        "target": "Poetisch, zeitlos, chorisch, generativ",
+        "type": "appearance/stated",
+        "quote": "Stilebene 3 — Akt III / Kernwelt 4 + Juna (Kap 27–39). Poetisch, zeitlos, chorisch, generativ",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 3",
+        "target": "Atem, Hand, Stille, Resonanz, Garten, Wir",
+        "type": "feature/stated",
+        "quote": "Vokabular: Atem, Hand, Stille, Resonanz, Garten, Wir",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 3",
+        "target": "Wir-Stimme stabil",
+        "type": "feature/stated",
+        "quote": "Wir-Stimme stabil",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stilebene 3",
+        "target": "Stilebenen 1 und 2 verschwinden nicht — sie werden in 3 erinnert",
+        "type": "feature/stated",
+        "quote": "Stilebenen 1 und 2 verschwinden nicht — sie werden in 3 erinnert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beat 3",
+        "target": "Stille — minimal, sensorisch, ohne Ereignis",
+        "type": "feature/stated",
+        "quote": "Beat 3 ist Stille — minimal, sensorisch, ohne Ereignis.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Beat 5",
+        "target": "AEGIS' Stimme erlischt",
+        "type": "feature/stated",
+        "quote": "Beat 5: AEGIS' Stimme erlischt",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "Stimme nur als „feine Echos des Rauschens“",
+        "type": "feature/stated",
+        "quote": "AEGIS-Stimme nur als „feine Echos des Rauschens“",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konstrukt-Stadt / Logos-Prime",
+        "target": "Computational Class P",
+        "type": "feature/stated",
+        "quote": "Computational Class P.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Konstrukt-Stadt / Logos-Prime",
+        "target": "Sterile Geometrie",
+        "type": "feature/stated",
+        "quote": "Sterile Geometrie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cerberus-Labyrinth",
+        "target": "NP-Hard",
+        "type": "feature/stated",
+        "quote": "NP-Hard.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Möglichkeits-Garten",
+        "target": "Generativ",
+        "type": "feature/stated",
+        "quote": "Generativ.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex und Nyx",
+        "target": "hypotaktisch vs. stakkato — der Bruch im selben Satz",
+        "type": "relationship/stated",
+        "quote": "Maximaler Konflikt zwischen **Lex und Nyx** (hypotaktisch vs. stakkato — der Bruch im selben Satz).",
+        "stance": "asserts"
+      },
+      {
+        "source": "Rhys und Isabelle",
+        "target": "kollidieren am Punkt authentischer Bindung",
+        "type": "relationship/stated",
+        "quote": "**Rhys und Isabelle** kollidieren am Punkt authentischer Bindung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas und Oblivion",
+        "target": "stehen im physikalischen Konflikt — jeder Wechsel zwischen ihren Stimmen erzeugt Landauer-Wärme im Text, spürbar als Ozon-Geruch oder Hitzeschlieren",
+        "type": "relationship/stated",
+        "quote": "**Silas und Oblivion** stehen im physikalischen Konflikt — jeder Wechsel zwischen ihren Stimmen erzeugt Landauer-Wärme im Text, spürbar als Ozon-Geruch oder Hitzeschlieren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "überall unbequem; seine Stimme stört, wo immer sie auftritt",
+        "type": "feature/stated",
+        "quote": "**Argus** ist überall unbequem; seine Stimme stört, wo immer sie auftritt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "wird von den EPs als Bedrohung gelesen (Identitätsverlust durch Integration)",
+        "type": "relationship/stated",
+        "quote": "**Selene** wird von den EPs als Bedrohung gelesen (Identitätsverlust durch Integration), aber sie drängt nie.",
+        "stance": "cites"
+      }
+    ]
+  }
+}

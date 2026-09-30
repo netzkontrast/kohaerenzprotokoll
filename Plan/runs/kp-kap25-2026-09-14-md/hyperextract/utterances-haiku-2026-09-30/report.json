@@ -1,0 +1,1803 @@
+{
+  "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+  "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+  "input_rows": 69,
+  "candidates": 0,
+  "refused": 69,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:ecf341053163d54dca4e6cd3abd99820fd1b55c44b5b8f74683e29837f8daf65",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Kein Manifest, keine Drohung, keine AEGIS-Personalisierung.",
+        "type": "address",
+        "quote": "Kein Manifest, keine Drohung, keine AEGIS-Personalisierung.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        44
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:bb9ffa2f6e24d472faec7c8f38ac5687eb2925cd45126fa28cb03563fa16df29",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Die Nicht-Handlung muss als Entscheidung lesbar sein, nicht als Freeze.",
+        "type": "address",
+        "quote": "Die Nicht-Handlung muss als Entscheidung lesbar sein, nicht als Freeze.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        45
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:032a263e6b9fe36f00069ce5d642d15caf231ea0874aa59bc264f381b298624c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Kap 26 trägt die Konsequenz; Kap 25 selbst bleibt still.",
+        "type": "address",
+        "quote": "Kap 26 trägt die Konsequenz; Kap 25 selbst bleibt still.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        46
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:6bb26a30a275814ff49f5a17ccc567ec7683df6910796da2af5057bf64513ebb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Regel 6: Drittes Fenster: nicht berühren.",
+        "type": "self_command",
+        "quote": "Regel 6: Drittes Fenster: nicht berühren.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        66
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:725f1b5653c819c578a2b9734975a65012acd44da9e9c12f924d405ded8424cb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Erfassung im Rahmen der Wartung Notizfläche, Wohneinheit 734.",
+        "type": "log",
+        "quote": "Erfassung im Rahmen der Wartung Notizfläche, Wohneinheit 734.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        79
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:9af23f928194b08dc99e381e4c0f7f576a6d5ab12bde3ce3b7c67ac689f7cb76",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Man weist zurück, wenn die Klassifikation falsch ist.",
+        "type": "thought",
+        "quote": "Man weist zurück, wenn die Klassifikation falsch ist.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        99
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:1a811be589da1224142d42c21f03af492f12c88df48ffbe9733c65cec9abcd5b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Sie ist nicht falsch.",
+        "type": "thought",
+        "quote": "Sie ist nicht falsch.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        99
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:1ca6d5bde0ccb85819eed1616dbb5876a047d67acdbf16760a3b0fdc9a671893",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Das Gegenregister hat keinen Bezug zu einem aktiven Vorgang.",
+        "type": "thought",
+        "quote": "Das Gegenregister hat keinen Bezug zu einem aktiven Vorgang.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        99
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:48a8765bf9908c3e8740de68d70b63cbee3b954c0382b34285017e3eb9415448",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich kann keinen benennen, ohne einen zu erfinden.",
+        "type": "thought",
+        "quote": "Ich kann keinen benennen, ohne einen zu erfinden.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        99
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:862e1d5517ce3d2216bf512cc0ba9d70a87a3e75469079e0566f99e9417a318c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Behalt den Platz.",
+        "type": "self_command",
+        "quote": "Behalt den Platz.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        119
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:d1b26202fcf5a61e8740cc9fc49fe7c506f2fa45d78618d94ed7cd9617026cd3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ohne Platz kein Zugriff.",
+        "type": "thought",
+        "quote": "Ohne Platz kein Zugriff.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        119
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:82269a83e4f084897dd2fcbb7d670c60a9544538891a42b7805ae5944dd5f151",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Zugriff ist alles, was wir haben.",
+        "type": "thought",
+        "quote": "Zugriff ist alles, was wir haben.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        119
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:50acd8d50f3c8e4b52292d1cf0bdaac76b55ffbd3cf9e7bcce60d8eece469949",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Behalt den Platz.",
+        "type": "address",
+        "quote": "Behalt den Platz. Ohne Platz kein Zugriff. Zugriff ist alles, was wir haben.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        119
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:f92b427febf54c4fcf8a7061cf4ac4551e28a65f872fb3b1a63479438adc81aa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich will das genau aufschreiben,",
+        "type": "thought",
+        "quote": "Ich will das genau aufschreiben, weil es später einfacher klingen wird, als es ist: Sie hat recht.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        125
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:eef54a06dd9807b6f2ac3f258f74becdfdc77f5b1761bbcc0823b541f3fbc74b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich schreibe es hin,",
+        "type": "thought",
+        "quote": "Ich schreibe es hin, weil es stimmt und weil das Nichtaufschreiben eine Arbeit ist, die ich nicht mehr leisten will.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        137
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:66cb5da692eb288a1c675dd826128560bb13cf060e184c57aa4843bb36f59910",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich tue nichts.",
+        "type": "address",
+        "quote": "Ich tue nichts.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        145
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:ecef040e2763bf8817e03633e44ec28cf0c97e56d27501705a68a264e223d59b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich tue nichts.",
+        "type": "thought",
+        "quote": "Ich tue nichts.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        145
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:3f1f577dcabcf7a9ff237a3f887b74bf96a7f2c5d553becc5f1a309d8453541b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Das ist der ganze Vorgang,",
+        "type": "thought",
+        "quote": "Das ist der ganze Vorgang, und ich will ihn nicht größer machen, als er ist.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        147
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:71f5588f8243054ad84453526c74e3faf9ac869f48424c07321d653bedfd1981",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Es geschieht nichts.",
+        "type": "thought",
+        "quote": "Es geschieht nichts.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        151
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:054f9e4dffb4ac285486d51396fc1fef2284186676438bfe9075eaa79b4708ce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Das ist der Teil,",
+        "type": "thought",
+        "quote": "Das ist der Teil, mit dem ich nicht gerechnet habe: Es gibt keine Mahnung, keine Rückfrage, keine Eskalation.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        151
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:32116a395c01a7be9667b7bb02f52b0abf50c6b3fde7c9293ef2f3a507feff92",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich arbeite nicht an ihm.",
+        "type": "thought",
+        "quote": "Ich arbeite nicht an ihm.",
+        "stance": "denies"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        153
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:ab4f1ca115e89d2d0d2891f8c80e14554f872bbd42353986f76e4b710969dedb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Aber der Unterschied zwischen *arbeitet daran* und *sitzt davor* ist keiner,",
+        "type": "thought",
+        "quote": "Aber der Unterschied zwischen *arbeitet daran* und *sitzt davor* ist keiner, den die Fläche führt.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        153
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:e100cf3b5f0ec1a4e374032b0a7c7d533043dff061a4384a6f1613b2c25ef337",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Was die Fläche nicht führt, hört man.",
+        "type": "address",
+        "quote": "Was die Fläche nicht führt, hört man.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        155
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:f1e1d85be3ac166c75e0bd869087b264c80cac07ffd0d79abc77538e9971b068",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Es ist kein lautes Geräusch;",
+        "type": "thought",
+        "quote": "Es ist kein lautes Geräusch; man hört es erst, wenn es an elf Stationen ungleichmäßig geschieht, und dann klingt der Knoten wie ein Raum, in dem es tropft.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        155
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:478fbad8aed2aadd1b85a38b4fedf552ae68b4136ae9a5a25422dc8b70f64281",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "An meiner Station hat es heute sechsmal getropft,",
+        "type": "thought",
+        "quote": "An meiner Station hat es heute sechsmal getropft, alle sechs vor dem siebten Bestand.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        157
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:842291e29f51cd635cee1f5b7305c5f390b8ec5352094020a01dcebf9f715f90",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Es fehlt niemandem außer mir.",
+        "type": "thought",
+        "quote": "Es fehlt niemandem außer mir.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        157
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:674444803045d77c1560aadc79981db3cbec3a8478e7f30ab559cd38c2b67eb4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Das ist die erste Folge,",
+        "type": "thought",
+        "quote": "Das ist die erste Folge, und sie ist sichtbar.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        161
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:d5093299bfa087f5000aaecabd62372d2e135030d327b3f9ca6eb9b0c7bd4e67",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich sehe der Zahl zu.",
+        "type": "thought",
+        "quote": "Ich sehe der Zahl zu.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        169
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:5eb027909d79b5a01f4b4215b5fb07de7807cfbc6e150ac4cec4f5a0dcb694ff",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Das ist kein Trotz.",
+        "type": "thought",
+        "quote": "Das ist kein Trotz.",
+        "stance": "denies"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        171
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:eff11bce435430321e9aff96834283beab521914a2edc776155e4bfe974d9a35",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich will es aufschreiben,",
+        "type": "self_command",
+        "quote": "Ich will es aufschreiben, damit ich es später nicht anders erzähle: Ich sitze an Station 11, die Hand liegt neben der Fläche, und ich sehe einer Zahl zu, die steigt, und es ist mir nicht gleichgültig.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        171
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:83eea0dd27002265e5a13b4a971f10bc0fdfe02a532f78c24695ac6a0faef61f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Jede dieser Zuweisungen ist ein Vorgang,",
+        "type": "thought",
+        "quote": "Jede dieser Zuweisungen ist ein Vorgang, der bearbeitet werden muss.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        173
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:1e2aba45c9a0244af722e7843bc4e7f98690fb30ab4c022352f2db84333c62b9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich könnte sie abarbeiten.",
+        "type": "thought",
+        "quote": "Ich könnte sie abarbeiten.",
+        "stance": "hedges"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        175
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:54970666e4c58e29e552661ab9ad9419b5e07315fe1e0eb9edd9a03775085bf1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich könnte 0244 einfach offen lassen",
+        "type": "thought",
+        "quote": "Ich könnte 0244 einfach offen lassen und die anderen machen.",
+        "stance": "hedges"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        175
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:52bad3c5271a5b2303dca0ef022a0c9d287d844bd98e6e395fef59a2e454ee6b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich könnte sie abarbeiten.",
+        "type": "thought",
+        "quote": "Ich könnte sie abarbeiten.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        175
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:87ef20145456cba6315edc4cf8d73594699d957baf816e57eab5b1c04f3fe5e5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich könnte 0244 einfach offen lassen und die anderen machen.",
+        "type": "thought",
+        "quote": "Ich könnte 0244 einfach offen lassen und die anderen machen.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        175
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:1f5b307ea4440da2a9ba9f98551d881d6a000820007f75db0fa86c1f65f435fe",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich sehe das Feld an und weiß, dass das der Weg ist, auf dem ich in zwei Wochen wieder bestätigen werde.",
+        "type": "thought",
+        "quote": "Ich sehe das Feld an und weiß, dass das der Weg ist, auf dem ich in zwei Wochen wieder bestätigen werde.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        177
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:94eb97a3f654c51301d61e52dfd6bee393551fc68b78f1cc416c546a5e5e25dd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Also lasse ich die Hand liegen, wo sie liegt.",
+        "type": "thought",
+        "quote": "Also lasse ich die Hand liegen, wo sie liegt.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        179
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:5bd0169520967c4b56a06384f47dffff0d2db9bf238696bc45e19bc1d8400b44",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich sehe nach, wohin.",
+        "type": "thought",
+        "quote": "Ich sehe nach, wohin.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        183
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:e011dfb943798c41407346b39d15c0d5b08d102aa085703667637fd51d405c69",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich drehe den Kopf.",
+        "type": "self_command",
+        "quote": "Ich drehe den Kopf.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        185
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:dd02db88ecb68a5b7d9e3c08336bce8de23b22c71dc29f4378007f9506c5d89c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Sie sieht nicht herüber.",
+        "type": "thought",
+        "quote": "Sie sieht nicht herüber.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        187
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:616940b57bc77a86ae8b6855ad28986f46c955e1442066aa761179bb59a83795",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Man hängt nichts um, ohne es anzufordern.",
+        "type": "thought",
+        "quote": "Man hängt nichts um, ohne es anzufordern.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        189
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:a599cd4031afe8897e9ae11f7d069b1cc197f79ed6069daa1b132e32f3a7e615",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Sie hat es angefordert, und dafür braucht sie einen Grund, den die Fläche annimmt, und es gibt genau einen:",
+        "type": "thought",
+        "quote": "Sie hat es angefordert, und dafür braucht sie einen Grund, den die Fläche annimmt, und es gibt genau einen:",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        189
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:b766a4284586858169481069408e9781226fc74ebd0d6dfcd15b94b0868c7ca9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ein Knoten, dessen Restwert über die Schwelle geht, bekommt am nächsten Tag Besuch von der technischen Ebene.",
+        "type": "thought",
+        "quote": "Ein Knoten, dessen Restwert über die Schwelle geht, bekommt am nächsten Tag Besuch von der technischen Ebene.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        189
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:f7ae631812eaad7a95c70d72de20c7c8fe3f0d2c82f51c8c7689abf5eb30faaa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Das will niemand.",
+        "type": "thought",
+        "quote": "Das will niemand.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        189
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:abc038b8412def2b1c5ddfb787bc5b658386bff15ba7f8f77c1cd24c34e14fc5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Das will sie nicht.",
+        "type": "thought",
+        "quote": "Das will sie nicht.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        189
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:ea1d9152c90862cc8460d094948bc97323054747765a2f23d428919dac1de6ac",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Es ist also kein Gefallen.",
+        "type": "thought",
+        "quote": "Es ist also kein Gefallen.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        191
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:692ba2867af5c9785ec363d9320295af9d922fa11488c107aa61e754e62019db",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Es ist Eigennutz, und er rettet mir den Nachmittag, und ich könnte hinübergehen und etwas sagen.",
+        "type": "thought",
+        "quote": "Es ist Eigennutz, und er rettet mir den Nachmittag, und ich könnte hinübergehen und etwas sagen.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        191
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:f60bd535975302cebb2b97f5531f4a55aee43d25036192e018bac4542d0e161d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Sie wird es morgen nicht wieder tun können.",
+        "type": "thought",
+        "quote": "Sie wird es morgen nicht wieder tun können.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        195
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:30f0c3905ea7b1d1d5189f238d90c0bf2016c81293ea19cb337655da238e0f62",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Was heute an ihr hängt, hängt morgen an ihrem eigenen Restwert, und der ist am Abend ihr Problem und nicht meins.",
+        "type": "thought",
+        "quote": "Was heute an ihr hängt, hängt morgen an ihrem eigenen Restwert, und der ist am Abend ihr Problem und nicht meins.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        195
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:80cba952e8bb29a0a581ef357b256a7643e0d7c40e7e71f01c8527514d436c21",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Die Kosten sind nicht verschwunden.",
+        "type": "thought",
+        "quote": "Die Kosten sind nicht verschwunden.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        195
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:4add141d30b0444305545b1be66f787bcf72f0a85d9562d59563c1f775fdfb03",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Sie stehen drei Stationen weiter, und es fällt kein Wort darüber.",
+        "type": "thought",
+        "quote": "Sie stehen drei Stationen weiter, und es fällt kein Wort darüber.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        195
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:48c52f0e1cfddff1145132095f98c891447b692c22c82890ea4ac38bede7caed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich gehe nicht hinüber.",
+        "type": "thought",
+        "quote": "Ich gehe nicht hinüber.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        197
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:d82020109ea32302702de09545d05f1e50af411e125a496bf571bb0ad20e4b25",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Was ich sagen müsste,",
+        "type": "thought",
+        "quote": "Was ich sagen müsste, wäre entweder eine Erklärung oder eine Lüge, und für die Erklärung gibt es in dieser Stadt keine Form.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        197
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:49c4b9601cca8b09c2acaf676f8704a278365b9e48c4cebf9c08cbfc3e665a47",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Um 17:00 sind es einunddreißig.",
+        "type": "log",
+        "quote": "Um 17:00 sind es einunddreißig.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        199
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:f85b4e8b8dd9b9aeacdeadbdb1e0995d06680153d2fadb3b33f209f6ed040c9d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Um 17:20 melde ich mich ab.",
+        "type": "self_command",
+        "quote": "Um 17:20 melde ich mich ab.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        203
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:6aa59d67b67f26807545a255f36daace436e1294ddd1f7c9f5a1f4418e187ded",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Sechs.",
+        "type": "speech",
+        "quote": "Sechs. Einunddreißig.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        207
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:c795ab9504da0c3683cb6a02d4ad21fd8b386843664071e14c26d16b2dd93549",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich bestätige.",
+        "type": "self_command",
+        "quote": "Ich bestätige.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        209
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:cd20d38f6fce559856951fcbd589e4e119b69625da6cfd2059435a9b2cd13928",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich lese sie zweimal.",
+        "type": "thought",
+        "quote": "Ich lese sie zweimal.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        219
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:81500e769733d5e11d722fce6247777cd8323d77c211dbb84a47ffa9de60eaad",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich stehe auf.",
+        "type": "self_command",
+        "quote": "Ich stehe auf.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        223
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:a0660028136c687b58b7b201cf31a0aef14f193e653ec5075cf8766a60c8c793",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Der Sitz steht, wie er steht.",
+        "type": "thought",
+        "quote": "Der Sitz steht, wie er steht.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        225
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:5f4f59dec13161d8cbaff9d7d0bb894ffc19eda1b025ced3cb459da047a21c21",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Einheit von Station 7",
+        "target": "Sie sagt nichts.",
+        "type": "thought",
+        "quote": "Sie sagt nichts.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        229,
+        277
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bb9eb657d2fba406be4ec5c792dff080f10978aa6281eba1842747fc53b13ad9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich weiß nicht, was das war.",
+        "type": "thought",
+        "quote": "Ich weiß nicht, was das war.",
+        "stance": "hedges"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        231
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:8303d25ea6e323b42b8b73e6f2ae9ea67631d7227310a3177851a2ecd5f3e27d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Sie hat ihre Seite.",
+        "type": "thought",
+        "quote": "Sie hat ihre Seite.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        277
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:0b7ae6be8a40e2910199d53717dd4d0c7c547a320e6cda6fa83ffb2c9785e1a0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Sie sagt nichts, und sie hat heute nicht mehr und nicht weniger Substanz als gestern, und ich sitze eine Weile damit auf der Kante des Bettmoduls.",
+        "type": "thought",
+        "quote": "Sie sagt nichts, und sie hat heute nicht mehr und nicht weniger Substanz als gestern, und ich sitze eine Weile damit auf der Kante des Bettmoduls.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        277
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:9cf4b0ad088c43d9cd8d819002bf8bd45925c67382033c743ee99ab98917a78c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Das ist erklärbar.",
+        "type": "thought",
+        "quote": "Das ist erklärbar.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        289
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:5fac987051fbb271466ae9c88a9c98a30666c4c90426878d3c307ef4a4f6d38d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Nach Schichtende werden Vorgänge von anderen Knoten umgehängt; drei in vier Stunden ist kein Vorgang, sondern ein Nachmittag anderswo.",
+        "type": "thought",
+        "quote": "Nach Schichtende werden Vorgänge von anderen Knoten umgehängt; drei in vier Stunden ist kein Vorgang, sondern ein Nachmittag anderswo.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        289
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:554903749a8359e2a6b8cdd3817d838dba5d219cadaed85a8aa6c6aeae42c4d1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich habe das elf Jahre lang gesehen, ohne es zu sehen, weil die Zahl morgens wieder bei sechs stand.",
+        "type": "thought",
+        "quote": "Ich habe das elf Jahre lang gesehen, ohne es zu sehen, weil die Zahl morgens wieder bei sechs stand.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        289
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:3b210ec56fc3537729bff4d6215a025a5a5c86ebd7ba0aec83bb827764d8d58a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Sie wird morgen früh nicht bei sechs stehen.",
+        "type": "thought",
+        "quote": "Sie wird morgen früh nicht bei sechs stehen.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        291
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    },
+    {
+      "id": "claim:9d3802d3f60d40b5f72008762a01afe3543d91cc26663021562cf386af3b092e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "unlabelled",
+        "target": "Ich habe das nicht beschlossen, und ich nehme es nicht zurück.",
+        "type": "thought",
+        "quote": "Ich habe das nicht beschlossen, und ich nehme es nicht zurück.",
+        "stance": "asserts"
+      },
+      "document": "kp-kap25-2026-09-14-md",
+      "template": "Utterances",
+      "source_sha256": "02d5bc85b010b02e88178369c43ab77e0236c1475ed78fbbcafe8cf2615743ba",
+      "template_sha256": "58ad955ed591a55ea398bce0bb1c02204cb8523bce2a6b9cce79899e8edb1f7b",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        293
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "unlabelled"
+      ]
+    }
+  ]
+}

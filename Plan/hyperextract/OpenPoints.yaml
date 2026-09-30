@@ -1,0 +1,44 @@
+# OpenPoints — what the document itself marks as open, unclear or still to decide, with the sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: GOAL.md: self-generated questions. The wiki's question pages come from readings and from the author; what a document itself
+#   leaves open is the cheapest source of the next question, and the censuses record it only in prose, one paragraph per document.
+# measured against: the open points the wiki's question pages cite; a topic that resolves to a wiki term is the attachable subset. A quote is placed by read.py --find (P26).
+# may not: answer the point, write a question page, or say that two documents leave the same point open — a point is a P_HE_OPEN proposal
+# retire when: on three documents a person keeps no point that the wiki's question pages do not already ask
+language: en
+name: OpenPoints
+type: list
+tags: [questions, open-points, gaps, german]
+description: "What the document itself marks as open, unclear or still to decide, with the sentence, each copied from one German document."
+
+output:
+  description: "One record per sentence that marks the matter open."
+  fields:
+    - name: term
+      type: str
+      description: "The subject the open point is about, exactly as the document writes it: case, hyphens, umlauts; never translate."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asks: the sentence is a question the document poses. hedges: it says the matter is unresolved or provisional. cites: it reports that an outside source leaves it open. asserts: it states plainly that something is still to decide. denies: it says nothing is left open."
+      required: true
+
+guideline:
+  target: "You read one German research document and collect, verbatim, the sentences in which it marks something as open, unclear or still to decide, so that a person can see what the document leaves for later."
+  rules:
+    - "Record a point only when ONE sentence marks it open itself: offen, ungeklärt, unklar, noch zu klären, noch zu entscheiden, muss geprüft werden, TBD, Frage:, bleibt offen, nicht geklärt, or a question the document poses about its own subject."
+    - "The term is the subject the open point is about, as the document writes it. A point with no nameable subject is not recorded."
+    - "A question in a reference title or a quoted therapist's question is not an open point of the document."
+    - "Never infer an open point from an absence, or from what the document does not say."
+    - "When the words do not mark the matter open, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [term, quote]
+
+display:
+  label: '{term}: {stance}'

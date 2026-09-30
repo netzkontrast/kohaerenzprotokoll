@@ -1,0 +1,52 @@
+# Storypoints — a storypoint a source assigns to a chapter or a throughline — signpost, dynamic, resolve — in one storyform or both.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: GOAL.md 4.3 (`Storyform` A and B, `Throughline` MC/IC/OS/RS, `Storypoint`, `Dynamic`, `Signpost`; edge `carries_storypoint`) and 5.2's dual storyform, which is never
+#   encoded A wholly before B. The storyform documents list the points by hand, one document at a time; the graph has no edge for them.
+# measured against: the storyform pages of the wiki; a record whose chapter resolves to a page is the attachable subset. A quote is placed by read.py --find (P26).
+# may not: decide a storypoint or which storyform holds — W1 is the author's; nor apply Dramatica as a checklist: a point here is a P_HE_STORYPOINT proposal, and theory is diagnosis, never recipe
+# retire when: on three documents a person keeps no point beyond what the storyform pages already hold
+language: en
+name: Storypoints
+type: list
+tags: [dramatica, storyform, throughline, german]
+description: "A storypoint a source assigns to a chapter or a throughline — signpost, dynamic, resolve — in one storyform or both, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The chapter, act, throughline or figure the point is assigned to, exactly as the source writes it."
+      required: true
+    - name: target
+      type: str
+      description: "The storypoint, signpost or dynamic exactly as the source names it, with its value."
+      required: true
+    - name: type
+      type: str
+      description: "signpost: a stage of a throughline. dynamic: a direction the story pulls. resolve: how a throughline ends. throughline: which of the four the passage belongs to. storypoint: any other named point."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German document that applies a story theory to a novel and collect, verbatim, the sentences that assign a storypoint to a chapter or throughline, so that a person can see which point each source says a chapter carries."
+  rules:
+    - "Record a record only when ONE sentence assigns the point: trägt, Signpost, Dynamic, Resolve, Throughline, Storypoint, or a table row with the chapter and the point."
+    - "The assignee and the point both stand inside the quote."
+    - "A point the source marks as possible or unsettled is recorded with stance hedges."
+    - "Never infer a point from a chapter's events or from a lens's usual scheme."
+    - "When the words do not assign a point, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

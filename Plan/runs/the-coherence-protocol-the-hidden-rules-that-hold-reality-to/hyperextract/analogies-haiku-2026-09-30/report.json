@@ -1,0 +1,396 @@
+{
+  "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+  "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+  "input_rows": 16,
+  "candidates": 15,
+  "refused": 1,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:7947ad527ba6a37c2c0c4aeb6e0286c20a3fb8a5ee66152f47d20f50ed185c55",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "cache coherence protocol",
+        "target": "law of the land",
+        "type": "metaphor_for",
+        "quote": "Protocols like MESI (Modified, Exclusive, Shared, Invalid) act as a \"law of the land\" inside the chip",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8cbc3fab4916affcc979bed577aebc52353b4e8682f0e330051a850ff6390dc4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "cancerous state",
+        "target": "protocol violation",
+        "type": "corresponds_to",
+        "quote": "A cancerous state, for instance, can be seen as a form of protocol violation, where a single cell ignores system-wide signals",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        25
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6840f85f0eab668bc1e5cb74c55f749d8074331edb71de3f709a18862a234b15",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "engineered protocol in silicon",
+        "target": "a far more fundamental protocol embedded in the fabric of physics itself",
+        "type": "metaphor_for",
+        "quote": "This engineered protocol in silicon serves as a powerful metaphor for a far more fundamental protocol embedded in the fabric of physics itself.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3a8ff5f8de0c597b556865e7c1038e2febd338baa349d341648230c745787400",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "quantum coherence",
+        "target": "internal consistency",
+        "type": "corresponds_to",
+        "quote": "This coherent superposition is the ultimate state of internal consistency, holding multiple potentials in a delicate harmony.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        31
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ac581af4e32b5feadfe9586508fc31f9aaa92d97d22f34a8056fcfce687f6664",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "decoherence",
+        "target": "measurement/interaction with the environment",
+        "type": "corresponds_to",
+        "quote": "It is destroyed through any unwanted interaction with the surrounding environment, a process known as decoherence.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        33
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "measurement/interaction with the environment"
+      ]
+    },
+    {
+      "id": "claim:33c37076fb4bd3c4e397647e7578c05f1a5a7e6182d24ec02919ad1bde23f41a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "quantum coherence",
+        "target": "Quantum Resource Theories (QRT)",
+        "type": "implements",
+        "quote": "In Quantum Resource Theories (QRT), quantum coherence is treated not as an abstract property but as a tangible, finite commodity.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d731b372c634d961549597a81a3a0a263f0ea7f31191112220854f370f92d36e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Decoherence",
+        "target": "the universe's most fundamental protocol",
+        "type": "corresponds_to",
+        "quote": "Decoherence acts as the universe's most fundamental protocol.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        37
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8b96ec83278c941165d65ce601a4d2dbf207dbdb3a28efa75fa7210e63098ec",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "self-organization",
+        "target": "coherent global order emerges from simple, local interactions between individual agents",
+        "type": "corresponds_to",
+        "quote": "coherent global order emerges from simple, local interactions between individual agents",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2bf38627a58dc64b07f17e46bcd129efad99d9751977562e857ecfea301be8a7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "emergent property",
+        "target": "pattern",
+        "type": "corresponds_to",
+        "quote": "the pattern is an *emergent property* of these local interactions",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7f472ad1ebb97df1faad319aaf839afea13a408d6ce99845eba2f3c3c5d5e680",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "downward causation",
+        "target": "Once this higher-level structure forms, it begins to constrain the behavior of the very agents that created it",
+        "type": "corresponds_to",
+        "quote": "Once this higher-level structure forms, it begins to constrain the behavior of the very agents that created it, a phenomenon known as **downward causation**",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        43
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b4e4d8181547bf7217a9fab6d5f751e809cd333518cba13b8af309d84c0908b9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "emergent property",
+        "target": "bottom up",
+        "type": "corresponds_to",
+        "quote": "It can be an emergent property that arises from the bottom up, where a system generates its own internal rules",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        45
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6e18c4bc315b2e1043513a3ae8129756f7d07408e85d07884d47baf6aaf51156",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Cache Coherence Protocols",
+        "target": "social contract",
+        "type": "corresponds_to",
+        "quote": "Cache Coherence Protocols (e.g., MESI) enforce a shared, single truth through a \"social contract\" between cores.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        54
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6303dc833b35150c9518e5390e4448c17edc7eaa75ad97ff6cf66c4483418804",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Decoherence",
+        "target": "correspondence check",
+        "type": "corresponds_to",
+        "quote": "Decoherence forces superposition to collapse, acting as a universal \"correspondence check\" against the environment.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        55
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4009b6de3a99c2d18ed75ca957000a16b8997b22a7abe78dd256fc1b6161ddfe",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Self-Organization",
+        "target": "emergent global order",
+        "type": "implements",
+        "quote": "Self-Organization generates emergent global order through local rules and the sacrifice of individual freedom.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        56
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1d94d53af8be91efc2b168f8ace32e3f1ff39813b9eef71fe55805c043b95d67",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Coherence Kernel",
+        "target": "reversible computation",
+        "type": "corresponds_to",
+        "quote": "The Coherence Kernel (K₁): The domain of reversible computation, information preservation, and self-sustaining order.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        60
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:87054804d4b45d7c775811e0eb25b28f87d8398a842af903c0b832a385c236a4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Collapse Kernel",
+        "target": "irreversible computation",
+        "type": "corresponds_to",
+        "quote": "The Collapse Kernel (K₀): The domain of irreversible computation, entropy, and information erasure.",
+        "stance": "asserts"
+      },
+      "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+      "template": "Analogies",
+      "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+      "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        61
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

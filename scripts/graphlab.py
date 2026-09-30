@@ -18,6 +18,11 @@ is right.
                                                   #     one alone, one off, learned with cross-validation
     python3 scripts/graphlab.py enrich            # E2: relations the corpus adds — co-occurrence,
                                                   #     co-mention, the BM25 relation — at every weight
+    python3 scripts/graphlab.py comention         # E2b: the normalised co-mention relation, sparsified, at every weight
+    python3 scripts/graphlab.py hub               # E4: the hub correction and the seed specificity of
+                                                  #     `graphrag.pagerank`, each off by default
+    python3 scripts/graphlab.py he                # E5: page pairs the HyperExtract contracts read (`hegraph.py`),
+                                                  #     by relation family, at every weight
     python3 scripts/graphlab.py selftest
 
 Standard library only; `enrich` reads the shared store (`Plan/derived/ask.db`) with sqlite3
@@ -67,14 +72,14 @@ class Lab:
         self.order = sorted(self.gold)
 
     def run(self, weights: dict[str, float], extra: list[dict] | None = None,
-            ids: list[str] | None = None, k: int = K) -> dict[str, dict]:
+            ids: list[str] | None = None, k: int = K, hub: float = 0.0, spec: float = 0.0) -> dict[str, dict]:
         """id → recall@k, precision@k and recall@2k, with the extra edges added to each case's graph."""
         rows = {}
         for cid in ids or self.order:
             g = self.held[cid]
             if extra:
                 g = {**g, "edges": g["edges"] + extra}
-            rank, terms = graphrag.ranked_terms(g, self.seeded[cid], "ppr", 2 * k, weights)
+            rank, terms = graphrag.ranked_terms(g, self.seeded[cid], "ppr", 2 * k, weights, hub, spec)
             gold = self.gold[cid]
             top, wide = set(terms[:k]), set(terms)
             hit = len(top & gold)
@@ -268,6 +273,142 @@ def cmd_core(lab: Lab, folds_n: int = 6) -> str:
     return text
 
 
+# ── E2b: the co-mention relation, normalised and sparsified ───────────────────
+
+MIN_DOCS = (2, 3, 5)
+TOP_K = (0, 5, 10, 20)                # 0: every pair
+CO_WEIGHTS = (3.0, 10.0, 30.0, 100.0)
+
+
+def sparsify(pairs: dict[frozenset, float], k: int) -> dict[frozenset, float]:
+    """Keep a pair when it is among either page's k strongest: a page's own neighbourhood, never a hub's whole list."""
+    if not k:
+        return pairs
+    near = defaultdict(list)
+    for p, v in pairs.items():
+        for x in p:
+            near[x].append((v, p))
+    keep = set()
+    for lst in near.values():
+        keep.update(p for _, p in sorted(lst, key=lambda t: (-t[0], sorted(t[1])))[:k])
+    return {p: pairs[p] for p in keep}
+
+
+def cmd_comention(lab: Lab) -> str:
+    store = Store()
+    default = dict(graphrag.WEIGHTS)
+    floor = lab.run(default)
+    stored = stored_comention()
+    known = set(lab.graph["nodes"])
+    grid, sizes = {}, {}
+    for m in MIN_DOCS:
+        base = {p: v["npmi"] for p, v in stored.items() if v["docs"] >= m and v["npmi"] > 0 and p <= known}
+        for square in (False, True):
+            scaled = {p: (v * v if square else v) for p, v in base.items()}
+            for k in TOP_K:
+                pairs = sparsify(scaled, k)
+                extra = edges_from(pairs, "comention", "MENTIONS in one paragraph, npmi")
+                name = f"≥{m} documents, npmi{'²' if square else ''}, {'every pair' if not k else f'top {k} per page'}"
+                sizes[name] = len(pairs)
+                for w in CO_WEIGHTS:
+                    grid[(name, w)] = lab.run({**default, "comention": w}, extra)
+    lines = [("floor: the stated relations at their default weights", floor, default)]
+    ranked = sorted(grid, key=lambda k: -objective(grid[k]))
+    for name, w in ranked[:14]:
+        lines.append((f"{name} ({sizes[name]} pairs), weight {w}", grid[(name, w)], {**default, "comention": w}))
+    only = {}
+    for name in sizes:
+        pass
+    for (name, w), rows in grid.items():
+        record("graph-lab-comention", f"{name}, weight {w}", rows, {"comention": w}, lab, f"E2b: {sizes[name]} pairs")
+    candidates = {**grid, ("none", 0.0): floor}
+    held, chosen = {}, {}
+    for cid in lab.order:
+        rest = [i for i in lab.order if i != cid]
+        pick = max(candidates, key=lambda k: (objective({i: candidates[k][i] for i in rest}), k == ("none", 0.0)))
+        chosen[cid] = pick
+        held[cid] = candidates[pick][cid]
+    lines.append((f"chosen leaving each case out, over all {len(grid)} configurations and the floor", held, {}))
+    record("graph-lab-comention", "configuration chosen leaving one out", held, {}, lab, "E2b: leave-one-out over sparsification, scale and weight")
+    picks = defaultdict(int)
+    for k in chosen.values():
+        picks[k] += 1
+    # the walk over the co-mention relation alone: every stated type off
+    best_name = ranked[0][0]
+    alone_rows = {}
+    for m in MIN_DOCS:
+        base = {p: v["npmi"] for p, v in stored.items() if v["docs"] >= m and v["npmi"] > 0 and p <= known}
+        extra = edges_from(base, "comention", "MENTIONS in one paragraph, npmi")
+        alone_rows[f"co-mention alone, ≥{m} documents, every pair"] = lab.run({"comention": 1.0}, extra)
+    for name, rows in alone_rows.items():
+        lines.append((name, rows, {"comention": 1.0}))
+    text = ("# E2b — the normalised co-mention relation\n\n"
+            "E2 found that pages standing in one paragraph, weighted by their normalised pointwise mutual information over "
+            "documents, raise recall@8 at a large weight while the raw pair count lowers it. This sweeps what that depends on: "
+            "the number of documents a pair must stand together in (2, 3, 5), the scale (npmi, its square), the sparsification "
+            "(every pair, or a pair kept only when it is among either page's 5, 10 or 20 strongest), and the weight against "
+            "the stated `links` at 1.0. The 14 best of "
+            f"{len(grid)} configurations by recall@8 + recall@16 are printed; every one is a row of the ledger. Choosing the "
+            "best of many on the cases it is scored on overstates it, so the last rows leave each case out and let the other "
+            "23 choose.\n\n"
+            + table("recall of the wiki's own labels", lines, floor)
+            + "\nLeaving each case out, the configuration the other 23 preferred was: "
+            + ", ".join(f"{n}, weight {w} ×{c}" for (n, w), c in sorted(picks.items(), key=lambda x: -x[1])) + ".\n")
+    write("e2b-comention", text, {"grid": [{"name": n, "weight": w, "pairs": sizes[n], "recall": mean(r), "recall_wide": mean(r, "recall_wide")}
+                                          for (n, w), r in grid.items()],
+                                  "leave_one_out": {"recall": mean(held), "chosen": {c: list(k) for c, k in chosen.items()}}})
+    return text
+
+
+# ── E4: the hubs ──────────────────────────────────────────────────────────────
+
+HUBS = (0.0, 0.1, 0.25, 0.5, 0.75, 1.0)
+SPECS = (0.0, 0.25, 0.5, 1.0)
+
+
+def cmd_hub(lab: Lab) -> str:
+    """The diagnosis found most misses reached and outranked. Two corrections aimed at exactly that."""
+    default = dict(graphrag.WEIGHTS)
+    floor = lab.run(default)
+    grid = [(a, b) for a in HUBS for b in SPECS]
+    runs = {(a, b): lab.run(default, hub=a, spec=b) for a, b in grid}
+    lines = [("floor: no correction", floor, default)]
+    for a, b in grid:
+        if (a, b) != (0.0, 0.0):
+            lines.append((f"hub {a}, spec {b}", runs[(a, b)], default))
+    for a, b in grid:
+        record("graph-lab-hub", f"hub {a} spec {b}", runs[(a, b)], {"hub": a, "spec": b}, lab,
+               "E4: degree corrections in graphrag.pagerank, recall@8 of pages")
+    # leave one case out: the pair chosen on the other cases scores it — picking the best of 24 on all 24 is not a result
+    held, chosen = {}, {}
+    for cid in lab.order:
+        rest = [i for i in lab.order if i != cid]
+        pick = max(grid, key=lambda ab: (objective({i: runs[ab][i] for i in rest}), -ab[0] - ab[1]))
+        chosen[cid] = pick
+        held[cid] = runs[pick][cid]
+    lines.append(("chosen leaving each case out (each case scored by the pair the others prefer)", held, {}))
+    record("graph-lab-hub", "hub and spec chosen leaving one out", held, {}, lab, "E4: leave-one-out choice over the grid")
+    on_all = max(grid, key=lambda ab: (objective(runs[ab]), -ab[0] - ab[1]))
+    picks = defaultdict(int)
+    for pick in chosen.values():
+        picks[pick] += 1
+    text = ("# E4 — the hubs\n\n"
+            "The diagnosis (`diagnose.md`) found most missed pages reached by the walk and outranked by eight others, and "
+            "the pages that outrank them are the hubs — `aegis`, `juna`, `kael`, `vortex`. Two corrections, both in "
+            "`graphrag.pagerank` and both off by default: **hub** divides each node's rank by its degree to the power "
+            "a (the walk's stationary mass grows with degree); **spec** divides each seed's restart weight by its degree to "
+            "the power b, so a seed touching everything pulls less (HippoRAG's node specificity). The same 24 cases, "
+            "seeds and stated weights throughout.\n\n"
+            + table("recall of the wiki's own labels", lines, floor)
+            + f"\nThe best pair on all 24 cases is hub {on_all[0]}, spec {on_all[1]} — chosen on the cases it is scored on, so "
+              f"an upper bound. Leaving each case out, the pair the other 23 preferred was: "
+              + ", ".join(f"hub {a} spec {b} ×{n}" for (a, b), n in sorted(picks.items(), key=lambda x: -x[1])) + ".\n")
+    write("e4-hub", text, {"grid": [{"hub": a, "spec": b, "recall": mean(runs[(a, b)]),
+                                       "recall_wide": mean(runs[(a, b)], "recall_wide"), "rows": runs[(a, b)]} for a, b in grid],
+                            "leave_one_out": {"recall": mean(held), "chosen": {c: list(p) for c, p in chosen.items()}}})
+    return text
+
+
 # ── the store, read with sqlite3 ──────────────────────────────────────────────
 
 class Store:
@@ -279,7 +420,7 @@ class Store:
         if why:
             raise SystemExit(why)
         con = sqlite3.connect(f"{db.resolve().as_uri()}?mode=ro", uri=True)
-        keys = {k: i for i, k in con.execute("SELECT key, id FROM property_keys")}
+        keys = dict(con.execute("SELECT key, id FROM property_keys"))
         self.key = dict(con.execute("SELECT node_id, value FROM node_props_text WHERE key_id=?", (keys["id"],)))
         self.label = defaultdict(set)
         for n, lab in con.execute("SELECT node_id, label FROM node_labels"):
@@ -315,29 +456,25 @@ def term_pairs(store: Store) -> dict[frozenset, dict]:
     return pairs
 
 
-def comention(store: Store) -> tuple[dict[frozenset, int], dict[str, int], int]:
-    """Pages standing in one paragraph: the documents in which each pair does, each page's own, all."""
-    line_para = {}
-    for s, t, typ in store.edges:
-        if typ == "HAS_LINE":
-            line_para[t] = s
-    para_terms = defaultdict(set)
-    for s, t, typ in store.edges:
-        if typ == "MENTIONS" and "Term" in store.label[t]:
-            para_terms[line_para.get(s, s)].add(store.key[t])
-    pair_docs, term_docs, docs = defaultdict(set), defaultdict(set), set()
-    for p, terms in para_terms.items():
-        slug = store.key.get(p, "").split(":")[1] if store.key.get(p, "").count(":") >= 2 else None
-        if slug is None:
-            continue
-        docs.add(slug)
-        ts = sorted(terms)[:12]                       # a paragraph naming dozens of pages is a list, not a relation
-        for t in ts:
-            term_docs[t].add(slug)
-        for i, a in enumerate(ts):
-            for b in ts[i + 1:]:
-                pair_docs[frozenset((a, b))].add(slug)
-    return ({p: len(d) for p, d in pair_docs.items()}, {t: len(d) for t, d in term_docs.items()}, len(docs))
+def stored_comention(con: sqlite3.Connection | None = None) -> dict[frozenset, dict]:
+    """The counted co-mention relation as the store holds it (`askextract.learn_comention`): page pair → the
+    documents that hold it and its normalised PMI. One encoding of the statistic: the lab reads it, never
+    recomputes it."""
+    own = con is None
+    if own:
+        import askdb
+        why = askdb.fresh(DB)
+        if why:
+            raise SystemExit(why)
+        con = sqlite3.connect(f"{DB.resolve().as_uri()}?mode=ro", uri=True)
+    keys = dict(con.execute("SELECT key, id FROM property_keys"))
+    node = dict(con.execute("SELECT node_id, value FROM node_props_text WHERE key_id=?", (keys["id"],)))
+    ends = {e: (node[s], node[t]) for e, s, t in con.execute("SELECT id, source_id, target_id FROM edges WHERE type='P_COMENTION'")}
+    docs = dict(con.execute("SELECT edge_id, value FROM edge_props_int WHERE key_id=?", (keys["docs"],))) if "docs" in keys else {}
+    npmi = dict(con.execute("SELECT edge_id, value FROM edge_props_real WHERE key_id=?", (keys["npmi"],))) if "npmi" in keys else {}
+    if own:
+        con.close()
+    return {frozenset(ends[e]): {"docs": docs[e], "npmi": npmi.get(e, 0.0)} for e in ends if e in docs}
 
 
 def edges_from(pairs: dict[frozenset, float], kind: str, via: str) -> list[dict]:
@@ -350,16 +487,14 @@ def cmd_enrich(lab: Lab) -> str:
     default = dict(graphrag.WEIGHTS)
     floor = lab.run(default)
     co = term_pairs(store)
-    together, alone, n_docs = comention(store)
+    stored = stored_comention()
     known = {n for n in lab.graph["nodes"]}
     co = {p: v for p, v in co.items() if p <= known}
-    together = {p: v for p, v in together.items() if p <= known}
+    together = {p: v["docs"] for p, v in stored.items() if p <= known}
+    n_docs = "the landed"
 
     def npmi(p):
-        a, b = sorted(p)
-        pab = together[p] / n_docs
-        pa, pb = alone[a] / n_docs, alone[b] / n_docs
-        return max(0.0, math.log(pab / (pa * pb)) / -math.log(pab)) if 0 < pab < 1 else 0.0
+        return max(0.0, stored[p]["npmi"])
 
     sources = {
         "cooccur, one per pair": edges_from({p: 1.0 for p in co}, "cooccur", "askextract cooccur"),
@@ -371,24 +506,140 @@ def cmd_enrich(lab: Lab) -> str:
     }
     lines, best = [("floor: the stated relations at their default weights", floor, default)], []
     summary = {"pairs": {"cooccur": len(co), "comention": len(together), "documents": n_docs}, "rows": []}
+    grid = {}
     for name, extra in sources.items():
         kind = extra[0]["type"] if extra else "cooccur"
-        for w in (0.1, 0.3, 1.0, 3.0):
+        for w in (0.1, 0.3, 1.0, 3.0, 10.0):
             weights = {**default, kind: w}
             rows = lab.run(weights, extra)
             label = f"{name}, weight {w}"
             lines.append((label, rows, weights))
+            grid[(name, w)] = rows
             best.append((paired(floor, rows)["mean"], label))
             summary["rows"].append({"source": name, "weight": w, "recall": mean(rows), "rows": rows})
             record("graph-lab-enrich", label, rows, weights, lab, f"E2: {len(extra)} derived edges added")
+    # leave one case out: the source and weight the other 23 cases prefer score the one left out. The floor is a
+    # candidate too, so a choice that does not beat it on the others is not made.
+    candidates = {**grid, ("none", 0.0): floor}
+    held, chosen = {}, {}
+    for cid in lab.order:
+        rest = [i for i in lab.order if i != cid]
+        pick = max(candidates, key=lambda k: (objective({i: candidates[k][i] for i in rest}), k == ("none", 0.0)))
+        chosen[cid] = pick
+        held[cid] = candidates[pick][cid]
+    lines.append(("chosen leaving each case out (the source and weight the other cases prefer; the floor is a candidate)", held, {}))
+    record("graph-lab-enrich", "source and weight chosen leaving one out", held, {}, lab, "E2: leave-one-out over sources and weights")
+    picks = defaultdict(int)
+    for k in chosen.values():
+        picks[k] += 1
+    summary["leave_one_out"] = {"recall": mean(held), "chosen": {c: list(k) for c, k in chosen.items()}}
     text = ("# E2 — relations the corpus adds\n\n"
             f"Derived from the shared store, never from the wiki's labels: {len(co)} page pairs the corpus's learned "
             f"co-occurrence sets hold together (`askextract.py`: two or three pages in one paragraph in five documents "
             f"or more, above lift 1.5), and {len(together)} pairs standing in one paragraph in any document, over "
             f"{n_docs} documents. Each is added to every case's graph as a term–term relation, beside the stated ones, "
             f"which keep their default weights. A scale — one per pair, log of the support, lift, normalised PMI — is "
-            f"the relation's own; the weight is its type's.\n\n" + table("recall of the wiki's own labels", lines, floor))
+            f"the relation's own; the weight is its type's.\n\n" + table("recall of the wiki's own labels", lines, floor)
+            + "\nLeaving each case out, the pair of source and weight the other 23 preferred was: "
+            + ", ".join(f"{n} {w} ×{c}" for (n, w), c in sorted(picks.items(), key=lambda x: -x[1])) + ".\n")
     write("e2-enrich", text, summary)
+    return text
+
+
+# ── E5: what the contracts read ───────────────────────────────────────────────
+
+def he_claims(db: Path = DB) -> list[dict]:
+    """Every proposal edge a contract gave, from the store: the claim, its contract, line, node, role and footing."""
+    import askdb
+    why = askdb.fresh(db)
+    if why:
+        raise SystemExit(why)
+    con = sqlite3.connect(f"{db.resolve().as_uri()}?mode=ro", uri=True)
+    keys = dict(con.execute("SELECT key, id FROM property_keys"))
+    node = dict(con.execute("SELECT node_id, value FROM node_props_text WHERE key_id=?", (keys["id"],)))
+    props = defaultdict(dict)
+    for name in ("id", "role", "admitted", "template", "run"):
+        for e, v in con.execute("SELECT edge_id, value FROM edge_props_text WHERE key_id=?", (keys[name],)):
+            props[e][name] = v
+    rows = [{"edge": e, "line": node[s], "node": node[t], "kind": typ[5:], **props[e]}
+            for e, s, t, typ in con.execute("SELECT id, source_id, target_id, type FROM edges WHERE type LIKE 'P\\_HE\\_%' ESCAPE '\\'")]
+    con.close()
+    return rows
+
+
+def he_pairs(rows: list[dict]) -> tuple[dict[str, set], set]:
+    """Page pairs by relation kind — a claim whose source and target both contain pages — and the pairs of
+    pages one claim's quotation or names contain together (at most eight pages a claim: a list is not a relation)."""
+    claims = defaultdict(list)
+    for r in rows:
+        if r["node"].startswith("term:"):
+            claims[(r["id"], r["run"])].append(r)
+    relation, co = defaultdict(set), set()
+    for rs in claims.values():
+        by_role = defaultdict(set)
+        for r in rs:
+            by_role[r["role"]].add(r["node"])
+        for a in by_role["source"]:
+            for b in by_role["target"]:
+                if a != b:
+                    relation[rs[0]["kind"]].add(frozenset((a, b)))
+        pages = sorted({r["node"] for r in rs})[:8]
+        for i, a in enumerate(pages):
+            for b in pages[i + 1:]:
+                co.add(frozenset((a, b)))
+    return relation, co
+
+
+def cmd_he(lab: Lab) -> str:
+    rows = he_claims()
+    relation, co = he_pairs(rows)
+    default = dict(graphrag.WEIGHTS)
+    floor = lab.run(default)
+    known = set(lab.graph["nodes"])
+    stated = {frozenset((e["source"], e["target"])) for e in lab.graph["edges"] if e["type"] == "links"}
+    relation = {k: {p for p in v if p <= known} for k, v in relation.items()}
+    co = {p for p in co if p <= known}
+    allrel = set().union(*relation.values()) if relation else set()
+    pages_with = {r["node"] for r in rows if r["node"].startswith("term:")}
+    gold = set().union(*lab.gold.values())
+    sources = {f"{k.lower()} pairs": pairs for k, pairs in sorted(relation.items()) if len(pairs) >= 3}
+    sources["every relation pair"] = allrel
+    sources["co-read: pages one claim holds together"] = co
+    lines = [("floor: the stated relations at their default weights", floor, default)]
+    summary = {"claims": len({(r["id"], r["run"]) for r in rows}), "pages_touched": len(pages_with), "gold_pages": len(gold),
+               "gold_pages_touched": len(gold & pages_with), "families": {}, "rows": []}
+    reach = {}
+    for name, pairs in sources.items():
+        kind = "he_" + name.split()[0].replace(":", "").replace("-", "_")
+        extra = edges_from({p: 1.0 for p in pairs}, kind, f"hegraph: {name}")
+        summary["families"][name] = {"pairs": len(pairs), "new": len(pairs - stated)}
+        for w in (0.1, 0.3, 1.0, 3.0):
+            weights = {**default, kind: w}
+            rows_ = lab.run(weights, extra)
+            lines.append((f"{name} ({len(pairs)} pairs, {len(pairs - stated)} not already `links`), weight {w}", rows_, weights))
+            summary["rows"].append({"family": name, "weight": w, "recall": mean(rows_), "rows": rows_})
+            record("graph-lab-he", f"{name}, weight {w}", rows_, weights, lab, f"E5: {len(pairs)} pairs read by HyperExtract contracts")
+        if name in ("every relation pair", "co-read: pages one claim holds together"):
+            walk = {**default, kind: 1.0}
+            new = 0
+            for cid in lab.order:
+                before = hops(lab.held[cid], set(lab.seeded[cid]), default)
+                g = {**lab.held[cid], "edges": lab.held[cid]["edges"] + extra}
+                after = hops(g, set(lab.seeded[cid]), walk)
+                new += len({k for k in lab.gold[cid] if k in after and k not in before})
+            reach[name] = new
+    summary["newly_reachable_gold"] = reach
+    text = ("# E5 — what the HyperExtract contracts read\n\n"
+            f"{summary['claims']} claims from the contracts' pilot runs are in the store; they touch {summary['pages_touched']} "
+            f"of the wiki's 106 pages, and {summary['gold_pages_touched']} of the {summary['gold_pages']} distinct gold pages of the "
+            "24 cases. From them: page pairs a claim relates (its source and its target each contain a page), and pairs of pages "
+            "one claim holds together. Each set is added to every case's graph as a term–term relation beside the stated ones, "
+            "which keep their default weights. The pilot ran eight documents, so the size of what could move is bounded by "
+            "the pairs, not by the weights.\n\n"
+            + table("recall of the wiki's own labels", lines, floor)
+            + "\nGold pages a case could not reach before and can reach with the pairs added (walking the new type at weight 1): "
+            + ", ".join(f"{k}: {v}" for k, v in reach.items()) + ".\n")
+    write("e5-he", text, summary)
     return text
 
 
@@ -410,6 +661,50 @@ def selftest() -> int:
     cases.append(("an edge's own scale multiplies its type's weight", heavy.get("term:c", 0) < heavy.get("term:b", 0)))
     cases.append(("the default weights are unchanged", graphrag.pagerank(g, {"term:a": 1.0})
                   == graphrag.pagerank(g, {"term:a": 1.0}, graphrag.WEIGHTS)))
+    star = {"nodes": {f"term:{k}": {"id": f"term:{k}", "type": "term", "surfaces": [k]} for k in ("h", "a", "b", "c", "d")},
+            "edges": [{"source": "term:h", "target": f"term:{k}", "type": "links"} for k in "abcd"], "evidence": {}}
+    plain = graphrag.pagerank(star, {"term:a": 1.0}, {"links": 1.0})
+    cases.append(("a hub correction of zero changes nothing",
+                  plain == graphrag.pagerank(star, {"term:a": 1.0}, {"links": 1.0}, hub=0.0, spec=0.0)))
+    fixed = graphrag.pagerank(star, {"term:a": 1.0}, {"links": 1.0}, hub=1.0)
+    cases.append(("the hub loses rank to a leaf under the correction",
+                  plain["term:h"] > plain["term:b"] and fixed["term:h"] < plain["term:h"]
+                  and fixed["term:b"] / fixed["term:h"] > plain["term:b"] / plain["term:h"]))
+    both = graphrag.pagerank(star, {"term:h": 1.0, "term:a": 1.0}, {"links": 1.0})
+    spec = graphrag.pagerank(star, {"term:h": 1.0, "term:a": 1.0}, {"links": 1.0}, spec=1.0)
+    cases.append(("a seed that touches everything pulls less under spec",
+                  spec["term:a"] / spec["term:h"] > both["term:a"] / both["term:h"]))
+    rows = [{"id": "c1", "run": "r", "kind": "ALIAS", "role": "source", "node": "term:a", "line": "line:x:1", "edge": 1},
+            {"id": "c1", "run": "r", "kind": "ALIAS", "role": "target", "node": "term:b", "line": "line:x:1", "edge": 2},
+            {"id": "c1", "run": "r", "kind": "ALIAS", "role": "line", "node": "he:ALIAS", "line": "line:x:1", "edge": 3},
+            {"id": "c2", "run": "r", "kind": "CARD", "role": "quote", "node": "term:a", "line": "line:x:2", "edge": 4},
+            {"id": "c2", "run": "r", "kind": "CARD", "role": "quote", "node": "term:c", "line": "line:x:2", "edge": 5},
+            {"id": "c3", "run": "r", "kind": "CARD", "role": "term", "node": "term:d", "line": "line:x:3", "edge": 6}]
+    relation, co = he_pairs(rows)
+    cases.append(("a claim's source and target pages are a relation pair", relation == {"ALIAS": {frozenset(("term:a", "term:b"))}}))
+    cases.append(("pages one claim holds together are co-read, and one page alone is not a pair",
+                  co == {frozenset(("term:a", "term:b")), frozenset(("term:a", "term:c"))}))
+    fx = sqlite3.connect(":memory:")
+    fx.executescript("""
+        CREATE TABLE property_keys (id INTEGER PRIMARY KEY, key TEXT);
+        CREATE TABLE node_props_text (node_id INTEGER, key_id INTEGER, value TEXT);
+        CREATE TABLE edges (id INTEGER PRIMARY KEY, source_id INTEGER, target_id INTEGER, type TEXT);
+        CREATE TABLE edge_props_int (edge_id INTEGER, key_id INTEGER, value INTEGER);
+        CREATE TABLE edge_props_real (edge_id INTEGER, key_id INTEGER, value REAL);
+        INSERT INTO property_keys VALUES (1,'id'),(2,'docs'),(3,'npmi');
+        INSERT INTO node_props_text VALUES (1,1,'term:a'),(2,1,'term:b'),(3,1,'term:c');
+        INSERT INTO edges VALUES (1,1,2,'P_COMENTION'),(2,1,3,'P_COMENTION'),(3,1,2,'LINKS');
+        INSERT INTO edge_props_int VALUES (1,2,4),(2,2,2);
+        INSERT INTO edge_props_real VALUES (1,3,0.5);""")
+    got = stored_comention(fx)
+    cases.append(("the stored relation is read as pairs of pages with their documents and npmi, and other types are not it",
+                  got == {frozenset(("term:a", "term:b")): {"docs": 4, "npmi": 0.5},
+                          frozenset(("term:a", "term:c")): {"docs": 2, "npmi": 0.0}}))
+    ring = {frozenset(("a", "b")): 0.9, frozenset(("a", "c")): 0.8, frozenset(("a", "d")): 0.7,
+            frozenset(("b", "c")): 0.1, frozenset(("b", "d")): 0.1, frozenset(("c", "d")): 0.1}
+    cases.append(("a pair is kept when it is among either page's strongest, and a weak one between two pages that have better is dropped",
+                  set(sparsify(ring, 1)) == {frozenset(("a", "b")), frozenset(("a", "c")), frozenset(("a", "d"))}
+                  and sparsify(ring, 0) == ring))
     ids = [f"c{i:02d}" for i in range(13)]
     fs = folds(ids, 6)
     cases.append(("each case is held out exactly once", sorted(sum(fs, [])) == ids and all(len(f) in (2, 3) for f in fs)))
@@ -449,7 +744,8 @@ def selftest() -> int:
 def main(argv: list[str]) -> int:
     if argv[:1] == ["selftest"]:
         return selftest()
-    commands = {"diagnose": cmd_diagnose, "core": cmd_core, "enrich": cmd_enrich}
+    commands = {"diagnose": cmd_diagnose, "core": cmd_core, "enrich": cmd_enrich, "comention": cmd_comention,
+                "hub": cmd_hub, "he": cmd_he}
     if argv[:1] and argv[0] in commands:
         text = commands[argv[0]](Lab())
         if argv[0] == "diagnose":

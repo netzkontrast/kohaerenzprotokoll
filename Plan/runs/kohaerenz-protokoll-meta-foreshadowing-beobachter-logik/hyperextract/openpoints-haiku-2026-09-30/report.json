@@ -1,0 +1,76 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "8f8deef97c400f14d62f2231f8f1dcf8d3f344b6fcede2be4e49c4110011afcf",
+  "input_rows": 3,
+  "candidates": 3,
+  "refused": 0,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:418c396e8066062a7447a0c8c2d1f844b6d5aca6c6fe1d762959f2117288f9d6",
+      "kind": "reading",
+      "raw": {
+        "term": "Rendering-Grenzen",
+        "quote": "Wenn Kael zu schnell rennt oder in Regionen vordringt, die noch nicht „beschrieben“ wurden, zerfällt die Welt in Textfragmente oder unklare Schemen.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "OpenPoints",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8f8deef97c400f14d62f2231f8f1dcf8d3f344b6fcede2be4e49c4110011afcf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        34
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:79fd88f64c8869a7db6ac9c829d70f7315d9e39c538ffee9da99e99cc3fe149b",
+      "kind": "reading",
+      "raw": {
+        "term": "Grenzen der Mathematik",
+        "quote": "Nutze das Dokument „Grenzen der Mathematik“.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "OpenPoints",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8f8deef97c400f14d62f2231f8f1dcf8d3f344b6fcede2be4e49c4110011afcf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f4f0ef25c333e809192d3915369f0106906450d5a021f2b419924341c24a8b49",
+      "kind": "reading",
+      "raw": {
+        "term": "Lese-Abhängigkeit",
+        "quote": "In Kapitel 39 müssen wir beschreiben, wie Kael spürt, dass die Aufmerksamkeit schwindet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "OpenPoints",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "8f8deef97c400f14d62f2231f8f1dcf8d3f344b6fcede2be4e49c4110011afcf",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

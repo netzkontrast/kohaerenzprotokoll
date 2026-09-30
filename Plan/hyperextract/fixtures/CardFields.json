@@ -1,0 +1,1 @@
+{"items":[{"source":"Alpha","target":"Beta","type":"want/claimed_by_figure","quote":"Alpha steuert Beta.","stance":"asserts"},{"source":"Beta","target":"Alpha","type":"want/claimed_by_figure","quote":"Schützt Beta Alpha?","stance":"asks"}]}

@@ -1,0 +1,66 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "0ab62a3d9b9a2ef9d80ab6c882495d9551cb37b0982246a5647c434019506c16",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "der Roman",
+        "target": "Kael ist die Manifestation des Lesers und seine Welt stirbt mit dem Zuklappen des Buches",
+        "type": "premise",
+        "quote": "dass Kael die Manifestation des Lesers ist und seine Welt mit dem Zuklappen des Buches stirbt",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Zeit im Konstrukt",
+        "target": "fließt nicht linear, sondern ist getaktet",
+        "type": "theme",
+        "quote": "dass die Zeit im Konstrukt nicht linear fließt, sondern „getaktet“ ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "die „Große Stille“",
+        "target": "passiert, wenn der Leser im realen Leben unterbrochen wird und das Buch weglegt",
+        "type": "motif_meaning",
+        "quote": "Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird (das Buch weglegt)",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS",
+        "target": "agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet",
+        "type": "theme",
+        "quote": "AEGIS agiert nicht als autonomer Gott, sondern als Verwalter, der auf ein „Signal“ wartet",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS' Ordnungssucht",
+        "target": "ist ein verzweifelter Versuch, den Leser (den Beobachter) bei der Stange zu halten, damit das System weiter mit „Aufmerksamkeit“ (Energie) versorgt wird",
+        "type": "theme",
+        "quote": "Seine Ordnungssucht ist ein verzweifelter Versuch, den Leser (den Beobachter) bei der Stange zu halten, damit das System weiter mit „Aufmerksamkeit“ (Energie) versorgt wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "die Welt",
+        "target": "existiert nur so weit, wie der Leser sie sich vorstellen kann",
+        "type": "premise",
+        "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "ist die Sonde, die der Leser in das Trauma geschickt hat",
+        "type": "motif_meaning",
+        "quote": "Kael ist die Sonde, die der Leser in das Trauma geschickt hat.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Zuklappen des Buches",
+        "target": "wird als der „Wärmetod des Universums“ (Entropie) geframt",
+        "type": "motif_meaning",
+        "quote": "Das Zuklappen des Buches wird als der „Wärmetod des Universums“ (Entropie) geframt.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+# DiegeticTerms — a theory term and the in-world word the source says stands for it in the prose, with the sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: GOAL.md 4.3 (`DiegeticTerm`: a mapping from theory to prose vocabulary, edge `diegetic_form_of`) and the rule theory never appears naked: theory shows as image,
+#   space or behaviour, and a formula is never quoted. The line-editor and copy-editor need the word list — which theory term the prose must say in which word.
+# measured against: the pages' aliases and the census's `lens` lists; a pair whose two words stand inside its quote is the precise subset. A quote is placed by read.py --find (P26).
+# may not: choose the prose word or merge a theory term with an in-world one; a mapping here is a P_HE_DIEGETIC proposal, and never a wiki alias
+# retire when: on three documents a person keeps no mapping beyond the pages' aliases
+language: en
+name: DiegeticTerms
+type: list
+tags: [vocabulary, diegetic, theory-to-prose, german]
+description: "A theory term and the in-world word the source says stands for it in the prose, with the sentence, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The theory term exactly as the source writes it."
+      required: true
+    - name: target
+      type: str
+      description: "The in-world word or phrase the prose is to use for it, exactly as the source writes it."
+      required: true
+    - name: type
+      type: str
+      description: "diegetic_form_of: the prose word stands for the theory term. avoided_as: the source says the theory term must not appear as such. renamed_in_prose: the theory term is renamed in the prose."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German document about how a novel handles its theory and collect, verbatim, the sentences that say which in-world word stands for which theory term, so that a person can keep the book's word list."
+  rules:
+    - "Record a pair only when ONE sentence gives the mapping: erscheint als, heißt in der Prosa, diegetisch, wird zu, statt, nie als, umbenannt, im Text als."
+    - "The theory term and the prose word both stand inside the quote."
+    - "A mapping the source calls provisional is recorded with stance hedges; one it forbids with stance denies."
+    - "Never infer a mapping from two words that look alike."
+    - "When the words do not give the mapping, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

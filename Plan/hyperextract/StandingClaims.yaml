@@ -1,0 +1,52 @@
+# StandingClaims — what a document says about its own standing or another document's — canon, draft, superseded — with that sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: GOAL.md: sources tiered by precedence. The documents make claims about their own standing; failures.md records the defect
+#   of applying one. The censuses note them by hand, one section each, and nothing carries them into the graph.
+# measured against: the canon claims the censuses record under `What the extraction ran into`; a subject that resolves to a document title or a wiki term is the attachable subset. A quote is placed by read.py --find (P26).
+# may not: apply a claim — CLAUDE.md: record what the document says of its own standing and never let it decide anything — rank two documents, or say which canon is true
+# retire when: on three documents a person keeps no claim beyond what the census's own canon paragraph holds
+language: en
+name: StandingClaims
+type: list
+tags: [canon, standing, precedence, german]
+description: "What a document says about its own standing or another document's — canon, draft, superseded — with that sentence, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "What the status is claimed of, exactly as the document writes it: itself, a section, another document's title, a term."
+      required: true
+    - name: target
+      type: str
+      description: "The status as the document words it."
+      required: true
+    - name: type
+      type: str
+      description: "canon: claimed as fixed or authoritative. draft: claimed as provisional. superseded: claimed as replaced by something newer. deprecated: claimed as no longer valid. source_of_truth: claimed as the reference other things are checked against."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German research document and collect, verbatim, what it says about its own standing or another document's, so that a person can see which claims of precedence the documents make."
+  rules:
+    - "Record a claim only when ONE sentence states a standing: Canon, kanonisch, verbindlich, Source of Truth, Ground Truth, Entwurf, veraltet, ersetzt, überholt, gilt nicht mehr."
+    - "The status and the subject both stand inside the quote; a status with no subject is recorded only if the same sentence names one."
+    - "A standing another document is said to have is recorded as that document's, not as this one's."
+    - "Never rank, compare or apply; never infer a standing from a date, a folder or a title."
+    - "When the words do not state a standing, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

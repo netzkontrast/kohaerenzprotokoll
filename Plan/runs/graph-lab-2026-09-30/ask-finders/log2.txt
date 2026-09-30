@@ -1,0 +1,11 @@
+== comention-20 14:42:56
+24 cases: document recall 0.299, line recall 0.098
+== comention-10 14:44:10
+24 cases: document recall 0.304, line recall 0.1
+== comention-5 14:45:18
+24 cases: document recall 0.303, line recall 0.098
+== without-co-mention-with-he-lines-10 14:46:22
+24 cases: document recall 0.292, line recall 0.096
+== with-he-lines-10 14:47:30
+24 cases: document recall 0.257, line recall 0.09
+== done 14:49:20

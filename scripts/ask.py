@@ -62,6 +62,15 @@ PER_DOC = 60          # at most this many lines of one document
 BUDGET = 60_000       # characters of source windows in one pack
 BM25_HITS = 30
 KINDS = ("locate", "position", "compare", "explain")
+# what finds lines for a pack. `he-lines` is measured (`graphlab.py`, `ask.py bench --with he-lines`) before it is on.
+FINDERS = ("graph-evidence", "bm25-lines", "entity-unread", "co-mention", "parallel", "he-lines")
+DEFAULT_FINDERS = FINDERS[:-1]
+HE_LINES = 40         # at most this many lines of the contracts' readings
+# At most this many paragraphs where the seed terms stand together. 40 until 2026-09-30, when the bench
+# (`Plan/runs/graph-lab-2026-09-30/ask-finders/`) found the finder lowering document recall of the pack by 0.029
+# and 10 raising it by 0.041 [+0.016, +0.068], 10 cases up and 1 down: a paragraph is a wide window, and forty of
+# them crowd out the lines the other finders reach. Provisional: 24 cases; retire when a larger bench says otherwise.
+COMENTION = 10
 
 RULES = """## Regeln für diese Antwort
 
@@ -125,30 +134,43 @@ def run_dir(qid: str) -> Path:
 
 # ── route ─────────────────────────────────────────────────────────────────────
 
-def route(question: str, kind: str, store=None, graph: dict | None = None) -> dict:
+def route(question: str, kind: str, store=None, graph: dict | None = None,
+          finders: tuple[str, ...] = DEFAULT_FINDERS, comention: int = COMENTION, pr_comention: float = 0.0) -> dict:
     import graphrag
     import askdb
     s = store or askdb.Store()
-    evidence = graphrag.retrieve(question, graph=graph)
+    # the counted co-mention relation in the walk that ranks pages, only when a weight is given (graphlab.py comention)
+    extra = s.comention_edges() if pr_comention else None
+    evidence = graphrag.retrieve(question, graph=graph, extra=extra,
+                                 weights={**graphrag.WEIGHTS, "comention": pr_comention} if pr_comention else None)
     anchors: list[dict] = []
-    for ev in evidence["evidence"]:
-        anchors.append({"doc": ev["doc"], "line": ev["line"], "finder": "graph-evidence"})
-    for r in s.bm25(question, limit=BM25_HITS):
-        anchors.append({"doc": r["slug"], "line": r["line"], "finder": "bm25-lines"})
-    for r in evidence.get("unread_routes", []):
-        line = int(str(r["via"]).rsplit(":L", 1)[-1]) if ":L" in str(r["via"]) else None
-        if line:
-            anchors.append({"doc": r["doc"], "line": line, "finder": "entity-unread"})
+    if "graph-evidence" in finders:
+        for ev in evidence["evidence"]:
+            anchors.append({"doc": ev["doc"], "line": ev["line"], "finder": "graph-evidence"})
+    if "bm25-lines" in finders:
+        for r in s.bm25(question, limit=BM25_HITS):
+            anchors.append({"doc": r["slug"], "line": r["line"], "finder": "bm25-lines"})
+    if "entity-unread" in finders:
+        for r in evidence.get("unread_routes", []):
+            line = int(str(r["via"]).rsplit(":L", 1)[-1]) if ":L" in str(r["via"]) else None
+            if line:
+                anchors.append({"doc": r["doc"], "line": line, "finder": "entity-unread"})
     seeds = [x["term"] for x in evidence["seeds"]]
     # paragraphs anywhere in the corpus where the seed terms stand together (askextract: MENTIONS)
-    for r in s.comention(seeds[:4]):
-        anchors.append({"doc": r["slug"], "line": r["first"], "finder": "co-mention", "span": (r["first"], r["last"])})
+    if "co-mention" in finders:
+        for r in s.comention(seeds[:4], limit=comention):
+            anchors.append({"doc": r["slug"], "line": r["first"], "finder": "co-mention", "span": (r["first"], r["last"])})
+    # lines a HyperExtract contract read about the seeds (hegraph.py): a proposal, graded by code
+    if "he-lines" in finders:
+        for r in s.he_lines([f"term:{t}" if not t.startswith("term:") else t for t in seeds[:6]], limit=HE_LINES):
+            anchors.append({"doc": r["slug"], "line": r["line"], "finder": "he-lines"})
     # the same passage carried into other documents (learned `parallel` hyperedges)
-    for a in [a for a in anchors if a["finder"] in ("graph-evidence", "co-mention")][:15]:
-        span = a.get("span") or s.paragraph(a["doc"], a["line"])
-        if span:
-            for q in s.parallels(f"para:{a['doc']}:{span[0]}"):
-                anchors.append({"doc": q["slug"], "line": q["first"], "finder": "parallel", "span": (q["first"], q["last"])})
+    if "parallel" in finders:
+        for a in [a for a in anchors if a["finder"] in ("graph-evidence", "co-mention")][:15]:
+            span = a.get("span") or s.paragraph(a["doc"], a["line"])
+            if span:
+                for q in s.parallels(f"para:{a['doc']}:{span[0]}"):
+                    anchors.append({"doc": q["slug"], "line": q["first"], "finder": "parallel", "span": (q["first"], q["last"])})
     path = []
     if kind == "compare" and len(seeds) >= 2:
         p = s.path(seeds[0], seeds[1])
@@ -186,13 +208,15 @@ def skills_for(question: str, k: int = 2) -> list[dict]:
 
 
 def build_pack(question: str, kind: str = "explain", budget: int = BUDGET, store=None,
-               graph: dict | None = None, rules: str = RULES, schema: str = SCHEMA) -> tuple[str, dict]:
+               graph: dict | None = None, rules: str = RULES, schema: str = SCHEMA,
+               finders: tuple[str, ...] = DEFAULT_FINDERS, comention: int = COMENTION,
+               pr_comention: float = 0.0) -> tuple[str, dict]:
     """The pack every backend reads. `rules` and `schema` are parameters so another step (an
     extraction lab) reuses the same pack, `verify` and `render` rather than a second verifier."""
     import graphrag
     import askdb
     s = store or askdb.Store()
-    r = route(question, kind, s, graph)
+    r = route(question, kind, s, graph, finders, comention, pr_comention)
     parts, sent, cut, used, shown = [], [], [], 0, {}
     parts.append(f"# Frage\n\n{question}\n\nArt der Frage: `{kind}`\n")
     parts.append(rules)
@@ -579,7 +603,10 @@ def bench_cases() -> list[dict]:
     return out
 
 
-def bench(budget: int = BUDGET) -> dict:
+def bench(budget: int = BUDGET, finders: tuple[str, ...] = DEFAULT_FINDERS, comention: int = COMENTION,
+          he_lines: int = HE_LINES, pr_comention: float = 0.0) -> dict:
+    global HE_LINES
+    HE_LINES = he_lines
     import askdb
     import graph as kg
     import graphrag
@@ -588,7 +615,8 @@ def bench(budget: int = BUDGET) -> dict:
     for c in bench_cases():
         if not c["gold"]:
             continue
-        _, meta = build_pack(c["question"], "position", budget, s, graphrag.without(g, c["key"]))
+        _, meta = build_pack(c["question"], "position", budget, s, graphrag.without(g, c["key"]), finders=finders,
+                             comention=comention, pr_comention=pr_comention)
         docs = {d for d, _ in c["gold"]}
         shown = {d: set(v) for d, v in meta["shown"].items()}
         line_hits = sum(1 for d, l in c["gold"] if l in shown.get(d, ()))
@@ -600,7 +628,7 @@ def bench(budget: int = BUDGET) -> dict:
               f"pack {len(shown):3} docs {meta['chars']:6} chars", flush=True)
     mean = lambda k: round(sum(r[k] for r in rows) / len(rows), 3)
     result = {"cases": len(rows), "doc_recall": mean("doc_recall"), "line_recall": mean("line_recall"),
-              "budget": budget, "rows": rows}
+              "budget": budget, "finders": list(finders), "comention": comention, "he_lines": he_lines, "pr_comention": pr_comention, "rows": rows}
     print(f"\n{len(rows)} cases: document recall {result['doc_recall']}, line recall {result['line_recall']}")
     return result
 
@@ -740,8 +768,14 @@ def main(argv: list[str]) -> int:
         print(f"ask selftest: {'held' if not fails else 'FAILED'}")
         return 1 if fails else 0
     if cmd == "bench":
-        res = bench(int(opt("--budget", BUDGET)))
-        out = RUNS / f"bench-{time.strftime('%Y-%m-%d')}-{res['budget']}.json"
+        # --without a,b drops finders from the default set; --with x adds one; the file says which ran
+        chosen = tuple(f for f in DEFAULT_FINDERS if f not in (opt("--without", "") or "").split(","))
+        chosen += tuple(f for f in (opt("--with", "") or "").split(",") if f in FINDERS and f not in chosen)
+        co, hl, pc = int(opt("--comention", COMENTION)), int(opt("--he-lines", HE_LINES)), float(opt("--pr-comention", 0.0))
+        res = bench(int(opt("--budget", BUDGET)), chosen, co, hl, pc)
+        tag = "" if chosen == DEFAULT_FINDERS else "-" + "+".join(f.replace("-", "") for f in chosen)[:60]
+        tag += (f"-co{co}" if co != COMENTION else "") + (f"-he{hl}" if hl != HE_LINES else "") + (f"-pr{pc:g}" if pc else "")
+        out = RUNS / f"bench-{time.strftime('%Y-%m-%d')}-{res['budget']}{tag}.json"
         out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
         return 0
     if cmd == "pack":

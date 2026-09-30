@@ -1,0 +1,171 @@
+{
+  "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+  "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+  "template_sha256": "6399ce2b3a7f6da1e30f2c3d180a2ddae894a51a0df571c21de3b96ceb85b0ed",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "a universe",
+        "target": "defaults to chaos",
+        "type": "always",
+        "quote": "In a universe that defaults to chaos",
+        "stance": "asserts"
+      },
+      {
+        "source": "coherence in our universe",
+        "target": "is not a passive, default state",
+        "type": "must_not",
+        "quote": "coherence in our universe is not a passive, default state",
+        "stance": "asserts"
+      },
+      {
+        "source": "coherence in our universe",
+        "target": "is an active, energy-intensive, and ongoing process that systems must constantly execute to persist",
+        "type": "must",
+        "quote": "It is an active, energy-intensive, and ongoing process that systems must constantly execute to persist against the universal tendency toward dissolution",
+        "stance": "asserts"
+      },
+      {
+        "source": "systems",
+        "target": "must constantly execute coherence to persist against the universal tendency toward dissolution",
+        "type": "must",
+        "quote": "systems must constantly execute to persist against the universal tendency toward dissolution",
+        "stance": "asserts"
+      },
+      {
+        "source": "each processor core",
+        "target": "maintains its own small, private memory called a cache",
+        "type": "must",
+        "quote": "each processor core maintains its own small, private memory called a cache",
+        "stance": "asserts"
+      },
+      {
+        "source": "every processor",
+        "target": "follow a cache coherence protocol",
+        "type": "must",
+        "quote": "an explicit set of rules that every processor must follow—a cache coherence protocol",
+        "stance": "asserts"
+      },
+      {
+        "source": "Protocols like MESI",
+        "target": "define the state of every piece of data and dictate how cores must communicate to ensure they all share a single, consistent view of memory",
+        "type": "must",
+        "quote": "defining the state of every piece of data and dictating how cores must communicate to ensure they all share a single, consistent view of memory",
+        "stance": "asserts"
+      },
+      {
+        "source": "maintaining this shared reality",
+        "target": "is not free",
+        "type": "always",
+        "quote": "maintaining this shared reality is not free",
+        "stance": "asserts"
+      },
+      {
+        "source": "coherence",
+        "target": "is an active, resource-intensive process of preservation, not a passive, default state",
+        "type": "always",
+        "quote": "coherence is an active, resource-intensive process of preservation, not a passive, default state",
+        "stance": "asserts"
+      },
+      {
+        "source": "quantum coherence",
+        "target": "destroyed through any unwanted interaction with the surrounding environment",
+        "type": "must_not",
+        "quote": "this quantum coherence is exquisitely fragile. It is destroyed through any unwanted interaction with the surrounding environment",
+        "stance": "asserts"
+      },
+      {
+        "source": "Any interaction",
+        "target": "effectively \"measures\" the quantum system",
+        "type": "always",
+        "quote": "Any interaction—with a stray photon, a vibrating atom, or a magnetic field—effectively \"measures\" the quantum system.",
+        "stance": "asserts"
+      },
+      {
+        "source": "the system's superposition of possibilities",
+        "target": "collapse into a single, definite, classical state",
+        "type": "if_then",
+        "quote": "This act of measurement forces the system's superposition of possibilities to \"collapse\" into a single, definite, classical state that is consistent with the outcome of that interaction.",
+        "stance": "asserts"
+      },
+      {
+        "source": "quantum coherence",
+        "target": "is a tangible, finite commodity",
+        "type": "always",
+        "quote": "quantum coherence is treated not as an abstract property but as a tangible, finite commodity.",
+        "stance": "asserts"
+      },
+      {
+        "source": "quantum coherence",
+        "target": "is constantly being consumed by the universe's interactions",
+        "type": "always",
+        "quote": "It is a resource that is constantly being consumed by the universe's interactions",
+        "stance": "asserts"
+      },
+      {
+        "source": "a single bird in a flock",
+        "target": "follow a few rules, like matching the speed and direction of its immediate neighbors while maintaining a safe distance",
+        "type": "must",
+        "quote": "A single bird in a flock only needs to follow a few rules, like matching the speed and direction of its immediate neighbors while maintaining a safe distance.",
+        "stance": "asserts"
+      },
+      {
+        "source": "the flock's collective movement",
+        "target": "dictate the path of the individual bird",
+        "type": "always",
+        "quote": "The flock's collective movement now dictates the path of the individual bird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "each bird",
+        "target": "sacrifice its individual freedom to fly in any direction",
+        "type": "must",
+        "quote": "each bird must sacrifice its individual freedom to fly in any direction",
+        "stance": "asserts"
+      },
+      {
+        "source": "a system's persistence",
+        "target": "depends on an active protocol that maintains its coherence against a constant threat of collapse or dissolution",
+        "type": "must",
+        "quote": "a system's persistence depends on an active protocol that maintains its coherence against a constant threat of collapse or dissolution",
+        "stance": "asserts"
+      },
+      {
+        "source": "K₁ system",
+        "target": "actively maintaining their integrity against the constant pressure of K₀",
+        "type": "always",
+        "quote": "existence is not a static state of being. It is the dynamic process of K₁ structures actively maintaining their integrity against the constant pressure of K₀",
+        "stance": "asserts"
+      },
+      {
+        "source": "coherence",
+        "target": "is a fragile, resource-intensive, and continuous achievement",
+        "type": "always",
+        "quote": "coherence is not a given. It is a fragile, resource-intensive, and continuous achievement",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stability",
+        "target": "be constantly performed",
+        "type": "must",
+        "quote": "Stability is not a passive property of matter but a dynamic process that must be constantly performed.",
+        "stance": "asserts"
+      },
+      {
+        "source": "The universe",
+        "target": "the ongoing execution of a multi-layered Coherence Protocol",
+        "type": "always",
+        "quote": "The universe is not a static collection of things but the ongoing execution of a multi-layered Coherence Protocol.",
+        "stance": "asserts"
+      },
+      {
+        "source": "persistence",
+        "target": "not a default property but an acquired skill",
+        "type": "always",
+        "quote": "persistence is not a default property but an acquired skill.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

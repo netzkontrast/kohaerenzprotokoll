@@ -1,8 +1,15 @@
 {
  "cases": 24,
- "doc_recall": 0.27,
- "line_recall": 0.094,
+ "doc_recall": 0.262,
+ "line_recall": 0.092,
  "budget": 60000,
+ "finders": [
+  "graph-evidence",
+  "bm25-lines",
+  "entity-unread",
+  "co-mention",
+  "parallel"
+ ],
  "rows": [
   {
    "id": "C1",
@@ -69,12 +76,12 @@
   },
   {
    "id": "C2",
-   "gold_docs": 28,
-   "doc_recall": 0.214,
-   "gold_lines": 77,
-   "line_recall": 0.039,
-   "pack_docs": 37,
-   "chars": 47673
+   "gold_docs": 29,
+   "doc_recall": 0.207,
+   "gold_lines": 80,
+   "line_recall": 0.037,
+   "pack_docs": 38,
+   "chars": 47950
   },
   {
    "id": "C3",
@@ -115,11 +122,11 @@
   {
    "id": "C7",
    "gold_docs": 36,
-   "doc_recall": 0.278,
+   "doc_recall": 0.056,
    "gold_lines": 114,
-   "line_recall": 0.053,
-   "pack_docs": 18,
-   "chars": 66716
+   "line_recall": 0.018,
+   "pack_docs": 8,
+   "chars": 67207
   },
   {
    "id": "C8",
@@ -159,9 +166,9 @@
   },
   {
    "id": "Q3",
-   "gold_docs": 38,
-   "doc_recall": 0.079,
-   "gold_lines": 158,
+   "gold_docs": 39,
+   "doc_recall": 0.077,
+   "gold_lines": 160,
    "line_recall": 0.025,
    "pack_docs": 11,
    "chars": 66592
@@ -182,7 +189,7 @@
    "gold_lines": 114,
    "line_recall": 0.009,
    "pack_docs": 22,
-   "chars": 68213
+   "chars": 68509
   },
   {
    "id": "Q6",
@@ -204,12 +211,12 @@
   },
   {
    "id": "Q8",
-   "gold_docs": 14,
-   "doc_recall": 0.5,
-   "gold_lines": 19,
-   "line_recall": 0.053,
-   "pack_docs": 22,
-   "chars": 67976
+   "gold_docs": 15,
+   "doc_recall": 0.533,
+   "gold_lines": 21,
+   "line_recall": 0.048,
+   "pack_docs": 21,
+   "chars": 68239
   },
   {
    "id": "Q9",
@@ -217,8 +224,8 @@
    "doc_recall": 0.474,
    "gold_lines": 23,
    "line_recall": 0.043,
-   "pack_docs": 42,
-   "chars": 67798
+   "pack_docs": 41,
+   "chars": 67483
   }
  ]
 }

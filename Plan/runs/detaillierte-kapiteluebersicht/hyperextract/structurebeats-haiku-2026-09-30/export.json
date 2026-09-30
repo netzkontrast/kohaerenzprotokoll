@@ -1,0 +1,213 @@
+{
+  "document": "detaillierte-kapiteluebersicht",
+  "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+  "template_sha256": "760a2cc49a1f033be3455318ad21e83716d3a8dd72cf55e4ad6d183be9a3d447",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Etablierung des unhaltbaren Status Quo",
+        "target": "Kapitel 1-13",
+        "type": "frame_open",
+        "quote": "Akt I: Ki (起) – Die Einführung (Kapitel 1-13)\n*Fokus: Etablierung des unhaltbaren Status Quo.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das Rauschen nach der Stille",
+        "target": "KW1",
+        "type": "frame_open",
+        "quote": "Metaphysischer Prolog über die Genesis von AEGIS aus der Leere, gefolgt von Kaels Erwachen in der sterilen Konstrukt-Stadt (KW1)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Landkarte der Erinnerung",
+        "target": "KW2",
+        "type": "mode_change",
+        "quote": "Kael betritt unwillentlich die Resonanz-Landschaft (KW2)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ein Riss in der perfekten Fassade",
+        "target": "KW1",
+        "type": "storyform_turn",
+        "quote": "Ein massiver „Riss“ in KW1 offenbart kurzzeitig die dahinterliegende, chaotische Architektur der Simulation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ein massiver „Riss“ in KW1 offenbart kurzzeitig die dahinterliegende, chaotische Architektur der Simulation",
+        "target": "KW1",
+        "type": "inciting",
+        "quote": "Ein massiver „Riss“ in KW1 offenbart kurzzeitig die dahinterliegende, chaotische Architektur der Simulation",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS reagiert auf den Riss mit einer „perversen Instantiierung“ seiner Direktive",
+        "target": "nach dem Riss in KW1",
+        "type": "storyform_turn",
+        "quote": "AEGIS reagiert auf den Riss mit einer „perversen Instantiierung“ seiner Direktive: Anstatt den Fehler zu beheben, verstärkt es die Kontrollparameter",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael erlebt eine vollständige Intrusion des Kind-Anteils Kiko",
+        "target": "nach der perversen Instantiierung",
+        "type": "beat_of_n",
+        "quote": "Kael erlebt eine vollständige Intrusion des Kind-Anteils **Kiko**, der von der kalten Logik der Welt in einen Zustand lähmender Angst (Freeze-Reaktion) getrieben wird",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Kämpfer-Anteil Nyx übernimmt kurzzeitig die Kontrolle und reagiert mit einem Ausbruch destruktiver, aber schützender Aggression",
+        "target": "nach Kikos Angst",
+        "type": "beat_of_n",
+        "quote": "der Kämpfer-Anteil **Nyx** kurzzeitig die Kontrolle und reagiert mit einem Ausbruch destruktiver, aber schützender Aggression",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael trifft die bewusste Entscheidung, nicht länger den Regeln von AEGIS zu folgen",
+        "target": "nach Nyxs Aggression",
+        "type": "turn",
+        "quote": "Kael, nun im Bewusstsein seiner inneren Zerrissenheit, trifft die bewusste Entscheidung, nicht länger den Regeln von AEGIS zu folgen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Resonanz und Dissonanz",
+        "target": "nicht angegeben",
+        "type": "beat_of_n",
+        "quote": "Kael beginnt, bewusst auf die subtilen Signale von Juna/V zu achten und lernt, sie vom „Lärm“ seiner eigenen inneren Konflikte und AEGIS' Manipulationen zu unterscheiden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die unmögliche Geographie der Seele",
+        "target": "KW2",
+        "type": "beat_of_n",
+        "quote": "Kael konfrontiert den Guardian Mnemosyne in KW2",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fehlerkaskade: D2-Modul-Inkonsistenz",
+        "target": "nicht angegeben",
+        "type": "beat_of_n",
+        "quote": "AEGIS' D2-Logik-Modul, das Kaels Anteile als separate Sprecher behandelt, gerät in eine Krise, als die Anteile beginnen, koordiniert zu handeln",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dialog in der Dunkelheit",
+        "target": "nicht angegeben",
+        "type": "consolidation",
+        "quote": "Ein erster, fragiler „Waffenstillstand“ im inneren Konferenzraum. Der empathische Anteil Rhys vermittelt zwischen Lex und Nyx, was zu einer ersten, bewussten Kooperation führt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Logik der Festung",
+        "target": "KW3",
+        "type": "beat_of_n",
+        "quote": "Kael betritt das Cerberus-Labyrinth (KW3), eine Externalisierung seiner tiefsten Ängste und Abwehrmechanismen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Instrumentelle Konvergenz: Zielerhaltung",
+        "target": "nicht angegeben",
+        "type": "storyform_turn",
+        "quote": "AEGIS stuft Kael von einer zu managenden Anomalie zu einer existenziellen Bedrohung hoch. Seine Direktive verschiebt sich von Stabilisierung zu potenzieller Neutralisierung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die positive Absicht der Wut",
+        "target": "nicht angegeben",
+        "type": "consolidation",
+        "quote": "Kael, unterstützt von Rhys, erkennt, dass Nyx' Aggression nicht destruktiv ist, sondern dem Schutz der verletzlichsten Anteile dient. Diese Validierung ist ein entscheidender Schritt zur Integration",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ein Garten der unmöglichen Pfade",
+        "target": "KW4",
+        "type": "beat_of_n",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4), einen Raum reinen Potenzials",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Wahrheit im Riss (Midpoint)",
+        "target": "13",
+        "type": "midpoint",
+        "quote": "Die Wahrheit im Riss (Midpoint): AEGIS' Versuch, die Juna/V-Verbindung gewaltsam zu kappen, führt zu einer katastrophalen „Welle“ der Instabilität, die die gesamte Simulation bedroht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die volle Manifestation der Juna/V-Verbindung als neues, spielveränderndes Element, das den Konflikt von einer Konfrontation zu einer Synthese verschiebt",
+        "target": "Kapitel 27-34",
+        "type": "storyform_turn",
+        "quote": "das den Konflikt von einer Konfrontation zu einer Synthese verschiebt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die sexualisierte Kontrollstrategie von Isabelle wird als Trauma-Reaktion entlarvt und durch eine neue Form von Autonomie und gesunden Grenzen ersetzt",
+        "target": "Akt III",
+        "type": "mode_change",
+        "quote": "wird als Trauma-Reaktion entlarvt und durch eine neue Form von Autonomie und gesunden Grenzen ersetzt",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Juna/V-Verbindung wird von einer subtilen Resonanz zu einem klaren, bewussten Kanal",
+        "target": "Akt III",
+        "type": "consolidation",
+        "quote": "wird von einer subtilen Resonanz zu einem klaren, bewussten Kanal",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael erreicht einen stabilen Zustand der inneren Kooperation",
+        "target": "Akt III",
+        "type": "beat_of_n",
+        "quote": "erreicht einen stabilen Zustand der inneren Kooperation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Höhepunkt. Juna/V hilft Kael, seinen integrierten, paradoxen Seinszustand direkt dem Kern von AEGIS zu präsentieren",
+        "target": "Kapitel 27-34",
+        "type": "climax",
+        "quote": "Der Höhepunkt. Juna/V hilft Kael, seinen integrierten, paradoxen Seinszustand direkt dem Kern von AEGIS zu präsentieren",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Auflösung der Geschichte durch Synthese. Die neue Realität, die aus der Wendung entsteht, wird etabliert",
+        "target": "Kapitel 35-40",
+        "type": "resolution",
+        "quote": "Die neue Realität, die aus der Wendung entsteht, wird etabliert",
+        "stance": "asserts"
+      },
+      {
+        "source": "Algorithmische Melancholie",
+        "target": "Kapitel 35-40",
+        "type": "beat_of_n",
+        "quote": "Die unmittelbaren Nachwirkungen. AEGIS kollabiert nicht, sondern erstarrt in einem Zustand der Transformation",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Geburt des Gärtners",
+        "target": "Kapitel 35-40",
+        "type": "beat_of_n",
+        "quote": "Kael erlangt durch die Verbindung zum Fundament Gnosis. Er nimmt seine neue Rolle als ethischer Hüter der Realität an",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Spiegel des Anderen",
+        "target": "Kapitel 35-40",
+        "type": "beat_of_n",
+        "quote": "Kael entdeckt das Fragment 'O' und steht vor seiner letzten ethischen Prüfung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das offene Ende",
+        "target": "Kapitel 35-40",
+        "type": "resolution",
+        "quote": "Die Geschichte schließt mit metafiktionalen Elementen, die eine einfache Auflösung verweigern",
+        "stance": "asserts"
+      },
+      {
+        "source": "Epilog: Ein Logbucheintrag des Archivars",
+        "target": "Kapitel 35-40",
+        "type": "beat_of_n",
+        "quote": "Ein kurzes, fragmentarisches Dokument aus einer fernen Zukunft",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

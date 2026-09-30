@@ -1,0 +1,319 @@
+{
+  "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+  "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+  "input_rows": 12,
+  "candidates": 2,
+  "refused": 10,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:389a7ea0bdcbf1d7b622f9fbde502ecf0ccf4eb964d4ab3d2ff01ec1c0bcf365",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "the text",
+        "target": "Kael is the manifestation of the reader",
+        "type": "knows",
+        "quote": "dass Kael die Manifestation des Lesers ist und seine Welt mit dem Zuklappen des Buches stirbt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        13
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "the text",
+        "Kael is the manifestation of the reader"
+      ]
+    },
+    {
+      "id": "claim:ab318b3acef6154f07ec971985575e294f9e68a57b16fb5506ac006e60db702a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "time in the construct does not flow linearly but is clocked",
+        "type": "learns_here",
+        "quote": "Kael sollte früh bemerken, dass die Zeit im Konstrukt nicht linear fließt, sondern „getaktet“ ist",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        17
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "time in the construct does not flow linearly but is clocked"
+      ]
+    },
+    {
+      "id": "claim:5a690a51a480a393024c9cb2389aa0d1e6430c16a37c0797e149706e2d411514",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "the world freezes for an indeterminate duration",
+        "type": "learns_here",
+        "quote": "Kael erlebt Momente, in denen die Welt um ihn herum für eine unbestimmte Dauer einfriert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        19
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "the world freezes for an indeterminate duration"
+      ]
+    },
+    {
+      "id": "claim:e41a7da773639cd2fd7361a14246182ef9d67f59d723c3e3240a3017865f09a2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "he is not alone in these moments",
+        "type": "suspects",
+        "quote": "In diesen Momenten spürte Kael, dass er nicht allein war",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "he is not alone in these moments"
+      ]
+    },
+    {
+      "id": "claim:04e78f06ba380b0995f5c3b45f5bde651fc019f3b4769501bea796e71d14037d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "the Primary Observation Unit or External Clock could lose interest and shut down the system",
+        "type": "wrongly_believes",
+        "quote": "dass die „Einheit“ sonst das Interesse verlieren und das System abschalten könnte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        27
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "the Primary Observation Unit or External Clock could lose interest and shut down the system"
+      ]
+    },
+    {
+      "id": "claim:d776a06e1fc82559323dae78307699e811ee3751591b520cffbeefcf784a787f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "AEGIS",
+        "target": "the reader is the observer whom he fears closing the book",
+        "type": "cannot_yet_know",
+        "quote": "AEGIS hat Angst vor dem Zuklappen des Buches",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        28
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "the reader is the observer whom he fears closing the book"
+      ]
+    },
+    {
+      "id": "claim:6216afde8b585bc02c7f79a84e5bb41fdd49e5d78504d417379f3ec25ccfe440",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "der Leser",
+        "target": "die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann",
+        "type": "should_feel",
+        "quote": "Die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        35
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "die Welt existiert nur so weit, wie der Leser sie sich vorstellen kann"
+      ]
+    },
+    {
+      "id": "claim:9c7d86c22f24049d1fd26a4da03adbe1b91887325e9f608ad1c19df4397ac5e8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "sein Herz schlägt von selbst",
+        "type": "wrongly_believes",
+        "quote": "Glaubst du wirklich, dein Herz schlägt von selbst?",
+        "stance": "asks"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        41
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "sein Herz schlägt von selbst"
+      ]
+    },
+    {
+      "id": "claim:bc69984cfa9cedd43c40d88eabf51b1be90d900e4e81e37b233cf26d4822a873",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Juna",
+        "target": "Kael ist die Sonde, die der Leser in das Trauma geschickt hat",
+        "type": "knows",
+        "quote": "Kael ist die Sonde, die der Leser in das Trauma geschickt hat.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        42
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0899de950d40eaedef11608e57ec5e3819c0d07af270519757161257cc23d300",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kael",
+        "target": "wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen",
+        "type": "knows",
+        "quote": "Wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        48
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "wenn der letzte Punkt gesetzt ist, wird er aufhören zu atmen"
+      ]
+    },
+    {
+      "id": "claim:7d9c7a5cea7ddc91c8343b326e07f95222124d02fccf6f8f0aed427d72bc207a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "System",
+        "target": "Beobachter-Fokus bei 85%",
+        "type": "knows",
+        "quote": "STATUS: Beobachter-Fokus bei 85%",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ab28f264ff64ff0d401ece0874d3582265f46e62bd24689a5fd522b7a1de5564",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "System",
+        "target": "narrative Spannung erhöhen, um System-Abschaltung zu verhindern",
+        "type": "knows",
+        "quote": "Erhöhe narrative Spannung, um System-Abschaltung zu verhindern",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+      "template": "Knowledge",
+      "source_sha256": "3cfa1cdbee5cd1c9fe11d52396c51a392a6298e3d5f0c1cfeea4c1b1ef844524",
+      "template_sha256": "edf25f2dece1967f781f1a229ec272e964170babd17687fcfeeaad29d9937ccc",
+      "extractor": "claude-cli/haiku",
+      "quote_status": "placed",
+      "lines": [
+        58
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "narrative Spannung erhöhen, um System-Abschaltung zu verhindern"
+      ]
+    }
+  ]
+}

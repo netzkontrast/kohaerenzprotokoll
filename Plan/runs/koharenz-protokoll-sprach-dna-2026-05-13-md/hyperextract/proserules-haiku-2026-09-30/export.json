@@ -1,0 +1,458 @@
+{
+  "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+  "source_sha256": "9d922521066b2014c6eea9cd71746c2acbdab0a0222d33d509d292034e1d28d0",
+  "template_sha256": "401115fad3305f1fe9fd65088781819c80539fb398a8f57255cf025de8b7c887",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Wechsel zwischen Stimmen",
+        "target": "werden nie durch Header, Etikett oder Ansage markiert",
+        "type": "device",
+        "quote": "Wechsel zwischen Stimmen werden **nie** durch Header, Etikett oder Ansage markiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Leser",
+        "target": "erkennt den neuen Anteil ausschließlich an Syntax und Vokabular",
+        "type": "device",
+        "quote": "Der Leser erkennt den neuen Anteil ausschließlich an Syntax und Vokabular.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dissoziation",
+        "target": "ist Amnesie-Terror, niemals Crew-Menü",
+        "type": "device",
+        "quote": "Dissoziation ist Amnesie-Terror, niemals Crew-Menü.",
+        "stance": "asserts"
+      },
+      {
+        "source": "abstrakte Konzepte pro Szene",
+        "target": "maximal ein",
+        "type": "structure",
+        "quote": "Maximal ein abstraktes Konzept pro Szene.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erste 50 Seiten",
+        "target": "null DKT-Terminologie — nur Phänomenologie",
+        "type": "diction",
+        "quote": "Erste 50 Seiten: null DKT-Terminologie — nur Phänomenologie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "abstrakte Vorgänge",
+        "target": "Sensorische Verankerung Pflicht; erscheinen als physische Bilder",
+        "type": "device",
+        "quote": "Sensorische Verankerung Pflicht; abstrakte Vorgänge erscheinen als physische Bilder.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Schwellen",
+        "target": "wer eine Schwelle sanft macht, lügt über das Trauma",
+        "type": "device",
+        "quote": "Wer eine Schwelle sanft macht, lügt über das Trauma.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erzähler-Stimme",
+        "target": "Niemals didaktisch, niemals erklärend",
+        "type": "voice",
+        "quote": "Niemals didaktisch, niemals erklärend.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS (operative Hälfte / MC in Storyform B)",
+        "target": "nie „ich“",
+        "type": "pov",
+        "quote": "3. Person personal, nie „ich“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS (operative Hälfte / MC in Storyform B)",
+        "target": "Keine Metapher, kein moralisches Vokabular, keine Empfindung, kein Witz.",
+        "type": "diction",
+        "quote": "Keine Metapher, kein moralisches Vokabular, keine Empfindung, kein Witz.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS (operative Hälfte / MC in Storyform B)",
+        "target": "Juna nie als Subjekt — nur als Wirkung.",
+        "type": "diction",
+        "quote": "Juna nie als Subjekt — nur als Wirkung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "AEGIS (operative Hälfte / MC in Storyform B)",
+        "target": "Bricht nur einmal, im Vortex-Beat 5.",
+        "type": "structure",
+        "quote": "Bricht nur einmal, im Vortex-Beat 5.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Pol",
+        "target": "Keine Metaphern, keine Pausen — Vollzug",
+        "type": "diction",
+        "quote": "Keine Metaphern, keine Pausen — Vollzug.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Pol",
+        "target": "Nicht eigenständig moralisch",
+        "type": "voice",
+        "quote": "Nicht eigenständig moralisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Pol",
+        "target": "Keine Persönlichkeit jenseits der Funktion",
+        "type": "voice",
+        "quote": "Keine Persönlichkeit jenseits der Funktion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Erasure-Pol",
+        "target": "Wenn er spricht, dann nur in Vollzugsmeldungen — und auch nur dort, wo es struktureller Bedarf gibt",
+        "type": "voice",
+        "quote": "Wenn er spricht, dann nur in Vollzugsmeldungen — und auch nur dort, wo es struktureller Bedarf gibt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Niemals POV",
+        "type": "pov",
+        "quote": "Niemals POV.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Niemals Subjekt eines Satzes",
+        "type": "voice",
+        "quote": "Niemals Subjekt eines Satzes.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Nie physisch beschrieben — keine Augen, keine Stimme, kein Gesicht",
+        "type": "diction",
+        "quote": "Nie physisch beschrieben — keine Augen, keine Stimme, kein Gesicht.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Nie Deus ex Machina",
+        "type": "device",
+        "quote": "Nie Deus ex Machina.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna",
+        "target": "Erst Kap 38 direkt erscheinen — vorher ausschließlich Wirkung",
+        "type": "structure",
+        "quote": "Erst Kap 38 direkt erscheinen — vorher ausschließlich Wirkung.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael (Host / MC in Storyform A)",
+        "target": "1. Person, Präsens dominiert",
+        "type": "pov",
+        "quote": "POV / Syntax: 1. Person, Präsens dominiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Beschreibt nie eigenes Empfinden direkt",
+        "type": "diction",
+        "quote": "Beschreibt nie eigenes Empfinden direkt — Welt um sich, Empfinden zwischen den Zeilen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "In Akt I keine DKT-Begriffe, kein „Alter“, kein „Fragment“",
+        "type": "diction",
+        "quote": "In Akt I keine DKT-Begriffe, kein „Alter“, kein „Fragment“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael",
+        "target": "Multiplizitäts-Schleier bis Kap 13",
+        "type": "structure",
+        "quote": "Multiplizitäts-Schleier bis Kap 13.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex (ANP / Rationalist)",
+        "target": "Lex flucht nie. Lex weint nie.",
+        "type": "diction",
+        "quote": "Lex flucht nie. Lex weint nie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Lex argumentiert mit Syllogismen, auch wenn das System brennt.",
+        "type": "device",
+        "quote": "Lex argumentiert mit Syllogismen, auch wenn das System brennt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lex",
+        "target": "Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.",
+        "type": "device",
+        "quote": "Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex (ANP / Protektor)",
+        "target": "spricht nie über Gefühle in der 1. Person",
+        "type": "voice",
+        "quote": "Alex spricht nie über Gefühle in der 1. Person.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Alex (ANP / Protektor)",
+        "target": "Niemals „Ich liebe dich“",
+        "type": "diction",
+        "quote": "Niemals „Ich liebe dich“.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "1. Person",
+        "type": "pov",
+        "quote": "POV / Syntax: 1. Person.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Lange Pausen als syntaktisches Element",
+        "type": "device",
+        "quote": "Lange Pausen als syntaktisches Element.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Selene",
+        "target": "Selene drängt nie",
+        "type": "device",
+        "quote": "Selene drängt nie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "1. Person, aber distanziert wie 3.",
+        "type": "pov",
+        "quote": "POV / Syntax: 1. Person, aber distanziert wie 3.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Argus",
+        "target": "Niemals affektiv",
+        "type": "diction",
+        "quote": "Niemals affektiv.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx (EP / Fight)",
+        "target": "Keine Konnektoren",
+        "type": "diction",
+        "quote": "Keine Konnektoren.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx (EP / Fight)",
+        "target": "Verb-Erststellung, oft Imperativ",
+        "type": "voice",
+        "quote": "Verb-Erststellung, oft Imperativ.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx (EP / Fight)",
+        "target": "Negationen alleinstehend („Nicht.“)",
+        "type": "device",
+        "quote": "Negationen alleinstehend („Nicht.“)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx (EP / Fight)",
+        "target": "Nicht „weiblich-wütend“ als Klischee",
+        "type": "diction",
+        "quote": "Nicht „weiblich-wütend“ als Klischee.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nyx (EP / Fight)",
+        "target": "Punkte statt Ausrufezeichen",
+        "type": "format",
+        "quote": "Punkte statt Ausrufezeichen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kiko (EP / Freeze / Kind)",
+        "target": "Kiko ist nicht „niedlich“",
+        "type": "voice",
+        "quote": "Kiko ist nicht „niedlich“.",
+        "stance": "denies"
+      },
+      {
+        "source": "Kiko (EP / Freeze / Kind)",
+        "target": "Ihre Sätze sind nicht süß — sie sind verstümmelt durch Angst",
+        "type": "voice",
+        "quote": "Ihre Sätze sind nicht süß — sie sind verstümmelt durch Angst.",
+        "stance": "denies"
+      },
+      {
+        "source": "Kiko (EP / Freeze / Kind)",
+        "target": "Wenn die Sprache komplexer wird, ist das ein anderer Anteil oder ein Heilungs-Marker",
+        "type": "device",
+        "quote": "Wenn die Sprache komplexer wird, ist das ein anderer Anteil oder ein Heilungs-Marker.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lia (EP / Ambivalent / Kind)",
+        "target": "Lia ist nicht launisch",
+        "type": "voice",
+        "quote": "Lia ist nicht launisch.",
+        "stance": "denies"
+      },
+      {
+        "source": "Lia (EP / Ambivalent / Kind)",
+        "target": "Jeder Versuch, ihre Stimme glatt zu schreiben, falsifiziert sie",
+        "type": "device",
+        "quote": "Jeder Versuch, ihre Stimme glatt zu schreiben, falsifiziert sie.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Lia (EP / Ambivalent / Kind)",
+        "target": "Ihre Sätze müssen brechen, damit sie ehrlich sind",
+        "type": "device",
+        "quote": "Ihre Sätze müssen brechen, damit sie ehrlich sind.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Isabelle",
+        "target": "Die Reihenfolge ist immer ihre",
+        "type": "device",
+        "quote": "Kontrolle als Verführung — die Reihenfolge ist immer ihre.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Isabelle",
+        "target": "Niemals als Klischee schreiben",
+        "type": "diction",
+        "quote": "Niemals als Klischee schreiben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Isabelle",
+        "target": "Isabelle wird nicht gerettet und nicht durch Sanftheit integriert",
+        "type": "device",
+        "quote": "Isabelle wird nicht gerettet und nicht durch Sanftheit integriert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros",
+        "target": "Wiederholung als Rhythmus des Kollapses",
+        "type": "device",
+        "quote": "Wiederholung als Rhythmus des Kollapses.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros",
+        "target": "Nicht depressiv im klinischen Sinne — katatonisch",
+        "type": "voice",
+        "quote": "Nicht depressiv im klinischen Sinne — katatonisch.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Moros",
+        "target": "Wenn Moros lange genug präsent ist, schreibt der Roman selbst langsamer",
+        "type": "device",
+        "quote": "Wenn Moros lange genug präsent ist, schreibt der Roman selbst langsamer.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Niemals als heimliche Heldin schreiben",
+        "type": "device",
+        "quote": "Niemals als heimliche Heldin schreiben.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Silas",
+        "target": "Er ist Resonanz, kein Subjekt im klassischen Sinn",
+        "type": "device",
+        "quote": "Er ist Resonanz, kein Subjekt im klassischen Sinn.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Oblivion",
+        "target": "Seine Kapitel sind strukturell anders: Lücken, abgebrochene Wörter, weggeätzte Stellen",
+        "type": "structure",
+        "quote": "Seine Kapitel sind strukturell anders: Lücken, abgebrochene Wörter, weggeätzte Stellen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "Niemals Final Fusion",
+        "type": "device",
+        "quote": "Niemals Final Fusion.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "Das Wir ist Mosaik, nicht Monolith",
+        "type": "device",
+        "quote": "Das Wir ist Mosaik, nicht Monolith.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Wir-Stimme",
+        "target": "Wer das Wir glatt schreibt, hat die zentrale ethische Linie verletzt",
+        "type": "voice",
+        "quote": "Wer das Wir glatt schreibt, hat die zentrale ethische Linie verletzt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt-Stilebenen, Stilebene 3",
+        "target": "Stilebenen 1 und 2 verschwinden nicht — sie werden in 3 erinnert",
+        "type": "structure",
+        "quote": "Stilebenen 1 und 2 verschwinden nicht — sie werden in 3 erinnert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "KW1 — Konstrukt-Stadt / Logos-Prime",
+        "target": "Metaphernverbot",
+        "type": "diction",
+        "quote": "Metaphernverbot",
+        "stance": "asserts"
+      },
+      {
+        "source": "Vortex 2 (Kap 38–39)",
+        "target": "Kein didaktischer Tonfall, kein Triumph",
+        "type": "voice",
+        "quote": "Kein didaktischer Tonfall, kein Triumph",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stimmen",
+        "target": "werden nie etikettiert",
+        "type": "voice",
+        "quote": "Stimmen werden nie etikettiert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stimmen",
+        "target": "Der Leser erkennt sie an der Syntax, nicht am Header",
+        "type": "voice",
+        "quote": "Der Leser erkennt sie an der Syntax, nicht am Header.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Stimmen",
+        "target": "Das ist die einzige Hard Rule, die nie verletzt wird",
+        "type": "lock",
+        "quote": "Das ist die einzige Hard Rule, die nie verletzt wird.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

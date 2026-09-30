@@ -1,0 +1,54 @@
+# Attributions — which source a passage reports — a person, a theory, a study, another document — with the passage.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the lab of 2026-09-30 (Plan/runs/reader-lab-2026-09-30/README.md): the class of defect no check saw was voice — a reader
+#   wrote what the line reports as if the document said it. claims.py flags a report by a list of cue words; this is the
+#   contract that names the source, so that the graph can tell a document's own voice from the voices it reports.
+# measured against: the sentences of a note that a reviewer marks `source:` in the claims table; a pair whose source name stands inside its quote is the precise subset. A quote is placed by read.py --find (P26).
+# may not: decide whether the reported source is right, or promote a reported claim to the document's own; a report is a P_HE_SAYS proposal for a reader
+# retire when: on three documents a person keeps no attribution beyond what claims.py's cue list finds
+language: en
+name: Attributions
+type: list
+tags: [voice, attribution, sources, german]
+description: "Which source a passage reports — a person, a theory, a study, another document — with the passage, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The reported source exactly as the document names it: a person, a theory, a framework, a study, a guideline, another document."
+      required: true
+    - name: target
+      type: str
+      description: "The term or topic the reported statement is about, exactly as the document writes it."
+      required: true
+    - name: type
+      type: str
+      description: "argues: the source holds a position. defines: it defines the topic. finds: it reports an empirical result. recommends: it prescribes a practice. claims: it asserts without evidence being given."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German research document and collect, verbatim, the passages in which it reports what another source says, so that a person can tell the document's own voice from the voices it reports."
+  rules:
+    - "Record a passage only when it names its source: nach X, laut X, X postuliert, X zeigt, gemäß den Leitlinien der X, die Theorie von X besagt, wie X formuliert, or Studien belegen with the study named."
+    - "The source and the topic both stand inside the quote."
+    - "A passage in the document's own voice — no source named — is not recorded, even when it sounds like a citation."
+    - "A source the document names only as die Forschung or Studien is not a name; record it only if a title, an author or an institution is given in the same sentence."
+    - "Never attribute a passage to a source the sentence does not name; never take a reference number as a name."
+    - "When the words do not name the source, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

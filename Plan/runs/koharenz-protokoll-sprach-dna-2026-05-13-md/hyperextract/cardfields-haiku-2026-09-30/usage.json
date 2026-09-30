@@ -1,0 +1,12 @@
+{
+  "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+  "template": "CardFields.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 12,
+  "failed_calls": 0,
+  "seconds": 83.3,
+  "input_tokens": 65446,
+  "output_tokens": 6477,
+  "cost_usd": 0.1632,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

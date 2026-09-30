@@ -1,0 +1,54 @@
+# Anchors — a motif or fact the source plants, echoes, pays off or closes, with the place and the sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: GOAL.md 4.3 (`Anchor`, `ForeshadowStrand`; edges `sets_up`, `pays_off`, `echoes`) and the plan's anchor ledger (Phase 2c: planted, echoed, paid
+#   or closed). The continuity-editor's deferred reveals and the developmental-editor's payoff test both need it; the stated graph has none,
+#   and no mechanical relation can tell a plant from a mention.
+# measured against: the anchors a plan names (a telephone silence, a number, a half-sentence, a warmth); a pair whose anchor and place stand inside its quote is the precise subset. A quote is placed by read.py --find (P26).
+# may not: decide that a plant is paid or that a payoff is missing — every anchor planted is paid or deliberately left open is the author's gate, read by a person; an anchor here is a P_HE_ANCHOR candidate
+# retire when: on three documents a person keeps no anchor beyond what the plan's own motif list holds
+language: en
+name: Anchors
+type: list
+tags: [foreshadowing, motifs, anchors, setup-payoff, german]
+description: "A motif or fact the source plants, echoes, pays off or closes, with the place and the sentence, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The anchor exactly as the source writes it: a motif, an object, a number, a phrase, a fact that will matter."
+      required: true
+    - name: target
+      type: str
+      description: "Where or when it stands, exactly as the source writes it: a chapter, an act, a scene, an event."
+      required: true
+    - name: type
+      type: str
+      description: "plants: first appears here, as something that will matter. echoes: returns here, changed or unchanged. pays_off: the earlier plant is answered here. closes: the thread ends here. withholds: the source says it is deliberately kept from the reader here."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German plan or analysis of a novel and collect, verbatim, the sentences that say where a motif or fact is planted, echoed, paid off or closed, so that a person can keep a ledger of the book's anchors."
+  rules:
+    - "Record a record only when ONE sentence names the anchor and the place and says what happens to the anchor there: gepflanzt, aufgegriffen, kehrt wieder, ausgezahlt, aufgelöst, geschlossen, vorbereitet, setzt … voraus, kehrt wieder, Payoff, Setup."
+    - "The anchor and the place both stand inside the quote; the place is copied as written."
+    - "A plant the source calls planned or possible is recorded with stance hedges."
+    - "A mere mention is not an anchor: the sentence must say the thing matters later, or matters again."
+    - "Never infer that two mentions are a plant and a payoff; never pair two sentences into one record."
+    - "When the words do not say what happens to the anchor, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

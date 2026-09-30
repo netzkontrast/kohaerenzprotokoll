@@ -1,0 +1,122 @@
+{
+  "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+  "source_sha256": "5b3e9566ab850086c728cfd0bb26932bc323ffd21ecaf70166c737b32a10fdb4",
+  "template_sha256": "479cb149de783cdb3f77b74190b249bc3f5795b6dcf96b1163a4c46cb5b29b64",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "cache coherence protocol",
+        "target": "law of the land",
+        "type": "metaphor_for",
+        "quote": "Protocols like MESI (Modified, Exclusive, Shared, Invalid) act as a \"law of the land\" inside the chip",
+        "stance": "asserts"
+      },
+      {
+        "source": "cancerous state",
+        "target": "protocol violation",
+        "type": "corresponds_to",
+        "quote": "A cancerous state, for instance, can be seen as a form of protocol violation, where a single cell ignores system-wide signals",
+        "stance": "asserts"
+      },
+      {
+        "source": "engineered protocol in silicon",
+        "target": "a far more fundamental protocol embedded in the fabric of physics itself",
+        "type": "metaphor_for",
+        "quote": "This engineered protocol in silicon serves as a powerful metaphor for a far more fundamental protocol embedded in the fabric of physics itself.",
+        "stance": "asserts"
+      },
+      {
+        "source": "quantum coherence",
+        "target": "internal consistency",
+        "type": "corresponds_to",
+        "quote": "This coherent superposition is the ultimate state of internal consistency, holding multiple potentials in a delicate harmony.",
+        "stance": "asserts"
+      },
+      {
+        "source": "decoherence",
+        "target": "measurement/interaction with the environment",
+        "type": "corresponds_to",
+        "quote": "It is destroyed through any unwanted interaction with the surrounding environment, a process known as decoherence.",
+        "stance": "asserts"
+      },
+      {
+        "source": "quantum coherence",
+        "target": "Quantum Resource Theories (QRT)",
+        "type": "implements",
+        "quote": "In Quantum Resource Theories (QRT), quantum coherence is treated not as an abstract property but as a tangible, finite commodity.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Decoherence",
+        "target": "the universe's most fundamental protocol",
+        "type": "corresponds_to",
+        "quote": "Decoherence acts as the universe's most fundamental protocol.",
+        "stance": "asserts"
+      },
+      {
+        "source": "self-organization",
+        "target": "coherent global order emerges from simple, local interactions between individual agents",
+        "type": "corresponds_to",
+        "quote": "coherent global order emerges from simple, local interactions between individual agents",
+        "stance": "asserts"
+      },
+      {
+        "source": "emergent property",
+        "target": "pattern",
+        "type": "corresponds_to",
+        "quote": "the pattern is an *emergent property* of these local interactions",
+        "stance": "asserts"
+      },
+      {
+        "source": "downward causation",
+        "target": "Once this higher-level structure forms, it begins to constrain the behavior of the very agents that created it",
+        "type": "corresponds_to",
+        "quote": "Once this higher-level structure forms, it begins to constrain the behavior of the very agents that created it, a phenomenon known as **downward causation**",
+        "stance": "asserts"
+      },
+      {
+        "source": "emergent property",
+        "target": "bottom up",
+        "type": "corresponds_to",
+        "quote": "It can be an emergent property that arises from the bottom up, where a system generates its own internal rules",
+        "stance": "asserts"
+      },
+      {
+        "source": "Cache Coherence Protocols",
+        "target": "social contract",
+        "type": "corresponds_to",
+        "quote": "Cache Coherence Protocols (e.g., MESI) enforce a shared, single truth through a \"social contract\" between cores.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Decoherence",
+        "target": "correspondence check",
+        "type": "corresponds_to",
+        "quote": "Decoherence forces superposition to collapse, acting as a universal \"correspondence check\" against the environment.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Self-Organization",
+        "target": "emergent global order",
+        "type": "implements",
+        "quote": "Self-Organization generates emergent global order through local rules and the sacrifice of individual freedom.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Coherence Kernel",
+        "target": "reversible computation",
+        "type": "corresponds_to",
+        "quote": "The Coherence Kernel (K₁): The domain of reversible computation, information preservation, and self-sustaining order.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Collapse Kernel",
+        "target": "irreversible computation",
+        "type": "corresponds_to",
+        "quote": "The Collapse Kernel (K₀): The domain of irreversible computation, entropy, and information erasure.",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

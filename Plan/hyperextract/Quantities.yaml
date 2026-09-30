@@ -1,0 +1,54 @@
+# Quantities — a number the document binds to what it counts, measures or names, with that sentence.
+#
+# provisional — first design, 2026-09-30; never run on the corpus
+# derived from: the wiki's question on what the number 734 names, and the chapter counts the sources give differently (39 or 40).
+#   A number is not a term, so the mechanical MENTIONS relation never carries one; the subject a number belongs to is a
+#   reading of the sentence.
+# measured against: the numbers the wiki's pages and conflict records quote; a value that stands inside its quote is the precise subset, and code checks it. A quote is placed by read.py --find (P26).
+# may not: compare two documents' numbers — a difference between them is a conflict, and conflicts are read, never detected — or decide which is right
+# retire when: on three documents a person keeps no quantity beyond what the pages already quote
+language: en
+name: Quantities
+type: list
+tags: [numbers, quantities, parameters, german]
+description: "A number the document binds to what it counts, measures or names, with that sentence, each copied from one German document."
+
+output:
+  description: "One record per sentence that states it."
+  fields:
+    - name: source
+      type: str
+      description: "The subject the number belongs to, exactly as the document writes it: a term, a system, a world, a chapter."
+      required: true
+    - name: target
+      type: str
+      description: "The number or magnitude exactly as the document writes it, with its unit if any."
+      required: true
+    - name: type
+      type: str
+      description: "count: how many of something. threshold: a limit or a cut-off. parameter: a setting or a measured value. identifier: a number that names something. duration: a span of time or a sequence position."
+      required: true
+    - name: quote
+      type: str
+      description: "Exact contiguous words from ONE source line, containing BOTH names; no ellipsis, joined lines or translation. Prefer a shorter fragment if a sentence wraps."
+      required: true
+    - name: stance
+      type: str
+      description: "asserts: states it as so. hedges: qualifies it as possible or provisional. denies: says it is not so. asks: poses it as a question. cites: reports what an outside source says."
+      required: true
+
+guideline:
+  target: "You read one German research document and collect, verbatim, the sentences that bind a number to what it counts, measures or names, so that a person can look a figure up by its subject."
+  rules:
+    - "Record a quantity only when ONE sentence binds the number to its subject: a count with its noun, a threshold with its name, a table row with the label and the value."
+    - "The subject and the value both stand inside the quote; the value is copied character for character, unit included."
+    - "A number in a reference list, a date, a page or a footnote number is not a quantity."
+    - "A number the document gives as an estimate or an example is recorded with stance hedges."
+    - "Never compute, convert or round a value; never combine two numbers."
+    - "When the words do not bind a number to a subject, omit the record rather than fabricate evidence."
+
+options:
+  fields_for_search: [source, target, quote]
+
+display:
+  label: '{source} — {type} — {target}'

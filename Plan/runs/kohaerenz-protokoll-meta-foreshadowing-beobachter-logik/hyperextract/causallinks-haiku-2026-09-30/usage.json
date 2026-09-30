@@ -1,0 +1,12 @@
+{
+  "document": "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik",
+  "template": "CausalLinks.yaml",
+  "model": "claude-cli/haiku",
+  "calls": 3,
+  "failed_calls": 0,
+  "seconds": 13.9,
+  "input_tokens": 15507,
+  "output_tokens": 731,
+  "cost_usd": 0.0347,
+  "approval": "decision 011 (Claude, first party); the author's instruction of 2026-09-30 to put HyperExtract into the pipeline and read with Haiku"
+}

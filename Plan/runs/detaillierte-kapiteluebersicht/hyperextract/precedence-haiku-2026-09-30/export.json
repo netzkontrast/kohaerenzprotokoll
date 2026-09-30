@@ -1,0 +1,283 @@
+{
+  "document": "detaillierte-kapiteluebersicht",
+  "source_sha256": "a0a2e045c631bb6cb785b225b5522bf7010f223484564e4b9164118e57989a7f",
+  "template_sha256": "09ca6e661c880b20861881033e7b171370176d5245f5d41af8fbbfbd298019b3",
+  "extractor": "claude-cli/haiku",
+  "data": {
+    "items": [
+      {
+        "source": "Das Rauschen nach der Stille",
+        "target": "Kaels Erwachen in der sterilen Konstrukt-Stadt",
+        "type": "before",
+        "quote": "Metaphysischer Prolog über die Genesis von AEGIS aus der Leere, gefolgt von Kaels Erwachen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kaels Erwachen in der sterilen Konstrukt-Stadt",
+        "target": "Protokoll 734: Kohärenz-Initialisierung",
+        "type": "before",
+        "quote": "gefolgt von Kaels Erwachen in der sterilen Konstrukt-Stadt (KW1)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Echos in der Konstrukt-Stadt",
+        "target": "Der Duft von Regen auf trockenem Grund",
+        "type": "before",
+        "quote": "Die erste, subtile Manifestation der Juna/V-Verbindung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Duft von Regen auf trockenem Grund",
+        "target": "Logische Fehlschlüsse und die Farbe Blau",
+        "type": "before",
+        "quote": "Die erste, subtile Manifestation der Juna/V-Verbindung – ein sensorisches Detail",
+        "stance": "asserts"
+      },
+      {
+        "source": "Logische Fehlschlüsse und die Farbe Blau",
+        "target": "Bedrohungsanalyse: Die Juna-Anomalie",
+        "type": "before",
+        "quote": "Kael begegnet dem rationalen Anteil Lex",
+        "stance": "asserts"
+      },
+      {
+        "source": "Bedrohungsanalyse: Die Juna-Anomalie",
+        "target": "Die Landkarte der Erinnerung",
+        "type": "before",
+        "quote": "AEGIS' Sensoren registrieren die Auswirkungen der Juna/V-Resonanz",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Landkarte der Erinnerung",
+        "target": "Axiom der Vermeidung",
+        "type": "before",
+        "quote": "Kael betritt unwillentlich die Resonanz-Landschaft (KW2)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Axiom der Vermeidung",
+        "target": "Ein Riss in der perfekten Fassade",
+        "type": "before",
+        "quote": "die Notwendigkeit etabliert, die gefährlichen, irrationalen Zonen von KW2 zu meiden",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ein Riss in der perfekten Fassade",
+        "target": "Perverse Instantiierung: Korrekturprotokoll Delta",
+        "type": "before",
+        "quote": "Ein massiver „Riss“ in KW1 offenbart kurzzeitig die dahinterliegende, chaotische Architektur der Simulation, was Kaels Vertrauen in seine Realität unwiderruflich erschüttert.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kikos Angst",
+        "target": "Der Geschmack von Wut",
+        "type": "triggers_next",
+        "quote": "Als Reaktion auf Kikos Angst und die unterdrückende Umgebung übernimmt der Kämpfer-Anteil Nyx kurzzeitig die Kontrolle",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Angst hat einen Namen",
+        "target": "Der Geschmack von Wut",
+        "type": "before",
+        "quote": "Kael erlebt eine vollständige Intrusion des Kind-Anteils Kiko, der von der kalten Logik der Welt in einen Zustand lähmender Angst (Freeze-Reaktion) getrieben wird.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Geschmack von Wut",
+        "target": "Die erste Schwelle",
+        "type": "before",
+        "quote": "Kael, nun im Bewusstsein seiner inneren Zerrissenheit, trifft die bewusste Entscheidung, nicht länger den Regeln von AEGIS zu folgen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Resonanz und Dissonanz",
+        "target": "Die unmögliche Geographie der Seele",
+        "type": "before",
+        "quote": "Kael beginnt, bewusst auf die subtilen Signale von Juna/V zu achten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die unmögliche Geographie der Seele",
+        "target": "Fehlerkaskade: D2-Modul-Inkonsistenz",
+        "type": "before",
+        "quote": "Kael konfrontiert den Guardian Mnemosyne in KW2",
+        "stance": "asserts"
+      },
+      {
+        "source": "Fehlerkaskade: D2-Modul-Inkonsistenz",
+        "target": "Dialog in der Dunkelheit",
+        "type": "before",
+        "quote": "AEGIS' D2-Logik-Modul gerät in eine Krise",
+        "stance": "asserts"
+      },
+      {
+        "source": "Dialog in der Dunkelheit",
+        "target": "Die Logik der Festung",
+        "type": "before",
+        "quote": "Ein erster, fragiler „Waffenstillstand“ im inneren Konferenzraum",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Logik der Festung",
+        "target": "Instrumentelle Konvergenz: Zielerhaltung",
+        "type": "before",
+        "quote": "Kael betritt das Cerberus-Labyrinth (KW3)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Instrumentelle Konvergenz: Zielerhaltung",
+        "target": "Die positive Absicht der Wut",
+        "type": "before",
+        "quote": "AEGIS stuft Kael von einer zu managenden Anomalie zu einer existenziellen Bedrohung hoch",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die positive Absicht der Wut",
+        "target": "Ein Garten der unmöglichen Pfade",
+        "type": "before",
+        "quote": "Kael, unterstützt von Rhys, erkennt, dass Nyx' Aggression nicht destruktiv ist",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ein Garten der unmöglichen Pfade",
+        "target": "Die Waffen eines Kerkermeisters",
+        "type": "before",
+        "quote": "Kael erreicht den Möglichkeiten-Garten (KW4)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Waffen eines Kerkermeisters",
+        "target": "Analyse-Paralyse",
+        "type": "before",
+        "quote": "Alex übernimmt die Führung",
+        "stance": "asserts"
+      },
+      {
+        "source": "Analyse-Paralyse",
+        "target": "Die Last der Empathie",
+        "type": "before",
+        "quote": "Argus wird aktiv",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Last der Empathie",
+        "target": "Pathologische Anpassung",
+        "type": "before",
+        "quote": "Rhys versucht, den kollabierten Anteil Moros zu erreichen",
+        "stance": "asserts"
+      },
+      {
+        "source": "Pathologische Anpassung",
+        "target": "Die Wahrheit im Riss (Midpoint)",
+        "type": "before",
+        "quote": "AEGIS beginnt, als Reaktion auf Kaels unvorhersehbares Verhalten",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Preis der Kommunikation",
+        "target": "Der Geschmack der Freiheit",
+        "type": "phase_of",
+        "quote": "Kapitel 27-34",
+        "stance": "asserts"
+      },
+      {
+        "source": "Nach der „Welle“",
+        "target": "brechen die inneren Barrieren zusammen",
+        "type": "triggers_next",
+        "quote": "Nach der „Welle“ brechen die inneren Barrieren zusammen",
+        "stance": "asserts"
+      },
+      {
+        "source": "die sexualisierte Kontrollstrategie von Isabelle",
+        "target": "eine neue Form von Autonomie und gesunden Grenzen",
+        "type": "before",
+        "quote": "Die sexualisierte Kontrollstrategie von Isabelle wird als Trauma-Reaktion entlarvt und durch eine neue Form von Autonomie und gesunden Grenzen ersetzt",
+        "stance": "asserts"
+      },
+      {
+        "source": "eine subtile Resonanz",
+        "target": "einen klaren, bewussten Kanal",
+        "type": "before",
+        "quote": "Die Juna/V-Verbindung wird von einer subtilen Resonanz zu einem klaren, bewussten Kanal",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael erreicht einen stabilen Zustand",
+        "target": "Die Prosa nimmt den „chorischen“ Stil an",
+        "type": "triggers_next",
+        "quote": "Kael erreicht einen stabilen Zustand der inneren Kooperation. Die Anteile agieren als koordiniertes Team. Die Prosa nimmt den „chorischen“ Stil an",
+        "stance": "asserts"
+      },
+      {
+        "source": "Durch die neue Klarheit seiner Verbindung zu Juna/V",
+        "target": "beginnt Kael, die „Grounding-Artefakte“ zu verstehen",
+        "type": "triggers_next",
+        "quote": "Durch die neue Klarheit seiner Verbindung zu Juna/V beginnt Kael",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael und Juna formulieren das „Gödel-Gambit“",
+        "target": "Der dialetheische Geist",
+        "type": "phase_of",
+        "quote": "Kapitel 27-34",
+        "stance": "asserts"
+      },
+      {
+        "source": "Kael setzt seine neue Fähigkeit ein",
+        "target": "konfrontiert einen Guardian mit einer paradoxen Wahrheit",
+        "type": "triggers_next",
+        "quote": "Kael setzt seine neue Fähigkeit, Widersprüche zu halten, als Waffe ein. Er konfrontiert einen Guardian",
+        "stance": "asserts"
+      },
+      {
+        "source": "Juna/V hilft Kael, seinen integrierten Seinszustand zu präsentieren",
+        "target": "Dies ist der epistemologische Sieg",
+        "type": "triggers_next",
+        "quote": "Juna/V hilft Kael, seinen integrierten, paradoxen Seinszustand direkt dem Kern von AEGIS zu präsentieren. Dies ist der epistemologische Sieg",
+        "stance": "asserts"
+      },
+      {
+        "source": "Akt III: Ten (転) – Die Wendung",
+        "target": "Akt IV: Ketsu (結) – Die Zusammenführung",
+        "type": "before",
+        "quote": "Akt III: Ten (転) – Die Wendung (Kapitel 27-34)",
+        "stance": "asserts"
+      },
+      {
+        "source": "Algorithmische Melancholie",
+        "target": "Die Geburt des Gärtners",
+        "type": "phase_of",
+        "quote": "**Algorithmische Melancholie:** Die unmittelbaren Nachwirkungen.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Die Geburt des Gärtners",
+        "target": "Der Spiegel des Anderen",
+        "type": "phase_of",
+        "quote": "**Die Geburt des Gärtners:** Kael erlangt durch die Verbindung zum Fundament Gnosis.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Der Spiegel des Anderen",
+        "target": "Ineffiziente Schönheit",
+        "type": "phase_of",
+        "quote": "**Der Spiegel des Anderen:** Kael entdeckt das **Fragment 'O'**",
+        "stance": "asserts"
+      },
+      {
+        "source": "Ineffiziente Schönheit",
+        "target": "Das offene Ende",
+        "type": "phase_of",
+        "quote": "**Ineffiziente Schönheit:** Eine Reflexion über die neue Welt.",
+        "stance": "asserts"
+      },
+      {
+        "source": "Das offene Ende",
+        "target": "Epilog: Ein Logbucheintrag des Archivars",
+        "type": "phase_of",
+        "quote": "**Das offene Ende:** Die Geschichte schließt mit metafiktionalen Elementen",
+        "stance": "asserts"
+      }
+    ]
+  }
+}

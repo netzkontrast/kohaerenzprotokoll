@@ -1,0 +1,234 @@
+{
+ "cases": 24,
+ "doc_recall": 0.257,
+ "line_recall": 0.09,
+ "budget": 60000,
+ "finders": [
+  "graph-evidence",
+  "bm25-lines",
+  "entity-unread",
+  "co-mention",
+  "parallel",
+  "he-lines"
+ ],
+ "comention": 40,
+ "he_lines": 10,
+ "rows": [
+  {
+   "id": "C1",
+   "gold_docs": 14,
+   "doc_recall": 0.286,
+   "gold_lines": 20,
+   "line_recall": 0.15,
+   "pack_docs": 12,
+   "chars": 66381
+  },
+  {
+   "id": "C10",
+   "gold_docs": 21,
+   "doc_recall": 0.429,
+   "gold_lines": 43,
+   "line_recall": 0.07,
+   "pack_docs": 19,
+   "chars": 26676
+  },
+  {
+   "id": "C11",
+   "gold_docs": 41,
+   "doc_recall": 0.366,
+   "gold_lines": 182,
+   "line_recall": 0.159,
+   "pack_docs": 21,
+   "chars": 66689
+  },
+  {
+   "id": "C12",
+   "gold_docs": 30,
+   "doc_recall": 0.467,
+   "gold_lines": 119,
+   "line_recall": 0.16,
+   "pack_docs": 29,
+   "chars": 46123
+  },
+  {
+   "id": "C13",
+   "gold_docs": 9,
+   "doc_recall": 0.333,
+   "gold_lines": 18,
+   "line_recall": 0.056,
+   "pack_docs": 13,
+   "chars": 66393
+  },
+  {
+   "id": "C14",
+   "gold_docs": 30,
+   "doc_recall": 0.033,
+   "gold_lines": 84,
+   "line_recall": 0.024,
+   "pack_docs": 21,
+   "chars": 66110
+  },
+  {
+   "id": "C15",
+   "gold_docs": 9,
+   "doc_recall": 0.667,
+   "gold_lines": 21,
+   "line_recall": 0.429,
+   "pack_docs": 25,
+   "chars": 24606
+  },
+  {
+   "id": "C2",
+   "gold_docs": 29,
+   "doc_recall": 0.207,
+   "gold_lines": 80,
+   "line_recall": 0.037,
+   "pack_docs": 39,
+   "chars": 58585
+  },
+  {
+   "id": "C3",
+   "gold_docs": 24,
+   "doc_recall": 0.083,
+   "gold_lines": 66,
+   "line_recall": 0.0,
+   "pack_docs": 11,
+   "chars": 66943
+  },
+  {
+   "id": "C4",
+   "gold_docs": 31,
+   "doc_recall": 0.0,
+   "gold_lines": 92,
+   "line_recall": 0.0,
+   "pack_docs": 28,
+   "chars": 38806
+  },
+  {
+   "id": "C5",
+   "gold_docs": 20,
+   "doc_recall": 0.0,
+   "gold_lines": 41,
+   "line_recall": 0.0,
+   "pack_docs": 22,
+   "chars": 26989
+  },
+  {
+   "id": "C6",
+   "gold_docs": 32,
+   "doc_recall": 0.188,
+   "gold_lines": 108,
+   "line_recall": 0.019,
+   "pack_docs": 25,
+   "chars": 66472
+  },
+  {
+   "id": "C7",
+   "gold_docs": 36,
+   "doc_recall": 0.056,
+   "gold_lines": 114,
+   "line_recall": 0.018,
+   "pack_docs": 8,
+   "chars": 67207
+  },
+  {
+   "id": "C8",
+   "gold_docs": 18,
+   "doc_recall": 0.5,
+   "gold_lines": 59,
+   "line_recall": 0.169,
+   "pack_docs": 16,
+   "chars": 18761
+  },
+  {
+   "id": "C9",
+   "gold_docs": 25,
+   "doc_recall": 0.16,
+   "gold_lines": 53,
+   "line_recall": 0.019,
+   "pack_docs": 17,
+   "chars": 66233
+  },
+  {
+   "id": "Q1",
+   "gold_docs": 32,
+   "doc_recall": 0.156,
+   "gold_lines": 94,
+   "line_recall": 0.043,
+   "pack_docs": 23,
+   "chars": 66500
+  },
+  {
+   "id": "Q2",
+   "gold_docs": 13,
+   "doc_recall": 0.0,
+   "gold_lines": 43,
+   "line_recall": 0.0,
+   "pack_docs": 18,
+   "chars": 19963
+  },
+  {
+   "id": "Q3",
+   "gold_docs": 39,
+   "doc_recall": 0.077,
+   "gold_lines": 160,
+   "line_recall": 0.025,
+   "pack_docs": 11,
+   "chars": 66592
+  },
+  {
+   "id": "Q4",
+   "gold_docs": 26,
+   "doc_recall": 0.038,
+   "gold_lines": 69,
+   "line_recall": 0.014,
+   "pack_docs": 11,
+   "chars": 67797
+  },
+  {
+   "id": "Q5",
+   "gold_docs": 33,
+   "doc_recall": 0.212,
+   "gold_lines": 114,
+   "line_recall": 0.009,
+   "pack_docs": 22,
+   "chars": 68509
+  },
+  {
+   "id": "Q6",
+   "gold_docs": 7,
+   "doc_recall": 0.714,
+   "gold_lines": 11,
+   "line_recall": 0.545,
+   "pack_docs": 18,
+   "chars": 66440
+  },
+  {
+   "id": "Q7",
+   "gold_docs": 10,
+   "doc_recall": 0.2,
+   "gold_lines": 15,
+   "line_recall": 0.133,
+   "pack_docs": 17,
+   "chars": 67804
+  },
+  {
+   "id": "Q8",
+   "gold_docs": 15,
+   "doc_recall": 0.533,
+   "gold_lines": 21,
+   "line_recall": 0.048,
+   "pack_docs": 20,
+   "chars": 68248
+  },
+  {
+   "id": "Q9",
+   "gold_docs": 19,
+   "doc_recall": 0.474,
+   "gold_lines": 23,
+   "line_recall": 0.043,
+   "pack_docs": 39,
+   "chars": 67908
+  }
+ ]
+}
