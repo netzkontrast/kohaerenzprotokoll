@@ -50,10 +50,6 @@ READER = "<!-- reader:"
 ROW = re.compile(r"^\| `(?P<term>(?:[^`]|``)+)` \^\[(?P<slug>[A-Za-z0-9\-]+)\.md:#(?P<n>\d+)\] "
                  r"\| (?P<word>\d+) \| (?P<inside>\d+) \|", re.M)
 QUOTE = re.compile(r"„(?P<quote>[^„“]{1,400})[“\"]")
-HEADER = """> **This file describes one document and nothing else.** No count, comparison or
-> expectation from any other source appears here. Comparing documents is a
-> separate step, and mixing the two is what lets a term look unimportant in the
-> document where it conflicts."""
 
 
 def grouped(candidates_md: str) -> tuple[list[str], list[str]]:
@@ -118,19 +114,19 @@ def draft(slug: str, runs: Path = RUNS) -> str:
     counts = counts_json["counts"]
     named, lens = grouped((run / "03-candidates.md").read_text(encoding="utf-8"))
     text, _ = body_of(slug)
+    # `census_frontmatter` writes the frontmatter, the title, the one-document header
+    # and the structural profile. Until R1 of the reader lab (2026-09-30) `draft`
+    # wrote the last three again after it.
     front = prof.census_frontmatter(slug)
     front = re.sub(r"^candidates: .*$", f"candidates: {len(counts)}    # the terms capture.py counted",
                    front, flags=re.M)
-    title = re.search(r'^title: "?(.*?)"?$', front, re.M).group(1)
     zero = [t for t in named + lens if t in counts and counts[t]["n"] == 0]
     differ = [t for t in named + lens if t in counts and counts[t]["n"] and
               counts[t]["n"] != counts[t]["n_including_compounds"]]
     prose = counts_json.get("read_as_prose") or []
     unplaced = [t for t in named + lens if t in counts and QUOTE.search(t)
                 and len(QUOTE.findall(t)) > len(re.findall(r"\^\[L", cited(slug, t, counts[t]["lines"])))]
-    out = [front.rstrip("\n"), "", f"# Term census — {title}", "", HEADER, "",
-           "## Structural profile", "", f"`python3 scripts/profile.py {slug}`", "", "```",
-           prof.render(prof.profile(document(slug))).split("\n", 1)[1].rstrip("\n"), "```", "",
+    out = [front.rstrip("\n"), "",
            "## Stance, read per passage", "",
            f"{READER} how the document speaks, passage by passage, each passage with its lines. "
            "What it marks as a plan, a report, a lock or a question, in its own words. -->", "",
@@ -240,6 +236,9 @@ def selftest() -> int:
     counts = json.loads((RUNS / slug / "counts.json").read_text(encoding="utf-8"))["counts"]
     cases.append(("every counted term has a row", all(f"| `{t}` ^[{slug}.md:#" in text for t in counts)))
     cases.append(("the draft carries both reader marks", text.count(READER) == 2))
+    cases.append(("one title, one header, one profile",
+                  text.count("\n# Term census — ") == 1 and text.count("describes one document and nothing else") == 1
+                  and text.count("\n## Structural profile\n") == 1))
     with tempfile.TemporaryDirectory() as tmp:
         f = Path(tmp) / "census.md"
         f.write_text(text, encoding="utf-8")
